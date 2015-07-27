@@ -31,10 +31,13 @@ skill or project outcomes without a clear upward trend.
 A Turing student contributes significantly to group projects, helps the team
 develop their technical skills, and delivers a high-quality product.
 
-* 4:
-* 3:
-* 2:
-* 1:
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+* 2: Student participates somewhat in their group work but is either not a
+dependable member of the team or achieves consistently sub-par work.
+* 1: Student is not a valuable member of their teams.
 
 ## Community Participation
 
