@@ -65,7 +65,20 @@ In this seven-day project I took a pivoted project, added a million rows in the 
 
 I participated in the following team projects:
 
-https://github.com/kristinabrown/tetris
+#### Game Time: Disco Tetris
+
+* [GitHub URL](https://github.com/kristinabrown/tetris)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+
+In this 7-day-long project We built a mostly functional disco tetris game. This was a pure JavaScript project. It was evaluated by Jeff:
+
+"I think your game gave me a headache."
+
+Functional Expectations: 3
+Test-Driven Development: 3
+Breaking Logic Into Components: 3
+Fundamental JS and Style: 3
+Code Sanitation: 3
 
 ### Feedback to Me
 
@@ -76,15 +89,12 @@ module and I think they still do.
 
 ### Giving Feedback
 
-According to the Feedback application:
-
-* I delivered 100% of the requested feedback
-* 96% of those submissions were approved and delivered
-* 84% of my submissions were meaningful to the recipient
+TBD
 
 ### Playing a Part
 
 * On Monday, July 13, I wrote a blog about Collaboration
 * On Tuesday, July 21, I helped a group of 1507ers tackle linked lists
+* On Sunday, July 26, I helped a Regis get his enigma classes to communicate
 * On Friday, July 31, I delivered a thunder-lightning talk about working in groups
 * On everyday, I do dishes
