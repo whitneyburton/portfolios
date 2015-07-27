@@ -9,27 +9,35 @@ A submission summarizes your accomplishments in these key areas:
 * Team
 * Community
 
-Find a sample portfolio in `SAMPLE.markdown` in this repo. You can copy the
-content of `STRUCTURE.markdown` as a starting point, then fill in your own content.
+## Authoring Process
 
-### Filename & Directory
+* Carefully read the `submission_guidelines.markdown` to understand how your
+portfolio should be written/submitted
+* Read a sample portfolio in `sample.markdown` in this repo
+* Copy the content of `structure.markdown` as a starting point
+* Fill in and submit your own content.
 
-The file should be 
-saved in the format `"date-name-completing.markdown"` where:
+## Evaluation Process
 
-* `date` is the last day of the module in compressed year/month/day, like `20150831`
-* `name` is your first and last name like `jeff_casimir`
-* `completing` is the module that you're completing, like `m4`
+Your portfolio will be evaluated in the last week of the module by a panel of
+at least two instructors. During this 15-minute session the reviewers will:
 
-So a complete filename might look like `20150831-jeff_casimir-m4.markdown`. This
-file needs to be stored in a directory `portfolios/students/your_name` where
-`your_name` is like `jeff_casimir`.
+* Read your portfolio
+* Ask questions
+* Use a rubric (`rubric.markdown`) to assess the quality of your work
+* Render a promotion decision
+* Record notes and the decision in your portfolio
 
-If you were completing Module 4 on August 31, 2015 and your name was Jeff Casimir, your portfolio submission would reside at the following location: `portfolios/students/jeff_casimir/20150831-jeff_casimir-m4.markdown`.
+## Outcomes
 
+Portfolio evaluations have three possible outcomes:
 
-### Submission
-
-A pull request with your submission must be made at least 12 hours before your
-scheduled defense. Non-conforming formats, filenames, or directories will be
-rejected and your defense rescheduled.
+* *PROMOTED* - your portfolio demonstrates a successful fulfillment of expectations
+and you make move on to the next module or graduate
+* *RETAINED* - your portfolio is lacking in one or more areas and you may either
+repeat the current module or leave the program
+* *EXCUSED* - your portfolio is lacking in one or more areas and either (a) you've
+now failed to pass the module in two attempts or (b) the reviewers have determined
+that you will not be successful at Turing
+* *PENDING* - your portfolio is incomplete or non-conforming and will be re-evaluated
+as soon as possible. If it is incomplete after 24 hours it will be moved to *RETAINED* or *EXCUSED*
