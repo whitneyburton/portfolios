@@ -18,10 +18,13 @@ with the module's content and expectations.
 A Turing student works to maximize their skill growth and demonstrates
 that skill across a variety of work.
 
-* 4:
-* 3:
-* 2:
-* 1:
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+* 2: Student demonstrates some lack of engagement or growth in their individual
+skill or project outcomes without a clear upward trend.
+* 1: Student does not show the commitment expected of Turing students.
 
 ## Group Work & Projects
 
