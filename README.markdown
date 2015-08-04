@@ -9,6 +9,14 @@ A submission summarizes your accomplishments in these key areas:
 * Team
 * Community
 
+## Note on Feedback for Week of 8/14
+
+For the module cycle ending the week of 8/14 we're still in the process of
+implementing a robust feedback system. For the feedback prompts you should do
+the best you can to characterize feedback you've received and given. It'd be
+ideal to gather your own quotes from teammates/classmates either via submitted
+anonymous feedback you've received or directly asking them for feedback.
+
 ## Authoring Process
 
 * Carefully read the `submission_guidelines.markdown` to understand how your
