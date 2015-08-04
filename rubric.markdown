@@ -45,10 +45,13 @@ A Turing student builds up the community around them by participating and
 supporting other students, the larger Turing family, and persons outside our
 walls who want to develop their own skills.
 
-* 4:
-* 3:
-* 2:
-* 1:
+* 4: Student has a significant impact on the learning and spirit of the
+people around them.
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+* 2: Student participates in most required community activities (demos, lightning talks, etc)
+but does not do anything else of significance.
+* 1: Student stays in their lane and focuses just on their own learning.
 
 ## Peer & Instructor Feedback
 
