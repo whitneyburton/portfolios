@@ -1,9 +1,9 @@
 # Portfolio Rubric
 
-Your portfolio will be evaluated using the following rubric. You need at least
-a three in each category to earn promotion/graduation.
+Your portfolio will be evaluated using the following rubric. Earning at least
+a three in each category is the baseline for promotion/graduation.
 
-## End-of-Module Assessment
+## A: End-of-Module Assessment
 
 A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations.
@@ -13,7 +13,7 @@ with the module's content and expectations.
 * 2: Student earned one score below "3" on the assessment
 * 1: Student earned two or more scores below "3" on the assessment
 
-## Individual Work & Projects
+## B: Individual Work & Projects
 
 A Turing student works to maximize their skill growth and demonstrates
 that skill across a variety of work.
@@ -26,7 +26,7 @@ evaluations of each project or a clearly upward-sloping trend.
 skill or project outcomes without a clear upward trend.
 * 1: Student does not show the commitment expected of Turing students.
 
-## Group Work & Projects
+## C: Group Work & Projects
 
 A Turing student contributes significantly to group projects, helps the team
 develop their technical skills, and delivers a high-quality product.
@@ -39,13 +39,13 @@ while achieving consistently satisfactory results.
 dependable member of the team or achieves consistently sub-par work.
 * 1: Student is not a valuable member of their teams.
 
-## Community Participation
+## D: Community Participation
 
 A Turing student builds up the community around them by participating and
 supporting other students, the larger Turing family, and persons outside our
 walls who want to develop their own skills.
 
-* 4: Student has a significant impact on the learning and spirit of the
+* 4: Student has a significant positive impact on the learning and spirit of the
 people around them.
 * 3: Student participates in required activities and does at least one or two
 above-and-beyond supports of the community.
@@ -53,13 +53,17 @@ above-and-beyond supports of the community.
 but does not do anything else of significance.
 * 1: Student stays in their lane and focuses just on their own learning.
 
-## Peer & Instructor Feedback
+## E: Peer & Instructor Feedback
 
-A Turing student accelerates the learning of those around
+A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
-own learning by taking in and acting on the feedback of their peers and instructors.
+own growth by taking in and acting on the feedback of their peers and instructors.
 
-* 4:
-* 3:
-* 2:
-* 1:
+* 4: Student helps others to be their best selves while using peer feedback
+to shape their own character and behavior.
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+* 2: Student gives meaningful impact to peers as well as being aware of themes
+in the feedback they receive.
+* 1: Student does not consistently participate in or construct meaningful peer
+feedback.
