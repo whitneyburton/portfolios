@@ -14,7 +14,7 @@ A submission summarizes your accomplishments in these key areas:
 * Carefully read the `submission_guidelines.markdown` to understand how your
 portfolio should be written/submitted
 * Read a sample portfolio in `sample.markdown` in this repo
-* Copy the content of `structure.markdown` as a starting point
+* Copy the content of `template.markdown` as a starting point
 * Fill in and submit your own content.
 
 ## Evaluation Process
@@ -24,7 +24,7 @@ at least two instructors. During this 15-minute session the reviewers will:
 
 * Read your portfolio
 * Ask questions
-* Use a rubric (`rubric.markdown`) to assess the quality of your work
+* Use the rubric (`rubric.markdown`) to assess the quality of your work
 * Render a promotion decision
 * Record notes and the decision in your portfolio
 
