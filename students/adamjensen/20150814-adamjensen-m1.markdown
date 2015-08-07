@@ -6,7 +6,19 @@ I started Turing with self-practice and study focused on Javascript. This mostly
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My primary goal entering M1 was to learn Ruby and TDD. In the last 6 weeks, I feel like I have adequately learned the following Ruby fundamentals:
+* Strings and Integers
+* Arrays
+* Hashes
+* Enumerables
+* Object-Oriented-Design basics
+* Call Stacks, Scopes, execution control
+* the Ruby Object Model
+
+I also worked on soft skills such as:
+* Pairing
+* Communication
+* Approaching problems with systematic logic
 
 ### End of Module Assessment
 
@@ -14,30 +26,21 @@ I started Turing with self-practice and study focused on Javascript. This mostly
 
 ### Attendance
 
-(I did not miss any time time during Module 1.)
+I did not miss any time time during Module 1. There were no tardy or absent occurrences.
 
 ### Work
 
-(Intro)
+I completed the following projects this module:
 
-#### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 ## Team
 
+No Team projects wre assigned in M1.
+
 ### Projects
 
-(Intro)
-
-#### (Project Name)
+####  Enigma
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -48,7 +51,27 @@ I started Turing with self-practice and study focused on Javascript. This mostly
 
 (evaluation scores)
 
-(feedback to me)
+#### Linked List
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Chisel for Foxtrot), (Robodoku & SalesEngine the SQL)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
 
 ## Community
 
