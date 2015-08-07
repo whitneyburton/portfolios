@@ -4,7 +4,9 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Besides learning rails, sinatra, css, html, activerecord, and like a million other module 2 things, 
+I didn't want to let my ruby skills decay. Accordingly, I did a bunch of exercisms to help keep my ruby
+knowledge fresh. https://github.com/MaxMillington/exercism 
 
 ### End of Module Assessment
 
@@ -12,35 +14,40 @@
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+I was here on time every day. 
 
 ### Work
 
-(Intro)
+These are the two projects I worked on this module.
 
-#### (Project Name)
+#### Traffic Spy
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/Drew242/traffic-spy-skeleton)
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/traffic_spy.html)
 
-(description)
+In this project, we used Ruby, Sinatra, and ActiveRecord to build a web traffic tracking and analysis tool.
+ We learned how to receive data via HTTP and build a machine that constructed and transmitted HTTP requests.
 
-(evaluation comments)
+Josh M. evaluated us.
 
-(evaluation scores)
+* Functional Expectations: 3.5
+* TDD: 4
+* Encapsulations/Components: 3.5
+* Fundamental Ruby and Style: 3
+* Sinatra/Web and Business Logic: 3
+* View Layer: 3.5
 
-## Team
+        
+#### Feedback to Me
 
-### Projects
+    My teammates said I was good at asking probing questions and keeping the group on track.
 
-(Intro)
+#### Endangerous Outfitters
 
-#### (Project Name)
+* [GitHub URL](https://github.com/Alex-Tideman/endangerous_outfitters)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
+In this project, we utilized our new rails knowledge to build an app that allows visitors to purchase different trips.
 
 (evaluation comments)
 
@@ -48,15 +55,18 @@
 
 (feedback to me)
 
+#### Feedback to Me
+
+
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+ I gave feedback to my group. 
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+    * I delivered a lightning talk on Pizza.
 
 ## Review
 
