@@ -15,18 +15,17 @@ with JavaScript. I did 2 Exercisms each week, varying Ruby and JavaScript, and a
 took on a self-directed project that was challenging and pushed me outside my front-end comfort
 zone.
 
-### End of Module Assessment
+### End of Module Assessment/Self-Directed Project
 
-* Ruby Syntax: 3
-* Rails Basics: 3
-* Javascript Basics: 3
-* Workflow: 4
-* Collaboration: 3
+* Ruby Syntax:
+* Rails Basics:
+* Javascript Basics:
+* Workflow:
+* Collaboration:
 
 ### Attendance
 
-This module I attended all days and classes on-time with the exception of an
-absence on Friday, May 3d.
+This module I attended all days and classes on-time with no tardies or absences.
 
 ### Work
 
