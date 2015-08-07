@@ -26,8 +26,8 @@ I completed the following individual work this module:
 
 #### Revenge of Idea Box
 
-* [GitHub URL](https://github.com/kristinabrown/idea-box)
-* [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/4fdd6da8e2e431beeb77012e271de1eee90d5e07/source/projects/revenge_of_idea_box.markdown)
+* https://github.com/kristinabrown/idea-box
+* https://github.com/JumpstartLab/curriculum/blob/4fdd6da8e2e431beeb77012e271de1eee90d5e07/source/projects/revenge_of_idea_box.markdown
 
 In this 4-day-long project I built an idea box that used jquery and JavaScript to 
 add, update, and delete ideas without refreshing the whole page. It was evaluated by Patrick:
@@ -43,8 +43,8 @@ add, update, and delete ideas without refreshing the whole page. It was evaluate
 
 #### Scale Up
 
-* [GitHub URL](https://github.com/kristinabrown/scale-up)
-* [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown)
+* https://github.com/kristinabrown/scale-up
+* https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown
 
 In this seven-day project I took a pivoted project, added a million rows in the data base, and improved its performace. It was evaluated by Steve with the following results:
 
@@ -67,10 +67,10 @@ I participated in the following team projects:
 
 #### Game Time: Disco Tetris
 
-* [GitHub URL](https://github.com/kristinabrown/tetris)
-* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+* https://github.com/kristinabrown/tetris
+*  https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown
 
-In this 7-day-long project We built a mostly functional disco tetris game. This was a pure JavaScript project. It was evaluated by Jeff:
+In this 7-day-long project we built a mostly functional disco tetris game. This was a pure JavaScript project. It was evaluated by Jeff:
 
 "I think your game gave me a headache."
 
@@ -79,6 +79,33 @@ Test-Driven Development: 3
 Breaking Logic Into Components: 3
 Fundamental JS and Style: 3
 Code Sanitation: 3
+
+##### My Contribution
+We didn't really split up the responsibilities in this project. The three of us paired most of the time because it was all pretty new to all of us.
+
+##### Takeaway
+* Object oriented programing is really, really important.
+* If you recognize a problem early on you should just fix it because it'll get exponentially worse as you go on.
+
+#### Final Project: Turing Scavenger Hunt
+
+* https://github.com/eric-dowty/scavenger-hunt
+
+In this 2 week project we built the Turing Scavenger Hunt app. It's a real time rails app that uses Redis and Node to send immediate updates.
+
+Functional Expectations: 
+Test-Driven Development: 
+Breaking Logic Into Components: 
+Fundamental JS and Style: 
+Code Sanitation: 
+
+##### My Contribution
+We did extensive planning on the project all together. I set up the submission model, hooked that up to AWS. I was also in charge of setting up the views, and doing the mobile first design.
+
+##### Takeaway
+* Planning something well makes a huge difference with collaboration and workflow (things went pretty smoothly)
+* 
+* 
 
 ### Feedback to Me
 
