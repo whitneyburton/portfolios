@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+TBD
 
 ### End of Module Assessment
 
