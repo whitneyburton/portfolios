@@ -1,4 +1,4 @@
-# Jeff Ruane - M1 Portfolio
+# (Your Name) - (M1/M2/M3/M4) Portfolio
 
 ## Individual
 
@@ -12,50 +12,33 @@
 
 ### Attendance
 
-I had no absences or tardies this module.
+(Summary of any missed time 1/2 day or more)
 
 ### Work
 
-This module I worked on Chisel and Linked Lists individually.
+(Intro)
 
-#### Linked List
+#### (Project Name)
 
-[GitHub URL](https://github.com/jbrr/linked_list)  
-[Assignment](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
+* [GitHub URL]()
+* [Original Assignment]()
 
-I was evaluated by Jeff and got the following scores:
+(description)
 
-1. Functional Expectations                       : 3
-2. Test-Driven Development                       : 3
-3. Encapsulation / Breaking Logic into Components: 3
-4. Fundamental Ruby & Style                      : 3
-5. Looping *or* Recursion                        : 3
+(evaluation comments)
 
-#### Chisel
-
-[GitHub ](https://github.com/jbrr/chisel)  
-[Original Assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/chisel.markdown)
-
-I was evaluated by Mike and got the following scores:
-
-1. Fundamental Ruby & Style      : 3
-2. Test-Driven Development       : 2
-3. Functionality                 : 3
-4. Breaking Logic into Components: 3
-
-It wasn't strong on TDD, and I made that a goal for later projects.
-
+(evaluation scores)
 
 ## Team
 
 ### Projects
 
-I worked on Enigma and Sales Engine as team projects this module.
+(Intro)
 
-#### Sales Engine
+#### (Project Name)
 
-* [GitHub URL](https://github.com/tjkomor/sales_engine)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
+* [GitHub URL]()
+* [Original Assignment]()
 
 (description)
 
@@ -64,17 +47,6 @@ I worked on Enigma and Sales Engine as team projects this module.
 (evaluation scores)
 
 (feedback to me)
-
-#### Enigma
-* [Github URL](https://github.com/Unsafepond/Enigma-new)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
-
-I was evaluated by Josh with the following scores:
-
-1. Functionality: 2
-2. Fundamental Ruby and Style: 3+
-3. Test-Drive Development: 3
-4. Breaking Logic into Components: 3+
 
 ## Community
 
