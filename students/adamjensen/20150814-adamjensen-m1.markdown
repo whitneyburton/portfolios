@@ -2,6 +2,8 @@
 
 ## Individual
 
+I started Turing with self-practice and study focused on Javascript. This mostly consisted of online tutorials and begging approachable devs to teach me. I am happy to say that I have finally stepped outside of browser IDEs and am now working in Ruby. I started with *zero* Ruby skills knowledge on July 6, 2015. I have since completed the following projects and fully understand all work that was submitted. A main goal of mine was to make sure that I only included code that I was able to understand. I was able to use self-management skills to make the most of the past 6 weeks 'keep up' with the curriculum.
+
 ### Areas of Emphasis
 
 (What did you set out to accomplish this module?)
