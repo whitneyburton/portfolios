@@ -42,7 +42,7 @@ No Team projects wre assigned in M1.
 
 ####  Enigma
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/NicoleHall/Enigma-Project)
 * [Original Assignment]()
 
 (description)
@@ -53,30 +53,36 @@ No Team projects wre assigned in M1.
 
 #### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/adamki/linked-lists)
+* [Original Assignment](https://github.com/turingschool/data_structures_and_algorithms/tree/master/linked_lists)
 
-(description)
+Still, in my opinion, the hardest project of my Turing experience so far. However, quickyl realized that also the most important lesson to learn so far.
 
-(evaluation comments)
+* Struggled early, but later parts made more sense without help
+* Good tests needs some edge case work
+* Good functionality
+* Some spots for better refactoring/encapsulation
 
-(evaluation scores)
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
-#### Chisel for Foxtrot
+#### Chisel
 
 * [GitHub URL](https://github.com/adamki/chisel)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 
 In this project I built a Markdown Parser. This was great fun and I thought it was a good learning lesson.
 
-Eval comments
-Program runs.
-No extensions
-Chisel class has no methods, just code.
-Some mixing of logic.
-HTML output has extraneous brackets and new lines.
+* Program runs.
+* No extensions
+* Chisel class has no methods, just code.
+* Some mixing of logic.
+* HTML output has extraneous brackets and new lines.
 
-Eval scores
+
 * Fundamental Ruby & Style: 3
 * Test-Driven Development: 3
 * Functionality: 2.5
