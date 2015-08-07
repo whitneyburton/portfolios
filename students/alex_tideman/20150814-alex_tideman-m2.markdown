@@ -26,18 +26,20 @@ I completed the following individual work this module:
 
 #### PointBox
 
-* [GitHub URL](https://github.com/jcasimir/robodoku)
-* [Original Assignment](http://github.com/turingschool/challenges/robodoku.markdown)
+* [GitHub URL](https://github.com/Alex-Tideman/pointBox)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
-In this week-long project I built a sudoku-solving machine. It was
-evaluated by Steve with the following results:
+In this weekend project I built a Rails application that allows users to login to see their points,
+redeem them for awards, and see their history of awards. An Admin can login and give points to users and
+create rewards for them to redeem.
 
-"Good object decomposition, but it only solves the easiest of puzzles."
+#### My Jams
 
-* Ruby Syntax: 3
-* Decomposition: 4
-* Functionality: 2
-* Test-Driven Development: 3
+* [GitHub URL](https://github.com/Alex-Tideman/my_jams)
+* [Original Assignment](https://github.com/turingschool/challenges/my-jams.markdown)
+
+In this project I built a Rails application that allows users to login to see their favorite songs, play
+the songs throw the SoundClound embedded player, and add more songs.
 
 ## Team
 
@@ -53,7 +55,7 @@ I participated in the following team projects:
 In this week-long project my team implemented a Sinatra web application that collected traffic data
 and displayed different metrics on the data. It was evaluated by Josh with the following results:
 
- Notes: Really solid project. Naturally using presenter pattern.
+* Notes: Really solid project. Naturally using presenter pattern.
 
 * Functional Expectations: 4
 * Test-Driven Development: 3.5
@@ -65,10 +67,12 @@ and displayed different metrics on the data. It was evaluated by Josh with the f
 #### Little Shop of Orders
 
 * [GitHub URL](https://github.com/Alex-Tideman/endangerous_outfitters)
-* [Original Assignment](http://github.com/turingschool/challenges/traffic_spy.markdown)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 In this two week project my team implemented a Rails web application that allowed users to shop for
-extreme guided tours, place them into a cart, and order them.
+extreme guided tours by destination, activity or trip,place them into a cart, and order them.
+I was the team lead for the project and was responsible for client interaction and keeping the project on schedule.
+
 It was evaluated by ______ with the following results:
 
 * Functional Expectations:
@@ -82,11 +86,8 @@ https://github.com/turingschool/feedback
 
 ### Feedback to Me
 
-In the previous module feedback from my peers encouraged me to ask for help
-more frequently rather than get stuck and stay there. This module I set a timer
-when I ran into a problem and, if I got to 20 minutes without progress, I'd ask
-for help. My feedback this module showed improvement and teammates said I'm a
-better collaborator.
+In the previous module feedback .....
+
 
 ## Community
 
@@ -100,9 +101,8 @@ According to the Feedback application:
 
 ### Playing a Part
 
-* On Friday, June 20, I ran a student-led workshop on Tweaking Your Text Editor
-* On Friday, June 27, I delivered a lightning talk "Hello, Mr. Roboto"
-* On Wednesday, June 30, I delivered "Hello, Mr. Roboto" at Community Night
-* On Saturday, July 15, I organized a bike ride attended by seven Turing students
-* On Thursday, July 24, I published a blog post "How To Link Your Lists" on my
-personal blog and it was included in that week's Posse Post
+* On Friday, July 17, I delivered a lightning talk "Bolide Detection Systems"
+* Every morning I assisted with my Posse mates on the warmup problems
+* On the week of July 20th, I paired with 1507 groups on their Linked List project
+
+
