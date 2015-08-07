@@ -18,8 +18,6 @@ using it.
 I have not missed a day during M3, or have been tardy. I will miss a day on
 Friday, Aug. 14th for a wedding.
 
-## Individual
-
 ### Projects
 
 #### APIcurious
