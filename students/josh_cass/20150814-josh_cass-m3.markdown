@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Josh Cass - M3 Portfolio
 
 ## Individual
 
@@ -12,39 +12,64 @@
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+I always strive to attend classes on time and be attentive.
+I missed a 1/2 day on July 6 for a Dr. appointment.
+I missed a full day on July 24 for a wedding I had to travel to.
+I missed out on the field day portion of July 31 for a follow up Dr. appointment.
 
 ### Work
 
-(Intro)
+I completed the following individual assignments this module.
 
-#### (Project Name)
+#### API Curious
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/joshcass/api_curious)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
 
-(description)
+This was a short project where I implemented a scaled-down clone of a twitter user's home page. It was evaluated by Horace with the following results:
 
-(evaluation comments)
+No evaluation comments were given.
 
-(evaluation scores)
+* Server-Side Application and APIs: 3
+* Test-Driven Development: 4 
+* Features: 4
+* Interface: 3
+
+#### Rales Engine
+
+* [GitHub URL](https://github.com/joshcass/rales_engine)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rales_engine.markdown)
+
+This was another short project where I designed an API to serve sales engine data. It was evaluated by Austen with the following results:
+
+No evaluation comments were given.
+
+* Completion: 2
+* Rails and ActiveRecord Style: 3
+* Ruby Style and Code Quality: 3
+* API Design: 3
+* Test Driven Design: 1
 
 ## Team
 
 ### Projects
 
-(Intro)
+This module we only had one team project I was teamed up with Drew Reynolds, Rob Cornell, and Erik Butcher.
 
-#### (Project Name)
+#### Supper Skip
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/NYDrewReynolds/pivot)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/supper_skip.markdown)
 
-(description)
+This was a nearly 2 week project where we were given a dinner dash code-base from a previous cohort and had to turn it into a multi-tenancy platform. It was evaluated by Jorge with the following results:
 
-(evaluation comments)
+No evaluation comments were given.
 
-(evaluation scores)
+Feature Completion - 2
+Project Organization - 4
+Test-Driven Development - 4
+Code Quality - 2.5
+User Experience - 2
 
 (feedback to me)
 
