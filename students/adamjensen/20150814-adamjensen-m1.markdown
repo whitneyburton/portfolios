@@ -43,13 +43,19 @@ No Team projects wre assigned in M1.
 ####  Enigma
 
 * [GitHub URL](https://github.com/NicoleHall/Enigma-Project)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-(description)
+Good project. Loved using Enigma as a springboard to learning how classes/objects connect. I also learned that pairing is hard.
 
-(evaluation comments)
+Does encrypting, decrypting, cracking in under 1 second
+Does not print the correct key
+Watch whitespace
+Tests don't pass
 
-(evaluation scores)
+* Functionality:3
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Breaking Logic into Components: 3
 
 #### Linked List
 
