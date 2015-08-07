@@ -7,6 +7,7 @@ I started Turing with self-practice and study focused on Javascript. This mostly
 ### Areas of Emphasis
 
 My primary goal entering M1 was to learn Ruby and TDD. In the last 6 weeks, I feel like I have adequately learned the following Ruby fundamentals:
+
 * Strings and Integers
 * Arrays
 * Hashes
@@ -16,6 +17,7 @@ My primary goal entering M1 was to learn Ruby and TDD. In the last 6 weeks, I fe
 * the Ruby Object Model
 
 I also worked on soft skills such as:
+
 * Pairing
 * Communication
 * Approaching problems with systematic logic
@@ -31,8 +33,6 @@ I did not miss any time time during Module 1. There were no tardy or absent occu
 ### Work
 
 I completed the following projects this module:
-
-
 
 ## Team
 
@@ -62,16 +62,25 @@ No Team projects wre assigned in M1.
 
 (evaluation scores)
 
-#### Chisel for Foxtrot), (Robodoku & SalesEngine the SQL)
+#### Chisel for Foxtrot
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/adamki/chisel)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 
-(description)
+In this project I built a Markdown Parser. This was great fun and I thought it was a good learning lesson.
 
-(evaluation comments)
+Eval comments
+Program runs.
+No extensions
+Chisel class has no methods, just code.
+Some mixing of logic.
+HTML output has extraneous brackets and new lines.
 
-(evaluation scores)
+Eval scores
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Functionality: 2.5
+* Breaking Logic into Components:3
 
 ## Community
 
