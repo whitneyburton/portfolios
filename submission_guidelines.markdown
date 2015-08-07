@@ -17,4 +17,6 @@ So a complete filename might look like `20150831-jeff_casimir-m4.markdown`. This
 file needs to be stored in a directory `portfolios/students/your_name` where
 `your_name` is like `jeff_casimir`.
 
-If you were completing Module 4 on August 31, 2015 and your name was Jeff Casimir, your portfolio submission would reside at the following location: `portfolios/students/jeff_casimir/20150831-jeff_casimir-m4.markdown`.
+If you were completing Module 4 on August 31, 2015 and your name was Jeff Casimir, 
+your portfolio submission would reside at the following location: 
+`portfolios/students/jeff_casimir/20150831-jeff_casimir-m4.markdown`.
