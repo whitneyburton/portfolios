@@ -1,10 +1,14 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Rick Bacci - M3 Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Coming into this module I wanted to continue to focus on maintaining  a
+professional project workflow. This applies to both individual and group
+projects. I also wanted to continue to improve on understanding the rest of
+my teams thought process, and making sure that I am able to communicate my
+thoughts as well.
 
 ### End of Module Assessment
 
@@ -12,11 +16,12 @@
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+* 06/18/2015 - Rick Bacci: All day, sick
+* 07/29/2015 - Rick Bacci: All day, not feeling well
 
 ### Work
 
-(Intro)
+I completed the following individual work this module:
 
 #### (Project Name)
 
