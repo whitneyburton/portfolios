@@ -41,7 +41,7 @@ at least two instructors. During this 15-minute session the reviewers will:
 Portfolio evaluations have three possible outcomes:
 
 * *PROMOTED* - your portfolio demonstrates a successful fulfillment of expectations
-and you make move on to the next module or graduate
+and you may move on to the next module or graduate
 * *RETAINED* - your portfolio is lacking in one or more areas and you may either
 repeat the current module or leave the program
 * *EXCUSED* - your portfolio is lacking in one or more areas and either (a) you've
