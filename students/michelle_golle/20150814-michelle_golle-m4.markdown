@@ -4,10 +4,7 @@
 
 ### Areas of Emphasis
 
-Coming into this module I felt weak on JavaScript. I used Exercism three times
-per week, read the "Eloquent JavaScript" book, and tried to apply these concepts
-in my individual and team projects. In the end I feel much more comfortable with
-JavaScript.
+Coming into this module I felt weak on JavaScript. After our classes this module along with many Egghead videos/tutorials I feel much more confident.
 
 ### End of Module Assessment
 
@@ -84,11 +81,15 @@ Breaking Logic Into Components: 3
 Fundamental JS and Style: 3
 Code Sanitation: 4
 
+### Feedback to Me
+
+Feedback from both peers and staff encouraged me to speak up more often and be sure to make my ideas heard. This module I incorporated that feedback and made an effort to do so in group projects, class and during retros.
+
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+TBD
 
 ### Playing a Part
 
