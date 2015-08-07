@@ -4,9 +4,9 @@
 
 ### Areas of Emphasis
 
-I was excited to continue the momentum of Module 1 and move into learning how to build web applications using Sinatra and Rails. I had built Rails 3.2 apps a few years ago and really looked forward to pushing to Heroku again. After my first team project in Module 1, I learned that I needed to be more forward with expectations and planning for group projects.  Starting with Traffic Spy, as a group we developed user stories about what we were going to accomplish. I then used Balsamiq to create wireframes to verify with the group that we were all on the same page as far as url structure and content to be displayed. The interactive wireframes were a successful tool for our group to validate how the words we were reading would be transferred to the web.
+One of my challenges coming out of Module 1 was to not be paralyzed into non-action from a problem in terms of code. I wanted to continue breaking down problems into small manageble chunks. Starting with Traffic Spy, I focused on using tools that Ii used in the past of client work both in technology and construction. Visual plans. So as a group we developed our user stories about what we were going to accomplish. I then used Balsamiq to create wireframes to verify with the group that we were all on the same page as far as url structure and content to be displayed. The interactive wireframes were a successful tool for our group to validate how the words we were reading would be transferred to the web.
 
-I then asked the group if it was ok for me to build the html structure for each page using Bootstrap and they agreed. The ability to visually see placeholders for each piece of functionality was key to a very smooth and successful team project. We developed a plan and could see visually what the next step would be. An added benefit was that it was more fun to write the code when it looked good on the web. Our project workflow was smooth, fun and enjoyable.
+I then asked the group if it was ok for me to build the html structure for each page using Bootstrap and they agreed. The ability to visually see placeholders for each piece of functionality was key to a very smooth and successful team project driven by TDD. We developed a plan and could see visually what the next step would be. An added benefit was that it was more fun to write the code when it looked good on the web. Our project workflow was smooth, fun and enjoyable.
 
 ### End of Module Assessment
 
@@ -40,13 +40,22 @@ I then asked the group if it was ok for me to build the html structure for each 
 #### (Project Name)
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/5cd41b3635cc4d32431032d42bcfc9f7da3135d5/source/projects/traffic_spy.markdown)
 
 (description)
 
-(evaluation comments)
+Josh M. - "Really solid project. Naturally using presenter pattern.""
 
-(evaluation scores)
+Team: Adam, Alex, Michael, Samson:
+valuation: Josh M.
+      notes: Really solid project. Naturally using presenter pattern.
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 3.5
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 4
+        View Layer: 3
 
 (feedback to me)
 
