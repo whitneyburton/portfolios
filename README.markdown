@@ -17,6 +17,36 @@ the best you can to characterize feedback you've received and given. It'd be
 ideal to gather your own quotes from teammates/classmates either via submitted
 anonymous feedback you've received or directly asking them for feedback.
 
+Here are some notes about expectations for this cycle:
+
+### Module 1
+
+* Individual Assessment: Yes
+* Required Project: SalesEngine
+* Included Projects: Enigma, (Linked List & Chisel for Foxtrot), (Robodoku & SalesEngine the SQL)
+* Feedback: Self-Solicited
+
+### Module 2
+
+* Individual Assessment: Tuesday & Wednesday
+* Required Project: None
+* Included Projects: TrafficSpy, Little Shop of Orders
+* Feedback: May have some feedback from TrafficSpy and LSoO if delivered
+
+### Module 3
+
+* Individual Assessment: None
+* Required Project: Self-Directed Project
+* Included Projects: APIcurious, SupperSkip
+* Feedback: Self-Solicited
+
+### Module 4
+
+* Individual Assessment: Yes
+* Required Project: Mastery Project
+* Included Projects: GameTime, ScaleUp
+* Feedback: Self-Solicited
+
 ## Authoring Process
 
 * Carefully read the `submission_guidelines.markdown` to understand how your
