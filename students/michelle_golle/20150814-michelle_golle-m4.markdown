@@ -92,6 +92,8 @@ Code Sanitation: 4
 
 ### Playing a Part
 
+* During week 1 I completed clean up duty with my posse.
+* On July 12th, I wrote a piece about myself for the featured student portion of the Posse Post
 * On Friday, July 17th, I delivered a lightning talk "Susan Cain: The Quiet Revolution"
 
 
