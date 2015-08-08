@@ -23,7 +23,7 @@ I completed the following individual work this module:
 * [GitHub URL](https://github.com/bad6e/Chisel_Project)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 
-In this week long project we used Ruby to build a markdown to HTML parser that could parse the following:
+In this week long project we used Ruby to build a markdown to HTML parser that had the following functionality:
 
 * `paragraphs`
 * `headers`
