@@ -4,8 +4,7 @@
 
 ### Areas of Emphasis
 
-I focused a lot on Javascript this module and the end of the last. I'm comfortable with testing Javascript now, though I still need some work. I feel competent with JavaScript at this point, but I still get stumped sometimes. I think this is how my relationship with JavaScript will always be, but I'm excited to start building some new things.
-
+(What did you set out to accomplish this module?)
 
 ### End of Module Assessment
 
@@ -13,37 +12,39 @@ I focused a lot on Javascript this module and the end of the last. I'm comfortab
 
 ### Attendance
 
-This module I attended all days and classes on-time with the exception of an absence on Friday, July 10th and Friday August 7th.
+(Summary of any missed time 1/2 day or more)
 
 ### Work
 
-Scale up was an individual project that focused on learning and experimenting with performance measuring tools and enhancement techniques. My attempt at this project fell short of where I would have liked it to. That being said I did learn a lot and I feel like I have a good grasp on the dos don'ts and what to look for when it comes to performance optimization.
+(Intro)
 
-#### Scale-Up
+#### (Project Name)
 
-* github.com/carmer/scale-up
-* HubStub
+* [GitHub URL]()
+* [Original Assignment]()
 
-Steve evaluated me on this project. He would agree I didn't quite hit the mark on completeness. However, as a cohort, I believe that we all fell short of expectations in part to the amount of set up work there was. Steve told me he could see I had a grasp on the subject, but was disappointed I didn't make it further.
+(description)
 
-My scores are not on the ruby submissions section of Turing. But I received all 2's on this project.
+(evaluation comments)
+
+(evaluation scores)
 
 ## Team
 
 ### Projects
 
-Tetris was a group project I worked on with Kristina Brown and Kenny Chen. We attempted to build Tetris in JavaScript, an ambitious undertaking, and fell just short of completion.
+(Intro)
 
-#### Game Time: Tetris
+#### (Project Name)
 
-* github.com/carmer/tetris
+* [GitHub URL]()
+* [Original Assignment]()
 
-A 'disco' version of a classic game.
+(description)
 
-We did fairly well at our attempt to build Tetris. We fell into some holes and due to that we fell short of a completed game. Overall, our code was decent and we learned a lot while test driving our JavaScript development.
+(evaluation comments)
 
-Jeff evaluated our project and gave us decent scores.
-***** INSERT SCORES HERE *********
+(evaluation scores)
 
 (feedback to me)
 
@@ -51,14 +52,11 @@ Jeff evaluated our project and gave us decent scores.
 
 ### Giving Feedback
 
-I generally love being a part of the Turing community. I can tell it is evolving, and change is inevitable, but I hope we can remain a tight knit community even while we grow. I think the team building activities we do occasionally are a good thing, but I think talking more about the importance of our community during wrap-up etc is a good idea. I am a little disappointed in the lack ownership of the space sometimes. I know with all that happens and the stress that sometimes the last thing on peoples mind is cleaning up, but it's important and if it is done it can make people have more pride in their space.
+(feedback from me)
 
 ### Playing a Part
 
-I do dishes, pickup and generally try to keep the basement in order on a near daily basis.
-I help students after class and during the day whenever I'm asked for help.
-I regularly do Friday breakfasts. I try to organize events for us all to do outside of turing. I'm sure there are other things I do too, but I'm not very good at keeping track. Kristina has been saying to me "Put that in your portfolio, whenever I do things, but I usually forget what those things are." I do always bring a lot of water to outdoor get togethers.
-
+(ways you supported the larger Turing community)
 
 ## Review
 
