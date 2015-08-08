@@ -48,7 +48,7 @@ In this week long project we used Ruby to build a markdown to HTML parser that h
 * Functionality: 3
 * Breaking Logic into Components: 3
 
-#### Linked Lists
+#### Linked Lists Project
 
 * [GitHub URL](https://github.com/bad6e/Linked_Lists)
 * [Original Assignment](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
@@ -91,7 +91,7 @@ In this three day project we used Ruby to implement a singly linked list data st
 
 I participated in the following team projects:
 
-#### Enigma
+#### Enigma Project
 
 * [GitHub URL](https://github.com/bad6e/Enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
@@ -119,7 +119,7 @@ This was a week long project where we used Ruby to build an algorithm for encryp
 
 (feedback to me)
 
-#### Sales Engine
+#### Sales Engine Project
 
 * [GitHub URL](https://github.com/mcschatz/sales_engine)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
