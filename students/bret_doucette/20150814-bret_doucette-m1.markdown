@@ -31,16 +31,20 @@ In this week long project we used Ruby to build a markdown to HTML parser that h
 * `strong tags`
 * `em tags`
 
-* Fundamental Ruby & Style: 3
-* Test-Driven Development: 2
-* Functionality: 3
-* Breaking Logic into Components: 3
+Evaluation Comments
 
 * Good functionality
 * Good starting direction for tests; push them further
 * Implementation is good but some spots would benefit from refactoring
 * Make sure you don't rely too much on mentors
 * Look for opportunities to test edge cases and integrations
+
+Evaluation Scores
+
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 #### Linked Lists
 
@@ -62,10 +66,14 @@ In this three day project we used Ruby to implement a singly linked list data st
 * `remove_by_index`
 * `remove_by_value`
 
+Evaluation Comments
+
 * Good use of raises
 * Some opportunities for refactoring using built methods to assist previous methods.
 * Note to Bret - Use While
 * did only iterative
+
+Evaluation Scores
 
 * Functional Expectations: 3
 * Test-Driven Development: 4
@@ -86,6 +94,8 @@ I participated in the following team projects:
 
 This was a week long project where we used Ruby to build an alogrithm for encrypting/decrypting text files. In addition, we also built a tool for cracking our encrypted text files.
 
+Evaluation Comments
+
 * Rakefile runs all the tests
 * 66 tests all passing
 * Seeing good decomposition from the tests
@@ -94,12 +104,30 @@ This was a week long project where we used Ruby to build an alogrithm for encryp
 * some naming weaknesses make the code difficult to understand
 * Some repetition in classes despite good decompositionomments)
 
+Evaluation Scores
+
 * Functionality: 4
 * Fundamental Ruby & Style: 3
 * Test-Driven Development: 3
 * Breaking Logic into Components: 3
 
 (feedback to me)
+
+#### Sales Engine
+
+* [GitHub URL](https://github.com/mcschatz/sales_engine)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
+
+In this eleven day project, we built a data reporting tool that allows the manipulation and reporting on merchant transactional data.
+
+Evaluation Comments
+
+TBD - But hopefully positive
+
+Evaluation Scores
+
+TBD - But hopefully positive
+
 
 ## Community
 
@@ -109,7 +137,7 @@ This was a week long project where we used Ruby to build an alogrithm for encryp
 
 ### Playing a Part
 
-Member of @channel - a Turing School Podcast for incoming prospective students. Thus far we have recorded two podcasts. I have also contributed to content ideas as well as taken responsibilites for editing and maintaining the podcast audio.
+Member of @channel - a Turing School Podcast for incoming prospective students. Thus far we have recorded two podcasts. I have also contributed to content ideas as well as taken responsibilities for editing and maintaining the podcast audio.
 
 ## Review
 
