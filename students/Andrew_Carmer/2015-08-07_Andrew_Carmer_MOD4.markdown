@@ -48,10 +48,11 @@ Jeff evaluated our project and gave us decent scores.
 (feedback to me)
 
 ## Community
+I generally love being a part of the Turing community. I can tell it is evolving, and change is inevitable, but I hope we can remain a tight knit community even while we grow. I think the team building activities we do occasionally are a good thing, but I think talking more about the importance of our community during wrap-up etc is a good idea. I am a little disappointed in the lack ownership of the space sometimes. I know with all that happens and the stress that sometimes the last thing on peoples mind is cleaning up, but it's important and if it is done it can make people have more pride in their space.
 
 ### Giving Feedback
+I give people honest and generally direct feedback when asked, occasionally unsolicited as well. I always try to interact with people in a direct, honest respectful manner, so and I hope people can see my feedback for them always comes comes from a genuine place. 
 
-I generally love being a part of the Turing community. I can tell it is evolving, and change is inevitable, but I hope we can remain a tight knit community even while we grow. I think the team building activities we do occasionally are a good thing, but I think talking more about the importance of our community during wrap-up etc is a good idea. I am a little disappointed in the lack ownership of the space sometimes. I know with all that happens and the stress that sometimes the last thing on peoples mind is cleaning up, but it's important and if it is done it can make people have more pride in their space.
 
 ### Playing a Part
 
