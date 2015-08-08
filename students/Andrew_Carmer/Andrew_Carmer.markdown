@@ -3,7 +3,8 @@ Individual
 
 Areas of Emphasis
 
-I focused a lot on Javascript this module and the end of the last. I'm comfortable with testing Javascript now, though I still need some work. I feel competent with JavaScript at this point, but I still get stumped sometimes.
+I focused a lot on Javascript this module and the end of the last. I'm comfortable with testing Javascript now, though I still need some work. I feel competent with JavaScript at this point, but I still get stumped sometimes. I think this is how my relationship with JavaScript will always be, but I'm excited to start building some new things.
+
 
 End of Module Assessment
 
@@ -30,6 +31,7 @@ following results: My experience with the project was subpar. I learned a lot, b
 
 He said it I seemed to understand the practices and techniques, however I failed to fully implement them in the project.
 
+(not on ruby submissions. I believe it was a 1 :(, mostly 2's and a 3. )
 Ruby Syntax:
 Decomposition:
 Functionality:
@@ -40,7 +42,7 @@ Projects
 I participated in the following team projects:
 
 Game Time: Tetris
-GitHub URL: github.com/carmer/
+GitHub URL: github.com/carmer/tetris
 
 
 
@@ -55,9 +57,3 @@ Community
 Giving Feedback
 
 According to the Feedback application:
-
-
-
-I do dishes, pickup and generally try to keep the basement in order on a near daily basis.
-I help students after class and during the day whenever I'm asked for help.
-I regularly do Friday breakfasts. I try to organize events for us all to do outside of turing.
