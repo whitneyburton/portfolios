@@ -12,9 +12,9 @@ I feel like I've made some friends and helped people feel more creative at Turin
 ### Attendance
 
 This module I attended all days and classes on-time with the exceptions of:
-Friday, July 24th (dental work)
-Friday, July 31st (friend visiting from out-of-state)
-Friday, August 7th (dental work)
+* Friday, July 24th (dental work)
+* Friday, July 31st (friend visiting from out-of-state)
+* Friday, August 7th (dental work)
 
 ### Work
 
