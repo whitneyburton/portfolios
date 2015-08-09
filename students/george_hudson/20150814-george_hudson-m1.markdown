@@ -75,3 +75,25 @@ Team
 I worked on one team project this block:
 ####Sales Engine
 * [GitHub URL](https://github.com/russelleh/sales_engine)
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
+
+Assessed by: Mike Dao
+Assessment notes:
+
+Does not create a new invoice.
+Sanitation - Zero complaints
+Great test of randomness.
+Spec Harness generates 9 errors. 12 minutes, 19 seconds.
+Test suite consists of 149 tests, missing unit tests and some coverage of models.
+5 failing tests.
+Application only made use of #each
+Scores
+
+* Functional Expectations: 2
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby and Style: 3
+* Enumerables and Collections: 2
+* Code Sanitation: 4
+
+personal note: the first part of this project was solo for the few of us in our section of 1507. I worked hard to make my code readable and easy to implement other code on top of. My downfall was that I did not actually have the engine built which is the foundation of this project, so I had these nice pretty classes that had nothing to ground them and they started to get more abstract and adopt more responsibility than they needed. I identified the need to implement the engine (and believe that such a foundation should be laid first in subsequent projects) and was about to implement it(first by readjusting my tests) and then had the project taken away and then was paired with Russell Harms and handed another person's code to adopt. This threw me more than I felt it should (I'm sure getting us used to delving into other code was an intentional consequence of this action) and I noticed that I was writing choppy, sloppy code on top of a code base I didn't fully understand with the idea that I would be going back to fix it. With time constraints, I kept pushing on to the next issue instead of refactoring once I had something working minimally. This led to a lot of technical debt built up during the course of the project. I do not feel I met my personal goals for this project.
