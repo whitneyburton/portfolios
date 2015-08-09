@@ -1,10 +1,17 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Justin Holzmann - M1 Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
 (What did you set out to accomplish this module?)
+* Learn Vim to improve and optimize work flow.
+* Fix my personal habit structures (the first time I did module 1 I lost many of
+the positive habits that I had spent the previous year building).
+* Read 4 books on Ruby to match my year long goal of 12 Ruby books.
+* Do all extensions on projects assigned.
+* Practice pairing.
+* Adobt a morning practice routine before school.
 
 ### End of Module Assessment
 
@@ -12,11 +19,21 @@
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+Perfect attendance except for Wednesday, July 29th when I wasn't feeling well.
 
 ### Work
 
-(Intro)
+* I've heard Jeff oftentimes mention that "time is the easy lever". Since day 1
+I've tried to push that lever as much as possible. In terms of raw hours I think
+I at least rival the hardest workers in the program.
+* 9 levels of Vim Adventures game
+* Went through Josh Cheeks Ruby katas at least once per kata
+* Started reading Ruby documentation as per Josh M's recommendation in final
+assessment from 1505
+* Practiced Hashes in all projects (instead of arrays)
+* Read The Little Book of Talent
+* Listened to The Talent Code
+
 
 #### (Project Name)
 
