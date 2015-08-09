@@ -103,6 +103,8 @@ Feedback to Me
 
 I sought some feedback from my SalesEngine partner, my peers, from an upperclassman, and one of my mentors.
 
+* Justin Pease(Module 1): "Yeah, you did help me out. I can't point out anything you did wrong and you were very willing to help which is the biggest thing. What I needed to learn, you were able to communicate in a way I could understand. I do remember you that you gave me a compliment for coming to you with a "specific" question which allowed you to help me quickly and accurately which is a good insight."
+
 * Mitch Ashby (Module 2): “George is an excellent person to have in the Turing community. He knows a ton about coding for being a module 1 student but more importantly, he is always friendly to those around him, an extremely hard worker, and is always on time for stuff. In fact, I can’t remember a time this module that I showed up for warm up and George wasn’t there already." and when asked if there was something I could improve upon: "No man I think you’re good. Just remember to volunteer your time to help people once you get to module 2!"
 
 Community
