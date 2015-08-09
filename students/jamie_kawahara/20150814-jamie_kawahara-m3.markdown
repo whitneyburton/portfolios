@@ -5,8 +5,9 @@
 ### Areas of Emphasis
 
 Coming into the module I felt very shy and isolated.  This module, I offered
-to help module 1 students and also taught a student led session.  I feel like
-I've made some friends and helped people feel more creative at Turing.
+to help module 1 students, taught a student led session, and started a blog.
+I feel like I've made some friends and helped people feel more creative at Turing.
+
 
 ### Attendance
 
@@ -37,7 +38,7 @@ the distilling the information from Thingiverse into a more simple easy-to-use f
 
 ### Projects
 
-(Intro)
+I participated in the following team projects:
 
 #### (Project Name)
 
@@ -56,11 +57,18 @@ the distilling the information from Thingiverse into a more simple easy-to-use f
 
 ### Giving Feedback
 
-(feedback from me)
+According to the Feedback application:
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+* At the end of Module 1 I proposed the "Turing Cup" idea to Jorge.
+* At the end of Module 2 I printed the first "Posse Cup".
+* On Friday, July 17th, I ran a student-led workshop on 3D printing on the Lulzbot.
+* On Tuesday, July 21st, I organized a team to represent Turing at the PebbleRocksBoulder Hackathon.
+* On Wednesday, July 29th, I published an article for "Built In Colorado", called
+["Is dev school right for you?  Here's what an average day really looks like"](http://www.builtincolorado.com/2015/07/29/dev-school-right-you-here-what-average-day-really-looks)
+* On Friday, July 31st, I published a blog post ["How To Use a Kinect to Make a 3D Scan and Print"](http://androidgrl.github.io/)
+* On Friday, August 14th, I organized a tour of the Lulzbot facility for Turing.
 
 ## Review
 
