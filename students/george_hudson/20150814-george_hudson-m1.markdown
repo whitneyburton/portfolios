@@ -3,14 +3,14 @@ George Hudson - M4 Portfolio
 Individual
 ----------------------------
 ###Areas of Emphasis
-Being invited by Jeff to join Turing was flattering. I did a lot to prepare for this and make sure my personal life was in order. DespiteI had this nagging worry that the reason I didn't get everything I needed to out of gSchool was that I just wasn't smart enough anymore and the personal issues I had were only a secondary detractor. Instead of giving in to that feeling, I am rebelling against it. I have been working hard to stay on top of the material so that I don't feel left behind. I also try to make myself available to answer questions and many people, including Bret Doucette, Adam Jensen, Nicole Hall, and both Justins (Pease and Holzman) have brought questions to me. Explaining programming and workflow concepts and helping to guide them as students, reinforce my understanding of the material we are covering in class. Based upon the feedback I have received from them, I believe I am doing a fair job of it. I am happy here.
+Being invited by Jeff to join Turing was flattering. I did a lot to prepare for this and make sure my personal life was in order. Despite this, I had this nagging worry that the reason I didn't get everything I needed to out of gSchool was that I just wasn't smart enough anymore and the personal issues I had were only a secondary detractor. Instead of giving in to that feeling, I am rebelling against it. I have been working hard to stay on top of the material so that I don't feel left behind. I also try to make myself available to answer questions and many people, including Bret Doucette, Adam Jensen, Nicole Hall, and both Justins (Pease and Holzman) have brought questions to me. Explaining programming and workflow concepts and helping to guide them in general, reinforces my understanding of the material we are covering. Based upon the feedback I have received from them, I believe I am doing a fair job of it. I am happy here.
 
 ###End of Module 1 Assessment
 
 nil
 
 ###Attendance
-I have attended class every day. While apartment hunting has cut into my afternoons, I still have managed to stay late for study sessions, DSA, and generally make myself available for collaboration.
+I have attended class every day. While apartment hunting has cut into my afternoons, I still have managed to stay late occasionally for study sessions, DSA, and generally make myself available for collaboration.
 
 ###Work
 Here is a list of the solo projects I have completed this module.
@@ -19,7 +19,7 @@ Here is a list of the solo projects I have completed this module.
 * [GitHub URL](https://github.com/Egogre/robodoku)
 * [Original Assignment](https://github.com/turingschool/challenges/blob/master/robodoku.markdown)
 
-I don't have the link for this assessment completed by Mike Dao. Here is what I remember of his critique.
+I don't have the link for this assessment completed by Mike Dao (it isn't in the 1507 ruby submissions markdown yet). Here is what I remember of his critique.
 My logic worked and solved simple and the next step up from simple, but not quite medium difficulty sudoku puzzles. My ruby style and separation of responsibilities was excellent. My tests had good coverage, but could test for edge cases. My enumerables were used effectively, but there is room for improvement.
 
 * Functionality: 3
