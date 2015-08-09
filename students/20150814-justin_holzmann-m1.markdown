@@ -35,16 +35,46 @@ assessment from 1505
 * Listened to The Talent Code
 
 
-#### (Project Name)
+#### (Robodoku)
+* [GitHub URL](https://github.com/philmphoenix/robodoku)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/robodoku.markdown)
 
-* [GitHub URL]()
-* [Original Assignment]()
+  This project was an automatic sudoku solver (load in a puzzle and it solves it).
+  I was assessed by Jeff and these were his comments and scores:
 
-(description)
 
-(evaluation comments)
+  "Some tests and some decent implementation but doesn't quite work."
 
-(evaluation scores)
+  "Could use refactoring, especially of conditionals-in-conditionals."
+
+
+  * Functional Expectations: 1
+  * TDD: 2
+  * Encapsulation: 2
+  * Fundamental Ruby: 2
+  * Enumerable: 2
+
+
+#### (Enigma)
+* [GitHub URL](https://github.com/philmphoenix/enigma-2.0)
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/enigma.html)
+
+  A software spin on the original encrypting and decrypting messaging platform
+  that the German army used in WWII. Very fun project. I focused on using hashes
+  as per my module goals and on using as many classes as possible.
+
+  I was assessed by Mike with the following comments and scores:
+
+  "Encrypts and decrypts"
+  "Crack does not work"
+  "Needs better unit testing"
+  "Believe the crack sent program into an infinite loop"
+
+  * Functionality: 2
+  * Fundamental Ruby & Style: 3
+  * Test-Driven Development: 3
+  * Breaking Logic into Components: 3
+
 
 ## Team
 
