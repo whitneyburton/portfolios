@@ -1,4 +1,4 @@
-# (Matt Hecker) - (M1) Portfolio
+# Matt Hecker - (M1) Portfolio
 
 ## Individual
 
@@ -18,13 +18,39 @@ one of my goals was, and is, to work on my soft skills. To be able to listen, sp
 
 have not missed a day or been tardy (last checked 8/7/15)
 
-### Work
 
-I agree with the thought "We improve what we measure"
-
-#### (Project Name)
+### Solo Projects
 
 #### robodoku
+ * [GitHub URL](https://github.com/HoffsMH/robodoku)
+ * [Assignment Page](https://github.com/turingschool/challenges/blob/master/robodoku.markdown)
+ 
+ This project was graded by Jeff.  I enjoyed thinking through the solutions. 
+ Some notes from Jeff: 
+  "overall good with some spots for refactoring"
+  
+  Functional Expectations: 3
+  TDD: 3
+  Encapsulation: 3
+  Fundamental Ruby: 3
+  Enumerable: 3
+  
+#### robodoku
+ * [GitHub URL](https://github.com/HoffsMH/robodoku)
+ * [Assignment Page](https://github.com/turingschool/challenges/blob/master/robodoku.markdown)
+ 
+ This project was graded by Jeff.  I enjoyed thinking through the solutions. 
+ Some notes from Jeff: 
+  "overall good with some spots for refactoring"
+  
+  Functional Expectations: 3
+  TDD: 3
+  Encapsulation: 3
+  Fundamental Ruby: 3
+  Enumerable: 3
+ 
+ ##### Team Projects
+ 
 binary search tree
 enigma
 sales engine
