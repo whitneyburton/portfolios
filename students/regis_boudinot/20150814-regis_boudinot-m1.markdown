@@ -29,13 +29,21 @@ I completed the following individual work this module:
 
 #### To be added
 
-* [GitHub URL]
-* [Original Assignment]
+* [GitHub URL](https://github.com/selfup/linked_list)
 
-* Ruby Syntax:
-* Decomposition:
-* Functionality:
-* Test-Driven Development:
+Notes
+
+Could use some edge case testing
+Tail method had a iterative and recursive version
+be careful not to use local variable names that match a method
+Good that the count method is SRP
+Scores
+
+Functional Expectations: 4
+Test-Driven Development: 3
+Encapsulation: 3
+Fundamental Ruby & Style: 3
+Looping / Recursion: 3.5
 
 #### To be added
 
