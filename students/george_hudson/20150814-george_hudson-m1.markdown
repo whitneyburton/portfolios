@@ -97,3 +97,27 @@ Scores
 * Code Sanitation: 4
 
 personal note: the first part of this project was solo for the few of us in our section of 1507. I worked hard to make my code readable and easy to implement other code on top of. My downfall was that I did not actually have the engine built which is the foundation of this project, so I had these nice pretty classes that had nothing to ground them and they started to get more abstract and adopt more responsibility than they needed. I identified the need to implement the engine (and believe that such a foundation should be laid first in subsequent projects) and was about to implement it(first by readjusting my tests) and then had the project taken away and then was paired with Russell Harms and handed another person's code to adopt. This threw me more than I felt it should (I'm sure getting us used to delving into other code was an intentional consequence of this action) and I noticed that I was writing choppy, sloppy code on top of a code base I didn't fully understand with the idea that I would be going back to fix it. With time constraints, I kept pushing on to the next issue instead of refactoring once I had something working minimally. This led to a lot of technical debt built up during the course of the project. I do not feel I met my personal goals for this project.
+
+Feedback to Me
+--------------------------------------
+
+I sought some feedback from my SalesEngine partner, my peers, from an upperclassman, and one of my mentors.
+
+* Mitch Ashby (Module 2): “George is an excellent person to have in the Turing community. He knows a ton about coding for being a module 1 student but more importantly, he is always friendly to those around him, an extremely hard worker, and is always on time for stuff. In fact, I can’t remember a time this module that I showed up for warm up and George wasn’t there already." and when asked if there was something I could improve upon: "No man I think you’re good. Just remember to volunteer your time to help people once you get to module 2!"
+
+Community
+-------------------------------------
+
+###Giving Feedback
+
+I actively sought to give feedback to Relen Le, the mentor who worked with me the most. I also gave feedback (almost all positive) to Mitch Ashby and Andrew Carmer.
+
+In addition to the written feedback I was asked to give about Russell Harms, my partner for the SalesEngine project, I also spoke with him in person, giving him detailed feedback and asking for feedback from him.
+
+###Playing a Part
+
+* On Thursday, July 9th, I ran an after school study session covering Atom usage and basic debugging.
+* On Thursday, July 16th, I set up a Robodoku workshop with Alon Weisman going into detail about the logic therein.
+* I started teaching my daughters the basics of Ruby and programming in general through the use of Scratch (thanks Mike Dao) and Ruby Warrior.
+* I have an ongoing blog, http://turingwithgeorge.tumblr.com that gets regular updates.
+* I gave regular shout outs on twitter (@georgehudson78) to fellow classmates, prior gSchool classmates (many now Turing mentors), guest speakers, and instructors.
