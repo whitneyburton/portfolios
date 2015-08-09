@@ -31,35 +31,38 @@ This module I attended all days and classes on-time with no tardies or absences.
 
 I completed the following individual work this module:
 
-#### Recursive Linked List
+#### APICurious
 
-* [GitHub URL](https://github.com/jcasimir/recursive_linked_list)
-* [Original Assignment](http://github.com/turingschool/challenges/linked_list.markdown)
+* [GitHub URL](https://github.com/maxtedford/apicurious)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
 
-In this three-day project I implemented a linked list with recursion. It was
+In this three-day project I implemented a Twitter emulator using the Twitter API. It was
 evaluated by Horace with the following results:
 
-"This is one of the better linked list implementations I've ever seen."
+* Server-Side Application and APIs: 3 - Project wraps/isolates external API but has some gaps or external 
+connections in its testing.
+* Test-Driven Development: 2 - The code demonstrates high test coverage (>60%), but does not adequately 
+balance feature and unit tests.
+* Features: 3 - All planned features were delivered.
+* Interface: 3 - The application covers many interactions of the target application, but has a few holes
+ in lesser-used functionality.
 
-* Ruby Syntax: 3
-* Decomposition: 3
-* Functionality: 3
-* Test-Driven Development: 3
+#### RalesEngine
 
-#### Robodoku
+* [GitHub URL](https://github.com/maxtedford/rales_engine)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rales_engine.markdown)
 
-* [GitHub URL](https://github.com/jcasimir/robodoku)
-* [Original Assignment](http://github.com/turingschool/challenges/robodoku.markdown)
+In this three-day project I built an app that provided API endpoints for consumption. It was
+evaluated by Jorge with the following results:
 
-In this week-long project I built a sudoku-solving machine. It was
-evaluated by Steve with the following results:
-
-"Good object decomposition, but it only solves the easiest of puzzles."
-
-* Ruby Syntax: 3
-* Decomposition: 4
-* Functionality: 2
-* Test-Driven Development: 3
+* Completion: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
+* Rails and ActiveRecord Style: 4 - Project makes great use of ActiveRecord relationships and queries,
+including some advanced query functionality such as joins or includes
+* Ruby Style and Code Quality: 3 - Project uses idiomatic Ruby with a handful of larger methods or
+bloated controllers
+* API Design: 2 - Project has inconsistencies or gaps in how its JSON data is organized or formatted
+Test Driven Design: 2 - Project focuses tests on only a single layer of the stack, or has large gaps
+in the coverage
 
 ## Team
 
@@ -67,15 +70,25 @@ evaluated by Steve with the following results:
 
 I participated in the following team projects:
 
-https://github.com/turingschool/feedback
+#### SupperSkip
+
+* [GitHub URL](https://github.com/levthedev/supper_skip)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/supper_skip.markdown)
+
+In this ten-day project I worked with Lev and Jamie to transition a Dinner Dash project that
+belonged to a previous cohort into a multi-tenancy restaurant platform. The project was evaluated
+by Jorge with the following results:
+
+* Feature Completion - 4
+* Project Organization - 4
+* Test-Driven Development - 4
+* Code Quality - 3.5
+* User Experience - 2
 
 ### Feedback to Me
 
-In the previous module feedback from my peers encouraged me to ask for help
-more frequently rather than get stuck and stay there. This module I set a timer
-when I ran into a problem and, if I got to 20 minutes without progress, I'd ask
-for help. My feedback this module showed improvement and teammates said I'm a
-better collaborator.
+After the previous module, feedback from my peers was very complimentary, lauding me as a great
+partner in group projects and as an unspoken leader of the cohort.
 
 ## Community
 
@@ -89,9 +102,9 @@ According to the Feedback application:
 
 ### Playing a Part
 
-* On Friday, June 20, I ran a student-led workshop on Tweaking Your Text Editor
-* On Friday, June 27, I delivered a lightning talk "Hello, Mr. Roboto"
-* On Wednesday, June 30, I delivered "Hello, Mr. Roboto" at Community Night
-* On Saturday, July 15, I organized a bike ride attended by seven Turing students
-* On Thursday, July 24, I published a blog post "How To Link Your Lists" on my
-personal blog and it was included in that week's Posse Post
+* On Friday, July 17, I delivered a lightning talk "Hello, Mr. Roboto"
+* On Friday, July 24, I purchased and delivered breakfast for all of Turing
+* On Friday, July 31, I organized a Turing field day for students, staff, and families
+* Throughout the duration of the module I participated in Student Advisory Board, providing
+feedback to the staff on improving Turing. I unfortunately had to be absent from SAB on Thursday,
+July 9 and Thursday, August 6.
