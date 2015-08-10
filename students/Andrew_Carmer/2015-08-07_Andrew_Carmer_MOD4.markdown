@@ -43,9 +43,20 @@ A 'disco' version of a classic game.
 We did fairly well at our attempt to build Tetris. We fell into some holes and due to that we fell short of a completed game. Overall, our code was decent and we learned a lot while test driving our JavaScript development.
 
 Jeff evaluated our project and gave us decent scores.
-***** INSERT SCORES HERE *********
+We got all 3's on this project.
 
 (feedback to me)
+
+
+#### Mastery Project: Turing Scavenger Hunt
+
+* github.com/carmer/scavenger-hunt
+
+A scavenger hunt app for the Turing scavenger hunt.
+
+We did really well at this project. We used websockets, node, express and a rails backend to implement a pub/sub model which keeps track of team submissions.
+
+We were evaluated by Jorge. Our scores were 4, 3.5 3, 2, 4.
 
 ## Community
 I generally love being a part of the Turing community. I can tell it is evolving, and change is inevitable, but I hope we can remain a tight knit community even while we grow. I think the team building activities we do occasionally are a good thing, but I think talking more about the importance of our community during wrap-up etc is a good idea. I am a little disappointed in the lack ownership of the space sometimes. I know with all that happens and the stress that sometimes the last thing on peoples mind is cleaning up, but it's important and if it is done it can make people have more pride in their space.
@@ -56,9 +67,7 @@ I give people honest and generally direct feedback when asked, occasionally unso
 
 ### Playing a Part
 
-I do dishes, pickup and generally try to keep the basement in order on a near daily basis.
-I help students after class and during the day whenever I'm asked for help.
-I regularly do Friday breakfasts. I try to organize events for us all to do outside of turing. I'm sure there are other things I do too, but I'm not very good at keeping track. Kristina has been saying to me "Put that in your portfolio, whenever I do things, but I usually forget what those things are." I do always bring a lot of water to outdoor get togethers.
+I do dishes, pickup and generally try to keep the basement in order on a near daily basis. I help students after class and during the day whenever I'm asked for help. I regularly do Friday breakfasts. I try to organize events for us all to do outside of turing. I'm sure there are other things I do too, but I'm not very good at keeping track. Kristina has been saying to me, "Put that in your portfolio", whenever I do things, but I usually forget what those things are. I do always bring a lot of water to outdoor get togethers. I've also helped organize 3 incoming happy hours. My crowning accomplishment however, is the plethora of high-fives I give on a daily basis. Admittedly, a few of those may be uncomfortably long or awkward.
 
 
 ## Review
