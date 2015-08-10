@@ -32,17 +32,13 @@ I completed the following individual work this module:
 
 #### Chisel
 
-* [Project URL](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 * [GitHub URL](https://github.com/selfup/chisel)
 
-### Notes
+This project was a markdown to HTML converter. I was evaluated by Jeff with
+the following results:
 
-* Overall good progress
-* Some gaps / further room to grow in the testing
-* Like that it works!
-* Implementations are ok but need some refactoring
-
-### Scores
+"Like that it works!"
 
 * Fundamental Ruby & Style: 3
 * Test-Driven Development: 2
@@ -53,54 +49,51 @@ I completed the following individual work this module:
 
 * [GitHub URL](https://github.com/selfup/linked_list)
 
-Notes
+In this project I implemented a linked list using both recursion and iteration.
+It was evaluated by Mike with the following results:
 
-Could use some edge case testing
-Tail method had a iterative and recursive version
-be careful not to use local variable names that match a method
-Good that the count method is SRP
-Scores
+"Tail method had an iterative and recursive version.
+Good that the count method is SRP."
 
-Functional Expectations: 4
-Test-Driven Development: 3
-Encapsulation: 3
-Fundamental Ruby & Style: 3
-Looping / Recursion: 3.5
+* Functional Expectations: 4
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3.5
 
 ## Team
 
-* GitHub URL: https://github.com/selfup/enigma
+#### Enigma
 
-#### Notes
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
+* [GitHub URL](https://github.com/selfup/enigma)
 
-#### Scores
+In this project we created an encryption/decryption/cracking machine.
+It was evaluated by Josh Cheek with the following results:
 
-* Functionality:
-  * Score: 4
-* Fundamental Ruby & Style:
-  * Score: 3
-* Test-Driven Development:
-  * Score: 3-
-* Breaking Logic into Components:
-  * Score: 2
-  * Use the interface before it exists, so that you can discover what it should be.
-    This will lead to elegance.
-  * Prefer interfaces where there is no way for the object to be used wrong
-    (ie don't let other objects coordinate the methods of this object)
-  * If the object is a verb (crack, encrypt, decrypt -- vs key, date, etc),
-    choose interfaces like "here are your inputs, give me the output",
-    this omits "state" (instance variables) and thus will lead to the above suggestions.
-    eg `Crack.new(encrypted_message).crack` ...or, given the "functions" style we talked about
-    during modules yesterday: `Crack.call(encrypted_message)`
+"Use the interface before it exists, so that you can discover what it should be.
+This will lead to elegance."
+
+* Functionality: 4
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3-
+* Breaking Logic into Components: 2
+
 
 ### Feedback to Me
+
+I was told that I need to slow down and communicate more. Ever since said
+feedback I have now discovered that writing test first enables me to slow down
+and more appropriately describe what I am doing.
 
 ## Community
 
 ### Giving Feedback
 
+The Feedback application is not up and running.
+
 ### Playing a Part
 
-* On Monday, July 27th, I had my blog post ("The Difference is Huge") included in
-that week's Posse Post as well as being featured on the Turing Blog.
+* On Monday, July 27th, I had my blog post ("The Difference is Huge") included
+in that week's Posse Post as well as being featured on the Turing Blog.
 * On Friday, July 3rd, I helped cater Andrew's City of Cuernavaca Park picnic.
