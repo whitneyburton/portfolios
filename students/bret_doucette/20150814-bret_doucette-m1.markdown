@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-TBD
+I did Pragmatic Studio twice, did a bunch of Ruby exercims, and tried to 'teach' myself coding over a period of 3 months prior to Turing. Depsite this effort, upon starting Turing I still seemed lost. I could hack my way through a lot of problems but didn't know why some things worked and others failed. My theme for this module was to stop hacking and start learning. I focused on thinking about design, laying out problems via sudo code, and slowing my pace down. Having evaluated and refactored most of my old exercisms, I feel that I have lived up to this theme. But there is still room for improvement -- there always is!
 
 ### End of Module Assessment
 
