@@ -10,6 +10,9 @@ arrays. I had never even made a class or a method before. I feel as if I have
 learned more than I could even imagine learning so far. I am really pleased
 with my progress so far. Ruby is now more of a playground than a minefield.
 
+Initially I also struggled with understanding the concept behind TDD
+but now I am driving my code with tests and refactoring methods as I go.
+
 ### End of Module Assessment
 
 * Ruby Syntax:
@@ -27,7 +30,26 @@ most of the time to get ready for the day.
 
 I completed the following individual work this module:
 
-#### To be added
+#### Chisel
+
+* [Project URL](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
+* [GitHub URL](https://github.com/selfup/chisel)
+
+### Notes
+
+* Overall good progress
+* Some gaps / further room to grow in the testing
+* Like that it works!
+* Implementations are ok but need some refactoring
+
+### Scores
+
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
+
+#### Linked List
 
 * [GitHub URL](https://github.com/selfup/linked_list)
 
@@ -45,19 +67,31 @@ Encapsulation: 3
 Fundamental Ruby & Style: 3
 Looping / Recursion: 3.5
 
-#### To be added
-
-* [GitHub URL]
-* [Original Assignment]
-
-* Ruby Syntax:
-* Decomposition:
-* Functionality:
-* Test-Driven Development:
-
 ## Team
 
-### Projects
+* GitHub URL: https://github.com/selfup/enigma
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+  * Score: 4
+* Fundamental Ruby & Style:
+  * Score: 3
+* Test-Driven Development:
+  * Score: 3-
+* Breaking Logic into Components:
+  * Score: 2
+  * Use the interface before it exists, so that you can discover what it should be.
+    This will lead to elegance.
+  * Prefer interfaces where there is no way for the object to be used wrong
+    (ie don't let other objects coordinate the methods of this object)
+  * If the object is a verb (crack, encrypt, decrypt -- vs key, date, etc),
+    choose interfaces like "here are your inputs, give me the output",
+    this omits "state" (instance variables) and thus will lead to the above suggestions.
+    eg `Crack.new(encrypted_message).crack` ...or, given the "functions" style we talked about
+    during modules yesterday: `Crack.call(encrypted_message)`
 
 ### Feedback to Me
 
