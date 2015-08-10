@@ -66,33 +66,65 @@ Encapsulation: 3
 Fundamental Ruby and Style 3.5
 Enumerable and Collections: 3.
 
-#### (Project Name)
+#### (Enigma)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/rasensio1/Enigma.git)
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/enigma.html)
 
-(description)
+The goals of this project was to create an application that encrypts, decrypts
+and cracks codes like the historical Enigma machine. Although my program was
+fully functional, some aspects of TDD were missing, as well as best-choice
+enumerable methods and demonstration of the SRP principle.
 
-(evaluation comments)
+Instructor Comments:
 
-(evaluation scores)
+Program encrypts
+program cracks
+program cracks in under a second
+good integration tests
+messy god object with main
+file IO could have been broken out
+
+Evaluation Scores:
+
+Functionality: 4
+Fundamental Ruby & Style: 2
+Test-Driven Development: 3
+Breaking Logic into Components: 2.5
+
 
 ## Team
 
 ### Projects
 
-(Intro)
+Following is the only group project for this module. I was paired with Justin
+Holzmann.
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/philmphoenix/sales_engine_pivot.git)
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
 
-(description)
+This project was intended to demonstrate the inner-workings of a relational
+database. Our program had good functionality and speed, but was lacking in unit
+tests and violated the SRP. Additionally, we used .each where more
+appropriate methods were available.
 
-(evaluation comments)
+Instructor Comments:
 
-(evaluation scores)
+91 tests with 95.44% coverage
+Needs unit tests in all repositories, too much dependence on integration and feature tests.
+Spec harness runs in 2 minutes and 12.5 seconds.
+Would like to have seen mocks used to test relationships.
+
+Evaluation Scores:
+
+Functional Expectations: 3
+Test-Driven Development: 3
+Encapsulation / Breaking Logic into Components: 3
+Fundamental Ruby and Style: 3
+Enumerables and Collections: 3
+Code Sanitation: 4
 
 (feedback to me)
 
