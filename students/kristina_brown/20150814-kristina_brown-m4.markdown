@@ -100,11 +100,11 @@ Fundamental JS and Style:
 Code Sanitation: 
 
 ##### My Contribution
-We did extensive planning on the project all together. I set up the submission model, hooked that up to AWS. I was also in charge of setting up the views, and doing the mobile first design.
+We did extensive planning on the project all together. I set up the submission model, hooked that up to AWS. I was also in charge of setting up the views, and doing the mobile first design. I helped get the web sockets working and was in charge of getting them working on Heroku.
 
 ##### Takeaway
-* Planning something well makes a huge difference with collaboration and workflow (things went pretty smoothly)
-* 
+* Planning something well makes a huge difference with collaboration and workflow (things went pretty smoothly).
+* Websockets are great and not that hard. 
 * 
 
 ### Feedback to Me
@@ -122,6 +122,6 @@ TBD
 
 * On Monday, July 13, I wrote a blog about Collaboration
 * On Tuesday, July 21, I helped a group of 1507ers tackle linked lists
-* On Sunday, July 26, I helped a Regis get his enigma classes to communicate
+* On Sunday, July 26, I helped Regis get his enigma classes to communicate
 * On Friday, July 31, I delivered a thunder-lightning talk about working in groups
 * On everyday, I do dishes
