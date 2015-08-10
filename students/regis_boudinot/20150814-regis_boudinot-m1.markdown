@@ -79,6 +79,14 @@ This will lead to elegance."
 * Test-Driven Development: 3-
 * Breaking Logic into Components: 2
 
+#### Sales Engine
+
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
+* [GitHub URL](https://github.com/selfup/sales_engine)
+
+To be written
+
+""
 
 ### Feedback to Me
 
