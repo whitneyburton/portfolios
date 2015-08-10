@@ -90,7 +90,13 @@ To be written
 
 ### Feedback to Me
 
-I was told that I need to slow down and communicate more. Ever since said
+I was told:
+
+"I think you could benefit from planning code out before implementing it. When pairing, it can be confusing to follow your train of thought before you have planned it out"
+
+"But overall, I think you are a great person to have in the community. You’re outgoing, easy to approach, etc.""
+
+I need to slow down and communicate more. Ever since said
 feedback I have now discovered that writing test first enables me to slow down
 and more appropriately describe what I am doing.
 
