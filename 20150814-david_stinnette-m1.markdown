@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Coming into this module I wanted to improve my study habits and focus. I made a daily schedule of study times before and after school to stick to each day. I met with mentors, other students and instructors to pick up tips & tricks when solving new problems. Finally I stuck to pomodoros when studying alone to help me stay focused when sitting at my computer. I now feel much more comfortable problem solving the unknown.
 
 ### End of Module Assessment
 
@@ -21,7 +21,7 @@ I completed the following individual work this module:
 #### Chisel
 
 * [GitHub URL](https://github.com/dastinnette/Chisel)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 
 In this week long project I built a parsing machine that converts markdown to html. It was evaluated by Mike with the following results:
 
@@ -37,7 +37,7 @@ In this week long project I built a parsing machine that converts markdown to ht
 #### Linked List
 
 * [GitHub URL](https://github.com/dastinnette/LinkedLists)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
 
 In this week long project I built a linked list with several searching/appending methods and tests. It was evaluated by Jeff with the following results:
 
@@ -52,16 +52,35 @@ In this week long project I built a linked list with several searching/appending
 * Fundamental Ruby & Style: 3
 * Looping / Recursion: 3
 
+## Team
+
+### Projects
+
+I participated in the following team projects:
+
 #### Enigma
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/dastinnette/EnigmaPlus)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-(description)
+In this week long project I built an algorithm that encrypts, decrypts and cracks a coded message. It was evaluated by Jeff with the following results:
 
-(evaluation comments)
+* some successes, some struggles -- encrypt and decrypt work pretty well
+* would both like to spend more time refactoring, share functionality, reduce duplication
+* crack works sometimes -- only with our sample key
+* struggled through File I/O but eventually got it figured out
+* want to work on testing File I/O
+* progress was fast early then stalled in the middle around File I/O
+* had challenges with Git and working across machines, tricky to work at home when split apart. Would like to do a student-led session about workflow.
+* 46 tests all pass
+* when writing tests be careful not to "echo" the implementation -- try to always use literal values instead of doing calculations in the test
+* put test support files in /test/fixtures or /test/support
+* implementation has lots of good parts but some gaps in clarity, maybe helped with a little rethinking of variable/method names and how the words become paragraphs
 
-(evaluation scores)
+* Functionality: 2
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 #### Sales Engine
 
@@ -74,25 +93,6 @@ In this week long project I built a linked list with several searching/appending
 
 (evaluation scores)
 
-## Team
-
-### Projects
-
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
 ## Community
 
 ### Giving Feedback
@@ -104,8 +104,9 @@ In this week long project I built a linked list with several searching/appending
 
 * On Saturday, July 18, I attended a Turing bike ride with 3 other Turing staff. I rode 20 miles on my fixie in my PJs with no water. It was more fun than it sounds.
 * On Sunday, July 19, I attended a Turing fly fishing trip with 3 other Turing students and staff. We didn't catch a damn thing all day and thought we lost Horace to the wild, but RMNP is beautiful, so it's cool.
+* One Monday, July 20, I helped multiple students with Chisel refactoring, told a few jokes. The former was actually appreciated.  
 * On Tuesday, August 4, I organized and will oversee a Turing fantasy football league of 12 students & staff. I'm already brainstorming what to do with my first place winnings.
-* On Saturday, August 8, I led a scrabble prep class attended by 4 other Turing students. We made it rain triple word scores.
+* On Saturday, August 8, I led a scrabble prep class attended by 4 other Turing students. We made it rain double letter scores.
 
 ## Review
 
