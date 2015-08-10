@@ -117,7 +117,9 @@ This was a week long project where we used Ruby to build an algorithm for encryp
 * Test-Driven Development: 3
 * Breaking Logic into Components: 3
 
-(feedback to me)
+**Feedback to me**
+
+“Bret is a very easy person to work with.  He shows up on time.  He’s always willing to put in the time needed to complete a project, plus some.  He’s open to suggestions in changing the code.  Extremely competent, possessing the ability and the patience to work through a problem.  He’s a hard worker - anyone would be lucky to have him as a partner.  Without a doubt, a team player.” - Rachel Perri
 
 #### Sales Engine Project
 
@@ -147,6 +149,8 @@ TBD - But hopefully positive
 **@Channel**
 
 Member of @channel - a Turing School Podcast for incoming prospective students. Thus far we have recorded two podcasts. I have also contributed to content ideas as well as taken responsibilities for editing and maintaining the podcast audio.
+
+Git Helper - helped various students from 1507 with understanding the basics of Git.
 
 ## Review
 
