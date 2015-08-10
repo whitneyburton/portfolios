@@ -132,11 +132,18 @@ Code Sanitation: 4
 
 ### Giving Feedback
 
-(feedback from me)
+I know that I could have spent more time helping my peers this module. Having
+family, friends and my own routines to keep up with, I often chose to spend
+my free time outside of Turing. Knowing this, I decided to spend several hours
+at Turing over the weekend, to help others with their sales engine projects.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I emptied and refilled at least 8 dishwashers this module.
+I made my free time available for other students to ask for help on various
+projects.
+I helped organize the happy-hour for incoming Module 1 students.
+I organized an out-of-class BBQ for any interested Turing students.
 
 ## Review
 
