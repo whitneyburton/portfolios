@@ -117,9 +117,11 @@ Community
 
 ###Giving Feedback
 
-I actively sought to give feedback to Relen Le, the mentor who worked with me the most. I also gave feedback (almost all positive) to Mitch Ashby and Andrew Carmer.
+I actively sought to give feedback to Rolen Le, the mentor who worked with me the most. I also gave feedback (almost all positive) to Mitch Ashby and Andrew Carmer.
 
-In addition to the written feedback I was asked to give about Russell Harms, my partner for the SalesEngine project, I also spoke with him in person, giving him detailed feedback and asking for feedback from him.
+I wrote feedback for Mimi Schatz and Rose Kohn for their portfolios.
+
+In addition to the written feedback I was asked to give about Russell Harms, my partner for the SalesEngine project, I also spoke with him in person, giving him detailed feedback and asking for feedback in return from him. I feel I need to work on my upfront communication, establishing expectations and availability sooner.
 
 ###Playing a Part
 
