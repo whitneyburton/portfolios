@@ -41,7 +41,7 @@ The Good:
 
 The Bad:
 
-*My parser method used too many if/eslif/else statements.
+* My parser method used too many if/eslif/else statements.
 
 The Ugly:
 
@@ -88,15 +88,15 @@ In this three day project we used Ruby to implement a singly linked list data st
 
 The Good:
 
-*Finishing this project and getting a 4 on testing. Also used teammates in Echo as a valuable resource. Shout out to Alon for helping me see this through!
+* Finishing this project and getting a 4 on testing. Also used teammates in Echo as a valuable resource. Shout out to Alon for helping me see this through!
 
 The Bad:
 
-*I was not able to write this program recursively and only implemented it iteratively. In addition, I still don't feel comfortable with the iterative approach. I would like to redo this project in the future.
+* I was not able to write this program recursively and only implemented it iteratively. In addition, I still don't feel comfortable with the iterative approach. I would like to redo this project in the future.
 
 The Ugly:
 
-*I had a lot of difficulty in starting the project, and it wasn't till late Wednesday night (the project was due Thursday) that I was finally able to do a majority of the work. I ended up finishing the project and doing well but I doubted myself the entire time.
+* I had a lot of difficulty in starting the project, and it wasn't till late Wednesday night (the project was due Thursday) that I was finally able to do a majority of the work. I ended up finishing the project and doing well but I doubted myself the entire time.
 
 **Evaluation Comments**
 
@@ -136,11 +136,11 @@ The good:
 
 The bad:
 
-*I drove too much while pairing. I am not too sure how fair this was to my partner, Rachel.
+* I drove too much while pairing. I am not too sure how fair this was to my partner, Rachel.
 
 The ugly:
 
-*The amount of duplication in my code. I felt we were highly organized, but almost too much. We could have benefited from refactoring our code; especially the filewriter/filereader classes.
+* The amount of duplication in my code. I felt we were highly organized, but almost too much. We could have benefited from refactoring our code; especially the filewriter/filereader classes.
 
 
 **Evaluation Comments**
