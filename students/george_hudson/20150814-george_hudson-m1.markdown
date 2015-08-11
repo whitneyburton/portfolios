@@ -1,4 +1,4 @@
-George Hudson - M4 Portfolio
+George Hudson - M1 Portfolio
 ============================
 Individual
 ----------------------------
@@ -109,8 +109,12 @@ I sought some feedback from my SalesEngine partner, my peers, from upperclassmen
 
 * Mitch Ashby (Module 2): “George is an excellent person to have in the Turing community. He knows a ton about coding for being a module 1 student but more importantly, he is always friendly to those around him, an extremely hard worker, and is always on time for stuff. In fact, I can’t remember a time this module that I showed up for warm up and George wasn’t there already." and when asked if there was something I could improve upon: "No man I think you’re good. Just remember to volunteer your time to help people once you get to module 2!"
 
+* Andrew Carmer (Module 4): "My first few experiences working with you were positive ones. You were receptive to my feedback, and still inquisitive and questionable when I didn't quite satisfy your questions. I like that you approached someone for help when you had questions in the first place. You also seem to be a proactive and responsive student, which I respect."
+
 * Rolen Le (WellMatch developer & Turing Mentor): "I would be more critical of your code if there were things to criticize! :wink:  You are well on your way to being an awesome programmer.
 From a learning comprehension standpoint,  you get everything and I am confident that you will do well during the rest of program."
+
+Feedback for myself: "I feel I need to work on my upfront communication when working in a group, establishing expectations and availability sooner."
 
 Community
 -------------------------------------
@@ -121,12 +125,12 @@ I actively sought to give feedback to Rolen Le, the mentor who worked with me th
 
 I wrote feedback for Mimi Schatz and Rose Kohn for their portfolios.
 
-In addition to the written feedback I was asked to give about Russell Harms, my partner for the SalesEngine project, I also spoke with him in person, giving him detailed feedback and asking for feedback in return from him. I feel I need to work on my upfront communication, establishing expectations and availability sooner.
+In addition to the written feedback I was asked to give about Russell Harms, my partner for the SalesEngine project, I also spoke with him in person, giving him detailed feedback and asking for feedback in return from him.
 
 ###Playing a Part
 
 * On Thursday, July 9th, I ran an after school study session covering Atom usage and basic debugging.
-* On Thursday, July 16th, I set up a Robodoku workshop with Alon Weisman going into detail about the logic therein.
+* On Thursday, July 16th, I set up a Robodoku workshop with Alon Waisman going into detail about the logic therein.
 * I started teaching my daughters the basics of Ruby and programming in general through the use of Scratch (thanks Mike Dao) and Ruby Warrior.
 * I have an ongoing blog, http://turingwithgeorge.tumblr.com that gets regular updates.
 * I gave regular shout outs on twitter (@georgehudson78) to fellow classmates, prior gSchool classmates (many now Turing mentors), guest speakers, and instructors.
