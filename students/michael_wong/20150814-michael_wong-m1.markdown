@@ -1,10 +1,15 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Michael Wong - M1 Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+The main focus area I had when entering this module was breaking an old habit
+of quickly skimming across the surface of knowledge and instead trying to
+understand all concepts more deeply. I would mainly try to accomplish this by
+ensuring that I could guess what was going to happen when implementing code and
+then experimenting with other ways of solving a problem once I was able to get
+one style working.
 
 ### End of Module Assessment
 
@@ -12,7 +17,8 @@
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+I was present and on time for all days except for leaving to Washington DC at
+noon on Friday, August 7th.
 
 ### Work
 
