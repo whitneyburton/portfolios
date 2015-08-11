@@ -10,7 +10,14 @@ knowledge fresh. https://github.com/MaxMillington/exercism
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+My end of module assessment was performed by Josh Mejia. 
+
+* Analytic/Algorithmic Thinking: 4
+* Ruby Syntax and Standard Library: 3
+* Rails Syntax and API: 4
+* Rails Style: 4
+* Testing: 4
+* Collaboration: 4
 
 ### Attendance
 
@@ -28,7 +35,7 @@ These are the two projects I worked on this module.
 In this project, we used Ruby, Sinatra, and ActiveRecord to build a web traffic tracking and analysis tool.
  We learned how to receive data via HTTP and build a machine that constructed and transmitted HTTP requests.
 
-Josh M. evaluated us.
+Josh Mejia evaluated us.
 
 * Functional Expectations: 3.5
 * TDD: 4
@@ -70,7 +77,6 @@ In this project, we utilized our new rails knowledge to build an app that allows
     * I presented my Endangerous Outfitters app at demo night.
     * I helped some 1507 people sometimes.
     * I am going to give a talk a boulder rb during intermission.
-    
     
 ## Review
 
