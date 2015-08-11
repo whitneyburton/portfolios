@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-I did Pragmatic Studio twice, did a bunch of Ruby exercises on Excerism.io, and tried to 'teach' myself coding over a period of 3 months prior to Turing. Depsite this effort, upon starting Turing I still seemed lost. I could hack my way through a lot of problems but didn't know why some things worked and others failed. My theme for this module was to stop hacking and start learning. I focused on thinking about design, laying out problems via pseudo code, and slowing my pace down. Having evaluated and refactored most of my old exercisms, I feel that I have lived up to this theme. But there is still room for improvement -- there always is!
+I did Pragmatic Studio twice, did a bunch of Ruby exercises on Excerism.io, and tried to 'teach' myself coding over a period of 3 months prior to Turing. Despite this effort, upon starting Turing I still seemed lost. I could hack my way through a lot of problems but didn't know why some things worked and others failed. My theme for this module was to stop hacking and start learning. I focused on thinking about design, laying out problems via pseudo code, and slowing my pace down. Having evaluated and re-factored most of my old exercisms, I feel that I have lived up to this theme. But there is still room for improvement -- there always is!
 
 ### End of Module Assessment
 
@@ -32,6 +32,20 @@ In this week long project we used Ruby to build a markdown to HTML parser that h
 * `lists` - unordered/ordered
 * `strong tags`
 * `em tags`
+
+**Personal Comments**
+
+The Good:
+
+* Use of Mentors - overall positive experience. Learned new testing techniques and FileIO.
+
+The Bad:
+
+*My parser method used too many if/eslif/else statements.
+
+The Ugly:
+
+* Testing - this was my lowest score. I didn't anticipate any edge cases and subsequently my program didn't give correct output when given relatively simple edge cases. Also use of mentors - while I learned a lot, I probably relied on them too much.
 
 **Evaluation Comments**
 
@@ -70,6 +84,20 @@ In this three day project we used Ruby to implement a singly linked list data st
 * `remove_by_index`
 * `remove_by_value`
 
+**Personal Comments**
+
+The Good:
+
+*Finishing this project and getting a 4 on testing. Also used teammates in Echo as a valuable resource. Shout out to Alon for helping me see this through!
+
+The Bad:
+
+*I was not able to write this program recursively and only implemented it iteratively. In addition, I still don't feel comfortable with the iterative approach. I would like to redo this project in the future.
+
+The Ugly:
+
+*I had a lot of difficulty in starting the project, and it wasn't till late Wednesday night (the project was due Thursday) that I was finally able to do a majority of the work. I ended up finishing the project and doing well but I doubted myself the entire time.
+
 **Evaluation Comments**
 
 * Good use of raises
@@ -99,6 +127,21 @@ I participated in the following team projects:
 **Description**
 
 This was a week long project where we used Ruby to build an algorithm for encrypting/decrypting text files. In addition, we also built a tool for cracking our encrypted text files.
+
+**Personal Comments**
+
+The good:
+
+* We did this entire project without mentor help. We only used other classmates for the crack feature. This project also really helped me understand moving information around in OO programing. I also focused on getting better at reading error messages and thinking through problems (as opposed to hacking my way through!)
+
+The bad:
+
+*I drove too much while pairing. I am not too sure how fair this was to my partner, Rachel.
+
+The ugly:
+
+*The amount of duplication in my code. I felt we were highly organized, but almost too much. We could have benefited from refactoring our code; especially the filewriter/filereader classes.
+
 
 **Evaluation Comments**
 
@@ -130,6 +173,20 @@ This was a week long project where we used Ruby to build an algorithm for encryp
 
 In this eleven day project, we built a data reporting tool that allows the manipulation and reporting on merchant transactional data.
 
+**Personal Comments**
+
+The Good
+
+* I had a very strong partner which made this daunting project much more manageable. Also we had a solid balance of using mentors and other classmates. I now also have a much better understanding of Git after having successfully navigated many merge conflicts.
+
+The Bad
+
+* I had difficulty keeping all the moving parts together and in hindsight wish I would have relied more on pseudo code and diagrams to help keep all the moving parts together in my head.
+
+The Ugly
+
+* We started off strong but as soon as we reached business intelligence we hit a wall. Our moral plummeted. We had a brief rise after finishing 'Succesful Transactions' but later realized we did the entire part incorrectly and spent an entire day reworking it.
+
 **Evaluation Comments**
 
 TBD - But hopefully positive
@@ -138,11 +195,15 @@ TBD - But hopefully positive
 
 TBD - But hopefully positive
 
+**Feedback to me**
+
+(WAITING FOR FEEDBACK)
+
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+I tend to only give feedback if feedback is asked. But I was cognizant to try to give actionable feedback especially during group projects with my teammates. I also provided feedback via Googleforms/Slack to those students who requested it.
 
 ### Playing a Part
 
@@ -151,6 +212,8 @@ TBD - But hopefully positive
 Member of @channel - a Turing School Podcast for incoming prospective students. Thus far we have recorded two podcasts. I have also contributed to content ideas as well as taken responsibilities for editing and maintaining the podcast audio.
 
 Git Helper - helped various students from 1507 with understanding the basics of Git.
+
+Comic Relief - Emoji creator and founder of the Slack channel 'Hot Cross Puns'
 
 ## Review
 
