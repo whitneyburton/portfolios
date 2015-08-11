@@ -22,7 +22,7 @@ noon on Friday, August 7th.
 
 ### Work
 
-(Intro)
+I completed the following individual projects for this module:
 
 #### (Project Name)
 
@@ -39,7 +39,7 @@ noon on Friday, August 7th.
 
 ### Projects
 
-(Intro)
+I participated in the following team projects:
 
 #### (Project Name)
 
