@@ -8,7 +8,10 @@ Coming into this module I wanted to improve my study habits and focus. I made a 
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 ### Attendance
 
@@ -106,7 +109,7 @@ In this week long project I built an algorithm that encrypts, decrypts and crack
 * On Sunday, July 19, I attended a Turing fly fishing trip with 3 other Turing students and staff. We didn't catch a damn thing all day and thought we lost Horace to the wild, but RMNP is beautiful, so it's cool.
 * One Monday, July 20, I helped multiple students with Chisel refactoring, told a few jokes. The former was actually appreciated.  
 * On Tuesday, August 4, I organized and will oversee a Turing fantasy football league of 12 students & staff. I'm already brainstorming what to do with my first place winnings.
-* On Saturday, August 8, I led a scrabble prep class attended by 4 other Turing students. We made it rain double letter scores.
+* On Saturday, August 8, I led a scrabble prep class attended by 4 other Turing students. I wasted several hours of their time and mine. I'm interested to hear why the Turing staff felt the need to mislead us. Why not just plainly say this assessment would not be related to Scrabble and show up prepared for anything?
 
 ## Review
 
