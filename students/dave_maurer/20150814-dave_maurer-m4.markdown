@@ -102,11 +102,13 @@ them across what seems like an impassable chasm at first.
 I gave interview prep advice to a student nervous about the kinds of questions they would be asked. 
 I also coached Jeffrey Gu on interview answer techniques by going through his past interviews with
 him and sharing my experiences from IT recruiting.
+* I am an avid participant in posse time, and strive to create a culture of inclusiveness and participation 
+during warmup exercises.
 * I have volunteered my time at many points to help students with small problems, and helped 
 a student for over an hour via screen hero on a weekend where she was stuck on a file I/O issue 
 for her assignment. 
-* I'm working on a Git tutorial to help beginners start off with a good workflow process, 
-and understand the basic Git commands.
+* I wrote a Git tutorial to help beginners start off with a good workflow process, 
+and understand the basic Git commands: [Github URL](https://gist.github.com/davemaurer/cd97d99309aa6744b344)
 * Provided the volleyball net, outdoor stereo, cooler full of gatorade, hose for filling water balloons,
 football, volleyballs, and pump for the Turing student field day.
 * I spent after hours school time on two occasions helping student teams with gitastrophies, then showing 
@@ -120,7 +122,7 @@ computer while he was away from it. Over three hours of my own time was spend on
 
 ## Review
 
-There are many things I would like to do at Turing, but I feel unqualified for many of them. Examples 
+There are lots of things I would like to do at Turing, but I feel unqualified for many of them. Examples 
 are teaching at the local schools, contributing to open source, leading student sessions, and 
 creating entire tutorials focused on good process when approaching Ruby, Rails, etc.
 
