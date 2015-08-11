@@ -67,7 +67,11 @@ In this project, we utilized our new rails knowledge to build an app that allows
 ### Playing a Part
 
     * I delivered a lightning talk on Pizza.
-
+    * I presented my Endangerous Outfitters app at demo night.
+    * I helped some 1507 people sometimes.
+    * I am going to give a talk a boulder rb during intermission.
+    
+    
 ## Review
 
 ### Notes
