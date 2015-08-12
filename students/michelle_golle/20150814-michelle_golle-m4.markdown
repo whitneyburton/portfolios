@@ -8,7 +8,12 @@ Coming into this module I felt weak on JavaScript. After our classes this module
 
 ### End of Module Assessment
 
-
+* Features:
+* UI:
+* Testing:
+* Rails Style:
+* Ruby Style:
+* JavaScript Style:
 
 ### Attendance
 
@@ -81,6 +86,10 @@ Breaking Logic Into Components: 3
 Fundamental JS and Style: 3
 Code Sanitation: 4
 
+#### Mastery Project: Cowboy Kyle's Trading Post
+
+* [GitHub URL](https://github.com/mihir787/tradingPost)
+
 ### Feedback to Me
 
 Feedback from both peers and staff encouraged me to speak up more often and be sure to make my ideas heard. This module I incorporated that feedback and made an effort to do so in group projects, class and during retros.
@@ -89,14 +98,12 @@ Feedback from both peers and staff encouraged me to speak up more often and be s
 
 ### Giving Feedback
 
-TBD
-
 ### Playing a Part
 
 * During week 1 I completed clean up duty with my posse.
 * On July 12th, I wrote a piece about myself for the featured student portion of the Posse Post
 * On Friday, July 17th, I delivered a lightning talk "Susan Cain: The Quiet Revolution"
-
+* During week six I brought in k-cups for the Keurig to help fuel our last week.
 
 ## Review
 
