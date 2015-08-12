@@ -165,34 +165,70 @@ Pain: Fixture data
 * Difficult to create fixture data for all these tests
 * Difficult to verify it
 
-1. Functional Expectations
-...Score: 4
-...Spec harness passes
+#### Scores
 
-2. Test-Driven Development
-...Score: 2
-...71 runs, 96 assertions, no failures
-...Spec harness passes in 1.79 seconds, nice!
-...Tests are often vague
-...Low unit test coverage on some files.
+##### 1. Functional Expectations
 
-3. Encapsulation / Breaking Logic into Components
-...Score: 3
-...The repo doesn't need to know where the data comes from. By knowing, it cannot handle input from other sources.
-...Inheriting useful methods from Repository
+* Score: 4
+* Spec harness passes
 
-4. Fundamental Ruby & Style
-...Score: 3
-...Watch whitespace
+4: Application fulfills all base expectations and two extensions
+3: Application fulfills all base expectations as tested by the spec harness
+2: Application has some missing functionality but no crashes
+1: Application crashes during normal usage
 
-5. Enumerable & Collections
-...Score: 3.5
-...Enjoyed the lookup tables
-...Some ability to use other enumerable methods #each
+##### 2. Test-Driven Development
 
-6. Code Sanitation
-...Score: 4
-...The output from rake sanitation:all shows…
+* Score: 2
+* 71 runs, 96 assertions, no failures
+* Spec harness passes in 1.79 seconds, nice!
+* Tests are often vague
+* Low unit test coverage on some files.
+
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+2: Application makes some use of tests, but the coverage is insufficient
+1: Application does not demonstrate strong use of TDD
+
+##### 3. Encapsulation / Breaking Logic into Components
+
+* Score: 3
+* The repo doesn't need to know where the data comes from.
+  By knowing, it cannot handle input from other sources.
+* Inheriting useful methods from Repository
+
+4: Application is expertly divided into logical components each with a clear, single responsibility
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+1: Application logic shows poor decomposition with too much logic mashed together
+
+##### 4. Fundamental Ruby & Style
+
+* Score: 3
+* Watch whitespace
+
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+3: Application shows strong effort towards organization, content, and refactoring
+2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+1: Application generates syntax error or crashes during execution
+
+##### 5. Enumerable & Collections
+
+* Score: 3.5
+* Enjoyed the lookup tables
+* Some ability to use other enumerable methods `#each`
+
+4: Application consistently makes use of the best-choice Enumerable methods
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+1: Application demonstrates deficiencies with Enumerable and struggles with collections
+
+##### 6. Code Sanitation
+
+The output from rake sanitation:all shows…
+
+4: Zero complaints
+
 
 Feedback from Matt:
 * popsicle - Alon, was able to deal with his real life problems in a way that didn’t affect his work. He learns fast, and is very patient
