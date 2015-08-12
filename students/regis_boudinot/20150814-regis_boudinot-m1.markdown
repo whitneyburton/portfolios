@@ -98,7 +98,7 @@ When pairing, it can be confusing to follow your train of thought before you
 have planned it out"
 
 "But overall, I think you are a great person to have in the community.
-You’re outgoing, easy to approach, etc.""
+You’re outgoing, easy to approach, etc."
 
 I need to slow down and communicate more. Ever since said
 feedback I have now discovered that writing test first enables me to slow down
@@ -110,6 +110,20 @@ and more appropriately describe what I am doing.
 
 I gave feedback to a number of my classmates and they were happy that my
 feedback was actionable and supportive.
+
+Here are some examples:
+
+"I think that you could work on using methods that handle more of the work
+instead of writing large methods. Communicate a bit more while pairing.
+Otherwise I think that you are very good at understanding how to solve the
+problem at hand."
+
+"Justin is a great member of the community. He goes out of his way to ensure
+that the community around him is being built and seems to have his own version
+of one on ones with individuals of his cohort. When it comes to coding, he just
+needs to slow down and realize that he is on the right track. When communicating
+build the preface to the problem you are working on.
+Otherwise he’s got the chops."
 
 ### Playing a Part
 
