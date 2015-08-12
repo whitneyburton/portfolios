@@ -6,7 +6,7 @@
 
 Entering module 3 I felt like my front-end skills were still quite raw and undeveloped,
 and I wanted to circle back to M1-type Ruby algorithmic practice to keep them sharp after M2,
-where we worked mostly in Rails. Thusly, my two main goals this module were to put a concerted
+where we worked mostly in Rails. Thus, my two main goals this module were to put a concerted
 effort into drilling more advanced Ruby techniques and building my front-end skill-set to make
 myself a more versatile and well-rounded full-stack developer.
  
@@ -14,7 +14,8 @@ I turned to Exercism to both drill my advanced Ruby algorithmic skills and also 
 with JavaScript. I did 2 Exercisms each week, varying Ruby and JavaScript, and also consciously
 took on a self-directed project that was challenging and pushed me outside my front-end comfort
 zone, consuming the Google Maps JavaScript API--95% of my project relied on JavaScript and jQuery
-for both API calls, and user experience.
+for both API calls, and user experience. In addition, I attended four out of the available six
+DSA sessions this module.
 
 ### End of Module Assessment/Self-Directed Project
 
@@ -30,7 +31,7 @@ Product Experience
 
 ### Attendance
 
-This module I attended all days and classes on-time with no tardies or absences.
+This module I was present everyday and arrive on-time for every class with no tardies or absences.
 
 ### Work
 
@@ -66,7 +67,7 @@ including some advanced query functionality such as joins or includes
 * Ruby Style and Code Quality: 3 - Project uses idiomatic Ruby with a handful of larger methods or
 bloated controllers
 * API Design: 2 - Project has inconsistencies or gaps in how its JSON data is organized or formatted
-Test Driven Design: 2 - Project focuses tests on only a single layer of the stack, or has large gaps
+* Test Driven Design: 2 - Project focuses tests on only a single layer of the stack, or has large gaps
 in the coverage
 
 ## Team
@@ -92,7 +93,7 @@ by Jorge with the following results:
 
 ### Feedback to Me
 
-I sent around a google form to the rest of my cohort. I got six replies. Here were the results:
+I sent around a google form to the rest of my cohort-mates to solicit feedback to me. I got six replies. Here were the results:
 
 Am I easy to communicate with?
 * Always (6)
@@ -109,17 +110,17 @@ How would you describe my work ethic?
 * Strong (1)
 
 Additional optional comments from peers:
-* So, looking back, I haven't personally worked with you in a group! Which is a bummer because I've seen how
+* So, looking back, I haven't personally worked with you in a group, which is a bummer because I've seen how
 you work with others and it seems very collaborative, respective environment, which makes it a great learning
 environment. One project in particular, Supper Skip, I saw how well you helped you and your group plan out
 the project, put together well-written stories, and made sure everyone in the group was on the same page and
 understood the direction of the project. You took a leadership role with Supper Skip and it appeared to have
 really worked well. Your team seemed really on track, focused, and very collaborative. Wished we had a chance
-to work together! I think I would have learned a lot from you.
-* Very motivated and organized.  Great to worth with and an awesome person overall.
-* I'm actually surprised you dont already have a job. You are a rockstar!
+to work together. I think I would have learned a lot from you.
+* Very motivated and organized.  Great to work with and an awesome person overall.
+* I'm actually surprised you dont already have a job. You are a rockstar.
 * Max is one of those rare people who is a strong performer, wrapped in a humble shell.  He is easy to
-approach, does not condescend when explaining things, and lends a can do outlook to his peers. When I say
+approach, does not condescend when explaining things, and lends a can-do outlook to his peers. When I say
 Max was the glue that kept our team together, I can't emphasize enough how much of an impact he had on the
 focus and direction we maintained. From the beginning he set the tone, and without actively announcing
 himself as the lead, Max delegated and outlined the work flow through suggestions and prompted group
@@ -129,15 +130,13 @@ discussion. I would work with him again without hesitation.
 
 ### Giving Feedback
 
-According to the Feedback application:
-
-* Rob and Whitney requested feedback from me for their portfolios. I completed both their requests.
+Rob and Whitney requested feedback from me for their portfolios. I completed both their requests.
 
 ### Playing a Part
 
-* On Friday, July 17, I delivered a lightning talk "Hello, Mr. Roboto"
+* On Friday, July 17, I delivered a lightning talk "Wine 102: How Technology is Changing the Wine Industry"
 * On Friday, July 24, I purchased and delivered breakfast for all of Turing
 * On Friday, July 31, I organized a Turing field day for students, staff, and families
 * Throughout the duration of the module I participated in Student Advisory Board, providing
 feedback to the staff on improving Turing. I unfortunately had to be absent from SAB on Thursday,
-July 9 and Thursday, August 6.
+July 9 and Thursday, August 6. Otherwise, I attended regularly.
