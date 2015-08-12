@@ -77,13 +77,13 @@ We'll build a program that can solve an valid Sudoku puzzle. For a puzzle to be 
 
 Assessed By: Jeff
 
-Assessment Notes:
+#### Notes
 
 * pass 40 of Horace's puzzles
 * good testing with a steep ramp at the logic
 * good implementation though I'd like to see some componentization
 
-Score:
+#### Scores
 
 * Functional Expectations: 4
 * TDD: 3
@@ -101,14 +101,14 @@ More on Wikipedia: http://en.wikipedia.org/wiki/Binary_search_tree
 
 Assessed By: Jeff
 
-Assessment Notes:
+#### Notes
 
 * 21 tests all pass
 * Good test progression
 * Like that your broke out a Writer
 * Find space to refactor/centralize similar algorithms
 
-Score:
+#### Scores
 
 * Functional Expectations: 4
 * Test-Driven Development: 3
@@ -130,7 +130,7 @@ Learning Goals / Areas of Focus
 
 Assessed By: Jeff
 
-Assessment Notes:
+#### Notes
 
 * Not as problematic as BST. Assignment had a more detailed description.
 * 34 tests with 2 skips
@@ -139,7 +139,7 @@ Assessment Notes:
 * Let's talk about constants one day ... but the idea is great
 * Crack is very good
 
-Scores:
+#### Scores
 
 * Functionality: 4
 * Fundamental Ruby & Style: 4
@@ -159,7 +159,7 @@ In this project you'll practice building a system of several interacting Ruby ob
 
 Assessed By: Josh
 
-Assessment Notes and Scores:
+#### Notes
 
 Pain: Fixture data
 * Difficult to create fixture data for all these tests
@@ -200,9 +200,10 @@ Pain: Fixture data
 
 ##### 6. Code Sanitation
 
-The output from rake sanitation:all shows…
+* Score: 4
 
-4: Zero complaints
+* Zero complaints
+* The output from rake sanitation:all shows…
 
 
 Feedback from Matt:
