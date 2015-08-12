@@ -54,6 +54,10 @@
 
 (feedback from me)
 
+### Being a Community Member
+
+(feedback to me)
+
 ### Playing a Part
 
 (ways you supported the larger Turing community)
