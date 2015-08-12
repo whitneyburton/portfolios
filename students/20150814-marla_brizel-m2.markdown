@@ -8,7 +8,9 @@ This module, my main goal was to begin laying a foundation of knowledge for buil
 
 ### End of Module Assessment
 
-TODO
+Assessor: Josh Mejia
+I received the following scores and feedback on the end of module assessment:
+(TODO)
 
 ### Attendance
 
@@ -29,6 +31,30 @@ In this project, I built a personal website from scratch using HTML and CSS. I c
 * [Heroku](https://dog-e-daycare.herokuapp.com)
 
 This is an ongoing "breakable toy" sort of project. Its purpose is to reinforce basic Rails concepts covered in class in one cohesive project. I used it mainly as a place to do homework assignments for a second time after first completing the assignments as outlined. I also used it to practice deploying to Heroku.
+
+#### Idea Box
+
+* [GitHub URL](https://github.com/marlabrizel/idea_box)
+
+In this Rails mini-project, I built a webapp for recording and storing ideas. My goals for this project were to solidify basic CRUD principles, practice building authentication and authorization, and get more practice building a Capybara/RSpec test suite.
+
+#### Contact Manager
+
+* [GitHub URL](https://github.com/marlabrizel/contact_manager)
+
+This was our first sizeable Rails project, in tutorial form. Given that this was an early project, my main goal was to become more comfortable with basic Rails concepts.
+
+#### Robot World
+
+* [GitHub URL](https://github.com/marlabrizel/robot_world)
+
+This project was one of my first web applications. Concepts covered included CRUD, Sinatra, HTTP, and ERB.
+
+#### Space Adventure
+
+* [Github URL](https://github.com/marlabrizel/space_adventure)
+
+Not a real project, per se, but I pushed this repository up to keep track of the work done during Yong Bakos' Swift sessions.
 
 ## Team
 
@@ -58,8 +84,7 @@ We received compliments from Rachel, who told us during the evaluation that it w
 * [Heroku](https://jurassic-parka.herokuapp.com)
 
 In this two-week project, my group implemented Jurassic Parka, an e-commerce
-site. My main areas of focus included implementing a shopping cart using
-POROs, custom controller actions, and complex views.
+site. I played a team lead role and was in charge of all production deploys. My main areas of focus included implementing a shopping cart using POROs, custom controller actions, and complex views. I pushed myself to use jQuery over Ruby for order filtering in order to create a better user experience.
 
 ### Feedback to Me
 
@@ -87,3 +112,13 @@ I provided feedback via end-of-project feedback forms as well as on an ad-hoc ba
 * I gave an interview to a videographer producing a piece on the Turing experience.
 * I provided ad-hoc assistance to 1507 with their projects.
 * I submitted a session proposal for Denver Startup Week called "I'm a Female and Code Curious: Now What?" and it was accepted - hooray!
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
