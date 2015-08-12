@@ -10,7 +10,12 @@ relational databases are designed and implemented.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Ruby Syntax & API: 4
+Ruby Style: 3
+Blocks & Enumerations: 4
+Testing: 3
+Workflow: 3+
+Collaboration: 4
 
 ### Attendance
 
