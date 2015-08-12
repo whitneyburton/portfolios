@@ -120,6 +120,12 @@ Feedback to Me
 
 I sought some feedback from my SalesEngine partner, my peers, from upperclassmen, and one of my mentors.
 
+* Russell Harms (Module 1 and SalesEndine partner): It seems unfair to give feedback around scheduling differences, because they are A) largely outside of your control, and B) not likely to influence your ability as a developer in a real work environment, so I'll try to refine my criticism: I don't think the divide and conquer method was a good idea before we really understood the project, and I feel that at the beginning of the project that you were pushing back against my idea of setting out time for trying to understand our codebase inside and out. That being said, I know I wasn't doing a great job of pairing at the beginning either.
+
+Mostly you seem like a good and diligent programmer, which is one of the things which made it easier to let you do your own thing. I think if we had coordinated better that we would have nailed it.
+
+Personal Note: I feel that communication was our biggest weakness. We didn't set expectations or work schedules right off the bat and were often bad at filling in the other on the details of what we were putting time and effort into. Despite our relatively low score on SalesEngine, I would enjoy pairing with Russell again as he was a pleasant and respectful person and I bet we would do a good job of building on our strengths and shoring up our weaknesses. 
+
 * Justin Pease (Module 1): "Yeah, you did help me out. I can't point out anything you did wrong and you were very willing to help which is the biggest thing. What I needed to learn, you were able to communicate in a way I could understand. I do remember that you gave me a compliment for coming to you with a "specific" question which allowed you to help me quickly and accurately which is a good insight."
 
 * Bret Doucette (Module 1): "You were excellent at explaining complex & utterly seemingly difficult topics in a clear and concise manner that I was able to understand. For example - Conway’s Game of Life seemed nearly impossible to start, but you broke it down into small pieces to help me understand thoroughly (well at least as far as we made it!)"
