@@ -32,8 +32,8 @@ I completed the following individual work this module:
 
 #### Chisel
 
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 * [GitHub URL](https://github.com/selfup/chisel)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 
 This project was a markdown to HTML converter. I was evaluated by Jeff with
 the following results:
@@ -48,6 +48,7 @@ the following results:
 #### Linked List
 
 * [GitHub URL](https://github.com/selfup/linked_list)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
 
 In this project I implemented a linked list using both recursion and iteration.
 It was evaluated by Mike with the following results:
@@ -65,8 +66,8 @@ Good that the count method is SRP."
 
 #### Enigma
 
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 * [GitHub URL](https://github.com/selfup/enigma)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
 In this project we created an encryption/decryption/cracking machine.
 It was evaluated by Josh Cheek with the following results:
@@ -81,8 +82,8 @@ This will lead to elegance."
 
 #### Sales Engine
 
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
 * [GitHub URL](https://github.com/selfup/sales_engine)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
 
 To be written
 
@@ -92,9 +93,12 @@ To be written
 
 I was told:
 
-"I think you could benefit from planning code out before implementing it. When pairing, it can be confusing to follow your train of thought before you have planned it out"
+"I think you could benefit from planning code out before implementing it.
+When pairing, it can be confusing to follow your train of thought before you
+have planned it out"
 
-"But overall, I think you are a great person to have in the community. You’re outgoing, easy to approach, etc.""
+"But overall, I think you are a great person to have in the community.
+You’re outgoing, easy to approach, etc.""
 
 I need to slow down and communicate more. Ever since said
 feedback I have now discovered that writing test first enables me to slow down
