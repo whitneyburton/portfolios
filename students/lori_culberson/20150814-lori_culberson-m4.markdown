@@ -2,26 +2,36 @@
 
 ## Individual
 
-### Areas of Emphasis (DONE)
+### Areas of Emphasis
 In Module 4 I wanted to improve my Active Record querying skills. I watched videos and read blog posts. I practiced by running queries using different ActiveRecord 'find' methods, compared their SQL statements and query times. This became very helpful knowledge when working on the ScaleUp project. 
 
 After working on IdeaBox.js I realized I needed more practice implementing jQuery in order to change the state of objects. I worked with mentors and reviewed tutorials in order practice. While creating the JavaScript Game my skills continued to improve.
 
 ### End of Module Assessment
+24 hours of glory! It was a good assessment that was rigorous and fair. I felt comfortable with the content and challenged by the jQuery and features. 
 
-(Fill in Wednesday, August 12th Notes & scores from your assessment rubric)
+Feedback: Overall "Pretty good."
 
-### Attendance (DONE)
+* Features: pending
+* User Interface: 3
+* Testing: 
+* Rails Style: 3
+* Ruby Style: 3
+* JavaScript Style: 3
+
+
+### Attendance
 I have never been late to or missed a class. I was absent Friday, July 31st due to a late morning job interview. 
 
 ### Work
 
 The assignments listed below were individual projects.
 
-#### HubStub ScaleUp (DONE)
+#### HubStub ScaleUp
 * https://github.com/loriculberson/HubStub
 * https://github.com/turingschool-examples/HubStub
 
+## Evaluation Comments
 * User perspective: pages feel slow, pagination on the past orders and tickets,
 * Performance: no caching, some query optimization with includes and size vs count
 * Suggest get together with a group to dive deeper into the backend stuff
@@ -33,11 +43,12 @@ The assignments listed below were individual projects.
 * Additional Features: 3, pagination and AWS removed
 
 
-#### ideaBox.js (DONE)
+#### ideaBox.js
 * https://github.com/loriculberson/idea_box_ajax
 
 On the first pass of this assignment I was able to complete two of the features -- adding and deleting ideaw from the page. Since the due date I completed the features of being able to change the quality and editing each idea. 
 
+## Evaluation Comments
 * Reviewed by: Fred
 * Features: 1
 * UI: 3
@@ -65,6 +76,7 @@ Wanna get out of town....fast? With Get Me Outta Here, you can find an airline t
 ## My Contribution
 I created the Angular controllers, routers and configured the flight service so the API data could be rendered to the screen. 
 
+## Evaluation Comments
 * Completed stated goal to pull real-time flight options in a timely manner
 Pretty good testing on rails level, including connections to external APIs
 
@@ -98,6 +110,8 @@ This classic casino game was my first attempt at writing an entire program in Ja
 ## My Contribution
 * Scoring a dealer and player's hand, resetting the buttons at different stages of the game, scoring of the Ace (still a work in progress), resetting the deck when cards are depleted, clearing the screen when a game ends.
 
+## Evaluation Comments
+
 ## Scores (DOUBLE CHECK THESE)
 * Completion: 2
 * Organization: 2
@@ -112,10 +126,10 @@ This classic casino game was my first attempt at writing an entire program in Ja
 
 ### Giving Feedback
 
-(feedback from me)
+I'm incredibly proud of myself for surviving Turing. 
 
 ### Playing a Part
-
+* Created a pre-Module 1 class for new students entering Turing. The class was designed to get new students  familiar with the terminal, basic Ruby syntax, playing in pry, and other topics I struggled to understand when I was in module 1. Since that first class in February, a student has offered to teach it to the newest cohort. 
 * Friday, July 10th, Twitter stalked a JavaScript developer a convinced him to become an official Turing mentor.
 * Friday, July 24th Asked Ernie Miller to conduct a session on Active Record
 * On-going Organized weekly lunch time runs
