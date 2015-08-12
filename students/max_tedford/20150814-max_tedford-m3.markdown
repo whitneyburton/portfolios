@@ -13,15 +13,20 @@ myself a more versatile and well-rounded full-stack developer.
 I turned to Exercism to both drill my advanced Ruby algorithmic skills and also get more experience
 with JavaScript. I did 2 Exercisms each week, varying Ruby and JavaScript, and also consciously
 took on a self-directed project that was challenging and pushed me outside my front-end comfort
-zone.
+zone, consuming the Google Maps JavaScript API--95% of my project relied on JavaScript and jQuery
+for both API calls, and user experience.
 
 ### End of Module Assessment/Self-Directed Project
 
-* Ruby Syntax:
-* Rails Basics:
-* Javascript Basics:
-* Workflow:
-* Collaboration:
+Feature Delivery
+* Completion:
+* Organization:
+Technical Quality
+* Test-Driven Development:
+* Code Quality:
+Product Experience
+* User Experience:
+* Performance:
 
 ### Attendance
 
