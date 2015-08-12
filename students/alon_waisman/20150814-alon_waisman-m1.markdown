@@ -20,7 +20,7 @@ the immediate future.
 
 Assessed By: DJ Greenfield
 
-Notes:
+##### Notes
 
 * Alon quickly grasped each problem and pseudocoded organized solutions with
 the soundest of logic and the correct built-in Ruby methods.
@@ -29,7 +29,7 @@ steady, patient speed.
 * Struggles with realizing the value of and implementing test driven development,
 but can comfortably write both preemptive and responsive tests
 
-Scores:
+##### Scores
 
 * Ruby Syntax & API - 4: Developer is able to comfortably implement solutions using the best-choice tools Ruby has to offer
 * Ruby Style - 3: Developer writes code that is easy to follow
@@ -77,13 +77,13 @@ We'll build a program that can solve an valid Sudoku puzzle. For a puzzle to be 
 
 Assessed By: Jeff
 
-#### Notes
+##### Notes
 
 * pass 40 of Horace's puzzles
 * good testing with a steep ramp at the logic
 * good implementation though I'd like to see some componentization
 
-#### Scores
+##### Scores
 
 * Functional Expectations: 4
 * TDD: 3
@@ -101,14 +101,14 @@ More on Wikipedia: http://en.wikipedia.org/wiki/Binary_search_tree
 
 Assessed By: Jeff
 
-#### Notes
+##### Notes
 
 * 21 tests all pass
 * Good test progression
 * Like that your broke out a Writer
 * Find space to refactor/centralize similar algorithms
 
-#### Scores
+##### Scores
 
 * Functional Expectations: 4
 * Test-Driven Development: 3
@@ -130,7 +130,7 @@ Learning Goals / Areas of Focus
 
 Assessed By: Jeff
 
-#### Notes
+##### Notes
 
 * Not as problematic as BST. Assignment had a more detailed description.
 * 34 tests with 2 skips
@@ -139,7 +139,7 @@ Assessed By: Jeff
 * Let's talk about constants one day ... but the idea is great
 * Crack is very good
 
-#### Scores
+##### Scores
 
 * Functionality: 4
 * Fundamental Ruby & Style: 4
@@ -159,13 +159,13 @@ In this project you'll practice building a system of several interacting Ruby ob
 
 Assessed By: Josh
 
-#### Notes
+##### Notes
 
 Pain: Fixture data
 * Difficult to create fixture data for all these tests
 * Difficult to verify it
 
-#### Scores
+##### Scores
 
 ##### 1. Functional Expectations
 
