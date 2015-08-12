@@ -4,8 +4,8 @@
 
 ### Areas of Emphasis
 
-Coming into this module I felt not great with JavaScript. In the end I feel 
-much more comfortable with JavaScript.
+Coming into this module I felt not great with JavaScript. Now that we are at the end I not
+only feel better about JavaScript, but much more comfortable with jQuery, and node, and websockets. Basically I learned more than I could have known I wanted to learn this module. 
 
 ### End of Module Assessment
 
