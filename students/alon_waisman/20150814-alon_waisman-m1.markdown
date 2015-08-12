@@ -221,10 +221,10 @@ I was pleasantly surprised with how easy it was to work with Matt. I worried our
 ### Received Feedback
 
 #### George Hudson's blog
-* http://turingwithgeorge.tumblr.com/post/123520457813/turing-day-002-and-the-scavenger-hunt
+##### http://turingwithgeorge.tumblr.com/post/123520457813/turing-day-002-and-the-scavenger-hunt
 * "Today started off with Alon Waisman and his pac-man maze belt buckle providing a fun, concise answer to the SuperFizzBuzz homework. He did a good job of explaining his thought process for creating his code."
 
-* http://turingwithgeorge.tumblr.com/post/125721674898/turing-016-019-adopting-code-babies
+##### http://turingwithgeorge.tumblr.com/post/125721674898/turing-016-019-adopting-code-babies
 * "I am paired with Russell Harms for this project and adopted Alon Weisman’s code baby. I’m sure I am cursing Alon’s code just as much as whoever inherited my code is cursing me! Learning to navigate this new code base is not only frustrating, but enlightening to know this is the norm in the real world."
 * ... I guess he didn't like my code :)
 
