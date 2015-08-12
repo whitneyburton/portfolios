@@ -108,7 +108,8 @@ and more appropriately describe what I am doing.
 
 ### Giving Feedback
 
-The Feedback application is not up and running.
+I gave feedback to a number of my classmates and they were happy that my
+feedback was actionable and supportive.
 
 ### Playing a Part
 
