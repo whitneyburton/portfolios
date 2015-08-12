@@ -220,6 +220,7 @@ http://turingwithgeorge.tumblr.com/post/125721674898/turing-016-019-adopting-cod
 
 MB Burch, from weekly survey feedback:
 "Alon spent two hours one evening helping me and David work through an enigma problem. He was super patient and great at explaining some points that helped us out a lot."
+
 Mimi Schatz, from weekly survey feedback:
 "Shout out to Russell, Justin Holzmann, and Alon for helping me with different parts of Enigma!"
 
