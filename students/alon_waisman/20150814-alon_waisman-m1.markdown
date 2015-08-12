@@ -166,33 +166,33 @@ Pain: Fixture data
 * Difficult to verify it
 
 1. Functional Expectations
-- Score: 4
-- Spec harness passes
+   Score: 4
+   Spec harness passes
 
 2. Test-Driven Development
-- Score: 2
-- 71 runs, 96 assertions, no failures
-- Spec harness passes in 1.79 seconds, nice!
-- Tests are often vague
-- Low unit test coverage on some files.
+   Score: 2
+   71 runs, 96 assertions, no failures
+   Spec harness passes in 1.79 seconds, nice!
+   Tests are often vague
+   Low unit test coverage on some files.
 
 3. Encapsulation / Breaking Logic into Components
-- Score: 3
-- The repo doesn't need to know where the data comes from. By knowing, it cannot handle input from other sources.
-- Inheriting useful methods from Repository
+   Score: 3
+   The repo doesn't need to know where the data comes from. By knowing, it cannot handle input from other sources.
+   Inheriting useful methods from Repository
 
 4. Fundamental Ruby & Style
-- Score: 3
-- Watch whitespace
+   Score: 3
+   Watch whitespace
 
 5. Enumerable & Collections
-- Score: 3.5
-- Enjoyed the lookup tables
-- Some ability to use other enumerable methods #each
+   Score: 3.5
+   Enjoyed the lookup tables
+   Some ability to use other enumerable methods #each
 
 6. Code Sanitation
-- Score: 4
-- The output from rake sanitation:all shows…
+   Score: 4
+   The output from rake sanitation:all shows…
 
 Feedback from Matt:
 * popsicle - Alon, was able to deal with his real life problems in a way that didn’t affect his work. He learns fast, and is very patient
