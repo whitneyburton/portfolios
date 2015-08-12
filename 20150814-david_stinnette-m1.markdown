@@ -101,9 +101,10 @@ In this week long project I built an algorithm that encrypts, decrypts and crack
 ### Giving Feedback
 
 * I delivered 100% of requested feedback
-* Feedback for me:
+* Feedback for me: "I'd love to hear both positive and constructive feedback on how I'm doing and how I'm supporting our cohort and Turing."
 * Super positive - kept the mood light even during trying times!
 * Really glad David stuck around to be in this cohort. He is hard working, encouraging, and fun.
+* It was a challenge pairing for me, for the first time, and exhausting at times, but I'm also proud of how we were often able to step back when having a disagreement and reset our communication. Even though it was difficult for me, I'd be happy to work with David again.
 
 ### Playing a Part
 
