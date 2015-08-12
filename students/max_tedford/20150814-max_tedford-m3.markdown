@@ -87,8 +87,38 @@ by Jorge with the following results:
 
 ### Feedback to Me
 
-After the previous module, feedback from my peers was very complimentary, lauding me as a great
-partner in group projects and as an unspoken leader of the cohort.
+I sent around a google form to the rest of my cohort. I got six replies. Here were the results:
+
+Am I easy to communicate with?
+* Always (6)
+
+I benefit Turing as a whole
+* Strongly Agree (6)
+
+How would you describe my contributions to groups and teams?
+* You were the glue that kept us together (4)
+* You pulled your weight (2)
+
+How would you describe my work ethic?
+* Highly motivated and consistent (5)
+* Strong (1)
+
+Additional optional comments from peers:
+* So, looking back, I haven't personally worked with you in a group! Which is a bummer because I've seen how
+you work with others and it seems very collaborative, respective environment, which makes it a great learning
+environment. One project in particular, Supper Skip, I saw how well you helped you and your group plan out
+the project, put together well-written stories, and made sure everyone in the group was on the same page and
+understood the direction of the project. You took a leadership role with Supper Skip and it appeared to have
+really worked well. Your team seemed really on track, focused, and very collaborative. Wished we had a chance
+to work together! I think I would have learned a lot from you.
+* Very motivated and organized.  Great to worth with and an awesome person overall.
+* I'm actually surprised you dont already have a job. You are a rockstar!
+* Max is one of those rare people who is a strong performer, wrapped in a humble shell.  He is easy to
+approach, does not condescend when explaining things, and lends a can do outlook to his peers. When I say
+Max was the glue that kept our team together, I can't emphasize enough how much of an impact he had on the
+focus and direction we maintained. From the beginning he set the tone, and without actively announcing
+himself as the lead, Max delegated and outlined the work flow through suggestions and prompted group
+discussion. I would work with him again without hesitation.
 
 ## Community
 
@@ -96,9 +126,7 @@ partner in group projects and as an unspoken leader of the cohort.
 
 According to the Feedback application:
 
-* I delivered 100% of the requested feedback
-* 96% of those submissions were approved and delivered
-* 84% of my submissions were meaningful to the recipient
+* Rob and Whitney requested feedback from me for their portfolios. I completed both their requests.
 
 ### Playing a Part
 
