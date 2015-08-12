@@ -10,7 +10,13 @@ knowledge fresh. https://github.com/MaxMillington/exercism
 
 ### End of Module Assessment
 
-My end of module assessment was performed by Josh Mejia. 
+My end of module assessment was performed by Josh Mejia. He gave me the following feedback: 
+
+"Notes: Really strong assessment. 
+Solid grasp of core Rails concepts. 
+Only hiccup was with instantiating an instance of a model (Play) and how to do that without a strong params hash.
+The ability to think through the hiccup was quick and logical.
+We worked on implementing a feature using techniques that weren't covered in class and everything went smoothly."
 
 * Analytic/Algorithmic Thinking: 4
 * Ruby Syntax and Standard Library: 3
