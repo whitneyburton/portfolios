@@ -9,11 +9,16 @@ only feel better about JavaScript, but much more comfortable with jQuery, and no
 
 ### End of Module Assessment
 
-* Ruby Syntax: 
-* Rails Basics: 
-* Javascript Basics: 
-* Workflow: 
-* Collaboration: 
+In this 24 hour sprint I made a one-page task management app that can hold many lists, with many tasks, all of which can be created, edited, and deleted, and all without page refreshes. It has WebSocket integration so you can have many tabs open that keep up with what you're doing. And it also sends an email to a friend you cc. Josh Cheek was the evaluator: 
+
+"The websockets make it really exciting."
+
+* Features: 4 
+* User Interface: 3 
+* Testing: 3
+* Rails Style: 3 
+* Ruby Style: 3
+* JavaScript Style: 3 
 
 ### Attendance
 
@@ -74,11 +79,11 @@ In this 7-day-long project we built a mostly functional disco tetris game. This 
 
 "I think your game gave me a headache."
 
-Functional Expectations: 3
-Test-Driven Development: 3
-Breaking Logic Into Components: 3
-Fundamental JS and Style: 3
-Code Sanitation: 3
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Breaking Logic Into Components: 3
+* Fundamental JS and Style: 3
+* Code Sanitation: 3
 
 ##### My Contribution
 We didn't really split up the responsibilities in this project. The three of us paired most of the time because it was all pretty new to all of us.
@@ -95,12 +100,12 @@ In this 2 week project we built the Turing Scavenger Hunt app. It's a real time 
 
 "I wish there was another section on 'technical challenge', I would give you a 4 on that."
 
-Completion: 4 
-Organization: 3.5 
-Test-Driven Development: 3 
-Code Quality: 2 
-User Experience: 3
-Performance: 4 
+* Completion: 4 
+* Organization: 3.5 
+* Test-Driven Development: 3 
+* Code Quality: 2 
+* User Experience: 3
+* Performance: 4 
 
 ##### My Contribution
 We did extensive planning on the project all together. I set up the submission model, hooked that up to AWS. I was also in charge of setting up the views, and doing the mobile first design. I helped get the web sockets working and was in charge of getting them working on Heroku.
@@ -108,18 +113,16 @@ We did extensive planning on the project all together. I set up the submission m
 ##### Takeaway
 * Planning something well makes a huge difference with collaboration and workflow (things went pretty smoothly).
 * Websockets are great and not that hard. 
-* 
 
 ### Feedback to Me
 
-In the previous module feedback from my peers encouraged me. People liked me last
-module and I think they still do.
+People liked me last module and I think they still do.
 
 ## Community
 
 ### Giving Feedback
 
-TBD
+I gave honest feedback to everyone who asked for it.
 
 ### Playing a Part
 
