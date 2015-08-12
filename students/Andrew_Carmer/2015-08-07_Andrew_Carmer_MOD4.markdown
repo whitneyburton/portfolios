@@ -9,7 +9,7 @@ I focused a lot on Javascript this module and the end of the last. I'm comfortab
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+This was an interesting project. 24 hours is not enough time to do things the 'right' way, but it was cool to see what we could do in a short period of time. I think I did pretty well, but my javascript could have been abstracted a little more, been a little more dry etc. My scores we Strait three's, and once pending two because I had issues with my mailer. By issues I mean I accidentally pushed my password to gihub and someone stole my account and sent 80k emails from my account at 3:30 in the morning. I finally got that sorted out when the new account I made was verified. 
 
 ### Attendance
 
