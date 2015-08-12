@@ -91,13 +91,16 @@ We didn't really split up the responsibilities in this project. The three of us 
 
 * https://github.com/eric-dowty/scavenger-hunt
 
-In this 2 week project we built the Turing Scavenger Hunt app. It's a real time rails app that uses Redis and Node to send immediate updates.
+In this 2 week project we built the Turing Scavenger Hunt app. It's a real time rails app that uses Redis and Node to send immediate updates. It was evaluated by Jorge:
 
-Functional Expectations: 
-Test-Driven Development: 
-Breaking Logic Into Components: 
-Fundamental JS and Style: 
-Code Sanitation: 
+"I wish there was another section on 'technical challenge', I would give you a 4 on that."
+
+Completion: 4 
+Organization: 3.5 
+Test-Driven Development: 3 
+Code Quality: 2 
+User Experience: 3
+Performance: 4 
 
 ##### My Contribution
 We did extensive planning on the project all together. I set up the submission model, hooked that up to AWS. I was also in charge of setting up the views, and doing the mobile first design. I helped get the web sockets working and was in charge of getting them working on Heroku.
@@ -122,6 +125,7 @@ TBD
 
 * On Monday, July 13, I wrote a blog about Collaboration
 * On Tuesday, July 21, I helped a group of 1507ers tackle linked lists
-* On Sunday, July 26, I helped Regis get his enigma classes to communicate
+* On Sunday, July 26, I helped Regis get his enigma classes to communicate, and helped
+a handful of other students on various occasions. 
 * On Friday, July 31, I delivered a thunder-lightning talk about working in groups
 * On everyday, I do dishes
