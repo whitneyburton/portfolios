@@ -8,7 +8,14 @@ I was looking to improve my TDD chops because I felt that in M3 those were lacki
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+For the end of module assessment we made a 24-hour advanced task manager. I was evaluated by Horace. Some of the notes were that the JavaScript could have been better organized but the concepts were good. The rails knowledge was proficient, but there could a better attempt to use RESTful routing for custom routes.
+
+* Features: 3
+* UI: 4
+* Testing: 3
+* Rails Style: 3
+* Ruby Style: 3
+* JavaScript Style: 3
 
 ### Attendance
 
@@ -75,17 +82,33 @@ Notes
 * Fundamental JS and Style: 3
 * Code Sanitation: 1
 
+#### Final Project: IPAPI
+
+* [GitHub Ember URL](https://github.com/boomkenster/IPAPA-ember)
+* [GitHub Rails URL](https://github.com/tleskin/IPAPI-rails)
+
+This was a 2 week final project where our groups objective was to learn Ember. The idea was to build a back end Rails api that fed an Ember front end. In the end, we were not able to complete all of the requirements we set for ourselves, but we learned a lot and made a strong effort. We were evaluated by Steve:
+
+* Completion: 2 
+* Organization: 3 
+* Test-Driven Development: 3 
+* Code Quality: 3 
+* User Experience: 2
+* Performance: 4 
+
 ### Feedback to Me
+
+I feel that the feedback for me has been positive all of the way through Turing. I have gotten some feedback that sometimes I let things get to me too much, and I've really been trying hard to improve that about myself.
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+I've given feedback to everyone that's asked for it. I have given it also to a few people who didn't.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Besides giving my lightning talk on July 7th on 3D animation, I feel like I've been involved a lot in the community of Turing. I've gone to meetups around Denver including Denver.rb, and I did go to Denver.rb on July 11th during our final assessment to support Mihir who was speaking that night. I've organized lunches and helped other students on their personal projects. It's been really wonderful being apart of this community.
 
 ## Review
 
