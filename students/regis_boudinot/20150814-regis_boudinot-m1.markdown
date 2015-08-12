@@ -100,9 +100,16 @@ have planned it out"
 "But overall, I think you are a great person to have in the community.
 You’re outgoing, easy to approach, etc."
 
+"Regis has been a great addition to Turing.  He has always been willing and able
+to help me with most things. If I had any negative feedback for him it’s that he
+needs to be more confident in himself. He got stressed out in the beginning but
+mostly because he didn’t think he was capable enough which he is. Remember that
+emotions can be contagious."
+
 I need to slow down and communicate more. Ever since said
 feedback I have now discovered that writing test first enables me to slow down
-and more appropriately describe what I am doing.
+and more appropriately describe what I am doing. Testing also helps me build
+confidence.
 
 ## Community
 
