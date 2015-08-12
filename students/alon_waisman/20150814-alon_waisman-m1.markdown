@@ -201,7 +201,6 @@ Pain: Fixture data
 ##### 6. Code Sanitation
 
 * Score: 4
-
 * Zero complaints
 * The output from rake sanitation:all shows…
 
@@ -221,19 +220,19 @@ I was pleasantly surprised with how easy it was to work with Matt. I worried our
 
 ### Received Feedback
 
-George Hudson's blog:
-http://turingwithgeorge.tumblr.com/post/123520457813/turing-day-002-and-the-scavenger-hunt
-"Today started off with Alon Waisman and his pac-man maze belt buckle providing a fun, concise answer to the SuperFizzBuzz homework. He did a good job of explaining his thought process for creating his code."
+#### George Hudson's blog
+* http://turingwithgeorge.tumblr.com/post/123520457813/turing-day-002-and-the-scavenger-hunt
+* "Today started off with Alon Waisman and his pac-man maze belt buckle providing a fun, concise answer to the SuperFizzBuzz homework. He did a good job of explaining his thought process for creating his code."
 
-http://turingwithgeorge.tumblr.com/post/125721674898/turing-016-019-adopting-code-babies
-"I am paired with Russell Harms for this project and adopted Alon Weisman’s code baby. I’m sure I am cursing Alon’s code just as much as whoever inherited my code is cursing me! Learning to navigate this new code base is not only frustrating, but enlightening to know this is the norm in the real world."
-... I guess he didn't like my code :)
+* http://turingwithgeorge.tumblr.com/post/125721674898/turing-016-019-adopting-code-babies
+* "I am paired with Russell Harms for this project and adopted Alon Weisman’s code baby. I’m sure I am cursing Alon’s code just as much as whoever inherited my code is cursing me! Learning to navigate this new code base is not only frustrating, but enlightening to know this is the norm in the real world."
+* ... I guess he didn't like my code :)
 
-MB Burch, from weekly survey feedback:
-"Alon spent two hours one evening helping me and David work through an enigma problem. He was super patient and great at explaining some points that helped us out a lot."
+#### MB Burch, from weekly survey feedback
+* "Alon spent two hours one evening helping me and David work through an enigma problem. He was super patient and great at explaining some points that helped us out a lot."
 
-Mimi Schatz, from weekly survey feedback:
-"Shout out to Russell, Justin Holzmann, and Alon for helping me with different parts of Enigma!"
+#### Mimi Schatz, from weekly survey feedback
+* "Shout out to Russell, Justin Holzmann, and Alon for helping me with different parts of Enigma!"
 
 ### Playing a Part
 
