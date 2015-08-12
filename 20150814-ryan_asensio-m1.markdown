@@ -14,7 +14,7 @@ relational databases are designed and implemented.
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+I have kept a clean attendance record for the entirety of the module.
 
 ### Work
 
@@ -136,6 +136,11 @@ I know that I could have spent more time helping my peers this module. Having
 family, friends and my own routines to keep up with, I often chose to spend
 my free time outside of Turing. Knowing this, I decided to spend several hours
 at Turing over the weekend, to help others with their sales engine projects.
+
+Feedback I received from others includes that I need to be a better communicator
+while pairing. Next module, I will be sure to ask my pairing partners if I am
+communicating effectively. I think my biggest weakness is running with ideas
+before making sure the other party understands where it is going.
 
 ### Playing a Part
 
