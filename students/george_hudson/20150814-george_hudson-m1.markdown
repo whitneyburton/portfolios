@@ -7,7 +7,24 @@ Being invited by Jeff to join Turing was flattering. I did a lot to prepare for 
 
 ###End of Module 1 Assessment
 
-nil
+Assessed By: DJ Greenfield
+
+Notes:
+
+* George demonstrated a very solid, well-rounded understanding of Ruby fundamentals.
+* He clearly values communication and a collaborative process. As soon as he completed a feature, he asked me which design choice I would prefer to see him pursue.
+* George's mastery of his tools was well above par.
+
+Scores:
+
+* Ruby Syntax & API - 4: Developer is able to comfortably implement solutions using the best-choice tools Ruby has to offer
+* Ruby Style - 4: Developer solves problems with a balance between conciseness and clarity
+* Blocks & Enumerations - 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+* Testing - 4: Developer consistently takes small steps, using the tests for both design and verification
+* Workflow - 4: Developer is a master of their tools, efficiently moving between phases of development
+* Collaboration - 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+Personal note: I believe I only scored a 3 on Workflow (this score may have changed later upon reflection, I do not know). I am okay with my tools and rarely use my mousepad and only if it feels natural to do so. I know a lot of shortcuts, but do not have any scripts or personalized shortcuts. DJ was saying I still needed to tab over to the text editor files I wanted instead of jumping directly to them. I felt a little slow overall on getting to were I wanted in the assessment. Other than that, I did feel very strongly about how I approached and implemented the code and it felt natural to interact with DJ, ask hm questions and explain my thought processes. DJ was good at slowing me down one time when I was trying to make a small jump from implementing a linked list and then going right to creation of a node and get me to create the HEAD first in my linked list test and having that drive my creation of node test and node. DJ also showed me a nice tip in basic assertions (a more concise version of what I was already doing) that ensure I am setting up my class correctly, which I was able to easily adopt and implement during the assessment.  
 
 ###Attendance
 I have attended class every day. While apartment hunting has cut into my afternoons, I still have managed to stay late occasionally for study sessions, DSA, and generally make myself available for collaboration.
