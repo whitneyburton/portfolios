@@ -8,12 +8,26 @@ Coming into this module I felt weak on JavaScript. After our classes this module
 
 ### End of Module Assessment
 
-* Features:
-* UI:
-* Testing:
-* Rails Style:
-* Ruby Style:
-* JavaScript Style:
+* [GitHub URL](https://github.com/michellegolle/task_manager)
+* [Original Assignment](https://gist.github.com/stevekinney/f477463136d8a4d954ea)
+
+* Features: 4
+* UI: 4-
+* Testing: 4-
+* Rails Style: 3+
+* Ruby Style: 3
+* JavaScript Style: 3
+
+* Nice use of the bootstrap form gem!
+* Generally pleasant transitions, esp on the filtering
+* Some better solution for the resetting to the default list when applying filters/tags (idk what it is)
+* Nice use of shoulda matchers
+* Reasonable tests
+* Generally good feature tests, but consolidate a bit more
+ (they're expensive and tedious, so mostly their purpose is to verify wiring)
+* Nice use of scopes to keep high-level concerns elegant and declarative
+* (javascript) Looks good!
+* Some opportunity for refactoring (ie common structure within the filters)
 
 ### Attendance
 
@@ -90,13 +104,26 @@ Code Sanitation: 4
 
 * [GitHub URL](https://github.com/mihir787/tradingPost)
 
+* Features: 1
+* UI: 3
+* Testing: 2.5
+* Rails Style: 3
+* Ruby Style: 3
+* JavaScript Style: 3
+
 ### Feedback to Me
 
 Feedback from both peers and staff encouraged me to speak up more often and be sure to make my ideas heard. This module I incorporated that feedback and made an effort to do so in group projects, class and during retros.
 
+"It's been really great getting to work with you and getting to know you better during the last two modules,  Michelle! You always bring a nice energy to our group and you've been a real pleasure to work with!" - Fred
+
+"We've gotten to work on two projects together and both times went pretty smoothly. In your portfolio you mention how you've gotten feedback to speak up more and I would agree with that, but I think you're doing awesome at it. Whenever I was stumped in our Game Time project, you seemed to always be able to chime in and help get us going in the right direction, so I would say to just embrace that and do try to speak up more because I think you do have some really valuable ideas." - Tom
+
 ## Community
 
 ### Giving Feedback
+
+I have provided feedback to four of my classmates on their portfolio pull requests as comments.
 
 ### Playing a Part
 
