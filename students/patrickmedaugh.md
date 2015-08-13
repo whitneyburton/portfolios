@@ -48,12 +48,12 @@ Scale up an existing Pivot project to be performant at a much higher scale of da
 
 Deployed to Heroku: N
 Uses Newrelic: Y
-What is the average performance and traffic? 
+What is the average performance and traffic? 1
 Required number of records seeded? Y
-Load Testing Script 
-Performance Optimization Techniques 
-Additional Features 
+Load Testing Script 3
+Performance Optimization Techniques 2
 
+Understood caching concepts but didn't unravel the existing code to create more efficient queries. Need to delve into what the code is doing on a conceptual level and use that to guide enhancing the performance.
 
 Team
 
