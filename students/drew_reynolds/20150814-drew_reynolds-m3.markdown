@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-At the beginning of this module, I wanted to go above and beyond to become the "Javascript" person of our cohort. Exercisms turned out to be more challenging than I was prepared for early on so I have spent a majority of my time working through Codecademy courses. Throughout the module, I have completed the Javascript, jQuery, AngularJS, Using APIs with Javascript, and the Using the SoundCloud API (with Javascript) courses. To put them to the test in our Self-Directed Project, I consumed the SoundCloud API with Javascript and the main feature of my project relied heavily on AJAX.
+At the beginning of this module, I wanted to go above and beyond to become the "Javascript" person of our cohort. Exercisms turned out to be more challenging than I was prepared for early on so I have spent a majority of my time working through Codecademy courses. Throughout the module, I have worked on multiple courses such as the Javascript, jQuery, AngularJS, Using APIs with Javascript, and the Using the SoundCloud API (with Javascript) courses. To put them to the test in our Self-Directed Project, I consumed the SoundCloud API with Javascript and the main feature of my project relied heavily on AJAX.
 
 ### End of Module Assessment
 
