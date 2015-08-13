@@ -119,7 +119,7 @@ https://github.com/boomkenster/IPAPA-ember
 
 ### Notes
 
-For our two week final project, our group wanted to build a Rails-backed API and then learn Ember, which would consume it on the front-end. In the end, we were not able to complete all of the requirements we set for ourselves, but we learned a lot and made a strong effort. I still would have liked to have completed the project, but I think it was an admiral first effort, especially since we got no lessons on Ember and to pretty much seek the information and learn it on our own in the last two weeks. In order to learn Ember, there were a couple nights where I spent hours working on Ember. The one night I spent about four hours watching Steve's IdeaBox Ember video where I took notes and followed along building it.
+For our two week final project, our group wanted to build a Rails-backed API and then learn Ember, which would consume it on the front-end. In the end, we were not able to complete all of the requirements we set for ourselves, but we learned a lot and made a strong effort. I still would have liked to have completed the project, but I think it was an admiral first effort, especially since we had no lessons on Ember and had to pretty much seek the information and learn it on our own in the last two weeks. In order to learn Ember, there were a couple nights where I spent hours working on it. The one night I spent about four hours watching Steve's IdeaBox Ember video where I took notes and followed along building it.
 
 ### Scores
 
@@ -142,6 +142,8 @@ I always enjoy working with you and after pairing on Game Time I think you've de
 
 Tom, I love how Turing has brought you out of your shell and how you've opened up since module 1. You're a great team member to work with and you really keep up to date in the tech world. #freestuffandpajamajeans4lyf -- Patrick
 
+TOMMY! Tom has excelled every module. In module one I remember Tom being oblivious at times but now he can do any task and believes in himself. He has incredible work ethic, amazingly diligent in his process and research and resilient in his efforts. -- Kenny
+
 ### Response to Feedback
 
 I started out Turing feeling that since I had some coding experience beforehand that it wasn't going to be that bad and I would be one of the strongest people. It seems that Turing kinda broke me down in Module 1, but it helped me realize where I needed to improve. I was quiet in the beginning, but gained more of a voice as I gained more confidence. I've always been a quiet person, for the most part only until people get to know me or I them, and I agree that it took a while, but I did finally come out of my shell. I've wanted to help people new to coding and I've done that by volunteering as my confidence has grown. I would also agree that I did improve my JavaScript skills 100% and don't write the same quality code in JavaScript that I did a month and a half ago. I've really enjoyed that in later module as I've improved me skills I've been able to help my peers and can remember helping just about everyone at least once.
@@ -154,3 +156,4 @@ I started out Turing feeling that since I had some coding experience beforehand 
 * On Friday, July 10, I met with some 1507 people to answer some questions about Atom
 * On Saturday, July 18, I assisted Rachel as a TA at an Intro to Ruby class with Girl Develop It at Twitter Boulder
 * From Monday, August 3, to Wednesday, August 5, I volunteered as a mentor at the Jefferson County Public Library's Summer Teen Coding Camp
+* On Saturday, August 9, I helped troubleshoot some problems on people's in previous module's projects such as OminAuth with Facebook and some JavaScript issues
