@@ -21,7 +21,7 @@ Ruby Style: 3
 JavaScript Style: 3
 
 
-
+<br/>
 Attendance
 
 I attended each day except Thursday August 6th where I attended Develop Denver. I missed the morning of August 4th due to a job interview.
@@ -56,7 +56,7 @@ Ruby Style: 3
 JavaScript Style: 2.5
 
 
-
+<br/>
 ScaleUp
 
 GitHubURL https://github.com/patrickmedaugh/HubStub
@@ -118,7 +118,7 @@ Fundamental JS and Style: 1
 Code Sanitation: 1
 
 
-
+<br/>
 Community
 
 Giving Feedback
