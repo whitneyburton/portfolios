@@ -25,6 +25,7 @@ Attendance
 
 I attended each day except Thursday August 6th where I attended Develop Denver. I missed the morning of August 4th due to a job interview.
 
+
 Work
 
 IdeaBox
