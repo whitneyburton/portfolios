@@ -10,7 +10,19 @@ This module, my main goal was to begin laying a foundation of knowledge for buil
 
 Assessor: Josh Mejia
 I received the following scores and feedback on the end of module assessment:
-(TODO)
+**Scores**
+1. Analytic/Algorithmic Thinking *Score: 3.5*
+2. Ruby Syntax & Standard Library *Score: 3*
+3. Rails Syntax & API *Score: 3.5*
+4. Rails Sytle *Score: 4*
+5. Testing *Score: 4*
+6. Collaboration *Score 4*
+
+**Notes**
+Overall solid understanding of Rails. Marla would benefit from practicing Ruby enumerables as some of the things that were really strong at the end of M1 aren't as strong. Great use of TDD -- it seems really natural to her. She is in a good place and understands all of the core concepts covered in M2.
+
+**My comments**
+Josh's feedback about Ruby enumerables is valid; I unfortunately did not spend as much time as I would have liked this module doing pure Ruby exercises. I have already contacted my mentor about this and we will be working though Ruby Koans together.
 
 ### Attendance
 
@@ -41,6 +53,7 @@ In this Rails mini-project, I built a webapp for recording and storing ideas. My
 #### Contact Manager
 
 * [GitHub URL](https://github.com/marlabrizel/contact_manager)
+* [Heroku](https://stormy-beach-4002.herokuapp.com/)
 
 This was our first sizeable Rails project, in tutorial form. Given that this was an early project, my main goal was to become more comfortable with basic Rails concepts.
 
@@ -89,6 +102,8 @@ site. I played a team lead role and was in charge of all production deploys. My 
 ### Feedback to Me
 
 * **Lovisa Svallingson**, Traffic Spy teammate: "I really enjoyed working with you because you made it easy to be very direct with you. We could be very direct with each other in terms of expectations, what needed to be done and we discussed like adults when we had differing opinions on whatever. And you were good knowing when you could let us wear the project management hat and when it was good for you to step in and lead."
+
+* **Rose Kohn**, 1507: "You were the first person to reach out and offer help before we came to school.  Your help continued through the module, and your explanation of the tough relationship on Sales Engine made it all clear for me."
 
 ## Community
 
