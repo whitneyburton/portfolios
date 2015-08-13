@@ -248,11 +248,22 @@ The Ugly
 
 **Evaluation Comments**
 
-TBD - But hopefully positive
+* 98 percent test coverage, 179 assertions.
+* Spec harness runs in 4 minutes, 2.9 seconds
+* 1 violation sanitation
+* sales_engine_test - empty
+* empty test
+* Good handling of edge cases in code and in tests
+* Better unit tests needed
 
 **Evaluation Scores**
 
-TBD - But hopefully positive
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* Code Sanitation: 4
 
 **Feedback to me**
 
