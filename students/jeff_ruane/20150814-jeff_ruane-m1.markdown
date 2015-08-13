@@ -15,30 +15,30 @@ Assessed by Josh Cheek on 10 Aug 2015
 
 1. Ruby Syntax & API     :3
 
-* Knew what you wanted to use and where to get it
+  * Knew what you wanted to use and where to get it
 
 2. Ruby Style            :4
 
-* Best looking code I've seen today (simple style things)
-* Solutions were elegant (not annoyingly verbose)
+  * Best looking code I've seen today (simple style things)
+  * Solutions were elegant (not annoyingly verbose)
 
 3. Blocks & Enumerations :3
 
-* Good guess on count (the name and how to invoke it)
+  * Good guess on count (the name and how to invoke it)
 
 4. Testing               :3+
 
-* Has the header info memorized (ie can write a test without referencing a bunch of stuff)
-* Had a good understanding of how the pieces mapped together
+  * Has the header info memorized (ie can write a test without referencing a bunch of stuff)
+  * Had a good understanding of how the pieces mapped together
 
 5. Workflow              :3+
 
-* Custom aliases (mkcd)
+  * Custom aliases (mkcd)
 
 6. Collaboration         :3.5
 
-* Seem to be on the same page after initial assessment of the challenge
-* Enjoyed working with you :)
+  * Seem to be on the same page after initial assessment of the challenge
+  * Enjoyed working with you :)
 
 ### Attendance
 
