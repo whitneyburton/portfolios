@@ -8,6 +8,12 @@ Coming into this module I wanted to improve my study habits and focus. I made a 
 
 ### End of Module Assessment
 
+* Good comfort with getting started
+* Some difficulties with variables vs literal data
+* Algorithmic thinking is close, but still trying to think through
+syntax and problem solving at the same time
+* Going to be a pass but with ZERO margin for error
+
 * Ruby Syntax & API - 3
 * Ruby Style - 3
 * Blocks & Enumerations - 3
