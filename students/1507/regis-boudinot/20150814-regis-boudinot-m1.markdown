@@ -93,7 +93,7 @@ In this project we built a system of several interacting Ruby objects using TDD.
 * Functional Expectations: 3
 * Test-Driven Development: 4
 * Encapsulation / Breaking Logic in Components: 3
-* Fundamental Ruby and Style: 4
+* Fundamental Ruby and Style: 3
 * Enumerable & Collections: 3
 * Code Sanitation: 4
 
