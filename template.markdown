@@ -20,26 +20,49 @@ I also set out to create tools that I could use to make this easier to do.  I ha
 
 (Intro)
 
-#### (RalesEngine)
+#### APICurious
+
+* [GitHub URL](https://github.com/RMCornell/api_curious_instagram)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
+
+#### In this project, we'll be focusing on consuming and working with data from public APIs. As a vehicle for learning this concepts, we'll be selecting an API from a popular website and working to re-construct a simplified version of the website's existing UI using their own API. For example, you might decide to use the Twitter API to build a basic version of the Twitter feed where users can view and post tweets.
+
+### Comments
+* Project fails more than 4 spec harness tests
+* Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* Project focuses tests on only a single layer of the stack, or has large gaps in the coverage)
+
+### Scores
+* Completion: 1
+* Rails and ActiveRecord Style: 3
+* Ruby Style and Code Quality: 2.5
+* API Design: 3
+* Test Driven Design: 2
+
+
+#### RalesEngine
 
 * [GitHub URL](https://github.com/RMCornell/ralesengine)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rales_engine.markdown)
 
-(In this project, we'll use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.)
+## In this project, we'll use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 
-(Project fails more than 4 spec harness tests
-Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
-Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
-Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
-Project focuses tests on only a single layer of the stack, or has large gaps in the coverage)
+### Comments
+* Project fails more than 4 spec harness tests
+* Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* Project focuses tests on only a single layer of the stack, or has large gaps in the coverage)
 
-(
-Completion: 1
-Rails and ActiveRecord Style: 3
-Ruby Style and Code Quality: 2.5
-API Design: 3
-Test Driven Design: 2
-)
+### Scores
+* Completion: 1
+* Rails and ActiveRecord Style: 3
+* Ruby Style and Code Quality: 2.5
+* API Design: 3
+* Test Driven Design: 2
+
 
 ## Team
 
