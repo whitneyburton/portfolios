@@ -9,11 +9,12 @@ fully functional web applications that looked professional. I
 
 ### End of Module Assessment
 
-*
-*
-*
-*
-*
+* Analytic/Algorithmic Thinking: 3+
+* Ruby Syntax & Standard Library: 3
+* Rails Syntax & API: 4
+* Rails Style: 3
+* Testing: 3
+* Collaboration: 3+
 
 ### Attendance
 
@@ -73,31 +74,36 @@ In this two week project my team implemented a Rails web application that allowe
 extreme guided tours by destination, activity or trip,place them into a cart, and order them.
 I was the team lead for the project and was responsible for client interaction and keeping the project on schedule.
 
-It was evaluated by ______ with the following results:
+It was evaluated by Josh with the following results:
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation / Components:
-* Fundamental Ruby & Style:
-* Sinatra / Web and Business Logic:
-* View Layer:
+* Feature Completeness: 4
+* Views: 4
+* Controllers: 3
+* Models: 4
+* Testing: 4
+* Usability: 4
+* Workflow: 4
 
 https://github.com/turingschool/feedback
 
 ### Feedback to Me
 
-In the previous module feedback .....
+* Michael Dorrance: Not only does Alex bring project management experience to the team but also excellent knowledge of Ruby and Sinatra.
+  As part of our Traffic Spy team, Alex has a tenacity for experimentation which kept any roadblocks to a minimum.
+  He is a strong programmer who is considerate, professional and committed to success. He is open to new ideas and embraces other's approaches to tackling challenges.
+  I would work again on any project with Alex.
+
+* Kristina Brown: Alex! You've been great with our posse, stay strong, posse stuff gets harder as you go along but it's really important for the young ones, just keep doing what you're doing.
 
 
 ## Community
 
+* I try to help whenever I can with coding problems, especially with 1505. I would like to be more involved in Community Outreach next module.
+
 ### Giving Feedback
 
-According to the Feedback application:
-
-* I delivered 100% of the requested feedback
-* 96% of those submissions were approved and delivered
-* 84% of my submissions were meaningful to the recipient
+* Gave feedback to all members of TrafficSpy group
+* Gave feedback to all members of Endangerous Outfitters group
 
 ### Playing a Part
 
