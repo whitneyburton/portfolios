@@ -10,7 +10,7 @@ I did Pragmatic Studio twice, did a bunch of Ruby exercises on Excerism.io, and 
 
 Note:
 
-We didn’t get to the point of any tests passing, or the CSV getting read in. I think it was mostly due to a lot of time lost on workflow issues, as well as a bit of confusion on high-level
+We didn't get to the point of any tests passing, or the CSV getting read in. I think it was mostly due to a lot of time lost on work-flow issues, as well as a bit of confusion on high-level
 
 **Ruby Syntax & API**
 
@@ -34,7 +34,7 @@ Score: 3
 
 Good call on group_by
 
-Good data structure with the hash of player_<n> to words that the player played, would have been fun to get it finisished, though :)
+Good data structure with the hash of player_<n> to words that the player played, would have been fun to get it finished, though :)
 
 **Testing**
 
@@ -56,7 +56,7 @@ Score: 3
 
 Good analysis of the challenge
 
-Overreliance on mouse
+Over-reliance on mouse
 
 Nice use of window manager
 
@@ -68,7 +68,6 @@ Score: 4
 
 Good job clarifying questions
 Good job thinking through the problem
-
 
 ### Attendance
 
@@ -152,7 +151,7 @@ The Good:
 
 The Bad:
 
-* I was not able to write this program recursively and only implemented it iteratively. In addition, I still don't feel comfortable with the iterative approach. I would like to redo this project in the future.
+* I was not able to write this program recursively and only implemented it iteratively. In addition, I still don't feel comfortable with the iterative approach. I would like to re-do this project in the future.
 
 The Ugly:
 
@@ -269,7 +268,7 @@ I tend to only give feedback if feedback is asked. But I was cognizant to try to
 
 **@Channel**
 
-Member of @channel - a Turing School Podcast for incoming prospective students. Thus far we have recorded two podcasts. I have also contributed to content ideas as well as taken responsibilities for editing and maintaining the podcast audio.
+Member of @channel - a Turing School Podcast for incoming and prospective students. Thus far we have recorded two podcasts. I have also contributed to content ideas as well as taken responsibilities for editing and maintaining the podcast audio file.
 
 Git Helper - helped various students from 1507 with understanding the basics of Git.
 
