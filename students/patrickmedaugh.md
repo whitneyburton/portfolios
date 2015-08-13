@@ -21,9 +21,11 @@ Ruby Style: 3
 JavaScript Style: 3
 
 
+
 Attendance
 
 I attended each day except Thursday August 6th where I attended Develop Denver. I missed the morning of August 4th due to a job interview.
+
 
 
 Work
@@ -54,6 +56,7 @@ Ruby Style: 3
 JavaScript Style: 2.5
 
 
+
 ScaleUp
 
 GitHubURL https://github.com/patrickmedaugh/HubStub
@@ -76,6 +79,8 @@ Performance Optimization Techniques 2
 
 
 Understood caching concepts but didn't unravel the existing code to create more efficient queries. Need to delve into what the code is doing on a conceptual level and use that to guide enhancing the performance.
+
+
 
 Team
 
@@ -111,6 +116,7 @@ Breaking Logic Into Components: 1
 Fundamental JS and Style: 1
 
 Code Sanitation: 1
+
 
 
 Community
