@@ -104,6 +104,7 @@ Your Dinner Dash is getting somewhere, but our investors have decided that servi
 ### Feedback
  * "You were super easy to work with, you knew your stuff, and I liked working with you a lot."
  * "Rob does a good job of approaching problems piece by piece and breaking them down. I’m glad he’s a part of my cohort and value what he brings to the group."
+ * "It's being really great! No complaints, really easy to work with and get feedback! able to work as part of a team and collaborate without pushing your ideas. Also, great giving out ideas to implement in an easy and understanble way. =D
 
 
 ## Community
