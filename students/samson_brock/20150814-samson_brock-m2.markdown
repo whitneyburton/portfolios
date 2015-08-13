@@ -59,6 +59,7 @@ I completed the following team projects this module:
 This group project served as our first major introduction to building a web app.
 We used Sinatra with ActiveRecord. We largely mob coded on this project.
 
+Joshua Mejia:
 "Really solid project. Naturally using presenter pattern."
 
 * Functional Expectations: 4
@@ -71,8 +72,45 @@ We used Sinatra with ActiveRecord. We largely mob coded on this project.
 #### Little Shop of Orders (Redrum Nursery)
 
 * [GitHub URL](https://github.com/michael-reeves/redrum_nursery)
-* [Original Assignment]()
+* [Original
+  Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
+Joshua Mejia:
+"One of the strongest Dinner Dash projects I've ever seen."
+
+* Feature Completeness: 4
+* Views: 3
+* Controllers: 4
+* Models: 4
+* Testing: 4
+* Usability: 4
+* Workflow: 4
+
+Sebastian Abondano:
+"Sam's energy and enthusiasm is infectious. From staying up to date with the
+latest happenings in the tech world, to attending meetups and doing pushups and
+squats during pomodoro breaks at Turing, he is consistently motivating those
+around him to do more. His calm demeanor and strong analytical skills were a
+great asset to our team while working on the 'Little Shop of Orders' project. He
+was a pleasure to work with and someone I would want to work with again in the
+future."
+
+Michael Dorrance:
+"I have had the good fortune to work with Sam on two very successful projects,
+Traffic Spy and Redrum Nursery. Sam is a diligent problem with a strong
+understanding of OOP, Ruby, Rails and an acute attention to detail. He is a
+solid team member who is willing to tackle any aspect of the project. Sam is
+respectful, personable and committed to doing great work. He also takes the time
+to explain any code that he is writing to make sure that you, as a partner,
+understand what is going on. I would work with Sam on any project in the
+future."
+
+Michael Reeves:
+"I could not be prouder of the team I had for Redrum Nursery. Sam really
+gutted it out on the project, pulling some pretty late nights. He and Mike
+Dorrance did a great job of pulling the user authentication and
+authorization processes together. Sam worked very hard on this project, and I
+can't thank him enough."
 
 ## Community
 
@@ -88,7 +126,7 @@ also do little things like buy coffee beans, make coffee, clean and do dishes, e
 an ongoing basis. I organized a couple of outings (hiking, UMS) for Turing
 students. I gave a Lightning Talk on Turing Pro Tips, in part trying to inform
 and encourage students to foster a healthier and better learning environment.
-I contributed pull requests to Jumpstart Labs / Turing School lessons. I made an
+I started a Turing Wiki. I contributed pull requests to Jumpstart Labs / Turing School lessons. I made an
 extra effort to thoroughly and thoughtfully fill out all my weekly surveys.
 
 Outside of Turing, I attended many different MeetUps including Denver.rb,
