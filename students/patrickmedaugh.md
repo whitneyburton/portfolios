@@ -81,7 +81,7 @@ Performance Optimization Techniques 2
 Understood caching concepts but didn't unravel the existing code to create more efficient queries. Need to delve into what the code is doing on a conceptual level and use that to guide enhancing the performance.
 
 
-
+<br/>
 Team
 
 Projects
