@@ -2,15 +2,15 @@
 
 ## Individual
 
-### Areas of Emphasis
+## Areas of Emphasis
 
 As someone who knew very little before starting school, my plan was to be as open and to learn as much as possible over the course of these 6wks. Moreover, I wanted to reassure myself that this is, in fact, the best career path for me. I do think these first 6wks have been successful despite some early challenges. As a new student, I also wanted to meet and get to know the other students. This is a unique opportunity to focus all of my energy one pursuit. I hope I can continue to do that as I move forward.
 
-### End of Module Assessment
+## End of Module Assessment
 
 Assessed By: DJ Greenfield
 
-Notes:
+### Notes:
 
 * Mimi is noticeably on track to become a skilled Rubist.
 * She works at a fast pace, sometimes getting ahead of herself and her tests,
@@ -18,7 +18,7 @@ but she had no issue knowing what to do next.
 * She chose the correct enumerables on the first attempt and had no issues
 implementing them at her usual pace.
 
-Scores:
+### Scores:
 
 * Ruby Syntax & API - 3: Developer is able to comfortably implement solutions in Ruby
 * Ruby Style - 3: Developer writes code that is easy to follow
@@ -27,7 +27,7 @@ Scores:
 * Workflow - 4: Developer is a master of their tools, efficiently moving between phases of development
 * Collaboration - 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
-### Attendance
+## Attendance
 
 I attended class every day except for Friday, July 31st.
 
@@ -35,7 +35,7 @@ I attended class every day except for Friday, July 31st.
 
 Below is a list of all projects and their scores for Module: 1.
 
-#### Chisel
+## Chisel
 
 * [GitHub URL](https://github.com/mcschatz/chisel)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
@@ -44,18 +44,20 @@ This was a week long project where we built a program that could convert a Markd
 
 Assessed By: Mike Dao
 
-Notes:
+### Notes:
 
-* Opens file, saves to file. Bare testing, program was restarted. Some opportunities to use better enumerables.
+* Opens file, saves to file.
+* Bare testing, program was restarted.
+* Some opportunities to use better enumerables.
 
-Scores:
+### Scores:
 
 * Fundamental Ruby & Style: 3
 * Test-Driven Development: 1
 * Functionality: 3
 * Breaking Logic into Components: 3
 
-#### LinkedList
+## LinkedList
 
 * [GitHub URL](https://github.com/mcschatz/linked_list)
 * [Original Assignment](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
@@ -64,11 +66,12 @@ In this assignment we built a linkedlist.
 
 Assessed By: Mike Dao
 
-Notes:
+### Notes:
 
-# Could have used tail method to refactor append and other methods. Liked how #count calculated count and an instance variable wasn't incremented everywhere.
+* Could have used tail method to refactor append and other methods.
+* Liked how #count calculated count and an instance variable wasn't incremented everywhere.
 
-Scores:
+### Scores:
 
 * Functional Expectations: 4
 * Test-Driven Development: 4
@@ -80,7 +83,7 @@ Scores:
 
 ### Projects
 
-#### Enigma
+### Enigma
 
 * [GitHub URL](https://github.com/mcschatz/enigma_pair_project)(https://github.com/selfup/enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
@@ -89,20 +92,20 @@ In this project we used Ruby to build a tool for cracking an encryption algorith
 
 Assessed By: Josh Cheek
 
-Notes:
+### Notes:
 
 * Use the interface before it exists, so that you can discover what it should be. This will lead to elegance.
 * Prefer interfaces where there is no way for the object to be used wrong (ie don't let other objects coordinate the methods of this object). If the object is a verb (crack, encrypt, decrypt -- vs key, date, etc), choose interfaces like "here are your inputs, give me the output", this omits "state" (instance variables) and thus will lead to the above suggestions.
 * Examples: Crack.new(encrypted_message).crack or, given the "functions" style we talked about during modules yesterday: Crack.call(encrypted_message)
 
-Scores:
+### Scores:
 
 * Functionality: 4
 * Fundamental Ruby & Style: 3
 * Test-Driven Development: 3-
 * Breaking Logic into Components: 2
 
-#### SalesEngine
+## SalesEngine
 
 * [GitHub URL](https://github.com/mcschatz/sales_engine)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
@@ -111,20 +114,26 @@ In this project we practiced building a system of several interacting Ruby objec
 
 Assessed By: Mike Dao
 
-*
-*
-*
+### Notes:
 
-Scores:
+* 98 percent test coverage, 179 assertions.
+* Spec harness runs in 4 minutes, 2.9 seconds (2:09 on Bret's computer. Darn Mike and his pinterest.)
+* 1 violation sanitation
+* sales_engine_test - empty
+* empty test
+* Good handling of edge cases in code and in tests
+* Better unit tests needed
 
-* Functional Expectations:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Encapsulation/Breaking Logic into Components:
-* Enumerable & Collections:
-* Code Sanitation:
+### Scores:
 
-(feedback to me)
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* Code Sanitation: 4
+
+"Mimi was a great partner to work with. She stayed focused and worked diligently towards a successful completion of Sales Engine(SE). I had trouble understanding some of the more complex parts of SE but Mimi was willing to be patient and explain each part’s complexity while at the same time keeping us on track to finish.  A+ partner! I hope to pair again!"
 
 ## Community
 
