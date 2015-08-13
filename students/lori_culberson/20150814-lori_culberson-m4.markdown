@@ -14,7 +14,7 @@ Feedback: Overall "Pretty good."
 
 * Features: 3
 * User Interface: 3
-* Testing: 3...ok
+* Testing: 3
 * Rails Style: 3
 * Ruby Style: 3
 * JavaScript Style: 3
