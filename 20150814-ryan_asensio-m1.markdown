@@ -154,6 +154,7 @@ I made my free time available for other students to ask for help on various
 projects.
 I helped organize the happy-hour for incoming Module 1 students.
 I organized an out-of-class BBQ for any interested Turing students.
+I stayed up until 2:30 helping people with their sales engine projects.
 
 ## Review
 
