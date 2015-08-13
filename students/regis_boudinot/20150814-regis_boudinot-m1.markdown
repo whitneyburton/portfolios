@@ -15,11 +15,12 @@ but now I am driving my code with tests and refactoring methods as I go.
 
 ### End of Module Assessment
 
-* Ruby Syntax:
-* Rails Basics:
-* Javascript Basics:
-* Workflow:
-* Collaboration:
+* Ruby Syntax & API: 3
+* Ruby Style: 3
+* Blocks & Enumerations: 3
+* Testing: 3
+* Workflow: 3
+* Collaboration: 3
 
 ### Attendance
 
@@ -85,7 +86,7 @@ This will lead to elegance."
 * [GitHub URL](https://github.com/selfup/sales_engine)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
 
-To be written
+To be written...
 
 ""
 
