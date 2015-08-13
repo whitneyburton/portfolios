@@ -11,7 +11,7 @@ effort into drilling more advanced Ruby techniques and building my front-end ski
 myself a more versatile and well-rounded full-stack developer.
  
 I turned to Exercism to both drill my advanced Ruby algorithmic skills and also get more experience
-with JavaScript. I did 2 Exercisms each week, varying Ruby and JavaScript, and also consciously
+with JavaScript. I averaged 2 Exercisms each week, varying Ruby and JavaScript, and also consciously
 took on a self-directed project that was challenging and pushed me outside my front-end comfort
 zone, consuming the Google Maps JavaScript API--95% of my project relied on JavaScript and jQuery
 for both API calls, and user experience. In addition, I attended four out of the available six
@@ -20,18 +20,18 @@ DSA sessions this module.
 ### End of Module Assessment/Self-Directed Project
 
 Feature Delivery
-* Completion:
-* Organization:
+* Completion: 4
+* Organization: 4
 Technical Quality
-* Test-Driven Development:
-* Code Quality:
+* Test-Driven Development: 3
+* Code Quality: 3
 Product Experience
-* User Experience:
-* Performance:
+* User Experience: 4
+* Performance: 4
 
 ### Attendance
 
-This module I was present everyday and arrive on-time for every class with no tardies or absences.
+This module I was present everyday and arrived on-time for every class with no tardies or absences.
 
 ### Work
 
