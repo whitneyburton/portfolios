@@ -11,7 +11,7 @@ using it.
 ### Attendance
 
 I have not missed a day during M3, or have been tardy. I will miss a day on
-Friday, Aug. 14th for a wedding.
+Friday, Aug. 14th for a wedding. 
 
 ### Individual Projects
 
