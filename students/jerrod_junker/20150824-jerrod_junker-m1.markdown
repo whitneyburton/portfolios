@@ -94,6 +94,8 @@ Score: 3
 Breaking Logic into Components:
 Score: 3+
 
+-The feedback I got on enigma is to slow down and make sure my partner is up to speed with exactly what we're doing.
+
 
 Sales Engine
 
@@ -129,9 +131,13 @@ Sales Engine
   6. Code Sanitation
   4: Zero complaints
 
+  -The feedback i got on sales engine was to try to voice my ideas earlier on, but otherwise hardly any complaints.
+
 Community
 
+  Mike W.- I said he was very receptive to ideas, but was maybe a little agressive about driving.
 
+  Jeff R.- I said he was also receptive to to ideas, but he needs to voice his ideas and to communicate more in general.
 
 Playing a Part
 
