@@ -13,6 +13,8 @@ I also set out to create tools that I could use to make this easier to do.  I ha
 #### Notes
  * Developer completed all the user stories and requirements set by the client.
  * Developer used a project management tool to keep their project organized.
+ * Project lacks sufficient testing (under 85% coverage).
+ * Project demonstrates some gaps in code quality and/or application of MVC principles.
  * Project exhibits some gaps in the UX.
  * Project pages load on average under 400 milliseconds.
 
@@ -23,8 +25,6 @@ I also set out to create tools that I could use to make this easier to do.  I ha
   * Code Quality: 2
   * User Experience: 2
   * Performance: 3
-
-(Notes & scores from your assessment rubric)
 
 ### Attendance
 
@@ -61,7 +61,7 @@ In this project, we'll be focusing on consuming and working with data from publi
 * [GitHub URL](https://github.com/RMCornell/ralesengine)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rales_engine.markdown)
 
-## In this project, we'll use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
+In this project, we'll use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 
 ### Comments
 * Project fails more than 4 spec harness tests
