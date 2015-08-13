@@ -138,6 +138,9 @@ You've made some good progress this module understanding JavaScript. Keep up the
 From Tess:
 Hey Fred! It's been really great having you with 1502 these last two modules. I wish I would've had the chance to work with you more. I agree with Lori about pairing with mentors. You can gain a lot even when you're not working on assignments.
 
+From Patrick:
+First of all, you helped me figure out how the commenting thing works! Most of all you've just been a great guy who even since module 1 when we were in the same posse were very welcoming and always had a positive attitude. I think you've come a long way and now are creating all sorts of IoT apps with drones and really advanced stuff. It's great to see.
+
 
 
 ## Community
@@ -153,7 +156,7 @@ I try to give positive and constructive feedback as much as possible. I'm always
 * On Friday, Aug 7, I presented a lightning talk "How to Fly a Quadcopter"
 * On Friday, Aug 7, I organized a new 'Flight Club' group (complete with Slack channel!) and taught three fellow students how to fly it.
 * On Friday, Aug 7, I shot photos of each of my fellow lightning-talkers while they gave their presentations. My goal is to start a new tradition of people helping to document each other's work. Hopefully these images will be useful for blog posts and social media.
-* Being a coffee drinker, I try to clean up the kitchen area and coffee zone every time I use it. 
+* Being a coffee drinker, I try to clean up the kitchen area and coffee zone every time I use it.
 
 
 
