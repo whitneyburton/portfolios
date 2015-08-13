@@ -47,12 +47,12 @@ Original Assignment: https://github.com/turingschool/curriculum/blob/master/sour
 
         Feature Completeness: 3.5
         Views: 3
-        Controllers: 4
-        Models: 3.5
+        Controllers: 3.5
+        Models: 4
         Testing: 3
         Usability: 2
-        Workflow: 3
-        
+        Workflow: 4
+
 This two week long project involved making an e-commerce site. Our team was really good at splitting up the work so that everyone was able to touch a variety of the different components. During the first part of the assignment I spent a lot of time on the backend working with the models and controllers. Later on, I knew I wanted to get better at styling so I focused on styling with css and bootstrap.
 
 Drew -> “Mitch is always enjoyable to work with both for his work ethic and his demeanor. His focus and nuanced sense of humor allows for progress without feeling as though we’re being overworked. Makes projects enjoyable.”
