@@ -8,10 +8,12 @@ Coming into this module I wanted to improve my study habits and focus. I made a 
 
 ### End of Module Assessment
 
-* Fundamental Ruby & Style: 3
-* Test-Driven Development: 3
-* Functionality: 3
-* Breaking Logic into Components: 3
+* Ruby Syntax & API - 3
+* Ruby Style - 3
+* Blocks & Enumerations - 3
+* Testing - 3
+* Workflow - 3
+* Collaboration - 3
 
 ### Attendance
 
@@ -100,7 +102,8 @@ In this week long project I built an algorithm that encrypts, decrypts and crack
 
 ### Giving Feedback
 
-* I delivered 100% of requested feedback
+* I delivered 100% of requested feedback, including to four other students who requested it.
+
 * Feedback for me: "I'd love to hear both positive and constructive feedback on how I'm doing and how I'm supporting our cohort and Turing."
 * Super positive - kept the mood light even during trying times!
 * Really glad David stuck around to be in this cohort. He is hard working, encouraging, and fun.
