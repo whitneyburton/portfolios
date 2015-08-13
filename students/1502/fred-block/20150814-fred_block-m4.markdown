@@ -18,6 +18,31 @@ My personal project has been a blast, getting to apply the new concepts we've le
 
 I worked on the final project, but unfortunately did not perform at my best. I feel that I will benefit from reviewing and practicing more of the core concepts that this project revolved around.
 
+* Delivered code is solid and very straightforward rails style
+* completion is not up to par
+* need to practice foundational rails setup and creation steps and tools
+  more
+* Should be able to fly through initial application infrastructure
+  pretty quickly
+* perhaps revisiting some tutorials or materials from earlier in the
+  curriculum would help
+
+Production: https://infinite-shelf-2484.herokuapp.com/lists
+Github: https://github.com/blocknroll/punch_list
+
+* __Features:__ 1: Missing more than two base expectations and/or the application is
+  not deployed and working in production
+* __User Interface:__ 2: The application shows effort in the interface, but the result is
+  not effective
+* __Testing:__ 3: Project has a running test suite that tests and multiple levels but
+  fails to cover some features
+* __Rails Style:__ 2: Developer struggles with some concepts of MVC and pushing logic
+  down the stack _or_ does not demonstrate and understanding of common
+Rails conventions and best practices
+* __Ruby Style:__  3: Developer solves problems with a balance between conciseness and
+  clarity and often extracts logical components
+* __Javascript Style:__ N/A - didn't get into the JS portions of the assignment
+
 
 
 ### Attendance
