@@ -95,14 +95,22 @@ In this week long project I built an algorithm that encrypts, decrypts and crack
 
 #### Sales Engine
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](http://github.com/roseak/sales_engine)
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
 
-(description)
+This was a two week project where we worked with class relationships in Ruby to create a database. I was paired with Rose Kohn and we were evaluated by Mike Dao.
 
-(evaluation comments)
+* 143 tests, 262 assertions
+* 97.73% coverage
+* No sanitation complaints
+* 2 minutes and 42 seconds
 
-(evaluation scores)
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3  
+* Fundamental Ruby & Style: 4
+* Enumerable & Collections: 4
+* Code Sanitation: 4
 
 ## Community
 
