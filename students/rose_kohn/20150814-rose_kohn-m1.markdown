@@ -10,13 +10,13 @@ As this was my first module, my primary concerns were whether I'd be able to kee
 
 My progress through the module was assessed by DJ Greenfield.  Here are the results:
 
-Notes:
+#### Notes:
 
 * Rose went to great effort to make the pairing feel like a conversation.
 * She took a very iterative approach to each problem. She never looked ahead of herself for a solution.
 * With a better command of her tools she could have worked much more quickly, but without any signs of obstruction I don't think it is yet an issue.
 
-Scores:
+#### Scores
 
 * Ruby Syntax & API - 3: Developer is able to comfortably implement solutions in Ruby
 * Ruby Style - 3: Developer writes code that is easy to follow
@@ -40,10 +40,14 @@ I completed two individual projects: Chisel and Linked Lists.
 
 In this week long project, I created a Ruby parser that would take markdown and render it to html.
 
-"Program works, no extensions."
-"More sad path tests would have been nice."
-"Code well organized."
-"Separate FileIO class needed."
+#### Notes:
+
+* Program works, no extensions.
+* More sad path tests would have been nice.
+* Code well organized.
+* Separate FileIO class needed.
+
+#### Scores
 
 * Fundamental Ruby & Style: 3
 * Test-Driven Development: 3
@@ -57,8 +61,12 @@ In this week long project, I created a Ruby parser that would take markdown and 
 
 In this three-day project I implemented a linked list through iteration. It was evaluated by Mike with the following results:
 
-"Could use some additional edge case testing"
-"Good #count method"
+#### Notes
+
+* Could use some additional edge case testing
+* Good #count method
+
+#### Scores
 
 * Functional Expectations: 4
 * Test-Driven Development: 3
@@ -79,12 +87,16 @@ I participated in two group projects: Enigma and Sales Engine.
 
 This was a week long project where we used Ruby to build a tool for encrypting, decrypting, and cracking a code.  I was paired with Rebekah Sosa and we were evaluated by Jeff.
 
-"Strengths: it works"
-"50 tests all pass"
-"Good decomposition"
-"Like the enumerable work and implementation"
-"All functionality looks good"
-"Like that you experimented with modules"
+#### Notes
+
+* Strengths: it works
+* 50 tests all pass
+* Good decomposition
+* Like the enumerable work and implementation
+* All functionality looks good
+* Like that you experimented with modules
+
+#### Scores
 
 * Functionality: 4
 * Fundamental Ruby & Style: 3
@@ -98,16 +110,21 @@ This was a week long project where we used Ruby to build a tool for encrypting, 
 
 This was a two week project where we worked with class relationships in Ruby to create a database.  I was paired with David Stinnette and we were evaluated by Mike Dao.
 
-(evaluation comments)
+#### Notes
 
-* Functional Expectations
-* Test-Driven-Development
-* Encapsulation/Breaking Logic into Components
-* Fundamental Ruby & Style
-* Enumerable & Collections
-* Code Sanitation
+* 143 tests, 262 assertions
+* 97.73% coverage
+* No sanitation complaints
+* 2 minutes and 42 seconds
 
-(feedback to me)
+#### Scores
+
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3  
+* Fundamental Ruby & Style: 4
+* Enumerable & Collections: 4
+* Code Sanitation: 4
 
 ## Community
 
