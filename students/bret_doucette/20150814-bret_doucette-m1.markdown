@@ -8,7 +8,67 @@ I did Pragmatic Studio twice, did a bunch of Ruby exercises on Excerism.io, and 
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Note:
+
+We didn’t get to the point of any tests passing, or the CSV getting read in. I think it was mostly due to a lot of time lost on workflow issues, as well as a bit of confusion on high-level
+
+**Ruby Syntax & API**
+
+Score: 3
+
+Understood game = ... needed an attr_reader to share the game with the test
+
+**Ruby Style**
+
+Score: 3
+
+Lots of blank lines :P
+
+Cleaned them up :)
+
+Indentation was correct
+
+**Blocks & Enumerations**
+
+Score: 3
+
+Good call on group_by
+
+Good data structure with the hash of player_<n> to words that the player played, would have been fun to get it finisished, though :)
+
+**Testing**
+
+Score: 4-
+
+Good test names and implementations
+
+Good reading error messages
+
+Good setup
+
+Did want to jump into implementation before writing the tests
+
+Good referring to the tests frequently to verify program
+
+**Workflow**
+
+Score: 3
+
+Good analysis of the challenge
+
+Overreliance on mouse
+
+Nice use of window manager
+
+Good referring to places where you knew parts of the problem were already addressed
+
+**Collaboration**
+
+Score: 4
+
+Good job clarifying questions
+Good job thinking through the problem
+
 
 ### Attendance
 
