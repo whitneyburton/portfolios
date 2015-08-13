@@ -40,7 +40,7 @@ create rewards for them to redeem.
 * [Original Assignment](https://github.com/turingschool/challenges/my-jams.markdown)
 
 In this project I built a Rails application that allows users to login to see their favorite songs, play
-the songs throw the SoundClound embedded player, and add more songs.
+the songs through the SoundClound embedded player, and add more songs.
 
 ## Team
 
@@ -71,7 +71,7 @@ and displayed different metrics on the data. It was evaluated by Josh with the f
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 In this two week project my team implemented a Rails web application that allowed users to shop for
-extreme guided tours by destination, activity or trip,place them into a cart, and order them.
+extreme guided tours by destination, activity or trip, place them into a cart, and order them.
 I was the team lead for the project and was responsible for client interaction and keeping the project on schedule.
 
 It was evaluated by Josh with the following results:
