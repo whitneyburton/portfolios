@@ -126,6 +126,9 @@ We did extensive planning on the project all together. I set up the submission m
 
 People liked me last module and I think they still do.
 
+The Feedback I got from Eric:
+Feedback for you: I think this last project was the only one we got to work on together, which is really too bad because I really liked working with you. You're drive and ability to figure things out is truly impressive! My personality thrives when I'm around people that challenge me and you definitely do that, so thank you very much. You also take the time to get to know your team mates and take care of the community around you in a genuine way, which I think will serve you well in the future. Now the BAD!!!! No bullshit, I do not have a lot here.  I've heard feedback that you work at a pace that can be intimidating to others. This is the strangest negative feedback ever because I personally don't see anything wrong with it, that is just some feedback I got from someone else in our cohort (ask me in private if you want to know more).
+
 ## Community
 
 ### Giving Feedback
