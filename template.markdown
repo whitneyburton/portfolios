@@ -1,10 +1,12 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Robert Cornell - (M3) Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to really understand and apply what we covered in module 2.  Because of my wedding at the end of module 2 I don't think I got everything I could have out of Dinner Dash, and that frustrated me a bit.  While I understood the theory of what we did, my understanding of the application was not the most solid.  So I set out to fix this.  
+
+I also set out to create tools that I could use to make this easier to do.  I have created several "Rails Cheats" that I use to guide me through projects and have also branched out into exploring different gems and tools that are available in rails.  
 
 ### End of Module Assessment
 
@@ -18,16 +20,26 @@
 
 (Intro)
 
-#### (Project Name)
+#### (RalesEngine)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/RMCornell/ralesengine)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rales_engine.markdown)
 
-(description)
+(In this project, we'll use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.)
 
-(evaluation comments)
+(Project fails more than 4 spec harness tests
+Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+Project focuses tests on only a single layer of the stack, or has large gaps in the coverage)
 
-(evaluation scores)
+(
+Completion: 1
+Rails and ActiveRecord Style: 3
+Ruby Style and Code Quality: 2.5
+API Design: 3
+Test Driven Design: 2
+)
 
 ## Team
 
