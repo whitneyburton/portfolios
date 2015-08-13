@@ -132,19 +132,28 @@ Scores:
 ### Feedback to Me
 The feedback I received was to reach out for help sooner and more often – as opposed to letting myself get hung up trying too hard to figure out something on my own.
 
+From Lori:
+You've made some good progress this module understanding JavaScript. Keep up the studying. I think you should pair with mentors multiple times each week. It's important to work with someone who can teach you while you are honing your skills.
+
+From Tess:
+Hey Fred! It's been really great having you with 1502 these last two modules. I wish I would've had the chance to work with you more. I agree with Lori about pairing with mentors. You can gain a lot even when you're not working on assignments.
+
 
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+I try to give positive and constructive feedback as much as possible. I'm always happy when someone approaches me for feedback or with a question, and I try to keep an emphasis on an a positive, fun learning environment.
+
+
 
 ### Playing a Part
 
 * On Friday, Aug 7, I presented a lightning talk "How to Fly a Quadcopter"
 * On Friday, Aug 7, I organized a new 'Flight Club' group (complete with Slack channel!) and taught three fellow students how to fly it.
 * On Friday, Aug 7, I shot photos of each of my fellow lightning-talkers while they gave their presentations. My goal is to start a new tradition of people helping to document each other's work. Hopefully these images will be useful for blog posts and social media.
+* Being a coffee drinker, I try to clean up the kitchen area and coffee zone every time I use it. 
 
 
 
