@@ -16,7 +16,31 @@ activities, and made contributions wherever I saw the opportunity.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Joshua Mejia:
+"Sam is a really strong developer and has a great process for tackling problems.
+He has a solid grasp of all key learning points in M2. Moving forward, I suggest
+modeling more complex database relationships, not because I see any
+deficiencies, but because I think he would find it interesting. I'd love to see
+Sam have fun and experiment with technologies that interest him over the next
+two modules."
+
+* Analytic/Algorithmic Thinking
+Score: 4
+
+* Ruby Syntax & Standard Library
+Score: 3
+
+* Rails Syntax & API
+Score: 4
+
+* Rails Style
+Score: 4
+
+* Testing
+Score: 4
+
+* Collaboration
+Score: 4
 
 ### Attendance
 
@@ -60,10 +84,12 @@ We used Sinatra with ActiveRecord. We largely mob coded on this project.
 
 I have helped mentor/pair with students in Module 1, and do my best to be a good
 example by actively participating in morning warmpups and Friday activities. I
-also do little things like buy coffee beans, make coffee, handle dishes, etc. on
+also do little things like buy coffee beans, make coffee, clean and do dishes, etc. on
 an ongoing basis. I organized a couple of outings (hiking, UMS) for Turing
 students. I gave a Lightning Talk on Turing Pro Tips, in part trying to inform
-and encourage students in fostering a healthier and better learning environment.
+and encourage students to foster a healthier and better learning environment.
+I contributed pull requests to Jumpstart Labs / Turing School lessons. I made an
+extra effort to thoroughly and thoughtfully fill out all my weekly surveys.
 
 Outside of Turing, I attended many different MeetUps including Denver.rb,
 Boulder Ruby, DenverScript, and ReactJS.
