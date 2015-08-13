@@ -10,6 +10,9 @@ After working on IdeaBox.js I realized I needed more practice implementing jQuer
 ### End of Module Assessment
 24 hours of glory! It was a good assessment that was rigorous and fair. I felt comfortable with the content and challenged by the jQuery and features. 
 
+https://github.com/loriculberson/task_list_lori
+https://lori-task-list-mod4.herokuapp.com
+
 Feedback: Overall "Pretty good."
 
 * Features: 3
