@@ -122,8 +122,12 @@ Being a Community Member
 Playing a Part
 
 On Friday August 7th I delivered a lighting talk “An Intro to	MongoDB”
+
 On Tuesdays July 7, 14, 21 I ran JavaScript study session after	school
+
 On Saturday July 18th the ultimate group organized at Cheesman park
+
+I attended the newcomer meet and greet before module to welcome new students
 
 
 Review
