@@ -11,7 +11,83 @@ Going into the program. I felt I had an academic headstart, This turned out to b
 
 ### End of Module Assessment
 
-Passed but pending scores from instructors
+Assessed by Josh Cheek on 10 Aug 2015
+
+Challenge: 1. [Word List (linked list)](https://github.com/turingschool/assessment_challenges/blob/master/module_1_assessment.markdown)
+
+
+1. Ruby Syntax & API
+
+Score: 3
+
+* No issues
+
+4: Developer is able to comfortably implement solutions using the best-choice tools Ruby has to offer
+3: Developer is able to comfortably implement solutions in Ruby
+2: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts
+1: Developer spends significant time debugging elementary syntax or concepts
+
+
+2. Ruby Style
+
+Score: 3
+
+* Typically, people put newlines between method definitions
+* Indentation and such were fine
+
+4: Developer solves problems with a balance between conciseness and clarity
+3: Developer writes code that is easy to follow
+2: Developer writes code that has unnecessary variables, operations, or steps which do not increase clarity
+1: Developer writes code that is difficult to understand
+
+
+3. Blocks & Enumerations
+
+Didn't get the chance to look at these
+
+4: Developer is able to consistently select and implement the best-choice enumerator methods with blocks
+3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+2: Developer can use enumerator methods, but struggles to choose the right one for the job or demonstrates weak understanding of blocks
+1: Developer is not able to use enumerator methods or blocks to solve the problem at hand
+
+
+4. Testing
+
+* More tests than necessary initially (several can be combined)
+* Good reading through the problem again and making sure that the tests cover the behaviour you see
+
+4: Developer consistently takes small steps, using the tests for both design and verification
+3: Developer uses tests to guide development in small chunks
+2: Developer uses tests to guide development, but does not break features down into small problems
+1: Developer does not integrate testing throughout their development process
+
+
+5. Workflow
+
+Score: 3
+
+* Using fish!
+* Customizing shell
+* Speed your keys up
+
+4: Developer is a master of their tools, efficiently moving between phases of development
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+2: Developer smoothly moves between tools, but is dependent entirely on mouse-driven interaction
+1: Developer gets work done, but wastes significant time or screen real estate
+
+
+6. Collaboration
+
+Score: 3-
+
+* Didn't seem to understand what I was advocating with taking the example from the challenge and turning it into a test.
+
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+2: Developer asks detailed questions when progress slows or stops
+1: Developer is able to integrate unsolicited feedback but does not really collaborate
+
+
 
 ### Attendance
 
@@ -57,7 +133,7 @@ Some Ruby implementation needs refactoring"
 
 
  
- ##### Team Projects
+ ## Team Projects
  
  #### Sales Engine
 * [GitHubURL](https://github.com/malonwais/sales_engine)
@@ -96,12 +172,12 @@ I've asked for feedback via google forms and the little feedback i got was very 
 I asked other members of my cohort personally and I couldn't really write fast enough to quote.
 
 Here are some key points I've heard that I need to work on.
-#### Negative
+##### Negative
 * I move too fast, whether or not I am in the position of teaching something or pairing or just having a conversation I tend to move from subject to subject or context to context without the other person feeling like they have a say in the matter
 
 * I interrupt people, on my side of things I'm getting really excited about a concept and in my own eagerness to offer what I think is helpful or relevant I sort of just blurt things out. On the other person's side of the story they are just in the middle of speaking and I sort of talk over them. I really need to work on this
 
-#### Positive
+##### Positive
 
 * I move fast, both a positive and a negative. I can help people faster if I can pick up on their code faster.
 
