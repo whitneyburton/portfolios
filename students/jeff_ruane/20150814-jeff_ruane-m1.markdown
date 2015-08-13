@@ -5,8 +5,8 @@
 ### Areas of Emphasis
 
 I wasn't sure what I was really getting into, I set out to learn Ruby, and while I certainly haven't mastered
-it, I think I've set a good foundation. After Chisel, I wanted put an emphasis on TDD, and I think I've improved 
-there. 
+it, I think I've set a good foundation. After Chisel, I wanted put an emphasis on TDD, and I think I've improved
+there.
 
 ### End of Module Assessment
 
@@ -99,7 +99,10 @@ In this project, we created a program to parse through several data types and dr
 
 (evaluation scores)
 
-(feedback to me)
+Feedback from Tyler:
+"Positives: Jeff was a great partner. He was very flexible when it came to meeting times and was always willing to put in the necessary work to get the project done. He was an excellent communicator and was good at breaking down big problems into small components. I definitely learned a lot from doing Sales Engine with Jeff and I have a stronger understanding of OOP because of it.
+
+Things to work on: There were many times where Jeff would write a bunch of code without saying why he was doing it. However, every time I stopped him he would always take the time to explain. There were also times where I would ask him a question and he would be thinking a lot in his own head that he hadn't even realized I asked a question."
 
 #### Enigma
 * [Github URL](https://github.com/Unsafepond/Enigma-new)
@@ -118,15 +121,17 @@ I recieved the following feedback from my partner: "He's very kind and productiv
 
 ## Community
 
+"Jeff is a great paring partner, reliable posse member, and always pleasant to work with. I'm glad we're in the same posse." - Adam Caron
+
 ### Giving Feedback
 
 I have given feedback to both of my project partners, and to a handful of other people in my cohort and others.
 
 ### Playing a Part
 
-I'm not generally the most outgoing person, and it takes me a while to get comfortable in a new environment. Also, 
-being in the first module, and being new to programming, I didn't really have the tools to help people out, although 
-I was always willing to help people if I could. I attending a handful of after school sessions, and helped clean up the 
+I'm not generally the most outgoing person, and it takes me a while to get comfortable in a new environment. Also,
+being in the first module, and being new to programming, I didn't really have the tools to help people out, although
+I was always willing to help people if I could. I attending a handful of after school sessions, and helped clean up the
 space when it was my posse's turn to do so. In addition, I've volunteered to help get 1508 prepared during the off week.
 
 ## Review
