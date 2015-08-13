@@ -10,7 +10,7 @@ As someone who knew very little before starting school, my plan was to be as ope
 
 Assessed By: DJ Greenfield
 
-### Notes:
+#### Notes:
 
 * Mimi is noticeably on track to become a skilled Rubist.
 * She works at a fast pace, sometimes getting ahead of herself and her tests,
@@ -18,7 +18,7 @@ but she had no issue knowing what to do next.
 * She chose the correct enumerables on the first attempt and had no issues
 implementing them at her usual pace.
 
-### Scores:
+#### Scores:
 
 * Ruby Syntax & API - 3: Developer is able to comfortably implement solutions in Ruby
 * Ruby Style - 3: Developer writes code that is easy to follow
@@ -44,13 +44,13 @@ This was a week long project where we built a program that could convert a Markd
 
 Assessed By: Mike Dao
 
-### Notes:
+#### Notes:
 
 * Opens file, saves to file.
 * Bare testing, program was restarted.
 * Some opportunities to use better enumerables.
 
-### Scores:
+#### Scores:
 
 * Fundamental Ruby & Style: 3
 * Test-Driven Development: 1
@@ -66,12 +66,12 @@ In this assignment we built a linkedlist.
 
 Assessed By: Mike Dao
 
-### Notes:
+#### Notes:
 
 * Could have used tail method to refactor append and other methods.
 * Liked how #count calculated count and an instance variable wasn't incremented everywhere.
 
-### Scores:
+#### Scores:
 
 * Functional Expectations: 4
 * Test-Driven Development: 4
@@ -92,13 +92,13 @@ In this project we used Ruby to build a tool for cracking an encryption algorith
 
 Assessed By: Josh Cheek
 
-### Notes:
+#### Notes:
 
 * Use the interface before it exists, so that you can discover what it should be. This will lead to elegance.
 * Prefer interfaces where there is no way for the object to be used wrong (ie don't let other objects coordinate the methods of this object). If the object is a verb (crack, encrypt, decrypt -- vs key, date, etc), choose interfaces like "here are your inputs, give me the output", this omits "state" (instance variables) and thus will lead to the above suggestions.
 * Examples: Crack.new(encrypted_message).crack or, given the "functions" style we talked about during modules yesterday: Crack.call(encrypted_message)
 
-### Scores:
+#### Scores:
 
 * Functionality: 4
 * Fundamental Ruby & Style: 3
@@ -114,7 +114,7 @@ In this project we practiced building a system of several interacting Ruby objec
 
 Assessed By: Mike Dao
 
-### Notes:
+#### Notes:
 
 * 98 percent test coverage, 179 assertions.
 * Spec harness runs in 4 minutes, 2.9 seconds (2:09 on Bret's computer. Darn Mike and his pinterest.)
@@ -124,7 +124,7 @@ Assessed By: Mike Dao
 * Good handling of edge cases in code and in tests
 * Better unit tests needed
 
-### Scores:
+#### Scores:
 
 * Functional Expectations: 3
 * Test-Driven Development: 3
@@ -137,7 +137,7 @@ Assessed By: Mike Dao
 
 ## Community
 
-### Feedback to me
+#### Feedback to me
 
 "Hi Mimi! First and foremost, I appreciate the good natured attitude you bring with you each day to Turing. I see you applying yourself well during the times I see you working. When you asked for help, you did a good job of paying attention to the assistance given whether it was from myself or another. From what I gathered from your Sales Engine teammate, you were doing a good job of keeping up with the workflow and challenging yourself!"
 
@@ -145,7 +145,7 @@ Assessed By: Mike Dao
 
 "Mimi is a pleasure to pair with. She makes sure to go through and map out a problem first before attacking it. She makes a habit of writing her tests first before implementing the code, and the code that she writes is easy to understand. When pairing she makes sure everyone’s on the same page. She’s good at being even keeled, not getting too worked up about a problem, continuing to push till she figures out a solution. Considering where she started when the module began, it’s pretty remarkable how far she’s come. Please pair us. :)"
 
-### Playing a Part
+#### Playing a Part
 
 I've participated in the larger Turing Community in the following ways:
 
