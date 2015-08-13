@@ -105,6 +105,7 @@ Your Dinner Dash is getting somewhere, but our investors have decided that servi
  * "You were super easy to work with, you knew your stuff, and I liked working with you a lot."
  * "Rob does a good job of approaching problems piece by piece and breaking them down. I’m glad he’s a part of my cohort and value what he brings to the group."
  * "It's being really great! No complaints, really easy to work with and get feedback! able to work as part of a team and collaborate without pushing your ideas. Also, great giving out ideas to implement in an easy and understanble way. =D
+ * I’ve had the pleasure of working with Rob on two group projects. He’s always got something interesting to talk about and he’s fun to work with. Rob is always super calm and level-headed when you work with him which is such a great thing in high-stress situations. On the code side of things he rocks too! He’s really smart and knows his shit. I especially liking working with Rob when trying to figure out the logic for how to do something or troubleshooting problems, he’s great at walking through the process/steps of what the code is doing and finding the pain points.
 
 
 ## Community
