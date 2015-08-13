@@ -10,23 +10,6 @@ I didn't set goals for the module. I joined turing with the goal of learning to 
 
 #### Notes
 
-* Does not create a new invoice.
-* Sanitation - Zero complaints
-* Great test of randomness.
-* Spec Harness generates 9 errors. 12 minutes, 19 seconds.
-* Test suite consists of 149 tests, missing unit tests and some coverage of models.
-* 5 failing tests.
-* Application only made use of #each
-
-#### Scores
-
-* Functional Expectations: 2
-* Test-Driven Development: 3
-* Encapsulation / Breaking Logic into Components: 3
-* Fundamental Ruby and Style: 3
-* Enumerables and Collections: 2
-* Code Sanitation: 4
-
 ### Attendance
 
 No missed time.
@@ -115,7 +98,7 @@ Score:
 
 I only had one group project this module.
 
-#### (Project Name)
+#### Sales Engine
 
 * [GitHub URL](https://github.com/russelleh/sales_engine)
 * [Original Assignment](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
