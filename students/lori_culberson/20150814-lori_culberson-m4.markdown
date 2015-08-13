@@ -12,9 +12,9 @@ After working on IdeaBox.js I realized I needed more practice implementing jQuer
 
 Feedback: Overall "Pretty good."
 
-* Features: pending
+* Features: 3
 * User Interface: 3
-* Testing: 
+* Testing: 3...ok
 * Rails Style: 3
 * Ruby Style: 3
 * JavaScript Style: 3
