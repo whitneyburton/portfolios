@@ -1,4 +1,4 @@
-Patrick Medaugh - (M1/M2/M3/M4) Portfolio
+Patrick Medaugh - M4 Portfolio
 Individual
 
 Areas of Emphasis
@@ -66,10 +66,23 @@ Original Assignment https://github.com/turingschool/lesson_plans/blob/master/rub
 
 Create a game using JavaScript in the browser. We used canvas for our project and implemented multiple difficulty levels.
 
-(evaluation comments)
+Notes
 
-(evaluation scores)
+Gameplay is playable as an early prototype
+Had trouble requiring files and having functions show
+Weren't able to test, get jQuery going
+Used kind of a temporary file testing because of require problems
+Some git confusion about a few tests
+Look for opportunities to name/extract magic data. Consider a config object
+Talk about process to figure out why we didn't get help with fundamental issues
+Not able to run JSHint
 
+Scores
+Functional Expectations: 2
+Test-Driven Development: 2
+Breaking Logic Into Components: 1
+Fundamental JS and Style: 1
+Code Sanitation: 1
 
 
 Community
