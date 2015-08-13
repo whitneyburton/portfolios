@@ -48,40 +48,39 @@ Scale up an existing Pivot project to be performant at a much higher scale of da
 
 Deployed to Heroku: N
 Uses Newrelic: Y
-What is the average performance and traffic? 3?
+What is the average performance and traffic? 
 Required number of records seeded? Y
-Load Testing Script 3?
-Performance Optimization Techniques 3?
-Additional Features 3?
+Load Testing Script 
+Performance Optimization Techniques 
+Additional Features 
+
 
 Team
 
 Projects
 
-(Intro)
-
-GameTime (Lightcyclees
+GameTime (Lightcycles)
 
 GitHub URL https://github.com/patrickmedaugh/Tron-lightcycles
 Original Assignment https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown
 
-Create a game using JavaScript in the browser.
+Create a game using JavaScript in the browser. We used canvas for our project and implemented multiple difficulty levels.
 
 (evaluation comments)
 
 (evaluation scores)
 
-(feedback to me)
+
 
 Community
 
 Giving Feedback
 
-(feedback from me)
+...
 
 Being a Community Member
 
-(feedback to me)
+...
 
 Playing a Part
 
@@ -94,8 +93,8 @@ Review
 
 Notes
 
-( Leave blanks for reviewers )
+
 
 Outcome
 
-( Leave blanks for reviewers )
+
