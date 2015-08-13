@@ -11,7 +11,78 @@ tools like git, github and waffle were the things I focused on the most.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed by Josh Cheek on 10 Aug 2015
+
+Challenge: 2.Player Word Count (CSV Reader)
+
+1. Ruby Syntax & API
+
+Score: 3
+
+* Adequate
+
+4: Developer is able to comfortably implement solutions using the best-choice tools Ruby has to offer
+3: Developer is able to comfortably implement solutions in Ruby
+2: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts
+1: Developer spends significant time debugging elementary syntax or concepts
+
+2. Ruby Style
+
+Score: 3
+
+* Strange newline claustrophobia
+
+4: Developer solves problems with a balance between conciseness and clarity
+3: Developer writes code that is easy to follow
+2: Developer writes code that has unnecessary variables, operations, or steps which do not increase clarity
+1: Developer writes code that is difficult to understand
+
+3. Blocks & Enumerations
+
+Score: 3
+
+* Nice use of count
+* `drop` is better than shift
+
+4: Developer is able to consistently select and implement the best-choice enumerator methods with blocks
+3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+2: Developer can use enumerator methods, but struggles to choose the right one for the job or demonstrates weak understanding of blocks
+1: Developer is not able to use enumerator methods or blocks to solve the problem at hand
+
+4. Testing
+
+Score: 3
+
+* Reasonable first test
+* Don't name tests after the implementation, but after the behaviour they're testing
+
+4: Developer consistently takes small steps, using the tests for both design and verification
+3: Developer uses tests to guide development in small chunks
+2: Developer uses tests to guide development, but does not break features down into small problems
+1: Developer does not integrate testing throughout their development process
+
+5. Workflow
+
+Score: 3
+
+* Watch where you save files (saved them in project root instead of lib)
+* Watch where you place tests (placed them in Scrabble test rather than GameReader)
+
+4: Developer is a master of their tools, efficiently moving between phases of development
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+2: Developer smoothly moves between tools, but is dependent entirely on mouse-driven interaction
+1: Developer gets work done, but wastes significant time or screen real estate
+
+6. Collaboration
+
+Score: 4
+
+* Was basically with you the whole time
+
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+2: Developer asks detailed questions when progress slows or stops
+1: Developer is able to integrate unsolicited feedback but does not really collaborate
 
 ### Attendance
 
@@ -103,20 +174,68 @@ is fine
 * Test-Driven Development: 3
 * Breaking Logic into Components: 3
 
-(feedback to me)
+###### From Tyler Komoroske
+Positives: Travis was an awesome partner to have for Enigma. He was very flexible when it came to meeting up to get some work done, and showed dedication and determination to produce great work. He was an excellent teacher throughout the coding process. I typically struggle with code implementation and Travis always took the time to make sure I understood the code before moving on to the next task. Very effective communicator as well.
+
+Areas for growth: Travis generally handled most of the code implementation, which was definitely partly because he was much better at implementing code than I was. But I do wish that I had more of a chance to actually write our code base. I chose not to speak up due to time constraints and I wanted to make sure we had a working product. Maybe in the future it might be a good idea for Travis to let others do more of the driving.
+
+
+#### Sales Engine
+
+* [GitHub URL]
+* [Original Assignment]
+
+
+
+##### Notes
+
+
+
+##### Scores
+
+
+
+###### From MaryBeth Burch
+
+Insert comments from MB here!
+
 
 ## Community
 
 ### Giving Feedback
 
-The feedback app isn't up and running yet, but I completed 100% of surveys to
-the best of my ability, and really focused on giving constructive feedback
-about instructors so that instruction at Turing can be improved for the benefit
-of all of us students.
+I gave constructive feedback to any people in the Turing community that I had interactions with during the module. I tried to make sure that this feedback was specific and frank, as I feel that we only grow when our weaknesses are directly confronted, and we only cement our best attributes when our strengths are clearly defined.
+
+### Receiving Feedback
+
+###### What is something Travis has done that was beneficial this module?
+
+* Travis volunteered to be the driver for almost every warmup challenge, and approached both warmups and exercisms with enthusiasm and a genuine desire to learn. This, in turn, infected the rest of the posse, and had a positive effect on all members.
+
+* Asking for people to use "I" statements in retro. This leads to a huge shift in group interaction, creates a safer environment, and because of that, directly impacted Turing's mission. Thank you.
+
+* Travis's positive attitude is a big help. I think a lot of ppl underestimate how important the mood of the people around you can be. Having positive people around helps you to keep calm and be positive. Emotions are contagious.
+worked diligently at warmup exercises
+
+###### What is something Travis did this module he could work on improving for the future?
+
+* I honestly didn't see anything I can point to that I think is a "thing" he should work on.
+
+* Taking time with basic ruby exercises and seeking to understand his tools better. Travis enjoys jumping in, which is an asset mostly, but can lead to getting halfway through the sandwich before asking what's in it.
+
+###### Is there anything else you'd like Travis to know?
+
+* Travis is a true pleasure to work with, and bring positive energy and confidence to the table at every sitting.
+
+* Glad to have part of our class pal!
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+As a new Turing community member, it was definitely hard to give back to the community when I felt like I always had so many needs that required taking so much.
+
+I try to channel my past life as a teacher whenever possible to both have patience with other people who are explaining things to me, and trying to share the slight amounts of knowledge that I've accumulated thus far with others who need help.
+
+I did also try to help out with small things I knew I could contribute, like making more pots of coffee than I can count, and cleaning out the entire large workroom refrigerator when it smelled disgusting. I also helped clean up after field day--come to think of it I might be the maid of Turing.
 
 ## Review
 
