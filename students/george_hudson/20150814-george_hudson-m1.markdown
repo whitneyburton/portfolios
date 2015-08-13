@@ -115,6 +115,17 @@ Scores
 
 personal note: the first part of this project was solo for the few of us in our section of 1507. I worked hard to make my code readable and easy to implement other code on top of. My downfall was that I did not actually have the engine built which is the foundation of this project, so I had these nice pretty classes that had nothing to ground them and they started to get more abstract and adopt more responsibility than they needed. I identified the need to implement the engine (and believe that such a foundation should be laid first in subsequent projects) and was about to implement it(first by readjusting my tests) and then had the project taken away and then was paired with Russell Harms and handed another person's code to adopt. This threw me more than I felt it should (I'm sure getting us used to delving into other code was an intentional consequence of this action) and I noticed that I was writing choppy, sloppy code on top of a code base I didn't fully understand with the idea that I would be going back to fix it. With time constraints, I kept pushing on to the next issue instead of refactoring once I had something working minimally. This led to a lot of technical debt built up during the course of the project. I do not feel I met my personal goals for this project.
 
+Since I did not meet the minimum requirements to pass the Sales Engine Assessment, I was required to build Sales Engine the SQL as my final graded project. I still had to use the same base code and ended up refactoring a lot of the time. I barely got the spec harness to work before the project deadline.
+Reviewed by Josh Cheek
+Scores
+Functionality: 3
+TDD: 3 (a weak 3)
+Encapsulations: 3
+Ruby Style: 3
+SQL: 2
+
+I felt extrememly pressed for time on this project. I wish I had implemented a bit more complex SQL into ita bove mere SELECTS, INSERTS, and CREATES, but I was barely able to get the spec harness to pass in time.
+
 Feedback to Me
 --------------------------------------
 
@@ -124,7 +135,7 @@ I sought some feedback from my SalesEngine partner, my peers, from upperclassmen
 
 Mostly you seem like a good and diligent programmer, which is one of the things which made it easier to let you do your own thing. I think if we had coordinated better that we would have nailed it.
 
-Personal Note: I feel that communication was our biggest weakness. We didn't set expectations or work schedules right off the bat and were often bad at filling in the other on the details of what we were putting time and effort into. Despite our relatively low score on SalesEngine, I would enjoy pairing with Russell again as he was a pleasant and respectful person and I bet we would do a good job of building on our strengths and shoring up our weaknesses. 
+Personal Note: I feel that communication was our biggest weakness. We didn't set expectations or work schedules right off the bat and were often bad at filling in the other on the details of what we were putting time and effort into. Despite our relatively low score on SalesEngine, I would enjoy pairing with Russell again as he was a pleasant and respectful person and I bet we would do a good job of building on our strengths and shoring up our weaknesses.
 
 * Justin Pease (Module 1): "Yeah, you did help me out. I can't point out anything you did wrong and you were very willing to help which is the biggest thing. What I needed to learn, you were able to communicate in a way I could understand. I do remember that you gave me a compliment for coming to you with a "specific" question which allowed you to help me quickly and accurately which is a good insight."
 
