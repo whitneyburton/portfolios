@@ -124,6 +124,10 @@ My peers said:
 
 * I reminded my posse when it was our cleanup week and I also have pitched in a few mornings and evenings to put away dishes or load the dishwasher.
 
+* Attended meetups including Women Who Code study groups and Turing Community Night for front-end development.
+
+* I am present for posse time each morning and collaborate on warm-ups. 
+
 ## Review
 
 ### Notes
