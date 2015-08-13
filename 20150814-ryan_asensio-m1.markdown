@@ -145,7 +145,9 @@ at Turing over the weekend, to help others with their sales engine projects.
 Feedback I received from others includes that I need to be a better communicator
 while pairing. Next module, I will be sure to ask my pairing partners if I am
 communicating effectively. I think my biggest weakness is running with ideas
-before making sure the other party understands where it is going.
+before making sure the other party understands where it is going. On the other
+hand, people were very grateful for help troubleshooting that I gave on Sales
+Engine and other assignments.
 
 ### Playing a Part
 
