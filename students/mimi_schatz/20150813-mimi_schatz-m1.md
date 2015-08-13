@@ -153,7 +153,7 @@ I've participated in the larger Turing Community in the following ways:
 * Attended Women Who Code Ruby Study group on July 15, 2015.
 * Organized 2 happy hours for 1507.
 * Organizing the introduction class and happy hour for 1508.
-* Gave and interview for the weekly Turing update email.
+* Gave an interview for the weekly Turing update email.
 
 ## Review
 
