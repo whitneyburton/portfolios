@@ -114,17 +114,81 @@ Scores:
 * Workflow: 4
 * Collaboration: 4
 
+####SalesEngine
+
+Assessed By DJ
+
+Adam Jensen, Chad Minnerath
+
+1. Functional Expectations
+Too much of the Business Intelligence not completed. What was completed was well
+done.
+2: Application has some missing functionality but no crashes
+
+2. Test-Driven Development
+Tests checked out, but with too little robustification. Isolation and the use of
+fixture data was very good.
+3: Application is well tested but does not balance isolation and integration
+tests, using only the data necessary to test the functionality
+
+3. Encapsulation / Breaking Logic into Components
+Could have utilized modules and better refactoring for duplication, but for the
+most part methods were concise. The group realized the patterns which needed
+work, but did not have enough time.
+3: Application effectively breaks logical components apart but breaks the
+principle of SRP
+
+4. Fundamental Ruby & Style
+Both members show great promise to become skilled Rubists. With more time and
+organization this was on track to become a great Sales Engine.
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and
+refactoring
+
+5. Enumerable & Collections
+Nested enumerables were a little too rampant, but the enumerables were clean and
+well understood/explained.
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+6. Code Sanitation
+Not enough time to refactor, most of the complaints could be solved with simple
+changes
+2: Six to ten complaints
 
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+#### #From Nicole Hall:
+
+Popsicle:
+You were great at taking the various stages of the Enigma problem and working through each.  The problem included encrypt, decrypt, crack, and of course writing the code that would print the transformed strings to .txt files.
+
+You took initiative and wrote some of the classes and methods on your own.
+
+You were then willing to put your work aside and pair with me to re-write the key generator and key offset classes.
+
+You were very helpful in teaching me about initialize.  I particularly liked your analogy that baby giraffes are born with long necks.  I still think about the analogy when writing initialize methods.  I think "What will the objects of this class be born with?".  That helps me decide what goes in initialize.
+
+Poop-sicle:
+There was a point where you panicked and got frustrated.  Although I full admit that I was slowing you down and my ruby skills were less concrete than yours, the unwritten assignment of Enigma was to learn how to work effectively as a pair.  
+
+The actionable feedback is:
+-make sure to talk to your pair if you are feeling anxious.  The communication between pairing partners is what will make the program and process good.  
+-we weren't very good about taking pomodoro brakes.  Maybe more breaks would have alleviated some of the stress.
+
+Back to Popsicle:
+Once we talked about the problem & identified the conflict, we were able to move on.  There were no hard feelings.  Which is so important.  Jeff made a little speech on Friday about the relationships between Turing students being as important as the ability to program.  You are the exact type of student who will continue to build the Turing reputation and your behavior exemplifies the point Jeff was trying to make.
+
+
+#####From George Hudson
+
+I think each time you approached me with a question, you were attentive and enthusiastic. You let me know if I was able to help you with positive feedback which was encouraging for  me. I wish I could provide something more constructive, but our interactions were fairly limited, so I don’t have anything coming to mind that you could improve upon.
+
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I try and help out as much as possible with other students and feel that I am becoming a better person for Student Advisory Board. I have not made any huge contributions to the Turing Community.
 
 ## Review
 
