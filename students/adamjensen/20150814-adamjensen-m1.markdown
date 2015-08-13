@@ -28,34 +28,13 @@ I also worked on soft skills such as:
 
 ### Attendance
 
-I did not miss any time time during Module 1. There were no tardy or absent occurrences.
+I did not miss any time during Module 1. There were no tardy or absent occurrences.
 
 ### Work
 
 I completed the following projects this module:
 
-## Team
-
-No Team projects wre assigned in M1.
-
 ### Projects
-
-####  Enigma
-
-* [GitHub URL](https://github.com/NicoleHall/Enigma-Project)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
-
-Good project. Loved using Enigma as a springboard to learning how classes/objects connect. I also learned that pairing is hard.
-
-Does encrypting, decrypting, cracking in under 1 second
-Does not print the correct key
-Watch whitespace
-Tests don't pass
-
-* Functionality:3
-* Fundamental Ruby & Style: 3
-* Test-Driven Development: 2
-* Breaking Logic into Components: 3
 
 #### Linked List
 
@@ -93,6 +72,49 @@ In this project I built a Markdown Parser. This was great fun and I thought it w
 * Test-Driven Development: 3
 * Functionality: 2.5
 * Breaking Logic into Components:3
+
+## Team
+
+####  Enigma
+
+* [GitHub URL](https://github.com/NicoleHall/Enigma-Project)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
+
+Good project. Loved using Enigma as a springboard to learning how classes/objects connect. I also learned that pairing is hard.
+
+Does encrypting, decrypting, cracking in under 1 second
+Does not print the correct key
+Watch whitespace
+Tests don't pass
+
+* Functionality:3
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Breaking Logic into Components: 3
+
+#### Final Assessement
+
+Assessed By: Mike
+
+Notes:
+
+* Good command of editor and terminal.
+* Wrote tests first.
+* Has a good instinct on starting small with tests and on what to test.
+* Ran tests at very small intervals, to check progress
+* Reached for #select, to filter words.
+* Good communication skills, with laying out train of thought.
+
+Scores:
+
+* Ruby Syntax & API: 3
+* Ruby Style: 3
+* Blocks & Enumerations: 3
+* Testing: 4
+* Workflow: 4
+* Collaboration: 4
+
+
 
 ## Community
 
