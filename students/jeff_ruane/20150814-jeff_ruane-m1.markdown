@@ -13,29 +13,29 @@ there.
 I was assessed by Josh Cheek and got the following scores:
 Assessed by Josh Cheek on 10 Aug 2015
 
-1. Ruby Syntax & API     :3
+1. Ruby Syntax & API     : 3
 
   * Knew what you wanted to use and where to get it
 
-2. Ruby Style            :4
+2. Ruby Style            : 4
 
   * Best looking code I've seen today (simple style things)
   * Solutions were elegant (not annoyingly verbose)
 
-3. Blocks & Enumerations :3
+3. Blocks & Enumerations : 3
 
   * Good guess on count (the name and how to invoke it)
 
-4. Testing               :3+
+4. Testing               : 3+
 
   * Has the header info memorized (ie can write a test without referencing a bunch of stuff)
   * Had a good understanding of how the pieces mapped together
 
-5. Workflow              :3+
+5. Workflow              : 3+
 
   * Custom aliases (mkcd)
 
-6. Collaboration         :3.5
+6. Collaboration         : 3.5
 
   * Seem to be on the same page after initial assessment of the challenge
   * Enjoyed working with you :)
@@ -74,10 +74,10 @@ In this project, I made a program to convert markdown to HTML.
 
 I was evaluated by Mike and got the following scores:
 
-1. Fundamental Ruby & Style      : 3
-2. Test-Driven Development       : 2
-3. Functionality                 : 3
-4. Breaking Logic into Components: 3
+1. Fundamental Ruby & Style       :3
+2. Test-Driven Development        :2
+3. Functionality                  :3
+4. Breaking Logic into Components :3
 
 It wasn't strong on TDD, and I made that a goal for later projects.
 
@@ -94,9 +94,25 @@ I worked on Enigma and Sales Engine as team projects this module.
 
 In this project, we created a program to parse through several data types and draw relationships between them.
 
-(evaluation comments)
+Notes:
 
-(evaluation scores)
+* 162 tests
+* Spec Harness runs 3 minutes 38 seconds
+* No tests for loaders
+* good use of enumerables
+* some missing unit tests
+* good use of memoizations
+* 4 sanitation complaints
+* overall clean
+* some repetition of code
+
+
+1. Functional Expectations                       : 3
+2. Test-Driven Development                       : 3
+3. Encapsulation / Breaking Logic into Components: 4
+4. Fundamental Ruby & Style                      : 3
+5. Enumerable & Collections                      : 4
+6. Code Sanitation                               : 3
 
 Feedback from Tyler:
 "Positives: Jeff was a great partner. He was very flexible when it came to meeting times and was always willing to put in the necessary work to get the project done. He was an excellent communicator and was good at breaking down big problems into small components. I definitely learned a lot from doing Sales Engine with Jeff and I have a stronger understanding of OOP because of it.
@@ -111,9 +127,13 @@ In this project, we recreated the famous Enigma machine, and used it to encrypt 
 
 I was evaluated by Josh with the following scores:
 
-1. Functionality: 2
-2. Fundamental Ruby and Style: 3+
-3. Test-Drive Development: 3
+1. Functionality                 : 2
+  * No cracking
+2. Fundamental Ruby and Style    : 3+
+  * Like the "function objects" ie decryptor
+  * The binary was nice
+3. Test-Drive Development        : 3
+  * When something is difficult to test, identify what is making it difficult and push that higher in the callstack (ie stdin/stdout are provided by the test / binary, and then we can give it a version that records what was printed and provides the input that the tests want to give it)
 4. Breaking Logic into Components: 3+
 
 I recieved the following feedback from my partner: "He's very kind and productive."
