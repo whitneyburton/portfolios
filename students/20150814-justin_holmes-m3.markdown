@@ -11,7 +11,7 @@ using it.
 ### Attendance
 
 I have not missed a day during M3, or have been tardy. I will miss a day on
-Friday, Aug. 14th for a wedding. 
+Friday, Aug. 14th for a wedding.
 
 ### Individual Projects
 
@@ -60,8 +60,8 @@ Spotifize was a 10 day self directed project that I built which consumed the Spo
   * Performance: 2.5
   * Completion: 4
   * Organization: 4
-  * Test-Driven Development:
-  * Code Quality:
+  * Test-Driven Development: 4
+  * Code Quality: 4
 
 
 ### Team Projects
@@ -80,6 +80,18 @@ In this ten-day project I worked with Drew Fink and Whitney to transition a Dinn
   * User Experience: 2
 
 ## Community
+
+### Feedback For Me
+
+You were great to work with on Supper Skip! I found you to be very collaborative, high contribution, and great accountability, there was no doubt you wouldn't work on/complete what you said you would.
+
+Justin is a super nice dude who always brigthens the atmosphere of a group. Also he is certainly in the top tier of developers within our cohort, and always willing to help with a code problem. Gold stars all around.
+
+I haven't worked with Justin on a group project, but he's seriously super smart. Everytime I look over at him in class he appears to be spacing out, but he is somehow absorbing everything. He's always willing to help out whenever a classmate has a problem and doesn't quit until the problem is solved. He's also a critical mind and fantastic problem solver.
+
+"One helluva guy." - Jeff Casimir
+
+"What Jeff said." - Steve Kinney
 
 ### Giving Feedback
 
