@@ -6,7 +6,7 @@ Areas of Emphasis
 This module I set out to sharpen my JavaScript skills. I came into the programming only knowing JavaScript and Ruby quickly replaced it as the language I could manipulate better. I wanted to understand closures, the server-side of JavaScript and be able to solve problems with it the same way that I can solve problems using Ruby.
 
 End of Module Assessment
-I created a TasK Manager with the additional filtering and tags extensions. Horace was my evaluator and thought that code on both the JavaScript and Ruby side was made to be reusable. It could have been dry'd out a bit more through the use of JavaScript templating and the routes could have been more RESTful but I did my best to TDD throught his one as it has been a point of weakness in the past.
+I created a TasK Manager with the additional filtering and tags extensions. Horace was my evaluator and thought that code on both the JavaScript and Ruby side was made to be reusable. It could have been dry'd out a bit more through the use of JavaScript templating and the routes could have been more RESTful but I did my best to TDD throughout this one as it has been a point of weakness in the past.
 
 Testing: 4
 
