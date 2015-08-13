@@ -21,8 +21,6 @@ I attended each day except Thursday August 6th where I attended Develop Denver. 
 
 Work
 
-(Intro)
-
 IdeaBox
 
 GitHub URL https://github.com/patrickmedaugh/lister
@@ -30,14 +28,21 @@ Original Assignment https://github.com/JumpstartLab/curriculum/blob/4fdd6da8e2e4
 
 Create an IdeaBox where the actions communicate with a Rails API via AJAX calls and load the page without refresshing.
 
-(evaluation comments)
+Loved: I loved the simplicity of the interface, and the sorting feature.
+Advice: Just look over things at the very end and refactor JS.
 
-(evaluation scores)
+Reviewed by: Kristina
+Features: 3
+UI: 3.5
+Testing: 3
+Rails Style: 3
+Ruby Style: 3
+JavaScript Style: 2.5
 
 ScaleUp
 
-GitHubURL
-Original Assignment
+GitHubURL https://github.com/patrickmedaugh/HubStub
+Original Assignment https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown
 
 Scale up an existing Pivot project to be performant at a much higher scale of database information and requests per minute.
 
@@ -55,11 +60,12 @@ Projects
 
 (Intro)
 
-(Project Name)
+GameTime (Lightcyclees
 
-GitHub URL
-Original Assignment
-(description)
+GitHub URL https://github.com/patrickmedaugh/Tron-lightcycles
+Original Assignment https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown
+
+Create a game using JavaScript in the browser.
 
 (evaluation comments)
 
