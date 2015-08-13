@@ -9,11 +9,17 @@ End of Module Assessment
 I created a TasK Manager with the additional filtering and tags extensions. Horace was my evaluator and thought that code on both the JavaScript and Ruby side was made to be reusable. It could have been dry'd out a bit more through the use of JavaScript templating and the routes could have been more RESTful but I did my best to TDD throught his one as it has been a point of weakness in the past.
 
 Testing: 4
+
 Features: 3
+
 User Interface: 3
+
 Rails Style: 3
+
 Ruby Style: 3
+
 JavaScript Style: 3
+
 
 Attendance
 
@@ -32,12 +38,19 @@ Loved: I loved the simplicity of the interface, and the sorting feature.
 Advice: Just look over things at the very end and refactor JS.
 
 Reviewed by: Kristina
+
 Features: 3
+
 UI: 3.5
+
 Testing: 3
+
 Rails Style: 3
+
 Ruby Style: 3
+
 JavaScript Style: 2.5
+
 
 ScaleUp
 
@@ -47,11 +60,17 @@ Original Assignment https://github.com/JumpstartLab/curriculum/blob/master/sourc
 Scale up an existing Pivot project to be performant at a much higher scale of database information and requests per minute.
 
 Deployed to Heroku: N
+
 Uses Newrelic: Y
+
 What is the average performance and traffic? 1
+
 Required number of records seeded? Y
+
 Load Testing Script 3
+
 Performance Optimization Techniques 2
+
 
 Understood caching concepts but didn't unravel the existing code to create more efficient queries. Need to delve into what the code is doing on a conceptual level and use that to guide enhancing the performance.
 
@@ -78,10 +97,15 @@ Talk about process to figure out why we didn't get help with fundamental issues
 Not able to run JSHint
 
 Scores
+
 Functional Expectations: 2
+
 Test-Driven Development: 2
+
 Breaking Logic Into Components: 1
+
 Fundamental JS and Style: 1
+
 Code Sanitation: 1
 
 
