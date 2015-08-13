@@ -104,12 +104,12 @@ Code Sanitation: 4
 
 * [GitHub URL](https://github.com/mihir787/tradingPost)
 
-* Features: 1
-* UI: 3
+* Feature completion: 1
+* Organization: 4
+* UX: 3
+* Performance: 3
 * Testing: 2.5
-* Rails Style: 3
-* Ruby Style: 3
-* JavaScript Style: 3
+* Code quality: 3
 
 ### Feedback to Me
 
