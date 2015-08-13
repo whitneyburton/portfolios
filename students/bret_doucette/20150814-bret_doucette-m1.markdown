@@ -257,7 +257,7 @@ TBD - But hopefully positive
 
 **Feedback to me**
 
-(WAITING FOR FEEDBACK)
+“Bret was a great partner for Sales Engine! He is very thoughtful and thorough in his work. He makes sure to take his time to understand all parts of the program which was very helpful for me as I tend to move quickly. Despite some hurdles, Bret maintained a great attitude and kept the team moving forward."
 
 ## Community
 
