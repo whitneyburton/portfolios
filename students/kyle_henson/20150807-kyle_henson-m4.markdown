@@ -94,6 +94,11 @@ Craigslist is extremely popular, but not for their UI/UX. In this 2 week project
 *User Experience: 3
 *Performance: 3
 
+### Feedback
+
+*I've watched your growth since Module 1 and I am very impressed with your growth as a developer. Sure every once in a while we are challenged with new content, syntax and overwhelming assignments. But each day we absorb a little more knowledge and gain a better understanding of how all these pieces fit together. - Lori
+*Kyle! Sales Engine dream team. Seriously though, Sales Engine was hectic but we kept such a good schedule and really knocked that thing out. Great pairing partner and you've come so far since module 1. It's great to see. - Patrick
+
 ## Community
 
 ### Playing a Part
