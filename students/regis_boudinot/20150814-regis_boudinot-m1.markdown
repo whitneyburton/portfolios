@@ -86,9 +86,16 @@ This will lead to elegance."
 * [GitHub URL](https://github.com/selfup/sales_engine)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
 
-To be written...
+In this project we built a system of several interacting Ruby objects using TDD.
 
-""
+"Well tested with creative assertions for edge cases."
+
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Encapsulation / Breaking Logic in Components: 3
+* Fundamental Ruby and Style: 4
+* Enumerable & Collections: 3
+* Code Sanitation: 4
 
 ### Feedback to Me
 
