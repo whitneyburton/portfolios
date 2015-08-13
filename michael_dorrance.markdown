@@ -13,28 +13,22 @@ I then asked the group if it was ok for me to build the html structure for each 
 Notes: Mike seems to understand the key concepts expected in M2. He was nervous and some of the code written at the beginning of the assessment indicate that while he understands what's going on, the knowledge isn't as deep as it could be. This is likely resolved with more practice with Ruby and Rails. Classes at the beginning of M2 would probably prevent him from focusing on Rails as much as he should. Of all the modules at Turing, M3 is the one that he would benefit from most. If repeating is something that should happen, I think it would be best at M3. I would suggest pairing with mentors or non-peers to help feel more comfortable in situations where he would feel nervous. This will also have the added benefit of preparing for interviews. Practice Ruby enumerables by working through exercises similar to Technical Interview Prep.
 
 1. Analytic/Algorithmic Thinking
-Score: 3
-3: Developer breaks complex problems into small, digestible steps and executes them
+Score: 3: Developer breaks complex problems into small, digestible steps and executes them
 
 2. Ruby Syntax & Standard Library
-Score: 3
-3: Developer is able to comfortably implement solutions in Ruby
+Score: 3: Developer is able to comfortably implement solutions in Ruby
 
 3. Rails Syntax & API
-Score: 3
-3: Developer is able to utilize Rails methods and structures, but needs some direct guidance
+Score: 3: Developer is able to utilize Rails methods and structures, but needs some direct guidance
 
 4. Rails Style
-Score: 4
-4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs
+Score: 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs
 
 5. Testing
-Score: 4
-4: Developer writes tests at multiple layers of abstraction to drive development
+Score: 4: Developer writes tests at multiple layers of abstraction to drive development
 
 6. Collaboration
-Score: 3
-3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+Score: 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ### Attendance
 
@@ -107,7 +101,7 @@ Rubric:
 
 ### Giving Feedback
 
-(feedback from me)
+I provided feedback on every weekly survey.
 
 ### Playing a Part
 
@@ -119,6 +113,7 @@ Fellow classmates from my module wanted to learn how to do wireframing and use B
   - Introduce wireframing tools and techniques
   - Lets break down the user stories with the classic project "Traffic Spy"
   - Build a clickable wireframe of Traffic Spy using Balsamiq
+* [Gist for the Class](https://gist.github.com/mdorrance/0542aa31b9328bf80c9c)
 
 Fellow classmates also wanted to learn how to use Bootstrap so that they could then build responsive apps quicker and to transfer their wireframes to html and css so I led a student session on Friday August 7 titled:
 * Bootstrap basics (Student-led session, 2-4pm)
@@ -126,6 +121,7 @@ Fellow classmates also wanted to learn how to use Bootstrap so that they could t
   - Introduce "Mobile First" design, the grid and components of Bootstrap
   - Workshop: Importing Bootstrap into a Rails Project
   - Workshop: Transferring a wireframe to html and css using Bootstrap
+* [Gist for the Class](https://gist.github.com/mdorrance/6963bf9414316ff6b342)
 
 ## Review
 
