@@ -38,7 +38,7 @@ ruby syntax and style, demonstration of the SRP and DRY code, file organization,
 test coverage and proper use of github was significantly lacking.
 
 
-Evaluation scores (maximum out of 4)
+Evaluation scores (out of 4)
 
 Functional Expectations: 3.5
 TDD: 3
@@ -69,7 +69,7 @@ Functional Expectations: 3.5
 TDD: 3
 Encapsulation: 3
 Fundamental Ruby and Style 3.5
-Enumerable and Collections: 3.
+Enumerable and Collections: 3
 
 #### (Enigma)
 
@@ -102,8 +102,7 @@ Breaking Logic into Components: 2.5
 
 ### Projects
 
-Following is the only group project for this module. I was paired with Justin
-Holzmann.
+Following is the only group project for this module.
 
 #### (Project Name)
 
@@ -131,7 +130,12 @@ Fundamental Ruby and Style: 3
 Enumerables and Collections: 3
 Code Sanitation: 4
 
-(feedback to me)
+I was paired with Justin Holzmann on this project. Overall, we had a very
+enjoyable pairing experience. We had a great balance of driving/navigating
+and a harmony between our work ethic and styles. The only negative feedback from
+Justin was that we needed to focus more on testing. While pairing, we both
+neglected writing unit tests for every method, and were subsequently docked for
+this defeciency.
 
 ## Community
 
