@@ -182,22 +182,50 @@ Areas for growth: Travis generally handled most of the code implementation, whic
 
 #### Sales Engine
 
-* [GitHub URL]
-* [Original Assignment]
+* [GitHub URL] https://github.com/travishaby/sales_engine.git
+* [Original Assignment] http://tutorials.jumpstartlab.com/projects/sales_engine.html
 
+##### Notes & Scores
 
+9:00 - Mary Beth Burch, Travis Haby
 
-##### Notes
+1. Functional Expectations
+* Base expectations met
+3: Application fulfills all base expectations as tested by the spec harness
 
+2. Test-Driven Development
+* Strong test isolation. Lacking multiple assertions and maximum
+  robustification, but most tests were very strong.
+4: Application is broken into components which are well tested in both isolation
+and integration using appropriate data
 
+3. Encapsulation / Breaking Logic into Components
+* Lacked the use of modules, but showed good signs of first pass at refactoring
+duplications
+3: Application effectively breaks logical components apart but breaks the
+principle of SRP
 
-##### Scores
+4. Fundamental Ruby & Style
+* Nothing remarkable, but Ruby fundamentals are well demonstrated.
+3: Application shows strong effort towards organization, content, and
+refactoring
 
+5. Enumerable & Collections
+* Great use of enumerables, with minimal nested blocks.
+4: Application consistently makes use of the best-choice Enumerable methods
 
+6. Code Sanitation
+4: Zero complaints
 
 ###### From MaryBeth Burch
 
-Insert comments from MB here!
++  I enjoyed working with you even through late nights and hours long stumbling blocks because I felt like rarely did we get too frustrated with each other. You were always focused and ready to work, but also maintain an easy going and relaxed energy which I think helped us to get through this while still enjoying most of the process. Every once in awhile I noticed it seemed like we were both trying to share our ideas at the same time and had something we wanted to try. I felt like this was easy to overcome though. I wonder how we could have, or can in future partnerships, figure out the best way to commit to trying one idea at a time.
+
++ You more than pulled your weight on this project, and were always willing to put in the time needed and think about the project both together and at home. Thanks for working to figure out GitHub with me. I think we ended up using it pretty effectively, which will so help me in future projects. I feel much more confident with it now, and with partner workflow in general. Waffle on!
+
++ You stayed positive even through our last ridiculous final push, and were able to keep reminding yourself that even though we weren’t where we wanted to be, our long term learnings from that will be so valuable. This is such an important mindset to maintain throughout this program.
+
++ I felt like you struck a great balance of listening to my ideas and letting me experiment, while still pushing me to explain my thinking. You asked great questions about the decisions I had in mind, which helped me to better understand my process, and why we were choosing to do things the way we did. Only on a few occasions did I feel like you were taking on too much of the driving and navigating as you figured things out, and I didn’t have a chance to try out some of my own ideas. Whenever I brought it up, you were great about returning to sharing more of the responsibility. I think we could both benefit from trying more traditional driver navigator patterns on occasion, with the dual purpose of forcing us to explain ourselves clearly rather than brainstorming and typing, and I also think it would have helped me to more clearly understand some of your decisions.
 
 
 ## Community
