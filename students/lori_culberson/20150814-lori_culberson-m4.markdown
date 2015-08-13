@@ -138,6 +138,10 @@ Lori has so much stamina it is unbelievable. She works hard every every day and 
 
 I'm constantly impressed with your attitude and work ethic. I really respect your conviction in doing what you know you can do. And you were one of my first friends at Turing and someone as welcoming as you is going to be missed around Turing.
 
+Lori you work so hard and have so much heart. It's really inspiring just to see how much you care and how strong you are. It brings us all up. I loved working with you the few times we paired together.
+
+It's been really great getting to work with you and getting to know you, Lori! You're always ready to put in the hard work and effort on our projects. And as I've mentioned to you – I think you should teach a class on reaching out to mentors and making the most of your network. You've been a great inspiration for lots of people at Turing and I'm so happy I've had the chance to spend time with you!
+
 ### Playing a Part
 * Created a pre-Module 1 class for new students entering Turing. The class was designed to get new students  familiar with the terminal, basic Ruby syntax, playing in pry, and other topics I struggled to understand when I was in module 1. Since that first class in February, a student has offered to teach it to the newest cohort. 
 * Friday, July 10th, Twitter stalked a JavaScript developer a convinced him to become an official Turing mentor.
