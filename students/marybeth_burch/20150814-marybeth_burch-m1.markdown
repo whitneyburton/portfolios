@@ -92,16 +92,30 @@ My partner said: "The highlight of pairing with MB was seeing each of our ideas 
 
 #### Sales Engine
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/mbburch/sales_engine)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
 
-My partner and I created a data reporting tool and built numerous relationships between different data files. This project was timed perfectly for me, as I'd been struggling with FileIO, and this helped me to build confidence with those skills. We received the following feedback and scores on Sales Engine:
+My partner and I created a data reporting tool and built numerous relationships between different data files. I'd been feeling less than confident all module with using methods across different classes and pulling data in from files. I feel like I learned so much from this project, including our late night last minute learning on storing data in hashes so we're not running too many loops, and making sure to commit to GitHub way more often than we did. We received the following feedback and scores on Sales Engine:
 
-(evaluation comments)
+"Strong test isolation."
+"Great use of enumerables, with minimal nested blocks."
 
-(evaluation scores)
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Encapsulation/ Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 4
+* Code Sanitation: 4
 
-(feedback to me)
+My partner said:
+Positives:
+MB was a really great collaborator to work with on sales engine. She does an amazing job of walking through problems and algorithms deliberately. This causes her to be very deliberate with her thinking, and makes the conclusions she comes to almost exclusively correct and on point.
+In pairing, she is very receptive to feedback and generally hearing her partner's suggestions and opinions. She also is very conscious and empathetic towards the feelings of her partner and goes out of her way to make sure that the relationship between her and her partner is positive and productive.
+MB is also a an extremely hard worker. It was awesome to not have to think about whether she would want to put in the hours to make our project work.
+
+Areas For Growth:
+MB can sometimes not voice her opinions or ideas, or not defend her ideas (which are typically really great and on point) when she receives push back on them. For me personally, I typically want to hear logical reasoning behind whatever position my partner is putting forth in order to buy into the idea. Sometimes when I would ask clarifying questions of MB she wouldn't defend her own idea and we wouldn't end up using it. Once, this caused us to walk down the wrong road with my idea for a given solution, only to have her idea be the right one after a few hours when we tried to implement it.
+Another area for growth might be trying to maintain positivity and emotional constancy when faced with challenges during the process of a project. For our specific experience, I think  a lot of this was clearly attributed to extenuating circumstances, but sometimes I had to practice a lot of calmness and positivity when MB was feeling upset with the circumstances of our project. Again, this was definitely caused by a specific situation that I don't think will be a problem moving forward, but it might be something to look out for in the future.
 
 ## Community
 
@@ -126,7 +140,7 @@ My peers said:
 
 * Attended meetups including Women Who Code study groups and Turing Community Night for front-end development.
 
-* I am present for posse time each morning and collaborate on warm-ups. 
+* I am present for posse time each morning and collaborate on warm-ups.
 
 ## Review
 
