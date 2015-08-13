@@ -9,6 +9,14 @@ only feel better about JavaScript, but much more comfortable with jQuery, and no
 
 ### End of Module Assessment
 
+rails
+* GitHub: https://github.com/kristinabrown/final-assessment
+* Production: https://id-rather-be-somewhere-else.herokuapp.com
+
+node
+* GitHub: https://github.com/kristinabrown/final-assessment-node
+* Production: https://cryptic-scrubland-3747.herokuapp.com
+
 In this 24 hour sprint I made a one-page task management app that can hold many lists, with many tasks, all of which can be created, edited, and deleted, and all without page refreshes. It has WebSocket integration so you can have many tabs open that keep up with what you're doing. And it also sends an email to a friend you cc. Josh Cheek was the evaluator: 
 
 "The websockets make it really exciting."
@@ -117,6 +125,9 @@ We did extensive planning on the project all together. I set up the submission m
 ### Feedback to Me
 
 People liked me last module and I think they still do.
+
+The Feedback I got from Eric:
+Feedback for you: I think this last project was the only one we got to work on together, which is really too bad because I really liked working with you. You're drive and ability to figure things out is truly impressive! My personality thrives when I'm around people that challenge me and you definitely do that, so thank you very much. You also take the time to get to know your team mates and take care of the community around you in a genuine way, which I think will serve you well in the future. Now the BAD!!!! No bullshit, I do not have a lot here.  I've heard feedback that you work at a pace that can be intimidating to others. This is the strangest negative feedback ever because I personally don't see anything wrong with it, that is just some feedback I got from someone else in our cohort (ask me in private if you want to know more).
 
 ## Community
 
