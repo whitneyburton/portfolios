@@ -168,6 +168,24 @@ Assessment Scores:
 * Enumerable & Collections: 4
 * Code Sanitation: 4
 
+#### Sales Engine - The SQL
+
+* [GitHub URL](https://github.com/plato721/slimgin)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine_the_sql.markdown)
+
+Like SalesEngine with the additional requirement of implementing a Sqlite3 database for all data storage and retrieval.
+
+Assessment Notes:
+
+<pending>
+
+Scores:
+
+* Functionality: 
+* Fundamental Ruby & Style: 
+* Test-Driven Development: 
+* Breaking Logic into Components: 
+
 ## Team
 
 ### Projects
@@ -179,6 +197,33 @@ I was not evaluated on any projects as part of a pair or a team this module.
 ### Giving Feedback
 
 I filled out my surveys every week and gave specific suggestions or comments on almost all of these. I provided some negative feedback to someone during a pairing exercise which I think was a good experience for both of us.
+
+I left feedback for several cohort mates who posted links in the 1507 slack room.
+
+### Getting Feedback
+
+1. I felt Matt was available to help:
+  Strongly Agree
+2. What is a specific thing that Matt did that was beneficial to you, Turing, or the world?
+Matt was very helpful aiding in projects when I got stuck. He is very approachable and very willing to help.
+3. What is a specific thing Matt did that could be done differently in a way that would be more beneficial to you, Turing, or the world?
+I think Matt has a great heart and a good mind. He has a lot to offer the world but will have more to offer as he learns to see/accept his own value.
+
+1. I felt Matt was available to help:
+  Strongly Agree
+2. What is a specific thing that Matt did that was beneficial to you, Turing, or the world?
+Matt was super helpful with some questions my partner and I had about our sales engine project. He did a great job of answering our questions specifically and directly. I really like that he gave positive encouragement
+3. What is a specific thing Matt did that could be done differently in a way that would be more beneficial to you, Turing, or the world?
+Maybe Matt could potentially push himself more to ask questions of other students about what they're doing, even if he doesn't need help with his own work. More chatter :)
+4. What is your name? (optional)
+Travis Haby
+
+1. I felt Matt was available to help:
+  Strongly Agree
+2. What is a specific thing that Matt did that was beneficial to you, Turing, or the world?
+Matt was always willing to offer feedback or support, whether solicited or not, but never in a pushy way and always in the form of a helpful suggestion. He is patient and clear when explaining.
+3. What is a specific thing Matt did that could be done differently in a way that would be more beneficial to you, Turing, or the world?
+4. What is your name? (optional)
 
 ### Playing a Part
 
