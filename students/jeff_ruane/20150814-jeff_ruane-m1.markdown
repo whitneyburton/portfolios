@@ -11,35 +11,34 @@ there.
 ### End of Module Assessment
 
 I was assessed by Josh Cheek and got the following scores:
+Assessed by Josh Cheek on 10 Aug 2015
 
 1. Ruby Syntax & API     :3
 
-* Nice use of RSpec
-* Generally good approach
+* Knew what you wanted to use and where to get it
 
 2. Ruby Style            :4
 
-* Looks good
+* Best looking code I've seen today (simple style things)
+* Solutions were elegant (not annoyingly verbose)
 
 3. Blocks & Enumerations :3
 
-* A bit thrown on traversing the list to get the total score
-* But the overall inclinations are good
+* Good guess on count (the name and how to invoke it)
 
-4. Testing               :3.5
+4. Testing               :3+
 
-* Good use of RSpec
-* Good test
+* Has the header info memorized (ie can write a test without referencing a bunch of stuff)
+* Had a good understanding of how the pieces mapped together
 
-5. Workflow              :4
+5. Workflow              :3+
 
-* shell aliases
-* vim
+* Custom aliases (mkcd)
 
 6. Collaboration         :3.5
 
-* Knew where you were
-* It was enjoyable working with you
+* Seem to be on the same page after initial assessment of the challenge
+* Enjoyed working with you :)
 
 ### Attendance
 
