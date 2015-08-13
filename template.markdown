@@ -10,6 +10,20 @@ I also set out to create tools that I could use to make this easier to do.  I ha
 
 ### End of Module Assessment
 
+#### Notes
+ * Developer completed all the user stories and requirements set by the client.
+ * Developer used a project management tool to keep their project organized.
+ * Project exhibits some gaps in the UX.
+ * Project pages load on average under 400 milliseconds.
+
+#### Scores
+  * Completion: 3
+  * Organization: 3
+  * Test-Driven Development: 1
+  * Code Quality: 2
+  * User Experience: 2
+  * Performance: 3
+
 (Notes & scores from your assessment rubric)
 
 ### Attendance
@@ -25,7 +39,7 @@ I also set out to create tools that I could use to make this easier to do.  I ha
 * [GitHub URL](https://github.com/RMCornell/api_curious_instagram)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
 
-#### In this project, we'll be focusing on consuming and working with data from public APIs. As a vehicle for learning this concepts, we'll be selecting an API from a popular website and working to re-construct a simplified version of the website's existing UI using their own API. For example, you might decide to use the Twitter API to build a basic version of the Twitter feed where users can view and post tweets.
+In this project, we'll be focusing on consuming and working with data from public APIs. As a vehicle for learning this concepts, we'll be selecting an API from a popular website and working to re-construct a simplified version of the website's existing UI using their own API. For example, you might decide to use the Twitter API to build a basic version of the Twitter feed where users can view and post tweets.
 
 ### Comments
 * Project fails more than 4 spec harness tests
@@ -70,12 +84,12 @@ I also set out to create tools that I could use to make this easier to do.  I ha
 
 (Intro)
 
-#### (Project Name)
+#### SupperSkip
 
 * [GitHub URL]()
 * [Original Assignment]()
 
-(description)
+Your Dinner Dash is getting somewhere, but our investors have decided that serving orders out of a single restaurant is never going to get us to the scale we'd like to see. What we need is a platform.
 
 (evaluation comments)
 
