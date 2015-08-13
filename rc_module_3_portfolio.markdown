@@ -110,7 +110,7 @@ Your Dinner Dash is getting somewhere, but our investors have decided that servi
 
 ### Giving Feedback
 
-(feedback from me)
+I gave 100% of requested feedback.
 
 ### Playing a Part
 
