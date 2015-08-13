@@ -4,7 +4,7 @@
 
 ## Areas of Emphasis
 
-As someone who knew very little before starting school, my plan was to be as open and to learn as much as possible over the course of these 6wks. Moreover, I wanted to reassure myself that this is, in fact, the best career path for me. I do think these first 6wks have been successful despite some early challenges. As a new student, I also wanted to meet and get to know the other students. This is a unique opportunity to focus all of my energy one pursuit. I hope I can continue to do that as I move forward.
+As someone who knew very little before starting school, my plan was to be as open and to learn as much as possible over the course of these 6 weeks. Moreover, I wanted to reassure myself that this is, in fact, the best career path for me. I do think these first 6 weeks have been successful despite some early challenges. As a new student, I also wanted to meet and get to know the other students. This program gives me a unique opportunity to focus all of my energy on learning and developing. I hope I can continue to stay focused on this as I move forward.
 
 ## End of Module Assessment
 
@@ -27,7 +27,7 @@ implementing them at her usual pace.
 * Workflow - 4: Developer is a master of their tools, efficiently moving between phases of development
 * Collaboration - 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
-## Attendance
+### Attendance
 
 I attended class every day except for Friday, July 31st.
 
@@ -81,7 +81,7 @@ Assessed By: Mike Dao
 
 ## Team
 
-### Projects
+## Projects
 
 ### Enigma
 
