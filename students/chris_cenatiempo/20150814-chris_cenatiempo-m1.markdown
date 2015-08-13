@@ -83,14 +83,32 @@ I participated in the following team projects:
 * [GitHub URL] (https://github.com/selfup/sales_engine)
 * [Original Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
 
-Built system of interacting Ruby Objects using TDD
+1. Functional Expectations
+* Base expectations met with time to spare.
+  3: Application fulfills all base expectations as tested by the spec harness
 
-* Functionality:
-* TDD:
-* Encapsulation/Logic Components:
-* Fundamental Ruby & Style:
-* Enumerable & Collections:
-* Code Sanitation:
+2. Test-Driven Development
+* Well tested with creative assertions for edge cases.
+  4: Application is broken into components which are well tested in both isolation
+  and integration using appropriate data
+
+3. Encapsulation / Breaking Logic into Components
+* Some code was duplicated, but the program shows a good use of modules and SRP.
+  3: Application effectively breaks logical components apart but breaks the
+  principle of SRP
+
+4. Fundamental Ruby & Style
+* Some mistakes were made, but overall Ruby was impressive.
+  3: Application shows strong effort towards organization, content, and
+  refactoring
+
+5. Enumerable & Collections
+* A few too many enumerables when simpler solutions could have sufficed. The
+  enumerables were not nested, and were implemented precisely.
+  3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+6. Code Sanitation
+  4: Zero complaints
 
 ### Feedback Given to Me
 
