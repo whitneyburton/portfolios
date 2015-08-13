@@ -9,6 +9,14 @@ only feel better about JavaScript, but much more comfortable with jQuery, and no
 
 ### End of Module Assessment
 
+rails
+* GitHub: https://github.com/kristinabrown/final-assessment
+* Production: https://id-rather-be-somewhere-else.herokuapp.com
+
+node
+* GitHub: https://github.com/kristinabrown/final-assessment-node
+* Production: https://cryptic-scrubland-3747.herokuapp.com
+
 In this 24 hour sprint I made a one-page task management app that can hold many lists, with many tasks, all of which can be created, edited, and deleted, and all without page refreshes. It has WebSocket integration so you can have many tabs open that keep up with what you're doing. And it also sends an email to a friend you cc. Josh Cheek was the evaluator: 
 
 "The websockets make it really exciting."
