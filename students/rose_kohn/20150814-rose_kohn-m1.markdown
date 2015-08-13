@@ -96,21 +96,30 @@ This was a week long project where we used Ruby to build a tool for encrypting, 
 * [GitHub URL](https://github.com/roseak/sales_engine)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
 
-This was a two week project where we worked with class relationships in Ruby to create a database.  I was paired with David Stinnette and we were evaluated by
+This was a two week project where we worked with class relationships in Ruby to create a database.  I was paired with David Stinnette and we were evaluated by Mike Dao.
 
 (evaluation comments)
 
-(evaluation scores)
+* Functional Expectations
+* Test-Driven-Development
+* Encapsulation/Breaking Logic into Components
+* Fundamental Ruby & Style
+* Enumerable & Collections
+* Code Sanitation
 
 (feedback to me)
 
 ## Community
 
-### Giving Feedback
+### Feedback to Me
 
 "Rose has been proactive about becoming an active member of the Turing community. I've heard her talk often about mentors, she has reached out to students in other cohorts, and she is working on the podcast and spending time with other women in the Joan Clarke Society. She's also almost always willing to offer helpful suggestions if I'm feeling stuck and she has a solution."
 
 "From my standpoint, you were always enthusiastic and easy to approach. While I don’t remember you asking me specifically for help, I did see you reaching out to many members within the Turing community. When I was trying to explain something like my experiences with Sales Engine, you listened well and asked engaging questions in response."
+
+"Rose is a super hard working teammate that will go the extra mile if help is requested. She was a positive influence during my first module at Turing and was patient and understanding while helping others. One thing for improvement would be that you can sometimes get a slight bit short when stressed out. Of course this happens rarely, but still something to be cognizant about. Otherwise a true gem! (no pun intended)."
+
+"A privilege to work with. You're a hard worker, intelligent and level headed. I appreciate that you set realistic yet ambitious project expectations. We're crushing sales engine even though our productivity took a slight hit when we discovered we're both practitioners of the fine art of bullshitting. I hope to work with you again soon."
 
 ### Playing a Part
 
@@ -119,3 +128,14 @@ This was a two week project where we worked with class relationships in Ruby to 
 * I brought back all the left items from the park at the end of field day.
 * If anyone needs help on a problem I understand, I offer my assistance.
 * I'm always with my posse every morning to work on the warmup.
+* Attended Women Who Code study group on July 15, 2015.
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
