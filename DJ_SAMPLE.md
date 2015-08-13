@@ -1,30 +1,34 @@
-# Tracy Caruso - Module 4 Portfolio
+# DJ Greenfield - Module 4 Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
+Previous to this module my project management skills had seriously decayed. A
+large focus for each project was keeping a clean and organized waffle card, an
+active private Slack channel for each project, serious consistent code review,
+and Google Calendar for deadlines. I made serious efforts to accomplish this
+by being frank with my project-mates and patient with my projects.
 
 ### End of Module Assessment
 
-Overall I was pretty disappointed with the outcome of my final project.
-I worked diligently however hit some roadblocks that delayed my progress. I'm
-looking forward to do the reassessment as I think it would give me the opportunity
-to makeup for the areas I was not able to complete.
+My progress through the module was assessed by Josh Cheek and here are the
+results:
 
-  * Features 2
-  * User Interface 2
-  * Testing 2
-  * Rails Style 3
-  * Ruby Style 3
-  * JS Style 2
+"We did a nice refactoring where we moved logic into a state machine."
+
+**Note: the assessment took 3 hours.**
+
+* Satisfactory progress 3
+* Ruby styniax and style 3
+* Rails style and api 3
+* Testing 3.5
+* User interface 3
 
 ### Attendance
- * I missed, July 17th due to illness.
- * July 31st for an all day job interview.
- * The morning of August 3rd for a Job interview.
- * The morning of August 6th for a job interview.
 
+Like all modules before it, I attended each day. I had two tardies, one on
+Tuesday, June 16th and one on Wednesday, June 24th.
 
 ### Projects
 
@@ -32,34 +36,20 @@ I completed the following individual project for this module:
 
 #### Idea Box 2.0
 
+* [GitHub URL](https://github.com/allpurposename/ideabox)
 * [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 
   In this four-day project I implemented the bare essentials of Idea Box in
-  JavaScript. I was peer evaluated by Dave and Kenny.
+  JavaScript. I was peer evaluated by Richard and Paul with these generous
+  results:
 
-  * Features: 3
-  * UI: 5 (should review your front end classes)
-  * Testing: 2 (for effort)
-  * Rails style: 3
-  * Ruby style: 3
-  * JS Style: 2.5
-  * Loved: You did it
-  * Advice: Do more
+  "Code and testing looks good!"
 
-  #### Scale Up (HubStub)
-
-    * [GitHub URL](https://github.com/turingschool-projects/HubStub)
-    * [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown)
-
-    The biggest part of this project was the setup, which led me to not gain as much experience in learning how to optimize a site. However I did feel like a gained a lot just reading through the code and finding out how it was implemented. It was also a good lesson in getting to work with messy code, and trying to figure out how to refactor it.
-
-
-    * Average Response: 2, seeing about 1000ms on average
-    * Load Testing: 2, hits some features and does things
-    * Database Load: Y, good data
-    * Performance: 1, nothing for this
-    * Additional Feature: 3
-
+  * Features:  3
+  * User Interface: 2
+  * Rails Style: 3
+  * Ruby Style: 4
+  * JavaScript Style: 3
 
 ## Team
 
@@ -67,54 +57,122 @@ I completed the following individual project for this module:
 
   I participated in the following team projects:
 
+#### Scale Up (HubStub)
+
+  * [GitHub URL](https://github.com/turingschool-projects/HubStub)
+  * [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown)
+
+  This two week long project utilized a previous cohort's Pivot project and a seed
+  data of ~1 million objects to help us experience harsh load times and a need for
+  optimization. Our project was evaluated by Horace with the following results:
+
+  "Nice handling of poorly scoped ActiveRecord queries."
+
+  * Production Performance: 1 -- not running in production
+  * Load Testing: 2
+  * DB Scale: Check
+  * Testing: 2
+  * Code Quality: 2
+  * Additional Features: 2
+
+##### My Contribution
+
+  I wrote the entirety of the Capybara load testing script. I also refactored
+  sloppy hard-to-work-with scoping so the rest of the team could focus on writing
+  better ActiveRecord queries.
+
+##### Takeaway
+
+  * Inheriting code is awful
+  * Large data sets are managable
+  * Writing scripts is fun
+
 #### Game Time (Lights Out)
 
   * [GitHub URL](https://github.com/mirjoy/lights-out)
   * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
-  This project was a lot of fun and Dave was a great partner. He was definitely more experienced with JavaScript than I was and
-  did his best to work through the logic with me, while helping me learn how to build the JS to go with it.
+  This week-and-a-half long project was a pure JavaScript implementation of a
+  simple game. In our case that game was Lights Out. It was evaluated by Horace
+  with the following results:
 
-  * Functional Expectations: 4
-  * Test-Driven Development: 3
-  * Breaking Logic Into Components: 3.5
-  * Fundamental JS and Style: 4
-  * Code Sanitation: 3.5
+  "This is actually fun."
 
+  * Functional Expectations 3-
+  * Test-Driven Development 2
+  * Breaking Logic into Components 3
+  * Fundamental JavaScript & Style 3
 
 ##### My Contribution
 
-  Dave and I worked through the logical parts together and made a game plan for how to implement the code. We worked together on the JavaScript with David being the team lead. I worked separately on testing and building out the front end.
+  We did not split the responsibilities and made sure to each take full responsiblity
+  for every aspect of the project. If I did have a focus, it was writing the tests
+  and keeping us on a TDD track.
 
 ##### Takeaway
 
-  * Testing JS does make it easier to implement
-  * JavaScript seems a lot more cumbersome than Ruby and many subtleties that will take some getting used to
+  * OO JS is just a matter of organization
+  * TDD is mostly self discipline
+  * Project management tools are useful even in a team of two
 
+#### Flack (Quibble)
+
+  * [GitHub URL](https://github.com/indiesquidge/quibble)
+  * [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/flack.markdown)
+
+  This two week mastery project was a demonstration of websockets and software as
+  a service through a Slack clone. Our particular project aimed to provide a
+  structure for groups to come to decisions. We were evaluated by Horace with the
+  following results:
+
+  * Services 2:
+  * Encapsulation 2:
+  * Rails MVC 3:
+  * Test-Driven Development 2:
+  * Deployment 3:
+  * Features 3:
+  * Interface 3:
+  * Concept 3:
+  * Project Management process 3:
+
+##### My Contribution
+
+  I was the primary Rails developer on this project and I spent a lot of time
+  TDDing and making sure we had a great foundation. I also implemented a few Rails
+  features solely for the benefit of the other developers which felt like a great
+  use of time. Additionally, I was the team member who troubleshot miscellaneous
+  problems with the various integration of our code.
+
+##### Takeaway
+
+  * Code review is key to writing great software
+  * Being the team member who touches everything forces you to keep a lot in your
+  head at once.
+  * Pick your battles. Let some design decisions go.
 
 ## Community
 
+### Giving Feedback
+
+  According to the Feedback application:
+
+  * I delivered 0% of the requested feedback
 
 ### Playing a Part
 
-  * I spend a lot of time pairing with students from all modules on front and and help them through their problems.
-  * I do my best to encourage my peers and keep a positive attitude.
-  * I go out of my way to meet people from other modules and try to make them feel welcome.
+  Throughout the six weeks I pushed myself to pair with as many other students as
+  I could. I attended and advocated for every DSA session during the six weeks.
 
-
-### Peer Feedback
-
-##### Jack Yeh
-Tracy is always willing to help and share her knowledge. More importantly, she does so with a positive attitude, even when everyone around her is stressed out. She is especially good at taking the time to explain front-end.
-
-##### Minnie Lee
-I always enjoyed working with you, because we can have fun and work hard at the same time! :) Also, you work really hard to not only get things done but to also understand all of the pieces involved in the process.
-
-##### Dave Daniel
-I really enjoyed working with you on Gametime (and other projects). You're more than just a good designer (though one of the great things about working with you is knowing the end product is going to look fantastic), and your positivity makes you a pleasure to be around.
-
-##### Lori Culberson
-Feedback for project: Solid implementation of the front end design. Incredibly creative. Nice job using Angular for the first time!
-
-##### Morgan Miller
-Tracy is the sunshine that lights the fake windows in the dungeon. She always makes herself available to help people when they can’t figure out the fuckery of CSS, and her laugh is totally infectious.
+  * On Tuesday, May 19th, I deep cleaned the north refrigerator in classroom A.
+  * On Friday, May 22nd, I delivered a lightning talk titled "Metaprogramming is
+  Meta cool!"
+  * On Tuesday, June 9th, I delivered an expanded version of my metaprogramming
+  lightning talk at the Denver.rb beginner's track
+  * On Friday, June 12th, I ran a student lead session on JavaScript for Rubyists
+  * On Thrusday, June 18th, I delivered the metaprogramming lightning talk at
+  Community Night
+  * On Thursay, June 25th, I wrote a blog post titled "The Turing Bar" which was
+  featured on turing.io
+  * Also on Thursday, June 25th, my posse won the first ever posse cup.
+#HopperPosse4Lyfe #hatersgonnahate #tastytears
+  Read here about [Grace Hopper Con](http://gracehopper.org/)
