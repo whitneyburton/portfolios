@@ -128,6 +128,10 @@ This classic casino game was my first attempt at writing an entire program in Ja
 
 I'm incredibly proud of myself for surviving Turing. 
 
+Lori! You also started the tradition of leading a class for incomers, and that was huge, that helped me a lot coming in. You are such a strong person, being in the same cohort as you for the last couple modules has been inspirational. :tiger2:
+
+Portfolio looks great! I've had a great time working with you and your energy and dedication is always motivational.
+
 ### Playing a Part
 * Created a pre-Module 1 class for new students entering Turing. The class was designed to get new students  familiar with the terminal, basic Ruby syntax, playing in pry, and other topics I struggled to understand when I was in module 1. Since that first class in February, a student has offered to teach it to the newest cohort. 
 * Friday, July 10th, Twitter stalked a JavaScript developer a convinced him to become an official Turing mentor.
