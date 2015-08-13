@@ -132,6 +132,12 @@ Lori! You also started the tradition of leading a class for incomers, and that w
 
 Portfolio looks great! I've had a great time working with you and your energy and dedication is always motivational.
 
+Lori: There is nobody that can match your willingness to learn. You have the people skills, the intelligence, and the humility to approach every problem and come out on the other side with a solution. There are no limits to what you will accomplish!
+
+Lori has so much stamina it is unbelievable. She works hard every every day and is always positive. She really took the lead on our personal project, and did an amazing job. She is a pleasure to work with.
+
+I'm constantly impressed with your attitude and work ethic. I really respect your conviction in doing what you know you can do. And you were one of my first friends at Turing and someone as welcoming as you is going to be missed around Turing.
+
 ### Playing a Part
 * Created a pre-Module 1 class for new students entering Turing. The class was designed to get new students  familiar with the terminal, basic Ruby syntax, playing in pry, and other topics I struggled to understand when I was in module 1. Since that first class in February, a student has offered to teach it to the newest cohort. 
 * Friday, July 10th, Twitter stalked a JavaScript developer a convinced him to become an official Turing mentor.
