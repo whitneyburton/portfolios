@@ -40,10 +40,11 @@ I did not get assessed on the Scale Up. I did complete building the seed file an
 
 This week-and-a-half long project was a pure JavaScript implementation of a simple game. In our case that game was 2048. It was evaluated by Steve with the following results:
 
-<!--   * Functional Expectations 3-
-  * Test-Driven Development 2
-  * Breaking Logic into Components 3
-  * Fundamental JavaScript & Style 3 --> 
+  * Functional Expectations: 3
+  * Test-Driven Development: 4
+  * Breaking Logic Into Components: 4
+  * Fundamental JS and Style: 3
+  * Code Sanitation: 1
 
 ##### My Contribution
 
