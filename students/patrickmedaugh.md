@@ -30,6 +30,7 @@ Work
 IdeaBox
 
 GitHub URL https://github.com/patrickmedaugh/lister
+
 Original Assignment https://github.com/JumpstartLab/curriculum/blob/4fdd6da8e2e431beeb77012e271de1eee90d5e07/source/projects/revenge_of_idea_box.markdown
 
 Create an IdeaBox where the actions communicate with a Rails API via AJAX calls and load the page without refresshing.
@@ -55,6 +56,7 @@ JavaScript Style: 2.5
 ScaleUp
 
 GitHubURL https://github.com/patrickmedaugh/HubStub
+
 Original Assignment https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown
 
 Scale up an existing Pivot project to be performant at a much higher scale of database information and requests per minute.
@@ -81,6 +83,7 @@ Projects
 GameTime (Lightcycles)
 
 GitHub URL https://github.com/patrickmedaugh/Tron-lightcycles
+
 Original Assignment https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown
 
 Create a game using JavaScript in the browser. We used canvas for our project and implemented multiple difficulty levels.
