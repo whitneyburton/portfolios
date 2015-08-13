@@ -4,7 +4,6 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
 * Learn Vim to improve and optimize work flow.
 * Fix my personal habit structures (the first time I did module 1 I lost many of
 the positive habits that I had spent the previous year building).
@@ -15,7 +14,33 @@ the positive habits that I had spent the previous year building).
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed by Josh Cheek on 10 Aug 2015
+
+Challenge: 1.Word List (linked list)
+
+ * Ruby Syntax & API: 3
+ * Nice use of RSpec
+ * Generally good approach
+
+ * Ruby Style: 4
+ * Looks good
+
+ * Blocks & Enumerations: 3
+ * A bit thrown on traversing the list to get the total score
+ * But the overall inclinations are good
+
+ * Testing: 3.5
+ * Good use of RSpec
+ * Good test
+
+ * Workflow: 4
+ * shell aliases (m21)
+ * vim
+
+ * Collaboration: 3.5
+ * Knew where you were
+ * It was enjoyable working with you
+ * Reasonable description of the problem
 
 ### Attendance
 
@@ -89,6 +114,29 @@ I worked on the following projects over the course of the module
   * Breaking Logic into Components: 3
 
 
+#### (Sales Engine the SQL)
+* [GitHub URL](https://github.com/philmphoenix/sales_engine_sql)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine_the_sql.markdown)
+
+  Sales Engine the SQL was a second iteration on the below team project (Sales
+  Engine). It was a solo project done in week 6.
+
+  We had to take someone else's existing/finished sales engine and switch it
+  over to SQL databases and querys.
+
+  I was assessed by Mike with the following comments and scores:
+
+  "Encrypts and decrypts"
+  "Crack does not work"
+  "Needs better unit testing"
+  "Believe the crack sent program into an infinite loop"
+
+  * Functionality: 2
+  * Fundamental Ruby & Style: 3
+  * Test-Driven Development: 3
+  * Breaking Logic into Components: 3
+
+
 ## Team
 
 ### Projects
@@ -136,11 +184,17 @@ I participated in the following pair project:
 
 ### Giving Feedback
 
-(feedback from me)
+A few of my fellow students had these things to say:
+
+ * Justin's gone out of his way to stop what he's doing to come and help me and
+ many other people with their various project issues.  He clearly explains
+ what's going on and helps give light to the problems you're dealing with.
+ * Your enthusiasm is infectious, pairing on OkCuGit was a great experience for
+ me, it made my day.
 
 ### Playing a Part
 
-This module I did 2 lightening talks.
+This module I did a lightening talk.
 
 I also tried to let other students feel completely welcome in coming up to ask
 me for help on things they were struggling with. Many did so.
