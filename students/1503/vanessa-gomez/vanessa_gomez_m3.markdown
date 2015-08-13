@@ -4,11 +4,22 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Reinforce what I learned in mod 2, as well as to understand consuming APIs and building one. At the end, I pushed to make better controller and model testing.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+My progress through the module was assessed by Jorge Telez and  Josh Cheek and here are the
+results:
+
+"We did..."
+
+**Note: the assessment took x hours.**
+
+* Satisfactory progress
+* Ruby styniax and style
+* Rails style and api
+* Testing
+* User interface
 
 ### Attendance
 
