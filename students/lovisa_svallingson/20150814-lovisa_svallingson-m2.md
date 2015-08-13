@@ -19,7 +19,60 @@ to practice being on a team instead of leading a team.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+---
+
+## Scores
+
+### Analytic/Algorithmic Thinking
+
+Score: 4
+
+* Good analysis of the problem, reasons why we want this feature, what will be involved.
+* Also keeping this in mind and amending it as we get more context.
+* Quickly comes up with the algorithm to do the scoring and sorting for the view
+
+### Ruby Syntax & Standard Library
+
+Score: 3
+
+* Uses Ruby to make sense of Rails (ie gaining access to the `Play#score` functionality via moving the method to a clas method)
+* Capacity to reason about return values and types, even prior to running code
+* Keep in mind that you can often normalize the null-case (ie we get `nil` instead of a string of space separated words, then call `to_s`).
+* A bit of confusion regarding `self` (controller trying to call model method, instance trying to call method defined on the class)
+* Quickly identifies how object model implies issues, and modifies the implementation accordingly
+
+### Rails Syntax & API
+
+Score: 3+
+
+* Good familiarity with each of the pieces, including knowing where to look for things,
+  and the sets of potential reasons that we could be seeing issues.
+
+### Rails Style
+
+Score: 4
+
+* Pushes the word sorting / scoring down into the model (good)
+* Pulls the scoring out of the Play instance, where it obviously doesn't belong
+  (wonderful! b/c is willing to make the necessary changes to improve existing design, this is very valuable)
+
+
+### Testing
+
+Score: 3+
+
+* Good test, though probably name it after the feature, "Highest Scoring Word"
+* One thing to be careful with is being overly specific with content on the page
+  (this can change for any number of reasons, breaking the test when the underlying functionality is the same)
+* Would be worth testing `score_and_sort` at a lower level
+
+### Collaboration
+
+Score: 4
+
+* Good initial communication
+
+---
 
 ### Attendance
 
@@ -47,6 +100,10 @@ I completed the following team projects thid module:
 * [GitHub URL](https://github.com/applegrain/traffic-spy)
 
 A miniature Google Analytics tool that receives web requests and analyzes them.
+
+feedback from Marla:
+
+* I enjoyed working with you because we have very similar working styles and it was easy to both learn from you and show you new things. We had productive conversations about technical choices we were making and it felt very collaborative.
 
 Functional Expectations: 3.5
   * Test-Driven Development: 4
