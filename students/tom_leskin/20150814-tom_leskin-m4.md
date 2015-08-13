@@ -15,6 +15,17 @@ https://quiet-journey-6049.herokuapp.com
 
 For the end of module assessment, we had 24 hours to build a task manager app that could contain many lists, the lists could have many tasks and it had numerous ways to filter and search the data. The app was built with Rails and JavaScript. Going into the assessment, I felt like it was slow at the beginning then ramped up quickly. While I started with TDD, as time went on and the pressure was setting in, the tests went on the back-burner as I attempted to finish the app. I knew that I could do everything that the app required, so I really tried to give it my all and stayed at Turing all day and night, not going home until about 3 p.m. Wednesday.
 
+Notes from Jeff:
+
+Missing list description
+Submitting a task without title (or maybe dates) crashes
+Missing sort by due date but NBD
+Megasearch filtering is interesting, works, hard to use
+Extra email feature delivers email
+Very few tests but like that they're done at different levels
+Ruby and Rails parts are solid
+JS looks good, like that it's not all just libraries
+
 ### Scores
 
 Scored by Jeff:
