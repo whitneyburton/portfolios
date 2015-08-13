@@ -58,9 +58,39 @@ I completed the following individual work this module:
 
 Sales Engine is a program that is able to aggregates business intelligence from CSV files that contain data regarding merchants, customers, invoices, invoice items, items, and transactions and can compile the data in many useful ways.
 
-(evaluation comments)
+11:30 - Nicole Hall, Justin Pease
 
-(evaluation scores)
+  1. Functional Expectations
+  * Much of the business logic was not completed.
+  2: Application has some missing functionality but no crashes
+
+  2. Test-Driven Development
+  * Tests were strong, but relied on the greater data set too much. A bit more
+  understanding of the benefits and use of a setup method could have helped.
+  3: Application is well tested but does not balance isolation and integration
+  tests, using only the data necessary to test the functionality
+
+  3. Encapsulation / Breaking Logic into Components
+  * Aside from the test suite, the components were split up and easily readable.
+The code is repository code is ready for a module, but the group ran out of
+time.
+  3: Application effectively breaks logical components apart but breaks the
+  principle of SRP
+
+  4. Fundamental Ruby & Style
+  * Only one solid sweep of refactoring would have made this into a very elegant
+  program.
+  3: Application shows strong effort towards organization, content, and
+  refactoring
+
+  5. Enumerable & Collections
+  * Not much Business Logic completed, but the parts which were completed were
+  done so with good enumerables.
+  3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+  6. Code Sanitation
+  * Had not ran rake sanitation:all yet. Most violations could be fixed easily.
+  1: More than ten complaints
 
 #### Chisel
 
@@ -110,8 +140,6 @@ I participated in the following team projects:
 I participated in th 3D printing class where Jamie Kawahara helped me print an "Optimus Prime" head for my nephew who loves the transformers.  Thanks Jamie!
 
 ### Giving Feedback
-
-
 
 ### Feedback Received
 
