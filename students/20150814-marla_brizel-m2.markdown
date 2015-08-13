@@ -10,6 +10,7 @@ This module, my main goal was to begin laying a foundation of knowledge for buil
 
 Assessor: Josh Mejia
 I received the following scores and feedback on the end of module assessment:
+
 **Scores**
 1. Analytic/Algorithmic Thinking *Score: 3.5*
 2. Ruby Syntax & Standard Library *Score: 3*
@@ -76,12 +77,14 @@ Not a real project, per se, but I pushed this repository up to keep track of the
 I participated in the following group projects:
 
 #### Traffic Spy
+
+* [GitHub URl](https://github.com/applegrain/traffic-spy)
+
 In this week-long project, I with two other teammates built an analytics
 platform for website traffic. We focused on understanding HTTP requests, got an introduction to JSON, and worked on PostgreSQL-flavored ActiveRecord queries. I particularly enjoyed the chance to practice ActiveRecord as well as refactor code.
 
-* [GitHub URl](https://github.com/applegrain/traffic-spy)
 Evaluator: Rachel
-Scores:
+###### Scores
 * Functional Expectations: 3.5
 * Test-Driven Development: 4
 * Encapsulation / Components: 3.5
@@ -97,7 +100,17 @@ We received compliments from Rachel, who told us during the evaluation that it w
 * [Heroku](https://jurassic-parka.herokuapp.com)
 
 In this two-week project, my group implemented Jurassic Parka, an e-commerce
-site. I played a team lead role and was in charge of all production deploys. My main areas of focus included implementing a shopping cart using POROs, custom controller actions, and complex views. I pushed myself to use jQuery over Ruby for order filtering in order to create a better user experience.
+site. I played a team lead role and was in charge of all production deploys. My main areas of focus included implementing a shopping cart using POROs, custom controller actions, and complex views. I pushed myself to use jQuery over Ruby for order filtering in order to create a better user experience. I also wrote an extension to implement a sales/discount concept.
+
+Evaluator: Josh
+###### Scores
+* Feature Completeness: 3.5
+* Views: 3
+* Controllers: 3
+* Models: 4
+* Testing: 3
+* Usability: 2
+* Workflow: 4
 
 ### Feedback to Me
 
@@ -109,16 +122,17 @@ site. I played a team lead role and was in charge of all production deploys. My 
 
 ### Giving Feedback
 
-I provided feedback via end-of-project feedback forms as well as on an ad-hoc basis as requested.
+I gave honest feedback to all who requested it and filled out all end-of-project feedback forms.
 
 ### Playing a Part
 
 * On Friday, July 17, I ran a student-led workshop on Scrum and Sprint Planning
 * On Sunday, July 19, I went on a fly fishing trip with other students/staff
 * On Friday, July 31, I delivered a lightning talk titled "Using Agile to Manage Your Life"
+* On Friday, July 31, I helped transport other students to Field Day
 
 ###### I published the following posts on my [personal blog](http://marlabrizel.github.io/):
-* My Friend the Stack Trace (also featured on the Turing blog)
+* My Friend the Stack Trace (also featured on the [Turing blog](http://blog.turing.io/2015/08/03/how-i-learned-to-stop-worrying-and-love-the-bomb/))
 * Learn HTML and CSS (From a Book!)
 * Redefining Failure
 
