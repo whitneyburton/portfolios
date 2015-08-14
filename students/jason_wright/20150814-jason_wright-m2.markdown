@@ -11,48 +11,43 @@
 
 ### Areas of Emphasis
 
-I felt that I have struggled using an Agile process on team projects. In most team projects we started good but then the process and best practices started getting ignored as the feeling of 'we are so far behind' set it. It seemed obvious from the early commits to the latter that the code degraded. Bugs also took longer to find and fix. I worked on figuring out a workflow that keeps waffle clean, keeps our code clean, and that isn't so heavy that the process seems like a burden. To keep waffle clean we started using appropriate tags, submitting our pull requests correctly to take advantage of waffle/github integration, and trying to work directly from the cards. I have also started reviewing all the pull requests almost line by line and asking questions about what I don't understand and discussing suggestions on how to make it cleaner. This is still a work in progress but I definately feel the improvement over module 1 and module 2.
+I felt that I have struggled using an Agile process on team projects. In most team projects we started good but then the process and best practices started getting ignored as the feeling of 'we are so far behind' set it. It seemed obvious from the early commits to the latter that the code degraded. Bugs also took longer to find and fix. I worked on figuring out a workflow that keeps waffle clean, keeps our code clean, and that isn't so heavy that the process seems like a burden. To keep waffle clean we started using appropriate tags, submitting our pull requests correctly to take advantage of waffle/github integration, and trying to work directly from the cards. I have also started reviewing all the pull requests almost line by line and asking questions about what I don't understand and discussing suggestions on how to make it cleaner. This is still a work in progress but I feel I have improved over module 1 and module 2.
 
 ### End of Module Assessment
 
 My progress through the module was assessed by Josh Cheek and here are the
 results:
 
-"We did a nice refactoring where we moved logic into a state machine."
+"You seem nervous, but I want you to do well!"
 
-**Note: the assessment took 3 hours.**
+**Note: the assessment took 45 minutes.**
 
-* Satisfactory progress 3
-* Ruby styniax and style 3
-* Rails style and api 3
-* Testing 3.5
-* User interface 3
+Analytic/Algorithmic Thinking: 3
+* Generally correct assessment
+
+Ruby Syntax & Standard Library: 3
+* Nothing problematic within our uninteresting set of possibilities
+
+Rails Syntax & API: 4
+* Nice using your editor to move shit around and reformat
+* Nice making sense of the view
+
+Rails Syntax & API: 4
+* Migrations / models / associations were all fine
+
+Testing: 3
+* Reasonable test
+
+Collaboration: 3
+* You seem nervous, but I want you to do well!
 
 ### Attendance
 
-Like all modules before it, I attended each day. I had two tardies, one on
-Tuesday, June 16th and one on Wednesday, June 24th.
+I missed the morning of August 10 because I stayed up all night and part of Monday morning correcting  LSoO code that I did incorrectly over the weekend.
 
 ### Projects
 
-I completed the following individual project for this module:
-
-#### Idea Box 2.0
-
-* [GitHub URL](https://github.com/allpurposename/ideabox)
-* [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
-
-  In this four-day project I implemented the bare essentials of Idea Box in
-  JavaScript. I was peer evaluated by Richard and Paul with these generous
-  results:
-
-  "Code and testing looks good!"
-
-  * Features:  3
-  * User Interface: 2
-  * Rails Style: 3
-  * Ruby Style: 4
-  * JavaScript Style: 3
+We did not have any individually accessed projects this module
 
 ## Team
 
@@ -60,98 +55,60 @@ I completed the following individual project for this module:
 
   I participated in the following team projects:
 
-#### Scale Up (HubStub)
+#### LSoO (Dinners Ready 4 U)
 
-  * [GitHub URL](https://github.com/turingschool-projects/HubStub)
-  * [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown)
+  * [GitHub URL](https://github.com/applegrain/dinners_ready)
+  * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-  This two week long project utilized a previous cohort's Pivot project and a seed
-  data of ~1 million objects to help us experience harsh load times and a need for
-  optimization. Our project was evaluated by Horace with the following results:
+  This two week long project was our first experience building a rails application and deploying it to Heroku. Our project was evaluated by Josh M. with the following results:
 
-  "Nice handling of poorly scoped ActiveRecord queries."
-
-  * Production Performance: 1 -- not running in production
-  * Load Testing: 2
-  * DB Scale: Check
-  * Testing: 2
-  * Code Quality: 2
-  * Additional Features: 2
+ * Feature Completeness: 4
+ * Views: 3.5
+ * Controllers: 3.5
+ * Models: 4
+ * Testing: 4
+ * Usability: 3
+ * Workflow: 4
 
 ##### My Contribution
 
-  I wrote the entirety of the Capybara load testing script. I also refactored
-  sloppy hard-to-work-with scoping so the rest of the team could focus on writing
-  better ActiveRecord queries.
+  I wrote worked on the Orders, Category's, and base bootstrap styling. We also paired on Admin pages and the visual design of the site. I helped with everything else as needed.
 
 ##### Takeaway
 
-  * Inheriting code is awful
-  * Large data sets are managable
-  * Writing scripts is fun
+  * I had fun pairing
+  * Writing feature tests first really helps out in the long run
+  * We had a really great team that worked well together
+  * Reviewing checked in code is actually really helpful
 
-#### Game Time (Lights Out)
+#### Traffic Spy
 
-  * [GitHub URL](https://github.com/mirjoy/lights-out)
-  * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+  * [GitHub URL](https://github.com/noobjey/traffic_spy)
+  * [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/5cd41b3635cc4d32431032d42bcfc9f7da3135d5/source/projects/traffic_spy.markdown)
 
-  This week-and-a-half long project was a pure JavaScript implementation of a
-  simple game. In our case that game was Lights Out. It was evaluated by Horace
-  with the following results:
+  This week-and-a-half long project introduced us to using an mvc framework to build a function web application.:
 
-  "This is actually fun."
+  "It was fun, but more challenging than I thought it would be."
 
-  * Functional Expectations 3-
-  * Test-Driven Development 2
-  * Breaking Logic into Components 3
-  * Fundamental JavaScript & Style 3
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Components: 3
+* Fundamental Ruby & Style: 2.5
+* Sinatra / Web and Business Logic: 3
+* View Layer: 3
 
 ##### My Contribution
 
-  We did not split the responsibilities and made sure to each take full responsiblity
-  for every aspect of the project. If I did have a focus, it was writing the tests
-  and keeping us on a TDD track.
+ We developed the initial framework and design as a group. We then split up to handle separate pieces of the project. We collaborated the entire project to make sure everyone was on the same page and worked together to fix anything that was not working out.
 
 ##### Takeaway
 
-  * OO JS is just a matter of organization
-  * TDD is mostly self discipline
-  * Project management tools are useful even in a team of two
-
-#### Flack (Quibble)
-
-  * [GitHub URL](https://github.com/indiesquidge/quibble)
-  * [Original Assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/flack.markdown)
-
-  This two week mastery project was a demonstration of websockets and software as
-  a service through a Slack clone. Our particular project aimed to provide a
-  structure for groups to come to decisions. We were evaluated by Horace with the
-  following results:
-
-  * Services 2:
-  * Encapsulation 2:
-  * Rails MVC 3:
-  * Test-Driven Development 2:
-  * Deployment 3:
-  * Features 3:
-  * Interface 3:
-  * Concept 3:
-  * Project Management process 3:
-
-##### My Contribution
-
-  I was the primary Rails developer on this project and I spent a lot of time
-  TDDing and making sure we had a great foundation. I also implemented a few Rails
-  features solely for the benefit of the other developers which felt like a great
-  use of time. Additionally, I was the team member who troubleshot miscellaneous
-  problems with the various integration of our code.
-
-##### Takeaway
-
-  * Code review is key to writing great software
-  * Being the team member who touches everything forces you to keep a lot in your
-  head at once.
-  * Pick your battles. Let some design decisions go.
+  * Trying to use agile processes is hard 
+  * Having good tests save you during the final push
+  
+##### Feedback
+*  “Working with Jason was great. He is definitely a hard worker and was willing to stay up late to get work done.”
+* "Jason was a strong member of the team and was able to quickly and accurately complete everything that was asked of him.  He always had a great attitude and was always willing to help if anyone had any issues."
 
 ## Community
 
@@ -159,23 +116,14 @@ I completed the following individual project for this module:
 
   According to the Feedback application:
 
-  * I delivered 0% of the requested feedback
+  * I believe I left feedback every week
 
 ### Playing a Part
 
-  Throughout the six weeks I pushed myself to pair with as many other students as
-  I could. I attended and advocated for every DSA session during the six weeks.
+  Throughout the six weeks I paired with far more people than I did in Module 1. It was really fun actually being able to help Module 1 people. 
 
-  * On Tuesday, May 19th, I deep cleaned the north refrigerator in classroom A.
-  * On Friday, May 22nd, I delivered a lightning talk titled "Metaprogramming is
-  Meta cool!"
-  * On Tuesday, June 9th, I delivered an expanded version of my metaprogramming
-  lightning talk at the Denver.rb beginner's track
-  * On Friday, June 12th, I ran a student lead session on JavaScript for Rubyists
-  * On Thrusday, June 18th, I delivered the metaprogramming lightning talk at
-  Community Night
-  * On Thursay, June 25th, I wrote a blog post titled "The Turing Bar" which was
-  featured on turing.io
-  * Also on Thursday, June 25th, my posse won the first ever posse cup.
-#HopperPosse4Lyfe #hatersgonnahate #tastytears
-  Read here about [Grace Hopper Con](http://gracehopper.org/)
+  * Our posse put forth a strong effort on the warm-ups, which was really fun
+  * My lighting talk was Javascript Testing with Jasmine (I learned I am terrible at keynote)
+  * The student led sessions I participated in this module were really helpful
+  
+#BrooksPosse
