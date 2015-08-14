@@ -37,10 +37,10 @@ make, or automate an order through Instacart to get your groceries delivered to 
 * User Experience: 3
 * Performance: 2
 
-#### ShitHub
+#### APIcurious
 
 * [GitHub URL](https://github.com/brettgrigsby/shithub)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
 
 "The application covers many interactions of the target application, but has a few holes in lesser-used functionality"
 
@@ -61,7 +61,7 @@ to do was realize and accept that.
 #### Supper Skip
 
 * [GitHub URL](https://github.com/brettgrigsby/supper_skip)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/supper_skip.markdown)
 
 In this group project, we were given an old 'Dinner Dash' project which we turned into
 a multitennancy platform. I gained a much more thorough understading of the session and
@@ -80,6 +80,7 @@ and generally clearly encapsulated."
 
 "You always make me laugh"
 
+
 ## Community
 
 ### Playing a Part
@@ -97,3 +98,5 @@ and generally clearly encapsulated."
 ### Outcome
 
 ( Leave blanks for reviewers )
+
+
