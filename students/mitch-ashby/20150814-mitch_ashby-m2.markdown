@@ -47,9 +47,9 @@ Original Assignment: https://github.com/turingschool/curriculum/blob/master/sour
 
         Feature Completeness: 3.5
         Views: 3
-        Controllers: 3.5
+        Controllers: 3
         Models: 4
-        Testing: 3
+        Testing: 3.5
         Usability: 2
         Workflow: 4
 
