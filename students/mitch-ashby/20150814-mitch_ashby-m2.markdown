@@ -7,12 +7,12 @@ This module I really wanted to work on my ability to work with others. I think t
 
 ###**End of Module Assessment**
 
-Analytic/Algorithmic Thinking: 3
-Ruby Syntax & Standard Library: 3
-Rails Syntax & API: 4
-Rails Style: 3
-Testing: 3.5
-Collaboration: 3
+        Analytic/Algorithmic Thinking: 3
+        Ruby Syntax & Standard Library: 3
+        Rails Syntax & API: 4
+        Rails Style: 3
+        Testing: 3.5
+        Collaboration: 3
 
 
 I was here every day, however, I was late on one day for personal reasons.
