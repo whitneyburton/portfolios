@@ -177,8 +177,18 @@ I will be able to make bigger and more positive impacts on Turing, and the progr
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Progress on being more self-sufficient; getting work done without outside help
+* Continued room for improvement in process -- not following linear path in most cases,
+which results in slower pace
+* Individual projects -- some progress on pacing and mastery; just needs more time
+* Community -- open to frank conversations; gives and receives feedback openly
+* good self-awareness of your own progress; steady, consistent work ethic and approach to learning
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A: End-of-Module Assessment:__ 1
+* __B: Individual Work & Projects:__ 2
+* __C: Group Work and Projects:__ 3
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3
+
