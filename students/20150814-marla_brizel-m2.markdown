@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-This module, my main goal was to begin laying a foundation of knowledge for building robust web applications, while continuing to expand upon my Ruby knowledge.
+This module, my main goal was to begin laying a foundation of knowledge for building robust web applications, while continuing to expand upon my Ruby knowledge. I also wanted to work on better managing my stress during the program. During Module 1, I often felt stressed to the point that I would forget how much I actually do enjoy coding.
 
 ### End of Module Assessment
 
@@ -100,7 +100,7 @@ We received compliments from Rachel, who told us during the evaluation that it w
 * [Heroku](https://jurassic-parka.herokuapp.com)
 
 In this two-week project, my group implemented Jurassic Parka, an e-commerce
-site. I played a team lead role and was in charge of all production deploys. My main areas of focus included implementing a shopping cart using POROs, custom controller actions, and complex views. I pushed myself to use jQuery over Ruby for order filtering in order to create a better user experience. I also wrote an extension to implement a sales/discount concept.
+site. I played a team lead role and was in charge of all production deploys. I played a part in setting up the item model. I also authored the shopping cart using POROs, custom controller actions, member routes, and complex views. I pushed myself to use jQuery over Ruby for order filtering in order to create a better user experience. I also personally wrote an extension to implement a sales/discount concept. Finally, I spent time towards the end of the project attempting to improve our test coverage.
 
 Evaluator: Josh
 ###### Scores
@@ -108,7 +108,7 @@ Evaluator: Josh
 * Views: 3
 * Controllers: 3
 * Models: 4
-* Testing: 3
+* Testing: 3.5
 * Usability: 2
 * Workflow: 4
 
@@ -130,17 +130,18 @@ I gave honest feedback to all who requested it and filled out all end-of-project
 * On Sunday, July 19, I went on a fly fishing trip with other students/staff
 * On Friday, July 31, I delivered a lightning talk titled "Using Agile to Manage Your Life"
 * On Friday, July 31, I helped transport other students to Field Day
+* Throughout the module, I attended Tuesday morning Joan Clarke Society coffee meetups to mentor, be mentored by, and collaborate with other Turing women
+* Throughout the module, I participated in Student Advisory Board.
+* I gave an interview to a videographer producing a piece on the Turing experience.
+* I provided assistance to 1507 with their projects, both proactively and when asked.
+* I attended Denver.rb in July and August
+* I submitted a session proposal for Denver Startup Week called "I'm a Female and Code Curious: Now What?" and it was accepted - hooray!
 
 ###### I published the following posts on my [personal blog](http://marlabrizel.github.io/):
 * My Friend the Stack Trace (also featured on the [Turing blog](http://blog.turing.io/2015/08/03/how-i-learned-to-stop-worrying-and-love-the-bomb/))
 * Learn HTML and CSS (From a Book!)
 * Redefining Failure
 
-* Throughout the module, I attended Tuesday morning Joan Clarke Society coffee meetups to mentor, be mentored by, and collaborate with other Turing women
-* Throughout the module, I participated in Student Advisory Board.
-* I gave an interview to a videographer producing a piece on the Turing experience.
-* I provided ad-hoc assistance to 1507 with their projects.
-* I submitted a session proposal for Denver Startup Week called "I'm a Female and Code Curious: Now What?" and it was accepted - hooray!
 
 ## Review
 
