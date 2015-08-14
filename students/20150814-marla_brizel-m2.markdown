@@ -11,7 +11,7 @@ This module, my main goal was to begin laying a foundation of knowledge for buil
 Assessor: Josh Mejia
 I received the following scores and feedback on the end of module assessment:
 
-**Scores**
+###### Scores
 * Analytic/Algorithmic Thinking *Score: 3.5*
 * Ruby Syntax & Standard Library *Score: 3*
 * Rails Syntax & API *Score: 3.5*
@@ -78,7 +78,7 @@ I participated in the following group projects:
 
 #### Traffic Spy
 
-* [GitHub URl](https://github.com/applegrain/traffic-spy)
+* [GitHub URL](https://github.com/applegrain/traffic-spy)
 
 In this week-long project, I with two other teammates built an analytics
 platform for website traffic. We focused on understanding HTTP requests, got an introduction to JSON, and worked on PostgreSQL-flavored ActiveRecord queries. I particularly enjoyed the chance to practice ActiveRecord as well as refactor code.
