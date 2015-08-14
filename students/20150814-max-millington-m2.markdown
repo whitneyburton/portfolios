@@ -1,6 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
-
-## Individual
+# Max Millington - Module2 Portfolio
 
 ### Areas of Emphasis
 
@@ -61,15 +59,19 @@ Josh Mejia evaluated us.
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 In this project, we utilized our new rails knowledge to build an app that allows visitors to purchase different trips.
+Josh Mejia evaluated us. 
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+* Feature Completeness: 4
+* Views: 4
+* Controllers: 3
+* Models: 4
+* Testing: 4
+* Usability: 4 
+* Workflow: 4
 
 #### Feedback to Me
 
+I got some feedback but I'm not sure what it is.
 
 ## Community
 
@@ -79,11 +81,11 @@ In this project, we utilized our new rails knowledge to build an app that allows
 
 ### Playing a Part
 
-    * I delivered a lightning talk on Pizza.
-    * I presented my Endangerous Outfitters app at demo night.
-    * I helped some 1507 people sometimes.
-    * I am going to give a talk a boulder rb during intermission.
-    
+* I delivered a lightning talk on Pizza.
+* I presented my Endangerous Outfitters project at demo night.
+* I helped some 1507 people sometimes.
+* I am going to give a talk at boulder rb during intermission.
+
 ## Review
 
 ### Notes
