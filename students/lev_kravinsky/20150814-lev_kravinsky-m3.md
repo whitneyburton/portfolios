@@ -46,7 +46,7 @@ This project was one of my favorite things I've built at Turing. User registrati
 
 ###Feedback to Me
 ----
-Last module, some challenges that I encountered were trying to go too fast, not taking pomodoros, and not committing frequently enough. This module, I've attempted to slow down, and my peers seem to agree that I've improved in that area - my public speaking skills have improved a huge amount due to all the lightning talks I've given (I think it's like 10 or so now). I also now take pomodoros on every project I work on, and I now have both the most commits of anyone in 1503 and the longest streak.
+Last module, some challenges that I encountered were trying to go too fast, not taking pomodoros, and not committing frequently enough. This module, I've attempted to slow down, and my peers seem to agree that I've improved in that area - my public speaking skills have improved a huge amount due to all the lightning talks I've given (I think it's like 10 or so now). I also now take pomodoros on every project I work on. Something else I've been doing is committing frequently - I'm on a 61 day streak right now and have about 1300 commits from Module 2 & 3.
 
 Positive feedback:
 Justin's feedback to me was that he loves pairing with me, Max said he was very happy about our group work together, and Morgan said she adores me.
@@ -79,6 +79,5 @@ I did my personal project's API in Elixir and got down to microsecond response t
 I reimplemented Enumerator and Enumerable (and gave a conference talk about it).
 I wrote a bunch of FizzBuzz solutions and benchmarked them to test class vs. instance methods, conditionals vs. cases, etc.
 I made a live chat app using the MEAN stack.
-I wrote two blog posts on lev.io (I'm currently finishing up 3 drafts - Markov chain poetry, Elixir, and a Mock-Lobster retrospective)
-
-
+I wrote two blog posts on lev.io this module (I'm currently finishing up 3 drafts - Markov chain poetry, Elixir, and a Mock-Lobster retrospective)
+I just yesterday started to build a twitter bot that will angrily tweet your hound violations at you.
