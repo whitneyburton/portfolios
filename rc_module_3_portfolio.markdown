@@ -29,14 +29,18 @@ I advised Jorge that my goal over the break was to study up on JS and that may p
 #### Scores
   * Completion: 3 - Developer completed all the user stories and requirements set by the client.
   * Organization: 3 - Developer used a project management tool to keep their project organized.
-  * Test-Driven Development: 1 - Project lacks sufficient testing (under 85% coverage). (Horace later modified this to a 2- citing after seeing some of the other projects he said he thought he may have been a little harsh in the scoring of mine.)
+  * Test-Driven Development: 1 - Project lacks sufficient testing (under 85% coverage). (Horace later modified this to a 2- citing after seeing some of the other projects he said he thought he may have been a little harsh in the scoring of mine. See additional comments below)
   * Code Quality: 2 - Project demonstrates some gaps in code quality and/or application of MVC principles.
   * User Experience: 2 - Project exhibits some gaps in the UX.
   * Performance: 3 - Project pages load on average under 400 milliseconds.
 
-I did not agree on Horace's assessment of my project and felt some of his notes were unwarranted.  He seemed to imply that project was not much of a challenge because of my use of the Devise Gem, which handled managment of single users when that user authenticates with multiple OAuth Providers, in my case facebook, twitter and instagram were the platforms I allowed users to authenticated through.  While authenticating with one would gain them access to the application, I establishe that authenticating with the others would allow me to pool the api calls for the feeds for all three and display them on a single page.  While I used Devise to accomplish this, I had to sort out how Devise was working, it was not a "plug and play app."
+I did not agree with all of Horace's feedback on my project and felt some of his notes were unfair.  He seemed to imply that project was not much of a challenge because of my use of the Devise Gem, which handled managment of single users when that user authenticates with multiple OAuth Providers, in my case facebook, twitter and instagram were the platforms I allowed users to authenticated through.  While authenticating with one would gain them access to the application, I established that authenticating with the others would allow me to pool the api calls for the feeds for all three and display them on a single page.  
 
-Part of my frustration of Horace's assessment of me offloading techincal challenges to external tools is that from the point where I decided to used Devise, I spoke with Horace, DJ and Jorge, all of whom knew I was using the gem and at no point was it suggested that using it could have been perceived as being a lazy developer.  
+I had previously brainstormed a plan to do this with Josh Cass, using two separate tables, one for users and the other for the authentication data.  In researching this further, I discovered Devise was a gem what would do just what I was attempting to do.  
+
+While I used Devise to accomplish this, I had to sort out how Devise was working, it was not a "plug and play" gem that required little to no interaction.  A decent amount of my time was spent sorting how it did what it did and to sort that I had to have an understanding of how sessions and authentications worked to make my way through some extremely technical blogs I viewed while solving problems related to Devise. 
+
+Part of my frustration of Horace's assessment of me offloading techincal challenges to external tools is that from the point where I decided to used Devise, I spoke with Horace, DJ and Jorge, all of whom knew I was using the gem and at no point was it suggested that using it was a problem.  They didn't seem to know much about it except that it could be difficult to work with and DJ claiming it "was a trap," so I was pleased when I was able to make it work.  DJ has even suggested I write a blog on how it works, knowing it can be a difficult gem to work with. 
 
 As I told Horace, I could not have written this application four months ago.  So even if this project was not as challenging as some, for me it was a challenge and serves as a marker for how far I have come since starting this program.  I did not seek outside help on this project, I googled and researched and read every glitch and every point I had to find a solution to, and what this taught me is that I am getting far better at not only utilizing online resources, but I am getting much better at asking the right questions when working to solve a problem. 
 
@@ -128,8 +132,11 @@ I gave 100% of requested feedback, whether in the form of completing forms or se
  * I have volunteered to work on some of the other outreach programs that are being considered in schools, due in part to my background in education. 
  * 
  * I have reach out to members in other cohorts more frequently this module when they need assistance.  I helped a couple of them with some git issues and showed another couple about erb shortcuts in Rubymine.
+ 
  * I paired a lot this module with Vanessa and had a great experience.  I feel that we really helped each other a lot work through the projects in a way that boosted both of our confidence in our abilities and in a way that was mutually respectful of one another's abilities.  I was very excited when I heard the scores she got on her final project because, having worked side by side with her I know she earned those scores.  Though she and I have not worked in an official group project together, I did ask her for feedback and she replied with: "It's being really great! No complaints, really easy to work with and get feedback! able to work as part of a team and collaborate without pushing your ideas. Also, great giving out ideas to implement in an easy and understanble way. =D
+
  * I attended demo night this Thursday and demoed my final project.  I joined some Turing students at the Vault and socialized before demo night started
+ 
  * I am getting to a point where I feel more confident in my skills and feel like I can contribute more to the community and would like to seek ways to do that in upcoming modules and beyond. 
 
 ## Review
