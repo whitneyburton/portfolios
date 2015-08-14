@@ -144,8 +144,17 @@ I gave 100% of requested feedback, whether in the form of completing forms or se
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Lots of progress from early modules
+* Pleased with final project; individual progression is strong, but perhaps not
+where we'd like to see on an absolute scale
+* Community engagement is reasonable; somewhat distanced from the group on a personal
+level but making up for it with lots of external participation
+* Another pass at module 3 to shore up and solidify project completion outcomes
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A: End-of-Module Assessment:__ 1
+* __B: Individual Work & Projects:__ 2
+* __C: Group Work and Projects:__ 3
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3
