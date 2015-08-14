@@ -12,12 +12,12 @@ Assessor: Josh Mejia
 I received the following scores and feedback on the end of module assessment:
 
 **Scores**
-1. Analytic/Algorithmic Thinking *Score: 3.5*
-2. Ruby Syntax & Standard Library *Score: 3*
-3. Rails Syntax & API *Score: 3.5*
-4. Rails Sytle *Score: 4*
-5. Testing *Score: 4*
-6. Collaboration *Score 4*
+* Analytic/Algorithmic Thinking *Score: 3.5*
+* Ruby Syntax & Standard Library *Score: 3*
+* Rails Syntax & API *Score: 3.5*
+* Rails Sytle *Score: 4*
+* Testing *Score: 4*
+* Collaboration *Score 4*
 
 **Notes**
 Overall solid understanding of Rails. Marla would benefit from practicing Ruby enumerables as some of the things that were really strong at the end of M1 aren't as strong. Great use of TDD -- it seems really natural to her. She is in a good place and understands all of the core concepts covered in M2.
