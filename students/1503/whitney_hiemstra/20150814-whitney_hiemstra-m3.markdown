@@ -1,7 +1,7 @@
 Whitney Hiemstra - Module 3 Portfolio
-Individual
+### Individual
 
-Areas of Emphasis
+## Areas of Emphasis
 
 With previous individual projects, I have always had a very hard time with my project management skills.
 I was constantly biting off more than I can chew, if I came across an issue I couldn't solve, I thought
@@ -21,39 +21,39 @@ lightning talk, but realized in order to get better and get rid of that fear, is
 I decided to actually give my lightning talk the following week. So happy I did as felt a lot better
 and a lot more comfortable with speaking.
 
-End of Module Assessment
+## End of Module Assessment
 
 My end of module, personal project was assessed by Jorge and Horace. Results:
 
 Jorge voiced that he felt the technical complexity of my project was great, but unfortunately there's no
 real place in the rubric to record that.
 
-Feature Delivery
-Completion - 4: Developer completed all the user stories and requirements set by the client in timely manner.
-Organization - 4: Developer used a project management tool and updated their progress in real-time.
+# Feature Delivery
+* Completion - 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* Organization - 4: Developer used a project management tool and updated their progress in real-time.
 
-Technical Quality
-Test-Driven Development - 4 !!!!
-Code Quality - 3: Project demonstrates solid code quality and MVC principles.
+# Technical Quality
+* Test-Driven Development - 4 !!!!
+* Code Quality - 3: Project demonstrates solid code quality and MVC principles.
 
-Product Experience
-User Experience - 2: Project exhibits some gaps in the UX.
-Performance - 2: Project pages load on average under 500 milliseconds.
+# Product Experience
+* User Experience - 2: Project exhibits some gaps in the UX.
+* Performance - 2: Project pages load on average under 500 milliseconds.
 
 
-Projects
+## Projects
 
 I completed the following individual project for this module:
 
-APIcurious
+# APIcurious
 
-GitHub URL - https://github.com/whithub/mini_twitter
-Original Assignment - https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown
+[GitHub URL](https://github.com/whithub/mini_twitter)
+[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
 
-Server-Side Application and APIs: 3 - Project wraps/isolates external API but has some gaps or external connections in its testing.
-Test-Driven Development: 2.5 - The code demonstrates high test coverage (>70%). Needs more user tests.
-Features: 2.5 - Some features were sacrificed to meet the deadline.
-Interface: 3 - The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
+* Server-Side Application and APIs: 3 - Project wraps/isolates external API but has some gaps or external connections in its testing.
+* Test-Driven Development: 2.5 - The code demonstrates high test coverage (>70%). Needs more user tests.
+* Features: 2.5 - Some features were sacrificed to meet the deadline.
+* Interface: 3 - The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 So I don't necessarily agree with this grading. I try to be very big on TDD, but we
 learned how to properly test external API's the afternoon before project was due. Also, I was
@@ -64,27 +64,27 @@ rubric that wasn't given to us and, I was told later, was an old rubric. And so 
 for not displaying/parsing some features, but I didn't know these specific features were going to be
 looked for. I parsed other features that were not on the list, but didn't appear to be factored in.
 
-Team Projects
+### Team Projects
 
 I participated in the following team projects:
 
 Supper Skip
 
-GitHub URL - https://github.com/adfink/supper_skip
-Original Assignment - https://github.com/turingschool/curriculum/blob/master/source/projects/supper_skip.markdown
+[GitHub URL](https://github.com/adfink/supper_skip)
+[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/supper_skip.markdown)
 
 This two week long project utilized a 1406 Dinner Dash project that had to scale from an ordering site
 for a single restaurant into a platform allowing individual restaurants to sell food online. We had to
 adapt the existing data model to flexibly serve multiple tenants.
 
 
-Feature Completion - 4
-Project Organization - 4
-Test-Driven Development - 4
-Code Quality - 3
-User Experience - 2
+* Feature Completion - 4
+* Project Organization - 4
+* Test-Driven Development - 4
+* Code Quality - 3
+* User Experience - 2
 
-Takeaway
+# Takeaway
 
 * Inheriting code can be very challenging, but is what real life programming will be like and it
 motivates me to write good, readable code to begin with.
@@ -100,7 +100,7 @@ learning and implementing what we've learned in class, I wanted to work on front
 more than what I have on past projects. My team mates we're happy to let me work on that. =)
 
 
-Giving Feedback
+### Giving Feedback
 
 According to the Feedback application:
 
@@ -160,7 +160,7 @@ different ways of approaching a problem and (2) Networking!
 
 * "I don't know if there is anything to improve on. I think you are a really motivated student, and a hard-worker. I haven't been able to work in a group with you, but I think you would be a great team player. I appreciate that you are so open to help, when asked." - anonymous through peer review survey
 
-Playing a Part
+### Playing a Part
 
 Throughout the six weeks I've attended both the Denver.rb and Boulder Ruby meet ups. I've pushed myself
 get out into the community more, though will work towards pairing with different people. I am currently
