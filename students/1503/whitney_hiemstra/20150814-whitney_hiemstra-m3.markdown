@@ -118,7 +118,7 @@ People found me to be very approachable and easy to communicate.
  Were you on my team?
  At least you tried
  You pitched in here and there
- You pulled your weight - 10%
+ You pulled your weight - 100%
 
 Previous teams members felt I pull my own weight in group projects
 
