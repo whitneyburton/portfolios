@@ -96,7 +96,7 @@ It was evaluated by Horace with the following results:
 
 I gave feedback to all the people who asked me.
 
-### Being a Community Member
+### Feedback to me
 
 1. "You are a lot of fun to work with and are very driven.  You have a strong grasp on the topics we have covered in the program and have a good eye for design.  I like working with you because you are able to discuss and problem solve without becoming arrogant or mean spirited.  You also help me understand things that may not have been clear before and you are not afraid to ask other people for help if you get stuck."
 2. “Vane is always a joy to work with on projects, working with her on Traffic Spy felt like we had a really balanced, great team. She is also incredibly kind, and a much appreciated part of 1503. :)"
