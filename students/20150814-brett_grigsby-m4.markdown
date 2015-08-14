@@ -93,10 +93,15 @@ and generally clearly encapsulated."
 
 ### Notes
 
-( Leave blanks for reviewers )
+* work demonstrates understanding of the relevant concepts
+* comfortable giving and receiving feedback; would like to see more process and attention
+to this
+* still lots of potential for being active in molding group dynamic
 
 ### Outcome
 
-( Leave blanks for reviewers )
-
-
+* __A: End-of-Module Assessment:__ 3
+* __B: Individual Work & Projects:__ 3
+* __C: Group Work and Projects:__ 3
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3
