@@ -147,8 +147,21 @@ I gave honest feedback to all who requested it and filled out all end-of-project
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Great asset in group work scenarios -- Marla's teams seem to consistently
+outperform other teams thanks to her participation
+* Enjoyment of work? -- do you actually like doing the work? Last project
+seemed to involve a lot of stress and some interpersonal issues that made it
+less enjoyable
+* Challenge going forward: you have aptitude to excel at whichever portions
+of the discipline you're interested in, but can we find one that you enjoy
+or are particularly excited about or interested in
+* You are perceptive and give prescient feedback; perhaps sometimes too
+biting so people take it harshly. Perhaps we can soften this
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A: End-of-Module Assessment:__ 3
+* __B: Individual Work & Projects:__ 3
+* __C: Group Work and Projects:__ 4
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3
