@@ -155,8 +155,18 @@ Feedback from Patrick: "Sebastian, I've paired with you a few times and I rememb
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Great academic and technical performance
+* Strong factor in groups performing at a high level
+* Would like to see you deliver more honest and critical feedback 
+* Would like to see you opening up more with direct communication
+* Too interesting and have too much potential to be lurking on the periphery
+of the community. need to find a way to bring more of your energy and interest
+into the center of the community
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A: End-of-Module Assessment:__ 4
+* __B: Individual Work & Projects:__ 4
+* __C: Group Work and Projects:__ 4
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3
