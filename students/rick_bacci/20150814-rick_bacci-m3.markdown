@@ -158,8 +158,18 @@ when I'm stuck on something.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Personal / Technical growth curve not keeping pace as desired
+* Seemed to start at a high point especially for technical skills, but not advancing as fast as others
+* Major issues seem to stem from personal and project management
+* Need more techniques to manage distraction and focus
+* Earlier modules depended more on tech skill and determination - very suited to Ricky's strengths
+* Now need to focus a lot on process, discipline, distraction, etc
+* Need to develop skills and process for channeling raw power and aptitude into a disciplined project
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A: End-of-Module Assessment:__ 1
+* __B: Individual Work & Projects:__ 2
+* __C: Group Work and Projects:__ 3
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3
