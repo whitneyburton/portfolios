@@ -129,6 +129,8 @@ and encourage students to foster a healthier and better learning environment.
 I started a Turing Wiki. I contributed pull requests to Jumpstart Labs / Turing School lessons. I made an
 extra effort to thoroughly and thoughtfully fill out all my weekly surveys.
 
+I created a Jekyll blog and wrote a few blog posts covering effective learning, and Ruby modules.
+
 Outside of Turing, I attended many different MeetUps including Denver.rb,
 Boulder Ruby, DenverScript, and ReactJS.
 
