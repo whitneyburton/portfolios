@@ -90,8 +90,20 @@ I got some feedback but I'm not sure what it is.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Individual and Group technical and academic progress is very strong
+* Strive to be more engaged in group dynamics; this can take the form of
+1-on-1 interactions just as much as large-group interactions
+* You are pretty successful at delivering honest and critical feedback in
+a productive way, at least at the staff
+* Keep this up toward the staff, but strive to bring this into your interactions
+with other students as well
+* We want to create an environment where this type of feedback is regular and
+habitual, and we need you to play an active part in creating this environment
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A: End-of-Module Assessment:__ 4
+* __B: Individual Work & Projects:__ 4
+* __C: Group Work and Projects:__ 4
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3
