@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65214d83-4c05-4175-a99f-48ec9629e521" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/students/1503/vanessa-gomez/vanessa_gomez_m3.markdown" afterPath="$PROJECT_DIR$/students/1503/vanessa-gomez/vanessa_gomez_m3.markdown" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/1503/vanessa-gomez/vanessa_gomez_m3.markdown" afterPath="$PROJECT_DIR$/students/1503/vanessa-gomez/20150814-vanessa-gomez-m3.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolios.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,14 +28,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="vanessa_gomez_m3.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/students/1503/vanessa-gomez/vanessa_gomez_m3.markdown">
+      <file leaf-file-name="20150814-vanessa-gomez-m3.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/students/1503/vanessa-gomez/20150814-vanessa-gomez-m3.markdown">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55172414" vertical-offset="1455" max-vertical-offset="1890">
-              <caret line="113" column="9" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.44827586" vertical-offset="1455" max-vertical-offset="1905">
+              <caret line="110" column="48" selection-start-line="110" selection-start-column="48" selection-end-line="110" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -88,6 +89,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/students/1503/vanessa-gomez/vanessa_gomez_m3.markdown" />
+        <option value="$PROJECT_DIR$/students/1503/vanessa-gomez/20150814-vanessa-gomez-m3.markdown" />
       </list>
     </option>
   </component>
@@ -169,6 +171,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="1503" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vanessa-gomez" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -354,13 +360,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/students/1503/vanessa-gomez/vanessa_gomez_m3.markdown">
+    <entry file="file://$PROJECT_DIR$/students/1503/vanessa-gomez/20150814-vanessa-gomez-m3.markdown">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55172414" vertical-offset="1455" max-vertical-offset="1890">
-          <caret line="113" column="9" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.44827586" vertical-offset="1455" max-vertical-offset="1905">
+          <caret line="110" column="48" selection-start-line="110" selection-start-column="48" selection-end-line="110" selection-end-column="48" />
           <folding />
         </state>
       </provider>

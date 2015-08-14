@@ -106,8 +106,9 @@ I gave feedback to all the people who asked me.
 
 ### Playing a Part
 
-I gave two lighting talks this module, one on 2d to 3D video conversions and on typography on web. I paired with some students and helped them a bit on their projects.
-Whenever I find useful info about coding/testing I put it on slack for my classmates.
+* I gave two lighting talks this module, one on 2d to 3D video conversions and on typography on web.
+* I paired with some students and helped them a bit on their projects.
+* When I found useful info about coding/testing, I put it on slack for my classmates.
 
 ## Review
 
