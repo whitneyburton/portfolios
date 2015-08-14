@@ -128,9 +128,10 @@ I gave 100% of requested feedback, whether in the form of completing forms or se
 
 ### Playing a Part
 
- * I volunteered to be a TA for the Belmar Library HTML Summer Camp the week of August 6. 
+ * I volunteered to be a TA for the Belmar Library HTML Summer Camp the week of August 6. Katie, a sophomore at Lakewood High School and I had a ton of fun trying to sort out how to make a dog head she made from different shapes spin around when you hovered over it using css transistions.  It was as educational for me as it was for them and got me back into the classroom, which was nice. (http://codepen.io/kathlyn/pen/GJeJjB)
+ 
  * I have volunteered to work on some of the other outreach programs that are being considered in schools, due in part to my background in education. 
- * 
+  
  * I have reach out to members in other cohorts more frequently this module when they need assistance.  I helped a couple of them with some git issues and showed another couple about erb shortcuts in Rubymine.
  
  * I paired a lot this module with Vanessa and had a great experience.  I feel that we really helped each other a lot work through the projects in a way that boosted both of our confidence in our abilities and in a way that was mutually respectful of one another's abilities.  I was very excited when I heard the scores she got on her final project because, having worked side by side with her I know she earned those scores.  Though she and I have not worked in an official group project together, I did ask her for feedback and she replied with: "It's being really great! No complaints, really easy to work with and get feedback! able to work as part of a team and collaborate without pushing your ideas. Also, great giving out ideas to implement in an easy and understanble way. =D
