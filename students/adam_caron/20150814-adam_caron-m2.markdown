@@ -124,7 +124,7 @@ https://github.com/turingschool/ruby-submissions/blob/master/1505/05_traffic_spy
  - Paired every week this module with mentor (Troy Denkinger)
  - Paired with my fellow posse members (1507ers and mentors).
  - Attended Field Day (and had a great time playing vollyball, ultimate frisbee, soccer etc. and just hanging out and chatting with people)
- - Gave lightening talk on July 31st on **UX Design vs. Development & Implementation** on Friday, July 31st, 2015.
+ - Gave lightning talk on July 31st on **UX Design vs. Development & Implementation** on Friday, July 31st, 2015.
 
 ## Review
 
