@@ -101,7 +101,7 @@ Functional Expectations: 3.5
 (feedback to me)
 Feedback from TrafficSpy team: Dedication and genuine interest in code; he was able to push forward every evening
 
-Feedback from Sam: “Sebastian is one of those people everyone really likes as a person and thoroughly enjoys working with. He is incredibly nice and friendly to everyone. That combined with his strong passion and talent for programming makes him quite the rare breed indeed. I am glad to be in the same cohort as Sebastian, and enjoyed working with him on the Little Shop of Orders project. He was a strong contributor and easy to work with."
+
 
 Feedback from Patrick: "Sebastian, I've paired with you a few times and I remember you being a very active pairing partner. Whether driving or not you were very participatory which isn't an easy skill to learn right away. You seemed to ask the right questions and I think we were able to gel well fairly quickly on problems."
 
@@ -125,6 +125,15 @@ Controllers: 4
 Models: 4
 
 (feedback to me)
+Feedback from Sam: “Sebastian is one of those people everyone really likes as a person and thoroughly enjoys working with. He is incredibly nice and friendly to everyone. That combined with his strong passion and talent for programming makes him quite the rare breed indeed. I am glad to be in the same cohort as Sebastian, and enjoyed working with him on the Little Shop of Orders project. He was a strong contributor and easy to work with."
+
+Feedback from Reeves: “Sebastian has really has been a joy to be around the entire time I’ve been at Turing.  He’s like this secret gem hiding in the background.  He’s quiet, but immensely talented.  He really crushed Redrum Nursery.  We could not possibly have accomplished what we did without Sebastian’s hard work, dedication and raw talent.  I really hope I get to work with him again.
+
+Feedback from Dorrance: "I had a great time working with Michael Dorrance on the “The Little Shop of Orders” project! I learned a ton from him during the project. From UX and CSS, to dedication and how to work hard. He was a great contributor to our project and I would enjoy working with him again in the future." 
+
+-----------------------------------------------------------------------------------------------
+Other feedback:
+Feedback from Patrick: "Sebastian, I've paired with you a few times and I remember you being a very active pairing partner. Whether driving or not you were very participatory which isn't an easy skill to learn right away. You seemed to ask the right questions and I think we were able to gel well fairly quickly on problems."
 
 ## Community
 
