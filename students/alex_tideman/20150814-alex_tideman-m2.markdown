@@ -112,3 +112,20 @@ https://github.com/turingschool/feedback
 * On the week of July 20th, I paired with 1507 groups on their Linked List project
 
 
+## Notes
+
+* Academic and Technical progress is solid
+* Group work is strong -- very favorable reactions to interacting with
+you in a group setting
+* Would like to see more of this energy brought into more public / visible
+interactions, whether these are 1-on-1 or group settings
+
+## Outcome
+
+* __A: End-of-Module Assessment:__ 3
+* __B: Individual Work & Projects:__ 4
+* __C: Group Work and Projects:__ 4
+* __D: Community Participation:__  3
+* __E: Peer & Instructor Feedback:__ 3
+
+
