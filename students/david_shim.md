@@ -166,7 +166,7 @@ Score: 4
 ##### Takeaway
 
   * This was our first rails project.  It was awesome to see something that
-    we built, actually functioning on the web.
+    we built; actually functioning on the web.
   * Project Management skills using direct input from the "Client" and building
     the project based around the client's needs and expectations. (Shoutout to Josh
     for taking the extra time to fulfill this role)
@@ -182,6 +182,12 @@ Score: 4
   According to my memory:
 
   * I delivered 100% of the requested feedback in each of the weekly surveys.
+
+  From Traffic Spy:
+
+  * Mitch:  “Shim was a great asset to the team. He was always organized and willing to do whatever it took to get the project done in time"
+
+  * Jason:  "It never seemed like there was stress with each other, just the stress of the project. Dave facilitated this by speaking clearly, explaining things to me when I was confused, and keeping an eye on where the project was at all times. He also put in the effort to make our traffic spy look good, which made the finished product something I could actually show people."
 
 ### Playing a Part
 
