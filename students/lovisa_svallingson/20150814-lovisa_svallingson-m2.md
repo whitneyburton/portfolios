@@ -119,11 +119,13 @@ Functional Expectations: 3.5
 
 An online commerce platform to facilitate online marketing.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+Feature Completeness: 4
+Views: 3.5
+Controllers: 3.5
+Models: 4
+Testing: 4
+Usability: 3
+Workflow: 4
 
 ## Community
 
