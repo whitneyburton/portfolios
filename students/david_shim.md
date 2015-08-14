@@ -203,3 +203,25 @@ Score: 4
     Little Shop of Orders project.
   * I am currently organizing a friendly poker game for Turning students to occur sometime
     mid-week during intermission.
+
+## Notes
+
+* Assessment was acceptable but didn't feel like it realized your full potential
+* Will be a lot of work in module 3 to make sure we're hitting this target
+* Group projects are successful; doing well contributing to the team without
+introducing any friction
+* Would like to see you taking on more challenges during the project group;
+make sure we're pushing ourselves
+* Group participation is technically competent; would like to see a larger role
+in "bringing out the best" in the group
+* Feedback / Community involvement: Keep active and pushing yourself to get
+off of the periphery of the group -- individual involvement is great as well
+* You could be a great asset as a mentor to newer students
+
+## Outcome
+
+* __A: End-of-Module Assessment:__ 3
+* __B: Individual Work & Projects:__ 3
+* __C: Group Work and Projects:__ 3
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3
