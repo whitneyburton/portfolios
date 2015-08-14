@@ -18,11 +18,9 @@
 
 (Intro)
 
-#### Traffic Spy
+#### (Project Name)
 
-
-
-* [GitHub URL](https://github.com/Drew242/traffic-spy-skeleton)
+* [GitHub URL]()
 * [Original Assignment]()
 
 (description)
