@@ -144,8 +144,19 @@ Together with some students in 1507, we are trying to revive the atChannel podca
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Solid individual academic progress
+* Consistently going beyond the basic assignments and exhibiting curiosity
+* Exhibiting a pleasant curiosity and interest in understanding deeper issues behind
+technical tools
+* Doing well with managing stress and mental well-being during the module's assignments
+* A little bit of a "passenger seat" attitude with the cohort's interactions and personal
+feedback -- would like to see more of your opinions and critical feedback coming into the
+forefront
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A: End-of-Module Assessment:__ 4
+* __B: Individual Work & Projects:__ 4
+* __C: Group Work and Projects:__ 3
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3
