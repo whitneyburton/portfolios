@@ -113,8 +113,12 @@ Filling out surveys when people post them! Generally I only gave feedback that w
 
 ### Notes
 
-( Leave blanks for reviewers )
+A: Assessment - 3
+B: Individual - 3
+C: Group      - 3
+D: Community  - 3
+E: Feedback   - N/A (3)
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Passed.
