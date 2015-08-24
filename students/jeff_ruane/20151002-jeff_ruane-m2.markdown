@@ -45,3 +45,13 @@ computing, and technology in general.
 On August 20, I helped lead the orientation session for the incoming 1508
 students. On the same day, I helped move furniture before and after the carpet
 cleaners worked.
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
