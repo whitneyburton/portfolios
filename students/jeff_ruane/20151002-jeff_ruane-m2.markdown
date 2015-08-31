@@ -30,6 +30,8 @@ computing, and technology in general.
 
 ###Attendance
 
+I was out sick on August 28.
+
 ###Projects
 
 ##Team
