@@ -51,6 +51,9 @@ cleaners worked.
 On August 25, Daisha recognized Adam Caron's and my efforts to reinvigorate my
 posse, calling it "an inspiration".
 
+On September 4, a pull request I submitted was accepted to the Ruby Exercises
+repository making hash_test.rb more clear for beginners.
+
 ## Review
 
 ### Notes
