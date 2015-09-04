@@ -2,7 +2,7 @@
 
 ## Individual
 
-### Areas of Emphasis
+### Your Mission
 
 (What did you set out to accomplish this module?)
 
