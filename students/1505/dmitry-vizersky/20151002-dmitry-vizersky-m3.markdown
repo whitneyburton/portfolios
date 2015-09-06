@@ -7,8 +7,9 @@
 (What did you set out to accomplish this module?)
 This module I set out to be more invloved within my posse
 and within any group I happened to be apart of. I planned to
-be ready for morning challenges at 8:20am. I also wanted to try
-to solve as many morning challenges as I can in JavaScript instead of Ruby.
+be ready for morning challenges at 8:20am, and help my posse mates whenever possible.
+Coming into this module I really wanted to get a better grasp of bootstrap, JavaScript, and Jquery.
+I also wanted to try to solve as many morning challenges as I can in JavaScript as well as Ruby. Learn more about what I can do with a wordpress site.
 
 ### End of Module Assessment
 
@@ -60,6 +61,13 @@ I had a really great experience working with you. It's obvious how much you care
 Like you mentioned, we both have strong personalities so sometimes it was tough to come to an agreement on how to approach a problem. On the positive side, it was awesome that our disagreements were always productive and civil and based in fact. We did have to undo some design choices after the fact, and I think a lot of the annoyance and pain of that could have been mitigated by having design discussions as a team before implementation. It felt difficult to gain your trust at the beginning of the project but this went away quickly and I think we had a great dynamic during the project.
 
 If given a choice on a future project, I'd pick you again as a teammate. I will definitely be coming to you with front-end questions on my personal project too. I think you are already having a positive impact on our cohort and I'm glad you're here.
+
+(feedback to me)
+I really enjoyed working with you. First I was a bit worried that we were going to have conflicts or disagreements within our group since all three of us are pretty strong-willed but I think it went really well! Whenever we disagreed about the design of our back-end or the front-end we discussed it like adults instead of being stubborn babies.
+
+I like working with you because you are very direct and aren’t afraid of saying it the hard way instead of tip toeing around the subject and wasting time. Feeling that you were very direct with made it easier for me to be very direct back.
+
+You work very hard and I learned a lot from you in terms of design and front-endy stuff. I would love to work with you again!
 
 ## Community
 
