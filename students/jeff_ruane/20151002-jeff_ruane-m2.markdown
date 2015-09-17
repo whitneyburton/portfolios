@@ -28,15 +28,27 @@ computing, and technology in general.
 
 ###End of Module Assessment
 
-###Attendance
-
-I was out sick on August 28.
-
 ###Projects
 
 ##Team
 
 ###Projects
+
+####Traffic Spy
+[GitHub](https://github.com/jbrr/traffic_spy)
+[Assignment](http://tutorials.jumpstartlab.com/projects/traffic_spy.html)
+
+In this project, we implemented Google Analytics type functionaily using
+ActiveRecord, Sinatra, and Postgres. I was in a group with Mimi, Mike, and Alon.
+
+We were evaulated by Josh M. and recieved the following scores:
+
+1. Functional Expectations          : 3
+2. Test-Driven Development          : 4
+3. Encapsulation / Components       : 3
+4. Fundamental Ruby & Style         : 3
+5. Sinatra / Web and Business Logic : 3
+6. View Layer                       : 4
 
 ##Community
 
