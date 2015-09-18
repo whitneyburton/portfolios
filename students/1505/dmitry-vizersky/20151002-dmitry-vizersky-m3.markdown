@@ -75,11 +75,24 @@ The goal of this project was to cosume a popular API and recreate the user inter
 I chose Instagram because I wanted to build something that focused on images. My app allows a user
 to authenticate with Instagram and view a more stylish version of their Instagram feed.
 
-* Completion:      3, Developer delivered all planned features.
-* Organization:    4, Developer used a project management tool and updated their progress in real-time.
-* TDD:             4, Project demonstrates high test coverage (>90%).
-* Code Quality:    4, Project demonstrates exceptionally well factored code.
-* User Experience: 4, The application is a logical and easy to use implementation of the target application.
+* Completion      3, Developer delivered all planned features.
+* Organization    4, Developer used a project management tool and updated their progress in real-time.
+* TDD             4, Project demonstrates high test coverage (>90%).
+* Code Quality    4, Project demonstrates exceptionally well factored code.
+* User Experience 4, The application is a logical and easy to use implementation of the target application.
+
+#### RailsEngine
+
+* [GitHub URL](https://github.com/Dmitry1007/rails_engine)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rales_engine.md)
+
+In this project, I used Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
+
+* Completion   3, Project completes most requirements but fails 5 or fewer spec harness tests.
+* Code Quality 3, Project demonstrates solid code quality and MVC principles.
+* TDD          4, Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* API Design   3, Project uses strong and consistent data formats throughout
+* Queries      4, Project makes great use of ActiveRecord relationships and queries
 
 
 ## Community
