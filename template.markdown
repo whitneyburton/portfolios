@@ -2,7 +2,7 @@
 
 ## Individual
 
-### Areas of Emphasis
+### Your Mission
 
 (What did you set out to accomplish this module?)
 
@@ -53,6 +53,10 @@
 ### Giving Feedback
 
 (feedback from me)
+
+### Being a Community Member
+
+(feedback to me)
 
 ### Playing a Part
 
