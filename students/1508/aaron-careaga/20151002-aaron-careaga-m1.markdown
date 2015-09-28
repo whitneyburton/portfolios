@@ -27,7 +27,7 @@ Josh thought my Ruby syntax and style were in good form, and my code displayed n
 
 ### Attendance
 
-I attended all days and classes on-time.
+I attended all days and classes on-time, arriving each day about 45 minutes before warmup to review material and prepare.
 
 ### Work
 
