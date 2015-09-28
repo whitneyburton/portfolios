@@ -12,7 +12,8 @@ I am at Turing to challenge myself, learn a new skillset and way of thought, and
 
 I successfully completed the end of module assessment with Josh Cheek on 9/28. My task (Challenge 2: reading game data) was to implement the WordFinder class for the Scrabble game. I built two methods that allowed the user to iterate through a dictionary and returned words that could be built from supplied characters.
 
-**Notes:**
+**Feedback:**
+
 Josh thought my Ruby syntax and style were in good form, and my code displayed no issues. I rattled 15ish enumerables off the top of my head and eventually found the right enumerable to implement. While testing, I described the method, such that it proves to you that you understand what you're going to go do. In workflow, I exhibited good tabbing between panes. It took me some time to wrap my head around wording on the spec verbage but we eventually got on the same page.
 
 **Scores:**
