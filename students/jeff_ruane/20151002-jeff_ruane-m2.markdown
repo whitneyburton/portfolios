@@ -50,6 +50,21 @@ We were evaulated by Josh M. and recieved the following scores:
 5. Sinatra / Web and Business Logic : 3
 6. View Layer                       : 4
 
+I recieved the following feedback from a group member (I'm not sure which one,
+this is all I was sent):
+
+"Jeff may seem quiet but when he does speak up, it's obvious that he's been attentive and contemplative about the problems at hand. He was more than willing to contribute when he felt like it would be helpful. He was also great at looking for solutions to problems without being asked."
+
+"Nope. Jeff is pretty chill and fun to be around."
+
+####Little Shop of Orders - Denvestments
+
+[GitHub](https://github.com/russelleh/denvestments)
+
+In this project, we built an ecommerce store from the ground up. The idea was
+to make a microlending platform for local startups and causes. I was in a group
+with Chris, MB, and Russell.
+
 ##Community
 
 ###Giving Feedback
@@ -65,6 +80,10 @@ posse, calling it "an inspiration".
 
 On September 4, a pull request I submitted was accepted to the Ruby Exercises
 repository making hash_test.rb more clear for beginners.
+
+I helped George plan and host the Turing Kids Who Code class. I regularly attended
+planning meetings, and although I missed the first class, I helped out at the
+September 26th session.
 
 ## Review
 
