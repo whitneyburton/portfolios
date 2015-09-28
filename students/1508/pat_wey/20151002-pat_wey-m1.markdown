@@ -1,0 +1,139 @@
+# Pat Wey - (M1/M2/M3/M4) Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+My mission as a Turing student is to embrace discomfort in social situations, invest my time and effort into the Turing community, welcome challenges, confidently voice my opinions, and relentlessly seek constructive, actionable feedback.
+
+### End of Module Assessment
+
+(Notes & scores from your assessment rubric)
+
+### Attendance
+
+(Summary of any missed time 1/2 day or more)
+
+### Work
+
+(Intro)
+
+### Type Test
+  Github: LINK
+
+  A side project where I create a typing program for the command line.
+
+  (anything else?)
+
+### Night Writer
+  Github: https://github.com/patwey/night_writer
+  Original Assignment: LINK
+
+  A project where I built an application to translate between Braille and English.
+
+  (evaluation comments)
+
+  - Overall: 3
+  - Fundamental Ruby & Style: 3
+  - Test-Driven Developent: 2
+  - Components: 3
+
+### Binary Search Tree
+  Github: https://github.com/patwey/binary-search-tree
+  Original Assignment: LINK
+
+  A project where I constructed a binary search tree.
+
+  (evaluation comments)
+
+  - Functional Expectations: 4
+  - Test-Driven Development: 4
+  - Encapsulation / Breaking Logic into Components: 3
+  - Fundamental Ruby & Style: 3
+  - Enumerable & Collections: 3
+
+
+#### Linked List
+  Github: https://github.com/patwey/linked-list
+  Original Assignment: LINK
+
+  A project where I built a linked list.
+
+  (evaluation comments)
+
+  - Functional Expectations: 4
+  - Test-Driven Development: 4
+  - Encapsulation / Breaking Logic into Components: 3
+  - Fundamental Ruby & Style: 3
+  - Looping or Recursion: 3
+
+
+#### Sorting Suite
+  Github: https://github.com/patwey/sorting-suite
+  Original Assignment: LINK
+
+  A project where I implemented 3 sorting algorithms: bubble sort, insertion sort, and merge sort.
+
+  (evaluation comments)
+
+  - Functional Expectations: 3
+  - Testing: 3
+  - Ruby Style: 3
+  - Organization: 3
+
+## Team
+
+### Projects
+
+(Intro)
+
+#### HTTPYeahYouKnowMe
+  Github: LINK
+  Original Assignment: LINK
+
+  A group project where the dream team, Jason Pilz and I, are reunited to build a web server to serve my Night Writer.
+
+  (evaluation comments)
+
+  (evaluation scores)
+
+  (feedback to me)
+
+#### Headcount
+  Github: https://github.com/jasonpilz/Headcount
+  Original Assignment: LINK
+
+  A group project where Jason Pilz and I built an application to parse and analyze a dataset of Colorado schools.
+
+  (evaluation comments)
+
+  - Functionality: 4
+  - Test-Driven Development: 3.5
+  - Fundamental Ruby & Style: 3
+  - Encapsulation: 3
+
+  (feedback to me)
+
+## Community
+
+### Giving Feedback
+
+(feedback from me)
+
+### Being a Community Member
+
+(feedback to me)
+
+### Playing a Part
+
+(ways you supported the larger Turing community)
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
