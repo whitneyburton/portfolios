@@ -14,7 +14,7 @@ I successfully completed the end of module assessment with Josh Cheek on 9/28. M
 
 **Feedback:**
 
-Josh thought my Ruby syntax and style were in good form, and my code displayed no issues. I rattled 15ish enumerables off the top of my head and eventually found the right enumerable to implement. While testing, I described the method, such that it proves to you that you understand what you're going to go do. In workflow, I exhibited good tabbing between panes. It took me some time to wrap my head around wording on the spec verbage but we eventually got on the same page.
+Josh thought my Ruby syntax and style were in good form, and my code displayed no issues. I rattled 15ish enumerables off the top of my head and eventually found the right enumerable to implement. While testing, I described the method, such that it proves to you that you understand what you're going to go do. I exhibited good tabbing between panes. It took me some time to wrap my head around wording on the spec but we eventually got on the same page.
 
 **Scores:**
 * Ruby Syntax & API: 3
