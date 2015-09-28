@@ -36,6 +36,7 @@ computing, and technology in general.
 
 ####Traffic Spy
 [GitHub](https://github.com/jbrr/traffic_spy)
+
 [Assignment](http://tutorials.jumpstartlab.com/projects/traffic_spy.html)
 
 In this project, we implemented Google Analytics type functionaily using
