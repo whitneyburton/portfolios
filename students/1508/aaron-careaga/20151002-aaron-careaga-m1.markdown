@@ -140,7 +140,9 @@ Matt Rooney and myself built a data analysis suite to help policymakers and the 
 
 ### Giving Feedback
 
-(feedback from me)
+I provided critical feedback to partners in both group projects, Penney Garrett and Matt Rooney. I also gave feedback to Elliot Winkler, a mentor in the Lovelace Posse that I met with regularly on Thursday's during the first module.
+
+I wrote feedback for Emily Dowdle and Edgar Duran for their portfolios.
 
 ### Being a Community Member
 
