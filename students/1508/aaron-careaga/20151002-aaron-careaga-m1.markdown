@@ -6,8 +6,6 @@
 
 I am at Turing to challenge myself, learn a new skillset and way of thought, and combine my interests in technology, finance, and behavioral sciences. The past few weeks have been some of the hardest yet most rewarding I've experienced. Moving from Washington prior to starting the program, and spending 10 to 12 hours a day, almost every day of the module, has taught be a lot about myself, communication and software development.
 
-(What did you set out to accomplish this module?)
-
 ### End of Module Assessment
 
 I successfully completed the end of module assessment with Josh Cheek on 9/28. My task (Challenge 2: reading game data) was to implement the WordFinder class for the Scrabble game. I built two methods that allowed the user to iterate through a dictionary and returned words that could be built from supplied characters.
