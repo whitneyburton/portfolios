@@ -17,6 +17,7 @@ instructor_evaluation: Mike D.
 
 ### End of Module Assessment
 
+instructor_evaluation: Mike D.
 * Ruby Syntax: 
 * Rails Basics: 
 * Javascript Basics: 
