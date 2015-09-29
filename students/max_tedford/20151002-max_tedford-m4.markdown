@@ -130,20 +130,53 @@ caching more at the data layer
 
 I participated in the following team projects:
 
-#### SupperSkip
+#### GameTime
 
-* [GitHub URL](https://github.com/levthedev/supper_skip)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/supper_skip.markdown)
+* [GitHub URL](https://github.com/maxtedford/lights_out)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
-In this ten-day project I worked with Lev and Jamie to transition a Dinner Dash project that
-belonged to a previous cohort into a multi-tenancy restaurant platform. The project was evaluated
-by Jorge with the following results:
+In this ten-day project I worked with Vane to build out a front-end recreation of Lights Out! The project was
+evaluated by Horace with the following results:
 
-* Feature Completion - 4
-* Project Organization - 4
-* Test-Driven Development - 4
-* Code Quality - 3.5
-* User Experience - 2
+* Functional Expectations: 4
+* TDD: 4
+* Breaking Logic into Components: 4
+* Fundamental JS and JS Style: 3
+* Code Sanitation (JSHint): 3
+
+* Comments:
+Game UI is fun and useable; fancy use of css
+Testing super thorough; seems to cover all cases in the small as well as the large
+Firm application of OO style
+Rendering logic encapsulated by each game component
+Pretty good job of keeping jquery out of most of the code (isolating it to the rendering stuff)
+Super solid application of OO JS style
+
+#### GameTime
+
+* [GitHub URL](https://github.com/NYDrewReynolds/flack)
+* [GitHub URL](https://github.com/NYDrewReynolds/flack-node)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flack.markdown)
+
+* Services - 4
+* Encapsulation - 3
+* Rails MVC - 3
+* TDD - 4
+* Project Management - 3
+* Concept - 2
+* Deployment - 2
+* Features - 3; got basic auth and standard chat setup with multi rooms; next steps would have
+been to push this further
+
+* Comments:
+Testing seems great
+Pretty successful effort working with multi-application architecture and managing data flow through the various pieces
+Chat ui is pretty nice although basic UI of the rest of the app suffers
+Didn't get too deep into the theming / product aspects of the project
+Supporting multi channels successfully is cool
+Took a stab at deploying but need to figure out env variable management
+Got lots of practice with node
+interesting use of rails-side rendering to distribute html partials to chat participants
 
 ### Feedback to Me
 
