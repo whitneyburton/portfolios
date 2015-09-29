@@ -126,7 +126,7 @@ Aaron was a great partner for Enigma. He is excellent at breaking apart and tack
 Matt Rooney and myself built a data analysis suite to help policymakers and the public better understand education statistics in Colorado. Our project was evaluated by _______.
 
 **Notes:**
-(notes)
+(notes) NEED TO ADD INFO ON THURSDAY
 
 **Scores:**
 * Overall Functionality:
