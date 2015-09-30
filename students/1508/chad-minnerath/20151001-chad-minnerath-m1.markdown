@@ -36,7 +36,7 @@ a way to manage them
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+Missed 01 Sept and half of 02 due to issues with allergies/apoointments.  Missed half of 16 Sept due to appointments.  Missed 29 Sept with a sinus infection/cold.
 
 ### Work
 
@@ -172,14 +172,18 @@ Score: Both members got 10/10
 Tyler - consistently one of the hardest working people in the module, always friendly and available to help people with coding challenges.  A great attitude when pairing - very focused and motivated.  Could use some work on time management, but strong communication skills do a lot to mitigate any issues.
 
 Ross - Always very motivated and helpful, Ross is one of the more positive influences on the cohort, both as a leader and as a student.  A pleasure to pair with due to a great attitude and driven demeanor.  Occasionally suspiciously phallic animals while supposed to be working.
+
+Regis - intensely patient, Regis is one of the people around Turing you know that you can always go to for quality and attentive help on any issue.  A real credit to the Turing community.  Immensley curious and a fantastic teacher, his excitement is contagious.
+
 ### Being a Community Member
 
 Chad and I got off to kind of a rocky start with Headcount. Three days before the project was due, we decided to scrap what we had and restart, which was extremely stressful for both of us. However, during those three days, Chad an I were able to come together and turn in a pretty good project. This would not have been possible without Chads' communication skills and willingness to finish this project. Chad did an excellent job with his portions of the project, which made my life a whole lot easier while I was working on my part of the project. Chad is also an excellent collaborator, and has a knack for solving complex problems in Ruby. Overall, working with Chad was an awesome experience.
 
-
 Chad is an extremely motivating and intelligent person to work with. When we paired together
 on an exercise in class, we worked efficiently and cohesively. His background
 in debate gave us useful insights on solving problems. Overall, I would pair with Chad again, whether it were an hour exercise or a week long project.
+
+Provides great valuable feedback. Speaks his mind and gives you accurate and actionable feedback when needing help with refactoring or building base logic. Strong in ruby and very strong at testing. Chad is a valuable resource that can be called upon at reasonable times.
 
 ### Playing a Part
 
@@ -200,5 +204,3 @@ in debate gave us useful insights on solving problems. Overall, I would pair wit
 ### Outcome
 
 ( Leave blanks for reviewers )
-
-Regis - intensely patient, Regis is one of the people around Turing you know that you can always go to for quality and attentive help on any issue.  A real credit to the Turing community.  Immensley curious and a fantastic teacher, his excitement is contagious.
