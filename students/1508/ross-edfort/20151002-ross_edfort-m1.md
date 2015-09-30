@@ -100,16 +100,28 @@ As a bonus, I gave it the functionality to find the maximum height of the tree, 
 * [GitHub URL](https://github.com/rossedfort/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-For this project, I created a program that turned a message into braille, and braille back into a message. The finished product used File IO and ran from the Terminal
+For this project, I created a program that turned a message into braille, and braille back into a message. The finished product used File IO and ran from the Terminal I was evaluated by Jeff with the following results:
 
 * Notes: No tests setup, Ruby is well written, Avoid using instance methods when possible.
   More micromachines and small methods
 
-* Scores:
   * Overall: 3
   * Fundamental Ruby: 3
   * TDD: 1
   * Components: 2
+
+#### HTTP Yeah You Know Me
+
+* [Github URL](https://github.com/rossedfort/http_yeah_you_know_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+For this project, I created a basic HTTP server using sinatra. Then I broke down the anatomy of a response/request and built my own server, which in the long run, served my night_writer project. I was evaluated by Josh with the following results:
+
+* Overall Functionality: 3
+* Test Driven Development: 3.5
+* Code Sanitation: Pass
+* Adoration Points: none :'(
+* Knowledge Retention 10/10
 
 ## Team
 
@@ -139,7 +151,7 @@ I participated in the following team projects:
   "Ross was a great partner to pair with, and a lot of the success that we had on the project was likely due to our ability to work well together. We both have similar work styles and we're on the same page with how much time and effort we intended to put in to headcount. There were a lot of long stretches where we sat in front of the computer, stumped on a problem for hours, and relied on each other to keep putting one foot in front of the other. After week of countless hours, expletive-filled-rants, and high fives, we learned a ton more about programming and also built rapport with one another that we likely would not have found otherwise. Overall: great first experience for a pairing project!"
 
 ## Community
-* Helped to organize the 1510 Welcome Happy Hour and Information Session
+* Helped organize the 1510 Welcome Happy Hour and Information Session
 * Attended Septemeber Denver.rb Meetup
 
 ### Giving Feedback
@@ -149,4 +161,4 @@ I participated in the following team projects:
 
 ### Playing a Part
 
-* During the Headcount project, my partner and I wrote 5 of the tests for the analysis methods that had not yet been written in the spec harness. We then helped our fellow classmates to pass the tests we had written, and submitted a pull request to update the spec harness.
+During the Headcount project, my partner and I wrote 5 of the tests for the analysis methods that had not yet been written in the spec harness. We then helped our fellow classmates to pass the tests we had written, and submitted a pull request to update the spec harness. During the last week, Echo didn't have a ton of work. I spent a large amount of my time helping Foxtrot students to finish headcount.
