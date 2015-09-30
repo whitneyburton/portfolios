@@ -16,8 +16,8 @@ my ability with working with others in a collaborative process.
 
 Evaluated by Josh Cheek
 
-- Good use of the keyboard
-- Nice refactoring the syntax of the enumerables
+*"Good use of the keyboard"*
+*"Nice refactoring the syntax of the enumerables"*
 
 
 * Ruby Syntax & API: 3
@@ -33,7 +33,7 @@ During this module I have had perfect attendance and have never been tardy.
 
 ### Work
 
-(Intro)
+For my individual projects during this module, I am most satisfied with my Night Writer and my Mastermind. I thoroughly enjoyed both these projects and feel like i excelled. For Mastermind I completed some of the extensions and also felt my algorithm was well executed. I feel similar for Night Writer, but I think I did really well with TDD on this project.
 
 #### Night Writer
 
