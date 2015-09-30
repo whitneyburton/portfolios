@@ -4,11 +4,10 @@
 
 ### Areas of Emphasis
 
-My goal for this module was to individually create the full stack of a web
-application. The desire to bring an idea to life was one of my biggest motivators
-for attending Turing. After finishing Module 3, I finally geel confident in my
-abilitiy to bring any idea to life.
-
+My goal for this module was to get comfortable with Javascript, and what I actually
+got a better understanding of functional programming. Turing usually takes my desire
+to learn something, and teach me a better understanding of the concepts that 
+encapsulate that something. So thanks for that. 
 
 ### Attendance
 
@@ -70,33 +69,26 @@ Overall good work.
 
 #### Real Assessment
 
-Instructor: Horace
+Evaluator: Horace
 
 [GitHub URL](https://github.com/brettgrigsby/goober)
 [Heroku](https://cryptic-wildwood-2673.herokuapp.com)
 
-Notes:
-
-* Nice use of PORO's to manage unconventional activerecord relationships
-* Testing looks good; great coverage on integration tests; keep
-pushing more testing weight into model tests
-* JS refresher makes good use of server-rendered partials to handle
-UI updating
-* Minor bits of model code floating into controllers
-* Basic cases are real smooth; don't forget to watch for edge cases
-around state machine and role-management
-* Consistent use of partials to simplify UI handling
-
 Evaluation:
 
-* Satisfactory Progress 3
-* Ruby Syntax & Style 4
-* Rails Style & API 3
-* Testing 3
-* User Interface 3
-* Javascript (if applicable) 3
+* Satisfactory Progress - 3
+* Ruby Syntax & Style - 4
+* Rails Style & API - 3
+* Testing - 3
+* User Interface - 3
+* Javascript - 3
 
+Comments:
 
+"Nice use of PORO's to manage unconventional activerecord relationships"
+"JS refresher makes good use of server-rendered partials to handle
+ UI updating"
+"Consistent use of partials to simplify UI handling"
 
 ## Team
 
