@@ -124,6 +124,35 @@ uses good balance of view caching and basic query optimization thanks to paginat
 Next steps would be to investigate more of the problematic queries, especially around categories, and also leverage
 caching more at the data layer
 
+#### Final Assessment (Goober)
+
+* [GitHub URL](https://github.com/maxtedford/final_assessment)
+* [Original Assignment](https://gist.github.com/worace/b55b02194d014b324e7b)
+
+This final assessment for module 4 required me to build a light-weigh version of Uber on the web. It was evaluated
+by Horace with the following results:
+
+* Satisfactory Progress 3
+* Ruby Syntax and Style 3
+* Rails Style and API 4
+* Testing 4
+* User Interface 3
+* Javascript (if applicable) N/A
+
+* Comments:
+Interesting take on rider / driver division and modeling
+Awesome testing; exceptionally thorough on feature/integration tests
+Still some room for more granular model tests and larger, less granular integration tests
+Nice use of PORO for ride duration / distance estimation
+
+#### Contactually-Lite
+
+* [GitHub URL](https://github.com/maxtedford/contactually-lite)
+
+This was a four-day code challenge I completed for Contactually in Washington, DC as a part of their interview
+process. It's a basic rails app that parses and TSV file and stores it into a contacts database before subsequently
+displaying it on the user's show page. It also includes AJAX and JS filtering.
+
 ## Team
 
 ### Projects
@@ -152,7 +181,7 @@ Rendering logic encapsulated by each game component
 Pretty good job of keeping jquery out of most of the code (isolating it to the rendering stuff)
 Super solid application of OO JS style
 
-#### GameTime
+#### Flack
 
 * [GitHub URL](https://github.com/NYDrewReynolds/flack)
 * [GitHub URL](https://github.com/NYDrewReynolds/flack-node)
@@ -180,50 +209,19 @@ interesting use of rails-side rendering to distribute html partials to chat part
 
 ### Feedback to Me
 
-I sent around a google form to the rest of my cohort-mates to solicit feedback to me. I got six replies. Here were the results:
-
-Am I easy to communicate with?
-* Always (6)
-
-I benefit Turing as a whole
-* Strongly Agree (6)
-
-How would you describe my contributions to groups and teams?
-* You were the glue that kept us together (4)
-* You pulled your weight (2)
-
-How would you describe my work ethic?
-* Highly motivated and consistent (5)
-* Strong (1)
-
-Additional optional comments from peers:
-* So, looking back, I haven't personally worked with you in a group, which is a bummer because I've seen how
-you work with others and it seems very collaborative, respective environment, which makes it a great learning
-environment. One project in particular, Supper Skip, I saw how well you helped you and your group plan out
-the project, put together well-written stories, and made sure everyone in the group was on the same page and
-understood the direction of the project. You took a leadership role with Supper Skip and it appeared to have
-really worked well. Your team seemed really on track, focused, and very collaborative. Wished we had a chance
-to work together. I think I would have learned a lot from you.
-* Very motivated and organized.  Great to work with and an awesome person overall.
-* I'm actually surprised you dont already have a job. You are a rockstar.
-* Max is one of those rare people who is a strong performer, wrapped in a humble shell.  He is easy to
-approach, does not condescend when explaining things, and lends a can-do outlook to his peers. When I say
-Max was the glue that kept our team together, I can't emphasize enough how much of an impact he had on the
-focus and direction we maintained. From the beginning he set the tone, and without actively announcing
-himself as the lead, Max delegated and outlined the work flow through suggestions and prompted group
-discussion. I would work with him again without hesitation.
+* Max is one of the best students in all of Turing. He is so easy to work with, always helpful and incredibly
+hard-working. He is always willing to stop what he is doing to help anyone. If there was anyone I could work
+with in a job, it would be Max. Any company that hires Max is super lucky!
 
 ## Community
 
 ### Giving Feedback
 
-Rob and Whitney requested feedback from me for their portfolios. I completed both their requests.
+Sally solicited me for feedback and I was happy to provide it!
 
 ### Playing a Part
 
-* On Friday, July 17, I delivered a lightning talk "Wine 102: How Technology is Changing the Wine Industry"
-* On Friday, July 24, I purchased and delivered breakfast for all of Turing
-* On Friday, July 31, I organized a Turing field day for students, staff, and families
+* On Friday, September 25, I delivered a lightning talk about Alan Turing and his contributions to the Turing School
+* On Friday, July 18, I organized (in conjunction with Jamie Kawahara) a Turing field day for students and staff
 * Throughout the duration of the module I participated in Student Advisory Board, providing
-feedback to the staff on improving Turing. I unfortunately had to be absent from SAB on Thursday,
-July 9 and Thursday, August 6. Otherwise, I attended regularly.
+feedback to the staff on improving Turing. I attended all meetings and actively contributed throughout.
