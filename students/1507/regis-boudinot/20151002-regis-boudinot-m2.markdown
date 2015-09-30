@@ -105,6 +105,12 @@ resource that can be called upon at reasonable times."
 
 ### Playing a Part
 
+* During intermission week I helped the incoming cohort setup their machines
+and gave an hour long talk about what to expect and how to prepare.
+* After Intermission setup I took part of the happy hour and got to learn
+a good amount about the incoming cohort. Since their integration to Turing
+I have seen them grow and have been impressed by their ability to tackle new
+and interesting projects.
 * I actively went out of my way to help Module 1 students to not only give
 back my knowledge but to also keep up to date on my Ruby. I was impressed by
 how strong their cohort was and I was always told that I was an appreciated
