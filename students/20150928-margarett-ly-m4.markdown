@@ -8,7 +8,34 @@ I wanted to learn Javascript.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+### Margarett
+
+__Student:__ Margarett Ly
+
+__Instructor:__ Horace
+
+__Repo:__ https://github.com/margie101/goober
+
+__Production URL:__ https://secret-temple-4587.herokuapp.com/
+
+__Notes:__
+
+* Like the testing -- love seeing good coverage of various UI effects
+from data changes
+* Data modeling is interesting and effective -- figuring out how to
+break the problem into a schema; using 1 table for various user types;
+figuring out user <-> ride relationships
+* Rails view layer still somewhat verbose; possibly could find
+some spots to use partials and/or helper methods to tidy this up
+
+__Evaluation:__
+
+1. Satisfactory Progress 3
+2. Ruby Syntax & Style 3
+3. Rails Style & API 3
+4. Testing 4
+5. User Interface 3
+6. Javascript (if applicable) N/A
 
 ### Attendance
 
