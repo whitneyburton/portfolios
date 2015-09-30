@@ -161,7 +161,7 @@ I participated in the following team projects:
 ### Being A Community Member
 * Helped organize the 1510 Welcome Happy Hour and Information Session
 * Attended Septemeber Denver.rb Meetup
-* Helped patch a hole in the sidewalk outside, although it go stepped in multiple
+* Helped patch a hole in the sidewalk outside, although it got stepped in multiple
 times by passersby :cry: :-1:
 
 ### Giving Feedback
