@@ -26,7 +26,12 @@ I have always had a very independent personality, so working with a pair is an u
 * https://github.com/ShannonPaige/headcount
 * https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown
 
-(description)
+  Federal and state governments publish a huge amount of data. You can find a large collection of it on Data.gov -- everything from land surveys to pollution to census data.
+  As programmers, we can use those data sets to ask and answer questions. Starting with CSV data we will:
+  build a "Data Access Layer" which allows us to query/search the underlying data
+  build a "Relationships Layer" which creates connections between related data
+  build an "Analysis Layer" which uses the data and relationships to draw conclusions
+  We'll build upon a dataset centered around schools in Colorado provided by the Annie E. Casey foundation.
 
 1. Overall Functionality - Score: 4
 "Passes the test harness, minus small changes that changed at the last changeable moment!"
@@ -41,16 +46,20 @@ Their tests pass"
 
 #### HTTP_Yeah_You_Know_Me
 * https://github.com/cminnerath/http_yeah_you_know_me
-* [Original Assignment]()
+* https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown
 
-(description)
+We're going to make a webserver!
+Goals
+  Demystify servers, the internet, http, and everything else that is ultimately just these... AJAX, sessions, cookies, APIs, Service Oriented Architectures, Oauth
+  Show you that the things you've learned can be used to accomplish real goals and write real programs
+  Show you that all the things that seem like magic... are not magic
+  Don't spend forever on this thing
 
 1. Overall Functionality - Score: 3
 2. Test Driven Development - Score: 3
 3. Code Sanitation - Score: true
 4. Adoration Points - Score: none
 5. Knowledge Retention - Score: Both members got 10/10
-
 
 ### Projects
 
@@ -61,9 +70,10 @@ In conclusion, I love these challenges. This is why I came to Turing.
 #### Night_Writer
 
 * https://github.com/JaggedLaw/NightWriter
-* [Original Assignment]()
-
-(description)
+* https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
+Project Description:
+The idea of Night Writing was first developed for Napoleon's army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille's development of his Braille tactile writing system.
+In this project we'll implement systems for generating Braille-like text from normal characters and the reverse.
 
 1. Overall Functionality - Score: 2
   "Encrypted, but did not Decrypt"
@@ -116,6 +126,15 @@ Tests pass
 
 #### Binary_Search_Tree
   * https://github.com/JaggedLaw/BinarySearchTree
+  * https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown
+  Project Description
+  A binary search tree is a fundamental data structure useful for organizing large sets of data.
+  Overview
+  A binary tree is built from nodes. Each node has:
+    A) An element of data
+    B) A link to the left. All nodes to the left have data elements less/lower than this node's data element.
+    C) A link to the right. All nodes to the right have data elementes more/greater than this node's data element.
+
 1. Functional Expectations - Score 3: Application fulfills all base expectations
 2. Test-Driven Development - Score 3: Application is well tested but does not balance isolation and integration tests, using only
   the data necessary to test the functionality
