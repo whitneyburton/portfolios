@@ -58,14 +58,6 @@ This project optimized an existing project for performance and load. It was eval
 * Optimization Techniques 1
 * Features - Pagination yes
 
-#### IdeaBox 2.0
-
-* [GitHub URL](https://github.com/margie101/idea_box)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
-
-Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we'll rely on javascript and Jquery to implement snappy filtering in the browser, and AJAX to enable inconspicuous communication between client and server. This project was peer-evaluated by Drew Reynolds.
-
-
 #### Javascript Linked List
 
 * [GitHub URL](https://github.com/aoili/linkedListInJavascript)
