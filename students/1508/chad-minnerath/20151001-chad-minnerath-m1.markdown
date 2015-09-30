@@ -78,38 +78,56 @@ Most data transformation in your districts and enrollments and so forth, should 
 
 ### Projects
 
-Projects in the echo division of module 1 consisted of a Binary Search Tree, Linked Lists, and a final project of Headcount.
+Projects in the echo division of module 1 consisted of Sorting Suite, Binary Search Tree, Linked Lists, HTTP_Yeah_You_Know_Me and a final project of Headcount.
+
+#### Sort Suite
+
+* [GitHub URL](https://github.com/cminnerath/sorting_suite)
+
+# Functional Expectations
+* Score: 3
+
+# Testing
+* Score: 2
+
+# Ruby Style
+* Score: 2
+
+# Organization
+* Score: 2
+
+* Notes: Namespaced incorrectly, Massive individual tests. Sorting Suite could have used some refactoring for separation for readability.
 
 #### Linked Lists
 
 * [GitHub URL](https://github.com/cminnerath/linked_list)
 
 # Functional Expectations
-Score: 4
+* Score: 4
 
 All expectations and extension was implemented
 
 # Test-Driven Development
-Score: 3
+* Score: 3
 
 Tests were OK, but would have liked to have seen more edge cases and thorough
 testing. For example, the tests for `includes?` still passed when the body of
 the method was replaced with `true`
 
 # Encapsulation
-Score: 3
+* Score: 3
 
 Good, but could be improved. Saw some good amounts of code reuse, for example,
 implementing `append` in terms of `find_tail`
 
 # Ruby & Style
-Score: 3
+* Score: 3
 
 Style seemed fine, unsure what the responsibility of `Node` was. Classes
 should have been in multiple files.
 
 # Looping or Recursion:
-Score: 3
+* Score: 3
 
 Showed understanding of looping, would have liked to have seen an `each`
 method pulled out.
@@ -120,50 +138,49 @@ method pulled out.
 * [GitHub URL](https://github.com/cminnerath/binary_search_tree)
 
 # Functional Expectations
-
-Score: 4
+* Score: 4
 
 4: Application fulfills all base expectations and two extensions
 
 # Test-Driven Development
-Score: 4
+* Score: 4
 
 Good test names
 Tests all pass (24)
 Build abstractions for your tests to reduce redundant work and reduce the amount of your test that depends on the interface
 
 # Encapsulation / Breaking Logic into Components
-Score: 3
+* Score: 3
 
 Push behaviour down into the node for simplicity
 Use local variables over instance variables
 
 # Fundamental Ruby & Style
-Score: 3
+* Score: 3
 
-Keep operator spacing the same
+* Keep operator spacing the same
 
 # Enumerable & Collections
-Score: 3
+* Score: 3
 
 #### HTTP_Yeah_You_Know_Me
 
 * [GitHub URL](https://github.com/cminnerath/binary_search_tree)
 
 # Overall Functionality
-Score: 3
+* Score: 3
 
 # Test Driven Development
-Score: 3
+* Score: 3
 
 # Code Sanitation
-Score: true
+* Score: true
 
 # Adoration Points
-Score: none
+* Score: none
 
 # Knowledge Retention
-Score: Both members got 10/10
+* Score: Both members got 10/10
 
 ## Community
 
@@ -175,6 +192,8 @@ Ross - Always very motivated and helpful, Ross is one of the more positive influ
 
 Regis - intensely patient, Regis is one of the people around Turing you know that you can always go to for quality and attentive help on any issue.  A real credit to the Turing community.  Immensley curious and a fantastic teacher, his excitement is contagious.
 
+Charissa - A clear communicator and very easy to work with in general, Charissa's high-level problem solving skills are readily apparent when pairing and mitigate difficulties in project management.  Someone who I would not hesitate to pair with again on any project, large or small, due in no small part to a fantastic attitude.
+
 ### Being a Community Member
 
 Chad and I got off to kind of a rocky start with Headcount. Three days before the project was due, we decided to scrap what we had and restart, which was extremely stressful for both of us. However, during those three days, Chad an I were able to come together and turn in a pretty good project. This would not have been possible without Chads' communication skills and willingness to finish this project. Chad did an excellent job with his portions of the project, which made my life a whole lot easier while I was working on my part of the project. Chad is also an excellent collaborator, and has a knack for solving complex problems in Ruby. Overall, working with Chad was an awesome experience.
@@ -184,6 +203,8 @@ on an exercise in class, we worked efficiently and cohesively. His background
 in debate gave us useful insights on solving problems. Overall, I would pair with Chad again, whether it were an hour exercise or a week long project.
 
 Provides great valuable feedback. Speaks his mind and gives you accurate and actionable feedback when needing help with refactoring or building base logic. Strong in ruby and very strong at testing. Chad is a valuable resource that can be called upon at reasonable times.
+
+Chad was an excellent person to pair with for our last project.  Earlier in our module when we had worked on a task together, he was actually the first to help me get comfortable with using "pry" for debugging, and it has been a godsend ever since.  Chad is i great coder but more than that he was sincere in making sure that we were both on the same page when it came to solving the problem at hand.  Due to the good vibe from the partnership we were able to solve the problem at hand quickly and efficiently.  I would welcome the opportunity to pair with him on projects in the future.
 
 ### Playing a Part
 
