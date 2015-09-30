@@ -90,6 +90,8 @@ can always go to for quality and attentive help on any issue. A real credit to
 the Turing community. Immensley curious and a fantastic teacher, his
 excitement is contagious."
 
+"Regis was more helpful than I could have imagined this module. He was always willing to drop what he was doing to help me out. Not only was he checking in on how school was going, but he was checking in on how life was going, which I really appreciated.  His attitude towards learning is motivating, and his thirst for knowledge is insatiable. There is nothing I could suggest to Regis that would improve his contribution to the community. He already goes above and beyond."
+
 ## Community
 
 ### Giving Feedback
@@ -98,6 +100,8 @@ excitement is contagious."
 actionable feedback when needing help with refactoring or building base logic.
 Strong in ruby and very strong at testing. Chad is a valuable
 resource that can be called upon at reasonable times."
+
+"Ross has been a great part of his cohort community. He has a steadfast attitude and remains calm under pressure. He asks specific questions that can be answered quickly and his logical thinking patterns have gotten stronger since I saw him come in. Ross is a quick learner and seems to really enjoy his work and be proud of his code. I can see him being a strong member of the community as the breadth of his impact continues to grow. He could work on realizing when he gets stuck in logic holes, but he has gotten better since I pointed it out."
 
 ### Playing a Part
 
