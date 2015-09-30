@@ -88,7 +88,7 @@ to the nodes instead of trying to do it all in the bst.
 * Test-Driven Development: 3
 * Encapsulation/ Breaking Logic into Components: 3
 * Fundamental Ruby and Style: 3
-* Enumerable and Collecions: 3
+* Enumerable and Collections: 3
 
 
 #### Linked List
@@ -151,7 +151,7 @@ concepts that I have learned so far truly came together during this time.
 In this group project, we built a database that queries Colorado school district
 data from a a externalfile, creates connections between related data sets and
 uses the data and relationships to draw conclusions concerning the school
-districts.
+districts. My project was evaluated by Josh Cheek.
 
 * Basically up to date with the cursor of consensus
 * Dragged the cursor of consensus forward a few times
