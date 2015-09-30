@@ -15,7 +15,7 @@ Challenge: Highest Scoring Word
 Comments:
 
 * *Very solid with use of blocks and enumerables.*
-* *Testing was good, but tended to get ahead of himself and not completely drive with testing.*
+* *Testing was good, but tended to get ahead of himself and not completely drive with testing.*  
 * *Was receptive to collaboration and advice.*  
 * *Is very quick and comfortable with his machine, but could make some small workflow improvements and become exponentially better.*
 
