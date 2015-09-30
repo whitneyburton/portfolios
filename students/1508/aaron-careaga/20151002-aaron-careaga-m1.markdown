@@ -4,15 +4,15 @@
 
 ### Your Mission
 
-I am at Turing to challenge myself, learn a new skillset and way of thought, and combine my interests in technology, finance, and behavioral sciences. The past few weeks have been some of the hardest yet most rewarding I've experienced. Moving from Washington prior to starting the program, and spending 10 to 12 hours a day, almost every day of the module, has taught be a lot about myself, communication and software development.
+I am at Turing to challenge myself, learn a new skillset and way of thought, and combine my interests in technology, finance, and behavioral sciences. The past few weeks have been some of the hardest yet most rewarding I've experienced. Moving from Washington prior to starting the program, and spending 10 to 12 hours a day, almost every day of the module, has taught me a lot about myself, communication and software development.
 
 ### End of Module Assessment
 
-I successfully completed the end of module assessment with Josh Cheek on 9/28. My task (Challenge 2: reading game data) was to implement the WordFinder class for the Scrabble game. I built two methods that allowed the user to iterate through a dictionary and returned words that could be built from supplied characters.
+I successfully completed the end of module assessment (challenge 2: reading game data) with Josh Cheek on 9/28. My task was to implement the WordFinder class for the Scrabble game. I built two methods that allowed the user to iterate through a dictionary and returned words that could be built from supplied characters.
 
 **Feedback:**
 
-Josh thought my Ruby syntax and style were in good form, and my code displayed no issues. I rattled 15ish enumerables off the top of my head and eventually found the right enumerable to implement. While testing, I described the method, such that it proves to you that you understand what you're going to go do. I exhibited good tabbing between panes. It took me some time to wrap my head around wording on the spec but we eventually got on the same page.
+Josh thought my Ruby syntax and style were in good form, and my code displayed no issues. I named 15 enumerables off the top of my head and eventually found the right enumerable to implement. While testing, I described the methods such that it conveyed my understanding and established clear expectations for each step of building each method. My workflow exhibited good tabbing between panes. Because of my anxiety, it took some time to wrap my head around the challenge wording but we were eventually able to get on the same page.
 
 **Scores:**
 * Ruby Syntax & API: 3
@@ -55,7 +55,7 @@ Noted areas to refactor into contained methods. Conveyed the Ruby syntax and nam
 I built a Markdown to HTML parser that took in an input text wrote an output file. Projected evaluated by Tess Griffin.
 
 **Notes:**
-Tess thought my TDD and Ruby style were strong. Need to fix formatting converter, realign logic that was broken during refactoring.
+Tess thought that my TDD and Ruby style were strong. She conveyed that I should fix the formatting converter by realigning logic that was broken while refactoring.
 
 **Scores:**
 * Fundamental Ruby & Style: 3
@@ -106,7 +106,7 @@ Penney Garrett and myself built an enigma program that encrypted, decrypted, and
 **Notes:**
 * Tests could be more robust. Example - used a lot of refute or assert instead of assert_equal when appropriate. This was due to some random nature of some of the elements. Could have focused on some more edge cases and different scenarios.
 * Variable and method naming was strong.
-* Cracked encrypted text with great speed.
+* Cracked encrypted text with good speed.
 
 **Scores:**
 * Overall Functionality: 4
@@ -116,7 +116,7 @@ Penney Garrett and myself built an enigma program that encrypted, decrypted, and
 
 **Feedback:**
 
-Aaron was a great partner for Enigma. He is excellent at breaking apart and tackling complicated problems. When the going gets tough he stays calm and just approaches the issue from a different angle. And on a personal note, I'm still struggling a lot with feeling capable enough, and Aaron stayed patient and encouraging the entire process. I really learned a lot from him and feel I've definitely made a friend and ally.  
+Penney Garrett: "Aaron was a great partner for Enigma. He is excellent at breaking apart and tackling complicated problems. When the going gets tough he stays calm and just approaches the issue from a different angle. And on a personal note, I'm still struggling a lot with feeling capable enough, and Aaron stayed patient and encouraging the entire process. I really learned a lot from him and feel I've definitely made a friend and ally."  
 
 #### HeadCount
 
@@ -134,7 +134,9 @@ Matt Rooney and myself built a data analysis suite to help policymakers and the 
 * Test-Driven Development:
 * Breaking Logic into Components:
 
-(feedback to me)
+**Feedback:**
+
+Matt Rooney: " ADDD STUFF HERE "
 
 ## Community
 
@@ -151,10 +153,10 @@ I wrote feedback for Emily Dowdle and Edgar Duran for their portfolios.
 ### Playing a Part
 
 * I regularly mountain bike with fellow students and instructors, riding at least one day every week of the module.
-* I helped David Daniel, a recent Turing graduate, move residences on Saturday, August 29.
-* On Monday September 7, I posted a personal blog called Skiers Who Code. Topics covered included my experience at Turing and learning Ruby relative to those I've shared in the mountains.
 * On field day, I drove a group of  students and their bikes to the Lulzbot Factory and Devils Backbone open space.
-* On Tuesday September 22, I wrote a personal blog on motivation and overcoming challenges. The post discussed my experience handling stress and expectations during the first module, and techniques I've helpful to enter a flow state.
+* On Monday September 7, I wrote a blog post called Skiers Who Code. Topics covered included my experience at Turing and learning Ruby relative to those I've shared in the mountains.
+* On Tuesday September 22, I wrote a blog post on motivation and overcoming challenges. It discussed my experience handling stress and expectations during the first module, and techniques I've helpful to enter a flow state.
+* I helped David Daniel, a recent Turing graduate, move residences on Saturday, August 29.
 
 ## Review
 
