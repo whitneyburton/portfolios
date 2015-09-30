@@ -124,6 +124,21 @@ uses good balance of view caching and basic query optimization thanks to paginat
 Next steps would be to investigate more of the problematic queries, especially around categories, and also leverage
 caching more at the data layer
 
+#### Reading List
+
+* [GitHub URL](https://github.com/maxtedford/reading_list)
+* [Original Assignment](https://gist.github.com/worace/0fa8052bfcf983e8722d)
+
+This 7-hour practice challenge involved building a basic rails app that allowed an authenticated user to add links
+to their personal reading list. It was evaluated by Horace with the following results:
+
+* Progress 3
+* Ruby Style 3
+* Rails Style 3
+* JS 4
+* Testing 3
+* UI 3
+
 #### Final Assessment (Goober)
 
 * [GitHub URL](https://github.com/maxtedford/final_assessment)
@@ -211,13 +226,19 @@ interesting use of rails-side rendering to distribute html partials to chat part
 
 * Max is one of the best students in all of Turing. He is so easy to work with, always helpful and incredibly
 hard-working. He is always willing to stop what he is doing to help anyone. If there was anyone I could work
-with in a job, it would be Max. Any company that hires Max is super lucky!
+with in a job, it would be Max. Any company that hires Max is super lucky.
+* I didn't have a chance to work with Max this module, so can't speak to any mod4-specific projects, but Max is
+one of the strongest developers and people in our cohort. He's always willing to help out his peers and I'm really
+glad I was able to go through the Turing experience with him.
+* Max was a great teammate on our project this module. He was very engaged, helped drive the project forward, and
+contributed well-written code the whole way. He was a pleasure to team up with and I definitely hope our paths cross
+again professionally.
 
 ## Community
 
 ### Giving Feedback
 
-Sally solicited me for feedback and I was happy to provide it!
+Sally, Justin, and Drew solicited me for feedback and I was happy to provide it.
 
 ### Playing a Part
 
