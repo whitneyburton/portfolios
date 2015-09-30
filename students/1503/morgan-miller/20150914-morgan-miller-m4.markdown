@@ -167,3 +167,29 @@ Desired benefit of this functional approach is that it becomes easier to test be
 A note about playing a part: Module 4 tends to be a little more relentless than other modules insofar as time management goes. I definitely did less "part-playing" than in the previous 3 modules, when I considered myself to be a more active community member. I will say, however, that on the subject of community: I had the intention of rebuilding/strengthening relationships with people in my cohort after the absurdity that transpired at the end of Module 3, and I feel that I achieved that.
 
 ## Review
+
+### Notes
+* Learned more than thought you would comming in. Did very well on the final assessment. Felt very comfortable. 
+* Scale up was a project that a lot was learned from. Had issues with production that held it back. 
+* Great Mod 4 overall
+* Flack - learned a lot about react and felt like a lot was accomplished. Did all of the react for this project. Had some issues deploying the app, but felt like a lot was learned overall. Didn't have a theme or concept either. 
+* GameTime - Partnered with Brett and had a lot of fun workign on that project. Learned a lot together about JavaScript. Tried to write this project functionally and ended up half OO and half functional. 
+* Mod 4 was a time of a lot fo extra work and wasn't around as much as previous modules. 
+* Attempted to help rebuild the cohort after Mod 3 issues. Feels closer with cohort now as she did before. 
+* Had some issue in mod 3 that made it hard to engage. 
+* Mod 4 was favorite module. 
+* Lesson learned that you were ok with the issues that transpired in Mod 3. And felt a lot stronger in the end because of it. 
+* Group talk about the things in module three were maybe a little uneccesary. Felt like things would have been better if it was treated as an interpersonal issue than a group issue. The one pro was that there was some bonding becasue of that. 
+* HORACE KILLED IT! HORACE!HORACE!HORACE!
+
+
+### Outcome
+
+* Assessment: 4
+* Individual: 3
+* Group: 3
+* Community: 3
+* Feedback: 
+
+
+## Review
