@@ -5,11 +5,11 @@
 ### Mission Satement
 
 My Mission this module is to help the incoming cohort as best I can while
-managing my heavy workload. I also want to teach people more about GNU/Linux
-and DevOps because I find those areas of technology to be fascinating.
-My passion for learning about new technologies is ever growing and I hope to
-be able to give back my knowledge as well as give back to the community
-new and interesting ideas.
+managing my heavy workload and teaching others about new topics.
+I want to teach people more about GNU/Linux and DevOps because I find
+those areas of technology to be fascinating. My passion for learning about new
+technologies is ever growing and I hope to be able to give back my knowledge as
+well as give back to the community new and interesting ideas.
 
 ### End of Module Assessment
 
@@ -72,6 +72,8 @@ fashion on a website powered by Sinatra.
 * [GitHub URL](https://github.com/HoffsMH/dad_jokes_for_days)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
+In this project my group and I used Ruby on Rails to build an online commerce
+platform to facilitate online ordering.
 
 * Feature Completeness:
 * Views:
