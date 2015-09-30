@@ -1,15 +1,13 @@
-# Pat Wey - (M1/M2/M3/M4) Portfolio
+# Pat Wey - M1 Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
-My mission as a Turing student is to embrace discomfort in social situations, invest my time and effort into the Turing community, welcome challenges, confidently voice my opinions, and relentlessly seek constructive, actionable feedback.
+My mission as a Turing student is to embrace discomfort in social situations, invest my time and effort into the Turing community, welcome challenges, confidently voice my opinions, and seek constructive, actionable feedback.
 
 ### End of Module Assessment
-(intro, see below)
-Assessed by Josh Cheek on 28 September 2015
-Challenge 2: Reading Game Data
+I was assessed by Josh Cheek on September 28th, and we paired on the challenge of reading Scrabble game data in from a csv file. The challenge touched on my understanding OOP, Test-Driven Development, as well as my workflow.
 
 Feedback:
 * "Good understanding of what is going on and what is going to happen"
@@ -34,35 +32,32 @@ I missed the field day on Friday, September 18th. My partner Jason and I decided
 
 ### Work
 
-(Intro)
-
-### Type Test
-  Github: LINK
-
-  A side project where I create a typing program for the command line.
-
-  (anything else?)
+I worked on four individual assignments during Module one.  The projects improved my algorithmic thinking skills and my understanding of computer science concepts.  They also gave me an opportunity to hone my problem-solving approach and workflow.
 
 ### Night Writer
-  Github: https://github.com/patwey/night_writer
-  Original Assignment: LINK
+[Github](https://github.com/patwey/night_writer)
 
-  A project where I built an application to translate between Braille and English.
+[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-  (evaluation comments)
+A project where I built an application to translate between Braille and English.
 
-  - Overall: 3
-  - Fundamental Ruby & Style: 3
-  - Test-Driven Developent: 2
-  - Components: 3
+Evaluation Comments:
+- "Take smaller incremental steps in testing"
+- "Prefer instances and instance methods over class methods"
+- "Look for opportunities to extract methods and small objects"
+
+Scores:
+- Overall: 3
+- Fundamental Ruby & Style: 3
+- Test-Driven Developent: 2
+- Components: 3
 
 ### Binary Search Tree
-  Github: https://github.com/patwey/binary-search-tree
-  Original Assignment: LINK
+  [Github](https://github.com/patwey/binary-search-tree)
+
+  [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
   A project where I constructed a binary search tree.
-
-  (evaluation comments)
 
   - Functional Expectations: 4
   - Test-Driven Development: 4
@@ -72,12 +67,11 @@ I missed the field day on Friday, September 18th. My partner Jason and I decided
 
 
 #### Linked List
-  Github: https://github.com/patwey/linked-list
-  Original Assignment: LINK
+  [Github](https://github.com/patwey/linked-list)
+
+  [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
 
   A project where I built a linked list.
-
-  (evaluation comments)
 
   - Functional Expectations: 4
   - Test-Driven Development: 4
@@ -87,12 +81,11 @@ I missed the field day on Friday, September 18th. My partner Jason and I decided
 
 
 #### Sorting Suite
-  Github: https://github.com/patwey/sorting-suite
-  Original Assignment: LINK
+  [Github](https://github.com/patwey/sorting-suite)
+
+  [Original Assignment](https://github.com/turingschool/sorting-suite)
 
   A project where I implemented 3 sorting algorithms: bubble sort, insertion sort, and merge sort.
-
-  (evaluation comments)
 
   - Functional Expectations: 3
   - Testing: 3
@@ -103,49 +96,59 @@ I missed the field day on Friday, September 18th. My partner Jason and I decided
 
 ### Projects
 
-(Intro)
+I teamed up with Jason Pilz for both group projects this module.  Working on a programming project with a teammate was entirely new to me, and pushed me to learn and grow communication skills on the fly. By the time we were assigned the second project, we were totally in sync and able to leverage our individual talents effectively.
 
 #### HTTPYeahYouKnowMe
-  Github: LINK
-  Original Assignment: LINK
+  [Github](https://github.com/patwey/httpyeahyouknowme)
+
+  [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
   A group project where the dream team, Jason Pilz and I, are reunited to build a web server to serve my Night Writer.
 
-  (evaluation comments)
-
-  (evaluation scores)
-
-  (feedback to me)
+  - Overall Functionality: 4
+  - Test Driven Development: 3.5
+  - Code Sanitation: True
+  - Adoration Points: None
+  - Knowledge Retention: Both members got 10/10
 
 #### Headcount
-  Github: https://github.com/jasonpilz/Headcount
-  Original Assignment: LINK
+  [Github](https://github.com/jasonpilz/Headcount)
+
+  [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
   A group project where Jason Pilz and I built an application to parse and analyze a dataset of Colorado schools.
-
-  (evaluation comments)
 
   - Functionality: 4
   - Test-Driven Development: 3.5
   - Fundamental Ruby & Style: 3
   - Encapsulation: 3
 
-  (feedback to me)
-
 ## Community
 
 ### Giving Feedback
 
-"Working with Jason for two projects has been a pleasure.  He is easy-going and flexible, independent of the fact that he has a family who wants to spend time with him!  I'm impressed with his ability to take charge of the big picture items - he kept both me and the project on track from day one, carefully considering the implications of our design decisions. Furthermore, his ability to stay calm in the face of adversity (i.e. the spec harness) bolstered me when my confidence wavered.
+"Working with Jason for two projects has been a pleasure.  He is easy-going and flexible, independent of the fact that he has a family who wants to spend time with him!  I'm impressed with his ability to take charge of the big picture items - he kept both me and the project on track from day one, carefully considering the implications of our design decisions. Furthermore, his ability to stay calm in the face of adversity (i.e. the spec harness) bolstered me when my confidence wavered. Despite his modesty, I've gathered that Jason has a great command of the concepts and processes we were taught in Module 1. He worked tirelessly on our project, and "hey I pushed some new commits" became a slack message I was used to waking up to. Finally, I've noticed that Jason regularly feeds his healthy curiosity. Almost daily, he'd share something with me that he discovered digging around in the docs or online."
 
-Despite his modesty, I've gathered that Jason has a great command of the concepts and processes we were taught in Module 1. He worked tirelessly on our project, and "hey I pushed some new commits" became a slack message I was used to waking up to. Finally, I've noticed that Jason regularly feeds his healthy curiosity. Almost daily, he'd share something with me that he discovered digging around in the docs or online.""
+"I had the pleasure of pairing with Ryan toward when we were working on our Night Writer projects. He was easy and fun to work with, and he has a genuine conviction about programming that is inspiring. He's open and receptive to feedback, and an awesome communicator.  I sincerely hope the random group generator puts us together soon."
+
+"Torie is one of the most, if not the most impressive people in our cohort. She is a strong and quiet leader, and inspires us by the example she sets. Her combination of her aptitude, drive, curiosity and humility makes it hard to picture a ceiling for her potential. She's kind and considerate on top of all of this, which is perhaps most rare."
+
+"RossedFort has been a great asset to our cohort over the course of Mod 1.  He's regularly available for help and willing to drop what he's doing to take a look at your code.  The combination of his technical skill and patience make him someone I'll continue to ask for help, and look forward to working with in the future."
 
 ### Being a Community Member
 
 Feedback:
- "You showed me your mission statement at the beginning of the module.  When Jeff first explained the mission statement and said to write one over the weekend, I had no what it should include without sounding ‘hokey’.  Thanks very much for guiding me and making the mission statement feel less intimidating.  You are such a great person and I’m very impressed with both your technical skills and your interpersonal skills." - Nicole
 
-TODO: Get feedback from Ryan, Torie, Jason
+* "This module I have had the pleasure to work on not just 1, but 2 paired projects with Pat. His technical skills are superior to my own, so I have been able to learn and increase my skill by working with him. He is always open to different opinions or approaches, which makes collaboration very easy and enjoyable. I have observed numerous cohort-mates ask Pat for assistance on various projects, and he is always willing and able to help." - Jason
+
+* "Pat has been incredibly helpful this module. He's always willing to spend large amounts of time working through problems with you, and has had a very positive influence on the cohort." - Torie
+
+* "You showed me your mission statement at the beginning of the module.  When Jeff first explained the mission statement and said to write one over the weekend, I had no what it should include without sounding ‘hokey’.  Thanks very much for guiding me and making the mission statement feel less intimidating.  You are such a great person and I’m very impressed with both your technical skills and your interpersonal skills." - Nicole
+
+* "Pat was one of my favorite people to work with. His knowledge of Ruby is incredible for having
+only programed for six weeks. While pairing, Pat has a way of remaining jovial and relaxed,
+yet hard-working and efficient. It is something I strive to duplicated in my next module. His
+motivation and grit are unmatched." - Ross
 
 ### Playing a Part
 
