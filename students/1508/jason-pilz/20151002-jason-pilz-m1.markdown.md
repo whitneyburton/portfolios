@@ -8,7 +8,7 @@ Going into this module, I set out to gain a solid understanding and familiarity 
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+* Waiting on Andrew...
 
 ### Attendance
 
@@ -122,7 +122,7 @@ Assessed by: Josh Cheek
 
 ### Projects
 
-The only team project this module was Headcount, which was a team effort, paired with Pat Wey.
+We had two team projects in Echo this module, I had a great time collaborating with Pat Wey on both projects.
 
 #### Headcount
 
@@ -157,34 +157,22 @@ Assessed by: Josh Cheek
 
 #### HttpYeahYouKnowMe
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/patwey/httpyeahyouknowme)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-Federal and state governments publish a huge amount of data. You can find a large collection of it on Data.gov -- everything from land surveys to pollution to census data.
-
-As programmers, we can use those data sets to ask and answer questions. Starting with CSV data we will:
-* build a "Data Access Layer" which allows us to query/search the underlying data
-* build a "Relationships Layer" which creates connections between related data
-* build an "Analysis Layer" which uses the data and relationships to draw conclusions
-* We'll build upon a dataset centered around schools in Colorado provided by the Annie E. Casey foundation.
+In this project we create a web server and are able to input a string on the client and have the server use our nightwriter class to convert the string to braille and send it back in a response to the client.
 
 Assessed by: Josh Cheek
 
 ##### Evaluation Comments
-* Passes everything presently in the test harness (analysis up through the cursor of consensus)
-* Generally looks good
-* Paying the cost to get the tests to run quickly is nearly always a worthwhile investment, because of the shocking speed boost to development, that you get when you can instantly say "and yes, my shit still works". So even if it takes a long time, it nearly always pays off.
-* Test harness passes
-* Their tests all pass (87 examples, 35s)
-* Names make sense (describe the behaviour)
-* Choose names that allow you to think about what the object's responsibility is, not about the nuances of which object is currently fulfilling that responsibility. ie a name like data_source instead of parser
-* The data that comes back from the data source should be formatted in whatever way your code wants it to be... and the way you want it to be is not going to be the way that the CSV happened to be. You can figure out what you want by writing those tests before you parse the CSVs, or by being really good at pretending you don't know what the CSVs look like, and saying "what would make this trivially easy to answer?" and probably you wind up with some very simple objects that are just decorated hashes.
+* No comments given on this project.
 
 ##### Scores
 * Functional Expectations: 4
 * Testing: 3.5
-* Encapsulation: 3
-* Ruby Style: 3
+* Code Sanitations: True
+* Adoration Points: none :(
+* Knowledge Retention: 10/10
 
 
 ## Community
@@ -210,7 +198,6 @@ Matt Stjernholm
 
 Pat Wey
 * Working with Jason for two projects has been a pleasure.  He is easy-going and flexible, independent of the fact that he has a family who wants to spend time with him!  I'm impressed with his ability to take charge of the big picture items - he kept both me and the project on track from day one, carefully considering the implications of our design decisions. Furthermore, his ability to stay calm in the face of adversity (i.e. the spec harness) bolstered me when my confidence wavered.
-
 Despite his modesty, I've gathered that Jason has a great command of the concepts and processes we were taught in Module 1. He worked tirelessly on our project, and "hey I pushed some new commits" became a slack message I was used to waking up to. Finally, I've noticed that Jason regularly feeds his healthy curiosity. Almost daily, he'd share something with me that he discovered digging around in the docs or online.
 
 ### Playing a Part
