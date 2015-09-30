@@ -4,7 +4,6 @@
 
 ### Your Mission
 
-(What did you set out to accomplish this module?)
 For my first module here at Turing, I set out to get a good grasp on ruby fundamentals.
 I feel I made good use of the pre-work and after my evaluation on the Mastermind project,
 I was moved from Foxtrot to Echo. In echo, I was more challenged and I believe it was
@@ -17,6 +16,7 @@ my ability with working with others in a collaborative process.
 Evaluated by Josh Cheek
 
 *"Good use of the keyboard"*
+
 *"Nice refactoring the syntax of the enumerables"*
 
 
