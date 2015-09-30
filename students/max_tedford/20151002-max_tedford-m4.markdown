@@ -253,12 +253,15 @@ feedback to the staff on improving Turing. I attended all meetings and actively 
 ### Notes
 
 * Accomplished meeting many of current Turing community and being known throughout. Was a very good influence and model for the turing student body. 
-* 
+* Did fantastic job with cultivating his posse and being active in trying to build that relationship. 
+* Was a little occupied with job hunt in the end and projects slightly suffered. But good work overall
+* Everyone enjoys your presence and tries a little harder with you around. 
+* People do there best work when you're invloved 
 
 ### Outcome
 
 * Assessment: 4
-* Individual: 
-* Group: 
-* Community: 
-* Feedback: 
+* Individual: 4
+* Group: 3
+* Community: 4
+* Feedback: 4
