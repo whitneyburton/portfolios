@@ -67,6 +67,16 @@ fashion on a website powered by Sinatra.
 * Sinatra / Web and Business Logic: 3
 * View Layer: 3
 
+Notes:
+
+"Missing error message for 403s. OS, Screen Res, and Browser breakdown is incomplete."
+
+Feedback:
+
+"Appreciate how you were patient when there was more than one person pitching an idea."
+
+"Good strong work ethic and genuine enjoyment with front-end development."
+
 #### Little-Shop-Of-Orders
 
 * [GitHub URL](https://github.com/HoffsMH/dad_jokes_for_days)
