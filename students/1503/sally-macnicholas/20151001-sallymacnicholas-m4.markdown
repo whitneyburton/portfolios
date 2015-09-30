@@ -193,10 +193,16 @@ From others:
 
 ### Notes
 
+* End of module assessment went well. Enjoyed seeing the progress made of the last 6 months. 
+* IdeaBox - Didn't finish all features. 
+* GameTime was better. Felt like there was improvemenet in JavaScript
+* Clojure!!! Liked doing it. Felt like she got a lot of out it in regrads to functional programming.
+* Always cut scope - not quality. 
+
 ### Outcome
 
-* Assessment:
-* Individual:
-* Group:
-* Community:
-* Feedback:
+* Assessment: 4
+* Individual: 3
+* Group: 3
+* Community: 4
+* Feedback: 4
