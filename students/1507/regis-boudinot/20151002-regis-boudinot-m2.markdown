@@ -70,15 +70,16 @@ fashion on a website powered by Sinatra.
 #### Little-Shop-Of-Orders
 
 * [GitHub URL](https://github.com/HoffsMH/dad_jokes_for_days)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation / Components:
-* Fundamental Ruby & Style:
-* Sinatra / Web and Business Logic:
-* View Layer:
+* Feature Completeness:
+* Views:
+* Controllers:
+* Models:
+* Testing:
+* Usability:
+* Workflow:
 
 ### Feedback to Me
 
