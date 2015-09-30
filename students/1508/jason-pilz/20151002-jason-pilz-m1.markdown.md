@@ -84,6 +84,9 @@ A binary tree is built from nodes. Each node has:
 * B) A link to the left. All nodes to the left have data elements less/lower than this node's data element.
 * C) A link to the right. All nodes to the right have data elements more/greater than this node's data element.
 
+##### Personal Notes:
+* This project I found to be very enjoyable, although it required many hours of work to grasp how a bst worked. I found my self regularly having to visualize a bst, so I used a program similar to omni-graffle to create a tree that I could work with as I implemented my methods.
+
 Assessed by: Josh Cheek
 
 ##### Notes
@@ -105,6 +108,9 @@ Assessed by: Josh Cheek
 
 The idea of Night Writing was first developed for Napoleon's army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille's development of his Braille tactile writing system.
 In this project we'll implement systems for generating Braille-like text from normal characters and the reverse.
+
+##### Personal Notes:
+* I took the approach of accessing all braille components by using a hash to store the individual components per braille line. This project provided good practice with hashes and formatting strings.
 
 Assessed by: Josh Cheek
 
