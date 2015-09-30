@@ -102,7 +102,9 @@ resource that can be called upon at reasonable times."
 ### Playing a Part
 
 * I actively went out of my way to help Module 1 students to not only give
-back my knowledge but to also keep up to date on my Ruby.
+back my knowledge but to also keep up to date on my Ruby. I was impressed by
+how strong their cohort was and I was always told that I was an appreciated
+resource!
 * On Friday, August 24th, I held a student led session on GNU/Linux and how to
 mimic a DevOps environment. I gave instructions and how to setup a VM and boot
 linux in a Virtual Box Machine. I also demonstrated how to customize a basic
