@@ -4,7 +4,7 @@
 
 ### Your Mission
 
-(What did you set out to accomplish this module?)
+Retaking module one was not an easy decision to make, nor an easy experience to endure.  I began the module with a defined list of goals, including improving my ruby syntax and understanding, working on deficiencies in my pairing practices and becoming a more active member of the Turing community.  With confidence I can say that my concerted effort to improve in each of these fields yielded dividends, with improvement shown across each, though with continued room for improvement moving into later modules.
 
 ### End of Module Assessment
 
@@ -16,18 +16,23 @@ a way to manage them
 
 ## Scores
 
-# 1. Ruby Syntax & API
+#  Ruby Syntax & API
 * 3: Developer is able to comfortably implement solutions in Ruby
-# 2. Ruby Style
+
+#  Ruby Style
 * 3: Developer writes code that is easy to follow
-# 3. Blocks & Enumerations
+
+#  Blocks & Enumerations
 * 3: Developer demonstrates understanding of blocks and can effectively use enumerable     methods
-# 4. Testing
+
+#  Testing
 * 3: Developer uses tests to guide development in small chunks
-# 5. Workflow
+
+#  Workflow
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-# 6. Collaboration
-* 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
+
+#  Collaboration
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ### Attendance
 
@@ -44,10 +49,10 @@ a way to manage them
 
 (description)
 
-# 1. Overall Functionality
+#  Overall Functionality
 * Score: 3
 
-# 2. Fundamental Ruby & Style
+#  Fundamental Ruby & Style
 * Score: 3
 
 Watch your fucking indentation
@@ -57,14 +62,14 @@ When a line of data is really long, eg
 
 When you have a method with lots of nested if statements, you can often simplify it by checking for the case you don't want first, and leaving the method if that case is true (return or raise), which allows you to assume the other case for the rest of the method.
 
-# 3. Test-Driven Development
+#  Test-Driven Development
 * Score: 3
 
 Passes the test harness, except one method that makes too many assumptions about the data. Using enumerables here would make it much simpler.
 
 Passes their tests (31ish, 6ish seconds)
 
-# 4. Breaking Logic into Components
+#  Breaking Logic into Components
 * Score: 3
 
 Most data transformation in your districts and enrollments and so forth, should be moved to the loader. The data comes in correct, and anyone who wants to make a DistrictRepository needs to make their data conform to the format. Then our code doesn't have to know all the nuances of all the potential data sources.
@@ -73,34 +78,118 @@ Most data transformation in your districts and enrollments and so forth, should 
 
 ### Projects
 
-(Intro)
+Projects in the echo division of module 1 consisted of a Binary Search Tree, Linked Lists, and a final project of Headcount.
 
-#### (Project Name)
+#### Linked Lists
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/cminnerath/linked_list)
 
-(description)
+# Functional Expectations
+Score: 4
 
-(evaluation comments)
+All expectations and extension was implemented
 
-(evaluation scores)
+# Test-Driven Development
+Score: 3
 
-(feedback to me)
+Tests were OK, but would have liked to have seen more edge cases and thorough
+testing. For example, the tests for `includes?` still passed when the body of
+the method was replaced with `true`
+
+# Encapsulation
+Score: 3
+
+Good, but could be improved. Saw some good amounts of code reuse, for example,
+implementing `append` in terms of `find_tail`
+
+# Ruby & Style
+Score: 3
+
+Style seemed fine, unsure what the responsibility of `Node` was. Classes
+should have been in multiple files.
+
+# Looping or Recursion:
+Score: 3
+
+Showed understanding of looping, would have liked to have seen an `each`
+method pulled out.
+
+
+#### Binary Search Tree
+
+* [GitHub URL](https://github.com/cminnerath/binary_search_tree)
+
+# Functional Expectations
+
+Score: 4
+
+4: Application fulfills all base expectations and two extensions
+
+# Test-Driven Development
+Score: 4
+
+Good test names
+Tests all pass (24)
+Build abstractions for your tests to reduce redundant work and reduce the amount of your test that depends on the interface
+
+# Encapsulation / Breaking Logic into Components
+Score: 3
+
+Push behaviour down into the node for simplicity
+Use local variables over instance variables
+
+# Fundamental Ruby & Style
+Score: 3
+
+Keep operator spacing the same
+
+# Enumerable & Collections
+Score: 3
+
+#### HTTP_Yeah_You_Know_Me
+
+* [GitHub URL](https://github.com/cminnerath/binary_search_tree)
+
+# Overall Functionality
+Score: 3
+
+# Test Driven Development
+Score: 3
+
+# Code Sanitation
+Score: true
+
+# Adoration Points
+Score: none
+
+# Knowledge Retention
+Score: Both members got 10/10
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+Tyler - consistently one of the hardest working people in the module, always friendly and available to help people with coding challenges.  A great attitude when pairing - very focused and motivated.  Could use some work on time management, but strong communication skills do a lot to mitigate any issues.
 
+Ross - Always very motivated and helpful, Ross is one of the more positive influences on the cohort, both as a leader and as a student.  A pleasure to pair with due to a great attitude and driven demeanor.  Occasionally suspiciously phallic animals while supposed to be working.
 ### Being a Community Member
 
-(feedback to me)
+Chad and I got off to kind of a rocky start with Headcount. Three days before the project was due, we decided to scrap what we had and restart, which was extremely stressful for both of us. However, during those three days, Chad an I were able to come together and turn in a pretty good project. This would not have been possible without Chads' communication skills and willingness to finish this project. Chad did an excellent job with his portions of the project, which made my life a whole lot easier while I was working on my part of the project. Chad is also an excellent collaborator, and has a knack for solving complex problems in Ruby. Overall, working with Chad was an awesome experience.
+
+
+Chad is an extremely motivating and intelligent person to work with. When we paired together
+on an exercise in class, we worked efficiently and cohesively. His background
+in debate gave us useful insights on solving problems. Overall, I would pair with Chad again, whether it were an hour exercise or a week long project.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+# Played a very active roll in Kids Who Code, including recruiting volunteers, assissting with lesson plan development and contributing to events.
+
+# Consistently offered help with code and advice to classmates adjusting to the Turing experience.
+
+# Organized a board game night for Turing students
+
+# Participated in many outside Turing activities, including social events and camping.
 
 ## Review
 
@@ -111,3 +200,5 @@ Most data transformation in your districts and enrollments and so forth, should 
 ### Outcome
 
 ( Leave blanks for reviewers )
+
+Regis - intensely patient, Regis is one of the people around Turing you know that you can always go to for quality and attentive help on any issue.  A real credit to the Turing community.  Immensley curious and a fantastic teacher, his excitement is contagious.
