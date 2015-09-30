@@ -155,6 +155,38 @@ Assessed by: Josh Cheek
 * Encapsulation: 3
 * Ruby Style: 3
 
+#### HttpYeahYouKnowMe
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+Federal and state governments publish a huge amount of data. You can find a large collection of it on Data.gov -- everything from land surveys to pollution to census data.
+
+As programmers, we can use those data sets to ask and answer questions. Starting with CSV data we will:
+* build a "Data Access Layer" which allows us to query/search the underlying data
+* build a "Relationships Layer" which creates connections between related data
+* build an "Analysis Layer" which uses the data and relationships to draw conclusions
+* We'll build upon a dataset centered around schools in Colorado provided by the Annie E. Casey foundation.
+
+Assessed by: Josh Cheek
+
+##### Evaluation Comments
+* Passes everything presently in the test harness (analysis up through the cursor of consensus)
+* Generally looks good
+* Paying the cost to get the tests to run quickly is nearly always a worthwhile investment, because of the shocking speed boost to development, that you get when you can instantly say "and yes, my shit still works". So even if it takes a long time, it nearly always pays off.
+* Test harness passes
+* Their tests all pass (87 examples, 35s)
+* Names make sense (describe the behaviour)
+* Choose names that allow you to think about what the object's responsibility is, not about the nuances of which object is currently fulfilling that responsibility. ie a name like data_source instead of parser
+* The data that comes back from the data source should be formatted in whatever way your code wants it to be... and the way you want it to be is not going to be the way that the CSV happened to be. You can figure out what you want by writing those tests before you parse the CSVs, or by being really good at pretending you don't know what the CSVs look like, and saying "what would make this trivially easy to answer?" and probably you wind up with some very simple objects that are just decorated hashes.
+
+##### Scores
+* Functional Expectations: 4
+* Testing: 3.5
+* Encapsulation: 3
+* Ruby Style: 3
+
+
 ## Community
 
 ### Giving Feedback
@@ -176,6 +208,11 @@ Ryan Johnson
 Matt Stjernholm
 * Jason consistently pushed me to be a better student throughout Module 1.  His positive outlook and “you can do it” attitude is a big reason why I stuck around in the Echo group — which I’m extremely grateful for.  On top of that, Jason showed me countless keybinding shortcuts, Atom add-ons, and tricks that streamlined my workflow and made me more efficient.  Can’t imagine where I’d be without Jason, and I look forward to having him around next module!
 
+Pat Wey
+* Working with Jason for two projects has been a pleasure.  He is easy-going and flexible, independent of the fact that he has a family who wants to spend time with him!  I'm impressed with his ability to take charge of the big picture items - he kept both me and the project on track from day one, carefully considering the implications of our design decisions. Furthermore, his ability to stay calm in the face of adversity (i.e. the spec harness) bolstered me when my confidence wavered.
+
+Despite his modesty, I've gathered that Jason has a great command of the concepts and processes we were taught in Module 1. He worked tirelessly on our project, and "hey I pushed some new commits" became a slack message I was used to waking up to. Finally, I've noticed that Jason regularly feeds his healthy curiosity. Almost daily, he'd share something with me that he discovered digging around in the docs or online.
+
 ### Playing a Part
 
 * Researched and was in contact with Bohemian Coding to determine a process for Turing to receive 50% student/teacher discount on Sketch3. Wrote up a Gist outlining the procedure and posted it for the school community.
@@ -185,7 +222,7 @@ Matt Stjernholm
 ### Notes
 
 ( Leave blanks for reviewers )
-  
+
 ### Outcome
 
 ( Leave blanks for reviewers )
