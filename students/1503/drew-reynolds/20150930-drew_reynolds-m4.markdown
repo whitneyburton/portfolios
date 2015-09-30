@@ -170,11 +170,17 @@ From others:
 ## Review
 ​
 ### Notes
-​
+* Did well with IdeaBox
+* Scale-up was troublesome. Seeding was the main issue. Didnt accomplish what he'd like to. 
+* Practice assessment went well. Got a lot done. 
+* Community participation - participated more than shown in the portfolio. Was a good member within the community. 
+* Usually an enjoyable partner - had good group partners - A good job listening and workign with people the way they want to be worked with. 
+* Good Luck!
+
 ### Outcome
 ​
-* Assessment:
-* Individual:
-* Group:
-* Community:
-* Feedback:
+* Assessment: 4
+* Individual: 3
+* Group: 4
+* Community: 3
+* Feedback: 3
