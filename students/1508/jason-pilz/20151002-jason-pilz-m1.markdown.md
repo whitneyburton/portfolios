@@ -207,6 +207,10 @@ Despite his modesty, I've gathered that Jason has a great command of the concept
 
 * Researched and was in contact with Bohemian Coding to determine a process for Turing to receive 50% student/teacher discount on Sketch3. Wrote up a Gist outlining the procedure and posted it for the school community.
 
+* The Cheek brought to my attention a scooter outside that has a flat front tire and asked if I could help fix it. Since I am not familiar with fixing scooters (automotive technician by trade) I did some research and recommended we replace the tube. I sent Josh the link to order a tube and he did...due to the workload of this module, we have not found a chance to perform the work yet, but I am hoping to plan on getting this done possibly during the intermission week.
+
+* Multiple times I had noticed the large washroom by class 'a' had no toilet paper in it so I replenished the supplies so nobody would be left using their socks :)
+
 ## Review
 
 ### Notes
