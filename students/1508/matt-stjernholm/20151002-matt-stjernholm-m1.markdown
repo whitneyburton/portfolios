@@ -55,10 +55,10 @@ Comments:
 * *Tests in test dir, files in lib dir/using git*
 
 Scores:  
-1. Overall Score: 3
-2. Functional Expectations: 3
-3. Testing: 3
-4. Ruby Style: 3
+1. Overall Score: 3  
+2. Functional Expectations: 3  
+3. Testing: 3  
+4. Ruby Style: 3  
 5. Organization: 4
 
 
