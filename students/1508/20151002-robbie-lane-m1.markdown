@@ -1,14 +1,24 @@
-# Robbie Lane - M1/M2/M3/M4) Portfolio
+# Robbie Lane - M1 Portfolio
 
 ## Individual
 
 ### Your Mission
 
 (What did you set out to accomplish this module?)
+For my first module here at Turing, I set out to get a good grasp on ruby fundamentals.
+I feel I made good use of the pre-work and after my evaluation on the Mastermind project,
+I was moved from Foxtrot to Echo. In echo, I was more challenged and I believe it was
+beneficial to my success during module 1. Beyond learning the basics to writing ruby,
+I also feel like I have grown as an individual. Specifically, I think I have greatly improved
+my ability with working with others in a collaborative process.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Evaluated by Josh Cheek
+
+- Good use of the keyboard
+- Nice refactoring the syntax of the enumerables
+
 
 * Ruby Syntax & API: 3
 * Ruby Style: 3
@@ -19,7 +29,7 @@
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+During this module I have had perfect attendance and have never been tardy.  
 
 ### Work
 
@@ -76,12 +86,12 @@
 
 (description)
 
-(evaluation comments)
+"each with index, awesome"
 
 * Fundamental Ruby & Style: 3
-* Enumerable & Collections: 4 - each with index, awesome
-* REPL Interface and Game Functionality: 4, game difficulty extension
-* Breaking Logic into Components: 3, methods were broken out, but no classes
+* Enumerable & Collections: 4
+* REPL Interface and Game Functionality: 4
+* Breaking Logic into Components: 3
 
 ## Team
 
@@ -112,6 +122,7 @@
 ### Being a Community Member
 
 (feedback to me)
+Feedback: “Robbie was a great partner to work with. He laid out a foundation that was clear and concise with our headcount project. He was very easy to work and pair with and had great insight about all aspects of the project. He has a great work ethic and is always willing to put in the time it takes to get things."
 
 ### Playing a Part
 
