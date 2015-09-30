@@ -28,6 +28,15 @@ computing, and technology in general.
 
 ###End of Module Assessment
 
+I was assessed by Andrew, and recieved the following scores:
+
+1. Analytic/Algorithmic Thinking: 3
+2. Ruby Syntax & Standard Library: 3
+3. Rails Syntax & API: 3
+4. Rails Style: 3
+5. Testing: 3
+6. Collaboration: 3
+
 ###Projects
 
 ##Team
