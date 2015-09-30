@@ -83,9 +83,19 @@ fashion on a website powered by Sinatra.
 
 ### Feedback to Me
 
+"Intensely patient, Regis is one of the people around Turing you know that you
+can always go to for quality and attentive help on any issue. A real credit to
+the Turing community. Immensley curious and a fantastic teacher, his
+excitement is contagious."
+
 ## Community
 
 ### Giving Feedback
+
+"Provides great valuable feedback. Speaks his mind and gives you accurate and
+actionable feedback when needing help with refactoring or building base logic.
+Strong in ruby and very strong at testing. Chad is a valuable
+resource that can be called upon at reasonable times."
 
 ### Playing a Part
 
