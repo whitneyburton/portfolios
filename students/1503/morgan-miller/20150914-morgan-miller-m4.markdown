@@ -189,7 +189,7 @@ A note about playing a part: Module 4 tends to be a little more relentless than 
 * Individual: 3
 * Group: 3
 * Community: 3
-* Feedback: 
+* Feedback: 4
 
 
 ## Review
