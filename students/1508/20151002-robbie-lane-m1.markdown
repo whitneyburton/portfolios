@@ -95,6 +95,7 @@ In this project we built the classic mastermind game in ruby. I added several ex
 Evaluated by Tess Griffin
 
 *"each with index, awesome"*
+
 *"Extensions! Game difficulty levels were great"*
 
 * Fundamental Ruby & Style: 3
@@ -108,14 +109,32 @@ Evaluated by Tess Griffin
 
 (Intro)
 
+#### Http Yeah You Know Me
+
+* [GitHub URL](https://github.com/robbielane/webserver)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+For this project we built a webserver which parses http requests and serves our Night Writer application with a web interface.
+
+
+* Overall Functionality: 4
+* Test Driven Development: 3.5
+* Code Sanitation: true
+* Adoration Points: none
+* Knowledge Retention: Both members got 10/10
+
 #### Headcount
 
 * [GitHub URL](https://github.com/robbielane/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-(description)
+In this project we used educational data from the state of colorado to query and analyze. Utilizing CSV data we parsed ~80,000 lines of data in a way that our application could utilize.  
 
-(evaluation comments)
+*"Dragged the cursor of consensus forward a few times (ie sent me pull requests, ty)"*
+
+*"The agnosticism of the code to where the loader comes from / what the loader is, is good because it allows you to swap the loader out for any other kind of loader. Which means that you can add any data source that you want, you just have to write a loader class for it to get the data (ie load_average_math_prof_by_race) from the new source (ie json, sql, xml, a hash from my test)."*
+
+*"It's often worthwhile to do refactorings (will actually save you time, b/c the overhead of everything you do with it afterwards is lower, and you will gain much deeper insight into whatever you are working on, as you adjust its structure and identify abstrctions and names for the things that it does)"*
 
 * Overall Functionality: 4
 * Fundamental Ruby & Style: 3
@@ -126,15 +145,15 @@ Evaluated by Tess Griffin
 
 ### Being a Community Member
 
-(feedback to me)
 Feedback:
+
 *“Robbie was a great partner to work with. He laid out a foundation that was clear and concise with our headcount project. He was very easy to work and pair with and had great insight about all aspects of the project. He has a great work ethic and is always willing to put in the time it takes to get things."*
 
 *"Robbie is amazing to work with. His understanding of Ruby is completely intimidating and inspiring. My only compliant would be that he needs to slow down and wait for the rest of us to catch up!*
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+During my first module, my biggest contribution to the community was a constant willingness to help others in my cohort. I frequently like to ask others how their projects are going and if there is anything i can do to help. In addition, I frequent the smokers stoop and am always willing to listen to people complain. I also do my part with cleaning an maintaining the often breaking tables in classroom A.       
 
 ## Review
 
