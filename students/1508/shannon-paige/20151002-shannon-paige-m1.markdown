@@ -37,8 +37,8 @@ Below is a list of the individual projects I completed this module.
 
 #### Night Writer
 
-* [GitHub URL]https://github.com/ShannonPaige/night_writer
-* [Original Assignment]https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
+* [GitHub URL](https://github.com/ShannonPaige/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 This project was really fun, although its when I realized that I'm not coding like everyone else, and my math background may be hurting me more than helping me. I have some tricks up my sleeves from math proofs that I used here that when I showed to my mentors made then say nononono (even though it worked). It made me realize I need to focus on enumerable and not try to reinvent the wheel in every method.
 
@@ -47,15 +47,15 @@ This project was really fun, although its when I realized that I'm not coding li
 "The painful shit (File reading / writing, ARGV, printing) are all separated from the algorithm."
 "Work on choosing names that help you think about what the thing is."
 
-Overall Functionality: 3
-Fundamental Ruby & Style: 3
-Test-Driven Development: 4
-Breaking Logic into Components: 4-
+* Overall Functionality: 3
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 4
+* Breaking Logic into Components: 4-
 
 #### Binary Search Trees
 
-* [GitHub URL]https://github.com/ShannonPaige/binary_search_tree
-* [Original Assignment]https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown
+* [GitHub URL](https://github.com/ShannonPaige/binary_search_tree)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
 This was the project where linked lists and recursion finally clicked for me. It took me forever to figure out how to navigate this tree, but once I finally did all the previous projects started to make more sense as well.
 
@@ -63,31 +63,31 @@ This was the project where linked lists and recursion finally clicked for me. It
 "Some edge cases that would be worth testing"
 "Pushing logic down into the nodes would simplify it"
 
-Functional Expectations: 4
-Test-Driven Development: 3
-Encapsulation / Breaking Logic into Components: 3
-Fundamental Ruby & Style: 3
-Enumerable & Collections: 3
+* Functional Expectations: 4
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
 
 #### Linked Lists
 
-* [GitHub URL]https://github.com/ShannonPaige/linked-lists
-* [Original Assignment]https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown
+* [GitHub URL](https://github.com/ShannonPaige/linked-lists)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
 
 I had an instinct for how linked lists worked with iteration right away, so I jumped into the project using that methodology. I wish I has used recursion, and will probably go back over the break and try it that way. Although I thought I understood what was happening, it wasn't until binary search trees that they really clicked.
 
 "Recommended adding more tests to cover more cases."
 
-Functional Expectations: 4
-TDD: 3
-Encapsulation: 3
-Fundamental Ruby: 4
-Looping or Recursion: 3
+* Functional Expectations: 4
+* TDD: 3
+* Encapsulation: 3
+* Fundamental Ruby: 4
+* Looping or Recursion: 3
 
 #### Sorting Suite
 
-* [GitHub URL]https://github.com/ShannonPaige/sorting_suite
-* [Original Assignment]https://github.com/turingschool/sorting-suite
+* [GitHub URL](https://github.com/ShannonPaige/sorting_suite)
+* [Original Assignment](https://github.com/turingschool/sorting-suite)
 
 I felt I had a bit of an advantage with sorting suite, as I had studied these algorithms at length in college. It had been awhile - and I never coded them - but I knew how they worked, so I didn't have that same hurdle as my other classmates. I enjoyed jumping into this project and getting to know Ruby and Git.
 
@@ -95,10 +95,10 @@ I felt I had a bit of an advantage with sorting suite, as I had studied these al
 "Actually broke out methods in bubble sort"
 "Everything structured correctly, on github"
 
-Functional Expectations: 4
-Testing: 4
-Ruby Style: 4
-Organization: 4
+* Functional Expectations: 4
+* Testing: 4
+* Ruby Style: 4
+* Organization: 4
 
 ## Team
 
@@ -108,32 +108,32 @@ Below is a list of the team projects I completed this module.
 
 #### HTTP Yeah You Know Me
 
-* [GitHub URL]https://github.com/ShannonPaige/webserver
-* [Original Assignment]https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown
+* [GitHub URL](https://github.com/ShannonPaige/webserver)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 This project was really interesting to me personally coming from the digital marketing world. I've been reading Google Analytics data for so long without having any idea of how it worked, and now I do. It was super fun to play with building our own server.
 
-Overall Functionality: 4
-Test Driven Development: 3.5
-Code Sanitation: true
-Adoration Points: none
-Knowledge Retention: 10/10
+* Overall Functionality: 4
+* Test Driven Development: 3.5
+* Code Sanitation: true
+* Adoration Points: none
+* Knowledge Retention: 10/10
 
 "Shannon was a joy to work with. Very easy to collaborate with and brings a lot of knowledge to the table. I definitely picked up some tips and tricks working with her."
 
 #### Headcount
 
-* [GitHub URL]https://github.com/ShannonPaige/headcount
-* [Original Assignment]https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown
+* [GitHub URL](https://github.com/ShannonPaige/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 I learned so much from this project. The most important lesson was how to be comfortable being uncomfortable :) But second to that was how important it is to keep you data cleaning/parsing from the program that uses the data. I will definitely take that lesson with me to every project from now on.
 
 "Play with the enumerables until you can think in them :)"
 
-Overall Functionality: 4
-Fundamental Ruby & Style: 3
-Test-Driven Development: 3
-Breaking Logic into Components: 4
+* Overall Functionality: 4
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 4
 
 "I think we paired well because we have separate strengths. She is fast and has ideas that she can run with and I enjoy working through the methods, test-writing, and trouble shooting."
 
@@ -162,6 +162,8 @@ From Jill: "Shannon not only understands coding on such a high level, but also s
 From Sekhar: "You carried this project through! I was super tired from having stayed up the night before to do Jungle Beat, and we were three hours away from a project-free weekend. But overall I thought you were diligent, willing to experiment/try new techniques, and push the project along throughout. I was a much less helpful partner given my mental state. Thanks for driving it along! We finished with a 90% complete/working project as I recall. <3<3<3 Keep up the great work! You are a great partner."
 
 I also got a shoutout during the Collaboration Games exercise for being someone that inspires others. I believe they called me a pit bull when it came to gathering knowledge (that simile stuck with me...)
+
+I also had a MrSpec whale and a Matz posse logo designed (for free!)
 
 ### Playing a Part
 
