@@ -163,6 +163,8 @@ From Sekhar: "You carried this project through! I was super tired from having st
 
 I also got a shoutout during the Collaboration Games exercise for being someone that inspires others. I believe they called me a pit bull when it came to gathering knowledge (that simile stuck with me...)
 
+I also had a MrSpec whale and a Matz posse logo designed (for free!)
+
 ### Playing a Part
 
 During the first couple of weeks I posted motivational messages on the private 1508 message board, until I heard it wasn't as appreciated as I hoped it would be. I've also tried to always be available to help my fellow 1508 students when they needed help on their projects.
