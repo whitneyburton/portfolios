@@ -13,11 +13,11 @@ new and interesting ideas.
 
 ### End of Module Assessment
 
-## Instructor - Andrew
+#### Instructor - Andrew
 
-## Challenge - Highest Scoring Word
+#### Challenge - Highest Scoring Word
 
-## Notes -
+#### Notes -
 
 "Nervous but came through and performed well. Threw some unused things at him
 and he was comfortable with implementing them with some collaboration. We ran
