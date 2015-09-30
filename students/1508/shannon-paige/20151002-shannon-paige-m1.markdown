@@ -166,7 +166,7 @@ I also got a shoutout during the Collaboration Games exercise for being someone 
 ### Playing a Part
 
 During the first couple of weeks I posted motivational messages on the private 1508 message board, until I heard it wasn't as appreciated as I hoped it would be. I've also tried to always be available to help my fellow 1508 students when they needed help on their projects.
-Sekhar and I have also revitalized the Matz posse (we will be the most senior members next module).
+Sekhar and I have also revitalized the Matz posse (we will be the most senior members next module.)
 
 ## Review
 
