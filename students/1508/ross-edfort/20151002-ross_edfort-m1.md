@@ -179,4 +179,4 @@ During the Headcount project, my partner and I wrote 5 of the tests for the anal
 
 Also I made this for Josh!
 
-![SIB logo](/Users/rossedfort/Pictures/SIB Walrus/SIBWalrus2.png)
+![SIB logo](/http://i.imgur.com/nZUS8FD.png)
