@@ -28,7 +28,9 @@ computing, and technology in general.
 
 ###End of Module Assessment
 
-I was assessed by Andrew, and recieved the following scores:
+I was assessed by Andrew:
+
+####Scores
 
 1. Analytic/Algorithmic Thinking: 3
 2. Ruby Syntax & Standard Library: 3
@@ -36,6 +38,10 @@ I was assessed by Andrew, and recieved the following scores:
 4. Rails Style: 3
 5. Testing: 3
 6. Collaboration: 3
+
+####Notes
+
+Worked well with me. Collaborated well. Didn't do anything out of the ordinary or spectacular with testing, but did not have any bad practices. Same for rails syntax. We did try to use some tools he had not used before and was comfortable with implementing them. Overall decent work. Has room for improvement that we spoke about but is in a good place overall.
 
 ###Projects
 
