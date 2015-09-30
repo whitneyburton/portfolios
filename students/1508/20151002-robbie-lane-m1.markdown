@@ -153,14 +153,12 @@ Feedback:
 
 ### Playing a Part
 
-During my first module, my biggest contribution to the community was a constant willingness to help others in my cohort. I frequently like to ask others how their projects are going and if there is anything i can do to help. In addition, I frequent the smokers stoop and am always willing to listen to people complain. I also do my part with cleaning an maintaining the often breaking tables in classroom A.       
+During my first module, my biggest contribution to the community was a constant willingness to help others in my cohort. I frequently like to ask others how their projects are going and if there is anything i can do to help. In addition, I frequent the smokers stoop and am always willing to listen to people complain. I also do my part with cleaning -- putting dishes in the dishwasher and maintaining the often breaking tables in classroom A.
 
 ## Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
-
-( Leave blanks for reviewers )
