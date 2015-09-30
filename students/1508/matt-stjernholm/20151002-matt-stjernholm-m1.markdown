@@ -20,29 +20,12 @@ Notes:
 * *Is very quick and comfortable with his machine, but could make some small workflow improvements and become exponentially better.*
 
 
-##### 1. Ruby Syntax & API - 3
-
-* 3: Developer is able to comfortably implement solutions in Ruby
-
-##### 2. Ruby Style - 3
-
-* 3: Developer writes code that is easy to follow
-
-##### 3. Blocks & Enumerations - 4
-
-* 4: Developer is able to consistently select and implement the best-choice enumerator methods with blocks
-
-##### 4. Testing - 3
-
-* 3: Developer uses tests to guide development in small chunks
-
-##### 5. Workflow - 3
-
-* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-
-##### 6. Collaboration - 3
-
-* 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
+1. Ruby Syntax & API - 3
+2. Ruby Style - 3
+3. Blocks & Enumerations - 4
+4. Testing - 3
+5. Workflow - 3
+6. Collaboration - 3
 
 ### Attendance
 
@@ -60,26 +43,24 @@ Below are the individual projects that I completed.  Despite banging my head aga
 The sorting-suite was a fun, but difficult first project for Echo. However, I do think it really helped to galvanize the Echo group early on.  Most of the class came in on Saturday to meet with Josh and figure out what we were doing, and that seemed to set the pace for the rest of the module.
 
 Assessed By: Josh  
-Overall Score: 3
 
-
-##### Functional Expectations: 3
-* No comments.
-
-##### Testing: 3
+Comments:  
 * *Can be run with mrspec**
 * *All tests pass (20 examples)**
 * *Tests edge cases**
-
-##### Ruby Style: 3
 * *No syntax errors*
 * *Almost correct indentation, but was actually caused by elsif instead of else*
 * *Be kind to yourself: choose names that help you think about what the variable means :)*
 * *Style is fine*
-
-##### Organization: 4
 * *Tests in test dir, files in lib dir/using git*
-* *Each class has its own file*
+
+Scores:  
+1. Overall Score: 3
+2. Functional Expectations: 3
+3. Testing: 3
+4. Ruby Style: 3
+5. Organization: 4
+
 
 #### Linked List
 
@@ -90,8 +71,8 @@ Overall Score: 3
 Was really tough to grasp at first, but as soon as I stopped trying to understand the ins-and-outs of linked lists/started writing code, it became much easier.  Great intro to data structures.
 
 Assessed By: Tess   
-Overall Score: 3
 
+* Overall Score: 3
 * Functional Expectations: 4
 * TDD: 4
 * Encapsulation: 3
@@ -105,28 +86,24 @@ Overall Score: 3
 
 Really proud with the progress that I was able to make on this project, because I as away at a wedding the entire weekend. Ended up writing a ton of code to make it all work, but feel like it came together really well for the amount of time I had.
 
-Assessed By: Josh   
-Overall: 3
+Assessed By: Josh
 
-##### Functional Expectations :3
-
-##### TDD: 4
-
+Comments:
 * *Tests all pass*  
 * *Pretty good test names, could be a tad bit more descriptive*  
 * *Use abstractions in test, too*
-
-##### Encapsulation: 3
-
 * *When your class uses all the shit of another class like node (this is commonly called "feature envy") that is an indicator that the functionality you are using belongs to the thing with all the attributes that you're working with.*
 
-##### Fundamental Ruby Style: 3
 
-* *Poor Indentation**
+Scores:  
 
-##### Enumerables & Collections: 3
+* Overall: 3  
+* Functional Expectations: 3  
+* TDD: 4  
+* Encapsulation: 3  
+* Fundamental Ruby Style: 3  
+* Enumerables & Collections: 3
 
-* No comments
 
 #### Night Writer
 
@@ -136,7 +113,8 @@ Overall: 3
 One of the more frustrating projects for me -- made a ton of progress early on, but stalled out after a couple days because some of my File I/O "wiring" was wrong.
 
 Assessed By: Jeff   
-Overall Score: 3
+
+Comments:
 
 * *Like seeing 20 tests off the bat*
 * *Try to use fewer instance variables*
@@ -144,7 +122,8 @@ Overall Score: 3
 * *Like that you were able to brute force the read tests when struggling*
 * *Continue refining your testing techniques at multiple levels*
 
-
+Scores:  
+* Overall: 3  
 * TDD: 3
 * Components: 3
 * Fundamental Ruby: 3
@@ -153,37 +132,31 @@ Overall Score: 3
 
 ### Group Projects
 
-Headcount was a beast.  Although it stretched to my limits, I'm happy and proud to be finished with it :)
-
 #### Headcount
 
 * [GitHub URL](https://github.com/thew88/headcount)  
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
+Headcount was a beast.  Although it stretched to my limits, I'm happy and proud to be finished with it :)
+
 Assessed By Josh  
 Teammate: Ross Edfort  
-Overall Score: 3
 
-##### 1. Overall Functionality: 4
+Comments:
 
 * *Passes all of the test harness methods, minus the two we discussed and decided should be changed just before sitting down to do this :P*
 * *Also, they wrote all the analysis methods (including the one that failed ;)*
-
-##### 2. Fundamental Ruby & Style: 3
-
-* *I didn't have any issues with anything*
-
-##### 3. Test-Driven Development: 4
-
 * *All unit tests pass*
 * *"All" test harness tests pass*
-* *Listened to me rant nostalgically and inpirationally, if we're completely honest, about testing for like 20 minutes or something.*
 
-##### 4. Breaking Logic into Components: 3
+Scores:
 
-* *LoadCSV and DistrictRepository should ideally know very little about each other.*
-* *For example, we might make a DistrictRepository from some JSON data, or some SQL data,
-or a hash for a test. So lets not inherit from LoadCSV.*
+* Overall Score: 3
+1. Overall Functionality: 4
+2. Fundamental Ruby & Style: 3
+3. Test-Driven Development: 4
+4. Breaking Logic into Components: 3
+
 
 
 ------
@@ -192,16 +165,14 @@ or a hash for a test. So lets not inherit from LoadCSV.*
 * [GitHub URL](https://github.com/toriejw/http-yeah-you-know-me)  
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-Cool intro to servers - happy we did this project :)
-
 Assessed By Josh  
 Teammate: Torie Joy-Warren  
 
-##### 1. Overall Functionality: 4  
-##### 2. Test Driven Development: 3.5  
-##### 3. Code Sanitation: true  
-##### 4. Adoration Points: none  
-##### 5. Knowledge Retention: Both members got 10/10
+1. Overall Functionality: 4  
+2. Test Driven Development: 3.5  
+3. Code Sanitation: true  
+4. Adoration Points: none  
+5. Knowledge Retention: Both members got 10/10
 
 
 ## Community
