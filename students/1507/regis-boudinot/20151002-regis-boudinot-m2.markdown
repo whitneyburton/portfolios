@@ -60,8 +60,6 @@ In this project we created a sort of Google Analytics clone that was fed
 information through curl commands and displayed that information in organized
 fashion on a website powered by Sinatra.
 
-Notes:
-
 "Missing error message for 403s. OS, Screen Res, and Browser breakdown is incomplete."
 
 * Functional Expectations: 1.5
