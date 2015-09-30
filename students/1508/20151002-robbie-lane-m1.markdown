@@ -40,9 +40,11 @@ For my individual projects during this module, I am most satisfied with my Night
 * [GitHub URL](https://github.com/robbielane/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-(description)
+For this project we translated a string into simulated braille. I am most proud of this project, because I feel i did an excellent job using TDD.
 
-(evaluation comments)
+Evaluated by Josh Cheek
+
+*"Good job keeping the algorithm and the context decoupled (command line reading / writing files, printing summaries, etc)"*
 
 * Overall Functionality: 3
 * Fundamental Ruby & Style: 3
@@ -54,9 +56,11 @@ For my individual projects during this module, I am most satisfied with my Night
 * [GitHub URL](https://github.com/robbielane/binary_search_tree)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
-(description)
+In this project i created a binary search tree, a fundamental data structure, which stores sorted data for faster lookup. This project helped me solidify my knowledge of recursion.
 
-(evaluation comments)
+Evaluated by Josh Cheek
+
+*"Use abstractions in your tests to protect your tests from the volatility of the interface, and to save yourself a lot of time."*
 
 * Functional Expectations: 4
 * Test-Driven Development: 3
@@ -69,9 +73,11 @@ For my individual projects during this module, I am most satisfied with my Night
 * [GitHub URL](https://github.com/robbielane/linked_lists)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
 
-(description)
+Linked lists are a fundamental data structure, often asked about during technical interviews.  
 
-(evaluation comments)
+Evaluated by Josh Cheek
+
+*"Test names describe behavior somewhat, and tests somewhat"*
 
 * Functional Expectations: 4
 * Test-Driven Development: 3
@@ -84,9 +90,12 @@ For my individual projects during this module, I am most satisfied with my Night
 * [GitHub URL](https://github.com/robbielane/mastermind)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown)
 
-(description)
+In this project we built the classic mastermind game in ruby. I added several extensions including some awesome ascii art. :)
 
-"each with index, awesome"
+Evaluated by Tess Griffin
+
+*"each with index, awesome"*
+*"Extensions! Game difficulty levels were great"*
 
 * Fundamental Ruby & Style: 3
 * Enumerable & Collections: 4
@@ -115,14 +124,13 @@ For my individual projects during this module, I am most satisfied with my Night
 
 ## Community
 
-### Giving Feedback
-
-(feedback from me)
-
 ### Being a Community Member
 
 (feedback to me)
-Feedback: “Robbie was a great partner to work with. He laid out a foundation that was clear and concise with our headcount project. He was very easy to work and pair with and had great insight about all aspects of the project. He has a great work ethic and is always willing to put in the time it takes to get things."
+Feedback:
+*“Robbie was a great partner to work with. He laid out a foundation that was clear and concise with our headcount project. He was very easy to work and pair with and had great insight about all aspects of the project. He has a great work ethic and is always willing to put in the time it takes to get things."*
+
+*"Robbie is amazing to work with. His understanding of Ruby is completely intimidating and inspiring. My only compliant would be that he needs to slow down and wait for the rest of us to catch up!*
 
 ### Playing a Part
 
