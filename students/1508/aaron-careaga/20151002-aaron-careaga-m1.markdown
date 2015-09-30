@@ -154,8 +154,8 @@ I wrote feedback for Emily Dowdle and Edgar Duran for their portfolios.
 
 * I regularly mountain bike with fellow students and instructors, riding at least one day every week of the module.
 * On field day, I drove a group of  students and their bikes to the Lulzbot Factory and Devils Backbone open space.
-* On Monday September 7, I wrote a blog post called Skiers Who Code. Topics covered included my experience at Turing and learning Ruby relative to those I've shared in the mountains.
-* On Tuesday September 22, I wrote a blog post on motivation and overcoming challenges. It discussed my experience handling stress and expectations during the first module, and techniques I've helpful to enter a flow state.
+* On Monday, September 7, I wrote a blog post called Skiers Who Code. Topics covered included my experience at Turing and learning Ruby relative to those I've shared in the mountains.
+* On Tuesday, September 22, I wrote a blog post on motivation and overcoming challenges. It discussed my experience handling stress and expectations during the first module, and techniques I've helpful to enter a flow state.
 * I helped David Daniel, a recent Turing graduate, move residences on Saturday, August 29.
 
 ## Review
