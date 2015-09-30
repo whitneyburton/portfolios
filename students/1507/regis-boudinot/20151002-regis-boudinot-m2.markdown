@@ -40,7 +40,7 @@ with RSpec and we moved on from there."
 
 I completed the following individual work this module:
 
-#### Mod2-Individual-Work
+##### Mod2-Individual-Work
 
 * [GitHub URL](https://github.com/selfup/mod2-individual-work)
 
