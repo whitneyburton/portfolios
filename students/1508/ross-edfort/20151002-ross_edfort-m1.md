@@ -100,7 +100,7 @@ As a bonus, I gave it the functionality to find the maximum height of the tree, 
 * [GitHub URL](https://github.com/rossedfort/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-For this project, I created a program that turned a message into braille, and braille back into a message. The finished product used File IO and ran from the Terminal I was evaluated by Jeff with the following results:
+For this project, I created a program that turned a message into braille, and braille back into a message. The finished product used File IO and ran from the Terminal. I was evaluated by Jeff with the following results:
 
 * Notes: No tests setup, Ruby is well written, Avoid using instance methods when possible.
   More micromachines and small methods
@@ -148,7 +148,11 @@ I participated in the following team projects:
 
 ### Feedback to Me
 
-  "Ross was a great partner to pair with, and a lot of the success that we had on the project was likely due to our ability to work well together. We both have similar work styles and we're on the same page with how much time and effort we intended to put in to headcount. There were a lot of long stretches where we sat in front of the computer, stumped on a problem for hours, and relied on each other to keep putting one foot in front of the other. After week of countless hours, expletive-filled-rants, and high fives, we learned a ton more about programming and also built rapport with one another that we likely would not have found otherwise. Overall: great first experience for a pairing project!"
+  "Ross was a great partner to pair with, and a lot of the success that we had on the project was likely due to our ability to work well together. We both have similar work styles and we're on the same page with how much time and effort we intended to put in to headcount. There were a lot of long stretches where we sat in front of the computer, stumped on a problem for hours, and relied on each other to keep putting one foot in front of the other. After week of countless hours, expletive-filled-rants, and high fives, we learned a ton more about programming and also built rapport with one another that we likely would not have found otherwise. Overall: great first experience for a pairing project!" - Matt S.
+
+  "Always very motivated and helpful, Ross is one of the more positive influences on the cohort, both as a leader and as a student.  A pleasure to pair with due to a great attitude and driven demeanor." - Chad M.
+
+  "Ross has been a great asset to our cohort over the course of mod 1.  He's regularly available for help and willing to drop what he's doing to take a look at your code.  The combination of his technical skill and patience make him someone I'll continue to ask for help, and look forward to working with in the future." -Pat W.
 
 ## Community
 * Helped organize the 1510 Welcome Happy Hour and Information Session
@@ -158,6 +162,16 @@ I participated in the following team projects:
   I gave honest and actionable feedback to my peers such as:
 
   "Matt was an incredibly easy person to get along with and work with. When we divided responsibilities Matt always came back with his share completed. When we paired he was constantly contributing to the task at hand and had useful insights. His knowledge and work ethic were extremely admirable. Overall, I would be thrilled to work with Matt on a future project."
+
+  "Chad is an extremely motivating and intelligent person to work with. When we paired together
+  on an exercise in class, we worked efficiently and cohesively. His background
+  in debate gave us useful insights on solving problems. Overall, I would pair with Chad again,
+  whether it were an hour exercise or a week long project."
+
+  "Pat was one of my favorite people to work with. His knowledge of Ruby is incredible for having
+  only programed for six weeks. While pairing, Pat has a way of remaining jovial and relaxed,
+  yet hard-working and efficient. It is something I strive to duplicated in my next module. His
+  motivation and grit are unmatched."
 
 ### Playing a Part
 
