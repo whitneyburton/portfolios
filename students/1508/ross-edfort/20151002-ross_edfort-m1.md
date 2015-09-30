@@ -154,9 +154,15 @@ I participated in the following team projects:
 
   "Ross has been a great asset to our cohort over the course of mod 1.  He's regularly available for help and willing to drop what he's doing to take a look at your code.  The combination of his technical skill and patience make him someone I'll continue to ask for help, and look forward to working with in the future." -Pat W.
 
+  "Ross has been a great part of his cohort community. He has a steadfast attitude and remains calm under pressure. He asks specific questions that can be answered quickly and his logical thinking patterns have gotten stronger since I saw him come in. Ross is a quick learner and seems to really enjoy his work and be proud of his code. I can see him being a strong member of the community as the breadth of his impact continues to grow. He could work on realizing when he gets stuck in logic holes, but he has gotten better since I pointed it out" -Regis B.
+
 ## Community
+
+### Being A Community Member
 * Helped organize the 1510 Welcome Happy Hour and Information Session
 * Attended Septemeber Denver.rb Meetup
+* Helped patch a hole in the sidewalk outside, although it go stepped in multiple
+times by passersby :cry: :-1:
 
 ### Giving Feedback
   I gave honest and actionable feedback to my peers such as:
@@ -172,6 +178,8 @@ I participated in the following team projects:
   only programed for six weeks. While pairing, Pat has a way of remaining jovial and relaxed,
   yet hard-working and efficient. It is something I strive to duplicated in my next module. His
   motivation and grit are unmatched."
+
+  "Regis was more helpful than I could have imagined this module. He was always willing to drop what he was doing to help me out. Not only was he checking in on how school was going, but he was checking in on how life was going, which I really appreciated.  His attitude towards learning is motivating, and his thirst for knowledge is insatiable. There is nothing I could suggest to Regis that would improve his contribution to the community. He already goes above and beyond."
 
 ### Playing a Part
 
