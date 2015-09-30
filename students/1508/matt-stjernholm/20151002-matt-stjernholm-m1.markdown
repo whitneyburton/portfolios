@@ -10,16 +10,17 @@ While I checked the bucket that I had 50-1000 hours of programming experience co
 
 Assessed By: Andrew  
 Challenge: Highest Scoring Word  
-##### Overall Score: 3
 
-Notes:
+
+Comments:
 
 * *Very solid with use of blocks and enumerables.*
 * *Testing was good, but tended to get ahead of himself and not completely drive with testing.*
-* *Was receptive to collaboration and advice.*
+* *Was receptive to collaboration and advice.*  
 * *Is very quick and comfortable with his machine, but could make some small workflow improvements and become exponentially better.*
 
-
+* Scores:
+* Overall: 3  
 1. Ruby Syntax & API - 3
 2. Ruby Style - 3
 3. Blocks & Enumerations - 4
@@ -33,7 +34,7 @@ Missed 1/2 day on afternoon of Friday, 9/4 for a wedding, but other than that I'
 
 ### Work
 
-Below are the individual projects that I completed.  Despite banging my head against the keyboard for countless hours, I'm proud to be able to say that the hard work paid off and I didn't receive any 2's throughout module 1.
+Below are the individual projects that I completed.  I'm proud to be able to say that the hard work paid off and I didn't receive any 1's or 2's throughout module 1.
 
 #### Sorting Suite
 
