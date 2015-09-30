@@ -125,7 +125,7 @@ I was having difficulty communicating when I started getting into areas where I 
 * [GitHub URL](https://github.com/mbburch/denvestments)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-My group and I built an online local micro-lending platform. Borrowers can view and contribute to local community members seeking loans to start small business ventures. I felt like I was able to be a much stronger contributing member to this group compared to TrafficSpy. Although I was not the team lead, and tried to encourage our leader to step into that role, I ended up taking on some of the leadership, particularly around communication and goal setting. This may be my favorite group experience to date at Turing, as I feel like we communicated pretty well and paired well together. I feel like I really kept in mind the feedback I got last module, and that helped me enjoy this experience more.
+My group and I built an online local micro-lending platform. Borrowers can view and contribute to local community members seeking loans to start small business ventures. I felt like I was able to be a much stronger contributing member to this group compared to TrafficSpy. I'm enjoying TDD and getting better at rspec. Although I was not the team lead, and tried to encourage our leader to step into that role, I ended up taking on some of the leadership, particularly around communication and goal setting. This may be my favorite group experience to date at Turing, as I feel like we communicated pretty well and paired well together. I feel like I really kept in mind the feedback I got last module, and that helped me enjoy this experience more.
 
 We received the following feedback and scores:
 
@@ -139,7 +139,7 @@ We received the following feedback and scores:
 * I am excited to help out with Kids Who Code. I've gone once so far, and have met with George to talk about curriculum and planning.
 * I signed up for the young entrepreneurs gatherings next module, and am really looking forward to it.
 * I've tried, as of yet unsuccessfully, to get people out of the building and exercising with me at lunch. Hoping to get this rolling as the days get darker for sure!
-* I pitch in to keep our space clean.
+* I pitch in to keep our space clean by picking up dishes, running the dishwasher, and cleaning up after Friday breakfasts and after others.
 * I'm present for warm-up every day and actively contribute. I've started trying to organize a posse gathering outside of school with mentors and have a little interest, but need to follow through.
 
 ## Review
