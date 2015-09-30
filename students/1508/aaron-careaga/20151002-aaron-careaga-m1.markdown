@@ -12,7 +12,7 @@ I successfully completed the end of module assessment (challenge 2: reading game
 
 **Feedback:**
 
-Josh thought my Ruby syntax and style were in good form, and my code displayed no issues. I named 15 enumerables off the top of my head and eventually found the right enumerable to implement. While testing, I described the methods such that it conveyed my understanding and established clear expectations for each step of building each method. My workflow exhibited good tabbing between panes. Because of my anxiety, it took some time to wrap my head around the challenge wording but we were eventually able to get on the same page.
+Josh thought that my Ruby syntax and style were in good form, and the code displayed no issues. I named 15 enumerables off the top of my head and eventually found the right enumerable to implement for the challenge. While testing, I described the methods in a way that conveyed my understanding and established clear expectations for each step in development. My workflow exhibited good tabbing between panes. Because of my anxiety, it took some time to wrap my head around the challenge wording but we were eventually able to get on the same page.
 
 **Scores:**
 * Ruby Syntax & API: 3
