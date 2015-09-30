@@ -51,6 +51,7 @@ Reviewer: Margarett Ly
 * Ruby Style: 4
 * JS Style: 4
 ​
+
 Notes:
 * Tests have excellent coverage of edge cases for model tests.
 * Tests are clear and easy to understand. Feature tests could cover more user interface.
@@ -73,6 +74,7 @@ Reviewer: Horace Williams
 * Optimization Techniques: 2
 * Features - Pagination yes
 ​
+
 Notes:
 * Got most of the pieces in place -- pagination, DB seeding, etc
 * Load Script is ~ 75% ; missing a few more actions
@@ -115,6 +117,7 @@ This project was to learn how to build a game that is playable in the browser.
 * Fundamental JS & JS Style: 3
 * Code Sanitation (JSHint): 4
 ​
+
 Notes:
 * Solid snake app with some cool features
 * Good application of OO JS style
@@ -137,6 +140,7 @@ Reviewer: Horace Williams
 * Concept - 2
 * Deployment - 2
 * Features - 3; got basic auth and standard chat setup with multi rooms; next steps would have been to push this further
+
 
 Notes:
 * Testing seems great
