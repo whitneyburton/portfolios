@@ -53,6 +53,9 @@ Linked Lists are one of the most fundamental Computer Science data structures. A
 
 Assessed by: Sean Griffin
 
+##### Personal Notes:
+* Initially I struggled with conceptualizing how to structure the pieces of a linked list...after a couple hours of reading resources and videos I was able to piece together the parts and work through the methods. I was not able to complete 2 of the methods before the due date, and instead focused on doing the best I could on the functionality I already had.
+
 ##### Notes
 * Two base expectations missing
 * Test coverage is pretty OK, more edge cases would have been nice to see. Spent
@@ -79,7 +82,7 @@ A binary tree is built from nodes. Each node has:
 
 * A) An element of data
 * B) A link to the left. All nodes to the left have data elements less/lower than this node's data element.
-* C) A link to the right. All nodes to the right have data elementes more/greater than this node's data element.
+* C) A link to the right. All nodes to the right have data elements more/greater than this node's data element.
 
 Assessed by: Josh Cheek
 
