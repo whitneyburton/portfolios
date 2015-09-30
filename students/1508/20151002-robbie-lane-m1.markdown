@@ -37,7 +37,7 @@ For my individual projects during this module, I am most satisfied with my Night
 
 #### Night Writer
 
-* [GitHub URL](https://gitub.com/robbielane/night_writer)
+* [GitHub URL](https://github.com/robbielane/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 (description)
@@ -51,7 +51,7 @@ For my individual projects during this module, I am most satisfied with my Night
 
 #### Binary Search Tree
 
-* [GitHub URL](https://gitub.com/robbielane/binary_search_tree)
+* [GitHub URL](https://github.com/robbielane/binary_search_tree)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
 (description)
@@ -66,7 +66,7 @@ For my individual projects during this module, I am most satisfied with my Night
 
 #### Linked Lists
 
-* [GitHub URL](https://gitub.com/robbielane/linked_lists)
+* [GitHub URL](https://github.com/robbielane/linked_lists)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
 
 (description)
@@ -81,7 +81,7 @@ For my individual projects during this module, I am most satisfied with my Night
 
 #### Mastermind
 
-* [GitHub URL](https://gitub.com/robbielane/mastermind)
+* [GitHub URL](https://github.com/robbielane/mastermind)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown)
 
 (description)
@@ -101,7 +101,7 @@ For my individual projects during this module, I am most satisfied with my Night
 
 #### Headcount
 
-* [GitHub URL](https://gitub.com/robbielane/headcount)
+* [GitHub URL](https://github.com/robbielane/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 (description)
