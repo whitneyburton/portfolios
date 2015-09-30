@@ -176,3 +176,7 @@ I participated in the following team projects:
 ### Playing a Part
 
 During the Headcount project, my partner and I wrote 5 of the tests for the analysis methods that had not yet been written in the spec harness. We then helped our fellow classmates to pass the tests we had written, and submitted a pull request to update the spec harness. During the last week, Echo didn't have a ton of work. I spent a large amount of my time helping Foxtrot students to finish headcount.
+
+Also I made this for Josh!
+
+![SIB logo](/Users/rossedfort/Pictures/SIB Walrus/SIBWalrus2.png)
