@@ -172,6 +172,8 @@ still caring a lot about the project. He didn't seem afraid to share ideas at al
 
 “Torie has been a great classmate and teammate for the entirety of our first module.  She was always willing to lend  helping hand when I had questions on things that she’d already figured out, and she was always patient and thorough with her explanations.  I was lucky enough to have Torie as a partner for multiple pairing exercises and one team project.  Her positive attitude and kind demeanor were always fun to be around, and I learned a great deal from her each time we’ve paired.  I’ve seen her act in this capacity, not only for me, but for many others in 1508 -- we’re lucky to have her!"
 
+"Torie is one of the most, if not the most impressive people in our cohort. She is a strong and quiet leader, and inspires us by the example she sets. Her combination of her aptitude, drive, curiosity and humility makes it hard to picture a ceiling for her potential. She's kind and considerate on top of all of this, which is perhaps most rare."
+
 ### Playing a Part
 
 Turing events:
