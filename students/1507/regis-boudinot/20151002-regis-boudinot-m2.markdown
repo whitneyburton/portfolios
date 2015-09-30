@@ -91,11 +91,12 @@ fashion on a website powered by Sinatra.
 
 * I actively went out of my way to help Module 1 students to not only give
 back my knowledge but to also keep up to date on my Ruby.
-* On Monday, July 27th, I held a student led session on GNU/Linux and how to
-mimic a DevOps environment. I also demonstrated how to customize a basic Linux
-distro and how to get Ruby, Node, and Rails.
-* On Friday, July 3rd, I performed well on giving my lightning talk about
-Nuclear Fusion.
+* On Friday, August 24th, I held a student led session on GNU/Linux and how to
+mimic a DevOps environment. I gave instructions and how to setup a VM and boot
+linux in a Virtual Box Machine. I also demonstrated how to customize a basic
+Linux Distro and how to get Ruby, Node, and Rails.
+* On Friday, September 25th, I performed well on giving my lightning talk about
+Nuclear Fusion. People seemed very interested in hearing more about the topic.
 
 ## Review
 
