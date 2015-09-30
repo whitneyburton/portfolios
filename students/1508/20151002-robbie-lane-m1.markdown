@@ -107,8 +107,6 @@ Evaluated by Tess Griffin
 
 ### Projects
 
-(Intro)
-
 #### Http Yeah You Know Me
 
 * [GitHub URL](https://github.com/robbielane/webserver)
