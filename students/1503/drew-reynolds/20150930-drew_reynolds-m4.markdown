@@ -28,6 +28,7 @@ Notes:
 * Tests look good; good use of integration tests for high-level coverage; keep looking for logic to push into model layer and at the same time include in unit tests
 * Map code ends up real simple and easy
 ​
+
 ### Attendance
 ​
 This module I attended all days and classes on-time.
@@ -58,6 +59,7 @@ Notes:
 * Excellent code quality, code is very clear, concise, and clean across the board.
 * I like your use of rails helper methods and gems. App is very easy for users to navigate and the interface is very intuitive.
 ​
+
 #### Scale Up
 ​
 Reviewer: Horace Williams
@@ -91,6 +93,7 @@ Reviewer: Horace Williams
 * Testing: 2
 * UI: 4
 ​
+
 ## Team
 ​
 ### Projects
@@ -118,6 +121,7 @@ Notes:
 * Testing needs some work - really a symbiotic problem between code and test; too many things relying on DOM/canvas
 * Might be interesting to experiment with a totally separate renderer function or object which slurped those things out of the other objects
 ​
+
 #### Flack
 ​
 Reviewer: Horace Williams
@@ -144,6 +148,7 @@ Notes:
 * Got lots of practice with node
 * interesting use of rails-side rendering to distribute html partials to chat participants
 ​
+
 ## Community
 ​
 ### Giving Feedback
@@ -153,6 +158,7 @@ From others:
 * Drew has matured so much over his time at Turing
 * Drew is one of those guys that adds to the group. His charisma and eagerness to collaborate (or collaborave?) to the group provides an awesome group dynamic. 1503 wouldn’t be the same without its little Drewby.
 ​
+
 ### Playing a Part
 ​
 * Volunteered for Xcel Energy representing Turing School with Dave Maurer & Tan Doan [Recap Video](https://www.youtube.com/watch?v=OHNA3VmzxoQ)
