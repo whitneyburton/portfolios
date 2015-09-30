@@ -33,7 +33,7 @@ During this module I have had perfect attendance and have never been tardy.
 
 ### Work
 
-For my individual projects during this module, I am most satisfied with my Night Writer and my Mastermind. I thoroughly enjoyed both these projects and feel like i excelled. For Mastermind I completed some of the extensions and also felt my algorithm was well executed. I feel similar for Night Writer, but I think I did really well with TDD on this project.
+For my individual projects during this module, I am most satisfied with my Night Writer and my Mastermind. I thoroughly enjoyed both these projects and feel like I excelled. For Mastermind I completed some of the extensions and also felt my algorithm was well executed. I feel similar for Night Writer, but I think I did really well with TDD on this project.
 
 #### Night Writer
 
@@ -151,7 +151,7 @@ Feedback:
 
 ### Playing a Part
 
-During my first module, my biggest contribution to the community was a constant willingness to help others in my cohort. I frequently like to ask others how their projects are going and if there is anything i can do to help. In addition, I frequent the smokers stoop and am always willing to listen to people complain. I also do my part with cleaning -- putting dishes in the dishwasher and maintaining the often breaking tables in classroom A.
+During my first module, my biggest contribution to the community was a constant willingness to help others in my cohort. I frequently like to ask others how their projects are going and if there is anything I can do to help. In addition, I frequent the smokers stoop and am always willing to listen to people complain. I also do my part with cleaning -- putting dishes in the dishwasher and maintaining the often breaking tables in classroom A.
 
 ## Review
 
