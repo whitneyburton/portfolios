@@ -1,66 +1,169 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Charissa Lawrence - (M1) Portfolio
 
 ## Individual
 
 ### Your Mission
 
-(What did you set out to accomplish this module?)
+My mission for this module was to become re-familiarized and comfortable with the process of programming and to also re-ignite the fire i used to feel from building things with code and the satisfaction that comes when the program works.  It has not been easy, but every day I get a little bit closer to feeling like a programmer and I feel validated that I made the best decision I could have made by coming to Turing.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+I missed the first half of a friday on Sept 25th. I had been up late every night that week working on headcount, and felt very unwell that morning. I did make it in by noon and had my one-on-one check-in with Mike.
 
 ### Work
 
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+Thoughts on teamwork:
+I have always had a very independent personality, so working with a pair is an unfamiliar concept to me.  At first, even though I consider my partner (Shannon) a friend, I did find it difficult.  I just wasn't used to talking my ideas outloud.  I knew how to work when it is just me, but I did not know how to communicate that process to a partner.  The fantastic thing was that, because Shannon is independent as well, we had a mutual understanding that this needed to be addressed.  We found ways to divide tasks equally and then come together to solve the big problems. I am looking foward to improving my group communication further.
 
 ## Team
 
-### Projects
+#### HEADCOUNT
 
-(Intro)
+* https://github.com/ShannonPaige/headcount
+* https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown
 
-#### (Project Name)
+(description)
 
-* [GitHub URL]()
+1. Overall Functionality - Score: 4
+"Passes the test harness, minus small changes that changed at the last changeable moment!"
+2. Fundamental Ruby & Style - Score: 3
+"Play with the enumerables until you can think in them :)""
+3. Test-Driven Development - Score: 3
+"Test harness passes, as of what was available yesterday
+Their tests pass"
+4. Breaking Logic into Components - Score: 4
+"Translates the CSV data into data that makes sense for the objects we're working with"
+"The instances know nothing about CSVS"
+
+#### HTTP_Yeah_You_Know_Me
+* https://github.com/cminnerath/http_yeah_you_know_me
 * [Original Assignment]()
 
 (description)
 
-(evaluation comments)
+1. Overall Functionality - Score: 3
+2. Test Driven Development - Score: 3
+3. Code Sanitation - Score: true
+4. Adoration Points - Score: none
+5. Knowledge Retention - Score: Both members got 10/10
 
-(evaluation scores)
 
-(feedback to me)
+### Projects
+
+My first projects were not pretty.  Algorithmically, I had been able to solve the hard tasks such as recursive sorting, prepending and appending in linked lists, and and finding a given value in a binary search tree. However, my tests were sloppy to non-existent.  I think that having a background in programming actually hurt me here, because I had never been taught how to program using the TDD philosopy.  This was a hard habit to learn how to break.  But now, I will never go back.  I absolutely see the advantages to programming this way.
+The first project that I was proud to turn in was Night Writer. Although I had not completed the last part of the project which was to decrypt the message to an output file, I had approached to project completely differently.  I wrote my tests first and built a solid foundation with clean code. I remember Josh's last comment to me on this eval was "All around, tremendous improvment".
+In conclusion, I love these challenges. This is why I came to Turing.
+
+#### Night_Writer
+
+* https://github.com/JaggedLaw/NightWriter
+* [Original Assignment]()
+
+(description)
+
+1. Overall Functionality - Score: 2
+  "Encrypted, but did not Decrypt"
+  4: Application follows the complete spec and two extensions
+  3: Application converts to Braille and back successfully
+  2: Application only converts to Braille or from Braille
+  1: Application generates errors or crashes during normal usage
+2. Fundamental Ruby & Style - Score: 3
+  Ifs / Case statements
+    You can use case statements to simplify complex if statements,
+    Before:
+    string.each {|x|
+      if x ==('k')||x ==('l')||x ==('m')||x ==('n')||x ==('o')||x ==('p')||
+         x ==('q')||x ==('r')||x ==('s')||x ==('t')
+        line3 << "0."
+      elsif x ==('u')||x ==('v')||x ==('x')||x ==('y')||x ==('z')
+        line3 << "00"
+      elsif x ==('d')||x ==('e')||x ==('n')||x ==('o')||x ==('y')||x ==('z')||x ==('w')
+        line3 << ".0"
+      elsif x ==('a')||x ==('b')||x ==('c')||x ==('d')||x ==('e')||x ==('f')||x ==('g')||x ==('h')||x ==('i')||x ==('j')
+        line3 << ".."
+      elsif x ==(' ')
+        line3 << "  "
+      else
+        line3 << "#{x}#{x}"
+      end
+    }
+    After:
+    string.each { |char|
+      case char
+      when /[klmnopqrst]/ then line3 << "0."
+      when /[uvxyz]/      then line3 << "00"
+      when /[denoyzw]/    then line3 << ".0"
+      when /[abcdefghij]/ then line3 << ".."
+      when ' '            then line3 << ".."
+      else                     line3 << "#{x}#{x}"
+      end
+    }
+Block style
+  "Generally, use {} for inline and do end for multiline blocks."
+  "Indent things within pairs"
+  "Keep it correct all the time, it will make everything easier as you go. You can use Command+[ to decrease indentation, and Command+] to increase it"
+Choosing names
+  "Choose plural names for collections (capital_indexes over capital_index)"
+3. Test-Driven Development - Score: 2
+Tests pass
+  "I can break the code (delete some characters, and the tests pass)"
+4. Breaking Logic into Components - Score: 3
+"Prefer local variables over instance variables"
+
+#### Binary_Search_Tree
+  * https://github.com/JaggedLaw/BinarySearchTree
+1. Functional Expectations - Score 3: Application fulfills all base expectations
+2. Test-Driven Development - Score 3: Application is well tested but does not balance isolation and integration tests, using only
+  the data necessary to test the functionality
+3. Encapsulation / Breaking Logic into Components - Score 3: Application effectively breaks logical components apart but breaks
+  the principle of SRP
+4. Fundamental Ruby & Style - Score 3: Application shows strong effort towards organization, content, and refactoring
+5. Enumerable & Collections - Score 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+
+#### Linked_Lists  
+  * https://github.com/JaggedLaw/Linked_Lists
+1. Functional Expectations - Score: 1: Application is missing more than one base expectation
+"Missing several base expectations"
+2. Test-Driven Development - Score: 2: Tests pass
+"Coverage is low"
+3. Encapsulation / Breaking Logic into Components - Score: 3: No issues
+4. Fundamental Ruby & Style - Score: 4 Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+5. Looping or Recursion - Score: 3: Application makes effective use of loop/recursion techniques
+
+#### Sorting_Suite
+* https://github.com/JaggedLaw/sorting-suite
+1. Functional Expectations - Score: 2 Two sort classes work as expected
+  "Completed insertion sort and in place insertion sort (extension), not bubble or merge.""
+2. Testing - Score: 1
+  "No tests"
+3. Ruby Style - Score: 3 Adheres to the style guide unless you can defend a deviation
+  "Correct indentation, the style didnt annoy me.""
+4. Organization - Score: 2 A file/directory structure provides basic organization via lib/ and spec/ or /test
+  "The community has settled on snake_case for filenames, not camelCase
+  Each sort has its own file
+  Files are in lib"
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+I knew that Turing was going to be challenging with a lot of work.  I just didn't know it would be THIS challenging and involve many, many late nights.  It has been a humbling experience for me to realize that i am not as natural at this as I thought I would be. However, I appreciate why this is. Turings standards are extremely high.  While the algorithmic part of the curriculum is as I expected, Turing is much more than that. I have learned Test Driven Development, a myriad of ways to debug, and how to work in a group.  These are qualities that I did not possess and have been harder to learn, but I am thankful for them because I know that these are what will set me apart from other "STEM" programmers in the field.
 
 ### Being a Community Member
 
-(feedback to me)
+Feedback from Chad
+Charissa - A clear communicator and very easy to work with in general, Charissa's high-level problem solving skills are readily apparent when pairing and mitigate difficulties in project management.  Someone who I would not hesitate to pair with again on any project, large or small, due in no small part to a fantastic attitude.
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
+LGTB Group:
+  Sekhar and I started a Turing group for LGTB students and allies.  Given the tragic history of Turings namesake, I believe that this is a necessity for a school that is as foward-thinking and unbiased as Turing is.
+General participation
+  Fortunately, I love my modules group dynamic, so playing a part in the general positive vibe has been easy and fun. I have taken many oportunities to get to know my classmates outside of class, which I think plays a big part in the collective attitude that we will all get through this together!
 
 ## Review
 
