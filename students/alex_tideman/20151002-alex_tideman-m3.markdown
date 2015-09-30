@@ -11,7 +11,7 @@ I also was interested in starting to grasp Javascript/AJAX/JQuery and I spent a 
 ### Attendance
 
 This module I attended all days and classes on-time with the exception of an
-absence on Friday, September 4th and Friday, August 7th.
+absence on Friday, September 4th.
 
 ### Work
 
@@ -22,6 +22,13 @@ I completed the following individual work this module:
 GitHub: http://www.github.com/Alex-Tideman/effortful
 Production: https://be-effortful.herokuapp.com
 
+* Completion:
+* Organization:
+* Technical Quality:
+* Test-Driven Development:
+* Code Quality:
+* User Experience:
+* Performance:
 
 
 #### Rales Engine
@@ -81,18 +88,19 @@ Production: http://collectors-world.herokuapp.com
 ### Feedback to Me
 
 
-
 ## Community
 
-* I try to help whenever I can with coding problems, especially with 1505. I would like to be more involved in Community Outreach next module.
+* I was a member of the Student Advisory Board that met every Thursday to discuss the happenings of Turing and to understand how we can make Turing a better place.
+* I was a member of the Friday Outreach group that visited a handfull of non-profits and NGOs to better understand the communities issues and to listen to how technology could improve their members.
+* My personal project is a product that can directly help those in need in our community. I am really proud of it and want to further improve it.
 
 ### Giving Feedback
 
-* Gave feedback to all members of TrafficSpy group
-* Gave feedback to all members of Endangerous Outfitters group
+* Gave feedback to all members of The Pivot group
+* Gave feedback to every person in my cohort.
 
 ### Playing a Part
 
-* On Friday, July 17, I delivered a lightning talk "Bolide Detection Systems"
-* Every morning I assisted with my Posse mates on the warmup problems
-* On the week of July 20th, I paired with 1507 groups on their Linked List project
+* Every morning I assisted with my Posse mates on the warmup problems and helped out with any of their projects when needed.
+* Any time I stayed late I would seek out someone to help or offer advise on how to approach their project.
+* On Friday, September 25, I delivered a lightning talk "Immersive Journalism with VR"
