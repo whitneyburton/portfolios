@@ -246,3 +246,19 @@ Sally, Justin, and Drew solicited me for feedback and I was happy to provide it.
 * On Friday, July 18, I organized (in conjunction with Jamie Kawahara) a Turing field day for students and staff
 * Throughout the duration of the module I participated in Student Advisory Board, providing
 feedback to the staff on improving Turing. I attended all meetings and actively contributed throughout.
+
+
+## Review
+
+### Notes
+
+* Accomplished meeting many of current Turing community and being known throughout. Was a very good influence and model for the turing student body. 
+* 
+
+### Outcome
+
+* Assessment: 4
+* Individual: 
+* Group: 
+* Community: 
+* Feedback: 
