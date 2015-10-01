@@ -32,9 +32,15 @@ I completed the following individual projects this module:
 
 In this 2 week project I built a website that allows users to log in/authenticate with facebook and then add any stocks they are interested in to their "watchlist." When a stock is added, StockWatcher pulls data from the Markit On Demand API and displays it to the user, but also runs calculations on the data to provide a conclusion on the long-term and short-term trend of the stock's performance. It then uses these trends to issue a recommendation for each stock on a user's list, telling the user when to buy, sell, or hold. A user can also decide to "purchase" a stock, in which case the app records the purchase price and quantity purchased and tracks the profit and loss of the user's portfolio over time.
 
-Evaluation comments:
+Evaluation comments: Trying to tackle the stock market was a bold move. Because the web scraper used in the project takes a while it would be best to have it run in the background to (or at least appear to) cut down on loading times when a new stock is added.
 
 Evaluation scores:
++ Completion: 3
++ Organization: 3
++ TDD: 4
++ Code quality: 3
++ User experience: 3
++ Performance: 3
 
 #### API Curious - "Git It & Quit It"
 
