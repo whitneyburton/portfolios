@@ -83,6 +83,10 @@ Bret & Travis & Rose & Mimi
 * Usability: 4: Project is highly usable and ready to deploy to customers
 * Workflow: 4: Excellent use of branches, pull requests, and a project management tool.
 
+#### Feedback from Travis
+
+"Mimi is an industrious and extremely capable team member. Her ability for deciphering and picking apart complicated problems was a major asset on our team. Specifically, she is a refactoring guru and did wonders with some functional but very questionable methods I code vommitted into a create method in one of our controllers. She was very flexible over the course of the project and also very diligent with her workflow and being a team player when trying to resolve conflict within the group. I don’t really have any areas for improvement for Mimi, I think she is well rounded and very capable. I would love to work on a project with Mimi again."
+
 #### Playing a Part
 
 I've participated in the larger Turing Community in the following ways:
