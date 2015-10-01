@@ -23,7 +23,23 @@ I missed half a day due to my brother having a freak seizure accident where I we
 
 ### Work  
 
-#### (Enigma)
+#### (Headcount)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+Headcount was a project where we accessed data related to Colorado education and interpreted it,
+
+Assessed by Tess
+
+  Warned them about the bad habit of not breaking out classes into separate files
+  Focused on the test harness once they realized that it was a thing. Their own tests suffered as a result
+
+  * Overall Functionality: 3 - Completes the Data Access Layer
+  * Enumerables: 2
+  * Fundamental Ruby & Style: 2 - Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant    refactoring
+  * Test Driven Development: 2 - If I edit the code to be broken, then a test fails (in other words, the tests prove that the code is correct by failing when I add bugs to the code)
+  * Breaking Logic into Components: 3 - Application has multiple components with defined responsibilities but there is some leaking of responsibilities + 1 from influence point
 
 * [GitHub URL](https://github.com/marlomajor/Enigma)
 * [Original Assignment](http://tutorials.jumpstartlab.com/projects/enigma.html)
