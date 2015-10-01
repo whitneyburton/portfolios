@@ -11,7 +11,7 @@ awesome place where, incredibly, I've really liked everyone.
 
 ### End of Module Assessment
 
-For my end of Module assessment I tested with Josh and received the Scrabble Playey class
+For my end of Module assessment I tested with Josh and received the Scrabble Player class
 as my challenge.
 
 Feedback:
@@ -111,20 +111,18 @@ Looping or Recursion: 3
 
 ### Projects
 
-(Intro)
+I paired with Aaron, Matt, and John for my projects
 
 #### Enigma
 
 * [GitHub URL](https://github.com/edgarduran/enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-(description)
+Built a program that encrypted, decrypted, and cracked secret text based on secret keys.
 
 Notes: Overall pretty clean code. Tests could be a little more descriptive and investigative. Overuse of instance variables. Had SRP classes, but did not follow corresponding file structure. Had runner files.
 
 Evaluated By: Andrew
-
-
 * Overall Functionality: 4
 * Fundamental Ruby & Style: 3
 * Test-Driven Development: 3
