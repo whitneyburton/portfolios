@@ -10,7 +10,12 @@ Throughout the module I also referenced various tutorials (w3 schools, treehouse
 
 ### End of Module Assessment
 
-(Placeholder)
++ Completion: 3
++ Organization: 3
++ TDD: 4
++ Code quality: 3
++ User experience: 3
++ Performance: 3
 
 ### Attendance
 
