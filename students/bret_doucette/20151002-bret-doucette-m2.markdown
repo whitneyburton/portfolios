@@ -159,7 +159,7 @@ The Good
 
 * Building the site was a blast and we did extremely well on our review.
 * Learning some front-end Javascript and styling. Learning new Active Record queries.
-* Learning a lot of new things on my own.
+* Learning Rails topics on my own.
 
 The Bad
 
@@ -191,7 +191,7 @@ TO BE DONE SOON
 
 ### Giving Feedback
 
-After both group projects, we had group retros where we discussed the highs and lows of the project. During these periods I gave the feedback.
+After our first group project, we had group retros where we discussed the highs and lows of the project. During these sessions, I gave the feedback.
 
 ### Playing a Part
 
@@ -201,7 +201,7 @@ After both group projects, we had group retros where we discussed the highs and 
 
 * Organized a Friday talk with Stewart Fortier, CTO of MassRoots.
 
-* Gave two lightning talks to work on my public speaking skills.
+* Gave two lightning talks on the fun world of travel credit cards.
 
 ## Review
 
