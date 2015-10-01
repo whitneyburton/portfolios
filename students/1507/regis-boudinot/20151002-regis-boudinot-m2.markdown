@@ -77,7 +77,7 @@ Feedback:
 
 #### Little-Shop-Of-Orders
 
-### Dad Jokes
+##### Dad Jokes
 ​
 Assessor: Mike
 
@@ -85,7 +85,6 @@ Notes:
 ​
 * It actually tells me dad jokes.
 * Cannot update items
-* Cannot upload images for new items.
 * You can apply any joke to any item.
 * 127 tests
 * 97.5 percent coverage
