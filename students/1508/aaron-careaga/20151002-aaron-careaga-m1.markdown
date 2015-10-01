@@ -130,9 +130,11 @@ Matt Rooney and myself built a data analysis suite to help policymakers and the 
 
 **Scores:**
 * Overall Functionality:
+* Enumerables:
 * Fundamental Ruby & Style:
 * Test-Driven Development:
 * Breaking Logic into Components:
+* Code Sanitation:
 
 **Feedback:**
 
