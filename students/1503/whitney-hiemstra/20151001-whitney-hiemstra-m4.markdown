@@ -27,23 +27,33 @@ work time in the afternoon.
 
 ### End of Module Assessment
 
-Reviewer: ???
+__Student:__ Whitney
 
-* [Github URL](https://github.com/whithub/goober)
-* [Original Assessment](https://github.com/turingschool/challenges/blob/master/goober.markdown)
+__Instructor:__Mike
 
-* Satisfactory Progress: 4
-* Ruby Syntax & Style: 4
-* Rails Style & API: 4
-* Testing: 4
-* User Interface: 4
-* Javascript (if applicable) 4
+__Repo:__http://github.com/whithub/goober
 
-Notes:
-*
-*
-*
-*
+__Production URL:__whithub-goober.herokuapp.com
+
+__Notes:__
+
+* Did updating in real time supporting feature.
+* Good looking page,
+* 53 tests 94.24%  percent coverage
+* good testing of edge cases in model tests
+* used aasm state machine
+* Some minor holes in testing.
+
+
+__Evaluation:__
+
+1. Satisfactory Progress (1-4) 3
+2. Ruby Syntax & Style (1-4) 3
+3. Rails Style & API (1-4) 3
+4. Testing (1-4) 3
+5. User Interface (1-4) 4
+6. Javascript (if applicable) (1-4) 3
+
 
 ### Work
 
