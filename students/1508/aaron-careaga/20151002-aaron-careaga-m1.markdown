@@ -105,8 +105,7 @@ Penney Garrett and myself built an enigma program that encrypted, decrypted, and
 
 **Notes:**
 * Tests could be more robust. Example - used a lot of refute or assert instead of assert_equal when appropriate. This was due to some random nature of some of the elements. Could have focused on some more edge cases and different scenarios.
-* Variable and method naming was strong.
-* Cracked encrypted text with good speed.
+* Variable and method naming was strong. Cracked encrypted text with good speed.
 
 **Scores:**
 * Overall Functionality: 4
@@ -123,7 +122,7 @@ Penney Garrett: "Aaron was a great partner for Enigma. He is excellent at breaki
 * [GitHub URL](https://github.com/acareaga/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-Matt Rooney and myself built a data analysis suite to help policymakers and the public better understand education statistics in Colorado. Our project was evaluated by _______.
+Matt Rooney and myself built a data analysis suite to help policymakers and the public better understand education statistics in Colorado. Our project was evaluated by Andrew Carmer.
 
 **Notes:**
 (notes) NEED TO ADD INFO ON THURSDAY
