@@ -32,7 +32,7 @@ I attended all days of class with the exception of an excused and communicated a
 
 ### Team Projects
 
-I participated in the following team projects:
+I completed the following team projects:
 
 #### Traffic Spy
 
