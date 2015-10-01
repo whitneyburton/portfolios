@@ -10,13 +10,14 @@ I entered this module with a strong finish to the previous one. My goal was to g
 
 My progress through the module was assessed by Tess and the results follow:
 
-""
+Took the scorekeeper challenge
 
-* Satisfactory progress 
-* Ruby styniax and style 
-* Rails style and api 
-* Testing 3.5
-* User interface 3
+Analytic/Algorithmic Thinking: 4
+Ruby Syntax & Standard Library: 3
+Rails Syntax & API: 4
+Rails Style: 4
+Testing: 3
+Collaboration 3
 
 ### Projects
 
@@ -56,12 +57,6 @@ Sinatra / Web and Business Logic: 3
   This project was a lot of fun. Our group of four was tasked to build an e-commerce site, where a user can add items to a cart and check out. There is also additional Admin functionality, use of 3 different APIs and front-end that isn't too bad. This project was fun, because the technical challenges weren't demoralizing, and yet, we put in a lot of good work. 
 
 
-  * Production Performance: 
-  * Load Testing: 
-  * DB Scale: Check
-  * Testing: 
-  * Code Quality: 
-  * Additional Features: 
 
 ##### My Contribution
 
@@ -76,8 +71,11 @@ I was the team lead for this project. I set a very general scope and path for us
 
 ## Community
 ### Giving Feedback
-?
+
+  I did my best to give insightful feedback to my peers, highlighting both what they do best and what they can improve on. I make a strong effort to err on the harsher side while providing criticism so that people who want to change for the better have material to work off of.
 
 ### Playing a Part
 
-  I emptied and refilled ~5 dishwashers this module. Not too bad, but not as good as last module. I helpled out a 1508 student on several occasions in the first few weeks. I addented DSA a few times. I brought breakfast the second-to-last friday for the school. I gave a pretty cool lightning talk about cheese. Will do another in the same style next module.  Also helped lead a student session with Jusint Holzmann.
+  I emptied and refilled ~5 dishwashers this module. Not too bad, but not as good as last module. I helpled out a 1508 student on several occasions in the first few weeks. 
+I addented DSA a few times. I brought breakfast the second-to-last friday for the school. I gave a pretty cool lightning talk about cheese.
+ Will do another in the same style next module.  Also helped lead a student session with Jusin Holzmann.
