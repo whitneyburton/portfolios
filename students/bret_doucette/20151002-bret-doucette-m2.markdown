@@ -20,32 +20,43 @@ Notes:
 * some trouble with ruby
 * used ruby in controller to sort words, would like to have seen
 * ruby was a bit rusty, needs to review and practice more
-
-the heavy lifting done with ActiveRecord
+* the heavy lifting done with ActiveRecord
 
 1. Analytic/Algorithmic Thinking
 
-3: Developer breaks complex problems into small, digestible steps and executes them
+* Score 3
+
+Developer breaks complex problems into small, digestible steps and executes them
 
 2. Ruby Syntax & Standard Library
 
-3: Developer is able to comfortably implement solutions in Ruby
+* Score 3
+
+Developer is able to comfortably implement solutions in Ruby
 
 3. Rails Syntax & API
 
-3: Developer is able to utilize Rails methods and structures, but needs some direct guidance
+* Score 3
+
+Developer is able to utilize Rails methods and structures, but needs some direct guidance
 
 4. Rails Style
 
-3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+* Score 3
+
+Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
 
 5. Testing
 
-3: Developer uses tests at multiple layers of abstraction to drive development
+* Score 3
+
+Developer uses tests at multiple layers of abstraction to drive development
 
 6. Collaboration
 
-4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+* Score 4
+
+Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ### Attendance
 
@@ -53,7 +64,7 @@ This module I only missed one day due to my sister's wedding.
 
 ### Work
 
-In module two, I completed the following individual work this module:
+In module two, I completed the following individual wor:
 
 #### Robot World
 
@@ -65,8 +76,8 @@ In this weekend assignment, I used Sinatra to built a basic CRUD application whe
 
 #### Idea Box
 
-* [GitHub URL](https://github.com/bad6e/idea_box)
 * [Website](http://gotanidea.herokuapp.com/)
+* [GitHub URL](https://github.com/bad6e/idea_box)
 * [Original Assignmentt](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
 **Description**
@@ -125,6 +136,7 @@ Notes:
   * 275 assertions, test coverage was 98 percent 65 tests
   * Design was clean
   * Worked as advertised.
+
 Rubic:
   * Functional Expectations: 3
   * Test-Driven Development: 3
@@ -142,6 +154,7 @@ Pease - "It was impressive watching Bret work during Traffic Spy.  His ability t
 
 #### Earmarked
 
+* [Website](http://earmarked.herokuapp.com/)
 * [GitHub URL](https://github.com/TeamConchord/earmarked)
 * [Original Assignment Guideline](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown)
 
@@ -191,7 +204,7 @@ TO BE DONE SOON
 
 ### Giving Feedback
 
-After our first group project, we had group retros where we discussed the highs and lows of the project. During these sessions, I gave the feedback.
+After our first group project, we had group retros where we discussed the highs and lows of the project. During this session, I gave feedback.
 
 ### Playing a Part
 
