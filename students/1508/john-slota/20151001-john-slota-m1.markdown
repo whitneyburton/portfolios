@@ -154,10 +154,11 @@ evaluations of each project or a clearly upward-sloping trend.
 A Turing student contributes significantly to group projects, helps the team
 develop their technical skills, and delivers a high-quality product.
 
+Provisional
 
-* 3: Student fully participates in their group work to facilitate group harmony
-while achieving consistently satisfactory results.
-
+* 2: Student participates somewhat in their group work but is either not a
+dependable member of the team or achieves consistently sub-par work.
+ 
 ## D: Community Participation
 
 A Turing student builds up the community around them by participating and
