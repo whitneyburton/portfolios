@@ -36,11 +36,12 @@ I participated in the following team projects:
 
 #### Traffic Spy
 
+  * repository: https://github.com/travishaby/traffic_spy
+  * group_discussion_notes: https://gist.github.com/travishaby/c873b65c804095812f23
+
 ###### Summary
 
-  * repository: https://github.com/travishaby/traffic_spy
   * setup_notes: N/A
-  * group_discussion_notes: https://gist.github.com/travishaby/c873b65c804095812f23
   * instructor_evaluation: Josh M.
 
 ###### Scores
