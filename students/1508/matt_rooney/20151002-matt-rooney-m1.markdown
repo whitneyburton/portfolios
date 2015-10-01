@@ -4,16 +4,16 @@
 
 ### Your Mission
 
-In Module 1, I set out to build a solid foundation in Ruby and programming concepts. I've seen firsthand the pitfalls of being self-taught and came here intending to avoid a lifetime of hacking through code. So rather than falling behind in Echo, I made the switch to foxtrot and I'm happy with that decision. 
+In Module 1, I set out to build a solid foundation in Ruby and programming concepts. I've seen firsthand the pitfalls of being self-taught and came here intending to avoid a lifetime of hacking through code. So rather than falling behind in Echo, I made the switch to foxtrot and I'm happy with that decision.
 
 ### End of Module Assessment
 
-Ruby Syntax & API - 3
-Ruby Style - 3
-Blocks & Enumerations - 3
-Testing - 3
-Workflow - 3
-Collaboration - 3
+* Ruby Syntax & API - 3
+* Ruby Style - 3
+* Blocks & Enumerations - 3
+* Testing - 3
+* Workflow - 3
+* Collaboration - 3
 
 ### Attendance
 
@@ -32,11 +32,11 @@ I feel like I really hit my stride with this project. I had a lot of fun buildin
 
 33 tests, two skipped. Good use of recursion. Some parts need to be DRYed. Some longer methods with code that can be pulled out into separate methods. - Mike
 
-Functional Expectations: 3
-Test-Driven Development: 3
-Encapsulation/Breaking Logic into Components: 3
-Fundamental Ruby and Style: 3
-Looping or Recursion: 4
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation/Breaking Logic into Components: 3
+* Fundamental Ruby and Style: 3
+* Looping or Recursion: 4
 
 #### Chisel
 
@@ -45,10 +45,10 @@ Looping or Recursion: 4
 
 Chisel was a frustrating project for me. In this project I attempted to build a parser that would parse markdown files and output html. I felt like I was making good progress starting at the bottom and working my way up, but when I needed to pull it all together, my functionality fell apart.
 
-Fundamental Ruby & Style: 3
-Test-Driven Development: 2
-Functionality: 1
-Breaking Logic into Components: 2
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 1
+* Breaking Logic into Components: 2
 
 #### Sorting Suite
 
@@ -56,10 +56,10 @@ Sorting Suite was an Echo trial by fire. In this project I tried to create a sor
 
 Notes: Some long methods, Merge sort did not work, no testing - Mike
 
-Functional Expectations: 2
-Testing: 1
-Ruby Style: 3
-Organization: 2
+* Functional Expectations: 2
+* Testing: 1
+* Ruby Style: 3
+* Organization: 2
 
 
 ## Team
@@ -77,12 +77,10 @@ I participated in the following module 1 group projects:
 
 Overall pretty clean code. Tests could be a little more descriptive and investigative. Overuse of instance variables. Had SRP classes, but did not follow corresponding file structure. Had runner files. - Andrew
 
-Overall Functionality - 4
-Fundamental Ruby & Style - 3
-Test-Driven Development - 3
-Breaking Logic into Components - 4
-
-(feedback to me)
+* Overall Functionality - 4
+* Fundamental Ruby & Style - 3
+* Test-Driven Development - 3
+* Breaking Logic into Components - 4
 
 #### Headcount
 
