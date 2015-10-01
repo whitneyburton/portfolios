@@ -4,7 +4,9 @@
 
 ### Your Mission
 
-In Module 1, I set out to build a solid foundation in Ruby and programming concepts. I've seen firsthand the pitfalls of being self-taught and came here intending to avoid a lifetime of hacking through code. So rather than falling behind in Echo, I made the switch to foxtrot and I'm happy with that decision.
+My mission at Turing is to build an incredibly solid foundation in Ruby, Rails and thinking like a programmer. I want to focus on finding my most efficient learning process as well as identifying my deficiencies and taking action to eliminate them. All in all, I want to leave Turing with a valuable skill-set that I can use to build a career and life of interesting work and autonomy.
+
+In Module 1, I set out to build a solid foundation in Ruby and programming concepts. I've seen firsthand the pitfalls of being self-taught and came here intending to avoid a lifetime of hacking through a career in development. So rather than falling behind in Echo, I made the switch to foxtrot and I'm happy with that decision. I've tried to focus on learning what I don't know, rather than reinforcing what I do know. I strongly believe that my work in module 1 has set me up for success in the remaining modules.
 
 ### End of Module Assessment
 
@@ -73,7 +75,7 @@ I participated in the following module 1 group projects:
 * [GitHub URL](https://github.com/edgarduran/enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-(description)
+Enigma was definitely the most fun out of all the module 1 projects. In this project Edgar and I built an encryption/decryption program based on rotating through a character map. We also wrote a program to crack the code given the last six characters of the message. Taking a top down TDD approach and starting off by building all of the programs on paper and cracking codes by hand set me up well for understanding every element of the project.
 
 Overall pretty clean code. Tests could be a little more descriptive and investigative. Overuse of instance variables. Had SRP classes, but did not follow corresponding file structure. Had runner files. - Andrew
 
@@ -119,10 +121,7 @@ I also gave the following shout-outs in the September 15th Turing Posse Post: "S
 
 ### Playing a Part
 
-Joined the 1510 Party Planning Committee and will be attending the 1510 Intro Workshop on Oct. 8th.
-Joined the Music slack channel and hope to contribute to the podcast's theme song in the coming weeks.
-Present and happy to collaborate on daily warmups.
-I hope to contribute more in the future as I gain confidence in my programing skills.
+I joined the 1510 Party Planning Committee and will be attending the 1510 Intro Workshop on Oct. 8th. I also joined the Music slack channel and hope to contribute to the podcast's theme song in the coming weeks. I'm always present and happy to collaborate on daily warmups. I hope to contribute more in the future as I gain confidence in my programing skills.
 
 ## Review
 
