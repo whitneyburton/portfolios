@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-I was really excited about the Individual project going into this module and to dig deeper in the more complex feature of Rails as well as JSON and APIs. I also was interested in starting to grasp Javascript/AJAX/JQuery and I spent a lot of individual time practicing it this module.
+I was really excited about the Individual project going into this module and to dig deeper in the more complex feature of Rails as well as JSON and APIs. I also was interested in starting to grasp Javascript/AJAX/JQuery and I spent a lot of individual time practicing it this module. Going forward I want to work on better UX, refactoring controllers as much as possible, and getting much better at Javascript and AJAX.
 
 
 ### Attendance
