@@ -17,12 +17,26 @@ Instructor_evaluation: Mike D.
 
 ### End of Module Assessment
 
-Instructor_evaluation: Mike D.
-* Ruby Syntax: 
-* Rails Basics: 
-* Javascript Basics: 
-* Workflow: 
-* Collaboration: 
+Assessed By: Mike
+Challenge: Top Plays
+
+Notes:
+
+* started with tests
+* first instinct was to use ActiveRecord rather than Ruby
+* created new column and used a callback to populate it so we could use activerecord
+instead of the Ruby
+* also pushed all logic down to model
+* nice skinny controller
+
+Scores:
+
+* Analytic/Algorithmic Thinking: 4
+* Ruby Syntax & Standard Library: 4
+* Rails Syntax & API: 4
+* Rails Style: 3
+* Testing: 4
+* Collaboration: 4
 
 ### Attendance
 
