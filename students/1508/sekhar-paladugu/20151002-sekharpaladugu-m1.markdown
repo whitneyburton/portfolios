@@ -117,7 +117,7 @@ I should also mention here that we helped improve the Markdown for the project w
 
 (evaluation comments)
 
-(evaluation scores)
+3 / 3 / 3 / 3
 
 (feedback to me)
 
@@ -186,6 +186,9 @@ I am so grateful to have worked with Penney by the end of this, which is the opp
 
 "Sekhar has had a very positive impact on our cohort. He is incredibly supportive of all of us, and is always quick to offer a cookie, hug, or caffeine. He seems to pick up concepts very quickly and is very good at identifying the parts of a problem he needs to figure out. He has also played a huge role in bringing our cohort closer together through his friendly and upbeat personality and his efforts organizing events outside of class."
 - Torie/general feedback
+
+"Seeing you always makes me happy, I can see that you are a real asset not only for your cohort but also people in the community. I enjoyed working with you and Penney the other day, it’s great that you trust yourself and the directions in which you want to take your code. Would love to work more with you!"
+- Lovisa/general feedback
 
 ### Playing a Part
 
