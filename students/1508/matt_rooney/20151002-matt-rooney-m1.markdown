@@ -4,9 +4,7 @@
 
 ### Your Mission
 
-In Module 1, I set out to build a solid foundation in Ruby and programming concepts. I've seen firsthand the pitfalls of being self-taught and came here intending to gain a thorough understanding of the many facets of Ruby programming.
-
-(What did you set out to accomplish this module?)
+In Module 1, I set out to build a solid foundation in Ruby and programming concepts. I've seen firsthand the pitfalls of being self-taught and came here intending to avoid a lifetime of hacking through code. So rather than falling behind in Echo, I made the switch to foxtrot and I'm happy with that decision. 
 
 ### End of Module Assessment
 
@@ -30,7 +28,7 @@ I completed the following individual work in module 1:
 * [GitHub URL](https://github.com/MattRooney/Jungle-Beats)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
-I feel like I really hit my stride with this project.
+I feel like I really hit my stride with this project. I had a lot of fun building this linked-lists based drum machine project. I hope to work more with audio APIs in the future. I learned a lesson or two from Chisel and took a more top-down TDD approach which worked well for me.
 
 33 tests, two skipped. Good use of recursion. Some parts need to be DRYed. Some longer methods with code that can be pulled out into separate methods. - Mike
 
@@ -43,7 +41,9 @@ Looping or Recursion: 4
 #### Chisel
 
 * [GitHub URL](https://github.com/MattRooney/ChiselProject)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
+
+Chisel was a frustrating project for me. In this project I attempted to build a parser that would parse markdown files and output html. I felt like I was making good progress starting at the bottom and working my way up, but when I needed to pull it all together, my functionality fell apart.
 
 Fundamental Ruby & Style: 3
 Test-Driven Development: 2
@@ -51,6 +51,8 @@ Functionality: 1
 Breaking Logic into Components: 2
 
 #### Sorting Suite
+
+Sorting Suite was an Echo trial by fire. In this project I tried to create a sorting suite with a bubble sort, insertion sort and merge sort. I felt like I understood the algorithms and concepts but struggled to implement them in Ruby. All in all, this project was a great wake-up call and helped me decide to move to Foxtrot, which was a better fit for me.
 
 Notes: Some long methods, Merge sort did not work, no testing - Mike
 
@@ -101,20 +103,28 @@ Breaking Logic into Components - 4
 
 I try to always respond to my fellow students, staff and instructors with positivity. It's easy (maybe unavoidable) to feel overwhelmed at some point in module 1, but feeling overwhelmed never seems to help. I've found that responding to my classmates questions and doubts with positivity and confidence actually helps with my confidence in my own programming abilities.
 
-I gave feedback to Edgar Duran and Aaron Careaga, who were my partners on group projects.
+I gave the following feedback to Edgar Duran and Aaron Careaga, who were my partners on group projects:
+
+"Edgar brought a lot of energy to our Enigma project. While sometimes he got ahead of himself (like most of us), he’s always excited to share his ideas and open to hearing someone else’s. He was also very willing to work with me regarding our schedule, which is super helpful when you’re trying to still have something of a life outside of school."
+
+"Working with Aaron was an absolute pleasure. Nothing seems to rattle him and I really appreciated his patience, both with me and Headcount. He was thoughtful and explicit in communicating his ideas and concerns, which was crucial with such a challenging and dense project. I feel like we both learned a lot together and from each other. I look forward to working with him again."
 
 I also gave the following shout-outs in the September 15th Turing Posse Post: "Shout out to Travis (1507) for dropping helpful little bits of knowledge and strategy throughout the week and Jhun for his contagious enthusiasm."
 
 ### Being a Community Member
 
-I really enjoyed partnering with Matt on our final project. The scale and depth of the challenge pushed both of us beyond our comfort zones and levels of knowledge. Matt carries a positive attitude and logical reasoning ability that helped us talk through road blocks and overcome the numerous hurdles we encountered. I hope to pair with Matt again on future projects.
+"I really enjoyed partnering with Matt on our final project. The scale and depth of the challenge pushed both of us beyond our comfort zones and levels of knowledge. Matt carries a positive attitude and logical reasoning ability that helped us talk through road blocks and overcome the numerous hurdles we encountered. I hope to pair with Matt again on future projects."
+-Aaron Careaga
+
+"Matt is a great partner that is easy to work with. He is meticulous about how he works through problems, which is very beneficial to me as it helps me slow down and truly understand the subject matter. I really enjoyed pairing with him."
+-Edgar Duran
 
 ### Playing a Part
 
 Joined the 1510 Party Planning Committee and will be attending the 1510 Intro Workshop on Oct. 8th.
-Joined the Music slack channel and hope to contribute to the podcast and the podcast's theme song in the coming weeks.
+Joined the Music slack channel and hope to contribute to the podcast's theme song in the coming weeks.
 Present and happy to collaborate on daily warmups.
-
+I hope to contribute more in the future as I gain confidence in my programing skills.
 
 ## Review
 
