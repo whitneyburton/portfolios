@@ -77,19 +77,36 @@ Feedback:
 
 #### Little-Shop-Of-Orders
 
+### Dad Jokes
+​
+Assessor: Mike
+
+Notes:
+​
+* It actually tells me dad jokes.
+* Cannot update items
+* Cannot upload images for new items.
+* You can apply any joke to any item.
+* 127 tests
+* 97.5 percent coverage
+* Some opportunity to clean controllers
+* Minor places where some logic could be pushed down or out.
+
 * [GitHub URL](https://github.com/HoffsMH/dad_jokes_for_days)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 In this project my group and I used Ruby on Rails to build an online commerce
 platform to facilitate online ordering.
 
-* Feature Completeness:
-* Views:
-* Controllers:
-* Models:
-* Testing:
-* Usability:
-* Workflow:
+* Feature Completeness: 2
+* Views: 4
+* Controllers: 3
+* Models: 4
+* Testing: 3
+* Usability: 3
+* Workflow: 3
+
+3: Good use of branches, pull requests, and a project-management tool.
 
 Feedback:
 
