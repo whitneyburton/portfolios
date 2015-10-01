@@ -17,21 +17,27 @@ I am better than I've every been right at this very moment.
 ### End of Module Assessment
 
 Final Assessment Scores:
+
 1. Ruby Syntax & API
 
     3: Developer is able to comfortably implement solutions in Ruby
+
 2. Ruby Style
 
     3: Developer writes code that is easy to follow
+
 3. Blocks & Enumerations
 
     3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+
 4. Testing
 
     4: Developer consistently takes small steps, using the tests for both design and verification
+
 5. Workflow
 
     4: Developer is a master of their tools, efficiently moving between phases of development
+    
 6. Collaboration
 
     3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
