@@ -62,7 +62,7 @@ I completed the following individual work this module:
 * [OriginalAssignment]
 (https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown)
 
-(description)
+Build a mastermind game that allows you to play the game in terminal.
 
 (evaluation comments)
 
@@ -76,7 +76,12 @@ I completed the following individual work this module:
 * [GitHub URL](https://github.com/edgarduran/Chisel/tree/chisel)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 
-(description)
+Take and existing markdown file and conver it to HTML.
+
+Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+Application tests some components but has many gaps in coverage.
+Application implements all base functionality
+Application effectively breaks logical components apart with clear intent and usage
 
 Fundamental Ruby & Style: 3:
 Test-Driven Development: 2:
@@ -88,7 +93,13 @@ Breaking Logic into Components: 4:
 * [GitHub URL](https://github.com/edgarduran/jungle-beats)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
-(description)
+
+
+18 tests, one failure
+Tests need to verify as well as guide design.
+Pop method doesnt take an argument
+include method doesnt take into account the possibility that the list does not include the item we are searching for
+Program does not run, insert by position does not work Scores:
 
 Functional Expectations: 1
 Test-Driven Development: 2
@@ -109,7 +120,7 @@ Looping or Recursion: 3
 
 (description)
 
-(evaluation comments)
+Notes: Overall pretty clean code. Tests could be a little more descriptive and investigative. Overuse of instance variables. Had SRP classes, but did not follow corresponding file structure. Had runner files.
 
 Evaluated By: Andrew
 
@@ -119,26 +130,33 @@ Evaluated By: Andrew
 * Test-Driven Development: 3
 * Breaking Logic into Components: 4
 
-(feedback to me)
-
 #### Headcount
 
 * [GitHub URL](https://github.com/slotaj/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-(description)
+Built analysis for csv files with school data
 
-(evaluation comments)
+Evaluated by Tess
 
-(evaluation scores)
+Notes:
+Warned them about the bad habit of not breaking out classes into separate files
+Focused on the test harness once they realized that it was a thing. Their own tests suffered as a result
+Application runs but the code has long methods, unnecessary or poorly named variables, and needs refactoring
 
-(feedback to me)
+* Overall functionality: 3
+* Enumerables: 2
+* Fundamental Ruby: 2
+* TDD: 2
+* Breaking Logic into Components 3
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+I had the opportunity to work with many people this module. I had great experiences and learned a lot from so many. My project partners: Aaron, Matt, and John were great and truly helped me throughout the process. Some of the notable people I'd like to
+recognize are: Aaron, for being such a great partner and always being available to work with. Aaron and I paired often and I
+know he is the reason for a large part of my success this module. Tyler, for always being available and taking initiative to teach me as well as many others. If it wasn't for him I would not have completed an assignment or two. Regis, for being a constant motivator and always willing to help. He was always quick to lend a helping hand when me or anyone else needed help.
 
 ### Being a Community Member
 
