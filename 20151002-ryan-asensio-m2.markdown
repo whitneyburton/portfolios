@@ -80,4 +80,4 @@ I was the team lead for this project. I set a very general scope and path for us
 
 ### Playing a Part
 
-  I emptied and refilled ~5 dishwashers this module. Not too bad, but not as good as last module. I helpled out a 1508 student on several occasions in the first few weeks. I addented DSA a few times. I brought breakfast the second-to-last friday for the school. I gave a pretty cool lightning talk about cheese. Will do another in the same style next module.  
+  I emptied and refilled ~5 dishwashers this module. Not too bad, but not as good as last module. I helpled out a 1508 student on several occasions in the first few weeks. I addented DSA a few times. I brought breakfast the second-to-last friday for the school. I gave a pretty cool lightning talk about cheese. Will do another in the same style next module.  Also helped lead a student session with Jusint Holzmann.
