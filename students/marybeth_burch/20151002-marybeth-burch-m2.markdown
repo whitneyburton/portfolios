@@ -125,11 +125,23 @@ I was having difficulty communicating when I started getting into areas where I 
 * [GitHub URL](https://github.com/mbburch/denvestments)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-My group and I built an online local micro-lending platform. Borrowers can view and contribute to local community members seeking loans to start small business ventures. I felt like I was able to be a much stronger contributing member to this group compared to TrafficSpy. I'm enjoying TDD and getting better at rspec. Although I was not the team lead, and tried to encourage our leader to step into that role, I ended up taking on some of the leadership, particularly around communication and goal setting. This may be my favorite group experience to date at Turing, as I feel like we communicated pretty well and paired well together. I feel like I really kept in mind the feedback I got last module, and that helped me enjoy this experience more.
+My group and I built an online local micro-lending platform. Borrowers can view and contribute to local community members seeking loans to start small business ventures. I felt like I was able to be a much stronger contributing member to this group compared to TrafficSpy. I'm enjoying TDD and getting better at rspec. Although I was not the team lead, and tried to encourage our leader to step into that role, I ended up taking on some of the leadership, particularly around communication and goal setting. This may be my favorite group experience to date at Turing, as I feel like we communicated pretty well and paired well together. I think we were particularly successful around workflow. I feel like I really kept in mind the feedback I got last module, and that helped me enjoy this experience more.
 
 We received the following feedback and scores:
 
-* TBD
+* Good use of jQuery.
+* Some user flow could be better, needs some UX enhancements on the admin dashboard side.
+* 60 tests
+* 100% test coverage
+* Well written tests
+
+* Feature Completeness: 3
+* Views: 3
+* Controllers: 3
+* Models: 4
+* Testing: 4
+* Usability: 3
+* Workflow: 4
 
 ## Community
 
