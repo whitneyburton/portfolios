@@ -4,7 +4,11 @@
 
 ### Your Mission
 
-<!-- Above all else, I came to Turing to learn. My goal for the first module was to overcome the hurdles of self-doubt and become familiar with basic programming.  -->
+I came to Turing to learn.
+
+I like to read about business culture and, when appropriate, apply the same methods to my own life. VCs talk a lot about the 10X return. **My goal for Turing is to leave with 10X the knowledge I walked in the door with.**
+
+My growth and performance throughout the module has proved to me that I am well on my way to accomplishing that goal.
 
 ### End of Module Assessment
 
@@ -40,6 +44,29 @@ I was absent for the afternoon of Wednesday, August 26 due to an illness.
 
 Below is a list of all of my projects and assessment scores from Module 1.
 
+#### Headcount
+
+* [GitHub URL](https://github.com/emilydowdle/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/a0ccb625762f2ead4d0bcf554c88daeda1784eea/source/projects/headcount.markdown)
+
+**Real-world data collection and analysis.** Emphasis on parsing CSV files, extracting data, creating hashes and analyzing that data for specific years, districts and outcomes.
+
+Assessed By: Tess
+
+#### Notes:
+
+*
+
+#### Scores:
+
+* Overall Functionality:
+* Enumerables:
+* Fundamental Ruby and Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+* Code Sanitation:
+
+
 #### Enigma
 
 * [GitHub URL](https://github.com/emilydowdle/enigma)
@@ -58,8 +85,7 @@ instance variables.
 * Some minor opportunities to refactor.
 * Some complicated enumerable using methods that used #each and #each_with_index
 could be refactored to take advantage of best-use enumerables.
-* Encrypt/Decrypt can be refactored to use the same class, as well as a portion of
-the crack method.
+* Encrypt/Decrypt can be refactored to use the same class, as well as a portion of the crack method.
 
 #### Scores:
 
@@ -141,11 +167,15 @@ Assessed By: Andrew Carmer
 
 ### Giving Feedback
 
+Amber Crawford: "Working with Amber has been an absolute joy. She's sharp as a tack and just about as friendly as they come. Whether we paired on a problem or divided work and  came back together to discuss it, Amber was always open to new ideas and taking tangents to experiment with various solutions. Even during stressful moments, she takes time to answer others' questions. I really can't speak more highly of her and I'd welcome the opportunity to work with her again."
+
 Jill Donohue: "Jill is an excellent communicator whose strength is knowing how to diplomatically convey difficult topics. I believe Jill has the potential to be an excellent developer. Her greatest challenge is her own self-doubt. If she devoted the energy she spends doubting her abilities to programming, she would quickly outpace many of the students around her. Jill cares deeply about her peers and works tirelessly to help those around her work through challenges, allowing them to achieve more than they would have alone. I struggle to think and speak at the same time — especially about programming — and in the week we worked together, Jill never rushed or interrupted me. I am a better developer because I have worked with her."
 
 Aaron Careaga: "Pair programming with Aaron lacked many of the roadblocks I’ve experienced with other pairs. We decided to take five minutes to individually experiment with ideas in IRB and then came together to recursively create a custom method equal to .flatten. Aaron’s positive attitude made him a joy to work with and his logical insights filled the gaps in my own thinking, allowing us to efficiently develop a solution."
 
 ### Being a Community Member
+
+"Pairing with Emily on the Headcount project has been one of my most successful pairing experiences at Turing so far. **She is collaborative, capable and just plain easy to work with.** You can tell that she is really driven to excel here while also prioritizing a work-life balance that I have found incredibly impressive. **I looked to her throughout the project as a barometer for our progress and success because she never loses her cool or curiosity for the code.** Even when struggling with sections, we managed to keep everything in perspective and actually have some fun with this project! Emily is already an excellent Ruby developer and I hope to work with her again as we move into the coming modules." --Amber Crawford
 
 “**Emily’s greatest strength is her ability to come across problems and attack them until she finds a solution.** I was astonished by her ability to persevere even during the most frustrating parts of Enigma. She eloquently writes code and translates this skill into her project design seamlessly. The only time I ever witnessed her stumble was explaining her code to me as she was used to fluidly incorporating it into her file. **Wonderful person to work with who cares not only for the project, but also for her partner’s well-being.**" --Jill Donohue
 
@@ -163,10 +193,6 @@ I've participated in the larger Turing Community in the following ways:
 
 
 
-
-######################################
-LEAVE BELOW BLANK BUT DELETE This
-######################################
 
 ## Review
 
