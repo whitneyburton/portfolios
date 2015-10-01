@@ -57,7 +57,9 @@ Worked well with me. Collaborated well. Didn't do anything out of the ordinary o
 In this project, we implemented Google Analytics type functionaily using
 ActiveRecord, Sinatra, and Postgres. I was in a group with Mimi, Mike, and Alon.
 
-We were evaulated by Josh M. and recieved the following scores:
+We were evaulated by Josh M.:
+
+#####Scores
 
 1. Functional Expectations          : 3
 2. Test-Driven Development          : 4
@@ -66,24 +68,47 @@ We were evaulated by Josh M. and recieved the following scores:
 5. Sinatra / Web and Business Logic : 3
 6. View Layer                       : 4
 
-I recieved the following feedback from a group member (I'm not sure which one,
-this is all I was sent):
+#####Feedback from Group
 
 "Jeff may seem quiet but when he does speak up, it's obvious that he's been attentive and contemplative about the problems at hand. He was more than willing to contribute when he felt like it would be helpful. He was also great at looking for solutions to problems without being asked."
 
 "Nope. Jeff is pretty chill and fun to be around."
 
+(I'm not sure who sent that feedback, that's all Mike sent me when I asked.)
+
 ####Little Shop of Orders - Denvestments
 
-[GitHub](https://github.com/russelleh/denvestments)
+[GitHub](https://github.com/jbrr/denvestments)
+
+[Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 In this project, we built an ecommerce store from the ground up. The idea was
 to make a microlending platform for local startups and causes. I was in a group
 with Chris, MB, and Russell.
 
-##Community
+We were evaluated by Mike:
 
-###Giving Feedback
+#####Scores
+
+* Feature Completeness: 3
+* Views: 3
+* Controllers: 3
+* Models: 4
+* Testing: 4
+* Usability: 3
+* Workflow: 4
+
+#####Notes
+
+* Good use of jQuery.
+* Some user flow could be better, needs some UX enhancements on the admin dashboard side.
+* 60 tests
+* 100% test coverage
+* Well written tests
+
+#####Feedback from Group
+
+##Community
 
 ###Playing a Part
 
@@ -99,7 +124,7 @@ repository making hash_test.rb more clear for beginners.
 
 I helped George plan and host the Turing Kids Who Code class. I regularly attended
 planning meetings, and although I missed the first class, I helped out at the
-September 26th session.
+September 26th session, and have signed up for the October 10th session.
 
 ## Review
 
