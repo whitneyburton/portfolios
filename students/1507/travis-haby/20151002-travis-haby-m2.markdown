@@ -46,12 +46,12 @@ I completed the following team projects:
 
 ###### Scores
 
-  * Functional Expectations:          4
-  * Test-Driven Development:          4
-  * Encapsulation / Components:       3
-  * Fundamental Ruby & Style:         3
-  * Sinatra / Web and Business Logic: 4
-  * View Layer:                       3
+  * Functional Expectations:          -- 4
+  * Test-Driven Development:          -- 4
+  * Encapsulation / Components:       -- 3
+  * Fundamental Ruby & Style:         -- 3
+  * Sinatra / Web and Business Logic: -- 4
+  * View Layer:                       -- 3
   
 #### Earmarked (Little Shop of Orders)
 
@@ -66,13 +66,13 @@ I completed the following team projects:
 
 ###### Scores
 
-* Feature Completeness:  4 -- All features are correctly implemented along with two extensions
-* Views:                 3 -- Views make use of layout(s), partials and helpers, but some logic leaks through
-* Controllers:           4 -- Controllers show significant effort to push logic down the stack
-* Models:                3 -- Models show an effort to push logic down the stack, but need more internal refactoring
-* Testing:               4 -- Project has a running test suite that exercises the application at multiple levels
-* Usability:             4 -- Project is highly usable and ready to deploy to customers
-* Workflow:              4 -- Excellent use of branches, pull requests, and a project management tool.
+* Feature Completeness: -- 4 -- All features are correctly implemented along with two extensions
+* Views:                -- 3 -- Views make use of layout(s), partials and helpers, but some logic leaks through
+* Controllers:          -- 4 -- Controllers show significant effort to push logic down the stack
+* Models:               -- 3 -- Models show an effort to push logic down the stack, but need more internal refactoring
+* Testing:              -- 4 -- Project has a running test suite that exercises the application at multiple levels
+* Usability:            -- 4 -- Project is highly usable and ready to deploy to customers
+* Workflow:             -- 4 -- Excellent use of branches, pull requests, and a project management tool.
 
 ### Feedback to Me
 
