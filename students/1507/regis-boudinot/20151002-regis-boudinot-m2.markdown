@@ -91,6 +91,10 @@ platform to facilitate online ordering.
 * Usability:
 * Workflow:
 
+Feedback:
+
+"He is a fun guy to hang out with and is liked by everyone.  He is a very good programmer, but being easy to be around is so valuable when working long hours.  It made the project lighter woking with him and this project was long and stressful for me so I am glad he was there."
+
 ### Feedback to Me
 
 "Intensely patient, Regis is one of the people around Turing you know that you
@@ -110,6 +114,8 @@ Strong in ruby and very strong at testing. Chad is a valuable
 resource that can be called upon at reasonable times."
 
 "Ross has been a great part of his cohort community. He has a steadfast attitude and remains calm under pressure. He asks specific questions that can be answered quickly and his logical thinking patterns have gotten stronger since I saw him come in. Ross is a quick learner and seems to really enjoy his work and be proud of his code. I can see him being a strong member of the community as the breadth of his impact continues to grow. He could work on realizing when he gets stuck in logic holes, but he has gotten better since I pointed it out."
+
+"Justin has improved a lot since his repeat of module 1. He seems to be absorbing the material at a healthier rate. Justin is a great person to be around and I look forward to keep working with him in the future. Justin actively seeks mentorship and asks a lot of questions but I think that he could benefit from trying to take a step back and learn more on his own. If he could spend a bit more time looking at the docs and re-reading them I think he would improve his absorption rate. His patience is a virtue and it is contagious in a good way."
 
 ### Playing a Part
 
