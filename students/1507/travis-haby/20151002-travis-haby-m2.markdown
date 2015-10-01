@@ -41,6 +41,7 @@ Summary:
   * setup_notes: N/A
   * group_discussion_notes: https://gist.github.com/travishaby/c873b65c804095812f23
   * instructor_evaluation: Josh M.
+
 Scores:
   * Functional Expectations: 4
   * Test-Driven Development: 4
