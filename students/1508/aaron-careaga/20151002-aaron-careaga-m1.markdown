@@ -125,7 +125,7 @@ Penney Garrett: "Aaron was a great partner for Enigma. He is excellent at breaki
 Matt Rooney and myself built a data analysis suite to help policymakers and the public better understand education statistics in Colorado. Our project was evaluated by Andrew Carmer.
 
 **Notes:**
-(notes) NEED TO ADD INFO ON THURSDAY
+(notes)
 
 **Scores:**
 * Overall Functionality:
