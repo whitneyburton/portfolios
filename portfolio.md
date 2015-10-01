@@ -37,7 +37,7 @@ Final Assessment Scores:
 5. Workflow
 
     4: Developer is a master of their tools, efficiently moving between phases of development
-    
+
 6. Collaboration
 
     3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
@@ -116,10 +116,17 @@ Breaking Logic Down     - 3
 * [GitHub URL](https://github.com/marlomajor/Headcount)
 * [Original Assignment](https://github.com/turingschool/sorting-suite)
 
-Headcount was an amazing project! I can finally program! This project got me so
-excited at one point that I didn't want to leave my computer. It finally "clicked"
-for me and this inspired me to continue working until the very last minute.
+Headcount was an amazing project. I finally feel like a programmer This project got me
+excited enough at one point that I didn't want to leave my computer. I started
+reworking through past problems and figuring those out as well. It finally "clicked"
+for me. Too bad it was on the last day.
 
+Evaluation Scores
+
+Functional Expectations  -  3
+Ruby Syntax              -  3
+TDD                      -  3
+BreakingLogic            -  3
 
 ## Team
 
