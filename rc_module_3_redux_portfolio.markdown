@@ -64,10 +64,10 @@ See below
 
 ### Scores
 * Completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
-*Test-Driven Development: 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
-*Code Quality: 3: Project demonstrates solid code quality and MVC principles.
-*API Design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
-*Queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
+* Test-Driven Development: 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
+* Code Quality: 3: Project demonstrates solid code quality and MVC principles.
+* API Design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* Queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 ## Team
 
@@ -88,21 +88,21 @@ Your Dinner Dash is getting somewhere, but our investors have decided that servi
 
 (feedback to me)
 
-### “Rob was a great team member. He communicated well with the status of his tasks and providing feedback on merge requests. He has solid programming skills and was fun to work with. Together we tackled some tasks and it was truly a successful collaborative effort. I would work on any project with Rob because he is professional, respectful and hard working."
+“Rob was a great team member. He communicated well with the status of his tasks and providing feedback on merge requests. He has solid programming skills and was fun to work with. Together we tackled some tasks and it was truly a successful collaborative effort. I would work on any project with Rob because he is professional, respectful and hard working."
 
 ## Community
 
-### I provided feedback to anyone who asked for it and continued to offer feedback to the Turing staff.  I scaled back on the weekly survey's this module due in part to the fact that I felt I had repeated myself significantly and didn't have anything new to add.  If I did have somethinng to add I would complete a survey. 
-
-
+I provided feedback to anyone who asked for it and continued to offer feedback to the Turing staff.  I scaled back on the weekly survey's this module due in part to the fact that I felt I had repeated myself significantly and didn't have anything new to add.  If I did have somethinng to add I would complete a survey. 
 
 ### Playing a Part
 
 There were no opportunities for outreach this module that I was able to participate in   I did volunteer to be part of one that is coming up during the next module.  
 
-One thing I did was work to connect with other 1503 students who were staying back to repeat the module, while also working to reachout to the new cohort.  
+One thing I did was work to connect with other 1503 students who were staying back to repeat the module, while also working to reach out to the new cohort members.  
 
-I also continue to connect with people from 1502 who had graduated, specifically sending job openings to those who I knew were looking for jobs as I came across them. 
+I also continued to connect with people from 1502 who had graduated, specifically sending job openings to those who I knew were looking for jobs as I came across them. 
+
+I attended two hiring events.  One with Motorola Solutions and one with SchoolRunner in Boulder.  
 
 ## Review
 
