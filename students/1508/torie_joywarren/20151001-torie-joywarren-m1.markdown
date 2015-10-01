@@ -187,6 +187,57 @@ Meetups:
 
 ### Notes
 
+* Consistently strong projects.
+* Felt the most meaningful learning experience was working with other people, and getting feedback.
+* Headcount was valuable as a first large project as organization was important. 
+* Don't let yourself off the hook to push yourself. 
+* Work is consistently very good, want work to be consistently be phenomenal.
+
 
 
 ### Outcome
+
+## A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+* 4: Student achieved two or more "4s" on the assessment
+
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+
