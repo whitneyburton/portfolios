@@ -29,11 +29,9 @@ Challenge: Users
 * Testing - 3: Developer uses tests at multiple layers of abstraction to drive development
 * Collaboration - 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
-### Work
+## Work
 
-## Team
-
-## Projects
+### Team Projects
 
 Below is a list of all projects and their scores for Module: 2.
 
@@ -44,9 +42,9 @@ Below is a list of all projects and their scores for Module: 2.
 
 This was a week long project where we built an app to track web traffic to our site using Ruby and Sinatra. I was the project lead.
 
-Assessed By: Josh Meija
+## Assessed By: Josh Meija
 
-### Alon & Jeff & Mike & Mimi
+Alon & Jeff & Mike & Mimi
 
 #### Scores:
 
@@ -65,9 +63,9 @@ Assessed By: Josh Meija
 
 In this assignment we were asked to build an ecommerce site. We chose to create a donation platform for Presidential candidates based on their specific stances on political issues.
 
-Assessed By: Tess Griffin
+## Assessed By: Tess Griffin
 
-### Bret & Travis & Rose & Mimi
+Bret & Travis & Rose & Mimi
 
 #### Notes
 
