@@ -55,16 +55,16 @@ Assessed By: Tess
 
 #### Notes:
 
-*
+* Implement private methods
+* Create setup in test files
 
 #### Scores:
 
-* Overall Functionality:
-* Enumerables:
-* Fundamental Ruby and Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
-* Code Sanitation:
+* Overall Functionality: 4
+* Enumerables: 4
+* Fundamental Ruby and Style: 4
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 
 #### Enigma
