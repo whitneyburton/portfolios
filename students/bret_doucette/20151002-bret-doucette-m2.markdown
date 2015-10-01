@@ -4,7 +4,9 @@
 
 ### Areas of Emphasis
 
-My initial area of emphasis for this module was improving how I tackeled problems. Part or even a majority of my module one stress was me doubting myself, especially in situations where doubt was not warranted. To combat this I became better at handling difficult sitatuins.
+For this module, I wanted to focus on how I tackled problems. A lot of stress from module one was related to me doubting myself and being  hard on myself. To combat this, I tried to become better at not becoming overwhelmed when facing difficult problems or when working with people that solved problems quicker. I improved but still struggled. My strategy was to focus on small problems; breaking them into logical components instead of focusing on the entire problem.
+
+I also wanted to improve my public speaking abilities so I gave two lightning talks and volunteered to be one of the leaders for 1508's student orientation
 
 ### End of Module Assessment
 
@@ -51,7 +53,7 @@ This module I only missed one day due to my sister's wedding.
 
 ### Work
 
-I completed the following individual work this module:
+In module two, I completed the following individual work this module:
 
 #### Robot World
 
@@ -59,46 +61,27 @@ I completed the following individual work this module:
 
 **Description**
 
-In this weekend assignment, I used Sinatra to built a basic CRUD app where a user could create, update, and delete robots.
-
+In this weekend assignment, I used Sinatra to built a basic CRUD application where a user could create, update, and delete robots.
 
 #### Idea Box
 
 * [GitHub URL](https://github.com/bad6e/idea_box)
 * [Website](http://gotanidea.herokuapp.com/)
-* [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+* [Original Assignmentt](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
 **Description**
 
-In this weekend project I used Ruby on Rails to build a basic CRUD app to track and log ideas linked to spefic predetermined categories. In addition, I built an admin panel that allows an admin to update and create new categories as well as upload image urls.
+In this weekend project I used Ruby on Rails to build a basic CRUD application to track and log ideas linked to specific predetermined categories. In addition, I built an administration panel that allows an administrator to update and create new categories as well as upload image urls.
 
 **Evaluation Comments**
 
 This project was not evaluated.
 
-**Evaluation Scores**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Team
 
 ### Projects
 
-I participated in the following team projects:
+In module two, I participated in the following team projects:
 
 #### Traffic Spy
 
@@ -107,19 +90,24 @@ I participated in the following team projects:
 
 **Description**
 
-In this weeklong project, we used Sinatra and Active Record to build a web analytics tool.
+In this week-long project, we used Sinatra and Active Record to build a web analytics tool.
 
 **Personal Comments**
 
-
 The good:
+
+* Working with someone from Echo. I learned a lot from Holzmann.
+* Learning from our mistakes on Sunday to have a productive Monday.
 
 
 The bad:
 
+* Rabbit Holes - We went down too many.
+
 
 The ugly:
 
+* Rabbit Holes
 
 **Evaluation Comments**
 
@@ -149,28 +137,7 @@ Rubic:
 
 Holzmann - "Bret is very organized and super fun to work with. He was the glue that held our little team together and made sure that we delivered the final product when we needed to. One of Bret’s biggest strengths was being able to figure things out on his own. I could always trust him to figure out how to do something. An area for improvement would be take more breaks."
 
-Pease - "It was impressive watching Bret work during Traffic Spy.  His ability to learn new information on the fly was pretty cool to see.  He was positive and supportive the entire time.  I honestly don’t think I have seen him in a bad mood over the last 2 modules which is really beneficial to the people around him.""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Pease - "It was impressive watching Bret work during Traffic Spy.  His ability to learn new information on the fly was pretty cool to see.  He was positive and supportive the entire time.  I honestly don't think I have seen him in a bad mood over the last 2 modules which is really beneficial to the people around him.""
 
 
 #### Earmarked
@@ -180,7 +147,9 @@ Pease - "It was impressive watching Bret work during Traffic Spy.  His ability t
 
 **Description**
 
-In this eleven day project, we a Rails App that allows issue specific donating in the 2016 Presidential Election. Per our About Page
+In this eleven day project, we built a Ruby on Rails Application that allows issue specific donating in the 2016 Presidential Election.
+
+Per our About Page:
 
 "Earmarked is a tool that will revolutionize how people donate to presidential elections. Earmarked is unique because it allows users to donate to specific issues in each candidate's campaign. Do you like Hillary Clinton's stance on the environment? Donate to just that part of her campaign. Would you like to see each candidate's stance on the economy? Browse the Issues Section to see what each candidate thinks."
 
@@ -188,36 +157,51 @@ In this eleven day project, we a Rails App that allows issue specific donating i
 
 The Good
 
+* Building the site was a blast and we did extremely well on our review.
+* Learning some front-end Javascript and styling. Learning new Active Record queries.
+* Learning a lot of new things on my own.
 
 The Bad
 
-
-The Ugly
-
+* Poor communication during the middle of our project
 
 **Evaluation Comments**
 
-TO BE DONE SOON
+Notes:
+
+* Got testing with Selenium working - very cool
+* Site looks great.
+* Implemented Stripe and Twilio as extensions
+
+Scores:
+
+* 1. Feature Completeness: 4: All features are correctly implemented along with two extensions
+* 2. Views: 3: Views make use of layout(s), partials and helpers, but some logic leaks through
+* 3. Controllers: 4: Controllers show significant effort to push logic down the stack
+* 4. Models: 3: Models show an effort to push logic down the stack, but need more internal refactoring
+* 5. Testing: 4: Project has a running test suite that exercises the application at multiple levels
+* 6. Usability: 4: Project is highly usable and ready to deploy to customers
+* 7. Work-flow: 4: Excellent use of branches, pull requests, and a project management tool.
 
 **Feedback to me**
 
-
 TO BE DONE SOON
-
 
 ## Community
 
 ### Giving Feedback
 
-After both group prpojects, we had group retros where we discussed the highs and lows of the project. During these periods I gave the feedback.
+After both group projects, we had group retros where we discussed the highs and lows of the project. During these periods I gave the feedback.
 
 ### Playing a Part
 
-Git Helper - helped various students from 1508 with understanding the basics of Git.
+* Volunteered for New Student Orientation for 1508.
 
-Organized a Friday talk with Stewart Fortier, CTO of MassRoots.
+* Git Helper - helped various students from 1508 with understanding the basics of Git.
 
-Gave two lightning talks to work on my public speaking skills.
+* Organized a Friday talk with Stewart Fortier, CTO of MassRoots.
+
+* Gave two lightning talks to work on my public speaking skills.
 
 ## Review
 
