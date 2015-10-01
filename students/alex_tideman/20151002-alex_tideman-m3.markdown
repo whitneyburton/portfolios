@@ -4,8 +4,7 @@
 
 ### Areas of Emphasis
 
-I was really excited about the Individual project going intothis module and to dig deeper in the more complex feature of Rails as well as JSON and APIs. 
-I also was interested in starting to grasp Javascript/AJAX/JQuery and I spent a lot of individual time practicing it this module.
+I was really excited about the Individual project going into this module and to dig deeper in the more complex feature of Rails as well as JSON and APIs. I also was interested in starting to grasp Javascript/AJAX/JQuery and I spent a lot of individual time practicing it this module.
 
 
 ### Attendance
@@ -22,13 +21,14 @@ I completed the following individual work this module:
 GitHub: http://www.github.com/Alex-Tideman/effortful
 Production: https://be-effortful.herokuapp.com
 
-* Completion:
-* Organization:
-* Technical Quality:
-* Test-Driven Development:
-* Code Quality:
-* User Experience:
-* Performance:
+My personal project was a Rails app that provides those in need a chance to perform position actions in the community and receive non-monetary rewards from sponsors. It utilizes Google Omniauth, Google Javascript/Maps/Directions API and What3Words API to create user-specific routes without addresses. 
+
+* Completion: 4
+* Organization: 3
+* Test-Driven Development: 4
+* Code Quality: 3
+* User Experience: 3
+* Performance: 4
 
 
 #### Rales Engine
@@ -97,7 +97,7 @@ Production: http://collectors-world.herokuapp.com
 ### Giving Feedback
 
 * Gave feedback to all members of The Pivot group
-* Gave feedback to every person in my cohort.
+* Gave feedback to every person in cohort in survey and those that asked on Slack.
 
 ### Playing a Part
 
