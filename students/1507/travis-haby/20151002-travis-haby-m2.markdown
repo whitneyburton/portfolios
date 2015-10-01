@@ -92,10 +92,17 @@ I completed the following team projects:
 
 ##### Traffic Spy
 
-From Matt:
+###### From Matt:
   I knew that Travis was already a great communicator but throughout project he constantly surprised me with how patient he was. I announced at the beginning of the project during out DTR meeting that I wanted to work on soft skills and he was very understanding throughout the entire project. He not only let me know when I was doing or saying things wrong he gave me specific and actionable tips that let me work on my soft skills while remaining productive the entire time. I left the experience as a better team member and I would not hesitate to work with him again.
   
-From Adam:
+###### From Adam:
+ GOOD: Travis is an all-star! I personally perceive you as one of the strongest communicators in our school. I really admire the soft skills and experience that you have acquired from being a teacher.  Learning new concepts quickly is a strong suit of yours.
+
+I also admire your propensity to follow the spec, conventions, and guidelines set by our teachers. I find this approach the simplest and it is really a nice to have quality when working with somebody on a project
+
+BAD: I became frustrated during our project. I largely felt un-included and un-invited to drive and most conversations occurred ‘around me'. I did try to proceed with caution by sitting between you and Matt and chiming in many times. But I still could tell that project consulting was done between the other members with a ‘you good?’ at the end. The good thing is that you really tried to repair this at the end of the project. I really appreciate that. 
+
+I would really like to pair again sometime. However, I will likely make it a goal to be more direct during our future exchanges.
 
 ##### Earmarked (Little Shop of Orders)
 
