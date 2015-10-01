@@ -156,7 +156,7 @@ Pease - "It was impressive watching Bret work during Traffic Spy.  His ability t
 
 * [Website](http://earmarked.herokuapp.com/)
 * [GitHub URL](https://github.com/TeamConchord/earmarked)
-* [Original Assignment Guideline](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown)
+* [Original Assignment Guideline](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 **Description**
 
