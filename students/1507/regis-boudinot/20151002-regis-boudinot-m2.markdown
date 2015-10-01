@@ -84,7 +84,7 @@ Assessor: Mike
 
 Notes:
 ​
-"It actually tells me dad jokes. - Cannot update items - You can apply any joke to any item. - 127 tests - 97.5 percent coverage - Some opportunity to clean controllers - Minor places where some logic could be pushed down or out."
+"It actually tells me dad jokes - Cannot update items - You can apply any joke to any item - 127 tests - 97.5 percent coverage - Some opportunity to clean controllers - Minor places where some logic could be pushed down or out"
 
 * [GitHub URL](https://github.com/HoffsMH/dad_jokes_for_days)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
