@@ -87,7 +87,11 @@ it has been more difficult to take a break and do other things than coding. I di
 
 * from Sekhar:
 
-```It was so great working with Lovisa on my team's headcount project. Penney and I had been jerked back and forth for a full week on whether to do a much heavier parse method or to stick with our instinct and do a lighter parse then build out strong methods. Lovisa's pairing session helped us think through top-level design and also refactor our up to 25-line methods down to 2-3 dense lines each. I really pinpoint that as the turning point of our project from "will we even finish phase 1/we are set to fail this project" to "wow, we are doing way better than we thought and have already done quite a bit of heavy lifting." Lovisa is excellent at refactoring, and she gave us momentum to finish this project strong. We just got assessed and we are very happy with the work we put forward. Thanks for all your help this module! PS Super impressed with the ruby interpreter you built in book club at Josh's :simple_smile:```
+```It was so great working with Lovisa on my team's headcount project. Penney and I had been jerked back and forth for a full week on whether to do a much heavier parse method or to stick with our instinct and do a lighter parse then build out strong methods. Lovisa's pairing session helped us think through top-level design and also refactor our up to 25-line methods down to 2-3 dense lines each. I really pinpoint that as the turning point of our project from "will we even finish phase 1/we are set to fail this project" to "wow, we are doing way better than we thought and have already done quite a bit of heavy lifting." Lovisa is excellent at refactoring, and she gave us momentum to finish this project strong. We just got assessed and we are very happy with the work we put forward. Thanks for all your help this module! PS Super impressed with the ruby interpreter you built in book club at Josh's.```
+
+* from Jack Yeh:
+
+```I was really tentative about joining 1505, and it took several week before I felt comfortable with my cohort-mates. Lovisa is one of the few bright spots. Early on and throughout the module, she made me feel welcomed and at ease. She works harder than anyone I know and also gives/teaches generously, cheerfully and patiently. We’re all lucky to have her here!```
 
 ## Review
 
