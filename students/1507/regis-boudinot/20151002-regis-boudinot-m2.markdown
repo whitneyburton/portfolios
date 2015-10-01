@@ -78,10 +78,9 @@ Feedback:
 #### Little-Shop-Of-Orders
 
 ##### Dad Jokes
-​
-Assessor:
 
-Mike
+
+Assessor: Mike
 
 Notes:
 ​
