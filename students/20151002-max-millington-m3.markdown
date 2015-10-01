@@ -50,6 +50,8 @@ Jorge evaluated me.
 
 In this project, I built an API called rails engine. I also helped fix some issues in the spec harness.
 
+Jorge evaluated me.
+
 * Completion: 4
 * TDD: 4
 * Code Quality: 3
@@ -64,23 +66,25 @@ In this project, I built an API called rails engine. I also helped fix some issu
 
 In this project, I built an app that automatically sends text messages of the locations of free meals in Denver. I used the Google-Maps and Twilio API and used the whenever gem to schedule jobs.
 
-* Completion:
-* Organization:
-* TDD:
-* Code Quality:
-* User Experience:
-* Performance:
+Steve evaluated me.
+
+* Completion: 4
+* Organization: 4
+* TDD: 3
+* Code Quality: 3
+* User Experience: 3
+* Performance: 4
 
 
 ## Community
 
 ### Giving Feedback
 
- I gave feedback to my group. 
+ I gave feedback to my group.   
 
 ### Playing a Part
 
-* I delivered a lightning talk on Records.
+* I delivered a lightning talk on records.
 * I presented my MealFinder project at demo night.
 * I met with some non-profits in an attempt to develop relationships with Turing.
 * I gave a talk at boulder rb during last intermission.
