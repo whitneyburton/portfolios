@@ -100,8 +100,6 @@ platform to facilitate online ordering.
 * Usability: 3
 * Workflow: 3
 
-3: Good use of branches, pull requests, and a project-management tool.
-
 Feedback:
 
 "He is a fun guy to hang out with and is liked by everyone.  He is a very good programmer, but being easy to be around is so valuable when working long hours.  It made the project lighter woking with him and this project was long and stressful for me so I am glad he was there."
