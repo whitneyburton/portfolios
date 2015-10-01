@@ -56,7 +56,7 @@ I participated in the following team projects:
 #### Earmarked (Little Shop of Orders)
 
 * GitHub URL: http://github.com/TeamConchord/earmarked
-* Production URL: earmarked.herokuapp.com
+* Production URL: http://earmarked.herokuapp.com
 
 ###### Notes
 
