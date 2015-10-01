@@ -88,7 +88,7 @@ From Adam:
 
 ### Giving Feedback
 
-I gave detailed feedback to the members of my Traffic Spy project, and will give feedback for my 
+I gave detailed feedback to the members of my Traffic Spy project, and will give feedback for my earmarked project soon.
 
 ### Playing a Part
 
