@@ -48,17 +48,44 @@ Scores:
   Fundamental Ruby & Style: 3
   Sinatra / Web and Business Logic: 4
   View Layer: 3
+  
+#### Earmarked (Little Shop of Orders)
+
+* GitHub URL: http://github.com/TeamConchord/earmarked
+* Production URL: earmarked.herokuapp.com
+
+###### Notes
+
+* Got testing with Selenium working - very cool
+* Site looks great.
+* Implemented Stripe and Twilio as extensions
+
+###### Scores
+
+* Feature Completeness: 4: All features are correctly implemented along with two extensions
+* Views: 3: Views make use of layout(s), partials and helpers, but some logic leaks through
+* Controllers: 4: Controllers show significant effort to push logic down the stack
+* Models: 3: Models show an effort to push logic down the stack, but need more internal refactoring
+* Testing: 4: Project has a running test suite that exercises the application at multiple levels
+* Usability: 4: Project is highly usable and ready to deploy to customers
+* Workflow: 4: Excellent use of branches, pull requests, and a project management tool.
 
 ### Feedback to Me
 
-Insert feedback here
+##### Traffic Spy
+From Matt:
+  I knew that Travis was already a great communicator but throughout project he constantly surprised me with how patient he was. I announced at the beginning of the project during out DTR meeting that I wanted to work on soft skills and he was very understanding throughout the entire project. He not only let me know when I was doing or saying things wrong he gave me specific and actionable tips that let me work on my soft skills while remaining productive the entire time. I left the experience as a better team member and I would not hesitate to work with him again.
+  
+From Adam:
+
+##### Earmarked (Little Shop of Orders)
 
 ## Community
 
-In general I try to give back to the comunnity on a daily basis when I see things that aren't being addressed. Many mornings when I arrive around 8:00-8:15, the dishwashers are covered in dirty dishes from the previous day. I think on an average of about every other day I would unload the clean dishes and load up the dishes on top of the washers. This may seem traiviail but since it was a clear need that wasn't being met I stepped up to the unglamorous task of taking care of it. I also tried to be cognizant of module 1 students that were struggling a little bit with projects here and there. Often when I head out for the night I will take an extra 15 minutes to stop by a pair of 1508 students working at a TV to try to help with whatever they are working on. Especially in the beginning, I made sure that 1508's in my posse and others were set up and knew how to use Pry and Ruby Docs to get the information for the solutions they needed, since in my exerpience "teaching a man to fish" is the most important thing someone can do for you when you are first starting to learn to code.
-
 ### Giving Feedback
 
-According to the Feedback application:
+I gave detailed feedback to the members of my Traffic Spy project, and will give feedback for my 
 
 ### Playing a Part
+
+In general I try to give back to the comunnity on a daily basis when I see things that aren't being addressed. Many mornings when I arrive around 8:00-8:15, the dishwashers are covered in dirty dishes from the previous day. I think on an average of about every other day I would unload the clean dishes and load up the dishes on top of the washers. This may seem traiviail but since it was a clear need that wasn't being met I stepped up to the unglamorous task of taking care of it. I also tried to be cognizant of module 1 students that were struggling a little bit with projects here and there. Often when I head out for the night I will take an extra 15 minutes to stop by a pair of 1508 students working at a TV to try to help with whatever they are working on. Especially in the beginning, I made sure that 1508's in my posse and others were set up and knew how to use Pry and Ruby Docs to get the information for the solutions they needed, since in my exerpience "teaching a man to fish" is the most important thing someone can do for you when you are first starting to learn to code.
