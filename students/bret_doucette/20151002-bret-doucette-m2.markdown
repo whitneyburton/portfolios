@@ -64,7 +64,7 @@ This module I only missed one day due to my sister's wedding.
 
 ### Work
 
-In module two, I completed the following individual wor:
+In module two, I completed the following individual work:
 
 #### Robot World
 
