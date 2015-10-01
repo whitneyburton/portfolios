@@ -91,12 +91,19 @@ I completed the following team projects:
 ### Feedback to Me
 
 ##### Traffic Spy
+
 From Matt:
   I knew that Travis was already a great communicator but throughout project he constantly surprised me with how patient he was. I announced at the beginning of the project during out DTR meeting that I wanted to work on soft skills and he was very understanding throughout the entire project. He not only let me know when I was doing or saying things wrong he gave me specific and actionable tips that let me work on my soft skills while remaining productive the entire time. I left the experience as a better team member and I would not hesitate to work with him again.
   
 From Adam:
 
 ##### Earmarked (Little Shop of Orders)
+
+From Rose:
+
+From Mimi:
+
+From Bret:
 
 ## Community
 
