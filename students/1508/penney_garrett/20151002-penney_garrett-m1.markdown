@@ -15,18 +15,24 @@ from Jeff Casimir:
 * Decent syntax and problem solving
 * Knowledge of enumerable tools feels shakey/rusty
 * Don't feel like you're in a place to solve hard problems without support
-### 1. Ruby Syntax & API
+
+##### 1. Ruby Syntax & API
 * 2: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental
 concepts
-### 2. Ruby Style
+
+##### 2. Ruby Style
 * 3: Developer writes code that is easy to follow
-### 3. Blocks & Enumerations
+
+##### 3. Blocks & Enumerations
 * 2: Developer can use enumerator methods, but struggles to choose the right one for the job or demonstrates weak understanding of blocks
-### 4. Testing
+
+##### 4. Testing
 * 3: Developer uses tests to guide development in small chunks
-### 5. Workflow
+
+##### 5. Workflow
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-### 6. Collaboration
+
+##### 6. Collaboration
 * 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
 
 
