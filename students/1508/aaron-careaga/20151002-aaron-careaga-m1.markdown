@@ -150,6 +150,8 @@ I wrote feedback for Emily Dowdle and Edgar Duran for their portfolios.
 
 * Emily Dowdle: "Pair programming with Aaron lacked many of the roadblocks I’ve experienced with other pairs. We decided to take five minutes to individually experiment with ideas in IRB and then came together to recursively create a custom method equal to .flatten. Aaron’s positive attitude made him a joy to work with and his logical insights filled the gaps in my own thinking, allowing us to efficiently develop a solution."
 
+* Edgar Duran: "Working with Aaron is an absolute pleasure. I can't say enough about how great of a partner he is. He is an incredibly hard worker as well as a knowledgable one. At no time was I ever worried that we would not accomplish our task because I knew Aaron's organization and work ethic are superb. He absolutely made me a better partner if only because I wanted to live up to the hard work he does. If it were up to me I'd pair with Aaron on every project."
+
 ### Playing a Part
 
 * I regularly mountain bike with fellow students and instructors, riding at least one day every week of the module.
