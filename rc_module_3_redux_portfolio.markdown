@@ -8,6 +8,8 @@ I had a hard time getting started in this module, due in part to the fact that i
 
 About three weeks in I was able to discuss with Jeff and Jorge how to approach repeating this module, and with that in mind, I worked on taking lessons to the next step as well as building my own apps and side projects. 
 
+That having been said, my scores from this module were improved over last, and I was able to start delving into some deeper topics that will be covered in module 4.  Specifically, I challenged myself to write a decent amount of my final project in javascript and jquery, two things I had not really dabbled in until a week ago, which I now understand far better than I did before. 
+
 ### End of Module Assessment
 
 #### Notes
@@ -52,25 +54,20 @@ In this project, we'll be focusing on consuming and working with data from publi
 
 #### RalesEngine
 
-* [GitHub URL](https://github.com/RMCornell/ralesengine)
+* [GitHub URL](http://github.com/rmcornell/rales)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rales_engine.markdown)
 
 In this project, we'll use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 
 ### Comments
-* Project fails more than 4 spec harness tests
-* Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
-* Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
-* Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
-* Project focuses tests on only a single layer of the stack, or has large gaps in the coverage)
+See below
 
 ### Scores
-* Completion: 1
-* Rails and ActiveRecord Style: 3
-* Ruby Style and Code Quality: 2.5
-* API Design: 3
-* Test Driven Design: 2
-
+* Completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+*Test-Driven Development: 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
+*Code Quality: 3: Project demonstrates solid code quality and MVC principles.
+*API Design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+*Queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 ## Team
 
