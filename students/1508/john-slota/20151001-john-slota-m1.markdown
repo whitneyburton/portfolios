@@ -4,7 +4,8 @@
 
 ### Your Mission
 
-To obtain a proficiency in software development so that I can obtain a position in crypto currencies.
+To obtain a proficiency in software development so that I can obtain a position in crypto currencies,
+and to grow myself as a person on the journey through life.
 
 ### End of Module Assessment
 
