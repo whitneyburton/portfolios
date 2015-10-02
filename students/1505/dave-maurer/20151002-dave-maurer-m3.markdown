@@ -132,8 +132,14 @@ a wonderful feeling.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Is in a good place now about programming and the future. 
+* Got a lot of benefit out of the pivot. 
+* Knows he wants to be with a company that will help show him best practices. 
+* Getting better and better at programming everyday. 
+* Knows one of his weaknesses is still doing extremely complex things. Feels he can still do it it just takes longer. 
+* Repetition is key to remembering and learning
+* Can learn what he needs to learn. Can find the answer and doesn't always need to ask someone.
+* show an upward trend of completion. We need to be sure that it is sustainable and things can be done on a deadline.
 
 ### Outcome
-
-( Leave blanks for reviewers )
+Pending
