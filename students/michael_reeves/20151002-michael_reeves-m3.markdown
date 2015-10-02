@@ -106,7 +106,8 @@ Multi-Tenancy capability.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* TBD
+* Possibly coming back in November
 
 ### Outcome
 
