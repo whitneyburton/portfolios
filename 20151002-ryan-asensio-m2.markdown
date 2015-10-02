@@ -44,11 +44,7 @@ Sinatra / Web and Business Logic: 3
 
 
 ##### Takeaway
-
-  * Group dynamics can make or break a team
-  * I problem-solve best on my own 
-  * Mob coding can be very frustrating 
-
+* Group dynamics can make or break a team * I problem-solve best on my own * Mob coding can be very frustrating 
 #### Little Shop of Orders (FasterFood)
 
   * [GitHub URL](https://github.com/rasensio1/faster_food)
@@ -57,7 +53,22 @@ Sinatra / Web and Business Logic: 3
   This project was a lot of fun. Our group of four was tasked to build an e-commerce site, where a user can add items to a cart and check out. There is also additional Admin functionality, use of 3 different APIs and front-end that isn't too bad. This project was fun, because the technical challenges weren't demoralizing, and yet, we put in a lot of good work. 
 
 
+yan & Michael & David & Justin
 
+* GitHub URL: http://github.com/rasenio1/faster_food
+* Production URL: fasterfood.herokuapp.com
+
+
+ Views need to be cleaned up. Grading rubric for views factors in partials and helpers, but there were script tags that didn't need to be there.
+ Excellent effort to move logic down the stack. Created a few POROS
+
+Feature Completeness: 4
+Views: 4
+Controllers: 4
+Models: 4
+Testing: 4
+Usability: 3
+Workflow: 3
 ##### My Contribution
 
 I was the team lead for this project. I set a very general scope and path for us to take in impementing the project. Code-wise, I implemented CRUD functionality for multiple models, the cart, added ActiveRecord Relationships, set up correct routing paths, added front-end design using boostrap templates and custom css, and implemented an API to calculate item delivery time. Additionally, I was the "unsticker" of the group --helping people get past walls and pulling the group out of the weeds, when we were deep in a problem.
