@@ -40,7 +40,7 @@ Sinatra / Web and Business Logic: 3
 
 ##### My Contribution
 
-  My contribution to this project was mainly as a guide for the team. We paired through the entire project, and my pair and I implemented the logic behind the url-specific data. This consited mainly of SQLite querires using the Sequql gem.
+  My contribution to this project was mainly as a guide for the team. We paired through the entire project, and my pair and I implemented the logic behind the url-specific data. This consited mainly of SQLite querires using the Sequel gem.
 
 
 ##### Takeaway
