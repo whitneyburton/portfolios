@@ -6,7 +6,7 @@
 
 I had a hard time getting started in this module, due in part to the fact that it was not clear to me on what I needed to be focusing on, having been held back to repeat this module. 
 
-About three weeks in I was able to discuss with Jeff and Jorge how to approach repeating this module, and with that in mind, I worked on taking the lessons to the next step as well as building my own apps and side projects. 
+About two weeks in I was able to discuss with Jeff and Jorge how to approach repeating this module, and with that in mind, I worked on taking the lessons to the next step as well as building my own apps and side projects. 
 
 That having been said, my scores from this module were improved over last, and I was able to start delving into some deeper topics that will be covered in module 4.  Specifically, I challenged myself to write a decent amount of my final project in javascript and jquery, two things I had not really dabbled in until a week ago, which I now understand far better than I did before and which I feel better prepared me for module 4.
 
@@ -98,8 +98,8 @@ Production: http://farmers-market-pivot.herokuapp.com
 
 * Completion: 4: Team completed all the user stories and requirements set by the client in timely manner.
 * Organization: 4: Team used a project management tool and updated their progress in real-time.
-* Test-Driven Development: (unclear why no score was given)
-* Code Quality: (unclear why this was not scored)
+* Test-Driven Development: (unclear why no score was given) - If I recall this was a 3.
+* Code Quality: (unclear why this was not scored) - If I recall this was a 3.
 * User Experience: 4: Project exhibits a production-ready and polished UX.
 
 ### Feedback To Me
