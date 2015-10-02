@@ -88,6 +88,9 @@ instructor_evaluation: Mike
 #### From Traffic-Spy
 * Has awesome ideas! Great at admitting when something is wrong, but his ideas are always worth exploring. We all think he can be more assertive and make sure his ideas are tried and heard! Ask others to explain their thinking, not with the intention of proving them wrong, but to make sure everyone's ideas are considered.
 
+#### From Little Shop
+* You seem to be a very hard worker. It was fun to be the leader of the project because I could just tell you to do things and you'd have them done, sometimes at 2am. I remember you saying at the end of last module that you didn't expect to enjoy this module, so you won't be surprised that I don't think this kind of work pushed you to your potential. It might benefit you to try being a team leader on the next project. You were an asset to the team.
+
 ### Playing a Part In the Community
 
 * On Friday, Sept 04, I organized an informal gathering for Turing Students and learned La Bamba for guitar
