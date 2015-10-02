@@ -55,7 +55,7 @@ In this project, we'll be focusing on consuming and working with data from publi
 
 ### Scores
 * Completion: 2
-  * Note: For this project I did not follow the rubric exactly, rather, added Tumblr functionality to an existing app that I had built during break and therefore had not looked at all the requirements. I did clear this with Jorge before doing it. 
+  * Note: For this project I did not follow the rubric exactly, rather, I added Tumblr functionality to an existing blog engine app that I had built during the intermission week and therefore had not looked at all the requirements. I did clear this with Jorge before doing it. 
   
 * Organization: 4
 * Test-Driven Development: 3
@@ -88,8 +88,8 @@ The only team project we worked on was the pivot - SupperSkip.  I worked on a te
 
 #### SupperSkip
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/mitchashby16/the_pivot)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
 Your Dinner Dash is getting somewhere, but our investors have decided that serving orders out of a single restaurant is never going to get us to the scale we'd like to see. What we need is a platform.
 
@@ -114,7 +114,7 @@ I provided feedback to anyone who asked for it and continued to offer feedback t
 
 ### Playing a Part
 
-There were no opportunities for outreach this module I was able to participate in   I did volunteer to be part of one that is coming up during the next module.  
+There were no opportunities for outreach this module I was able to participate in   I did volunteer to be part of the Young Entrepreneur program that is coming up during the next module.  
 
 One thing I did was work to connect with other 1503 students who were staying back to repeat the module, while also working to reach out to the new cohort members.  
 
