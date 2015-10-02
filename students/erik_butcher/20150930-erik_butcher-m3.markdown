@@ -97,8 +97,15 @@ I participated in many events outside of the normal framework of Turing. I atten
 
 ### Notes
 
+* Goal was to work on being more a part of the group. 
+* Had trouble with the personal project getting stuck. Taking a step back and evaluating the value of what you were struggling with is worth it. 
+* Think taking on more would be a good thing. Has leadership skills, but has fallen out of practice and thinks that it would be very helpul to try to bring that back. 
+* Great improvement with TDD
+* Still wants to work at attaining more proficiency in ActiveRecord
+* Still room to improve organization skill. Break things down. Set small, attainable goals. 
 
 
 ### Outcome
 
+Pending
 
