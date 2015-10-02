@@ -117,7 +117,16 @@ I paired every week of the module with my mentor, Troy Denkinger. We practiced R
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Focused on really carving out a piece of functionality and taking ownership for it. 
+* Took a lot away from Pivot and was very helpful. Learned a ton about rails
+* Important to identify technically risky things and know they may be an issue. 
+* Don't mess with production code at the last minute. 
+* Wanted active record class before rales engine
+* Personal project was a good lesson. Pivoting mid project was difficult but very valuable to see real world scenarios. Proud of personal project. 
+* Did a great job at improving on mistakes and having upward trends in things that initially didn't go well.
+* You take feedback well. Listen to it and incorporate it. 
+* Going forward - focus on tackling hard things. Develope an 'expertise' or spike in a particular knowledge. If you're just an average developer it will be hard to find a job... "Why should I hire this average dude?" 
+* Try to improve in algorythmic thinking. DSA 
 
 ### Outcome
 
