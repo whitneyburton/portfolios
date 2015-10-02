@@ -1,25 +1,19 @@
 # Dmitry Vizersky - Module 3 Portfolio
 
-## Individual
-
 ### Mission
 
 Coming into this module I stubburnly set out to complete each project no matter how much time I had to invest, work life balance had to be put to the side. I also commited to write at least 2 technical blog posts and present 1 technical lightning talk. Along with writing blog posts, I decided to become more aquanted with the WordPress application. I just wanted to self-host my blog, have full control over the style and layout, and take advantage of the powerful admin features. Being very intrested in the front-end pushed me to obtain a far more comprehensive understanding of Bootstrap, JavaScript, and Jquery. Considering front-end development means I had to learn more about the asset-pipeline as well. My personal project, which is so rad, is composed of 80% Javascript. And I solved some of the morning challenges in JS as well.
 
-### End of Module Assessment
+## Work
 
-### Work
-
-## Team
-
-### Projects
+### Team Project
 
 #### CodeStarter
 
 * [GitHub URL](https://github.com/marlabrizel/the_pivot)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown#pivots)
 
-We started with an existing single-tenant application from 1505's dinner-dash and built CodeStarter.
+Marla, Lovisa and I started with an existing single-tenant application from 1505's dinner-dash and built CodeStarter.
 CodeStarter is a multi-tenant web-application for software companies to present their
 dream projects and solicit needed funding from registered users.
 
@@ -74,7 +68,7 @@ In this project, I used Rails and ActiveRecord to build a JSON API which exposes
 
 #### Surf-Engine
 
-* [Bitbucket](Private Bitbucket respository)
+* Private Bitbucket respository
 * [Production URL](http://surf-engine.herokuapp.com)
 
 * Completion:   3, Developer completed all the user stories and requirements set by the client.
@@ -88,19 +82,18 @@ In this project, I used Rails and ActiveRecord to build a JSON API which exposes
 
 ### Giving Feedback
 
-filled out every single survey, except 1, and tried to give constructive feedback.
-Marla and Lovisa were my teamates for the pivot. I submitted earnest detailed feedback for both of them. I also took time to navigate Adam's personal project and provide detailed feedback on ways to improve user experience.
+filled out every single survey, except 1, and tried to give constructive feedback. Marla and Lovisa were my teamates for the pivot. I submitted earnest detailed feedback for both of them. I also took time to navigate Adam's personal project and provide detailed feedback on ways to improve user experience.
 
 ### Playing a Part
 
 * Welcomed 1508 at World Of Beer and tried not to scare them too much
-* Guided Sikhar in the right direction with bubble*sort
-* Early in the module, Consoled Marlo on the hardships of M*1 and how to not take things too seriously
+* Guided Sikhar in the right direction with BubbleSort
+* Early in the module, Consoled Marlo on the hardships of M-1 and how to not take things too seriously
 * Every week, invited a hand full of different fellow Turing students to lunch
 * Had lunch with at least 25% of Turing students, and almost 100% with Rob
 * For Traffic Spy, helped Regis build and sort a Hash of payload url's
 * Helped many fellow students with CSS issues
-* Made myself available for help to many students
+* Made myself available for help
 
 ## Review
 
