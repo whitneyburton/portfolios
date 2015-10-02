@@ -80,3 +80,14 @@ Throughout the six weeks I spent a lot of time helping other people. I also try 
 During week 2 I spent a lot of time pairing with people on Traffic Spy.
 During week 2 I helped to organize a camping trip for the weekend.
 
+## Notes
+
+* Goal was to find unique ways to do things.
+* Time management was something that was taken away from the Pivot particularly in regards to being in a group. 
+* Good take away. Not all APIs are created equal.
+* Still shaky on testing JavaScript. Would like to learn this. 
+* Personal project got the worst scores of the module, but felt like he got to most out of it.
+* Helped out on trafficSpy for mod 2. 
+* Continue helping others and being a part of the community. 
+* Continue being a group leader. Your reaching out to the outter community is excellent. Try to bring that back into the inner community too. 
+* Keep building on the 'spikes' of your knowledge. 
