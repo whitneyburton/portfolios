@@ -143,6 +143,11 @@ We received the following feedback and scores:
 * Usability: 3
 * Workflow: 4
 
+Partner Feedback:
+* You were a pleasure to work with. You're competent and communicative while pairing, and you were always willing to help with roadblocks that I would hit, as well as keep the group on track and organize what still needed to work on. I really appreciated all the work you put in. It was really great to wake up to a pull request from you after I thought we were all done for the day; that's something I can really learn from, just taking initiative like that. The only criticism I can offer is that you would get kind of frustrated if something wasn't working, and I think you might have the same problem I do where you want to figure it out for yourself instead of asking for help sooner. Anyway, it was a great experience working with you!
+
+* It was cool to be on a team with you since we didn't really "hang out" any before this project. I always enjoyed that you understood math-speak. Maybe it's just my personality type, but I find myself wishing you were a bit more assertive. It seems like you reserve your suggestions until too late and they becomes complaints, but I thought everything you had to say was valuable. I guess I should also work to come off as less intimidating. You definitely worked hard and did your part on the team. I'm interested to see what you do when you get out of turing.
+
 ## Community
 
 ### Playing a Part
