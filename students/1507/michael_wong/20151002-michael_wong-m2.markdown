@@ -35,10 +35,16 @@ I participated in the following team projects:
 This project required us to build a web app that was capable of receiving data
 and organizing that data using Sinatra and Active Record.
 
-Notes:
+Team: Mimi Schatz, Alon Waisman, Jeff Ruane, Michael Wong
 
+Assessed by: Josh M.
 
-
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Encapsulation / Components: 3
+* Fundamental Ruby & Style: 3
+* Sinatra / Web and Business Logic: 3
+* View Layer: 4
 
 I was told that my ability to be calm and clear were enviable but that I could
 have taken more initiative to experiment when driving. Aside from that, the
@@ -52,6 +58,8 @@ feedback was positive and everyone said they would pair again without a doubt.
 This project was to produce an E-commerce site that used Rails and Active Record
 to control a database and a users' ability to interact with the data following
 the MVC architecture.
+
+Team: Ryan Asensio, Justin Holzmann, David Stinette, Michael Wong
 
 Notes:
 
