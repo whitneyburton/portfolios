@@ -6,15 +6,6 @@
 
 This module I tried to focus on workflow, using tools, and of course understanding the beast that is Rails. I feel like I really solidified my practice with git, as well as sped up my workflow by using shortcuts in Atom as well as other tools to take some of the mundane aspects of programming away. I am really excited to feel like I understand Rails pretty well. It's cool to see all kinds of error messages and know exactly what file to look in for the next step given the output of the error. Exciting!
 
-### Mid-Module Assessment
-
-Instructor_evaluation: Mike D.
-* Ruby Syntax:       4
-* Rails Basics:      4
-* Javascript Basics: 4
-* Workflow:          4
-* Collaboration:     4
-
 ### End of Module Assessment
 
 Assessed By: Mike
