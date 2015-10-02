@@ -171,8 +171,8 @@ A Turing student builds up the community around them by participating and
 supporting other students, the larger Turing family, and persons outside our
 walls who want to develop their own skills.
 
-* 3: Student participates in required activities and does at least one or two
-above-and-beyond supports of the community.
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
 
 ## E: Peer & Instructor Feedback
 
