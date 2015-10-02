@@ -140,8 +140,18 @@ a longer presentation
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Goal was to improve all around Rails knowledge and goal was achieved. 
+* Another goal was to see what about development excited her
+* Testing edge cases and building robust tests something that was learned. 
+* Improved upon design and styleing - but still a work in progress. 
+* Rales_Engine - Liked the project. Thought it was practical and applicable to the real world. Thought time was an issue, but that was one of things that made it like the real world.
+* Did very well at improving on feedback. 
+* Involves the community and it is appreciated. 
+* Good leadership skills. People tend to perform better 'whether they like it or not'.
+* Expand range of tolerance for people that are different than you. People that dont have the same range of sophistication. For people that are maybe a little rough around the edges. Make sure that you are ready and willing to work in a world that is very 'quirky'. Feel comfortable with yourself and with the people around you. 
+* Find a balance. Have some flexibility. 
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED.
