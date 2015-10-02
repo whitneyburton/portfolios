@@ -55,7 +55,7 @@ No individual projects were assessed during this module.
 
 Build a Sinatra app to parse incoming JSON data and display meaningful statistics for it.
 
-My synopsis: I tried to go with the flow on this one, letting another take the lead, and pitching in where needed. After a miserable "technical check-in" I stepped up to get us caught up. I enjoyed the first group assignment, learning different techniques and tools from my teammates. I struggled with the lengthy discussions of minute details of the project. We got through it, though, and we were all pleased with both the outcome and the process. We didn't work unreasonable hours, at least not every day, and still learned a lot and received satisfactory marks.
+My synopsis: I tried to go with the flow on this one, letting another take the lead, and pitching in where needed. I enjoyed the first group assignment, learning different techniques and tools from my teammates. I struggled with the lengthy discussions of minute details of the project. We got through it, though, and we were all pleased with both the outcome and the process. We didn't work unreasonable hours, at least not every day, and still learned a lot and received satisfactory marks.
 
 ## Notes:
 
@@ -81,9 +81,9 @@ My synopsis: I tried to go with the flow on this one, letting another take the l
 * [GitHub URL](https://github.com/plato721/givenget)
 * [Original Assignment](https://github.com/turingschool/challenges/blob/master/project1.markdown)
 
-Build a Rails e-commerce site. We chose to build a site that would allow (eventually) for both donation and low-cost services.
+Build a Rails e-commerce site. We chose to build a site that would allow (eventually) for both donation and low-cost goods and services.
 
-My synopsis: This was a pile of work. I think we all learned a lot, and I think we put together a pretty decent project, especially in the back end. I was the "project manager" on this one, which was interesting. I was going to say it bore little resemblance to my experience with project management on the job, both as a contributor and lead, but in fact, it was plenty similar. PMs often lack real leverage, so it's about using whatever tricks they can to motivate and distribute the work. But given that I, too, knew how to do the work (or could figure it out), I did so when I was able if others didn't follow through.
+My synopsis: This was a pile of work. I think we all learned a lot, and I think we put together a pretty decent project, especially in the back end. I was the "project manager" on this one, which was interesting. I was going to say it bore little resemblance to my experience with project management on the job, both as a contributor and lead, but in fact, it was plenty similar. PMs often lack real leverage, so it's about using whatever means they can to motivate and distribute the work.
 
 Notes: (none received yet)
 
