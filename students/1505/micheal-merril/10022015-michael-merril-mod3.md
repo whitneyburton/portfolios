@@ -105,8 +105,14 @@ Turing can be pretty chaotic at times and I'm happy to give advice that puts thi
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Really tried to emerse himself this module.
+* Was very active in groups and with asking for help. 
+* Worked on doing TDD for Rales_Engine and improved a lot. 
+* Found that rails is not what he wants to do. 
+* Really wants to focus on javascript.
+* Worked really hard this module. 
+* Aim for front end skills. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
