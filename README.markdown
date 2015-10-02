@@ -35,9 +35,9 @@ Here are some notes about expectations for this cycle:
 
 ### Module 3
 
-* Individual Assessment: None
+* Individual Assessment: Only if needed
 * Required Project: Self-Directed Project
-* Included Projects: APIcurious, SupperSkip
+* Included Projects: APIcurious, Rales Engine, The Pivot
 * Feedback: Self-Solicited
 
 ### Module 4
