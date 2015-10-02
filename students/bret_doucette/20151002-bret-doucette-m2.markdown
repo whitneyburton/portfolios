@@ -198,7 +198,7 @@ Scores:
 
 **Feedback to me**
 
-TO BE DONE SOON
+Haby - Bret was a really great team team member to work with. He had an extremely high work ethic during our project and was highly accountable for the quality of his code and his workflow. Bret also paired really well, and was very communicative during sessions with trying to unravel complex problems. I think one area for growth might be a little more patience for dealing with challenging group dynamics when other group members were disrupting his workflow, etc. I would absolutely want to be in a group with Bret again!
 
 ## Community
 
