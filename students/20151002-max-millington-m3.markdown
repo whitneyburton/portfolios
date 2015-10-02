@@ -93,7 +93,19 @@ Steve evaluated me.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Focus was to learn course work. It was a busy module so no extra work. 
+* Approach was different per project.
+* Really took away how to work with APIs. 
+* Difficult part of the pivot was implementing sidekiq. 
+* Learned a lot about background worker. 
+* Testing APIs was biggest take away. 
+* Once you learn to stub Oauth it all went smoothly.
+* Active record was a big take away. 
+* Pleased with personal project. Learned a lot about twillio api. 
+* Focus on code quality. You have a lot of potential and if you focus particularly on code quality you can be great. * Find a specialty or somethign you really care about to set you apart. Have that thing you can demonstrate almost an expertise with be rewarding personally and important for the job search. 
+* Really inspiring community wise. We tend to forget about our outter community, but you really did well with this.
+* Would like to see you try to engage more with the inner community here at Turing. Help some students in lower modules. Be a leader. 
+* Really enjoy your resilience. 
 
 ### Outcome
 
