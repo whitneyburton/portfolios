@@ -155,8 +155,13 @@ and for us to be able to help each other as well.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Worked really hard on managing himself. Did a really good job at this. 
+* Had a difficult group for the Pivot, but overall tried to do what he could. 
+* Major take away. Follow project board. Do the user stories and just the user stories!
+* Personal project - all in all had a good project and had all the requirements. Was a success. 
+* Did a good job of self improvement. Came back this module and was very dilliberate about being focused. 
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
