@@ -112,6 +112,10 @@ We were evaluated by Mike:
 
 You are super easy to be friends with. This won't come as a surprise to anyone for me to say, but you are very soft-spoken. It's a bit hard to get opinions out of you, but I thought everything you said was valuable. (Our whole team seems to have that trait.) It is cool to work with you, because it's fun to see you get excited about things. I think you should try not to worry as much. I'm happy that you're in my module. You definitely did your share of the work.
 
+######MB
+
+ I really enjoyed working with you. You bring a good energy to a group because you are able to stay positive and calm in the face of challenges and frustrating moments. I think we could’ve solved some of our issues faster (i.e. paperclip) had we asked for help sooner, but I think your willingness to muddle through led to some good learning for all of us. I guess make sure you are striking a healthy balance between learning from the struggle and asking for support. You are a clear communicator and a strong coder. I learned a lot from you.
+
 ##Community
 
 ###Playing a Part
