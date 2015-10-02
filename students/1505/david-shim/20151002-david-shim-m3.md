@@ -124,9 +124,14 @@
   * I will be participating in the project for homeless shelters/charitable orgs led by Mitch, Alex and Max
 
 ## Notes
-
-
-
+* Mission for Mod3 was to solidify rails and learn active record. Really be able to use them in real world applications
+* Felt like he put in a lot more effort this module. 
+* "This is what Ill be doing professionally - I should probably know what I'm doing" - Dave
+* Pivot was a good project. Inherited a good codebase which was nice. Not many issues witht the inherited code base. Multitenancy was tricky, but it was good to learn. Felt good to build a platform that is reminisant of a real world application. 
+* Main challange of personal project was interpreting and translating business language for the app. 
+* Really excited to see all the community involvment. 
+* Would like you to try to work a lot in code quality. You have improved on this already, but there is still room to grow. This will slow you down in the long term but it will help tremendously with your growth as a developer. 
+* Your UX is polished and well thought out.
 
 
 ## Outcome
