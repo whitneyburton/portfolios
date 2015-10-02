@@ -65,11 +65,13 @@ Code Quality: 3
 User Experience: 3
 Performance: 3
 
-###**Giving Feedback**
+###**Feedback**
 
 Feedback I received :
 
 Michael Dorrance 1505 -> “Mitch took the role of project manager and ran with it. He truly lead my example through his planning, listening and delegating. The team stayed on task, focused, learned and had fun. Mitch is a natural problem solver and tackles any challenge head on. His code quality is great and he is happy to explain and show how he approached the solution. I would absolutely work with Mitch on any project at Turing or professionally in the workforce."
+
+Robert Cornell 1505 -> "Mitch was a lot of fun to work with.  He is focused and well versed in a number of topics.  Mitch likes to work more independently, but one of the things I liked is that when we did work in a group or as a pair, Mitch was not overbearing or difficult to work with, as I’ve experienced in the past.  He would explain his thinking as he went or explain if asked.  I enjoyed working with Mitch and would gladly work with him on a project again."
 
 
 ###**Playing a Part**
