@@ -34,13 +34,8 @@ TrafficSpy
 * [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1507/07-traffic-spy.yml)
 
 (description)
-Perhaps the most frustrating week of Module 2. This is where I realized that I
-am not a huge fan of group projects. I do not feel that I learn as much and I
-to compete with certain personality types. This should not be confused as being incompatible
-with classmates. I thorougly enjoyed my team mates. I became frustrated as I am fairly
-that things like team dynamics seemed to take away from learning opporunities.
 
-Other than that, I enjoyed the project.I think it's a great spring board for Rails.
+A project to learn the basics of HTTP requests MVC basics using Sinatra.
 
 (evaluation comments)
 
@@ -60,7 +55,17 @@ Travis and Matt and Adam:
       Sinatra / Web and Business Logic: 4
       View Layer: 3
 
-## Team
+## Team FeedBack
+
+#### From Travis Haby
+
+Adam definitely seemed to struggle with continuing to stay positive and engaged after he didn't understand something. It seemed like he was totally capable of grasping a concept with a little more persistence but sometimes he would start to shut down and disengage from grappling with a difficult concept (active record relations, etc.), which made it harder to understand what was going on. When we were mob coding I or Matt would explain something to him when he asked a question, and would sometimes day everything was ok and he understood even when it seemed like he didn't. I pushed back a few times and asked things like "are you sure you're good with that?" or "should we go over that one more time?" but unfortunately he would sometimes choose to not take that opportunity and allow our group to move on without him, which ended up snowballing into a larger and larger problem. I felt like I tried pretty hard to help him out and bring him along but it was really challenging to push past difficulties in his understanding when he became disengaged.
+
+#### From Matt Hecker
+
+Prior to our project together I had no idea how hard of a worker Adam was. Halfway through the project Adam fell behind. He felt he didn’t understand what was going on in our code base. After that, there was never a point Adam wasn’t striving to to increase his understanding. Between constantly seeking the support of mentors and ourselves Adam was able to catch up and even completely implement an extension on the project all by himself.  I was floored by the amount of momentum he gained by staying late and working things out.
+
+Besides being a hard worker he also showed alot of patience. Often the exchanges on how to proceed with the project would leave him out of the conversation due to him being polite and slightly quiet. Despite being cut off mid sentence he maintained composure and made sure that we understood him.
 
 ### Projects
 
@@ -94,28 +99,36 @@ work-flow, tasks, and expectations.
 
 (feedback to me)
 
-#### (Project Name)
+#### From George Hudson
 
-* [GitHub URL]()
-* [Original Assignment]()
+Great enthusiasm. I was happy to see you tackle projects you were not sure about and then return with something workable.  You were good at communication and at getting me to communicate better (one of my weaknesses in my opinion). You were patient, I think today was the only time we were even the slightest bit snappish and it was only because we were describing the same thing differently. … things to do better. Hmmm. this is always the harder one. usually because I don’t want to hurt feelings  but this time because I was really happy with you as a team member. We set a strong pace at the beginning and then I didn’t feel too rushed at the end. You helped us maintain that momentum. You answered my questions (especially my css questions) well. I feel MUCH stronger at css and html now.  Your weaknesses are mostly in that you just need to keep learning programming and you are already doing that.
 
-(description)
+#### From Jerrod Junker
 
-(evaluation comments)
+You’re usually very open to trying things that you haven’t before and learn them in depth(like paperclip).  Something you could improve on: Seeking to pair with people more than you already do could be beneficial
 
-(evaluation scores)
-
-(feedback to me)
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+I provided feedback to all persons that directly asked for it as well as all
+official partners during M2 projects.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I certainly tried to help out around the Turing Basement ALOT more. Specifically,
+I found helping students and reaching out to new people quite rewarding. I really
+didn't mind spending a couple of hours with some of the new 1508 students and helping
+them with projects and talking them through the initial pressure that is common
+when in M1.
+
+I also tried to contribute a lot more feedback for the Student Advisory Board. This
+meant actively seeking feedback. This is more diffucult than I originally thought.
+Most students do not have any feedback when approached directly. However, when
+feedback was offered, I was happy to share it with SAB.
+
+I also contributed my lightning talk during week 5 of M2 on basic algorithms.
 
 ## Review
 
