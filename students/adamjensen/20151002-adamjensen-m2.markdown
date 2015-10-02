@@ -5,7 +5,7 @@
 ### Areas of Emphasis
 (What did you set out to accomplish this module?)
 After completing M1, I was well aware that I was not the strongest student in
-the 1507 cohort. I am somwehat bothered by this and I spent the entire
+the 1507 cohort. I am somewehat bothered by this and I spent the entire
 intermission week studying. I was especially happy that the material introduced 
 was *NEW* and exciting!
 
@@ -14,7 +14,6 @@ the strongest rubyist, but I could work really hard on Rails and do well. After 
 no one really had experience with Rails!
 
 So, in short, my biggest area of emphasis was to learn Rails. I wanted to incredible at Rails!
-
 
 ### End of Module Assessment
 
@@ -76,13 +75,11 @@ Besides being a hard worker he also showed alot of patience. Often the exchanges
 * [GitHub URL](https://github.com/plato721/givenget)
 * [Original Assignment](not yet available)
 
-(description)
-
 A great project! Loved the flexibilty to branch out and try new technologies, integrations,
 and tasks. For me, this project was a good confidence booster and I finally started
 to feel like I might actually be learning Rails!
 
-I feel like this project wasthe first actual project with complex team dynamics,
+I feel like this project was the first actual project with complex team dynamics,
 work-flow, tasks, and expectations.
 
 (evaluation comments)
@@ -97,16 +94,17 @@ work-flow, tasks, and expectations.
 * Useability: 3
 * Workflow: 4
 
-(feedback to me)
-
-#### From George Hudson
+#### Feedback From George Hudson
 
 Great enthusiasm. I was happy to see you tackle projects you were not sure about and then return with something workable.  You were good at communication and at getting me to communicate better (one of my weaknesses in my opinion). You were patient, I think today was the only time we were even the slightest bit snappish and it was only because we were describing the same thing differently. … things to do better. Hmmm. this is always the harder one. usually because I don’t want to hurt feelings  but this time because I was really happy with you as a team member. We set a strong pace at the beginning and then I didn’t feel too rushed at the end. You helped us maintain that momentum. You answered my questions (especially my css questions) well. I feel MUCH stronger at css and html now.  Your weaknesses are mostly in that you just need to keep learning programming and you are already doing that.
 
-#### From Jerrod Junker
+#### Feedback From Jerrod Junker
 
 You’re usually very open to trying things that you haven’t before and learn them in depth(like paperclip).  Something you could improve on: Seeking to pair with people more than you already do could be beneficial
 
+#### Feedback from Matt Ewell
+
+None as of yet.
 
 ## Community
 
