@@ -101,8 +101,37 @@ group. I would really enjoy working with him again in the future."
 
 ### Giving Feedback
 
-I submitted written feedback to David Shim, Michael Dorrance, and Lovisa
-Svallingson.
+I submitted written feedback to:
+
+David Shim
+"I worked with David Shim on The Pivot project. Dave’s passion for developing
+web applications shone through. He was always willing to go the extra mile on
+the project, and do both the big and little things. We did really well on the
+project, in no small part to Dave’s contributions. I would gladly work with Dave
+again on any project."
+
+Michael Dorrance
+"Mike has made my experience at Turing a better one. His maturity makes him
+easily relatable and enjoyable to work with and be around. He has excellent
+people skills, and understands projects and users/clients at a higher level.
+Mike is also passionate about front-end work which is reflected in his projects.
+He has shared his passion for and knowledge of UX/UI and their related tools
+through student-led sessions as well as individual mini-sessions. Mike will
+undoubtedly make an excellent developer, project/product manager, and/or
+business owner. I would work with/for him any day."
+
+Lovisa Svallingson
+"One of our Gear-Up exercises asked something along the lines of 'Who do you
+most admire in your cohort and why?' It didn’t take long for Lovisa to come to
+mind. Lovisa constantly pushes herself with seemingly boundless energy. She is
+always going the extra mile on assignments, and working with mentors and staff.
+It’s simply amazing that she was able to build her self-directed project in Node
+and React, two technologies we haven’t even touched upon in class. As incredible
+as her coding accomplishments have been, I appreciate her contributions to
+Turing and the community even more. She put together the Aaron Schwartz
+documentary viewing, started the revival of the Turing podcast, and spoke at
+Boulder Ruby and Denver.rb to name just a few. If all of that weren’t enough,
+Lovisa is a great person to be around. Go Lovisa!"
 
 ### Being a Community Member
 
