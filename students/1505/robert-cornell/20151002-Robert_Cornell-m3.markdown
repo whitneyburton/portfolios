@@ -128,8 +128,12 @@ Additionally, I helped students in upper and lower cohorts with different things
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Tried to dive deeper into subjects
+* Built a lot on his own this module. 
+* for Rales_Engine the goal was to pass the spec harness. 
+* Personal project was a news aggregator. Built it out pretty quick and ended up moving it over to JavaScript. 
+* Did a great job this module.  
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
