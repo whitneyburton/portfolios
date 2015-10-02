@@ -30,10 +30,8 @@ Matt did well with a hard challenge. He was on top of every step of the process.
 #### Traffic Spy
  * [GitHub URL](https://github.com/HoffsMH/traffic_spy)
  * [Assignment Page](http://tutorials.jumpstartlab.com/projects/traffic_spy.html)
+ * https://gist.github.com/travishaby/c873b65c804095812f23
 
-  https://gist.github.com/travishaby/c873b65c804095812f23
-  instructor_evaluation: Josh M.
-    rubric:
       * Functional Expectations: 4
       * Test-Driven Development: 4
       * Encapsulation / Components: 3
