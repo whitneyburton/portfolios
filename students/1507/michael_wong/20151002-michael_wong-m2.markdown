@@ -13,7 +13,12 @@ good backend practices.
 
 Assessed By: Josh
 
-
+* Analytic/Algorithmic Thinking: 3
+* Ruby Syntax & Standard Library: 3
+* Rails Syntax & API: 3
+* Rails Style: 3
+* Testing: 4
+* Collaboration: 4
 
 ### Attendance
 
