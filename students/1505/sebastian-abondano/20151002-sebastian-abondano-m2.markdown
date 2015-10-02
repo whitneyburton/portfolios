@@ -113,5 +113,14 @@ Throughout my daily interactions and at retros I attempted to give more construc
 ## Review
 
 ### Notes
+* Tried to sork with others more. 
+* What gets measured matters. You heloing others matter because you started to monitor it. 
+* Pivot was a good expierence but challanging because all group members were very strong. 
+* Really enjoyed trying to mimic twitter for apicurious was a really cool thing and something he really enjoyed. 
+* Felt like a lot was learned and was very cool to get to a point that you can build something real and applicable.
+* One strength was deliberate features for a purpose. 
+* Continue helping others and participating in the community.
+* Could be very valuable and a leader in the community - but you need to try to do that and maintain. 
+
 
 ### Outcome
