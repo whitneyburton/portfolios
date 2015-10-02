@@ -96,11 +96,11 @@ Your Dinner Dash is getting somewhere, but our investors have decided that servi
 GitHub: http://github.com/mitchashby16/the_pivot
 Production: http://farmers-market-pivot.herokuapp.com
 
-Completion: 4: Team completed all the user stories and requirements set by the client in timely manner.
-Organization: 4: Team used a project management tool and updated their progress in real-time.
-Test-Driven Development:
-Code Quality: (unclear why this was not scored)
-User Experience: 4: Project exhibits a production-ready and polished UX.
+* Completion: 4: Team completed all the user stories and requirements set by the client in timely manner.
+* Organization: 4: Team used a project management tool and updated their progress in real-time.
+* Test-Driven Development:
+* Code Quality: (unclear why this was not scored)
+* User Experience: 4: Project exhibits a production-ready and polished UX.
 
 ### Feedback To Me
 
