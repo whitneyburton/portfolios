@@ -99,8 +99,13 @@ filled out every single survey, except 1, and tried to give constructive feedbac
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Worked harder this module than any other module. 
+* learned more about MVC during Rales_Engine than any other project. 
+* Learned a lot of JavaScript and jQuery during personal project.
+* Has a great drive and motivation and desire. 
+* Has been working really hard. 
+* Could improve with self management. Take breaks and be more self aware of your physical and mental state. Don't want to burn out and become unfunctional. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
