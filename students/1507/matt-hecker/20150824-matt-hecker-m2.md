@@ -101,6 +101,7 @@ Matt did well with a hard challenge. He was on top of every step of the process.
 
   * done a little pairing with 1508.
   * have made an effort to unclog toilets that I did not clog myself (Horace may have helped)
+  * bring coffee/candy in for cohort
 
 ## Review
 
