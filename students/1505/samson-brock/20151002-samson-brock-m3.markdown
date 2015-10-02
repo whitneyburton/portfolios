@@ -116,6 +116,10 @@ explain it so that you understand it. He is a great guy who is a team player and
 always brings a positive attitude."
 - Michael Dorrance
 
+"Sam is an extremely hard worker and active supporter of the Turing community.
+He is focused on the work at hand and commits to finishing projects."
+- Anonymous
+
 ### Playing a Part
 
 On Wednesday, August 19, I organized a Denver Cruiser Ride social event.
