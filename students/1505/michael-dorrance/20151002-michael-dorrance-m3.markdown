@@ -96,7 +96,14 @@ I participated in the first Turing Kids Who Kid session on Saturday September 12
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Building something real that people can use - That's the real value of an api.
+* ActiveRecord ActiveRecord ActiveRecord 
+* Nice ability to take on something challenging and the unknown and just work towards accomplishing something. 
+* Learned the value of front end JavaScript frameworks with personal project. Did not use one and had painfully slow load times. 
+* Great scence of product. 
+* Good job getting more experience with the backend. 
+* Develope that thing that will set you apart from the rest of the applicants. 
+
 
 ### Outcome
 
