@@ -1,4 +1,4 @@
-I### Submission
+### Submission
 
 A pull request with your submission must be made at least 12 hours before your
 scheduled defense. Non-conforming formats, filenames, or directories will be
