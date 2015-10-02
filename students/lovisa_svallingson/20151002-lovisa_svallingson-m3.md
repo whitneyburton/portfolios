@@ -93,6 +93,10 @@ it has been more difficult to take a break and do other things than coding. I di
 
 ```I was really tentative about joining 1505, and it took several week before I felt comfortable with my cohort-mates. Lovisa is one of the few bright spots. Early on and throughout the module, she made me feel welcomed and at ease. She works harder than anyone I know and also gives/teaches generously, cheerfully and patiently. We’re all lucky to have her here!```
 
+* from Sam Brock:
+
+```One of our Gear-Up exercises asked something along the lines of “Who do you most admire in your cohort and why?” It didn’t take long for Lovisa to come to mind. Lovisa constantly pushes herself with seemingly boundless energy. She is always going the extra mile on assignments, and working with mentors and staff. It’s simply amazing that she was able to build her self-directed project in Node and React, two technologies we haven’t even touched upon in class. As incredible as her coding accomplishments have been, I appreciate her contributions to Turing and the community even more. She put together the Aaron Schwartz documentary viewing, started the revival of the Turing podcast, and spoke at Boulder Ruby and Denver.rb to name just a few. If all of that weren’t enough, Lovisa is a great person to be around. Go Lovisa!```
+
 ## Review
 
 ### Notes
