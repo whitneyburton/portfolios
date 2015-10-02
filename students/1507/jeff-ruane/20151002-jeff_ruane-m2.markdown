@@ -108,6 +108,10 @@ We were evaluated by Mike:
 
 #####Feedback from Group
 
+######Russell
+
+You are super easy to be friends with. This won't come as a surprise to anyone for me to say, but you are very soft-spoken. It's a bit hard to get opinions out of you, but I thought everything you said was valuable. (Our whole team seems to have that trait.) It is cool to work with you, because it's fun to see you get excited about things. I think you should try not to worry as much. I'm happy that you're in my module. You definitely did your share of the work.
+
 ##Community
 
 ###Playing a Part
