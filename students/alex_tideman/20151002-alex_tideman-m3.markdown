@@ -104,3 +104,20 @@ Production: http://collectors-world.herokuapp.com
 * Every morning I assisted with my Posse mates on the warmup problems and helped out with any of their projects when needed.
 * Any time I stayed late I would seek out someone to help or offer advise on how to approach their project.
 * On Friday, September 25, I delivered a lightning talk "Immersive Journalism with VR"
+
+
+## Notes
+* Really wanted to be able to create an entire Rails app on his own. Really worked hard practicing Rails. Feels really comfortable now using Rails
+* Would have liked to practice more ajax and JS.
+* Wants to practice refactoring and code quality a little more. 
+* Had a great pivot group and really enjoyed working with them. 
+* Felt empowered now that he can use APIs.
+* Great attitude all the time. 
+* Personal project was a personal win. It was something he wanted to do before coming to Turing
+* Can take any challange and not be overwhelmed. 
+* Can figure anything out. 
+* Have a great calm energy. 
+* Focus on optimizing code quality. Do things in the best way possible. Refactoring - expressivness in the code.
+* Complexity doesnt bother you, but complex isn't ideal. We write code for others and our future selves. 
+* Focus on purposful features. What value does it have? What do I need to do for this user to be able to succeede using my app. 
+
