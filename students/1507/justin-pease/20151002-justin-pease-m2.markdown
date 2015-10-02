@@ -203,8 +203,8 @@ with the module's content and expectations.
 A Turing student works to maximize their skill growth and demonstrates
 that skill across a variety of work.
 
-* 2: Student demonstrates some lack of engagement or growth in their individual
-skill or project outcomes without a clear upward trend.
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
 
 ## C: Group Work & Projects
 
