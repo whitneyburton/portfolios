@@ -93,6 +93,8 @@ instructor_evaluation: Mike
 
 * You were great to work with. You're very strong with Ruby, I like your refactoring instincts, and you're also strong with Rails (whether you like it or not). I really appreciated all the work you put in after hours, especially down the home stretch. The only criticism I can offer is sometimes you would have a problem with certain parts of the app, but it seemed like you weren't really able to communicate why you had a problem with it, so it kind of made it difficult to talk through what I was thinking when I wrote it. Overall, it was a great experience, though, and I certainly look forward to working with you again.
 
+* I enjoyed working with you again. You really have a strong grasp of everything we’ve learned this module, and you come up with creative solutions. You are able to dig in and figure out why something isn’t working. You can be laser focused and in the zone with work, but also bring a fun sense of humor which is nice to lighten things up. I’d say the same thing as traffic spy…. try verbalizing your thought process more because I think it will help others to learn from you and help you to clarify your ideas. And give the front end a shot even though you hate it!
+
 ### Playing a Part In the Community
 
 * On Friday, Sept 04, I organized an informal gathering for Turing Students and learned La Bamba for guitar
