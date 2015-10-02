@@ -91,6 +91,8 @@ instructor_evaluation: Mike
 #### From Little Shop
 * You seem to be a very hard worker. It was fun to be the leader of the project because I could just tell you to do things and you'd have them done, sometimes at 2am. I remember you saying at the end of last module that you didn't expect to enjoy this module, so you won't be surprised that I don't think this kind of work pushed you to your potential. It might benefit you to try being a team leader on the next project. You were an asset to the team.
 
+* You were great to work with. You're very strong with Ruby, I like your refactoring instincts, and you're also strong with Rails (whether you like it or not). I really appreciated all the work you put in after hours, especially down the home stretch. The only criticism I can offer is sometimes you would have a problem with certain parts of the app, but it seemed like you weren't really able to communicate why you had a problem with it, so it kind of made it difficult to talk through what I was thinking when I wrote it. Overall, it was a great experience, though, and I certainly look forward to working with you again.
+
 ### Playing a Part In the Community
 
 * On Friday, Sept 04, I organized an informal gathering for Turing Students and learned La Bamba for guitar
