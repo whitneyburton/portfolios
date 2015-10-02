@@ -6,18 +6,63 @@ Areas of Emphasis
     -Offering Help to Others
     -Being A Part of Turing
 
+
+
 Mid Module Assessment:
 
-Assessed By: Josh M.
+Evaluator: Josh M
 
-    3s on everything aside from the communication piece
+
+Analytic/Algorithmic Thinking Score: 3
+
+
+Ruby Syntax & Standard Library Score: 3
+
+
+Rails Syntax & API Score: 3
+
+
+Rails Style Score: 2.5
+
+
+Testing Score: 3
+
+
+Collaboration Score: 2
+
+
 
 
 End of Module Assessment:
 
-Assessed By: Josh M. Challenge: #1
+Assessed by: Josh Mejia on 2015.09.29
 
-Four 3s, a 3.5, and a 4.
+Notes
+
+We're working in Scrabble Web.
+
+Challenge: 1. Top Plays
+
+Scores
+
+1. Analytic/Algorithmic Thinking
+Score: 3+
+
+2. Ruby Syntax & Standard Library
+Score: 4
+
+3. Rails Syntax & API
+Score: 4
+
+4. Rails Style
+Score: 3
+
+5. Testing
+Score: 3
+
+6. Collaboration
+Score: 3
+
     
 
 Attendance
