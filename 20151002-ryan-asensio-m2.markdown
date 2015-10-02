@@ -44,7 +44,9 @@ Sinatra / Web and Business Logic: 3
 
 
 ##### Takeaway
-* Group dynamics can make or break a team * I problem-solve best on my own * Mob coding can be very frustrating 
+* Group dynamics can make or break a team 
+*  I problem-solve best on my own 
+*  Mob coding can be very frustrating 
 #### Little Shop of Orders (FasterFood)
 
   * [GitHub URL](https://github.com/rasensio1/faster_food)
