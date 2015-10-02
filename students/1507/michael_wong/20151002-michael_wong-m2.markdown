@@ -59,6 +59,7 @@ feedback was positive and everyone said they would pair again without a doubt.
 
 * [GitHub URL](https://github.com/rasensio1/faster_food)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+* [Production URL](fasterfood.herokuapp.com)
 
 This project was to produce an E-commerce site that used Rails and Active Record
 to control a database and a users' ability to interact with the data following
@@ -66,7 +67,22 @@ the MVC architecture.
 
 Team: Ryan Asensio, Justin Holzmann, David Stinette, Michael Wong
 
-Notes:
+Assessed by Tess
+
+#### Notes
+
+* Views need to be cleaned up. Grading rubric for views factors in partials and helpers, but there were script tags that didn't need to be there.
+* Excellent effort to move logic down the stack. Created a few POROS
+
+#### Scores
+
+* Feature Completeness: 4: All features are correctly implemented along with two extensions
+* Views:                4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+* Controllers:          4: Controllers show significant effort to push logic down the stack
+* Models:               4: Models show excellent organization, refactoring, and appropriate use of Rails features
+* Testing:              4: Project has a running test suite that exercises the application at multiple levels
+* Usability:            3: Project is highly usable, but needs more polish before it'd be customer-ready
+* Workflow:             3: Good use of branches, pull requests, and a project-management tool.
 
 
 
