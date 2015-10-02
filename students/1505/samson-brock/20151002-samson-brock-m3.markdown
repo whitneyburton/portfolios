@@ -161,7 +161,12 @@ were locked up at night.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Take aways form Mod 3 - Focus on RoR. 
+* Learning to work with a strict api was very enlightening.
+* Rales_Engine - realized didn't know a ton about ActiveRecord. Would like more ActiveRecord support.
+* Optimizing the speed of application was tricky. Was able to do some things to improve this. Was a good take away from the project. 
+* Find something to differentiate yourself from other developers. Find your edge that can set you apart. 
+
 
 ### Outcome
 
