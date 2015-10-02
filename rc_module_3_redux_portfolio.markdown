@@ -98,7 +98,7 @@ Production: http://farmers-market-pivot.herokuapp.com
 
 * Completion: 4: Team completed all the user stories and requirements set by the client in timely manner.
 * Organization: 4: Team used a project management tool and updated their progress in real-time.
-* Test-Driven Development:
+* Test-Driven Development: (unclear why no score was given)
 * Code Quality: (unclear why this was not scored)
 * User Experience: 4: Project exhibits a production-ready and polished UX.
 
