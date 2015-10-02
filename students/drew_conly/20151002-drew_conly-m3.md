@@ -125,7 +125,11 @@ those from other cohorts that I've paired with.
 
 ###Notes
 
-( Leave blanks for reviewers )
+* Wanted to build something significant in Mod 3. 
+* Increase comfortability with Rails. 
+* Pivot was a big challenge. Group was a unique dynamic. Thought he could have doen a better job keeping group on track. Project came down to the wire and just didnt deliver on time. 
+* API Curious - Consuming data is a powerful thing. 
+* Biggest challenge for Rales_Engine was the api calls and SQL/ActiveRecord. 
 
 Outcome
 
