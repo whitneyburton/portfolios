@@ -16,8 +16,6 @@ This module I attended all days and classes on-time, prepared to learn and eager
 
 ### Work
 
-.................................................................(Intro)
-
 #### API-Curious
 
 * [GitHub Repo](https://github.com/adamcaron/api_curious)
@@ -69,8 +67,6 @@ Performance: 3 - Project pages load on average under 400 milliseconds.
 ## Team
 
 ### Projects
-
-...........................(Intro)
 
 #### The Pivot
 
