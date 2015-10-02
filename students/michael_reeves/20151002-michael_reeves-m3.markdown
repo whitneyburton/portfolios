@@ -5,20 +5,14 @@
 ### Areas of Emphasis
 
 This module I hope to learn how to consume and produce APIs using Rails.  I
-also hope to become more comfortable with JavaScript and finally start using
+also hope to become more comfortable with JavaScript and start using
 JQuery.
 
 ### End of Module Assessment
 
 (Notes & scores from your assessment rubric)
 
-### Attendance
-
-(Summary of any missed time 1/2 day or more)
-
 ### Work
-
-(Intro)
 
 #### MicroBlogger
 
@@ -30,60 +24,79 @@ a Twitter clone using Rails 4.2.  It covers setting up user authentication
 and authorization, as well as friendly forwarding and email account
 verification and password resets.
 
-(evaluation comments)
-
-(evaluation scores)
-
 #### API Curious
 
-* [GitHub URL]()
-* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md#technical-expectations)
+* [GitHub URL](https://github.com/michael-reeves/octo_kitty)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
-(description)
+Learn to consume an API and emphasize UX experience.
 
-(evaluation comments)
+- Completion: 3
+- Organization: 4
+- Test-Driven Development: 4
+- Code Quality: 4
+- User Experience: 4
 
-(evaluation scores)
+#### Rails Engine
 
-#### (Project Name)
+* [GitHub URL](https://github.com/michael-reeves/rails_engine)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rales_engine.markdown)
 
-* [GitHub URL]()
-* [Original Assignment]()
+Learn how to to build Single-Responsibility controllers to provide a
+well-designed and versioned API. Learn how to use controller tests to drive your
+design. Use Ruby and ActiveRecord to perform more complicated business
+intelligence.
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+- Completion: 3
+- Test-Driven Development: 4
+- Code Quality: 3
+- API Design: 4
+- Queries: 4
 
 ## Team
 
 ### Projects
 
-(Intro)
-
 #### The Pivot
 
 * [GitHub URL](https://github.com/mrjaimisra/the_pivot)
-* [Original Assignment]()
+* [Production](http://imagine-take2.herokuapp.com)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
-(description)
+Take an existing project and move it in another direction.  Include
+Multi-Tenancy capability.
 
-(evaluation comments)
+- Completion: 3
+- Organization: 4
+- Test-Driven Development: 4
+- Code Quality: 3.5
+- User Experience: 4
 
-(evaluation scores)
+> Mike is not only a talented programmer but is also an effective and valuable
+> collaborator. He stepped into leadership roles when necessary but was always
+> a positive contributor to the group as a whole. While it is easy for those
+> who are ahead to either intentionally or unintentionally leave others
+> behind, Mike was always careful to keep everyone in the group on the same
+> page and to provide guidance to teammates when necessary. I would be happy
+> to work with him again any time. - Tyler Graham
 
-> Mike is not only a talented programmer but is also an effective and valuable collaborator.
-> He stepped into leadership roles when necessary but was always a positive contributor to the group as a whole. While it is easy for those who are ahead to either intentionally or unintentionally leave others behind, Mike was always careful to keep everyone in the group on the same page and to provide guidance to teammates when necessary. I would be happy to work with him again any time. - Tyler Graham
+> I had been hoping I would be able to work on a project with Mike Reeves,
+> to be able to pick his brain, observe his process, and learn some new
+> techniques from his years of experience as a developer. In every way,
+> working with Mike exceeded my expectations but the most impressive thing
+> about Mike is how much he cares about his team mates, and his conviction
+> that we should have a showpiece project for employers. I learned a ton
+> from Mike during an overnight pairing session at Turing that ended at 5am,
+> where we combed over the app's features and made sure it deployed properly.
+> Even after all that effort, Mike spent a weekend after the evaluation
+> debugging the app, and submitted pull requests on all of the bugs we
+> discovered during the evaluation and demo. I came out of the project feeling
+> grateful for his hard work and impressed at what we accomplished because
+> of it. - Jai Misra
 
 ## Community
 
-### Giving Feedback
-
-(feedback from me)
-
 ### Playing a Part
-
 
 > Mike Reeves in my posse (Matsumoto) has been awesome all this week and last helping me think through issues in Chisel and other projects. - Sekhar
 
