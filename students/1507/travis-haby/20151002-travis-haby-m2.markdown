@@ -118,3 +118,53 @@ I gave detailed feedback to the members of my Traffic Spy project, and will give
 ### Playing a Part
 
 In general I try to give back to the comunnity on a daily basis when I see things that aren't being addressed. Many mornings when I arrive around 8:00-8:15, the dishwashers are covered in dirty dishes from the previous day. I think on an average of about every other day I would unload the clean dishes and load up the dishes on top of the washers. This may seem traiviail but since it was a clear need that wasn't being met I stepped up to the unglamorous task of taking care of it. I also tried to be cognizant of module 1 students that were struggling a little bit with projects here and there. Often when I head out for the night I will take an extra 15 minutes to stop by a pair of 1508 students working at a TV to try to help with whatever they are working on. Especially in the beginning, I made sure that 1508's in my posse and others were set up and knew how to use Pry and Ruby Docs to get the information for the solutions they needed, since in my exerpience "teaching a man to fish" is the most important thing someone can do for you when you are first starting to learn to code.
+
+
+### Notes
+
+* Would like to see more community participation. Perhaps speaking at Denver.rb or Boulder.rb.
+### Outcome
+
+## A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+* 4: Student achieved two or more "4s" on the assessment
+
+
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+
