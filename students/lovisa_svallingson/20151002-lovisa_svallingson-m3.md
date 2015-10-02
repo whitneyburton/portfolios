@@ -101,7 +101,15 @@ it has been more difficult to take a break and do other things than coding. I di
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Wanted to really focus on JavaScript. 
+* Felt like Pivot was a bit repetative. 
+* Enjoyed and thought ActiveRecord was interesting, but wanted some exposure before the project. 
+* Got great feedback from so many people. 
+* Pushes very hard. Does amazing work constantly. Aims for perfectionism. 
+* Understand your limits a little bit more. Make sure you take care of yourself. 
+* Taking time off from programming is ok. Find some outlets - you will never be a slacker. 
+* Overall you're one of the best. You will do amazing things.
+
 
 ### Outcome
 
