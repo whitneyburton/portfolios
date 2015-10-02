@@ -106,11 +106,17 @@ I would really like to pair again sometime. However, I will likely make it a goa
 
 ##### Earmarked (Little Shop of Orders)
 
-From Rose:
+###### From Rose:
 
-From Mimi:
+###### From Mimi:
 
-From Bret:
+This was the first time I’ve worked with Travis and after a week plus of pairing, I would happily work with him again. Travis was always willing to take on any task, whether it was small or large. Specifically, we worked together to create an undo method, integrate Stripe, and test some features that neither of us had done before. Travis did not balk at the challenge, but rather jumped at the opportunity to learn something new. Not everyone is adept at navigating unchartered territory, but Travis takes it all in stride while successfully completing the task. I’d happily work with him again!
+
+###### From Bret:
+
+Travis was a pleasure to work with. He was hardworking, reliable, and communicative. He was also patient and organized which kept the group moving forward even during the more trying parts of our project. I also enjoyed pairing with Travis, as he was able to explain complex problems quite effectively. However, the best part about working with Travis was that he was someone I could trust. For example, I could trust that he would write quality code, I could trust that he would deploy our app on time, I could trust that he would finish his assigned tasks on time if not earlier; etc.  Working with someone you could rely on and trust (i.e. Travis) made this project much more enjoyable.
+
+I would work with Travis again and have no comments for improvement… except maybe having a different fantasy team name.
 
 ## Community
 
