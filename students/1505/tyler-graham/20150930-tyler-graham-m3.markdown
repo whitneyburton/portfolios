@@ -104,8 +104,15 @@ I have openly received feedback from many other members of the cohort throughout
 
 ### Notes
 
-( Leave blanks for reviewers )
+* This was the first module that he felt like he had the skills necessary to be a 'real' developer.
+* During rales_engine - really took away a lot. Really enjoying ActiveRecord 
+* Feeling good about the database side of things. 
+* Keep up the good/hard work.
+* Very good to have you in the group
+* Knows how to take things lightly and have a great attitude. 
+* Has leadership potential. Looking forward to seeing your progress. 
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
