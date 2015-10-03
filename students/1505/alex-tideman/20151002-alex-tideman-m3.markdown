@@ -121,4 +121,8 @@ Production: http://collectors-world.herokuapp.com
 * Focus on optimizing code quality. Do things in the best way possible. Refactoring - expressivness in the code.
 * Complexity doesnt bother you, but complex isn't ideal. We write code for others and our future selves.
 * Focus on purposful features. What value does it have? What do I need to do for this user to be able to succeede using my app.
+* 
+
+## Outcome
+Pass
 
