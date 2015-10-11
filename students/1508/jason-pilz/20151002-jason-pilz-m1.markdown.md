@@ -8,7 +8,26 @@ Going into this module, I set out to gain a solid understanding and familiarity 
 
 ### End of Module Assessment
 
-* Waiting on Andrew...
+Assessed by: Andrew Carmer
+
+##### Scores
+* Ruby Syntax & API: 3
+* Ruby Style: 3
+* Blocks & Enumerations: 3
+* Testing: 3
+* Workflow: 3
+* Collaboration: 3
+
+##### Notes
+* Fairly solid all around
+* Some good workflow practices but could use improvement
+* Developer is able to comfortably implement solutions in Ruby
+* Developer writes code that is easy to follow
+* Developer demonstrates understanding of blocks and can effectively use enumerable methods
+* Developer uses tests to guide development in small chunks
+* Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
 
 ### Attendance
 
