@@ -35,12 +35,12 @@ Aside from that, I still have a lot of the same goals as last module. I want to 
 
 (Intro)
 
-#### (Project Name)
+#### The Pivot (Earmarked)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/jbrr/the_pivot)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
-(description)
+In this project, we took Rose's codebase from last module's *Little Shop of Orders* and extended on it. We added admin functionality, more stats to track donations, and more. I was on a team with Regis and Rose.
 
 (evaluation comments)
 
