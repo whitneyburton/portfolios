@@ -61,6 +61,7 @@ Aside from that, I still have a lot of the same goals as last module. I want to 
 ### Playing a Part
 
 * On October 10, during the break week, I came into school to help teach the Kids Who Code class.
+* On October 16, I held a student led session with Alon and Ross to help module 1 students make bash aliases and customize Atom.
 
 ## Review
 
