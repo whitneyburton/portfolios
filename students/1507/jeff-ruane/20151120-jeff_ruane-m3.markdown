@@ -35,7 +35,7 @@ Aside from that, I still have a lot of the same goals as last module. I want to 
 
 (Intro)
 
-#### The Pivot (Earmarked)
+#### The Pivot (Earforked)
 
 * [GitHub URL](https://github.com/jbrr/the_pivot)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
@@ -60,7 +60,7 @@ In this project, we took Rose's codebase from last module's *Little Shop of Orde
 
 ### Playing a Part
 
-* On October 10, during the break week, I came into school to help teach the Kids Who Code class.
+* On October 10, I helped teach the Kids Who Code class.
 * On October 16, I held a student led session with Alon and Ross to help module 1 students make bash aliases and customize Atom.
 
 ## Review
