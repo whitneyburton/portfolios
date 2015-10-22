@@ -40,11 +40,30 @@ Aside from that, I still have a lot of the same goals as last module. I want to 
 * [GitHub URL](https://github.com/jbrr/the_pivot)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
-In this project, we took Rose's codebase from last module's *Little Shop of Orders* and extended on it. We added admin functionality, more stats to track donations, and more. I was on a team with Regis and Rose.
+In this project, we took [Rose's codebase](https://github.com/TeamConchord/Earmarked) from last module's *Little Shop of Orders* and extended on it. We added admin functionality, more stats to track donations, and more. I was on a team with Regis and Rose. We were evaluated by Mike:
 
-(evaluation comments)
+##### Evaluation Comments
 
-(evaluation scores)
+
+* Twilio verify phone number on login.
+* there are charts and graphs and progress bars.
+* No paperclip.
+* 96.23 percent coverage
+* 100 tests.
+* Some opportunities to refactor, perhaps look at decorators.
+* Some sweet graphs
+* last tweet from candidate
+* Amazing hero image. <3
+
+
+##### Evaluation Scores
+
+* Feature Completeness: 4
+* Organization: 3
+* Progress: 4
+* TDD: 3
+* Code Quality: 3
+* UX: 4
 
 (feedback to me)
 
