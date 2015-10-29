@@ -18,6 +18,20 @@ Aside from that, I still have a lot of the same goals as last module. I want to 
 
 (Intro)
 
+#### Apicurious
+
+* [GitHub URL](https://github.com/jbrr/apicurious)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md#technical-expectations)
+* [Heroku Deployment](https://jbrr-apicurious.herokuapp.com)
+
+In this project, I started learning how to work with APIs by building a Twitter clone. I was evaluated by Jorge and recieved the following scores:
+
+* Completion: 3
+* Organization: 4
+* TDD: 4
+* Code Quality: 4
+* UX: 3
+
 #### (Project Name)
 
 * [GitHub URL]()
@@ -39,6 +53,7 @@ Aside from that, I still have a lot of the same goals as last module. I want to 
 
 * [GitHub URL](https://github.com/jbrr/the_pivot)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
+* [Heroku Deployment](https://earforked.herokuapp.com)
 
 In this project, we took [Rose's codebase](https://github.com/TeamConchord/Earmarked) from last module's *Little Shop of Orders* and extended on it. We added admin functionality, more stats to track donations, and more. I was on a team with Regis and Rose. We were evaluated by Mike:
 
