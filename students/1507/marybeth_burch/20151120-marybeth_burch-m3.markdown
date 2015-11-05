@@ -104,11 +104,11 @@ Scores:
 
 ### Playing a Part
 
-* I volunteered to help host the Women Who Code Ruby study group.
+* I volunteered to help host the Women Who Code Ruby study group, and have attended each time it is held at Turing.
 * Kids Who Code
-* Young entrepreneurs
+* I volunteered to help with Young Entrepreneurs and built a website for an aspiring food blogger.
 * Clothing Swap? Bike work day?
-* Reaching out to new people and offering support.
+* I've done a better job this module of getting to know people in modules one and two. I feel like I've met some cool people this module!
 * I pick up after others, run the dishwasher, and do some cleanup almost every day. I make lots of coffee and taught new people how to make it, too.
 * I'm present for warm-up every day and actively contribute. I've started trying to organize a posse gathering outside of school with mentors and have a little interest, but need to follow through.
 
