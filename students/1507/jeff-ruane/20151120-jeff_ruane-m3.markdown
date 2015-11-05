@@ -32,16 +32,18 @@ In this project, I started learning how to work with APIs by building a Twitter 
 * Code Quality: 4
 * UX: 3
 
-#### (Project Name)
+#### Rales Engine
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/jbrr/rales-engine)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
 
-(description)
+In this project, I built Sales Engine using ActiveRecord, and exposing API endpoints of all the queries.
 
-(evaluation comments)
-
-(evaluation scores)
+* Completion: 3
+* TDD: 4
+* Code Quality: 3.5
+* API Design: 4
+* Queries: 3
 
 ## Team
 
