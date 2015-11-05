@@ -1,10 +1,10 @@
-# Mary Beth Burch - M2 Portfolio
+# Mary Beth Burch - M3 Portfolio
 
 ## Individual
 
 ### Your Mission
 
-I will continue to be intentional about bringing a positive attitude and a growth mindset each day. I will get better at embracing road blocks and work on my tenacity and creativity when it comes to working through challenges, but I will ask for help from mentors and others before I get to the point of beating my head against a wall. I think I get better at this each module. I will do my best to look outside of myself every day and notice others who might need support or encouragement. I will try not to compare myself to others and work on making myself the best programmer I can be. I will begin to actively explore where I hope to land after Turing, and look for other people and organizations that are combining technology with other issues and fields that I care about. I will not eat junk food just because it is on the table. I will try my best to learn something new (Javascript, etc.).
+I will continue to be intentional about bringing a positive attitude and a growth mindset each day. I will get better at embracing road blocks, and draw on my tenacity and creativity when it comes to working through challenges, but I will ask for help from mentors and others before I get to the point of beating my head against a wall. I think I get better at this each module. I will do my best to look outside of myself every day and notice others who might need support or encouragement. I will try not to compare myself to others and work on making myself the best programmer I can be. I will begin to actively explore where I hope to land after Turing, and seek out people and organizations that are combining technology with other issues and fields that I care about. I will not eat junk food just because it is on the table. I will try my best to learn something new that is not what we are doing in class (Javascript, etc.).
 
 ### End of Module Assessment
 
@@ -26,6 +26,38 @@ I completed the following individual work this module:
 
 Notes:
 
+I received the following feedback and scores:
+
+#### API Curious
+
+* [GitHub URL](https://github.com/mbburch/tinyposts)
+* [Heroku URL](https://tinyposts-mb.herokuapp.com)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
+
+Notes: I was initially incredibly intimidated by this project, and wasn't quite sure how to get started. I think I did a good job of seeking out help from others and working through my own frustration, although I felt like this might have been my toughest moment thus far in the program. A day in to the project, a lot just seemed to click. I'm excited to keep working with API's that I find relevant to the work I would like to do, and try hand rolling with Hurley on future projects.
+
+I received the following feedback and scores:
+
+* Completion: 3.5: Developer delivered all planned features.
+* Organization: 4: Developer used a project management tool and updated their progress in real-time.
+* Test-Driven Development: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external services.
+* Code Quality: 4: Project demonstrates exceptionally well factored code.
+* User Experience: 3.5: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
+
+#### Rails Engine
+
+* [GitHub URL](https://github.com/mbburch/rails-engine)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
+
+Notes: I was dreading this project because of the tight timeframe and the fact that I've been enjoying more of the front-end work this module. It took me awhile to get started, as I ran into issues pulling in the CSV's. I ended up really enjoying this project, and found the Active Record and Ruby practice so helpful. I felt like I was efficient with using the documentation and did a much better job than I usually do at asking for help at just the right time. I let myself struggle, but asked for support before digging myself into a hole I couldn't get out of.
+
+I received the following feedback and scores:
+
+* Completion: 4: Project completes all base requirements according to the spec harness.
+* Test-Driven Development: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* Code Quality: 3: Project demonstrates solid code quality and MVC principles.
+* API Design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* Queries: 3+: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 ## Team
 
@@ -47,10 +79,26 @@ My group received the following feedback and scores:
 * [GitHub URL](https://github.com/mbburch/the-pivot)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
-Notes:
+Notes: My group started out with one code base, and switched to another after two days. I think we did well dealing with the pressure of this. We had a few communication issues along the way, but mostly felt like we had balanced voices. I was disappointed we didn't get to meet some of my goals of implementing Twilio or Stripe. I'm still hoping to learn those at some point. For our project, we took a microlending platform and pivoted to an auction site. My biggest takeaway from this project was probably implementing multi-tenancy, and learning to work with an existing code base.
 
 My group received the following feedback and scores:
 
+Notes:
+
+* Paperclip implemented.
+* 86 tests
+* 98.85 percent coverage
+* Some database-y stuff in the views.
+* good looking site
+
+Scores:
+
+* Feature Completeness: 3
+* Organization: 3
+* Progress: 3
+* TDD: 3
+* Code Quality: 3
+* UX: 3
 
 ## Community
 
