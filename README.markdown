@@ -68,7 +68,7 @@ at least two instructors. During this 15-minute session the reviewers will:
 
 ## Outcomes
 
-Portfolio evaluations have three possible outcomes:
+Portfolio evaluations have four possible outcomes:
 
 * *PROMOTED* - your portfolio demonstrates a successful fulfillment of expectations
 and you may move on to the next module or graduate
