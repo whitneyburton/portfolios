@@ -98,6 +98,7 @@ In this project, we took [Rose's codebase](https://github.com/TeamConchord/Earma
 
 * On October 10, I helped teach the Kids Who Code class.
 * On October 16, I held a student led session with Alon and Ross to help module 1 students make bash aliases and customize Atom.
+* On November 5, I got a student shoutout from MB for helping with CSV parsing in Rales Engine.
 
 ## Review
 
