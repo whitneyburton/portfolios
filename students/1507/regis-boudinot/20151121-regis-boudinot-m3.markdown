@@ -2,25 +2,11 @@
 
 ## Individual
 
-### Areas of Emphasis
+### Mission Statement
 
-Coming into this module I felt weak on ruby. I had self taught myself the basic
-syntax but felt very weak on enumerables, working with hashes, and manipulating
-arrays. I had never even made a class or a method before. I feel as if I have
-learned more than I could even imagine learning so far. I am really pleased
-with my progress so far. Ruby is now more of a playground than a minefield.
-
-Initially I also struggled with understanding the concept behind TDD
-but now I am driving my code with tests and refactoring methods as I go.
+This module I want to increase my understanding of Rails, and increase my understanding of DevOps. I have so far given back to the community as much I can with DevOps and I hope to be able to continually do so. This is such an important skill that we should all know, and I am glad to teach those willing to learn. I also want to get people more into hardware. I never really knew how to program before I came to Turing, and I want to be able to do cool stuff with hardware. My Personal Project will be hardware based if it gets approved and I am excited to learn what is not taught!
 
 ### End of Module Assessment
-
-* Ruby Syntax & API: 3
-* Ruby Style: 3
-* Blocks & Enumerations: 3
-* Testing: 3
-* Workflow: 3
-* Collaboration: 3
 
 ### Attendance
 
@@ -30,71 +16,54 @@ This module I attended all days and classes on-time.
 
 I completed the following individual work this module:
 
-#### Chisel
+#### APIcurious
 
-* [GitHub URL](https://github.com/selfup/chisel)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
+* [GitHub URL](https://github.com/selfup/API-Curious)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
-This project was a markdown to HTML converter. I was evaluated by Jeff with
-the following results:
+It was evaluated by Josh M. with the following results:
 
-"Like that it works!"
+* Features: 3
+* Interface: 3
+* Test-Driven Development: 4
+* Server-Side Application and APIs: 4
 
-* Fundamental Ruby & Style: 3
-* Test-Driven Development: 2
-* Functionality: 3
-* Breaking Logic into Components: 3
+#### RailsEngine
 
-#### Linked List
+* [GitHub URL](https://github.com/selfup/rails-engine)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
 
-* [GitHub URL](https://github.com/selfup/linked_list)
-* [Original Assignment](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
+In this project, I used Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 
-In this project I implemented a linked list using both recursion and iteration.
-It was evaluated by Mike with the following results:
+It was evaluated by Jorge with the following results:
 
-"Tail method had an iterative and recursive version.
-Good that the count method is SRP."
-
-* Functional Expectations: 4
-* Test-Driven Development: 3
-* Encapsulation: 3
-* Fundamental Ruby & Style: 3
-* Looping / Recursion: 3.5
+* Completion: 3
+* Test-Driven Development: 4
+* Code Quality: 4
+* API Design: 4
+* Queries: 3
 
 ## Team
 
-#### Enigma
+#### The Pivot
 
-* [GitHub URL](https://github.com/selfup/enigma)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
+* [GitHub URL](https://github.com/jbrr/the_pivot)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
-In this project we created an encryption/decryption/cracking machine.
-It was evaluated by Josh Cheek with the following results:
+Group: Rose & Jeff & Regis
 
-"Use the interface before it exists, so that you can discover what it should be.
-This will lead to elegance."
+Assessed By: Mike
 
-* Functionality: 4
-* Fundamental Ruby & Style: 3
-* Test-Driven Development: 3-
-* Breaking Logic into Components: 2
+In this project we enhanced a Little Shop of Orders (Earmarked) project, simulating working on an existing codebase.
 
-#### Sales Engine
+"Twilio verify phone number on login. - there are charts and graphs and progress bars. - 96.23 percent coverage - 100 tests. - Some opportunities to refactor, perhaps look at decorators. - Some sweet graphs - last tweet from candidate - Amazing hero image. <3"
 
-* [GitHub URL](https://github.com/selfup/sales_engine)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
-
-In this project we built a system of several interacting Ruby objects using TDD.
-
-"Well tested with creative assertions for edge cases."
-
-* Functional Expectations: 3
-* Test-Driven Development: 4
-* Encapsulation / Breaking Logic in Components: 3
-* Fundamental Ruby and Style: 3
-* Enumerable & Collections: 3
-* Code Sanitation: 4
+* Feature Completeness: 4
+* Organization: 3
+* Progress: 4
+* TDD: 3
+* Code Quality: 3
+* UX: 4
 
 ### Feedback to Me
 
@@ -145,4 +114,4 @@ in that week's Posse Post as well as being featured on the Turing Blog.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+( Leave blank for reviewers )
