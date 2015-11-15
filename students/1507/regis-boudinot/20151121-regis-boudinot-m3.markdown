@@ -1,4 +1,4 @@
-# Regis Boudinot - M1 Portfolio
+# Regis Boudinot - M3 Portfolio
 
 ## Individual
 
