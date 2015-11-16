@@ -4,9 +4,10 @@
 
 ### Areas of Emphasis
 
-Coming into the module I felt very shy and isolated.  This module, I offered
+Coming into the module I felt very shy.  This module, I offered
 to help module 1 students, taught a student led session, and started a blog.
-I feel like I've made some friends and helped people feel more creative at Turing.
+I feel like I've made a lot of friends, networked and helped people be more
+creative at Turing through 3D printing.
 
 
 ### Attendance
@@ -28,11 +29,14 @@ I completed the following individual work this module:
 3D Spark is a website that brings the best of Thingiverse to novice 3D printers.
 It allows users to login with Twitter, browse through 3D designs and select what
 they want to print easily.  3D Spark is an image-centric website which focuses on
-the distilling the information from Thingiverse into a more simple easy-to-use format.
+distilling the information from Thingiverse into a more simple and easy-to-use format.
 
-(evaluation comments)
-
-(evaluation scores)
+* Completion: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* Organization: 4 - Developer used a project management tool and updated their progress in real-time.
+* Test-Driven Development: 3 - 91.5% (Omniauth not tested)
+* Code Quality: 3 - Good use of Service object and Background workers. Could refactor Service usage duplication, using a presenter in the controller, and using ActiveRecord to limit records loaded into memory.
+* User Experience: 3 - Project exhibits a production-ready user experience.
+Performance: 3 - Project pages load on average under 400 milliseconds.
 
 ## Team
 
