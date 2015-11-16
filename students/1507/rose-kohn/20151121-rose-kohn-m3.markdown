@@ -1,0 +1,123 @@
+# Rose Kohn - M3 Portfolio
+
+## Individual
+
+### Mission Statement
+
+This module I was worried about being able to keep up and catch up based on
+where I thought I was and how much time I had been able to invest in prep for it
+to begin, as well as based on the reputation that Module 3 carries.  My goals were
+to be able to keep focused, keep up, get stronger at Rails, and be able to do
+what's required on my own (for the most part).  I've really enjoyed this module.
+The content has been really interesting, the group I had worked exceedingly well
+together, and I felt confident about the projects I put out. 
+
+### End of Module Assessment
+
+### Attendance
+
+This module I attended all days and classes on-time.
+
+### Work
+
+I completed the following individual work this module:
+
+#### APIcurious
+
+* [GitHub URL](https://github.com/roseak/photobomber)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
+
+In this project, I made an Instagram clone.
+
+It was evaluated by Jorge Téllez with the following results:
+
+* Completion: 4
+* Organization: 4
+* Test-Driven Development: 3
+* Code Quality: 3
+* User Experience: 4
+
+#### RailsEngine
+
+* [GitHub URL](https://github.com/roseak/rails_engine)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
+
+In this project, I used Rails and ActiveRecord to build a JSON API which exposes the Sales Engine data schema.
+
+It was evaluated by Josh Mejia with the following results:
+
+* Completion: 4
+* Test-Driven Development: 4
+* Code Quality: 3
+* API Design: 3
+* Queries: 4
+
+## Team
+
+#### The Pivot
+
+* [GitHub URL](https://github.com/jbrr/the_pivot)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
+
+Group: Rose & Jeff & Regis
+
+Assessed By: Mike
+
+In this project we enhanced a Little Shop of Orders (Earmarked) project, simulating working on an existing codebase.
+
+"Twilio verify phone number on login. - There are charts and graphs and progress bars. - 96.23 percent coverage - 100 tests. - Some opportunities to refactor, perhaps look at decorators. - Some sweet graphs - last tweet from candidate - Amazing hero image. <3"
+
+* Feature Completeness: 4
+* Organization: 3
+* Progress: 4
+* TDD: 3
+* Code Quality: 3
+* UX: 4
+
+### Feedback to Me
+
+I was told:
+
+"I think you could benefit from planning code out before implementing it.
+When pairing, it can be confusing to follow your train of thought before you
+have planned it out"
+
+"But overall, I think you are a great person to have in the community.
+You’re outgoing, easy to approach, etc."
+
+"Regis has been a great addition to Turing.  He has always been willing and able
+to help me with most things. If I had any negative feedback for him it’s that he
+needs to be more confident in himself. He got stressed out in the beginning but
+mostly because he didn’t think he was capable enough which he is. Remember that
+emotions can be contagious."
+
+I need to slow down and communicate more. Ever since said
+feedback I have now discovered that writing test first enables me to slow down
+and more appropriately describe what I am doing. Testing also helps me build
+confidence.
+
+## Community
+
+### Giving Feedback
+
+### Playing a Part
+
+* On Tuesday, October 13th, I went to Denver.rb to see Marla give her intro talk.
+* On Friday, October 23rd, I gave a lightning talk on Alan Kay.
+* I attend posse time in the morning to do warmups with my posse and have met up
+  with them outside of school.
+* I attend coffee time with Joan Clarke Society on Tuesdays.
+
+## Review
+
+### Notes
+
+* End of Module Assessment:
+* Individual Work and Projects:
+* Group Work and Projects:
+* Community Participation:
+* Peer and Instructor Feedback:
+
+### Outcome
+
+( Leave blank for reviewers )
