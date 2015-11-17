@@ -9,8 +9,7 @@ and am comfortable turning to Node for new apps.
 
 ### Attendance
 
-This module I attended all days and classes on-time with the exception of an
-absence on Friday, September 4th.
+This module I attended all days and classes on-time.
 
 ### Work
 
