@@ -5,28 +5,14 @@
 ### Your Mission
 
 I will continue to be intentional about bringing a positive attitude and a growth mindset each day. I will get better at embracing road blocks, and draw on my tenacity and creativity when it comes to working through challenges, but I will ask for help from mentors and others before I get to the point of beating my head against a wall. I think I get better at this each module. I will do my best to look outside of myself every day and notice others who might need support or encouragement. I will try not to compare myself to others and work on making myself the best programmer I can be. I will begin to actively explore where I hope to land after Turing, and seek out people and organizations that are combining technology with other issues and fields that I care about. I will not eat junk food just because it is on the table. I will try my best to learn something new that is not what we are doing in class (Javascript, etc.).
-
-### End of Module Assessment
-
-Assessed By:
-Challenge:
-​
-Notes:
 ​
 ### Attendance
+
+This module I attended all days and classes on-time with the exception of an absence on Wed., Nov. 4th for a family medical concern. I am consistently on time and ready to help my posse with warm-up every day.
 
 ### Work
 
 I completed the following individual work this module:
-
-#### Assignment Title
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-Notes:
-
-I received the following feedback and scores:
 
 #### API Curious
 
@@ -38,11 +24,11 @@ Notes: I was initially incredibly intimidated by this project, and wasn't quite 
 
 I received the following feedback and scores:
 
-* Completion: 3.5: Developer delivered all planned features.
-* Organization: 4: Developer used a project management tool and updated their progress in real-time.
-* Test-Driven Development: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external services.
-* Code Quality: 4: Project demonstrates exceptionally well factored code.
-* User Experience: 3.5: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
+* Completion: 3.5
+* Organization: 4
+* Test-Driven Development: 4
+* Code Quality: 4
+* User Experience: 3.5
 
 #### Rails Engine
 
@@ -53,11 +39,11 @@ Notes: I was dreading this project because of the tight timeframe and the fact t
 
 I received the following feedback and scores:
 
-* Completion: 4: Project completes all base requirements according to the spec harness.
-* Test-Driven Development: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
-* Code Quality: 3: Project demonstrates solid code quality and MVC principles.
-* API Design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
-* Queries: 3+: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
+* Completion: 4
+* Test-Driven Development: 4
+* Code Quality: 3
+* API Design: 3
+* Queries: 3+
 
 ## Team
 
@@ -65,21 +51,13 @@ I received the following feedback and scores:
 
 I participated in the following team projects:
 
-#### Assignment Title
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-Notes:
-
-My group received the following feedback and scores:
-
 #### The Pivot
 
 * [GitHub URL](https://github.com/mbburch/the-pivot)
+* [Heroku URL](https://bidday.herokuapp.com)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
-Notes: My group started out with one code base, and switched to another after two days. I think we did well dealing with the pressure of this. We had a few communication issues along the way, but mostly felt like we had balanced voices. I was disappointed we didn't get to meet some of my goals of implementing Twilio or Stripe. I'm still hoping to learn those at some point. For our project, we took a microlending platform and pivoted to an auction site. My biggest takeaway from this project was probably implementing multi-tenancy, and learning to work with an existing code base.
+Notes: My group started out with one code base, and switched to another after two days. I think we did well dealing with the pressure of this. We had a few communication issues along the way, but mostly felt like we had balanced voices. I was disappointed we didn't get to meet some of my goals of implementing Twilio or Stripe. I'm still hoping to learn those at some point. For our project, we took a micro-lending platform and pivoted to an auction site. My biggest takeaway from this project was probably implementing multi-tenancy, and learning to work with an existing code base.
 
 My group received the following feedback and scores:
 
@@ -100,16 +78,25 @@ Scores:
 * Code Quality: 3
 * UX: 3
 
+#### Schoolrunner Admin Sync Dashboard
+
+* [GitHub URL-Private Repo](https://github.com/Schoolrunner/tssd-1507-b)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+* [Schoolrunner Specific Criteria](https://docs.google.com/document/d/1cOphM8Wqt15RL06gbKcf7S88B6nAXc2VGkyN2zPlaxg/edit?usp=sharing)
+
+Notes: I had been looking forward to the personal project for all of Module 3, as I was excited to really apply all that we've been learning and work on something creative and all my own. Upon finding out that Schoolrunner was reaching to some folks to work with their API, I made the choice to do that instead. I am very interested in Schoolrunner as a potential employer, but I chose to do this project for other reasons as well. I knew it would push me more to work with a partner again, particularly someone I had worked with in the past, since I felt I had grown a lot since working with him last. I also knew this project would push me to learn some skills outside of Ruby and Rails. I really enjoyed the challenge and frustration of working with Javascript for the first time, and I'm excited to keep working with it in Module 3. I feel like my partner and I worked together successfully to meet the requests of a "real-life" client.
+
+My group received the following feedback and scores:
+
 ## Community
 
 ### Playing a Part
 
-* I volunteered to help host the Women Who Code Ruby study group, and have attended each time it is held at Turing.
-* Kids Who Code
+* I volunteered to help host the Women Who Code Ruby study group, and I have attended each time it was held at Turing.
 * I volunteered to help with Young Entrepreneurs and built a website for an aspiring food blogger.
-* Clothing Swap? Bike work day?
+* I planted the seed for a women's clothing swap that will be happening over intermission week, and I attend the Joan Clarke Society each week to connect with other women in the program.
 * I've done a better job this module of getting to know people in modules one and two. I feel like I've met some cool people this module!
-* I pick up after others, run the dishwasher, and do some cleanup almost every day. I make lots of coffee and taught new people how to make it, too.
+* I pick up after others, run the dishwasher, and do some cleanup almost every day. I make lots of coffee and teach new people how to make it, too.
 * I'm present for warm-up every day and actively contribute. I've started trying to organize a posse gathering outside of school with mentors and have a little interest, but need to follow through.
 
 ## Review
