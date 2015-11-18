@@ -47,8 +47,8 @@ It was evaluated by Jorge with the following results:
 
 #### Personal Project
 
-* [GitHub URL](https://github.com/selfup/auto)
-* [GitHub URL](https://github.com/selfup/autobot)
+* [GitHub URL](https://github.com/selfup/auto) - Rails App
+* [GitHub URL](https://github.com/selfup/autobot) - Hardware Scripts
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
 
 Title: WhereAmI?
