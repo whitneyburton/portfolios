@@ -8,6 +8,8 @@ This module I want to increase my understanding of Rails, and increase my unders
 
 ### End of Module Assessment
 
+N/A
+
 ### Attendance
 
 This module I attended all days and classes on-time.
@@ -43,6 +45,23 @@ It was evaluated by Jorge with the following results:
 * API Design: 4
 * Queries: 3
 
+#### Personal Project
+
+* [GitHub URL](https://github.com/selfup/auto)
+* [GitHub URL](https://github.com/selfup/autobot)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+
+Title: WhereAmI?
+
+Assessed By "TBD":
+
+* Feature Completeness:
+* Organization:
+* Progress:
+* TDD:
+* Code Quality:
+* UX:
+
 ## Team
 
 #### The Pivot
@@ -69,23 +88,7 @@ In this project we enhanced a Little Shop of Orders (Earmarked) project, simulat
 
 I was told:
 
-"I think you could benefit from planning code out before implementing it.
-When pairing, it can be confusing to follow your train of thought before you
-have planned it out"
-
-"But overall, I think you are a great person to have in the community.
-You’re outgoing, easy to approach, etc."
-
-"Regis has been a great addition to Turing.  He has always been willing and able
-to help me with most things. If I had any negative feedback for him it’s that he
-needs to be more confident in himself. He got stressed out in the beginning but
-mostly because he didn’t think he was capable enough which he is. Remember that
-emotions can be contagious."
-
-I need to slow down and communicate more. Ever since said
-feedback I have now discovered that writing test first enables me to slow down
-and more appropriately describe what I am doing. Testing also helps me build
-confidence.
+"Best group ever! I think we all worked together super well, never got too stressed, and got to do lots of cool shit. I especially appreciated your enthusiasm and excitement throughout the project, I think it added a lot to the group dynamic. You’re also constantly curious, and always wanting to try new stuff, and I appreciate that too. I’m not sure if I really have a poopsicle for you, that project was an absolute blast the whole way through."
 
 ## Community
 
@@ -96,11 +99,15 @@ feedback was actionable and supportive.
 
 Here are some examples:
 
+"Jeff: Was the best team lead I have had yet. He was not aggressive, and was not too laid back. He let the team work on their ideas and gave mini deadlines to be sure we weren’t getting lost. He really helped improve my experience at Turing. I never felt pushed, and he was also reassuring. The only poopsicle I can think of for Jeff is that he might be too laid back but other than that he has a really good head on his shoulders."
+
 ### Playing a Part
 
-* On Monday, July 27th, I had my blog post ("The Difference is Huge") included
-in that week's Posse Post as well as being featured on the Turing Blog.
-* On Friday, July 3rd, I helped cater Andrew's City of Cuernavaca Park picnic.
+* During the leading intermission week I helped setup computers for 1510. I also gave a talk with 1508 about what to expect.
+* The first week of the module I held a student led session on setting up a rails environment in a Vagrant Box. (12 students)
+* The second week of the module I held a student led session on setting up a rails environment on Digital Ocean. (12 students)
+* The third week of the module I held a student led session on setting up a production environment on Digital Ocean. (10 students)
+* The fifth week of the module I held a student led session on programming Arduinos with Ruby and C.
 
 ## Review
 
