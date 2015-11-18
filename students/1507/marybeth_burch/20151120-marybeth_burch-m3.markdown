@@ -78,6 +78,8 @@ Scores:
 * Code Quality: 3
 * UX: 3
 
+I received this feedback from one of my partners: *GOOD*​: MB is super incredible and persistent. Many times, when a problem was preventing us from going forward… I was at that point where I wanted to hit the drawing board again and start with a new Idea, but MB would happily say something like “Hold on for just one second, I need to finish reading this ..” I admire this. It’s super helpful when hitting walls all day. Not only that, MB is incredibly patient as we had about a 3 day period of being stuck and confused. I didn’t see MB great frustrated at all and she handled it very well. I also like that MB is down to pair. No everyone is. Working with MB… I noticed that she was always the one inviting and encouraging the team to pair. Overall, she was very much the person that would remind us to review the latest PR and check in with progress. ​*BAD*​: This is a bit humorous. It sounds like I’m talking about myself…. but MB does seem to sometimes struggle with making a decision and going forward with that decision. This i OK, I do it too. A couple times, MB and I would be pairing and We would both be tossing so many ideas, edge-cases, and what-ifs around, that we wouldn’t get much done. Like I said…It’s almost funny that we both did this. MB seems to pair better with a more decisive personality instead of someone like myself. CONCLUSION: MB was super awesome to work with and I only found her getting stronger through the 2 week project. By the end of the project, she was literally saving the day with small tidbits of project knowledge.
+
 #### Schoolrunner Admin Sync Dashboard
 
 * [GitHub URL-Private Repo](https://github.com/Schoolrunner/tssd-1507-b)
