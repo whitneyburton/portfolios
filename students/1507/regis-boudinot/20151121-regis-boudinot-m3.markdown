@@ -90,6 +90,8 @@ I was told:
 
 "Best group ever! I think we all worked together super well, never got too stressed, and got to do lots of cool shit. I especially appreciated your enthusiasm and excitement throughout the project, I think it added a lot to the group dynamic. You’re also constantly curious, and always wanting to try new stuff, and I appreciate that too. I’m not sure if I really have a poopsicle for you, that project was an absolute blast the whole way through."
 
+"Working with you was nothing but positive. Your knowledge for dev-ops is obvious and it was awesome that you wanted to share that with us. Figuring out two-factor auth with the phone was skillful. I always knew I could count on you to work hard, and we all worked so well together, it’s definitely been my favorite group experience. Your enthusiasm towards learning to code, doing a good job on the project, and being a good team member made you a pleasure to work with."
+
 ## Community
 
 ### Giving Feedback
@@ -100,6 +102,8 @@ feedback was actionable and supportive.
 Here are some examples:
 
 "Jeff: Was the best team lead I have had yet. He was not aggressive, and was not too laid back. He let the team work on their ideas and gave mini deadlines to be sure we weren’t getting lost. He really helped improve my experience at Turing. I never felt pushed, and he was also reassuring. The only poopsicle I can think of for Jeff is that he might be too laid back but other than that he has a really good head on his shoulders."
+
+"You were a great example of a hard worker. Your talent for figuring out the front-end and helping your teammates when they are stuck is what made working you an awesome experience. You understand git workflow very well, and are a very quick learner. Our group was by far the best group I have ever worked with in a deadline based project where our knowledge was tested. I wish I had something negative to say so that you could build on some skills you need help with, but your intuition for figuring out problems and being self aware seems to bring you forward. I look forward to working with you again!"
 
 ### Playing a Part
 
