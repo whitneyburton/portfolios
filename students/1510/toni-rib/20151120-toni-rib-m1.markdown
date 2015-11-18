@@ -230,6 +230,10 @@ Working with Toni was a pleasure. I learned a lot with her about both programmin
 
 It is my honest opinion that every single 1510er should pair with Toni on a project, and the sooner the better.  Not only is her problem solving ability fantastic, but her programming habits — from committing regularly to git hub, to her use of hot keys and short cuts, to her serious commitment to TDD — are unmatched in any of the students I have yet met at Turing.  Seeing her work has been the perfect complement to the lectures on methodology and has really driven in many of those lessons in an irreplaceable way.  Moving forward, I think Toni should be especially mindful of the gap between her understanding of programming and that of her fellow students.  It is perhaps an unfortunate fact that Toni’s first ideas are often the best ideas, and I was regularly disappointed that my (admittedly inferior) ideas never saw the light of day.  It will be tricky to do well, but I think Toni should consider allowing for ​*worse*​ code in her projects: in those cases where such code may provide a valuable learning experience, or a feeling of value, to her pair partner.
 
+#### Feedback 4
+
+Toni is by far one of the dopest people I have ever met! I think that it's so cool how she explained the String Theory and Theory of Relativity to me a couple weeks ago. I guess it goes to show that her communication skills are really on point. So if you end up reading this always remember that your biggest rival is your UCLA alternate universe self.
+
 ### Playing a Part
 
 * made coffee 4 times throughout the module when it was empty
