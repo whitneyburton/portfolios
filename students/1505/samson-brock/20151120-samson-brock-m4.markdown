@@ -27,18 +27,18 @@ views with JavaScript / AJAX.
 
 Reviewed By: Jai Misra & Dave Maurer
 
-- Features: 
+- Features:
 4: All of the base expectations were completed and as well as one or more
 extensions
-- User Interface: 
+- User Interface:
 4: The application is pleasant, logical, and easy to use
-- Rails Style: 
+- Rails Style:
 4: Developer is able to craft Rails features that make smart use of Ruby, follow
 the principles of MVC, and push business logic down where it belongs
-- Ruby Style: 
+- Ruby Style:
 3: Developer solves problems with a balance between conciseness and clarity and
 often extracts logical components
-- JavaScript Style: 
+- JavaScript Style:
 3: Developer solves problems with a balance between conciseness and clarity and
 often extracts logical components
 
@@ -184,8 +184,10 @@ and DenverScript.
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Final project (Real Time) was not completed, despite affordances for additional time and working in a group.
+- Game Time was not completed and did not meet the requirements.
+- Final assessment was not completed by the deadline for passing.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+RETAINED - your portfolio is lacking in one or more areas and you may either repeat the current module or leave the program
