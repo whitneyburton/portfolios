@@ -23,6 +23,8 @@ I completed the following individual work this module:
 * [GitHub URL](https://github.com/selfup/API-Curious)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
+In this project, I used Rails, GitHub OAtuh, and the GitHub API to learn about API's and OAuth.
+
 It was evaluated by Josh M. with the following results:
 
 * Features: 3
