@@ -29,11 +29,15 @@ Scores:
 #### Personal project
  * Github: not open sourced
 
-Notes:
-
+Notes: Really good effort. App looks quite polished. They surpassed expectations.
 
 Scores:
-
+* Completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* Organization: 4: Developer used a project management tool and updated their progress in real-time.
+* Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* Code Quality: 3.5: Project demonstrates solid code quality and MVC principles.
+* User Experience: 4: Project exhibits a production-ready and polished UX.
+* Performance: 3: Project pages load on average under 400 milliseconds.
 
 
 ### Solo Projects
