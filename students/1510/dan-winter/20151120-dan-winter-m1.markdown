@@ -27,11 +27,11 @@ Mythical creatures
 
 #### Scores:
 
-Ruby Syntax & API 4: Developer is able to write Ruby with a minimum of reference or debugging
-Ruby Style 4: Developer solves problems with a balance between conciseness and clarity
-Tests: 3: Developer writes tests that are effective validation of functionality, but don't drive the design
-Workflow 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-Collaboration 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+* Ruby Syntax & API 4: Developer is able to write Ruby with a minimum of reference or debugging
+* Ruby Style 4: Developer solves problems with a balance between conciseness and clarity
+* Tests: 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+* Workflow 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* Collaboration 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 #### Dan's Reflection:
 
@@ -46,17 +46,17 @@ Assessed By:  Mike
 
 #### Notes:
 
-Good reading of error messages.
-Good testing, small steps. Very thorough.
+* Good reading of error messages.
+* Good testing, small steps. Very thorough.
 
 #### Scores:
 
-Ruby Syntax & API 3: Developer is able to comfortably implement solutions in Ruby
-Ruby Style 3: Developer writes code that is easy to follow
-Blocks & Enumerations 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
-Testing 4: Developer consistently takes small steps, using the tests for both design and verification
-Workflow 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-Collaboration 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+* Ruby Syntax & API 3: Developer is able to comfortably implement solutions in Ruby
+* Ruby Style 3: Developer writes code that is easy to follow
+* Blocks & Enumerations 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+* Testing 4: Developer consistently takes small steps, using the tests for both design and verification
+* Workflow 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* Collaboration 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 #### Dan's Reflection:
 
@@ -81,22 +81,22 @@ Instructor: Jeff
 
 ####Notes:
 
-Passes spec harness
-One implementation is normal, one caches all the child words for speed
-12 internal tests
-Some tests need to broken apart
-Overall testing takes big leaps and needs to take more steps
-Implementation needs some refactoring for style, but clarity is ok
-Look for opportunities to create abstractions with both methods and classes
-Able to match on the internal fragments
+* Passes spec harness
+* One implementation is normal, one caches all the child words for speed
+* 12 internal tests
+* Some tests need to broken apart
+* Overall testing takes big leaps and needs to take more steps
+* Implementation needs some refactoring for style, but clarity is ok
+* Look for opportunities to create abstractions with both methods and classes
+* Able to match on the internal fragments
 
 ####Scores:
 
-Functional Expectations 4
-TDD 3
-Ruby Style & Fundamentals 4
-Encapsulation / Breaking Logic Into Components 3
-Enumerable & Collections 3
+* Functional Expectations 4
+* TDD 3
+* Ruby Style & Fundamentals 4
+* Encapsulation / Breaking Logic Into Components 3
+* Enumerable & Collections 3
 
 #### Dan's Reflection:
 
@@ -114,17 +114,17 @@ Instructor: Horace
 
 #### Notes:
 
-Clean implementation with some extensions (file io)
-Tests are pretty thorough; make sure we're not skipping cases, especially false or nil cases
-General ruby style is ok but we still have lots of unnecessary returns and self references
+* Clean implementation with some extensions (file io)
+* Tests are pretty thorough; make sure we're not skipping cases, especially false or nil cases
+* General ruby style is ok but we still have lots of unnecessary returns and self references
 
 #### Scores:
 
-Functional Expectations 3
-Test-Driven Development 3
-Encapsulation / Breaking Logic into Components 3
-Fundamental Ruby & Style 3
-Enumerable & Collections 3
+* Functional Expectations 3
+* Test-Driven Development 3
+* Encapsulation / Breaking Logic into Components 3
+* Fundamental Ruby & Style 3
+* Enumerable & Collections 3
 
 #### Dan's Reflection:
 
@@ -176,13 +176,10 @@ Assessed by: Steve O
 
 #### Scores
 
-Functional - 3: All sorting classes work as expected
-
-Testing - 4: Test names describe the behavior not the example, and tests cover various edge cases.
-
-Ruby Style - 3: Indentation is good. Adheres to most style guidelines, but methods should be broken up into logical paragraphs. Methods should not be longer than ~8 lines.
-
-Organization - 4 Good file structure and version control.
+* Functional - 3: All sorting classes work as expected
+* Testing - 4: Test names describe the behavior not the example, and tests cover various edge cases.
+* Ruby Style - 3: Indentation is good. Adheres to most style guidelines, but methods should be broken up into logical paragraphs. Methods should not be longer than ~8 lines.
+* Organization - 4 Good file structure and version control.
 
 #### Notes
 
@@ -216,24 +213,17 @@ Assessed By: Mike
 
 #### Notes
 
-24 tests, 10 failures
-some opportunities to refactor for clarity
-very light testing, needs to cover common edge cases, did not drive development.
-extraneous files in repo
+* 24 tests, 10 failures
+* Some opportunities to refactor for clarity
+* Very light testing, needs to cover common edge cases, did not drive development.
+* Extraneous files in repo
 
 #### Score
 
-Overall Functionality
-3: Application implements four iterations
-
-Fundamental Ruby & Style
-3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-
-Test-Driven Development
-1: Application does not demonstrate strong use of TDD
-
-Breaking Logic into Components
-3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* Overall Functionality 3: Application implements four iterations
+* Fundamental Ruby & Style 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* Test-Driven Development 1: Application does not demonstrate strong use of TDD
+* Breaking Logic into Components 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
 #### Dan's reflection
