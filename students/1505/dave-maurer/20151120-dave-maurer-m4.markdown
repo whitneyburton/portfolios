@@ -75,6 +75,11 @@ __Code Sanitation (JSHint):__3
 From Jamie Kawahara: Dave was a delight to work with on Othello.  It was the most fulfilling project that I’ve worked 
 on at Turing because we paired the whole time and worked together.
 
+From Adam Caron: Dave is one of the most supportive classmates I’ve had the pleasure of learning with. He is thoughtful 
+and always has a good word to say. Dave and I paired together on many projects and in addition to being a helpful and 
+reliable teammate, he’s simply a great person to be around. Back in Module 1 he was one of the first ‘upperclassmen’ to 
+reach out to me and help me feel supported and I believe Turing is a better place for Dave having been here.
+
 ## Community
 
 ### Giving Feedback
