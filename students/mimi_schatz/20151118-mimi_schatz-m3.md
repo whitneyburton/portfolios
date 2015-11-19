@@ -51,9 +51,9 @@ Group: Mimi & Adam & Mary Beth
 
 #### Feedback from Adam:
 
-GOOD: Mimi is do doubt a strong personality. Which is good on team projects. I can really see her taking on a leader ship role and helping drive progress. She is also a super quick learner! I was impressed on a couple occasions that she had already gained such an in-depth understanding of new material. Very nice to have on a team. Also, Mimi definitely has better balance that I do. She would set a goal to be done by a certain time and then live up to it. This was nice to have as well as I am totally the opposite and will stare at a cursor for a good 15 minutes thinking. Overall, Mimi is super strong, and a definite leader.
-BAD: I sometimes felt that Mimi was a bit hard to communicate with. it was almost as if she wanted to make the decision/decide the verdict, but wouldn’t actually do so. This isn’t necessarily a bad thing. To provide context, I was acting as team lead, but I certainly felt as if Mimi should have been Team lead based on her skill-set. She had a hard time NOT being a leader. ​
-CONCLUSION: I 100% endorse Mimi as a strong developer that will crush it in the real world.She has good instinct and is way more brave behind the keyboard than most developers at Turing. I would like to work with her again!
+*GOOD*: Mimi is do doubt a strong personality. Which is good on team projects. I can really see her taking on a leader ship role and helping drive progress. She is also a super quick learner! I was impressed on a couple occasions that she had already gained such an in-depth understanding of new material. Very nice to have on a team. Also, Mimi definitely has better balance that I do. She would set a goal to be done by a certain time and then live up to it. This was nice to have as well as I am totally the opposite and will stare at a cursor for a good 15 minutes thinking. Overall, Mimi is super strong, and a definite leader.
+*BAD*: I sometimes felt that Mimi was a bit hard to communicate with. it was almost as if she wanted to make the decision/decide the verdict, but wouldn’t actually do so. This isn’t necessarily a bad thing. To provide context, I was acting as team lead, but I certainly felt as if Mimi should have been Team lead based on her skill-set. She had a hard time NOT being a leader. ​
+*CONCLUSION*: I 100% endorse Mimi as a strong developer that will crush it in the real world.She has good instinct and is way more brave behind the keyboard than most developers at Turing. I would like to work with her again!
 
 ## API Curious
 
