@@ -73,8 +73,6 @@ I have attended all classes with no absences.
 
 ###Complete_Me
 
-Dan Winter
-
 Instructor: Jeff
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
@@ -106,6 +104,8 @@ I rewrote this project four times and turned in two versions. Recursion was a st
 
 ### Binary Search Tree
 
+Tries in Binary, of sorts.
+
 Instructor: Horace
 
 * [GitHub URL](https://github.com/danjwinter/binary_search_tree)
@@ -132,8 +132,7 @@ Edge cases need to be addressed more frequently as do implementation decisions, 
 
 ### Night Writer
 
-
-Name: Daniel Winter
+Braille to Text and Back Again
 
 Assessed By: Horace
 
@@ -168,6 +167,8 @@ For me, this project was more about getting through it alive than looking at bet
 
 ### Sorting Suite
 
+Three Varieties of the Sorting Type
+
 Assessed by: Steve O
 
 * [GitHub URL](https://github.com/danjwinter/sorting_suite)
@@ -196,10 +197,14 @@ I can definitely use work on refactoring my methods. Large, uncontrolled methods
 
 ### Headcount
 
+Active Record with Pure Ruby
+
 * [GitHub URL](https://github.com/danjwinter/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 ### HTTP_YEAH
+
+The Server of Webs
 
 Group: Daniel Winter and Brennan Holtzclaw
 
@@ -236,18 +241,6 @@ Misplaced priorities were my downfall in this project and I take full responsibi
 (Intro)
 
 
-(Project Name)
-
-GitHub URL
-Original Assignment
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
 ## Community
 
 ### Giving Feedback
@@ -281,9 +274,11 @@ I need to take a step back more often and assess what is really important in the
 I ran one student led session for a book club on a book about thinking. While I intended to continue the session over multiple weeks, there were many other sessions I and the other students wanted to attend. I continue to discuss the ideas from the book we read with students and several have reached out to get more information about the book. I hope to run more student led sessions in the future and have been speaking to other students, in modules 1-3, about working together on an open source app next module
 
 #### Pitching in with the Domestics
+
 Cleaned the big space several mornings toward the end of the module when everyone was focused on their projects and mugs were left out all over with few clean ones remaining. Since I arrive early, I was able to also unloaded and reloaded the dishwasher so we had mugs when more students showed up.
 
 #### Girl Develop It
+
 This doesn't quite fit into this module but I'm volunteering for the Girl Develop It event this Saturday. I want to give back more to the community and am working with students both within and outside of my cohort to get together a local Rails for Refugees chapter and a design decision study group. I am writing this here so that I can hold myself responsible for this in the future. Please do the same.
 
 ##Review
