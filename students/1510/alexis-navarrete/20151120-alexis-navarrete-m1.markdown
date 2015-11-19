@@ -7,7 +7,7 @@ I came to Turing to finally be in a place where I can learn not just from the st
 
 I'm finally in a position in life where I am not the top one in my class which means there's always something new to learn! I'm thankful that I get to experience this growth at such a young age which wouldn't have been possible if it wasn't for me being a student in Turing.
 
-In this module I came to test my abilities as a student and an indiviual by placing myself in an environment filled with hard working people. By placing myself in this environment, I've learned a lot about how there's a lot more work to do if I want to achieve my life goals.
+In this module I came to test my abilities as a student and an individual by placing myself in an environment filled with hard working people. By placing myself in this environment, I've learned a lot about how there's a lot more work to do if I want to achieve my life goals.
 
 ### End of Module Assessment
 **Challenge: None (Repeating Module 1)**
@@ -77,7 +77,7 @@ Instructor: Mike
 * 1. Overall Functionality (1 - 4) 1
 * 2. Fundamental Ruby & Style (1 - 4) 2
 * 3. TDD (1 - 4)
-* 4. Breaking Logic Into Components __(1 - 4)__2
+* 4. Breaking Logic Into Components __(1 - 4)__ 2
 
 #### HTTP...Yeah You Know Me!
 
@@ -126,6 +126,8 @@ Admir Draganovic: "Although we ended up not working together for our Headcount p
 
 ### Being a Community Member
 "Alex brought excitement and enthusiasm to our project. As I stared at our assignment and felt a sinking feeling at my ability to comprehend the task at hand, Alex was sure we’d get there. When I got lost in the project and I couldn't figure out how to escape the hole I had for myself, Alex was there cheering me on. Despite the late refocus on the project and the accompanying failing grade, the progress that was made was significantly the result of Alex’s infectious enthusiasm. To offer one point of criticism, I would suggest that if Alex learns to channel his enthusiasm toward the next most immediate task at hand he will grow into a formidable developer. I look forward to watching that growth happen."-- Lenny Myerson
+
+ "Alex is very easy to work with. He listens carefully, thinks, and give his opinion. I like that he doesn't only want the code to work, but also understand why it works. He could use some more practice with the keyboard."-- Hector Huertas
 
 ### Playing a Part
 I believe the biggest way I have contributed to the community this module was by volunteering to talk about my experience in Turing to the high school students. Being in that event was pretty cool because they weren't that much younger than me and it reminded me from when I was in high school. I'm glad I was part of the event because I got to see the faces of how interested some of the kids were. I even got to talk to some of them in private while I was upstairs in the lobby which got me to really get my message across.
