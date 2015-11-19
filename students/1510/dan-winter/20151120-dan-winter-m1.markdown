@@ -13,22 +13,61 @@ A quote from Archimedes about the power of levers keeps coming to mind; "Give me
 
 I've never seen anything quite like the power of the lever that software development has to impact huge volumes of people. Turing's unmatched power lies in the access it enables to that lever and I aim to move the earth to benefit my community, even if that is helping just one person at a time.
 
+### Mid Module Diagnostic
+
+Mythical creatures
+
+### Notes:
+
+* Overall ruby is fluid and comfortable
+* Doing well working across class boundaries and with method inputs/outputs
+* Working effectively with test suite
+* Writing tests seems pretty comfy
+* Need to keep solidifying testing as part of the workflow
+
+#### Scores:
+
+Ruby Syntax & API 4: Developer is able to write Ruby with a minimum of reference or debugging
+Ruby Style 4: Developer solves problems with a balance between conciseness and clarity
+Tests: 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+Workflow 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+Collaboration 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+#### Dan's Reflection:
+
+I felt pretty confident redoing mythical creatures. I need to think more about improving my workflow and learning more shortcuts to be more efficient as well as include more sad tests.
 
 ### End of Module Assessment
 
+Challenge: Player Tracking in Scrabble
 
-(Notes & scores from your assessment rubric)
+Assessed By:  Mike
+
+
+#### Notes:
+
+Good reading of error messages.
+Good testing, small steps. Very thorough.
+
+#### Scores:
+
+Ruby Syntax & API 3: Developer is able to comfortably implement solutions in Ruby
+Ruby Style 3: Developer writes code that is easy to follow
+Blocks & Enumerations 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+Testing 4: Developer consistently takes small steps, using the tests for both design and verification
+Workflow 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+Collaboration 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+#### Dan's Reflection:
+
+After failing testing on HTTP_YEAH, I was determined to make a stronger testing effort and I am very happy that I achieved a 4 in this area. I also am working on my collaboration because as indicated by Brenna's feedback, I have a bad tendency to take the lead on problem solving and I worry that I don't always include my pair as much as I should. I continue to strive for better collaboration because it will lead to making better design decisions and improve areas where I may overlook and where my skills are lacking.
 
 ### Attendance
 
 
 I have attended all classes with no absences.
 
-Work
-
-(Intro)
-
-(Project Name)
+## Work
 
 ## Individual Projects
 
@@ -237,8 +276,6 @@ I need to take a step back more often and assess what is really important in the
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
-
 #### Student Led Session
 
 I ran one student led session for a book club on a book about thinking. While I intended to continue the session over multiple weeks, there were many other sessions I and the other students wanted to attend. I continue to discuss the ideas from the book we read with students and several have reached out to get more information about the book. I hope to run more student led sessions in the future and have been speaking to other students, in modules 1-3, about working together on an open source app next module
@@ -246,12 +283,14 @@ I ran one student led session for a book club on a book about thinking. While I 
 #### Pitching in with the Domestics
 Cleaned the big space several mornings toward the end of the module when everyone was focused on their projects and mugs were left out all over with few clean ones remaining. Since I arrive early, I was able to also unloaded and reloaded the dishwasher so we had mugs when more students showed up.
 
-Review
+#### Girl Develop It
+This doesn't quite fit into this module but I'm volunteering for the Girl Develop It event this Saturday. I want to give back more to the community and am working with students both within and outside of my cohort to get together a local Rails for Refugees chapter and a design decision study group. I am writing this here so that I can hold myself responsible for this in the future. Please do the same.
 
-Notes
+##Review
 
-( Leave blanks for reviewers )
+###Notes
 
-Outcome
 
-( Leave blanks for reviewers )
+
+###Outcome
+
