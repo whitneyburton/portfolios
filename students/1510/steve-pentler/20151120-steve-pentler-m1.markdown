@@ -83,10 +83,10 @@ ___
 - Testing is good on the things it covers but overall lacking in quantity
 
 ####Evaluation Scores:
-1. **Overall Functionality 2**
-2. **Fundamental Ruby & Style 3**
-3. **TDD 2**
-4. **Breaking Logic Into Components 3**
+1. **Overall Functionality: 2**
+2. **Fundamental Ruby & Style: 3**
+3. **Test Driven Development: 2**
+4. **Breaking Logic Into Components: 3**
 
 Assessed by: Horace Williams
 
@@ -107,11 +107,11 @@ ___
 - method extraction is good; watch for naming to generally represent the value that the method generates
 
 ####Evaluation Scores:
-1. **Overall Functionality 2**
-2. **Fundamental Ruby & Style 3**
-3. **TDD 3**
-4. **Breaking Logic Into Components 3**
-5. **Enumerable & Collections 3**
+1. **Overall Functionality: 2**
+2. **Fundamental Ruby & Style: 3**
+3. **Test Driven Development: 3**
+4. **Breaking Logic Into Components: 3**
+5. **Enumerable & Collections: 3**
 
 Assessed by: Horace Williams
 
@@ -132,11 +132,11 @@ ___
 - method extraction is good; watch for naming to generally represent the value that the method generates
 
 ####Evaluation Scores:
-1. ** Functional Expectations 3 **
-2. ** Test-Driven Development 3 **
-3. ** Encapsulation / Breaking Logic into Components 3 **
-4. ** Fundamental Ruby & Style 3 **
-5. ** Looping or Recursion 3 **
+1. ** Functional Expectations: 3 **
+2. ** Test-Driven Development: 3 **
+3. ** Encapsulation / Breaking Logic into Components: 3 **
+4. ** Fundamental Ruby & Style: 3 **
+5. ** Looping or Recursion: 3 **
 
 Assessed by: Jeff Casimir
 ___
