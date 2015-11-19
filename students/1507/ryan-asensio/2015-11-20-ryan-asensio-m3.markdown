@@ -63,6 +63,15 @@ I did not find this project particularly challening or interesting, but it did s
   * Ranking system
   * Semantic UI
 
+  TEST SCORES
+
+  * Completion: 4
+  * Organization: 4 
+  * TDD: 4
+  * Code Quality: 4
+  * User Experience: 4
+  * Performance: 4
+
 ##### Takeaway
 
   * Learning is fun
