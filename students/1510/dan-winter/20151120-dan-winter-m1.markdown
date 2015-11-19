@@ -27,11 +27,11 @@ Mythical creatures
 
 #### Scores:
 
-* Ruby Syntax & API 4: Developer is able to write Ruby with a minimum of reference or debugging
-* Ruby Style 4: Developer solves problems with a balance between conciseness and clarity
-* Tests: 3: Developer writes tests that are effective validation of functionality, but don't drive the design
-* Workflow 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-* Collaboration 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+* Ruby Syntax & API - 4: Developer is able to write Ruby with a minimum of reference or debugging
+* Ruby Style - 4: Developer solves problems with a balance between conciseness and clarity
+* Tests - 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+* Workflow - 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* Collaboration - 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 #### Dan's Reflection:
 
@@ -51,12 +51,12 @@ Assessed By:  Mike
 
 #### Scores:
 
-* Ruby Syntax & API 3: Developer is able to comfortably implement solutions in Ruby
-* Ruby Style 3: Developer writes code that is easy to follow
-* Blocks & Enumerations 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
-* Testing 4: Developer consistently takes small steps, using the tests for both design and verification
-* Workflow 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-* Collaboration 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+* Ruby Syntax & API - 3: Developer is able to comfortably implement solutions in Ruby
+* Ruby Style - 3: Developer writes code that is easy to follow
+* Blocks & Enumerations - 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+* Testing - 4: Developer consistently takes small steps, using the tests for both design and verification
+* Workflow - 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* Collaboration - 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 #### Dan's Reflection:
 
@@ -92,11 +92,11 @@ Instructor: Jeff
 
 ####Scores:
 
-* Functional Expectations 4
-* TDD 3
-* Ruby Style & Fundamentals 4
-* Encapsulation / Breaking Logic Into Components 3
-* Enumerable & Collections 3
+* Functional Expectations - 4
+* TDD - 3
+* Ruby Style & Fundamentals - 4
+* Encapsulation / Breaking Logic Into Components - 3
+* Enumerable & Collections - 3
 
 #### Dan's Reflection:
 
@@ -120,11 +120,11 @@ Instructor: Horace
 
 #### Scores:
 
-* Functional Expectations 3
-* Test-Driven Development 3
-* Encapsulation / Breaking Logic into Components 3
-* Fundamental Ruby & Style 3
-* Enumerable & Collections 3
+* Functional Expectations - 3
+* Test-Driven Development - 3
+* Encapsulation / Breaking Logic into Components - 3
+* Fundamental Ruby & Style - 3
+* Enumerable & Collections - 3
 
 #### Dan's Reflection:
 
@@ -220,10 +220,10 @@ Assessed By: Mike
 
 #### Score
 
-* Overall Functionality 3: Application implements four iterations
-* Fundamental Ruby & Style 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-* Test-Driven Development 1: Application does not demonstrate strong use of TDD
-* Breaking Logic into Components 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* Overall Functionality - 3: Application implements four iterations
+* Fundamental Ruby & Style - 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* Test-Driven Development - 1: Application does not demonstrate strong use of TDD
+* Breaking Logic into Components - 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
 #### Dan's reflection
