@@ -247,11 +247,19 @@ Misplaced priorities were my downfall in this project and I take full responsibi
 
 ### Receiving Feedback
 
-(feedback to me)
+#### Feedback from Brenna for Headcount
+
+
+"Pairing with Dan on Headcount has been an amazingly positive experience, which is contrary to what I was told to expect from the workload. He has a contagious energy and enthusiasm that has been a constant source of strength throughout the project. Dan's impressive technical skills are evident in both his syntactical abilities and his understanding of the object model as a whole. His ability to quickly find solutions results in quick action, which at times can be challenging as a pairing partner to feel included in the decision process. That being said, I feel completely comfortable communicating any confusions I have, and working through them together has lead to cleaner more understandable code."
+
+#### Dan's Reflection:
+
+Working with Brenna was great but I know I need to slow down. When I see a problem, I want to tear in and have a tendency to want to move on to the next juicy challenge before fully assessing how appropriate my implementation is  for the problem at hand. This is where having a pair really shines - analyzing the efficacy of how you tackle complex problems.
 
 #### Feedback from Brennan for HTTP_YEA
 
 "You come up with a lot of ideas and you aren't afraid to try them which helped us keep moving the project forward. Unfortunately, we didn't focus on the process and let testing slip because we were so caught up with the next thing since it was working."
+
 
 #### Dan's reflection
 
