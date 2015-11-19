@@ -9,11 +9,10 @@
 
 I came to Turing to make a difference in my life and in my community.
 
-Lately I've been thinking about the quote from Archimedes about the power of levers; "Give me a place to stand on and I will move the earth."
+A quote from Archimedes about the power of levers keeps coming to mind; "Give me a place to stand on and I will move the earth."
 
-I've never seen anything quite like the power of the lever that software development has to impact huge volumes of people. Turing's ability to enable access to such a lever is unmatched and I aim to move the earth to benefit my community, even if that is helping just one person at a time.
+I've never seen anything quite like the power of the lever that software development has to impact huge volumes of people. Turing's unmatched power lies in the access it enables to that lever and I aim to move the earth to benefit my community, even if that is helping just one person at a time.
 
-(What did you set out to accomplish this module?)
 
 ### End of Module Assessment
 
@@ -33,29 +32,64 @@ Work
 
 ## Individual Projects
 
-### Sorting Suite
+###Complete_Me
 
-Assessed by: Steve O
+Dan Winter
 
-* [GitHub URL](https://github.com/danjwinter/sorting_suite)
+Instructor: Jeff
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
-#### Scores
+* [GitHub URL](https://github.com/danjwinter/complete_me)
 
-Functional - 3: All sorting classes work as expected
 
-Testing - 4: Test names describe the behavior not the example, and tests cover various edge cases.
+####Notes:
 
-Ruby Style - 3: Indentation is good. Adheres to most style guidelines, but methods should be broken up into logical paragraphs. Methods should not be longer than ~8 lines.
+Passes spec harness
+One implementation is normal, one caches all the child words for speed
+12 internal tests
+Some tests need to broken apart
+Overall testing takes big leaps and needs to take more steps
+Implementation needs some refactoring for style, but clarity is ok
+Look for opportunities to create abstractions with both methods and classes
+Able to match on the internal fragments
 
-Organization - 4 Good file structure and version control.
+####Scores:
 
-#### Notes
+Functional Expectations 4
+TDD 3
+Ruby Style & Fundamentals 4
+Encapsulation / Breaking Logic Into Components 3
+Enumerable & Collections 3
 
-No notes given.
+#### Dan's Reflection:
 
-#### Dan's reflection
+I rewrote this project four times and turned in two versions. Recursion was a struggle for me at first but this project helped me really understand it. I was also able to dive into assessing different design decisions because of the four rewrites. Looking back, I want to focus on more refactoring to make class responsibilities more clear and disentangled.
 
-I can definitely use work on refactoring my methods. Large, uncontrolled methods dominated this implementation. This makes the code harder to read and follow because things get muddled by calling lots of methods. Breaking it out into smaller methods leads to easier changes in the future and helps other coders follow the logic, assuming I name them appropriately.
+### Binary Search Tree
+
+Instructor: Horace
+
+* [GitHub URL](https://github.com/danjwinter/binary_search_tree)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
+
+
+#### Notes:
+
+Clean implementation with some extensions (file io)
+Tests are pretty thorough; make sure we're not skipping cases, especially false or nil cases
+General ruby style is ok but we still have lots of unnecessary returns and self references
+
+#### Scores:
+
+Functional Expectations 3
+Test-Driven Development 3
+Encapsulation / Breaking Logic into Components 3
+Fundamental Ruby & Style 3
+Enumerable & Collections 3
+
+#### Dan's Reflection:
+
+Edge cases need to be addressed more frequently as do implementation decisions, a continuing theme from the last project. Still need to work on class communication and have been developing a better understanding through reading POODR.
 
 ### Night Writer
 
@@ -65,6 +99,7 @@ Name: Daniel Winter
 Assessed By: Horace
 
 * [GitHub URL](https://github.com/danjwinter/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 #### Notes:
 
@@ -92,49 +127,38 @@ functionality
 My use of classes needed improvement as well as my ruby style in using enumerables.
 For me, this project was more about getting through it alive than looking at better implementations, which is a misplaced priority. The process is more important than the end result because through the process, we have usable and extendable code and develop a greater understanding for why certain things work and work better in particular circumstances.
 
-### Binary Search Tree
+### Sorting Suite
 
-Instructor: Horace
+Assessed by: Steve O
 
-* [GitHub URL](https://github.com/danjwinter/binary_search_tree)
-
-#### Notes
-
-Clean implementation with some extensions (file io)
-Tests are pretty thorough; make sure we're not skipping cases, especially false or nil cases
-General ruby style is ok but we still have lots of unnecessary returns and self references
+* [GitHub URL](https://github.com/danjwinter/sorting_suite)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
 #### Scores
 
-Functional Expectations 3
-Test-Driven Development 3
-Encapsulation / Breaking Logic into Components 3
-Fundamental Ruby & Style 3
-Enumerable & Collections 3
+Functional - 3: All sorting classes work as expected
 
-#### Dan's Reflection
-Edge cases need to be addressed more frequently as do implementation decisions, a continuing theme from the last project. Still need to work on class communication and have been developing a better understanding through reading POODR.
+Testing - 4: Test names describe the behavior not the example, and tests cover various edge cases.
 
-###Complete_Me
+Ruby Style - 3: Indentation is good. Adheres to most style guidelines, but methods should be broken up into logical paragraphs. Methods should not be longer than ~8 lines.
 
+Organization - 4 Good file structure and version control.
 
-* [GitHub URL](https://github.com/danjwinter/complete_me)
+#### Notes
 
+No notes given.
 
+#### Dan's reflection
 
-GitHub URL
-Original Assignment
-(description)
+I can definitely use work on refactoring my methods. Large, uncontrolled methods dominated this implementation. This makes the code harder to read and follow because things get muddled by calling lots of methods. Breaking it out into smaller methods leads to easier changes in the future and helps other coders follow the logic, assuming I name them appropriately.
 
-(evaluation comments)
-
-(evaluation scores)
 
 ## Team Projects
 
 ### Headcount
 
 * [GitHub URL](https://github.com/danjwinter/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 ### HTTP_YEAH
 
@@ -143,6 +167,7 @@ Group: Daniel Winter and Brennan Holtzclaw
 Assessed By: Mike
 
 * [GitHub URL](http://github.com/brennanholtzclaw/http_yeah)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 
 #### Notes
