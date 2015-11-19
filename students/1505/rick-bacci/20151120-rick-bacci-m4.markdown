@@ -115,7 +115,9 @@ Fundamental JavaScript & Style: 3: Application shows strong effort towards
 
 ### Notes
 
+- Final project not completed.
+- Major issues with final assessment.
 
 ### Outcome
 
-Pass
+RETAINED - your portfolio is lacking in one or more areas and you may either repeat the current module or leave the program
