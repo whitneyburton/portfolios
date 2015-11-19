@@ -18,24 +18,28 @@ however, I might like to stay involved. It has been a highly rewarding experienc
 I do not plan to teach regular Friday student led sessions though.
 
 
-###End of Module 2 Assessment
+###Personal Project
 
-Assessed By: Andrew Carmer
+Assessed By: Jorge Tellez
 
-Notes: George worked quickly and knew almost everything we went through before I
-  had to   explain anything. When we conversed about something that we were unsure about he collaborated well and got things quickly.
+Github: N/A (private repo for schoolrunner.org)
 
-  Although we ran out of time to really push logic down the stack he said early that he wanted to try to do it which showed me he was aware of the concept. I was overall really impressed with George's rails knowledge and comfortability with doing everything.
+Notes: Good use of JavaScript. Polling data to update views. Clean abstractions.
 
-Scores:
-* Analytic/Algorithmic Thinking: 4
-* Ruby Syntax & Standard Library: 3
-* Rails Syntax & API: 3
-* Rails Style: 3
-* Testing: 3
-* Collaboration: 4
+Completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+Organization: 4: Developer used a project management tool and updated their progress in real-time.
+Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+Code Quality: 4: Project demonstrates exceptionally well factored code.
+User Experience: 3.5: Project exhibits a production-ready user experience.
+Performance: 4: Project pages load on average under 300 milliseconds.
 
-Personal note:
+Personal note: This project was very different than other projects for me. MB and
+I worked at a constant pace, and even though we hit obstacles, I never felt the
+stress I have on previous projects. I think we can attribute this to effective
+planning, organization, and communication. By our first meeting with our real world
+project manager, we had all of our base expectations met. We were then able to
+focus on UX, and extensions. Though a simple project to look at, it felt quite
+rewarding to build (also my first attempt at significant JS)!
 
 ###ApiCurious
 * [GitHub URL](https://github.com/Egogre/LitHub)
@@ -82,12 +86,12 @@ iterations! While I did much better score wise and ApiCurious, I am not as proud
 it. This project really let me feel how slow I am compared to many of my classmates.
 I did not have my features complete until 5am the day it was due. This was not due
 to slacking off earlier. I set midnight bedtimes for myself on the other nights. I
-stayed up all night the last night because I wanted better scores than my last.
+stayed up all night the last night because I wanted better scores than Api Curious.
 There were many times where I felt like giving up. I still don't understand all
 of what I implemented.
 
 ###Attendance
-No absences. On time. EVERY time. 
+No absences. On time. EVERY time.
 
 ###Just For Fun
 
@@ -102,7 +106,7 @@ disappointed with how little it felt like I had accomplished before!
 Team
 --------------------------------------
 ###Projects
-I worked on two team projects this block:
+I worked on just one team project this block:
 
 ####The Pivot
 * [GitHub URL](https://github.com/ChrisCenatie/the_pivot)
@@ -127,25 +131,22 @@ Scores:
 * Code Quality: 3
 * User Experience: 3
 
-personal note: We mobbed through almost all of this project, which forced me to
-  work on my communication skills. Everyone on my team was patient with each other
-  and committed to learning and to turning out a good project. Only on the last
-  night, when we were confident in getting a solid 3 on functionality, did we each
-  try to implement our own extension and each person produced, giving us that 4.
-  Great team.  
+personal note: I helped David understand some basic DevOps stuff for the project.
+I felt best about refactoring the tests so that as our code base grew, we only
+needed to change a few lines in our tests instead of multiple tests. It made it
+*much* easier to keep up with our testing during the project! Much of my time
+was spent pairing with David and helping him understand each part we worked on.   
 
 
 Feedback to Me
 --------------------------------------
+MB had some nice things to say about me. She states that I do a better job of
+explaining my thought processes than before, which is nice to hear, as we delved
+into complex problems in JavaScript and jQuery.
 
-While we were not supposed to solicit feedback, I am including feedback I
-received from MB. After she told it to me person to person, I wrote it down
-because it seemed to be highly accurate and useful!
-"You have a tendency to slowly stop talking through what your doing when you
-'get lost' in coding." She also suggested that during those times, I hand over the keyboard, forcing myself to talk through my thought processes. I implemented this
-idea well during the traffic spy project and recognized the same trait showing up
-during Little Shop. When I noticed it, I handed over the keyboard, but need to
-get better at realizing when I am narrowing my focus so much that I stop talking.
+I continue to hear positive things from parents of my Kids Who Code. I was invited
+to teach a technology class by a school principal (and will probably do this when
+I am graduated and am available during the school day)
 
 
 Community
@@ -160,24 +161,22 @@ aware of.
 
 ###Playing a Part
 
-* http://turingwithgeorge.tumblr.com is still ongoing. I have tried to add both
-  technical information as well as "the turing experience." Though I have tried
-  to post about a post per day, I am 2 1/2 weeks behind this goal. Despite this,
-  I have well over 50 posts about my time at Turing so far.
-* I interviewed with Course Report in their Aulumni Spotlight section which can
-  be read here: https://www.coursereport.com/schools/turing#/reviews
-* I started up and lead the Turing Kids Who Code community classes. My motivations
-  for this were:
-    1) I wanted to teach my daughters how to program and kept putting it off (it
-      was always easier to play games with them!). By making myself accountable
-      to a slightly larger community, I prioritize my preparation more.
-    2) I feel Jeff has given me a great opportunity and I wanted to find some way
-      to pass that spirit of giving on.
-    3) I wanted to get experience talking in front of groups and teaching.
-
-    * I realized before starting it would be a difficult undertaking to take this
-      on, especially with time constraints. What I did not understand was how much
-      of a leadership role this would put me in. I find myself trying to organize
-      and lead the other students interested in helping out. I feel in this area,
-      (which is my weakest of those talked about) is where I will benefit the
-      most from heading up Turing Kids Who Code.
+* http://turingwithgeorge.tumblr.com is still ongoing. I notice that my posts are
+  becoming increasingly technical. I still have fun with it though and have many
+  blog posts planned for the break! I feel my blog is a useful tool for myself as
+  it forces me to go back through my notes and further research topics I am unclear
+  on so that I can write about it more effectively.
+* I led classes on Swift2 in order to learn more about it myself. I was pleased
+  with the turnout the first week and had a lot of positive feedback from my peers
+  about it, but by week 3 it was only me and Jason Pilz. And then just myself the
+  following week. I am impressed with the thought behind the language. It is
+  intuitive and easy to start using. I am thinking about using Swift as the
+  language of choice for the next iteration of Kids Who Code so the kids can program
+  real apps for use on real iOS systems.
+* Kids Who Code is still going strong. Thank you Turing for supporting it! We are
+  planning on giving a demonstration of the kids' projects on the same night as we
+  demo our game time apps. Can I get meetup.com privileges so I can keep posting
+  the events?
+* I voluntarily gave 2 extra lightning talks, though one of them was only a pitch
+  to take my Swift class! Though I feel my Crucial Conversations talk was less
+  organized, I enjoyed sharing something that meant a great deal to me. 
