@@ -5,19 +5,11 @@
 ### Your Mission
 
 This module, I set out to develop my algorythmic thinking, refine my technical skills, and delve into a specific technology that would differentiate me from other programmers. To fulfill this goal, I ...
- - Worked to solve Euler problems with my mentor every week this module (as per Josh Cheek's recommendation)
- - Decided to adopt a technically-difficult 'Game Time' game
- - Practiced with React JS on multiple projects to learn a technology that I would not have learned in class.
+ - Solved Euler problems with my mentor every week this module (as per Josh Cheek's recommendation)
+ - Adopted a challenging and technically-difficult 'Game Time' project
+ - Practiced with React JS on various projects and learned this technology that I would not have learned in class.
 
 ### End of Module Assessment
-
-(Notes & scores from your assessment rubric)
-
-### Attendance
-
-I attended each day this module.
-
-### Final Assessment
 
 **Instructor:** Tess
 
@@ -32,6 +24,10 @@ I attended each day this module.
 5. __Testing:__ 4
 6. __User Interface:__ 3
 7. __Delivery Deadlines:__ 3
+
+### Attendance
+
+I attended each day this module.
 
 ### Work
 
@@ -101,9 +97,6 @@ In addition to handling heavy request load from users, this application handles 
 
 An additional goal for this project was to utilize multiple caching techniques along with sophisticated query optimizations and combinations.
 
-
-**Scores: **
-
 https://github.com/turingschool/ruby-submissions/blob/master/1505/12_scale_up.markdown
 
 __Instructor:__ Horace
@@ -164,8 +157,11 @@ According to the Feedback application:
 
 ### Feedback to me
 
-Comments:
-You're pleasant to work with and pleasant to be around. ... Keep up the great work, you certainly have a bright future ahead!
+**Comments:**
+
+"Adam is able to think through complicated concepts due to attention to detail and great organization. He naturally thinks in a linear pattern and likes to go step by step, which is a huge boon when dealing with software that requires the correct format and sequence. He is also a pleasure to work with, and has a collaborative manner. I would want him on any team I was assigned to." - Dave Maurer
+
+"You're pleasant to work with and pleasant to be around. ... Keep up the great work, you certainly have a bright future ahead!" - Anonymous
 
 ### Playing a Part
 
@@ -175,7 +171,6 @@ You're pleasant to work with and pleasant to be around. ... Keep up the great wo
  - Attended field day, supported the community and had a great time with my classmates.
  - Eagerly attended each of the Lunch Roulette lunches this module and enjoyed learning more about my classmates
  - Paired with a mentor from my Possee every week this module.
-
 
 ## Review
 
