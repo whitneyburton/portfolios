@@ -1,0 +1,166 @@
+#Steven Pentler - Module 1 Portfolio
+##Individual
+___
+
+###Your Mission
+
+ Experiential outdoor/adventure education is an opportunity I want to offer underserved communities. I plan on applying my technical skills towards developing a scalable model that launches from the concept of the National Outdoor Leadership School (NOLS) and my previous non-profit, Adventure Forward.
+
+My intention for module one was to keep pace with students who've had previous experience. Though it's debatable whether I've met that goal, I'm proud of the progress I've accomplished. Based on my personal observations, Brant and I seem to put in the most hours towards acquiring the craft. Though my "conversion rate" is low, I'm gaining a lot of experience through solid hours and enjoying myself.
+
+___
+
+###End of Module Assessment
+
+(Notes & scores from your assessment rubric)
+
+###Attendance
+
+I have been present and timely for every class, wrap-up, lightning talk, gear up, Friday lunches, etc.
+
+##Work
+
+(Intro)
+
+(Project Name)
+
+GitHub URL
+Original Assignment
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+##Team
+
+___
+
+###Projects
+
+Below is a list of all my projects and assessment scores from Module 1.
+
+___  
+
+###Headcount
+
+###Steve Pentler and Jordan Lawler
+
+- GitHub URL
+
+**Real-world data collection and analysis** of educational statistics. Emphasis on parsing CSV files, extracting data, creating hashes and analyzing that data for specific years, districts and outcomes.
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+___
+
+###HTTP
+
+####Steve Pentler and Emily Blanchard
+
+- [GitHub URL](https://github.com/emblou2/http-yeah-you-know-me)
+
+**Web server** capable of requesting and responding, parsing paths, and preforming word search operations with parameters. Also, the first project to incorporate pairing and partner design.
+
+Assesed by: Horace
+
+####Evaluation Comments:
+- Overall structure is heading in a good direction - parsing request info into semantically named keys and values of a hash is useful
+- Completion is solid through I3 but didn't get into game application
+- Some leakage of non-parsing responsibilities into the parser object, so be attentive to that.
+- Think especially about names and responsibilities of objects with respect to the methods they are performing -- do they actually fit
+- Testing is good on the things it covers but overall lacking in quantity
+
+####Evaluation Scores:
+1. Overall Functionality 2
+2. Fundamental Ruby & Style 3
+3. TDD 2
+4. Breaking Logic Into Components 3
+
+___
+
+###Enigma
+
+- [GitHub URL](https://github.com/stevepentler/enigma)
+- Original Assignment
+
+**Encryption/decryption machine.** Emphasis on breaking program into logical components, TDD and enumerable techniques. Required to build a key generator and date offset, encrypt a message using a 4-digit rotation, decrypt the message using a pre-determined key and crack an encrypted message without the key.
+
+Assesed by: Horace
+
+####Evaluation Comments:
+- base functionality for decrypt and encrypt is solid; not quite there on cracking
+- Follows prescribed interface pretty closely
+- Good number of tests that seem to be organized fairly evenly according to objects/ responsibility
+- Overall ruby structure is getting pretty solid
+- Enumerables still need a little work -- watch especially for map / reduce patterns when you see repeated array modifications
+- method extraction is good; watch for naming to generally represent the value that the method generates
+
+####Evaluation Scores:
+1. Overall Functionality 2
+2. Fundamental Ruby & Style 3
+3. TDD 3
+4. Breaking Logic Into Components 3
+5. Enumerable & Collections 3
+
+___
+
+###Junglebeats
+
+- [GitHub URL](https://github.com/stevepentler/enigma)
+- Original Assignment
+
+**Linked list** of Jungle Beats Project emphasized understanding of linked lists through iteration and/or recursion. Program played beats on the command line and included features like append, prepend, insert, pop and find.
+
+Assesed by: Jeff
+
+####Evaluation Comments:
+- base functionality for decrypt and encrypt is solid; not quite there on cracking
+- Follows prescribed interface pretty closely
+- Good number of tests that seem to be organized fairly evenly according to objects/ responsibility
+- Overall ruby structure is getting pretty solid
+- Enumerables still need a little work -- watch especially for map / reduce patterns when you see repeated array modifications
+- method extraction is good; watch for naming to generally represent the value that the method generates
+
+####Evaluation Scores:
+1. Functional Expectations 3
+2. Test-Driven Development 3
+3. Encapsulation / Breaking Logic into Components 3
+4. Fundamental Ruby & Style 3
+5. Looping or Recursion 3
+
+___
+###Community
+
+####Giving Feedback
+
+*"Jordan is a visionary that conceptualizes relationships/implementation at an alarmingly fast rate. Jordan synthesizes information and is able to architect intelligent design decisions based on future implications. I’m blown away by his abilities. In addition, he has sacrificed a significant amount of his time during headcount and other projects to help myself and other groups. He isn’t content until everyone can explain what he’s taught them in their own words. I’m convinced that law of diminishing returns doesn’t apply to Jordan, because he is equally pleasant and adept 10 hours into programming as he is in the first."*
+*Jordan is aware of his need for growth in step-wise test driven development. Each time we went to the drawing board, pseudo-coded, or used test-driven development, he raved about the productivity and benefits. However, he has a tendency to be swept away by his vision and outpace his safety nets. I would recommend that he commit to testing first and tracking his time spent using pry. Identifying errors with solid testing, ex “what class is being output” could diagnose a lot of the problems that we had as a group. Ultimately, he is exceptionally enjoyable to work with and our morale has been the highest among groups."*
+
+*"Emily’s ability to present her needs and concerns was essential to our success as a team. When I hit a wall debugging or unconsciously tried to run away with the project, she reeled me in and reestablished our vision. Emily has a strong desire to improve technically, and I’ve seen her acting on it since we worked together. Aside from programming, she’s a positive force in the cohort that isn’t afraid to share her vulnerabilities with the group. I can say with confidence that everyone has a lot of respect for Emily."*
+
+####Being a Community Member
+
+*"Steven is a detail oriented thinker that utilizes tools/techniques/ideas efficiently and adeptly to the benefit of everyone around him.  Whether it be building out tests before diving into a complex problem to set expectations and benchmarks for progress, utilizing the whiteboard for large conceptual ideas, or breaking responsibilities up in pairing to make for more efficient work time, Steve’s workflow and insight save time in the back-end by valuing work in the front.*
+*Outside of a technical environment Steve is incredible to collaborate with.  His combination of adeptness, easy going temperament, and incredible work ethic allow the team to expend energy on the problem at hand rather than dynamics of teamwork/workflow.  Steve utilizes patience and demonstration as a teaching/mentoring tool rather than explanation,  allowing for teammates to make mistakes, then present a process that illuminates the correct path.*
+*I think Steve would benefit greatly from removing himself from pre-planning process in the context of practice.  While his ability to conceptually navigate relationships between classes/methods is proficient, his efficiency has room for improvement.  This should allow for him to work within the macro of a project in a quick, efficient, and accurate way when paired with his pre-existing skill-set."*
+
+*"I had the pleasure of working with Steve Pentler on 1510’s first paired assignment. Although we have very different learning/production styles, Steve was a great pair member from day 1. We both made our missteps, but had really productive/cool days as well. Mr. Pentler’s patience is legendary, as is his humor, wit, and drive to succeed. I look forward to more projects with Steve P."*
+
+####Playing a Part
+
+*I've learned nearly everyone in the building's name, consistently smile, and avoid collusion to keep things light*
+
+###Review
+
+###Notes
+
+( Leave blanks for reviewers )
+
+#Outcome
+
+( Leave blanks for reviewers )
