@@ -21,6 +21,59 @@ n/a for module 3
 
 ## Work
 
+### _Team_
+
+### The Pivot
+
+#### Links
+
+* [GitHub URL](https://github.com/BMR-PIVOT-1507/the_pivot)
+* [Production Link](http://littleloans.herokuapp.com)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/the_pivot.markdown)
+
+#### Description
+
+Use a given code base from Little Shop of Orders / Dinner Dash and expand it to a multi-tenant application. 
+
+#### Team Members
+
+* Matt Ewell
+* Russell Emmer/Harms
+* Bret Doucette
+
+#### My synopsis
+
+I liked this project. My two teammates were also experiencing some level of burnout as the module got underway, but by all pitching in we were able to meet our requirements without too many hiccups.
+
+Multiple pivot experiences as an inaugural Echoer prepared me for the experience of inheriting code. I used pen and paper to map out some complicated flows-- the checkout process was an example of this.
+
+We tried to refactor as we go. Everything I ran across that I felt needed touching up I would either take care of right away or make a note of it. However, our requirements didn't involve touching everything.
+
+I saw some files the day of the evaluation for the first time that were horrific. It was a good lesson that a client-driven project doesn't cover everything in stories that might need to be done.
+
+#### Assessment Notes
+
+Assessed by: Mike Dao
+
+* Website functions perfectly.
+* 129 tests
+* 100 percent testing coverage
+* Controllers were on the whole really skinny, with things pulled out appropriately
+good use of Poros.
+* Think about using decorators
+* Maybe custom validators to abstract things out.
+* Some database calls in views.
+* Good use of partials
+
+#### Assessment Scores:
+
+* Feature Completeness: 3
+* Views: 3
+* Progress: 3
+* TDD: 4
+* Code Quality: 3
+* UX: 3
+
 ### _Individual_
 
 ### API Curious
@@ -141,59 +194,6 @@ Assessed by: Jorge
 #### Description
 
 During the module 2 portfolio review it was suggested to me to list Exercism. I've completed 52 Ruby exercises and 2 for Javascript. About 10 of these were completed during the module.
-
-### _Team_
-
-### The Pivot
-
-#### Links
-
-* [GitHub URL](https://github.com/BMR-PIVOT-1507/the_pivot)
-* [Production Link](http://littleloans.herokuapp.com)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/the_pivot.markdown)
-
-#### Description
-
-Use a given code base from Little Shop of Orders / Dinner Dash and expand it to a multi-tenant application. 
-
-#### Team Members
-
-* Matt Ewell
-* Russell Emmer/Harms
-* Bret Doucette
-
-#### My synopsis
-
-I liked this project. My two teammates were also experiencing some level of burnout as the module got underway, but by all pitching in we were able to meet our requirements without too many hiccups.
-
-Multiple pivot experiences as an inaugural Echoer prepared me for the experience of inheriting code. I used pen and paper to map out some complicated flows-- the checkout process was an example of this.
-
-We tried to refactor as we go. Everything I ran across that I felt needed touching up I would either take care of right away or make a note of it. However, our requirements didn't involve touching everything.
-
-I saw some files the day of the evaluation for the first time that were horrific. It was a good lesson that a client-driven project doesn't cover everything in stories that might need to be done.
-
-#### Assessment Notes
-
-Assessed by: Mike Dao
-
-* Website functions perfectly.
-* 129 tests
-* 100 percent testing coverage
-* Controllers were on the whole really skinny, with things pulled out appropriately
-good use of Poros.
-* Think about using decorators
-* Maybe custom validators to abstract things out.
-* Some database calls in views.
-* Good use of partials
-
-#### Assessment Scores:
-
-* Feature Completeness: 3
-* Views: 3
-* Progress: 3
-* TDD: 4
-* Code Quality: 3
-* UX: 3
 
 ## Community
 
