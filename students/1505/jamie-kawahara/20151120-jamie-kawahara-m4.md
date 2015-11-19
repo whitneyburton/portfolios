@@ -91,7 +91,6 @@ Jamie is a competent and collaborative partner, able to stay on task and work th
 
 ### Notes
 
-
-
 ### Outcome
 
+RETAINED - your portfolio is lacking in one or more areas and you may either repeat the current module or leave the program

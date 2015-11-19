@@ -176,8 +176,8 @@ According to the Feedback application:
 
 ### Notes
 
-( Leave blanks for reviewers )
+Adam's Real Time project was not successful, but it was an outlier in a portfolio of otherwise successful performance.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate

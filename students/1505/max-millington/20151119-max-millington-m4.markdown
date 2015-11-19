@@ -16,7 +16,7 @@ These are the projects I worked on this module.
 
 * [GitHub URL](https://github.com/MaxMillington/snake)
 
-I did this project with Dmitry. The goal was to learn OO JS and how to TDD it. 
+I did this project with Dmitry. The goal was to learn OO JS and how to TDD it.
 
 Steve evaluated us.
 
@@ -47,7 +47,7 @@ Horace evaluated me.
 
 I unfortunately didn't finish this project due to having to go to job interviews. However, I was able to get the sockets working and was able to create polls
 that generated two links, one for the user and one for the admin.
-I also learned how to do routes in node and learned about the ejs template. 
+I also learned how to do routes in node and learned about the ejs template.
 
 #### Final Assessment
 
@@ -72,4 +72,4 @@ I also haven't taken the final assessment because I was in San Francisco intervi
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING

@@ -87,7 +87,7 @@ Code Sanitation - 4
 ## Community
 
 ### Playing a Part
- 
+
 * October 9, 2015 8:00am - 10:00am: Paired with Max Millington on building a Rails App that allows a user to add a Turing Lesson Plan and uses the Genius API to allow the user to annotate the document and other users to see the annotations.
 * October 9, 2015 11:00am - 2:00pm - Paired with Max Millington on the application described above.
 * November 8, 2015 4:00pm - 9:00pm - Worked with Regis on parsing today.turing.io for his personal project. Worked with Sam, Adam, and Ricky on Scale Up projects.
@@ -98,4 +98,8 @@ Code Sanitation - 4
 
 ### Notes
 
+Solid performance on every project.
+
 ### Outcome
+
+PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate
