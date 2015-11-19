@@ -90,6 +90,15 @@ Notes: I had been looking forward to the personal project for all of Module 3, a
 
 My group received the following feedback and scores:
 
+Notes: Good use of JavaScript. Polling data to update views. Clean abstractions.
+
+* Completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* Organization: 4: Developer used a project management tool and updated their progress in real-time.
+* Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* Code Quality: 4: Project demonstrates exceptionally well factored code.
+* User Experience: 3.5: Project exhibits a production-ready user experience.
+* Performance: 4: Project pages load on average under 300 milliseconds.
+
 I received the following peer feedback:
 
 * I look forward to collaborating with you again: strongly agree
