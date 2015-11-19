@@ -88,7 +88,7 @@ In this project we enhanced a Little Shop of Orders (Earmarked) project, simulat
 
 I was told:
 
-"Best group ever! I think we all worked together super well, never got too stressed, and got to do lots of cool shit. I especially appreciated your enthusiasm and excitement throughout the project, I think it added a lot to the group dynamic. You’re also constantly curious, and always wanting to try new stuff, and I appreciate that too. I’m not sure if I really have a poopsicle for you, that project was an absolute blast the whole way through."
+"Best group ever! I think we all worked together super well, never got too stressed, and got to do lots of cool things. I especially appreciated your enthusiasm and excitement throughout the project, I think it added a lot to the group dynamic. You’re also constantly curious, and always wanting to try new stuff, and I appreciate that too. I’m not sure if I really have a poopsicle for you, that project was an absolute blast the whole way through."
 
 "Working with you was nothing but positive. Your knowledge for dev-ops is obvious and it was awesome that you wanted to share that with us. Figuring out two-factor auth with the phone was skillful. I always knew I could count on you to work hard, and we all worked so well together, it’s definitely been my favorite group experience. Your enthusiasm towards learning to code, doing a good job on the project, and being a good team member made you a pleasure to work with."
 
