@@ -1,4 +1,4 @@
-dam Jensen - M3 
+Adam Jensen - M3 
 
 
 ## Individual
