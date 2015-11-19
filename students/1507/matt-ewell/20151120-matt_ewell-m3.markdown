@@ -8,7 +8,7 @@ This is a special module for me because of the personal project. I have long wan
 
 ### End of Module Assessment
 
-Assessed By: 
+n/a for module 3
 
 #### Notes
 
@@ -90,8 +90,6 @@ Test-Driven Development: 4: Project demonstrates high test coverage (>90%) and t
 * Code Quality: 3: Project demonstrates solid code quality and MVC principles.
 * API Design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
 * Queries: 3+: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
-
-### _Individual_
 
 ### Personal Project - Denver Meetings
 
@@ -203,11 +201,10 @@ good use of Poros.
 
 * Sent in most weekly surveys
 * Participated in cohort retros
-* 
+* Had a really nice chat with Jorge during a one on one which I think was mutually beneficial
 * Shoutout channel/Possee post - plato721 [3:42 PM] @rasensio:  for the mother of all sql queries
-* Provided detailed feedback for teammates on 
-* Provided feedback to  for his portfolio
-* Provided feedback to  for his portfolio
+* Provided feedback to Bret for his portfolio
+* Provided to Cole for her portfolio 
 
 ### Getting Feedback
 
