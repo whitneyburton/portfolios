@@ -65,6 +65,8 @@ The Scale Up took a legacy codebase from previous Turing students and injected o
 * **Performance Optimization Techniques: 4**
 * **Additional Features: 4**
 
+**Notes:** Great use of puma on production. Got as much out of the free Heroku instance as you could.
+
 This was my favorite project. I got to dig into the fun DevOps problems that caught my eye at the end of Module 3. I used Sidekiq, Redis, Airbrake, Librato, as well as the techniques covered in class. I had a lot of fun geeking out over dyno optimization.
 
 #### Real Time
