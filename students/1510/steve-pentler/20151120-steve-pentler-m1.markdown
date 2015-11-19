@@ -20,12 +20,12 @@ ___
 * good variable names
 
 ####Evaluation Scores
-1. Ruby Syntax & API: 3
-2. Ruby Style: 3
-3. Blocks & Enumeration: 3
-4. Testing: 3
-5. Workflow: 3
-6. Collaboration: 3.5
+1. **Ruby Syntax & API: 3**
+2. **Ruby Style: 3**
+3. **Blocks & Enumeration: 3**
+4. **Testing: 3**
+5. **Workflow: 3**
+6. **Collaboration: 3.5**
 
 Assessed by Rachael Warbelow
 
@@ -57,19 +57,12 @@ ___
 
 ####Evaluation Score
 
-1. Functional Expectations: 3 
-*Application fulfills all base expectations as tested by the spec harness*
-2. Test-Driven Development: 3
-*Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality*
-3. Encapsulation / Breaking Logic into Components: 4
-*Application is expertly divided into logical components each with a clear, single responsibility*
-4. Fundamental Ruby & Style: 3
-*Application shows strong effort towards organization, content, and refactoring*
-5. Enumerable & Collections 3
-*Application demonstrates comfortable use of appropriate Enumerable methods*
-6. Code Sanitation: 4
-*The output from rake sanitation:all shows... 0 complaints
-(evaluation scores)*
+1. **Functional Expectations: 3 **
+2. **Test-Driven Development: 3 ** 
+3. **Encapsulation / Breaking Logic into Components: 4 **
+4. **Fundamental Ruby & Style: 3 **
+5. ** Enumerable & Collections 3 **
+6. ** Code Sanitation: 4 **
 
 Assessed by Jeff Casimir
 ___
@@ -90,10 +83,10 @@ ___
 - Testing is good on the things it covers but overall lacking in quantity
 
 ####Evaluation Scores:
-1. Overall Functionality 2
-2. Fundamental Ruby & Style 3
-3. TDD 2
-4. Breaking Logic Into Components 3
+1. ** Overall Functionality 2 **
+2. ** Fundamental Ruby & Style 3 **
+3. ** TDD 2 **
+4. ** Breaking Logic Into Components 3 **
 
 Assessed by: Horace Williams
 
@@ -114,11 +107,11 @@ ___
 - method extraction is good; watch for naming to generally represent the value that the method generates
 
 ####Evaluation Scores:
-1. Overall Functionality 2
-2. Fundamental Ruby & Style 3
-3. TDD 3
-4. Breaking Logic Into Components 3
-5. Enumerable & Collections 3
+1. ** Overall Functionality 2 **
+2. ** Fundamental Ruby & Style 3 **
+3. ** TDD 3 **
+4. ** Breaking Logic Into Components 3 **
+5. ** Enumerable & Collections 3 **
 
 Assessed by: Horace Williams
 
@@ -139,11 +132,11 @@ ___
 - method extraction is good; watch for naming to generally represent the value that the method generates
 
 ####Evaluation Scores:
-1. Functional Expectations 3
-2. Test-Driven Development 3
-3. Encapsulation / Breaking Logic into Components 3
-4. Fundamental Ruby & Style 3
-5. Looping or Recursion 3
+1. ** Functional Expectations 3 **
+2. ** Test-Driven Development 3 **
+3. ** Encapsulation / Breaking Logic into Components 3 **
+4. ** Fundamental Ruby & Style 3 **
+5. ** Looping or Recursion 3 **
 
 Assessed by: Jeff Casimir
 ___
