@@ -90,6 +90,8 @@ In this assignment we were asked to build an e-commerce site. Shannon, John and 
 
 * “Amber was an amazing teammate on Little Shop. Her energy is infectious and only matched by her drive and talent. Her leadership and determination was responsible for us getting off to a great start and giving us time to implement not 2, but 4 extensions. Her front end development skills blossomed on this project and it was a joy to come in every morning and see what new featured she had implemented. I would love love love to work with Amber on any future projects. In fact I wish I could work with her on all future projects."
 
+* "I went into Traffic Spy expecting the worst after hearing multiple upper module students groan about “the punisher."  However, it proved to be the greatest learning experience that I have had at Turing thus far -  greatly in part to having Amber as a partner.   She never made me feel left behind, and was always willing to work through problems with me.  Amber attacks problems head on and I am always impressed with her style and tact.  She is patient, humble, a great teacher, and an even better friend.  I would love to work with her in the future and I cannot wait to see her kick ass in the industry."
+
 #### Playing a Part
 
 I've participated in the larger Turing Community in the following ways:
