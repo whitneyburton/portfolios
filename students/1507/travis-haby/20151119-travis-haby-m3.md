@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-This module I tried to focus on workflow, using tools, and of course understanding the beast that is Rails. I feel like I really solidified my practice with git, as well as sped up my workflow by using shortcuts in Atom as well as other tools to take some of the mundane aspects of programming away. I am really excited to feel like I understand Rails pretty well. It's cool to see all kinds of error messages and know exactly what file to look in for the next step given the output of the error. Exciting!
+This module I really tried to keep pushing myself to learn new things and take academic risks in my projects. It was rewarding to so something outside of the ordinary with my API-Curious project, as well as creating a real product for a real business need with SchoolRunner project C. After turning in API-Curious and Rails Engine this module, I finally started to feel like a real developer that could actually provide some value to a development team--I can sort of see why someone might want to hire me :)
 
 ### Attendance
 
@@ -53,7 +53,7 @@ I completed the following team projects:
 
 #### The Pivot
 
-  * repository: 
+  * repository: https://github.com/MikeJerrodTravis/the_pivot
   * group_discussion_notes: None
 
 ##### Notes:
@@ -77,9 +77,11 @@ I completed the following team projects:
 
 ## Community
 
-### Giving Feedback
-
 ### Playing a Part
+
+Especially these last two weeks I've supported some module 2 groups with solivng problems in their Little Shop projects. It been great to feel like I was able to actually help people when they were stuck with rails problems.
+
+Still doing the dishes frequently. I've made more pots of coffee this module than a Columbian barista. 
 
 ### Notes
 
