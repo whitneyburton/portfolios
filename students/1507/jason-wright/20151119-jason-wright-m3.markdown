@@ -107,4 +107,10 @@ I worked with Ryan and Alon on the pivot. In this project, we took [My codebase]
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* A: End-of-Module Assessment: 2
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 3
+* E: Peer & Instructor Feedback: 3
+
+Retake

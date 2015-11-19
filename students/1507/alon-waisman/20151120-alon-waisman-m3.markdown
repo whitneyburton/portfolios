@@ -134,3 +134,19 @@ Really good effort. App looks quite polished. They surpassed expectations.
 
 * **Week 1**: Developed and led a session for students new to the program - [System Setup Tricks](https://gist.github.com/MowAlon/1641b1208aba11a15d85)
 * **Weeks 2, 3, 5**: Led weekly sessions of Ruby review for Module 1 students. I always thought something like this would be a good idea for the newcomers who felt like they needed some additional assistance to reinforcement, so I put it together and got help from Matt Hecker. I'd like to do it again next module.
+
+## Review
+
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: 4
+* C: Group Work & Projects: 4
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+Pass

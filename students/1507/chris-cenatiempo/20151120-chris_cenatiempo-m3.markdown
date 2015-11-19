@@ -93,3 +93,11 @@ In addition to learning and applying new skills, I plan on taking part community
 * Giving Lightning Talks
 * Updating my personal website and resume
 * Attending Developer Meet-ups
+
+## Outcome
+
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 3
+* E: Peer & Instructor Feedback: 3

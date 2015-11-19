@@ -115,3 +115,15 @@ According to the Feedback application:
 
 * I instructed at 3 kids-who-code groups.
 * I gave a student lead session on Bitcoin at the beginning of the module.
+
+Review:
+
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 2
+* C: Group Work & Projects: 3
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
+
+Outcome
+
+Retake
