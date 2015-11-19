@@ -135,13 +135,18 @@ Scores:
 
 This project analyzes CSV datasets for schools in Colorado.
 
-Assessed by:
+Assessed by: Andrew Carmer
 
 Notes:
-* The most awesome comments
+* A little complicated at times, but over all functional. Some ruby style and api issue like using 'return' often. Some variable name issues, but most of the times short variable names could have been considered appropriate. Some long methods that violated SRP but method names were excellent. Some refactoring would have helped overall. Some concern with over complication. Some of the refactoring was really good, like pulling out truncate and we talked about other things they would have wanted to do.
 
 Scores:
-* The best scores ever
+* Functional Expectations: 3
+* Test_Drive Development: 3
+* Encapsulation / Breaking Logic Into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* Code Sanitation: 4
 
 ## Community
 
