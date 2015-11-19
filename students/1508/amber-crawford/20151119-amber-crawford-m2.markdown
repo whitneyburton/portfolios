@@ -136,3 +136,14 @@ walls who want to develop their own skills.
 A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
 own growth by taking in and acting on the feedback of their peers and instructors.
+
+
+
+Notes: 
+
+Tried to focus on design a little more this term and helping other students. Unfortunetly didnt get to help lower module students but did get to do some design. 
+
+ Overall great partner and hard worker. 
+ 
+ Try to take ownership of community a little mroe next module by being at warmups and wrapups
+ 
