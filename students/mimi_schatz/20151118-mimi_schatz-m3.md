@@ -61,6 +61,8 @@ Group: Mimi & Adam & Mary Beth
 * [Production](http://chatterboxes.herokuapp.com)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
 
+In this project, we were asked to consume and work with data from a public API. I chose a popular website, Twitter for this project, and re-constructed a simplified version of the website's existing UI using their own API.
+
 #### Assessed By: Jorge
 
 #### Scores:
@@ -74,7 +76,9 @@ Group: Mimi & Adam & Mary Beth
 ## Rales Engine
 
 * [GitHub URL](https://github.com/mcschatz/rails_engine)
-* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rales_engine.md)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
+
+In this project, I used Rails and ActiveRecord to build a JSON API to expose data from a previous project, SalesEngine.
 
 #### Assessed By: Jorge
 
@@ -91,6 +95,26 @@ Record queries. In addition to working on building the API, I made an effort to
 use as little Ruby as possible to complete the business logic. I also spent some
 time in the PostgreSQL console practicing raw SQL.
 
+## ExitRunner
+
+* [GitHub URL](https://github.com/Schoolrunner/tssd-1507-c)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+
+Schoolrunner proposed a project to help teachers quickly move data from one app, ExitTicket, into their app, Schoolrunner. We built an app to parse, reformat, and submit data to Schoolrunner's assessment endpoint.
+
+Group: Mimi & Travis
+
+#### Assessed By: Jorge
+
+#### Scores:
+
+* Completion:
+* Organization:
+* Test-Driven Development:
+* Code Quality:
+* User Experience:
+* Performance:
+
 #### Playing a Part
 
 I've participated in the larger Turing Community in the following ways:
@@ -98,6 +122,7 @@ I've participated in the larger Turing Community in the following ways:
 * Attended and led Women Who Code at Turing.
 * Helped 1508 students with testing and Jquery for Little Shop of Orders.
 * Served on SAB for 1507.
+* Unload and load the dishwasher at least 2x a week.
 
 ## Review
 
