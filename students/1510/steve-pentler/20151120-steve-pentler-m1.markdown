@@ -1,7 +1,6 @@
 #Steven Pentler - Module 1 Portfolio
 ##Individual
 ___
-
 ###Your Mission
 
  Experiential outdoor/adventure education is an opportunity I want to offer underserved communities. I plan on applying my technical skills towards developing a scalable model that launches from the concept of the National Outdoor Leadership School (NOLS) and my previous non-profit, Adventure Forward.
@@ -9,64 +8,84 @@ ___
 My intention for module one was to keep pace with students who've had previous experience. Though it's debatable whether I've met that goal, I'm proud of the progress I've accomplished. Based on my personal observations, Brant and I seem to put in the most hours towards acquiring the craft. Though my "conversion rate" is low, I'm gaining a lot of experience through solid hours and enjoying myself.
 
 ___
+##Evaluation
 
-###End of Module Assessment
+####Evaluation Notes
+* started with test
+* able to talk through thought process
+* knew each with index for iterating with position number
+* able to read and interpret error messages (after being reminded to run tests :) )
+* some confusion with placing functionality inside or outside of loop
+* check indentation carefully
+* good variable names
 
-(Notes & scores from your assessment rubric)
+####Evaluation Scores
+1. Ruby Syntax & API: 3
+- Developer is able to comfortably implement solutions in Ruby
+2. Ruby Style: 3
+- Developer writes code that is easy to follow
+3. Blocks & Enumeration: 3
+- Developer demonstrates understanding of blocks and can effectively use enumerable methods
+4. Testing: 3
+- Developer uses tests to guide development in small chunks
+5. Workflow: 3
+- Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+6. Collaboration: 3.5
+
+Assessed by Rachael Warbelow
+
+___
 
 ###Attendance
 
 I have been present and timely for every class, wrap-up, lightning talk, gear up, Friday lunches, etc.
-
-##Work
-
-(Intro)
-
-(Project Name)
-
-GitHub URL
-Original Assignment
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-##Team
-
 ___
 
-###Projects
-
-Below is a list of all my projects and assessment scores from Module 1.
-
+##Projects
 ___  
 
 ###Headcount
 
 ###Steve Pentler and Jordan Lawler
 
-- GitHub URL
+-[GitHubURL](https://github.com/stevepentler/Headcount-V2)
 
-**Real-world data collection and analysis** of educational statistics. Emphasis on parsing CSV files, extracting data, creating hashes and analyzing that data for specific years, districts and outcomes.
+**Real-world data collection and analysis** of educational statistics. Emphasis on parsing CSV files, establishing and analyzing multiple relationship layers. Produced correlations linking kindergarten participation and high school graduation, economics, race, and testing scores.
 
-(evaluation comments)
+####Evaluation Comments
+- Spec harness passes
+- Felt the beginning of the project was slow to launch, iteration  0 & 2 were slow, 1 &  3 were fast
+- 158 tests pass
+- Testing of features looks really solid, probably some space for more edge case testing
+- Implementation looks good, small methods, clear code, etc
+- For next time: analysis take a long time, especially iteration 2, dealing with NaN error, not clear where - - the intended difficulty is, what to do with the non-values, trash data, etc
 
+####Evaluation Score
+
+1. Functional Expectations: 3
+- Application fulfills all base expectations as tested by the spec harness
+2. Test-Driven Development: 3
+- Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+3. Encapsulation / Breaking Logic into Components: 4
+- Application is expertly divided into logical components each with a clear, single responsibility
+4. Fundamental Ruby & Style: 3
+- Application shows strong effort towards organization, content, and refactoring
+5. Enumerable & Collections 3
+- Application demonstrates comfortable use of appropriate Enumerable methods
+6. Code Sanitation: 4
+- The output from rake sanitation:all shows... 0 complaints
 (evaluation scores)
 
-(feedback to me)
-
+Assessed by Jeff Casimir
 ___
 
 ###HTTP
 
 ####Steve Pentler and Emily Blanchard
 
-- [GitHub URL](https://github.com/emblou2/http-yeah-you-know-me)
+- [GitHubURL](https://github.com/emblou2/http-yeah-you-know-me)
 
 **Web server** capable of requesting and responding, parsing paths, and preforming word search operations with parameters. Also, the first project to incorporate pairing and partner design.
-
-Assesed by: Horace
 
 ####Evaluation Comments:
 - Overall structure is heading in a good direction - parsing request info into semantically named keys and values of a hash is useful
@@ -81,16 +100,15 @@ Assesed by: Horace
 3. TDD 2
 4. Breaking Logic Into Components 3
 
+Assessed by: Horace Williams
+
 ___
 
 ###Enigma
 
-- [GitHub URL](https://github.com/stevepentler/enigma)
-- Original Assignment
+- [GitHubURL](https://github.com/stevepentler/enigma)
 
 **Encryption/decryption machine.** Emphasis on breaking program into logical components, TDD and enumerable techniques. Required to build a key generator and date offset, encrypt a message using a 4-digit rotation, decrypt the message using a pre-determined key and crack an encrypted message without the key.
-
-Assesed by: Horace
 
 ####Evaluation Comments:
 - base functionality for decrypt and encrypt is solid; not quite there on cracking
@@ -107,6 +125,8 @@ Assesed by: Horace
 4. Breaking Logic Into Components 3
 5. Enumerable & Collections 3
 
+Assessed by: Horace Williams
+
 ___
 
 ###Junglebeats
@@ -115,8 +135,6 @@ ___
 - Original Assignment
 
 **Linked list** of Jungle Beats Project emphasized understanding of linked lists through iteration and/or recursion. Program played beats on the command line and included features like append, prepend, insert, pop and find.
-
-Assesed by: Jeff
 
 ####Evaluation Comments:
 - base functionality for decrypt and encrypt is solid; not quite there on cracking
@@ -133,7 +151,9 @@ Assesed by: Jeff
 4. Fundamental Ruby & Style 3
 5. Looping or Recursion 3
 
+Assessed by: Jeff Casimir
 ___
+
 ###Community
 
 ####Giving Feedback
@@ -153,7 +173,7 @@ ___
 
 ####Playing a Part
 
-*I've learned nearly everyone in the building's name, consistently smile, and avoid collusion to keep things light*
+*I've learned nearly everyone in the building's name, consistently smile, and avoid collusion to keep things light.*
 
 ###Review
 
