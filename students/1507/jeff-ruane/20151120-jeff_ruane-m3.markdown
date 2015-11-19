@@ -10,13 +10,9 @@ I think I did a much better job as far as contributing to the community last mod
 
 Aside from that, I still have a lot of the same goals as last module. I want to keep learning other skills when I have time, and I still think that shell scripting is a good place to put that effort into. I also want to keep pursuing other passions, specifically photography.
 
-### End of Module Assessment
-
-(Notes & scores from your assessment rubric)
-
 ### Work
 
-(Intro)
+I had two week long individual projects this module:
 
 #### Apicurious
 
@@ -25,6 +21,8 @@ Aside from that, I still have a lot of the same goals as last module. I want to 
 * [Heroku Deployment](https://jbrr-apicurious.herokuapp.com)
 
 In this project, I started learning how to work with APIs by building a Twitter clone. I was evaluated by Jorge and recieved the following scores:
+
+##### Evaluation Scores
 
 * Completion: 3
 * Organization: 4
@@ -37,7 +35,9 @@ In this project, I started learning how to work with APIs by building a Twitter 
 * [GitHub URL](https://github.com/jbrr/rales-engine)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
 
-In this project, I built Sales Engine using ActiveRecord, and exposing API endpoints of all the queries.
+In this project, I built Sales Engine using ActiveRecord, and exposing API endpoints of all the queries. I was evaluated by Jorge and recieved the following scores:
+
+##### Evaluation Scores
 
 * Completion: 3
 * TDD: 4
@@ -49,7 +49,7 @@ In this project, I built Sales Engine using ActiveRecord, and exposing API endpo
 
 ### Projects
 
-(Intro)
+I had two team projects this module, one with Rose and Regis, and the other with Chris:
 
 #### The Pivot (Earforked)
 
@@ -82,17 +82,23 @@ In this project, we took [Rose's codebase](https://github.com/TeamConchord/Earma
 * Code Quality: 3
 * UX: 4
 
-(feedback to me)
+Feedback from Rose:
+
+"Working with you was nothing but positive.  Your ability to stay calm and the amazing flow our group had made this hands down my favorite group experience.  The points when I wasn’t sure what to you, you’d be able to step in and throw down some know-how that would keep the group moving along.  You were always up to try something new, and I couldn’t be happier with how it all turned out."
+
+Feedback from Regis:
+
+"Was the best team lead I have had yet. He was not aggressive, and was not too laid back. He let the team work on their ideas and gave mini deadlines to be sure we weren’t getting lost. He really helped improve my experience at Turing. I never felt pushed, and he was also reassuring. The only poopsicle I can think of for Jeff is that he might be too laid back but other than that he has a really good head on his shoulders."
+
+####School Sync
+
+[GitHub URL](https://github.com/Schoolrunner/tssd-1507-a) (Private Repository)
+[Original Assignment](https://docs.google.com/document/d/1cOphM8Wqt15RL06gbKcf7S88B6nAXc2VGkyN2zPlaxg/edit#heading=h.j51wpgcw56ru)
+Heroku Deployment: Unfortunately, due to student privacy concerns, this project was not put into production.
+
+In this project, Chris and I teamed up to make a simple app for Schoolrunner. Schoolrunner allows schools to sync data with their servers, and our app was for schools to have some peace of mind that their syncs were successful and their data is safe. It involved hitting one API and displaying the data in a human readable way. Building this project with Rails would not have been very challenging, so we decided to build it in AngularJS in hopes that it would be integrated with Schoolrunner's existing infrastructure.
 
 ## Community
-
-### Giving Feedback
-
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
 
 ### Playing a Part
 
