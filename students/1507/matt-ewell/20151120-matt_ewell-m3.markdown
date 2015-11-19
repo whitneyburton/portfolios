@@ -170,7 +170,9 @@ My user is a professional who is very good at her job when she shows up to it. T
 
 #### Assessment Notes
 
-* None provided by staff
+* Impressive solution of tough problems. 
+* Calculated nearby meetings by hand. 
+* Worked with times by converting them into ranges.
 
 #### Assessment Scores:
 
@@ -204,11 +206,14 @@ During the module 2 portfolio review it was suggested to me to list Exercism. I'
 * Had a really nice chat with Jorge during a one on one which I think was mutually beneficial
 * Shoutout channel/Possee post - plato721 [3:42 PM] @rasensio:  for the mother of all sql queries
 * Provided feedback to Bret for his portfolio
+* Gave feedback to Russell for his portfolio
 * Provided to Cole for her portfolio 
 
 ### Getting Feedback
 
 From Bret Doucette: Matt was a pleasure to work with. He was diligent and hard working.  He was easy to communicate with set clear guidelines/expectations on what he was working on. One area of improvement would be in stressed situations Matt can become a tad bit impatient. I only recall this happening two or three times. Still it was very minimal. Regardless Matt was a great partner. I enjoyed looking at his code and learning new tips specifically about creating POROs for Ruby logic. He also gave great feedback at via Github and was communicative about PR’s.
+
+From Russell: Having worked with Matt on Traffic Spy, I can't say much has changed. He's the kind of person who just wants to sit down and get shit done. His approach to the     project is to divide and conquer, which was a nice change from Little Shop. He works hard, and was good to have on the team. The only criticism I have is that he can sometimes be a bit on edge.
 
 From Cole: Feedback for Matt E.
 
