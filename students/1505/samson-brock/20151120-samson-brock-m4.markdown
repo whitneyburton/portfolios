@@ -130,6 +130,18 @@ data to connected clients in real time.
 
 TODO: Add rubric scores.
 
+#### Mastery Project
+
+* [GitHub URL](https://github.com/imwithsam/spinboard)
+* [Original
+  Assignment](https://gist.github.com/stevekinney/7423bf8d4a4a8622b386)
+
+SpinBoard is the final capstone assessment project for the Turing School of
+Software & Design. It covers the major topics taught including Ruby, Rails, and
+JavaScript.
+
+TODO: Add rubric scores.
+
 ## Community
 
 ### Giving Feedback
@@ -149,6 +161,11 @@ about and lead Code Retreat and Elixir meetings. In fact, she may already know
 more about Elixir than anyone else at Turing."
 
 ### Being a Community Member
+
+"Sam always asked me what we were up to in 1510 and always offered to help me
+work through a problem on a project, despite the fact that he had so much work
+to do himself. His positive attitude is infectious, and I have no doubt he will
+be a great developer when he graduates." - Beth Secor
 
 * I participated in Meetups including Code for Denver, Denver.rb, Boulder Ruby,
 and DenverScript.
