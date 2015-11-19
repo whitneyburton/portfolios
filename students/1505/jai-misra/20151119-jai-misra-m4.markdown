@@ -40,17 +40,17 @@ IdeaBox 2.0
 
 Groups inherited a code base for an online store, and need modify the code for a new purpose. In our case, we inherited a meals-on-wheels style restaurant, which we need to transform into a website selling photography.
 
-Completion: 
-Organization: 
-Test-Driven Development: 
-Code Quality: 
-User Experience: 
+Completion:
+Organization:
+Test-Driven Development:
+Code Quality:
+User Experience:
 
-Completion: 
-Organization: 
-Test-Driven Development: 
-Code Quality: 
-User Experience: 
+Completion:
+Organization:
+Test-Driven Development:
+Code Quality:
+User Experience:
 
 #### (Project Name)
 
@@ -67,8 +67,8 @@ Functional Expectations: 3
 TDD: 4
 Breaking Logic into Components: 4
 Fundamental JS & JS Style: 3
-Code Sanitation (JSHint): 4 
- 
+Code Sanitation (JSHint): 4
+
 ## Team
 
 Jai Misra & Sebastian Abondano
@@ -112,7 +112,7 @@ Features: Some features were sacrificed to meet the deadline
 
 Code Style (JavaScript and/or Ruby): 2
 Client-Side Application: 2
-Test-Driven Development: 2 
+Test-Driven Development: 2
 Encapsulation / Breaking Logic into Components: 2
 Concept: Does the application deliver on the concept?: 2
 Does it have a highly usable interface?: 2
@@ -145,7 +145,7 @@ Testing: 3
 
 I tried to pair with Module 1 students who were struggling, since I empathize with
 and identify with that group. and I continued to participate in
-debugging and 
+debugging and
 
 ### Giving Feedback
 
@@ -162,7 +162,7 @@ each step of the way. Even though I haven't always been the most positive about 
 work at Turing, and I am often a critical voice in any community to which I belong,
 I try to imbue my personal interactions with positivity and uplift people with
 jokes, words of encouragement, friendly conversation, and goofy antics. I think
-that is the best impact I can have in a community. 
+that is the best impact I can have in a community.
 
 ### Playing a Part
 
@@ -175,8 +175,14 @@ me a chance to be positive with people while we are working on solving a problem
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Low scores on individual projects
 
 ### Outcome
 
-( Leave blanks for reviewers )
+- End-of-Module Assessment: 3
+- Individual Work & Projects: 2
+- Group Work & Projects: 3
+- Community Participation: 3
+- Peer & Instructor Feedback: 3
+
+PENDING

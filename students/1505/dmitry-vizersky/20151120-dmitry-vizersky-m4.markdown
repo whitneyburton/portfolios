@@ -104,8 +104,14 @@ _Jeff Ruane, posse member_: You’ve been a great posse member, I thought it was
 
 ### Notes
 
-( Leave blanks for reviewers )
+Not only did Dmitry ship every project. In the second half the module, he shipped confidently.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+- End-of-Module Assessment: 3
+- Individual Work & Projects: 3
+- Group Work & Projects: 3
+- Community Participation: 3
+- Peer & Instructor Feedback: 3
+
+PASSED

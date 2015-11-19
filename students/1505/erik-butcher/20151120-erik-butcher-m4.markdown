@@ -103,3 +103,14 @@ I completed the single Feedback App request that was sent to me.
 
 On 11-06, I gave a lightning talk on the EventListener in Javascript.
 I attended every Tuesday afternoon improv class this module. I enjoy going to them a lot, and they're useful for both my development as a person and as stress relief.
+
+
+## Outcomes
+
+* End of Module Assessment: 1
+* Individual Work: 2
+* Group Work: 3
+* Community Participation: 3
+* Peer & Instructor Feedback: 3
+
+RETAINED - your portfolio is lacking in one or more areas and you may either repeat the current module or leave the program
