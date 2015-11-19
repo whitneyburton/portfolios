@@ -53,14 +53,18 @@ It was evaluated by Jorge with the following results:
 
 Title: WhereAmI?
 
-Assessed By "TBD":
+In this project I update LCD screens with useful information for students to know what classroom they need to go to in the morning.
 
-* Feature Completeness:
-* Organization:
-* Progress:
-* TDD:
-* Code Quality:
-* UX:
+It was evaluated by Josh M. with the following results:
+
+Notes: Sacrificed some UX for the challenge of working with hardware. IMO it was worth the trade off. Project demonstrates understanding of the learning goals expected.
+
+* Completion: 4
+* Organization: 3
+* Test-Driven Development: 4
+* Code Quality: 3
+* User Experience: 2
+* Performance: 3
 
 ## Team
 
@@ -71,9 +75,9 @@ Assessed By "TBD":
 
 Group: Rose & Jeff & Regis
 
-Assessed By: Mike
-
 In this project we enhanced a Little Shop of Orders (Earmarked) project, simulating working on an existing codebase.
+
+It was evaluated by Mike with the following results:
 
 "Twilio verify phone number on login. - there are charts and graphs and progress bars. - 96.23 percent coverage - 100 tests. - Some opportunities to refactor, perhaps look at decorators. - Some sweet graphs - last tweet from candidate - Amazing hero image. <3"
 
