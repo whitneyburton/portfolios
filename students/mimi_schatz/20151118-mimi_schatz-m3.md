@@ -19,7 +19,7 @@ Below is a list of all projects and their scores for Module: 3.
 ## The Pivot
 
 * [GitHub URL](http://github.com/mbburch/the-pivot)
-* [Production Link](bidday.herokuapp.com)
+* [Production](bidday.herokuapp.com)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
 This was a project where we took an exiting app and changed it into an auction site.
