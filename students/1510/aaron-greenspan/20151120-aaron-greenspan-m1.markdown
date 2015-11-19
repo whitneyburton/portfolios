@@ -4,7 +4,7 @@
 
 ### Your Mission
 
-My goal this module was to learn as much about Ruby as I could.  As it turns out, though, there is a lot more to being a great programmer than an understanding of the language (really -- learning syntax is one of my least favorite things to do!).  As I move forward in the school, my goals have adjusted from simple competence in the language, to true mastery of a far broader array of hard and soft skills: github, TDD, pairing, and more.
+My goal this module was to learn as much about Ruby as I could.  As it turns out, though, there is a lot more to being a great programmer than an understanding of the language.  As I move forward in the school, my goals have adjusted from simple competence in the language, to true mastery of a far broader array of hard and soft skills: github, TDD, pairing, and more.
 
 I am somewhat dissatisfied with my performance towards the end of the module, and hope to improve as I move into module 2.
 
@@ -18,16 +18,16 @@ Result: PASS
 
 ##### Notes:
 
-* Comfortable with basic workflow
-* Moving fluidly through class / method graphs
-* Understanding File I/O and structure around that
-* TDD is much improved -- seeming more comfortable working the tests and not getting too far ahead
-* Developer is able to comfortably implement solutions in Ruby
-* Developer writes code that is easy to follow
-* Developer demonstrates understanding of blocks and can effectively use enumerable methods
-* Developer uses tests to guide development in small chunks
-* Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-* Developer lays out their thinking before attacking a problem and integrates feedback through the process
+* Comfortable with basic workflow.
+* Moving fluidly through class / method graphs.
+* Understanding File I/O and structure around that.
+* TDD is much improved -- seeming more comfortable working the tests and not getting too far ahead.
+* Developer is able to comfortably implement solutions in Ruby.
+* Developer writes code that is easy to follow.
+* Developer demonstrates understanding of blocks and can effectively use enumerable methods.
+* Developer uses tests to guide development in small chunks.
+* Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts.
+* Developer lays out their thinking before attacking a problem and integrates feedback through the process.
 
 ##### Scores:
 
@@ -40,7 +40,7 @@ Result: PASS
 
 ### Attendance
 
-I was not absent this module
+I was not absent this module.
 
 ## Team
 
@@ -50,12 +50,12 @@ Below is a list of all of my projects and assessment scores from Module 1.
 
 #### Headcount
 
-* [GitHub URL](https://github.com/emilydowdle/headcount)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/a0ccb625762f2ead4d0bcf554c88daeda1784eea/source/projects/headcount.markdown)
+* [GitHub URL](https://github.com/ToniRib/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-**Real-world data collection and analysis.** Emphasis on parsing CSV files, extracting data, creating hashes and analyzing that data for specific years, districts and outcomes.
+**Real-world data collection and analysis.** Required to construct a database for CSV files concerning Colorado education statistics.  Database could be loaded, queried, and analyzed with basic analtyical functions.
 
-Assessed By:
+Assessed By: Horace Williams
 
 ##### Notes:
 
@@ -79,11 +79,11 @@ Assessed By: Mike Dao
 
 ##### Notes:
 
-  * 44 tests, all passing
+  * 44 tests, all passing.
   * Some weird errors on my computer, but not on Rachels, suspect my computer is wonky.
   * Fulfills all requirements up to I4.
   * Well structured code, some minor areas where things could be pulled out into smaller
-    methods
+    methods.
   * Application shows some effort toward organization but still has 6 or fewer long
     methods (> 8 lines) and needs some refactoring.
 
@@ -108,10 +108,10 @@ Assessed By: Jeff Casimir
 
 ##### Notes:
 
-* 78 tests, all pass
-* Tests are well constructed and form a worthwhile progression/story
-* Implementation of normal lookup is good, easy to read
-* Implementation of reverse search is neat
+* 78 tests, all pass.
+* Tests are well constructed and form a worthwhile progression/story.
+* Implementation of normal lookup is good, easy to read.
+* Implementation of reverse search is neat.
 
 ##### Scores:
 
@@ -135,9 +135,9 @@ Assessed By: Horace
 ##### Notes:
 
 * Basic sorting and input output looks solid; implementing extensions for File I/O,
-  counting, and deletion
+  counting, and deletion.
 * Pretty thorough attention to testing with lots of edge cases; testing with
-  some large data inputs
+  some large data inputs.
 * Biggest opportunities for improving code cleanliness come around interactions/
   managing nil values -- be wary of working with nil directly; often cleaner to
   introduce some level of abstraction between.
@@ -165,7 +165,7 @@ Assessed By: Horace
 
 ##### Notes:
 
-* Strong functionality including both extensions
+* Strong functionality including both extensions.
 
 ##### Scores:
 
@@ -189,7 +189,7 @@ Assessed By: Brant Wellman
 
 ##### Notes:
 
-* All Sorts functional - Extensions functional PLUS additional sorts
+* All Sorts functional - Extensions functional PLUS additional sorts.
 * Solid. Test names are descriptive, edge cases are tested, large arrays are tested - All Pass
 * Short. There may be a bit too much complexity within the methods, but I don't know if they can be broken down further. It just makes them difficult to read.
 * Organized in folders. Pushed to Github. Version control not used beyond that.
@@ -205,16 +205,20 @@ Assessed By: Brant Wellman
 
 ### Giving Feedback
 
-Taylor Moore: "Taylor has an impressively sharp and intuitive grasp of deep and/or complex problems.  In our two experiences pairing together, when I wanted to take things slow — write on the white board, create smaller tests, etc —  Taylor was already multiple steps ahead of me.  This is his strength and his weakness, as his difficulty in backing up and taking things slowly sometimes puts Taylor in a situation where he has bitten off more than he can chew.  As a pair partner he is flexible and eager to both learn and contribute. He will bring much value to his group work above and beyond his talents in programming."
+>**Taylor Moore:** "Taylor has an impressively sharp and intuitive grasp of deep and/or complex problems.  In our two experiences pairing together, when I wanted to take things slow — write on the white board, create smaller tests, etc —  Taylor was already multiple steps ahead of me.  This is his strength and his weakness, as his difficulty in backing up and taking things slowly sometimes puts Taylor in a situation where he has bitten off more than he can chew.  As a pair partner he is flexible and eager to both learn and contribute. He will bring much value to his group work above and beyond his talents in programming."
 
-Toni Rib: “It is my honest opinion that every single 1510er should pair with Toni on a project, and the sooner the better.  Not only is her problem solving ability fantastic, but her programming habits — from committing regularly to git hub, to her use of hot keys and short cuts, to her serious commitment to TDD — are unmatched in any of the students I have yet met at Turing.  Seeing her work has been the perfect complement to the lectures on methodology and has really driven in many of those lessons in an irreplaceable way.  Moving forward, I think Toni should be especially mindful of the gap between her understanding of programming and that of her fellow students.  It is perhaps an unfortunate fact that Toni’s first ideas are often the best ideas, and I was regularly disappointed that my (admittedly inferior) ideas never saw the light of day.  It will be tricky to do well, but I think Toni should consider allowing for ​worse​ code in her projects: in those cases where such code may provide a valuable learning experience, or a feeling of value, to her pair partner."
+>**Toni Rib:** “It is my honest opinion that every single 1510er should pair with Toni on a project, and the sooner the better.  Not only is her problem solving ability fantastic, but her programming habits — from committing regularly to git hub, to her use of hot keys and short cuts, to her serious commitment to TDD — are unmatched in any of the students I have yet met at Turing.  Seeing her work has been the perfect complement to the lectures on methodology and has really driven in many of those lessons in an irreplaceable way.  Moving forward, I think Toni should be especially mindful of the gap between her understanding of programming and that of her fellow students.  It is perhaps an unfortunate fact that Toni’s first ideas are often the best ideas, and I was regularly disappointed that my (admittedly inferior) ideas never saw the light of day.  It will be tricky to do well, but I think Toni should consider allowing for *​worse*​ code in her projects in those cases where such code may provide a valuable learning experience, or a feeling of value, to her pair partner."
 
+>**Brant Wellman:** “Brant’s coding has improved *significantly* since the first day.  He is getting better and better at breaking a problem down into logical components and crafting their solutions into a cohesive whole.  However, his most valuable strength — in my opinion — lays not in his concrete ability to code up a solution, but in his diplomatic and empathetic mind.  Brant is the first person I go to when I have a problem larger than coding, even larger than school… and I know I am not the only one who feels that way.  He is a natural leader (whether he likes it or not) whose innate charisma is not marred by his willingness to compromise or defer to another student's opinion. Working with Brant brings out the best in *me*, and I rarely feel as valuable or important as after doing so.  Brant is not the strongest coder in the cohort.  He would do well to remember, though, how his presence is felt in so many other ways.  And that there is neither shame in asking for help, nor in refusing it."
 
 ### Being a Community Member
 
-"I have not paired with Aaron on any assigned projects or exercises, but I have worked with Aaron a few times when I have been seeking assistance with a problem. Aaron has a strongly analytical mind and can easily break apart a complex problem into more basic pieces. He exudes a confidence that attracts others, however this confidence can also be a little intimidating. I believe Aaron is already aware of this concern, as we have had conversations about how he does and doesn't want to be perceived by others. Aaron should continue to push forward with this self-awareness, continue to be open to people, and maybe even seek out opportunities where he can actively offer assistance even if it isn't being directly requested. There is a lot of "struggle" that goes on here at Turing and Aaron has the capabilities to deal with it and help others learn how to deal with it as well."--Brant Wellman
+>"Aaron has outstanding motivation to learn. He always seems to be working on something new that is above and beyond what we are learning at Turing and it's really inspiring to other students. My only criticism is that he sometimes wants to solve a problem in the 'most interesting' way instead of what is the simplest and most readable to other people. His solutions are fantastic, but they are sometimes confusing for other people to follow."-**Toni Rib**
 
-"Aaron has outstanding motivation to learn. He always seems to be working on something new that is above and beyond what we are learning at Turing and it's really inspiring to other students. My only criticism is that he sometimes wants to solve a problem in the 'most interesting' way instead of what is the simplest and most readable to other people. His solutions are fantastic, but they are sometimes confusing for other people to follow."--Toni Rib
+>"I have not paired with Aaron on any assigned projects or exercises, but I have worked with Aaron a few times when I have been seeking assistance with a problem. Aaron has a strongly analytical mind and can easily break apart a complex problem into more basic pieces. He exudes a confidence that attracts others, however this confidence can also be a little intimidating. I believe Aaron is already aware of this concern, as we have had conversations about how he does and doesn't want to be perceived by others. Aaron should continue to push forward with this self-awareness, continue to be open to people, and maybe even seek out opportunities where he can actively offer assistance even if it isn't being directly requested. There is a lot of "struggle" that goes on here at Turing and Aaron has the capabilities to deal with it and help others learn how to deal with it as well."-**Brant Wellman**
+
+ >“Aaron was the Headcount angel. I see a lot of people give tirelessly and selflessly here at Turing, but he went above and beyond what I have ever seen. He made himself completely available for every single team and stayed late into the night helping everyone figure out issues and keep their projects moving forward. Thank you doesn’t even begin to cut it."-**Penney Garrett**
+
 
 ### Playing a Part
 
@@ -223,7 +227,7 @@ I've participated in the larger Turing Community in the following ways:
 * Regularly attended Elixir club meetings.
 * Ran an Elixir club session.
 * Have assisted multiple students with their project work/assessment prep throughout the module.
-* Organize and participate in Kay Posse events.
+* Organized and participated in Kay Posse events.
 
 
 ## Review
@@ -239,7 +243,7 @@ I've participated in the larger Turing Community in the following ways:
 A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations.
 
-* Score: Student is this or that
+* ###: Student is this or that
 
 ## B: Individual Work & Projects
 
@@ -247,16 +251,14 @@ A Turing student works to maximize their skill growth and demonstrates
 that skill across a variety of work.
 
 
-* Score: Student demonstrates commitment and growth in their work through satisfactory
-evaluations of each project or a clearly upward-sloping trend.
+* ###:
 
 ## C: Group Work & Projects
 
 A Turing student contributes significantly to group projects, helps the team
 develop their technical skills, and delivers a high-quality product.
 
-* 4: Student consistently helps their teammates be their best selves, learn at
-an accelerated pace, and achieve great results.
+* ###:
 
 ## D: Community Participation
 
@@ -264,8 +266,7 @@ A Turing student builds up the community around them by participating and
 supporting other students, the larger Turing family, and persons outside our
 walls who want to develop their own skills.
 
-* 3: Student participates in required activities and does at least one or two
-above-and-beyond supports of the community.
+* ###:
 
 ## E: Peer & Instructor Feedback
 
@@ -273,5 +274,4 @@ A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
 own growth by taking in and acting on the feedback of their peers and instructors.
 
-* 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback.
+* ###:
