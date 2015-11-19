@@ -5,15 +5,31 @@
 ### Areas of Emphasis
 
 Learning Javascript and becoming effective enough to build full apps using just Javascript and Node was the main goal of mine coming into Mod 4. I feel like I achieved that goal,
-and am comfortable turning to Node for new apps.
+and am comfortable turning to Node for new apps. I also focused on creating cleaner code on the first pass and to think more about overall design before diving into the code.
 
 ### Attendance
 
-This module I attended all days and classes on-time.
+This module I attended all days and classes on-time with the exception of Friday, October 31st.
 
 ### Work
 
 I completed the following individual work this module:
+
+#### Mastery Project
+
+GitHub: https://github.com/Alex-Tideman/final_assessment
+Production: https://spinboard-final.herokuapp.com
+
+This was our final assessment to see if we had mastered the necessary skills and development patterns
+to see if we could complete a CRUD app with client-side interactions.
+
+* Satisfactory Progress: 4
+* Ruby Syntax & Style: 4
+* Rails Style & API: 4
+* Javascript Syntax & Style: 4
+* Testing: 4
+* User Interface: 4
+* Delivery Deadlines: 4
 
 #### Real Time
 
