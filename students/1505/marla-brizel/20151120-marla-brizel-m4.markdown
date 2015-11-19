@@ -123,8 +123,8 @@ I provided honest feedback to all who asked for it.
 
 ### Notes
 
-(Leave Blank)
-
+Solid projects with the exception of Real Time. That said, Marla prioritized the job search and communicated these priorities with the instructional staff, which agreed with her plan.
 
 ### Outcome
-(Leave Blank)
+
+PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate
