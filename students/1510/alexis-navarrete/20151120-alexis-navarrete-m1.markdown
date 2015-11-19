@@ -21,12 +21,12 @@ In this module I came to test my abilities as a student and an indiviual by plac
 
 * Ruby Syntax & API: 2
 * Ruby Style:        3
-* Testing            3
-* Workflow           3
-* Collaboration      3
+* Testing:           3
+* Workflow:          3
+* Collaboration:     3
 
 ### Attendance
-On November 13 I left school during lunch hour because of housing issues that I am still going through.
+On November 13 I left school during lunch hour because of a housing issue that I am still going through.
 
 ## Team
 
