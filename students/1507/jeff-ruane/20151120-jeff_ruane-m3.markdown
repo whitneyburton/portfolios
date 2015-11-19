@@ -82,29 +82,50 @@ In this project, we took [Rose's codebase](https://github.com/TeamConchord/Earma
 * Code Quality: 3
 * UX: 4
 
-Feedback from Rose:
+##### Feedback
+
+from Rose:
 
 "Working with you was nothing but positive.  Your ability to stay calm and the amazing flow our group had made this hands down my favorite group experience.  The points when I wasn’t sure what to you, you’d be able to step in and throw down some know-how that would keep the group moving along.  You were always up to try something new, and I couldn’t be happier with how it all turned out."
 
-Feedback from Regis:
+from Regis:
 
 "Was the best team lead I have had yet. He was not aggressive, and was not too laid back. He let the team work on their ideas and gave mini deadlines to be sure we weren’t getting lost. He really helped improve my experience at Turing. I never felt pushed, and he was also reassuring. The only poopsicle I can think of for Jeff is that he might be too laid back but other than that he has a really good head on his shoulders."
 
-####School Sync
+#### School Sync
 
 * [GitHub URL](https://github.com/Schoolrunner/tssd-1507-a) (Private Repository)
-* [Original Assignment](https://docs.google.com/document/d/1cOphM8Wqt15RL06gbKcf7S88B6nAXc2VGkyN2zPlaxg/edit#heading=h.j51wpgcw56ru)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+* [Schoolrunner User Stories (project A)](https://docs.google.com/document/d/1cOphM8Wqt15RL06gbKcf7S88B6nAXc2VGkyN2zPlaxg/edit#heading=h.j51wpgcw56ru)
 * Heroku Deployment: Unfortunately, due to student privacy concerns, this project was not put into production.
 
-In this project, Chris and I teamed up to make a simple app for Schoolrunner. Schoolrunner allows schools to sync data with their servers, and our app was for schools to have some peace of mind that their syncs were successful and their data is safe. It involved hitting one API and displaying the data in a human readable way. Building this project with Rails would not have been very challenging, so we decided to build it in AngularJS in hopes that it would be integrated with Schoolrunner's existing infrastructure.
+In this project, Chris and I teamed up to make a simple app for Schoolrunner. Schoolrunner allows schools to sync data with their servers, and our app was for schools to have some peace of mind that their syncs were successful and their data is safe. It involved hitting one API and displaying the data in a human readable way. Building this project with Rails would not have been very challenging, so we decided to build it in AngularJS in hopes that it would be integrated with Schoolrunner's existing infrastructure. We were evaluated by Jorge with the following scores:
+
+##### Evaluation Scores
+
+* Completion: 4
+* Organization: 4
+* TDD: 4
+* Code Quality: 4
+* UX: 3.5
+* Performance: 3
+
+##### Feedback
+
+"The Project was awesome! You really figured out some key components to get this project started including how to make the api call in the factory.  You have a lot of patience for looking at documentation and figuring out how to implement different functionality. I know I definitely could not have done this project on my own!"
 
 ## Community
+
+### Feedback from Peers
+
+* Dmitry Vizersky - "You’ve been an awesome posse member. You have a very clear problem solving process and I liked pairing with you during morning warmups. You’re very curious to learn more and really dig into the details of code. keep up the great work!"
 
 ### Playing a Part
 
 * On October 10, I helped teach the Kids Who Code class.
 * On October 16, I held a student led session with Alon and Ross to help module 1 students make bash aliases and customize Atom.
 * On November 5, I got a student shoutout from MB for helping with CSV parsing in Rales Engine.
+* On November 18, I attended the Derailed meetup and repped Turing pretty hard.
 
 ## Review
 
