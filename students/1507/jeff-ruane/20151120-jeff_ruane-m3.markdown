@@ -92,9 +92,9 @@ Feedback from Regis:
 
 ####School Sync
 
-[GitHub URL](https://github.com/Schoolrunner/tssd-1507-a) (Private Repository)
-[Original Assignment](https://docs.google.com/document/d/1cOphM8Wqt15RL06gbKcf7S88B6nAXc2VGkyN2zPlaxg/edit#heading=h.j51wpgcw56ru)
-Heroku Deployment: Unfortunately, due to student privacy concerns, this project was not put into production.
+* [GitHub URL](https://github.com/Schoolrunner/tssd-1507-a) (Private Repository)
+* [Original Assignment](https://docs.google.com/document/d/1cOphM8Wqt15RL06gbKcf7S88B6nAXc2VGkyN2zPlaxg/edit#heading=h.j51wpgcw56ru)
+* Heroku Deployment: Unfortunately, due to student privacy concerns, this project was not put into production.
 
 In this project, Chris and I teamed up to make a simple app for Schoolrunner. Schoolrunner allows schools to sync data with their servers, and our app was for schools to have some peace of mind that their syncs were successful and their data is safe. It involved hitting one API and displaying the data in a human readable way. Building this project with Rails would not have been very challenging, so we decided to build it in AngularJS in hopes that it would be integrated with Schoolrunner's existing infrastructure.
 
