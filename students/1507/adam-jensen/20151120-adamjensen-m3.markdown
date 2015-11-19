@@ -101,6 +101,20 @@ Code Quality: 3: Project demonstrates solid code quality and MVC principles.
 * API Design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
 * Queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
+#### Self-Directed - Solo 
+
+(Description)
+Use the Spotify API and Echo Nest API to analyze the happiness level of user's tracks.
+
+(Scores)
+
+Completion: 1: Developer completed the user stories and requirements partially.
+Organization: 2: Developer used a project management tool but didn't update the progress frequently.
+Test-Driven Development: 1: Project lacks sufficient testing (under 85% coverage).
+Code Quality: 3: Project demonstrates solid code quality and MVC principles.
+User Experience: 2: Project exhibits some gaps in the UX.
+Performance: 3: Project pages load on average under 400 milliseconds.
+
 ## Community
 
 ### Giving Feedback
@@ -112,7 +126,6 @@ Code Quality: 3: Project demonstrates solid code quality and MVC principles.
 # MB Burch
 
 Adam is an awesome partner. He is 100% all-in and dedicated when working on a project. I always felt like he was totally present and willing to work. I enjoy pairing with him because he is patient and receptive to ideas other than his own. He was also willing and excited to show me new ways of doing things (Materialize, building a search bar, using JS,etc.). I think both of us could have benefitted from being more assertive and offering honest feedback to our team throughout the process of this project. I think we got a little frustrated with things that could have been solved had we addressed group dynamics a little earlier in the process. I’d be psyched to work with Adam again on any project!
-
 
 
 
