@@ -90,6 +90,13 @@ Notes: I had been looking forward to the personal project for all of Module 3, a
 
 My group received the following feedback and scores:
 
+I received the following peer feedback:
+
+* I look forward to collaborating with you again: strongly agree
+* I found our collaboration valuable and productive: strongly agree
+* I feel you participated to the best of your abilities: strongly agree
+* Comments: I have a tendency to dive down rabbit holes. You are fantastic at keeping me grounded and on task. Our Slack dialogue is evidence to your strong communication skills. You help me talk more through my coding when we are paired up.
+
 ## Community
 
 ### Playing a Part
