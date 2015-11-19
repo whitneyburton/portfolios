@@ -166,12 +166,16 @@ Assessed By: Tess Griffin
 
 * While I have not yet had the pleasure of pairing with Penney Garrett, she is a joy to be around. Penney is available for advice/help on projects, Turing culture, or just checking in on classmates “emotional temperature”. Many individuals in 1510 frequently voice their excitement that Penny is with us. She is a rockstar as a human and as a coder.
 
+* I have not yet had the pleasure of working on a project with Jordan, but I look forward to that happening soon. Mr. Lawler has an amazingly quick brain, with enthusiasm to match. His energy is contagious. Jordan’s skill set is varied and deep: musician, lover of puzzles, empathetic/sympathetic, coding, coolness, a desire to always improve in everything. One reason I’m so glad to have chosen Turing is meeting people like Jordan Lawler, that I might not have met under other circumstances.
+
 ### Being a Community Member
 * Emily is a treasure. It’s rare for me to meet other people who are as willing to wear their heart on their sleeve as I am, so in Emily I feel I’ve found a kindred spirit. Despite struggling during this module, she has kept an unrelentingly positive outlook and continued to push through. I admire and respect that tenacity, and know that it will only make her stronger in the end.  I absolutely consider Emily a friend and look forward to working together in the future --Penney Garrett
 
 * Emily’s ability to present her needs and concerns was essential to our success as a team. When I hit a wall debugging or unconsciously tried to run away with the project, she reeled me in and reestablished our vision. Emily has a strong desire to improve technically, and I’ve seen her acting on it since we worked together. Aside from programming, she’s a positive force in the cohort that isn’t afraid to share her vulnerabilities with the group. I can say with confidence that everyone has a lot of respect for Emily. --Steve Pentler
 
 * Getting to know Emily has been a true pleasure. Of all the people I’ve met at Turing, she is by far the most willing to put herself out there and connect with people. Her openness, extreme level of positivity, activeness in the community, and unwavering support of her colleagues are both truly inspiring and greatly appreciated! --JP
+
+* Although I did not have the opportunity to work with Emily this module, pairing was not necessary to illuminate just how great an addition Emily is to the Turing community.  Whether spreading her infectious positivity throughout the group, introducing lunchgoers to new and addicting math based games, or asking important questions that may have not been addressed otherwise, Emily is always looking to improve herself and others around her.  I cannot wait to see what Emily does in the coming months at Turing and beyond! --Jordan Lawler
 
 
 ### Playing a Part
