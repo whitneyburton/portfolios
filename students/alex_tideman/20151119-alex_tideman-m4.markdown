@@ -23,12 +23,12 @@ Production: https://pollster-me.herokuapp.com
 This project's objective was to utilize web sockets to create a real-time web application that allowed users
 to poll others and get live updates on poll results. Also had to deal with time differences between user and server.
 
-* Completion:
-* Organization:
-* Test-Driven Development:
-* Code Quality:
-* User Experience:
-* Performance:
+* Javascript Code: 3
+* Organization: 3
+* Test-Driven Development: 3
+* Code Quality: 3
+* User Experience: 3
+* Features Completed: 3
 
 
 #### Scale Up
@@ -62,7 +62,7 @@ I participated in the following team projects:
 
 In this two-week long project Adam and I recreated the classic arcade game Asteroids using only pure Javascript.
 We incorporated both object-model and functional programming styles to create drift physics, AI for shooting aliens, collision detection and increased difficulty.
-Definitly the most fun project I've participated in and the one I'm most proud of.
+Definitely the most fun project I've participated in and the one I'm most proud of.
 
 It was evaluated by Tess with the following results:
 
@@ -92,6 +92,7 @@ Feedback: Realized early on to make it object oriented, looks great.
 
 ### Playing a Part
 
-* Every morning I assisted with my Posse mates on the warmup problems and helped out with any of their projects when needed.
 * Any time I stayed late I would seek out someone to help or offer advise on how to approach their project.
 * On Friday, October 23, I delivered a lightning talk "Getting Started on Meteor".
+* I helped several 1507's implement Materialize, Semantic UI and other front-end frameworks
+on their personal projects.
