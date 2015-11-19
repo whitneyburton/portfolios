@@ -72,6 +72,23 @@ I completed the following team projects:
 * Test-Driven Development: 2
 * Code Quality: 3
 * User Experience: 2
+
+#### SchoolRunner Project C
+
+Github: N/A <br>
+
+##### Notes: 
+
+Good implementation. Good error catching for parsed files.
+
+##### Scores: 
+
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3: Project exhibits a production-ready user experience.
+* **Performance**: 4: Project pages load on average under 300 milliseconds.
   
 ### Feedback to Me
 
