@@ -1,7 +1,7 @@
 #Steven Pentler - Module 1 Portfolio
 ##Individual
 ___
-###Your Mission
+###Mission
 
  Experiential outdoor/adventure education is an opportunity I want to offer underserved communities. I plan on applying my technical skills towards developing a scalable model that launches from the concept of the National Outdoor Leadership School (NOLS) and my previous non-profit, Adventure Forward.
 
@@ -21,15 +21,10 @@ ___
 
 ####Evaluation Scores
 1. Ruby Syntax & API: 3
-- Developer is able to comfortably implement solutions in Ruby
 2. Ruby Style: 3
-- Developer writes code that is easy to follow
 3. Blocks & Enumeration: 3
-- Developer demonstrates understanding of blocks and can effectively use enumerable methods
 4. Testing: 3
-- Developer uses tests to guide development in small chunks
 5. Workflow: 3
-- Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 6. Collaboration: 3.5
 
 Assessed by Rachael Warbelow
@@ -46,7 +41,7 @@ ___
 
 ###Headcount
 
-###Steve Pentler and Jordan Lawler
+**Steve Pentler and Jordan Lawler**
 
 -[GitHubURL](https://github.com/stevepentler/Headcount-V2)
 
@@ -62,19 +57,19 @@ ___
 
 ####Evaluation Score
 
-1. Functional Expectations: 3
-- Application fulfills all base expectations as tested by the spec harness
+1. Functional Expectations: 3 
+*Application fulfills all base expectations as tested by the spec harness*
 2. Test-Driven Development: 3
-- Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+*Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality*
 3. Encapsulation / Breaking Logic into Components: 4
-- Application is expertly divided into logical components each with a clear, single responsibility
+*Application is expertly divided into logical components each with a clear, single responsibility*
 4. Fundamental Ruby & Style: 3
-- Application shows strong effort towards organization, content, and refactoring
+*Application shows strong effort towards organization, content, and refactoring*
 5. Enumerable & Collections 3
-- Application demonstrates comfortable use of appropriate Enumerable methods
+*Application demonstrates comfortable use of appropriate Enumerable methods*
 6. Code Sanitation: 4
-- The output from rake sanitation:all shows... 0 complaints
-(evaluation scores)
+*The output from rake sanitation:all shows... 0 complaints
+(evaluation scores)*
 
 Assessed by Jeff Casimir
 ___
@@ -132,7 +127,6 @@ ___
 ###Junglebeats
 
 - [GitHub URL](https://github.com/stevepentler/enigma)
-- Original Assignment
 
 **Linked list** of Jungle Beats Project emphasized understanding of linked lists through iteration and/or recursion. Program played beats on the command line and included features like append, prepend, insert, pop and find.
 
