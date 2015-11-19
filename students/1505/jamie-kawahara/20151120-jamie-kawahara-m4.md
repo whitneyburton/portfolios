@@ -74,6 +74,38 @@ The following goals were:
 * Suggested styling the welcome page and centering the board to start.
 Extraneous "players" object, but good breaking out of objects.
 
+#### Spinboard
+
+* [Production URL](http://ancient-cliffs-8473.herokuapp.com/)
+* [GitHub URL](https://github.com/androidgrl/spinboard)
+* [Original Assignment](https://gist.github.com/stevekinney/7423bf8d4a4a8622b386)
+
+In this project we built the board game Othello that is playable in the browser. There was no server-side component- we used client-side JavaScript exclusively to complete this project.
+
+The following goals were:
+
+* Use client-side to drive both the design and implementation of code
+* Use jQuery to traverse and manipulate the DOM
+* Use test-driven design to build a client-side applicaiton
+
+#####Evaluation Scores
+
+* Satisfactory Progress: 3
+* Ruby Syntax & Style: 3
+* Rails Style & API: 3
+* Javascript Syntax & Style: 3
+* Testing: 4
+* User Interface: 3
+* Delivery Deadlines: 2
+
+#####Notes from Evaluator
+
+* Could use a back button on the edit page
+* When logged in, you see all users links. Should be clarifed on the README
+* Try to keep actions restful. Create say mark_controller and have an update action
+* Nice organization of JavaScript files
+* Wonder why when you sort the links, there's a giant block of white space
+
 ## Community
 
 ### Giving Feedback
