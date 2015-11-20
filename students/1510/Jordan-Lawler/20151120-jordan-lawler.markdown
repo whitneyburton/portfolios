@@ -70,8 +70,7 @@ Below is a list of all of my projects and assessment scores from Module 1.
 
 ####Headcount:
 
-- https://github.com/stevepentler/Headcount-V2
-- https://github.com/turingschool-examples/headcount
+[Github URL](https://github.com/stevepentler/Headcount-V2)
 
 **Real-world data collection and analysis** Emphasis on parsing CSV files, extracting data, creating hashes and analyzing that data for specific years, districts and outcomes.
 
@@ -98,8 +97,7 @@ Assessed By: Jeff
 
 ####HTTP
 
-- http://github.com/jlawlzz/http_you_know_me
-- https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown
+[Github URL](http://github.com/jlawlzz/http_you_know_me)
 
 **Web server** capable of requesting and responding, parsing paths, and preforming word search operations with parameters. Also, the first project to incorporate pairing and partner design.
 
@@ -122,8 +120,7 @@ Assessed By: Mike
 
 ####Enigma
 
-- http://github.com/jlawlzz/enigma
-- https://github.com/turingschool/enigma
+[Github URL](http://github.com/jlawlzz/enigma)
 
 **Encryption/decryption machine.** Emphasis on breaking program into logical components, TDD and enumerable techniques. Required to build a key generator and date offset, encrypt a message using a 4-digit rotation, decrypt the message using a pre-determined key and crack an encrypted message without the key.
 
@@ -145,8 +142,8 @@ code needs to be in lib and test directory
 
 ####Jungle Beats
 
-- https://github.com/jlawlzz/jungle_beat
-- https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown
+[Github URL](https://github.com/jlawlzz/jungle_beat)
+
 
 **Linked list** of Jungle Beats Project emphasized understanding of linked lists through iteration and/or recursion. Program played beats on the command line and included features like append, prepend, insert, pop and find.
 
