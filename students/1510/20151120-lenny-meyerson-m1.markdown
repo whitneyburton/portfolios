@@ -22,17 +22,17 @@ and doing well at bringing those tools to bear on specific problems
 at breaking down into an approach
 * Keep thinking about naming things in your code -- this will go a long
 way to improving readability
-1. Ruby Syntax & API
+#### Ruby Syntax & API
 * __3__: Developer is able to comfortably implement solutions in Ruby
-2. Ruby Style
+#### Ruby Style
 * __3__: Developer writes code that is easy to follow
-3. Blocks & Enumerations
+#### Blocks & Enumerations
 * __4__: Developer is able to consistently select and implement the best-choice enumerator methods with blocks
-4. Testing
+#### Testing
 * __3__: Developer uses tests to guide development in small chunks
-5. Workflow
+#### Workflow
 * __3__: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-6. Collaboration
+#### Collaboration
 * __3__: Developer lays out their thinking before attacking a problem and integrates feedback through the processs
 
 ### Mod 1 Assessment
@@ -50,27 +50,27 @@ Notes:
 
 ## Scores
 
-### 1. Ruby Syntax & API
+#### Ruby Syntax & API
 
 * 2: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts
 
-### 2. Ruby Style
+#### Ruby Style
 
 * 3: Developer writes code that is easy to follow
 
-### 3. Blocks & Enumerations
+#### Blocks & Enumerations
 
 * 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
 
-### 4. Testing
+#### Testing
 
 * 3: Developer uses tests to guide development in small chunks
 
-### 5. Workflow
+#### Workflow
 
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
-### 6. Collaboration
+#### Collaboration
 
 * 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
 
@@ -81,25 +81,25 @@ Challenge: Mythical Creatures
 Result: PASS
 Notes:
 
-#### 1. Ruby Syntax & API
+#### Ruby Syntax & API
 
-3: Developer is able to write Ruby with some debugging of fundamental concepts
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
 
-#### 2. Ruby Style
+#### Ruby Style
 
-3: Developer refactors for clarity but has some areas for improvement
+* 3: Developer refactors for clarity but has some areas for improvement
 
-#### 3. Testing
+#### Testing
 
-3: Developer writes tests that are effective validation of functionality, but don't drive the design
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
 
-#### 4. Workflow
+#### Workflow
 
-3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
-#### 5. Collaboration
+#### Collaboration
 
-3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 
 ### Attendance
@@ -114,11 +114,12 @@ Below is a list of all of my projects and assessment scores from Module 1.
 
 #### Enigma
 
-Encryption/decryption machine. Emphasis on breaking program into logical components, TDD and enumerable techniques. Required to build a key generator and date offset, encrypt a message using a 4-digit rotation, decrypt the message using a pre-determined key and crack an encrypted message without the key.
-
 Assessed By: Horace
 
-* [Repository:](https://github.com/TheObtuseAutodidact/enigma)
+* [Github URL:](https://github.com/TheObtuseAutodidact/enigma)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
+
+Encryption/decryption machine. Emphasis on breaking program into logical components, TDD and enumerable techniques. Required to build a key generator and date offset, encrypt a message using a 4-digit rotation, decrypt the message using a pre-determined key and crack an encrypted message without the key.
 
 Comments:
 
@@ -141,7 +142,8 @@ Enumerable & Collections 3
 A drum machine that's backed by a linked list.
 Assessed By: Mike
 
-* [Repository:](https://github.com/theobtuseautodidact/jungle_beats)
+* [Github URL:](https://github.com/theobtuseautodidact/jungle_beats)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
 Notes:
 
@@ -159,28 +161,64 @@ Test Driven Development: 3
 Breaking Logic into Components: 3
 Looping and Recursion: 3
 
-## (Team Projects)
+#### (Team Projects)
 
 
-* [Repository:](https://github.com/brantwellman/headcount)
+#### Headcount
+Group Lenny & Brant
 
-Headcount
+Assessed By: Jeff
 
-GitHub URL
-Original Assignment
+* [GitHub URL](https://github.com/brantwellman/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/a0ccb625762f2ead4d0bcf554c88daeda1784eea/source/projects/headcount.markdown)
+
 Real-world data collection and analysis. Emphasis on parsing CSV files, extracting data, creating hashes and analyzing that data for specific years, districts and outcomes.
 
-(evaluation comments)
+Notes
 
-(evaluation scores)
+Spec harness: pass iterations 0, 1
+Your tests: 105 all passing
+Testing looks good, try to strip down the data to just what you need, look for opportunities for just a bit of extraction/reuse
+Implementation looks clean, did some good refactoring
+Solid foundation to keep building
+Deliver code that passes the spec harness for I3 on Tuesday
+Scores
+
+#### Functional Expectations
+
+2: Application has some missing functionality but no crashes
+
+#### Test-Driven Development
+
+  3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+#### Encapsulation / Breaking Logic into Components
+
+  3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+#### Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+
+#### Enumerable & Collections
+
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+#### Code Sanitation
+
+4: Zero complaints
 
 
-#### http: yeah_you_know_me
+### http: yeah_you_know_me
 Group: Lenny & Alex
 
 Assessed By: Horace
 
-* [Repository:](https://github.com/Salvi6God/http_yeah_you_know_me)
+* [GitHub URL:](https://github.com/Salvi6God/http_yeah_you_know_me)
+* [Orignal Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+Building a functioning web server and putting that understanding into action.
+
+
 
 Notes:
 
@@ -189,39 +227,40 @@ Struggled to make layered progress on problem components, largely due to difficu
 Struggled with outpacing feedback - no tests to provide feedback, seems to have led to difficulty understanding the progress that had been made thus far and the scope of the problem
 Scores:
 
-Overall Functionality 1: Application implements two or fewer iterations
-Fundamental Ruby & Style 2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-Test-Driven Development 1: Application does not demonstrate strong use of TDD
-Breaking Logic into Components 1: Application logic shows poor decomposition with too much logic mashed together
+#### Overall Functionality   
 
+* 1: Application implements two or fewer iterations
 
+#### Fundamental Ruby & Style
 
-### Projects
+* 2: Application runs but the code has many long methods (>8 lines)
+and needs significant refactoring
 
-(Intro)
+#### Test-Driven Development
 
-#### (Project Name)
+* 1: Application does not demonstrate strong use of TDD
 
-* [GitHub URL]()
-* [Original Assignment]()
+#### Breaking Logic into Components
 
-(description)
+* 1: Application logic shows poor decomposition with too much logic mashed together
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+It was a pleasure to work with Brant. Brant kept me on track for a project that felt overwhelming. His ability to focus on the next component of the whole that needs attention served as a great lesson. If I were to offer on criticism to Brant, it would be about recognizing the point of diminishing returns. Brant pushes with an admirable tenacity. This often leads him to push well past the point where the effort in is reasonably productive. While this drive is admirable, it may not offer the greatest return on investment. That said, working with Brant pushed me out of my comfort zone and I learned a lot from the experience.
+
+ Alex brought excitement and enthusiasm to our project. As I stared at our assignment and felt a sinking feeling at my ability to comprehend the task at hand, Alex was sure we’d get there. When I got lost in the project and I could figure out how to escape the hole I had for myself, Alex was there cheering me on. Despite the late refocus on the project and the accompanying failing grade, the progress that was made was significantly the result of Alex’s infectious enthusiasm. To offer one point of criticism, I would suggest that if Alex learns to channel his enthusiasm toward the next most immediate task at hand he will grow into a formidable developer. I look forward to watching that growth happen.
+
+ Penney’s presence in the class was, at least initially for me, an odd combination of nerve-racking, and calming. It made me nervous insofar as here was an example that not everyone makes it through the module the first time through. But it was also reassuring to have close access to someone who new the lay of the land. As the class began, Penney seemed about as uncertain as any of us but it was a real joy to see her grow more comfortable and confident in both her new cohort and with the material being presented. Being the person repeating the module within our group gave Penney’s journey center stage. Getting to share her growth and victory felt inspiring.  I hope she can carry her seemingly new found confidence as she continues here journey into uncharted territory.
 
 ### Being a Community Member
 
-(feedback to me)
+Brant:
+Lenny has a highly analytical mind and approach to his work, and working with him for this project has been valuable to me, as I’ve learned to look at problems from a different perspective. Something that Lenny should try to be aware of is a tendency to be too hard on himself, which can cause him to spiral into a place of unfocus and non-productivity. Lenny needs to be confident in his skills and what he brings to a pairing partnership. In the long run this will reward himself and his future pairing partners.
+
+I have thoroughly enjoyed being in class with Lenny. The questions and comments he shares in class are really helpful and enlightening - I love the way he breaks apart the logic with things and rephrases them in ways that are more accessible and understandable for the newbie programmer. I know this module has been difficult for him, but his dedication and drive are apparent and inspiring and I genuinely can’t wait to continue this journey alongside him.
 
 ### Playing a Part
 
