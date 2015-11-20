@@ -112,8 +112,12 @@ For this project I was teamed up with Sekhar and Emily and we decided to make a 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* A little overwhelmed at times but its ust the nature of the ambiguity of programming. 
+* Good at finding learning goals in each project. 
+* Learned a lot about workflow and git through little shop. Is feeling more comfortable now. 
+* Using swift to make an iOS app. Pulled in two other students to do it with him.
+* Challenge you too bring others into your possee. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
