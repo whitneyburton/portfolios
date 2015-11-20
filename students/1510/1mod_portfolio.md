@@ -4,7 +4,7 @@
 
 ## Your Mission
 
-Turing gave me the opportunity to learn and create a new career from myself. My mission is a to make
+I came to Turing to gain programming skills. Programming always seemed like a vast ocean, and I never knew where to step in. My mission is to work hard and develop a unique set of skills that will help me succeed in the field I am interested in
 
 ## End of Module Assessment
 
@@ -90,10 +90,10 @@ __Comments:__
 
 __Scores:__
 
-1. Overall Functionality:         4
-2. Fundamental Ruby & Style:       3
-3. TDD: 3
-4. Breaking Logic Into Components: 4
+* *Overall Functionality:*         4
+* *Fundamental Ruby & Style:*      3
+* *TDD:* 3
+* *Breaking Logic Into Components:* 4
 
 ### Challenge: Http Yeah You Know Me
 
@@ -127,80 +127,63 @@ __Scores:__
 
 ### Challenge: Headcount
 
-__Group:__ Hector Huertas & Taylor Moore
+
+__Group:__ Hector & Taylor
 
 __Instructor:__ Horace
 
-__Repository::__ http://github.com/tman22/http_stuff
+__Repository::__ https://github.com/hectorhuertas/headcount
 
 __Comments:__
 
-*Functional Expectations*
+* Testing / TDD seems solid overall
+* Good use of tests to make sure that each object can be used in
+isolation
+* Open-ended interfaces for objects makes it easy to pass customized
+data in for each test case
+* top-level data processing and repo / record-creation flow is clean
+and easy to follow
+* Code complexity & length starts to fall down a lot in the analysis
+section. We discussed some ways to improve this by isolating argument
+and option parsing (determining which branch is need) from the methods
+that actually perform the calculations
+* Overall we might not reduce the amount of code, but we can probably
+organize in a way that's easier to follow
+* Finally, completion issues with the spec harness seem to stem from
+challenges dealing with data gaps or formats -- probably needed to
+identify this problem earlier. maybe by including more "bad data"
+in the tests from the beginning
+* Completion is good through I2 baseline (happy path); then has gaps
+around the missing data / edge case parsing
 
-* 4: Application fulfills all base expectations and two extensions
-* 3: Application fulfills all base expectations as tested by the spec harness
-* 2: Application has some missing functionality but no crashes
-* 1: Application crashes during normal usage
+__Score:__
 
-*Test-Driven Development*
-
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-* 2: Application makes some use of tests, but the coverage is insufficient
-* 1: Application does not demonstrate strong use of TDD
-
-*Encapsulation / Breaking Logic into Components*
-
-* 4: Application is expertly divided into logical components each with a clear, single responsibility
-* 3: Application effectively breaks logical components apart but breaks the principle of SRP
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
-* 1: Application logic shows poor decomposition with too much logic mashed together
-
-*Fundamental Ruby & Style*
-
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-* 3:  Application shows strong effort towards organization, content, and refactoring
-* 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
-
-*Enumerable & Collections*
-
-* 4: Application consistently makes use of the best-choice Enumerable methods
-* 3: Application demonstrates comfortable use of appropriate Enumerable methods
-* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
-
-*Code Sanitation*
-
-The output from `rake sanitation:methods` shows...
-
-* 4: Zero complaints
-* 3: Five or fewer complaints
-* 2: Six to ten complaints
-* 1: More than ten complaints
-
+* *Functional Expectations* 2
+* *TDD* 3
+* *Encapsulation / Breaking Logic into Components* 3
+* *Fundamental Ruby & Style* 2 -- needs some work refactoring analysis methods
+* *Enumerable & Collections* 4
+* *Sanitation* 3
 
 ## Community
 
 **Giving Feedback**
 
-Aaron Greenspan is
-supportive, intelligent, creative, needs things broken down, responsive, collaborative, helps, works hard to solve complex problems.
+* Aaron Greenspan is very creative, which gives him a natural knack for solving complex problems. He shines when any difficult problem comes around. The truly impressive part is his ability to communicate his ideas. However, his determination to solve problems can sometimes blind him from other paths. He is always willing to help solve problems, he'll even fall down rabbit whole with you just to see what happens.
 
-Jamie is
-intelligent, gets lost but comes back strong, great advice, great at communcating, collaborative,  
+* Hector is smart, quick to understanding problems and works hard! Occasionally Hector needs to be told to explain his thought process. A weakness of Hector is he knows his process really well but is uncertain when presented with new ideas. Originally I thought it would be hard to work with Hector, but to my surprise it was a great experience and I would happily do it again.
 
-Hector is smart, quick to understanding problems and works hard! Occasionally Hector needs to be told to explain his thought process. A weakness of Hector is he knows his process really well but is uncertain when presented with new ideas. Originally I thought it would be hard to work with Hector, but to my surprise it was a great experience and I would happily do it again.
-
-Brant: Great at communicating, shares his opinions, quick to pick up ideas, easy to collaborate with.
+* Brant has great communication skills. The few times I've paired with him, we've discussed a plan before starting. He's quick to find solutions and pick up ideas. Brant has been improving his test writing skills and is good at checking errors. He contributes to the group and always checks into help.
 
 **Being a Community Member**
 
-Aaron Greenspan: “Taylor has an impressively sharp and intuitive grasp of deep and/or complex problems.  In our two experiences pairing together, when I wanted to take things slow — write on the white board, create smaller tests, etc —  Taylor was already multiple steps ahead of me.  This is his strength and his weakness, as his difficulty in backing up and taking things slowly sometimes puts Taylor in a situation where he has bitten off more than he can chew.  As a pair partner he is flexible and eager to both learn and contribute. He will bring much value to his group work above and beyond his talents in programming."
+* *Aaron Greenspan:* “Taylor has an impressively sharp and intuitive grasp of deep and/or complex problems.  In our two experiences pairing together, when I wanted to take things slow — write on the white board, create smaller tests, etc —  Taylor was already multiple steps ahead of me.  This is his strength and his weakness, as his difficulty in backing up and taking things slowly sometimes puts Taylor in a situation where he has bitten off more than he can chew.  As a pair partner he is flexible and eager to both learn and contribute. He will bring much value to his group work above and beyond his talents in programming."
 
-Jamie Crockett: "Taylor is super collaborative and comes up with creative solutions to problems, in part because he's very comfortable with less-frequently used enumerables such as 'reduce.' He always strives to create something in the most efficient way possible (which is a good instinct, but sometimes his infatuation with the best possible way distracts him from the bigger picture). He has a calming demeanor that I found easy to work with and communicates expectations well."
+* *Hector Huertas:* Taylor is a great partner. His communication skills are great and he's very easy to work with. Although he represents these skills, he might be too nonchalant while working on an assignment. Sometimes I felt he needed to feel more pressure to be more productive. In programming, he is great at force-breaking problems, he finds solutions for dark and hard to trace errors that doesn't seem to make sense. At the same time, he could improve his workflow for general problems: sometimes he starts wandering around code and trying things here and there when the answer is clear on the error stack trace. I think all around his approach is too time consuming. He could benefit from a more standard approach to problem solving and keep his dark magic for the times when it's really needed. In conclusion, great experience working with him.
 
-Brant Wellman: "To Taylor Moore - "I have paired with Taylor on a couple of exercises where he was an engaged partner and helped contribute to the problems and exercises. He is active in contributing and vocal about what his opinions are, but not at all overbearing. Taylor will continue to be a valuable partner in future pairs by continuing to contribute in this fashion."
+* *Jamie Crockett:* "Taylor is super collaborative and comes up with creative solutions to problems, in part because he's very comfortable with less-frequently used enumerables such as 'reduce.' He always strives to create something in the most efficient way possible (which is a good instinct, but sometimes his infatuation with the best possible way distracts him from the bigger picture). He has a calming demeanor that I found easy to work with and communicates expectations well."
+
+* *Brant Wellman:* "I have paired with Taylor on a couple of exercises where he was an engaged partner and helped contribute to the problems and exercises. He is active in contributing and vocal about what his opinions are, but not at all overbearing. Taylor will continue to be a valuable partner in future pairs by continuing to contribute in this fashion."
 
 **Playing a Part**
 
