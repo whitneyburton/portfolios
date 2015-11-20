@@ -135,7 +135,7 @@ I strived to be more active in the community this module.
 * I was regularly available to help 1510 students since I could empathize with their pain. I helped on various occasions with problems that they had on homework and projects. 
 * Adam and I conducted a student lead session on contributing to open source.
 * I participated in study events with other students on weekends on a regular basis
-* 
+* Attended a film screening (Keep Jumbo Wild) with a large group of fellow students. 
 
 
 ## Review
