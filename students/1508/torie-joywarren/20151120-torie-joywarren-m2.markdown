@@ -105,5 +105,14 @@ View Layer: 3.5
 
 ### Notes
 
+* Side projects: Api practice with Pat. Redo a website for a friend. 
+* Warmups repeat too frequently
+* Have confidence in your thoughts and be more assertive with your opinions and thoughts
+* We would like to see you be a little more feedback and hear your voice more. 
+
+
+
 
 ### Outcome
+
+Pass
