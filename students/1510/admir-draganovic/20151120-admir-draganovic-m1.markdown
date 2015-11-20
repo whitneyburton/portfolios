@@ -177,8 +177,17 @@ I participated in the Turing community in the following ways:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Saw decent quality of work overall just not enough
+completion on projects
+* Feel like you will be successful next time around
+* Hoping to see you take a leadership role in the next cohort
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 2
+* Individual Work and Projects: 2
+* Group Work and Projects: 2
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+REPEAT
