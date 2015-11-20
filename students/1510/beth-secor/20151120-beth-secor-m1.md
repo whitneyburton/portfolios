@@ -266,6 +266,17 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Notes
 
-
+* Solid assessment
+* Individual projects are consistently strong; producing very solid results
+* Group projects produce very strong results; you seem to do very well in
+reading the needs of your peers and adapting to them
 
 ### Outcome
+
+* End of Module Assessment: 3
+* Individual Work and Projects: 3+
+* Group Work and Projects: 4
+* Community Participation: 3
+* Peer and Instructor Feedback: 4
+
+ADVANCE
