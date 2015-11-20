@@ -120,8 +120,12 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Comfortable with progres through turing so far. 
+* Very motivated and driven. 
+* Find a side project and bring peers along with you
+* Tries to set expectations - maybe be more clear about them going forward
+* Try to stenghten yourself others around you. Ask questions in class. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
