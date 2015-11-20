@@ -9,7 +9,51 @@ _____
 I have always been a dreamer, with my inevitable trajectory entrepenourship as a means to build and release products and services that (hopefully) change our world.  Ideas remain just that without practical means of implementation, and Turing represents that next step for me.  Over the next 7 months here me goal is to pick up the skill-sets and ideas necessary to begin my journey to this goal
 
 ##End of Module Assessment
-_____
+
+Assessed by: Horace
+
+###Notes
+
+- Doing pretty well across the board; good workflow;
+good comfort with classes and methods
+- Enumerables are pretty good
+- Keep thinking about how to use more specific enumerables
+for different cases
+- Doing well at tracing flow of execution through code
+
+
+###Scores
+
+Ruby Syntax & API: 3
+Ruby Style: 3
+Testing: 3
+Workflow: 3
+Collaboration: 3
+
+
+##Mid-Module Diagnostic
+
+Assessed by: Horace
+
+###Notes
+
+- Overall ruby mastery is coming along; able to use the language to accomplish
+the necessary tasks
+- Can continue to get better about conciseness and idiomatic solutions
+- Doing pretty well with running ; keep working on doing this frequently
+and reacting to the feedback that they give
+- Tooling and workflow are coming along; keep thinking about ways to avoid
+applications or screen switching
+- Good communication and expression of thought process
+
+###Scores
+
+Ruby Syntax & API: 3
+Ruby Style: 2
+Testing: 3
+Workflow: 3
+Collaboration: 3
+
 ###Challenge:
 N/A for now
 
@@ -23,6 +67,7 @@ _____
 
 Below is a list of all of my projects and assessment scores from Module 1.
 _____
+
 ####Headcount:
 
 https://github.com/stevepentler/Headcount-V2
@@ -50,6 +95,7 @@ Code Sanitation: 4
 - Implementation looks good, small methods, clear code, etc
 - For next time: analysis take a long time, especially iteration 2, dealing with NaN error, not clear where the intended difficulty is, what to do with the non-values, trash data, etc
 _____
+
 ####HTTP
 
 http://github.com/jlawlzz/http_you_know_me
@@ -117,12 +163,12 @@ Looping and Recursion: 3
 #####Notes:
 
 - 18 tests, all passing
-- some opportunities to refactor to remove repitition
+- some opportunities to refactor to remove repetition
 - some violations of SRP.
 
 _____
 
-###Giving Feedback
+##Giving Feedback
 
 Admir Dragonov: "I have had the pleasure of  working closely with Admir at Turing since the beginning of module 1 in a wide variety of projects/exercises.  Admir’s determination to not only work to meet expectations on a surface level, but to truly understand the underlying ideas and logic of programming and CS is incredibly inspiring and infectious. Where others say good enough Admir insists on re-examination, I do not think there was a weekend where Admir did not make it his goal to review previous projects or extra-curricular material. In addition to this, Admir is incredibly resourceful (something most of us struggle with), and is quick to share his findings to the group.   These two attributes in conjunction have undoubtedly made the cohort as a whole stronger both in regards to conceptual understanding, and work-environment.
 Pairing with Admir has been one of the most enjoyable experiences at Turing so far.  His calm demeanor, attention to detail, and insistence on clarity of code and process were paramount in our success with HTTP YouKnowMe.  In a pairing environment I do think Admir can be more pro-active in his communication, and confident in his assertions (as they are usually spot on!)."
