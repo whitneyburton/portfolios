@@ -204,6 +204,11 @@ ___
 
 ### Being a Community Member
 
+
+
+> "You've been great to work with because no matter how complex the problem, you remained calm, even when frustrated. You are very hard on yourself and have high expectations but don't give yourself credit for how much you contribute and know. Your enthusiasm to learn how everything works and to follow the TDD process really drove our project and I will always be thankful to have had you as my partner on this project."
+**Dan Winter**
+
 >"Brenna has very good attention to detail and is great at explaining her ideas. She makes a great team member and pair because she rarely gets frustrated and is always willing to listen, try out new ideas, and help others. I think if she spoke up more often, she would realize that she knows even more than she thinks she does about problem solving and programming." **Toni Rib**
 
 
