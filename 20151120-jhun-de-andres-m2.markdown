@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-Coming into this module I didn't really know what to expect. I knew that we'd be doing rails and online applications which was super exciting but I knew that with the prework I'd need to really emphasize personal study. So I would look over the tutorials and make sure I understood the muscle memory involved in rails applications.
+Coming into this module I didn't really know what to expect. I knew that I was basically at the bottom of the barrel and I wanted to improve.  I knew that we'd be doing rails and online applications which was super exciting but I knew that with the prework I'd need to really emphasize personal study. So I would look over the tutorials and make sure I understood the muscle memory involved in rails applications.
 
 ### End of Module Assessment
 
