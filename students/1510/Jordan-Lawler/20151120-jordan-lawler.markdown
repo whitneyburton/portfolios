@@ -5,7 +5,6 @@ ____
 ##Individual
 
 ____
-
 ###Your Mission
 
 I have always been a dreamer, with my inevitable trajectory entrepenourship as a means to build and release products and services that (hopefully) change our world.  Ideas remain just that without practical means of implementation, and Turing represents that next step for me.  Over the next 7 months here me goal is to pick up the skill-sets and ideas necessary to begin my journey to this goal
