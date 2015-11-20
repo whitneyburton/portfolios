@@ -274,8 +274,19 @@ I've also tried to make little efforts, as a resident of the space, such as not 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Assessment was successful on the retake
+* Individual work shows upward trend in completion
+* Headcount -- OK pending headcount completion
+* Your technical skills have gotten to a strong place --
+we would like to see your project management and problem
+approach continue to grow to match it
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+ADVANCE
