@@ -9,11 +9,11 @@ I want to be a solid programmer and a great teacher, and I chose Turing because 
 I'm ambitious and competitive by nature, but this module I wanted to challenge myself in new ways. I made it a goal to stay sane in the midst of Turing's pressures, while giving myself time to explore and play with new concepts. I know that it is unrealistic to master Ruby in six weeks, so instead I've focused on mastering my tools, refining strategies for tackling project design, and working in teams.
 
 ### End of Module Assessment
-**Ruby Syntax & API** - 3  
-**Ruby Style** - 3  
-**Blocks & Enumerations** - 3  
-**Testing** - 4  
-**Workflow** - 4  
+**Ruby Syntax & API** - 3
+**Ruby Style** - 3
+**Blocks & Enumerations** - 3
+**Testing** - 4
+**Workflow** - 4
 **Collaboration** - 4
 
 
@@ -28,7 +28,7 @@ The project work below reveals some consistent themes across my work this module
 * Not allocating enough time for refactoring
 * Flickers of talent with strategy, design, and logic
 
-#### Complete Me  
+#### Complete Me
 * [GitHub URL for project](https://github.com/bethsebian/trie_hard)
 * [GitHub URL for project with GUI](https://github.com/bethsebian/shoes/)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
@@ -41,19 +41,19 @@ Build an autocomplete system which provides the following features:
 * Mark a selection for a substring
 * Weight subsequent suggestions based on previous selections
 
-**Evaluator:** Jeff Casimir  
-* Passes spec harness  
-* Passes 26 internal tests  
-* Don't load all the data in tests  
-* Some tests know too much about the implementation -- separate thinking like you separate logic from implementation  
+**Evaluator:** Jeff Casimir
+* Passes spec harness
+* Passes 26 internal tests
+* Don't load all the data in tests
+* Some tests know too much about the implementation -- separate thinking like you separate logic from implementation
 * Implementation shows good technical understanding
 * Ease back from ternaries :)
 
-**Functional Expectations** - 3  
-**Test-Driven Development** - 3  
-**Ruby Style & Fundamentals** - 3  
-**Encapsulation / Breaking Logic Into Components** - 3  
-**Enumerable & Collections** - 3  
+**Functional Expectations** - 3
+**Test-Driven Development** - 3
+**Ruby Style & Fundamentals** - 3
+**Encapsulation / Breaking Logic Into Components** - 3
+**Enumerable & Collections** - 3
 
 This is far and away my most successful project. I spent the first day writing out concepts on paper and wrapping my head around what design would best serve the project, and that paid off exponentially as I moved through the project. I was able to implement each iteration smoothly because the code I built on was clean and sound. I would have liked more time to refactor.
 
@@ -71,16 +71,16 @@ Build a binary search tree which can:
 * find the minimum value in the tree
 * implement a sort that outputs an array of the values in sorted order (by traversing the tree, not using Ruby's sort method)
 
-**Evaluator:** Mike Dao  
-* 24 tests, well tested, could use some edge cases, sad path tests.  
-* Some commented out tests and comments in code.  
-* some methods were pretty long and could use some refactoring, breaking code out into separate methods.  * BST was done iteratively.  
+**Evaluator:** Mike Dao
+* 24 tests, well tested, could use some edge cases, sad path tests.
+* Some commented out tests and comments in code.
+* some methods were pretty long and could use some refactoring, breaking code out into separate methods.  * BST was done iteratively.
 
-**Functional Expectations** - 3  
-**Test-Driven Development** - 3  
-**Encapsulation / Breaking Logic into Components** - 3  
-**Fundamental Ruby & Style** - 2  
-**Enumerable & Collections** - 3  
+**Functional Expectations** - 3
+**Test-Driven Development** - 3
+**Encapsulation / Breaking Logic into Components** - 3
+**Fundamental Ruby & Style** - 2
+**Enumerable & Collections** - 3
 
 I ran out of time on this project, which I would have used to refactor.
 
@@ -102,16 +102,16 @@ The tool should also be able to convert that Braille simulation back to normal t
 ```$ ruby ./lib/night_read.rb braille.txt output_message.txt
 Created 'output_message.txt' containing 256 characters.```
 
-**Evaluator:** Horace Williams  
+**Evaluator:** Horace Williams
 * Basic functionality for encoding text -> braille
-* Missing read functionality  
-* Encoding makes effective use of a map of characters -> braille glyphs  
-* Encoding process would be improved by relying on enumerators to detect and process text more flexibly rather than expecting known character positions  
+* Missing read functionality
+* Encoding makes effective use of a map of characters -> braille glyphs
+* Encoding process would be improved by relying on enumerators to detect and process text more flexibly rather than expecting known character positions
 * Overall solid direction but need to get it more finished
 
-**Overall Functionality** - 1  
-**Fundamental Ruby & Style** - 2  
-**Test-Driven Development** - 2  
+**Overall Functionality** - 1
+**Fundamental Ruby & Style** - 2
+**Test-Driven Development** - 2
 **Breaking Logic into Components** - 2
 
 This was our first major project, and I was still struggling with fundamentals that kept me from completing on time. The code I wrote seemed to do the trick, but the style would have benefitted from refactoring.
@@ -155,19 +155,19 @@ Because the requirements for this project are lengthy and complex, they've been 
 * Iteration 3 - Economic Profile
 * Iteration 4 - Economic Analysis
 
-**Evaluator:** Horace Williams  
-* Great testing overall - quite thorough and voluminous and covering juicy edge cases  
-* Completion is solid through I2; starting to dig into the I3 topics  
-* Code is pretty consistent across the board  
-* Main consistent weaknesses are over-reliance on each as the only iterator and difficulty flattening code   branches into more linear steps that can be understood more easily  
-* Has handful of "whoa" methods where things break down in terms of structure, hierarchy, and length  
+**Evaluator:** Horace Williams
+* Great testing overall - quite thorough and voluminous and covering juicy edge cases
+* Completion is solid through I2; starting to dig into the I3 topics
+* Code is pretty consistent across the board
+* Main consistent weaknesses are over-reliance on each as the only iterator and difficulty flattening code   branches into more linear steps that can be understood more easily
+* Has handful of "whoa" methods where things break down in terms of structure, hierarchy, and length
 
-**Functional Expectations** - 2  
-**Test-Driven Development** - 3  
-**Encapsulation / Breaking Logic into Components** - 3  
-**Fundamental Ruby & Style** - 3  
-**Enumerable & Collections** - 2  
-**Code Sanitation** - 3  
+**Functional Expectations** - 2
+**Test-Driven Development** - 3
+**Encapsulation / Breaking Logic into Components** - 3
+**Fundamental Ruby & Style** - 3
+**Enumerable & Collections** - 2
+**Code Sanitation** - 3
 
 I was pleased with the work we did on Headcount, although we needed more time to finish iteration 3 and refactor. I was most comfortable on first drafts with if statements, and am aware of dozens of clocks that I could refactor with much cleaner enumerables.
 
@@ -184,16 +184,16 @@ Build a web application capable of:
 
 **Team:** [Aaron Greenspan](https://github.com/afg419) & Beth Sebian
 
-**Evaluator:** Mike Dao  
-* 44 tests, all passing  
-* Some weird errors on my computer, but not on Rachels, suspect my computer is wonky.  
-* Fulfills all requirements up to I4.  
-* Well structured code, some minor areas where things could be pulled out into smaller methods  
+**Evaluator:** Mike Dao
+* 44 tests, all passing
+* Some weird errors on my computer, but not on Rachels, suspect my computer is wonky.
+* Fulfills all requirements up to I4.
+* Well structured code, some minor areas where things could be pulled out into smaller methods
 
-**Overall Functionality** - 3  
-**Fundamental Ruby & Style** - 3  
-**Test-Driven Development** - 3  
-**Breaking Logic into Components** - 3  
+**Overall Functionality** - 3
+**Fundamental Ruby & Style** - 3
+**Test-Driven Development** - 3
+**Breaking Logic into Components** - 3
 
 (feedback to me)
 
