@@ -1,8 +1,10 @@
 #Jordan Lawler - M1 Portfolio
 
-_____
+____
+
 ##Individual
-_____
+
+____
 
 ###Your Mission
 
