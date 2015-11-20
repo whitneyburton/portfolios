@@ -230,8 +230,14 @@ I've supported the larger Turing community in these ways:
 
 **Notes**
 
-( Leave blanks for reviewers )
+GG
 
 **Outcome**
+
+* Assessment - 3
+* Individual work - 3
+* Group work - 3, pending headcount completion
+* Community Participation - 3
+* Feedback - 3
 
 ( Leave blanks for reviewers )
