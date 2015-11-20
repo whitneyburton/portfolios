@@ -137,3 +137,18 @@ From Matt Stjernholm - "Had a great time working with Matt.  He always completed
 * Gave a lightning talk on Plasma Torch Recycling
 * Throughout Module 2 I tried to be more confident and inspire more confidence in my cohort-mates and the 1510'ers on a regular basis. I really enjoyed getting to know Hector and Beth, my 1510 posse-mates, and tried to lend them a hand when I could.
 * I also did more dishes this time around. And made lots of coffee.
+* 
+
+### Notes
+
+* Was able to fucus more and be more productive. 
+* Feeling more confident in programming skills
+* Testing was poor for traffic spy but made a point to focus on it going forward. 
+* Learned TDD was important. Still room to improve
+* Does a good job trying to reach out to other cohorts, but would like to still improve. 
+* Find a mentor!
+
+
+### Outcome
+
+Pass
