@@ -74,6 +74,8 @@ Jhun, Ryan, Charissa:
 
 ### Feedback to Me
 
+Here is what people have said about me
+
 Jhun was a joy to work with. His sense of humor and awesome personality made working on our project really fun. He has one of the best work ethics of any person that I have worked with and it shows in the work he produced. I would definitely work with Jhun on any project in the future.
 -Ryan Johnson
 
