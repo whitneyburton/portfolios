@@ -147,8 +147,10 @@ overall quality of life here at Turing.
 
 ### Notes
 
-* End of Module Assessment: 2
-* Individual Work and Projects: 2
-* Group Work and Projects: 3
-* Community Participation: 3
-* Peer and Instructor Feedback: 3
+* Comfort level with rails is pretty good right now
+* Contact manager: Getting comfortable with MVC
+* Getting a head start on issues would be helpful going forward. Dont be intimidated be higher skill levels in group. 
+* 
+
+### Outcome 
+Pass
