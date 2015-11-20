@@ -5,7 +5,7 @@
 ### Your Mission
 My wish after Turing is to be a truly excellent well-rounded programmer.
 
-As that wish include many factors out of my control, and I believe that personal
+As that wish includes many factors out of my control, and I believe that personal
 goals should depend only on oneself, my mission is to fulfill these requirements:
 
 * Extreme dedication
@@ -59,7 +59,7 @@ I completed the following individual projects for this module:
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
 This is a word auto-complete system, featuring word suggestions based on the dictionary
-plus recent used words. After the assessment it was improved with a GUI
+plus recent used words. After the assessment it was improved with a GUI.
 
 
 ###### Comments:
@@ -86,7 +86,7 @@ Assessed by: Horace
 * [GitHub URL](https://github.com/hectorhuertas/binary_search_tree)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
-Implementation of a binary search tree
+Implementation of a binary search tree.
 
 ###### Comments:
 Assessed by: Horace
@@ -111,7 +111,7 @@ Assessed by: Horace
 * [GitHub URL](https://github.com/hectorhuertas/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-Tool to read and translate Braille-like texts
+Tool to read and translate Braille-like texts.
 
 ###### Comments:
 
@@ -160,7 +160,7 @@ I completed the following team projects:
 * [GitHub URL](https://github.com/hectorhuertas/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-Analysis tool for the education system in Denver. Powered by the public data from Annie E. Casey foundation
+Analysis tool for the education system in Denver. Powered by the public data from Annie E. Casey foundation.
 
 ###### Comments:
 * Testing / TDD seems solid overall
@@ -190,7 +190,7 @@ Hector is smart, quick to understanding problems and works hard! Occasionally He
 * [GitHub URL](https://github.com/ToniRib/http_yeah_you_know_me)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-Implementation of and HTTP protocol based web server
+Implementation of and HTTP protocol based web server.
 
 ###### Comments:
 Team: Hector Huertas & Toni Rib
@@ -235,7 +235,7 @@ Alex Navarrete:
 
 ### Playing a Part
 
-I've gotten so much from the Turing Community that I feel in debt with them.
+I've gotten so much from the Turing Community that I feel in debt to them.
 This is how I tried to pay them back:
 
 * I pick any abandoned glasses I see when on my way to return mine.
