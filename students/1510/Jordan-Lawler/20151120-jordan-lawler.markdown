@@ -207,6 +207,23 @@ I've participated in the larger Turing Community in the following ways:
 - I am planning a student led session for next module on Max/MSP.
 - I would love to get involved with the young entrepreneurs.  As someone who would have loved to attended this type of program as a kid, it is a cause that resonates with me.
 
-###Review
+##Review
 
-####Notes
+### Notes
+
+* Group projects average out to a solid 3
+* Individual projects are quite strong -- not blowing away the expectations
+but consistently meeting them and going a bit beyond
+* Reasonable chill confidence; we appreciate your flexibility and ability
+to adapt to difficult challenges
+* We expect this demeanor to serve you especially well in later modules
+
+### Outcome
+
+* End of Module Assessment: 3
+* Individual Work and Projects: 3+
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+ADVANCE
