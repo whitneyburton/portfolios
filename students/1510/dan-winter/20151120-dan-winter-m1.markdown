@@ -11,7 +11,7 @@ I came to Turing to make a difference in my life and in my community.
 
 A quote from Archimedes about the power of levers keeps coming to mind; "Give me a place to stand on and I will move the earth."
 
-I've never seen anything quite like the power of the lever that software development has to impact huge volumes of people. Turing's unmatched power lies in the access it enables to that lever and I aim to move the earth to benefit my community, even if that is helping just one person at a time.
+I've never seen anything quite like the power of the lever that software development has to impact huge volumes of people. Turing is building my place to stand and I aim to move the earth to benefit my community, even if that is helping just one person at a time.
 
 ### Mid Module Diagnostic
 
@@ -39,7 +39,7 @@ I felt pretty confident redoing mythical creatures. I need to think more about i
 
 ### End of Module Assessment
 
-Challenge: Player Tracking in Scrabble
+Player Tracking in Scrabble
 
 Assessed By:  Mike
 
@@ -73,6 +73,8 @@ I have attended all classes with no absences.
 
 ###Complete_Me
 
+Tries on Tries on Tries to Autocomplete Words
+
 Instructor: Jeff
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
@@ -104,7 +106,7 @@ I rewrote this project four times and turned in two versions. Recursion was a st
 
 ### Binary Search Tree
 
-Tries in Binary, of sorts.
+Tries of the Binary Variety
 
 Instructor: Horace
 
@@ -194,16 +196,42 @@ I can definitely use work on refactoring my methods. Large, uncontrolled methods
 
 ### Headcount
 
-Active Record with Pure Ruby
+Group: Brenna and Dan
+
+Building Part of Active Record with Pure Ruby
 
 * [GitHub URL](https://github.com/danjwinter/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
+#### Notes
+
+* Finished late last night, know where we want to refactor but didn't want to break things
+* Passes all of the spec harness
+* 154 tests all pass -- FAST
+* Tests look good, make time for edge cases (you already did the hard work)
+* Excellent use of small data files for tests
+* Implementation looks strong
+* Only use @instance variables when setting, not getting
+* Very good project
+
+#### Scores
+
+* Functional Expectations - 3: Application fulfills all base expectations as tested by the spec harness
+* Test-Driven Development - 4:Application is broken into components which are well tested in both isolation and integration using appropriate data
+* Encapsulation / Breaking Logic into Components - 3: Application effectively breaks logical components apart but breaks the principle of SRP
+* Fundamental Ruby & Style - 3:  Application shows strong effort towards organization, content, and refactoring
+* Enumerable & Collections - 4: Application consistently makes use of the best-choice Enumerable methods
+* Code Sanitation - 4: Zero complaints
+
+#### Dan's Response
+
+Brenna and I were pretty proud of the hard work we put into this project. It was really hard to determine how long each iteration would take and we both still have lots of questions; it would be nice to review different design decisions and better understand why certain approaches are better than others. I need to work on testing more edge cases and a better split of responsibilities among classes.
+
 ### HTTP_YEAH
 
-The Server of Webs
+That Server of Webs
 
-Group: Daniel Winter and Brennan Holtzclaw
+Group by: Daniel Winter and Brennan Holtzclaw
 
 Assessed By: Mike
 
@@ -239,7 +267,9 @@ Misplaced priorities were my downfall in this project and I take full responsibi
 
 "You always kept things lighthearted and full of jokes even when stressed. I know there were other things going on in your life but you didn't let that impact your work. We both got carried away with the excitement of tackling a new feature and were confused as to how to write automated tests because we only knew how to send information with POSTMAN. This led to us neglecting our tests, mistakenly thinking we could only integration test manually and not test the inputs and outputs."
 
-(feedback from me)
+#### Feedback to Brenna from Headcount
+
+"You've been great to work with because no matter how complex the problem, you remained calm, even when frustrated. You are very hard on yourself and have high expectations but don't give yourself credit for how much you contribute and know."
 
 
 
@@ -277,7 +307,7 @@ Cleaned the big space several mornings toward the end of the module when everyon
 
 #### Girl Develop It
 
-This doesn't quite fit into this module but I'm volunteering for the Girl Develop It event this Saturday. I want to give back more to the community and am working with students both within and outside of my cohort to get together a local Rails for Refugees chapter and a design decision study group. I am writing this here so that I can hold myself responsible for this in the future. Please do the same.
+This doesn't quite fit into this module but I'm volunteering for the Girl Develop It event this Saturday. I want to give back more to the community and am striving to figure out the best way to do so.
 
 ##Review
 
