@@ -230,8 +230,27 @@ Interaction between cohorts has been an important part of feeling at home at Tur
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Strong assessment and diagnostic
+* Early individual projects consistently have strong code
+with some weaknesses in completion
+* Hope to keep seeing the same level of quality but improve
+on speed
+* One point we discussed - being able to see "further down the road"
+when planning projects -- this seems to produce better
+results for you so let's keep working on it
+* Individual work needs to show some improvement --
+let's demonstrate this by taking an individual project
+and revising it (probably Enigma)
+* You seem to have very strong social engagement with the
+cohort -- we would like to see this more in academic
+environments as well
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 4
+* Individual Work and Projects: 2 -- Will revise this after Enigma revisions
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+ADVANCE, pending Enigma revisions
