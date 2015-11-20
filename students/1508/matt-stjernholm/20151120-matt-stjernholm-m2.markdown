@@ -137,8 +137,13 @@ Jeff asked me to work on being a better Turing community member in module 2, and
 
 ### Notes
 
-( Leave blanks for reviewers )
+* tried to focus on taking some time away from code and it helped him be more productive. 
+* Try to kick up the level a bit. Go above and beyong and bring your peers along with you. 
+* Getting good at pairing has been the biggest challenge. 
+* Solid community building 
+* Bring others into your further explorations 
+* Get a mentor!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
