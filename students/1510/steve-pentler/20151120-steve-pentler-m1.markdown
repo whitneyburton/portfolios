@@ -143,7 +143,7 @@ ___
 
 ###Community
 
-![Click](https://i.imgflip.com/ughzq.jpg)  
+![Click](https://i.imgflip.com/ughzq.jpg)
 
 ####Giving Feedback
 
@@ -166,10 +166,20 @@ ___
 
 ###Review
 
-###Notes
+### Notes
 
-( Leave blanks for reviewers )
+* Solid evaluation
+* Headcount turned out successfully -- good job working through that
+* Individual work is adequate, but not with a lot of wiggle room
+* You have shown a lot of technical progress over the last half of the
+module
 
-#Outcome
+### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+ADVANCE
