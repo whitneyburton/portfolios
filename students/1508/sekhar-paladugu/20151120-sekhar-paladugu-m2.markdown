@@ -125,8 +125,13 @@ Jason Pilz: “At the onset of our project we appointed Sekhar as project manage
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Feels good with rails right now. Interested in how MVC is applied to pther frameworks
+* Great at organizing student events. Super invloved in the community. 
+* Has a ton of potential and needs to really focus on accomplishing what you can. 
+* Push yourself to be uncomfortable and grow technically. 
+* Find a mentor. Try to set up a regular time to meet. 
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
