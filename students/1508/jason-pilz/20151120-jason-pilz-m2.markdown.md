@@ -4,36 +4,37 @@
 
 ### Your Mission
 
-(What did you set out to accomplish this module?)
+Before entering this module I was expecting to have a high amount of content to have to be learned and absorbed, so I just wanted to try and not be overwhelmed and just take in a piece at a time. Due to the nature of the first 3 weeks or so (mostly tutorials for homework), I was able to start experimenting with other things that interested me such as unity 3D, elixir, and some mobile app development. I had intended to get a mentor in place, but did not get the chance, I will make it a priority for beginning module 3.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+##### Evaluation Comments
+
+* overall good work. Hit a road block with grouping words, but had strong ruby and rails knowledge. Have no doubts about success in module 3. Would like to see a little more work in the terminal as opposed to the editor, but I think that was a nerves thing. Testing could have been a little more streamlined and robust, but overall good.
+
+##### Scores
+
+* Analytic/Algorithmic Thinking - 3
+* Ruby Syntax & Standard Library - 3
+* Rails Syntax & API - 3
+* Rails Style - 3
+* Testing - 3
+* Collaboration - 3
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+I have not missed any days of the module. Also never showed up late or
+left early.
 
 ### Work
 
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+I enjoyed the apps and projects we worked on this module...a mix of tutorial-style and group projects was a nice change of pace from module 1.
 
 ## Team
 
 ### Projects
 
-(Intro)
+During this module I had the privilege to work on the following team projects.
 
 #### Traffic Spy
 
@@ -54,32 +55,58 @@ For this project, I worked with Amber and Jill. We spent 100% of the time paired
 * Sinatra / Web and Business Logic: 3.5
 * View Layer: 3.5
 
-#### (Project Name)
+#### Gif Generator
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/jasonpilz/GifGenerator.git)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
-(description)
+I was paired with Matt Stjernholm for this project, we made a small project which, as an admin, can log in and generate a gif by typing in a topic. This was quite interesting because it was my first taste of using an external API (giphy), and the hurley gem for communication.
 
-(evaluation comments)
+##### Evaluation Comments
+* Not evaluated
 
-(evaluation scores)
+##### Scores
+* Not scored
 
-(feedback to me)
+#### Sticker Shop (Little shop of orders)
+
+* [GitHub URL](https://github.com/jasonpilz/sticker_shop.git)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+
+For this project I was teamed up with Sekhar and Emily and we decided to make a shop that sells dev stickers. This was the first project that I really felt like I was a part of a good git/waffle workflow. I spent a significant amount of time implementing image storage on AWS via paperclip, and also enjoyed getting familiar with the stripe api using checkout.
+
+##### Evaluation Comments
+
+* implemented 1 extension and had small bug in regular feature so they evened out. Will try to fix before demo.
+
+##### Scores
+* Feature Completeness: 3
+* Views: 3
+* Controllers: 3
+* Models: 4
+* Testing: 3
+* Usability: 3
+* Workflow: 3
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+* I was hoping I would bet the chance to collaborate with Sekhar at some point, and happily, I got the chance during our little shop project. He proved himself to be very focused, motivated and efficient. He was excellent and pairing and always entertained our teammates ideas. He was always willing to tackle the jobs that other did not desire, and always delivered on his tasks. My skills were increased by being able to work alongside him during this project. I look forward to the chance to work with Sekhar again!
+
+* Emily was an inspiration to me during our little shop project. She always stayed focused and dedicated to the task at hand and kept a close eye on the overall picture of our project status and direction. Whenever there was a technical issue come up, she was always able to solve the problem. I was able to learn a ton from her, and I look up to her skill level and attitude. I feel grateful I had the opportunity to work with her on this project and can only hope I get the chance to again in the future
 
 ### Being a Community Member
 
 * I would be more than thrilled if I was half the programmer that Jason has become. This unlikely trio was elevated due to his willingness to explain everything, his patience, and his never ending positive attitude. Team Jason!
 
+* Jason is a skilled developer and his work ethic is unmatched. He will keep at a problem until it's fixed and always comes through on his promises. Sticker Shop was a true collaboration and I hope to work with Jason in the future.
+
+* I enjoyed working with Jason and would happily do a project with him again if given the chance. Jason was a fun partner who I looked forward to working with each day, and he took on many challenges while also communicating well with the rest of the team. Even with three kids at home and many family commitments, Jason went above and beyond each day, on Sunday alone spending six hours implementing the extension Paperclip with AWS. We paired the most in our group with each other, probably about half of our total time coding this project, and I found Jason to be easy to collaborate with and never demanding or overbearing. It's a bonus too that he's just a funny and friendly guy. I'd happily work with him again.
+
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+* Have started working on a mobile iOS app for Turing with a couple classmates which hopefully we can make useful for our community.
 
 ## Review
 
