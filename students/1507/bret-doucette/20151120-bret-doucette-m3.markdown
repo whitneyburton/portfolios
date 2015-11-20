@@ -170,8 +170,16 @@ Given for the Pivot
 
 ### Notes
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 4 
+C: Group Work & Projects: 3
+D: Community Participation: 3 * 
+E: Peer & Instructor Feedback: 3
+
+* Provisional 3 in Community Participation provided Bret does something for about an hour a week in M4.
+* Take breaks. Call your mom. Prevent burnout proactively.
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promote
