@@ -107,6 +107,14 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Gained more confidence and now feels like she belongs.
+* Learned to train her mindset and reassure herself. 
+* Came a long way as a developer
+* Wants to focus on front end
+* Find a solid mentor for next module
+* What do you want your legacy at Turing to be?
+* Remain passionate. 
+* Ask questions
 
 ### Outcome
+ Pass
