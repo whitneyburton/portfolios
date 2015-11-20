@@ -6,7 +6,7 @@
 
 I want to be a solid programmer and a great teacher, and I chose Turing because it could help me become both of these things. I was looking for a rigorous and challenging experience, high standards, and an environment where I had the best chance to fall in love with programming.
 
-I'm ambitious and competitive by nature, but this module I wanted to do things a bit differently. I made it a goal to stay sane in the midst of Turing's pressures, while giving myself time to explore and play with new concepts. I know that it is unrealistic to master Ruby in six weeks, so instead I've focused on learning to learn, course-correct, and build alongside others.
+I'm ambitious and competitive by nature, but this module I wanted to challenge myself in new ways. I made it a goal to stay sane in the midst of Turing's pressures, while giving myself time to explore and play with new concepts. I know that it is unrealistic to master Ruby in six weeks, so instead I've focused on mastering my tools, refining strategies for tackling project design, and working in teams.
 
 ### End of Module Assessment
 
@@ -18,138 +18,127 @@ I had no major attendance events in Module 1.
 
 ### Work
 
-(Intro)
-
-#### Event Manager
-
-* [TBD](TBD)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/eventmanager.markdown]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
+The project work below reveals some consistent themes across my work work this module:
+* Comfort with test-driven development, with opportunities to incorporate more integration and feature tests
+*
 
 #### Complete Me
 
-* [https://github.com/bethsebian/trie_hard]()
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown]()
+* [https://github.com/bethsebian/trie_hard](GitHub URL for project)
+* [https://github.com/bethsebian/shoes/](GitHub URL for project with GUI)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown](Original Assignment)
 
-(description)
+(description and features)
+Build an autocomplete system which provides the following features:
+* Insert a single word to the autocomplete dictionary
+* Count the number of words in the dictionary
+* Populate a newline-separated list of words into the dictionary
+* Suggest completions for a substring
+* Mark a selection for a substring
+* Weight subsequent suggestions based on previous selections
 
 (evaluation comments)
-Instructor: Jeff
-
-Repository:
-
-Comments:
-
+**Evaluator:** Jeff Casimir
 Passes spec harness
 Passes 26 internal tests
 Don't load all the data in tests
 Some tests know too much about the implementation -- separate thinking like you separate logic from implementation
 Implementation shows good technical understanding
 Ease back from ternaries :)
-Scores:
 
+(evaluation scores)
 Functional Expectations 3
-TDD 3
+Test-Driven Development 3
 Ruby Style & Fundamentals 3
 Encapsulation / Breaking Logic Into Components 3
 Enumerable & Collections 3
 
-(evaluation scores)
-
-(feedback to me)
+(self assessment)
 
 
 #### Binary Search Tree
 
-* [https://github.com/bethsebian/binary_search_tree]()
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown]()
+* [https://github.com/bethsebian/binary_search_tree](GitHub URL)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown](Original Assignment)
 
-(description)
+(description and features)
+Build a binary search tree which can:
+* insert a new unique value into the tree
+* verify/reject the presence of a value in the tree with include?
+* report the depth of a node in the tree with depth_of
+* find the maximum value in the tree
+* find the minimum value in the tree
+* implement a sort that outputs an array of the values in sorted order (by traversing the tree, not using Ruby's sort method)
 
 (evaluation comments)
-
-Beth Sebian
-
-Instructor:
-
-Mike
-
-Repository:
-
-https://github.com/bethsebian/binary_search_tree
-
-Comments:
-
+**Evaluator:** Mike Dao
 24 tests, well tested, could use some edge cases, sad path tests.
 Some commented out tests and comments in code.
 some methods were pretty long and could use some refactoring, breaking code out into separate methods.
 BST was done iteratively.
-Scores:
-
-Functional Expectations (1 - 4): 3
-Test-Driven Development (1 - 4): 3
-Encapsulation / Breaking Logic into Components (1 - 4): 3
-Fundamental Ruby & Style (1 - 4): 2
-Enumerable & Collections (1 - 4): 3
-
 
 (evaluation scores)
+Functional Expectations: 3
+Test-Driven Development: 3
+Encapsulation / Breaking Logic into Components: 3
+Fundamental Ruby & Style: 2
+Enumerable & Collections: 3
 
-(feedback to me)
+(self assessment)
+
 
 #### Knight Writer
 
-* [https://github.com/bethsebian/night_writer]()
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown]()
+* [https://github.com/bethsebian/night_writer](GitHub URL)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown](Original Assignment)
 
-(description)
+(description and features)
+Build a tool that can translate english phrases to braille and vice versa. The tool is used from the command line like so:
+
+$ ruby ./lib/night_write.rb message.txt braille.txt
+Created 'braille.txt' containing 256 characters
+
+That will take the plaintext file message.txt and create a Braille simulation file braille.txt.
+
+The tool should also be able to convert that Braille simulation back to normal text:
+
+$ ruby ./lib/night_read.rb braille.txt output_message.txt
+Created 'output_message.txt' containing 256 characters.
 
 (evaluation comments)
-Name: Beth Sebian
-
-Assessed By: Horace
-
-Github Repo: https://github.com/bethsebian/night_writer
-
-Notes:
-
+**Evaluator:** Horace Williams
 Basic functionality for encoding text -> braille
 Missing read functionality
 Encoding makes effective use of a map of characters -> braille glyphs
 Encoding process would be improved by relying on enumerators to detect and process text more flexibly rather than expecting known character positions
 Overall solid direction but need to get it more finished
-Scores:
 
+(evaluation scores)
 Overall Functionality - 1
 Fundamental Ruby & Style - 2
 Test-Driven Development - 2
 Breaking Logic into Components - 2
 
-(evaluation scores)
-
-(feedback to me)
+(self assessment)
 
 
 #### Sorting Suite
 
-* [https://github.com/bethsebian/sorting_suite]()
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown]()
+* [https://github.com/bethsebian/sorting_suite](GitHub URL)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown](Original Assignment)
 
 (description)
+Implement three fundamental sorting algorithms:
+* bubble sort ([wikipedia](https://en.wikipedia.org/wiki/Bubble_sort),
+* insertion sort [wikipedia](https://en.wikipedia.org/wiki/insertion_sort), and
+* merge sort [wikipedia](https://en.wikipedia.org/wiki/merge_sort).
 
 (evaluation comments)
+Evaluator: Hector Huertas
 
 (evaluation scores)
 
-(feedback to me)
+(self assessment)
 
 
 ## Team
@@ -160,83 +149,69 @@ Breaking Logic into Components - 2
 
 #### Headcount
 
-* [https://github.com/brennanholtzclaw/headcount]()
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown]()
+* [https://github.com/brennanholtzclaw/headcount](GitHub URL)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown](Original Assignment)
 
 (description)
+Build upon a dataset centered around schools in Colorado provided by the Annie E. Casey foundation. Starting with the CSV data we will:
+* build a "Data Access Layer" which allows us to query/search the underlying data
+* build a "Relationships Layer" which creates connections between related data
+* build an "Analysis Layer" which uses the data and relationships to draw conclusions
+
+Because the requirements for this project are lengthy and complex, they've been broken into Iterations:
+* Iteration 0 - Kindergarten
+* Iteration 1 - High School Graduation
+* Iteration 2 - Statewide Testing
+* Iteration 3 - Economic Profile
+* Iteration 4 - Economic Analysis
 
 (evaluation comments)
-Assessed By: Horace
-
-Notes
-
+**Evaluator:** Horace Williams
 Great testing overall - quite thorough and voluminous and covering juicy edge cases
 Completion is solid through I2; starting to dig into the I3 topics
 Code is pretty consistent across the board
 Main consistent weaknesses are over-reliance on each as the only iterator and difficulty flattening code branches into more linear steps that can be understood more easily
 Has handful of "whoa" methods where things break down in terms of structure, hierarchy, and length
-Rubric
-
-1. Functional Expectations
-
-2: Application has some missing functionality but no crashes
-2. Test-Driven Development
-
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-3. Encapsulation / Breaking Logic into Components
-
-3: Application effectively breaks logical components apart but breaks the principle of SRP
-4. Fundamental Ruby & Style
-
-3: Application shows strong effort towards organization, content, and refactoring
-5. Enumerable & Collections
-
-2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-6. Code Sanitation
-
-The output from rake sanitation:methods shows...
-
-3: Five or fewer complaints
 
 (evaluation scores)
+Functional Expectations - 2
+Test-Driven Development - 3
+Encapsulation / Breaking Logic into Components - 3
+Fundamental Ruby & Style - 3
+Enumerable & Collections - 2
+Code Sanitation - 3
 
-(feedback to me)
+(self assessment)
 
 #### HTTP Yeah You Know Me
 
-* [https://github.com/bethsebian/http_yeah_you_know_me]()
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown]()
+* [https://github.com/bethsebian/http_yeah_you_know_me](GitHub URL)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown](Original Assignment)
 
 (description)
+Build a web application capable of:
+* Receiving a request from a user
+* Comprehending the request's intent and source
+* Generating a response
+* Sending the response to the user
+
+(project team)
+[https://github.com/afg419](Aaron Greenspan) & Beth Sebian
 
 (evaluation comments)
-Group: Aaron Greenspan & Beth Sebian
-
-Assessed By: Mike
-
-Github: http://github.com/bethsebian/http_yeah_you_know_me
-
-Notes:
-
+**Evaluator:** Mike Dao
 44 tests, all passing
 Some weird errors on my computer, but not on Rachels, suspect my computer is wonky.
 Fulfills all requirements up to I4.
 Well structured code, some minor areas where things could be pulled out into smaller methods
-Scores:
-
-Overall Functionality
-3: Application implements four iterations
-
-Fundamental Ruby & Style
-3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-
-Test-Driven Development
-3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
-
-Breaking Logic into Components
-3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 (evaluation scores)
+Overall Functionality - 3
+Fundamental Ruby & Style - 3
+Test-Driven Development - 3
+Breaking Logic into Components - 3
+
+(self assessment)
 
 (feedback to me)
 
