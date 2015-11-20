@@ -6,7 +6,7 @@
 
 ###Your Mission
 
-I have always been a dreamer, with my inevitable trajectory entrepenourship as a means to build and release products and services that (hopefully) change our world.  Ideas remain just that without practical means of implementation, and Turing represents that next step for me.  Over the next 7 months here me goal is to pick up the skill-sets and ideas necessary to begin my journey to this goal
+I have always been a dreamer, with my inevitable trajectory entrepreneurship as a means to build and release products and services that (hopefully) change our world.  Ideas remain just that without practical means of implementation, and Turing represents that next step for me.  Over the next 7 months here my goal is to pick up the skill-sets and ideas necessary to begin my journey to this goal.
 
 
 ##End of Module Assessment
@@ -208,7 +208,7 @@ I've participated in the larger Turing Community in the following ways:
 
 ####Future:
 - I am planning a student led session for next module on Max/MSP.
-- I would love to get involved with the your entrepenours.  As someone who would have loved to have this type of program as a kid, it is a cause that resonates with me.
+- I would love to get involved with the young entrepreneurs.  As someone who would have loved to attended this type of program as a kid, it is a cause that resonates with me.
 
 ###Review
 
