@@ -1,7 +1,5 @@
 # Matt Stjernholm - M2 Portfolio
 
-## Individual
-
 ### Your Mission
 
 My main goal for this module was to find more effective ways of studying/coding. I wanted to promote a better balance between being a part of the Turing community and having more non-coding time, while still maintaining a high academic standard for myself.
@@ -27,6 +25,20 @@ Notes: Developer made *quick work of original challenge*. Worked well with asses
 ### Work
 
 Below are the projects that I completed for module 2.
+
+## Individual
+
+#### Robot World
+
+* [GitHub URL](https://github.com/matt-stj/robot_world)  
+
+Completed the spicy (difficult) version for this intro to CRUD project.  
+
+#### Contact Manager
+
+* [GitHub URL](https://github.com/matt-stj/contact_manager)  
+
+Finished all base functionality + added some front end fuctionality.
 
 ## Team
 
@@ -118,6 +130,8 @@ Jeff asked me to work on being a better Turing community member in module 2, and
 * Going rock climbing with Turing Students.
 
 * Getting to know 1510'ers both in and away from Turing. From hanging out with them on weekends to helping them on their projects, I've really enjoyed getting to know them.
+
+* Looking ahead: I'm planing to continue the trend of getting to know Turing folks better and I'm going to organize ski trips for students who have the Rocky Mountain Super Pass.
 
 ## Review
 
