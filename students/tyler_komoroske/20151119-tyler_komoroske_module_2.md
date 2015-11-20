@@ -4,8 +4,9 @@
 
 ### Areas of Emphasis
 
-Prior to this module, I had no knowledge of development, or really anything technical.
-My goals coming into Turing were to put as much time in as I possibly could and retain as much information as I could possibly learn. Throughout the module I made a continuous effort to make sure I was putting in the time and effort to be successful.
+This module focused on learning the Rails framework. Prior to this module, I had never worked with Rails.
+I feel like I really learned a ton in short period of time, and by the end of the module I was actually able
+to build a pretty cool website using Rails.
 
 ### End of Module Assessment
 
@@ -15,39 +16,21 @@ results:
 
 ## Scores
 
-* Started with test.
-* Began the test by creating teachers. Knew to hit the schema to find out what it required to create.
-* Wrote tests in a way that order of creation of students would mess with display if not implemented correctly.
-* Initially stored age as a string.
-* Could follow error messages and how to solve them.
-* used foreign key to link students to teacher.
-* knew mystring was a result of fixtures.
+Started with test.
+Began the test by creating teachers. Knew to hit the schema to find out what it required to create.
+Wrote tests in a way that order of creation of students would mess with display if not implemented correctly.
+Initially stored age as a string.
+Could follow error messages and how to solve them.
+Used foreign key to link students to teacher.
+Knew mystring was a result of fixtures.
 ​
-1. Analytic/Algorithmic Thinking
+* Analytic/Algorithmic Thinking: 4
+​* Ruby Syntax & Standard Library: 3
+* Rails Syntax & API : 4
+* Rails Style: 4
+​* Testing: 4
+* Collaboration: 3
 ​
-4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
-​
-2. Ruby Syntax & Standard Library
-​
-3: Developer is able to comfortably implement solutions in Ruby
-​
-3. Rails Syntax & API
-​
-4: Developer is able to smoothly utilize Rails methods and structures with a minimum of debugging or support
-​
-4. Rails Style
-​
-4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs
-​
-5. Testing
-​
-4: Developer writes tests at multiple layers of abstraction to drive development
-​
-6. Collaboration
-​
-3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
-Add Comment Colla
-
 ## Attendance
 
 I was here everyday for this module.
@@ -93,14 +76,19 @@ I had a lot of fun working with Tyler on Traffic Spy.  He’s got a really solid
 
 https://github.com/tjkomor/idea_box
 
+Feedback from John Slota:
+
+Tyler was an unbelievable fun and awesome partner.  Working with him really solidified my learning as he was able to explain at many junctions throughout the project what we had to do and why we had to get it done. He was also a fearless leader. At one point during our project, we had the choice to hang out with our cohort members or go work more on our project. Due to Tyler’s love of coding and strong work ethic he pushed us to get back to school and work hard. It was an honor to work with such a great guy and he is so approachable, one of the most important links for learning in 1508.
+
 #### Lens Lease
 
-* Functional Expectations: 3
-* Test-Driven Development: 3
-* Encapsulation / Breaking Logic into Components: 4
-* Fundamental Ruby & Style: 3
-* Enumerable & Collections: 4
-* Code Sanitation: 3
+* Feature Completeness: 3
+* Views: 3.5
+* Controllers: 3.5
+* Models: 3.5
+* Testing: 3.5
+* Usability: 3
+* Workflow: 4
 
 ### Feedback to me
 
@@ -131,24 +119,7 @@ Robbie was an awesome teammate. He is extremely talented in all aspects of websi
 
 ### Playing a Part
 
-
 * I helped hang two of the new TV's with Ross and Robbie
 * I did the dished twice during this module
 * I always try to keep things light and fun, which I think positively contribute to the
 overall quality of life here at Turing.
-* During this module, I defintely did not have a chance to be as involved as I would have liked to have been.
-* I was always willing to help anyone with whatever they may have needed help with, but because I wasn't one of the stronger students in the cohort, people tended not to ask me for help.
-* I always liked to ask my classmated how they were doing and if they needed help to let me know.
-* I made an effort to come to Turing everyday with a smile on my face and take on every challenge with a positive attitude regardless of how overwhelmed I may have felt.
-* I'm going to make an effort to be mre involved next module and help out in any way I can.
-
-
-## Review
-
-### Notes
-
-* End of Module Assessment: 2
-* Individual Work and Projects: 2
-* Group Work and Projects: 3
-* Community Participation: 3
-* Peer and Instructor Feedback: 3
