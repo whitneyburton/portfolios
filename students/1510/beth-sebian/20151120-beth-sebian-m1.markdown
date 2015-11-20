@@ -14,22 +14,20 @@ I'm ambitious and competitive by nature, but this module I wanted to challenge m
 
 ### Attendance
 
-I had no major attendance events in Module 1.
+I had no major attendance events in Module 1. I was late to class (within 10 minutes) on 4 occasions.
 
 ### Work
 
-The project work below reveals some consistent themes across my work work this module:
+The project work below reveals some consistent themes across my work this module:
 * Comfort with test-driven development, with opportunities to incorporate more integration and feature tests
 * Not allocating enough time for refactoring
 * Flickers of talent with strategy, design, and logic
 
-#### Complete Me
+#### Complete Me  
+* [GitHub URL for project](https://github.com/bethsebian/trie_hard)
+* [GitHub URL for project with GUI](https://github.com/bethsebian/shoes/)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
-* [https://github.com/bethsebian/trie_hard](GitHub URL for project)
-* [https://github.com/bethsebian/shoes/](GitHub URL for project with GUI)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown](Original Assignment)
-
-(description and features)
 Build an autocomplete system which provides the following features:
 * Insert a single word to the autocomplete dictionary
 * Count the number of words in the dictionary
@@ -38,32 +36,28 @@ Build an autocomplete system which provides the following features:
 * Mark a selection for a substring
 * Weight subsequent suggestions based on previous selections
 
-(evaluation comments)
-**Evaluator:** Jeff Casimir
-Passes spec harness
-Passes 26 internal tests
-Don't load all the data in tests
-Some tests know too much about the implementation -- separate thinking like you separate logic from implementation
-Implementation shows good technical understanding
-Ease back from ternaries :)
+**Evaluator:** Jeff Casimir  
+* Passes spec harness  
+* Passes 26 internal tests  
+* Don't load all the data in tests  
+* Some tests know too much about the implementation -- separate thinking like you separate logic from implementation  
+* Implementation shows good technical understanding
+* Ease back from ternaries :)
 
-(evaluation scores)
-Functional Expectations 3
-Test-Driven Development 3
-Ruby Style & Fundamentals 3
-Encapsulation / Breaking Logic Into Components 3
-Enumerable & Collections 3
+**Functional Expectations** - 3  
+**Test-Driven Development** - 3  
+**Ruby Style & Fundamentals** - 3  
+**Encapsulation / Breaking Logic Into Components** - 3  
+**Enumerable & Collections** - 3  
 
-(self assessment)
 This is far and away my most successful project. I spent the first day writing out concepts on paper and wrapping my head around what design would best serve the project, and that paid off exponentially as I moved through the project. I was able to implement each iteration smoothly because the code I built on was clean and sound. I would have liked more time to refactor.
 
 
 #### Binary Search Tree
 
-* [https://github.com/bethsebian/binary_search_tree](GitHub URL)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown](Original Assignment)
+* [GitHub URL](https://github.com/bethsebian/binary_search_tree)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
-(description and features)
 Build a binary search tree which can:
 * insert a new unique value into the tree
 * verify/reject the presence of a value in the tree with include?
@@ -72,30 +66,26 @@ Build a binary search tree which can:
 * find the minimum value in the tree
 * implement a sort that outputs an array of the values in sorted order (by traversing the tree, not using Ruby's sort method)
 
-(evaluation comments)
-**Evaluator:** Mike Dao
-24 tests, well tested, could use some edge cases, sad path tests.
-Some commented out tests and comments in code.
-some methods were pretty long and could use some refactoring, breaking code out into separate methods.
-BST was done iteratively.
+**Evaluator:** Mike Dao  
+24 tests, well tested, could use some edge cases, sad path tests.  
+Some commented out tests and comments in code.  
+some methods were pretty long and could use some refactoring, breaking code out into separate methods.  
+BST was done iteratively.  
 
-(evaluation scores)
-Functional Expectations: 3
-Test-Driven Development: 3
-Encapsulation / Breaking Logic into Components: 3
-Fundamental Ruby & Style: 2
-Enumerable & Collections: 3
+* Functional Expectations - 3  
+* Test-Driven Development - 3  
+* Encapsulation / Breaking Logic into Components - 3  
+* Fundamental Ruby & Style - 2  
+* Enumerable & Collections - 3  
 
-(self assessment)
 I ran out of time on this project, which I would have used to refactor.
 
 
 #### Knight Writer
 
-* [https://github.com/bethsebian/night_writer](GitHub URL)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown](Original Assignment)
+* [GitHub URL](https://github.com/bethsebian/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-(description and features)
 Build a tool that can translate english phrases to braille and vice versa. The tool is used from the command line like so:
 
 ```$ ruby ./lib/night_write.rb message.txt braille.txt
@@ -108,41 +98,35 @@ The tool should also be able to convert that Braille simulation back to normal t
 ```$ ruby ./lib/night_read.rb braille.txt output_message.txt
 Created 'output_message.txt' containing 256 characters.```
 
-(evaluation comments)
-**Evaluator:** Horace Williams
-Basic functionality for encoding text -> braille
-Missing read functionality
-Encoding makes effective use of a map of characters -> braille glyphs
-Encoding process would be improved by relying on enumerators to detect and process text more flexibly rather than expecting known character positions
-Overall solid direction but need to get it more finished
+**Evaluator:** Horace Williams  
+* Basic functionality for encoding text -> braille
+* Missing read functionality  
+* Encoding makes effective use of a map of characters -> braille glyphs  
+* Encoding process would be improved by relying on enumerators to detect and process text more flexibly rather than expecting known character positions  
+* Overall solid direction but need to get it more finished
 
-(evaluation scores)
-Overall Functionality - 1
-Fundamental Ruby & Style - 2
-Test-Driven Development - 2
-Breaking Logic into Components - 2
+**Overall Functionality** - 1  
+**Fundamental Ruby & Style** - 2  
+**Test-Driven Development** - 2  
+**Breaking Logic into Components** - 2
 
-(self assessment)
 This was our first major project, and I was still struggling with fundamentals that kept me from completing on time. The code I wrote seemed to do the trick, but the style would have benefitted from refactoring.
 
 
 #### Sorting Suite
 
-* [https://github.com/bethsebian/sorting_suite](GitHub URL)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown](Original Assignment)
+* [GitHub URL](https://github.com/bethsebian/sorting_suite)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
-(description)
 Implement three fundamental sorting algorithms:
-* bubble sort ([wikipedia](https://en.wikipedia.org/wiki/Bubble_sort),
-* insertion sort [wikipedia](https://en.wikipedia.org/wiki/insertion_sort), and
-* merge sort [wikipedia](https://en.wikipedia.org/wiki/merge_sort).
+* Bubble Sort -  [wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
+* Insertion Sort -  [wikipedia](https://en.wikipedia.org/wiki/insertion_sort)
+* Merge Sort -  [wikipedia](https://en.wikipedia.org/wiki/merge_sort)
 
-(evaluation comments)
 Evaluator: Hector Huertas
 
 (evaluation scores)
 
-(self assessment)
 I struggled significantly with fundamentals on this project, and only completed the first of three exercises. Learned a ton, needed more time.
 
 
