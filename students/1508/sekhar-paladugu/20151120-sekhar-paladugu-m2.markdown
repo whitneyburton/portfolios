@@ -112,14 +112,14 @@ Jason Pilz: “At the onset of our project we appointed Sekhar as project manage
 
 ### Playing a Part
 
--Volunteered to demo and speak with visiting students from  a local African Community Center on a Friday evening show off Enigma from Module 1
--LGBTuring - we did another Hamburger Mary’s event after Field Day and also did a lunch the first week which we had many 1510-ers join
--Social Committee work, such as planning Halloween (candy, costume contest, decorating) and other things
-—Field Day
-—Planning and hosting Turing Thanksgiving
--Brought in breakfast Nov. 13 and Nov. 20 (weeks 5 and 6) and cleaned up afterwards
--Went to the instructor candidate SQL class (Nate) and helped organized the dinner at D’Corazon afterwards
--Organized, collected money and bought the gifts (chocolates from Enstrom’s) for teachers after module 1 and 2 from 1508
+* Volunteered to demo and speak with visiting students from  a local African Community Center on a Friday evening show off Enigma from Module 1
+* LGBTuring - we did another Hamburger Mary’s event after Field Day and also did a lunch the first week which we had many 1510-ers join
+* Social Committee work, such as planning Halloween (candy, costume contest, decorating) and other things
+* Field Day
+* Planning and hosting Turing Thanksgiving
+* Brought in breakfast Nov. 13 and Nov. 20 (weeks 5 and 6) and cleaned up afterwards
+* Went to the instructor candidate SQL class (Nate) and helped organized the dinner at D’Corazon afterwards
+* Organized, collected money and bought the gifts (chocolates from Enstrom’s) for teachers after module 1 and 2 from 1508
 
 ## Review
 
