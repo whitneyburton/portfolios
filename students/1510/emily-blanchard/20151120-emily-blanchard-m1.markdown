@@ -12,7 +12,6 @@ I thrive on stress, once my basic needs are met. A human can always improve, do 
 **My goal for after graduation is to secure a job; doing something I can be proud of, in some city, where I make as much or more than I did my last year of teaching, that includes health insurance.**
 
 
-
 ### End of Module Assessment
 
 **  **
@@ -25,8 +24,6 @@ Assessed By: Jeff Casimir
 * Struggles with breaking down process/steps of the problem
 * Overall difficulty implementing ideas into code
 
-
-
 #### Scores:
 
 * Ruby Syntax & API: 1
@@ -35,7 +32,6 @@ Assessed By: Jeff Casimir
 * Testing: 3
 * Workflow: 2
 * Collaboration: 3
-
 
 ### Attendance
 
@@ -197,47 +193,24 @@ I've participated in the larger Turing Community in the following ways:
 
 * Made several introductions for businesses/people in Denver for future partnerships with Turing.
 
-
-
-
 ## Review
 
 ### Notes
 
-
-
+* Dedication shown in projects but still missing the upward trend we want to see
+* Group projects show strong contribution and engagement with adequate results
+* Your engagement with the cohort and community is quite strong; people
+seem excited to have you around and value your contributions to the group
+* We feel good about your potential and ability, but are concerned about
+whether our methodologies and the style of content we deliver is successful
+for you
 
 ### Outcome
 
-## A: End-of-Module Assessment
+* End of Module Assessment: 1
+* Individual Work and Projects: 2
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
 
-A Turing student is able to demonstrate proficiency at programming in accordance
-with the module's content and expectations.
-
-
-
-## B: Individual Work & Projects
-
-A Turing student works to maximize their skill growth and demonstrates
-that skill across a variety of work.
-
-
-
-## C: Group Work & Projects
-
-A Turing student contributes significantly to group projects, helps the team
-develop their technical skills, and delivers a high-quality product.
-
-
-## D: Community Participation
-
-A Turing student builds up the community around them by participating and
-supporting other students, the larger Turing family, and persons outside our
-walls who want to develop their own skills.
-
-
-## E: Peer & Instructor Feedback
-
-A Turing student accelerates the growth of those around
-them by delivering specific, kind, and actionable feedback. They accelerate their
-own growth by taking in and acting on the feedback of their peers and instructors.
+REPEAT
