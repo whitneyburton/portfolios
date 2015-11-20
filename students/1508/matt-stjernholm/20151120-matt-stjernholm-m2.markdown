@@ -105,7 +105,7 @@ Scores:
 
 ### Playing a Part  
 
-Jeff asked me to work on being a better Turing community member in module 2, and I think I've done a good job of that.  For the first few weeks of Mod 2, I took on things like:
+Jeff asked me to work on being a better Turing community member in module 2, and I think I've done a good job of that.  During Mod 2, I took on things like:
 
 * Organizing a ski film outing to the Mayan theater with ~10 Turing students (Keep Jumbo wild).
 
