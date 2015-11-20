@@ -34,7 +34,7 @@ Below are the projects that I completed for module 2.
 
 #### Traffic Spy
 
-* [GitHub URL](www.github.com/rjohnson4444/traffic-spy-skeleton)
+* [GitHub URL](https://github.com/rjohnson4444/traffic-spy-skeleton)
 * [Original Assignment](https://github.com/turingschool-examples/traffic-spy-skeleton)
 
 In this project, I felt like Ryan and I worked really well together to build a Sinatra app that we were both proud of.
