@@ -19,7 +19,8 @@ Assessor: Horace
 * TDD workflow seems good
 * Comfortable with enumerators and blocks
 * Keep breaking things into methods
-​
+
+
 ##### Scores:
 
 * Ruby Syntax & API: 3
@@ -28,7 +29,8 @@ Assessor: Horace
 * Testing: 3
 * Workflow: 3
 * Collaboration: 3
-​
+
+
 #### Mid-Module Assessment
 
 Challenge: Medusa -- Mythical Creatures Exercise
@@ -53,14 +55,16 @@ The JungleBeat project explored the concept of the linked list data structure. I
 ​
 * [Github URL](github.com/jecrockett/jungle_beat)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
-​
+
+
 ##### Notes:
 
 * 46 Assertions
 * Some repetition of code that can be pulled out
 * Some minor opportunities for refactoring to make code better for general use
 * Pull out some of the complex conditionals into methods to improve readability
-​
+
+
 ##### Scores:
 
 * Overall Functionality: 4
@@ -68,7 +72,8 @@ The JungleBeat project explored the concept of the linked list data structure. I
 * Test Driven Development: 3
 * Breaking Logic into Components: 3
 * Looping or Recursion: 3
-​
+
+
 #### Enigma
 
 ​Assessor: Mike
@@ -103,7 +108,7 @@ This project involved building a basic web server that can receive user requests
 
 * [Github URL](http://github.com/tman22/http_stuff)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
-​
+
 ##### Notes:
 * 25 tests
 * Tests should be structured so that they don’t require interactivity with postman/whatever
@@ -114,7 +119,8 @@ This project involved building a basic web server that can receive user requests
 * Fundamental Ruby & Style: 3
 * Test-Driven Development: 3
 * Breaking Logic into Components: 3
-​
+
+
 #### Headcount
 Pair: Beth Secor
 Assessor: Andrew
@@ -123,10 +129,10 @@ This project involved parsing/extracting data from many CSV files related to the
 ​
 * [GitHub URL](https://github.com/bethsecor/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
-​
+
 ##### Notes:
 * No notes
-​
+
 ##### Scores:
 * Overall Functionality: 3
 * Enumerables: 3
@@ -134,6 +140,7 @@ This project involved parsing/extracting data from many CSV files related to the
 * Test-Driven Development: 4
 * Breaking Logic into Components: 4
 ​
+
 ​
 ## Community
 ​
@@ -160,15 +167,12 @@ Marlo is in the Weirich posse with me and he was the first person at Turing to r
 ​
 ### Being a Community Member
 ​
-"I love working with Jamie! He is hilarious and makes programming fun. He is excellent at keeping the momentum going on a project. Despite his belief that I am faster at programming than him (which is simply not true), he is ​**wicked**​ smart (read with a Boston accent) and provides interesting solutions to complex problems. For example, he saw an opportunity to implement a method recursively that I would have never thought of. My only suggestion for him to improve his obvious success at Turing would be to not stress out if other people are ahead of him on a project."
- - Beth Secor
+"I love working with Jamie! He is hilarious and makes programming fun. He is excellent at keeping the momentum going on a project. Despite his belief that I am faster at programming than him (which is simply not true), he is ​**wicked**​ smart (read with a Boston accent) and provides interesting solutions to complex problems. For example, he saw an opportunity to implement a method recursively that I would have never thought of. My only suggestion for him to improve his obvious success at Turing would be to not stress out if other people are ahead of him on a project." - Beth Secor
 
-Now that I’m in module two, I almost have a nostalgic feeling looking at module one students go through the same struggles I did. Throughout watching these struggles from afar, rarely would I find someone as passionate or as willing to go the extra mile to understand something, than Jamie. Jamie is in Weirich posse with me and he would consistently have his mind deep into the warm up, giving it his best, or trying to understand some concept from the days before, or working to further improve his skills as a developer. Honestly? It’s inspiring watching him work through problems, projects and assignments. Everyone goes through a similar struggle during module one, but Jamie handles it in a way that I hope to take with me to module 3; Jamie handles stress and the Turing workload with elegance. I’m lucky to have him in my posse and to have had some of the conversations we’ve had. Undoubtedly, he will be a phenomenal developer someday.
-- Marlo Major
+Now that I’m in module two, I almost have a nostalgic feeling looking at module one students go through the same struggles I did. Throughout watching these struggles from afar, rarely would I find someone as passionate or as willing to go the extra mile to understand something, than Jamie. Jamie is in Weirich posse with me and he would consistently have his mind deep into the warm up, giving it his best, or trying to understand some concept from the days before, or working to further improve his skills as a developer. Honestly? It’s inspiring watching him work through problems, projects and assignments. Everyone goes through a similar struggle during module one, but Jamie handles it in a way that I hope to take with me to module 3; Jamie handles stress and the Turing workload with elegance. I’m lucky to have him in my posse and to have had some of the conversations we’ve had. Undoubtedly, he will be a phenomenal developer someday. - Marlo Major
 
 
-"Working with Jamie has been an incredibly helpful and calming experience. During our Enigma project he spent a significant amount of time working through major sections of my code. I was most impressed by his ability to look at the intricacies of someone else's work and offer thoughtful suggestions that improved both functionality and design. He is always genuinely concerned with the progress and well being of others in the cohort and I hope to have the opportunity to collaborate with him in the future."
-- Brenna Martenson
+"Working with Jamie has been an incredibly helpful and calming experience. During our Enigma project he spent a significant amount of time working through major sections of my code. I was most impressed by his ability to look at the intricacies of someone else's work and offer thoughtful suggestions that improved both functionality and design. He is always genuinely concerned with the progress and well being of others in the cohort and I hope to have the opportunity to collaborate with him in the future." - Brenna Martenson
 
 ​
 ### Playing a Part
