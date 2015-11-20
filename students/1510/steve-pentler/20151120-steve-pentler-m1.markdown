@@ -132,11 +132,11 @@ ___
 - method extraction is good; watch for naming to generally represent the value that the method generates
 
 ####Evaluation Scores:
-1. ** Functional Expectations: 3 **
-2. ** Test-Driven Development: 3 **
-3. ** Encapsulation / Breaking Logic into Components: 3 **
-4. ** Fundamental Ruby & Style: 3 **
-5. ** Looping or Recursion: 3 **
+1. **Functional Expectations: 3**
+2. **Test-Driven Development: 3**
+3. **Encapsulation / Breaking Logic into Components: 3**
+4. **Fundamental Ruby & Style:3**
+5. **Looping or Recursion: 3**
 
 Assessed by: Jeff Casimir
 ___
