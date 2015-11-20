@@ -128,8 +128,11 @@ I helped Lovisa with planning and execution of showing the movie Coder Girl afte
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Ruby skills need work
+* Redoing group project
+* 2 hour individual assessment
+* Pending six weeks off.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending / Fail
