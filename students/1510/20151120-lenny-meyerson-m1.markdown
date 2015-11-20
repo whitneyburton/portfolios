@@ -260,6 +260,7 @@ It was a pleasure to work with Brant. Brant kept me on track for a project that 
 Brant:
 Lenny has a highly analytical mind and approach to his work, and working with him for this project has been valuable to me, as I’ve learned to look at problems from a different perspective. Something that Lenny should try to be aware of is a tendency to be too hard on himself, which can cause him to spiral into a place of unfocus and non-productivity. Lenny needs to be confident in his skills and what he brings to a pairing partnership. In the long run this will reward himself and his future pairing partners.
 
+Penney:
 I have thoroughly enjoyed being in class with Lenny. The questions and comments he shares in class are really helpful and enlightening - I love the way he breaks apart the logic with things and rephrases them in ways that are more accessible and understandable for the newbie programmer. I know this module has been difficult for him, but his dedication and drive are apparent and inspiring and I genuinely can’t wait to continue this journey alongside him.
 
 ### Playing a Part
