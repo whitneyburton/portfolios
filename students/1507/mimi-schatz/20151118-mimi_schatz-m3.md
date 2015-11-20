@@ -123,13 +123,18 @@ I've participated in the larger Turing Community in the following ways:
 * Helped 1508 students with testing and Jquery for Little Shop of Orders.
 * Served on SAB for 1507.
 * Unload and load the dishwasher at least 2x a week.
+* GDI Teaching Assistant
 
 ## Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: 4
+B: Individual Work & Projects: 4 
+C: Group Work & Projects: 4
+D: Community Participation:  4
+E: Peer & Instructor Feedback: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Passed
