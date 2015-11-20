@@ -258,73 +258,25 @@ I couldn't imagine a more supportive or borderline-heroic statement from a proje
 During my first module here at Turing I've mostly just tried to get used to the flow of the action, and figure out where I can fit in.
 I recently took the lead on pushing up a Turing podcast. The first episode with Jorge Tellez has been posted on SoundCloud, and if all goes well a second episode with Jeff Casimir should be posted quite soon.
 
-# Review
-### Portfolio Rubric
+##  Review
 
-Your portfolio will be evaluated using the following rubric. Earning at least
-a three in each category is the baseline for promotion/graduation.
+### Notes
 
-### A: End-of-Module Assessment
+* Almost there on assessments, but just not quite meeting the marks
+* Individual projects had great struggles early on but then some great
+improvements
+* However we still need to see more consistent results with projects --
+hoping to see this next time around
+* You seem to naturally be at the center of the group; we think
+you could do a lot of good by playing the "finisher" that helps
+the cohort make concrete progress on their plans and goals
 
-A Turing student is able to demonstrate proficiency at programming in accordance
-with the module's content and expectations.
+### Outcome
 
-* 4: Student achieved two or more "4s" on the assessment
-* 3: Student achieved a "3" or better on each category of the assessment
-* 2: Student earned one score below "3" on the assessment
-* 1: Student earned two or more scores below "3" on the assessment
+* End of Module Assessment: 2
+* Individual Work and Projects: 2
+* Group Work and Projects: 3, pending headcount completion
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
 
-### B: Individual Work & Projects
-
-A Turing student works to maximize their skill growth and demonstrates
-that skill across a variety of work.
-
-* 4: Student demonstrates excellent growth by not only achieving satisfactory
-evaluations for each project but also pushing their learning beyond expectations.
-* 3: Student demonstrates commitment and growth in their work through satisfactory
-evaluations of each project or a clearly upward-sloping trend.
-* 2: Student demonstrates some lack of engagement or growth in their individual
-skill or project outcomes without a clear upward trend.
-* 1: Student does not show the commitment expected of Turing students.
-
-### C: Group Work & Projects
-
-A Turing student contributes significantly to group projects, helps the team
-develop their technical skills, and delivers a high-quality product.
-
-* 4: Student consistently helps their teammates be their best selves, learn at
-an accelerated pace, and achieve great results.
-* 3: Student fully participates in their group work to facilitate group harmony
-while achieving consistently satisfactory results.
-* 2: Student participates somewhat in their group work but is either not a
-dependable member of the team or achieves consistently sub-par work.
-* 1: Student is not a valuable member of their teams.
-
-### D: Community Participation
-
-A Turing student builds up the community around them by participating and
-supporting other students, the larger Turing family, and persons outside our
-walls who want to develop their own skills.
-
-* 4: Student has a significant positive impact on the learning and spirit of the
-people around them.
-* 3: Student participates in required activities and does at least one or two
-above-and-beyond supports of the community.
-* 2: Student participates in most required community activities (demos, lightning talks, etc)
-but does not do anything else of significance.
-* 1: Student stays in their lane and focuses just on their own learning.
-
-### E: Peer & Instructor Feedback
-
-A Turing student accelerates the growth of those around
-them by delivering specific, kind, and actionable feedback. They accelerate their
-own growth by taking in and acting on the feedback of their peers and instructors.
-
-* 4: Student helps others to be their best selves while using peer feedback
-to shape their own character and behavior.
-* 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback.
-* 2: Student gives meaningful impact to peers as well as being aware of themes
-in the feedback they receive.
-* 1: Student does not consistently participate in or construct meaningful peer
-feedback.
+REPEAT
