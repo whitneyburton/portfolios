@@ -224,6 +224,8 @@ Assessed By: Brant Wellman
 
  >“Aaron was the Headcount angel. I see a lot of people give tirelessly and selflessly here at Turing, but he went above and beyond what I have ever seen. He made himself completely available for every single team and stayed late into the night helping everyone figure out issues and keep their projects moving forward. Thank you doesn’t even begin to cut it."-**Penney Garrett**
 
+>"Aaron Greenspan is very creative, which gives him a natural knack for solving complex problems. He shines when any difficult problem comes around. The truly impressive part is his ability to communicate his ideas. However, his determination to solve problems can sometimes blind him from other paths. He is always willing to help solve problems, he'll even fall down rabbit whole with you just to see what happens."-**Taylor Moore**
+
 
 ### Playing a Part
 
