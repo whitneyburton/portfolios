@@ -4,7 +4,7 @@
 
 ### Your Mission
 
-My main goal for this module was to find more effective ways of studying/coding. I wanted to promote a better balance between being a part of the Turing community and having more non-coding time, while still maintaining a high academic standard.
+My main goal for this module was to find more effective ways of studying/coding. I wanted to promote a better balance between being a part of the Turing community and having more non-coding time, while still maintaining a high academic standard for myself.
 
 ### Attendance
 
