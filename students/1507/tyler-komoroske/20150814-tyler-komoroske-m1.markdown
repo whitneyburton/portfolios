@@ -131,7 +131,24 @@ Robbie was an awesome teammate. He is extremely talented in all aspects of websi
 
 ### Playing a Part
 
+
 * I helped hang two of the new TV's with Ross and Robbie
 * I did the dished twice during this module
 * I always try to keep things light and fun, which I think positively contribute to the
 overall quality of life here at Turing.
+* During this module, I defintely did not have a chance to be as involved as I would have liked to have been.
+* I was always willing to help anyone with whatever they may have needed help with, but because I wasn't one of the stronger students in the cohort, people tended not to ask me for help.
+* I always liked to ask my classmated how they were doing and if they needed help to let me know.
+* I made an effort to come to Turing everyday with a smile on my face and take on every challenge with a positive attitude regardless of how overwhelmed I may have felt.
+* I'm going to make an effort to be mre involved next module and help out in any way I can.
+
+
+## Review
+
+### Notes
+
+* End of Module Assessment: 2
+* Individual Work and Projects: 2
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
