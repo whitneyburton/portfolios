@@ -179,7 +179,7 @@ Outside of a technical environment Steve is incredible to collaborate with.  His
 I think Steve would benefit greatly from removing himself from pre-planning process in the context of practice.  While his ability to conceptually navigate relationships between classes/methods is proficient, his efficiency has room for improvement.  This should allow for him to work within the macro of a project in a quick, efficient, and accurate way when paired with his pre-existing skill-set."
 
 
-###Being a Community Member
+##Getting Feedback
 
 "Jordan is a visionary that conceptualizes relationships/implementation at an alarmingly fast rate. Jordan synthesizes information and is able to architect intelligent design decisions based on future implications. I’m blown away by his abilities. In addition, he has sacrificed a significant amount of his time during headcount and other projects to help myself and other groups. He isn’t content until everyone can explain what he’s taught them in their own words. I’m convinced that law of diminishing returns doesn’t apply to Jordan, because he is equally pleasant and adept 10 hours into programming as he is in the first.
 
@@ -196,7 +196,7 @@ I have turned to Jordan many times during this module for programming related qu
 "Meh, He is alright." --Jordan's Mother
 
 
-###Playing a Part
+##Playing a Part
 
 I've participated in the larger Turing Community in the following ways:
 
