@@ -1,4 +1,3 @@
-
 # Alex Tideman - M3 Portfolio
 
 ## Individual
@@ -125,4 +124,3 @@ Production: http://collectors-world.herokuapp.com
 
 ## Outcome
 Pass
-
