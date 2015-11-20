@@ -22,29 +22,29 @@ My end of Module Assessment was conducted by Rachel.
 * recognized that logic should be in model, not controller
 * able to refactor to make method more flexible
 
-1. Analytic/Algorithmic Thinking
+1 Analytic/Algorithmic Thinking
 
--3: Developer breaks complex problems into small, digestible steps and executes them
+  -3: Developer breaks complex problems into small, digestible steps and executes them
 
-2. Ruby Syntax & Standard Library
+2 Ruby Syntax & Standard Library
 
--3: Developer is able to comfortably implement solutions in Ruby
+  -3: Developer is able to comfortably implement solutions in Ruby
 
-3. Rails Syntax & API
+3 Rails Syntax & API
 
--3.5
+  -3.5
 
-4. Rails Style
+4 Rails Style
 
--3.5
+  -3.5
 
-5. Testing
+5 Testing
 
--3: Developer uses tests at multiple layers of abstraction to drive development
+  -3: Developer uses tests at multiple layers of abstraction to drive development
 
-6. Collaboration
+6 Collaboration
 
--4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+  -4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ### Attendance
 
@@ -136,6 +136,7 @@ I strived to be more active in the community this module.
 * Adam and I conducted a student lead session on contributing to open source.
 * I participated in study events with other students on weekends on a regular basis
 * Attended a film screening (Keep Jumbo Wild) with a large group of fellow students. 
+
 
 
 ## Review
