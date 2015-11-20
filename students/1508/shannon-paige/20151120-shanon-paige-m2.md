@@ -107,6 +107,7 @@ For Jhun: "Jhun had such a positive energy during our Traffic Spy project, he wa
 
 I started this module by decorating the girls bathroom with 80s posters.
 Later in the module I formed the Social Committee with Sam Brock, so we could put together Halloween activities for the school. We also roped in Sekhar and I helped him brainstorm ideas for Field Day.
+I also set up the guest speaker on November 13 - Kagan Sound and his wooden puzzle boxes.
 
 ## Review
 
