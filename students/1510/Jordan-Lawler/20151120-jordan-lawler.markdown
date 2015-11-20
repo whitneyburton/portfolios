@@ -52,19 +52,16 @@ Testing: 3
 Workflow: 3
 Collaboration: 3
 
-###Challenge:
-N/A for now
-
 ###Attendance
 
 I was absent for a Friday afternoon due to an illness.  I am generally good about getting to Turing on time outside of being a few minutes late 1-2 times for class start.
 
 ##Team
-_____
+
 ###Projects
 
 Below is a list of all of my projects and assessment scores from Module 1.
-_____
+
 
 ####Headcount:
 
@@ -92,7 +89,6 @@ Code Sanitation: 4
 - Testing of features looks really solid, probably some space for more edge case testing
 - Implementation looks good, small methods, clear code, etc
 - For next time: analysis take a long time, especially iteration 2, dealing with NaN error, not clear where the intended difficulty is, what to do with the non-values, trash data, etc
-_____
 
 ####HTTP
 
@@ -116,7 +112,6 @@ Breaking Logic into Components: 3
 - Complete to iteration 4.
 - opportunities for refactoring for clarity,
 - some overly long methods.
-_____
 
 ####Enigma
 
@@ -139,7 +134,6 @@ Breaking Logic Into Components: 3
 
 code needs to be in lib and test directory
 20 total tests
-_____
 
 ####Jungle Beats
 
@@ -164,8 +158,6 @@ Looping and Recursion: 3
 - some opportunities to refactor to remove repetition
 - some violations of SRP.
 
-_____
-
 ##Giving Feedback
 
 Admir Dragonov: "I have had the pleasure of  working closely with Admir at Turing since the beginning of module 1 in a wide variety of projects/exercises.  Admir’s determination to not only work to meet expectations on a surface level, but to truly understand the underlying ideas and logic of programming and CS is incredibly inspiring and infectious. Where others say good enough Admir insists on re-examination, I do not think there was a weekend where Admir did not make it his goal to review previous projects or extra-curricular material. In addition to this, Admir is incredibly resourceful (something most of us struggle with), and is quick to share his findings to the group.   These two attributes in conjunction have undoubtedly made the cohort as a whole stronger both in regards to conceptual understanding, and work-environment.
@@ -178,7 +170,6 @@ Steven Pentler: "Steve is a detail oriented thinker that utilizes tools/techniqu
 Outside of a technical environment Steve is incredible to collaborate with.  His combination of adeptness, easy going temperament, and incredible work ethic allow the team to expend energy on the problem at hand rather than dynamics of teamwork/workflow.  Steve utilizes patience and demonstration as a teaching/mentoring tool rather than explanation,  allowing for teammates to make mistakes, then present a process that illuminates the correct path.
 
 I think Steve would benefit greatly from removing himself from pre-planning process in the context of practice.  While his ability to conceptually navigate relationships between classes/methods is proficient, his efficiency has room for improvement.  This should allow for him to work within the macro of a project in a quick, efficient, and accurate way when paired with his pre-existing skill-set."
-_____
 
 ###Being a Community Member
 
@@ -195,7 +186,6 @@ I have turned to Jordan many times during this module for programming related qu
 “Jordan is a huge asset to our class. He’s brilliant and is always willing to share his time to help other students puzzle through tough concepts. His enthusiasm is contagious and inspiring, and I really look forward to learning more from him as time goes on!" --Penney Garret
 
 "Meh, He is alright." --Jordan's Mother
-_____
 
 ###Playing a Part
 
@@ -209,7 +199,6 @@ I've participated in the larger Turing Community in the following ways:
 - I am planning a student led session for next module on Max/MSP.
 - I would love to get involved with the your entrepenours.  As someone who would have loved to have this type of program as a kid, it is a cause that resonates with me.
 
-_____
 ###Review
 
 ####Notes
