@@ -59,13 +59,18 @@ Assessed By: Horace Williams
 
 ##### Notes:
 
+  * Excellent work overall; code is clean both at the low level (methods, lines, etc) and at the high level design.
+  * Good use of abstractions around pulling out and manipulating data -- helps keep the analytical structure very clean.
+  * Voluminous testing -- covering everything including various helper/data processing operations within the test suite.
+  * Completes all iterations and the team seems to have spent a lot of time helping the group overall, including lots of spec harness contributions.
+
 ##### Scores:
 
-* Overall Functionality:
-* Enumerables:
-* Fundamental Ruby and Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Overall Functionality: 4
+* Enumerables: 4
+* Fundamental Ruby and Style: 4
+* Test-Driven Development: 4
+* Breaking Logic into Components: 4
 
 #### Http Yeah You Know Me
 
