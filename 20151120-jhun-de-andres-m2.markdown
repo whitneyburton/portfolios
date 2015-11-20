@@ -105,3 +105,18 @@ According to the Feedback application:
 
 * I photographed and edited the 1510 class photographs.
 * Helped Module 1 students with their Linked-List project (Admir, Alex)
+* 
+
+### Notes:
+
+ * Wanted to feel excited about coding in Mod2. 
+ * Really excelled by the end of Mod 2. Couldnt tell he struggled in Mod 1 at all.
+ * Continue to participate in class. 
+ * To move you it will be required to get little shop scores of 1.5 to 3's. 
+ * Stuck together throuhout that project and the little things really got them.
+ * Were some things that were noticed early on that could have been confronted to ensure success. 
+ * Communicating expectations is something that needs to be worked on/concious of.
+ 
+### Outcome
+
+Pending
