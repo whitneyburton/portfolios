@@ -9,11 +9,11 @@ I want to be a solid programmer and a great teacher, and I chose Turing because 
 I'm ambitious and competitive by nature, but this module I wanted to challenge myself in new ways. I made it a goal to stay sane in the midst of Turing's pressures, while giving myself time to explore and play with new concepts. I know that it is unrealistic to master Ruby in six weeks, so instead I've focused on mastering my tools, refining strategies for tackling project design, and working in teams.
 
 ### End of Module Assessment
-**Ruby Syntax & API** - 3
-**Ruby Style** - 3
-**Blocks & Enumerations** - 3
-**Testing** - 4
-**Workflow** - 4
+**Ruby Syntax & API** - 3  
+**Ruby Style** - 3  
+**Blocks & Enumerations** - 3  
+**Testing** - 4  
+**Workflow** - 4  
 **Collaboration** - 4
 
 
