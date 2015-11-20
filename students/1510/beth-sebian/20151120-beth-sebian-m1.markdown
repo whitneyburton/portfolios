@@ -232,7 +232,7 @@ the cohort
 
 ### Outcome
 
-* End of Module Assessment: 3
+* End of Module Assessment: 4
 * Individual Work and Projects: 3
 * Group Work and Projects: 3
 * Community Participation: 3

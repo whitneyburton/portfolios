@@ -293,8 +293,23 @@ To JP - "JP is a strong coder and problem solver. He is very quiet and reserved,
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Strong assessment
+* Initial projects showed some good results but not enough
+completion and progress
+* Mid-module projects started to improve on completion
+but still some struggles
+* HTTP Project was strong; headcount had strong code
+but some missed progress
+* Appreciate how engaged you are in class
+* You seem to have a natural leadership role in the cohort,
+and we'd like to see you continue to own that
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 4
+* Individual Work and Projects: 3
+* Group Work and Projects: 3, pending headcount completion
+* Community Participation: 3
+* Peer and Instructor Feedback: 4
+
+ADVANCE
