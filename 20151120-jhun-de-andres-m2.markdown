@@ -74,14 +74,25 @@ Jhun, Ryan, Charissa:
 
 ### Feedback to Me
 
-Here is what people have said about me
+Here is what people had to say about me:
 
 Jhun was a joy to work with. His sense of humor and awesome personality made working on our project really fun. He has one of the best work ethics of any person that I have worked with and it shows in the work he produced. I would definitely work with Jhun on any project in the future.
+
 -Ryan Johnson
+
+Working with Jhun was absolutely fantastic.  We had talked that this was our first group project where we both felt that we were able to contribute freely and without judgement.  Jhun is a fast coder and I was really impressed with his ability to troubleshoot some problems that came up.  Jhun is going to make a great developer. Thanks Jhun!
+
+-Charissa
 
 Working with Jhun was an absolute pleasure. His insistence on slowing things down to make sure we understood the code we were implementing really helped me learn on this project.  He is a hard worker and an awesome person, I would gladly work with him again.
 
 -Edgar Duran
+
+Jhun had such a positive energy during our Traffic Spy project, he was instrumental in keeping our team spirits up, even when we got stressed. I loved his enthusiasm and curiosity. His communication skills are through the roof, and he shows a unique ability of knowing what his weak spots are and going after them. Thanks for you!!
+
+-Shannon Paige
+
+
 
 
 ## Community
