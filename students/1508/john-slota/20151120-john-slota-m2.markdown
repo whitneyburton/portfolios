@@ -143,4 +143,16 @@ own growth by taking in and acting on the feedback of their peers and instructor
 
 
 
-Notes:
+### Notes:
+
+* Smooth assessment. Felt comfortable. 
+* TDD over the course of the module has been a focus. 
+* Dont get caught in the busy work trap. Stay involved in the new and differnt material.
+* Stay focused and be prepared to work hard.
+* Your positivity is welcomed and keep it up
+* Focus for module 3 is to remained focused on class. 
+
+
+### Outcome: 
+
+pass
