@@ -121,3 +121,16 @@ Following is the only group project completed this module.
  * Brought people to the gym
  * Stayed late the majority of nights
 
+## Notes
+
+A: End-of-Module Assessment: 4
+B: Individual Work & Projects: 3 
+C: Group Work & Projects: 3
+D: Community Participation: 4 
+E: Peer & Instructor Feedback: 3
+
+The main challenge not skill, but motivation. Find something to challenge. 
+
+## Outcome
+
+Pass
