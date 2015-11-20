@@ -155,12 +155,11 @@ people within the Turing community.
 
 ### Notes
 
+* Feels like making headway into become the best developer he can.
+* Feels really comfortable with rails. Is confident in navigating rails.
+* Has explored some front end frameworks. Still finds it challenging, but is improving. 
+* Needs to complete little shop to move forward. 
+* Continue to pregress your possee. Stregnthen your bond with others. 
+
 ### Outcome
-
-## A: End-of-Module Assessment
-
-## B: Individual Work & Projects
-
-## D: Community Participation
-
-## E: Peer & Instructor Feedback
+Pending
