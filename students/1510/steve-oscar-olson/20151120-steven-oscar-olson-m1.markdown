@@ -6,7 +6,7 @@
 
 I came to Turing to accomplish a career change in the most efficient and effective way - full immersion.
 
-My goal for the first module was to confirm two things - that I'm capable succeeding in this environment, and that I do in fact enjoy the challenge and process of writing code.
+My goal for the first module was to confirm two things - that I'm capable of succeeding in this environment, and that I do in fact enjoy the challenge and process of writing code.
 
 Despite having moments of self-doubt throughout the module, I do now feel confident that I will succeed in the program and that I have made a great choice in pursing this change.
 
@@ -135,7 +135,7 @@ Assessed By: Jeff
 
 **A fundamental data structure utilizing nodes to store data**
 
-##more desctiption
+The binary search tree project was our introduction to the data structures using linked nodes, which allow for dynamic and evolving data structures that vary depending on the input. They allow fast lookup, addition and removal of items.
 
 Assessed By: Horace
 
@@ -203,10 +203,10 @@ Pairing with Steve on HeadCount has been my most favorite partnership so far at 
 
 How have I supported the larger Turing community?
 
-* Attended a mentor's party in Boulder
 * Joined lunch roulette groups
 * Participated in external outings
 * Assisted classmates with problems
+* (plan to improve on this aspect next module)
 
 ## Review
 
