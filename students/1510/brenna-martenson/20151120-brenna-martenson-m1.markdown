@@ -10,36 +10,49 @@ Programming is about more than writing code. It's about joining a community of p
 
 ##### Challenge: Scrabble
 
-Assessed By: Mike Dao
+Assessed By: **Mike Dao**  
+Challenge: **Multiplier**
 
 #### Notes:
-TBD
+* Used a setup method in testing.
+* Reached for each_with_index
+* take smaller steps, run tests more often.
 
 #### Scores:
 
-* Ruby Syntax & API:
-* Ruby Style:
-* Blocks & Enumerations:
-* Testing:
-* Workflow:
-* Collaboration:
+* Ruby Syntax & API: 3
+* Ruby Style: 3
+* Blocks & Enumerations: 3
+* Testing: 3
+* Workflow: 4
+* Collaboration: 4
+
+### Mid-Module Assessment
+
+##### Challenge: Mythical Creatures
+
+Assessed By: **Jeff Casimir**  
+
+#### Notes:
+* Used a setup method in testing.
+* Reached for each_with_index
+* take smaller steps, run tests more often.
+
+#### Scores:
+
+* Ruby Syntax & API: 4
+* Ruby Style: 3
+* Blocks & Enumerations: 3
+* Testing: 3
+* Workflow: 3
+* Collaboration: 4
 
 ### Attendance
 
 I have not been absent or late at any point this module.
+___
 
-### Work
-
-#### Headcount
-
-[GitHub URL](https://github.com/martensonbj/headcount)  
-[Original Assignment](https://github.com/turingschool/curriculum/tree/master/source/projects/headcount)
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+## Work
 
 ## Team
 
@@ -67,11 +80,25 @@ Connect related objects together through references
 Learn an agile approach to building software
 
 ##### Evaluation Comments:
-TBD
+- Finished late last night, know where we want to refactor but didn't want to break things
+- Passes all of the spec harness
+- 154 tests all pass -- FAST
+- Tests look good, make time for edge cases (you already did the hard work)
+- Excellent use of small data files for tests
+- Implementation looks strong
+- Only use @instance variables when setting, not getting
+- Very good project
 
 ##### Scores:
 
-(feedback to me)
+- Functional Expectations: 3
+- Test-Driven Development: 4
+- Encapsulation / Breaking Logic into Components: 3
+- Fundamental Ruby & Style: 4
+- Application shows strong effort towards organization, content, and refactoring : 3
+- Enumerable & Collections: 4
+- Code Sanitation: 4
+
 
 
 #### HTTP Yeah You Know Me
@@ -95,7 +122,13 @@ Introduce HTTP, the protocol that runs the web, and build a functioning web serv
 
 ##### Scores:
 
-(feedback to me)
+[Missing Score File]
+* Functionality: 2
+* Ruby Style: 3
+* Blocks & Enumerations: 3
+* Testing: 3
+* Workflow: 3
+* Collaboration: 3
 
 #### Enigma
 
