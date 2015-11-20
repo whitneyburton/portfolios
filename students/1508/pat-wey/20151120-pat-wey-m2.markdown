@@ -93,3 +93,17 @@ I helped to start Elixir club, and participated in it throughout the module.
 ## Review
 
 ### Notes
+
+* Trying to embrace social discomforts. Wants to get better at voicing opinions. 
+* Has made improvements. 
+* Try to push yourself both technically and socially. If you do then it will help you grow and those arond you
+* Felt good about group work and particularly refactoring. 
+* Helped start the elixer club.
+* Find a mentor or mentors and establish a relashonship. Pair on whatever.
+* Take new student under your wing. Be a part of your Turing community.
+*
+
+
+### Outcome
+
+* Pass
