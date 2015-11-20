@@ -143,8 +143,14 @@ I strived to be more active in the community this module.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Was able to catch up and feel like he was not confused all the time. 
+* Liked the little shop group project. Was cohesive
+* Regularly tried to help 1510
+* Study sessions with peers
+* Next module - explore other things - extra material
+* Maybe a student led session
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
