@@ -139,7 +139,7 @@ This project involved parsing/extracting data from many CSV files related to the
 ​
 ### Giving Feedback
 
-​Beth Secor
+​Beth Secor\n
 “Two of Beth's greatest gifts are her willingness to adapt to her partner, and her patience, both with her partner and the code itself.
 
 Early on I told Beth that I was a visual learner, and she knew I spent the first night drawing diagrams to help wrap my brain around the project.  A couple days later, after a 5AM inspiration caused Beth to create a new class in our project, she was prepared later that morning with a pad and pen to literally illustrate her creation for me.
@@ -148,10 +148,10 @@ Beth's also a brilliant debugger. She can look at an obscure error message, ment
 
 Beth has a true affinity for the Master branch. She is admirably devoted to it, and loves to work from it. My suggestion to her would be to...branch out a little more. It's OK to mess around with other branches on the side. Nothing long-term, it can be "Netflix and chill" temporary kind of flings. Seriously--it's encouraged. Otherwise one of these days Beth and the Master branch are going to get in a huge ruthless fight, as all couples do, and let's just hope when that day comes the Master branch forgives her.
 
-Taylor Moore
+Taylor Moore\n
 Taylor is super collaborative and comes up with creative solutions to problems, in part because he's very comfortable with less-frequently used enumerables such as 'reduce.' He always strives to create something in the most efficient way possible (which is a good instinct, but sometimes his infatuation with the best possible way distracts him from the bigger picture). He has a calming demeanor that I found easy to work with and communicates expectations well.”
 
-Marlo Major
+Marlo Major\n
 Marlo is in the Weirich posse with me and he was the first person at Turing to really make me feel at home. He has a calming and mature presence that many in the community, including myself, are drawn to. I remember being stuck on my first project and working through a debugging process with him one morning. We didn't solve the problem, but that highlighted one of my favorite things about Marlo. Multiple times he checked in on me later that day, both on Slack and in person, to see if the problem had been solved. When it finally had been, instead of just saying "Great!" he was curious -- "What was the issue? How did you fix it?" He showed a genuine interest in me and my project that I didn't expect him to have. I hope I'm able to make the future cohorts/students feel as welcomed and belonging as Marlo has done for me. He's definitely a strong asset to the community.
 
 ​
