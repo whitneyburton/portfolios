@@ -21,19 +21,20 @@ Assessed By: Jeff Casimir
 
 #### Notes:
 
-*
-*
-*
-*
+* Difficulty with method and hash usage
+* Struggles with breaking down process/steps of the problem
+* Overall difficulty implementing ideas into code
+
+
 
 #### Scores:
 
-* Ruby Syntax & API:
-* Ruby Style:
-* Blocks & Enumerations:
-* Testing:
-* Workflow:
-* Collaboration:
+* Ruby Syntax & API: 1
+* Ruby Style: 2
+* Blocks & Enumerations: 2
+* Testing: 3
+* Workflow: 2
+* Collaboration: 3
 
 
 ### Attendance
