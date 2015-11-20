@@ -9,8 +9,8 @@ I want to be a solid programmer and a great teacher, and I chose Turing because 
 I'm ambitious and competitive by nature, but this module I wanted to challenge myself in new ways. I made it a goal to stay sane in the midst of Turing's pressures, while giving myself time to explore and play with new concepts. I know that it is unrealistic to master Ruby in six weeks, so instead I've focused on mastering my tools, refining strategies for tackling project design, and working in teams.
 
 ### End of Module Assessment
-
 (Notes & scores from your assessment rubric)
+
 
 ### Attendance
 
@@ -20,7 +20,8 @@ I had no major attendance events in Module 1.
 
 The project work below reveals some consistent themes across my work work this module:
 * Comfort with test-driven development, with opportunities to incorporate more integration and feature tests
-*
+* Not allocating enough time for refactoring
+* Flickers of talent with strategy, design, and logic
 
 #### Complete Me
 
@@ -54,6 +55,7 @@ Encapsulation / Breaking Logic Into Components 3
 Enumerable & Collections 3
 
 (self assessment)
+This is far and away my most successful project. I spent the first day writing out concepts on paper and wrapping my head around what design would best serve the project, and that paid off exponentially as I moved through the project. I was able to implement each iteration smoothly because the code I built on was clean and sound. I would have liked more time to refactor.
 
 
 #### Binary Search Tree
@@ -85,6 +87,7 @@ Fundamental Ruby & Style: 2
 Enumerable & Collections: 3
 
 (self assessment)
+I ran out of time on this project, which I would have used to refactor.
 
 
 #### Knight Writer
@@ -95,15 +98,15 @@ Enumerable & Collections: 3
 (description and features)
 Build a tool that can translate english phrases to braille and vice versa. The tool is used from the command line like so:
 
-$ ruby ./lib/night_write.rb message.txt braille.txt
-Created 'braille.txt' containing 256 characters
+```$ ruby ./lib/night_write.rb message.txt braille.txt
+Created 'braille.txt' containing 256 characters```
 
 That will take the plaintext file message.txt and create a Braille simulation file braille.txt.
 
 The tool should also be able to convert that Braille simulation back to normal text:
 
-$ ruby ./lib/night_read.rb braille.txt output_message.txt
-Created 'output_message.txt' containing 256 characters.
+```$ ruby ./lib/night_read.rb braille.txt output_message.txt
+Created 'output_message.txt' containing 256 characters.```
 
 (evaluation comments)
 **Evaluator:** Horace Williams
@@ -120,6 +123,7 @@ Test-Driven Development - 2
 Breaking Logic into Components - 2
 
 (self assessment)
+This was our first major project, and I was still struggling with fundamentals that kept me from completing on time. The code I wrote seemed to do the trick, but the style would have benefitted from refactoring.
 
 
 #### Sorting Suite
@@ -139,16 +143,15 @@ Evaluator: Hector Huertas
 (evaluation scores)
 
 (self assessment)
+I struggled significantly with fundamentals on this project, and only completed the first of three exercises. Learned a ton, needed more time.
 
 
 ## Team
-
 ### Projects
 
-(Intro)
+Below is a list of all of my team projects from Module 1.
 
 #### Headcount
-
 * [https://github.com/brennanholtzclaw/headcount](GitHub URL)
 * [https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown](Original Assignment)
 
@@ -182,6 +185,7 @@ Enumerable & Collections - 2
 Code Sanitation - 3
 
 (self assessment)
+I was pleased with the work we did on Headcount, although we needed more time to finish iteration 3 and refactor. I was most comfortable on first drafts with if statements, and am aware of dozens of clocks that I could refactor with much cleaner enumerables.
 
 #### HTTP Yeah You Know Me
 
@@ -211,8 +215,6 @@ Fundamental Ruby & Style - 3
 Test-Driven Development - 3
 Breaking Logic into Components - 3
 
-(self assessment)
-
 (feedback to me)
 
 
@@ -225,10 +227,10 @@ Feedback to peers in the 1510 cohort:
 ### Being a Community Member
 Feedback from peers in the 1510 cohort:
 * (from [https://github.com/brantwellman](Brant Wellman)) "Beth has been a great person to bounce ideas and and thoughts off. She has a quiet confidence that isn't always obvious, but I think that it would benefit herself and her pairing partners in the future if she shared and displayed that confidence even more. Early in the module, I gave Beth advice to "give in to the tidal-wave" that is the Turing experience. Trying to slow down and absorb all of the material that gets thrown at us is impossible and that it is best to give in and just try to keep up with the experience and absorb as much as you can along the way. Beth is finishing Module 1 a much less reserved person than when she first started, and I think that continuing to make that change will benefit not only herself and increase what she is able to gain from the Turing experience, but will also improve the experience of those around her. I look forward to pairing with Beth in the future."
+* (to [https://github.com/brennanholtzclaw](Brennan Holtzclaw)) I slowly got to know Beth throughout the module, and I’m glad that I was able to peel back the sometimes mysterious layers. || Beth is probably the hardest worker I’ve paired with. She not only pushes herself to make sure the job get’s done, but she makes sure she understands what, why, and how it’s getting done as well. || During our final project she made sure that philosophy bled over to me, too. If ever she thought I didn’t 100% understand what was happening she would stop and ask questions to be sure I was clear. This may have slowed us down and threatened her success on the project, but she was steadfast in making sure we were both learning, not just looking out for her own grade. || Her motivation helped to motivate me and continually helps to motivate the people around her. I think it will be a huge asset to the greater Turing community as she moves through the program, and even if we end up in different cohorts, I hope to work with her again soon.)
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
+I focused on helping in small ways through the module: listening to peers who needed an ear, making myself available to work with others. I spent a good deal of effort completing the weekly surveys. In the next module, I would like to step up as leader in other areas and more actively seek out pairing opportunities.
 
 ## Review
 
