@@ -130,8 +130,15 @@ I attended Two Alarm Tuesday's almsot every week of the module. Also, I regularl
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Worked with people from all modules this term.
+* No reservations going into Mod 3.
+* Pushing self to speak up in groups and cohort as a whole. 
+* Gettin someone to be a leader within group project has been a struggle.
+* Stay communicative and continue to actively try to push group towards goals. 
+* Paired with Mod 1 students.
+* Very committed to the community - dishwasher!!!! You're awesome.
+* Push yourself to speak up in larger group setting.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
