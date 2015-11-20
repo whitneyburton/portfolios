@@ -1,11 +1,8 @@
 # Dan Winter - Module 1 Portfolio
 
-
 ## Individual
 
-
 ### Your Mission
-
 
 I came to Turing to make a difference in my life and in my community.
 
@@ -311,9 +308,24 @@ This doesn't quite fit into this module but I'm volunteering for the Girl Develo
 
 ##Review
 
-###Notes
+### Notes
 
+* Strong assessment
+* Consistently strong individual projects -- able to deliver
+results with extensive feature completion as well as solid quality and testing
+* Group work also strong; not quite as dominant but still very solid
+* Your enthusiasm and confidence seems to raise the performance
+of your peers when you are working with them
+* We appreciate that you don't intimidate others even when you are
+grasping concepts quickly
+* You seem to have good focus and ability to stay on task
 
+### Outcome
 
-###Outcome
+* End of Module Assessment: 4
+* Individual Work and Projects: 4
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
 
+ADVANCE
