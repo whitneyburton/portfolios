@@ -194,9 +194,23 @@ No absences. Twice I arrived a couple minutes late.
 
 
 ## Review
-​
+
 ### Notes
-​
-​
-​
+
+* Solid assessment
+* Individual projects consistently strong
+* Group projects showing similar trajectory
+* Your consistency over the work is appreciated
+* We feel you have a lot of potential to contribute to the community
+and would love to see you start spreading this around to 1511
+when they start
+
 ### Outcome
+
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+ADVANCE
