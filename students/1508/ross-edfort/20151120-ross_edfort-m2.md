@@ -156,8 +156,14 @@ in the Big Workspace
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Continued working on Ruby while getting into Rails.
+* Did better at remaining active in the community.
+* Started getting into meetups. 
+* Challenge yourself and those around you to take on extra challenges. 
+* Coninue to push yourself and others
+* Coninue to be, and try to be inclusive within your cohort.
+* Be more attentive to group members going forward. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
