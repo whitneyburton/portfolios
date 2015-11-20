@@ -35,6 +35,40 @@ __Scores:__
 *Collaboration*
 * 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
 
+### Retake
+
+__Notes:__
+
+* Started off a bit nervous, but was fine once we got going
+* Tests were fine. Tested one small piece at a time. Wanted to jump ahead
+* Ultimately had a good understanding of blocks and Enumerables.
+* Talked about how the solution could be refactored. In the process did somethings that were not needed.
+
+__Scores:__
+
+*Ruby Syntax & API*
+
+* 3: Developer is able to comfortably implement solutions in Ruby
+
+*Ruby Style*
+
+* 3: Developer writes code that is easy to follow
+
+*Blocks & Enumerations*
+
+* 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+
+*Testing*
+
+* 3: Developer uses tests to guide development in small chunks
+
+*Workflow*
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+*Collaboration*
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 
 
