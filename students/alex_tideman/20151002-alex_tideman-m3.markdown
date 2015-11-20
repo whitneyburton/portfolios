@@ -16,12 +16,12 @@ absence on Friday, September 4th.
 
 I completed the following individual work this module:
 
-#### Effortful
+#### Effortful 
 
 GitHub: http://www.github.com/Alex-Tideman/effortful
 Production: https://be-effortful.herokuapp.com
 
-My personal project was a Rails app that provides those in need a chance to perform position actions in the community and receive non-monetary rewards from sponsors. It utilizes Google Omniauth, Google Javascript/Maps/Directions API and What3Words API to create user-specific routes without addresses.
+My personal project was a Rails app that provides those in need a chance to perform position actions in the community and receive non-monetary rewards from sponsors. It utilizes Google Omniauth, Google Javascript/Maps/Directions API and What3Words API to create user-specific routes without addresses. 
 
 * Completion: 4
 * Organization: 3
