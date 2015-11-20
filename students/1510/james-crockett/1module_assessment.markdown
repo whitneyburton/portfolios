@@ -68,7 +68,7 @@ Enigma was my favorite project this module. The primary goal was to get more com
 * [Github URL](http://github.com/jecrockett/enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-​##### Notes:
+##### Notes:
 * File IO extension
 * Full Map extension
 
@@ -104,7 +104,7 @@ This project involved building a basic web server that can receive user requests
 * Breaking Logic into Components: 3
 ​
 #### Headcount
-Pair:  Beth Secor
+Pair: Beth Secor
 Assessor: Andrew
 ​
 This project involved parsing/extracting data from many CSV files related to the Annie E. Casey Foundation. We extracted and formatted that data into a searchable structure, organized it by the type of data it represented (enrollments, statewide test results, and economic profiles) and analyzed the differences in those numbers across nearly 200 school districts.
