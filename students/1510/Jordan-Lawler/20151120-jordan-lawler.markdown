@@ -1,5 +1,7 @@
 #Jordan Lawler - M1 Portfolio
 
+
+
 ##Individual
 
 ###Your Mission
@@ -23,11 +25,11 @@ for different cases
 
 ###Scores
 
-Ruby Syntax & API: 3
-Ruby Style: 3
-Testing: 3
-Workflow: 3
-Collaboration: 3
+- Ruby Syntax & API: 3
+- Ruby Style: 3
+- Testing: 3
+- Workflow: 3
+- Collaboration: 3
 
 
 ##Mid-Module Diagnostic
@@ -47,11 +49,11 @@ applications or screen switching
 
 ###Scores
 
-Ruby Syntax & API: 3
-Ruby Style: 2
-Testing: 3
-Workflow: 3
-Collaboration: 3
+- Ruby Syntax & API: 3
+- Ruby Style: 2
+- Testing: 3
+- Workflow: 3
+- Collaboration: 3
 
 
 ###Attendance
@@ -77,12 +79,12 @@ Assessed By: Jeff
 
 #####Scores:
 
-Overall Functionality: 3
-Test-Driven Development: 3
-Encapsulation / Breaking Logic into Components: 4
-Fundamental Ruby & Style: 3
-Enumerable & Collections: 3
-Code Sanitation: 4
+- Overall Functionality: 3
+- Test-Driven Development: 3
+- Encapsulation / Breaking Logic into Components: 4
+- Fundamental Ruby & Style: 3
+- Enumerable & Collections: 3
+- Code Sanitation: 4
 
 #####Notes:
 
@@ -105,10 +107,10 @@ Assessed By: Mike
 
 #####Scores:
 
-Overall Functionality: 3
-Fundamental Ruby & Style: 3
-Test-Driven Development: 2
-Breaking Logic into Components: 3
+- Overall Functionality: 3
+- Fundamental Ruby & Style: 3
+- Test-Driven Development: 2
+- Breaking Logic into Components: 3
 
 #####Notes:
 
@@ -130,10 +132,10 @@ Assessed By: Mike
 
 #####Scores:
 
-Overall Functionality: 4
-Fundamental Ruby & Style: 3
-TDD: 3
-Breaking Logic Into Components: 3
+- Overall Functionality: 4
+- Fundamental Ruby & Style: 3
+- TDD: 3
+- Breaking Logic Into Components: 3
 
 #####Notes:
 
@@ -152,11 +154,11 @@ Assessed By: Mike
 
 #####Scores:
 
-Overall Functionality: 4
-Fundamental Ruby & Style: 3
-Test Driven Development: 3
-Breaking Logic into Components: 3
-Looping and Recursion: 3
+- Overall Functionality: 4
+- Fundamental Ruby & Style: 3
+- Test Driven Development: 3
+- Breaking Logic into Components: 3
+- Looping and Recursion: 3
 
 #####Notes:
 
