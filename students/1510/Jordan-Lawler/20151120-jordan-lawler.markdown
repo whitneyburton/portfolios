@@ -1,6 +1,6 @@
 #Jordan Lawler - M1 Portfolio
 
-![Click](https://imgflip.com/i/ughzq)
+![Click](https://i.imgflip.com/ughzq.jpg)
 
 ##Individual
 
