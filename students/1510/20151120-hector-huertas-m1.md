@@ -253,8 +253,21 @@ to it by reviewing some of the coolest features of the language.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* solid assessment
+* individual projects pretty solid -- some exceptional work
+and some that is just OK -- strong 3
+* Group work is somewhat more mixed -- headcount seemed to struggle
+to get on the same page
+* Glad to hear that you seem to be learning good processes for
+handling this kind of communication
+* Appreciate your enthusiasm and engagement in classes especially
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 3, pending passing the headcount specs
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+ADVANCE
