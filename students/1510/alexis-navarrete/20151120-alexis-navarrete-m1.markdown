@@ -132,7 +132,9 @@ fluid pace
 * **Fundamental Ruby & Style** 3
 * **Enumerable & Collections** 3
 * **Sanitation** 3
+
 ### Giving Feedback
+
 ## Community
 
 Hector Huertas Baeza: "Besides being the only person I speak Spanish with, Hector is an excellent person when it comes to his work ethic. I remember that he was going through some housing issues as well and still managed to balance it all out."
@@ -142,19 +144,34 @@ Toni Rib: "Toni is by far one of the dopest people I have ever met! I think that
 Admir Draganovic: "Although we ended up not working together for our Headcount project, I'm glad it happened. Our  conversations and situation taught me how there's still a lot to learn in programming. It showed my weaknesses and where I need to improve on for my future work."  
 
 ### Being a Community Member
+
 "Alex brought excitement and enthusiasm to our project. As I stared at our assignment and felt a sinking feeling at my ability to comprehend the task at hand, Alex was sure we’d get there. When I got lost in the project and I couldn't figure out how to escape the hole I had for myself, Alex was there cheering me on. Despite the late refocus on the project and the accompanying failing grade, the progress that was made was significantly the result of Alex’s infectious enthusiasm. To offer one point of criticism, I would suggest that if Alex learns to channel his enthusiasm toward the next most immediate task at hand he will grow into a formidable developer. I look forward to watching that growth happen."-- Lenny Myerson
 
  "Alex is very easy to work with. He listens carefully, thinks, and give his opinion. I like that he doesn't only want the code to work, but also understand why it works. He could use some more practice with the keyboard."-- Hector Huertas
 
 ### Playing a Part
+
 I believe the biggest way I have contributed to the community this module was by volunteering to talk about my experience in Turing to the high school students. Being in that event was pretty cool because they weren't that much younger than me and it reminded me from when I was in high school. I'm glad I was part of the event because I got to see the faces of how interested some of the kids were. I even got to talk to some of them in private while I was upstairs in the lobby which got me to really get my message across.
 
 ## Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Assessment was not adequate -- repeat from this
+* Overall concerned with organization and project process
+* Seems to have decent control of code from syntax
+and mechanics perspective
+* Alex would like to have more 1-on-1 time with staff
+* Keep finding ways to fill gaps and work on weaknesses
+* Need to remove out-of-school distractions and get
+set up for better success next time around
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 2
+* Individual Work and Projects: 2
+* Group Work and Projects: 2
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+REPEAT
