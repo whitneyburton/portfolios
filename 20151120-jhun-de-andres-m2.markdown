@@ -74,9 +74,14 @@ Jhun, Ryan, Charissa:
 
 ### Feedback to Me
 
-In the previous module feedback from my instructor was to try to be "Jhun" focused. I tried to make it a point to make sure I spending enough time coding for myself and my betterment.
+Jhun was a joy to work with. His sense of humor and awesome personality made working on our project really fun. He has one of the best work ethics of any person that I have worked with and it shows in the work he produced. I would definitely work with Jhun on any project in the future.
+-Ryan Johnson
 
-I haven't seen any of my feedback from the application. The closest I go to that was yesterday. But it still says that I have to approve 3 more request. Nothing has gone through since yesterday.
+Working with Jhun was an absolute pleasure. His insistence on slowing things down to make sure we understood the code we were implementing really helped me learn on this project.  He is a hard worker and an awesome person, I would gladly work with him again.
+
+-Edgar Duran
+
+
 ## Community
 
 ### Giving Feedback
