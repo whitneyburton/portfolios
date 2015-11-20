@@ -3,21 +3,25 @@
 ## Individual
 ​
 ### Your Mission
+
 My mission coming to Turing is to pivot. After exhausting myself​ working in customer service for a tech company, I found a passion for programming during part-time HTML/CSS classes and decided I wanted to shift course. Long-term, my mission is to find a company much like the one I came from, with a position that let's me solve problems and work on cool projects every day. Short-term, I want to further immerse myself in the Turing community now that I feel more comfortable here. I'll never have another opportunity to spend so much time simply practicing and getting good at something, and I need to do a better job maximizing this experience.
 ​
 ### Assessments
 
 ####End of Module Assessment
+
 Challenge: Word/Letter Multiplier
 Assessor: Horace
 ​
 ##### Notes:
+
 * Doing well overall
 * TDD workflow seems good
 * Comfortable with enumerators and blocks
 * Keep breaking things into methods
 ​
 ##### Scores:
+
 * Ruby Syntax & API: 3
 * Ruby Style: 3
 * Blocks & Enumerations: 3
@@ -26,10 +30,12 @@ Assessor: Horace
 * Collaboration: 3
 ​
 #### Mid-Module Assessment
+
 Challenge: Medusa -- Mythical Creatures Exercise
 Assessor: Jeff
 
 ##### Notes:
+
 * Good job diving in to the problem
 * Good ability to create methods, deal with arguments
 * Good understanding of objects, flow, etc
@@ -40,6 +46,7 @@ Assessor: Jeff
 ### Projects
 ​
 #### JungleBeat
+
 Assessor: Mike
 
 The JungleBeat project explored the concept of the linked list data structure. It involved stringing several 'beats' together and manipulating the list to delete, inject, search, etc. the data structure.
@@ -48,12 +55,14 @@ The JungleBeat project explored the concept of the linked list data structure. I
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 ​
 ##### Notes:
+
 * 46 Assertions
 * Some repetition of code that can be pulled out
 * Some minor opportunities for refactoring to make code better for general use
 * Pull out some of the complex conditionals into methods to improve readability
 ​
 ##### Scores:
+
 * Overall Functionality: 4
 * Fundamental Ruby & Style: 3
 * Test Driven Development: 3
@@ -61,6 +70,7 @@ The JungleBeat project explored the concept of the linked list data structure. I
 * Looping or Recursion: 3
 ​
 #### Enigma
+
 ​Assessor: Mike
 
 Enigma was my favorite project this module. The primary goal was to get more comfortable breaking up a program into logical components. It involved creating a program that would encrypt a string using the enigma encryption method used by the Germans in WW2. The program can encrypt the string and provide a decryption key, decrypt the string with the key, and can even "crack" the key if the encrypted message ends with "..end..".
@@ -69,10 +79,12 @@ Enigma was my favorite project this module. The primary goal was to get more com
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
 ##### Notes:
+
 * File IO extension
 * Full Map extension
 
 ##### Scores:
+
 * Overall Functionality: 4
 * Fundamental Ruby & Style: 3
 * TDD: 3
