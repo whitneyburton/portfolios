@@ -8,7 +8,7 @@ My mission coming to Turing is to pivot. After exhausting myself​ working in c
 ​
 ### Assessments
 
-####End of Module Assessment
+#### End of Module Assessment
 
 Challenge: Word/Letter Multiplier
 Assessor: Horace
@@ -44,9 +44,9 @@ Assessor: Jeff
 * Good testing style/flow
 * Good syntax knowledge/usage
 
-​
+
 ### Projects
-​
+
 #### JungleBeat
 
 Assessor: Mike
@@ -95,7 +95,7 @@ Enigma was my favorite project this module. The primary goal was to get more com
 * TDD: 3
 * Breaking Logic Into Components: 3
 
-​
+
 ## Team
 ​
 ### Projects
