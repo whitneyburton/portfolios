@@ -143,7 +143,7 @@ ___
 
 ###Community
 
-![Click](https://i.imgflip.com/ughzq.jpg)
+![Click](https://i.imgflip.com/ughzq.jpg)  
 
 ####Giving Feedback
 
