@@ -217,14 +217,14 @@ Breaking Logic into Components - 3
 
 
 ## Community
-
 ### Giving Feedback
-
-(feedback from me)
+Feedback to peers in the 1510 cohort:
+* (to [https://github.com/brantwellman](Brant Wellman)) "Brant has been a pleasure to work alongside this module. He has demonstrated a clear commitment to mastering the tools and strategies we are learning at Turing, both by putting in the time to be successful and by being present and attentive when he does. || Brant has also shown some tangible leadership skills, stepping up in both discreet and visible ways to offer support to other students, escalate issues to our instructors, and work with others to find solutions to common problems. Brant is a clear communicator as well. In spite of a series of stressful and challenging projects, Brant always communicates clearly and respectfully to me when we have worked on projects together. When I worked with him on an exercise in class, he shared how he was thinking about the problem, his preferred strategies for tackling it, and expressed his willingness to find a strategy that worked for both of us. || These strengths as a whole make Brant stand out as a leader and confidant to many in our cohort. As others seek him out for guidance and encouragement, Brant should focus on developing skills to keep conversations constructive and help develop the resilience and determination of those who engage him."
+* (to [https://github.com/brennanholtzclaw](Brennan Holtzclaw)) Brennan has been an absolute delight to work with on the Headcount project. He brought an upbeat and determined attitude to our project, showed a commitment to seeing the project through, and communicated consistently well from our first conversation around expectations for working together through to preparing for our assessment the day we turned in our project. I was so impressed by Brennan's commitment the final day of the project. Although Brennan had made a decision to repeat this module and was under no obligation to continue working on Headcount with me, he told me "I'm here to see this through and whenever you're working on it, I'm working on it." I couldn't imagine a more supportive or borderline-heroic statement from a project partner in that situation. Though Brennan has chosen to repeat the module, I have ever confidence in his potential to become an excellent developer. In our work together, he's demonstrated focus, commitment to learning, and an attentiveness that I've seen lead to huge gains in aptitude just in the week we worked together. I hope I have a chance to work with him again.
 
 ### Being a Community Member
-
-(feedback to me)
+Feedback from peers in the 1510 cohort:
+* (from [https://github.com/brantwellman](Brant Wellman)) "Beth has been a great person to bounce ideas and and thoughts off. She has a quiet confidence that isn't always obvious, but I think that it would benefit herself and her pairing partners in the future if she shared and displayed that confidence even more. Early in the module, I gave Beth advice to "give in to the tidal-wave" that is the Turing experience. Trying to slow down and absorb all of the material that gets thrown at us is impossible and that it is best to give in and just try to keep up with the experience and absorb as much as you can along the way. Beth is finishing Module 1 a much less reserved person than when she first started, and I think that continuing to make that change will benefit not only herself and increase what she is able to gain from the Turing experience, but will also improve the experience of those around her. I look forward to pairing with Beth in the future."
 
 ### Playing a Part
 
