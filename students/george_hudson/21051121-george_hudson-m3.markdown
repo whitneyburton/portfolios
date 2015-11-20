@@ -180,3 +180,19 @@ aware of.
 * I voluntarily gave 2 extra lightning talks, though one of them was only a pitch
   to take my Swift class! Though I feel my Crucial Conversations talk was less
   organized, I enjoyed sharing something that meant a great deal to me. 
+
+## Notes
+
+A: End-of-Module Assessment: 4
+B: Individual Work & Projects: 4 
+C: Group Work & Projects: 3
+D: Community Participation: 4+ 
+E: Peer & Instructor Feedback: 3
+
+Pick one thing to do and commit to it rather than doing four things.  
+
+Consider writing code for the next person.
+
+## Outcome
+
+Passed
