@@ -118,6 +118,16 @@ This module I made an asserted effort to help out my peers more. I was always wi
 
 ### Notes
 
+* Tried to focus on collaboration skills - Feels better about it
+* Focus on communication
+* Spent time exploring other things on his own. Try to share that with your peers in yoru cohort.
+* Contact Manager - polymorphism, omniauth, RSpec
+* Continue helping others with their issues. 
+* Bring others in with you in your exploration of new material
+* Find a mentor!
+
 
 
 ### Outcome
+
+Pass
