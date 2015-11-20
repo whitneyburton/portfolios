@@ -93,8 +93,6 @@ Jhun had such a positive energy during our Traffic Spy project, he was instrumen
 -Shannon Paige
 
 
-
-
 ## Community
 
 ### Giving Feedback
@@ -106,3 +104,4 @@ According to the Feedback application:
 ### Playing a Part
 
 * I photographed and edited the 1510 class photographs.
+* Helped Module 1 students with their Linked-List project (Admir, Alex)
