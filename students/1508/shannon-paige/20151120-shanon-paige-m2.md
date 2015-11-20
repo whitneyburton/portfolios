@@ -113,8 +113,15 @@ I also set up the guest speaker on November 13 - Kagan Sound and his wooden puzz
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Skill level is at a place she is happy with. 
+* Feels 100% more comfortable with Rails than when first introduced to it
+* Very solid final assessment. 
+* Solid little shop project. 
+* Most challenging part of working with others has been not working alone. Understands its something that she needs to focus on. 
+* Going to try to focus on becoming more confident with code skills while being observed. 
+* Great work fostering your community. 
+* Next modules focus will be learning everything possible. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
