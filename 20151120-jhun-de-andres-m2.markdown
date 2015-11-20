@@ -1,0 +1,90 @@
+# Jhun de Andres - M2 Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+Coming into this module I didn't really know what to expect. I knew that we'd be doing rails and online applications which was super exciting but I knew that with the prework I'd need to really emphasize personal study. So I would look over the tutorials and make sure I understood the muscle memory involved in rails applications.
+
+### End of Module Assessment
+
+Instructor: Andrew
+challenge: user
+notes: Great work overall. Some shortcomings at first with testing but was able to generate all the content himself. Developer is very comfortable with the CLI and was impressive with workflow. Was a little confused about implementation of iterating through an associated collection in the view but was able to collaborate and figure everything out. Great work.
+
+1. Analytic/Algorithmic Thinking - 3
+
+2. Ruby Syntax & Standard Library - 3
+
+3. Rails Syntax & API - 3
+
+4. Rails Style - 4
+
+5. Testing - 3
+
+6. Collaboration - 4
+
+### Attendance
+
+I did not miss a day.
+
+## Team
+
+### Projects
+
+I participated in the following team projects:
+
+https://github.com/turingschool/feedback
+
+#### TrafficSpy
+
+* [GitHub URL](https://github.com/edgarduran/traffic-spy-skeletont)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown)
+
+This was our first big projected that put an emphasis on Active record and where code goes in a CRUD application.
+
+rubric:
+  Functional Expectations: 3
+  TestDriven Development: 3.5
+  Encapsulation / Components: 2.5
+  Fundamental Ruby & Style: 2.5
+  Sinatra / Web and Business Logic: 3
+  View Layer: 3
+
+#### Little Shop of Orders
+
+* [GitHub URL](https://github.com/jcasimir/robodoku)
+* [Original Assignment](http://github.com/turingschool/challenges/robodoku.markdown)
+
+This was our final rails project. Though our scores aren't the best I feel good about my code contribution. This was the first project where I didnt feel like I had no idea what was going. I implimented my first extension, and I felt comfortable doing work alone. It felt good knowing the reps I was putting in where starting to pay off.
+
+Jhun, Ryan, Charissa:
+
+  instructor_evaluation:
+  notes: "bugs / inconsistent behavior through user and admin experience, check duplicated headers/footers, like to see PORO to handle order creation (push logic down the stack), remove admin logic from regular controllers, mostly good test coverage -- a little lite on model tests, check robustness of tests to ensure tests catch bugs/missing features"
+  rubric:
+    Feature Completeness: 1.5
+    Views: 3
+    Controllers: 3
+    Models: 3
+    Testing: 3
+    Usability: 1.5
+    Workflow: 4
+
+
+### Feedback to Me
+
+In the previous module feedback from my instructor was to try to be "Jhun" focused. I tried to make it a point to make sure I spending enough time coding for myself and my betterment.
+
+I haven't seen any of my feedback from the application. The closest I go to that was yesterday. But it still says that I have to approve 3 more request. Nothing has gone through since yesterday.
+## Community
+
+### Giving Feedback
+
+According to the Feedback application:
+
+* I delivered 100% of the requested feedback
+
+### Playing a Part
+
+* I photographed and edited the 1510 class photographs.
