@@ -143,6 +143,8 @@ ___
 
 ###Community
 
+![Click](https://i.imgflip.com/ughzq.jpg
+
 ####Giving Feedback
 
 *"Jordan is a visionary that conceptualizes relationships/implementation at an alarmingly fast rate. Jordan synthesizes information and is able to architect intelligent design decisions based on future implications. I’m blown away by his abilities. In addition, he has sacrificed a significant amount of his time during headcount and other projects to help myself and other groups. He isn’t content until everyone can explain what he’s taught them in their own words. I’m convinced that law of diminishing returns doesn’t apply to Jordan, because he is equally pleasant and adept 10 hours into programming as he is in the first."*
