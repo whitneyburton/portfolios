@@ -39,7 +39,8 @@ Below are the projects that I completed for module 2.
 
 In this project, I felt like Ryan and I worked really well together to build a Sinatra app that we were both proud of.
 
-Assessed By Andrew
+Assessed By Andrew  
+
 Teammate: Ryan Johnson  
 
 Comments:
