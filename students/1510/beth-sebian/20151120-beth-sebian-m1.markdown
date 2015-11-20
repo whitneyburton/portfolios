@@ -67,16 +67,15 @@ Build a binary search tree which can:
 * implement a sort that outputs an array of the values in sorted order (by traversing the tree, not using Ruby's sort method)
 
 **Evaluator:** Mike Dao  
-24 tests, well tested, could use some edge cases, sad path tests.  
-Some commented out tests and comments in code.  
-some methods were pretty long and could use some refactoring, breaking code out into separate methods.  
-BST was done iteratively.  
+* 24 tests, well tested, could use some edge cases, sad path tests.  
+* Some commented out tests and comments in code.  
+* some methods were pretty long and could use some refactoring, breaking code out into separate methods.  * BST was done iteratively.  
 
-** Functional Expectations** - 3  
-** Test-Driven Development** - 3  
-** Encapsulation / Breaking Logic into Components** - 3  
-** Fundamental Ruby & Style** - 2  
-** Enumerable & Collections** - 3  
+**Functional Expectations** - 3  
+**Test-Driven Development** - 3  
+**Encapsulation / Breaking Logic into Components** - 3  
+**Fundamental Ruby & Style** - 2  
+**Enumerable & Collections** - 3  
 
 I ran out of time on this project, which I would have used to refactor.
 
@@ -178,7 +177,7 @@ Build a web application capable of:
 * Generating a response
 * Sending the response to the user
 
-[Aaron Greenspan](https://github.com/afg419) & Beth Sebian
+**Team:** [Aaron Greenspan](https://github.com/afg419) & Beth Sebian
 
 **Evaluator:** Mike Dao  
 * 44 tests, all passing  
