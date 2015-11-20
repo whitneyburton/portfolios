@@ -146,8 +146,13 @@ Turing has so far been the best decision I've made in my life. The faculty striv
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Main goal was to maintain a healthy lifestyle.
+* Felt like her learned an amazing amount
+* Possibly could have stayed longer after class, but might not have been as productive
+* Group dynamics in traffic spy were diffucult. 
+* Next module wants to work on collaborating with other and bringing them along with side projects. 
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+pass
