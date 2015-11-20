@@ -216,8 +216,26 @@ I focused on helping in small ways through the module: listening to peers who ne
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Strong end of module assessment
+* Appreciate your drawing self-diagnostic
+conclusions from your work over the module
+* Struggles with projects early in the module, but we saw
+good progress into the later projects
+* Group work produced solid results, although beth had
+some reservations about her involvement / contributions
+* One thought - try to impose some more rigid structure
+around group / pair project workflows (alternating pomodoros,
+etc)
+* Group work is OK pending headcount completion
+* Appreciate your wit and ability to activate the rest of
+the cohort
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+ADVANCE pending headcount completion
