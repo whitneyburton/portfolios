@@ -1,4 +1,4 @@
-# Mimi Schatz - Module: 2 Portfolio
+# Mimi Schatz - Module: 3 Portfolio
 
 ## Individual
 
