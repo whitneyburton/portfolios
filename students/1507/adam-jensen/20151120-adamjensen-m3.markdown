@@ -1,13 +1,13 @@
-Adam Jensen - M3 
+Adam Jensen - M3
 
 
 ## Individual
 
 ### Your Mission
 
-I was well aware that M3 is the module that students learn about API's. I've always liked API's. I worked customer service and helped people troubleshoot and I always thought it would be amazing to be the developer that was the one using the API's. 
+I was well aware that M3 is the module that students learn about API's. I've always liked API's. I worked customer service and helped people troubleshoot and I always thought it would be amazing to be the developer that was the one using the API's.
 
-In short, the biggest goal of this module was to go beyond CRUD apps. The value is of twitter is not CRUD'ing "Tweets", its users that use the service and the data flowing between the users. 
+In short, the biggest goal of this module was to go beyond CRUD apps. The value is of twitter is not CRUD'ing "Tweets", its users that use the service and the data flowing between the users.
 
 My goal was to learn about API's and how to build bigger and better apps. Really, I thought that this would be something that I would shine at.
 
@@ -67,7 +67,7 @@ Organization: 3
 Progress: 3
 TDD: 3
 Code Quality: 3
-UX: 3 
+UX: 3
 
 (feedback to me)
 
@@ -101,7 +101,7 @@ Code Quality: 3: Project demonstrates solid code quality and MVC principles.
 * API Design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
 * Queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
-#### Self-Directed - Solo 
+#### Self-Directed - Solo
 
 (Description)
 Use the Spotify API and Echo Nest API to analyze the happiness level of user's tracks.
@@ -145,5 +145,8 @@ Good: I felt totally confident that you would get all of your work completed on 
 
 ### Outcome
 
-( Leave blanks for reviewers )
-
+* A: End-of-Module Assessment: 2
+* B: Individual Work & Projects: 2
+* C: Group Work & Projects: 3
+* D: Community Participation: 2
+* E: Peer & Instructor Feedback: 3

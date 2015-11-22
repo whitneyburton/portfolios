@@ -42,16 +42,16 @@ Good code quality and use of POROs
 
 #### Scores
 
-* Completion:              2: 
-* Organization:            4: 
-* Progress:                3: 
-* Test-Driven Development: 2: 
-* Code Quality:            3: 
-* User Experience:         2: 
+* Completion:              2:
+* Organization:            4:
+* Progress:                3:
+* Test-Driven Development: 2:
+* Code Quality:            3:
+* User Experience:         2:
 
 ### Individual
 
-I participated in the following individual projects: 
+I participated in the following individual projects:
 
 #### API-Curious
 
@@ -125,8 +125,12 @@ newer students.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* A: End-of-Module Assessment: 2
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 3
+* E: Peer & Instructor Feedback: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Repeat

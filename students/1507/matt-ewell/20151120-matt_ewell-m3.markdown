@@ -33,7 +33,7 @@ n/a for module 3
 
 #### Description
 
-Use a given code base from Little Shop of Orders / Dinner Dash and expand it to a multi-tenant application. 
+Use a given code base from Little Shop of Orders / Dinner Dash and expand it to a multi-tenant application.
 
 #### Team Members
 
@@ -170,8 +170,8 @@ My user is a professional who is very good at her job when she shows up to it. T
 
 #### Assessment Notes
 
-* Impressive solution of tough problems. 
-* Calculated nearby meetings by hand. 
+* Impressive solution of tough problems.
+* Calculated nearby meetings by hand.
 * Worked with times by converting them into ranges.
 
 #### Assessment Scores:
@@ -207,7 +207,7 @@ During the module 2 portfolio review it was suggested to me to list Exercism. I'
 * Shoutout channel/Possee post - plato721 [3:42 PM] @rasensio:  for the mother of all sql queries
 * Provided feedback to Bret for his portfolio
 * Gave feedback to Russell for his portfolio
-* Provided to Cole for her portfolio 
+* Provided to Cole for her portfolio
 
 ### Getting Feedback
 
@@ -243,4 +243,8 @@ Its been a long time for me too.  I’m glad Matt and I had this conversation.  
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: 4
+* C: Group Work & Projects: 3
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3

@@ -112,4 +112,12 @@ Scores:
 
 ## Review
 
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: 4
+* C: Group Work & Projects: 3
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
+
 ### Outcome
+
+Pass
