@@ -1,11 +1,10 @@
 # Jeff Ruane - M4 Portfolio
 
-Coming into Module 4, I'm super excited to be learning JavaScript, as well as web scalability. I'm also super excited and nervous about looking for jobs, and to be finishing up soon. It's a strange feeling, but I think one important thing to focus on this module is ignoring that feeling, and just focusing on learning as much as I can while I'm here. I also want to focus on trying to maybe put myself out there a little bit more for the lower modules. I'm always happy to help, but I don't think any of them know that.
-
 ## Individual
 
 ### Your Mission
 
+Coming into Module 4, I'm super excited to be learning JavaScript, as well as web scalability. I'm also super excited and nervous about looking for jobs, and to be finishing up soon. It's a strange feeling, but I think one important thing to focus on this module is ignoring that feeling, and just focusing on learning as much as I can while I'm here. I also want to focus on trying to maybe put myself out there a little bit more for the lower modules. I'm always happy to help, but I don't think any of them know that.
 
 ### Work
 
