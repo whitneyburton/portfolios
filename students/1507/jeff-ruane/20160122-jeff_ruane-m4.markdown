@@ -15,7 +15,7 @@ Coming into Module 4, I'm super excited to be learning JavaScript, as well as we
 [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 [Heroku Deployment](https://jbrr-ideabox2.herokuapp.com)
 
-In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API.
+In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API. I was evaluated by Lovisa and recieved a total score of 148/150.
 
 ## Team
 
@@ -27,7 +27,7 @@ In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API.
 [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 [GitHub Pages Deployment](https://jbrr.github.io/ski-free)
 
-In this project, I worked with Rose Kohn to make a JavaScript implementation of the classic Microsoft game SkiFree.ß
+In this project, I worked with Rose Kohn to make a JavaScript implementation of the classic Microsoft game SkiFree. We were evaluated by Meeka and recieved a total scores of 340/300.
 
 ## Community
 
