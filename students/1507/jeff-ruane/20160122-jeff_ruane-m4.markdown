@@ -21,7 +21,13 @@ In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API.
 
 ### Projects
 
+#### SkiFree (Game Time)
 
+[GitHub URL](https://github.com/jbrr/ski-free)
+[Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+[GitHub Pages Deployment](https://jbrr.github.io/ski-free)
+
+In this project, I worked with Rose Kohn to make a JavaScript implementation of the classic Microsoft game SkiFree.ß
 
 ## Community
 
@@ -33,7 +39,7 @@ In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API.
 
 * I was voted to Student Advisory Board by my peers this module.
 * I volunteered to be a part of the "buddy" system with a module 1 student, Adam Hundley, this module.
-*
+
 ## Review
 
 ### Notes
