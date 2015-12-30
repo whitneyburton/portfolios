@@ -16,6 +16,21 @@ Coming into Module 4, I'm super excited to be learning JavaScript, as well as we
 
 In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API. I was evaluated by Lovisa and recieved a total score of 148/150.
 
+* Data Model: 5
+* Viewing Ideas: 9
+* Adding a New Idea: 15
+* Deleting an Existing Idea: 15
+* Change the Quality of an Idea: 15
+* Editing an Existing Idea: 20
+* Idea Filtering and Searching: 15
+* Specification Adherence: 10
+* User Interface: 4
+* Testing: 6
+* Ruby and Rails Quality: 8
+* JavaScript Style: 8
+* Workflow: 8
+* Inline Editing (Extension): 10
+
 ## Team
 
 ### Projects
@@ -27,6 +42,18 @@ In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API. I was 
 * [GitHub Pages Deployment](https://jbrr.github.io/ski-free)
 
 In this project, I worked with Rose Kohn to make a JavaScript implementation of the classic Microsoft game SkiFree. We were evaluated by Meeka and recieved a total scores of 340/300.
+
+* First Check In: 50
+* Second Check In: 50
+* Third Check In: 50
+* Functional Expectations: 35
+* User Interface: 15
+* Testing: 30
+* JavaScript Style: 20
+* Workflow: 25
+* Code Sanitation: 15
+* Scoreboard (Extension): 25
+* Multiple Levels (Extension): 25
 
 ## Community
 
