@@ -28,11 +28,11 @@ Here are some notes about expectations for this cycle:
 
 ### Module 2
 
-* Individual Assessment: Tuesday & Wednesday
+* Individual Assessment: Yes
 * Required Project: TrafficSpy, Little Shop of Orders
 * Ruby Challenges: At least two
 * Blog Post: At least one
-* Feedback: May have some feedback from TrafficSpy and LSoO if delivered
+* Feedback: Self-Solicited from LSoO, TrafficSpy, and Mini Project Teammates
 
 ### Module 3
 
