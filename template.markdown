@@ -1,10 +1,10 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Matt DesMarteau - M1 Portfolio
 
 ## Individual
 
 ### Your Mission
 
-(What did you set out to accomplish this module?)
+Changing careers can be a challenge for anyone
 
 ### End of Module Assessment
 
