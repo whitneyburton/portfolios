@@ -16,15 +16,24 @@ Although sometimes sleep deprived, I  was able to attended each and every day.
 
 ### Work
 
-Module 1 was an intense programming experience.  My experience working individually was challenging due to the amount of information to process in such a short time.  Module 1 really challenges how you push yourself as an individual.  There was a tremendous amount of individual research and learning during lunch or after school to keep up with the class work and projects.  Proper time management was tested constantly and became apparent within the end of the first week how important it would be for success in the program. I learned a wealth of information about OO programming as well as strengthening my all around individual skill sets in learning complex ideas and time management.  
+Module 1 was an intense programming experience.  Module 1 really challenges how you push yourself as an individual.  My experience working individually was challenging due to the amount of information to process in such a short period of time.  There was a tremendous amount of individual research and learning during lunch and after school to keep up with the class work and projects.  Proper time management was tested constantly and became apparent by the end of the first week how important it would be for success in the program. I learned a wealth of information about OO programming as well as strengthening my all around individual skill sets in learning complex ideas and time management.  
 
 
-#### (Project Name)
+#### Individual Project - Enigma
 
 * [GitHub URL](https://github.com/MDes41/Enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/b38606f60fd77e4bf64e6c33d922c90f3cdfa4dc/source/projects/enigma.markdown)
 
-(In this project you'll use Ruby to build a tool for cracking an encryption algorithm.)
+Introduction
+
+In this project we used Ruby to build a tool for cracking an encryption algorithm.
+
+Learning Goals / Areas of Focus
+
+* Practice breaking a program into logical components
+* Testing components in isolation and in combination
+* Applying Enumerable techniques in a real context
+* Reading text from and writing text to files
 
 (evaluation comments)
 
