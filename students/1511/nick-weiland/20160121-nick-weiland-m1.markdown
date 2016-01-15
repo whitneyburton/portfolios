@@ -1,0 +1,200 @@
+# Nick Weiland - M1 Portfolio
+
+## Individual
+
+### Your Mission
+I'm eager to ensure my life's work revolves around tasks that are both intellectually challenging and purposeful.
+
+Coming into Turing, I was of the mindset that I would only be a programmer for a short time after graduation--I thought having programming skills would allow me to have a unique technical perspective, in combination with a people-focused background, that would facilitate access to interesting opportunities in business dev and management and that I would quickly pivot towards these opportunities.  Now, just six weeks later, I find myself so engrossed with the tasks we are working on that for the first time I feel comfortable entertaining the idea that I could dedicate my time to one thing over a long period of time and be happy.
+
+My mission is to maintain my excitement working with code, produce useful programs, and eventually find a way to use the skills I develop to improve my community.
+
+### End of Module Assessment
+
+**Challenge: <>**
+
+Assessed By:
+
+Result:
+
+##### Notes:
+
+
+##### Scores:
+
+* Ruby Syntax & API:
+* Ruby Style:
+* Blocks & Enumerations:
+* Testing:
+* Workflow:
+* Collaboration:
+
+### Attendance
+
+I came in at 11:00 on 1/11 and 1/20 due to doctors appointments.
+
+## Team
+
+### Projects
+
+Below is a list of all project and assessment scores from Module 1.
+
+#### Black Thursday
+
+* [GitHub URL](https://github.com/weilandia/black_thursday.git)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
+**Real-world data collection and analysis.** Constructed a database from CSV files containing customer and merchant data from Etsy.  Used a "SalesAnalsyt" object to interact with data and analyze key business metrics.
+
+Assessed By: Josh
+
+##### Notes:
+
+
+##### Scores:
+
+* Overall Functionality:
+* Enumerables:
+* Fundamental Ruby and Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+
+#### Http Yeah You Know Me
+
+* [GitHub URL](https://github.com/weilandia/http_yeah_you_know_me.git)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+**Parsing http requests and making responses** Required to build a functioning
+web server capable of responding to path, verb, and parameters of http requests.
+
+Assessed By: Horace
+
+##### Notes:
+
+* Real solid overall; has lots of interesting ideas and approaches to
+managing structure
+* appreciate that we tag request components with semantic labels
+(i.e. put them in a hash)
+* still a handfull of long-ish "flow of execution" methods; but at
+least they tend to be in the right places so it stays fairly tidy
+* overall easy to follow and process
+* maybe look at moving initial processing out of initialize and waiting
+until the data is needed to generate it (lazy vs. eager)
+* testing is thorough with a good number of tests and scenarios
+
+##### Scores:
+
+  * Overall Functionality: 3
+  * Fundamental Ruby & Style: 3
+  * Test-Driven Development: 4
+  * Breaking Logic into Components: 4
+
+#### Enigma
+
+* [GitHub URL](https://github.com/weilandia/enigma.git)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
+
+**Textual Auto Complete** Required an encryption engine for encrypting, decrypting, and cracking messages. The encryption is loosely based on the encryption algorithm used by the Enigma Machine during WWII.
+
+Assessed By: Josh
+
+##### Notes:
+
+[Travis CI](https://travis-ci.org/weilandia/enigma)
+
+* 1 failure due to pry in test
+
+##### Scores:
+
+* Overall Functionality: 4
+* Fundamentals & Ruby Style: 4-
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
+
+#### Jungle Beat
+
+* [GitHub URL](https://github.com/weilandia/jungle_beat.git)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
+
+**Jungle Beat** Required to build a singly linked list able to perform a variety of functions facilitating node communication and list mutation. Used linked list to power a drum machine.
+
+Assessed By: Lovisa
+
+##### Notes:
+
+* Great testing!!
+* Great conceptual understanding but some of the code needs to be refactored, broken out into smaller methods and check for duplication
+
+##### Scores:
+
+* Functional Expectations: 4
+* Test-Driven Development: 4
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby and Style: 3
+* Looping *or* Recursion: 3
+
+## Community
+
+### Giving Feedback
+
+>**Adam Hundley** “Working with Adam on HTTP YYKM was a really great experience.  His eagerness to share ideas around code improvement and dedication to spending time workshopping these ideas facilitated a  fun and productive pair culture, which led to great results.  Also, his willingness to spend extra time to try out new ideas around implementation led to a lot of opportunities to expand our learning as well as a really cool front-end game interface."<p>
+>**Deborah Hamel:** “As she would say (not about herself; see <em>humility</em>), Deborah is an ‘emitter’.  Her positivity is infectious and her <em>humility</em> gives her a unique ability to build up everyone she interacts with. Unfortunately, this last quality has some adverse effects—A tendency to doubt herself has led to morphed view of her own abilities as a programmer. She has very insightful design ideas and a dedication to TDD that consistently challenges my urge to reject TDD when working with smaller code challenges. I have learned a lot from standing next to her during lectures in Classroom A and I’m excited to see what she accomplishes as her programming  confidence builds."<p>
+>**Matt Pindell** “I asked Matt to lead a Hack Design session after another group member cancelled and he facilitated a discussion that reset the standard for how these meetings should be led.  His preparedness showed a level of dedication that was much appreciated and the resulting discussion served as a reminder for why we give up our lunch each Thursday to talk about design—Because it’s awesome."<p>
+**Adrienne Domingus** “Adrienne’s dedication to getting the most out of her time at Turing serves as a daily motivator to improve. Her eagerness to learn new concepts along with a habit reflecting on the quality of her code not only leads to impressive results, but also an awesome pairing experience."<p>
+
+### Being a Community Member
+
+>“Working with Nick on HTTP YYKM was a great and rewarding challenge. Nick has an incredible understanding and grasp of programming. Throughout this project his knowledge pushed me to become a better student and programmer. He was able to also drop some html knowledge on me and helped our group add some really cool features to the final submission."-**Adam Hundley** <p>
+>"Nick not only shows strong programming skills, but also shows a passion for the work. He gets engrossed in the problems and continues to look for better solutions. We had fun when we had opportunities to pair together, as we could explore and bounce ideas off of each other. He maintains a fun and low stress attitude that is easy to be around!"-**Adrienne Domingus**
+
+### Playing a Part
+
+I've participated in the larger Turing Community in the following ways:
+
+* Started Hack Design group, which meets weekly to discuss design concepts
+* Assisted multiple students with their project work/assessment prep throughout the module
+
+## Review
+
+### Notes
+
+* Notes Notes....
+
+### Outcome
+
+## A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+* **Result:** ? -- <  >
+
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* **Result:** ? -- <  >
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+* **Result:** ? -- <  >
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* **Result:** ? -- <  >
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* **Result:** ? -- <  >
