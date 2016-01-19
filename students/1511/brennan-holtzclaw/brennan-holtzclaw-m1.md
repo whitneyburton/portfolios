@@ -41,17 +41,17 @@ Assessed By: Steve
 
 Repository: https://github.com/brennanholtzclaw/jungle_beats
 
-*
-
 #### Scores
 
-***Functionality:*** **x**
+***Functionality:*** **2** - Application is missing one base expectation
 
-***Testing:*** **x**
+***Testing:*** **3** - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-***Ruby Style:*** **x**
+***Encapsulation*** **1** - Application logic shows poor decomposition with too much logic mashed together
 
-***Organization:*** **x**
+***Ruby Style:*** **2** - Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+
+***Looping or Recursion:*** **3** - Application makes effective use of loop/recursion techniques
 
 ### Enigma
 For Enigma I tried to keep "crush it" at the forefront. I broke things into small segments, let testing drive my project, and steadily moved forward. The improvement in scores show that this was a much better approach.
@@ -61,8 +61,6 @@ Assessed By: Tess
 
 Repository:
 https://github.com/brennanholtzclaw/enigma
-
-Comments:
 
 #### Scores
 ***Functional Expectations:*** **3** - Application encrypts, decrypts, and cracks files as described
@@ -80,6 +78,10 @@ Right after holiday break we came back to our Mid-Module Assessment. I really li
 <h4>Notes</h4>
 
 Assessed by: Horace
+
+Exercise: Centaur
+
+Comments:
 
 * much smoother this time around
 
@@ -144,7 +146,6 @@ Group: Allan Blair and Brennan Holtzclaw
 Assessed By:
 
 Repository: https://github.com/amaxwellblair/black_thursday
-
 
 *
 
