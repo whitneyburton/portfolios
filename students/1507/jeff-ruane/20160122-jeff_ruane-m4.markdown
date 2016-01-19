@@ -14,7 +14,7 @@ Coming into Module 4, I'm super excited to be learning JavaScript, as well as we
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 * [Heroku Deployment](https://jbrr-ideabox2.herokuapp.com)
 
-In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API. I was evaluated by Lovisa and recieved a total score of 148/150.
+In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API. I was evaluated by Lovisa and received a total score of 148/150.
 
 * Data Model: 5
 * Viewing Ideas: 9
@@ -31,6 +31,14 @@ In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API. I was 
 * Workflow: 8
 * Inline Editing (Extension): 10
 
+#### Real Time
+
+* [GitHub URL](https://github.com/jbrr/crowdsource)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+* [Heroku Deployment](http://jbrr-crowdsource.herokuapp.com)
+
+In this project, I worked with Node, Express, and Socket.io to create a real time voting app. I was evaluated by Meeka and received the following scores: 
+
 ## Team
 
 ### Projects
@@ -41,7 +49,7 @@ In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API. I was 
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 * [GitHub Pages Deployment](https://jbrr.github.io/ski-free)
 
-In this project, I worked with Rose Kohn to make a JavaScript implementation of the classic Microsoft game SkiFree. We were evaluated by Meeka and recieved a total scores of 340/300.
+In this project, I worked with Rose Kohn to make a JavaScript implementation of the classic Microsoft game SkiFree. We were evaluated by Meeka and received a total scores of 340/300.
 
 * First Check In: 50
 * Second Check In: 50
