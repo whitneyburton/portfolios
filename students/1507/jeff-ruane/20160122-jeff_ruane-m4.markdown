@@ -66,6 +66,7 @@ In this project, I worked with Rose Kohn to make a JavaScript implementation of 
 * I was voted to Student Advisory Board by my peers this module.
 * I volunteered to be a part of the "buddy" system with a module 1 student, Adam Hundley, this module.
 * Crushing it in general.
+* I haven't gotten specific feedback from people, but Meeka sent me a message on January 15, 2016: "I’ve heard from more than one of your fellow classmates that you’ve been a great help to them in this module and that you’re very well respected."
 
 ## Review
 
