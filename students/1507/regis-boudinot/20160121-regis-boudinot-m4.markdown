@@ -1,0 +1,66 @@
+# Regis Boudinot - M3 Portfolio
+
+## Individual
+
+### Mission Statement
+
+This module I want to teach more people about DevOps and enable them to be able to teach DevOps once I am done. I also want to learn Python while learning ES6. I also want to focus on the job search. So some projects might take a hit from doing so, but the point system was built with this in mind!
+
+### End of Module Assessment
+
+N/A
+
+### Attendance
+
+This module I attended all days and classes on-time.
+
+### Work
+
+
+## Team
+
+
+### Feedback to Me
+
+I was told:
+
+"Best group ever! I think we all worked together super well, never got too stressed, and got to do lots of cool things. I especially appreciated your enthusiasm and excitement throughout the project, I think it added a lot to the group dynamic. You’re also constantly curious, and always wanting to try new stuff, and I appreciate that too. I’m not sure if I really have a poopsicle for you, that project was an absolute blast the whole way through."
+
+"Working with you was nothing but positive. Your knowledge for dev-ops is obvious and it was awesome that you wanted to share that with us. Figuring out two-factor auth with the phone was skillful. I always knew I could count on you to work hard, and we all worked so well together, it’s definitely been my favorite group experience. Your enthusiasm towards learning to code, doing a good job on the project, and being a good team member made you a pleasure to work with."
+
+## Community
+
+### Giving Feedback
+
+I gave feedback to a number of my classmates and they were happy that my
+feedback was actionable and supportive.
+
+Here are some examples:
+
+"Jeff: Was the best team lead I have had yet. He was not aggressive, and was not too laid back. He let the team work on their ideas and gave mini deadlines to be sure we weren’t getting lost. He really helped improve my experience at Turing. I never felt pushed, and he was also reassuring. The only poopsicle I can think of for Jeff is that he might be too laid back but other than that he has a really good head on his shoulders."
+
+"You were a great example of a hard worker. Your talent for figuring out the front-end and helping your teammates when they are stuck is what made working you an awesome experience. You understand git workflow very well, and are a very quick learner. Our group was by far the best group I have ever worked with in a deadline based project where our knowledge was tested. I wish I had something negative to say so that you could build on some skills you need help with, but your intuition for figuring out problems and being self aware seems to bring you forward. I look forward to working with you again!"
+
+### Playing a Part
+
+* During the leading intermission week I helped setup computers for 1510. I also gave a talk with 1508 about what to expect.
+* Every Sunday at 2 or 3 pm I taught a mix of Javascript/Arduinos/Raspberry Pi/Ruby for an hour or two
+* The first week of the module I held a student led session on setting up a rails environment in a Vagrant Box (again). (10 students)
+* The second week of the module I held a student led session on setting up a rails environment on Digital Ocean (again). (7 students)
+* The third week of the module I held a student led session on setting up a production environment on Digital Ocean (again). (5 students)
+* During the 2 week intermission break I learned how to use Docker and made my own automation scripts for setting up fresh Debian based VPS's/Desktops/VM's. The script repo also includes scripts to setup a production environment for rails apps on both OSX and Debian based machines. I use my automation scripts in my Dockerfile to set up containers from scratch.
+* During Field Day I held a 3 hour session on learning Python as well as OOP in Python. (10 students)
+
+## Review
+
+### Notes
+
+* End of Module Assessment:
+* Individual Work and Projects:
+* Group Work and Projects:
+* Community Participation:
+* Peer and Instructor Feedback:
+
+### Outcome
+
+( Leave blank for reviewers )
