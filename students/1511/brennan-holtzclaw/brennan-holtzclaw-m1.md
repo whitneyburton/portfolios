@@ -186,6 +186,8 @@ Below is feedback I've gotten from my fellow students:
 
 "Brennan asked a lot of questions while we paired on logic gates. He forced me to question why I wanted to complete the solution a certain way. He also did an superb job of sharing responsibility for the work, and directing the flow. I enjoyed the time working together." - Thomas Pickett
 
+"The moment Brennan and I sat down together we were acting as if we had been pairing for years. Many would say that we just mesh. I would say nay. Due to Brennan’s high EQ he immediately adjusted to my wavelength allowing me to feel comfortable and secure in our partnership. Due to his laid-back nature and calm exterior it may be a surprise to some that Brennan is an active problem solver. Methodical in his thought process Brennan prefers to break down problems by hashing them out on paper and taking a look at the results. One way he could improve the speed of his feedback loop is to solve the simple parts of the equation mentally and use this as a base for his processes. Another worthy facet of Brennan’s kit is his love of Turing and the message he sends via his podcast. In retrospect Brennan was one of my first impressions of Turing. Since I am here you can assume it was a positive one!" - Allan Blair
+
 
 ### Being a community member
 During my second-try at the first module here at Turing I've mostly just tried to make sure I was getting what I needed out of the program, and figuring out where I can fit in.
