@@ -125,7 +125,7 @@ Breaking Logic into Components:
 
 #### Jungle Beats
 
-This was our first official project and while I failed to complete the final Jungle Beats class  
+This was our first official project and while I failed to complete the final Jungle Beats class
 
 create a final project with full functionality, I was pleased with how much I learned about writing code, time management
 
@@ -255,8 +255,15 @@ While I've been passive this Module - I absolutely intend on stepping up my cont
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Some strong work but ultimately not consistent enough
+* Given the assessment results we feel like it makes sense to repeat the module
+* Foresee you going from a place of instability / struggle to really excelling among the
+new cohort
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 2
+* __B Individual Work & Projects:__ 2
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
