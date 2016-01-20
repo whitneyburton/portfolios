@@ -1,4 +1,4 @@
-# Dan Winter - Module 2 Portfolio
+# Dan Winter - Module 3 Portfolio
 
 
 ## Individual
@@ -6,51 +6,38 @@
 
 ### Your Mission
 
+By the end of the module, I'd like to learn the basics of Ember and build an app.
+I'd also like to come up with a sweet ass app for my personal project
 
-I came to Turing to make a difference in my life and in my community.
+### Dan's Reflection
 
-Lately I've been thinking about the quote from Archimedes about the power of levers; "Give me a place to stand on and I will move the earth."
-
-I've never seen anything quite like the power of the lever that software development has to impact huge volumes of people. Turing's ability to enable access to such a lever is unmatched and I aim to move the earth to benefit my community, even if that is helping just one person at a time.
-
-### Mid Module Diagnostic
-
-Pet Store
-​
-Evaluator: Mike
-​
-#### Notes:
-None given
-
-#### Scores:
-
-* Analytic/Algorithmic Thinking - 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
-* Ruby Syntax & Standard Library - 3: Developer is able to comfortably implement solutions in Ruby
-* Rails Syntax & API - 4: Developer is able to smoothly utilize Rails methods and structures with a minimum of debugging or support
-* Rails Style - 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
-* Testing - 4: Developer writes tests at multiple layers of abstraction to drive development
-* Collaboration - 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+This module was a little rough on me in my personal life.
+I did not have the time to devote to Ember but I'm pretty happy with my progress in Rails.
+On to the wonders of JavaScript next module! (Hopefully)
 
 ### End of Module Assessment
 
 Mavis Beacon
 
-Assessed By: Mike
+Assessed By: Josh
 
 #### Notes:
 
-None given
+* API: Index/Show/Delete works well
+* Search: single and multi word search works well
+* Testing is good, the items_controller_spec make assertions about the appropriate data points
+* Feature test for the search is very thorough, and there are tests for both single and multi search. The feature test is making assertions about appropriate data
+* In the products method in the BestBuyService, the formatting of the longDescription could be split out in a separate method. The results (latter part of method) could also be split out.
+* Nice use of POROs for the Product, good use of serializers
 
 #### Scores:
 
-* Analytic/Algorithmic Thinking - 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way.
-* Ruby Syntax & Standard Library - 3: Developer is able to comfortably implement solutions in Ruby
-* Rails Syntax & API - 4: Developer is able to smoothly utilize Rails methods and structures with a minimum of debugging or support
+* Ruby Style & Syntax - 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical component
+* Rails Syntax & API - 4: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing
 * Rails Style - 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs
-* Testing - 4: Developer writes tests at multiple layers of abstraction to drive development
-* Collaboration - 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
-
-(Notes & scores from your assessment rubric)
+* Testing - 4: Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.
+* Progression/Completion - 4: Developer is able to implement solutions at the speed of a developer.
+* Workflow - 4: Developer commits every 15 minutes and has at least 12 commits on the project
 
 ### Attendance
 
@@ -58,23 +45,32 @@ I have attended all classes with no absences.
 
 ## Individual Projects
 
-#### T-Swift Lyrics
+#### Stache-Yo-Self
 (Not graded)
-[GitHub URL](https://github.com/danjwinter/tswift_lyrics)
+[GitHub URL](https://github.com/danjwinter/stache_yo_self)
 
-#### Pig Latin
+#### API-Curious
 (Not graded)
-[GitHub URL](https://github.com/danjwinter/pig_latin)
+[GitHub URL](https://github.com/danjwinter/api_curious)
 
-#### Mario
-(Not graded)
-[GitHub URL](https://github.com/danjwinter/mario)
+#### Rails Engine
+
+[GitHub URL](https://github.com/danjwinter/rails_engine)
+
+#### Notes
+
+* Really solid project. Understands core concepts for the module at an early stage.
+
+#### Score
+* Completion - 4: Project completes all base requirements according to the spec harness.
+* Test Driven Development - 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
+* Api Design: 
 
 ## Team Projects
 
-### Little Shop
+### Freelancer For You
 
-* [GitHub URL](https://github.com/bethsecor/little-shop-private-stache)
+* [GitHub URL](https://github.com/danjwinter/the_pivot)
 
 ### Traffic Spy
 
@@ -108,6 +104,9 @@ Assessed By: Mike
 
 Traffic Spy was a good starter project for working with a web application. I felt we could have pushed ourselves more but I have also received feedback that I can go too fast and that my enthusiasm for tackling new challenges can seem headstrong. I plan on working on my pacing and working better with my classmates on future projects so that we all get the most out of the experience.
 
+
+### Posse Challenges
+* [GitHub URL](https://github.com/rossedfort/posse_challenges)
 
 ## Community
 
@@ -168,32 +167,6 @@ He’s found where I’ve been struggling and than walked me through it. Doing a
 
 Sunny approached me with an idea early in the module to transform a portion of the basement into a plant haven. I loved the idea and helped execute operation Pinterest Flowerpot Post over the holiday break.
 
-## Blog Post
-
-#### Rabbit Holes, Staches, and Module 2 at Turing
-
-
-As a module 2 student at Turing School of Software and Design, we spend a lot of time in the dungeon, as it is affectionately known. Students have been known to sleep there on occasion, finishing one of the challenging projects that fill our classes. It wasn’t always about the stache. Module 1 was about logic, reasoning and laying a foundation in object oriented programming using Ruby to solve challenges like building cryptographic tools used in World War II or building data storage and performing analysis on almost one hundred thousand lines of school performance csv data.
-Module 2 has been different, to say the least. We dove head first into Sinatra, a domain specific language built in Ruby used to create web applications. It’s like Rails but having to build a lot more from scratch. That’s been a theme here at Turing.
-
-Teacher: “Go build that complicated thing”
-Student: “That’s not really a thing that people can build, is it?”
-Teacher: “Start with a test and fix the error.”
-
-Fast forward several gruelling days or weeks of this conversation repeated over and over again.
-
-Teacher: “Now that you can build that on your own, here are some easy tools to do it for you.”
-
-And thus, we were given Rails. And staches. Okay, maybe that wasn’t the directive from Turing but the mission seemed clear to my team from the start. We were told to build an online store, complete with items for sale, carts, admin functionality to view order details and create new items to sell. I was an early proponent for Jurassic Farms - the first online dinosaur butchery. After lively and passionate debate, we settled on Private Stache, a luxury mustache boutique, and I’m the better for it.
-
-We spent the first few days putting into practice the use of acronyms like CRUD and STACHE(not a real software acronym, as far as I know). As a junior web developer, there’s a ton to learn. There are plenty of acronyms, definitions, frameworks and various other impressive sounding technical terms I don’t know and I’m frequently wrong. I’m okay with that, as long as I learn from the process. Failure is one of the best ways to learn, it’s how you react that matters.
-
-It can be hard not to fall into a rabbit hole working on final projects. There’s always a new language to learn, gem to use or fad to chase. There seems to be no end to additional features, more tests or better refactoring. It’s hard to tell what’s worth spending time on and when to go ask for help or maybe accept that my idea is too ridiculous or will take too long.
-
-I’m here to tell you some rabbit holes are worth falling into, headfirst. But first get interested. In something. When you are curious and excited about what you’re doing, you learn more. Not just a little more, substantially more. For me, that rabbit hole was the stache cam. We had this crazy idea that we should let our fictional online customers try on our fine mustaches before purchasing them in an effort to drive fake sales.
-God Driven Development was in full force when I signed up for an account with Face Plus Plus, an API that responds to photos with facial recognition and detection analysis. I dreamt of stache-ing the world, one Private Stache customer at a time.
-Let’s just say my Face Plus Plus account hasn’t sent a single API request. It didn’t work out the way I wanted. I looked through several other APIs to no avail. I didn’t know how to do it. I struggled. I asked for help. I thought of a different solution and found a gem that helped me access our user’s webcams. Another problem hit with the webcam gem when the hooks I needed for my controllers didn’t work. I figured out a different way. I monkey patched my way around it so much that when I explained what I had done to one of my mentors, they listed out each step I took as if recalling cardinal sins of programming. And told me not to do it again.
-But I wrote my first JavaScript function. And I learned about Ruby threads and modifying my own gems. I read through open source code when things didn’t work like I expected and even ended up hosting the app myself on my own digital ocean droplet. I failed and I learned and I adapted. After it all, the stache cam lives.
 
 ## Review
 
@@ -202,4 +175,3 @@ But I wrote my first JavaScript function. And I learned about Ruby threads and m
 
 
 ### Outcome
-
