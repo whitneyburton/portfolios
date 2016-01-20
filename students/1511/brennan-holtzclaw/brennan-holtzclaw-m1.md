@@ -6,9 +6,11 @@ My goal coming in to Turing was to explore a new adventure. Then I had to repeat
 
 
 ## End of Module Assessment
+
 My first pass through the final assessment this time went much better than before. Horace gave me my assessment and said I was the most improved mod 1 repeater he had ever seen. After I paid him his $100 assessment fee (he tells me it's standard), I pasted his notes below.
 
 #### Notes
+
 Assessed by: Horace
 
 Excercise: Multipliers
@@ -190,85 +192,26 @@ Below is feedback I've gotten from my fellow students:
 
 
 ### Being a community member
+
 During my second-try at the first module here at Turing I've mostly just tried to make sure I was getting what I needed out of the program, and figuring out where I can fit in.
 I recently took the lead on pushing up a Turing podcast. Production halted over the holidays, but I hope to get it picked back up very soon. I also attended most of the ~~DSA~~ Clarke Coin meetings hosted by Horace after school twice a week and took part in the Improv elective on Tuesdays.
 
-# Review
-### Portfolio Rubric
+## Review
 
-Your portfolio will be evaluated using the following rubric. Earning at least
-a three in each category is the baseline for promotion/graduation.
+### Notes
 
-### A: End-of-Module Assessment
+* bring back the podcast
+* keep clarke coin alive
+* consistently been an active and core member of the group; really
+appreciate your influence on the group dynamic for 1511
+* happy to see the second attempt go so much better -- hope you
+will take time to reflect on what worked better the last time
+* would love to see you organizing the cohort things that people can "opt in" to
 
-A Turing student is able to demonstrate proficiency at programming in accordance
-with the module's content and expectations.
+### Outcome - PASS
 
-* 4: Student achieved two or more "4s" on the assessment
-
-* 3: Student achieved a "3" or better on each category of the assessment
-* 2: Student earned one score below "3" on the assessment
-* 1: Student earned two or more scores below "3" on the assessment
-
-### B: Individual Work & Projects
-
-A Turing student works to maximize their skill growth and demonstrates
-that skill across a variety of work.
-
-* 4: Student demonstrates excellent growth by not only achieving satisfactory
-evaluations for each project but also pushing their learning beyond expectations.
-
-* 3: Student demonstrates commitment and growth in their work through satisfactory
-evaluations of each project or a clearly upward-sloping trend.
-
-* 2: Student demonstrates some lack of engagement or growth in their individual
-skill or project outcomes without a clear upward trend.
-* 1: Student does not show the commitment expected of Turing students.
-
-### C: Group Work & Projects
-
-A Turing student contributes significantly to group projects, helps the team
-develop their technical skills, and delivers a high-quality product.
-
-* 4: Student consistently helps their teammates be their best selves, learn at
-an accelerated pace, and achieve great results.
-
-* 3: Student fully participates in their group work to facilitate group harmony
-while achieving consistently satisfactory results.
-
-* 2: Student participates somewhat in their group work but is either not a
-dependable member of the team or achieves consistently sub-par work.
-* 1: Student is not a valuable member of their teams.
-
-### D: Community Participation
-
-A Turing student builds up the community around them by participating and
-supporting other students, the larger Turing family, and persons outside our
-walls who want to develop their own skills.
-
-* 4: Student has a significant positive impact on the learning and spirit of the
-people around them.
-
-* 3: Student participates in required activities and does at least one or two
-above-and-beyond supports of the community.
-
-* 2: Student participates in most required community activities (demos, lightning talks, etc)
-but does not do anything else of significance.
-* 1: Student stays in their lane and focuses just on their own learning.
-
-### E: Peer & Instructor Feedback
-
-A Turing student accelerates the growth of those around
-them by delivering specific, kind, and actionable feedback. They accelerate their
-own growth by taking in and acting on the feedback of their peers and instructors.
-
-* 4: Student helps others to be their best selves while using peer feedback
-to shape their own character and behavior.
-
-* 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback.
-
-* 2: Student gives meaningful impact to peers as well as being aware of themes
-in the feedback they receive.
-* 1: Student does not consistently participate in or construct meaningful peer
-feedback.
+* __A End-of-Module Assessment:__ 4
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 4
+* __E Peer & Instructor Feedback:__ 3
