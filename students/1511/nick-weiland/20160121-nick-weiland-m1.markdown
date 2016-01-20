@@ -44,7 +44,7 @@ Below is a list of all project and assessment scores from Module 1.
 * [GitHub URL](https://github.com/weilandia/black_thursday.git)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-**Real-world data collection and analysis.** Constructed a database from CSV files containing customer and merchant data from Etsy.  Used a "SalesAnalsyt" object to interact with data and analyze key business metrics.
+**Real-world data collection and analysis.** Constructed a database from CSV files containing customer and merchant data from Etsy.  Used a "SalesAnalyst" object to interact with data and analyze key business metrics.
 
 Assessed By: Josh
 
@@ -59,6 +59,7 @@ Assessed By: Josh
 * Test-Driven Development:
 * Breaking Logic into Components:
 
+<p>
 #### Http Yeah You Know Me
 
 * [GitHub URL](https://github.com/weilandia/http_yeah_you_know_me.git)
@@ -89,6 +90,7 @@ until the data is needed to generate it (lazy vs. eager)
   * Test-Driven Development: 4
   * Breaking Logic into Components: 4
 
+<p>
 #### Enigma
 
 * [GitHub URL](https://github.com/weilandia/enigma.git)
@@ -111,6 +113,7 @@ Assessed By: Josh
 * Test-Driven Development: 3
 * Breaking Logic into Components: 3
 
+<p>
 #### Jungle Beat
 
 * [GitHub URL](https://github.com/weilandia/jungle_beat.git)
@@ -133,6 +136,7 @@ Assessed By: Lovisa
 * Fundamental Ruby and Style: 3
 * Looping *or* Recursion: 3
 
+<p>
 ## Community
 
 ### Giving Feedback
