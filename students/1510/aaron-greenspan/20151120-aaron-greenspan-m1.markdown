@@ -53,7 +53,7 @@ Below is a list of all of my projects and assessment scores from Module 1.
 * [GitHub URL](https://github.com/ToniRib/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-**Real-world data collection and analysis.** Required to construct a database for CSV files concerning Colorado education statistics.  Database could be loaded, queried, and analyzed with basic analtyical functions.
+**Real-world data collection and analysis.** Required to construct a database for CSV files concerning Colorado education statistics.  Database could be loaded, queried, and analyzed with basic analytical functions.
 
 Assessed By: Horace Williams
 
