@@ -10,7 +10,7 @@ This module I want to teach more people about DevOps and enable them to be able 
 
 * N/A
 
-* Total Points: 923
+* Total Points: 923/1104
 
 ### Attendance
 
@@ -20,14 +20,17 @@ This module I attended all days and classes.
 
 #### IdeaBox
 
-* [GitHub Url](https://github.com/selfup/crowdsource)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+* [GitHub Url](https://github.com/selfup/idea_box_js)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 
 * Points: 159/150
 
 Notes: Refactor Ajax calls and use ```replace``` instead of ```remove```/```append```. Good use of ES6.
 
 #### ThoughtBox
+
+* [GitHub Url](https://github.com/selfup/thoughtbox)
+* [Original Assignment](https://gist.github.com/stevekinney/82831c5b25029415ce8b)
 
 * Points: 40/100
 
@@ -39,6 +42,7 @@ Title: Crowdsource
 
 * [GitHub Url](https://github.com/selfup/crowdsource)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+* [Production Link](https://warm-anchorage-1924.herokuapp.com/)
 
 * Points: 153/200
 
@@ -77,7 +81,8 @@ Eventually I branched off and learned Docker. I can build an initial Docker cont
 ## Team
 
 * [GitHub Url](https://github.com/selfup/game-time)
-* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+* [Production Link](http://selfup.me/game-time)
 
 #### Game Time
 
