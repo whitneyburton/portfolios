@@ -58,7 +58,17 @@ I have attended all classes with no absences.
 
 ## Individual Projects
 
-For another day and time...
+#### T-Swift Lyrics
+(Not graded)
+[GitHub URL](https://github.com/danjwinter/tswift_lyrics)
+
+#### Pig Latin
+(Not graded)
+[GitHub URL](https://github.com/danjwinter/pig_latin)
+
+#### Mario
+(Not graded)
+[GitHub URL](https://github.com/danjwinter/mario)
 
 ## Team Projects
 
