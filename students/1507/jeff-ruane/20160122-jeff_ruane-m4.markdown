@@ -45,7 +45,7 @@ In this project, I had 7 hours to make (most of) a CRUD app in Rails with a Java
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 * [Heroku Deployment](http://jbrr-crowdsource.herokuapp.com)
 
-In this project, I worked with Node, Express, and Socket.io to create a real time voting app. I was evaluated by Meeka and received a total score of 154/200.
+In this project, I worked with Node, Express, and Socket.io to create a real time voting app. I was evaluated by Meeka and received a total score of 154/200. I was not concerned with styling for this project, so the page itself is pretty bare, but I knew my point total coming into it and I knew I was in a good position, so I decided to devote more of my time to trying to help classmates rather than expanding my own project.
 
 ## Team
 
@@ -57,7 +57,7 @@ In this project, I worked with Node, Express, and Socket.io to create a real tim
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 * [GitHub Pages Deployment](https://jbrr.github.io/ski-free)
 
-In this project, I worked with Rose Kohn to make a JavaScript implementation of the classic Microsoft game SkiFree. We were evaluated by Meeka and received a total score of 340/300.
+In this project, I worked with Rose Kohn to make a JavaScript implementation of the classic Microsoft game SkiFree. We were evaluated by Meeka and received a total score of 340/300. This project was a blast, Rose and I work well together so we had a good time with it. It was an interesting dynamic, because I just had to try to keep up with trying to test and refactor all the awesome features she was adding.
 
 * First Check In: 50
 * Second Check In: 50
@@ -76,8 +76,7 @@ In this project, I worked with Rose Kohn to make a JavaScript implementation of 
 ### Playing a Part
 
 * I was voted to Student Advisory Board by my peers this module.
-* I volunteered to be a part of the "buddy" system with a module 1 student, Adam Hundley, this module.
-* Crushing it in general.
+* I volunteered to be a part of the "buddy" system with a module 1 student, Adam Hundley, this module. I checked in with him at least weekly, tried to help him with handling the stress of Turing(although he had a pretty good handle on that from the beginning), and helped him with some code when I could.
 * I haven't gotten specific feedback from people, but Meeka sent me a message on January 15, 2016: "I’ve heard from more than one of your fellow classmates that you’ve been a great help to them in this module and that you’re very well respected."
 
 ## Review
