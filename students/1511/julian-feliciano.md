@@ -273,6 +273,14 @@ Is a well-rounded coder with the passion to gain more knowledge in this field as
 
 While it is clear that Julian has a strong grasp on concepts, and has had experience with the content, his knowledge helps contribute to the overall classroom learning environment. From running a session on Travis CI to regularly pairing with struggling students, he takes time to help others. His feedback is meaningful, useful and encouraging. For HeadCount, I was lucky enough to pair with him during a refactor session and he explained things so clearly that I was able to break it down and refactor a good deal of the code. His positivity is contagious and he is well loved. His commitment to his studies encourages us all. Despite completing projects early, he often stays very late to check over his code and ensure he gets the best possible grade. He even built a fort in his house so that he could stay warm and code. That determination has helped built a cohort culture of grit and determination. I hope everyone gets a chance to work with Julian at some point.
 
+#### Feedback 5
+
+I can easily say that for myself and many others in our cohort that we feel really lucky to have Julian here with us. He is obviously highly skilled, but he lives in that beautiful cross section of being really talented but also graciously humble. He is extremely approachable and I can’t remember a single time that he ever turned somebody down that was asking for help. I’m talking about all nighter level tired, but still willing to walk away from his project and help you out. He’s very passionate about programming and loves talking about all the new technologies,languages, frameworks. I always find myself learning new things when I spend time with him.
+
+#### Feedback 6
+
+Julian’s positivity and optimistic outlook is infectious. This combined with his discipline, drive and determination make Julian not only an ideal programmer but also an outstanding citizen. Julian has a habit of solving problems and calling his solution a ‘hack’. These solutions are typically quirky, creative and out of the box. I say keep hacking away Julian. An area of improvement for Julian is to balance his discipline with a bit of calculated risk. It’s clear his application design process works, but not every problem needs a forklift… sometimes a trolley works just fine!
+
 ### Playing a Part
 
 * Led a session on how to setup travis ci and codeclimate
