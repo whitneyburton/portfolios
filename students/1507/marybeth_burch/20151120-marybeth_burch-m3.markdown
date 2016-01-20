@@ -97,7 +97,7 @@ Notes: Good use of JavaScript. Polling data to update views. Clean abstractions.
 * Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
 * Code Quality: 4: Project demonstrates exceptionally well factored code.
 * User Experience: 3.5: Project exhibits a production-ready user experience.
-* fPerformance: 4: Project pages load on average under 300 milliseconds.
+* Performance: 4: Project pages load on average under 300 milliseconds.
 
 I received the following peer feedback:
 
