@@ -10,7 +10,7 @@ This module I want to teach more people about DevOps and enable them to be able 
 
 N/A
 
-Total Points: 923
+* Total Points: 923
 
 ### Attendance
 
@@ -18,32 +18,46 @@ This module I attended all days and classes.
 
 ### Work
 
-Title: IdeaBox
+#### IdeaBox
 
-Points: 159/150
+* Points: 159/150
 
 Notes: Refactor Ajax calls and replace instead of remove/append. Good use of ES6.
 
-Title: ThoughtBox
+#### ThoughtBox
 
-Points: 40/100
+* Points: 40/100
 
 Notes (My Own): Was deep in the job search and had 2 phone interviews that day. Really enjoyed the challenge but my plate was full!
 
-Title: Real Time
+#### Real Time
 
 * [GitHub Url](https://github.com/selfup/crowdsource)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
-Points: 153/200
+* Points: 153/200
 
 Notes (My Own): Learned a lot! Was busy helping people with their own projects and putting out Digital Ocean dumpster fires.
 
-#### Personal Project (Non Curriculum Based)
+Notes (Horace):
+
+* functionality is solid - works well with no hiccups; effectively satisfies expected use cases
+* UI is nothing fancy but is clean and easy to follow. Adds enough color and a standard design
+palette to make things feel unified.
+* Workflow is solid - lots of branches and commits; seems to have an effective process around tracking
+progress
+* Server side code is overall pretty easy to follow; major weakness is the size of the main namespace --
+next steps might be to look at pulling this apart
+* Separating the app logic more explicitly would help make the connections between the pieces more
+obvious
+* Additionally would probably make testing easier since we would have more explicit insight into
+the connections between pieces of our system
+
+### Personal Project (Non Curriculum Based)
 
 * [GitHub Url](https://github.com/selfup/DevOpsOne)
 
-Title: DevOpsOne
+#### DevOpsOne
 
 Notes: Did this during the 2 weeks break. Learned more about Linux than I could have imagined.
 
@@ -58,9 +72,9 @@ Eventually I branched off and learned Docker. I can build an initial Docker cont
 * [GitHub Url](https://github.com/selfup/game-time)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
 
-Title: Game Time
+#### Game Time
 
-Points 345/300
+* Points 345/300
 
 Notes (My Own): Really really enjoyed this project. Opened my eyes on how complex static apps can be. This is where I dove deep into
 
@@ -88,13 +102,15 @@ Here are some examples:
 ### Playing a Part
 
 * I helped set up 4 students on Digital Ocean running production environments. One of them is in Module 2!
-* During the leading intermission week I helped setup computers for 1510. I also gave a talk with 1508 about what to expect.
+* Wrote 4 Blog Posts during Mod 4. Here is a link to my [Blog](https://medium.com/@rboudinot)
 * Every Sunday at 2 or 3 pm I taught a mix of Javascript/Arduinos/Raspberry Pi/Ruby for an hour or two
 * The first week of the module I held a student led session on setting up a rails environment in a Vagrant Box (again). (10 students)
 * The second week of the module I held a student led session on setting up a rails environment on Digital Ocean (again). (7 students)
 * The third week of the module I held a student led session on setting up a production environment on Digital Ocean (again). (5 students)
 * During the 2 week intermission break I learned how to use Docker and made my own automation scripts for setting up fresh Debian based VPS's/Desktops/VM's. The script repo also includes scripts to setup a production environment for rails apps on both OSX and Debian based machines. I use my automation scripts in my Dockerfile to set up containers from scratch.
 * During Field Day I held a 3 hour session on learning Python as well as OOP in Python. (10 students)
+
+[The End!](http://www.reactiongifs.com/r/omgshoop.gif)
 
 ## Review
 
