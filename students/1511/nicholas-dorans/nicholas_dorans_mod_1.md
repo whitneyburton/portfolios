@@ -48,8 +48,8 @@ Evaluated on 4 Jan 2016 by Lovisa Svallingson.
 
 * Developer does not always use the terminal for navigation and file creation
 * Developer runs tests and reads errors well, takes small steps
-* Developer gets ahead of the tests at times, but mostly makes use of TDD   
-* Developer refactors  
+* Developer gets ahead of the tests at times, but mostly makes use of TDD
+* Developer refactors
 
 ### Scores
 
@@ -108,7 +108,7 @@ Assessed By: Jeff Casimir
 * 21 tests with three pending
 * Like the testing, shows strong effort
 * Look for opportunities to pull out a bit of abstractions around small complex code
-​
+
 
 ##### Scores:
 
@@ -188,7 +188,7 @@ Assessed By: Horace Williams
 * [GitHub URL](https://github.com/nickybobby/binary-search-tree)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
-**Binary Search Tree** Required to build a binary search tree data structure.  
+**Binary Search Tree** Required to build a binary search tree data structure.
 Tree class also implements functionality for sorting, identifying max and min,
 and removal of nodes / tree repair.
 
@@ -292,5 +292,19 @@ I've participated in the larger Turing Community in the following ways:
 * I always have time to help out a fellow classmate, even if I don't
   have the answer I'm willing to work with the person to figure it out together.
 * I have helped bring in breakfast almost every Friday, but to be fair
-  Sekhar does all the hard work...    
+  Sekhar does all the hard work...
 
+## Review
+
+### Notes
+
+* aggressive progress after starting in echo
+* solid progress from beginning of the module into later individual projects
+
+### Outcome
+
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
