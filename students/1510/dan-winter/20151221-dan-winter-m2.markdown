@@ -1,4 +1,4 @@
-# Dan Winter - Module 1 Portfolio
+# Dan Winter - Module 2 Portfolio
 
 
 ## Individual
@@ -135,10 +135,16 @@ Thanks Brant, that’s definitely something I need to work on and I appreciate y
 
 Particularly when I understand things well, I get bored easily and want to move on to more exciting things. I'm working on staying focused, even when things seem mundane. I want to keep on tackling new and interesting challenges but there's a time and a place for that. I need to focus more on working with my classmates to ensure they have the same understanding of concepts before moving on to larger challenges.
 
+#### Feedback from Steve for Traffic Spy and Little Shop
+
+"I was able to work with Dan on both of the big projects this module, and am glad that was the case. He’s among the most intellectually ambitious and curious of our class, and is always pushing to try things in new and interesting ways. His drive to really learn the concepts pushes the whole group to learn more, and he can quickly grasp how all the parts fit together in the big picture. He’s easy to work with, and is very open to suggestions, while being willing to defend his position when warranted."
+
+#### Dan's Reflection
+
+I appreciate Steve's words but after reflecting on feedback from Brant, I worry that I don't always come off as welcome to other approaches and that I move too quickly. Balance will be key moving forward.
+
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
 
 #### Pairing with Thom
 
@@ -156,8 +162,7 @@ Sunny approached me with an idea early in the module to transform a portion of t
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
