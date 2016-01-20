@@ -92,7 +92,7 @@ Eventually I branched off and learned Docker. I can build an initial Docker cont
 
 * Points 345/300
 
-In this game I built a game that is playable in the browser. There is no server-side component for this project. I used client-side JavaScript exclusively to complete this project. My partner was Zach Routhier and it was interesting working on a project with someone that was auditing the course. 
+In this game I built a game that is playable in the browser. There is no server-side component for this project. I used client-side JavaScript exclusively to complete this project. My partner was Zach Routhier and it was interesting working on a project with someone that was auditing the course.
 
 Notes (My Own): Really really enjoyed this project. Opened my eyes on how complex static apps can be. This is where I dove deep into
 
@@ -106,7 +106,39 @@ Two blog posts were written by Zach and myself.
 
 ### Feedback to Me
 
-I was told:
+#### I was told:
+
+Adam Jensen:
+
+#### "GOOD" STUFF
+
+If you could sum Regis' personatlity into just a couple words, I would propose the words "Helpful" and "Knowledgeable."
+
+##### EX:1
+To dive a bit deeper, I mean, Regis has saved me from deep shit a couple of times. During Rales-Engine 1.0, Regis single handedly kept me from hitting my head on the wall after finding out helping diagnose my app with a deadly problem, It was using SQLite3. While I was sitting there wondering why ActiveRecord was so dumb, Regis helped my for over an hour and basically re-config'd my DB.yml. He could have been stressing along with everyone else that night. But he was calm and took time to help me. Regis is probably the only one in the school that night that would have been able to help me. Regis always knows stuff that other's don't. Why? Probably because of the countless hours the dude spends reading about Chef, or Space, or Unix etc. #mindblown
+
+##### EX: 2
+Oh yea, and there was another time that I wiped my OS with a fresh install and Regis basically helped me build a new Dev ENV in like 30 minutes. The funny thing is that he was enjoying it...
+
+Summary: Regis helps everyone! He Helps mod 1-4 students. He helps Reddit by answering Rails Q's. He doesn't ever stop.
+
+#### "BAD" STUFF
+
+I used to think that Regis Stressed a lot. Back in M1, I do think that he would stress himself out a bit. But, really, I can't fault him.
+
+One Criticism. Regis tends to go quickly sometimes. Regis can explain things very well, but sometimes doesn't. But then again, I can usually call him out and he realizes that he needs to explain something again and he's cool with it. The cool part is that he never gets upset of frustrated. It's kind of funny actually. Regis is just REALLY into everything. It's hard to keep up.
+
+
+Meeka:
+
+You’ve put in a lot of work this module, and I suspect all the past modules. Good work! Specifically, good job on managing the Game Time project. It’s a kudos to both you and Zach that you both kept your enthusiasm up through the whole project and tackled some really cool challenges, especially when Zach wasn’t tied, point-wise, to completing the project.
+
+**I’m really impressed with how much work you and Jeff put into helping other classmates. It’s a very good sign that Josh would want to rope you into PR evaluations for Ricky. I assume it means that he views you as technically competent, well organized, and a good leader and encourager.**
+
+*I can’t say all positive things, or this would be a silly bit of feedback, so I would caution you about going in technical rabbitholes. I think you’re more than capable of tackling extra complexity like deploying to digital ocean, or jumping into es6-land. Keep in mind that every extra level of cool, complicated tech that you add to a project is also technical debt. For example, I worked on a client project that was written in all cutting edge tech including React, like, the first month React came out. It was a ​_shit show_​. Even though the tech was well chosen, the problem was that only one or two developers on the team understood the full stack. So it was a HUGE block that prevented all of the other, more junior developers from committing code quickly, and they frequently broke things.
+It might have theoretically been a more efficient app, but in reality, it was a hot mess and the company actually went under. Every day that I worked on the project, we were like ‘Why didn’t they just use rails?”. Their devs knew rails, the app was only going to get used by ~5,000 users… there was honestly no reason other than the lead dev’s ego for the weird Frankenstein stack.*
+
+Introducing 1508 and below students to Digital Ocean has already caused them and you technical debt, in that you’re their only source that they can go to for help (or at least that’s what they perceive). I think you should always take time to consider this. Doesn’t mean introducing new tech is a bad idea, but weigh the other side of the equation, because new tech isn’t as important, usually, as shipping, having a friendly code base for people to work on, and being able to hire developers that can work in the code base!
 
 ## Community
 
