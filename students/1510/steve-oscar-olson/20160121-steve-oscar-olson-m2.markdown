@@ -96,6 +96,8 @@ To: Brenna -  Working with Brenna on the rails mini-project over a weekend was a
 
 To: Beth Secor -  Working with Beth on the big Little Shop project has been great. She’s talented in all aspects of the project, from design and front end, to database and logic. Being in the position of team leader, she’s kept us all on task and focused on making progress, and makes sure that things are done right. I hope to be paired with her again at Turing.
 
+To: Steve P - “I am honored to share a namespace with Steve.”
+
 ### Being a Community Member
 
 From: Dan - Working with Steve on two projects this module was a great experience. He’s always willing to do whatever the team needs and takes on challenges without needing to be asked. Steve is easy to work with as a pair by thinking critically about the challenge and gets things done quickly when working solo. Not only can he Rails, he can also CSS/Materialize very well. One of the things that I would to have loved was if we paired more on front end shenanigans so that I could learn more of his CSS-Fu ways.
@@ -105,6 +107,8 @@ From: Beth Secor - Steve is the calmest programmer known to man. Pairing with hi
 From: Brant - Steve was a great team member to have for Traffic Spy. He is flexible with his work style, but also has clear opinions and goals. Steve has a forthright and upfront communication style which is great to have on a team project. Steve should continue this approach, not only in DTRs with future teams, but throughout the projects as well.
 
 From: Brenna -  I was lucky enough to work with Steve on a mini Rails project that focused on fleshing out full CRUD functionality mixed with a logical front end user interface and various additions. One of the best parts about working with Steve is his ability to exude confidence and control even when facing the inevitable road blocks. He has an amazing sense of humor that made these challenges oddly enjoyable, and I found that we worked at a very similar pace which made overcoming challenges a great learning experience for us both. My only criticism of Steve is his tendency towards teal when using the Materialize framework…I hope to one day work with him again and introduce him to other colors.
+
+From: Steve P - “I am honored to share a namespace with Steve.” - Steve
 
 ### Technical Blog Post
 
