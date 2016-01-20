@@ -4,11 +4,11 @@
 
 ### Your Mission
 
-I am entering module 4 excited to learn Javascript and client-side development. I know it will be a challenge, as it's something very new to me. At this point in my Turing career, I am getting better at learning and dealing with challenges. I want to continue doing my best and working hard, but I also want to be easier on myself and give myself credit for what I already know instead of getting frustrated by all I don't know. I'd like to experiment with different strategies in my code and try new ways of doing things. I want to remain focused on Turing and continue supporting our community, while also starting to look at next steps and be proactive in my job search.
+I am entering Module 4 excited to learn Javascript and client-side development. I know it will be a challenge, as it's something very new to me. At this point in my Turing career, I am getting better at learning and dealing with challenges. I want to continue doing my best and working hard, but I also want to be easier on myself and give myself credit for what I already know instead of getting frustrated by all I don't know. I'd like to experiment with different strategies in my code and try new ways of doing things. I want to remain focused on Turing and continue supporting our community, while also starting to look at next steps and be proactive in my job search.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+n/a
 
 ### Attendance
 
@@ -18,17 +18,6 @@ This module I attended all days and classes on-time with the exception of an abs
 
 I completed the following individual work this module:
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
 #### Ideabox
 
 * [GitHub URL](https://github.com/mbburch/ideabox-js)
@@ -37,9 +26,7 @@ I completed the following individual work this module:
 
 This project is a basic app for recording ideas. I used JavaScript and jQuery to provide a responsive client-side interface. I used AJAX to communicate between client and server. A basic Rails app manages the data.
 
-(evaluation comments)
-
-Scores: 151/150 points (100.67%)
+Scores: 151/150 points
 * Data Model: 5/5
 * Viewing Ideas: 10/10
 * Adding a new idea: 15/15
@@ -65,28 +52,19 @@ Extensions Completed:
 
 Our goal for this project was to build a real time application with WebSockets. I built a Node application using Express and Socket.io. The app allows users to create polls, share polls with voters, and gather votes in real time. The poll administrator can choose whether or not to share results with voters, and can set a time for the poll to automatically close.
 
-(evaluation comments)
-
-(evaluation scores)
+Scores: 165/200 points
+* Concept & Features: 75/100 (Met expectations as outlined by the user personas, the application is a solid first version. All planned features were delivered.)
+* Code Quality: 25/30 (Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.)
+* Client-Side Application: 30/30 (Your application has exceptionally well-factored code with little or now duplication and all components separated out into logical components.)
+* Test-Driven Development: 25/30 (The code demonstrates high test coverage. It is tests at controller and unit levels. All controller/routes are tested. There are no failing tests.)
+* Interface: 5/5 (The application is pleasant, logical, and easy to use)
+* Workflow: 5/5 (The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.)
 
 ## Team
 
 ### Projects
 
 I participated in the following team projects:
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
 
 #### Game Time
 
@@ -96,9 +74,7 @@ I participated in the following team projects:
 
 Our goal for this project was to build a game that is playable in the browser. There is no server-side component for this project. We used client-side JavaScript to complete this project. Our game, Beatbox, is a spin-off of Guitar Hero and Tap Tap Revenge. Play our game here: [Beatbox](http://russelleh.github.io/beatbox/)
 
-(evaluation comments)
-
-Scores: 335/300 points (111.67%)
+Scores: 335/300 points
 * First Check In Goals: 50/50
 * Second Check In Goals: 50/50
 * Third Check In Goals: 50/50
