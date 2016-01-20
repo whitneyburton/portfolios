@@ -1,4 +1,4 @@
-# Regis Boudinot - M3 Portfolio
+# Regis Boudinot - M4 Portfolio
 
 ## Individual
 
@@ -110,7 +110,7 @@ Here are some examples:
 * During the 2 week intermission break I learned how to use Docker and made my own automation scripts for setting up fresh Debian based VPS's/Desktops/VM's. The script repo also includes scripts to setup a production environment for rails apps on both OSX and Debian based machines. I use my automation scripts in my Dockerfile to set up containers from scratch.
 * During Field Day I held a 3 hour session on learning Python as well as OOP in Python. (10 students)
 
-[The End!](http://www.reactiongifs.com/r/omgshoop.gif)
+![The End!](http://www.reactiongifs.com/r/omgshoop.gif)
 
 ## Review
 
