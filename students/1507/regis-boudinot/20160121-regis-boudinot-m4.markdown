@@ -8,7 +8,7 @@ This module I want to teach more people about DevOps and enable them to be able 
 
 ### End of Module Assessment
 
-N/A
+* N/A
 
 * Total Points: 923
 
@@ -20,9 +20,12 @@ This module I attended all days and classes.
 
 #### IdeaBox
 
+* [GitHub Url](https://github.com/selfup/crowdsource)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+
 * Points: 159/150
 
-Notes: Refactor Ajax calls and replace instead of remove/append. Good use of ES6.
+Notes: Refactor Ajax calls and use ```replace``` instead of ```remove```/```append```. Good use of ES6.
 
 #### ThoughtBox
 
@@ -118,7 +121,9 @@ Here are some examples:
 
 ![](http://i.imgur.com/dMtJ4fC.png)
 
-![The End!](http://www.reactiongifs.com/r/omgshoop.gif)
+*The End*
+
+![](http://www.reactiongifs.com/r/omgshoop.gif)
 
 ## Review
 
