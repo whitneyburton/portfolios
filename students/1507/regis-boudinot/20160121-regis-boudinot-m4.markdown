@@ -116,7 +116,7 @@ Here are some examples:
 
 * As of Wednesday of this week these are my GitHub Stats:
 
-![](http://i.imgur.com/46APCeZ.png)
+![](http://i.imgur.com/DoSh8DP.png)
 
 ![The End!](http://www.reactiongifs.com/r/omgshoop.gif)
 
