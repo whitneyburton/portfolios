@@ -13,22 +13,33 @@ Evaluator: Mike Dao
 #### Notes
 ​
 * Wrote additional tests that covered functionality in the spec.
+
 * Great communication skills.
+
 * Good instincts on testing,
+
 * Definitely let tests drive the development process.
+
 * Used nth child in testing. :thumbs_up:
+
 * We used Ruby to calculate.
-* Refactored to remove Ruby and use Activerecord by storing percent_correct
-in database.
+
+* Refactored to remove Ruby and use Activerecord by storing percent_correct in database.
+
 * Then refactored again to use a scope instead of a class method.
 ​
 #### Scores
 ​
 * __Analytic/Algorithmic Thinking:__ 4
+
 * __Ruby Syntax & Standard Library:__ 3
+
 * __Rails Syntax & API:__ 4
+
 * __Rails Style:__ 4
+
 * __Testing:__ 4
+
 * __Collaboration:__ 4
 
 ### Attendance
