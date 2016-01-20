@@ -61,7 +61,6 @@ Intro
 Jungle Beat
 
 GitHub URL https://github.com/chadellison/junglebeat_project
-
 Original Assignment https://github.com/turingschool/curriculum/blob/a0ccb625762f2ead4d0bcf554c88daeda1784eea/source/projects/jungle_beat.markdown
 
 description
@@ -143,11 +142,14 @@ Matt Packer
 Matt is very patient and he is a strategic developer with a great perspective on priorities. Throughout our time working together on "Http, Yeah, you know me", he was constantly directing our resources on the essential problems. He is very methodical in his approach and as a result, we had a stronger app than we otherwise would have had. Matt's ability to learn and retain information efficiently will make him a great developer. He was able to adapt and deconstruct problems while they were still very new and abstract to both of us.     
 
 Scott Firestone
-It has been a pleasure working on Black Thursday with Scott. It did not take me long to see that Scott will make an excellent developer. His ability to work through a problem and troubleshoot effectively are excellent, allowing us to have a much stronger app. Moreover, Scott's subtle sense of humor and encouragement are some of the things that make him a delight to work with. I was able to learn a lot from him because of his willingness to communicate well and collaborate.     
+It has been a pleasure working on Black Thursday with Scott. It did not take me long to see that Scott will make an excellent developer. His ability to work through a problem and troubleshoot effectively are excellent; this allowed us to have a much stronger app. Moreover, Scott's subtle sense of humor and encouragement are some of the things that make him a delight to work with. I was able to learn a lot from him because of his willingness to communicate well and collaborate.     
 
 Being a Community Member
 
 feedback to me
+
+From Scott
+Chad is a model student at Turing. We paired for Black Thursday, a whopper of a project. His dedication to working hard and learning was clear from the get-go. Starting the project, he expressed his weakness in managing workflow e.g. keyboard shortcuts. In spite of that, he made a focused effort to improve, and made great strides in only a short few days. Throughout the project, he was 100% engaged, helping to drive testing and design, while sketching solutions as problems arose. Furthermore, Chad refused to allow any piece of our code go misunderstood. His thirst for understanding is seemingly endless. Most importantly, Chad is a joy to work with. He fosters a relationship built on open communication and collaboration. Hopefully it won’t be my last time working with Chad.
 
 From Hedy
 I found a brother and friend in Chad. Our common interest in literature was only the beginning of a good friendship, but pairing together only solidified it. I have enjoyed working and learning from Chad throughout the module. We screenshared during the holiday season, doing exercism and honing our deficiencies by tacking other coding challenges. I have certainly learned a lot from his thoughtful approach, and persevering style. I know I’ll continue to look up to him to build more character in my coding style.
@@ -158,7 +160,7 @@ I worked with Chad on the HTTP project. Chad is extraordinarily talented at deco
 
 ways you supported the larger Turing community
 
-Within my first week at Turing, I was pleasantly surprised by the connectedness and thoughtfulness of the members of the community. It was a privilege to participate in both helping and receiving help from people in our cohort. I specifically remember helping a small group of students pseudo-coding through the crack method of our enigma project.   
+Within my first week at Turing, I was pleasantly surprised by the connectedness and thoughtfulness of the members of the community. It was a privilege to participate in both helping and receiving help from people in our cohort. I specifically remember helping a small group of students pseudo-coding through the crack method of our enigma project. Moreover, I spent a lot of time over Christmas break pairing with Nate and Hedy; we worked through some of Josh's waypoints as well as exercisms.   
 ## Review
 
 ### Notes
