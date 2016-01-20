@@ -141,6 +141,24 @@ Scores:
 Assessed by: Josh Cheek
 
 ##### Notes
+* Fixes syntax as soon as it gets off
+* Knows where responsibilities belong
+* `@score` is unnecessary
+* When the conditional has the same value as the body of the if statement, you can just return the conditional
+* We didn't need any enumerables
+* Starts with a test
+* Great test names!
+* Pretty good implementations, consider the edge cases a little more
+* Great job using the test names to guide thinking
+* Good use of Atom shortcuts
+  * (command + d)
+  * indenting/outdenting
+  * auto commenting/uncommenting
+  * splitting windows
+  * jumping betwen windows
+* Keep it up!
+* Good explanation of the problem
+* Good thinking out loud
 
 Scores:
 * Ruby Syntax & API: 3
@@ -155,12 +173,9 @@ Scores:
 
 ###### For Alex: Alex is a good partner to work with. He takes his time to read the error message and think through the issue step-by-step. This has been helpful to me during our pairing sessions because I tend to move too fast. I appreciate Alex's encouraging attitude, his openness to helping others, and his curiosity about the world and eagerness to learn new things.
 
-
 ###### For Allan: Allan is a great partner to work with! We paired for most of our project and I greatly benefited from observing how he approaches figuring out unknowns. Allan was also very collaborative throughout the process, and did well in explaining his ideas. He has a tendency to move too quick at times, and may overlook some critical information in his haste. Allan's combination of skill, dedication, collaboration, communication, and fun, pleasant personality make him a great partner.
 
-
 ###### For Nate: Nate is a wonderful partner to work with! He is great at communication and brings a calming energy to the team. I also appreciate his easygoingness and supportiveness. Nate is competent in his skills and is a very dependable partner.  
-
 
 ###### For Matt Pindell: Matt is a radiating force of positivity and laughter in the cohort. He constantly has a positive attitude that uplifts everyone around him. I really admire and appreciate this quality in him. On several occasions, a Matt joke has uplifted my mood after long work hours.
 
