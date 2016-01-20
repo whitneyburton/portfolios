@@ -171,21 +171,21 @@ Scores:
 
 ### Giving Feedback
 
-###### For Alex: Alex is a good partner to work with. He takes his time to read the error message and think through the issue step-by-step. This has been helpful to me during our pairing sessions because I tend to move too fast. I appreciate Alex's encouraging attitude, his openness to helping others, and his curiosity about the world and eagerness to learn new things.
+For Alex: Alex is a good partner to work with. He takes his time to read the error message and think through the issue step-by-step. This has been helpful to me during our pairing sessions because I tend to move too fast. I appreciate Alex's encouraging attitude, his openness to helping others, and his curiosity about the world and eagerness to learn new things.
 
-###### For Allan: Allan is a great partner to work with! We paired for most of our project and I greatly benefited from observing how he approaches figuring out unknowns. Allan was also very collaborative throughout the process, and did well in explaining his ideas. He has a tendency to move too quick at times, and may overlook some critical information in his haste. Allan's combination of skill, dedication, collaboration, communication, and fun, pleasant personality make him a great partner.
+For Allan: Allan is a great partner to work with! We paired for most of our project and I greatly benefited from observing how he approaches figuring out unknowns. Allan was also very collaborative throughout the process, and did well in explaining his ideas. He has a tendency to move too quick at times, and may overlook some critical information in his haste. Allan's combination of skill, dedication, collaboration, communication, and fun, pleasant personality make him a great partner.
 
-###### For Nate: Nate is a wonderful partner to work with! He is great at communication and brings a calming energy to the team. I also appreciate his easygoingness and supportiveness. Nate is competent in his skills and is a very dependable partner.  
+For Nate: Nate is a wonderful partner to work with! He is great at communication and brings a calming energy to the team. I also appreciate his easygoingness and supportiveness. Nate is competent in his skills and is a very dependable partner.  
 
-###### For Matt Pindell: Matt is a radiating force of positivity and laughter in the cohort. He constantly has a positive attitude that uplifts everyone around him. I really admire and appreciate this quality in him. On several occasions, a Matt joke has uplifted my mood after long work hours.
+For Matt Pindell: Matt is a radiating force of positivity and laughter in the cohort. He constantly has a positive attitude that uplifts everyone around him. I really admire and appreciate this quality in him. On several occasions, a Matt joke has uplifted my mood after long work hours.
 
 ### Feedback Received
 
-###### From Alex: The first time I really got to know July was during our very first assigned pairing session for an exercise we had to do in class. I believe this was the first time I paired up with anyone in 1511 and I'm glad we paired up because I learned a lot as well. One of the things I learned from July was how important communication is when pairing up with July and I thank her for her openness to different ways of approaching a problem. I believe, by having that trait along the way towards being a professional software engineer, she will get along well with others during many future pairing sessions. - Alex Navarrete
+From Alex: The first time I really got to know July was during our very first assigned pairing session for an exercise we had to do in class. I believe this was the first time I paired up with anyone in 1511 and I'm glad we paired up because I learned a lot as well. One of the things I learned from July was how important communication is when pairing up with July and I thank her for her openness to different ways of approaching a problem. I believe, by having that trait along the way towards being a professional software engineer, she will get along well with others during many future pairing sessions. - Alex Navarrete
 
-###### From Allan: July is professional, intelligent and confident. Can easily step back and assess a situation then formulate a solution. Her light and airy demeanor allows for seamless collaboration. July should focus on turning her thought process into words. This will allow others to try and keep up with her quick wit and creativity.
+From Allan: July is professional, intelligent and confident. Can easily step back and assess a situation then formulate a solution. Her light and airy demeanor allows for seamless collaboration. July should focus on turning her thought process into words. This will allow others to try and keep up with her quick wit and creativity.
 
-###### From Nate: I had the opportunity to work with July on our Black Thursday project and I couldn’t have asked for a better partner. July shows reliability, good communication, great organization, and demonstrates  competence in programing and logic. We quickly and organically fell into a good rhythm for pairing, and I look forward to having the opportunity to work with her again.
+From Nate: I had the opportunity to work with July on our Black Thursday project and I couldn’t have asked for a better partner. July shows reliability, good communication, great organization, and demonstrates  competence in programing and logic. We quickly and organically fell into a good rhythm for pairing, and I look forward to having the opportunity to work with her again.
 
 ### Community Participation
 I have participated in improv every week and have reached out to 1602 students. I also led a group retro session.
