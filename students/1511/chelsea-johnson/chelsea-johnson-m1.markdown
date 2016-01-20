@@ -226,8 +226,15 @@ I am participating in the Book Club (reading Middlemarch) and recently started a
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Individual projects are quite strong -- pushing toward 4 territory; happy to
+see how effectively you are executing these
+* Would like to see you taking a more active and organizational approach to managing extracurricular
+activities and groups
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 4
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__3
+* __E Peer & Instructor Feedback:__ 3
