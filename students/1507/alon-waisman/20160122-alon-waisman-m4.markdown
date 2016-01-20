@@ -79,8 +79,11 @@ This project is inspired by [Minicade](http://minica.de/).
 #### Scores
 
 Assessed By: Romeeka G.
-"Looks great, plays well, sounds cool and allows me to press buttons, which is my favorite activity"
+"Looks great, plays well, sounds cool and allows me to press buttons, which is my favorite activity."
 
+<center><img src="bonus_round_screenshot.jpg">
+<img src="alons_controller.jpg"></center>
+<br>
 * **First Check In Goals**: 50/50
 * **Second Check In Goals**: 50/50
 * **Third Check In Goals**: 50/50
