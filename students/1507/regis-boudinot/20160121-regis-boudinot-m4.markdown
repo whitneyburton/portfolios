@@ -25,6 +25,8 @@ This module I attended all days and classes.
 
 * Points: 159/150
 
+In this project, I made IdeaBox again using jQuery, AJAX, and a Rails API. This was the first project of the module and it felt like being thrown into a volcano. I learned a ton and really enjoyed finishing it!
+
 Notes: Refactor Ajax calls and use ```replace``` instead of ```remove```/```append```. Good use of ES6.
 
 #### ThoughtBox
@@ -46,7 +48,7 @@ Title: Crowdsource
 
 * Points: 153/200
 
-In this project, I worked with Node, Express, and Socket.io to create a real time voting app.
+In this project, I worked with Node, Express, and Socket.io to create a real time voting app. This project was really tough. It had the feeling of learning LinkedList for the first time. The amount of abstraction was quite large at first. Going deep into javascript was the way out, and enabled me to think in complex ways. I really enjoyed building the data structures for this project.
 
 Notes (My Own): Learned a lot! Was busy helping people with their own projects and putting out Digital Ocean dumpster fires.
 
@@ -89,6 +91,8 @@ Eventually I branched off and learned Docker. I can build an initial Docker cont
 #### Game Time
 
 * Points 345/300
+
+In this game I built a game that is playable in the browser. There is no server-side component for this project. I used client-side JavaScript exclusively to complete this project. My partner was Zach Routhier and it was interesting working on a project with someone that was auditing the course. 
 
 Notes (My Own): Really really enjoyed this project. Opened my eyes on how complex static apps can be. This is where I dove deep into
 
