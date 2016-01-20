@@ -16,7 +16,7 @@ My overall point total for the module, without taking the final, was 966/1104 fo
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 * [Heroku Deployment](https://jbrr-ideabox2.herokuapp.com)
 
-In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API. I was evaluated by Lovisa and received a total score of 148/150.
+In this project, I made IdeaBox again using jQuery, AJAX, and a Rail API. I was evaluated by Lovisa and received a total score of 148/150. This project was definitely stressful, it felt like being thrown into the deep end of the pool, similar to module 1. In the end, I walked away with a much better understanding of AJAX and jQuery, and was starting to feel more comfortable with JavaScript in general, although I think that Game Time really started to solidify some concepts (and syntax) for me.
 
 * Data Model: 5
 * Viewing Ideas: 9
