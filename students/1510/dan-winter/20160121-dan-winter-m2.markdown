@@ -158,6 +158,33 @@ He’s found where I’ve been struggling and than walked me through it. Doing a
 
 Sunny approached me with an idea early in the module to transform a portion of the basement into a plant haven. I loved the idea and helped execute operation Pinterest Flowerpot Post over the holiday break.
 
+## Blog Post
+
+#### Rabbit Holes, Staches, and Module 2 at Turing
+
+
+As a module 2 student at Turing School of Software and Design, we spend a lot of time in the dungeon, as it is affectionately known. Students have been known to sleep there on occasion, finishing one of the challenging projects that fill our classes. It wasn’t always about the stache. Module 1 was about logic, reasoning and laying a foundation in object oriented programming using Ruby to solve challenges like building cryptographic tools used in World War II or building data storage and performing analysis on almost one hundred thousand lines of school performance csv data.
+Module 2 has been different, to say the least. We dove head first into Sinatra, a domain specific language built in Ruby used to create web applications. It’s like Rails but having to build a lot more from scratch. That’s been a theme here at Turing.
+
+Teacher: “Go build that complicated thing”
+Student: “That’s not really a thing that people can build, is it?”
+Teacher: “Start with a test and fix the error.”
+
+Fast forward several gruelling days or weeks of this conversation repeated over and over again.
+
+Teacher: “Now that you can build that on your own, here are some easy tools to do it for you.”
+
+And thus, we were given Rails. And staches. Okay, maybe that wasn’t the directive from Turing but the mission seemed clear to my team from the start. We were told to build an online store, complete with items for sale, carts, admin functionality to view order details and create new items to sell. I was an early proponent for Jurassic Farms - the first online dinosaur butchery. After lively and passionate debate, we settled on Private Stache, a luxury mustache boutique, and I’m the better for it.
+
+We spent the first few days putting into practice the use of acronyms like CRUD and STACHE(not a real software acronym, as far as I know). As a junior web developer, there’s a ton to learn. There are plenty of acronyms, definitions, frameworks and various other impressive sounding technical terms I don’t know and I’m frequently wrong. I’m okay with that, as long as I learn from the process. Failure is one of the best ways to learn, it’s how you react that matters.
+
+It can be hard not to fall into a rabbit hole working on final projects. There’s always a new language to learn, gem to use or fad to chase. There seems to be no end to additional features, more tests or better refactoring. It’s hard to tell what’s worth spending time on and when to go ask for help or maybe accept that my idea is too ridiculous or will take too long.
+
+I’m here to tell you some rabbit holes are worth falling into, headfirst. But first get interested. In something. When you are curious and excited about what you’re doing, you learn more. Not just a little more, substantially more. For me, that rabbit hole was the stache cam. We had this crazy idea that we should let our fictional online customers try on our fine mustaches before purchasing them in an effort to drive fake sales.
+God Driven Development was in full force when I signed up for an account with Face Plus Plus, an API that responds to photos with facial recognition and detection analysis. I dreamt of stache-ing the world, one Private Stache customer at a time.
+Let’s just say my Face Plus Plus account hasn’t sent a single API request. It didn’t work out the way I wanted. I looked through several other APIs to no avail. I didn’t know how to do it. I struggled. I asked for help. I thought of a different solution and found a gem that helped me access our user’s webcams. Another problem hit with the webcam gem when the hooks I needed for my controllers didn’t work. I figured out a different way. I monkey patched my way around it so much that when I explained what I had done to one of my mentors, they listed out each step I took as if recalling cardinal sins of programming. And told me not to do it again.
+But I wrote my first JavaScript function. And I learned about Ruby threads and modifying my own gems. I read through open source code when things didn’t work like I expected and even ended up hosting the app myself on my own digital ocean droplet. I failed and I learned and I adapted. After it all, the stache cam lives.
+
 ## Review
 
 ### Notes
