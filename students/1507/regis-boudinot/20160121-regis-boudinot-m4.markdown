@@ -32,6 +32,8 @@ Notes (My Own): Was deep in the job search and had 2 phone interviews that day. 
 
 #### Real Time
 
+Title: Crowdsource
+
 * [GitHub Url](https://github.com/selfup/crowdsource)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
@@ -52,6 +54,8 @@ next steps might be to look at pulling this apart
 obvious
 * Additionally would probably make testing easier since we would have more explicit insight into
 the connections between pieces of our system
+
+![](http://i.imgur.com/46APCeZ.png)
 
 ### Personal Project (Non Curriculum Based)
 
