@@ -71,7 +71,7 @@ https://github.com/brennanholtzclaw/enigma
 
 ***Fundamental Ruby & Style:*** **4** - Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-<h2>Mid-Module Assessment</h2>
+<h2>Mid-Module Diagnostic</h2>
 
 Right after holiday break we came back to our Mid-Module Assessment. I really like the focus of this assessment being mythical creatures. Object action and interaction is fun to me, and I think my scores show that I grasp the area well.
 
