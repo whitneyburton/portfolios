@@ -106,9 +106,7 @@ Two blog posts were written by Zach and myself.
 
 ### Feedback to Me
 
-#### I was told:
-
-Adam Jensen:
+#### Adam Jensen:
 
 #### "GOOD" STUFF
 
@@ -129,7 +127,7 @@ I used to think that Regis Stressed a lot. Back in M1, I do think that he would 
 One Criticism. Regis tends to go quickly sometimes. Regis can explain things very well, but sometimes doesn't. But then again, I can usually call him out and he realizes that he needs to explain something again and he's cool with it. The cool part is that he never gets upset of frustrated. It's kind of funny actually. Regis is just REALLY into everything. It's hard to keep up.
 
 
-Meeka:
+#### Meeka:
 
 You’ve put in a lot of work this module, and I suspect all the past modules. Good work! Specifically, good job on managing the Game Time project. It’s a kudos to both you and Zach that you both kept your enthusiasm up through the whole project and tackled some really cool challenges, especially when Zach wasn’t tied, point-wise, to completing the project.
 
