@@ -191,8 +191,6 @@ Adam approaches problems with confidence that is contagious. Half the battle in 
 
 "I never really knew Brian that well until we were partnered up for our HTTP Yeah You Know me project. It was interesting because I found myself teaching Brian new ways on approaching problems when it came to our project. I also like the fact how he is always aware when it is time to stop struggling and ask for help. That is something I noticed I personally lacked myself before getting to know him better. Overall, I'm glad that he was a cool partner to be paired up with over a difficult project that was new to both of us. So for that, I thank him for making it possible for both of us to turn in a successful project even when we were struggling to get passed Iteration 0 for a couple days."- Alex Navarrete
 
-
-
 ### Playing a Part
 * made a consistent effort to reach out to students from other modules
 * encouraged my posse to meet up in the morning
@@ -205,8 +203,13 @@ Adam approaches problems with confidence that is contagious. Half the battle in 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Like seeing some progress on individual projects -- want to see more of that
+* Would like to see a solid project-based assessment of where your individual skills are now
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 2*
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
