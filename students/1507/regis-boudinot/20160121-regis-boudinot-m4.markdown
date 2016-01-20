@@ -4,29 +4,77 @@
 
 ### Mission Statement
 
-This module I want to teach more people about DevOps and enable them to be able to teach DevOps once I am done. I also want to learn Python while learning ES6. I also want to focus on the job search. So some projects might take a hit from doing so, but the point system was built with this in mind!
+This module I want to teach more people about DevOps and enable them to be able to teach DevOps once I am done. I also want to learn Python while learning ES6. I also want to focus on the job search. So some projects might take a hit from doing so, but the point system was built with this in mind! I am also excited to learn more about Node and Express!
 
 ### End of Module Assessment
 
 N/A
 
+Total Points: 923
+
 ### Attendance
 
-This module I attended all days and classes on-time.
+This module I attended all days and classes.
 
 ### Work
 
+Title: IdeaBox
+
+Points: 159/150
+
+Notes: Refactor Ajax calls and replace instead of remove/append. Good use of ES6.
+
+Title: ThoughtBox
+
+Points: 40/100
+
+Notes (My Own): Was deep in the job search and had 2 phone interviews that day. Really enjoyed the challenge but my plate was full!
+
+Title: Real Time
+
+* [GitHub Url](https://github.com/selfup/crowdsource)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+
+Points: 153/200
+
+Notes (My Own): Learned a lot! Was busy helping people with their own projects and putting out Digital Ocean dumpster fires.
+
+#### Personal Project (Non Curriculum Based)
+
+* [GitHub Url](https://github.com/selfup/DevOpsOne)
+
+Title: DevOpsOne
+
+Notes: Did this during the 2 weeks break. Learned more about Linux than I could have imagined.
+
+Purpose: To dive deeper into DevOps and learn how to script in Python as well as Ruby. This repo can setup up fresh Debian based VM's/VPS's/Desktops in around 6 minutes with Ruby/Rails/Node/Postgres and more.
+
+Eventually I branched off and learned Docker. I can build an initial Docker container by cloning this repo and running my scripts in the Dockerfile in around the same amount of time. Then once the provision has been cached, spinning up new containers takes about 1 to 2 seconds.
+
+![](https://i.imgur.com/LXg0mHe.png)
 
 ## Team
 
+* [GitHub Url](https://github.com/selfup/game-time)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+
+Title: Game Time
+
+Points 345/300
+
+Notes (My Own): Really really enjoyed this project. Opened my eyes on how complex static apps can be. This is where I dove deep into
+
+Two blog posts were written by Zach and myself.
+
+[Zach's blog post](https://medium.com/@z_Routh/es6-jquery-and-multiple-keypress-b3ea0f1cde1d#.vkyllprai)
+
+[Regis' blog post](https://medium.com/@rboudinot/calling-getters-on-getters-in-es6-classes-a81da6094c07#.mp0u9j425)
+
+![](http://i.imgur.com/LZyeXym.png)
 
 ### Feedback to Me
 
 I was told:
-
-"Best group ever! I think we all worked together super well, never got too stressed, and got to do lots of cool things. I especially appreciated your enthusiasm and excitement throughout the project, I think it added a lot to the group dynamic. You’re also constantly curious, and always wanting to try new stuff, and I appreciate that too. I’m not sure if I really have a poopsicle for you, that project was an absolute blast the whole way through."
-
-"Working with you was nothing but positive. Your knowledge for dev-ops is obvious and it was awesome that you wanted to share that with us. Figuring out two-factor auth with the phone was skillful. I always knew I could count on you to work hard, and we all worked so well together, it’s definitely been my favorite group experience. Your enthusiasm towards learning to code, doing a good job on the project, and being a good team member made you a pleasure to work with."
 
 ## Community
 
@@ -37,12 +85,9 @@ feedback was actionable and supportive.
 
 Here are some examples:
 
-"Jeff: Was the best team lead I have had yet. He was not aggressive, and was not too laid back. He let the team work on their ideas and gave mini deadlines to be sure we weren’t getting lost. He really helped improve my experience at Turing. I never felt pushed, and he was also reassuring. The only poopsicle I can think of for Jeff is that he might be too laid back but other than that he has a really good head on his shoulders."
-
-"You were a great example of a hard worker. Your talent for figuring out the front-end and helping your teammates when they are stuck is what made working you an awesome experience. You understand git workflow very well, and are a very quick learner. Our group was by far the best group I have ever worked with in a deadline based project where our knowledge was tested. I wish I had something negative to say so that you could build on some skills you need help with, but your intuition for figuring out problems and being self aware seems to bring you forward. I look forward to working with you again!"
-
 ### Playing a Part
 
+* I helped set up 4 students on Digital Ocean running production environments. One of them is in Module 2!
 * During the leading intermission week I helped setup computers for 1510. I also gave a talk with 1508 about what to expect.
 * Every Sunday at 2 or 3 pm I taught a mix of Javascript/Arduinos/Raspberry Pi/Ruby for an hour or two
 * The first week of the module I held a student led session on setting up a rails environment in a Vagrant Box (again). (10 students)
