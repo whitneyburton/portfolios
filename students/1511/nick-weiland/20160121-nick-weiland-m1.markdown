@@ -7,7 +7,7 @@ I want to do work that is consistently challenging and purposeful.
 
 Coming into Turing, I thought I would only be a programmer for a short time after graduation--I thought having programming skills would allow me to have a unique technical perspective, in combination with a people-focused background, that would facilitate access to more interesting opportunities.  Now, just six weeks later, I find myself so engaged with the tasks we are working on that I feel excited about the idea of committing to programming in the long term.
 
-My mission for Mod 2 is to maintain my excitement working with code, produce useful programs, and start to consider ways I might use the skills I develop to meaningfully merge my interests in tech with social justice issues.
+My mission for Mod 2 is to maintain my excitement working with code, produce useful programs, and start to consider ways I might use the skills I develop to meaningfully merge my interests in tech and social justice.
 
 ### End of Module Assessment
 
