@@ -289,17 +289,21 @@ Julian’s positivity and optimistic outlook is infectious. This combined with h
 * Treated Turing as my home and made sure to clean up after myself.
 * Made sure to always cheer up the people around me and create an environment that fosters learning and loving each other.
 
-
 ## Review
 
 ### Notes
 
-
+* Individual work is very solid -- want to see you starting to push beyond the in-the-box expectations
+and bringing your own enthusiasm and creativity to the projects
+* Key is to keep filling the expectations as you have been doing
+* Community engagement seems strong -- people love working with you and you seem to bring a great
+energy to the group
+* BYOEnthusiasm
 
 ### Outcome
 
-* Assessment -
-* Individual Work -
-* Team Projects -
-* Community Involvement -
-* Feedback -
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
