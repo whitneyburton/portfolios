@@ -1,4 +1,5 @@
 # Ryan Asensnio - Module 4 Portfolio
+![](http://media.giphy.com/media/GuDQNjS0qJHpe/200.gif)
 
 ### Areas of Emphasis
 
@@ -60,6 +61,7 @@ Built a CRD app with ClojureScript's library for ReactJS.
 ##### This module I...
 
  * Helped my classmates
+ * Lead session on Clojure
  * Participated in HackDesign
  * Cooked for thanksgiving
  * Found job postings for classmates
