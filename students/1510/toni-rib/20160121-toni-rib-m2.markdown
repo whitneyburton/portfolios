@@ -118,6 +118,8 @@ This Rails application is a marketplace for artists. An artist can register an a
 
 * __From Lenny Myerson:__ "When I was grouped with Toni for the Rails mini project I was intimidated. She is smart, quick, and her work seem exemplary. She was, however, quick to relieve me of my intimidation and worry. She was always quite happy to explain her understanding of a problem or her solution to it. She showed no ego whatsoever about saying “I don’t know” when appropriate and she seemed eager for the group to be successful. I greatly appreciated her help and insight and I look forward to working with her again."
 
+* __From Brenna Martenson:__ "Working with Toni has been such a positive experience on every level. She has an amazing ability to quickly focus a problem and find an effective solution, which is incredibly beneficial in large projects. Occasionally her impressive forethought can be hard to slow down, making offering other suggestions challenging at times. She is eager to take on difficult tasks and is always ready to offer opinions on project direction and design. I’ve found that our workflow together is extremely fluid and I would be thrilled to have the opportunity to work with her again!"
+
 ### Playing a Part
 
 * Started Tuesdays w/Toni where I paired with 2 people for 45 minutes each every Tuesday through the whole module. It mostly ended out being with 1511 students who seemed to really appreciate the extra help.
