@@ -243,4 +243,15 @@ In the future I plan to attend improv every week and do the dishes at least two 
 
 ### Notes
 
+* Individual projects very successful
+* HTTP project struggled a bit; hoping to see solid results on Headcount
+* keep sending those chill vibes
+* conf talks at lunch? Potluck + ted talk?
+
 ### Outcome
+
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
