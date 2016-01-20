@@ -66,7 +66,7 @@ Below are the projects that I completed for module 3.
 
     Scores: TBD
 
-      *
+    *
 
 ## Team
 
