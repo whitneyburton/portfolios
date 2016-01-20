@@ -149,8 +149,9 @@ Breaking Logic into Components Score: 3
 "Alex was a fun partner to work with. Being able to laugh at yourself while stressed can make or break those tough moments and I was grateful that Alex had that quality. He demonstrated solid use of pry as a debugging technique. He also has a solid grasp on his ruby fundamentals and demonstrates good testing habits."- Brian Rippeto
 
 ### Playing a Part
-This time around I ended up playing a bigger part in helping out my classmates whenever they felt stuck in an assignment. For example, for the very first project Foxtrot had to do, I ended up staying until midnight helping out Deb with her own project. 
+This time around I ended up playing a bigger part on helping out my classmates whenever they felt stuck in an assignment. For example, for the very first project Foxtrot had to do, I ended up staying until midnight helping out Deb with Jungle Beats. I also would always give many of my classmates a heads up on what to expect for future assignments just to lower their anxiety of the unknown.
 
+What I would like to improve on in the future is being able to help out others by explaining things a bit more clearer. 
 ## Review
 
 ### Notes
