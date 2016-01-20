@@ -17,9 +17,6 @@ Assessed By: Lovisa
 
 Result: PASS
 
-##### Notes:
-
-
 ##### Scores:
 
 * Ruby Syntax & API: 4
@@ -145,19 +142,20 @@ Assessed By: Lovisa
 >**Deborah Hamel:** “As she would say (not about herself; see <em>humility</em>), Deborah is an ‘emitter’.  Her positivity is infectious and her <em>humility</em> gives her a unique ability to build up everyone she interacts with. Unfortunately, this last quality has some adverse effects—A tendency to doubt herself has led to morphed view of her own abilities as a programmer. She has very insightful design ideas and a dedication to TDD that consistently challenges my urge to reject TDD when working with smaller code challenges. I have learned a lot from standing next to her during lectures in Classroom A and I’m excited to see what she accomplishes as her programming  confidence builds."<p>
 >**Matt Pindell** “I asked Matt to lead a Hack Design session after another group member cancelled and he facilitated a discussion that reset the standard for how these meetings should be led.  His preparedness showed a level of dedication that was much appreciated and the resulting discussion served as a reminder for why we give up our lunch each Thursday to talk about design—Because it’s awesome."<p>
 **Adrienne Domingus** “Adrienne’s dedication to getting the most out of her time at Turing serves as a daily motivator to improve. Her eagerness to learn new concepts along with a habit reflecting on the quality of her code not only leads to impressive results, but also an awesome pairing experience."<p>
+**Admir Dragonovic** "I got to know Admir while we worked on Black Thursday and it was a great reminder of how people we are around everyday have incredibly interesting stories that you only find out if you either engage in conversation... or are forced to sit next to each other for two weeks writing code :). It was fascinating to learn about Admir's past as a Bosnian refugee in Germany and his work in the Oil Industry in West Texas (read 'Friday Night Lights'; that place sounds crazy interesting).  Admir's people skills are a clear strength and they will be an asset in any work/tech/business environment."
 
 ### Being a Community Member
 
 >“Working with Nick on HTTP YYKM was a great and rewarding challenge. Nick has an incredible understanding and grasp of programming. Throughout this project his knowledge pushed me to become a better student and programmer. He was able to also drop some html knowledge on me and helped our group add some really cool features to the final submission."-**Adam Hundley** <p>
 >"Nick not only shows strong programming skills, but also shows a passion for the work. He gets engrossed in the problems and continues to look for better solutions. We had fun when we had opportunities to pair together, as we could explore and bounce ideas off of each other. He maintains a fun and low stress attitude that is easy to be around!"-**Adrienne Domingus** <p>
 >"Nick is infinitely curious, strategic, excellent and lovable. I can't wait to see the uniquely insightful things he will do with a programming skill set. His depth and intelligence have inspired me and challenged me to look above and beyond the obvious. Sometimes I feel Nick is at a whole different level and in his own world , but in little and big ways he has opened up and offered  support whenever I was in need. So grateful that Nick is here."-**Deborah Hamel** <p>
+>"Pairing with Nick for Black-Thursday was a very positive experience. Nick's attention to detail and his drive to test every portion of the code allowed us to quickly navigate around obstacles we encountered. Aside from Nick being a highly skilled dev student he is also a great person. Nick took the time to explain concepts that I was having trouble understanding and also made time to help me talk through some personal issues I was experiencing. Due to his commission and technical skill Nick would be a key member to any dev team he joins after Turing."-**Admir Dragonovic**
 
 ### Playing a Part
 
 I've participated in the larger Turing Community in the following ways:
 
-* Started Hack Design group, which meets weekly to discuss design concepts
-* Assisted multiple students with their project work/assessment prep throughout the module
+* Started Hack Design group which meets weekly to discuss design topics
 
 ## Review
 
