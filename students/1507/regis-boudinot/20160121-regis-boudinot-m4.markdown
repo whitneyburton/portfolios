@@ -34,7 +34,7 @@ Notes: Refactor Ajax calls and use ```replace``` instead of ```remove```/```appe
 
 * Points: 40/100
 
-Notes (My Own): Was deep in the job search and had 2 phone interviews that day. Really enjoyed the challenge but my plate was full!
+In this project, I had 7 hours to make most of a CRUD app in Rails with a JavaScript front end. Unfortunately I was deep in the job search and had 2 phone interviews that day. Really enjoyed the challenge but my plate was full!
 
 #### Real Time
 
@@ -45,6 +45,8 @@ Title: Crowdsource
 * [Production Link](https://warm-anchorage-1924.herokuapp.com/)
 
 * Points: 153/200
+
+In this project, I worked with Node, Express, and Socket.io to create a real time voting app.
 
 Notes (My Own): Learned a lot! Was busy helping people with their own projects and putting out Digital Ocean dumpster fires.
 
