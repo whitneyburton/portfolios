@@ -138,10 +138,6 @@ Breaking Logic into Components Score: 3
 
 "I remember the first time I met Sunny was when it was intermission week before 1511 started the module. I can even recall the day when I saw him watching these little Ruby Tutorials online and letting him live the moment before he realized that the lessons he was learning would be done in Turing in one day. Besides all of that, I really like how open he is to breaking the ice in conversations. He thinks of topics to discuss that even I would find a bit too much to bring up, but that's a good thing! Also, his zen like attitude is what makes him who he is which brings a style that the Turing community appreciates. For feedback, I'd recommend him to not eat those frozen burritos every day." - Alex Navarrete
 
-
-
-
-
 ### Being a Community Member
 
 "Alex is a good partner to work with. He takes his time to read the error message and think through the issue step-by-step. This has been helpful to me during our pairing sessions because I tend to move too fast. I appreciate Alex's encouraging attitude, his openness to helping others, and his curiosity about the world and eagerness to learn new things." - July Tran
@@ -149,15 +145,22 @@ Breaking Logic into Components Score: 3
 "Alex was a fun partner to work with. Being able to laugh at yourself while stressed can make or break those tough moments and I was grateful that Alex had that quality. He demonstrated solid use of pry as a debugging technique. He also has a solid grasp on his ruby fundamentals and demonstrates good testing habits."- Brian Rippeto
 
 ### Playing a Part
+
 This time around I ended up playing a bigger part on helping out my classmates whenever they felt stuck in an assignment. For example, for the very first project Foxtrot had to do, I ended up staying until midnight helping out Deb with Jungle Beats. I also would always give many of my classmates a heads up on what to expect for future assignments just to lower their anxiety of the unknown.
 
-What I would like to improve on in the future is being able to help out others by explaining things a bit more clearer. 
+What I would like to improve on in the future is being able to help out others by explaining things a bit more clearer.
+
 ## Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Appreciate your approachability and willingness to work with other students in the cohort -- keep it up
+* Would love to see you starting to get involved with the community outside of the cohort
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
