@@ -15,19 +15,19 @@ My mission for Mod 2 is to maintain my excitement working with code, produce use
 
 Assessed By: Lovisa
 
-Result:
+Result: PASS
 
 ##### Notes:
 
 
 ##### Scores:
 
-* Ruby Syntax & API:
-* Ruby Style:
-* Blocks & Enumerations:
-* Testing:
-* Workflow:
-* Collaboration:
+* Ruby Syntax & API: 4
+* Ruby Style: 4
+* Blocks & Enumerations: 4
+* Testing: 4
+* Workflow: 4
+* Collaboration: 4
 
 ### Attendance
 
