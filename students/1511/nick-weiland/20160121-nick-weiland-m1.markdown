@@ -3,17 +3,17 @@
 ## Individual
 
 ### Your Mission
-I'm eager to ensure my life's work revolves around tasks that are both intellectually challenging and purposeful.
+I want to do work that is consistently challenging and purposeful.
 
-Coming into Turing, I was of the mindset that I would only be a programmer for a short time after graduation--I thought having programming skills would allow me to have a unique technical perspective, in combination with a people-focused background, that would facilitate access to interesting opportunities in business dev and management and that I would quickly pivot towards these opportunities.  Now, just six weeks later, I find myself so engrossed with the tasks we are working on that for the first time I feel comfortable entertaining the idea that I could dedicate my time to one thing over a long period of time and be happy.
+Coming into Turing, I figured I'd only be a programmer for a short time after graduation--I thought having programming skills would allow me to have a unique technical perspective, in combination with a people-focused background, that would facilitate access to more interesting opportunities.  Now, just six weeks later, I find myself so engaged with the tasks we are working on that for the first time I feel comfortable entertaining the idea that I could dedicate my time to one thing over a long period of time and be happy.
 
 My mission is to maintain my excitement working with code, produce useful programs, and eventually find a way to use the skills I develop to improve my community.
 
 ### End of Module Assessment
 
-**Challenge: <>**
+**Challenge: Multipliers**
 
-Assessed By:
+Assessed By: Lovisa
 
 Result:
 
@@ -145,7 +145,8 @@ Assessed By: Lovisa
 ### Being a Community Member
 
 >“Working with Nick on HTTP YYKM was a great and rewarding challenge. Nick has an incredible understanding and grasp of programming. Throughout this project his knowledge pushed me to become a better student and programmer. He was able to also drop some html knowledge on me and helped our group add some really cool features to the final submission."-**Adam Hundley** <p>
->"Nick not only shows strong programming skills, but also shows a passion for the work. He gets engrossed in the problems and continues to look for better solutions. We had fun when we had opportunities to pair together, as we could explore and bounce ideas off of each other. He maintains a fun and low stress attitude that is easy to be around!"-**Adrienne Domingus**
+>"Nick not only shows strong programming skills, but also shows a passion for the work. He gets engrossed in the problems and continues to look for better solutions. We had fun when we had opportunities to pair together, as we could explore and bounce ideas off of each other. He maintains a fun and low stress attitude that is easy to be around!"-**Adrienne Domingus** <p>
+>"Nick is infinitely curious, strategic, excellent and lovable. I can't wait to see the uniquely insightful things he will do with a programming skill set. His depth and intelligence have inspired me and challenged me to look above and beyond the obvious. Sometimes I feel Nick is at a whole different level and in his own world , but in little and big ways he has opened up and offered  support whenever I was in need. So grateful that Nick is here."-**Deborah Hamel** <p>
 
 ### Playing a Part
 
@@ -157,8 +158,6 @@ I've participated in the larger Turing Community in the following ways:
 ## Review
 
 ### Notes
-
-* Notes Notes....
 
 ### Outcome
 
