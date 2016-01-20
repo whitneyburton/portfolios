@@ -102,15 +102,17 @@ This Rails application is a marketplace for artists. An artist can register an a
 
 * __To Brenna Martenson:__ "Brenna is a great partner to work with. She is always engaged when the group is working together. She takes on tasks without having to be asked or assigned to them and communicates well to the group what she has completed and what she needs help with. She follows through on her commitments and never complains about taking on more work. She's also AMAZING when it comes to front end coding and styling websites quickly. I would be happy to work with Brenna again on any project!"
 
-* __To Steve Pentler:__ ""
+* __To Steve Pentler:__ "Steve was really fun to work with on Traffic Spy. He never turns down taking on a task and did a great job with views and partials for our site. He also loves to work on the styling which some of us tend to avoid. Steve doesn't given himself enough credit for the work that he puts in and how much he is able to contribute to the group. I think if he started trusting himself a little more he would realize what a great programmer he is!"
 
-* __To Beth Sebian:__ ""
+* __To Beth Sebian:__ "Beth, while often soft-spoken, is not afraid to ask for help or to ask the group to recap a difficult concept which is GREAT trait for anyone in a tech field. We worked together on the rails mini-project and I feel like I learned more because Beth made is slow down, go through each step incrementally, and had a really cool idea of rotating through our group of three to fix each individual error as it came up. I didn't think at first that I would like going that slow but I ended out liking it a lot because I feel like I learned more and like our whole group was engaged. She has great refactoring ideas, too. I think she's going to make a fantastic programmer and that she should learn to speak up even more in a group because she has great ideas."
 
-* __To Lenny Myers:__ ""
+* __To Lenny Myers:__ "Lenny seems to always default to saying he has no idea what is going on, but I think he just needs to learn to trust himself more. I paired with him and Beth S on the rails mini-project and while we were switching who solved the error each time a new one came up, Lenny often knew where and how to fix the error he happened to get. I really think if he put some more confidence into his programming abilities that he surprise himself sometimes. Overall he is a great group member who communicates well and isn't afraid to ask for help when he needs it."
 
 ### Being a Community Member
 
-* __Beth Secor:__ "I was very excited to finally pair with Toni on a project, because I always learn a lot from her when I work with her. It was great to have her by my side as we battled through our first migrations and ActiveRecord associations. Though is was challenging and confusing, we learned a lot together. The only feedback I have for her is to consider the ideas of her group members more often, I wish she had been more trusting of my ideas on how to set up the database and views."
+* __From Beth Secor:__ "I was very excited to finally pair with Toni on a project, because I always learn a lot from her when I work with her. It was great to have her by my side as we battled through our first migrations and ActiveRecord associations. Though is was challenging and confusing, we learned a lot together. The only feedback I have for her is to consider the ideas of her group members more often, I wish she had been more trusting of my ideas on how to set up the database and views."
+
+* __From Taylor Moore:__ "During Little Shop, I finally got paired with Toni who is easily one of the best programmers I know. She is a hard worker that brings a lot to any project. When I was stuck, she would easily wave her and make it disappear. Toni does a great job with following errors and breaking things down to manageable steps. My only suggestions are when pairing try to be more open minded with other ideas. Calmly explain why your idea is superior and make sure they fully understand why.  I will say I wasn’t the best partner during this project. I was poor at communicating even when she reached out as a friend.  She really picked up my slack and helped me through some issues. She is an excellent programmer and even a better friend. I can’t wait to see what her future holds."
 
 ### Playing a Part
 
