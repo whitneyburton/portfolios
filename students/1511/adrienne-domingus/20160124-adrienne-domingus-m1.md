@@ -146,9 +146,17 @@ I have regularly participated in both Kay Posse events and the Joan Clarke Socie
 
 ## Review
 
-
 ### Notes
 
+* Hoping to expand involvement in the community and get engaged with more students
+* Hoping to find more intersection between educational / organizational background and
+technical skills
+* Excited to see your technical skills continue to improve
 
+### Outcome -- PASS
 
-### Outcome
+* __A End-of-Module Assessment:__ 4
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
