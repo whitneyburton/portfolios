@@ -8,6 +8,16 @@ My mission at the beginning of the module was simply to learn the skills necessa
 
 That has expanded over the past six weeks to include additional goals around community and soft skills. Turing is an incredible community of people looking not only to help each other develop their skills, but to make the world a better place, and I hope to engage more in that moving forward. I also hope to improve on my soft skills to be a better partner for team projects and build stronger relationships.
 
+### Mid Module Assessment
+**Assessed by:** Jeff Casimir
+
+* **Ruby Syntax & API**: 4
+* **Ruby Style**: 3
+* **Testing**: 3
+* **Workflow**: 4
+* **Collaboration**: 3
+
+
 ### End of Module Assessment
 
 **Assessed by:** Mike Dao
