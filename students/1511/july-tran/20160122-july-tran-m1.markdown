@@ -188,11 +188,22 @@ Scores:
 ###### From Nate: I had the opportunity to work with July on our Black Thursday project and I couldn’t have asked for a better partner. July shows reliability, good communication, great organization, and demonstrates  competence in programing and logic. We quickly and organically fell into a good rhythm for pairing, and I look forward to having the opportunity to work with her again.
 
 ### Community Participation
+
 I have participated in improv every week and have reached out to 1602 students. I also led a group retro session.
 
+### Notes
+
+* Solid assessment and individual projects
+* Code-switching
+* Would like to see more community engagement; people like being around you and having
+you involved in activities -- you can make things happen and people will join
+* You have a lot of potential both technically and organizationally -- want to see you start
+to figure out what your interests are that go above and beyond the curricular expectations
+
 ### Outcome
-* End of Module Assessment:
-* Individual Work and Projects:
-* Group Work and Projects:
-* Community Participation:
-* Peer and Instructor Feedback:
+
+* __A End-of-Module Assessment:__ 4
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
