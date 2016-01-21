@@ -66,10 +66,55 @@ succeed at this project.
 100%
 
 ###Final
+80/125 points. Was strong in all areas besides completion. My slower work pace
+really hinders me in such time crunches.  
 
 ###Attendance
 I skipped coming in two days that were made into all day work days on solo projects.
-No tardies.
+
+One tardy. Story time: Forgot my computer and didn't find out till I was on the train.
+Went home to get it and lost my wallet on the way to the back up bus stop. I ran
+back along the path and luckily found it. Ran back to the bus stop. Made the back
+up bus. Ran from the terminal to Turing... in fancy shoes not built for running...
+made my achilles bloody. 15 minutes late. It was a bad start to a great day.
+
+###Feedback to me
+* Justin Holzman: George is pleasant to work with… and I’m reasonably sure he
+  actually sees the entire world in X/Y coordinates.
+
+  Working on Chess Trainer with him was the highlight of this module for me.
+
+  He was quick to understand what we were trying to do. Was never arrogant about ideas.
+
+  The biggest idea for improvement: Focus on practicing your hard skills (typing, hotkeys, workflow, etc). You already have an exceptionally good base to try things but being able to work faster will pay dividends down the road.
+
+* Regis Boudinot: You are always letting people know that they are doing a good
+  job. You are  like the “Dad” of our cohort! You are so busy with your family
+  and teaching “Kids Who Code” that I find it difficult to understand how you
+  even made it through this!!
+
+  You did seem to be really really quiet during Mods 1 and 2. Mod 3 you started
+  to open up to our cohort and now you are always being attentive.
+
+  Keep doing you George. You seem to really enjoy this stuff!
+
+* Jack Yeh: George is doing a really great thing teaching kids to code. It’s
+  something that is personally important to me and I am glad that this projects is
+  one that George is continuing post-Turing. George’s quiet demeanor and work ethic
+  is a model or the rest of us. He just likes to get shit done. I look forward to
+  helping George with Kids Who Code going into the future. Since, I didn’t work on
+  a project or assignment with him, I don’t have suggestions for things he can
+  improve on.
+
+* George always had a smile. It was really cool to see him and Justin build out
+  chess for Game Time. We all knew it was a hell of a project to take on for the
+  short amount of time they had, and they never seemed overwhelmed or in poor
+  spirit. George ‘High Five’ Hudson.
+
+* Myself: I am not good at giving negative feedback. Ryan Asensio asked for one
+  negative word feedback and I could not think of a single bad thing to say about
+  him. I then made it a mission to think of constructive and kind negative feedback
+  to others and feel I was mostly successful writing feedback for Erik.
 
 
 Team
@@ -108,7 +153,9 @@ aware of.
   becoming increasingly technical. I still have fun with it though and have many
   blog posts planned for the break! I feel my blog is a useful tool for myself as
   it forces me to go back through my notes and further research topics I am unclear
-  on so that I can write about it more effectively. Over 100 posts!
+  on so that I can write about it more effectively. Over 100 posts! I have many
+  more to make as I am a module behind where my notes are at at this point. It
+  will be good review.
 
 * Kids Who Code is still going strong. Demo night went great! This meetup will
   continue after I graduate. It is highly rewarding. The kids are enthusiastically
