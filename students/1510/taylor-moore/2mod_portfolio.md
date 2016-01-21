@@ -191,10 +191,13 @@ I've supported the larger Turing community in these ways:
 
 **Outcome**
 
-* Assessment -
-* Individual work -
-* Group work -
-* Community Participation -
-* Feedback -
+End of Module Assessment:  3
 
-( Leave blanks for reviewers )
+Individual Work and Projects: 4 
+
+Group Work and Projects:  4
+
+Community Participation: 3
+
+Peer and Instructor Feedback:  4
+
