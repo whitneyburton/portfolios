@@ -75,6 +75,7 @@ Module 1 was an intense programming experience.  Module 1 really challenges how 
 In this project we created a linked list that was the backbone for creating a program that would play different sounds through the terminal.  Although this first project was challenging, Linked Lists are one of the most fundamental Computer Science data structures, and I'm glad we had it as our first project.  I learned a lot about how objects in Ruby call on one another for functionality.
 
 ####Evaluation Rubric
+
 Assessed By: Steve
 
 **1. Functional Expectations**
@@ -154,6 +155,7 @@ In this project we were introduced to HTTP, the protocol that runs the web, and 
 * Practice implementing basic HTTP requests and responses
 
 ####Evaluation Rubric
+
 Assessed By: Horace
 
 **1. Overall Functionality**
@@ -263,4 +265,8 @@ I attended as many after school group meetups that I had time for.  One of our c
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 2
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
