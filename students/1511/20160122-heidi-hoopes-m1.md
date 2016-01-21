@@ -184,11 +184,13 @@ Functionality 2
 Test-Driven Development
 Score: 3
 * Tests pass:
-  ```
- Finished in 2.2 seconds (files took 0.82601 seconds to load)
- 80 examples, 0 failures, 13 pending
- 
-```* Many pending
+
+```
+Finished in 2.2 seconds (files took 0.82601 seconds to load)
+80 examples, 0 failures, 13 pending
+
+```
+ * Many pending
 * Test harness: (8/23) -- 23 runs, 104 assertions, 3 failures, 5 errors, 0 skips
 * 7 files under 80% coverage
 
@@ -271,6 +273,10 @@ My natural strengths in groups are supporting those around me, explaining concep
 
 ### Notes
 
-
-
 ### Outcome
+
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 
+* __C Group Work & Projects:__
+* __D Community Participation:__
+* __E Peer & Instructor Feedback:__
