@@ -8,7 +8,7 @@ I want to be a solid programmer and a great teacher, and I chose Turing because 
 
 My main areas of focus this module have been comprehension and collaboration. I'm interested in comprehension of concepts/skills directly required as well as their relationship to peripheral ideas and tools. On the collaboration front, I made sure I contributed to the groups I worked in, communicated clearly, and established structure where needed.
 
-Also of note this module, I made more time for side projects, including spending a good deal of time early in the module on [[Bitcoin]](https://github.com/bethsebian/bitcoin). I liked the chance to experiment with Ruby and the freedom to customize my application around the project's needs as I saw them. I leaned heavily on our instructor's resources when working to master concepts, but when it came to writing the code itself, I worked independently. The challenge was rewarding.  
+Also of note this module, I made more time for side projects, including spending a good deal of time early in the module on [Bitcoin](https://github.com/bethsebian/bitcoin). I liked the chance to experiment with Ruby and the freedom to customize my application around the project's needs as I saw them. I leaned heavily on our instructor's resources when working to master concepts, but when it came to writing the code itself, I worked independently. The challenge was rewarding.  
 
 ### End of Module Assessment  
 **Evaluator:** Rachel Warbelow  
@@ -20,6 +20,7 @@ Also of note this module, I made more time for side projects, including spending
 * able to use pry for debugging  
 * able to refactor using docs  
 
+**Rubric Scores**
 * **Analytic/Algorithmic Thinking** - 3  
 * **Ruby Syntax & Standard Library** - 3  
 * **Rails Syntax & API** - 3.5  
@@ -30,13 +31,13 @@ Also of note this module, I made more time for side projects, including spending
 
 ### Attendance
 
-I had no major attendance events in Module 1.
+I had no major attendance events in Module 2.
 
 
 ### Work
 
 The project work below reveals some consistent themes across my work this module:
-* Working knowledge of Rails, TDD and debugging with Pry and Byebug
+* Working knowledge of Rails, TDD and debugging with Pry and Byebug.
 * Seeking experience in areas of weakness: testing with RSpec when given choice, creating additional Rails projects outside of class for extra repetitions.
 * Continuing to struggle with style: tests are too verbose, methods could be cleaner, inadequate time spent refactoring.
 * Collaborating effecting, demonstrating ability to lead projects, execute concensus goals, work well with others.
@@ -61,13 +62,14 @@ The project work below reveals some consistent themes across my work this module
 *  
 *  
 
+**Rubric Scores**
 * **Functional Expectations** -   
 * **Test-Driven Development** -   
 * **Ruby Style & Fundamentals** -   
 * **Encapsulation / Breaking Logic Into Components** -   
 * **Enumerable & Collections** -   
 
-**Self-assessment**
+**Self-assessment**  
 This was a seamless collaboration project. We stayed in close communication, reevaluated work plans and strategy, pretty closely arrived at a point when we could split off to work independently. I was battling the flu during the second week of this project: on the positive side, I think I was quick to jump in where I could and bit off realistic chunks of work that positioned my Jordan and Greg to do their work well. There were several times during the project where I could have communicated more clearly to them about the status of my work.
 
 
@@ -85,7 +87,7 @@ This was a seamless collaboration project. We stayed in close communication, ree
 * Understand and practice HTTP verbs including GET, PUT, and POST  
 * Practice using fundamental HTML and CSS to create a usable web interface  
 
-**EVALUATOR:** Rachel Warbelow  
+**Evaluator:** Rachel Warbelow  
 * **Functional Expectations** - 3  
 * **Test-Driven Development** - 4  
 * **Encapsulation / Breaking Logic into Components** - 3.5  
