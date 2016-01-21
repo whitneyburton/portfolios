@@ -20,7 +20,7 @@ Evaluation:
 * Organization: 4
 * User Experience: 3
 * Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
-* Code Quality: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* Code Quality: 3: Project demonstrates some gaps in code quality and/or application of MVC principles.
 
 #### Apicurious
 
