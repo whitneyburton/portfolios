@@ -12,7 +12,7 @@ Learn more than just the basics necessary to change my professional career from 
 
 ### Attendance
 
-Although sometimes sleep deprived, I  was able to attended each and every day.
+I  was able to attended each and every day of Module 1.
 
 ### Work
 
@@ -24,39 +24,79 @@ Module 1 was an intense programming experience.  Module 1 really challenges how 
 * [GitHub URL](https://github.com/MDes41/Enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/b38606f60fd77e4bf64e6c33d922c90f3cdfa4dc/source/projects/enigma.markdown)
 
-Introduction
-
 In this project we used Ruby to build a tool for cracking an encryption algorithm.
 
-Learning Goals / Areas of Focus
+#Learning Goals / Areas of Focus
 
 * Practice breaking a program into logical components
 * Testing components in isolation and in combination
 * Applying Enumerable techniques in a real context
 * Reading text from and writing text to files
 
-(evaluation comments)
+#Evaluation Rubric
+Assessed By: Meeka
 
-(evaluation scores)
+#1. Overall Functionality
 
-## Team
+3: Application encrypts, decrypts, and cracks files as described (works well - just didn't do an extension)
 
-### Projects
+#2. Fundamental Ruby & Style
 
-(Intro)
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring (Matt was able to speak to places that he refactored and explain why and how)
 
-#### (Project Name)
+#3. Test-Driven Development
 
-* [GitHub URL]()
-* [Original Assignment]()
+3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested. (Had a decent test suit, but did not cover any sad paths)
 
-(description)
+#4. Breaking Logic into Components
 
-(evaluation comments)
+4: Application effectively breaks logical components apart with clear intent and usage (Did a great job of doing this)
 
-(evaluation scores)
+Feedback from Meeka:
+Matt had a good understanding of what was going on, I gave him some advice on the correct places to leave comments in ruby code.
 
-(feedback to me)
+#### Team
+
+(intro)
+
+#### Team Projects - HTTP Yeah You Know Me
+
+* [GitHub URL](https://github.com/marinacor1/HTTP)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+In this project we'll begin to introduce HTTP, the protocol that runs the web, and build a functioning web server to put that understanding into action.
+
+#Learning Goals
+
+* Practice breaking a workflow into a system of coordinating components
+* Practice using TDD at the unit, integration, and acceptance levels
+* Understand how the HTTP request/response cycle works
+* Practice implementing basic HTTP requests and responses
+
+#Evaluation Rubric
+
+#1. Overall Functionality
+
+2: Application implements three iteration
+
+#2. Fundamental Ruby & Style
+
+2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+
+#3. Test-Driven Development
+
+2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+
+#4. Breaking Logic into Components
+
+2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
+Feedback from Horace:
+
+
+Feedback from Horace:
+* Top-level server request/response loop algorithm is cleanly written and easy to follow; however it is currently just spread across a lengthy top-level loop in the project's main namespace
+* Project generally suffers from long and complicated methods. most of the concepts are there but the code needs to be cleaned up and extracted into at least more methods and probably more objects as well
+* Additionally the implementation relies on a lot of "magic numbers" - especially hardcoding specific array indices for certain data etc.; would like to see more of this extracted into variables and methods so that we can give them names that describe why they're so important to the algorithm
 
 ## Community
 
@@ -70,13 +110,17 @@ Learning Goals / Areas of Focus
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I try to be
 
 ## Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 4
+* Individual Work and Projects: 4
+* Group Work: 3
+* Community Participation: 4
+* Feedback: 3
 
 ### Outcome
 
