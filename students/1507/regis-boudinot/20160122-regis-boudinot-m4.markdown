@@ -98,7 +98,7 @@ Eventually I branched off and learned Docker. I can build an initial Docker cont
 
 In this game I built a game that is playable in the browser. There is no server-side component for this project. I used client-side JavaScript exclusively to complete this project. My partner was Zach Routhier and it was interesting working on a project with someone that was auditing the course.
 
-Notes (My Own): Really really enjoyed this project. Opened my eyes on how complex static apps can be. This is where I dove deep into
+Notes (My Own): Really really enjoyed this project. Opened my eyes on how complex static apps can be. This is where I dove deep into ES6.
 
 Two blog posts were written by Zach and myself.
 
