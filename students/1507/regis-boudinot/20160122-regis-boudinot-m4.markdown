@@ -40,7 +40,7 @@ Notes: Refactor Ajax calls and use ```replace``` instead of ```remove```/```appe
 
 * Points: 40/100
 
-In this project, I had 7 hours to make most of a CRUD app in Rails with a JavaScript front end. Unfortunately I was deep in the job search and had 2 phone interviews that day. Really enjoyed the challenge but my plate was full!
+In this project, I had 7 hours to make most of a CRUD app in Rails with a JavaScript front end. Unfortunately I was deep in the job search and had 2 phone interviews as well as a code challenge that day. Really enjoyed the challenge but my plate was full! At this point I knew I had enough points to be able to take a hit. Thankfully the point system was built with this in mind.
 
 #### Real Time
 
