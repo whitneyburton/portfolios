@@ -7,6 +7,7 @@
 Coming into Module 1 I wanted to see if I could become a confident programmer. I wanted to see if I could manage a big life change and be capable of learning something really hard and new after years of doing predictable things. I hoped to increase my understanding of object-oriented programming and problem solving and build up productive and strategic personal learning practices.
 
 ### Mid Module Assessment
+
 **Assessed by:** Lovisa
 
 * **Ruby Syntax & API**:3
@@ -139,9 +140,9 @@ Scores:
 ## Community
 
 ### Giving Feedback
+
 ###### For Sunny:
 Sunny is a connector. His chill attitude and earnest enthusiasm perpetuates through all obstacles and struggles and creates an atmosphere of positivity and tenacious energy for everyone.  Pairing with Sunny has been perhaps one of the richest and most influential experiences of my time here. We faced many challenges pairing on Headcount and I am so grateful for the openness, generosity and adaptability Sunny consistently brought to the project. Sunny is dedicated and passionate about coding and gets into a zone when he is grinding through options and chasing down bugs. Sometimes it is hard to interject things when he gets into a zone, but who can fault him for loving the coding jam so much. He will be a voracious learner as a programmer and I can't wait to see the cool and unique things he will develop.
-
 
 ###### For Nick W.:
 Nick is infinitely curious, strategic, excellent and lovable. I can't wait to see the uniquely insightful things he will do with a programming skill set. His depth and intelligence have inspired me and challenged me to look above and beyond the obvious. Sometimes I feel Nick is at a whole different level and in his own world, but in little and big ways he has opened up and offered  support whenever I was in need. So grateful that Nick is here.
@@ -160,8 +161,6 @@ Russell took the time to help me practice TDD from a blank page even though he h
 
 ###### For Bret D.:
 Brett found me floundering and stuck with Linked Lists and took the time to pair with me. He helped me understand some complex topics by talking through the logic with some of the most entertaining and useful dry-erase marker scenarios the world has every seen. He made me feel confident and never once emphasized what a newbie I was. Bret seems shy, and a bit self conscious but he was my hero on Linked Lists.
-
-
 
 ### Being a Community Member
 
@@ -194,8 +193,16 @@ Weekly pairing with mentor<br />
 
 ### Notes
 
-( Leave blanks for reviewers )
+* great job leading group retro
+* cohort enjoys having you around
+* appreciate your contribution to the dynamic
+* want you to repeat mod 1 and spend more time solidifying the fundamentals
+* want to see your continued enthusiasm and work ethic through the next attempt at mod 1
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 1
+* __B Individual Work & Projects:__ 2
+* __C Group Work & Projects:__ 2
+* __D Community Participation:__ 4
+* __E Peer & Instructor Feedback:__ 4
