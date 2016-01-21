@@ -83,8 +83,11 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Individual Work: 3
+- Group Work: 3
+- Community: 3
+- Feedback: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate

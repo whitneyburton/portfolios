@@ -59,3 +59,13 @@ Previous modules have been about being in public (going to improv, doing student
 Looking forward to sort of stepping up my paper game (resume, personal website, cover letters) with the free time. Also looking to start more conversation with potential employers.
 
 I've sorted decided that I prefer a Node job. Optimistic about getting a Node job!
+
+
+### Scores
+
+- Group: 3
+- Individual: 3
+- Community: 3
+- Feedback: 1
+
+PENDING - your portfolio is incomplete or non-conforming and will be re-evaluated as soon as possible. If it is incomplete after 24 hours it will be moved to RETAINED or EXCUSED
