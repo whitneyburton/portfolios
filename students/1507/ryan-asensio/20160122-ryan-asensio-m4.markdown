@@ -56,6 +56,13 @@ Built a CRD app that consumes an api.
 
 Built a CRD app with ClojureScript's library for ReactJS.
 
+#### Tutorials 
+
+I wrote an intro to Clojure Tutorial [here.](https://github.com/rasensio1/10-steps-clojure)
+
+And also a Clojurescript game tutorial [here.](https://svbtle.com/beginners-guide-to-an-app-in-clojure/edit)
+
+
 ## Community
 
 ##### This module I...
