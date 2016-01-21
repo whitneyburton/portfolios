@@ -233,43 +233,17 @@ I've participated in the Turing Community in the following ways:
 
 ### Notes
 
-* Notes Notes....
+* assessment and group projects both strong
+* individual projects don't quite show enough progress
+to be satisfactory -- finish up CompleteMe project and show it to us to pass
+* would love to see you getting involved with various activities
+around turing -- you could bring the energy and determination to
+help make these things successful and (most importantly) consistent
 
 ### Outcome
 
-## A: End-of-Module Assessment
-
-A Turing student is able to demonstrate proficiency at programming in accordance
-with the module's content and expectations.
-
-* **Result:** TBD
-
-## B: Individual Work & Projects
-
-A Turing student works to maximize their skill growth and demonstrates
-that skill across a variety of work.
-
-* **Result:** TBD
-
-## C: Group Work & Projects
-
-A Turing student contributes significantly to group projects, helps the team
-develop their technical skills, and delivers a high-quality product.
-
-* **Result:** TBD
-
-## D: Community Participation
-
-A Turing student builds up the community around them by participating and
-supporting other students, the larger Turing family, and persons outside our
-walls who want to develop their own skills.
-
-* **Result:** 4 -- PASS
-
-## E: Peer & Instructor Feedback
-
-A Turing student accelerates the growth of those around
-them by delivering specific, kind, and actionable feedback. They accelerate their
-own growth by taking in and acting on the feedback of their peers and instructors.
-
-* **Result:** 3 -- PASS
+* __A End-of-Module Assessment:__ 4
+* __B Individual Work & Projects:__ 2
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
