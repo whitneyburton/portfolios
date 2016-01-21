@@ -73,7 +73,7 @@ In this project, we were asked to consume and work with data from a public API. 
 * Code Quality: 4: Project demonstrates exceptionally well factored code.
 * User Experience: 2: The application shows effort in the interface, but the result is not effective.
 
-## Rales Engine
+## Rails Engine
 
 * [GitHub URL](https://github.com/mcschatz/rails_engine)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
