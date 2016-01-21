@@ -140,8 +140,13 @@ Feedback from Horace:
 
 ### Giving Feedback
 
+**Feedback for Alex Navarrete**
+I paired with Alex on our final project for Module 1.  I knew that getting a partner you have good synergy with was critical to your success on the project.  Alex was the youngest member of our class and I know there is a lot of criticism about age difference when pairing.  I really enjoyed pairing with Alex because he is a great person and always laughing at a good joke.  At first glance, his fun loving attitude may lead you to think negative about his work ethic, but I found this was not the case.  We were both challenged significantly in this project and had to show determination and put in extra time to get the project done.  Alex was very upfront about how he keeps his schedule, but was always around when he said he would be putting in extra time with me. His maturity level showed strongly one night when we both wanted to go separate directions with the project.  Many other people would have had conflicts about this, but I found Alex to be very open and mature when communicating his points or and still very open minded when listening to mine.  His testing skills and workflow around the computer are top in our class and I felt we made a great team.  His determination to succeed was contagious and I wanted to put in extra effort when I could just because I knew he would do the same.  I thought Alex was a great partner and would work with him anytime.  
+
+
 **Feedback for Alireza Andersen**
 I had the opportunity to pair multiple times with Ali during Module 1. He committed significant time to meeting up at Turing during our recess over winter break to go over the projects we had done so far and class lessons that we had already gone though.   I was very impressed with Ali’s determination to learn and understand the classwork.  I noticed immediately that his work ethics are the top in the class.  He holds himself to a higher standard than others and is not satisfied until he meets his own expectations.  If he doesn’t know how to do something he will use every resource to find out.  From calling on mentors, peers, or his own friends, his drive to find an answer has no end.  I know that Ali will become a top programmer because his commitment to learn and his attitude to be the master of his craft.  He has a great attitude and works hard to be the best.   I enjoyed paring with Ali and look forward to working with him in the future.
+
 
 
 ### Being a Community Member
