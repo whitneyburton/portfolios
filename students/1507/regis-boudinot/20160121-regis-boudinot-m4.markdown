@@ -145,6 +145,17 @@ Introducing 1508 and below students to Digital Ocean has already caused them and
 I gave feedback to a number of my classmates and they were happy that my
 feedback was actionable and supportive.
 
+**Adam is a JavaScripter. His interest in promises, closures, and all that is new JS frameworks is contagious.**
+
+He continuously pushes why it’s so great!
+
+His second time through Module 3 has shown a lot of improvement. He has a lot less stress, and seems to really enjoy the deep learning of what he already did!
+
+*The only negatives I have for Adam is that he can bring people down with him when he gets sad. The same can be said for me though. So this is more of a description on how much people care about him.*
+
+Keep crushin’ it!
+
+
 Here are some examples:
 
 ### Playing a Part
