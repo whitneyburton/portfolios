@@ -94,7 +94,10 @@ Assessed By: Romeeka G.
 * **Workflow**: 25/25
 * **Code Sanitation**: 15/15
 
-**Total**: 285/300 -- 95%
+##### Extensions
+* **Built hardware controller**: 20
+
+**Total**: 305/300 -- 101.7%
 
 ### RealTime
 
@@ -172,7 +175,7 @@ I really wish the best for you, and I hope you’re able to continue pushing thr
 ## Final Score
 (Final assessment, 125 points, not included)
 
-**Final Score**: 925/979 -- 94.5%
+**Final Score**: 945/979 -- 96.5%
 
 ## Review
 
