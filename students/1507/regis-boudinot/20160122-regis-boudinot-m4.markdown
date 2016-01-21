@@ -145,6 +145,8 @@ Introducing 1508 and below students to Digital Ocean has already caused them and
 
 Regis is one of the most enthusiastic people I met while at Turing and one of most inspiring. The Regis from module one (where I believe he struggled a bit) to the Regis of now is like a whole new person. His knowledge of dev ops and his passion for learning about an assortment of dev ops related materials is amazing. Not only did he teach himself all these things, he selflessly taught other people. I can remember being in my own wormhole of code in regards to the asset pipeline in Rails. Regis took time away from his own project ( when he had little time to finish it) and help me. Thank you Regis.
 
+One area of improvement would be he sometimes can more difficult than they need to be BUT he always sorts it out in the end - though I also do this...
+
 ## Community
 
 ### Giving Feedback
