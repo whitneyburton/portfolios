@@ -3,11 +3,15 @@
 ## Individual
 
 ### Areas of Emphasis
-[NOT DONE YET]
-Coming into this module I felt weak on JavaScript. I used Exercism three times
-per week, read the "Eloquent JavaScript" book, and tried to apply these concepts
-in my individual and team projects. In the end I feel much more comfortable with
-JavaScript.
+By the end of Turing, I would like to:
+* be a rockstar! But barring that...
+* have career options that incorporate my love of programming and my background in mathematics and large-scale computing
+* be comfortable with using the tools and languages that enable the development of websites and applications
+* be a active member of the Turing community and the development community at large
+* have a portfolio that incorporates academic work and a significant number of personally-driven projects
+* have strong personal relationships with students and staff of Turing and with mentors outside of Turing
+
+In this module, my goal was to gain more proficiency with Ruby
 
 ### End of Module Assessment
 Assessor : Horace
@@ -22,6 +26,23 @@ Assessor : Horace
 4. __Testing:__ 4
 5. __Workflow:__ 4
 6. __Collaboration:__ 4
+
+### Mid-Module Assessment
+
+#### Evaluation by Josh:
+* Ruby syntax & API looks good
+* Good solution, but seemed a bit hesitant
+* Mrspec! Great test names
+* Some good keyboard commands, some places where you can use it better
+* Quit apologizing!
+* I liked when we were just doing the "it'll pass" or "fail on 88", kept us in sync and kept the flow moving.
+
+#### Scores
+1. __Ruby Syntax & API:__ 4
+2. __Ruby Style:__ 3
+3. __Testing:__ 4
+4. __Workflow:__ 3
+5. __Collaboration:__ 3
 
 ### Attendance
 
@@ -109,7 +130,7 @@ __Overview:__
 
 This project was a natural extension to binary search tree. Over four days, we implemented the trie data structure in the context of building an autocomplete program. This implementation is type-specific in that the trie can only store strings at present.
 
-__Evaluation by Josh Cheek:__
+__Evaluation by Josh:__
 * Does the normal things
 * Substring-Specific Selection Tracking
 * All tests pass
@@ -135,6 +156,11 @@ __Scores:__
 * Enumerable & Collections 3
 
 ### Extracurricular Development
+These are the non-academic projects that I worked on:
+
+* Completed the challenge from Josh: [The brain destroyer](https://gist.github.com/JoshCheek/fa1d93278f7488ef3a79/)
+* Began Iteration 0 of:  [ClarkeCoining](https://github.com/worace/coinage)
+* Found an external mentor to work with (Aimee Fritz)
 
 ## Team
 
@@ -146,9 +172,9 @@ Project with Kimiko Kano
 
 __Overview:__
 * [GitHub URL](https://github.com/ksk5280/http)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-[add some notes here]
+In this weeklong paired project, we built a web server which would accept HTTP GET and POST requests and respond to variations in the requests. We implemented automated testing using the Ruby gem Hurley (no longer supported).
 
 __Evaluation by Jeff:__
 ​
@@ -172,11 +198,20 @@ Project with Alireza Andersen
 
 ### Feedback to Me
 
-In the previous module feedback from my peers encouraged me to ask for help
-more frequently rather than get stuck and stay there. This module I set a timer
-when I ran into a problem and, if I got to 20 minutes without progress, I'd ask
-for help. My feedback this module showed improvement and teammates said I'm a
-better collaborator.
+__From Adam Hundley:__
+Erinna is one of my go to people when it comes to getting help in our module. She is an extremely talented programmer who is always willing to stop what she is doing in order to answer any question. Along with her programming abilities she is also a leader in the classroom and a fun face to see every day.
+
+__From Deborah Hamel:__
+Erinna has been my hero. She has been there for me as a counselor and code coach at all hours. She paired with me and Sunny for an intense TDD session during our Headcount project that moved us from stuck to a collaborating pair. Her excellence is only exceeded by her selfless support of everyone that might be struggling or need help.
+
+__From Nick Dorans (Grumpy Baby):__
+Erinna has been a wonderful person to work with during this module. Although we haven’t paired directly on any major projects, we have worked on several classroom exercises together and I found the experiences to be very helpful. She clearly has a great working knowledge of Ruby and other programming languages alike. I know I can always go to her for help if I’m feeling stuck on something and she will try to help me as best as she can. Thank you for all of your assistance, and I hope we get to pair together on a project in the future!
+
+__From Ali Andersen:__
+It would take the entire dictionary to describe her bright and intelligence while iterating through the thesaurus.  Being her partner for the Black Thursday assessment was very intimidating at first, knowing that I would be having to stand side by side with a scientist. To my surprise the intimidation I expected never existed. Erinna had the patience of going at a steady pace in which we both worked side by side. She is very detailed in her explanations and takes the time to walk you through the areas that you find challenging. Erinna’s passion is seeing her fellow peers succeed and will help out anyway she can with our cohort and Turing. I look forward to seeing her million dollar idea lift off. I am super grateful to have had the opportunity to work with Erinna on this project!
+
+__From Matt Pindell:__
+I was lucky enough to pair with Erinna for one of the peer-refactoring sessions in Module 1 and was immediately impressed by both the speed with which she jumped into our code and how she almost immediately understood the challenges we were facing. She was an enormous aid in helping to conceptually break down some of our earliest obstacles - and I left the refactoring session with an increased confidence of the path ahead. But, what impresses me more is that this procedure of helping others is par for the course with Erinna - she is constantly helping her peers without hesitation - and that overt willingness to help is what I appreciate most.
 
 ### Giving Feedback
 
@@ -190,28 +225,41 @@ I paired with Kimi for the weeklong project: Http, Yeah you know me. She is know
 I have paired with Adam on a few small exercises throughout the module. At this point, he seems to be pretty comfortable programming in Ruby. He communicates very clearly and is a friendly person to be around. I expect quality products from him as he gets more experienced.
 
 ##### Feedback for Matt Pindell:
-I have enjoyed having Matt in my cohort. He is a friendly and enthusiastic student
+I have enjoyed having Matt in my cohort. He keeps the attitude in the room very positive. He communicates logically and clearly and is humourous. He is still working on becoming fluent in Ruby. In my limited pairings with him, he enthusiastically asks questions and seeks information. As long as he maintains a positive attitude and willingness to learn, I think he will develop into a good programmer.
 
 ##### Feedback for Ali Andersen:
+I worked with Ali on the Black Thursday project. He is clearly a smart and hard working individual. His strength lies in his ability to recognize patterns and this will definitely help him as he progresses through his programming career. While I appreciate his tenacity to move forward, I think he would benefit from slowing down and also, taking a bottom-up approach rather than seeing things from the top-down perspective that he is used to. I really enjoyed working with Ali. He communicates clearly and is considerate and patient in times of struggle.
 
 ##### Feedback for Aaron Greenspan:
 I am basically a huge fan-girl of Aaron's: I have sat in on his computability theory club meetings and his student-led session on the halting problem. It is clear that Aaron has a love for mathematics, and his enthusiasm is contagious. I think his greatest strength is his ability to translate mathematical constructs into language that is more accessible to Turing students, i.e. Ruby programs. I would like to see him help students become more comfortable with taking math problems and translating them into Ruby or some other programming language... and this may involve some "curriculum development" where he breaks a problem, e.g. linear regression, into several iterations as we would see in a module project. The challenge for him would then be figuring out how to balance the time between his own learning and facilitating the learning of others.
 
+##### Feedback for Nate Venn:
+I have paired with Nate throughout the module and he has made strong progress from where he started. I have a ton of respect for his positive attitude even when constantly faced with the struggle of learning new things. Other than working through more code, I think Nate would benefit from spending time getting familiar with his programming environment and developing his typing ability.
+
 ### Playing a Part
 
-* I ran a student-led workshop on recursion
-* I load/unload the dishwashers on a daily basis
-* I attended meetings of the Joan Clarke Society
-* I organized the 1511 Powerball pool
-* I assisted with teaching a class on HTML at DSST College View Middle School on Field day
-* I took notes on the whiteboard during Group Retro
-* I attended 3 meetings of the Computability Theory club
-* I assisted other students when I could
+* Ran a student-led workshop on recursion
+* Load/unload the dishwashers all day long...
+* Attended meetings of the Joan Clarke Society
+* Organized the 1511 Powerball pool
+* Assisted with teaching a class on HTML at DSST College View Middle School on Field day
+* Took notes on the whiteboard during Group Retro
+* Attended 4 meetings of the Computability Theory club
+* Assisted other students when I could
 * Towards the end of the module, I tried to send pull requests when I found errors or areas for clarity in the Turing assignments
 
 ## Looking forward
 ### Reflections on Module 1
 While Ruby is a new language for me,
+
 ### Feedback for Turing
+I am impressed by all the progress that has been made over the last six weeks. Looking back, I think the thing I would benefit from most would be a short (guided) retrospective after projects. I envision it being something like a revisit of the goals of the project, which are expressed on the spec but rarely looked at during the project, and some writing on what was learned over the course of the project and if this learning aligned with the goals that were pre-set externally.
 
 ### Goals
+
+
+## Review
+
+### Notes
+
+### Outcome
