@@ -16,7 +16,6 @@ Entering module 2 I want to take a different more focused approach. I know the r
 
  * Result:__ PASS
 
-
 1. Ruby Syntax & API
  __3__: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts
 
@@ -119,6 +118,7 @@ Below is feedback I have given to some peers.
 Nick Weiland - Pairing with Nick for Black-Thursday was a very positive experience. Nick's attention to detail and his drive to test every portion of the code allowed us to quickly navigate around obstacles we encountered. Aside from Nick being a highly skilled dev student he is also a great person. Nick took the time to explain concepts that I was having trouble understanding and also made time to help me talk through some personal issues I was experiencing. Due to his commission and technical skill Nick would be a key member to any dev team he joins after Turing.
 
 Alireza Andersen - Being paired with Ali for HTTP-Yeah-You-Know-Me was one of the more enjoyable partnerships I have had while at Turing. I admired Ali’s drive and determination thought out the project. He was very methodical about every step of the project. Ali’s strong suit is his problem solving logic. His excitement about the project caused us to stay and refactor late into the night. We turned in a very successful project mainly due to his attention to detail and work ethic.
+
 ### Being a Community Member
 
 Below is feedback I have received from peers.
@@ -142,8 +142,13 @@ I participated in the Turing community in the following ways:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Individual work needs some help -- finish enigma and add an extension
+and bring it back to us
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 2
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
