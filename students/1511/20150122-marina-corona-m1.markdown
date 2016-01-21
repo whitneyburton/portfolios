@@ -247,7 +247,7 @@ studious approach to Turing
 ### Outcome
 
 * __A End-of-Module Assessment:__ 3
-* __B Individual Work & Projects:__ 2*
+* __B Individual Work & Projects:__ 2
 * __C Group Work & Projects:__ 2
 * __D Community Participation:__ 3
 * __E Peer & Instructor Feedback:__ 3
