@@ -10,6 +10,10 @@ gaining the understanding to make web apps.
 
 Medium Blog: https://medium.com/@afg419/some-thoughts-on-mathematics-and-programming-1e00be8b5dc7#.l5gmplrre
 
+### Attendance
+
+I was not absent this module.
+
 ### End of Module Assessment
 
 **Challenge: Multiplier**
@@ -39,10 +43,6 @@ Student: Aaron Greenspan
 * Workflow: 4
 * Collaboration: 4
 
-### Attendance
-
-I was not absent this module.
-
 ## Team
 
 ### Projects
@@ -58,13 +58,17 @@ Below is a list of all of my projects and assessment scores from Module 2.
 a basic e-commerce type app.  Our group expanded on the base expectations by building
 an multi-type user platform with admin functionality.
 
-Assessed By:
-
-##### Notes:
-
+Assessed By: Rachel
 
 ##### Scores:
 
+* Feature Completeness: 4: All features are correctly implemented along with two extensions
+* Views: 4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+* Controllers: 3: Controllers are generally well organized with three or fewer particularly ugly parts
+* Models: 3.5: Models show satisfactory organization, refactoring, and appropriate use of Rails features
+* Testing: 4: Project has a running test suite that exercises the application at multiple levels
+* Usability: 3: Project is highly usable, but needs more polish before it'd be customer-ready
+Workflow: 3.5
 
 #### Traffic Spy
 
@@ -75,7 +79,7 @@ Assessed By:
 accept and parse javascript generated click-through rate statistics from registered websites.  
 The TrafficSpy app would also perform analytics and render them for easy comprehension.
 
-Team: Penney & Aaron & Taylor Assessed By: Mike Notes:
+Team: Penney & Aaron & Taylor
 
 Assessed By: Mike Dao
 
