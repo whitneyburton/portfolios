@@ -144,6 +144,10 @@ Steve Olson: "Steve is the calmest programmer known to man. Pairing with him is 
 
 Lenny Meyerson: "Lenny's critical thinking skills are incredible. He is meticulous when he is thinking about how to implement a feature and thinks about areas where security issues or possible errors might arise when implementing a feature a certain way. I have no doubt in time Lenny will be a great developer. Lenny is a pleasure to pair with because he is funny and easy-going."
 
+Alon Waisman: "Alon helped me out during technical interview prep, he taught me some really cool things about ruby. I’ve had some really interesting conversations with him too, he is a fantastic addition to the Turing community."
+
+Jordan Lawler: "Jordan is very slow when playing settlers, it’s almost like he has better things to do like learn how to code."
+
 ### Being a Community Member
 
 "I was absurdly fortunate when I was assigned Beth Secor as my Buddy / peer mentor. She, without a doubt, has transformed my experience at Turing for the better. As a Buddy to a new student, it'd be easy to write a blank check for engagement and tell your peer to "reach out at anytime" - putting the onus on them, and focusing on your own mounting list of assignments. Time and time again, Beth has gone above and beyond by reaching out to me at vital junctures and providing invaluable support - knowing I'd need assistance, often before I had realized the dire straits I was in. In short: I appreciate her beyond words." - Matt Pindell
@@ -160,6 +164,8 @@ Lenny Meyerson: "Lenny's critical thinking skills are incredible. He is meticulo
 
 "Working with Beth on the big Little Shop project has been great. She’s talented in all aspects of the project, from design and front end, to database and logic. Being in the position of team leader, she’s kept us all on task and focused on making progress, and makes sure that things are done right. I hope to be paired with her again at Turing." - Steve Olson
 
+"Feedback for Beth (aka. Just the Worst):  Beth is the drive that keeps me pushing to better myself.  The thought of a meany like her outperforming me in the professional world is simply not an option. also that didnt make sense. ignore that. it never happened. IT WAS ALL A DREAM. /giphy dream" - Jordan Lawler
+![Dream giphy](http://media4.giphy.com/media/MmBZo1jApIADe/giphy.gif)
 
 ### Playing a Part
 
