@@ -12,7 +12,7 @@ flashbacks of years ago when my other daughter suffered even worse. Some might
 use these as reasons to take a break this module. Instead, it has reaffirmed my
 reasons for being here. I am building myself into a position where I can have greater
 effect with the help I provide. I am strengthening myself in order to better combat
-the obstacles of life.  
+the obstacles of life.
 
 With all that is going on, I am stretched quite thin. I feel stressed and ragged,
 and messed up my last project by not spending enough time on it.
@@ -67,7 +67,7 @@ succeed at this project.
 
 ###Final
 80/125 points. Was strong in all areas besides completion. My slower work pace
-really hinders me in such time crunches.  
+really hinders me in such time crunches.
 
 ###Attendance
 I skipped coming in two days that were made into all day work days on solo projects.
@@ -134,7 +134,7 @@ Notes: Wow
 Personal note: We knew it was going to be a challenge when Steve advised against
 building such a challenging game, "Just the logic behind Checkmate alone...", but
 we set ambitious, yet overall attainable goals at each checkpoint and worked many
-long, but rewarding hours to have a clean, complete chess game.    
+long, but rewarding hours to have a clean, complete chess game.
 
 
 Community
@@ -145,7 +145,7 @@ Community
 I usually take more time on the feedback forms than is allotted because I try to put
 forth real feedback. This is mostly due to me feeling like Turing actually puts
 this solicited feedback to use. I have filled out each form asked of me that I am
-aware of.  
+aware of.
 
 ###Playing a Part
 
@@ -160,3 +160,11 @@ aware of.
 * Kids Who Code is still going strong. Demo night went great! This meetup will
   continue after I graduate. It is highly rewarding. The kids are enthusiastically
   learning STEM. Shirts incomming! Thank you!
+
+- End of Module: 3
+- Individual: 3
+- Group: 4
+- Feedback: 3
+- Community: 4
+
+PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate
