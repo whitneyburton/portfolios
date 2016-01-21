@@ -64,7 +64,6 @@ Total: 340/300
 - 0 - AI player
 - 0 - Multiplayer Support
 - 0 - Defined in Checkins
-- 0 - Website functions perfectly.
 
 ### _Individual_
 
@@ -217,6 +216,22 @@ During the module 2 portfolio review it was suggested to me to list Exercism. I'
 * Sent in most weekly surveys
 * Participated in cohort retros
 * Provided feedback on exercism submissions
+* Gave feedback to Travis, Mike Merrill, Justin, MB
+
+### Getting Feedback
+
+* MB: "I appreciate how genuine you are. You know your stuff, but you are super humble about it. You are really patient, and explain things clearly whenever I ask you for help.  Thank you for wanting to build things that are real and useful to people. You have a good balance of being self-effacing and confident, and I think it will serve you well as you move forward to make sure the confidence shows.” Matt: "What's one thing I could do better?" MB: "I think people feel really comfortable coming to you, and I don’t know how you interact with folks in other modules, but really I’d say just putting yourself out there more actively to students who could use a patient mentor figure. I also would encourage you, since you did probably even more solo stuff than the rest of us in our time here, to really seek out opportunities to pair and collaborate with others so you can keep trying new ways of doing things and make sure you stay creative in your programming and look at problems from multiple angles. That’s hard to do when working on your own."
+
+* Merrill: "Matt Ewell, what can we say about this man that hasn't already been said about men like Churchill, Eisenhower, and Bruce Wayne? He's the kind of man that video game lead characters are made of, always there ready and willing to take on the boss. Some say Matt has Jedi like powers. Others say that when he skis, the mountain moves for him. Im not sure if any of that is true, but I did code with him once and he knows his shit. He was never hungry because he just ate all the code all the time. Also, our project is pretty sweet so I think that speaks for itself."
+
+* Sekhar: "shout out to @plato721 Matt Ewell for helping me refactor my personal project quite heavily. I honestly didn't know where to start with a really bad view that I had spent two days writing, and Matt helped me get it into shape. I always struggle with code quality on my assessments towards the end, and refactoring feels taxing, so thanks again for pairing with me Matt and helping me become a better programmer"
+
+* Penny: "Shout out to @plato721 for bringing amazing dinner for everyone working late during Hell Week!!" (applause emoticon from 7 others)
+
+* What's one thing I could do better?
+ * Russell: "Be more independent!" Matt: "Is that what you want me to include? Russell: "I think you should stop asking people for advice."
+ * Justin: At least for me. Sometimes your code can be a little bit complex. Try to make your Ruby code a little more accessible to mere mortals.
+ * Regis: You could be more driven. Since Mod 1 you have been a lot more active in the community but I think you could benefit from being excited about the problems you are solving versus just solving them. I feel that you have a lot of interesting ways to solve problems but your reasons for solving them are unclear. I just wish I knew why you solved problems vs just seing them being solved by you! Otherwise keep being you. You did a lot of good work here at Turing.
 
 ### Playing a Part
 
