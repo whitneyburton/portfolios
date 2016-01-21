@@ -86,11 +86,13 @@ No comments were recorded by Rachel.
 
 This Rails application is a marketplace for artists. An artist can register an account and add art pieces to sell. Users can register accounts to purchase the available art pieces. An admin can regulate the process by transitioning order status and managing art for artists.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+* __Feature Completeness:__ 4
+* __Views:__ 4
+* __Controllers:__ 4
+* __Models:__ 4
+* __Testing:__ 3
+* __Usability:__ 4
+* __Workflow:__ 4
 
 ## Community
 
