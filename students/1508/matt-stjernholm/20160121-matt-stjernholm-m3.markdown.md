@@ -2,7 +2,7 @@
 
 ### Your Mission
 
-My main goal for this module was to gain the knowledge/confidence to feel like a real developer.
+My main goal for this module was to gain the knowledge/confidence to feel like an actual developer.  I still have a ways to go and a few things to revisit from module 3, but I'm happy with where I'm at and with the apps that I've been able to build. 
 
 ### Attendance
 
@@ -64,9 +64,15 @@ Below are the projects that I completed for module 3.
   expect to have a powder day.  Hit Forecast.io and Google maps API's, learned Semantic UI front-end for
   this project, and used caching to increase performance.
 
-    Scores: TBD
-
-    *
+    Scores:
+   Instructor: Tess
+   Notes:
+   Completion: 4
+   Organization: 3
+   Test-driven-development: 4
+   Code-quality: 3.5
+   User-experience: 4
+   Performance: 4
 
 ## Team
 
@@ -114,6 +120,8 @@ Good UI experience, but had issue with crashes on small parts of app. Also when 
 *Happy to have had the chance to work with Cole on the Pivot.  At the beginning of the project we had the chance to pair a couple times, and I felt like it was easy for us to stay on the same page.*
 
 ### Being a Community Member
+
+* Working with Matt was great as he has a real knack for design and user interactability that is subtle, but oh so crucial. Once Matt was able to lay his hands on its design, our project rapidly went from something I was ‘meh’ about working on, to something that piqued my interest with every page load. An eye for detail is crucial in this industry and this guy has got it!
 
 
 ### Playing a Part  
