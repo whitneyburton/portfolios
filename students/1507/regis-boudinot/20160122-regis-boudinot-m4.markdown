@@ -145,13 +145,23 @@ Introducing 1508 and below students to Digital Ocean has already caused them and
 
 ### Giving Feedback
 
-**Adam is a JavaScripter. His interest in promises, closures, and all that is new JS frameworks is contagious.**
+**Adam is a JavaScripter.**
+
+His interest in promises, closures, and all that is new JS frameworks is contagious.
 
 He continuously pushes why it’s so great!
 
 His second time through Module 3 has shown a lot of improvement. He has a lot less stress, and seems to really enjoy the deep learning of what he already did!
 
 *The only negatives I have for Adam is that he can bring people down with him when he gets sad. The same can be said for me though. So this is more of a description on how much people care about him.*
+
+**Bret is quite the character.**
+
+He is always finding the strangest bugs and seems to enjoy tracking them down. While he does spend an insane amount of time encountering bugs that none of us have encountered, he also spends time helping people fix other issues. He has become an excellent debugger and his javascript skills have surprised me.
+
+*The only negative I have for Bret is that he can go get lost in the back of classroom A and when he gets stuck he doesn’t reach out for help.*
+
+Otherwise Bret has been a great contributing member to the cohort and turing itself!
 
 Keep crushin’ it!
 
