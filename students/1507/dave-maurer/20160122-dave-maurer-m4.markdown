@@ -51,7 +51,21 @@ I'm pretty sure a lot of people have good things to say behind my back, and I'm 
 this feedback thing is a little unrefined as is, and would like to see something else done with it. Like...we outline what we think 
 others would say, or how we think they feel about us, or just how we think we portray ourselves, then we get actual feedback from anonymous 
 peers that the staff has collected over the module. I feel like that would be a more effective behavioral learning tool. That's assuming the
-goal of this section is to encourage self-reflection and realistic self view of course.
+goal of this section is to encourage self-reflection and realistic self view of course. With that said...
+
+Feedback from people:
+Travis Haby: Dave is a great learner. He has constant positivity and a strong work ethic. Even when some concepts don’t come 
+immediately to him, he puts in the hard work and leverages the malleable intelligence mindset to continuously grow and overcome 
+challenges. I think sometimes in the context of a project he could put more of an emphasis on TDDing parts of his code first 
+that might drive him to come to a solution  quicker in the long run or be able to more effectively breakdown a complex problem.
+
+Bret Doucette: Out of all the people at Turing, Dave is the most inspiring person here. His work ethic, dedication, and diligence 
+are inspiring.  I really enjoyed having him as an addition to our cohort. I hope to have his work ethic and dedication going forward. 
+I remember how at the Christmas Party he told me how he does each warmup over and over again day in and day out. This is but one of 
+the many examples of his work ethic. DAVE is awesome!
+
+Erik Butcher: Dave has an insuppressible energy and doesn’t let setbacks get him down; he knows how to celebrate small victories and not 
+take it overboard. He can be a rock for support no matter what difficulty you face.
 
 ## Community
 
@@ -61,6 +75,26 @@ I love giving feedback, but this module I haven't done a good job of filling out
 and usually need to be stopped by the person I'm meeting with so we don't go over time. I'm also not shy about sharing my opinions personally 
 with staff and students when I think something needs to be said, or can be tweaked. On that front I think I've always carried my weight, and 
 hope that some of my ramblings have resulted in positive action.
+
+Feedback to People:
+Travis Haby: Travis has a great initial understanding of new concepts, and is good at conveying that understanding to others. 
+In Kay posse, he almost always takes the lead when doing warm up, and is able to help other members with project questions, even if he 
+hasn't worked on the project before. He helped me through linked lists using TDD, and I still refer back to that to this day to reinforce 
+the approach. If I were Turing, I would put a bug in his ear about sticking around maybe...
+
+Bret Doucette: Bret’s understanding of MVC principles and his ability to quickly learn new technologies is a source of inspiration for me. 
+An example of this is his adoption of Zombie for testing his websockets app. He was able to implement it, try it out, then trash it and 
+switch to a totally different system all in a couple of days. I admire Bret’s dedication and work ethic, as evidenced by his git commits 
+and the late hours I see him put in regularly. I would not hesitate to have him on any team I am a part of.
+
+Erik Butcher: Erik’s understanding of how code works is remarkable. At any time during our Game Time project, I knew I could go to him for 
+help working through difficult parts of the logic. He was responsible for getting the tomatoes to go in random directions, which was giving 
+me trouble when I tried to implement that feature. When crunch time comes, and something needs to get done, Erik is able to rise to the challenge.
+
+Aaron Greenspan: Aaron has an unquenchable desire to learn about and study computers and related concepts. His initiative in leading morning 
+sessions on machine learning and AI is admirable, and his zeal is infectious. When around him I can’t help but feel more inquisitive and excited 
+about code. Aaron could improve by slowing down sometimes and delving more deeply into certain concepts. He is learning an incredible amount 
+about a lot of things, but eventually I believe he will gravitate toward mastery of a few.
 
 ### Playing a Part
 
