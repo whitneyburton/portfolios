@@ -39,7 +39,7 @@ Write a game in JavaScript
 
 #### My synopsis
 
-This assignment offered some good learning opportunities, and hey, it was building a game. Also, I enjoyed working with Michael. Steve had showed us an object-oriented approach to idea box, which I immediately tried to put into practice in some form or fashion with this. We implemented Lights Out. 
+This assignment offered some good learning opportunities, and hey, it was building a game. Also, I enjoyed working with Michael. Steve had showed us an object-oriented approach to idea box, which I immediately tried to put into practice in some form or fashion with this. We implemented Lights Out.
 
 Getting a base project together went relatively quickly, and then we continued to add functionality. I liked building the hint engine. I don't like games that are too tough to play. Using a hint will always tell you the next move to play to work towards a solution.
 
@@ -111,9 +111,9 @@ Total - 148/150
 - 10 - Ruby and Rails Quality
 - 10 - JavaScript Style
 - 10 - Workflow
-- 0 - Inline editing 
+- 0 - Inline editing
 - 0 - Tagging
-- 0 - Sorting 
+- 0 - Sorting
 
 ### Thoughtbox
 
@@ -232,8 +232,11 @@ During the module 2 portfolio review it was suggested to me to list Exercism. I'
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Group Work: 4
+- Individual Work: 3
+- Community: 4
+- Feedback: 1
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING - your portfolio is incomplete or non-conforming and will be re-evaluated as soon as possible. If it is incomplete after 24 hours it will be moved to RETAINED or EXCUSED
