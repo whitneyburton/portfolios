@@ -42,7 +42,7 @@ My goal for this module was to learn as much of the fundamentals to programming 
 
 * 3.5
 
-Mid Module Assessment
+#### Mid Module Assessment
 
 ### Notes
 
@@ -121,15 +121,15 @@ Jungle Beat uses a Linked List to create a drum machine that a user can interact
 #### Functional Expectations
 ​* 1: Application is missing more than one base expectation
 ​
-### Test-Driven Development ​
+#### Test-Driven Development ​
 * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data ​
-### Encapsulation / Breaking Logic into Components ​
+#### Encapsulation / Breaking Logic into Components ​
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
 ​
-### Fundamental Ruby & Style ​ ​
+#### Fundamental Ruby & Style ​ ​
 * 3: Application shows strong effort towards organization, content, and refactoring ​
 
-### Looping or Recursion ​
+#### Looping or Recursion ​
 3: Application makes effective use of loop/recursion techniques
 
 Community
@@ -226,7 +226,7 @@ Score: 3
 Use require ;)
 Rename your things (earlier). It's not that hard, and the amount of mental overhead it will save you will make up for the mental overhead you put in to do the change.
 
-#### Test-Driven Development
+##### Test-Driven-Development
 
 Score: 3
 
