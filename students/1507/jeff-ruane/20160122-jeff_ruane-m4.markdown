@@ -83,8 +83,11 @@ In this project, I worked with Rose Kohn to make a JavaScript implementation of 
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Individual Project: 4
+- Group Project: 4
+- Community: 3
+- Feedback: 1
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING - your portfolio is incomplete or non-conforming and will be re-evaluated as soon as possible. If it is incomplete after 24 hours it will be moved to RETAINED or EXCUSED
