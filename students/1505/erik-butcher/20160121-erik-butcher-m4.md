@@ -182,11 +182,8 @@ I continued attending improv. I also attended January's Denver.rb and Denver Swi
 
 - End of Module: 3
 - Individual: 3
-- Group: 3
+- Group: 4
 - Feedback: 3
 - Community: 3
 
 PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate
-RETAINED - your portfolio is lacking in one or more areas and you may either repeat the current module or leave the program
-EXCUSED - your portfolio is lacking in one or more areas and either (a) you've now failed to pass the module in two attempts or (b) the reviewers have determined that you will not be successful at Turing
-PENDING - your portfolio is incomplete or non-conforming and will be re-evaluated as soon as possible. If it is incomplete after 24 hours it will be moved to RETAINED or EXCUSED
