@@ -245,13 +245,19 @@ From Nick Dorans - Kimi is a wonderful person, and we definitely clicked from th
 * I worked to create relationships with my fellow students inside and outside of my cohort and and provided support to others when I could.
 * I went to the Joan Clarke Society coffee meetups
 
-
 ## Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+* you consistently deliver very strong work
+* you seem to have a strong combination of execution and technical ability
+* want to see you starting to branch out, challenge yourself, and reach beyond just the baseline that
+is expected
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 4
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
