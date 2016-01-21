@@ -133,3 +133,13 @@ For the record, I say you’d make an incredible professor not because of your i
 ### Notes
 
 # Outcome
+
+End of Module Assessment:  4
+
+Individual Work and Projects: 4 
+
+Group Work and Projects:  4
+
+Community Participation: 3
+
+Peer and Instructor Feedback:  4
