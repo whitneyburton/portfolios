@@ -58,17 +58,19 @@ In this project, we were asked to use a Node server with Express and implement w
 
 #### Feedback to me:
 
-* From Jeff for Refactor Tractor: I like this a lot, I really like how you're now telling the ball what to do instead of asking about it's state and making decisions based on that. It's pretty impressive how much code you were able to cut out with this change. Looks good to me!
+* From Jeff: I like this a lot, I really like how you're now telling the ball what to do instead of asking about it's state and making decisions based on that. It's pretty impressive how much code you were able to cut out with this change. Looks good to me!
 
-* From Meeka for Refactor Tractor: Hey Mimi, this is a great refactor and also, excellent .gif usage!
+* From Meeka: Hey Mimi, this is a great refactor and also, excellent .gif usage!
 
-* From Bret for Game Time: This was Mimi and Bret’s second time into the depths of hell. The first was Sales Engine - the second was Game Time. For  this project, we choose to work together so obviously I have no complaints. It was once again a pleasure to work with Mimi - she is a refactoring goddess and managed to make our project go from a tangled mess to a beautiful being. She was also a debugging and structuring wizard.
+* From Bret: This was Mimi and Bret’s second time into the depths of hell. The first was Sales Engine - the second was Game Time. For  this project, we choose to work together so obviously I have no complaints. It was once again a pleasure to work with Mimi - she is a refactoring goddess and managed to make our project go from a tangled mess to a beautiful being. She was also a debugging and structuring wizard.
+
+* From Justin: Mimi was a great help.  She paired with me this module and was a joy to work with.  She was patient and insightful.  She needs to be a little better at communicating schedule times.  But she made learning fun
 
 #### Feedback from me:
 
-* To Bret for Game Time: Bret and I chose to work together for Game Time because we knew we would work well together and complete an assignment we would both be proud of. During the project I was not my usual pleasant self, but that didn’t phase Bret. He went above and beyond to get the project done. Bret is always willing to put in the time and effort necessary to complete a task. He is determined - almost stubborn - to figure out a problem and to understand it thoroughly. I’m going to be sad not to have the opportunity to work with him again!!
+* To Bret: Bret and I chose to work together for Game Time because we knew we would work well together and complete an assignment we would both be proud of. During the project I was not my usual pleasant self, but that didn’t phase Bret. He went above and beyond to get the project done. Bret is always willing to put in the time and effort necessary to complete a task. He is determined - almost stubborn - to figure out a problem and to understand it thoroughly. I’m going to be sad not to have the opportunity to work with him again!!
 
-* To Jeff for Refactor Tractor: These old folks seem unsure of their clapping. You can go ahead and clap. Small change but a good change!
+* To Jeff: These old folks seem unsure of their clapping. You can go ahead and clap. Small change but a good change!
 
 #### Playing a Part
 
