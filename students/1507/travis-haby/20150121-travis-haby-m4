@@ -1,0 +1,124 @@
+# Travis Haby - M4 Portfolio
+
+## Individual
+
+### Your Mission
+
+Become a solid JavaScript developer and further cement best practices for code design and workflow. I put a lot of effort into refactoring
+code to be more DRY and more readable.
+
+### End of Module Assessment
+
+N/A
+
+### Attendance
+
+N/A
+
+### Work
+
+These are the projects I completed this module for Turing. I also built a [reatively simple data analysis app](http://urban-leaders-dashboard.herokuapp.com) for my girlfriend's work
+to practice serving up an API with Rails and using the lodash library of JavaScript to manipulate data.
+
+#### IdeaBox
+
+* [GitHub URL](https://github.com/travishaby/javascript_idea_box)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+
+###### Description
+
+This project went pretty well, but was definitely a struggle in terms of trying to use only functional JavaScript to keep track of a bunch
+moving parts. As I'm sure it was intended to do it made me REALLY appreciate OO javascript using prototype methods.
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### IdeaBox
+
+* [GitHub URL](https://github.com/travishaby/javascript_idea_box)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+
+##### Description
+
+This project went pretty well, but was definitely a struggle in terms of trying to use only functional JavaScript to keep track of a bunch
+moving parts. As I'm sure it was intended to do it made me REALLY appreciate OO javascript using prototype methods.
+
+(evaluation comments)
+
+(evaluation scores)
+
+**Instructor** Horace
+
+URL: https://github.com/travishaby/let-the-people-speak/blob/master/README.md
+
+##### Notes
+
+**Total:** 176
+
+###### Concept and Features
+
+* 85 points - Met expectations as outlined by the user personas, the application is a solid first version. All planned features were delivered.
+
+###### Code Quality (JavaScript and/or Ruby)
+
+* 27 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+###### Client-Side Application
+
+* 25 points - Your application is thoughtfully put together with some duplication and no major bugs.
+
+###### Test-Driven Development
+
+* 30 points - The code demonstrates high test coverage. It is tested at the feature, controller and unit levels. It tests the WebSocket as well as the controller endpoints.
+
+###### Interface
+
+* 4 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+###### Workflow
+
+* 5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+## Team
+
+### Projects
+
+(Intro)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+## Community
+
+### Giving Feedback
+
+(feedback from me)
+
+### Being a Community Member
+
+(feedback to me)
+
+### Playing a Part
+
+(ways you supported the larger Turing community)
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
