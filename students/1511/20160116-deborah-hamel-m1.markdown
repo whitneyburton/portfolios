@@ -48,8 +48,6 @@ No absences.
 
 ### Work
 
-(Intro)
-
 ##### Individual projects:
 
 #### Jungle Beat
