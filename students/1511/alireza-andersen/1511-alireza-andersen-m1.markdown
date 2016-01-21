@@ -50,7 +50,6 @@ It was evaluated by Lovisa Svallingson with the following results:
 
 "developer understands what needs to be done conceptually...."
 
-
 * Ruby Syntax: 2
 * Breaking Logic Into Components: 3
 * Functionality: 4
@@ -93,7 +92,6 @@ Evaluated by Josh Cheeks with the following results:
 
 * Very very nice toplevel method, I was able to go from not having seen any code at all to finding exactly the thing I was looking for, without a single incorrect guess.
 
-
 * Ruby Syntax: 3
 * Breaking Logic Into Components: +4
 * Overall Functionality: +3
@@ -117,7 +115,6 @@ in the SalesEngine
 * Enumerables are strong and consistent throughout, nice use of stubbing in the tests to patch things together.
 
 * Good work on extracting some common Stats processes; next step on this would have required some higher order function usage with blocks or maybe passing symbols to indicate which methods should be used within the analysis methods
-
 
 * Functional Expectations: 3
 * Test-Driven Development: 4
@@ -193,3 +190,20 @@ Throughout Module 1 I have had the opportunity to pair with Deborah  several tim
 Matt DesMarteau,
 
 I had the opportunity to pair with Matt several times throughout Module 1. His approach to code and learning is very impressive. He takes the time to make sure that he understands the problem before moving forward. The first time we paired, Matt iterated his passion by making sure we were both on the same page before moving into the next section. His determination in this program is superb and you see it everyday in his interaction with his peers. Matt approach with a never give up attitude has carried most of this cohort. He is always around when people need assistance and will always support you when you’re lost. I look forward to his success throughout this program and in his career. I know Matt will change the way the coding environment is with his passion and determination!
+
+
+## Review
+
+### Notes
+
+* Feedback is thorough and thoughtful
+* Appreciate your community service and outreach work - excited to see
+you combining this with your engagement at turing
+
+### Outcome
+
+* __A End-of-Module Assessment:__ 2
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 4
