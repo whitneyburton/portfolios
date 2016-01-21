@@ -35,6 +35,20 @@ I attended all days of class with the exception of an excused and communicated a
 
 ## Work
 
+### Individual Projects (all were ungraded)
+
+#### Task Manager
+
+ * repository: https://github.com/travishaby/task_manager
+
+#### Idea Box
+
+ * repository: https://github.com/travishaby/idea_box
+
+#### Robot World
+
+ * repository: https://github.com/travishaby/robot_world
+
 ### Team Projects
 
 I completed the following team projects:

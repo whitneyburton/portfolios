@@ -169,8 +169,21 @@ Feedback from Joseph Perry, OkCuGit exercise pairing partner:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Solid assessment
+* Individual projects are mostly solid, but with a few bugs/hiccups
+preventing solid completion
+* We want to see the Enigma project polished up to get the 3 for individual work
+* Group projects were consistently solid - you seem to be successful
+in staying focus and forging ahead in a productive manner
+* We appreciate your calming influence in the group and would
+like you to keep that up
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3, pending enigma fixes
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+ADVANCE
