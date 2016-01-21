@@ -12,6 +12,11 @@ any of the lessons were just kind of afterthoughts, and I couldn't in good faith
 
 ### End of Module Assessment
 
+67 points 
+Feedback I was given: Testing was the best she had seen with 32 tests, all controllers, models, and features covered. Code quality was well above 
+most other submissions and git workflow was granular and well organized. Meeka's overall impression was that this was a quality final assessment that
+ia worthy of a Turing Grad. This comment especially had an impact, as I've always wanted to not just meet the score, but reach the level of expectation.
+
 Pending
 
 ### Work
