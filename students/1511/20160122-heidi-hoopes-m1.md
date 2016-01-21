@@ -72,12 +72,13 @@ I chose to follow the Echo "path" for Module 1, which resulted in projects due m
 
 #### Nightwriter
 
-* [https://github.com/hhoopes/night_writer](GitHub URL for project)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown](Original Assignment)
+* [GitHub URL for project](https://github.com/hhoopes/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 Nightwriter translates text between the Latin and Braille alphabets, outputting Braille using "0"s and "."s to map the dots. Time was a constraint on this project, hampered as well by my speed in debugging and implementing.
 
 _Evaluator_
+
 Horace Williams
 
 *Good job breaking down and tackling the algorithm
@@ -95,12 +96,13 @@ Breaking Logic into Components  3
 
 #### Binary Search Tree
 
-* [https://github.com/hhoopes/binary-search-tree]GitHub URL for project
-* [https://github.com/bethsebian/binary_search_tree]Binary Search Tree
+* [GitHub URL for project](https://github.com/hhoopes/binary-search-tree)
+* [Binary Search Tree](https://github.com/bethsebian/binary_search_tree)
 
 An implementation of the classic binary search tree algorithm.
 
 _Evaluator_
+
 Steve Kinney
 
 Functional Expectations                         2
@@ -111,12 +113,13 @@ Enumerable & Collections                        3
 
 #### Sorting Suite
 
-* [https://github.com/hhoopes/sorting-suite](GitHub URL for project)
-* [https://github.com/bethsebian/sorting_suite](Sorting Suite)
+* [GitHub URL for project](https://github.com/hhoopes/sorting-suite)
+* [Sorting Suite](https://github.com/bethsebian/sorting_suite)
 
 In Sorting Suite I implemented three sorting algorithms: bubble sort, merge sort, and insertion sort.
 
 _Evaluator_
+
 Horace Williams
 
 *Test suite shows a good variety of cases, covering edge cases and escalating the complexity
@@ -125,18 +128,22 @@ Horace Williams
 *Benchmarking infrastructure is in place and has some basic benchmarks; would be nice to see more benchmarks across wider set of inputs
 
 Functional Expectations:  3
+
 Testing:                  4
+
 Ruby Style                3
+
 Organization              4
 
 #### CompleteMe
 
-* [https://github.com/hhoopes/complete_me](Github URL for project)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown](Original Assignment)
+* [Github URL for project](https://github.com/hhoopes/complete_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
 CompleteMe is an autocomplete system based around a trie data structure. The trie was populated with words either singly or in larger collections, and then allowed autocomplete suggestions based on partial lookups of words. It also allowed a user to weight preferences for future lookups. I was disappointed with my ability to complete adequate functionality on this project due to life constraints, but enjoyed the project as I had recently attempted a trie implementation in C.
 
 _Evaluator_
+
 Horace Williams
 
 *pretty clean implementation that came a little short of some features; actually our counting was only off by 1 small bug and we got that working pretty easily
@@ -162,8 +169,8 @@ Team projects were an interesting challenge, since I like working alone, but exc
 
 #### HeadCount
 
-* [https://github.com/marinacor1/headcount](GitHub repo)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown](Original Assignment)
+* [GitHub repo](https://github.com/marinacor1/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 HeadCount is a project spanning about 12 days that implements a database-like structure using Ruby to store educational data and relationships. Repositories create instances of individual data files and link these relationships together.
 
@@ -171,8 +178,8 @@ Evaluation: TBD
 
 HTTP: Yeah You Know Me
 
-* [https://github.com/hhoopes/HTTP_yeah_you_know_me](GitHub Repo)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown](Original Assignment)
+* [GitHub Repo](https://github.com/hhoopes/HTTP_yeah_you_know_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 HTTP YYKM created a mock server using Ruby, serving requests for data, a simple game, and a spell checker locally. I enjoyed my time coding with my partner and felt like we made a good stab at the project.
 
@@ -183,8 +190,11 @@ HTTP YYKM created a mock server using Ruby, serving requests for data, a simple 
 * Look for opportunities to pull out a bit of abstractions around small complex code
 
 *Overall Functionality            3
+
 *Fundamental Ruby & Style         3
+
 ​*Test-Driven Development          3
+
 *Breaking Logic into Components   3
 
 Feedback to Me
