@@ -56,7 +56,7 @@ ___
 
 [As the Crow Flies](http://stevepentler.github.io/)
 
-Technical blog posts on Capybara Testing and Should Matchers Model Validations, both complete with examples, text editor screenshots, and Semi-Pro Tips (AKA mistakes I've made).
+Technical blog posts on **Capybara Testing** and **Should Matchers Model Validations,** both complete with examples, text editor screenshots, and Semi-Pro Tips (AKA mistakes I've made).
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 Assessed by: Rachael Warbelow
 ___ 
-## Final Assessment: 
+#### Final Assessment: 
 1. **Analytic/Algorithmic Thinking: 4**
 2. **Ruby Syntax & Standard Library: 3**
 3. **Rails Syntax & API: 3**
@@ -99,6 +99,7 @@ ___
 * "Steve, I appreciate and agree with your assessment that you are very aware of yourself and others.  Nevertheless I sometimes wonder whether your perceived self weaknesses prevent you from celebrating your strengths.  Throughout this project I have seen a number of people — from our group and from without — compliment you about how the site looks, or about the creative idea for it, or for some clever piece of code you put down.  Your response is usually something like “Thanks, but I’m actually not very good at …  << insert weakness >>.   I’m not going to tell you that you don’t have said weaknesses, or that you are lying when you qualify your acceptance of the compliment.  Instead, I want to say both that a) it makes the complimenting person uncomfortable (like when you give a gift to someone and want them to be happy but instead they say “I can’t accept this, I don’t deserve it”) and b) I wonder whether the compliment part ever actually hits home for you… whether you understand you actually ARE talented in the ways that you are (this is only negative feedback right?), or whether you so quickly jump to qualify with your weaknesses you miss the point.   This isn't something you need to work on for my or the group's sake, but something which might make your day to day as enjoyable for you as others want it to be." - Aaron
 * “I am honored to share a namespace with Steve.” - Steve 
 ___
+
 ### Giving Feedback *should be private*
 * “JP doesn’t take shortcuts. When everyone else is getting lazy about GitHub, testing, or convention, he speaks up and defends his points. I also appreciate how he was confident enough to question the aesthetics of my design decisions and encourage me to think from a user’s perspective. When I listened, he was generally correct. I know I wouldn’t be as apt to question his design decisions on the back-end, so I admire his inquisitive nature. JP  is exceptionally easy to work with. On a few instances, he clearly communicated his needs/expectations to the group with a very palatable demeanor. I can sincerely say he is in the top three pairing partners I’ve had thus far at Turing.”
 * “I am honored to share a namespace with Steve.” - Steve
