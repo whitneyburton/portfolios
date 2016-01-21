@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-My learning goals for this Module were to improve my general understandings of Rails and API consumption. More practice with the "secret handshake" of token authentication and
+My learning goals for this Module were to improve my general understandings of Rails and API consumption, more practice with the "secret handshake" of token authentication, and becoming more comfortable with working in both development and production environments.
 
 ### Attendance
 
