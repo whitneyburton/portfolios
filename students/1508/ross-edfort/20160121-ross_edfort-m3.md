@@ -30,7 +30,7 @@ of the module I've built projects that consume API's, build API's, and do both.
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
 API Curious is a project where I was required to create a 'clone' of a popular
-social media service by using their API. I chose to clone flicr, a photo hosting
+social media service by using their API. I chose to clone flickr, a photo hosting
 service where members can post pictures, comment, add tags, groups, etc.
 
 Evaluated by: Lovisa
@@ -83,11 +83,20 @@ Scores:
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/1f398f1db159a6cc79689e0dc760bfdb404fa3d2/ruby_03-professional_rails_applications/self_directed_project.md)
 
 GitBetter Graphs is an app designed for any Github user to be able to see better
-and more condensed statistics and graphs for any of their repositories. Authenticated users can also search for any Github user and explore their repositories
+and more condensed statistics and graphs for any of their repositories.
+Authenticated users can also search for any Github user and explore their repositories
 
-(evaluation comments)
+Evaluated by: Tess
 
-(evaluation scores)
+Comments: Great UX, very polished app. Lagged bad on large repos
+
+Scores:
+* completion: 3.5
+* organization: 3
+* test-driven-development: 3
+* code-quality: 4
+* user-experience: 4
+* performance: 3
 
 ---
 
