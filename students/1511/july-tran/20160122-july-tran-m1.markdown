@@ -83,17 +83,26 @@ Scores:
 
 This project analyzes CSV datasets for e-commerce-like purposes.
 
-Assessed by:
+Assessed by: Horace
 
 Notes:
+* 125 tests
+* sweet bash snippet to run tests
+* completed I0 - I4
+* overall structure is good; got good relationships; using repos to find appropriate data where needed
+* generally could be more consistent about leveraging the relationships we have already constructed;
+frequently we end up re-constructing a relationship from a different method
+* handful of ruby style nitpicks here and there -- unnecessary local variable creation and unnecessary explicit boolean values
+* analysis is pretty successful at leveraging existing relationships and record-level methods; keep pushing on these fronts to get as much logic as we can down into the record / model layer
+* most analysis methods are pretty clean and concise; don't be afraid to extract more helper
+methods when these start to get longer
 
 Scores:
-* Functional Expectations:
-* Test_Drive Development:
-* Encapsulation / Breaking Logic Into Components:
-* Fundamental Ruby & Style:
-* Enumerable & Collections:
-* Code Sanitation:
+* Functional Expectations: 3
+* Test_Drive Development: 3
+* Encapsulation / Breaking Logic Into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
 
 ## Review
 
