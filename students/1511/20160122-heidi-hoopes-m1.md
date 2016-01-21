@@ -178,7 +178,28 @@ Evaluation:
 Josh Cheek
 
 Functionality 2
-3 on remaining categories
+* Completed: 0-4
+* Part of iteration 5
+
+Test-Driven Development
+Score: 3
+* Tests pass:
+  ```
+ Finished in 2.2 seconds (files took 0.82601 seconds to load)
+ 80 examples, 0 failures, 13 pending
+ 
+```* Many pending
+* Test harness: (8/23) -- 23 runs, 104 assertions, 3 failures, 5 errors, 0 skips
+* 7 files under 80% coverage
+
+Encapsulation / Breaking Logic into Components
+Score: 3
+* The best place to push common behaviour is: earlier in the callstack (ie to my environment)
+
+Fundamental Ruby & Style
+Score: 3
+* Keep your eye on indentation
+
 
 HTTP: Yeah You Know Me
 
