@@ -1,4 +1,4 @@
-# Deborah Hamel - (M1/M2/M3/M4) Portfolio
+# Deborah Hamel - (M1) Portfolio
 
 ## Individual
 
