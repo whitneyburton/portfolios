@@ -11,6 +11,7 @@ I began at Turing with a small amount of beginner experience in C, past experien
 ### End of Module Assessment
 
 Evaluator: Josh Cheek
+
 Ruby Syntax & API Score: 3
 * A lot of syntax errors, but quickly found them and fixed them.
 
@@ -39,6 +40,28 @@ Workflow: Score: 3
 Collaboration: Score: 3
 * No issues
 
+### Mid Module Diagnostic
+
+Evaluator: Rachel Warbelow
+
+* able to use error messages to drive development
+* make sure to run test consistently before writing code
+* able to explain decisions (having statues as a method or an instance variable)
+* able to predict error messages when prompted
+* use consistent file naming (capital vs. lowercase)
+* able to refactor when prompted
+* comfortable using keyboard shortcuts
+
+Ruby Syntax & API   3
+
+Ruby Style          3
+
+Testing             3
+
+Workflow            3
+
+Collaboration       3
+
 ### Attendance
 
 I attended every day without being late.
@@ -49,12 +72,13 @@ I chose to follow the Echo "path" for Module 1, which resulted in projects due m
 
 #### Nightwriter
 
-* [https://github.com/hhoopes/night_writer]GitHub URL for project
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown]Original Assignment
+* [https://github.com/hhoopes/night_writer](GitHub URL for project)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown](Original Assignment)
 
 Nightwriter translates text between the Latin and Braille alphabets, outputting Braille using "0"s and "."s to map the dots. Time was a constraint on this project, hampered as well by my speed in debugging and implementing.
 
-_Evaluator_ Horace Williams
+_Evaluator_
+Horace Williams
 
 *Good job breaking down and tackling the algorithm
 *Effectively uses a character map to allow both forward and backward translations
@@ -76,7 +100,8 @@ Breaking Logic into Components  3
 
 An implementation of the classic binary search tree algorithm.
 
-_Evaluator_ Steve Kinney
+_Evaluator_
+Steve Kinney
 
 Functional Expectations                         2
 Test-Driven Development                         3
@@ -86,12 +111,13 @@ Enumerable & Collections                        3
 
 #### Sorting Suite
 
-* [https://github.com/hhoopes/sorting-suite]GitHub URL for project
-* [https://github.com/bethsebian/sorting_suite]Sorting Suite
+* [https://github.com/hhoopes/sorting-suite](GitHub URL for project)
+* [https://github.com/bethsebian/sorting_suite](Sorting Suite)
 
 In Sorting Suite I implemented three sorting algorithms: bubble sort, merge sort, and insertion sort.
 
-_Evaluator_ Horace Williams
+_Evaluator_
+Horace Williams
 
 *Test suite shows a good variety of cases, covering edge cases and escalating the complexity
 *Tests are pretty standard across the 3 sorting algos; might have been interesting to look at pulling out more methods for each algo so those could be tested more specifically
@@ -105,12 +131,13 @@ Organization              4
 
 #### CompleteMe
 
-* [https://github.com/hhoopes/complete_me]Github URL for project
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown]Original Assignment
+* [https://github.com/hhoopes/complete_me](Github URL for project)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown](Original Assignment)
 
 CompleteMe is an autocomplete system based around a trie data structure. The trie was populated with words either singly or in larger collections, and then allowed autocomplete suggestions based on partial lookups of words. It also allowed a user to weight preferences for future lookups. I was disappointed with my ability to complete adequate functionality on this project due to life constraints, but enjoyed the project as I had recently attempted a trie implementation in C.
 
-_Evaluator_ Horace Williams
+_Evaluator_
+Horace Williams
 
 *pretty clean implementation that came a little short of some features; actually our counting was only off by 1 small bug and we got that working pretty easily
 *passes all the base spec; didn't get to the supporting feature
@@ -133,10 +160,10 @@ Enumerable & Collections        3
 
 Team projects were an interesting challenge, since I like working alone, but excel at demonstrating concepts. One project felt like an exceptional challenge, because the mismatched skill levels meant my slightly slower coding style was taken up with explaining code, debugging, and cleaning up test. However, I think I cooperated well on both projects, communicating and demonstrating patience and hard work.
 
-#### (Project Name)
+#### HeadCount
 
-* [https://github.com/marinacor1/headcount]GitHub repo
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown]Original Assignment
+* [https://github.com/marinacor1/headcount](GitHub repo)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown](Original Assignment)
 
 HeadCount is a project spanning about 12 days that implements a database-like structure using Ruby to store educational data and relationships. Repositories create instances of individual data files and link these relationships together.
 
@@ -144,8 +171,8 @@ Evaluation: TBD
 
 HTTP: Yeah You Know Me
 
-* [https://github.com/hhoopes/HTTP_yeah_you_know_me]GitHub Repo
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown]Original Assignment
+* [https://github.com/hhoopes/HTTP_yeah_you_know_me](GitHub Repo)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown](Original Assignment)
 
 HTTP YYKM created a mock server using Ruby, serving requests for data, a simple game, and a spell checker locally. I enjoyed my time coding with my partner and felt like we made a good stab at the project.
 
@@ -163,15 +190,19 @@ HTTP YYKM created a mock server using Ruby, serving requests for data, a simple 
 Feedback to Me
 
 * Marina Corona
- I feel so lucky to have paired with Heidi for the last project of the module. Heidi is communicative, kind and organized. Though she is significantly more knowledgeable in programming than me, I felt like I can always contribute to the project. I have a much better understanding of class relationships, hashes and testing because of her thorough explanations and her patience. Besides being a great partner, she has contributed greatly to our cohort culture. She is regularly on Slack, helping other students' and sharing important Turing news. As a member of the Student Advisory Board, she ensures she is getting clear information from students and communicates that back to our cohort. In class, she asks great questions and contributes to our collective knowledge. Heidi exudes strong teamwork.
+
+I feel so lucky to have paired with Heidi for the last project of the module. Heidi is communicative, kind and organized. Though she is significantly more knowledgeable in programming than me, I felt like I can always contribute to the project. I have a much better understanding of class relationships, hashes and testing because of her thorough explanations and her patience. Besides being a great partner, she has contributed greatly to our cohort culture. She is regularly on Slack, helping other students' and sharing important Turing news. As a member of the Student Advisory Board, she ensures she is getting clear information from students and communicates that back to our cohort. In class, she asks great questions and contributes to our collective knowledge. Heidi exudes strong teamwork.
 
 * Chelsea Johnson
+
 Heidi is a wonderful addition to 1511! She is positive, kind, and participates in several Turing activities. She has done a wonderful job representing 1511 on the student advisory board. I often come to her for assistance or to brainstorm ideas for our projects, and her insight is invaluable. She also has the best Slack comments of our cohort; her comments often lead to a hearty chuckle. I am honored to call Heidi a friend!
 
 * Nicholas Dorans
+
 Throughout the module Heidi has been a great classmate and collaborator. She has always been there to help me with any issues I, or other classmates, might be having. I admire her for her ability to juggle family responsibilities with the grueling pace of Turing. I however can barely take care of myself while doing the same school schedule as her. Working with her on HTTP: YYKM was a wonderful pairing experience. Sometimes we couldn’t work together in person but she was always available via slack. We did however put in 19 hours each the day before the project was due, and our hard work paid off because we scored very high. Her dedication to the program is very strong, and I look forward to working with her again in the future!
 
 * Thomas Pickett
+
 I paired with Heidi on Headcount on the cross team pairing exercise. I was not doing the final, and so did not know what all was going on in it. Heidi was an amazing pair.
 She slowed down and walked me through her logic up to that point, so that  we could work on some refactoring for the couple of hours the exercise lasted
 ## Community
@@ -181,15 +212,19 @@ She slowed down and walked me through her logic up to that point, so that  we co
 ### Being a Community Member
 
 * Marina Corona
+
 Marina is a hardworking coding partner who uses multiple ways to attack problems, including pseudocode and pry to evaluate her expectations. Often when I would get frustrated she would still be calm and rational and her communication became valuable in finding solutions. Earlier in the module I observed that she seeks out mentors, advice, and extra assignments on her own time in order to aggressively advance her education. I have enjoyed her partnership on HeadCount.
 
 * Chelsea Johnson
+
 Chelsea is an asset to our module both academically and personally. I always enjoy seeing examples of her code, since she has a methodical, object-oriented approach to coding that always reminds me of what I could be trying to do a little better. She’s also a gifted tutor and can easily walk someone through her code or other principles. In our module she is a friendly, approachable, and balancing influence.
 
 * Nicholas Dorans
- Nick has a great personality that mirrors his casual but focused coding style. He quickly catches on to the crux of problems, communicating well in those situations to generate synergistic and stress-free problem-solving. I enjoyed our work together on HTTP: YYKM for these reasons.
+
+Nick has a great personality that mirrors his casual but focused coding style. He quickly catches on to the crux of problems, communicating well in those situations to generate synergistic and stress-free problem-solving. I enjoyed our work together on HTTP: YYKM for these reasons.
 
 * Thomas Pickett
+
 I paired with Heidi on Headcount on the cross team pairing exercise. I was not doing the final, and so did not know what all was going on in it. Heidi was an amazing pair.
 She slowed down and walked me through her logic up to that point, so that  we could work on some refactoring for the couple of hours the exercise lasted
 
