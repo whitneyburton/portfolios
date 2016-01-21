@@ -87,8 +87,4 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Outcome
 
-<<<<<<< HEAD
 ( Leave blanks for reviewers )
-=======
-( Leave blanks for reviewers )
->>>>>>> fbffe294dd94332968e6f65efe2f19ee4fba1b55
