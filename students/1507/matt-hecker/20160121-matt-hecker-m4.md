@@ -1,9 +1,6 @@
-This module has been alot of off-road learning to me
-
+This module has been alot of off-road learning to me.
 
 Alot of figuring out what I would enjoy working on. I had this idea at the start of the session that there was alot of wisdom in the idea of specializing in something ( a combination of stories from passionate programmer, podcast, youtubes. )
-
-
 
 ## Idea box
 [https://github.com/HoffsMH/idea-box2](https://github.com/HoffsMH/idea-box2)
@@ -45,7 +42,7 @@ I had a whole bunch of moving objects with changing properties that followed spe
 
 154 points
 
-![http://g.recordit.co/s32JRJToUX.gif](http://g.recordit.co/s32JRJToUX.gif)
+![http://g.recordit.co/eQLRW5d5cn.gif](http://g.recordit.co/eQLRW5d5cn.gif)
 
 This was about Node for me. Im really intrigued by Node and its contrasting philosophy to rails (convention and all in one tool vs many small composable tools). I went into this project with a willful ignorance of how any Node frameworks worked. I wanted to see what it would take to emulate my favorite parts of rails in node.
 
@@ -60,3 +57,5 @@ Previous modules have been about being in public (going to improv, doing student
 
 #### Going Forward:
 Looking forward to sort of stepping up my paper game (resume, personal website, cover letters) with the free time. Also looking to start more conversation with potential employers.
+
+I've sorted decided that I prefer a Node job. Optimistic about getting a Node job!
