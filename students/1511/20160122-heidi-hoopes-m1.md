@@ -174,7 +174,11 @@ Team projects were an interesting challenge, since I like working alone, but exc
 
 HeadCount is a project spanning about 12 days that implements a database-like structure using Ruby to store educational data and relationships. Repositories create instances of individual data files and link these relationships together.
 
-Evaluation: TBD
+Evaluation:
+Josh Cheek
+
+Functionality 2
+3 on remaining categories
 
 HTTP: Yeah You Know Me
 
