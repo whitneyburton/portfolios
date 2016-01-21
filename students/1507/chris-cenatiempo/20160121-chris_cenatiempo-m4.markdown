@@ -87,8 +87,8 @@ I plan on taking what I've learned and applying it throughout my career. I'm rea
 
 ## Outcome
 
-* A: End-of-Module Assessment:
-* B: Individual Work & Projects:
-* C: Group Work & Projects:
-* D: Community Participation:
-* E: Peer & Instructor Feedback:
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 4
+* D: Community Participation: 3
+* E: Peer & Instructor Feedback: 2
