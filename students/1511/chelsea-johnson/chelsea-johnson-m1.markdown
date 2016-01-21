@@ -108,15 +108,15 @@ really good testing!!</br>
 -Assessed by Lovisa
 
 Evaluation Scores:
-1. Functional Expectations
+1. Functional Expectations</br>
   4: Application fulfills all base expectations and the one extension (speed rate, validating beats)
-2. Test-Driven Development
+2. Test-Driven Development</br>
   4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-3. Encapsulation / Breaking Logic into Components
+3. Encapsulation / Breaking Logic into Components</br>
   3: Application effectively breaks logical components apart but breaks the principle of SRP
-4. Fundamental Ruby & Style
+4. Fundamental Ruby & Style</br>
   3: Application shows strong effort towards organization, content, and refactoring
-5. Looping or Recursion
+5. Looping or Recursion</br>
   3: Application makes effective use of loop/recursion techniques
 
 #### Enigma
@@ -138,14 +138,52 @@ Chelsea did an excellent job of demo-ing under pressure and was very confident. 
 -Assessed by Meeka
 
 Evaluation Scores:
-1. Overall Functionality
+1. Overall Functionality</br>
   3: Application encrypts, decrypts, and cracks files as described (all good, just no extensions)
-2. Fundamental Ruby & Style
+2. Fundamental Ruby & Style</br>
   4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-3. Test-Driven Development
+3. Test-Driven Development</br>
   3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-4. Breaking Logic into Components
+4. Breaking Logic into Components</br>
   4: Application effectively breaks logical components apart with clear intent and usage
+
+
+#### Headcount
+
+  * [GitHub URL](https://github.com/cheljoh/Headcount)
+  * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+This project loads data on Colorado schools from the Annie E. Casey Foundation. It loads and analyzes data on kindergarten enrollment, high school graduation rates, and statewide testing (by grade and ethnicity).
+
+Comments:
+
+-Assessed by Mary
+
+Great use of small classes
+Good ruby style and use proper enumerables
+Uses enumerables in interesting ways
+Good test coverage
+Could break down some larger methods for readability but otherwise Great ruby style
+Good use of test fixtures to load smaller subset of data
+98% test coverage, with good test performance
+
+Evaluation Scores:
+
+1. Functional Expectations</br>
+
+  3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
+2. Test-Driven Development</br>
+
+  4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3. Encapsulation / Breaking Logic into Components</br>
+
+  3: Application effectively breaks logical components apart but breaks the principle of SRP
+4. Fundamental Ruby & Style</br>
+
+  4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+5. Enumerable & Collections</br>
+
+  4: Application consistently makes use of the best-choice Enumerable methods
 
 
 ## Team Projects
@@ -175,14 +213,14 @@ Comments:</br>
   Hello World, Outputting diagnostics, Supporting paths, Supporting parameters, Verbs & Parameters
 
     3: Application implements four iterations
-2. Fundamental Ruby & Style
+2. Fundamental Ruby & Style</br>
 
   4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-3. Test-Driven Development
+3. Test-Driven Development</br>
 
   3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
 
-4. Breaking Logic into Components
+4. Breaking Logic into Components</br>
 
   4: Application effectively breaks logical components apart with clear intent and usage
 
