@@ -18,6 +18,23 @@ Technically, this Rails application allows distinct access privledges as either 
 I plan to continue working on this project through module three integrating API's that connect developers who have associations through LinkedIn, Facebook, and other social networks.
 
 **Skills acquired:** Rails 4.0, Shoulda Matchers Model Validations, ActiveRecord, Heroku Deployment, Agile Development, Waffle, Git Workflow, Materialize, CSS, HTML, MVC Best Practices, Stripe Payment Processing
+
+#### Evaluation Scores:
+1. **Feature Completeness: 4-**
+- All features are correctly implemented along with two extensions
+2. **Views: 4**
+- Views show logical refactoring into layout(s), partials and helpers, with no logic present
+3. **Controllers: 3**
+- Controllers are generally well organized with three or fewer particularly ugly parts
+4. **Models: 3.5**
+- Models show satisfactory organization, refactoring, and appropriate use of Rails features
+5. **Testing: 4** 
+- Project has a running test suite that exercises the application at multiple levels
+6. **Usability: 3** 
+- Project is highly usable, but needs more polish before it'd be customer-ready
+7. **Workflow: 3.5** 
+
+Assessed by: Rachael Warbelow
 ___
 
 ### Traffic Spy
@@ -116,11 +133,3 @@ For the record, I say you’d make an incredible professor not because of your i
 ### Notes
 
 # Outcome
-
-
-
-
-
-
-
-
