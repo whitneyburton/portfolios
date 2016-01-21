@@ -156,9 +156,14 @@ Assessed By: Steve K.
 
 ## Review
 
-
 ### Notes
 
-( Leave blanks for reviewers )
+- Assessment: 4
+- Individual Work: 4
+- Group Work: 3
+- Community Participation: 4
+- Feedback: 3
 
 ### Outcome
+
+PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate
