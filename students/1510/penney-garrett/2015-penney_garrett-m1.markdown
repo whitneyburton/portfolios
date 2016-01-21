@@ -251,8 +251,17 @@ Assessed by: Tess Griffin
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Assessment was solid although a bit short of expectations
+* It feels like there is some drop in performance from being under pressure or being watched
+* Going to work with Marla on practicing programming in high-intensity settings
+* Individual projects were consistently strong and represent much improvement from previous track record
+* Headcount performance is strong
+* Very impressed by your involvement in the cohort and the group's reliance on you to set the tone and help keep things calm
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 4
+* Peer and Instructor Feedback: 3
