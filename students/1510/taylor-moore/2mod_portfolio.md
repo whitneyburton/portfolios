@@ -104,10 +104,39 @@ __Instructor:__ Mike
 
 __Repository::__ https://github.com/martensonbj/little_shop
 
-__Comments:__
+__Notes:__
 
+* 92 tests, 325 assertions, 99.41% test coverage.
+* /orders is not the URL to view the current user's orders.
+* Stripe integration is working and tested.
+* AWS + Paperclip works.
+* Live search bar.
+* Controllers were very clean, great project overall.
+* Would like to have seen more sad path testing.
+* Would have preferred to see a create account button in the login  page.
+* Great communication in Github Pull Requests.
 
 __Scores:__
+
+*Feature Completeness:* 4
+
+
+*Views:* 4
+
+
+*Controllers:* 4
+
+
+*Models:* 4
+
+
+*Testing:* 3
+
+
+*Usability:* 4
+
+
+*Workflow:* 4
 
 ## Community
 
