@@ -1,4 +1,4 @@
-# Mimi Schatz - Module: 2 Portfolio
+# Mimi Schatz - Module: 3 Portfolio
 
 ## Individual
 
@@ -73,7 +73,7 @@ In this project, we were asked to consume and work with data from a public API. 
 * Code Quality: 4: Project demonstrates exceptionally well factored code.
 * User Experience: 2: The application shows effort in the interface, but the result is not effective.
 
-## Rales Engine
+## Rails Engine
 
 * [GitHub URL](https://github.com/mcschatz/rails_engine)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
@@ -89,11 +89,6 @@ In this project, I used Rails and ActiveRecord to build a JSON API to expose dat
 * Code Quality: 4: Project demonstrates exceptionally well factored code.
 * API Design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
 * Queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
-Rales Engine was a short solo-project in which we built an API and made
-conjectures about the data it provided by making smart use of advanced Active
-Record queries. In addition to working on building the API, I made an effort to
-use as little Ruby as possible to complete the business logic. I also spent some
-time in the PostgreSQL console practicing raw SQL.
 
 ## ExitRunner
 
@@ -122,7 +117,7 @@ I've participated in the larger Turing Community in the following ways:
 * Attended and led Women Who Code at Turing.
 * Helped 1508 students with testing and Jquery for Little Shop of Orders.
 * Served on SAB for 1507.
-* Unload and load the dishwasher at least 2x a week.
+* Unloaded and loaded the dishwasher at least 2x a week.
 
 ## Review
 
