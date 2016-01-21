@@ -31,31 +31,63 @@ Assessed by Jeff Casimir
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+**Instructor** Horace
 
-##### Evaluation Comments
+**Result:** Retake
 
-Assessed by Horace Williams
+**Notes:**
 
-(eval comments)
+* Crippling nerves prevented us from making much progress
+* Ended up struggling to react appropriately to the data structures
+we were encountering
+* Need to figure out a way to slow down and think through more specific
+and tailored solutions rather than trying to rush to the answer
 
-##### Evaluation Scores
-
-(eval scores)
+1. Ruby Syntax & API - __2__: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts
+2. Ruby Style - __3__: Developer writes code that is easy to follow
+3. Blocks & Enumerations - __2__: Developer can use enumerator methods, but struggles to choose the right one for the job or demonstrates weak understanding of blocks
+4. Testing - __3__: Developer uses tests to guide development in small chunks
+5. Workflow - __3__: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+6. Collaboration - __3__: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ### End of Module Assessment (Retake)
 
 Assessed by Josh Cheek
 
-(Notes & scores from your assessment rubric)
+Assessed by Josh Cheek on 20 Jan 2015
 
-##### Evaluation Comments
+Challenge: Multipliers
 
-(eval comments)
+###### 1. Ruby Syntax & API - Score: 3
 
-##### Evaluation Scores
+* Gets lost in details, but when told to think about it, is able to figure out how things work
+ More precision and more practice would dramatically improve your ability here
 
-(eval scores)
+###### 2. Ruby Style
+
+Score: 3
+
+###### 3. Blocks & Enumerations - Score: 3
+
+* Figured out zip
+* Would have benefitted from `inject`
+
+###### 4. Testing - Score: 3
+
+* Starts with test
+* Chooses good test names!
+* Be more cognizant of edge cases, eg empty word and multiplier of 0 would both be interesitng,
+ and the `[2,2]` allowed a bug to exist for a while.
+
+###### 5. Workflow - Score: 3
+
+* Generally good
+* A bit more practice, make yourself use the things you know are effective
+
+###### 6. Collaboration Score: 3
+
+* Good recitation back to me
+* Don't worry so much!
 
 ### Attendance
 
