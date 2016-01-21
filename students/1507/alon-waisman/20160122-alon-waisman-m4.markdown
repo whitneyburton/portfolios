@@ -81,7 +81,7 @@ This project is inspired by [Minicade](http://minica.de/).
 Assessed By: Romeeka G.
 "Looks great, plays well, sounds cool and allows me to press buttons, which is my favorite activity."
 
-<center><img src="bonus_round_screenshot.jpg">
+<center><img src="bonus_round_screenshot.jpg"><br>
 <img src="alons_controller.jpg"></center>
 <br>
 * **First Check In Goals**: 50/50
@@ -136,7 +136,27 @@ Assessed By: Steve K.
 
 **Meeka** got mad at me for not testing ThoughtBox
 
-**Matt Hecker** "No, dude, I don't want to give you any feedback."
+**Matt Hecker** - "No, dude, I don't want to give you any feedback."
+
+**Gurusundesh (Sunny)** - "hey, I don’t know if this is counted as feedback, but I just want you to know that I’ve been very grateful that you’ve been here. From week one, you were reaching out to us 1511’ers and helping us out with your student led sessions.I remember when I asked you a question about hashes, you not only started telling me about them but invited me out to lunch to go over them in more detail. You’re game was dope and you’ve always been able to help me out of some of my darker coding holes. Thanks!"
+
+**George Hudson** - "Alon is wonderfully creative and works hard to see his ideas come to life. He is open and engaging when asking for help or giving it."
+
+**Beth Secor** - "Alon helped me out during technical interview prep, he taught me some really cool things about ruby. I’ve had some really interesting conversations with him too, he is a fantastic addition to the Turing community."
+
+**Justin Pease** - "Alon paired with me this module almost weekly.  He is always helping someone.  One area I think that may hold hi back id he has a somewhat black and white way of doing things.  What he think…..he really thinks, and what he doesn’t like he really doesn’t like.    It may prevent him from seeing things in new ways which is essential for growth.   Thanks for the super berries experience."
+
+## Feedback from Me
+
+**Sunny** - I've enjoyed working with you throughout the module. You're really good at identifying where you need to improve which shows you care, not just enough to get the job done, but to really understand the material so you can put that knowledge to work in other areas. Keep asking questions, man.
+
+**Justin Pease** - I think it's excellent that you can recognize where you need extra work, and your tenacity in finding assistance through mentorship is impressive - it's an area where I struggle. After having paired with you a bit on specific projects, I think a sticking point for you is true absorption of the material in such a way that it can be applied in other areas. In my opinion, one of the most beneficial things you could do to improve is gain a deeper understanding of the underlying computer science involved with the things you're learning. Doing so should make everything else you learn come more easily. Unfortunately, I am not an authority on good books and/or videos because I haven't taken my own advice, but I recommend working with Turing staff to identify one or two resources, the more language-agnostic, the better.
+
+**Erik Butcher** - Erik, you asked for feedback, so I’d like to offer my thoughts on what little I’ve observed. I hope it’s not upsetting… I don’t think it’s something of which you’re unaware, but sometimes we need to hear things repeatedly to encourage us to take action.
+
+It’s too often that I see you not paying attention to what’s happening in class or during some event (lightning talks, guest speakers, etc). It’s not that I particularly care about you paying attention to me or others for my own benefit, but I’ve also seen you struggle with projects or just not produce something I think you feel good about. For your benefit, I would like to see you push harder to accept that things which you might not appreciate at first can be valuable if you push through the frustration of feeling like you’re wasting time.
+I know you’re aware of your issues in a social environment, so Turing can’t be an easy place for you. I’ve struggled in a different, but sometimes similar, way my whole life. So much so, in fact, that I was put on a Performance Improvement Plan while at Turing because I said and did things that made people uncomfortable. I can tell you that there’s a lot about the PIP process that I disagreed with, including the directive that I review materials online intended to teach me about not being an asshole. That said, I reviewed the materials, and as insulted as I felt doing it (and as much as I hate to admit to Jeff), the truth is that I’m better for having done it. To be clear, I’m saying that there’s value in doing things you don’t necessarily like doing, and I’m not exaggerating when I say that Turing (through Jeff’s influence) is the first environment I’ve been in where I truly believe the one(s) in a position of authority have my best interests at heart. I think about how much easier it would have been in another program where we wouldn’t have had to deal with gear-up sessions, lightning talks, or portfolio reviews, but every one of those things is a piece in the puzzle that makes us better people, and that’s what we need to be successful in this industry.
+I really wish the best for you, and I hope you’re able to continue pushing through some of the unique difficulties you face. Like I said, I struggle with some similar issues, and I’d be happy to talk with you one-on-one about it if you’re ever so inclined.
 
 ## Community
 
