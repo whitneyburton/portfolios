@@ -61,6 +61,12 @@ Seeing how far MB has come over our time at Turing is pretty awesome.  I remembe
 
 Jeff Ruane: "Working with you was great, of course, I think we make a really good team. Especially towards the end, you just started shipping feature after feature, it was pretty incredible. It’s great how you’re always trying to do more and make your projects better, so I’d say keep that up! The one thing that I’d say to work on is keeping up with automated testing as you’re shipping new features. That said, you manually test throughout your process, and also that’s what makes us a good team, is that I’m working on that stuff while you’re working on features. Anyway, it was a great experience, as always."
 
+Regis Boudinot: "Rose is a gem. The difference between Rose in Mod1 to Mod 4 is insane. Her love for the front end is what sets her apart. She is very determined to get things done and is the bet to pair with. I cannot stress enough how much fun it was to have her as part of my Pivot team with Jeff.
+
+She does have some trouble trusting new ways to do things, but once she see’s it work, her level of trust is unbreakable."
+
+Aaron Greenspan: "When I first came to Turing, and beheld the wonderful thing that is the Kay Posse, it was Rose who first brought me into the fold.  Rose will regularly come to warmups in a ‘ugh this project’ kind of mood, and then a few days later, return saying something like ‘oh the project went well, they told us it was the best Little Shop Project they’ve ever seen, shrug.’  Despite how this may sound, Rose is incredibly modest, and sets a very high bar for me early to on to live up to the example she set in terms of her work ethic.  Some actionable anticipatory criticism: don’t stop hanging out with me just cause you’re all cool and graduated and stuff."
+
 
 
 ### Playing a Part
