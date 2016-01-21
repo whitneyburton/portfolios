@@ -109,13 +109,13 @@ really good testing!!</br>
 
 Evaluation Scores:
 1. Functional Expectations</br>
-  4: Application fulfills all base expectations and the one extension (speed rate, validating beats)
+  4: Application fulfills all base expectations and the one extension (speed rate, validating beats)</br>
 2. Test-Driven Development</br>
-  4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+  4: Application is broken into components which are well tested in both isolation and integration using appropriate data</br>
 3. Encapsulation / Breaking Logic into Components</br>
-  3: Application effectively breaks logical components apart but breaks the principle of SRP
+  3: Application effectively breaks logical components apart but breaks the principle of SRP</br>
 4. Fundamental Ruby & Style</br>
-  3: Application shows strong effort towards organization, content, and refactoring
+  3: Application shows strong effort towards organization, content, and refactoring</br>
 5. Looping or Recursion</br>
   3: Application makes effective use of loop/recursion techniques
 
@@ -139,11 +139,11 @@ Chelsea did an excellent job of demo-ing under pressure and was very confident. 
 
 Evaluation Scores:
 1. Overall Functionality</br>
-  3: Application encrypts, decrypts, and cracks files as described (all good, just no extensions)
+  3: Application encrypts, decrypts, and cracks files as described (all good, just no extensions)</br>
 2. Fundamental Ruby & Style</br>
-  4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+  4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring</br>
 3. Test-Driven Development</br>
-  3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
+  3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.</br>
 4. Breaking Logic into Components</br>
   4: Application effectively breaks logical components apart with clear intent and usage
 
