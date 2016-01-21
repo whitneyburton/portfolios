@@ -194,6 +194,31 @@ __Scores:__
 #### Black Thursday
 Project with Alireza Andersen
 
+__Overview:__
+* [GitHub URL](https://github.com/alirezaandersen/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
+This two-week project
+
+__Evaluation by Horace:__
+* Clean, easy to follow code
+* Like the approach to turning relationship construction into a more declarative process
+in the SalesEngine
+* Analysis methods make good use of enumerables; use lots of helper methods to keep the
+code short and easy to follow
+* Good work on extracting some common Stats processes; next step on this would have required
+some higher order function usage with blocks or maybe passing symbols to indicate which methods
+should be used within the analysis methods
+* enumerables are strong and consistent throughout
+* nice use of stubbing in the tests to patch things together
+
+__Scores:__
+* Functional Expectations 3
+* Test-Driven Development 4
+* Encapsulation / Breaking Logic into Components 3
+* Fundamental Ruby & Style 3
+* Enumerable & Collections 4
+
 ## Community
 
 ### Feedback to Me
@@ -203,6 +228,9 @@ Erinna is one of my go to people when it comes to getting help in our module. Sh
 
 __From Deborah Hamel:__
 Erinna has been my hero. She has been there for me as a counselor and code coach at all hours. She paired with me and Sunny for an intense TDD session during our Headcount project that moved us from stuck to a collaborating pair. Her excellence is only exceeded by her selfless support of everyone that might be struggling or need help.
+
+__From Kimi Kano:__
+ I worked with Erinna on Http YYKM. She's knows her stuff, so we rarely ran into road blocks with this project. I was concerned that I wouldn't learn as much working with her since I wouldn't have to figure as much out on my own, but Erinna let me do a lot of the typing and also let me work through some of the problems myself so that I could explore how different decisions would affect our code later on. Although, and perhaps due to the fact that she is so technically competent, working with her can be quite intimidating. My recommendation is that she could try to be a little more easy-going to make others feel more comfortable pairing with her. Overall, I feel like I gained a lot in working on the HTTP project with Erinna and I am glad for the experience. Additionally, for my Headcount project she took the time late one night to look at a weird result that David and I were running into and she helped us out with a well-placed .dup, for which we were extremely grateful!
 
 __From Nick Dorans (Grumpy Baby):__
 Erinna has been a wonderful person to work with during this module. Although we haven’t paired directly on any major projects, we have worked on several classroom exercises together and I found the experiences to be very helpful. She clearly has a great working knowledge of Ruby and other programming languages alike. I know I can always go to her for help if I’m feeling stuck on something and she will try to help me as best as she can. Thank you for all of your assistance, and I hope we get to pair together on a project in the future!
