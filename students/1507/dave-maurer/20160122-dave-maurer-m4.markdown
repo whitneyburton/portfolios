@@ -96,6 +96,11 @@ sessions on machine learning and AI is admirable, and his zeal is infectious. Wh
 about code. Aaron could improve by slowing down sometimes and delving more deeply into certain concepts. He is learning an incredible amount 
 about a lot of things, but eventually I believe he will gravitate toward mastery of a few.
 
+Tori Joy-Warren: Tori is very enthusiastic about life in general, and it rubs off in a very positive way with the posse. She regularly corrals 
+the group for outings and encourages participation during warm ups. She also enjoys learning new concepts, such as elixir. She spearheaded an 
+elixir warmup which was very informative. To improve, Tori should have more faith in her abilities as a programmer and take the initiative to 
+teach others and take charge of warmups more often. She has the chops for it.
+
 ### Playing a Part
 
 My niche is still the Posse, but I also really like improv, and have been attending regularly. Jessica is awesome, and it really is a great 
