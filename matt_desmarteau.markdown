@@ -52,12 +52,14 @@ Assessed By: Meeka
 
 4: Application effectively breaks logical components apart with clear intent and usage (Did a great job of doing this)
 
-Feedback from Meeka:
+**Feedback from Meeka:**
 Matt had a good understanding of what was going on, I gave him some advice on the correct places to leave comments in ruby code.
 
 ### Working in Teams
 
-In my previous experience as an Account Manager, I was the point man for 4-to-6 employees. I acquired valuable skills in communicating and managing a team. There were times I needed to settle temperamental employee disagreements and make sure all of my employees were giving 100% effort.  While working in teams in Module 1 I learned the difference between directly working on technical problems and meeting deadlines with an individual vs managing an individual directly. Working in teams on a programming project requires you to know the individual on a personal level.  You need to know what works best for them and what they are distracted by.  After the first pairing in Module 1, I learned that communicating your ideas and standing up for a process that works for the team is way more important than avoiding conflicts.  Conflicts can always be resolved, but left unsaid, they will always lead to failures.  Although it is hard to tell someone what is not working for you, it is necessary in paired programming.  Although there are may ways to tackle a problem, paired programming requires you to find a process that works for both of you.  If you are not persistent in figuring out what process works for both of you, you will not succeed.
+In my previous experience as an Account Manager, I was the point man for 4-to-6 employees. I acquired valuable skills in communicating and managing a team. There were times I needed to settle temperamental employee disagreements and make sure all of my employees were giving 100% effort.  While working in teams in Module 1 I learned the difference between directly working on technical problems and meeting deadlines with an individual vs managing an individual directly.
+
+Working in teams on a programming project requires you to know the individual on a personal level.  You need to know what works best for them and what they are distracted by.  After the first pairing in Module 1, I learned that communicating your ideas and standing up for a process that works for the team is way more important than avoiding conflicts.  Conflicts can always be resolved, but left unsaid, they will always lead to failures.  Although it is hard to tell someone what is not working for you, it is necessary in paired programming.  Although there are may ways to tackle a problem, paired programming requires you to find a process that works for both of you.  If you are not persistent in figuring out what process works for both of you, you will not succeed.
 
 #### Team Projects - HTTP Yeah You Know Me
 
