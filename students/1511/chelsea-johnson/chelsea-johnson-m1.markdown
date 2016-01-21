@@ -138,14 +138,18 @@ Chelsea did an excellent job of demo-ing under pressure and was very confident. 
 -Assessed by Meeka
 
 Evaluation Scores:
-1. Overall Functionality</br>
-  3: Application encrypts, decrypts, and cracks files as described (all good, just no extensions)</br>
-2. Fundamental Ruby & Style</br>
-  4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring</br>
-3. Test-Driven Development</br>
-  3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.</br>
-4. Breaking Logic into Components</br>
-  4: Application effectively breaks logical components apart with clear intent and usage
+
+  1. Overall Functionality </br>
+      3: Application encrypts, decrypts, and cracks files as described (all good, just no extensions)</br>
+
+  2. Fundamental Ruby & Style</br>
+    4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring</br>
+
+  3. Test-Driven Development</br>
+    3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.</br>
+
+  4. Breaking Logic into Components</br>
+    4: Application effectively breaks logical components apart with clear intent and usage
 
 
 #### Headcount
