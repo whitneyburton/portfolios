@@ -141,6 +141,10 @@ It might have theoretically been a more efficient app, but in reality, it was a 
 
 Introducing 1508 and below students to Digital Ocean has already caused them and you technical debt, in that you’re their only source. Doesn’t mean introducing new tech is a bad idea, but weigh the other side of the equation, because new tech isn’t as important, usually, as shipping, having a friendly code base for people to work on, and being able to hire developers that can work in the code base!
 
+#### Bret:
+
+Regis is one of the most enthusiastic people I met while at Turing and one of most inspiring. The Regis from module one (where I believe he struggled a bit) to the Regis of now is like a whole new person. His knowledge of dev ops and his passion for learning about an assortment of dev ops related materials is amazing. Not only did he teach himself all these things, he selflessly taught other people. I can remember being in my own wormhole of code in regards to the asset pipeline in Rails. Regis took time away from his own project ( when he had little time to finish it) and help me. Thank you Regis.
+
 ## Community
 
 ### Giving Feedback
