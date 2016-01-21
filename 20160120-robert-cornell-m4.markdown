@@ -20,7 +20,11 @@ If the decision is that I have not performed well enough to "pass", which I expe
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+50 Points out of 125
+
+Comments included some logic that I include in the views should have been in controller.  Yes, I agree with this assessment, but given the time constraints I made the trade off of pushing for completion of features vs refactoring to perfection in the go. 
+
+
 
 ### Attendance
 
