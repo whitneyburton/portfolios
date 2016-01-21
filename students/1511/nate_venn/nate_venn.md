@@ -293,13 +293,20 @@ I Have supported the larger Turing Community?
 * Paired on screenhero with Chad Ellison numerous times during winter break
 * hung monitor screens in the back of classroom A
 
-### Review
+## Review
 
 Notes
 
+* good job improving on project delivery after some initial hiccups
+* criteria are coming out solid across the board
+* now that you've found stability with the work and progress, we hope to see
+you starting to experiment with additional work and exploration beyond
+the curriculum
 
-Outcome
+### Outcome
 
-
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
