@@ -26,29 +26,29 @@ Module 1 was an intense programming experience.  Module 1 really challenges how 
 
 In this project we used Ruby to build a tool for cracking an encryption algorithm.
 
-#Learning Goals / Areas of Focus
+####Learning Goals / Areas of Focus
 
 * Practice breaking a program into logical components
 * Testing components in isolation and in combination
 * Applying Enumerable techniques in a real context
 * Reading text from and writing text to files
 
-#Evaluation Rubric
+####Evaluation Rubric
 Assessed By: Meeka
 
-#1. Overall Functionality
+####1. Overall Functionality
 
 3: Application encrypts, decrypts, and cracks files as described (works well - just didn't do an extension)
 
-#2. Fundamental Ruby & Style
+####2. Fundamental Ruby & Style
 
 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring (Matt was able to speak to places that he refactored and explain why and how)
 
-#3. Test-Driven Development
+####3. Test-Driven Development
 
 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested. (Had a decent test suit, but did not cover any sad paths)
 
-#4. Breaking Logic into Components
+####4. Breaking Logic into Components
 
 4: Application effectively breaks logical components apart with clear intent and usage (Did a great job of doing this)
 
@@ -57,7 +57,7 @@ Matt had a good understanding of what was going on, I gave him some advice on th
 
 #### Team
 
-(intro)
+Working
 
 #### Team Projects - HTTP Yeah You Know Me
 
@@ -66,28 +66,28 @@ Matt had a good understanding of what was going on, I gave him some advice on th
 
 In this project we'll begin to introduce HTTP, the protocol that runs the web, and build a functioning web server to put that understanding into action.
 
-#Learning Goals
+####Learning Goals
 
 * Practice breaking a workflow into a system of coordinating components
 * Practice using TDD at the unit, integration, and acceptance levels
 * Understand how the HTTP request/response cycle works
 * Practice implementing basic HTTP requests and responses
 
-#Evaluation Rubric
+####Evaluation Rubric
 
-#1. Overall Functionality
+####1. Overall Functionality
 
 2: Application implements three iteration
 
-#2. Fundamental Ruby & Style
+####2. Fundamental Ruby & Style
 
 2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
 
-#3. Test-Driven Development
+####3. Test-Driven Development
 
 2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
 
-#4. Breaking Logic into Components
+####4. Breaking Logic into Components
 
 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
 Feedback from Horace:
