@@ -70,12 +70,47 @@ Assessed By: Josh Cheek
 
 #####Scores:
 
-- Overall Functionality:
-- Test-Driven Development:
-- Encapsulation / Breaking Logic into Components:
-- Fundamental Ruby & Style:
-- Enumerable & Collections:
-- Code Sanitation:
+**Instructor:** Josh Cheek
+
+**Repo Url:** https://github.com/marinacor1/headcount
+
+### 1. Functional Expectations
+
+Score: 2
+
+* Completed: 0-4
+* Part of iteration 5
+
+### 2. Test-Driven Development
+
+Score: 3
+
+* Tests pass:
+
+```
+Finished in 2.2 seconds (files took 0.82601 seconds to load)
+80 examples, 0 failures, 13 pending
+```
+
+* Many pending
+* Test harness: (8/23) -- 23 runs, 104 assertions, 3 failures, 5 errors, 0 skips
+* 7 files under 80% coverage
+
+### 3. Encapsulation / Breaking Logic into Components
+
+Score: 3
+
+* The best place to push common behaviour is: earlier in the callstack (ie to my environment)
+
+### 4. Fundamental Ruby & Style
+
+Score: 3
+
+* Keep your eye on indentation
+
+### 5. Enumerable & Collections
+
+Score: 3
 
 #####Notes:
 
@@ -96,6 +131,7 @@ Assessed By: Horace
 - Breaking Logic into Components: 2
 
 #####Notes:
+
  * Top-level server request/response loop algorithm is cleanly written
 and easy to follow; however it is currently just spread across a lengthy
 top-level loop in the project's main namespace
@@ -188,17 +224,30 @@ Being fortunate enough to have had Marina join us in Goldberg Posse, I can safel
 I very much enjoy being a part of the Turing community. Here are a few ways that I have played my part:
 
 * I organized a project introduction for HTTP: Yeah You Know Me led by Joseph Perry for any Module 1 students interested in learning more
-
 * I organized a happy hour at Hapa Sushi the second Friday of Module 1 for Cohort 1511
-
 * I pair at least once a week with my mentor Jan Koszewski.
-
 * Joseph Perry and I led efforts to get Goldberg Posse to meet for warmups the first two weeks of Module 1
-
 * I try to send a shout out at least once a week through the shout out channel
-
 * I led a Group Retro session
-
 * I attended the last two Tuesday coffee meetings for the Joan Clark Society
-
 * I attended one voluntary session of improv
+
+## Review
+
+### Notes
+
+* glad to see assessment came out successfully after the retake
+* would like to see more success on individual projects -- lacks either consistent
+execution or upward trend
+* group projects showing promise but still suffering from some general gaps
+* we feel best result for you will be to repeat module one. we see a lot of potential
+for you to gain a lot out of this especially based on your work ethic and
+studious approach to Turing
+
+### Outcome
+
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 2*
+* __C Group Work & Projects:__ 2
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
