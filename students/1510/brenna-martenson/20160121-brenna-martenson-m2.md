@@ -182,4 +182,13 @@ I am also part of the Student Advisory Board for 1510, which has meant leading g
 
 ### Outcome
 
-( Leave blanks for reviewers )
+End of Module Assessment: 4
+
+Individual Work and Projects: 4
+
+Group Work and Projects:  4
+
+Community Participation: 3
+
+Peer and Instructor Feedback:  4
+
