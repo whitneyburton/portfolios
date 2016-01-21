@@ -72,17 +72,36 @@ Assessed By: Mike
 * [GitHub URL](https://github.com/bethsecor/little-shop-private-stache)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-**Functional web server built in ruby**
+**Online commerce platform**  
 
+We built an online shop that sells face mustaches, utilizing an ActiveRecord database to store products and track users and their orders. Administrators are able to create new mustaches and categories, edit user order statuses, and view order statistics.
 
 
 #### Comments:
 
-
+* 76 tests, 234 assertions, 99.84% coverage
+* Default picture when item is created doesn't work.
+* Stache Cam was buggy on Digital Ocean.
+* Admin dashboard had a generated graph of orders and statuses.
+* Controllers were generally very clean.
+* One instance of something in the model that could have been pulled out - date formatting. Could have been used with a rails helper method in the view.
+* Testing could have used more sad path testing.
 
 #### Scores:
 
+* Feature Completeness: **3**
 
+* Views: **3**
+
+* Controllers: **4**
+
+* Models: **4**
+
+* Testing: **3**
+
+* Usability: **4**
+
+* Workflow: **4**
 
 ## Community
 
