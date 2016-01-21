@@ -15,12 +15,6 @@ I  was able to attended each and every day of Module 1.
 * [GitHub URL](https://github.com/Salvi6God/black_thursday)
 * [Original Assignment](https://github.com/Salvi6God/black_thursday)
 
-
-Alex Navarrete, Matt Desmarteau
-===============================
-
-**Instructor:** Josh Cheek
-
 #### Evaluation Rubric
 ** Assessed by: Josh Cheek
 
