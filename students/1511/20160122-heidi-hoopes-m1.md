@@ -273,10 +273,15 @@ My natural strengths in groups are supporting those around me, explaining concep
 
 ### Notes
 
+* don't have concerns about aptitude or technical skill
+* want to see that we can fully deliver satisfactory projects and
+there are enough shortcomings on the various projects that we'd like
+to have you complete the headcount project for next week
+
 ### Outcome
 
 * __A End-of-Module Assessment:__ 3
-* __B Individual Work & Projects:__ 
-* __C Group Work & Projects:__
-* __D Community Participation:__
-* __E Peer & Instructor Feedback:__
+* __B Individual Work & Projects:__ 2*
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
