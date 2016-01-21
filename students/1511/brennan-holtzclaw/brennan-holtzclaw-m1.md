@@ -143,24 +143,36 @@ Black Thursday is similar to a back-end program for an e-commerce platform. We d
 #### Notes
 Group: Allan Blair and Brennan Holtzclaw
 
-Assessed By:
+Assessed By: Mary Curtali
 
 Repository: https://github.com/amaxwellblair/black_thursday
 
-*
+* small well encapsulated classes
+
+* good test coverage, though performance and line hits could be improved either by use of fixtures or some minor refactoring
+
+* nice use of ruby Math & Date Time utilities to not reinvent the wheel
+
+* documentation inside of tests!!!!
+
+* had a nice discussion about variables & garbage collection (though I understand why we were creating vars to save on line length)
+
+* good understand of relation between objects
+
+* extension: coupons
+
 
 #### Scores
-***Functional Expectations:*** **x**
+***Functional Expectations:*** **4** - Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
 
-***Test-Driven Development:*** **x**
+***Test-Driven Development:*** **3** - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-***Encapsulation / Breaking Logic into Components:*** **x**
+***Encapsulation / Breaking Logic into Components:*** **3** - Application effectively breaks logical components apart but breaks the principle of SRP
 
-***Fundamental Ruby & Style:*** **x**
+***Fundamental Ruby & Style:*** **4** - Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-***Enumerable & Collections:*** **x**
+***Enumerable & Collections:*** **4** - Application consistently makes use of the best-choice Enumerable methods
 
-***Code Sanitation:*** **x**
 
 # Community
 
