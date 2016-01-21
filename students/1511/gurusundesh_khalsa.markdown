@@ -1,5 +1,4 @@
 # Gurusundesh Khalsa - M1 Portfolio
-___
 
 ![turing](http://i.imgur.com/LGEOflI.jpg)
 
@@ -7,7 +6,7 @@ ___
 
 It's hard to describe what this experience means to me. I'm writing this now at 3am(which means I need better time management skills), while taking a small break from our headcount project. I'm in a space where all I can think about is inter Class/method/hash relationships. I can't remember a time where I have been this academically challenged. It's been a while since I've been this personally challenged. It's also been a while since I've been this happy.
 
- I came here wanting an accelerated trip towards programming proficiency. I'm receiving that in abundance, but I'm also in one of the most incredibly inspiring environments. I'm developing a real love for this stuff and as I see my improvements I find myself thinking more and more about programming and getting even more excited. My eyes are being opened towards so many new arenas. The truth is that I don't really know what I plan on doing at the moment, I'm just trying to soak up and learn as much as I possibly can along the way. Ask me again in 6 months ;)        
+I came here wanting an accelerated trip towards programming proficiency. I'm receiving that in abundance, but I'm also in one of the most incredibly inspiring environments. I'm developing a real love for this stuff and as I see my improvements I find myself thinking more and more about programming and getting even more excited. My eyes are being opened towards so many new arenas. The truth is that I don't really know what I plan on doing at the moment, I'm just trying to soak up and learn as much as I possibly can along the way. Ask me again in 6 months ;)
 
 
 ### End of Module Assessment
@@ -149,4 +148,18 @@ The project involved building a ruby server that has a word search and guessing 
 
 ### Notes
 
+* some hiccups in the final assessment but lovisa advocates that you pass after doing
+some additional supplementary work
+* it's a close call on this one but we think the right answer is ultimately
+to repeat
+* many of the pieces are close, but there are enough gaps across the board that
+we need to see this tightened up and consolidated so that we have a good
+a foundation to go into later modules
+
 ### Outcome
+
+* __A End-of-Module Assessment:__ 2
+* __B Individual Work & Projects:__ 2
+* __C Group Work & Projects:__ 2
+* __D Community Participation:__ 4
+* __E Peer & Instructor Feedback:__ 3
