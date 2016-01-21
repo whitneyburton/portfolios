@@ -197,12 +197,12 @@ Keep crushin’ it!
 
 ### Notes
 
-* End of Module Assessment:
-* Individual Work and Projects:
-* Group Work and Projects:
-* Community Participation:
-* Peer and Instructor Feedback:
+* End of Module Assessment: 4
+* Individual Work and Projects: 3
+* Group Work and Projects: 4
+* Community Participation: 4
+* Peer and Instructor Feedback: 4
 
 ### Outcome
 
-( Leave blank for reviewers )
+PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate

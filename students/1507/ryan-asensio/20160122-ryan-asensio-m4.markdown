@@ -44,9 +44,9 @@ I completed this project in Clojure with some help from Horace. It was extremely
 
 Worked through almost all of this book. Learned a bunch of new things about Clojure, and programming in general (async channels, threading, transactions, web apps).
 
-#### BigML 
+#### BigML
 
-Familiarized myself with my new company's product. 
+Familiarized myself with my new company's product.
 
 #### Python/Django
 
@@ -56,13 +56,13 @@ Built a CRD app that consumes an api.
 
 Built a CRD app with ClojureScript's library for ReactJS.
 
-#### Tutorials 
+#### Tutorials
 
 I wrote an intro to Clojure Tutorial [here.](https://github.com/rasensio1/10-steps-clojure)
 
 And also a Clojurescript app tutorial [here.](https://svbtle.com/beginners-guide-to-an-app-in-clojure/edit)
 
-## Feedback 
+## Feedback
 
 Feeback attack
 Mack 10 back again
@@ -83,7 +83,7 @@ Flew twice over cuckoo ~~
 
   * Do a follow-along employee-stalking exercise for getting interviews. Seems like a lot of people are just throwing their resumes into the abyss.
 
-  * Russell - Sacrifice more. If you commit to something, do it 100%. 
+  * Russell - Sacrifice more. If you commit to something, do it 100%.
 
   * Alon - Don't be so combative with people at first. It's OK later, after they get to know you.
 
@@ -97,3 +97,11 @@ Flew twice over cuckoo ~~
  * Cooked for thanksgiving
  * Found job postings for classmates
  * Cleaned the toilets!!
+
+- End of the Module Assessment: 2
+- Indivdual: 2
+- Group: 3
+- Community: 4
+- Feedback: 3
+
+COMPLETED WITH SPECIAL CIRCUMSTANCES
