@@ -1,10 +1,10 @@
-# Matt DesMarteau - M1 Portfolio
+# (Your Name) - (M1/M2/M3/M4) Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
-Changing careers can be a challenge for anyone
+(What did you set out to accomplish this module?)
 
 ### End of Module Assessment
 
