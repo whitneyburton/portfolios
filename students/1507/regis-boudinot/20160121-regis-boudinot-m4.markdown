@@ -110,7 +110,7 @@ Two blog posts were written by Zach and myself.
 
 #### "GOOD" STUFF
 
-If you could sum Regis' personatlity into just a couple words, I would propose the words "Helpful" and "Knowledgeable."
+If you could sum Regis' personality into just a couple words, I would propose the words "Helpful" and "Knowledgeable."
 
 ##### EX:1
 To dive a bit deeper, I mean, Regis has saved me from deep shit a couple of times. During Rales-Engine 1.0, Regis single handedly kept me from hitting my head on the wall after finding out helping diagnose my app with a deadly problem, It was using SQLite3. While I was sitting there wondering why ActiveRecord was so dumb, Regis helped my for over an hour and basically re-config'd my DB.yml. He could have been stressing along with everyone else that night. But he was calm and took time to help me. Regis is probably the only one in the school that night that would have been able to help me. Regis always knows stuff that other's don't. Why? Probably because of the countless hours the dude spends reading about Chef, or Space, or Unix etc. #mindblown
@@ -125,7 +125,6 @@ Summary: Regis helps everyone! He Helps mod 1-4 students. He helps Reddit by ans
 I used to think that Regis Stressed a lot. Back in M1, I do think that he would stress himself out a bit. But, really, I can't fault him.
 
 One Criticism. Regis tends to go quickly sometimes. Regis can explain things very well, but sometimes doesn't. But then again, I can usually call him out and he realizes that he needs to explain something again and he's cool with it. The cool part is that he never gets upset of frustrated. It's kind of funny actually. Regis is just REALLY into everything. It's hard to keep up.
-
 
 #### Meeka:
 
@@ -155,12 +154,9 @@ His second time through Module 3 has shown a lot of improvement. He has a lot le
 
 Keep crushin’ it!
 
-
-Here are some examples:
-
 ### Playing a Part
 
-* I helped set up 4 students on Digital Ocean running production environments. One of them is in Module 2!
+* I helped set up 5 students on Digital Ocean running production environments. One of them is in Module 2!
 * Wrote 4 Blog Posts during Mod 4. Here is a link to my [Blog](https://medium.com/@rboudinot)
 * Every Sunday at 2 or 3 pm I taught a mix of Javascript/Arduinos/Raspberry Pi/Ruby for an hour or two
 * The first week of the module I held a student led session on setting up a rails environment in a Vagrant Box (again). (10 students)
@@ -168,6 +164,10 @@ Here are some examples:
 * The third week of the module I held a student led session on setting up a production environment on Digital Ocean (again). (5 students)
 * During the 2 week intermission break I learned how to use Docker and made my own automation scripts for setting up fresh Debian based VPS's/Desktops/VM's. The script repo also includes scripts to setup a production environment for rails apps on both OSX and Debian based machines. I use my automation scripts in my Dockerfile to set up containers from scratch.
 * During Field Day I held a 3 hour session on learning Python as well as OOP in Python. (10 students)
+* Helped Mod 4 students when I had time to kill or paired during complex problem solving scenarios
+* Helped Mod 3 Students kill bugs that were crucial to keeping them going (Javascript, Rails, Digital Ocean)
+* Helped Mod 2 students with their Ruby skills to ensure their success
+* Helped Mod 1 students with setting up their computers, understanding enumerables, and pulling information out of hashes
 
 * As of Wednesday of this week these are my GitHub Stats:
 
