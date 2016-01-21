@@ -1,4 +1,4 @@
-# Aaron Greenspan - M1 Portfolio
+# Aaron Greenspan - M2 Portfolio
 
 ## Individual
 
