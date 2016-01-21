@@ -8,7 +8,7 @@ I want to be a solid programmer and a great teacher, and I chose Turing because 
 
 My main areas of focus this module have been comprehension and collaboration. I'm interested in comprehension of concepts/skills directly required as well as their relationship to peripheral ideas and tools. On the collaboration front, I made sure I contributed to the groups I worked in, communicated clearly, and established structure where needed.
 
-Also of note this module, I made more time for side projects, including spending a good deal of time early in the module on [Bitcoin]](https://github.com/bethsebian/bitcoin). I liked the chance to experiment with Ruby and the freedom to customize my application around the project's needs as I saw them. I leaned heavily on our instructor's resources when working to master concepts, but when it came to writing the code itself, I worked independently. The challenge was rewarding.  
+Also of note this module, I made more time for side projects, including spending a good deal of time early in the module on [[Bitcoin]](https://github.com/bethsebian/bitcoin). I liked the chance to experiment with Ruby and the freedom to customize my application around the project's needs as I saw them. I leaned heavily on our instructor's resources when working to master concepts, but when it came to writing the code itself, I worked independently. The challenge was rewarding.  
 
 ### End of Module Assessment  
 **Evaluator:** Rachel Warbelow  
@@ -20,12 +20,12 @@ Also of note this module, I made more time for side projects, including spending
 * able to use pry for debugging  
 * able to refactor using docs  
 
-**Analytic/Algorithmic Thinking** - 3
-**Ruby Syntax & Standard Library** - 3
-**Rails Syntax & API** - 3.5
-**Rails Style** -3
-**Testing** - 3
-**Collaboration** - 4
+* **Analytic/Algorithmic Thinking** - 3  
+* **Ruby Syntax & Standard Library** - 3  
+* **Rails Syntax & API** - 3.5  
+* **Rails Style** -3  
+* **Testing** - 3  
+* **Collaboration** - 4  
 
 
 ### Attendance
@@ -36,10 +36,10 @@ I had no major attendance events in Module 1.
 ### Work
 
 The project work below reveals some consistent themes across my work this module:
-* Comfort with Rails, TDD and debugging
-* Seeking testing experience with both Minitest and RSpec
-* Still a bit behind with style. For example, tests are too verbose, relying on methods that could be cleaner, not spending adequate time refactoring to write clear, clean code.
-* Strong collaboration skills: ability to lead projects and execute, work well with others.
+* Working knowledge of Rails, TDD and debugging with Pry and Byebug
+* Seeking experience in areas of weakness: testing with RSpec when given choice, creating additional Rails projects outside of class for extra repetitions.
+* Continuing to struggle with style: tests are too verbose, methods could be cleaner, inadequate time spent refactoring.
+* Collaborating effecting, demonstrating ability to lead projects, execute concensus goals, work well with others.
 
 
 #### Little Shop
@@ -47,7 +47,7 @@ The project work below reveals some consistent themes across my work this module
 * [Heroku site](http://fathomless-retreat-2962.herokuapp.com/items)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-**Requirements**
+**Requirements**  
 *You will build an online ordering platform. Customers should be able to place orders and view placed order details. The site owner should be able to manage products and categories in addition to processing and completing orders.*  
 * Use TDD to drive all layers of Rails development including unit, integration, and user acceptance tests  
 * Design a system of models which use one-to-one, one-to-many, and many-to-many relationships  
@@ -56,18 +56,20 @@ The project work below reveals some consistent themes across my work this module
 * Build a logical user-flow that moves across multiple controllers and models  
 * Practice an agile workflow and improve communication skills working within a team  
 
-**Evaluator:**
+**Evaluator:** Rachel Warbelow
 *  
 *  
 *  
 
-**Functional Expectations** -   
-**Test-Driven Development** -   
-**Ruby Style & Fundamentals** -   
-**Encapsulation / Breaking Logic Into Components** -   
-**Enumerable & Collections** -   
+* **Functional Expectations** -   
+* **Test-Driven Development** -   
+* **Ruby Style & Fundamentals** -   
+* **Encapsulation / Breaking Logic Into Components** -   
+* **Enumerable & Collections** -   
 
-**My self-assessment**
+**Self-assessment**
+This was a seamless collaboration project. We stayed in close communication, reevaluated work plans and strategy, pretty closely arrived at a point when we could split off to work independently. I was battling the flu during the second week of this project: on the positive side, I think I was quick to jump in where I could and bit off realistic chunks of work that positioned my Jordan and Greg to do their work well. There were several times during the project where I could have communicated more clearly to them about the status of my work.
+
 
 #### Traffic Spy
 
@@ -83,30 +85,30 @@ The project work below reveals some consistent themes across my work this module
 * Understand and practice HTTP verbs including GET, PUT, and POST  
 * Practice using fundamental HTML and CSS to create a usable web interface  
 
-**Evaluator:** Rachel Warbelow  
-**Functional Expectations** - 3  
-**Test-Driven Development** - 4  
-**Encapsulation / Breaking Logic into Components** - 3.5  
-**Fundamental Ruby & Style** - 3  
-**Sinatra / Web and Business Logic** - 3.5  
-**View Layer** - 3  
+**EVALUATOR:** Rachel Warbelow  
+* **Functional Expectations** - 3  
+* **Test-Driven Development** - 4  
+* **Encapsulation / Breaking Logic into Components** - 3.5  
+* **Fundamental Ruby & Style** - 3  
+* **Sinatra / Web and Business Logic** - 3.5  
+* **View Layer** - 3  
 
-**My self-assessment**
+**My self-assessment**  
 Hector and I focused on fundamentals on this project and prioritized comprehension and discussion over extensions. I was confident in our final product: it met the base expectations and was well-tested.
 
 ### Ruby Exercises
 
 #### Bitcoin
-* [GitHub URL](https://github.com/bethsebian/bitcoin)
-* [Project Page](https://github.com/worace/coinage)
+* [GitHub URL](https://github.com/bethsebian/bitcoin)  
+* [Project Page](https://github.com/worace/coinage)  
 Using Horace's coinage iterations as a guide, I've been working all module on simulating bitcoin's marketplace with my own cryptocurrency program. So far we've completed iterations 0 and 1, working on 2. I've built everything using TDD.
 
 #### Mario Brothers
-* [GitHub URL](https://github.com/bethsebian/mario_brothers)
+* [GitHub URL](https://github.com/bethsebian/mario_brothers)  
 The challenge was to write a method that would build a stack of "#" symbols that formed the shape of a ramp (climbing to the right). The method should take a number that dictates how tall and wide the ramp is. I build this in Ruby, and then used it as an opportunity to test my new Python skills after an afternoon Python workshop.
 
 #### Base64 Coding Challenge
-* [GitHub URL](https://github.com/bethsebian/base64_challenge)
+* [GitHub URL](https://github.com/bethsebian/base64_challenge)  
 This coding challenge was kicked off with 1 unexplained line of code `curl -fsSL https://www.vessel.com/careers/apply.rb | ruby`
 
 
@@ -134,7 +136,7 @@ I have been a solid member of the community, but have done little that's excepti
 
 I have a few community projects in mind that I'd like to tackle next module:
 * Soliciting volunteers to discuss ways Turing could be more environmentally responsible
-* Working with some other students in my module to organize a session for our cohort on privilege
+* Working with some other students in my module to organize a session for our cohort on "privilege"
 
 ## Review
 ### Notes
