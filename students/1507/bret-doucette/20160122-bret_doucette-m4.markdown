@@ -110,8 +110,12 @@ Gave feedback during Game Time.
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Assessment: 3
+- Individual Work: 3
+- Group Work: 3
+- Community: 3
+- Feedback: 1
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING - your portfolio is incomplete or non-conforming and will be re-evaluated as soon as possible. If it is incomplete after 24 hours it will be moved to RETAINED or EXCUSED
