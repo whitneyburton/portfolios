@@ -182,12 +182,12 @@ I paired with Deborah on Linked Lists - she was enthusiastic, hard-working, and 
 
 
 ### Playing a Part
-Joan Clarke Society
-Improv classes
-Demo night
-Brooks Posse logic problem warm ups - like to do  this more religious
-Hack Design lunch hours - volunteered to present at one
-Weekly pairing with mentor
+Joan Clarke Society<br />
+Improv classes<br />
+Demo night<br />
+Brooks Posse logic problem warm ups - like to do  this more religious<br />
+Hack Design lunch hours - volunteered to present at one<br />
+Weekly pairing with mentor<br />
 
 
 ## Review
