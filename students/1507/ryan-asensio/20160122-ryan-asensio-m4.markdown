@@ -60,8 +60,32 @@ Built a CRD app with ClojureScript's library for ReactJS.
 
 I wrote an intro to Clojure Tutorial [here.](https://github.com/rasensio1/10-steps-clojure)
 
-And also a Clojurescript game tutorial [here.](https://svbtle.com/beginners-guide-to-an-app-in-clojure/edit)
+And also a Clojurescript app tutorial [here.](https://svbtle.com/beginners-guide-to-an-app-in-clojure/edit)
 
+## Feedback 
+
+Feeback attack
+Mack 10 back again
+
+Homies ride through
+Flew twice over cuckoo ~~
+
+#### To Me
+
+  * Russell Harms - Be less arrogant
+  * Alon - Don't make half-court shots when other people can't make them. At least not in their face.
+  * George - Be less aggressive
+  * Ricky - \*\*\*\*\*\*\* ...
+
+#### From Me
+
+  * Encourage Creativity by allowing for more flexible pass/fail conditions (Mod 4). Make graduation subjective for the instructors to allow failed creative projects to pass.
+
+  * Do a follow-along employee-stalking exercise for getting interviews. Seems like a lot of people are just throwing their resumes into the abyss.
+
+  * Russell - Sacrifice more. If you commit to something, do it 100%. 
+
+  * Alon - Don't be so combative with people at first. It's OK later, after they get to know you.
 
 ## Community
 
