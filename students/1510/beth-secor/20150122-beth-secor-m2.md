@@ -197,3 +197,13 @@ I've participated in the larger Turing Community in the following ways:
 
 
 ### Outcome
+
+End of Module Assessment: 4
+
+Individual Work and Projects: 4
+
+Group Work and Projects:  4
+
+Community Participation: 3
+
+Peer and Instructor Feedback:  4
