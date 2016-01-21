@@ -11,21 +11,32 @@ By the end of Turing, I would like to:
 * have a portfolio that incorporates academic work and a significant number of personally-driven projects
 * have strong personal relationships with students and staff of Turing and with mentors outside of Turing
 
-In this module, my goal was to gain more proficiency with Ruby
+In this module, my goals were to:
+* develop proficiency with Ruby
+* learn tools that are used in website and web app development
+* develop strong relationships with the students around me
+* maintain a positive attitude
+* aid those around me in
+* try to establish habits that enable a success at Turing and my future
 
 ### End of Module Assessment
-Assessor : Horace
 
-#### Notes
+#### Evaluation by Horace
+* Exercise: Highest Scoring Word
+* took us a few minutes to unwrap the case structure for handling
+different situations
+* eventually ended up with a flexible approach that made it pretty easy
+to handle the additional cases
+* straightforward testing throughout the various cases
 
 #### Scores
 
-1. __Ruby Syntax & API:__ 3.5
-2. __Ruby Style:__ 3.5
-3. __Blocks & Enumerations:__ 4
+1. __Ruby Syntax & API:__ 3
+2. __Ruby Style:__ 3
+3. __Blocks & Enumerations:__ 3
 4. __Testing:__ 4
-5. __Workflow:__ 4
-6. __Collaboration:__ 4
+5. __Workflow:__ 3
+6. __Collaboration:__ 3
 
 ### Mid-Module Assessment
 
@@ -198,7 +209,7 @@ __Overview:__
 * [GitHub URL](https://github.com/alirezaandersen/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-This two-week project
+This two-week paired project involved building a small relational database.
 
 __Evaluation by Horace:__
 * Clean, easy to follow code
@@ -278,13 +289,22 @@ I have paired with Nate throughout the module and he has made strong progress fr
 
 ## Looking forward
 ### Reflections on Module 1
-While Ruby is a new language for me,
+My personal goals for module 1 were fairly minimal. I wanted to become more familiar with the tools used for web development and to get better at writing Ruby code. The most novel process was test-driven development and it really sang to me. I feel like the change in environment was a bit intense for me, and while I didn't necessarily learn to my full potential technically, I did push myself to go outside my comfort zone and attempt to be more proactive.
+
+The intensity of the module illuminated my personal strengths and weaknesses. I am fairly comfortable in an academic environment, but not great at carving out time to be creative and drive my own personal interests. I am a complainer, and I have tried to be more active in "becoming the solution." Lastly, I need to be more active in finding more programming challenges. Sometimes I feel a bit resentful (which is not a Turing issue clearly); this feels like more work in that challenge is built into the curriculum for those who have not programmed before.
 
 ### Feedback for Turing
 I am impressed by all the progress that has been made over the last six weeks. Looking back, I think the thing I would benefit from most would be a short (guided) retrospective after projects. I envision it being something like a revisit of the goals of the project, which are expressed on the spec but rarely looked at during the project, and some writing on what was learned over the course of the project and if this learning aligned with the goals that were pre-set externally.
 
 ### Goals
-
+These are my goals for the next module:
+* Consistently deliver good projects
+* Continue to foster a welcoming community at Turing
+* Reach out to more people outside of Turing
+* Actively budget time in order to better separate academic requirements, personal development, and personal life
+* Get back on the exercise train
+* Push forward on some personal projects: lambda calculus, machine learning, blog, learning another language (elixir, python?)
+* Generally be more active in effectively utilizing the time I have at Turing
 
 ## Review
 
