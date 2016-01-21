@@ -73,6 +73,55 @@ In this project, I worked with Rose Kohn to make a JavaScript implementation of 
 
 ## Community
 
+### Feedback To Others
+
+#### Rose Kohn
+
+Working with you was great, of course, I think we make a really good team. Especially towards the end, you just started shipping feature after feature, it was pretty incredible. It’s great how you’re always trying to do more and make your projects better, so I’d say keep that up! The one thing that I’d say to work on is keeping up with automated testing as you’re shipping new features. That said, you manually test throughout your process, and also that’s what makes us a good team, is that I’m working on that stuff while you’re working on features. Anyway, it was a great experience, as always.
+
+#### Regis Boudinot
+
+Pairing with you during some of our assignments this module was great, as always. I love your constant enthusiasm and curiousity, working with you makes me a better developer, so thank you! The only thing I would offer as criticism to to keep in mind to stay calm when things break. Everything is solvable, and you're good enough to solve it! It's been a pleasure, I always look forward to pairing with you when I get the chance.
+
+#### Mimi Schatz(This was feedback on a specific pull request)
+
+I like this a lot, I really like how you're now telling the ball what to do instead of asking about it's state and making decisions based on that. It's pretty impressive how much code you were able to cut out with this change. Looks good to me!
+
+#### Justin Holzmann
+
+Justin, I love working with you, your constant enthusiasm is such an asset to me, and to the cohort in general. When you’re not in class, I feel like nobody is as good as they can be. I know people joke about it, but the fact that everything is “the most awesome thing ever” is really valuable, and it makes me more excited to work and to figure things out. I think it's great that you continue to work on your game time app, and your aspiration to integrate web sockets to make it real time, it inspires me to improve my own game (mobile? touch controls? awesome!). That said, I'd say the biggest thing to work on is to follow through with those aspirations, and make sure they happen. I've seen you do that at times in your personal life with goals that you've set for your time here, so keep working on that!
+
+#### Shannon Paige
+
+Shannon, pairing with you was really great, you're super easy to work with and I was impressed with your persistence in the face of the massive refactoring that we took on, and the many app-breaking bugs that arose out of that. You didn't seem especially comfortable with AJAX and JavaScript, but you didn't let that intimidate you, instead you seemed eager to learn more about it and that's a great quality to have. The only criticism I would give you is to work on your workflow a little bit. Overall, it was fine, but having extra `binding.pry`s and `debugger;`s in the code after you don't need them anymore can throw you off of your train of thought pretty easily. I had a great time, though, your app is super cool, and I really hope we get a chance to pair again in the future!
+
+### Feedback From Others
+
+#### Rose Kohn
+
+Game Time was a project that appeared to be really intimidating from the outside, so I wanted someone I knew I worked well with and who knew what he was doing on my team.  Not surprisingly, working with Jeff was a pleasure as always.  The parts where I tend to get stuck are where he excels, and we work well at pushing each other forward.  There was never a moment of stress, and I don’t think we would have created such an awesome game had we not supported each other so well. The only thing I can think of that he can maybe work on a bit more is to vocalize more of his thought process when we’re trying to work through something tricky.
+
+#### Shannon Paige
+
+Pairing with Jeff was one of my best experiences at Turing. He taught me things I didn’t know, let me shine when I did know what to do, and kept me calm the whole time. What was even more impressive was that he spent an entire day working with me, even though he had no stake in the project. When I commented on this, he responded that he loved what he did, and wouldn’t be here if he didn’t. I think this attitude shines through in his attitude and in his work. Even though we aren’t in the same module, I hope I have the opportunity to work with him again.
+
+#### Regis Boudinot
+
+You are a problem solver. Your passion for crushing bugs is insane. You really enjoy “unbreaking" things.
+
+You do seem to stress in strange ways. You get real quiet and tend to let it build up. You could also be a bit more talkative, but overall you were really great to pair with.
+
+Our Rose/Jeff/Regis group was still to this day the best group I have ever been in!
+
+#### Justin Holzmann
+
+Jeff is an amazing guy. Humble and down to earth and yet clearly VERY talented. Seeing all of his projects come to fruition and start to blosson has been very exciting!
+He's quick to understand ideas and new concepts.
+The two times we've had the opportunity to pair together have both been excellent!
+In terms of areas for improvement: The biggest thing would be to focus on inner discipline (something I practice myself). Since you tend to grasp new things so quickly it can
+become tiring to follow through with the more mundane things... and thats where discipline and habit come in!
+Overall, its been really great getting to know you!
+
 ### Playing a Part
 
 * I was voted to Student Advisory Board by my peers this module.
