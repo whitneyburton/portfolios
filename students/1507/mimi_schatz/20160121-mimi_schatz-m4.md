@@ -8,7 +8,7 @@ My goal this module was to stay motivated and focused despite the pressure to fi
 
 ## Work
 
-### Team Projects
+### Projects
 
 Below is a list of all projects and their scores for Module: 4.
 
@@ -56,6 +56,19 @@ In this project, we were asked to use a Node server with Express and implement w
 
 * 160/200
 
+## ThoughtBox - Practice Assessment
+
+* [GitHub URL](https://github.com/mcschatz/practice-assessment)
+* [Original Assignment](https://gist.github.com/stevekinney/82831c5b25029415ce8b)
+
+A one day project as a mock assessment. Tested our ability to do the following: Basic Rails CRUD, validation, authentication, building an API, AJAX, and utilizing JavaScript for client-side interactions.
+
+#### Assessed By: Lovisa
+
+#### Scores:
+
+* 95/100
+
 #### Feedback to me:
 
 * From Jeff: I like this a lot, I really like how you're now telling the ball what to do instead of asking about it's state and making decisions based on that. It's pretty impressive how much code you were able to cut out with this change. Looks good to me!
@@ -64,7 +77,7 @@ In this project, we were asked to use a Node server with Express and implement w
 
 * From Bret: This was Mimi and Bret’s second time into the depths of hell. The first was Sales Engine - the second was Game Time. For  this project, we choose to work together so obviously I have no complaints. It was once again a pleasure to work with Mimi - she is a refactoring goddess and managed to make our project go from a tangled mess to a beautiful being. She was also a debugging and structuring wizard.
 
-* From Justin: Mimi was a great help.  She paired with me this module and was a joy to work with.  She was patient and insightful.  She needs to be a little better at communicating schedule times.  But she made learning fun
+* From Justin: Mimi was a great help. She paired with me this module and was a joy to work with.  She was patient and insightful. She needs to be a little better at communicating schedule times, but she made learning fun.
 
 #### Feedback from me:
 
