@@ -6,10 +6,6 @@
 
 Learn the skills necessary to change my professional career from Account Manager in an unrewarding non ethical industry to follow my passions of creating from scratch and building things people can use, and to have my professional success depend more on the personal abilities acquired as I grow within programming industry.
 
-### End of Module Assessment
-
-(Notes & scores from your assessment rubric)
-
 ### Attendance
 
 I  was able to attended each and every day of Module 1.
