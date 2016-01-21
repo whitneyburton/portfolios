@@ -1,5 +1,4 @@
 ## Nate Venn - M1 Portfolio
-Individual
 
 ## Your Mission
 
@@ -300,6 +299,6 @@ Notes
 
 Outcome
 
-( Leave blanks for reviewers )
+
 Status API Training Shop Blog About Pricing
 © 2016 GitHub, Inc. Terms Privacy Security Contact Help
