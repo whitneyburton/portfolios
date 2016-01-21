@@ -4,21 +4,26 @@
 
 ### Your Mission
 
-Become a solid JavaScript developer and further cement best practices for code design and workflow. I put a lot of effort into refactoring
+Become a solid JavaScript developer and further cement best practices for code design and workflow in both JavaScript and Ruby. I put a lot of effort into refactoring
 code to be more DRY and more readable.
 
 ### End of Module Assessment
 
-N/A
+N/A - Didn't have to take due to sufficient points accumulated during the module.
 
 ### Attendance
 
-N/A
+I attended all days of this module at Turing punctually.
 
 ### Work
 
-These are the projects I completed this module for Turing. I also built a [reatively simple data analysis app](http://urban-leaders-dashboard.herokuapp.com) for my girlfriend's work
-to practice serving up an API with Rails and using the lodash library of JavaScript to manipulate data.
+#### Side Project
+
+I built a [reatively simple data analysis app](http://urban-leaders-dashboard.herokuapp.com) for my girlfriend's work to practice serving 
+up an API with Rails and using the lodash library of JavaScript to manipulate data, along with some plug and play bar graphs from
+highcharts.com to display an analysis of the applicants filtered by race, gender, and progress through the application process.
+
+![Urban Leaders Dashboard](http://g.recordit.co/lDuGmY7PW1.gif)
 
 #### IdeaBox
 
@@ -34,7 +39,7 @@ moving parts. As I'm sure it was intended to do it made me REALLY appreciate OO 
 
 (evaluation scores)
 
-#### IdeaBox
+#### RealTime
 
 * [GitHub URL](https://github.com/travishaby/javascript_idea_box)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
@@ -54,7 +59,7 @@ URL: https://github.com/travishaby/let-the-people-speak/blob/master/README.md
 
 ##### Notes
 
-**Total:** 176
+**Total:** 176/200 Points
 
 ###### Concept and Features
 
@@ -84,34 +89,34 @@ URL: https://github.com/travishaby/let-the-people-speak/blob/master/README.md
 
 ### Projects
 
-(Intro)
+#### GameTime
 
-#### (Project Name)
+This project was a clone of the 1942 game for the original nintendo. In Turing fashion, we put our instructors' heads on the game and
+trolled Horace by having the "airplane" (Jorge's head) fire poop emojis.
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/JackAndTravis/1942-nintendo-clone-js)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
 (description)
 
 (evaluation comments)
 
-(evaluation scores)
-
-(feedback to me)
+285/300 Points
 
 ## Community
 
-### Giving Feedback
-
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
-
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+This module I continued as much as possible to pop in on projects being worked on by students in lower modules. Typically I would help
+them pass one small test or think through a solution to the current problem they were grappling with. Yesterday (1/20/16) I paired with
+Alex and Matt for a few hours on the end of their Black Thrusday project. We passed one of their last tests from the spec harness and
+submitted a PR to fix the wording of the project spec.
+
+I also organized a guest-teaching trip to DSST College View Middle School (where I taught last year) for ~12 students from Turing. We
+taught 8th grade students there the basics of HTML. Students there seemed to really enjoy seeing code they wrote immediately resulting
+changed to the webpage they were looking at, and the participants from Turing said they had fun and enjoyed the experience. The computer
+science teacher that I partnered with on this said that he would definitely be interested in bringing more Turing students/community members
+back to represent the face of prgramming in the real world, as well as an example of adults continuing to value and pursue education.
 
 ## Review
 
