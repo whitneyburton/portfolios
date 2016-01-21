@@ -95,6 +95,10 @@ Justin, I love working with you, your constant enthusiasm is such an asset to me
 
 Shannon, pairing with you was really great, you're super easy to work with and I was impressed with your persistence in the face of the massive refactoring that we took on, and the many app-breaking bugs that arose out of that. You didn't seem especially comfortable with AJAX and JavaScript, but you didn't let that intimidate you, instead you seemed eager to learn more about it and that's a great quality to have. The only criticism I would give you is to work on your workflow a little bit. Overall, it was fine, but having extra `binding.pry`s and `debugger;`s in the code after you don't need them anymore can throw you off of your train of thought pretty easily. I had a great time, though, your app is super cool, and I really hope we get a chance to pair again in the future!
 
+#### Rick Bacci
+
+I've really enjoyed getting to know you, you're a great guy and you've always got a really interesting perspective on things, both code and life in general. We haven't had a chance to formally pair often, but from reviewing your code, I think you've got great instincts, and you're incredibly sharp. I really enjoyed the opportunity to review your pull requests over the course of this last project, and you're right, I wish we had thought of it earlier. You know this stuff better than I do, for sure. You're always willing to help others, and that's a great quality to have. The thing I would say to work on, which we've talked about before, is just your time management. Just keep in your mind that if you're on a deadline, you need to get a minimum viable product out, and work on refactoring and more features after that. I think we could've gotten a lot out of working together, I wish we had been able to do that at Turing, but maybe we'll have a chance to do that in the future.
+
 ### Feedback From Others
 
 #### Rose Kohn
@@ -121,6 +125,10 @@ The two times we've had the opportunity to pair together have both been excellen
 In terms of areas for improvement: The biggest thing would be to focus on inner discipline (something I practice myself). Since you tend to grasp new things so quickly it can
 become tiring to follow through with the more mundane things... and thats where discipline and habit come in!
 Overall, its been really great getting to know you!
+
+#### Rick Bacci
+
+thanks for helping me by reviewing PR’s this goes a long way to knowing you are doing solid work, and improving the quality of my code. My only regret is we didn’t do it sooner. You are a very level-headed person who always seems to say something encouraging when we speak. I appreciate your advice.
 
 ### Playing a Part
 
