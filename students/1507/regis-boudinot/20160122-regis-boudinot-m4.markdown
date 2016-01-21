@@ -8,13 +8,17 @@ This module I want to teach more people about DevOps and enable them to be able 
 
 ### End of Module Assessment
 
-* N/A
+* Did not have to take the final :)
 
 * Total Points: 923/1104
 
 ### Attendance
 
 This module I attended all days and classes.
+
+### Homework
+
+Points: 226/229
 
 ### Work
 
@@ -168,7 +172,6 @@ Keep crushin’ it!
 * Helped Mod 3 Students kill bugs that were crucial to keeping them going (Javascript, Rails, Digital Ocean)
 * Helped Mod 2 students with their Ruby skills to ensure their success
 * Helped Mod 1 students with setting up their computers, understanding enumerables, and pulling information out of hashes
-
 * As of Wednesday of this week these are my GitHub Stats:
 
 ![](http://i.imgur.com/dMtJ4fC.png)
