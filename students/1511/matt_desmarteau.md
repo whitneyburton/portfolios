@@ -18,6 +18,35 @@ I  was able to attended each and every day of Module 1.
 
 Module 1 was an intense programming experience.  Module 1 really challenges how you push yourself as an individual.  My experience working individually was challenging due to the amount of information to process in such a short period of time.  There was a tremendous amount of individual research and learning during lunch and after school to keep up with the class work and projects.  Proper time management was tested constantly and became apparent by the end of the first week how important it would be for success in the program.  I learned a wealth of information about OO programming and strengthened my individual skill sets in time management, problem solving, and breaking complex ideas into manageable tasks.  
 
+### Individual Project - Jungle Beats
+
+* [GitHub URL](https://github.com/MDes41/linked_lists)
+* [Original Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
+
+In this project we created a linked list that was the backbone for creating a program that would play different sounds through the terminal.  Although this first project was challenging, Linked Lists are one of the most fundamental Computer Science data structures, and I'm glad we had it as our first project.  I learned a lot about how objects in Ruby call on one another for functionality.
+
+####Evaluation Rubric
+Assessed By: Steve
+
+####1. Functional Expectations
+
+2: Application is missing one base expectation
+
+####2. Test-Driven Development
+
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+####3. Encapsulation / Breaking Logic into Components
+
+2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+
+####4. Fundamental Ruby & Style
+
+2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+
+####5. Looping or Recursion
+
+3: Application makes effective use of loop/recursion techniques
 
 ### Individual Project - Enigma
 
@@ -59,7 +88,7 @@ Matt had a good understanding of what was going on, I gave him some advice on th
 
 In my previous experience as an Account Manager, I was the point man for 4-to-6 employees. I acquired valuable skills in communicating and managing a team. There were times I needed to settle temperamental employee disagreements and make sure all of my employees were giving 100% effort.  While working in teams in Module 1 I learned the difference between directly working on technical problems and meeting deadlines with an individual vs managing an individual directly.
 
-Working in teams on a programming project requires you to know the individual on a personal level.  You need to know what works best for them and what they are distracted by.  After the first pairing in Module 1, I learned that communicating your ideas and standing up for a process that works for the team is way more important than avoiding conflicts.  Conflicts can always be resolved, but left unsaid, they will always lead to failures.  Although it is hard to tell someone what is not working for you, it is necessary in paired programming.  Although there are may ways to tackle a problem, paired programming requires you to find a process that works for both of you.  If you are not persistent in figuring out what process works for both of you, you will not succeed.
+Working in teams on a programming project requires you to know the individual on a personal level.  You need to know what works best for them and what they are distracted by.  After the first pairing in Module 1, I learned that communicating your ideas and standing up for a process that works for the team is way more important than avoiding conflicts.  Conflicts can always be resolved, but left unsaid, they will always lead to failures.  Although it is hard to tell someone what is not working for you, it is necessary in paired programming.  Although there are many ways to tackle a problem, paired programming requires you to find a process that works for both of you.  If you are not persistent in figuring out what process works for both of you, you will not succeed.
 
 #### Team Projects - HTTP Yeah You Know Me
 
@@ -115,22 +144,24 @@ Feedback from Horace:
 
 ### Giving Feedback
 
-(feedback from me)
+**Feedback for Alireza Andersen**
+I had the opportunity to pair multiple times with Ali during Module 1. He committed significant time to meeting up at Turing during our recess over winter break to go over the projects we had done so far and class lessons that we had already gone though.   I was very impressed with Ali’s determination to learn and understand the classwork.  I noticed immediately that his work ethics are the top in the class.  He holds himself to a higher standard than others and is not satisfied until he meets his own expectations.  If he doesn’t know how to do something he will use every resource to find out.  From calling on mentors, peers, or his own friends, his drive to find an answer has no end.  I know that Ali will become a top programmer because his commitment to learn and his attitude to be the master of his craft.  He has a great attitude and works hard to be the best.   I enjoyed paring with Ali and look forward to working with him in the future.
+
 
 ### Being a Community Member
 
 On January 8th a group of Turing students headed down to the DSST College View Middle School Campus to teach some classes of 8th graders how to make basic web pages using HTML.  It was quite the experience to present myself as a programmer from Turing School and help the kids make basic HTML web pages.  I hope the experience for the kids was as rewarding as it was for me.  
 
-#Goals
--Interact with kids and pique their interest in coding and learning how to use technology in general.
--Teach kids some basic HTML syntax and structure so they can make a web page file on their local machine that they can open in a browser.
+**Goals**
+* Interact with kids and pique their interest in coding and learning how to use technology in general.
+* Teach kids some basic HTML syntax and structure so they can make a web page file on their local machine that they can open in a browser.
 
 
 **College View Middle School** (http://www.dsstpublicschools.org/college-view-middle-school)
 
 ### Playing a Part
 
-I attended as many after school group meetups that I had time for.  One of our classmates, Nick Weiland, put together a weekend and lunch meeting about design that I would enjoy attending and getting into discussions with my peers about how design affects technology.  I also attended Aaron Greenspan's meetup after winter break about machine learning.  He is exceptionally smart and I enjoyed how he broke down the math integrated into his machine learning pong program.  Although I only attended one meetup, I really enjoyed the group that our teacher, Horrace Williams, put together for creating a Turing Crypto Currency.  I am excited about the chance of pairing up with Turing students from other Modules on a programming project.  
+I attended as many after school group meetups that I had time for.  One of our classmates, Nick Weiland, put together a weekend and lunch meeting about design that I would enjoy attending and getting into discussions with my peers about how design affects technology.  I also attended Aaron Greenspan's meetup after winter break about machine learning.  He is exceptionally smart and I enjoyed how he broke down the math integrated into his machine learning pong program.  Although I only attended one meetup, I really enjoyed the group that our teacher, Horrace Williams, put together for creating a Turing Crypto Currency.  I am excited about the chance of pairing up with Turing students from other Modules on a crypto currency project.  
 
 ## Review
 
