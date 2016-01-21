@@ -7,6 +7,9 @@
 My goal this module was to make a much larger impact on the community, while also
 gaining the understanding to make web apps.
 
+
+Medium Blog: https://medium.com/@afg419/some-thoughts-on-mathematics-and-programming-1e00be8b5dc7#.l5gmplrre
+
 ### End of Module Assessment
 
 **Challenge: Multiplier**
