@@ -3,7 +3,9 @@
 ## Individual
 
 ### Areas of Emphasis
+
 By the end of Turing, I would like to:
+
 * be a rockstar! But barring that...
 * have career options that incorporate my love of programming and my background in mathematics and large-scale computing
 * be comfortable with using the tools and languages that enable the development of websites and applications
@@ -22,6 +24,7 @@ In this module, my goals were to:
 ### End of Module Assessment
 
 #### Evaluation by Horace
+
 * Exercise: Highest Scoring Word
 * took us a few minutes to unwrap the case structure for handling
 different situations
@@ -294,9 +297,11 @@ My personal goals for module 1 were fairly minimal. I wanted to become more fami
 The intensity of the module illuminated my personal strengths and weaknesses. I am fairly comfortable in an academic environment, but not great at carving out time to be creative and drive my own personal interests. I am a complainer, and I have tried to be more active in "becoming the solution." Lastly, I need to be more active in finding more programming challenges. Sometimes I feel a bit resentful (which is not a Turing issue clearly); this feels like more work in that challenge is built into the curriculum for those who have not programmed before.
 
 ### Feedback for Turing
+
 I am impressed by all the progress that has been made over the last six weeks. Looking back, I think the thing I would benefit from most would be a short (guided) retrospective after projects. I envision it being something like a revisit of the goals of the project, which are expressed on the spec but rarely looked at during the project, and some writing on what was learned over the course of the project and if this learning aligned with the goals that were pre-set externally.
 
 ### Goals
+
 These are my goals for the next module:
 * Consistently deliver good projects
 * Continue to foster a welcoming community at Turing
@@ -310,4 +315,14 @@ These are my goals for the next module:
 
 ### Notes
 
+* you're obviously doing really well on the technical aspects
+* the biggest challenges (and potential benefits) for you are going to be working on
+your pairing and team interactions / dynamics
+
 ### Outcome
+
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 4
+* __C Group Work & Projects:__ 4
+* __D Community Participation:__ 4
+* __E Peer & Instructor Feedback:__ 3
