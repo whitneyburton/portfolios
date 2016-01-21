@@ -8,7 +8,7 @@ I am entering Module 4 excited to learn Javascript and client-side development. 
 
 ### End of Module Assessment
 
-n/a
+n/a- Total Percentage for Module: 88.77%
 
 ### Attendance
 
@@ -54,8 +54,6 @@ Extensions Completed:
 
 Our goal for this project was to build a real time application with WebSockets. I built a Node application using Express and Socket.io. The app allows users to create polls, share polls with voters, and gather votes in real time. The poll administrator can choose whether or not to share results with voters, and can set a time for the poll to automatically close.
 
-(evaluation comments) - None received.
-
 Scores: 165/200 points
 * Concept & Features: 75/100 (Met expectations as outlined by the user personas, the application is a solid first version. All planned features were delivered.)
 * Code Quality: 25/30 (Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.)
@@ -70,8 +68,6 @@ Scores: 165/200 points
 * [Original Assignment](https://gist.github.com/stevekinney/82831c5b25029415ce8b)
 
 This mock assessment was a one day project to test our knowledge of Ruby, Rails, and Javascript. I built a simple web app where users can save and read links. I used TDD to build Thoughtbox, and used AJAX to instantly update the page without refresh.
-
-(evaluation comments) - None received.
 
 Scores: 100/100 points
 
@@ -91,8 +87,6 @@ I participated in the following team projects:
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
 Our goal for this project was to build a game that is playable in the browser. There is no server-side component for this project. We used client-side JavaScript to complete this project. Our game, Beatbox, is a spin-off of Guitar Hero and Tap Tap Revenge. Play our game here: [Beatbox](http://russelleh.github.io/beatbox/)
-
-(evaluation comments) - None received.
 
 Scores: 335/300 points
 * First Check In Goals: 50/50
