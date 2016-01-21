@@ -139,14 +139,11 @@ You’ve put in a lot of work this module, and I suspect all the past modules. G
 *I can’t say all positive things, or this would be a silly bit of feedback, so I would caution you about going in technical rabbitholes. I think you’re more than capable of tackling extra complexity like deploying to digital ocean, or jumping into es6-land. Keep in mind that every extra level of cool, complicated tech that you add to a project is also technical debt. For example, I worked on a client project that was written in all cutting edge tech including React, like, the first month React came out. It was a ​_shit show_​. Even though the tech was well chosen, the problem was that only one or two developers on the team understood the full stack. So it was a HUGE block that prevented all of the other, more junior developers from committing code quickly, and they frequently broke things.
 It might have theoretically been a more efficient app, but in reality, it was a hot mess and the company actually went under. Every day that I worked on the project, we were like ‘Why didn’t they just use rails?”. Their devs knew rails, the app was only going to get used by ~5,000 users… there was honestly no reason other than the lead dev’s ego for the weird Frankenstein stack.*
 
-Introducing 1508 and below students to Digital Ocean has already caused them and you technical debt, in that you’re their only source that they can go to for help (or at least that’s what they perceive). I think you should always take time to consider this. Doesn’t mean introducing new tech is a bad idea, but weigh the other side of the equation, because new tech isn’t as important, usually, as shipping, having a friendly code base for people to work on, and being able to hire developers that can work in the code base!
+Introducing 1508 and below students to Digital Ocean has already caused them and you technical debt, in that you’re their only source. Doesn’t mean introducing new tech is a bad idea, but weigh the other side of the equation, because new tech isn’t as important, usually, as shipping, having a friendly code base for people to work on, and being able to hire developers that can work in the code base!
 
 ## Community
 
 ### Giving Feedback
-
-I gave feedback to a number of my classmates and they were happy that my
-feedback was actionable and supportive.
 
 **Adam is a JavaScripter. His interest in promises, closures, and all that is new JS frameworks is contagious.**
 
