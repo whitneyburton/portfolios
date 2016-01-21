@@ -58,16 +58,16 @@ The project work below reveals some consistent themes across my work this module
 * Practice an agile workflow and improve communication skills working within a team  
 
 **Evaluator:** Rachel Warbelow
-*  
-*  
-*  
+* request.referer
 
 **Rubric Scores**
-* **Functional Expectations** -   
-* **Test-Driven Development** -   
-* **Ruby Style & Fundamentals** -   
-* **Encapsulation / Breaking Logic Into Components** -   
-* **Enumerable & Collections** -   
+* **Feature Completeness** - 4  
+* **Views** - 3  
+* **Controllers** - 3  
+* **Models** - 3  
+* **Tests** - 3  
+* **Usability** - 3  
+* **Workflow** - 3  
 
 **Self-assessment**  
 This was a seamless collaboration project. We stayed in close communication, reevaluated work plans and strategy, pretty closely arrived at a point when we could split off to work independently. I was battling the flu during the second week of this project: on the positive side, I think I was quick to jump in where I could and bit off realistic chunks of work that positioned my Jordan and Greg to do their work well. There were several times during the project where I could have communicated more clearly to them about the status of my work.
@@ -128,10 +128,12 @@ Feedback to peers in the 1510 cohort:
 * [Lenny Meyerson](https://github.com/TheObtuseAutodidact/): Lenny is a too-modest classmate and teammate. His modesty is largely a strength -- it speaks to high standards, a commitment to doing good work, an interest in contributing to those around him. And it also speaks to his kindness and humility interacting with peers. I especially enjoyed working on a project with Lenny because of his focus on learning concepts and prioritizing comprehension over extensions. We agreed early into the project that that was our goal and stuck to that mission throughout our work. There are ways in which his humility holds the people around Lenny back, though, and I'd like to challenge him to look for more opportunities to serve his peers. I'm always grateful to the classmate that asks questions, insists on pausing until something is understood, and equips him/herself to teach those concepts forward. I think Lenny could be of great service to his peers here and after Turing if he specializes in the art of seeking seeking knowledge; instead of being timid, he should pursue his learning with confidence in service of his own education and those around him. He's in larger company than he gives himself credit for.
 
 ### Being a Community Member
-
 Feedback from peers in the 1510 cohort:
 * [Toni Rib](https://github.com/tonirib): "Beth, while often soft-spoken, is not afraid to ask for help or to ask the group to recap a difficult concept which is GREAT trait for anyone in a tech field. We worked together on the rails mini-project and I feel like I learned more because Beth made is slow down, go through each step incrementally, and had a really cool idea of rotating through our group of three to fix each individual error as it came up. I didn't think at first that I would like going that slow but I ended out liking it a lot because I feel like I learned more and like our whole group was engaged. She has great refactoring ideas, too. I think she's going to make a fantastic programmer and that she should learn to speak up even more in a group because she has great ideas."
 * [Lenny Meyerson](https://github.com/TheObtuseAutodidact/): "The Rails mini project was quite short but Beth’s idea that as a short, non-graded project, our focus should be on learning rather than end product was exactly what I would have wished for. She approached the process as one to be untangled rather than a race to the finish line. I could not have asked for a better use of my study time.  Writing, reviewing, and discussing code was done with a determined calm that made the project feel like an enjoyable series of study sessions. I would enjoy working with Beth again in the future."
+* [Hector Huertas](https://github.com/hectorhuertas): "Beth is one the people that I learned more from. She is great keeping the goals in mind in order to get the most growth from the work done.  I really enjoyed that she did not take anything for given and required good reasoning to incorporate ideas to the project, forcing me to give the most of myself. I also appreciated a lot that after our differences around the database, we could keep working really well, achieving great results.   As constructive criticism, it took me a little to understand her way of approaching the projects and how much value she gets from understanding everything as opposed to getting things done as soon as possible. I think is a really good and valuable approach and I feel that teams will benefit from her explaining this approach in a more explicit way."
+* [Mary Beth Burch](https://github.com/mbburch/): “You work your ass off here. I so respect your dedication to all things Turing, and to doing everything you can to be an amazing programmer. Someday I’ll feel smart enough for DSA (or confident enough). It seems like you fly under the radar and stay humble about how solid you are. I always appreciate warm-ups with you (before our posse stopped showing up) because you ask good questions, and push others to work through things together. You’re willing to be honest with people and have hard conversations. I’m sad we never got the chance to pair on anything, and I hope we can still do your open data project together.”
+
 
 ### Playing a Part
 I have been a solid member of the community, but have done little that's exceptional. I've prioritized staying sane and balanced, so that I can be available and responsive to my classmates -- it's a modest but important goal.  
