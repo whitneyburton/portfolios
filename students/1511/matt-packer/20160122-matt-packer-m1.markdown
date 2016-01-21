@@ -184,7 +184,7 @@ Assessed by Tess Griffin
 
 #### HeadCount
 
-(In collaboration with Chad Ellison)
+(In collaboration with Adrienne Domingus)
 
 * [GitHub URL](https://github.com/adriennedomingus/headcount.git)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
@@ -193,13 +193,32 @@ Assessed by Tess Griffin
 
 'Headcount' focused on how to query, search, associate, and analyze data stored in CSV files. The dataset consisted of Colorado school statistics provided by the Annie E. Casey foundation.
 
-##### Evaluation Comments
-TBD
+**Instructor:** Horace (& Mary w/ the assist)
 
-##### Evaluation Scores
-TBD
-##### Feedback
-TBD
+**Repo Url:** https://github.com/adriennedomingus/headcount
+
+#### Evaluation Notes:
+
+* implements expected iterations
+* good job tackling vaguely defined result set / result entry stuff in I6
+* tests are numerous and effective, relying on a trimmed data set to support easy
+testing and anticipation of results
+* would have liked to see some means of overriding the data set from tests without having
+to edit the data files
+* connections between the analyst and the various repositories are clear and easy to follow; however
+it does place the Analyst in a privileged position at the top of the hierarchy
+* discovered a somewhat rigid dependency on the file structure with harcoded paths in a few places
+* analysis methods are well-written and easy to follow; using appropriate enumerables and data helpers to filter down the
+data set as needed
+
+#### Evaluation Scores:
+
+##### 1. Functional Expectations - 3: Application fulfills expectations of Iterations 0 - 4 *as well as* one of Iterations 5 or 6
+##### 2. Test-Driven Development - 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+##### 3. Encapsulation / Breaking Logic into Components - 3: Application effectively breaks logical components apart but breaks the principle of SRP
+##### 4. Fundamental Ruby & Styl - 3:  Application shows strong effort towards organization, content, and refactoring
+##### 5. Enumerable & Collections - 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
 ## Community
 
 ### Giving Feedback
@@ -238,8 +257,14 @@ I did my best to support the Turing community by working with my 'posse' on morn
 
 ### Notes
 
-( Leave blanks for reviewers )
+* assessment came together on the second take
+* individual projects consistently showing good code but short
+on fulfillment / completion
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 3*
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
