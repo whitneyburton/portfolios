@@ -13,7 +13,7 @@
 # Blog
 # Health/wellness
 
-*** Books: 
+*** Books:
 # Practical Vim
 # Finished POODR
 # Started Metaprogramming Ruby 2 and Refactoring.
@@ -142,7 +142,14 @@ Playing a Part
 # Improv every week.
 # DSA twice and one weekend.
 
-Notes
+## Notes
 
+- End of Module: 3
+- Individual: 3
+- Group: 4
+- Feedback: 3
+- Community: 4
 
-Outcome
+## Outcome
+
+PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate

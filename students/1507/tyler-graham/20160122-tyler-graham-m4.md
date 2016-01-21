@@ -1,4 +1,4 @@
-# Tyler Graham - Module 4 Portfolio
+  # Tyler Graham - Module 4 Portfolio
 
 #### Mission
 
@@ -86,4 +86,12 @@ Comments:
 
 ### Notes
 
+- End of Module Assessment: 3
+- Group Work: 4
+- Individual Work: 3
+- Community: 3
+- Feedback: 1
+
 ### Outcome
+
+PENDING - your portfolio is incomplete or non-conforming and will be re-evaluated as soon as possible. If it is incomplete after 24 hours it will be moved to RETAINED or EXCUSED

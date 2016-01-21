@@ -19,7 +19,7 @@ I attended all days of this module at Turing punctually.
 
 #### Side Project
 
-I built a [reatively simple data analysis app](http://urban-leaders-dashboard.herokuapp.com) for my girlfriend's work to practice serving 
+I built a [reatively simple data analysis app](http://urban-leaders-dashboard.herokuapp.com) for my girlfriend's work to practice serving
 up an API with Rails and using the lodash library of JavaScript to manipulate data, along with some plug and play bar graphs from
 highcharts.com to display an analysis of the applicants filtered by race, gender, and progress through the application process.
 
@@ -114,8 +114,8 @@ ahead. He may want to consider spending a bit more time thinking about design an
 
 ###### From Dave Maurer
 Travis has a great initial understanding of new concepts, and is good at conveying that understanding to others. In Kay posse, he almost
-always takes the lead when doing warm up, and is able to help other members with project questions, even if he hasn’t worked on the 
-project before. He helped me through linked lists using TDD, and I still refer back to that to this day to reinforce the approach. If I 
+always takes the lead when doing warm up, and is able to help other members with project questions, even if he hasn’t worked on the
+project before. He helped me through linked lists using TDD, and I still refer back to that to this day to reinforce the approach. If I
 were Turing, I would put a bug in his ear about sticking around maybe...
 
 ###### From Matt Hecker
@@ -173,8 +173,13 @@ back to represent the face of prgramming in the real world, as well as an exampl
 
 ### Notes
 
-( Leave blanks for reviewers )
+- End of the Module Assessment: 3
+- Indivdual: 3
+- Group: 3
+- Community: 4
+- Feedback: 4
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED - your portfolio demonstrates a successful fulfillment of expectations and you may move on to the next module or graduate
