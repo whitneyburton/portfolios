@@ -8,7 +8,7 @@ My goal for this module was to learn as much of the fundamentals to programming 
 
 ### End of Module Assessment
 
-Assessor: Rachel
+**Assessor:** Rachel
 
 ### Notes
 
@@ -87,7 +87,7 @@ Mid Module Assessment
 
 Enigma is an encryption engine for encrypting, decrypting, and cracking messages.
 
- Assessed By: Tess
+ **Assessed By:** Tess
 
 Evaluation Rubric
 
@@ -112,7 +112,7 @@ The project will be assessed with the following rubric:
 
 Jungle Beat uses a Linked List to create a drum machine that a user can interact and play with.
 
-Assessed By: Mike ​Dao ​
+**Assessed By:** Mike ​Dao ​
 
 * Good testing, covered a good number of cases, 20 total tests.
 * Functional linked list which implemented find, insert, pop, append, also calculated count and not stored it.
@@ -215,18 +215,18 @@ Parsing http GET/POST requests and making responses Required to build a function
 
 (evaluation comments)
 
-Overall Functionality
+#### Overall Functionality
 
 Score: 3
 
-Fundamental Ruby & Style
+#### Fundamental Ruby & Style
 
 Score: 3
 
 Use require ;)
 Rename your things (earlier). It's not that hard, and the amount of mental overhead it will save you will make up for the mental overhead you put in to do the change.
 
-Test-Driven Development
+#### Test-Driven Development
 
 Score: 3
 
@@ -253,10 +253,10 @@ Specify only as much as you care about (you know how much you care about by read
 def test_client_returns_body
   client = Hurley::Client.new "http://127.0.0.1:9292"
   response = client.get("http://127.0.0.1:9292")
-  assert response.body.include? "html"                # <--
+  assert response.body.include? "html"              
 end
 
-Breaking Logic into Components
+#### Breaking Logic into Components
 
 Score: 3
 
@@ -290,7 +290,8 @@ I Have supported the larger Turing Community?
 * Joined lunch roulette groups
 * Participated in Turing outings
 * Participated it Improv on Tuesday afternoon
-* Paired on screenhero with Chad Ellison numerous time during winter break
+* Paired on screenhero with Chad Ellison numerous times during winter break
+* hung monitor screens in the back of classroom A
 
 ### Review
 
