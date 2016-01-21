@@ -303,8 +303,8 @@ These are my goals for the next module:
 * Reach out to more people outside of Turing
 * Actively budget time in order to better separate academic requirements, personal development, and personal life
 * Get back on the exercise train
-* Push forward on some personal projects: lambda calculus, machine learning, blog, learning another language (elixir, python?)
-* Generally be more active in effectively utilizing the time I have at Turing
+* Push forward on some personal projects: lambda calculus, machine learning, blog, learning another language (elixir, python?, kafka)
+* Generally be more active in effectively utilizing the time/resources I have at Turing
 
 ## Review
 
