@@ -1,5 +1,7 @@
 # Ryan Asensnio - Module 2 Portfolio
 
+![](http://media.giphy.com/media/GuDQNjS0qJHpe/200.gif)
+
 ## Individual
 
 ### Areas of Emphasis
