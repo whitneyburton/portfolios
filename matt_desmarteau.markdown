@@ -4,7 +4,7 @@
 
 ### Your Mission
 
-Learn more than just the basics necessary to change my professional career from Account Management in the oil and gas industry to a career in programming.
+Learn the skills necessary to change my professional career from Account Manager in an unrewarding non ethical industry to follow my passions of creating from scratch and building things people can use, and to have my professional success depend more on the personal abilities acquired as I grow within programming industry.
 
 ### End of Module Assessment
 
@@ -16,10 +16,10 @@ I  was able to attended each and every day of Module 1.
 
 ### Work
 
-Module 1 was an intense programming experience.  Module 1 really challenges how you push yourself as an individual.  My experience working individually was challenging due to the amount of information to process in such a short period of time.  There was a tremendous amount of individual research and learning during lunch and after school to keep up with the class work and projects.  Proper time management was tested constantly and became apparent by the end of the first week how important it would be for success in the program. I learned a wealth of information about OO programming as well as strengthening my all around individual skill sets in learning complex ideas and time management.  
+Module 1 was an intense programming experience.  Module 1 really challenges how you push yourself as an individual.  My experience working individually was challenging due to the amount of information to process in such a short period of time.  There was a tremendous amount of individual research and learning during lunch and after school to keep up with the class work and projects.  Proper time management was tested constantly and became apparent by the end of the first week how important it would be for success in the program.  I learned a wealth of information about OO programming and strengthened my individual skill sets in time management, problem solving, and breaking complex ideas into manageable tasks.  
 
 
-#### Individual Project - Enigma
+### Individual Project - Enigma
 
 * [GitHub URL](https://github.com/MDes41/Enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/b38606f60fd77e4bf64e6c33d922c90f3cdfa4dc/source/projects/enigma.markdown)
@@ -55,16 +55,16 @@ Assessed By: Meeka
 Feedback from Meeka:
 Matt had a good understanding of what was going on, I gave him some advice on the correct places to leave comments in ruby code.
 
-#### Team
+### Working in Teams
 
-Working
+In my previous experience as an Account Manager, I was the point man for 4-to-6 employees. I acquired valuable skills in communicating and managing a team. There were times I needed to settle temperamental employee disagreements and make sure all of my employees were giving 100% effort.  While working in teams in Module 1 I learned the difference between directly working on technical problems and meeting deadlines with an individual vs managing an individual directly. Working in teams on a programming project requires you to know the individual on a personal level.  You need to know what works best for them and what they are distracted by.  After the first pairing in Module 1, I learned that communicating your ideas and standing up for a process that works for the team is way more important than avoiding conflicts.  Conflicts can always be resolved, but left unsaid, they will always lead to failures.  Although it is hard to tell someone what is not working for you, it is necessary in paired programming.  Although there are may ways to tackle a problem, paired programming requires you to find a process that works for both of you.  If you are not persistent in figuring out what process works for both of you, you will not succeed.
 
 #### Team Projects - HTTP Yeah You Know Me
 
 * [GitHub URL](https://github.com/marinacor1/HTTP)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-In this project we'll begin to introduce HTTP, the protocol that runs the web, and build a functioning web server to put that understanding into action.
+In this project we were introduced to HTTP, the protocol that runs the web, and built a functioning web server to put that understanding into action.
 
 ####Learning Goals
 
