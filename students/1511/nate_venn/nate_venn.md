@@ -149,6 +149,9 @@ July Tran - "Nate is a wonderful partner to work with! He is great at communicat
 adrienne Domingus - "Pairing with Nate on HTTP Yeah You Know Me was a very positive experience. He has a great attitude and remains calm under pressure. He asks good questions and took extra time outside of our pairing sessions to go back and understand things he didn't initially, and wrote most of our test suite! If there is one thing he could work on, it would be to have more confidence in his abilities - he knows more than he thinks.""
 
 
+Erinna Chen - "I have paired with Nate throughout the module and he has made strong progress from where he started. I have a ton of respect for his positive attitude even when constantly faced with the struggle of learning new things. Other than working through more code, I think Nate would benefit from spending time getting familiar with his programming environment and developing his typing ability."
+
+
 Team
 
 ### Projects
@@ -162,11 +165,49 @@ Data Analysis program utilizing buisness data
 
 The project focused on creating relationships between datasets. It utilized CSV parsing, data access layering, and buisness intelligents. The relationships between the merchant, their items, invoices, and transactions allows in-deth analysis and data mining.
 
-(evaluation comments)
+# July & Nate
 
-(evaluation scores)
+**Instructor:** Horace
 
-Http Yeah You Know Me
+
+## Notes
+
+* 125 tests
+* sweet bash snippet to run tests
+* completed I0 - I4
+* overall structure is good; got good relationships; using repos to find appropriate data where needed
+* generally could be more consistent about leveraging the relationships we have already constructed;
+frequently we end up re-constructing a relationship from a different method
+* handful of ruby style nitpicks here and there -- unnecessary local variable creation and
+unnecessary explicit boolean values
+* analysis is pretty successful at leveraging existing relationships and record-level methods; keep
+pushing on these fronts to get as much logic as we can down into the record / model layer
+* most analysis methods are pretty clean and concise; don't be afraid to extract more helper
+methods when these start to get longer
+
+## Evaluation Rubric
+
+#### 1. Functional Expectations
+
+* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+#### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+#### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+#### 4. Fundamental Ruby & Style
+
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+#### 5. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+### Http Yeah You Know Me
 
 * [GitHub URL] (https://github.com/adriennedomingus/http_yeah_you_know_me)
 * [Original Assignment] (https://github.com/turingschool/curriculum/source/projects/http_yeah_you_know_me.markdown)
@@ -225,9 +266,25 @@ Decouple body generation from request counting (notice... this is the one that f
 The decision of where to combine the command-line output with the server stuff is absolutely correct!
 Wiring at the highest level (run!) should be visible.
 
+## Community
+
+### Giving Feedback
+
+To July Tran - "I had the opportunity to work with July on our Black Thursday project and I couldn’t have asked for a better partner. July shows reliability, good communication, great organization, and demonstrates  competence in programing and logic. We quickly and organically fell into a good rhythm for pairing, and I look forward to having the opportunity to work with her again."
+
+To Adrienne Domingus - "Adrienne might be one of the most talented programmers in our cohort. I got to experience her strong technical skill set while pairing with her on HTTP Yeah you know me. She is able to quickly grasp concepts and almost immediately implement solutions. Like most of us she lacks confidence in her abilities and can try to let go of her anxieties. Adrienne was a pleasure to work with and I look forward to working with her again."
 
 
-Playing a Part
+### Being a Community Member
+
+July Tran - "Nate is a wonderful partner to work with! He is great at communication and brings a calming energy to the team. I also appreciate his easygoingness and supportiveness. Nate is competent in his skills and is a very dependable partner."
+
+adrienne Domingus - "Pairing with Nate on HTTP Yeah You Know Me was a very positive experience. He has a great attitude and remains calm under pressure. He asks good questions and took extra time outside of our pairing sessions to go back and understand things he didn't initially, and wrote most of our test suite! If there is one thing he could work on, it would be to have more confidence in his abilities - he knows more than he thinks.""
+
+
+Erinna Chen - "I have paired with Nate throughout the module and he has made strong progress from where he started. I have a ton of respect for his positive attitude even when constantly faced with the struggle of learning new things. Other than working through more code, I think Nate would benefit from spending time getting familiar with his programming environment and developing his typing ability."
+
+### Playing a Part
 
 I Have supported the larger Turing Community?
 
@@ -236,11 +293,10 @@ I Have supported the larger Turing Community?
 * Participated it Improv on Tuesday afternoon
 * Paired on screenhero with Chad Ellison numerous time during winter break
 
-Review
+### Review
 
 Notes
 
-( Leave blanks for reviewers )
 
 Outcome
 
