@@ -4,6 +4,12 @@
 
 ### Your Mission
 
+My goal this module was to make it out alive.  I knew that I needed to learn what was being taught in a major way, since I'm really interested in frontend, the JavaScript world.  I was really excited to dive into a language I'd only lightly touched on before, but always appreciated what it allowed me to do with my sites.  Learning a new second language has definitely been a lot easier than learning a new first language in programming.  I especially enjoyed playing more with AJAX, getting to make SkiFree and add all of the functionality we could ever have hoped for with a partner who's always a pleasure to work with (Jeff Ruane), and getting to play with React have been my favorite parts of Module 4.  I've started to switch over parts of my personal project from Module 3 to using React, which has been a challenge.
+
+###Attendance
+
+I had perfect attendance minus the Friday before the holiday break.
+
 ### Work
 
 #### Idea Box 2.0
@@ -12,7 +18,22 @@
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 * [Heroku Deployment](http://arcane-ridge-7429.herokuapp.com/)
 
-In this project, I made IdeaBox again using jQuery, AJAX, and a Rails API. I was evaluated by Steve and recieved a total score of 151/150.
+In this project, I made IdeaBox again using jQuery, AJAX, and a Rails API. I was evaluated by Steve and received a total score of 151/150.  I was able to add on the extension of inline editing for some additional points.  Though it was stressful, getting to play some more with AJAX was a lot of fun.  I got to work on elements I'd like to eventually add to my personal project.
+
+#### ThoughtBox
+
+* [GitHub URL](https://github/roseak/thoughtbox)
+* [Original Assignment](https://github.com/bad6e/thoughtbox_final)
+
+This was a one-day mock assessment (or was it) where we had to build a CRUD app while utilizing some of the new languages we've learned, such as AJAX and JavaScript.  I was able to finish with complete functionality in the time allotted and was assessed by Lovisa and given a score of 95/100 points.
+
+#### Crowdsource
+
+* [GitHub URL](https://github.com/roseak/crowdsource)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+* [Heroku Deployment](https://polar-beach-7874.herokuapp.com/)
+
+This was a week long project where we used Node.js and websockets to create a real-time app that allows users to create polls to get anonymous votes from whomever they share their poll link with.  The admin could choose to share the results with their poll takers or keep them to themselves.  They could also choose a specific time for the poll to end and could choose to end the poll whenever they wanted.  I was evaluated by Meeka for 155/200 points.  Learning that I had gained enough points to graduate with the first score she gave me was definitely a relief!
 
 ## Team
 
@@ -24,19 +45,7 @@ In this project, I made IdeaBox again using jQuery, AJAX, and a Rails API. I was
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 * [GitHub Pages Deployment](https://jbrr.github.io/ski-free)
 
-In this project, I worked with Jeff Ruane to make a JavaScript implementation of the classic Microsoft game SkiFree. We were evaluated by Meeka and received a total scores of 340/300.
-
-* First Check In: 50
-* Second Check In: 50
-* Third Check In: 50
-* Functional Expectations: 35
-* User Interface: 15
-* Testing: 30
-* JavaScript Style: 20
-* Workflow: 25
-* Code Sanitation: 15
-* Scoreboard (Extension): 25
-* Multiple Levels (Extension): 25
+In this project, I worked with Jeff Ruane to make a JavaScript implementation of the classic Microsoft game SkiFree. We were evaluated by Meeka and received a total scores of 340/300.  We implemented two extensions: scoring and increasing the level over time.  This was definitely my favorite project to work on.  Adding parts after finishing our implementation early was only fun.  Being able to add in elements I didn't even think I'd be capable of in general and doing them in minimal time (like jumping and having the yeti be more than just one sprite) was exciting.
 
 ## Community
 
@@ -46,7 +55,12 @@ In this project, I worked with Jeff Ruane to make a JavaScript implementation of
 
 ### Playing a Part
 
-* I volunteered to be a part of the "buddy" system with a module 1 student, Sunny, this module.
+* I volunteered to be a part of the "buddy" system with a module 1 student, Sunny Khalsa, this module, who I kept in touch with throughout these few weeks.
+* I co-lead a student-lead session with Mimi Schatz on Katrina Owen's refactoring talk.
+* I met up with the ladies of Joan Clarke Society for coffee and talk on Tuesdays and gave advice on how to tackle the various modules based on my experience.
+* I met up with my posse every morning for warmup/bonding.  We met up several times outside of school to get to know each other.  I shared advice on mentors with the module 1 students.
+* I went to a Women Who Code meetup at Galvanize on SVGs that was really interesting.
+* I was interviewed for the Turing podcast by Brennan where we discussed advice for Module 1 students and the evolution of our time while at Turing up to Module 4.
 
 ## Review
 
