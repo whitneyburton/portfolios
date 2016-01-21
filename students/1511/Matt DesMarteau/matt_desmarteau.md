@@ -6,9 +6,68 @@
 
 Learn the skills necessary to change my professional career from Account Manager in an unrewarding non ethical industry to follow my passions of creating from scratch and building things people can use, and to have my professional success depend more on the personal abilities acquired as I grow within programming industry.
 
-### Attendance
+#### Attendance
 
 I  was able to attended each and every day of Module 1.
+
+### Final Project - Team Project - Black Thursday
+
+* [GitHub URL](https://github.com/Salvi6God/black_thursday)
+* [Original Assignment](https://github.com/Salvi6God/black_thursday)
+
+
+Alex Navarrete, Matt Desmarteau
+===============================
+
+**Instructor:** Josh Cheek
+
+#### Evaluation Rubric
+** Assessed by: Josh Cheek
+
+**1. Functional Expectations**
+
+Score: 3
+
+* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+**2. Test-Driven Development**
+
+Score: 3+
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+
+**3. Encapsulation / Breaking Logic into Components**
+
+Score: 4
+
+* 4: Application is expertly divided into logical components each with a clear, single responsibility
+
+
+**4. Fundamental Ruby & Style**
+
+Score: 3
+
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+**5. Enumerable & Collections**
+
+Score: 3
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+#### Notes
+*Feeback from Josh*
+* Good job doing the refactoring I demonstrated for y'all the other day :)
+* I like that the record objects (eg Item) don't know about the whole world,
+  ie SalesEngine is the one that sets their associations, b/c it's the thing
+  that knows about everything
+* Some opportunity for better enumerables, eg whenever you have a var that you're updating across iterations,
+  there's probably an inject or each_with_object waiting to be used!
+* Good job doing the refactoring I demonstrated for y'all the other day :)
+* I like that the record objects (eg Item) don't know about the whole world,
+  ie SalesEngine is the one that sets their associations, b/c it's the thing
+  that knows about everything
 
 ### Work
 
@@ -24,23 +83,23 @@ In this project we created a linked list that was the backbone for creating a pr
 ####Evaluation Rubric
 Assessed By: Steve
 
-####1. Functional Expectations
+**1. Functional Expectations**
 
 2: Application is missing one base expectation
 
-####2. Test-Driven Development
+**2. Test-Driven Development**
 
 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-####3. Encapsulation / Breaking Logic into Components
+**3. Encapsulation / Breaking Logic into Components**
 
 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 
-####4. Fundamental Ruby & Style
+**4. Fundamental Ruby & Style**
 
 2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
-####5. Looping or Recursion
+**5. Looping or Recursion**
 
 3: Application makes effective use of loop/recursion techniques
 
@@ -61,19 +120,19 @@ In this project we used Ruby to build a tool for cracking an encryption algorith
 ####Evaluation Rubric
 Assessed By: Meeka
 
-####1. Overall Functionality
+**1. Overall Functionality**
 
 3: Application encrypts, decrypts, and cracks files as described (works well - just didn't do an extension)
 
-####2. Fundamental Ruby & Style
+**2. Fundamental Ruby & Style**
 
 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring (Matt was able to speak to places that he refactored and explain why and how)
 
-####3. Test-Driven Development
+**3. Test-Driven Development**
 
 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested. (Had a decent test suit, but did not cover any sad paths)
 
-####4. Breaking Logic into Components
+**4. Breaking Logic into Components**
 
 4: Application effectively breaks logical components apart with clear intent and usage (Did a great job of doing this)
 
@@ -86,7 +145,7 @@ In my previous experience as an Account Manager, I was the point man for 4-to-6 
 
 Working in teams on a programming project requires you to know the individual on a personal level.  You need to know what works best for them and what they are distracted by.  After the first pairing in Module 1, I learned that communicating your ideas and standing up for a process that works for the team is way more important than avoiding conflicts.  Conflicts can always be resolved, but left unsaid, they will always lead to failures.  Although it is hard to tell someone what is not working for you, it is necessary in paired programming.  Although there are many ways to tackle a problem, paired programming requires you to find a process that works for both of you.  If you are not persistent in figuring out what process works for both of you, you will not succeed.
 
-#### Team Projects - HTTP Yeah You Know Me
+#### Team Project - HTTP Yeah You Know Me
 
 * [GitHub URL](https://github.com/marinacor1/HTTP)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
@@ -101,20 +160,21 @@ In this project we were introduced to HTTP, the protocol that runs the web, and 
 * Practice implementing basic HTTP requests and responses
 
 ####Evaluation Rubric
+Assessed By: Horace
 
-####1. Overall Functionality
+**1. Overall Functionality**
 
 2: Application implements three iteration
 
-####2. Fundamental Ruby & Style
+**2. Fundamental Ruby & Style**
 
 2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
 
-####3. Test-Driven Development
+**3. Test-Driven Development**
 
 2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
 
-####4. Breaking Logic into Components
+**4. Breaking Logic into Components**
 
 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
 Feedback from Horace:
@@ -124,6 +184,39 @@ Feedback from Horace:
 * Top-level server request/response loop algorithm is cleanly written and easy to follow; however it is currently just spread across a lengthy top-level loop in the project's main namespace
 * Project generally suffers from long and complicated methods. most of the concepts are there but the code needs to be cleaned up and extracted into at least more methods and probably more objects as well
 * Additionally the implementation relies on a lot of "magic numbers" - especially hardcoding specific array indices for certain data etc.; would like to see more of this extracted into variables and methods so that we can give them names that describe why they're so important to the algorithm
+
+### Mid Module Assesment
+
+Evaluated on 4 Jan 2016 by Horace Williams.
+
+* completed werewolf baseline and some of the permawolf features
+* doing well with the testing workflow -- seem comfortable using tests
+to get feedback
+* doing well working with classes and instances and instance variables
+* still some clunkiness working with booleans and other basic types
+* some unnecessary code creeping in at various spots
+* mostly comes down to implementing solutions that are the most clear
+embodiment of the desired algorithm or process
+
+**1. Ruby Syntax & API**
+
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
+
+**2. Ruby Style**
+
+* 2: Developer does not refactor for clarity
+
+**3. Testing**
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+**4. Workflow**
+
+* 2: Developer smoothly moves between tools, but is dependent on mouse-driven interaction
+
+**5. Collaboration**
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ## Community
 
