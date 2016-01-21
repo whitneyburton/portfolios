@@ -108,16 +108,21 @@ really good testing!!</br>
 -Assessed by Lovisa
 
 Evaluation Scores:
-1. Functional Expectations</br>
-  4: Application fulfills all base expectations and the one extension (speed rate, validating beats)</br>
-2. Test-Driven Development</br>
-  4: Application is broken into components which are well tested in both isolation and integration using appropriate data</br>
-3. Encapsulation / Breaking Logic into Components</br>
-  3: Application effectively breaks logical components apart but breaks the principle of SRP</br>
-4. Fundamental Ruby & Style</br>
-  3: Application shows strong effort towards organization, content, and refactoring</br>
-5. Looping or Recursion</br>
-  3: Application makes effective use of loop/recursion techniques
+
+  1. Overall Functionality </br>
+    4: Application fulfills all base expectations and the one extension (speed rate, validating beats)</br>
+
+  2. Fundamental Ruby & Style</br>
+    3: Application shows strong effort towards organization, content, and refactoring</br>
+
+  3. Test-Driven Development</br>
+    4: Application is broken into components which are well tested in both isolation and integration using appropriate data</br>
+
+  4. Breaking Logic into Components</br>
+      3: Application effectively breaks logical components apart but breaks the principle of SRP</br>
+
+  5. Looping or Recursion</br>
+    3: Application makes effective use of loop/recursion techniques
 
 #### Enigma
 
