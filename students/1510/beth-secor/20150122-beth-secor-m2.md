@@ -113,17 +113,24 @@ Group Members: Steve Olson, Dan Winter, Lenny Meyerson
 
 Client: Mike Dao
 
-Assessed By:
+Assessed By: Mike Dao
+
+##### Notes:
+
+* Needs more sad path testing, use of within css, near center edge case integration
+* Controllers are very clean
+* Use datetime helper methods in the views
+* Pull more pieces in views out into partials
 
 ##### Scores:
 
-* Feature Completeness: ____
-* Views: ____
-* Controllers: ____
-* Models: ____
-* Testing: ____
-* Usability: ____
-* Workflow: ____
+* Feature Completeness: __3__
+* Views: __3__
+* Controllers: __4__
+* Models: __4__
+* Testing: __3__
+* Usability: __4__
+* Workflow: __4__
 
 
 ## Community
