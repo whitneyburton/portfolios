@@ -240,7 +240,7 @@ to be satisfactory -- finish up CompleteMe project and show it to us to pass
 around turing -- you could bring the energy and determination to
 help make these things successful and (most importantly) consistent
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 4
 * __B Individual Work & Projects:__ 3*

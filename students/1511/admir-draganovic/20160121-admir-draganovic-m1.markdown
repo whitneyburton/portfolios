@@ -145,7 +145,7 @@ I participated in the Turing community in the following ways:
 * Individual work needs some help -- finish enigma and add an extension
 and bring it back to us
 
-### Outcome
+### Outcome - PROVISIONAL PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 2

@@ -169,8 +169,13 @@ I've helped organize and participated in social activities with other students o
 
 ### Notes
 
-( Leave blanks for reviewers )
+* already planning to repeat
+* now want to think about how to make the next pass a success
 
-### Outcome
+### Outcome - REPEAT
 
-( Leave blanks for reviewers )
+* __A End-of-Module Assessment:__ 1
+* __B Individual Work & Projects:__ 2
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3

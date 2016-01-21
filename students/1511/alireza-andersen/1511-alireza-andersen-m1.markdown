@@ -200,7 +200,7 @@ I had the opportunity to pair with Matt several times throughout Module 1. His a
 * Appreciate your community service and outreach work - excited to see
 you combining this with your engagement at turing
 
-### Outcome
+### Outcome - REPEAT
 
 * __A End-of-Module Assessment:__ 2
 * __B Individual Work & Projects:__ 3

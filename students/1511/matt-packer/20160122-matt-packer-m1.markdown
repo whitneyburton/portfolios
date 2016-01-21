@@ -261,7 +261,7 @@ I did my best to support the Turing community by working with my 'posse' on morn
 * individual projects consistently showing good code but short
 on fulfillment / completion
 
-### Outcome
+### Outcome - PROVISIONAL PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 3*

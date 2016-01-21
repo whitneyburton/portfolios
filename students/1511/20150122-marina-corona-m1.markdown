@@ -244,7 +244,7 @@ execution or upward trend
 for you to gain a lot out of this especially based on your work ethic and
 studious approach to Turing
 
-### Outcome
+### Outcome - REPEAT
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 2

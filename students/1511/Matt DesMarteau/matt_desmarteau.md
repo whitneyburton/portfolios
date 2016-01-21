@@ -263,7 +263,7 @@ I attended as many after school group meetups that I had time for.  One of our c
 * Community Participation: 4
 * Feedback: 3
 
-### Outcome
+### Outcome - REPEAT
 
 * __A End-of-Module Assessment:__ 2
 * __B Individual Work & Projects:__ 3

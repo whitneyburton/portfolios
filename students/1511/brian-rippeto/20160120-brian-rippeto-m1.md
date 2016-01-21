@@ -241,7 +241,7 @@ Adam approaches problems with confidence that is contagious. Half the battle in 
 * Like seeing some progress on individual projects -- want to see more of that
 * Would like to see a solid project-based assessment of where your individual skills are now
 
-### Outcome
+### Outcome - PROVISIONAL PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 2*

@@ -175,7 +175,7 @@ reflecting on what is missing here and hopefully be able to tweak your process i
 * would like to see you getting involved with extra-curric student groups and activities -- think your personality
 could help give momentum to these kind of things and get them off the ground
 
-### Outcome
+### Outcome - PROVISIONAL PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 2*

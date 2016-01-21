@@ -248,7 +248,7 @@ In the future I plan to attend improv every week and do the dishes at least two 
 * keep sending those chill vibes
 * conf talks at lunch? Potluck + ted talk?
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 3

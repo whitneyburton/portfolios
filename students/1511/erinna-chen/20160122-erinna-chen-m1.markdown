@@ -319,7 +319,7 @@ These are my goals for the next module:
 * the biggest challenges (and potential benefits) for you are going to be working on
 your pairing and team interactions / dynamics
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 4

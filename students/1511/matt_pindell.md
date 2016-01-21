@@ -260,7 +260,7 @@ While I've been passive this Module - I absolutely intend on stepping up my cont
 * Foresee you going from a place of instability / struggle to really excelling among the
 new cohort
 
-### Outcome
+### Outcome - REPEAT
 
 * __A End-of-Module Assessment:__ 2
 * __B Individual Work & Projects:__ 2

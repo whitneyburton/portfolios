@@ -301,7 +301,7 @@ I've participated in the larger Turing Community in the following ways:
 * aggressive progress after starting in echo
 * solid progress from beginning of the module into later individual projects
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 3

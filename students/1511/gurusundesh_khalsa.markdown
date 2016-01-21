@@ -156,7 +156,7 @@ to repeat
 we need to see this tightened up and consolidated so that we have a good
 a foundation to go into later modules
 
-### Outcome
+### Outcome - REPEAT
 
 * __A End-of-Module Assessment:__ 2
 * __B Individual Work & Projects:__ 2

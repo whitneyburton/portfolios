@@ -303,7 +303,7 @@ Notes
 you starting to experiment with additional work and exploration beyond
 the curriculum
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 3

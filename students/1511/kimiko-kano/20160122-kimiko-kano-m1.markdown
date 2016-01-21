@@ -254,7 +254,7 @@ From Nick Dorans - Kimi is a wonderful person, and we definitely clicked from th
 * want to see you starting to branch out, challenge yourself, and reach beyond just the baseline that
 is expected
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 3

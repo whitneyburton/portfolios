@@ -199,7 +199,7 @@ Weekly pairing with mentor<br />
 * want you to repeat mod 1 and spend more time solidifying the fundamentals
 * want to see your continued enthusiasm and work ethic through the next attempt at mod 1
 
-### Outcome
+### Outcome - REPEAT
 
 * __A End-of-Module Assessment:__ 1
 * __B Individual Work & Projects:__ 2

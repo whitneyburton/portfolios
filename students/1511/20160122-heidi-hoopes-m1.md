@@ -278,7 +278,7 @@ My natural strengths in groups are supporting those around me, explaining concep
 there are enough shortcomings on the various projects that we'd like
 to have you complete the headcount project for next week
 
-### Outcome
+### Outcome - PROVISIONAL PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 2*
