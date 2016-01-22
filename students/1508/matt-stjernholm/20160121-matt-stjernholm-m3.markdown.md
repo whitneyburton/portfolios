@@ -65,14 +65,14 @@ Below are the projects that I completed for module 3.
   this project, and used caching to increase performance.
 
     Scores:
-   Instructor: Tess
-   Notes:
-   Completion: 4
-   Organization: 3
-   Test-driven-development: 4
-   Code-quality: 3.5
-   User-experience: 4
-   Performance: 4
+   * Instructor: Tess
+   * Notes:
+   * Completion: 4
+   * Organization: 3
+   * Test-driven-development: 4
+   * Code-quality: 3.5
+   * User-experience: 4
+   * Performance: 4
 
 ## Team
 
@@ -121,12 +121,19 @@ Good UI experience, but had issue with crashes on small parts of app. Also when 
 
 ### Being a Community Member
 
-* Working with Matt was great as he has a real knack for design and user interactability that is subtle, but oh so crucial. Once Matt was able to lay his hands on its design, our project rapidly went from something I was ‘meh’ about working on, to something that piqued my interest with every page load. An eye for detail is crucial in this industry and this guy has got it!
+* Organizing ski days with Turing folks.
 
+* Spending time hanging out with and getting to know 1510'ers.
+
+* Helping 1508'ers on their personal projects.
+
+
+* Working with Matt was great as he has a real knack for design and user interactability that is subtle, but oh so crucial. Once Matt was able to lay his hands on its design, our project rapidly went from something I was ‘meh’ about working on, to something that piqued my interest with every page load. An eye for detail is crucial in this industry and this guy has got it!
+--Mike Wong
 
 ### Playing a Part  
 
-At my last portfolio review, Rachel asked me to "Try to kick up the level a bit. Go above and beyond and bring your peers along with you."  Honestly, I feel like I fell short of this during Module 3 and will look to put in more during the next module. I am happy, however, with the life-balance that I was able to achieve during strenuous workload of Module 3.
+At my last portfolio review, Rachel asked me to "Try to kick up the level a bit. Go above and beyond and bring your peers along with you."  I feel like I could've done a better job of that in Module 3, but will look to put in more during the next module. However, I am happy with the life-balance that I was able to achieve during the heavy workload of Module 3.
 
 
 ## Review
