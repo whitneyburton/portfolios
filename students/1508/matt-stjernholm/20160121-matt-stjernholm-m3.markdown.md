@@ -131,6 +131,7 @@ Good UI experience, but had issue with crashes on small parts of app. Also when 
 
 
 *Working with Matt was great as he has a real knack for design and user interactability that is subtle, but oh so crucial. Once Matt was able to lay his hands on its design, our project rapidly went from something I was ‘meh’ about working on, to something that piqued my interest with every page load. An eye for detail is crucial in this industry and this guy has got it!*
+
 --Mike Wong
 
 ### Playing a Part  
