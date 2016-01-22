@@ -130,6 +130,10 @@ Good UI experience, but had issue with crashes on small parts of app. Also when 
 * Rock Climbing at Denver Bouldering Club and Movement with Turing students from all cohorts.
 
 
+*I likely would not have put together a test suite on my personal project without Matt's help. Matt saw me working feverishly on the night before it was due, and sat down for an hour working through a tough issue with OAuth testing. While we didn't figure out the issue then, Matt went home and continued researching the issue and slacked me a snippet that I adjusted and worked. Thanks to Matt I was able to build out a full test suite and finish a successful personal project. He really went above and beyond to help me during a particularly stressful time.*
+
+--Sekhar Paladugu
+
 *Working with Matt was great as he has a real knack for design and user interactability that is subtle, but oh so crucial. Once Matt was able to lay his hands on its design, our project rapidly went from something I was ‘meh’ about working on, to something that piqued my interest with every page load. An eye for detail is crucial in this industry and this guy has got it!*
 
 --Mike Wong
