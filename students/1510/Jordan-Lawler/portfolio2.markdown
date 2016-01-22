@@ -1,5 +1,17 @@
 #Jordan Lawler - M2 Portfolio
 
+MY DAY WITH DAD:
+
+![Click](https://i.imgflip.com/xqkd2.jpg)
+
+![Click](https://i.imgflip.com/xqkjh.jpg)
+
+![Click](https://i.imgflip.com/xqkmc.jpg)
+
+![Click](https://i.imgflip.com/xqkp7.jpg)
+
+
+
 ##Individual
 
 Your Mission
