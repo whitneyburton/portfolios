@@ -17,6 +17,11 @@ https://github.com/Jlawlzz/plumber
 ###Tay-Swift:
 https://github.com/Jlawlzz/swift-sifter
 
+##Personal Projects:
+
+###P5.JS
+https://github.com/Jlawlzz/p5-play
+
 ##End of Module Assessment
 
 ###Assessed By: Mike
@@ -67,6 +72,13 @@ Used a few partials.
 Some opportunities to refactor ruby into separate methods.
 I liked how you used methods to abstract out conditionals.
 Think about how you would refactor to make use of Poros and helper methods in your view.
+
+####Mini-Project: Alter-Ego
+Github URL
+https://github.com/PenneyGadget/alter_ego
+https://fathomless-cliffs-9769.herokuapp.com/
+
+Users can create account, vote on giving teamates a gif, which after a timer expires is assigned to the winner.
 
 ####Little Shop of Orders
 
@@ -119,7 +131,8 @@ I've participated in the larger Turing Community in the following ways:
 Current:
 
 Provide help with projects/problems when needed/possible.
-General Morale Boost
+General Morale Boost.
+Active member of the p5.js crew here at Turing.
 Meet with Simon Taranto and Rolen Lee every week.
 Fulfill my Dad Steve's empty shell of a life through time together. He lives his sad meaningless life vicariously through me.  Its not easy,
 but he gives me a weekly allowance of 5$, as a 12 year old, thats a lot of money!!!!!!
