@@ -136,7 +136,7 @@ Good UI experience, but had issue with crashes on small parts of app. Also when 
 
 ### Playing a Part  
 
-At my last portfolio review, Rachel asked me to "Try to kick up the level a bit. Go above and beyond and bring your peers along with you."  I feel like I could've done a better job of that in Module 3, but will look to put in more during the next module. However, I am happy with the life-balance that I was able to achieve during the heavy workload of Module 3.
+At my last portfolio review, Rachel asked me to "Try to kick up the level a bit. Go above and beyond and bring your peers along with you."  I feel like I could've done a better job of that in Module 3, but will look to put in more during the next module. However, I am happy with the life-balance that I was able to achieve throughout our heavy workload.
 
 
 ## Review
