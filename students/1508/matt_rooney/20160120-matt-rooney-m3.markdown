@@ -118,3 +118,31 @@ Other Feedback:
 * Tried to do dishes whenever I used them, and participated in cohort-cleanup.
 * Never ever, I mean never, no matter when, no matter where, never left the coffee pot empty after taking the last cup.
 * Spreading the Turing word around DSST Stapleton Middle School during the upcoming intermission week, leading the morning meeting for my wife's class to introduce students to programming and what you can do with it.
+
+### Notes/Outcome
+
+## A: End-of-Module Assessment
+
+* 3: Student achieved a "3" or better on each category of the assessment
+
+## B: Individual Work & Projects
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+
+## D: Community Participation
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+### Result - Promoted
