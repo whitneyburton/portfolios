@@ -202,7 +202,8 @@ I worked with Chad on the HTTP project. Chad is extraordinarily talented at deco
 
 ### Playing a Part
 
-Within my first week at Turing, I was pleasantly surprised by the connectedness and thoughtfulness of the members of the community. It was a privilege to participate in both helping and receiving help from people in our cohort. I specifically remember helping a small group of students pseudo-coding through the crack method of our enigma project. Moreover, I spent a lot of time over Christmas break pairing with Nate and Hedy; we worked through some of Josh's waypoints as well as exercisms.   
+Within my first week at Turing, I was pleasantly surprised by the connectedness and thoughtfulness of the members of the community. It was a privilege to participate in both helping and receiving help from people in our cohort. I specifically remember helping a small group of students pseudo-coding through the crack method of our enigma project. Moreover, I spent a lot of time over Christmas break pairing with Nate and Hedy; we worked through some of Josh's waypoints as well as exercisms.
+
 ## Review
 
 ### Notes
@@ -212,6 +213,7 @@ Group work OK but needs black thursday to turn out successfully
 Seems like your projects are under-performing relative to your technical skill - would like to see you reflecting on what is missing here and hopefully be able to tweak your process in the future to improve these results
 would like to see you getting involved with extra-curric student groups and activities -- think your personality could help give momentum to these kinds of things and get them off the ground
 
+<<<<<<< HEAD
 Enigma Project was re-evaluated
 
 ### Outcome
@@ -220,3 +222,21 @@ Enigma Project was re-evaluated
 * C Group Work & Projects: 3
 * D Community Participation: 3
 * E Peer & Instructor Feedback: 3
+=======
+* Individual projects show some speed bumps -- missing the upward trajectory that we'd prefer to see
+* Both projects rocky; one wasn't clearly better than the other; want to see a review of your updated
+Enigma project
+* Group work OK but needs black thursday to turn out successfully
+* Seems like your projects are under-performing relative to your technical skill - would like to see you
+reflecting on what is missing here and hopefully be able to tweak your process in the future to improve these results
+* would like to see you getting involved with extra-curric student groups and activities -- think your personality
+could help give momentum to these kind of things and get them off the ground
+
+### Outcome - PROVISIONAL PASS
+
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 2*
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
+>>>>>>> da3b1acd05d508698e79abf97a1591d210969aab
