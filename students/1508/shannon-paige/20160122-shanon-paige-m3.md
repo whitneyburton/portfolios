@@ -3,7 +3,9 @@
 ## Individual
 
 ### Your Mission
-After finishing module 1 on such a high point, I made it my priority in module 2 to continue doing well, but finding a work/life balance which I was desperately missing during the first six weeks.
+My mission this module was to improve my soft skills - mainly my ability to manage stress levels
+and to find information on my own. By the end of this module I feel like a doc reading fiend, and
+while managing "Imposter Syndrome" will probably be a lifelong struggle, I think I finally have a handle on how to deal with it.
 ​
 
 ### Attendance
@@ -20,13 +22,12 @@ Below is a list of the team projects I completed this module.
 * [GitHub URL](https://github.com/ShannonPaige/one-night)
 * [Production URL](https://desolate-earth-9100.herokuapp.com)
 
-* Feature Completeness: 4
-* Views: 3.5
-* Controllers: 4
-* Models: 3.5
-* Testing: 3.5  
-* Usability: 4
-* Workflow: 4
+* Feature Completeness: 3
+* Organization: 3
+* Testing: 1
+* Code Quality: 3
+* User Experience: 3
+* Performance: 3
 
 #### Rails Engine
 * [GitHub URL](https://github.com/ShannonPaige/rails-engine)
@@ -95,21 +96,15 @@ From Jeff Ruane: "Shannon, pairing with you was really great, you're super easy 
 
 #### Playing a Part
 
-This module I was a buddy for a 1511 student. I also participated in Joan Clarke and LGBT activities.
+This module I was a buddy for a 1511 student. I participated in Joan Clarke and LGBT activities.
+I also started a support group for people who feel they suffer from "Imposter Syndrome", which meets at lunch on Wednesdays.
 
 ## Review
 
 ### Notes
 
-* Skill level is at a place she is happy with. 
-* Feels 100% more comfortable with Rails than when first introduced to it
-* Very solid final assessment. 
-* Solid little shop project. 
-* Most challenging part of working with others has been not working alone. Understands its something that she needs to focus on. 
-* Going to try to focus on becoming more confident with code skills while being observed. 
-* Great work fostering your community. 
-* Next modules focus will be learning everything possible. 
+( Leave blanks for reviewers )
 
 ### Outcome
 
-Pass
+( Leave blanks for reviewers )
