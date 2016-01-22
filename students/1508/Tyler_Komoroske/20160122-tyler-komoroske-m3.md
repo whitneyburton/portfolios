@@ -4,7 +4,11 @@
 
 ### Areas of Emphasis
 
-During this module, my main focus was
+During this module, my main focus was was to hone my skills as a developer. I
+felt like the first two modules gave me the tools I needed to be successful
+and my goal throughout the module was to fine tune those skills. Overall,
+I feel like this module was very successful for me and I feel very comfortable
+calling myself a developer at this point in the program. 
 
 ## Attendance
 
