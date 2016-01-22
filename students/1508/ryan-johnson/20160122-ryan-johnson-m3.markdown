@@ -24,7 +24,7 @@ I completed the following individual work this module:
 
 ## Team
 
-#### The Pivot (Lens-Lease/ Collectors Corner)
+#### The Pivot ( Lens-Lease/ Collectors Corner )
 
 * [GitHub URL](https://github.com/tjkomor/bidding_wars)
 * [Production URL](collectors-corner.herokuapp.com)
