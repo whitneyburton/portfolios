@@ -82,6 +82,42 @@ Comments:
 * I continue to refer current Turing students and alumni to Qwinix Technologies, a full-stack DevOps firm that is partnered with my company.
 * Going forward, there is a good chance I will be responsible for finding some candidates to hire on at my firm to help in the construction of an advanced financial research application. Having seen firsthand the capabilities of Turing graduates, I think one or more current or future alumni could make a great fit.
 
+## Feedback
+
+#### Rob Cornell
+
+To: Rob, you took control of your learning throughout your time at Turing, but to me it was most evident in module 4. Your hard work gave you valuable and unique insights. Going forward, my only advice would be to share those insights with others more and help bring others into your learning process.
+
+From: I’ve been very impressed at how you’ve balanced your work responsibilities with Turing, even though it took you longer, having been in a similar space I have the utmost respect for what you’ve done balancing the two.  I’ve always enjoyed pairing with you and count you among some of the better coders who have come through Turing who can not only grasp concepts but be enjoyable to work with.
+
+#### Chris Cenatiempo
+
+To: Chris: You were a truly awesome partner to work with on Game Time. I wasn’t sure what to expect when we first got partnered together because we hadn’t really met yet, but I learned early on that you were both a strong coder and a dependable teammate. Going forward, my only advice would be to be as open as possible and don’t hesitate to share your ideas with those around you. Wish you the best of luck man, have fun in Hawaii!
+
+From: You were awesome to work with on Game Time! Your greatest strength is being able to organize projects. You were able to break Game Time down into smaller components with attainable goals and deadlines. Out of all the group projects I’ve done at Turing, this was by far the most complete and organized one. Going forward, the only thing I would suggest to work on is compartmentalizing and refactoring code into smaller logical components.
+
+#### Rick Bacci
+
+To: Rick, we went through some real ups and downs together over the last year at Turing, from some of our darkest moments to some of our most triumphant. The one thing I was most impressed with over that time was that even when you were struggling the hardest, you never wavered in your desire to keep working or to keep getting better. You also never backed down from a challenge, and even went out of your way to challenge yourself (**cough cough** using vim **cough cough**). Going forward, my only advice would be to keep as open a mind as possible to others’ ideas or solutions. We both have a very specific way of thinking about things and it is easy to forget that there are other (and sometimes better) ways to approach a problem. Gonna miss you man. I wish you the best of luck in all your future endeavors.
+
+From: I would say that you are one of the most well grounded people that I have met here. You always seem calm under pressure, which is something special. Thanks, and best of luck to you as well.
+
+#### Rose Kohn
+
+To: Rose, even though we didn’t get to directly work together this module, I admired that you were always a valuable contributor in class and that you were always a positive and productive person to be around during work times. Your positivity is a big benefit to those around you, and there were definitely some times where we all needed it this module. Going forward, my advice would be to try to share your ideas with those around you as much as possible and to bring others in to your learning (or teaching) process. Best of luck, and I hope we stay in touch!
+
+From: Though we didn’t happen to pair, you always had thoughtful questions you’d ask in class to help us go deeper into or clarify what we were learning.  Including 1507 into your Game Time was a lot of fun to watch and be a part of it.  You were always a thoughtful and supportive member of our cohort, and we were happy to have you join our group.
+
+#### Regis Boudinot
+
+To: Regis, your passion for coding is contagious. It rubs off on the people around you, and in a very positive way. It wasn’t until I got to know you more that i realized you had an incredible passion for many things beyond coding. I am the same way and always connected with you regarding that general “sense of wonder” and curiosity toward the world. I could see you making a great teacher one day honestly.
+
+You’re kind of a tough person to give “actionable advice” to (and I mean that as a complete compliment), but if I had to give you one piece of advice going forward, it would be to stay as patient as possible with those around you during the collaborative process and keep in mind that others may not understand things quite as quickly as you to begin with. Wish you all the best going forward my friend, I hope we stay in touch.
+
+From: You have a great amount of curiosity. I really appreciate your amount of patience and your sense of realism.
+
+If there was something I would recommend it would be that you stay here more. Be more included in the cohort. Otherwise you are a very sharp individual and you mean very well.
+
 ## Review
 
 ### Notes
