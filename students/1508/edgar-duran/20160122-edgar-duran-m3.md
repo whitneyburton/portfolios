@@ -122,3 +122,30 @@ I strived to be more active in the community this module and more involved with 
 * Having attended more warm-ups, I was able to help members of my posse frequently with projects I had already encountered.
 * Adam and I conducted a student lead session on contributing to open source.
 * Having stayed at turing later after school more often this module I always made sure to clean up after myself and tried to do my part by organizing dishes, cleaning, and keeping Turing tidy.  
+
+
+### Notes/Outcome
+
+## A: End-of-Module Assessment
+
+* 3: Student achieved a "3" or better on each category of the assessment
+
+## B: Individual Work & Projects
+
+* 2: Student demonstrates some lack of engagement or growth in their individual
+skill or project outcomes without a clear upward trend.
+
+## C: Group Work & Projects
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+* 3.5: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
