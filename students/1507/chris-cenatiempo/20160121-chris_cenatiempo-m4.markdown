@@ -72,9 +72,21 @@ Score: 55
 
 ### Feedback Given to Me
 
+####Bret Doucette
 Sadly I never got to pair with Chris on a project. I didn’t realize this until late in the program. I was in a deep dark hell hole of JavaScript and Chris helped me out of it. He didn’t have to, but spent 2+ hours with me, helping me debug an issue I had for the previous 28 hours. He is selfless and awesome. I will miss working with him.One area for improvement would be to not get so frustrated on setting up Rails/Express etc. I would recommend working with people who enjoy Dev Ops!
 
+#### Tyler Graham
 You were a truly awesome partner to work with on Game Time. I wasn’t sure what to expect when we first got partnered together because we hadn’t really met yet, but I learned early on that you were both a strong coder and a dependable teammate. Going forward, my only advice would be to be as open as possible and don’t hesitate to share your ideas with those around you. Wish you the best of luck man, have fun in Hawaii!
+
+### Feedback I've Given
+
+#### To Tyler Graham
+You were awesome to work with on Game Time! Your greatest strength is being able to organize projects. You were able to break Game Time down into smaller components with attainable goals and deadlines. Out of all the group projects I’ve done at Turing, this was by far the most complete and organized one. Going forward, the only thing I would suggest to work on is compartmentalizing and refactoring code into smaller logical components.
+
+### Playing a Part In the Community
+
+* On Thurday,January 7, I went on a Go Spot Check Tour with the CPO Joey Alfano
+* On Wednesday, Jan 20, I've started to introduce Jeff Ruane to Joey Alfano to hopefully help with connections and the job hunt
 
 
 ## Goals Moving Forward
