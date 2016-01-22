@@ -109,16 +109,28 @@ Matt Packer for Headcount
 
 #### Headcount
 
+**Assessed by:** Horace Williams
+
 * [GitHub URL](https://github.com/adriennedomingus/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 **Description**: Build upon a dataset centered around schools in Colorado provided by the Annie E. Casey foundation. What can we learn about education across the state?
 
 **Comments**:
-Pending
+* implements expected iterations
+* good job tackling vaguely defined result set / result entry stuff in I6
+* tests are numerous and effective, relying on a trimmed data set to support easy testing and anticipation of results
+* would have liked to see some means of overriding the data set from tests without having to edit the data files
+* connections between the analyst and the various repositories are clear and easy to follow; however it does place the Analyst in a privileged position at the top of the hierarchy
+* discovered a somewhat rigid dependency on the file structure with harcoded paths in a few places
+* analysis methods are well-written and easy to follow; using appropriate enumerables and data helpers to filter down the data set as needed
 
 **Scores**:
-Pending
+* Functional Expectations: 3
+* Test Driven Development: 3
+* Encapsulation/Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
 
 (feedback to me)
 
