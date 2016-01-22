@@ -93,3 +93,31 @@ Assignment](https://github.com/turingschool/challenges/blob/master/self_directed
 ### Playing a Part
 
 * During this module, I tried to extend as much help as I possibly could to my classmates and it was very enjoyable for me. I was able to help my classmates understand some abstract concepts and at the same time, I was able to reinforce my own learning. I consistently offered help to my classmates during the evenings and tried to make sure I was explaining concepts that made sense to my classmates who asked me for help. Overall, this module was an extremely rewarding experience.
+
+### Notes
+
+## A: End-of-Module Assessment
+
+* 3: Student achieved a "3" or better on each category of the assessment
+
+## B: Individual Work & Projects
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+Outcome - promoted
