@@ -165,8 +165,30 @@ I also gave  a student led session on the object model at the end of week three 
 
 ### Notes
 
-( Leave blanks for reviewers )
+## A: End-of-Module Assessment
+
+* 3: Student achieved a "3" or better on each category of the assessment
+
+## B: Individual Work & Projects
+
+* 2: Student demonstrates some lack of engagement or growth in their individual
+skill or project outcomes without a clear upward trend.
+
+## C: Group Work & Projects
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Repeat Module 3
