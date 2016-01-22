@@ -76,6 +76,7 @@ Think about how you would refactor to make use of Poros and helper methods in yo
 ####Mini-Project: Alter-Ego
 Github URL
 https://github.com/PenneyGadget/alter_ego
+Heroku:
 https://fathomless-cliffs-9769.herokuapp.com/
 
 Users can create account, vote on giving teamates a gif, which after a timer expires is assigned to the winner.
@@ -84,6 +85,8 @@ Users can create account, vote on giving teamates a gif, which after a timer exp
 
 Github URL
 https://github.com/bethsebian/apocalypsify
+Heroku
+http://serene-chamber-99562.herokuapp.com/
 
 Encryption/decryption machine. Emphasis on breaking program into logical components, TDD and enumerable techniques. Required to build a key generator and date offset, encrypt a message using a 4-digit rotation, decrypt the message using a pre-determined key and crack an encrypted message without the key.
 
