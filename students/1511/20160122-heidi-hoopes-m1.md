@@ -97,7 +97,7 @@ Breaking Logic into Components  3
 #### Binary Search Tree
 
 * [GitHub URL for project](https://github.com/hhoopes/binary-search-tree)
-* [Binary Search Tree](https://github.com/bethsebian/binary_search_tree)
+* [Binary Search Tree](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
 An implementation of the classic binary search tree algorithm.
 
@@ -114,7 +114,7 @@ Enumerable & Collections                        3
 #### Sorting Suite
 
 * [GitHub URL for project](https://github.com/hhoopes/sorting-suite)
-* [Sorting Suite](https://github.com/bethsebian/sorting_suite)
+* [Sorting Suite](https://github.com/turingschool/sorting-suite)
 
 In Sorting Suite I implemented three sorting algorithms: bubble sort, merge sort, and insertion sort.
 
