@@ -90,8 +90,8 @@ Scores:
 
 * Overall Functionality :3
 * Fundamental Ruby & Style :3
-* Test Driven Development :2
-* Breaking Logic into Components :3
+* Test Driven Development :3
+* Breaking Logic into Components :4
 
 #### (Black-Thursday)
 
