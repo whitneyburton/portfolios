@@ -3,6 +3,7 @@
 ## Individual
 
 ### Your Mission
+
 I want to do work that is consistently challenging and purposeful.
 
 Coming into Turing, I thought I would only be a programmer for a short time after graduation--I thought having programming skills would allow me to have a unique technical perspective, in combination with a people-focused background, that would facilitate access to more interesting opportunities.  Now, just six weeks later, I find myself so engaged with the tasks we are working on that I feel excited about the idea of committing to programming in the long term.
@@ -199,3 +200,20 @@ them by delivering specific, kind, and actionable feedback. They accelerate thei
 own growth by taking in and acting on the feedback of their peers and instructors.
 
 * **Result:** ? -- <  >
+
+## Review
+
+### Notes
+
+* very strong and consistent individual work -- want to start seeing more pushing beyond
+the box and bringing in additional features and learning of your own
+* appreciate you leading the hack design sessions - want to keep seeing more of this
+and organizing more activities or pursuits within the group
+
+### Outcome - PASS
+
+* __A End-of-Module Assessment:__ 4
+* __B Individual Work & Projects:__ 3
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3

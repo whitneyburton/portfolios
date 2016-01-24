@@ -157,7 +157,7 @@ What I would like to improve on in the future is being able to help out others b
 * Appreciate your approachability and willingness to work with other students in the cohort -- keep it up
 * Would love to see you starting to get involved with the community outside of the cohort
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 3

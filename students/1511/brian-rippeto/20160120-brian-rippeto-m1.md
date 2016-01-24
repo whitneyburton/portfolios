@@ -135,12 +135,16 @@ The following are team projects:
 
 #### HTTP Yeah You Know Me
 
-* [GitHub URL](https://github.com/Salvi6God/http_yeah_you_know_me)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+**Partner:** Alex Navarette
+
+**Instructor:** Meeka
+
+**Repo Url:** https://github.com/Salvi6God/http_yeah_you_know_me
+
+**Original Assignment:** https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown
 
 Web server capable of requesting and responding, parsing paths, and preforming word search operations with parameters. Also, the first project to incorporate pairing and partner design.
 
-Assessed By: Meeka
 
 __Comments:__
 
@@ -156,6 +160,37 @@ __Scores:__
 * Fundamental Ruby & Style: 3
 * TDD: 4
 * Breaking Logic Into Components: 3
+
+#### Black Thursday
+
+**Partner:** Adam Hundley
+
+**Instructor:** Horace
+
+**Repo Url:** https://github.com/adamhundley/black_thursday
+
+**Original Assignment:** https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
+
+__Comments:__
+
+* so many tests
+* completion through I4
+* great analysis code; could still be improved by pushing more of the
+graph traversal logic and various query methods into the individual record objects
+* this would simplify our enumerable problems since we could just call an existing
+method rather than having to do more calculations within each block
+* a few small ruby style things here and there -- e.g. multiline blocks with {} vs.
+do/end etc
+* boatload of tests; they run quickly; ultimately would have liked to see some means of
+customizing the data without changing csv files
+
+__Scores:__
+
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
 
 ## Community
 
@@ -206,7 +241,7 @@ Adam approaches problems with confidence that is contagious. Half the battle in 
 * Like seeing some progress on individual projects -- want to see more of that
 * Would like to see a solid project-based assessment of where your individual skills are now
 
-### Outcome
+### Outcome - PROVISIONAL PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 2*

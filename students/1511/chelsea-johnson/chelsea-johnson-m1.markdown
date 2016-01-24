@@ -231,7 +231,7 @@ see how effectively you are executing these
 * Would like to see you taking a more active and organizational approach to managing extracurricular
 activities and groups
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 4
 * __B Individual Work & Projects:__ 3

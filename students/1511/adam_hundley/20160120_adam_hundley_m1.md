@@ -173,7 +173,7 @@ I strive to give feedback in the moment with my classmates. Below is some feedba
 * I submitted multiple pull requests for the Black Thursday spec harness to help our module out.
 * I attended the Kids Who Code presentation night.
 
-## Rubric
+## Outcome - PASS
 
 Your portfolio will be evaluated using the following rubric. Earning at least
 a three in each category is the baseline for promotion/graduation.

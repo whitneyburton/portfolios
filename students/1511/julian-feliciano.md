@@ -300,7 +300,7 @@ and bringing your own enthusiasm and creativity to the projects
 energy to the group
 * BYOEnthusiasm
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 3

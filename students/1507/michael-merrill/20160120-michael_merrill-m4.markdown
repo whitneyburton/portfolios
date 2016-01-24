@@ -133,8 +133,11 @@ Our game didn't use canvas which is a bummer because I wanted to get to learn it
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Group Work: 4
+- Individual Work:
+- Community:
+- Feedback:
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING - your portfolio is incomplete or non-conforming and will be re-evaluated as soon as possible. If it is incomplete after 24 hours it will be moved to RETAINED or EXCUSED

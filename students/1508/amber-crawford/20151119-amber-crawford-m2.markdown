@@ -46,8 +46,6 @@ This was a week long project where Jason, Jill and I built an app to track web t
 
 #### Assessed By: Rachel
 
-Alon & Jeff & Mike & Mimi
-
 #### Notes:
 "full functionality + two extensions; good use of parser objects; good separation of web and business logic; would like to see fewer instance variables sent to views"
 
@@ -60,7 +58,7 @@ Alon & Jeff & Mike & Mimi
 * Sinatra / Web and Business Logic: 3.5
 * View Layer: 3.5
 
-## Earmarked
+## Slota-Shop
 
 * [GitHub URL](https://github.com/amcrawford/slota-shop)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
