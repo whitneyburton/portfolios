@@ -219,13 +219,13 @@ Jeff Casimir
 * Like the testing, shows strong effort
 * Look for opportunities to pull out a bit of abstractions around small complex code
 
-*Overall Functionality            3
+* Overall Functionality            3
 
-*Fundamental Ruby & Style         3
+* Fundamental Ruby & Style         3
 
-​*Test-Driven Development          3
+* Test-Driven Development         4
 
-*Breaking Logic into Components   3
+* Breaking Logic into Components   3
 
 Feedback to Me
 
