@@ -210,6 +210,9 @@ HTTP: Yeah You Know Me
 
 HTTP YYKM created a mock server using Ruby, serving requests for data, a simple game, and a spell checker locally. I enjoyed my time coding with my partner and felt like we made a good stab at the project.
 
+Evaluator:
+Jeff Casimir
+
 * Through iteration 4 and edge cases, but no I5
 * Four iterations work great
 * 21 tests with three pending
