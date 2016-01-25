@@ -147,4 +147,4 @@ thanks for helping me by reviewing PR’s this goes a long way to knowing you ar
 
 ### Outcome
 
-PENDING - your portfolio is incomplete or non-conforming and will be re-evaluated as soon as possible. If it is incomplete after 24 hours it will be moved to RETAINED or EXCUSED
+PASS
