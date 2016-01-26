@@ -28,16 +28,17 @@ Here are some notes about expectations for this cycle:
 
 ### Module 2
 
-* Individual Assessment: Tuesday & Wednesday
-* Required Project: None
-* Included Projects: TrafficSpy, Little Shop of Orders
-* Feedback: May have some feedback from TrafficSpy and LSoO if delivered
+* Individual Assessment: Yes
+* Required Project: TrafficSpy, Little Shop of Orders
+* Ruby Challenges: At least two
+* Blog Post: At least one
+* Feedback: Self-Solicited from LSoO, TrafficSpy, and Mini Project Teammates
 
 ### Module 3
 
-* Individual Assessment: None
+* Individual Assessment: Only if needed
 * Required Project: Self-Directed Project
-* Included Projects: APIcurious, SupperSkip
+* Included Projects: APIcurious, Rales Engine, The Pivot
 * Feedback: Self-Solicited
 
 ### Module 4
@@ -68,7 +69,7 @@ at least two instructors. During this 15-minute session the reviewers will:
 
 ## Outcomes
 
-Portfolio evaluations have three possible outcomes:
+Portfolio evaluations have four possible outcomes:
 
 * *PROMOTED* - your portfolio demonstrates a successful fulfillment of expectations
 and you may move on to the next module or graduate
