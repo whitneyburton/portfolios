@@ -137,6 +137,12 @@ gives me a solid gauge on how well I understand what I have been taught.
 
 ### Notes
 
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 2
+* C: Group Work & Projects: 3
+* D: Community Participation: 3
+* E: Peer & Instructor Feedback: 3
 
 ### Outcome
 
+EXCUSED - your portfolio is lacking in one or more areas and either (a) you've now failed to pass the module in two attempts or (b) the reviewers have determined that you will not be successful at Turing
