@@ -145,10 +145,21 @@ I participated in the Turing community in the following ways:
 * Individual work needs some help -- finish enigma and add an extension
 and bring it back to us
 
-### Outcome - PROVISIONAL PASS
+### Initial Outcome - PROVISIONAL PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 2
+* __C Group Work & Projects:__ 3
+* __D Community Participation:__ 3
+* __E Peer & Instructor Feedback:__ 3
+
+### Final Outcome -  PASS
+
+Admir improved his Jungle Beat project to meet expectations
+and is now ready to go.
+
+* __A End-of-Module Assessment:__ 3
+* __B Individual Work & Projects:__ 3
 * __C Group Work & Projects:__ 3
 * __D Community Participation:__ 3
 * __E Peer & Instructor Feedback:__ 3
