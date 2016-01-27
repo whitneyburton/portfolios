@@ -210,7 +210,7 @@ the box and bringing in additional features and learning of your own
 * appreciate you leading the hack design sessions - want to keep seeing more of this
 and organizing more activities or pursuits within the group
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 4
 * __B Individual Work & Projects:__ 3

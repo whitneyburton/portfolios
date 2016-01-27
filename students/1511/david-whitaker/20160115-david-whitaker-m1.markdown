@@ -92,20 +92,25 @@ Connect related objects together through references
 Learn an agile approach to building software
 
 ##### Evaluation Comments:
-- tbd
+dynamically load CSVs
+great use of enumerables & ruby data structures
+good test coverage w/ pretty good performance (>10 hits/line!!!)
+documentation in tests!!!!
+small classes w/ single responsibilities
+evidence of refactoring
+small tests with clear expectations ## Evaluation Rubric
 
 ##### Reflection:
 - The thing that I have enjoyed most about this project is sending and tracing objects throughout so many different classes, files and methods.  It has been particularly interesting to see these interactions as all of the other projects have been pretty small by comparison.
 
 ##### Scores:
 
-- Functional Expectations: tbd
-- Test-Driven Development: tbd
-- Encapsulation / Breaking Logic into Components: tbd
-- Fundamental Ruby & Style: tbd
-- Application shows strong effort towards organization, content, and refactoring : tbd
-- Enumerable & Collections: tbd
-- Code Sanitation: tbd
+- Functional Expectations: 3
+- Test-Driven Development: 4
+- Encapsulation / Breaking Logic into Components: 4
+- Fundamental Ruby & Style: 4
+- Application shows strong effort towards organization, content, and refactoring : 4
+- Enumerable & Collections: 4
 
 
 
@@ -248,7 +253,7 @@ In the future I plan to attend improv every week and do the dishes at least two 
 * keep sending those chill vibes
 * conf talks at lunch? Potluck + ted talk?
 
-### Outcome
+### Outcome - PASS
 
 * __A End-of-Module Assessment:__ 3
 * __B Individual Work & Projects:__ 3
