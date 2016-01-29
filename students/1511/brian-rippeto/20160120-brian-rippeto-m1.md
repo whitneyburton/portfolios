@@ -229,7 +229,7 @@ Adam approaches problems with confidence that is contagious. Half the battle in 
 ### Playing a Part
 * made a consistent effort to reach out to students from other modules
 * encouraged my posse to meet up in the morning
-* spent half an hour talking with a prospective Turing students
+* spent half an hour talking with a prospective Turing student
 * made coffee 5 times throughout the module when I noticed it was empty
 * attended the Job search/Resume building seminar with Ian Douglas
 * attended optional Improv class on one occasion and hope to continue attending
