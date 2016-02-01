@@ -26,14 +26,18 @@ Here are some notes about expectations for this cycle:
 * Included Projects: All individual and paired projects
 * Instructor Pairing Feedback: At least 1 session from during the module
 * Feedback: Self-Solicited
+* Posse challenges (5)
 
 ### Module 2
 
-* Individual Assessment: Yes
-* Required Project: TrafficSpy, Little Shop of Orders
-* Ruby Challenges: At least two
-* Blog Post: At least one
-* Feedback: Self-Solicited from LSoO, TrafficSpy, and Mini Project Teammates
+* Evaluation notes
+* Mentor sessions (>=3) 
+* Blog post (>=1)
+* Self-solicited continual peer feedback
+* Posse challenges (5)
+* Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master, Rails Mini Project
+* Evaluated projects: Traffic Spy, Little Shop
+* Assessments: mid-module, final
 
 ### Module 3
 
@@ -41,6 +45,7 @@ Here are some notes about expectations for this cycle:
 * Required Project: Self-Directed Project
 * Included Projects: APIcurious, Rales Engine, The Pivot
 * Feedback: Self-Solicited
+* Posse challenges (5)
 
 ### Module 4
 
@@ -48,6 +53,7 @@ Here are some notes about expectations for this cycle:
 * Required Project: Mastery Project
 * Included Projects: GameTime, ScaleUp
 * Feedback: Self-Solicited
+* Posse challenges (5)
 
 ## Authoring Process
 
