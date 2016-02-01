@@ -25,8 +25,8 @@ Here are some notes about expectations for this cycle:
 * Required Project: Final Project (Headcount / Black Thursday)
 * Included Projects: All individual and paired projects
 * Instructor Pairing Feedback: At least 1 session from during the module
-* Feedback: Self-Solicited
 * Posse challenges (5)
+* Feedback: Self-Solicited and from Feedback App
 
 ### Module 2
 
