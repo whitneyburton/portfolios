@@ -20,6 +20,12 @@ In this module, my goals were to:
 * Push forward on some personal projects: lambda calculus, machine learning, blog, learning another language (elixir, python?, kafka)
 * Generally be more active in effectively utilizing the time/resources I have at Turing
 
+__Three beginning of module goals:__
+1. Write one blog post weekly (6 total)
+2. Create a e-commerce website in Rails
+3. Obtain at least 2 pieces of feedback from a person in each category: instructor, mentor, student in 1511, student in another cohort.
+
+
 ### End of Module Assessment
 
 #### Evaluation by Horace
