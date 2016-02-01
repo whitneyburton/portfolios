@@ -219,8 +219,6 @@ Assessed By: Jeff
 * Fundamental Ruby and Style: 3
 * Breaking Logic into Components: 2
 
-
-
 ## Community
 
 ### Giving Feedback
@@ -260,7 +258,7 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Notes
 
-* Notes Notes....
+* TBD
 
 ### Outcome
 
