@@ -1,9 +1,20 @@
 # July Tran - M2 Portfolio
 
 ### Goals
-1. Technical
-2. Technical
-3. Soft skills
+1. Technical: learn Module 2 curriculum
+  * Know material well enough to implement it individually
+  * Earn at least all 3's on assessments
+  * Shoot for creative additions onto projects
+2. Technical: explore python
+  * Learn how to make classes, do basic things
+  * Do some code/posse challenges
+3. Soft skills: achieve a high level of communication skills
+  * Maintain communication even when tired/stressed
+  * Improve on turning thoughts into words during pairing sessions
+  * Give and receive actionable feedback
+4. Community:
+  * co-lead initiative to reduce Turing's carbon footprint
+  * Attend Code for Denver regularly and bring other students
 
 ### Attendance
 
