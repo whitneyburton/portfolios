@@ -2,17 +2,13 @@
 
 ## Individual
 
-### Your Mission
+### Areas of Emphasis
 
 (What did you set out to accomplish this module?)
 
 ### End of Module Assessment
 
 (Notes & scores from your assessment rubric)
-
-### Attendance
-
-(Summary of any missed time 1/2 day or more)
 
 ### Work
 
