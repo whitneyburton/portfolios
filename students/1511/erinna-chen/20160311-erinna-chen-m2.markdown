@@ -11,13 +11,13 @@ By the end of Turing, I would like to:
 * have a portfolio that incorporates academic work and a significant number of personally-driven projects
 * have strong personal relationships with students and staff of Turing and with mentors outside of Turing
 
-In this module, my goals were to:
+In this module, my driving principles are:
 * Consistently deliver good projects
 * Continue to foster a welcoming community at Turing
 * Reach out to more people outside of Turing
 * Actively budget time in order to better separate academic requirements, personal development, and personal life
 * Get back on the exercise train
-* Push forward on some personal projects: lambda calculus, machine learning, blog, learning another language (elixir, python?, kafka)
+* Push forward on some personal projects: lambda calculus, machine learning, blog, learning other programming things (elixir, python, kafka)
 * Generally be more active in effectively utilizing the time/resources I have at Turing
 
 __Three beginning of module goals:__
