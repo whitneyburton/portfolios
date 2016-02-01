@@ -1,9 +1,9 @@
 # Nick Weiland - M1 Portfolio
 
-## Individual
-
-### Your Mission
-
+### Goals
+* Be able to quickly build a small Rails app without the id of documentation.  Be able to troubleshoot complex Rails issues.
+* Be equally fluent in JS as I am in Ruby.
+* Build out Hack Design into a student led session.
 
 ### End of Module Assessment
 
@@ -26,7 +26,13 @@ Result:
 
 * Missed 1/5 due to TFA conf
 
-## Team
+### Mid Module Assessment
+
+### Blog Posts
+
+### Mentor Sessions
+
+### Posse Challenges
 
 ### Projects
 
@@ -62,6 +68,18 @@ Assessed By
   * Fundamental Ruby & Style:
   * Test-Driven Development:
   * Breaking Logic into Components:
+
+#### Sinatra CRUD
+##### Link:
+
+#### Tool Chest
+##### Link:
+
+#### Mix Master
+##### Link:
+
+#### Rails Mini Project
+##### Link:
 
 ## Community
 

@@ -1,7 +1,5 @@
 # Nick Weiland - M1 Portfolio
 
-## Individual
-
 ### Your Mission
 
 I want to do work that is consistently challenging and purposeful.
@@ -98,7 +96,6 @@ until the data is needed to generate it (lazy vs. eager)
   * Test-Driven Development: 4
   * Breaking Logic into Components: 4
 
-<p>
 #### Enigma
 
 * [GitHub URL](https://github.com/weilandia/enigma.git)
@@ -121,7 +118,6 @@ Assessed By: Josh
 * Test-Driven Development: 3
 * Breaking Logic into Components: 3
 
-<p>
 #### Jungle Beat
 
 * [GitHub URL](https://github.com/weilandia/jungle_beat.git)
@@ -144,7 +140,6 @@ Assessed By: Lovisa
 * Fundamental Ruby and Style: 3
 * Looping *or* Recursion: 3
 
-<p>
 ## Community
 
 ### Giving Feedback
@@ -179,21 +174,21 @@ I've participated in the larger Turing Community in the following ways:
 A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations.
 
-* **Result:** ? -- <  >
+* **Result:** 4
 
 ## B: Individual Work & Projects
 
 A Turing student works to maximize their skill growth and demonstrates
 that skill across a variety of work.
 
-* **Result:** ? -- <  >
+* **Result:** 3
 
 ## C: Group Work & Projects
 
 A Turing student contributes significantly to group projects, helps the team
 develop their technical skills, and delivers a high-quality product.
 
-* **Result:** ? -- <  >
+* **Result:** 3
 
 ## D: Community Participation
 
@@ -201,7 +196,7 @@ A Turing student builds up the community around them by participating and
 supporting other students, the larger Turing family, and persons outside our
 walls who want to develop their own skills.
 
-* **Result:** ? -- <  >
+* **Result:** 3
 
 ## E: Peer & Instructor Feedback
 
@@ -209,7 +204,7 @@ A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
 own growth by taking in and acting on the feedback of their peers and instructors.
 
-* **Result:** ? -- <  >
+* **Result:** 3
 
 ## Review
 
