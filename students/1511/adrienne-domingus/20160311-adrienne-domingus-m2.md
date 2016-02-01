@@ -1,6 +1,9 @@
 # Adrienne Domingus - M1 Portfolio
 
 ## Mission and Goals
+* 
+* Regularly pair with 1602 students
+* Pair more collaboratively, be comfortable with different skill levels and paces.
 
 ## Evaluation Notes
 
