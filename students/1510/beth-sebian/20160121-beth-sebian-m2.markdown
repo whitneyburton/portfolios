@@ -40,7 +40,7 @@ The project work below reveals some consistent themes across my work this module
 * Working knowledge of Rails, TDD and debugging with Pry and Byebug.
 * Seeking experience in areas of weakness: testing with RSpec when given choice, creating additional Rails projects outside of class for extra repetitions.
 * Continuing to struggle with style: tests are too verbose, methods could be cleaner, inadequate time spent refactoring.
-* Collaborating effecting, demonstrating ability to lead projects, execute concensus goals, work well with others.
+* Collaborating effectively, demonstrating ability to lead projects, executing consensus goals, working well with others.
 
 
 #### Little Shop
