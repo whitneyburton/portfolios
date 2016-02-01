@@ -47,16 +47,26 @@ Assessed By: Josh
 
 ##### Notes:
 
+* Reads JSON
+* Graphs of the data [example](http://chart.apis.google.com/chart?chco=FFF804,336699,339933,ff0000,cc99cc,cf5910&chf=bg,s,FFFFFF&chd=s:AojV1uyTYhueeI9&chl=Shopin1901%7CCandisart%7CMiniatureBikez%7CGoldenRayPress%7CGoldenHelmets%7CUrcase17%7CVenmo%7CSkype%7CJohnson%7CEllo%7CHidy%7CBhyd%7CLair%7CHelm%7CGot&chtt=All+Merchants+by+Revenue&cht=p&chs=750x375&chxr=0,0,0.8066154E5)
+* CI (passes ;)
+* Tests pass
+``` Ruby
+Finished in 3.08 seconds (files took 0.39026 seconds to load)
+141 examples, 0 failures
+```
+* 97% code coverage
+
 
 ##### Scores:
 
-* Overall Functionality:
-* Enumerables:
-* Fundamental Ruby and Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Overall Functionality: 4
+* TDD: 4
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
 
-<p>
+
 #### Http Yeah You Know Me
 
 * [GitHub URL](https://github.com/weilandia/http_yeah_you_know_me.git)
