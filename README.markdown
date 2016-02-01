@@ -54,7 +54,7 @@ Here are some notes about expectations for this cycle:
 * Carefully read the `submission_guidelines.markdown` to understand how your
 portfolio should be written/submitted
 * Read a sample portfolio in `sample.markdown` in this repo
-* Copy the content of `template.markdown` as a starting point
+* Copy the content of `[template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown)` as a starting point
 * Fill in and submit your own content.
 
 ## Submission Guidelines
