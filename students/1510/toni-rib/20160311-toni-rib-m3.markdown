@@ -1,0 +1,90 @@
+# Toni Rib - M3 Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+This module I would like to get comfortable getting data from APIs both through ruby gems in Rails and through AJAX requests. I've done some AJAX requests with jQuery but they took me hours to set up and I mostly had no idea what I was doing. I would like to challenge myself in my personal project to use multiple APIs to analyze data and display it in interesting ways (namely using the d3js library). I'd like to get comfortable with oauth2 since it is used all over the place in web apps. I have no idea how to set up my own API so I'd like to do that at least once during the module. As a totally non-module 3 related goal, I want to get comfortable using Vim by the end of the module and have it customized to my needs (like having a better status bar). I'd also like to have my resume ready to go so I am ready to apply for jobs.
+
+### End of Module Assessment
+
+(Notes & scores from your assessment rubric)
+
+### Individual Projects
+
+(Intro)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+* [Live Heroku Version]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+## Team Projects
+
+#### The Pivot
+
+* [GitHub URL](https://github.com/jwperry/the_pivot)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
+* [Live Heroku Version](https://freelancer-for-you.herokuapp.com/)
+
+This project was pivoted from the Little Shop project RoughSketch from Brenna Martenson, Taylor Moore, and Toni Rib. We took a site that sold art and created a site in which job listers could post jobs they wanted completed and contractors could bid to win the job. Some of the challenges were introducing APIs (LinkedIn and GoogleMaps), dealing with timezones, creating a Heroku Scheduler to automatically set jobs from bidding open to bidding closed, and learning to use Presenter objects to move logic out of our views.
+
+##### Notes
+
+__Technical Notes__
+
+* controllers: skinny controllers, logic is properly pushed down the stack and operations are extracted out to private methods when necessary
+* tests: very good tests :thumbsup: --- would need more model unit tests.
+* models: nice, clean models, good use of the Presenter pattern
+* views: presenter pattern :ok_hand:
+
+__Client Notes__
+
+* Really solid product.
+* Added maps, optional OAuth login, Emails, and a scheduler
+
+##### Scores
+
+__Client Scores__
+
+* Completion: 3: Team completed all the user stories and requirements set by the client.
+* Organization: 4: Team used a project management tool and updated their progress in real-time.
+* User Experience: 4: Project exhibits a production-ready and polished UX.
+* Extensions: 4: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature. Developers explored concepts and technologies outside the scope of the curriculum.
+
+__Technical Scores__
+
+* Test-Driven Development: 3 - very good feature tests and helper methods in the test_helper, needs more model unit tests
+* Code Quality: 4
+* Git Workflow: 4 - from Josh Mejia
+
+## Community
+
+### Giving Feedback
+
+(feedback from me)
+
+### Being a Community Member
+
+(feedback to me)
+
+### Playing a Part
+
+* Continued 'Tuesdays with Toni' to pair with two students every Tuesday for the entire module.
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
