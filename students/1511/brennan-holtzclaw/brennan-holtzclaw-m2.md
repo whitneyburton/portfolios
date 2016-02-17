@@ -10,11 +10,13 @@ In Module 2 I want to focus on some of the front-end options to make sure that I
 # Goals for Module 2
 
 * Learn and hone HTML and CSS styling to improve full-stack abilities and explore a more creative side of things.
+<!-- ** make this sound better! -->
 
 * Solid understanding of SQL and other database resources and tools.
+<!-- ** make this sound better! -->
 
-* I want to try to be more sure that people are giving me honest feedback, and that I am making actual use of that feedback.
-
+* I want to try to be more sure that people are giving me honest feedback, and that I am making actual use of that feedback. Also, make sure that the feedback I give is actually actionable and useful.
+<!-- ** make this sound better! -->
 
 ## Blog Post
 
@@ -23,7 +25,7 @@ In Module 2 I want to focus on some of the front-end options to make sure that I
 ## Mentor Sessions
 
 <!-- I meet with one mentor every week for at least an hour (his name, when)-->
-
+I met with my mentor, Travis Yoder, for at least an hour every week
 
 ## Posse Challenges
 
@@ -58,7 +60,8 @@ Excercise:
 
 # Non-Evaluated Projects
 
-This time through I took Jeff's advice to "do Foxtrot and crush it." There are only two real solo projects for Foxtrot. My scores and notes are below.
+
+
 
 ### FIRST NON-EVALUATED PROJECT
 
@@ -111,48 +114,89 @@ Comments:
 
 # Evaluated Projects
 
-## FIRST EVALUATED PROJECT
+## Rush-Hour
 
+Group: Brennan, Kimi K., Brian R.
 
 #### Notes
-Assessed By:
+Assessed By: Andrew Carmer
 
-Repository:
+Assessor Notes:
+
+Repository: https://github.com/ksk5280/rush-hour
 
 #### Scores
 
-***Functionality:*** **X** -
+***Functionality:*** **3** - Yay for styling too!
 
-***Testing:*** **X** -
+***Testing:*** **3** - Make sure feature tests interact with page, and make sure tests are explicit and verbose.
 
-***Encapsulation*** **x** -
+***Encapsulation*** **3** - Good job having parsers, but make sure it's all split out fully
 
-***Ruby Style:*** **X** -
+***Ruby Style:*** **3** - Be explicit - don't abbreviate variable/method names
 
-***Looping or Recursion:*** **X** -
+***Sinatra / Web Business Logic:*** **3** - Make sure there's no logic in view layer. Formatting (.join(", ")), can be pulled out into a method. No heavy logic in views.
+
+***View Layer:*** **3** - See above
+
+***Workflow(not graded):*** **3** - Make a comment before merging a branch.
 
 #### Personal Notes on Assessment
 
+First group he's seen with styling! (we're also the last group of the day)
+
+Test validations...<br>
+  -we did, make test names more specific, and do it for everything.
+
+Be more explicit and verbose in testing. Indicate if something should be valid or not in variable names.
+
+Good use of test helper methods, but a few more could have been tossed in.
+
+def test_responds_to_all_relationships<br>
+pr = PayloadRequest.new<br>
+assert pr.respond_to? :url<br>
+assert pr.respond_to? :event_name<br>
+assert pr.respond_to? :ip<br>
+
+Make sure feature tests also test the dynamic elements of a page, and interact with the page.
+
+Consider Acceptance Testing
+
+Learn the glory of Find_By!
+
+Don't abbreviate - be explicit
+
+Make sure there's no logic in view layer. Formatting (.join(", ")), can be pulled out into a method. No heavy logic in views.
 
 # Community
 
 ### Attendance
-I didn't miss any days of class in Module 2.
+I was out sick on 2/10.
 
 ### Giving feedback
 Below is some feedback from my fellow students:
 
+Kimi K. "Kimi is a great partner, and made a great, though possibly unwilling, project lead. Kimi has a great work ethic, and knows what she's doing. I think she struggles with confidence when it comes to implementation. I think she could greatly improve her speed by just writing and debugging code rather than thinking about everything quite so long. That being said, I did find myself writing fewer bugs when paired with her, because we looked at it a little longer. I also think Kimi needs to feel more confident about just saying what she thinks - she's usually right! I'm glad to have worked with her, and look forward to doing so again."
+
+Brian R. "I hadn't worked with, or really talked to, Brian before this project. Now that I have, I'm sad it took so long. Brian did a great job of keeping us on track, stopping rabbit holes when we got a little lost, and staying positive, even when we were incredibly stuck. I think Brian would really gain from being more confident. He does a good job at tracing errors and correcting bugs, but lack of confidence sometimes means he doesn't write the code to get there in the first place. Getting more code on the screen and running tests more often would probably speed up his process, and be a big help to those around him. I would be glad to work with Brian on another project. I might even be able to do a single pull-up by then."
 
 ### Getting feedback
 Below is feedback I've gotten from my fellow students:
 
+"I worked with Brennan on the week-long Rush Hour project. Unfortunately, Brennan was very sick for the first few days of the project, but he still made an effort to come to class to work with us (once he confirmed that he was not contagious, which was appreciated). Brennan is skilled at communicating and talking through problems and he's always very calm, which is great for someone like me who can tend to get a bit stressed when I'm not understanding things right away. He also tried to get us to take more breaks from the code, which I also tend to have a hard time with. Overall, no complaints other than wishing he hadn't been so sick early on!" - Kimi K.
+
+“Brennan was a pleasure to work with throughout the project. It should be noted that in the course of a week Brennan dealt with a crippling flu and broken phone without complaining at all. He showed up and did his part. His demeanor when exploring solutions was always open and encouraging which made for a solid team dynamic. I noticed there were a few times that Brennan had ideas brewing that we didn’t explore. I would recommend him being a more assertive in expressing his ideas, even if he isn’t completely clear on if they will work. Brennan’s ruby style was excellent and I’m sure it will carry over into Rails and beyond." - Brian R.
 
 
 ### Being a community member
 <!-- Change this for mod 2 stuff -->
-During my second-try at the first module here at Turing I've mostly just tried to make sure I was getting what I needed out of the program, and figuring out where I can fit in.
-I recently took the lead on pushing up a Turing podcast. Production halted over the holidays, but I hope to get it picked back up very soon. I also attended most of the ~~DSA~~ Clarke Coin meetings hosted by Horace after school twice a week and took part in the Improv elective on Tuesdays.
+<!-- During my second-try at the first module here at Turing I've mostly just tried to make sure I was getting what I needed out of the program, and figuring out where I can fit in.
+I recently took the lead on pushing up a Turing podcast. Production halted over the holidays, but I hope to get it picked back up very soon. I also attended most of the ~~DSA~~ Clarke Coin meetings hosted by Horace after school twice a week and took part in the Improv elective on Tuesdays. -->
+I brought the podcast back with a vengance this module.
 
+I was appointed as the Posse anchor this module. I tried to make sure everyone was there as often as possible, and I offered help to module 1 students to make sure they understood what was going on, and had help on what they were working on at the time.
+
+I took part in most of the weekly improv classes.
 
 ## Review
 
