@@ -12,10 +12,10 @@
 [Original Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
 #### Scores
-**Functional Expectations:** 2.5  
+**Functional Expectations:** 3  
 **Test-Driven Development:** 3.5  
 **Encapsulation/Breaking Logic into Components:** 3.5  
-**Fundamental Ruby & Style:** TBD  
+**Fundamental Ruby & Style:** 3  
 **Sinatra/Web and Business Logic:** 3.5  
 **View Layer:** 3
 
