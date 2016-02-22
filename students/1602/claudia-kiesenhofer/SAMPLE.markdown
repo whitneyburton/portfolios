@@ -1,4 +1,4 @@
-l# Jeff Casimir - M4 Portfolio
+l# Claudia Kiesenhofer M1 Portfolio
 
 ## Individual
 
@@ -26,15 +26,13 @@ absence on Friday, May 3d.
 
 I completed the following individual work this module:
 
-#### Recursive Linked List
+#### Junglebeats Linked List
 
-* [GitHub URL](https://github.com/jcasimir/recursive_linked_list)
+* [GitHub URL](https://github.com/claudia108/junglebeats)
 * [Original Assignment](http://github.com/turingschool/challenges/linked_list.markdown)
 
 In this three-day project I implemented a linked list with recursion. It was
-evaluated by Horace with the following results:
-
-"This is one of the better linked list implementations I've ever seen."
+evaluated by Tess with the following results:
 
 * Ruby Syntax: 3
 * Decomposition: 3
