@@ -11,11 +11,11 @@ JavaScript.
 
 ### End of Module Assessment
 
-* Ruby Syntax: 3
-* Rails Basics: 3
-* Javascript Basics: 3
-* Workflow: 4
-* Collaboration: 3
+* Ruby Syntax: 
+* Rails Basics: 
+* Javascript Basics: 
+* Workflow: 
+* Collaboration: 
 
 ### Attendance
 
@@ -38,6 +38,20 @@ evaluated by Tess with the following results:
 * Decomposition: 3
 * Functionality: 3
 * Test-Driven Development: 3
+
+#### Nightwriter
+
+* [GitHub URL](https://github.com/claudia108/nightwriter)
+* [Original Assignment](http://github.com/turingschool/challenges/linked_list.markdown)
+
+In this three-day project I implemented a linked list with recursion. It was
+evaluated by Tess with the following results:
+
+* Overall Funcionality: 2
+* Fundamental Ruby Style: 3
+* Test-Driven Development: 2
+* Breaking Logic into Components: 3
+
 
 #### Robodoku
 
