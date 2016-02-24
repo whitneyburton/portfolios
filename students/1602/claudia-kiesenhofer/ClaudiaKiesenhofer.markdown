@@ -1,4 +1,4 @@
-l# Claudia Kiesenhofer M1 Portfolio
+# Claudia Kiesenhofer M1 Portfolio
 
 ## Individual
 
@@ -9,7 +9,7 @@ per week, read the "Eloquent JavaScript" book, and tried to apply these concepts
 in my individual and team projects. In the end I feel much more comfortable with
 JavaScript.
 
-### End of Module Assessment
+### Mid-Module Assessment
 
 * Ruby Syntax: 
 * Rails Basics: 
@@ -53,26 +53,15 @@ evaluated by Tess with the following results:
 * Breaking Logic into Components: 3
 
 
-#### Robodoku
-
-* [GitHub URL](https://github.com/jcasimir/robodoku)
-* [Original Assignment](http://github.com/turingschool/challenges/robodoku.markdown)
-
-In this week-long project I built a sudoku-solving machine. It was
-evaluated by Steve with the following results:
-
-"Good object decomposition, but it only solves the easiest of puzzles."
-
-* Ruby Syntax: 3
-* Decomposition: 4
-* Functionality: 2
-* Test-Driven Development: 3
-
 ## Team
 
 ### Projects
 
 I participated in the following team projects:
+
+#### Hyde
+
+
 
 https://github.com/turingschool/feedback
 
