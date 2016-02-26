@@ -29,7 +29,7 @@ I completed the following individual work this module:
 #### Junglebeats Linked List
 
 * [GitHub URL](https://github.com/claudia108/junglebeats)
-* [Original Assignment](http://github.com/turingschool/challenges/linked_list.markdown)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
 In this three-day project I implemented a linked list with recursion. It was
 evaluated by Tess with the following results:
@@ -42,9 +42,9 @@ evaluated by Tess with the following results:
 #### Nightwriter
 
 * [GitHub URL](https://github.com/claudia108/nightwriter)
-* [Original Assignment](http://github.com/turingschool/challenges/linked_list.markdown)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-In this three-day project I implemented a linked list with recursion. It was
+In this one-week project I implemented a en- and decripting method that coud read and write to files. It was
 evaluated by Tess with the following results:
 
 * Overall Funcionality: 2
@@ -61,7 +61,16 @@ I participated in the following team projects:
 
 #### Hyde
 
+* [GitHub URL](https://github.com/claudia108/hyde)
+* [Original Assignment](https://github.com/turingschool/curriculum/source/projects/hyde/index.markdown)
 
+In this four-day project I implemented a blog. It was
+evaluated by Mike with the following results:
+
+* Overall Funcionality: 
+* Fundamental Ruby Style: 
+* Test-Driven Development: 
+* Breaking Logic into Components: 
 
 https://github.com/turingschool/feedback
 
