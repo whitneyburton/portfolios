@@ -1,4 +1,5 @@
 **Project:** Hyde
+
 **Group Member Names:** Matt Pindell, Sal Espinosa
 
 **What does each group member hope to get out of the project? What are your goals and expectations for the project?**
@@ -12,12 +13,17 @@ Team members are each available after Turing's normal hours. Both anticipate tha
 Since group members will be working in the same space communication will be in person. To the degree that changes/additions are contemplated when not together, team members will use slack to communicate, and waffle.io to track issues.
 
 **What is each group member’s self-identified strength(s) technically? What does each group member want to improve on technically? How can the team assist with these improvements?**
+
 *Strengths*
+
 **Sal** Believes that he has shown an ability to get things done. In past projects he has generally been able to complete the project requirements and some or all of the extensions.
+
 **Matt**
 
 *Improvements*
+
 **Sal** Would like to work on cleaning code/refactoring and ensuring that the code reflects the problem (i.e. working to make sure code clearly shows that problems have been broken into their logical components.)
+
 **Matt** Would like to work on TDD.
 
 **Which feature(s) does each group member want to work on? Which feature(s) does each group member not want to work on?**
