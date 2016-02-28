@@ -18,13 +18,13 @@ Since group members will be working in the same space communication will be in p
 
 **Sal** Believes that he has shown an ability to get things done. In past projects he has generally been able to complete the project requirements and some or all of the extensions.
 
-**Matt**
+**Matt** Feels that, over the course of the Echo projects, he has  increased his understanding of the Ruby fundamentals - as well as his ability to communicate his thoughts while pairing.
 
 *Improvements*
 
 **Sal** Would like to work on cleaning code/refactoring and ensuring that the code reflects the problem (i.e. working to make sure code clearly shows that problems have been broken into their logical components.)
 
-**Matt** Would like to work on TDD.
+**Matt** Would like to focus on general Ruby Style, specifically implementing suggestions from POODR, as well as breaking methods down into their logical components.
 
 **Which feature(s) does each group member want to work on? Which feature(s) does each group member not want to work on?**
 Given that this project is the first opportunity for 1602 to work together in pairs, the team members agree that both team members should have a hand in all parts of the project to the degree possible. Neither team member was able to identify a specific item that they didn't want to work on.
