@@ -33,6 +33,13 @@
 
 ### Mid-Module Diagnostic
 
+**Analytic/Algorithmic Thinking**: 3.5
+**Ruby Syntax & Standard Ligrary**: 3
+**Rails Syntax & API**: 4
+**Rails Style**: 3
+**Testing**: 3
+**Collaboration**: 4
+
 ### Final Assessment
 
 ## Non Evaluated Projects
