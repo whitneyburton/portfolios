@@ -39,24 +39,6 @@ In this one week project, I built a REPL interface that allowed a user to play t
 * [GitHub URL](https://github.com/s-espinosa/binary_search_trees)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
-Using Test Driven Development, I created classes for four separate sorting algorithms, and an alternative implementation of one of those algorithms. I also created a namespaced Benchmarking class that allowed me to determine which of the sorting algorithms worked the fastest on a given hash. I completed all extensions for this projects.
-
-*Evaluation Comments*
-* One thing to consider when refactoring is if you can put restrictions on yourself. How would you do this if you didn't allow yourself to use X method?
-
-
-*Evaluation Scores*
-* Functional Expectations: 4
-* Testing: 4
-* Ruby Style: 3
-* Organization: 4
-
-
-####Sorting Suite
-
-* [GitHub URL](https://github.com/s-espinosa/sorting_suite)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
-
 Over the course of 3 days, I created a binary search tree class that had the ability to add new nodes, sort nodes, identify the max/min value, check to see if values were included, report on the depth of nodes with specific values, load from an external text file, and report on the health of the tree. Additionally, I completed two extensions: adding leaves/height methods, and the ability to delete nodes.
 
 *Evaluation Comments*
@@ -69,6 +51,24 @@ Over the course of 3 days, I created a binary search tree class that had the abi
 * Encapsulation / Breaking Logic into Components: 3
 * Fundamental Ruby Style: 3
 * Looping or Recursion: 3
+
+
+####Sorting Suite
+
+* [GitHub URL](https://github.com/s-espinosa/sorting_suite)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
+
+Using Test Driven Development, I created classes for four separate sorting algorithms, and an alternative implementation of one of those algorithms. I also created a namespaced Benchmarking class that allowed me to determine which of the sorting algorithms worked the fastest on a given hash. I completed all extensions for this project.
+
+*Evaluation Comments*
+* One thing to consider when refactoring is if you can put restrictions on yourself. How would you do this if you didn't allow yourself to use X method?
+
+
+*Evaluation Scores*
+* Functional Expectations: 4
+* Testing: 4
+* Ruby Style: 3
+* Organization: 4
 
 
 ####Complete Me
@@ -97,12 +97,12 @@ Over the course of 3 days, I created a class with autocomplete functionality usi
 
 During this module I completed two team projects. For the first project I worked with [Matt Pindell](https://github.com/pindell-matt) on a project that Turing called Hyde (based on and referencing the [Jekyll](http://jekyllrb.com/) static page generating blogging software).
 
-#### (Project Name)
+#### Hyde
 
 * [GitHub URL](https://github.com/pindell-matt/hyde)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/hyde/index.markdown)
 
-Matt and I worked to develop Hyde, a static page generating engine that works from the command line in the vein of Jekyll. This was our first paired project, and there were two decisions that Matt and I thought were important up front: work in the same space as much as possible, and get an early start. Both paid off in the end as we were able to work together to complete the project, take time to refactor, and push to complete the two extensions required to push the Functional Expectations portion of our score to a 4. Looking back, I think Matt helped me to develop some solid strategies around refactoring, and breaking up problems, while at the same time feeling like I made meaningful contributions to the shape, logic, and breakthroughs that we had while working towards the end product.
+Matt and I worked together to develop Hyde, a static page generating engine that works from the command line in the vein of Jekyll. This was our first paired project and there were two decisions that Matt and I thought were important up front: work in the same space as much as possible, and get an early start. Both paid off in the end as we were able to work together to complete the project, take time to refactor, and push to complete the two extensions required to push the Functional Expectations portion of our score to a 4. Looking back, I think Matt helped me to develop some solid strategies around refactoring, and breaking up problems, while at the same time feeling like I made meaningful contributions to the shape, logic, and breakthroughs that we had while working towards the end product.
 
 *Evaluation Comments*
 * Fully functional
@@ -124,11 +124,15 @@ Matt and I worked to develop Hyde, a static page generating engine that works fr
 
 ### Giving Feedback
 
-(feedback from me)
+* Kris was the first person I paired with today who went through the tests provided to identify all of the methods that the Robot class needed to have. It was just an approach that no one else brought to the problem that I thought was both refreshing and pretty smart. To me, it showed a real understanding of the testing process, the relationship between tests and the code it's testing, and just a general sense of how code works (i.e. the relationship between an object and its methods).
+* Chris did a great job taking control and driving the project. He was able to keep things moving and actually implement code while both Thom and I lobbed ideas at him. It's hard with shorter projects, but I think as a group we could've been better at sharing that responsibility and giving Chris some time to pitch ideas and some relief from the nitty gritty of making things work.
+* It's great to bounce ideas around with Thom. Multiple times in our short session (and in other interactions we've had), I felt he helped me to think through the problem, poked holes in some of my initial thoughts, and provided ideas for other ways to approach the issue at hand. It's hard in a short session, but I think as a group we could potentially do a better job of sharing the 'driving' responsibility to make sure it didn't feel like Thom and I were telling Chris what to do the whole time.
 
 ### Being a Community Member
 
-(feedback to me)
+* Sal is great to pair with, he really takes time to explain why he's doing certain things so I can understand. I felt like I learned more about Ruby from the pairing. He's patient, smart, and kind. I don't know what to suggest to do in the future and what is standing between him and his potential. He seems like he's getting to great heights all by himself. I really enjoyed working with Sal.
+* Sal is great at contributing his ideas without overriding the collaborative process. If we teamed up again, we could take turns on who's driving to shake up the dynamics of the group.
+* Sal did an excellent job communicating with the team and sharing ideas. Something the team could do better next time, we should have run the unit tests first to establish a solid baseline.
 
 ### Playing a Part
 
