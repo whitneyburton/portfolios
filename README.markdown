@@ -28,6 +28,13 @@ Here are some notes about expectations for this cycle:
 * Posse challenges (5)
 * Feedback: Self-Solicited and from Feedback App
 
+__Soft Skills / Protocol Requirements__
+
+1. 1 DTR memo from a project during the module
+2. 1 Blog post
+3. 2 examples of well-written pull requests
+4. 1 example of a well-written project readme
+
 ### Module 2
 
 * Evaluation notes
