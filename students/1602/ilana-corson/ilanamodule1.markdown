@@ -4,10 +4,7 @@ l# Ilana Corson - M1 Portfolio
 
 ### Areas of Emphasis
 
-Coming into this module I felt weak on JavaScript. I used Exercism three times
-per week, read the "Eloquent JavaScript" book, and tried to apply these concepts
-in my individual and team projects. In the end I feel much more comfortable with
-JavaScript.
+This being my first module, I wanted to emphasis ruby syntax and just general basics of understanding
 
 ### End of Module Assessment
 
@@ -19,14 +16,13 @@ JavaScript.
 
 ### Attendance
 
-This module I attended all days and classes on-time with the exception of an
-absence on Friday, May 3d.
+I had to leave early a few days during the module but did not miss any full days.
 
 ### Work
 
 I completed the following individual work this module:
 
-#### Recursive Linked List
+#### Jungle Beats
 
 * [GitHub URL](https://github.com/jcasimir/recursive_linked_list)
 * [Original Assignment](http://github.com/turingschool/challenges/linked_list.markdown)
@@ -85,7 +81,7 @@ According to the Feedback application:
 ### Playing a Part
 
 * I have participated in the weekly meeting of the Joan Clarke Society
-* I was present or worked on my posse challenge every week. 
+* I was present or worked on my posse challenge every week.
 * On Wednesday, June 30, I delivered "Hello, Mr. Roboto" at Community Night
 * On Saturday, July 15, I organized a bike ride attended by seven Turing students
 * On Thursday, July 24, I published a blog post "How To Link Your Lists" on my
