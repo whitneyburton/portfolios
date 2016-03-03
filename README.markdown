@@ -38,7 +38,7 @@ __Soft Skills / Protocol Requirements__
 ### Module 2
 
 * Evaluation notes
-* Mentor sessions (>=3) 
+* Mentor sessions (>=3)
 * Blog post (>=1)
 * Self-solicited continual peer feedback
 * Posse challenges (5)
