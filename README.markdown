@@ -48,11 +48,12 @@ __Soft Skills / Protocol Requirements__
 
 ### Module 3
 
-* Individual Assessment: Only if needed
+* Individual Assessment
 * Required Project: Self-Directed Project
-* Included Projects: APIcurious, Rales Engine, The Pivot
+* Included Projects: Rales Engine, The Pivot
+* Bonus Project (not required): APIcurious
 * Feedback: Self-Solicited
-* Posse challenges (5)
+* Posse challenges (4/5)
 
 ### Module 4
 
