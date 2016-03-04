@@ -60,7 +60,7 @@ __Soft Skills / Protocol Requirements__
 * Required Project: GameTime
 * Included Projects: RealTime, ScaleUp
 * Feedback: Self-Solicited
-* Posse challenges (5)
+* Posse challenges (4/5)
 
 ## Authoring Process
 
