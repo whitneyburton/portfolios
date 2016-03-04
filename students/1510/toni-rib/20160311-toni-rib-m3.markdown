@@ -93,7 +93,7 @@ __Technical Scores__
 
 ### Being a Community Member
 
-(feedback to me)
+* From Marina Corona (Tuesdays w/Toni): "The two times I’ve paired with Toni, I have been thoroughly impressed with her ability to look at someone else’s code, understand it and give clear and concise feedback.  With our Black Thursday project, she was able to draw out the overall project and help us with our understanding of the overall architecture.  Without giving us the answer, she gave us some great ideas on how to pair.  I’m incredibly impressed with her ability to give to the Turing community through tutoring, while managing her large projects and am very grateful to have her a part of our school."
 
 ### Playing a Part
 
