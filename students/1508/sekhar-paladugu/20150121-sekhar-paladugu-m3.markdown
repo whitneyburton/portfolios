@@ -12,9 +12,9 @@ I attended all classes this module and missed zero required activities.
 
 ### Work
 
-I was pretty happy with my performance on every project this module. The Pivot was my favorite group project of Turing, and I had a solid team that put in consistent, good hours in the project, coming in the whole weekend and pairing regularly on pieces of the codebase. I focused on testing on that project since I had been weak on that coming in, and it set me up well for later projects. For APICurious, I loved that within a week I was able to consume the Twitter API and build a fun, humorous app parsing people's tweets with sheep-related vocabulary ("Critter"). Rails Engine was difficult, especially the first night doing Business Logic, but getting through the end and building most of it was satisfying. I was proud of my work on that project especially.
+I was pretty happy with my performance on every project this module. The Pivot was my favorite group project of Turing, and I had a solid team that put in consistent, good hours in the project, coming in the whole weekend and pairing regularly on pieces of the codebase. I focused on testing on that project since I had been weak on that coming in, and it set me up well for later projects. For APICurious, I loved that within a week I was able to consume the Twitter API and build a fun, humorous app parsing people's tweets with sheep-related vocabulary ("Critter"), as well as test the external API with the newly learned VCR tool. Rails Engine was difficult, especially the first night doing Business Logic, but getting through the end and building most of it was satisfying. I was proud of my work on that project especially.
 
-For the Personal Project, I build a small prototype app for a friend's library software company, geared at Elementary School students. The project was a beast in terms of building out the testing suite, getting Google OAuth working, and building a foolproof schema based on my weak database skills. Overall, in the final 48 hours everything came together, and I cut it closer than usual when finishing this project. I'm happy with the app and ready to demo it tonight, but I'm most disappointed in the fact that I didn't build about half the features I thought I could tackle in two weeks. I will continue working on this project over intermission since it will be in my portfolio for employers. I'm probably most proud of OAuth done with Google, and with the testing suite.
+For the Personal Project, I build a small prototype app for a friend's library software company, geared at Elementary School students. The project was a beast in terms of building out the testing suite, getting Google OAuth working, and building a foolproof schema based on my weak database skills. Overall, in the final 48 hours everything came together, and I cut it closer than usual when finishing this project. I'm happy with the app and ready to demo it tonight, but I'm most disappointed in the fact that I didn't build about half the features I thought I could tackle in two weeks. I will continue working on this project over intermission since it will be in my portfolio for employers. I'm probably most proud of OAuth done with Google, and with the testing suite that had coverage at all levels, VCR and Webmock.
 
 ## Projects
 
@@ -37,7 +37,7 @@ performance: 4
 
 repo: github.com/sekharp/rails-engine
 instructor: Andrew
-notes: Exceptional queries. Not so great test suite. Could have had a lot more controller tests. There where a handful of merchant model tests which I liked to see. Code quality was also good.
+notes: Exceptional queries. Not so great test suite. Could have had a lot more controller tests. There were a handful of merchant model tests which I liked to see. Code quality was also good.
 completion: 3
 test-driven-development: 3
 code-quality: 4
@@ -122,28 +122,26 @@ My feedback to Matt Rooney: "I thoroughly enjoyed working with Matt this module 
 
 ### Being a Community Member
 
-Pat Wey: "It great to work with Sekhar on the Pivot. He kept things light and fun, and his
-work was strong.  His skill as a developer combined with his interpersonal skills
-to make him a great person to pair with. I was especially impressed with his initiative
-to build out our test suite. I look forward to working with him again in the future :)"
+Pat Wey: "It great to work with Sekhar on the Pivot. He kept things light and fun, and his work was strong.  His skill as a developer combined with his interpersonal skills to make him a great person to pair with. I was especially impressed with his initiative to build out our test suite. I look forward to working with him again in the future :)"
 
 Matt Rooney: "I was lucky enough to have the pleasure of working with Sekhar on the Pivot and a student lead session. Sekhar’s ability to thoroughly communicate during pairing and planning were crucial to our project’s and session's success. He’s always willing to help his teammates and allows everyone to feel included. I look forward to working with Sekhar again. Also, his sense of humor is ok, I guess. What else do I need to say to get him to stop bothering me?"
 
 ### Playing a Part
 
--Put up art on the walls at Turing
--Organized gifts for teachers for the end of module 3 (they are hilarious, won't spoil them here)
--Planned a brief Josh Cheek going away party with a cake, also collected money to buy the cake that said "1508 Loves Josh" on it
--Did and interview and helped write/published with Course Report a Student Spotlight piece, covering my experience as a student at Turing
--Co-led and taught an Intro to Elm Programming elective class on a Friday with Matt Rooney
--Interviewed with Colorado Impact Fund on my experience at Turing and in the intensive programming school space in general, and introduced that team to another student at Turing (George Hudson) and staff members
--Helped organize the Turing holiday party with Joanne just before the break at Breckenridge Brewery
--Planned Field Day at 1Up, the arcade in LoDo, which I heard great feedback on
--Planned a first week LGBTuring lunch at Hapa this module, which had Module 1 students show up to
--Organized the LGBTuring event this module after Field Day, at Falling Rock Tap House. Had Module 1 students show up who identified as LGBT, and really enjoyed the community aspect of the group, even if it meets sporadically (twice a module)
--Student Advisory Board work in general / helping clean Turing / input to the staff and help with various mini-projects around Turing (cleaning chores calendar, soft skills surveys etc.)
--Brought all the breakfasts in this module (six Fridays), rotating between burritos and bagels
--No big deal, saved Josh Cheek $5400 by helping him rent his apartment for four months while he's gone :) refused his offer to give me a 25% cut
+*Put up art on the walls at Turing
+*Put up all faces and names on bulletin boards at Turing's entrance so folks would learn each other's names better and have a central reference
+*Organized gifts for teachers for the end of module 3 - actual rakes (large and small) from Ace Hardware as Turing props and Pat Wey trading cards I bought on ebay
+*Planned a brief Josh Cheek going away party with a cake during hell week, also collected money to buy the cake that said "1508 Loves Josh" on it from The Market
+*Did an interview and helped write/published with Course Report a Student Spotlight piece, covering my experience as a student at Turing
+*Co-led and taught an Intro to Elm Programming elective class on a Friday with Matt Rooney
+*Interviewed with Colorado Impact Fund on my experience at Turing and in the intensive programming school space in general, and introduced that team to another student at Turing (George Hudson) and staff members
+*Helped organize the Turing holiday party with Joanne just before the break at Breckenridge Brewery
+*Planned Field Day at 1Up, the arcade in LoDo, which I heard great feedback on
+*Planned a first week LGBTuring lunch at Hapa this module, which Module 1 students showed up to
+*Organized the LGBTuring event this module after Field Day, at Falling Rock Tap House. Also had Module 1 students show up who identified as LGBT, and really enjoyed the community aspect of the group, even as it meets sporadically (twice a module)
+*Student Advisory Board work in general / helping clean Turing / input to the staff and help with various mini-projects around Turing (cleaning chores calendar, soft skills surveys etc.)
+*Brought all the breakfasts in this module (six Fridays), rotating between burritos and bagels
+*No big deal, casually saved Josh Cheek $5400 by helping him rent his apartment for four months while he's gone :) Refused his offer to give me a 25% cut since it would be like taking candy from a child
 
 ## Review
 
