@@ -56,9 +56,9 @@ __Soft Skills / Protocol Requirements__
 
 ### Module 4
 
-* Individual Assessment: Yes
-* Required Project: Mastery Project
-* Included Projects: GameTime, ScaleUp
+* Individual Assessment: Only if needed
+* Required Project: GameTime
+* Included Projects: RealTime, ScaleUp
 * Feedback: Self-Solicited
 * Posse challenges (5)
 
