@@ -95,7 +95,7 @@ Over the course of 3 days, I created a class with autocomplete functionality usi
 
 ### Projects
 
-During this module I completed two team projects. For the first project I worked with [Matt Pindell](https://github.com/pindell-matt) on a project that Turing called Hyde (based on and referencing the [Jekyll](http://jekyllrb.com/) static page generating blogging software).
+During this module I completed two team projects. For the first project I worked with [Matt Pindell](https://github.com/pindell-matt) on a project that Turing called Hyde (based on and referencing the [Jekyll](http://jekyllrb.com/) static page generating blogging software). For the second, I worked with [Kris Foss](https://github.com/kristindiannefoss) on Turing's Black Thursday project in which we created repositories and analysis tools for mock sales data for an Etsy-like marketplace.
 
 #### Hyde
 
@@ -120,6 +120,18 @@ Matt and I worked together to develop Hyde, a static page generating engine that
 
 (feedback to me)
 
+####Black Thursday
+
+* [Github URL](https://github.com/kristindiannefoss/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
+Description
+
+*Evaluation Comments*
+
+*Evaluation Scores*
+
+
 ## Community
 
 ### Giving Feedback
@@ -134,9 +146,26 @@ Matt and I worked together to develop Hyde, a static page generating engine that
 * Sal is great at contributing his ideas without overriding the collaborative process. If we teamed up again, we could take turns on who's driving to shake up the dynamics of the group.
 * Sal did an excellent job communicating with the team and sharing ideas. Something the team could do better next time, we should have run the unit tests first to establish a solid baseline.
 
+
+### DTR Memo
+
+* DTR 1: Included in this folder in the repository. This memo describes the outcomes of the DTR between my partner for the Hyde project and me.
+* [DTR 2](https://github.com/kristindiannefoss/black_thursday/blob/master/DTR.md): Included in our Black Thursday repository.
+
+### February 29, Protocol Assignment
+
+#### Updated Readme
+During the February 29 Protocol I reviewed and updated the readme for my [Sorting Suite](https://github.com/s-espinosa/sorting_suite) project.
+
+#### Pull Requests
+
+* [Pull Request 1](https://github.com/kristindiannefoss/black_thursday/pull/7): Pull request to my partner for Module 1's second pair project after making adjustments to successfully run the spec harness. Describes the changes made and provides a recommended way forward.
+* [Pull Request 2](https://github.com/kristindiannefoss/black_thursday/pull/3): Also to my partner for the second pair project. Adjustments made to provide Travis CI functionality. Briefly describes the adjustments made and the reasons that those changes were necessary.
+
+
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+During my first module at Turing I've continuously worked to cultivate relationships with my in-module peers, as well as the larger Turing community. By and large this has come from simply being a decent human being trying to be there to listen when someone needed to vent, help with a project, or a pair to go over and think through Ruby exercises. My proudest moments have been quiet ones: someone from a later module saying "I like Sal" when they heard I was going to be paired with a person in their posse for a project; someone in my cohort jokingly calling me 'sensei,' and asking if I could pair on an exercise; staying late, after I knew I had finished all the work that I would do for the day, to walk through Enigma/Night Writer logic, or act as part of the most helpful peanut gallery I've ever been a part of as another pair finished their work for the day. I've consistently shown up to work with my posse, and took lead on two of the projects that we completed, though it honestly feels like the most important time we had there was talking about Star Wars, projects we were working on, and everything besides the posse challenges. I learned that the quickest way to make someone's day was to compliment them on a t-shirt, sticker, or background image both by being on the giving and receiving end of those compliments. I feel like our cohort took a little while to get used to each other, but now that we have I find that we're constantly looking for ways to be nice to each other. Maybe because we all know how draining this has been. My contributions haven't been formally organized or presented, but I do think I've consciously worked to see if I could make Turing a better place for the students.
 
 ## Review
 
