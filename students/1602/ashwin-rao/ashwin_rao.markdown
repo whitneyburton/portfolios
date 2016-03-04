@@ -1,92 +1,120 @@
-l# Jeff Casimir - M4 Portfolio
+# Ashwin Rao - M1 Portfolio
+
+- consider making nice tables
+- ask Troy for feedback
+- insert pull request link
+- DTR memo
+
+=======================================
 
 ## Individual
 
 ### Areas of Emphasis
 
-Coming into this module I felt weak on JavaScript. I used Exercism three times
-per week, read the "Eloquent JavaScript" book, and tried to apply these concepts
-in my individual and team projects. In the end I feel much more comfortable with
-JavaScript.
+I have almost no coding background. As a result, my primary area of emphasis will be on understanding how to make good decisions in designing programs as well as becoming comfortable with all the tools that ruby makes available.
 
 ### End of Module Assessment
 
-* Ruby Syntax: 3
-* Rails Basics: 3
-* Javascript Basics: 3
-* Workflow: 4
-* Collaboration: 3
-
-### Attendance
-
-This module I attended all days and classes on-time with the exception of an
-absence on Friday, May 3d.
+Category | Score
+--- | --- | ---
+Ruby Syntax | TBD
+Rails Basics | TBD
+Javascript Basics | TBD
+Workflow | TBD
+Collaboration | TBD
 
 ### Work
 
-I completed the following individual work this module:
+#### HTTPYYKM
 
-#### Recursive Linked List
+* [GitHub URL](https://github.com/emblou2/http_yeah_you_know_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-* [GitHub URL](https://github.com/jcasimir/recursive_linked_list)
-* [Original Assignment](http://github.com/turingschool/challenges/linked_list.markdown)
+The purpose of this project was to create a simple web application that can communicate with a user through http.
 
-In this three-day project I implemented a linked list with recursion. It was
-evaluated by Horace with the following results:
+**I received the following comments and results:**
 
-"This is one of the better linked list implementations I've ever seen."
+"Making progress on decomposition of the system -- have 2 quite useful domain objects in the Request and Response classes and their usage is pretty consistent.
 
-* Ruby Syntax: 3
-* Decomposition: 3
-* Functionality: 3
-* Test-Driven Development: 3
+Testing of these 2 also pretty effective -- getting better at carving these chunks to wrap into an object and test - still just need to keep pushing this further.
 
-#### Robodoku
+Interesting discussion around what makes parts of this system hard to test -- if we can't change this then we can at least minimize our dependence on it...
 
-* [GitHub URL](https://github.com/jcasimir/robodoku)
-* [Original Assignment](http://github.com/turingschool/challenges/robodoku.markdown)
+Test suite is pretty good at mixing some integration tests that actually run and hit the server and some unit tests of the request/response objects that are defined."
 
-In this week-long project I built a sudoku-solving machine. It was
-evaluated by Steve with the following results:
 
-"Good object decomposition, but it only solves the easiest of puzzles."
+Category | Score
+--- | --- | ---
+Overall Functionality | 3
+Fundamental Ruby & Style | 3
+Test Driven Development | 3
+Breaking Logic into Components | 3
 
-* Ruby Syntax: 3
-* Decomposition: 4
-* Functionality: 2
-* Test-Driven Development: 3
+#### Night Writer
+
+* [GitHub URL](https://github.com/theonlyrao/hw/tree/master/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+
+This purpose of this project was to create a program that could be executed from the command line, read a file with contents in English or Braille, translate those contents to the other, and then write the translation to another file.
+
+**I received the following comments and results:**
+
+"I/O is very clean; appreciate isolation of this into its own file with minimal connections to other code. Like overall structure and division of responsibilities between various objects. Seem to be improving a lot in the ability to deconstruct complex processes into code."
+
+Category | Score
+--- | --- | ---
+Overall Functionality | 3
+Fundamental Ruby & Style | 3
+Test Driven Development | 3
+Breaking Logic into Components | 3
+
+#### Jungle Beats
+
+* [GitHub URL](https://github.com/theonlyrao/hw/tree/master/jungle_beats)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
+
+In this three-day project I implemented a linked list with looping.
+
+**It was evaluated by Andrew with the following results:**
+
+"Tdd - from what was turned in does not appear to have strong use of tdd. We looked at an old commit and saw much better use, however in a final push to finish the project that work was lost and not turned in... good use of loops and understanding of them."
+
+Category | Score
+--- | --- | ---
+Functional Expectations | 1
+Fundamental Ruby & Style | 2
+Test-Driven Development | 1
+Breaking Logic into Components | 3
+Looping *or* Recursion | 3
+
+#### Other related items
+
+* [Blog post](http://theonlyrao.com/2016/02/27/ways-of-thinking/)
+* [Readme (NightWriter)](https://github.com/theonlyrao/hw/tree/master/night_writer)
+* [DTR memo](BlackThursday)
+* [Pull request]()
+
+=======================================
 
 ## Team
 
-### Projects
+#### Feedback from me
 
-I participated in the following team projects:
+I gave feedback every time the feedback bot requested me to give it.
 
-https://github.com/turingschool/feedback
+#### Feedback about me
+**from students**
 
-### Feedback to Me
+"Ashwin is easy to talk to, flexible and patient. He's easy-going but stays on task and encourages his pairing partner to do the same." - Jeneve Parrish, 2/19/16
 
-In the previous module feedback from my peers encouraged me to ask for help
-more frequently rather than get stuck and stay there. This module I set a timer
-when I ran into a problem and, if I got to 20 minutes without progress, I'd ask
-for help. My feedback this module showed improvement and teammates said I'm a
-better collaborator.
+**From staff**
+
+=======================================
 
 ## Community
 
-### Giving Feedback
+This module I attended every meeting of our posse. I also showed enthusiasm for our work, recognized my teammates for their abilities, and encouraged the effort put by the staff into the posses.
 
-According to the Feedback application:
+On my HTTP project, I was paired with someone who dropped out of Turing a few days into the project. On my Black Friday project, I was paired with someone who realized that she would be repeating within a few days of beginning the project.
 
-* I delivered 100% of the requested feedback
-* 96% of those submissions were approved and delivered
-* 84% of my submissions were meaningful to the recipient
-
-### Playing a Part
-
-* On Friday, June 20, I ran a student-led workshop on Tweaking Your Text Editor
-* On Friday, June 27, I delivered a lightning talk "Hello, Mr. Roboto"
-* On Wednesday, June 30, I delivered "Hello, Mr. Roboto" at Community Night
-* On Saturday, July 15, I organized a bike ride attended by seven Turing students
-* On Thursday, July 24, I published a blog post "How To Link Your Lists" on my
-personal blog and it was included in that week's Posse Post
+In both of these occasions, I tried to serve my parter and develop their skills instead of abandoning them in order to achieve passing grades and graduate from the module.
