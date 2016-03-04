@@ -15,8 +15,7 @@ Coming into the first module I had three main goals. Without having any programi
 
 ### Attendance
 
-This module I attended all days and classes on-time with the exception of an
-absence on Friday, May 3d.
+This module I attended all days and classes on-time.
 
 ### Work
 
@@ -40,7 +39,7 @@ evaluated by Tess with the following results:
 * [GitHub URL](https://github.com/claudia108/nightwriter)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-In this one-week project I implemented a en- and decripting method that coud read and write to files. It was
+In this one-week project I implemented a en- and decripting method that coan read from and write to files. It was
 evaluated by Tess with the following results:
 
 * Overall Funcionality: 2
@@ -53,7 +52,7 @@ evaluated by Tess with the following results:
 
 ### Projects
 
-I participated in the following team projects:
+I participated in the following 2 team projects:
 
 #### Hyde
 
@@ -76,34 +75,67 @@ Notes from Mike:
 * Could pull out some longer bits of code to their own methods to help with readability an organization.
 * FILE io stuff could be pulled out to own module or class.
 
+
+#### Black Thursday
+
+* [GitHub URL](git@github.com:Claudia108/black_thursday.git)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
+In this two week project I worked with Patrick Hardy. It was
+evaluated by ? with the following results:
+
+* Functional Expectations: 
+* Test-Driven Development: 
+* Encapsulation / Breaking Logic into Components: 
+* Fundamental Ruby & Style: 
+* Enumerable & Collections: 
+* Code Sanitation: 
+
+Notes from : 
+* 
+
 https://github.com/turingschool/feedback
 
-### Feedback to Me
-
-During my partner projects my colleague and I gave each other writeen feedback after the first day of collaboration and towards the end of the project. This helped to identify what worked well and what could be improved. We could focus on those areas of improvement during the project time.
-
-
-In the previous module feedback from my peers encouraged me to ask for help
-more frequently rather than get stuck and stay there. This module I set a timer
-when I ran into a problem and, if I got to 20 minutes without progress, I'd ask
-for help. My feedback this module showed improvement and teammates said I'm a
-better collaborator.
 
 ## Community
 
+### Feedback to Me
+
+Aside from the required feedback for short pairing sessions with peers my colleagues and I gave each other writeen feedback during the partner projects - one at the beginning and another one towards the end of the project. This helped to identify what worked well and what could be improved. We could focus on those areas of improvement during the project time.
+
+https://turingschool.slack.com/archives/D0NG6K0NL/p1456274895000005
+https://turingschool.slack.com/archives/D0NG6K0NL/p1456459709000002
+
+https://turingschool.slack.com/archives/D0PGKKD5G/p1457021364000003
+
 ### Giving Feedback
 
-According to the Feedback application:
+Feedback to my project parters:
+https://turingschool.slack.com/archives/D0NG6K0NL/p1456274428000003
+https://turingschool.slack.com/archives/D0NG6K0NL/p1456446043000005
 
-* I delivered 100% of the requested feedback
-* 96% of those submissions were approved and delivered
-* 84% of my submissions were meaningful to the recipient
+https://turingschool.slack.com/archives/D0PGKKD5G/p1456893076000014
+
+### Instructor Feedback
+
+In week 5 I worked with Horace for an hour pairing session. 
+I got the following feedback from him:
+https://gist.github.com/Claudia108/a0ad9bc16918b18aa6d1
+
+### Blog Post
+
+I wrote the following blog post about my project Junglebeats
+https://gist.github.com/Claudia108/a0ad9bc16918b18aa6d1
+
+### Posse Challenges
+
+We met on most mornings throughout the module to work on the posse challenges. Towards the end of the module most of my posse members were busy with their own projects and didn't have much surplus to meet. Going into the next module I am planning to reach out more to my posse member to see if we can meet outside of school to get to know each other better. I hope this will help to get us more connected and be able to tap more into the resources of the group. 
+
+Challenge week one: https://github.com/thompickett/codebreaker
+Challenge week four: https://github.com/thompickett/codebreaker
+
 
 ### Playing a Part
 
-* On Friday, June 20, I ran a student-led workshop on Tweaking Your Text Editor
-* On Friday, June 27, I delivered a lightning talk "Hello, Mr. Roboto"
-* On Wednesday, June 30, I delivered "Hello, Mr. Roboto" at Community Night
-* On Saturday, July 15, I organized a bike ride attended by seven Turing students
-* On Thursday, July 24, I published a blog post "How To Link Your Lists" on my
-personal blog and it was included in that week's Posse Post
+* 
+* 
