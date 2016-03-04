@@ -24,7 +24,7 @@ I completed the following individual work this module:
 
 #### Junglebeats Linked List
 
-* [GitHub URL](https://github.com/claudia108/junglebeats)
+* [GitHub URL](git@github.com:Claudia108/jungle-beats.git)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
 In this three-day project I implemented a linked list with recursion. It was
@@ -60,17 +60,28 @@ I participated in the following team projects:
 * [GitHub URL](https://github.com/claudia108/hyde)
 * [Original Assignment](https://github.com/turingschool/curriculum/source/projects/hyde/index.markdown)
 
-In this four-day project I implemented a blog. It was
+In this four-day project I worked with Mark Miranda. It was
 evaluated by Mike with the following results:
 
-* Overall Funcionality: 
-* Fundamental Ruby Style: 
-* Test-Driven Development: 
-* Breaking Logic into Components: 
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* Code Sanitation: 4
+
+Notes from Mike: 
+* all expected functionality works
+* 12 tests, all passing
+* Could pull out some longer bits of code to their own methods to help with readability an organization.
+* FILE io stuff could be pulled out to own module or class.
 
 https://github.com/turingschool/feedback
 
 ### Feedback to Me
+
+During my partner projects my colleague and I gave each other writeen feedback after the first day of collaboration and towards the end of the project. This helped to identify what worked well and what could be improved. We could focus on those areas of improvement during the project time.
+
 
 In the previous module feedback from my peers encouraged me to ask for help
 more frequently rather than get stuck and stay there. This module I set a timer
