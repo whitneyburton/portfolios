@@ -14,7 +14,9 @@ This module I would like to get comfortable getting data from APIs both through 
 
 #### APIcurious
 
-(stuff here)
+* [GitHub URL]()
+* [Original Assignment]()
+* [Live Heroku Version]()
 
 #### Rails Engine
 
@@ -82,6 +84,8 @@ __Technical Scores__
 ### Posse Challenges
 
 [Hopper Posse Repo](https://github.com/ToniRib/posse_challenges)
+
+* 4/5 posse challenges completed
 
 ### Protocol
 
