@@ -12,9 +12,11 @@ This module I would like to get comfortable getting data from APIs both through 
 
 ### Individual Projects
 
-(Intro)
+#### APIcurious
 
-#### (Project Name)
+(stuff here)
+
+#### Rails Engine
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -25,6 +27,9 @@ This module I would like to get comfortable getting data from APIs both through 
 (evaluation comments)
 
 (evaluation scores)
+
+#### runHacker
+(stuff here)
 
 ## Team Projects
 
@@ -54,10 +59,10 @@ __Client Notes__
 
 __Client Scores__
 
-* Completion: 3: Team completed all the user stories and requirements set by the client.
-* Organization: 4: Team used a project management tool and updated their progress in real-time.
-* User Experience: 4: Project exhibits a production-ready and polished UX.
-* Extensions: 4: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature. Developers explored concepts and technologies outside the scope of the curriculum.
+* Completion: 3 - Team completed all the user stories and requirements set by the client.
+* Organization: 4-  Team used a project management tool and updated their progress in real-time.
+* User Experience: 4 - Project exhibits a production-ready and polished UX.
+* Extensions: 4 - Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature. Developers explored concepts and technologies outside the scope of the curriculum.
 
 __Technical Scores__
 
@@ -66,6 +71,21 @@ __Technical Scores__
 * Git Workflow: 4 - from Josh Mejia
 
 ## Community
+
+### Posse Challenges
+
+[Hopper Posse Repo](https://github.com/ToniRib/posse_challenges)
+
+### Protocol
+
+#### Good Pull Requests
+
+1. https://github.com/martensonbj/little_shop/pull/27
+2.
+
+#### README
+
+1. ["The Pivot" README written by me](https://github.com/jwperry/the_pivot)
 
 ### Giving Feedback
 
@@ -78,6 +98,8 @@ __Technical Scores__
 ### Playing a Part
 
 * Continued 'Tuesdays with Toni' to pair with two students every Tuesday for the entire module.
+* Wrote a [blog post](http://tonirib.github.io/personal-blog/jekyll/update/2016/02/15/rails-application-template.html) for the Turing email about Rails Application Templates and taught a student led session on it in addition to my lightning talk.
+* Made coffee a few times a week
 
 ## Review
 
