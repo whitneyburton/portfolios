@@ -1,6 +1,5 @@
 # Ashwin Rao - M1 Portfolio
 
-- consider making nice tables
 - ask Troy for feedback
 - insert pull request link
 - DTR memo
@@ -17,11 +16,23 @@ I have almost no coding background. As a result, my primary area of emphasis wil
 
 Category | Score
 --- | --- | ---
-Ruby Syntax | TBD
-Rails Basics | TBD
-Javascript Basics | TBD
+Ruby Syntax & API| TBD
+Ruby Style | TBD
+Blocks & Enumerables | TBD
+TDD | TBD
 Workflow | TBD
 Collaboration | TBD
+
+### Mid-Module Assessment
+
+Category | Score
+--- | --- | ---
+Ruby Syntax & API| 3
+Ruby Style | 3
+Blocks & Enumerables | 3
+TDD | 3
+Workflow | 3
+Collaboration | 3
 
 ### Work
 
