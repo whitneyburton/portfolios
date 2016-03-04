@@ -4,15 +4,11 @@
 
 ### Areas of Emphasis
 
-Coming into this module I felt weak on JavaScript. I used Exercism three times
-per week, read the "Eloquent JavaScript" book, and tried to apply these concepts
-in my individual and team projects. In the end I feel much more comfortable with
-JavaScript.
+Coming into the first module I had three main goals. Without having any programing I first of all wanted to find out if I actually like to program and am capable and interested in understanding the concepts of programing languages. The second goal was to check out the community of programer and find out if feel I can thrive in that environment. Thirdly I wanted to really understand the concepts of Ruby and learn how to effectively use its rich library to create programs using its rich library of options. At the end of module 1 I am very happy about the choice I made. I really enjoy programing and feel very much a part of this community already. I am still in progress reaching my third goal and realize it will probably take quite some time of practise to fully getting there. I am satisfied with my progress so far though.
 
 ### Mid-Module Assessment
 
-* Ruby Syntax: 
-* Rails Basics: 
+* Ruby Syntax and Workfow: 2
 * Javascript Basics: 
 * Workflow: 
 * Collaboration: 
