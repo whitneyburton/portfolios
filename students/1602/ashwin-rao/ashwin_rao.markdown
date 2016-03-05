@@ -1,9 +1,5 @@
 # Ashwin Rao - M1 Portfolio
 
-- ask Troy for feedback
-- insert pull request link
-- DTR memo
-
 =======================================
 
 ## Individual
@@ -43,15 +39,21 @@ Collaboration | 3
 
 The purpose of this project was to create a simple web application that can communicate with a user through http.
 
-**I received the following comments and results:**
+I enjoyed learning about http and getting a better understanding of how a client communicates with a server, and how the server responds to the client.
 
-"Making progress on decomposition of the system -- have 2 quite useful domain objects in the Request and Response classes and their usage is pretty consistent.
+I was focusing on being attentive to moments in which I experienced difficulty writing tests, and responding to those moments as opportunities to create new objects. However, after Horace evaluated the project I saw that there was much more I could have done in this area.
 
-Testing of these 2 also pretty effective -- getting better at carving these chunks to wrap into an object and test - still just need to keep pushing this further.
+As a result, the relationship between testing and program decomposition is an area I continue to focus on.
 
-Interesting discussion around what makes parts of this system hard to test -- if we can't change this then we can at least minimize our dependence on it...
+**Horace evaluated this project with the following results:**
 
-Test suite is pretty good at mixing some integration tests that actually run and hit the server and some unit tests of the request/response objects that are defined."
+   "Making progress on decomposition of the system -- have 2 quite useful domain objects in the Request and Response classes and their usage is pretty consistent.
+
+   Testing of these 2 also pretty effective -- getting better at carving these chunks to wrap into an object and test - still just need to keep pushing this further.
+
+   Interesting discussion around what makes parts of this system hard to test -- if we can't change this then we can at least minimize our dependence on it...
+
+   Test suite is pretty good at mixing some integration tests that actually run and hit the server and some unit tests of the request/response objects that are defined."
 
 
 Category | Score
@@ -68,9 +70,13 @@ Breaking Logic into Components | 3
 
 This purpose of this project was to create a program that could be executed from the command line, read a file with contents in English or Braille, translate those contents to the other, and then write the translation to another file.
 
-**I received the following comments and results:**
+I enjoyed this project. During the first few days I found myself lost in a thicket of nested conditionals. Fortunately, the process of struggling with this caused me to see the light - objects!
 
-"I/O is very clean; appreciate isolation of this into its own file with minimal connections to other code. Like overall structure and division of responsibilities between various objects. Seem to be improving a lot in the ability to deconstruct complex processes into code."
+By the end of the project I had created new classes to handle the different jobs of separating, parsing, and translating the next. Although I can still improve in my handling of such separations, as well as being more attentive to the unfriendliness of long methods, I think this project was a breakthrough moment for me in Module 1.
+
+**Horace evaluated this project with the following results:**
+
+   "I/O is very clean; appreciate isolation of this into its own file with minimal connections to other code. Like overall structure and division of responsibilities between various objects. Seem to be improving a lot in the ability to deconstruct complex processes into code."
 
 Category | Score
 --- | --- | ---
@@ -86,9 +92,13 @@ Breaking Logic into Components | 3
 
 In this three-day project I implemented a linked list with looping.
 
-**It was evaluated by Andrew with the following results:**
+This project was a disaster. I don't think I learned very much about programming. As a result, it is a project I would like to do again if I have the time.
 
-"Tdd - from what was turned in does not appear to have strong use of tdd. We looked at an old commit and saw much better use, however in a final push to finish the project that work was lost and not turned in... good use of loops and understanding of them."
+On the other hand, I did learn a lot about Turing. I have come to expect the feeling of being lost at the beginning of a project, and I think the failure I experienced with this project gave me an opportunity to grow in my ability to handle such feelings.
+
+**Andrew evaluated this project with the following results:**
+
+   "Tdd - from what was turned in does not appear to have strong use of tdd. We looked at an old commit and saw much better use, however in a final push to finish the project that work was lost and not turned in... good use of loops and understanding of them."
 
 Category | Score
 --- | --- | ---
@@ -102,8 +112,8 @@ Looping *or* Recursion | 3
 
 * [Blog post](http://theonlyrao.com/2016/02/27/ways-of-thinking/)
 * [Readme (NightWriter)](https://github.com/theonlyrao/hw/tree/master/night_writer)
-* [DTR memo](BlackThursday)
-* [Pull request]()
+* [DTR memo](https://gist.github.com/theonlyrao/4445c3e949222d38df6c)
+* [Pull request](https://github.com/theonlyrao/black_thursday/pull/23)
 
 =======================================
 
@@ -118,7 +128,9 @@ I gave feedback every time the feedback bot requested me to give it.
 
 "Ashwin is easy to talk to, flexible and patient. He's easy-going but stays on task and encourages his pairing partner to do the same." - Jeneve Parrish, 2/19/16
 
-**From staff**
+**from staff**
+
+"After pairing with you a couple of times, I really like how you approach problems. You seem to have a really good grasp on sort of the "micro" view. That is, when you look at a method, you're very aware of the input, and you want the output to be, and how to manipulate the input to do what you want, and that's really great to see. Along the same lines, I think that you have a knack for algorithmic thinking, I really like how you're faced with a challenge, you're first instinct is to break it down into small parts. I think your use of pseudocoding is great. I liked your use of `reduce` in that most recent Exercism we worked on; your knowledge of enumerables also seems strong. Overall, I think you've done really well this module, keep up the good work!" - Jeff Ruane, 3/4/16
 
 =======================================
 
