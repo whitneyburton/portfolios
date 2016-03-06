@@ -1,4 +1,4 @@
-# Charles Ellison - M1 Portfolio
+# Charles Ellison - M2 Portfolio
 
 ####Technical Skills
 * Develop a thorough understanding of what rails is and how it works
@@ -8,6 +8,27 @@
 
 ### Attendance
 I was present for the entire module.
+
+### Soft Skills / Protocol
+## DTR memo from a project during the module
+* Team: All open schedules--agree to do most work at Turing after school and on weekends during the day.
+* Team: Agreed that all pull requests must be merged by a team member other than the person who made the request.
+* Team: Agreed to let Nick be the Team manager
+* Team: All members would like written feedback at towards the end of the project noting strengths and areas of improvement.
+* Team: All members agreed that a team member would not wait more than 30 - 40 minutes being stuck to reach out for help.
+* Chad Ellison: feels comfortable with rails but wants to get more practice building out features (MVC and relationships); wants to integrate api in app; try to wrap up each evening (except weekends) by 8:00 in order to get full night's rest (1.5 hour commute)
+* Chad Ellison: wants more practice with Git workflow
+* Nick Dorans: wants to get practice styling (most of styling for app)
+* Nate Venn: wants to get practice building out features, some styling, and have checkins before working each day.
+
+## Examples of Pull Requests
+* [GibHub URL](https://github.com/chadellison/custo_candy_co/commit/2612826e1cd735387962c018ec475aa608c076e2)
+* [GitHub URL](https://github.com/chadellison/custo_candy_co/commit/eb8a460cb1b53f9cf38f21af38e7ff96f6c2e8df)
+* [GibHub URL](https://github.com/chadellison/custo_candy_co/commit/ea52137989bd18efcfddfa115114f447d489550c)
+
+## Example Readme
+* Readme for rails poker app (WIP)
+* [GibHub URL](https://github.com/chadellison/straight_up_poker/blob/master/README.rdoc)
 
 ###Mentor Sessions
 * Mentor session with Jay Hayes on routes and controllers-- February 3, 2016
