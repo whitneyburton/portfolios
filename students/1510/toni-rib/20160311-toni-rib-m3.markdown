@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-This module I would like to get comfortable getting data from APIs both through ruby gems in Rails and through AJAX requests. I've done some AJAX requests with jQuery but they took me hours to set up and I mostly had no idea what I was doing. I would like to challenge myself in my personal project to use multiple APIs to analyze data and display it in interesting ways (namely using the d3js library). I'd like to get comfortable with oauth2 since it is used all over the place in web apps. I have no idea how to set up my own API so I'd like to do that at least once during the module. As a totally non-module 3 related goal, I want to get comfortable using Vim by the end of the module and have it customized to my needs (like having a better status bar). I'd also like to have my resume ready to go so I am ready to apply for jobs.
+This module I would like to get comfortable getting data from APIs both through ruby gems in Rails and through AJAX requests. I've done some AJAX requests with jQuery but they took me hours to set up and I mostly had no idea what I was doing. I would like to challenge myself in my personal project to use multiple APIs to analyze data and display it in interesting ways (namely using the d3js library or another charting library). I'd like to get comfortable with oauth2 since it is used all over the place in web apps. I have no idea how to set up my own API so I'd like to do that at least once during the module. As a totally non-module 3 related goal, I want to get comfortable using Vim by the end of the module and have it customized to my needs (like having a better status bar). I'd also like to have my resume ready to go so I am ready to apply for jobs.
 
 ### End of Module Assessment
 
@@ -14,9 +14,13 @@ This module I would like to get comfortable getting data from APIs both through 
 
 #### APIcurious
 
-* [GitHub URL]()
-* [Original Assignment]()
-* [Live Heroku Version]()
+* [GitHub URL](https://github.com/ToniRib/apicurious)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
+* [Live Heroku Version](http://apicurious-fitbit.herokuapp.com/)
+
+This project uses the FitBit API to recreate parts of the FitBit dashboard.
+
+![Image of Dashboard](https://github.com/ToniRib/apicurious/raw/master/app/assets/images/APIcurious_dashboard.png)
 
 #### Rails Engine
 
@@ -31,13 +35,18 @@ Really solid project. Probably the best testing I've seen on a Rails Engine proj
 
 ##### Scores
 
-* completion: 4 - Project completes all base requirements according to the spec harness.
-* test-driven-development: 4+ - Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
-* code-quality: 4 - Project demonstrates exceptionally well factored code.
-* api-design: 4 - Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
-* queries: 4 - Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
+* Completion: 4 - Project completes all base requirements according to the spec harness.
+* Test-Driven-Development: 4+ - Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* Code-Quality: 4 - Project demonstrates exceptionally well factored code.
+* Api-Design: 4 - Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* Queries: 4 - Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### runHacker
+
+* [GitHub URL](https://github.com/ToniRib/run_hacker)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+* [Live Heroku Version](https://run-hacker.herokuapp.com/)
+
 (stuff here)
 
 ## Team Projects
@@ -111,6 +120,7 @@ __Technical Scores__
 * Continued 'Tuesdays with Toni' to pair with two students every Tuesday for the entire module.
 * Wrote a [blog post](http://tonirib.github.io/personal-blog/jekyll/update/2016/02/15/rails-application-template.html) for the Turing email about Rails Application Templates and taught a student led session on it in addition to my lightning talk.
 * Made coffee a few times a week
+* Went to the deRailed meetup over the last intermission
 
 ## Review
 
