@@ -256,46 +256,9 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Notes
 
-<<<<<<< HEAD:students/1511/allan-maxwell-blair/20160115-allan-blair-m1.md
-* TBD
-
-### Outcome
-
-## A: End-of-Module Assessment
-
-A Turing student is able to demonstrate proficiency at programming in accordance
-with the module's content and expectations.
-
-* **Result:** TBD
-
-## B: Individual Work & Projects
-
-A Turing student works to maximize their skill growth and demonstrates
-that skill across a variety of work.
-
-* **Result:** TBD
-
-## C: Group Work & Projects
-
-A Turing student contributes significantly to group projects, helps the team
-develop their technical skills, and delivers a high-quality product.
-
-* **Result:** TBD
-
-## D: Community Participation
-
-A Turing student builds up the community around them by participating and
-supporting other students, the larger Turing family, and persons outside our
-walls who want to develop their own skills.
-
-* **Result:** TBD
-
-## E: Peer & Instructor Feedback
-
 * Make the most of ability to research and explore topics while you're at turing
 * Appreciate your ability to focus and effectively manage your work process
 * Hope to see you include others in your explorations and learning
-
 
 ### Outcome - PASS
 
