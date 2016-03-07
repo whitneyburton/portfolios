@@ -25,7 +25,7 @@ Here are some notes about expectations for this cycle:
 * Required Project: Final Project (Headcount / Black Thursday)
 * Included Projects: All individual and paired projects
 * Instructor Pairing Feedback: At least 1 session from during the module
-* Posse challenges (5)
+* Posse challenges (4/5)
 * Feedback: Self-Solicited and from Feedback App
 
 __Soft Skills / Protocol Requirements__
@@ -41,7 +41,7 @@ __Soft Skills / Protocol Requirements__
 * Mentor sessions (>=3)
 * Blog post (>=1)
 * Self-solicited continual peer feedback
-* Posse challenges (5)
+* Posse challenges (4/5)
 * Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master, Rails Mini Project
 * Evaluated projects: Traffic Spy, Little Shop
 * Assessments: mid-module, final
