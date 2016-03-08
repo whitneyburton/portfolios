@@ -115,6 +115,8 @@ __Technical Scores__
 
 * From Marina Corona (Tuesdays w/Toni): "The two times I’ve paired with Toni, I have been thoroughly impressed with her ability to look at someone else’s code, understand it and give clear and concise feedback.  With our Black Thursday project, she was able to draw out the overall project and help us with our understanding of the overall architecture.  Without giving us the answer, she gave us some great ideas on how to pair.  I’m incredibly impressed with her ability to give to the Turing community through tutoring, while managing her large projects and am very grateful to have her a part of our school."
 
+* From Dan Winter (The Pivot): "My favorite part of working with Toni is that she made me a better coder. She took pull requests and github workflow seriously and offered great critical feedback that pushed me to think more in depth about my design decisions and the reasons behind them. She was also always willing to help tackle a bug, talk through complex problems and teach us how to CSS. Thanks Toni!"
+
 ### Playing a Part
 
 * Continued 'Tuesdays with Toni' to pair with two students every Tuesday for the entire module.
