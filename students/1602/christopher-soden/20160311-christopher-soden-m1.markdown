@@ -63,7 +63,7 @@ Assessed By: Tess
 I created a master class that executed the application, and helper classes with
 special functionality split out. This project really challenged me to grow in
 handling string processing and File IO. I came to better understand the .gsub
-method and the fact that we are passing objects rather than values. I had to do
+method and the implications of passing objects rather than values. I had to do
 some research to find the correct syntax for using regex's; but the biggest
 challenge was looking at the special cases around contractions and splitting the
 output into 80 character lines. I learned more about the match method - eventually
