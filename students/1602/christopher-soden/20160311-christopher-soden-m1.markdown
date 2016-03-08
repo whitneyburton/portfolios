@@ -23,7 +23,7 @@ for debugging.
 I completed the following individual projects during the module:
 
 #### Jungle Beats
-* [GitHub URL](git@github.com:seeker105/linked_list_project.git)
+* [GitHub URL](https://github.com/seeker105/linked_list_project)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
 I created a node class and a singly linked-list using Ruby. Doing this project
@@ -55,7 +55,7 @@ Assessed By: Tess
 
 #### Night Writer
 
-* [GitHub URL](git@github.com:seeker105/Night_Writer.git)
+* [GitHub URL](https://github.com/seeker105/Night_Writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 I created a master class that executed the application, and helper classes with
@@ -93,7 +93,7 @@ I worked on two team projects during the first module.
 
 #### Hyde
 
-* [GitHub URL](git@github.com:ColinOsborn/hyde.git)
+* [GitHub URL](https://github.com/ColinOsborn/hyde)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/hyde/index.markdown)
 
 Colin Osborn and I built a basic blog creation engine that takes parameters
@@ -152,7 +152,7 @@ The output from `rake sanitation:all` shows...
 
 #### Headcount
 
-* [GitHub URL](git@github.com:seeker105/headcount.git)
+* [GitHub URL](https://github.com/seeker105/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 Matt Pindell and I built a program to read in data from various CSV files,
