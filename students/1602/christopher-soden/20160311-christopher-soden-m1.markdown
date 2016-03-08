@@ -159,7 +159,7 @@ Matt Pindell and I built a program to read in data from various CSV files,
 establish relationships between data elements and answer certain questions from
 the data.
 This project definitely developed our skills with hashes. The complexity of
-the data hashes we had to create from the files and the hash-parameters passed
+the data hashes we had to create and the hash-parameters passed
 into and returned from the methods made this a most challenging problem.
 The spec requires some rather long method names; their length made their purpose
 clear, but it also meant that reusing them in more involved computations lead to
