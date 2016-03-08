@@ -70,10 +70,35 @@
 * February 17, 2016: Andrew Thal
   * Began the JS/AJAX extension on Rush Hour
 
+* March 2, 2016: Andrew Thal
+  * Scope of projects at Turing vs. the real world/industry stuff
+  * Javascript exercism
+
+## Protocols
+* [DTR Memo](https://gist.github.com/adriennedomingus/143234218987385023a6)
+* [Pull Request](https://github.com/adriennedomingus/feline_friends-y/commit/3f3cb6f0d72b83022d8dac0d2aa6b38253978662)
+* [Another Pull Request](https://github.com/adriennedomingus/feline_friends-y/commit/b4bc8cbbe101543e4e7443353e051e19dc067049)
+* [ReadMe](https://github.com/adriennedomingus/feline_friends-y)
+
+### Community
+
 ## Peer Feedback
-"Adrienne did an amazing  job of driving our team to complete deliverables in a timely manner. She grasped active record at a lightening pace and fixed bugs that plagued the project when we turned it in because she passionately cared about the team and project. She could treat herself to more of a break in the evenings/weekends in order to have a better school life balance." **-Adam Hundley**
+"Adrienne did an amazing job of driving our team to complete deliverables in a timely manner. She grasped active record at a lightening pace and fixed bugs that plagued the project when we turned it in because she passionately cared about the team and project. She could treat herself to more of a break in the evenings/weekends in order to have a better school life balance." **-Adam Hundley**
 
 "Adrienne did a good job with taking charge of the project, asking good questions, and being a hard worker because she is a very driven and dedicated person. I think she could be more welcoming and relaxed in order to promote a lighter team environment." **-July Tran**
 
+"Pairing with Adrienne on a weekend Rails project was a bright spot in Turing pairing opportunities. Even if she didn’t have such a strong technical approach and ability to step through new code challenges, I felt like we would’ve been successful due to her methodical completeness and debugging aptitude. Interactions were enjoyable and comfortable because she’s so even-keeled and and patient. I enjoyed both the process and the output. Because she is so well-balanced it’s hard to find an avenue of critique to offer, but I would recommend that she be more forceful when she knows something absolutely, as to give her partners clues to her very stoic input." **-Heidi Hoopes**
+
+"Adrienne is the full package: strong organization, algorithmic thinking, and creativity. This was demonstrated by her leadership role in the Little Shop Project were we successfully completed base functionality several days ahead of schedule. Adrienne can continue to work on stepping out of the box. Given her high level of performance she can expertly stay with in the lines even if client requirements require her to jump through hoops. This may not always be the right answer and should be weighed with skepticism given she is the expert."**-Allan Blair**
+
+## Participation
+
+* Regularly participated in Joan Clarke Society events
+* Regularly participated in Kay Posse events
+* Participated in 1511 tutoring for 1602 students two weeks
+* Participated in Computability Theory, including leading the group one week
+* Took on a 1603 pre-work guidee
+
 ## Posse Challenges
-[Kay Posse Challenges](https://github.com/kay-posse)
+[College Scorecard](https://github.com/chadellison/posse_challenges/tree/master/college_scorecard)
+[Other Kay Posse Challenges](https://github.com/kay-posse)
