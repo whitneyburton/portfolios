@@ -82,7 +82,7 @@ Notes from Mike:
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 In this two week project I worked with Patrick Hardy. It was
-evaluated by ? with the following results:
+evaluated by Horace with the following results:
 
 * Functional Expectations: 
 * Test-Driven Development: 
@@ -100,6 +100,7 @@ https://github.com/turingschool/feedback
 ## Community
 
 ### Feedback to Me
+Based on the feedback from staff and colleagues I focussed on two areas to improve. The most important area of development was to break down complex problems into small manageable chunks. Using pseudo code and writing tests I practise to better understand how classes, their instances and methods are connected and which roles variables and arguments play and how to identify and use them. I am faster at understanding and writing down code but need to keep practising writing code. The goal is to work through the collection challenges on the Turing site over the next few weeks. I also will offer help to first module students to keep practising my understanding by explaining the concept to others. On the other hand I practised with keyboard short cuts and typing practise to improve my workflow. I will need to practise more to get faster typing code and will keep working on this in the next modules. 
 
 Aside from the required feedback for short pairing sessions with peers my colleagues and I gave each other writeen feedback during the partner projects - one at the beginning and another one towards the end of the project. This helped to identify what worked well and what could be improved. We could focus on those areas of improvement during the project time.
 
