@@ -53,8 +53,6 @@ Assessed By: Tess
 * 3: Application makes effective use of loop/recursion techniques
 
 
-
-
 #### Night Writer
 
 * [GitHub URL](git@github.com:seeker105/Night_Writer.git)
@@ -69,9 +67,6 @@ challenge was looking at the special cases around contractions and splitting the
 output into 80 character lines. I learned more about the match method - eventually
 finding a way to use that to accomplish the split.
 
-## Evaluation Rubric
-
-The project will be assessed with the following rubric:
 
 ### 1. Overall Functionality
 
