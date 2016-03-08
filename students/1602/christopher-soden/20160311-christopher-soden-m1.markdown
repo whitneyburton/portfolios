@@ -96,8 +96,8 @@ I worked on two team projects during the first module.
 * [GitHub URL](git@github.com:ColinOsborn/hyde.git)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/hyde/index.markdown)
 
-Colin Osborn and I built a basic blog creation engine that took some parameters
-and created a blog file structure.
+Colin Osborn and I built a basic blog creation engine that takes parameters
+and creates a blog file structure.
 The biggest challenge of this project was learning how to work with the file
 structure. I found the Dir class through my reading, but Jared pointed me to a
 module called FileUtils that had some even more effective methods.
