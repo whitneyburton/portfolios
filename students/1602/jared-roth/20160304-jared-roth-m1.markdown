@@ -8,7 +8,41 @@
 
 ### End of Module Assessment
 
-TBD
+Assessed By: Horace
+
+Challenge: Unit Conversion Challenge
+
+#### Notes:
+
+* Quite strong; doing well at digesting the problem quickly and translating into code
+* TDD workflow is smooth and effective
+* Able to pick up on next steps and translate those into test cases / assertions
+* Objects, methods, instance variables, lifecycle stuff seems comfortable
+* Workflow is solid; especially appreciate ability to stay in editor while running tests etc.
+
+##### 1. Ruby Syntax & API
+
+* 4: Developer is able to write Ruby with a minimum of reference or debugging
+
+##### 2. Completion and Progress
+
+* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+
+##### 3. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+##### 4. Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+##### 5. Collaboration
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+##### 6. Enumerable & Collections
+
+* 4: Application consistently makes use of the best-choice Enumerable methods
 
 ### Attendance
 
@@ -108,9 +142,9 @@ __Scores:__
 * [GitHub URL]()
 * [Original Assignment]()
 
-Enigma takes various combinations of strings, keys, and dates and either encrypts, decrypts, or cracks the string.
+Headcount processes, manipulates, and evaluates certain data for all of the school districts in Colorado. This project involved heavy usage of hashes and CSVs and combining their use appropriately.
 
-Reviewed by Andrew
+Reviewed by
 
 __Comments:__
 
