@@ -90,26 +90,11 @@ __Technical Scores__
 
 ## Community
 
-### Posse Challenges
-
-[Hopper Posse Repo](https://github.com/ToniRib/posse_challenges)
-
-* 4/5 posse challenges completed
-
-### Protocol
-
-#### Good Pull Requests
-
-1. https://github.com/martensonbj/little_shop/pull/27
-2.
-
-#### README
-
-1. ["The Pivot" README written by me](https://github.com/jwperry/the_pivot)
-
 ### Giving Feedback
 
-(feedback from me)
+* To Dan Winter: Dan is very good at solving problems and has no problem going off on his own and using documentation to figure out a solution. I was really impressed that he got OAuth2 set up with LinkedIn basically by himself at the end of the project. I always felt comfortable when Dan took on a task because I knew he would work hard to complete it and was never worried about whether or not his code would be good. I think Dan is a valuable team member and then only thing he probably needs to improve on is his CSS skills.
+
+* To Joseph Perry: JP is a valuable team member because he never turns down the opportunity to take on a new problem and always asks for help if he gets stuck. He was the leader of our Pivot project and he did a great job with checking in with the group often to see what we were working on. He is extremely good at describing where he is stuck and what he has tried, which I think is a valuable trait for a developer.
 
 ### Being a Community Member
 
@@ -123,6 +108,7 @@ __Technical Scores__
 * Wrote a [blog post](http://tonirib.github.io/personal-blog/jekyll/update/2016/02/15/rails-application-template.html) for the Turing email about Rails Application Templates and taught a student led session on it in addition to my lightning talk.
 * Made coffee a few times a week
 * Went to the deRailed meetup over the last intermission
+* 1603 prework guide for Brian Sayler
 
 ## Review
 
