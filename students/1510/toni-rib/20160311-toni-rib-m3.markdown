@@ -47,7 +47,15 @@ Really solid project. Probably the best testing I've seen on a Rails Engine proj
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
 * [Live Heroku Version](https://run-hacker.herokuapp.com/)
 
-(stuff here)
+runHacker is my personal project which allows users of MapMyFitness to import data from all their runs, along with addiitonal data pulled from other APIs to be able to plot workouts by many different variables to determine if any trends exist. I used MapMyFitness, Weathersource, Google Maps, Google Elevation, Google Timezone, and Google Geocoder to get all of the information. In addition, I implemented background workers, my own API endpoint, used jQuery and javascript to create dynamic charts with HighCharts, used Presenter and Decorator objects, and overall learned a TON about building out an entire Rails project by myself from scratch.
+
+##### Notes
+
+(notes go here)
+
+##### Scores
+
+(scores go here)
 
 ## Team Projects
 
