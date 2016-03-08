@@ -6,7 +6,11 @@
 
 ### Areas of Emphasis
 
-I have almost no coding background. As a result, my primary area of emphasis will be on understanding how to make good decisions in designing programs as well as becoming comfortable with all the tools that ruby makes available.
+My primary area of emphasis at the beginning of this module was on understanding how to make good decisions in designing programs as well as becoming comfortable with all the tools that ruby makes available.
+
+Now, at the end, I think I achieved that objective. At least now I think I am able to start feeling when what I'm trying to do needs to be broken into smaller methods or new objects.
+
+The areas in which I need to continue to grow are in using TDD at smaller levels to make sure that I'm breaking down problems cleanly into their constituent parts, and also to be more judicious in determining what information needs to be exposed outside of a class.
 
 ### End of Module Assessment
 
@@ -47,14 +51,13 @@ As a result, the relationship between testing and program decomposition is an ar
 
 **Horace evaluated this project with the following results:**
 
-   "Making progress on decomposition of the system -- have 2 quite useful domain objects in the Request and Response classes and their usage is pretty consistent.
+"Making progress on decomposition of the system -- have 2 quite useful domain objects in the Request and Response classes and their usage is pretty consistent.  
 
-   Testing of these 2 also pretty effective -- getting better at carving these chunks to wrap into an object and test - still just need to keep pushing this further.
+Testing of these 2 also pretty effective -- getting better at carving these chunks to wrap into an object and test - still just need to keep pushing this further.  
 
-   Interesting discussion around what makes parts of this system hard to test -- if we can't change this then we can at least minimize our dependence on it...
+Interesting discussion around what makes parts of this system hard to test -- if we can't change this then we can at least minimize our dependence on it...  
 
-   Test suite is pretty good at mixing some integration tests that actually run and hit the server and some unit tests of the request/response objects that are defined."
-
+Test suite is pretty good at mixing some integration tests that actually run and hit the server and some unit tests of the request/response objects that are defined."  
 
 Category | Score
 --- | --- | ---
@@ -76,7 +79,7 @@ By the end of the project I had created new classes to handle the different jobs
 
 **Horace evaluated this project with the following results:**
 
-   "I/O is very clean; appreciate isolation of this into its own file with minimal connections to other code. Like overall structure and division of responsibilities between various objects. Seem to be improving a lot in the ability to deconstruct complex processes into code."
+"I/O is very clean; appreciate isolation of this into its own file with minimal connections to other code. Like overall structure and division of responsibilities between various objects. Seem to be improving a lot in the ability to deconstruct complex processes into code."
 
 Category | Score
 --- | --- | ---
@@ -98,7 +101,7 @@ On the other hand, I did learn a lot about Turing. I have come to expect the fee
 
 **Andrew evaluated this project with the following results:**
 
-   "Tdd - from what was turned in does not appear to have strong use of tdd. We looked at an old commit and saw much better use, however in a final push to finish the project that work was lost and not turned in... good use of loops and understanding of them."
+"Tdd - from what was turned in does not appear to have strong use of tdd. We looked at an old commit and saw much better use, however in a final push to finish the project that work was lost and not turned in... good use of loops and understanding of them."
 
 Category | Score
 --- | --- | ---
@@ -114,6 +117,11 @@ Looping *or* Recursion | 3
 * [Readme (NightWriter)](https://github.com/theonlyrao/hw/tree/master/night_writer)
 * [DTR memo](https://gist.github.com/theonlyrao/4445c3e949222d38df6c)
 * [Pull request](https://github.com/theonlyrao/black_thursday/pull/23)
+* Posse Challenges [1](https://github.com/damwhit/college_scorecard) [2](https://github.com/damwhit/posse/tree/master/code_breakers) [3](https://github.com/martensonbj/posse_challenges_2/tree/master/Enumerables) [4](https://github.com/martensonbj/college_scorecard)
+
+   I learned the most from the posse challenge on Enumerables, featuring Procs. Part of the reason for this is because it was an appropriately calibrated challenge for our posse - lots of people were able to get involved and it was a good experience working with the team.
+
+   Regarding my learning, I think it was helpful to see procs in action before the lesson the following week in class on them. I can't say I've completely figured out how to use them, but the repetition helped me begin to understand them.  
 
 =======================================
 
@@ -138,6 +146,6 @@ I gave feedback every time the feedback bot requested me to give it.
 
 This module I attended every meeting of our posse. I also showed enthusiasm for our work, recognized my teammates for their abilities, and encouraged the effort put by the staff into the posses.
 
-On my HTTP project, I was paired with someone who dropped out of Turing a few days into the project. On my Black Friday project, I was paired with someone who realized that she would be repeating within a few days of beginning the project.
+On my HTTP project, I was paired with someone who dropped out of Turing a few days into the project. On my Black Friday project, I was paired with someone who decided to repeat module 1 at the end of the first week of the project, after we had spent significant time repeating work and moving slowly so that she could try to understand the project.
 
 In both of these occasions, I tried to serve my parter and develop their skills instead of abandoning them in order to achieve passing grades and graduate from the module.
