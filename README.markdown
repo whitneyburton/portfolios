@@ -25,42 +25,49 @@ Here are some notes about expectations for this cycle:
 * Required Project: Final Project (Headcount / Black Thursday)
 * Included Projects: All individual and paired projects
 * Instructor Pairing Feedback: At least 1 session from during the module
-* Feedback: Self-Solicited
-* Posse challenges (5)
+* Posse challenges (4/5)
+* Feedback: Self-Solicited and from Feedback App
+
+__Soft Skills / Protocol Requirements__
+
+1. 1 DTR memo from a project during the module
+2. 1 Blog post
+3. 2 examples of well-written pull requests
+4. 1 example of a well-written project readme
 
 ### Module 2
 
 * Evaluation notes
-* Mentor sessions (>=3) 
+* Mentor sessions (>=3)
 * Blog post (>=1)
 * Self-solicited continual peer feedback
-* Posse challenges (5)
+* Posse challenges (4/5)
 * Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master, Rails Mini Project
 * Evaluated projects: Traffic Spy, Little Shop
 * Assessments: mid-module, final
 
 ### Module 3
 
-* Individual Assessment: Only if needed
-* Required Project: Self-Directed Project
-* Included Projects: APIcurious, Rales Engine, The Pivot
+* Individual Assessment
+* Included Projects: Self-Directed Project, Rales Engine, The Pivot
+* Bonus Project (not required): APIcurious
 * Feedback: Self-Solicited
-* Posse challenges (5)
+* Posse challenges (4/5)
 
 ### Module 4
 
-* Individual Assessment: Yes
-* Required Project: Mastery Project
-* Included Projects: GameTime, ScaleUp
+* Individual Assessment: Only if needed
+* Required Project: GameTime
+* Included Projects: RealTime, ScaleUp
 * Feedback: Self-Solicited
-* Posse challenges (5)
+* Posse challenges (4/5)
 
 ## Authoring Process
 
 * Carefully read the `submission_guidelines.markdown` to understand how your
 portfolio should be written/submitted
 * Read a sample portfolio in `sample.markdown` in this repo
-* Copy the content of `[template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown)` as a starting point
+* Copy the content of [template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown) as a starting point
 * Fill in and submit your own content.
 
 ## Submission Guidelines
