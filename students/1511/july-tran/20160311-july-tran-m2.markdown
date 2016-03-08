@@ -1,35 +1,49 @@
 # July Tran - M2 Portfolio
 
+This module, I sought to enhance my community involvement while gaining the technical skills of the Mod 2 curriculum.
+
 ### Goals
 1. Technical: learn Module 2 curriculum
   * Know material well enough to implement it individually
-  * Earn at least all 3's on assessments
-  * Shoot for creative additions onto projects
-2. Technical: explore python
-  * Learn how to make classes, do basic things
-  * Do some code/posse challenges
+2. Technical: Play with API's
+  * Get creative
 3. Soft skills: achieve a high level of communication skills
   * Maintain communication even when tired/stressed
   * Improve on turning thoughts into words during pairing sessions
   * Give and receive actionable feedback
 4. Community:
   * co-lead initiative to reduce Turing's carbon footprint
-  * Attend Code for Denver regularly and bring other students
 
 ### Attendance
+I missed the morning class session one Friday and came late, within 5 minutes, several times.
 
 ### Work
 
 #### Non-evaluated projects
 ##### Blog Post
 ##### Sinatra CRUD
+[Skill Inventory](https://github.com/julyytran/skill-inventory-crud)
 ##### Tool Chest
+[Tool Chest](https://github.com/julyytran/tool_chest)
 ##### Mix Master
+[Mix Mastah](https://github.com/julyytran/mix_master)
 ##### Rails Mini Project
+[giphyfavfav](https://github.com/julyytran/giphyfavfav)
 
 #### Evaluated projects
-##### Traffic Spy
+
+##### Rush Hour
+[Github](https://github.com/julyytran/rush_hour)
+
+- Functional Expectations: 3
+- Test-Driven Development: 3.5
+- Encapsulation / Breaking - Logic into Components: 3.5
+- Fundamental Ruby & Style: 3
+- Sinatra / Web and Business Logic: 3.5
+- View Layer: 3
 ##### Notes
+Strange behavior with socialLogin hour-by-hour breakdown and os/browser breakdown. All other functionality exists and is implemented. Added web interface for creating, editing, and deleting accounts.
+
 ##### Little Shop
 ##### Notes
 
@@ -39,11 +53,47 @@
 ### End of Module Assessment
 ##### Notes
 
+### Protocol
+
+#### DTR Memo
+[gifs_for_good](https://gist.github.com/julyytran/b4bda806252ad63a98c7)
+
+#### Pull Requests
+[gifs_for_good PR1](https://github.com/julyytran/gifsforgood/pull/83)
+
+[gifs_for_good PR2](https://github.com/julyytran/gifsforgood/pull/66)
+
+#### README
+[gifs_for_good](https://github.com/julyytran/gifsforgood)
+
 ### Community
+
 #### Mentor Sessions
+I met with Brian Winterling during week 2, Tan Doan a couple times, and Robert Gu during week 6.
+
 #### Posse Challenges
+[Golick yo'self](https://github.com/bethsecor/golick_posse_challenges)
+
 #### Feedback Given
+“I really appreciate Nick’s community participation. I absolutely love the emojis and other fun things Nick contributes to our community, and I know that he actually takes quite a thoughtful approach to them as a means to build community while also respecting others. I also appreciate Nick’s involvement with environment_variables; his passion is evident and he consistently follows through with his commitments.     Additionally, I was pleased to see Nick be a Gear Up facilitator both times. I think he could improve as a facilitator by keeping the group more on topic, putting more effort into engaging more quiet members of the group, and refraining from dominating the conversation himself. Nick has shown excellent community engagement and I would challenge him to take on even more of a leadership role in our community.” - July
+
+"Brian is a very thoughtful thinker and flexible person. I appreciate his ability to carefully consider all the ways of approaching a problem and his openness to exploration. His ability to adapt and his fun, supportive personality make him a great partner. I think Brian would benefit from taking a full TDD approach, as he has a tendency to implement features before completing the writing of a test. I also think Brian could have more confidence in his skills and ideas, as they are something to be proud of. I've noticed Brian's git workflow improve through this project as well and am sure they will continue to improve as he matures as a developer. I'm very glad to have Brian as a colleague. " - July
+
+ "Heidi is a dedicated worker who clearly enjoys programming and is a good partner to work with. I have learned a lot from working with Heidi because she thinks very differently from me. I like that she stands up for her ideas and I think she would benefit from working on communicating those ideas more clearly to others. She also thinks a few steps ahead, which sometimes hinders what's directly in front, but at other times is beneficial. Heidi is also a pro at git rebasing. To build on her git skills, she could work on making a habit of pulling and running tests before each work session. " -July
+
 #### Feedback Received
+"July brought our group an awesome and humorous idea for our little shop project which speaks volume to the creativity and good sense of humor she brings to a team. She grasps new ideas quickly and is takes a methodical approach to writing her tests that I have made a point to emulate. I was also impressed by how involved she is in meaningful community causes while still making time to flourish in this difficult program. At times, July could benefit from describing her ideas in fashion that is more patient and open to questions.” -Brian Rippeto
+
+"I grouped with July on a Rails project to implement a quirky storefront model. I enjoyed several things about our time working together. Notably, July is dedicated and passionate about both code and side projects/causes. However, she also proved to be flexible and adaptable with the challenges that come with working in a group. Sometimes her flexibility left me a little confused because I wouldn’t be quite sure what approach she was interested in (deep down). So I would encourage her to to accept that differing viewpoints are just to be expected and not be afraid of causing disruption by staking a claim on a particular technical approach. But I am constantly impressed by her insights and comfort working with code." -Heidi
+
 #### Community Participation
+I co-founded and co-lead environment_variables, I contributed and served as a facilitator for the Gear Up on allyship, and I contributed and organized the Gear Up on environmental responsibility.
+
+I also attended the following:
+  - improv 4/5 sessions
+  - 2 Joan Clarke events
+  - 3 TAAAP events
+  - 2 computability theory meetings
+  - 1 LGBTuring event
 
 ### Outcome
