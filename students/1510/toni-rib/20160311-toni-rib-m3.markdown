@@ -8,7 +8,35 @@ This module I would like to get comfortable getting data from APIs both through 
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessor: Josh Mejia/Lovisa
+
+Notes:
+
+* All functionality included
+* Nice extractions in the service
+* Nice use of a Product PORO
+* Good use of serializers, clear understanding of MVC and use of Rails
+* Good balance of model/integration test, very well tested
+
+### 1. Ruby Style and Syntax
+
+* 4: Developer writes code that is exceptionally clear and well-factored
+
+### 2. Rails Syntax & API
+
+* 4: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 3. Testing
+
+* 4: Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.
+
+### 4. Progression/Completion
+
+* 4: Developer is able to implement solutions at the speed of a developer.
+
+### 5. Workflow
+
+* 4: Developer commits every 15 minutes and has at least 12 commits on the project
 
 ### Individual Projects
 
