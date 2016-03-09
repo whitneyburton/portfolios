@@ -140,7 +140,7 @@ My posse worked on the following challenges:
 * [Original Assignment](https://gist.github.com/applegrain/744468d56507d000e9d4)
 
 #### Turing Tower Transfer Puzzle
-* [GitHub URL](
+* [GitHub URL](https://github.com/acareaga/tower-transfer-puzzle)
 * [Original Assignment](https://gist.github.com/Carmer/4a46e214c0d91f911c6a)
 
 ## Community
