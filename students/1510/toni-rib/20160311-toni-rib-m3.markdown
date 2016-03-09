@@ -116,6 +116,8 @@ We completed 4 out of the 5 posse challenges.
 
 * From Dan Winter (The Pivot): "My favorite part of working with Toni is that she made me a better coder. She took pull requests and github workflow seriously and offered great critical feedback that pushed me to think more in depth about my design decisions and the reasons behind them. She was also always willing to help tackle a bug, talk through complex problems and teach us how to CSS. Thanks Toni!"
 
+* From Sal Espinoza (Tuesdays w/Toni): " I managed to snag a pairing session with Toni during the week that our final project was assigned, and our meeting was especially helpful as my partner and I worked to determine the way forward. Toni’s content knowledge was strong, and she was able to pick up quickly and make meaningful comments. That said, one of the best parts of working with Toni was the time she took at the beginning of the session to get to know me and my background and to give me that same opportunity. It just set the session off on a good foot, and helped make me feel comfortable. She also juggled questions from both my partner and I, and managed to keep everything moving."
+
 ### Playing a Part
 
 * Continued 'Tuesdays with Toni' to pair with two students every Tuesday for the entire module.
