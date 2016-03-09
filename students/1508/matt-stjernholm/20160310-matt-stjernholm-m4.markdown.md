@@ -4,9 +4,7 @@
 
 ### Areas of Emphasis
 
-Coming into module 4, I wanted to graduate Turing feeling confident in my ability to work with any type of Rails or Node web app.
-As it turned out, things really start to click down the strecth and I can say that I feel more than prepared to go out into the world
-and start writing code professionally.  
+Coming into module 4, I wanted to learn enough Javascript to graduate feeling confident in my ability to work on production Rails/Node apps. The first couple of weeks were tough, but from then out out things really stated to click and now I can say with confidence that I feel more than prepared to go out into the world and start writing code professionally.  
 
 ### End of Module Assessment
 
