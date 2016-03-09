@@ -57,8 +57,8 @@
 [Turing Partnerships](https://github.com/hhoopes/turing_partnerships)
 
 ## Blog Posts
-[Testing a Sinatra App with Capybara](http://adriennedomingus.github.io/2016/02/06/testing-a-sinatra-app-using-capybara.html)
-[Transitioning from Sinatra to Rails](http://adriennedomingus.github.io/2016/02/19/transitioning-from-sinatra-to-rails.html)
+[Testing a Sinatra App with Capybara](http://adriennedomingus.github.io/2016/02/06/testing-a-sinatra-app-using-capybara.html)  
+[Transitioning from Sinatra to Rails](http://adriennedomingus.github.io/2016/02/19/transitioning-from-sinatra-to-rails.html)  
 [Sending Emails from a Rails App](http://adriennedomingus.github.io/2016/02/28/sending-email-from-your-rails-app.html)
 
 ## Mentor Sessions
@@ -76,7 +76,6 @@
 
 ## Protocols
 * [DTR Memo](https://gist.github.com/adriennedomingus/143234218987385023a6)
-* [Pull Request](https://github.com/adriennedomingus/feline_friends-y/commit/3f3cb6f0d72b83022d8dac0d2aa6b38253978662)
 * [Another Pull Request](https://github.com/adriennedomingus/feline_friends-y/commit/b4bc8cbbe101543e4e7443353e051e19dc067049)
 * [ReadMe](https://github.com/adriennedomingus/feline_friends-y)
 
@@ -91,6 +90,18 @@
 
 "Adrienne is the full package: strong organization, algorithmic thinking, and creativity. This was demonstrated by her leadership role in the Little Shop Project were we successfully completed base functionality several days ahead of schedule. Adrienne can continue to work on stepping out of the box. Given her high level of performance she can expertly stay with in the lines even if client requirements require her to jump through hoops. This may not always be the right answer and should be weighed with skepticism given she is the expert."**-Allan Blair**
 
+## Feedback For Others
+
+* **Chelsea Johnson:** "Chelsea is an awesome teammate. Not only is she strong technically, but she has a sense of humor and attitude that makes work time enjoyable. When we hit snags, Chelsea is open to other people's ideas and provides her own, resulting in a better end result than either of us could have produced independently, and she consistently follows through with the work she commits to. One area of growth for Chelsea would be her willingness to try new things, even if she's not sure how they work - once she starts, she clearly has the ability to research and tinker until she gets things working, but has unnecessary nervousness about jumping in. Great pairing experience!"  
+
+* **Allan Blair:** "Allan is a strong programmer who shows passion for and dedication to learning as much as he can, above and beyond what is required of him. He shows creativity in the approach he takes to solving new problems, as well as a consistent ability to solve what comes his way.  Allan can continue to work on having more forgiveness/patience with team members when they make mistakes or don't understand something."  
+
+* **Heidi Hoopes:** "Heidi was a highly engaged, dedicated, and communicative partner on the Rails Mini Project. She was full of ideas and showed interest in learning things she wasn't already comfortable with. My main feedback for her would be to have more confidence in her abilities."
+
+* **Adam Hundley:** "Adam was great to work with - an excellent thought partner when pairing or troubleshooting, in addition to being reliable and thorough when dividing and conquering. I appreciated his consistently positive attitude and strong work ethic - it's a powerful combination, and I hope to have the opportunity to pair with him again."  
+
+* **July Tran:** "July was great with maintaining a positive work environment when we were together. I know she had a lot going on in her life that week, but I felt like her follow through on some of the divide and conquer tasks was incomplete, and I would have liked her to have been more engaged when we were pairing together, even if Adam or I was driving. Overall, her understanding of the work seemed complete, and she were reliably present when we needed her, and I appreciated her note-taking and debugging on the final sprint!"Â
+
 ## Participation
 
 * Regularly participated in Joan Clarke Society events
@@ -100,5 +111,5 @@
 * Took on a 1603 pre-work guidee
 
 ## Posse Challenges
-[College Scorecard](https://github.com/chadellison/posse_challenges/tree/master/college_scorecard)
+[College Scorecard](https://github.com/chadellison/posse_challenges/tree/master/college_scorecard)  
 [Other Kay Posse Challenges](https://github.com/kay-posse)
