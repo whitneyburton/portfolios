@@ -79,7 +79,7 @@ To Emily Dowdle: I really enjoyed my time pairing with Emily on Game Time.  We�
 I had the pleasure of working with Matt on Bartleby, probably the most challenging three day project I’ve ever worked on, and a student led session on Angular.  Matt picks up new tech and concepts as fast as anyone I’ve worked with.  He’s hungry and expects a lot of himself and his code, and it shows.  His (justified) confidence in his programming skills inspire confidence in the people he works with, without creating any tension or sense of superiority.  In fact, he might play down his skills and abilities more than he should.  After Turing, I hope we can continue to work together and learn from each other.  
 - Matt Rooney
 
-I’m getting a jump on portfolio feedback: "Matt was a solid partner for Game Time. We paired well together on difficult aspects of the project while splitting up other aspects of the build. Matt communicates well and shows an enthusiasm for programming. Toward the end of the project, we struggled to clean up the code and remove bugs. Even in stressful moments, Matt showed composure and thoughtfulness.  
+Matt was a solid partner for Game Time. We paired well together on difficult aspects of the project while splitting up other aspects of the build. Matt communicates well and shows an enthusiasm for programming. Toward the end of the project, we struggled to clean up the code and remove bugs. Even in stressful moments, Matt showed composure and thoughtfulness.  
 - Emily Dowdle
 
 ### Playing a Part
