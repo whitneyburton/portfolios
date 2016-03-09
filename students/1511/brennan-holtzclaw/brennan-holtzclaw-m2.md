@@ -10,107 +10,107 @@ In Module 2 I want to focus on some of the front-end options to make sure that I
 # Goals for Module 2
 
 * Learn and hone HTML and CSS styling to improve full-stack abilities and explore a more creative side of things.
-<!-- ** make this sound better! -->
 
 * Solid understanding of SQL and other database resources and tools.
-<!-- ** make this sound better! -->
 
 * I want to try to be more sure that people are giving me honest feedback, and that I am making actual use of that feedback. Also, make sure that the feedback I give is actually actionable and useful.
-<!-- ** make this sound better! -->
 
 ## Blog Post
 
-<!-- insert blog post or link to post here -->
+http://brennanholtzclaw.github.io/2016/02/16/from-sinatra-to-rails.html
 
 ## Mentor Sessions
 
-<!-- I meet with one mentor every week for at least an hour (his name, when)-->
-I met with my mentor, Travis Yoder, for at least an hour every week
+I met with my mentor, Travis Yoder, for at least an hour 4 of the six weeks. One week was cancelled due to illness, and one due to technical difficulties.
+
 
 ## Posse Challenges
 
-<!-- I have no idea what this is yet -->
+https://github.com/brennanholtzclaw/posse_challenges
 
 ## End of Module Assessment
 
 #### Notes
 
-Assessed by:
+Assessed by: Rachel
 
-Excercise:
+Excercise: Top Attempt scores
 
 
 #### Scores
 
+***Analytic/Algorithmic Thinking:*** **3** - Developer breaks complex problems into small, digestible steps and executes them
 
-***Ruby Syntax & API:*** **X** -
+***Ruby Syntax and the Standard Library:*** **3** - Developer is able to comfortably implement solutions in Ruby
 
-***Ruby Style:*** **X** -
+***Rails Syntax and API:*** **3.5** - Developer is able to utilize Rails methods and structures, but needs some direct guidance
 
-***Blocks & Enumerations:*** **X** -
+***MVC & Rails Style:*** **4** - Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and keep logic out of views and controllers
 
-***Testing:*** **X** -
+***Testing:*** **3** - Developer writes tests at multiple layers of abstraction to drive development with guidance
 
-***Workflow:*** **X** -
+***Collaboration:*** **4** - Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
-***Collaboration:*** **X** -
 
-#### Personal Notes on Assessment
+#### Assessor Notes
+* knew to build data out of order to validate top scoring method works
+
+* comfortable building route, controller action, and view
+
+* customized failure messages to give more data
+
+* able to associate attempts and levels to create appropriate data for testing
+
+* great explanation of steps and thought process
+
+* some syntax issues with sort_by but able to figure them out with debugging using pry
+
+* remember to drop down to model level!
+
+* able to use save_and_open_page to debug
+
 
 
 # Non-Evaluated Projects
 
+#### Sinatra CRUD Project
+https://github.com/brennanholtzclaw/robot_world
 
+#### Tool Chest
+https://github.com/brennanholtzclaw/tool_chest
 
-
-### FIRST NON-EVALUATED PROJECT
-
-#### Notes
-Assessed By:
-
-Repository:
-
-#### Scores
-
-***Functionality:*** **X** -
-
-***Testing:*** **X** -
-
-***Encapsulation*** **x** -
-
-***Ruby Style:*** **X** -
-
-***Looping or Recursion:*** **X** -
-
-#### Personal Notes on Assessment
+#### Rails Mini Project
+https://github.com/natevenn/americas_funnies_home_gifs
 
 
 ## Mid-Module Diagnostic
 
-
 #### Notes
 
-Assessed by:
+Assessed by: Andrew
 
-Exercise:
+Exercise: Passing two failing tests in Rails
 
 Comments:
+* Did well.
+* Good TDD
+* Implemented create method without handleing save.
+* Subjective evaluation will be made on your work/process according to the following criteria:
 
 
 #### Scores
 
-***Ruby Syntax & API:*** **X** -
+***Analytic/Algorithmic Thinking:*** **3** - Developer breaks complex problems into small, digestible steps and executes them
 
-***Ruby Style:*** **X** -
+***Ruby Syntax and the Standard Library:*** **3** - Developer is able to comfortably implement solutions in Ruby
 
-***Testing:*** **X** -
+***Rails Syntax and API:*** **3** - Developer is able to utilize Rails methods and structures, but needs some direct guidance
 
-***Workflow:*** **X** -
+***Rails Style:*** **3** - Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
 
-***Collaboration:*** **X** -
+***Testing:*** **4** - Developer writes tests at multiple layers of abstraction to drive development
 
-#### Personal Notes on Assessment
-
+***Collaboration:*** **3** - Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 # Evaluated Projects
 
@@ -121,7 +121,7 @@ Group: Brennan, Kimi K., Brian R.
 #### Notes
 Assessed By: Andrew Carmer
 
-Assessor Notes:
+Assessor Notes: (see personal votes below)
 
 Repository: https://github.com/ksk5280/rush-hour
 
@@ -168,6 +168,43 @@ Don't abbreviate - be explicit
 
 Make sure there's no logic in view layer. Formatting (.join(", ")), can be pulled out into a method. No heavy logic in views.
 
+### Pull Request
+Here's an example of a good pull request that I wrote this module.
+
+User story:<br>
+As an Admin<br>
+When I log in<br>
+Then I am redirected to "/admin/dashboard"<br>
+
+As an Admin<br>
+When I visit "/admin/dashboard"<br>
+I will see a heading on the page that says "Admin Dashboard"<br>
+As a registered user<br>
+When I visit "/admin/dashboard"<br>
+I get a 404<br>
+As an unregistered user<br>
+When I visit "/admin/dashboard"<br>
+I get a 404<br>
+
+##### commits
+ Add user role to denote default user or Admin<br>
+ Allows users to be created as an administrator.<br>
+ Add Administrator role to user model
+* Add Base Controller for admins
+* Add Dashboard Controller which inherits from Base
+* Add ```current_admin?``` method which keeps non-admins out of admin territory.
+* Visitors and regular users do not see admin dashboard
+* Add basic styling to admin/dashboard index page
+ Merge to current local master
+ Change admin dashboard path in routes and tests to be more explicit
+
+### Read Me
+https://github.com/ksk5280/lucky-charms
+
+##### DTR Memo
+https://gist.github.com/ksk5280/f782509aff3ee36ac46e
+
+
 # Community
 
 ### Attendance
@@ -189,23 +226,12 @@ Below is feedback I've gotten from my fellow students:
 
 
 ### Being a community member
-<!-- Change this for mod 2 stuff -->
-<!-- During my second-try at the first module here at Turing I've mostly just tried to make sure I was getting what I needed out of the program, and figuring out where I can fit in.
-I recently took the lead on pushing up a Turing podcast. Production halted over the holidays, but I hope to get it picked back up very soon. I also attended most of the ~~DSA~~ Clarke Coin meetings hosted by Horace after school twice a week and took part in the Improv elective on Tuesdays. -->
-I brought the podcast back with a vengance this module.
+I brought the podcast back with a vengeance this module.
+
+I taught another student-led session this module to try and get more people involved in the podcast.
 
 I was appointed as the Posse anchor this module. I tried to make sure everyone was there as often as possible, and I offered help to module 1 students to make sure they understood what was going on, and had help on what they were working on at the time.
 
 I took part in most of the weekly improv classes.
 
 ## Review
-
-### Notes
-
-* bring back the podcast
-* keep clarke coin alive
-* consistently been an active and core member of the group; really
-appreciate your influence on the group dynamic for 1511
-* happy to see the second attempt go so much better -- hope you
-will take time to reflect on what worked better the last time
-* would love to see you organizing the cohort things that people can "opt in" to
