@@ -4,11 +4,49 @@
 
 ### Areas of Emphasis
 
-Work this.
+This module I initially had a difficult time deciding what would be my area of focus. I was looking to see where I belonged in the wide world of web development. I have some sense of just how broad that term is, and I wanted to spend time this module figuring out what my piece of it would be. To some degree that goal has been deferred to later modules. Instead, I spent most of my time just trying to write good code. At first that meant just making sure I could complete the assignments given me, and later it became an effort to improve my ability to identify places where I could clean up my code, be more efficient, and more generally just start thinking like a Ruby wizard. I'm not there yet, but as I look back at my code I can see a marked improvement in its quality. Early on, our instructors told us that learning the language was the easy part: solving problems is what really makes or breaks a developer. I took that to heart, and I think it shows.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+
+*Evaluation Comments*
+* comfortable with file paths
+* great explanations of thought process
+* remember to run tests for each small step
+* comfortable with ruby syntax
+* able to build out functionality for two objects to interact
+* run tests!
+* able to use assert_equal, assert_kind_of
+* able to access array elements using position numbers
+* comfortable refactoring to use reduce with a hash
+* able to use merge example and apply to own code
+
+*Evaluation Scores*
+
+* Ruby Syntax & API: 4
+* Completion and Progress: 3.5
+* Testing: 3
+* Workflow: 3.5
+* Collaboration: 4
+* Enumerable & Collections: 3
+
+
+### Mid Module Assessment
+
+In the mid-module assessment I was asked to extend the functionality of a small class that was able to score Scrabble words. I implemented a method that would multiply the score for certain letters, add a bonus if a word was greater than 7 characters long, and multiply the total score for a word by an amount given by the user.
+
+*Evaluation Comments*
+
+* Started by writing tests first.
+
+*Evaluation Scores*
+
+* Ruby Syntax & API: 4
+* Ruby Style: 3
+* Blocks & Enumerations: 3
+* Testing: 4
+* Workflow: 4
+* Collaboration: 4
 
 ### Work
 
@@ -82,7 +120,6 @@ Over the course of 3 days, I created a class with autocomplete functionality usi
 
 * Keep going. You're where we want you to be.
 
-
 *Evaluation Scores*
 * Functional Expectations: 4
 * Test-Driven Development: 3
@@ -134,23 +171,53 @@ Description
 
 ## Community
 
+### Posse Challenges
+
+A link to our successfully completed posse challenges can be found [here](https://github.com/bethsecor/golick_posse_challenges). Consistent with the portfolio requirements, my posse completed four of five challenges (work has been posted to Turing Towers, but ultimately we did not complete that challenge). I personally took the lead on two of the four challenges that we completed: Codebreakers (original repo [here](https://github.com/s-espinosa/codebreakers)), and People Database (commit history [here](https://github.com/bethsecor/golick_posse_challenges/commits/master/people_database)). Ultimately the greatest value of the posse was being able to talk to Beth, Heidi, and July about all things Turing (including how they had completed projects in the past), and not Turing (Star Wars, appropriate short length, hot concerts to attend, and how much cooler we are than other posses). I understand that in past cohorts there were big sib/little sib relationships, and in many ways I think the posse filled that space for me.
+
 ### Giving Feedback
 
+*Feedback to Kris Foss*
+I was paired with Kris Foss for a short session where we tried different pairing styles using a project where we created a robot that could navigate a grid. For this exercise we paired with multiple people using different pairing strategies.
 * Kris was the first person I paired with today who went through the tests provided to identify all of the methods that the Robot class needed to have. It was just an approach that no one else brought to the problem that I thought was both refreshing and pretty smart. To me, it showed a real understanding of the testing process, the relationship between tests and the code it's testing, and just a general sense of how code works (i.e. the relationship between an object and its methods).
+
+*Feedback to Chris Soden and Thom Pickett*
+I was paired with Chris and Thom for a short project session as part of our introduction to pairing practices.
 * Chris did a great job taking control and driving the project. He was able to keep things moving and actually implement code while both Thom and I lobbed ideas at him. It's hard with shorter projects, but I think as a group we could've been better at sharing that responsibility and giving Chris some time to pitch ideas and some relief from the nitty gritty of making things work.
 * It's great to bounce ideas around with Thom. Multiple times in our short session (and in other interactions we've had), I felt he helped me to think through the problem, poked holes in some of my initial thoughts, and provided ideas for other ways to approach the issue at hand. It's hard in a short session, but I think as a group we could potentially do a better job of sharing the 'driving' responsibility to make sure it didn't feel like Thom and I were telling Chris what to do the whole time.
 
+*Feedback to Toni Rib*
+I worked with Toni as part of her *Tuesday's with Toni* pairing sessions.
+* I managed to snag a pairing session with Toni during the week that our final project was assigned, and our meeting was especially helpful as my partner and I worked to determine the way forward. Toni’s content knowledge was strong, and she was able to pick up quickly and make meaningful comments. That said, one of the best parts of working with Toni was the time she took at the beginning of the session to get to know me and my background and to give me that same opportunity. It just set the session off on a good foot, and helped make me feel comfortable. She also juggled questions from both my partner and I, and managed to keep everything moving.
+
+*Feedback to Matt Pindell*
+Matt and I were paired for the Hyde project described above.
+
+I'm a better programmer for working with Matt P. Let's talk about why: 
+* First and format his red/green/refactor cycle is super strong. Especially the refactor portion. I learned that refactoring isn't the kind of thing that you do "at the end," but instead a constant part of the process. 
+* He has a commitment to writing clean, beautiful code. He'll apologize for being a stickler about making '=' line up, but the code is easier to read because of it. 
+* He's great at breaking problems down into parts that make sense, and does a really great job of naming methods, variables, etc., which again leads to readable code and helps make it easier to go back and read code when refactoring/revising.
+* His work ethic is strong, and he's dedicated to putting in the work to get things done.
+* The one thing I could think of that might benefit Matt in the future would be to not hesitate to check the internet for code samples when it seems like there might be an easy way to do something. It sounds like a weird thing, and there's definitely a balance to be had (I don't think anyone wants to go to the internet for everything), but I think I was more willing to fire up a google session to find some tips on how to do something.
+
 ### Being a Community Member
 
+*Feedback from Kris Foss*
 * Sal is great to pair with, he really takes time to explain why he's doing certain things so I can understand. I felt like I learned more about Ruby from the pairing. He's patient, smart, and kind. I don't know what to suggest to do in the future and what is standing between him and his potential. He seems like he's getting to great heights all by himself. I really enjoyed working with Sal.
+
+*Feedback from Thom and Chris*
 * Sal is great at contributing his ideas without overriding the collaborative process. If we teamed up again, we could take turns on who's driving to shake up the dynamics of the group.
 * Sal did an excellent job communicating with the team and sharing ideas. Something the team could do better next time, we should have run the unit tests first to establish a solid baseline.
 
 
 ### DTR Memo
 
-* DTR 1: Included in this folder in the repository. This memo describes the outcomes of the DTR between my partner for the Hyde project and me.
+* [DTR 1](https://github.com/pindell-matt/hyde/blob/master/hyde_dtr_memo.md): Included in the Hyde repository. This memo describes the outcomes of the DTR between my partner for the Hyde project and me.
 * [DTR 2](https://github.com/kristindiannefoss/black_thursday/blob/master/DTR.md): Included in our Black Thursday repository.
+
+### Blog post
+
+In response to a question from a classmate, I wrote [a post about testing strategies](http://s-espinosa.github.io/jekyll/update/2016/02/29/hello-there.html).  
 
 ### February 29, Protocol Assignment
 
