@@ -118,16 +118,15 @@ https://github.com/turingschool/feedback
 ## Community
 
 ### Feedback to Me
-Based on the feedback from staff and colleagues I focussed on two areas to improve. The most important area of development was to break down complex problems into small manageable chunks. Using pseudo code and writing tests I practised to better understand how classes, their instances and methods are connected and which roles variables and arguments play and how to identify and use them. I have a better grasp at understanding and writing down code but need to keep practising writing code. The goal is to work through the collection challenges on the Turing site over the next weeks. I also plan to offer help to first module students during module 2 to keep practising my understanding by explaining the concept to others. On the other hand I trained using more and more keyboard short cuts and did typing practise to improve my workflow. I will need to practise more to get faster typing and will keep working on this in the next modules. 
+Based on the feedback from staff and colleagues I focussed on two areas of improvement. The most important area of development was to break down complex problems into small manageable chunks. By writing pseudo code and tests upfront I practised to better understand how classes, their instances and methods are connected and which roles variables and arguments play and how to identify and use them. I have a better grasp at understanding and writing down code but need to keep practising. The goal is to work through the collection challenges on the Turing site over the next weeks. I also plan to offer help to first module students during module 2 to keep practising my understanding by explaining concepts to others. On the other hand I trained to increase the usage of keyboard short cuts and did typing practise to improve my workflow. Also here I need to practise more to get faster typing and will keep working on this in the next modules. 
 
 Feedback from my project partners:
 
 Claudia is a great partner. She has a strong grasp on problem solving without tying it to programming, which makes the programming process so much easier. She is deeply rooted in TDD and has a strong attention to detail. I would love to partner with Claudia on other projects. It was great to work with her and I feel like we had a good understanding of each others' strengths and weaknesses before going into the project. Claudia could use a tiny bit of work on workflow and shortcuts (using the mouse less), but other than that, she was great to work with!
 
-Feedback after day 1 of collaboration on Black Thursday
+Feedback after day 1 of collaboration on Black Thursday:
 Working with Claudia on black thursday has been great so far! She is able to clearly communicate her thought process, which makes the experience feel highly collaborative. She is resourceful when troubleshooting issues and is developing a very strong grasp on OOD. I think she would benefit from writing more methods, and she does take initiative to do this. I think more practice will solidify her enumerable skills. Our approach so far has involved a lot of isolating ins/outs and I think this is helping both of us understand how to systematically debug and ensure compliance. It would be nice if we could make a strategy to split up more work, but so far the program has been difficult to parse into functional pieces.
 
-https://turingschool.slack.com/archives/D0PGKKD5G/p1457021364000003
 
 ### Giving Feedback
 
@@ -142,9 +141,9 @@ https://turingschool.slack.com/archives/D0PGKKD5G/p1456893076000014
 
 ### Instructor Feedback
 
-In week 5 I worked with Horace for an hour pairing session. 
+In week 5 I worked with Horace for an hour pairing session. This is his feedback:
 
-* doing well mechanically -- pretty comfortable translating ideas into cod 
+* doing well mechanically -- pretty comfortable translating ideas into code 
 * enums are ok -- doing well with basic looping; could keep adding to that toolbox over the next couple weeks
 * biggest thing to focus on is going slower and breaking problems into small approachable pieces
 * seems like once we identify what the small piece is you are able to get it done pretty easily, so we just need ot get to that point more quickly
@@ -155,7 +154,7 @@ In week 5 I worked with Horace for an hour pairing session.
 
 ### Blog Post
 
-I wrote the following blog post about the project Junglebeats
+I wrote the following blog post about the project Junglebeats:
 https://gist.github.com/Claudia108/a0ad9bc16918b18aa6d1
 
 ### Posse Challenges
@@ -183,6 +182,10 @@ Schedules and pairing time:
 
 
 
+### Pull Request
+During my collaborative projects my partners and I paired for most of the time. Detailed pull request comments were not necessary. Here are two example of more detailed pull requests.
+
+https://github.com/notmarkmiranda/hyde/pull/17
 
 
 ### Playing a Part
