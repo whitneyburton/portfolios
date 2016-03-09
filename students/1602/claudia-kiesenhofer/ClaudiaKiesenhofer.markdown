@@ -6,12 +6,30 @@
 
 Coming into the first module I had three main goals. Having no experience with programing I first of all wanted to find out if I actually like programming and if I am capable and interested in understanding the concepts of programming languages. The second goal was to check out the community of programers and find out if feel I can thrive in this environment. Thirdly I wanted to really understand the concepts of Ruby and learn how to effectively use its rich library to create programs. At the end of module 1 I am very happy about the choice I made. I really enjoy programming and feel very much a part of this community already. I am still in progress reaching my third goal and realize it will probably take quite some time of practise to fully get there. I am satisfied with my progress so far.
 
-### Module Assessment
+### Mid-Module Assessment
 
-* Ruby Syntax and Workfow: 2
-* Javascript Basics: 
-* Workflow: 
-* Collaboration: 
+* Ruby Syntax and API: 3 (Developer is able to comfortably implement solutions in Ruby)
+* Ruby Style: 3 (Developer writes code that is easy to follow)
+* Blocks and Enumerables: 3 (Developer demonstrates understanding of blocks and can effectively use enumerable methods)
+* Testing: 3 (Developer uses tests to guide development in small chunks)
+* Workflow: 2 (Developer smoothly moves between tools, but is dependent entirely on mouse-driven interaction)
+* Collaboration: 3 (Developer lays out their thinking *before* attacking a problem and integrates feedback through the process)
+
+Notes from Nate:
+* Look up a couple keyboard shortcuts. http://blog.bugsnag.com/atom-editor-cheat-sheet
+* I like that you're concerned with naming.
+
+### End-of-Module-Assessment
+
+* Ruby Syntax and API: 3 (Developer is able to comfortably implement solutions in Ruby)
+* Ruby Style: 3 (Developer writes code that is easy to follow)
+* Blocks and Enumerables: 3 (Developer demonstrates understanding of blocks and can effectively use enumerable methods)
+* Testing: 3 (Developer uses tests to guide development in small chunks)
+* Workflow: 3 (Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts)
+* Collaboration: 3 (Developer lays out their thinking *before* attacking a problem and integrates feedback through the process)
+
+Notes from Horace:
+
 
 ### Attendance
 
@@ -106,11 +124,8 @@ Feedback from my project partners:
 
 Claudia is a great partner. She has a strong grasp on problem solving without tying it to programming, which makes the programming process so much easier. She is deeply rooted in TDD and has a strong attention to detail. I would love to partner with Claudia on other projects. It was great to work with her and I feel like we had a good understanding of each others' strengths and weaknesses before going into the project. Claudia could use a tiny bit of work on workflow and shortcuts (using the mouse less), but other than that, she was great to work with!
 
-
-Aside from the required feedback for short pairing sessions with peers my colleagues and I gave each other writeen feedback during the partner projects - one at the beginning and another one towards the end of the project. This helped to identify what worked well and what could be improved. We could focus on those areas of improvement during the project time.
-
-https://turingschool.slack.com/archives/D0NG6K0NL/p1456274895000005
-https://turingschool.slack.com/archives/D0NG6K0NL/p1456459709000002
+Feedback after day 1 of collaboration on Black Thursday
+Working with Claudia on black thursday has been great so far! She is able to clearly communicate her thought process, which makes the experience feel highly collaborative. She is resourceful when troubleshooting issues and is developing a very strong grasp on OOD. I think she would benefit from writing more methods, and she does take initiative to do this. I think more practice will solidify her enumerable skills. Our approach so far has involved a lot of isolating ins/outs and I think this is helping both of us understand how to systematically debug and ensure compliance. It would be nice if we could make a strategy to split up more work, but so far the program has been difficult to parse into functional pieces.
 
 https://turingschool.slack.com/archives/D0PGKKD5G/p1457021364000003
 
@@ -155,6 +170,18 @@ Challenge week four: https://github.com/brianrip/posse_challenges/tree/master/co
 ### DTR 
 
 I worked with Patrick Hardy on the project Black Thursday.
+
+Goals for the projects:
+
+Weaknessans and strengths:
+
+Learning goals:
+
+Conditions for best work:
+
+Schedules and pairing time:
+
+
 
 
 
