@@ -128,20 +128,20 @@ Matt Rooney: "I was lucky enough to have the pleasure of working with Sekhar on 
 
 ### Playing a Part
 
-*Put up art on the walls at Turing
-*Put up all faces and names on bulletin boards at Turing's entrance so folks would learn each other's names better and have a central reference
-*Organized gifts for teachers for the end of module 3 - actual rakes (large and small) from Ace Hardware as Turing props and Pat Wey trading cards I bought on ebay
-*Planned a brief Josh Cheek going away party with a cake during hell week, also collected money to buy the cake that said "1508 Loves Josh" on it from The Market
-*Did an interview and helped write/published with Course Report a Student Spotlight piece, covering my experience as a student at Turing
-*Co-led and taught an Intro to Elm Programming elective class on a Friday with Matt Rooney
-*Interviewed with Colorado Impact Fund on my experience at Turing and in the intensive programming school space in general, and introduced that team to another student at Turing (George Hudson) and staff members
-*Helped organize the Turing holiday party with Joanne just before the break at Breckenridge Brewery
-*Planned Field Day at 1Up, the arcade in LoDo, which I heard great feedback on
-*Planned a first week LGBTuring lunch at Hapa this module, which Module 1 students showed up to
-*Organized the LGBTuring event this module after Field Day, at Falling Rock Tap House. Also had Module 1 students show up who identified as LGBT, and really enjoyed the community aspect of the group, even as it meets sporadically (twice a module)
-*Student Advisory Board work in general / helping clean Turing / input to the staff and help with various mini-projects around Turing (cleaning chores calendar, soft skills surveys etc.)
-*Brought all the breakfasts in this module (six Fridays), rotating between burritos and bagels
-*No big deal, casually saved Josh Cheek $5400 by helping him rent his apartment for four months while he's gone :) Refused his offer to give me a 25% cut since it would be like taking candy from a child
+* Put up art on the walls at Turing
+* Put up all faces and names on bulletin boards at Turing's entrance so folks would learn each other's names better and have a central reference
+* Organized gifts for teachers for the end of module 3 - actual rakes (large and small) from Ace Hardware as Turing props and Pat Wey trading cards I bought on ebay
+* Planned a brief Josh Cheek going away party with a cake during hell week, also collected money to buy the cake that said "1508 Loves Josh" on it from The Market
+* Did an interview and helped write/published with Course Report a Student Spotlight piece, covering my experience as a student at Turing
+* Co-led and taught an Intro to Elm Programming elective class on a Friday with Matt Rooney
+* Interviewed with Colorado Impact Fund on my experience at Turing and in the intensive programming school space in general, and introduced that team to another student at Turing (George Hudson) and staff members
+* Helped organize the Turing holiday party with Joanne just before the break at Breckenridge Brewery
+* Planned Field Day at 1Up, the arcade in LoDo, which I heard great feedback on
+* Planned a first week LGBTuring lunch at Hapa this module, which Module 1 students showed up to
+* Organized the LGBTuring event this module after Field Day, at Falling Rock Tap House. Also had Module 1 students show up who identified as LGBT, and really enjoyed the community aspect of the group, even as it meets sporadically (twice a module)
+* Student Advisory Board work in general / helping clean Turing / input to the staff and help with various mini-projects around Turing (cleaning chores calendar, soft skills surveys etc.)
+* Brought all the breakfasts in this module (six Fridays), rotating between burritos and bagels
+* No big deal, casually saved Josh Cheek $5400 by helping him rent his apartment for four months while he's gone :) Refused his offer to give me a 25% cut since it would be like taking candy from a child
 
 ## Review
 
