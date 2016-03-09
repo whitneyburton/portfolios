@@ -51,7 +51,6 @@ input, and our own collision detection to accomplish this.
 
 _253 points_ / 300
 
-__(feedback to me)__
 
 #### ScaleUp
 
@@ -64,11 +63,11 @@ __(feedback to me)__
 
 ### Giving Feedback
 
-__(feedback from me)__
+Robbie is one of the most talented and driven individuals I've met at Turing. Working with Robbie will always result in a finished product that is not only clean and polished on the front-end, but logically sound and well factored on the back-end. Robbie has the ability to tackle unique and complicated problems with ease. I'm thankful to have worked with Robbie as many times as I have, and look forward to continuing our friendship and collaboration after Turing.
 
 ### Being a Community Member
 
-__(feedback to me)__
+It has been an absolute pleasure getting to know Ross and I feel fortunate to have been able to collaborate on a few different projects with him during my time at Turing. Ross is an excellent developer who has the ability to think outside the box and tackle difficult problems. He has a strong work ethic, is easy to work with, and most importantly, he gets shit done. I am stoked we will both be staying in Denver and I look forward to collaborating in the future.
 
 ### Playing a Part
 
@@ -86,7 +85,12 @@ As part of the ScaleUp project, we were required to write a blog post. Here is m
 
 We were also encouraged to either write or contribute to a Node Library. Here are my contributions
 
-[File-bin](https://github.com/stevekinney/file-bin/commit/e4cc1185e225c213e183d10a9fa590c369c3ea05)
+[File-bin Commits](https://github.com/stevekinney/file-bin/commit/e4cc1185e225c213e183d10a9fa590c369c3ea05)
+[File-bin PR](https://github.com/stevekinney/file-bin/pull/8)
+
+Here is one of my favorite Readme's
+
+[bartleby](https://github.com/rossedfort/bartleby/blob/master/README.md)
 
 ## Review
 
