@@ -18,24 +18,27 @@ Learn as much as possible during my time at Turing. Capitalize on the intellectu
 
 ### End of Module Assessment
 
-**Challenge: Mavis Beacon**
+**Challenge: Mavis Bacon**
 
-Assessed By: Rachel
+Assessed By: Andrew
 
-Result: TBD
+Result: PASS
 
 ##### Notes:
 
-* TBD
+* Testing got to a fairly robust level. I would have liked to see a scope of the assertion, but did not.
+* Told developer to focus on defining everything needed before diving into the test so the whole test can drive implementation of the whole feature.
+* Ruby was good, but not completely refactored. Was able to refactor collaboratively.
+* Overall a good solid assessment and a pass
 
 ##### Scores:
 
-* Ruby Syntax & API: TBD
-* Ruby Style: TBD
-* Blocks & Enumerations: TBD
-* Testing: TBD
-* Workflow: TBD
-* Collaboration: TBD
+1. Analytic/Algorithmic Thinking: 4
+2. Ruby Syntax & Standard Library: 3
+3. Rails Syntax & API: 4
+4. MVC & Rails Style: 4
+5. Testing: 3
+6. Collaboration: 4
 
 ### Mid Module Assessment
 
@@ -145,9 +148,9 @@ Assessed By: Andrew
 
 >Allan is a strong programmer who shows passion for and dedication to learning as much as he can, above and beyond what is required of him. He shows creativity in the approach he takes to solving new problems, as well as a consistent ability to solve what comes his way.  Allan can continue to work on having more forgiveness/patience with team members when they make mistakes or don't understand something. -**Adrienne Domingus**
 
->-**Chelsea Johnson**
+>I truly enjoyed working with Allan. His positivity and sense of humor contributed significantly to the dynamic of our group.  He demonstrates a solid understanding of Ruby and Rails and solved difficult problems with ease. He enjoys pushing the limits of his understanding and exploring new ideas (NPrrr and his side hustles). Occasionally his communication during collaborating was slightly lacking; however, his communication improved as the project progressed.-**Chelsea Johnson**
 
->-**Chad Ellison**
+>Allan is a very strong programmer. He is very aware of what his code is doing, and he is a very efficient debugger. It was rare that we would spend more than 30 minutes troubleshooting a problem during our traffic spy project. I have no doubt that Allan will become a great developer; he works very hard and has strong technical abilities. I think Allan could benefit by continuing to develop his soft skills as he works with others, specifically by communicating how he intends to tackle a problem and his thought process along the way.-**Chad Ellison**
 
 
 ### Playing a Part
@@ -157,10 +160,10 @@ I've participated in the larger Turing Community in the following ways:
 * Attended several Clarke Coin meetings
 * Acted as Fred Brooks posse anchor
 * Lightning Talk: Introduction to Go
-* Led Student electives:
+* Led the following student electives:
   * [Technical Interview Prep](https://github.com/amaxwellblair/tech_interview_prac/tree/master/btrees)
   * [Introduction to Go](http://www.amaxwellblair.com/posts/simple_chat_app_using_golang)
-  * [Introduction to Reddit API]
+  * [Introduction to Key/Value pairs in Go](#)
 
 ### Other Requirements:
 
