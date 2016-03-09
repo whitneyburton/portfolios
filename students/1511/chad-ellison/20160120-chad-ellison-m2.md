@@ -22,26 +22,24 @@ I was present for the entire module.
 * Nate Venn: wants to get practice building out features, some styling, and have checkins before working each day.
 
 ## Examples of Pull Requests
-* [GibHub URL](https://github.com/chadellison/custo_candy_co/commit/2612826e1cd735387962c018ec475aa608c076e2)
-* [GitHub URL](https://github.com/chadellison/custo_candy_co/commit/eb8a460cb1b53f9cf38f21af38e7ff96f6c2e8df)
-* [GibHub URL](https://github.com/chadellison/custo_candy_co/commit/ea52137989bd18efcfddfa115114f447d489550c)
+* [Custo_Candy_Co](https://github.com/chadellison/custo_candy_co/commit/2612826e1cd735387962c018ec475aa608c076e2)
+* [Custo_Candy_Co](https://github.com/chadellison/custo_candy_co/commit/eb8a460cb1b53f9cf38f21af38e7ff96f6c2e8df)
+* [Custo_Candy_Co](https://github.com/chadellison/custo_candy_co/commit/ea52137989bd18efcfddfa115114f447d489550c)
 
 ## Example Readme
 * Readme for rails poker app (WIP)
-* [GibHub URL](https://github.com/chadellison/straight_up_poker/blob/master/README.rdoc)
+* [straight_up_poker](https://github.com/chadellison/straight_up_poker/blob/master/README.rdoc)
 
 ###Mentor Sessions
 * Mentor session with Jay Hayes on routes and controllers-- February 3, 2016
 * Mentor session with Trey Tomlinson on Git and GitHub workflow-- February 8, 2016
 * Mentor session with Jay Hayes regarding Poker app; constructed tests and hand analysis-- February, 17, 2016
 * Mentor sessin with Trey Tomlinson on Making Poker app a rails app; researched other similar apps, discussed structure, and created repo with initial commit-- March 4, 2016
-Straight up Poker [GitHub URL](https://github.com/chadellison/straight_up_poker)
+[Straight up Poker](https://github.com/chadellison/straight_up_poker)
 
 ###Blog Posts this Module
-* Bridging the Gap
-[Url](http://chadellison.github.io/jekyll/update/2016/01/26/bridging-the-gap.html)
-* Freakin Debugging
-[Url](http://chadellison.github.io/jekyll/update/2016/02/17/freakin-debugging.html)
+* [Bridging the Gap](http://chadellison.github.io/jekyll/update/2016/01/26/bridging-the-gap.html)
+* [Freakin Debugging](http://chadellison.github.io/jekyll/update/2016/02/17/freakin-debugging.html)
 
 ### Peer Feedback
 ##Feedback from Brian Rippeto
@@ -61,20 +59,20 @@ I have paired with Nate on several occasions including our most recent project. 
 
 ### Posse Challenges
 Our posse was able to complete four out of five of the posse challenges, each of which I was an active participant.
-* College Score Card [GitHub URL](https://github.com/chadellison/posse_challenges)
-* Code breakers [GitHub URL](https://github.com/kay-posse/Codebreakers)
-* Database [GitHub URL](https://github.com/kay-posse/people_database/tree/master/people_database)
-* Enumerables [GitHub URL](https://github.com/kay-posse/people_database/tree/master/enumerables)
+* [College Score Card](https://github.com/chadellison/posse_challenges)
+* [Code breakers](https://github.com/kay-posse/Codebreakers)
+* [Database](https://github.com/kay-posse/people_database/tree/master/people_database)
+* [Enumerables](https://github.com/kay-posse/people_database/tree/master/enumerables)
 
 ### Unevaluated Projects
 These were thoroughly enjoyable as well as a great learning experience. Accessing the Giph API for the gipherator was particularly excellent.
-* Skill Inventory Crud [GitHub URL](https://github.com/chadellison/skill-inventory-crud)
-* Tool Chest [GitHub URL](https://github.com/chadellison/tool_chest)
-* Mix Master [GitHub URL](https://github.com/chadellison/mix_master)
-* Rails mini-project -- The Gipherator [GitHub URL](https://github.com/NickyBobby/gipherator)
+* [Skill Inventory Crud](https://github.com/chadellison/skill-inventory-crud)
+* [Tool Chest](https://github.com/chadellison/tool_chest)
+* [Mix Master](https://github.com/chadellison/mix_master)
+* Rails mini-project -- [The Gipherator](https://github.com/NickyBobby/gipherator)
 
 ### Evaluated Projects
-## Traffic Spy [GitHub URL](https://github.com/amaxwellblair/rush-hour-skeleton)
+## [Traffic Spy](https://github.com/amaxwellblair/rush-hour-skeleton)
 * Evaluated by Andrew Carmer
 * Notes: Notes: All base functionality except for missing payload in posting payload; implemented client registration from browser interface. Great use of testing at all levels. Make sure that you test attributes and relationships instead of just existance. Good use of POROs to delegate responsibilities.
 
