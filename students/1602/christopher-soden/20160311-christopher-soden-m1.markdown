@@ -250,7 +250,7 @@ The program completes the iteration 3 requirements. It needs partner review and 
 
 
 ## Blog Post
-Blog draft:
+Blog draft:  
 Trying to do the NightWriter program really kicked my tail. I thought it would be easy.
 
 The really hard part turned out to be the contractions. You have to slice the string into groups of 80 characters for outputting to 80 character braille lines. What happens if a contraction falls right before the slice and there’s another one immediately after it? If you only have one contraction and it ends before the slice there’s no problem. But if you have 2 in a row the last character of the first contraction is also the first character of the next contraction. You have to preserve them together.  And what happens if a contraction falls across the slice? You have to move the whole thing to the next line. 
