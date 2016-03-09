@@ -91,6 +91,7 @@ As part of the ScaleUp project, we were required to write a blog post. Here is m
 We were also encouraged to either write or contribute to a Node Library. Here are my contributions
 
 [File-bin Commits](https://github.com/stevekinney/file-bin/commit/e4cc1185e225c213e183d10a9fa590c369c3ea05)
+
 [File-bin PR](https://github.com/stevekinney/file-bin/pull/8)
 
 Here is one of my favorite Readme's
