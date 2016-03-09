@@ -57,7 +57,7 @@ _253 points_ / 300
 * [GitHub URL](https://github.com/rossedfort/bartleby)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/bartleby_project.markdown)
 
-![bartleby](http://i.imgur.com/HgzkA9M.png)
+![bartleby](http://g.recordit.co/ogncfwl34M.gif)
 
 ## Community
 
@@ -91,6 +91,10 @@ We were also encouraged to either write or contribute to a Node Library. Here ar
 Here is one of my favorite Readme's
 
 [bartleby](https://github.com/rossedfort/bartleby/blob/master/README.md)
+
+And some notes from a DTR Session
+
+
 
 ## Review
 
