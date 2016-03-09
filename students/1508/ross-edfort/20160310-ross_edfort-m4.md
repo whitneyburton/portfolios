@@ -95,11 +95,11 @@ We were also encouraged to either write or contribute to a Node Library. Here ar
 
 Here is one of my favorite Readme's
 
-[bartleby](https://github.com/rossedfort/bartleby/blob/master/README.md)
+[Bartleby Readme](https://github.com/rossedfort/bartleby/blob/master/README.md)
 
 And some notes from a DTR Session
 
-
+[Bartleby DTR Notes](https://gist.github.com/rossedfort/f6cd94e12a5ce3bb1c21)
 
 ## Review
 
