@@ -4,9 +4,9 @@
 
 ### Areas of Emphasis
 
-Coming into the first module I had three main goals. Without having any programing I first of all wanted to find out if I actually like to program and am capable and interested in understanding the concepts of programing languages. The second goal was to check out the community of programer and find out if feel I can thrive in that environment. Thirdly I wanted to really understand the concepts of Ruby and learn how to effectively use its rich library to create programs using its rich library of options. At the end of module 1 I am very happy about the choice I made. I really enjoy programing and feel very much a part of this community already. I am still in progress reaching my third goal and realize it will probably take quite some time of practise to fully getting there. I am satisfied with my progress so far though.
+Coming into the first module I had three main goals. Having no experience with programing I first of all wanted to find out if I actually like programming and if I am capable and interested in understanding the concepts of programming languages. The second goal was to check out the community of programers and find out if feel I can thrive in this environment. Thirdly I wanted to really understand the concepts of Ruby and learn how to effectively use its rich library to create programs. At the end of module 1 I am very happy about the choice I made. I really enjoy programming and feel very much a part of this community already. I am still in progress reaching my third goal and realize it will probably take quite some time of practise to fully get there. I am satisfied with my progress so far.
 
-### Mid-Module Assessment
+### Module Assessment
 
 * Ruby Syntax and Workfow: 2
 * Javascript Basics: 
@@ -100,7 +100,12 @@ https://github.com/turingschool/feedback
 ## Community
 
 ### Feedback to Me
-Based on the feedback from staff and colleagues I focussed on two areas to improve. The most important area of development was to break down complex problems into small manageable chunks. Using pseudo code and writing tests I practise to better understand how classes, their instances and methods are connected and which roles variables and arguments play and how to identify and use them. I am faster at understanding and writing down code but need to keep practising writing code. The goal is to work through the collection challenges on the Turing site over the next few weeks. I also will offer help to first module students to keep practising my understanding by explaining the concept to others. On the other hand I practised with keyboard short cuts and typing practise to improve my workflow. I will need to practise more to get faster typing code and will keep working on this in the next modules. 
+Based on the feedback from staff and colleagues I focussed on two areas to improve. The most important area of development was to break down complex problems into small manageable chunks. Using pseudo code and writing tests I practised to better understand how classes, their instances and methods are connected and which roles variables and arguments play and how to identify and use them. I have a better grasp at understanding and writing down code but need to keep practising writing code. The goal is to work through the collection challenges on the Turing site over the next weeks. I also plan to offer help to first module students during module 2 to keep practising my understanding by explaining the concept to others. On the other hand I trained using more and more keyboard short cuts and did typing practise to improve my workflow. I will need to practise more to get faster typing and will keep working on this in the next modules. 
+
+Feedback from my project partners:
+
+Claudia is a great partner. She has a strong grasp on problem solving without tying it to programming, which makes the programming process so much easier. She is deeply rooted in TDD and has a strong attention to detail. I would love to partner with Claudia on other projects. It was great to work with her and I feel like we had a good understanding of each others' strengths and weaknesses before going into the project. Claudia could use a tiny bit of work on workflow and shortcuts (using the mouse less), but other than that, she was great to work with!
+
 
 Aside from the required feedback for short pairing sessions with peers my colleagues and I gave each other writeen feedback during the partner projects - one at the beginning and another one towards the end of the project. This helped to identify what worked well and what could be improved. We could focus on those areas of improvement during the project time.
 
@@ -112,6 +117,9 @@ https://turingschool.slack.com/archives/D0PGKKD5G/p1457021364000003
 ### Giving Feedback
 
 Feedback to my project parters:
+
+I very much enjoyed working with Mark on the project Hyde. It was very easy to set our goals and define the working process upfront and stick with it. Mark had a very good grasp on the assignment and was able to communicate clearly what steps he wanted to take when and why. At the same time he was open to all of my ideas for problem solving and working progress. Going into the project I was insecure about my workflow and wanted to work on this. Mark supported me by showing me multiple keyboard shortcuts and being patient me practicing them. We exchanged feedback throughout the project which allowed for a strong sense of mutual support and space for experimentation and creativity. This made the experience very relaxed and joyful. I learned so much on how to tackle a bigger problem, break it into manageable pieces and how to create erb and css files. I would love to work on other projects with Mark. The only thing I would do differently is to take a bit more initiative in writing methods during pairing session and to define and work on pieces independently. Thank you Mark for a great experience of collaborative work.
+
 https://turingschool.slack.com/archives/D0NG6K0NL/p1456274428000003
 https://turingschool.slack.com/archives/D0NG6K0NL/p1456446043000005
 
@@ -120,20 +128,34 @@ https://turingschool.slack.com/archives/D0PGKKD5G/p1456893076000014
 ### Instructor Feedback
 
 In week 5 I worked with Horace for an hour pairing session. 
-I got the following feedback from him:
-https://gist.github.com/Claudia108/a0ad9bc16918b18aa6d1
+
+* doing well mechanically -- pretty comfortable translating ideas into cod 
+* enums are ok -- doing well with basic looping; could keep adding to that toolbox over the next couple weeks
+* biggest thing to focus on is going slower and breaking problems into small approachable pieces
+* seems like once we identify what the small piece is you are able to get it done pretty easily, so we just need ot get to that point more quickly
+* need to start annotating our methods -- what is the input and what is the output
+* dont write code until you have a) a test b) somewhat detailed pseudocode describing the process we need
+* once we do this it will start to make the testing much more effective
+* still a little hung up on method receivers vs args "pizza".our_method -> our_object.our_method("pizza")
 
 ### Blog Post
 
-I wrote the following blog post about my project Junglebeats
+I wrote the following blog post about the project Junglebeats
 https://gist.github.com/Claudia108/a0ad9bc16918b18aa6d1
 
 ### Posse Challenges
 
-We met on most mornings throughout the module to work on the posse challenges. Towards the end of the module most of my posse members were busy with their own projects and didn't have much surplus to meet. Going into the next module I am planning to reach out more to my posse member to see if we can meet outside of school to get to know each other better. I hope this will help to get us more connected and be able to tap more into the resources of the group. 
+We met on most mornings throughout the module to work on the posse challenges. I really enjoyed working with the group. I felt welcome right away. I liked these challenges also because they gave me a great direct feedback on my learning progress. I could contribute so much more with every passing week. Towards the end of the module most of my posse members were busy with their own projects and didn't have much surplus to meet. Going into the next module I am planning to reach out more to my posse to see how we can get connected better so we can utilize the resources of the group more effectivly. 
 
-Challenge week one: https://github.com/thompickett/codebreaker
-Challenge week four: https://github.com/thompickett/codebreaker
+Challenge week one: https://github.com/brianrip/posse_challenges/tree/master/people_db
+Challenge week two: https://github.com/thompickett/codebreaker
+Challenge week three: https://github.com/Salvi6God/Enumerables   
+Challenge week four: https://github.com/brianrip/posse_challenges/tree/master/college_scorecard
+
+### DTR 
+
+I worked with Patrick Hardy on the project Black Thursday.
+
 
 
 ### Playing a Part
