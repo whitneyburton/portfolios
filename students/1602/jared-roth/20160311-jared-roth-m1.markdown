@@ -107,6 +107,14 @@ __Scores:__
 
 ## Team
 
+### Posse Challenges
+
+* [Codebreakers](http://github.com/rossedfort/posse_challenges/tree/master/code_breakers)
+ * This was my first experience working with a team as well as my first foray into ruby. I learned a lot from my more experienced posse members and was actually able to contribute despite not knowing much of anything.
+* [College Scorecard](http://github.com/rossedfort/posse_challenges/tree/master/college_scorecard)
+* [Enumerables](http://github.com/rossedfort/posse_challenges/tree/master/enumerables)
+* [People Database](http://github.com/rossedfort/posse_challenges/tree/master/people_database)
+
 ### Projects
 
 The following projects were completed with a partner.
@@ -160,23 +168,41 @@ __Scores:__
 * Enumerable & Collections: 3
 * Code Sanitation: 4
 
-### Feedback given to/regarding me
+### Select Pull Requests and Readme
+* [Headcount](http://github.com/JaredRoth/headcount/pull/26)
+* [Headcount](http://github.com/JaredRoth/headcount/pull/21)
+* [Hyde](http://github.com/JaredRoth/hyde/pull/25)
+* [Codebreakers Posse Challenge](http://github.com/rossedfort/posse_challenges/pull/1)
+
+* [Hyde Readme](http://github.com/JaredRoth/hyde/blob/master/README.markdown)
 
 ## Community
 
-### Giving Feedback
+### Feedback given to/regarding me
 
-According to the Feedback application:
+* Jeneve Parrish:
+>Jared and I teamed up to build 'Hyde', a lightweight application for blogging. Both our partnership and our project were a success. Jared is very detail-oriented with a keen eye for making code attractive, readable and orderly; I learned a lot about refactoring from him. He was always very positive and collected even when we faced setbacks. Jared is patient and kind, he thinks fast and is always helping others.
 
-* I delivered 100% of the requested feedback
-* 96% of those submissions were approved and delivered
-* 84% of my submissions were meaningful to the recipient
+* Gurusundesh Khalsa:
+>Jared worked with me on my quick refactor of sorting suite. He had a surprisingly good grasp of my code after only a few minutes and was able to contribute to the process.
+I think Jared is well on his way to becoming a better coder.  If he continues to work on understanding the ruby object model, he will get there fast!
+
+### Feedback I Gave to Others
+
+* Mark Miranda:
+>Mark is great at keeping the overall objective in mind and ensuring that whatever we're working on is furthering that goal. While I was getting held up on how to best implement one relatively small aspect of the exercise, he was reminding me of what the time was trying to accomplish.
+
+* Gurusundesh Khalsa:
+>While paired with Sunny toady, he was working on refining/revising his most recently evaluated project. He was great at accepting (potentially critical) input regarding some of his choices. He was also great at explaining the problem he was stuck on from the ground up so that I was able to give beneficial feedback from a place of understanding.
+
+* Kriss Foss:
+>Kris and I paired during the refactoring exercise. She was great at recognizing duplications which helped in significantly reducing class and method sizes. At times, it seemed as though she was a little hesitant to voice her opinion if I was going in a different direction. Her ideas were great and it would be an improvement if she was comfortable voicing her thoughts on projects.
+
+* Jeneve Parrish
+>When Jeneve and I paired for the Hyde project, she admitted that she was struggling at Turing. That honesty carried through the rest of our DTR as she was able to both clearly express her desires and current situation, while listening to and demonstrating understanding of mine. Despite her self-claimed struggles, Jeneve quickly demonstrated her ability to comprehend and break down problems algorithmically. As she would tell you herself, her biggest struggle coming into the project was workflow / computer navigation.Although I have observed her getting stronger in this area through intentional effort in each project, I believe this is the one area that will most benefit her when improved.
 
 ### Playing a Part
 
-* On Friday, June 20, I ran a student-led workshop on Tweaking Your Text Editor
-* On Friday, June 27, I delivered a lightning talk "Hello, Mr. Roboto"
-* On Wednesday, June 30, I delivered "Hello, Mr. Roboto" at Community Night
-* On Saturday, July 15, I organized a bike ride attended by seven Turing students
-* On Thursday, July 24, I published a blog post "How To Link Your Lists" on my
-personal blog and it was included in that week's Posse Post
+Although I never established or ran any formal events, I spent much of the module pairing and helping others work through their projects in an unofficial capacity.
+
+During Jungle Beats in particular I spent a good amount of my time helping a number of students understand some of the key linked-list concepts they were struggling with. Namely: Ji Kim (who decided to re-take the module due to these and other struggles), Jeneve Parrish and Claudia Kiesenhofer.
