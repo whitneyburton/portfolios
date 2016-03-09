@@ -44,14 +44,27 @@ Straight up Poker [GitHub URL](https://github.com/chadellison/straight_up_poker)
 [Url](http://chadellison.github.io/jekyll/update/2016/02/17/freakin-debugging.html)
 
 ### Peer Feedback
+##Feedback from Brian Rippeto
+Chad is someone I always look forward to pairing with for a number of reasons. First of all, he has an inherit passion for programming that is contagious. It doesn’t feel so much like work but an exciting new challenge every time we dig into a problem. He communicates clear and concise ideas that are able to be built upon. Also, he absorbs others input efficiently. He is always open to try new workflow tactics which is reflective of his willingness to grow as programmer and person.
+
+##Feedback from Allan Blair
+The Chad is a passionate student and loves to learn. He has clearly worked on his workflow and can proficiently navigate the terminal. Another strong characteristic of Chad is his communication skills. He can navigate conversations deftly and easily explain his ideas. Chad's love of learning can also make him difficult to work with. In pursuit of understanding Chad will at times slow down or even halt a workflow until he feels comfortable. In moderation this practice is beneficial for everyone to an extreme it can cripple a process. One way Chad could work better with a team is by aggregating his questions instead of several interruptions.
+
+##Feedback for Brian Rippeto
+During the module Brian and I paired several times to practice CRUD functionality. A few of the things that make Brian a great collaborator are his solid workflow and process tackling a problem. Every time I work with Brian, I learn new keyboard shortcuts. He is also very good at navigating his way through unfamiliar material. His decisions about how much time to spend on a problem and what to focus on made our pairing sessions very productive. Brian’s lightheartedness and positive attitude also made debugging an enjoyable process as well as a learning experience.
+
+##Feedback for Allan Blair
+Allan is a very strong programmer. He is very aware of what his code is doing, and he is a very efficient debugger. It was rare that we would spend more than 30 minutes troubleshooting a problem during our traffic spy project. I have no doubt that Allan will become a great developer; he works very hard and has strong technical abilities. I think Allan could benefit by continuing to develop his soft skills as he works with others, specifically by communicating how he intends to tackle a problem and his thought process along the way.
+
+##Feedback for Nate Venn
+I have paired with Nate on several occasions including our most recent project. Some of the things that make Nate a strong programmer are his drive and his ability to pick things up fast. He did his last several projects while learning Vim. He pursued some of the most difficult components of our app, and tackled them. Every time I pair with Nate, he is always encouraging and positive. Even when we are stuck on a bug, the energy he brings to a pairing session is never stressful, and  always cultivates an environment for learning. Nate is also great to work with because he genuinely considers the input of his collaborators even when he already has his own solution to a problem. Continuing to get better at TDD (not that he is not good at TDD) will make Nate an even stronger programmer. I have no doubt that Nate’s drive, technical ability, and ability to learn, will make him a great developer.
 
 ### Posse Challenges
-Our posse was able to complete all five of the posse challenges, each of which I was an active participant.
+Our posse was able to complete four out of five of the posse challenges, each of which I was an active participant.
 * College Score Card [GitHub URL](https://github.com/chadellison/posse_challenges)
 * Code breakers [GitHub URL](https://github.com/kay-posse/Codebreakers)
 * Database [GitHub URL](https://github.com/kay-posse/people_database/tree/master/people_database)
 * Enumerables [GitHub URL](https://github.com/kay-posse/people_database/tree/master/enumerables)
-* Tower Transfer [GitHub URL](https://github.com/kay-posse/tower-transfer)
 
 ### Unevaluated Projects
 These were thoroughly enjoyable as well as a great learning experience. Accessing the Giph API for the gipherator was particularly excellent.
@@ -117,3 +130,30 @@ These were thoroughly enjoyable as well as a great learning experience. Accessin
   3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ### End of Module Assessment
+Evaluator: Andrew
+
+* Testing started a little slow. Initially didn't connect attempts to levels, but as soon as it was recognized he corrected to tests so attempts where built off of levels.
+* Collaboration was really good
+* Had a little struggle going writing class methods but with a little questioning and prompting developer was able to generate the ideas himself.
+* Ruby implementation was ok - used a while loop - but we rewrote it with map.with_index and the logic was nearly identical.
+* Overall I think developer is ready to move to mod3, but developer was directed to continue to work on testing, and some ruby/rails syntax as well as ActiveRecord.
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+### Analytic/Algorithmic Thinking
+* 3: Developer breaks complex problems into small, digestible steps and executes them
+
+### Ruby Syntax & Standard Library
+* 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+
+### Rails Syntax & API
+* 3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
+
+### MVC & Rails Style
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+### 5. Testing
+* 3: Developer writes tests at multiple layers of abstraction to drive development with guidance
+
+### 6. Collaboration
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
