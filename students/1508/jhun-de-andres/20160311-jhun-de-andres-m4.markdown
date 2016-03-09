@@ -156,7 +156,7 @@ Jhun means alot to me. We connect on issues and topics that are more important t
 
 ### Protocol
 
-1. DTR Notes (they're in my notebook things sit in with me when I write them down.)
+1. DTR Notes (they're in my notebook things sit better with me when I write them down.)
 2. [Blog Posts](https://medium.com/@joshuajhun)
 3. Feedback from a project (I was paried with Aaron for every project since Pivot)
 
