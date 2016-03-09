@@ -14,14 +14,27 @@ The areas in which I need to continue to grow are in using TDD at smaller levels
 
 ### End of Module Assessment
 
+** Rachel performed my assessment and gave the following comments and results: **
+
+*  excellent typing
+* comfortable setting up a test
+* good use of error messages and file names/line numbers to drive development
+* great explanations and collaboration
+* very logical processes in implementation
+* comfortable with keyboard shortcuts and workflow
+* able to access and modify hashes
+* good with taking small steps in implementation
+* pseudocode used when unsure where to start
+* use of pry to figure out what data is available
+
 Category | Score
 --- | --- | ---
-Ruby Syntax & API| TBD
-Ruby Style | TBD
-Blocks & Enumerables | TBD
-TDD | TBD
-Workflow | TBD
-Collaboration | TBD
+Ruby Syntax & API| 3.5
+Completion and Progress | 3
+Testing | 3.5
+Workflow | 3.5
+Collaboration | 4
+Enumerables & Collections | 3
 
 ### Mid-Module Assessment
 
@@ -117,7 +130,7 @@ Looping *or* Recursion | 3
 * [Readme (NightWriter)](https://github.com/theonlyrao/hw/tree/master/night_writer)
 * [DTR memo](https://gist.github.com/theonlyrao/4445c3e949222d38df6c)
 * [Pull request](https://github.com/theonlyrao/black_thursday/pull/23)
-* Posse Challenges [1](https://github.com/damwhit/college_scorecard) [2](https://github.com/damwhit/posse/tree/master/code_breakers) [3](https://github.com/martensonbj/posse_challenges_2/tree/master/Enumerables) [4](https://github.com/martensonbj/college_scorecard)
+* Posse Challenges [1](https://github.com/damwhit/college_scorecard) [2](https://github.com/damwhit/posse/tree/master/code_breakers) [3](https://github.com/martensonbj/posse_challenges_2/tree/master/Enumerables) [4](https://github.com/matt-stj/ruby_people_database)
 
    I learned the most from the posse challenge on Enumerables, featuring Procs. Part of the reason for this is because it was an appropriately calibrated challenge for our posse - lots of people were able to get involved and it was a good experience working with the team.
 
