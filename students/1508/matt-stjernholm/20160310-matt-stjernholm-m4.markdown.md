@@ -84,9 +84,19 @@ I’m getting a jump on portfolio feedback: "Matt was a solid partner for Game T
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Throughout my time at Turing I feel like I've made great friends and will always feel a part of the community no matter where I am.  Aside from the usual Vault/Society gatherings, I've spent a good deal of time with other Turing students getting outside and enjoying what Colorado has to offer.  From hiking the flations with 1508'ers to weekend disc golf outings, and from rock climbing at Movement to skiing with staff and students, I will always have great memories from my community members at Turing.    
 
-### Protocol
+### Protocol  
+- [DTR Memo](https://gist.github.com/matt-stj/a43f3625f5b23b57893e)
+- [Blog Post](https://medium.com/@matt_stj/lessons-learned-from-building-an-electron-desktop-app-ember-js-file-bin-676c87434716#.7amxoypdd)
+- [Effective PR](https://github.com/stevekinney/file-bin/pull/12)
+- [README](https://github.com/matt-stj/fall-down-js)
+
+### Posse Challenge
+- [People Database](https://github.com/matt-stj/ruby_people_database)
+- [Code Breakers](https://github.com/damwhit/posse/tree/master/code_breakers)
+- [College Scorecard](https://github.com/martensonbj/college_scorecard)
+- [Enumerable](https://github.com/martensonbj/posse_challenges_2/tree/master/Enumerables)
 
 ## Review
 
