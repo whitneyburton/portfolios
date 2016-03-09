@@ -248,9 +248,80 @@ Currently (almost) passes the iteration 3 spec harness. One of the test calls in
 
 The program completes the iteration 3 requirements. It needs partner review and approval, then it will be ready to integrate into master."
 
-## README
 
 ## Blog Post
+Blog draft:
+Trying to do the NightWriter program really kicked my tail. I thought it would be easy.
+
+The really hard part turned out to be the contractions. You have to slice the string into groups of 80 characters for outputting to 80 character braille lines. What happens if a contraction falls right before the slice and there’s another one immediately after it? If you only have one contraction and it ends before the slice there’s no problem. But if you have 2 in a row the last character of the first contraction is also the first character of the next contraction. You have to preserve them together.  And what happens if a contraction falls across the slice? You have to move the whole thing to the next line. 
+
+You can find the contractions using regular expressions, but I don’t have much experience using regex’s so I had to look up the syntax to construct the ones I needed. Then the problem becomes how do you pull them out of the string? There are several obvious search options built into the String class. But ‘scan’ seems to only return the found strings, without any information about what index they were found at. Without the index you can’t tell if the contractions were before, on or after the slice. And you can’t tell if they come as a pair. 
+
+I experimented using ‘match’, but I couldn’t find a way to make it give all of the matches; it only returns the first match it finds. I was surprised to realize the ‘match’ it returns is a special object that you can query for information - like beginning index and index of the next character after the match. That can be exactly what I need but I need it for every match, not just the first. 
+
+Another surprise I got working on this project: I had been counting on methods like ‘scan’ and ‘gsub’ to search the entire string. After implementing I quickly realized the search for the next match only begins after the last. Obvious, right? 
+
+The problem is a contraction pattern requires a beginning and ending space. Finding contraction text as part of a larger word does not qualify. But making the spaces part of the regex pattern means that it only looks at every other word. It can’t handle a situation where the last character of one match is also the first character of the next match.  
+
+I ended up traversing the string using multiple ‘match’ calls. The ‘match’ method does allow you to specify a starting index for the search. So I stored each result in an array and used the index of the end of the current result as the start of the next match search. This gave me an array of matches I could use. Once I had my match array I could iterate through the array and check the indices to see if any fell across the slice. 
+
+## README
+[GitHub URL](https://github.com/cheljoh/enums_challenge/blob/master/README.md)  
+### Using the 'p_any?' Method
+----------------------------
+
+  p_any?(X, symbol)
+
+The p_any? method takes 2 parameters, a numeric value X and one of three
+symbols, and returns a proc for comparing all values in an array to X.
+
+The available symbols are:  
+* :>  
+* :<  
+* :==  
+
+They allow the user to select 'greater than', 'less than' and 'equals'
+
+Example:
+
+    any_less_than_3? = p_any?(3, :<)
+    
+    a = [4, 5, 6]  
+    any_less_than_3?.call(a)  
+    => false
+    
+    b = [1, 7, 8]  
+    any_less_than_3?.call(b)  
+    => true
+
+The proc returned by p_any? is activated with the '.call' method. It will check
+every element of an array against the set value and return true if one, some or
+all of the elements in the array match the set conditions (greater than, less
+than or equal to the set value X).
+
+Remember that the conditions for comparison are set at the time the proc is
+created. To do a different comparison you must create a different proc.
+
+Copyright (c) 2016 Christopher Soden, Chelsea Johnson, Aaron Careaga, et al
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 
 ## Review
