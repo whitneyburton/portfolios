@@ -162,8 +162,8 @@ I've participated in the larger Turing Community in the following ways:
 * Lightning Talk: Introduction to Go
 * Led the following student electives:
   * [Technical Interview Prep](https://github.com/amaxwellblair/tech_interview_prac/tree/master/btrees)
-  * [Introduction to Go](http://www.amaxwellblair.com/posts/simple_chat_app_using_golang)
-  * [Introduction to Key/Value pairs in Go](#)
+  * [Introduction to Go: Introduction to concurrency](http://www.amaxwellblair.com/posts/simple_chat_app_using_golang)
+  * [Introduction to Key/Value DB in Go](#)
 
 ### Other Requirements:
 
@@ -177,7 +177,7 @@ I've participated in the larger Turing Community in the following ways:
 
 #### Posse Challenge:
 
-* [Posse challenge](https://github.com/amaxwellblair/posse_challenges)
+* [Posse challenge repo](https://github.com/amaxwellblair/posse_challenges)
 
 #### Mentor Sessions:
 
