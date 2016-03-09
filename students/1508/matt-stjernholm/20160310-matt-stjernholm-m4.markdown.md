@@ -38,14 +38,28 @@ Had a great time with my partners (Matt Rooney & Emily Dowdle) for the two team 
 #### Scale Up (Ember-Electron Desktop App)
 
 * [GitHub URL](https://github.com/matt-stj/better-notes)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/scale-up/fecho-submission-form.markdown)
 * [Submission Form](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/scale-up/rooney_stjernholm_fecho_submission.md)
 
-(description)
+BetterNotes was an Ember.js + Electron desktop application for taking notes.
 
 (evaluation comments)
 
-(evaluation scores)
+150/150
+
+(feedback to me)
+
+#### Game Time
+
+* [GitHub URL](https://github.com/matt-stj/better-notes)
+* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/scale-up/fecho-submission-form.markdown)
+* [Submission Form](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/scale-up/rooney_stjernholm_fecho_submission.md)
+
+BetterNotes was an Ember.js + Electron desktop application for taking notes.
+
+(evaluation comments)
+
+150/150
 
 (feedback to me)
 
