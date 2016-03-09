@@ -167,7 +167,7 @@ Sal did an excellent job communicating with the team and sharing ideas. Somethin
 Thomas had done the enigma project so he had a clear understanding of the program logic. I think the whole team worked well together sharing and discussing ideas to improve and refactor the project code. Something the team could do better: we should have run the unit tests before we started to ensure we had a solid baseline.
 
 ##### To Colin Osborn
-One thing that went very well: We had a great team dynamic where both people were able to be heard and contribute. We both looked for ways to help the other and make space for the other person to make contributions.  
+Something that went very well: We had a great team dynamic where both people were able to be heard and contribute. We both looked for ways to help the other and make space for the other person to make contributions.  
 Something the team could do better: We need more organization and structure. We need to be clear on what iterations we are going to have done by what day. We also need to schedule specific work times rather than organizing 'on the fly'.  
 What stands between 'now' and 'could be': just practice. More familiarity with the tools.
 
