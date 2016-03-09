@@ -19,6 +19,9 @@ In Module 2 I want to focus on some of the front-end options to make sure that I
 
 http://brennanholtzclaw.github.io/2016/02/16/from-sinatra-to-rails.html
 
+Also, my preferred platform for disseminating information:
+https://soundcloud.com/user-760220162
+
 ## Mentor Sessions
 
 I met with my mentor, Travis Yoder, for at least an hour 4 of the six weeks. One week was cancelled due to illness, and one due to technical difficulties.
