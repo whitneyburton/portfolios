@@ -145,26 +145,39 @@ My posse worked on the following challenges:
 
 ## Community
 
-### Giving Feedback
-
-I gave constructive feedback to Kris Foss and Claudia Kiesenhofer regarding
-in-class projects we worked on together. And I gave feedback to Sal Espinosa and
-Thomas Pickett on an in-class assignment the three of us performed.
-
-I was able to give more thorough feedback to Colin Osborn because we were paired
-on the same project for a whole week.
-
 ### Being a Community Member
 
-### Feedback to me
+#### Giving Feedback
+
+I gave constructive feedback to Kris Foss and Claudia Kiesenhofer regarding
+in-class projects we worked on together. I gave feedback to Sal Espinosa and
+Thomas Pickett on an in-class assignment the three of us performed. And I gave feedback to Colin Osborn 
+on the Hyde project we were paired for.
+
+##### To Kris Foss
+I think the list of test "to do's" was excellent. Something the team could do better: I'm not used to programming with others; trying to distribute the workload. Maybe instead of one person looking over the other's shoulder and sharing the process we could each write tests for different parts of the problem and then review/critique the tests to fill in any that seem lacking. Then split up responsibility for writing the methods to meet the tests. An obvious problem is that if one method is going to call another it has to know what parameters to pass and what results to expect. I know as I write my code I sometimes change these conditions as needs warrant. If we're going to be splitting up the problem we need to spec out methods, parameters and results before we get into writing. And then communicate if these specs need to change. I hate to lose the time at the start, but it'll certainly save time in the long run.
+
+##### To Claudia Kiesenhofer
+We had a good DTR. We shared screen/keyboard time respectfully. We both listened to and valued the other. Something the team could do better? We had a very limited time to work on the project; we didn't really get far enough to expose much in the way of team weaknesses. Maybe continue to improve in breaking down the problem into logical components?
+
+##### To Sal Espinosa
+Sal did an excellent job communicating with the team and sharing ideas. Something the team could do better next time, we should have run the unit tests first to establish a solid baseline.
+
+##### To Thomas Pickett
+Thomas had done the enigma project so he had a clear understanding of the program logic. I think the whole team worked well together sharing and discussing ideas to improve and refactor the project code. Something the team could do better: we should have run the unit tests before we started to ensure we had a solid baseline.
+
+##### To Colin Osborn
+One thing that went very well: We had a great team dynamic where both people were able to be heard and contribute. We both looked for ways to help the other and make space for the other person to make contributions.  
+Something the team could do better: We need more organization and structure. We need to be clear on what iterations we are going to have done by what day. We also need to schedule specific work times rather than organizing 'on the fly'.  
+What stands between 'now' and 'could be': just practice. More familiarity with the tools.
+
+#### Feedback to me
 
 Thomas Pickett: "Chris is extremely curious about how things work in ruby. We could shake up the dynamics of the group by alternating driver/navigator positions. Chris could work on his mechanical skills to navigate his computer better."
 
 Sal Espinosa: "Chris did a great job taking control and driving the project. He was able to keep things moving and actually implement code while both Thom and I lobbed ideas at him. It's hard with shorter projects, but I think as a group we could've been better at sharing that responsibility and giving Chris some time to pitch ideas and some relief from the nitty gritty of making things work."
 
 Kris Foss: "I didn't have a lot of time working with Chris but the time I have had, I've been really impressed.  Chris's background in computer science really shines through his logical programming.  He isn't arrogant, despite how advanced is knowledge is.  He's good at explaining concepts and always willing to step in and help.  He has a real eagerness and passion for programming and I can't wait to see what he creates.  He's also kind and approachable and he would make a great partner for any project."
-
-Feedback From Me
 
 ### Playing a Part
 
