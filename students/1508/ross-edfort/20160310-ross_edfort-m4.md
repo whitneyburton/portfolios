@@ -23,14 +23,14 @@ My only individual project this module was RealTime.
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 * [Production App](https://boiling-temple-53818.herokuapp.com/)
 
-![woooooop](http://g.recordit.co/nAfFkRRJwk.gif)
-
 Realtime involved building an application using JavaScript and Socket.io to allow the server and connected
 clients to get a real-time representation of data. In my case, I chose to building a polling application
 where the results of the poll were updated as the votes came in.
 
+![woooooop](http://g.recordit.co/nAfFkRRJwk.gif)
 
-_165 points_ / 200
+
+_165 points / 200_
 
 ## Team
 
@@ -44,12 +44,12 @@ This module, we worked on two pair projects. They were GameTime and the Scale-up
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 * [Production App](http://rossedfort.github.io/flappy-bird/)
 
-![woooooop](http://g.recordit.co/Lwi3WjVPHJ.gif)
-
 For this project, Robbie and I paired to build a replica of Flappy Bird for the browser. We used images drawn on the canvas, keyboard
 input, and our own collision detection to accomplish this.
 
-_253 points_ / 300
+![woooooop](http://g.recordit.co/Lwi3WjVPHJ.gif)
+
+_253 points / 300_
 
 
 #### ScaleUp
@@ -57,7 +57,12 @@ _253 points_ / 300
 * [GitHub URL](https://github.com/rossedfort/bartleby)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/bartleby_project.markdown)
 
+For this project I paired with Robbie to create an Desktop note-taking application. We used Ember and Electron to
+accomplish this.
+
 ![bartleby](http://g.recordit.co/ogncfwl34M.gif)
+
+_170 points / 150_
 
 ## Community
 
