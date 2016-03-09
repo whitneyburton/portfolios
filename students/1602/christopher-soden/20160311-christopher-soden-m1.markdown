@@ -16,7 +16,23 @@ for debugging.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Nate
+
+Challenge: Option 3
+
+Notes:
+
+- Typing speed could improve. Also looking at the keyboard a lot.
+- Good knowlege of keyboard shortcuts, and using them appropriately.
+
+* Ruby Syntax & API: 3
+* Completion and Progress: 3
+* Testing: 4
+* Workflow: 3
+* Collaboration: 3
+* Enumerable & Collections: 3
+
+
 
 ### Work
 
