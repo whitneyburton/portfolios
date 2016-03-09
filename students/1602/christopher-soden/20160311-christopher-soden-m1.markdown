@@ -23,7 +23,9 @@ Challenge: Option 3
 Notes:
 
 - Typing speed could improve. Also looking at the keyboard a lot.
-- Good knowlege of keyboard shortcuts, and using them appropriately.
+- Good knowlege of keyboard shortcuts, and using them appropriately.  
+
+Scores:
 
 * Ruby Syntax & API: 3
 * Completion and Progress: 3
