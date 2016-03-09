@@ -181,7 +181,7 @@ Kris Foss: "I didn't have a lot of time working with Chris but the time I have h
 
 ### Playing a Part
 
-Everytime I saw a classmate struggling with a problem I worked to help them. One example: the day before the lesson on binary I overheard Patrick Hardy say that he was very confused by it. I explained what I knew to him with a diagram. He later asked me for the diagram and used it to help his partner in lesson. I used the same explanation with my partner for the lesson - Jeneve Parrish - and she said it made the subject very clear. 
+Everytime I saw a classmate struggling with a problem I worked to help them. One example: the day before the lesson on binary I overheard Patrick Hardy say that he was very confused by it. I explained what I knew to him with a diagram. He later asked me for the diagram and used it to help his partner in the lesson. I used the same explanation with my partner for the lesson - Jeneve Parrish - and she said it made the subject very clear. 
 
 I did reasearch on the Atom text editor and posted information on it in Slack. I
 showed other classmates some shortcuts for programming and debugging with Ruby.
