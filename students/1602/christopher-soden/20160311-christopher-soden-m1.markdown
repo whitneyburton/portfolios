@@ -103,6 +103,27 @@ into and returned from the methods made this a very challenging problem.
 
 ### Posse Challenges
 
+My posse worked on the following challenges:
+
+#### College Scorecard Challenge
+* [GitHub URL](https://github.com/GKhalsa/college_scorecard)
+* [Original Assignment](https://github.com/turingschool/posse_challenges/tree/master/college_scorecard)
+
+#### Codebreakers
+* [GitHub URL](https://github.com/acareaga/codebreakers)
+* [Original Assignment](https://gist.github.com/mikedao/b855ac8a2ca21a00662f)
+
+#### People Database
+* [GitHub URL](https://github.com/acareaga/people-database)
+* [Original Assignment](https://github.com/turingschool/posse_challenges/tree/master/people_database)
+
+#### Enumerables
+* [GitHub URL](https://github.com/cheljoh/enums_challenge)
+* [Original Assignment](https://gist.github.com/applegrain/744468d56507d000e9d4)
+
+#### Turing Tower Transfer Puzzle
+* [GitHub URL](
+* [Original Assignment](https://gist.github.com/Carmer/4a46e214c0d91f911c6a)
 
 ## Community
 
