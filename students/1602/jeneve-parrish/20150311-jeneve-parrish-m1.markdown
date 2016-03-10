@@ -3,7 +3,7 @@
 
 ## Areas of Emphasis
 
-This module, my first priority was to learn what I *don’t* know. Now, that list is enormous and still growing; I didn't expect that I would also learn *how* to find answers as needed. That knowledge became more valuable in a discipline where needs, practices and tools aren't determinate and change rapidly. My second goal was to establish a work schedule that was both productive and realistic. While I *have* been more productive than I could have imagined, I know that the pace I am currently maintaining can't be sustained for long. Thankfully, the program at Turing *isn't* long, and I know that my family and I will become more and more accustomed to my schedule as time goes on. I will leave Turing with a new definition of rigor, and in the next 3 modules, continuing to improve my typing,and workflow efficiency will be areas of focus.
+This module, my first priority was to learn what I *don’t* know. Now, that list is enormous and still growing; I didn't expect that I would also learn *how* to find answers as needed. That knowledge became more valuable in a discipline where needs, practices and tools aren't determinate and change rapidly. My second goal was to establish a work schedule that was both productive and realistic. While I *have* been more productive than I could have imagined, I know that the pace I am currently maintaining can't be sustained for long. Thankfully, the program at Turing *isn't* long, and I know that my family and I will become more and more accustomed to my schedule as time goes on. I will leave Turing with a new definition of rigor, and in the next 3 modules, continuing to improve my typing and workflow efficiency will be areas of focus.
 
 ### End of Module Assessment
 
