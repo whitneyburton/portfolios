@@ -4,10 +4,11 @@
 
 ### Areas of Emphasis
 
-This module I initially had a difficult time deciding what would be my area of focus. I was looking to see where I belonged in the wide world of web development. I have some sense of just how broad that term is, and I wanted to spend time this module figuring out what my piece of it would be. To some degree that goal has been deferred to later modules. Instead, I spent most of my time just trying to write good code. At first that meant just making sure I could complete the assignments given me, and later it became an effort to improve my ability to identify places where I could clean up my code, be more efficient, and more generally just start thinking like a Ruby wizard. I'm not there yet, but as I look back at my code I can see a marked improvement in its quality. Early on, our instructors told us that learning the language was the easy part: solving problems is what really makes or breaks a developer. I took that to heart, and I think it shows.
+This module I initially had a difficult time deciding what would be my area of focus. I was looking to see where I belonged in the wide world of web development. I have some sense of just how broad that term is, and I wanted to spend  this module figuring out what my piece of it would be. To some degree that goal has been deferred to later modules. Instead, I spent most of my time just trying to write good code. At first that meant just making sure I could complete the assignments given me, and later it became an effort to improve my ability to identify places where I could clean up my code, be more efficient, and more generally just start thinking like a Ruby wizard. Looking back at my code I can see a marked improvement in its quality. Early on, our instructors told us that learning the language was the easy part: solving problems is what really makes or breaks a developer. I took that to heart.
 
 ### End of Module Assessment
 
+For the End of Module Assessment we were given a recipe class that had the ability to build a recipe from user inputs. For my assessment I was asked to build a pantry class that could take take such recipes and use them to build a shopping list.
 
 *Evaluation Comments*
 * comfortable with file paths
@@ -155,14 +156,19 @@ Matt and I worked together to develop Hyde, a static page generating engine that
 * Enumerable & Collections: 3
 * Looping or Recursion: 4
 
-(feedback to me)
+*Feedback from Matt*
+
+* Working with Sal was, by far, the most stress-free and enjoyable programming I’ve ever experienced at Turing.
+* Between his fantastic communication skills, stellar programming skills, and inherently positive nature - we chomped through each and every challenge with alarming ease. We just talked things out - found a solution, and moved on to the next coding adventure - it was the zenith of pair-programming.
+* I actually became paranoid towards the end because we hadn’t hit any explosive plot twists in the code, it was almost TOO straightforward.
+* The only possible adjustment that I can see would be for Sal to become a dash more assertive on topics he has previous experience in. He was much more knowledgeable in terms of HTML/CSS/SASS but seemed to downplay that aspect when we hit those portions of the project.
 
 ####Black Thursday
 
 * [Github URL](https://github.com/kristindiannefoss/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-Description
+Over the course of a week and a half we were asked to assemble a relational database from CSV files that were provided to us. Each file represented a table, and we created objects to hold the row-by-row information included in the tables, as well as repository objects to hold the collections, a Sales Engine to hold the repositories, and a Sales Analyst to analyze the data held by the Sales Engine.
 
 *Evaluation Comments*
 
@@ -193,14 +199,17 @@ I worked with Toni as part of her *Tuesday's with Toni* pairing sessions.
 *Feedback to Matt Pindell*
 Matt and I were paired for the Hyde project described above.
 
-I'm a better programmer for working with Matt P. Let's talk about why: 
-* First and format his red/green/refactor cycle is super strong. Especially the refactor portion. I learned that refactoring isn't the kind of thing that you do "at the end," but instead a constant part of the process. 
-* He has a commitment to writing clean, beautiful code. He'll apologize for being a stickler about making '=' line up, but the code is easier to read because of it. 
+I'm a better programmer for working with Matt P. Let's talk about why:
+* First and format his red/green/refactor cycle is super strong. Especially the refactor portion. I learned that refactoring isn't the kind of thing that you do "at the end," but instead a constant part of the process.
+* He has a commitment to writing clean, beautiful code. He'll apologize for being a stickler about making '=' line up, but the code is easier to read because of it.
 * He's great at breaking problems down into parts that make sense, and does a really great job of naming methods, variables, etc., which again leads to readable code and helps make it easier to go back and read code when refactoring/revising.
 * His work ethic is strong, and he's dedicated to putting in the work to get things done.
 * The one thing I could think of that might benefit Matt in the future would be to not hesitate to check the internet for code samples when it seems like there might be an easy way to do something. It sounds like a weird thing, and there's definitely a balance to be had (I don't think anyone wants to go to the internet for everything), but I think I was more willing to fire up a google session to find some tips on how to do something.
 
 ### Being a Community Member
+*Feedback from Jeff Ruane*
+I worked with Jeff early on to check in on one of our projects, and then later brought a Pattern Generator assignment that we had been working on in class to discuss with him.
+* I've really enjoyed the couple of times that we've worked together this module. You're super easy to work with and talk things out with, you always have really interesting questions, and cool approaches. Pairing with you on Pattern Generator a couple weeks ago was super fun, it was great to be able to bounce ideas off of each other, try different approaches, and compare our results. Overall, I had a great experience working with you, and I think you're well on your way to being a really good developer, and I can't wait to see what you're doing in modules 3 and 4, I'll be expecting some pretty awesome projects.
 
 *Feedback from Kris Foss*
 * Sal is great to pair with, he really takes time to explain why he's doing certain things so I can understand. I felt like I learned more about Ruby from the pairing. He's patient, smart, and kind. I don't know what to suggest to do in the future and what is standing between him and his potential. He seems like he's getting to great heights all by himself. I really enjoyed working with Sal.
@@ -222,7 +231,7 @@ In response to a question from a classmate, I wrote [a post about testing strate
 ### February 29, Protocol Assignment
 
 #### Updated Readme
-During the February 29 Protocol I reviewed and updated the readme for my [Sorting Suite](https://github.com/s-espinosa/sorting_suite) project.
+During the February 29 Protocol I reviewed and updated the readme for my [CompleteMe](https://github.com/s-espinosa/complete_me) project.
 
 #### Pull Requests
 
