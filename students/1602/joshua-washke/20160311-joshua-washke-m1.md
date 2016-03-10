@@ -84,7 +84,7 @@ I completed the following individual work this module
 * [GitHub URL](https://github.com/jwashke/mastermind)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown)
 
-Implemented a command line version of the game Mastermind. The first project of the module. Was fun to dive right into a big project at the start of the module. 
+Implemented a command line version of the game Mastermind. The first project of the module. Was fun to dive right into a big project at the start of the module.
 
 Assessed By: Tess
 
@@ -145,7 +145,7 @@ Notes:
 * [GitHub URL](https://github.com/jwashke/sorting_suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
-Implemented four classic computer science sorting algorithms. bubble sort, insertion sort, selection sort, and merge sort. 
+Implemented four classic computer science sorting algorithms. bubble sort, insertion sort, selection sort, and merge sort.
 
 Assessed By: Nate
 
@@ -210,7 +210,7 @@ Notes:
 * [GitHub URL](https://github.com/marinacor1/HTTPYYKM)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-Implemented a basic HTTP server in ruby that could accept GET and POST requests to a variety of paths and generate responses. The first group project of the module taught me a lot about working as a team instead of an individual. As an introvert I found the adjustment very difficult at first, but by the end of the project it was a massive relief to be able to work together to solve our toughest bugs and problems. This project made me a pair programming believer. 
+Implemented a basic HTTP server in ruby that could accept GET and POST requests to a variety of paths and generate responses. The first group project of the module taught me a lot about working as a team instead of an individual. As an introvert I found the adjustment very difficult at first, but by the end of the project it was a massive relief to be able to work together to solve our toughest bugs and problems. This project made me a pair programming believer.
 
 
 Assessed by: Tess
@@ -230,6 +230,54 @@ Assessed by: Tess
 ##### 4. Breaking Logic into Components
 
 * 4: Application effectively breaks logical components apart with clear intent and usage
+
+
+#### Black Thursday
+
+
+* [GitHub URL](https://github.com/jwashke/black_thursday/tree/Graphs)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [Retro](https://docs.google.com/document/d/194KnQ_Li0FslvrdoVVykcitoikWmW1jtY7vDV6qlqlM/edit?usp=sharing)
+
+Built a relational database and analysis tool to analyze lots of data pulled in from CSV files. This was a really cool project I thought we did a very good job on and was fun to do. In our first DTR Deb specified that she preferred pairing on projects. Because I thought pairing was a weakness of mine and I was a little uncomfortable doing it, we spent most of the project working together on one computer. It was a great strategy and we ended up being functionally complete including extensions almost two days early.
+
+Assessed By: Nate
+
+Repo: https://github.com/jwashke/black_thursday
+
+Notes:
+
+- Talked about some encapsulation options. Move relationships down into the stack. It got political.
+- Namespacing
+- Good test helper. Fast tests.
+- Naming arrays as plural. Naming methods with their input and output.
+- Great work
+
+### 1. Functional Expectations
+
+* 4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
+
+### 2. Test-Driven Development
+
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Fundamental Ruby & Style
+
+* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+### 5. Enumerable & Collections
+
+* 4: Application consistently makes use of the best-choice Enumerable methods
+
+### 6. Code Sanitation
+
+The output from `rake sanitation:all` shows...
+
+* 4: Zero complaints
 
 ## Community
 
@@ -281,7 +329,7 @@ I really enjoyed this challenge because it taught me how to use Procs and pass b
 ### Giving Feedback
 
 * **Marina Corona** I was lucky to work with Marina on HTTP Yeah You Know Me. She is a very knowledgable and capable programmer and a very effective communicator. Marina's biggest strengths lie in her ability to break a problem down into its logical components and focus on each step individually creating a stronger project overall, and her ability to stay calm during even the most stressful situations. Several times during the project I found myself very frustrated and stressed out while trying to solve a particular problem or bug. Marina was always calm and collected and through talking it out was able to lead us to find a solution together.
-*  **Deb Hamal** Deb is an amazing person to work with and a good friend. We were paired up on Black Thursday and she was very clear about her goals for the project and how she wanted to accomplish it. She helped me improve my pairing skills and was an asset at all levels of the project from testing to implementatin to pull requests. My only advice for Deb is that she needs to be more confident in her ability. She is a strong programmer and good problem solver who can do great work, but she seems to have trouble believing it. I am happy to work with Deb in the future and hope that the more projects she accomplishes the more she will realize she is a strong competent programmer. 
+*  **Deb Hamal** Deb is an amazing person to work with and a good friend. We were paired up on Black Thursday and she was very clear about her goals for the project and how she wanted to accomplish it. She helped me improve my pairing skills and was an asset at all levels of the project from testing to implementatin to pull requests. My only advice for Deb is that she needs to be more confident in her ability. She is a strong programmer and good problem solver who can do great work, but she seems to have trouble believing it. I am happy to work with Deb in the future and hope that the more projects she accomplishes the more she will realize she is a strong competent programmer.
 *  **Jennifer Soden** I paired with Jennifer Soden on refactoring Engima and have paired with her many times before. Her positivity and communication skills are an asset to any group situation. She is capable of explaining her thought process very well and is an able programmer. The best advice I can give her is to work on reading code slowly and to try to stop her brain from filling in gaps, but rather focus on what each line and block is evaluating to and returning.
 
 
