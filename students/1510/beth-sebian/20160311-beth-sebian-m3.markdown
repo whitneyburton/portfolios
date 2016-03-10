@@ -170,4 +170,29 @@ In contrast to my community involvement, I feel I was less involved in my cohort
 
 ## Review
 ### Notes
+
+## A: End-of-Module Assessment
+
+* 2: Student earned one score below "3" on the assessment
+
+## B: Individual Work & Projects
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+
+## D: Community Participation
+
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
 ### Outcome
