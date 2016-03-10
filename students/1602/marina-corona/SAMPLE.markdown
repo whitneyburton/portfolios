@@ -171,19 +171,28 @@ Notes:
 
 #### Black Thursday
 
-* [GitHub URL] https://github.com/marinacor1/HTTPYYKM
-* [Original Assignment] https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown
+* [GitHub URL] https://github.com/marinacor1/BlackThursday
+* [Original Assignment] https://github.com/turingschool/curriculum/tree/master/source/projects/black_thursday
 
 In this project, my partner Kami and I built a relational database that can parse data from CSV data, build relationships, link data and find specific information, like best item for merchant or rank merchants by revenue.
 
 Evaluator: Mike
 
 Notes:
+* 95.56 percent test coverage.
+* Some redundant testing, some missing points
+* 110 runs, 233 assertions, finishes in 215 seconds
+* Some refactoring possible in pulling out methods for reasons of SRP and for clarity.
+* Well organized code, I liked how the data parts were separated.
+Did I4
 
-* Overall Functionality:
-* Fundamental Ruby & Style:
-* Test- Driven Development:
-* Breaking Logic into Components:
+* Functional Expectations: 3
+* Test- Driven Development: 3
+* Encapsulation/ Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* Code Sanitation: 3
+
 
 ### Feedback to Me
 
@@ -245,3 +254,19 @@ Repo: https://github.com/weilandia/goldberg_posse_challenges
 ### Project ReadMe
 
 * https://github.com/marinacor1/Battleship
+
+### Notes from Black Thursday Debrief
+
+* Things that went well: Complimentary styles: Marina is good at testing and project planning and Kami code and debugging. Pretty sustainable work load. Communication was strong. Initial architecture was strong. Keeping stuff on branches and communicating with each before merge to master.
+
+* Things that we could work on: Collaborating more on fundamental stuff (rather than splitting jobs). Github was confusing and caused some bugs when we would merge. Mental breaks during long work hours.
+
+* Things that didn't get done: Refactoring was a big struggle because we pushed back our end date and there needed to be more collaboration. We didn't work together as much. Miscommunication with work on the weekend. Redoing stuff. Figuring out how to do the weekend stuff?
+
+* Organizational constraints: needing to leave the school building/ working on the weekend
+
+* What existing techniques or approaches from past projects enhanced or enabled our performance on this project? I learned from Josh, drawing out the architecture of the project before writing anything.
+
+* Could time pressures have been alleviated by organizing the work differently? Communication. The greatest chunk of work was done separately and that hurt us.
+
+* Challenges: Spec harness, the spec harness was not very clear.
