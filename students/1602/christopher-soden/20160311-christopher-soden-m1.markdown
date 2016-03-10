@@ -247,7 +247,7 @@ It probably is possible to pass a block to a proc creator, basically giving you 
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 "The purpose of this branch is to begin work on iteration 3. It creates 2 custom error classes to meet the reqs of the problem. 
-It adds support for additional data files: 3rd and 8th grade data and proficiencies in Math, Reading and Writing. StatewideTest class and StatewideTestRepository have been created. Testers for these specific classes have been created, and method tests have been added to other testers to check the expanded functionality of other classes.
+It adds support for additional data files: 3rd and 8th grade data and proficiencies in Math, Reading and Writing. `StatewideTest` class and `StatewideTestRepository` have been created. Testers for these specific classes have been created, and method tests have been added to other testers to check the expanded functionality of other classes.
 
 Currently (almost) passes the iteration 3 spec harness. One of the test calls in the iteration 3 harness is calling a method not included in the problem until iteration 5. Until we get to iteration 5 the program will not pass the number 3 spec harness.
 
