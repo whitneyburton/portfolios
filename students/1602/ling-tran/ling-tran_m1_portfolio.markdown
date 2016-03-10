@@ -209,6 +209,7 @@ Notes:
 **Feedback from mentor**
 
 * Sally MacNicholas | Turing alum, 1503:
+
 > It has been great to see Ling’s progress over the course of the module as her mentor. Ling is always open to feedback from our mentoring sessions, and always requests that I give her constructive criticism. Time and time again she would take feedback, and would consistently work on things and get better by our next session. I can’t imagine there being a more curious, dedicated, hard-working student than Ling. And to top it all off, she always has a great attitude about everything!
 
 ---
