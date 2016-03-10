@@ -99,16 +99,17 @@ Politweets is the third and final individual project in module three at Turing. 
 
 ##### Evaluation Comments
 
-* TBD
+instructor: Josh M.
+notes: Good attempts at separating logic into POROs. Could use more objects and separation from the Tweet model. Good use of caching and performance for large sets of data coming from data.
 
 ##### Scores
 
-* Completion:
-* Organization:
-* Test-Driven Development:
-* Code Quality:
-* User Experience:
-* Performance:
+completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+organization: 4: Developer used a project management tool and updated their progress in real-time.
+test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+code-quality: 3: Project demonstrates solid code quality and MVC principles.
+user-experience: 3: Project exhibits a production-ready user experience.
+performance: 4: Project pages load on average under 300 milliseconds.
 
 ## Team
 
