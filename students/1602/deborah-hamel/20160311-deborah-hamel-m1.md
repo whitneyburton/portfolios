@@ -245,16 +245,16 @@ According to the Feedback application:
 
 __Soft Skills / Protocol Requirements__
 
-1. 1 DTR memo from a project during the module\n
-[GitHub URL](https://gist.github.com/deborahleehamel/18008ea171785d8cf483)
+###1 DTR memo from a project during the module
+* [GitHub URL](https://gist.github.com/deborahleehamel/18008ea171785d8cf483)
 
-2. 1 Blog post\n
+###1 Blog post
 [Medium URL](https://medium.com/@deborahleehamel/it-s-not-about-the-tool-7cc7e1acdbd2#.fxjs0v8ke3)
 
-3. 2 examples of well-written pull requests\n
-[GitHub URL](https://github.com/jwashke/black_thursday/pull/43)\n
-[GitHub URL](https://github.com/jwashke/black_thursday/pull/29)
+###2 examples of well-written pull requests
+* [GitHub URL](https://github.com/jwashke/black_thursday/pull/43)
+* [GitHub URL](https://github.com/jwashke/black_thursday/pull/29)
 
-4. 1 example of a well-written project readme\n
-[GitHub URL](https://github.com/deborahleehamel/night_writer/blob/master/Readme.md)\n
-[GitHub URL](https://github.com/jwashke/black_thursday/blob/master/README.md)
+###1 example of a well-written project readme
+* [GitHub URL](https://github.com/deborahleehamel/night_writer/blob/master/Readme.md)
+* [GitHub URL](https://github.com/jwashke/black_thursday/blob/master/README.md)
