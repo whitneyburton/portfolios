@@ -1,5 +1,5 @@
 # Alexis Navarrete - M2 Portfolio
-
+![West Coast Mentality!](http://i.imgur.com/izqAEja.gif)
 ## Individual
 
 ### Goals
@@ -29,18 +29,18 @@ Evaluator: Andrew Carmer
 
 ### Mid-Module Assessment
 
-(Notes & scores from your assessment rubric)
+Evaluator: Rachel Warbelow
 
-#### (Project Name)
+#### Notes
+(no notes)
 
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+#### Scores
+* __Analytic/Algorithmic Thinking:__ 3
+* __Ruby Syntax & Standard Library:__ 3
+* __Rails Syntax & API:__ 2
+* __MVC & Rails Style:__ 3
+* __Testing:__ 3
+* __Collaboration:__ 3
 
 ### Attendance
 My iPhone alarm wasn't set on the first day of Module 2 and thus made me come in late.
@@ -133,11 +133,15 @@ This is a fully functional website built with Rails that sells the digital encry
 
 * __To Nick Weiland:__ "Honestly, I really don’t think there is anything I can really say as feedback for you since it always seems like you’re on point with what the challenges are. Other than that I really appreciate both of the times we ended up pairing up with both Rush Hour and the Mini Rails project that has been very valuable for me. Just analyzing how to react to certain solutions that seem so complex and finding the answers to it is very facisnating. I also appreciate how you would make all those shortcuts in order to make the workflow faster when it comes to implementing projects."
 
+* __To Julian Feliciano:__ Other than being the other Latino I can relate to in our class it has been a pleasure working with you during our Not Napster project! It is very different compared to working with others due to the fact that you allow classmates to challenge themselves in understanding the problem before getting in and just “solving” it. It’s like you’re following a damn motto similar to “No Pain No Gain” watching people like Scott suffer on a horrible Gitastrophy before solving it. It’s a bittersweet type of feeling though, it sucks when it happens but the results right after is very beneficial. It has honestly helped me gain a better understanding with Rails due to that. I also like how you bring that Chi Town style into the classroom and hope that when I visit Chicago people will be as dope as you! I guess the only critical feedback I can give you is that I really want to see more of your personal stuff with Node be applied in someway for the next module. To put it Chi-Town terms, I want you to try and drop the College Dropout of the Turing game homie.
+
 ### Being a Community Member
 
 * __From Chelsea Johnson:__ "Alex contributed a lot to our group dynamic. He has solid communication skills and was able to convey his ideas concisely and clearly. He was open to new learning opportunities and was not daunted by implementing unfamiliar ideas. When working individually, Alex could have chosen to implement more of the ideas he shared with the group. Overall, Alex was a solid group member and I enjoyed working with him!"
 
 * __From Nick Weiland:__ "Alex: I was really impressed with your work ethic throughout Rush Hour. I think some areas for improvement include making your workflow more seamless and becoming more confident in your ability to research, test and implement solutions to problems that come up by exploring documentation.  Also, I think you have some really great ideas and some of those ideas got steam-rolled throughout the project because of a lack of buy-in from the group and/or time constraints.  I think it would have been great if you took some of this ideas and put them into action and then demonstrated what you did as leverage for implementing into the project. Bias toward action.  Keep it up man."
+
+* __From Julian Feliciano__: "To Rich Homie Quaan (Alex): If there is one thing that stands out to me about Alex is that he has a genuine passion for learning. No matter how difficult the subject matter he is always willing to jump in and work his way through the challenge.  He is always willing to do what is needed for the teams success. I would encourage Alex to seek help when he encounters a challenge that necessitates further explanation. Overall, it has been great working with and being a fellow classmate of Alex. Keep doing you homie!"
 
 ### Playing a Part
 * Participated in 1602's Mixer during my intermission week between Module One and Module Two that really made the new students feel welcomed and more familiar with the friendly environment we all provided.
@@ -147,6 +151,8 @@ This is a fully functional website built with Rails that sells the digital encry
 * There was a new student (1603: Kris Sparks) who came in last week who I spent my lunch with in order to answer many of his questions that he had about the school. I also set up Spectacle and Pry on his computer that way he can start getting into a habit of how to improve his workflow.
 
 * On March 5, I was so annoyed of how dirty the whole Big Workspace and Classroom C was that I took matters into my own hands and just picked up all the cups and dishes and placed them in the dishwasher. I also rearranged all the chairs to be in place besides just being in the center of the whole room.
+
+* Offered to help out the new 1603 students during intermission week that way they can get some questioned/concerns out of the way before starting the program!
 
 
 #### Soft Skills / Protocol Requirements
@@ -162,6 +168,7 @@ This is a fully functional website built with Rails that sells the digital encry
 * 2 examples of well-written pull requests
   - [Little Shop Pull Request #95 ](https://github.com/scottfirestone/not_napster/pull/95)
   - [Little Shop Pull Request #55](https://github.com/scottfirestone/not_napster/pull/55)
+
 
 * 1 example of a well-written project readme
   - [Jiffy's ReadMe](https://github.com/weilandia/jiffy/blob/master/readme.md)
