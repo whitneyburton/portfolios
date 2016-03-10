@@ -236,7 +236,7 @@ Not at this time.
 * [GitHub URL](https://github.com/cheljoh/enums_challenge/pull/1)  
 * [Original Assignment](https://gist.github.com/applegrain/744468d56507d000e9d4)
 
-"The code is working. It's a silly way to do an 'any?'; I think they want us to get experience rather than actually do something so clunky for real.
+"The code is working. It's a silly way to do an `any?`. I think they want us to get experience rather than actually do something so clunky for real.
 
 The trick is, once you create a proc, the code you've created is fixed. The only way to do something different is to create a different proc. So the `p_any?` method takes the value you want to search for and returns a canned procedure that only searches for that value. Then you call that procedure and pass it the array you want to check. You lose the flexibility of being able to change the search value on the fly.
 
