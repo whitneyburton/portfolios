@@ -2,20 +2,17 @@ Ling Tran - M1 Portfolio
 ======
 ___
 
-* Remaining to do:
-(2) Include link to a README,
-(3) 1-3 PRs,
-(4) Update Final Assessment and Final Project sections
-(5) link to posse anchor's github for challenges (4 of 5, post links and summarize what was gotten out of the challenges)
+* Remaining to do: Update with Final Project evaluation 
 
 ## __Individual__
 ---
 ### Areas of Emphasis
 
-- started pairing on exercises
-- goal: tackle an exercism per night, at least four per week in the last two weeks
-- re-did object-methods and mythical creatures exercises
-- doing small Code Wars exercises
+- Initiated pairing with mentors, both of whom are Turing alums
+- Tackle a non-project exercises, include Code Wars exercises, at least a couple times per week
+- Re-did object-methods and mythical creatures exercises
+- Become comfortable speaking lingo introduced during this module
+- Improve ability to break problems into logical components
 
 ### Middle of Module Assessment
 
@@ -56,6 +53,7 @@ I completed the following individual work this module:
 ##### Jungle Beats - Iterative Linked List
 
 * [GitHub URL](https://github.com/lingtran/jungle_beats)
+* [README](https://github.com/lingtran/jungle_beats/blob/master/README.md)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
 In this three-day project I implemented a linked list using iterative solutions. This project laid the foundation for understanding the Ruby object model (or what object oriented programming means in general). I saw how different objects point to each other, which underpins what return values are generated. This project also allowed me to contextualize a later lesson on "the stack". I would not have been able to implement a solution for this initial project on such an abstract topic without talking through the subject during the week with my mentor Sally. I still think about linked lists while working through problems, whether projects or paired exercises.
@@ -146,6 +144,7 @@ Notes:
 #### Black Thursday
 * [GitHub URL](https://github.com/lingtran/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [Waffle.io Board](https://waffle.io/drew-t/black_thursday)
 
 This project challenge is a culmination of all the core concepts and skills I developed throughout the module. It presented issues that pushed my understanding of the Ruby object model, how data structures can be manipulated, variable scope, and got me walking down memory lane to Statistics class as an undergraduate. Thank goodness we have computers to calculate standard deviations! Also, I was not too comfortable or familiar with working with hashes. Through this project, I am happy to report that they do not feel as foreign compared to just two weeks ago. I made a conscious effort in refactoring and break methods into smaller pieces. Drew was a strong partner and I learned more about file I/O and traversing objects through him. The behemoth beast that is Black Thursday has given me an opportunity to apply everything learned in just a number of weeks.
 
@@ -199,12 +198,28 @@ Notes:
 * Sally MacNicholas | Turing alum, 1503:
 > It has been great to see Ling’s progress over the course of the module as her mentor. Ling is always open to feedback from our mentoring sessions, and always requests that I give her constructive criticism. Time and time again she would take feedback, and would consistently work on things and get better by our next session. I can’t imagine there being a more curious, dedicated, hard-working student than Ling. And to top it all off, she always has a great attitude about everything!
 
-## __Pull Requests__
+## __Black Thursday Project Pull Requests (4x)__
 ---
---> During your final portfolio review next week, you should be able to point to 2-3 effective Pull Requests you wrote over the module.  
+* [Create merchant class #11](https://github.com/drew-t/black_thursday/pull/11)
+* [added tests and methods in SalesAnalyst for avg. item/merchant & std_dev #18](https://github.com/drew-t/black_thursday/pull/18)
+* [Invoice repo test #23](https://github.com/drew-t/black_thursday/pull/23)
+* [refined formatting of files #62](https://github.com/drew-t/black_thursday/pull/62)
 
 ## __Community__
 ---
+### Ezra Zygmuntowicz Posse Challenges
+**[College Scorecard](https://github.com/rossedfort/posse_challenges/tree/master/college_scorecard)**
+* Takeaway: Initial exposure to file I/O and ARGV usage. Learned Array#compact.
+
+**[Code Breakers](https://github.com/rossedfort/posse_challenges/tree/master/code_breakers)**
+* Takeaway: Observed later module students' different approaches to problem-solving as related to iterating through a collection. Got exposure to chaining methods.
+
+**[People Database](https://github.com/rossedfort/posse_challenges/tree/master/people_database)**
+* Takeaway: Posse wrote tests. As module one student, later module students were intentional in facilitating newbies' learning, so was put on the hot seat in the TDD process. Got practice in articulating anticipated errors/failures.
+
+**[Enumerables](https://github.com/rossedfort/posse_challenges/tree/master/enumerables)**
+* Takeaway: Later module students did not seem as comfortable with Procs. So it was a great opportunity tackling an unfamiliar topic together. It also provided an opportunity to solidify my own understanding of block parameters and enumerables.
+
 ### Giving Feedback
 **Paired project partner feedback**
 * Kris | HTTP Yeah You Know Me:
@@ -228,7 +243,6 @@ Notes:
 > I am going to miss seeing Ryan every morning as we work through the posse challenges for these reasons. Ryan was a great posse team mate this module because he made himself available for questions about anything and has a very approachable air about him. When it came to programming questions, he was great at teaching rather than simply providing answers, which particularly enhanced my understanding of the Ruby object model. Thanks, Ryan, for being a great teacher and being a positive force in my first module at Turing! I know you will thrive in the real world!
 
 ### Playing a Part
-
 * Joined #snack-time Slack channel to plan welcome mixer event for 1603 students. Will be participating in its implementation.
 * Meeting posse for almost every morning with the exception of absences due to Strep Throat illness and Joan Clarke Society weekly convening.
 * Had pairing sessions with later module students Kimi, JP, Dan, and Nick.
