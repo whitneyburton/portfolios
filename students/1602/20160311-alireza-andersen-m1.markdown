@@ -49,7 +49,7 @@ A classic game of memory and pattern concepts. I did this game within 3 days. Cr
 
 It was reviewed by Nate with the following feedback:
 
-Discuss testing options, and the use module versus classes. Code looks great!
+Discuss testing options, and the use module versus classes
 
 #### Binary Search Tree
 
