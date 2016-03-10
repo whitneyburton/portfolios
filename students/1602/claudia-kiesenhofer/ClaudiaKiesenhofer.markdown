@@ -204,6 +204,8 @@ https://github.com/notmarkmiranda/hyde/pull/17
 
 ### Example of a README.md file (Project Night Writer)
 
+https://github.com/Claudia108/nightwriter
+
 #### Night Writer
 
 ##### Overview
