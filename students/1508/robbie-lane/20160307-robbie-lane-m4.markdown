@@ -82,6 +82,7 @@ The biggest hurdle for this project an was extension that allows markdown notes 
 
 ### Being a Community Member
 
+I pride myself on always taking time to help others even if I am busy with my own project. I feel that especially in this module, people felt comfortable coming to me with questions or even just asking for advice. Furthermore, really enjoy pairing with my fellow students, which I am not sure I could have said at the start of Turing.
 
 
 ### Feedback:
@@ -90,12 +91,11 @@ The biggest hurdle for this project an was extension that allows markdown notes 
 
 *"Robbie, Robbie, Robbie…. where to begin?  First things first, a huge shoutout to the only student to ever go from foxtrot to echo in Module 1!  That in itself is an amazing feat.  However, Robbie has done far more impressive things including, but  not limited to, having an amazing laugh, still showing up to module 4 despite having a job, and always helping ANYONE no matter what.  It would be one thing if he kept this cornucopia of knowledge to himself, but Robbie proves time and time again that patience is equally as important as brain power. I said it at TRELORA, and I will say it again, Robbie is the most talented student in our cohort and deserves a job more than anyone else.  Cheers Robbie and remember to try to give everyone else a chance once in a while!"* - Jill Donohue
 
-### Playing a Part
+*"I don't think I've ever met someone as gifted at programming as Robbie Lane. He's like the Yoda of 1508. He's a legend and he's going to create and build so many amazing things. Guy's like him are phenoms! Despite all the pressure and all the requirements this school presses on it's students he's been able to exceed those expectations and be a father to his kids.
+One of my favorite projects at Turing was The Pivot. Robbie was given the title of lead in our group and I felt super confident. I felt like I was free to do what I wanted creatively but I also felt like he trusted me as a developer. It was a cool experience because it made me want to worker harder. I feel like Robbie does this on any team he's own. He's got the technical gusto but he's also has the leadership characteristics to help get the best out of his team. I'm super thankful our path's crossed like they did in the Turing basement. I'm super excited that he'll be staying in Denver which will allow our friendship to continue."* - Jhun
 
 ## Review
 
 ### Notes
-
-
 
 ### Outcome
