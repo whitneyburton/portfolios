@@ -235,10 +235,48 @@ Erinna emerged from the depths of function, unmutable? It’s doable. Non changi
 
 ## Review
 
-### Notes
+## A: End-of-Module Assessment
 
-( Leave blanks for reviewers )
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
 
-### Outcome
+* 4: Student achieved two or more "4s" on the assessment
 
-( Leave blanks for reviewers )
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 4: Student helps others to be their best selves while using peer feedback
+to shape their own character and behavior.
+
+OUTCOME: PROMOTED
