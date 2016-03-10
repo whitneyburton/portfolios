@@ -173,7 +173,7 @@ Notes:
 
 *Some leakage of components. Decent split of responsibilities.
 
-The project will be assessed with the following rubric:
+Scores:
 
 1 Overall Functionality: 4
 
@@ -189,15 +189,44 @@ The project will be assessed with the following rubric:
 
 [Project Markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
+Assessed By: Nate
+
+Notes:
+
+- Talked breifly about some strategies to break up a long method
+- Better encapsulation. Sales engine doesn't need to be everywhere
+- Split your data and your tests as much as you can
+- Have faster tests so you can run the whole suite all the time
+- There are better enumerable options (`.select` instead of `.map` + `.compact` for instance)
+- Good naming
+- Good waffling
+- Good test coverage
+
+Scores:
+
+1 Functional Expectations: 3
+
+2 Test-Driven Development: 3
+
+3 Ecapsulation: 3
+
+4 Fundamental Ruby & Style: 3
+
+5 Enumerable & Collections: 3
+
+6 Code Sanitation: 4
+
+
 ####Feedback to Me
 
-From working with Jonathan Liss on HTTP YYKM I got this feedback:  
+From working with Jonathan Liss on HTTP YYKM:  
 
 I liked working with Drew because he's very methodical and quick to come up with solutions to the problems we meet.  We did very well as a team since he is able to independently work on portions of the project as well as collaborate on one thing.  If Drew were to improve on one thing I would say it should be test driven development.  Think about the end result and then dive into the problem.  I appreciated working with Drew because we were able to get a lot done by dividing up the project into sections and working independently when we needed to.
 
 From Ling Tran on the Black Thursday project:
 
-(Waiting for completion of project)
+Drew was consistently strong throughout he final project timeline. I learned a lot technically from him, particularly about the Ruby object model. He is a pretty laid back person and easy to get along with. He has a strong and balanced work ethic. He has a sharp mind and is a willing teacher. Despite my coming into the partnership with a less technical background, Drew was never condescending. He was patient and very collaborative. Our communication styles are similar and it seems like our work styles are too. Despite the scope of the project, we have been able to have a lot of fun working together. A goal Drew had was to be better about writing tests first. He definitely made an effort on this front and I would say to keep it up. He is able to think about a problem abstractly and easily implement his solution - I hope to be as adept as Drew in this regard. Thanks for being such an awesome project partner, Drew!
+
 
 #### [Blog Post](https://medium.com/@drew.t/on-testing-and-tdd-1363c3206d7c#.yv7ynqezn)
 #### [Pull Request 1](https://github.com/drew-t/black_thursday/pull/54)
