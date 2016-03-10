@@ -90,7 +90,7 @@ Matt was a solid partner for Game Time. We paired well together on difficult asp
 Throughout my time at Turing I feel like I've made great friends and will always feel a part of the community no matter where I am.  Aside from the usual Vault/Society gatherings, I've spent a good deal of time with other Turing students getting outside and enjoying what Colorado has to offer.  From hiking the flations with 1508'ers to weekend disc golf outings, and from rock climbing at Movement to skiing with staff and students, I will always have great memories from my community members at Turing.    
 
 ### Protocol  
-- [DTR Memo](https://gist.github.com/matt-stj/a43f3625f5b23b57893e)
+- [DTR Memo](https://gist.github.com/MattRooney/7b60a8a397396c46668d)
 - [Blog Post](https://medium.com/@matt_stj/lessons-learned-from-building-an-electron-desktop-app-ember-js-file-bin-676c87434716#.7amxoypdd)
 - [Effective PR](https://github.com/stevekinney/file-bin/pull/12)
 - [README](https://github.com/matt-stj/fall-down-js)
