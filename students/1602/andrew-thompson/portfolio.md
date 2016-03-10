@@ -183,6 +183,12 @@ The project will be assessed with the following rubric:
 
 4 Breaking Logic into Components: 3
 
+
+##Black Thursday
+[Github Repo](https://github.com/drew-t/black_thursday)
+
+[Project Markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
 ####Feedback to Me
 
 From working with Jonathan Liss on HTTP YYKM I got this feedback:  
