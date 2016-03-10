@@ -11,6 +11,39 @@ Coming into this first module, my primary goal (besides just *passing* the modul
 3. Also new: Ruby. Besides one of the basic goals of the module, I wanted to be comfortable with it, not just passing.
 4. Lastly, besides these technical goals, I came in desiring to learn, develop, and practice my ability to break down problems outside of code and to think algorithmically.
 
+### Mid-Module Assessment
+
+Assessed By: Andrew
+
+#### Notes:
+
+* Developer did not TDD. Wrote tests retroactively
+* Could tell developer is comfortable with figuring things out, but did not aproach things efficiently.
+* Overall I think this developer is in a good place and is comfortable/able to code, but needs to use a little more discipline and TDD the whole way.
+* Also needs to work a little on how to use best use variables​
+
+## Evaluation
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+​
+##### 1. Ruby Syntax & API
+* 3: Developer is able to comfortably implement solutions in Ruby
+
+##### 2. Ruby Style
+* 2: Developer writes code that has unnecessary variables, operations, or steps which do not increase clarity
+
+##### 3. Blocks & Enumerations​
+* 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+
+##### 4. Testing
+* 1: Developer does not integrate testing throughout their development process
+
+##### 5. Workflow
+* 4: Developer is a master of their tools, efficiently moving between phases of development
+
+##### 6. Collaboration
+* 4: Developer *actively seeks* collaboration both before implementing, while in motion, and when stuck
+
 ### End of Module Assessment
 
 Assessed By: Horace
@@ -141,25 +174,33 @@ __Scores:__
 
 #### Headcount
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](http://github.com/jaredroth/headcount)
+* [Original Assignment](http://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 Headcount processes, manipulates, and evaluates certain data for all of the school districts in Colorado. This project involved heavy usage of hashes and CSVs and combining their use appropriately.
 
-Reviewed by
+Assessed By: Horace
+
 
 __Comments:__
 
-* Comment
-* comment
+* Passes spec harness through i5 -- solid 3 on completion
+* Overall succesful in managing data flow and processing through the repos
+* In general strong style around how we're handling things; only a few quibbles around naming, method division, etc
+* Looked at some interesting ideas around how we might pull out handlers for different processes in a more declarative way
+* enums, etc are pretty string; using some group by especially; maybe think about reduce instead of each with object
+* Where this starts to break down is in the Analyst -- you have the right pieces and some good techniques, but they could benefit from more organizaiton,
+especially from the perspective of carving out smaller helper classes to do some of the lower responsibilities
+* test coverage and breadth are both great; still would like to see more usage of more curated / specific data and attacking the tests
+at lower levels
 
 __Scores:__
 
 * Functional Expectations: 3
 * Test-Driven Development: 3
-* Encapsulation / Breaking Logic into Components: 3.5
+* Encapsulation / Breaking Logic into Components: 3
 * Fundamental Ruby & Style: 3
-* Enumerable & Collections: 3
+* Enumerable & Collections: 4
 * Code Sanitation: 4
 
 ### Select Pull Requests and Readme
