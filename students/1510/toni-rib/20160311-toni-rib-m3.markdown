@@ -134,6 +134,8 @@ We completed 4 out of the 5 posse challenges.
 
 * From Sal Espinoza (Tuesdays w/Toni): " I managed to snag a pairing session with Toni during the week that our final project was assigned, and our meeting was especially helpful as my partner and I worked to determine the way forward. Toni’s content knowledge was strong, and she was able to pick up quickly and make meaningful comments. That said, one of the best parts of working with Toni was the time she took at the beginning of the session to get to know me and my background and to give me that same opportunity. It just set the session off on a good foot, and helped make me feel comfortable. She also juggled questions from both my partner and I, and managed to keep everything moving."
 
+* From Joseph Perry (The Pivot): "Having had the opportunity to work with Toni on the Pivot project this module, I can safely say that I am most impressed with Toni's attitude and conduct in a team environment. Toni is a stellar developer - further confirming this came as no surprise to me. Toni's technical prowess is well-documented. However, at no point did she make me feel as though my opinion was unwanted. Toni made an exceptional effort to make sure that all decisions were group decisions, and was very careful to make sure that the project was a great learning experience for our entire group. I can safely say that I learned a lot working with her, that I had a great time working with her, and that I can only hope to have the opportunity to do so again in the future."
+
 ### Playing a Part
 
 * Continued 'Tuesdays with Toni' to pair with two students every Tuesday for the entire module.
@@ -141,6 +143,7 @@ We completed 4 out of the 5 posse challenges.
 * Made coffee a few times a week
 * Went to the deRailed meetup over the last intermission
 * 1603 prework guide for Brian Sayler
+* Went to the Denver rb meetup on Tuesday
 
 ## Review
 
