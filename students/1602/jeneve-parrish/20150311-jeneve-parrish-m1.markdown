@@ -92,6 +92,7 @@ Hyde is a lightweight application for blogging that provides a file structure an
  * [Github Repository](https://github.com/JaredRoth/hyde)
  * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/hyde/index.markdown)
  * [Evaluation Scores](https://github.com/turingschool/ruby-submissions/blob/master/1602/hyde/%20Jared-Roth&Jeneve-Parrish.md)
+
 #### Evaluation comments
  * Had conversations about refactoring and opportunities to make code
    cleaner and generally more readable.
@@ -107,6 +108,7 @@ Black Thursday is back-end program for accessing and analyzing sales data. It's 
  * [Github repository](https://github.com/notmarkmiranda/black_thursday)
  * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
  * [Evaluation Scores](https://github.com/turingschool/ruby-submissions/blob/master/1602/black_thursday/miranda_parrish.markdown)
+
 #### Evaluation comments
  * 118 runs, 131 asertions, runs in 40s.
  * 99 percent test coverage, test suite uses partial fixtures.
