@@ -208,9 +208,10 @@ Schedules and pairing time:
 
 
 ### Pull Request
-During my collaborative projects my partners and I paired for most of the time. Detailed pull request comments were not necessary. Here are two examples of more detailed pull requests.
+During my collaborative projects my partners and I paired for most of the time. Detailed pull request comments were usually not necessary. Here are two examples of more detailed pull requests.
 
 https://github.com/notmarkmiranda/hyde/pull/17
+https://github.com/Claudia108/black_thursday/pull/28
 
 
 ### Example of a README.md file (Project Night Writer)
