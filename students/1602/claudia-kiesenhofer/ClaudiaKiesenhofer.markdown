@@ -153,7 +153,7 @@ In week 5 I worked with Horace for an hour pairing session. This is his feedback
 ### Blog Post
 
 I wrote the following blog post about my first project Junglebeats:
-https://gist.github.com/Claudia108/a0ad9bc16918b18aa6d1
+https://gist.github.com/Claudia108/2f6d5cb6dbc9b209eaa4
 
 ### Posse Challenges
 
@@ -199,6 +199,7 @@ Schedules and pairing time:
 During my collaborative projects my partners and I paired for most of the time. Detailed pull request comments were not necessary. Here are two examples of more detailed pull requests.
 
 https://github.com/notmarkmiranda/hyde/pull/17
+
 
 
 ### Example of a README.md file (Project Night Writer)
