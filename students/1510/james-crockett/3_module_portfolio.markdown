@@ -80,6 +80,7 @@ Our pivot involved taking a large legacy code base and adapting it to a differen
 * Test-Driven Development: 4 - nice use of TDD, good use of patterns in the tests, good separation of responsiblities within each test
 * Code Quality: 3.5
 * Git Workflow: 3 - more conversation in the PR's
+
 ​
 ## Community
 ​
@@ -97,12 +98,19 @@ I have yet to be paired with Aaron yet, something I’ve said I was excited for 
 Beth continues to be one of my favorite people to work with and/or around. She has an impressive ability to make me genuinely laugh even when I'm crying on the inside. Much to her chagrin, she's becoming one of my go-to "can you take a look at this for a sec" friends, and to her credit I can't recall a time when she didn't do so immediately. She's detail-oriented and hard-working, and I think that work ethic really stands out. Her biggest issue is recklessly letting her road rage consume her. Don't be surprised to find her peeling around corners, popping wheelies, and bumping into desks with precariously placed mugs of coffee on them.
 
 ​
-### Being a Community Member
+### Feedback Received
+
 "Working with Jamie was one of my best group experiences at Turing so far. I think we have a similar mindset for approaching problems and dealing with stress (i.e., don’t feel stressed). He brings the pleasant combination of being a good programmer and also being fun to work with, which really helps a group to produce better results. In our pivot project, he took the lead in implementing Twitter, which was an extension and something we hadn’t learned about in class yet, and he has a good eye for extraneous or poorly written code. My only suggestion is to push less to master, as he likes to live dangerously."  - Steve Olson
 
 "Jamie is going to be that one developer at work that you love working with because he is such a good problem solver and explains things so well. Whenever I reached out to him for help he always had some good suggestion on hand or he asked me the critical questions that led to a great solution. Occasionally, I find it difficult to work with him because he is a Patriots fan and I can never forgive him for that. But then I remember that the Broncos won the Super Bowl and then I feel better and we're friends again." - Beth Secor
 
 "Jamie is one of the first people in 1510 I got to know well while we worked together on the pivot. I remember trying to be careful and uncharacteristically reserved that first week as I got to know everyone and handle the demands of the project. I quickly realized how lucky I was to work with Jamie - not only because of his technical ability that noticeably exceeds the average module 3 student I’ve worked with (and I’ve worked with a lot) but also his fun and easy going nature. It was a pleasure working with Jamie and I’m proud of the pivot our group created. Fast forward a month and my respect for him has grown even more. He’s a hard worker, has helped me countless times work through problems with my code that would have taken me far longer on my own, and he has become a voice of reason and positivity within our module. Turing is an extremely stressful environment and has a tendency to make even the strongest person complain on occasion - not Jamie. I can think of several times when our Friday group retro had taken a turn for the negative and Jamie voiced an unpopular opinion encouraging the rest of us to see things from a different perspective. I really admire that and I’m sure others have noticed that too." - David Stinnette
+
+### Being a Community Member
+* Attended two meetups, which Mike had challenged me to get more involved with.
+* RSVP'd to another meetup for React.js
+* Debugged and paired with posse members in the morning
+* Often help others with CSS
 
 
 ### Posse Work and Contributions
