@@ -255,7 +255,7 @@ The program completes the iteration 3 requirements. It needs partner review and 
 
 
 * [GitHub URL](https://github.com/seeker105/headcount/pull/6)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)  
 Created a `format_fixnum` method in the CleanData module to format integer strings read in from data files. Converts to fixnum and returns "N/A" if the value is 0 or empty. Created `EconomicProfile` and `EconomicProfileRepository` classes. 
 Created methods: `median_household_income_in_year`, `median_household_income_average`, `children_in_poverty_in_year`, `free_or_reduced_price_lunch_percentage_in_year`, `free_or_reduced_price_lunch_number_in_year`, and `title_i_in_year`. Also broke out some of the logic for these methods into helper methods.
 
