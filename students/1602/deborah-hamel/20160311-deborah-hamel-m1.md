@@ -258,3 +258,48 @@ __Soft Skills / Protocol Requirements__
 ###1 example of a well-written project readme
 * [GitHub URL](https://github.com/deborahleehamel/night_writer/blob/master/Readme.md)
 * [GitHub URL](https://github.com/jwashke/black_thursday/blob/master/README.md)
+
+
+## A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 4: Student helps others to be their best selves while using peer feedback
+to shape their own character and behavior.
+
+OUTCOME: PROMOTED
