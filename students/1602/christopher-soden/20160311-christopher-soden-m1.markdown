@@ -283,7 +283,7 @@ I ended up traversing the string using multiple ‘match’ calls. The ‘match�
 
   p_any?(X, symbol)
 
-The p_any? method takes 2 parameters, a numeric value X and one of three
+The p_any? method takes 2 parameters: a numeric value X and one of three
 symbols, and returns a proc for comparing all values in an array to X.
 
 The available symbols are:  
