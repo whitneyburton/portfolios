@@ -53,6 +53,30 @@ This 3 day personal project builds an API that presents sales data. First, the C
 
 Assessed by: Rachael Warbelow
 ___
+
+### Ticket Maestro
+
+[Heroku](https://sleepy-caverns-70728.herokuapp.com/)
+[GitHub](https://github.com/stevepentler/the_pivot) on GitHub
+
+##### A group effort from: 
+[Steve Pentler](https://github.com/stevepentler)
+[Hector Huertas](https://github.com/hectorhuertas)
+[John Slota](https://github.com/slotaj)
+
+This 2 week project pivoted/repurposed a basic store into a ticket website. The website hsots a multi-tenancy platfrom with venues selling tickets for their concerts. This was the group's first time working with a legacy code base. 
+
+**Challenges:**
+1. AWS Web Services C3 was tempermental at an inopportune time. We learned that deployment definitely should not be pushed back on the list of priorities.
+2. Creating a multi-tenant platform challenged us to push logic down the stack and adhere to MVC principles. It was easy to hang logic in the views, especially considering our intention to limit individual view pages.
+3. Quite frankly, working on an idea that I wasn't overly passionate about. We've been privledged to freely create apps of our choice. 
+
+**Skills Ultilized:** Multi-tenant Platform, Sendgrid mailers, AWS/Paperclip, SimpleCov Testing Analystics, HTML, Materialize CSSetc. 
+
+#### Evaluation Scores:
+
+___
+
 ### Run Normalizer
 
 [Run Normalizer](https://github.com/stevepentler/run-normalizer) on GitHub
@@ -61,51 +85,22 @@ ___
 
 This 3 day personal project hits the Map My Fitness API and presents users specific lifetime data (ex: total distance, sessions, calories, and steps). In addition, the application displays data (ex: avg pace, distance, duration) for each individual workout a user has recorded, with a link to the route on mapmyfitness.com
 
-**Skills acquired:** OmniAuth2, VCR/Webmock Testing, Faraday HTTP Client, SimpleCov Testing Analystics, HTML, CSSetc. 
+**Skills acquired:** API calls, OmniAuth2, VCR/Webmock Testing, Faraday HTTP Client, SimpleCov Testing Analystics, HTML, CSSetc. 
 
 #### Evaluation Scores:
-1. **Functional Expectations: 4**
-2. **Test Drive Development: 4**
-3. **Encapsulation/Breaking Logic into Components: 3.5**
-4. **Fundamental Ruby & Style: 3.5**
-5. **Sinatra/Web and Business Logic: 4**
-6. **View Layer: 3**
 
-Assessed by: Rachael Warbelow
 ___
 
-### Code Challenges
+### Posse Challenges
 
-[Code Challenges](https://github.com/stevepentler/code_challenges) on GitHub
+[Zyg Posse Challenges](https://github.com/rossedfort/posse_challenges) on GitHub
 
 Opportunities to practice Ruby.
-- Swift Stats inputs a csv with Taylor Swift lyrics and count's how many times lyrics are repeated, such as "truck."
-- Pig Latin "latinify's" user input. 
-- Italian Plumber allows users to build walls like those in Super Mario with symbols of their choice.
 
 ___
 
-### Blog Posts
+## Personal Assessment
 
-[As the Crow Flies](http://stevepentler.github.io/)
-
-Technical blog posts on **Capybara Testing** and **Should Matchers Model Validations,** both complete with examples, text editor screenshots, and Semi-Pro Tips (AKA mistakes I've made).
-
-___
-
-## Personal Assessments
-___
-#### Mid-Module Assessment:
-1. **Analytic/Algorithmic Thinking: 3**
-2. **Ruby Syntax & Standard Library: 3**
-3. **Rails Syntax & API: 3.5**
-4. **Rails Style: 3**
-5. **Testing: 3**
-6. **Collaboration: 3**
-
-Assessed by: Rachael Warbelow
-___ 
-#### Final Assessment: 
 1. **Analytic/Algorithmic Thinking: 4**
 2. **Ruby Syntax & Standard Library: 3**
 3. **Rails Syntax & API: 3**
@@ -115,17 +110,13 @@ ___
 
 Assessed by: Mike Dao
 ___
+
 ### Community
 
-I've regularly attended Computability Theory on Wednesday mornings as well as Hack Design on Thursday afternoons.
+* I help keep Regis busy after he finishes work
 
-I have the best eyewear in all of Turing aside from Regis. I'm a father figure for 1510, especially Jordan Lawler, who needs guidance.
 ___
-#### Playing a Part
-I've been very deliberate about helping 1511'ers. I've had consistent pairing sessions and lots of check-ins.
-___
-### Feedback *should be private*
-
+### Feedback
 * "Steve is so easy-going and fun to work with. He is extremely good at front-end design and displaying content in an organized and aesthetic way. He always recognizes whenever I can't reach something in the kitchen and gets it for me without asking, he is an awesome member of the Turing community. - Beth"
 * "Having worked with Steve on our Little Shop end-of-module project, I can safely say that he is one of the most consistently positive people I've ever worked with. Even-tempered and cool in even the most stressful situations, Steve brings a nigh-fatherly presence that strongly contributes to group order and productivity. Steve spear-headed the CSS styling of our project, and he has excellent instincts for web design. I particularly appreciate that Steve actively engages all aspects of the design process, rather than sticking to the tasks that feel the most comfortable, or that come the most easily to him. Pressed for actionable constructive criticism, I would advise Steve to more actively manage window layout and shortcuts when pairing, a skill that I've already seen him improve on notably over the course of our project. I couldn't have asked for a better partner, and can only hope I have more opportunities to work with Steve in the future!" - JP 
 * "Steve was really fun to work with on Traffic Spy. He never turns down taking on a task and did a great job with views and partials for our site. He also loves to work on the styling which some of us tend to avoid. Steve doesn't given himself enough credit for the work that he puts in and how much he is able to contribute to the group. I think if he started trusting himself a little more he would realize what a great programmer he is!" - Toni 
