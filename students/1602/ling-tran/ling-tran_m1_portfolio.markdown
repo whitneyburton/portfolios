@@ -2,8 +2,6 @@ Ling Tran - M1 Portfolio
 ======
 ___
 
-* Remaining to do: Update with Final Project evaluation
-
 ## __Individual__
 ---
 ### Areas of Emphasis
@@ -105,7 +103,7 @@ Notes:
 ### Blog Post
 
 * [Learning Journey at Turing in Module One](https://gist.github.com/lingtran/cce570211d533e5ed842)
-
+___
 ## __Team Projects__
 ---
 I completed the following paired work this module:
@@ -152,17 +150,26 @@ Project Partner: Drew
 
 [Project Debrief](https://github.com/lingtran/black_thursday/blob/master/project_debrief.md)
 
-Assessed by: TBD
+Assessed by: Nate
 
 Notes:
-* TBD
+* Talked breifly about some strategies to break up a long method
+* Better encapsulation. Sales engine doesn't need to be everywhere
+* Split your data and your tests as much as you can
+* Have faster tests so you can run the whole suite all the time
+* There are better enumerable options (`.select` instead of `.map` + `.compact` for instance)
+* Good naming
+* Good waffling
+* Good test coverage
 
 | **Category**                                    | **Score** |
 |-------------------------------------------------|-----------|
-| Overall Functionality                           | ?         |
-| Test-Driven Development                         | ?         |
-| Encapsulation / Breaking Logic into Components  | ?         |
-| Fundamental Ruby & Style                        | ?         |
+| Overall Functionality                           | 3         |
+| Test-Driven Development                         | 3         |
+| Encapsulation / Breaking Logic into Components  | 3         |
+| Fundamental Ruby & Style                        | 3         |
+| Enumerables & Collections                       | 3         |
+| Code Sanitation                                 | 4         |
 
 #### Feedback to Me
 
@@ -199,14 +206,14 @@ Notes:
 **Feedback from mentor**
 * Sally MacNicholas | Turing alum, 1503:
 > It has been great to see Ling’s progress over the course of the module as her mentor. Ling is always open to feedback from our mentoring sessions, and always requests that I give her constructive criticism. Time and time again she would take feedback, and would consistently work on things and get better by our next session. I can’t imagine there being a more curious, dedicated, hard-working student than Ling. And to top it all off, she always has a great attitude about everything!
-
+---
 ## __Black Thursday Project Pull Requests (4x)__
 ---
 * [Create merchant class #11](https://github.com/drew-t/black_thursday/pull/11)
 * [added tests and methods in SalesAnalyst for avg. item/merchant & std_dev #18](https://github.com/drew-t/black_thursday/pull/18)
 * [Invoice repo test #23](https://github.com/drew-t/black_thursday/pull/23)
 * [refined formatting of files #62](https://github.com/drew-t/black_thursday/pull/62)
-
+---
 ## __Community__
 ---
 ### Ezra Zygmuntowicz Posse Challenges
