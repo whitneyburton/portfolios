@@ -50,6 +50,8 @@ linked.
 
 Assessed By: Tess
 
+Scores:
+
 * Functional Expectations: 4
 * Test-Driven Development: 4
 * Encapsulation / Breaking Logic into Components: 3
@@ -70,6 +72,8 @@ some research to find the correct syntax for using regex's; but the biggest
 challenge was looking at the special cases around contractions and splitting the
 output into 80 character lines. I learned more about the match method - eventually
 finding a way to use that to accomplish the split.
+
+Scores:
 
 * Overall Functionality: 4
 * Fundamental Ruby & Style: 3
@@ -100,6 +104,8 @@ Working with Chris was great, his schedule was very accommodating for collaborat
 
 Assessed by: Nate
 
+Scores:
+
 * Functional Expectations: 2
 * Test-Driven Development: 3
 * Encapsulation / Breaking Logic into Components: 3
@@ -118,6 +124,25 @@ the data.
 This project definitely developed our skills with hashes. The complexity of
 the data hashes we had to create and the hash-parameters passed
 into and returned from the methods made this a very challenging problem.
+
+Assessed By: Nate
+
+Notes:  
+- Data manager got out of control. Might need some modules, or maybe push responsibility to other classes, existing or not
+- Use mock data. Gonna take some setup time, but better
+- Class variables are not preferable, is there another way to do this? Experiment with 'nil protector'
+- Good test coverage
+- Using lots of different ruby tools at your disposal. Good work.
+
+Scores:
+
+* Functional Expectations: 3  
+* Test-Driven Development: 4  
+* Encapsulation / Breaking Logic into Components: 3  
+* Fundamental Ruby & Style: 4  
+* Enumerable & Collections: 3  
+* Code Sanitation: 4  
+
 
 ### Posse Challenges
 
@@ -233,8 +258,8 @@ All feedback should be specific, actionable, and kind - and, ideally, should be 
 **Is there anything else the group should know about personal work/communication styles?**  
 Not at this time.
 
-## Pull Requests
-#### Enumerables Challenge branch into Master
+## Pull Requests  
+#### Enumerables Challenge branch into Master  
 * [GitHub URL](https://github.com/cheljoh/enums_challenge/pull/1)  
 * [Original Assignment](https://gist.github.com/applegrain/744468d56507d000e9d4)
 
