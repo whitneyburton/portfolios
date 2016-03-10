@@ -288,4 +288,14 @@ For Module 3, I want to:
 
 ### Notes
 
+* Still exploring future option for integgrating mathematics and computing. 
+* Challenge you to take intermission week to try to figure out a schedule so keep a work life balance
+* Finding it challenging to nogotiate with peers
+* Wants to prepare more for mentor sessions
+* Gave good feedback and received feedback with a good consciousness of self
+* Attended improve, joan clarke etc. 
+* For mod 3 - Write 3 technical blog posts
+* Technical challenges come easily to you. Challenge yourself to work well with anyteam and all teammate.
+
+
 ### Outcome
