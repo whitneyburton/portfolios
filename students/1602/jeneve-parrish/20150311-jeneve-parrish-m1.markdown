@@ -164,6 +164,7 @@ During the first module, I have taken a lot more from the community than I have 
  - [Here's a blog post I wrote about solving a problem in Black Thursday](https://jeneveblog.wordpress.com/2016/03/07/how-i-created-fixtures-for-faster-testing/).
  - [Here's the README for Hyde.](https://github.com/JaredRoth/hyde/blob/master/README.markdown)
  - [Here's the README for Black Thursday.](https://github.com/notmarkmiranda/black_thursday/blob/master/README.md)
+
 ### Posse Challenges
 
 Working for a half hour each morning with my posse on a challenge has been valuable. My favorite challenge was Enumerables and Procs, because it was within my ability to make a meaningful contribution. Even when the challenge was above my ability, I learned from watching my posse-mates solve the problem. I'm looking forward to next Module's challenges because I know I'm ready to get more involved in the coding of solutions and helping our new members join in and feel welcomed the way I was welcomed.
