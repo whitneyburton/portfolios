@@ -191,6 +191,9 @@ Notes:
 
 * Drew | Black Thursday:
 
+> Ling was a great partner to have on this project.  Her knowledge of syntax and enumerables was very helpful throughout the timeline.  She is also much more organized than I am which helped us to stay on track.  Throughout the project we were able to compromise on schedules and work together in multiple ways.  Whether pairing on one machine, 2, or via ScreenHero she was able to convey her ideas as well as understand mine.  I also had a lot of confidence in her ability which made it very easy to split up tasks on the program and know that they would be done correctly and in a reasonable time.  I can’t imagine that the project could have gone any more easily with another partner, our personalities jived well and we were able to have fun and get work done.  I would happily have Ling as a partner for any future projects.
+
+
 **In-class pairing partners' feedback**
 * Kris:
 
@@ -247,23 +250,29 @@ Notes:
 ### Giving Feedback
 **Paired project partner feedback**
 * Kris | HTTP Yeah You Know Me:
+
 > Kris works really hard and embodies qualities any person would seek in a team member. She is calm and thoughtful. She is great at asking questions. Early on in the project we did experience some clashing in work styles, but because she is communicative, we were proactive in talking through the issues. This smoothed out the kinks and we always felt like a team unit in tackling the project. One thing Kris can work on is not being so hard on herself. Her self-doubt seemed to get the best of her sometimes. She is logical and capable of problem-solving as seen in working on the project, so I hope she can fortify self-awareness in this regard! You've got this, Kris!
 
 * Drew | Black Thursday:
+
 > Drew was consistently strong throughout the final project timeline. I learned a lot technically from him, particularly about the Ruby object model. He is a pretty laid back person and easy to get along with. He has a strong and balanced work ethic. He has a sharp mind and is a willing teacher. Despite my coming into the partnership with a less technical background, Drew was never condescending. He was patient and very collaborative. Our communication styles are similar and it seems like our work styles are too. Despite the scope of the project, we have been able to have a lot of fun working together. A goal Drew had was to be better about writing tests first. He definitely made an effort on this front and I would say to keep it up. He is able to think about a problem abstractly and easily implement his solution - I hope to be as adept as Drew in this regard. Thanks for being such an awesome project partner, Drew!
 
 **In-class pairing partner feedback**
 * Kris:
+
 > Kris is very kind in her communication so it was productive bouncing ideas with one another. As a team, we can be more hands-on in utilizing pry from the start, which we ultimately did toward the end of our pairing sessions. Kris has a helpful approach to conceptualizing the presented problems with her sketches, so she should keep that up. She has really good ideas and can benefit from having more confidence in speaking about them! :smiley:
 
 * Drew:
+
 > Drew is really knowledgable and open to experimenting with methods and being creative with syntax. This helped enable creating a space where we were both comfortable bouncing ideas off of each other because we were not married to anything in particular. Drew is a really great teammate and would enjoy pairing with him again. He seems really knowledgeable and I originally found it intimidating. But because he is so open, it was easy to collaborate. It's a continuous growth process, so we can both continue working on building our Ruby knowledge. Thanks!
 
 **Feedback to peers outside of 1602 cohort**
 * Nicholas Dorans (a.k.a. Grumpy Baby), 1511 | Pairing:
+
 > Since even before module one started, Nick has made himself available as a teacher. I particularly recall experiencing an epiphany around return values during one of our pairing sessions. Comprehending that point has improved my ability to debug in subsequent projects. Nick seems to handle pressure really well - at least when he communicates it is very even keeled. As Deb has said, "Nick is effortlessly genuine." The only constructive criticism that I can provide is regarding his teaching style. He is very approachable but there were a few times where he shared solutions before providing context around their use cases. He is very intentional about not doing that, so I would say keep that up! I'm really glad I was able to befriend someone like Nick. He is definitely an integral soul to the Turing community. Thanks for being you, Nick!
 
 * Ryan Johnson | Ezra Zygmuntowicz Posse:
+
 > I am going to miss seeing Ryan every morning as we work through the posse challenges for these reasons. Ryan was a great posse team mate this module because he made himself available for questions about anything and has a very approachable air about him. When it came to programming questions, he was great at teaching rather than simply providing answers, which particularly enhanced my understanding of the Ruby object model. Thanks, Ryan, for being a great teacher and being a positive force in my first module at Turing! I know you will thrive in the real world!
 
 ### Playing a Part
