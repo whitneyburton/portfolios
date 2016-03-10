@@ -8,12 +8,12 @@ Coming into the first module I had three main goals. Having no experience with p
 
 ### Mid-Module Assessment
 
-* Ruby Syntax and API: 3 (Developer is able to comfortably implement solutions in Ruby)
-* Ruby Style: 3 (Developer writes code that is easy to follow)
-* Blocks and Enumerables: 3 (Developer demonstrates understanding of blocks and can effectively use enumerable methods)
-* Testing: 3 (Developer uses tests to guide development in small chunks)
-* Workflow: 2 (Developer smoothly moves between tools, but is dependent entirely on mouse-driven interaction)
-* Collaboration: 3 (Developer lays out their thinking *before* attacking a problem and integrates feedback through the process)
+* Ruby Syntax and API: 3  --  Developer is able to comfortably implement solutions in Ruby)
+* Ruby Style: 3  --  Developer writes code that is easy to follow)
+* Blocks and Enumerables: 3  --  Developer demonstrates understanding of blocks and can effectively use enumerable methods)
+* Testing: 3  --  Developer uses tests to guide development in small chunks)
+* Workflow: 2  --  Developer smoothly moves between tools, but is dependent entirely on mouse-driven interaction)
+* Collaboration: 3  --  Developer lays out their thinking *before* attacking a problem and integrates feedback through the process)
 
 Notes from Nate:
 * Look up a couple keyboard shortcuts. http://blog.bugsnag.com/atom-editor-cheat-sheet
