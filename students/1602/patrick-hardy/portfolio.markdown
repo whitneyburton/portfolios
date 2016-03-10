@@ -9,6 +9,7 @@ victory that let me know I had mastery of object manipulation.
 
 ### Mid Module Assessment
 ### Assessed by Nate
+* Collaboration: 4
 * Ruby Syntax: 3
 * Ruby Style: 3
 * Blocks and Enumerations: 3
@@ -20,11 +21,12 @@ shortcuts, and continued do focused exercises on enumerables and building simple
 
 ### End of Module Assessment
 
-* Ruby Syntax:
-* Rails Basics:
-* Javascript Basics:
-* Workflow:
-* Collaboration:
+* Collaboration: 3
+* Ruby Syntax: 3
+* Ruby Style: 3
+* Blocks and Enumerations: 3
+* Testing: 4
+* Workflow: 3
 
 ### Attendance
 
@@ -40,13 +42,13 @@ Although this is in the project section, it was never evaluated.
 I have re-done this project several times, as I really liked how it reinforced
 OOD and enumerable concepts.
 
-assignment: https://github.com/turingschool/ruby-exercises/tree/master/mythical-creatures
-git_repository: https://github.com/patrickwhardy/mythical-creatures.git
+* assignment: https://github.com/turingschool/ruby-exercises/tree/master/mythical-creatures
+* git_repository: https://github.com/patrickwhardy/mythical-creatures.git
 
 ### Linked List/Jungle Beats
-eval: https://github.com/turingschool/ruby-submissions/blob/master/1602/jungle_beat/patrick_hardy.markdown
-assignment:
-git_repository:https://github.com/patrickwhardy/jungle-beats.git
+* eval: https://github.com/turingschool/ruby-submissions/blob/master/1602/jungle_beat/patrick_hardy.markdown
+* assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown
+* git_repository: https://github.com/patrickwhardy/jungle-beats.git
 
 In this project I got a lot of practice with the object oriented model.
 I gained a solid understanding of hashes and recursion. I was not
@@ -54,10 +56,10 @@ very familiar with writing tests and did not know many debugging techniques at
 this time which prevented me from debugging my methods in the time allotted.
 
 ### Enigma
-eval:
+* eval:
 https://github.com/turingschool/ruby-submissions/blob/master/1602/enigma/patrick_hardy.md
-assignment:
-git_repository: https://github.com/patrickwhardy/enigma.git
+* assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown
+* git_repository: https://github.com/patrickwhardy/enigma.git
 
 While completing this project, I was finally able to systematically debug errors
 and test functionality. I also learned a lot about breaking responsibilities
@@ -70,9 +72,9 @@ I was very happy to recieve such positive feedback from Meeka
 I participated in the following team projects:
 
 ## Hyde
-eval:https://github.com/turingschool/ruby-submissions/blob/master/1602/hyde/jennifer-soden_patrick-hardy.md
-assignment:
-git_repository: https://github.com/patrickwhardy/hyde.git
+* eval: https://github.com/turingschool/ruby-submissions/blob/master/1602/hyde/jennifer-soden_patrick-hardy.md
+* assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/hyde/index.markdown
+* git_repository: https://github.com/patrickwhardy/hyde.git
 
 Hyde greatly reinforced my file I/O skills and introduced me to API's
 and some interesting gems. It was a nice experience learn how to work
@@ -84,20 +86,30 @@ syntax best-practices.
 ## Black Thursday
 
 eval:
-assignment:
-git_repository:
+* assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
+* git_repository: https://github.com/Claudia108/black_thursday.git
 
-This proj so dope
+Black Thursday my favorite and most complicated project of the module. Because my
+partner and I did every step of this project together, it provided a ton of practice
+with ruby. The initial setup of this project was conceptually difficult, and required
+us to come up with the resourceful solution of passing self through the initialize of
+repositories and low-level objects. The latter half of the project provided extensive
+practice with enumerables and hashes. Ultimately, I was very happy with the design
+decisions we made and our spec harness runs very fast because of this. We were also
+able to spend signicant time refactoring and I am very proud of how clean and
+elegant our code has become.
 
 ### Feedback to Me
 
-From Claudia Kiesenhofer https://turingschool.slack.com/archives/D0PGKKD5G/p1456893076000014
+From Claudia Kiesenhofer  https://turingschool.slack.com/archives/D0PGKKD5G/p1456893076000014
 
-From Marina Corona https://turingfeedback.herokuapp.com/feedbacks/4ca97049372a0317bf7ea5896769
+From Jenifer Soden  https://turingschool.slack.com/archives/D0M1U6RKN/p1457582931998435
 
-From Mark Miranda https://turingfeedback.herokuapp.com/feedbacks/34e867fd6c63e52f34decf28eeba
+From Marina Corona  https://turingfeedback.herokuapp.com/feedbacks/4ca97049372a0317bf7ea5896769
 
-From Ilana Corson https://turingfeedback.herokuapp.com/feedbacks/4dbf5a43eeb2d50bfb10b76f0abc
+From Mark Miranda  https://turingfeedback.herokuapp.com/feedbacks/34e867fd6c63e52f34decf28eeba
+
+From Ilana Corson  https://turingfeedback.herokuapp.com/feedbacks/4dbf5a43eeb2d50bfb10b76f0abc
 
 ## Community
 
@@ -126,13 +138,15 @@ I have given all feedback requested, in addition to several other occasions.
 * For Jennifer Soden
 https://turingschool.slack.com/archives/D0NJ2MLPM/p1456775413000002
 
-* For Marina Corona: https://turingfeedback.herokuapp.com/feedbacks/e3aff60b21579a7d017f89e63d23
+* For Marina Corona https://turingfeedback.herokuapp.com/feedbacks/e3aff60b21579a7d017f89e63d23
 
 * For Mark Miranda https://turingfeedback.herokuapp.com/feedbacks/df8b2a9b363e90ab4db361053a83
 
 * For Ilana Corson https://turingfeedback.herokuapp.com/feedbacks/cdd71715a764c0476322b274ab12
 
-### Protocall
+### Protocol
+
+* DTR https://turingschool.slack.com/files/claudia/F0RNVGKRS/-.txt
 
 * Pull Request 1:https://github.com/Claudia108/black_thursday/pull/36
 * Pull Request 2:https://github.com/Claudia108/black_thursday/pull/37
