@@ -49,6 +49,31 @@ Collaboration | 3
 
 ### Work
 
+#### Black Thursday
+
+* [Github URL] (https://github.com/theonlyrao/black_thursday)
+* [Original Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
+The purpose of this project was to create a program that would read CSV files and perform analytical operations across diverse data sets.
+
+I continued to grow in my ability to use classes and modules to reduce the responsibilities given to particular objects. However, I continue to need to work on patience in writing tests and discipline in writing code that is easy to read.
+
+**Andrew evaluated this project with the following results:**
+
+"Functionally everything works well, tests run, harness passes. A little redundant code, but overall looked really good.
+Tests were getting to a good place but were lacking a little. Need to be a little more disciplined with writing tests. Also saw some tests with fixtures and some without.
+Logic was broken into components pretty well. There was some repetitive code in each repository to parse the csv and when commented out the tests still passed. So there is room for improvement, but on the right track.
+Enumerables looked really good. Where they were implemented there is significant room to refactor, particularly for clarity, but good use of group_by, reduce, map etc."
+
+Category | Score
+--- | --- | ---
+Overall Functionality | 3
+Fundamental Ruby & Style | 3
+Test Driven Development | 3
+Breaking Logic into Components | 3
+Enumerable & Collections | 4
+Code Sanitation | 4
+
 #### HTTPYYKM
 
 * [GitHub URL](https://github.com/emblou2/http_yeah_you_know_me)
