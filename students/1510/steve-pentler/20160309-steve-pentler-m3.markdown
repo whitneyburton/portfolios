@@ -26,9 +26,23 @@ This app consumes four API's. The [Strava API](https://strava.github.io/api/) wi
 3. Scraping: I received a crash course in scraping with mechanize/nokogiri. I was able to scrape plain html, but the content I wanted was nested under hidden JavaScript tags. I'll get back to scraping once I polish up my JavaScript debugging skills. 
 
 #### Evaluation Scores:
+**Notes:**
+* All features complete
+* Skinny controllers and fat models
+* Good use of presenters
+* Thoroughly tested
+* Good separation of logic in models/presents/service.
+
+**Scores:**
+1. **Completion: 4**
+2. **Organization: 4**
+3. **Test Driven Development: 4**
+4. **Code Quality: 3**
+5. **User Experience: 3.5**
+5. **Performance: 4**
 
 
-Assesed by:
+Assesed by: Lovisa
 ___
 
 ### Rails Engine
@@ -152,7 +166,7 @@ ___
 ### Community
 
 * I help keep Regis busy after he finishes work
-* I help people with styling issues and design
+* I general counsel for styling issues and design
 * I am a father figure for Jordan
 * I have the best eye-wear at Turing
 * I work the dishwasher machine
