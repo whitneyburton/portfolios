@@ -186,6 +186,9 @@ Over the course of a week and a half we were asked to assemble a relational data
 * Enumerable & Collections: 3
 * Code Sanitation: 4
 
+*Feedback from Kris*
+* It is hard to pin down one thing in particular that went well when looking back at my group project with Sal.  It’s difficult to choose just one complement.  Sal is incredibly smart and methodical.  He is wonderful at collaborating and though his skills exceed mine, he never left me in the dust.  He brought us to the solutions together, we talked through rough patches with breaking them down on paper, and it was a great learning experience.  Sal expertly crafts code and seems to spin it effortlessly.  He has a deep understanding of how objects and classes interact.  I couldn’t have asked for a better partner in such a meaty, interwoven project.  It would have been easier to build some of the methods in a clunky, duct tape way, but Sal pushed to continue to refine them, to clean and tidy the code until it really shone.  He’s calm under pressure, reassuring, and inclusive, in addition to being a brilliant programmer.  At one point, Sal mentioned that he had been told in his Pairin survey that he could use more confidence when coding, which blew my mind.  I had a hard time believing someone with such skill could doubt themselves.  If anything all all, he could work on internalizing his own awesome abilities and eliminate this lack of confidence entirely.    It was a sincere pleasure working with Sal and I count myself lucky to have been paired with him.  Love you man.
+
 ## Community
 
 ### Posse Challenges
@@ -197,6 +200,9 @@ A link to our successfully completed posse challenges can be found [here](https:
 *Feedback to Kris Foss*
 I was paired with Kris Foss for a short session where we tried different pairing styles using a project where we created a robot that could navigate a grid. For this exercise we paired with multiple people using different pairing strategies.
 * Kris was the first person I paired with today who went through the tests provided to identify all of the methods that the Robot class needed to have. It was just an approach that no one else brought to the problem that I thought was both refreshing and pretty smart. To me, it showed a real understanding of the testing process, the relationship between tests and the code it's testing, and just a general sense of how code works (i.e. the relationship between an object and its methods).
+
+Kris and I also worked together on Black Thursday, and I had the following feedback for her after that experience.
+* Having worked with Kris before I had a good sense of what I was getting into. Towards the end of the project, Kris turned to me and said, “at least we had fun,” and I would agree. Kris is easy to work with, helped me think through our problems, and also helped to keep me grounded when things got tough. I liked being able to bounce ideas off of her, and counted on her to catch mistakes when I was implementing code. I think Kris has a good sense of what’s going on, and is already very aware of the Ruby items that she needs to work on. It was good to talk to her and hear that she’s already put a plan in place to get stronger in a couple of areas over break. The one thing I would say is that I think sometimes that self-awareness can go overboard; it’s good to see Kris identifying items that could use work, but hurts to see her sometimes overestimate how far she has to go. I’d like to see her apply that same self-awareness to acknowledge the contributions she makes.
 
 *Feedback to Chris Soden and Thom Pickett*
 I was paired with Chris and Thom for a short project session as part of our introduction to pairing practices.
