@@ -261,20 +261,22 @@ The program completes the iteration 3 requirements. It needs partner review and 
 
 
 ## Blog Post
-Blog draft:  
-Trying to do the NightWriter program really kicked my tail. I thought it would be easy.
+Text to Braille: A Beginner Classroom Problem
 
-The really hard part turned out to be the contractions. You have to slice the string into groups of 80 characters for outputting to 80 character braille lines. What happens if a contraction falls right before the slice and there’s another one immediately after it? If you only have one contraction and it ends before the slice there’s no problem. But if you have 2 in a row the last character of the first contraction is also the first character of the next contraction. You have to preserve them together.  And what happens if a contraction falls across the slice? You have to move the whole thing to the next line. 
+The problem was to convert a text file into braille characters with support for contractions and a line break every 80 characters. In braille a contraction is a single character with a leading and trailing space that represents a common word, like the letter “c” for “can”.
 
-You can find the contractions using regular expressions, but I don’t have much experience using regex’s so I had to look up the syntax to construct the ones I needed. Then the problem becomes how do you pull them out of the string? There are several obvious search options built into the String class. But ‘scan’ seems to only return the found strings, without any information about what index they were found at. Without the index you can’t tell if the contractions were before, on or after the slice. And you can’t tell if they come as a pair. 
+The really hard part turned out to be the contractions. You have to slice the string into groups of 80 characters for outputting to 80 character braille lines. What happens if a contraction falls right before the slice and there's another one immediately after it? If you only have one contraction and it ends before the slice there's no problem. But if you have 2 in a row the last character of the first contraction is also the first character of the next contraction. You have to preserve them together.  And what happens if a contraction falls across the slice? You have to move the whole thing to the next line. 
 
-I experimented using ‘match’, but I couldn’t find a way to make it give all of the matches; it only returns the first match it finds. I was surprised to realize the ‘match’ it returns is a special object that you can query for information - like beginning index and index of the next character after the match. That can be exactly what I need but I need it for every match, not just the first. 
+You can find the contractions using regular expressions, but I didn't have much experience using regex's so I had to look up the syntax to construct the ones I needed. Then the problem becomes how do you pull them out of the string? There are several obvious search options built into the String class. But `scan` only returns the found strings, without any information about what index they were found at. Without the index you can't tell if the contractions were before, on or after the slice. And you can't tell if they come as a pair. 
 
-Another surprise I got working on this project: I had been counting on methods like ‘scan’ and ‘gsub’ to search the entire string. After implementing I quickly realized the search for the next match only begins after the last. Obvious, right? 
+I experimented using `match`, but it doesn't give all of the matches; it only returns the first match it finds. I was surprised to realize the `match` it returns is a special object that you can query for information - like beginning index and index of the next character after the match. That can be exactly what I need but I need it for every match, not just the first. 
 
-The problem is a contraction pattern requires a beginning and ending space. Finding contraction text as part of a larger word does not qualify. But making the spaces part of the regex pattern means that it only looks at every other word. It can’t handle a situation where the last character of one match is also the first character of the next match.  
+Another surprise I got working on this project: I had been counting on methods like `scan` and `gsub` to search the entire string. After implementing I quickly realized the search for the next match only begins after the last. Obvious, right? 
 
-I ended up traversing the string using multiple ‘match’ calls. The ‘match’ method does allow you to specify a starting index for the search. So I stored each result in an array and used the index of the end of the current result as the start of the next match search. This gave me an array of matches I could use. Once I had my match array I could iterate through the array and check the indices to see if any fell across the slice. 
+The problem is a contraction pattern requires a beginning and ending space. Finding contraction text as part of a larger word does not qualify. But making the spaces part of the regex pattern means that it only looks at every other word. It can't handle a situation where the last character of one match is also the first character of the next match.  
+
+I ended up traversing the string using multiple `match` calls. Ruby's `match` method does allow you to specify a starting index for the search. So I stored each result in an array and used the index of the end of the current result as the start of the next match search. This gave me an array of matches I could use. Once I had my match array I could iterate through the array and check the indices to see if any fell across the slice. 
+
 
 ## README
 [GitHub URL](https://github.com/cheljoh/enums_challenge/blob/master/README.md)  
