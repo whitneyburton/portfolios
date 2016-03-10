@@ -122,6 +122,7 @@ Pairing was the highlight of Module 1. I worked with [Jared Roth](https://github
  * [Black Thursday DTR](https://github.com/notmarkmiranda/black_thursday/blob/master/dtr.markdown)
  *  [Hyde Sample Pull Request](https://github.com/JaredRoth/hyde/pull/20)
  * [Black Thursday Sample Pull Request](https://github.com/notmarkmiranda/black_thursday/pull/19)
+ * [Black Thursday Retro](https://gist.github.com/jeneve/1907409e3c24483591a1)
 
 ## Feedback
 
