@@ -6,9 +6,42 @@
 
 My goal for the third module was to take my Ruby/Rails knowledge to a professional level and become comfortable working with APIs and JavaScript. I also wanted to schedule more pairing sessions with other students & alumni in an effort to help accelerate my learning curve.
 
-To be honest I had a lot of apprehension coming back. I was one of the few left from when I started way back in 1505 and I was leaving behind a job offer back home. But I've never failed so completely at something until I met module 1 at Turing and my time off helped me realize I had a deep need to do whatever it takes to graduate from this program or I'd never be satisfied. During round 3 with module 3 I've finally seen a crazy amount of growth in my ability to solve real business needs with code. It's encouraging. Looking at my recent feedback from those I worked with several modules ago vs the feedback I have received from folks in this module I can't help but laugh and I see growth in areas where it was so desperately needed. As Travis stated I used to struggle with getting frustrated and giving up too easily when I got stumped. In an effort to correct this is seems the pendulum has swung too far in the other direction because now people like Adam and Brant are commenting on my tendency to never give up let alone move on until I understand every last detail of what a feature is doing. There's a healthier and more productive balance to be found but in the meantime I'm content giving Turing everything I've got and relieved I'm seeing returns.
+To be honest I wasn't sure if I'd come back. I was ashamed to be one of the few left from when I started way back in 1505, I was leaving behind a job offer back home, and mounting debt made me hesitate. But I've never failed so completely at something until I met module 1 at Turing and my time off helped me realize I had a deep need to do whatever it takes to graduate from this program or I'd never be satisfied. During round 3 with module 3 I've finally seen a considerable amount of growth in my ability to solve real business needs with code. To say the least, it's encouraging. Looking at my recent feedback from those I worked with several modules ago vs the feedback I have received from folks in this module I can't help but smile as I see personal growth in areas where it was so desperately needed. As Travis stated below I used to struggle with becoming frustrated and giving up too easily when I got stumped. In an effort to correct this is seems the pendulum has swung too far in the other direction because now people like Adam and Brant are commenting on my tendency to never give up let alone move on until I understand every last detail of what a feature is doing. There's a healthier and more productive balance to be found but in the meantime I'm content giving Turing everything I've got and relieved I'm seeing returns.
 
 I've got a long way to go...but this has been the most encouraging and confidence building module to date.
+
+### End of Module Assessment
+
+Assessor: Josh Mejia/Lovisa
+
+Notes:
+
+* API: Index/Show returns fine, but we shouldn't have to append `.json` on the query
+* API: Destroy does not work
+* Destroy is tested, but the feature is broken, so it's giving a false positive
+* In the application controller, we need to change `protect_from_forgery` from `with_exception` to `null_session`. This is probably why the Delete doesn't work
+* In `search_broad` in the BestBuyService, we are missing the `search_term` local variable that is used in the query
+* Good use of serializers
+
+#### 1. Ruby Style and Syntax
+
+* **3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components**
+
+#### 2. Rails Syntax & API
+
+* **3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+#### 3. Testing
+
+* **3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.**
+
+#### 4. Progression/Completion
+
+* **2: Developer is able to implement solutions at the speed of an apprentice.**
+
+#### 5. Workflow
+
+* **4: Developer commits every 15 minutes and has at least 12 commits on the project**
 
 ### Attendance
 
@@ -121,7 +154,6 @@ Feedback from group members:
 * I delivered feedback to all other students who requested it.
 * to Jamie Crockett: Jamie is one of the first people in 1510 I got to know well while we worked together on the pivot. I remember trying to be careful and uncharacteristically reserved that first week as I got to know everyone and handle the demands of the project. I quickly realized how lucky I was to work with Jamie - not only because of his technical ability that noticeably exceeds the average module 3 student I’ve worked with (and I’ve worked with a lot) but also his fun and easy going nature. It was a pleasure working with Jamie and I’m proud of the pivot our group created. Fast forward a month and my respect for him has grown even more. He’s a hard worker, has helped me countless times work through problems with my code that would have taken me far longer on my own, and he has become a voice of reason and positivity within our module. Turing is an extremely stressful environment and has a tendency to make even the strongest person complain on occasion - not Jamie. I can think of several times when our Friday group retro had taken a turn for the negative and Jamie voiced an unpopular opinion encouraging the rest of us to see things from a different perspective. I really admire that and I’m sure others have noticed that too.
 * to Brant Wellman: Brant was the first to welcome me into 1510 and I’ve really enjoyed working with him these past six weeks. I’m fairly certain everyone can say the same - I see more people asking guidance from and working with Brant than any other student in this module. He always seems to project calmness and a subtle confidence especially when the rest of us are stressing out. While I haven’t worked with Brant on a group project I have paired with him on several occasions during APIcurious and RailsEngine and I’ve always come away from those sessions learning something new. Simply stated, he’s one of the cornerstones of this module.
-* to Beth Sebian: 
 * to Steve Olson: Steve is one of the first people in 1510 I got to know well while we worked together on the pivot. I quickly realized how lucky I was to work with Steve - his curiosity for solving unclear problems, his calm and steady demeanor, and his strong work ethic make him the ideal group member. In the weeks since that project it has been cool to see Steve really take off with these personal projects. His technical skills and positive mindset have earned him respect from his fellow students.
 
 ### Being a Community Member
@@ -129,7 +161,6 @@ Feedback from group members:
 Additional feedback for me:
 
 * from Brant Wellman: David has been an important addition to the 1510 Cohort. It is not easy jumping into a tight group of individuals that are used working together, however I feel that Dave has done that seamlessly. He clearly contributed to his group during the Pivot and contributes as an individual to the group as well. He is not afraid to ask questions of others and he doesn't do so needlessly. In fact, I would encourage Dave to ask questions sooner rather than struggle with an issue as long as I have seen him struggle. Even just rubber-duckying the problem to someone else will add value.
-* from Beth Sebian:
 * from Adam Jensen: GOOD: At this moment, I met David exactly 8 months and 3 days ago. I started Turing on July 6. David has always been a cultural leader in just about every group I've seen him enter. David has also been VERY rational and VERY Logical, which can be a breath of fresh air. I've been impressed with David in the last 6 weeks. During the most recent module, David appears to be crushing it. I occasionally catch up with him and he ALWAYS seems calm. I've seen David put in really hard weeks and be back for more. I would fully endorse David for both his tech and soft skills without hesitation. Any company will be lucky to have him on board.
 BAD: Pairing with David is good. I would offer the following though… At times I felt like David would try and understand every bit and piece of code. Funny thing is, I like that attribute. But I felt like David can sometimes get caught up on small things, which halts/slows the building process. I don't ever want David to stop being curious as I see it as a HUGELY advantageous quality. But I wish David would know that he is a good programmer and that sometimes it pays to spike code..spike more code… then deep dive and gain understanding.
 * from Torie Joy-Warren: David is a rare mix of assertive and conscientious. Working with him on the pivot, he did a great job taking the lead and getting the project rolling without steam-rolling through any decisions. He actively sought out everyone’s opinions and was great at reconciling any differences. I admire his calm demeanour and his respect for his classmates. If you work at all with David, he will earn your respect and it will be much deserved.
@@ -140,7 +171,7 @@ BAD: Pairing with David is good. I would offer the following though… At times 
 
 I attended Protocol weekly and enjoyed helping lead a group during Beth Sebian's gear up on being better allies. Additionally I paired with several 1602 students on ruby exercisms and Black Thursday projects and 1511 students on Little Shop, probably my favorite Turing project thus far. Finally, I gave a lightning talk on how to network more confidently and effectively at meetups.
 
-To be honest I feel I benefitted from the Turing Community more than it benefitted from me this module. I took full advantage of pairing with many talented mentors and those sessions really helped me keep my head above water during this demanding module. I'd really like to make time to give back to other students during module 4.
+To be honest I feel I benefitted from the Turing Community more than it benefitted from me this module. I took full advantage of pairing with many talented mentors and those sessions really helped me keep my head above water during this demanding module. I was extremely busy, but that will always be the case here. I'd really like to make time to give back to other students during module 4.
 
 ## Posse Challenges
 
