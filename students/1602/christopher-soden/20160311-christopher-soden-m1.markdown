@@ -238,7 +238,7 @@ Not at this time.
 
 "The code is working. It's a silly way to do an 'any?'; I think they want us to get experience rather than actually do something so clunky for real.
 
-The trick is, once you create a proc, the code you've created is fixed. The only way to do something different is to create a different proc. So the 'p_any?' method takes the value you want to search for and returns a canned procedure that only searches for that value. Then you call that procedure and pass it the array you want to check. You lose the flexibility of being able to change the search value on the fly.
+The trick is, once you create a proc, the code you've created is fixed. The only way to do something different is to create a different proc. So the `p_any?` method takes the value you want to search for and returns a canned procedure that only searches for that value. Then you call that procedure and pass it the array you want to check. You lose the flexibility of being able to change the search value on the fly.
 
 It probably is possible to pass a block to a proc creator, basically giving you a block inside a block. That would recover some of the flexibility, but the current setup is consistent with the example code they gave us."
 
