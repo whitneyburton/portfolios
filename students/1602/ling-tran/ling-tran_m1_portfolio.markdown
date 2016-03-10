@@ -204,15 +204,19 @@ Notes:
 > Ling is a super smart girl and a real straight shooter. She reached out to me before school started to see if she could get any tips on how to be successful in mod 1. The main thing I noticed about her right away is her attention to detail - she took meticulous notes on everything I said. I have since paired with her a few times and I’m blown away at how fast she picks up on stuff. From looking at her code, I would say she’s a better coder than I was at that time. If I were to have one critique about Ling, it’s that she didn’t have a profile pic for Slack until last week (I basically badgered her until she made one). It may not seem like a big deal but when you interact with people on Slack it’s helpful to have a face to go along with the name. That way people can recognize you in real life. She gets it now, and will have a lustrous Slack future now. I look forward to pairing with Ling in the future because she has a different way of looking at things than me. For that reason I believe pairing with her can be beneficial for both parties. Ling will have great success with this program. - Nicholas
 
 **Feedback from mentor**
+
 * Sally MacNicholas | Turing alum, 1503:
 > It has been great to see Ling’s progress over the course of the module as her mentor. Ling is always open to feedback from our mentoring sessions, and always requests that I give her constructive criticism. Time and time again she would take feedback, and would consistently work on things and get better by our next session. I can’t imagine there being a more curious, dedicated, hard-working student than Ling. And to top it all off, she always has a great attitude about everything!
+
 ---
+
 ## __Black Thursday Project Pull Requests (4x)__
+
 ---
 * [Create merchant class #11](https://github.com/drew-t/black_thursday/pull/11)
 * [added tests and methods in SalesAnalyst for avg. item/merchant & std_dev #18](https://github.com/drew-t/black_thursday/pull/18)
 * [Invoice repo test #23](https://github.com/drew-t/black_thursday/pull/23)
-* [refined formatting of files #62](https://github.com/drew-t/black_thursday/pull/62)
+
 ---
 ## __Community__
 ---
