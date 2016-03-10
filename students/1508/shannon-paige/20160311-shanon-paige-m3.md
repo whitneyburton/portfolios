@@ -3,7 +3,12 @@
 ## Individual
 
 ### Your Mission
-After finishing module 1 on such a high point, I made it my priority in module 2 to continue doing well, but finding a work/life balance which I was desperately missing during the first six weeks.
+Although I passed mod 3 the first time, I decided to repeat so that I could
+strengthen my skills, while having time to explore other areas of development.
+My goal for this module is to better understand the ambiguity of API consumption,
+and to learn better testing techniques (specifically VCR, Cucumber and rspec).
+I'm not sure exactly what areas I'm interested in investigating...yet (I hope to have time to find out), but some of the ones I'm considering are Python, AngularJS, GO, Clojure,
+Linux, VIM and Arduinos.
 ​
 
 ### Attendance
