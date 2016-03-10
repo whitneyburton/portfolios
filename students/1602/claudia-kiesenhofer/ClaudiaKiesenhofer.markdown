@@ -74,7 +74,7 @@ I participated in the following 2 team projects:
 
 #### Hyde
 
-* [GitHub URL](https://github.com/claudia108/hyde)
+* [GitHub URL](hhttps://github.com/notmarkmiranda/hyde)
 * [Original Assignment](https://github.com/turingschool/curriculum/source/projects/hyde/index.markdown)
 
 In this four-day project I worked with Mark Miranda. It was
