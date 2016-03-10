@@ -2,7 +2,7 @@ Ling Tran - M1 Portfolio
 ======
 ___
 
-* Remaining to do: Update with Final Project evaluation 
+* Remaining to do: Update with Final Project evaluation
 
 ## __Individual__
 ---
@@ -149,6 +149,8 @@ Notes:
 This project challenge is a culmination of all the core concepts and skills I developed throughout the module. It presented issues that pushed my understanding of the Ruby object model, how data structures can be manipulated, variable scope, and got me walking down memory lane to Statistics class as an undergraduate. Thank goodness we have computers to calculate standard deviations! Also, I was not too comfortable or familiar with working with hashes. Through this project, I am happy to report that they do not feel as foreign compared to just two weeks ago. I made a conscious effort in refactoring and break methods into smaller pieces. Drew was a strong partner and I learned more about file I/O and traversing objects through him. The behemoth beast that is Black Thursday has given me an opportunity to apply everything learned in just a number of weeks.
 
 Project Partner: Drew
+
+[Project Debrief](https://github.com/lingtran/black_thursday/blob/master/project_debrief.md)
 
 Assessed by: TBD
 
