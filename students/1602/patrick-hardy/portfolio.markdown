@@ -21,7 +21,9 @@ shortcuts, and continued do focused exercises on enumerables and building simple
 
 ### End of Module Assessment
 
-* Collaboration: 3
+Eval: https://turingschool.slack.com/archives/D0LS3J7J8/p1457634709000004
+
+* Collaboration: 4
 * Ruby Syntax: 3
 * Ruby Style: 3
 * Blocks and Enumerations: 3
@@ -85,7 +87,7 @@ syntax best-practices.
 
 ## Black Thursday
 
-eval:
+* eval: https://github.com/turingschool/ruby-submissions/blob/master/1602/black_thursday/kiesenhofer_hardy.markdown
 * assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
 * git_repository: https://github.com/Claudia108/black_thursday.git
 
@@ -147,6 +149,7 @@ https://turingschool.slack.com/archives/D0NJ2MLPM/p1456775413000002
 ### Protocol
 
 * DTR https://turingschool.slack.com/files/claudia/F0RNVGKRS/-.txt
+* Project Debrief: https://gist.github.com/Claudia108/d27f2bb041a42cbf6ba1
 
 * Pull Request 1:https://github.com/Claudia108/black_thursday/pull/36
 * Pull Request 2:https://github.com/Claudia108/black_thursday/pull/37
