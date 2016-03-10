@@ -199,6 +199,16 @@ Erinna has been a great fixture in my posse.  She is here every day without exce
 Occasionally you (like anyone else) can come across as brusque, this - combined with the fact that you're incredibly knowledgeable - can be misinterpreted as arrogance. I know that you have nothing but the best of intentions, and I find pairing with you to be very rewarding - but someone who is more self-conscious or more sensitive may misinterpret you and come out bruised. I think your laughter is most-often misinterpreted, you're just laughing at the situation (or just in general) and people may think you're laughing at them / their lack of knowledge. Don't stop laughing! But maybe resist the urge when talking to people about skill?
 You're undeniably a strong programmer - resist the urge to compete / prove your skill - you're already crushing it.
 
+* __Horace Williams:__ (Instructor)
+Did I ever make you feel... Intimidated, Unheard
+You sometimes make dismissive acknowledgements ("Yeah...") when someone is explaining or talking about something.
+
+Hard to say if I have just gotten more comfortable working with you or if you have gotten more relaxed, but I feel less tense working with you now than when you first came to Turing. Keep up the intense intellect, but don't be afraid to soften it with some humor.
+
+Keep bringing out the sense of humor. Try to be patient and hear people out even if you know what they are going to say or they are wrong.
+
+I may have been an erinna skeptic at first but with more time I have really appreciated getting to know you. I think you have a really positive influence on the students (and staff) around you, even if they don't want to admit it.
+
 ### Giving Feedback
 * __Sekhar Paladugu(1508):__ (Posse-mate)
 
@@ -225,13 +235,15 @@ I would say that we would still need to work on focusing our work efforts, the p
 
 Overall, I thought we had a good project. I felt that I could honestly express my opinions throughout the project, and I learned a lot.
 
+* __Allan Blair (1511):__ (Rails Mini Project Partner)
+
+Allan is clearly a driven person and learns quickly. He has very strong opinions and I respect that aspect of him. His assertiveness was a bit off-putting to me when working on the mini-project. I understood that his priorities lie with other projects, and that he wanted to set a boundary in order to work on those things. I just didn't feel like there was any room for negotiation and that may have come from my own desire to be accommodating. With that said, he is a solid-programmer and is a partner that you can count on to build a good-quality product.
+
 * __Brennan Holtzclaw (1511):__ (Little Shop Partner)
+
 I haven't really gotten a chance to work with you before this. I think you are a far more solid programmer than you give yourself credit for.
 I would recommend conveying more confidence in your the things that you know (eg. navigation in Rails, predicting how things are connected) and continuing to pause and ask questions when you don't have a good feeling of what is happening.
 I am pretty psyched at how our project is going to turn out. Everything so far has gotten done (knock on wood), and I am confident in your ability to power through the challenges that we’ll face in the second half of this project.
-
-* __Allan Blair (1511):__ (Rails Mini Project Partner)
-Allan is clearly a driven person and learns quickly. He has very strong opinions and I respect that aspect of him. His assertiveness was a bit off-putting to me when working on the mini-project. I understood that his priorities lie with other projects, and that he wanted to set a boundary in order to work on those things. I just didn't feel like there was any room for negotiation and that may have come from my own desire to be accommodating. With that said, he is a solid-programmer and is a partner that you can count on to build a good-quality product.
 
 ### Playing a Part
 * Ran a student-led workshop on the very basics of machine learning
@@ -250,7 +262,7 @@ I would say that this was definitely a difficult module for me. I thought I woul
 This was definitely a hard module in that we spent a significant time in groups. I'm not naturally the most effective communicator. I really struggled with allowing my partners to figure out things themselves, while also trying to push the project forward.
 
 __Three beginning of module goals:__
-1. Write one technical blog post weekly (6 total). I only wrote one. I struggle with writing and it took my way longer than I thought it would to write a good blog post.
+1. Write one technical blog post weekly (6 total). I only wrote one. I struggle with writing and it took me way longer than I thought it would to write a good blog post.
 
 2. Create an e-commerce website in Rails. I thought Lucky Shop was pretty successful.
 
