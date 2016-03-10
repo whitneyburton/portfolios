@@ -189,7 +189,8 @@ showed other classmates some shortcuts for programming and debugging with Ruby.
 I went to the LGBT dinner and worked to make connections with people.
 
 
-## DTR Conversation
+## DTR Conversation  
+* [GitHub URL](https://github.com/seeker105/headcount/blob/master/headcount_dtr_memo.md)
 **Project:** Headcount
 
 **Group Member Names:** Matt Pindell, Christopher Soden
