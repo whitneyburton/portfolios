@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-Coming into module 4, I wanted to learn enough Javascript to graduate feeling confident in my ability to work on production Rails/Node apps. The first couple of weeks were tough, but from then out out things really stated to click and now I can say with confidence that I feel more than prepared to go out into the world and start writing code professionally.  
+Coming into module 4, I wanted to learn enough Javascript to graduate with the confidence to work on professional, production Rails/Node apps and I wanted to become comfortable with learning new programming languages. I feel fortunate for learning my second programming language while still at Turing.  From here on out, learning a third or fourth language seems less duanting and I look forward to picking up another.  In total, I've gotten more out of each of my four Modules at Turing than I had ever hoped for, and I feel beyond prepared to enter the workforce as a professional developer.
 
 ### End of Module Assessment
 
