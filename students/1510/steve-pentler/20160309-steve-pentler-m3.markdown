@@ -158,14 +158,20 @@ ___
 
 * "Steve is so easy-going and fun to work with. He is extremely good at front-end design and displaying content in an organized and aesthetic way. He always recognizes whenever I can't reach something in the kitchen and gets it for me without asking, he is an awesome member of the Turing community. - Beth"
 
-* “I am honored to share a namespace with Steve.” - Steve 
+* "Steve. Dad. Steve. Whatever you choose to call him, this man of integrity and hard work, he brings a good vibe to the room. And a mullet. A MULLET.  which he wears it handsomely.  He is also forgiving. Why, only last week I didn’t believe his website was his. I thought he had pulled up a professional website and was pulling my leg. In reality, it was a professional website. His professional website.  I’m always impressed by his design work, both on the computer and in his hairstyle. Beyond that, he’s a well-rounded developer and, but brings no ego and is always a pleasure to be around. I’m a bit disappointed we’ve never been assigned to work on a project together.  But also I understand - a Steve sandwich just isn’t fair." - Steve O
+
 ___
 
 ### Giving Feedback
 
-* "Constructive Feedback for Hector: I love your enthusiasm for the project, however when it comes to voicing opinions, I think you could work on communicating it an a less enthusiastic way. You’ve proven that your opinions are generally correct, but voicing them in a low, calculated voice is much more effective and you’re less likely to be challenged."
+* "Constructive Feedback for Hector during LittleShop: I love your enthusiasm for the project, however when it comes to voicing opinions, I think you could work on communicating it an a less enthusiastic way. You’ve proven that your opinions are generally correct, but voicing them in a low, calculated voice is much more effective and you’re less likely to be challenged."
 
-* “I am honored to share a namespace with Steve.” - Steve 
+* "Constructive Feedback for Hector during the Pivot: I’ve spent a month of my life with Hector Huertas, and I still love the guy! We transitioned from a LittleShop team straight into a Pivot team. He was impressively receptive to the feedback I gave him following Little Shop: to communicate his preferences in a less challenging way. Over the course of the Pivot, he communicated very effectively, and I grew to love his catch-phrase “That’s Em-paw-saw-ble.” He is remarkable foresighted  when designing the back end for projects, and his upfront thinking saves a ton of time. Finally, he doesn’t practice his catch-phrase. If you tell him something is impossible, he’ll go out and do it. I have an immense respect for his capabilities, and he was fantastic to work with.
+
+* "Constructive Feedback for Slota: Your experience during the pivot helped us avoid a lot of rabbit holes along the way. You lead the charge on the back end and brought a lot of enthusiasm, too. You definitely made me feel good about my front end skills, and you had an appropriate work/life  balance when your favorite team, ever, won Super Bowl 50.
+In terms of constructive feedback, I’d say you got a little carried away with simplecov. During the push to get to 100% test coverage, the tests started lacking in effectiveness. It might be a good idea to delay installing simplecov on future products so the emphasis is on quality over quantity.
+
+* "Constructive Feedback for Steve-O: Steve-O, the king of laid-backness, also happens to be the innovator of 1510. If you watch the group, you’ll notice that he’s generally the one to pioneer a new skill. More importantly, he is overly-generous with his time and is one of the most approachable characters in 1510. I have an immense appreciation for the time he took to patiently help me install VCR for OmniAuth during APIcurious, His Google skills will serve him well in the future, and I mean that seriously. Finally, have you noticed his style? One particular day he wore boots, short denim? shorts, and a cut neck hoodie. The future is Steve, and I am honored to share a namespace with this fine gentleman.
 
 ### Review
 
