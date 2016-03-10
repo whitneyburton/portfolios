@@ -41,7 +41,7 @@ I completed the following individual work this module:
 
 #### Junglebeats Linked List
 
-* [GitHub URL](git@github.com:Claudia108/jungle-beats.git)
+* [GitHub URL](https://github.com/Claudia108/jungle-beats)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
 In this three-day project I implemented a linked list with recursion. It was
@@ -96,7 +96,7 @@ Notes from Mike:
 
 #### Black Thursday
 
-* [GitHub URL](git@github.com:Claudia108/black_thursday.git)
+* [GitHub URL](https://github.com/Claudia108/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 In this two week project I worked with Patrick Hardy. It was
@@ -208,7 +208,6 @@ https://github.com/notmarkmiranda/hyde/pull/17
 ##### Overview
 
 This project implements systems for generating Braille-like text from normal characters and the reverse.
-
 Braille uses a two-by-three grid of dots to represent characters. Night Writer simulates that concept by using three lines of symbols:
 
 0.0.0.0.0....00.0.0.00
@@ -218,6 +217,7 @@ Braille uses a two-by-three grid of dots to represent characters. Night Writer s
 The 0 represents a raised dot. The period is an unraised space. The above code reads "hello world" in normal text.
 The application uses the lowercase letters a-z from the American Foundation for the Blind.
 It also supports capitalization. In Braille, capitalization comes from a shift character. You'll find that character at the end of the fourth row of the previous graphic. When that character appears, the next character (and only the next character) is a capital. So e comes out as one 2x3 set of Braille points, but E is 4x3: the shift character followed by the normal e. This affected the line width restrictions of 80 characters.
+
 
 ##### The tool is used from the command line like so:
 
@@ -272,6 +272,7 @@ About this point, you should try Braille-ifying a message. Then it's time to div
 ###### Extension Supporting Numbers
 
 Return to the graphic referenced above and you'll find a the  in the bottom left corner. The representations for 1-9 are actually the same as a-i. This number sign # is a "switch" which means that all of the following "letters", up to the next space, are actually numbers. After the space it's assumed that we're back to words/letters unless we see another number switch.
+
 
 ##### Project process
 
