@@ -73,7 +73,7 @@ In this one week project, I built a REPL interface that allowed a user to play t
 * Breaking Logic Into Components: 2
 
 
-####Binary Search Tree
+#### Binary Search Tree
 
 * [GitHub URL](https://github.com/s-espinosa/binary_search_trees)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
@@ -92,7 +92,7 @@ Over the course of 3 days, I created a binary search tree class that had the abi
 * Looping or Recursion: 3
 
 
-####Sorting Suite
+#### Sorting Suite
 
 * [GitHub URL](https://github.com/s-espinosa/sorting_suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
@@ -110,7 +110,7 @@ Using Test Driven Development, I created classes for four separate sorting algor
 * Organization: 4
 
 
-####Complete Me
+#### Complete Me
 
 * [GitHub URL](https://github.com/s-espinosa/complete_me)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
@@ -163,7 +163,7 @@ Matt and I worked together to develop Hyde, a static page generating engine that
 * I actually became paranoid towards the end because we hadn’t hit any explosive plot twists in the code, it was almost TOO straightforward.
 * The only possible adjustment that I can see would be for Sal to become a dash more assertive on topics he has previous experience in. He was much more knowledgeable in terms of HTML/CSS/SASS but seemed to downplay that aspect when we hit those portions of the project.
 
-####Black Thursday
+#### Black Thursday
 
 * [Github URL](https://github.com/kristindiannefoss/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
@@ -171,9 +171,20 @@ Matt and I worked together to develop Hyde, a static page generating engine that
 Over the course of a week and a half we were asked to assemble a relational database from CSV files that were provided to us. Each file represented a table, and we created objects to hold the row-by-row information included in the tables, as well as repository objects to hold the collections, a Sales Engine to hold the repositories, and a Sales Analyst to analyze the data held by the Sales Engine.
 
 *Evaluation Comments*
+* Spec harness passes, in 1 minute, 18 seconds.
+* Only Iteration 4.
+* 137 examples finished in 1 minute and 39.3 seconds.
+* There are opportunities to refactor out unnecessary variable assignment with new methods.
+* Very interesting approach to repo and item creation, really like how thats broken out.
+* Some math stuff would like to have seen in its own object, be it a class or a module or something.
 
 *Evaluation Scores*
-
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 4
+* Enumerable & Collections: 3
+* Code Sanitation: 4
 
 ## Community
 
@@ -217,6 +228,10 @@ I worked with Jeff early on to check in on one of our projects, and then later b
 *Feedback from Thom and Chris*
 * Sal is great at contributing his ideas without overriding the collaborative process. If we teamed up again, we could take turns on who's driving to shake up the dynamics of the group.
 * Sal did an excellent job communicating with the team and sharing ideas. Something the team could do better next time, we should have run the unit tests first to establish a solid baseline.
+
+*Feedback from Kami*
+I asked Kami for more general feedback, not related to any specific project.
+* Sal is quickly becoming one of the best people that I know. His poise and his kindness to other people are something that we can all aspire to. I see him as one of those people that plugs away with quiet brilliance, always willing to help others, whether by answering questions or supporting them through their day. I think that Sal can bring a lot to Turing, and I look forward to seeing him step up as a leader over the coming months.
 
 
 ### DTR Memo
