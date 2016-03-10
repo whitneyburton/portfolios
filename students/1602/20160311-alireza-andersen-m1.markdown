@@ -222,3 +222,49 @@ I cant say enough good things about Deborah to explain how valuable she is to Tu
 Christine,
 
 I had the opportunity to pair with Christine for http-yeah-you-know-me. As this being my third pair project, I wasn’t as nervous as I was the last time around. Christine took all the nervousness that I had a way. She is extremely passionate about learning code and it shows with her logic solving. She understands that programming does not have a specific one way of doing things. This was super valuable during our pairing project and allowed us to approach problems in different ways. I know she will end up being a great programmer and I look forward to her success!
+
+
+## A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+
+* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 4: Student helps others to be their best selves while using peer feedback
+to shape their own character and behavior.
+
+OUTCOME: PROMOTED
