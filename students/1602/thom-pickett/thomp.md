@@ -158,6 +158,8 @@ I missed two days this module
     The project will be assessed with the following rubric:
 
 #### Scores
+
+>
 ###### Overall Functionality
 3: Application implements iterations 0 4
 ###### Fundamental Ruby & Style
@@ -187,6 +189,7 @@ with specs ask for different things than the spec harness checks for.
 
 #### Scores
 
+>
 ###### Functional Expectations
 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 ###### Test-Driven Development
