@@ -266,28 +266,29 @@ Not at this time.
 * [GitHub URL](https://github.com/cheljoh/enums_challenge/pull/1)  
 * [Original Assignment](https://gist.github.com/applegrain/744468d56507d000e9d4)
 
-"The code is working. It's a silly way to do an `any?`. I think they want us to get experience rather than actually do something so clunky for real.
+The code is working. It's a silly way to do an `any?`. I think they want us to get experience rather than actually do something so clunky for real.
 
 The trick is, once you create a proc, the code you've created is fixed. The only way to do something different is to create a different proc. So the `p_any?` method takes the value you want to search for and returns a canned procedure that only searches for that value. Then you call that procedure and pass it the array you want to check. You lose the flexibility of being able to change the search value on the fly.
 
-It probably is possible to pass a block to a proc creator, basically giving you a block inside a block. That would recover some of the flexibility, but the current setup is consistent with the example code they gave us."
+It probably is possible to pass a block to a proc creator, basically giving you a block inside a block. That would recover some of the flexibility, but the current setup is consistent with the example code they gave us.
 
 #### Headcount branch into Master
 * [GitHub URL](https://github.com/seeker105/headcount/pull/5)  
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-"The purpose of this branch is to begin work on iteration 3. It creates 2 custom error classes to meet the reqs of the problem. 
+The purpose of this branch is to begin work on iteration 3. It creates 2 custom error classes to meet the reqs of the problem.
+
 It adds support for additional data files: 3rd and 8th grade data and proficiencies in Math, Reading and Writing. `StatewideTest` class and `StatewideTestRepository` have been created. Testers for these specific classes have been created, and method tests have been added to other testers to check the expanded functionality of other classes.
 
 Currently (almost) passes the iteration 3 spec harness. One of the test calls in the iteration 3 harness is calling a method not included in the problem until iteration 5. Until we get to iteration 5 the program will not pass the number 3 spec harness.
 
-The program completes the iteration 3 requirements. It needs partner review and approval, then it will be ready to integrate into master."
+The program completes the iteration 3 requirements. It needs partner review and approval, then it will be ready to integrate into master.
 
 
 * [GitHub URL](https://github.com/seeker105/headcount/pull/6)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)  
 
-"Created a `format_fixnum` method in the `CleanData` module to format integer strings read in from data files. Converts string to fixnum and returns "N/A" if the value is 0 or empty. Created `EconomicProfile` and `EconomicProfileRepository` classes. Created methods: `median_household_income_in_year`, `median_household_income_average`,  `children_in_poverty_in_year`, `free_or_reduced_price_lunch_percentage_in_year`,  `free_or_reduced_price_lunch_number_in_year`, and `title_i_in_year`. Also broke out some of the logic for these methods into helper methods."
+Created a `format_fixnum` method in the `CleanData` module to format integer strings read in from data files. Converts string to fixnum and returns "N/A" if the value is 0 or empty. Created `EconomicProfile` and `EconomicProfileRepository` classes. Created methods: `median_household_income_in_year`, `median_household_income_average`,  `children_in_poverty_in_year`, `free_or_reduced_price_lunch_percentage_in_year`,  `free_or_reduced_price_lunch_number_in_year`, and `title_i_in_year`. Also broke out some of the logic for these methods into helper methods.
 
 
 ## Blog Post  
