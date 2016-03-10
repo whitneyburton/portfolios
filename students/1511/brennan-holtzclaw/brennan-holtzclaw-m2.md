@@ -17,14 +17,14 @@ In Module 2 I want to focus on some of the front-end options to make sure that I
 
 ## Blog Post
 
-http://brennanholtzclaw.github.io/2016/02/16/from-sinatra-to-rails.html
-
-Also, my preferred platform for disseminating information:
 https://soundcloud.com/user-760220162
+
+An actual blog post is below - but it's not as good as the podcast.
+http://brennanholtzclaw.github.io/2016/02/16/from-sinatra-to-rails.html
 
 ## Mentor Sessions
 
-I met with my mentor, Travis Yoder, for at least an hour 4 of the six weeks. One week was cancelled due to illness, and one due to technical difficulties.
+I meet with my mentor, Travis Yoder, for 60 to 90 minutes everyweek. One week this module was cancelled due to illness, and one due to technical difficulties.
 
 
 ## Posse Challenges
@@ -71,6 +71,32 @@ Excercise: Top Attempt scores
 * remember to drop down to model level!
 
 * able to use save_and_open_page to debug
+
+# Final Project
+
+## Final Project Assessment
+
+#### Notes
+
+Assessed by: Rachel
+
+Excercise: Lucky Charms (Little Shop)
+
+#### Scores
+
+***Feature Completeness:*** **4** - All features are correctly implemented along with two extensions
+
+***Views:*** **4** - Views show logical refactoring into layout(s), partials and helpers, with no logic present
+
+***Controllers:*** **3.5** - Models show an effort to push logic down the stack, but need more internal refactoring (description for 3)
+
+***Models:*** **3.5** - Developer is able to utilize Rails methods and structures, but needs some direct guidance
+
+***Testing:*** **3.5** - Project has a running test suite that tests and multiple levels but fails to cover some features (description for 3)
+
+***Usability:*** **3** -  Project is highly usable, but needs more polish before it'd be customer-ready
+
+***Workflow:*** **4** - Excellent use of branches, pull requests, and a project management tool.
 
 
 
@@ -220,12 +246,21 @@ Kimi K. "Kimi is a great partner, and made a great, though possibly unwilling, p
 
 Brian R. "I hadn't worked with, or really talked to, Brian before this project. Now that I have, I'm sad it took so long. Brian did a great job of keeping us on track, stopping rabbit holes when we got a little lost, and staying positive, even when we were incredibly stuck. I think Brian would really gain from being more confident. He does a good job at tracing errors and correcting bugs, but lack of confidence sometimes means he doesn't write the code to get there in the first place. Getting more code on the screen and running tests more often would probably speed up his process, and be a big help to those around him. I would be glad to work with Brian on another project. I might even be able to do a single pull-up by then."
 
+Erinna C. "When it comes to showing me what’s going on, I think you’ve done the best job of helping me through it and asking questions rather than just taking over and doing it all.
+There are still times when we disagree on a choice, and it seems a little bit like my side of things doesn’t carry much weight. I think if we did a better job of explaining our stances, and the pros/cons of each, we could come to a better understanding with each other.
+With the most hectic few days of the module still to go, I’m excited to get this project wrapped up together. I think we’re going to have great fun when we get into the more creative parts that are coming up.
+Let’s not wait another 2 modules to pair again!"
+
 ### Getting feedback
 Below is feedback I've gotten from my fellow students:
 
 "I worked with Brennan on the week-long Rush Hour project. Unfortunately, Brennan was very sick for the first few days of the project, but he still made an effort to come to class to work with us (once he confirmed that he was not contagious, which was appreciated). Brennan is skilled at communicating and talking through problems and he's always very calm, which is great for someone like me who can tend to get a bit stressed when I'm not understanding things right away. He also tried to get us to take more breaks from the code, which I also tend to have a hard time with. Overall, no complaints other than wishing he hadn't been so sick early on!" - Kimi K.
 
 “Brennan was a pleasure to work with throughout the project. It should be noted that in the course of a week Brennan dealt with a crippling flu and broken phone without complaining at all. He showed up and did his part. His demeanor when exploring solutions was always open and encouraging which made for a solid team dynamic. I noticed there were a few times that Brennan had ideas brewing that we didn’t explore. I would recommend him being a more assertive in expressing his ideas, even if he isn’t completely clear on if they will work. Brennan’s ruby style was excellent and I’m sure it will carry over into Rails and beyond." - Brian R.
+
+"I haven't really gotten a chance to work with you before this. I think you are a far more solid programmer than you give yourself credit for.
+I would recommend conveying more confidence in your the things that you know (eg. navigation in Rails, predicting how things are connected) and continuing to pause and ask questions when you don't have a good feeling of what is happening.
+I am pretty psyched at how our project is going to turn out. Everything so far has gotten done (knock on wood), and I am confident in your ability to power through the challenges that we’ll face in the second half of this project." - Erinna C.
 
 
 ### Being a community member
@@ -237,4 +272,6 @@ I was appointed as the Posse anchor this module. I tried to make sure everyone w
 
 I took part in most of the weekly improv classes.
 
-## Review
+## Portfolio Review
+
+(Hopefully that's what we're doing right now)
