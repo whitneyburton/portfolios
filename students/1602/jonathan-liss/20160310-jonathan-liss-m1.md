@@ -201,7 +201,7 @@ From Drew Thompson:
  * We were able to work together well during the project and our skills complimented each others.  It we worked together again I would want to make sure that we did a better job of keeping up with testing.  Jonathan can often come with an idea very quickly and wants to rush to implement it without explaining the thought process.  Overall he was very good to work with and I was happy with the outcomes.
 
 
- From Matt DesMarteau:
+From Matt DesMarteau:
 
 * I definitely felt lucky to be paired with Jonathan Liss the few times we had group exercises in class,  and I really enjoyed working with him most morning on challenges in our posse group.  Jon has a knack for thinking outside the box and is creative and observant while solving problems.  I could tell from working with him that he loves solving difficult problems.  I liked working with Jon in class during the refactoring exercise because of his abilities to rethink and rehash code to make it more functional.  Aside from his strong technical skills and problem solving abilities, he brings a very personable demeanor to any group and stays open minded to others opinions or work styles.  This makes for a great team when pair programming.  I’m more than confident Jonathan would make a great programmer to work with and enjoy watching his programming addiction grow.  I know he would welcome the challenge to stretch himself even further by getting involved in programming projects or meetups outside of Turing were his abilities might grow even stronger.  Hope we get some tough projects to collaborate on in the future.
 
@@ -221,9 +221,9 @@ From Drew Thompson:
  Jon offered his support right away in the beginning of the module. Because of his former experience with coding he was able to help me understanding Ruby concepts and syntax. He repeatedly took the time to  listen to my questions and walk me through the process of understanding. When I felt very much overwhelmed by the complete novelty of thinking processes his moral support made it easier for me to trust that it is possible to grasp the concepts of programming with time.
 
 
- From Jon Bernesser
+2. From Jon Bernesser
 
- * working with Jon throughout this module was a huge benefit for me. He was able to logically break down conceptually dense topics and present them to me in a way I can understand. Because of his eagerness and ability to do this,  I believe I was able to grow faster as a programmer. Where my weakness was breaking down the problem he proved exemplary at this. His willingness to answer questions, especially during the echo track was a hugely important for me to get where I am today.
+  Working with Jon throughout this module was a huge benefit for me. He was able to logically break down conceptually dense topics and present them to me in a way I can understand. Because of his eagerness and ability to do this,  I believe I was able to grow faster as a programmer. Where my weakness was breaking down the problem he proved exemplary at this. His willingness to answer questions, especially during the echo track was a hugely important for me to get where I am today.
 
 
 ### Playing a Part
