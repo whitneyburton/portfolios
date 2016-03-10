@@ -236,3 +236,48 @@ During my collaborative projects my partners and I paired for most of the time. 
 ### Example of a README.md file (Project Night Writer)
 
 https://github.com/Claudia108/nightwriter
+
+
+## A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 2: Student demonstrates some lack of engagement or growth in their individual
+skill or project outcomes without a clear upward trend.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+OUTCOME - PROVISIONAL - Must complete Night Writer by 10am Tuesday.
