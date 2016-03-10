@@ -226,7 +226,7 @@ more engaged, and gives more input. As a team we could work more on creating an 
 
 ### Playing a Part
 
-    I was on the Student Advisory Board, went and worked with classmates at union station outside of class. I paired with incoming students and got them set up on screen hero since I had done it before  
+    I was on the Student Advisory Board, went and worked with classmates at union station outside of class. I paired with incoming students and got them set up on screen hero since I had done it before. I also participated in environment variables.
 
 ### Protocl Requirements
 
