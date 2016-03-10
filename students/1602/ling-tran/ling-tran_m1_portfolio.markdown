@@ -177,6 +177,7 @@ Notes:
 #### Feedback to Me
 
 **Instructor feedback from Jeff**
+
 > We've paired quite a bit over the past module, and it's been really great to see how far you've come from week 1 when we were talking about what classes are, to now when you seem totally comfortable tackling the monstrosity that is Black Thursday. It's pretty unbelievable to see how much you've learned over the past several weeks, and I think you're in a great place right now. You're always curious to learn more, and that is such an important quality to have here at Turing, and just in general. You have great instincts, and I like the way you go about tackling problems. I like your willingness to dive into a problem, and not worry about getting it right the first time. Personally, that's something that I got hung up on early at Turing. Also, just in general, you're a pleasure to pair with and really easy to get along with. All in all, I think you've absolutely killed it this module, so keep up the good work! And keep up the curiousity because this is just the beginning.
 
 **Project DTR memos**
@@ -185,25 +186,31 @@ Notes:
 
 **Project Partners' feedback**
 * Kris | HTTP Yeah You Know Me:
+
 > Ling is a great partner.  She's smart, hard working, she's fantastic at breaking down problems.  We were really able to collaborate and build the project together and rarely felt the need to separate the work.  We scaled some meaty code mountains.  As a team, if we worked together again, now we know how to handle our own needs as individuals.  It was her idea to include the DTR in the project files and I was glad we both talked about our expectations before even starting.  Ling has incredible work ethic.  If I had to pick something she could do better, I'd say she needs to take better care of herself during an intense project, eat, sleep, pet Lola.  But she's tough and works through it.  Maybe what stands between her and where she could be is just knowing how truly awesome she is.  She's a rockstar.
 
 * Drew | Black Thursday:
 
 **In-class pairing partners' feedback**
 * Kris:
+
 > Ling is really knowledgeable and logical, she really knows what she's doing.  She's a super fast typer, which is an asset as a programmer.  She would be a great partner on any project.  As a team, it would be good for me to learn how to share files back and forth, I need to learn more about using git, when we started I was trying to also type the pseudo code we were talking through while she typed and that didn't make any sense.  I don't know what she could do better, she's awesome.  I don't know what stands between her and where she could be because I think she's further along the road, I can't see that far.  (I'm sorry, that's not super helpful.)  But the pairing was really successful for me, she's an ideal partner.  I think we got somewhere and we also had fun doing it.
 
 * Drew:
+
 > We were both able to contribute back and forth.  Often one of us might not know a specific syntax and the other did.  We also both approached problems differently which led to better solutions.
 
 * Thom:
+
 > Ling works really hard to understand why things work, and not just how they work. We could of have slowed down a little as a team to stay on the same page with each other.
 
 **Feedback from peers outside of 1602 cohort**
 * Ryan Johnson | Ezra Zygmuntowicz Posse:
+
 > It has been a pleasure working with Ling this module during possie time. Her work ethic and joyful personality makes her very easy to work with. As we went through the module, her technical ability grew exponentially and it showed in the questions she's asked and the work she's produced. If she continues to ask questions and ask for help when needed, she will thrive for the rest of her time at Turing and beyond. Great work Ling!
 
 * Nicholas Dorans (a.k.a. Grumpy Baby), 1511 | Pairing:
+
 > Ling is a super smart girl and a real straight shooter. She reached out to me before school started to see if she could get any tips on how to be successful in mod 1. The main thing I noticed about her right away is her attention to detail - she took meticulous notes on everything I said. I have since paired with her a few times and I’m blown away at how fast she picks up on stuff. From looking at her code, I would say she’s a better coder than I was at that time. If I were to have one critique about Ling, it’s that she didn’t have a profile pic for Slack until last week (I basically badgered her until she made one). It may not seem like a big deal but when you interact with people on Slack it’s helpful to have a face to go along with the name. That way people can recognize you in real life. She gets it now, and will have a lustrous Slack future now. I look forward to pairing with Ling in the future because she has a different way of looking at things than me. For that reason I believe pairing with her can be beneficial for both parties. Ling will have great success with this program. - Nicholas
 
 **Feedback from mentor**
