@@ -212,6 +212,7 @@ During my collaborative projects my partners and I paired for most of the time. 
 
 https://github.com/notmarkmiranda/hyde/pull/17
 https://github.com/Claudia108/black_thursday/pull/28
+https://github.com/Claudia108/black_thursday/pull/33
 
 
 ### Example of a README.md file (Project Night Writer)
