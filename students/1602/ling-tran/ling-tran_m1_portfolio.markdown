@@ -103,8 +103,11 @@ Notes:
 ### Blog Post
 
 * [Learning Journey at Turing in Module One](https://gist.github.com/lingtran/cce570211d533e5ed842)
-___
+
+---
+
 ## __Team Projects__
+
 ---
 I completed the following paired work this module:
 
