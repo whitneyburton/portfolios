@@ -29,6 +29,14 @@ Notes from Nate:
 * Collaboration: 3 -- Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
 
 Notes from Horace:
+* Objects / methods /ivars /attr readers -- working with these fundamentals was good
+* Able to get tests set up quickly; defining basic tests etc
+* Wish you would rely more on the tests when you get confused
+* Need to keep relying on those tools and techniques
+* Good job at accessing data across objects
+* Would like to see more comfort / fluidity in basic hash / array iteration
+* would love to see more concrete pseudocode outlinining -- and then stick to it; sometimes we are writing good pseudocode but then disregarding it
+* Ready to go to mod 2 but not totally out of the woods yet -- need to keep solving hard/tricky problems
 
 
 ### Attendance
@@ -102,15 +110,22 @@ Notes from Mike:
 In this two week project I worked with Patrick Hardy. It was
 evaluated by Horace with the following results:
 
-* Functional Expectations: 
-* Test-Driven Development: 
-* Encapsulation / Breaking Logic into Components: 
-* Fundamental Ruby & Style: 
-* Enumerable & Collections: 
-* Code Sanitation: 
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 4
+* Code Sanitation: 3
 
 Notes from Horace: 
-* 
+* Overall pretty well organized and clean
+* Looked at a handful of naming questions; talked about separating out a complicated iterative process into a "pipeline" of multiple steps -- even if this is longer it's often easier to reason about
+* Gives potential for "pluggability" of individual steps -- realizing i can improve upon one step in the process without affecting all the others
+* Biggest takeaway from the analysis perspective is to simplify code by leveraging lower level objects more effectively -- i can sometimes push the first steps onto individual records and then only have to be responsible for the higher level analysis myself
+* 1 - reduces amount of code in the 1 big object
+* 2 - helps avoid writing repetitive finder logic -- find x by x over and over in different spots
+* Talked about procs for probably too long
+ 
 
 https://github.com/turingschool/feedback
 
@@ -120,7 +135,6 @@ https://github.com/turingschool/feedback
 ### Feedback to Me
 
 Based on the feedback from staff and colleagues I focussed on two areas of improvement. The most important area of development was to break down complex problems into small manageable chunks. By writing pseudo code and tests upfront I practised to better understand how classes, their instances and methods are connected and which roles variables and arguments play and how to identify and use them. I have a better grasp at understanding and writing down code but need to keep practising. The goal is to work through the collection challenges on the Turing site over the next weeks. I also plan to offer help to first module students during module 2 to keep practising my understanding by explaining concepts to others. On the other hand I trained to increase the usage of keyboard short cuts and did typing practise to improve my workflow. Also here I need to practise more to get faster typing and will keep working on this in the next modules. 
-
 
 
 Feedback from my project partners:
@@ -133,6 +147,7 @@ Feedback after day 1 of collaboration on Black Thursday:
 Working with Claudia on black thursday has been great so far! She is able to clearly communicate her thought process, which makes the experience feel highly collaborative. She is resourceful when troubleshooting issues and is developing a very strong grasp on OOD. I think she would benefit from writing more methods, and she does take initiative to do this. I think more practice will solidify her enumerable skills. Our approach so far has involved a lot of isolating ins/outs and I think this is helping both of us understand how to systematically debug and ensure compliance. It would be nice if we could make a strategy to split up more work, but so far the program has been difficult to parse into functional pieces.
 https://turingschool.slack.com/archives/D0PGKKD5G/p1457021364000003
 
+
 ### Giving Feedback
 
 Feedback to my project parters:
@@ -144,8 +159,6 @@ https://turingfeedback.herokuapp.com/feedbacks/7c6e13741cda5e628ff94978431a/edit
 Feedback to Patrick after day one of working on Black Thursday:
 I really enjoy working with you on the project. It is easy for me to exchange ideas with you, because you are open to my input and good at listening and really trying to follow my train of thought - which I know is not always an easy task. You are good at explaining your ideas so I can follow along. It feels to me like we both contribute equally in the decision making process on how to design the project and how to move from step to step - which is great. I appreciate your hands-on approach trying things out and always checking on every single step with pry. It helps me understand the connection between input and output better. Two things I would like to discuss moving forward are to 1) focus more on writing the tests first - with pseudo code and 2) clarify who is driving what part of our pairing sessions. It seems to me that we get in each other’s way a bit when writing code and it might be better to assign this role for a certain time span in each pairing session. What do you think about these ideas? 
 https://turingschool.slack.com/archives/D0PGKKD5G/p1456893076000014
-
-
 
 
 ### Instructor Feedback
@@ -208,6 +221,9 @@ Schedules and pairing time:
 * We plan to also work on the weekend.
 * We can do additional work in the morning before school and during lunch break if it is necessary.
 
+Project Debrief
+https://gist.github.com/Claudia108/d27f2bb041a42cbf6ba1
+
 
 ### Pull Request
 During my collaborative projects my partners and I paired for most of the time. Detailed pull request comments were usually not necessary. Here are two examples of more detailed pull requests.
@@ -220,4 +236,3 @@ During my collaborative projects my partners and I paired for most of the time. 
 ### Example of a README.md file (Project Night Writer)
 
 https://github.com/Claudia108/nightwriter
-
