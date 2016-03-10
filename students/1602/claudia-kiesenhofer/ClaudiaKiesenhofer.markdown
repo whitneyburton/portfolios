@@ -8,12 +8,12 @@ Coming into the first module I had three main goals. Having no experience with p
 
 ### Mid-Module Assessment
 
-* Ruby Syntax and API: 3  --  Developer is able to comfortably implement solutions in Ruby)
-* Ruby Style: 3  --  Developer writes code that is easy to follow)
-* Blocks and Enumerables: 3  --  Developer demonstrates understanding of blocks and can effectively use enumerable methods)
-* Testing: 3  --  Developer uses tests to guide development in small chunks)
-* Workflow: 2  --  Developer smoothly moves between tools, but is dependent entirely on mouse-driven interaction)
-* Collaboration: 3  --  Developer lays out their thinking *before* attacking a problem and integrates feedback through the process)
+* Ruby Syntax and API: 3 
+* Ruby Style: 3 
+* Blocks and Enumerables: 3  
+* Testing: 3
+* Workflow: 2 
+* Collaboration: 3 
 
 Notes from Nate:
 * Look up a couple keyboard shortcuts. http://blog.bugsnag.com/atom-editor-cheat-sheet
@@ -21,18 +21,12 @@ Notes from Nate:
 
 ### End-of-Module-Assessment
 
-* Ruby Syntax and API: 3 
-  (Developer is able to comfortably implement solutions in Ruby)
-* Ruby Style: 3 
-  (Developer writes code that is easy to follow)
-* Blocks and Enumerables: 3 
-  (Developer demonstrates understanding of blocks and can effectively use enumerable methods)
-* Testing: 3 
-  (Developer uses tests to guide development in small chunks)
-* Workflow: 3 
-  (Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts)
-* Collaboration: 3 
-  (Developer lays out their thinking *before* attacking a problem and integrates feedback through the process)
+* Ruby Syntax and API: 3 -- Developer is able to comfortably implement solutions in Ruby
+* Ruby Style: 3 -- Developer writes code that is easy to follow
+* Blocks and Enumerables: 3 -- Developer demonstrates understanding of blocks and can effectively use enumerable methods
+* Testing: 3 -- Developer uses tests to guide development in small chunks
+* Workflow: 3 -- Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* Collaboration: 3 -- Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
 
 Notes from Horace:
 
@@ -128,22 +122,30 @@ https://github.com/turingschool/feedback
 Based on the feedback from staff and colleagues I focussed on two areas of improvement. The most important area of development was to break down complex problems into small manageable chunks. By writing pseudo code and tests upfront I practised to better understand how classes, their instances and methods are connected and which roles variables and arguments play and how to identify and use them. I have a better grasp at understanding and writing down code but need to keep practising. The goal is to work through the collection challenges on the Turing site over the next weeks. I also plan to offer help to first module students during module 2 to keep practising my understanding by explaining concepts to others. On the other hand I trained to increase the usage of keyboard short cuts and did typing practise to improve my workflow. Also here I need to practise more to get faster typing and will keep working on this in the next modules. 
 
 
+
 Feedback from my project partners:
 
+Feedback from Mark after finalizing the project Hyde:
 Claudia is a great partner. She has a strong grasp on problem solving without tying it to programming, which makes the programming process so much easier. She is deeply rooted in TDD and has a strong attention to detail. I would love to partner with Claudia on other projects. It was great to work with her and I feel like we had a good understanding of each others' strengths and weaknesses before going into the project. Claudia could use a tiny bit of work on workflow and shortcuts (using the mouse less), but other than that, she was great to work with!
+https://turingschool.slack.com/archives/D0M1Z7DL1/p1457125710000003
 
 Feedback after day 1 of collaboration on Black Thursday:
 Working with Claudia on black thursday has been great so far! She is able to clearly communicate her thought process, which makes the experience feel highly collaborative. She is resourceful when troubleshooting issues and is developing a very strong grasp on OOD. I think she would benefit from writing more methods, and she does take initiative to do this. I think more practice will solidify her enumerable skills. Our approach so far has involved a lot of isolating ins/outs and I think this is helping both of us understand how to systematically debug and ensure compliance. It would be nice if we could make a strategy to split up more work, but so far the program has been difficult to parse into functional pieces.
-
+https://turingschool.slack.com/archives/D0PGKKD5G/p1457021364000003
 
 ### Giving Feedback
 
 Feedback to my project parters:
 
-I very much enjoyed working with Mark on the project Hyde. It was very easy to set our goals and define the working process upfront and stick with it. Mark had a very good grasp on the assignment and was able to communicate clearly what steps he wanted to take when and why. At the same time he was open to all of my ideas for problem solving and working progress. Going into the project I was insecure about my workflow and wanted to work on this. Mark supported me by showing me multiple keyboard shortcuts and being patient me practicing them. We exchanged feedback throughout the project which allowed for a strong sense of mutual support and space for experimentation and creativity. This made the experience very relaxed and joyful. I learned so much on how to tackle a bigger problem, break it into manageable pieces and how to create erb and css files. I would love to work on other projects with Mark. The only thing I would do differently is to take a bit more initiative in writing methods during pairing session and to define and work on pieces independently. Thank you Mark for a great experience of collaborative work.
+Feedback to Mark after finalizing the project Hyde together:
+I very much enjoyed working with Mark. It was very easy to set our goals and define the working process upfront and stick with it. Mark had a very good grasp on the assignment and was able to communicate clearly what steps he wanted to take when and why. At the same time he was open to all of my ideas for problem solving and working progress. Going into the project I was insecure about my workflow and wanted to work on this. Mark supported me by showing me multiple keyboard shortcuts and being patient me practicing them. We exchanged feedback throughout the project which allowed for a strong sense of mutual support and space for experimentation and creativity. This made the experience very relaxed and joyful. I learned so much on how to tackle a bigger problem, break it into manageable pieces and how to create erb and css files. I would love to work on other projects with Mark. The only thing I would do differently is to take a bit more initiative in writing methods during pairing session and to define and work on pieces independently. Thank you Mark for a great experience with collaborative work.
+https://turingfeedback.herokuapp.com/feedbacks/7c6e13741cda5e628ff94978431a/edit
 
 Feedback to Patrick after day one of working on Black Thursday:
 I really enjoy working with you on the project. It is easy for me to exchange ideas with you, because you are open to my input and good at listening and really trying to follow my train of thought - which I know is not always an easy task. You are good at explaining your ideas so I can follow along. It feels to me like we both contribute equally in the decision making process on how to design the project and how to move from step to step - which is great. I appreciate your hands-on approach trying things out and always checking on every single step with pry. It helps me understand the connection between input and output better. Two things I would like to discuss moving forward are to 1) focus more on writing the tests first - with pseudo code and 2) clarify who is driving what part of our pairing sessions. It seems to me that we get in each other’s way a bit when writing code and it might be better to assign this role for a certain time span in each pairing session. What do you think about these ideas? 
+https://turingschool.slack.com/archives/D0PGKKD5G/p1456893076000014
+
+
 
 
 ### Instructor Feedback
