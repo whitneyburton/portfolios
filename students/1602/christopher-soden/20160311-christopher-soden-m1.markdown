@@ -278,12 +278,13 @@ I ended up traversing the string using multiple ‘match’ calls. The ‘match�
 
 ## README
 [GitHub URL](https://github.com/cheljoh/enums_challenge/blob/master/README.md)  
-### Using the 'p_any?' Method
+
+### Using the `p_any?` Method
 ----------------------------
 
-  p_any?(X, symbol)
+    p_any?(X, symbol)
 
-The p_any? method takes 2 parameters: a numeric value X and one of three
+The `p_any?` method takes 2 parameters: a numeric value X and one of three
 symbols, and returns a proc for comparing all values in an array to X.
 
 The available symbols are:  
@@ -305,15 +306,21 @@ Example:
     any_less_than_3?.call(b)  
     => true
 
-The proc returned by p_any? is activated with the '.call' method. It will check
-every element of an array against the set value and return true if one, some or
+
+The proc returned by `p_any?` is activated with the `.call` method. It will check
+every element of an array against the pre-set value and return true if one, some or
 all of the elements in the array match the set conditions (greater than, less
-than or equal to the set value X).
+than or equal to the value X).
+
 
 Remember that the conditions for comparison are set at the time the proc is
 created. To do a different comparison you must create a different proc.
 
+
+
+
 Copyright (c) 2016 Christopher Soden, Chelsea Johnson, Aaron Careaga, et al
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
