@@ -120,7 +120,7 @@ Scores:
 This was a short mini-project that involved building out a Rails app over a weekend. We created a site where users belong to teams and can vote to assign a gif to their various team members. Voting was implemented on a timer - when the timer ran out, the gif was assigned to the user with the most votes.
 
 #### Little Shop of Orders
-* [Heroku URL](http://abzombie-and-fitch.herokuapp.com)
+* [Heroku URL](http://aberzombie-and-fitch.herokuapp.com)
 * [GitHub URL](https://github.com/brantwellman/Turing-zombie-survival-store)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
