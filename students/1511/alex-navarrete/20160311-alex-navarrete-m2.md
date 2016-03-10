@@ -95,6 +95,8 @@ The following two projects were evaluated team projects that were assigned for M
 
 Rush Hour is a project that uses Ruby, Sinatra, and ActiveRecord in order to become a web traffic tracking and analysis tool for registered clients. It tracks down information about a visitor and the page they're viewing while submitting data to the RushHour application. The main take away from this project was to understand how web traffic works and the benefits of using ActiveRecord at a database level.
 
+Evaluator: Rachel Warbelow
+
 ###### Notes:
 - Empty payload creates error. Group misunderstood directions- supported missing attribute instead.
 
@@ -119,11 +121,16 @@ Rush Hour is a project that uses Ruby, Sinatra, and ActiveRecord in order to bec
 
 This is a fully functional website built with Rails that sells the digital encryptions of your favorite albums! In order to buy anything within the website, a guest must login or register as a user. An admin regulates the website by having CRUD functionality when it comes to anything relating the albums being sold.
 
-(evaluation comments)
+Evaluator: Rachel Warbelow
 
-(evaluation scores)
-
-(feedback to me)
+###### Score
+* __Feature Completeness:__ 3
+* __Views:__ 4
+* __Controllers:__ 3.5
+* __Models:__ 3
+* __Testing:__ 3
+* __Usability:__ 3.5
+* Workflow:__ 4
 
 ## Community
 
