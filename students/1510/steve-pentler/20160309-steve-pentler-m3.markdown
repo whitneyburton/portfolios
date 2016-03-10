@@ -17,7 +17,7 @@ In addition to the difficulty comparison, this applicationa also maps the exact 
 This app consumes four API's. The [Strava API](https://strava.github.io/api/) with the strava-api-3 gem as well as handrolled Faraday endpoints, [TrailAPI](https://market.mashape.com/trailapi/trailapi) with handrolled faraday endpoints, as well as the [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/) and the [Google Maps Embed API](https://developers.google.com/maps/documentation/embed/). 
 
 
-**Skills Aquired:** Rails 4.0, OmniAuth2, Caching, Skylight Performance Metrics, Mechanize/Nokogiri Scraping, Heroku Deployment, VCR/Webmock testing
+**Skills Utilized:** Rails 4.0, OmniAuth2, Caching, Skylight Performance Metrics, Mechanize/Nokogiri Scraping, Heroku Deployment, VCR/Webmock testing, Materialize, CSS, HTML
 
 **Challenges: 
 1. Caching: proved to be the greatest challenge, as this was the first application where performance has been a priority. Caching can present some unexpected behaviors. At one point I cached a partial that included a form, which caused issues, but only on the second time a view was visited. It took a while to trace back this error, and taugh met the importance of dynamically named fingerprinting. 
@@ -25,32 +25,43 @@ This app consumes four API's. The [Strava API](https://strava.github.io/api/) wi
 3. Scraping: I received a crash course in scraping with mechanize/nokogiri. I was able to scrape plain html, but the content I wanted was nested under hidden JavaScript tags. I'll get back to scraping once I polish up my JavaScript debugging skills. 
 
 #### Evaluation Scores:
-1. **Feature Completeness: 4-**
-- All features are correctly implemented along with two extensions
-2. **Views: 4**
-- Views show logical refactoring into layout(s), partials and helpers, with no logic present
-3. **Controllers: 3**
-- Controllers are generally well organized with three or fewer particularly ugly parts
-4. **Models: 3.5**
-- Models show satisfactory organization, refactoring, and appropriate use of Rails features
-5. **Testing: 4** 
-- Project has a running test suite that exercises the application at multiple levels
-6. **Usability: 3** 
-- Project is highly usable, but needs more polish before it'd be customer-ready
-7. **Workflow: 3.5** 
+
+___
+
+### Run Normalizer
+
+[Rails Engine](https://github.com/stevepentler/rails-engine) on GitHub
+
+##### A personal effort from: [Steve Pentler](https://github.com/stevepentler)
+
+This 3 day personal project builds an API that presents sales data. First, the CSV files are loaded using a rake task, then the data is analyzed and manipulated with ActiveRecord. Finally, the queries are served up in json. 
+
+**Skills acquired:** ActiveRecord queries, Controller Testing, MVC principles, RESTful routes, Responders and JSON
+
+**Challenges:** 
+1. Conceptualizing and moving through multiple joins tables with ActiveRecord. The joins and includes calls were uncomfortable at first, as was the temporary blindness when dealing with ActiveRecord Objects.
+2. Staying disciplined with restful routing. This app has 35 controllers in order to deliberately maintain RESTful conventions.
+3. Routing in the appropriate order with dynamic routes.  
+
+#### Evaluation Scores:
+1. **Functional Expectations: 4**
+2. **Test Drive Development: 4**
+3. **Encapsulation/Breaking Logic into Components: 3.5**
+4. **Fundamental Ruby & Style: 3.5**
+5. **Sinatra/Web and Business Logic: 4**
+6. **View Layer: 3**
 
 Assessed by: Rachael Warbelow
 ___
+### Run Normalizer
 
-### Traffic Spy
+[Run Normalizer](https://github.com/stevepentler/run-normalizer) on GitHub
 
-[Traffic Spy](https://github.com/ToniRib/traffic-spy) on GitHub
+##### A personal effort from: [Steve Pentler](https://github.com/stevepentler)
 
-**Toni Rib, Beth Secor & Steve Pentler**
+This 3 day personal project hits the Map My Fitness API and presents users specific lifetime data (ex: total distance, sessions, calories, and steps). In addition, the application displays data (ex: avg pace, distance, duration) for each individual workout a user has recorded, with a link to the route on mapmyfitness.com
 
-TrafficSpy is a Sinatra application that works similar to Google Analytics, tracking data for registered applications. The data from this applications is sent to our server using the curl command from the terminal (see below). The user can then view analytical data for a registered application via our website.
-
-**Skills acquired:** Capybara Testing, Database Design & Manipulation, Materialize, haml, CSS, HTML, MVC Best Practices
+**Skills acquired:** OmniAuth2, VCR/Webmock Testing, Faraday HTTP Client, SimpleCov Testing Analystics, HTML, CSSetc. 
 
 #### Evaluation Scores:
 1. **Functional Expectations: 4**
