@@ -74,8 +74,8 @@ I participated in the following 2 team projects:
 
 #### Hyde
 
-* [GitHub URL](hhttps://github.com/notmarkmiranda/hyde)
-* [Original Assignment](https://github.com/turingschool/curriculum/source/projects/hyde/index.markdown)
+* [GitHub URL](https://github.com/notmarkmiranda/hyde)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/hyde/index.markdown)
 
 In this four-day project I worked with Mark Miranda. It was
 evaluated by Mike with the following results:
@@ -210,8 +210,10 @@ https://github.com/notmarkmiranda/hyde/pull/17
 This project implements systems for generating Braille-like text from normal characters and the reverse.
 Braille uses a two-by-three grid of dots to represent characters. Night Writer simulates that concept by using three lines of symbols:
 
-0.0.0.0.0....00.0.0.00
+0.0.0.0.0....00.0.0.00 
+
 00.00.0..0..00.0000..0
+
 ....0.0.0....00.0.0...
 
 The 0 represents a raised dot. The period is an unraised space. The above code reads "hello world" in normal text.
