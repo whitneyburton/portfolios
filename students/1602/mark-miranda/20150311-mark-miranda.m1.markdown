@@ -1,8 +1,8 @@
 # Mark Miranda - M1 Portfolio
----
+
 
 ## Individual
----
+
 ### Areas of Emphasis
 
 My main goal is to build a solid foundation for the rest of my career at Turing
