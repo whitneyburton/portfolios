@@ -198,11 +198,14 @@ What stands between 'now' and 'could be': just practice. More familiarity with t
 
 #### Feedback to me
 
-Thomas Pickett: "Chris is extremely curious about how things work in ruby. We could shake up the dynamics of the group by alternating driver/navigator positions. Chris could work on his mechanical skills to navigate his computer better."
+##### From Thomas Pickett  
+Chris is extremely curious about how things work in ruby. We could shake up the dynamics of the group by alternating driver/navigator positions. Chris could work on his mechanical skills to navigate his computer better.  
 
-Sal Espinosa: "Chris did a great job taking control and driving the project. He was able to keep things moving and actually implement code while both Thom and I lobbed ideas at him. It's hard with shorter projects, but I think as a group we could've been better at sharing that responsibility and giving Chris some time to pitch ideas and some relief from the nitty gritty of making things work."
+##### From Sal Espinosa  
+Chris did a great job taking control and driving the project. He was able to keep things moving and actually implement code while both Thom and I lobbed ideas at him. It's hard with shorter projects, but I think as a group we could've been better at sharing that responsibility and giving Chris some time to pitch ideas and some relief from the nitty gritty of making things work.  
 
-Kris Foss: "I didn't have a lot of time working with Chris but the time I have had, I've been really impressed.  Chris's background in computer science really shines through his logical programming.  He isn't arrogant, despite how advanced is knowledge is.  He's good at explaining concepts and always willing to step in and help.  He has a real eagerness and passion for programming and I can't wait to see what he creates.  He's also kind and approachable and he would make a great partner for any project."
+##### From Kris Foss  
+I didn't have a lot of time working with Chris but the time I have had, I've been really impressed.  Chris's background in computer science really shines through his logical programming.  He isn't arrogant, despite how advanced is knowledge is.  He's good at explaining concepts and always willing to step in and help.  He has a real eagerness and passion for programming and I can't wait to see what he creates.  He's also kind and approachable and he would make a great partner for any project.
 
 ### Playing a Part
 
