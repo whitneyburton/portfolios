@@ -221,7 +221,6 @@ From Matt DesMarteau:
  Jon offered his support right away in the beginning of the module. Because of his former experience with coding he was able to help me understanding Ruby concepts and syntax. He repeatedly took the time to  listen to my questions and walk me through the process of understanding. When I felt very much overwhelmed by the complete novelty of thinking processes his moral support made it easier for me to trust that it is possible to grasp the concepts of programming with time.
 
 
-
 2. From Jon Bernesser
 
   Working with Jon throughout this module was a huge benefit for me. He was able to logically break down conceptually dense topics and present them to me in a way I can understand. Because of his eagerness and ability to do this,  I believe I was able to grow faster as a programmer. Where my weakness was breaking down the problem he proved exemplary at this. His willingness to answer questions, especially during the echo track was a hugely important for me to get where I am today.
