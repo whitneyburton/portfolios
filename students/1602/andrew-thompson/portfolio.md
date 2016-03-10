@@ -14,8 +14,8 @@ Assessed By: Nate
 Challenge: Option 3
 ​
 ####Notes:
-​* The war continues between `@instance_vars` and `attr_accessor`  
-* Plan and psuedo code more. You're holding too much in your head
+​* The war continues between `@instance_vars` and `attr_accessor`	
+​* Plan and psuedo code more. You're holding too much in your head
 
 Scores:
 
@@ -198,6 +198,7 @@ From Ling Tran on the Black Thursday project:
 #### [Pull Request 2](https://github.com/drew-t/black_thursday/pull/41)
 #### [DTR Memo](https://github.com/drew-t/black_thursday/blob/master/DTR_29FEB2016.md)
 ####[ReadMe](https://github.com/drew-t/mastermind)
+####[Posse Challenges](https://github.com/amaxwellblair/posse_challenges)
 
 ####Community
 #####Giving Feedback
