@@ -134,3 +134,7 @@ When Beth is your enemy in Catan she is a tyrant who's unchecked aggression is n
 ###Playing a Part:
 
 This module I saw my role switch dramatically in the community as I began my first of two terms as the SAB representative for Module 3 along with Brenna.  From what is groaned about by SAB members on a regular basis I had less than stellar expectations for what was in store but I was pleasantly surprised.  I am looking forward to part two of my SAB experience!
+
+Fulfill my Dad Steve's empty shell of a life through time together. He lives his sad meaningless life vicariously through me. Its not easy, but he gives me a weekly allowance of 5$, as a 12 year old, thats a lot of money!!!!!! I participate in Kids who Kode. Not as a teacher. As a kid who kodes.
+
+
