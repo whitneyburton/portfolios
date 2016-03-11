@@ -11,7 +11,7 @@
 
 #### Posted on February 16, 2016
 
-    I've spent the last two-ish weeks learning about web tools. So far, they are pretty cool, but I also feel like the rules are more arbitrary than I'm used to (compared to learning programming languages that have mostly universal concepts). Our first tool for producing web applications was Sinatra. Today, we started exploring Rails. So far, my impression of Rails is favorable- the "rails new file_name" command that creates a million files to build your app on, the "resources :path" command that automatically creates RESTful routes with CRUD (create, read, update, delete) functionality- seem to be nice and helpful. Oh, and I also learned about RESTful routes today- contain verb and URI's to access resources. So let's see if I maintain my favorable view of Rails ;)
+I've spent the last two-ish weeks learning about web tools. So far, they are pretty cool, but I also feel like the rules are more arbitrary than I'm used to (compared to learning programming languages that have mostly universal concepts). Our first tool for producing web applications was Sinatra. Today, we started exploring Rails. So far, my impression of Rails is favorable- the "rails new file_name" command that creates a million files to build your app on, the "resources :path" command that automatically creates RESTful routes with CRUD (create, read, update, delete) functionality- seem to be nice and helpful. Oh, and I also learned about RESTful routes today- contain verb and URI's to access resources. So let's see if I maintain my favorable view of Rails ;)
 
 ### Mentor Sessions
 
@@ -96,6 +96,36 @@ Chelsea is an awesome teammate. Not only is she strong technically, but she has 
 * [Skill inventory](https://github.com/cheljoh/skill-inventory-crud)
 * [Tool Chest](https://github.com/cheljoh/tool_chest)
 * [Mix Master](https://github.com/cheljoh/mix_master.git)
+
+##### Pull Request Examples
+ * Implemented cat reviews. Registered users can now review a cat. Unregistered users cannot review cats, but they are able to see the cat reviews from registered users. Added the necessary models, views, and migrations for cat reviews.
+ * Added edit, update, and destroy for making cats. Added necessary links, routes, and views. Added link to make a new cat in the admin dashboard and a link to the cat show page from the cat index. Had an issue when deleting a cat tied to an order, so added "dependent: :destroy" in the cat model to resolve issue.
+
+##### README
+
+###### Project Name
+Kdrama Rating App
+
+###### About
+
+Introductory Rails app that uses PostgreSQL.
+
+###### Installation
+
+Requires Rails and Ruby. After cloning, run "bundle"
+
+###### Usage
+
+View Kdramas by category or view all Kdramas.  Admins may create categories and add titles. Users may rate each Kdrama on a scale of 1-5. Most importantly, have fun!
+
+###### History
+Inspired by a love for all things Kdrama.
+
+###### Credits
+
+[Admir Draganovic](https://github.com/Draganovic)
+
+[Chelsea Johnson](https://github.com/cheljoh)
 
 
 ### Evaluated Projects
@@ -185,36 +215,6 @@ For the evaluation we'll work through the expectations above and look at the fol
 7. Workflow
 
  * 4: Excellent use of branches, pull requests, and a project management tool.
-
-##### Pull Request Examples
- * Implemented cat reviews. Registered users can now review a cat. Unregistered users cannot review cats, but they are able to see the cat reviews from registered users. Added the necessary models, views, and migrations for cat reviews.
- * Added edit, update, and destroy for making cats. Added necessary links, routes, and views. Added link to make a new cat in the admin dashboard and a link to the cat show page from the cat index. Had an issue when deleting a cat tied to an order, so added "dependent: :destroy" in the cat model to resolve issue.
-
-##### README
-
-###### Project Name
-Kdrama Rating App
-
-###### About
-
-Introductory Rails app that uses PostgreSQL.
-
-###### Installation
-
-Requires Rails and Ruby. After cloning, run "bundle"
-
-###### Usage
-
-View Kdramas by category or view all Kdramas.  Admins may create categories and add titles. Users may rate each Kdrama on a scale of 1-5. Most importantly, have fun!
-
-###### History
-Inspired by a love for all things Kdrama.
-
-###### Credits
-
-[Admir Draganovic](https://github.com/Draganovic)
-
-[Chelsea Johnson](https://github.com/cheljoh)
 
 ### Mid-module Assessment
 
