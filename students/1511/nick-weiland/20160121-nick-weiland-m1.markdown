@@ -1,7 +1,5 @@
 # Nick Weiland - M1 Portfolio
 
-## Individual
-
 ### Your Mission
 
 I want to do work that is consistently challenging and purposeful.
@@ -48,16 +46,26 @@ Assessed By: Josh
 
 ##### Notes:
 
+* Reads JSON
+* Graphs of the data [example](http://chart.apis.google.com/chart?chco=FFF804,336699,339933,ff0000,cc99cc,cf5910&chf=bg,s,FFFFFF&chd=s:AojV1uyTYhueeI9&chl=Shopin1901%7CCandisart%7CMiniatureBikez%7CGoldenRayPress%7CGoldenHelmets%7CUrcase17%7CVenmo%7CSkype%7CJohnson%7CEllo%7CHidy%7CBhyd%7CLair%7CHelm%7CGot&chtt=All+Merchants+by+Revenue&cht=p&chs=750x375&chxr=0,0,0.8066154E5)
+* CI (passes ;)
+* Tests pass
+``` Ruby
+Finished in 3.08 seconds (files took 0.39026 seconds to load)
+141 examples, 0 failures
+```
+* 97% code coverage
+
 
 ##### Scores:
 
-* Overall Functionality:
-* Enumerables:
-* Fundamental Ruby and Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Overall Functionality: 4
+* TDD: 4
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
 
-<p>
+
 #### Http Yeah You Know Me
 
 * [GitHub URL](https://github.com/weilandia/http_yeah_you_know_me.git)
@@ -88,7 +96,6 @@ until the data is needed to generate it (lazy vs. eager)
   * Test-Driven Development: 4
   * Breaking Logic into Components: 4
 
-<p>
 #### Enigma
 
 * [GitHub URL](https://github.com/weilandia/enigma.git)
@@ -111,7 +118,6 @@ Assessed By: Josh
 * Test-Driven Development: 3
 * Breaking Logic into Components: 3
 
-<p>
 #### Jungle Beat
 
 * [GitHub URL](https://github.com/weilandia/jungle_beat.git)
@@ -134,7 +140,6 @@ Assessed By: Lovisa
 * Fundamental Ruby and Style: 3
 * Looping *or* Recursion: 3
 
-<p>
 ## Community
 
 ### Giving Feedback
@@ -169,21 +174,21 @@ I've participated in the larger Turing Community in the following ways:
 A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations.
 
-* **Result:** ? -- <  >
+* **Result:** 4
 
 ## B: Individual Work & Projects
 
 A Turing student works to maximize their skill growth and demonstrates
 that skill across a variety of work.
 
-* **Result:** ? -- <  >
+* **Result:** 3
 
 ## C: Group Work & Projects
 
 A Turing student contributes significantly to group projects, helps the team
 develop their technical skills, and delivers a high-quality product.
 
-* **Result:** ? -- <  >
+* **Result:** 3
 
 ## D: Community Participation
 
@@ -191,7 +196,7 @@ A Turing student builds up the community around them by participating and
 supporting other students, the larger Turing family, and persons outside our
 walls who want to develop their own skills.
 
-* **Result:** ? -- <  >
+* **Result:** 3
 
 ## E: Peer & Instructor Feedback
 
@@ -199,7 +204,7 @@ A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
 own growth by taking in and acting on the feedback of their peers and instructors.
 
-* **Result:** ? -- <  >
+* **Result:** 3
 
 ## Review
 
