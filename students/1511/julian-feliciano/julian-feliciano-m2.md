@@ -308,3 +308,14 @@ all agreed for it to be timely and honest
 2. Begin to add some creativity to the projects, adding functionality that is not necessarily apart of the project spec. Get out of the comfort zone of the specs.
 
 3. Work on being more communicative about specific pair programming techniques that I like or don't like. Ask more questions while pair programming ("Am I explaining a specific topic fully? Am I dominating the conversation and giving you a chance to speak? What can I do to be a better pairing partner?")
+4. 
+
+### Notes:
+
+* Learned a lot about Node. 
+* Great teammate - people really like workign with you - keep it up
+* Good blog post and student lead session
+* Conscious of the social - soft-skill important things. 
+* Wants to do visualization - find a mentor to work on a personal project with
+* Great to see you pairing with Mod1
+* challenge yourself in mod2
