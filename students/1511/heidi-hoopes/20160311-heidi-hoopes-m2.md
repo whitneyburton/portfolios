@@ -265,7 +265,19 @@ Brian Rippeto:
 ## Review
 
 ### Notes
-
+Andrew Carmer:
+* Feel like goals were accomplished
+* Likes posse time - people don't come and that's frustrating.
+* Very good sense of responsibility
+* Tend to go down rabbit hole. Try to be conscious of it and work on staying more on task
+* Plays the part well. Kids who code - mod1 pairing sessions - Joan Clarke
+* Mod1 Pairing was really awesome
+* Going to more Meetups is a new goal
+* Would like to speak at a meetup
+* Work on being more confident
+* You are good at what you do - own it
+* Great sense of humor - good person to be around and work with
+* Great work within the community
 
 
 ### Outcome
