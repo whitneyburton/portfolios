@@ -48,6 +48,10 @@ Chad is someone I always look forward to pairing with for a number of reasons. F
 ##Feedback from Allan Blair
 The Chad is a passionate student and loves to learn. He has clearly worked on his workflow and can proficiently navigate the terminal. Another strong characteristic of Chad is his communication skills. He can navigate conversations deftly and easily explain his ideas. Chad's love of learning can also make him difficult to work with. In pursuit of understanding Chad will at times slow down or even halt a workflow until he feels comfortable. In moderation this practice is beneficial for everyone to an extreme it can cripple a process. One way Chad could work better with a team is by aggregating his questions instead of several interruptions.
 
+##Feedback from Nicholas Dorans
+Chad is a beast. I was lucky enough to work with Chad on two consecutive projects. The first one was called The Gipherator. It was a cool little project where we hit the giphy API and returned random GIFs based on search parameters. Chad was super pumped when we finally returned some actual GIFs, and so was I! Our next project was Little Shop and that was another enjoyable experience. Chad was a beast on this project. He was eating up waffle cards like it was nobody’s business!! I’m sad to hear that Chad won’t be with us next module, but The Chad will return! 1511 is gonna miss you. Good luck with the baby, man!
+
+
 ##Feedback for Brian Rippeto
 During the module Brian and I paired several times to practice CRUD functionality. A few of the things that make Brian a great collaborator are his solid workflow and process tackling a problem. Every time I work with Brian, I learn new keyboard shortcuts. He is also very good at navigating his way through unfamiliar material. His decisions about how much time to spend on a problem and what to focus on made our pairing sessions very productive. Brian’s lightheartedness and positive attitude also made debugging an enjoyable process as well as a learning experience.
 
@@ -56,6 +60,9 @@ Allan is a very strong programmer. He is very aware of what his code is doing, a
 
 ##Feedback for Nate Venn
 I have paired with Nate on several occasions including our most recent project. Some of the things that make Nate a strong programmer are his drive and his ability to pick things up fast. He did his last several projects while learning Vim. He pursued some of the most difficult components of our app, and tackled them. Every time I pair with Nate, he is always encouraging and positive. Even when we are stuck on a bug, the energy he brings to a pairing session is never stressful, and  always cultivates an environment for learning. Nate is also great to work with because he genuinely considers the input of his collaborators even when he already has his own solution to a problem. Continuing to get better at TDD (not that he is not good at TDD) will make Nate an even stronger programmer. I have no doubt that Nate’s drive, technical ability, and ability to learn, will make him a great developer.
+
+##Feeback for Nicholas Dorans
+I had the pleasure of working with Nick on the rails mini-project and the little shop project (custo-candy-co). One of Nick's strengths as a developer that immediately stood out to me is his ability to problem solve and figure out forgien features. Nick is very methodical in his approach. This was evidenced through the way he thoroughly reviewed the pull requests and made sure we did the same. He also carefully read through the error messages when we were debugging and his insights benefitted our group significantly. Lastly, Nick is just enjoyable to work with and be around. He constantly kept the mood light and helped us enjoy our project more.
 
 ### Posse Challenges
 Our posse was able to complete four out of five of the posse challenges, each of which I was an active participant.
