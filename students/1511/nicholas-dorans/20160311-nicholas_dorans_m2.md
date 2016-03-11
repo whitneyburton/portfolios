@@ -244,48 +244,21 @@ I've participated in the larger Turing Community in the following ways:
 
 ## Review
 
-### Notes
-
-* Notes Notes....
-
-### Outcome
-
-## A: End-of-Module Assessment
-
-A Turing student is able to demonstrate proficiency at programming in accordance
-with the module's content and expectations.
-
-
-
-* ###:
-
-## B: Individual Work & Projects
-
-A Turing student works to maximize their skill growth and demonstrates
-that skill across a variety of work.
-
-
-* ###:
-
-## C: Group Work & Projects
-
-A Turing student contributes significantly to group projects, helps the team
-develop their technical skills, and delivers a high-quality product.
-
-* ###:
-
-## D: Community Participation
-
-A Turing student builds up the community around them by participating and
-supporting other students, the larger Turing family, and persons outside our
-walls who want to develop their own skills.
-
-* ###:
-
 ## E: Peer & Instructor Feedback
 
 A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
 own growth by taking in and acting on the feedback of their peers and instructors.
 
-* ###:
+### Notes: 
+
+* Made great improvememnts throughout the module
+* Learned a lot under pressure
+* Prioritize working on Github with workflow
+* Play Catan
+* Productivity lunch was really productive
+* People appreciate your light harted genuine nature
+
+### Outcome:
+
+Pass
