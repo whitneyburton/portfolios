@@ -166,6 +166,8 @@ I've played a part in the Turing community in the following ways:
 * [DTR - Little Shop](https://gist.github.com/julsfelic/1ea51f4b9a06a4a678ae)
 * [Pull Request - \#1](https://github.com/scottfirestone/not_napster/pull/164)
 * [Pull Request - \#2](https://github.com/scottfirestone/not_napster/pull/66)
+* [Technical Blog Post](https://scottfirestone.github.io/2016/03/11/test-with-shoulda-matchers.html)
+* [README](https://github.com/scottfirestone/not_napster/blob/master/README.md)
 
 #### Posse Challenge:
 
