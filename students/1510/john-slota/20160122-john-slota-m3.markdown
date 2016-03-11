@@ -27,15 +27,21 @@ I believe I had perfect attendance this module
 5. Workflow: 3
 
 ### Self Directed Project
+* [GitHub URL](htttps://github.com/slotaj/legislators)
+* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md]
+
 SCORES:
 Instructor: Josh Mejia
-notes:
-* completion: 3
-*  organization: 3
-*  test-driven-development: 3:
-*  code-quality: 2
+*  completion: 4
+*  organization: 4
+*  test-driven-development: 4
+*  code-quality: 3
 *  user-experience: 3
 *  performance: 4  
+
+(Evaluation Comments)
+notes: Really good use of POROs. Should clean up unused files. Would be good to tackle more Javascript and performance challenges like caching and background workers.
+
 
 ### Work
 Below are the projects I worked on this module
@@ -104,6 +110,10 @@ I made a serious effort this module to provide feedback to the staff and others 
 
 "Your experience during the pivot helped us avoid a lot of rabbit holes along the way. You lead the charge on the back end and brought a lot of enthusiasm, too. You definitely made me feel good about my front end skills, and you had an appropriate work/life  balance when your favorite team, ever, won Super Bowl 50." - Steve Pentler
 
+"John is the bomb! It is an unlimited source of energy. It is a real pleasure to work with him. After two weeks I was still surprised of his continuous good vibe, even in the hardest moments of the project. I truly appreciate his ability to keep the team happy and productive. On top of that, he is able to produce an insane amount of good code very fast, it is quite hard to keep up with his production rate." - Hector
+
+"Slota has progressed so much during the course of this module. I have gone from seeing him struggle with the concepts to having him be able to help we with troubleshooting issues. I can always be confident in asking Slota to look at my code when I am having trouble figuring something out." - Edgar
+
 ### Playing a Part
 
 - Attended Imposter Syndrome Lunch and Purchased Lunch
@@ -113,6 +123,7 @@ I made a serious effort this module to provide feedback to the staff and others 
 - Attended Production Improvement Lunch
 - Represented Turing by attending Ruby Meetup at Pivotal
 - Mentored incoming 1603 Student(Peter Springer)
+- Was interviewed for Turing Podcast
 
 ### Weirich Posse Challenges
 [Posse Challenges]("https://github.com/julsfelic/weirich_posse_challenges.git")
