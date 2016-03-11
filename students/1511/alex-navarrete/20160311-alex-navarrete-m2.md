@@ -191,8 +191,15 @@ Evaluator: Rachel Warbelow
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Feels like the soft-skill gaol was accomplished and a success. 
+* Also feels like he has a very solid understanding of rails. 
+* Felt like mentor sessions wern't as helpul during module 2. Thinks its because of the material - not the mentors. 
+* Good blog posts
+* Great markdown for the portfolio!
+* Had good experiences with group projects
+* For module 3 - wants to work on personal project - cultural diversity project. Really great idea. 
+* 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
