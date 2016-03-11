@@ -1,4 +1,4 @@
-# Admir Draganovic - (M1) Portfolio
+# Admir Draganovic - (M2) Portfolio
 
 ## Individual
 
@@ -7,6 +7,12 @@
 My goal for this module was gain a solid understanding of ruby. I feel like I accomplished parts of that goal. I have improved from last module but I would like to be ahead of where I currently am as a dev student. I would also like to get more involved in community activities beyond helping individuals with specific issues. My attempt to build a relationship with Refugees on Rails is not fleshing out as quickly as I would like it to and I am beginning to realize I may have been a little too ambitious with the project.
 
 Entering module 2 I want to take a different more focused approach. I know the resources that are available to me and I need to do a better job at holding myself accountable for utilizing them. Lovisa has offered to pair with me every weekday of the module break and I need to use this as an opportunity to not only catch up to some of my peers but potentially push ahead. Module 2 will be a big challenge for me and I feel like going through it will definitively answer the question of me having what it takes to be a developer.
+
+### Goals
+
+  * 1: I want to come out of Mod 2 well rounded (Using API's, Debugging, Get good at front-end, Rails)
+  * 2: I would like to finish Mod 2 with a good idea of what I would like to do as a developer.
+  * 3: I would like to work on a initiative to assist refugees. (Refugees on rails, Piggy back onto Turing projects)
 
 ### End of Module Assessment
 
