@@ -192,34 +192,20 @@ I've played a part in the Turing community in the following ways:
 A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations.
 
-* **Result:**
-
-## B: Individual Work & Projects
-
-A Turing student works to maximize their skill growth and demonstrates
-that skill across a variety of work.
-
-* **Result:**
-
-## C: Group Work & Projects
-
-A Turing student contributes significantly to group projects, helps the team
-develop their technical skills, and delivers a high-quality product.
-
-* **Result:**
-
-## D: Community Participation
-
-A Turing student builds up the community around them by participating and
-supporting other students, the larger Turing family, and persons outside our
-walls who want to develop their own skills.
-
-* **Result:**
-
-## E: Peer & Instructor Feedback
 
 A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
 own growth by taking in and acting on the feedback of their peers and instructors.
 
+* Notes: 
+
+* Wanted to work on a side project
+* Improving testing skills - made progress on testing
+* Project management experience for little shop was a focus
+* Challenge you to give a little more critical feedback - you have a valid opinion and people will value it. 
+* Challenge you to focus on a technical blog post
+* 
+
 * **Result:**
+
+Pass
