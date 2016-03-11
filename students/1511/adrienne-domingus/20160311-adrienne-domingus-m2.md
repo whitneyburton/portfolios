@@ -133,3 +133,14 @@ Assessed by: Mike Dao
 ## Posse Challenges
 [College Scorecard](https://github.com/chadellison/posse_challenges/tree/master/college_scorecard)  
 [Other Kay Posse Challenges](https://github.com/kay-posse)
+
+
+### Notes
+
+* Paired with 1602 - good work
+* Paired with Joane Clarke students 
+* Patients is something that she struggles with and will still work on. 
+* Always willing to push what was expected of you. That is a very valuable quality
+* DTR - the way you work with people. 
+* Challenge you to bring the new people in your cohort 
+
