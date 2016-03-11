@@ -156,3 +156,19 @@ I strive to give feedback in the moment with my classmates. Below is some feedba
 * Hack Design: I attended weekly hack design lunches and attended a UX meet up with members.
 * API Meet Up: I helped set up and attended the Intro to API's meet up hosted by Turing.
 * Turing Alma Mater: I wrote and lead the school in the [Turing Alma Mater](https://vimeo.com/158586392)
+
+
+
+### Notes:
+
+* Learned a lot about git this module
+* Blogged once about git. Felt it was successful
+* Went to a meetup. 
+* Finally meeting with a mentor
+* Tutored and prework guide helper
+* TURING ALMA MATER SONG!
+
+### Outcome 
+
+Pass
+Pass
