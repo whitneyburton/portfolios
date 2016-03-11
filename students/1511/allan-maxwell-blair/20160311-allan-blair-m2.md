@@ -76,24 +76,22 @@ Below is a list of all of my project scores from Module 2.
 
 **E-Commerce website** where customers should be able to place orders and view placed order details. The site admin can manage products and categories in addition to processing and completing orders.
 
-Assessed By: TBD
+Assessed By: Andrew
 
 ##### Notes:
 
-* TBD
-* TBD
-* TBD
-* TBD
+* UI is great. Very intuitive. Only suggestion is to add link to login or create user if in opposite page
+* Extensions were great. JavaScript - Calendar - Reddit API
 
 ##### Scores:
 
-* Feature completeness: TBD
-* Views: TBD
-* Controllers: TBD
-* Models: TBD
-* Testing: TBD
-* Usability: TBD
-* Workflow: TBD
+* Feature completeness: 4
+* Views: 3
+* Controllers: 4
+* Models: 4
+* Testing: 4
+* Usability: 4
+* Workflow: 4
 
 #### Rush-hour (Chad Ellison, Admir Draganovic, Allan Blair)
 
@@ -152,6 +150,9 @@ Assessed By: Andrew
 
 >Allan is a very strong programmer. He is very aware of what his code is doing, and he is a very efficient debugger. It was rare that we would spend more than 30 minutes troubleshooting a problem during our traffic spy project. I have no doubt that Allan will become a great developer; he works very hard and has strong technical abilities. I think Allan could benefit by continuing to develop his soft skills as he works with others, specifically by communicating how he intends to tackle a problem and his thought process along the way.-**Chad Ellison**
 
+>Allan is clearly a driven person and learns quickly. He has very strong opinions and I respect that aspect of him. His assertiveness was a bit off-putting to me when working on the mini-project. I understood that his priorities lie with other projects, and that he wanted to set a boundary in order to work on those things. I just didn't feel like there was any room for negotiation and that may have come from my own desire to be accommodating. With that said, he is a solid-programmer and is a partner that you can count on to build a good-quality product.-**Erinna Chen**
+
+>One of the things that I most admire about Allan is his ability to be so forthcoming about his feelings and opinions. He tends to have a more negative view of the world than I do, and at times I think he could lighten up and not take everything so seriously, but I think he's just more critical in coming up with ideas for how things could be improved than I am. I get a lot of benefit from discussions with Allan as he often opens my eyes to new ideas and he's great at giving constructive feedback for ways that I can continue to improve my coding abilities and just myself in general. Another thing that impresses me about Allan is that he has gone all in on learning Go in addition to everything we're learning about Ruby and Rails and I can't quite comprehend how he's able to do so much. There have also been many times when he's helped me to understand a difficult concept and he's done so without making me feel like an idiot for not getting it right away.-**Kimiko Kano**
 
 ### Playing a Part
 
@@ -163,7 +164,7 @@ I've participated in the larger Turing Community in the following ways:
 * Led the following student electives:
   * [Technical Interview Prep](https://github.com/amaxwellblair/tech_interview_prac/tree/master/btrees)
   * [Introduction to Go: Introduction to concurrency](http://www.amaxwellblair.com/posts/simple_chat_app_using_golang)
-  * [Introduction to Key/Value DB in Go](#)
+  * [Introduction to key/value stores in Go](#)
 
 ### Other Requirements:
 
