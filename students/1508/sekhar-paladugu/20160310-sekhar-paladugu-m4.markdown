@@ -127,6 +127,7 @@ Emily Dowdle (1508/Module 4 Student): "Sekhar, Turing’s greatest event planner
 * Planned and booked the mountain house in Winter Park for those who opted in for 1508, and will be buying all the food/alcohol
 * During the last intermission, went to Matt Rooney's wife's school (a DSST charter middle school in Stapleton) and spoke to her students with Matt about programming at their opening assembly, and showed off our personal project apps
 * Working with Course Report/Liz Eggleston to get Chris Cenatiempo's story featured about graduating from Turing and moving to Hawaii from Kansas. Will be a neat piece once it's up!
+* Attended TAAAP (Turing Association of Asian American Programmers) events, including group lunch and local Asian American event in Stapleton organized by Joanne Liu. Excited to see where this group goes, since lots of alum and students from every module are turning out
 * Served as the assigned "culture leader" for Matsumoto Posse and corralled the group (with Erinna's help!) to restart and work through the new posse challenges all module
 * Ran a funny series of Slack bots all module to lighten the mood in various channels :P
 * Served as a facilitator for an allyship Gear Up in the middle of the module
