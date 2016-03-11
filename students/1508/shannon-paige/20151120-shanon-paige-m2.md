@@ -8,7 +8,6 @@ After finishing module 1 on such a high point, I made it my priority in module 2
 
 ### Attendance
 
-I missed three days this module.
 
 ## Individual
 
@@ -85,17 +84,17 @@ From Matt: "I really enjoyed working with Shannon on the Pivot and also collabor
 ## Community
 
 ### Giving Feedback
-For Jeff Ruane: "Pairing with Jeff was one of my best experiences at Turing. He taught me things I didn’t know, let me shine when I did know what to do, and kept me calm the whole time. What was even more impressive was that he spent an entire day working with me, even though he had no stake in the project. When I commented on this, he responded that he loved what he did, and wouldn’t be here if he didn’t. I think this attitude shines through in his attitude and in his work. Even though we aren’t in the same module, I hope I have the opportunity to work with him again."
+
 
 ### Getting Feedback
-From Jeff Ruane: "Shannon, pairing with you was really great, you're super easy to work with and I was impressed with your persistence in the face of the massive refactoring that we took on, and the many app-breaking bugs that arose out of that. You didn't seem especially comfortable with AJAX and JavaScript, but you didn't let that intimidate you, instead you seemed eager to learn more about it and that's a great quality to have. The only criticism I would give you is to work on your workflow a little bit. Overall, it was fine, but having extra `binding.pry`s and `debugger;`s in the code after you don't need them anymore can throw you off of your train of thought pretty easily. I had a great time, though, your app is super cool, and I really hope we get a chance to pair again in the future!"
+
 
 
 ### Being a Community Member
 
 #### Playing a Part
 
-This module I was a buddy for a 1511 student. I also participated in Joan Clarke and LGBT activities.
+This module I ran the "imposter lunch" group, for students who are suffering from imposter syndrome.
 
 ## Review
 
