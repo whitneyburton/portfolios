@@ -259,7 +259,16 @@ From Julian Feliciano - Kimi embodies many of the attributes that make a great d
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Participated in hackathon!
+* Did well on projects
+* Still wants to work on being assertive 
+* RushHour taught her a lot about active record
+* Great blogpost about firebase
+* Great specific feedback
+* Feedback: Just say what you think. Be confident in your feedback
+* Prework guide helper 
+* Playing the part did well
+
 
 ### Outcome
 
