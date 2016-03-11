@@ -15,7 +15,6 @@ My module 2 mission is to find myself more confident as a developer and expand m
 * Pair with a Module 1 student bi-weekly
 * Take time to connect with other students on a personal level by improving my listening and cultivating more sincere interest outside of myself
 
-### Blog post
 ---
 ## Weekly mentor sessions
 
@@ -98,6 +97,60 @@ My module 2 mission is to find myself more confident as a developer and expand m
 
 ## Evaluated Projects
 
+### Little Shop
+
+#### Team: July Tran & Brian Rippeto & Heidi Hoopes
+
+#### Assessed By:Andrew
+
+#### Notes:
+
+* When checking out if you go back without paying, cart is empty and no other way to pay for gif. Maybe drop a payment option in the orders page.
+* Some logic is leaking through in the views. Saw a formatted price, and a map for a collection dropdown box. An unnecessary variable in a path helper. Some alignment issues when items are retired. This issue is related to a conditional in the itteration of gifs.
+* In controllers some room for POROS - but generally skinny and good code. Want to look into orders_controller update for the quantity variable
+
+
+#### 1. Feature Completeness
+
+* 3: All features defined in the assignment are correctly implemented
+
+#### 2. Views
+
+* 3: Views make use of layout(s), partials and helpers, but some logic leaks through
+
+#### 3. Controllers
+
+* 3: Controllers are generally well organized with three or fewer particularly ugly parts
+
+#### 4. Models
+
+* 3: Models show an effort to push logic down the stack, but need more internal refactoring
+
+#### 5. Testing
+
+* 3: Project has a running test suite that tests and multiple levels but fails to cover some features
+
+#### 6. Usability
+
+* 3: Project is highly usable, but needs more polish before it'd be customer-ready
+
+#### 7. Workflow
+
+* 4: Excellent use of branches, pull requests, and a project management tool.
+
+#### My Little Shop evaluation notes:
+
+* view on charity index should have buttons on same height
+* order of div tag/if condition might fix the empty hole, or we can just scope the gifs to active
+* charity dropdown menu in creating a gif, pass the mapped charities instead
+* gif creator PORO
+* quantity update method for gif
+* gif creator would have the create tags method since it doesn’t belong in Gif
+* subdirectories for integration test
+* admin creates tag test shouldn’t use helper methods if you are “hiding” some of the information
+
+---
+
 ### Traffic Spy
 
 #### Team: Kimiko Kano & Brian Rippeto & Brennan Holtzclaw
@@ -147,7 +200,7 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 
 * 3: Good use of branches, pull requests, and a project-management tool.
 
-### My Rush Hour evaluation notes:
+#### My Rush Hour evaluation notes:
 
 * Good style, ui flow and functionality
 
@@ -275,7 +328,13 @@ Subjective evaluation will be made on your work/process according to the followi
 
 #### Pull Requests
 * [Good pull request](https://github.com/julyytran/gifsforgood/pull/121)
+* [Good pull request](https://github.com/julyytran/gifsforgood/pull/110)
+* [Good commit message](https://github.com/julyytran/gifsforgood/commit/7a829a6d4a033930eea21156f0a31487d10685fe)
 
-* Be descriptive yet explicit in Comments
-* Tag other users who you would like to review the issue.
-* Close issue in the subject line
+#### Read ME
+
+* [READ ME](https://github.com/julyytran/gifsforgood/blob/master/README.markdown`)
+
+#### Blog post
+
+* [Brians Blog](http://brianrip.github.io/)
