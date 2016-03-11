@@ -137,4 +137,6 @@ This module I saw my role switch dramatically in the community as I began my fir
 
 Fulfill my Dad Steve's empty shell of a life through time together. He lives his sad meaningless life vicariously through me. Its not easy, but he gives me a weekly allowance of 5$, as a 12 year old, thats a lot of money!!!!!! I participate in Kids who Kode. Not as a teacher. As a kid who kodes.
 
+Provide assistance to puny module 1'ers who feel lost in the whorlpool of vanilla ruby.
+
 
