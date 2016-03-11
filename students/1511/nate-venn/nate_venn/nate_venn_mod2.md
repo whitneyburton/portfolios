@@ -301,7 +301,12 @@ I Have supported the larger Turing Community?
 
 ### Review
 
-Notes
+#### Notes
+
+* Accomplished goals
+* Learned VIM
+* Working on communicateing and expressing where your stuck will help you improve - thinks he has improved and is working on but still needs to work on it.
+* Take more notes through projects - note uncertainties to be clear and understand them
 
 
 Outcome
