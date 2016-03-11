@@ -74,7 +74,7 @@ These were thoroughly enjoyable as well as a great learning experience. Accessin
 ### Evaluated Projects
 ## [Traffic Spy](https://github.com/amaxwellblair/rush-hour-skeleton)
 * Evaluated by Andrew Carmer
-* Notes: Notes: All base functionality except for missing payload in posting payload; implemented client registration from browser interface. Great use of testing at all levels. Make sure that you test attributes and relationships instead of just existance. Good use of POROs to delegate responsibilities.
+* Notes: All base functionality except for missing payload in posting payload; implemented client registration from browser interface. Great use of testing at all levels. Make sure that you test attributes and relationships instead of just existance. Good use of POROs to delegate responsibilities.
 
 # Scores
 * Functional Expectations
@@ -94,6 +94,27 @@ These were thoroughly enjoyable as well as a great learning experience. Accessin
 
 * View Layer
   4: Application expertly breaks components out to view partials and makes use of both built-in and custom-written view helpers.
+
+  ## [Little Shop](https://github.com/chadellison/custo_candy_co)
+  * Evaluated by Andrew Carmer
+  Notes:
+  * Logic in views, only a couple times but needs to be refactored
+  * Views also had a fair amount of conditionals
+  * Refactoring the DB design would have been very helpful
+
+  # Scores
+  * Feature Completeness
+  3: All features defined in the assignment are correctly implemented
+  * Views
+  3: Controllers are generally well organized with three or fewer particularly ugly parts
+  * Models
+  3: Models show an effort to push logic down the stack, but need more internal refactoring
+  * Testing
+  3: Project has a running test suite that tests and multiple levels but fails to cover some features
+  * Usability
+  3: Project is highly usable, but needs more polish before it'd be customer-ready
+  * Workflow
+  3: Good use of branches, pull requests, and a project-management tool.
 
 ### Playing a Part
 
