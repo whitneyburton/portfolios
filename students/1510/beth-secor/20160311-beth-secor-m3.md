@@ -218,6 +218,30 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Notes
 
+## A: End-of-Module Assessment
 
+* 4: Student achieved two or more "4s" on the assessment
+
+## B: Individual Work & Projects
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+
+## C: Group Work & Projects
+
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+
+## D: Community Participation
+
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
+
+## E: Peer & Instructor Feedback
+
+* 4: Student helps others to be their best selves while using peer feedback
+to shape their own character and behavior.
 
 ### Outcome
+
+Promoted
