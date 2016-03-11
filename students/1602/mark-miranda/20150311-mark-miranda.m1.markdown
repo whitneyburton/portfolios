@@ -18,9 +18,9 @@ Notes: Comfortably gets up and running with necessary files, writes good, small 
 
 Challenge: Baseline - Pantry, Challenge option: Shopping List
 
-* Ruby Syntax & API -  **3**
-* Completion and Progress - **3**
-* Testing - **4**
+* Ruby Syntax & API: **3**
+* Completion and Progress: **3**
+* Testing: **4**
 * Workflow: **4**
 * Collaboration: **3**
 * Enumerable & Collections: **3**
@@ -28,7 +28,7 @@ Challenge: Baseline - Pantry, Challenge option: Shopping List
 
 ### Mid Module Assessment
 
-* Ruby Syntax & API - **3**
+* Ruby Syntax & API: **3**
 * Ruby Style: **3**
 * Blocks & Enumerations: **3**
 * Testing: **4**
