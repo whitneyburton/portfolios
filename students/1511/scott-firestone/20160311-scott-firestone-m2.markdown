@@ -164,8 +164,6 @@ I've played a part in the Turing community in the following ways:
 #### Protocol:
 
 * [DTR - Little Shop](https://gist.github.com/julsfelic/1ea51f4b9a06a4a678ae)
-* [Blog post]
-* [README]
 * [Pull Request - \#1](https://github.com/scottfirestone/not_napster/pull/164)
 * [Pull Request - \#2](https://github.com/scottfirestone/not_napster/pull/66)
 
