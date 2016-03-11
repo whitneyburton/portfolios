@@ -197,4 +197,6 @@ I've participated in the larger Turing Community in the following ways:
 * Good portfolio.
 * You take things seriously and contstantly want to do your best work. Clearly you care about your work and that's impressive. 
 * Set boundries and have patients. That will go a long way. 
+* Module 2 didnt hit home - wasn't the favorite. Not his learning style.
+
 
