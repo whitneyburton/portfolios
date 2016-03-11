@@ -38,6 +38,16 @@ Below is a list of the team projects I completed this module.
 * [GitHub URL](https://github.com/ShannonPaige/comic-db)
 * [Production URL](https://salty-shore-33026.herokuapp.com)
 
+Assesment:
+* On heroku Neo4j gets hung up with more than one connection. Did something very challenging and new.
+
+
+* Completion: 3
+* Organization: 4
+* Test-driven-development: 4
+* Code-quality: 3
+* User-experience: 3
+* Performance: 1
 
 
 #### Rails Engine
@@ -83,6 +93,8 @@ Assesment:
 * Code Quality: 3+
 * Git Workflow: 3
 
+From Taylor "Before Mod 3, I didn't really know Shannon. So I didn't know what to expect starting a 2 week project with her. I couldn't have been happier with an outside source. She killed the Jquery we worked on together and she is a design genius. I loved working with her because she not only had great communication but considered all options. I'm excited to see where Shannon goes and look forward to working with her again."
+
 
 ## Community
 
@@ -90,9 +102,9 @@ Assesment:
 
 #### Playing a Part
 
-* This module I ran the "imposter lunch" group, for students who are suffering from imposter syndrome.
+* I ran the "imposter lunch" group, for students who are suffering from imposter syndrome.
 * I attended LGBT and Joan Clarke community events.
-* I also acted a facilitator for Gear-Up.
+* I acted as a Gear-Up facilitator.
 
 ## Review
 
