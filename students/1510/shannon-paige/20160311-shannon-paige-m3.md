@@ -110,8 +110,30 @@ From Taylor "Before Mod 3, I didn't really know Shannon. So I didn't know what t
 
 ### Notes
 
-( Leave blanks for reviewers )
+## A: End-of-Module Assessment
+
+* 4: Student achieved two or more "4s" on the assessment
+
+## B: Individual Work & Projects
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+
+## C: Group Work & Projects
+
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+
+## D: Community Participation
+
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
