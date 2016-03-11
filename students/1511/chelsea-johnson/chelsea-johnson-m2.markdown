@@ -9,12 +9,13 @@
 
 ### Blog Post
 
-  #### Posted on February 16, 2016
+#### Posted on February 16, 2016
 
     I've spent the last two-ish weeks learning about web tools. So far, they are pretty cool, but I also feel like the rules are more arbitrary than I'm used to (compared to learning programming languages that have mostly universal concepts). Our first tool for producing web applications was Sinatra. Today, we started exploring Rails. So far, my impression of Rails is favorable- the "rails new file_name" command that creates a million files to build your app on, the "resources :path" command that automatically creates RESTful routes with CRUD (create, read, update, delete) functionality- seem to be nice and helpful. Oh, and I also learned about RESTful routes today- contain verb and URI's to access resources. So let's see if I maintain my favorable view of Rails ;)
 
 ### Mentor Sessions
-  #### Met with Phil Battos on the following dates:
+
+#### Met with Phil Battos on the following dates:
    * 2/3/15 for 30 minutes. Worked on capybara tests for skill inventory
    * 2/17 for 30 minutes. Worked on styles for personal blog
    * 2/24 for 2 hours. Focused on drop-down menu and debugging RSpec for Tool Chest.  
@@ -141,7 +142,7 @@ The project will be assessed with the following rubric:
 
  * 4: Application expertly breaks components out to view partials and makes use of both built-in and custom-written view helpers.
 
-###### Little Shop
+##### Little Shop
 
 Evaluator: Andrew
 
@@ -185,31 +186,31 @@ For the evaluation we'll work through the expectations above and look at the fol
 
  * 4: Excellent use of branches, pull requests, and a project management tool.
 
-###### Pull Request Examples
+##### Pull Request Examples
  * Implemented cat reviews. Registered users can now review a cat. Unregistered users cannot review cats, but they are able to see the cat reviews from registered users. Added the necessary models, views, and migrations for cat reviews.
  * Added edit, update, and destroy for making cats. Added necessary links, routes, and views. Added link to make a new cat in the admin dashboard and a link to the cat show page from the cat index. Had an issue when deleting a cat tied to an order, so added "dependent: :destroy" in the cat model to resolve issue.
 
-### README
+##### README
 
-##### Project Name
+###### Project Name
 Kdrama Rating App
 
-##### About
+###### About
 
 Introductory Rails app that uses PostgreSQL.
 
-##### Installation
+###### Installation
 
 Requires Rails and Ruby. After cloning, run "bundle"
 
-##### Usage
+###### Usage
 
 View Kdramas by category or view all Kdramas.  Admins may create categories and add titles. Users may rate each Kdrama on a scale of 1-5. Most importantly, have fun!
 
-##### History
+###### History
 Inspired by a love for all things Kdrama.
 
-##### Credits
+###### Credits
 
 [Admir Draganovic](https://github.com/Draganovic)
 
@@ -217,10 +218,9 @@ Inspired by a love for all things Kdrama.
 
 ### Mid-module Assessment
 
-#### Evaluation Criteria
-
 ##### Evaluator: Rachel
 
+##### Evaluation Criteria
 
 Subjective evaluation will be made on your work/process according to the following criteria:
 
@@ -251,9 +251,9 @@ Subjective evaluation will be made on your work/process according to the followi
 
 ### End of Module Assessment
 
-#### Assessor: Rachel
+##### Evaluator: Rachel
 
-#### Notes
+##### Notes
 
 * comfortable generating migration to modify table
 * good understanding of strong params
@@ -261,7 +261,7 @@ Subjective evaluation will be made on your work/process according to the followi
 * good explanations of steps and thought process
 * started to go down path of custom method instead of using .where for active record
 
-#### Evaluation Criteria
+##### Evaluation Criteria
 
 Subjective evaluation will be made on your work/process according to the following criteria:
 
