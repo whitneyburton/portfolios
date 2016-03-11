@@ -7,17 +7,12 @@
 ### Your Mission
 
 By the end of the module, I'd like to learn the basics of Ember and build an app.
-I'd also like to come up with a sweet ass app for my personal project
+I'd also like to come up with an awesome app for my personal project.
 
-### Dan's Reflection
-
-This module was a little rough on me in my personal life.
-I did not have the time to devote to Ember but I'm pretty happy with my progress in Rails.
-On to the wonders of JavaScript next module! (Hopefully)
 
 ### End of Module Assessment
 
-Mavis Beacon
+Best Buy
 
 Assessed By: Josh
 
@@ -46,8 +41,20 @@ I have attended all classes with no absences.
 ## Individual Projects
 
 #### Stache-Yo-Self
-(Not graded)
 [GitHub URL](https://github.com/danjwinter/stache_yo_self)
+
+#### Notes
+
+* Took a lot of risks. Performance wasn't measured but it's difficult to measure in this case.
+
+#### Score
+
+* Completion - 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* Organization - 3: Developer used a project management tool to keep their project organized.
+* Test Driven Development - 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* Code Quality - 3+: Project demonstrates solid code quality and MVC principles.
+* User Experience - 3: Project exhibits a production-ready user experience.
+* Performance - 3: Project pages load on average under 400 milliseconds.
 
 #### API-Curious
 (Not graded)
@@ -64,7 +71,9 @@ I have attended all classes with no absences.
 #### Score
 * Completion - 4: Project completes all base requirements according to the spec harness.
 * Test Driven Development - 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
-* Api Design: 
+* Code Quality - 4: Project demonstrates exceptionally well factored code.
+* Api Design - 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* Queries - 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 ## Team Projects
 
@@ -72,37 +81,18 @@ I have attended all classes with no absences.
 
 * [GitHub URL](https://github.com/danjwinter/the_pivot)
 
-### Traffic Spy
-
-Group: Daniel, Steve O, and Brant
-
-Assessed By: Mike
-
-* [GitHub URL](https://github.com/danjwinter/traffic-spy-skeleton)
-
-
 #### Notes
 
-* 64 tests, 106 assertions, all passing.
-* No extensions
-* cool text entry identifier on front page
-* 96.93% test coverage
-* generally good testing, didn't test error page
-* Some opportunities to refactor, pull things out to other methods.
-* Little bit of logic leaking to the view.
+Technical Notes: controllers: skinny controllers, logic is properly pushed down the stack and operations are extracted out to private methods when necessary tests: very good tests :thumbsup: --- would need more model unit tests. models: nice, clean models, good use of the Presenter pattern views: presenter pattern :ok_hand:
+
+Client Notes: Really solid product. Added maps, optional OAuth login, Emails, and a scheduler
 
 #### Score
 
-* Overall Functionality - 3: Application fulfills base expectations
-* Test-Driven Development - 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-* Encapsulation / Breaking Logic into Components - 4: Application is expertly divided into logical components each with a clear, single responsibility
-* Fundamental Ruby & Style - 3: Application shows strong effort towards organization, content, and refactoring
-* Sinatra / Web and Business Logic - 4: Application takes advantage of all the features Sinatra has to offer and effectively separates the web application from the business logic.
-* View Layer - 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
-
-#### Dan's reflection
-
-Traffic Spy was a good starter project for working with a web application. I felt we could have pushed ourselves more but I have also received feedback that I can go too fast and that my enthusiasm for tackling new challenges can seem headstrong. I plan on working on my pacing and working better with my classmates on future projects so that we all get the most out of the experience.
+* Completion - 3: Team completed all the user stories and requirements set by the client.
+* Organization - 4: Team used a project management tool and updated their progress in real-time.
+* User Experience - 4: Project exhibits a production-ready and polished UX.
+* Extensions - 4: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature. Developers explored concepts and technologies outside the scope of the curriculum.
 
 
 ### Posse Challenges
@@ -112,60 +102,44 @@ Traffic Spy was a good starter project for working with a web application. I fel
 
 ### Giving Feedback
 
-#### Feedback to Brant from Traffic Spy
+#### Feedback to Toni For The Pivot
 
-"Brant is great partner to have on a project because he is focused, knowledgeable and fun to be around. Brant’s determination to do well and learn pushes the rest of the team towards those same goals. At times, it seems like Brant doesn’t speak up because he isn’t 100% sure about something but the reality is, none of us are 100% sure about anything programming related. If he were to voice opinions a bit more and a bit more strongly, it would help his team better clarify their vision."
+"My favorite part of working with Toni is that she made me a better coder. She took pull requests and github workflow seriously and offered great critical feedback that pushed me to think more in depth about my design decisions and the reasons behind them. She was also always willing to help tackle a bug, talk through complex problems and teach us how to CSS. Thanks Toni!"
 
-#### Feedback to Steve from Traffic Spy and Little Shop
+#### Feedback to Aaron C.
 
-"Working with Steve on two projects this module was a great experience. He’s always willing to do whatever the team needs and takes on challenges without needing to be asked. Steve is easy to work with as a pair by thinking critically about the challenge and gets things done quickly when working solo. Not only can he Rails, he can also CSS/Materialize very well. One of the things that I would to have loved was if we paired more on front end shenanigans so that I could learn more of his CSS-Fu ways."
-
-#### Feedback to Beth from Little Shop
-
-"What a project manager! Beth was on it from the beginning and ensured we maintained proper Github workflow, kept up on our waffles and didn’t let anything sneak through the cracks. She helped keep the team focused when dreams of a Stache filled world drew us off task. Beth’s programming skills and analytical mind were a huge asset to the team and she easily caught bugs that made it past our tests."
+"After my mentor informed me she no longer had the time to mentor, I’ve been leaning on mod 4 for that help and Aaron stepped in to fill some of that space. Routinely, he has, with a smile, withstood my constant badgering of questions when I see him first thing in the morning, later that afternoon or late into the night. He’s helped me on a variety of projects, even when he’s in the midst of his own challenges, and has made not having a mentor doable."
 
 ##Being a Community Member
 
 ### Receiving Feedback
 
-#### Feedback from Brant for Traffic Spy
+#### Feedback from Toni for The Pivot
 
-"Dan was a solid Project Manager on our Traffic Spy project. He has good vision of where the project is currently and where it ultimately needs to go. One suggestion for Dan is to be aware of how headstrong he is. He has strong opinions about how he things something can be implemented, and some people may interpret his enthusiasm for his ideas as a lack of flexibility. Dan often solves problems faster than others; being aware of this and helping others to the solution is a great way of continuing to build his already solid leadership skills."
+"Dan is very good at solving problems and has no problem going off on his own and using documentation to figure out a solution. I was really impressed that he got OAuth2 set up with LinkedIn basically by himself at the end of the project. I always felt comfortable when Dan took on a task because I knew he would work hard to complete it and was never worried about whether or not his code would be good. I think Dan is a valuable team member and then only thing he probably needs to improve on is his CSS skills."
 
-#### Dan's Reflection
 
-Thanks Brant, that’s definitely something I need to work on and I appreciate your candor. I’ll try to concentrate on that next module.
+#### Feedback from JP for The Pivot
 
-#### Feedback from Beth for Little Shop
+"Over the course of the last three modules, Dan is one of the people that I most looked forward to grouping with for a project. Having finally had the opportunity to work with him on the Pivot, I can say that he exceeded my ample expectations. Dan is an excellent coder who excels at logical problem solving. What most impressed me about his approach though was his eagerness to dive into new problems. Many times that I found myself feeling overwhelmed or intimidated by a new feature or tool, Dan was ready to dive in head-first. He is truly unafraid to try new things, and his eagerness to explore pays off tremendously as he delivers truly innovative code. Dan is truly one of the most intellectually curious people I've ever met, and I am truly excited to see where his passion and drive carry him in years to come."
 
-"Dan is great to pair with because he is very enthusiastic about project ideas. He thinks of ideas outside the scope of the project and works hard to implement them. I am constantly impressed by the amount of time he puts into exploring things outside of class. Sometimes he got so excited about new ideas that he lost focus on the current feature we were working on, but he told me he was working on this, and as the project went on, he became much more focused."
 
-#### Dan's Reflection
+#### Feedback from Aaron C.
 
-Particularly when I understand things well, I get bored easily and want to move on to more exciting things. I'm working on staying focused, even when things seem mundane. I want to keep on tackling new and interesting challenges but there's a time and a place for that. I need to focus more on working with my classmates to ensure they have the same understanding of concepts before moving on to larger challenges.
+"Dan not only has a great personality but is a brilliant developer. We’ve paired together on various challenges over the course of my time at Turing, and he continues to amaze me with his insight and ability. The passion Dan has for writing well structured code and continually pushing his knowledge is contagious. I can’t wait to see where he goes in his career. Any development team would be lucky to have Dan as a member."
 
-#### Feedback from Steve for Traffic Spy and Little Shop
 
-"I was able to work with Dan on both of the big projects this module, and am glad that was the case. He’s among the most intellectually ambitious and curious of our class, and is always pushing to try things in new and interesting ways. His drive to really learn the concepts pushes the whole group to learn more, and he can quickly grasp how all the parts fit together in the big picture. He’s easy to work with, and is very open to suggestions, while being willing to defend his position when warranted."
-
-#### Dan's Reflection
-
-I appreciate Steve's words but after reflecting on feedback from Brant, I worry that I don't always come off as welcome to other approaches and that I move too quickly. Balance will be key moving forward.
 
 
 ### Playing a Part
 
 #### Pairing with Thom
 
-During the first week of the module I had the opportunity to have lunch with Thom. He expressed a lot of anxiety about repeating and I offered to pair with him every Tuesday morning. He immediately took me up on it and although he will be repeating module 1, he is starting to develop better trouble shooting and problem solving skills and has a much healthier attitude towards repeating and how he can take advantage of it rather than face it as a burden.
+Thom and I have been pairing almost every Tuesday morning since he started mod 1. The first time around was a little rough but he has grown so much since then. It's been great seeing him tackle more and more difficult problems and gaining the confidence he needs to excel.
 
-Feedback from Thom regarding our sessions:
-"Dan Winter has been helping me on Tuesday mornings since my second week at Turing. Dan approached me about it while at lunch, so I didn’t even have to ask.
-He’s found where I’ve been struggling and than walked me through it. Doing an amazing job of asking pointed questions to make me think, so I can arrive at the answer rather than giving it to me."
+#### Code Colorado & Meetups
 
-#### Spreading Life in the Dungeon
-
-Sunny approached me with an idea early in the module to transform a portion of the basement into a plant haven. I loved the idea and helped execute operation Pinterest Flowerpot Post over the holiday break.
+I attended the Code Colorado event and an Ember meetup. I'd love to attend more but let's be honest, Turing takes a lot out of you and I'm hoping to not burn out before I start my career.
 
 
 ## Review
