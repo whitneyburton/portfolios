@@ -49,7 +49,19 @@ Strange behavior with socialLogin hour-by-hour breakdown and os/browser breakdow
 [Github](https://github.com/julyytran/gifsforgood)
 
 [Heroku](http://gifsforgood.herokuapp.com/)
+
+- Feature Completeness: 3
+- Views: 3
+- Controllers: 3
+- Models: 3
+- Testing: 3
+- Usability: 3
+- Workflow: 4
+
 ##### Notes
+* When checking out if you go back without paying, cart is empty and no other way to pay for gif. Maybe drop a payment option in the orders page.
+* Some logic is leaking through in the views. Saw a formatted price, and a map for a collection dropdown box. An unnecessary variable in a path helper. Some alignment issues when items are retired. This issue is related to a conditional in the itteration of gifs.
+* In controllers some room for POROS - but generally skinny and good code. Want to look into orders_controller update for the quantity variable
 
 ### Mid Module Assessment
 Evaluator: Andrew
@@ -110,6 +122,8 @@ I met with Brian Winterling during week 2, Tan Doan a couple times, and Robert G
 
  "Heidi is a dedicated worker who clearly enjoys programming and is a good partner to work with. I have learned a lot from working with Heidi because she thinks very differently from me. I like that she stands up for her ideas and I think she would benefit from working on communicating those ideas more clearly to others. She also thinks a few steps ahead, which sometimes hinders what's directly in front, but at other times is beneficial. Heidi is also a pro at git rebasing. To build on her git skills, she could work on making a habit of pulling and running tests before each work session. " -July
 
+"Working with David on our mini rails project was a real pleasure. He was an extremely collaborative partner to pair with, and his easygoing, jovial personality added to the enjoyment of pairing with him. I also really appreciate David's community involvement in environment_variables, a group focused on trying to reduce Turing's carbon impact. For future modules, I would challenge David to increase his involvement in the community and pick up a side project, as he is more than capable of achieving all these things." - July
+
 #### Feedback Received
 "July brought our group an awesome and humorous idea for our little shop project which speaks volume to the creativity and good sense of humor she brings to a team. She grasps new ideas quickly and is takes a methodical approach to writing her tests that I have made a point to emulate. I was also impressed by how involved she is in meaningful community causes while still making time to flourish in this difficult program. At times, July could benefit from describing her ideas in fashion that is more patient and open to questions.” -Brian Rippeto
 
@@ -118,6 +132,8 @@ I met with Brian Winterling during week 2, Tan Doan a couple times, and Robert G
 "July and I have partnered on several community projects here at Turing, including a student-led session on social justice in tech, planning a GearUp on “Allyship” and organizing a student group on environmental issues. She has impressed me with her insight, activism, and intelligent approach to tackling community issues. Though she has many strengths in these space, my favorite part of watching July work is seeing her engage people around her. For example, we were discussing tasks that our environmental group needed to tackle, and when a topic came up that she knew one of the students would be well-suited to, she directly called on that individual and asked if she’d be willing to take it on. It was a good fit for the group, the task and the individual, but I doubt the individual would have spoken up unprompted. July seems especially talented at identifying these matches and using her leadership to direct the resources and passions of a group toward common goals. I’m thrilled to have someone at Turing I can partner with on the issues she and I have tackled." -Beth Sebian
 
 "I can not say enough kind words about July. We got to know each other better in Mod 2 and although we haven’t worked with each other directly on a project, we have collaborated on other things. Not only is she a great student (and willing to help out anybody who needs it) but she also has great initiative in driving positive change for our community. One of her passions is environmental responsibility - which is near and dear to my heart as well. When I heard that her and Beth Sebian were starting an Environmental Responsibility club I knew I wanted to be involved. I was blown away by how great of a leader she is, and staying on top of everybody to make sure that we followed through with our goals. This led to changes in the way we recycle at school and the first student-led Gear Up session at Turing. Again this was a collaboration effort between her and Beth, but they both put in a lot of hard work. I think it was a success, and hopefully there's many more to come in the future. July also has a great personality, and anytime I’m feeling down I know I can go to her to get cheered up. She is the type of person I can see driving positive change in the world, and I’m proud to call her a friend of mine.” - Nicholas
+
+"It was really fun to work with July on our mini rails project.  I appreciated her extremely collaborative and laid back personality.  July has an amazing ability to look at a problem and take a moment to step back and think it through.  I find her community involvement to be very inspirational as well.  It's quite amazing that she started environmental variables and played a pivotal role in putting on two gear ups this module.  I would like to push July to taking on a side project as I think that she has some amazing ideas and it would be really cool to see what she comes up with." - David
 
 #### Community Participation
 I co-founded and co-lead environment_variables, I contributed and served as a facilitator for the Gear Up on allyship, and I contributed and organized the Gear Up on environmental responsibility.
