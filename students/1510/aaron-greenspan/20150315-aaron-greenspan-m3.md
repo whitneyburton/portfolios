@@ -194,6 +194,7 @@ I've participated in the larger Turing Community in the following ways:
 ### Posse Challenges
 
 * https://github.com/chadellison/posse_challenges
+* https://github.com/kay-posse
 
 ## Review
 
