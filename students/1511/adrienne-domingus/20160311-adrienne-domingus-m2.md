@@ -94,7 +94,7 @@ Assessed by: Mike Dao
 
 ## Protocols
 * [DTR Memo](https://gist.github.com/adriennedomingus/143234218987385023a6)
-* [Another Pull Request](https://github.com/adriennedomingus/feline_friends-y/commit/b4bc8cbbe101543e4e7443353e051e19dc067049)
+* [Pull Request](https://github.com/adriennedomingus/feline_friends-y)
 * [ReadMe](https://github.com/adriennedomingus/feline_friends-y)
 
 ### Community
