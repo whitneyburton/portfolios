@@ -274,4 +274,17 @@ I took part in most of the weekly improv classes.
 
 ## Portfolio Review
 
-(Hopefully that's what we're doing right now)
+### Notes
+
+* Feels like goal accomplishment fell a little short
+* Feedback - particularly giving actional feedback in really had. 
+* PODCASTS!!! awesome
+* Spoken blog - podcast - would be awesome
+* See you as a good partner/group member
+* Great mid module and final assessments
+* Final project was a big success
+* Work on confidence - you are a good programmer and are competent, so know you can do this. 
+
+### Outcome
+
+Pass
