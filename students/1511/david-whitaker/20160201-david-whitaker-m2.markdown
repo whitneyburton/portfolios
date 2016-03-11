@@ -308,4 +308,13 @@ In the future I plan to attend improv every week and do the dishes at least two 
 
 ### Notes
 
+* Great improvemenets throughout the module
+* Challenge you to style blog site
+* Think about becoming more involved
+* Think about taking on more styling
+* Start thinking about jobs, but dont stress it
+* Take on Vim over break but be weary of the learning curve and the fact it may set you back
+
+
+
 ### Outcome
