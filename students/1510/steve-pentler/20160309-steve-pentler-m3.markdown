@@ -207,4 +207,28 @@ In terms of constructive feedback, I’d say you got a little carried away with 
 
 ### Notes
 
+## A: End-of-Module Assessment
+
+* 2+: Student earned one score below "3" on the assessment
+
+## B: Individual Work & Projects
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+
+## C: Group Work & Projects
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
 # Outcome
