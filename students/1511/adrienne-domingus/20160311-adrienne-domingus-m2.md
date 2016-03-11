@@ -1,4 +1,4 @@
-# Adrienne Domingus - M1 Portfolio
+# Adrienne Domingus - M2 Portfolio
 
 ## Mission and Goals
 * Write cleaner code from the start
@@ -28,33 +28,51 @@
 ### Little Shop
 
 #### Scores  
+**Feature Completeness:** 4  
+**Views:** 3  
+**Controllers:** 4  
+**Models:** 4  
+**Testing:** 4  
+**Usability:** 4  
+**Workflow:** 4  
 
 #### Notes
+* UI is great. Very intuitive. Only suggestion is to add link to login or create user if in opposite page  
+* Extensions were great. JavaScript - Calendar - Reddit API
+* Had one custom action - could have pulled it out into a sub-controller
 
 ### Mid-Module Diagnostic
 
-**Analytic/Algorithmic Thinking**: 3.5
-**Ruby Syntax & Standard Ligrary**: 3
-**Rails Syntax & API**: 4
-**Rails Style**: 3
-**Testing**: 3
-**Collaboration**: 4
+Assessed by: Rachel Warbelow
+
+**Analytic/Algorithmic Thinking**: 3.5  
+**Ruby Syntax & Standard Ligrary**: 3  
+**Rails Syntax & API**: 4  
+**Rails Style**: 3  
+**Testing**: 3  
+**Collaboration**: 4  
 
 ### Final Assessment
 
+Assessed by: Mike Dao
+
+**Notes:**
+* Good testing instincts
+* Knows how to navigate throughout rails confidently
+
+**Analytic/Algorithmic Thinking**: 3  
+**Ruby Syntax & Standard Ligrary**: 4  
+**Rails Syntax & API**: 4  
+**MVC & Rails Style**: 4  
+**Testing**: 3  
+**Collaboration**: 4
+
 ## Non Evaluated Projects
 
-### Sinatra CRUD
-[Skills Inventory](https://github.com/adriennedomingus/skill_inventory)
-
-### Tool Chest
-[Tool Chest](https://github.com/adriennedomingus/tool_chest)
-
-### Mix Master
-[Mix Master](https://github.com/adriennedomingus/mix_master)
-
-### Rails Mini Project
-[Turing Partnerships](https://github.com/hhoopes/turing_partnerships)
+[Skills Inventory](https://github.com/adriennedomingus/skill_inventory)  
+[Tool Chest](https://github.com/adriennedomingus/tool_chest)  
+[Mix Master](https://github.com/adriennedomingus/mix_master)  
+[Rails Mini Project](https://github.com/hhoopes/turing_partnerships)
 
 ## Blog Posts
 [Testing a Sinatra App with Capybara](http://adriennedomingus.github.io/2016/02/06/testing-a-sinatra-app-using-capybara.html)  
@@ -90,6 +108,8 @@
 
 "Adrienne is the full package: strong organization, algorithmic thinking, and creativity. This was demonstrated by her leadership role in the Little Shop Project were we successfully completed base functionality several days ahead of schedule. Adrienne can continue to work on stepping out of the box. Given her high level of performance she can expertly stay with in the lines even if client requirements require her to jump through hoops. This may not always be the right answer and should be weighed with skepticism given she is the expert."**-Allan Blair**
 
+"Adrienne is a solid developer that any team would be lucky to have. She demonstrates excellent problem solving skills and is comfortable taking on new challenges. She always took time to "DTR" with me, and was happy to explain any concepts I did not understand. Adrienne was an excellent project manager; she always mindful of the group dynamic, maintained our waffle.io board,  and took steps to resolve any miscommunications. Occasionally Adrienne appeared dismissive of the other group member's ideas (even if they were terrible and deserved to be dismissed). Next time, Adrienne could explain why the idea could not be implemented. I really enjoyed working with Adrienne and look forward to our next collaboration!"**-Chelsea Johnson**
+
 ## Feedback For Others
 
 * **Chelsea Johnson:** "Chelsea is an awesome teammate. Not only is she strong technically, but she has a sense of humor and attitude that makes work time enjoyable. When we hit snags, Chelsea is open to other people's ideas and provides her own, resulting in a better end result than either of us could have produced independently, and she consistently follows through with the work she commits to. One area of growth for Chelsea would be her willingness to try new things, even if she's not sure how they work - once she starts, she clearly has the ability to research and tinker until she gets things working, but has unnecessary nervousness about jumping in. Great pairing experience!"  
@@ -100,7 +120,7 @@
 
 * **Adam Hundley:** "Adam was great to work with - an excellent thought partner when pairing or troubleshooting, in addition to being reliable and thorough when dividing and conquering. I appreciated his consistently positive attitude and strong work ethic - it's a powerful combination, and I hope to have the opportunity to pair with him again."  
 
-* **July Tran:** "July was great with maintaining a positive work environment when we were together. I know she had a lot going on in her life that week, but I felt like her follow through on some of the divide and conquer tasks was incomplete, and I would have liked her to have been more engaged when we were pairing together, even if Adam or I was driving. Overall, her understanding of the work seemed complete, and she were reliably present when we needed her, and I appreciated her note-taking and debugging on the final sprint!"Â
+* **July Tran:** "July was great with maintaining a positive work environment when we were together. I know she had a lot going on in her life that week, but I felt like her follow through on some of the divide and conquer tasks was incomplete, and I would have liked her to have been more engaged when we were pairing together, even if Adam or I was driving. Overall, her understanding of the work seemed complete, and she were reliably present when we needed her, and I appreciated her note-taking and debugging on the final sprint!"
 
 ## Participation
 
