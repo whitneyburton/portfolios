@@ -110,16 +110,23 @@ This project came out great! I'm so proud of our work. I carried us the first bi
 
 I should also mention here that we helped improve the Markdown for the project with pull requests, as well as the test harness, so we acquired at least two "influence points." We also chose not to do the analysis layer since Josh asked us to help the groups that were struggling the final night, so I alone spent 3-4 hours with groups that were struggling over the course of the day, instead of working on that section.
 
-* [GitHub URL]()
-* [Original Assignment]()
+* Names: Sekhar Paladugu & Penney Garrett
+* Github: https://github.com/PenneyGadget/headcount
+* Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown
 
-(description)
+Notes:
 
-(evaluation comments)
+* Testing needs more thought
+* Test for robustness of an application
+* Needs refactoring of chained enumerables.
 
-3 / 3 / 3 / 3
+Scores:
 
-(feedback to me)
+* Overall Functionality: 3
+* Enumerables: 3
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic Into Components: 3
 
 #### Enigma
 
@@ -179,16 +186,17 @@ I am so grateful to have worked with Penney by the end of this, which is the opp
 
 ### Being a Community Member
 
-"Sekhar has been my rock during this program. Any time I thought I would freak out, he would say something funny and put everything in perspective. During "programming is fun" I thought I would pull my hair out, but his ability to keep me level headed is the only reason we were able to get through it. Thank you for being a friend." - Shannon/feedback from a programming exercise in class
+#### Shannon/feedback from a programming exercise in class
+"Sekhar has been my rock during this program. Any time I thought I would freak out, he would say something funny and put everything in perspective. During "programming is fun" I thought I would pull my hair out, but his ability to keep me level headed is the only reason we were able to get through it. Thank you for being a friend."
 
+#### Penney/feedback from Headcount
 "You are the kind of partner everyone wishes they had. I consistently felt supported and heard, and whenever the going got tough you easily and rationally talked us through it. Pairing with you on Headcount absolutely made me a better and more confident programmer. You are easy to communicate with, you were always making me laugh, you respected every personal boundary I needed along the way... this was an intense and difficult project that I ended up really enjoying because I got to build it with you. I am proud of this project and feel ownership over it in a way I haven't yet felt about any other project. Thanks so much friend!"
-- Penney/feedback from Headcount
 
+#### Torie/general feedback
 "Sekhar has had a very positive impact on our cohort. He is incredibly supportive of all of us, and is always quick to offer a cookie, hug, or caffeine. He seems to pick up concepts very quickly and is very good at identifying the parts of a problem he needs to figure out. He has also played a huge role in bringing our cohort closer together through his friendly and upbeat personality and his efforts organizing events outside of class."
-- Torie/general feedback
 
+#### Lovisa/general feedback
 "Seeing you always makes me happy, I can see that you are a real asset not only for your cohort but also people in the community. I enjoyed working with you and Penney the other day, it’s great that you trust yourself and the directions in which you want to take your code. Would love to work more with you!"
-- Lovisa/general feedback
 
 ### Playing a Part
 
@@ -208,8 +216,6 @@ Actually cleaning up on my posse duty during finals week...feeding Josh Cheek an
 ## Review
 
 ### Notes
-
-
 
 ### Outcome
 

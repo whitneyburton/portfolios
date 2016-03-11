@@ -291,6 +291,8 @@ To JP - "JP is a strong coder and problem solver. He is very quiet and reserved,
 
 ## Review
 
+### Notes
+
 * Strong assessment
 * Initial projects showed some good results but not enough
 completion and progress
