@@ -214,8 +214,11 @@ ___
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 4
+* Individual Work and Projects: 4
+* Group Work and Projects: 4
+* Community Participation: 4
+* Peer and Instructor Feedback: 3
