@@ -77,6 +77,22 @@ feedback:
 
 **Assessor:** Mike Dao
 
+Subjective evaluation will be made on your work/process according to the following criteria:
+1. Analytic/Algorithmic Thinking
+    3: Developer breaks complex problems into small, digestible steps and executes them
+2. Ruby Syntax & Standard Library
+    2: Developer is able to write Ruby with some debugging of fundamental concepts; solution works but is messy or does not use the best tools for the job
+3. Rails Syntax & API
+    3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
+4. MVC & Rails Style
+    3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+5. Testing
+    3: Developer writes tests at multiple layers of abstraction to drive development with guidance
+6. Collaboration
+    4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+ **Assessor:** Rachel and Andrew
+
 ### Mid Module Assessment
 
 **Assessor:** Rachel Warbelow
