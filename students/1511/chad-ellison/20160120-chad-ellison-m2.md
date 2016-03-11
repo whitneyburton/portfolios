@@ -34,7 +34,7 @@ I was present for the entire module.
 * Mentor session with Jay Hayes on routes and controllers-- February 3, 2016
 * Mentor session with Trey Tomlinson on Git and GitHub workflow-- February 8, 2016
 * Mentor session with Jay Hayes regarding Poker app; constructed tests and hand analysis-- February, 17, 2016
-* Mentor sessin with Trey Tomlinson on Making Poker app a rails app; researched other similar apps, discussed structure, and created repo with initial commit-- March 4, 2016
+* Mentor session with Trey Tomlinson on Making Poker app a rails app; researched other similar apps, discussed structure, and created repo with initial commit-- March 4, 2016
 [Straight up Poker](https://github.com/chadellison/straight_up_poker)
 
 ###Blog Posts this Module
