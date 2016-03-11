@@ -186,3 +186,21 @@ them by delivering specific, kind, and actionable feedback. They accelerate thei
 own growth by taking in and acting on the feedback of their peers and instructors.
 
 * **Result:** ? -- <  >
+
+
+### Notes: 
+
+* Goals were roughly attained 
+* Still wants to get more competant at JS
+* Blog posts are valuable 
+* Met with Mentor
+* Working on little shop was a good experience - good to get in the flow
+* Good partner - people like workign with you.
+* Have a good eye for insight
+* Experienced with soft skills - trying to learn as much as possible as fast as possible so sometimes the feedback is that you 'steamroll' others. Just DTR that
+
+
+### Outcome 
+
+Pass
+
