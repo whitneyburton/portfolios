@@ -338,3 +338,12 @@ Subjective evaluation will be made on your work/process according to the followi
 #### Blog post
 
 * [Brians Blog](http://brianrip.github.io/)
+
+
+### Notes: 
+
+* Accomplished most goals except bring personal site back up
+* Paired with mod1 student
+* Challenge you to bring more confidence in yourself and idea to the table. 
+* Had a good posse experience 
+* Has a good percpective
