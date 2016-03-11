@@ -185,3 +185,12 @@ Subjective evaluation will be made on your work/process according to the followi
 
 ### 6. Collaboration
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+
+### Notes: 
+
+* Feels like goals were pretty much accomplished
+* Feels good with basic ActiveRecord
+* Work on not getting tunnel vision when you have problems
+* Focus on modeling your databases
+* 
