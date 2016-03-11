@@ -198,8 +198,10 @@ I am one of the most active members of the elixir club and have been doing event
 
 ### Outcome
 
-* End of Module Assessment:
-* Individual Work and Projects:
-* Group Work and Projects:
-* Community Participation:
-* Peer and Instructor Feedback:
+* End of Module Assessment: 3
+* Individual Work and Projects: 4
+* Group Work and Projects: 3
+* Community Participation: 4
+* Peer and Instructor Feedback: 3
+
+Promoted
