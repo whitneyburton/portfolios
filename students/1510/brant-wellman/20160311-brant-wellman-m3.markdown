@@ -223,8 +223,8 @@ ___
 
 ### Outcome
 
-* End of Module Assessment:
-* Individual Work and Projects:
-* Group Work and Projects:
-* Community Participation:
-* Peer and Instructor Feedback:
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 4
+* Peer and Instructor Feedback: 4
