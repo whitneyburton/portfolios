@@ -4,15 +4,8 @@
 
 ### Your Mission
 
-My goal this module is to get a real sense of what I'm passionate about in programming.
-Is my future in machine learning? Or in web development for a product company? Or
-at a consulting firm?  Do I enjoy the ambiguity of open ended projects, or the structure
-of something more organized.
+My goal this module was to gain a better understanding of how api's can be used in the rails framework. I wanted to be proficient in understanding how to create and work with api's. 
 
-I'd like to learn more about hardware, front end frameworks, AI and NLP.  I'd like to continue
-developing Risk in Phoenix.  Yeah.
-
-Medium Blog: https://medium.com/@afg419/some-thoughts-on-mathematics-and-programming-1e00be8b5dc7#.l5gmplrre
 
 ### Attendance
 
@@ -117,8 +110,17 @@ Notes: Overall a good project. Rake tasks didn't work. Had to fix them during th
 * queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Self Directed Project
-
 **Make something awesome using APIs!**
+
+*repo: https://github.com/edgarduran/snow-dashboard
+  instructor: Lovisa
+  notes: UI has some gaps, the text is difficult to read, slow load times, good feature tests, should have more service tests and controller tests (test in integration and isolation),
+* completion: 3
+* organization: 3
+* test-driven-development: 2 (controller tests and service tests)
+* code-quality: 3
+* user-experience: 2 (simple is better)
+* performance: 3
 
 
 ## Community
