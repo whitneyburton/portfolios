@@ -123,7 +123,7 @@ _Evaluator_
 Horace Williams
 
 *Test suite shows a good variety of cases, covering edge cases and escalating the complexity
-*Tests are pretty standard across the 3 sorting algos; might have been interesting to look at pulling out more methods for each also so those could be tested more specifically
+*Tests are pretty standard across the 3 sorting algos; might have been interesting to look at pulling out more methods for each algo so those could be tested more specifically
 *Algos are cleanly implemented and follow the algorithm description cleanly
 *Benchmarking infrastructure is in place and has some basic benchmarks; would be nice to see more benchmarks across wider set of inputs
 
@@ -187,7 +187,7 @@ Score: 3
   ```
  Finished in 2.2 seconds (files took 0.82601 seconds to load)
  80 examples, 0 failures, 13 pending
- 
+
 ```* Many pending
 * Test harness: (8/23) -- 23 runs, 104 assertions, 3 failures, 5 errors, 0 skips
 * 7 files under 80% coverage
