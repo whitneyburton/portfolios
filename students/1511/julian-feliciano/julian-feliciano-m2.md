@@ -294,6 +294,13 @@ all agreed for it to be timely and honest
 
 * [Github](https://github.com/julsfelic/rush-hour-skeleton)
 
+# Playing a part
+
+* Actively paired with 1602 students
+* Led a student led sessions along with organizing a weekly Node / JS meetup
+* Got involved with the Denver meetup community
+* Focused on being a team leader and helping my teammates with their technical challenges
+
 ## Goals
 
 1. Digging into the guts of Sinatra & Rails. I have a decent background on both and would like to know more about how they work and the latest updates to Rails (Rails 5).
