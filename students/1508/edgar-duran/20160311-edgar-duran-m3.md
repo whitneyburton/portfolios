@@ -145,7 +145,7 @@ I've participated in the larger Turing Community in the following ways:
 
 * https://github.com/Salvi6God/Enumerables
 
- * https://github.com/thompickett/codebreaker
+* https://github.com/thompickett/codebreaker
 
 * https://github.com/brianrip/posse_challenges/tree/master/people_db
 
