@@ -113,6 +113,8 @@ Kris Foss (1602/Module 1 Student/Matsumoto Posse): "Sekhar has been a great ment
 
 Adam Jensen (1508/Module 4 Student/Project Partner): "I recently paired with Sekhar on Bartleby. Sekhar is a great partner that is much better at time management and getting things done that I am. I really appreciate his ability to balance jokes and work. Honestly, I dont thinkk I’ve ever joked around that much on a project (Probably a bad thing). To go a bit further. I personally struggled during Bartleby. Sekhar is probably the only reason I got anything done. I know he had other things to do as well, but he was diligent in helping out and pulling his weight. I would fully endorse Sekhar as a partner and programmer."
 
+Amber Crawford (1508/Module 4 Student/Project Partner): “Sekhar was the perfect partner for our GameTime project!  He is a natural leader and really stepped up on this project keeping us on track and thinking about the big picture throughout.  When I would start to stray down an inefficient work-path, he would always be the first to take a step back and ask the important questions to move our work onto a better path.  More than that, he has been an amazing and essential member of the Turing community and I am so happy to have been able to work with him throughout our 4 modules.  Can’t wait to see where he goes next!"
+
 Torie Joy-Warren (1508/Module 4 Student): "Oh Sekhar. He knows when to ask for help, and he’s always willing to give it. If he can’t help, he always knows what or whose direction to point you in. He’s been key to the cohesion of 1508 and is incredibly inclusive. He will make Turing proud in the real world."
 
 Emily Dowdle (1508/Module 4 Student): "Sekhar, Turing’s greatest event planner, fundraiser and connector. Sekhar never hesitates to jump in and lend a helping hand when I need help. He deeply cares about the wellbeing of those around him and it shows. Sekhar was the first to point out my weakness with pair programming in Module 1 and his honest feedback helped me to grow and improve. I’m grateful to have met him and hope to work with him in the future."
@@ -125,6 +127,7 @@ Emily Dowdle (1508/Module 4 Student): "Sekhar, Turing’s greatest event planner
 * Planned and booked the mountain house in Winter Park for those who opted in for 1508, and will be buying all the food/alcohol
 * During the last intermission, went to Matt Rooney's wife's school (a DSST charter middle school in Stapleton) and spoke to her students with Matt about programming at their opening assembly, and showed off our personal project apps
 * Working with Course Report/Liz Eggleston to get Chris Cenatiempo's story featured about graduating from Turing and moving to Hawaii from Kansas. Will be a neat piece once it's up!
+* Attended TAAAP (Turing Association of Asian American Programmers) events, including group lunch and local Asian American event in Stapleton organized by Joanne Liu. Excited to see where this group goes, since lots of alum and students from every module are turning out
 * Served as the assigned "culture leader" for Matsumoto Posse and corralled the group (with Erinna's help!) to restart and work through the new posse challenges all module
 * Ran a funny series of Slack bots all module to lighten the mood in various channels :P
 * Served as a facilitator for an allyship Gear Up in the middle of the module

@@ -219,3 +219,27 @@ I regularly attend outside activities with other members of Turing as a whole, i
 ### ReadMe  
 [README.md](https://github.com/martensonbj/what_are_the_odds)
 Part of the emphasized workflow this module was getting familiar with what a good README.md file looks like. The following is an example of a README that is a thorough representation of the project it describes.  
+
+## A: End-of-Module Assessment
+
+* 2: Student earned one score below "3" on the assessment
+
+## B: Individual Work & Projects
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+
+## C: Group Work & Projects
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.

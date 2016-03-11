@@ -33,6 +33,21 @@ I participated in the following team projects:
 * [Original Assignment] https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md
 
 In this project, we built upon an existing implementation of Little Shop. We transformed our restaurant ordering site into a platform that handles multiple, simultaneous businesses. Each business had their own name, unique URL pattern, items, orders, and administrators.
+### Scores
+
+#### Client Scores
+
+* Completion: 3: Team completed all the user stories and requirements set by the client.
+* Organization: 4: Team used a project management tool and updated their progress in real-time.
+* User Experience: 2: Project exhibits some gaps in the UX.
+* Extensions: 1: Developers but did not build any extensions.
+
+#### Technical Scores
+
+* Test-Driven Development: 3
+* Code Quality: 3
+* Git Workflow: 4
+
 
 #### Api Curious
 
@@ -53,12 +68,38 @@ As we build these features, we'll also be working with the OAuth protocol to aut
 
 In this project, you will use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 
+Assessor: Lovisa
+
+Notes:
+
+all methods implemented expect "best day associated with one item"
+extensive testing, could improved organization within the test to increase readability
+Very restful API, well designed and well organized
+only SQL for your queries :thumbsup:
+repo: https://github.com/Jpease1020/Rails-Engine-2
+completion: 4
+test-driven-development: 4
+code-quality: 4
+api-design: 4
+queries: 4
+
 #### Self Directed Project
 
 * [GitHub URL] - https://github.com/Jpease1020/Bus-or-Uber
 * [Original Assignment] - https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md
 
 The goal of this project is to create a successful web application from a project idea. You will create an app that will authenticate with a third-party service, consume an api, and solve an actual problem.
+
+* scores
+* instructor: Tess
+
+ notes: Something broke last night with the api, not sure what it is, but I've seen the app work
+ completion: 3: Developer completed all the user stories and requirements set by the client.
+ organization: 3: Developer used a project management tool to keep their project organized.
+ test-driven-development: 3: Project shows adequate testing (90% - 95% coverage). (needs JS tests)
+ code-quality: 3: Project demonstrates solid code quality and MVC principles.
+ user-experience: 3: Project exhibits a production-ready user experience.
+ performance: 3: Project pages load on average under 400 milliseconds.
 
 #### End of Module Assessment
 
