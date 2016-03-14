@@ -293,6 +293,11 @@ Subjective evaluation will be made on your work/process according to the followi
 
 ### Notes
 
-
+* Accomplished most goals
+* Still wants to work on styling and bootstrap
+* Challenge you to be more assertive
+* Great improvement throughout the module
+* Felt module 2 was effective for her
+* 
 
 ### Outcome
