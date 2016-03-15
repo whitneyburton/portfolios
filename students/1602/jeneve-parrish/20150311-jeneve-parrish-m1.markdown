@@ -226,4 +226,4 @@ own growth by taking in and acting on the feedback of their peers and instructor
 * 4: Student helps others to be their best selves while using peer feedback
 to shape their own character and behavior.
 
-OUTCOME: PROVISIONAL, Pending completion of Night Writer due on Tuesday, 10am.
+OUTCOME: PROMOTED
