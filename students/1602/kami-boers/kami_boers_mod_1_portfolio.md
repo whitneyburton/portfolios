@@ -297,4 +297,4 @@ own growth by taking in and acting on the feedback of their peers and instructor
 * 3: Student consistently delivers meaningful feedback for peers and implements
 strategies to improve themselves in response to feedback.
 
-OUTCOME: PROVISIONAL - complete a project by Tuesday 10am. 
+OUTCOME: PROMOTED
