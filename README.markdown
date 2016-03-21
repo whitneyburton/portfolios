@@ -21,19 +21,16 @@ Here are some notes about expectations for this cycle:
 
 ### Module 1
 
-* Individual Assessment: Yes
-* Required Project: Final Project (Headcount / Black Thursday)
+* Individual Assessment: Passing Score (All 3's) required
+* Required Project: Final Project (Headcount / Black Thursday) -- Passing Score (All 3's) required
 * Included Projects: All individual and paired projects
 * Instructor Pairing Feedback: At least 1 session from during the module
-* Posse challenges (4/5)
 * Feedback: Self-Solicited and from Feedback App
 
 __Soft Skills / Protocol Requirements__
 
 1. 1 DTR memo from a project during the module
-2. 1 Blog post
-3. 2 examples of well-written pull requests
-4. 1 example of a well-written project readme
+2. 1 example of a well-written project readme
 
 ### Module 2
 
