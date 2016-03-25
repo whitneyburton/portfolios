@@ -9,7 +9,7 @@ A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations.
 
 * 4: Student achieved two or more "4s" on the assessment
-* 3: Student achieved a "3" or better on each category of the assessment
+* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
 * 2: Student earned one score below "3" on the assessment
 * 1: Student earned two or more scores below "3" on the assessment
 
