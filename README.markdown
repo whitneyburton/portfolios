@@ -34,12 +34,12 @@ __Soft Skills / Protocol Requirements__
 
 ### Module 2
 
-* Evaluation notes
-* Mentor sessions (>=3)
+* Evaluation notes - You need to take notes during assessments/evaluations
 * Blog post (>=1)
 * Self-solicited continual peer feedback
 * Posse challenges (4/5)
-* Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master, Rails Mini Project
+* Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master
+* Peer evaluated projects:  Rails Mini Project
 * Evaluated projects: Traffic Spy, Little Shop
 * Assessments: mid-module, final
 
