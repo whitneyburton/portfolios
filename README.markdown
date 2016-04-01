@@ -38,10 +38,10 @@ __Soft Skills / Protocol Requirements__
 * Blog post (>=1)
 * Self-solicited continual peer feedback
 * If you're in a posse - please include:
-  * a blurb about what you did with you're posse over the module
+  * a blurb about what you did with your posse over the module
   * your favorite thing about the posse experience
-  * something you would do differently next time
-  
+  * how has your posse experience helped you grow as a professional?
+
 * Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master
 * Peer evaluated projects:  Rails Mini Project
 * Evaluated projects: Traffic Spy, Little Shop
