@@ -60,8 +60,8 @@ __Soft Skills / Protocol Requirements__
 * Individual Assessment: Only if needed
 * Required Project: GameTime
 * Included Projects: RealTime, ScaleUp
+  * Should include points breakdown per project
 * Feedback: Self-Solicited
-* Posse challenges (4/5)
 
 ## Authoring Process
 
