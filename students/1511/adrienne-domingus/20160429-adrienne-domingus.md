@@ -1,7 +1,7 @@
 # Adrienne Domingus - M3 Portfolio
 
 ## Mission and Goals
-* Create products that I'm proud of, 
+* Create products that I'm proud of,
 
 ## Evaluation Notes
 
@@ -68,6 +68,10 @@ Assessed by:
 ## Peer Feedback
 
 ## Feedback For Others
+
+**Brian Rippeto** "Great pairing experience with Brian. He showed an impressive commitment to learning throughout the project, actively seeking to take on parts of the project he wasn't sure he knew how to do and asking questions, and showed a lot of growth. Brian was also very responsive to all communication and generous with his time to make sure everyone on the team had what they needed to move forward. One thing he could work on is his comfort in researching and finding what he is looking for in documentation, and being willing to try brand new things independently, even if we hadn't been taught."
+
+**Scott Firestone** "Scott was fun to pair with. He showed a lot of dedication to creating a high quality product and and awesome UX, and has strong technical and problem solving abilities. He was very thorough and observant both in the work that he produced, and in reviewing others' work, and saved us some headaches because of it! One thing Scott could work on (which he is already conscious of and working on), is his work habits and ability to focus on the task at hand without getting distracted."
 
 
 ## Participation
