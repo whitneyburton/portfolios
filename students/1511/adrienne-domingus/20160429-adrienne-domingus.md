@@ -67,6 +67,8 @@ Assessed by:
 
 ## Peer Feedback
 
+"Working with Adrienne was an absolute pleasure. She epitomizes the ideal teammate: hard-working, collaborative, deeply intelligent, and with a positive attitude. She was never afraid to tackle difficult features, integrating javascript and other extensions while helping to teach her teammates along the way. She is so incredibly hard-working that I fear she may eventually suffer burnout, but assuming it continues to bring her joy, Adrienne will be an awesome developer." **-Scott Firestone**  
+
 ## Feedback For Others
 
 **Brian Rippeto** "Great pairing experience with Brian. He showed an impressive commitment to learning throughout the project, actively seeking to take on parts of the project he wasn't sure he knew how to do and asking questions, and showed a lot of growth. Brian was also very responsive to all communication and generous with his time to make sure everyone on the team had what they needed to move forward. One thing he could work on is his comfort in researching and finding what he is looking for in documentation, and being willing to try brand new things independently, even if we hadn't been taught."
