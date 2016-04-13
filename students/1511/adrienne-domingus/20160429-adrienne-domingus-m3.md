@@ -33,16 +33,12 @@ Assessed by: Nate Allen
 * **Extensions**: 4
 
 ### API Curious
-[Project Repo]  
-[Original Project Spec]
-
-#### Scores  
-
-#### Notes
+[Project Repo](https://github.com/adriennedomingus/api_curious)
+[Original Project Spec](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
 ### Rails Engine
-[Project Repo]
-[Original Project Spec]
+[Project Repo](https://github.com/adriennedomingus/rails_engine)
+[Original Project Spec](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
 
 #### Scores  
 
