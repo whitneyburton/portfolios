@@ -42,7 +42,22 @@ Assessed by: Nate Allen
 
 #### Scores  
 
+**Feature Delivery**
+
+* **Completion**: 4
+
+**Technical Quality**
+
+* **Test-Driven Development**: 4
+* **Code Quality**: 4
+* **API Design**: 3
+* **Queries**: 4
+
 #### Notes
+
+* Controller organization is obvious: think about how to reduce some of the duplication
+* Use serializers instead of built in Rails JSON functions to maintain data integrity, reduce formatting in model methods - move view functionality out of the model
+* Good use of ActiveRecord instead of SQL
 
 ### Self-Directed Project
 [Project Repo]  
@@ -64,6 +79,8 @@ Assessed by:
 ## Peer Feedback
 
 "Working with Adrienne was an absolute pleasure. She epitomizes the ideal teammate: hard-working, collaborative, deeply intelligent, and with a positive attitude. She was never afraid to tackle difficult features, integrating javascript and other extensions while helping to teach her teammates along the way. She is so incredibly hard-working that I fear she may eventually suffer burnout, but assuming it continues to bring her joy, Adrienne will be an awesome developer." **-Scott Firestone**  
+
+"Adrienne is a coding machine with a sense of humor to boot. I can honestly say that she is the most driven developer I have paired with and has the smarts to compliment her work ethic. Her red green refactor coding habits are excellent. She does not get caught up in ambivalence when writing tests or making them pass the first time around and has the refactoring skills to compliment her aptitude for production. My suggestion for Adrienne is to maintain her tenacity but exercise patience to write robust tests before diving in." **-Brian Rippeto**
 
 ## Feedback For Others
 
