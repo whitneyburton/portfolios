@@ -25,24 +25,40 @@ Category | Score
 
 Category | Score
 --- | ---
+Analytic/Algorithmic Thinking | 3.5
+Ruby Syntax & Standard Library | 3
+Rails & Syntax and API | 3.5
+Rails Style | 3
+Testing | 3
+Collaboration | 4
 
 ### Work
 
-#### Black Thursday
+#### Rush Hour
 
-* [Github URL] (https://github.com/theonlyrao/black_thursday)
-* [Original Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [Github URL] (https://github.com/marinacor1/RushHour)
+* [Original Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
-The purpose of this project was to create a program that would read CSV files and perform analytical operations across diverse data sets.
-
-...
-
-**Andrew evaluated this project with the following results:**
+The purpose of this project was to create an app using Sinatra that could track web traffic at a particular url by parsing data loaded into the app through the command line.
 
 ...
+
+**Rachel evaluated this project with the following results:**
 
 Category | Score
 --- | ---
+Functional Expectations | 3
+TDD | 3
+Encapsulation | 4
+Fundamental Ruby & Style | 3
+Sinatra / Web & Business Logic | 3.5
+View Layer | 3.5
+
+**Notes**
+
+* all base functionality implemented correctly
+* use the built-in relationship for payload_requests instead of PayloadRequest.where(client_id: self.id)
+* views are good for the most part
 
 #### Other related items
 
@@ -70,7 +86,8 @@ Category | Score
 ## Community
 
 * frequently helped Mod 1 students with ad hoc questions
-* participated in formal 1:1 paring sessions with Mod 1 students on
+* participated in formal 1:1 paring sessions with Mod 1 students on April 12 and April 26
+* started "SQL-ERS" during Tuesdays at lunch to work on SQL queries with other students
 
 #### Extra-Turing Involvement
 
