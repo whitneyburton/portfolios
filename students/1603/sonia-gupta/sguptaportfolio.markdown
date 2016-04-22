@@ -1,4 +1,4 @@
-# (Sonia Gupta) - (M1) Portfolio
+# Sonia Gupta - M1 Portfolio
 
 ## Individual
 
