@@ -59,14 +59,12 @@ View Layer | 3.5
 * all base functionality implemented correctly
 * use the built-in relationship for payload_requests instead of PayloadRequest.where(client_id: self.id)
 * views are good for the most part
+* In general, testing could have been made more efficient by using create methods in models instead of using Capybara to create instances. Also by using helper methods to create multiple instances to DRY up the code.
 
 #### Other related items
 
-* Lightning Talk - *Applying Fundamentals of Ecommerce Marketing*, Mar 25, 2016
+
 * [Blog post](http://theonlyrao.com/2016/02/27/ways-of-thinking/)
-* [Readme (NightWriter)](https://github.com/theonlyrao/hw/tree/master/night_writer)
-* [DTR memo](https://gist.github.com/theonlyrao/4445c3e949222d38df6c)
-* [Pull request](https://github.com/theonlyrao/black_thursday/pull/23)
 
 =======================================
 
@@ -85,9 +83,17 @@ View Layer | 3.5
 
 ## Community
 
+* Lightning Talk - *Applying Fundamentals of Ecommerce Marketing*, Mar 25, 2016
 * frequently helped Mod 1 students with ad hoc questions
 * participated in formal 1:1 paring sessions with Mod 1 students on April 12 and April 26
 * started "SQL-ERS" during Tuesdays at lunch to work on SQL queries with other students
+* Hamilton Posse review:
+
+This module, the Hamilton posse used React Native to create a Turing app. By the end of the module, we had created an app that would scrape today.turing.io and present the content for each module in the app. There were also buttons to let a user see the schedule for a particular module.
+
+I participated in the hackathon, during which we implemented the majority of the functionality for this app. My committed participation during the early weeks of the module contributed to our momentum and later success.
+
+As a result of my participation, especially during the hackathon, I was introduced to javascript concepts that will help me in later modules. Also, working alongside instructors was an invaluable experience of learning how advanced developers introduce themselves to new languages and frameworks.
 
 #### Extra-Turing Involvement
 
