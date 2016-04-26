@@ -53,7 +53,7 @@ __Soft Skills / Protocol Requirements__
 * Included Projects: Self-Directed Project, Rales Engine, The Pivot
 * Bonus Project (not required): APIcurious
 * Feedback: Self-Solicited
-* Posse challenges (4/5)
+* Something valuable you've taken away from your posse.
 
 ### Module 4
 
