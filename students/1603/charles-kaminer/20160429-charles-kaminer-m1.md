@@ -8,17 +8,14 @@ There is a page in my notebook dated 3/21/16 (my first day at Turing) where I li
 
 ### End of Module Assessment
 
-Assessed By: Mike
-​
-Challenge:
-​
-Notes:
-* Had to be reminded to write tests first, but once reminded wrote good,thorough tests.
-* Couple of syntax hiccups, but great problem solving skills. Understands hashes and data structures.
-* 
-​
+- Assessed By: Mike
+- Challenge: Recipes
+- Notes:
+  * Had to be reminded to write tests first, but once reminded wrote good,thorough tests.
+  * Couple of syntax hiccups, but great problem solving skills. Understands hashes and data structures.
+ 
 #### 1. Ruby Syntax & API
-​
+
 * 4: Developer is able to write Ruby with a minimum of reference or debugging
 ​
 #### 2. Completion and Progress
