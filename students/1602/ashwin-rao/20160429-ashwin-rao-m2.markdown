@@ -14,12 +14,28 @@ I also intend to increase my community involvement by helping Mod 1 students and
 
 ### End of Module Assessment
 
-** performed my assessment and gave the following comments and results: **
+** Rachel performed my assessment and gave the following comments and results: **
 
-*  
+* Good use of pseudocode and user stories. This helped me keep track of your thinking throughout the assessment.
+* Efficient preparation of minimum correct data for testing
+* able to predict error messages in testing
+* good understanding of routes and helpers
+* excellent explanations during implementation process
+* good understanding of has many/belongs to relationship + methods
+* knew to not sort in view
+* dropped down to model level test to write Attempt.top_three
+* reached for activerecord in order to sort
+* able to generate migration in order to add column  
+* Your biggest area needing improvement is in using the best choice for Ruby. You were able to get the scoring method to work, but with a weak implementation that we refactored using count.
 
 Category | Score
 --- | ---
+Analytic/Algorithmic Thinking | 4
+Ruby Syntax & Standard Library | 3
+Rails & Syntax and API | 4
+Rails Style | 4
+Testing | 4
+Collaboration | 4
 
 ### Mid-Module Assessment
 
@@ -41,9 +57,14 @@ Collaboration | 4
 
 The purpose of this project was to create an app using Sinatra that could track web traffic at a particular url by parsing data loaded into the app through the command line.
 
-...
+This project gave me the opportunity to improve my understanding of routing and SRP. However, I think I learned the most about myself, and my strengths and weaknesses in working with small teams under pressure.
 
 **Rachel evaluated this project with the following results:**
+
+* all base functionality implemented correctly
+* use the built-in relationship for payload_requests instead of PayloadRequest.where(client_id: self.id)
+* views are good for the most part
+* In general, testing could have been made more efficient by using create methods in models instead of using Capybara to create instances. Also by using helper methods to create multiple instances to DRY up the code.
 
 Category | Score
 --- | ---
@@ -54,17 +75,10 @@ Fundamental Ruby & Style | 3
 Sinatra / Web & Business Logic | 3.5
 View Layer | 3.5
 
-**Notes**
-
-* all base functionality implemented correctly
-* use the built-in relationship for payload_requests instead of PayloadRequest.where(client_id: self.id)
-* views are good for the most part
-* In general, testing could have been made more efficient by using create methods in models instead of using Capybara to create instances. Also by using helper methods to create multiple instances to DRY up the code.
-
 #### Other related items
 
 
-* [Blog post](http://theonlyrao.com/2016/02/27/ways-of-thinking/)
+* [Blog post](https://gist.github.com/theonlyrao/54267d10bd5cc55affdf606c2ab608cb)
 
 =======================================
 
@@ -75,18 +89,20 @@ View Layer | 3.5
 
 
 #### Feedback about me
-**from students**
+"It was very nice collaborating with Ashwin on this project. He is very communicative about his thought process, and systematic in his problem solving. We also successfully decided on a strategy to tackle this project, and Ashwin (and the rest of the team) were able to carry it out efficiently and successfully. I really appreciated his diligence with Test Driven Development and resourcefulness when facing complicated errors. I think more time building web applications will help Ashwin get a better sense  how to trace down errors and structure the software." - Patrick Hardy, Rush Hour teammate
 
-**from staff**
+
 
 =======================================
 
 ## Community
 
-* Lightning Talk - *Applying Fundamentals of Ecommerce Marketing*, Mar 25, 2016
-* frequently helped Mod 1 students with ad hoc questions
+* Prework Guide for 1605 Caleb Cowen
 * participated in formal 1:1 paring sessions with Mod 1 students on April 12 and April 26
 * started "SQL-ERS" during Tuesdays at lunch to work on SQL queries with other students
+* frequently helped Mod 1 students with ad hoc questions
+* Lightning Talk - *Applying Fundamentals of Ecommerce Marketing*, March 25
+* participated in interview project with 8th grade students on March 25
 * Hamilton Posse review:
 
 This module, the Hamilton posse used React Native to create a Turing app. By the end of the module, we had created an app that would scrape today.turing.io and present the content for each module in the app. There were also buttons to let a user see the schedule for a particular module.
@@ -94,7 +110,3 @@ This module, the Hamilton posse used React Native to create a Turing app. By the
 I participated in the hackathon, during which we implemented the majority of the functionality for this app. My committed participation during the early weeks of the module contributed to our momentum and later success.
 
 As a result of my participation, especially during the hackathon, I was introduced to javascript concepts that will help me in later modules. Also, working alongside instructors was an invaluable experience of learning how advanced developers introduce themselves to new languages and frameworks.
-
-#### Extra-Turing Involvement
-
-* participated in video interview with 8th grade students on Mar 25, 2016
