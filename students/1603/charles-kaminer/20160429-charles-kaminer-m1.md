@@ -8,7 +8,36 @@ There is a page in my notebook dated 3/21/16 (my first day at Turing) where I li
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Mike
+​
+Challenge:
+​
+Notes:
+* Had to be reminded to write tests first, but once reminded wrote good,thorough tests.
+* Couple of syntax hiccups, but great problem solving skills. Understands hashes and data structures.
+* 
+​
+#### 1. Ruby Syntax & API
+​
+* 4: Developer is able to write Ruby with a minimum of reference or debugging
+​
+#### 2. Completion and Progress
+* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+​
+#### 3. Testing
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+​
+#### 4. Workflow
+​
+* 4: Developer is a master of their tools, efficiently moving between phases of development
+​
+#### 5. Collaboration
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+​
+### 6. Enumerable & Collections
+​
+​
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
