@@ -50,6 +50,17 @@ Collaboration | 4
 
 ### Work
 
+#### Performance Review (ungraded)
+* [Github URL] (https://github.com/theonlyrao/performance_review)
+
+This personal project was one of the reasons I wanted to come to Turing. It is an app that allows a manager to let her team review themselves using a set of performance review questions recently developed by a consulting firm.
+
+The social benefit of this tool is that it makes it easier for companies to see which of their employees are good and which are bad. As a company becomes more meritocratic it will become a better place to work. Then everyone is happier.
+
+After working on this project over the weekend, I had built out the functionality allowing a manager to create teams and employees, a manager to assign an employee to review another employee, an employee to review another employee, and the reviewee and manager to see the results of reviews.
+
+After showing my app to my posse mentor, I realize that there were significant holes in my testing and a lack of empathy for my end user (see blog post, below). As a result, I will be scrapping this project and starting over during the break week.
+
 #### Rush Hour
 
 * [Github URL] (https://github.com/marinacor1/RushHour)
