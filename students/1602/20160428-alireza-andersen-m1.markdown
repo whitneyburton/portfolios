@@ -1,10 +1,6 @@
-# Alireza Jace Andersen - M2 Portfolio
-
-### Areas of Emphasis
-
 "Believe in yourself!" Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy *Norman Vincent Peale*
 
-*Norman Vicent Peale* states it best, Belive in yourself and Have Faith in your abilities. I felt more confident then ever entering Module 2 and Kept feeling strong throughout the Module. Every Struggle I faced I was able to over come with a stronger understanding and just wanted to absorb more knowledge. Being able to see Programs in action is a great feeling. I constantly go back and improve some of the programs I made before.
+*Norman Vicent Peale* states it best, Believe in yourself and Have Faith in your abilities. I felt more confident then ever entering Module 2 and Kept feeling strong throughout the Module. Every struggle I faced I was able to overcome with a stronger understanding and just wanted to absorb more knowledge. Being able to see programs in action is a great feeling. I constantly go back and improve some of the programs I made before.
 
 I am super grateful for being able to learn the skills I have picked up on and am confident that my abilities that I have gained will set me up for Module 3. I had to retake my assessment and on my second attempt I pondered a lot with the feedback given to me. After reflecting on the feedback I came home to learn and improve from what was given to me during my feedback. To my surprise my logic was completely right and the feedback giving to me lost more validity.
 A very knowledgeable Programmer told me that "Programming is like Art, people have different styles and some styles don't match up". Not saying that feedback giving to me was inaccurate but I truly believe that my way around the logic is correct. As the module progressed, my competence has grown substantially. This is reflected in the progressive improvement of the projects I've worked on, and contributes to my eagerness to take on Module 3.
@@ -109,7 +105,7 @@ Feedback from Instructor Rachel Warlow;
 ## Resig Posse
 * Our posse met 3 days a week for an hour every morning. We have been going through a tutorial on React.
 * Favorite thing about the posse is the diversity of background.
-* My posse has been very supportive, each of us have gone out of our way to help fellow Resig posse out. We will be around for Eternity
+* My posse has been very supportive, each of us have gone out of our way to help fellow Resig posse out. We will be around for Eternity.
 
 ### Work
 
@@ -159,7 +155,7 @@ The roughest roads often lead to the top.  In other words Ali, you're on your wa
 ## Community
 
 * Gave a lighting talk.
-* Implemented the student lead paring with 1603
+* Implemented  the student lead paring with 1603 and volunteered for 3 sessions.
 * Became involved with a local Animal Shelter to help with fundraising. I also plan on using the skills in module two to create a custom interaction data base for them.  
 * Volunteer with the Boys and Girls club.
 
