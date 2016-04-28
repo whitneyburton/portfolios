@@ -126,11 +126,11 @@ A system able to load, parse, search, and execute business intelligence queries 
 
 Extension provided analytics for an individual merchant, allowing a merchant to compare themselves to various peer groups.  Analytics were represented with polar charts using ERB, Javascript and ChartJS.
 
-(evaluation comments)
+(evaluation comments): TBD
 
-(evaluation scores)
+(evaluation scores): TBD
 
-(feedback to me)
+(feedback to me): TBD
 
 ## Community
 
