@@ -120,7 +120,7 @@ I also ended up helping out a couple of module one students by giving them advic
 A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations.
 
-* 4: Student achieved two or more "4s" on the assessment
+* 1: Student earned two or more scores below "3" on the assessment
 
 ##### B: Individual Work & Projects
 
