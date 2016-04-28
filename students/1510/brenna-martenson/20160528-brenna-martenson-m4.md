@@ -96,8 +96,16 @@ _____________
 
 ##### A: End-of-Module Assessment: 3 (Exempt)
 ##### B: Individual Work & Projects: 3
-##### C: Group Work & Projects: 4 
+##### C: Group Work & Projects: 3
 ##### D: Community Participation: 3
-##### E: Peer & Instructor Feedback: 4 
+##### E: Peer & Instructor Feedback: 4
 
+### Notes
 
+* Feedback to me is consistently about my confidence
+* Excited about getting into JavaScript
+* Feel like I need more time to solidify
+
+### Outcome
+
+GRADUATED
