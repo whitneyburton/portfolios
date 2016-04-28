@@ -2,11 +2,20 @@
 
 ## Individual
 
-### Areas of Emphasis
+### Mission
 
 I set out this module to learn a new language and have a better understanding of writing
 client-side applications. I have really enjoyed writing Javascript and am excited to
-continue learning and exploring what can be done with it.
+continue learning and exploring all that it offers.
+
+### Attendance
+
+Except for several instances where I can personal things to deal with or job interviews, I was present every day.
+
+### Blogposts
+
+* [Gitastrophe Lessons Learned](http://penneygadget.github.io/2016/04/15/gitastrophe-lessons-learned.html)
+* [Travis CI](http://penneygadget.github.io/2016/04/17/travis-ci.html)
 
 ### End of Module Assessment
 
@@ -15,7 +24,7 @@ of 1239 (82.4%).
 
 ### Work
 
-###### Personal Projects
+### Personal Projects
 
 #### Idea Box
 
@@ -55,9 +64,7 @@ Workflow: 5/5 points
 
 175/200 points total
 
-### Projects
-
-###### Partner/Team Projects
+### Partner/Team Projects
 
 #### Game Time - Infinite Loop
 
@@ -114,7 +121,13 @@ Penney and I worked on the same boxtrot dev team for a week. She took on a prett
 
 I continued my participation in the Environment Variables group, helping to launch the schools new recycling program. I also continued to take care of the coffee, delivering it every Sunday. I participated in the Brin posse, which got me back in the habit of doing exercisms regularly, and also unofficially joined the Pahlka posse (I'm hoping to work with Beth on this after Turing). I am not ready for it yet, but I would love once I get my bearings and some real-world experience to help mentor new students.
 
-## Review
+## Self Assessment
+
+* End-of-Module Assessment: 3 - I was excused from the assessment
+* Individual Work & Projects: 3 - Satisfactory evaluations, clear commitment and growth in my work
+* Group Work & Projects: 4 - I feel that I excel at helping my teammates be their best selves and achieve great results
+* Community Participation: 3 - I participate in required activities as well as a couple above-and-beyond supports of the community
+* Peer & Instructor Feedback: 3.5 - I feel I help others to be their best selves and am continually trying to improve myself in response to feedback
 
 ### Notes
 
