@@ -17,6 +17,52 @@ portfolio should be written/submitted
 * Copy the content of [template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown) as a starting point
 * Fill in and submit your own content.
 
+## Per-Module Expectations
+
+### Module 1
+
+* Individual Assessment: Passing Score (All 3's) required
+* Required Project: Final Project (Headcount / Black Thursday) -- Passing Score (All 3's) required
+* Included Projects: All individual and paired projects
+* Instructor Pairing Feedback: At least 1 session from during the module
+* Feedback: Self-Solicited and from Feedback App
+
+__Soft Skills / Protocol Requirements__
+
+1. 1 DTR memo from a project during the module
+2. 1 example of a well-written project readme
+
+### Module 2
+
+* Evaluation notes - You need to take notes during assessments/evaluations
+* Blog post (>=1)
+* Self-solicited continual peer feedback
+* If you're in a posse - please include:
+  * a blurb about what you did with your posse over the module
+  * your favorite thing about the posse experience
+  * how has your posse experience helped you grow as a professional?
+
+* Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master
+* Peer evaluated projects:  Rails Mini Project
+* Evaluated projects: Traffic Spy, Little Shop
+* Assessments: mid-module, final
+
+### Module 3
+
+* Individual Assessment
+* Included Projects: Self-Directed Project, Rales Engine, The Pivot
+* Bonus Project (not required): APIcurious
+* Feedback: Self-Solicited
+* Something valuable you've taken away from your posse.
+
+### Module 4
+
+* Individual Assessment: Only if needed
+* Required Project: GameTime
+* Included Projects: RealTime, ScaleUp
+  * Should include points breakdown per project
+* Feedback: Self-Solicited
+
 ## Submission Guidelines
 
 A pull request with your submission must be made at least 12 hours before your
