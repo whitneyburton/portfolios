@@ -28,14 +28,64 @@ I came to Turing with limited programming experience (from some independent stud
 (Intro)
 
 #### Mastermind
-* [GitHub URL]()
+* [GitHub URL](https://github.com/marcellawigg/mastermind)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown)
+**Assessed by** Mike
 
 **Comments**
 * Be careful to send more messages and depend on ivars less.
 * Pull messages printed to screen out to different class or maybe module.
 * Clean Ruby overall for this point in module.
 * Frustrated because REPL had been working, but I attempted an extension and broke in process.
+
+### 1. Fundamental Ruby & Style
+
+* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+### 2. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of several Enumerable techniques and collections
+
+### 3. REPL Interface and Game Functionality
+
+* 2: Application's REPL has inconsistencies and/or there are errors in base gameplay
+
+### 4. Breaking Logic into Components
+
+* 3: Application consistently breaks concepts into logical methods to encapsulate functionality.
+
+#### Recommendations
+
+* [GitHub URL](https://github.com/marcellawigg/recommendations.git)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
+
+**Assessed by** Nate
+
+**Comments**
+* Good TDD, but go get some help understanding the concept if it's slowing you down
+* Get help earlier. Working for two days and not understanding without help is not healthy
+* Get code working first, and then work on refactoring. It looks like you spent more time refactoring working things instead of making new things work
+* Concepts are coming together, but you're missing out on completion
+
+### 1. Functional Expectations
+
+* 1: Application is missing more than one base expectation
+
+### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Fundamental Ruby & Style
+
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+### 5. Looping *or* Recursion
+
+* 3: Application makes effective use of loop/recursion techniques
 
 #### (Project Name)
 
