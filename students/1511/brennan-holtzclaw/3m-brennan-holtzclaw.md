@@ -166,6 +166,8 @@ a mountain a handful of rocks at a time. He shrugs, rolls up his sleeves, and ge
 patient diligence he brought to the project was a valuable asset to progress but the sense of humor he brought to the team
 made many of the would-be-slog moments quite enjoyable. He'll be a terrific asset to whatever team is lucky enough to have him. - Lenny Myerson
 
+* I always enjoy pairing with Brennan. It feels like he is naturally very-communicative, and when working with him, I find myself trying to mimic this. I definitely think that Brennan is hard on himself; the problems he has approached me with are not straightforward, but it feels that he sometimes goes to a place of "I'm not a good enough programmer to figure this out." As long as Brennan keeps challenging himself, he'll be an asset to any team.
+
 ### Being a community member
 This module I continued to publish podcasts when possible, and I got it set up on a much more reliable distribution network. I am also a member of the Ritchie Posse.
 
