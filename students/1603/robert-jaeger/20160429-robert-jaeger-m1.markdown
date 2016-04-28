@@ -8,7 +8,6 @@
 * Become a quick worker with the tools we are using
 * Establish a sustainable work-life balanced schedule
 * Learn how to program as a developer in a complex system, not as a post processing script writer
-* Become a good community member
 
 ### End of Module Assessment
 
@@ -35,7 +34,6 @@ Assessed by: Jhun de Andres
 
 ### Work
 
-(Intro)
 I was in the Echo group for 1603. The individual projects I completed were: Mastermind,
 Recommendations, Sorting Suite, and Battleship.
 I completed all of the individual projects with scores of
@@ -127,8 +125,7 @@ A **REPL game** based on the board game Battleship. You play against the compute
 
 ### Projects
 
-(Intro)
-HTTP Yeah You Know Me and Black Thursday.
+I completed HTTP Yeah You Know Me and Black Thursday with scores of 3 or above.
 
 #### HTTP Yeah You Know Me
 
@@ -233,9 +230,11 @@ All group projects were successful (3's and 4's). I'm still working on how to di
 
 **D. Community Participation:** 3
 
-
+I've been participating within my posse (Ritchie) and participated in the Hackathon (RhymeThis).
 
 **E. Peer & Instructor Feedback:** 3
+
+In my feedback, I gave at least one point of constructive criticism for each person.
 
 ### Notes
 
