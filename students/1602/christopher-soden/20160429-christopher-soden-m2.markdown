@@ -119,19 +119,19 @@ Put a `Home` link in the navbar.
 Include more comments in the merge.
 Several opportunities for refactoring.
 
-### 1. Feature Completeness 3
+1. Feature Completeness 3
 
-### 2. Views 3
+2. Views 3
 
-### 3. Controllers 3
+3. Controllers 3
 
-### 4. Models 3.5
+4. Models 3.5
 
-### 5. Testing 3
+5. Testing 3
 
-### 6. Usability 3
+6. Usability 3
 
-### 7. Workflow 3
+7. Workflow 3
 
 ## Community
 
