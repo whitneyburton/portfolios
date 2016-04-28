@@ -17,7 +17,7 @@ practice with the Atom text editor shortcuts.
 ### Work
 
 #### Skill Inventory
-* [Git hub](https://github.com/seeker105/skill_inventory_2)
+* [Github URL](https://github.com/seeker105/skill_inventory_2)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
 
 Skill Inventory was a basic exploration of CRUD techniques: Create, Read, Update
