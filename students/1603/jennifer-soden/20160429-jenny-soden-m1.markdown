@@ -225,6 +225,9 @@ I've really enjoyed and appreciated working with you on Black Thursday. You are 
 ###### From Ryan
 Unfortunately, I did not have the opportunity to work with Jennifer much, but the times I did were definitely enjoyable. Many times I was surprised by her unique viewpoint for the problem at hand, resulting in a solution I would of never considered. Our discussions always felt very natural, which resulted in a calm and confident atmosphere, making it easier to progress through the programming challenges we faced together. I look forward to the chance to work together with her again in the future.
 
+###### From Lin
+Jenny has been the most helpful and supportive person to me in the cohort.  I felt like I could go to her when I needed to ask a question or needed advice in general.  I am a person who has always relied on myself and have always been reluctant to seek assistance from others, however Jenny’s willingness to help is an inspiration to me, and I hope I can reciprocate that in the future, and also provide the same level support for others who are in doubt.  My only advice is to keep on coding for fun, and to not let a difficult problem/concept keep you from trying to conquer the issue. Keep being you because you are seriously amazing!
+
 ### Instructor Pairing Feedback
 Work on:
 * Private methods
