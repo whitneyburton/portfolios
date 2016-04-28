@@ -40,10 +40,11 @@ Created basic game that uses the REPL interface.
 * Clean Ruby overall for this point in module.
 * Frustrated because REPL had been working, but I attempted an extension and broke in process.
 
-1. Fundamental Ruby & Style: 3
-2. Enumerable & Collections: 3
-3. REPL Interface and Game Functionality: 2
-4. Breaking Logic into Components: 3
+**Scores**
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* REPL Interface and Game Functionality: 2
+* Breaking Logic into Components: 3
 
 #### Recommendations
 
@@ -80,6 +81,7 @@ Create program that sorts via several algorithms.
 * Testing thorough enough. Tested for each method.
 * Tests need better, more consistent names, as they are not currently consistently clear as to what they are doing.
 
+**Scores**
 1. Functional Expectations: 3
 2. Testing: 3
 3. Ruby Style: 3
@@ -100,11 +102,12 @@ Using tries, created a basic autocompletion system.
 * Use of enumerators decent; usually chose right one, but there were a few places where you could have chosen better.
 * Good breakdown into logical components.
 
-1. Functional Expectations: 3
-2. Test-Driven Development: 3
-3. Encapsulation / Breaking Logic into Components: 4
-4. Fundamental Ruby & Style: 3
-5. Enumerable & Collections: 3
+**Scores**
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 4
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
 
 ## Team
 
@@ -120,16 +123,19 @@ Overall, I think both HTTP and Black Thursday have been majorly time consuming, 
 Built a server with ability to play several basic games using Ruby.
 
 **Partner** Karina
+
 **Assessed by** Jhun
+
 **Comments**
 * First group to use a module. I liked that. Code was pretty clean. Some portions had pieces and parts to look at and work on but with what they had i think they were okay.
 * little to no test.
 * For the most part their code had single lined methods and had single responsibility. I feel if they had more time things could of been a little tidier but I do like the implementation of the classes.
 
-1. Overall Functionality: 3
-2. Fundamental Ruby & Style: 4
-3. Test-Driven Development: 2
-4. Breaking Logic into Components: 3.5
+**Scores**
+* Overall Functionality: 3
+* Fundamental Ruby & Style: 4
+* Test-Driven Development: 2
+* Breaking Logic into Components: 3.5
 
 #### Black Thursday
 
@@ -137,10 +143,16 @@ Built a server with ability to play several basic games using Ruby.
 * [Original Assignment](https://github.com/icorson3/bt)
 
 **Partner** Ilana
+
 **Assessed by** Mike
 
-**Comments**
-
+**Scores**
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 4
+* Code Sanitation: 4
 
 ## Community
 
@@ -152,11 +164,13 @@ Built a server with ability to play several basic games using Ruby.
 
 **(For Brian)** On the afternoon before the Black Thursday assignment was due, despite the fact that he had a lot of work on his own project, Brian spent over an hour helping my group try to figure out how we could best find a particular result when one of our methods wasn't passing and we were frustrated. I have seen him help multiple other people under similar circumstances, as well, and I think this says a lot for his high degree of community involvement here. Even when he's facing his own challenges with a project, he tries to help the stuck as much as he can.
 
+**(For Lucy)** Several times during the module, Lucy assisted me with aspects of my projects I was struggling with. I especially appreciated her spending more than half an hour of her own work time to patiently explain concepts I did not yet understand on the day before Black Thursday was due. She has a strong grasp on the Ruby fundamentals, which shows both in her strong code and her ability to cogently explain concepts, and was kind to me about my understanding at a time when I felt very frustrated.
+
 ### Being a Community Member
 
 **(From Ilana)** From day one, Marcella was an easy going partner. Her ability to define the relationship from the beginning, helped set expectations for the whole project. She was open to working whenever was most convenient and stayed exceptionally focused. Whenever we would hit a frustrating part of Black Thursday, Marcella would be the one to push us to fight through the problem. She would anticipate bugs before they happened and would know when running tests, exactly the information we were expecting. Marcella was patient when I would get frustrated and her motivation to complete the task at hand inspired me to keep moving forward in a difficult time. I would recommend Marcella to anyone as a wonderful partner or any company.
 
-
+**(From Lucy)** "I've been lucky enough to have a chance to work with Marcella on several occasions now. Time and time again I am impressed with the dedication and commitment she has shown to Turing. Her dedication to learning everything Turing has to offer is evident in her knowledge of Ruby fundamentals and desire to not only get her projects done but get them done well. Her incredible work ethic shows through each day in class and on her projects. I look forward to getting the chance to work with her in the future."
 
 ### Playing a Part
 * Participated in Hopper Posse
@@ -165,7 +179,7 @@ Built a server with ability to play several basic games using Ruby.
 
 ##Module 1 Requirements
   [DTR Memo](https://docs.google.com/document/d/1RMstISGcp1txB_KDKLQiABb-8mN6DqyU9b9m2R7CPzU/edit)
-  [README]
+  [README](https://github.com/icorson3/bt/blob/master/README.md)
 
 ## Review
 ###Self-Assessment
