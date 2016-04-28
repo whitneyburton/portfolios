@@ -1,5 +1,8 @@
 # Nick Pisciotta - M1 Portfolio
 
+![](https://s-media-cache-ak0.pinimg.com/originals/35/dd/a7/35dda730657b0adc60be17ae856e9a0a.jpg)
+
+
 ### Areas of Emphasis
 With little background in programming or computer science, I hope to better my understanding of the fundamental principles of programming to provide a sound foundation for future development of my skills.  I hope to gain a greater knowledge of Ruby, in particular, as well as how to develop algorithms to solve complicated problems.
 
