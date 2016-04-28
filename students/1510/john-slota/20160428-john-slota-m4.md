@@ -48,6 +48,11 @@ Beth Sebian:
 
 * Feedback for portfolios: John's been a treat to work with in Pahlka posse and share a cohort with these past two modules. He is a genuine, easy-to-get-along-with guy, who strikes a nice balance of nerdiness about our work and high standards where it matters with a lightness that makes him fun and enjoyable to work with. I'm excited to be in this field in large part because of the opportunities I'll have to work with people like John.
 
+Jordan Lawler
+
+* "I had the privilage of working with Uncle-Slota on Refactor Tractor. For those of you who do not know what refactor-tractor is, it is on of the most grueling projects here at Turing. I would have not made it throug without Slota's detirmination, good spirit, and insight into how to not pass too many arguments into a javascript function. Everytime we would hit a brick wall, I would channel my inner 'lets gooooooo' and we would push through.  When it was all said and done, our pull request to the refactor tractor lesson was so good, Meeka merged it without even knowing it. I think she thought it was written by an instructor it was so perfect."
+
+
 
 #### Individual Projects :
 
