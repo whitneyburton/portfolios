@@ -1,29 +1,4 @@
 # David Stinnette - Module 4 Portfolio
----
-## Self Evaluation Scores
-##### End-of-Module Assessment
-
-- Turing student is able to demonstrate proficiency at programming in accordance with the module's content and expectations.
-
-    - 3: Excused from assessment
-
-- A Turing student works to maximize their skill growth and demonstrates that skill across a variety of work.
-
-     - 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
-
-- Turing student contributes significantly to group projects, helps the team develop their technical skills, and delivers a high-quality product.
-
-    - 4: Student consistently helps their teammates be their best selves, learn at an accelerated pace, and achieve great results.
-
-- Turing student builds up the community around them by participating and supporting other students, the larger Turing family, and persons outside our walls who want to develop their own skills.
-
-    - 4: Student has a significant positive impact on the learning and spirit of the people around them.
-
-##### Peer & Instructor Feedback
-
-- Turing student accelerates the growth of those around them by delivering specific, kind, and actionable feedback. They accelerate their own growth by taking in and acting on the feedback of their peers and instructors.
-
-    - 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
 
 ---
 
@@ -74,3 +49,21 @@ ___
 ### Notes
 
 # Outcome
+
+## Scores
+
+* Assessment: 3, Excused from assessment
+* Individual Projects: 3
+* Group Projects: 3
+* Community: 2
+* Feedback: 2
+
+## Notes
+
+* Not concerned about being the "fastest" programmer, sometimes sacrificing completion
+* Program has been the toughest thing I've done
+* Starting back in May of 2015 and having my ego constantly cut down has been difficult
+
+## Outcomes
+
+PENDING -- Need more content on Community and Feedback
