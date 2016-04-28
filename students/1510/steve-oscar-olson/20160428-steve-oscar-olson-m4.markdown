@@ -77,14 +77,16 @@ Assessed By: Steve
 Project completed basic spec requirements and websocket functionality, but lacked development of the UI. It was basically an MVP project to learn the basics of websockets, and use the rest of my time in the job hunt.
 
 
-## Community
+## Community  
+- I paired with students from all modules on their projects   
+- Attended 4 or 5 meetups  
+- I made a ruby gem (during the last module but forgot to include that last time, so...)
 
 ### Giving Feedback
 
 To: Brenna -   Working with Brenna on the GameTime project was a great experience. Our skill sets were complementary, so between the two of us, we were able to smoothly work through all of the challenges. Through her work and partnership, I gained a better understanding of some CSS concepts (because she is a front-end wizard). Her attitude and personality make her very enjoyable and pleasant partner to work with.
 
 To: Dad Steve -  SteveP is the top bun to my bottom bun. Some have said that a Steve sandwich doesn’t exist (because the meat is what defines a sandwich), but these people have clearly never been in a Steve sandwich. They don’t know what ultimate safety and comfort feels like..  I’m always impressed by his design work, both on the computer and in his hairstyle. Beyond that, he’s a well-rounded developer and, but brings no ego and is always a pleasure to be around. I’m a bit disappointed we’ve never been assigned to work on a project together.  But also I understand - that just wouldn't be fair.
-
 
 
 ### Being a Community Member
