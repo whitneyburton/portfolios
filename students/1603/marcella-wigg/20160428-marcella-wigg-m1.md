@@ -8,7 +8,20 @@ I came to Turing with limited programming experience (from some independent stud
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+**Assessed by**: Jhun
+
+**Notes**
+* Ruby syntax, style, use of blocks and enumerations, workflow, and collaboration all on level expected for end of module 1.
+* The testing is your weakness. You know how to write tests, but the testing is not driving your development enough. Work on TDD.
+* You were very nervous, and that seemed to affect your performance. Take a breath. You are doing fine. I think of you as a strong developer.
+
+**Scores**
+* Ruby Syntax & API: 3
+* Ruby Style: 3
+* Blocks & Enumerations: 3
+* Testing: 3
+* Workflow: 3
+* Collaboration: 3
 
 ### Work
 
