@@ -124,6 +124,13 @@ One of Justin's best qualities is his eagerness to communicate and make sure eve
 I have spent a bit of time with Sonia from mod 1 helping her learn ruby.  I have also started a group last week for the kids repeating mod 1 and pairing with them one on one to help them get a better understanding of ruby and helping them prepare for repeating mod 1 successfully.  I plan on helping them next week during the intermission.  
 
 ## Review
+### Rubric Scores
+
+ * **A: End-of-Module Assessment**: 3
+ * **B: Individual Work & Projects**: 3
+ * **C: Group Work & Projects**: 3
+ * **D: Community Participation**: 4
+ * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
