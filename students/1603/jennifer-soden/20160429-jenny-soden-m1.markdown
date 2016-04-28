@@ -190,7 +190,11 @@ Ryan was really fun to work with. Together we were able to figure out how to mak
 
 ### Being a Community Member
 
-Jenny - I've really enjoyed and appreciated working with you on Black Thursday. You are solid overall as a programmer - good work flow / work processes, troubleshooting, desire to learn, and openess to different approaches. Several specific areas where I admire your skills and learned a lot from you: SimpleCov, test helpers, GitHub, Pry, and advanced use of the reduce enumerable. I also appreciate that you stayed positive and patient throughout the project. The only comment I have in terms of things you may want to work on/think about is just being more assertive/not afraid to own it. I sometimes felt like you were asking permission when it was definitely a joint effort. It has been great working with you. I’m really happy with how much I’ve learned and how our project has turned out!
+###### From Anna
+I've really enjoyed and appreciated working with you on Black Thursday. You are solid overall as a programmer - good work flow / work processes, troubleshooting, desire to learn, and openess to different approaches. Several specific areas where I admire your skills and learned a lot from you: SimpleCov, test helpers, GitHub, Pry, and advanced use of the reduce enumerable. I also appreciate that you stayed positive and patient throughout the project. The only comment I have in terms of things you may want to work on/think about is just being more assertive/not afraid to own it. I sometimes felt like you were asking permission when it was definitely a joint effort. It has been great working with you. I’m really happy with how much I’ve learned and how our project has turned out!
+
+###### From Ryan
+Unfortunately, I did not have the opportunity to work with Jennifer much, but the times I did were definitely enjoyable. Many times I was surprised by her unique viewpoint for the problem at hand, resulting in a solution I would of never considered. Our discussions always felt very natural, which resulted in a calm and confident atmosphere, making it easier to progress through the programming challenges we faced together. I look forward to the chance to work together with her again in the future.
 
 ### Instructor Pairing Feedback
 Work on:
