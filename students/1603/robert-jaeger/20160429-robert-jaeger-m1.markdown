@@ -48,6 +48,7 @@ a 3 or above.
 * [Eval](https://github.com/turingschool/ruby-submissions/blob/master/1603/mastermind/robert_jaeger.markdown)
 
 ##### Description
+A **REPL game** based on the board game Mastermind where you have to guess a puzzle based on colors and positions. The computer generates a random code sequence, and you can guess until you get the code correct.
 
 ##### Evaluation Comments: (Lovisa)
 * Get more familiar with enums like map where you do not have to initialize a new array
@@ -68,6 +69,7 @@ a 3 or above.
 * [Eval](https://github.com/turingschool/ruby-submissions/blob/master/1603/recommendations/robert_jaeger.md)
 
 ##### Description
+A basic **binary search tree** structure revolving around movie titles and ratings. Each tree node is a movie title with a corresponding rating. You can insert new movies and ratings into the tree and also retrieve information about the binary tree.
 
 ##### Evaluation Comments: (Nate)
 * Lots of test, good thing and a bad thing
@@ -89,6 +91,7 @@ a 3 or above.
 * [Eval](https://github.com/turingschool/ruby-submissions/blob/master/1603/sorting_suite/robbie.md)
 
 ##### Description
+Three different **sorting algorithms**: insertion sort, bubble sort, and merge sort.
 
 ##### Evaluation Comments: (Horace)
 * Pull out some if/else statements into other methods
@@ -106,6 +109,7 @@ a 3 or above.
 * [Eval](https://github.com/turingschool/ruby-submissions/blob/master/1603/battleship/robert_jaeger.md)
 
 ##### Description
+A **REPL game** based on the board game Battleship. You play against the computer on a 4x4 grid. You can place two ships: one of size 2, and one of size 3. You guess a spot on the grid, the computer takes a guess, and you continue taking turns until all of the ships are sunk for one player.
 
 ##### Evaluation Comments: (Mike)
 * Lots of repetition in engine, break things out
@@ -133,6 +137,7 @@ HTTP Yeah You Know Me and Black Thursday.
 * [Eval](https://github.com/turingschool/ruby-submissions/blob/master/1603/http_or_hyde/jaeger_fox.markdown)
 
 ##### Description
+A simple **HTTP server** constructed in Ruby. The server can accept GET and POST request from a client only to specific localhost addresses. The server also uses redirects to give the client information (in the game section of the assignment).
 
 ##### Evaluation Comments: (Jhun)
 * There were a couple of long methods. That's kind of hard to get away from esp with the main file. What I did see is that they moved the logic into other methods within the other classes. I liked that. I stuck to the single-responsiblity rule.
@@ -145,7 +150,6 @@ HTTP Yeah You Know Me and Black Thursday.
 * Test-Driven Development: 4
 * Breaking Logic into Components: 4
 
-(feedback to me)
 
 #### Black Thursday
 
@@ -154,6 +158,7 @@ HTTP Yeah You Know Me and Black Thursday.
 * [Eval](https://github.com/robbiejaeger/black_thursday/blob/master/README.md)
 
 ##### Description
+A **business analytics** program that constructs a basic database system with relationships between repositories. The sales analyst can generate business metrics and analyses for merchants, items, invoices, and transactions.
 
 ##### Evaluation Comments:
 
@@ -165,7 +170,6 @@ HTTP Yeah You Know Me and Black Thursday.
 * Enumerable & Collections:
 * Code Sanitation:
 
-(feedback to me)
 
 ## Other Requirements (Protocol)
 
