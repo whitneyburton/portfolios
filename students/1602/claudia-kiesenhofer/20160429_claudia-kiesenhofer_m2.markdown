@@ -251,8 +251,13 @@ A Turing student accelerates the growth of those around them by delivering speci
 
 ### Notes
 
-( Leave blanks for reviewers )
+* worried about pairing with peers on Ruby
+* enjoyed M2 because of the step-by-step feel
+* enjoyed mini project, was able to reference projects and tutorials later
+* rush hour solidified active record
+* somewhat disappointed with posse experience
+* enjoyed hackathon
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
