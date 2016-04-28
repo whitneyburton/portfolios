@@ -87,16 +87,33 @@ I came to Turing with limited programming experience (from some independent stud
 
 * 3: Application makes effective use of loop/recursion techniques
 
-#### (Project Name)
+#### Sorting Suite
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/marcellawigg/sorting-suite)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
-(description)
+**Assessed by** Lovisa
 
-(evaluation comments)
+**Comments**
+* Code is mostly clean, though could be refactored into shorter methods in a few places.
+* Testing thorough enough. Tested for each method.
+* Tests need better, more consistent names, as they are not currently consistently clear as to what they are doing.
 
-(evaluation scores)
+### Functional Expectations
+
+3: All three sort classes work as expected
+
+### Testing
+
+3: Tests cover functionality and demonstrate some escalation of complexity across the examples.
+
+### Ruby Style
+
+3: Code is a readable and effective implementation of the algorithm. Has fewer than 4 "what on earth is this?" lines of code.
+
+### Organization
+
+4: Version control maintains the codebase
 
 ## Team
 
