@@ -27,6 +27,16 @@ I came to Turing with limited programming experience (from some independent stud
 
 (Intro)
 
+#### Mastermind
+* [GitHub URL]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown)
+
+**Comments**
+* Be careful to send more messages and depend on ivars less.
+* Pull messages printed to screen out to different class or maybe module.
+* Clean Ruby overall for this point in module.
+* Frustrated because REPL had been working, but I attempted an extension and broke in process.
+
 #### (Project Name)
 
 * [GitHub URL]()
