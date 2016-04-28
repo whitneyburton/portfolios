@@ -219,4 +219,19 @@ strategies to improve themselves in response to feedback.
 
 ## Portfolio Review
 
-(Hopefully that's what we're doing right now)
+### Instructor Scores
+
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 2
+* C: Group Work & Projects: 3
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
+
+### Notes
+
+- Personal project really didn't come together. It sounds like you struggled to use the resources available to you, and struggled to engage your brain. Either because you need a break or personal life is distracting you.
+
+### Outcome
+
+PENDING - Brennan will redo the second section of the final assessment using AJAX for all communication with the Best Buy API. Advancement is conditional it functioning, and that Brennan can explain what he's written.
+
