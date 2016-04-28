@@ -264,7 +264,7 @@ On April 18th I helped out with a Turing information session where I helped to e
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: 2
+* **E: Peer & Instructor Feedback**: 3
 
 
 ### Notes
@@ -273,4 +273,4 @@ On April 18th I helped out with a Turing information session where I helped to e
 
 ### Outcome
 
-( Leave blanks for reviewers )
+REPEATING
