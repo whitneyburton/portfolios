@@ -220,7 +220,6 @@ Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirement
 **4. Breaking Logic into Components**
 
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
-(feedback to me)
 
 #### Black Thursday
 
@@ -232,6 +231,10 @@ Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirement
 Black Thursday is an application that parses a collection of pre-determined CSV files (in this case Merchants, Items, Invoices, Transactions, and Invoice Items), connects them together in a meaningful manner, and then analyzes that data in a variety of ways. Black Thursday presented a unique challenge due to an issue early on between myself and my orginal partner, Ji Kim. While the technical difficulty was there, the project really presented an opportunity for me to grow as a collaborator. Even after the conflict was resolved and I was moved to a new group, I found that I was far more cognizant of each team member's individual challenges, which really became evident in our group pairing.
 
 **Assessed by: Instructor Here**
+
+(scores here)
+
+(feedback to me)
 
 ## Community
 
