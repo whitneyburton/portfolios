@@ -170,10 +170,19 @@ Try to keep models in the models folder. PORO's would go in the lib folder.
  ## Posse takeaways
   No posse participation
 
- ### Notes
+### Instructor Scores
 
- ( Leave blanks for reviewers )
+* A: End-of-Module Assessment: 2
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 3 
+* E: Peer & Instructor Feedback: 3
 
- ### Outcome
+### Notes
 
- ( Leave blanks for reviewers )
+- We've seen a lot of growth. Josh, Nate and Lenny have all seen it.
+- Lenny is concerned whether the way Turing defines success is compatible with his definition of success
+
+### Outcome
+
+RETAINED
