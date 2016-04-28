@@ -140,12 +140,16 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 4
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 4
-* **E: Peer & Instructor Feedback**: 4
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
+* Love when Jeff makes up numbers and statistics
+
 ### Outcome
+
+GRADUATED
