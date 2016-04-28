@@ -50,7 +50,7 @@ Work hard for what you want because it won't come to you without a fight. You ha
     * Controllers 4
     * Model 4
     * Testing 4
-    * Usability 3.5
+    * Usability 3
     * Workflow 3
 
 
