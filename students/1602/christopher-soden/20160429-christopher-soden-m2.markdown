@@ -109,9 +109,29 @@ routes. It was too easy to make a mistake and send the program to the wrong
 controller. Another challenge was making a way for the cart to update the
 quantities of items.
 
-(evaluation comments)
+Evaluation notes:
+In OrderCreator we pass in `session`. Instead of referencing `session` multiple
+times we should use the `intialize` to pull out the data we need into instance
+variables.
+Make pictures clickable.
+Scope assertions to make sure we catch the correct elements.
+Put a `Home` link in the navbar.
+Include more comments in the merge.
+Several opportunities for refactoring.
 
-(evaluation scores)
+### 1. Feature Completeness 3
+
+### 2. Views 3
+
+### 3. Controllers 3
+
+### 4. Models 3.5
+
+### 5. Testing 3
+
+### 6. Usability 3
+
+### 7. Workflow 3
 
 ## Community
 
