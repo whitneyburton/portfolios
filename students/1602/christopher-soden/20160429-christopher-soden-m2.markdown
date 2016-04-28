@@ -17,7 +17,7 @@ practice with the Atom text editor shortcuts.
 ### Work
 
 #### Skill Inventory
-* [Git hub](git@github.com:seeker105/skill_inventory_2.git)
+* [Git hub](https://github.com/seeker105/skill_inventory_2)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
 
 Skill Inventory was a basic exploration of CRUD techniques: Create, Read, Update
@@ -26,7 +26,7 @@ user to create a list of skills, view and edit the list and remove elements
 from the list.
 
 #### Mix Master
-* [Github URL](git@github.com:seeker105/mix_master2.git)
+* [Github URL](https://github.com/seeker105/mix_master2)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
 
 The first time working with Heroku to make our apps live on the web. This site
@@ -35,7 +35,7 @@ between them. Users were able to CRUD not only individual data elements, but
 elements that related to each other.
 
 #### Tool Chest
-* [Github URL](git@github.com:seeker105/tool_chest.git)
+* [Github URL](https://github.com/seeker105/tool_chest)
 * [Original Assignment](https://gist.github.com/rwarbelow/21a7596df9cdb551bb85)
 
 Tool Chest was a more advanced exploration of CRUD techniques, and working with
@@ -44,7 +44,7 @@ relations (one-to-many, many-to-many). The site allowed users to login, view
 and edit/delete their tools.
 
 #### Point Box
-* [Github URL](git@github.com:seeker105/point_box.git)
+* [Github URL](https://github.com/seeker105/point_box)
 * [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
 Point Box is a site with user and admin login functionality. It lets the admin
@@ -61,7 +61,7 @@ I completed the following team projects during the module:
 #### Rush Hour
 Christopher Soden, Hedy Woo, John Liss
 
-* [GitHub URL](git@github.com:seeker105/rush-hour-skeleton.git)
+* [GitHub URL](https://github.com/turingschool-examples/rush-hour-skeleton)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 * [DTR Conversation](https://gist.github.com/seeker105/840def5c7f022480401baf880f5a29b1)
 
