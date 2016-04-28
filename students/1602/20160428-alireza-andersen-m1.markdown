@@ -202,3 +202,15 @@ Sal! What can I say bud! Havard has to be proud to have had a student like you! 
 
 #### E: Peer & Instructor Feedback
 * 4 Student has a significant positive impact on the learning and spirit of the people around them.
+
+
+### Notes
+
+* did mini project on own
+* encouraged Ali to scope down big vision and focus on small pieces
+* don't go down rabbit holes!
+
+
+### Outcome
+
+Pending -- Will have conversation with M3 instructors Friday morning.
