@@ -13,7 +13,7 @@ Reflecting now on the last six weeks, I have definitely come a long way. There a
 Evaluator: Horace Williams
 ​
 #### 1. Ruby Syntax & API
-​
+
 * 3: Developer is able to write Ruby with some debugging of fundamental concepts
 ​
 #### 2. Completion and Progress
@@ -32,12 +32,11 @@ Evaluator: Horace Williams
 ​
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 ​
-### 6. Enumerable & Collections
+#### 6. Enumerable & Collections
 ​
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
-Notes:
-​
+##### Notes:
 * Able to comfortably define new classes, define new methods, track the state of an object over time
 and modeling this using instance variables
 * Bringing effective and appropriate enums to bear on the problem as needed -- took a little guidance
@@ -47,11 +46,11 @@ to verify these behaviors
 
 ### Work
 
-Echo members had four individual projects in Module 1: Mastermind, Binary Search Tree, Sorting Suite and, for the last individual project, a choice between Complete Me and Battleship.
+Echo students had four individual projects in Module 1: Mastermind, Binary Search Tree, Sorting Suite and, for the last individual project, a choice between Complete Me and Battleship.
 
-My scores and comments reflect solid performance overall, and an upward trend through Sorting Suite. I was very happy with this project and believe it demonstrates progress in several important areas, particularly testing and encapsulation. Complete Me, my last individual project, went less well. The low score in functionality reflects methods that I just didn't get to. The lower score in enumerables is a symptom of the shortness of the code.
+My scores and comments reflect solid performance overall, and an upward trend through Sorting Suite. I was happy with this project and believe it demonstrates progress in several important areas, particularly testing and encapsulation. Complete Me, my last individual project, went less well. The low score in functionality reflects methods that I just didn't get to. The lower score in enumerables is a symptom of the shortness of the code.
 
-A few things to say about this. First, I took a risk by choosing Complete Me, which I knew would be much harder for me than Battleship. Sometimes when you take a risk, you fail! This was a major learning experience for me. First, spending more time on a problem is not always the best way to solve it. Second, use TDD and very small methods. Third, ask for help.
+A few things to say about this. First, I took a risk by choosing Complete Me, which I knew would be much harder for me than Battleship. Sometimes when you take a risk, you fail! This project was a major learning experience for me. First, spending more time on a problem is not always the best way to solve it. Second, use TDD and break difficult problems into very small steps. Third, ask for help.
 
 #### Complete Me
 
@@ -62,12 +61,16 @@ Description: CompleteMe involved building an autocomplete system using a Trie.
 
 Evaluator: Lovisa Svallingson
 
+Evaluator Comments:
+ * Don't push coverage file; add coverage to the git ignore file.
+ * Don't repeat "attr accessor."
+
 Evaluation Scores:
-  Functional Expectations: 1 (did not finish all methods)
-  Test-Driven Development: 3
-  Encapsulation/Breaking Logic Into Components: 3
-  Fundamental Ruby & Style: 3
-  Enumerables & Collections: 2.5
+  * Functional Expectations: 1 (did not finish all methods)
+  * Test-Driven Development: 3
+  * Encapsulation: 3
+  * Fundamental Ruby & Style: 3
+  * Enumerables & Collections: 2.5
 
 #### Sorting Suite
 
@@ -79,15 +82,14 @@ Description: Sorting Suite involved implementation of three sorting algorithms: 
 Evaluator: Lovisa Svallingson
 
 Evaluation Comments:
-"Very good testing - edge cases etc."
-
-"Nice use of Ruby throughout the program, especially looping and recursion."
+* "Very good testing - edge cases etc."
+* "Nice use of Ruby throughout the program, especially looping and recursion."
 
 Evaluation Scores:
-  Functional expectations: 3
-  Testing: 4
-  Ruby Style: 4
-  Organization: 4
+  * Functional expectations: 3
+  * Testing: 4
+  * Ruby Style: 4
+  * Organization: 4
 
 #### Binary Search Tree
 
@@ -99,16 +101,16 @@ Description: This project used a Binary Search Tree to store movie titles and a 
 Evaluator: Lovisa Svallingson
 
 Evaluation Comments:
-  "Good use of tests, could refactor some duplication (#insert), more sad path tests."
-  "One class, one file, one test file"
-  "Good use of recursion and Ruby syntax"
+*  "Good use of tests, could refactor some duplication (#insert), more sad path tests."
+* "One class, one file, one test file"
+* "Good use of recursion and Ruby syntax"
 
 Evaluation Scores:
-  Functional Expectations: 2 (missing one base expectation)
-  Test-Driven Development: 3
-  Encapsulation: 3
-  Fundamental Ruby & Style: 3
-  Looping or Recursion: 3.5
+  * Functional Expectations: 2 (missing one base expectation)
+  * Test-Driven Development: 3
+  * Encapsulation: 3
+  * Fundamental Ruby & Style: 3
+  * Looping or Recursion: 3.5
 
 #### Mastermind
 
@@ -120,17 +122,15 @@ Description: The Mastermind project used Ruby to build an implementation of the 
 Evaluator: Horace Williams
 
 Evaluation Comments:
-  "Like that we have a very small "runner" file that just calls into the main (start menu) class"
-
-  "Like to see so many classes -- might think of different names or different ways some of the classes get divided up -- but having all these tools in place is the first step"
-
-  "Main structural thing I would want to look at is possibly re-arranging the relationship between Play and End classes so it's possible to transition from one to the other without "nesting" directly..."
+* "Like that we have a very small "runner" file that just calls into the main (start menu) class"
+* "Like to see so many classes -- might think of different names or different ways some of the classes get divided up -- but having all these tools in place is the first step"
+* "Main structural thing I would want to look at is possibly re-arranging the relationship between Play and End classes so it's possible to transition from one to the other without "nesting" directly..."
 
 Evaluation Scores:
-  Fundamental Ruby & Style: 3
-  Enumerables & Collections: 3
-  REPL Interface and Game Functionality: 3
-  Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerables & Collections: 3
+* REPL Interface and Game Functionality: 3
+* Breaking Logic into Components: 3
 
 ## Team
 
@@ -145,13 +145,25 @@ There were two paired projects this module. I completed http with Kerry Sheldon 
 
 Description: In Black Thursday, we built a system able to load, parse, search, and execute business intelligence queries using data typical of an e-commerce business.
 
+Evaluator: Mike Dao
+
 Evaluation Comments:
+* 163 runs, 100 percent test coverage
+* Spec harness 35 seconds
+* Remember the law of Demeter
+* Test for edge cases in tests.
+* Push logic down the stack to the lowest level objects.
 
 Evaluation Scores:
-
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation:  4
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* Code Sanitation: 4
 
 Feedback from Jennifer Soden:
-Anna is a wonderful partner. Through Black Thursday I’ve seen her grow and am constantly surprised by her capabilities. She is able to work though crunchy problems with determination. She’s very communicative and able to get her ideas across to others. She could work on a couple of minor things, like when using enumerables that return altered content, not assigning them to variables and returning explicitly. She knows enumerables, but could use a little more practice implementing the right one for the job. She also gets stuck sometimes, and waits a little too long for asking for help. That being said, I have already seen progress in improving these things. I think that as long as she continues working, she will be very successful.
+"Anna is a wonderful partner. Through Black Thursday I’ve seen her grow and am constantly surprised by her capabilities. She is able to work though crunchy problems with determination. She’s very communicative and able to get her ideas across to others. She could work on a couple of minor things, like when using enumerables that return altered content, not assigning them to variables and returning explicitly. She knows enumerables, but could use a little more practice implementing the right one for the job. She also gets stuck sometimes, and waits a little too long for asking for help. That being said, I have already seen progress in improving these things. I think that as long as she continues working, she will be very successful."
 
 #### HTTP
 
@@ -166,28 +178,30 @@ Evaluation Comments:
 "I liked the implementation of the project. There were a few long methods but that is to be expected with what was happening. One thing I liked was that variables were clear and I could see what was going on. I liked their test. I encouraged them to make sure to test edge cases."
 
 Evaluation Scores:
-  Overall Functionality: 4
-  Fundamental Ruby & Style: 3.5
-  Test-Driven Development: 4
-  Breaking Logic into Components: 4
+* Overall Functionality: 4
+* Fundamental Ruby & Style: 3.5
+* Test-Driven Development: 4
+* Breaking Logic into Components: 4
 
 Feedback from Kerry Sheldon:
-Anna was a really dependable, hard-working partner on HTTP Yeah You Know Me.  She took time to understand why something does or does not work, which shows a lot of discipline and commitment to learning.  Anna was able to teach herself some of the gnarlier aspects of the project (the error handling in particular), which I would’ve struggled with independently.  Anna is strong at research, which is a plus.  At times, we found ourselves over-researching some issues and taking each other down rabbit holes.  We both recognized this issue and self-corrected as we went along.
+"Anna was a really dependable, hard-working partner on HTTP Yeah You Know Me.  She took time to understand why something does or does not work, which shows a lot of discipline and commitment to learning.  Anna was able to teach herself some of the gnarlier aspects of the project (the error handling in particular), which I would’ve struggled with independently.  Anna is strong at research, which is a plus.  At times, we found ourselves over-researching some issues and taking each other down rabbit holes.  We both recognized this issue and self-corrected as we went along."
 
-## Instructor Pairing Feedback
+### Instructor Pairing Feedback
 
 Mike, 4/19
--- You're doing fine
+* You're doing fine
+
 Tess, Mid-Module
- --Keep practicing enumerables
- --When beginning a method, write "end" before the code.
- --Don't be so quick to reach for instance variables
- --Some use of keyboard shortcuts; suggest learning a few more
+* Keep practicing enumerables
+* When beginning a method, write "end" before the code.
+* Don't be so quick to reach for instance variables
+* Some use of keyboard shortcuts; suggest learning a few more
+
 Lovisa, Early Mod 1
-  --Look at Exercism tests
-  --Consider using setup method in tests
-  --In longer test methods, use spaces between setup and expected/actual
-  --Define "expected" test return values separately if long
+* Look at Exercism tests
+* Consider using setup method in tests
+* In longer test methods, use spaces between setup and expected/actual
+* Define "expected" test return values separately if long
 
 # GitHub
 
@@ -216,8 +230,7 @@ Jenny - I've really enjoyed and appreciated working with you on Black Thursday. 
 "You're here a lot."
   --Nate Venn
 
-"Your attitude will help you succeed at Turing."
-  -- Jhun de Andres (paraphrased - on viewing frustrations as passing/temporary.)
+"Your attitude will help you succeed at Turing."  -- Jhun de Andres (paraphrased - on viewing frustrations as passing/temporary.)
 
 "Anna was a really dependable, hard-working partner on HTTP Yeah You Know Me."
   --Kerry Sheldon
