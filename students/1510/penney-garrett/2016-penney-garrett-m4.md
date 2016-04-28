@@ -132,12 +132,14 @@ I am not ready for it yet, but I would love once I get my bearings and some real
 * Individual Work & Projects: 3 - Satisfactory evaluations, clear commitment and growth in my work
 * Group Work & Projects: 4 - I feel that I excel at helping my teammates be their best selves and achieve great results
 * Community Participation: 3 - I participate in required activities as well as a couple above-and-beyond supports of the community
-* Peer & Instructor Feedback: 3.5 - I feel I help others to be their best selves and am continually trying to improve myself in response to feedback
+* Peer & Instructor Feedback: 3 - I feel I help others to be their best selves and am continually trying to improve myself in response to feedback
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Felt that M4 tied everything together for me
+* Repeating M1 set me up to understand things. This wasn't going to come easily.
+* Might have repeated M3 if I could
 
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED
