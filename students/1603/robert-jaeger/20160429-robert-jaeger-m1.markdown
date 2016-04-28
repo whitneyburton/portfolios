@@ -20,17 +20,17 @@ Assessed by: Jhun de Andres
 
 
 #### Scores
-1. Ruby Syntax & API - ​3: Developer is able to write Ruby with some debugging of fundamental concepts
+1. **Ruby Syntax & API** - ​3: Developer is able to write Ruby with some debugging of fundamental concepts
 
-2. Completion and Progress - ​3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+2. **Completion and Progress** - ​3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 
-3. Testing - ​3: Developer writes tests that are effective validation of functionality, but don't drive the design
+3. **Testing** - ​3: Developer writes tests that are effective validation of functionality, but don't drive the design
 
-4. Workflow - ​3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+4. **Workflow** - ​3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
-5. Collaboration - ​3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+5. **Collaboration** - ​3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
-6. Enumerable & Collections - ​3: Application demonstrates comfortable use of appropriate Enumerable methods
+6. **Enumerable & Collections** - ​3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 ### Work
@@ -155,26 +155,30 @@ A simple **HTTP server** constructed in Ruby. The server can accept GET and POST
 
 * [GitHub URL](https://github.com/robbiejaeger/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
-* [Eval](https://github.com/robbiejaeger/black_thursday/blob/master/README.md)
+* [README](https://github.com/robbiejaeger/black_thursday/blob/master/README.md)
+* [Eval](https://github.com/turingschool/ruby-submissions/blob/master/1603/bt_or_hc/luigi_robbie_peter.markdown)
 
 ##### Description
 A **business analytics** program that constructs a basic database system with relationships between repositories. The sales analyst can generate business metrics and analyses for merchants, items, invoices, and transactions.
 
 ##### Evaluation Comments:
+* Code is good
+* Wished code had modules or refactored to parsing methods to be a little more agnostic
+* Some good enumerables
 
 ##### Evaluation Scores:
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation / Breaking Logic into Components:
-* Fundamental Ruby Style:
-* Enumerable & Collections:
-* Code Sanitation:
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby Style: 3
+* Enumerable & Collections: 3
+* Code Sanitation: 4
 
 
 ## Other Requirements (Protocol)
 
 * [DTR memo from HTTP Yeah You Know Me](https://github.com/lucyfox4131/http_yeah_you_know_me/blob/master/DTR.md)
-* [Project README sample]()
+* [Project README sample](https://github.com/robbiejaeger/black_thursday/blob/master/README.md)
 
 ### Instructor Pairing Session (Mike)
 
@@ -195,6 +199,7 @@ A **business analytics** program that constructs a basic database system with re
 
 
 ### Being a Community Member
+> Robbie has been a great resource and pairing partner during module one. He has sharp technical skills and an great attitude that makes him pleasure to work with.  Each time we coded together we got into a good flow and worked effectively as as unit to solve a problem. We also came up with some pretty dope methods.  Robbie’s approachable personality and genuine desire to help you understand problems conceptually make him an excellent person to help solve those juicy coding problems. I look forward to working with Robbie in the next module. **- Brian Sayler**
 
 > I feel lucky having had the chance to work with Robbie for our first pair project. Though we had a few minor git issues along the way I was very impressed with his problem solving and code skills. It's evident when working with Robbie that he has put a lot of time into learning proper Ruby style and syntax. Throughout the project he always knew the right enumerable/method to use to get the job done. Robbie takes the time to thoroughly explain his ideas and thought process clearly. I appreciated that he always made sure that both of us understood the problem we were tackling so that we could find the best way to solve it. **- Lucy Fox**
 
@@ -206,10 +211,31 @@ A **business analytics** program that constructs a basic database system with re
 
 * Participated in Hackathon with posse group (Ritchie Posse) to make a Ruby REPL word game (rhyming words)
 * Attended every posse meeting
+* Attended every lightning talk, gear up, and student elective I signed up for
 * Helped others with projects when I could
 
 
 ## Review
+
+### Self Assessment
+
+**A. End-of-Module Assessment:** 3
+
+I was more nervous than I should have been, and I didn't drive the assessment as much as I should have. I was looking to the assessor too much for signs of if what I was doing was correct and if I should move to the next task.
+
+**B. Individual Work & Projects:** 3
+
+All individual projects were successful (3's and 4's). I have room to grow with class single responsibility.
+
+**C. Group Work & Projects:** 3
+
+All group projects were successful (3's and 4's). I'm still working on how to divide work between group members. I'm also working on improving my git workflow.
+
+**D. Community Participation:** 3
+
+
+
+**E. Peer & Instructor Feedback:** 3
 
 ### Notes
 
