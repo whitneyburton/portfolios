@@ -156,18 +156,33 @@ The only real critic of Justin that had after our two week adventure was that hi
 This module I played a part by offering 2 student led sessions on the object model for mod 1 students to help them get the concepts down.  I also had weekly pairing sessions with Emily McClung and Emily Blanchard until they both left school for personal reasons.  I also did a few things around Turing which needed to be done like cleaning the fridge and mopping up the water spill which resulted in our posse receiving a generous amount of points so I feel like I had a big hand in getting some t-shirts (unashamed assuming our win at the time of this writing) to my posse teammates which obviously is the biggest accomplishment at the entire school of Turing.  
 
 ## Review
-### Rubric Scores
-
- * **A: End-of-Module Assessment**: 3
- * **B: Individual Work & Projects**: 3
- * **C: Group Work & Projects**: 3
- * **D: Community Participation**: 4
- * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+## A: End-of-Module Assessment
+
+* 3+: Student achieved a "3" or better on each category of the assessment || excused from assessment
+
+## B: Individual Work & Projects
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+
+## C: Group Work & Projects
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
