@@ -30,6 +30,8 @@ While I struggled with following through in my early assignments in this module,
 #### Mastermind
 * [GitHub URL](https://github.com/marcellawigg/mastermind)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown)
+Created basic game that uses the REPL interface.
+
 **Assessed by** Mike
 
 **Comments**
@@ -38,26 +40,17 @@ While I struggled with following through in my early assignments in this module,
 * Clean Ruby overall for this point in module.
 * Frustrated because REPL had been working, but I attempted an extension and broke in process.
 
-### 1. Fundamental Ruby & Style
-
-* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-
-### 2. Enumerable & Collections
-
-* 3: Application demonstrates comfortable use of several Enumerable techniques and collections
-
-### 3. REPL Interface and Game Functionality
-
-* 2: Application's REPL has inconsistencies and/or there are errors in base gameplay
-
-### 4. Breaking Logic into Components
-
-* 3: Application consistently breaks concepts into logical methods to encapsulate functionality.
+1. Fundamental Ruby & Style: 3
+2. Enumerable & Collections: 3
+3. REPL Interface and Game Functionality: 2
+4. Breaking Logic into Components: 3
 
 #### Recommendations
 
 * [GitHub URL](https://github.com/marcellawigg/recommendations.git)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
+
+Create binary search tree that recommends items.
 
 **Assessed by** Nate
 
@@ -78,6 +71,8 @@ While I struggled with following through in my early assignments in this module,
 * [GitHub URL](https://github.com/marcellawigg/sorting-suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
+Create program that sorts via several algorithms.
+
 **Assessed by** Lovisa
 
 **Comments**
@@ -85,17 +80,17 @@ While I struggled with following through in my early assignments in this module,
 * Testing thorough enough. Tested for each method.
 * Tests need better, more consistent names, as they are not currently consistently clear as to what they are doing.
 
-Functional Expectations: 3
-Testing: 3
-Ruby Style: 3
-Organization: 4
+1. Functional Expectations: 3
+2. Testing: 3
+3. Ruby Style: 3
+4. Organization: 4
 
 #### Complete Me
 
 * [GitHub URL](https://github.com/marcellawigg/complete-me)
 * [Original Assignment](https://github.com/marcellawigg/complete-me)
 
-(description)
+Using tries, created a basic autocompletion system.
 
 **Assessed by** Lovisa
 
@@ -122,38 +117,28 @@ Overall, I think both HTTP and Black Thursday have been majorly time consuming, 
 * [GitHub URL](https://github.com/marcellawigg/http_yeah_you_know_me)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-(description)
+Built a server with ability to play several basic games using Ruby.
 
 **Partner** Karina
 **Assessed by** Jhun
-**Comments** (in evaluation).
-
-### 1. Overall Functionality
-* 3: Application implements iterations 0 - 4
-
-### 2. Fundamental Ruby & Style
-
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+**Comments**
 * First group to use a module. I liked that. Code was pretty clean. Some portions had pieces and parts to look at and work on but with what they had i think they were okay.
-
-
-### 3. Test-Driven Development
-
-* 2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
 * little to no test.
-
-### 4. Breaking Logic into Components
-
-* 3.5: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 * For the most part their code had single lined methods and had single responsibility. I feel if they had more time things could of been a little tidier but I do like the implementation of the classes.
+
+1. Overall Functionality: 3
+2. Fundamental Ruby & Style: 4
+3. Test-Driven Development: 2
+4. Breaking Logic into Components: 3.5
 
 #### Black Thursday
 
-* [GitHub URL](https://github.com/marcellawigg/http_yeah_you_know_me)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+* [GitHub URL](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [Original Assignment](https://github.com/icorson3/bt)
 
 **Partner** Ilana
 **Assessed by** Mike
+
 **Comments**
 
 
@@ -169,12 +154,18 @@ Overall, I think both HTTP and Black Thursday have been majorly time consuming, 
 
 ### Being a Community Member
 
-**(From Ilana)** Marcella was an amazing partner. She picked up the logic where I felt that I was slacking. Her solutions are creative and she can tell what errors will happen before they do. Overall, Marcella would make an amazing asset to any company.
+**(From Ilana)** From day one, Marcella was an easy going partner. Her ability to define the relationship from the beginning, helped set expectations for the whole project. She was open to working whenever was most convenient and stayed exceptionally focused. Whenever we would hit a frustrating part of Black Thursday, Marcella would be the one to push us to fight through the problem. She would anticipate bugs before they happened and would know when running tests, exactly the information we were expecting. Marcella was patient when I would get frustrated and her motivation to complete the task at hand inspired me to keep moving forward in a difficult time. I would recommend Marcella to anyone as a wonderful partner or any company.
+
+
 
 ### Playing a Part
 * Participated in Hopper Posse
 * Participated in Impostors Lunch
 * In second half of module, became regular fixture here on evenings and weekends to work on projects, and got to know fellow students.
+
+##Module 1 Requirements
+  [DTR Memo](https://docs.google.com/document/d/1RMstISGcp1txB_KDKLQiABb-8mN6DqyU9b9m2R7CPzU/edit)
+  [README]
 
 ## Review
 ###Self-Assessment
@@ -184,7 +175,7 @@ Overall, I think both HTTP and Black Thursday have been majorly time consuming, 
 **Community Participation:** 3
 **Peer and Instructor Feedback:** 3
 
-Self-Outcome: Conditional promotion, pending revision of second assignment.
+Self-Outcome: Promotion (possibly conditionally, but I did have an upward trend)
 
 ### Notes
 
