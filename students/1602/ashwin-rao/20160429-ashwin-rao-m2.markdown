@@ -14,7 +14,7 @@ I also intend to increase my community involvement by helping Mod 1 students and
 
 ### End of Module Assessment
 
-** Rachel performed my assessment and gave the following comments and results: **
+**Rachel performed my assessment and gave the following comments and results:**
 
 * Good use of pseudocode and user stories. This helped me keep track of your thinking throughout the assessment.
 * Efficient preparation of minimum correct data for testing
@@ -66,6 +66,24 @@ The next steps in this project would be to allow a user to rent the tool for a p
 
 I acted as team lead on this project.
 
+**Andrew evaluated this project with the following results:**
+
+* Overall a strong effort. There are some areas to improve with regarding to refactoring in the controllers and git workflow. Important to practice making comments on pull requests and code because that's what the real world wants.
+* specific areas needing refactoring: using partials for admin tool creation and editing, navbar login/logout logic, using request.referrer to figure out where user is coming from, in OrderCreator taking in session but then setting instance variables in initialize
+* could improve test performance by stubbing current_user instead of going through login process each time
+* capybara tests should always scope to an html element
+* need minor styling polish to make it really deliverable
+
+Category | Score
+--- | ---
+Feature Completeness | 3
+Views | 3
+Controllers | 3
+Models | 3.5
+Testing | 3
+Usability | 3
+Workflow | 3
+
 #### Performance Review
 * [Github](https://github.com/theonlyrao/performance_review)
 * *personal project*
@@ -111,7 +129,23 @@ View Layer | 3.5
 I gave substantive feedback to every person with whom I worked on a project. I tried to give comments that were constructive, actionable, and kind.
 
 #### Feedback about me
-"It was very nice collaborating with Ashwin on this project. He is very communicative about his thought process, and systematic in his problem solving. We also successfully decided on a strategy to tackle this project, and Ashwin (and the rest of the team) were able to carry it out efficiently and successfully. I really appreciated his diligence with Test Driven Development and resourcefulness when facing complicated errors. I think more time building web applications will help Ashwin get a better sense  how to trace down errors and structure the software." - Patrick Hardy, Rush Hour teammate
+"Working on a project with you pushed me to grow rather than remaining in my comfort zone during the project. That extra push helped me to achieve and learn more than I otherwise might have, and I deeply appreciate it.
+
+You helped our team to stay nimble and focused throughout the project.  You had an impressively logical approach to every problem, and the emphasis that you put on developing and fulfilling tests and user stories helped to keep the group on track and solving problems in an iterative manner.
+
+I came to appreciate just how flexible and open you often could be to others' ideas, no matter how sudden the change in direction or focus would be for the group.
+
+You're great at this, and I think that you will undoubtedly be a strong member of any team. At times I think that your focus and directness can come across as very intense in a way that some members of your team could find confrontational. I think that your legal background plays a significant part in your delivery, and I think that I understand that because at times people misconstrue my directness in conversation. But, this kind of miscommunication is a loss for both sides, because it makes it harder for you to make yourself heard, and harder for others to understand your ideas.
+
+Every group is different, and I think that being sure to read your team members will help you to get your ideas across without losing your audience. I'm glad to have gotten to know you over the course of this project and I'd absolutely be happy to work with you again. Thanks for all of your hard work!" - **Kami Boers, Little Shop teammate**
+
+"Ashwin, I think you did an excellent job of organizing the flow of the project. I appreciate you keeping us on track and moving through the TDD. I also appreciate your professionalism. This was the best organized project I've been part of at Turing.
+
+One thing that might be an area for improvement (perhaps in me more than you) there were times I felt like you were uncomfortable working with me. Again, though I don't know if that is anything you can do or if it is just my perception." - **Chris Soden, Little Shop teammate**
+
+"It was very nice collaborating with Ashwin on this project. He is very communicative about his thought process, and systematic in his problem solving. We also successfully decided on a strategy to tackle this project, and Ashwin (and the rest of the team) were able to carry it out efficiently and successfully. I really appreciated his diligence with Test Driven Development and resourcefulness when facing complicated errors. I think more time building web applications will help Ashwin get a better sense  how to trace down errors and structure the software." - **Patrick Hardy, Rush Hour teammate**
+
+"Ashwin and I worked together on the Rush Hour project.  I was thoroughly impressed with his organization, communication skills and ability to think strategically about a problem before tackling it.  From the beginning, he helped document our DTR and we pretty much followed that like a book until the end of the project.  He also made great suggests to help our group work through tough problems.  In particular, if everyone had a suggestion at the same time, he would suggest ways to tackle each suggestion until we found the solution.  In part because of his leadership, we were able to finish a day early on the project. Ashwin has a strong grasp of problems and can think very conceptually about these problems but then communicate the solutions in various ways including drawings and walking through the problem. I look forward to working with Ashwin in the next module and hope to continue growing and learning from him." - **Marina Corona, Rush Hour teammate**
 
 =======================================
 
