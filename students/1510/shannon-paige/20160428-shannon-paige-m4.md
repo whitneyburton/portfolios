@@ -3,16 +3,18 @@
 ## Individual
 
 ### Your Mission
+
 Finish Turing!! But seriously, my main concern going into mod 4 was to finish strong, while keeping
 the peace and stress free existence I had honed during my second time in Mod 3. And to continue to push
 myself. I am so happy to have been a part of 1510, because they have encouraged me to reach outside of
 my comfort zone a little more every day.
 ​
-
 ### Attendance
+
 I missed 1 day due to do dealing with a crazy huge tax bill.
 
 ### Total Score
+
 1001/1250
 
 ## Individual
@@ -25,11 +27,12 @@ Below is a list of the individual projects I completed this module.
 * [GitHub URL](https://github.com/ShannonPaige/idea-box)
 * [Production URL](https://idea-box-shannon.herokuapp.com/)
 
-Assesment:
+Assessment:
 * 166/150
 
 
 #### Thoughtbox
+
 * [GitHub URL](https://github.com/ShannonPaige/thoughtbox)
 * [Production URL](https://quiet-ridge-75785.herokuapp.com/dashboard)
 
@@ -37,12 +40,12 @@ Assessment:
 * 70/100
 
 #### Real Time
+
 * [GitHub URL](https://github.com/ShannonPaige/real-time)
 * [Production URL](https://obscure-castle-51089.herokuapp.com/)
 
 Assessment:
 * 119/200
-
 
 ## Team
 
@@ -57,7 +60,6 @@ Below is a list of the team projects I completed this module.
 
 Assesment:
 * 113/150
-
 
 #### Scale Up
 
@@ -91,14 +93,20 @@ I saved Shannon’s feedback for last. Shannon and I are ride and dies. We have 
 
 ## Review
 
+### Scores
+
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
+
 ### Notes
 
-( Leave blanks for reviewers )
+* Made some purposeful choices in individual projects that led to weak scores,
+but able to do the work
+* Contributed to an open source library
 
 ### Outcome
 
-A: End-of-Module Assessment: 4
-B: Individual Work & Projects: 4
-C: Group Work & Projects: 4
-D: Community Participation: 4
-E: Peer & Instructor Feedback: 4
+GRADUATED
