@@ -1,188 +1,142 @@
-# Justin Pease - M3 Portfolio
+# Justin Pease - M4 Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
-(Before) - Being my second time through module 3 I have some new goals.  I have some technologies that I want to learn but there are some other personal learning challenges I want to address.  I had 2 learning challenges that I need to overcome.  
+This module I set out to learn as much javascript as I could.  The ability to learn js under Steve and Meeka is a very valuable thing so I wanted to soak up as much as I could.  I also wanted to come through a module successfully one time.  The first 2 modules here were incredibly difficult for me. Things started to pick up steam after that but I blew up my final project in mod 3 and repeated that too.  I feel that I could spend more time with the material in mod 4 to really nail it in place but I feel like the forward momentum did continue in this module and I feel that I navigated this module successfully which really was a big deal for me.   
 
-Technical goals are to learn jQuery, ajax, javascript and to increase my typing speed and ability.  I am interested to learn how these technologies can increase the web app I build with ruby and Rails.  I also want to deepen my understanding of rails and take the opportunity to fine tune the structure of my rails apps.  
+### End of Module Assessment
 
-The areas that have come to my attention in my learning style that I would like to address are: 1. When I don't understand something, I have tended to use code that works rather than getting a deep understanding of what is happening.  The best example is api calls.  I used code from our class and when the api I was working with didn't match that example, I couldn't adjust my code because I didn't fully understand what was happening.  2. I don't memorize information well until I have a tremendous amount of time working with it.  There are many pieces of code that I do understand but would not be able to remember how to rewrite it unless I have a section of code from another project in front of me.  I'm not actually sure what to do about this.  There is so much code that we use I will never be able to memorize it all and if I understand how it works I don't feel bad taking past code but I also don't fully feel comfortable not being able to remember a lot of things that we need to use.  
+Spinboard - 115 out of 125 points.
 
-(After) - I am encouraged reading the above notes from the beginning of the module.  I feel that the goals that I set out to accomplish were successfully tackled.  I was able to learn more about rails, fill in the gaps of knowledge in api calls and the oauth process, and I was able to build a significant part of my final project with ajax and javascript.  
+### Work
 
-I was disappointed in my final project since I felt I was strong enough to produce a great app to display but the final product was lack luster.  I took on a challenge to use javascript and ajax which I was pretty pleased with but there were some issues that I didn't resolve in time.  
+## Team Projects
 
-# Justin Pease
+#### Game Time
 
+* [GitHub URL](https://github.com/jecrockett/gametime)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
-## Notes
+- Build a game that is playable in the browser. There is no server-side component for this project. You'll be using client-side JavaScript exclusively to complete this project.
 
-## Scores
+##### Instructor Feedback
 
-## Team
+- Points: (base 300)
+150 for all 3 checkins
+190 for final implementation
 
-### Projects
+##### Playability Features
 
-I participated in the following team projects:
+All present and then some
 
-#### The Pivot
+##### Extensions
 
-* [GitHub URL] - https://github.com/Jpease1020/the_pivot
-* [Original Assignment] https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md
+- MultiPlayer - 10
+- Websockets - 20
+- Canvas Expansion - 20
 
-In this project, we built upon an existing implementation of Little Shop. We transformed our restaurant ordering site into a platform that handles multiple, simultaneous businesses. Each business had their own name, unique URL pattern, items, orders, and administrators.
-### Scores
+##### Functional Expectations
 
-#### Client Scores
+35 points - Application is fully playable and exceeds the expecations set by instructors
 
-* Completion: 3: Team completed all the user stories and requirements set by the client.
-* Organization: 4: Team used a project management tool and updated their progress in real-time.
-* User Experience: 2: Project exhibits some gaps in the UX.
-* Extensions: 1: Developers but did not build any extensions.
+##### User Interface
 
-#### Technical Scores
+15 points - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
 
-* Test-Driven Development: 3
-* Code Quality: 3
-* Git Workflow: 4
+##### Testing
 
+30 points - Project has a running test suite that exercises the application at multiple levels. The test suite convers almost all aspects of the application and uses mocks and stubs when appropriate.
 
-#### Api Curious
+##### JavaScript Style
 
-* [GitHub URL] - https://github.com/Jpease1020/testing-instagram
-* [Original Assignment] -https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md
+25 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-In this project, we'll be focusing on consuming and working with data from public APIs.
+##### Workflow
 
-As a vehicle for learning this concepts, we'll be selecting an API from a popular website and working to re-construct a simplified version of the website's existing UI using their own API. For example, you might decide to use the Twitter API to build a basic version of the Twitter feed where users can view and post tweets.
+25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
-As we build these features, we'll also be working with the OAuth protocol to authenticate our users with the third-party provider, and using various testing techniques to allow us to test against the third-party data.
+##### The output from JSHint shows…
 
+10 points - Five or fewer complaints
 
-#### Rales Engine
+## Individual Projects
 
-* [GitHub URL] - https://github.com/Jpease1020/Rails-Engine-2
-* [Original Assignment] - https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md
+#### Real Time
 
-In this project, you will use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
+* [GitHub URL](https://github.com/Jpease1020/crowdsource)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
-Assessor: Lovisa
+Every project that we've done so far—with the exception of Game Time—has been bound by the whole HTTP request/response cycle. In this project, we're going to head off the beaten track for a bit and build real time applications with WebSockets. When the server gets new information, it pushes it out to all of the connected clients.
 
-Notes:
+#### Instructor Feedback
 
-all methods implemented expect "best day associated with one item"
-extensive testing, could improved organization within the test to increase readability
-Very restful API, well designed and well organized
-only SQL for your queries :thumbsup:
-repo: https://github.com/Jpease1020/Rails-Engine-2
-completion: 4
-test-driven-development: 4
-code-quality: 4
-api-design: 4
-queries: 4
+148/200 points
 
-#### Self Directed Project
+##### Concept and Features
 
-* [GitHub URL] - https://github.com/Jpease1020/Bus-or-Uber
-* [Original Assignment] - https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md
+Does it have the expected features?
 
-The goal of this project is to create a successful web application from a project idea. You will create an app that will authenticate with a third-party service, consume an api, and solve an actual problem.
+* 75 points - Met expectations as outlined by the user personas, the application is a solid first version. All planned features were delivered.
 
-* scores
-* instructor: Tess
+##### Code Quality (JavaScript and/or Ruby)
 
- notes: Something broke last night with the api, not sure what it is, but I've seen the app work
- completion: 3: Developer completed all the user stories and requirements set by the client.
- organization: 3: Developer used a project management tool to keep their project organized.
- test-driven-development: 3: Project shows adequate testing (90% - 95% coverage). (needs JS tests)
- code-quality: 3: Project demonstrates solid code quality and MVC principles.
- user-experience: 3: Project exhibits a production-ready user experience.
- performance: 3: Project pages load on average under 400 milliseconds.
+* 20 points - Developer writes effective code, but does not breakout logical components. Application shows some effort to break logic into components, but the divisions are inconsistent or unclear. There are many large methods or functions and it is not clear to the evaluator what a given section of code does.
 
-#### End of Module Assessment
+##### Client-Side Application
 
-* [GitHub URL] - https://github.com/Jpease1020/module_3_assessment
-* [Original Assignment] - https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/assessment.md
+* 25 points - Your application is thoughtfully put together with some duplication and no major bugs.
 
-This assessment is individual and you will be working on it for 3 hours. It's advisable to familiarize yourself with the recommended resources (details below) before the assessment.
+##### Test-Driven Development
 
-It is not necessary to complete the assessment in order to pass. You need to demonstrate a good understanding of the code you are working with and to be able to implement features at the speed of a junior developer.
+* 20 points - The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic is not fully tested.
 
-In this assessment you will:
+##### Interface
 
-Use test-driven development
-Work with a third party API
-Demonstrate mastery of all parts of the Rails stack
-Demonstrate mastery of Ruby throughout the process
-Commit every 15 minutes to track your progress (details below)
+* 4 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
-#### Possee Challenges
+##### Workflow
 
-* - https://github.com/martensonbj/posse_challenges_2/tree/master/Enumerables
-* - https://github.com/matt-stj/ruby_people_database
-* - https://github.com/damwhit/college_scorecard
-* - https://github.com/damwhit/posse/tree/master/code_breakers
+* 4 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
 
 ## Community
 
 ### Giving Feedback
-Feedback for Lenny Meyerson
 
-I really enjoyed working with Lenny on the Pivot.  Lenny is very very funny.   A good personality is very important when working in close quarters.  Lenny is a very deep thinker and likes to understand things deeply which is a big asset for long term growth.  When I worked with him I saw an intelligent guy who was comfortable with the code.  Lenny may need to assess his own learning style.  He struggled with the module but I defiantly saw a very intelligent and capable guy so that leads me to believe there may be something in the process he uses to learn that may need to be adjusted.  Looking at the process may give insight on how to adjust and allow his abilities to shine.  During the pivot, Lenny had a system for looking at pull requests which was very thorough and challenged me to be more thorough but I did questions his ability to step outside that process and question it allowing him to make better decisions on when to be thorough and when he didn’t need to be.  Over all, I reaffirm that I very much enjoyed working with him during the project.
+Feedback for James Crockett -
+Jamie was great to work with on the Game Time project.  It was incredible watching him and Jamie take off with their ability to absorb and use the advanced javascript methods we learned in class.   Jamie figured out web sockets and some the advanced methods such as partial application and bind very quickly.  I was definitely getting behind in the project but he was very patient helping to get me caught up with the complex things he implemented.  Honestly, game time was the best group project experience of Turing for me and it was because Jamie and JP were not only very talented programmers but they were just very easy to work with.  I know were supposed to give some negative feedback but I really can’t think of anything.  Working with those guys was just a great over all experience.
 
+Feedback for JP -
+JP was great to work in during the Game Time project.  It was incredible watching him and Jamie take off with their ability to absorb and use the advanced javascript methods we learned in class.  JP also took on an extension that was very challenging and knocked it out of the park.  I was definitely getting behind in the project but he was very patient helping to get me caught up with the complex things he implemented.  He was incredibly easy to work with.  I really can’t offer a lot of negative feedback because I didn’t see any.  On a personal level, he is a very kind person but I think he could do more to share himself with the people around him.  I need to take the exact same advice but he is a pretty cool guy and I think people would really benefit from his friendship.
 
-Feedback for Beth Sebian
+### Being a Community Member
 
-Beth was great to work with.  
-Beth was the team lead for our little shop project and she was a natural.  She was well organized and was very good at delegating task for the team.  It took me a while to adjust to her style but once I understood it I found a lot of value in it and was able to learn a lot from her system of organization.  I wonder if Beth would benefit form being a little more assertive when dealing with issues in the team.  I had a fe challenges getting some stuff done in the amount of time appropriate for the tasks I was working on and it felt to me that Beth was bothered well before she mentioned.  I may be wrong but if I assess this properly, she should feel comfortable addressing issues sooner.  She has a lot of leadership qualities and contributed much to the project code.
-### Feedback Received
+Feedback from JP -
+Having the opportunity to work with Justin on the GameTime project was a true pleasure. This was the first time we got to really spend a lot of time working on something together, and he showed himself to be an unrelentingly positive and constructive team member. Justin faced an additional challenge on this project as he joined our group ~3 days in when Jamie and I had already constructed part of the codebase. He managed to get caught up and still tackle new and interesting challenges with us (websockets in particular!). I almost feel as though Justin may have undervalued his contribution to the project since he had to learn the existing code at first, but I can safely say it would not have succeeded without his input. Justin also excels at working in a team environment, and does a great job of communicating and making sure the whole group is on the same page. He should definitely be proud of his ample contributions, and I’d love to have the opportunity to work with him again!
 
-From - Steve Pentler
-“I thought I had an extreme work ethic until I met Justin. But more importantly, exaggerations aside, I don’t think I would nearing the end of module 3 without Justin’s help. When I was in module one, he consistently met with me on Thursday mornings to review code or cover topics of my choice. During those sessions, a lot of ‘Ah hah!’ moments happened,  which likely made the difference considering I was on the cusp. Thank you!”
-
-From - Beth Sebian
-Justin was a pleasure to work with. Although he and I paired on one of my more challenging projects here at Turing, the project stood out for the low-stress culture our team created. Justin had a big influence on that culture, and I learned a lot being able to work with him. In particular, Justin is respectful and communicative with teammates, worked hard to get the work done, took ownership of tasks assigned to him (especially bringing issues back to me as project manager to make sure our project direction was clear), and checking in with teammates regularly to make sure we were all keeping sane. On this latter point in particular, Justin stood out to me as a leader. Our project did struggle with pace a bit on that project; where Justin struggled with that in particular, I would have liked to see him be more proactive to work with deadlines and communicate with me if they were not realistic — it took our team awhile to find a good rhythm on that front. In general, Justin was a treat to work with. He lent calmness and an easy-going vibe to the project, and you put in a lot of effort to get the job done.
-
-
-From - Lenny Meyerson
-Working with Justin on the only group project we had during Module 3 was great for me. Justin has a keen desire to be supportive. He wants to help. Any question I might have had or discomfort that I voiced was always met with a drop-everything-this-is-important attitude. He was enormously enthusiastic about every aspect of the project. His attitude made me want to work harder, it made long hours more tolerable, and it made questions easier to ask. He shared opinions based on previous experience but was always open to trying new ways.  
-The only real critic of Justin that had after our two week adventure was that his enthusiasm sometimes blinded him to the level of workload to be handled. It became clear pretty quickly on our project that Justin’s genuine enjoyment of the coding experience sometimes rendered his time estimates of given task less than reliable. Setting out on a given task, full of confidence and enthusiasm, Justin might pronounce that said task should take no more that half an hour. Three hours later and nearly done with that task his enthusiasm seemed undaunted by the clock. It’s hard to find real fault in this. Time and experience will likely improve on Justin’s ability to estimate a given task’s time demands. It is, however, worth noting and maybe something he wants to keep in mind as he prepares to head, gleefully, into the work force.
+Feedback from Jamie -
+One of Justin's best qualities is his eagerness to communicate and make sure everybody is on the same page. Our gametime project had many new/different concepts going on simultaneously, and it wasn't unusual to break for the day as a group but come back the next day to a brand new feature having been heavily worked on and advanced. Justin urged us to walk through these new features together so that we all understood the inner workings. That was super helpful for me as a teammate, because I have a tendency to rush on to the next unsolved issue too quickly. There were multiple instances where I eagerly jumped in to explain a feature, only to realize half way through that I didn't fully understand the process going on either. I felt we all understood a larger portion of the final product than we otherwise would have without Justin's guidance. Constructively, I think Justin sometimes tries to code like I used to play piano pieces, which was to memorize the whole thing at all times. It's super helpful to walk through and understand the innards of a class or object, but try to be comfortable forgetting it too. It's nigh impossible to maintain a full application's context and functionality in your head, so once you grasp a concept, trust your ability to reason through it again later, accept it for the high level responsibility it handles, and allow your mental storage to move forward.
 
 ### Playing a Part
 
-This module I played a part by offering 2 student led sessions on the object model for mod 1 students to help them get the concepts down.  I also had weekly pairing sessions with Emily McClung and Emily Blanchard until they both left school for personal reasons.  I also did a few things around Turing which needed to be done like cleaning the fridge and mopping up the water spill which resulted in our posse receiving a generous amount of points so I feel like I had a big hand in getting some t-shirts (unashamed assuming our win at the time of this writing) to my posse teammates which obviously is the biggest accomplishment at the entire school of Turing.  
+I have spent a bit of time with Sonia from mod 1 helping her learn ruby.  I have also started a group last week for the kids repeating mod 1 and pairing with them one on one to help them get a better understanding of ruby and helping them prepare for repeating mod 1 successfully.  I plan on helping them next week during the intermission.  
 
 ## Review
 
+### Rubric Scores
+
+  * **A: End-of-Module Assessment**: 3
+  * **B: Individual Work & Projects**: 3
+  * **C: Group Work & Projects**: 3
+  * **D: Community Participation**: 4
+  * **E: Peer & Instructor Feedback**: 3
+
 ### Notes
 
-## A: End-of-Module Assessment
-
-* 3+: Student achieved a "3" or better on each category of the assessment || excused from assessment
-
-## B: Individual Work & Projects
-
-* 4: Student demonstrates excellent growth by not only achieving satisfactory
-evaluations for each project but also pushing their learning beyond expectations.
-
-## C: Group Work & Projects
-
-* 3: Student fully participates in their group work to facilitate group harmony
-while achieving consistently satisfactory results.
-
-## D: Community Participation
-
-* 4: Student has a significant positive impact on the learning and spirit of the
-people around them.
-
-## E: Peer & Instructor Feedback
-
-* 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback.
+( Leave blanks for reviewers )
 
 ### Outcome
 
-Promoted
+( Leave blanks for reviewers )
