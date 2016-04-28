@@ -25,35 +25,14 @@ It's definitely been a wild ride, but I feel its been quite successful too.
 
 Notes: Ryan was great! I really appreciated his ability to program. I feel like the only thing he can work on is collaboration. He's getting better at it. He was thankful for the feedback I gave him. He has a solid knowledge of ruby.
 
-
-**1. Ruby Syntax & API**
-
-* 4: Developer is able to write Ruby with a minimum of reference or debugging
-
-
-**2. Completion and Progress**
-
-* 4: Developer fully completes baseline assignment and one of the Challenge options.
-
-
-**3. Testing**
-
-* 4: Developer excels at taking small steps and using the tests for both design and verification
-
-
-**4. Workflow**
-
-* 4: Developer is a master of their tools, efficiently moving between phases of development
-
-
-**5. Collaboration**
-
-* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
-
-
-**6. Enumerable & Collections**
-
-* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+Category | Score
+---|---
+Ruby Syntax & API | 4
+Completion and Progress | 4
+Testing | 4
+Workflow | 4
+Collaboration | 3
+Enumerable & Collections | 3
 
 ### Personal Projects
 
@@ -73,22 +52,12 @@ focus on the baseline
 * biggest issue with class divisions is how uneven they are -- Game is doing much more work than some of the others, and some the jobs that it's doing really fit into the other classes (UI printing / getting, etc)
 * Probably could even carve out a few more objects from the game -- maybe one dedicated for managing code sequences or checking guesses
 
-
-**1. Fundamental Ruby & Style**
-
-* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-
-**2. Enumerable & Collections**
-
-* 4: Application consistently makes use of the best-choice Enumerable methods and collections
-
-**3. REPL Interface and Game Functionality**
-
-* 3: Application's REPL is clear and pleasant to use and application fulfills base expectations from the project spec
-
-**4. Breaking Logic into Components**
-
-* 3: Application consistently breaks concepts into logical methods to encapsulate functionality.
+Category | Score
+---|---
+Fundamental Ruby & Style | 3
+Enumerable & Collections | 4
+REPL Interface and Game Functionality | 3
+Breaking Logic into Components | 3
 
 #### Suggested For You
 
@@ -106,27 +75,13 @@ Notes:
 * Method length is acceptable, but could be broken out more
 * Take a look at the class as a whole in the spec, and plan out some architecture before attacking the problem. Echo is a bitch.
 
-**1. Functional Expectations**
-
-* 2: Application is missing one base expectation
-
-**2. Test-Driven Development**
-
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-
-
-**3. Encapsulation / Breaking Logic into Components**
-
-* 3: Application effectively breaks logical components apart but breaks the principle of SRP
-
-**4. Fundamental Ruby & Style**
-
-* 3:  Application shows strong effort towards organization, content, and refactoring
-
-
-**5. Looping *or* Recursion**
-
-* 3: Application makes effective use of loop/recursion techniques
+Category | Score
+---|---
+Functional Expectations | 2
+Test-Driven Development | 3
+Encapsulation / Breaking Logic into Components | 3
+Fundamental Ruby & Style | 3
+Looping *or* Recursion | 3
 
 #### Sorting Suite
 
@@ -141,21 +96,12 @@ Sorting Suite is a collection of implementations for common sorting algorithms. 
 * nice job completing the required tests and adding a couple extensions
 * looked at a couple techniques for consolidating some common code paths in the benchmarking code -- using class name reflection to simplify some formatting and extracting an additional method to share common code between 2 paths
 
-**Functional Expectations**
-
-* 4: All three sort classes work as expected with 2 or more extensions.
-
-**Testing**
-
-* 4: Tests are clearly written with names that accurately describe the behavior. Edge cases such as empty arrays, reversed arrays, etc are also tested.
-
-**Ruby Style**
-
-* 3: Code is a readable and effective implementation of the algorithm. Has fewer than 4 "what on earth is this?" lines of code.
-
-**Organization**
-
-* 4: Version control maintains the codebase
+Category | Score
+---|---
+Functional Expectations | 4
+Testing | 4
+Ruby Style | 3
+Organization | 4
 
 #### Battleship
 
@@ -168,25 +114,13 @@ Battleship is a board game that uses two grids to simulate sea warfare. Each pla
 
 * No notes for the project were available on the original assessment, but the gist of the discussion focused on improving my understanding of how to handle project architecture in order to complete on time and ensure that the all class interfaces are uniform throughout the application.
 
-**1. Fundamental Ruby & Style**
-
-* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-
-**2. Enumerable & Collections**
-
-* 3: Application demonstrates comfortable use of several Enumerable techniques
-
-**3. Test-Driven Development**
-
-* 4: Application is broken into components which are well tested in both isolation and integration
-
-**4. REPL Interface**
-
-* 1: Application's REPL has enough problems as to make play difficult Note: REPL wasn't completed.
-
-**5. Breaking Logic into Components**
-
-* 4: Application is expertly divided into logical components such that individual pieces could be reused or replaced without difficulty
+Category | Score
+---|---
+Fundamental Ruby & Style | 4
+Enumerable & Collections | 3
+Test-Driven Development | 4
+REPL Interface | 1
+Breaking Logic into Components | 4
 
 ## Team
 
@@ -204,22 +138,12 @@ HTTP Yeah You Know Me is a very simple implementation of a HTTP server that resp
 **Assessed by: Tess**
 * Again, no actual notes were available in the assessment, but overall the project was what was expected. The biggest difficulty faced was that I was absent for the last three days due to illness, resulting in being unable to contribute for the majority of iteration 3 and iteration 4. The Sunday prior to our evaluation, I did submit some bug fixes and refactoring, but this was past the official due date, so they could not be expected.
 
-**1. Overall Functionality**
-
-* 3: Application implements iterations 0 - 4
-Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirements are shifted by 1 additional iteration -- So a 3 for Echo requires completing Iterations 0-5
-
-**2. Fundamental Ruby & Style**
-
-* 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-
-**3. Test-Driven Development**
-
-* 3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
-
-**4. Breaking Logic into Components**
-
-* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+Category | Score
+---|---
+Overall Functionality | 3
+Fundamental Ruby & Style | 3
+Test-Driven Development | 3
+Breaking Logic into Components | 3
 
 #### Black Thursday
 
@@ -239,30 +163,14 @@ Black Thursday is an application that parses a collection of pre-determined CSV 
 * Remember the law of Demeter.
 * go read about Mocks!
 
-**1. Functional Expectations**
-
-* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
-
-**2. Test-Driven Development**
-
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-
-**3. Encapsulation / Breaking Logic into Components**
-
-* 4: Application is expertly divided into logical components each with a clear, single responsibility
-
-**4. Fundamental Ruby & Style**
-
-* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-
-**5. Enumerable & Collections**
-
-* 4: Application consistently makes use of the best-choice Enumerable methods
-
-**6. Code Sanitation**
-The output from rake sanitation:all shows...
-
-* 4: Zero complaints
+Category | Score
+---|---
+Functional Expectations | 3
+Test-Driven Development | 3
+Encapsulation / Breaking Logic into Components | 4
+Fundamental Ruby & Style | 4
+Enumerable & Collections | 4
+Code Sanitation | 4
 
 ## Community
 
@@ -292,7 +200,11 @@ The output from rake sanitation:all shows...
 
 ### Being a Community Member
 
+* Brian Sayler: Ryan has been great partner during 1603, someone who is eager to help his peers solve their coding problems. One memorable time during the chaos of week 1, Ryan was willing to stay late at school and whiteboard out the structure for Mastermind with me. Ryan's strong technical skills were extremely valuable during the HTTP project. One criticism would be to make sure to slow down at the beginning of each project and consider understanding the problem well before diving into the code. With HTTP, I noticed that once we figured out the design, the project was much more manageable.
+
 * Parker Phillips: Working with Ryan was definitely a rewarding experience. Throughout the entire project I felt that he pushed to have things not just be good, but to constantly be improving upon them. I can definitely say I learned more about git and git workflow through all of our experimentation during this project than I had the rest of the module, and I was reluctant to try the new ideas.  Ryan wasn't hesitant however, the excitement he had for trying new things was very admirable. His skill as a coder is rapidly apparent when working with him, and it was a fantastic experience.
+
+* Lane Winham:  Working with Ryan on Black Thursday was a great experience. He had joined my group a few days after the project had started and for many that would have been a challenging feat. For Ryan however, the change was seamless and within minutes of looking over our current code base he was able to offer advice and positive critique. His influence within our group only grew. Ryan also did a great job making sure I felt like I was getting everything out of the project that I could, which demonstrated to me how strong his so-called soft skills are. Outside of our project Ryan is constantly helping other students with problems and questions. Overall he is a strong team player with outstanding coding skills.
 
 * Jennifer Soden: Ryan was really fun to work with. Together we were able to figure out how to make our own AND logic gate! His passion for programming really pours though and you can tell that this what he wants to do. He was easily able to bang out code and was really easy to work with, taking pretty much all my suggestions. I felt as though we were able to have a conversation about the problem at hand, and that is something that’s very easily overlooked when programming — the discussion about it. I think he could stand to slow down a little, everything he does is so fast that little errors popped up here and there, but it really wasn’t a big deal. I wish I had more constructive things to say, but we didn’t work together for very long. Overall, I think Ryan’s passion and skill set will take him very far.
 
