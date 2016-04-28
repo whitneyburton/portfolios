@@ -71,13 +71,13 @@ Assessed By: Andrew Carmer
 
 ##### Scores:
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation / Breaking Logic into Components:
-* Fundamental Ruby & Style:
-* Sinatra / Web and Business Logic:
-* View Layer:
-* Workflow:
+* Feature Completeness: __4__
+* Views: __4__
+* Controllers: __4__
+* Models: __3.5__
+* Testing: __4__
+* Usability: __4__
+* Workflow: __TBD__
 
 ##### Personal Notes:
 
