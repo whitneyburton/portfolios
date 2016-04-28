@@ -171,26 +171,26 @@ Notes:
 * Test for edge cases in tests.
 * Push logic down the stack to the lowest level objects.
 
-### 1. Functional Expectations
+#### 1. Functional Expectations
 * 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
-### 2. Test-Driven Development
+#### 2. Test-Driven Development
 
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-### 3. Encapsulation / Breaking Logic into Components
+#### 3. Encapsulation / Breaking Logic into Components
 
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
 
-### 4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 
 * 3:  Application shows strong effort towards organization, content, and refactoring
 
-### 5. Enumerable & Collections
+#### 5. Enumerable & Collections
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
-### 6. Code Sanitation
+#### 6. Code Sanitation
 
 The output from `rake sanitation:all` shows...
 
@@ -213,6 +213,9 @@ Anna is a wonderful partner. Through Black Thursday I’ve seen her grow and am 
 
 ###### Ryan Batty
 Ryan was really fun to work with. Together we were able to figure out how to make our own AND logic gate! His passion for programming really pours through and you can tell that this what he wants to do. He was easily able to bang out code and was really easy to work with, taking pretty much all my suggestions. I felt as though we were able to have a conversation about the problem at hand, and that is something that’s very easily overlooked when programming — the discussion about it. I think he could stand to slow down a little, everything he does is so fast that little errors popped up here and there, but it really wasn’t a big deal. I wish I had more constructive things to say, but we didn’t work together for very long. Overall, I think Ryan’s passion and skill set will take him very far.
+
+###### Lin McCartney
+I really enjoyed working with you on Hyde. I feel like it was a good learning experience for both of us. I think you did a really good job with the project and you never quit working on it. Your sheer determination of will is inspiring. I feel like you could use just more practice coding because you have a good tactic of how to get it done but sometimes have confusion on execution, but that just comes with doing more projects. I think if you keep coding, you’ll do really well. And you were able to figure out ERB which is still magic to me. Keep at it, I believe you will do fantastic things.
 
 ### Being a Community Member
 
