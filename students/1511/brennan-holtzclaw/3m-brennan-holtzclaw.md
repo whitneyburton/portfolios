@@ -147,11 +147,21 @@ I didn't miss any days of class this module.
 
 ### Giving feedback
 
+* Charissa has been a great addition to 1511 and I was able to see how she touched so many in the Turing community as well. After The Pivot pivot I got plopped onto a team with her, and I was really pleased to see how well she seemed to handle the shake-up. Charissa is incredibly quiet most of the time, which had me worried about team communication at first, but I quickly learned it wouldn’t be a problem. When she had a question she’d be quick to ask, and I felt comfortable bringing code her way when I got stuck. She was a great team player, and is definitely someone I want to work with again soon. On top of all that, Charissa’s lightning talk was a touching tribute, and actually spoke to a real problem in our society. That doesn’t happen much in those silly 5 minute speeches. I think she is going to have great ideas, and do big things in module 4 and especially in the world outside the basement. - Brennan Holtzclaw
+
+* Nick was a great group leader during the Pivot. It’s really cool to work with someone that seems to be a natural at this coding thing we’re all dealing with. He did a great job of making sure each of us in the group were challenged, while also taking the time to explain exactly what was going on to each of us. I look forward to pairing with Nick again soon. - Brennan Holtzclaw
+
+* Working with Lenny again was a pleasant throwback to module 1. I feel like Lenny and I have very similar working/learning styles (though I may be way off, it’s impossible to really know The Lenny). He seems to be most interested in drilling down to a real understanding of the material at hand. Whenever he encounters a problem he takes the time to dig down into what the problem is, and how to logically solve it. I liked working through problems with Lenny during The Pivot. Since we managed to stay paired up even after The Pivot pivot He was the person I spent most time working with this module. It was a great experience, and I think it taught me a lot about how we both learn. I’ve really loved having Lenny at Turing. I hope that if he leaves us we, as figments of his imagination, don’t cease to exist. :lennys_imagination:
+-Brennan Holtzclaw
+
 ### Getting feedback
+
+* Brennan and I got to work together at first under not the best of circumstances. It was a pivot on the pivot and he was being thrown into a new codebase in the middle of a project. I was totally impressed with how he took on the project as seamlessly as possible. As a group we came together to make the best of it and turned in a great project in the end. It was an excellent group project experience thanks to his calm demeanor and capabilities. - Charissa Lawrence
+
+I helped Brennan with his personal project this week, and I was impressed by how much he took on (javascript and ajax calls and such!). Brennan is also very creative. He is a pleasure to work with, I am sad I will not get to see every day after this module. - Beth Secor
 
 ### Being a community member
 This module I continued to publish podcasts when possible, and I got it set up on a much more reliable distribution network. I am also a member of the Ritchie Posse.
-
 
 # Self Assessment
 
