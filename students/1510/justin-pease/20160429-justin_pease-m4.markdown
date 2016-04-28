@@ -135,8 +135,9 @@ I have spent a bit of time with Sonia from mod 1 helping her learn ruby.  I have
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Some struggles mid-module but able to deliver in the final assessment
+* Felt that every cohort I was a part of was a good group of people I enjoyed
 
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED
