@@ -179,10 +179,13 @@ As a result of my participation, especially during the hackathon, I was introduc
 
 ### Notes
 
-( Leave blanks for reviewers )
+* group projects are emotionally exhausting
+* helped to talk to Allison after rush hour -- able to identify that you have high expectations, set that in DTR
+* liked headcount-http-sinatra progression
+* will work on being more cognizant of pushing others
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
 
 =======================================
