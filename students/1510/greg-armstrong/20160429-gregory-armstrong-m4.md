@@ -63,6 +63,14 @@ Feedback for Beth Secor, Portal2D:
 
 * "Working on GameTime with Beth was by far my most favorite project, as well as my most favorite pairing relationship throughout all of Turing. I had to tell a wee little fib at the start of the project relating to my confidence that we could do it well to get her onboard with it, but we did end up doing quite well so I have no remorse. I find Beth's determination and work-ethic to be of the highest quality. She has immense ability to work through tough challenges with a cool head, and is great at communicating her expectations for a project both prior to and during a project. She asked if we could work together on the project in the week prior to kicking it off, and i'm quite thankful that she did so, as I got to work with a truly outstanding developer as a result. I would recommend that she cut back on the threats of shanking though, that can be a bit of a detriment to the working relationship. Just kidding. No, I'm not."
 
+Feedback for Edgar Duran, Badass Extraordinaire:
+
+* "Edgar’s allegiance to the Broncos is unquestionable. He’s also a pretty good developer, too! Edgar was immensely helpful with helping me to debug my RealTime app when I was still struggling to grasp web sockets as a whole idea. Omaha!"
+
+Feedback from Edgar Duran, Badass Extraordinaire:
+
+* "Greg is an excellent and talented developer. I doubt there has been a project during the last 2 modules that Greg hasn’t helped me with at least one aspect of. He is a reliable source and his understanding of programming is extremely impressive."
+
 ### Being a Community Member
 
 * Hosted the Hector-Hector-Bo-Bector Going Away Party on April 2nd. Hector became a true American on this day, and we sent him back to Spain in style.
