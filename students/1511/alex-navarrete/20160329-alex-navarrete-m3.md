@@ -155,10 +155,20 @@ own growth by taking in and acting on the feedback of their peers and instructor
 
 ## Review
 
+### Instructor Scores
+
+* A: End-of-Module Assessment: 2
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 4
+* D: Community Participation: 3 
+* E: Peer & Instructor Feedback: 3
+
 ### Notes
 
-( Leave blanks for reviewers )
+- You want to repeat the module, because he wants to be really strong in all areas that we teach at Turing.
+- You're very focused on your growth and your skills, and what you can do with them in the long run
+- You're a great team member when you're on a team project. I want you to be more involved in the Turing family, but that's mostly because I want more people to be exposed to your energy and perspective.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+RETAINED
