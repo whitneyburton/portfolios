@@ -21,7 +21,7 @@ I have attended almost every day and class session in Module 4 save for April 8t
 * [GitHub URL](https://github.com/GregoryArmstrong/portal2d)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
-In this project, we (Beth Secor & Greg Armstrong) decided to recreate the game Portal in 2D using solely JavaScript. We were able to finish the game with 4 different levels, however none of the provided extensions really fit with the spirit of the game so we did not attempt them (multiplayer specifically was not really possible. I mean it was, but that would be Portal2D-2. That comes next.) I learned a ton about JavaScript in this project, and overall found it to be my favorite project for all of Turing.
+In this project, we (Beth Secor & Greg Armstrong) decided to recreate the game Portal in 2D using solely JavaScript. We were able to finish the game with 4 different levels, however none of the provided extensions really fit with the spirit of the game so we did not attempt them (multiplayer specifically was not really possible.) I learned a ton about JavaScript in this project, and overall found it to be my favorite project for all of Turing.
 
 ### Scores:
 
@@ -65,14 +65,23 @@ Feedback for Beth Secor, Portal2D:
 
 ### Being a Community Member
 
-* Hosted the Hector-Hector-Bo-Bector Going Away Party on April 2nd, which may or may not have included multiple instances of Edward 40 Hands. Hector became a true American on this day, and we sent him back to Spain in style.
+* Hosted the Hector-Hector-Bo-Bector Going Away Party on April 2nd. Hector became a true American on this day, and we sent him back to Spain in style.
 * Attended Denver.rb on April 12th @ 6PM. It was my first Denver.rb meetup, and I primarily went to support Aaron Greenspan who was speaking there for the first time, as well as to see what it was all about.
 * Attended Built-In-Brews Event @ Gusto on March 24th @ 5PM. I wanted to see what their office environment was like, and additionally to hand out little business cards relating to the Turing Back-End Program. Did some mingling' and a little bit of schmoozin'.
 * Attended Built-In-Colorado's Fastest Growing Tech Companies event at The Lobby, on April 7 @ 6PM. Went there looking for jobs, got a couple of leads and conversations started but they didn't generate much in way of junior developer opportunities.
 * Attended the Get Hired! A Better Job Fair at the Commons on Champa on April 14th @ 4pm. I'm in talks with Agathos.io after having talked to them at the event, really hoping it turns into at least an interview. I've got a phone call scheduled with them for this Friday, April 29th.
+* Participated in a question and answer session with prospective students. Organized by Joanne for Friday, April 15th.
 * Was chosen to lead the planning phases of the 1510 Graduation Dinner. With the help of Penney, was able to get something set up for the Friday night of our last week and will be joined by our Module Anchors for a grand ole time.
-* Have continued to try and keep the #sunday-funday channel going, which is at this point basically just Taylor Moore, myself and occasionally Jared Roth playing soccer on the weekends. But it's fun so, whatever.
+* Have continued to try and keep the #sunday-funday channel going, which is at this point basically just Taylor Moore, myself and occasionally Jared Roth playing soccer on the weekends. But it's fun.
 * Built some cabinets for the Turing staff area on Tuesday, April 27th. I did it for the love of the community, honest.
+
+### Self Assessment
+
+* A: 3
+* B: 3
+* C: 4
+* D: 3
+* E: 3
 
 ## Review
 
