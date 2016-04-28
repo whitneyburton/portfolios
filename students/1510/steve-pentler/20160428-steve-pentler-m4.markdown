@@ -5,7 +5,7 @@
 
 - Turing student is able to demonstrate proficiency at programming in accordance with the module's content and expectations.
 
-    - 4: Student achieved two or more "4s" on the assessment
+    - 3: Excused from assessment
 
 - A Turing student works to maximize their skill growth and demonstrates that skill across a variety of work.
 
@@ -23,8 +23,7 @@
 
 - Turing student accelerates the growth of those around them by delivering specific, kind, and actionable feedback. They accelerate their own growth by taking in and acting on the feedback of their peers and instructors.
 
-    - Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
-
+    - 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
 
 ---
 
@@ -46,9 +45,6 @@ ___
 **Score: 184/200**
 
 [LIVE](https://state-your-preference.herokuapp.com/) || [GITHUB](https://github.com/stevepentler/RealTime)
-
-A Personal Effort from:
-[Steve Pentler](https://github.com/stevepentler)
 
 ![](http://g.recordit.co/jCytnvwzFx.gif)
 ___
@@ -102,7 +98,6 @@ ___
     The entirety of 1510 is bummed that he couldn’t be with use these final weeks, but he’s as much a part of the cohort as any of us who are still standing at graduation. I wish nothing but the best for him, and hope our paths cross again (preferably in Europe for a UEFA Champions League game). Speaking of which, did you see  Ñíguez’s goal? “EM-PAW-SEE-BALL!!!!” jaja
 
 * To think that Brant almost took a module off and left 1510 is hard to believe at this point. He’s nearly the heart and soul of the cohort, and has formed some of the strongest relationships with a multitude of people in the cohort. He genuinely cares about everyone in 1510 and is perhaps the most well-liked individual in the group. I really admire how he has reinvented himself as a “yes man.” At first he was a bit closed off to the group and took a very mature approach to Turing. Then he opened up, started singing karaoke, and initiated a chain reaction. The world is much better because of it. I really hope that he is able to locate a job where he is able to connect with nature, as it seems to be a very centering force in his life. I expect that we’ll get in some spectacular hikes and camping over the summer, and I really look forward to it. Finally, I apologize for calling you “old.” You’re actually a very youthful, kind, dirty old bastard. Aside from personal stuff, he is one of my favorite people to pair with. His work ethic is off the charts, and his work flow is smooth. He discontent without understanding and rarely takes shortcuts, which keeps a lot of us in check. We entered module 3 with a pact that we were going to get through it together and not make a lot of noise in the process, and here we are graduating 4. It feels like a very shared accomplishment. Congrats!
-
 
 * Feedback for Brenna: “Brenna  cares! She is more approachable and generous with her time than anyone in 1510. At times, I’ve borderline abused her as a sounding board and she continues to respond to my sorry cries for help. And when she helps, her ability to articulate her thought process always impresses me. She is the force that keeps 1510 in balance, but don’t tell her that because she’s too humble to accept compliments. In terms of front-end design, she has almost single-handedly kept 1510’s views afloat. When people have a simple styling question, they consult me. When they have a complex styling question, they know who to talk to. I’m extremely happy that she is sticking around Turing. I have no doubt that she is going to nail the TA position and keep our cohort close and involved.  In terms of constructive feedback, I’m angry about two things. The first is that she is legendary at keeping friends out drinking past their bedtime, which is bad for my health. The second is that she’s so damn old, only because we couldn’t experience the Russell Wilson year at Wisconsin together. Roll Badge.
 
