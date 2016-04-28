@@ -254,7 +254,7 @@ Talked about:
 A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations. If you were exempt from the assessment it's a *3*.
 
-* 4: Student achieved two or more "4s" on the assessment
+* 3: All Threes
 
 #### B: Individual Work & Projects
 
@@ -297,4 +297,4 @@ strategies to improve themselves in response to feedback.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
