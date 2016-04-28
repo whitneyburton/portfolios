@@ -210,7 +210,7 @@ B: Individual Work & Projects: 3
 
 C: Group Work & Projects: 4
 
-D: Community Participation: 4
+D: Community Participation: 3
 
 E: Peer & Instructor Feedback: 3
 
@@ -220,4 +220,4 @@ E: Peer & Instructor Feedback: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
