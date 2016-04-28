@@ -224,6 +224,8 @@ Colin and I worked together briefly during the Hyde project. It was nice to work
 
   Much along the same, I feel like I try to give as much feedback that's beneficial and useful for people, however, I know I have room to grow and improve.
 
+  
+
 ### Notes
 
 ( Leave blanks for reviewers )
