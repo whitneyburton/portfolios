@@ -301,12 +301,6 @@ I've participated in the larger Turing Community in the following ways:
 
 ## Review
 
-### Notes
-
-* Notes Notes....
-
-### Outcome
-
 ### Rubric Scores
 
  * **A: End-of-Module Assessment**: 3
@@ -314,3 +308,18 @@ I've participated in the larger Turing Community in the following ways:
  * **C: Group Work & Projects**: 4
  * **D: Community Participation**: 4
  * **E: Peer & Instructor Feedback**: 4
+
+ 
+### Instructor Scores
+
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 2  
+* C: Group Work & Projects: 4
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 4
+
+## Notes
+
+## Outcome
+
+PENDING - Want to see your personal project refactored. Will review on Tuesday of intermission week.
