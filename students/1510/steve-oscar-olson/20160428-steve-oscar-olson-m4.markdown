@@ -66,15 +66,15 @@ I made a React Native IOS app that displays the currency and expense data genera
 * [GitHub URL](https://github.com/SteveOscar/websockets)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
-**Build an API**
+**SOCK. IT's.**
 
-The goal of RealTime was to learn how to use websockets to create real-time interactions and feedback on websites using socket.io to push things from the server, rather than using the HTTP pattern of waiting on the client to send a request.
+The goal of RealTime was to learn how to use websockets to create real-time interactions and feedback on websites using socket.io to push things from the server, rather than using the HTTP pattern of the server always waiting on the client to send a request.
 
 Assessed By: Steve
 
 #### Score: 123/200
 
-Project completed basic spec requirements and websocket functionality, but lacked development of the UI. It was basically an MVP project to learn the basics of websockets, and use the rest of my time in the job hunt.
+Project completed basic spec requirements and websocket functionality, but lacked development of the UI. It was basically an MVP project to learn the basics of websockets, and I used the rest of my time in the job hunt, such as breaking down in Loveland and spending all afternoon/evening way up there. 
 
 
 ## Community  
