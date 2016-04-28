@@ -14,7 +14,7 @@
 --------------------------------------------
 #### JungleBeats
 
-* [GitHub URL] (https://github.com/karinamzalez/junglebeats)
+* [GitHub URL](https://github.com/karinamzalez/junglebeats)
 * Assessed By: Tess
 
 Introduction to Linked Lists. Great first project, established a solid foundation for understanding how to make objects interact in Ruby.
@@ -55,10 +55,10 @@ Notes:
 
 ### http_yeah_you_know_me
 
-* [GitHub URL] (https://github.com/marcellawigg/http_yeah_you_know_me)
+* [GitHub URL](https://github.com/marcellawigg/http_yeah_you_know_me)
 * Assessed by: Juhn
 
-  Http requires one to build a server. Introduction to the purpose of headers, faraday, localhosts, and postman.
+Http requires one to build a server. Introduction to the purpose of headers, faraday, localhosts, and postman.
 
 
 ##### 1. Overall Functionality: 3
@@ -68,8 +68,10 @@ Notes:
 
 ### headcount
 
-* [GitHub URL] (https://github.com/karinamzalez/headcount)
+* [GitHub URL](https://github.com/karinamzalez/headcount)
 * Assessed By: jhunbug
+
+Headcount was a great introduction to databases.  This project required thorough understanding of how to manipulate hashes, enumerables, and handling of csvs. 
 
 Notes: - group shows understanding of project and code looks good. They lost a day due to a waffle problem. Horace and Mike are aware. There are solid attempts to try to move things into single responsibility methods and attempts to write solid test. I believe that if they had another day they would of been better off.
 
@@ -87,7 +89,7 @@ Notes: - group shows understanding of project and code looks good. They lost a d
 
 ### Giving Feedback
 
-(feedback from me)
+* To Nick Dorans: Nick’s nickname “nonaps” reached me through the vine before I even met him.  I took note of the positive nature in which his nickname would come up, and became eager to meet this sleep-deprived individual. I finally got the pleasure of speaking with him when we got paired for a group retro—   I remember being taken aback by his open-mindedness, eloquent way of expressing his ideas, and his effortless ability to mediate even the most controversial conversations with his light-hearted levity.  It seems after that initial introduction Nick has only solidified that great first impression-- he’s heavily involved in most altruistic outlets in Turing and I deeply admire that. I still don’t really know why they call him no-naps. But I think it’s safe to assume that the countless amount of hours he spends spends coding, compassionately explaining difficult concepts to his peers, and being an overall kind-hearted activist, might have a lot to do with it.
 
 ### Being a Community Member
 * From Marlo Major:
