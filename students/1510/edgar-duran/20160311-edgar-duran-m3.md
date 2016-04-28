@@ -4,9 +4,9 @@
 
 ### Your Mission
 
-My goal this module was to gain a better understanding of how api's can be used in the rails framework. I wanted to be proficient in understanding how to create and work with api's. 
+My goal this module was to gain a better understanding of how api's can be used in the rails framework. I wanted to be proficient in understanding how to create and work with api's.
 
-
+ 
 ### Attendance
 
 I was absent once this module
