@@ -82,6 +82,7 @@ Notes: - group shows understanding of project and code looks good. They lost a d
 -----------------------------------------------------------------------------------------------
 
 ## Community
+-----------------------------------------------------------------------------------------------
 
 ### Giving Feedback
 
@@ -115,6 +116,26 @@ Notes: - group shows understanding of project and code looks good. They lost a d
 ## DTR Memo
 ---------------------------------------------------------------------------------------------------
 * [headcount DTR] (https://github.com/karinamzalez/headcount/blob/master/dtr.txt)
+
+## Self-Assessment
+-------------------------------------------------------------------------------------------------
+##### A Turing student is able to demonstrate proficiency at programming in accordance with the module's content and expectations. If you were exempt from the assessment it's a 3.
+#####3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+
+##### A Turing student works to maximize their skill growth and demonstrates that skill across a variety of work.
+##### 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+
+##### A Turing student contributes significantly to group projects, helps the team develop their technical skills, and delivers a high-quality product.
+##### 4: Student consistently helps their teammates be their best selves, learn at an accelerated pace, and achieve great results.
+##### 3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
+
+
+##### A Turing student builds up the community around them by participating and supporting other students, the larger Turing family, and persons outside our walls who want to develop their own skills.
+##### 4: Student has a significant positive impact on the learning and spirit of the people around them.
+
+##### A Turing student accelerates the growth of those around them by delivering specific, kind, and actionable feedback. They accelerate their own growth by taking in and acting on the feedback of their peers and instructors.
+##### 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
+##### 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
 ## Review
 ---------------------------------------------------------------------------------------------
