@@ -9,14 +9,14 @@ individual assessment, indiv project, rails engine, pivot, bonus
 ### Feedback to Group Members
 
 #### Feedback to David Whitacker
-I had a lot of fun working with David on the Pivot. His optimsim and enthusiasm made the project much more enjoyable. He was not daunted by implementing new concepts and produced really solid code. And most of all, I enjoyed our Danceadoros! I don't have any constructive feedback really, keep it up Damwhit!
+I had a lot of fun working with David on the Pivot. His optimism and enthusiasm made the project much more enjoyable. He was not daunted by implementing new concepts and produced really solid code. And most of all, I enjoyed our Danceadoros! I don't have any constructive feedback really, keep it up Damwhit!
 
 #### Feedback to Erinna Chen
-Erinna was a boss on our pivot project. She had to stamp out numerous fires started by David and myself. She also takes the time to explain unfamiliar concepts to group members. At the beginning of the project, I interpreted Erinna's tone as slightly condescending when I asked for her opinion. However, this tone went away completely as the project progressed. I know she has been working on this, and it shows! Keep it up Erinna, you're awesome!
+Erinna was a boss on our pivot project. She had to stamp out numerous fires started by David and myself. She also took the time to explain unfamiliar concepts to group members. At the beginning of the project, I interpreted Erinna's tone as slightly condescending when I asked for her opinion. However, this tone went away completely as the project progressed. I know she has been working on this, and it shows! Keep it up Erinna, you're awesome!
 
 
 #### Feedback to Heidi Hoopes
-I love my nerd sister! Not only is she an extremely talented developer, but she is also kind, caring, and optimistic. I have enjoyed being a posse leader with her and look forward to continuing the position next module. When developing, she is not afraid of taking on challenges and seeks elegant solutions to her problems. Heidi is always thinking of others, and also takes time to volunteer for Kids Who Code and other Turing events. Heidi- you rock, and I am proud to call you my friend!
+I love my nerd sister! Not only is she an extremely talented developer, but she is also kind, caring, and optimistic. I have enjoyed being a posse leader with her and look forward to serving with her next module. When developing, she is not afraid of taking on challenges and seeks elegant solutions to her problems. Heidi is always thinking of others, and also takes time to volunteer for Kids Who Code and other Turing events. Heidi- you rock, and I am proud to call you my friend!
 
 ### Peer Feedback
 
@@ -157,78 +157,128 @@ Notes
 * 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.
 * 1: Project struggles to establish a coherent ActiveRecords schema, including missing relationships or dysfunctional queries.
 
-### Mid-module Assessment
-
-##### Evaluator: Rachel
-
-##### Evaluation Criteria
-
-Subjective evaluation will be made on your work/process according to the following criteria:
-
-###### Analytic/Algorithmic Thinking
-
-* 2.5
-
-###### Ruby Syntax & Standard Library
-
-* 3: Developer is able to comfortably implement solutions in Ruby
-
-###### Rails Syntax & API
-
-* 2.5
-
-###### Rails Style
-
-* 2: Developer struggles with some essential concepts of MVC
-
-###### Testing
-
-* 2: Developer used feature test effectively; did not test at model level
-
-###### Collaboration
-
-* 3.5
-
 
 ### End of Module Assessment
 
-##### Evaluator: Rachel
+Assessor: Josh M.
 
-##### Notes
+Notes:
 
-* comfortable generating migration to modify table
-* good understanding of strong params
-* able to create appropriate data to check functionality of filtering by user test
-* good explanations of steps and thought process
-* started to go down path of custom method instead of using .where for active record
+- Solid API implementation
+- Should put the BestBuyService in a services directory
+- Checked in my API key
+- Nice use of POROs. Might not need the BestBuy class with the BestBuyService and Product PORO.
 
-##### Evaluation Criteria
+#### 1. Ruby Style
 
-Subjective evaluation will be made on your work/process according to the following criteria:
+* 4: Developer writes code that is exceptionally clear and well-factored
+* **3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components**
+* 2: Developer writes effective code, but does not breakout logical components
+* 1: Developer writes code with unnecessary variables, operations, or steps which do not increase clarity
+* 0: Developer writes code that is difficult to understand
 
-###### 1. Analytic/Algorithmic Thinking
+#### 2. Rails Syntax & API
 
-* 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+* **4: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing.**
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+* 2: Developer struggles with some concepts of MVC.  Developer is not confident in what every line of the code is doing or cannot speak to the choices made.
+* 1: Developer struggles with MVC and pushing logic down the stack
+* 0: Developer shows little or no understanding of how to craft Rails applications
 
-###### 2. Ruby Syntax & Standard Library
+#### 3. Testing
 
-* 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+* **4: Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.**
+* 3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.
+* 2: Developer writes tests. Most new lines of code are tested but they aren't effective at testing for functionality and value.
+* 1: Developer is able to write tests, but most new lines of code are not tested.
+* 0: Developer does not use tests.
 
-###### 3. Rails Syntax & API
+#### 4. Progression/Completion
 
-* 3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
+* **4: Developer is able to implement solutions at the speed of a developer.**
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+* 2: Developer is able to implement solutions at the speed of an apprentice.
+* 1: Developer struggles to implement solutions at the speed of an apprentice.
+* 0: Developer is not able to implement basic functionality.
 
-###### 4. MVC & Rails Style
+#### 5. Workflow
 
-* 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and keep logic out of views and controllers
+* **4: Developer commits every 15 minutes**
+* 3: Developer commits almost every 15 minutes
+* 2: Developer does not commit regularly
+* 1: Developer has poor git workflow and does not commit regularly
+* 0: Developer committed once
 
-###### 5. Testing
+## Community Participation
 
-* 4: Developer writes tests at multiple layers of abstraction to drive development
+I have become more active in various Turning groups, including Joan Clarke, imposters lunch, and environmental variables. I am also helping to plan the end-of-module LAN party and have have been a co-leader in the Miyamoto posse.
 
-###### 6. Collaboration
+### Self-Review
 
-* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+#### A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations. If you were exempt from the assessment it's a *3*.
+
+* **4: Student achieved two or more "4s" on the assessment**
+* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+* 2: Student earned one score below "3" on the assessment
+* 1: Student earned two or more scores below "3" on the assessment
+
+#### B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+* **3: Student demonstrates commitment and growth in their work through satisfactory**
+evaluations of each project or a clearly upward-sloping trend.
+* 2: Student demonstrates some lack of engagement or growth in their individual
+skill or project outcomes without a clear upward trend.
+* 1: Student does not show the commitment expected of Turing students.
+
+#### C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+* **3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.**
+* 2: Student participates somewhat in their group work but is either not a
+dependable member of the team or achieves consistently sub-par work.
+* 1: Student is not a valuable member of their teams.
+
+#### D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
+* **3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.**
+* 2: Student participates in most required community activities (demos, lightning talks, etc)
+but does not do anything else of significance.
+* 1: Student stays in their lane and focuses just on their own learning.
+
+#### E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 4: Student helps others to be their best selves while using peer feedback
+to shape their own character and behavior.
+* **3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.**
+* 2: Student gives meaningful impact to peers as well as being aware of themes
+in the feedback they receive.
+* 1: Student does not consistently participate in or construct meaningful peer
+feedback.
 
 ## Review
 
