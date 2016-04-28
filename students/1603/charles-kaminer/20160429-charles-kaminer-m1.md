@@ -143,34 +143,36 @@ Notes:
 
 * [GitHub URL](https://github.com/ckaminer/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [README](https://github.com/ckaminer/black_thursday/blob/master/README.md)
 
-For Black Thursday our goal was to build a system that could take business intelligence data (sales, transactions, etc.) from a typical e-commerce business and search it, parse it, run queries on it, etc.
+For Black Thursday our goal was to build a system that could take business intelligence data (sales, transactions, etc.) from a typical e-commerce business and search it, parse it, run queries on it, etc.  I felt like everything came full circle during this project.  It was nice having the two weeks because we had ample time to refactor on the last day.  It was really cool to look back on the finished product and see the variety of tools we used (i.e. modules, advanced enums, SRP, etc.).  The contrast of the quality of work in this project and Jungle Beats gets me really fired up!
 
 Assessed By: Yung Jhun
 
 Notes:
-
-*
-*
-*
+* Code is refactored.
+* They moved things into modules to move methods around. classes are pretty clean.
+* No long methods.
 
 ##### 1. Functional Expectations
+* 4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
 
 
 ##### 2. Test-Driven Development
-
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test
 
 ##### 3. Encapsulation / Breaking Logic into Components
-
+* 4: Application is expertly divided into logical components each with a clear, single
 
 ##### 4. Fundamental Ruby & Style
-
+* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
 ##### 5. Enumerable & Collections
-
+* 4: Application consistently makes use of the best-choice Enumerable methods
 
 ##### 6. Code Sanitation
-
+* The output from rake sanitation:all shows...
+    - 4: Zero complaints
 
 "Charlie's strong understanding of programming and grasp of the material was evident throughout our time together working on Black Thursday.  He was very communicative throughout the entirety of the project, and would take time to explain any topics I was unsure of. His focus and dedication kept us on a good time frame, and we were able to complete a solid project with very few issues along the way." - Nick
 
@@ -186,7 +188,13 @@ For Nick regarding Black Thursday:
 
 ### Being a Community Member
 
-(feedback to me)
+From pairing session with Lovisa:
+* Good progress so far, try to focus on general code hygiene.  This should include not pushing commented out code, proper indentation, etc.
+* Introduced private methods
+* Helped with file i/o
+
+General feedback from Sonia:
+* "Charlie and I had a chance to pair on the robot exercise. I had gotten to know him informally before that, but this was my first time pairing with him. It was truly a pleasure! Charlie has the perfect mix of patience, perseverance, and empathy. I often had questions during the exercise, and he was kind and articulate in explaining things to me. He also made things a lot of fun. Charlie has consistently proven himself to be one of the most diligent students in 1603. I have often seen him working at school late at night. Charlie also willingly offers help to other students, but he is also incredibly humble in acknowledging gaps in his own knowledge. Overall, Charlie has been one of my favorite 1603 students. He adds an incredible amount of positive energy to the group, and to the school as a whole. I always think that whoever gets to pair with him is incredibly lucky, as he brings such positivity and excellence to his projects. And he came up with “Let’s Goooo” which is a pretty major contribution to the community."  
 
 ### Playing a Part
 
