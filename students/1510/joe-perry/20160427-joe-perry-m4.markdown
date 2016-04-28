@@ -8,6 +8,47 @@
 Module 4 was a very exciting time because it's the first time we've 'officially' transitioned into learning and using a language other than Ruby. My mission for module 4 was to make sure I successfully applied the basic coding principles and good practices, such as separation of responsibility and testing, that we learned in Ruby to a new language.
 
 
+## Self-Assessment
+
+### A: End-of-Module Assessment
+
+N/A, accrued >80% of total points before the assessment.
+
+### B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+### C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+
+### D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+### E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+
 ## Projects
 
 A list of all module 4 project scores.
@@ -136,7 +177,7 @@ JP was great to work with during the Game Time project.  It was incredible watch
 
 1510 - Brenna Martenson
 
-TBA
+JP and I got to spend an unforgettable week together learning about React and Electron. This was easily my favorite project of this module and working with JP was a significant part of that. I knew from the get go that our work flow together would be smooth and productive. He is incredibly reliable and is always ready to calmly unravel me from whatever chaos I've recently dug myself into. He is always quick to solve complex problems that would take me exceptionally longer to reason my way out of. I have complete faith in his technical abilities to overcome any technical challenge that is thrown his way, and am genuinely jealous of whatever team is lucky enough to pay him the exorbitant amount of money that he deserves.
 
 
 #### Playing a Part
