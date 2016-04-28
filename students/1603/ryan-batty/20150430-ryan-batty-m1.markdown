@@ -21,7 +21,39 @@ It's definitely been a wild ride, but I feel its been quite successful too.
 
 ### End of Module Assessment
 
-(Waiting on assessment data)
+**Assessed By: Jhun**
+
+Notes: Ryan was great! I really appreciated his ability to program. I feel like the only thing he can work on is collaboration. He's getting better at it. He was thankful for the feedback I gave him. He has a solid knowledge of ruby.
+
+
+**1. Ruby Syntax & API**
+
+* 4: Developer is able to write Ruby with a minimum of reference or debugging
+
+
+**2. Completion and Progress**
+
+* 4: Developer fully completes baseline assignment and one of the Challenge options.
+
+
+**3. Testing**
+
+* 4: Developer excels at taking small steps and using the tests for both design and verification
+
+
+**4. Workflow**
+
+* 4: Developer is a master of their tools, efficiently moving between phases of development
+
+
+**5. Collaboration**
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+
+**6. Enumerable & Collections**
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Personal Projects
 
@@ -203,6 +235,18 @@ Black Thursday is an application that parses a collection of pre-determined CSV 
 
 ## Community
 
+### Example DTR Memo
+
+* [Black Thursday](https://github.com/ExCaelum/black_thursday/blob/master/dtr_memo.md)
+
+### Example Readme
+
+* [Battleship](https://github.com/Riizu/battleship)
+
+### Instructor feedback
+
+* During Module 1, I participated in a group pairing session with Horace. Overall the experience was very positive. The majority of it was quite laid-back, making it easy to communicate, and while we did not discuss exact answers to issues, we did get concise and informative responses to better ways to improve our program architecture, and an excellent outsider's view on our project as a whole. This resulted in the group immediately taking measures to further abstract our classes, preventing further headaches with implementing additional features in the future.
+
 ### Giving Feedback
 
 * Brian Sayler: Brian really provided an excellent partner for my first group project at Turing. Coming from Echo as well, I felt we were able to mesh quickly and tackle the issues our project presented. His solid understanding of Ruby and breaking down problems resulted in fast iteration and completion of tasks. Furthermore, I can not appreciate enough his understanding of my inopportune illness. It would of been very easy to blame or spite me for it, and instead he was incredibly understanding, and worked with me so I could contribute wherever and whenever possible.
@@ -222,6 +266,14 @@ In Module 1, I have to admit is has been difficult to find ways to play a part w
 While I am proud of my overall eagerness to help others and to devote the time necessary to be successful at Turing, this is a category I would like to greatly improve upon going into Module 2.
 
 ## Review
+
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: 4 (Total of four 4's and two 3's)
+* **B: Individual Work & Projects**: 3.5 (Close, but two projects did not meet expectations in completion, and one project was 3's across the board)
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
