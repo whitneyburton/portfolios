@@ -120,7 +120,7 @@ Notes: - group shows understanding of project and code looks good. They lost a d
 ## Self-Assessment
 -------------------------------------------------------------------------------------------------
 ##### A Turing student is able to demonstrate proficiency at programming in accordance with the module's content and expectations. If you were exempt from the assessment it's a 3.
-#####3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+#### 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
 
 ##### A Turing student works to maximize their skill growth and demonstrates that skill across a variety of work.
 ##### 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
