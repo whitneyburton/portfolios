@@ -193,3 +193,16 @@ I worked with Jared on a student-led elective this module.  We built upon previo
 This module I wanted to try and reach out more to other students.  I think that I succeeded.  I know that I spend more time helping people within my module in various aspects of projects.  I also spent time in the morning helping one of the Mod1 students.  It tended to be more life-at-turing help than formal pairing, but I think it probably helped him deal with it a little better.
 
 I know there are going to be more opportunities where I can help other students in the future and I want to make a stronger effort to do so.
+
+### Notes
+
+* sinatra was a "pain in the ass"
+* trying to learn another langauage -- tried go, nim, python
+* would like to see you challenge yourself more
+* interesting experiences working in teams
+* work on explaining thought process
+
+
+### Outcome
+
+Pass
