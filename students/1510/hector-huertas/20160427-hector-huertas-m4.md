@@ -127,8 +127,8 @@ Following  my personal crusade, I rescued several abandoned glasses when taking 
 
 ### Outcome
 
-* End of Module Assessment:
-* Individual Work and Projects:
-* Group Work and Projects:
-* Community Participation:
-* Peer and Instructor Feedback:
+* End of Module Assessment: 3
+* Individual Work and Projects: 4
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: _pending_
