@@ -230,11 +230,39 @@ Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirement
 
 Black Thursday is an application that parses a collection of pre-determined CSV files (in this case Merchants, Items, Invoices, Transactions, and Invoice Items), connects them together in a meaningful manner, and then analyzes that data in a variety of ways. Black Thursday presented a unique challenge due to an issue early on between myself and my orginal partner, Ji Kim. While the technical difficulty was there, the project really presented an opportunity for me to grow as a collaborator. Even after the conflict was resolved and I was moved to a new group, I found that I was far more cognizant of each team member's individual challenges, which really became evident in our group pairing.
 
-**Assessed by: Instructor Here**
+**Assessed by: Mike**
 
-(scores here)
+* 186 tests, spec harness runs in under 7 minutes. 100 percent coverage
+* rake sanitation :+1:
+* Overall, well written and executed project.
+* Use instance variables to contain object information
+* Remember the law of Demeter.
+* go read about Mocks!
 
-(feedback to me)
+**1. Functional Expectations**
+
+* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+**2. Test-Driven Development**
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+**3. Encapsulation / Breaking Logic into Components**
+
+* 4: Application is expertly divided into logical components each with a clear, single responsibility
+
+**4. Fundamental Ruby & Style**
+
+* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+**5. Enumerable & Collections**
+
+* 4: Application consistently makes use of the best-choice Enumerable methods
+
+**6. Code Sanitation**
+The output from rake sanitation:all shows...
+
+* 4: Zero complaints
 
 ## Community
 
@@ -258,9 +286,17 @@ Black Thursday is an application that parses a collection of pre-determined CSV 
 
 * Lane Winham: If I had to describe Lane in one word, it would be fluid. Working with Lane never presented any difficulty, and any time he may of had difficulty, he was very adept at working with myself and/or Parker to resolve the issue. His fundamental understanding and skill at breaking down problems is top-notch, though I know his largest goal is to improve his technical understanding of Ruby, and the tools it provides. Regardless of any faults in his technical understanding, his ability to work on a team and collaborate was really inspiring, and provided a way goal for myself to aspire to.
 
+* Jennifer Soden: Unfortunately, I did not have the opportunity to work with Jennifer much, but the times I did were definitely enjoyable. Many times I was surprised by her unique viewpoint for the problem at hand, resulting in a solution I would of never considered. Our discussions always felt very natural, which resulted in a calm and confident atmosphere, making it easier to progress through the programming challenges we faced together. I look forward to the chance to work together with her again in the future.
+
+* Sonia Gupta: Sonia is one of the few people I have met at Turing that I consider both a valued colleague and close friend. While she has faced difficulties in the program, I personally feel that with more confidence in her skills, she will go extremely far, because she truly wants to. Furthermore, a number of times when I felt insecure about my progress or had a concern, she was the first to listen, and help assure me that everything would be alright. In all honesty I am sure I would not of enjoyed my time in Module 1 as much without her there. Her admirable work ethic, positive attitude, and sheer honesty gave me something to strive to emulate on a daily basis.
+
 ### Being a Community Member
 
-(feedback to me)
+* Parker Phillips: Working with Ryan was definitely a rewarding experience. Throughout the entire project I felt that he pushed to have things not just be good, but to constantly be improving upon them. I can definitely say I learned more about git and git workflow through all of our experimentation during this project than I had the rest of the module, and I was reluctant to try the new ideas.  Ryan wasn't hesitant however, the excitement he had for trying new things was very admirable. His skill as a coder is rapidly apparent when working with him, and it was a fantastic experience.
+
+* Jennifer Soden: Ryan was really fun to work with. Together we were able to figure out how to make our own AND logic gate! His passion for programming really pours though and you can tell that this what he wants to do. He was easily able to bang out code and was really easy to work with, taking pretty much all my suggestions. I felt as though we were able to have a conversation about the problem at hand, and that is something that’s very easily overlooked when programming — the discussion about it. I think he could stand to slow down a little, everything he does is so fast that little errors popped up here and there, but it really wasn’t a big deal. I wish I had more constructive things to say, but we didn’t work together for very long. Overall, I think Ryan’s passion and skill set will take him very far.
+
+* Sonia Gupta: Ryan has been an integral part of 1603, and I am better for having known him. His kindness and eagerness to help have helped me through some rough patches. He has an ideal mix of empathy and skill, and he has helped so many of us to become better coders. I suspect that Ryan will become extremely successful due not only to his drive, discipline, and ability, but also because he's just a really good person.
 
 ### Playing a Part
 
