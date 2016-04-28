@@ -55,6 +55,45 @@ Breaking Logic into Components : this goes hand in hand with the FR&S. I liked h
 3.5 Test-Driven Development, Application uses test to exercise core functionality and some edge cases, but fails to break out component objects/tests
 4 Breaking Logic into Components, Application effectively breaks logical components apart with clear intent and usage
 
+#### Black Thursday
+
+* [GitHub URL] https://github.com/ccgamble/black_thursday
+* [Original Assignment] https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
+
+Christine and I wrote a s**t ton of code! And it went well. All in all I feel like we both learned a lot from the end of module project. I loved how much I could relate this to real life/real world type stuff. I had a lot of fun experiementing with the data and the logic for sales analyst.
+
+(Evaluation Comments)
+
+Assessed by Mike:
+
+tests passes in six minutes
+harness passes in two minutes
+184 tests total
+Some oppportunities to refactor, generally clearly written and well thought out
+Used mocks!
+Used procs!
+
+(Evaluation Scores)
+
+## 1. Functional Expectations
+* 3. Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+## 2. Test-Driven Development
+* 3. Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+## 3. Encapsulation / Breaking Logic into Components
+* 4. Application is expertly divided into logical components each with a clear, single responsibility
+
+## 4. Fundamental Ruby & Style
+* 3. Application shows strong effort towards organization, content, and refactoring
+
+## 5. Enumerable & Collections
+* 4. Application consistently makes use of the best-choice Enumerable methods
+
+## 6. Code Sanitation
+* The output from rake sanitation:all shows...
+* 4. Zero complaints
+
 
 ### Individual Projects
 
@@ -172,11 +211,17 @@ I had the chance to get pairing feedback from Mike during week 4 of the module. 
 
 Robbie Jaeger - "I feel lucky having had the chance to work with Robbie for our first pair project. Though we had a few minor git issues along the way I was very impressed with his problem solving and code skills. It's evident when working with Robbie that he has put a lot of time into learning proper Ruby style and syntax. Throughout the project he always knew the right enumerable/method to use to get the job done. Robbie takes the time to thoroughly explain his ideas and thought process clearly. I appreciated that he always made sure that both of us understood the problem we were tackling so that we could find the best way to solve it."
 
-Christine Gamble - "Christine is my git hero! I've been struggling trying to nail down my git workflow and understand problems that arise with git. She has been unbelievably helpful in clarifying the git workflow process and helping us to overcome any merge conflicts during our Black Thursday project. I don't think I could've handled git quite as well without her helpful guidance and suggestions. I think Christine has very strong fundamentals in Ruby style and syntax and understands how to create amazing programs. I do hope that in future group projects Christine is more willing to speak up and experiment. I think she has the potential to contribute amazing things while at Turing and I hope she remembers her talents while working on future projects and isn't afraid to try new things."
+Christine Gamble - "Christine is my git hero! I've been struggling trying to nail down my git workflow and understand problems that arise with git. She has been unbelievably helpful in clarifying the git workflow process and helping us to overcome any merge conflicts during our Black Thursday project. I don't think I could've handled git quite as well without her helpful guidance and suggestions. I think Christine has very strong fundamentals in Ruby style and syntax and understands how to create amazing programs. I do hope that in future group projects Christine is more willing to speak up and experiment when she has one of her brilliant ideas. I think she has the potential to contribute amazing things while at Turing and I hope she remembers her talents while working on future projects and isn't afraid to try new things."
+
+Marcella Wigg - "I've been lucky enough to have a chance to work with Marcella on several occasions now. Time and time again I am impressed with the dedication and commitment she has shown to Turing. Her dedication to learning everything Turing has to offer is evident in her knowledge of Ruby fundamentals and desire to not only get her projects done but get them done well. Her incredible work ethic shows through each day in class and on her projects. I look forward to getting the chance to work with her in the future."
 
 ### Being a Community Member
 
 "Lucy is a very strong programmer to say the least. She has a great methodology for breaking down problems into sizable chunks and solving them piece by piece. We paired on HTTP Yeah You Know Me, and she would usually diagram everything and talk through things aloud. This was a great asset to both of us because we were always on the same page throughout the project. Lucy has said she is a very competitive person, which proves she is ambitious and driven, but in the future it might lead to being hard on herself unnecessarily. All through the project, I could always count on Lucy to work hard, above and beyond expectations of the project spec. Overall, Lucy was awesome to work with, and I wouldn’t hesitate to work with her again in the future." - Robbie Jaeger
+
+"Lucy and I worked together on Black Thursday. She was a great partner to have for this project. We decided at the beginning that we wanted to focus on TDD, and throughout the project she made sure that we made this a priority. I was very impressed with her ability to think through everything logically and see the bigger picture. She took the time to map out the different components of the project, and this greatly helped us in later iterations. Her determination to work through challenges will certainly lead to success." - Christine Gamble
+
+"Several times during the module, Lucy assisted me with aspects of my projects I was struggling with. I especially appreciated her spending more than half an hour of her own work time to patiently explain concepts I did not yet understand on the day before Black Thursday was due. She has a strong grasp on the Ruby fundamentals, which shows both in her strong code and her ability to cogently explain concepts, and was kind to me about my understanding at a time when I felt very frustrated." - Marcella Wigg
 
 ### Playing a Part
 - In this first module, I've been trying to get to know the turing community by participating in all extracurriculars             I've found to be interesting and helpful. I've been attending productivity meetings, Joan Clarke mornings, and imposters lunches.
@@ -190,38 +235,7 @@ HTTP : https://github.com/lucyfox4131/http_yeah_you_know_me/blob/master/DTR.md
 Black Thursday: https://github.com/ccgamble/black_thursday/blob/master/DTR.txt
 
 2. Example of a README.md for a project during the module
-HTTP Yeah You Know Me
-
-Purpose:
-
-The purpose of this project was to create a local HTTP server that implemented and demonstrated understanding of the request/response cycle. You can use this server to output the current date and time, or even play a guessing game!
-
-Cloning:
-git clone https://github.com/lucyfox4131/http_yeah_you_know_me.git
-
-File Structure:
-lib
-  - game.rb
-  - request.rb
-  - response.rb
-  - server.rb
-  - system_error.rb
-
-test
-  - request_test.rb
-  - server_test.rb
-  - test_helper.rb
-
-Usage:
-
-After cloning the repo you must first start the server by running `ruby server.rb`. You can use postman, or a browser to run server requests. You can use `http://127.0.0.1:9292` using port `9292` locally. The server has several paths available. If you chose to start out with no path designated the server will output diagnostics of the GET request. Alternatively, you can vistit one of the many paths implemented.
-* To see Hello World printed out to the screen including a counter of the amount of requests on that page you can type  `http://127.0.0.1:9292/hello`.
-* To see the current date and time `/datetime`.
-* You can shutdown the server by using  `/shutdown`
-* You can see if a word exists in the dictionary by using and entering your word as a parameter  `/word_search`
-* You may also modify your word search to output in JSON by using the `HTTP-Accept` and entering `application/json`.
-* Finally, you can play a game guessing a number between 1-100. Send a `POST` request to `/start_game` and to guess a number send a `POST` request to `/game` with a number guess in the body of the request.
-* If you want to see how the server handles errors you can visit the `/force_error` to show the System handling an error.
+https://github.com/lucyfox4131/http_yeah_you_know_me/blob/master/README.md
 
 #### Self Assessment Scores
 ## A. End-of-Module Assessment
