@@ -1,16 +1,14 @@
 # Jordan Lawler (M4) Portfolio
 
-## Individual
-
-### Areas of Emphasis
+## Areas of Emphasis
 
 I set out to explore in Module 4.  Whether this took form in deciding to go the Javascript route in scale-up, or building out a music recognition app (with questionable results) for the web-sockets project, I feel like I did accomplish this.
 
-#### End of Module Assessment:
+## End of Module Assessment:
 
 Points: 95 out of 125
 
-#### Mock Assessment:
+## Mock Assessment:
 
 Points: 50 out of 100
 
@@ -23,11 +21,9 @@ Solutions include:
 - Not pshycing myself out before through taking a walk or distraction.
 - Staying away from things like caffiene that may put me on edge.
 
-### Work
+## Individual Work
 
-#### Individual
-
-##### IdeaBox 2.0
+### IdeaBox 2.0
 
 * [GitHub URL](https://github.com/turingschool/ruby-submissions/blob/master/1510/module_4_assignments/ideabox2.0/jordan-lawler.md)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
@@ -43,56 +39,54 @@ I did not meet with an instructor for the evaluation, Steve graded it remotely s
 
 82/200 Points
 
-Rather than do the vanilla version of Real-Time I asked to do a modified version which still relied heavily on websockets, but rather than host surveys, to achieve music recognition.  This was a risk, I did not entirely know what the process for recognition would look like, and it would not be a simple task to introduce an interface that held particular practical value in the time alloted.  Music fingerprinting and recognition is something I have wanted to explore since before Turing so I took the risk so I took the plunge.
+Rather than do the vanilla version of Real-Time I asked to do a modified version which still relied heavily on websockets, but rather than host surveys, to achieve music recognition.  This was a risk, I did not entirely know what the process for recognition would look like, and it would not be a simple task to introduce an interface that held particular practical value in the time allotted.  Music fingerprinting and recognition is something I have wanted to explore since before Turing so I took the risk so I took the plunge.
 
-In terms of the rubric I was not succesfull (cross that out, it was an unmitigated disaster). The interface was non-intuitive, the code was not tested due to having to get the recognition working, and it was prone to bugs in certain situitions.  
+In terms of the rubric I was not successful (cross that out, it was an unmitigated disaster). The interface was non-intuitive, the code was not tested due to having to get the recognition working, and it was prone to bugs in certain situations.  
 
-In terms of personal achievment I could not be happier with what I accomplished in the time I did. When running properly the app can actually recognize music that has been fingerprinted to its database! I learned a ton in regards to Redis, the positives/negatives of websockets, DSP with Javascript, the shortcomings of time driven audio events rather than byte-based, and fell in love with node in the process.
+In terms of personal achievement I could not be happier with what I accomplished in the time I did. When running properly the app can actually recognize music that has been fingerprinted to its database! I learned a ton in regards to Redis, the positives/negatives of websockets, DSP with Javascript, the shortcomings of time driven audio events rather than byte-based, and fell in love with node in the process.
 
-On paper this was the worst I have ever done by a substancial margin on a project at Turing. Personally it is one of the coolest things I have built... ever. I will continue to improve upon it, and it represents a side project I am passionate to talk about with employers and others in general.
+On paper this was the worst I have ever done by a substantial margin on a project at Turing. Personally it is one of the coolest things I have built... ever. I will continue to improve upon it, and it represents a side project I am passionate to talk about with employers and others in general.
 
-###### I will be completing the real life version of real-time over the course of next week to fully fulfill my requirments of graduation.
+*I will be completing the real life version of real-time over the course of next week to fully fulfill my requirements of graduation.*
 
 ## Team
 
-### Projects
-
 This module I worked with Toni on Game-Time, and Dad-Steve on scale-up. In both cases I could not ask for better partners.
 
-#### Game Time
+### Game Time
 
 * [GitHub URL](https://github.com/ToniRib/game_time)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
-###### The Low-Down:
+#### The Low-Down:
 
 Me and Toni built a tower defense game for Game Time. The project ended up being VERY object oriented and as a result a great way to dive into JavaScript.
 
-###### Toni: The Legend.
+#### Toni: The Legend.
 
 Me and Toni represent very different types of coders which is the thing I love about pairing (whats the point otherwise?).  She forced me to commit early and often, and would never let us move forward without writing tests. I distinctly remember saying to myself about halfway through: "You mean we just have 100% test coverage at... all times??, THATS INCREDIBLE!!!
 
-##### Functional Expectations
+#### Functional Expectations
 
 * 35 points** - Application is fully playable and exceeds the expecations set by instructors
 
-##### User Interface
+#### User Interface
 
 * 15 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
 
-##### Testing
+#### Testing
 
 * 25 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All controller actions are covered by tests. The application makes some use of integration testing.
 
-##### JavaScript Style
+#### JavaScript Style
 
 * 20 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-##### Workflow
+#### Workflow
 
 * 25 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
-##### Code Sanitation
+#### Code Sanitation
 
 The output from JSHint shows…
 
@@ -133,15 +127,15 @@ Obviously me and Dad-Steve have worked together in the past. Body-Count hardened
 
 "Dad…. DAAAAAD….DAD. .. D…. da….daddy…..daaadddddd
 
-This sound can be heard every morning as I try to wake my lazy dad up to come to school with me. A lot of people think he is a helicopter parent but truth is I like having him around at school. He makes a kick-ass sack lunch and he makes sure I dont burn myself by drinking too hot of coffee.
+This sound can be heard every morning as I try to wake my lazy dad up to come to school with me. A lot of people think he is a helicopter parent but truth is I like having him around at school. He makes a kick-ass sack lunch and he makes sure I don't burn myself by drinking too hot of coffee.
 
-During the scale-up project, me and Dad worked like bread and butter. Me… the backbone, structure, vision, and all around nutrition of the toast, and my Dad, the caloric, fatty, icing on the cake that may even be fake butter but you dont say anything in an attempt to not offend.
+During the scale-up project, me and Dad worked like bread and butter. Me… the backbone, structure, vision, and all around nutrition of the toast, and my Dad, the caloric, fatty, icing on the cake that may even be fake butter but you don't say anything in an attempt to not offend.
 
-JK lolz, Steve-Dad was awesome to work with as always, and I couldnt think of a better partner to finish up my Turing career, than the one that I started it off with. We created Github 2.0 together. We started the portfolio Dad-Son saga (that has now reached its logical end), and most importantly we created an inseparable bond together through playing ball in the backyard, and spending time in the wood shop for the box-car derby. (the box-car was slow, but it was OUR box-car god damn it!)"
+JK lolz, Steve-Dad was awesome to work with as always, and I couldn't think of a better partner to finish up my Turing career, than the one that I started it off with. We created Github 2.0 together. We started the portfolio Dad-Son saga (that has now reached its logical end), and most importantly we created an inseparable bond together through playing ball in the backyard, and spending time in the wood shop for the box-car derby. (the box-car was slow, but it was OUR box-car god damn it!)"
 
 ###### For Wheat-Queen:
 
-"Beth Beth Beth, her name rhymes with meth. Coincidence? YOU DECIDE!" (note, this is a result of a 7 month long struggle with my arch nemisis. Just like Batman could not exist without the Joker, I cannot exist without Beth)
+"Beth Beth Beth, her name rhymes with meth. Coincidence? YOU DECIDE!" (note, this is a result of a 7 month long struggle with my arch nemesis. Just like Batman could not exist without the Joker, I cannot exist without Beth)
 
 ###### For Greenspan-The-Man:
 
@@ -159,7 +153,7 @@ Did I mention A-a-rons dance moves? We are actually going clubbing next week. No
 
 ###### Uncle Slota:
 
-"I had the privilage of working with Uncle-Slota on Refactor Tractor. For those of you who do not know what refactor-tractor is, it is on of the most grueling projects here at Turing. I would have not made it throug without Slota's detirmination, good spirit, and insight into how to not pass too many arguments into a javascript function. Everytime we would hit a brick wall, I would channel my inner 'lets gooooooo' and we would push through.  When it was all said and done, our pull request to the refactor tractor lesson was so good, Meeka merged it without even knowing it. I think she thought it was written by an instructor it was so perfect."
+"I had the privilege of working with Uncle-Slota on Refactor Tractor. For those of you who do not know what refactor-tractor is, it is on of the most grueling projects here at Turing. I would have not made it through without Slota's determination, good spirit, and insight into how to not pass too many arguments into a javascript function. Everytime we would hit a brick wall, I would channel my inner 'lets gooooooo' and we would push through.  When it was all said and done, our pull request to the refactor tractor lesson was so good, Meeka merged it without even knowing it. I think she thought it was written by an instructor it was so perfect."
 
 
 ### Being a Community Member
@@ -197,7 +191,7 @@ Whose your daddy?" -Dad
 
 "Also: I’m starting to suspect he may only be ironically good at karaoke"
 
-(this is acually true, although the ironic part is more ironic than you know: For someone who spent the last four years of their life recording people through microphones, I apparently lose all idea of how they operate when I am given one and proceed to scream into the microphone as though amplification is not its job already.)
+(this is actually true, although the ironic part is more ironic than you know: For someone who spent the last four years of their life recording people through microphones, I apparently lose all idea of how they operate when I am given one and proceed to scream into the microphone as though amplification is not its job already.)
 
 ### Playing a Part
 
@@ -205,7 +199,7 @@ I participated in SAB for my second term with no other than the legendary Beth S
 
 Also: It is incredible how students can complain about a system, then have the system changed as per suggestion, and then revolt against the change like it is my 5 year old self eyeing down a bowl of sushi (I was an idiot).
 
-Also Pt.2: Steve in Meeka did an incredible job. Me and Beth felt guilty at SAB some weeks because we literally had nothing to say but "everything is great... for almost everyone". People seemed happy with the support recieved with the job search, and the instruction was top notch.
+Also Pt.2: Steve in Meeka did an incredible job. Me and Beth felt guilty at SAB some weeks because we literally had nothing to say but "everything is great... for almost everyone". People seemed happy with the support received with the job search, and the instruction was top notch.
 
 ## Review
 
@@ -231,7 +225,7 @@ evaluations of each project or a clearly upward-sloping trend.
 A Turing student contributes significantly to group projects, helps the team
 develop their technical skills, and delivers a high-quality product.
 
-* 4: Student consistently helps their teammates be their best selves, learn at
+* 3: Student consistently helps their teammates be their best selves, learn at
 an accelerated pace, and achieve great results.
 
 ## D: Community Participation
@@ -255,8 +249,9 @@ strategies to improve themselves in response to feedback.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Worked on time anxiety in assessments and for technical interviews
+* Going to redo RealTime next week
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING
