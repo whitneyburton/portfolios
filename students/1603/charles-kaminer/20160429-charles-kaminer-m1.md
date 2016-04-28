@@ -1,5 +1,7 @@
 # Charles Kaminer - M1 Portfolio
 
+https://www.youtube.com/watch?v=VH7LT7emjMU
+
 ## Individual
 
 ### Areas of Emphasis
