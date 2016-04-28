@@ -105,6 +105,7 @@ or just talk about some random ishhh. I'm really glad you made the decision to p
 
 "Alex is such a breath of fresh air when it comes to Turing. His outlook on life and desire to learn EVERYTHING is contagious. He pushed himself in the tasks he took on with The Pivot and was successful in all of his attempts. He is turning into a great developer and I can't wait to see what he does in the future." --Adam Hundley
 
+"Alex Navarrete, you were the first person I met at Turing, and you were welcoming from the very beginning. If I had any questions about my pre work you were eager to help me out, and also explained more complex ideas. I still appreciate that so much. That persisted for the entire module. I know module 3 sounds like a beast, but the fact that you never shied away from helping me out or looking at my code was a blessing man. I really respect your work ethic, and personally don't feel like you give yourself enough credit. The knowledge that you have about coding is very impressive, everything that you've talked with me about has been clear, concise, and correct. Your willingness to tackle challenges is very admirable, I'm stoked to see where you take all of this drive, ambition, and talent, I think you'll go very far." --Parker Phillips
 
 ### Playing a Part
 
