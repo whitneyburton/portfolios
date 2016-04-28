@@ -67,15 +67,15 @@ Turing is the best thing that has ever happened to me. I know you want construct
 
 Hector Huertas Feedback
 
-* ```Spending time with Marlo doing whatever is a gift. He is my prototype of the successful person: cool, kind and smart. His mindset is so extraordinary that I don't know what to remark. His awareness of the current state of his life and the goals he wants to achieve allow him to keep making great decisions over and over, leveling up himself and controlling his own destiny. He will achieve whatever he desires. This, of course, includes being a phenomenal programmer. It is super easy to work with him, and I am really grateful he retake mod 4 so I could enjoy doing a project with him (sorry man). For actual programming feedback: before diving into implementing a feature/function/expression, it might be useful to think a little bit more on 'what do i want to do? / what do i need?' from a conceptual point. Being able to explain your idea in plain english without using any technical terms is a good starting point for writing the actual (insert language here) implementation.```
+      Spending time with Marlo doing whatever is a gift. He is my prototype of the successful person: cool, kind and smart. His mindset is so extraordinary that I don't know what to remark. His awareness of the current state of his life and the goals he wants to achieve allow him to keep making great decisions over and over, leveling up himself and controlling his own destiny. He will achieve whatever he desires. This, of course, includes being a phenomenal programmer. It is super easy to work with him, and I am really grateful he retake mod 4 so I could enjoy doing a project with him (sorry man). For actual programming feedback: before diving into implementing a feature/function/expression, it might be useful to think a little bit more on 'what do i want to do? / what do i need?' from a conceptual point. Being able to explain your idea in plain english without using any technical terms is a good starting point for writing the actual (insert language here) implementation.
 
 Edgar Duran Feedback
 
-* ```Marlo is one impressive person. I admire his drive and his ambition. He has been such a big help to me this module and I probably couldn’t have done it without him. When I was struggling to understand JavaScript Marlo was one of the people that was able to help it click in my brain. When I had to write my first blog post ever I knew he was the person to help me not turn it a total turd. After finishing my blog post at around midnight I slacked Marlo expecting him to get back to me the next morning. Instead  he gave it a thorough review and sent me back the proof read that very night! I am excited for Marlo to begin the next phase of his career as I know he will be wildly successful. Thanks for everything, buddy.```
+      Marlo is one impressive person. I admire his drive and his ambition. He has been such a big help to me this module and I probably couldn’t have done it without him. When I was struggling to understand JavaScript Marlo was one of the people that was able to help it click in my brain. When I had to write my first blog post ever I knew he was the person to help me not turn it a total turd. After finishing my blog post at around midnight I slacked Marlo expecting him to get back to me the next morning. Instead  he gave it a thorough review and sent me back the proof read that very night! I am excited for Marlo to begin the next phase of his career as I know he will be wildly successful. Thanks for everything, buddy.
 
 Sonia Gupta Feedback
 
-* ```Marlo has been incredibly helpful for me this module. I have been struggling a lot, and he took it upon himself to seek me out and offer me valuable advice related to programming and to life in general. He has also paired with me on several occasions. His teaching style allowed me to come to my own conclusions without feeling helpless. The emotional and academic support Marlo provided has contributed considerably to my progress, and I'm truly grateful to have had the opportunity to learn from him.```
+      Marlo has been incredibly helpful for me this module. I have been struggling a lot, and he took it upon himself to seek me out and offer me valuable advice related to programming and to life in general. He has also paired with me on several occasions. His teaching style allowed me to come to my own conclusions without feeling helpless. The emotional and academic support Marlo provided has contributed considerably to my progress, and I'm truly grateful to have had the opportunity to learn from him.
 
 ### Playing a Part
 
@@ -85,16 +85,17 @@ A defining difference between this module and the last is that I set out to help
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: N/A
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 4
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 4
-* **E: Peer & Instructor Feedback**: 4
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Glad you came back -- this is the finish you deserve.
+* Great work supporting other students, especially in M1.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED
