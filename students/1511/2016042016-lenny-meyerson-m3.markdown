@@ -1,23 +1,23 @@
--* Individual Assessment
+* Individual Assessment
 
 ## Review
 
- +### Rubric Scores (self eval)
- +
- +* **A: End-of-Module Assessment**: 2
- +* **B: Individual Work & Projects**: 2
- +* **C: Group Work & Projects**: 2
- +* **D: Community Participation**: 1
- +* **E: Peer & Instructor Feedback**: 2
- +
-  ### Notes
+ ### Rubric Scores (self eval)
+ 
+ * **A: End-of-Module Assessment**: 2
+ * **B: Individual Work & Projects**: 2
+ * **C: Group Work & Projects**: 2
+ * **D: Community Participation**: 1
+ * **E: Peer & Instructor Feedback**: 2
+ 
+ ### Notes
 
-  ( Leave blanks for reviewers )
+ ( Leave blanks for reviewers )
 
- -* Included Projects: Self-Directed Project, Rales Engine, The Pivot
- -* Bonus Project (not required): APIcurious
- -* Feedback: Self-Solicited
- -* Something valuable you've taken away from your posse.
+ * Included Projects: Self-Directed Project, Rales Engine, The Pivot
+ * Bonus Project (not required): APIcurious
+ * Feedback: Self-Solicited
+ * Something valuable you've taken away from your posse.
 
  # Lenny Meyerson - M2 Portfolio
 
