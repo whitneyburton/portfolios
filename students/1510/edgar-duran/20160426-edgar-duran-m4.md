@@ -3,6 +3,7 @@
 ## Individual
 
 ### Your Mission
+
 My goal this module was to get the best grasp of JavaScript that I could in order to give myself the best possible chance to obtain a job.
 I also wanted to draft a strategy on how to go about finding jobs I am interested in and approaching them in a way that would give the best odds to get noticed and get an interview.
 
@@ -130,16 +131,19 @@ Greg is an excellent and talented developer. I doubt there has been a project du
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: N/A
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 4
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: 4
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Got feedback about not being here during individual work, but I need fewer
+distractions to focus
+* Really glad I did productivity lunch
+* Should write more blog posts
 
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED
