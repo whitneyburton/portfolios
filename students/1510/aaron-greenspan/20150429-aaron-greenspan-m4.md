@@ -21,12 +21,12 @@ Below is a list of all of my projects and assessment scores from Module 4.
 
 #### GameTime
 
-**Hand rendered 3D engine and original space flight sim. 
+**Hand rendered 3D engine and original space flight sim.
 
 * Assessor: Meeka
 * Github: https://github.com/afg419/battlezone    
 
-Notes: 
+Notes:
 * Application is fully playable and exceeds the expecations set by instructors
 Instructor Feedback
 * The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
@@ -59,12 +59,12 @@ Assessor: Meeka
 
 Notes:  
 
-* Met expectations as outlined by the user personas, the application is a solid first version. 
-* All planned features were delivered. 
-* Application is expertly divided into logical components each with a clear, single responsibility. 
+* Met expectations as outlined by the user personas, the application is a solid first version.
+* All planned features were delivered.
+* Application is expertly divided into logical components each with a clear, single responsibility.
 * Your application has exceptionally well-factored code with little or now duplication and all components separated out into logical components.
-* The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic is not fully tested. 
-* The application is pleasant, logical, and easy to use. 
+* The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic is not fully tested.
+* The application is pleasant, logical, and easy to use.
 * The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
 **Score** 164/200
@@ -110,7 +110,7 @@ I've participated in the larger Turing Community in the following ways:
 
 ## B: Individual Work & Projects  
 
-* 4: Challenged myself, learned a lot, made working things, but at times sacrificed testing.
+* 3: Challenged myself, learned a lot, made working things, but at times sacrificed testing.
 
 ## C: Group Work & Projects
 
