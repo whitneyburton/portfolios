@@ -125,12 +125,33 @@ Great project overall, next time, focus on naming tests better, testing in parti
 
 ###### Scores:
 
-* Functional Expectations: 3
-* Test-Driven Development: 3
-* Encapsulation / Breaking Logic into Components: 3.5
-* Fundamental Ruby & Style: 3
-* Enumerable & Collections: 3
-* Code Sanitation: 4
+__1. Functional Expectations__
+
+ * 3: Application fulfills base expectations
+
+__2. Test-Driven Development__
+
+ * 3: Application is well tested but does not balance isolation and integration/feature tests
+
+__3. Encapsulation / Breaking Logic into Components__
+
+ * 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+__4. Fundamental Ruby & Style__
+
+ * 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+__5. Sinatra / Web and Business Logic__
+
+ * 3: Application makes good use of Sinatra but has some mixing of the web and business logic.
+
+__6. View Layer__
+
+ * 3.5: Application breaks components out to view partials but has some logic or complexity leaking into the view
+
+__Workflow (NOT GRADED)__
+
+ * 3: Good use of branches, pull requests, and a project-management tool.
 
 #### Little Shop
 
