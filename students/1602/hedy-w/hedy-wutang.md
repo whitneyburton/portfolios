@@ -1,4 +1,4 @@
-# Hedy Woo - M2 Portfolio
+# Hedy - M2 Portfolio
 
 ## Individual
 I'm stronger, faster, higher.  
@@ -88,8 +88,7 @@ Missed 1/2 day 4/26
 
 ### Team: Chris Soden, Jon Liss-is-more, self
 
-  Rush Hour was a three person project to recreate a baby google analytics, using the Sinatra DSL and ActiveRecord.
-
+  Rush Hour was a three person project, and the first of module 2. The goal was to recreate a baby google analytics, using the Sinatra DSL and ActiveRecord.
 
   Evaluation Rubric
 
@@ -110,18 +109,23 @@ Missed 1/2 day 4/26
   1. Functional Expectations
 
   3: Application fulfills base expectations
+
   2. Test-Driven Development
 
   3: Application is well tested but does not balance isolation and integration/feature tests
+
   3. Encapsulation / Breaking Logic into Components
 
   3: Application effectively breaks logical components apart but breaks the principle of SRP
+
   4. Fundamental Ruby & Style
 
   3: Application shows strong effort towards organization, content, and refactoring
+
   5. Sinatra / Web and Business Logic
 
   3: Application makes good use of Sinatra but has some mixing of the web and business logic.
+
   6. View Layer
 
   3: Application breaks components out to view partials but has some logic or complexity leaking into the view
@@ -153,9 +157,43 @@ Missed 1/2 day 4/26
 
 ###Team: Thom Pickett, Sighing Sal Espinosa, self. 
 
-  Little Shop is an ecommerce project using the awesome Rails framework. Our three person group built an online talent agency for super duper spy coders. 
+  Little Shop is an ecommerce project using the awesome Rails framework. Our three person group built an online talent agency for mercenary coders. 
 
   Project DTR gist (https://gist.github.com/thePaulista/forked )
+
+## Evaluation Process
+
+  For the evaluation we'll work through the expectations above and look at the
+  following criteria:
+
+### 1. Feature Completeness
+
+  * 4: All features are correctly implemented along with two extensions
+
+### 2. Views
+
+  * 4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+
+### 3. Controllers
+
+  * 4: Controllers show significant effort to push logic down the stack
+
+### 4. Models
+
+  * 4: Models show excellent organization, refactoring, and appropriate use of Rails features
+
+### 5. Testing
+
+  * 4: Project has a running test suite that exercises the application at multiple levels
+
+### 6. Usability
+
+  * 3.5: Project is highly usable and ready to deploy to customers
+  * 3.5: Project is highly usable, but needs more polish before it'd be customer-ready
+
+### 7. Workflow
+
+  * 4: Excellent use of branches, pull requests, and a project management tool.
 
 ##Feedback Received from Super Coders team: 
   Sighing Sal: 
@@ -169,7 +207,7 @@ Missed 1/2 day 4/26
   I could throw quite a lot of good superlatives on Sal, and prove them all true. I didn’t know Sal prior to Little Shop, but I pegged him to be on my dream team.  I was just too lucky to have that realized (thank you Student.sample!).  Sal is a rock star!! Not just in terms of what he knows, but also in the way he organizes his thoughts.  He consistently goes for what is the most essential down to the least. He is not succumbed by low level details or distractions found within the projects.  He also had to deal with two ill teammates from the midpoint of the project on, and so he did a lot of the heavy-lifting, especially towards the end.  And while, this would ordinarily be a point of sore contention, he never made any of us feel guilty.  Our project is a whole lot better than what it would have otherwise been because of him. Sal’s also very giving. He’s the king of snacks, and only eats what he can share.  That says so much about his personhood!  I would hope that ruby Student.sample would grant me more opportunities to pair and learn from him.  Thanks for the goodtimes!
 
   Thom:
-  Thom I’m quite astounded and surprised at how much you’ve grown as a programmer since module 1, and our HTTP-YYKM project.  You definitely dove deep and all in to learn this stuff, and it showed during the Little Shop. Glad to see you taking on side challenges as well with your mentor.  Sorry you fell ill (probably b/c of me - but hopefully not) during the project, but thanks for your willingness to do some work once you started to feel better.  I know this last week was tough on you physically, but I think you handled it well.  I’m looking forward to see your excitement for programming to grow even more on mod 3.  I think it’ll be exciting.
+  Thom I’m quite astounded and surprised at how much you’ve grown as a programmer since module 1, and our HTTP-YYKM project.  You definitely dove deep and all in to learn this stuff, and it showed during the Little Shop. Glad to see you taking on side challenges as well with your mentor.  Sorry you fell ill (probably b/c of me - but hopefully not) during the project, but thanks for your willingness to do some work once you started to feel better.  I know this last week was tough on you physically, but I think you handled it well.  I’m looking forward to see your excitement for programming grow even more on mod 3.  I think it’ll be exciting.
 
 ##Other projects(not evaluated)
   Tool Chest (https://github.com/thePaulista/rails_tool_chest),
@@ -197,7 +235,6 @@ Rails Mini Project - KDrama Idea Box (git@github.com:thePaulista/kdrama-idea-box
   Marina:
   Our k-drama mini-rails project was fun! And it was because of you.  Your TDD skills are impressive, and you definitely have something to teach me about that.  I hope we get to pair more going forwards because I need some of your TDD magic.
 
-
 ###Receiving all these unsolicited feedbacks:
 
   Marina:
@@ -210,13 +247,13 @@ Rails Mini Project - KDrama Idea Box (git@github.com:thePaulista/kdrama-idea-box
 
   Plan is to be a super learner and excel at this eventually! Big plan is to succeed in this, so I can tackle grander problems. The issue of human trafficking is one, homelessness is another (no human should be without shelter), there's so much to do, and so little time!  
 
-  I'm in (but mostly out of the) the Ritchie Posse.  My main draw for joining this group were initally three reasons: 1. no early morning meetings, 2. Scott 2. Kimi (it's a tie). Incidentally, I loved meeting the other folks in the posse.
+  I'm in (but mostly out of the) the Ritchie Posse.  My main draw for joining this group were initally three reasons: 1. no early morning meetings, 2. Scott 2. Kimi (it's a tie). Incidentally, I loved meeting the other folks in the posse, especially the folks from 1603. 
 
 ### Playing a Part
 
-  Like Justice John Paul Stevens, I was a good conscientious dissenter at Turing, when I could be. 
+  within Turing:   Like Justice John Paul Stevens, I was a good conscientious dissenter at Turing, when I could be. 
 
-  Serving breakfast to the homeless community with DCC on Pearl St, most Tuesday mornings at 6:30am. 
+  without Turing:   Serving breakfast to the homeless community with DCC on Pearl St, most Tuesday mornings at 6:30am. 
 
 ## Review
 ##Self-Assessment Scores:
