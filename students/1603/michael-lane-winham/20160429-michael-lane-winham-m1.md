@@ -236,13 +236,15 @@ During the last six weeks I have been involved in all of the Friday activities i
 
 ##### Self Evaluation:
 
+* End-of-Module Assessment: 1
+
 * Individual Work & Projects: 3
 
 * Group Work & Projects: 2
 
 * Community Participation: 2
 
-* Peer & Instructor Feedback: 2
+* Peer & Instructor Feedback: 3
 
 
 ### Notes
