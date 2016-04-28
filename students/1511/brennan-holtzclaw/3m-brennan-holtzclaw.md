@@ -158,7 +158,13 @@ I didn't miss any days of class this module.
 
 * Brennan and I got to work together at first under not the best of circumstances. It was a pivot on the pivot and he was being thrown into a new codebase in the middle of a project. I was totally impressed with how he took on the project as seamlessly as possible. As a group we came together to make the best of it and turned in a great project in the end. It was an excellent group project experience thanks to his calm demeanor and capabilities. - Charissa Lawrence
 
-I helped Brennan with his personal project this week, and I was impressed by how much he took on (javascript and ajax calls and such!). Brennan is also very creative. He is a pleasure to work with, I am sad I will not get to see every day after this module. - Beth Secor
+* I helped Brennan with his personal project this week, and I was impressed by how much he took on (javascript and ajax calls and such!). Brennan is also very creative. He is a pleasure to work with, I am sad I will not get to see every day after this module. - Beth Secor
+
+* I really enjoyed working with Brennan on the Pivot. He's a far stronger contributor than he gives himself credit for being.
+He seems to approach large problems with resignation to the task that might make one image a man assigned the job of moving
+a mountain a handful of rocks at a time. He shrugs, rolls up his sleeves, and gets to work. The Pivot can be a slog and the
+patient diligence he brought to the project was a valuable asset to progress but the sense of humor he brought to the team
+made many of the would-be-slog moments quite enjoyable. He'll be a terrific asset to whatever team is lucky enough to have him. - Lenny Myerson
 
 ### Being a community member
 This module I continued to publish podcasts when possible, and I got it set up on a much more reliable distribution network. I am also a member of the Ritchie Posse.
