@@ -115,22 +115,77 @@ I came to Turing with limited programming experience (from some independent stud
 
 4: Version control maintains the codebase
 
+#### Complete Me
+
+* [GitHub URL](https://github.com/marcellawigg/complete-me)
+* [Original Assignment](https://github.com/marcellawigg/complete-me)
+
+(description)
+
+**Assessed by** Lovisa
+
+**Comments**
+* Improved testing syntax from previous time. More consistent
+* Could have more full test coverage.
+* Use of enumerators decent; usually chose right one, but there were a few places where you could have chosen better.
+* Good breakdown into logical components.
+
+### 1. Functional Expectations
+
+3: Application fulfills all base expectations
+
+### 2. Test-Driven Development
+
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+
+4: Application is expertly divided into logical components each with a clear, single responsibility
+
+### 4. Fundamental Ruby & Style
+
+3:  Application shows strong effort towards organization, content, and refactoring
+
+### 5. Enumerable & Collections
+
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+
 ## Team
 
 ### Projects
 
 (Intro)
 
-#### (Project Name)
+#### HTTP, Yeah, You Know Me
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/marcellawigg/http_yeah_you_know_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 (description)
 
-(evaluation comments)
+**Assessed by** Jhun
+**Comments** (in evaluation).
 
-(evaluation scores)
+### 1. Overall Functionality
+* 3: Application implements iterations 0 - 4
+
+**Echo/Foxtrot Note:** Requirements listed are for *Foxtrot* pairs -- Echo requirements are shifted by 1 additional iteration -- So a 3 for Echo requires completing Iterations 0-5
+
+### 2. Fundamental Ruby & Style
+
+* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+* First group to use a module. I liked that. Code was pretty clean. Some portions had pieces and parts to look at and work on but with what they had i think they were okay.
+
+
+### 3. Test-Driven Development
+
+* 2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+* little to no test.
+
+### 4. Breaking Logic into Components
+
+* 3.5: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* For the most part their code had single lined methods and had single responsibility. I feel if they had more time things could of been a little tider but I do like the implementation of the classes.
 
 (feedback to me)
 
