@@ -109,16 +109,17 @@ sorry about the grammar
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: Does not apply.
-* **B: Individual Work & Projects**: 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
-* **C: Group Work & Projects**: 4: Student consistently helps their teammates be their best selves, learn at an accelerated pace, and achieve great results.
-* **D: Community Participation**: 3: Student participates in required activities and does at least one or two above-and-beyond supports of the community.
-* **E: Peer & Instructor Feedback**: 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 4
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Feel that I do well working with people regardless of their personality/style
+* Came in knowing some HTML/CSS and a bit of JS, but felt like starting over
 
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED
