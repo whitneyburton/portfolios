@@ -50,8 +50,25 @@ Collaboration | 4
 
 ### Work
 
-#### Performance Review (ungraded)
-* [Github URL] (https://github.com/theonlyrao/performance_review)
+#### Little Shop
+* [Github](https://github.com/kamiboers/toolchest)
+* [Live URL](http://toolchest.herokuapp.com/)
+
+In this project, our team built an app that takes significant steps towards allowing a user to rent a tool.
+
+The site supports all the necessary basic user and admin functions, such as registering for the site, adding tools, and making purchases. Because of thoughtful consideration of the database and table relationships, we have also positioned ourselves to support the complicated interaction involved in renting, as opposed to buying, a product.
+
+Tracking availability of a rental product is different than a purchased product. The inventory of a rental product not only must consider the physical quantity of the product, but also how it is available over time.
+
+At the moment, the site allows a user to rent a tool for a particular day, that the user chooses through a drop-down menu before adding the tool to the cart. If the tools is already reserved on that day, the user is unable to add the tool to the cart. Once the user checks out with the tool in his cart, future users are unable to rent that tool on that day.
+
+The next steps in this project would be to allow a user to rent the tool for a period of days, and also to support the presents of multiple instances of the same tool, e.g. allowing two different people to rent two different hammers on the same day. We believe that the foundation we have laid would easily support such functionality.
+
+I acted as team lead on this project.
+
+#### Performance Review
+* [Github](https://github.com/theonlyrao/performance_review)
+* *personal project*
 
 This personal project was one of the reasons I wanted to come to Turing. It is an app that allows a manager to let her team review themselves using a set of performance review questions recently developed by a consulting firm.
 
@@ -59,12 +76,12 @@ The social benefit of this tool is that it makes it easier for companies to see 
 
 After working on this project over the weekend, I had built out the functionality allowing a manager to create teams and employees, a manager to assign an employee to review another employee, an employee to review another employee, and the reviewee and manager to see the results of reviews.
 
-After showing my app to my posse mentor, I realize that there were significant holes in my testing and a lack of empathy for my end user (see blog post, below). As a result, I will be scrapping this project and starting over during the break week.
+After showing my app to my posse mentor, I realize that there were significant holes in my testing and a lack of empathy for my end user (see [blog post](https://gist.github.com/theonlyrao/54267d10bd5cc55affdf606c2ab608cb)). As a result, I will be scrapping this project and starting over during the break week.
 
 #### Rush Hour
 
-* [Github URL] (https://github.com/marinacor1/RushHour)
-* [Original Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
+* [Github](https://github.com/marinacor1/RushHour)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
 The purpose of this project was to create an app using Sinatra that could track web traffic at a particular url by parsing data loaded into the app through the command line.
 
@@ -86,32 +103,24 @@ Fundamental Ruby & Style | 3
 Sinatra / Web & Business Logic | 3.5
 View Layer | 3.5
 
-#### Other related items
-
-
-* [Blog post](https://gist.github.com/theonlyrao/54267d10bd5cc55affdf606c2ab608cb)
-
 =======================================
 
 ## Team
 
 #### Feedback from me
-
-
+I gave substantive feedback to every person with whom I worked on a project. I tried to give comments that were constructive, actionable, and kind.
 
 #### Feedback about me
 "It was very nice collaborating with Ashwin on this project. He is very communicative about his thought process, and systematic in his problem solving. We also successfully decided on a strategy to tackle this project, and Ashwin (and the rest of the team) were able to carry it out efficiently and successfully. I really appreciated his diligence with Test Driven Development and resourcefulness when facing complicated errors. I think more time building web applications will help Ashwin get a better sense  how to trace down errors and structure the software." - Patrick Hardy, Rush Hour teammate
-
-
 
 =======================================
 
 ## Community
 
-* Prework Guide for 1605 Caleb Cowen
 * participated in formal 1:1 paring sessions with Mod 1 students on April 12 and April 26
 * started "SQL-ERS" during Tuesdays at lunch to work on SQL queries with other students
 * frequently helped Mod 1 students with ad hoc questions
+* Prework Guide for 1605 Caleb Cowen
 * Lightning Talk - *Applying Fundamentals of Ecommerce Marketing*, March 25
 * participated in interview project with 8th grade students on March 25
 * Hamilton Posse review:
@@ -121,3 +130,25 @@ This module, the Hamilton posse used React Native to create a Turing app. By the
 I participated in the hackathon, during which we implemented the majority of the functionality for this app. My committed participation during the early weeks of the module contributed to our momentum and later success.
 
 As a result of my participation, especially during the hackathon, I was introduced to javascript concepts that will help me in later modules. Also, working alongside instructors was an invaluable experience of learning how advanced developers introduce themselves to new languages and frameworks.
+
+=======================================
+
+## Review
+
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
+
+=======================================
