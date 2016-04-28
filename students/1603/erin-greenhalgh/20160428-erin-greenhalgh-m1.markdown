@@ -6,7 +6,7 @@
 * Individual work and projects: 3
 * Group work and projects: 3
 * Community participation: 3
-* Peer and instructor feedback: 4
+* Peer and instructor feedback: 3
 
 
 ### Areas of Emphasis
@@ -186,4 +186,4 @@ Over these last 6 weeks I have worked hard to build sincere relationships with p
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROVISIONAL 
