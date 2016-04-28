@@ -126,11 +126,19 @@ A system able to load, parse, search, and execute business intelligence queries 
 
 Extension provided analytics for an individual merchant, allowing a merchant to compare themselves to various peer groups.  Analytics were represented with polar charts using ERB, Javascript and ChartJS.
 
-(evaluation comments): TBD
+Evaluation comments: (paraphrased from eval) Great that we held ourselves to a high standard on testing, etc and developed our own extension.  Good use of modules where appropriate.  
 
-(evaluation scores): TBD
+Evaluation Scores (Jhun):
+* Functional Expectations: 4
+* Test-Driven Development: 4
+* Encapsulation: 4
+* Fundamental Ruby & Style: 4
+* Enumerable & Collections: 4
+* Code Sanitation: 4
 
-(feedback to me): TBD
+
+
+Feedback to me (from Colin): Kerry was an amazing partner for Black Thursday. Her organization, and foresight made what could have been quite a stressful project, beyond manageable. Working with Kerry was fantastic. I learned so much from her in ways to set myself up better for future projects, and assignments. Kerry and I did do a DTR, where she was very communicative and open about how she’d like projects to go, and never once did any problems arise. It was true privilege working with her and seeing her skills with Javascript and how they culminated in our Black Thursday project. Much like she said, we both might need work in preventing typos, but I can’t knock her on that since I too am very guilty of some mistyped keys, but truly can’t think of anything else for criticism. Thanks Kerry!
 
 ## Community
 
@@ -149,7 +157,8 @@ Extension provided analytics for an individual merchant, allowing a merchant to 
 ### Playing a Part
 
 * I presented our hackathon project at the hackathon showcase.
-* I attended every posse meeting this module and sought opportunities to contribute despite limited technical skills
+* I attended every posse meeting this module and sought opportunities to contribute despite limited technical skills.
+* Feedback from posse (Beth Sebian):  "In the 6 weeks I've had a chance to work with Kerry in Pahlka posse, her strengths as emerging software developer have been evident. She is professional, engaged, and intentional in her contributions to our group. It's clear she is already a strong programmer, but I've found it especially impressive that she so tactfully uses these skills to advance the overall learning of our group. These soft skills, combined with what I expect will soon be some pretty badass software ninja skills, will make her a force to be reckoned with by the time she graduates Turing. I'm thrilled she's interested in working in the social justice/civic tech space and would be delighted to have a chance to work with her again."
 
 ## Review
 
