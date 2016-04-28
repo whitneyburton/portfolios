@@ -8,7 +8,7 @@
 
 ### End of Module Assessment
 
-* [GitHub URL](https://github.com/slota/final
+* [GitHub URL](https://github.com/slota/final)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
 ### Scores:
@@ -33,6 +33,8 @@ In this project, we (Shannon Paige and John Slota) recreated Space Invaders. I l
 * Total Points: 263 / 300
 
 Shannon Paige Feedback:
+
+* Slota, Slota, Slota. What can be said about the man, the myth, the legend. When Mod 4 started, I found myself getting overly stressed, so when I realized we could pick partners for Game Time, I knew I had to work with Slota. He is the only person at Turing who ALWAYS has a smile on his face, and can always make me laugh. Since we had paired together during Little Shop, I knew we worked well together. We have a perfect balance, because he keeps me from getting to serious and I keep him focused. I joke that I’m just going to follow Slota around, but I really would love it if we ended up working together. I am blessed to have been in two cohorts with this crazy crazy dude.
 
 Edgar Duran Feedback: 
 
