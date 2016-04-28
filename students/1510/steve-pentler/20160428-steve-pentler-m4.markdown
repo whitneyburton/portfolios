@@ -1,9 +1,35 @@
 # Steven Pentler - Module 4 Portfolio
+---
+## Self Evaluation Scores
+##### End-of-Module Assessment
 
+- Turing student is able to demonstrate proficiency at programming in accordance with the module's content and expectations.
+
+    - 4: Student achieved two or more "4s" on the assessment
+
+- A Turing student works to maximize their skill growth and demonstrates that skill across a variety of work.
+
+     - 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+
+- Turing student contributes significantly to group projects, helps the team develop their technical skills, and delivers a high-quality product.
+
+    - 4: Student consistently helps their teammates be their best selves, learn at an accelerated pace, and achieve great results.
+
+- Turing student builds up the community around them by participating and supporting other students, the larger Turing family, and persons outside our walls who want to develop their own skills.
+
+    - 4: Student has a significant positive impact on the learning and spirit of the people around them.
+
+##### Peer & Instructor Feedback
+
+- Turing student accelerates the growth of those around them by delivering specific, kind, and actionable feedback. They accelerate their own growth by taking in and acting on the feedback of their peers and instructors.
+
+    - Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
+
+
+---
 
 ## Projects
-___
-
+---
 ## Shrimpin' Ain't Easy (Game Time)
 **Score: 285/300**
 
@@ -69,20 +95,18 @@ ___
 
 * I was first paired with Hector on a four man team during Little shop, and to be completely honest he had a bit of a reputation for being opinionated and slightly difficult to work with. As the team lead at the time, I scheduled in a mandatory feedback for the first Thursday in order to correct any workflow issues prior to the second week. I gave Hector the advice that he could attempt to convey his preferences with less emotion in order to prevent defensive reactions from his teammates. Now, the thing about advice is that you can take it or leave it.Hector pulled me aside that same day because he wanted to have a genuine conversation. Rather than defending himself, he continued to ask questions from a place of self-improvement. The next week he reacted to this feedback exceptionally well. With a more constructive, less emotional tone, he avoided “clashes” (with Aaron) and the entire group’s morale for the second week was lighthearted and fun.
 
-After the intermission, I was reassigned to a group with Hector for the Pivot. One month straight with the “Spanish Thunder.” He crushed the project and conveyed his points with his brain instead of his heart, and there was no longer a sense of pride in being correct all the time. He was an incredible teammate, and I can guarantee that Slota (the Pivot) and Marlo(GameTime) would say the same.
+    After the intermission, I was reassigned to a group with Hector for the Pivot. One month straight with the “Spanish Thunder.” He crushed the project and conveyed his points with his brain instead of his heart, and there was no longer a sense of pride in being correct all the time. He was an incredible teammate, and I can guarantee that Slota (the Pivot) and Marlo(GameTime) would say the same.
 
-Hector’s technical abilities have never been in question, though his soft skills have. I can testify to the progress he has made, and I can sincerely say that I would love to work on a small team with Hector for years. He doesn’t take shortcuts and if I ever needed anyone to design the back end of a project, no joke I would hit up Hector first.
+    Hector’s technical abilities have never been in question, though his soft skills have. I can testify to the progress he has made, and I can sincerely say that I would love to work on a small team with Hector for years. He doesn’t take shortcuts and if I ever needed anyone to design the back end of a project, no joke I would hit up Hector first.
 
-The entirety of 1510 is bummed that he couldn’t be with use these final weeks, but he’s as much a part of the cohort as any of us who are still standing at graduation. I wish nothing but the best for him, and hope our paths cross again (preferably in Europe for a UEFA Champions League game). Speaking of which, did you see  Ñíguez’s goal? “EM-PAW-SEE-BALL!!!!” jaja
+    The entirety of 1510 is bummed that he couldn’t be with use these final weeks, but he’s as much a part of the cohort as any of us who are still standing at graduation. I wish nothing but the best for him, and hope our paths cross again (preferably in Europe for a UEFA Champions League game). Speaking of which, did you see  Ñíguez’s goal? “EM-PAW-SEE-BALL!!!!” jaja
 
-* “To think that Brant almost took a module off and left 1510 is hard to believe at this point. He’s nearly the heart and soul of the cohort, and has formed some of the strongest relationships with a multitude of people in the cohort. He genuinely cares about everyone in 1510 and is perhaps the most well-liked individual in the group. I really admire how he has reinvented himself as a “yes man.” At first he was a bit closed off to the group and took a very mature approach to Turing. Then he opened up, started singing karaoke, and initiated a chain reaction. The world is much better because of it. I really hope that he is able to locate a job where he is able to connect with nature, as it seems to be a very centering force in his life. I expect that we’ll get in some spectacular hikes and camping over the summer, and I really look forward to it. Finally, I apologize for calling you “old.” You’re actually a very youthful, kind, dirty old bastard. Aside from personal stuff, he is one of my favorite people to pair with. His work ethic is off the charts, and his work flow is smooth. He discontent without understanding and rarely takes shortcuts, which keeps a lot of us in check. We entered module 3 with a pact that we were going to get through it together and not make a lot of noise in the process, and here we are graduating 4. It feels like a very shared accomplishment. Congrats!
+* To think that Brant almost took a module off and left 1510 is hard to believe at this point. He’s nearly the heart and soul of the cohort, and has formed some of the strongest relationships with a multitude of people in the cohort. He genuinely cares about everyone in 1510 and is perhaps the most well-liked individual in the group. I really admire how he has reinvented himself as a “yes man.” At first he was a bit closed off to the group and took a very mature approach to Turing. Then he opened up, started singing karaoke, and initiated a chain reaction. The world is much better because of it. I really hope that he is able to locate a job where he is able to connect with nature, as it seems to be a very centering force in his life. I expect that we’ll get in some spectacular hikes and camping over the summer, and I really look forward to it. Finally, I apologize for calling you “old.” You’re actually a very youthful, kind, dirty old bastard. Aside from personal stuff, he is one of my favorite people to pair with. His work ethic is off the charts, and his work flow is smooth. He discontent without understanding and rarely takes shortcuts, which keeps a lot of us in check. We entered module 3 with a pact that we were going to get through it together and not make a lot of noise in the process, and here we are graduating 4. It feels like a very shared accomplishment. Congrats!
 
 
-* "Feedback for Brenna: “Brenna  cares! She is more approachable and generous with her time than anyone in 1510. At times, I’ve borderline abused her as a sounding board and she continues to respond to my sorry cries for help. And when she helps, her ability to articulate her thought process always impresses me. She is the force that keeps 1510 in balance, but don’t tell her that because she’s too humble to accept compliments. In terms of front-end design, she has almost single-handedly kept 1510’s views afloat. When people have a simple styling question, they consult me. When they have a complex styling question, they know who to talk to. I’m extremely happy that she is sticking around Turing. I have no doubt that she is going to nail the TA position and keep our cohort close and involved.  In terms of constructive feedback, I’m angry about two things. The first is that she is legendary at keeping friends out drinking past their bedtime, which is bad for my health. The second is that she’s so damn old, only because we couldn’t experience the Russell Wilson year at Wisconsin together. Roll Badge."
+* Feedback for Brenna: “Brenna  cares! She is more approachable and generous with her time than anyone in 1510. At times, I’ve borderline abused her as a sounding board and she continues to respond to my sorry cries for help. And when she helps, her ability to articulate her thought process always impresses me. She is the force that keeps 1510 in balance, but don’t tell her that because she’s too humble to accept compliments. In terms of front-end design, she has almost single-handedly kept 1510’s views afloat. When people have a simple styling question, they consult me. When they have a complex styling question, they know who to talk to. I’m extremely happy that she is sticking around Turing. I have no doubt that she is going to nail the TA position and keep our cohort close and involved.  In terms of constructive feedback, I’m angry about two things. The first is that she is legendary at keeping friends out drinking past their bedtime, which is bad for my health. The second is that she’s so damn old, only because we couldn’t experience the Russell Wilson year at Wisconsin together. Roll Badge.
 
-* "I’ve spent a month of my life with Hector Huertas and I grew to love his catch-phrase “That’s Em-paw-saw-ble.” He is remarkable foresighted  when designing the back end for projects, and his upfront thinking saves a ton of time. Finally, he doesn’t practice his catch-phrase. If you tell him something is impossible, he’ll go out and do it. I have an immense respect for his capabilities, and he was fantastic to work with.
-
-* "Feedback for Steve-O: Steve-O, the king of laid-backness, also happens to be the innovator of 1510. If you watch the group, you’ll notice that he’s generally the one to pioneer a new skill. More importantly, he is overly-generous with his time and is one of the most approachable characters in 1510. I have an immense appreciation for the time he took to patiently help me install VCR for OmniAuth during APIcurious, His Google skills will serve him well in the future, and I mean that seriously. Finally, have you noticed his style? One particular day he wore boots, short denim? shorts, and a cut neck hoodie. The future is Steve, and I am honored to share a namespace with this fine gentleman.
+* Steve-O, the king of laid-backness, also happens to be the innovator of 1510. If you watch the group, you’ll notice that he’s generally the one to pioneer a new skill. More importantly, he is overly-generous with his time and is one of the most approachable characters in 1510. His Reddit and Google skills will serve him well in the future, and I mean that seriously. Finally, have you noticed his style? One particular day he wore boots, short denim? shorts, and a cut neck hoodie. The future is Steve, and I am honored to share a namespace with this fine gentleman. Now let's graduate and get some bolo-ties!
 
 ### Review
 
