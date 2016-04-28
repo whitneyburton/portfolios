@@ -152,8 +152,6 @@ I've played a part in the Turing community in the following ways:
 
 * [Great Partners: Strategic Decisions & Narratives](https://medium.com/@deborahleehamel/strategic-decisions-with-narratives-81d7940d4d32#.n24ul9ev5)
 
-* [Pahlka Posse - Hackathon - Affordable Housing App](https://github.com/bethsebian/affordable-housing-app))
-
 #### Posse:
 
 * [Pahlka Posse - Hackathon - Affordable Housing App](https://github.com/bethsebian/affordable-housing-app)
