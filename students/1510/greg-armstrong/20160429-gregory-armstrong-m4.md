@@ -1,4 +1,4 @@
-# Gregory Armstrong - M3 Portfolio
+# Gregory Armstrong - M4 Portfolio
 
 ## Individual
 
@@ -91,36 +91,22 @@ Feedback from Edgar Duran, Badass Extraordinaire:
 * Have continued to try and keep the #sunday-funday channel going, which is at this point basically just Taylor Moore, myself and occasionally Jared Roth playing soccer on the weekends. But it's fun.
 * Built some cabinets for the Turing staff area on Tuesday, April 27th. I did it for the love of the community, honest.
 
-### Self Assessment
+## Review
+
+### Scores
 
 * A: 3
 * B: 3
-* C: 4
+* C: 3
 * D: 3
 * E: 3
 
-## Review
-
 ### Notes
 
-## A: End-of-Module Assessment
-
-*
-
-## B: Individual Work & Projects
-
-*
-
-## C: Group Work & Projects
-
-*
-
-## D: Community Participation
-
-*
-
-## E: Peer & Instructor Feedback
-
-*
+* Really enjoyed working on Portal for GameTime
+* RealTime was difficult because of job hunt distractions
+* Community participation was weak in M3. It was my toughest module. Did better in M4.
 
 ### Outcome
+
+GRADUATED
