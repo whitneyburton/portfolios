@@ -113,3 +113,21 @@ ___
 ### Notes
 
 # Outcome
+
+## Scores
+
+* Assessment: 3, Excused from assessment
+* Individual Projects: 3
+* Group Projects: 3
+* Community: 2
+* Feedback: 2
+
+## Notes
+
+* Not concerned about being the "fastest" programmer, sometimes sacrificing completion
+* Program has been the toughest thing I've done
+* Starting back in May of 2015 and having my ego constantly cut down has been difficult "...but has without a doubt made me a better programmer" (quotes added by student as to not be taken out of context and misrepresented)
+
+## Outcomes
+
+PENDING -- Need more content on Community and Feedback

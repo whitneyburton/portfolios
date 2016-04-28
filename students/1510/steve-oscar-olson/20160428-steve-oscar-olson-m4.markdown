@@ -4,16 +4,6 @@
 
 My goal for this module was to both succeed in general in the coursework and get a decent JavaScript foundation, but also to really hit the job hunt hard and have some leads coming out of school. I think I did fairly well at balancing the two things throughout the module. I did well on most of the projects (my last project was kind of an MVP to get the required points), and have a couple job leads that could possibly maybe result in offers this week or next.
 
-
-### End of Module Assessment
-
-NA
-
-
-#### Scores:
-
-NA
-
 ### Attendance
 
 Typical mod 4 spottiness, but at least my absences were due to job interviews. I often chose to work outside of the basement whenever possible.
@@ -74,12 +64,14 @@ Assessed By: Steve
 
 #### Score: 123/200
 
-Project completed basic spec requirements and websocket functionality, but lacked development of the UI. It was basically an MVP project to learn the basics of websockets, and I used the rest of my time in the job hunt, such as breaking down in Loveland and spending all afternoon/evening way up there. 
+Project completed basic spec requirements and websocket functionality, but lacked development of the UI. It was basically an MVP project to learn the basics of websockets, and I used the rest of my time in the job hunt, such as breaking down in Loveland and spending all afternoon/evening way up there.
 
 
 ## Community  
+
 - I paired with students from all modules on their projects   
 - Attended 4 or 5 meetups  
+- Did 1603 headshots  
 - I made a ruby gem (during the last module but forgot to include that last time, so...)
 
 ### Giving Feedback
@@ -88,6 +80,8 @@ To: Brenna -   Working with Brenna on the GameTime project was a great experienc
 
 To: Dad Steve -  SteveP is the top bun to my bottom bun. Some have said that a Steve sandwich doesn’t exist (because the meat is what defines a sandwich), but these people have clearly never been in a Steve sandwich. They don’t know what ultimate safety and comfort feels like..  I’m always impressed by his design work, both on the computer and in his hairstyle. Beyond that, he’s a well-rounded developer and, but brings no ego and is always a pleasure to be around. I’m a bit disappointed we’ve never been assigned to work on a project together.  But also I understand - that just wouldn't be fair.
 
+To: Dan - I've found dan to always be more than willing to sit down with me and figure out a problem. And then figure it out from another angle. And then think of some other problem to figure out. His drive to really learn the concepts pushes the whole group to learn more, and he can quickly grasp how all the parts fit together in the big picture. He’s easy to work with, and is very open to suggestions, while being willing to defend his position when warranted.
+
 
 ### Being a Community Member
 
@@ -95,20 +89,21 @@ From: Steve P - Steve-O, the king of laid-backness, also happens to be the innov
 
 From: Dan - Working with Steve on various issues during our mod 4 projects was a great experience. He’s always willing to sit down and discuss a problem. Steve is easy to work with as a pair by thinking critically about the challenge and gets things done quickly when working solo. Not only can he Rails, he can also JavaScript/React very well.
 
-From: Brenna - pending
+From: Brenna - I was lucky enough to work with Steve on a the GameTime project that focused on building a client-side game in HTML Canvas. One of the best parts about working with Steve is his ability to exude confidence and control even when facing the inevitable road blocks. He has an amazing sense of humor that made these challenges oddly enjoyable, and I found that we worked at a very similar pace which made overcoming challenges a great learning experience for us both.
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 4 (NA defaults to 4)
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 4
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+* I have no strong feelings on teal
+* CompleteMe in M1 were the most difficult for me
 
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED

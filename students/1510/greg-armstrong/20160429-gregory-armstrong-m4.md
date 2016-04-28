@@ -1,4 +1,4 @@
-# Gregory Armstrong - M3 Portfolio
+# Gregory Armstrong - M4 Portfolio
 
 ## Individual
 
@@ -30,6 +30,10 @@ In this project, we (Beth Secor & Greg Armstrong) decided to recreate the game P
 Beth Secor's Feedback:
 
 * "Greg lies! He told me making Portal would be easier than he actually thought it would be. Greg thought, cool I'll give Beth a false sense of security so she crushes this project and I can brag to my friends that I made Portal. Well congratulations Greg, your plan worked. Greg is such a hard working person, and on top of that he's sweet and kind and all around awesome to work with. He pushed us to work on a game that would be challenging because all of the different elements to even make the MVP of Portal. I'm glad he did because I learned so much and our game turned out to be pretty amazing. I hope one day we'll end up working at the same company saving the world and stuff."
+
+Beth Secor's Second Feedback:
+
+* "Greg is seriously the most ridiculous person ever. He is constantly shouting about bananas and puzzles. He is also very arrogant. He came up to me this morning and forced me to look at his weird modern art, and I had to nod and smile and say, "That's great Greg! You're so talented." Working on Game Time with Greg was awful. He just sat there and didn't listen to any of my suggestions. I couldn't take it anymore, and he brought out the Wheat Queen in me . I took over his brain with my powers and now Greg is a decent and kind guy that everyone loves. Deep down I know he's really an asshole."
 
 #### Individual Projects :
 
@@ -63,6 +67,18 @@ Feedback for Beth Secor, Portal2D:
 
 * "Working on GameTime with Beth was by far my most favorite project, as well as my most favorite pairing relationship throughout all of Turing. I had to tell a wee little fib at the start of the project relating to my confidence that we could do it well to get her onboard with it, but we did end up doing quite well so I have no remorse. I find Beth's determination and work-ethic to be of the highest quality. She has immense ability to work through tough challenges with a cool head, and is great at communicating her expectations for a project both prior to and during a project. She asked if we could work together on the project in the week prior to kicking it off, and i'm quite thankful that she did so, as I got to work with a truly outstanding developer as a result. I would recommend that she cut back on the threats of shanking though, that can be a bit of a detriment to the working relationship. Just kidding. No, I'm not."
 
+Second Feedback for Beth Secor, totally serious stuff inbound:
+
+* "All joking aside, Beth is a vicious individual whose personality borders on psychopathic, with murderous tendencies and no concern for human life. I have never felt fear during my time at Turing other than the times Ive spent pairing with her. I can understand the instructor’s fear as well, do you fail her and risk dying within the next 7 weeks, or pass her and subject the outside world to her wrath? I hope you have more strength than I do when it comes to that decision. She’s both an unstoppable force and an immovable object, a physics-based paradox that can never be solved."
+
+Feedback for Edgar Duran, Badass Extraordinaire:
+
+* "Edgar’s allegiance to the Broncos is unquestionable. He’s also a pretty good developer, too! Edgar was immensely helpful with helping me to debug my RealTime app when I was still struggling to grasp web sockets as a whole idea. Omaha!"
+
+Feedback from Edgar Duran, Badass Extraordinaire:
+
+* "Greg is an excellent and talented developer. I doubt there has been a project during the last 2 modules that Greg hasn’t helped me with at least one aspect of. He is a reliable source and his understanding of programming is extremely impressive."
+
 ### Being a Community Member
 
 * Hosted the Hector-Hector-Bo-Bector Going Away Party on April 2nd. Hector became a true American on this day, and we sent him back to Spain in style.
@@ -75,36 +91,22 @@ Feedback for Beth Secor, Portal2D:
 * Have continued to try and keep the #sunday-funday channel going, which is at this point basically just Taylor Moore, myself and occasionally Jared Roth playing soccer on the weekends. But it's fun.
 * Built some cabinets for the Turing staff area on Tuesday, April 27th. I did it for the love of the community, honest.
 
-### Self Assessment
+## Review
+
+### Scores
 
 * A: 3
 * B: 3
-* C: 4
+* C: 3
 * D: 3
 * E: 3
 
-## Review
-
 ### Notes
 
-## A: End-of-Module Assessment
-
-*
-
-## B: Individual Work & Projects
-
-*
-
-## C: Group Work & Projects
-
-*
-
-## D: Community Participation
-
-*
-
-## E: Peer & Instructor Feedback
-
-*
+* Really enjoyed working on Portal for GameTime
+* RealTime was difficult because of job hunt distractions
+* Community participation was weak in M3. It was my toughest module. Did better in M4.
 
 ### Outcome
+
+GRADUATED

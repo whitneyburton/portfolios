@@ -1,31 +1,5 @@
 # Steven Pentler - Module 4 Portfolio
 ---
-## Self Evaluation Scores
-##### End-of-Module Assessment
-
-- Turing student is able to demonstrate proficiency at programming in accordance with the module's content and expectations.
-
-    - 3: Excused from assessment
-
-- A Turing student works to maximize their skill growth and demonstrates that skill across a variety of work.
-
-     - 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
-
-- Turing student contributes significantly to group projects, helps the team develop their technical skills, and delivers a high-quality product.
-
-    - 4: Student consistently helps their teammates be their best selves, learn at an accelerated pace, and achieve great results.
-
-- Turing student builds up the community around them by participating and supporting other students, the larger Turing family, and persons outside our walls who want to develop their own skills.
-
-    - 4: Student has a significant positive impact on the learning and spirit of the people around them.
-
-##### Peer & Instructor Feedback
-
-- Turing student accelerates the growth of those around them by delivering specific, kind, and actionable feedback. They accelerate their own growth by taking in and acting on the feedback of their peers and instructors.
-
-    - 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
-
----
 
 ## Projects
 ---
@@ -103,8 +77,33 @@ ___
 
 * Steve-O, the king of laid-backness, also happens to be the innovator of 1510. If you watch the group, you’ll notice that he’s generally the one to pioneer a new skill. More importantly, he is overly-generous with his time and is one of the most approachable characters in 1510. His Reddit and Google skills will serve him well in the future, and I mean that seriously. Finally, have you noticed his style? One particular day he wore boots, short denim? shorts, and a cut neck hoodie. The future is Steve, and I am honored to share a namespace with this fine gentleman. Now let's graduate and get some bolo-ties!
 
-### Review
+___
+
+### Community
+
+* Kept a pretty close watch on Sonia and Patrick from the Resig Posse. Was up on ScreenHero late at night helping Sonia with projects, and helped out Patrick with a number of issues over the module.
+* Organized a student led session on Materialize & Chrome Dev Tools for Mod 2, then have been helping a number of them since.
+* Helped out Brian with his Strava personal project and helped him graph polylines, make AJAX calls, and render google maps
+* Helped Turing hire Brenna!
+* Was a general calming presence for 1510.
+* Participated in DenverRB, BoulderRB, Built in Brews, Jobs Events
+
+## Review
+
+### Scores
+
+* Assessment: 3
+* Individual Work: 3
+* Group Work: 3
+* Community Participation: 3
+* Feedback: 3
 
 ### Notes
 
-# Outcome
+* Had been accused of sandbagging in the past and worked to show more confidence
+* Put in a lot of work hours to assignments and support
+* Good stabilizing force
+
+### Outcome
+
+GRADUATED

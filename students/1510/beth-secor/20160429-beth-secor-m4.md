@@ -99,7 +99,9 @@ Total: __278 points__
 
 ### Giving Feedback
 
-**Greg Armstrong:** "Greg lies! He told me making Portal would be easier than he actually thought it would be. Greg thought, cool I'll give Beth a false sense of security so she crushes this project and I can brag to my friends that I made Portal. Well congratulations Greg, your plan worked. Greg is such a hard working person, and on top of that he's sweet and kind and all around awesome to work with. He pushed us to work on a game that would be challenging because all of the different elements to even make the MVP of Portal. I'm glad he did because I learned so much and our game turned out to be pretty amazing. I hope one day we'll end up working at the same company saving the world and stuff."
+**Greg Armstrong:** "Greg lies! He told me making Portal would be easier than he actually thought it would be. Greg thought, cool I'll give Beth a false sense of security so she crushes this project and I can brag to my friends that I made Portal. Well congratulations Greg, your plan worked. Greg is such a hard working person, and on top of that he's sweet and kind and all around awesome to work with. He pushed us to work on a game that would be challenging because all of the different elements to even make the MVP of Portal. I'm glad he did because I learned so much and our game turned out to be pretty amazing. I hope one day we'll end up working at the same company saving the world and stuff.
+
+Greg is seriously the most ridiculous person ever. He is constantly shouting about bananas and puzzles. He is also very arrogant. He came up to me this morning and forced me to look at his weird modern art, and I had to nod and smile and say, "That's great Greg! You're so talented." Working on Game Time with Greg was awful. He just sat there and didn't listen to any of my suggestions. I couldn't take it anymore, and he brought out the Wheat Queen in me . I took over his brain with my powers and now Greg is a decent and kind guy that everyone loves. Deep down I know he's really an asshole."
 
 **Brant Wellman:** "I could not have gotten through Turing without Brant. He helped me countless times get through my doubts and worries and was so incredibly supportive. I've given him the same damn feedback every module (blah blah blah stop worrying), so here's something new: stop freaking out whenever I run over your foot. Time to get over it and get an ice pack while I laugh maniacally."
 
@@ -111,11 +113,15 @@ Total: __278 points__
 
 ### Being a Community Member
 
-"Working on GameTime with Beth was by far my most favorite project, as well as my most favorite pairing relationship throughout all of Turing. I had to tell a wee little fib at the start of the project relating to my confidence that we could do it well to get her onboard with it, but we did end up doing quite well so I have no remorse. I find Beth's determination and work-ethic to be of the highest quality. She has immense ability to work through tough challenges with a cool head, and is great at communicating her expectations for a project both prior to and during a project. She asked if we could work together on the project in the week prior to kicking it off, and i'm quite thankful that she did so, as I got to work with a truly outstanding developer as a result. I would recommend that she cut back on the threats of shanking though, that can be a bit of a detriment to the working relationship. Just kidding. No, I'm not." - **Greg Armstrong**
+"Working on GameTime with Beth was by far my most favorite project, as well as my most favorite pairing relationship throughout all of Turing. I had to tell a wee little fib at the start of the project relating to my confidence that we could do it well to get her onboard with it, but we did end up doing quite well so I have no remorse. I find Beth's determination and work-ethic to be of the highest quality. She has immense ability to work through tough challenges with a cool head, and is great at communicating her expectations for a project both prior to and during a project. She asked if we could work together on the project in the week prior to kicking it off, and i'm quite thankful that she did so, as I got to work with a truly outstanding developer as a result. I would recommend that she cut back on the threats of shanking though, that can be a bit of a detriment to the working relationship. Just kidding. No, I'm not.
+
+All joking aside, Beth is a vicious individual whose personality borders on psychopathic, with murderous tendencies and no concern for human life. I have never felt fear during my time at Turing other than the times Ive spent pairing with her. I can understand the instructor’s fear as well, do you fail her and risk dying within the next 7 weeks, or pass her and subject the outside world to her wrath? I hope you have more strength than I do when it comes to that decision. She’s both an unstoppable force and an immovable object, a physics-based paradox that can never be solved." - **Greg Armstrong**
 
 "I have so much respect for Beth. She’s an amazing team member, always willing to lend a hand or an ear or part of her incredible brain. Over the last couple of modules she has regularly made herself available to help me when I was stuck on something, or to simply listen and be supportive when I was feeling blue. I can’t wait to see what she accomplishes after Turing!" - **Penney Garrett**
 
 "Stress and worry! That's exactly how I started my feedback to Beth for Module 3. However, I've seen a change this module with how Beth handles these situations. She freaks out (per normal), but quickly brings it under control and uses this stress to drive her forward, learn what she needs to, and build out what she is looking to do. Then she starts yelling at all of us, insulting us, and calling us idiots. And we love it. And we love her. Beth's programming and debugging skills are spot on. I can't even remember the number of times that I have chosen to go to her to help me figure out a problem. Not only do I have confidence that she is going to help me resolve the problem, but I know that she is also going to help me learn about it in the process." - **Brant Wellman**
+
+"Beth is easily one of the smartest people I’ve ever met. During our BoxTrot week I asked her for help and advice on everything and she helped explain to me everything. Her smarts are exemplified by one day she helped me with rebasing and squashing commits. She knew all the command by heart. I wrote a blog about what she taught me and I’m still referencing it this day. Besides that, Beth is a ton of fun and I like to think, a founding member of Catan Club. Although not as good as me probably, lolz, she is just a blast to hang out with, laughs at my jokes and will be super successful in whatever path she decides to take." - **John Slota**
 
 "Beth Beth Beth, her name rhymes with meth. Coincidence? YOU DECIDE!" - **Jordan Lawler**
 
@@ -134,12 +140,16 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 4
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 4
-* **E: Peer & Instructor Feedback**: 4
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
+* Love when Jeff makes up numbers and statistics
+
 ### Outcome
+
+GRADUATED

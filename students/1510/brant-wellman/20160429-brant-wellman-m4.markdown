@@ -158,15 +158,22 @@ ___
 
 ### Notes
 
+* Consistent feedback across modules about confidence
+* Better able to tackle new complexity
+* Breaking the "old guy" trend
 
-### Outcome  
+### Scores
 
 #### "These go to 11..."   
 
 [![These go to 11](http://i.imgur.com/5Kw2yAF.png)](https://www.youtube.com/watch?v=4xgx4k83zzc)
 
-* End of Module Assessment: 11
-* Individual Work and Projects: 11
-* Group Work and Projects: 11
-* Community Participation: 9
-* Peer and Instructor Feedback: 11
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 4
+* Community Participation: 3
+* Peer and Instructor Feedback: 4
+
+### Outcome
+
+GRADUATED
