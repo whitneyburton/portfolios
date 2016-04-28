@@ -23,13 +23,9 @@ Introduction to Linked Lists. Great first project, established a solid foundatio
 Notes: Pretty solid overall. Keep an eye on the counter method; it was a bit hairy
 
 ##### 1. Functional Expectations: 4
-
 ##### 2. Test-Driven Development: 3
-
 ##### 3. Encapsulation / Breaking Logic into Components: 3
-
 ##### 4. Fundamental Ruby & Style: 3
-
 ##### 5. Looping or Recursion: 3
 -----------------------------------------------------------
 #### Enigma 
@@ -48,32 +44,41 @@ Notes:
 * Indentation and general cleanup was needed
 
 ##### 1. Overall Functionality: 4
-
 ##### 2. Fundamental Ruby & Style: 3
-
 ##### 3. Test-Driven Development: 4 
-
 ##### 4. Breaking Logic into Components: 4 
 
 -----------------------------------------------------------------------------------------
-## Team
+## Collaborative Projects
+----------------------------------------------------------------------------------------
 
-### Projects
+### http_yeah_you_know_me
+  
+* [GitHub URL] https://github.com/marcellawigg/http_yeah_you_know_me
 
-(Intro)
+  Http requires one to build a server. Introduction to the purpose of headers, faraday, localhosts, and postman.
 
-#### (Project Name)
+** Assessed by: Juhn 
+##### 1. Overall Functionality: 3
+##### 2. Fundamental Ruby & Style: 4
+##### 3. Test-Driven Development: 2
+##### 4. Breaking Logic into Components:3.5
 
-* [GitHub URL]()
-* [Original Assignment]()
+### headcount 
 
-(description)
+* [GitHub URL] https://github.com/karinamzalez/headcount
+* Assessed By: jhunbug
 
-(evaluation comments)
+Notes: - group shows understanding of project and code looks good. They lost a day due to a waffle problem. Horace and Mike are aware. There are solid attempts to try to move things into single responsibility methods and attempts to write solid test. I believe that if they had another day they would of been better off.
 
-(evaluation scores)
+##### 1. Functional Expectations:2
+##### 2. Test-Driven Development: 3+
+##### 3. Encapsulation / Breaking Logic into Components: 3+ 
+##### 4. Fundamental Ruby & Style: 3
+##### 5. Enumerable & Collections: 4
+##### 6. Code Sanitation: 4
 
-(feedback to me)
+-----------------------------------------------------------------------------------------------
 
 ## Community
 
