@@ -11,7 +11,9 @@
 
 ### End of Module Assessment
 
-Assessed by: Jhun de Andres
+**Assessed by:** Jhun de Andres
+
+**Result:** Pass
 
 #### Feedback
 
@@ -34,10 +36,7 @@ Assessed by: Jhun de Andres
 
 ### Work
 
-I was in the Echo group for 1603. The individual projects I completed were: Mastermind,
-Recommendations, Sorting Suite, and Battleship.
-I completed all of the individual projects with scores of
-a 3 or above.
+I was in the Echo group. The individual projects I completed were: Mastermind, Recommendations, Sorting Suite, and Battleship. I completed all of the individual projects with scores of a 3 or above.
 
 #### Mastermind
 
@@ -139,7 +138,7 @@ A simple **HTTP server** constructed in Ruby. The server can accept GET and POST
 ##### Evaluation Comments: (Jhun)
 * There were a couple of long methods. That's kind of hard to get away from esp with the main file. What I did see is that they moved the logic into other methods within the other classes. I liked that. I stuck to the single-responsiblity rule.
 * I liked the test. Some of the classes were tested indirectly. I game them a 3.5 because of how broken down they where. There is some room for improvement but I feel like they were pretty much there.
-* this goes hand in hand with the FR&S. I liked how this group was holding to keeping things clean and simple. One method does one thing.
+* This goes hand in hand with the FR&S. I liked how this group was holding to keeping things clean and simple. One method does one thing.
 
 ##### Evaluation Scores:
 * Overall Functionality: 4
