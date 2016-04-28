@@ -103,6 +103,17 @@ ___
 
 * Steve-O, the king of laid-backness, also happens to be the innovator of 1510. If you watch the group, you’ll notice that he’s generally the one to pioneer a new skill. More importantly, he is overly-generous with his time and is one of the most approachable characters in 1510. His Reddit and Google skills will serve him well in the future, and I mean that seriously. Finally, have you noticed his style? One particular day he wore boots, short denim? shorts, and a cut neck hoodie. The future is Steve, and I am honored to share a namespace with this fine gentleman. Now let's graduate and get some bolo-ties!
 
+___
+
+### Community
+
+* Kept a pretty close watch on Sonia and Patrick from the Resig Posse. Was up on ScreenHero late at night helping Sonia with projects, and helped out Patrick with a number of issues over the module.
+* Organized a student led session on Materialize & Chrome Dev Tools for Mod 2, then have been helping a number of them since.
+* Helped out Brian with his Strava personal project and helped him graph polylines, make AJAX calls, and render google maps
+* Helped Turing hire Brenna!
+* Was a general calming presence for 1510.
+* Participated in DenverRB, BoulderRB, Built in Brews, Jobs Events
+
 ### Review
 
 ### Notes
