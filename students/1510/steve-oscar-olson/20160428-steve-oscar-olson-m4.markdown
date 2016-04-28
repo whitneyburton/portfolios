@@ -4,16 +4,6 @@
 
 My goal for this module was to both succeed in general in the coursework and get a decent JavaScript foundation, but also to really hit the job hunt hard and have some leads coming out of school. I think I did fairly well at balancing the two things throughout the module. I did well on most of the projects (my last project was kind of an MVP to get the required points), and have a couple job leads that could possibly maybe result in offers this week or next.
 
-
-### End of Module Assessment
-
-NA
-
-
-#### Scores:
-
-NA
-
 ### Attendance
 
 Typical mod 4 spottiness, but at least my absences were due to job interviews. I often chose to work outside of the basement whenever possible.
@@ -74,10 +64,11 @@ Assessed By: Steve
 
 #### Score: 123/200
 
-Project completed basic spec requirements and websocket functionality, but lacked development of the UI. It was basically an MVP project to learn the basics of websockets, and I used the rest of my time in the job hunt, such as breaking down in Loveland and spending all afternoon/evening way up there. 
+Project completed basic spec requirements and websocket functionality, but lacked development of the UI. It was basically an MVP project to learn the basics of websockets, and I used the rest of my time in the job hunt, such as breaking down in Loveland and spending all afternoon/evening way up there.
 
 
 ## Community  
+
 - I paired with students from all modules on their projects   
 - Attended 4 or 5 meetups  
 - Did 1603 headshots  
@@ -98,20 +89,21 @@ From: Steve P - Steve-O, the king of laid-backness, also happens to be the innov
 
 From: Dan - Working with Steve on various issues during our mod 4 projects was a great experience. He’s always willing to sit down and discuss a problem. Steve is easy to work with as a pair by thinking critically about the challenge and gets things done quickly when working solo. Not only can he Rails, he can also JavaScript/React very well.
 
-From: Brenna - I was lucky enough to work with Steve on a the GameTime project that focused on building a client-side game in HTML Canvas. One of the best parts about working with Steve is his ability to exude confidence and control even when facing the inevitable road blocks. He has an amazing sense of humor that made these challenges oddly enjoyable, and I found that we worked at a very similar pace which made overcoming challenges a great learning experience for us both. 
+From: Brenna - I was lucky enough to work with Steve on a the GameTime project that focused on building a client-side game in HTML Canvas. One of the best parts about working with Steve is his ability to exude confidence and control even when facing the inevitable road blocks. He has an amazing sense of humor that made these challenges oddly enjoyable, and I found that we worked at a very similar pace which made overcoming challenges a great learning experience for us both.
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 4 (NA defaults to 4)
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 4
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+* I have no strong feelings on teal
+* CompleteMe in M1 were the most difficult for me
 
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED
