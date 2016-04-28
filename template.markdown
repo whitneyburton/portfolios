@@ -11,15 +11,14 @@
 (Notes & scores from your assessment rubric)
 
 ## Solo Projects
-
+--------------------------------------------
 #### JungleBeats
 
 * [GitHub URL] (https://github.com/karinamzalez/junglebeats)
-* [Original Assignment]()
 
 Introduction to Linked Lists. Great first project, established a solid foundation for understanding how to make objects interact in Ruby. 
 
-Assessed By: Tess
+**Assessed By: Tess
 
 Notes: Pretty solid overall. Keep an eye on the counter method; it was a bit hairy
 
@@ -32,8 +31,31 @@ Notes: Pretty solid overall. Keep an eye on the counter method; it was a bit hai
 ##### 4. Fundamental Ruby & Style: 3
 
 ##### 5. Looping or Recursion: 3
+-----------------------------------------------------------
+#### Enigma 
 
+* [GitHub URL](https://github.com/karinamzalez/enigma)
 
+Great practice for enumerables.  Designed with the WWII Enigma in mind.  Created an encryptor, takes in your message and key to encrypt message, a decryptor, decrypts said message given the key, and a crack method which is able to decrypt given message assuming that it ends in ..end.. . 
+
+** Assessed By: Nate
+
+Notes:
+
+* Talked about some tricks and made a pull request with changes
+* Really great test coverage
+* Good use of enumerables
+* Indentation and general cleanup was needed
+
+##### 1. Overall Functionality: 4
+
+##### 2. Fundamental Ruby & Style: 3
+
+##### 3. Test-Driven Development: 4 
+
+##### 4. Breaking Logic into Components: 4 
+
+-----------------------------------------------------------------------------------------
 ## Team
 
 ### Projects
