@@ -253,4 +253,4 @@ During the last six weeks I have been involved in all of the Friday activities i
 
 ### Outcome
 
-( Leave blanks for reviewers )
+REPEATING
