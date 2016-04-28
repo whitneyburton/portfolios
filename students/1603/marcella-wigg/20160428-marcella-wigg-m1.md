@@ -163,6 +163,7 @@ I came to Turing with limited programming experience (from some independent stud
 
 (description)
 
+**Partner** Karina
 **Assessed by** Jhun
 **Comments** (in evaluation).
 
@@ -185,25 +186,47 @@ I came to Turing with limited programming experience (from some independent stud
 ### 4. Breaking Logic into Components
 
 * 3.5: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
-* For the most part their code had single lined methods and had single responsibility. I feel if they had more time things could of been a little tider but I do like the implementation of the classes.
+* For the most part their code had single lined methods and had single responsibility. I feel if they had more time things could of been a little tidier but I do like the implementation of the classes.
 
-(feedback to me)
+#### Black Thursday
+
+* [GitHub URL](https://github.com/marcellawigg/http_yeah_you_know_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+**Partner** Ilana
+**Assessed by** Mike
+**Comments**
+
+
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+**(For Karina)** Karina inspired me with her resourcefulness and drive as a partner, and I feel fortunate to have worked with her. Early on in the first module, I hesitated in asking other students for help, but Karina not only showed me that asking higher-module students for help is acceptable, she introduced me to students I now feel using as references in the future! The long hours she puts in at Turing show both her drive to succeed in her coding and her strong involvement with the Turing community.
+
+**(For Ilana)** Ilana was a great partner for Black Thursday, with an impressive attention to detail that was vital to making our project a success. Pair programming with her is a pleasure because she communicates well, is flexible with her scheduling, and always manages to critique constructively. Her involvement in the Turing community was also a great asset to our team, as she was able to ask students in other cohorts for some assistance at points at which we were stuck, which is a skill I'm still trying to get comfortable with.
+
+**(For Brian)** On the afternoon before the Black Thursday assignment was due, despite the fact that he had a lot of work on his own project, Brian spent over an hour helping my group try to figure out how we could best find a particular result when one of our methods wasn't passing and we were frustrated. I have seen him help multiple other people under similar circumstances, as well, and I think this says a lot for his high degree of community involvement here. Even when he's facing his own challenges with a project, he tries to help the stuck as much as he can.
 
 ### Being a Community Member
 
-(feedback to me)
+**(From Ilana)** Marcella was an amazing partner. She picked up the logic where I felt that I was slacking. Her solutions are creative and she can tell what errors will happen before they do. Overall, Marcella would make an amazing asset to any company.
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
+* Participated in Hopper Posse
+* Participated in Impostors Lunch
+* In second half of module, became regular fixture here on evenings and weekends to work on projects, and got to know fellow students.
 
 ## Review
+###Self-Assessment
+**End-of-Module Assessment:** 3
+**Individual Work and Projects:** 3 (weak beginning, but clear upward sloping trend)
+**Group Work and Projects:** 3
+**Community Participation:** 3
+**Peer and Instructor Feedback:** 3
+
+Self-Outcome: Conditional promotion, pending revision of second assignment.
 
 ### Notes
 
