@@ -235,4 +235,17 @@ own growth by taking in and acting on the feedback of their peers and instructor
 
 3
 
+Notes:
+
+* excited about rails
+* excited about new posse structure
+* making screencast on rust + ruby
+* like pick & choose vibe of M2
+* group work went well - very different between 3 and 4 person groups
+* would like to see more actionable feedback given to peers
+* liked buddy system for M1 (paired with Beth Secor)
+
+
 OUTCOME:
+
+Pass! :) 
