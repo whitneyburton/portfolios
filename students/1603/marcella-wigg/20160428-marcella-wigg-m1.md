@@ -25,7 +25,7 @@ I came to Turing with limited programming experience (from some independent stud
 
 ### Work
 
-(Intro)
+While I struggled with following through in my early assignments in this module, and it was not until the last couple of weeks of the module that I really feel I have hit my stride, conceptually, I am proud of the progress I made from the first week to the third. The difference between my understanding in the original binary search tree assignment and the trie assignment was vast, and I think central to that was feeling comfortable asking other people for help and spending longer hours at the building itself.
 
 #### Mastermind
 * [GitHub URL](https://github.com/marcellawigg/mastermind)
@@ -67,25 +67,11 @@ I came to Turing with limited programming experience (from some independent stud
 * Get code working first, and then work on refactoring. It looks like you spent more time refactoring working things instead of making new things work
 * Concepts are coming together, but you're missing out on completion
 
-### 1. Functional Expectations
-
-* 1: Application is missing more than one base expectation
-
-### 2. Test-Driven Development
-
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-
-### 3. Encapsulation / Breaking Logic into Components
-
-* 3: Application effectively breaks logical components apart but breaks the principle of SRP
-
-### 4. Fundamental Ruby & Style
-
-* 3:  Application shows strong effort towards organization, content, and refactoring
-
-### 5. Looping *or* Recursion
-
-* 3: Application makes effective use of loop/recursion techniques
+1. Functional Expectations: 1
+2. Test-Driven Development: 3
+3. Encapsulation / Breaking Logic into Components: 3
+4. Fundamental Ruby & Style: 3
+5. Looping *or* Recursion: 3
 
 #### Sorting Suite
 
@@ -99,21 +85,10 @@ I came to Turing with limited programming experience (from some independent stud
 * Testing thorough enough. Tested for each method.
 * Tests need better, more consistent names, as they are not currently consistently clear as to what they are doing.
 
-### Functional Expectations
-
-3: All three sort classes work as expected
-
-### Testing
-
-3: Tests cover functionality and demonstrate some escalation of complexity across the examples.
-
-### Ruby Style
-
-3: Code is a readable and effective implementation of the algorithm. Has fewer than 4 "what on earth is this?" lines of code.
-
-### Organization
-
-4: Version control maintains the codebase
+Functional Expectations: 3
+Testing: 3
+Ruby Style: 3
+Organization: 4
 
 #### Complete Me
 
@@ -130,31 +105,17 @@ I came to Turing with limited programming experience (from some independent stud
 * Use of enumerators decent; usually chose right one, but there were a few places where you could have chosen better.
 * Good breakdown into logical components.
 
-### 1. Functional Expectations
-
-3: Application fulfills all base expectations
-
-### 2. Test-Driven Development
-
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-
-### 3. Encapsulation / Breaking Logic into Components
-
-4: Application is expertly divided into logical components each with a clear, single responsibility
-
-### 4. Fundamental Ruby & Style
-
-3:  Application shows strong effort towards organization, content, and refactoring
-
-### 5. Enumerable & Collections
-
-3: Application demonstrates comfortable use of appropriate Enumerable methods
+1. Functional Expectations: 3
+2. Test-Driven Development: 3
+3. Encapsulation / Breaking Logic into Components: 4
+4. Fundamental Ruby & Style: 3
+5. Enumerable & Collections: 3
 
 ## Team
 
 ### Projects
 
-(Intro)
+Overall, I think both HTTP and Black Thursday have been majorly time consuming, but that has been important for me because working with partners has connected me to the community of Turing in a way I had not been when I had been able to just go home right after class, and thus given me the opportunity to seek more extensive help for issues I have encountered with my code. In the last three weeks of the module, working with other people and collaborating more extensively than I had done previously, I feel that so many things that had been shaky clicked. This experience was really fundamental to being able to code effectively by the end of this module, which is a point I think I have reached. Staying until ten at night really does make a difference, and I didn't understand in the beginning how huge it would be!
 
 #### HTTP, Yeah, You Know Me
 
@@ -169,8 +130,6 @@ I came to Turing with limited programming experience (from some independent stud
 
 ### 1. Overall Functionality
 * 3: Application implements iterations 0 - 4
-
-**Echo/Foxtrot Note:** Requirements listed are for *Foxtrot* pairs -- Echo requirements are shifted by 1 additional iteration -- So a 3 for Echo requires completing Iterations 0-5
 
 ### 2. Fundamental Ruby & Style
 
@@ -196,7 +155,6 @@ I came to Turing with limited programming experience (from some independent stud
 **Partner** Ilana
 **Assessed by** Mike
 **Comments**
-
 
 
 ## Community
