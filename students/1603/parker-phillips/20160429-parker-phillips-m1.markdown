@@ -175,4 +175,4 @@ Peer & Instructor Feedback | 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
