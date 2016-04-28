@@ -53,25 +53,28 @@ Exercise: Serve and Consume API
 
 #### Notes
 
-Assessed by:
+Assessed by: Nate
 
-Exercise:
+Exercise: MTG Deck Builder
+
+* Some funky code organization. Make it more MVC.
+* Good work on getting the AJAX working, but there are some AJAX/jquery/JS knowlege gaps
+* Good use of caching
+* Service could be better organized and broken up
 
 #### Scores
 
-***Feature Completeness:*** **X** - All features are correctly implemented along with two extensions
+***Completion:*** **3** - Developer completed all the user stories and requirements set by the client.
 
-***Views:*** **X** -
+***Organization:*** **3** - Developer used a project management tool to keep their project organized.
 
-***Controllers:*** **X** -
+***Test Driven Development:*** **1** - Project lacks sufficient testing (under 85% coverage).
 
-***Models:*** **X** -
+***Code Quality:*** **2** - Project demonstrates some gaps in code quality and/or application of MVC principles.
 
-***Testing:*** **X** -
+***User Experience:*** **3** - Project exhibits a production-ready user experience.
 
-***Usability:*** **X** -
-
-***Workflow:*** **X** -
+***Performance:*** **4** - Project pages load on average under 300 milliseconds.
 
 # Evaluated Projects
 
@@ -132,13 +135,6 @@ Repository: https://github.com/brennanholtzclaw/rails_engine
 ***API Design:*** **3** -  Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
 
 ***Queries*** **4** - Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality.
-
-#### Pull Request
-
-##### commits
-
-### Read Me
-https://github.com/brennanholtzclaw/mtg_deck_builder
 
 # Community
 
