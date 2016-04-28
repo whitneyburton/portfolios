@@ -122,7 +122,9 @@ Penney and I worked on the same boxtrot dev team for a week. She took on a prett
 
 ### Playing a Part
 
-I continued my participation in the Environment Variables group, helping to launch the schools new recycling program. I also continued to take care of the coffee, delivering it every Sunday. I participated in the Brin posse, which got me back in the habit of doing exercisms regularly, and also unofficially joined the Pahlka posse (I'm hoping to work with Beth on this after Turing). I am not ready for it yet, but I would love once I get my bearings and some real-world experience to help mentor new students.
+I continued my participation in the Environment Variables group, helping to launch the schools new recycling program. I also continued to take care of the coffee, delivering it every Sunday. I participated in the Brin posse, which got me back in the habit of doing exercisms regularly, and also unofficially joined the Pahlka posse. I took on the brunt of organizing the graduation dinner for 1510, with help from Greg. Additionally I have had a couple of prospective students reach out to me via email after finding my contact info on the Turing website, and am in conversation with them, answering all their questions.
+
+I am not ready for it yet, but I would love once I get my bearings and some real-world experience to help mentor new students.
 
 ## Self Assessment
 
