@@ -118,7 +118,7 @@ I brought big cartons of Goldfish to school to share with others on the weekends
  * **A: End-of-Module Assessment**: N/A
  * **B: Individual Work & Projects**: 2
  * **C: Group Work & Projects**: 2
- * **D: Community Participation**: 4
+ * **D: Community Participation**: 3
  * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
@@ -127,4 +127,4 @@ I brought big cartons of Goldfish to school to share with others on the weekends
 
 ### Outcome
 
-( Leave blanks for reviewers )
+REPEATING
