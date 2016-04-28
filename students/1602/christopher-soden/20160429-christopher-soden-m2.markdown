@@ -197,8 +197,11 @@ I attendend the UX meetup at Turing, the CSS class and the LGBT Breakfast.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* continue working on mechanical skills (typing)
+* rush hour team fun to work with
+* for peer feedback: consider finding specific situations and suggest action steps that a person could take
+* would like to write more blogs to solidify ideas
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Chris will figure out if he wants to move on or repeat. 
