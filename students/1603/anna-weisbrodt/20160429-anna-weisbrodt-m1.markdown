@@ -254,8 +254,8 @@ I've spent a lot of time at Turing over the last six weeks. During those early m
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
