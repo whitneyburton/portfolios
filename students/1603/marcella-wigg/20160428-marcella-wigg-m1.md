@@ -197,4 +197,4 @@ Self-Outcome: Promotion (possibly conditionally, but I did have an upward trend)
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
