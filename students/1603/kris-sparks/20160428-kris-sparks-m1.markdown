@@ -2,6 +2,17 @@
 
 ## Individual
 
+##### A: End-of-Module Assessment  
+1: Student earned two or more scores below "3" on the assessment (did not have an assessment).
+##### B: Individual Work & Projects
+2: Student demonstrates some lack of engagement or growth in their individual skill or project outcomes without a clear upward trend.  
+##### C: Group Work & Projects  
+3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.  
+##### D: Community Participation  
+3: Student participates in required activities and does at least one or two above-and-beyond supports of the community.  
+##### E: Peer & Instructor Feedback  
+2: Student gives meaningful impact to peers as well as being aware of themes in the feedback they receive.
+
 ### Areas of Emphasis
 
 I set out to learn the basics of programming, how to approach building a program, TTD and OOP. I set out to understand and improve work flow using terminal, text editor and Git.
@@ -79,7 +90,7 @@ For this project we built a functional web server. We built a program to send an
 
 ### Giving Feedback
 
-The Turing student-community is very supportive, both emotionally and technically.  The support I received from other students was the only reason I made it through the first month.
+The Turing student-community is very supportive, both emotionally and technically.  The support I received from other students is the only reason I made it through the first month.
 
 ### Being a Community Member
 
@@ -89,7 +100,11 @@ The Turing student-community is very supportive, both emotionally and technicall
 
 Since I'm the first person here every morning, I make coffee almost every day. I don't know what could be more important than that.
 
-I have made a concerted effort to be encouraging and supportive of other Mod 1 students. I say something encouraging to at least a few people everyday. And I am always willing to help when I can.
+I have made a concerted effort to be encouraging and supportive of other Module One students. I say something encouraging to at least a few people everyday. And I am always willing to help when I can.
+
+I am an active participant in the Hopper posse. I've never missed a session and help when I can.
+
+I am actively involved in the Impostors Lunch and Productivity Lunch.
 
 ## Review
 
