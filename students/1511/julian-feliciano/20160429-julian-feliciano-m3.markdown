@@ -465,10 +465,16 @@ in the feedback they receive.
 * 1: Student does not consistently participate in or construct meaningful peer
 feedback.
 
-### Notes
+### Instructor Scores
 
-( Leave blanks for reviewers )
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 4
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 4
+
+### Notes
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
