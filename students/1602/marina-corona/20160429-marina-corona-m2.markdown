@@ -210,4 +210,11 @@ Notes
 
 Outcome
 
-( Leave blanks for reviewers )
+* really grew this module
+* came out really strong
+* try to go outside your comfort zone
+* really good at communication and PM
+* 
+
+
+PASS
