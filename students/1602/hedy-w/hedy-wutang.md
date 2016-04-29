@@ -270,3 +270,10 @@ Rails Mini Project - KDrama Idea Box (git@github.com:thePaulista/kdrama-idea-box
 ### Outcome
 
 ( Leave blanks for reviewers )
+
+* Goal was to get rails experience
+* Very good group member
+* Good communication
+* I like that you want to experiment - exploratory nature is good
+
+PASS
