@@ -244,6 +244,18 @@ For Module 4, I want to:
 
 * __3: __ Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
+### Instructor Scores
+
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: J
+* C: Group Work & Projects: 3
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
+
 ### Notes
 
+- To speak about the `J` for individual work, we had a really good conversation about Erinna's ability as a developer, and what her focus is, and how Turing's standard lessons and projects didn't do the best job of letting her grow where she wanted to grow, but she did a great job of growing where she wanted to grow, while still giving a real try at the stuff we asked for that she didn't want to do. The `J` is meaningless, other than to communicate that I didn't want to reduce her experience here to a number.
+
 ### Outcome
+
+PROMOTED
