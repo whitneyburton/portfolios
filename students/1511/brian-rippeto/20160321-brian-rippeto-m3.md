@@ -361,3 +361,17 @@ strategies to improve themselves in response to feedback.
 in the feedback they receive.
 * 1: Student does not consistently participate in or construct meaningful peer
 feedback.
+
+### Instructor Scores
+
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: 4
+* C: Group Work & Projects: 4
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
+
+### Notes
+
+### Outcome
+
+PROMOTED
