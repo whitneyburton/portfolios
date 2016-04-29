@@ -364,6 +364,10 @@ ambitious projects. Don't take on more than you can chew without first having
 a solid game plan on what needs to be done. Keep on being yourself July, and soon
 enough you'll impact peoples lives.
 
+#### David Whitaker
+
+If there was a poster child for the phrase "glass half full" David would be it. From day one to the end of this module he has kept the same even keel attitude that everyday is a great day. As a developer, he embraces all challenges thrown his way and is never afraid to ask questions when in need. His greatest strength is his ability to quickly pick up on a solution with just a little bit of context. I'm always like to leave a bit of constructive feedback, but in the case of David he had handled himself at Turing with aplomb! Keep on keeping on dude!
+
 ### Being a Community Member
 
 #### Kimiko Kano
