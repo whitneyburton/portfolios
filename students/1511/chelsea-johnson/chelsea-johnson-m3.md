@@ -1,4 +1,4 @@
-# Chelsea Johnson - M2 Portfolio
+# Chelsea Johnson - M3 Portfolio
 
 individual assessment, indiv project, rails engine, pivot, bonus
 
@@ -8,7 +8,7 @@ individual assessment, indiv project, rails engine, pivot, bonus
 
 ### Feedback to Group Members
 
-#### Feedback to David Whitacker
+#### Feedback to David Whitaker
 I had a lot of fun working with David on the Pivot. His optimism and enthusiasm made the project much more enjoyable. He was not daunted by implementing new concepts and produced really solid code. And most of all, I enjoyed our Danceadoros! I don't have any constructive feedback really, keep it up Damwhit!
 
 #### Feedback to Erinna Chen
@@ -20,16 +20,19 @@ I love my nerd sister! Not only is she an extremely talented developer, but she 
 
 ### Peer Feedback
 
-#### Alex Navaratte Notes
+#### Erinna Chen Notes
+I would say I did not know Chelsea very well before working with her on the pivot, and working with her was a different experience than I thought it would be. She has great insight into the code she writes and is far more serious than I thought she would be.
+
+I think Chelsea's process in tackling something new is to freak out about the complexity. I think she should trust her abilities more and drive development more with testing because it would allow her to tackle the smaller parts of a problem (and the edge cases) without worrying too much about how large a problem could be.
+
+I'm not sure we really want to re-visit the pivot, but I would love to pair more with Chelsea. There is always excitement and dance parties to look forward to.
+
+#### David Whitaker Notes
+I had a really great experience working with Chelsea on the_pivot.  She is a strong programmer who is able to come up with really cool, creative solutions to problems.  I’d like to challenge her to use more active record and javascript as she seems very comfortable with ruby.  I would love to work with Chelsea again as she is a ton of fun to work with and writes great code.  Also, if theres one thing I know, if she it’s her birthday, IT’S MY BIRTHDAY TOO! Danceadoros for life!
 
 
-#### Nick Weiland Notes
-I
-
-#### Allan Blair Notes
-
-
-#### Adrienne Domingus Notes
+#### Heidi Hoopes Notes
+Chelsea is the perfect ally to have on a project. She architected the mission for the posse that we co-led this module and was always organized, on-time, and engaging. She has both the patience and direction to lead the junior students which the posse attracted, but also the technical chops to do whatever is required. I love seeing her projects because they're always fun, inspired, and technically challenging. This paragraph is shifting in and out of past and present tense because Chelsea is a bonafide developer for all ages. I enjoy being able to work with Chelsea and hope I get more chances in the future!
 
 
 ### Non-Evaluated Projects
@@ -116,7 +119,6 @@ Notes
 - Other ways to organize controllers. REST is a property of the API, not the code
 - You're using active record, but don't fully understand what's going on. Play with the SQL and look at some tables
 - Good test coverage
--
 
 #### Feature Delivery
 
@@ -157,6 +159,57 @@ Notes
 * 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.
 * 1: Project struggles to establish a coherent ActiveRecords schema, including missing relationships or dysfunctional queries.
 
+### Self-Directed Project
+
+Assessor: Josh M.
+
+Notes:
+
+**1. Completion**
+
+* **4: Developer completed all the user stories and requirements set by the client in timely manner.**
+* 3: Developer completed all the user stories and requirements set by the client.
+* 2: Developer completed most of the user stories and requirements set by the client.
+* 1: Developer completed the user stories and requirements partially.
+
+**2. Organization**
+
+* **4: Developer used a project management tool and updated their progress in real-time.**
+* 3: Developer used a project management tool to keep their project organized.
+* 2: Developer used a project management tool but didn't update the progress frequently.
+* 1: Developer failed to use a project management tool to track its progress.
+
+#### Technical Quality
+
+**1. Test-Driven Development**
+
+* **4: Project shows exceptional use of testing at different layers (above 95% coverage).**
+* 3: Project shows adequate testing (90% - 95% coverage).
+* 2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
+* 1: Project lacks sufficient testing (under 85% coverage).
+
+**2. Code Quality**
+
+* 4: Project demonstrates exceptionally well factored code.
+* **3: Project demonstrates solid code quality and MVC principles.**
+* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* 1: Project demonstrates poor factoring and/or understanding of MVC.
+
+#### Product Experience
+
+**1. User Experience**
+
+* 4: Project exhibits a production-ready and polished UX.
+* **3: Project exhibits a production-ready user experience.**
+* 2: Project exhibits some gaps in the UX.
+* 1: Project exhibits inattention to the user experience.
+
+**2. Performance**
+
+* 4: Project pages load on average under 300 milliseconds.
+* **3: Project pages load on average under 400 milliseconds.**
+* 2: Project pages load on average under 500 milliseconds.
+* 1: Project pages load on average over 500 milliseconds.
 
 ### End of Module Assessment
 
@@ -211,7 +264,7 @@ Notes:
 
 ## Community Participation
 
-I have become more active in various Turning groups, including Joan Clarke, imposters lunch, and environmental variables. I am also helping to plan the end-of-module LAN party and have have been a co-leader in the Miyamoto posse.
+I have become more active in various Turning groups, including Joan Clarke, imposters lunch, and environmental variables. I am also helping to plan the end-of-module LAN party and have served as a co-leader in the Miyamoto posse.
 
 ### Self-Review
 
