@@ -121,18 +121,21 @@ __pair: Brian Rippeto__
 
 Our final project for Module One was Black Thursday. It is a paired project in which we are dealing with multiple CSV file containing data from Etsy sellers. We were asked to created relationship between all the files and develop a business analysis layer that answered many questions about what specific thing is doing the best and worst. The project challenged my ability to work in a pair, parse data and deal with an overwhelming amount of code. I am extremely please with the code we have written.
 
-##### __Evaluation(Instructor: TBD )__
-
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation / Breaking Logic into Components:
-* Fundamental Ruby & Style:
-* Enumerable & Collections:
-* Code Sanitation:
+##### __Evaluation(Instructor: Horace )__
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
 
 * __Notes:__
-* TBD
-
+  *  so many tests
+  * completion through I4
+  * great analysis code; could still be improved by pushing more of the
+  graph traversal logic and various query methods into the individual record objects
+  * this would simplify our enumerable problems since we could just call an existing method rather than having to do more calculations within each block
+  * a few small ruby style things here and there -- e.g. multiline blocks with {} vs. do/end etc
+  * boatload of tests; they run quickly; ultimately would have liked to see some means of customizing the data without changing csv files
 
 ### Feedback to Me
 
@@ -142,30 +145,31 @@ I strive to give feedback in the moment with my classmates. Below is some feedba
 ### Being a Community Member
 
     From Nick Weiland
-      “Working with Adam on HTTP YYKM was a really great experience.  His eagerness to share ideas around code improvement and dedication to spending time workshopping these ideas facilitated a  fun and productive pair culture, which led to great results.  Also, his willingness to spend extra time to try out new ideas around implementation led to a lot of opportunities to expand our learning as well as a really cool front-end game interface."
+    “Working with Adam on HTTP YYKM was a really great experience.  His eagerness to share ideas around code improvement and dedication to spending time workshopping these ideas facilitated a  fun and productive pair culture, which led to great results.  Also, his willingness to spend extra time to try out new ideas around implementation led to a lot of opportunities to expand our learning as well as a really cool front-end game interface."   
+
 
     From Erinna Chen
-      "I have paired with Adam on a few small exercises throughout the module. At this point, he seems to be pretty comfortable programming in Ruby. He communicates very clearly and is a friendly person to be around. I expect quality products from him as he gets more experienced."
+    "I have paired with Adam on a few small exercises throughout the module. At this point, he seems to be pretty comfortable programming in Ruby. He communicates very clearly and is a friendly person to be around. I expect quality products from him as he gets more experienced."
 
     From Brian Rippeto
-      “Adam approaches problems with confidence that is contagious. Half the battle in programming is believing you can solve a problem, and with Adam, I never had a doubt we would pull through. His ability to troubleshoot from different angles helped us to always keep momentum on our project. He possesses great ruby style and debugging techniques. Sometimes his strength of tenacity could work against him. Respect the “pomodoro”."
+    “Adam approaches problems with confidence that is contagious. Half the battle in programming is believing you can solve a problem, and with Adam, I never had a doubt we would pull through. His ability to troubleshoot from different angles helped us to always keep momentum on our project. He possesses great ruby style and debugging techniques. Sometimes his strength of tenacity could work against him. Respect the “pomodoro”."
 
     From David Whitaker
-      "Adam quickly grasps new ideas and is great to pair with because we have thorough discussions about different ways to solve a problem.  Even when away we are away from a computer, I think that Adam does a great job at clearly articulating a problem and his thought process on how to solve it.  I really enjoy bouncing ideas back and forth with him and applying those ideas to the problems we’re working on in class."
+    "Adam quickly grasps new ideas and is great to pair with because we have thorough discussions about different ways to solve a problem.  Even when away we are away from a computer, I think that Adam does a great job at clearly articulating a problem and his thought process on how to solve it.  I really enjoy bouncing ideas back and forth with him and applying those ideas to the problems we’re working on in class."
 
 ### Giving Feedback
 
     For Nick Weiland
-      “Working with Nick on HTTP YYKM was a great and rewarding challenge. Nick has an incredible understanding and grasp of programming. Throughout this project his knowledge pushed me to become a better student and programmer. He was able to also drop some html knowledge on me and helped our group add some really cool features to the final submission."
+    “Working with Nick on HTTP YYKM was a great and rewarding challenge. Nick has an incredible understanding and grasp of programming. Throughout this project his knowledge pushed me to become a better student and programmer. He was able to also drop some html knowledge on me and helped our group add some really cool features to the final submission."
 
     For Erinna Chen
-      “Erinna is one of my go to people when it comes to getting help in our module. She is an extremely talented programmer who is always willing to stop what she is doing in order to answer any question. Along with her programming abilities she is also a leader in the classroom and a fun face to see every day."
+    “Erinna is one of my go to people when it comes to getting help in our module. She is an extremely talented programmer who is always willing to stop what she is doing in order to answer any question. Along with her programming abilities she is also a leader in the classroom and a fun face to see every day."
 
     For Brian Rippeto
-      "I have been able to work with Brian over the last 2 weeks on our Black Thursday project and it has been a true pleasure. I have a tendancy to try to fly through things and not practice TDD very well, but Brian has the ability to pull the reigns back and dive in on small increments. It pushes you to write better code as well as give a better understanding of single responsibility in programming. His calm demeanor is a peach at the battle station."
+    "I have been able to work with Brian over the last 2 weeks on our Black Thursday project and it has been a true pleasure. I have a tendancy to try to fly through things and not practice TDD very well, but Brian has the ability to pull the reigns back and dive in on small increments. It pushes you to write better code as well as give a better understanding of single responsibility in programming. His calm demeanor is a peach at the battle station."
 
     For David Whitaker
-      “I had the opportunity to pair with David as we were doing our individual Enigma projects. His grasp of OOP early on was very apparent. We were able to sludge threw figuring out how to encrypt and working on Ruby basics together. David’s ability to comprehend with ease was a comfort throughout the pairing process.”
+    “I had the opportunity to pair with David as we were doing our individual Enigma projects. His grasp of OOP early on was very apparent. We were able to sludge threw figuring out how to encrypt and working on Ruby basics together. David’s ability to comprehend with ease was a comfort throughout the pairing process.”
 
 ### Playing a Part
 

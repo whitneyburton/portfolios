@@ -185,3 +185,18 @@ I've participated in the larger Turing Community in the following ways:
 * Ben Johnson - Continuous communication on OSS project
 * Ben Johnson - Completed: 2/24/2016; Scheduled: 3/16/2016
 * Ross Kaffenberger - Completed: 2/17/2016, 3/2/2016; Scheduled: 3/23/2016
+
+### Notes:
+
+* GO-Lang weekly blog post!
+* Go to more meetups - goal.
+* Great final project
+* Set expectations during project - reset the conversation when you need to. 
+* Thank you for being posse anchor. Build relatioships and have a community. 
+* Great student lead sessions
+* Good portfolio.
+* You take things seriously and contstantly want to do your best work. Clearly you care about your work and that's impressive. 
+* Set boundries and have patients. That will go a long way. 
+* Module 2 didnt hit home - wasn't the favorite. Not his learning style.
+
+

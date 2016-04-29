@@ -6,7 +6,7 @@ a three in each category is the baseline for promotion/graduation.
 ## A: End-of-Module Assessment
 
 A Turing student is able to demonstrate proficiency at programming in accordance
-with the module's content and expectations.
+with the module's content and expectations. If you were exempt from the assessment it's a *3*.
 
 * 4: Student achieved two or more "4s" on the assessment
 * 3: Student achieved a "3" or better on each category of the assessment || excused from assessment

@@ -6,6 +6,32 @@
 
 My module goal is to learn Ruby as my first programming language and discover if this is a career field that I can truly be passionate about. I want to test my problem solving abilities when faced with the unknown and discover if I have what it takes to adapt and overcome in programming as I have in other areas of life. I plan to carry my passion as a design/build carpenter into building software.
 
+### Module 2 Goals
+
+My evaluation notes
+
+Minimum one technical blog post
+
+Weekly mentor sessions
+
+Self-solicited continual and consistent feedback
+
+Posse challenges
+
+Not evaluated projects: Sinatra CRUD, Tool Chest, Mix Master, Rails Mini,
+
+Evaluated Projects: Traffic Spy, Little Shop
+
+Assessments: mid-module, final
+
+__Personal Goals:__
+
+* Front range community involvement once per weeks
+* Find a local mentor
+* Style my git.io site into something I am proud of
+* Find a creative extension to each group project
+
+
 ### End of Module Assessment
 
 Assessor: Jeff Casimir
@@ -229,7 +255,7 @@ Adam approaches problems with confidence that is contagious. Half the battle in 
 ### Playing a Part
 * made a consistent effort to reach out to students from other modules
 * encouraged my posse to meet up in the morning
-* spent half an hour talking with a prospective Turing students
+* spent half an hour talking with a prospective Turing student
 * made coffee 5 times throughout the module when I noticed it was empty
 * attended the Job search/Resume building seminar with Ian Douglas
 * attended optional Improv class on one occasion and hope to continue attending
