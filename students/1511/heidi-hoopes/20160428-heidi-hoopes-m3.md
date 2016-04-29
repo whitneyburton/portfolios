@@ -178,10 +178,18 @@ Heidi provided assistance a number of times when I was stuck on project issues (
 * **D: Community Participation**: 4
 * **E: Peer & Instructor Feedback**: 3
 
+### Instructor Scores
+
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
+
 ### Notes
 
-( Leave blanks for reviewers )
+- Heidi didn't really get the opportunity to work in a group this module, but her general demeanor and her collaboration in community related activities show us that she works in groups well.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
