@@ -133,3 +133,17 @@ I've participated in the larger Turing Community in the following ways:
 * Group Work & Projects: 3
 * Community Participation: 3
 * Peer & Instructor Feedback: 3
+
+### Instructor Scores
+
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 3
+* E: Peer & Instructor Feedback: 3
+
+### Notes
+
+### Outcome
+
+PROMOTED
