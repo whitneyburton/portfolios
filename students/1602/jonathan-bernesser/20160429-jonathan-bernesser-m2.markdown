@@ -147,3 +147,14 @@ Little Shop with Marina Corona and Jeneve Parish
 How to Embed an an Elm app a Rails Project
 
  * [Medium](https://medium.com/@jbern16/embedding-an-elm-app-into-your-rails-project-ac651c1cf58d#.7o28hjf53)
+
+
+* Great at taking on things on your own
+* Really excel at confidence and learning new things
+* Keep working - it's working
+* Work on being a better teammate - work on listening to others opinions
+* Work on giving better feedback
+
+
+PASS
+
