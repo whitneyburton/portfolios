@@ -308,3 +308,13 @@ strategies to improve themselves in response to feedback.
 in the feedback they receive.
 * 1: Student does not consistently participate in or construct meaningful peer
 feedback.
+
+
+
+* Awesome you're working on pairing
+* Would like you to focus on actionable feedback
+* Keep pairing with Mod1
+
+
+PASS
+
