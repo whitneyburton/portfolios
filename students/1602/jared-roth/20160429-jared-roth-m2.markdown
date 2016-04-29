@@ -221,3 +221,12 @@ In the first week of the module I, along with Drew Thompson, led an elective for
 ### Playing a Part
 
 [Blog Post](http://jaredroth.github.io/2016/04/28/Life-is-hard-but-death-is-harder.html)
+
+
+
+* even though you had to leave for a few days - you worked well with the group
+* Posse experience was subpar
+* Find a passion
+
+
+PASS
