@@ -221,3 +221,10 @@ own growth by taking in and acting on the feedback of their peers and instructor
 to shape their own character and behavior.
 
 * **Result:**
+* 
+
+* Try to work on more assertive
+* Let's work on being efficient with our time
+* Rework the way we approach problems
+* Reach out to other students - Lori Culberson - Beth Sabian 
+* Really think about what you want to do
