@@ -218,6 +218,9 @@ following criteria:
 
 * "Josh is like a programming steam train that calmly crushes code at a steady, but nigh unstoppable, pace - and it is a great ride to be on. At the onset of Rush Hour, he verbally mapped out what our approach should be, and we proceeded to follow that plan to the 'T'. At every turn, it felt as though he was prepared with the exact proper response to the project's challenges - and was immensely communicative of his rationale and logic throughout each twist / iteration. Working with him was fantastic and helped me to improve both my logic and understanding of the MVC design pattern" **Matt**
 
+### Blog Post
+
+[Blog Post](https://gist.github.com/jwashke/42b92268ec94c45e410046a8cbbe3044)
 
 ### Playing a Part
 
