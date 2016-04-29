@@ -152,3 +152,11 @@ Additionally:
 * I recently started a weekly hiking group, hoping to help other students get outdoors and see the best parts of Colorado.
 
 [Blog Post](https://kamiboers.wordpress.com/)
+
+
+* Learned a lot in little shop about working with groups
+* Co-led a posse
+* Involved doing exercisms
+* Find something you're really passionate about
+
+PASS
