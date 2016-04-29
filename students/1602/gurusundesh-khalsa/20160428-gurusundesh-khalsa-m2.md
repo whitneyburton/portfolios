@@ -158,8 +158,9 @@ ___________________________________________________________
 
 ### Notes
 
-( Leave blanks for reviewers )
+* One of your greatest strengths is your positivity and optimisim 
+* Great work this module
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
