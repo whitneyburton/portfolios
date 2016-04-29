@@ -275,7 +275,7 @@ While I liked Kay posse, and the old posse structure in general, I do like the s
 * Your coding skills really had an opportunity to shine in this project. You have an excellent ability to find out of the way solutions to difficult problems. As a teammate you are personable, friendly and very easy to get along with. You contributed to a team where everyone was able to be heard and contribute.
 
 #### From Drew
-* This is the 2nd project I’ve worked on with Jon.  It has been a much different and much better experience.  Not that the first was that bad, but we definitely fell into roles more comfortably this time.  It was very easy to communicate with him about the direction of our project and he was eager to take up things that others might not (styling).  He was quick to help with any logic where needed and really took to the different mindset behind styling the site.  I knew he could do the rails logic so it was interesting to see him struggle at times trying to figure out Materialize.  Overall working with Jon was a great experience.
+* This is the 2nd project I’ve worked on with Jon.  It has been a much different and much better experience. Not that the first was that bad, but we definitely fell into roles more comfortably this time.  It was very easy to communicate with him about the direction of our project and he was eager to take up things that others might not (styling). He was quick to help with any logic where needed and really took to the different mindset behind styling the site. I knew he could do the rails logic so it was interesting to see him struggle at times trying to figure out Materialize. Overall working with Jon was a great experience.
 
 #### From Ali
 * Liss-is-more which is the perfect way to describe Jon Liss. He is by far the most knowledgable person that I have met at turing. What makes Liss-is-more is that he is barely in the beginning of his career and yet he is so far ahead of the professionals.  His passion and dedication to learning is amazing. One language isn’t enough for him and the challenge of learning more is what he strives for. Pairing with Jon is fantastic, his mindset is not the typical programmer who only thinks of code, but of the client perspective and consumers perspective. On a personal note Jon is a great guy. He has a good heart and goes out of his way to help others who struggle. His passion for programming not only comes for his love of the industry but from the good that he can do with it. You should ask him what he plans on doing with his knowledge. Turing should be super grateful to have such a great guy like Jonathan Liss. I know he will leave a legacy of good in the world with his code. #LiSs-Is-MoRe!
@@ -342,8 +342,12 @@ A Turing student accelerates the growth of those around them by delivering speci
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Find a passion 
+* Work on some JavaScript
+* Work on giving better feedback to everyone
+* 
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
