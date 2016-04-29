@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-My emphasis this module shifted slightly. I started very excited to play with APIs, give JS a fair shake, and learn new technologies, and then it shifted slightly during the Pivot to being concerned that I could keep up with my classmates due to missing class for so long, and more importantly, that I could feel comfortable with my learning. But before and after, I was aware that this module is made to help us expand our ability to jump into systems and understand how they fit together and it was my goal to enjoy that process.
+Module 3 for me was a chance to learn the technologies to create the cool projects I've been thinking about for awhile, even beyond the start of Turing. Solutions to tech problems are never fixed in stone or prescriptive, and solving that requires a lot of personal study and experimentation. I felt like Mod 3 offered the chance to still participate in obligatory assignments, but in a manner that encourages that personal experimentation.
 
 ### End of Module Assessment
 
@@ -41,7 +41,7 @@ Note: API Curious was a graded project for me. I assisted on The Pivot for about
 * [GitHub URL](https://github.com/hhoopes/api_curious)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
-Project purpose: replicate the functionality of a self-picked API. I chose 23 and Me (a direct-to-consumer genome mapping service). While there was an OAuth gem available, it didn't work quite right for my project, so I wrote my own authentication methods. As a result, some of my feature delivery and testing suffered, though the instructor review (Josh Meija) still gave a 3 on features for creating the OAuth.
+Project purpose: replicate the functionality of a self-picked API. I chose 23 and Me (a direct-to-consumer genome mapping service). While there was an OAuth gem available, it didn't work quite right for my project, so I wrote my own authentication methods. As a result, some of my feature delivery and testing suffered, though the instructor review (Josh Meija) still gave a 3 on features for writing my own OAuth piece.
 
 ##### Feature Delivery
 Completion
@@ -132,7 +132,7 @@ Performance
 
 ### Projects
 
-The only team project this module is The Pivot, and I did not participate long enough to be graded, but before left, was working as my group's team lead.
+The only team project this module is The Pivot, and I did not participate long enough to be graded, but before left, was working as my group's project manager.
 
 ## Community
 
