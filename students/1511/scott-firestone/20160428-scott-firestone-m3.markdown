@@ -114,12 +114,6 @@ With the posse transformation this module, I re-started and co-led the Ritchie P
 
 ## Review
 
-### Notes
-
-* Notes Notes....
-
-### Outcome
-
 ## A: End-of-Module Assessment
 
 A Turing student is able to demonstrate proficiency at programming in accordance
@@ -156,3 +150,19 @@ them by delivering specific, kind, and actionable feedback. They accelerate thei
 own growth by taking in and acting on the feedback of their peers and instructors.
 
 * **Result:** TBD
+
+### Instructor Scores
+
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 4
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
+
+### Notes
+
+- There's a pattern of low testing scores, but you've demonstrated that you have the testing knowledge. Just try to change that behavior. Employers will be upset with you, but they wont be as nice and communicative as us.
+
+### Outcome
+
+PROMOTED
