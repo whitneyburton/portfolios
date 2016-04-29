@@ -174,6 +174,14 @@ I strive to give feedback in the moment with my classmates. Below is some feedba
 * Turing Alma Mater: I wrote the [Turing Alma Mater](https://vimeo.com/158586392) last module ;)
 
 
+### Instructor Scores
+
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: 4
+* C: Group Work & Projects: 4
+* D: Community Participation: 3 
+* E: Peer & Instructor Feedback: 3
+
 ### Notes:
 
 * I feel like I am finally being to understand JS, AJAX & jQuery
@@ -182,3 +190,5 @@ I strive to give feedback in the moment with my classmates. Below is some feedba
 * Being a part of a large open source project was extremely cool
 
 ### Outcome
+
+PROMOTED
