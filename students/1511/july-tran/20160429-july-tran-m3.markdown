@@ -106,6 +106,7 @@ name is passion. Your passion is contagious. Whether it is a passion for softwar
   - Social session
 - Supported posse members academically and emotionally
 - Stepping down as a co-leader next module to make space for lower module students to take leadership roles; will remain in posse as member and counsel
+
 ##### Posse Reflection
 I have gotten a lot of value from co-leading this posse and will write a blog post for turing.io on my posse reflections during intermission. I plan to muse on:
   - Posse draft - generating interest and getting new members
