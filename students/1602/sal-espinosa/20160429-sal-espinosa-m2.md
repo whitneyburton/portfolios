@@ -217,8 +217,8 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* WE LOVE YOU - Raquel
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
