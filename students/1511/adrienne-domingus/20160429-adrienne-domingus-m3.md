@@ -1,7 +1,7 @@
 # Adrienne Domingus - M3 Portfolio
 
 ## Mission and Goals
-My main goal coming into module 3 was to create projects not just that met the spec requirements, but that I was proud of. Additional goals included increasing my ability to immerse myself quickly in existing code bases and contribute to them, and to be able to work effectively with documentation to implement features that weren't taught in classes. 
+My main goal coming into module 3 was to create projects not just that met the spec requirements, but that I was proud of. Additional goals included increasing my ability to immerse myself quickly in existing code bases and contribute to them, and to be able to work effectively with documentation to implement features that weren't taught in classes.
 
 ## Evaluation Notes
 
@@ -120,7 +120,7 @@ Assessed by: Josh Mejia
 ## Posse
 As a member of Brin posse I:
 * Contributed to the posse app, including creating a new API endpoint for exercism.io to make completion data accessible automatically
-* Valuable takeaway: accountability to maintain my Ruby skills, and to experiment with other languages, and to keep looking for a better solution to a problem, instead of just settling for the first thing that works. Also had the opportunity to create a new API endpoint for exercism.io to serve up user completion data to support the posse app, which was a great opportunity to contribute to the open source community, and get the feel for getting oriented in a large, existing code base.
+* Valuable takeaway: accountability to maintain my Ruby skills, and to experiment with other languages, and to keep looking for a better solution to a problem, instead of just settling for the first thing that works. 
 
 ## Attendance
 
