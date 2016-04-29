@@ -219,3 +219,17 @@ Being in the Brin posse I have done probably twice as many exercisms this module
 ## E: Peer & Instructor Feedback
 
 * 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+
+### Instructor Scores
+
+* A: End-of-Module Assessment: 3.5
+* B: Individual Work & Projects: 4
+* C: Group Work & Projects: 3
+* D: Community Participation: 3+
+* E: Peer & Instructor Feedback: 3
+
+### Notes
+
+### Outcome
+
+PROMOTED
