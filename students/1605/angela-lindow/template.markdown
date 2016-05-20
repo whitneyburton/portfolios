@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Angela - M1 Portfolio
 
 ## Individual
 
@@ -14,16 +14,21 @@
 
 (Intro)
 
-#### (Project Name)
+#### Flashcards
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GithHub URL](https://github.com/allindow/projects/tree/master/flashcards)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
-(description)
+Description: In this project, you'll write a flashcard program that is used through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
 
-(evaluation comments)
+* 28 Assertions
+* Use of pause function was sweet!
 
-(evaluation scores)
+* Functional Expectations: 4
+* Test-Driven Development: 4
+* Encapsulation/Breaking Logic into Components: 4
+* Fundamental Ruby & Style: 3
+* Enumberable & Collections: 4
 
 ## Team
 
@@ -75,4 +80,3 @@
 ### Outcome
 
 ( Leave blanks for reviewers )
-
