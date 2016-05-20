@@ -31,6 +31,41 @@
 
 (Intro)
 
+#### (Mastermind)
+
+* [GitHub URL](https://github.com/concach/mastermind.git)
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### (Jungle Beat)
+
+* [GitHub URL](https://github.com/concach/jungle_beat.git)
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### (Sorting Suite)
+
+* [GitHub URL]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
 #### (Project Name)
 
 * [GitHub URL]()
@@ -42,7 +77,27 @@
 
 (evaluation scores)
 
-(feedback to me)
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
 
 ## Community
 
@@ -75,4 +130,3 @@
 ### Outcome
 
 ( Leave blanks for reviewers )
-
