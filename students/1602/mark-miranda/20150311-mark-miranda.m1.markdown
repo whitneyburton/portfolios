@@ -18,9 +18,9 @@ Notes: Comfortably gets up and running with necessary files, writes good, small 
 
 Challenge: Baseline - Pantry, Challenge option: Shopping List
 
-* Ruby Syntax & API -  **3**
-* Completion and Progress - **3**
-* Testing - **4**
+* Ruby Syntax & API: **3**
+* Completion and Progress: **3**
+* Testing: **4**
 * Workflow: **4**
 * Collaboration: **3**
 * Enumerable & Collections: **3**
@@ -28,7 +28,7 @@ Challenge: Baseline - Pantry, Challenge option: Shopping List
 
 ### Mid Module Assessment
 
-* Ruby Syntax & API - **3**
+* Ruby Syntax & API: **3**
 * Ruby Style: **3**
 * Blocks & Enumerations: **3**
 * Testing: **4**
@@ -84,7 +84,7 @@ minimal refactoring for clarity needed.
 
 This was a 2 week paired project paired project that dealt with real world data collection and analysis. I paired with Jeneve Parrish. We were evaluated by Mike with the following results:
 
-Notes:
+Notes: 118 runs, 131 asertions, runs in 40s. 99 percent test coverage, test suite uses partial fixtures. Lower order classes have some extraneous getter methods. In Sales Analyst, some of the methods are overly long, some of the math I'd like to have seen pulled out into another object like a helper class or module or something.
 
 * Functional Expectations: 3
 * Test-Driven Development: 3
@@ -93,7 +93,7 @@ Notes:
 * Enumerable & Collections: 4
 * Code Sanitation: 4
 
-#### Enigma
+#### Hyde
 
 * [GitHub URL](https://github.com/notmarkmiranda/hyde)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/hyde/index.markdown)
@@ -121,7 +121,7 @@ ___
 ### Giving Feedback
 
 
->**To Colin Osbourne:** Mark is extremely knowledgable and has a great logical way of tackling problems. Since most of what we did was him help guiding me through problems, I sadly can't give any feedback of what he can work on. But once again, he was super easy to work with. Communication was great, he great at giving me feedback so that was also helpful.
+>**To Colin Osbourne:** Colin has a great attitude towards learning and acknowledging where he needs more help. He makes a conscious attempt to understand the thought process and that goes into decision making. I think a little bit more focus on breaking problems into smaller pieces to be able to apply tools we've learned about would help understanding how to use them.
 
 >**To Patrick Hardy:** Patrick is great to pair with. He is very collaborative and great at giving and receiving feedback or alternative solutions for problems. He seems dedicated to learning as much as he can and fully immersing himself in his ability to absorb concepts and information.
 
@@ -144,7 +144,7 @@ ___
 
 >**From Claudia Kiesenhofer:**  I very much enjoyed working with Mark on the project Hyde. It was very easy to set our goals and define the working process upfront and stick with it. Mark had a very good grasp on the assignment and was able to communicate clearly what steps he wanted to take when and why. At the same time he was open to all of my ideas for problem solving and working progress. Going into the project I was insecure about my workflow and wanted to work on this. Mark supported me by showing me multiple keyboard shortcuts and being patient me practicing them. We exchanged feedback throughout the project which allowed for a strong sense of mutual support and space for experimentation and creativity. This made the experience very relaxed and joyful. I learned so much on how to tackle a bigger problem, break it into manageable pieces and how to create erb and css files. I would love to work on other projects with Mark. The only thing I would do differently is to take a bit more initiative in writing methods during pairing session and to define and work on pieces independently. Thank you Mark for a great experience of collaborative work.
 
->**From Orion Osbourne (mentor):** I think your workflow and how you use the editor is solid.  I would recommend testing your assumptions more when you encounter a failing test.  I usually do this by throwing in a binding.pry right before where it's failing in the implementation and seeing if I get back what I expect. You're pretty solid overall though
+>**From Orion Osborn (mentor):** I think your workflow and how you use the editor is solid.  I would recommend testing your assumptions more when you encounter a failing test.  I usually do this by throwing in a binding.pry right before where it's failing in the implementation and seeing if I get back what I expect. You're pretty solid overall though
 
 ### Playing a Part
 * I am very active in the Dennis Ritchie Posse. I try to contribute to discussions and the logic of solving challenges despite not having as much code knowledge as the other posse members. It was very challenging at first to show up to a group of students that 1) I didn't know and 2) knew so much more than me and 3) knew I didn't know very much. They were all very welcoming of ideas and helped clarify ideas and concepts that we may not have covered just yet. Here are a list of my posse challenges:
@@ -158,7 +158,7 @@ ___
 * I have weekly screen hero mentor sessions with Travis Yoder and Orion Osbourne. We generally work on refactoring whatever current project I'm working on or work on Exercisms I'm not comfortable with or stuck on.
 
 
-* I attended the 10-year anniversary of the National Association of Asian-American Professionals with the Turing counterpart (Turing Association of Asian-American Programmers). It has given me the opportunity to meet students from other cohorts, alumni and staff and discuss topics that may not affect Turing at large as an Asian-American.
+* I attended the 10-year anniversary of the National Association of Asian-American Professionals with the Turing counterpart (Turing Association of Asian-American Programmers). It has given me the opportunity to meet students from other cohorts, alumni and staff and discuss topics that affect Turing at large as an Asian-American.
 
 * I am active in 1602 as a community member as well. I push to help us grow as a group and encourage each other to do well. I have offered to help other students understand concepts that may be unfamiliar. I have also printed stickers for the cohort to help identify and be proud of us as a group, while finding a way to not exclude students who may be repeating.
 

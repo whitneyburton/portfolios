@@ -60,7 +60,7 @@ Strange behavior with socialLogin hour-by-hour breakdown and os/browser breakdow
 
 ##### Notes
 * When checking out if you go back without paying, cart is empty and no other way to pay for gif. Maybe drop a payment option in the orders page.
-* Some logic is leaking through in the views. Saw a formatted price, and a map for a collection dropdown box. An unnecessary variable in a path helper. Some alignment issues when items are retired. This issue is related to a conditional in the itteration of gifs.
+* Some logic is leaking through in the views. Saw a formatted price, and a map for a collection dropdown box. An unnecessary variable in a path helper. Some alignment issues when items are retired. This issue is related to a conditional in the iteration of gifs.
 * In controllers some room for POROS - but generally skinny and good code. Want to look into orders_controller update for the quantity variable
 
 ### Mid Module Assessment
@@ -145,15 +145,15 @@ I also attended the following:
   - 2 computability theory meetings
   - 1 LGBTuring event
 
+Additionally, I am the anchor for Golick posse and I co-led a student-led elective on crafting a Gear Up.
 ### Notes
 
-* Felt that the soft-skill goal fell a little short. Will continue to work on this. 
+* Felt that the soft-skill goal fell a little short. Will continue to work on this.
 * Great work throughout the module
 * Good blogs - not the biggest fan of technical blog posts - interested in non technical blog posts
-* Feedback is good and specific. 
-* Extra curricular work was very impressive. 
-* Great work this module - keep up the hard work. 
-
+* Feedback is good and specific.
+* Extra curricular work was very impressive.
+* Great work this module - keep up the hard work.
 
 ### Outcome
 
