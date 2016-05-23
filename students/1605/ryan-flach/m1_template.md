@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I came to Turing with a limited-but-functional understanding of some OOP principles and Ruby syntax. I aimed to become more proficient in the command-line and expand the scope of my understanding in both OOP and Ruby, allowing me to write small-scale, complete programs of my own, and to understand code that included principles and code that I don't yet have experience with. I also aimed to use and understand the fundamentals of TDD. Additionally, it was important to me to become involved in the Turing community.
 
 ### End of Module Assessment
 
@@ -67,6 +67,19 @@ _Fundamental Ruby & Style_
 _Looping *or* Recursion_
 * 4: Application makes excellent use of loop/recursion techniques
 
+#### Sorting Suite
+
+* [GitHub URL](https://github.com/ryanflach/sorting_suite)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
+
+_Description:_
+Sorting Suite explored three main computer science sorting algorithms: bubble sort, insertion sort, and merge sort. This version of the project includes a benchmarking extension and both inplace and swapping methods for insertion sort.
+
+_Evaluation Comments:_
+*
+
+_Evaluation Scores:_
+
 
 ## Team
 
@@ -90,16 +103,13 @@ _Looping *or* Recursion_
 ## Community
 
 ### Giving Feedback
-
-(feedback from me)
+* "Raphael has a systematic approach to solving problems that ensures he is capturing the scope of the project and approaching each element thoroughly and with purpose. He breaks things down into smaller, manageable pieces and tests each. This enables him to explain each step well and repurpose methods. It was a pleasure working with him!" - Feedback given to Raphael Barbo
 
 ### Being a Community Member
-
-(feedback to me)
+* "I had the pleasure to pair with Ryan during one of our in-class assignments, and I can certainly say that he is a very diligent   and quick to jump into the problem and come up with creative ways to resolve it. Definitely looking forward to some more pairings in the future." - Raphael Barbo
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
+* Attended the Kids Who Code Showcase
 
 ## Review
 
