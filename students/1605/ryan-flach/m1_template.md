@@ -73,20 +73,23 @@ _Looping *or* Recursion_<br>
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
 **Description:**<br>
-Sorting Suite explored three main computer science sorting algorithms: bubble sort, insertion sort, and merge sort. This version of the project includes a benchmarking extension and both inplace and swapping methods for insertion sort.
+Sorting Suite explored three main computer science sorting algorithms: bubble sort, insertion sort, and merge sort. This version of the project includes a benchmarking extension (use of a module) and both inplace and swapping methods for insertion sort.
 
 **Evaluation Comments:**<br>
-*
+* 47 tests, all passing, RAKEFILE!
+* Benchmarks implemented, and implemented well.
+* some opportunties to refactor for clarity
+* Did modules and benchmarking
 
 **Evaluation Scores:**<br>
 _Functional Expectations_<br>
-
+**4**: All three sort classes work as expected with 2 or more extensions.<br><br>
 _Testing_<br>
-
+**4**: Tests are clearly written with names that accurately describe the behavior. Edge cases such as empty arrays, reversed arrays, etc are also tested.<br><br>
 _Ruby Style_<br>
-
+**4**: Any given chunk of code can be understood at a single level of abstraction<br><br>
 _Organization_<br>
-
+**4**: Version control maintains the codebase
 
 
 ## Team
