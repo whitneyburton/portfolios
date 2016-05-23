@@ -19,10 +19,10 @@ I came to Turing with a limited-but-functional understanding of some OOP princip
 * [GitHub URL](https://github.com/ryanflach/mastermind)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown)
 
-_Description:_
+**Description:**
 Recreation of the classic game Mastermind. A user attempts to guess a randomized secret code of anywhere from 4-8 characters, built from 4-6 colors, depending on difficulty level chosen by the user. Upon successfully guessing the secret code, the user's number of guesses and time taken is printed to the terminal, and the user is invited to play again or quit.
 
-_Evaluation Comments:_
+**Evaluation Comments:**
 * good breakdown of responsibiliies in to disparate clases
 * really liked class methods in Communication class, though would like to have seen more messages printed out to the screen in there for consistency and organization's sake.
 * Some opportunities to refactor for clarity.
@@ -30,7 +30,7 @@ _Evaluation Comments:_
 * Think more about how you can rewrite your methods so that they take arguments and return values rather that modifying an instance variable.
 * Remember that instance variables shouldn't change often.
 
-_Evaluation Scores:_
+**Evaluation Scores:**
 _Funamental Ruby & Style_
 * 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 _Enumerable & Collections_
@@ -45,17 +45,17 @@ _Breaking Logic into Components_
 * [GitHub URL](https://github.com/ryanflach/jungle_beats)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
-_Description:_
+**Description:**
 Jungle Beats explores linked lists via the creation and use of a number of methods that might typically be found on arrays. This version contains a user interface that allows the user to add to and reset their 'beat', as well as change the voice and speed.
 
-_Evaluation Comments:_
+**Evaluation Comments:**
 * 50 tests
 * Look closer at what youre testing, check for ways you can change code that breaks the intent of the program but still allows tests to pass.
 * JB has a REPL
 * Used both recursive and iterative approaches.
 * Try to use some better method names, and you dont have to go all the way refactoring small things, clarity is king.
 
-_Evaluation Scores:_
+**Evaluation Scores:**
 _Functional Expectations_
 * 4: Application fulfills all base expectations and the one extension
 _Test-Driven Development_
@@ -72,13 +72,21 @@ _Looping *or* Recursion_
 * [GitHub URL](https://github.com/ryanflach/sorting_suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
-_Description:_
+**Description:**
 Sorting Suite explored three main computer science sorting algorithms: bubble sort, insertion sort, and merge sort. This version of the project includes a benchmarking extension and both inplace and swapping methods for insertion sort.
 
-_Evaluation Comments:_
+**Evaluation Comments:**
 *
 
-_Evaluation Scores:_
+**Evaluation Scores:**
+_Functional Expectations_
+*
+_Testing_
+*
+_Ruby Style_
+*
+_Organization_
+*
 
 
 ## Team
