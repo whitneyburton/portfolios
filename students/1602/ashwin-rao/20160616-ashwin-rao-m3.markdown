@@ -64,6 +64,13 @@ Overall though, all's well that ends well and this project was my favorite one a
 
 #### Feedback about me
 
+**From Patrick Hardy, Pivot teammate:** "Ashwin: I had a great time working with you. I felt like your organization really pushed the project forward and was key to getting a lot done. With a lot of projects I have spent time unsure of what we were doing as a group or what I was supposed to be doing. But you did a great job keeping us all on track and always focusing on small obtainable goals.
+    You also were able to deliver several key features on your own. A good example is the JQuery functionality, it was obviously a difficult feature but you stuck with it and delivered it when you said you would.
+    You seem very focused on following a TDD approach, which I appreciate. The best advice I can give you is when TDDing remember to drop down to non feature tests during implementation. Controller tests haven't been as much of a focus but using model tests to drive your model methods and poro tests to drive your poro methods is still a good idea.
+    Overall though I had a great time working with you and I think our projects reflects how well we worked together as a group. I would be happy to work with you again."
+	
+**From Josh Washke, Pivot teammate:** "I think the skill that shined through the most in this project was your organization and diligence. You played a key role in keeping track of the group's goals and progress, so that I always felt like I was being very productive whether we were working in a group or independently. This played a big part in allowing us to implement so many "extension" features, and these are what make me especially proud of this project. I hope you we're able to meet your goal of enjoying or not stressing too much about this project. Also, I like that you said you were excited about being pushed by our group coding sessions. I encourage you to seek out side-projects or future teams that will continue to push you. This seems to be the best asset for learning that we have here, and you are a strong programmer so it may take a little extra effort. (which is a good thing!)"
+
 =======================================
 
 ## Community
