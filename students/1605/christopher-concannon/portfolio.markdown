@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-My goal for Module 1 was to successfully complete all the projects and maintain a good work-life balance that I can sustain throughout my tenure at Turing. Going back to school, especially a conceptually difficult technical school with very high commitment expectations, is a huge lifestyle change. I wanted to develop strong relationships with Turing students and learn as much as possible from my peers as well as the instructors. 
+My goal for Module 1 was to successfully complete all the projects and maintain a good work-life balance that I can sustain throughout my tenure at Turing. Going back to school, especially a conceptually difficult technical school with very high commitment expectations, is a huge lifestyle change. I wanted to develop strong relationships with Turing students and learn as much as possible from my peers as well as the instructors.
 
 ### End of Module Assessment
 
@@ -81,19 +81,39 @@ Scores:
 
 #### (Sorting Suite)
 
-* [GitHub URL]((https://github.com/concach/sorting_suite.git))
+* [GitHub URL](https://github.com/concach/sorting_suite.git)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
 (description)
 
-(evaluation comments)
+Assessed By: Mike
 
-(evaluation scores)
+Notes:
+* 30 tests, all passing
+* Did in place insertion sort and selection sort.
+* Clean code, look to use methods to pull out complex conditionals.
 
-#### (Project Name)
+### Functional Expectations
 
-* [GitHub URL]()
-* [Original Assignment]()
+* 4: All three sort classes work as expected with 2 or more extensions.
+
+### Testing
+
+* 4: Tests are clearly written with names that accurately describe the behavior. Edge cases
+such as empty arrays, reversed arrays, etc are also tested.
+
+### Ruby Style
+
+* 4: Any given chunk of code can be understood at a single level of abstraction
+
+### Organization
+
+* 4: Version control maintains the codebase
+
+#### (Battleship)
+
+* [GitHub URL](https://github.com/concach/battleship.git)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
 
 (description)
 
