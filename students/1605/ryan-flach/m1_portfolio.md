@@ -91,6 +91,33 @@ _Ruby Style_<br>
 _Organization_<br>
 **4**: Version control maintains the codebase
 
+#### BATTLESHIP
+
+* [GitHub URL](https://github.com/ryanflach/battleship)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
+
+**Description:**<br>
+Battleship is a recreation of the classic board game. In this version, a human player competes against a computer on a 4x4 board. At the end of the game, the outcome (from the perspective of the winner) is reported with the final time and the number of shots taken. This project's primary challenge was organization of several classes and modules that worked together.
+
+**Evaluation Comments:**<br>
+* quite a solid project
+* especially successful in the testing, which has noticeable implications for the general cleanliness of the code
+* objects are well-structured, fully own their data, and are used effectively in combination with one another
+* biggest code patterns we looked were using various data manipulation techniques to reduce large branching in code
+e.g. using hashes to represent different value choices, using boolean (|| &&) operators to combine multi-pronged true/false statements, and reduce repetitve branches of an if/else into enumerable operations on some kind of collection
+
+**Evaluation Scores:**<br>
+_Fundamental Ruby & Style_<br>
+**3**: Application shows strong effort towards organization, content, and refactoring<br><br>
+_Enumerable & Collections_<br>
+**3**: Application demonstrates comfortable use of several Enumerable techniques<br><br>
+_Test-Driven Development_<br>
+**4**: Application is broken into components which are well tested in both isolation and integration<br><br>
+_REPL Interface_<br>
+**3**: Application's REPL is clear and pleasant to use<br><br>
+_Breaking Logic into Components_<br>
+**4**: Application is expertly divided into logical components such that individual pieces could be reused or replaced without difficulty
+
 
 ## Team
 
