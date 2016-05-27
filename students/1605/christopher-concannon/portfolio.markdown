@@ -117,9 +117,41 @@ such as empty arrays, reversed arrays, etc are also tested.
 
 (description)
 
-(evaluation comments)
+Assessed By: Horace
 
-(evaluation scores)
+Notes:
+
+* Managed the complexities of the problem very effectively to produce a game that works smoothly and reliably
+* Have a couple of "god" classes that are clearly consuming large chunks of the application logic
+* Testing is good at the lower layers of the application tree but falls off significantly at the higher layers
+* Talked about how the program probably needs a firmer boundary between any user input and (especially) the Gameplay
+class
+* If you like this "bottom-up" design approach, an interesting technique could be to focus on pushing the program as far
+along as possible using Testing exclusively, then toward the end add in a think User I/O layer that connects to this code
+* Testing is the biggest thing I'd like to keep seeing more of in the remaining projects; i think this will also help sort out
+some of the "god class" syndrome as well
+
+Scores:
+
+### 1. Fundamental Ruby & Style
+
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+### 2. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of several Enumerable techniques
+
+### 3. Test-Driven Development
+
+* 2: Application makes some use of tests, but the coverage is insufficient
+
+### 4. REPL Interface
+
+* 3: Application's REPL is clear and pleasant to use
+
+### 5. Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart with clear intent and usage
 
 #### (Project Name)
 
@@ -156,6 +188,17 @@ such as empty arrays, reversed arrays, etc are also tested.
 
 (evaluation scores)
 
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
 ## Community
 
 ### Giving Feedback
@@ -168,7 +211,7 @@ such as empty arrays, reversed arrays, etc are also tested.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I organized a group run on Thursday evenings and I participated in the Friday lunch group run. I participated in all Gear Up events and came to most of the Friday morning speaker events.
 
 ## Review
 
