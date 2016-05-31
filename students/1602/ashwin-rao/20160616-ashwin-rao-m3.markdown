@@ -79,6 +79,7 @@ Overall though, all's well that ends well and this project was my favorite one a
 * led Microposse 6, and regularly met with mod 1 students for pairing sessions
 * prework guide for Brendan Dillon
 * Lightning Talk - *Intro to Tech Employment Contracts*, May 20
+* Panelist -  Prospective Student Informational Sessions, May 31
 
 =======================================
 
