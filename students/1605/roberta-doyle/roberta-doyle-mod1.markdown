@@ -43,7 +43,7 @@ Breaking Logic into Components          3
 
 #### Jungle Beat
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/roscalabrin/jungle_beat)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
 (description)
@@ -51,7 +51,7 @@ Breaking Logic into Components          3
 Mike's Notes:
 
 * 24 test
-* Make sure tests are small and dont involve other methods
+* Make sure tests are small and don't involve other methods
 * Generally good code, very well split up.
 * Some methods are longer, and could use better names.
 
@@ -70,12 +70,50 @@ Fundamental Ruby & Style                        3
 Looping or Recursion                            3
 * Application makes effective use of loop/recursion techniques
 
-(evaluation scores)
+#### Battleship
 
-#### (Project Name)
-
-* [GitHub URL]()
+* [GitHub URL](https://github.com/roscalabrin/battleship)
 * [Original Assignment]()
+
+(description)
+
+Horace's Notes:
+
+* Lot of progress and seems like some good learning came out of all of it
+* Game gets through most of the gameplay but has some trouble finishing out the sequence when the player wins
+* A few categories of improvements we might make stand out:
+* Looked at taking sequences of methods that get used in a linear process and isolating them from one another so that i could use JUST step 1 if i wanted to in isolation
+* Talked about focusing on return values of methods and how this improves testability of the project
+* Also keep looking out for opportunities to take a handful of individual but similar values / variables / etc and put them into 1 collection (rather than storing row_a, row_b, etc)
+* Obviously using enumerable methods effectively will be the key to this
+* Several of the objects are still a bit large, especially from the perspective of how many instance variables we are storing -- when we start to see this, need to ask if we can make multiple different objects out of the big one
+
+Functional Ruby & Style          3
+* Application shows strong effort towards organization, content, and refactoring
+
+Enumerable & Collections         2
+* Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+
+Test-Driven Development          2
+* Application makes some use of tests, but the coverage is insufficient
+
+REPL Interface                   2
+* Application's REPL has some inconsistencies or rough edges
+
+Breaking Logic into Components   3
+* Application effectively breaks logical components apart with clear intent and usage
+
+
+## Team
+
+### Projects
+
+(Intro)
+
+#### HTTP, Yeah You Know Me!
+
+* [GitHub URL](https://github.com/ryanflach/httpyykm)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 (description)
 
@@ -83,11 +121,8 @@ Looping or Recursion                            3
 
 (evaluation scores)
 
-## Team
-
-### Projects
-
-(Intro)
+Feedback from Ryan Flach
+Roberta was the perfect teammate. She possesses technical strength to solve most problems, but, more importantly, she is persistent and positive when we encounter a problem that we aren’t immediately able to solve. She doesn’t allow herself to become too entangled on a single issue and acknowledges when it is time to move onto a different approach. She is able to talk through and explain her reasoning, and she shares in all responsibilities to achieve a good working balance and eliminate any ill feelings from one partner doing too much or too little. She would be a strong asset on any team.
 
 #### (Project Name)
 
@@ -101,6 +136,7 @@ Looping or Recursion                            3
 (evaluation scores)
 
 (feedback to me)
+
 
 ## Community
 
@@ -111,6 +147,7 @@ Looping or Recursion                            3
 ### Being a Community Member
 
 (feedback to me)
+
 
 ### Playing a Part
 
