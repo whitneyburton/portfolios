@@ -6,13 +6,13 @@
 
 I came to Turing with a limited-but-functional understanding of some OOP principles and Ruby syntax. I aimed to become more proficient in the command-line and expand the scope of my understanding in both OOP and Ruby, allowing me to write small-scale, complete programs of my own, and to understand code that included principles and code that I don't yet have experience with. I also aimed to use and understand the fundamentals of TDD. Additionally, it was important to me to become involved in the Turing community.
 
+I chose the Echo track.
+
 ### End of Module Assessment
 
 (Notes & scores from your assessment rubric)
 
 ### Work
-
-(Intro)
 
 #### Mastermind
 
@@ -123,31 +123,51 @@ _Breaking Logic into Components_<br>
 
 ### Projects
 
-(Intro)
+#### HTTPYYKM
 
-#### (Project Name)
+* [GitHub URL](https://github.com/ryanflach/httpyykm)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-* [GitHub URL]()
-* [Original Assignment]()
+**Description:**<br>
+HTTP? Yeah, You Know Me (HTTPYYKM) looked under the hood at what takes place during HTTP GET and POST requests. A Ruby server was created that is able to process and respond to requests, including a guessing game for numbers between 0 and 100, the current date and time, and a forced SystemError. The project also explored headers and status codes, including redirects.
 
-(description)
+**Evaluation Comments:**<br>
+* butthole is not a known word. (note: Roberta did not check to see if butthole was a word)
+* 41 assertions
+* Well written tests, some edge cases could use more attention.
+* Some opportunities to refactor for clarity, specifically, conditionals and branches in conditionals
+* Overall, very well organized.
+* Good use of modules, some could be added to, but not too much
 
-(evaluation comments)
+**Evaluation Scores:**<br>
+_Overall Functionality_<br>
+**4**: Application implements all five iterations and at least one extension<br><br>
+_Fundamental Ruby & Style_<br>
+**3**: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.<br><br>
+_Test-Driven Development_<br>
+**3**: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.<br><br>
+_Breaking Logic into Components_<br>
+**4**: Application effectively breaks logical components apart with clear intent and usage
 
-(evaluation scores)
 
-(feedback to me)
+**Feedback to Me:**<br>
+* N/A
+
 
 ## Community
 
 ### Giving Feedback
-* "Raphael has a systematic approach to solving problems that ensures he is capturing the scope of the project and approaching each element thoroughly and with purpose. He breaks things down into smaller, manageable pieces and tests each. This enables him to explain each step well and repurpose methods. It was a pleasure working with him!" - Feedback given to Raphael Barbo
+* "Raphael has a systematic approach to solving problems that ensures he is capturing the scope of the project and approaching each element thoroughly and with purpose. He breaks things down into smaller, manageable pieces and tests each. This enables him to explain each step well and repurpose methods. It was a pleasure working with him!" - Feedback given to Raphael Barbo<br><br>
+* “Roberta was the perfect teammate. She possesses technical strength to solve most problems, but, more importantly, she is persistent and positive when we encounter a problem that we aren’t immediately able to solve. She doesn’t allow herself to become too entangled on a single issue and acknowledges when it is time to move onto a different approach. She is able to talk through and explain her reasoning, and she shares in all responsibilities to achieve a good working balance and eliminate any ill feelings from one partner doing too much or too little. She would be a strong asset on any team." - Feedback given to Roberta Doyle
 
 ### Being a Community Member
-* "I had the pleasure to pair with Ryan during one of our in-class assignments, and I can certainly say that he is a very diligent   and quick to jump into the problem and come up with creative ways to resolve it. Definitely looking forward to some more pairings in the future." - Raphael Barbo
+* "I had the pleasure to pair with Ryan during one of our in-class assignments, and I can certainly say that he is a very diligent   and quick to jump into the problem and come up with creative ways to resolve it. Definitely looking forward to some more pairings in the future." - Raphael Barbo<br><br>
+* "Working with Ryan was a fantastic experience. He's very organized and communicates well. Ryan has a strong knowledge and understanding of ruby, which was extremely valuable for our project. At the same time, he's collaborative and gave enough space for both of us to contribute and play an important role in this project. Ryan is flexible and open to ideas, we were able to discuss different approaches on how to solve the problems/challenges we encounter throughout the project.
+I hope I had another chance to work together with Ryan. I definitely learned a lot from him and appreciate his work style." - Roberta Doyle
 
 ### Playing a Part
 * Attended the Kids Who Code Showcase
+* Paired with visiting potential instructor
 
 ## Review
 
