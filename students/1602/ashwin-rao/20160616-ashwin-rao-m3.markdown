@@ -22,6 +22,46 @@ Category | Score
 
 ### Work
 
+#### Rails Engine
+* [Github](https://github.com/theonlyrao/sales_engine)
+
+This was the hardest project I've done at Turing. I struggled a lot in setting up my environment properly, needing to migrate to a pg database halfway through the project and struggling with the setup of factory girl and database cleaner until the last day of the project.
+
+However, through these struggles I learned some important lessons about the difference between sqlite3 and pg, the importance of not doing work until it becomes necessary to do it, and how important it is to understand the foundation of a project before moving forward.
+
+I also enjoyed setting up the external api. It felt very simple and uncomplicated. I also feel much more comfortable with AR queries than I would have thought possible from such a short project.
+
+**Josh evaluated this project with the following results:**
+
+Category | Score
+--- | ---
+Feature Completion | 3 
+TDD | 4
+Code Quality | 3
+API Design | 4
+Queries | 4
+
+#### API Curious
+* [Github](https://github.com/theonlyrao/cart_playground)
+
+For this project I used an API from a company called Ultracart. They provide shopping carts for ecommerce sites.
+
+The documentation was not particularly clear, and the examples were written in jQuery and AJAX. I had to translate these to Ruby for this product.
+
+My motivation for this project was to learn how this API worked because it is a tool that my ecommerce company uses. I achieved this goal to a great extent.
+
+I attribute the low score in the Completion category to being too ambitious in my initial goals for myself in this project and then failing to tell Nate that I needed to reduce the scope. I attribute the low score in the TDD category to the fact that I was having issues with VCR and didn't do enough to troubleshoot it before quitting. For UX, on the one hand, I thought I had achieved the necessary experience because the user could see a cart that presented itself. On the other hand, perhaps having exactly no css should always merit a failing score.
+
+**Nate evaluated this project with the following results:**
+
+Category | Score
+--- | ---
+Completion | 2
+Organization | 3
+TDD | 1
+Code Quality | 4
+User Experience | 2
+
 #### Pivot
 * [Github](https://github.com/patrickwhardy/the_pivot)
 * [Live URL](http://tinystay.herokuapp.com/)
@@ -79,7 +119,8 @@ Overall though, all's well that ends well and this project was my favorite one a
 * led Microposse 6, and regularly met with mod 1 students for pairing sessions
 * prework guide for Brendan Dillon
 * Lightning Talk - *Intro to Tech Employment Contracts*, May 20
-* Panelist -  Prospective Student Informational Sessions, May 31
+* Panelist on prospective student informational sessions, May 31
+* Gear Up working group member
 
 =======================================
 
