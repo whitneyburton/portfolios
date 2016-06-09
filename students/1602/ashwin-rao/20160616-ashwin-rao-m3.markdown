@@ -20,6 +20,7 @@ Category | Score
 Category | Score
 --- | ---
 
+
 ### Work
 
 #### Rails Engine
@@ -121,6 +122,7 @@ Overall though, all's well that ends well and this project was my favorite one a
 * Lightning Talk - *Intro to Tech Employment Contracts*, May 20
 * Panelist on prospective student informational sessions, May 31
 * Gear Up working group member
+* Student-Led Elective organizer - *Intro to Clojure*, June 10
 
 =======================================
 
