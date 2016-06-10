@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-I came to Turing with a limited-but-functional understanding of some OOP principles and Ruby syntax. I aimed to become more proficient in the command-line and expand the scope of my understanding in both OOP and Ruby, allowing me to write small-scale, complete programs of my own, and to understand code that included principles and code that I don't yet have experience with. I also aimed to use and understand the fundamentals of TDD. Additionally, it was important to me to become involved in the Turing community.
+I came to Turing with a limited-but-semi-functional understanding of some OOP principles and Ruby syntax. I aimed to become more proficient in the command-line and expand the scope of my understanding in both OOP and Ruby, allowing me to write small-scale, complete programs of my own, and to understand code that included principles and code that I don't yet have experience with. I also aimed to use and understand the fundamentals of TDD. Additionally, it was important to me to become involved in the Turing community.
 
 I chose the Echo track.
 
@@ -152,6 +152,34 @@ _Breaking Logic into Components_<br>
 
 **Feedback to Me:**<br>
 * N/A
+
+#### HeadCount
+
+* [GitHub URL](https://github.com/ryanflach/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+**Description:**<br>
+
+
+**Evaluation Comments:**<br>
+*
+
+**Evaluation Scores:**<br>
+_Functional Expectations_<br>
+
+_Test-Drive Development_<br>
+
+_Encapsulation / Breaking Logic into Components_<br>
+
+_Fundamental Ruby & Style_<br>
+
+_Enumerable & Collections_<br>
+
+_Code Sanitation_<br>
+
+
+**Feedback to Me:**<br>
+*
 
 
 ## Community
