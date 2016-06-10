@@ -1,5 +1,5 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
-Patrick Wentz M1
+# (Patrick Wentz) - (M1) Portfolio
+
 ## Individual
 
 ## Mission Statement
@@ -15,6 +15,56 @@ and mythical creatures, and the idea of classes and objects didn't quite click a
 However I was able to really put in extra time over the first weekend, which allowed me to feel
 confident and prepared for our first project.
 
+### MidModule assessment(Scrabble)
+
+Assessed By: Rachel
+
+Challenge: #5
+
+Notes:
+
+* remember to write test completely before implementing
+* comfortable using reduce with starting value
+* solid grasp of Ruby syntax
+* get in habit of writing and running tests frequently!!
+
+1. Ruby Syntax & API
+
+    * 3.5
+
+    4: Developer is able to comfortably implement solutions using the best-choice tools Ruby has to offer
+
+    3: Developer is able to comfortably implement solutions in Ruby
+
+
+2. Ruby Style
+
+    4: Developer solves problems with a balance between conciseness and clarity
+
+
+3. Blocks & Enumerations
+
+    4: Developer is able to consistently select and implement the best-choice enumerator methods with blocks
+
+
+4. Testing
+
+    2: Developer uses tests to guide development, but does not break features down into small problems
+
+
+5. Workflow
+
+    * 3.5
+
+    4: Developer is a master of their tools, efficiently moving between phases of development
+
+    3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+
+6. Collaboration
+
+    3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
 ### End of Module Assessment
 
 (Notes & scores from your assessment rubric)
@@ -25,7 +75,7 @@ confident and prepared for our first project.
 
 #### (Flashcards)
 
-* [GitHub URL](https://github.com/riskybiscuit/flashcards)
+* [GitHub URL](https://github.com/pwentz/flashcards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
 (description)
@@ -65,7 +115,39 @@ Assessed by: Horace
   4: Application consistently makes use of the best-choice Enumerable methods
 
 
-## Team
+### (HTTP, Yeah You Know Me)
+### Team: Jason Hanna
+Assessed By: Rachel
+
+Repo: https://github.com/Automatic365/http
+
+Notes:
+
+* all functionality for iterations 0-4 complete with no bugs
+
+
+### 1. Overall Functionality
+
+* 3: Application implements iterations 0 - 4
+
+**Echo/Foxtrot Note:** Requirements listed are for *Foxtrot* pairs -- Echo requirements are shifted by 1 additional iteration -- So a 3 for Echo requires completing Iterations 0-5
+
+### 2. Fundamental Ruby & Style
+
+* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+### 3. Test-Driven Development
+
+* 4: Application is broken into components which are well tested in both isolation and integration
+
+### 4. Breaking Logic into Components
+
+* 3.5
+
+* 4: Application effectively breaks logical components apart with clear intent and usage
+* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+
 
 ### Projects
 
