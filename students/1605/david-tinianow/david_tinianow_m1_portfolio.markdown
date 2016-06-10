@@ -5,7 +5,7 @@
 ### Areas of Emphasis
 
 (What did you set out to accomplish this module?)
-My goal for Module 1 has been to learn as much as possible and fully immerse myself in Turing and coding.  I had a small amount of programming experience before Turing, and I wanted to see whether coding full-time was something I truly enjoy.  I wanted to push myself to try something challenging and find ways to excel in a challenging environment. I also wanted to establish relationships within the Turing community.  Finally, I wanted to find ways to succeed while also maintaining a healthy lifestyle and consistent routine of good habits.
+My goal for Module 1 has been to learn as much as possible and fully immerse myself in Turing and coding.  I had a small amount of programming experience before Turing, and I wanted to see whether coding full-time was something I truly enjoy.  I wanted to push myself to try something challenging and find ways to excel in a challenging environment. I also wanted to establish relationships within the Turing community.  Finally, I wanted to find ways to succeed while maintaining a healthy lifestyle and establishing a consistent routine.
 
 ### End of Module Assessment
 
