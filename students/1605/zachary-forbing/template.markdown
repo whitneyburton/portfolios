@@ -1,10 +1,11 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Zack Forbing - (M1/M2/M3/M4) Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Before I got to Turing, I set out to "learn how to learn." I've tried learning languages on my own in the past - small amounts of javascript, html & css - but I wasn't able to really speak the language, let alone write poetry with it. that was how I described the learning process in the midst of the module, as learning a second language, and simultaneously having my ability to write poetry in it be scrutinized.
+After getting here, however, I realized I needed to learn less generalized practices. TDD, DRY, TRUE, SRP have all been driving factors in my projects, even if I didn't end up having enough time to implement them fully. These principles continue to drive my coding behavior, and learning the way I have at Turing, that's not going to change anytime soon.
 
 ### End of Module Assessment
 
@@ -75,4 +76,3 @@
 ### Outcome
 
 ( Leave blanks for reviewers )
-
