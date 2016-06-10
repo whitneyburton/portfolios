@@ -24,8 +24,11 @@ portfolio should be written/submitted
 * Individual Assessment: Passing Score (All 3's) required
 * Required Project: Final Project (Headcount / Black Thursday) -- Passing Score (All 3's) required
 * Included Projects: All individual and paired projects
-* Instructor Pairing Feedback: At least 1 session from during the module
 * Feedback: Self-Solicited and from Feedback App
+
+** To Repeat the Module **
+
+A passing Chisel project completed during the final 2 weeks of the module **OR** Satisfactory progress on the Headcount / Black Thursday final project.
 
 __Soft Skills / Protocol Requirements__
 
