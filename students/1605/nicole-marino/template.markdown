@@ -167,6 +167,7 @@ when initializing an object, don't have any other side effects; use a method for
 ###Scores:
 
 Overall Functionality
+
 3: Application implements iterations 0 - 4
 Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirements are shifted by 1 additional iteration -- So a 3 for Echo requires completing Iterations 0-5
 
@@ -195,10 +196,11 @@ Breaking Logic into Components
 (feedback to me)
 
 ### Playing a Part
--Cleaned Every Friday
--Always tried to pick up dishes and other miscalleneos things around turing to upkeep the general cleanliness of Turing.
--Always tried to help my fellow students when possible.
--Contributed insightful points during gear up to move the coversation along. 
+**Cleaned Every Friday
+**Always tried to pick up dishes and other miscalleneos things around turing to upkeep the general cleanliness of Turing.
+**Always tried to help my fellow students when possible.
+**Contributed insightful points during gear up to move the coversation along.
+
 ## Review
 
 ### Rubric Scores
