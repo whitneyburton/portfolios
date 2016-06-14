@@ -154,11 +154,10 @@ Breaking Logic into Components
 3: Application effectively breaks logical components apart with clear intent and usage
 
 ---------------
-
 ##HTTP-YYKM
 
-* [GitHub URL]: https://github.com/NicoleKMarino/HTTP-YYKM
-* [Original Assignment]()
+[GitHub URL]: https://github.com/NicoleKMarino/HTTP-YYKM
+[Original Assignment]()
 Notes:
 diagnostic data works
 /hello increments counter -- make sure only for this path
