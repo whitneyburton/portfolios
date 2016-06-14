@@ -133,19 +133,23 @@ Description: Battleship gameplay.
 
 ###Scores:
 
-1. Fundamental Ruby & Style
+Fundamental Ruby & Style
 
 2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-2. Enumerable & Collections
+
+Enumerable & Collections
 
 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-3. Test-Driven Development
+
+Test-Driven Development
 
 1: Application does not demonstrate strong use of TDD
-4. REPL Interface
+
+REPL Interface
 
 3: Application's REPL is clear and pleasant to use
-5. Breaking Logic into Components
+
+Breaking Logic into Components
 
 3: Application effectively breaks logical components apart with clear intent and usage
 
