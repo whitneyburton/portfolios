@@ -55,7 +55,7 @@ Breaking Logic into Components
 ## JungleBeats:
 
 Repo: https://github.com/NicoleKMarino/JungleBeats
-Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
+Origin Assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
 Description: Linked Lists 
 
 
@@ -97,7 +97,9 @@ Looping or Recursion
 ## SortingSuite
 
 Repo: https://github.com/NicoleKMarino/SortingSuite
-Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
+
+Origin Assignment:https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown
+
 Description: Sorting Algorithms 
 
 Notes:
@@ -119,7 +121,6 @@ Ruby Style
 
 3: Code is a readable and effective implementation of the algorithm. Has fewer than 4 "what on earth is this?" lines of code.
 
-
 Organization
 
 3: Each sorter class has it's own file in the proper directory and it's own test in the test directory
@@ -129,9 +130,11 @@ Organization
 
 Repo: https://github.com/NicoleKMarino/Battleship
 
-Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
+Origin assignment:https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown
 
 Description: Battleship gameplay. 
+
+
 
 ###Scores:
 
@@ -158,8 +161,12 @@ Breaking Logic into Components
 ---------------
 ##HTTP-YYKM
 
-[GitHub URL]: https://github.com/NicoleKMarino/HTTP-YYKM
-[Original Assignment]()
+GitHub URL: https://github.com/NicoleKMarino/HTTP-YYKM
+
+Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown
+
+Description: HTTP requests & Web Server 
+
 Notes:
 diagnostic data works
 /hello increments counter -- make sure only for this path
