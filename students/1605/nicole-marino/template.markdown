@@ -4,15 +4,16 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goal was to get a deep understanding of Ruby and the algorithmic process. I hoped to change the way my mind worked so I would become more of a problem solver. I wanted to be able to take on projects that I viewed were above my level of understanding and complete them. 
+
 
 ### End of Module Assessment
 
 (Notes & scores from your assessment rubric)
 
+
+
 ### Work
-
-
 
 (Intro)
 
@@ -181,6 +182,7 @@ Test-Driven Development
 Breaking Logic into Components
 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
+--------------
 
 ## Community
 
@@ -193,9 +195,10 @@ Breaking Logic into Components
 (feedback to me)
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
-
+-Cleaned Every Friday
+-Always tried to pick up dishes and other miscalleneos things around turing to upkeep the general cleanliness of Turing.
+-Always tried to help my fellow students when possible.
+-Contributed insightful points during gear up to move the coversation along. 
 ## Review
 
 ### Rubric Scores
