@@ -8,13 +8,50 @@ My goal for Module 1 was to successfully complete all the projects and maintain 
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Horace
+
+Challenge: Shopping List
+
+Notes:
+
+* Very comfortable over all; biggest thing is we are doing well at quickly digesting the shape of the problem and
+seeing how to turn that into an implementation
+* Comfortable writing tests, defining new classes, methods, working with internal state, and manipulating
+collections with enumerables
+* Very competent and able to deliver results quickly and effectively; handful of smaller style things here and there
+that we can continue to polish
+
+Scores:
+
+#### 1. Ruby Syntax & API
+
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
+
+#### 2. Completion and Progress
+
+* 4: Developer fully completes baseline assignment and one of the Challenge options.
+
+#### 3. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+#### 4. Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### 5. Collaboration
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+#### 6. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
 #### Projects
 
-(Intro)
+I completed all projects assigned to the Echo group, as well as the two paired projects in the last three weeks of the module. I received only two marks below satisfactory levels (scores of "2.5" and "2"), on Mastermind and Battleship. I corrected my deficiencies on projects that followed. I received many 4's, including a score of all 4's on the Sorting Suite project.
 
 #### (Mastermind)
 
@@ -153,45 +190,45 @@ Scores:
 
 * 3: Application effectively breaks logical components apart with clear intent and usage
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 ### Team Projects
 
-#### (Project Name)
+#### HTTP: Yeah You Know Me
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/NicoleKMarino/HTTP-YYKM)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 (description)
 
-(evaluation comments)
+Assessed By: Rachel
 
-(evaluation scores)
+Notes:
 
-#### (Project Name)
+diagnostic data works
+/hello increments counter -- make sure only for this path
+datetime and shutdown both work
+iter 3 word search works
+I4 & I5 working
+when initializing an object, don't have any other side effects; use a method for that
+1. Overall Functionality
+
+3: Application implements iterations 0 - 4
+Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirements are shifted by 1 additional iteration -- So a 3 for Echo requires completing Iterations 0-5
+
+2. Fundamental Ruby & Style
+
+3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+3. Test-Driven Development
+
+3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
+4. Breaking Logic into Components
+
+3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+#### Headcount
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 (description)
 
@@ -203,7 +240,7 @@ Scores:
 
 ### Giving Feedback
 
-(feedback from me)
+I actively participated in all group retros and I gave constructive feedback to my peers after pairing exercises and group projects.
 
 ### Being a Community Member
 
@@ -211,17 +248,31 @@ Scores:
 
 ### Playing a Part
 
-I organized a group run on Thursday evenings and I participated in the Friday lunch group run. I participated in all Gear Up events and came to most of the Friday morning speaker events.
+I organized a group run on Thursday evenings and I participated in the Friday lunch group run. I spent at least 1-2 hours, sometimes more, at Turing after class nearly every day. Sometimes during this time I would work entirely with my peers on items with which they were struggling, and sometimes I would receive help myself. I participated in all Gear Up events and came to all of the Friday morning guest speaker events.
 
 ## Review
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3
+
+Received five 3's and one 4.
+
+* **B: Individual Work & Projects**: 4
+
+Received a total of seven 4's, including all 4's on Mastermind. My deficiencies of 2.5 on "Breaking Logic into Components" for Mastermind, as well as 2 on "Testing" for Battleship have been addressed through focus in those areas on projects that followed.
+
+* **C: Group Work & Projects**: 3
+
+I was a dependable group member for paired projects and I collaborated successfully to meet the project requirements on time, without conflict or need for confrontation from my partners. I believe I am a good project partner because I communicate directly and as often as needed, I have a very critical eye and excellent project planning skills, and I am technically very capable.
+
+* **D: Community Participation**: 3
+
+I believe as a mod 1 student, I fulfilled every expectation of a new member to the Turing community. I helped many of my classmates in-person and on Slack, I voluntarily signed up to pair with mod 2 students on many occasions, I participated in lunchtime fitness activities, and I actively participated in all events of community Fridays. I stay at Turing until 5:30-6pm or later almost daily. I also organize a weekly track workout after school, which has seen interest and participation from other community members.
+
+* **E: Peer & Instructor Feedback**: 4
+
+I am scoring myself a 4 in this category because I try to help my classmates as much as possible and I absolutely never propagate negative energy to the Turing community. I take personal feedback seriously and I am sensitive, yet direct, with others when giving feedback. I actively engage other Turing students to help them when I can, or to help myself as often as needed. 
 
 ### Notes
 
