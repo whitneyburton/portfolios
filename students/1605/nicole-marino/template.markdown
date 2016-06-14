@@ -196,10 +196,10 @@ Breaking Logic into Components
 (feedback to me)
 
 ### Playing a Part
-**Cleaned Every Friday
-**Always tried to pick up dishes and other miscalleneos things around turing to upkeep the general cleanliness of Turing.
-**Always tried to help my fellow students when possible.
-**Contributed insightful points during gear up to move the coversation along.
+* Cleaned Every Friday
+* Always tried to pick up dishes and other miscalleneos things around turing to upkeep the general cleanliness of Turing.
+* Always tried to help my fellow students when possible.
+* Contributed insightful points during gear up to move the coversation along.
 
 ## Review
 
