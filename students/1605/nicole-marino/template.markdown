@@ -24,13 +24,14 @@
 ---------------
 
 ## Mastermind:
+
 Repo: https://github.com/NicoleKMarino/Mastermind
 Original Assignment:https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown
 Description: Create a working mastermind game. 
 
 No comments
 
-Scores: 
+#Scores: 
 
 Fundamental Ruby & Style
 
@@ -51,6 +52,7 @@ Breaking Logic into Components
 ---------------
 
 ## JungleBeats:
+
 Repo: https://github.com/NicoleKMarino/JungleBeats
 Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
 Description: Linked Lists 
@@ -67,7 +69,7 @@ Remember that you can get all of your getter methods for free with attr_reader
 Lean more on your debugging tools instead of puts driven development.
 good way to develop good style - check out http://houndci.com or rubocop
 
-Scores:
+#Scores:
 
 Functional Expectations
 
@@ -92,6 +94,7 @@ Looping or Recursion
 ---------------
 
 ## SortingSuite
+
 Repo: https://github.com/NicoleKMarino/SortingSuite
 Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
 Description: Sorting Algorithms 
@@ -100,6 +103,8 @@ Notes:
 Had to fix path to get tests to run.
 9 tests, all passing
 did in place insertion in lieu of insertion
+
+#Scores:
 
 Functional Expectations
 
@@ -125,6 +130,7 @@ Repo: https://github.com/NicoleKMarino/Battleship
 Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
 Description: Battleship gameplay. 
 
+#Scores:
 
 1. Fundamental Ruby & Style
 
@@ -148,9 +154,7 @@ Description: Battleship gameplay.
 
 * [GitHub URL]: https://github.com/NicoleKMarino/HTTP-YYKM
 * [Original Assignment]()
-
-[description]
-
+Notes:
 diagnostic data works
 /hello increments counter -- make sure only for this path
 datetime and shutdown both work
