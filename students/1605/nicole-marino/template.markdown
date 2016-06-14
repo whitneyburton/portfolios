@@ -128,7 +128,9 @@ Organization
 ## Battleship
 
 Repo: https://github.com/NicoleKMarino/Battleship
+
 Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
+
 Description: Battleship gameplay. 
 
 ###Scores:
