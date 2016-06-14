@@ -61,8 +61,7 @@ __Soft Skills / Protocol Requirements__
 ### Module 4
 
 * Individual Assessment: Only if needed
-* Required Project: GameTime
-* Included Projects: RealTime, ScaleUp
+* Required Project: GameTime, ScaleUp
   * Should include points breakdown per project
 * Feedback: Self-Solicited
 
