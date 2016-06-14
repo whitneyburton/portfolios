@@ -34,7 +34,7 @@ No comments
 
 ###Scores: 
 
-Fundamental Ruby & Style
+'''Fundamental Ruby & Style'''
 
 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
