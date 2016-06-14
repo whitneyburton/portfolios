@@ -12,39 +12,18 @@
 
 ### Work
 
+
+
 (Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 ## Team
 
 ### Projects
 
-(Intro)
 
-#### (Project Name)
+---------------
 
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
-#### Mastermind:
+## Mastermind:
 Repo: https://github.com/NicoleKMarino/Mastermind
 Original Assignment:https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown
 Description: Create a working mastermind game. 
@@ -69,9 +48,10 @@ Breaking Logic into Components
 
 3: Application consistently breaks concepts into logical methods to encapsulate functionality.
 
+---------------
 
-#### JungleBeats:
-repo: https://github.com/NicoleKMarino/JungleBeats
+## JungleBeats:
+Repo: https://github.com/NicoleKMarino/JungleBeats
 Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
 Description: Linked Lists 
 
@@ -109,7 +89,93 @@ Looping or Recursion
 
 3: Application makes effective use of loop/recursion techniques
 
+---------------
 
+## SortingSuite
+Repo: https://github.com/NicoleKMarino/SortingSuite
+Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
+Description: Sorting Algorithms 
+
+Notes:
+Had to fix path to get tests to run.
+9 tests, all passing
+did in place insertion in lieu of insertion
+
+Functional Expectations
+
+3: All three sort classes work as expected
+
+Testing
+
+4: Tests are clearly written with names that accurately describe the behavior. Edge cases such as empty arrays, reversed arrays, etc are also tested.
+
+Ruby Style
+
+3: Code is a readable and effective implementation of the algorithm. Has fewer than 4 "what on earth is this?" lines of code.
+
+
+Organization
+
+3: Each sorter class has it's own file in the proper directory and it's own test in the test directory
+
+---------------
+## Battleship
+
+Repo: https://github.com/NicoleKMarino/Battleship
+Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
+Description: Battleship gameplay. 
+
+
+1. Fundamental Ruby & Style
+
+2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+2. Enumerable & Collections
+
+2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+3. Test-Driven Development
+
+1: Application does not demonstrate strong use of TDD
+4. REPL Interface
+
+3: Application's REPL is clear and pleasant to use
+5. Breaking Logic into Components
+
+3: Application effectively breaks logical components apart with clear intent and usage
+
+---------------
+
+## HTTP-YYKM
+
+* [GitHub URL]: https://github.com/NicoleKMarino/HTTP-YYKM
+* [Original Assignment]()
+
+[description]
+
+diagnostic data works
+/hello increments counter -- make sure only for this path
+datetime and shutdown both work
+iter 3 word search works
+I4 & I5 working
+when initializing an object, don't have any other side effects; use a method for that
+
+
+#Scores:
+
+Overall Functionality
+3: Application implements iterations 0 - 4
+Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirements are shifted by 1 additional iteration -- So a 3 for Echo requires completing Iterations 0-5
+
+
+Fundamental Ruby & Style
+3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+
+Test-Driven Development
+3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
+
+
+Breaking Logic into Components
+3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
 ## Community
