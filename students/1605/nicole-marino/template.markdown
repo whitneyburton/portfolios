@@ -31,7 +31,7 @@ Description: Create a working mastermind game.
 
 No comments
 
-#Scores: 
+###Scores: 
 
 Fundamental Ruby & Style
 
@@ -69,7 +69,7 @@ Remember that you can get all of your getter methods for free with attr_reader
 Lean more on your debugging tools instead of puts driven development.
 good way to develop good style - check out http://houndci.com or rubocop
 
-#Scores:
+###Scores:
 
 Functional Expectations
 
@@ -104,7 +104,7 @@ Had to fix path to get tests to run.
 9 tests, all passing
 did in place insertion in lieu of insertion
 
-#Scores:
+###Scores:
 
 Functional Expectations
 
@@ -130,7 +130,7 @@ Repo: https://github.com/NicoleKMarino/Battleship
 Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/jungle_beat
 Description: Battleship gameplay. 
 
-#Scores:
+###Scores:
 
 1. Fundamental Ruby & Style
 
@@ -163,7 +163,7 @@ I4 & I5 working
 when initializing an object, don't have any other side effects; use a method for that
 
 
-#Scores:
+###Scores:
 
 Overall Functionality
 3: Application implements iterations 0 - 4
