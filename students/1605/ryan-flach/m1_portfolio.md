@@ -9,8 +9,18 @@ I came to Turing with a limited-but-semi-functional understanding of some OOP pr
 I chose the Echo track.
 
 ### End of Module Assessment
-
-(Notes & scores from your assessment rubric)
+_Ruby Syntax & API_<br>
+**4**: Developer is able to write Ruby with a minimum of reference or debugging<br><br>
+_Completion and Progress_<br>
+**4**: Developer fully completes baseline assignment and one of the Challenge options<br><br>
+_Testing_<br>
+**3**: Developer writes tests that are effective validation of functionality, but don't drive the design<br><br>
+_Workflow_<br>
+**4**: Developer is a master of their tools, efficiently moving between phases of development<br><br>
+_Collaboration_<br>
+**4**: Developer actively seeks collaboration both before implementing, while in motion, and when stuck<br><br>
+_Enumerable & Collections_<br>
+**4**: Application consistently makes use of the best-choice Enumerable methods<br>
 
 ### Work
 
@@ -153,13 +163,13 @@ _Breaking Logic into Components_<br>
 **Feedback to Me:**<br>
 * N/A
 
-#### HeadCount
+#### Headcount
 
 * [GitHub URL](https://github.com/ryanflach/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 **Description:**<br>
-
+Headcount involved reading, storing, and analyzing a large set of public data regarding student and school performance and outcomes in the state of Colorado. Through the creation of repositories, data was aggregated and stored in appropriate repositories, ultimately available via a District repository and individual District objects. A number of methods are available to compare across districts and statewide data, drawing conclusions based on averages.
 
 **Evaluation Comments:**<br>
 *
@@ -186,7 +196,8 @@ _Code Sanitation_<br>
 
 ### Giving Feedback
 * "Raphael has a systematic approach to solving problems that ensures he is capturing the scope of the project and approaching each element thoroughly and with purpose. He breaks things down into smaller, manageable pieces and tests each. This enables him to explain each step well and repurpose methods. It was a pleasure working with him!" - Feedback given to Raphael Barbo<br><br>
-* “Roberta was the perfect teammate. She possesses technical strength to solve most problems, but, more importantly, she is persistent and positive when we encounter a problem that we aren’t immediately able to solve. She doesn’t allow herself to become too entangled on a single issue and acknowledges when it is time to move onto a different approach. She is able to talk through and explain her reasoning, and she shares in all responsibilities to achieve a good working balance and eliminate any ill feelings from one partner doing too much or too little. She would be a strong asset on any team." - Feedback given to Roberta Doyle
+* “Roberta was the perfect teammate. She possesses technical strength to solve most problems, but, more importantly, she is persistent and positive when we encounter a problem that we aren’t immediately able to solve. She doesn’t allow herself to become too entangled on a single issue and acknowledges when it is time to move onto a different approach. She is able to talk through and explain her reasoning, and she shares in all responsibilities to achieve a good working balance and eliminate any ill feelings from one partner doing too much or too little. She would be a strong asset on any team." - Feedback given to Roberta Doyle<br><br>
+* "I really enjoyed working with Lin. She has a focused approach to problem solving and is serious about getting work done, opening her schedule to allow for full availability to meet deadlines. Her ability to research issues and determine best-case solutions with enumerables was invaluable, as well as her use of TDD and eye for refactoring. We both have similar work styles and worked very well together. It was fun to be able to communicate openly and honestly, and to try out many different styles of pairing." - Feedback given to Lin McCartney
 
 ### Being a Community Member
 * "I had the pleasure to pair with Ryan during one of our in-class assignments, and I can certainly say that he is a very diligent   and quick to jump into the problem and come up with creative ways to resolve it. Definitely looking forward to some more pairings in the future." - Raphael Barbo<br><br>
@@ -195,7 +206,18 @@ I hope I had another chance to work together with Ryan. I definitely learned a l
 
 ### Playing a Part
 * Attended the Kids Who Code Showcase
-* Paired with visiting potential instructor
+* Paired with visiting potential instructor and gave feedback
+* Active on Fridays and attends lightning talks/guest speaker
+* Provided help to peers when I had an understanding of material they were struggling with - sought help from peers when I needed assistance.
+
+### Soft Skills / Protocol Requirements
+* DTR Memo
+  * [HTTPYYKM pair project](https://docs.google.com/document/d/1vEZtxoZxibs3RMvNzW_uHLFXM8quaU70flaRIcNhvcY/edit?usp=sharing)
+  * [Headcount pair project](https://docs.google.com/document/d/165mG_ZpzGWOLp6_TM0QITgxfaNyz9YwFu17RL_qXg2Y/edit?usp=sharing)
+* Readme from a project
+  * [Headcount](https://github.com/ryanflach/headcount/blob/master/README.md)
+  * [HTTPYYKM](https://github.com/ryanflach/httpyykm/blob/master/README.md)
+
 
 ## Review
 
