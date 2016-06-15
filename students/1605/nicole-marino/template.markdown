@@ -197,7 +197,15 @@ Breaking Logic into Components
 ## Team
  DTR Memo:
  
- When I spoke with Pat for  our headcount project, this was the first time I had a conflict with a partner about learning styles. He learns better when he has sufficient time to research the project beforehand. 
+ When I spoke with Pat for  our headcount project, this was the first time I had a conflict with a partner about learning styles. He learns better when he has sufficient time to research the project beforehand. Versus I learn better when I can jump right into the code and start playing with it. These are some of the issues we discussed, and these are the solutions we implemented to combat it. 
+ 
+ -More Pairing Session
+ 
+ -Pat does more in depth study while I create psuedocode for the next iterations. That way I feel I'm making progress, and then we can follow my instructions together with Pats insight after doing more research. 
+ 
+ -We divide and conquer only when we both feel secure in the portion of code we're working with. 
+ 
+
 ## Community
 
 ### Giving Feedback
