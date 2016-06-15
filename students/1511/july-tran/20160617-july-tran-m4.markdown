@@ -1,5 +1,8 @@
 # July Tran - M4 Portfolio
 
+## Areas of Emphasis
+This module, I sought to continue a high level of community involvement, build swag front end skills, explore data vis, and get a cool, meaningful job. Happy to say I accomplished all of these!
+
 ## Projects
 
 ## GameTime
@@ -22,6 +25,10 @@
 - For Chelsea: Working with Chelsea on GO GO NYAN CAT was my ultimate GameTime dream come true. She was immensely fun to work with and we had a blast in addition to sharpening our JS skillz. I really appreciate that Chelsea is always open to feedback and acts on it immediately. She also is so super dedicated to her work - she will let no bug go un-squashed and no feature remain incomplete. Though this is one of her strong suits, it could also be a downfall when the best thing you can do to be productive is to take a break - she would benefit from learning to honor the pomodoro. Additionally, she may benefit from becoming more comfortable with tooting her own horn and asserting herself in the hustle of life (but also jobs). Chelsea would be a tremendous asset to any team and I look forward to hearing more about her badassery.
 
 - For Thom: I am so SUPER INSANELY proud of Thom!! I’ve had the pleasure of having him as a classmate, friend, and dependable posse member. Thom has done a great job leading Pahlka this module and I am so stoked to have been able to see that happen. Thom shared with us at the beginning of the module that he has not historically been the kind of person to lead a group, and that he’d like to grow that skill as a posse leader this module. I think he’s hit that goal out of the park. Seeing him do gnarly leadership things like enact awesome organization for our repo and our meetings, think about how to improve the posse and meet the members' needs, and do planning and coding for our app, has me beaming like a proud mother hen. I think Thom’s passion for civic work, low-key thoughtfulness, and the ability to do some powerhouse leadership when needed will make him a great asset to the tech world and the community at large. He might benefit from learning to toot his own horn more and making his multifaceted skillset known. #pahlkaposse4lyfe
+
+- For Kerry: Kerry is an awesome leader and a super skilled programmer. I am so happy to have her be a Pahlka and to have been able to get to know her over the last 2 modules. It’s clear she’s a seasoned leader, and she has the interpersonal and technical skills to succeed at whatever she’d like to. I’m thrilled that she’s chosen to apply these skills to civic work, and I’ve been thoroughly pleased to find someone as passionate as me about these issues. I think Kerry could be too humble at times, she may benefit from getting her awesomeness more out there in the public sphere.
+
+- For Nick: Pahlka posse has been so lucky to have Nick play such a large role in it. His fun demeanor keeps it fun and lively, and his commitment to help others inspires all of us. He’s been a super dependable member of the posse and also gives a lot to our community at large. I think Nick could improve on his code clarity and professional communications, but I know he is aware of these things and continually works hard at improving himself. His receptiveness to feedback and dedication to self-improvement is super impressive to me.
 
 ### Feedback Received
 - From Chelsea: July Tran is one bodacious babe. In a zombie, apocalypse, I would hope that July would be in my tribe. She is fearless, dedicated, and one heck of a programmer. I am excited to see where she goes in life. In fact, I wouldn't be surprised if she is a CTO by 30. She is a great leader, and has accomplished a lot with the Pahlka posse. I am happy to call July a friend!
