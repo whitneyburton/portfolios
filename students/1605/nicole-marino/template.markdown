@@ -10,7 +10,7 @@ My goal was to get a deep understanding of ruby syntax and concepts. I wanted to
 
 ### End of Module Assessment
 
-Notes:
+#Notes:
 
 * Have to work on heads-up typing
 * Watch out for indentation of your code
@@ -19,13 +19,13 @@ Notes:
 * Solid on Ruby methods and knowing what's available
 * Have concerns about progress being hindered by mechanics
 
-Scores:
+#Scores:
 ​
-####Ruby Syntax & API
+Ruby Syntax & API
 ​
 * 3: Developer is able to write Ruby with some debugging of fundamental concepts
 ​
-####Completion and Progress
+Completion and Progress
 ​
 * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 ​
