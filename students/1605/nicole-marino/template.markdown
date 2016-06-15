@@ -29,19 +29,19 @@ Completion and Progress
 ​
 * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 ​
-####Testing
+Testing
 ​
 * 3: Developer writes tests that are effective validation of functionality, but don't drive the design
 ​
-####Workflow
+Workflow
 ​
 * 2: Developer smoothly moves between tools, but is dependent on mouse-driven interaction
 ​
-####Collaboration
+Collaboration
 ​
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 ​
-###Enumerable & Collections
+Enumerable & Collections
 ​
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
