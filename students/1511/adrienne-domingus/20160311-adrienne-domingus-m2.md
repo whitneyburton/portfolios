@@ -130,6 +130,10 @@ Assessed by: Mike Dao
 * Participated in Computability Theory, including leading the group one week
 * Took on a 1603 pre-work guidee
 
+## Attendance
+
+I didn't miss any classes.
+
 ## Posse Challenges
 [College Scorecard](https://github.com/chadellison/posse_challenges/tree/master/college_scorecard)  
 [Other Kay Posse Challenges](https://github.com/kay-posse)

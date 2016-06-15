@@ -26,6 +26,7 @@ My module 2 mission is to find myself more confident as a developer and expand m
 
 * __Feb 29, 2016__ Keri Clowes - Intro
 * __March 7, 2016__ Keri Clowes - Paired on Little Shop
+
 ---
 
 
@@ -340,10 +341,10 @@ Subjective evaluation will be made on your work/process according to the followi
 * [Brians Blog](http://brianrip.github.io/)
 
 
-### Notes: 
+### Notes:
 
 * Accomplished most goals except bring personal site back up
 * Paired with mod1 student
-* Challenge you to bring more confidence in yourself and idea to the table. 
-* Had a good posse experience 
-* Has a good percpective
+* Challenge you to bring more confidence in yourself and idea to the table.
+* Had a good posse experience
+* Has a good perspective
