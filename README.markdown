@@ -46,8 +46,10 @@ __Soft Skills / Protocol Requirements__
   * how has your posse experience helped you grow as a professional?
 
 * Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master
+ * Include what you learned/took away fromt he project.  
 * Peer evaluated projects:  Rails Mini Project
-* Evaluated projects: Traffic Spy, Little Shop
+ * Include what you implemented for the extension day. And include a short description of what you built and what you took away/learned from this project.
+* Evaluated projects: Rush Hour, Little Shop
 * Assessments: mid-module, final
 
 ### Module 3
