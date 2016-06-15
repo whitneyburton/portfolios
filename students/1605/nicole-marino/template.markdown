@@ -10,8 +10,43 @@ My goal was to get a deep understanding of ruby syntax and concepts. I wanted to
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Notes:
 
+* Have to work on heads-up typing
+* Watch out for indentation of your code
+* Messy on the fringes -- whitespace, thinking about variable scope, indentation, typos
+* Fine on logical thinking
+* Solid on Ruby methods and knowing what's available
+* Have concerns about progress being hindered by mechanics
+
+Scores:
+​
+####Ruby Syntax & API
+​
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
+​
+####Completion and Progress
+​
+* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+​
+####Testing
+​
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+​
+####Workflow
+​
+* 2: Developer smoothly moves between tools, but is dependent on mouse-driven interaction
+​
+####Collaboration
+​
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+​
+###Enumerable & Collections
+​
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+
+Plans for getting my workflow up to speed: During the time in between modules, I'd like to do typing.io exercises everyday to help me learn to type with more than two fingers and to help keep my eyes off my keyboard. By week 3 of mod2, I'm hoping to be typing without looking at my keyboard at all. I also need to take my time and work on my style in the next modules to come. 
 
 
 ### Projects
