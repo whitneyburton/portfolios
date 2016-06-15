@@ -202,7 +202,8 @@ _Code Sanitation_<br>
 ### Being a Community Member
 * "I had the pleasure to pair with Ryan during one of our in-class assignments, and I can certainly say that he is a very diligent   and quick to jump into the problem and come up with creative ways to resolve it. Definitely looking forward to some more pairings in the future." - Raphael Barbo<br><br>
 * "Working with Ryan was a fantastic experience. He's very organized and communicates well. Ryan has a strong knowledge and understanding of ruby, which was extremely valuable for our project. At the same time, he's collaborative and gave enough space for both of us to contribute and play an important role in this project. Ryan is flexible and open to ideas, we were able to discuss different approaches on how to solve the problems/challenges we encounter throughout the project.
-I hope I had another chance to work together with Ryan. I definitely learned a lot from him and appreciate his work style." - Roberta Doyle
+I hope I had another chance to work together with Ryan. I definitely learned a lot from him and appreciate his work style." - Roberta Doyle<br><br>
+* "Ryan and I paired several times this past module. He is engaged, curious, and a quick learner, able to take new concepts and extend them to new situations. He’s a clear communicator, enthusiastic and respectful discussing work. From what I’ve seen, he brings good energy and a solid work ethic to his cohort and the broader Turing community." - Beth Sebian
 
 ### Playing a Part
 * Attended the Kids Who Code Showcase
