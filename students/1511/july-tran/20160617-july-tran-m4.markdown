@@ -1,7 +1,10 @@
 # July Tran - M4 Portfolio
 
 ## Areas of Emphasis
-This module, I sought to continue a high level of community involvement, build swag front end skills, explore data vis, and get a cool, meaningful job. Happy to say I accomplished all of these!
+This module, I sought to continue a high level of community involvement, build swag front end skills, explore data vis, and get a cool, meaningful job. Also, be a crying baby.
+
+# #squadgoals
+![shimmyirl](/squadgoals.gif)
 
 ## Projects
 
@@ -33,6 +36,10 @@ This module, I sought to continue a high level of community involvement, build s
 ### Feedback Received
 - From Chelsea: July Tran is one bodacious babe. In a zombie, apocalypse, I would hope that July would be in my tribe. She is fearless, dedicated, and one heck of a programmer. I am excited to see where she goes in life. In fact, I wouldn't be surprised if she is a CTO by 30. She is a great leader, and has accomplished a lot with the Pahlka posse. I am happy to call July a friend!
 
+-  From Kerry: July is the leader I aspire to be.  Her confidence and conviction inspires others.  People want to follow July and be around the things she is associated with.  July is always available to help people and was routinely my go-to person to provide support to other Pahlka members that needed her guidance.  It’s apparant that July feels a personal mission to cultivate others in general, and specifically those that demonstrate an interest in civic causes.  July has personally motivated me to be a larger contributor to the Turing community and I really value her confidence in me.  I have nothing but positive things to say about July and I look forward to watching her career develop.
+
+- From Nick: First off I just want to say, July is a rock star!! She’s brilliant, funny, dedicated, fun to be around, passionate and deeply cares for other people, and the world at large. I was super excited to hear that she got the job at NREL because I know she really wanted that job and she worked extremely hard to get it. July worked all through the intermission break getting better at GuavaScript, and now she writes that LavaScript!! On top of killing it in class and job hunting pretty heavily, she still found time to help run the Pahlka posse and go to Civic Tech events around town. Her dedication to civic tech is unmatched, and I can totally see her changing the world one day. Possibly President? Who knows, anything’s possible! Also, I’m super excited that we’re going to be neighbors soon!
+
 ### Community Participation
 - Part of panel for prospective students on May 31
 - Participated in Code for Denver's National Day of Civic Hacking on Jun 4
@@ -61,3 +68,5 @@ This module, I sought to continue a high level of community involvement, build s
 * C: Group Work & Projects: 4
 * D: Community Participation: 4++
 * E: Peer & Instructor Feedback: 3
+
+![shimmy](https://media.giphy.com/media/A3PG6GRxtCU9O/giphy.gif)
