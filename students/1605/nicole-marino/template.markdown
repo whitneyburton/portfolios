@@ -21,27 +21,20 @@ My goal was to get a deep understanding of ruby syntax and concepts. I wanted to
 
 #Scores:
 ​
-Ruby Syntax & API
-​
 * 3: Developer is able to write Ruby with some debugging of fundamental concepts
 ​
-Completion and Progress
 ​
 * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 ​
-Testing
 ​
 * 3: Developer writes tests that are effective validation of functionality, but don't drive the design
 ​
-Workflow
 ​
 * 2: Developer smoothly moves between tools, but is dependent on mouse-driven interaction
 ​
-Collaboration
 ​
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 ​
-Enumerable & Collections
 ​
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
