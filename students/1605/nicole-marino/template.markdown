@@ -4,7 +4,8 @@
 
 ### Areas of Emphasis
 
-My goal was to get a deep understanding of Ruby and the algorithmic process. I hoped to change the way my mind worked so I would become more of a problem solver. I wanted to be able to take on projects that I viewed were above my level of understanding and complete them. 
+
+My goal was to get a deep understanding of ruby syntax and concepts. I wanted to feel comfortable working with the algorithmic process. I hoped to change the way my mind worked so I would become more of a problem solver. I wanted to be able to take on projects that I viewed were above my level of understanding and complete them. 
 
 
 ### End of Module Assessment
@@ -12,12 +13,6 @@ My goal was to get a deep understanding of Ruby and the algorithmic process. I h
 (Notes & scores from your assessment rubric)
 
 
-
-### Work
-
-(Intro)
-
-## Team
 
 ### Projects
 
@@ -196,7 +191,10 @@ Breaking Logic into Components
 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 --------------
-
+## Team
+ DTR Memo:
+ 
+ When I spoke with Pat for  our headcount project, this was the first time I had a conflict with a partner about learning styles. He learns better when he has sufficient time to research the project beforehand. 
 ## Community
 
 ### Giving Feedback
@@ -205,7 +203,19 @@ Breaking Logic into Components
 
 ### Being a Community Member
 
-(feedback to me)
+"Nicole is a fantastic person to have in Turing. She was always willing to help when I had questions and made sure that I understood what was going on before she left.  She understands what is going on and is able to effectively to communicate her ideas whenever she is asked.  I think that Nicole is a good addition to Turing and will progress nicely though the remaining mods." -Ben Pepper 
+
+Feedback from Chris - HTTP-YYKM:
+
+"Great job with quickly completing the portions to which you had committed on a daily basis. Great job setting expectations with scheduling our time to work together. Great job doing a "divide & conquer" approach which brought together our strengths and minimized our individual weaknesses. Finally, great job in collaborating to pass the project!
+
+Areas to improve or consider in future group work: You tend to move very quickly, which is great, but also not so great because your Ruby syntax is not (yet) easy to follow (in HTTP-YYKM the culprits were long methods and mixed classes). Because of this, it would take up to an hour of reviewing your recent work to understand what was going on (admittedly, I have a lot to learn in Ruby as well). We ended up passing far too many objects through methods and classes. I would suggest that in future group work that you pair directly with your project partner for at least the first 3-4 hours that you work together in order to set the scope and syntax tone for the rest of the project code base. It would also help to have a short "review" of 15 minutes per day where each person explains their recent work. This would all help in ability to refactor code together to make the syntax and code structure more neat and divided by responsibilities.
+
+Our approach of you forging ahead on the next new item, while I refactored and tested edge cases for the old, worked in completing the project. However, I feel like we could have ended with much neater and concise code if we had done at least 1 direct pairing session per day which involved a little refactoring before moving ahead.
+
+Finally, it was nice working with you because you kept a pleasant attitude even during stressful times. You're talkative, I'm quiet, you tend to bring up jokes and asides, while I'm more serious... it worked out well. Our communication was great throughout the project. Thank you!"
+
+
 
 ### Playing a Part
 * Cleaned Every Friday
