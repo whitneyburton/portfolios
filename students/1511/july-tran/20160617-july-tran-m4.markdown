@@ -4,7 +4,7 @@
 This module, I sought to continue a high level of community involvement, build swag front end skills, explore data vis, and get a cool, meaningful job. Also, be a crying baby.
 
 # #squadgoals
-![shimmyirl](/squadgoals.gif)
+![shimmyirl](squadgoals.gif)
 
 ## Projects
 
