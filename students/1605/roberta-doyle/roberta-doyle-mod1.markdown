@@ -12,6 +12,23 @@
 
 ### End of Module Assessment
 
+
+Assessed By: Mike
+
+Challenge: Shopping List
+
+Notes:
+* Overall really good testing.
+* Good thoughts about the process.
+* Would like to see work come a little quicker, some confusion on hashes and reaching through objects.
+* Good drawing parallels to previous work, seeing the pattern.
+
+* Ruby Syntax & API: 3: Developer is able to write Ruby with some debugging of fundamental concepts
+* Completion and Progress: 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+* Testing: 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+* Workflow: 4: Developer is a master of their tools, efficiently moving between phases of development
+* Collaboration: 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+* Enumerable & Collections: 3: Application demonstrates comfortable use of appropriate Enumerable methods
 (Notes & scores from your assessment rubric)
 
 ### Work
