@@ -24,6 +24,8 @@ Idea Box is a Turing assignment allotted 3-1/2 days to quickly ramp up skills in
 
 142/150 points
 
+Assessed by Meeka
+
 #### Thoughtbox
 
 [Github Repo](https://github.com/hhoopes/thoughtbox)
@@ -47,10 +49,27 @@ I intially got 40 points, then completed more functionality for 90 points.
 Puts-Puts Golf is a JavaScript game that has a cartoony-mask that belies its tough collision-detection center. Don't put money up against fluffy marshmallow when balls hitting obstacles are on the line. You can play golf. You can go horribly over par, and it will tell you.
 
 Check-In 1-3: 50 points each
+
 Final Score: 143/150
 
-Teamwork FTW!
+Assessed by Meeka and Louisa
+
+##### Teamwork FTW!
+
 ![TEAMWORK FTW!](https://media.giphy.com/media/VIwVlXlMuZ3tS/giphy.gif)
+
+#### Scale Up
+
+[LookingFor GitHub](https://github.com/LookingForMe/lookingfor)
+
+[Deployed](https://lookingforme.herokuapp.com/)
+
+I worked on the Rails back-end team for our Looking For job finder web app. My role initially was to provide a means to seed a huge database and research performance options, for which I wrote a task that would generate data. Then for the second week I coordinated more with the front-end team to create and customize new API endpoints.
+
+ScaleUp Week 1: 150 pts
+
+ScaleUp Week 2: 150 pts
+
 
 ## Community
 
