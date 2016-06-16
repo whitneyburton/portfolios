@@ -122,9 +122,9 @@ Over all - the javascript is really solid though - and it seems like you have a 
 
 >"Pahlka posse has been so lucky to have Nick play such a large role in it. His fun demeanor keeps it fun and lively, and his commitment to help others inspires all of us. He’s been a super dependable member of the posse and also gives a lot to our community at large. I think Nick could improve on his code clarity and professional communications, but I know he is aware of these things and continually works hard at improving himself. His receptiveness to feedback and dedication to self-improvement is super impressive to me."-**July Tran**
 
->""-**Julian Feliciano**
+>"What a journey it has been! From week 1 till now you have fought and clawed to be where you are today, a professional software developer. It has been a pleasure to call you a friend! Being able to fight through adversity is a huge key to success at Turing and I feel like you fought harder than anyone to conquer anything in your way. You have grown as both a developer and as a person. Remember that you are the one that got yourself to this position. Keep on doing you dude!"-**Julian Feliciano**
 
->""-**Taylor Moore**
+>"Nick was one of the first people to welcome me to 1511. We had talked a few times during Mod 2 and 3 and I started to realize how much he does for Turing. Not only was he famous for the Emoji's but he also really brought a lot of people together and kept them laughing. So I had the pleasure of working with Nick for GameTime. During the 2 weeks Nick worked very hard! He had many ideas and lots to contribute. Nick and I didn't always agree but he did a great job to communicate his ideas. This makes Nick a great team member and I'm sure will do well at any company he ends up at!"-**Taylor Moore**
 
 ### Playing a Part
 
