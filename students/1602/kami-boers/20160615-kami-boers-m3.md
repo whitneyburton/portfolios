@@ -42,6 +42,13 @@ Assessed By: Josh
 ##### Notes:
 ##### Scores:
 
+Completion: 3
+Organization: 4
+Test-Driven Development: P
+Code Quality: 3
+User Experience: 3
+Performance: 3
+
 #### Rails-engine
 
 * [GitHub Repo](https://github.com/kamiboers/)
@@ -108,3 +115,12 @@ Assessed By: Evaluated by: Josh M.
 ### Playing a Part
 
 * Acted as co-leader of Brin posse
+
+
+### Self Evaluation
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3
+D: Community Participation: 3
+E: Peer & Instructor Feedback: 3
