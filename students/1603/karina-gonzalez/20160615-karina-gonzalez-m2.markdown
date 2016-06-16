@@ -4,7 +4,9 @@
 
 ### Areas of Emphasis
 
-  I remember having a one-on-one breakfast with Jeff towards the end of last module.  I
+  Coming into this module I remember having a heavy case of the infamous "imposter's syndrome".  I suppose it's difficult for me to imagine that I deserve to be here when I have frequent conversations with my extremely intelligent and capable family members/friends from home who weren't quite as lucky. That being said, one of my major goals for this module was to phase out of the "victim" role and into a more authoritative role.  I realize that I am in a position where, depending upon how much I take advantage of this opportunity, I could progress into a position where I could actually empower my fellow humans who can who come from similar roots. (Also, I wanted to learn more about machine learning, which I did ... learned a bit about linear regression but I'd like to learn more)
+  
+  “I tell my students, 'When you get these jobs that you have been so brilliantly trained for, just remember that your real job is that if you are free, you need to free somebody else. If you have some power, then your job is to empower somebody else. This is not just a grab-bag candy game.” - Toni Morrison
 
 ### End of Module Assessment
 Assessed By: Jhun de Andres
