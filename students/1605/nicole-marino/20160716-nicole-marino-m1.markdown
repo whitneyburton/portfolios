@@ -22,7 +22,6 @@ My goal was to get a deep understanding of ruby syntax and concepts. I wanted to
 * Have concerns about progress being hindered by mechanics
 
 ###Scores:
-​
 * 3: Developer is able to write Ruby with some debugging of fundamental concepts
 ​
 ​
