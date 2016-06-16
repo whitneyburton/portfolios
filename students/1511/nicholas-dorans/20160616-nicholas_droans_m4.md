@@ -160,3 +160,17 @@ I've participated in the larger Turing Community in the following ways:
 ## E: Peer & Instructor Feedback
 
 * 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+
+## Notes
+
+Great community involvement. Don't hold back on your authentic self, but draw a little clearer line between when I'm in work mode, this is how I work - this should be a tweek or a tune, not an entire overload. Just a little bit more polish on things before they ship off. 
+
+## Outcome
+
+GRADUATED (and got a macaroon)
+
+* A: End-of-Module Assessment: N/A
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3
