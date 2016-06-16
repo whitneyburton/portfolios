@@ -261,6 +261,11 @@ Notes:
 
 ### Notes
 
-( Leave blanks for reviewers )
+- excited to be self sufficient.
+- wants to get better at styling.
+- excited to in module 3 and solidify concepts like oauth.
+- Loves TDD.
+- wants to work on communicating better.
 
 ### Outcome
+Pass
