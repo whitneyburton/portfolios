@@ -176,13 +176,3 @@ Peer & Instructor Feedback | 3
 ### Outcome
 
 ( Leave blanks for reviewers )
-
-Path | Verb| Description
---- | --- | ---
-/tasks | 'Get' | This shows you all of the tasks
-/tasks/:id | 'Get' | This shows you a specific task
-/tasks/new | 'Get' | This shows you the form to create a task
-/tasks | 'Post' | This saves the new task
-/tasks/:id/edit | 'Get' | This shows you the form to edit a task
-/tasks/:id | 'Put' | This saves the edits to the task
-/tasks/:id | 'Delete' | This deletes a specific task
