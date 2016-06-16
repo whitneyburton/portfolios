@@ -256,8 +256,13 @@ Little Shop of Orders was a project that required our group to create a simple e
 
 ### Notes
 
-( Leave blanks for reviewers )
+- feels good with the MVC model
+- better about setting hard deadlines
+- get better at using tools
+- Likes using a DB visualizer
+- Push yourself to do more. You have the ability to take something people are uncomfortable with and implementing it.
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
