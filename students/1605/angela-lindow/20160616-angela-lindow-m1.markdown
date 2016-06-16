@@ -140,9 +140,9 @@ Using data about schools in Colorado provided by the Annie E. Casey foundation, 
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 4
-* **D: Community Participation**: 3
+* **D: Community Participation**: 3.5
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
