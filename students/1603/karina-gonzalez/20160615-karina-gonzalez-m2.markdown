@@ -101,14 +101,15 @@ Notes for extended submission:
 Evaluator: Andrew
 
 Notes:
-    - App broke on creation of new family. Looks like twillio. Will give time to fix to bring score up.
-    - One query in view. Nationalities.all. Refactor to controller. The use of partials and presenters cancel our the logic int he view for a score of 4. Happy to user attempts at using presenters.
-    - Using session hash for cart quantity - would prefer the supply to call quantity
-    - SupplyItem.find_family(id) should be SupplyItem.find(id).family => trying to write method that active record handle already.
-    - Donation controller still has iteration over supply items to crate donation items. Would like to see that refactored to an object that handles the completion of donations
-    - Creating supply_items within family model. We should refactor this to a poro or just somewhere other than a different model.
-    - Also, consider a stats object instead of pulling in data from multiple different models for statistics
-    - Highly suggest helper methods in test suite to make your life easier. Overall tests at multiple levels and multiple paths
+  
+      - App broke on creation of new family. Looks like twillio. Will give time to fix to bring score up.
+      - One query in view. Nationalities.all. Refactor to controller. The use of partials and presenters cancel our the logic int he view for a score of 4. Happy to user attempts at using presenters.
+      - Using session hash for cart quantity - would prefer the supply to call quantity
+      - SupplyItem.find_family(id) should be SupplyItem.find(id).family => trying to write method that active record handle already.
+      - Donation controller still has iteration over supply items to crate donation items. Would like to see that refactored to an object that handles the completion of donations
+      - Creating supply_items within family model. We should refactor this to a poro or just somewhere other than a different model.
+      - Also, consider a stats object instead of pulling in data from multiple different models for statistics
+      - Highly suggest helper methods in test suite to make your life easier. Overall tests at multiple levels and multiple paths
 
 ##### Evaluation Rubric
 
