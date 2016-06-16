@@ -1,4 +1,4 @@
-# Zack Forbing - (M1/M2/M3/M4) Portfolio
+# Zack Forbing - M1 Portfolio
 
 ## Individual
 
