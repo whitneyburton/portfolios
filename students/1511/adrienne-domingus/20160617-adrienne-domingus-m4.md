@@ -65,6 +65,8 @@ N/A
 
 “Adrienne and I haven’t had the chance to pair during any of our modules, and it makes me sad as I feel I would have learned a lot.  We are in the Brin Posse together where the objective is to finish as many exercisms as possible before graduation.  Adrienne has blown everyone out of the water.  Not only is she a brilliant programmer, but she’s also great at building people up.  She is very genuine and her words of encouragement have made my day a few times throughout the modules.  I can’t wait to see where she ends up.  I know she’s bound for big things!" - ** David Whitaker **
 
+"Adrienne could be one of greatest assets that our module has coming out of Turing. I say that because all of us will be able to say we knew her way back when, as she will probably be in a C level position in the next 10 years. Not only is her programming ability second to none, but her drive and leadership is impeccable. She is destined for greatness. Working with Adrienne on classwork and specifically endpoints for Exercism.io is always a learning experience for me. I always come away from the interactions with a piece of knowledge that I didn’t have before. I’m excited to see how she will become a female force to be reckoned with in the tech world and hope to stay in touch with her after Turing." - ** Adam Hundley **
+
 #### Feedback For Others
 
 ** Erinna Chen: ** "Working with Erinna was a highlight of Turing pairing experiences. Not only is she a talented developer, but she shows an impressive commitment to clean code, refactoring, and testing at all phases of her work. Doing this early and often was invaluable to our ability to be successful at later stages of the project. She also shows a willingness to help others, and is fun to be around to boot!"
@@ -72,6 +74,8 @@ N/A
 ** David Whitaker: ** "I never actually paired with David during any of our modules, so I'm pretty sure I missed out there, but nonetheless, David had a consistently positive impact on our cohort culture. He always had an encouraging word for anyone who needed it, and showed a dedication to producing high quality work and learning as much as he could. I'm confident he'll be a great addition to any company he joins, both for his attitude and programming abilities."
 
 ** Raphael Barbo: ** "While I didn't work with Raphael on any programming this module, I was continually impressed by his approach to his work throughout the module. He showed an understanding of the bigger picture, a positive attitude even when things were tough, and an openness to new experiences and ways of thinking. He's a positive addition to the Turing community, and I'm confident he'll be successful moving forward!"
+
+** Adam Hundley: ** "Working with Adam throughout our time at Turing has been a highlight of pairing experiences, both through assigned projects and mutual work on open source. He thinks quickly on his feet whether working on something we've been taught or something entirely new, and is committed not just to getting things done, but to getting things done the right way. His dedication both do honing his craft and becoming an awesome developer and to building the community is a powerful combination, and I know it will take him far. it's been a fun ride!"
 
 
 ## Community Participation
