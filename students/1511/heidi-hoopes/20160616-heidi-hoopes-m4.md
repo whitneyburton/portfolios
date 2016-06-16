@@ -136,8 +136,17 @@ I have really enjoyed getting to know Heidi. Not only is she an extremely talent
 
 ### Notes
 
-( Leave blanks for reviewers )
+Solid portfolio and outcome. Excited to have you help out next module.
+
+Really good balance of being up for goofiness but always getting work down. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 4
+* **E: Peer & Instructor Feedback**: 3
+
