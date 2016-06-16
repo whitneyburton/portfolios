@@ -184,8 +184,13 @@ I do wish that I had been more active in the posse I originally chose though, an
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Wanted to work on getting better with working with people.
+- Trying to find ways to challenge himself.
+- Wants to continue to push himself to be disciplined.
+- Would of liked more creativity.
+- Patients.
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending (Until blog post is given)
