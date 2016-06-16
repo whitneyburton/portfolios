@@ -136,7 +136,29 @@ well tested, make sure that you're testing multiple cases in the future
 
 4. Breaking Logic into Components: 4
 
-(INSERT MATT'S FEEDBACK)
+From my partner Matt Campbell: Sonia was a great partner to have for my initial pairing project.  Although I learned many things from Sonia during our time pairing, one of the best things she taught me was how to DTR.  I am a firm believer that both my pairing with Sonia and my pairing with Kris went so well was because of that skill that Sonia imparted upon me.  She was also my light in the darkness throughout HTTP because she was quick to understand the new challenges that were thrown our way and would make sure I understood the goal before we moved forward.  She taught me how to pair by always explaining her thought process before moving forward which is something I strive to achieve by following her example.  She also was a great teacher of advanced ruby syntax and enumerables which I believe was integral for us not only getting through HTTP but also allowing me to affectively tackle my final assessment and Headcount.  In addition to her programming ability, Sonia is just a great addition to the Turing community beyond the obvious :sonia-the-fridge-savior:.  She’s a great leader and ambassador for our cohort and I am glad to be going through Turing with her to learn from.
+
+#### Headcount
+
+* [GitHub URL](https://github.com/tgisg/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+This project involved parsing CSV data from Colorado school districts to extract information about relationships between the datasets.
+
+1. Functional Expectations: 3
+
+2. Test-Driven Development: 3
+
+3. Encapsulation / Breaking Logic into Components: 3
+
+4. Fundamental Ruby & Style: 3
+
+5. Enumerable & Collections: 3
+
+6. Code Sanitation: 1
+
+From My Partner Roberta Doyle: Sonia did a fantastic job on the Headcount project. Her contributions allowed us to complete the project and were essential to the breakthroughs that we had. Sonia is too hard on herself, and often tend to lower the importance of her work. I appreciate Sonia's honest communication, although  sometimes it comes off a little aggressive and/or impulsive. Throughout the project, she showed a great effort on adequately communicating her thoughts and concerns, and our pairing experience certainly improved.
+I would encourage her to believe and trust on herself. Often times when she communicates she qualifies her ideas and opinions in a negative way (i.e. 'I have an idea, but I'm sure it's terrible'). I enjoyed working with Sonia, and I believe that we both learned a great deal out of this pair experience! We also had a fun work weekend together, and I was glad to get to know her a little bit better.
 
 ## Community
 
@@ -146,9 +168,7 @@ To Kris Sparks: I have had a chance to get to know Kris over the course of the l
 
 To Kerry Sheldon: Kerry has been incredibly supportive this module. She developed the student support system for Pahlka posse, and I have been lucky enough to have her as a mentor in this capacity. Working with Kerry is always such a delight. She has skillfully guided me to my own conclusions rather than foisting answers upon me. Her patience and expertise have allowed me to develop my own skills, and I am lucky to have had the opportunity to learn from her. She has taught me a lot about myself as a person and as a programmer. Her commitment to Pahlka posse, and to the greater good, is remarkable. Her leadership will help us to grow and I’m excited to see what she comes up with next module!
 
-
-
-
+To Tommasina Miller: I have watched Tommasina grow so much! She began the module feeling a little unsure of herself, but she did not give up. Instead, she pushed through the doubt and feelings of discouragement and came through to the other side. Her resilience will continue to serve her throughout her time at Turing. Tommasina has also brought an incredible level of positivity and good energy to our cohort. I have been the recipient of her compassion and kindness on more than one occasion. Furthermore, her dedication to civic tech is remarkable, and I’m excited to get the chance to learn from her in Pahlka and in Module 2. Tommasina is a huge asset to the Turing community and her positive outlook will continue to serve her well.
 
 ### Being a Community Member
 
@@ -158,21 +178,23 @@ Sonia will be the first to acknowledge that her confidence in her programming sk
 
 I’m  grateful for Sonia’s commitment to the Pahlka posse throughout the module, in spite of her personal doubts about her ability to contribute.  Her attendance and involvement served as an example to other Module 1 students in the cohort.  Sonia is a natural leader and her presence lends credibility to the rest of us.
 
-(KERRY, KRIS, JASON, LANE, )
+From Tommasina Miller: I have watched Tommasina grow so much! She began the module feeling a little unsure of herself, but she did not give up. Instead, she pushed through the doubt and feelings of discouragement and came through to the other side. Her resilience will continue to serve her throughout her time at Turing. Tommasina has also brought an incredible level of positivity and good energy to our cohort. I have been the recipient of her compassion and kindness on more than one occasion. Furthermore, her dedication to civic tech is remarkable, and I’m excited to get the chance to learn from her in Pahlka and in Module 2. Tommasina is a huge asset to the Turing community and her positive outlook will continue to serve her well.
+
+From Kris Sparks: Sonia has shown a strong commitment to the program and the community since day one.  She leads our cohort through the SAB and is always willing to facilitate group discussions and activities. She takes a personal interest in other students and values their success. During this module Sonia has grown monumentally in her abililty to write code and complete projects. She is an asset to Turing and the student body.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I tried to help people in my cohort when they asked for technical or other support. I am also a member of Pahlka posse and will be co-leading it next module with Kerry Sheldon. Also, Fridges. :)
 
 ## Review
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 2
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
