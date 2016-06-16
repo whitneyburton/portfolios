@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-My name is Jason Hanna. Pay strict attention to what I say because I choose my words carefully and I never repeat myself. I've told you my name: that's the Who. The Where could most readily be described as a prison cell. But there's a vast difference between being stuck in a basement with no windows and being in prison. The What is hard: recently I planned and set in motion events to learn Web Development and Software Design. That's also the When. As for the Why: beyond the obvious financial motivation, it's exceedingly simple... because I want to. Which leaves us only with the How; and therein, as the Bard would tell us, lies the rub.
+My name is Jason Hanna. Pay strict attention to what I say because I choose my words carefully and I never repeat myself. I've told you my name: that's the Who. The Where could most readily be described as a prison cell. But there's a vast difference between being stuck in a basement with no windows and being in prison. The What is hard: recently I planned and set in motion events to learn Software Development and Web Design. That's also the When. As for the Why: beyond the obvious financial motivation, it's exceedingly simple... because I want to. Which leaves us only with the How; and therein, as the Bard would tell us, lies the rub.
 
 ### End of Module Assessment
 
