@@ -1,8 +1,8 @@
+<div style="text-align:center" markdown="1">
 ![alt text][logo]
 
 [logo]: https://avatars1.githubusercontent.com/u/7934292?v=3&s=200
-## `Turing Portfolio`
-
+# `Turing Portfolio`
 ---
 
 # __Yoseph Anderson - (M1)__
@@ -73,17 +73,17 @@ without getting bogged down or overwhelmed
 
 **Evaluation comments:**
 
-*_Good indentation_
+* _Good indentation_
 
-*_Good Naming_
+* _Good Naming_
 
-*_Good Dad jokes_
+* _Good Dad jokes_
 
-*_Test all cases that are listed in the spec (guess.correct? == false)_
+* _Test all cases that are listed in the spec (guess.correct? == false)_
 
-*_Something going on with map. Used like each. Map is better though_
+* _Something going on with map. Used like each. Map is better though_
 
-*_Worked through how to split up large method in runner_
+* _Worked through how to split up large method in runner_
 
 **Evaluation scores**
 
@@ -121,13 +121,13 @@ without getting bogged down or overwhelmed
 **Evaluation comments**
 
 
-*_super granular which I really like_
+* _super granular which I really like_
 
-*_conceptually and implementation really worked on SRP_
+* _conceptually and implementation really worked on SRP_
 
-*_translating braille effectively limited some of the scores_
+* _translating braille effectively limited some of the scores_
 
-*_concepts are there. would like to see them polished out._
+* _concepts are there. would like to see them polished out._
 
 **Evaluation scores**
 
@@ -166,15 +166,15 @@ Do more tests to make sure absolutely nothing is wrong (since the only reason it
 
 **Evaluation comments**
 
-*_All functionality works_
+* _All functionality works_
 
-*_35 tests_
+* _35 tests_
 
-*_Generally good tests, make sure you test for different cases, and for possible edge cases._
+* _Generally good tests, make sure you test for different cases, and for possible edge cases._
 
-*_Generally well written code, there are some opportunities to refactor complex conditionals and longer conditional branches._
+* _Generally well written code, there are some opportunities to refactor complex conditionals and longer conditional branches._
 
-*_Opportunity to refactor messages out into a module, look at how you can reduce reliance on instance variables_
+* _Opportunity to refactor messages out into a module, look at how you can reduce reliance on instance variables_
 
 **Evaluation scores**
 
@@ -202,6 +202,10 @@ Could have taken out messages and put it into a module.
 
 _Angela Lindow_ & _Yoseph Anderson_
 
+**_Pair Feedback _**
+
+>Yoseph is a fun, efficient partner to have on a project. He keeps things light-hearted and also has a good eye for opportunities for refactoring. He was able to contribute equally while driving or while talking while I drove. He was able to keep a good momentum going during times when I was feeling stuck.
+
 ---
 
 ### ~~Bodycount~~
@@ -211,16 +215,60 @@ _Angela Lindow_ & _Yoseph Anderson_
 
 >As programmers, we can use those data sets to ask and answer questions. We'll build upon a dataset centered around schools in Colorado provided by the Annie E. Casey foundation. What can we learn about education across the state?
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/Yoyo2Code/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 **Evaluation comments***
 
+_Notes:_
+
+Spec harness: I0SH: pass, I1SH: pass, I2SH: pass, I3SH: two failures
+Some long methods juggling a lot of detailed responsibility
+Missing some unit tests, would like to see more unit testing to drive development
+Some nice implementations of enumerables
+Code sanitation: several >80 char lines: blaming it on spec's long method names. Pass
+
 **Evaluation scores**
+
+**1. Functional Expectations**
+
+* **2.5:** Application has some missing functionality but no crashes
+
+**2. Test-Driven Development**
+
+* **3:** Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+**3. Encapsulation / Breaking Logic into Components**
+
+* **2.5** - (Application effectively breaks logical components apart but breaks the principle of SRP / Application shows some effort to break logic into components, but the divisions are inconsistent or unclear)
+
+**4. Fundamental Ruby & Style**
+
+* **2:** Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+
+**5. Enumerable & Collections**
+
+* **3:** Application demonstrates comfortable use of appropriate Enumerable methods
+
+**6. Code Sanitation**
+
+**_The output from rake sanitation:all shows..._**
+
+* **4:** Zero complaints
 
 **Feedback to me**
 
+
+
 **_Team_**
+
+Yoseph & Garrett
+
+[DTR](https://github.com/Yoyo2Code/headcount/blob/master/DTR.md)
+
+**_Pair Feedback_**
+
+>"Yoseph moves very fast while he's coding, but when he sees you are confused or may need help, he is willing to slow it down and do his best to explain it until you understand." -Garrett Smestad
 
 ---
 
@@ -234,20 +282,20 @@ _Angela Lindow_ & _Yoseph Anderson_
 >I really enjoy the Turing community and the experiences so far. The only things I could think of changing would involve the people at Turing and not Turing itself. I am glad that Turing focuses on someone as a whole and doesn't follow the typical education methods. The only way I can describe it would be that putting no thought into the things people do is just... _stupid_.
 
 ### Being a Community Member
-**HTTP_yeah_you_know_me** feedback from _Angela_
->Yoseph is a fun, efficient partner to have on a project. He keeps things light-hearted and also has a good eye for opportunities for refactoring. He was able to contribute equally while driving or while talking while I drove. He was able to keep a good momentum going during times when I was feeling stuck.
+
+>Yoseph is an amazing person.  He was very patient while teaching some of the concepts prior to the mid-module assessment. He spent 2 hours working through things with me and he also made sure I understood what I was doing.  He quizzed me and and asked me to explain the program we hd written until I could do it backwards.  it was irritating at the time but looking back I understand what is going on much better because of that.  Yoseph has a fantastic attitude when it comes to Turing and I suspect that he will go far not only here but also after Mod 4.  - Ben Pepper 
 
 ### **_Playing a Part_**
 
 **Ways you supported the larger Turing community:**
 
-*was engaged helping students from 1605
+* was engaged helping students from 1605
 
-*talked with Ryan about creating a posse that focuses on program/application security
+* talked with Ryan about creating a posse that focuses on program/application security
 
-*tell all my friends and family about Turing that ask, because I believe it's better than traditional education
+* tell all my friends and family about Turing that ask, because I believe it's better than traditional education
 
-*clean and pick up things without being asked
+* clean and pick up things without being asked
 
 ## Review
 
