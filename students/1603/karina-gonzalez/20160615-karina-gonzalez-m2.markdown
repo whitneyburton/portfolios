@@ -47,6 +47,7 @@ Subjective evaluation will be made on your work/process according to the followi
 ### Work
 
 I was having a particularly difficult time when the mini project was assigned.  I feared I was much too inadequate to continue in the module.  So, knowing myself and how self deprecating I can be at times) instead of attempting to write a rails app, I decided to prioritize my mental health.  This was a particularly sunny weekend so I decided to purchase a book beautifully embellished with John Keats' collected poems and read those to replenish myself instead. Here is an excerpt form the book that inspired me to suck it up and simply TRY (bc, like all organic matter, we're all going to be recycled eventually).
+(Willing to develop something over break)
 
 #### When I have Fears That I May Cease to Be
 
