@@ -306,7 +306,7 @@ From Zack Forbing: Tommasina has been a constant source of smiles and positivity
   - Defining The Relationship memo
     - https://gist.github.com/allindow/25eb4bd1f54f5e6fab7d6e1e270618fb
 
-- Project Read Me
+- [Project Read Me] (https://github.com/chompasina/night_writer/blob/master/readme.md)
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
