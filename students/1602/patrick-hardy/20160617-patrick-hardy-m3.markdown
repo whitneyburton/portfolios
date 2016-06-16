@@ -1,5 +1,17 @@
+# Patrick Hardy - M3 Portfolio
+
+### Self-Evaluation Scores
+
+* **A: End-of-Module Assessment**: 3 (pending revisions)
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
+
 ## Individual Assessment
-Notes:
+* [GitHub URL](https://github.com/patrickwhardy/module_3_assessment)
+
+* Notes:
 - Don't need responders gem, and don't need to install it.
 - Didn't change authenticity to `null_session`
 - I don't think you tested in Postman or Curl, because if you had, your POST would not have worked
@@ -58,7 +70,9 @@ Subjective evaluation will be made on your work/process according to the followi
 * 0: Developer committed once
 
 ## Mid-Module Diagnostic
-Notes:
+* [GitHub URL](https://github.com/patrickwhardy/module_3_diagnostic)
+
+* Notes:
   - 7 Commits
   - Great work with testing all levels of the app
   - Remove comments before final push (note)
@@ -106,7 +120,9 @@ Notes:
 * 0: Developer committed once
 
 ## The Pivot
-Evaluated by Josh M.
+* [GitHub URL](https://github.com/patrickwhardy/the_pivot)
+
+* Evaluated by Josh M.
 
 * Feature Completion | 4
 * Feature Organization | 4
@@ -117,6 +133,8 @@ Evaluated by Josh M.
 * Extensions | 4
 
 ## Rales Engine
+* [Github Url](https://github.com/patrickwhardy/rails_engine)
+
 Student: Patrick Hardy
 Evaluator: Brenna
 
@@ -149,10 +167,14 @@ Notes:
 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.  
 
 ## Self-Directed Project
+* [Github Repo](https://github.com/patrickwhardy/CragView)
+
 
 #### Scores have not been submitted
 
 ## Bonus Project (not required): APIcurious
+* [Github Repo](https://github.com/patrickwhardy/apicurious)
+
 Evaluated by: Nate
 
 Repo:
@@ -218,3 +240,8 @@ Notes:
 
 ## Something valuable you've taken away from your posse.
 I'n my posse I have been able learn more about what opportunities are available in Civic Tech. I have learned about Federal sub-contracting practices and internal software development. I also got to practice using mapbox and learn about rendering polyshapes with this service.
+
+### Notes
+
+
+### Outcome
