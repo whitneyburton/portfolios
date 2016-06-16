@@ -118,10 +118,46 @@ Assessed By: Jeff
 
 #### Little Shop - Socks and Found
 
-* [GitHub URL](https://github.com/ckaminer/black_thursday)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
-* [README](https://github.com/ckaminer/black_thursday/blob/master/README.md)
+* [GitHub URL](https://github.com/lucyfox4131/socks_and_found)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
+- Notes:
+ * Background image: make a div that comes after the body and make the id background image and place the image in there instead of having to use the body. Isolate the image outside of just the body tag.
+ * Make sure there is seed data for everything so you can see things in production. (Orders should have seed data).
+ * Make sure that the helper methods in controller are private methods
+ * Simple delegator - super the item, creates an object that is aware of it's quantity, sum, and all the item attributes (could have used this as an extra helper for cart items maybe)
+ * Dry up testing by creating a helper method for creating an admin so you'll have to declare it less.
+ * Good to have complete model testing
+ * Good job testing at feature and model level, make sure method works and make sure feature works as well
+ * Workflow: Glimpses of excellent, but would like to see more commenting on github, I have specific feedback for you at this line. Majority of things squashed, but could have done a few more.
+​
+ #### 1. Feature Completeness
+​
+ * 4: All features are correctly implemented along with two extensions
+​
+ #### 2. Views
+​
+ * 4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+​
+ #### 3. Controllers
+​
+ * 4: Controllers show significant effort to push logic down the stack
+​
+ #### 4. Models
+​
+ * 4: Models show excellent organization, refactoring, and appropriate use of Rails features
+​
+ #### 5. Testing
+​
+ * 4: Project has a running test suite that exercises the application at multiple levels
+​
+ #### 6. Usability
+​
+ * 3: Project is highly usable, but needs more polish before it'd be customer-ready
+​
+ #### 7. Workflow
+​
+ * 3: Good use of branches, pull requests, and a project-management tool.
 
 ## Community
 
