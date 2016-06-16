@@ -106,7 +106,7 @@ Scores:
 
 "Kris was a great partner during the project. Despite a disparity in our understanding of the concepts involved (Kris was very knowledgable, whereas I was still struggling to wrap my head around things), Kris was willing to adapt to my speed, and was patient enough to let me try out my ideas even if he knew they wouldn’t work, so that I could get a better understanding. He worked hard throughout and contributed heavily, ensuring that we completed the project successfully and on time.” - Garrett Smestad
 
-#### HTTP
+#### HEADCOUNT
 
 * [GitHub URL](https://github.com/kbs5280/http)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
