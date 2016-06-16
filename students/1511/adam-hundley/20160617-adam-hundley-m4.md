@@ -119,5 +119,16 @@ I strive to give feedback in the moment with my classmates. Below is some feedba
 
 ### Notes:
 
+Focused on school this module - only recently started the job search - enjoyed the experience of his job these 7 months being learning.
+Enjoyed going to and speaking at denver.rb knowing that he was about to graduate.
+Mentor a friend outside of the program. Now starting to teach him a few things, and wants to stay involved in a mentoring relationship.
 
 ### Outcome:
+
+GRADUATED!
+
+* __End of Module Assessment__ n/a
+* __Individual Work and Projects__ 4
+* __Group work and Projects__ 4
+* __Community Participation__ 3
+* __Peer & Instructor Feedback__ 3
