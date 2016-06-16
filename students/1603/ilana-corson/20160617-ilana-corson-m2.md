@@ -172,3 +172,19 @@ Notes:
 #### E: Peer & Instructor Feedback
 
 - 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+
+
+##Reviews
+
+###Notes
+
+- keep up the good work.
+- you are not at the bottom of the barrel.
+- try to do an extension.
+- stay on task and stick with things.
+- push yourself early.
+- find what something exciting.
+
+###Outcome
+
+Pass
