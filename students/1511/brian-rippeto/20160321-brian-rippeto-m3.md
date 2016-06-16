@@ -195,7 +195,6 @@ ___
 [Github Url](https://github.com/brianrip/bomb_photos)
 
 [Heroku](https://abs-pivot.herokuapp.com)  
-)  
 
 [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
