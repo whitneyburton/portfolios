@@ -188,6 +188,42 @@ Notes:
 * [GitHub URL](https://github.com/Automatic365/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown).
 
+Evaluated By: Beth Sebian
+
+Repo: https://github.com/Automatic365/headcount
+
+Notes:
+- Complete through I5, spec harness passes through 5
+- Nice testing suite: unit testing of subordinate methods
+- Methods clearly named, readable, and logically delineated
+- Would benefit from another pass of refactoring, but no glaring style issues, overall clean
+- 0 sanitation errors
+
+Scores:
+
+## Evaluation Rubric
+
+The project will be assessed with the following guidelines:
+
+### 1. Functional Expectations
+* 3: Application fulfills expectations of Iterations 0 - 4 *as well as* one of Iterations 5 or 6
+
+### 2. Test-Driven Development
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+### 3. Encapsulation / Breaking Logic into Components
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Fundamental Ruby & Style
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+### 5. Enumerable & Collections
+* strong 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+### 6. Code Sanitation
+The output from `rake sanitation:all` shows...
+* 4: Zero complaints
+
 
 ## Soft Skills
 
@@ -274,6 +310,9 @@ Lane's easy going attitude and ability to roll with the punches made working wit
 #### Sonia Gupta
 Sonia has been an incredibly wonderful person to go through this module with. Her patience, humor, and spirit has made getting through the more difficult parts of this module easier. She's always composed and supportive, and always willing to help in any way she can. I look forward to working with her in the next module, and I think her experience will be a great asset to everyone in the class.
 
+#### Pat Wentz
+Pat was an amazing partner for HTTP. He is a very strong programmer, and his organization and foresight made what could have been a stressful project beyond manageable. I learned so much from him in ways to set myself up better for future projects, and assignments. He was also a clear and communicative partner which made it really easy to work together.  Beyond the project, I see Pat as a strong contributor to the Turing community. Many mod 1 students approach him for help and he is always patient and helpful.
+
 #### David Tinianow
 David was an excellent partner and a very dedicated coder. David’s patience and ability to communicate his ideas was a tremendous advantage in this project. I also greatly appreciated the he always made sure we were on the same page and never moved forward before I understood. He allowed me the opportunity to work through my thought process and always listened. David was dependable, committed, and beyond competent. Working with him not only pushed me to be better, but it was also a lot of fun.
 
@@ -290,6 +329,13 @@ Jason and I did not have the opportunity to be partners on a project. However, w
 
 #### David Tinianow
 It was a pleasure working with Jason on Headcount.  His open-mindedness and easy-going disposition made him a great partner.  He was easy to work with, friendly, and dedicated.  Jason likes to see the bigger picture before diving into code, and I felt this approach was helpful during a complex project like Headcount.  He has a strong ability to map out ideas.  Sometimes it seemed Jason would hold back ideas if they were not fully fleshed out, and I would encourage him to share his ideas more frequently. I appreciated his willingness to put in long hours and fully commit himself to the project.  Jason was committed and calm all the way through to the end of the project.
+
+#### Pat Wentz
+ Jason and I paired for the HTTP project, and it was great
+ to work with a partner so committed to completing a project the right way in
+ terms of time commitment, attention to testing, and conceptual understanding.
+ With Jason's ability to step back and look at the larger scope of a project,
+ our styles meshed well together and I look forward to working with him again.
 
 
 ### Playing a Part
