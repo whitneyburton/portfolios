@@ -1,7 +1,7 @@
 # Alexis Navarrete - M3 Portfolio
-<p align='center'>
+
 ![Beach Side Chilling](http://66.media.tumblr.com/3a96a6cbf796eca0ecc67e69a5c6f1c4/tumblr_n5z6f7u20K1tqmpp3o1_400.gif)
-</p>
+
 
 ## Individual
 
