@@ -173,7 +173,7 @@ Evaluated by Nate Allen with the following results:
 
 According to the Feedback application:
 
-Ling, working with you has been a unique and knowledge experience. You are smart, motivated, and determined. I appreciated your ideas and approaches of trying new strategies and taking on challenges that you felt you can tackle. Its great to question your peers about an approach so everyone can improve from it, however I would recommend for future reference, allow your teammate to explain there approach before giving them your advice. Communication is key to proper teamwork, allowing a team member to explain something fully then following up with more questions until you fully understand their approach would help you give better ideas in order to help out your team member.
+Working aside Kris these past few months have been amazing. To see her progress from the first day of Mod 1 to creating an amazing app, is the true definition of a developer. What makes Kris a fantastic developer, is not only her logic, but her creativity and UI experience. She truly understand the way a user thinks and embraces that experience throughout her logic thus allowing her to make such great programs. On a side note. Kris has been the most motivating person that I have met throughout my time at turing. She’s always willing to help when you need and has the most positive vibe. I positive that Kris will be one of the best FullStack Developers that Turing has created and will have a successful career.
 
 
 #### A - End-of Module Assessment
