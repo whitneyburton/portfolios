@@ -129,6 +129,11 @@ Overall though, all's well that ends well and this project was my favorite one a
 ## Community
 
 * led Hamilton posse
+
+I didn't have a great experience with this posse. There wasn't much interest or commitment from the group, so it often felt like either I had to do everything or nothing would get done. This isn't in itself a problem, but our focus was React Native - a framework I didn't and don't really understand at all. As a result, besides working through a React Native tutorial and becoming slightly more familiar with the xcode developer suite of tools, I didn't achieve much.
+
+However, I did learn a lot about how to lead and organize a posse effectively. As a result, I think the clojure posse I'm starting next mod will be much more effective.
+
 * led Microposse 6, and regularly met with mod 1 students for pairing sessions
 * prework guide for Brendan Dillon
 * Lightning Talk - *Intro to Tech Employment Contracts*, May 20
