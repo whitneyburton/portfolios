@@ -97,4 +97,15 @@ E: Peer & Instructor Feedback: 3
 
 ### Notes
 
+Enjoyed taking time to really write clean code and meet personal goal. 
+
+Adrienne is always paying close attention, something Jeff always notices as an active participant and listener. Great as a student, but also something that peers notice. 
+
 ### Outcome
+
+- A: End-of-Module Assessment: N/A
+- B: Individual Work & Projects: 4
+- C: Group Work & Projects: 4
+- D: Community Participation: 3
+- E: Peer & Instructor Feedback: 3
+
