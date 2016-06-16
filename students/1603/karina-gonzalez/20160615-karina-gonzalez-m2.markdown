@@ -178,8 +178,16 @@ Poetry Blog Post: [Empathy](https://medium.com/@karinamzalez/empathy-2ff68769187
 
 ### Notes
 
-( Leave blanks for reviewers )
+- don't admit defeat
+- don't get behind in your work
+- challenge you to be more a little proactive than reactive.
+- solidify AR.
+- give people the 🍔 not just the 🍞
+- working on time management
+- You can do so much more!
+- people are willing to help.
+- you could grow in peer instructor feedback
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
