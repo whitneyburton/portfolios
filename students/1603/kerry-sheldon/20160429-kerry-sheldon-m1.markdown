@@ -177,4 +177,4 @@ Feedback to me (from Colin): Kerry was an amazing partner for Black Thursday. He
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
