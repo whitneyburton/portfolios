@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Brian Rippeto - M4 Portfolio
 
 ## Individual
 
@@ -43,7 +43,6 @@ __Score__
 ## Team
 
 ### Projects
-
 
 #### Helicopter Time
 
@@ -91,8 +90,8 @@ __Score__
 
 - SAB
 - Pairing with mod 3 students
-- Recruited on student who is starting this month in back-end program
-- Regular attendence
+- Recruited one student who is starting this month in back-end program
+- Regular attendance
 
 ## Review
 
@@ -106,8 +105,15 @@ __Score__
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED
+
+* **A: End-of-Module Assessment**: N/A
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
+
