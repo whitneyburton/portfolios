@@ -12,16 +12,44 @@ I also want to be available as a useful resources for my classmates and newer st
 
 ### End of Module Assessment
 
+* good single responsibility
+* testing is very good, although comments and extraneous tests should be removed
+* shouldn't be using a hash to send results to the view - better to have created a different object that had ivars that would hold the total results and list of store objects
+* overall good performance that shows solid understanding of topics taught in mod 3
+
 Category | Score
 --- | ---
-
-### Mid-Module Assessment
-
-Category | Score
---- | ---
-
+Ruby Style | 3
+Rails Syntax & API | 3
+Testing | 4
+Progression/Completion | 3
+Workflow | 4
 
 ### Work
+
+#### Home Validation
+* [Github] (https://github.com/theonlyrao/home_validation)
+* [Live] (https://home-validation.herokuapp.com/)
+
+This was a fun project. I had wanted to do something to combat the difficulties I had when trying to find a place to live in Denver for Turing. With this project I achieved at least a start to that.
+
+I was particularly proud of building a decent UX, as well as getting really comfortable with controller testing. As a result of these, I feel very confident about releasing this app into the wild.
+
+**Brenna evaluated this project with the following results:**
+
+* clean and professional UX
+* some methods are very complicated, but somewhat justified by the complex calculations and manipulations that are going on
+* good project overall
+
+Category | Score
+--- | ---
+Feature Completion | 4
+Organization | 4
+TDD | 4
+Code Quality | 3
+UX | 4
+Performance | 4
+
 
 #### Rails Engine
 * [Github](https://github.com/theonlyrao/sales_engine)
@@ -34,6 +62,11 @@ I also enjoyed setting up the external api. It felt very simple and uncomplicate
 
 **Josh evaluated this project with the following results:**
 
+* strong AR queries
+* good SRP
+* creative but very wrong implementation of method to parse api queries
+* strong project overall
+
 Category | Score
 --- | ---
 Feature Completion | 3 
@@ -41,27 +74,6 @@ TDD | 4
 Code Quality | 3
 API Design | 4
 Queries | 4
-
-#### API Curious
-* [Github](https://github.com/theonlyrao/cart_playground)
-
-For this project I used an API from a company called Ultracart. They provide shopping carts for ecommerce sites.
-
-The documentation was not particularly clear, and the examples were written in jQuery and AJAX. I had to translate these to Ruby for this product.
-
-My motivation for this project was to learn how this API worked because it is a tool that my ecommerce company uses. I achieved this goal to a great extent.
-
-I attribute the low score in the Completion category to being too ambitious in my initial goals for myself in this project and then failing to tell Nate that I needed to reduce the scope. I attribute the low score in the TDD category to the fact that I was having issues with VCR and didn't do enough to troubleshoot it before quitting. For UX, on the one hand, I thought I had achieved the necessary experience because the user could see a cart that presented itself. On the other hand, perhaps having exactly no css should always merit a failing score.
-
-**Nate evaluated this project with the following results:**
-
-Category | Score
---- | ---
-Completion | 2
-Organization | 3
-TDD | 1
-Code Quality | 4
-User Experience | 2
 
 #### Pivot
 * [Github](https://github.com/patrickwhardy/the_pivot)
@@ -123,6 +135,16 @@ Overall though, all's well that ends well and this project was my favorite one a
 * Panelist on prospective student informational sessions, May 31
 * Gear Up working group member
 * Student-Led Elective organizer - *Intro to Clojure*, June 10
+
+=======================================
+
+## Self-Scoring
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 4 
+* **E: Peer & Instructor Feedback**: 4
 
 =======================================
 
