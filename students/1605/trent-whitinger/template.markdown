@@ -127,6 +127,8 @@ Notes: all expected functionality works.
 
 >**From Tommasina:** During one emotional moment the night before a project due date, Trent gave me a pep talk that helped me get through my block. He also spent hours of a Friday afternoon re-working a project with me so that I could keep up. His self-deprecating jokes often belie his true studiousness and natural coding skills--in any case, I'm grateful for his help and his sense of humor that have brightened many work hours for me!
 
+>**from Lane Winham:** Trent was a great partner to work with during our pairing on HTTP. I think we hit the ground running in terms of team cohesion, we rapidly  found our strengths and worked with them. He was always willing to try out new ideas or approaches to the issues at hand.  I believe Trent will do well in this environment!
+
 ## Community
 
 ### Giving Feedback
@@ -144,7 +146,7 @@ Notes: all expected functionality works.
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **C: Group Work & Projects**: 4
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
