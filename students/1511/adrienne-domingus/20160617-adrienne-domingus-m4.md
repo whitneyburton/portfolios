@@ -80,3 +80,15 @@ N/A
 * Supported Brin posse leaders in building the app and planning for future modules
 * Exercism OpenSource contributions: improvement to API endpoint merged last module, started broader work with Erinna via recommendations from Katrina
 * TA for Try Turing weekend
+
+## Review
+
+A: End-of-Module Assessment: N/A
+B: Individual Work & Projects: 4
+C: Group Work & Projects: 4
+D: Community Participation: 3
+E: Peer & Instructor Feedback: 3
+
+### Notes
+
+### Outcome
