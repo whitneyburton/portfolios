@@ -215,8 +215,13 @@ You mentioned your ’stifling assertiveness’, which is a double-edged sword; 
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Wanting to learn SQL/AR better  
+- Pursue new things!
+- Really strong and willing to help others.
+- Efficient with time.
+- Feels like she had space to be creative.
+- Community participation is great.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
