@@ -2,54 +2,35 @@
 
 ## Individual
 
-## A: End-of-Module Assessment
-
-A Turing student is able to demonstrate proficiency at programming in accordance
-with the module's content and expectations. If you were exempt from the assessment it's a *3*.
-
-* 4: Student achieved two or more "4s" on the assessment
-
-## B: Individual Work & Projects
-
-A Turing student works to maximize their skill growth and demonstrates
-that skill across a variety of work.
-
-* 3: Student demonstrates commitment and growth in their work through satisfactory
-evaluations of each project or a clearly upward-sloping trend.
-
-## C: Group Work & Projects
-
-A Turing student contributes significantly to group projects, helps the team
-develop their technical skills, and delivers a high-quality product.
-
-* 3: Student fully participates in their group work to facilitate group harmony
-while achieving consistently satisfactory results.
-
-## D: Community Participation
-
-A Turing student builds up the community around them by participating and
-supporting other students, the larger Turing family, and persons outside our
-walls who want to develop their own skills.
-
-* 4: Student has a significant positive impact on the learning and spirit of the
-people around them.
-
-## E: Peer & Instructor Feedback
-
-A Turing student accelerates the growth of those around
-them by delivering specific, kind, and actionable feedback. They accelerate their
-own growth by taking in and acting on the feedback of their peers and instructors.
-
-* 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback.
-
 ### Areas of Emphasis
 
 I set out to complete every project and to receive at least a score of 3 in every category on every project. I scheduled mentoring sessions almost every morning and afternoon in order to ensure I had support on a daily basis. I focused on exercising the fundamentals of Ruby. I committed to develop my programming skills and problem solving abilities using test driven development. I worked to approach each task at the smallest, most fundamental level and to build algorithms incrementally to complete the larger tasks and projects.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+#### 1. Ruby Syntax & API
+
+* 4: Developer is able to write Ruby with a minimum of reference or debugging
+
+#### 2. Completion and Progress
+
+* 4: Developer fully completes baseline assignment and one of the Challenge options.
+
+#### 3. Testing
+
+* 4: Developer excels at taking small steps and using the tests for both design and verification
+
+#### 4. Workflow
+
+* 4: Developer is a master of their tools, efficiently moving between phases of development
+
+#### 5. Collaboration
+
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+### 6. Enumerable & Collections
+
+* 4: Application consistently makes use of the best-choice Enumerable methods
 
 ### Work
 
@@ -142,28 +123,54 @@ Starting with the CSV data we will:
 
 Paired with: Matt Campbell
 
+Assessed by: Mike
+
 Notes:
-(Add notes)
+* 33 seconds to run tests,
+* 84 tests, 143 assertions, 98.16 coverage
+* Look to use instance variable instead of exposing the entire hash to the outside
+* Extensive use of modules, to separate code, but needs to take it to the next level, some classes are a wee bit too long.
+* Some repetition of code especially with FILE IO stuff.
+* The each pattern where shoveling into a collection instead of using map
+* Iteration six
 
 Scores:
 
-(Add scores)
+* 3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+* 3: Application shows strong effort towards organization, content, and refactoring
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+* 4: Zero complaints
 
-(Add feedback to me)
+“Kris is a great teammate who’s ability to feel out the atmosphere in any given moment is a great benefit to keeping the project moving forward at a meaningful pace.  He’s got a great mind for overseeing the big picture while simultaneously being able to dig into the details of the task at hand.  These two skills combined with his overall calming and fun demeanor made our pairing the most fun I’ve had yet at Turing.  He has a great ability to keep the mood light while either pushing me when necessary or reigning me in when I am off in my own world throwing TDD to the wind.  I think later at Turing or in his career he will make a great project lead and will be very beneficial resource to learn from during group projects." -Matt Campbell
+
+### Soft Skills / Protocol Requirements
+
+* [README Example](https://github.com/kbs5280/http)
+* [DTR Example](https://github.com/matthewecampbell/headcount/blob/master/DTR.md)
 
 ## Community
 
 ### Giving Feedback
 
-I continue to believe that the single greatest resource and asset at Turing is the student community. The willingness of other students to offer advice and spend their own time helping mentor and teach other students is remarkable.
+To Sonia: "Sonia has shown a strong commitment to the program and the community since day one.  She leads our cohort through the SAB and is always willing to facilitate group discussions and activities. She takes a personal interest in other students and values their success. During this module Sonia has grown monumentally in her abililty to write code and complete projects. She is an asset to Turing and the student body."
+
+To Matt: “Matt is an excellent person who’s desire and willingness to work as a team and contribute is evident in every step of the project. He is enthusiastic and encouraging. He is  always will to work hard, but also willing to share responsibilities and listen to ideas.  He will do very well at Turing and I’m looking forward to working with him in the future.”
+
+To Garrett: "Kris was a great partner during the project. Despite a disparity in our understanding of the concepts involved (Kris was very knowledgable, whereas I was still struggling to wrap my head around things), Kris was willing to adapt to my speed, and was patient enough to let me try out my ideas even if he knew they wouldn’t work, so that I could get a better understanding. He worked hard throughout and contributed heavily, ensuring that we completed the project successfully and on time.”
 
 ### Being a Community Member
 
 "Seeing Kris grow this module has been awesome. His knowledge and conceptual understanding has improved so much and it seems to (finally) genuinely excite him. I have also enjoyed having Kris join the Impostors group on a regular basis. His contributions are always appreciated and next module he will be able to help others who aren’t feeling as strong." -Ilana Corson
 
+"I have had a chance to get to know Kris over the course of the last two modules. His work ethic, drive, and commitment to the task are remarkable. He is frequently among the first to arrive at school, and among the last to leave. I have witnessed him overcome struggles that he previously thought insurmountable, and am inspired by his willingness to expand his comfort zone. He has taught me about patience, kindness, and putting your nose to the grindstone when the task needs to get done. He does not complain, and he often checks in with me, and with others, to see how things are going. He is an asset to the Turing community and I am excited to see what he will accomplish in the future." -Sonia Gupta
+
+"Kris never fails to ask how I'm doing if he notices me stuck on something, a kindness which I greatly appreciate. For example, although he had already finished his work, Kris stayed and helped me with my Flashcards project until late in the night when I finally finished. He asked me questions to get me thinking about the next steps and was patient with my learning process. His smiling presence at Turing cheers me on." -Tomasinna Miller
+
 ### Playing a Part
 
-I've been an active participant in the Hopper Posse for 2 modules. I have contributed by helping other's in the posse with their projects. I have also been the recipient of a lot of help within the posse. Additionally, I have been an active participant in most of the community activities.
+I have been an active participant in the Hopper Posse for 2 modules. I have contributed by helping others in the posse with their projects. I have also been the recipient of help within the posse. Additionally, I have been an active participant in most of the community activities.
 
 Every morning I make coffee and/or clean-up the kitchen area and big workspace beyond our assigned responsibilities. I actively seek opportunities to connect with other students, both soliciting and offering help. I spent countless hours before and after school helping Mod 1 students with exercises and projects.
 
@@ -171,11 +178,11 @@ Every morning I make coffee and/or clean-up the kitchen area and big workspace b
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3.5
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
