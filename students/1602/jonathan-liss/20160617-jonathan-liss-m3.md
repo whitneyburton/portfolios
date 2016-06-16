@@ -118,6 +118,11 @@ From Ling:
 * Starting up McCarthy Posse with Ling and Ashwin for next mod.  Focusing on Clojure, functional programming and Emacs
 
 
+## End of Mod Assessment
+
+* if i recall it was all 4's so there's not really much to see here.
+
+
 ## Review
 
 ### Rubric Scores
