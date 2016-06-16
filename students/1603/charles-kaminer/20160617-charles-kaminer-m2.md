@@ -201,8 +201,13 @@ E: Peer & Instructor Feedback: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Was excited to learn about rails
+- Hated TDD. Now he doesn't feel like he can write a rails app without TDD
+- TDD entire mini project
+- Feels like there are opportunity for creativity with rails mini project.
+- Styling is frustrating.
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
