@@ -172,24 +172,35 @@ _Breaking Logic into Components_<br>
 Headcount involved reading, storing, and analyzing a large set of public data regarding student and school performance and outcomes in the state of Colorado. Through the creation of repositories, data was aggregated and stored in appropriate repositories, ultimately available via a District repository and individual District objects. A number of methods are available to compare across districts and statewide data, drawing conclusions based on averages.
 
 **Evaluation Comments:**<br>
-*
+*  Completed required iterations and iteration 5 for spec harness woooo
+* Overall very clean code that aims for conciseness and is relatively readable
+* Doing pretty well at pulling logic into the smaller objects in the system -- however
+we could still do more of that
+* so far doing some formatting and presence-checking on e.g. StatewideTest, Enrollment, EconProfile
+* Those are great but these classes can also shoulder some of the weight for actual calculations as well
+* tend to end up with headcount analyst doing: 1) data acquisition and aggregation 2) data validation and formatting,
+3) actual calculations
+* We could get this to be just #3 and maybe a bit of #1
+* Enums are overall pretty solid -- main theme here is looking at separating complex processes into multiple steps
+that each leverage a dedicated enum technique (rather than cramming various logic into one pass)
 
 **Evaluation Scores:**<br>
 _Functional Expectations_<br>
-
+​**3**: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6<br><br>
 _Test-Drive Development_<br>
-
+ **3**: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality<br><br>
 _Encapsulation / Breaking Logic into Components_<br>
-
+**3**: Application effectively breaks logical components apart but breaks the principle of SRP<br><br>
 _Fundamental Ruby & Style_<br>
-
+**4**:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring<br><br>
 _Enumerable & Collections_<br>
-
+**3**: Application demonstrates comfortable use of appropriate Enumerable methods<br><br>
 _Code Sanitation_<br>
+**4**: Zero complaints
 
 
 **Feedback to Me:**<br>
-*
+* N/A
 
 
 ## Community
