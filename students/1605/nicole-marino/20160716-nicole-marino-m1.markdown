@@ -2,6 +2,8 @@
 
 ## Individual
 
+
+
 ### Areas of Emphasis
 
 
@@ -199,6 +201,9 @@ I4 & I5 working
 when initializing an object, don't have any other side effects; use a method for that
 
 
+##ReadMe file: https://github.com/NicoleKMarino/Mastermind/blob/master/README.md
+
+
 ###Scores:
 
 Overall Functionality
@@ -238,11 +243,34 @@ Breaking Logic into Components
 
 ### Giving Feedback
 
-(feedback from me)
+Personal Scores:
+
+2: Student earned one score below "3" on the assessment
+
+I got a two on workflow, but I've set goals to improve my workflow and mechanics. 
+
+3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+
+One area that I wanted to focus on was testing. For JungleBeats, most of the notes were centered around my poorly labeled tests. The next project I scored a 4 on testing. I think this shows an accurate upward slope.
+
+3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
+
+One of my partners provided feedback that I believe represents my ability to work as a team on a project. 
+
+3:Student participates in required activities and does at least one or two above-and-beyond supports of the community.
+
+I was consistant with my duties as a turing student, but I also helped Sonia with cleaning out the fridge, and I did one-on-one meetings with other 1605 students to help on iterartions of projects I had already completed. 
+
+
+3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+
+Halfway through headcount I recieved feedback that I was taking too much control over the project. I believe that since that feedback was given, I let go of some of my control freak tendencies. I also provided feedback for my last partners portfolio. 
+
+
 
 ### Being a Community Member
 
-"Nicole is a fantastic person to have in Turing. She was always willing to help when I had questions and made sure that I understood what was going on before she left.  She understands what is going on and is able to effectively to communicate her ideas whenever she is asked.  I think that Nicole is a good addition to Turing and will progress nicely though the remaining mods." -Ben Pepper 
+"Nicole is a great person to have in Turing. She was always willing to help when I had questions and made sure that I understood what was going on before she left.  She understands what is going on and is able to effectively to communicate her ideas whenever she is asked.  I think that Nicole is a good addition to Turing and will progress nicely though the remaining mods." -Ben Pepper 
 
 Feedback from Chris - HTTP-YYKM:
 
@@ -255,10 +283,9 @@ Our approach of you forging ahead on the next new item, while I refactored and t
 Finally, it was nice working with you because you kept a pleasant attitude even during stressful times. You're talkative, I'm quiet, you tend to bring up jokes and asides, while I'm more serious... it worked out well. Our communication was great throughout the project. Thank you!"
 
 
-
 ### Playing a Part
 * Cleaned Every Friday
-* Always tried to pick up dishes and other miscalleneos things around turing to upkeep the general cleanliness of Turing.
+* Always tried to pick up dishes and other miscellaneous things around turing to upkeep the general cleanliness of Turing.
 * Always tried to help my fellow students when possible.
 * Contributed insightful points during gear up to move the coversation along.
 
