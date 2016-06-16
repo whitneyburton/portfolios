@@ -4,11 +4,22 @@
 
 ### Areas of Emphasis
 
-During this module, I hoped to really grasp object oriented programming, logic, and Ruby. I wanted to learn the importance of Test Driven Development and how it can lead you to write code that is easily readable and practical. Honestly, at the beginning of the module, I didn't know what I didn't know, so my main goal was to just soak up everything that I could. As the module went on, my goals became more specific. Some of those goals were to strive to have code that is DRY, continually ask myself if I am applying SRP, thoroughly understand Objects and their attributes, and get better at spotting opportunities for meaningful refactoring. Having these things on my radar was a huge help during my projects. I am amazed at how much I have learned and accomplished this mod! Things that seemed impossible in the beginning seem so attainable now.
+During this module, I hoped to really grasp object oriented programming, logic, and Ruby. I wanted to learn the importance of Test Driven Development and how it can lead you to write code that is easily readable and practical. Honestly, at the beginning of the module, I didn't know what I didn't know, so my main goal was to just soak up everything that I could. As the module went on, my goals became more specific. Some of those goals were to strive to have code that is DRY, continually ask myself if I am applying SRP, thoroughly understand Objects and their attributes, and get better at spotting opportunities for meaningful refactoring. Having these things on my radar was a huge help during my projects. I am amazed at how much I have learned and accomplished this mod! Things that seemed impossible have become attainable.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+**Feedback from Beth**
+​- Syntax: overelied on if statements, used if @stock.keys.include?(item) instead of simply if @stock[item], able to address errors and issues easily, often had multiple solutions to an issue
+- Testing: Read errors closely, some jumping ahead, generated tests with ease, used to drive development
+- Workflow: smooth/fast navigation, typing speed, test setup
+- Collaboration: Asks questions, defines approach, then calibrates
+
+* Ruby Syntax & API: 3
+* Completion and Progress: 4
+* Testing: 4
+* Workflow: 4
+* Collaboration: 4
+* Enumberable & Collections: 4
 
 ### Work
 
@@ -54,7 +65,7 @@ This project translated latin characters to Braille-like text and vice versa. It
 
 Working in a pair, I completed the following projects this module:
 
-#### (Project Name)
+#### HTTP Yeah You Know Me
 
 * [GitHub URL](https://github.com/allindow/http-project)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
@@ -72,6 +83,26 @@ We built a functioning server that responded to Get and Post requests via Postma
 * Fundamental Ruby & Style: 3
 * Test-Drive Development: 3
 * Breaking Logic into Components: 3
+
+#### Headcount
+
+* [GitHub URL](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+* [Original Assignment](https://github.com/allindow/headcount)
+
+Using data about schools in Colorado provided by the Annie E. Casey foundation, we built code that allowed us to analyze data and pull correlations for districts across the state. It included three layers: data access, relationships and analysis. The Data Access Layer allowed us to ask questions about the raw data. The Relationships Layer allowed us to compare the data of one district to another, or statewide. The Analysis Layer allowed us to see if there were any correlations that could be made given a set of data.
+
+**Feedback from Mike**
+* All functionality works
+* 35 tests
+* Generally good tests, make sure you test for different        cases, and for possible edge cases.
+* Generally well written code, there are some opportunities to refactor complex conditionals and longer conditional branches.
+* Opportunity to refactor messages out into a module, look at how you can reduce reliance on instance variables
+
+* Overall Functionality: 3
+* Fundamental Ruby & Style: 3
+* Test-Drive Development: 3
+* Breaking Logic into Components: 3
+
 
 ### Feedback to Me
 
@@ -92,33 +123,21 @@ We built a functioning server that responded to Get and Post requests via Postma
 ## Softskills/Protocol
 
 ## DTR Memo
-  These are notes from Tommasina and my DTR meeting before we began Headcount.
+* [DTR Gist] (https://gist.github.com/allindow/25eb4bd1f54f5e6fab7d6e1e270618fb)
 
--Learning goals for the project: T wants to sticking with TDD, even when we don't know what we're looking for, A too; A's goal getting comfortable with parsing through CSV
--Collaboration styles: divide and conquering, one person do merge and pull requests,
--Communication preferences: Angela is comfortable with anything, slack, last projects used screenhero, talked on the phone
--Work style: T likes to work slowly and methodically, have to understand. Angela is about efficiency, doesn't have a lot of time to not be efficient, thinks about it when doing other things,
--Last project: worked well: worked efficiently with Y, they weren't at Turing as much as others, but still got work done. split up when a concept that neither one knew what was going on, which helped (but not necessary for that project), what went poorly: time sucks with a concept that we weren't taught about and took a long time to figure out, tried to figure out why headers weren't working, frustrating to spend so much time on one problem -For best work: needs clarity about what's going on, when we're working, what we're working on,
--Scheduling restraints- T wants to be in bed by 10, A can't stay every late every day, but could stay up to 6 every day except Thursday, could screenhero around 7:30 and could be available most of the night,
-- read through all files, CSV files, sketch an idea out of how classes are working, to feel like I understand the spec
+## Project README
+* [NightWriter Readme Gist] (https://gist.github.com/allindow/3d80c5d6730f3fc6d2df797be234d412)
 
--Schedule: tomorrow plan on staying until 6 and then Wednesday, we have to see, Thursday screenhero 7:30, Saturday the rest of the day could work, Sunday could do screenhero in late afternoon,
-
--What holds you back from feedback? A can give feedback no problem, T nervous about holding us up,
--What are your strengths? A good at implementing ideas, can figure out a way to do it, good googler, T motivated
-
--What could use improvement? T wants to be more confident at coding, keeping our current goal in mind, A to encourage her to say it aloud; for A, she wants to remember to keep things to a single responsibility, to help, T could use triple checker attitude to remind us to refactor into multiple methods
-- We'll try using trello to manage our responsibilities
 
 ## Review
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
