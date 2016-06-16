@@ -42,6 +42,8 @@ I intially got 40 points, then completed more functionality for 90 points.
 
 [Github Repo](https://github.com/brennanholtzclaw/game_time)
 
+[Production](brennanholtzclaw.github.io/game_time)
+
 [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
 [Gist](https://github.com/turingschool/ruby-submissions/tree/master/1511/module_4_assignments/gametime/puts-puts)
