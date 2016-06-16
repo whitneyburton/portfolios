@@ -156,7 +156,7 @@ Pahlka Posse member -
 
 Tutoring - Paired with a 1605 students every time that it was organized by Brain. Also did some extra pairing with Pahlka and fellow headcounters.
 
-Technical Blog Post: Coding up a simple Mandlebrot Set.(to be continued)
+Technical Blog Post: Coding up a simple Mandlebrot Set.(Uses Recursion, to be continued)
 
 Poetry Blog Post: [Empathy](https://medium.com/@karinamzalez/empathy-2ff68769187b#.339w8vepq)
 
