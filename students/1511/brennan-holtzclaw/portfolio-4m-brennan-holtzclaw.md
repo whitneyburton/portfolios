@@ -170,7 +170,20 @@ In the end, I would like to congratulate Brennan on completing Module 4 and grad
 
 ### Notes
 
-( Leave blanks for reviewers - That's YOU! )
+Podcast is a damn good thing... 
+
+Could use your feedback on asking good questions. 
 
 ### Outcome
 [Turing is over... I don't know how to feel about this.](http://giphy.com/gifs/dancing-baby-weird-A3PG6GRxtCU9O)
+
+### Rubric Scores
+
+GRADUATED!
+
+* **A: End-of-Module Assessment**: N/A
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 4
+* **E: Peer & Instructor Feedback**: 3
+
