@@ -1,17 +1,3 @@
-Evaluation notes - You need to take notes during assessments/evaluations
-Blog post (>=1)
-Self-solicited continual peer feedback
-If you're in a posse - please include:
-
-a blurb about what you did with your posse over the module
-your favorite thing about the posse experience
-how has your posse experience helped you grow as a professional?
-Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master
-
-Peer evaluated projects: Rails Mini Project
-Evaluated projects: Traffic Spy, Little Shop
-Assessments: mid-module, final
-
 # Jenny Soden - M2 Portfolio
 
 ## Individual
@@ -40,8 +26,6 @@ Notes:
 * No really terrible "I can't believe you don't know this" moments.
 
 ### End of Module Assessment
-
-## Evaluation Criteria
 
 Evaluator: Andrew
 
@@ -81,24 +65,39 @@ Subjective evaluation will be made on your work/process according to the followi
 ### Work
 
 This module I worked on the following projects:
+
+#### Mix Master
 * [Mix Master](https://github.com/MsJennyGiraffe/mix_master)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
 
 Rails app where you can create artists, songs and playlists in a database and link them together!
+
+#### Blogger
 
 * [Blogger](https://github.com/MsJennyGiraffe/blogger)
 * [Original Assignment](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
 Follows a tutorial to make a blog site.
 
+#### Tool Chest
+
 * [Tool Chest](https://github.com/MsJennyGiraffe/tool-chest)
 
 Put all your tools in the tool chest! Visit back to implement new features gone over in class.
 
-* [Robot World](https://github.com/MsJennyGiraffe/robot_world)
+#### Robot World
+
+* [Github](https://github.com/MsJennyGiraffe/robot_world)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
 
 Use Sinatra to generate robots, collect robots, anything you want with robots, this is for you!
+
+#### Gif Generator
+
+* [GitHub URL](https://github.com/MsJennyGiraffe/gif_generator)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+
+(description)
 
 ## Team
 
@@ -166,16 +165,62 @@ Assessed By: Jeff
 
 #### Little Shop
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/ColinOsborn/general_store)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-(description)
+Make a little shop
 
-(evaluation comments)
+* Customer Workflow:
+  * styling/ux solid
+  * add to cart goes to the cart
+  * remove from cart works
+  * not found search looks good
+  * proper search works well
+  * cart adjustments and subtotals all work
+  * placed order goes to reservation page
+  * reserve the order with time
+  * pickup times are exclusive
+* Admin:
+  * can view orders
+  * can change the status of orders
+  * can create a product
+  * probably missing the edit functionality
+* Testing
+  * 81 pass, 0 fail
+* Organization
+  * 59+ PRs
+  * Good looking Trello
+  * lots of feature branches
 
-(evaluation scores)
-
-(feedback to me)
+## Evaluation Process
+​
+### 1. Feature Completeness
+​
+* 3: All features defined in the assignment are correctly implemented
+​
+### 2. Views
+​
+* 3: Views make use of layout(s), partials and helpers, but some logic leaks through
+​
+### 3. Controllers
+​
+* 3: Controllers are generally well organized with three or fewer particularly ugly parts
+​
+### 4. Models
+​
+* 4: Models show excellent organization, refactoring, and appropriate use of Rails features
+​
+### 5. Testing
+​
+* 4: Project has a running test suite that exercises the application at multiple levels
+​
+### 6. Usability
+​
+* 3: Project is highly usable, but needs more polish before it'd be customer-ready
+​
+### 7. Workflow
+​
+* 3: Good use of branches, pull requests, and a project-management tool.
 
 ## Community
 
@@ -189,6 +234,12 @@ Robbie, you incredibly intelligent and thoughtful. You are diligent about unders
 
 ###### Ben Peppers
 Ben, I truly believe you just need a tiny bit more time and more confidence in yourself, and your abilities. The way you “do what you need to do”, so matter-of-factly is astounding. Remember you chose this, staying at Turing, rather than just leaving which does show determination and dedication, because you don’t need to do this. But you want to. You have always been willing to ask for help, which is an astoundingly rare quality. You are able to implement things while simply talking about concepts which proves understanding, and I believe you can do anything you put your mind to. You’re an incredibly kind person, and able to put in the work necessary to succeed. I believe you’re going to do great things, and the extra mod will give you the time to gain the confidence you need to succeed. I know you’ll kick ass next mod. Keep optimistic.
+
+###### Colin Osborn
+Colin, you are so easy to work with. You have a laid back attitude which I think is often perceived as not caring, or not able to do work, which I know isn’t true after working with you. I think we have a similar attitude of “just try it” and seeing things through code and working through the problems that arise. I really wish you would be more sure of yourself. You’re a smart guy, and after pairing with you, it seemed like you didn’t really want to touch the keyboard, but after I left and came back there was code written. Know that you’re smart, you can do this, and be more assertive with what you want to do. I think you’ll really benefit from the week off. Come back recharged and rearing to go, and I know nothing will stop you from being a great developer. You have it in you.
+
+###### Brian Sayler
+Brian, you are an incredibly thoughtful developer. Sometimes too thoughtful. I think sometimes it can hinder progress. It’s good to be analytical but sometimes I felt that you were so deep in your own head, you didn’t listen to input Colin and I had to offer. I think it might be good for you to write more things out to narrow down on a problem and focus on one thing at a time. I can see your mind running often, taking too much into consideration. While coding, you often get distracted by a lot of little things, when you should finish the task at hand and then go back to fix smaller issues. While looking ahead can be important, so can getting to it as it arises. When I do see you code, you’re good. You have good instinct and code quality. I think module three will be good for you. Get more practice so you know what’s important, where you should be looking to, and then the benefit of thoughtfulness will arise. Your voice is important, but so are others. Be willing to try things, code is free. Gain confidence in yourself, and in those around you.
 
 ### Being a Community Member
 
@@ -204,6 +255,13 @@ Jenny is a rockstar when it comes to support and encouragement. She meets with m
 ###### Ben Peppers
 Jenny’s enthusiasm is unmatched.  She was the first person I paired with in Turing for help on Flashcards and she was amazing.  She may not always have the answer but is more then willing to talk things through with me, try a few things and help me come to a conclusion that works.  Jenny definitely knows whats she's doing and her positivity is very much welcomed when I was freaking out about projects or Turing in general.  She is a great person to know at Turing and I have no doubt she will represent the best of what Turing is when she graduates.
 
+###### Colin Osborn
+
+I really enjoyed working with Jenny. After two Modules together already, I never actually worked with her on a project and so it was a lot of fun finally getting a chance to collaborate on something. I really did learn a lot from her and enjoyed seeing her process and approach to problems. I think sometimes Jenny doesn't give herself enough credit on problems or certain things and I think that can hold her or the group back at times. But I also feel like as time went on with a little support she saw that she has a lot to offer and started asserting herself more and feeling more comfortable in that role. At times I think she worries about being bossy, but it never came across as that and usually her input was exactly what we needed. Thanks Jenny!
+
+###### Brian Sayler
+I enjoyed working with Jenny during Little Shop, our first large project using Rails. While the project challenged our ability to divide-and-conquer, I really enjoyed the moments in the project where Jenny and I effectively worked together.  In particular, she helped me focus when solving problems, especially when I get distracted with trying to implement small improvements. I encourage Jenny to be seek out opportunities to collaborate going forward, and to continue to bring good ideas to the problem-solving process, especially in the beginning of a project.  I also appreciate how Jenny would remind me to ask for help when I needed it, which is something I've been working on during Module 2.  Jenny's upbeat personality was welcome during Little Shop, and I suggest she continues to bring positive energy to her team during future projects.
+
 ### Playing a Part
 
 This module I paired with module one students by signing up on the 1603-1605 pairing schedule for four weeks. I also had a regular pairing session with one module one student every Wednesday.
@@ -211,9 +269,40 @@ I also organized a board game night. I enjoyed it so much that I made a slack ch
 
 ### Blog Post
 
-* [Blog](https://gist.github.com/MsJennyGiraffe/a9d2f49c2b471b2b7fb620393db59431)
+ [Blog](https://gist.github.com/MsJennyGiraffe/a9d2f49c2b471b2b7fb620393db59431)
 
+# A: End-of-Module Assessment
 
+ A Turing student is able to demonstrate proficiency at programming in accordance with the module's content and expectations. If you were exempt from the assessment it's a *3*.
+
+ * 4: Student achieved two or more "4"s on the assessment
+
+## B: Individual Work & Projects
+
+ A Turing student works to maximize their skill growth and demonstrates
+ that skill across a variety of work.
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team develop their technical skills, and delivers a high-quality product.
+
+* 3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and supporting other students, the larger Turing family, and persons outside our walls who want to develop their own skills.
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
 ## Review
 
