@@ -67,3 +67,16 @@ This module, I wanted to really dive deep into JavaScript and learn a badass fra
 * C: Group Work & Projects: 3
 * D: Community Participation: 3
 * E: Peer & Instructor Feedback: 3.5
+
+
+## Notes
+
+Good, solid, rumbling along work across the board. Good part of the community across the board. Agree with Julian's feedback.
+
+## Outcomes
+
+* A: End-of-Module Assessment: N/A
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 3
+* E: Peer & Instructor Feedback: 3
