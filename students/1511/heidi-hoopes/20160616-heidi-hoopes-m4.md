@@ -126,11 +126,11 @@ I have really enjoyed getting to know Heidi. Not only is she an extremely talent
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 4
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
