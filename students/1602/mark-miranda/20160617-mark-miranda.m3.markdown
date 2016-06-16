@@ -12,176 +12,187 @@ I would also like to become a staple in the Turing community. A person that earl
 ---
 ### End of Module Assessment
 
-Assessed by:
+Assessed by: Nate
 
 ### Notes
 
-* notes go here
+* Good use of VCR in your feature tests, but...
+* You committed your cassettes, and thus your API key
+* Tests map very well to user stories. Good coverage and good value, but...
+* No service test
+* Good use of strong params, but...
+* Could use `require` to be more railsy. Not that we asked for it.
+* Service logic is very well laid out
+* Clear model PORO. I get why you called it `Result`, but I'd prefer a more descriptive name.
+* Thin controller using only models, but...
+* Could move hours logic somewhere else, like the model, a helper or a presenter
+
+| Category | Score |
+| --- | --- |
+| Ruby Style | 4 |
+| Rails Syntax & API | 3 |
+| Testing | 3 |
+| Progression/Completion | 4 |
+| Workflow | 4 |
 
 
-
----
-
-### Mid Module Diagnostic
-
-Evaluator:
-
-
----
-### Attendance
-Attendance goes here.
 
 ---
 
 ## Evaluated Projects
 
 I completed the following evaluated projects this module:
+## Self Directed Project - Passport Helper
 
-## Project 1
+* [GitHub URL](https://github.com/notmarkmiranda/passport-helper)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
 
-* [GitHub URL](https://github.com/kristindiannefoss/little_shop)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+This was a 2 week self-directed project where we were had to bring it all together. We were expected to consume an external API, use an external OAuth, and implement a quality user interface.
 
-Project description goes here.
+For the evaluation we'll work through the expectations above and look at the following criteria:
 
-### Evaluation Process
-
-For the evaluation we'll work through the expectations above and look at the
-following criteria:
+Notes:
 
 
+| Category | Score |
+| --- | --- |
+| **Feature Delivery** | |
+| Completion | 4 |
+| Organization | 4 |
+| **Technical Quality** | |
+| Test-Driven Development | 4 |
+| Code Quality | 3 |
+| **Product Experience** | |
+| User Experience | 4 |
+| Performance | 4 |
 
-## Project 2
-
-* [GitHub URL](https://github.com/drew-t/rush-hour)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
-
-Project description goes here.
-
-### Evaluation Process
-
-For the evaluation we'll work through the expectations above and look at the
-following criteria:
 
 
 ---
-## Non-Evaluated Work
+## Rails Engine
 
-## Rails Mini Project
+* [GitHub URL](https://github.com/notmarkmiranda/rails-engine)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/b81770c004ff6003a14428d30c8f5061fb817d73/ruby_03-professional_rails_applications/rails_engine.md)
 
-* [GitHub URL](https://github.com/notmarkmiranda/rails-mini-project)
+This was a project that was assigned over four days in Week 4 of Module 3 at the Turing School. The goals of this project was to provide an API built in Rails and test an internal API. Additional features are implementation of more custom ActiveRecord queries and calculations. TDD utilized request tests implemented in RSpec.
 
-This was a 4 day project that set us up to be in a good place to start Little Shop. I learned a lot based on repetition of concepts we had learned in class, but utilized very little in practice.
+For the evaluation we'll work through the expectations above and look at the following criteria:
 
-## MixMaster
-
-* [Github URL](https://github.com/notmarkmiranda/mix_master)
-
-MixMaster was a great project to help bring a lot of rails concepts together. It was great exposure to deloying to Heroku and using RSpec.
+Notes: - great use of AR - could move some repeated code into application contoller (respond to) - Test were good. Some test could be a little more explicit. Overall great coverage
 
 
-## Tool Chest
+| Category | Score |
+| --- | --- |
+| **Feature Delivery** | |
+| Completion | 3 |
+| **Technical Quality** | |
+| Test-Driven Development | 4 |
+| Code Quality | 4 |
+| API Design | 3 |
+| Queries | 4 |
 
-* [Github URL](https://github.com/notmarkmiranda/tool_chest)
 
-This was a project in rails that taught us CRUD functionality as well as user authentication and authorization. I found this really helpful going into little shop.
 
-## Robot World
+---
+## The Pivot
 
-* [GitHub URL](https://github.com/notmarkmiranda/robot_world)
+* [GitHub URL](https://github.com/notmarkmiranda/pivot)
+* [Live Version](http://thrive-lending.herokuapp.com)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
-This was a Sinatra CRUD project that introduced us to basics of the model view controller and emphasized SRP.
+Your Little Shop of Orders application was almost great, but it turns out that we need to pivot the business model. In this project, you'll build upon an existing implementation of Little Shop. You will transform your restaurant ordering site into a platform that handles multiple, simultaneous businesses. Each business will have their own name, unique URL pattern, items, orders, and administrators.
 
-___
+For the evaluation we'll work through the expectations above and look at the following criteria:
+
+ Notes: Good use of presenter. Overall solid project. While there is a 2 for testing it's not a "failing" project. Some oversight on the use of Simplecov by not passing the "rails" parameter.
+
+| Category | Score |
+| --- | --- |
+| **Feature Delivery** |
+| Completion | 4 |
+| Organization | 4 |
+| Git Workflow | 3 |
+| **Technical Quality** | |
+| Test-Driven Development | 2 |
+| Code Quality | 3 |
+| **Product Experience** | |
+| User Experience | 3+ |
+| **Risk Taking & Creativity** | |
+| Extensions | 4 |
+
+
+
+---
+
 ## Community
 
 ### Giving Feedback
 
 
->**To Drew Thompson:** Charmander has great leadership abilities and helped keep us focused the milestones we needed to hit. He has a great grasp on the concepts as we learn them and the ability to implement them. He also made sure we understood the concepts and the overall picture as well as importance of what we were doing and spending our time. I hope to be paired with Charmander on a project in the future.
+>**To Kami Boers:** This is easily the best group I've been a part of. I don't think I had to worry once about what you were doing and if you were going to get it done. You were strong in your development while still being able to see the big picture. The only criticism I have was getting stuck in the rabbit hole of resetting a password on the final day when we were trying to push to heroku. I don't know if that's even a real criticism because it did get done, just not in the timebox you had set for yourself. You're easygoing and a pleasure to work with. Communication was great and never an issue. 10/10 would work with again.
 
->**To Ling Tran:** Bulbasaur is very focused on writing tests and having it drive the development of our code. She's very focused on details without losing focus on the goals to achieve certain functionality. Bulbasaur writes extremely clean and well-formatted code. She's very easy to work with and a great part of any group. She also sings a lot and brings snacks. I hope to be paired with Bulbasaur on a project in the future.
+>**To Thom Pickett:** This is easily the best group I've been a part of. You were able to get features done with great quality code, as well as keep an eye on the edge cases, bugs, and holes we were creating with new features. My criticism is there were times when new functionality would come into the project without testing that eventually broke old functionality. You were however quick to fix those bugs when we found them. You also were great at picking up any tasks we could tack on or that came up randomly. Communication was great and never an issue. 10/10 would work with again.
 
->**To Kriss Foss:** Kris is a great addition to any team. She has creativity and knowledge past her own beliefs. She creates great code and has a great workflow that helps drive production. She's able to push through tough challenges with awesome efficiency. She's not afraid to ask the right questions when she comes across difficulty. My only criticism is that she needs more confidence in her code and focus on breaking problems down to smaller pieces. Kris is a hard worker an great teammate and I look forward to working with her in the future.
-
->**To Deborah Hamel:** Deb is an amazing teammate. She was the spirit of the team and kept our stress level low and the project moving in the right direction. She was always ready with solutions when walls in thought process or code came up. She helped keep the lines of communication open when we were approaching stressful times and deadlines by just talking through things. A skill that is easily overlooked as something that changes the dynamic of groups. My only criticism for Deb is that she needs to be more confident in her opinions. She has a lot of knowledge and skill, but seems to doubt herself when a problem arises.  I would be happy to be in a group with Deb anytime.
 
 
 
 ### Feedback to Me
 
->**From Drew Thompson:** Mark was very helpful throughout the project.  He was instrumental in styling our site as well.  He was constantly working alongside Ling and myself providing input to whatever we were working on at the time.  He paired very well and let everyone suggest ideas and provided useful and positive feedback regularly.
+>**From Kami Boers:** Always a pleasure, you seem to be on the right level all the time, and you helped to keep us moving forward when we could have gotten stuck.  I liked that we were all willing to work hard to get the project done, but also equally willing to take breaks, leave the building, or do whatever it took to be productive. Your styling is by far the best that I’ve seen from our cohort, and you should be incredibly proud of your ability to put out a professional project.  Thanks for being a great teammate and a generally awesome person to be around. I’d love to work with you in the future.
 
->**From Ling Tran:** Squirtle is very versatile. He is strong in every possible way, in addition to being a fun and compassionate team member. He is tenacious with debugging - using tools to pry into the issue rather than just thinking and talking about possible sources for issues. I learned to be more tenacious in this way by working with Squirtle. The only area of improvement I can identify in working with Squirtle is perhaps being more patient with other people's workflow! Other than that, with an established rapport, I imagine working with Squirtle will be just as awesome again.
+>**From Thom Pickett:** Mark is very motivated, has an extremely hard work drive. He's gets done, what needs to, and then makes jokes mostly about whoever is around him. One of Mark's greatest strengths seems to be to look up how to code something he has no idea how to do, and then implement it in a short amount of time.
 
->**From Kriss Foss:** I am so happy to have had the chance to work with Mark.  He’s methodical and precise, diligent and determined.  He is inclusive and encouraging.  Mark’s programming skills are incredibly advanced.  It was great to be working alongside him and hearing his problem solving process.  He has an insatiable drive to succeed and enthusiasm to learn more and he is inspiring to watch.  I have learned a lot from being in his group.  As a very strong technical programmer, he took a project lead role and helped guide us towards a beautiful finished product.  He is a great leader and he shows respect and patience.  If I had to offer criticism, I would ask him if he doesn’t push himself too hard, and if he gives himself credit for the amazing work he produces, but maybe that’s part of what lights the fire inside of him.  Not only is he brilliant, beyond talented, but he’s also a great person and someone you would want on your team or in your office.
+>**From Trent Whitinger:** Mark was my pre-work mentor, as well as in my micro-posse for the first three weeks of Turing, He was incredibly supportive and always willing to look at code as well as help other mod1 students. He was available every day early before school to bounce ideas off of and  help me elucidate my thoughts. Thanks a lot Mark!
 
->**From Deborah Hamel:** Mark is an amazing project manager. I feel lucky to have worked with him on the LittleShop project. His leadership skills and artfully collaborative workflow are only exceeded by his strong and insightful coding skills. He can just get things done. He hardly every gets stuck, but is always willing to help others and work through issues. He is so easy to get along with and finds ways for a team to feel consistently cohesive and on track. Sometimes I think he puts others first and sacrifices his own time and priorities. I would encourage him to always remember to take care of himself too.
+>**From Raphael Barbo:** Mark is undoubtedly one of the most active members of the community. The amount of positive comments I have personally heard about him throughout module 1 is overwhelming!! I had the opportunity to work with Mark in many occasions, from individual projects pairing to Student Advisory Board, Mark has been an extremely welcoming, helpful, and honest person. I believe that is exactly the kind of personality Turing should be targeting to join the school, and I honestly believe that Mark is a great example of student, community member, and mentor. It is a huge pleasure being able to count on him to help me out and guide me throughout my time at Turing. I can't wait to see what he is gonna be accomplishing once he graduates.
+
+>**From Tommasina Miller:** What would I have done my first three weeks of Turing without Mark as a micro-posse mentor? Every morning without fail, he was sitting waiting for us at the pairing station. He guided me through many last-minute fixes for projects and reassured me through an entirely overwhelming period of academic growth. It's been nice to see his friendly face around Turing since then, and I really appreciate his continued willingness to help out with projects since the end of our micro-posse.
+
+
 
 ### Playing a Part
-* I am an active member of the Brin posse. I use weekday mornings before school and some time on weekends working on Ruby problems and exercisms. I like the posse reboot from the standpoint of being able to choose something I'm personally interested in, but I preferred the idea of non-standard competition between posses.
+* I was a leader in micro posse 3. We dealt with issues on current projects or assignments with module 1 students. We met daily at 8:30am in the workspace.
 
-* I have weekly screen hero mentor sessions with Travis Yoder. We generally work on refactoring whatever current project I'm working on or work on Exercisms I'm not comfortable with or stuck on.
+* I was part of SAB this module and helped gather, sort, and voice student concerns. I helped lead group retros on Fridays and alternated attending staff retros.
 
-
-* I am active in 1602 as a community member as well. I push to help us grow as a group and encourage each other to do well. I have offered to help other students understand concepts that may be unfamiliar. I have also printed stickers for the cohort to help identify and be proud of us as a group, while finding a way to not exclude students who may be repeating.
+* I have been a pre-work guide for incoming cohorts for two consecutive modules. I think having that connection to an existing Turing student helps relieve some of the anxiety that many incoming students face. And to have someone that you already know, that can also help with learning here is a valuable asset.
 
 * I paired with module 1 students weekly to help them through projects, understanding Ruby concepts, and just living at Turing as a whole.
 
 * I have started attending Denver.rb monthly meetups to become more immersed in the Denver tech scene as a whole.
 
-* ReadMe Sample from [Little Shop](https://github.com/kristindiannefoss/little_shop/blob/master/README.md)
+* ReadMe Sample from [Passport Helper](https://github.com/notmarkmiranda/passport-helper/blob/master/readme.md)
 
-* Pull Request from [Little Shop](https://github.com/kristindiannefoss/little_shop/pull/377)
+* Pull Request from [The Pivot](https://github.com/notmarkmiranda/pivot/pull/22)
 
-* DTR Conversation from [Rush Hour](https://github.com/drew-t/rush-hour/blob/master/DTR.markdown)
-
-
-* Blog posts from [markmiranda.ninja](http://www.markmiranda.ninja)
-  * [Coming to Grips with Lack of Knowledge While Learning](http://markmiranda.ninja/2016/04/07/coming-to-grips-with-lack-of-knowledge-while-learning/)
+* DTR Conversation from [The Pivot](https://github.com/notmarkmiranda/pivot/blob/master/DTR.markdown)
 
 
-* Community Content from [medium](https://medium.com/@notmarkmiranda/a-students-limited-view-of-non-relational-databases-f07af8ca4891#.gg8pe35eo)
-
-# Self Evaluation
-
-## A: End-of-Module Assessment
+## Self Evaluation
+### A: End-of-Module Assessment
 
 A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations. If you were exempt from the assessment it's a *3*.
 
 * 4: Student achieved two or more "4s" on the assessment
-* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
-* 2: Student earned one score below "3" on the assessment
-* 1: Student earned two or more scores below "3" on the assessment
 
-## B: Individual Work & Projects
+### B: Individual Work & Projects
 
 A Turing student works to maximize their skill growth and demonstrates
 that skill across a variety of work.
 
-* 4: Student demonstrates excellent growth by not only achieving satisfactory
-evaluations for each project but also pushing their learning beyond expectations.
 * 3: Student demonstrates commitment and growth in their work through satisfactory
 evaluations of each project or a clearly upward-sloping trend.
-* 2: Student demonstrates some lack of engagement or growth in their individual
-skill or project outcomes without a clear upward trend.
-* 1: Student does not show the commitment expected of Turing students.
 
-## C: Group Work & Projects
+### C: Group Work & Projects
 
 A Turing student contributes significantly to group projects, helps the team
 develop their technical skills, and delivers a high-quality product.
 
-* 4: Student consistently helps their teammates be their best selves, learn at
-an accelerated pace, and achieve great results.
 * 3: Student fully participates in their group work to facilitate group harmony
 while achieving consistently satisfactory results.
-* 2: Student participates somewhat in their group work but is either not a
-dependable member of the team or achieves consistently sub-par work.
-* 1: Student is not a valuable member of their teams.
 
-## D: Community Participation
+### D: Community Participation
 
 A Turing student builds up the community around them by participating and
 supporting other students, the larger Turing family, and persons outside our
@@ -189,25 +200,14 @@ walls who want to develop their own skills.
 
 * 4: Student has a significant positive impact on the learning and spirit of the
 people around them.
-* 3: Student participates in required activities and does at least one or two
-above-and-beyond supports of the community.
-* 2: Student participates in most required community activities (demos, lightning talks, etc)
-but does not do anything else of significance.
-* 1: Student stays in their lane and focuses just on their own learning.
 
-## E: Peer & Instructor Feedback
+### E: Peer & Instructor Feedback
 
 A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
 own growth by taking in and acting on the feedback of their peers and instructors.
 
-* 4: Student helps others to be their best selves while using peer feedback
-to shape their own character and behavior.
 * 3: Student consistently delivers meaningful feedback for peers and implements
 strategies to improve themselves in response to feedback.
-* 2: Student gives meaningful impact to peers as well as being aware of themes
-in the feedback they receive.
-* 1: Student does not consistently participate in or construct meaningful peer
-feedback.
 
 ### Outcome:
