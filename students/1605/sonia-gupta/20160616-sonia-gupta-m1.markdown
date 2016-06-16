@@ -75,7 +75,7 @@ finally talked about using small I/O / display helper methods to help break up t
 
 4. Fundamental Ruby & Style: 3
 
-4. Enumerable & Collections: 5
+5. Enumerable & Collections: 3
 
 #### Night Writer
 
@@ -190,10 +190,10 @@ I tried to help people in my cohort when they asked for technical or other suppo
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 2
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 2
-* **D: Community Participation**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 5
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
