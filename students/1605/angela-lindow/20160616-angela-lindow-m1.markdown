@@ -129,6 +129,7 @@ Using data about schools in Colorado provided by the Annie E. Casey foundation, 
 * Have been to most Joan Clarke Society coffee mornings and love it
 * Have volunteered to help with a microposse next module as I had a wonderful microposse experience, and I gathered not many others did.
 * As a recipient of the James Golick Grant for Women in Computology, I check in with Jill Golick about my progress here who in turns updates the supporters of the grant, most of which are in the tech industry
+* I try to be super responsive when new moms join the #turingmoms on Slack or when Mary had asked for people to talk to a prospective student who was a mom. I ended up chatting with her on the phone that night. Being a Turing Mom is such a unique challenge and experience, and I wanted to always be available for questions/concerns that moms looking at Turing may have.
 
 ## Softskills/Protocol
 
