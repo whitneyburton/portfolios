@@ -10,9 +10,9 @@
 My goal was to get a deep understanding of ruby syntax and concepts. I wanted to feel comfortable working with the algorithmic process. I hoped to change the way my mind worked so I would become more of a problem solver. I wanted to be able to take on projects that I viewed were above my level of understanding and complete them. 
 
 
-### End of Module Assessment
+## End of Module Assessment
 
-#Notes:
+###Notes:
 
 * Have to work on heads-up typing
 * Watch out for indentation of your code
@@ -21,7 +21,7 @@ My goal was to get a deep understanding of ruby syntax and concepts. I wanted to
 * Solid on Ruby methods and knowing what's available
 * Have concerns about progress being hindered by mechanics
 
-#Scores:
+###Scores:
 ​
 * 3: Developer is able to write Ruby with some debugging of fundamental concepts
 ​
