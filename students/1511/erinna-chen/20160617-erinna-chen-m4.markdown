@@ -184,3 +184,19 @@ A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their own growth by taking in and acting on the feedback of their peers and instructors.
 
 * 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
+
+------
+
+## Notes
+
+Try many different things, allow yourself to be dumb and suss out the 'thing' that drives you. Not a rush to find 'the thing' but always keep an eye out for it. 
+
+## Outcomes
+
+GRADUATED!
+
+- A: End-of-Module Assessment**: N/A
+- B: Individual Work & Projects**: 3
+- C: Group Work & Projects**: 4
+- D: Community Participation**: 4
+- E: Peer & Instructor Feedback**: 3
