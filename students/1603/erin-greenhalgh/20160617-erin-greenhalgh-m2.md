@@ -145,6 +145,7 @@ This mod I made an effort to be available to Mod 1 student for help as much as p
 - Keep debugging!
 - Paying attention to the things people are suggesting.
 - Push yourself. Take on something earlier in the module
+- Take on something like JS
 
 ### Outcome
 
