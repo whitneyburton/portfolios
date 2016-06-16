@@ -221,7 +221,7 @@ The output from rake sanitation:all shows...
 ## Community
 
 ##### DTR:
-* [GitHub URL](https://docs.google.com/document/d/1WfvI23Y7Kdq45vZljyaUUQ0T2y0cKnYIoV_2MO8R-zw/edit#)
+* [GitHub URL](https://github.com/Laner12/headcount/blob/master/DTR.md)
 ##### README:
 * [GitHub URL](https://github.com/Laner12/flashcards/blob/master/README.markdown)
 
