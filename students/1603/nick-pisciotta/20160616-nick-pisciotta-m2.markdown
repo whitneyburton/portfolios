@@ -191,6 +191,8 @@ Project Manager: Anna
 #### Blog Post
 * [Capybara Testing in Rails]()
 
+### Review
+
 ### Self Evaluation
 
 | Rubric Scores for Self Evaluation                       
@@ -201,6 +203,17 @@ Project Manager: Anna
 | Community Participation       |     4 |
 | Peer and Instructor Feedback  |     4 |
 
-### Review
 
 #### Notes
+
+- Excited to finally be creating things with a web interface.
+- Would of done more self exploration.  
+- Continue to stay on top of things. Maybe pair with a module 1 student
+- Productive DTRs are major keys to success.
+- Take a step back
+- Driven and passionate about the work.
+- Bring in more communication. 
+
+### Outcome
+
+- Pass
