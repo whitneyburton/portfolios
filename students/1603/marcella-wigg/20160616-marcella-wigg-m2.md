@@ -186,15 +186,17 @@ individual needs.  As a project manager, she was great about keeping us on track
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
-* Background image: make a div that comes after the body and make the id background image and place the image in there instead of having to use the body. Isolate the image outside of just the body tag.
-* Make sure there is seed data for everything so you can see things in production. (Orders should have seed data).
-* Make sure that the helper methods in controller are private methods
-* Simple delegator - super the item, creates an object that is aware of it's quantity, sum, and all the item attributes (could have used this as an extra helper for cart items maybe)
-* Dry up testing by creating a helper method for creating an admin so you'll have to declare it less.
-* Good to have complete model testing
-* Good job testing at feature and model level, make sure method works and make sure feature works as well
-* Workflow: Glimpses of excellent, but would like to see more commenting on github, I have specific feedback for you at this line. Majority of things squashed, but could have done a few more.
+
+ - Continue to work on styling
+ - Nervous/Confidence
+ - Wants to continue working on taking the lead
+ - Less flexibility more tutorials.
+ - Enjoyed working with partners/groups
+ - Wants to work on being prepared for module 3
+
 
 ### Outcome
+
+Pass
 
 =======================================
