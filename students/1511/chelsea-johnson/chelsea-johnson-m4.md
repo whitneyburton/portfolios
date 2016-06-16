@@ -15,7 +15,7 @@ July Tran is one bodacious babe. In a zombie, apocalypse, I would hope that July
 Kimi was a rockstar on our Lookingfor front end project. Several times during the project, we would work on solving a problem without much success. Kimi would work on the problem overnight, and have a well-written PR the next morning. Her determination is not only evident in her code; it also applies to all areas of her life. For example, Kimi and I decided to arm wrestle (as you do). After several minutes of stalemate, I realized Kimi was not going to give up and I would have to be the chump that lost (and I definitely did). Any team would be lucky to have a solid developer like Kimi. Go Kimi!!!
 
 
-#### Feedback to Heidi Hoopes
+#### Feedback to Heidi
 I have really enjoyed getting to know Heidi. Not only is she an extremely talented developer, but she is also kind, caring, and optimistic. I have enjoyed being a posse leader with her and have learned a lot pairing with her. When developing, she is not afraid of taking on challenges and seeks elegant solutions to her problems. Heidi is always thinking of others; she takes time to volunteer for Kids Who Code and helped with a micro posse this module. Heidi is going to do a great job in her student support role at Turing!
 
 ### Peer Feedback
@@ -24,10 +24,10 @@ I have really enjoyed getting to know Heidi. Not only is she an extremely talent
 Working with Chelsea on GO GO NYAN CAT was my ultimate GameTime dream come true. She was immensely fun to work with and we had a blast in addition to sharpening our JS skillz. I really appreciate that Chelsea is always open to feedback and acts on it immediately. She also is so super dedicated to her work - she will let no bug go un-squashed and no feature remain incomplete. Though this is one of her strong suits, it could also be a downfall when the best thing you can do to be productive is to take a break - she would benefit from learning to honor the pomodoro. Additionally, she may benefit from becoming more comfortable with tooting her own horn and asserting herself in the hustle of life (but also jobs). Chelsea would be a tremendous asset to any team and I look forward to hearing more about her badassery.
 
 #### Kimi Feedback
+This was my first time working with Chelsea and it was an amazing experience. She was great at getting endpoints pushed through for Looking For either by communicating with the backend to get it done or more often, just deciding to do it herself and not worry about waiting around for someone else to finish it. This persistence to get things done is a great quality to have and she'll be well suited for her first dev job! In addition to her hard work ethic she's always a smiling and happy person, so she's just plain great to be around.
 
 
-
-#### Heidi Hoopes Feedback
+#### Heidi Feedback
 Chelsea is the perfect ally to have on a project. She architected the mission for the posse that we co-led this module and was always organized, on-time, and engaging. She has both the patience and direction to lead the junior students which the posse attracted, but also the technical chops to do whatever is required. I love seeing her projects because they're always fun, inspired, and technically challenging. She will make a responsible yet dashingly fun addition to a team. Go cheljoh go!
 
 
