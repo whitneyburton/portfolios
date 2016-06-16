@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Sonia Gupta - M1 Portfolio
 
 ## Individual
 
@@ -60,14 +60,6 @@
 
 ## Review
 
-### Rubric Scores
-
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
-
 ### Notes
 
 ( Leave blanks for reviewers )
@@ -75,4 +67,3 @@
 ### Outcome
 
 ( Leave blanks for reviewers )
-

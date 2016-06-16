@@ -239,7 +239,9 @@ Since the start of Turing, I have not had many opportunities to work with Colin,
 - don't stand in the way of yourself!
 - enjoyed the rails mini-project.
 - be more confident
+- keep on top of things.
+- push yourself more (blog post, new language)
 
 ### Outcome
 
-Pass 
+Pass
