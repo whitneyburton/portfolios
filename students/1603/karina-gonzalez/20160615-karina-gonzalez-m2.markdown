@@ -4,7 +4,9 @@
 
 ### Areas of Emphasis
 
-  I remember having a one-on-one breakfast with Jeff towards the end of last module.  I
+  Coming into this module I remember having a heavy case of the infamous "imposter's syndrome".  I suppose it's difficult for me to imagine that I deserve to be here when I have frequent conversations with my extremely intelligent and capable family members/friends from home who weren't quite as lucky. That being said, one of my major goals for this module was to phase out of the "victim" role and into a more authoritative role.  I realize that I am in a position where, depending upon how much I take advantage of this opportunity, I could progress into a position where I could actually empower my fellow humans who can who come from similar roots. (Also, I wanted to learn more about machine learning, which I did ... learned a bit about linear regression but I'd like to learn more)
+
+  “I tell my students, 'When you get these jobs that you have been so brilliantly trained for, just remember that your real job is that if you are free, you need to free somebody else. If you have some power, then your job is to empower somebody else. This is not just a grab-bag candy game.” - Toni Morrison
 
 ### End of Module Assessment
 Assessed By: Jhun de Andres
@@ -45,6 +47,7 @@ Subjective evaluation will be made on your work/process according to the followi
 ### Work
 
 I was having a particularly difficult time when the mini project was assigned.  I feared I was much too inadequate to continue in the module.  So, knowing myself and how self deprecating I can be at times) instead of attempting to write a rails app, I decided to prioritize my mental health.  This was a particularly sunny weekend so I decided to purchase a book beautifully embellished with John Keats' collected poems and read those to replenish myself instead. Here is an excerpt form the book that inspired me to suck it up and simply TRY (bc, like all organic matter, we're all going to be recycled eventually).
+(Willing to develop something over break)
 
 #### When I have Fears That I May Cease to Be
 
@@ -98,14 +101,15 @@ Notes for extended submission:
 Evaluator: Andrew
 
 Notes:
-    - App broke on creation of new family. Looks like twillio. Will give time to fix to bring score up.
-    - One query in view. Nationalities.all. Refactor to controller. The use of partials and presenters cancel our the logic int he view for a score of 4. Happy to user attempts at using presenters.
-    - Using session hash for cart quantity - would prefer the supply to call quantity
-    - SupplyItem.find_family(id) should be SupplyItem.find(id).family => trying to write method that active record handle already.
-    - Donation controller still has iteration over supply items to crate donation items. Would like to see that refactored to an object that handles the completion of donations
-    - Creating supply_items within family model. We should refactor this to a poro or just somewhere other than a different model.
-    - Also, consider a stats object instead of pulling in data from multiple different models for statistics
-    - Highly suggest helper methods in test suite to make your life easier. Overall tests at multiple levels and multiple paths
+
+      - App broke on creation of new family. Looks like twillio. Will give time to fix to bring score up.
+      - One query in view. Nationalities.all. Refactor to controller. The use of partials and presenters cancel our the logic int he view for a score of 4. Happy to user attempts at using presenters.
+      - Using session hash for cart quantity - would prefer the supply to call quantity
+      - SupplyItem.find_family(id) should be SupplyItem.find(id).family => trying to write method that active record handle already.
+      - Donation controller still has iteration over supply items to crate donation items. Would like to see that refactored to an object that handles the completion of donations
+      - Creating supply_items within family model. We should refactor this to a poro or just somewhere other than a different model.
+      - Also, consider a stats object instead of pulling in data from multiple different models for statistics
+      - Highly suggest helper methods in test suite to make your life easier. Overall tests at multiple levels and multiple paths
 
 ##### Evaluation Rubric
 
@@ -121,7 +125,7 @@ Notes:
 
 ### Giving Feedback
 
-* To Kerry: Kerry, I can honestly say that I am very grateful to have met you.  As an extremely confused human in a very transitional time in her life, I feel as if I spend an inordinate amount of time grasping at the thin wisps of air which faintly resemble those qualities — THOSE QUALITIES— you know? Those qualities that my inner child most sincerely and passionately desires. I say this because, when in your presence, I can almost feel my clammy, thin fingertips tightly wound themselves around that wisdom which your breath has so graciously solidified.  Suddenly those qualities— YOUR QUALITIES— the time management, innate curiosity, generosity, kindness, mindfulness, boldness, intelligence, and sense of humor sprinkled with a healthy amount of skepticism— suddenly, those qualities seem well within my reach.  I thank you for your influence, not only on a personal scale, but on a global scale.  Devs and humans alike are lucky to have you.
+* To Kerry: Kerry, I can honestly say that I am very grateful to have met you.  As an extremely confused human in a very transitional time in her life, I feel as if I spend an inordinate amount of time grasping at the thin wisps of air which faintly resemble those qualities — THOSE QUALITIES— you know? Those qualities that my inner child most sincerely and passionately desires. I say this because, when in your presence, I can almost feel my clammy, thin fingertips tightly wound themselves around that wisdom which your breath so graciously solidifies.  Suddenly those qualities— YOUR QUALITIES— the time management, innate curiosity, generosity, kindness, mindfulness, boldness, intelligence, and sense of humor sprinkled with a healthy amount of skepticism— suddenly, those qualities seem well within my reach.  I thank you for your influence, not only on a personal scale, but on a global scale.  Devs and humans alike are lucky to have you.
 
 * To Robbie: Robbie, I know you as one of those students at Turing who, no matter what, will ALWAYS be willing to help, fueled only by your curiosity and compassion. It’s so refreshing getting to interact with someone who makes such a conscious effort to maintain a growth mindset on a daily basis. It’s funny because I remember being faintly intimidated by you last module. But I’m grateful to have been paired with you on Little Shop because now I have been exposed to your witty sense of humor and inspiring work ethic. You are this human who is equal parts capable, hard-working and mindful. I sincerely believe that your innovative perspective will only enhance any projects you choose to contribute to in the future. Turing is lucky to have you.
 
@@ -153,7 +157,7 @@ Pahlka Posse member -
 
 Tutoring - Paired with a 1605 students every time that it was organized by Brain. Also did some extra pairing with Pahlka and fellow headcounters.
 
-Technical Blog Post: Coding up a simple Mandlebrot Set.(to be continued)
+Technical Blog Post: Coding up a simple Mandlebrot Set.(Uses Recursion, to be continued)
 
 Poetry Blog Post: [Empathy](https://medium.com/@karinamzalez/empathy-2ff68769187b#.339w8vepq)
 
