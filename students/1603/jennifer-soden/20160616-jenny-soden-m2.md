@@ -316,8 +316,15 @@ them by delivering specific, kind, and actionable feedback. They accelerate thei
 
 ### Notes
 
-( Leave blanks for reviewers )
+- If Jenny could go back she would work harder
+- Loved mixed master
+- Pushed herself in mix master!
+- Loved the amount of room for creativity.
+- Gave some very constructive feedback during DTR.
+- Would like to continue to see growth in herself
+- What are somethings you can do to attain growth as a developer?
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending (waiting on blog post)
