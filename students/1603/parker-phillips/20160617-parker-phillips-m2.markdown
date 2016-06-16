@@ -251,8 +251,14 @@ Peer & Instructor Feedback | 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Improve testing!
+- Slow down and understand what is going on.
+- Continue communicating
+- Be okay with the piece of the pie you have.
+- Feedback is important. Keep doing what your doing.
+- Focus on communication on whole (actionable feedback in the moment)
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending (blog post)
