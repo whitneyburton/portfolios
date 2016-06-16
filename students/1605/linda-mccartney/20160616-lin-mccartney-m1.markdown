@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-My areas of emphasis include improving my Test-Drive Development (TDD), improving upon using best-case enumerables.  I'd also like a better understanding of objects and methods, which I feel more comfortable with a second time around.  
+My areas of emphasis include improving my Test-Drive Development (TDD), and improving upon using best-case enumerables.  I'd also like a better understanding of objects and methods, which I feel more comfortable with a second time around. With practice, this will come more naturally to me, so I have placed an emphasis on doing and re-doing exercises provided by the school.
 
 ### End of Module Assessment
 
