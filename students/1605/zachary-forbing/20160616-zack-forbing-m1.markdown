@@ -158,6 +158,18 @@ Zack has a great focus on using test driven development to guide decision making
 Feedback for Tommasina Miller:
 Tommasina has been a constant source of smiles and positivity all module. The night before Flashcards was due, we were all working in classroom A, trading tips about what worked well for us. I had just finished the project, and accidentally deleted some code without noticing that broke the entire project. I was panicking a bit, but Tommasina calmly sat down with me and helped me filter through my code to see what had happened. I am extremely thankful that she was there that night.
 
+Feedback for Ben Pepper:
+Ben was a great partner to pair with during HTTP. He was instrumental in getting our coding flow started, as well as provoking creative flow  throughout the project and helping to lead us down successful pathways I wouldn't have considered. I felt like we meshed pretty well, and our two-headed-attack, dynamic-leadership pairing style helped us rock out the project while also having fun and not taking anything too seriously. Ben also secured us many pairing sessions with advanced students when we were struggling where I might have continued to bang my head against the proverbial wall.
+
+Feedback for Trent Whitinger:
+Trent helped me throughout this project understanding things that didn't make sense, and getting me started when I wasn't sure where to begin. his work ethic and focus are admirable, and his comfort with venturing into the unknown is impressive. His ability to test and then quickly build out complex functions was incredibly valuable for Headcount. Overall, Trent has definitely shown that he has what it takes to be an incredible programmer.
+
+Feedback for Raphael Barbo:
+Raphael was a blast to work with during our Pairing Patterns lesson. We seem to have similar mindsets but different approaches. We had fun together, but we also kept each other on task. we came up with creative solutions to the robot test, and had a great time doing it. Raphael is a great coder to pair with, and I look forward to more sessions with him.
+
+Feedback for David Whitaker:
+David is a great resource for us noobs at Turing. His student-led session on git workflow was incredibly informative and helpful to those of us who attended. We not only learned about git flow, but terminal customization that has saved me lots of typing during Headcount. Thanks David!
+
 ### Being a Community Member
 
 from Raphael Barbo:
