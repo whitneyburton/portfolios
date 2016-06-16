@@ -2,13 +2,9 @@
 
 ## Individual
 
-
-
 ### Areas of Emphasis
 
-
 My goal was to get a deep understanding of ruby syntax and concepts. I wanted to feel comfortable working with the algorithmic process. I hoped to change the way my mind worked so I would become more of a problem solver. I wanted to be able to take on projects that I viewed were above my level of understanding and complete them. 
-
 
 ## End of Module Assessment
 
@@ -223,6 +219,48 @@ Breaking Logic into Components
 
 --------------
 
+## HeadCount
+
+Repo: https://github.com/NicoleKMarino/headcount
+
+Origin assignment:https://github.com/turingschool/curriculum/tree/master/source/projects/headcount
+
+Description: Parsing big data from csv files.
+
+
+1. Functional Expectations
+
+1: Application crashes during normal usage
+Reassessment score: 1 (Considering the spec harness failed during the assessment and when we reviewed the code later, the reassessment score remains a 1)
+2. Test-Driven Development
+
+0: Pending re-eval
+Reassessment score: 2 (Application makes some use of tests, but the coverage is insufficient)
+3. Encapsulation / Breaking Logic into Components
+
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+4. Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+5. Enumerable & Collections
+
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+6. Code Sanitation
+
+The output from rake sanitation:all shows...
+
+3: Five or fewer complaints
+
+
+
+Notes from me: 
+
+Beth suggested that I explain why our headcount crashed during spec harness. We have a major git issue in which files were required and loaded in the wrong way, so the data ended up not being accurate on our master branch. 
+It is an easy problem to fix and can be done in one day with my partner. Our logic was sound and our tests did pass, we just needed more time to fix the errors we got from merging. 
+
+
+--------------
+
 ##ReadMe file: https://github.com/NicoleKMarino/Mastermind/blob/master/README.md
 
 
@@ -233,7 +271,7 @@ Breaking Logic into Components
  
  -More Pairing Session
  
- -Pat does more in depth study while I create psuedocode for the next iterations. That way I feel I'm making progress, and then we can follow my instructions together with Pats insight after doing more research. 
+ -Pat does more in depth study while I create pseudocode for the next iterations. That way I feel I'm making progress, and then we can follow my instructions together with Pats insight after doing more research. 
  
  -We divide and conquer only when we both feel secure in the portion of code we're working with. 
  
@@ -270,7 +308,7 @@ I was consistant with my duties as a turing student, but I also helped Sonia wit
 
 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
-Halfway through headcount I recieved feedback that I was taking too much control over the project. I believe that since that feedback was given, I let go of some of my control freak tendencies. I also provided feedback for my last partners portfolio. 
+Halfway through headcount I received feedback that I was taking too much control over the project. I believe that since that feedback was given, I let go of some of my control freak tendencies. I also provided feedback for my last partners portfolio. 
 
 
 
@@ -293,7 +331,11 @@ Finally, it was nice working with you because you kept a pleasant attitude even 
 * Cleaned Every Friday
 * Always tried to pick up dishes and other miscellaneous things around turing to upkeep the general cleanliness of Turing.
 * Always tried to help my fellow students when possible.
-* Contributed insightful points during gear up to move the coversation along.
+* Contributed insightful points during gear up to move the conversation along.
+
+
+### Final Thoughts:
+I think I should pass because I've shown a great understanding of ruby concepts and do not feel like I am struggling to understand the lessons. I have a solid foundation when it comes to the algorithms and logic behind the code. Although there were a few hiccups in my progress, I consistently show hard work and dedications, and the issues I have to work on are not an issue of a lack of understanding, but rather fixable solutions that will not affect me if I am passed on to mod2. I don't view these hiccups and a lack of understanding, but rather something I can push through during my time here at Turing. 
 
 ## Review
 
@@ -312,4 +354,5 @@ Finally, it was nice working with you because you kept a pleasant attitude even 
 ### Outcome
 
 ( Leave blanks for reviewers )
+
 
