@@ -138,8 +138,14 @@ This mod I made an effort to be available to Mod 1 student for help as much as p
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Pick up something you are uncomfortable with
+- Keep on testing and scoping your tests
+- write more blogs!
+- Keep giving great feedback
+- Keep debugging!
+- Paying attention to the things people are suggesting.
+- Push yourself. Take on something earlier in the module
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
