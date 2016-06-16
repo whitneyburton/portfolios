@@ -2,6 +2,10 @@
 
 [Points](https://docs.google.com/spreadsheets/d/1lZHyWBkwzn5txsN7ug2fUZ2Z6g1aa0rHDcxlmGVLV5s/edit#gid=0)
 
+### Areas of Emphasis
+
+This module, I want to become a JS slayer and learn JS frameworks. I also want to start the job search and get all my job search docs in order. 
+
 ### Posse Work
 
 * [Miyamoto Repo](https://github.com/cheljoh/miyamoto)
