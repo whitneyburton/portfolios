@@ -206,6 +206,8 @@ E: Peer & Instructor Feedback: 3
 - TDD entire mini project
 - Feels like there are opportunity for creativity with rails mini project.
 - Styling is frustrating.
+- You could push yourself to benefit you and your cohort.
+- Wanting to get into python.
 
 
 ### Outcome
