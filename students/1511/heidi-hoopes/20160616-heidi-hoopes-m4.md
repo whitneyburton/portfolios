@@ -8,11 +8,11 @@
 
 I am excited to have the time, space, and choice to dig down deep on more advanced issues, particularly back-end work. I'd like to improve my database and devop skills. But I am also looking forward to improving my knowledge of the second computer language that I know (well). JavaScript gets both a bad rap but also a lot of attention and it seems mastery of it will open a different type of job. I'm also excited to have a microposse, to continue driving my posse with Cheljoh, and to have fun with being the "seniors" and setting a culture, pace, and expectations. 
 
+I received 988/1138 points for the module.
+
 ### End of Module Assessment
 
-Was not obligated to take it though I did work on it
-
-988/1138 Points
+Had enough points that I was not obligated to take it though I did work on it
 
 ### Work
 
