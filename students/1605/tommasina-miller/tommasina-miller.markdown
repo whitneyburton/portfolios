@@ -10,32 +10,27 @@
 ### End of Module Assessment
 
 #### 1. Ruby Syntax & API
-​
-​
+
 * 3: Developer is able to write Ruby with some debugging of fundamental concepts
-​
+
 #### 2. Completion and Progress
-​
-​
+
 * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
-​
+
 #### 3. Testing
-​
-​
+
 * 3: Developer writes tests that are effective validation of functionality, but don't drive the design
-​
+
 #### 4. Workflow
-​
-​
+
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-​
+
 #### 5. Collaboration
-​
+
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
-​
+
 ### 6. Enumerable & Collections
-​
-​
+
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Mid-Module Assessment
@@ -77,7 +72,7 @@ I've had the opportunity to work on three personal projects this module: Masterm
 
 #### Flashcard
 
-* [Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
+* [Flashcard Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
 * [Completed Project Repository] (https://github.com/chompasina/flashcard)
 
@@ -87,11 +82,10 @@ Assessed By: Horace
 
 Notes:
 
-      Looking solid with Ruby fundamentals and basic OOP mechanics
-      Seem comfortable defining classes, methods, working with ivars, interacting between multiple classes
-      testing is looking good -- seem to have main concepts down and be executing on them -- keep an eye on edge cases and making sure we test each scenario with a few different inputs
-      Round class was quite concise and well-implemented; talked about a few ways to possibly make it even simpler by avoiding tracking duplicative information in multiple instance variables
-      Doing this will make the code a little leaner and also give us better paths to testing some of this logic
+ * Looking solid with Ruby fundamentals and basic OOP mechanics
+ * Seem comfortable defining classes, methods, working with ivars, interacting between multiple classestesting is looking good -- seem to have main concepts down and be executing on them -- keep an eye on edge cases and making sure we test each scenario with a few different inputs
+ * Round class was quite concise and well-implemented; talked about a few ways to possibly make it even simpler by avoiding tracking duplicative information in multiple instance variables
+ * Doing this will make the code a little leaner and also give us better paths to testing some of this logic
 
   Scores:
   1. Functional Expectations
@@ -117,7 +111,7 @@ Notes:
 
 #### NightWriter
 
-* [Assignment Spec] (https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+* [NightWriter Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 * [Completed Project Repo] (https://github.com/chompasina/night_writer)
 
@@ -132,21 +126,19 @@ Repo: https://github.com/chompasina/night_writer
 Scores:
 1. Overall Functionality
 
-    1.5: Application only converts to Braille or from Braille
+* 1.5: Application only converts to Braille or from Braille
 
 2. Fundamental Ruby & Style
 
-    3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
 3. Test-Driven Development
 
-    2: Minor mutations to the implementation code, such as swapping characters, changing < to <=, placing true into a conditional, or deleting a line of code which break the functionality do not cause any tests to fail.
+* 2: Minor mutations to the implementation code, such as swapping characters, changing < to <=, placing true into a conditional, or deleting a line of code which break the functionality do not cause any tests to fail.
 
 4. Breaking Logic into Components
 
-    3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
-
-
+* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
 ### Projects
@@ -159,10 +151,10 @@ This was another paired project aimed at developing our skills working with serv
 
 Learning Goals
 
-    * Practice breaking a workflow into a system of coordinating components
-    * Practice using TDD at the unit, integration, and acceptance levels
-    * Understand how the HTTP request/response cycle works
-    * Practice implementing basic HTTP requests and responses
+ * Practice breaking a workflow into a system of coordinating components
+ * Practice using TDD at the unit, integration, and acceptance levels
+ * Understand how the HTTP request/response cycle works
+ * Practice implementing basic HTTP requests and responses
 
 
 [Project Spec] (https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
@@ -178,11 +170,11 @@ Repo: http://github.com/caleb9193/http-project
 
 Notes:
 
-    16 tests
-    Faraday tests were not implemented
-    Some opportunities to refactor were present, things like complex conditionals pulling messages out to a separate place
-    Some methods/classes doing a bit too much
-    really liked the runner pulled out
+* 16 tests
+* Faraday tests were not implemented
+* Some opportunities to refactor were present, things like complex conditionals pulling messages out to a separate place
+* Some methods/classes doing a bit too much
+* really liked the runner pulled out
 
 1. Overall Functionality
 
@@ -203,7 +195,6 @@ Notes:
 
 #### Headcount
 
-This is a paired project that
 * [GitHub URL] (https://github.com/allindow/headcount)
 * [Original Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 * [Evaluation] (https://github.com/turingschool/ruby-submissions/blob/master/1605/headcount/tommasina_angela.md)
@@ -212,11 +203,11 @@ Headcount was a project in which we wrote a program to parse csv data, create da
 
 Learning Goals
 
-    * Use tests to drive both the design and implementation of code
-    * Decompose a large application into components such as parsers, repositories, and analysis tools
-    * Use test fixtures instead of actual data when testing
-    * Connect related objects together through references
-    * Learn an agile approach to building software
+ * Use tests to drive both the design and implementation of code
+ * Decompose a large application into components such as parsers, repositories, and analysis tools
+ * Use test fixtures instead of actual data when testing
+ * Connect related objects together through references
+ * Learn an agile approach to building software
 
 
 Evaluated By: Mike
@@ -225,13 +216,13 @@ Repo: https://github.com/allindow/headcount
 
 Notes:
 
-    Did Iteration 6.
-    102 runs, 140 assertions, completed in 65 seconds, 98 percent test coverage.
-    Has some fixture data, cool!
-    very well tested - watch for situations where hardcoding can defeat tests
-    tighten up interfaces by not giving access to the kitchen sink
-    Spec harness took six seconds.
-    think about controlling interfaces to objects better - split incoming hashes at initialize, and dont make your own getter methods
+* Did Iteration 6.
+* 102 runs, 140 assertions, completed in 65 seconds, 98 percent test coverage.
+* Has some fixture data, cool!
+* very well tested - watch for situations where hardcoding can defeat tests
+* tighten up interfaces by not giving access to the kitchen sink
+* Spec harness took six seconds.
+* think about controlling interfaces to objects better - split incoming hashes at initialize, and dont make your own getter methods
 
 Scores:
 
@@ -240,29 +231,29 @@ Evaluation Rubric
 The project will be assessed with the following guidelines:
 1. Functional Expectations
 
-    3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
+ * 3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
 
 2. Test-Driven Development
 
-    4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+ * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 3. Encapsulation / Breaking Logic into Components
 
-    3: Application effectively breaks logical components apart but breaks the principle of SRP
+ * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 4. Fundamental Ruby & Style
 
-    3: Application shows strong effort towards organization, content, and refactoring
+ * 3: Application shows strong effort towards organization, content, and refactoring
 
 5. Enumerable & Collections
 
-    3: Application demonstrates comfortable use of appropriate Enumerable methods
+ * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 6. Code Sanitation
 
 The output from rake sanitation:all shows...
 
-    4: Zero complaints
+ * 4: Zero complaints
 
 
 
