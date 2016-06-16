@@ -45,17 +45,16 @@ Assessed By: Nate
 
 ##### Notes:
 
-- Never seen anything like it!
-- Can't believe it is not butter
+
 
 ##### Scores:
 
-- Completion: 3
-- Organization: 3
-- TDD: 3
-- Code Quality: 3
-- User Experience: 3
-- Performance: 3
+- Completion:
+- Organization:
+- TDD:
+- Code Quality:
+- User Experience:
+- Performance: 
 
 
 #### Rails-engine
