@@ -212,4 +212,4 @@ E: Peer & Instructor Feedback: 3
 
 ### Outcome
 
-Pass
+Pending (blog post)

@@ -212,8 +212,8 @@ Project Manager: Anna
 - Productive DTRs are major keys to success.
 - Take a step back
 - Driven and passionate about the work.
-- Bring in more communication. 
+- Bring in more communication.
 
 ### Outcome
 
-- Pass
+Pass

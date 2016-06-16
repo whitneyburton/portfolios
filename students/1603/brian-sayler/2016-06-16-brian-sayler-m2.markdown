@@ -186,8 +186,15 @@ Working with Brian on Little shop was a fun and very educational experience. I d
 
 ### Notes
 
-( Leave blanks for reviewers )
+- realized should be going at the M1 pace
+- rest up and be prepared for M3
+- keep disciplined
+- stay motivated
+- group that gels
+- great community participation
+- give feedback!
+- 🍐
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending (blog post)
