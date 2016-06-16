@@ -140,6 +140,20 @@ I think Taylor is going places soon, and I look forward to seeing what that will
 ###### Heidi
 Working with Brennan on two projects in the last 6 weeks gave me a good insight into his work ethic. While he always invests a lot of thought and solid code into his own PRs, he also jumps easily into reviewing others' code and provides good feedback. He solved major bugs we had with our JavaScript-based game and was indispensable as a teammate. I believe that any workplace would benefit not only from his code skills, but also from his easy-going support of the others around him.
 
+###### Nate
+What impressed me most about Brennan, other than being a stand up guy, is that
+he was never afraid of tackling the hardest aspects of a project. For
+instance during Game Time he worked on calculating the ball to putter angle. I'm pretty sure he isnt a mathematician but yet he successfuly accomplished complex calculations, like trigonometry. Then during Scale Up he tackled Elastic Search by himself, and he pretty much crushed it. I have no doubt this man is going to be a great developer and asset to any company. On top of his technical skills Brennan is easy to work with and fun to be around.
+
+###### Taylor
+It was very sad to lose Brennan in 1510, he would have greatly contributed to #Keep1510Weird. So, you can imagine how happy I was to regain his compony when I joined 1511. Brennan works extremely hard to produce quality code and always has time to lend an ear. At any point he was willing to listen or comment on a PR. I not only enjoyed learning from him but I quickly felt that I gained a friend.  During his time at Turing he was away from his wife, a crucial support system, yet still managed to start the podcast and work very hard. I admire Brennan and can't wait to see what his future holds. I hope to stay in touch!
+
+###### Brant
+Brennan was an absolute pleasure to work with during Gametime. He was open to immediate feedback throughout the two week project and gave me feedback frequently as well. What a great communicator! I honestly can’t think of anyone at Turing that I would have enjoyed working with and learning with more.
+
+*That's not true! Brennan drove me absolutely nuts during Gametime. I made a number of suggestions during our project to change and (what I thought) improve the gameplay of our game, Grand Theft Auto VI, but Brennan insisted that every car in the game had to be a Toyota Yaris. And they all had to be purple. Why purple? I still don’t get it! Why couldn’t some of them been green or blue or even just beige? Near the end of the project, we had met all of our requirements, had the game fully tested, and I asked him if I could please include an easter egg in the game….maybe just insert a hidden special car, like a classic Mustang or even a Corvette. Brennan flipped out. He started marching up and down through the big workspace just yelling at me. I have no idea what he said, because he seemed to be speaking in tongues, but by the tone I could tell that this one small request had pushed him over some imaginary line that he had drawn in the sand. I tried to stand up for myself, asking for just one small compromise, but he refused and swore that he would rather delete the entire repo before turning in a “bastardized version” of the game that he had wanted to build. Moving on….there is also the fact that Brennan insisted on pairing during the entire project, but he would never actually speak to me. He would speak, but it was more like to himself or some other third party that wasn’t actually in the room. And what’s up with that horrible clicking noise that he always makes with his tongue? Every time he completed a function he would click with his tongue three times.*
+
+In the end, I would like to congratulate Brennan on completing Module 4 and gradating from Turing! I wish him the best and hope that we have the opportunity to work together at some point in our future careers!
 ### Playing a Part
 
 [Turing School Podcast](http://turingschool.libsyn.com/)
