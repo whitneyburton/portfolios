@@ -1,5 +1,4 @@
 # Lucy Fox  - M2 Portfolio
-*********ADD COMMUNITY STUFF, EVAL FOR LITTLE SHOP, FEEDBACK FROM MARCELLA
 
 ### Areas of Emphasis
   My goal beginning mod 2 was to come out feeling comfortable to work through complex problems quickly and independently and to improve my git flow. I feel confident six weeks later being able to say I've accomplished these. I've been able to work through many tutorials and projects successfully. During group projects this mod I've been comfortably developing a more sustainable and realistic git workflow which I hope will continue to improve as I go.
@@ -107,22 +106,22 @@ Notes:
 * Work flow was good but we could have used the comments more throughout the project when merging.
 
 (Evaluation Scores)
-####1. Functional Expectations
+#### 1. Functional Expectations
 3: Application fulfills base expectations
 
-####2. Test-Driven Development
+#### 2. Test-Driven Development
 3: Application is well tested but does not balance isolation and integration/feature tests
 
-####3. Encapsulation / Breaking Logic into Components
+#### 3. Encapsulation / Breaking Logic into Components
 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-####4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-####5. Sinatra / Web and Business Logic
+#### 5. Sinatra / Web and Business Logic
 3: Application makes good use of Sinatra but has some mixing of the web and business logic.
 
-####6. View Layer
+#### 6. View Layer
 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
 Workflow (NOT GRADED)
@@ -136,10 +135,47 @@ Workflow (NOT GRADED)
 
 Little shop has been one of the most exciting and entertaining projects I've done at turing. Not only was I incredibly lucky to work with Marcella and Charlie, but I was also lucky enough to get to stare at goofy socks while we created our project. However, it has made me realize I definitely can up my CSS/HTML game.
 
+Evaluated By Jhun
+
 (Evaluation Comments)
+Notes:
+ * Background image: make a div that comes after the body and make the id background image and place the image in there instead of having to use the body. Isolate the image outside of just the body tag.
+ * Make sure there is seed data for everything so you can see things in production. (Orders should have seed data).
+ * Make sure that the helper methods in controller are private methods
+ * Simple delegator - super the item, creates an object that is aware of it's quantity, sum, and all the item attributes (could have used this as an extra helper for cart items maybe)
+ * Dry up testing by creating a helper method for creating an admin so you'll have to declare it less.
+ * Good to have complete model testing
+ * Good job testing at feature and model level, make sure method works and make sure feature works as well
+ * Workflow: Glimpses of excellent, but would like to see more commenting on github, I have specific feedback for you at this line. Majority of things squashed, but could have done a few more.
 
 (Evaluation Scores)
+#### 1. Feature Completeness
 
+4: All features are correctly implemented along with two extensions
+
+#### 2. Views
+
+4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+
+#### 3. Controllers
+
+4: Controllers show significant effort to push logic down the stack
+
+#### 4. Models
+
+4: Models show excellent organization, refactoring, and appropriate use of Rails features
+
+#### 5. Testing
+
+4: Project has a running test suite that exercises the application at multiple levels
+
+#### 6. Usability
+
+3: Project is highly usable, but needs more polish before it'd be customer-ready
+
+#### 7. Workflow
+
+3: Good use of branches, pull requests, and a project-management tool.
 
 
 ## Individual Projects/Non-Evaluated Projects
@@ -182,28 +218,22 @@ Little shop has been one of the most exciting and entertaining projects I've don
 * Lucy is a sharp programmer and excels at clearly seeing the logic of the problem at hand. She has been great in getting our group moving and digging into bugs when they come up. As an improvement, Lucy could work on slowing down to more clearly communicate her ideas before implementing them at times.
 
 ##### From Marcella:
-*  
-
+*  Lucy is a super strong developer! I was impressed with her work before we were grouped together on this project, and finishing it I admire even more her grasp of Rails fundamentals and logic. Her persistent work ethic was inspirational, as well: it's hard to spend 14-16 hours in the Turing basement over a weekend, but I have seen Lucy here many weekends, and we were able to be quite productive in that time. Her workflow is also enviable. My suggestion to her would be to consider offering tutoring for Mod 2 students who are struggling. Her strong foundation will serve her well in Mod 3!
 
 ##### From Charlie:
 *  Working with Lucy on Little Shop has been a pleasure.  I really admire her general work ethic and drive.  She has been instrumental in keeping things moving on a day to day basis. Our group has had an easy time working together which I really appreciate. Two week projects are a lot of work and it meant a lot to me to have two group mates who were so dedicated to turning in a good product while also maintaining respect and good relations with their partners. I think sometimes it was tough for Lucy to not move forward at a quicker pace which may have caused some frustration. It can be tough to move at a slower pace than you are typically used to and I think she was great about catching herself wanting to move ahead and respecting our pace. I was able to learn a lot from Lucy thanks to her extensive knowledge and willingness to put in time to help explain things. I think we turned in a great project and I look forward to working with Lucy in the future.
 
-
-### Blog post
+## Blog post
   - https://medium.com/@lucyfox/hands-off-the-mouse-8a15c0bc746#.vmwr9g1v7
   - I enjoyed having the chance to write this post and hope to incorporate it into my regular schedule. I have several topics I'd like to explore during intermission week including rebasing, pry, and incorporating an agile workflow into life at Turing.
 
-### Community
-If you're in a posse - please include:
-
-a blurb about what you did with your posse over the module
-your favorite thing about the posse experience
-how has your posse experience helped you grow as a professional?
+## Community
 
 ##### Hopper Posse Lead
-##### Pairing with Mod 1
-##### Others
+* The primary ambition of hopper posse is to provide support (both academic and sometimes emotional) for mod one students. This module was a bit strange as we weren't working with mod one students until week 3. At that time though, we did a student led session going over the basic tools of HTTP as well as some git workflow techniques. This was probably my favorite part because we were able to help quite a few people in a short amount of time. Something I've been needing to work on during my time at turing is my ability to clearly explain my thought process while figuring out complex problems. Hopper posse definitely helps with that. As a professional that skill will be essential, especially if pairing is a big piece of where I end up working.
 
+##### Other
+* I am also active in the Joan Clarke society as well as productivity lunches. I attended each of these every week of the module (with the exception of a Monday lunch due to rush hour evals running late.)
 
 ### Self Assessment Scores
 
