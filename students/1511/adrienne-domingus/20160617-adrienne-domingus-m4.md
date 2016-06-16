@@ -25,8 +25,9 @@ Assessed by: Louisa Barrett
 #### Scores
 Assessed by: Brenna Martenson
 
-Checkins: 155/150  
-Final: 155/150
+* Checkins: 155/150  
+* Final: 155/150
+* Total: 310/300
 
 ### ScaleUp
 [Code](https://github.com/adriennedomingus/wadoe_api)  
@@ -38,6 +39,7 @@ Assessed by: Meeka & Louisa
 
 * Week 4: 150/150
 * Week 5: 150/150
+* Total: 300/300
 
 ### Thoughtbox
 
