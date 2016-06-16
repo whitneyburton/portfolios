@@ -4,206 +4,114 @@
 
 ### Areas of Emphasis
 
-This is my second try at module 1.
-
-My goals for this module are:
- * Comfort and ease with hashes
- * Understand how objects are instantiated and differences between instance variables, attrs and why we use each
- * Developing a workflow that consistently uses psuedocode at its start
- * More robust testing, not just testing for basic functionality but thinking creatively about edge cases
- * Creating more readable code
- * Refactoring consistently in my projects, specifically using the best method every time and splitting responsibilities evenly through classes
- * Building classes responsibly, each one having its own non-arbitrary role
+Module 3 I focused primarily on learning advanced Rails. I really wanted to understand fully consuming APIs and building my own. I also wanted to start learning Javascript.
 
 ### End of Module Assessment
 
 Notes:
 
-* Really good workflow and organization.
-* Good testing instincts.
-* I liked how you based the test on the spec, but maybe it could be a bit more granular, but you recognized it.
-* Used the writing of tests to help gain understanding of the problem.
-* Remembered to run tests before writing the code, good anticipation of errors.
+* Search functionality is working
+* Show page is working
+* Passing a lot of params to show page
+* Accessing hashes in the views instead of objects
+* No need to set API key as header
 
-Instructor: Mike  
-
-* Ruby Syntax: 3 Developer is able to write Ruby with some debugging of fundamental concepts
-* Completion and Progress: 3 Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
-* Testing: 3 Developer writes tests that are effective validation of functionality, but don't drive the design
-* Workflow: 4 Developer is a master of their tools, efficiently moving between phases of development
-* Collaboration: 4 Developer actively seeks collaboration both before implementing, while in motion, and when stuck
-* Enumerable & Collections: 3 Application demonstrates comfortable use of appropriate Enumerable methods
+* Ruby Style: 3
+* Rails Syntax & API: 3
+* Testing: 3
+* Progression/Completion: 3
+* Workflow: 4
 
 ### Work
 
-I completed the following individual work this module:
+I completed the following work this module:
 
-#### Mastermind
+#### The Pivot
 
-* [GitHub URL] https://github.com/marinacor1/Mastermindvol2
-* [Original Assignment]https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown
+In this two weeks project, our team of three chose a project we had never worked on and redesigned it to be similar to an Airbnb site.  Some highlights of the project were using Selenium to test AJAX, building multitenancy authorization, styling using Bootstrap and using an API.
 
-Evaluator: Mike
+* [GitHub URL] https://github.com/marinacor1/the_pivot
+* [Original Assignment]https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md
 
-Notes: Program works.
-Implemented difficulty levels.
-There is a lot color.
-There is a command line wrapper.
-Some opportunities to refactor, use less instance variables, consider methods sending messages to each other.
+Evaluator: Nate
 
-* Fundamental Ruby & Style: 3
-* Enumerable & Collections: 3
-* REPL Interface and Game Functionality: 4
-* Breaking Logic into Components: 3
+Notes:
+Too much logic in controllers
+Using PORO's in models, which is good, but needs another PORO (reservations in cart)
+Good risk taking using selenium
+Got trapped by AJAX functionality that didn't add much to the UX
+But good work building an API before we taught you how to do that
+Tests are covering lots of cases, not just LOC
+UI looks good, but text on images is straining my eyes
+Friends became enemies became sick became friends
 
-#### Binary Search Tree
+* Completion: 3
+* Organization: 4
+* Git Workflow: 4
+* TDD: 4
+* Code quality: 2
+* Extensions: 4
 
-* [GitHub URL] https://github.com/marinacor1/binary_search_tree
-* [Original Assignment] https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown
+#### Rales Engine
 
-In this four day project I built a binary search tree that can insert, find depth, search, return depth based on score, find maximum and minimum, sort, load files and insert to tree, and find the health of the tree.
+* [GitHub URL] https://github.com/marinacor1/rails_engine
+* [Original Assignment] https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md
 
-Evaluator: Horace
+In this four day project I built an API that displayed basic information from a database, relationships within the database and more obscure queries.
+
+Evaluator: Nate
 
 Notes:
 
-* Clean and thorough implementation overall
-* love the volume of tests
-* Code is generally clean and well-organized at the small level
-* Biggest area for improvement is continuing to strip down and
-streamline the conceptual process at the high level
-* Overall tests and implementation have some tendency to run around the
-core of the idea -- reliance on extra ivars, nested methods, etc
-* Keep thinking about what is the core idea of a process and how
-to most clearly express that in code -- for a problem like this code should
-read like an outline of what the actual algorithm is
+Test model level logic in unit tests
+Controller tests have more than just basic success, but could have more value
+Could use member and collection in your routes file
+Could push if/else into model, but not the worst thing in a controller
 
-* Functional Expectations: 3
+* Completion: 3
 * Test-Driven Development: 3
-* Encapsulation / Breaking Logic into Components: 3
-* Fundamental Ruby & Style: 3
-* Looping ​*or*​ Recursion: 3
+* Code Quality: 4
+* API Design: 4
+* Queries: 4
 
-#### Sorting Suite
 
-* [GitHub URL] https://github.com/marinacor1/sorting_suite
-* [Original Assignment] https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown
 
-In this project, I built three separate programs that sort elements within an array. One was bubble sort, the second insertion sort and the last was merge sort.
+#### Personal Project
 
-Evaluator: Nate
+* [GitHub URL] https://github.com/marinacor1/turing_connect
+* [Original Assignment] https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md
 
-Notes:
+In this project, I built a Turing alumni app that allowed alumni to connect with each other by displaying information about location and employment status.
 
-* Functional Expectations: 3
-* Test-Driven Development: 4
-* Ruby Style: 3
-* Organization (Version control maintains the code base): 4
-
-#### Battleship
-
-* [GitHub URL] https://github.com/marinacor1/Battleship
-* [Original Assignment] https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown
-
-In this project, I built a Battleship game where the player plays against the computer. z
-
-Evaluator: Nate
+Evaluator: Brenna
 
 Notes:
-
-* Fundamental Ruby & Style: 3
-* Enumerable & Collections: 3
-* Test- Driven Development: 3
-* REPL Interface: 4
-* Breaking Logic into Components: 2
-
-#### Mid-Module Assessment
-
-Evaluator: Nate
-
-In this assessment, I added a method that found the highest scoring word within a Scrabble game.
-
-
-* Ruby Syntax & API: 3
-* Ruby Style: 4
-* Blocks & Enumerations: 3
-* Test- Driven Development: 4
-* Workflow: 3
-* Collaboration: 3
-
-#### Instructor Pairing
-
-Instructor: Nate
-
-In this pairing we worked on a CSV phone challenge that Mike had created the night before.
-
-Notes:
-
-- I'd like to see more planning before action.
-  Bias towards action when you need more information,
-  but spend more time consuming the spec and designing
-  at a high level.
-- Struggling with thinking through loop scope.
-  Took several tries to get modified data out of the loop.
-- Good at getting past walls. You don't get frustrated,
-  or you're hiding it well.
-
-## Team Projects
-
-I participated in the following team projects:
-
-#### HTTP: Yeah You Know Me
-
-* [GitHub URL] https://github.com/marinacor1/HTTPYYKM
-* [Original Assignment] https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown
-
-In this project, my partner Josh and I, built HTTP, a server that runs using Ruby.  The server included all iterations and one extension.
-Which meant that the server could receive a request from a user, understand the request's intent and source, generate a response (like "Hello, World!(0)" or identifying if a word is valid) and then send the response to the user.
-
-Evaluator: Tess
-
-Notes:
-
-* Overall Functionality: 4
-* Fundamental Ruby & Style: 3
-* Test- Driven Development: 4
-* Breaking Logic into Components: 4
-
-#### Black Thursday
-
-* [GitHub URL] https://github.com/marinacor1/BlackThursday
-* [Original Assignment] https://github.com/turingschool/curriculum/tree/master/source/projects/black_thursday
-
-In this project, my partner Kami and I built a relational database that can parse data from CSV data, build relationships, link data and find specific information, like best item for merchant or rank merchants by revenue.
-
-Evaluator: Mike
-
-Notes:
-* 95.56 percent test coverage.
-* Some redundant testing, some missing points
-* 110 runs, 233 assertions, finishes in 215 seconds
-* Some refactoring possible in pulling out methods for reasons of SRP and for clarity.
-* Well organized code, I liked how the data parts were separated.
-Did I4
-
-* Functional Expectations: 3
-* Test- Driven Development: 3
-* Encapsulation/ Breaking Logic into Components: 3
-* Fundamental Ruby & Style: 3
-* Enumerable & Collections: 3
-* Code Sanitation: 3
+  OAuth: Github
+  APIs: Turing documentation and github/google maps
+​
+  UI
+  - Small bug with dashboard and user information formatting
+  - Add default image for non-authorized user
+  - Consistent pagination
+  - User can edit other profiles and results show up on my page
+  - Awesome use of subtle animations/background patterns
+  - Inline styling is bomb.
+  - Built internal api to handle turing csv data
+  - Good design decisions with how map and data are displayed/determined
+  - Extensions with JavaScript and inline editing
+  - 98% Coverage
+​
+* Completion: 4
+​* Organization: 4
+* TDD: 4
+* Code Quality: 3
+​* UX: 3
+* Performance: 3
 
 
 ### Feedback to Me
 
 I grew a lot this module.  Choosing to do Echo over Foxtrot, was a great decision.  I was able to build more confidence as a developer and more comfort with coding.  I was especially proud of my Mastermind and HTTP projects.  The biggest areas of growth for me were testing, writing readable code and breaking large projects into smaller ones.
-
-### Attendance
-
-This module I attended all days and classes on-time with the exception of Friday, February 5th for Teach for America Summit.
-
-### Posse Challenges
-Repo: https://github.com/weilandia/goldberg_posse_challenges
 
 ## Community
 
@@ -211,62 +119,28 @@ Repo: https://github.com/weilandia/goldberg_posse_challenges
 
 #### For my peers:
 
-* Toni Rib: The two times I’ve paired with Toni, I have been thoroughly impressed with her ability to look at someone else’s code, understand it and give clear and concise feedback.  With our Black Thursday project, she was able to draw out the overall project and help us with our understanding of the overall architecture.  Without giving us the answer, she gave us some great ideas on how to pair.  I’m incredibly impressed with her ability to give to the Turing community through tutoring, while managing her large projects and am very grateful to have her a part of our school.
+    Matt Pindell:   Matt worked very hard on the project. So hard, in fact, that he got sick from the countless hours working. I can definitely attest to his strong work ethic.  I think my biggest piece of feedback for Matt would be to take on a small step and worry about getting it to basic functionality before taking on something else.  Styling, edge cases, adding ajax or specific functionality is great, but it shouldn't be the first concern.  I think that the mindset to try to tackle a lot at once, pushed us back because we were left waiting for a specific thing to get done and couldn't move forward.  It also was so complex that no one else could problem solve or write tests for it, which put the team into a tough spot when he was out the second week because of illness.
 
-* Joshua Washke: I feel very lucky to have gotten Josh as my partner for HTTP. Josh is very strong in both his ability to debug and think big picture about a project. From the beginning, he sketched out several options for the overall structure of the project.  He taught me how to use the architecture of a project to understand the overall purpose.  Besides his clear knowledge and comfort with Ruby, he is a great partner to work with.  He has a strong work ethic and was flexible when it came to divying projects.  I think Josh is a great asset to our cohort and am excited to work with him in the future.
-
-* Kami Boers: Kami is a very strong problem solver. She has been great to work with for Black Thursday. I feel like I'm learning more about how classes call on each other through her explanations and understanding.  I also am very grateful to have her as a partner because she is very reliable and communicative. As a student advisory board member, her notes and presentations are very thorough.  I think Kami is a strong leader and think she will be such an asset to module 2.
+    Admir D:    Admir is super friendly and was awesome to work with. I think I would have liked to see Admir step out of his comfort zone more in the project and take on things he hadn't tried before, like styling or refactoring. It also felt that for some cards, it would take Admir longer than he initially thought and some things he didn't make into pull requests because he wasn't sure if they were worth it in the end.  I think I would have liked to see Admir try to resolve the issues that arose on his branch (or seek help) and then ultimately be able to merge the branch.  I know that Admir often would ask questions to other team members, but even seeking from mentors or other classmates is a great skill and something that would have helped him and the team.  I also think that as project manager I would have liked to see him give clearer deadlines to the project and take on more of a leadership role.
 
 #### From my peers:
-* Patrick Hardy: It was great pairing with Marina. I feel like she was able to teach me several important workflow skills very quickly, and her experience is evident in her mastery of these skills. It's great that she immediately identified areas that I can improve in and helped me with that unprompted. Through this process she did realize there were some gaps in her memory of hot keys etc, which will improve with more practiced and/or keeping this information organized.
 
-* Claudia Kiesenhofer: I really enjoyed working with you. I hadn't got that far in the exercise with the former partner as you had, so I needed a bit to catch up. I appreciated that you gave me the time for that and let me figure out things you already knew but also gave suggestions how to move on. We switched off with typing and figuring out the next steps even though you seemed to be way more familiar with the task list. Your way of communicating ideas and next step was very structured and clear which made it easy for me to follow you. Even though the timeframe for this pair work was very short and felt a bit rushed I learned a lot by suggesting and implementing solutions and also by implementing your suggestions. Thank you.
+    Marina, your focus on workflow is awesome and undeniably an asset to any team you’re own. It helped keep us on a more concrete course of action, which is what we needed - especially when we hit our first bout of turbulence. I think you said as much yourself, but it would be better to voice your concerns about workflow issues earlier, and to not bottle up your thoughts about the direction the team should head in / the way we should distribute responsibilities and work. At the end of the day (and the end of my illness) I was super stoked with what you and Admir put together while I was a walking corpse - you single-handedly made the extension work - so keep crushing it! - Matt Pindell
 
-* Nick Weiland: I’ve seen such an awesome improvement in both your Ruby skill and confidence this module. All the times I worked with you over the past few weeks I was super impressed with your workflow and ruby logic.  I recommend continuing to reinforce your understanding how your code gets processed, similar to how we broke down the recursion  that was taking place in Bubble Sort on paper. You’re going to rock Mod 2!
+    Marina I really admire the drive you have. Your ability to organize and complete tasks is an attribute I will try to emulate. When Matt and I went off on tangents about features we were exited about you were the team member that got us to focus on what was important to the project. I was really impressed by you pointing out areas that you wanted to become stronger in and taking them on. Before the project started you mentioned that you were not comfortable with styling and by the time the project wrapped up you had developed really solid front end skills. I have really enjoyed being able to learn with you. I feel like after completing this project you have a lot more faith in your abilities and I hope you continue riding that wave. You seem to be your harshest critic but I can honestly say I am impressed with the skills you have developed as a programmer. - Admir Draganovic
 
-* Drew Thompson: We had good back and forth additions to the code.  Our understanding of different concepts led to better, more efficient code.
 
 ### Playing a Part
 
-* I co-ran a Group Retro
-* I went to the Hack Design's Meetup for Universal Mind with the Hack Design team
-* I went to a Denver.rb meetup with a group of Turingers
-* I organized a happy hour for 1602 Echo at the end of Echo
-* I helped work the Turing booth at the TFA Summit
-* I was the 'head' of Goldberg Posse and organized daily meetings
-* I shared my blog on the newsletter
+* I was an active member of the Palka Posse, participating in weekly meetings
+* I participated in Tutoring sessions with Palka Posse members
+* I blogged about my projects at marinacorona.com
 
-## Protocol Requirements
 
-### DTR Memo
+### My Personal Evaluation
 
-* https://github.com/marinacor1/Marina_corona/blob/master/dtr_black_thursday.markdown
-
-### Blog
-* http://marinacorona.com/
-
-### Pull Requests
-
-* https://github.com/marinacor1/BlackThursday/pull/41
-
-* https://github.com/marinacor1/BlackThursday/pull/42
-
-### Project ReadMe
-
-* https://github.com/marinacor1/Battleship
-
-### Notes from Black Thursday Debrief
-
-* Things that went well: Complimentary styles: Marina is good at testing and project planning and Kami code and debugging. Pretty sustainable work load. Communication was strong. Initial architecture was strong. Keeping stuff on branches and communicating with each before merge to master.
-
-* Things that we could work on: Collaborating more on fundamental stuff (rather than splitting jobs). Github was confusing and caused some bugs when we would merge. Mental breaks during long work hours.
-
-* Things that didn't get done: Refactoring was a big struggle because we pushed back our end date and there needed to be more collaboration. We didn't work together as much. Miscommunication with work on the weekend. Redoing stuff. Figuring out how to do the weekend stuff?
-
-* Organizational constraints: needing to leave the school building/ working on the weekend
-
-* What existing techniques or approaches from past projects enhanced or enabled our performance on this project? I learned from Josh, drawing out the architecture of the project before writing anything.
-
-* Could time pressures have been alleviated by organizing the work differently? Communication. The greatest chunk of work was done separately and that hurt us.
-
-* Challenges: Spec harness, the spec harness was not very clear.
+* End of Module Assessment: 3
+* Individual Work & Projects: 4
+* Group Work & Projects: 3
+* Community Participation: 3
+* Peer & Instructor Feedback: 3
