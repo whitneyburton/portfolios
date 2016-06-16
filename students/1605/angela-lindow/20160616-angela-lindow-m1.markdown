@@ -19,7 +19,7 @@ During this module, I hoped to really grasp object oriented programming, logic, 
 * Testing: 4
 * Workflow: 4
 * Collaboration: 4
-* Enumberable & Collections: 4
+* Enumberable & Collections: 3
 
 ### Work
 
