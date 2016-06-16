@@ -90,8 +90,11 @@ for building out a product idea. I plan to continue with the posse and this proj
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: N/A
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
