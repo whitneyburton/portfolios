@@ -47,6 +47,7 @@ This project was a flashcard program that is used through the command line. A us
 
 * [GithHub URL](https://github.com/allindow/projects/tree/master/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+* [NightWriter Readme](https://github.com/allindow/projects/blob/master/night_writer/lib/README.txt)
 
 This project translated latin characters to Braille-like text and vice versa. It was a great project to get comfortable with manipulating and accessing elements in an array with Enumerables.
 
@@ -132,11 +133,7 @@ Using data about schools in Colorado provided by the Annie E. Casey foundation, 
 ## Softskills/Protocol
 
 ## DTR Memo
-* [DTR Gist] (https://gist.github.com/allindow/25eb4bd1f54f5e6fab7d6e1e270618fb)
-
-## Project README
-* [NightWriter Readme] (https://github.com/allindow/projects/blob/master/night_writer/lib/README.txt)
-
+* [DTR Gist](https://gist.github.com/allindow/25eb4bd1f54f5e6fab7d6e1e270618fb)
 
 ## Review
 
