@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-During this module, I hoped to really grasp object oriented programming, logic, and Ruby. I wanted to learn the importance of Test Driven Development and how it can lead you to write code that is easily readable and practical. Honestly, at the beginning of the module, I didn't know what I didn't know, so my main goal was to just soak up everything that I could. As the module went on, my goals became more specific. Some of those goals were to strive to have code that is DRY, continually ask myself if I am applying SRP, thoroughly understand Objects and their attributes, and get better at spotting opportunities for meaningful refactoring. Having these things on my radar was a huge help during my projects. I am amazed at how much I have learned and accomplished this mod! Things that seemed impossible have become attainable.
+During this module, I hoped to really grasp object oriented programming, logic, and Ruby. I wanted to learn the importance of Test Driven Development and how it can lead you to write code that is easily readable and practical. Honestly, at the beginning of the module, I didn't know what I didn't know, so my main goal was to just soak up everything that I could. As the module went on, my goals became more specific. Some of those goals were to strive to have code that is DRY, continually ask myself if I am applying SRP, thoroughly understand Objects and their attributes and their class interactions, and get better at spotting opportunities for meaningful refactoring. Having these things on my radar was a huge help during my projects. I am amazed at how much I have learned and accomplished this mod! Things that seemed impossible in the beginning have become attainable, and I am continually setting my goals higher and striving to reach them.
 
 ### End of Module Assessment
 
@@ -19,7 +19,7 @@ During this module, I hoped to really grasp object oriented programming, logic, 
 * Testing: 4
 * Workflow: 4
 * Collaboration: 4
-* Enumberable & Collections: 4
+* Enumberable & Collections: 3
 
 ### Work
 
@@ -47,6 +47,7 @@ This project was a flashcard program that is used through the command line. A us
 
 * [GithHub URL](https://github.com/allindow/projects/tree/master/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+* [NightWriter Readme](https://github.com/allindow/projects/blob/master/night_writer/lib/README.txt)
 
 This project translated latin characters to Braille-like text and vice versa. It was a great project to get comfortable with manipulating and accessing elements in an array with Enumerables.
 
@@ -128,24 +129,21 @@ Using data about schools in Colorado provided by the Annie E. Casey foundation, 
 * Have been to most Joan Clarke Society coffee mornings and love it
 * Have volunteered to help with a microposse next module as I had a wonderful microposse experience, and I gathered not many others did.
 * As a recipient of the James Golick Grant for Women in Computology, I check in with Jill Golick about my progress here who in turns updates the supporters of the grant, most of which are in the tech industry
+* I try to be super responsive when new moms join the #turingmoms on Slack or when Mary had asked for people to talk to a prospective student who was a mom. I ended up chatting with her on the phone that night. Being a Turing Mom is such a unique challenge and experience, and I wanted to always be available for questions/concerns that moms looking at Turing may have.
 
 ## Softskills/Protocol
 
 ## DTR Memo
-* [DTR Gist] (https://gist.github.com/allindow/25eb4bd1f54f5e6fab7d6e1e270618fb)
-
-## Project README
-* [NightWriter Readme] (https://github.com/allindow/projects/blob/master/night_writer/lib/README.txt)
-
+* [DTR Gist](https://gist.github.com/allindow/25eb4bd1f54f5e6fab7d6e1e270618fb)
 
 ## Review
 
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 4
-* **D: Community Participation**: 3
+* **D: Community Participation**: 3.5
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
