@@ -242,6 +242,13 @@ Breaking Logic into Components
 
 ### Giving Feedback
 
+Feedback I gave to other people:
+
+"During the project, Chris was able to hold his own and effectively get through projects. He was very time efficient and always came back to class with all his work done. Whenever I got stuck on a problem, he was able to help me through it, and he has strong refactoring and problem solving skills.  He was a great partner and we never had any issues during the entire project. He absolutely deserves to go onto to Mod2" -Nicole Marino, HTTP YYKM 
+
+
+Ben is always willing to learn and has made amazing progress throughout the module. He's always time efficient with his assignments and never slacks off. Whenever he struggled, he got into a pairing session and put the extra effort into understanding the problems. He put in more time and effort into mod1 than most students" -Nicole Marino
+
 Personal Scores:
 
 2: Student earned one score below "3" on the assessment
