@@ -189,7 +189,9 @@ Notes:
 
 > Ling has a been a great moral support for me over the last couple modules. She always had positive things to say to me when she could tell that I was feeling stressed and she did of great job of cheering me up. I've paired with her a handful of times and can tell she has a good grasp of what she is doing and an enthusiasm for it as well. Additionally, even when she's stressed she's always able to put on a smile and laugh through any difficulty. I'm excited to see where her career takes her and wish we could have worked on something together (although maybe we will in the future!)
 
+* Jon Liss (Little Brother), 1602 | Community Member :
 
+> :link: :tram: <- you better keep that in this feedback or it’s all invalid. Ling is a pretty cool person.  That’s not to say she’s perfect, i never said that, but she’s pretty cool.  So far throughout turing she’s proven herself to be a pretty slick programmer too. Did you know she knows a little Chinese? I didn’t make that up.  She’s also related to David Hasselhoff.  Ok I made that one up, but that doesn’t make it any less true.  Anyway, why didn’t you pair us up on any projects?  I think we would make a great team.  Because my of my prior feedback pertaining to her slickness in programming.  This feedback is not super grammatically correct.  It’s also over.
 ---
 ## __Community__
 ---
@@ -219,6 +221,10 @@ Notes:
 * Erinna Chen, 1511 | Pairings :
 
 > Erinna continued to be an amazing mentor this module. I've learned a lot under her guidance in navigating various problems. She also offered significant emotional support during a particularly stressful module for me. She was attentive in ways that was surprising. If there is one recommendation I can give to Erinna, I would say she doesn't have to be so hard on herself regarding social skills. Her team player orientation and conscientiousness are qualities that standout and anyone is able to see that. I'll miss you tremendously Erinna!
+
+* Jon Liss (Little Brother), 1602 | Community Member :
+
+> Little Brother is a poet, and he doesn't even know it. Well, maybe he does because he occasionally quotes Shakespeare that one time and attempted to write it in binary code. This just goes to show how much of his vitality draws from solving problems through programming. He also enjoys teaching and seeks opportunities to improve himself as a teacher. As his older sister, I'm obligated to say it requires a lot of training to be a good teacher - like Yoda (or perhaps that's not the best example of a great teacher unless one's educator status is measured by an aptitude for exercising Socratic methodologies? Does that even apply in this situation? - so there is a ways to go. On the bright side, time is on his side! The programming force seems to be with him and I'm excited to see the amazing things he'll crank out next module. ClarkeBase was a cool project and it would have been a Fantastic Four convening. But alas, Chinese words spoke to me, if words can speak. All in all, Little Brother continued to crush stuff this module. Boy this paragraph object seems to break SRP and may be a bit DRY. Refactor later? For now, #awesomepossum.
 
 ### Playing a Part
 * Clojure club.
