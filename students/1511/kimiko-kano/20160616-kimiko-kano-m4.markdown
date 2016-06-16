@@ -198,8 +198,12 @@ From Scott: I finally had the pleasure of working with Kimi on Game Time. I foun
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+GRADUATED
+
+* **A: End-of-Module Assessment**: N/A
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
