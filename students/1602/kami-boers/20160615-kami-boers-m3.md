@@ -42,12 +42,12 @@ Assessed By: Josh
 ##### Notes:
 ##### Scores:
 
-Completion: 3
-Organization: 4
-Test-Driven Development: P
-Code Quality: 3
-User Experience: 3
-Performance: 3
+* Completion: 3
+* Organization: 4
+* Test-Driven Development: P
+* Code Quality: 3
+* User Experience: 3
+* Performance: 3
 
 #### Rails-engine
 
@@ -119,8 +119,8 @@ Assessed By: Evaluated by: Josh M.
 
 ### Self Evaluation
 
-A: End-of-Module Assessment: 3
-B: Individual Work & Projects: 3
-C: Group Work & Projects: 3
-D: Community Participation: 3
-E: Peer & Instructor Feedback: 3
+* End-of-Module Assessment: 3
+* Individual Work & Projects: 3
+* Group Work & Projects: 3
+* Community Participation: 3
+* Peer & Instructor Feedback: 3
