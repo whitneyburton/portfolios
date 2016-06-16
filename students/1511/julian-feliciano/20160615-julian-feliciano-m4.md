@@ -132,11 +132,11 @@ Julian is a master at JavaScript. When I needed help he always took the time to 
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: N/A
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 4
 
 ### Notes
 
