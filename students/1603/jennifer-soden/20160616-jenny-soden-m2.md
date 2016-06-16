@@ -16,11 +16,40 @@ Assessments: mid-module, final
 
 ## Individual
 
-###### Final Eval Scores
+
+### Areas of Emphasis
+During module two I was really excited to shift gears and start making websites. I set out to learn as best I could the new material, and my personal goal was to just keep up. I fell a little behind, but I did find myself enjoying web development more that straight programming. I am proud of what I have accomplish academically this module.
+
+I also wanted to make an effort to connect myself to the new module one students. I was able to help by pairing and offering advice of how to mentally stay motivated and focused during the transition into Turing.
+
+I believe I achieved what I set out to do.
+
+### Posse
+Part way through this module I changed from Miyamoto to Armstrong posse. I have enjoyed both, despite them being drastically different. Chelsea and Heidi are wonderful spirits and always cheerful. I enjoyed starting the adventure of making a text base Turing game. They even incorporated a piece of coding I did while following a tutorial. I think working with that many people on one thing taught me to listen more to others, and it was an excellent example of a big collaboration where everyone had a voice. It taught me how team work should be.
+Armstrong, however, satisfies my curiosity into other languages. Last module I wanted to venture into functional programming languages to know the differences between them first hand. I think Armstrong has more of a Turing "learn-for-yourself" vibe, and I know I can go to Erinna or Josh for any questions I have. And not to learn the answer, but how to effectively find it.
+I believe both posses have helped me become a stronger developer through teamwork and education.
+
+### Mid Module Diagnostic
+
+Evaluator: Jeff
+
+Notes:
+* Like 32-sided wheel, just need to smooth out more.
+* Could use model work
+* Liked that I knew where to look for things
+* No really terrible "I can't believe you don't know this" moments.
+
+### End of Module Assessment
 
 ## Evaluation Criteria
 
 Evaluator: Andrew
+
+Notes:
+* Had nerves
+* Need to remember it's all just Ruby, and I need to remember plain old Ruby.
+* In terms of collaboration, make sure every one is on the same page before doing something.
+  * Clears up bigger picture to not get stuck.
 
 Subjective evaluation will be made on your work/process according to the following criteria:
 
@@ -47,49 +76,93 @@ Subjective evaluation will be made on your work/process according to the followi
 ### 6. Collaboration
 
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
-
-
-### Areas of Emphasis
-
-
-
-### End of Module Assessment
-
 (Notes & scores from your assessment rubric)
 
 ### Work
 
-This module I completed the following projects:
+This module I worked on the following projects:
+* [Mix Master](https://github.com/MsJennyGiraffe/mix_master)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
 
-#### Mix Master
+Rails app where you can create artists, songs and playlists in a database and link them together!
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [Blogger](https://github.com/MsJennyGiraffe/blogger)
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
-(description)
+Follows a tutorial to make a blog site.
 
-(evaluation comments)
+* [Tool Chest](https://github.com/MsJennyGiraffe/tool-chest)
 
-(evaluation scores)
+Put all your tools in the tool chest! Visit back to implement new features gone over in class.
+
+* [Robot World](https://github.com/MsJennyGiraffe/robot_world)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
+
+Use Sinatra to generate robots, collect robots, anything you want with robots, this is for you!
 
 ## Team
 
 ### Projects
 
-(Intro)
+This module I worked with a team for:
 
 #### Rush Hour
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/MsJennyGiraffe/rush-hour-skeleton)
 * [Original Assignment]()
 
-(description)
+#### Notes:
 
-(evaluation comments)
+Assessed By: Jeff
 
-(evaluation scores)
+* Tests: 73 runs, 103 assertions
+*  Overall testing good. One thing: change of state is what we are seeking to figure out in the test, so for a test that displays an error when a duplicate payload request is submitted, for instance, add an additional assertion to confirm that the error does not appear until repeat request sent.
+*  As you get more experienced with TDD and programming process, you'll come to anticipate small potential errors of aspects of the program in advance. For instance, you could have added edge cases like substrings that had occurred in a previous request. Each minor function of a program in the industry commonly has two plus tests.
+* When testing, remember that you're often watching state change.
+  * Assert that something exists before creating a duplication and checking for an error.
+* Would have liked to see more tests that reveal how program actually works, not just spec functionality.
+  * Each minor piece of functionality should have two tests.
+* With data breakdowns, it's a good idea to include percentages.
+* Always test error pages.
+* Feature tests often get long when you're thoroughly testing, so group by scenario.
+* Some of your tests have walls of data, and it's hard to tell what's unique for each instance. Create a base_payload and change only the element you want to change between payload requests so we can see what information is unique.
+  * You can use merge({key: "change"}) to make and highlight changes that come from the same base hash.
+* Functionality good.
+* Well broken apart
+* Could use more file structure.
+  * As soon as models has 13 files, maybe it's time to further organize them.
+* Think about ownership and push logic down the stack.
+* Presentational should be in the views, not models.
+* Stay away from magic numbers.
+* Like the use of modules to make the server skinny. Instead of putting server modules in models, put them in a separate folder, their own (server_models)
+* Components not quite isolated and pushed down stack enough - URL knows too much about payload_requests
+* Like the simplicity of the web interface and use of tables.
+* Impressed by effective use of ActiveRecord methods for the time you've been introduced to them.
 
-(feedback to me)
+
+#### 1. Functional Expectations
+
+* 3: Application fulfills base expectations
+
+#### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration/feature tests
+
+#### 3. Encapsulation / Breaking Logic into Components
+
+* 4: Application is expertly divided into logical components each with a clear, single responsibility
+
+#### 4. Fundamental Ruby & Style
+
+* 3: Application shows strong effort towards organization, content, and refactoring
+
+#### 5. Sinatra / Web and Business Logic
+
+* 4: Application takes advantage of all the features Sinatra has to offer and effectively separates the web application from the business logic.
+
+#### 6. View Layer
+
+* 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
 #### Little Shop
 
@@ -135,6 +208,12 @@ Jenny’s enthusiasm is unmatched.  She was the first person I paired with in Tu
 
 This module I paired with module one students by signing up on the 1603-1605 pairing schedule for four weeks. I also had a regular pairing session with one module one student every Wednesday.
 I also organized a board game night. I enjoyed it so much that I made a slack channel! Join boardgamenight for gaming on Friday evening.
+
+### Blog Post
+
+* [Blog](https://gist.github.com/MsJennyGiraffe/a9d2f49c2b471b2b7fb620393db59431)
+
+
 
 ## Review
 
