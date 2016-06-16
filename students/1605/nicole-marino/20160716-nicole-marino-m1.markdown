@@ -291,11 +291,11 @@ Personal Scores:
 
 2: Student earned one score below "3" on the assessment
 
-I got a two on workflow, but I've set goals to improve my workflow and mechanics. 
+I got a two on workflow, but I've set goals to improve my workflow and mechanics earlier in this portfilio.  
 
 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
 
-One area that I wanted to focus on was testing. For JungleBeats, most of the notes were centered around my poorly labeled tests. The next project I scored a 4 on testing. I think this shows an accurate upward slope.
+One area that I wanted to focus on was testing. For JungleBeats, most of the notes were centered around my poorly labeled tests. The next project I scored a 4 on testing. I think this shows an accurate upward slope. I also really struggled with enumerables at the begining of the module, but I feel very comfortable with them now. 
 
 3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
 
@@ -305,11 +305,9 @@ One of my partners provided feedback that I believe represents my ability to wor
 
 I was consistant with my duties as a turing student, but I also helped Sonia with cleaning out the fridge, and I did one-on-one meetings with other 1605 students to help on iterartions of projects I had already completed. 
 
-
 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
 Halfway through headcount I received feedback that I was taking too much control over the project. I believe that since that feedback was given, I let go of some of my control freak tendencies. I also provided feedback for my last partners portfolio. 
-
 
 
 ### Being a Community Member
