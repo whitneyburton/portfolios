@@ -1,4 +1,4 @@
-# Erinna Chen - Module 3 Portfolio
+# Erinna Chen - Module 4 Portfolio
 
 ## Individual
 
@@ -26,62 +26,65 @@ I was present all days this module, with some random meetings and such which I s
 
 #### IdeaBox 2.0
 __Overview:__
-* [Github URL](https://github.com/erinnachen/illuminator)
-* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
+* [Github URL](https://github.com/erinnachen/genius-box)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 * [Submission Form](https://github.com/turingschool/ruby-submissions/blob/master/1511/module_4_assignments/ideabox2.0/erinna_chen.markdown)
+* [Genius box in action](http://damp-island-60810.herokuapp.com/)
+
+A single page application built with vanilla JS/jQuery on the front-end and Rails on the back end. Keep those sweet genius ideas in a box.
+
+__Evaluation by Meeka:__
+- Nice work
+- Good use of delegation.
+- Spacing is off in a few places
+- An easier way to do document.ready would be to have larger functions that do set up for you and calling them all in the document.ready block - You don't need to wrap all of your JS code in it.
+- Don't skip the READMEs!
+
+Score: __143/150__
+
+__Personal Notes:__
+- This could have been more modularized
+- I think consistency between using built-in JavaScript and jQuery could be better.
+- I like Rails on the backend.
+- JavaScript is sorta fun, but I'm not into the hype.
 
 #### Bubble Bobble
 __Overview:__
-* [Github URL](https://github.com/erinnachen/rails_engine)
-* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
+* [Github URL](https://github.com/adriennedomingus/bubble_bobble/)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+* [Production Site](http://bubble-bobble-redux.herokuapp.com/)
 
-Bob is a dragon who likes to blow bubbles. He has a friend
+Bob is a dragon who likes to blow bubbles. He has a friend Bub who is always the bridesmaid, but he too likes to blow bubbles. We built a battle zone so that they could duke it out in a friendly but competitive manner.
 
-__Evaluation by Nate:__
+![](http://recordit.co/CAgkMS6US1.gif)
 
-- Can explain all your choices
-- Talked about other ways to do things
-- I learned something about joins, which is good, because it's poorly documented
+Combined score: **310/300**
 
-__Scores:__
-
-1. __Completion- 3:__ Project completes most requirements but fails 5 or fewer spec harness tests.
-2. __Test-Driven Development- 4:__ Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
-3. __ Code Quality- 4:__ Project demonstrates exceptionally well factored code.
-4. __API Design- 4:__ Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
-5. __Queries- 4:__ Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
-
+__Personal Notes:__
+- I 💖Adrienne. Its nice to have gotten to work with someone that I didn't have to figure out how to communicate with.
+- There were JavaScript struggles, and I return to this project a lot to think about SRP and such.
+- Dinosaurs. 'nuff said.
 
 #### Scaleup: BoxTango
 __Overview:__
-* [Github URL](https://github.com/erinnachen/paws-app)
-* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+* [Looking For Week 4](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
+* [Looking For repo](https://github.com/LookingForMe/lookingfor)
+* [Whiskey Tango Week 5](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
+* [Clarke Coin Socket repo](https://github.com/erinnachen/clarke_coin_socket)
+* [The nitty gritty details](https://github.com/turingschool/ruby-submissions/blob/master/1511/module_4_assignments/scale-up-wk-5/erinna-chen-boxtrot-tango.markdown)
 
-The PAWs app take in photos and returns to the user a "best guess" for the breed if the image is recognized to be a dog. This was a two-week project which involved building two applications: a user interface in Rails with a PostgreSQL database, and a Python app that utilized the Flask web framework, the Keras machine learning library, and the VGG-16 pre-trained model for ImageNet.
+I was involved in two projects over the course of two weeks. One week was spent on the LookingFor Rails application team, and the other was a self-directed Phoenix application for interacting with Clarke Coin nodes.
 
-__Evaluation by Nate:__
+__Evaluation by Louisa:__
 
-- Pushed yourself. The code suffered a little, but I think you learned a lot.
-- Talked about some javascript code organization strategies. Tradeoff of CDNs
-- Messy if statements can use rules engines
-- Nice use of Rick Astley
+I'm glad you pivoted to the independent project for week 2, it seemed like a better fit interest-wise as well as where you were mentally. It's tough getting put on a big group project, and we're so glad you were able to move to a project/topic that would let feel good about your final weeks at Turing!
+
+Combined score: **300/300**
 
 __Personal Notes:__
-- Heroku is the best. The Python application is still in development and not deployed.
-- I definitely underestimated how much time each feature would take; also, I didn't realize how large this project would be
-- Testing suffered in that I couldn't figure out what I could do/wanted to do; stress definitely contributed to this.
-
-__Scores:__
-
-1. __Completion- 3:__ Developer completed all the user stories and requirements set by the client.
-2. __Organization- 3:__ Developer used a project management tool to keep their project organized.
-3. __Technical Quality: Test-Driven Development- 3:__ Project shows adequate testing (90% - 95% coverage).
-4. __Technical Quality: Code Quality- 3:__ Project demonstrates solid code quality and MVC principles.
-5. __Product Experience: User Experience- 3:__ Project exhibits a production-ready user experience.
-6. __Product Experience: Performance- 3:__ Project pages load on average under 400 milliseconds.
-
-#### ThoughtBox
-
+- LookingFor was a challenging group project for me. I need to work on being kinder.
+- I think two weeks is a good amount of time to get something large off the ground.
+- I think I struggle right now with knowing at what point to ask for help/ how to get regular mentorship.
 
 ## Community
 
@@ -101,13 +104,19 @@ You asked for brutally honest feedback, and we talked about this little at Scale
 
 I’m really, really, really, really excited to see what you do in the next five years and beyond.
 
+* __Ling Tran (1602):__
+
+Erinna continued to be an amazing mentor this module. I've learned a lot under her guidance in navigating various problems. She also offered significant emotional support during a particularly stressful module for me. She was attentive in ways that was surprising. If there is one recommendation I can give to Erinna, I would say she doesn't have to be so hard on herself regarding social skills. Her team player orientation and conscientiousness are qualities that standout and anyone is able to see that. I'll miss you tremendously Erinna!
+
 ### Giving Feedback
 
 *  __Adrienne Domingus (1511):__ (GameTime Partner)
+
 There is no other way to describe Adrienne except that she is a BOSS (I definitely don't say this lightly). Her work habits are clockwork and she works at a crushing pace; I regularly went to bed having finished a pull request and woke up expecting to have comments and new code to look at. I have no idea what she wants out of her programming career, but she will certainly accomplish anything she puts her mind to. I look forward to continuing our pairings and hope that I will get to be involved in anything cool she works on.
 
 * __Ling Tran (1602):__ (Paired up at various points in the module)
-Ling is someone that I did not know very well until this module, and now I really enjoy working with her. She is a solid programmer and has the ability to do really challenging things. 
+
+ I got to pair more regularly with Ling the module. She is a solid programmer and has the ability to do really challenging things. Module 3 was clearly very difficult for her; she's typically very cheerful and this module she seemed more unhappy and stressed. My recommendation would be to embrace the struggle more and to carve time out to have fun when doing serious work. I would love to continue working with her in the future because she has such enthusiasm for the projects that she's working on. Also because she is always a willing partner in finding bubble tea.
 
 
 ### Playing a Part
