@@ -268,8 +268,15 @@ In Hamilton Posse, we worked on creating a basic React Native ios app. Progress 
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Excited to build things that were real.
+- Wants to continue to practice ruby.
+- Enjoys tutorials.
+- Loves tdd and errors. Feels like she understands testing.
+- Loves rails errors.
+- Loves instructor checkins. Feels like you learn a lot.
+- We would like to see you continue to push yourself.
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass  
