@@ -141,7 +141,7 @@ Project Partners: Colin Osborn Karina Gonzalez
 #### Playing a Part
 
 * Paired with 1605 weekly
-* I am a pre-work guide for 1606
+* I am a pre-work guide for1606
 * Head LGBTuring
 * Gave a lightning talk on storing data in DNA
 
