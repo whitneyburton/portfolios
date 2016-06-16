@@ -4,12 +4,35 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
-My goal for Module 1 has been to learn as much as possible and fully immerse myself in Turing and coding.  I had a small amount of programming experience before Turing, and I wanted to see whether coding full-time was something I truly enjoy.  I wanted to push myself to try something challenging and find ways to excel in a challenging environment. I also wanted to establish relationships within the Turing community.  Finally, I wanted to find ways to succeed while maintaining a healthy lifestyle and establishing a consistent routine.
+My goal for Module 1 has been to learn as much as possible and fully immerse myself in Turing and coding.  I had a small amount of programming experience before Turing, and I wanted to see whether coding full-time was something I truly enjoy.  I wanted to push myself to try something new and challenging and find ways to excel. I also wanted to establish relationships within the Turing community.  Finally, I wanted to find ways to succeed while maintaining a healthy lifestyle and establishing a consistent routine.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed by: Mike
+
+###### 1. Ruby Syntax & API
+
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
+
+###### 2. Completion and Progress
+
+* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+
+###### 3. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+###### 4. Workflow
+
+* 4: Developer is a master of their tools, efficiently moving between phases of development
+
+###### 5. Collaboration
+
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+###### 6. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
@@ -90,18 +113,15 @@ Scores:
 
 ### Projects
 
-(Intro)
-
 #### HTTP Yeah You Know Me
 
 * [GitHub URL](https://github.com/luigiaversano/http)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+* Partner: Luigi Aversano
 
 In this project, we created a basic web server.  Our server is able to issue GET requests for pages, which can return parsed request information, a hello world counter, the date and time, and a page that shuts down the server and displays the total number of requests made.  The server also has functionality to play a guessing game for a number between 0 and 100.  The user makes a guess by issuing a post request.  Finally, the server can issue different responses including 302 redirect, 403 forbidden, 404 not found, and 500 internal error.
 
 Assessed By: Rachel
-
-Notes:
 
 ###### 1. Overall Functionality
 
@@ -133,26 +153,55 @@ Notes:
 
 #### Headcount
 
-* [GitHub URL]()
-* [Original Assignment](https://github.com/turingschool/curriculum/tree/master/source/projects/headcount)
+* [GitHub URL](https://github.com/Automatic365/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+* Partner: Jason Hanna
 
-(description)
+For Headcount, we created a database that contains information about schools in Colorado.  The project was built in three layers and collects information from CSVs.  The first layer is a data access layer that allows the user to load and search data.  The second layer is a relationships layer that establishes connections amongst the data.  The third layer is an analysis layer which uses the data and relationships to draw conclusions.
 
-(evaluation comments)
+Evaluated By: Beth Sebian
 
-(evaluation scores)
+Notes:
+- Complete through I5, spec harness passes through 5
+- Nice testing suite: unit testing of subordinate methods
+- Methods clearly named, readable, and logically delineated
+- Would benefit from another pass of refactoring, but no glaring style issues, overall clean
+- 0 sanitation errors
 
-(feedback to me)
+###### 1. Functional Expectations
+* 3: Application fulfills expectations of Iterations 0 - 4 *as well as* one of Iterations 5 or 6
+
+###### 2. Test-Driven Development
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+###### 3. Encapsulation / Breaking Logic into Components
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+###### 4. Fundamental Ruby & Style
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+###### 5. Enumerable & Collections
+* strong 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+###### 6. Code Sanitation
+The output from `rake sanitation:all` shows...
+* 4: Zero complaints
 
 ## Community
 
 ### Giving Feedback
+* To Jason Hanna: It was a pleasure working with Jason on Headcount.  His open-mindedness and easy-going disposition made him a great partner.  He was easy to work with, friendly, and dedicated.  Jason likes to see the bigger picture before diving into code, and I felt this approach was helpful during a complex project like Headcount.  He has a strong ability to map out ideas.  Sometimes it seemed Jason would hold back ideas if they were not fully fleshed out, and I would encourage him to share his ideas more frequently. I appreciated his willingness to put in long hours and fully commit himself to the project.  Jason was committed and calm all the way through to the end of the project.
 
-(feedback from me)
+* To Raphael Barbo: Raphael is one of the hardest working people I know.  We first met a week before Turing to do pre-work together, and Raphael didn't know a lick of code.  The amount of progress he has shown since then is nothing short of impressive. I admire Raphael's dedication and persistence. I also admire his social prowess and ability to seek out help and support from others.  He brings a ton of positive energy into Turing everyday and his ubiquitous smile is contagious.
 
 ### Being a Community Member
-(Get instructor feedback)
-(feedback to me)
+* From Jason Hanna: David was an excellent partner and a very dedicated coder. David’s patience and ability to communicate his ideas was a tremendous advantage in this project. I also greatly appreciated the he always made sure we were on the same page and never moved forward before I understood. He allowed me the opportunity to work through my thought process and always listened. David was dependable, committed, and beyond competent. Working with him not only pushed me to be better, but it was also a lot of fun.
+
+* From Raphael Barbo: David is one of the most good-hearted, friendly, dedicated, attentive, and detail-oriented students I have ever had the pleasure to work with. I first met David one week before the start of our cohort at Turing, and seeing his dedication towards the pre-work (prior to our start) and throughout the module 1 has made my admiration for him grow tremendously. He will be an amazing full stack developer, his mindset towards logical problem solving, TDD, and coding, makes him an outstanding student, and most certainly soon enough, an amazing programmer. I honestly think David will achieve great things during his time at Turing, and thereafter, can't wait to see what the future holds to this amazing human being.
+
+
+### Instructor Pairing Feedback
+* From Jhun on Mid-Module Assessment: - great use of enumerables - great ruby structure - comfortable writing tests
 
 ### Playing a Part
 
@@ -160,14 +209,23 @@ Notes:
 * Joined Palkha posse and attended multiple posse meetings
 * Attended all productivity lunch meetings
 * Attended multiple imposters lunch meetings
-* Always worked at Turing after class and stayed late for every project to work with others
+* Always worked at Turing after class
+* Stayed late for every project working with others
 
-#### Additional Mod 1 Requirements
+### Additional Mod 1 Requirements
 * [DTR Memo](https://gist.github.com/dtinianow/d25f66f90aa1cd24c6225b2c52fd4f83)
-* Sample README ()
-* Self Evaluation
+* [Sample README](https://github.com/Automatic365/headcount)
 
-## Review
+
+### Self Evaluation
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
+
+
+# Review
 
 ### Rubric Scores
 
