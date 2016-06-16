@@ -233,8 +233,13 @@ Since the start of Turing, I have not had many opportunities to work with Colin,
 
 ### Notes
 
-( Leave blanks for reviewers )
+- focus was on not repeating.
+- did a more styling.
+- great job on the final assessment.
+- don't stand in the way of yourself!
+- enjoyed the rails mini-project.
+- be more confident
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass 
