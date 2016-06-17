@@ -182,3 +182,27 @@
 Pahlka Posse is one my favorite parts about Turing. I've been very happy with the way it has developed. Last mod I joined it because I really admired Beth and July and they were heading it up. This mod they asked me to step into a leadership role, which I did. I realized a couple of things. One, even though I don't think of myself as a leader I can be when needed. Two, I don't really like being a leader. It's too much wrangling and not enough doing. I say that, but I was really happy to have the experience. It made me reflect upon my personality traits and where I can improve myself. This led to me thinking about the people I respect in every day life more, and what it is about them I am drawn to.
 
 Even though people at Turing usually combine Pahlka with the app we built, I always think of Pahlka more as a tool for learning. While we learned coding with some apis, JS and mapping, I mostly saw Pahlka as a tool for learning how a group can come together without being required to and cooperate to build something that improves our community. I'm really excited that Kerry and Sonia will be taking over next module, as they are very socially engaged, and driven to improve the lives around them.
+
+## Portfolio Rubric
+
+### End-of-Module Assessment
+
+  1: Student earned two or more scores below "3" on the assessment
+
+### Individual Work & Projects
+
+  4: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend
+
+### Group Work & Projects
+
+  3: Student fully participates in their group work to facilitate group harmony while achieving   consistently satisfactory results.
+
+### Community Participation
+
+  4: Student has a significant positive impact on the learning and spirit of the people around them.
+
+### Peer & Instructor Feedback
+
+  3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+
+  
