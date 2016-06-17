@@ -1,4 +1,4 @@
-# Chad Ellison - (M1/M2/M3/M4) Portfolio
+# Chad Ellison - M3 Portfolio
 ## Individual
 
 ### Areas of Emphasis
