@@ -5,7 +5,7 @@
 
 This module I set out to learn as much as I could about apis--namely,
 consuming them and serving them. I also wanted to become more familiar with
-javascript
+javascript.
 
 ### End of Module Assessment
 ## Evaluation Criteria
@@ -24,7 +24,7 @@ javascript
 ### 5. Workflow
 * **4: Developer commits every 15 minutes**
 
-(Notes & scores from your assessment rubric)
+Notes & scores from your assessment rubric
 - Explain the use of `.require("post")` in your strong params
 - Not testing for `204` response on delete, as noted in the spec
 - Typo in your routes. Probably didn't use postman or curl to check your API as requested by the spec.
@@ -107,14 +107,12 @@ evaluation scores
 
 ### Projects
 
-(Intro)
-
 #### The Pivot
 
 * [GitHub URL](https://github.com/chadellison/the_pivot)
 * [Original Assignment]()
 
-For the Pivot we took a pre-existing ecommerce site and pivoted it into a platform to sell photographs from multiple vendors.
+For the Pivot we took a pre-existing ecommerce site and pivoted it to a platform to sell digital photographs from multiple vendors.
 
 Notes: Good use of POROs. Using AJAX for file uploads.
 
@@ -139,11 +137,12 @@ Notes: Good use of POROs. Using AJAX for file uploads.
 * Extensions
 4: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature.
 
-(feedback to me)
 
 ## Community
 
 ### Giving Feedback
+
+feedback from me
 
 to Chris Soden
 Christopher:  Chris was very easy to work with. He had a positive attitude and a pleasant disposition every time he interacted with the group. Chris knows his stuff and asked helpful questions. I think Chris could benefit from initiating more dialogue about the project through slack and github on specific features he is working on and features that others are working on. That being said, all of my interactions with Chris were very positive.
@@ -155,6 +154,8 @@ to Thom Pickett
 It was great to pair with Thom on the Trelora appointments project. Thom had a deep understanding of the code at all times and was able to implement solutions very fast. His ability to hold complex and abstract blocks of info in his mind is one of his strengths. Thom is also very persistent. We had several curve balls during the project, some of which we hours on with little to no progress. A few times I did not think we were going to find a solution on our own and Thom would continue to bulldoze through until finding a solution. For these reasons Thom is a strong programmer. One way Thom could grow is by taking a more methodical approach to implementing solutions. Pairing with Thom was a great experience, however, and I was glad to partner with him and learn from him.
 
 ### Being a Community Member
+
+Feedback to me
 
 from Chris Soden
 Chad, I really respect how hard you worked on this project. I worked with you on the charts and I was impressed by how effectively you tackled the problems. You also did more than anyone else to make me feel included in the group and I really appreciate that. As a group, I think we did a great job of being able to split up and still communicate and coordinate our individual progress.
