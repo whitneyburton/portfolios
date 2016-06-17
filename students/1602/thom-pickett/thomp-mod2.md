@@ -1,4 +1,4 @@
-# Thom Pickett - Module 1 Portfolio
+# Thom Pickett - Module 2 Portfolio
 
 ## Assessments
 
