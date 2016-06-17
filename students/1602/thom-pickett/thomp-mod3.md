@@ -4,8 +4,63 @@
 
 ### Mid Mod Diagnostic
 
+#### Notes
+
+* 5 Commits
+* Good use of passing objects through a PORO
+* Tests cover code being implemented
+* Class names shouldn't be in all caps
+* Empty initialize method/commented code
+* Service method is a bit convoluted - thoughts on refactoring?
+
+#### Scores
+
+* Ruby Style
+ 2: Developer writes effective code, but does not breakout logical components*
+
+* Rails Syntax & API
+  3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+* Testing
+  3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.
+
+* Progression/Completion
+  3: Developer is able to implement solutions at the speed of a junior developer.
+
+* Workflow
+  Developer commits almost every 15 minutes
+
 
 ### End of Mod Assessment
+
+#### Note
+
+*  Could have saved yourself some time with the hours. The API can serve hours in three different ways, and one of them just requires you to split on `'; '`
+*  No service test, which is especially important because you use the service to write your feature tests.
+*  Feature tests do map well to the user stories
+*  Your execution of the first API consumption user story is exactly what we asked for
+*  Using a local variable in your service with the same name as a method (`body`). This can be confusing to other developers, and potentially to Ruby
+*  Logic is well broken out in your service
+*  Most logic is in the model, but you are using a hash in your view for a single value. Could have easily pushed that down.
+*  Relying on an `@all` in your model being set from the service has made things difficult for you. Your           model should be the interface to data for your controller, and the model should make requests to the      service. Things are a little scattered right now.
+
+
+#### Scores
+
+* Ruby Style
+  Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+* Rails Syntax & API
+  2: Developer struggles with some concepts of MVC.  Developer is not confident in what every line of the code is doing or cannot speak to the choices made.
+
+* Testing
+  3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.
+
+* Progression/Completion
+  2: Developer is able to implement solutions at the speed of an apprentice.
+
+* Workflow
+  4: Developer commits every 15 minutes
 
 
 ## Projects
@@ -117,6 +172,9 @@
 
 * Mark Miranda
   This is easily the best group I've been a part of. You were able to get features done with great quality code, as well as keep an eye on the edge cases, bugs, and holes we were creating with new features. My criticism is there were times when new functionality would come into the project without testing that eventually broke old functionality. You were however quick to fix those bugs when we found them. You also were great at picking up any tasks we could tack on or that came up randomly. Communication was great and never an issue. 10/10 would work with again.
+
+* Chad Ellison
+  It was great to pair with Thom on the Trelora appointments project. Thom had a deep understanding of the code at all times and was able to implement solutions very fast. His ability to hold complex and abstract blocks of information in his mind is one of his strengths. Thom is also very persistent. We had several curve balls during the project, some of which we hours on with little to no progress. A few times I did not think we were going to find a solution on our own and Thom would continue to bulldoze through until finding a solution. For these reasons Thom is a strong programmer. One way Thom could grow is by taking a more methodical approach to implementing solutions. Pairing with Thom was a great experience, however, and I was glad to partner with him and learn from him.
 
 ### Pahlka Posse
 
