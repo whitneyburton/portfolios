@@ -145,17 +145,36 @@ Notes: Good use of POROs. Using AJAX for file uploads.
 
 ### Giving Feedback
 
-(feedback from me)
+to Chris Soden
+Christopher:  Chris was very easy to work with. He had a positive attitude and a pleasant disposition every time he interacted with the group. Chris knows his stuff and asked helpful questions. I think Chris could benefit from initiating more dialogue about the project through slack and github on specific features he is working on and features that others are working on. That being said, all of my interactions with Chris were very positive.
+
+to Sal Espinosa
+Sal was very laid back and easy to work with. He was very patient and solves problems in a very methodical and diplomatic way, asking for feedback and the thoughts of his other team members while making suggestions. Sal is very technically skilled and I enjoyed learning from him. I also appreciate him taking the time to pair on some features that he was stronger in.
+
+to Thom Pickett
+It was great to pair with Thom on the Trelora appointments project. Thom had a deep understanding of the code at all times and was able to implement solutions very fast. His ability to hold complex and abstract blocks of info in his mind is one of his strengths. Thom is also very persistent. We had several curve balls during the project, some of which we hours on with little to no progress. A few times I did not think we were going to find a solution on our own and Thom would continue to bulldoze through until finding a solution. For these reasons Thom is a strong programmer. One way Thom could grow is by taking a more methodical approach to implementing solutions. Pairing with Thom was a great experience, however, and I was glad to partner with him and learn from him.
 
 ### Being a Community Member
 
-(feedback to me)
+from Chris Soden
+Chad, I really respect how hard you worked on this project. I worked with you on the charts and I was impressed by how effectively you tackled the problems. You also did more than anyone else to make me feel included in the group and I really appreciate that. As a group, I think we did a great job of being able to split up and still communicate and coordinate our individual progress.
+
+from Jon Bernesser
+Yo chad, I was thoroughly impressed with you tenacity to attack this project. You were eager to take challenging cards and executing them. You stayed late, even tho you have a super long commute. I can be a dick sometimes, and your ability to stay calm and ground things into reality was awesome. I think we butt heads a few times on how things should be implemented because we both seem want it done the way we see the problem. We both wanted to crush this project and seemed like that’s where problems (if any?) arose.
+It terms of growth, I would try to be a bit more compromising. A lot of times we either went with your way or my way, but we never actually found common ground to sit on, which is a problem for me too. Also, although it was all from the heart and hard work, feature extension work that was being done late Tuesday after Sal and I were determined to wrap things up definitely put us in a hole to crawl out on Wednesday which was way too close to comfort for me. You seemed calm throughout all of it, but finding bugs in features we thought were done days ago was very stressful. That being said, I think your technical skill is super strong have no doubt with the tenacity you show that you will get even better, keep it up!
+
+from Thom Pickett
+Chad kept a steady positive energy on a project that was stressful and difficult all the way through. He forced us, and this was a good thing, to take pomodoroes consistently through out the last few weeks. As this was a difficult project, there were lots of highs and lows and times when the atmosphere was tense, but Chad was amazing at keeping communication open. He asks questions when he needs to and takes the time to explain his thought process. Chad has great ideas and would benefit from pushing through the struggles to solutions, before turning to others. He was extremely dedicated. The last night of the Trelora project, we were not happy with where it was. We had implemented base functionality several days before, and even built most of the extras Robbie and Keith had asked for, but we were both unhappy with it still, and so Chad suggested an all nighter. Chad kept the energy going and the project moving forward. Chad kept the standards up not just that night even though we felt pressed for time, and questioned everything he noticed that he thought could be refactored or completely redesigned. He is very thoughtful about everything he does.
 
 ### Playing a Part
 
 I worked with several students from different modules on various exercises-- ie, chess app and all allergy recipes
 worked on rails engine with other students after completion
 regularly paired with students from different modules on exercises / side projects (Nate and Hedy)
+
+### Main Take Away
+
+Perhaps the biggest takeaway from module 3 for me was the importance and necessity to read through docs carefully and slowly when implementing a feature I have not previously worked with. 
 
 ### Portfolio Rubric
 A: End-of-Module Assessment
