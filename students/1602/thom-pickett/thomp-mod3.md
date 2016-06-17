@@ -160,24 +160,25 @@
 
 * [GitHub URL](https://github.com/thompickett/githubbed)
 
-#### Feedback
+## Feedback
 
-* Kami
+* Kami  
   I was super happy to see that I was working with you again, and just like the first time that we were teammates, our group hit the ground running. Your levelheaded manner and openness made communication almost a non-issue throughout the project. You were always willing to work until a problem or bug was resolved, and you helped to keep me focused and engaged with the problem at hand.
 
   I like that you stand up for what you think is the right way to approach a problem, but are also flexible and easygoing when things don’t go the way that you would have chosen. Thanks for putting up with me when I was hangry :slightly_smiling_face: and I’d be happy to work with you any time.
 
-* July
+* July  
   I am so SUPER INSANELY proud of Thom!! I’ve had the pleasure of having him as a classmate, friend, and dependable posse member. Thom has done a great job leading Pahlka this module and I am so stoked to have been able to see that happen. Thom shared with us at the beginning of the module that he has not historically been the kind of person to lead a group, and that he’d like to grow that skill as a posse leader this module. I think he’s hit that goal out of the park. Seeing him do gnarly leadership things like enact awesome organization for our repo and our meetings, think about how to improve the posse and meet the members' needs, and do planning and coding for our app, has me beaming like a proud mother hen. I think Thom’s passion for civic work, low-key thoughtfulness, and the ability to do some powerhouse leadership when needed will make him a great asset to the tech world and the community at large. He might benefit from learning to toot his own horn more and making his multifaceted skillset known. #pahlkaposse4lyfe
 
-* Mark Miranda
+* Mark Miranda  
   This is easily the best group I've been a part of. You were able to get features done with great quality code, as well as keep an eye on the edge cases, bugs, and holes we were creating with new features. My criticism is there were times when new functionality would come into the project without testing that eventually broke old functionality. You were however quick to fix those bugs when we found them. You also were great at picking up any tasks we could tack on or that came up randomly. Communication was great and never an issue. 10/10 would work with again.
+
 
 * Chad Ellison
   It was great to pair with Thom on the Trelora appointments project. Thom had a deep understanding of the code at all times and was able to implement solutions very fast. His ability to hold complex and abstract blocks of information in his mind is one of his strengths. Thom is also very persistent. We had several curve balls during the project, some of which we hours on with little to no progress. A few times I did not think we were going to find a solution on our own and Thom would continue to bulldoze through until finding a solution. For these reasons Thom is a strong programmer. One way Thom could grow is by taking a more methodical approach to implementing solutions. Pairing with Thom was a great experience, however, and I was glad to partner with him and learn from him.
 
-### Pahlka Posse
+## Pahlka Posse
 
-Pahlka Posse is one my favorite parts about Turing. I've been very happy with the way it has developed. Last mod I joined it because I really admired Beth and July and they were heading it up. This mod they asked me to step into a leadership role for it, which I did. I realized a couple of things; even though I don't think of myself as a leader I can be when needed, and two I don't really like being a leader. It's two much wrangling, and not enough doing. I say that, but I was really happy to have the experience. It made me reflect upon my personality traits, and where I can improve myself. This led to me thinking about the people I respect in every day life more, and what is about them I am drawn to.
+Pahlka Posse is one my favorite parts about Turing. I've been very happy with the way it has developed. Last mod I joined it because I really admired Beth and July and they were heading it up. This mod they asked me to step into a leadership role, which I did. I realized a couple of things. One, even though I don't think of myself as a leader I can be when needed. Two, I don't really like being a leader. It's too much wrangling and not enough doing. I say that, but I was really happy to have the experience. It made me reflect upon my personality traits and where I can improve myself. This led to me thinking about the people I respect in every day life more, and what it is about them I am drawn to.
 
-Even though people at Turing usually combine Pahlka with the app we built I always thought of Pahlka as more of a tool for learning, on some code with JS and mapping. But mostly as a tool for learning as group how to come together without being required to, and cooperating to build something that improves our community. I'm really excited that Kerry and Sonia will be taking over next module, as they are very socially engaged, and driven to improve the lives of others.
+Even though people at Turing usually combine Pahlka with the app we built, I always think of Pahlka more as a tool for learning. While we learned coding with some apis, JS and mapping, I mostly saw Pahlka as a tool for learning how a group can come together without being required to and cooperate to build something that improves our community. I'm really excited that Kerry and Sonia will be taking over next module, as they are very socially engaged, and driven to improve the lives around them.
