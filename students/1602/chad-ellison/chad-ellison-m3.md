@@ -174,7 +174,7 @@ regularly paired with students from different modules on exercises / side projec
 
 ### Main Take Away
 
-Perhaps the biggest takeaway from module 3 for me was the importance and necessity to read through docs carefully and slowly when implementing a feature I have not previously worked with. 
+The biggest takeaway from my posse, was to not embrace insufficiency during the times you "feel" like a bad coder or insufficient.
 
 ### Portfolio Rubric
 A: End-of-Module Assessment
