@@ -1,44 +1,55 @@
 # Jared Roth - M3 Portfolio
 
+### Self-Assessment
+
+* End-of-Module Assessment: nil
+* Individual Work & Projects: 2/3
+* Group Work & Projects: 2
+* Community Participation: 2
+* Peer & Instructor Feedback: 2
+
 ## Individual
 
 ### End of Module Assessment
 
-Assessed by
-
-##### 1. Analytic/Algorithmic Thinking
-
-* Score: 3.5
-
-* 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
-* 3: Developer breaks complex problems into small, digestible steps and executes them
-
-##### 2. Ruby Syntax & Standard Library
-
-* 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
-
-##### 3. Rails Syntax & API
-
-* Score: 3.5
-
-* 4: Developer is able to smoothly utilize Rails methods and structures with a minimum of debugging or support
-* 3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
-
-##### 4. MVC & Rails Style
-
-* 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and keep logic out of views and controllers
-
-##### 5. Testing
-
-* 3: Developer writes tests at multiple layers of abstraction to drive development with guidance
-
-##### 6. Collaboration
-
-* 3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
+Retaking on Monday
 
 
 ### Attendance
-Missed the first day the module.
+Missed the first day of the module.
+
+### Projects
+
+#### Self-Directed Project
+
+* [GitHub URL](https://github.com/JaredRoth/personal-project)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+
+My self-directed project was a re-implementation/upgrade of the event-application web interface my family uses in their business. It ended up not using more advanced rails strategies but instead had more complex business logic.
+
+Reviewed by Brenna
+
+* OAuth: Github
+* Api: Stripe
+* UI:
+ - Parallax :)
+ - Could use more direction on what pages a user is looking at
+ - Good style choices - simple interface
+
+##### Comments:
+ - Pulled in selenium to test Stripe
+ - 96% Test Coverage
+ - Good work testing methods in models but would like to see validations in other models and any controller tests
+ - Clean routes with pretty URLs
+ - Slightly buggy with oauth login
+
+##### Scores:
+* Completion: 3
+* Organization: 4
+* Test Driven Development: 4
+* Code Quality: 3
+* User Experience: 3
+* Performance: 4
 
 ## Team
 
@@ -92,17 +103,6 @@ Assessed By: Nate
 
 ### Giving Feedback
 
-* Claudia Kiesenhofer
->Working with Claudia, I noticed a strong desire to completely understand each piece of the project before moving on. This is a great asset to her learning. On this same note, it sometimes prevented us from moving forward when others _did_ know how to proceed. My only advice on this point would just to be a little more willing to allow others to try out an idea even if she doesn't fully understand it. Allow them to demonstrate how it works sometimes rather than only relying on verbal explanation.
-
-* Josh Washke
->Josh has a great grasp of ruby, rails, and programming in general. He understands project structure and relationships well and is thus able to implement new features in the appropriate place without difficulty. Being forced to work on different sides of the country for much of the project, I think that it strengthened his git workflow tremendously, but it also revealed how each member of the team has room to improve understanding of the git tools available to us.
-
-* Gurusundesh Khalsa
->Sunny is exceptionally easy to work with. He always makes it a point to ensure that you know you've been heard when discussing potentially opposing views on a topic before offering his counterpoint. Since we were forced to work on different sides of the country for much of the project, I think that his git workflow was improved tremendously, but it also revealed how each member of the team has room to improve understanding of the git tools available to us and establishing best practices for distributed projects. This is one area I can see easy growth in the near future.
-
-### Being a Community Member
-
 * Hedy Woo
 >From the beginning of the project, Hedy was very proactive in all regards: taking notes, creating waffle cards, initiating group planning/scheduling conversations, etc. I think that the area where she could realize the most improvement is in the details of communication. (Understanding that english is her second/third/fourth language whereas I speak it and only it.) There were times when either something written (like a waffle card) or spoken didn't quite make sense to me or another team member and we mentioned it, and if there was an effort to clarify, the clarification was the same as the initial statement. I think that making an effort to approach a thought from a different perspective could improve these moments of miscommunication.
 
@@ -112,9 +112,13 @@ Assessed By: Nate
 * Kris Foss
 >While on this project, Kris endured a lot of conflict that didn't involve her. (Hint: it involved me) She made great efforts to be a peacemaker and did well to continue working throughout the struggles. I think that one area of improvement for Kris would be "code quality." Referring mostly to visual structure things like whitespace and indentation and more specifically to html. I think this will come naturally as she grows in understanding of the fundamental meaning and structure of the code, but focusing on gaining that understanding will be helpful.
 
+### Receiving Feedback
 
-In the first week of the module I, along with Drew Thompson, led an elective for new students to help get them acquainted with system and editor shortcuts, bash profile setups, and other useful productivity tools.
+* Hedy Woo
+>yo jared.  i think we had an interesting dynamic working together right off the bat, it was neither good nor bad, but i think that in the end, we got on better terms, and were able to work more symbiotically to try to get a working app in a timely manner.  in some ways, i'm glad that the storming phase came on early, and we were able to talk it out, especially during the re-dtr.  there's no doubt that you can code, and understand code, so you are not lacking in the talent portion. as an example of this, i think there were two weedy portions in the project, that would have been less weedier, had we normalized the database better from the beginning, but as it was, it was a tough portion to hash out, and i think you did good job in handling one of them.  in terms of actionable feedbacks, i do have a few:  i would have appreciated more feedback on what you were working on when you weren't with the group, but the times you did, were very good and helpful.  also, it goes without saying that i think that given turing is such a short program, i would have liked to have seen you be more active during the project, and even push out your other commitments to get this done, or pace yourself in such a way that you could also contribute on those days you weren't there.  and lastly, the other actionable thing, is during client check-ins, i would like to hear more of a "we" statements rather than "i"s in the convo with the client.  i think it's more helpful to represent work as a team, rather than as an individual, including any blame - we is always better than i. all in all, though, i learned a lot from you, as you are very good at verbalizing your thought process, and that was much appreciated for a code noob like me, who still has only enough vocab to say something akin to  "mama i want wawa"  :-)
 
-### Playing a Part
+* Jon Liss
+>Jared, like I said at our other DTR sesh, I was nervous about taking on a 4th member, and I didn't know you yet so it seemed like it could be double trouble.  That was definitely not the case! You quickly jumped into a project you didn't have a say in, with a group that wasn't your scheduled group, and yet you rose to the occasion by coming up with the framework of how our needs system works under the hood.  You proved to be a really strong programmer, and you definitely were a huge asset to the team. However, my criticism would be that a) you took too much time away from the project, (i do understand that plans are plans and things happen though), and b) you tend to check out just a bit early when faced with what seems like a wall of problems.  You're a very strong programmer, bust through the wall. Don't let it get you frustrated or stop your progress.  No matter how big that wall seems, there's always a path over or around it, you just need to stick with it just a little longer to find that path.  If you take one thing away from the pivot or my feedback, I think it should be to ground yourself, know when to take a step back and reconsider a problem, and to be confident in your abilities, I know I am.  Also get some sort of side project and do something awesome!  It was a pleasure working with and getting to know you.
 
-[Blog Post](http://jaredroth.github.io/2016/04/28/Life-is-hard-but-death-is-harder.html)
+* Kris Foss
+>This is the second project I've had the chance to work with Jared on.  I really enjoy working with Jared, he is a meticulous programmer who really takes time to do things the right way.  I like his organization style and the way he approaches a project really makes sense to me.  He is really skilled at taking apart a problem in a way that makes the steps manageable.  He was able to jump in to the group a day after we had started and really acquaint himself with the code.  And though he had to miss some of the meetings, he caught up and stayed on top of the changing code base.  He has said that one of his struggles is showing his frustration in groups, but I find this to be a part of what makes him such a passionate programmer who truly strives for excellence.  We all have hurdles we need to push past to reach our potential.  Pair programming with him is always a good experience, working through a problem, he takes time to listen to ideas and come to a solution together.  He's good at explaining his ideas and thought process.  I would definitely work with Jared again if given the chance and I would recommend him in a professional setting.
