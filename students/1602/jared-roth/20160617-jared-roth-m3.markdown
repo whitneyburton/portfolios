@@ -16,7 +16,9 @@ Retaking on Monday
 
 
 ### Attendance
-Missed the first day of the module.
+Missed the first day of the module.       
+Missed the final assessment.  
+(I don't mess around with missing unimportant days.)
 
 ### Projects
 
@@ -25,7 +27,7 @@ Missed the first day of the module.
 * [GitHub URL](https://github.com/JaredRoth/personal-project)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
 
-My self-directed project was a re-implementation/upgrade of the event-application web interface my family uses in their business. It ended up not using more advanced rails strategies but instead had more complex business logic.
+My self-directed project was a re-implementation/upgrade of the event-application web interface my family uses in their business. It ended up not using more advanced rails strategies but instead had slightly more complex business logic. Stripe was a huge priority for me because their existing site and workflow are horrifically out of PCI compliance and I was motivated to learn how to get that set up. 
 
 Reviewed by Brenna
 
