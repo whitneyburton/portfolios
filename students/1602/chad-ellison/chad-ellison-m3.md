@@ -153,9 +153,9 @@ Notes: Good use of POROs. Using AJAX for file uploads.
 
 ### Playing a Part
 
-I worked with several students from different modules to build a chess app.
+I worked with several students from different modules on various exercises-- ie, chess app and all allergy recipes
 worked on rails engine with other students after completion
-Regularly paired with students from different modules on exercises / side projects (Nate and Hedy)
+regularly paired with students from different modules on exercises / side projects (Nate and Hedy)
 
 ### Portfolio Rubric
 A: End-of-Module Assessment
@@ -165,16 +165,14 @@ B: Individual Work & Projects
 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
 
 C: Group Work & Projects
-
 4: Student consistently helps their teammates be their best selves, learn at an accelerated pace, and achieve great results.
 
 D: Community Participation
 3: Student participates in required activities and does at least one or two above-and-beyond supports of the community.
 
 
-
 E: Peer & Instructor Feedback
- Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+3:Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 ## Review
 
 ### Rubric Scores
