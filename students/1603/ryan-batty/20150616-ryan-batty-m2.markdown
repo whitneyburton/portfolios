@@ -164,7 +164,7 @@ I think the best thing about working with Erin is her nigh-unfaltering positivit
 
 ### Blog Post
 
-[Utilizing GitFlow for Better Project Management](https://gist.github.com/Riizu/5ce6e6f6486b2b21c95b2b46a7086396)
+[Halfway There - A Retrospective](https://medium.com/@riizu/halfway-there-a-retrospective-bf3d8d39911f#.izbdl7ywi)
 
 ### Being a Community Member
 
