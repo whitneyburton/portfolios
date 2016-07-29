@@ -61,6 +61,8 @@ Create binary search tree that recommends items.
 * Get code working first, and then work on refactoring. It looks like you spent more time refactoring working things instead of making new things work
 * Concepts are coming together, but you're missing out on completion
 
+**Scores**
+
 1. Functional Expectations: 1
 2. Test-Driven Development: 3
 3. Encapsulation / Breaking Logic into Components: 3
@@ -178,16 +180,23 @@ Built a server with ability to play several basic games using Ruby.
 * In second half of module, became regular fixture here on evenings and weekends to work on projects, and got to know fellow students.
 
 ##Module 1 Requirements
-  [DTR Memo](https://docs.google.com/document/d/1RMstISGcp1txB_KDKLQiABb-8mN6DqyU9b9m2R7CPzU/edit)
-  [README](https://github.com/icorson3/bt/blob/master/README.md)
+
+  * [DTR Memo](https://docs.google.com/document/d/1RMstISGcp1txB_KDKLQiABb-8mN6DqyU9b9m2R7CPzU/edit)
+  * [README](https://github.com/icorson3/bt/blob/master/README.md)
 
 ## Review
-###Self-Assessment
-**End-of-Module Assessment:** 3
-**Individual Work and Projects:** 3 (weak beginning, but clear upward sloping trend)
-**Group Work and Projects:** 3
-**Community Participation:** 3
-**Peer and Instructor Feedback:** 3
+
+### Self-Assessment
+
+* **End-of-Module Assessment:** 3
+
+* **Individual Work and Projects:** 3 (weak beginning, but clear upward sloping trend)
+
+* **Group Work and Projects:** 3
+
+* **Community Participation:** 3
+
+* **Peer and Instructor Feedback:** 3
 
 Self-Outcome: Promotion (possibly conditionally, but I did have an upward trend)
 
