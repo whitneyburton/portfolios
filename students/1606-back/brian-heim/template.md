@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Brian Heim) - (M1) Portfolio
 ## Individual
 
 ### Areas of Emphasis
