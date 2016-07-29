@@ -19,6 +19,7 @@ I completed the following projects: Robodoku, CompleteMe, ParaMorse, Battleship,
 * [Original Assignment](https://github.com/turingschool/robodoku-template)
 * [Blog Post] (http://www.jessespevack.com/systems-leadership/2016/7/2/75u8n0im73hd27a4yclc98qzl6hivu)
 
+##### Description
 Roboduko is about writing a sudoku solving program that takes in a simple sudoku puzzle as a .txt file and outputs the resulting solved puzzle as text.
 
 This project was not formally assessed.
@@ -29,6 +30,7 @@ This project was not formally assessed.
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 * [Blog Post] (http://www.jessespevack.com/systems-leadership/2016/7/5/turing-school-of-software-design-module-1-week-2)
 
+##### Description
 CompleteMe is a rudimentary autocomplete program that first loads in a dictionary of words and then can take in a prefix and return words from the dictionary that begin with the prefix. The project gets a little spicier with the notion of weighted suggestions whereby the program needs to also store the user's preferences regarding a given prefix so that next time that prefix is given, the user's past selected words are prioritized over other words.
 
 ##### Evaluation Comments
@@ -50,6 +52,7 @@ CompleteMe is a rudimentary autocomplete program that first loads in a dictionar
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/paramorse.markdown)
 * [Blog Post] (http://www.jessespevack.com/systems-leadership/2016/7/14/what-i-learned-failing-my-paramorse-project)
 
+##### Description
 ParaMorse is about building a program to interpret Morse code, the mid nineteenth century set of signals used to communicate over distances via telegraph. The project is called ParaMorse because the crux of the challenge is to handle parallel streams of code that intertwine to form a single message.
 
 ##### Evaluation Comments
@@ -70,6 +73,7 @@ ParaMorse is about building a program to interpret Morse code, the mid nineteent
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown#player-ship-placement)
 * [Blog Post] (http://www.jessespevack.com/systems-leadership/2016/7/21/all-your-battleship-are-belong-to-us)
 
+##### Description
 Code a playable version of Milton Bradley's Battleship that runs in a Read Evaluate Print Loop (REPL).
 
 ##### Evaluation Comments
