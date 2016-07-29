@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Jean Joeris - M1 Portfolio
 ## Individual
 
 ### Areas of Emphasis
@@ -13,10 +13,10 @@
 
 (Intro)
 
-#### (Project Name)
+#### Complete Me
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/JeanJoeris/complete_me)
+* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/complete_me/peter_jean_joeris.markdown)
 
 (description)
 
