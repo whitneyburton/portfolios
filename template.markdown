@@ -97,10 +97,11 @@ Code a playable version of Milton Bradley's Battleship that runs in a Read Evalu
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/j-sm-n/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-(description)
+##### Description
+A business is only as smart as its data. Let's build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
 
 (evaluation comments)
 
@@ -120,17 +121,29 @@ Code a playable version of Milton Bradley's Battleship that runs in a Read Evalu
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+* Participated in 1606 Backend Slack channel.
+* Shared coded and encoded versions of Barrack Obama's Orlando speech for ParaMorse project on 1606 Backend Exclusive Slack Channel.
+* Shared planning docs for battleship project on 1606 Backend Exclusive Slack Channel.
+* Shared mock csv data for Black Thursday project on 1606 Backend Exclusive Slack Channel.
+
+* Attended and participated in multiple imposter lunches.
+* Attended and participated in every guest speaker Friday morning event.
+* Participated in Friday lunch run group.
+
+* Diligently attended to cleaning responsibility.
+* Periodically cleaned up pairing stations.
+* Periodically emptied and loaded dishwashers.
+* Periodically cleaned coffee station.
 
 ## Review
 
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
