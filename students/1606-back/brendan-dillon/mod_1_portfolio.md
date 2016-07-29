@@ -111,6 +111,7 @@ In this two week project, Brian Heim and I wrote a program that reads data from 
 ### Playing a Part
 
 * Miyamoto Posse: I attended weekly meetings and worked through some Unity tutorials with the goal of helping the posse put together a game by the end of next module.
+* I did the readings for Hack Design and participated in several of the weekly discussions.
 * I hung around Turing until about 7 most evenings and made myself available to help with problems people were running in to.
 * I unloaded and loaded the dishwashers ~10 times throughout the module.
 
