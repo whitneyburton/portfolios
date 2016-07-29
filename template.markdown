@@ -31,12 +31,12 @@ This project was not formally assessed.
 
 CompleteMe is a rudimentary autocomplete program that first loads in a dictionary of words and then can take in a prefix and return words from the dictionary that begin with the prefix. The project gets a little spicier with the notion of weighted suggestions whereby the program needs to also store the user's preferences regarding a given prefix so that next time that prefix is given, the user's past selected words are prioritized over other words.
 
-(evaluation comments)
-Spec harness 2.3 seconds
-Good testing, could check for more edge cases
-Recursive methods are well done
-Would liked to have seen a separate Trie class
-Some opportunities to refactor, we talked about predicate methods
+##### evaluation comments
+* Spec harness 2.3 seconds
+* Good testing, could check for more edge cases
+* Recursive methods are well done
+* Would liked to have seen a separate Trie class
+* Some opportunities to refactor, we talked about predicate methods
 
 
 (evaluation scores)
