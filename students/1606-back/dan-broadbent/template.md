@@ -43,6 +43,13 @@ My main goal going in to Module 1 was to get better at understanding and writing
 
 (feedback to me)
 
+#### Flashcards
+
+* [GitHub URL](https://github.com/dski1080/flashcards)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown]()
+
+In this project, I wrote a flashcard program that is used through the command line. A user can see the questions, take guesses, and see a final score at the end of the round.
+
 Assessed By: Jeff
 
 Repo:
