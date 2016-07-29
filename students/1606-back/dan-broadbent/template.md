@@ -23,26 +23,6 @@ My main goal going in to Module 1 was to get better at understanding and writing
 (evaluation comments)
 
 (evaluation scores)
-
-## Team
-
-### Projects
-
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
 #### Flashcards
 
 * [GitHub URL](https://github.com/dski1080/flashcards)
@@ -85,6 +65,62 @@ The project will be assessed with the following rubric:
 ### 5. Enumerable & Collections
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+## Team
+
+### Projects
+
+(Intro)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### Nightwriter
+
+* [GitHub URL](http://github.com/calaway/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+
+In this project we implemented systems for generating Braille-like text from normal characters and the reverse.  The core challenges involved translating a single string of text to three lines of braille represented by "."s and "0"s and then reversing the process and taking the three lines of braille and changing them back to text.
+
+Notes:
+
+* reads and writes
+* does 160 characters
+* does capitaliation and numbers
+* 16 tests total
+* has a readme
+
+## Evaluation Rubric
+
+The project will be assessed with the following rubric:
+
+### 1. Overall Functionality
+
+
+* 3: Application follows the complete spec and one extension
+
+### 2. Fundamental Ruby & Style
+
+
+* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+### 3. Test-Driven Development
+
+* 3: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+
+### 4. Breaking Logic into Components
+
+* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
 ## Community
