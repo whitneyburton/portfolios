@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-My main goal going in to Module 1 was to get better at understanding and writing Ruby syntax and gaining a basic understading of how to write code.  As Module 1 progressed, I learned about how important the other skills around writing the code actually were.  I had never heard of TDD or DTR, but as my learning grew, I knew I wanted to learn more about how to write good test and how to facilitate a good environment for group work.
+My main goal going in to Module 1 was to get better at understanding and writing Ruby syntax and gaining a basic understading of how to write code.  As Module 1 progressed, I learned about how important the other skills around writing the code actually were.  I had never heard of TDD or DTR, but as my learning grew, I knew I wanted to learn more about how to write good tests and how to facilitate a good environment for group work.
 
 ### End of Module Assessment
 
