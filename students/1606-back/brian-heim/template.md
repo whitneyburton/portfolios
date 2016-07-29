@@ -3,7 +3,9 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to develop a solid understanding of the Ruby language, not only the core concepts but also implementing code using good Object-Oriented Programming fundamentals. 
+
+I also set out to build relationships while at Turing: friendships and good working relationships with my fellow cohort-members, a solid relationship with a mentor to help guide me through my time at Turing, and to network with instructors and those in upper mods to foster connections with those who can help me with day-to-day life and projects at Turing.
 
 ### End of Module Assessment
 
