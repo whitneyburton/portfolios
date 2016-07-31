@@ -164,7 +164,7 @@ The project will be assessed with the following rubric:
 
 * 4: Application effectively breaks logical components apart with clear intent and usage
 
-(feedback to me [from Susi])
+From Susi Irwin: "Jasmin was an absolute delight to partner with on Night Writer. Her strong organizational skills and motivated attitude pushed us forward at a fantastic rate. Jasmin is easy to communicate with in person, as well as remotely. I was excited to be paired with her for our first paired project and was not disappointed. She has an innate ability to calm nerves and logically look at the issues as they are presented. Jasmin was able to keep our motivation alive even when we hit bumps in the road. Her enthusiasm and charisma are absolutely wonderful!"
 
 ## Community
 
@@ -174,7 +174,7 @@ The project will be assessed with the following rubric:
 
 ### Being a Community Member
 
-(feedback to me)
+From Gabi Procell: "I am always astounded at Jasmin's organizational skills as well as how much cool information that she provides to the Turing community. I'm not quite sure where she finds time for it all, but she seems to fit in so much community time in addition to her work time -- and that completely amazes me. I also appreciate how she stepped up to be a representative for our cohort in the SAB. You're an amazing organization queen!"
 
 ### Playing a Part
 
