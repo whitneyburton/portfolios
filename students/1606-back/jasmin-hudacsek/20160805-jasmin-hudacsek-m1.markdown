@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-With some prior knowledge of Ruby and general programming before Turing, I hope to have a firmer grasp of Ruby fundementals in order to make complete and functioning programs. I also wish to better understand object-oriented programming and the best practices that go along with working with OOP. I hope to learn as much as I can from instructors, mentors, and other students while I'm here.
+With some prior knowledge of Ruby and general programming before Turing, I hoped to have a firmer grasp of Ruby fundementals in order to make complete and functioning programs. I also strived to better understand object-oriented programming and the best practices that go along with working with OOP. I was eager to learn as much as I could from instructors, mentors, and other students while I attend Turing.
 
 Getting to meet some Turing alums before starting the program has made me fully aware that this will be the some of the hardest seven months of my life but also the most rewarding. I am both excited and nervous about making the commitment, but I know I will only become better for pulling through.
 
