@@ -45,7 +45,7 @@ Getting to meet some Turing alums before starting the program has made me fully 
 
 * [GitHub URL](https://github.com/j-sm-n/flashcards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
-* [Project README] (ADD LINK)
+* [Project README](https://github.com/j-sm-n/flashcards/blob/master/README.md)
 
 >__Flashcards__ is a project that establishes an understanding of OOP and how objects can interact. The concepts of flashcards, a deck, and a round are used to show the capabilities of OOP.
 
