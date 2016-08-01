@@ -96,33 +96,34 @@ This section highlights the projects that I worked on during Mod 1
 
 #### (description)
 
-In this project you'll use Ruby to build an implementation of the classic game Battleship.
-
 Introduction
+
+  "In this project you'll use Ruby to build an implementation of the classic game Battleship."
+
 
 Learning Goals / Areas of Focus
 
-Proficiently use TDD to drive development
+  Proficiently use TDD to drive development
 
-Practice breaking a program into logical components
+  Practice breaking a program into logical components
 
-Practice implementing a useable REPL interface
+  Practice implementing a useable REPL interface
 
-Apply previously learned Enumerable techniques in a real context
+  Apply previously learned Enumerable techniques in a real context
 
 #### (evaluation comments)
 
-Notes:
+  Notes:
 
-Dealing with computer hardware issues
+  Dealing with computer hardware issues
 
-Menu works
+  Menu works
 
-Player can layout ships on the board with validations
+  Player can layout ships on the board with validations
 
-Did a decent job of iterating to have a thing even if the game doesn't fully play
+  Did a decent job of iterating to have a thing even if the game doesn't fully play
 
-Overall a good 2/3 of a project
+  Overall a good 2/3 of a project
 
 #### (evaluation scores)
 
