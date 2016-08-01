@@ -9,7 +9,31 @@ I also set out to build relationships while at Turing: friendships and good work
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+#### 1. Ruby Syntax & API
+
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
+
+#### 2. Completion and Progress
+
+* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+
+#### 3. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+#### 4. Workflow
+
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### 5. Collaboration
+
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+#### 6. Enumerable & Collections
+
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
