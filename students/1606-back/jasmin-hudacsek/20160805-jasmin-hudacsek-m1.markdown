@@ -7,6 +7,8 @@ With some prior knowledge of Ruby and general programming before Turing, I hope 
 
 Getting to meet some Turing alums before starting the program has made me fully aware that this will be the some of the hardest seven months of my life but also the most rewarding. I am both excited and nervous about making the commitment, but I know I will only become better for pulling through.
 
+---
+
 ### End of Module Assessment
 
 #### 1. Ruby Syntax & API
@@ -33,16 +35,18 @@ Getting to meet some Turing alums before starting the program has made me fully 
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
+---
+
 ### Work
 
-(Intro)
+> Projects from Module 1 teach the fundamentals of Ruby syntax. They became progressively more difficult but introduced new TDD and Agile development goals as the module progressed.
 
 ### Flashcards
 
 * [GitHub URL](https://github.com/j-sm-n/flashcards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
-In this project, you'll write a flashcard program that is used through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
+>__Flashcards__ is a project that establishes an understanding of OOP and how objects can interact. The concepts of flashcards, a deck, and a round are used to show the capabilities of OOP.
 
 Assessed By: Mike
 
@@ -77,12 +81,14 @@ The project will be assessed with the following guidelines:
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
+---
+
 ### Battleship
 
 * [GitHub URL](http://github.com/j-sm-n/battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
 
-In this project you'll use Ruby to build an implementation of the classic game Battleship.
+>__Battleship__ is a project that enforces breaking a program up into logical components and implementing a useable REPL interface. In this project, Ruby is used to build an implementation of the classic game Battleship.
 
 Assessed By: Mike
 
@@ -118,20 +124,22 @@ The project will be assessed with the following rubric:
 
 * 3: Application effectively breaks logical components apart with clear intent and usage
 
+---
+
 ## Team
 
 ### Projects
 
-(Intro)
+> Paired projects in Module 1 focused on Git Workflow, pair programming methodologies and became increasingly more complex by the addition of parsing large CSV files.
 
 ### Night Writer
 
 * [GitHub URL](http://github.com/susiirwin/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-The idea of Night Writing was first developed for Napoleon's army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille's development of his Braille tactile writing system.
+> The idea of Night Writing was first developed for Napoleon's army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille's development of his Braille tactile writing system.
 
-In this project we'll implement systems for generating Braille-like text from normal characters and the reverse.
+> In this project, systems for generating Braille-like text from normal characters and the reverse will be implemented.
 
 Assessed By: Mike
 
@@ -164,7 +172,22 @@ The project will be assessed with the following rubric:
 
 * 4: Application effectively breaks logical components apart with clear intent and usage
 
-From Susi Irwin: "Jasmin was an absolute delight to partner with on Night Writer. Her strong organizational skills and motivated attitude pushed us forward at a fantastic rate. Jasmin is easy to communicate with in person, as well as remotely. I was excited to be paired with her for our first paired project and was not disappointed. She has an innate ability to calm nerves and logically look at the issues as they are presented. Jasmin was able to keep our motivation alive even when we hit bumps in the road. Her enthusiasm and charisma are absolutely wonderful!"
+> From Susi Irwin: "Jasmin was an absolute delight to partner with on Night Writer. Her strong organizational skills and motivated attitude pushed us forward at a fantastic rate. Jasmin is easy to communicate with in person, as well as remotely. I was excited to be paired with her for our first paired project and was not disappointed. She has an innate ability to calm nerves and logically look at the issues as they are presented. Jasmin was able to keep our motivation alive even when we hit bumps in the road. Her enthusiasm and charisma are absolutely wonderful!"
+
+---
+
+### Black Thursday
+
+* [GitHub URL](https://github.com/j-sm-n/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
+> __Black Thuesday__ is a project that focuses on using tests that both drive design and implementation of code, decomposes a large application into small components, connects related objects together through references and relies on an agile approach to building software.
+
+(Evaluation Notes & Scores)
+
+> From Jesse Spevek: ""
+
+---
 
 ## Community
 
@@ -178,7 +201,15 @@ From Gabi Procell: "I am always astounded at Jasmin's organizational skills as w
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+* I actively participated in Student Advisory Board and tried to stress the importance of SAB to my cohort so that they could effectively make use of the resource early on.
+
+* Attempted to help my cohort tackle effective project management by showing them Trello and task management methodologies.
+
+* Actively participated within Joan Clarke Society and outside-Turing events focused toward Women and POC in Tech.
+
+* Tried to re-arrange the Big Workspace at the end of every Friday so it was back to normal and ready to go for Monday (or the folks camping out over the weekend).
+
+---
 
 ## Review
 
