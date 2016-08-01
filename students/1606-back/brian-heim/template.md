@@ -57,7 +57,9 @@ This section highlights the projects that I worked on during Mod 1
   Notes:
 
   Some tests not passing
+  
   Inflexible tests
+  
   Some unnecessary use of ivars
 
 #### (evaluation scores)
