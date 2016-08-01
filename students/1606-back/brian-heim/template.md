@@ -157,7 +157,7 @@ The project will be assessed with the following rubric:
 
 This section highlights the paired projects that I worked on during Mod 1
 
-#### (Night Writer)
+#### -(Night Writer)-
 
 * [GitHub URL](https://github.com/bheim6/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
@@ -206,18 +206,34 @@ The project will be assessed with the following rubric:
 
 #### (feedback to me)
 
-#### (Project Name)
+#### -(Black Thursday)-
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/brendandillon/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-(description)
+#### (description)
 
-(evaluation comments)
+  Project Overview
+  
+  "A business is only as smart as its data. Let's build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business."
 
-(evaluation scores)
+  Learning Goals
 
-(feedback to me)
+  Use tests to drive both the design and implementation of code
+  
+  Decompose a large application into components
+
+  Use test fixtures instead of actual data when testing
+
+  Connect related objects together through references
+
+  Learn an agile approach to building software
+
+#### (evaluation comments)
+
+#### (evaluation scores)
+
+##### (feedback to me)
 
 ## Community
 
