@@ -39,7 +39,7 @@ I also set out to build relationships while at Turing: friendships and good work
 
 This section highlights the projects that I worked on during Mod 1
 
-#### (Flashcards)
+#### -(Flashcards)-
 
 * [GitHub URL](https://github.com/bheim6/Flashcards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
@@ -89,16 +89,66 @@ This section highlights the projects that I worked on during Mod 1
   3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
-#### (Flashcards)
+#### -(Battleship)-
 
-* [GitHub URL](https://github.com/bheim6/Flashcards)
-* [Original Assignment]()
+* [GitHub URL](https://github.com/bheim6/battleship)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
 
-(description)
+#### (description)
 
-(evaluation comments)
+In this project you'll use Ruby to build an implementation of the classic game Battleship.
 
-(evaluation scores)
+Introduction
+
+Learning Goals / Areas of Focus
+
+Proficiently use TDD to drive development
+
+Practice breaking a program into logical components
+
+Practice implementing a useable REPL interface
+
+Apply previously learned Enumerable techniques in a real context
+
+#### (evaluation comments)
+
+Notes:
+
+Dealing with computer hardware issues
+
+Menu works
+
+Player can layout ships on the board with validations
+
+Did a decent job of iterating to have a thing even if the game doesn't fully play
+
+Overall a good 2/3 of a project
+
+#### (evaluation scores)
+
+Evaluation Rubric
+
+The project will be assessed with the following rubric:
+
+1. Fundamental Ruby & Style
+
+  2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+  
+2. Enumerable & Collections
+
+  3: Application demonstrates comfortable use of several Enumerable techniques
+  
+3. Test-Driven Development
+
+  3: Application is well tested but does not balance isolation and integration tests
+  
+4. REPL Interface
+
+  1: Application's REPL has enough problems as to make play difficult
+  
+5. Breaking Logic into Components
+
+  2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 
 ## Team
 
