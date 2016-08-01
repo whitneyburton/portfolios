@@ -211,17 +211,19 @@ __Black Thuesday__ is a project that focuses on using tests that both drive desi
 
 * Tried to re-arrange the Big Workspace at the end of every Friday so it was back to normal and ready to go for Monday (or the folks camping out over the weekend).
 
+* Already planning a Friday Spike session on how to make your Twitter ~*~shine~*~ in the TwitterTechverse for Module 2 (in collaboration with Madison Kerndt from 1606-FE).
+
 ---
 
 ## Review
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: X (I hope this is a 4)
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Community Participation**: 4
+* **E: Peer & Instructor Feedback**: 3.5
 
 ### Notes
 
