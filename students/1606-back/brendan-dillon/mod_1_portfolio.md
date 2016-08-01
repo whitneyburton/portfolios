@@ -85,7 +85,7 @@ Scores
 
 Working in a pair on Black Thursday really helped me figure out how to organize my thoughts and write code with best practices. Now that I know how easily the project has been going after starting with a really clean, well-tested base, I think that I will be more vigilant about keeping these practices going in individual work too.
 
-#### (Project Name)
+#### Black Thursday
 
 * [GitHub URL](https://github.com/brendandillon/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
@@ -102,7 +102,9 @@ In this two week project, Brian Heim and I wrote a program that reads data from 
 
 ### Giving Feedback
 
-(feedback from me)
+Raphael Barbo: Raphael's enthusiasm and willingness to help with any problem set an amazing example for the rest of the cohort. Also, inheriting Raphael's code in Paramorse provided me with an epiphany as to what clean code should look like. I didn't work with Raphael much, but his positive energy helped me push through a lot of frusturation and doubt.
+
+Brian Heim: Working with Brian on Black Thursday was a great experience. I was amazed by his ability to communicate ideas clearly and keep our understanding of the project straight. Before working with Brian, I hadn't done much pairing, but we wound up pairing about half of the time on this project. It went really well, thanks to Brian's friendly demeanor, strong communication, and persistance. The only thing I would recommend that he work on is developing a more efficient workflow and figuring out how to more quickly get code from his head on to the screen.
 
 ### Being a Community Member
 
