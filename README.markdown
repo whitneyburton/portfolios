@@ -24,8 +24,11 @@ portfolio should be written/submitted
 * Individual Assessment: Passing Score (All 3's) required
 * Required Project: Final Project (Headcount / Black Thursday) -- Passing Score (All 3's) required
 * Included Projects: All individual and paired projects
-* Instructor Pairing Feedback: At least 1 session from during the module
 * Feedback: Self-Solicited and from Feedback App
+
+** To Repeat the Module **
+
+A passing Chisel project completed during the final 2 weeks of the module **OR** Satisfactory progress on the Headcount / Black Thursday final project.
 
 __Soft Skills / Protocol Requirements__
 
@@ -43,8 +46,10 @@ __Soft Skills / Protocol Requirements__
   * how has your posse experience helped you grow as a professional?
 
 * Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master
+ * Include what you learned/took away fromt he project.  
 * Peer evaluated projects:  Rails Mini Project
-* Evaluated projects: Traffic Spy, Little Shop
+ * Include what you implemented for the extension day. And include a short description of what you built and what you took away/learned from this project.
+* Evaluated projects: Rush Hour, Little Shop
 * Assessments: mid-module, final
 
 ### Module 3
@@ -57,10 +62,10 @@ __Soft Skills / Protocol Requirements__
 
 ### Module 4
 
-* Individual Assessment: Only if needed
-* Required Project: GameTime
-* Included Projects: RealTime, ScaleUp
+* Individual Assessment (thoughtbox)
+* Required Project: GameTime, ScaleUp
   * Should include points breakdown per project
+* Bonus Project (not required): IdeaBox
 * Feedback: Self-Solicited
 
 ## Submission Guidelines
