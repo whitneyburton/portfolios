@@ -37,7 +37,7 @@ I also set out to build relationships while at Turing: friendships and good work
 
 ### Work
 
-This section highlights the projects that I worked on during Mod 1
+This section highlights the individual projects that I worked on during Mod 1
 
 #### -(Flashcards)-
 
@@ -155,7 +155,56 @@ The project will be assessed with the following rubric:
 
 ### Projects
 
-(Intro)
+This section highlights the paired projects that I worked on during Mod 1
+
+#### (Night Writer)
+
+* [GitHub URL](https://github.com/bheim6/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+
+#### (description)
+  
+  "The idea of Night Writing was first developed for Napoleon's army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille's development of his Braille tactile writing system.
+
+  In this project we'll implement systems for generating Braille-like text from normal characters and the reverse."
+
+#### (evaluation comments)
+
+  Notes:
+
+  converts in both directions
+  
+  Does not truncate to 80 characters
+  
+  12 tests, not all pass
+  
+  Lots of replication
+  
+  Does not do capital letters
+
+#### (evaluation scores)
+
+  Evaluation Rubric
+
+The project will be assessed with the following rubric:
+
+1. Overall Functionality
+
+  2: Application converts to Braille and back successfully
+  
+2. Fundamental Ruby & Style
+
+  3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+  
+3. Test-Driven Development
+
+  3: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+  
+4. Breaking Logic into Components
+
+  3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+#### (feedback to me)
 
 #### (Project Name)
 
