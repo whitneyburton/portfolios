@@ -253,7 +253,7 @@ The project will be assessed with the following rubric:
   
   -I spread the word about Turing to friends, family and former co-workers, one such co-worker has already expressed interest in joining! 
   
-  -I am very active in the disc-golfers group and try to organize meet-ups and local courses and trips to new courses, also proposed the idea of "Turing Tags", an organized way to foster friendly competition between thosein the group.
+  -I am very active in the disc-golfers group and try to organize meet-ups at local courses and trips to new courses, also proposed the idea of "Turing Tags", an organized way to foster friendly competition between those in the group.
   
   -Started playing a part in cleaning up, washing, and putting away dishes in the Big Workspace
 
