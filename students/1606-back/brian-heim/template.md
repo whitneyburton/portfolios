@@ -44,7 +44,7 @@ This section highlights the projects that I worked on during Mod 1
 * [GitHub URL](https://github.com/bheim6/Flashcards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
-(description)
+#### (description)
 
   "In this project, you'll write a flashcard program that is used through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
 
@@ -52,7 +52,7 @@ This section highlights the projects that I worked on during Mod 1
 
   The rubric for this project is included at the bottom of this file."
 
-(evaluation comments)
+#### (evaluation comments)
 
   Notes:
 
@@ -60,7 +60,7 @@ This section highlights the projects that I worked on during Mod 1
   Inflexible tests
   Some unnecessary use of ivars
 
-(evaluation scores)
+#### (evaluation scores)
 
   Evaluation Rubric
 
