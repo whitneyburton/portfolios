@@ -246,9 +246,49 @@ Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirement
 
 Caleb and I created a program which reads hundreds and thousands of datum entries, parses those entries, and assigns them to school districts which can then be searched and compared. We also wrote many analysis methods which access the data, perform computations and analysis, and return accurate results.
 
-(evaluation comments)
+Evaluated By: Horace
 
-(evaluation scores)
+Notes:
+
+* Completed required iterations including iteration 5
+* Overall ruby style is very concise and clean
+* Still seeing handful of ruby weirdness -- returns, lots of ternaries, etc
+* Established a very consistent pattern around how data is loaded and stored -- once we figure
+out how Enrollment data works, the others follow that same pattern pretty consistently
+* Good job isolating the "number crunching" in the analyst using that Data module from
+the fetching / aggregating logic
+* Biggest thing we could bring in is more responsibility and leverage on the "leaf" objects
+-- how can we give these things bigger jobs to do so that the upper-layers in turn become simpler
+* As a HeadcountAnalyst, I can get back some data and do a bunch of formatting/validating on that
+myself, but it would be cooler if it just came back in the proper format (DDD -- etc)
+
+####Scores:
+
+#### 1. Functional Expectations
+
+​* 3: Application fulfills expectations of Iterations 0 - 4 *as well as*​ one of Iterations 5 or 6
+
+#### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+#### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+#### 4. Fundamental Ruby & Style
+
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+#### 5. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+#### 6. Code Sanitation
+
+The output from `rake sanitation:all` shows...
+
+* 4: Zero complaints
 
 ***
 # Soft Skills/Protocol Requirements
@@ -307,7 +347,13 @@ Finally, it was nice working with you because you kept a pleasant attitude even 
 
 #### Feedback to Caleb - Headcount
 
+First, thanks! This was an enjoyable partnership and I think we were extremely effective with our time spent both together and apart working to complete the Headcount iterations.
 
+Things I appreciated: Your willingness to do pair programming during our work time. I think this helped keep our Ruby syntax and style consistent for the whole project. You also were very good about time management. We did a fantastic job recognizing portions of the project which we could complete independently, then doing those in the evenings and coming together to make progress in the mornings and day periods. Overall, I don't think there are many ways in which we could have done better. Communication was great.
+
+Suggestions or areas for consideration: There wasn't much that I didn't enjoy about our paired project. I feel like we were very efficient with our time together - we made great use of pry and I feel like we kept the same pace of the project. When we got "stuck" we both tended to go into our own personal silos to work, but it was never for more than an hour or so before one of us came up with a solution. If anything, I remembered that we weren't using Trello halfway through - maybe that would have helped with our organization.
+
+Overall, I enjoyed this project and partner experience and I'd happily work together again. Thank you!
 
 ## Being a Community Member
 
@@ -315,7 +361,7 @@ Finally, it was nice working with you because you kept a pleasant attitude even 
 
 "During the project, Chris was able to hold his own and effectively get through projects. He was very time efficient and always came back to class with all his work done. Whenever I got stuck on a problem, he was able to help me through it, and he has strong refactoring and problem solving skills.  He was a great partner and we never had any issues during the entire project. He absolutely deserves to go onto to Mod2" -Nicole Marino
 
-
+"Working with you on Headcount was great! I learned a lot from your knowledge of how classes and objects connected. Sometimes you ran ahead when you were on to something but always explained it in the end. I appreciated working with someone else who had the habit of "getting in the zone", and it was amazing to see our code being built as we did so. Great job at checking in and making sure we were on the same page, especially when it came to git workflow." -Caleb Cowen
 
 ### Playing a Part
 
