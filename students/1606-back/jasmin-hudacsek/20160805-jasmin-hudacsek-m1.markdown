@@ -39,7 +39,7 @@ Getting to meet some Turing alums before starting the program has made me fully 
 
 ## Work
 
-> Projects from Module 1 teach the fundamentals of Ruby syntax. They became progressively more difficult but introduced new TDD and Agile development goals as the module progressed.
+Projects from Module 1 teach the fundamentals of Ruby syntax. They became progressively more difficult but introduced new TDD and Agile development goals as the module progressed.
 
 ### Flashcards
 
@@ -47,7 +47,7 @@ Getting to meet some Turing alums before starting the program has made me fully 
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 * [Project README](https://github.com/j-sm-n/flashcards/blob/master/README.md)
 
->__Flashcards__ is a project that establishes an understanding of OOP and how objects can interact. The concepts of flashcards, a deck, and a round are used to show the capabilities of OOP.
+__Flashcards__ is a project that establishes an understanding of OOP and how objects can interact. The concepts of flashcards, a deck, and a round are used to show the capabilities of OOP.
 
 Assessed By: Mike
 
@@ -89,7 +89,7 @@ The project will be assessed with the following guidelines:
 * [GitHub URL](http://github.com/j-sm-n/battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
 
->__Battleship__ is a project that enforces breaking a program up into logical components and implementing a useable REPL interface. In this project, Ruby is used to build an implementation of the classic game Battleship.
+__Battleship__ is a project that enforces breaking a program up into logical components and implementing a useable REPL interface. In this project, Ruby is used to build an implementation of the classic game Battleship.
 
 Assessed By: Mike
 
@@ -138,9 +138,9 @@ The project will be assessed with the following rubric:
 * [GitHub URL](http://github.com/susiirwin/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-> The idea of Night Writing was first developed for Napoleon's army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille's development of his Braille tactile writing system.
+The idea of Night Writing was first developed for Napoleon's army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille's development of his Braille tactile writing system.
 
-> In this project, systems for generating Braille-like text from normal characters and the reverse will be implemented.
+In this project, systems for generating Braille-like text from normal characters and the reverse will be implemented.
 
 Assessed By: Mike
 
@@ -173,7 +173,7 @@ The project will be assessed with the following rubric:
 
 * 4: Application effectively breaks logical components apart with clear intent and usage
 
-> From Susi Irwin: "Jasmin was an absolute delight to partner with on Night Writer. Her strong organizational skills and motivated attitude pushed us forward at a fantastic rate. Jasmin is easy to communicate with in person, as well as remotely. I was excited to be paired with her for our first paired project and was not disappointed. She has an innate ability to calm nerves and logically look at the issues as they are presented. Jasmin was able to keep our motivation alive even when we hit bumps in the road. Her enthusiasm and charisma are absolutely wonderful!"
+>From Susi Irwin: "Jasmin was an absolute delight to partner with on Night Writer. Her strong organizational skills and motivated attitude pushed us forward at a fantastic rate. Jasmin is easy to communicate with in person, as well as remotely. I was excited to be paired with her for our first paired project and was not disappointed. She has an innate ability to calm nerves and logically look at the issues as they are presented. Jasmin was able to keep our motivation alive even when we hit bumps in the road. Her enthusiasm and charisma are absolutely wonderful!"
 
 ---
 
@@ -183,11 +183,11 @@ The project will be assessed with the following rubric:
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 * [DTR Memo] (ADD LINK ONCE FINISHED)
 
-> __Black Thuesday__ is a project that focuses on using tests that both drive design and implementation of code, decomposes a large application into small components, connects related objects together through references and relies on an agile approach to building software.
+__Black Thuesday__ is a project that focuses on using tests that both drive design and implementation of code, decomposes a large application into small components, connects related objects together through references and relies on an agile approach to building software.
 
 (Evaluation Notes & Scores)
 
-> From Jesse Spevek: ""
+>From Jesse Spevek: ""
 
 ---
 
@@ -199,7 +199,7 @@ The project will be assessed with the following rubric:
 
 ### Being a Community Member
 
-From Gabi Procell: "I am always astounded at Jasmin's organizational skills as well as how much cool information that she provides to the Turing community. I'm not quite sure where she finds time for it all, but she seems to fit in so much community time in addition to her work time -- and that completely amazes me. I also appreciate how she stepped up to be a representative for our cohort in the SAB. You're an amazing organization queen!"
+>From Gabi Procell: "I am always astounded at Jasmin's organizational skills as well as how much cool information that she provides to the Turing community. I'm not quite sure where she finds time for it all, but she seems to fit in so much community time in addition to her work time -- and that completely amazes me. I also appreciate how she stepped up to be a representative for our cohort in the SAB. You're an amazing organization queen!"
 
 ### Playing a Part
 
