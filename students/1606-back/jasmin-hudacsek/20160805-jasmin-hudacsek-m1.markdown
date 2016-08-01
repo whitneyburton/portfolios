@@ -37,7 +37,7 @@ Getting to meet some Turing alums before starting the program has made me fully 
 
 ---
 
-### Work
+## Work
 
 > Projects from Module 1 teach the fundamentals of Ruby syntax. They became progressively more difficult but introduced new TDD and Agile development goals as the module progressed.
 
@@ -45,6 +45,7 @@ Getting to meet some Turing alums before starting the program has made me fully 
 
 * [GitHub URL](https://github.com/j-sm-n/flashcards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
+* [Project README] (ADD LINK)
 
 >__Flashcards__ is a project that establishes an understanding of OOP and how objects can interact. The concepts of flashcards, a deck, and a round are used to show the capabilities of OOP.
 
@@ -180,6 +181,7 @@ The project will be assessed with the following rubric:
 
 * [GitHub URL](https://github.com/j-sm-n/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [DTR Memo] (ADD LINK ONCE FINISHED)
 
 > __Black Thuesday__ is a project that focuses on using tests that both drive design and implementation of code, decomposes a large application into small components, connects related objects together through references and relies on an agile approach to building software.
 
@@ -201,7 +203,7 @@ From Gabi Procell: "I am always astounded at Jasmin's organizational skills as w
 
 ### Playing a Part
 
-* I actively participated in Student Advisory Board and tried to stress the importance of SAB to my cohort so that they could effectively make use of the resource early on.
+* Actively participated in Student Advisory Board and tried to stress the importance of SAB to my cohort so that they could effectively make use of the resource early on.
 
 * Attempted to help my cohort tackle effective project management by showing them Trello and task management methodologies.
 
