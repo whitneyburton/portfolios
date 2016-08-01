@@ -249,7 +249,7 @@ The project will be assessed with the following rubric:
 
 #### (ways you supported the larger Turing community)
 
-  -I engaged in helping other students from 1606-b, especially with the Flashcards project
+  -I engaged in helping other students from 1606-b, especially with the Flashcards project. Upon receiving positive feedback for this, I decided to leave Miyamoto for Hopper posse so that I can offer help to the next generation of Mod 1 students. 
   
   -I spread the word about Turing to friends, family and former co-workers, one such co-worker has already expressed interest in joining! 
   
