@@ -247,7 +247,15 @@ The project will be assessed with the following rubric:
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+#### (ways you supported the larger Turing community)
+
+  -I engaged in helping other students from 1606-b, especially with the Flashcards project
+  
+  -I spread the word about Turing to friends, family and former co-workers, one such co-worker has already expressed interest in joining! 
+  
+  -I am very active in the disc-golfers group and try to organize meet-ups and local courses and trips to new courses, also proposed the idea of "Turing Tags", an organized way to foster friendly competition between thosein the group.
+  
+  -Started playing a part in cleaning up, washing, and putting away dishes in the Big Workspace
 
 ## Review
 
