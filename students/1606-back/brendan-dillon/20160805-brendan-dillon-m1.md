@@ -108,6 +108,8 @@ Raphael Barbo: Raphael's enthusiasm and willingness to help with any problem set
 
 Brian Heim: Working with Brian on Black Thursday was a great experience. I was amazed by his ability to communicate ideas clearly and keep our understanding of the project straight. Before working with Brian, I hadn't done much pairing, but we wound up pairing about half of the time on this project. It went really well, thanks to Brian's friendly demeanor, strong communication, and persistance. The only thing I would recommend that he work on is developing a more efficient workflow and figuring out how to more quickly get code from his head on to the screen.
 
+Jesse Spevack: Whenever I talked about projects with Jesse, I was impressed by how methodical and organized his thinking was. Not only did he do some really great planning, but he also started discussions that encouraged other people to figure out how to plan and organize their projects. In the pairing exercises I did with Jesse, I found that he has a really sharp eye for detail and can debug code really well. On top of all this, he is pulling off a Herculean feat of work-life balance by raising newborn twins while attending Turing.
+
 ### Being a Community Member
 
 Ryan Workman: During ParaMorse, I received Brendan's code after we all swapped codes.  Brendan is an extremely strong coder with a great understanding of how to write clear, concise code.  On a personal level, Brendan is one of the easiest people to talk to in our cohort.  He is very reserved, but when he speaks up, he has very profound and well thought out points.  I would love to pair with him in the future.  I'm sure Brendan can teach me a whole lot.
@@ -123,7 +125,7 @@ Ryan Workman: During ParaMorse, I received Brendan's code after we all swapped c
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: X
 * **D: Community Participation**: 3
