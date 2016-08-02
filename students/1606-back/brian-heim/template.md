@@ -167,7 +167,7 @@ This section highlights the paired projects that I worked on during Mod 1
   "The idea of Night Writing was first developed for Napoleon's army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille's development of his Braille tactile writing system.
 
   In this project we'll implement systems for generating Braille-like text from normal characters and the reverse."
-
+  
 #### (evaluation comments)
 
   Notes:
@@ -206,6 +206,8 @@ The project will be assessed with the following rubric:
 
 #### (feedback to me)
 
+  Project Partner: Chase Dunagan
+
 #### -(Black Thursday)-
 
 * [GitHub URL](https://github.com/brendandillon/black_thursday)
@@ -234,6 +236,8 @@ The project will be assessed with the following rubric:
 #### (evaluation scores)
 
 #### (feedback to me)
+
+  Project Partner: Brendan Dillon
 
 ## Community
 
