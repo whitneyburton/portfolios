@@ -110,7 +110,7 @@ Brian Heim: Working with Brian on Black Thursday was a great experience. I was a
 
 ### Being a Community Member
 
-(feedback to me)
+Ryan Workman: During ParaMorse, I received Brendan's code after we all swapped codes.  Brendan is an extremely strong coder with a great understanding of how to write clear, concise code.  On a personal level, Brendan is one of the easiest people to talk to in our cohort.  He is very reserved, but when he speaks up, he has very profound and well thought out points.  I would love to pair with him in the future.  I'm sure Brendan can teach me a whole lot.
 
 ### Playing a Part
 
