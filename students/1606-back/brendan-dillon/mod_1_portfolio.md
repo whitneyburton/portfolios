@@ -89,6 +89,8 @@ Working in a pair on Black Thursday really helped me figure out how to organize 
 
 * [GitHub URL](https://github.com/brendandillon/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [ReadMe](https://github.com/brendandillon/black_thursday/blob/master/README.md)
+* [DTR Memo](https://gist.github.com/brendandillon/035a11409866d746b27de0091a8015d7)
 
 In this two week project, Brian Heim and I wrote a program that reads data from a number of CSV files and returns business intelligence and analytics on that data.
 
