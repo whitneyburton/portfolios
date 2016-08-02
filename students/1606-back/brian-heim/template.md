@@ -212,6 +212,7 @@ The project will be assessed with the following rubric:
 
 * [GitHub URL](https://github.com/brendandillon/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [ReadMe file](https://github.com/brendandillon/black_thursday/blob/master/README.md)
 
 #### (description)
 
