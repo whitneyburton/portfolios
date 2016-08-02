@@ -18,14 +18,19 @@ Notes:
 
 #### 1. Ruby Syntax & API
 * 4: Developer is able to write Ruby with a minimum of reference or debugging
+
 #### 2. Completion and Progress
 * 4: Developer fully completes baseline assignment and one of the Challenge options.
+
 #### 3. Testing
 * 4: Developer excels at taking small steps and using the tests for both design and verification
+
 #### 4. Workflow
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
 #### 5. Collaboration
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
 #### 6. Enumerable & Collections
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
@@ -66,12 +71,16 @@ Notes:
 
 ### 1. Fundamental Ruby & Style
 * 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+
 ### 2. Enumerable & Collections
 * 4: Application consistently makes use of the best-choice Enumerable methods
+
 ### 3. Test-Driven Development
 * 2: Application makes some use of tests, but the coverage is insufficient
+
 ### 4. REPL Interface
 * 4: Application's REPL goes above and beyond expectations to improve the gameplay
+
 ### 5. Breaking Logic into Components
 * 3: Application effectively breaks logical components apart with clear intent and usage
 
@@ -90,12 +99,15 @@ Asssessed By: Beth Sebian
 
 ### 1. Overall Functionality
 * 2: Application converts to and back successfully
+
 ### 2. Fundamental Ruby & Style
 * 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+
 ### 3. Test-Driven Development
 2.5
 * 3: Application uses tests to exercise core functionality but leaves many common edge cases untested.
 * 2: Minor mutations to the implementation code, such as swaping characters, changing `<` to `<=`, placing `true` into a conditional, or deleting a line of code which break the functionality do not cause any tests to fail.
+
 ### 4. Breaking Logic into Components
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
@@ -121,12 +133,16 @@ Notes:
 
 ### 1. Functional Expectations
 * 4: Application fulfills all expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality *as well as* two extensions.
+
 ### 2. Test-Driven Development
-* 2: Application makes some use of tests, but the coverage is insufficient given projet requirements.
+* 2: Application makes some use of tests, but the coverage is insufficient given project requirements.
+
 ### 3. Encapsulation / Breaking Logic into Components
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP.
+
 ### 4. Fundamental Ruby & Style
 * 3:  Application shows strong effort towards organization, content, and refactoring.
+
 ### 5. Enumerable & Collections
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
