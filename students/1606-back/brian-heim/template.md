@@ -240,6 +240,12 @@ The project will be assessed with the following rubric:
 #### (feedback to me)
 
   Project Partner: Brendan Dillon
+  
+   "Working with Brian on Black Thursday was a great experience. I was amazed by his ability to communicate ideas clearly
+   and keep our understanding of the project straight. Before working with Brian, I hadn't done much pairing, but we wound 
+   up pairing about half of the time on this project. It went really well, thanks to Brian's friendly demeanor, strong 
+   communication, and persistance. The only thing I would recommend that he work on is developing a more efficient workflow 
+   and figuring out how to more quickly get code from his head on to the screen." -Brendan Dillon
 
 ## Community
 
