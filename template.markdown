@@ -95,6 +95,7 @@ ParaMorse is about building a program to interpret Morse code, the mid nineteent
 * [GitHub URL](https://github.com/PlanetEfficacy/battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown#player-ship-placement)
 * [Blog Post] (http://www.jessespevack.com/systems-leadership/2016/7/21/all-your-battleship-are-belong-to-us)
+* [Planning Document] (https://docs.google.com/drawings/d/1ANp1lhYyut76tdvEVc7JUCD9g6tksgVLhxZrWDZQ2Mw/edit?usp=sharing)
 
 ##### Description
 Code a playable version of Milton Bradley's Battleship that runs in a Read Evaluate Print Loop (REPL).
@@ -122,6 +123,7 @@ The final project for module 1 was the pair project, Black Thursday.
 
 * [GitHub URL](https://github.com/j-sm-n/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [Waffle.io](https://waffle.io/j-sm-n/black_thursday/)
 
 ##### Description
 A business is only as smart as its data. Let's build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
@@ -150,8 +152,6 @@ Bryan Goss: Bryan is outrageously generous with his time. He never shies away fr
 Jean Joeris: Jean is highly analytical and takes a very scientific approach to TDD. His successful completion of the ParaMorse project rested on his ability to reframe problems for himself. He is also always willing to share his knowledge with his classmates. He also clearly is passionate about gender issues which is a welcome perspective in 1606.
 
 Raphael Barbo: Raphael has incredible interpersonal skills. He has a very clear read on group dynamics and also has the ability to put himself in other people's shoes. I witnessed him recognize that a fellow student was upset after a code review, which I was oblivious to, and then move to show empathy and offer encouragement. He also clearly has some significant coding skill. Most recently, he helped me arrive at an approach to the Black Thursday project where repositories build themselves. It’s a real gift to have a guy like Raphael in the cohort.
-
-
 
 ### Being a Community Member
 
