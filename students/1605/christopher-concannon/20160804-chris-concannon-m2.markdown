@@ -219,15 +219,20 @@ I began the module as part of the Clojure-learning posse. However, I only made i
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 
+* **A: End-of-Module Assessment**: 4
+I received mostly 4's on my end of module assessment, so I think it's fair to round this to a 4. 
 
-* **B: Individual Work & Projects**: 
+* **B: Individual Work & Projects**: 3
+None of the individual work in this module was officially assessed by instructors. However, I attempted to complete all assignments and I kept up with the work well enough to be a valuable asset in the evaluated group projects. I feel like there was room for improvement or more work in most of my personal projects, and therefore I am not awarding myself a top score here. 
 
-* **C: Group Work & Projects**: 
+* **C: Group Work & Projects**: 4
+Between Rush Hour and Little Shop, I received a total of two 4's and four 3's. I believe I am justified in giving myself a 4 in this category based on those scores. I played an integral role in both of those projects, and this is reflected in feedback from my group members. 
 
-* **D: Community Participation**: 
+* **D: Community Participation**: 3
+I participated in Turing community events and I assisted several mod1 students via paired programming sessions. However, I did not consistently perform any work with a posse after the first two weeks. I continued to be a part of the lunch and evening running group events at Turing. I engaged with all Gear Up and Student Led Sessions events, and I delivered a lightning talk. Based on all of this, I believe I deserve a passing, but not an excellent, mark for community participation. 
 
-* **E: Peer & Instructor Feedback**: 
+* **E: Peer & Instructor Feedback**: 3
+I am unsure what the criteria are to receive a top score here, but I actively took notes at each instructor evaluation and I gave constructive feedback to all my group members during and after our work together. I reflected upon all feedback given to me, and adjusted my habits and work style in order to become a better team member and developer. I believe I met or exceeded all expectations in giving and internalizing peer and instructor feedback. 
 
 ### Notes
 
