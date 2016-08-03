@@ -127,16 +127,18 @@ In this two week project, Brian Heim and I wrote a program that reads data from 
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: X
+* **C: Group Work & Projects**: 4
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+
+
