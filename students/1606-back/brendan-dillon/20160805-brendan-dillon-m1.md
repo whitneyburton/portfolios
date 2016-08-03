@@ -140,6 +140,8 @@ In this two week project, Brian Heim and I wrote a program that reads data from 
 
 **Brian Heim**: Brendan has been fantastic to work with on Black Thursday. I am still amazed by how quickly he is able to implement a solution that requires little to no refactoring at all. His grasp of object relationships and enumerables is a major strength. Not only is he able to code effectively, he gives clear explanations of his thought process and has taught me quite a bit throughout each iteration of the project. As someone who can see the big picture, but can sometimes get stuck on the details, I have greatly benefitted from having Brendan as a partner. My only advice for him would be to not be afraid to assert himself when he has an idea, more often than not, his instincts are on-point.
 
+**Jesse Spevack**: What impresses me most about Brendan’s coding is his structural creativity. During a conversation about Battleship, Brendan explained that he intended to make each space a class. I thought this was a really creative solution that contributed significantly to the successful completion of my own project. During a second conversation about Black Thursday, Brendan discussed how he built multiple Analyst classes to help organize the code. I also took this idea and broke my own Sales Analyst into a set of modules and classes.
+
 ### Playing a Part
 
 * Miyamoto Posse: I attended weekly meetings and worked through some Unity tutorials with the goal of helping the posse put together a game by the end of next module.
