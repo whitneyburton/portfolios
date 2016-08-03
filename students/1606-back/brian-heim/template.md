@@ -44,49 +44,40 @@ This section highlights the individual projects that I worked on during Mod 1
 * [GitHub URL](https://github.com/bheim6/Flashcards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
-#### (description)
+#### Description
 
-  "In this project, you'll write a flashcard program that is used through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
+  "In this project, you'll write a flashcard program that is used through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round."
 
-  In order to build good habits, we've broken the project up into small classes to demonstrate objects that have a single responsibility. As you work through each iteration, use TDD to drive out the desired behavior.
+#### Eevaluation Comments
 
-  The rubric for this project is included at the bottom of this file."
-
-#### (evaluation comments)
-
-  Notes:
-
-  Some tests not passing
+  * Some tests not passing
   
-  Inflexible tests
+  * Inflexible tests
   
-  Some unnecessary use of ivars
+  * Some unnecessary use of ivars
 
-#### (evaluation scores)
+#### Evaluation Scores
 
-  Evaluation Rubric
 
-  The project will be assessed with the following guidelines:
+#### 1. Functional Expectations
 
-1. Functional Expectations
+* 3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
 
-  3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
+#### 2. Test-Driven Development
 
-2. Test-Driven Development
+* 2: Application makes some use of tests, but the coverage is insufficient given projet requirements.
 
-  2: Application makes some use of tests, but the coverage is insufficient given projet requirements.
+#### 3. Encapsulation / Breaking Logic into Components
 
-3. Encapsulation / Breaking Logic into Components
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP.
 
-  3: Application effectively breaks logical components apart but breaks the principle of SRP.
+#### 4. Fundamental Ruby & Style
 
-4. Fundamental Ruby & Style
+* 3: Application shows strong effort towards organization, content, and refactoring.
 
-  3: Application shows strong effort towards organization, content, and refactoring.
+#### 5. Enumerable & Collections
 
-5. Enumerable & Collections
-
-  3: Application demonstrates comfortable use of appropriate Enumerable methods
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 #### -(Battleship)-
@@ -94,62 +85,53 @@ This section highlights the individual projects that I worked on during Mod 1
 * [GitHub URL](https://github.com/bheim6/battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
 
-#### (description)
-
-Introduction
+#### Description
 
   "In this project you'll use Ruby to build an implementation of the classic game Battleship."
 
+  Areas of Focus
 
-Learning Goals / Areas of Focus
+  * Proficiently use TDD to drive development
 
-  Proficiently use TDD to drive development
+  * Practice breaking a program into logical components
 
-  Practice breaking a program into logical components
+  * Practice implementing a useable REPL interface
 
-  Practice implementing a useable REPL interface
+  * Apply previously learned Enumerable techniques in a real context
 
-  Apply previously learned Enumerable techniques in a real context
+#### Evaluation Comments
 
-#### (evaluation comments)
+  * Dealing with computer hardware issues
 
-  Notes:
+  * Menu works
 
-  Dealing with computer hardware issues
+  * Player can layout ships on the board with validations
 
-  Menu works
+  * Did a decent job of iterating to have a thing even if the game doesn't fully play
 
-  Player can layout ships on the board with validations
+  * Overall a good 2/3 of a project
 
-  Did a decent job of iterating to have a thing even if the game doesn't fully play
+#### Evaluation Scores
 
-  Overall a good 2/3 of a project
+#### 1. Fundamental Ruby & Style
 
-#### (evaluation scores)
-
-Evaluation Rubric
-
-The project will be assessed with the following rubric:
-
-1. Fundamental Ruby & Style
-
-  2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+* 2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
   
-2. Enumerable & Collections
+#### 2. Enumerable & Collections
 
-  3: Application demonstrates comfortable use of several Enumerable techniques
+* 3: Application demonstrates comfortable use of several Enumerable techniques
   
-3. Test-Driven Development
+#### 3. Test-Driven Development
 
-  3: Application is well tested but does not balance isolation and integration tests
+* 3: Application is well tested but does not balance isolation and integration tests
   
-4. REPL Interface
+#### 4. REPL Interface
 
-  1: Application's REPL has enough problems as to make play difficult
+* 1: Application's REPL has enough problems as to make play difficult
   
-5. Breaking Logic into Components
+#### 5. Breaking Logic into Components
 
-  2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 
 ## Team
 
@@ -162,49 +144,43 @@ This section highlights the paired projects that I worked on during Mod 1
 * [GitHub URL](https://github.com/bheim6/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-#### (description)
+#### Description
   
   "The idea of Night Writing was first developed for Napoleon's army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille's development of his Braille tactile writing system.
 
   In this project we'll implement systems for generating Braille-like text from normal characters and the reverse."
   
-#### (evaluation comments)
+#### Evaluation Comments
 
-  Notes:
-
-  converts in both directions
+  * Converts in both directions
   
-  Does not truncate to 80 characters
+  * Does not truncate to 80 characters
   
-  12 tests, not all pass
+  * 12 tests, not all pass
   
-  Lots of replication
+  * Lots of replication
   
-  Does not do capital letters
+  * Does not do capital letters
 
-#### (evaluation scores)
+#### Evaluation Scores
 
-  Evaluation Rubric
+#### 1. Overall Functionality
 
-The project will be assessed with the following rubric:
-
-1. Overall Functionality
-
-  2: Application converts to Braille and back successfully
+* 2: Application converts to Braille and back successfully
   
-2. Fundamental Ruby & Style
+#### 2. Fundamental Ruby & Style
 
-  3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
   
-3. Test-Driven Development
+#### 3. Test-Driven Development
 
-  3: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+* 3: Application uses tests to exercise core functionality but leaves many common edge cases untested.
   
-4. Breaking Logic into Components
+#### 4. Breaking Logic into Components
 
-  3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
-#### (feedback to me)
+#### Feedback to me
 
   Project Partner: Chase Dunagan
 
@@ -215,7 +191,7 @@ The project will be assessed with the following rubric:
 * [ReadMe file](https://github.com/brendandillon/black_thursday/blob/master/README.md)
 * [DTR memo](https://gist.github.com/bheim6/198d555bf9ac1aa5354bf3c340c21109)
 
-#### (description)
+#### Description
 
   Project Overview
   
@@ -233,19 +209,19 @@ The project will be assessed with the following rubric:
 
   Learn an agile approach to building software
 
-#### (evaluation comments)
+#### Evaluation Comments
 
-#### (evaluation scores)
+#### Evaluation Scores
 
-#### (feedback to me)
+#### Feedback to me
 
   Project Partner: Brendan Dillon
   
-   "Working with Brian on Black Thursday was a great experience. I was amazed by his ability to communicate ideas clearly
-   and keep our understanding of the project straight. Before working with Brian, I hadn't done much pairing, but we wound 
-   up pairing about half of the time on this project. It went really well, thanks to Brian's friendly demeanor, strong 
-   communication, and persistance. The only thing I would recommend that he work on is developing a more efficient workflow 
-   and figuring out how to more quickly get code from his head on to the screen." -Brendan Dillon
+*  "Working with Brian on Black Thursday was a great experience. I was amazed by his ability to communicate ideas clearly
+  and keep our understanding of the project straight. Before working with Brian, I hadn't done much pairing, but we wound 
+  up pairing about half of the time on this project. It went really well, thanks to Brian's friendly demeanor, strong 
+  communication, and persistance. The only thing I would recommend that he work on is developing a more efficient workflow 
+  and figuring out how to more quickly get code from his head on to the screen." -Brendan Dillon
 
 ## Community
 
