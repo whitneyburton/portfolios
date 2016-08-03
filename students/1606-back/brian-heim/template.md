@@ -264,7 +264,7 @@ The project will be assessed with the following rubric:
 
 ### Being a Community Member
 
-(feedback to me)
+"Ever since the first day I met Brian, he has had a spirit about him where he is almost always happy. During the first project “Robodoku” he willingly and happily attacked it without knowing the proper way to which showed determination and willingness to learn. When showing him different ways to approach problems he was adapting and absorbing knowledge with a hunger that showed through his actions. I feel strongly that if he is given time to learn new concepts and ideas, he will evolve into an excellent programmer and has the communication skills to effectively communicate with a team." -Yoseph Anderson
 
 ### Playing a Part
 
