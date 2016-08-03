@@ -251,7 +251,16 @@ The project will be assessed with the following rubric:
 
 ### Giving Feedback
 
-(feedback from me)
+	"Chase was great to work with on nightwriter. He is a very strong pair-programmer and is very good at communicating his thought process and ideas. I felt like I could always speak my mind around him and he was quite open to discussion and compromise if we disagreed on specific tasks. Because of this, we never really “stalled” and were always able to make a collective decision and move forward." - Feedback given to Chase Dunagan
+
+	"Caleb was very helpful during our Mod 1 / Mod 2 pairing sessions. He is great at “leading” you toward the solution and showing you how to use the tools (like ‘pry’) to get there, rather than just doing the work for you. His teaching style left me feeling confident in my own ability to solve the next iteration." - Feedback given to Caleb Cowen
+
+	"Yoseph was the first person that I met outside of my cohort at Turing. On day one of the module he saw another mod 1 student and I working on some exercises and immediately walked over, introduced himself, and asked if we needed help. It struck a chord with me how naturally he did this, and gave me a preview of what the Turing community is all about. He continued to offer his help throughout the module, both in official pairing sessions and general work on projects and exercises in the Big Workspace. He even gave me a pep talk before my final assessment when I told him how nervous I was. Yoseph is a fantastic programmer and teacher: he challenges you to truly think about what you are trying to solve, and attempts to lead you to the proper course of action to solve that problem." - Feedback given to Yoseph Anderson
+
+	"Kinan has been a wonderful peer to me during this module. He frequently asks to compare code and offers helpful suggestions for refactoring and overall project functionality and scope. Outside of the curriculum, he is a is great listener and conversationalist. We have engaged in meaningful conversations ranging in topic from adjusting to life at Turing to exercise and nutrition to philosophy about life in general. He especially helped me talk through my concerns about my mid-module assessment scores, and gave me a confidence boost that really helped me down the final stretch of the module." - Feedback given to Kinan Whyte
+
+	"Brendan has been fantastic to work with on Black Thursday. I am still amazed by how quickly he is able to implement a solution that requires little to no refactoring at all. His grasp of object relationships and enumerables is a major strength. Not only is he able to code effectively, he gives clear explanations of his thought process and has taught me quite a bit throughout each iteration of the project. As someone who can see the big picture, but can sometimes get stuck on the details, I have greatly benefitted from having Brendan as a partner. My only advice for him would be to not be afraid to assert himself when he has an idea, more often than not, his instincts are on-point." 
+	- Feedback given to Brendan Dillon 
 
 ### Being a Community Member
 
