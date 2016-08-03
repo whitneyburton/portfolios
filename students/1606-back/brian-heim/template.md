@@ -89,16 +89,6 @@ This section highlights the individual projects that I worked on during Mod 1
 
   "In this project you'll use Ruby to build an implementation of the classic game Battleship."
 
-  Areas of Focus
-
-  * Proficiently use TDD to drive development
-
-  * Practice breaking a program into logical components
-
-  * Practice implementing a useable REPL interface
-
-  * Apply previously learned Enumerable techniques in a real context
-
 #### Evaluation Comments
 
   * Dealing with computer hardware issues
@@ -201,8 +191,6 @@ This section highlights the paired projects that I worked on during Mod 1
 
 #### Feedback to me
 
-  Project Partner: Brendan Dillon
-  
 *  "Working with Brian on Black Thursday was a great experience. I was amazed by his ability to communicate ideas clearly
   and keep our understanding of the project straight. Before working with Brian, I hadn't done much pairing, but we wound 
   up pairing about half of the time on this project. It went really well, thanks to Brian's friendly demeanor, strong 
