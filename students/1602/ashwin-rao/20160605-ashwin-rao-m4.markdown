@@ -14,21 +14,25 @@ I also want to get a job.
 
 ### Work
 
+#### Final Points: 1054 of 1075
+
 #### Mock/Final Assessment
 * [Github] (https://github.com/theonlyrao/thoughtbox)
 * [Live] (https://ashwin-thoughtbox.herokuapp.com/)
+
+It was cool to see a lot of different things come together, resulting in putting together in a day what would have take weeks in mod 1. Also it was great to be comfortable enough with CSS to put together a good looking site that also functions well.
 
 **Meeka evaluated this project with the following results:**
 
 Category | Score
 --- | ---
-Satisfactory Progress |
-Ruby Syntax & Style | 
-Rails Style & API | 
-JS Syntax & Style |
-Testing |
-UI |
-Workflow |
+Satisfactory Progress | 4
+Ruby Syntax & Style | 3
+Rails Style & API | 3
+JS Syntax & Style | 3
+Testing | 4
+UI | 4
+Workflow | 3
 
 
 #### ScaleUp Week 2
