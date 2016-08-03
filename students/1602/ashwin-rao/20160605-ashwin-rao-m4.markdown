@@ -32,7 +32,7 @@ Rails Style & API | 3
 JS Syntax & Style | 3
 Testing | 4
 UI | 4
-Workflow | 3
+Workflow | 4
 
 
 #### ScaleUp Week 2
