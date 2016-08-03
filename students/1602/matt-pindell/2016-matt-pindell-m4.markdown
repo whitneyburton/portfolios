@@ -66,6 +66,17 @@
   * Pre-Work Guide
   * Wall of Faces updater
 
+### Feedback for Others
+
+  * Mark Miranda
+
+    "After going through the Turing experience with Mark, I have no doubt that he will be an enormous asset to the next team that is lucky enough to have him. This is not only due to his programming abilities (which are undeniably strong) but also because of his above-and-beyond role in building the community - from stickers, to t-shirts, to just being a genuinely fun and positive force within the cohort - Mark fundamentally shaped the 1602 experience for the better."
+
+  * Sunny Khalsa
+
+    ""
+
+
 ### Feedback to Me
 
   * Sunny Khalsa
