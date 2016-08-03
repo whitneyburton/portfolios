@@ -56,7 +56,7 @@
 
 ### Total Points
 
-  * 85% (Where's Refactor Tractor?)
+  * 85% (sans: Plan, Refactor Tractor, and Jobs Talk bonus points)
   
   * [Spreadsheet](https://docs.google.com/spreadsheets/d/1MaFQ3O4iTkLx8SkxHrHaYjqE1yjyUJLfRIgCrPCKAUs/edit#gid=0)
 
@@ -74,7 +74,7 @@
 
   * Sunny Khalsa
 
-    ""
+    "Sunny has the almost-magical ability to straddle the line between inordinately positive and kind, while still being shockingly direct - and I think it’s absolutely amazing. He’s been a huge asset to the awesome vibes within the Turing community, as well as the cohort (and let’s face it - at times 1602 really needed it). I feel very fortunate to have gone through this madcap code journey with him."
 
 
 ### Feedback to Me
