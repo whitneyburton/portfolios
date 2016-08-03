@@ -9,6 +9,45 @@ At the end of Module 2, I want to be comfortable with all of the course material
 ***
 # End of Module Assessment
 ***
+Evaluator: Andrew
+
+Notes:
+
+* Uses variable for testing - warn not to do that
+* Data prep for tests is ok. Small problem with creating attempts not connected with levels
+* Good understanding of Rails components
+* Erb & templating in views needs a little work
+* really good variable/method names
+* good understanding of relationships
+
+#### Scores
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+#### 1. Analytic/Algorithmic Thinking
+
+* 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+
+#### 2. Ruby Syntax & Standard Library
+
+* 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+
+#### 3. Rails Syntax & API
+
+* 4: Developer is able to smoothly utilize Rails methods and structures with a minimum of debugging or support
+
+#### 4. MVC & Rails Style
+
+* 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and keep logic out of views and controllers
+
+#### 5. Testing
+
+* 3: Developer writes tests at multiple layers of abstraction to drive development with guidance
+
+#### 6. Collaboration
+
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
 
 ***
 # Mid-Module Assessment
@@ -133,7 +172,7 @@ I decided to try to build a blogging platform for my Rails mini project. I did n
 #### Blog
 * [Github Pages/Jekyll Blog](http://concach.github.io)
 
-### Feedback Received
+## Feedback Received
 
 #### from Matt, re: Rush Hour
 * Working with Chris was a great experience.  I certainly learned a lot of technical skills while working together on Rush Hour and he was always patient to take the time to teach them when necessary.  He was also very easy to work with and open to suggestions from anyone in the group.  Because of these qualities, the project when very smoothly.  We were also able to finish the base functionality quite quickly.  I would definitely love to partner up with Chris again in the future.
