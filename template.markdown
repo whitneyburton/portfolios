@@ -47,7 +47,7 @@
 
 ### Giving Feedback
 
-(feedback from me)
+(feedback I gave to others)
 
 ### Being a Community Member
 
