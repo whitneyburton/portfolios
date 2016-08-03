@@ -236,4 +236,4 @@ This module I joined the Miyamoto Posse, which focuses on game development and h
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass

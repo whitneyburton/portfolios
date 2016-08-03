@@ -1,5 +1,4 @@
 # (Your Name) - (M1/M2/M3/M4) Portfolio
-
 ## Individual
 
 ### Areas of Emphasis
@@ -48,7 +47,7 @@
 
 ### Giving Feedback
 
-(feedback from me)
+(feedback I gave to others)
 
 ### Being a Community Member
 
@@ -59,6 +58,14 @@
 (ways you supported the larger Turing community)
 
 ## Review
+
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Community Participation**: X
+* **E: Peer & Instructor Feedback**: X
 
 ### Notes
 
