@@ -14,21 +14,63 @@ I also want to get a job.
 
 ### Work
 
-#### ScaleUp
-* [Github] (https://github.com/theonlyrao/alpha_animate)
-* [Live] (https://alphabet-animation.herokuapp.com/)
+#### Mock/Final Assessment
+* [Github] (https://github.com/theonlyrao/thoughtbox)
+* [Live] (https://ashwin-thoughtbox.herokuapp.com/)
 
-**Juhn evaluated this project with the following results:**
+**Meeka evaluated this project with the following results:**
 
 Category | Score
 --- | ---
-Functional Expectations | 25
-UX | 15
-Testing | 27
-JS Style | 24
-Workflow | 25
-JSHint | 15
-Total (incl checkins)| 236 of 250
+Satisfactory Progress |
+Ruby Syntax & Style | 
+Rails Style & API | 
+JS Syntax & Style |
+Testing |
+UI |
+Workflow |
+
+
+#### ScaleUp Week 2
+* [Github] (https://github.com/theonlyrao/alpha_animate)
+* [Live] (https://alphabet-animation.herokuapp.com/)
+
+I built a greenfield single-page app using an ExpressJS server and React for the frontend. I also used CSS to do the basic styling of the page, as well as to draw a letter using HTML divs and CSS attributes.
+
+When I was feeling burned out I got myself started learning Java.
+
+I had a goal of animating the CSS letter so that it would transition from a capital to lowercase a but didn't get to that.
+
+I'm happy to have satisfied my other goals of getting a deployable project with a JS backend up from sratch, hooking up the React library to it, and also now feeling like it's not a lie to put HTML/CSS on my resume.
+
+**Meeka evaluated this project with the following results:**
+
+* great job on blog posts
+* good decision to work on custom CSS
+* good decition to pivot to Java when you achieved basic understanding 
+
+Category | Score
+--- | ---
+Blog Post | 40
+Team Participation | 40
+Hourly Work | 5
+Risk Taking and Creativity | 40
+Total | 125 of 150
+
+
+#### ScaleUp Week 1
+* [Submission] (https://github.com/turingschool/ruby-submissions/blob/master/1602/module_4_assignments/scale-up-wk-4/Ashwin-Rao-check-in-form.md)
+* [Live] (https://alphabet-animation.herokuapp.com/)
+
+**Brenna evaluated this project with the following results:**
+
+Category | Score
+--- | ---
+Blog | 25
+Team Participation | 50
+Hourly Work | 25
+Risk Taking and Creativity | 50
+Total | 150 of 150
 
 
 #### GameTime
@@ -95,11 +137,11 @@ Total | 143 of 150
 
 ## Self-Scoring
 
-* **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**
-* **C: Group Work & Projects**:
-* **D: Community Participation**:
-* **E: Peer & Instructor Feedback**:
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects** 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 =======================================
 
