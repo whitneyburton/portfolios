@@ -7,7 +7,30 @@ Coming into this module, the main thing I wanted to accomplish was to become com
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Beth Sebian
+
+Challenge: "What Can I Make?"
+
+Notes:
+
+* Great job whiteboarding/sketching before doing any implementation
+* Great job talking out loud through process
+* Testing captured spirit of TDD, awesome
+* Split Cookbook into another class, had clear explanation why to do this
+* Worked with default value on Hash  
+
+1. Ruby Syntax & API
+  + 4: Developer is able to write Ruby with a minimum of reference or debugging
+2. Completion and Progress
+  + 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+3. Testing
+  + 4: Developer excels at taking small steps and using the tests for both design and verification
+4. Workflow
+  + 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+5. Collaboration
+  + 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+6. Enumerable & Collections
+  + 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
