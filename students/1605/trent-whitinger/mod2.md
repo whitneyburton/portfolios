@@ -158,7 +158,7 @@ ___
 
 ### Playing a Part
 
-* I paired with module 1 students weekly 6 hour long sessions to help them through projects, understanding Ruby concepts, working on them on project such as Jungle Beats and Battleship
+* I paired with module 1 students weekly, hour long sessions to help them through projects, understanding Ruby concepts, working on them on project such as Jungle Beats and Battleship
 * Subbed in to pair with module 1 students when needed
 * Blog posts
   
