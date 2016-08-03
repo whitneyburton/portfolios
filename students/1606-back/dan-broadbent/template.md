@@ -39,18 +39,8 @@ Evaluated by Mike Dao
 
 ### Work
 
-(Intro)
+These are the individual projects that I completed during Module 1.
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 #### Flashcards
 
 * [GitHub URL](https://github.com/dski1080/flashcards)
@@ -196,15 +186,19 @@ The project will be assessed with the following rubric:
 
 ### Giving Feedback
 
-(feedback from me)
+Calaway: Calaway was a pleasure to work with on the Nightwriter project.  He was enthusiastic about the work we were doing and went above and beyond to make sure that we met all the base requirements on time.  We all had a great experience with this project because we did a thorough job defining the relationship, and everyone followed through with what was expected of them.
+
+Mike Hill: Mike was a great partner on the Nightwriter project.  He had a great attitude throughout, even when he struggled with some of the concepts that the project required.  He made sure that he had a good grasp on what we were working on, which was very helpful because it made sure all team members had a solid grip on what was going on and could explain how and why things were being done a certain way.
+
+David Tinianow: David was a great pairing partner.  He forced me to figure out what to do next when I really didn’t know what to do.  He did this by pointing me in the right direction without giving me the answer.  While it would have been easier to tell me the answer, he gave me time to struggle and get through the problems myself.  He also kept me on track by making me explain out loud why I thought my solution would work.  Thanks!
 
 ### Being a Community Member
 
-(feedback to me)
+From Calaway: Dan was a pleasure to work with on our Nightwriter project. His communication was excellent from the very first DTR through the end. He gave well thought out and constructive feedback and was very open to receiving any back. He was quick to make good suggestions, apply new concepts learned in class, and ask excellent questions that pushed us toward a successful finished product. I would consider myself lucky to be paired with Dan again on any future project.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I was at school by 8am most mornings and many times would go over things with other students, and always took time with anyone who wanted to review things.  I also made a point to attend at least one event outside of school, so I went to Built In Colorado's Summer Startup Showcase.  It was a good first exposure to a job fair type setup.
 
 ## Review
 
