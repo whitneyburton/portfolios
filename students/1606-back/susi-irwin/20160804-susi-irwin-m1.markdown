@@ -149,9 +149,12 @@ I do my best to be an ear and a support for my fellow Turing students. I think i
 ###Soft Skills/Protocol Requirements
 
 1. DTR Memos
+* [GitHub URL]()
+* [GitHub URL]()
 
-2. [Example of a README.md] (https://github.com/susiirwin/Flashcards/blob/master/README.md)
-[GitHub URL]()
+2. README
+* [Example of a README.md] (https://github.com/susiirwin/Flashcards/blob/master/README.md)
+
 
 ## Review
 
