@@ -116,9 +116,9 @@ Code a playable version of Milton Bradley's Battleship that runs in a Read Evalu
 
 ### Projects
 
-(Intro)
+The final project for module 1 was the pair project, Black Thursday.
 
-#### (Project Name)
+#### Black Thursday
 
 * [GitHub URL](https://github.com/j-sm-n/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
