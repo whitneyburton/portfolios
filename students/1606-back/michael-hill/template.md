@@ -13,10 +13,10 @@
 
 (Intro)
 
-#### (Project Name)
+#### Flashcards
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/michael-hill/flashcards)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
 (description)
 
@@ -29,6 +29,19 @@
 ### Projects
 
 (Intro)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
 
 #### (Project Name)
 
