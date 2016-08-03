@@ -158,25 +158,27 @@ A simple program that can detect mistakes in a credit card number.  The first pr
 ### Giving Feedback
 
   **Brendan Dillon**
+
     During ParaMorse, I received Brendan's code after we all swapped codes.  Brendan is an extremely strong coder with a great understanding of how to write clear, concise code.  On a personal level, Brendan is one of the easiest people to talk to in our cohort.  He is very reserved, but when he speaks up, he has very profound and well thought out points.  I would love to pair with him in the future.  I'm sure Brendan can teach me a whole lot.
 
   **Gabi Procell**
+
     I don't know where to start with Gabi.  Working continuously on Black Thursday for nearly two weeks, Gabi and I have become very close.  She is one of the strongest and most perseverant people I have ever had the pleasure to work with.  While Black Thursday presented a million (and that's not an overestimate) problems to solve, Gabi never let the project get the best of her.  She consistently worked with me to solve every problem.  She is a fast learner and it's been a pleasure helping her grow and further her understanding of Ruby and object oriented programming.
 
   **Susi Irwin**
+
     Susi has a passion and ability to learn that is next to none.  Even after being beat down by her Battleship code and effectively restarting the project multiple times, she still had the drive to reach out for help.  I spent over three straight hours helping Susi use testing to build a solid foundation for the game.  Susi never allows challenges, big or small, stop her from growing and learning more.  Her work ethic inspires me, and I look forward to working with her more in the future to push my education further.
 
 
 ### Being a Community Member
 
   **Gabi Procell**
+
     Working with Ryan on this extensive project has helped me learn a lot. I feel that we nurtured a great relationship while working together. Ryan has a great and positive energy that doesn't let him give up whenever he encounters an issue. Occasionally, he needs to be reminded when to step away from a problem to clear his head. I appreciated him taking time to take a step back during our progress and helping me to catch up with concepts that he was working on. Ryan also helped me learn more on this project by implementing great pairing techniques and letting me drive more than I am used to. Thank you Ryan, for being a great project partner.
 
   **Susi Irwin**
+
     Ryan's enthusiasm and positivity are absolutely contagious. His passion for coding and helping others make him an amazing asset to our cohort as well as the Turing community at large. At times his passion and enthusiasm take him down adventurous Ruby paths, but a gentle nudge to follow the spec brings him back immediately. He paired with me on Battleship and was an incredible partner through some very challenging code. His patience and encouraging words allowed me to stop doubting myself and be more confident in my learning. I have not received so many high-fives in one afternoon in my entire life!
-
-  **David Davydov**
-
 
 ### Playing a Part
 
@@ -188,7 +190,7 @@ A simple program that can detect mistakes in a credit card number.  The first pr
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
