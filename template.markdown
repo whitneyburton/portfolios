@@ -135,25 +135,26 @@ A business is only as smart as its data. Let's build a system able to load, pars
 ## Community
 
 ### Giving Feedback
-
+Jasmin Hudacsek: I got to work extensively with Jasmin during the Black Thursday project. She has some phenomenal strengths that need to be shouted out. First, she is highly organized. She can keep track of many streams of information and responsibilities. She has systems in place for making sure that nothing is overlooked including a comprehensive Trello board. Second, she has strong interpersonal skills. She communicates clearly both in person and in writing. A significant portion of our collaboration was carried out asynchronously through Slack. It was always clear what she was working on. Third, Jasmin has a strong level attention to detail in her code. Technically, Jasmin is extremely proficient with the git workflow and Waffle.io. For those reasons, it was a real gift to work with Jasmin on the final project of Module 1. 
+Moving forward, Jasmin would benefit from voicing concerns and dissenting opinions more directly and frequently. There were many times where I took a bizarre approach to a problem and Jasmin sort of assumed I knew what I was doing. We would have been better served if she had voiced her concerns, even if doing so would have had the immediate effect of slowing progress. More often than not, the gains from her careful thinking would far outweigh any short-term progress stoppages.
+Overall, Jasmin was a fantastic partner and is a phenomenal cohort mate.
 Brendan Dillon: What impresses me most about Brendan’s coding is his structural creativity. During a conversation about Battleship, Brendan explained that he intended to make each space a class. I thought this was a really creative solution that contributed significantly to the successful completion of my own project. During a second conversation about Black Thursday, Brendan discussed how he built multiple Analyst classes to help organize the code. I also took this idea and broke my own Sales Analyst into a set of modules and classes.
 Bryan Goss: Bryan is outrageously generous with his time. He never shies away from answering a question or diving into someone else’s code even though we are all working to meet the same deadlines. He clearly has a very strong ability to break down complexity and then fit small ideas together to form elegant solutions to large problems. He freely shares this skillset with his fellow students.
+Jean Joeris: Jean is highly analytical and takes a very scientific approach to TDD. His successful completion of the ParaMorse project rested on his ability to reframe problems for himself. He is also always willing to share his knowledge with his classmates. He also clearly is passionate about gender issues which is a welcome perspective in 1606.
 
 ### Being a Community Member
 
 (feedback to me)
 
 ### Playing a Part
-
+* Co-organized Friday project retro sessions for 1606.
 * Participated in 1606 Backend Slack channel.
 * Shared coded and encoded versions of Barrack Obama's Orlando speech for ParaMorse project on 1606 Backend Exclusive Slack Channel.
 * Shared planning docs for battleship project on 1606 Backend Exclusive Slack Channel.
 * Shared mock csv data for Black Thursday project on 1606 Backend Exclusive Slack Channel.
-
 * Attended and participated in multiple imposter lunches.
 * Attended and participated in every guest speaker Friday morning event.
-* Participated in Friday lunch run group.
-
+* Participated in Friday lunch running group (25 miles to date).
 * Diligently attended to cleaning responsibility.
 * Periodically cleaned up pairing stations.
 * Periodically emptied and loaded dishwashers.
