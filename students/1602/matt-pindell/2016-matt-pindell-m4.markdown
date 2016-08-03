@@ -63,7 +63,8 @@
 ### Community
 
   * Led Rust Student-sessions
-  * Peer
+  * Pre-Work Guide
+  * Wall of Faces updater
 
 ### Feedback to Me
 
