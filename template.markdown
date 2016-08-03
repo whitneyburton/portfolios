@@ -145,13 +145,13 @@ Bryan Goss: Bryan is outrageously generous with his time. He never shies away fr
 
 Jean Joeris: Jean is highly analytical and takes a very scientific approach to TDD. His successful completion of the ParaMorse project rested on his ability to reframe problems for himself. He is also always willing to share his knowledge with his classmates. He also clearly is passionate about gender issues which is a welcome perspective in 1606.
 
-Raphael Barbo - Raphael has incredible interpersonal skills. He has a very clear read on group dynamics and also has the ability to put himself in other people's shoes. I witnessed him recognize that a fellow student was upset after a code review, which I was oblivious to, and then move to show empathy and offer encouragement. He also clearly has some significant coding skill. Most recently, he helped me arrive at an approach to the Black Thursday project where repositories build themselves. It’s a real gift to have a guy like Raphael in the cohort.
+Raphael Barbo: Raphael has incredible interpersonal skills. He has a very clear read on group dynamics and also has the ability to put himself in other people's shoes. I witnessed him recognize that a fellow student was upset after a code review, which I was oblivious to, and then move to show empathy and offer encouragement. He also clearly has some significant coding skill. Most recently, he helped me arrive at an approach to the Black Thursday project where repositories build themselves. It’s a real gift to have a guy like Raphael in the cohort.
 
 
 
 ### Being a Community Member
 
-(feedback to me)
+Brendan Dillon: Whenever I talked about projects with Jesse, I was impressed by how methodical and organized his thinking was. Not only did he do some really great planning, but he also started discussions that encouraged other people to figure out how to plan and organize their projects. In the pairing exercises I did with Jesse, I found that he has a really sharp eye for detail and can debug code really well. On top of all this, he is pulling off a Herculean feat of work-life balance by raising newborn twins while attending Turing.
 
 ### Playing a Part
 * Co-organized Friday project retro sessions for 1606.
