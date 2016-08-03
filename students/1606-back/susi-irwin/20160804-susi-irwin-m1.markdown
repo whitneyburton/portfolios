@@ -146,6 +146,13 @@ The project will be assessed with the following rubric:
 
 I do my best to be an ear and a support for my fellow Turing students. I think it is important to build relationships outside of those created during cohort sessions. I have made a huge effort to introduce myself to as many students as possible in the past 6 weeks. Turing is the hardest thing I have ever been challenged to do and that pressure is only aided byt talking and working with members of the Turing community. I feel that my involvement in the Imposter sessions has been my best contribution thus far at Turing. Despite my own emotions and stress in Module 1, I do feel that I was able to listen to and help my fellow students work through some of their own emotions and stress.
 
+###Soft Skills/Protocol Requirements
+
+1. DTR Memos
+
+2. [Example of a README.md] (https://github.com/susiirwin/Flashcards/blob/master/README.md)
+[GitHub URL]()
+
 ## Review
 
 ### Rubric Scores
