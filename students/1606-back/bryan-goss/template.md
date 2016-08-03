@@ -7,7 +7,35 @@ As someone with experience programming, my focus was to improve my style and wor
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Beth Sebian
+
+Challenge: "What Can I Make?"
+
+Notes:
+
+Led with tests, identified two tests that will verify functionality needed
+Weighed creating Hash with default value versus responding differently (with if/else) if key doesn't exist
+Niiice job talking through thought process, engaging assessor to weigh value of different approaches
+Used mock in "What Can I Make" extension
+Anticipated test results - good
+Could do more to run tests incrementally
+1. Ruby Syntax & API  
+4: Developer is able to write Ruby with a minimum of reference or debugging
+
+2. Completion and Progress  
+3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+
+3. Testing  
+3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+4. Workflow  
+4: Developer is a master of their tools, efficiently moving between phases of development
+
+5. Collaboration  
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+6. Enumerable & Collections  
+4: Application consistently makes use of the best-choice Enumerable methods
 
 ### Work
 
@@ -77,10 +105,10 @@ During the Complete-me, I helped David understand recursion. After staying late 
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
