@@ -13,7 +13,7 @@
 
 (Intro)
 
-#### (Project Name)
+#### Flashcards
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -29,6 +29,19 @@
 ### Projects
 
 (Intro)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
 
 #### (Project Name)
 
