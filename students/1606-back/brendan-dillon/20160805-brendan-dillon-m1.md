@@ -17,8 +17,9 @@ Notes:
 * Great job talking out loud through process
 * Testing captured spirit of TDD, awesome
 * Split Cookbook into another class, had clear explanation why to do this
-* Worked with default value on Hash  
+* Worked with default value on Hash
 
+###
 1. Ruby Syntax & API
   + 4: Developer is able to write Ruby with a minimum of reference or debugging
 2. Completion and Progress
