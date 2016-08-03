@@ -137,6 +137,7 @@ A business is only as smart as its data. Let's build a system able to load, pars
 ### Giving Feedback
 
 Brendan Dillon: What impresses me most about Brendan’s coding is his structural creativity. During a conversation about Battleship, Brendan explained that he intended to make each space a class. I thought this was a really creative solution that contributed significantly to the successful completion of my own project. During a second conversation about Black Thursday, Brendan discussed how he built multiple Analyst classes to help organize the code. I also took this idea and broke my own Sales Analyst into a set of modules and classes.
+Bryan Goss: Bryan is outrageously generous with his time. He never shies away from answering a question or diving into someone else’s code even though we are all working to meet the same deadlines. He clearly has a very strong ability to break down complexity and then fit small ideas together to form elegant solutions to large problems. He freely shares this skillset with his fellow students.
 
 ### Being a Community Member
 
