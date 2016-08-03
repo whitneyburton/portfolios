@@ -132,6 +132,10 @@ A business is only as smart as its data. Let's build a system able to load, pars
 
 (feedback to me)
 
+### Soft Skills and Protocol Requirements
+* [DTR Memo] (https://docs.google.com/document/d/1Mk8SM8GFjY6aCPFw_mVj5C3N4wvGI-_Me-UPzRgVT1c/edit?usp=sharing)
+* [Battleship project readme] (https://github.com/PlanetEfficacy/battleship#battleship)
+
 ## Community
 
 ### Giving Feedback
