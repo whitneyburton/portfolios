@@ -1,4 +1,4 @@
-# Mark Miranda - M2 Portfolio
+# Trent Whitinger - M2 Portfolio
 
 
 ## Individual
