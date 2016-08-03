@@ -3,6 +3,8 @@
 
 ### Areas of Emphasis
 
+Academically, my primary goal when joining Turing was to come in *tabula rasa*, leaving all past experience, expectation, and ego behind, and to completely go "all in" for the Turing method. My hope was that with this mentality I would be best prepared to absorb any and all material that would be thrown at us.
+
 (What did you set out to accomplish this module?)
 
 ### End of Module Assessment
