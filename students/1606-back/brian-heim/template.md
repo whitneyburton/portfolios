@@ -182,7 +182,7 @@ This section highlights the paired projects that I worked on during Mod 1
 
 #### Feedback to me
 
-  Project Partner: Chase Dunagan
+* "Working with Brian was fantastic.  We clicked very well in our abilities to tackle problems together, and Brian’s ideas and way of thinking were very clear throughout the entire project.  He was able to clearly express his ideas, which led to a more than solid collaboration between the two of us.   With any frustration or issues we ran into, we were able to hash them out in very clear and direct ways.  Working with Brian was great and I look forward to future pairings with him during our time at Turing." - Chase Dunagan
 
 #### -(Black Thursday)-
 
@@ -193,21 +193,7 @@ This section highlights the paired projects that I worked on during Mod 1
 
 #### Description
 
-  Project Overview
-  
   "A business is only as smart as its data. Let's build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business."
-
-  Learning Goals
-
-  Use tests to drive both the design and implementation of code
-  
-  Decompose a large application into components
-
-  Use test fixtures instead of actual data when testing
-
-  Connect related objects together through references
-
-  Learn an agile approach to building software
 
 #### Evaluation Comments
 
@@ -239,7 +225,9 @@ This section highlights the paired projects that I worked on during Mod 1
 * "Kinan has been a wonderful peer to me during this module. He frequently asks to compare code and offers helpful suggestions for refactoring and overall project functionality and scope. Outside of the curriculum, he is a is great listener and conversationalist. We have engaged in meaningful conversations ranging in topic from adjusting to life at Turing to exercise and nutrition to philosophy about life in general. He especially helped me talk through my concerns about my mid-module assessment scores, and gave me a confidence boost that really helped me down the final stretch of the module." - Feedback given to Kinan Whyte
 
 
-* "Brendan has been fantastic to work with on Black Thursday. I am still amazed by how quickly he is able to implement a solution that requires little to no refactoring at all. His grasp of object relationships and enumerables is a major strength. Not only is he able to code effectively, he gives clear explanations of his thought process and has taught me quite a bit throughout each iteration of the project. As someone who can see the big picture, but can sometimes get stuck on the details, I have greatly benefitted from having Brendan as a partner. My only advice for him would be to not be afraid to assert himself when he has an idea, more often than not, his instincts are on-point." - Feedback given to Brendan Dillon 
+* "Brendan has been fantastic to work with on Black Thursday. I am still amazed by how quickly he is able to implement a solution that requires little to no refactoring at all. His grasp of object relationships and enumerables is a major strength. Not only is he able to code effectively, he gives clear explanations of his thought process and has taught me quite a bit throughout each iteration of the project. As someone who can see the big picture, but can sometimes get stuck on the details, I have greatly benefitted from having Brendan as a partner. My only advice for him would be to not be afraid to assert himself when he has an idea, more often than not, his instincts are on-point." - Feedback given to Brendan Dillon
+ 
+* "Raphael has been a pleasure to work with, he brings such an infectious energy and liveliness to our cohort. He is always encouraging and complimentary, and has set a great example for those of us new to Turing. In pairings I have had with Rapha, he was able to break down problems into manageable partitions, explain his thought process expertly, and make sure I understood what was going on in the code. In doing these things, he has shown how valuable he will be when contributing to a team in a professional setting. He and I both have an interest in design, and as good as he is at the back-end discipline, and I am very excited to see what he is able to create as we move on to more front-end-focused applications." - Feedback given to Raphael Barbo
 
 ### Being a Community Member
 
