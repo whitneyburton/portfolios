@@ -221,6 +221,8 @@ This section highlights the paired projects that I worked on during Mod 1
 
 * "Ever since the first day I met Brian, he has had a spirit about him where he is almost always happy. During the first project “Robodoku” he willingly and happily attacked it without knowing the proper way to which showed determination and willingness to learn. When showing him different ways to approach problems he was adapting and absorbing knowledge with a hunger that showed through his actions. I feel strongly that if he is given time to learn new concepts and ideas, he will evolve into an excellent programmer and has the communication skills to effectively communicate with a team." -Yoseph Anderson
 
+* "Brian has been a huge help to me during module one as a support system through course content, projects, and general understanding of abstract concepts. During the times we were able to converse and connect over our Turing life experience at various points during the module, Brian's input served me well in ways that countered stress and aided overwhelm. His friendliness, conversational personality, and sharp eyes on the screen add exactly the type of value any team would hope to expect from a developer." - Kinan Whyte
+
 ### Playing a Part
 
   * I engaged in helping other students from 1606-b, especially with the Flashcards project. Upon receiving positive feedback for this, I decided to leave Miyamoto for Hopper posse so that I can offer help to the next generation of Mod 1 students. 
