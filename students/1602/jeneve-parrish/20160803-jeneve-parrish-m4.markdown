@@ -41,7 +41,6 @@ This module I wanted to learn everything I could about best practices in front-e
 
 **3**: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-
 ## IdeaBox
 
 * [GitHub URL](https://github.com/jeneve/idea-box)
@@ -126,10 +125,10 @@ The output from JSHint shows…
 
 ## ScaleUp - Looking For React Front End
 
-[Original Assignment Repo](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/boxtrot_prime_project.markdown)
-[GitHub Repo](https://github.com/LookingForMe/lookingForFrontEnd)
-[Deployed App](https://looking-for.herokuapp.com/#/?_k=75x97l)
-[BaseCamp](https://3.basecamp.com/3278136/projects/495148)
+* [Original Assignment Spec](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/boxtrot_prime_project.markdown)
+* [GitHub Repo](https://github.com/LookingForMe/lookingForFrontEnd)
+* [Deployed App](https://looking-for.herokuapp.com/#/?_k=75x97l)
+* [BaseCamp](https://3.basecamp.com/3278136/projects/495148)
 
 **Summary of my work on the project**
 
