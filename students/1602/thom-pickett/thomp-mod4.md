@@ -4,21 +4,21 @@
 
 I still wasn't sure going into mod4 what I wanted to do when I got out of Turing. Like most of my time at Turing I just went through working on whatever was suggested and taking an interest in whatever came up. I ended up doing WebGL by stumbling around trying to find my interests and it was amazing. 
 
-### End of Module Assessment
+### End of Module Assessment 
 
 Notes
 
 - refactor some js stuff. It looks great. closure
-- write tests!
-- Bumped testing up to a 4 - selenium, happy sad path, controller test for API and model tests on validations and only model method
+- write tests! 
+- Bumped testing up to a 4 - selenium, happy sad path, controller test for API and model tests on validations and only model method  
 
-Satisfactory Progress: 3
-Ruby Syntax & Style: 3
-Rails Style & API: 3
-Javascript Syntax & Style: 3
-Testing: 4
-User Interface: 3
-Workflow: 4
+Satisfactory Progress: 3  
+Ruby Syntax & Style: 3  
+Rails Style & API: 3  
+Javascript Syntax & Style: 3  
+Testing: 4  
+User Interface: 3  
+Workflow: 4  
 
 
 ## Projects
@@ -39,20 +39,21 @@ Points: 148/150
 * [GitHub URL](https://github.com/theonlyrao/1942)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
-##### Points
-Check In 1: 50/50
-Check In 2: 55/50
-Check In 3: 50/50
-Eval: 131/150
-
+##### Points   
+Check In 1: 50/50   
+Check In 2: 55/50   
+Check In 3: 50/50   
+Eval: 131/150   
+  
 #### Scale Up
 
 * [GitHub URL](https://github.com/thompickett/webGl)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/the_scale_up.markdown)
 
 ##### Points
-Submission 1: 150/150
-Submission 2: 150/150
+
+Submission 1: 150/150  
+Submission 2: 150/150  
 
 ## Community
 
