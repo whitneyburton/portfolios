@@ -242,20 +242,12 @@ I am excited to report that I have coordinated with Matthew Campbell and have vo
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ## Review
-
-### Rubric Scores
-
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
 
 ### Notes
 
@@ -263,4 +255,4 @@ I am excited to report that I have coordinated with Matthew Campbell and have vo
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
