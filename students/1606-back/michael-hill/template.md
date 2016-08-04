@@ -7,7 +7,7 @@ I knew that Mod 1 would be challenging but I never expected to struggle as much 
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Since I am repeating Mod 1 I did not do the end of Module Assessment.
 
 ### Work
 
@@ -125,11 +125,11 @@ It feels that my time during Mod 1 has been spent trying to keep my head above w
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2.51
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
