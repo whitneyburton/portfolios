@@ -200,6 +200,8 @@ David Tinianow: David was a great pairing partner.  He forced me to figure out w
 
 From Calaway: Dan was a pleasure to work with on our Nightwriter project. His communication was excellent from the very first DTR through the end. He gave well thought out and constructive feedback and was very open to receiving any back. He was quick to make good suggestions, apply new concepts learned in class, and ask excellent questions that pushed us toward a successful finished product. I would consider myself lucky to be paired with Dan again on any future project.
 
+From Mike Hill: Thanks for your patience and help throughout mod 1! Dan was a great teammate on the Nightwriter project.  His ability to identify a problem and work through the solution really helped me learn how to approach my work  more efficiently.  At times a few of the concepts were difficult to follow and he was always willing to take a step back and walk me through them until I understood.  His patience and team first attitude make him an ideal pairing partner and I hope we will have the opportunity to work together again.
+
 ### Playing a Part
 
 I was at school by 8am most mornings and many times would go over things with other students, and always took time with anyone who wanted to review things.  I also made a point to attend at least one event outside of school, so I went to Built In Colorado's Summer Startup Showcase.  It was a good first exposure to a job fair type setup.
