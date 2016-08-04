@@ -185,11 +185,20 @@ C: Group Work & Projects: 3
 D: Community Participation: 3
 E: Peer & Instructor Feedback: 3
 
-
-
-
 ## E: Peer & Instructor Feedback
 
+Notes:
+* Feels more comfortable with how Rails works
+* Going to work on what methods we have access to in models
+* Big improvement from mid mod to final assessment
+* Should have asked questions sooner during Rush Hour project
+* Disappointed in how Little Hour finished, but overall it was a good experience
+* Eye opening feedback from Rush Hour project about working solo rather than working with the group
+* Wants to work harder on individual work to get the repetition and knowledge
+
+Outcome:
+
+Pass
 
 
 
