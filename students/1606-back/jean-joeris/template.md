@@ -152,7 +152,7 @@ To Bryan Goss -
 Bryan is a talented programmer. This is due to his empathy and communication skills as much as his considerable technical skills. He is very good at helping someone without stealing their learning or being too cryptic. His willingness to reach out and offer me feedback on ways I can improve myself is awesome. His testing would be better if he considered more edge cases, but he is aware of this and improving on it. Bryan’s calm attitude can be extremely helpful while digesting a problem, and he is pleasant to be around
 
 To Nate Anderson -
-Nate is a great partner. He understands how he learns best and communicates that clearly. He isn’t afraid to question someones logic, or ask for time to digest and think about the code. He could improve his refactoring skills, but he is aware of that and actively works to improve them. Nate is a kind and caring person that has been a joy to work with
+Nate is a great partner. He understands how he learns best and communicates that clearly. He is very self-aware, and advocates for himself in effective ways. He isn’t afraid to question someone's logic, or ask for time to digest and think about the code.  He could improve his refactoring skills, but he is aware of that and actively works to improve them. Nate is a kind and caring person that has been a joy to work with. He is encouraging to partners and I'm glad I got to work with him.
 
 To David Davydov, after getting his code on the Paramorse project - 
 I thought your code was very clean. I was able to figure out what was happening by reading it. However, there were essentially no tests. This felt strange, because the code looked like I could trust it but the lack of tests meant I couldn’t. I thought the discussion we had about TDD after I saw this was super productive. I know you have gotten a lot better about TDD on subsequent projects
@@ -169,7 +169,7 @@ You definitely know what you’re doing. You have a really good brain for figuri
 
 ### Playing a Part
 
-I have tried hard to contribute to the community. I have been part of the LGBTuring group, and will be stepping into leadership of it as Nick Pisciotta is entering mod 4. I joined Armstrong posse to learn machine learning, however there was relatively little activity in Armstrong this mod. I hope to change that next mod.
+I have tried hard to contribute to the community. I have been part of the LGBTuring group, and will be stepping into leadership of it over the next mod as Nick Pisciotta is entering mod 4. I joined Armstrong posse to learn machine learning, however there was relatively little activity in Armstrong this mod. I plan to change that next mod.
 
 My biggest contribution to the community has been in the realm of teaching. On an individual level I have made an effort make myself available to my peers, and I believe my feedback shows that I have been successful at this goal. This has been rewarding and enjoyable. I have also volunteered to help Beth with teaching. I helped with the HTML/CSS course at the library, and pairing with students when CTIA came to Turing. Not only was this rewarding, but it helped me realize how much I have learned since coming to Turing
 
