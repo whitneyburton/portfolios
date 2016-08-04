@@ -122,22 +122,26 @@ Casey Metz - Hey Kyle, here’s mine - Kyle was a great first project partner. O
 
 Mike Sausa - Working with Kyle was hugely beneficial for me. For the past two weeks Kyle has been my GitHub sensei pulling me up from zero to near-hero, and I can’t thank him enough. Kyle is really good at taking the reigns and getting the ball rolling on things, and is an excellent communicator and collaborator. He has an excellent workflow and was great at creating tasks and keeping our waffle.io up to date. One of our weaknesses was our lack of poor testing - definitely something we can improve upon in the future. Ultimately I think we were on the same page for the whole project (even if we were in a rabbit hole for a bit) and really enjoyed working with Kyle. Hope to do it again in the near future!
 
+### DTR
+
+* [GDoc with DTR](https://docs.google.com/document/d/1MvoOhU9hGoCKN7PmN5Jw3Sk1FOLYYvkt6tOhYyq_yJY/edit?usp=sharing)
+
 ### Playing a Part
 
 Admittedly I didn't participate in many things outside of class & our Friday community time. I'd definitely like
 to start a posse next module to help support the next group of FE students coming in. I know the backend already has
-a posse like this. Hopefully, as I become more confident in my efficency and time management skills, I can begin to
+a posse like this. Hopefully, as I become more confident in my efficiency and time management skills, I can begin to
 focus more on networking and attending after school events.
 
 ## Review
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 2
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
