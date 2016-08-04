@@ -227,6 +227,10 @@ Miyamoto posse has begun to develop a game! We didn't get a whole lot of time to
 
 I participated in as many 1606 pairing sessions as I could fit in. I didn't get my name on all of them, but it was pretty close. I paired with Kinan, Calaway, Gabi, and Alisher (twice). I also went to Impostors lunches when I could, and was thrust into leadership of one of them (which REALLY made me feel that Impostor Syndrome!). I also took part in HackDesign lunches, but fell off near the end of the mod when my lunch time became more like "project time plus burritos".
 
+#### Blog Post
+
+[MVC In Rails](https://gist.github.com/zackforbing/a54e0aad2e42d6688a0d2484ad534a8e)
+
 ## Review
 
 ### Rubric Self Scores
