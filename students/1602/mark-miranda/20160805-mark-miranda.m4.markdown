@@ -134,3 +134,13 @@ This is a link to all of my Homework.
 | Group Work & Projects | 3 |
 | Community Participation | 3 |
 | Peer & Instructor Feedback | 3 |
+
+## Outcome
+
+* End of Module Assesment: 3
+* Individual Work & Projects: 3
+* Group Work & Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+You bring a good mix of levity and joking around, and also keeping total perspective and focus. You know how to work and when to work. 
