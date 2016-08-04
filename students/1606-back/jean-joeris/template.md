@@ -22,7 +22,7 @@ learning. Based on the feedback I have received I believe I have helped my class
 #### Complete Me
 
 * [GitHub URL](https://github.com/JeanJoeris/complete_me)
-* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/complete_me/peter_jean_joeris.markdown)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
 The goal of the project was to build a trie that could be populated with words and searched, with the purpose of building a autocomplete tool. 
 
@@ -97,7 +97,7 @@ Notes:
 - REPL interface SWEET!
  
 ##### 1. Fundamental Ruby & Style
-* 2.5
+2.5
 * 3:  Application shows strong effort towards organization, content, and refactoring
 * 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
 
@@ -119,18 +119,18 @@ Notes:
 
 (Intro)
 
-#### (Project Name)
+#### Black Thursday
 
 * [GitHub URL]()
 * [Original Assignment]()
 
-(description)
+The goal of this project was to build a sales engine to store data from a simulated store. With this in place, the data was to be evaluated to help drive business logic
 
 (evaluation comments)
 
 (evaluation scores)
 
-(feedback to me)
+Jean is an amazing programmer and an even better person. His intuition and dedication to efficiency wowed me on a daily basis during our project. He strives to make the best choices possible and does not rest until he does so. Even with his great knowledge, he is egoless and always takes the time to make sure everything is understood. If anyone has a problem, Jean is the first to help. I could not have asked for a better partner and am thankful we were able to get to know each other better during this time. - Nate Anderson
 
 ## Community
 
@@ -145,11 +145,17 @@ Nate is a great partner. He understands how he learns best and communicates that
 To David Davydov, after getting his code on the Paramorse project - 
 I thought your code was very clean. I was able to figure out what was happening by reading it. However, there were essentially no tests. This felt strange, because the code looked like I could trust it but the lack of tests meant I couldn’t. I thought the discussion we had about TDD after I saw this was super productive. I know you have gotten a lot better about TDD on subsequent projects
 
+To Jasmin Hudacsek - Jasmin is a wonderful person as well as an asset to our cohort. She has a welcoming and friendly attitude that is a joy to be around. Her project management experiece is extremely valuable. She has taught lots of us how to use productivity tools like Trello, Waffle, etc. I look forward to working on projects with her, given her organizational strengths. On a personal note, I have enjoyed our conversations about feminism.
+
 ### Being a Community Member
 
 Jean is highly analytical and takes a very scientific approach to TDD. His successful completion of the ParaMorse project rested on his ability to reframe problems for himself. He is also always willing to share his knowledge with his classmates. He also clearly is passionate about gender issues which is a welcome perspective in 1606. - Jesse Spevack
 
-Jean is an amazing programmer and an even better person. His intuition and dedication to efficiency wowed me on a daily basis during our project. He strives to make the best choices possible and does not rest until he does so. Even with his great knowledge, he is egoless and always takes the time to make sure everything is understood. If anyone has a problem, Jean is the first to help. I could not have asked for a better partner and am thankful we were able to get to know each other better during this time. - Nate Anderson
+Getting to know Jean this module has been extremely delightful and I feel as though you can come to him with just about any query and he’ll receive without hesitation. He is also very good at following-up with people if he knew they were struggling before. I’m excited to see the kinds of projects he comes up with in the near future as I’m sure they’re going to be pretty incredible. Any team, either during Turing or in post-grad life, would be lucky to have such an intersectionality-minded asset! - Jasmin Hudacsek
+
+You definitely know what you’re doing. You have a really good brain for figuring out the algorithms that make a program work. I would suggest taking more time to understand the spec before you get to work. In Paramorse, when I got your code, the Queue class was working as a Stack (the #pop method was removing the last item instead of the first item) which illustrates what can happen if you don’t put in the effort to really understand the spec. Also, your testing is incredibly thorough, I look forward to your Friday Spike about testing like a scientist. - Bryan Goss
+
+ - Nate Anderson
 
 ### Playing a Part
 
