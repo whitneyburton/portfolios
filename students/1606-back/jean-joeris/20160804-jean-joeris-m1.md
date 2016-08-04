@@ -122,10 +122,10 @@ Notes are not in my assesment, here is my best attempt to remember the feedback 
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 ##### Feedback
-* To David Davydov, after getting his code on the Paramorse project - 
+To David Davydov, after getting his code on the Paramorse project - 
 I thought your code was very clean. I was able to figure out what was happening by reading it. However, there were essentially no tests. This felt strange, because the code looked like I could trust it but the lack of tests meant I couldn’t. I thought the discussion we had about TDD after I saw this was super productive. I know you have gotten a lot better about TDD on subsequent projects
 
-* You definitely know what you’re doing. You have a really good brain for figuring out the algorithms that make a program work. I would suggest taking more time to understand the spec before you get to work. In Paramorse, when I got your code, the Queue class was working as a Stack (the #pop method was removing the last item instead of the first item) which illustrates what can happen if you don’t put in the effort to really understand the spec. Also, your testing is incredibly thorough, I look forward to your Friday Spike about testing like a scientist. - Bryan Goss
+You definitely know what you’re doing. You have a really good brain for figuring out the algorithms that make a program work. I would suggest taking more time to understand the spec before you get to work. In Paramorse, when I got your code, the Queue class was working as a Stack (the #pop method was removing the last item instead of the first item) which illustrates what can happen if you don’t put in the effort to really understand the spec. Also, your testing is incredibly thorough, I look forward to your Friday Spike about testing like a scientist. - Bryan Goss
 
 #### Battleship
 
