@@ -207,7 +207,7 @@ This was a two week paired project and it tested everything we had learned plus 
 - DTR Memos
 
   [DTR for Night Writer](https://gist.github.com/susiirwin/6a8d4e48abbeea32f8fa13531614d2ae)
-  [DTR for Black Thursday]()
+  [DTR for Black Thursday](https://gist.github.com/susiirwin/1466d84f95c1bedaca3e9e41b66ff2b7)
 
 - README
 
