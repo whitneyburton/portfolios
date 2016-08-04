@@ -71,3 +71,11 @@ Self Evaluation:
 * GameTime Prom Queen
 * Paired with Ben Pepper on Battleship project
 * Did my cleaning every week
+
+# Outcome
+
+* End of Module Assesment: 3
+* Individual Work & Projects: 3
+* Group Work & Projects: 4
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
