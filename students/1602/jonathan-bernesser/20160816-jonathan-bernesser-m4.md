@@ -81,3 +81,11 @@
   * Erinna Chen/Social Fellowship
 
     "Jon was a welcome addition to the Roots project. He enthusiastically jumped into a codebase that utilized novel patterns, and he seemed to catch on quickly. His styling work was very much appreciated. One thing that I would recommend to him is to actively ask for tasks he's interested in. Since he has a good styling eye, I had assumed that he was more interested in front-end development, but in talking to him, I realized that was more my perception than actually the case. I am really appreciative for his work on the Roots project, and look forward to seeing his skills grow as he moves on from Turing."
+    
+    # Outcome
+    
+- A: 4
+- B: 3
+- C: 4
+- D: 3
+- E: 3
