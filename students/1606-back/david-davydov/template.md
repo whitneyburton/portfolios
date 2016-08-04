@@ -243,6 +243,9 @@ From Dan:
 
 I really enjoyed working with David, he was a great pairing partner.  His ability to visualize class structure and identify the best enumerables to use really helped us create a successful project.  We did a great DTR at the beginning of the project, which really came in handy whenever there was any friction between us.  We knew that we could be honest and open with each other and David did a great job of making sure we both respected each other’s learning styles and goals.  David also did a great job at pushing me to my limit and not letting me coast.  Where I would want to settle for a 3, he would insist that we strive for better.  It was really refreshing to work with someone with that kind of motivation.  Can’t wait to work with him again.
 
+From Jean:
+
+Feedback from getting your code on paramorse - I thought your code was very clean. I was able to figure out what was happening by reading it. However, there were essentially no tests. This felt strange, because the code looked like I could trust it but the lack of tests meant I couldn’t. I thought the discussion we had about TDD after i saw this was super productive. I know you have gotten a lot better about TDD on subsequent projects
 
 
 ### Playing a Part
