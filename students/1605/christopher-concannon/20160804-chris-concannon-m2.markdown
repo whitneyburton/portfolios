@@ -9,6 +9,45 @@ At the end of Module 2, I want to be comfortable with all of the course material
 ***
 # End of Module Assessment
 ***
+Evaluator: Andrew
+
+Notes:
+
+* Uses variable for testing - warn not to do that
+* Data prep for tests is ok. Small problem with creating attempts not connected with levels
+* Good understanding of Rails components
+* Erb & templating in views needs a little work
+* really good variable/method names
+* good understanding of relationships
+
+#### Scores
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+#### 1. Analytic/Algorithmic Thinking
+
+* 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+
+#### 2. Ruby Syntax & Standard Library
+
+* 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+
+#### 3. Rails Syntax & API
+
+* 4: Developer is able to smoothly utilize Rails methods and structures with a minimum of debugging or support
+
+#### 4. MVC & Rails Style
+
+* 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and keep logic out of views and controllers
+
+#### 5. Testing
+
+* 3: Developer writes tests at multiple layers of abstraction to drive development with guidance
+
+#### 6. Collaboration
+
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
 
 ***
 # Mid-Module Assessment
@@ -53,7 +92,9 @@ Subjective evaluation will be made on your work/process according to the followi
 # Work
 ***
 
+***
 ## Graded Group Projects
+***
 
 I completed all projects assigned to our cohort, with scores of four 3's and two 4's. I was an integral member of each of my teams. 
 
@@ -100,13 +141,55 @@ The project will be assessed with the following rubric:
 
 My group and I made an e-commerce site using Ruby on Rails. The site allowed visitors to register for an account, and then sponsor various mythical creatures. There was a full-featured "cart" which the users could fill with creatures of their choice, then check out. Orders were saved in the database. Past orders could be viewed for a logged-in user. Admin functionality was built in to add additional creatures to the website. Admins were also allowed additional site privileges. 
 
+Assessor: Casey
+
+Notes:
+* Features all there
+* Limited amount of logic in views - only one small method
+* Could refactor controllers to remove some logic, but overall look good
+* Models need to be refactored to use Ruby's enumerable methods
+* Could speed things up a bit by limiting number of queries
+* Look into enum for statuses
+
+#### Scores
+
+#### 1. Feature Completeness
+
+* 4: All features are correctly implemented along with two extensions
+
+#### 2. Views
+
+* 4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+
+#### 3. Controllers
+
+* 3: Controllers are generally well organized with three or fewer particularly ugly parts
+
+#### 4. Models
+
+* 3: Models show an effort to push logic down the stack, but need more internal refactoring
+
+#### 5. Testing
+
+* 3: Project has a running test suite that tests and multiple levels but fails to cover some features
+
+#### 6. Usability
+
+* 4: Project is highly usable and ready to deploy to customers
+
+#### 7. Workflow
+
+* 4: Excellent use of branches, pull requests, and a project management tool.
+
+***
 ## Ungraded Assignments
+***
 
 Most of the Module 2 work time was spent on ungraded projects that repeated and reinforced ideas which we had learned in class. Takeaways from these projects are listed below. 
 
-## Sinatra CRUD
+## Sinatra CRUD (Robot World)
 
-Sinatra CRUD served to fixate the CRUD operations in our minds. I learned the RESTful routes and what each looked like in terms of the HTTP verb, path, and controller action. This was critical before being introduced to Rails. 
+Sinatra CRUD served to fixate the CRUD operations in our minds. I learned the RESTful routes and what each looked like in terms of the HTTP verb, path, and controller action. I also learned how to interact with a database and an ORM. This was critical before being introduced to Rails. 
 
 ## Tool Chest
 
@@ -118,7 +201,7 @@ Mix Master was a very long, thorough tutorial which provided a basis to learn da
 
 ## Rails Mini Project
 
-I decided to try to build a blogging platform for my Rails mini project. I did not end up finishing the project to a point that I feel comfortable sharing it with the world, but I did learn a lot. I implemented the ability to create an account, log in, create a post, and tag that post with categories. I also created the ability for visitors to view all user posts and comment on those posts (although, this functionality never worked flawlessly). The entire construction was done with TDD. This was a good exercise before heading into our Little Shop final project because it gave me confidence in my TDD abilities. 
+I decided to try to build a blogging platform for my Rails mini project. I did not end up finishing the project to a point that I feel comfortable sharing it with the world, but I did learn a lot. I implemented the ability to create an account, log in, create a post, and tag that post with categories. I also created the ability for visitors to view all user posts and comment on those posts (although, this functionality never worked flawlessly). The entire construction was done with TDD. This was a good exercise before heading into our Little Shop final project because it gave me confidence in my TDD abilities. My extension was using RSpec for TDD rather than MiniTest. This was my first time seeding my database with the Faker gem, as well as my first time using an API (the Giphy API). 
 
 ***
 # Individual Progress
@@ -133,7 +216,7 @@ I decided to try to build a blogging platform for my Rails mini project. I did n
 #### Blog
 * [Github Pages/Jekyll Blog](http://concach.github.io)
 
-### Feedback Received
+## Feedback Received
 
 #### from Matt, re: Rush Hour
 * Working with Chris was a great experience.  I certainly learned a lot of technical skills while working together on Rush Hour and he was always patient to take the time to teach them when necessary.  He was also very easy to work with and open to suggestions from anyone in the group.  Because of these qualities, the project when very smoothly.  We were also able to finish the base functionality quite quickly.  I would definitely love to partner up with Chris again in the future.
@@ -180,15 +263,20 @@ I began the module as part of the Clojure-learning posse. However, I only made i
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 
+* **A: End-of-Module Assessment**: 4
+I received mostly 4's on my end of module assessment, so I think it's fair to round this to a 4. 
 
-* **B: Individual Work & Projects**: 
+* **B: Individual Work & Projects**: 3
+None of the individual work in this module was officially assessed by instructors. However, I attempted to complete all assignments and I kept up with the work well enough to be a valuable asset in the evaluated group projects. I feel like there was room for improvement or more work in most of my personal projects, and therefore I am not awarding myself a top score here. 
 
-* **C: Group Work & Projects**: 
+* **C: Group Work & Projects**: 3-4
+Between Rush Hour and Little Shop, I received a total of six 4's and seven 3's. I believe I am justified in giving myself at least a 3 in this category based on those scores. I played an integral role in both of those projects, and this is reflected in feedback from my group members. 
 
-* **D: Community Participation**: 
+* **D: Community Participation**: 3
+I participated in Turing community events and I assisted several mod1 students via paired programming sessions. However, I did not consistently perform any work with a posse after the first two weeks. I continued to be a part of the lunch and evening running group events at Turing. I engaged with all Gear Up and Student Led Sessions events, and I delivered a lightning talk. Based on all of this, I believe I deserve a passing, but not an excellent, mark for community participation. 
 
-* **E: Peer & Instructor Feedback**: 
+* **E: Peer & Instructor Feedback**: 3
+I am unsure what the criteria are to receive a top score here, but I actively took notes at each instructor evaluation and I gave constructive feedback to all my group members during and after our work together. I reflected upon all feedback given to me, and adjusted my habits and work style in order to become a better team member and developer. I believe I met or exceeded all expectations in giving and internalizing peer and instructor feedback. 
 
 ### Notes
 
