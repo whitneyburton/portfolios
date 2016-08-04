@@ -11,17 +11,17 @@ Assessed by Mike Dao
 
 Mike noted that he was very impressed by the way I used the learnings I gained from my Mentor and applied them to my work. He was impressed that I understood what my mentor showed me, learned more about it on my own, and then was able to describe and defend the use of it in my assessment. He suggested I write a blog post about this use of creating a new hash.
 
-#### 1. Ruby Syntax & API
+#### Ruby Syntax & API
 * 3 - Developer is able to write Ruby with some debugging of fundamental concepts
-#### 2. Completion and Progress
+#### Completion and Progress
 * 4 - Developer fully completes baseline assignment and one of the Challenge options.
-#### 3. Testing
+#### Testing
 * 4 - Developer excels at taking small steps and using the tests for both design and verification
-#### 4. Workflow
+#### Workflow
 * 3 - Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-#### 5. Collaboration
+#### Collaboration
 * 4 - Developer actively seeks collaboration both before implementing, while in motion, and when stuck
-#### 6. Enumerable & Collections
+#### Enumerable & Collections
 * 3 - Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
@@ -45,15 +45,15 @@ Notes:
 
 ## Evaluation Rubric
 
-#### 1. Functional Expectations
+#### Functional Expectations
 * 3 - Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
-#### 2. Test-Driven Development
+#### Test-Driven Development
 * 3 - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
-#### 3. Encapsulation / Breaking Logic into Components
+#### Encapsulation / Breaking Logic into Components
 * 4 - Application is expertly divided into logical components each with a clear, single responsibility.
-#### 4. Fundamental Ruby & Style
+#### Fundamental Ruby & Style
 * 3 -  Application shows strong effort towards organization, content, and refactoring.
-#### 5. Enumerable & Collections
+#### Enumerable & Collections
 * 3 - Application demonstrates comfortable use of appropriate Enumerable methods
 
 #### (Battleship)
@@ -77,15 +77,15 @@ Notes:
 ### Evaluation Rubric
 
 The project will be assessed with the following rubric:
-#### 1. Fundamental Ruby & Style
+#### Fundamental Ruby & Style
 * 3 -  Application shows strong effort towards organization, content, and refactoring
-#### 2. Enumerable & Collections
+#### Enumerable & Collections
 * 3 - Application demonstrates comfortable use of several Enumerable techniques
-#### 3. Test-Driven Development
+#### Test-Driven Development
 * 3 - Application is well tested but does not balance isolation and integration tests
-#### 4. REPL Interface
+#### REPL Interface
 * 1 - Application's REPL has enough problems as to make play difficult
-#### 5. Breaking Logic into Components
+#### Breaking Logic into Components
 * 3 - Application effectively breaks logical components apart with clear intent and usage
 ## Team
 
@@ -114,13 +114,13 @@ Notes:
 
 ## Evaluation Rubric
 
-### 1. Overall Functionality
+### Overall Functionality
 * 2 - Application converts to Braille and back successfully
-### 2. Fundamental Ruby & Style
+### Fundamental Ruby & Style
 * 3 - Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-### 3. Test-Driven Development
+### Test-Driven Development
 * 3 - Application uses tests to exercise core functionality but leaves many common edge cases untested.
-### 4. Breaking Logic into Components
+### Breaking Logic into Components
 * 4 - Application effectively breaks logical components apart with clear intent and usage
 
 Feedback to Me:
@@ -154,6 +154,7 @@ This was a two week paired project and it tested everything we had learned plus 
 ### Being a Community Member
 
 * "Susi has a passion and ability to learn that is next to none.  Even after being beat down by her Battleship code and effectively restarting the project multiple times, she still had the drive to reach out for help.  I spent over three straight hours helping Susi use testing to build a solid foundation for the game.  Susi never allows challenges, big or small, stop her from growing and learning more.  Her work ethic inspires me, and I look forward to working with her more in the future to push my education further." - Ryan Workman
+* “Susi has been the ultimate classmate and friend during Mod 1.  Her positive attitude and willingness to review concepts, look over code or simply be a friend and listen exemplifies the qualities that Turing teaches.” - Mike Hill
 * "Susi impressed me from the first time I paired with her. She is meticulous about presenting simple, understandable code. I have always been able to sit down, look at her code, and know what is going on which is a tough thing to learn when you first start writing code. It has been so cool to see her growth throughout module1. She has dubbed herself the ‘cryer’ of her cohort, but I see her as a sunbeam, always happy to celebrate the successes of her peers as well as her own." - Angela Lindow
 * "I was a prework guide for Susi. She was extremely excited to become a Turing student and part of the community. I felt like she epitomizes what Turing is looking for in it's community. She works hard at everything she does and tries to learn everything put in front of her. She's motivated and a great person to pair with. She's gotten better at breaking problems down and is on the right track to become a great developer. And she does all of this with a toddler at home. That's just amazing and crazy at the same time. I wish I had the grit that Susi shows." - Mark Miranda
 
