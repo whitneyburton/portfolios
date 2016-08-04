@@ -233,7 +233,7 @@ __Black Thuesday__ is a project that focuses on using tests that both drive desi
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X (I hope this is a 4)
+* **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3.5
 * **D: Community Participation**: 4
