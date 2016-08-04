@@ -321,4 +321,4 @@ Student consistently delivers meaningful feedback for peers and implements strat
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
