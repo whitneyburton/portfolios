@@ -136,7 +136,8 @@ Notes:
 
 * [GitHub URL](https://github.com/JeanJoeris/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
-
+* [DTR Memo](https://docs.google.com/document/d/1vg2otHcFaIXPY6s9Hhui6vU5dI76QKSpuFp0uqnX4uE/edit#)
+* [Readme]()
 The goal of this project was to build a sales engine to store data from a simulated store. With this in place, the data was to be evaluated to help drive business logic
 
 (evaluation comments)
