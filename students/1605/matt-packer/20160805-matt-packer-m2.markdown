@@ -279,7 +279,16 @@ I did my best to support the Turing community by:
 * E: Peer & Instructor Feedback: 3.5
 
 ### Notes
-( Leave blanks for reviewers )
+
+* Feels confident helping others with Rails and Sinatra in a team setting 
+* Perhaps lead a student session to teach and facilitate learning?
+* Rocked final assessment
+* Planning on revisiting Mix Master
+* Both group projects were great experiences
+* Working hard on being intentional and detailed and received feedback reinforcing this
+* Need to work on experimenting more often
+* Thinking about joining another posse - want to be more engaged with a posse
 
 ### Outcome
-( Leave blanks for reviewers )
+
+Pass
