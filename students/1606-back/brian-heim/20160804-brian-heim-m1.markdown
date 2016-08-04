@@ -239,7 +239,7 @@ This section highlights the paired projects that I worked on during Mod 1
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
