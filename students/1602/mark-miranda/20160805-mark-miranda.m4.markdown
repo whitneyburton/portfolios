@@ -97,16 +97,6 @@ This is a link to all of my Homework.
 
 ## Community
 
-### Giving Feedback
-
->**To Susi Irwin:** I was a prework guide for Susi. She was extremely excited to become a Turing student and part of the community. I felt like she epitomizes what Turing is looking for in it's community. She works hard at everything she does and tries to learn everything put in front of her. She's motivated and a great person to pair with. She's gotten better at breaking problems down and is on the right track to become a great developer. And she does all of this with a toddler at home. That's just amazing and crazy at the same time. I wish I had the grit that Susi shows.
-
->**To Josh Washke:** Josh is every bit the prom queen that he has been built up to be. He was great to work with and got a ridiculous amount of work done in such a short amount of time. He was great to work with and excited to see what he accomplishes post-Turing.
-
->**To Matt Pindell:** Matt carried our group from the start to the finish line of game time. I went on a family trip and was unable to work as much as I had initially hoped. Matt kept our group moving forward and would gladly surrender points to him if he was short points for passing. He was a great partner and always had a handle what we needed to focus on next. He's technically strong and a quick learner. I was fortunate to be paired with Matt.
-
->**To Gurusundesh Khalsa:** Sunny has been one of the motivating forces moving 1602 forward. He's a light of intense and helpful feedback at Turing and always willing to help more than you ask, even if he's busy. I was glad to have him on SAB during module 4 as someone who could help me gauge interest and ways to get responses from our cohort. Sunny is a strong programmer, great person to collaborate with, and even better human being. I'm ecstatic to see what he does post Turing and where this path takes him.
-
 ### Feedback to Me
 
 >**From Susi Irwin:** Mark was my first student interaction at Turing, as he was my pre-work guide. I had no idea that pre-work guides were only required to check in with students for around 30 minutes per week! Mark checked in with me literally every day before I began Module 1. He was my champion when it came to the pre-work but also to my countdown for giving notice at my job, approaching my last day of work, taking time for myself before Turing started, and sending me good luck on my first day. He has been a constant source of support academically as well as emotionally. Because of Mark, I am no longer afraid to speak up and ask for help. Mark has shown me, by his example, what it means to be a software developer. Above and beyond does not even begin to describe what Mark has done for me over the past few months (he reached out to me initially in early May). I am not sure I would have come as far as I have in the past 6 weeks if it wasn't for his encouragement, support, and honesty.
@@ -116,6 +106,16 @@ This is a link to all of my Homework.
 >**From Matt Pindell:** After going through the Turing experience with Mark, I have no doubt that he will be an enormous asset to the next team that is lucky enough to have him. This is not only due to his programming abilities (which are undeniably strong) but also because of his above-and-beyond role in building the community - from stickers, to t-shirts, to just being a genuinely fun and positive force within the cohort - Mark fundamentally shaped the 1602 experience for the better.
 
 >**From Josh Washke:** You're really good at styling, and I learned yesterday your really good at Rails too. You're just killing it all around. You're a great developer, and very easy to work with. Even though we're both completely exhausted I'm pretty proud of what we did manage to get done, and I think a lot of that is due to you. I would be more than happy to work with you again anytime in the future. My only criticism is that I wasn't in your group for the exclusive pokemon stickers. Feels bad man.
+
+### Giving Feedback
+
+>**To Susi Irwin:** I was a prework guide for Susi. She was extremely excited to become a Turing student and part of the community. I felt like she epitomizes what Turing is looking for in it's community. She works hard at everything she does and tries to learn everything put in front of her. She's motivated and a great person to pair with. She's gotten better at breaking problems down and is on the right track to become a great developer. And she does all of this with a toddler at home. That's just amazing and crazy at the same time. I wish I had the grit that Susi shows.
+
+>**To Josh Washke:** Josh is every bit the prom queen that he has been built up to be. He was great to work with and got a ridiculous amount of work done in such a short amount of time. He was great to work with and excited to see what he accomplishes post-Turing.
+
+>**To Matt Pindell:** Matt carried our group from the start to the finish line of game time. I went on a family trip and was unable to work as much as I had initially hoped. Matt kept our group moving forward and would gladly surrender points to him if he was short points for passing. He was a great partner and always had a handle what we needed to focus on next. He's technically strong and a quick learner. I was fortunate to be paired with Matt.
+
+>**To Gurusundesh Khalsa:** Sunny has been one of the motivating forces moving 1602 forward. He's a light of intense and helpful feedback at Turing and always willing to help more than you ask, even if he's busy. I was glad to have him on SAB during module 4 as someone who could help me gauge interest and ways to get responses from our cohort. Sunny is a strong programmer, great person to collaborate with, and even better human being. I'm ecstatic to see what he does post Turing and where this path takes him.
 
 ### Playing a Part
 * I am a participating member of SAB.
