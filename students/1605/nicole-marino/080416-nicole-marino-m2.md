@@ -263,10 +263,17 @@ B: Individual Work & Projects: X
 C: Group Work & Projects: X
 D: Community Participation: X
 E: Peer & Instructor Feedback: X
+
 Notes
 
-( Leave blanks for reviewers )
+* Huge improvement from mid module to final assessment
+* Also huge improvement from Rush Hour experience to Little Shop
+* Would have liked to TDD and ask for help sooner with Rush Hour - better time management
+* Rails Mini project was most helpful individual project
+* Now typing with four fingers instead of two, learned some hot keys, continuing to improve
+* Continuing to improve working with others
+* Could benefit from taking a step back and slowing down to catch potential syntax errors
 
 Outcome
 
-( Leave blanks for reviewers )
+Pass
