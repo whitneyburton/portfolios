@@ -192,6 +192,28 @@ The project will be assessed with the following rubric:
 
 
 
+## Personal
+
+#### (bstatus)
+
+* [GitHub URL](https://github.com/kctrlv/bstatus)
+
+This is a personal project of mine that I decided to attempt after hearing Mike
+mention APIs. At this point, I felt comfortable enough with Ruby to access the
+public bcycle JSON api, parse the data I needed, and create a status checker for
+bcycle stations that is somewhat modular.
+
+Usage is currently via `ruby lib/runner.rb ` which returns an auto-updating
+refreshing table in the terminal of the "target stations", their bikes available,
+and when the data was last updated. The data is updated every minute from the
+API, with care to not make multiple requests in a short span of time, yet still
+update efficiently.
+
+I decided to include this personal work here because it was made almost entirely
+with the knowledge I gained in this module. I look forward to continue my
+learning, and improving this project over time to add useful and possibly even
+fun features.
+
 
 ## Team
 
@@ -200,13 +222,45 @@ The project will be assessed with the following rubric:
 * [GitHub URL](https://github.com/kctrlv/black_thursday/)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-(description)
+* [DTR Memo](https://docs.google.com/document/d/1ZHvr2nAImkXHirLWk9KenXYUrvfBqcd2w8D1anXLm_Y/edit?pref=2&pli=1)
 
-(evaluation comments)
 
-(evaluation scores)
+Assessed By: Beth Sebian
 
-(feedback to me)
+Notes:
+* Test-suite: 130 examples, all passing
+* Spec-harness passes i0-3, 5
+* Sanitation: no errors
+* Solid test suite, some inconsistencies with mocking (marginal issue)
+* Extracted MathAnalyst into module
+* Best-choice enumerables used, overall clean codebase
+* One highlighted integration test with invoices...great concept, would like to see more
+* Generally strong application of SRP, would like to see SalesAnalyst broken apart, more intuitive delegation to modules
+
+### 1. Functional Expectations
+3.5
+* 4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
+
+### 2. Test-Driven Development
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+3.5
+* 4: Application is expertly divided into logical components each with a clear, single responsibility
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Fundamental Ruby & Style
+3.5
+* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+### 5. Enumerable & Collections
+* 4: Application consistently makes use of the best-choice Enumerable methods
+
+### 6. Code Sanitation
+The output from `rake sanitation:all` shows...
+* 4: Zero complaints
+
 
 ## Community
 
@@ -239,11 +293,11 @@ grounded collaborative style that makes him a great asset to any team.
 
 ### Being a Community Member
 
-From Dan:
+* From Dan:
 
 I really enjoyed working with David, he was a great pairing partner.  His ability to visualize class structure and identify the best enumerables to use really helped us create a successful project.  We did a great DTR at the beginning of the project, which really came in handy whenever there was any friction between us.  We knew that we could be honest and open with each other and David did a great job of making sure we both respected each other’s learning styles and goals.  David also did a great job at pushing me to my limit and not letting me coast.  Where I would want to settle for a 3, he would insist that we strive for better.  It was really refreshing to work with someone with that kind of motivation.  Can’t wait to work with him again.
 
-From Jean:
+* From Jean:
 
 Feedback from getting your code on paramorse - I thought your code was very clean. I was able to figure out what was happening by reading it. However, there were essentially no tests. This felt strange, because the code looked like I could trust it but the lack of tests meant I couldn’t. I thought the discussion we had about TDD after i saw this was super productive. I know you have gotten a lot better about TDD on subsequent projects
 
@@ -265,10 +319,20 @@ more suitable avenues of help for struggling Mod 1 students, but anytime I could
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
+Student achieved a "3" or better on each category of the assessment
+
 * **B: Individual Work & Projects**: 3
+Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+
 * **C: Group Work & Projects**: 3
+Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
+
 * **D: Community Participation**: 3
+Student participates in required activities and does at least one or two above-and-beyond supports of the community.
+
 * **E: Peer & Instructor Feedback**: 3
+Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+
 
 ### Notes
 
