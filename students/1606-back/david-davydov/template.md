@@ -3,6 +3,7 @@
 
 ### Areas of Emphasis
 
+
 My goal for this module was to feel comfortable writing programs in Ruby using
 concise, readable code and best practices such as TDD. From day one, my agenda
 was to never fall behind and to always match my pace to the challenges of
@@ -10,6 +11,7 @@ Echo. Although I came into Turing with some knowledge of Python, I had no
 skills with creating code that I could continue working on after the prototype
 was finished. I can confidently say that in only 6 weeks, I feel a lot more
 comfortable with project code organization and structure.
+
 
 ### End of Module Assessment
 
@@ -51,7 +53,7 @@ Notes:
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 Add Comment
 
-### Personal Projects
+## Work
 
 The project rocketship achieved lift-off on Week 1, with the assignment of Robodoku.
 This project taught me how to use simple Ruby structures to solve problems right away.
@@ -62,7 +64,7 @@ was excellent practice at File I/O. Battleship taught me the basics of using a R
 the last project Black Thursday felt like an actual professional team effort between me and my
 partner Dan. The great diversity of Mod 1 projects expanded my brain in ways I could have never imagined.
 
-#### (RoboDoku)
+### (RoboDoku)
 
 * [GitHub URL](https://github.com/kctrlv/robodoku)
 * [Post-Completion Personal Notes]
@@ -73,18 +75,13 @@ It reminded me of programming challenges that I loved doing on projecteuler.
 I was able to concisely implement a solution for an easy puzzle.
 This project was not evaluated.
 
-#### (Complete Me)
+### (Complete Me)
 
 * [GitHub URL](https://github.com/kctrlv/complete_me)
 * [Assignment URL](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 * [Assessment URL](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/complete_me/david_davydov.markdown)
-* [Assessment]
 
-Assessed By: Jeff
-
-Repo:
-
-Notes:
+#### Assessed By: Jeff
 
 * Looking at CompleteMe
 * Not a lot of internal tests but they pass
@@ -93,38 +90,30 @@ Notes:
 * Able to write everything in about 100 lines
 * Need to implement/try the spec harness
 
-## Evaluation Rubric
-
-### 1. Functional Expectations
-
+#### 1. Functional Expectations
 * 3: Application fulfills all base expectations
 
-### 2. Test-Driven Development
-
+#### 2. Test-Drien Development
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-### 3. Encapsulation / Breaking Logic into Components
-
+#### 3. Encapsulation / Breaking Logic into Components
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-### 4. Fundamental Ruby & Style
-
+#### 4. Fundamental Ruby & Style
 * 3:  Application shows strong effort towards organization, content, and refactoring
 
-### 5. Enumerable & Collections
-
+#### 5. Enumerable & Collections
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 
-#### (Paramorse)
+### (Paramorse)
 
 * [GitHub URL](https://github.com/kctrlv/paramorse)
 * [Assignment URL](https://github.com/turingschool/curriculum/blob/master/source/projects/paramorse.markdown)
 * [Assessment URL](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/paramorse/david.markdown)
-* [Assessment]
 
-Asssessed By: Mike
+#### Asssessed By: Mike
 
 Notes:
 * completed I7
@@ -134,36 +123,27 @@ Notes:
 * Definitely heading down the road of pulling things out to separate methods
 * overall good project
 
-## Evaluation Rubric
-
-The project will be assessed with the following rubric:
-
-### 1. Overall Functionality
-
+#### 1. Overall Functionality
 * 3: Application follows the complete spec and including I7
 
-### 2. Fundamental Ruby & Style
-
+#### 2. Fundamental Ruby & Style
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
-### 3. Test-Driven Development
-
+#### 3. Test-Driven Development
 * 3: Application uses tests to exercise core functionality but leaves many common edge cases untested.
 
-### 4. Breaking Logic into Components
-
+#### 4. Breaking Logic into Components
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
 
-#### (Battleship)
+### (Battleship)
 
 * [GitHub URL](https://github.com/kctrlv/battleship)
 * [Assignment URL](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
 * [Assessment URL](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/battleship/david_davydov.markdown)
-* [Assessment]
 
-Assessed By: Beth Sebian
+#### Assessed By: Beth Sebian
 
 Notes:
 - Some refactoring needed, names and division of responsibilities
@@ -171,34 +151,30 @@ Notes:
 - Enumerables solid
 - Crash at end of game play
 
-## Evaluation Rubric
-
-The project will be assessed with the following rubric:
-
-### 1. Fundamental Ruby & Style
+#### 1. Fundamental Ruby & Style
 * 3: Application shows strong effort towards organization, content, and refactoring
 
-### 2. Enumerable & Collections
+#### 2. Enumerable & Collections
 * 3: Application demonstrates comfortable use of several Enumerable techniques
 
-### 3. Test-Driven Development
+#### 3. Test-Driven Development
 * 2: Application makes some use of tests, but the coverage is insufficient
 
-### 4. REPL Interface
+#### 4. REPL Interface
 * 2: Application's REPL has some inconsistencies or rough edges
 
-### 5. Breaking Logic into Components
+#### 5. Breaking Logic into Components
 * 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 
 
 
-## Personal
+## Personal Project
 
-#### (bstatus)
+### (bstatus)
 
 * [GitHub URL](https://github.com/kctrlv/bstatus)
 
-This is a personal project of mine that I decided to attempt after hearing Mike
+This is a personal project of mine that I decided to begin after hearing Mike
 mention APIs. At this point, I felt comfortable enough with Ruby to access the
 public bcycle JSON api, parse the data I needed, and create a status checker for
 bcycle stations that is somewhat modular.
@@ -217,15 +193,14 @@ fun features.
 
 ## Team
 
-#### Black Thursday
+### Black Thursday
 
 * [GitHub URL](https://github.com/kctrlv/black_thursday/)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
-
 * [DTR Memo](https://docs.google.com/document/d/1ZHvr2nAImkXHirLWk9KenXYUrvfBqcd2w8D1anXLm_Y/edit?pref=2&pli=1)
 
 
-Assessed By: Beth Sebian
+#### Assessed By: Beth Sebian
 
 Notes:
 * Test-suite: 130 examples, all passing
@@ -238,19 +213,19 @@ Notes:
 * Generally strong application of SRP, would like to see SalesAnalyst broken apart, more intuitive delegation to modules
 
 ### 1. Functional Expectations
-3.5
+* 3.5
 * 4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
 
 ### 2. Test-Driven Development
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
 ### 3. Encapsulation / Breaking Logic into Components
-3.5
+* 3.5
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 ### 4. Fundamental Ruby & Style
-3.5
+* 3.5
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3:  Application shows strong effort towards organization, content, and refactoring
 
@@ -319,19 +294,23 @@ more suitable avenues of help for struggling Mod 1 students, but anytime I could
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-Student achieved a "3" or better on each category of the assessment
+3: Student achieved a "3" or better on each category of the assessment
 
-* **B: Individual Work & Projects**: 3
-Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+* **B: Individual Work & Projects**: 3.5
+4: Student demonstrates excellent growth by not only achieving satisfactory evaluations for each project but also pushing their learning beyond expectations.
 
-* **C: Group Work & Projects**: 3
-Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
+3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+
+* **C: Group Work & Projects**: 3.5
+4: Student consistently helps their teammates be their best selves, learn at an accelerated pace, and achieve great results.
+
+3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
 
 * **D: Community Participation**: 3
-Student participates in required activities and does at least one or two above-and-beyond supports of the community.
+3: Student participates in required activities and does at least one or two above-and-beyond supports of the community.
 
 * **E: Peer & Instructor Feedback**: 3
-Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
 
 ### Notes
