@@ -265,8 +265,14 @@ Blog Post On Ghost.io: [Garage to Global](https://garage-to-global.ghost.io/gara
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Felt much better from mid to final assessment
+* Feels confident in understanding of Rails
+* Rails Mini project was very beneficial - so was Mix Master
+* Would like to have one or two Sunday's off to re-group
+* Could have been more assertive with first group project
+* Working on assertiveness and holding people accountable to expectations
+* Needs to work on giving more critical feedback
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
