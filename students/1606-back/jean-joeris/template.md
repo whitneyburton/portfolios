@@ -40,23 +40,23 @@ Notes:
 
 Evaluation Rubric
 
-### 1. Functional Expectations
+##### 1. Functional Expectations
 * 4: Application fulfills all base expectations and one extension
 
 
-### 2. Test-Driven Development
+##### 2. Test-Driven Development
 * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 
-### 3. Encapsulation / Breaking Logic into Components
+##### 3. Encapsulation / Breaking Logic into Components
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 
-### 4. Fundamental Ruby & Style
+##### 4. Fundamental Ruby & Style
 * 3: Application shows strong effort towards organization, content, and refactoring
 
 
-### 5. Enumerable & Collections
+##### 5. Enumerable & Collections
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 #### Paramorse
@@ -67,23 +67,51 @@ Evaluation Rubric
 The goal of the project was to build a parallelized morse code encoder/decoder. This means one string can be encoded into n different files and pieced back together into the original string.
 
 Notes are not in my assesment, here is my best attempt to remember the feedback Beth gave me -
-The string juggling trick I did to handle whitespace was too clever, but an alternative was not immediately obvious.
+* The string juggling trick I did to handle whitespace was too clever, but an alternative was not immediately obvious.
+* There were multiple methods that could have used refactoring, including just making helper methods to shorten main methods.
+* My test coverage was good
 
-There were multiple methods that could have used refactoring, including just making helper methods to shorten main methods.
-
-My test coverage was good
-
-### 1. Overall Functionality
+##### 1. Overall Functionality
 * 3: Application follows the complete spec and one extension
 
-### 2. Fundamental Ruby & Style
+##### 2. Fundamental Ruby & Style
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
-### 3. Test-Driven Development
+##### 3. Test-Driven Development
 * 4: Application is broken into components which are well tested in both isolation and integration
 
-### 4. Breaking Logic into Components
+##### 4. Breaking Logic into Components
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+#### Battleship
+
+* [GitHub URL](https://github.com/JeanJoeris/battleship)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/paramorse.markdown)
+
+The goal of the project was to build a working game of battleship interacted with via a REPL/CL interface.
+
+Notes:
+- Solid testing
+- Some good use of enumerables (until game_end?)
+- Some long methods, refactoring needed
+- REPL interface SWEET!
+ 
+##### 1. Fundamental Ruby & Style
+* 2.5
+* 3:  Application shows strong effort towards organization, content, and refactoring
+* 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+
+##### 2. Enumerable & Collections
+* 3: Application demonstrates comfortable use of several Enumerable techniques
+
+##### 3. Test-Driven Development
+* 3: Application is well tested but does not balance isolation and integration tests
+
+##### 4. REPL Interface
+* 4: Application's REPL goes above and beyond expectations to improve the gameplay
+
+##### 5. Breaking Logic into Components
+* 3: Application effectively breaks logical components apart with clear intent and usage
 
 ## Team
 
