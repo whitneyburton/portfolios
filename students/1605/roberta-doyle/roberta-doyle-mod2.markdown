@@ -117,13 +117,13 @@ Extensions: OAuth, bootstrap-sass, better_errors
 
 Group: Angela Lindow, Jason Hanna, Matthew Packer 
 
-Eval Notes:
+My Notes(take aways):
 
 * We had some logic in the views, and I learned that we
-I learned that we should not test anything else other than HHTP logic in the controller tests.
-Not use HTTP in feature tests, manually insert in the database.
-Use nil, rather than leaving an empty attribute in the tests (easier for people to read your tests)
-Main take aways, be careful on the choices you make to store attributes in the database (we stored the time of the payload request as a datetime, rather than a string, and we ended up losing part of the string, which made us read payloads that had different time be the same)
+* I learned that we should not test anything else other than HHTP logic in the controller tests.
+* Not use HTTP in feature tests, manually insert in the database.
+* Use nil, rather than leaving an empty attribute in the tests (easier for people to read your tests)
+* Be careful on the choices you make when storing attributes in the database (we stored the time of the payload request as a datetime, rather than a string, and we ended up losing part of the string)
 
 ##### Fundamental Ruby & Style                
 * 3: Application fulfills base expectations
@@ -149,11 +149,21 @@ Main take aways, be careful on the choices you make to store attributes in the d
 * [GitHub URL](https://github.com/roscalabrin/alicorn_adoption)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
-Eval Notes:
+Assessed By: Casey
 
-* Learnings:
-- Queries are expensive: rather than having 3 queries to get two different attributes, do one query get the object and then call the attributes you need
-- 
+Eval Notes:
+* Features all there
+* Limited amount of logic in views - only one small method
+* Could refactor controllers to remove some logic, but overall look good
+* Models need to be refactored to use Ruby's enumerable methods
+* Could speed things up a bit by limiting number of queries
+* Look into enum for statuses
+
+#### Blog
+
+I wrote two blogs during this module:
+* [HTTP/2](https://roscalabrin.github.io/blog/2016/08/01/http-looking-back-and-foward.html)
+* [Chrome Extension](https://roscalabrin.github.io/blog/2016/07/14/chrome-extension.html)
 
 
 ## Community
@@ -199,8 +209,12 @@ Roberta - You did an amazing job being persistent and wise with time management 
 
 ### Playing a Part
 
-* Attended all guest speaker talks, participated in electives, and gear-ups.
-* I LOVE my posse and I'm excited on getting started on a side project. During this module, I built a simple Google Chrome Extension to venture myself into new challenges.
+* Attended all guest speaker talks. I think they are a such a great opportunity for us to hear from people in the industry.
+
+### Golick
+
+* I became a leader of my posse! I started the module with the challenge that most of our posse members would be graduating after this module. I'm really happy (and proud) that 4 people have joined the posse this module (including 3 people from my mod).
+During this module, I started learning and experimenting with JavaScript (including a tutorial to create a To Do List).
 
 ## Review
 
