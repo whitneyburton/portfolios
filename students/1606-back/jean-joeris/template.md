@@ -17,7 +17,22 @@ learning. Based on the feedback I have received I believe I have helped my class
 
 ### Work
 
-(Intro)
+* Robodoku
+* Complete me
+* Paramorse
+* Battleship
+
+#### Robodoku
+
+* [GitHub URL](https://github.com/JeanJoeris/Robodoku)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/robodoku.markdown)
+
+The goal of the project was to design a program to automatically complete relatively simple sudoku puzzles.
+
+This project was not assessed, but here are some personal notes on the project -
+* I was able to get it solving simple puzzles
+* My life was much harder because I hadn't learned TDD yet
+* I would love to go back and make a program to solve arbitrary sudoku puzzles
 
 #### Complete Me
 
@@ -117,12 +132,10 @@ Notes:
 
 ### Projects
 
-(Intro)
-
 #### Black Thursday
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/JeanJoeris/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 The goal of this project was to build a sales engine to store data from a simulated store. With this in place, the data was to be evaluated to help drive business logic
 
@@ -155,19 +168,19 @@ Getting to know Jean this module has been extremely delightful and I feel as tho
 
 You definitely know what you’re doing. You have a really good brain for figuring out the algorithms that make a program work. I would suggest taking more time to understand the spec before you get to work. In Paramorse, when I got your code, the Queue class was working as a Stack (the #pop method was removing the last item instead of the first item) which illustrates what can happen if you don’t put in the effort to really understand the spec. Also, your testing is incredibly thorough, I look forward to your Friday Spike about testing like a scientist. - Bryan Goss
 
- - Nate Anderson
-
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I have tried hard to contribute to the community. I have been part of the LGBTuring group, and will be stepping into leadership of it as Nick Pisciotta is entering mod 4. I joined Armstrong posse to learn machine learning, however there was relatively little activity in Armstrong this mod. I hope to change that next mod.
+
+My biggest contribution to the community has been in the realm of teaching. On an individual level I have made an effort make myself available to my peers, and I believe my feedback shows that I have been successful at this goal. This has been rewarding and enjoyable. I have also volunteered to help Beth with teaching. I helped with the HTML/CSS course at the library, and with pairing with students when CTIA came to Turing. 
 
 ## Review
 
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
 * **D: Community Participation**: 4
 * **E: Peer & Instructor Feedback**: 3
 
