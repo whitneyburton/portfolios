@@ -201,7 +201,33 @@ An extensive paired project in which we built a system that would be able to loa
 
 **Evaluator:** Mike Dao
 
-**Evaluator comments**: Pending
+**Evaluator comments**: 
+- 180 tests, finished in under 1 second
+- Tests could be more robust at points, but generally good testing.
+- Uses a hash approach to traversing verticals
+- Some small opportunities to refactor
+
+**Evaluation Scores:**</br>
+
+*1. Functional Expectations*</br>
+    3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+*2. Test-Driven Development*</br>
+    3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+*3. Encapsulation / Breaking Logic into Components*</br>
+    4: Application is expertly divided into logical components each with a clear, single responsibility
+
+*4. Fundamental Ruby & Style*</br>
+    3:  Application shows strong effort towards organization, content, and refactoring
+
+*5. Enumerable & Collections*</br>
+    4: Application consistently makes use of the best-choice Enumerable methods
+
+*6. Code Sanitation*</br>
+The output from `rake sanitation:all` shows...
+    3: Five or fewer complaints
+
 
 **Feedback to me:**</br>
 >" I don't know where to start with Gabi.  Working continuously on Black Thursday for nearly two weeks, Gabi and I have become very close.  She is one of the strongest and most perseverant people I have ever had the pleasure to work with.  While Black Thursday presented a million (and that's not an overestimate) problems to solve, Gabi never let the project get the best of her.  She consistently worked with me to solve every problem.  She is a fast learner and it's been a pleasure helping her grow and further her understanding of Ruby and object oriented programming.”  —Ryan Workman
