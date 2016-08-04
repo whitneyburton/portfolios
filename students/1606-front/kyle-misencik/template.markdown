@@ -9,7 +9,11 @@ I also consider this my first steps into a new career which I wish to be success
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Functional: 3
+UI: 3 - 'fixed directions'
+Testing: 2
+JS Style: 3
+Workflow: 3
 
 ### Work
 
