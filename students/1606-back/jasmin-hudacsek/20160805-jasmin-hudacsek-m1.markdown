@@ -215,6 +215,8 @@ __Black Thuesday__ is a project that focuses on using tests that both drive desi
 
 >From Jean Joeris: "Jasmin is a wonderful person as well as an asset to our cohort. She has a welcoming and friendly attitude that is a joy to be around. Her project management experiece is extremely valuable. She has taught lots of us how to use productivity tools like Trello, Waffle, etc. I look forward to working on projects with her, given her organizational strengths. On a personal note, I have enjoyed our conversations about feminism."
 
+>From Bryan Goss: Jasmin is super supportive and approachable. She always has time to talk and freely shares her skills. Her prior experience with project management has made her a good resource for organizational strategies.
+
 ### Playing a Part
 
 * Actively participated in Student Advisory Board and tried to stress the importance of SAB to my cohort so that they could effectively make use of the resource early on.
