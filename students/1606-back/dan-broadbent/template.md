@@ -34,7 +34,6 @@ Evaluated by Mike Dao
 
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
-* 
 
 
 ### Work
