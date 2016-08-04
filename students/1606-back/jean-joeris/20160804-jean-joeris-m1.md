@@ -102,7 +102,7 @@ Notes:
 * [GitHub URL](https://github.com/JeanJoeris/paramorse_redux)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/paramorse.markdown)
 
-The goal of the project was to build a parallelized morse code encoder/decoder. This means one string can be encoded into n different files and pieced back together into the original string.
+The goal of the project was to build a parallelized morse code encoder/decoder. This means one string can be encoded into n different files and pieced back together into the original string. We switched codes with someone as part of this. Feedback from the person who got my code and to the person's code I got is below the eval.
 
 Notes are not in my assesment, here is my best attempt to remember the feedback Beth gave me -
 * The string juggling trick I did to handle whitespace was too clever, but an alternative was not immediately obvious.
@@ -120,6 +120,12 @@ Notes are not in my assesment, here is my best attempt to remember the feedback 
 
 ##### 4. Breaking Logic into Components
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+##### Feedback
+* To David Davydov, after getting his code on the Paramorse project - 
+I thought your code was very clean. I was able to figure out what was happening by reading it. However, there were essentially no tests. This felt strange, because the code looked like I could trust it but the lack of tests meant I couldn’t. I thought the discussion we had about TDD after I saw this was super productive. I know you have gotten a lot better about TDD on subsequent projects
+
+* You definitely know what you’re doing. You have a really good brain for figuring out the algorithms that make a program work. I would suggest taking more time to understand the spec before you get to work. In Paramorse, when I got your code, the Queue class was working as a Stack (the #pop method was removing the last item instead of the first item) which illustrates what can happen if you don’t put in the effort to really understand the spec. Also, your testing is incredibly thorough, I look forward to your Friday Spike about testing like a scientist. - Bryan Goss
 
 #### Battleship
 
@@ -203,9 +209,6 @@ Bryan is a talented programmer. This is due to his empathy and communication ski
 To Nate Anderson -
 Nate is a great partner. He understands how he learns best and communicates that clearly. He is very self-aware, and advocates for himself in effective ways. He isn’t afraid to question someone's logic, or ask for time to digest and think about the code.  He could improve his refactoring skills, but he is aware of that and actively works to improve them. Nate is a kind and caring person that has been a joy to work with. He is encouraging to partners and I'm glad I got to work with him.
 
-To David Davydov, after getting his code on the Paramorse project - 
-I thought your code was very clean. I was able to figure out what was happening by reading it. However, there were essentially no tests. This felt strange, because the code looked like I could trust it but the lack of tests meant I couldn’t. I thought the discussion we had about TDD after I saw this was super productive. I know you have gotten a lot better about TDD on subsequent projects
-
 To Jasmin Hudacsek - Jasmin is a wonderful person as well as an asset to our cohort. She has a welcoming and friendly attitude that is a joy to be around. Her project management experiece is extremely valuable. She has taught lots of us how to use productivity tools like Trello, Waffle, etc. I look forward to working on projects with her, given her organizational strengths. On a personal note, I have enjoyed our conversations about feminism.
 
 ### Being a Community Member
@@ -213,8 +216,6 @@ To Jasmin Hudacsek - Jasmin is a wonderful person as well as an asset to our coh
 Jean is highly analytical and takes a very scientific approach to TDD. His successful completion of the ParaMorse project rested on his ability to reframe problems for himself. He is also always willing to share his knowledge with his classmates. He also clearly is passionate about gender issues which is a welcome perspective in 1606. - Jesse Spevack
 
 Getting to know Jean this module has been extremely delightful and I feel as though you can come to him with just about any query and he’ll receive without hesitation. He is also very good at following-up with people if he knew they were struggling before. I’m excited to see the kinds of projects he comes up with in the near future as I’m sure they’re going to be pretty incredible. Any team, either during Turing or in post-grad life, would be lucky to have such an intersectionality-minded asset! - Jasmin Hudacsek
-
-You definitely know what you’re doing. You have a really good brain for figuring out the algorithms that make a program work. I would suggest taking more time to understand the spec before you get to work. In Paramorse, when I got your code, the Queue class was working as a Stack (the #pop method was removing the last item instead of the first item) which illustrates what can happen if you don’t put in the effort to really understand the spec. Also, your testing is incredibly thorough, I look forward to your Friday Spike about testing like a scientist. - Bryan Goss
 
 ### Playing a Part
 
