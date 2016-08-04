@@ -99,7 +99,7 @@ You may rank the quality of your ideas and remove them if you need!
 - https://github.com/andy-young/idea-box
 
 **Original Requirements:**  
- 
+
 - https://github.com/turingschool/front-end-curriculum/blob/gh-pages/projects/ideabox.md
 
 **Scores: (0 to 4)**  
@@ -126,19 +126,19 @@ The objective is find the correct pattern of lights to turn off so that all the 
 
 - https://github.com/andy-young/game-time-starter-kit
 
-##### Abstract
+<h3>Abstract</h3>
 
 Build a game that is playable in the browser. There is no server-side component for this project.
 
 This project is inspired by [Minicade](http://minica.de/).
 
-##### Goals
+<h5>Goals</h5>
 
 * Use design patterns to drive both the design and implementation of code
 * Separate business-logic code from view-related code
 * Use test-driven design to build a client-side application
 
-##### Restrictions
+<h5>Restrictions</h5>
 
 You can use any of the following libraries:
 
@@ -148,7 +148,7 @@ You can use any of the following libraries:
 * [Moment.js](http://momentjs.com)
 * [Numeral.js](http://numeraljs.com)
 
-**Scores: (0 to 4)**  
+<h5>**Scores: (0 to 4)**</h5>  
 
 * 4 - Application is fully playable and exceeds the expectations set by instructors
 User Interface
