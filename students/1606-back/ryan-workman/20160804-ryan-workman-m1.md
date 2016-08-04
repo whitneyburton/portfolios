@@ -203,16 +203,17 @@ A simple program that can detect mistakes in a credit card number.  The first pr
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 3.5
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3.5
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
-
-( Leave blanks for reviewers )
+* Individual work and projects show some problems, difficulty bringing project over the line
+* Solid work on group projects
+* Knowing when it's time to be serious, knowing when to joke around - on point
+* Have skill and deserved confidence to try things out: be careful about little ways you react to others' work
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PROVISIONAL PASS: Fix Paramorse and add extension
