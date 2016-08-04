@@ -11,28 +11,28 @@ Assessed by Mike Dao
 Mike noted that he was very impressed by the way I used the learnings I gained from my Mentor and applied them to my work. He was impressed that I understood what my mentor showed me, learned more about it on my own, adn thenw as able to describe and defend the use of it in my assessment. He suggested I write a blog post about this use of creating a new hash.
 
 #### 1. Ruby Syntax & API
-3: Developer is able to write Ruby with some debugging of fundamental concepts
+* 3 - Developer is able to write Ruby with some debugging of fundamental concepts
 #### 2. Completion and Progress
-4: Developer fully completes baseline assignment and one of the Challenge options.
+* 4 Developer fully completes baseline assignment and one of the Challenge options.
 #### 3. Testing
-4: Developer excels at taking small steps and using the tests for both design and verification
+* 4 - Developer excels at taking small steps and using the tests for both design and verification
 #### 4. Workflow
-3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* 3 - Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 #### 5. Collaboration
-4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+* 4 - Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 #### 6. Enumerable & Collections
-3: Application demonstrates comfortable use of appropriate Enumerable methods
+* 3 - Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
-(Intro)
+Following are my solo (graded) projects for this Module.
 
 #### (Flashcards)
 
 * [GitHub URL](https://github.com/susiirwin/Flashcards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
-(description)
+Flashcards is a REPL based game which consisted of multiple methods and classes interacting with each other. The point of the game is to answer trivia questions by inputting the answers into a terminal. After 4 guesses, the user is given a percentage of correct answers.
 
 Assessed By: Mike Dao
 
@@ -44,18 +44,16 @@ Notes:
 
 ## Evaluation Rubric
 
-The project will be assessed with the following guidelines:
-
 #### 1. Functional Expectations
-* 3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
+* 3 - Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
 #### 2. Test-Driven Development
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
-####4 3. Encapsulation / Breaking Logic into Components
-* 4: Application is expertly divided into logical components each with a clear, single responsibility.
-####4 4. Fundamental Ruby & Style
-* 3:  Application shows strong effort towards organization, content, and refactoring.
-###4 5. Enumerable & Collections
-* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+* 3 - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+#### 3. Encapsulation / Breaking Logic into Components
+* 4 - Application is expertly divided into logical components each with a clear, single responsibility.
+#### 4. Fundamental Ruby & Style
+* 3 -  Application shows strong effort towards organization, content, and refactoring.
+#### 5. Enumerable & Collections
+* 3 - Application demonstrates comfortable use of appropriate Enumerable methods
 
 #### (Battleship)
 
@@ -79,35 +77,52 @@ Notes:
 
 The project will be assessed with the following rubric:
 #### 1. Fundamental Ruby & Style
-* 3:  Application shows strong effort towards organization, content, and refactoring
+* 3 -  Application shows strong effort towards organization, content, and refactoring
 #### 2. Enumerable & Collections
-* 3: Application demonstrates comfortable use of several Enumerable techniques
+* 3 - Application demonstrates comfortable use of several Enumerable techniques
 #### 3. Test-Driven Development
-* 3: Application is well tested but does not balance isolation and integration tests
+* 3 - Application is well tested but does not balance isolation and integration tests
 #### 4. REPL Interface
-* 1: Application's REPL has enough problems as to make play difficult
+* 1 - Application's REPL has enough problems as to make play difficult
 #### 5. Breaking Logic into Components
-* 3: Application effectively breaks logical components apart with clear intent and usage
+* 3 - Application effectively breaks logical components apart with clear intent and usage
 
 
 ## Team
 
 ### Projects
 
-(Intro)
+The following projects were Pair Projects during this Module. 
 
 #### (Night Writer)
 
-* [GitHub URL]()
+* [GitHub URL](http://github.com/susiirwin/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-(description)
+Night Writer was a week long project with the objective of converting English text into a computerized Braille representation, and then convert the Braille back into English. It involved multiple classes and methods and was a first big step into creating a complex program. It also involved reading and writing of Text Files which was an extra challenge. This project was incredibly enjoyable partly becuase it was a paired project and I had an awesome partner, but also because it allowed me to use my newly learned skills to write more complex code.
 
-(evaluation comments)
+Assessed by Mike Dao
 
-(evaluation scores)
+Notes:
+* Only converts to braille 
+* 10 tests
+* Really clean code
+* Braille to english does not write
+* Some opportunities to refactor to improve testing by sending arguments as opposed to methods modifying ivars.
+* Would like to see more edge cases in testing.
+* Really like how you broke out the dictionary to a separate file and used constants
+* Follows SRP exceptionally well, everything only does the one thing.
 
-(feedback to me)
+## Evaluation Rubric
+
+### 1. Overall Functionality
+* 2 - Application converts to Braille and back successfully
+### 2. Fundamental Ruby & Style
+* 3 - Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+### 3. Test-Driven Development
+* 3 - Application uses tests to exercise core functionality but leaves many common edge cases untested.
+### 4. Breaking Logic into Components
+* 4 - Application effectively breaks logical components apart with clear intent and usage
 
 #### (Black Thursday)
 
