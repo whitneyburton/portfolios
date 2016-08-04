@@ -40,7 +40,7 @@ Evaluated by Mike Dao
 
 These are the individual projects that I completed during Module 1.
 
-#### Flashcards
+### Flashcards
 
 * [GitHub URL](https://github.com/dski1080/flashcards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
@@ -83,7 +83,7 @@ The project will be assessed with the following rubric:
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
-#### Battleship
+### Battleship
 
 * [GitHub URL](https://github.com/dski1080/battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
@@ -133,22 +133,9 @@ The project will be assessed with the following rubric:
 
 ### Projects
 
-(Intro)
+I worked on two group projects this module, one was a group of three people and the other was a paired project.
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
-#### Nightwriter
+### Nightwriter
 
 * [GitHub URL](http://github.com/calaway/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
@@ -184,6 +171,19 @@ The project will be assessed with the following rubric:
 ### 4. Breaking Logic into Components
 
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+### Black Thursday
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
 
 
 ## Community
