@@ -316,11 +316,11 @@ Well I have to say Anna, after working with you a second time, I think we make a
 
 #### Rubric Scores - Final
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
@@ -328,4 +328,4 @@ Well I have to say Anna, after working with you a second time, I think we make a
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
