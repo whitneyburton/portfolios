@@ -219,11 +219,25 @@ This was a two week paired project and it tested everything we had learned plus 
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 4
+* **A: End-of-Module Assessment**: 4 
+
+  Student achieved two or more "4"s on the assessment (Module 3 requires three or more "4"s)
+
 * **B: Individual Work & Projects**: 3
+
+  Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+  
 * **C: Group Work & Projects**: 3
+
+  Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
+
 * **D: Community Participation**: 3
+
+  Student participates in required activities and does at least one or two above-and-beyond supports of the community.
+
 * **E: Peer & Instructor Feedback**: 3.5
+
+  Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
 ### Notes
 
