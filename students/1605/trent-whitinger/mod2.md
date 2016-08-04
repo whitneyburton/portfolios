@@ -53,7 +53,7 @@ I completed the following evaluated projects this module:
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 This was a 2 week project where we built a functional e-commerce store to sell cyborg parts.
-We were evaluated by ? with the following results:
+We were evaluated by Casey with the following results:
 
 ## Evaluation Process
 
@@ -62,32 +62,32 @@ following criteria:
 
 ### 1. Feature Completeness
 
-* 3: All features defined in the assignment are correctly implemented
+* Score 4: All features defined in the assignment are correctly implemented
 
-### 2. Views
+###  2. Views
 
 * 3: Views make use of layout(s), partials and helpers, but some logic leaks through
 
 ### 3. Controllers
 
-* Score: 
+* Score: 3
 
 ### 4. Models
 
-* Score:
+* Score: 4
 
 
 ### 5. Testing
 
-* 3:
+* Score: 3
 
 ### 6. Usability
 
-* 3: Project is highly usable, but needs more polish before it'd be customer-ready
+* Score: 3 Project is highly usable, but needs more polish before it'd be customer-ready
 
 ### 7. Workflow
 
-* Score: 
+* Score:  4
 
 
 
@@ -147,6 +147,9 @@ ___
 
 >**To Nicole Marino:** Good use of waffle, organizing the project, and breaking it out to the members of the group. kept a positive attitude even when progress was slow. Did a good job at coming up with solutions to difficult problems in the project, but don't be afraid to ask questions if implementing a solution is taking longer than you expected.
 
+>**To Jason Hanna:** Caleb, you are dedicated to completing the task in front of you regardless of the time needed to reach the promised land.  You do a great job at looking at problems from multiple angles until you find a solution that works. Great job at using tests to drive out the development of our user stories and using CSS and styling many of the views in our website. Stay positive the sky the limit
+
+>**To Caleb Cowen:** Great job committing yourself to the project. You were willing to work late when needed, come in on weekends as well as dive into the problems and user stories and talk them out with me so I understood what was going on as well. Very effective at researching the extensions and email call backs to implement in our projects. 10/10  Would work with again.
 
 
 ### Feedback to Me
@@ -155,12 +158,17 @@ ___
 
 >**From  Nicole Marino:** Trent, you're a logic guru, and you solve like 50% of the problems we have. Just don't disappear for 5 hours and not tell us whats going on hahaha. And relax a little, you get too worked up during project time. Honestly, this survey is useless because I already told you how I felt in person. Like an adult.
 
+>**From  Jason Hanna:** Trent was great to work with during Little Shop. He is clearly one of the strongest members of our cohort. He always strived to understand what was happening behind the scenes and took the learning process very seriously. I could always depend on Trent to work hard. We would divide and delegate tasks to each other, and the next day I was always amazed at the quantity and quality of his work. I would definitely work with him again
+
+>**From  Caleb Cowen:**  Trent’s knowledge of jquery and willingness to research out new and better ways to implement features was a great addition to our team. I learned a lot as a result of his constant research.
+
 
 ### Playing a Part
 
 * I paired with module 1 students weekly, hour long sessions to help them through projects, understanding Ruby concepts, working on them on project such as Jungle Beats and Battleship
 * Subbed in to pair with module 1 students when needed
 * Blog posts - [Medium URL](https://medium.com/@twhitinger/neat-tips-and-tricks-for-ruby-88cc1ae1bf9b#.isxc1wkey)
+* Always there to offer a friendly smile, and words of encouragement!
   
 # Portfolio Rubric
 
