@@ -202,10 +202,10 @@ I prepared a student-led session for the first week of classes hoping to begin a
 * 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
 
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assesment: 4
+* Individual Work & Projects: 3
+* Group Work & Projects: 4
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
