@@ -129,7 +129,7 @@ The output from JSHint shows…
 
 ### Feedback to Me
 
-A few days before
+Through trial and error, I learned how to balance school assignments, personal jobs and job hunting. This was probably the most challenging module in that regard- because the focus wasn't purely on school.  It was also difficult to learn to say no and focus on studies, because I love to say yes to people. I think one thing I am working on is measuring the time commitments of certain activities and being honest with myself if I don't have the time.  My goal is to continue working on JavaScript and build my front-end skills, as that is something that I really am enjoying. :)
 
 
 ## Community
