@@ -162,9 +162,13 @@ The project will be assessed with the following rubric:
 
 ### Being a Community Member
 
-From __Kinan Whyte:__
+From Angela Lindow__<br />
+From the first time I paired with Calaway, I was impressed by his natural talent for logical, algorithmic thinking. He doesn't shy away from difficult questions and is able to find the fun in working towards the solution. His calm, even-keel temperament makes him a pleasure to work with. He is always striving to find not just a solution, but the best solution.```
+
+From __Kinan Whyte:__<br />
 Calaway has offered great value to our biggest project this module in many ways. From a mathematical background, he offers a very strong way of looking at problems by holding an immense amount of complexity all at once, yet is able to hold a simple and concise approach to each step. This is an immensely valuable asset. Working with Calaway has been very smooth. He offers a skilled way of articulating abstract concepts in programming and is willing to look at problems through any new or fresh lenses that may be offered to the table. His collaborative skills are on point. He's able to push through difficult problems quickly, but the speed is not overwhelming or overdriven. Rather, the patience, poise, interpersonal communication, and awareness of workflow efficiency, make Calaway stand out so well in a team.
 
+From __Kinan Whyte:__<br />
 
 
 ### Playing a Part
