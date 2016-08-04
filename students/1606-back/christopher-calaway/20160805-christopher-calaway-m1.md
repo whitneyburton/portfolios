@@ -159,20 +159,31 @@ The project will be assessed with the following rubric:
 
 ### Giving Feedback
 
-From Angela Lindow__<br />
+To __Angela Lindow:__<br />
 Angela has been an awesome asset to our Mod 1 cohort. As the leader of both Hopper Posse, of which I am a member, and my study group, Angela has been enormously helpful to me during the last six weeks in the intense journey through learning the fundamentals of coding. She is incredibly knowledgable, intelligent, caring, patient, and selfless in sharing her time, a combination which makes her a fantastic resource for all of us who have had the fortune of working with her. The Turing community is truly lucky to have her.
 
-From __Kris Sparks__<br />
+To __Kris Sparks:__<br />
 Kris has been an incredible help to our Mod 1 cohort over the past six weeks. His knowledge of the subjects and intelligence shows through immediately when you work with him. He openly admits that he may not pick up all the complex concepts as quickly as the top students at turing, and I think that is part of what makes him a fantastic teacher. He puts in long hours gaining a mastery of the material, then he has a good memory for which portions were the most difficult. I think this struggle gives him a unique ability to assist students through the intense deluge of information and concepts that is life at Turing. 
+
 He is very empathetic and has a knack for knowing when other students are struggling. I've seen him seemingly sense when someone has been stuck on a problem, but might not have built up the courage to ask someone, and approach that student preemptively to offer assistance. He is also selfless with his time and I've often seen him check through each classroom before he leaves for the day, already late in the evening, to ask anybody still working if they're doing okay or if they have any questions he can help with. Kris truly an asset to the students of the Turing community.
 
-From __Angela Lindow__<br />
-From __Angela Lindow__<br />
-From __Angela Lindow__<br />
+To __Caleb Cowen:__<br />
+Caleb has been an incredible asset for our Mod 1 cohort. He consistently went above and beyond the call of duty in dedicating many hours to pairing with us. When working with Caleb his knowledge of the subject, intelligence, and passion for coding are immediately apparent. He has a talent for breaking down complex concepts into an easily digestible format, and his grasp of design principles were enormously helpful on the projects he assisted me with.
+
+Outside of academics Caleb has been awesome at bringing the community together to decompress over social activities. He was warm and inclusive to our new Mod 1 cohort starting on our very first week. In this highly intensive environment, the impact of small gestures such as these that Caleb excels at truly cannot be overstated. He is a great asset to the Turing community.
+
+To __Kinan Whyte:__<br />
+Kinan has been a pleasure to work with on our Black Friday project. His excellent communication has been one of our primary advantages and was apparent from our initial DTR. He welcomes all feedback while providing constructive and insightful feedback of his own. He has the ability to remain focused, productive, and enjoyable to work with even at the end of long work days and under times of high stress. He is very much on top of the material we have covered and is quick to point us in the right direction. In times when we didn't know what direction we needed to take he would ask well crafted questions that would point us down the path to the solution. His intelligence, eager acceptance of new ideas, keen ability to look at problems in a unique way, passion for coding, and general good nature make him a great asset to any team.
+
+To __Michael Hill:__<br />
+Michael was a pleasure to work with on our Nightwriter project. He is an excellent communicator, which was immediately apparent in our original DTR session. He was very forthcoming when speaking to his current proficiencies, areas that he hoped to improve, and communication/feedback styles and preferences, which later helped us successfully navigate through a very challenging project. Even in the times when he did not yet have a complete comprehension of the material, he contributed greatly by asking many questions that would often lead us down a path to the correct solution, or allow us to expound on the concepts, ultimately leading to a better understanding on all sides. He was very flexible on work times. He took all feedback well and was lavish with compliments and praise. I hope to get the chance to work with him again in the future.
+
+To __Dan Boradbent:__<br />
+Dan was a pleasure to work with on our Nightwriter project. His communication was excellent from the very first DTR through the end. He gave well thought out and constructive feedback and was very open to receiving any back. He was quick to make good suggestions, apply new concepts learned in class, and ask excellent questions that pushed us toward a successful finished product. I would consider myself lucky to be paired with Dan again on any future project.
 
 ### Being a Community Member
 
-From __Angela Lindow__<br />
+From __Angela Lindow:__<br />
 From the first time I paired with Calaway, I was impressed by his natural talent for logical, algorithmic thinking. He doesn't shy away from difficult questions and is able to find the fun in working towards the solution. His calm, even-keel temperament makes him a pleasure to work with. He is always striving to find not just a solution, but the best solution.```
 
 From __Kinan Whyte:__<br />
