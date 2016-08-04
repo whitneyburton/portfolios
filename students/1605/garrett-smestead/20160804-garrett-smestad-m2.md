@@ -213,8 +213,14 @@ Overall, Pat was fantastic and very easy to work with, and I would have no probl
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Things started to click the last few weeks
+* Feels confident in building applications
+* Still struggling with HTML/CSS - going to practice
+* Got a lot out of Rails Mini project - learned how to keep goals small, then make them more complex
+* Overall had solid group experiences
+* Needs to revisit Rush Hour to make sure the understanding is there
+* Gives good, constructive feedback - continue doing this
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
