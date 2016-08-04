@@ -101,16 +101,17 @@ Mike Sausa & Paul Nguyen
 
 #### (Gametime - Snake)
 
-* [GitHub URL](https://github.com/sikemausa/idea-box)
-* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+* [GitHub URL](https://github.com/sikemausa/game-time-starter-kit)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-This project was intense. We created a page with inputs for ideas with their name, body, and quality (all of which needed to be editable). We then stored each idea in localStorage and called it back to be rendered upon loading the page. This was an excellent intro to Object Oriented Javascript and localStorage.
+This project is a culmination of what we've done this module. We used HTML5 canvas to draw our game,
+added some interactivity with jquery, styled with CSS, and used javascript to add interactivity.
 
-
-Spec adherence: 3
+Functioonal: 3
 User Interface: 3
+Testing: 2
 JS: 3
-Workflow: 4
+Workflow: 3
 
 ## Team
 
