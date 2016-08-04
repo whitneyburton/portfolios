@@ -185,7 +185,42 @@ The project will be assessed with the following rubric:
 
 __Black Thuesday__ is a project that focuses on using tests that both drive design and implementation of code, decomposes a large application into small components, connects related objects together through references and relies on an agile approach to building software.
 
-(Evaluation Notes & Scores)
+Assessed By: Mike
+
+Repo: http://github.com/j-sm-n/black_thursday
+
+Notes:
+* 153 tests in 9 seconds
+* harness runs in 1:42
+* well broken out and separated code.
+* some opportunities to refactor, there are some methods which do a little
+too much.
+
+##### 1. Functional Expectations
+
+* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+##### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+##### 3. Encapsulation / Breaking Logic into Components
+
+* 4: Application is expertly divided into logical components each with a clear, single responsibility
+
+##### 4. Fundamental Ruby & Style
+
+* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+##### 5. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+##### 6. Code Sanitation
+
+The output from `rake sanitation:all` shows...
+
+* 4: Zero complaints
 
 >From Jesse Spevek: "I got to work extensively with Jasmin during the Black Thursday project. She has some phenomenal strengths that need to be shouted out. First, she is highly organized. She can keep track of many streams of information and responsibilities. She has systems in place for making sure that nothing is overlooked including a comprehensive Trello board. Second, she has strong interpersonal skills. She communicates clearly both in person and in writing. A significant portion of our collaboration was carried out asynchronously through Slack. It was always clear what she was working on. Third, Jasmin has a strong level attention to detail in her code. Technically, Jasmin is extremely proficient with the git workflow and Waffle.io. For those reasons, it was a real gift to work with Jasmin on the final project of Module 1.
 
