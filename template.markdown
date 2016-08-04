@@ -95,7 +95,6 @@ ParaMorse is about building a program to interpret Morse code, the mid nineteent
 * [GitHub URL](https://github.com/PlanetEfficacy/battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown#player-ship-placement)
 * [Blog Post] (http://www.jessespevack.com/systems-leadership/2016/7/21/all-your-battleship-are-belong-to-us)
-* [Planning Document] (https://docs.google.com/drawings/d/1ANp1lhYyut76tdvEVc7JUCD9g6tksgVLhxZrWDZQ2Mw/edit?usp=sharing)
 
 ##### Description
 Code a playable version of Milton Bradley's Battleship that runs in a Read Evaluate Print Loop (REPL).
@@ -123,7 +122,6 @@ The final project for module 1 was the pair project, Black Thursday.
 
 * [GitHub URL](https://github.com/j-sm-n/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
-* [Waffle.io](https://waffle.io/j-sm-n/black_thursday/)
 
 ##### Description
 A business is only as smart as its data. Let's build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
@@ -141,7 +139,7 @@ A business is only as smart as its data. Let's build a system able to load, pars
 ## Community
 
 ### Giving Feedback
-Jasmin Hudacsek: I got to work extensively with Jasmin during the Black Thursday project. She has some phenomenal strengths that need to be shouted out. First, she is highly organized. She can keep track of many streams of information and responsibilities. She has systems in place for making sure that nothing is overlooked including a comprehensive Trello board. Second, she has strong interpersonal skills. She communicates clearly both in person and in writing. A significant portion of our collaboration was carried out asynchronously through Slack. It was always clear what she was working on. Third, Jasmin has a strong level attention to detail in her code. Technically, Jasmin is extremely proficient with the git workflow and Waffle.io. For those reasons, it was a real gift to work with Jasmin on the final project of Module 1. 
+Jasmin Hudacsek: I got to work extensively with Jasmin during the Black Thursday project. She has some phenomenal strengths that need to be shouted out. First, she is highly organized. She can keep track of many streams of information and responsibilities. She has systems in place for making sure that nothing is overlooked including a comprehensive Trello board. Second, she has strong interpersonal skills. She communicates clearly both in person and in writing. A significant portion of our collaboration was carried out asynchronously through Slack. It was always clear what she was working on. Third, Jasmin has a strong level attention to detail in her code. Technically, Jasmin is extremely proficient with the git workflow and Waffle.io. For those reasons, it was a real gift to work with Jasmin on the final project of Module 1.
 Moving forward, Jasmin would benefit from voicing concerns and dissenting opinions more directly and frequently. There were many times where I took a bizarre approach to a problem and Jasmin sort of assumed I knew what I was doing. We would have been better served if she had voiced her concerns, even if doing so would have had the immediate effect of slowing progress. More often than not, the gains from her careful thinking would far outweigh any short-term progress stoppages.
 Overall, Jasmin was a fantastic partner and is a phenomenal cohort mate.
 
@@ -153,7 +151,10 @@ Jean Joeris: Jean is highly analytical and takes a very scientific approach to T
 
 Raphael Barbo: Raphael has incredible interpersonal skills. He has a very clear read on group dynamics and also has the ability to put himself in other people's shoes. I witnessed him recognize that a fellow student was upset after a code review, which I was oblivious to, and then move to show empathy and offer encouragement. He also clearly has some significant coding skill. Most recently, he helped me arrive at an approach to the Black Thursday project where repositories build themselves. It’s a real gift to have a guy like Raphael in the cohort.
 
+
+
 ### Being a Community Member
+Jesse Spevack (Pair): Dream Team status! Working with Jesse on Black Thursday was an excellent learning opportunity in more ways than one. Not only is he a Google/Excel spreadsheet whiz, he’s also a stickler with TDD which are two things that I wish I were better at. Jesse led the charge in terms of highly-organized file structures and gorgeous tests. While working with him, I learned that he has high standards for himself, but he shouldn’t let those translate into unwarranted anxiety and pressure as often in the future. He’s extremely intelligent and talented with the crushing of the code, so he shouldn’t worry as much. I have no idea how he juggled all of the hours he spent on this project while also keeping up with his baby twins and wife, but we paired effectively together and I thoroughly enjoyed working with him. 
 
 Brendan Dillon: Whenever I talked about projects with Jesse, I was impressed by how methodical and organized his thinking was. Not only did he do some really great planning, but he also started discussions that encouraged other people to figure out how to plan and organize their projects. In the pairing exercises I did with Jesse, I found that he has a really sharp eye for detail and can debug code really well. On top of all this, he is pulling off a Herculean feat of work-life balance by raising newborn twins while attending Turing.
 
