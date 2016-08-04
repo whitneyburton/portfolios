@@ -328,11 +328,11 @@ The round class serves the following functions:
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 1
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
@@ -340,5 +340,4 @@ The round class serves the following functions:
 
 ### Outcome
 
-( Leave blanks for reviewers )
-
+RETAINED
