@@ -39,6 +39,13 @@ Mike noted that he was very impressed by the way I used the learnings I gained f
 
 Following are my solo (graded) projects for this Module.
 
+#### Credit Check
+
+* [GitHub Url](https://github.com/susiirwin/CreditCheck)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/credit_check.markdown)
+
+Credit Check was a 4 day project where we were challenged to not use any methods or classes while creating an program to run Luhn's Algorithm for verifying credit card numbers. This was an ungraded assignment and never officially submitted for evaluation to our instructors. This was an amazing exercise in learning what stringing different Ruby methods together could do for us and just now powerful and efficient those Ruby methods can be.
+
 #### FlashCards
 
 * [GitHub URL](https://github.com/susiirwin/Flashcards)
