@@ -8,7 +8,19 @@ I didn't have many goals for module 1. However, one of my main goals I felt I ac
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+#### Feedback from Steve on the Assessment
+* Good job on breaking down what needs to be accomplished and take them on in steps.
+* Try to refactor the code so it is more readable for others. Creating variables definitely help. Try to name these variables based on what they're doing.
+* Good job on using keyboard shortcuts.
+* Good job on collaborating and vocalizing your thought process.
+
+JS Styles: 3 - Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+Progression/Completion: 3- Developer is able to implement solutions at the speed of a junior developer.
+
+Workflow: 3 - Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+Collaboration: 3 - Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ### Work
 
@@ -30,7 +42,7 @@ This was our first project at Turing. This 6 week project was to design our port
 * [GitHub URL](http://07nguyenpaul.github.io/color-literate-enigma)
 * [Original Assignment](http://frontend.turing.io/projects/color-changer.html)
 
-This project was our first single day project. The goal for this project was to generate a random color, !=white, that changes the background color of the screen. It only required 2 buttons, one that randomizes the colors and one that reset the background color to white. The buttons had a unique specifications on styling. Not only did this project test us on our CSS but our JavaScript as well.
+This project was our first single day project. The goal for this project was to generate a random color, !=white, that changes the background color of the screen. It only required 2 buttons, one randomizes the colors and one that resets the background color to white. The buttons had a unique specifications on styling. Not only did this project test us on our CSS but our JavaScript as well.
 
 (evaluation comments) // Haven't receieved any comments on this project yet.
 
@@ -102,7 +114,7 @@ Paul and I seemed to work very well together. We were able to organize our thoug
 * [GitHub URL](https://sikemausa.github.io/idea-box/)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-In this project we learned about keeping 'server' and 'client' as separate entities. We used JSON and localStorage to store and regenerate ideas inside localStorage. We created a code to hold ideas inside of an array of objects with four attributes: an unique id, title, body and quality ranking. We also enabled a feature that lets the user edit any idea and it would update to their localStorage until they removed it. That unique id is hard coded to that specific idea, and we used it to update any changes made to it's title, body, or ranking quality. It is also used to find and display any idea that user is trying to find using the search bar.
+In this project we learned about keeping 'server' and 'client' as separate entities. We used JSON and localStorage to store and regenerate ideas inside localStorage. We created a code to hold ideas inside of an array of objects with four attributes: an unique id, title, body and quality ranking. We also enabled a feature that lets the user edit any idea and it would update to their localStorage until they removed it. That unique id is hard coded to that specific idea, and we used it to update any changes made to it's title, body, or ranking quality. It was also used to find and display any idea that user is trying to find using the search bar.
 
 #### Feedback from Louisa
 * No major bugs and user is able to navigate effectively.
@@ -125,11 +137,27 @@ Paul was great to work with, he was awesome at taking initiative and getting fea
 * [GitHub URL](https://kccrs.github.io/Snakes)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-For game time we decided to make Snake. We used jquery, mocha, HTML, JavaScript and CSS. The goal was not only to design but test the implementations of our code. Everyone knows how the game works but there are several parts to designing the game. We first had top render a snake on a canvas and make it move. The next step was to generate food for the snake to eat, but generate it in different locations of the canvas that the snake does not occupy. Next we had to make the snake grow when the food is eaten. This was a the tricky part of the design because each segment of the snake has to follow the piece in front of it. If not, the snake wouldn't zig and zag. Lastly, we had to create code to end the game based on if the snake hits a wall or runs into itself.
+For game time we decided to make Snake. We used jquery, mocha, HTML, JavaScript and CSS. The goal was not only to design but test the implementations of our code. Everyone knows how the game works but there are several parts to designing the game. We first had to render a snake on a canvas and make it move. The next step was to generate food for the snake to eat, but generate it in different locations of the canvas that the snake does not occupy. Next we had to make the snake grew when the food was eaten. This was a the tricky part of the design because each segment of the snake has to follow the piece in front of it. If not, the snake wouldn't zig and zag. Lastly, we had to create code to end the game based on if the snake hits a wall or runs into itself.
 
-(evaluation comments)
+#### Feedback from Louisa
+* Game play is functional. You guys have the essential parts required for the snake game.
+* All application tests are passing and you guys have all the necessary tests for snake.
+* Could use some refactoring and cleaning up on CSS. The plane picture could be a little dimmer to enhance snake and food. Don't use hand written font, it's a no-no(doesn't look good).
+* Had 100 commits, seemed that you guys worked well together.
+* Had a couple complaints using JShint.
+* Overall good job!
 
-(evaluation scores)
+3 - Application is fully playable without crashes or bugs.
+
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+3 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+
+3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+3 - Five or fewer complaints.
 
 ##### Feedback from Casey Cross
 Paul makes an excellent teammate. I worked with him on creating a snake game for the Game Time project.  He has a very serene and pleasant demeanor, even when he is incredibly frustrated.  Thus he served as a calming influence for me during my times of frustration.  I think our skills and strengths complement each other very well.  We also had a great balance in sharing the workload.  My only advice would be for Paul to take more Pomodoro breaks to clear his head when stuck on a problem for a length of time.  I would happily pair with Paul again in the future!
@@ -150,6 +178,50 @@ Mike and I worked together to create our Idea Box program. Mike was able to navi
 ##### Snake: Casey Cross
 Casey and I worked together to create our first game, SNAKE ON A PLANE! :snake::airplane: She taught me more things about github that I did not know. She has a great work ethic and organizes her work well by creating multiple branches on github. Casey has a great eye at spotting errors and resolving them in an effective manner. We worked efficiently together and I am proud of what we created. I can’t wait to see what we create next in the near future!
 
+### Soft Skills/ Protocol Requirement
+#### DTR
+
+Guiding Questions to Define The Relationship:
+
+What are your learning goals for this project?
+Our learning goals for this project is to implement multiple tests while designing our game.  These tests will validate the process of each section we accomplish in creating snake.
+
+What is your collaboration style? How do you feel about pair programming vs. divide-and-conquer approaches?
+We both like to work together when we have time, but also have divine and conquer at the end of the end to find and learn more about the next part we tackle.
+
+How do you communicate best? How do you appreciate receiving communication from others?
+I try to vocalize my thought process and by saying it out loud my partner can tell me if it’s a good idea or how to change it to accomplish what we’re doing. I take feedback well, it’s a good learning experience if you can admit that you’re wrong or need help.
+
+How would you describe your work style?
+I like to sit down and work on as much as we can before we call it a day. This could be a bad thing sometimes cause breaks are needed to ease and clear the thought process.
+
+What’s gone well or poorly in your previous projects?
+Organizing what needs to be done and pseudo coding has worked well in previous projects. Poor communication has hurt in other projects.
+
+What do you need (resources, environment, communication) to do your best work?
+I need a quiet environment to perform efficiently. Less distractions are key for a productive work day.
+
+What scheduling restraints do you have? What are your scheduling preferences?
+I can work until 6-7pm. After that I have to go home to let out the dog.
+
+What is your style for giving feedback? Does anything ever hold you back from giving feedback?
+I like to openly talk about what is the problem because if there is one it’s best to resolve it an effective manner and work productively.
+
+What do you identify as being your biggest strength(s) technically, as they relate to this project? Where do you feel you could use improvement in your technical skills, as they relate to this project? How can our team help support you in improving these skills?
+I don’t know if I have biggest strengths in this project beside my slight understanding of javascript. I feel like we’re both in the same position. I could use improvements in driving more, writing more code, to become more comfortable with different syntax.
+
+What tools do you want to use to manage the project?
+We want to use jshint, javascript, html, and css.
+
+How do you want the group to solve problems when members run into issues with features of the project?
+Collaboration might help. We can each talk about our thought process of how we think we can accomplish this problem. Then collectively merge all ideas to see what works.
+
+How do you know if a project is successful? How can we achieve that as a group?
+If all parties are satisfy with the end product. We can achieve this by everyone contributing.
+
+#### Example of readme
+* [Readme](https://github.com/kccrs/Snakes/blob/gh-pages/README.md)
+
 ### Playing a Part
 * Paired with several of my classmates throughout the first 6 weeks. Assisted with github, CSS, jQuery, and JavaScript issues.
 * Helped build furniture for the frontend campus.
@@ -160,11 +232,11 @@ Casey and I worked together to create our first game, SNAKE ON A PLANE! :snake::
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
