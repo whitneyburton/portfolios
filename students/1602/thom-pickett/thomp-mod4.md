@@ -94,10 +94,10 @@ Total Points: 969/1075 - 90.14%
 * **D: Community Participation**: 3: Student participates in required activities and does at least one or two above-and-beyond supports of the community.
 * **E: Peer & Instructor Feedback**: 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assesment: 3
+* Individual Work & Projects: 3
+* Group Work & Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
