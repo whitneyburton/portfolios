@@ -11,18 +11,12 @@ Assessed by Mike Dao
 
 Mike noted that he was very impressed by the way I used the learnings I gained from my Mentor and applied them to my work. He was impressed that I understood what my mentor showed me, learned more about it on my own, and then was able to describe and defend the use of it in my assessment. He suggested I write a blog post about this use of creating a new hash.
 
-#### Ruby Syntax & API
-* 3 - Developer is able to write Ruby with some debugging of fundamental concepts
-#### Completion and Progress
-* 4 - Developer fully completes baseline assignment and one of the Challenge options.
-#### Testing
-* 4 - Developer excels at taking small steps and using the tests for both design and verification
-#### Workflow
-* 3 - Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-#### Collaboration
-* 4 - Developer actively seeks collaboration both before implementing, while in motion, and when stuck
-#### Enumerable & Collections
-* 3 - Application demonstrates comfortable use of appropriate Enumerable methods
+- Ruby Syntax & API - 3 - Developer is able to write Ruby with some debugging of fundamental concepts
+- Completion and Progress - 4 - Developer fully completes baseline assignment and one of the Challenge options.
+- Testing - 4 - Developer excels at taking small steps and using the tests for both design and verification
+- Workflow - 3 - Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+- Collaboration - 4 - Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+- Enumerable & Collections - 3 - Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
@@ -43,20 +37,15 @@ Notes:
 * I4 was implemented really well (round)
 * Some confusion with ivars and methods
 
-## Evaluation Rubric
+#### Evaluation Rubric
 
-#### Functional Expectations
-* 3 - Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
-#### Test-Driven Development
-* 3 - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
-#### Encapsulation / Breaking Logic into Components
-* 4 - Application is expertly divided into logical components each with a clear, single responsibility.
-#### Fundamental Ruby & Style
-* 3 -  Application shows strong effort towards organization, content, and refactoring.
-#### Enumerable & Collections
-* 3 - Application demonstrates comfortable use of appropriate Enumerable methods
+- Functional Expectations - 3 - Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
+- Test-Driven Development - 3 - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+- Encapsulation / Breaking Logic into Components - 4 - Application is expertly divided into logical components each with a clear, single responsibility.
+- Fundamental Ruby & Style - 3 -  Application shows strong effort towards organization, content, and refactoring.
+- Enumerable & Collections - 3 - Application demonstrates comfortable use of appropriate Enumerable methods
 
-#### (Battleship)
+#### Battleship
 
 * [GitHub URL](https://github.com/susiirwin/Battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
@@ -74,26 +63,22 @@ Notes:
 * Simplecov!
 * 32 tests passing, 
 
-### Evaluation Rubric
+#### Evaluation Rubric
 
 The project will be assessed with the following rubric:
-#### Fundamental Ruby & Style
-* 3 -  Application shows strong effort towards organization, content, and refactoring
-#### Enumerable & Collections
-* 3 - Application demonstrates comfortable use of several Enumerable techniques
-#### Test-Driven Development
-* 3 - Application is well tested but does not balance isolation and integration tests
-#### REPL Interface
-* 1 - Application's REPL has enough problems as to make play difficult
-#### Breaking Logic into Components
-* 3 - Application effectively breaks logical components apart with clear intent and usage
+- Fundamental Ruby & Style - 3 - Application shows strong effort towards organization, content, and refactoring
+- Enumerable & Collections - 3 - Application demonstrates comfortable use of several Enumerable techniques
+- Test-Driven Development - 3 - Application is well tested but does not balance isolation and integration tests
+- REPL Interface - 1 - Application's REPL has enough problems as to make play difficult
+- Breaking Logic into Components - 3 - Application effectively breaks logical components apart with clear intent and usage
+
 ## Team
 
 ### Projects
 
 The following projects were Pair Projects during this Module. 
 
-#### (Night Writer)
+#### Night Writer
 
 * [GitHub URL](http://github.com/susiirwin/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
@@ -112,21 +97,17 @@ Notes:
 * Really like how you broke out the dictionary to a separate file and used constants
 * Follows SRP exceptionally well, everything only does the one thing.
 
-## Evaluation Rubric
+#### Evaluation Rubric
 
-### Overall Functionality
-* 2 - Application converts to Braille and back successfully
-### Fundamental Ruby & Style
-* 3 - Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-### Test-Driven Development
-* 3 - Application uses tests to exercise core functionality but leaves many common edge cases untested.
-### Breaking Logic into Components
-* 4 - Application effectively breaks logical components apart with clear intent and usage
+- Overall Functionality - 2 - Application converts to Braille and back successfully
+- Fundamental Ruby & Style - 3 - Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+Test-Driven Development - 3 - Application uses tests to exercise core functionality but leaves many common edge cases untested.
+- Breaking Logic into Components - 4 - Application effectively breaks logical components apart with clear intent and usage
 
 Feedback to Me:
 "Having Susi as my partner on Night Writer was a gift within itself. She is extremely easy going, intelligent and kind. Even though she has important priorities at home, we both were able to effectively collaborate during times we were apart and paired well when together. Her communication skills are on point; there never was a time that I did not know what she was working on or how she was feeling. She should know that she is more technically inclined than she gives herself credit for and that she is very good at knowing when she needs to ask for help. Because of that, she was a significant reason as to why we were successful with Night Writer in general." - Jasmin Hudascek
 
-#### (Black Thursday)
+#### Black Thursday
 
 * [GitHub URL](https://github.com/rsbarbo/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
