@@ -5,11 +5,18 @@
 
 Coming into Turing I knew that I would learn about HTML, CSS, and Javascript so that I could begin to make web applications and I was excited to see how all these languages could be applied. I had some familiarity with HTML and CSS from many years ago but did not know what to expect with Javascript. I did not have any specific goals beyond learning how to be in school again, how to be successful in the program, and to keep my mind open to all the new information I knew was to come.
 
-As the weeks went on, I made an effort to apply my design skills towards a high level of styling projects when applicable. I also became determined to learn not only the concepts behind JS but how to write this new language. I am becoming more proficient but still feel that I have a long way to go.
+As the weeks went on, I became determined to learn not only the concepts behind JS but how to write this new language. I also made an effort to apply my design skills towards a high level of styling projects when applicable. I am becoming more proficient with JS but still feel that I have a long way to go.
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Progression/Completion: 3  
+Developer is able to implement solutions at the speed of a junior developer.  
+JavaScript Style: 3  
+Developer solves problems with a balance between conciseness and clarity and often extracts logical components.  
+Workflow: 3  
+Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts.  
+Collaboration: 3  
+Developer lays out their thinking before attacking a problem and integrates feedback through the process.
 
 ### Work
 
@@ -157,21 +164,28 @@ I really had a wonderful time working with you on the project. I think we both c
 
 ### Playing a Part
 
-* I have been to many of the Joan Clarke Society morning coffees and enjoy meeting women from the various Mods and alumni. It has been interesting getting to know the other women and what they are working on. In turn they have been really interested to hear what the FE program is like and what we are working on.
+* I have been to many of the Joan Clarke Society morning coffees and the Slack channel, and I enjoy meeting women from the various Mods and alumni. It has been interesting getting to know the other women and what they are working on. In turn they have been really interested to hear what the FE program is like and what we are working on.
 
 * I am a part of the #turingmoms Slack channel and that has been a big help as I navigate through this first Mod. Sometimes I deliberately avoid mentioning my kids to classmates because I don't want to only be seen as a mom or have people think I want any exceptions made for me, but in this group I can be free to vent with women who understand the difficulties. Now that I have one Mod under my belt I am happy to share how my family makes it work with fellow moms and potential students.
 
 * I try to help my classmates with questions whenever I can and I always end up learning something at the same time.
 
+* I hope next Mod I will be better settled into the routine and be able to represent Turing at other Meet-ups around the community.
+
 ## Review
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3  
+Student achieved a "3" or better on each category of the assessment.  
+* **B: Individual Work & Projects**: 3  
+Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.  
+* **C: Group Work & Projects**: 2.5-3  
+Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.  
+* **D: Community Participation**: 2.5  
+Student participates in required activities and does at least one or two above-and-beyond supports of the community. (Mostly active in slack channels.)
+* **E: Peer & Instructor Feedback**: 3  
+ Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
 ### Notes
 
