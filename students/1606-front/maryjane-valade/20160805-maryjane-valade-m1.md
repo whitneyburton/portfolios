@@ -25,7 +25,9 @@ A personal portfolio website I will be working on throughout the 7 months at Tur
 (evaluation comments)
 
 Scores:
+
 Portfolio check-in 1: 4
+
 Portfolio check-in 2: 4
 
 #### Color Changer
@@ -38,10 +40,15 @@ A simple web application that allows the user to change the background screen co
 (evaluation comments)
 
 Scores:
+
 Functional: 4
+
 JS Style: 3
+
 Workflow: 3
+
 HTML: 4
+
 CSS: 4
 
 ## Team
