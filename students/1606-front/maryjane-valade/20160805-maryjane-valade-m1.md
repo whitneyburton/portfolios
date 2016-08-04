@@ -182,7 +182,7 @@ Student achieved a "3" or better on each category of the assessment.
 Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.  
 * **C: Group Work & Projects**: 2.5-3  
 Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.  
-* **D: Community Participation**: 2.5  
+* **D: Community Participation**: 3  
 Student participates in required activities and does at least one or two above-and-beyond supports of the community. (Mostly active in slack channels.)
 * **E: Peer & Instructor Feedback**: 3  
  Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
