@@ -285,10 +285,16 @@ I am unsure what the criteria are to receive a top score here, but I actively to
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Understands why material is repetitive, but would be nice to learn more faster
+* Feels confident figuring things out on own
+* Enjoyed working on Rush Hour
+* Mix Master was most beneficial individual project, repetitive and tedious but necessary
+* Excited to work on Mini Project
+* Enjoys working solo more than in a group after awhile - got burnt out of pairing constantly during Little Shop
+* Closure Possee - did first two weeks of curriculum
 
 ***
 # Outcome
 ***
 
-( Leave blanks for reviewers )
+Pass
