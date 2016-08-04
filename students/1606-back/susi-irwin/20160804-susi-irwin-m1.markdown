@@ -203,6 +203,17 @@ This was a two week paired project and it tested everything we had learned plus 
 * I arrive at Turing each day by 6:30am. In arriving so early, I am able to connect with other students both in my cohort as well as in upper Modules. This time is used for socializing, pairing, getting extra help, and getting more comfortable in the Turing community. On multiple occasions members of my cohort came together in the early mornings to get more work done and to help each other through tough concepts.
 * Each day I do my best to take the Pomodor breaks as hints to get up, stretch, and get some fresh air. I do my best to grab someone from the cohort to go with me. This time is used to vent, to breathe, to enjoy the company of my classmates, and to get the blood flowing - physically and mentally. 
 
+##
+- DTR Memos
+
+  [DTR for Night Writer](https://gist.github.com/susiirwin/6a8d4e48abbeea32f8fa13531614d2ae)
+  [DTR for Black Thursday]()
+
+- README
+
+  [Example of a README.md] (https://github.com/susiirwin/Flashcards/blob/master/README.md)
+
+
 ## Review
 
 ### Rubric Scores
