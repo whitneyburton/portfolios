@@ -50,7 +50,7 @@ Notes:
 
 #### Chisel
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/michael-hill/chisel)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 
 This project converts Markdown to HTML.
