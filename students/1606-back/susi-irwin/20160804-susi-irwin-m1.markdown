@@ -177,9 +177,33 @@ Feedback to Me:
 
 This was a two week paired project and it tested everything we had learned plus more. We dealt with real-world data from the online site, Etsy. We had to use shortened data sets to test immense amounts of code using TDD and a Spec Harness. We needed to read in multiple CSV files, parse the data, and write methods to evaluate the data and answer specific Business Intelligence questions.
 
+Assessed by: Mike Dao
+
 (evaluation comments)
 
-(evaluation scores)
+- Functional Expectations
+
+  3 - Application implements iterations 0, 1, 2, 3, and either 4 or 5
+  
+- Test-Driven Development
+
+  3 - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+- Encapsulation / Breaking Logic into Components
+
+  3 - Application effectively breaks logical components apart but breaks the principle of SRP
+  
+- Fundamental Ruby & Style
+
+  3 - Application shows strong effort towards organization, content, and refactoring
+  
+- Enumerables & Collections
+
+  3 - Application demonstrates comfortable use of appropriate Enumerable methods
+
+- Code Sanitation
+
+  4 - Zero Complaints
 
 "I worked with Susi during our Black Thursday project. I am astonished how much progress she has made in her technical skills in such a short period of time. Her ability to ask the right questions, and understand answers is nothing but amazing. Susi is definitely a quick learner, and I am overall pleased to have worked with her. One feedback I would like to give Susi is to remember to always slow down, read the error messages, and remember that the most important thing throughout the project is the learning curve (ideally always pointing towards the top). Thanks for being an amazing person, super dedicate, and for keeping me on my toes!" - Raphael Barbo
 
@@ -188,6 +212,7 @@ This was a two week paired project and it tested everything we had learned plus 
 ### Giving Feedback
 
 * Mark Miranda - Mark was my first student interaction at Turing, as he was my pre-work guide. I had no idea that pre-work guides were only required to check in with students for around 30 minutes per week! Mark checked in with me literally every day before I began Module 1. He was my champion when it came to the pre-work but also to my countdown for giving notice at my job, approaching my last day of work, taking time for myself before Turing started, and sending me good luck on my first day. He has been a constant source of support academically as well as emotionally. Because of Mark, I am no longer afraid to speak up and ask for help. Mark has shown me, by his example, what it means to be a software developer. Above and beyond does not even begin to describe what Mark has done for me over the past few months (he reached out to me initially in early May). I am not sure I would have come as far as I have in the past 6 weeks if it wasn't for his encouragement, support, and honesty.
+* Kerry Sheldon - I have had the pleasure of getting to know Kerry during my first Module at Turing. She has been an leader in the Pahlka Posse from the first session and was a driving force all term. Her calm demeanor, direct approach to problems, and technique of helping is just incredible. She is a natural leader and organizer and has a knack for drawing people in. I paired with Kerry for a session with Battleship and she noticed that I was a visual learner; she took the time to use my index cards and drawings to make sure I understood what my next steps were. She has gone out of her way to check in with me to see how I am progressing and feeling. Kerry has made a huge impact on me and I hope to pay-it-forward in the same manner during my next Modules. Thank you for being such an inspiration, Kerry!
 * Jasmin Hudacsek - Jasmin was an absolute delight to partner with on Night Writer. Her strong organizational skills and motivated attitude pushed us forward at a fantastic rate. Jasmin is easy to communicate with in person, as well as remotely. I was excited to be paired with her for our first paired project and was not disappointed. She has an innate ability to calm nerves and logically look at the issues as they are presented. Jasmin was able to keep our motivation alive even when we hit bumps in the road. Her enthusiasm and charisma are absolutely wonderful!
 * Raphael Barbo - Raphael was such an amazing support through Black Thursday as well as the rest of Module 1. Academically he was able to coach me through difficult spots while still keeping our pace lively and productive. He never thought twice about breaking issues down into smaller steps and reminding me that I was capable of anything. He has a very logical and positive way of approaching coding. Raphael was an emotional support for me as well as this project was a challenge for me. He was able to calmly lead me down the path needed to contribute to our project. 
 * Ryan Workman - Ryan's enthusiasm and positivity are absolutely contagious. His passion for coding and helping others make him an amazing asset to our cohort as well as the Turing community at large. At times his passion and enthusiasm take him down adventurous Ruby paths, but a gentle nudge to follow the spec brings him back immediately. He paired with me on Battleship and was an incredible partner through some very challenging code. His patience and encouraging words allowed me to stop doubting myself and be more confident in my learning. I have not received so many high-fives in one afternoon in my entire life!
@@ -201,6 +226,7 @@ This was a two week paired project and it tested everything we had learned plus 
 * “Susi has been the ultimate classmate and friend during Mod 1.  Her positive attitude and willingness to review concepts, look over code or simply be a friend and listen exemplifies the qualities that Turing teaches.” - Mike Hill
 * "Susi impressed me from the first time I paired with her. She is meticulous about presenting simple, understandable code. I have always been able to sit down, look at her code, and know what is going on which is a tough thing to learn when you first start writing code. It has been so cool to see her growth throughout module1. She has dubbed herself the ‘cryer’ of her cohort, but I see her as a sunbeam, always happy to celebrate the successes of her peers as well as her own." - Angela Lindow
 * "I was a prework guide for Susi. She was extremely excited to become a Turing student and part of the community. I felt like she epitomizes what Turing is looking for in it's community. She works hard at everything she does and tries to learn everything put in front of her. She's motivated and a great person to pair with. She's gotten better at breaking problems down and is on the right track to become a great developer. And she does all of this with a toddler at home. That's just amazing and crazy at the same time. I wish I had the grit that Susi shows." - Mark Miranda
+* "I’ve really enjoyed the opportunity to get to know Susi this module through Pahlka.  I love Susi’s enthusiasm for learning to code, and how she is able to celebrate her victories, whatever they may be.  There were some weeks where hearing Susi relay her joy at one of her successes was exactly what I needed to get myself on track.  Susi is really open to feedback and a pleasure to “peer mentor".  I hope that Susi will become an even more active member of the Pahlka posse next module and contribute her coding skills to the work of the posse.  I would also like Susi to use Pahlka as an opportunity to get exposed to new techniques/technologies  before she encounters them in class." - Kerry Sheldon
 
 ### Playing a Part
 * I do my best to be an ear and a support for my fellow Turing students. I think it is important to build relationships outside of those created during cohort sessions. I have made a huge effort to introduce myself to as many students as possible in the past 6 weeks. Turing is the hardest thing I have ever been challenged to do and that pressure is only aided by talking and working with members of the Turing community. I feel that my involvement in the Imposter sessions has been my best contribution thus far at Turing. Despite my own emotions and stress in Module 1, I do feel that I was able to listen to and help my fellow students work through some of their own emotions and stress.
