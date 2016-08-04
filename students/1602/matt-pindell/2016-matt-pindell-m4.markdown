@@ -90,3 +90,11 @@
   * Julian Feliciano
    
     "Don’t talk to me or my son ever again"
+
+## Outcome
+
+* End of Module Assesment: 3
+* Individual Work & Projects: 3
+* Group Work & Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
