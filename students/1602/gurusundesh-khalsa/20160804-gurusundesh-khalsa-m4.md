@@ -94,8 +94,8 @@ Deeply grateful to everybody that makes Turing possible. This has been the best 
 
 ## Outcome
 
-* A: End-of-Module Assessment:
-* B: Individual Work & Projects:
-* C: Group Work & Projects:
-* D: Community Participation:
-* E: Peer & Instructor Feedback:
+- A: 4
+- B: 4
+- C: 3
+- D: 4
+- E: 3
