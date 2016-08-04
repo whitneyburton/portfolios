@@ -8,11 +8,20 @@ This module, much like the last module, I feel like I don't exactly know what I 
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3
-* **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: 3
+* **A: End-of-Module Assessment**:
+  * 4: Student achieved two or more "4s" on the assessment
+* **B: Individual Work & Projects**:
+  * 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+* **C: Group Work & Projects**:
+  * 3: Student fully participates in their group work to facilitate group harmony
+  while achieving consistently satisfactory results.
+* **D: Community Participation**:
+  * 3: Student participates in required activities and does at least one or two
+  above-and-beyond supports of the community.
+* **E: Peer & Instructor Feedback**:
+  * 3: Student consistently delivers meaningful feedback for peers and implements
+  strategies to improve themselves in response to feedback.
 
 ### Mid Module Assessment
 
@@ -101,14 +110,33 @@ This was a Sinatra app that utilized ActiveRecord to track web traffic, specific
 * [One Fan's Treasure on Heroku](https://one-fans-treasure.herokuapp.com/)
 We built an e-commerce site that sold household items previously owned by celebrities! We implemented admin, registered user, and visitor functionality. For extensions, we did Stripe integration, OAuth, and email notifications upon registration and order completion.
 
-* **1: Analytical/Algorithmic Thinking**:
-* **2: Ruby Syntax & Standard Library**:
-* **3: Rails Syntax & API**:
-* **4: MVC & Rails Style**:
-* **5: Testing**:
-* **6: Collaboration**:
+* **1: Feature Completeness**: 4
+* **2: Controllers**: 4
+* **3: Models**: 3.5
+* **4: View**: 4
+* **5: Testing**: 4
+* **6: Usability**: 3
+* **7: Workflow**: 3.5
 
 **Feedback from Andrew**:
+  * Styling -
+    * Word wrapping on side navbar is ugly
+    * Give Admins a dashboard to add a new item rather than having bottom way at the bottom of a list
+    * Center when you don't have a full screen of data
+  * Controllers
+    * Avoid tangled series of actions happening when an item is updated or created
+    * if setting a variable equal to params add a lot of clarity, do it
+    * If using enums, create class methods if you need to query by a number so that it is more clear what you're looking for
+  * Models
+    * put formatting in helper, calculations in model
+    * Don't call on other models in method within a model
+    * mailer method can be pulled out into a PORO
+  * Views
+    * if a partial is not shared across the app, keep it inside it's appropriate view folder
+  * Testing
+    * for assertions, be explicit and hardcode when you can rather than using method calls. If the method call is nil, and the page shows nothing because it's not working, the test will still pass.
+    * Check testing context/scenarios and make sure they are clear and actually explaining what your assertions are testing
+    * Try not to assert too many things at once - test things in isolation for clarity
 
 ### Feedback to Me
 
