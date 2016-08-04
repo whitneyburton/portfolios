@@ -230,15 +230,14 @@ With only a few hours of notice, I lead a electronics workshop for my peers. Thi
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3.5
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Community Participation**: 4
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
-
-( Leave blanks for reviewers )
+* Strong community participation, leading some sessions
+* Encouraged to find niche of technical exceptionalism. Consider big data, hadoop
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
