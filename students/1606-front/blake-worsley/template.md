@@ -18,75 +18,82 @@ During this module I completed the work below as follows.
 * [https://github.com/blakeworsley/color-changer]()
 * [https://blakeworsley.github.io/color-changer/]()
 
-We created a fully functional endless running game that resembled the google chrome dinosaur game.
+I created a page with two buttons, a reset, and a color change. When the color change button was clicked a random hex value was generated and the background of the page was changed. If the color was white (the default color). The random number would regenerate. If the reset button was clicked, the background would return to its initial color.
 
-(evaluation comments)
+* Functional: 4
+* JS Style: 3
+* Workflow: 3
+* HTML: 3
+* CSS: 3
 
-(evaluation scores)
+#### Personal Portfolio
+
+* [https://github.com/blakeworsley/portfolio]()
+* [https://blakeworsley.github.io/portfolio]()
+
+I created a personal portfolio that makes use of media queries and has a mobile first design. This portfolio highlights both my design and coding skills.
+
+* Comments TBD
 
 ## Team
 
 ### Projects
 
-(Intro)
+Many of our projects this quarter revolved around a group. Below is a collection of my experiences and results.
 
 #### Number Guesser
 
 * [https://github.com/blakeworsley/number-guesser]()
 * [https://blakeworsley.github.io/number-guesser/]()
 
-We created a fully functional endless running game that resembled the google chrome dinosaur game.
+In this project we created a random number generation game that allowed for the incrementing of levels and the provided the ability to set ranges of numbers to guess within. As each level went up, so did the difficulty. 
 
-(evaluation comments)
+* Functional: 4
+* JS Style: 3
 
-(evaluation scores)
-
-(feedback to me)
 
 #### Linked List
 
 * [https://github.com/kylem038/linked-list]()
 * [Original Assignment]()
 
-We created a fully functional endless running game that resembled the google chrome dinosaur game.
+In this project, we created a linked bookmark list that would append items to the DOM and gave the user the ability to mark read items, and clear. 
 
-(evaluation comments)
+* Functional: 4
+* JS Style: 3
+* Workflow: 4
+* HTML: 3
+* CSS: 3
 
-(evaluation scores)
-
-(feedback to me)
 
 #### Ideabox
 
 * [https://github.com/blakeworsley/ideabox]()
 * [https://blakeworsley.github.io/ideabox/]()
 
-We created a fully functional endless running game that resembled the google chrome dinosaur game.
+We were tasked with making an ideabox in which you could input a title and an idea, store it in local storage and retrieve it when the browser reloaded. We also created upvote and downvote functionality which was stored in local storage as well.
 
-(evaluation comments)
+* Spec Adherence: 3
+* User Interface: 3
+* JS Style: 3
+* Workflow: 4
 
-(evaluation scores)
 
-(feedback to me)
-
-#### Game Time
+#### Game Time Jr.
 
 * [https://github.com/blakeworsley/surfs-up]()
 * [https://blakeworsley.github.io/surfs-up/]()
 
-We created a fully functional endless running game that resembled the google chrome dinosaur game.
+    We created a fully functional endless running game that resembled the google chrome dinosaur game. 
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+TBD
 
 ## Community
 
 ### Giving Feedback
 
-(feedback from me)
+My feedback to my partners is as follows:
+
 Pete and I ended up with a solid ideabox concept when we presented. Pete was very good about taking the time to explain concepts he had undertaken and completed and was willing to do whatever it took to output an excellent finished project. I do think we both came into the project with ambitions to learn above all else and I feel like we had conflicting ideology of what to do next at different points throughout the project. Looking back, I think if we created a more concrete plan of how we wanted to proceed through some of the complicated parts of the project, we would have been able to collaborate more effectively during pairing sessions. Otherwise Pete was great to work with and I am glad I had him on this project.
 
 It was a pleasure working with Jeff on the number guesser project. Jeff clearly has a firm grasp on the material and was very strong in the javascript concepts even being the first time that we had worked with them. I really don’t have much critical feedback to give Jeff. I feel that he may have gone ahead a bit on his own for some of the final aspects of the project but at the time we had split up some of the work so it is to be expected. It was great working with him and I look forward to doing so in the future.
@@ -95,7 +102,8 @@ Had a great time working with you on linked list. We had a great opportunity to 
 
 ### Being a Community Member
 
-(feedback to me)
+The feedback I recieved is below:
+
 Blake and I worked together on ideabox. The project was a success and I feel that we were able to collaborate very effectively. At times throughout the project Blake seemed highly stressed. I think this may have been from not fully understanding some syntax(for loops?). I think as Blake gets more comfortable using documentation the unknown will become less stressful and possibly even a little fun.
 
 It was great working with Blake and I’m really glad we were partnered up for the first project.  We worked really well together and were able to map out and work through the problems together.  Blake also has some great design chops and really made our project stand out.  The only actionable feedback is that we were both eager to get code on the screen which didn’t work out as well as the times when we stopped and mapped out/pseudo-coded the problem we were trying to solve and what steps we needed to take to solve it.  Once we started doing that things went a lot smoother and I think we can both keep that in mind on future projects.   I look forward to working with Blake on other projects in future modules!
@@ -104,10 +112,10 @@ Really enjoyed working with you on this project. From beginning to end we both w
 
 
 
-
 ### Playing a Part
 
-Early in my time here at turing, I was invited to be a part of the Student Advisory Board and actively led and engaged our cohort in our weekly group retros. I conducted surveys and sat in on meetings  
+Early in my time here at turing, I was invited to be a part of the Student Advisory Board and actively led and engaged our cohort in our weekly group retros. I conducted surveys and sat in on meetings with the staff. I was also involved in the Turing podcast and engaged in multiple outing with 1606. My mentor previously attended turing and I had the opportunity to spend time with him every week as well.
+I engaged in group meetups and networked with speakers as they visited our classes.
 
 
 ## Review
