@@ -39,7 +39,7 @@ This project was not assessed, but here are some personal notes on the project -
 * [GitHub URL](https://github.com/JeanJoeris/complete_me)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
-The goal of the project was to build a trie that could be populated with words and searched, with the purpose of building a autocomplete tool. 
+The goal of the project was to build a trie that could be populated with words and searched, with the purpose of building an autocomplete tool. 
 
 Notes:
 
@@ -51,9 +51,6 @@ Notes:
 * Spec harness all passes
 * Tried addresses but had some troubles with false matches
 * Implemented SimpleCov
-
-
-Evaluation Rubric
 
 ##### 1. Functional Expectations
 * 4: Application fulfills all base expectations and one extension
