@@ -126,11 +126,44 @@ The final project for module 1 was the pair project, Black Thursday.
 ##### Description
 A business is only as smart as its data. Let's build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
 
-(evaluation comments)
+Assessed By: Mike
 
-(evaluation scores)
+Repo: http://github.com/j-sm-n/black_thursday
 
-(feedback to me)
+Notes:
+* 153 tests in 9 seconds
+* harness runs in 1:42
+* well broken out and separated code.
+* some opportunities to refactor, there are some methods which do a little
+too much.
+
+
+### 1. Functional Expectations
+
+* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+
+* 4: Application is expertly divided into logical components each with a clear, single responsibility
+
+### 4. Fundamental Ruby & Style
+
+* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+### 5. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+### 6. Code Sanitation
+
+The output from `rake sanitation:all` shows...
+
+* 4: Zero complaints
+
 
 ### Soft Skills and Protocol Requirements
 * [DTR Memo] (https://docs.google.com/document/d/1Mk8SM8GFjY6aCPFw_mVj5C3N4wvGI-_Me-UPzRgVT1c/edit?usp=sharing)
@@ -165,14 +198,14 @@ Jesse Spevack - "Jesse has an amazing personality, and inspiring attitude toward
 * Participated in 1606 Backend Slack channel.
 * Shared coded and encoded versions of Barrack Obama's Orlando speech for ParaMorse project on 1606 Backend Exclusive Slack Channel.
 * Shared planning docs for battleship project on 1606 Backend Exclusive Slack Channel.
-* Shared fixture csv data for Black Thursday project on 1606 Backend Exclusive Slack Channel.
+* Shared mock csv data for Black Thursday project on 1606 Backend Exclusive Slack Channel.
 * Attended and participated in multiple imposter lunches.
 * Attended and participated in every guest speaker Friday morning event.
 * Participated in Friday lunch running group (25 miles to date).
 * Diligently attended to cleaning responsibility.
-* Periodically cleaned up pairing stations. I'm on the verge of becoming a zelot in service of the orderly pairing station cause.
+* Periodically cleaned up pairing stations.
 * Periodically emptied and loaded dishwashers.
-* Periodically cleaned coffee station. Made terrible coffee once.
+* Periodically cleaned coffee station.
 
 ## Review
 
