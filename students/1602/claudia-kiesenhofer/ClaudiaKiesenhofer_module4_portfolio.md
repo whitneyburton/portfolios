@@ -119,8 +119,13 @@ My part in the community during school was mostly informal. I realized that I wa
 
 ### Notes
 
-( Leave blanks for reviewers )
+Can't wait to see you, as you get a good job, 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+- A: 4
+- B: 4
+- C: 3
+- D: 3
+- E: 3
+
