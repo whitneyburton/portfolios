@@ -212,16 +212,15 @@ From the very beginning I have had the opportunity to be part of Turing communit
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 4
-* **D: Community Participation**: 4
-* **E: Peer & Instructor Feedback**: 4
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
-
-( Leave blanks for reviewers )
+* Overall nice outcome from repeating
+* Step up as agitator of group, pay attention to group cohesion 
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PROGRESSED
