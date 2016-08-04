@@ -149,7 +149,7 @@ The project will be assessed with the following rubric:
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 * [DTR Memo](https://drive.google.com/open?id=0B8m3yTTg2BNyaW00c09pVHkwSk0)
 
-(description)
+In Black Thursday we created a robust and intricut relational database and then added a business intelligence layer, using the vast data sets to gain deeper insights into the data and the interacitons between them than would be apparent just by reviewing them in spreadsheets.
 
 (evaluation comments)
 
