@@ -114,6 +114,8 @@ Thank you for the hard work on this project and over this project and fighting t
 
 * From Sunny - Oh John, oh excuse me Jon, Mr. Thinks he's too good for the letter h! Well back in my day when Jons were Johns and Potato was pronounced Potato (did you do the potaaato thing in your head hah! Now I'm in your head, yes you are trying to think about something other than ol' Sunny here, well, it's too late! That super secret thing you were thinking of last night, well I know it now!). Well anyways what was I talking about, oh, uh Jon's alright. [The letter H is the most contentious letter in our alphabet](www.theguardian.com/science/shortcuts/2013/nov/04/letter-h-contentious-alphabet-history-alphabetical-rosen)
 
+* From Alex - We never paired nor got a chance to play basketball with Sunny so there's that but you're a really good friend man. I really enjoyed the conversations we had ever since I joined the 1602 cohort (the one nobody understands unless you're part of it). In a way, I'm glad that I had the chance to really get to know you since we both made similar life decisions in deciding to drop out from college and go into a school like Turing. I hope we can keep in touch in the future since I'm curious where you'll be at in life in the next three years. #BeLikeKris -- ALEX
+
 ### Playing a Part
 
 * Helping out the lower mods with things I have experience with
