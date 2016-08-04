@@ -220,6 +220,7 @@ Kinan has been a wonderful peer to me during this module. He frequently asks to 
 **DTR Memo:**<br>
 [Night-Writer pair project]
   (https://docs.google.com/document/d/1n4JcyT8_yustaBnWFZAyEcMLrbY7Sxn_n0LVqw8vSi8/edit?usp=sharing)
+  
 [Black Thursday pair project]
   (https://docs.google.com/document/d/1-GA32LUC03RgcCE0HvTHIZtuDzLTBJ2XAdJ2a0OMVRM/edit?usp=sharing)
   
