@@ -3,8 +3,8 @@
 ## Individual
 
 ### Areas of Emphasis
-
 I would like to really dive into the fundamentals of front-end design. I have always been interested in designing a website. I would also like to have a firm understanding of rails.
+
 
 ### End of Module Assessment
 
@@ -209,10 +209,11 @@ following criteria:
 ## Community
 
 ### Giving Feedback
+**To Caleb**
+Caleb was a fantastic group member on Little Shop. He was always on task and was truly willing to dive deep into a lot of problems that could bring a project to a halt. He spent time when he could have been working on tasks to help everyone else. I could really tell he enjoys coding and problem solving, and that made him fun to work with.
 
-* I completed every weekly survey for both SAB and staff purposes
-* I sought opportunities to let classmates know when they did something well, outside of formal feedback requirements.
-
+**To Trent**
+Trent was great to work with during Little Shop. He is clearly one of the strongest members of our cohort. He always strived to understand what was happening behind the scenes and took the learning process very seriously. I could always depend on Trent to work hard. We would divide and delegate tasks to each other, and the next day I was always amazed at the quantity and quality of his work. I would definitely work with him again
 
 ### Being a Community Member
 
