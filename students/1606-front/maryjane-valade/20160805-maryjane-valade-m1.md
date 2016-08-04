@@ -37,7 +37,7 @@ A simple web application that allows the user to change the background screen co
 
 (evaluation comments)
 
-##### Scores:
+Scores:
 Functional: 4
 JS Style: 3
 Workflow: 3
@@ -59,11 +59,10 @@ The goal of this project was to build a game where the user must guess a random 
 
 (evaluation comments)
 
-##### Scores:
+Scores:
 Functional: 3
 JS Style: 2.5
 
-(feedback to me)
 
 #### Linked List
 
@@ -74,14 +73,13 @@ After learning some of the basics of jQuery, the goal of this project was to bui
 
 (evaluation comments)
 
-##### Scores:
+Scores:
 Functional: 4
 JS Style: 2
 Workflow: 3
 HTML: 2.5
 CSS: 3
 
-(feedback to me)
 
 #### IdeaBox
 
@@ -92,7 +90,7 @@ Using Javascript, jQuery, localStorage, and good UX, we built a simple applicati
 
 (evaluation comments)
 
-##### Scores: (Steve)
+Scores: (Steve)
 
 Spec Adherence: 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 User Interface
@@ -105,22 +103,19 @@ Workflow
 
 Workflow: 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
-(feedback to me)
 
 #### Game Time
 
 * [GitHub URL] ()
 * [Original Assignment] (http://frontend.turing.io/projects/game-time.html)
 
-The goal of this project was to use all the skills we've learned so far to build a simple game that was playable in the browser.
+The goal of this project was to use all the skills we've learned so far to build a simple game that was playable and looked good in the browser.
 My partner and I used the Google Chrome dinosaur game as inspiration to create Surf's Up. Players manipulate a surfer with the spacebar to jump over rocks.
 
 (evaluation comments)
 
-##### Scores
+Scores:
 (eval scores)
-
-(feedback to me)
 
 ## Community
 
