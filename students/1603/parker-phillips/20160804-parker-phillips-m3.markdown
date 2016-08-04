@@ -110,6 +110,9 @@ Performance | 4
 
 * Ilana: working with you was my first opportunity to see that you a much stronger than you lead on. I have been in many of the imposter lunches with you, but had never been given the opportunity to code with you. I understand the lack of confidence feeling, but believe people when they tell you that you are a strong developer. Any task that we gave you during this project you accomplished well and in a timely manner. I was impressed with what we all saw from you. I feel you do have a tendency to get a little caught up on the smaller parts - and that might be stemming from my own fight to avoid doing that - instead of focusing on the grand scheme going on in the midst of the project. You are much stronger then you feel, and it will be exciting to see the bigger things you produce.
 
+##### Playing a Part
+During the module I Co-led the Miyamoto posse with Ryan. This was a good challenge balancing the work from the posse with the work of the module. In addition to this I tried to help out fellow students whenever I could. In addition to these contributions I also helped teach the CLI students on our Friday.
+
 ## Review
 
 ### Self Assessment
