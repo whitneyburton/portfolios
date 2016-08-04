@@ -268,7 +268,7 @@ Assessed by: Mike Dao
 
   Student participates in required activities and does at least one or two above-and-beyond supports of the community.
 
-* **E: Peer & Instructor Feedback**: 3.5
+* **E: Peer & Instructor Feedback**: 3
 
   Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
@@ -278,4 +278,4 @@ Assessed by: Mike Dao
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
