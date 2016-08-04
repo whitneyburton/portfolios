@@ -133,4 +133,4 @@ I brewed coffee when I arrived early in the morning.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+RETAINED
