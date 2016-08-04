@@ -129,7 +129,7 @@ I don't know that I go above and beyond with the community at Turing, and this i
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
-I do not know I deserve to pass, really. I would like to propose that over the break week I work on a simpler app with a less "reach"-y scope than I'd had previously. I know you are out of town, probably, but 
+I do not know I deserve to pass, really. I would like to propose that over the break week I work on a simpler app with a less "reach"-y scope than I'd had previously. I know you are out of town, probably, but
 
 =======================================
 
@@ -137,18 +137,18 @@ I do not know I deserve to pass, really. I would like to propose that over the b
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
-* **D: Community Participation**:
-* **E: Peer & Instructor Feedback**:
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+Going to work on user stories over intermission week to get some additional practice.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
 
 =======================================
