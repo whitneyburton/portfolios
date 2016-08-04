@@ -190,6 +190,9 @@ Kinan has an awesome personality and approach to problems that make it enjoyable
 **From Brian Heim:**<br>
 Kinan has been a wonderful peer to me during this module. He frequently asks to compare code and offers helpful suggestions for refactoring and overall project functionality and scope. Outside of the curriculum, he is a is great listener and conversationalist. We have engaged in meaningful conversations ranging in topic from adjusting to life at Turing to exercise and nutrition to philosophy about life in general. He especially helped me talk through my concerns about my mid-module assessment scores, and gave me a confidence boost that really helped me down the final stretch of the module.
 
+**From Caleb Cowen:**<br>
+When I paired with Kinan, I immediately noticed his willingness to learn and ability to take advice. He showed a true desire to understand his code before continuing to write. This will serve him well in later projects.
+
 
 #### Playing a Part
 
