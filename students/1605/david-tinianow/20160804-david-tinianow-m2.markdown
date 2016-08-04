@@ -278,8 +278,14 @@ following criteria:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Didn't quite accomplish all goals for this module
+* Possee suggestions
+* Things started to click with Mini Project
+* Should have not tried the "divide and conquer" technique for Rush Hour
+* Had more of a cohesive group with Little Shop
+* Actively involved with the community
+* Working on speaking up more in group situations
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
