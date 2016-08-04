@@ -44,6 +44,7 @@ Assessed By: Mike
 * Recursive methods are well done
 * Would liked to have seen a separate Trie class
 * Some opportunities to refactor, we talked about predicate methods
+
 ##### Evaluation Scores
 * Functional Expectations - 3: Application fulfills all base expectations
 * Test-Driven Development - 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
@@ -66,6 +67,7 @@ Assessed By: Mike
 * Good use of predicate methods
 * Some larger methods
 * good effort towards breaking things down
+
 ##### Evaluation Scores
 * Overall Functionality - 2: Application converts to and back successfully
 * Fundamental Ruby & Style - 3: Application shows strong effort towards organization, content, and refactoring
@@ -87,6 +89,7 @@ Assessed By: Beth
 * Solid use of enumerables, best choice most often
 * TDD the whole way, beautiful test suite!
 * Rules module -- great example of breaking logic and responsibilities apart
+
 ##### Evaluation Scores
 * Fundamental Ruby & Style - 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * Enumerable & Collections - 4: Application consistently makes use of the best-choice Enumerable methods
@@ -118,6 +121,7 @@ Repo: http://github.com/j-sm-n/black_thursday
 * well broken out and separated code.
 * some opportunities to refactor, there are some methods which do a little
 too much.
+
 ##### Evaluation Scores
 * 1. Functional Expectations - 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 * 2. Test-Driven Development - 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
