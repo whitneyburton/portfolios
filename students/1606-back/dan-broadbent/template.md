@@ -177,7 +177,7 @@ The project will be assessed with the following rubric:
 * [GitHub URL](https://github.com/kctrlv/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-We built a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
+We built a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.  Before we began the project, my partner David and I created a thorough DTR (define the relationship) document.  https://docs.google.com/document/d/1ZHvr2nAImkXHirLWk9KenXYUrvfBqcd2w8D1anXLm_Y/edit?usp=sharing
 
 (evaluation comments)
 
