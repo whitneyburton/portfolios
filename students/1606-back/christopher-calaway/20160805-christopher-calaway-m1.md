@@ -11,22 +11,22 @@ Non-academically, a second goal I set for myself was with regard to self-care. S
 ### End of Module Assessment
 
 ###### 1. Ruby Syntax & API
-* 4: Developer is able to write Ruby with a minimum of reference or debugging
+* __4__: Developer is able to write Ruby with a minimum of reference or debugging
 
 ###### 2. Completion and Progress
-* 4: Developer fully completes baseline assignment and one of the Challenge options.
+* __4__: Developer fully completes baseline assignment and one of the Challenge options.
 
 ###### 3. Testing
-* 4: Developer excels at taking small steps and using the tests for both design and verification
+* __4__: Developer excels at taking small steps and using the tests for both design and verification
 
 ###### 4. Workflow
-* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* __3__: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
 ###### 5. Collaboration
-* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+* __4__: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ###### 6. Enumerable & Collections
-* 4: Application consistently makes use of the best-choice Enumerable methods
+* __4__: Application consistently makes use of the best-choice Enumerable methods
 
 
 ### Projects
@@ -51,19 +51,19 @@ Notes:
 ##### Evaluation Rubric
 
 ###### 1. Functional Expectations
-* 3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
+* __3__: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
 
 ###### 2. Test-Driven Development
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data.
+* __4__: Application is broken into components which are well tested in both isolation and integration using appropriate data.
 
 ###### 3. Encapsulation / Breaking Logic into Components
-* 3: Application effectively breaks logical components apart but breaks the principle of SRP.
+* __3__: Application effectively breaks logical components apart but breaks the principle of SRP.
 
 ###### 4. Fundamental Ruby & Style
-* 3:  Application shows strong effort towards organization, content, and refactoring.
+* __3__:  Application shows strong effort towards organization, content, and refactoring.
 
 ###### 5. Enumerable & Collections
-* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+* __3__: Application demonstrates comfortable use of appropriate Enumerable methods
 
 #### Battleship
 
@@ -88,19 +88,19 @@ Notes:
 The project will be assessed with the following rubric:
 
 ###### 1. Fundamental Ruby & Style
-* 3:  Application shows strong effort towards organization, content, and refactoring
+* __3__:  Application shows strong effort towards organization, content, and refactoring
 
 ###### 2. Enumerable & Collections
-* 3: Application demonstrates comfortable use of several Enumerable techniques
+* __3__: Application demonstrates comfortable use of several Enumerable techniques
 
 ###### 3. Test-Driven Development
-* 3: Application is well tested but does not balance isolation and integration tests
+* __3__: Application is well tested but does not balance isolation and integration tests
 
 ###### 4. REPL Interface
-* 3: Application's REPL is clear and pleasant to use
+* __3__: Application's REPL is clear and pleasant to use
 
 ###### 5. Breaking Logic into Components
-* 3: Application effectively breaks logical components apart with clear intent and usage
+* __3__: Application effectively breaks logical components apart with clear intent and usage
 
 
 ## Team
@@ -131,16 +131,16 @@ Notes:
 The project will be assessed with the following rubric:
 
 ###### 1. Overall Functionality
-* 3: Application follows the complete spec and one extension
+* __3__: Application follows the complete spec and one extension
 
 ###### 2. Fundamental Ruby & Style
-* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* __3__:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
 ###### 3. Test-Driven Development
-* 3: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+* __3__: Application uses tests to exercise core functionality but leaves many common edge cases untested.
 
 ###### 4. Breaking Logic into Components
-* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* __3__: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
 ##### Peer Feedback
@@ -172,23 +172,23 @@ Overall really well done
 Did I4
 
 ###### 1. Functional Expectations
-3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+* __3__: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
 ###### 2. Test-Driven Development
-4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+* __4__: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 ###### 3. Encapsulation / Breaking Logic into Components
-3: Application effectively breaks logical components apart but breaks the principle of SRP
+* __3__: Application effectively breaks logical components apart but breaks the principle of SRP
 
 ###### 4. Fundamental Ruby & Style
-4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+* __4__: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
 ###### 5. Enumerable & Collections
-4: Application consistently makes use of the best-choice Enumerable methods
+* __4__: Application consistently makes use of the best-choice Enumerable methods
 
 ###### 6. Code Sanitation
 The output from rake sanitation:all shows...
-4: Zero complaints(evaluation comments)
+* __4__: Zero complaints(evaluation comments)
 
 ##### Peer Feedback
 From __Kinan Whyte:__<br />
