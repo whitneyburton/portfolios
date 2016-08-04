@@ -11,12 +11,29 @@ Assessed by Mike Dao
 
 Mike noted that he was very impressed by the way I used the learnings I gained from my Mentor and applied them to my work. He was impressed that I understood what my mentor showed me, learned more about it on my own, and then was able to describe and defend the use of it in my assessment. He suggested I write a blog post about this use of creating a new hash.
 
-- Ruby Syntax & API - 3 - Developer is able to write Ruby with some debugging of fundamental concepts
-- Completion and Progress - 4 - Developer fully completes baseline assignment and one of the Challenge options.
-- Testing - 4 - Developer excels at taking small steps and using the tests for both design and verification
-- Workflow - 3 - Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-- Collaboration - 4 - Developer actively seeks collaboration both before implementing, while in motion, and when stuck
-- Enumerable & Collections - 3 - Application demonstrates comfortable use of appropriate Enumerable methods
+- Ruby Syntax & API 
+
+  3 - Developer is able to write Ruby with some debugging of fundamental concepts
+
+- Completion and Progress
+
+  4 - Developer fully completes baseline assignment and one of the Challenge options.
+
+- Testing
+
+  4 - Developer excels at taking small steps and using the tests for both design and verification
+
+- Workflow
+
+  3 - Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+- Collaboration
+
+  4 - Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+- Enumerable & Collections
+
+  3 - Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
@@ -101,7 +118,7 @@ Notes:
 
 - Overall Functionality - 2 - Application converts to Braille and back successfully
 - Fundamental Ruby & Style - 3 - Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-Test-Driven Development - 3 - Application uses tests to exercise core functionality but leaves many common edge cases untested.
+- Test-Driven Development - 3 - Application uses tests to exercise core functionality but leaves many common edge cases untested.
 - Breaking Logic into Components - 4 - Application effectively breaks logical components apart with clear intent and usage
 
 Feedback to Me:
