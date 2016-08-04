@@ -189,3 +189,12 @@ Points: 295/300
 * Pre-work guide.
 * I have not been an asshole, at least not intentionally.
 * Lola gives her regards.
+
+# Outcome
+
+* End of Module Assesment: 3
+* Individual Work & Projects: 3
+* Group Work & Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
