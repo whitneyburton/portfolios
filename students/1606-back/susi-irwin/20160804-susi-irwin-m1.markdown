@@ -172,7 +172,7 @@ Feedback to Me:
 
 #### Black Thursday
 
-* [GitHub URL](https://github.com/rsbarbo/black_thursday)
+* [GitHub URL](https://github.com/susiirwin/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 This was a two week paired project and it tested everything we had learned plus more. We dealt with real-world data from the online site, Etsy. We had to use shortened data sets to test immense amounts of code using TDD and a Spec Harness. We needed to read in multiple CSV files, parse the data, and write methods to evaluate the data and answer specific Business Intelligence questions.
