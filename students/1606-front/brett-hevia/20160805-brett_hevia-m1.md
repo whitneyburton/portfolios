@@ -132,15 +132,20 @@ While I was a generally helpful and pleasant classmate, I definitely didn't enga
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 3.25 - This is just my actual score on the assessment.
-* **B: Individual Work & Projects**: 2 - I did a poor job of keeping up with my portfolio.
+* **B: Individual Work & Projects**: 3 - I did a poor job of keeping up with my portfolio.
 * **C: Group Work & Projects**: 3 - I feel like I definitely made positive, valuable contributions to all the projects I was in. Moving forward, I'd like to focus on getting better and more willing at giving constructive criticism in feedback.
 * **D: Community Participation**: 2 - I talked about this above, but I didn't do a great job of engaging with the non-FE community. I do think that I was a helpful and supportive classmate, though.
 * **E: Peer & Instructor Feedback**: 3, I guess. My partners and classmates have at least pretended to like working with/being around me.
 
 ### Notes
+didn’t have many expectations, was worried would be biting off more than he could chew. Trusted he could pick it up.
 
-( Leave blanks for reviewers )
+Has been more organized than expected, not as overwhelmed as he thought he’d be.
+
+Idea Box was the hardest project, struggled with it. In the last couple of days figured it out. Idea Box was a turing point, the struggled and fighting with it made him so much better at JS. It was great to see.
+
+Staff: get more involved with community, and mentoring other students
+
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS

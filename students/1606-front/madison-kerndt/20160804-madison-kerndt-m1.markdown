@@ -4,7 +4,7 @@
 ### Areas of Emphasis
 
 ####Summary:
-This module I embarked on a whole new journey to conquer my fears and attack an interest head on. Prior to Turing I was minorly technical. I was frustrated by my limitations and inabilities as it applied to website design and construction. I was afraid that computer programing would prove to be too difficult or even impossible if not met with natural inclination. This module I set out to prove to myself that grasping computer programming concepts is not beyond my reach. I aim to kindle the burning interest to solve complex problems and soon meet the challenge with ability and expertise.
+This module I embarked on a whole new journey to conquer my fears and attack an interest head on. Prior to Turing I was minorly technical. I was frustrated by my limitations and inabilities as it applied to website design and construction. I was afraid that computer programing would prove to be too difficult or even impossible if not   met with natural inclination. This module I set out to prove to myself that grasping computer programming concepts is not beyond my reach. I aim to kindle the burning interest to solve complex problems and soon meet the challenge with ability and expertise.
 
 ####Goals:
 * Have career options that incorporate my own background in design and technology startups
@@ -328,6 +328,14 @@ Stay Sane while Kicking Butt:
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
+Started feeling not terribly technical, has become a strong member of this cohort.
 
+Needs to work on focusing on building smaller pieces of functionality. You can get too focused on the big picture and lose site of the small steps that you have to take to get there.
+
+Future goals: get involved with Kids Who Code work with Kumbo
+
+Goals for mod2: public speaking, more community involvement
 
 ### Outcome
+
+PASS

@@ -167,8 +167,18 @@ engagement in mod two.
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Significant role in helping with things around Champa
+- Here are my terrible notes:
+solid start and finish
+feels good about how things went
+steve: in top half of class, feels good
+better experience as a whole
+started solid stayed solid
+
+Struggled in the backend program, but feels like this has been a much better experience all around. Feels good about things went.
+
+From staff: we really appreciate how engaged you are, and how you are willing to jump in and help. He gives great feedback to us about things the students need from us ro things that aren’t working well or need adjusting.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS

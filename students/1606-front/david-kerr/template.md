@@ -158,9 +158,12 @@ I attempted to, with Peter, run the Accessibility posse but we came up short wit
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
+No expectations coming in, just wanted to learn a lot. Not flappable, “not the time to get stressed”.
 
-( Leave blanks for reviewers )
+Is good at solving problems, isn’t quite as strong at refactoring. Take that on as a personal challenge to get better at reworking and refactoring.
+
+Excited to get more involved with community,
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS

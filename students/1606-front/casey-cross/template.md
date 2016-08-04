@@ -232,9 +232,10 @@ attended several Girl Develop It MeetUps.
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
+was ok with html and css, wanted to learn about JS and all the things. didn’t know exactly what we would be teaching, but was excited to learning of it.
 
-( Leave blanks for reviewers )
+Took lots of opportunities to be involved, was really dedicated to SAB and very involved in slack, with backend students, etc.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS

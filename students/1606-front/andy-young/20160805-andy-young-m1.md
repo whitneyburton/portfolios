@@ -230,12 +230,13 @@ My goal is to get more involvement with education now that I've completed module
 - **A: End-of-Module Assessment**: 2.92
 - **B: Individual Work & Projects**: 2.8
 - **C: Group Work & Projects**: 3.1
-- **D: Community Participation**: 2.6
-- **E: Peer & Instructor Feedback**: 3.6
+- **D: Community Participation**: 3
+- **E: Peer & Instructor Feedback**: 4
 
 ### Notes
-(Instructor notes)
+Expectations to be challenged, was challenged. not the same person, so many new skills. has learned a ton, feels great about being here.
 
+All teammates have had nothing but positive things to say about working with Andy.
 
 ### Outcome
-(Instructor notes)
+PASS

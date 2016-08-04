@@ -1,6 +1,5 @@
 # Ben Godfrey - M1 Portfolio
 
-
 ### Areas of Emphasis
 
 My goals for Module 1 were to further my fundamental knowledge of web development.<br>
@@ -69,7 +68,7 @@ From there, the user can hit the Reset Button to reset the page back to a white 
 
 **Scores: (0 to 4)**  
 Functional: 3  
-JS Style: 3
+JS Style: 3  
 Workflow: 4  
 HTML: 4  
 CSS: 3   
@@ -195,6 +194,13 @@ Agenda to discuss project launch:
 
 ### Notes
 
+overview: expectations, knew some HTML. Expected it to be like a 60+ hours a week job, seems accurate. No curve balls, has been a new way of learning but once got used to it it’s been good.
 
+idaebox was confusing, lots of `for` loops which was confusing.
+
+Staff: technically there, really easy to work with, take feedback and direction well. Very open to constructive criticism, is kind and patient with everyone.
+
+community: went to some meet ups, found out about turing from david baker at the ember meet up, feels like a part of the basement, likes to be around the backend students and helping them out out.
 
 ### Outcome
+PASS

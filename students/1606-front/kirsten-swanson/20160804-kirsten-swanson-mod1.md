@@ -11,7 +11,10 @@ During Module One I was determined to become solid with the fundamentals of HTML
 * Verbally communicated my logic before implementing the code
 * Communicated clearly and was fun to work with
 
-Progression/Completion: 3 <br> JS Style: 3 <br> Workflow: 3 <br> Collaboration: 4
+Progression/Completion: 3  
+JS Style: 3  
+Workflow: 3  
+Collaboration: 4
 
 Evaluator: Jhun
 
@@ -136,7 +139,7 @@ On July 11th and July 24th I wrote technical blog posts on Medium.
 
 On July 12th, I contacted the Colorado Center for the Blind to be partners for our accessibility testing for the Accessibility posse group. Heard back from them that they would be interested, but still waiting to coordinate an actual game plan.
 
-Hilary Lewis interviewed me about Turing and now she has been accepted and is in the 1608 cohort. 
+Hilary Lewis interviewed me about Turing and now she has been accepted and is in the 1608 cohort.
 
 ### Soft skills
 * [DTR with Jeff Duke](https://docs.google.com/document/d/1eFecFKfEHieZ_2NJHo8P2i06KGhejAlKGsQOk6DFD6Y/edit?usp=sharing)
@@ -150,13 +153,15 @@ Hilary Lewis interviewed me about Turing and now she has been accepted and is in
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: 3
+* **D: Community Participation**: 4
+* **E: Peer & Instructor Feedback**: 4
 
 ### Notes
+coming into the program wanted to get fundamentals, with HTML CSS and JS. Wanted to work on project extensions whenever possible.
 
-( Leave blanks for reviewers )
+Needs to work on taking tiny steps as you work, rather than trying to build/solve the big problem instead of looking at each step you need to take to get there.
+
+Staff: great community engagement, taking initiative to lead sessions, and be involved.
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS

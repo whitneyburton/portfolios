@@ -186,7 +186,6 @@ The feedback I received is below:
 Early in my time here at turing, I was invited to be a part of the Student Advisory Board and actively led and engaged our cohort in our weekly group retros. I conducted surveys and sat in on meetings with the staff. I was also involved in the Turing podcast and engaged in multiple outing with 1606. My mentor previously attended turing and I had the opportunity to spend time with him every week as well.
 I engaged in group meetups and networked with speakers as they visited our classes.
 
-
 ## Review
 
 ### Rubric Scores
@@ -202,9 +201,10 @@ I engaged in group meetups and networked with speakers as they visited our class
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
+walking in expectations, knew some css and html but really wanted to focus on JS. expected it to be hard, probably was pretty accurate. has has  a few moments of feeling discouraged and frustrated, but has pushed through and feels good.
 
-( Leave blanks for reviewers )
+community work has been a strong presence, wants to be involved more, teach more, help others more.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS

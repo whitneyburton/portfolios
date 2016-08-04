@@ -7,7 +7,7 @@ next modules. Honestly, considering Turing's reputation, I just wanted to move o
 I also consider this my first steps into a new career which I wish to be successful at.
 
 
-### End of Module Assessment
+### Game Time
 
 Functional: 3
 UI: 3 - 'fixed directions'
@@ -149,8 +149,7 @@ focus more on networking and attending after school events.
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS

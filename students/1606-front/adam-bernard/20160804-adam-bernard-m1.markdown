@@ -87,7 +87,6 @@ Testing: 3
 JS Style: 3
 Workflow: 3
 
-
 ## Community
 
 ### Giving Feedback
@@ -130,8 +129,5 @@ https://gist.github.com/ab255/0bc6cb246b614c04dc2d5fcbba700684
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS

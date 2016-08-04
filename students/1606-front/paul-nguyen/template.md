@@ -240,8 +240,24 @@ If all parties are satisfy with the end product. We can achieve this by everyone
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Work on git workflow
+- Take more breaks
+- Very niiiiice
+
+Goals for mod1 were mainly to learn basics, build a solid foundation. Feels he accomplished that. Assessment went well, solidly passed it. Staff agrees, ended the module solidly.
+
+Looking back, refactoring as stood out as an important step to take in projects. Importance of naming, structure, etc.
+
+IdeaBox pushed him the most. Localstorage was hard to get his head around, was a big learning experience.
+
+Snake was hard, lots of unexpected steps that were needed.
+
+Liked all the collaboration, mostly in the same space but some remote pairing.
+
+Wants to be a bigger part of the community, didn’t join in as much this module but wants to more moving forward. Wants to work on starting posses
+
+Staff: all student feedback about working with Paul is positive
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS

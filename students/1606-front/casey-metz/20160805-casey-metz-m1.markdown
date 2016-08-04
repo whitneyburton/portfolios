@@ -141,14 +141,18 @@ Lastly, I'll be demoing my Game-Time game tonight at Demo Night, along with my p
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3.5
-* **D: Community Participation**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 4
 * **E: Peer & Instructor Feedback**: 3.5
 
 ### Notes
 
-( Leave blanks for reviewers )
+has matched expectations, being with a mod2 student in the backend helped set expectations of hours that need to get put in. Overall, enjoying everything.
+
+has been involved with pahlka posse, very engaged, works over lunches sometimes weekends. wants to be able contribute more, and will be able to contribute longer and more substantially than backend students since they tend to only be able to contribute in late modules.
+
+Staff: takes feedback exceptionally well. Can take a concept or suggestion and incorporate it. You can see the big picture goal, then step back and take the small steps to get your there.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
