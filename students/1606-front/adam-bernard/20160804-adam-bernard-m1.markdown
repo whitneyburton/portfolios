@@ -128,6 +128,9 @@ https://gist.github.com/ab255/0bc6cb246b614c04dc2d5fcbba700684
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
+Didn’t have any expectations, so was open to seeing what would happen. Had no idea what we were going to be doing. Javascript has been a cool exciting thing to get into.
+
+Had hopes and dreams to b more involved in community things, but it has been a little tricky. Not sure how to dive in, wants to be more involved next module.
 
 ### Outcome
 PASS
