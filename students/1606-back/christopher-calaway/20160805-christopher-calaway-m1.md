@@ -107,7 +107,7 @@ The project will be assessed with the following rubric:
 
 ### Projects
 
-In Night Writer we created an app that will read plaintext English from a text file supplied by the user, translate it to braille, and output the result to another text file. It will additionally do the reverse to translate a braille text file back to plaintext English. This project emphasized creative algorithmic thinking and problem solving.
+Pair or group projects are excellent for excercising our communication skills and give us an opportunity to emulate team programming environments like we will see in the career field.
 
 #### Night Writer
 
@@ -115,7 +115,7 @@ In Night Writer we created an app that will read plaintext English from a text f
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 * [DTR Memo](https://drive.google.com/open?id=0B8m3yTTg2BNyQ1Y4V3Ytc0hTcXc)
 
-(description)
+In Night Writer we created an app that will read plaintext English from a text file supplied by the user, translate it to braille, and output the result to another text file. It will additionally do the reverse to translate a braille text file back to plaintext English. This project emphasized creative algorithmic thinking and problem solving.
 
 Assessed By: Mike
 
@@ -143,10 +143,18 @@ The project will be assessed with the following rubric:
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
+##### Peer Feedback
+From __Michael Hill:__<br />
+Calaway was a great partner on the Nightwriter project.  His attitude and approach to tackling difficult concepts was eye opening.  The more difficult the concept the more he seemed to enjoy it and push through to find the solution. His enthusiasm was encouraging and helped keep us on track through every step of project. His work ethic as well as his team first attitude make him ideal to pair with.  Hopefully we will get the chance to work together again in the future.
+
+From __Dan Broadbent:__<br />
+Calaway was a pleasure to work with on the Nightwriter project.  He was enthusiastic about the work we were doing and went above and beyond to make sure that we met all the base requirements on time.  We all had a great experience with this project because we did a thorough job defining the relationship, and everyone followed through with what was expected of them.
+
 #### Black Thursday
 
 * [GitHub URL]()
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [ReadMe](https://github.com/kswhyte/black_thursday/blob/master/README.md)
 * [DTR Memo](https://drive.google.com/open?id=0B8m3yTTg2BNyaW00c09pVHkwSk0)
 
 In Black Thursday we created a robust and intricut relational database and then added a business intelligence layer, using the vast data sets to gain deeper insights into the data and the interacitons between them than would be apparent just by reviewing them in spreadsheets.
@@ -156,6 +164,10 @@ In Black Thursday we created a robust and intricut relational database and then 
 (evaluation scores)
 
 (feedback to me)
+
+##### Peer Feedback
+From __Kinan Whyte:__<br />
+Calaway has offered great value to our biggest project this module in many ways. From a mathematical background, he offers a very strong way of looking at problems by holding an immense amount of complexity all at once, yet is able to hold a simple and concise approach to each step. This is an immensely valuable asset. Working with Calaway has been very smooth. He offers a skilled way of articulating abstract concepts in programming and is willing to look at problems through any new or fresh lenses that may be offered to the table. His collaborative skills are on point. He's able to push through difficult problems quickly, but the speed is not overwhelming or overdriven. Rather, the patience, poise, interpersonal communication, and awareness of workflow efficiency, make Calaway stand out so well in a team.
 
 ## Community
 
@@ -187,15 +199,6 @@ Dan was a pleasure to work with on our Nightwriter project. His communication wa
 
 From __Angela Lindow:__<br />
 From the first time I paired with Calaway, I was impressed by his natural talent for logical, algorithmic thinking. He doesn't shy away from difficult questions and is able to find the fun in working towards the solution. His calm, even-keel temperament makes him a pleasure to work with. He is always striving to find not just a solution, but the best solution.
-
-From __Kinan Whyte:__<br />
-Calaway has offered great value to our biggest project this module in many ways. From a mathematical background, he offers a very strong way of looking at problems by holding an immense amount of complexity all at once, yet is able to hold a simple and concise approach to each step. This is an immensely valuable asset. Working with Calaway has been very smooth. He offers a skilled way of articulating abstract concepts in programming and is willing to look at problems through any new or fresh lenses that may be offered to the table. His collaborative skills are on point. He's able to push through difficult problems quickly, but the speed is not overwhelming or overdriven. Rather, the patience, poise, interpersonal communication, and awareness of workflow efficiency, make Calaway stand out so well in a team.
-
-From __Michael Hill:__<br />
-Calaway was a great partner on the Nightwriter project.  His attitude and approach to tackling difficult concepts was eye opening.  The more difficult the concept the more he seemed to enjoy it and push through to find the solution. His enthusiasm was encouraging and helped keep us on track through every step of project. His work ethic as well as his team first attitude make him ideal to pair with.  Hopefully we will get the chance to work together again in the future.
-
-From __Dan Broadbent:__<br />
-Calaway was a pleasure to work with on the Nightwriter project.  He was enthusiastic about the work we were doing and went above and beyond to make sure that we met all the base requirements on time.  We all had a great experience with this project because we did a thorough job defining the relationship, and everyone followed through with what was expected of them.
 
 From __Chase Dunagan:__<br />
 Calaway is an amazing piece of the Mod-1 puzzle.  He is kind to everyone and his calm demeanor is contagious when interacting and pairing with him, which makes it easier to assess the problem at hand.  Whenever I go to Calaway with a question, he doesn’t hesitate to drop what he is doing, and mull over my problem with me.  He is exactly the type of intelligent, kind, and inclusive student that Turing hopes to attract.  And I look forward to working with him throughout my time at Turing.
