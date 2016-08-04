@@ -138,3 +138,13 @@ Notes:
 #### E: Peer & Instructor Feedback
 
 - 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+
+## Rubric Scores - Final
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 4
+* **E: Peer & Instructor Feedback**: 3
+
+## Outcome
