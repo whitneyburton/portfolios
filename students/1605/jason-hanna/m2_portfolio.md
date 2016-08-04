@@ -264,8 +264,13 @@ Jason, great job committing yourself to the project. You were willing to work la
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Understands the fundamentals of Rails
+* Showed improvement from mid mod to final assessment
+* Enjoyed Mix Master - may do it again for practice
+* Concepts started to click with the Mini Project
+* Needs to work on giving critical/constructive feedback
+* Work on speaking up more and sharing ideas
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
