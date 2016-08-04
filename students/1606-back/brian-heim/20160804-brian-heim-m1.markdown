@@ -1,4 +1,4 @@
-# (Brian Heim) - (M1) Portfolio
+# Brian Heim - (M1) Portfolio
 ## Individual
 
 ### Areas of Emphasis
