@@ -172,13 +172,9 @@ Colin! Working with you was a blast, I really enjoyed our pairing on the last co
 ## Review
 
 **A. End of Module Assessment: 3**
-
 **B. Individual Work & Projects: 3**
-
 **C. Group Work & Projects: 3**
-
 **D. Community Participation: 3**
-
 **E. Peer and Instructor Feedback: 3**
 
 ### Blogpost
@@ -189,4 +185,8 @@ Colin! Working with you was a blast, I really enjoyed our pairing on the last co
 
 ### Outcome
 
-( Leave blanks for reviewers )
+A. End of Module Assessment:  2
+B. Individual Work & Projects: 2
+C. Group Work & Projects: 3
+D. Community Participation: 3
+E. Peer and Instructor Feedback: 3
