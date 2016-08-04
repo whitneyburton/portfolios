@@ -110,11 +110,22 @@ David is a great person to be paired with on a project. He is a prolific coder w
 * [GitHub URL](https://github.com/kerrd89/Trawn)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-(Recreated TRON video game using vanilla javascript and canvas drawing)
+Recreated TRON video game using vanilla javascript and canvas drawing.  Game included scoring, ui enhancements, and difficulty toggles to allow users to alter the speed of the game.
 
-No Feedback received yet
+Feedback was mostly around pursuing improvements to known issues even after the project is over.  We had problems with collision testing not working with boosts and breaks which caused us to remove those features due to latency of a complete collision test.  There is likely a better way to do collision, and if so we can re-implement enhancements like brakes and boosts.
 
-No scores received yet
+* 4 - Application is fully playable and exceeds the expectations set by instructors
+User Interface
+* 4 - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
+Testing
+* 4 - Project has a running test suite that exercises the application at multiple levels. The test suite convers almost all aspects of the application and uses mocks and stubs when appropriate.
+JavaScript Style
+* 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+Workflow
+* 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application
+Code Sanitation
+The output from JSHint shows…
+* 4 - Zero complaints
 
 No feedback received yet
 
@@ -140,11 +151,11 @@ I attempted to, with Peter, run the Accessibility posse but we came up short wit
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
