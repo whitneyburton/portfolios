@@ -196,6 +196,8 @@ Mike Hill: Mike was a great partner on the Nightwriter project.  He had a great 
 
 David Tinianow: David was a great pairing partner.  He forced me to figure out what to do next when I really didn’t know what to do.  He did this by pointing me in the right direction without giving me the answer.  While it would have been easier to tell me the answer, he gave me time to struggle and get through the problems myself.  He also kept me on track by making me explain out loud why I thought my solution would work.  Thanks!
 
+David Davydov: I really enjoyed working with David, he was a great pairing partner.  His ability to visualize class structure and identify the best enumerables to use really helped us create a successful project.  We did a great DTR at the beginning of the project, which really came in handy whenever there was any friction between us.  We knew that we could be honest and open with each other and David did a great job of making sure we both respected each other’s learning styles and goals.  Can’t wait to work with him again.
+
 ### Being a Community Member
 
 From Calaway: Dan was a pleasure to work with on our Nightwriter project. His communication was excellent from the very first DTR through the end. He gave well thought out and constructive feedback and was very open to receiving any back. He was quick to make good suggestions, apply new concepts learned in class, and ask excellent questions that pushed us toward a successful finished product. I would consider myself lucky to be paired with Dan again on any future project.
