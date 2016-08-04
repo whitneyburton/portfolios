@@ -159,11 +159,20 @@ The project will be assessed with the following rubric:
 
 ### Giving Feedback
 
-(feedback from me)
+From Angela Lindow__<br />
+Angela has been an awesome asset to our Mod 1 cohort. As the leader of both Hopper Posse, of which I am a member, and my study group, Angela has been enormously helpful to me during the last six weeks in the intense journey through learning the fundamentals of coding. She is incredibly knowledgable, intelligent, caring, patient, and selfless in sharing her time, a combination which makes her a fantastic resource for all of us who have had the fortune of working with her. The Turing community is truly lucky to have her.
+
+From __Kris Sparks__<br />
+Kris has been an incredible help to our Mod 1 cohort over the past six weeks. His knowledge of the subjects and intelligence shows through immediately when you work with him. He openly admits that he may not pick up all the complex concepts as quickly as the top students at turing, and I think that is part of what makes him a fantastic teacher. He puts in long hours gaining a mastery of the material, then he has a good memory for which portions were the most difficult. I think this struggle gives him a unique ability to assist students through the intense deluge of information and concepts that is life at Turing. 
+He is very empathetic and has a knack for knowing when other students are struggling. I've seen him seemingly sense when someone has been stuck on a problem, but might not have built up the courage to ask someone, and approach that student preemptively to offer assistance. He is also selfless with his time and I've often seen him check through each classroom before he leaves for the day, already late in the evening, to ask anybody still working if they're doing okay or if they have any questions he can help with. Kris truly an asset to the students of the Turing community.
+
+From __Angela Lindow__<br />
+From __Angela Lindow__<br />
+From __Angela Lindow__<br />
 
 ### Being a Community Member
 
-From Angela Lindow__<br />
+From __Angela Lindow__<br />
 From the first time I paired with Calaway, I was impressed by his natural talent for logical, algorithmic thinking. He doesn't shy away from difficult questions and is able to find the fun in working towards the solution. His calm, even-keel temperament makes him a pleasure to work with. He is always striving to find not just a solution, but the best solution.```
 
 From __Kinan Whyte:__<br />
@@ -172,10 +181,10 @@ Calaway has offered great value to our biggest project this module in many ways.
 From __Michael Hill:__<br />
 Calaway was a great partner on the Nightwriter project.  His attitude and approach to tackling difficult concepts was eye opening.  The more difficult the concept the more he seemed to enjoy it and push through to find the solution. His enthusiasm was encouraging and helped keep us on track through every step of project. His work ethic as well as his team first attitude make him ideal to pair with.  Hopefully we will get the chance to work together again in the future.
 
-From Dan Broadbent:__<br />
+From __Dan Broadbent:__<br />
 Calaway was a pleasure to work with on the Nightwriter project.  He was enthusiastic about the work we were doing and went above and beyond to make sure that we met all the base requirements on time.  We all had a great experience with this project because we did a thorough job defining the relationship, and everyone followed through with what was expected of them.
 
-From Chase Dunagan:__<br />
+From __Chase Dunagan:__<br />
 Calaway is an amazing piece of the Mod-1 puzzle.  He is kind to everyone and his calm demeanor is contagious when interacting and pairing with him, which makes it easier to assess the problem at hand.  Whenever I go to Calaway with a question, he doesn’t hesitate to drop what he is doing, and mull over my problem with me.  He is exactly the type of intelligent, kind, and inclusive student that Turing hopes to attract.  And I look forward to working with him throughout my time at Turing.
 
 ### Playing a Part
