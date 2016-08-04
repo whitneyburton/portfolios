@@ -134,8 +134,13 @@ Thank you for the hard work on this project and over this project and fighting t
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
+
+
+- A: 3
+- B: 3
+- C: 4
+- D: 3
+- E: 3
 
 ( Leave blanks for reviewers )
