@@ -12,7 +12,7 @@ Finally being able to see the light at the end of the tunnel, flashbacks of Bina
 
 ### Individual Assessment
 * [Thought Box Demo](https://infinite-earth-94332.herokuapp.com/)
-* [Thought Box Github](https://github.com/alirezaandersen/adventure_time.git)
+* [Thought Box Github](https://gist.github.com/stevekinney/82831c5b25029415ce8b#file-simulated-assessment-md)
 
 125/125
 
@@ -25,8 +25,8 @@ I completed the following individual work this module:
 
 #### IdeaBox
 
-* [IdeaBox Github](https://github.com/alirezaandersen/adventure_time.git)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
+* [IdeaBox Github](https://github.com/alirezaandersen/idea_box)
+* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1602/module_4_assignments/ideabox2.0/README.md)
 
 Project Description
 
@@ -38,7 +38,6 @@ Score : 144/150
 #### ScaleUp!
 
 * [Outdoor Mobile Github](https://github.com/alirezaandersen/OutdoorMobile)
-* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
 Project Description
 
