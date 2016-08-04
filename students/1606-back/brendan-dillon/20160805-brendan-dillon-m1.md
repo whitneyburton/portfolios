@@ -116,13 +116,24 @@ Working in a pair on Black Thursday really helped me figure out how to organize 
 * [ReadMe](https://github.com/brendandillon/black_thursday/blob/master/README.md)
 * [DTR Memo](https://gist.github.com/brendandillon/035a11409866d746b27de0091a8015d7)
 
-In this two week project, Brian Heim and I wrote a program that reads data from a number of CSV files and returns business intelligence and analytics on that data.
+In this two week project, Brian Heim and I wrote a program that reads data from a number of CSV files and returns business intelligence and analytics on that data. It was assessed by Beth with the following results:
 
-(evaluation comments)
+* Testing: 188 examples, no failures
+* No sanitation errors
+* Spec harness passes, with one (excused) failure on the one_time_buyers_item test
+* Extension finds merchants who accept payment from expired credit cards
+* Solid ruby syntax, best choice enumerables
+* Overall thoughtful, strong execution of project
 
-(evaluation scores)
+Scores
+  + Functional Expectations: 4
+  + Test-Driven Development: 3
+  + Encapsulation/Breaking Logic into Components: 3.5
+  + Fundamental Ruby & Style: Strong 3
+  + Enumerable & Collections: 4
+  + Code Sanitation: 4
 
-(feedback to me)
+**Feedback**: Brendan has been fantastic to work with on Black Thursday. I am still amazed by how quickly he is able to implement a solution that requires little to no refactoring at all. His grasp of object relationships and enumerables is a major strength. Not only is he able to code effectively, he gives clear explanations of his thought process and has taught me quite a bit throughout each iteration of the project. As someone who can see the big picture, but can sometimes get stuck on the details, I have greatly benefitted from having Brendan as a partner. My only advice for him would be to not be afraid to assert himself when he has an idea, more often than not, his instincts are on-point.
 
 ## Community
 
@@ -137,8 +148,6 @@ In this two week project, Brian Heim and I wrote a program that reads data from 
 ### Being a Community Member
 
 **Ryan Workman**: During ParaMorse, I received Brendan's code after we all swapped codes.  Brendan is an extremely strong coder with a great understanding of how to write clear, concise code.  On a personal level, Brendan is one of the easiest people to talk to in our cohort.  He is very reserved, but when he speaks up, he has very profound and well thought out points.  I would love to pair with him in the future.  I'm sure Brendan can teach me a whole lot.
-
-**Brian Heim**: Brendan has been fantastic to work with on Black Thursday. I am still amazed by how quickly he is able to implement a solution that requires little to no refactoring at all. His grasp of object relationships and enumerables is a major strength. Not only is he able to code effectively, he gives clear explanations of his thought process and has taught me quite a bit throughout each iteration of the project. As someone who can see the big picture, but can sometimes get stuck on the details, I have greatly benefitted from having Brendan as a partner. My only advice for him would be to not be afraid to assert himself when he has an idea, more often than not, his instincts are on-point.
 
 **Jesse Spevack**: What impresses me most about Brendan’s coding is his structural creativity. During a conversation about Battleship, Brendan explained that he intended to make each space a class. I thought this was a really creative solution that contributed significantly to the successful completion of my own project. During a second conversation about Black Thursday, Brendan discussed how he built multiple Analyst classes to help organize the code. I also took this idea and broke my own Sales Analyst into a set of modules and classes.
 
