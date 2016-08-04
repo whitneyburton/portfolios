@@ -223,6 +223,8 @@ I have tried hard to contribute to the community. I have been part of the LGBTur
 
 My biggest contribution to the community has been in the realm of teaching. On an individual level I have made an effort make myself available to my peers, and I believe my feedback shows that I have been successful at this goal. This has been rewarding and enjoyable. I have also volunteered to help Beth with teaching. I helped with the HTML/CSS course at the library, and pairing with students when CTIA came to Turing. Not only was this rewarding, but it helped me realize how much I have learned since coming to Turing
 
+With only a few hours of notice, I lead a electronics workshop for my peers. This was a very enjoyable way to apply my physics background to Turing and my cohort.
+
 ## Review
 
 ### Rubric Scores
