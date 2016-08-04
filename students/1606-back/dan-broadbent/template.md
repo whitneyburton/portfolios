@@ -172,12 +172,12 @@ The project will be assessed with the following rubric:
 
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
-#### Black Thursday
+### Black Thursday
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/kctrlv/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-(description)
+We built a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
 
 (evaluation comments)
 
