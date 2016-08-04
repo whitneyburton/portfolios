@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-Academically, my primary goal when commencing matriculation at Turing was to come in *tabula rasa*, leaving all past experience, expectation, and ego behind, and to completely go "all in" for the Turing method. My hope was that with this approach I would be best prepared to absorb any and all material that would be thrown at us. I also set a goal for myself to not lose sight of the fact that I'm here because I love learning and coding, as well as to maintain an eager curiosity throughout my time here. I am proud to report that I stuck to these goals and it has paid off in spades. In retrospect it's difficult to believe the immense amount of knowledge I have absorbed in just six weeks, and the fact that I've been thoroughly enjoying it as well.
+Academically, my primary goal when commencing matriculation at Turing was to come in *tabula rasa*, leaving all past experience, expectation, and ego behind, and to completely go "all in" for the Turing method. My hope was that with this approach I would be best prepared to absorb any and all material that would be thrown at us. I also set a goal for myself to not lose sight of the fact that I'm here because I love learning and I love coding, as well as to maintain an eager curiosity throughout my time here. I am proud to report that I stuck to these goals and it has paid off in spades. In retrospect it's difficult to believe the immense amount of knowledge I have absorbed in just six weeks, not to mention the fact that I've been thoroughly enjoying it as well.
 
 Non-academically, a second goal I set for myself was with regard to self-care. Specifically, my goal was to eat well and sleep enough every day. I'm also glad to report that I have succeeded in both of these endeavors through the duration of the module.
 
@@ -31,7 +31,7 @@ Non-academically, a second goal I set for myself was with regard to self-care. S
 
 ### Projects
 
-Projects at Turing are generally assigned on a weekly basis. They can take dozens of hours and are meticulously crafted to such that the concepts being learned at the time will be required to complete them.
+Projects at Turing are generally assigned on a weekly basis. They can take dozens of hours and are meticulously crafted such that the concepts being learned at the time will be required to complete them.
 
 #### Flashcards
 
@@ -230,9 +230,9 @@ Calaway is an amazing piece of the Mod-1 puzzle.  He is kind to everyone and his
 
 ### Playing a Part
 
-During Module 1 I have attended all Turing functions, such as guest speakers, lightning talks, meet & greets, alumni homecoming, et cetera. I have also made it a point to go the extra mile to try to raise morale among my peers with lavish enthusiasm, positive feedback, and high-fives during stressful study times.
+During Module 1 I have attended all Turing functions, such as guest speakers, lightning talks, meet & greets, alumni homecoming, et cetera. I have also made it a point to go the extra mile to try to raise morale among my peers with lavish enthusiasm, positive feedback, and celebrating all successes with high-fives, especially during stressful study times.
 
-I am excited to report that I have coordinated with Matthew Campbell and have volunteered to take over organizing the Mod 2 >> Mod 1 pairing schedule. I truly appreciate the assistance they have offered us and I have been eagerly anticipating the day that I will be in a position to help out the next generation of Turing students. I believe my love of learning and teaching, my talent for organizing community functions, and my ability to communicate things in a clear and consice mannor will make me well suited to take over this position.
+I am excited to report that I have coordinated with Matthew Campbell and have volunteered to take over organizing the Mod 2 >> Mod 1 pairing schedule. I truly appreciate the assistance 1605 has offered us and I have been eagerly anticipating the day that I will be in a position to help out the next generation of Turing students. I believe my love of learning and teaching, my talent for organizing community functions, and my ability to communicate things in a clear and consice mannor will make me well suited to take over this position.
 
 ## Self-Assessment
 
