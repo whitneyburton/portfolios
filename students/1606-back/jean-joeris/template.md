@@ -98,7 +98,7 @@ Notes are not in my assesment, here is my best attempt to remember the feedback 
 #### Battleship
 
 * [GitHub URL](https://github.com/JeanJoeris/battleship)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/paramorse.markdown)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
 
 The goal of the project was to build a working game of battleship interacted with via a REPL/CL interface.
 
@@ -134,7 +134,7 @@ Notes:
 * [GitHub URL](https://github.com/JeanJoeris/black_thursday)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 * [DTR Memo](https://docs.google.com/document/d/1vg2otHcFaIXPY6s9Hhui6vU5dI76QKSpuFp0uqnX4uE/edit#)
-* [Readme]()
+* [Readme](https://github.com/JeanJoeris/black_thursday/blob/master/README.md)
 The goal of this project was to build a sales engine to store data from a simulated store. With this in place, the data was to be evaluated to help drive business logic
 
 (evaluation comments)
