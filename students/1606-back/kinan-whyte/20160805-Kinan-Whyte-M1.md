@@ -237,7 +237,9 @@ When I paired with Kinan, I immediately noticed his willingness to learn and abi
 * **A: End-of-Module Assessment**: 2.5
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
-* **D: Community Participation**: 4
-* **E: Peer & Instructor Feedback**: 4
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
+
+RETAINED
