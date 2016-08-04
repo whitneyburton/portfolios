@@ -131,7 +131,7 @@ The project will be assessed with the following rubric:
 
 ### Projects
 
-> Paired projects in Module 1 focused on Git Workflow, pair programming methodologies and became increasingly more complex by the addition of parsing large CSV files.
+Paired projects in Module 1 focused on Git Workflow, pair programming methodologies and became increasingly more complex by the addition of parsing large CSV files.
 
 ### Night Writer
 
@@ -205,7 +205,7 @@ Overall, Jasmin was a fantastic partner and is a phenomenal cohort mate."
 
 >To Susi Irwin: Having Susi as my partner on Night Writer was a gift within itself. She is extremely easy going, intelligent and kind. Even though she has important priorities at home, we both were able to effectively collaborate during times we were apart and paired well when together. Her communication skills are on point; there never was a time that I did not know what she was working on or how she was feeling. She should know that she is more technically inclined than she gives herself credit for and that she is very good at knowing when she needs to ask for help. Because of that, she was a significant reason as to why we were successful with Night Writer in general.
 
->To Jesse Spevek: Dream Team status! Working with Jesse on Black Thursday was an excellent learning opportunity in more ways than one. Not only is he a Google/Excel spreadsheet whiz, he’s also a stickler with TDD which are two things that I wish I were better at. Jesse led the charge in terms of highly-organized file structures and gorgeous tests. While working with him, I learned that he has high standards for himself, but he shouldn’t let those translate into unwarranted anxiety and pressure as often in the future. He’s extremely intelligent and talented with the crushing of the code, so he shouldn’t worry as much. I have no idea how he juggled all of the hours he spent on this project while also keeping up with his baby twins and wife, but we paired effectively together and I thoroughly enjoyed working with him. 
+>To Jesse Spevek: Dream Team status! Working with Jesse on Black Thursday was an excellent learning opportunity in more ways than one. Not only is he a Google/Excel spreadsheet whiz, he’s also a stickler with TDD which are two things that I wish I were better at. Jesse led the charge in terms of highly-organized file structures and gorgeous tests. While working with him, I learned that he has high standards for himself, but he shouldn’t let those translate into unwarranted anxiety and pressure as often in the future. He’s extremely intelligent and talented with the crushing of the code, so he shouldn’t worry as much. I have no idea how he juggled all of the hours he spent on this project while also keeping up with his baby twins and wife, but we paired effectively together and I thoroughly enjoyed working with him.
 
 ### Being a Community Member
 
