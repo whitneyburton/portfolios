@@ -245,8 +245,13 @@ I would say that session, in the way they conducted it, should be given for each
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Proud of all the TDDing this module
+* Learned a lot about testing
+* Improved on each project with working with others and the professional skills that come along with group projects
+* Rails Mini Project helped solidify understanding
+* Code review process on Little Shop could be better
+* Working on being more hands off during group projects
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
