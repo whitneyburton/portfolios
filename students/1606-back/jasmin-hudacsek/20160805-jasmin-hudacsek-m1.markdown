@@ -270,11 +270,11 @@ The output from `rake sanitation:all` shows...
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 3.5
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
 * **D: Community Participation**: 4
-* **E: Peer & Instructor Feedback**: 3.5
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
