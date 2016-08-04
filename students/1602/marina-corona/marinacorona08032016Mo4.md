@@ -205,3 +205,11 @@ them by delivering specific, kind, and actionable feedback. They accelerate thei
 own growth by taking in and acting on the feedback of their peers and instructors.
 
 * 3
+
+# Outcome
+
+* End of Module Assesment: 3
+* Individual Work & Projects: 3
+* Group Work & Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
