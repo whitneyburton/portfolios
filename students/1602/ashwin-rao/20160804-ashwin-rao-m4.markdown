@@ -124,6 +124,12 @@ Total | 143 of 150
 
 "It was great working with you. I think we achieved a lot of the goals we set for ourselves - to push ourselves to write good and to not hate each other at the end. I appreciated your dedication to do things the right way, whether that was in refactoring or not being satisfied with good-enough collision detection. I have a lot of respect for your determination to solve tough problems, too. I was impressed with how you figured out the refactoring of the planes class and solved that bug the night before the project was due that kept the game from being able to start over again. I appreciated the times when we were pairing but you knew that you needed a few minutes to mess with the code yourself, and told me that's what you needed. I would encourage you to continue trying to build your awareness of when you are doing that so that your partner doesn't find himself sitting there watching you play with the code. But like I said, most of the time you did tell me that's what was going on, and that's all I really needed. Overall, a great experience. Now that I'm a bit more removed from the project, I'm satisfied with what we built. And might actually be happy with it once we get those SVGs in place :)"
 
+**From Thom Pickett, GameTime teammate:**
+
+"Ashwin was amazing at figuring out the big picture. He was very inventive and came up with great solutions. When we realized we couldn't use standard collision detection, Ashwin came up with an elegant solution for customizable shapes in collision detection. 
+
+Ashwin was also great to pair with. He'd continuosly ask questions that moved the project forward, and both invited and challenged new ideas and solutions. This lead to a very creative atmoshphere."
+
 =======================================
 
 ## Community
