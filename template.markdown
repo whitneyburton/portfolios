@@ -165,14 +165,14 @@ Jesse Spevack - "Jesse has an amazing personality, and inspiring attitude toward
 * Participated in 1606 Backend Slack channel.
 * Shared coded and encoded versions of Barrack Obama's Orlando speech for ParaMorse project on 1606 Backend Exclusive Slack Channel.
 * Shared planning docs for battleship project on 1606 Backend Exclusive Slack Channel.
-* Shared mock csv data for Black Thursday project on 1606 Backend Exclusive Slack Channel.
+* Shared fixture csv data for Black Thursday project on 1606 Backend Exclusive Slack Channel.
 * Attended and participated in multiple imposter lunches.
 * Attended and participated in every guest speaker Friday morning event.
 * Participated in Friday lunch running group (25 miles to date).
 * Diligently attended to cleaning responsibility.
-* Periodically cleaned up pairing stations.
+* Periodically cleaned up pairing stations. I'm on the verge of becoming a zelot in service of the orderly pairing station cause.
 * Periodically emptied and loaded dishwashers.
-* Periodically cleaned coffee station.
+* Periodically cleaned coffee station. Made terrible coffee once.
 
 ## Review
 
