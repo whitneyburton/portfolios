@@ -181,7 +181,7 @@ This was a two week paired project and it tested everything we had learned plus 
 
 (evaluation scores)
 
-(Feedback to me)
+"I worked with Susi during our Black Thursday project. I am astonished how much progress she has made in her technical skills in such a short period of time. Her ability to ask the right questions, and understand answers is nothing but amazing. Susi is definitely a quick learner, and I am overall pleased to have worked with her. One feedback I would like to give Susi is to remember to always slow down, read the error messages, and remember that the most important thing throughout the project is the learning curve (ideally always pointing towards the top). Thanks for being an amazing person, super dedicate, and for keeping me on my toes!" - Raphael Barbo
 
 ## Community
 
