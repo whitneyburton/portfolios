@@ -196,8 +196,13 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Feels pretty comfortable with Rails
+* Enjoyed Mix Master as a tutorial and to use as a reference
+* Revisiting Idea Box over intermission week
+* Would have liked to emphasize DTR for Rush Hour - things would have gone more smoothly
+* Emphasized working on challenging concepts during Little Shop
+* Going to work on increasing community participation
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
