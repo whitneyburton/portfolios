@@ -7,7 +7,7 @@
 
 ### End of Module Assessment
 
-Assessed By: Jeff
+Assessed By: Jeff Casimir
 Challenge: What can I make
 
 Notes:
@@ -45,11 +45,32 @@ Notes:
 
 A business is only as smart as its data. Gabi and I built a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
 
-(evaluation comments)
+Assessed By: Mike Dao
 
-(evaluation scores)
+Notes:
+* 180 tests, finished in under 1 second
+* Tests could be more robust at points, but generally good testing.
+* Uses a hash approach to traversing verticals
+* Some small opportunities to refactor
 
-(feedback to me)
+### 1. Functional Expectations
+* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+### 2. Test-Driven Development
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+* 4: Application is expertly divided into logical components each with a clear, single responsibility
+
+### 4. Fundamental Ruby & Style
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+### 5. Enumerable & Collections
+* 4: Application consistently makes use of the best-choice Enumerable methods
+
+### 6. Code Sanitation
+The output from `rake sanitation:all` shows...
+* 3: Five or fewer complaints
 
 #### Battleship
 
@@ -59,7 +80,7 @@ A business is only as smart as its data. Gabi and I built a system able to load,
 In this project, I used Ruby to build an implementation of the classic game Battleship.
 I built a playable game of Battleship that runs in a REPL interface. The game allows a single human player to play against a (simplistic) computer player choosing a difficulty which changes the dimensions of the board.
 
-Assessed By: Mike
+Assessed By: Mike Dao
 
 Notes:
 * 100 tests, 18 failing.
@@ -170,6 +191,8 @@ A simple program that can detect mistakes in a credit card number.  The first pr
 
   **Susi Irwin** - Ryan's enthusiasm and positivity are absolutely contagious. His passion for coding and helping others make him an amazing asset to our cohort as well as the Turing community at large. At times his passion and enthusiasm take him down adventurous Ruby paths, but a gentle nudge to follow the spec brings him back immediately. He paired with me on Battleship and was an incredible partner through some very challenging code. His patience and encouraging words allowed me to stop doubting myself and be more confident in my learning. I have not received so many high-fives in one afternoon in my entire life!
 
+  **David Davydov** - Although I didn't work extensively with Ryan, I could tell he has a strong passion for programming interactive code.  When I first inherited his codebase on ParaMorse, I was stressed because it was so different from what I was used to.  Being assigned Ryan's code did boost my code-reading skills, I was able to understand it, refactor it, and it served as a great learning experience for me.  Ryan brings a passion to any team that he's on. I know that if he combines his passion at writing fun, interactive applications with continuous improvements in code readability, nothing will stop him.
+
 ### Playing a Part
 
   The first day of wrap-up, I was overwhelmed by how awesome and supportive the Turing community is.  I couldn't wait to get involved and become a key part of the group.  Since then, I have made a mark in my cohort, providing support and help on projects.  I have spent several hours helping others work through problems and making sure that they understand **why** certain blocks of code do what they do.
@@ -182,7 +205,7 @@ A simple program that can detect mistakes in a credit card number.  The first pr
 
 * **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
