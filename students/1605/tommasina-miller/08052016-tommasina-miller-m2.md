@@ -315,7 +315,13 @@ Rubric Scores
 
 Notes
 
-( Leave blanks for reviewers )
+* Accomplished almost all of the goals coming into the module
+* Feels solid with Rails after Little Shop
+* Found MixMaster helpful to use as a reference
+* Rails Mini Project helped things sink in more
+* Continuing to work on offering ideas and suggestions in a group
+* All day workday with Pahlka Possee this module
+
 Outcome
 
-( Leave blanks for reviewers )
+Pass
