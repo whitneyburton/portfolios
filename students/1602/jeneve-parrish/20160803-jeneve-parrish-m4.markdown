@@ -41,10 +41,7 @@ This module I wanted to learn everything I could about best practices in front-e
 
 **3**: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-
-### Work
-
-#### IdeaBox
+## IdeaBox
 
 * [GitHub URL](https://github.com/jeneve/idea-box)
 * [Deployed App](https://jeneve-has-ideas.herokuapp.com/)
@@ -52,25 +49,25 @@ This module I wanted to learn everything I could about best practices in front-e
 
 Idea Box is a simple crud app for saving and rating ideas. The app serves a single html page that dynamically updates as the user interacts. Both the Rails Api and the client-side interface were built and deployed in only 3 days
 
-## Instructor Evaluation Points
-​
-### Specification Adherence
-​
+### Instructor Evaluation Points
+
+#### Specification Adherence
+
 * **10 points**: The application consists of one page with all of the major functionality being provided by jQuery. There is no use of `format.js` in Rails. There is no use of unobstrusive JavaScript. There are no front-end frameworks used in the application. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 ​
-### User Interface
+#### User Interface
 ​
 * **5 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
 ​
-### Testing
+#### Testing
 ​
 * **10 points** - Project has a running test suite that exercises the application at multiple levels including JavaScript tests.
 
-### Ruby and Rails Quality
+#### Ruby and Rails Quality
 ​
 * **9 points**
 ​
-### JavaScript Style
+#### JavaScript Style
 ​
 * **8 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 ​
@@ -78,13 +75,11 @@ Idea Box is a simple crud app for saving and rating ideas. The app serves a sing
 
 * **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 *
-### Total Points: 147/150
+#### Total Points: 147/150
 
-## Team
+## Team Projects:
 
-### Projects
-
-#### GameTime - TyprrBurn
+## GameTime - TyprrBurn
 
 * [GitHub URL](https://github.com/jeneve/typrr-burn)
 * [Deployed Game](https://jeneve.github.io/typrr-burn/)
@@ -92,43 +87,69 @@ Idea Box is a simple crud app for saving and rating ideas. The app serves a sing
 
 TyprrBurn is a browser game that helps players learn typing. Built with a partner, it uses JavaScript and Webpack with an animated HTML5 canvas to present a fun and addictive game where a player must type quickly to keep an origami bird flying.
 
-## Evaluation Comments and Scores
-
-## Instructor Feedback
+## Instructor Feedback, Comments & Scores
 
 165/150
 
-## Playability Features
+### Playability Features
 
-## Extensions
+#### Extensions
 
 * **25 points** - Playable and unique game - beyond expectations
 
-### Functional Expectations
+#### Functional Expectations
 
 * **35 points** - Application is fully playable and exceeds the expecations set by instructors
 
-### User Interface
+#### User Interface
 
 * **15 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
 
-### Testing
+#### Testing
 
 * **30 points** - Project has a running test suite that exercises the application at multiple levels. The test suite convers almost all aspects of the application and uses mocks and stubs when appropriate.
 
-### JavaScript Style
+#### JavaScript Style
 
 * **20 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-### Workflow
+#### Workflow
 
 * **25 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
-### Code Sanitation
+#### Code Sanitation
 
 The output from JSHint shows…
 
 * **15 points** - Zero complaints
+
+## ScaleUp - Looking For React Front End
+
+* [Original Assignment Spec](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/boxtrot_prime_project.markdown)
+* [GitHub Repo](https://github.com/LookingForMe/lookingForFrontEnd)
+* [Deployed App](https://looking-for.herokuapp.com/#/?_k=75x97l)
+* [BaseCamp](https://3.basecamp.com/3278136/projects/495148)
+
+**Summary of my work on the project**
+
+I did research into animating with CSS, using the Sketch design app and SVG. I paired with my team to refactor the code in the project and fix some major bugs, and in so doing learned a lot about the structure and workings React components. I think we did work that will enormously help the next teams make real progress in adding new features and improving User Experience.
+
+### [Evaluation Notes and Scores](https://github.com/turingschool/ruby-submissions/blob/master/1602/module_4_assignments/scale-up-wk-5/jeneve-parrish-scale-up-wk5.markdown)
+
+**150/150**
+
+**40**: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
+Team Participation (40 points)
+
+**40**: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
+Hourly Work (30 points)
+
+**30**: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
+Risk Taking and Creativity (40 points)
+
+Instructor/Developer will select one feature in the project to review for this section of the rubric.
+
+**40**: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
 
 ## Community
 
