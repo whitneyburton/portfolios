@@ -90,10 +90,10 @@ Pairing with mod3 and front end students
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assesment: 4
+* Individual Work & Projects: 3
+* Group Work & Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
