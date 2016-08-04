@@ -100,13 +100,13 @@ Extensions
 25 points - Playable and unique game - beyond expectations
 Functional Expectations
 
-35 points - Application is fully playable and exceeds the expecations set by instructors
+35 points - Application is fully playable and exceeds the expectations set by instructors
 User Interface
 
 15 points - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
 Testing
 
-30 points - Project has a running test suite that exercises the application at multiple levels. The test suite convers almost all aspects of the application and uses mocks and stubs when appropriate.
+30 points - Project has a running test suite that exercises the application at multiple levels. The test suite covers almost all aspects of the application and uses mocks and stubs when appropriate.
 JavaScript Style
 
 20 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
@@ -155,6 +155,8 @@ Through trial and error, I learned how to balance school assignments, personal j
 
 * I attended an LGBTuring event.
 * I tutored for the Pahlka Posse.
+* I participated in Security session after school.
+* I paired with front end students.
 
 
 # Portfolio Rubric
