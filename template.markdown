@@ -6,7 +6,7 @@
 I set out to complete every project with a score of three or higher in every category. I focused on test driven development (tdd) and object oriented programming. I focused on writing rigorously tested clean code. I worked to break problems down into smaller and more fundamental components in order to complete larger projects.
 
 ### End of Module Assessment
-
+Assessed By: Mike
 ##### 1. Ruby Syntax & API - 4: Developer is able to write Ruby with a minimum of reference or debugging.
 ##### 2. Completion and Progress - 4: Developer fully completes baseline assignment and one of the Challenge options.
 ##### 3. Testing - 3: Developer writes tests that are effective validation of functionality, but don't drive the design.
