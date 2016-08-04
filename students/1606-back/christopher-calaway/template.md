@@ -64,7 +64,7 @@ Notes:
 ###### 5. Enumerable & Collections
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
-#### (Project Name)
+#### Battleship
 
 * [GitHub URL](https://github.com/calaway/battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
@@ -108,10 +108,43 @@ The project will be assessed with the following rubric:
 
 (Intro)
 
-#### (Project Name)
+#### Night Writer
+
+* [GitHub URL](http://github.com/calaway/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+
+(description)
+
+Assessed By: Mike
+
+Notes:
+* reads and writes
+* does 160 characters
+* does capitaliation and numbers
+* 16 tests total
+* has a readme
+
+##### Evaluation Rubric
+
+The project will be assessed with the following rubric:
+
+###### 1. Overall Functionality
+* 3: Application follows the complete spec and one extension
+
+###### 2. Fundamental Ruby & Style
+* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+###### 3. Test-Driven Development
+* 3: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+
+###### 4. Breaking Logic into Components
+* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+
+#### Black Thursday
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 (description)
 
@@ -129,7 +162,10 @@ The project will be assessed with the following rubric:
 
 ### Being a Community Member
 
-(feedback to me)
+From __Kinan Whyte:__
+Calaway has offered great value to our biggest project this module in many ways. From a mathematical background, he offers a very strong way of looking at problems by holding an immense amount of complexity all at once, yet is able to hold a simple and concise approach to each step. This is an immensely valuable asset. Working with Calaway has been very smooth. He offers a skilled way of articulating abstract concepts in programming and is willing to look at problems through any new or fresh lenses that may be offered to the table. His collaborative skills are on point. He's able to push through difficult problems quickly, but the speed is not overwhelming or overdriven. Rather, the patience, poise, interpersonal communication, and awareness of workflow efficiency, make Calaway stand out so well in a team.
+
+
 
 ### Playing a Part
 
