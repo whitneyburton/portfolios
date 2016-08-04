@@ -55,7 +55,7 @@ This project was not formally assessed.
 
 ##### Description
 CompleteMe is a rudimentary autocomplete program that first loads in a dictionary of words and then can take in a prefix and return words from the dictionary that begin with the prefix. The project gets a little spicier with the notion of weighted suggestions whereby the program needs to also store the user's preferences regarding a given prefix so that next time that prefix is given, the user's past selected words are prioritized over other words.
-
+Assessed By: Mike
 ##### Evaluation Comments
 * Spec harness 2.3 seconds
 * Good testing, could check for more edge cases
@@ -77,7 +77,7 @@ CompleteMe is a rudimentary autocomplete program that first loads in a dictionar
 
 ##### Description
 ParaMorse is about building a program to interpret Morse code, the mid nineteenth century set of signals used to communicate over distances via telegraph. The project is called ParaMorse because the crux of the challenge is to handle parallel streams of code that intertwine to form a single message.
-
+Assessed By: Mike
 ##### Evaluation Comments
 * Did not complete I7
 * 56 tests
@@ -98,7 +98,7 @@ ParaMorse is about building a program to interpret Morse code, the mid nineteent
 
 ##### Description
 Code a playable version of Milton Bradley's Battleship that runs in a Read Evaluate Print Loop (REPL).
-
+Assessed By: Beth
 ##### Evaluation Comments
 * Watch those negated method calls (!is_valid?)
 * Includes picking levels, started adding AI
@@ -130,40 +130,19 @@ Assessed By: Mike
 
 Repo: http://github.com/j-sm-n/black_thursday
 
-Notes:
+##### Evaluation Comments
 * 153 tests in 9 seconds
 * harness runs in 1:42
 * well broken out and separated code.
 * some opportunities to refactor, there are some methods which do a little
 too much.
-
-
-### 1. Functional Expectations
-
-* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
-
-### 2. Test-Driven Development
-
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-
-### 3. Encapsulation / Breaking Logic into Components
-
-* 4: Application is expertly divided into logical components each with a clear, single responsibility
-
-### 4. Fundamental Ruby & Style
-
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-
-### 5. Enumerable & Collections
-
-* 3: Application demonstrates comfortable use of appropriate Enumerable methods
-
-### 6. Code Sanitation
-
-The output from `rake sanitation:all` shows...
-
-* 4: Zero complaints
-
+##### Evaluation Scores
+* 1. Functional Expectations - 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+* 2. Test-Driven Development - 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+* 3. Encapsulation / Breaking - Logic into Components 4: Application is expertly divided into logical components each with a clear, single responsibility
+* 4. Fundamental Ruby & Style - 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+* 5. Enumerable & Collections - 3: Application demonstrates comfortable use of appropriate Enumerable methods
+* 6. Code Sanitation - 4: The output from `rake sanitation:all` shows zero complaints
 
 ### Soft Skills and Protocol Requirements
 * [DTR Memo] (https://docs.google.com/document/d/1Mk8SM8GFjY6aCPFw_mVj5C3N4wvGI-_Me-UPzRgVT1c/edit?usp=sharing)
