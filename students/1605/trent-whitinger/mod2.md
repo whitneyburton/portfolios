@@ -177,17 +177,14 @@ a three in each category is the baseline for promotion/graduation.
 
 ## A: End-of-Module Assessment
 
+Self Rubric Scores
 
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3
+D: Community Participation: 3
+E: Peer & Instructor Feedback: 3
 
-## B: Individual Work & Projects
-
-
-
-## C: Group Work & Projects
-
-
-
-## D: Community Participation
 
 
 
