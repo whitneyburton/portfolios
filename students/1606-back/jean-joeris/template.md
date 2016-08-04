@@ -24,7 +24,7 @@ learning. Based on the feedback I have received I believe I have helped my class
 * [GitHub URL](https://github.com/JeanJoeris/complete_me)
 * [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/complete_me/peter_jean_joeris.markdown)
 
-(description)
+The goal of the project was to build a trie that could be populated with words and searched, with the purpose of building a autocomplete tool. 
 
 Notes:
 
@@ -40,29 +40,50 @@ Notes:
 
 Evaluation Rubric
 
-1. Functional Expectations
-
-    4: Application fulfills all base expectations and one extension
-
-
-2. Test-Driven Development
-
-    4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+### 1. Functional Expectations
+* 4: Application fulfills all base expectations and one extension
 
 
-3. Encapsulation / Breaking Logic into Components
-
-    3: Application effectively breaks logical components apart but breaks the principle of SRP
-
-
-4. Fundamental Ruby & Style
-
-    3: Application shows strong effort towards organization, content, and refactoring
+### 2. Test-Driven Development
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 
-5. Enumerable & Collections
+### 3. Encapsulation / Breaking Logic into Components
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-    3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+### 4. Fundamental Ruby & Style
+* 3: Application shows strong effort towards organization, content, and refactoring
+
+
+### 5. Enumerable & Collections
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+#### Paramorse
+
+* [GitHub URL](https://github.com/JeanJoeris/paramorse_redux)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/paramorse.markdown)
+
+The goal of the project was to build a parallelized morse code encoder/decoder. This means one string can be encoded into n different files and pieced back together into the original string.
+
+Notes are not in my assesment, here is my best attempt to remember the feedback Beth gave me -
+The string juggling trick I did to handle whitespace was too clever, but an alternative was not immediately obvious.
+
+There were multiple methods that could have used refactoring, including just making helper methods to shorten main methods.
+
+My test coverage was good
+
+### 1. Overall Functionality
+* 3: Application follows the complete spec and one extension
+
+### 2. Fundamental Ruby & Style
+* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+### 3. Test-Driven Development
+* 4: Application is broken into components which are well tested in both isolation and integration
+
+### 4. Breaking Logic into Components
+* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 ## Team
 
