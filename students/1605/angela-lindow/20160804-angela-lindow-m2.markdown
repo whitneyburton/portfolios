@@ -187,8 +187,15 @@ I helped lead Hopper Posse this module along with Lucy Fox, Kris Sparks, and Jas
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Feels comfortable with building web applications
+* Not scared of HTML and CSS - feels comfortable figuring it out
+* Very resourceful
+* Mix Master - wished there was more emphasis on the ending than the beginning - didn't have enough time
+* Evals went really well
+* Group projects went really well
+* Needs to work on DTRing being focused and tuned out of a group
+* Felt like possee's are still confusing to module 1 students
 
 ### Outcome
 
-( Leave blanks for reviewers )
+ROCKSTAR PASS
