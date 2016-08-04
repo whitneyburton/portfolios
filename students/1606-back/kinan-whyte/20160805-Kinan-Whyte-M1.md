@@ -193,7 +193,7 @@ Kinan has been a wonderful peer to me during this module. He frequently asks to 
 
 #### Playing a Part
 
-**ways I supported the larger Turing community by:**<br>
+**I supported the larger Turing community by:**<br>
 
 * lending a hand with anything that I could help with, I did
 * pairing with as many people as possible, signing up for any opportunity I had to exchange techniques, knowledge, skills, experience, and by meeting as many people as possible within the community to broaden perspectives
