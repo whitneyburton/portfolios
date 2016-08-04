@@ -120,7 +120,7 @@ Casey Cross - Kyle, you were a great partner, you gave me some great advice abou
 
 Casey Metz - Hey Kyle, here’s mine - Kyle was a great first project partner. On Number Guesser he went out of his way to lead the DTR. As he mentioned in my feedback, I was a bit eager on this first project, and sometimes raced ahead without clear task delegation. Kyle communicated this in a respectful way, and we were able to re-set our expectations before the end of the project. By the end, we were doing a better job of sharing driving and tasks, and Kyle kicked butt on styling our site. He has a great work ethic and knows how to seek the help and resources necessary to complete difficult tasks. Looking forward to working together again!
 
-Mike Sausa -
+Mike Sausa - Working with Kyle was hugely beneficial for me. For the past two weeks Kyle has been my GitHub sensei pulling me up from zero to near-hero, and I can’t thank him enough. Kyle is really good at taking the reigns and getting the ball rolling on things, and is an excellent communicator and collaborator. He has an excellent workflow and was great at creating tasks and keeping our waffle.io up to date. One of our weaknesses was our lack of poor testing - definitely something we can improve upon in the future. Ultimately I think we were on the same page for the whole project (even if we were in a rabbit hole for a bit) and really enjoyed working with Kyle. Hope to do it again in the near future!
 
 ### Playing a Part
 
