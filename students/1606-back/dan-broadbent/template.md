@@ -249,9 +249,9 @@ I was at school by 8am most mornings and many times would go over things with ot
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: 3.5
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
@@ -259,4 +259,4 @@ I was at school by 8am most mornings and many times would go over things with ot
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
