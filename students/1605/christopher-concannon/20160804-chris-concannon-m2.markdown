@@ -92,7 +92,9 @@ Subjective evaluation will be made on your work/process according to the followi
 # Work
 ***
 
+***
 ## Graded Group Projects
+***
 
 I completed all projects assigned to our cohort, with scores of four 3's and two 4's. I was an integral member of each of my teams. 
 
@@ -139,13 +141,55 @@ The project will be assessed with the following rubric:
 
 My group and I made an e-commerce site using Ruby on Rails. The site allowed visitors to register for an account, and then sponsor various mythical creatures. There was a full-featured "cart" which the users could fill with creatures of their choice, then check out. Orders were saved in the database. Past orders could be viewed for a logged-in user. Admin functionality was built in to add additional creatures to the website. Admins were also allowed additional site privileges. 
 
+Assessor: Casey
+
+Notes:
+* Features all there
+* Limited amount of logic in views - only one small method
+* Could refactor controllers to remove some logic, but overall look good
+* Models need to be refactored to use Ruby's enumerable methods
+* Could speed things up a bit by limiting number of queries
+* Look into enum for statuses
+
+#### Scores
+
+#### 1. Feature Completeness
+
+* 4: All features are correctly implemented along with two extensions
+
+#### 2. Views
+
+* 4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+
+#### 3. Controllers
+
+* 3: Controllers are generally well organized with three or fewer particularly ugly parts
+
+#### 4. Models
+
+* 3: Models show an effort to push logic down the stack, but need more internal refactoring
+
+#### 5. Testing
+
+* 3: Project has a running test suite that tests and multiple levels but fails to cover some features
+
+#### 6. Usability
+
+* 4: Project is highly usable and ready to deploy to customers
+
+#### 7. Workflow
+
+* 4: Excellent use of branches, pull requests, and a project management tool.
+
+***
 ## Ungraded Assignments
+***
 
 Most of the Module 2 work time was spent on ungraded projects that repeated and reinforced ideas which we had learned in class. Takeaways from these projects are listed below. 
 
-## Sinatra CRUD
+## Sinatra CRUD (Robot World)
 
-Sinatra CRUD served to fixate the CRUD operations in our minds. I learned the RESTful routes and what each looked like in terms of the HTTP verb, path, and controller action. This was critical before being introduced to Rails. 
+Sinatra CRUD served to fixate the CRUD operations in our minds. I learned the RESTful routes and what each looked like in terms of the HTTP verb, path, and controller action. I also learned how to interact with a database and an ORM. This was critical before being introduced to Rails. 
 
 ## Tool Chest
 
@@ -157,7 +201,7 @@ Mix Master was a very long, thorough tutorial which provided a basis to learn da
 
 ## Rails Mini Project
 
-I decided to try to build a blogging platform for my Rails mini project. I did not end up finishing the project to a point that I feel comfortable sharing it with the world, but I did learn a lot. I implemented the ability to create an account, log in, create a post, and tag that post with categories. I also created the ability for visitors to view all user posts and comment on those posts (although, this functionality never worked flawlessly). The entire construction was done with TDD. This was a good exercise before heading into our Little Shop final project because it gave me confidence in my TDD abilities. 
+I decided to try to build a blogging platform for my Rails mini project. I did not end up finishing the project to a point that I feel comfortable sharing it with the world, but I did learn a lot. I implemented the ability to create an account, log in, create a post, and tag that post with categories. I also created the ability for visitors to view all user posts and comment on those posts (although, this functionality never worked flawlessly). The entire construction was done with TDD. This was a good exercise before heading into our Little Shop final project because it gave me confidence in my TDD abilities. My extension was using RSpec for TDD rather than MiniTest. This was my first time seeding my database with the Faker gem, as well as my first time using an API (the Giphy API). 
 
 ***
 # Individual Progress
@@ -225,8 +269,8 @@ I received mostly 4's on my end of module assessment, so I think it's fair to ro
 * **B: Individual Work & Projects**: 3
 None of the individual work in this module was officially assessed by instructors. However, I attempted to complete all assignments and I kept up with the work well enough to be a valuable asset in the evaluated group projects. I feel like there was room for improvement or more work in most of my personal projects, and therefore I am not awarding myself a top score here. 
 
-* **C: Group Work & Projects**: 4
-Between Rush Hour and Little Shop, I received a total of two 4's and four 3's. I believe I am justified in giving myself a 4 in this category based on those scores. I played an integral role in both of those projects, and this is reflected in feedback from my group members. 
+* **C: Group Work & Projects**: 3-4
+Between Rush Hour and Little Shop, I received a total of six 4's and seven 3's. I believe I am justified in giving myself at least a 3 in this category based on those scores. I played an integral role in both of those projects, and this is reflected in feedback from my group members. 
 
 * **D: Community Participation**: 3
 I participated in Turing community events and I assisted several mod1 students via paired programming sessions. However, I did not consistently perform any work with a posse after the first two weeks. I continued to be a part of the lunch and evening running group events at Turing. I engaged with all Gear Up and Student Led Sessions events, and I delivered a lightning talk. Based on all of this, I believe I deserve a passing, but not an excellent, mark for community participation. 
