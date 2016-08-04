@@ -125,8 +125,8 @@ It feels that my time during Mod 1 has been spent trying to keep my head above w
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 2.51
+* **A: End-of-Module Assessment**: N/A
+* **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
@@ -137,4 +137,4 @@ It feels that my time during Mod 1 has been spent trying to keep my head above w
 
 ### Outcome
 
-( Leave blanks for reviewers )
+RETAINED
