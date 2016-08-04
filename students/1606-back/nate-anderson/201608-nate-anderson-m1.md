@@ -306,16 +306,17 @@ This piece of software is distibuted under the MIT License
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **C: Group Work & Projects**: 4
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
-
-( Leave blanks for reviewers )
+* Strong end of module assessments
+* Good work on repeating, got a lot of value out of it
+* Would like to see Nate be more engaged, speak up, and lead, get involved
+* Overall, great transition
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
