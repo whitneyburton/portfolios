@@ -60,8 +60,8 @@ Could do more to run tests incrementally
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/bfpepper/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 (description)
 
