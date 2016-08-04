@@ -101,25 +101,26 @@ I've participated in the larger Turing Community in the following ways:
 * Came regularly to Golick Posse and help set up a GitHub account for future project showcase
 * Helped peers with socket/Node.js server related questions later in module
 
-## Review
+## Self Review
 
-### Outcome
+## A: Final Assessment
 
-## A: End-of-Module Assessment(Not needed)
+* 3
 
 ## B: Individual Work & Projects  
 
-* 3: Challenged myself, learned a lot, made working things, but at times sacrificed testing.
+* 3
 
 ## C: Group Work & Projects
 
-* 4: GameTime was tough!
+* 3
 
 ## D: Community Participation
 
-* 4: A bit disappointed with posse outcome.
+* 3
 
 ## E: Peer & Instructor Feedback
 
-* 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback.
+* 3
+
+### Outcome
