@@ -20,7 +20,7 @@ I came in to this program wanting to make a serious change with my life and care
 **C: Group Work & Projects**<br/>
 *A Turing student contributes significantly to group projects, helps the team develop their technical skills, and delivers a high-quality product.*
 
-2.5: Student participates somewhat in their group work but is either not a dependable member of the team or achieves consistently sub-par work.
+3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
 
 **D: Community Participation**<br/>
 *A Turing student builds up the community around them by participating and supporting other students, the larger Turing family, and persons outside our walls who want to develop their own skills.*
