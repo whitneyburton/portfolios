@@ -252,11 +252,11 @@ This mod at Turing I tried to play as big of a part as I could, while balancing 
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
@@ -264,4 +264,4 @@ This mod at Turing I tried to play as big of a part as I could, while balancing 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROVISIONAL
