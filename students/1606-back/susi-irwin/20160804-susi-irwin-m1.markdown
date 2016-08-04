@@ -56,11 +56,25 @@ Notes:
 
 #### Evaluation Rubric
 
-- Functional Expectations - 3 - Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
-- Test-Driven Development - 3 - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
-- Encapsulation / Breaking Logic into Components - 4 - Application is expertly divided into logical components each with a clear, single responsibility.
-- Fundamental Ruby & Style - 3 -  Application shows strong effort towards organization, content, and refactoring.
-- Enumerable & Collections - 3 - Application demonstrates comfortable use of appropriate Enumerable methods
+- Functional Expectations
+
+  3 - Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
+  
+- Test-Driven Development
+
+  3 - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+  
+- Encapsulation / Breaking Logic into Components
+
+  4 - Application is expertly divided into logical components each with a clear, single responsibility.
+  
+- Fundamental Ruby & Style
+
+  3 - Application shows strong effort towards organization, content, and refactoring.
+
+- Enumerable & Collections
+
+  3 - Application demonstrates comfortable use of appropriate Enumerable methods
 
 #### Battleship
 
@@ -83,11 +97,25 @@ Notes:
 #### Evaluation Rubric
 
 The project will be assessed with the following rubric:
-- Fundamental Ruby & Style - 3 - Application shows strong effort towards organization, content, and refactoring
-- Enumerable & Collections - 3 - Application demonstrates comfortable use of several Enumerable techniques
-- Test-Driven Development - 3 - Application is well tested but does not balance isolation and integration tests
-- REPL Interface - 1 - Application's REPL has enough problems as to make play difficult
-- Breaking Logic into Components - 3 - Application effectively breaks logical components apart with clear intent and usage
+- Fundamental Ruby & Style
+
+  3 - Application shows strong effort towards organization, content, and refactoring
+  
+- Enumerable & Collections
+
+  3 - Application demonstrates comfortable use of several Enumerable techniques
+  
+- Test-Driven Development
+
+  3 - Application is well tested but does not balance isolation and integration tests
+  
+- REPL Interface
+
+  1 - Application's REPL has enough problems as to make play difficult
+  
+- Breaking Logic into Components
+
+  3 - Application effectively breaks logical components apart with clear intent and usage
 
 ## Team
 
@@ -116,10 +144,21 @@ Notes:
 
 #### Evaluation Rubric
 
-- Overall Functionality - 2 - Application converts to Braille and back successfully
-- Fundamental Ruby & Style - 3 - Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-- Test-Driven Development - 3 - Application uses tests to exercise core functionality but leaves many common edge cases untested.
-- Breaking Logic into Components - 4 - Application effectively breaks logical components apart with clear intent and usage
+- Overall Functionality
+
+  2 - Application converts to Braille and back successfully
+  
+- Fundamental Ruby & Style
+
+  3 - Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+  
+- Test-Driven Development
+
+  3 - Application uses tests to exercise core functionality but leaves many common edge cases untested.
+  
+- Breaking Logic into Components
+
+  4 - Application effectively breaks logical components apart with clear intent and usage
 
 Feedback to Me:
 "Having Susi as my partner on Night Writer was a gift within itself. She is extremely easy going, intelligent and kind. Even though she has important priorities at home, we both were able to effectively collaborate during times we were apart and paired well when together. Her communication skills are on point; there never was a time that I did not know what she was working on or how she was feeling. She should know that she is more technically inclined than she gives herself credit for and that she is very good at knowing when she needs to ask for help. Because of that, she was a significant reason as to why we were successful with Night Writer in general." - Jasmin Hudascek
