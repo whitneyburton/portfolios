@@ -1,5 +1,5 @@
+<img src="turing.png">
 # Andy Young - M1 Portfolio
-
 
 ### Areas of Emphasis
 
@@ -10,14 +10,19 @@ Some skills I developed were collaboration, communication, workflow, and program
 
 I maintained a 3 average.
 
-### Projects
----
+## Projects
+
 #### Number Guesser
 
 The Number Guesser is a game were the player picks a number between one and one-hundred.  
 The computer will let you know if you're too high or too low. Keep guessing until you win!
 
-**My number guesser:**  
+**See Number Guesser!**  
+
+- https://andy-young.github.io/number_guesser/
+
+**The Code:**  
+
 - https://github.com/andy-young/number_guesser  
 
 **Original Requirements:**  
@@ -34,7 +39,12 @@ Feedback from partner Mike Sausa:
 ---
 #### Linked List
 
-**My Linked List:**  
+**See Linked List!**  
+
+- https://andy-young.github.io/linked_list/
+
+**The Code:**
+
 - https://github.com/andy-young/linked_list
 
 The Linked List is an address book for all your favorite websites.  
@@ -51,15 +61,17 @@ Feedback from partner Kirsten Swanson:
 
 ---
 
-
-
 #### Color Changer Solo
 
 The color changer is a webpage where the use clicks a button to render a random background color.  
 To reset the page to a white background, just hit the reset button.  
 
 **My Color Changer:**  
+
 - https://andy-young.github.io/chromo-chameleon/
+
+**The Code:**  
+
 - https://github.com/andy-young/chromo-chameleon  
 
 **Original Requirements:**  
@@ -79,9 +91,15 @@ The Idea Box is a website that will hold all of your ideas in storage.
 You may rank the quality of your ideas and remove them if you need!
 
 **My Idea Box:**  
+
+- https://andy-young.github.io/idea-box/
+
+**The Code:**  
+
 - https://github.com/andy-young/idea-box
 
 **Original Requirements:**  
+ 
 - https://github.com/turingschool/front-end-curriculum/blob/gh-pages/projects/ideabox.md
 
 **Scores: (0 to 4)**  
@@ -100,15 +118,13 @@ Feedback from partner Brett Hevia:
 For Game Time my partner and I build the classic game "Lights Out".  
 The objective is find the correct pattern of lights to turn off so that all the lights go out!
 
-**My Lights Out:**  
+**Play Lights Out!**  
+
+- https://andy-young.github.io/game-time-starter-kit/
+
+**See the Code!**
+
 - https://github.com/andy-young/game-time-starter-kit
-
-**Original Requirements:**
-
-title: Game Time  
-length: 2  
-tags: javascript, jquery, canvas, svg, mocha, testing
-
 
 ##### Abstract
 
@@ -148,11 +164,11 @@ The output from JSHint shows…
 * 4 - Zero complaints
 
 Feedback from partner Ben Godfrey:
-> Andy is a complete psychopath!
+> Andy was awesome to work with. He always had a great attitude when working on Lights Out, even when we were entirely lost in the woods, which definitely rubbed off on me. He was also okay with letting me drive for long periods of time, which was a great experience because I had never actually done that in previous projects, so I really appreciate it. He was great at giving and taking feedback, and you could tell that he gave and took criticisms very intently and never made them “personal.” He was always willing to make adjustments for both of us when the time called for it.
+
+> If there was anything that I’d say you could work on, Andy, it would be to not be so hard on yourself when you’re lost in a problem. Throughout our whole project, I could tell you actually knew more about the problems at hand than you gave yourself credit for, but sometimes it just took us taking a breath, getting away from our desk, and going on a walk before we drove ourselves crazy. I know you’re going to be killing it with VIM in the next module so you’ll be flying through stuff, but I’d encourage you to work on keeping up your Pomodoro count and keeping a positive inner thought process!
 
 ---
-
-## Community
 
 ### Giving Feedback
 
@@ -200,23 +216,22 @@ Agenda to discuss project launch:
 
 
 ### The Well Written ReadMe
-https://github.com/andy-young/game-time-starter-kit
+https://github.com/andy-young/game-time-starter-kit/tree/master
 
-### Playing a Part
+### Doing My Part
 
 I enjoy attending social events with a healthy mix of front and back-end students.  
 I'm not too proud to help Blake Street students house clean on Friday or go out for dinner afterwards.  
 My goal is to get more involvement with education now that I've completed module one.
 
-## Review
 
 ### Rubric Scores
 
-- **A: End-of-Module Assessment**: X
-- **B: Individual Work & Projects**: X
-- **C: Group Work & Projects**: X
-- **D: Community Participation**: X
-- **E: Peer & Instructor Feedback**: X
+- **A: End-of-Module Assessment**: 2.92
+- **B: Individual Work & Projects**: 2.8
+- **C: Group Work & Projects**: 3.1
+- **D: Community Participation**: 2.6
+- **E: Peer & Instructor Feedback**: 3.6
 
 ### Notes
 (Instructor notes)
