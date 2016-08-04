@@ -49,7 +49,7 @@ I completed the following evaluated projects this module:
 
 ## Little Shop - Cyborgism
 
-* [GitHub URL](https://github.com/automatic365/little_shop)
+* [GitHub URL](https://github.com/Automatic365/little-shop)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 This was a 2 week project where we built a functional e-commerce store to sell cyborg parts.
