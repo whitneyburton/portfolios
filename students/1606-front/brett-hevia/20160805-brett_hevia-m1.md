@@ -65,7 +65,7 @@ This was our first project and also our first time seeing Javascript exist outsi
 Functional: 4
 JS Style: 2.5
 
-From Casey Cross: I worked with Brett on the first project of module 1.  We were both very green in our workflow as is expected early in module 1.  I found him easy to collaborate with and our skills complemented each other well.   I think we both learned a lot from each other.  I would happily work with Brett again in the future.  Also, he is a fellow Gator which earns him extra bonus points.
+From Casey Cross: I worked with Brett on the first project of module 1. We were both very green in our workflow as is expected early in module 1.  I found him easy to collaborate with and our skills complemented each other well. I think we both learned a lot from each other. I would happily work with Brett again in the future. Also, he is a fellow Gator which earns him extra bonus points.
 
 #### Linked List
 
@@ -96,7 +96,7 @@ User interface: 3
 JS: 2.5
 Workflow: 3
 
-From Andy Young: Working with Brett was great. He listened intently to my ideas and showed patience while I explored different ways to build our project. This turned out to be critical to our success. On a few occasions I had adopted a poor strategy that would not have worked, yet Brett was patient and graceful in guiding our efforts so that we ​_could_​ make progress. A word on determination..
+From Andy Young: Working with Brett was great. He listened intently to my ideas and showed patience while I explored different ways to build our project. This turned out to be critical to our success. On a few occasions I had adopted a poor strategy that would not have worked, yet Brett was patient and graceful in guiding our efforts so that we ​could make progress. A word on determination..
 Brett’s energy is electrifying! When Brett sets his mind to complete something, it gets done! It was great to see him in the flow, and often inspired me to push a little harder. What I learned from Brett (among many things) is that when I think I’m done, I can still go much further!
 
 #### Game Time
@@ -108,7 +108,12 @@ This project required us to combine everything we've learned about HTML, CSS, Ca
 
 This was easily my favorite project of the module. Not having explicit steps and wireframes to work off of was exciting (and terrifying), and having to think outside of the box and branch out a little really helped solidify the things we've already learned. Plus, I really like Trawn.
 
-We haven't had evaluations yet.
+Functional Expectations: 4
+User Interface: 4
+Testing: 4
+JavaScript Style: 3
+Workflow: 4
+Code Sanitation: 4
 
 ## Community
 
@@ -126,11 +131,11 @@ While I was a generally helpful and pleasant classmate, I definitely didn't enga
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3.25 - This is just my actual score on the assessment.
+* **B: Individual Work & Projects**: 2 - I did a poor job of keeping up with my portfolio.
+* **C: Group Work & Projects**: 3 - I feel like I definitely made positive, valuable contributions to all the projects I was in. Moving forward, I'd like to focus on getting better and more willing at giving constructive criticism in feedback.
+* **D: Community Participation**: 2 - I talked about this above, but I didn't do a great job of engaging with the non-FE community. I do think that I was a helpful and supportive classmate, though.
+* **E: Peer & Instructor Feedback**: 3, I guess. My partners and classmates have at least pretended to like working with/being around me.
 
 ### Notes
 
