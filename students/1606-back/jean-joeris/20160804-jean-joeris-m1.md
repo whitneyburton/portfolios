@@ -13,7 +13,28 @@ learning. Based on the feedback I have received I believe I have helped my class
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Notes:
+* Talked through process
+* Strict TDD, ran tests to verify method exists, confirm arguments needed
+* Used debugging techniques to analyze why return value wasn't what was expected
+* Scanned Ruby docs too quickly and mis-implemented hash default value
+* Develops concepts for and writes tests smoothly
+* Last method needed refactoring but got the job done
+
+#### 1. Ruby Syntax & API
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
+#### 2. Completion and Progress
+* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+#### 3. Testing
+3.5
+* 4: Developer excels at taking small steps and using the tests for both design and verification
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+#### 4. Workflow
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+#### 5. Collaboration
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+#### 6. Enumerable & Collections
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
