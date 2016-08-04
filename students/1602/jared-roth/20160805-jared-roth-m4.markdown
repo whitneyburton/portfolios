@@ -90,3 +90,15 @@ Assessed By: Meeka
 
 * Josh Washke
 >It was cool getting to work with you again since Little Shop. Talking to you coming into Mod 4 you seemed to have pretty low confidence in your ability and where you were at. Working with you in Gametime I definitely don't think you have anything to worry about. You implemented a large amount of the difficult logic by yourself and never hesitated in tackling a difficult problem. The best feedback I can give you is to communicate with the group more, we had some trouble getting everything together at the end and more communication throughout the process would have smoothed out a lot of those issues. But that was an issue with the entire group as a whole and not just you. Overall I'm excited to see what you do next and a little sad to see you go back home Friday. I'm happy to work with you again in the future and will hit you up next time I'm in SoCal.
+
+
+# Results
+
+
+- A: 3
+- B: 3
+- C: 3
+- D: 3
+- E: 2
+
+Notes: 3 on community is a little bit of Black Thursday peer review / 'community detention'
