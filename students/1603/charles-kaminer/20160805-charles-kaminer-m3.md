@@ -189,6 +189,7 @@ I'm grateful that Charles was willing to work with me on the "Cubby Stuffers" ex
 ### Feedback
 
 For Brian regarding Cubby Stuffers:
+
 * "This has been quite the journey, Brian.  It's been a lot of fun finally turning the Cubby Stuffing dream into a reality.  I appreciate our ability to pair program effectively and I think now that we were finally working on a joint project together it lead to some really clean code.  I'm really proud of what we were able to put together in such a short amount of time and especially proud of our advanced admin capabilities.  It's going to be awesome to finally and hopefully get some real users and stuff dem cubbies.
 
 Really my only critique is to try to focus on not sweating the small stuff.  And by that I certainly do not mean to get lazy on your code quality (which I sometimes suffer from so I appreciate the balance you bring to our team).  What I mean is that I noticed that you sometimes have a tendency to go down rabbit holes on things that aren't always the most important task.  Your attention to detail is definitely appreciated but I think it could benefit you sometimes to focus on moving forward and returning to old code later on.
@@ -199,9 +200,11 @@ From Kris Sparks:
 "Charlie is always willing to answer questions and give feedback. He does an excellent job of explaining complex concepts. He is always encouraging and his support is valuable, timely and appreciated."
 
 ### Community Content
+
 During this module, I had the chance to co-lead the Bezos posse which I really enjoyed.  Being able to have a say in our direction was really nice.  Along with Robbie, I feel like we did a great job keeping the meetings going.  In the past we had to cancel a lot of meetings which was not the case this module.  I look forward to leading the posse again next mod and to hopefully pass along the Cubby Stuffers project.
 
 ### Blog Post
+
 My blog post this module was on the optional implementation of OAuth.  It included general strategies to set apart internal from external users as well as validation strategies on users coming from multiple sources.
 
 ### Playing a Part
@@ -228,4 +231,10 @@ E: Peer & Instructor Feedback: 4
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
+
+A: End-of-Module Assessment: 4
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3.5
+D: Community Participation: 4
+E: Peer & Instructor Feedback: 3
