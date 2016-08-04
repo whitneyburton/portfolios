@@ -225,6 +225,9 @@ Dan was a pleasure to work with on our Nightwriter project. His communication wa
 From __Angela Lindow:__<br />
 From the first time I paired with Calaway, I was impressed by his natural talent for logical, algorithmic thinking. He doesn't shy away from difficult questions and is able to find the fun in working towards the solution. His calm, even-keel temperament makes him a pleasure to work with. He is always striving to find not just a solution, but the best solution.
 
+From __Kris Sparks:__<br />
+It’s been a pleasure getting to know and working with Calaway. He has a great presence. It’s enjoyable to talk with him on personal level, as well as school-related topics. He asks astute questions and really listens when we are discussing strategies and solutions. He processes complex problems and continually improves his problem-solving abilities and code. His grasp of the core concepts is evident. He will do well here are Turing and we will be better for having him here. I look forward to working with him in the future.
+
 From __Chase Dunagan:__<br />
 Calaway is an amazing piece of the Mod-1 puzzle.  He is kind to everyone and his calm demeanor is contagious when interacting and pairing with him, which makes it easier to assess the problem at hand.  Whenever I go to Calaway with a question, he doesn’t hesitate to drop what he is doing, and mull over my problem with me.  He is exactly the type of intelligent, kind, and inclusive student that Turing hopes to attract.  And I look forward to working with him throughout my time at Turing.
 
