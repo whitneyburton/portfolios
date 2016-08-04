@@ -31,14 +31,14 @@ Non-academically, a second goal I set for myself was with regard to self-care. S
 
 ### Projects
 
-(Intro)
+Projects at Turing are generally assigned on a weekly basis. They can take dozens of hours and are meticulously crafted to such that the concepts being learned at the time will be required to complete them.
 
 #### Flashcards
 
 * [GitHub URL](https://github.com/calaway/flash_cards)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
-(description)
+We created a terminal based flashcard study tool in which a user could load in their digital questions and answers in a text file and then utilize this app to quiz themselves. This challenge required an understanding of object oriented programming and design as well as test driven development to succeed.
 
 Assessed By: Jeff
 
@@ -70,7 +70,7 @@ Notes:
 * [GitHub URL](https://github.com/calaway/battleship)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/battleship.markdown)
 
-(description)
+In this challenge we re-created the game Battleship to be played in the terminal with a REPL interface. This was a significantly larger project than we had undertaken previously. It emphesized object oriented programming and design and test driven development.
 
 Assessed By: Jeff
 
@@ -107,12 +107,13 @@ The project will be assessed with the following rubric:
 
 ### Projects
 
-(Intro)
+In Night Writer we created an app that will read plaintext English from a text file supplied by the user, translate it to braille, and output the result to another text file. It will additionally do the reverse to translate a braille text file back to plaintext English. This project emphasized creative algorithmic thinking and problem solving.
 
 #### Night Writer
 
 * [GitHub URL](http://github.com/calaway/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+* [DTR Memo](https://drive.google.com/open?id=0B8m3yTTg2BNyQ1Y4V3Ytc0hTcXc)
 
 (description)
 
@@ -146,6 +147,7 @@ The project will be assessed with the following rubric:
 
 * [GitHub URL]()
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [DTR Memo](https://drive.google.com/open?id=0B8m3yTTg2BNyaW00c09pVHkwSk0)
 
 (description)
 
@@ -184,7 +186,7 @@ Dan was a pleasure to work with on our Nightwriter project. His communication wa
 ### Being a Community Member
 
 From __Angela Lindow:__<br />
-From the first time I paired with Calaway, I was impressed by his natural talent for logical, algorithmic thinking. He doesn't shy away from difficult questions and is able to find the fun in working towards the solution. His calm, even-keel temperament makes him a pleasure to work with. He is always striving to find not just a solution, but the best solution.```
+From the first time I paired with Calaway, I was impressed by his natural talent for logical, algorithmic thinking. He doesn't shy away from difficult questions and is able to find the fun in working towards the solution. His calm, even-keel temperament makes him a pleasure to work with. He is always striving to find not just a solution, but the best solution.
 
 From __Kinan Whyte:__<br />
 Calaway has offered great value to our biggest project this module in many ways. From a mathematical background, he offers a very strong way of looking at problems by holding an immense amount of complexity all at once, yet is able to hold a simple and concise approach to each step. This is an immensely valuable asset. Working with Calaway has been very smooth. He offers a skilled way of articulating abstract concepts in programming and is willing to look at problems through any new or fresh lenses that may be offered to the table. His collaborative skills are on point. He's able to push through difficult problems quickly, but the speed is not overwhelming or overdriven. Rather, the patience, poise, interpersonal communication, and awareness of workflow efficiency, make Calaway stand out so well in a team.
