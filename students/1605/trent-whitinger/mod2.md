@@ -160,7 +160,7 @@ ___
 
 * I paired with module 1 students weekly, hour long sessions to help them through projects, understanding Ruby concepts, working on them on project such as Jungle Beats and Battleship
 * Subbed in to pair with module 1 students when needed
-* Blog posts
+* Blog posts - [Medium URL](https://medium.com/@twhitinger/neat-tips-and-tricks-for-ruby-88cc1ae1bf9b#.isxc1wkey)
   
 # Portfolio Rubric
 
@@ -187,4 +187,4 @@ a three in each category is the baseline for promotion/graduation.
 
 
 
-PASS
+
