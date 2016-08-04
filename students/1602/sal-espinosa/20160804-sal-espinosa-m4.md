@@ -102,10 +102,10 @@ Total Points: 1060/1075 - 98.60%
     * Student helps others to be their best selves while using peer feedback to shape their own character and behavior.
     * Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+* End of Module Assesment: 3
+* Individual Work & Projects: 3
+* Group Work & Projects: 4
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
