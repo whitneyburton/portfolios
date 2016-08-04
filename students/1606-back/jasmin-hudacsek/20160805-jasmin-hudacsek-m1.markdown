@@ -188,8 +188,10 @@ __Black Thuesday__ is a project that focuses on using tests that both drive desi
 (Evaluation Notes & Scores)
 
 >From Jesse Spevek: "I got to work extensively with Jasmin during the Black Thursday project. She has some phenomenal strengths that need to be shouted out. First, she is highly organized. She can keep track of many streams of information and responsibilities. She has systems in place for making sure that nothing is overlooked including a comprehensive Trello board. Second, she has strong interpersonal skills. She communicates clearly both in person and in writing. A significant portion of our collaboration was carried out asynchronously through Slack. It was always clear what she was working on. Third, Jasmin has a strong level attention to detail in her code. Technically, Jasmin is extremely proficient with the git workflow and Waffle.io. For those reasons, it was a real gift to work with Jasmin on the final project of Module 1.
-Moving forward, Jasmin would benefit from voicing concerns and dissenting opinions more directly and frequently. There were many times where I took a bizarre approach to a problem and Jasmin sort of assumed I knew what I was doing. We would have been better served if she had voiced her concerns, even if doing so would have had the immediate effect of slowing progress. More often than not, the gains from her careful thinking would far outweigh any short-term progress stoppages.
-Overall, Jasmin was a fantastic partner and is a phenomenal cohort mate."
+
+>Moving forward, Jasmin would benefit from voicing concerns and dissenting opinions more directly and frequently. There were many times where I took a bizarre approach to a problem and Jasmin sort of assumed I knew what I was doing. We would have been better served if she had voiced her concerns, even if doing so would have had the immediate effect of slowing progress. More often than not, the gains from her careful thinking would far outweigh any short-term progress stoppages.
+
+>Overall, Jasmin was a fantastic partner and is a phenomenal cohort mate."
 
 ---
 
