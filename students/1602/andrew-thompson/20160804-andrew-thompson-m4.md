@@ -58,8 +58,8 @@ Notes:
 
 #### Scale Up
 
-**Docker/Vagrant, AWS, Linux
-** Set up a Docker development environment to see how that worked and set up rails engine in that environment.  Used docker-compose which does some cool stuff with setting up separate containers for Rails App and Postgre database and connecting them on its own.
+* Docker/Vagrant, AWS, Linux
+* Set up a Docker development environment to see how that worked and set up rails engine in that environment.  Used docker-compose which does some cool stuff with setting up separate containers for Rails App and Postgre database and connecting them on its own.
 
 Assessor: Meeka
 * [Github](https://github.com/drew-t/independent_study)
