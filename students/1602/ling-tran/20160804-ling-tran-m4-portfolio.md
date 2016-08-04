@@ -156,7 +156,6 @@ Points: 295/300
 
 > Ling is an excellent teammate who brings a lot of energy and a little levity to any group. From the very beginning, she prioritized very direct, honest communication and I think that her approach was key to the group dynamic that we established over the course of our project. Ling is an excellent coder and debugger who is able to communicate a clear vision of what she wants to create. Ling, I was so glad that you were part of my last group project at Turing, and I’m so happy that I got to go through this experience with you. I’m excited to see what you do next!
 
-
 **Feedback from peers outside of team projects**
 
 * Deb Hamel, 1511/1602/1603 | Pairings :
