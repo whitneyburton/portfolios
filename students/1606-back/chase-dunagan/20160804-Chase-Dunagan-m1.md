@@ -177,16 +177,42 @@ Feedback from my Night Writer pair, Brian.
 
 Black Thursday is a massive project where we built relationships between classes through a type of "delegator class."  The main point of the project was to build a program that could parse through several differnt csv files and return specific data that a certain file might have.  The tricky part was understanding the relationships between all the classes and attempting to fulfill the single-responsibility concept.  Eventually we had to return data that was only obtainable by parsing through multiple data files and picking and choosing exactly what the method needed, in order to return what it was looking for.  It was a very complicated project that really helped solidify concepts that we had been working on for all of mod 1.  
 
+Assessed By: Beth Sebian
 
+Notes:
+* Test suite with 174 examples, all passing 
+* Sanitation passes with no errors 
+* Test harness passing through 4 (i0-4)
+* Some opportunities for refactoring: long methods (2), wonky if/else statements
+* Overall fairly clean implementation of most functionality
+* Test suite could benefit from mocking, sufficient to validate most functionality
+* Would like to see integration testing of features as ​_supplement_​ to isolation testing
 
+### 1. Functional Expectations
+3.5
+* 4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
+* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
+### 2. Test-Driven Development
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
+### 3. Encapsulation / Breaking Logic into Components
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
+### 4. Fundamental Ruby & Style
+2.5 
+* 3:  Application shows strong effort towards organization, content, and refactoring
+* 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
+### 5. Enumerable & Collections
+* 4: Application consistently makes use of the best-choice Enumerable methods
 
+### 6. Code Sanitation
+The output from `rake sanitation:all` shows...
+* 4: Zero complaints
 
-
-
+Feedback from Black Thursday pair: Vido
+-Needless to say Black Thursday, is a trying experience. When most Turing students are surveyed they will respond with something along the lines of "I'd love to help you but i blacked that out".  Working with Chase on it was a pleasure. He was the driver the majority of the project. He is remarkably good at following and understanding my erratic ass navigation. We wouldn't be where we are if it wasn't for his debugging skills. Often he'd find the error before I even knew what line to check. I think pairing with him certainly allowed me to operate in my area's of strength with all cylinders firing. It's something I rarely find. We stayed humorous and on the same page even as the deadline loomed and we were putting in consecutive 14 hour days. The only thing I would suggest having finished our project is follow your gut and speak up if you see a potential bug. It could save countless time.
 
 ## Community
 
