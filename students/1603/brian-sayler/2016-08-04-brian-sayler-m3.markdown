@@ -225,6 +225,16 @@ _Constructive Criticism:_
   be an effective "implementer," but that he also would like to work on increasing
   his participation in the decision making process.
 
+**Feedback to Charles:**
+
+As a leader of the Bezos posse, Charles has coordinated meetings each week for a small group of students interested in business and entrepreneurship.  I really enjoyed our discussions that we've had this module, and Charles played a large role in making our meetings well-planned, as well as moderating our discussions on business topics. I hope Charles keeps up the good work with Bezos posse.
+
+Our shared interest in business and entrepreneurship spawned the idea for "Cubby Stuffers," towards the end of our second Module. The initial idea was to solve the problem of a lack of convenient snack food available in close proximity to 1510 Blake Street. The business would provide a subscription service for snacks and other supplies, in which we would deliver product to a student's cubby on the weekends. All of module 3, Charles and I were interested in potentially starting this small business, and I'm glad we were able to work on it together for the self-directed project.  It's been really interesting solving technical and business problems with with Charles, whose perpetual commitment, strong technical skills, and high-hearted personality make solving on tough problems fun.
+
+We ran into many challenges during our time working on the "Cubby Stuffers" application. This included setting up optional OAuth Logins, complex database associations, dealing with multiple APIs (one of them being the infamous Amazon API), and getting our feet wet with AJAX/Javascript. Charles and I effectively pair programed and divided and conquered to produce a well-tested and robust backend to the application.  We certainly didn't put enough time in energy into the UX portion of the site though, and I encourage Charles to spend energy in thinking about making the process of using an application smooth.  Charles and I agreed that working on this project gave us a stronger appreciation for UX/UI.  
+
+I'm grateful that Charles was willing to work with me on the "Cubby Stuffers" experiment.  While developing a Rails application that could potentially evolve into a real business, I've really enjoyed uncovering how having potential real-world customers affects the application development process. I look forward to working with Charles in our last module at Turing.  
+
 ### Being a Community Member
 
 **Feedback from Erin:**
@@ -234,6 +244,12 @@ I really enjoyed working with Brian on the pivot. Brian is tenacious and spends 
 **Feedback from Chris:**
 
 Brian, I really enjoyed working with you. You have an outstanding work-ethic and you are a consistently positive person to work with. You are always looking for ways to contribute to the group and to the project. I'm particularly impressed with all the styling work you did. It stands out in the excellent appearance of the site.
+
+**Feedback from Charles:**
+
+This has been quite the journey, Brian.  It's been a lot of fun finally turning the Cubby Stuffing dream into a reality.  I appreciate our ability to pair program effectively and I think now that we were finally working on a joint project together it lead to some really clean code.  I'm really proud of what we were able to put together in such a short amount of time and especially proud of our advanced admin capabilities.  It's going to be awesome to finally and hopefully get some real users and stuff dem cubbies.
+Really my only critique is to try to focus on not sweating the small stuff.  And by that I certainly do not mean to get lazy on your code quality (which I sometimes suffer from so I appreciate the balance you bring to our team).  What I mean is that I noticed that you sometimes have a tendency to go down rabbit holes on things that aren't always the most important task.  Your attention to detail is definitely appreciated but I think it could benefit you sometimes to focus on moving forward and returning to old code later on.
+Other than that, your workflow is great and your high-level organization/general care for the project is awesome.  Generally, it makes teammates more willing to go the extra mile when they can tell someone genuinely cares about the project, and you always seem to care.  Let's keep crushing this thing and stuff some cubbies.
 
 ### Playing a Part
 
