@@ -228,8 +228,14 @@ During this module, I started learning and experimenting with JavaScript (includ
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Enjoyed learning about TDD and RSpec
+* More comfortable driving and pairing
+* Solid knowledge of ActiveRecord
+* Enjoys straightforward feedback to know what needs improving
+* Learned a lot from the Rails Mini Project - continuing to work on it
+* Received constructive feedback and working on improving
+* Enjoying posse experience
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
