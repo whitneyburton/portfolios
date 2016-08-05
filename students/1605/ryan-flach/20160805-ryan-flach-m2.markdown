@@ -255,8 +255,14 @@ I left my posse (Pahlka) half-way through this module to focus more on individua
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Accomplished original goals
+* Looking further into JavaScript and JQuery
+* Rails Mini project was really fun - working with API's are enjoyable
+* Challenging Rush Hour experience, but learned a lot
+* Evaluations for LittleShop and Final Assessment should be more challenging
+* Enjoying new posse (Golick)
+* Ideas for challenging students even more
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
