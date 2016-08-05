@@ -181,11 +181,11 @@ The goal of this project was to serve and API and use more complex ActiveRecord 
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 4
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
@@ -193,4 +193,4 @@ The goal of this project was to serve and API and use more complex ActiveRecord 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
