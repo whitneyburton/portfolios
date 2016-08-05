@@ -253,4 +253,12 @@ them by delivering specific, kind, and actionable feedback. They accelerate thei
 
 ### Outcome
 
+Retained
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 2
+C: Group Work & Projects: 3
+D: Community Participation:3
+E: Peer & Instructor Feedback: 3
+
 ( Leave blanks for reviewers )

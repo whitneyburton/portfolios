@@ -216,3 +216,13 @@ Deb, you are an integral member of the Turing community. A few days ago, we pair
 * Teaching teens html and css with Beth at Belmar Library
 * Teaching high school students at Turing.
 * Productivity lunches
+
+### Outcome
+
+Retained
+
+A: End-of-Module Assessment: 2
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 4
+D: Community Participation: 4
+E: Peer & Instructor Feedback: 3
