@@ -180,4 +180,10 @@ There’s a profusion of strings populating the sky for a developer; strings tie
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 4
+* **E: Peer & Instructor Feedback**: 3
