@@ -130,4 +130,10 @@ Peer Feedback | 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
+
+End-of-Module Assessment: 3
+Individual Work & Projects: 2
+Group Work & Projects: 3
+Community Participation: 3
+Peer Feedback: 3
