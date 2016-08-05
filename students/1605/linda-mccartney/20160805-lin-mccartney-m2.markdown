@@ -210,3 +210,16 @@ David: "You showed great commitment to our project and were an open-minded and e
 Tommasina: "Lin, I appreciated your sense of humor, your easy-goingness, and your overall sense of dedication to the project. I see how much you put in after hours, especially with writing tests for iteration 4 & 5 and our feature tests. As I shared in our retro, I sometimes felt abandoned when we were working but I heard you say that you can get distracted, especially when we're working hard for hours. As we discussed, I think time-boxing issues, and establishing Pomodoro breaks with end times would have helped me with that feeling. Thanks for being a great partner on this project!"
 
 Lane: "Lin, you did a great job with implementing and working through new material in addition to putting in a huge amount of time towards the progress even after we all had called it a night. I say this because I rarely saw you struggling to implement techniques that we learn the previous day.  One thing I think you could work towards improving would be git workflow solely due to the one push to master that happened but harmed nothing. Other than that you were a great partner to pair with."
+
+Notes
+* Had a hard time catching up after RushHour project
+* Mix Master was most helpful tutorial - served as a good reference
+* Working on Hogwarts challenge this weekend to solidify knowledge
+* Going to work on taking a step back when running into errors rather than continuing trial and error
+* Enjoyed working in groups - had good experiences
+* More comfortable figuring things out
+* Work on being more organized
+
+Outcome
+
+Pass
