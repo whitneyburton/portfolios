@@ -121,12 +121,11 @@ Evaluator: Franco
 ###### Description:
 Cubby Stuffers is a project born out of the Bezos posse incubator. Charles Kaminer and I are trying to make Cubby Stuffers a real-life subscription snack service for Turing students. The largest technical challenges we faced were setting up a way to manage order fulfillments and a price-comparison tool which consumed data from Walmart and Amazon's APIs.
 
-
 ###### Evaluation Comments:
-Assessed By: Franco
-Notes:
+Evaluator: Franco
+
 * update UX to 3 if guest/standard user workflow is improved
-* Nice use of AJAX admin side to improve Admin UX)
+* Nice use of AJAX admin side to improve Admin UX
 
 ###### Scores:
 
@@ -141,7 +140,7 @@ Notes:
 
 ### Giving Feedback
 
-**Feedback to Erin**
+**Feedback to Erin:**
 
 _Things I've really liked:_
 
