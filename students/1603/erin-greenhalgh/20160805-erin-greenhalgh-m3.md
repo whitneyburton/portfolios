@@ -11,7 +11,7 @@
 
 ### Areas of Emphasis
 
-My goal this module has been a continuation of my goals in previous modules: I want to develop resilience and persistence. All of the developers I have admired at Turing have similar approach of solving problems with curiosity, looking at the problem from different angles, systematically trying different approaches until they reach a solution. People told me that in mod 3 I would better learn this problem-solving approach, and I have tried to practice it in my projects, looking past the initial panic of not knowing the answer and trusting what I have learned to help me figure it out. I know I have more work to do in this area, but I am proud of how I have learned and grown in mod 3. 
+My goal this module has been a continuation of my goals in previous modules: I want to develop resilience and persistence. All of the developers I have admired at Turing have similar approach of solving problems with curiosity, looking at the problem from different angles, systematically trying different approaches until they reach a solution. People told me that in mod 3 I would better learn this problem-solving approach, and I have tried to practice it in my projects, looking past the initial panic of not knowing the answer and trusting what I have learned to help me figure it out. I know I have more work to do in this area, but I am proud of how I have learned and grown in mod 3.
 
 ### End of Module Assessment
 * Ruby Style:                     3
@@ -200,8 +200,14 @@ This mod my community participation dipped slightly compared to mod 2, given the
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
+
+* End of mod assessment:        4  
+* Individual work and projects: 3
+* Group work and projects:      3
+* Community participation:      4
+* Peer and instructor feedback: 3
