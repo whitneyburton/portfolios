@@ -62,6 +62,11 @@ Codepoints uses Ruby on Rails as a web app framework, the JavaScript libraries C
   * User Experience: 4
   * Performance: 4
 
+**Evaluation Notes**
+* Such a great project. Really neat to see you building your own api, and building a command line app
+* Test coverage was excellent and all tests are very thorough. Could have added a couple values in the tests instead of just testing for count, but still really good.
+* UX is polished and production ready.
+* Great job!
 
 #### Apicurious
 
@@ -138,19 +143,26 @@ Rails Engine provides an API of sales data. Rails Engine loads CSV data into a d
 
 **From Nick (re: Pivot)** Kerry is a very talented individual and an extremely strong programmer.  She seems to navigate through many complicated issues with ease, while maintaining humility and always eager to lend a helping hand.  I was very fortunate to work alongside her for this project.  She was very effective as our project manager, checking in on our progress regularly and updating us with what she was able to accomplish prior to our daily check-ins. There were times that I wish we could have gone over her code more and discussed her thinking for some of the more complicated aspects to the app.  She works best on her own, but we would stand to benefit from seeing her approach and reasoning through problems more.  However, I really cannot find any faults in her methods; Kerry is a very hard worker and very adaptable to any group setting.
 
+**From Ilana (re: Rails Engine and Pahlka):** Kerry was an amazing partner to work with on rails engine and just an awesome example to be around. In our project, I was able to freely explore my thoughts because I knew that no matter where I got with them, Kerry would always be able to bring me back in and help wrangle them. I could go down a rabbit hole without fear because I knew that Kerry could pull me out. As a community member, Kerry has a big impact with her quiet authority. Palkha posse was able to conceptualize and bring a project to fruition because of her dedication. I'm going to miss having Kerry as part of 1603 more than she will ever know!
+
 **From Susi (re: Pahlka)** I have had the pleasure of getting to know Kerry during my first Module at Turing. She has been an leader in the Pahlka Posse from the first session and was a driving force all term. Her calm demeanor, direct approach to problems, and technique of helping is just incredible. She is a natural leader and organizer and has a knack for drawing people in. I paired with Kerry for a session with Battleship and she noticed that I was a visual learner; she took the time to use my index cards and drawings to make sure I understood what my next steps were. She has gone out of her way to check in with me to see how I am progressing and feeling. Kerry has made a huge impact on me and I hope to pay-it-forward in the same manner during my next Modules. Thank you for being such an inspiration, Kerry!
 
 **From Tommasina (re: Pahlka)** Kerry has been our indefatigable leader of Pahlka posse for the last two modules. I appreciate the way she's held our group to our commitment to meeting times and project goals by sending us friendly reminders and facilitating meetings. She consistently tutors other students in our cohort, sometimes forgoing the opportunity to get support on her own projects to do so. In addition to her organizational and leadership skills, Kerry has a strong grasp of our posse's affordable housing app and its many features from mapping with Google's API, jQuery and JavaScript, its styling in HTML and CSS, and its complicated Ruby calculations regarding distances and neighborhoods. She's openly shared her skills and knowledge of the app with newer students allowing them to feel ownership over it as well. I've been really grateful for the opportunity to work with her, and to learn from her, technically and professionally.
 
+
+**From Karina (re: Pahlka)** Kerry is an individual that I am lucky enough to interact with on many levels at Turing.  Having similar interests and passions, we tend to end up in the same room a lot of the time of our own accord. I’m grateful for that.
+
+There’s a profusion of strings populating the sky for a developer; strings tied to the many integral parts of the society in which we live. From a developers end, our end, the tugging of even the most brittle strings inevitably brings change to the world tied to the opposite end.  That is power. I believe Kerry is extraordinarily self-aware and thus acknowledges this power. That being said, I’ve observed Kerry in her persistence upon pulling exclusively those strings tied to those fragile fragments of society which she perceives to be the most broken. Because of this, I feel as if every droplet of developer power that Kerry works so diligently to squeeze out of Turing, is a droplet of power for our society — home —  as a whole. Metaphors aside Kerry is reliable, bright, and undeniably has one of the warmest hearts.  It brings me joy to think that an individual like herself will soon be set loose in that enigmatic developer world riddled with strings and loose ends. For everyone’s sake, may her persistence persist.
+
 **From Thom (re: Pahlka)** Kerry was a core part of Pahlka. She has a calm energy, that gets thing done quickly and efficiently. She fills any gaps she sees and does what needs to be done. You tend to forget she’s a student from the way she interacts with you, and I found myself asking for her advice regularly.
 
 ### Playing a Part
-* I co-led the Pahlka posse.  As part of that, I organized our student support efforts for all members that requested support in a given week.  
+* I co-led the Pahlka posse.   
 * I provided weekly one-on-one support to Pahlka posse members.
 * I joined Turing outreach and participated in two efforts this module:  
     * TA'd at a local library for kids learning HTML/CSS
-    * Helped staff to develop curriculum for CTIA session.  Helped organize and facilitate Turing TAs for CTIA session.  
-* I attended every day this module and sought to be an active and engaged participant in GearUp discussions.
+    * Helped staff develop curriculum for CTIA session.  Helped organize and facilitate Turing TAs for CTIA session.  
+* I attended (every day this module and sought to be an active and engaged participant in GearUp discussions.
 
 ## Review
 
