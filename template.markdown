@@ -9,6 +9,14 @@
 
 (Notes & scores from your assessment rubric)
 
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Skills**: X
+* **E: Peer & Instructor Feedback & Community Participation**: X
+
 ### Work
 
 (Intro)

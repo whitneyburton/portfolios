@@ -39,31 +39,32 @@ while achieving consistently satisfactory results.
 dependable member of the team or achieves consistently sub-par work.
 * 1: Student is not a valuable member of their teams.
 
-## D: Community Participation
+## D: Professional Skills
 
-A Turing student builds up the community around them by participating and
-supporting other students, the larger Turing family, and persons outside our
-walls who want to develop their own skills.
 
-* 4: Student has a significant positive impact on the learning and spirit of the
-people around them.
-* 3: Student participates in required activities and does at least one or two
-above-and-beyond supports of the community.
-* 2: Student participates in most required community activities (demos, lightning talks, etc)
-but does not do anything else of significance.
-* 1: Student stays in their lane and focuses just on their own learning.
+* 4:
+* 3:
+* 2:
+* 1:
 
-## E: Peer & Instructor Feedback
+## E: Peer & Instructor Feedback & Community Participation
 
 A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
 own growth by taking in and acting on the feedback of their peers and instructors.
+They build up the community around them by participating and supporting other students,
+the larger Turing family, and persons outside our walls who want to develop
+their own skills.
 
 * 4: Student helps others to be their best selves while using peer feedback
-to shape their own character and behavior.
+to shape their own character and behavior. They have a significant positive
+positive impact on the learning and spirit of the people around them.
 * 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback.
+strategies to improve themselves in response to feedback. They participate in required
+activities and does at least one or two above and beyond suports of the community.
 * 2: Student gives meaningful impact to peers as well as being aware of themes
-in the feedback they receive.
+in the feedback they receive. They participate in most required community activities
+such as demos, lightning talks, improv, but does not do anything else of
+significance.
 * 1: Student does not consistently participate in or construct meaningful peer
-feedback.
+feedback. They stay in their lane and focuses on just their own learning.
