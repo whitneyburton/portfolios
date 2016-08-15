@@ -1,9 +1,9 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Your Name) - M2 Portfolio
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goal for this module is to build on the fountaions of Ruby and TDD that I learned in mod 1, and be able to bring these skills to the web with Rails.  I want to get very comfortable with the MVC model so that I will be able to learn different frameworks that use it.  I'm very interested in learning SQL, databases, and database relationships.  I also want to participate in the Turing community more than I did last module.
 
 ### End of Module Assessment
 
