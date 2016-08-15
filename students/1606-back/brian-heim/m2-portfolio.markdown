@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-My goals for this module are to keep up with the amount of material we will be covering, as well as practice my HTML/CSS skills so that I can create aesthetically pleasing sites.
+My goals for this module are to keep up with the amount of material we will be covering, and truly understand Sinatra/Rails, etc. so that I can produce strong work this module. I also want to practice my HTML/CSS skills so that I can create aesthetically pleasing sites.
 
 I want to get comfortable job searching and strive to work toward improving my networking skills.
 
