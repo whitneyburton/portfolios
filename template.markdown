@@ -54,6 +54,23 @@
 (feedback to me)
 
 ## D: Professional Skills
+(Intro)
+
+### Gear Up
+#### (Session Name)
+
+* [GitHub URL]()
+
+(takeaways from session)
+
+
+### Professional Development Workshops
+#### (Session Name)
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
 
 ## E: Feedback and Community Participation
 
@@ -72,14 +89,6 @@
 ------------------
 
 ## Final Review
-
-### Rubric Scores
-
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
 
 ### Notes
 
