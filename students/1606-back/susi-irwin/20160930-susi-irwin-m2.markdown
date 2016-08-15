@@ -1,9 +1,9 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Susi Irwin - M2 Portfolio
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module I am setting the goal for myself to really understand HTML and CSS as well as Rails. I want to be able to be a contributing successful member of my cohort and of group projects. I would like to work on my confidence in coding and develop more of an instinct to know what to try and do as I move forward. I want to be able to leave this module feeling like I have a solid understanding of the concepts presented to me. In my posse (Pahlka), I will be a more active member workong on the technology side of things. I will be a leader of the imposter lunch series. I will be a successful pair to the members of 1608-BE and comtinue to develop my pairing skills with my cohort-mates. I want to be a positive influence on and member of the Turing Community.
 
 ### End of Module Assessment
 
