@@ -272,8 +272,8 @@ The output from `rake sanitation:all` shows...
 
 * **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 4
-* **D: Community Participation**: 4
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
@@ -282,4 +282,4 @@ The output from `rake sanitation:all` shows...
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
