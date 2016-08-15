@@ -47,7 +47,7 @@ dependable member of the team or achieves consistently sub-par work.
 * 2:
 * 1:
 
-## E: Peer & Instructor Feedback & Community Participation
+## E: Feedback & Community Participation
 
 A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
