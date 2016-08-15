@@ -42,10 +42,11 @@ dependable member of the team or achieves consistently sub-par work.
 ## D: Professional Skills
 
 
-* 4:
+* 4: 
 * 3:
-* 2:
-* 1:
+* 2: 
+* 1: Student puts minimal effort into deliverable, did not follow directions, or is off topic. 
+* 0: Student does not complete the deliverable. 
 
 ## E: Feedback & Community Participation
 
