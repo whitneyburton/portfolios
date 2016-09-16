@@ -5,11 +5,22 @@
 
 My goal for this module is to build on the fountaions of Ruby and TDD that I learned in mod 1, and be able to bring these skills to the web with Rails.  I want to get very comfortable with the MVC model so that I will be able to learn different frameworks that use it.  I'm very interested in learning SQL, databases, and database relationships.  I also want to participate in the Turing community more than I did last module.
 
-### End of Module Assessment
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Skills**: X
+* **E: Feedback & Community Participation**: X
+
+-----------------------
+
+## A: End of Module Assessment
 
 (Notes & scores from your assessment rubric)
 
-### Work
+
+## B: Individual Work & Projects
 
 (Intro)
 
@@ -24,7 +35,7 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 (evaluation scores)
 
-## Team
+## C: Group Work & Projects
 
 ### Projects
 
@@ -43,7 +54,26 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 (feedback to me)
 
-## Community
+## D: Professional Skills
+(Intro)
+
+### Gear Up
+#### (Session Name)
+
+* [GitHub URL]()
+
+(takeaways from session)
+
+
+### Professional Development Workshops
+#### (Session Name)
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+## E: Feedback and Community Participation
 
 ### Giving Feedback
 
@@ -57,15 +87,9 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 (ways you supported the larger Turing community)
 
-## Review
+------------------
 
-### Rubric Scores
-
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+## Final Review
 
 ### Notes
 
