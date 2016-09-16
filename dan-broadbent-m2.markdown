@@ -58,6 +58,24 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 (Intro)
 
 ### Gear Up
+#### Debugging the Gender gap
+
+* [GitHub URL]()
+
+(takeaways from session)
+
+#### There is an "I" in "Team"
+
+* https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown](There is an "I" in "Team")
+
+(takeaways from session)
+
+#### Getting Better at Difficult Things
+
+* [https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown]()
+
+(takeaways from session)
+
 #### (Session Name)
 
 * [GitHub URL]()
