@@ -148,9 +148,19 @@
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Personal Branding
 
-* [Workshop URL]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md)
+* Deliverables:
+* [LinkedIn](https://www.linkedin.com/in/erin-pintozzi)
+* [Github](https://github.com/epintozzi)
+* [Twitter](https://twitter.com/ErinPintozzi)
+
+(takeaways from session)
+
+#### Learning to Pair
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md)
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
