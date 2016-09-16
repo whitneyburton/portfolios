@@ -21,12 +21,16 @@
 
 ## B: Individual Work & Projects
 
-#### (Date Night)
+#### Date Night
 
 * [GitHub URL](https://github.com/JStans12/binary_search)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
-(description)
+good test coverage overall, needs a node test for basic data and maybe a way to call the title on the node
+full functionality including all extensions
+good consistent use of recursion
+could use a little bit more breaking methods out of nested if statements
+
 
 (evaluation comments)
 
