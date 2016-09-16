@@ -36,6 +36,41 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 
 (Intro)
 
+#### Rush Hour
+
+* [GitHub URL](https://github.com/JeanJoeris/rush-hour)
+* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/rush_hour/jean_ben_matt.md)
+
+The purpose of this project was to design a program that could recieve JSON containing data on an http request. The app would then parse this data into a database and provide information about these requests
+
+(evaluation comments)
+
+#### 1. Functional Expectations
+
+* 3: Application fulfills base expectations
+
+#### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration/feature tests
+
+#### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+#### 4. Fundamental Ruby & Style
+
+* 3: Application shows strong effort towards organization, content, and refactoring
+
+#### 5. Sinatra / Web and Business Logic
+
+* 3: Application makes good use of Sinatra but has some mixing of the web and business logic.
+
+#### 6. View Layer
+
+* 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
+
+(feedback to me)
+
 #### (Project Name)
 
 * [GitHub URL]()
@@ -50,6 +85,13 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 (feedback to me)
 
 ## Community
+
+* From Allison’s session:_
+ Two paragraph reflection on: 1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well? 2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+* From Lia’s sessions:_
+ List of 10 companies with one person you could connect with at each 
+* From Gear Up sessions:_
+ Takeaways from each session attended
 
 ### Giving Feedback
 
