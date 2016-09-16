@@ -44,6 +44,13 @@
 5. Looping or Recursion
  - 4: Application makes excellent use of loop/recursion techniques
 
+#### Event Reporter
+
+* [GitHub URL](https://github.com/JStans12/event-reporter)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
+
+
+
 
 ## C: Group Work & Projects
 
