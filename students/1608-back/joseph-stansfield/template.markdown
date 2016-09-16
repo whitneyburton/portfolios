@@ -33,8 +33,7 @@
 - could use a little bit more breaking methods out of nested if statements
 
 ##### Evaluation scores:
-1. Functional Expectations
-- 4: Application fulfills all base expectations and two extensions
+1. Functional Expectations - 4: Application fulfills all base expectations and two extensions
 
 
 (evaluation comments)
