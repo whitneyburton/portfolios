@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Erin Pintozzi - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -23,10 +23,32 @@
 
 (Intro)
 
-#### (Project Name)
+#### Sorting Suite
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/epintozzi/sorting_suite)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/67df787e17e66bb446af2e10c4c6e72b3d41579b/source/projects/sorting_suite.markdown)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Date Night
+
+* [GitHub URL](https://github.com/epintozzi/date_night)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Event Reporter
+
+* [GitHub URL](https://github.com/epintozzi/event_reporter)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
 
 (description)
 
@@ -40,7 +62,20 @@
 
 (Intro)
 
-#### (Project Name)
+#### Enigma
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### Headcount
 
 * [GitHub URL]()
 * [Original Assignment]()
