@@ -21,12 +21,10 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### (Date Night)
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/JStans12/binary_search)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
 (description)
 
