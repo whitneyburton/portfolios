@@ -49,6 +49,7 @@
 
 *Scores*
 <br/>
+
 1. Functional Expectations - 2: Application is missing one base expectation
 
 2. Test-Driven Development - 2: Application makes some use of tests, but the coverage is insufficient
@@ -74,6 +75,7 @@
 
 *Scores*
 <br/>
+
 1. Functional Expectations - 3: Application fulfills all base expectations
 
 2. REPL Interface - 3: Application's REPL is clear and pleasant to use
@@ -110,6 +112,7 @@
 
 *Scores*
 <br/>
+
 1. Overall Functionality - 4: Application follows the complete spec and one extension
 
 2. Fundamental Ruby & Style - 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
