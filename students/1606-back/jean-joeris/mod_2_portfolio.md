@@ -19,7 +19,51 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 
 (Intro)
 
-#### (Project Name)
+#### Robot World
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Rails Challenge
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Blogger
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Mix Master
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Lighting Talk
 
 * [GitHub URL]()
 * [Original Assignment]()
