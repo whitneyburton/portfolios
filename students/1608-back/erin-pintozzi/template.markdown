@@ -16,7 +16,25 @@
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+### Notes
+#### 1. Ruby Syntax & API
+* 4: Developer is able to write Ruby with a minimum of reference or debugging
+
+#### 2. Completion and Progress
+* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+
+#### 3. Testing
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+#### 4. Workflow
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+ 
+#### 5. Collaboration
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+#### 6. Enumerable & Collections
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
 
 
 ## B: Individual Work & Projects
