@@ -68,15 +68,20 @@
 *Scores*
 <br/>
 
-1. Functional Expectations - 2: Application is missing one base expectation
+#### 1. Functional Expectations 
+* 2: Application is missing one base expectation
 
-2. Test-Driven Development - 2: Application makes some use of tests, but the coverage is insufficient
+#### 2. Test-Driven Development
+* 2: Application makes some use of tests, but the coverage is insufficient
 
-3. Encapsulation / Breaking Logic into Components - 3: Application effectively breaks logical components apart but breaks the principle of SRP
+#### 3. Encapsulation / Breaking Logic into Components 
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-4. Fundamental Ruby & Style - 2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+#### 4. Fundamental Ruby & Style 
+* 2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
-5. Looping or Recursion - 3: Application makes effective use of loop/recursion techniques
+#### 5. Looping or Recursion 
+* 3: Application makes effective use of loop/recursion techniques
 
 
 #### Event Reporter
@@ -94,19 +99,26 @@
 *Scores*
 <br/>
 
-1. Functional Expectations - 3: Application fulfills all base expectations
+#### 1. Functional Expectations
+* 3: Application fulfills all base expectations
 
-2. REPL Interface - 3: Application's REPL is clear and pleasant to use
+#### 2. REPL Interface
+* 3: Application's REPL is clear and pleasant to use
 
-3. Test-Driven Development - 3: Application is well tested but does not balance isolation and integration tests
+#### 3. Test-Driven Development
+* 3: Application is well tested but does not balance isolation and integration tests
 
-4. Breaking Logic into Components - 3: Application effectively breaks logical components apart with clear intent and usage
+#### 4. Breaking Logic into Components
+* 3: Application effectively breaks logical components apart with clear intent and usage
 
-5. Fundamental Ruby & Style - 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+#### 5. Fundamental Ruby & Style
+* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-6. Enumerable & Collections - 3: Application demonstrates comfortable use of several Enumerable techniques
+#### 6. Enumerable & Collections
+* 3: Application demonstrates comfortable use of several Enumerable techniques
 
-7. HTML and Style - 4: Usses CSS and is aesthetically pleasing, using of images, colors and metadata.
+#### 7. HTML and Style
+* 4: Usses CSS and is aesthetically pleasing, using of images, colors and metadata.
 
 ## C: Group Work & Projects
 
@@ -131,13 +143,17 @@
 *Scores*
 <br/>
 
-1. Overall Functionality - 4: Application follows the complete spec and one extension
+#### 1. Overall Functionality
+* 4: Application follows the complete spec and one extension
 
-2. Fundamental Ruby & Style - 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+#### 2. Fundamental Ruby & Style
+* 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
-3. Test-Driven Development - 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
+#### 3. Test-Driven Development
+* 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
 
-4. Breaking Logic into Components - 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
+#### 4. Breaking Logic into Components
+* 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
 
 (feedback to me)
 
@@ -169,7 +185,8 @@
 #### Personal Branding
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md)
-* Deliverables:
+
+#### Deliverables:
 * [LinkedIn](https://www.linkedin.com/in/erin-pintozzi)
 * [Github](https://github.com/epintozzi)
 * [Twitter](https://twitter.com/ErinPintozzi)
