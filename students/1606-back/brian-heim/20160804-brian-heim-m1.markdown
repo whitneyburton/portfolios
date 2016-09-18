@@ -279,4 +279,4 @@ The output from `rake sanitation:all` shows...
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROVISIONAL
