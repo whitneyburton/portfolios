@@ -94,6 +94,14 @@ __Project__ description.
 (Intro)
 
 ---
+### Deliverables
+#### Technical Blog Post
+
+* [Blog Post Title]()
+
+#### Lightning Talk
+
+* [What The Heck Is DevOps And Why You Should Care](https://docs.google.com/presentation/d/161BZDpGzsRJwt431WinzcgZm6g-zMrMFxpKcWWUFz7k/edit?usp=sharing)
 
 ### Gear Up
 #### Getting Better At Difficult Things
@@ -146,13 +154,17 @@ __Project__ description.
 
 ### Playing a Part
 
-(Community participation notes)
+#### Golick Posse
+- a blurb about what I did with my posse over this Module
+- my favorite thing about the posse experience
+- how has my experience with Golick helped me grow as a professional?
 
+#### Other
 - Paring with Mod1 students
 - Friday Spike on Git and Github with Ben Pepper
 - SAB - tried to attend as many staff retros as I could in order to ensure 1606-BE was well heard and well informed
 - Continue to tweet about my experience at Turing
-- Attended a Hackathon--Hackthe.News--and participated on an all-Turing team that snagged third prize 
+- Attended a Hackathon--Hackthe.News--and participated on an all-Turing team that snagged third prize
 
 ---
 
