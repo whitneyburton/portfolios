@@ -27,37 +27,29 @@ Module 2 work description
 
 ### Sinatra CRUD - Robot World
 
-* [GitHub URL]
-* [Original Assignment]
-
-__Project__ description.
+* [GitHub URL](https://github.com/j-sm-n/robot_world)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/intro_to_crud.markdown)
 
 ---
 
 ### Blogger
 
-* [GitHub URL]
-* [Original Assignment]
-
-__Project__ description.
+* [GitHub URL](https://github.com/j-sm-n/blogger)
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/blogger.html#i1:-form-based-workflow)
 
 ---
 
 ### Mix Master
 
-* [GitHub URL]
-* [Original Assignment]
-
-__Project__ description.
+* [GitHub URL](https://github.com/j-sm-n/mix_master)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
 
 ---
 
 ### Rails Mini Project - IdeaBox
 
-* [GitHub URL]
-* [Original Assignment]
-
-__Project__ description.
+* [GitHub URL](https://github.com/j-sm-n/idea_box)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
 ---
 
@@ -69,8 +61,8 @@ Team projects description.
 
 ### Rush Hour
 
-* [GitHub URL]
-* [Original Assignment]
+* [GitHub URL](https://github.com/tgisg/rush-hour-skeleton)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
 __Project__ description.
 
@@ -83,7 +75,7 @@ __Project__ description.
 * [GitHub URL]
 * [Original Assignment]
 
-__Project__ description.
+__Rush Hour__ is a Sinatra app that utilizes ActiveRecord to track web traffic, specifically post requests, and analyzes the data come with those requests.
 
 (Feedback from team)
 
