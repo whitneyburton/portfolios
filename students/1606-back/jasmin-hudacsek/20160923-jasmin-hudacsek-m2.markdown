@@ -103,6 +103,8 @@ __Project__ description.
 
 * [What The Heck Is DevOps And Why You Should Care](https://docs.google.com/presentation/d/161BZDpGzsRJwt431WinzcgZm6g-zMrMFxpKcWWUFz7k/edit?usp=sharing)
 
+---
+
 ### Gear Up
 #### Getting Better At Difficult Things
 
