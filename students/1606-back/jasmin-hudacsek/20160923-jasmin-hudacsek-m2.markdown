@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-This module, I would really like to focus on participating more within the Turing community and Golick Posse.
+This module, I would really like to focus on participating more within the Turing community and Golick Posse, time permitting. I'd also like to become really comfortable with more advanced git worklfow and am looking forward to practicing it within larger teams. I have some experience with Bootstrap from work experience before Turing, but I'm excited to learn how to properly implement it (as I self taught it to myself and it's pretty janky currently) within a whole web application. Other than that, I feel like I'm fairly well prepared to learn the basics of Sinatra, Rails and how CRUD works and can't wait to get my hands dirty (metaphorically, of course). 
 
 ---
 
