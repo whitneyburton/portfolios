@@ -39,9 +39,19 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Individual Assessment: Passing Score (All 3's) required
 * Required Project: Final Project (Game Time) -- Passing Score (All 3's) required
 * Included Projects:
- * Linked List 
+ * Linked List
  * Number Guesser
  * Color Changer
+* Feedback: Self-Solicited and from Feedback App
+
+### Module 2 (Front-end)
+
+* Individual Assessment: Passing Score (All 3's) required
+* Required Project: Final Project (Shoot The Breeze) -- Passing Score (All 3's) required
+* Included Projects:
+ * A Very Lonely Chat Room  
+ * Tier One Project
+ * Tier Two Project
 * Feedback: Self-Solicited and from Feedback App
 
 #### Professional Skills Requirements
