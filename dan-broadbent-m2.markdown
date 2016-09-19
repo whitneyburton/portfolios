@@ -24,7 +24,7 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 (Intro)
 
-#### (Project Name)
+#### Rails Mini-Project
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -41,7 +41,20 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 (Intro)
 
-#### (Project Name)
+#### Rush Hour
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### Little Shop
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -60,7 +73,7 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 ### Gear Up
 #### Debugging the Gender gap
 
-* [GitHub URL]()
+* [https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown](CODE: Debugging the Gender Gap)
 
 (takeaways from session)
 
@@ -72,7 +85,7 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 #### Getting Better at Difficult Things
 
-* [https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown]()
+* [https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown](Getting Better at Difficult Things)
 
 (takeaways from session)
 
@@ -103,7 +116,7 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I did pairing sessions with Mod 1 students during the first weeks of the mod.  I found it to be both challenging and rewarding, guiding students was more difficult than I anticipated.  I also attended Denver Beta, a showcase for startups in the area, with another Mod 2 frontend student in my posse.
 
 ------------------
 
