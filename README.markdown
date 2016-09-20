@@ -41,7 +41,6 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Included Projects:
  * Linked List
  * Number Guesser
- * Color Changer
 * Feedback: Self-Solicited and from Feedback App
 
 ### Module 2 (Front-end)
