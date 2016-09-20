@@ -49,12 +49,10 @@ The following indivdual projects were not completed as a group/partnership but r
 ##### Description
 This project required the created of three sorting algorithms: Bubble Sort, Insertion Sort, and Merge Sort. This was the first project of the module.
 
-*Evaluation Comments*
-<br/>
+##### Evaluation Comments
 This project was not formally evaluated, however if I were scoring myself I'd note that I was missing test files for all three sorting algorithms. I also did each as one long method per algorithm so improvement could definitely be made in the organization of this project.
 
-*Evaluation Scores*
-<br/>
+##### Evaluation Scores
 If I were scoring myself, I'd rate my work on this project as:
 #### 1. Functional Expectations 
 * 3: All three sort classes work as expected
@@ -77,14 +75,13 @@ If I were scoring myself, I'd rate my work on this project as:
 ##### Description
 This project required that we take movie titles and scores and store them in a binary search tree. Some of the key "new" things and areas of learning for me included loading a csv file with scores in to the tree, writing tests, and learning how to refactor lengthy/complicated methods in to smaller methods in an aim to follow SRP.
 
-*Notes*
+##### Evaluation Comments
 * Missing sort method
 * Some missing coverage, very strong in other areas (covering edge cases and verifying impact of methods like load)
 * TONS of nested if/elsif statements. Would like to see these reorganized
 * Solid use of recursion. Nice job!
 
-*Scores*
-<br/>
+##### Evaluation Scores
 
 #### 1. Functional Expectations 
 * 2: Application is missing one base expectation
@@ -110,13 +107,12 @@ This project required that we take movie titles and scores and store them in a b
 ##### Description
 This project required us to take event registration information and load the file with the program, and then use the program to manipulate the data for a desired output. Learning objective and areas of growth for me included: gaining a better understanding of how methods and classes work together (including the passing in of parameters across several methods), improved testing strategies, extracting larger methods in to their own/SRP methods, and creating a REPL (the REPL was probably the biggest challenge for me in this project).
 
-*Notes*
+##### Evaluation Comments
 * 32 tests, 59 assertions, 0 failures, 92% coverage
 * good separation of responsibilities among classes and modules
 * repl could use a little extraction of code for double nested if statements
 
-*Scores*
-<br/>
+##### Evaluation Scores
 
 #### 1. Functional Expectations
 * 3: Application fulfills all base expectations
@@ -143,23 +139,24 @@ This project required us to take event registration information and load the fil
 
 ### Projects
 
-(Intro)
+The following projects were completed as a group/partnership.
 
 #### Enigma
 
 * [GitHub URL](https://github.com/epintozzi/enigma-1)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-(description)
+##### Description
+For this project, we built and encrpytion engine that could also decrypt and crack encrypted messages both by inputing the method directly in to the project and also by reading and writing files via commands within the program. Learning objectives also included improved testing techniques, practicing with enumerables, and appropriately breaking down logic in to single responsibility methods/classes.
 
-*Notes*
+##### Evaluation Comments
 * 13 tests, all passing
 * A bit of overuse of instance variables, think about methods sending messages
 * Enigma is doing a lot, break out functionality to perhaps a rotator class.
 * Some very long methods.
 * Enigma class does way too much.
 
-*Scores*
+##### Evaluation Scores
 <br/>
 
 #### 1. Overall Functionality
@@ -181,11 +178,12 @@ This project required us to take event registration information and load the fil
 * [GitHub URL](https://github.com/dshinzie/headcount/)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-(description)
+##### Description
+In this project, we took real-life data about participation rates in kindergarten, high school graduation, and poverty levels to create a program that could analyze the data and give meaningful results with regard to how all of that data correlated with each other. This was done by creating relationships among the data and then writing analysis methods to help interpret the significance of all the information.
 
-(evaluation comments)
+##### Evaluation Comments
 
-(evaluation scores)
+##### Evaluation Scores
 
 (feedback to me)
 
