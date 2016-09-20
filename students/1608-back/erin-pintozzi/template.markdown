@@ -208,14 +208,16 @@ In this project, we took real-life data about participation rates in kindergarte
 * [Github](https://github.com/epintozzi)
 * [Twitter](https://twitter.com/ErinPintozzi)
 
-(takeaways from session)
+##### Takeaways from Session
+My takeaways from this session are that it's not too early to start thinking about resumes and our web presence. How and where we present ourselves could have a big effect of how easily we finds jobs and how many become actual opportunities for us. It's also important to recognize the limitations we have as well, for example, we are not training to become engineers, and it would be disingenuous to represent ourselves as such. Though I already had Twitter, LinkedIn, and Github profiles, it is important that I make sure all the information is sufficiently updated and representative of how I'd like to be perceived among my peers and potential future employers.
 
 #### Learning to Pair
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://docs.google.com/document/d/1tFXm5fN1Hy1SZUVOt7P2O6ZuYA7lx219iUN--TA0h50/edit?usp=sharing)
 
-(takeaways from session)
+##### Takeaways from Session
+My takeaways from this session are about the importance of communication and feedback when pairing or acting as a part of any team of any size. It's also important to be receptive of feedback that is given to me, so that I can be a better partner/teammate both in the classroom and eventually when I'm back in the workforce.
 
 ## E: Feedback and Community Participation
 
