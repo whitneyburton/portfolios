@@ -81,24 +81,94 @@
 
 
 
+
+#### Event Reporter
+
+* [GitHub URL](https://github.com/meganft/event-reporter)
+* [Original Assignment]()
+
+(description)
+
+* 32 tests, 48 assertions
+* good separation of logic
+* uses a hash to store info, but understands the need for a model
+
+
+#### 1. Functional Expectations
+
+* 3: Application fulfills all base expectations
+
+
+#### 2. REPL Interface
+
+* 3: Application's REPL is clear and pleasant to use
+
+#### 3. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests
+
+
+#### 4. Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart with clear intent and usage
+
+
+#### 5. Fundamental Ruby & Style
+
+* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+
+#### 6. Enumerable & Collections
+
+* 4: Application consistently makes use of the best-choice Enumerable methods
+
+
+#### 7. HTML and Style
+
+* 4: Usses CSS and is aesthetically pleasing, using of images, colors and metadata.
+
+
+
+
+
 ### C: Group Work & Projects
 
 ### Projects
 
 (Intro)
 
-#### (Project Name)
+#### Enigma
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/meganft/enigma)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
 (description)
 
-(evaluation comments)
+* 13 tests, all passing
+* A bit of overuse of instance variables, think about methods sending messages
+* Enigma is doing a lot, break out functionality to perhaps a rotator class.
+* Some very long methods.
+* Enigma class does way too much.
 
-(evaluation scores)
+#### 1. Overall Functionality
+
+* 4: Application follows the complete spec and one extension
+
+#### 2. Fundamental Ruby & Style
+
+* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+#### 3. Test-Driven Development
+
+* 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
+
+#### 4. Breaking Logic into Components
+
+* 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
 
 (feedback to me)
+
+
 
 ## D: Professional Skills
 (Intro)
