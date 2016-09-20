@@ -36,7 +36,7 @@
 
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
-### 6. Enumerable & Collections
+#### 6. Enumerable & Collections
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
@@ -46,7 +46,7 @@
 
 (Intro)
 
-#### (Project Name)
+#### Jungle Beats
 
 * [GitHub URL](https://github.com/meganft/jungle_beats)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
@@ -59,27 +59,29 @@
 * Code separated well.
 
 
-### 1. Functional Expectations
+#### 1. Functional Expectations
 
 * 3: Application fulfills all base expectations
 
-### 2. Test-Driven Development
+#### 2. Test-Driven Development
 
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-### 3. Encapsulation / Breaking Logic into Components
+#### 3. Encapsulation / Breaking Logic into Components
 
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
 
-### 4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-### 5. Looping *or* Recursion
+#### 5. Looping *or* Recursion
 
 * 3: Application makes effective use of loop/recursion techniques
 
-## C: Group Work & Projects
+
+
+### C: Group Work & Projects
 
 ### Projects
 
