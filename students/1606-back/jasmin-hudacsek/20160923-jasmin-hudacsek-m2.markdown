@@ -23,7 +23,7 @@ This module, I would really like to focus on participating more within the Turin
 
 ## B: Individual Work & Projects
 
-Module 2 work description
+Tutorials and individual projects I completed:
 
 ### Sinatra CRUD - Robot World
 
@@ -57,14 +57,22 @@ Module 2 work description
 
 ### Projects
 
-Team projects description.
+Working in groups, I completed the following projects this module:
 
 ### Rush Hour
 
 * [GitHub URL](https://github.com/tgisg/rush-hour-skeleton)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
-__Project__ description.
+__Rush Hour__ was a Sinatra app that utilized ActiveRecord to track web traffic, specifically post requests, and analysis the data come with those requests.
+
+
+* **1: Functional Expectations**: 1.5
+* **2: Test-Driven Development**: 2
+* **3: Encapsulation/Breaking Logic Into Components**: 3
+* **4: Fundamental Ruby & Style**: 3
+* **5: Sinatra/Web & Business Logic**: 3
+* **6: View Layer**: 2.5
 
 (Feedback from team)
 
@@ -73,9 +81,6 @@ __Project__ description.
 ### Little Shop of Orders - GoodGrocers
 
 * [GitHub URL]
-* [Original Assignment]
-
-__Rush Hour__ is a Sinatra app that utilizes ActiveRecord to track web traffic, specifically post requests, and analyzes the data come with those requests.
 
 (Feedback from team)
 
@@ -83,9 +88,6 @@ __Rush Hour__ is a Sinatra app that utilizes ActiveRecord to track web traffic, 
 
 ## D: Professional Skills
 
-(Intro)
-
----
 ### Deliverables
 #### Technical Blog Post
 
