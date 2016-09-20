@@ -39,25 +39,43 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+The following indivdual projects were not completed as a group/partnership but rather as an individual effort. 
 
 #### Sorting Suite
 
 * [GitHub URL](https://github.com/epintozzi/sorting_suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/67df787e17e66bb446af2e10c4c6e72b3d41579b/source/projects/sorting_suite.markdown)
 
-(description)
+##### Description
+This project required the created of three sorting algorithms: Bubble Sort, Insertion Sort, and Merge Sort. This was the first project of the module.
 
-(evaluation comments)
+*Evaluation Comments*
+<br/>
+This project was not formally evaluated, however if I were scoring myself I'd note that I was missing test files for all three sorting algorithms. I also did each as one long method per algorithm so improvement could definitely be made in the organization of this project.
 
-(evaluation scores)
+*Evaluation Scores*
+<br/>
+If I were scoring myself, I'd rate my work on this project as:
+#### 1. Functional Expectations 
+* 3: All three sort classes work as expected
+
+#### 2. Test-Driven Development
+* 0: No testing was done for this project
+
+#### 3. Fundamental Ruby & Style 
+* 2: Code runs effectively but has large issues with readbility (long methods, confusing method or variable names, etc)
+
+#### 1. Organization 
+* 1: Components work together properly
+
 
 #### Date Night
 
 * [GitHub URL](https://github.com/epintozzi/date_night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
-(description)
+##### Description
+This project required that we take movie titles and scores and store them in a binary search tree. Some of the key "new" things and areas of learning for me included loading a csv file with scores in to the tree, writing tests, and learning how to refactor lengthy/complicated methods in to smaller methods in an aim to follow SRP.
 
 *Notes*
 * Missing sort method
@@ -89,7 +107,8 @@
 * [GitHub URL](https://github.com/epintozzi/event_reporter)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
 
-(description)
+##### Description
+This project required us to take event registration information and load the file with the program, and then use the program to manipulate the data for a desired output. Learning objective and areas of growth for me included: gaining a better understanding of how methods and classes work together (including the passing in of parameters across several methods), improved testing strategies, extracting larger methods in to their own/SRP methods, and creating a REPL (the REPL was probably the biggest challenge for me in this project).
 
 *Notes*
 * 32 tests, 59 assertions, 0 failures, 92% coverage
