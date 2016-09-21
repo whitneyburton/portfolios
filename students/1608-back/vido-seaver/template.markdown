@@ -61,7 +61,7 @@
 
 * [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+(takeaways from session)
 
 
 ### Professional Development Workshops

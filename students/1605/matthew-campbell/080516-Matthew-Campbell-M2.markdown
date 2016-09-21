@@ -190,6 +190,14 @@ excitement for owning a small business alive.
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
-
+* Enjoyed the flexibility with mod 2 - not many graded assignments - allowed for time with family and independent learning
+* Keeping up with Turing Podcast
+* Feeling comfortable with ActiveRecord and Rails
+* Rails Mini Project was fun - got a lot out of adding the extensions and peer review
+* Could work on giving constructive feedback
+* Very involved with the Turing Community
+* Enjoying the Bachman posse
 
 ### Outcome
+
+Pass

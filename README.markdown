@@ -30,25 +30,32 @@ portfolio should be written/submitted
 
 A passing Chisel project completed during the final 2 weeks of the module **OR** Satisfactory progress on the Headcount / Black Thursday final project.
 
-#### Soft Skills / Protocol Requirements
+#### Professional Skills Requirements
 
-1. 1 DTR memo from a project during the module
-2. 1 example of a well-written project readme
+1 DTR memo from a project during the module
 
 ### Module 1 (Front-end)
 
 * Individual Assessment: Passing Score (All 3's) required
 * Required Project: Final Project (Game Time) -- Passing Score (All 3's) required
 * Included Projects:
- * Linked List 
+ * Linked List
  * Number Guesser
- * Color Changer
 * Feedback: Self-Solicited and from Feedback App
 
-#### Soft Skills / Protocol Requirements
+### Module 2 (Front-end)
 
-1. 1 DTR memo from a project during the module
-2. 1 example of a well-written project readme
+* Individual Assessment: Passing Score (All 3's) required
+* Required Project: Final Project (Shoot The Breeze) -- Passing Score (All 3's) required
+* Included Projects:
+ * A Very Lonely Chat Room  
+ * Tier One Project
+ * Tier Two Project
+* Feedback: Self-Solicited and from Feedback App
+
+#### Professional Skills Requirements
+
+1 DTR memo from a project during the module
 
 ### Module 2
 
@@ -66,6 +73,12 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
  * Include what you implemented for the extension day. And include a short description of what you built and what you took away/learned from this project.
 * Evaluated projects: Rush Hour, Little Shop
 * Assessments: mid-module, final
+
+#### Professional Skills Requirements
+
+Two paragraph reflection on:
+1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+2. How you incorporated feedback from your team members and what you learned about yourself in the process.
 
 ### Module 3
 

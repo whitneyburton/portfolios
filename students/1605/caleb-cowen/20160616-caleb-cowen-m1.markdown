@@ -227,7 +227,7 @@ Feedback to Tommasina: Working with Tommasina was very enjoyable. I was a bit co
 
 ### Being a Community Member
 
-(Very optimistic, help to keep morale high)
+(From Beth: Caleb and I had an opportunity to pair several times throughout this past module. He was engaged, curious, would ask clarifying questions and was able to extend suggestions I made to new scenarios. I would like to see Caleb work on his workflow and window navigation.)
 
 ### Playing a Part
 
