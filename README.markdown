@@ -62,9 +62,10 @@ __Soft Skills / Protocol Requirements__
 
 ### Module 4
 
-* Individual Assessment: Only if needed
+* Individual Assessment (thoughtbox)
 * Required Project: GameTime, ScaleUp
   * Should include points breakdown per project
+* Bonus Project (not required): IdeaBox
 * Feedback: Self-Solicited
 
 ## Submission Guidelines
