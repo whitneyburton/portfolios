@@ -72,7 +72,6 @@ Blogger is a Rails app that is a basic blogging platform featuring comments and 
 
 * [https://github.com/bheim6/mix_master]
 * [https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master]
-* [Heroku URL]
 
 __Project__ description:
 
@@ -136,7 +135,21 @@ __Project__ scores:
 
 * 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
-(Feedback from team)
+#### Feedback for Brian
+
+##### Positives:
+
+Extremely positive attitude all the time. Throughout the project, no matter the pace or progress, Brian was very positive. He always said things like, 'Good job' and 'We are doing great.'
+Very calm and even headed during stressful situations. Even when we were stuck on problems or behind our schedule, Brian always was calm. He never lost his temper at all.
+Working with Brian made the me faster. He is great finding errors and issues that I may have overlooked as I was implementing a test or code.
+
+##### Area of growth
+
+I challenge Brian to apply more rigor to his hypothesis formulation and strive to eliminate some of the random guessing he applied to problem solving. While random guessing is a totally legitimate strategy in some situations, Brian will be better served in forcing himself to make a hypothesis or rationalize his guesses with data and/or technical knowledge.
+
+##### Overall
+
+The partnership was a positive experience. It was nice that the content was the hardest part of this project.
 
 ---
 
@@ -227,7 +240,21 @@ I liked that we had to practice networking in this lesson. It really gave us som
 
 ### Being a Community Member
 
-(Feedback to me)
+#### Feedback for Brian (From Jesse Spevack)
+
+##### Positives:
+
+Extremely positive attitude all the time. Throughout the project, no matter the pace or progress, Brian was very positive. He always said things like, 'Good job' and 'We are doing great.'
+Very calm and even headed during stressful situations. Even when we were stuck on problems or behind our schedule, Brian always was calm. He never lost his temper at all.
+Working with Brian made the me faster. He is great finding errors and issues that I may have overlooked as I was implementing a test or code.
+
+#####Area of growth
+
+I challenge Brian to apply more rigor to his hypothesis formulation and strive to eliminate some of the random guessing he applied to problem solving. While random guessing is a totally legitimate strategy in some situations, Brian will be better served in forcing himself to make a hypothesis or rationalize his guesses with data and/or technical knowledge.
+
+#####Overall
+
+The partnership was a positive experience. It was nice that the content was the hardest part of this project.
 
 ### Playing a Part
 
