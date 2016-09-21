@@ -20,7 +20,7 @@
 
 ## B: Individual Work & Projects
 
-Module 2 work description
+This section contains no assessed work, but instead consists of many tutorials and mini-projects that were done throughout the module. 
 
 ### Robot World
 
@@ -41,8 +41,6 @@ Robot World is a Sinatra app that serves as a directory of robots. Robots have v
 __Project__ description:
 
 Blogger is a Rails app that is a basic blogging platform featuring comments and tags. Style built in to the Jumpstartlab tutorial.
-
-
 
 ---
 
@@ -67,7 +65,9 @@ note: currently Heroku does not authenticate with Spotify.
 
 __Project__ description:
 
-Idea Box is an app that lets users record their ideas, add images and associate categories with these ideas. There is an admin role that can create images an categories, regular users only have the ability to create ideas.  
+Idea Box is an app that lets users record their ideas, add images and associate categories with these ideas. There is an admin role that can create images an categories, regular users only have the ability to create ideas.
+
+Extension: Uses RSpec instead of Test::Unit
 
 ---
 
@@ -79,10 +79,12 @@ Team projects description.
 
 ### Rush Hour
 
-* [GitHub URL]
-* [Original Assignment]
+* [https://github.com/bheim6/rush-hour-skeleton]
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md]
 
-__Project__ description.
+__Project__ description:
+
+Rush Hour is a Ruby, Sinatra, and ActiveRecord app that analyzes web traffic. The statistics are displayed on the web, and are navigable based on a number of criteria.
 
 (Feedback from team)
 
