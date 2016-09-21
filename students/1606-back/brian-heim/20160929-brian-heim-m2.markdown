@@ -75,7 +75,7 @@ Extension: Uses RSpec instead of Test::Unit
 
 ### Projects
 
-Team projects description.
+This section contains the only assessed work from the module, both group projects were graded. Little Shop was my favorite of the two, I enjoyed it because it allowed us to be creative and have some fun with the subject matter. 
 
 ### Rush Hour
 
@@ -85,6 +85,32 @@ Team projects description.
 __Project__ description:
 
 Rush Hour is a Ruby, Sinatra, and ActiveRecord app that analyzes web traffic. The statistics are displayed on the web, and are navigable based on a number of criteria.
+
+__Project__ scores:
+
+#### 1. Functional Expectations
+
+* 3: Application fulfills base expectations
+
+#### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration/feature tests
+
+#### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+#### 4. Fundamental Ruby & Style
+
+* 3: Application shows strong effort towards organization, content, and refactoring
+
+#### 5. Sinatra / Web and Business Logic
+
+* 3: Application makes good use of Sinatra but has some mixing of the web and business logic.
+
+#### 6. View Layer
+
+* 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
 (Feedback from team)
 
@@ -154,7 +180,7 @@ I learned alot about branding myself in the tech industry but really took away a
 
 #### Networking with Lia
 
-(takeaways from session)
+I liked that we had to practice networking in this lesson. It really gave us some good practice before the Denver Startup Week job fair and helped me organize my "about me" shpiel by using "Who are you", "How did you get here", and "What's next?" as guidelines to drive the conversation.
 
 ---
 
