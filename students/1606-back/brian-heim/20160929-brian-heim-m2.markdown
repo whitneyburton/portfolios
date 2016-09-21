@@ -176,6 +176,15 @@ I learned alot about branding myself in the tech industry but really took away a
 #### Collaborative Communication with Allison
 
 1. Details on project management strategies you used in your projects Rush Hour and/or Little Shop); What went well? What didn’t go well?
+
+##### The Good
+* We used Waffle extensively as a project management tool during both Rush Hour and Little Shop. It was very helpful to keep track of the work that still needed to be done and organized it in a nice way that also integrates with GitHub.
+* We instituted regular check-ins that kept everybody on the same page and aware of each team members' unique schedule and personal needs
+* We kept communication lines open and welcome, which made discussing issues and being held accountable both respectful and actionable
+
+##### The Not-As-Good
+* I learned that I am not the best Project Manager. I enjoy using the tools and find them very helpful, but can sometimes forget to incorporate the tools into my regular workflow
+
 2. How you incorporated feedback from your team members and what you learned about yourself in the process.
 
 #### Networking with Lia
@@ -198,6 +207,7 @@ I liked that we had to practice networking in this lesson. It really gave us som
 
 * Armstrong Posse - I contributed during the creation of our linear regression app and participate regularly in posse discussions 
 * Regularly empty dishes and load/run dishwashers in big workspace
+* Organized disc-golf outings with the #disc-golfers channel and met some new Mod 1 students
 
 
 ---
