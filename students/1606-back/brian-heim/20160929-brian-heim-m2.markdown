@@ -62,10 +62,12 @@ note: currently Heroku does not authenticate with Spotify.
 
 ### Rails Mini Project - IdeaBox
 
-* [GitHub URL]
-* [Original Assignment]
+* [https://github.com/bheim6/Idea_box_v2]
+* [https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown]
 
-__Project__ description.
+__Project__ description:
+
+Idea Box is an app that lets users record their ideas, add images and associate categories with these ideas. There is an admin role that can create images an categories, regular users only have the ability to create ideas.  
 
 ---
 
