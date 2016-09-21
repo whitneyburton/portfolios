@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to improve upon my Mod 1 performance this module, not only in academics but in community involvement and professional skills as well. In academics, I wanted to focus more on making sure that I truly grasped concepts and could easily execute new skills through practice and repetition. I feel as though I achieved this goal, and truly put in the hours and never got behind of the steady Mod 2 workload. In the community I especially set out to be more involved in posses, and ended up joining Armstrong after some encouragement from Jean, who had heard that I did statistics and advanced calculus in college. I am very happy in Armstrong and have attended as many meetings as possible. With regard to Professional Skills, I wanted to learn more about how to navigate the tech job marketplace. Lia's sessions were very helpful and outlined some great strategies to aid with the job hunt and getting noticed through networking both in person and on social media. Another goal for me was to attend the Denver Startup Week job fair and gain some experience talking to companies and presenting myself well.      
 
 ## Rubric Scores
 
@@ -171,6 +171,9 @@ Overall I learned alot about myself and my fellow Turingites during these sessio
 ### Playing a Part
 
 (Community participation notes)
+I contributed during the creation of our linear regression app and participate regularly in 
+Regularly empty dishes and load/run dishwashers in big workspace
+
 
 ---
 
