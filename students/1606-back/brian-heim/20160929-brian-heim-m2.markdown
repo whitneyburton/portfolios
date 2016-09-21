@@ -90,12 +90,15 @@ Rush Hour is a Ruby, Sinatra, and ActiveRecord app that analyzes web traffic. Th
 
 ---
 
-### Little Shop of Orders - GoodGrocers
+### Little Shop of Orders - CollegeFootballShop
 
-* [GitHub URL]
-* [Original Assignment]
+* [https://github.com/Cdunagan05/little_shop]
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown]
+* [https://safe-shore-68034.herokuapp.com/]
 
-__Project__ description.
+__Project__ description:
+
+Little Shop is a Rails app that models an e-commerce site, and is hosted live on Heroku. Our group chose to "sell" College Athletic apparel and gear. Users can create accounts, log in, assemble a cart, and "checkout", creating an order in the database with the status of "ordered". Admins can change order status and check on all orders that have been placed.
 
 (Feedback from team)
 
