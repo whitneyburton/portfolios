@@ -145,7 +145,7 @@ Overall I learned alot about myself and my fellow Turingites during these sessio
 
 * [Link to Completed Deliverables]()
 
-(takeaways from session)
+I learned alot about branding myself in the tech industry but really took away alot of information and tips for communicating and presenting myself professionally on social media. I already use LinkedIn but will now use Twitter as well to network and communicate with others in the industry. I also wrote down tips for keeping GitHub "clean" and also buffing it up with thing slike a personal site and a professional picture.
 
 #### Collaborative Communication with Allison
 
@@ -170,9 +170,8 @@ Overall I learned alot about myself and my fellow Turingites during these sessio
 
 ### Playing a Part
 
-(Community participation notes)
-I contributed during the creation of our linear regression app and participate regularly in 
-Regularly empty dishes and load/run dishwashers in big workspace
+* Armstrong Posse - I contributed during the creation of our linear regression app and participate regularly in posse discussions 
+* Regularly empty dishes and load/run dishwashers in big workspace
 
 
 ---
