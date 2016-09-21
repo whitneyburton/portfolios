@@ -8,7 +8,29 @@ This module for me is intended to be more about focusing on what is happening th
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+1. Analytic/Algorithmic Thinking
+
+2: Developer can execute an algorithm or plan when steps are provided
+
+2. Ruby Syntax & Standard Library
+
+3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+
+3. Rails Syntax & API
+
+2: Developer is generally able to utilize Rails, but shows confusion or shallow knowledge about what Rails provides
+
+4. MVC & Rails Style
+
+3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+5. Testing
+
+2: Developer struggles to use tests to drive development
+
+6. Collaboration
+
+3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
 
 ### Work
 
@@ -100,7 +122,11 @@ This was probably my most favorite Gear Up of Mod 2. The video was incredibly in
 
 ##Professional Development Workshops
 
+####Collaborative Communication with Allison
+for Rush Hour and Little Shop our teams used 
+
 ###Finding Opportunities with Lia
+I love that Lia doesn't dress up the pig. Ya, networking can be a grind and boring but it is essential. Her pragmatic approach to networking was refreshing, realistic, and made networking less scary. The exercise we did of talking about ourself was uncomfortable but essential for me to get a better handle on how to talk to people about who I am and where I want to be. The class we had definitely made the prospect of networking at Rocky Mountain Ruby less daunting.  
 
 
 
@@ -108,11 +134,31 @@ This was probably my most favorite Gear Up of Mod 2. The video was incredibly in
 
 ### Giving Feedback
 
-(feedback from me)
+-To Jean Joeris
+Jean was a fantastic Project Manager. He was always willing to listen to our ideas (even if they didn’t always pan out). His patience with me made me mire willing to think about a problem and try to help find a solution. Jean always made sure that we were all working on the project and if someone looked to be disengaged he would ask what our thoughts were. I got stuck on one test issue and instead of telling me what to write, Jean just kept asking questions that lead me to the answer I needed. That was huge for me since it meant that I could better understand what had happened have a better understanding of the process The biggest thing I would suggest is to not lose the ability to include everyone in the group. It made a stressful project much easier since I knew that even if my idea was wrong I would not be belittled for it. That was the best part of the group.
+
+-To Matt DeMarteau
+Matt was an instrumental member of our Ruch Hour group. He was willing to take on the initial migrations even though he didn’t feel comfortable at the time with them and all the migrations were perfect. He was always willing to offer opinions on where to go next with the project and had an idea as to why he wanted to go that way, not just because he heard it from another group. Every time we split work out he was willing and able to take his share and get everything accomplished on time. I would suggest to not lose your positive attitude and willingness to learn. Both those qualities made the project much more bearable and working with Matt was an extreme pleasure.
+
+-To Jenny Soden
+Jenny continues to be a fantastic member of the Turing community. For the 3rd straight module she has offered to help me and spend time with me making sure I understand what is going on. She is always extremely helpful and willing to help anyone who may need a quick question answered. Jenny is an indispensable member of Turing and a major reason why I am still here. Even when she doesn’t know what the answer is she makes me feel like its ok to try something even if it fails. That is the biggest thing that Jenny does for me and why I am less hesitant to try new things.
+
+-To Calaway
+Calaway was a a fantastic project manager for Little Shop. His attention to detail and ability to delegate tasks was instrumental in our success in the project. His drive to understand the problem and to tackle whatever needed to be dealt with shows a deep desire to learn everything he can from his time at Turing. Calaway was persistent in making sure everyone in out group touched every aspect of the project. This was invaluable. I tend to shy away from tasks like styling and knowing I would have to do it was daunting but also made me think far more about it then I would have normally. One area I would suggest for improvement is styling. We are back end. It is important to know how to style but some basic bootstrap here and there is all we really need.
+
+-To Brendan Dillon
+Brendan was an invaluable member of our Little Shop group. His grasp of the topics, issues and, tasks was exemplary.Brendan’s ability to explain the task at hand and help me through a few difficult issues was extremely helpful. He communicates effortlessly when in a group and can succinctly express what he is thinking. Whenever I was stuck on something I could turn to him and ask. He would take a second to think through what was happening and then explain exactly what was happening.   He patiently explained how to fix merge conflicts at least twice to me which was wonderful to dispel some git problems for me.
+
+-To Nate Anderson
+It was a pleasure to work with Nate during the Little Shop project. Nate’s persistence in getting any problem completed was inspiring. He was always willing to take up any task that needed to be handle and alway had either a question to further the project or insight that helped us overcome a problem. There is only one thing I would recommend. The only thing both Nate and I agreed on was styling sucks. This is the one area I would say we both need to work on. the Rails side is relatively easy but style had us both confused and it would be worth it to take some time to learn boot strap.
 
 ### Being a Community Member
 
-(feedback to me)
+Ben made me feel very welcomed to join the cohort at the beginning of the module, and we had the opportunity to work together on our first group project, called Rush Hour.  His natural ability to connect with others in the group, through respect and attentiveness, made him great to pair with.  Ben can handle any code problem or task delegated to him, as he did every night when we split up tasks.  I found him always available to reach out to when something came up, and thought his thorough communication with team members throughout the project led to our success.  Ben already has the skills necessary to work on any team and makes a great programmer as he continues his learning.
+-Matt DeMarteau
+
+Ben was a great team member. He has great perseverance and doesn’t fear asking questions when things aren’t totally clear. He has a very professional work manner, and always delivers things on time. Even when he needed to do something else it never affected his deliverables. On a personal level, Ben was very friendly and low stress throughout. The one area of improvement that stood out to me is being more careful about pushing to master. It wasn’t a common thing, and a little more mindfulness would probably go very far.
+-Jean Joeris
 
 ### Playing a Part
 
