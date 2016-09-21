@@ -109,6 +109,8 @@ __Project__ description:
 
 Rush Hour is a Ruby, Sinatra, and ActiveRecord app that analyzes web traffic. The statistics are displayed on the web, and are navigable based on a number of criteria.
 
+Partner: Jesse Spevack
+
 __Project__ scores:
 
 #### 1. Functional Expectations
@@ -162,6 +164,8 @@ The partnership was a positive experience. It was nice that the content was the 
 __Project__ description:
 
 Little Shop is a Rails app that models an e-commerce site, and is hosted live on Heroku. Our group chose to "sell" College Athletic apparel and gear. Users can create accounts, log in, assemble a cart, and "checkout", creating an order in the database with the status of "ordered". Admins can change order status and check on all orders that have been placed.
+
+Fellow Group members: Bryan Goss, Chase Dunagan
 
 (Feedback from team)
 
@@ -236,7 +240,11 @@ I liked that we had to practice networking in this lesson. It really gave us som
 
 ### Giving Feedback
 
-(feedback from me)
+#### Feedback for Jesse Spevack
+
+* Working with Jesse on his project has been a great experience, His major strengths are regarding his hard skills and ability to explain his thought process. He is a master of his tools and is adept with shortcuts and workflow. He is a strong communicator and is able to explain the reasons behind every coding decision. I learned alot about TDD form him on this project. I considered myself solid with TDD, but Jesse is an expert, and emphasized encapsulation and helper methods. It was really nice working with someone who was able to advance my own skill in this area.
+
+* The constructive advice I would give Jesse would be to be mindful about managing stress regarding project deadlines. In particular, for him to not compare his progress or understanding to others. If he can accomplish this, he will be unstoppable.
 
 ### Being a Community Member
 
