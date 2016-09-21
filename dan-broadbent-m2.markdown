@@ -22,7 +22,7 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 ## B: Individual Work & Projects
 
-(Intro)
+The individual work this module mainly consisted of working through different tutorials in order to learn the basic conventions of Ruby on Rails.  The only individual project where we had some freedom to work on things in our own way was Rails Mini-Project.
 
 #### Rails Mini-Project
 
@@ -39,7 +39,7 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 ### Projects
 
-(Intro)
+Group projects were the highlight of this module.  I worked on two teams of three, and they both worked together very well.  In Rush Hour we build a Sinatra app, and Little Shops was built with Ruby on Rails.
 
 #### Rush Hour
 
@@ -117,6 +117,8 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 ### Playing a Part
 
 I did pairing sessions with Mod 1 students during the first weeks of the mod.  I found it to be both challenging and rewarding, guiding students was more difficult than I anticipated.  I also attended Denver Beta, a showcase for startups in the area, with another Mod 2 frontend student in my posse.
+
+In my posse, Bezos, I played an active role.  I led one of our weekly discussions and provided material for the group to learn more about progressive web apps.  I also opened up my personal project for other students to help me with.  I am working on building a web app for group photo sharing and it was awesome to collaborate with other students, especially those from the front-end program and get their perspectives.
 
 ------------------
 
