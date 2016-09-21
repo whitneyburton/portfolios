@@ -9,72 +9,102 @@ A submission summarizes your accomplishments in these key areas:
 * Team
 * Community
 
-## Note on Feedback for Week of 8/14
-
-For the module cycle ending the week of 8/14 we're still in the process of
-implementing a robust feedback system. For the feedback prompts you should do
-the best you can to characterize feedback you've received and given. It'd be
-ideal to gather your own quotes from teammates/classmates either via submitted
-anonymous feedback you've received or directly asking them for feedback.
-
-Here are some notes about expectations for this cycle:
-
-### Module 1
-
-* Individual Assessment: Yes
-* Required Project: Final Project (Headcount / Black Thursday)
-* Included Projects: All individual and paired projects
-* Instructor Pairing Feedback: At least 1 session from during the module
-* Posse challenges (5)
-* Feedback: Self-Solicited and from Feedback App
-
-__Soft Skills / Protocol Requirements__
-
-1. 1 DTR memo from a project during the module
-2. 1 Blog post
-3. 2 examples of well-written pull requests
-4. 1 example of a well-written project readme
-
-### Module 2
-
-* Evaluation notes
-* Mentor sessions (>=3) 
-* Blog post (>=1)
-* Self-solicited continual peer feedback
-* Posse challenges (5)
-* Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master, Rails Mini Project
-* Evaluated projects: Traffic Spy, Little Shop
-* Assessments: mid-module, final
-
-### Module 3
-
-* Individual Assessment: Only if needed
-* Required Project: Self-Directed Project
-* Included Projects: APIcurious, Rales Engine, The Pivot
-* Feedback: Self-Solicited
-* Posse challenges (5)
-
-### Module 4
-
-* Individual Assessment: Yes
-* Required Project: Mastery Project
-* Included Projects: GameTime, ScaleUp
-* Feedback: Self-Solicited
-* Posse challenges (5)
-
 ## Authoring Process
 
 * Carefully read the `submission_guidelines.markdown` to understand how your
 portfolio should be written/submitted
 * Read a sample portfolio in `sample.markdown` in this repo
-* Copy the content of `[template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown)` as a starting point
+* Copy the content of [template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown) as a starting point
 * Fill in and submit your own content.
+
+## Per-Module Expectations
+
+### Module 1 (Back-end)
+
+* Individual Assessment: Passing Score (All 3's) required
+* Required Project: Final Project (Headcount / Black Thursday) -- Passing Score (All 3's) required
+* Included Projects: All individual and paired projects
+* Feedback: Self-Solicited and from Feedback App
+
+** To Repeat the Module **
+
+A passing Chisel project completed during the final 2 weeks of the module **OR** Satisfactory progress on the Headcount / Black Thursday final project.
+
+#### Professional Skills Requirements
+
+1 DTR memo from a project during the module
+
+### Module 1 (Front-end)
+
+* Individual Assessment: Passing Score (All 3's) required
+* Required Project: Final Project (Game Time) -- Passing Score (All 3's) required
+* Included Projects:
+ * Linked List
+ * Number Guesser
+* Feedback: Self-Solicited and from Feedback App
+
+### Module 2 (Front-end)
+
+* Individual Assessment: Passing Score (All 3's) required
+* Required Project: Final Project (Shoot The Breeze) -- Passing Score (All 3's) required
+* Included Projects:
+ * A Very Lonely Chat Room  
+ * Tier One Project
+ * Tier Two Project
+* Feedback: Self-Solicited and from Feedback App
+
+#### Professional Skills Requirements
+
+1 DTR memo from a project during the module
+
+### Module 2
+
+* Evaluation notes - You need to take notes during assessments/evaluations
+* Blog post (>=1)
+* Self-solicited continual peer feedback
+* If you're in a posse - please include:
+  * a blurb about what you did with your posse over the module
+  * your favorite thing about the posse experience
+  * how has your posse experience helped you grow as a professional?
+
+* Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master
+ * Include what you learned/took away fromt he project.  
+* Peer evaluated projects:  Rails Mini Project
+ * Include what you implemented for the extension day. And include a short description of what you built and what you took away/learned from this project.
+* Evaluated projects: Rush Hour, Little Shop
+* Assessments: mid-module, final
+
+#### Professional Skills Requirements
+
+Two paragraph reflection on:
+1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+
+### Module 3
+
+* Individual Assessment
+* Included Projects: Self-Directed Project, Rales Engine, The Pivot
+* Bonus Project (not required): APIcurious
+* Feedback: Self-Solicited
+* Something valuable you've taken away from your posse.
+
+### Module 4
+
+* Individual Assessment (thoughtbox)
+* Required Project: GameTime, ScaleUp
+  * Should include points breakdown per project
+* Bonus Project (not required): IdeaBox
+* Feedback: Self-Solicited
 
 ## Submission Guidelines
 
 A pull request with your submission must be made at least 12 hours before your
 scheduled defense. Non-conforming formats, filenames, or directories will be
 rejected and your defense rescheduled.
+
+### Self-Evaluation
+
+Your submitted portfolio should include **self-assessment** scores. [Use the rubric](https://github.com/turingschool/portfolios/blob/master/rubric.markdown) to determine your proper scores.
 
 ### Filename & Directory
 
@@ -94,13 +124,16 @@ If you were completing Module 4 in Cohort 1410 on August 31, 2015 and your name 
 ## Evaluation Process
 
 Your portfolio will be evaluated in the last week of the module by a panel of
-at least two instructors. During this 15-minute session the reviewers will:
+at least two instructors. During this short session:
 
-* Read your portfolio
-* Ask questions
-* Use the rubric ([`rubric.markdown`](https://github.com/turingschool/portfolios/blob/master/rubric.markdown)) to assess the quality of your work
-* Render a promotion decision
-* Record notes and the decision in your portfolio
+* You will start by showing the scores of your self assessment
+* You will walk through the rubric and the content of your portfolio to explain
+your scoring
+* The instructors will ask questions along the way and record notes
+* As you finish the explanation the instructors will validate or correct your
+self-assessment scores
+* The instructors will use those scores to render a promotion/graduation decision
+* Everything from the instructors will be committed back to your portfolio
 
 ## Outcomes
 
