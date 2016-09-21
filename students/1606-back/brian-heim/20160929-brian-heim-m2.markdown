@@ -193,7 +193,7 @@ Overall I learned alot about myself and my fellow Turingites during these sessio
 ### Professional Development Workshops
 #### Finding Opportunities with Lia
 
-* [Link to Completed Deliverables]()
+* [Link to 10 interesting companies](https://gist.github.com/bheim6/ed3be7c390d1583c058745899e568434)
 
 I learned alot about branding myself in the tech industry but really took away alot of information and tips for communicating and presenting myself professionally on social media. I already use LinkedIn but will now use Twitter as well to network and communicate with others in the industry. I also wrote down tips for keeping GitHub "clean" and also buffing it up with thing slike a personal site and a professional picture.
 
