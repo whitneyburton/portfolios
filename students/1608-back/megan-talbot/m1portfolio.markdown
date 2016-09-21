@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Coming from a non-progamming background, I hoped to come into this Module and gain a basic understanding of the fundamentals of ruby and object-oriented programming. I am happy to say that (even though it was incredibly challenging!), I believe I was able to accomplish that goal. Looking back at my projects from the entire module, I am pleased to see my progression. I know I have tons more to learn but I am thankful for everything that I have done so far!
 
 ## Rubric Scores
 
@@ -17,27 +17,21 @@
 ## A: End of Module Assessment
 
 #### 1. Ruby Syntax & API
-
 * 3: Developer is able to write Ruby with some debugging of fundamental concepts
 
 #### 2. Completion and Progress
-
 * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 
 #### 3. Testing
-
 * 4: Developer excels at taking small steps and using the tests for both design and verification
 
 #### 4. Workflow
-
 * 4: Developer is a master of their tools, efficiently moving between phases of development
 
 #### 5. Collaboration
-
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 #### 6. Enumerable & Collections
-
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
@@ -60,23 +54,18 @@
 
 
 #### 1. Functional Expectations
-
 * 3: Application fulfills all base expectations
 
 #### 2. Test-Driven Development
-
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
 #### 3. Encapsulation / Breaking Logic into Components
-
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
 
 #### 4. Fundamental Ruby & Style
-
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
 #### 5. Looping *or* Recursion
-
 * 3: Application makes effective use of loop/recursion techniques
 
 
@@ -87,7 +76,7 @@
 * [GitHub URL](https://github.com/meganft/event-reporter)
 * [Original Assignment]()
 
-(description)
+Event Reporter is a project that focued on working with csv files, cleaning data, and running a program with an interactive REPL.
 
 * 32 tests, 48 assertions
 * good separation of logic
@@ -95,38 +84,25 @@
 
 
 #### 1. Functional Expectations
-
 * 3: Application fulfills all base expectations
 
-
 #### 2. REPL Interface
-
 * 3: Application's REPL is clear and pleasant to use
 
 #### 3. Test-Driven Development
-
 * 3: Application is well tested but does not balance isolation and integration tests
 
-
 #### 4. Breaking Logic into Components
-
 * 3: Application effectively breaks logical components apart with clear intent and usage
 
-
 #### 5. Fundamental Ruby & Style
-
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-
 #### 6. Enumerable & Collections
-
 * 4: Application consistently makes use of the best-choice Enumerable methods
 
-
 #### 7. HTML and Style
-
 * 4: Usses CSS and is aesthetically pleasing, using of images, colors and metadata.
-
 
 
 
@@ -151,19 +127,15 @@
 * Enigma class does way too much.
 
 #### 1. Overall Functionality
-
 * 4: Application follows the complete spec and one extension
 
 #### 2. Fundamental Ruby & Style
-
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
 #### 3. Test-Driven Development
-
 * 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
 
 #### 4. Breaking Logic into Components
-
 * 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
 
 (feedback to me)
