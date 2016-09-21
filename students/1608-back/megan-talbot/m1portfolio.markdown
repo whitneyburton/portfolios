@@ -40,7 +40,7 @@ Coming from a non-progamming background, I hoped to come into this Module and ga
 
 (Intro)
 
-#### Jungle Beats
+### Jungle Beats
 
 * [GitHub URL](https://github.com/meganft/jungle_beats)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
@@ -71,7 +71,7 @@ Jungle Beats used the logic of a linked list to build a drum sound-making progra
 
 
 
-#### Event Reporter
+### Event Reporter
 
 * [GitHub URL](https://github.com/meganft/event-reporter)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
