@@ -262,16 +262,16 @@ development sessions, and 1603 cohort activities. I also continued the Friday lu
 
 ### Notes
 
-( Leave blanks for reviewers )
+-
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
-* **D: Professional Skills**:
-* **E: Feedback & Community Participation**:
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
