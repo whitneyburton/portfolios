@@ -118,23 +118,25 @@ This lightning talk highlights the Toneprint Technology from TC Electronic, as w
 ---
 
 ### Gear Up
+
+I really enjoyed Gear Up this module, especially the last Gear Up: CODE:Debugging the Gender Gap. CODE was especially significant for me because I gained new perspective that I otherwise would not have been able to. I have a fiance in tech and hear about some of these issue from her, but didn't realize all the ways that I can help fix the problem until this Gear Up.
+
+Overall I learned alot about myself and my fellow Turingites during these sessions, and engaged in very meaningful discussions regarding these thought-provoking topics: 
+
 #### Getting Better At Difficult Things
 
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
+* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
-(takeaways from session)
 
 #### There Is An I In Team
 
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
+* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
 
-(takeaways from session)
 
 #### CODE:Debugging the Gender Gap
 
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
 
-(takeaways from session)
 
 ---
 
