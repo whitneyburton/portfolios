@@ -38,7 +38,9 @@ Robot World is a Sinatra app that serves as a directory of robots. Robots have v
 * [https://github.com/bheim6/blogger]
 * [http://tutorials.jumpstartlab.com/projects/blogger.html]
 
-__Project__ description.
+__Project__ description:
+
+Blogger is a Rails app that is a basic blogging platform featuring comments and tags. Style built in to the Jumpstartlab tutorial.
 
 
 
