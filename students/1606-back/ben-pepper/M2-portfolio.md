@@ -122,8 +122,21 @@ This was probably my most favorite Gear Up of Mod 2. The video was incredibly in
 
 ##Professional Development Workshops
 
+####Finding Opportunities with Lia
+- Matt Popke Denver Art Museum mpopke@denverartmuseum.org
+- Frank Partida Tesla Motor fpartida@tesla.comments
+- Susan Gill DCP Midstream 720-402-4155
+- Troy MacDonald Continental Western Group 303-489-8264
+- Regina Matthews Denver Center for the Performing Arts rmatthews@denvercenter.org
+- 
+
+Finding people in the company you want to work in is crucial. Without having some "in" into the company your chances of getting selected is minimal. This was a great exercise and well worth it. Its kind of like testing, making me think about where I want to end up now as opposed to at the end of Turing.
+
+
 ####Collaborative Communication with Allison
-for Rush Hour and Little Shop our teams used 
+for Rush Hour and Little Shop our teams used we used the full gamut of tools. From Waffle for project management, to Git Hub comments for conversations on the code we were pushing up. In most cases we dived and conquered the beginning parts of the project when it made sense to do so. As we got into more technical parts we tended to group together so that everyone involved could get a better understanding of what was happening. This was invaluable and made the harder portions of the project more bearable. Overall these techniques work incredibly well and there were little to no places where we ran into issues with each other.
+
+Feed back is always interesting to get back. For Rush Hour We all had good things to say about the other members there was nothing really that bothered the group.  The biggest feedback I got was to not push to Master. I took this feedback and paid close attention to my branches in Little Shop. I know this is a critical skill to have and have made a special effort to ensure that I do not work on Master or even Development in Little Shop.
 
 ###Finding Opportunities with Lia
 I love that Lia doesn't dress up the pig. Ya, networking can be a grind and boring but it is essential. Her pragmatic approach to networking was refreshing, realistic, and made networking less scary. The exercise we did of talking about ourself was uncomfortable but essential for me to get a better handle on how to talk to people about who I am and where I want to be. The class we had definitely made the prospect of networking at Rocky Mountain Ruby less daunting.  
@@ -159,6 +172,9 @@ Ben made me feel very welcomed to join the cohort at the beginning of the module
 
 Ben was a great team member. He has great perseverance and doesn’t fear asking questions when things aren’t totally clear. He has a very professional work manner, and always delivers things on time. Even when he needed to do something else it never affected his deliverables. On a personal level, Ben was very friendly and low stress throughout. The one area of improvement that stood out to me is being more careful about pushing to master. It wasn’t a common thing, and a little more mindfulness would probably go very far.
 -Jean Joeris
+
+It was great to work with Ben again on a group project.  Anything that he takes on, he dives deep into and learns everything about it that he can.  He was always willing to go the extra mile as well whenever we split up work. Also, he never shies away from learning something new. The recommendation I would give is one that I have given before, and I do think Ben is getting better at this, is to just not be as hard on himself as he is sometimes. He is a very good programmer and sometimes I wish he could see it himself. But other than that, he was again a great partner on another successful project.
+-Nate Anderson
 
 ### Playing a Part
 
