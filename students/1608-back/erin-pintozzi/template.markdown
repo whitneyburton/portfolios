@@ -2,7 +2,29 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module, I had two primary goals:
+
+#### Goal 1 - Be a “Yes (Wo)man”
+The purpose of this goal is to encourage myself to do things outside of my comfort zone that I might normally say “no” to doing. This goal will help me be a better student, peer, and person both in and out of the classroom. I will do at least 1 thing outside of my comfort zone each week such as attending a meetup, giving a talk, joining a group, or similar. If 1 opportunity is not available, I will introduce myself to at least one new person as a substitute event.
+##### Result
+I think I did a really good job working on this goal. I maintained a google doc to track the new things I tried:
+* Attended Joan Clarke Society coffee meetings
+* Attended Imposter's Lunch meetings
+* Joined a posse (Bezos)
+* Joined a small group project within my posse
+* Particpated as an active listener during all the guest speaker sessions (aka not doing project work instead) 
+* Met quite a few new people outside of my cohort
+
+<br/>
+#### Goal 2 - Tap in to the Turing Network
+The purpose of this goal is to build strong relationships with my peers, instructors, mentors and others in the Turing community to help me become a better programmer and influential community member both as a student and in my post-Turing career. I will earn at least 1 “point” per day. Points can be earned by: participating in class, meeting someone new, attending a pairing session, meeting with a mentor, and asking for or offering help. This list is not exhaustive and I reserve the right to add to the list I become aware of different opportunities.
+##### Result
+Given the large number of points, I chose not to itemize each accomplishment on my google doc, however in summary here are some things I did regularly to make sure I was an active part of the Turing community:
+* Attending pairing sessions
+* Discussion code and project issues with those in my cohort as well as seeking out older students
+* Attened class on-time every day
+* Tried all activites with an open mind
+* Tried to make myself open, friendly, and available to my classmates and I would be comfortable helping each other out when we got stuck.
 
 ## Rubric Scores
 
@@ -171,7 +193,8 @@ For this project, we built and encrpytion engine that could also decrypt and cra
 #### 4. Breaking Logic into Components
 * 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
 
-(feedback to me)
+##### Feedback
+Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her. 
 
 #### Headcount
 
@@ -185,7 +208,10 @@ In this project, we took real-life data about participation rates in kindergarte
 
 ##### Evaluation Scores
 
-(feedback to me)
+##### Feedback
+Erin, I really enjoyed our working dynamic in our Headcount project. I think you understand the importance of flexibility and have a keen attention to detail, which has helped us frequently during the development of the project for both the code and the organization. I am also grateful that you essentially took care of our last iteration when I had no more juice left. Although I do not think this is a necessary trait, I think if you were to drive more frequently in future projects you will be able to “think on the fly” more often. I think it will help you become a more confident developer both at your time at Turing and in the workplace after graduating.
+
+
 
 ## D: Professional Skills
 (Intro)
@@ -223,15 +249,44 @@ My takeaways from this session are about the importance of communication and fee
 
 ### Giving Feedback
 
-(feedback from me)
+*Megan Talbot*
+<br/>
+Megan, right off the bat we seemed to work really well together and at a similar pace. You were very open, honest, and communicative throughout the entire project. One area of improvement would be a little more planning at the beginning of the project. We both sort of just jumped right in and had a little trouble later on in the project due to the lack of planning. Thankfully, you were such a receptive partner and we realized this shortcoming and were able to start to adjust course mid-project. Overall this project experience was very positive and collaborating with you was very easy to do. Thanks for being awesome!
+
+*Daniel Shin*
+<br/>
+Daniel, I like that we started out with a DTR so we could get on the same page, and it turns out we had pretty similar goals. You did an awesome job at working through some of our toughest problems, and are also great at explaining the code choices you made and why. There were times throughout the project where I just felt a little behind and like I wasn't contributing effectively, and anytime I'd express those concerns, you would pause, help me understand whatever was confusing me, and even reassured me that I was making positive contributions.  One area to work on would just be recognizing those rabbit holes and just taking a step back to look at the problem or take a short break. I actually feel that you improved a lot on this throughout the whole project when I think about the first couple days to the last. We seemed to find ourselves digging fewer holes and debugging things more quickly. You were a great partner to work with and a great teacher. Keep it up :)
+
+*Michael Scherer*
+<br/>
+Michael, though we've not been paired on a full project, the times that we've been paired for in class activities have all been really positive experiences. You seem very intentional and thoughtful in your words and coding choices which I think are great traits for a budding developer since we will be making those choices all the time both here at Turing and in the working  world. We also were paired in a reflection group and you offered great insight and advice for the topic at hand (improving paired relationships). I think you have a lot of great qualities and contributions to offer and would love to hear you continue to find ways to speak up share those ideas both in paired exercises and group discussion. Even if we're never paired together for a project, I'm looking forward to hearing more about what you have to say in class, and I'm glad you're in my cohort. 
 
 ### Being a Community Member
 
-(feedback to me)
+*Megan Talbot*
+<br/>
+Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her. 
+
+*Daniel Shin*
+<br/>
+Erin, I really enjoyed our working dynamic in our Headcount project. I think you understand the importance of flexibility and have a keen attention to detail, which has helped us frequently during the development of the project for both the code and the organization. I am also grateful that you essentially took care of our last iteration when I had no more juice left. Although I do not think this is a necessary trait, I think if you were to drive more frequently in future projects you will be able to “think on the fly” more often. I think it will help you become a more confident developer both at your time at Turing and in the workplace after graduating.
+
+
+*Michael Scherer*
+<br/>
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+This module I've tried to support the Turing Community by being open to new experiences and participating in things I might not typically do. I often get very nervous and anxious in large groups, especially in new surroundings, so I wanted to keep pushing myself to get involved and meet peers so that I could be an active community member. 
+<br/>
+<br/>
+I joined the Bezos posse which was a lot of fun. It has been great meeting people across all the mods who share a similar, non-coding interest. Within Bezos, I even joined a project group where go to work closely with a smaller group of students. Though not a requirement, I'm really glad I did that. I think our small group learned from each other, and I even made a front-end friend, which is awesome since the separate locations can make that a little more challenging. 
+<br/>
+<br/>
+I have also participated in a few of the Joan Clarke Society coffee meetings. This group of ladies is so supportive, and it's been particularly great meeting some graduates, hearing about their interview and job experiences, and getting advice. It's also helpful because they share the female perspective in an industry where I don't always feel like I belong. I hope I can pay it forward and do the same as I progress through the program. 
+<br/>
+<br/>
+Third, I participated in Imposters Lunch almost every Wednesday. This group is really exciting because it's hard when it feels like there's no one "like me" who understands what I'm going through, when the reality is, everyone here is like me . I've been both on the giving and receiving end of ideas and tactics for battling imposter syndrome and as with the other groups, have really enjoyed getting to know the "older" students, as well as some in my own cohort. I think the solidarity of knowing that not only are there other like me, but even people who sit right next to me every day, makes it much easier to feel less alone and more confident and I continue through Turing, and I hope I've insprired others in the group to feel the same.
 
 ------------------
 
