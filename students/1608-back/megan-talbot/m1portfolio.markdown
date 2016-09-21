@@ -45,7 +45,7 @@ Coming from a non-progamming background, I hoped to come into this Module and ga
 * [GitHub URL](https://github.com/meganft/jungle_beats)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
-(description)
+Jungle Beats used the logic of a linked list to build a drum sound-making program from our terminal.
 
 * Solid testing, would like to have seen it go further in depth, and some additional edge case testing.
 * Used iterative approach.
@@ -74,7 +74,7 @@ Coming from a non-progamming background, I hoped to come into this Module and ga
 #### Event Reporter
 
 * [GitHub URL](https://github.com/meganft/event-reporter)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
 
 Event Reporter is a project that focued on working with csv files, cleaning data, and running a program with an interactive REPL.
 
@@ -111,14 +111,14 @@ Event Reporter is a project that focued on working with csv files, cleaning data
 
 ### Projects
 
-(Intro)
+
 
 #### Enigma
 
 * [GitHub URL](https://github.com/meganft/enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-(description)
+Enigma was our first paired project, in which we had to encrypt a file, decrypt it, and then crack a message without a key as well.
 
 * 13 tests, all passing
 * A bit of overuse of instance variables, think about methods sending messages
@@ -165,15 +165,25 @@ Event Reporter is a project that focued on working with csv files, cleaning data
 
 ### Giving Feedback
 
-(feedback from me)
+Ali has been an incredibly supportive teammate and companion for me throughout all of Mod 1. I'm so happy to have her around for her positive outlook and kind words. We've spent time talking through challenging problems together, and I know I can always go to her when I get it all confused in my head. It's been great getting to know her and I'm thankful to be her classmate. (to Ali Schlereth)
+
+Anna and I connected right away. I was so happy to have her as a companion throughout all of Mod 1. I say she works fast, but it's because she works so hard on everything she does!  At the same time, Anna is super willing to talk through anything with me. A great sounding board and supportive teammate, I'm glad to have Anna around and know she contributes immensely to our cohort. (to Anna Dolan)
+
+Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her. (to Erin Pintozzi)
 
 ### Being a Community Member
 
-(feedback to me)
+Megan has been a joy to work with. She is easy to collaborate with and a hard worker. I've appreciated both her technical and emotional support during these last 6 weeks. I really like how we can talk through an idea and implement it in our own way, then follow through and support each other. (from Ali Schlereth)
+
+Megan was the first person I connected with at Turing, and she has continued to be helpful and kind throughout the module. She is a great collaborator, and we have worked through problems on individual projects together. She is someone I have always been able to be open with on all kinds of topics, and she is a valuable person to have in the cohort. (from Anna Dolan).
+
+
+
+
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I was happy to be a SAB member this module, where I represented our cohort on the Student Advisory Board. We were in charge of gathering feedback and monitoring Turing culture within our cohort, and I really enjoyed being a part of it.  I also joined the Bezos posse, where I participated in weekly posse meetings focuing on entrepreneurship.
 
 ------------------
 
