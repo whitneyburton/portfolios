@@ -142,24 +142,27 @@ Enigma was our first paired project, in which we had to encrypt a file, decrypt 
 
 
 
+
 ## D: Professional Skills
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### (Debugging the Gender Gap)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
 
-(takeaways from session)
+I really enjoyed this gear-up and the following discussion. The movie was very effective. I left feeling both encouraged about where the industry is going and disapointed about the persistent issues pertaning to gender in tech. There were parts of it that will stick with me for many years to come.  My favorite new example of why diversity is important is that air bags used to kill people because everyone who created them were white men of similar stature. 
+I was also very happy to have an open discussion after (in group 2 - "I've had issues like those in the movie") with other women who have experienced similar issues, as well as men who wanted to hear more about said issues.
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Learning to Pair
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md)
+* [Link to Completed Deliverables](https://docs.google.com/document/d/1Dp9f0ndeI2N3OzkTNMWbVJafjLAu5mw0thXJHusWois/edit?usp=sharing)
 
-(takeaways from session)
+At the beginning of this module, I didn't realize how important learning to pair would be. I also didn't realize how much of my leanring would center upon pairing! This session was helpful in discussing the central protocols for pairing. But it was also helpful for learning how to effectively DTR - "Define the Relationship." At the beginning of this workshop, I wondered if some of the questions would be redundant or unnecessary, but I have learned that this is not the case and it's very important to DTR in every pairing. 
+
 
 ## E: Feedback and Community Participation
 
