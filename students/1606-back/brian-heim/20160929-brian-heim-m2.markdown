@@ -14,7 +14,7 @@
 
 ---
 
-### A: End of Module Assessment
+## A: End of Module Assessment
 
 ---
 
@@ -27,20 +27,20 @@ Module 2 work description
 * [https://github.com/bheim6/robot_world]
 * Original Assignment at bottom of file: [https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/crud_sinatra.markdown]
 
-__Project__ description.
+__Project__ description:
 
-Spicy: Robot World
-
-Create your own Sinatra app from scratch. This app should be a directory of robots. A robot has a name, city, state, avatar, birthdate, date hired, and department. Program the CRUD functionality for robots so that we can see all robots, see one specific robot, edit/update a robot, create a robot, and delete a robot. Use http://robohash.org/ for pictures. Add a dashboard that shows statistical data: average robot age, a breakdown of how many robots were hired each year, and number of robots in each department/city/state.
+Robot World is a Sinatra app that serves as a directory of robots. Robots have various attributes including an Avatar that is generated using http://robohash.org/. The app has an index and dashboard that displays various robots and statistics adout the robots in the inventory. This app is pretty metal \m/.
 
 ---
 
 ### Blogger
 
-* [GitHub URL]
-* [Original Assignment]
+* [https://github.com/bheim6/blogger]
+* [http://tutorials.jumpstartlab.com/projects/blogger.html]
 
 __Project__ description.
+
+
 
 ---
 
