@@ -191,7 +191,7 @@ For this project, we built and encrpytion engine that could also decrypt and cra
 #### 4. Breaking Logic into Components
 * 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
 
-##### Feedback
+##### Feedback from Megan
 Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her. 
 
 ### Headcount
@@ -206,13 +206,13 @@ In this project, we took real-life data about participation rates in kindergarte
 
 #### Evaluation Scores
 
-##### Feedback
+##### Feedback from Daniel
 Erin, I really enjoyed our working dynamic in our Headcount project. I think you understand the importance of flexibility and have a keen attention to detail, which has helped us frequently during the development of the project for both the code and the organization. I am also grateful that you essentially took care of our last iteration when I had no more juice left. Although I do not think this is a necessary trait, I think if you were to drive more frequently in future projects you will be able to “think on the fly” more often. I think it will help you become a more confident developer both at your time at Turing and in the workplace after graduating.
 
 
 
 ## D: Professional Skills
-(Intro)
+The professional skills sessions are an integral part of our Turing program because we are learning skills that are very industry specific for our soon-to-be new careers. This includes both examining how we are presenting ourselves to those on the outside as well as personal reflections to make sure we are striving to be the best versions of ourselves.
 
 ### Gear Up
 #### (Session Name)
@@ -223,7 +223,7 @@ Erin, I really enjoyed our working dynamic in our Headcount project. I think you
 
 
 ### Professional Development Workshops
-#### Personal Branding
+#### Personal Branding pt 1
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md)
 
@@ -234,6 +234,16 @@ Erin, I really enjoyed our working dynamic in our Headcount project. I think you
 
 ##### Takeaways from Session
 My takeaways from this session are that it's not too early to start thinking about resumes and our web presence. How and where we present ourselves could have a big effect of how easily we finds jobs and how many become actual opportunities for us. It's also important to recognize the limitations we have as well, for example, we are not training to become engineers, and it would be disingenuous to represent ourselves as such. Though I already had Twitter, LinkedIn, and Github profiles, it is important that I make sure all the information is sufficiently updated and representative of how I'd like to be perceived among my peers and potential future employers.
+
+#### Personal Branding pt 2
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p2.md)
+
+#### Deliverables:
+* Personal Website (in progress)
+
+##### Takeaways from Session
+My takeaways from this session are about the importance of a personal website. In particular, we talked a lot about the content on our pesonal site and how we can best represent ourselves. This session happened half way through the final week of the mod, so I haven't made much progress on the deliverables, but things that are currnetly in progress are: my resume and a summary that I could use on my resume, LinkedIn, and personal site. The summary for each will be a little different so I can tailor it to the audience/use case for each of those tools. Another item I'd like to look in to further is the best way to include SEO best practices on my personal site so that hopefully I can be found my something other than just my name.
 
 #### Learning to Pair
 
@@ -259,6 +269,14 @@ Daniel, I like that we started out with a DTR so we could get on the same page, 
 <br/>
 Michael, though we've not been paired on a full project, the times that we've been paired for in class activities have all been really positive experiences. You seem very intentional and thoughtful in your words and coding choices which I think are great traits for a budding developer since we will be making those choices all the time both here at Turing and in the working  world. We also were paired in a reflection group and you offered great insight and advice for the topic at hand (improving paired relationships). I think you have a lot of great qualities and contributions to offer and would love to hear you continue to find ways to speak up share those ideas both in paired exercises and group discussion. Even if we're never paired together for a project, I'm looking forward to hearing more about what you have to say in class, and I'm glad you're in my cohort. 
 
+*Susi Irwin*
+<br/>
+Susi, I don't even know where to begin. I have so thoroughly enjoyed meeting you this module. Between the Joan Clarke coffee mornings and Imposter's Lunches, I feel like I learned so much from you and how to be a great mod 1 student (and hopefully future developer!). You have offered great advice for handling my uncertainties about my skills and how to handle nervousness and anxiety around assessments. I feel very lucky to have met you. I hope you continue to be awesome and find ways to reach out to those who need and appreciate the insight you have to offer.   If I can provide even half as much support to future students as I feel I've gotten from you over the last 6 weeks, I would count myself lucky.
+
+*Ali Schlereth*
+<br/>
+asdf
+
 ### Being a Community Member
 
 *Megan Talbot*
@@ -272,6 +290,14 @@ Erin, I really enjoyed our working dynamic in our Headcount project. I think you
 
 *Michael Scherer*
 <br/>
+
+*Susi Irwin*
+<br/>
+Erin has been an active member of the Imposters group module and with that has been a huge support for me as well as fellow group members. Her encouraging and attitude is infectious! She brings thoughtful and helpful comments to the group and always makes people feel welcome and appreciated. I hope to see her step forward in coming modules as a leader of this group so that her vast past experiences and all around wonderfulness can be even more appreciated. She is an asset to our community and I cannot wait to see how her journey as a software developer unfolds.
+
+*Ali Schlereth*
+<br/>
+asd
 
 ### Playing a Part
 
