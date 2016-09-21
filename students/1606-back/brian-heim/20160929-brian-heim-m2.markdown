@@ -106,7 +106,14 @@ Little Shop is a Rails app that models an e-commerce site, and is hosted live on
 
 ## D: Professional Skills
 
-(Intro)
+### Lightning Talk
+#### Guitar Geek
+
+* [Slides](https://drive.google.com/open?id=1ddcnQuThSh7J5rxHEmDfVDVW2u4T9siTAYWWpG2GxRU)
+
+Description: 
+
+This lightning talk highlights the Toneprint Technology from TC Electronic, as well as some basics about musical instrument effect pedals.
 
 ---
 
