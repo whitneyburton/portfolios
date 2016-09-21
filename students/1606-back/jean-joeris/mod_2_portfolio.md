@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Jean Joeris - M2 Portfolio
 ## Individual
 
 ### Areas of Emphasis
@@ -14,23 +14,35 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 ### End of Module Assessment
 
 (Notes & scores from your assessment rubric)
+1. Analytic/Algorithmic Thinking
+
+4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+
+2. Ruby Syntax & Standard Library
+
+4: Developer is able to comfortably implement solutions using the best-choice tools Ruby has to offer
+
+3. Rails Syntax & API
+
+4: Developer is able to smoothly utilize Rails methods and structures with a minimum of debugging or support
+
+4. MVC & Rails Style
+
+3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+5. Testing
+
+4: Developer writes tests at multiple layers of abstraction to drive development
+
+6. Collaboration
+
+3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
 
 ### Work
 
 (Intro)
 
 #### Robot World
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-#### Rails Challenge
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -129,13 +141,23 @@ The purpose of this project was to design a program that could recieve JSON cont
 (feedback to me)
 
 ## Community
-
-* From Allison’s session:_
- Two paragraph reflection on: 1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well? 2. How you incorporated feedback from your team members and what you learned about yourself in the process.
-* From Lia’s sessions:_
- List of 10 companies with one person you could connect with at each 
+* Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+  * 
+* How you incorporated feedback from your team members and what you learned about yourself in the process?
+  * 
+* List of 10 companies with one person you could connect with at each 
+  1. Eliot Turner - AlchemyAPI
+  2. Josh - Auger
+  3. Aetna - Todd Aron
+  4. 18f- Greg Boone
+  5. alteryx - Jay Bourland
+  6. Purch - Ellie Morris
+  8. Red Canary Chris Rothe  
+  9. Not sure of the shop's name, but somebody who hangs out at the barn my wife spend's time at works at a Rails shop. I need to wait til the next bonfire at the barn to network with him
+  10. 
+  
 * From Gear Up sessions:_
- Takeaways from each session attended
+ 
 
 ### Giving Feedback
 
