@@ -48,10 +48,15 @@ Blogger is a Rails app that is a basic blogging platform featuring comments and 
 
 ### Mix Master
 
-* [GitHub URL]
-* [Original Assignment]
+* [https://github.com/bheim6/mix_master]
+* [https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master]
+* [Heroku URL]
 
-__Project__ description.
+__Project__ description:
+
+Mix Master is a Rails app that utilizes Heroku to host the app. The app itself keeps track of songs, artists, and playlists. It also features user creation and log in, as well as RSpec testing suite.
+
+note: currently Heroku does not authenticate with Spotify.
 
 ---
 
