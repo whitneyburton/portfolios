@@ -15,7 +15,6 @@ I think I did a really good job working on this goal. I maintained a google doc 
 * Particpated as an active listener during all the guest speaker sessions (aka not doing project work instead) 
 * Met quite a few new people outside of my cohort
 
-<br/>
 #### Goal 2 - Tap in to the Turing Network
 The purpose of this goal is to build strong relationships with my peers, instructors, mentors and others in the Turing community to help me become a better programmer and influential community member both as a student and in my post-Turing career. I will earn at least 1 “point” per day. Points can be earned by: participating in class, meeting someone new, attending a pairing session, meeting with a mentor, and asking for or offering help. This list is not exhaustive and I reserve the right to add to the list I become aware of different opportunities.
 ##### Result
@@ -63,18 +62,18 @@ Given the large number of points, I chose not to itemize each accomplishment on 
 
 The following indivdual projects were not completed as a group/partnership but rather as an individual effort. 
 
-#### Sorting Suite
+### Sorting Suite
 
 * [GitHub URL](https://github.com/epintozzi/sorting_suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/67df787e17e66bb446af2e10c4c6e72b3d41579b/source/projects/sorting_suite.markdown)
 
-##### Description
+#### Description
 This project required the created of three sorting algorithms: Bubble Sort, Insertion Sort, and Merge Sort. This was the first project of the module.
 
-##### Evaluation Comments
+#### Evaluation Comments
 This project was not formally evaluated, however if I were scoring myself I'd note that I was missing test files for all three sorting algorithms. I also did each as one long method per algorithm so improvement could definitely be made in the organization of this project.
 
-##### Evaluation Scores
+#### Evaluation Scores
 If I were scoring myself, I'd rate my work on this project as:
 #### 1. Functional Expectations 
 * 3: All three sort classes work as expected
@@ -89,21 +88,21 @@ If I were scoring myself, I'd rate my work on this project as:
 * 1: Components work together properly
 
 
-#### Date Night
+### Date Night
 
 * [GitHub URL](https://github.com/epintozzi/date_night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
-##### Description
+#### Description
 This project required that we take movie titles and scores and store them in a binary search tree. Some of the key "new" things and areas of learning for me included loading a csv file with scores in to the tree, writing tests, and learning how to refactor lengthy/complicated methods in to smaller methods in an aim to follow SRP.
 
-##### Evaluation Comments
+#### Evaluation Comments
 * Missing sort method
 * Some missing coverage, very strong in other areas (covering edge cases and verifying impact of methods like load)
 * TONS of nested if/elsif statements. Would like to see these reorganized
 * Solid use of recursion. Nice job!
 
-##### Evaluation Scores
+#### Evaluation Scores
 
 #### 1. Functional Expectations 
 * 2: Application is missing one base expectation
@@ -121,20 +120,20 @@ This project required that we take movie titles and scores and store them in a b
 * 3: Application makes effective use of loop/recursion techniques
 
 
-#### Event Reporter
+### Event Reporter
 
 * [GitHub URL](https://github.com/epintozzi/event_reporter)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
 
-##### Description
+#### Description
 This project required us to take event registration information and load the file with the program, and then use the program to manipulate the data for a desired output. Learning objective and areas of growth for me included: gaining a better understanding of how methods and classes work together (including the passing in of parameters across several methods), improved testing strategies, extracting larger methods in to their own/SRP methods, and creating a REPL (the REPL was probably the biggest challenge for me in this project).
 
-##### Evaluation Comments
+#### Evaluation Comments
 * 32 tests, 59 assertions, 0 failures, 92% coverage
 * good separation of responsibilities among classes and modules
 * repl could use a little extraction of code for double nested if statements
 
-##### Evaluation Scores
+#### Evaluation Scores
 
 #### 1. Functional Expectations
 * 3: Application fulfills all base expectations
@@ -163,23 +162,22 @@ This project required us to take event registration information and load the fil
 
 The following projects were completed as a group/partnership.
 
-#### Enigma
+### Enigma
 
 * [GitHub URL](https://github.com/epintozzi/enigma-1)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-##### Description
+#### Description
 For this project, we built and encrpytion engine that could also decrypt and crack encrypted messages both by inputing the method directly in to the project and also by reading and writing files via commands within the program. Learning objectives also included improved testing techniques, practicing with enumerables, and appropriately breaking down logic in to single responsibility methods/classes.
 
-##### Evaluation Comments
+#### Evaluation Comments
 * 13 tests, all passing
 * A bit of overuse of instance variables, think about methods sending messages
 * Enigma is doing a lot, break out functionality to perhaps a rotator class.
 * Some very long methods.
 * Enigma class does way too much.
 
-##### Evaluation Scores
-<br/>
+#### Evaluation Scores
 
 #### 1. Overall Functionality
 * 4: Application follows the complete spec and one extension
@@ -196,17 +194,17 @@ For this project, we built and encrpytion engine that could also decrypt and cra
 ##### Feedback
 Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her. 
 
-#### Headcount
+### Headcount
 
 * [GitHub URL](https://github.com/dshinzie/headcount/)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-##### Description
+#### Description
 In this project, we took real-life data about participation rates in kindergarten, high school graduation, and poverty levels to create a program that could analyze the data and give meaningful results with regard to how all of that data correlated with each other. This was done by creating relationships among the data and then writing analysis methods to help interpret the significance of all the information.
 
-##### Evaluation Comments
+#### Evaluation Comments
 
-##### Evaluation Scores
+#### Evaluation Scores
 
 ##### Feedback
 Erin, I really enjoyed our working dynamic in our Headcount project. I think you understand the importance of flexibility and have a keen attention to detail, which has helped us frequently during the development of the project for both the code and the organization. I am also grateful that you essentially took care of our last iteration when I had no more juice left. Although I do not think this is a necessary trait, I think if you were to drive more frequently in future projects you will be able to “think on the fly” more often. I think it will help you become a more confident developer both at your time at Turing and in the workplace after graduating.
