@@ -301,4 +301,12 @@ I've really enjoyed being a part of the Turing community. In addition to all of 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
