@@ -21,7 +21,7 @@ Armstrong posse was a big success, though we ended up not investigating TensorFl
 
 LGBTuring will be lead by me next mod, and I received positive feedback about the sushi dinner we held.
 
-### A: End of Module Assessment
+## A: End of Module Assessment
 
 #### 1. Analytic/Algorithmic Thinking
 
@@ -49,7 +49,7 @@ LGBTuring will be lead by me next mod, and I received positive feedback about th
 
 [Mid-mod assessment](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/mid_module_diagnostic/jean.md)
 
-### Individual Work & Projects
+## B: Individual Work & Projects
 
 These were individual projects. They consisted of independent projects (robot world, basement animals), tutorials (blogger, mix master) and communication (blog post, lightning talk). They were not evaluated, so scores are not present.
 
@@ -94,7 +94,7 @@ This was a lightning talk I gave on the physics of semi-conductors
 
 This was a blog post I wrote as a retrospective on helping out with Try Turing Fort Collins
 
-## Team
+## C: Group Work & Projects
 
 ### Projects
 
@@ -161,8 +161,6 @@ Raphael Barbo -
 
 These are reflections and deliverables for sessions held to build professional and soft skills.
 
----
-
 ### Gear Up
 #### Getting Better At Difficult Things
 
@@ -208,7 +206,7 @@ It was very nice to have discussion about how to make connections. Directing us 
 
 ---
 
-### E: Feedback & Community Participation
+## E: Feedback & Community Participation
 
 ### Giving Feedback
 
