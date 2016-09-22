@@ -14,6 +14,7 @@ During module 2, I had set myself with two main goals; The first was to give bac
 * **4: MVC & Rails Style**: 3
 * **5: Testing**: 3
 * **6: Collaboration**: 3
+
 ---
 
 ## B: Individual Work & Projects
