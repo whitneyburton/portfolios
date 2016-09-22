@@ -305,6 +305,7 @@ Erin, I really enjoyed our working dynamic in our Headcount project. I think you
 
 *Michael Scherer*
 <br/>
+Although I have not working with Erin on a project, we have worked together in class, as well in the project retro.  In both cases, Erin came across as insightful, organized, and a good partner.  She is a "measure twice, cut once" type of person, which makes working with her enjoyable.  Her determination is also impressive; she worked on finding a pattern for adding/subtracting binary numbers until a solution was found (her solution ended up being shared in class).  I look forward to more opportunities to work with her in the future.
 
 *Susi Irwin*
 <br/>
