@@ -203,8 +203,36 @@ Erin was my first partner in a paired project, and I was so happy to work with h
 In this project, we took real-life data about participation rates in kindergarten, high school graduation, and poverty levels to create a program that could analyze the data and give meaningful results with regard to how all of that data correlated with each other. This was done by creating relationships among the data and then writing analysis methods to help interpret the significance of all the information.
 
 #### Evaluation Comments
+* did iteration 6
+* no extensions
+* spec harness compeltely passes
+* 141 tests, 97 percent coverate
+* 0 sanitzation errors
+* project raises errors which is awesome
+* really good consistent use of enumerables to test collections in testing.
+* good use of modules, and raises throughout project.
+* Some opportunities to refactor for clarity, use more predicate methods when working with stupid long conditionals
+
 
 #### Evaluation Scores
+
+#### 1. Functional Expectations
+* 3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
+
+#### 2. Test-Driven Development
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+#### 3. Encapsulation / Breaking Logic into Components
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+####4. Fundamental Ruby & Style
+* 3: Application shows strong effort towards organization, content, and refactoring
+
+#### 5. Enumerable & Collections
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+#### 6. Code Sanitation: The output from rake sanitation:all shows...
+* 4: Zero complaints
 
 ##### Feedback from Daniel
 Erin, I really enjoyed our working dynamic in our Headcount project. I think you understand the importance of flexibility and have a keen attention to detail, which has helped us frequently during the development of the project for both the code and the organization. I am also grateful that you essentially took care of our last iteration when I had no more juice left. Although I do not think this is a necessary trait, I think if you were to drive more frequently in future projects you will be able to “think on the fly” more often. I think it will help you become a more confident developer both at your time at Turing and in the workplace after graduating.
