@@ -326,5 +326,4 @@ Madison helped me kick off mod 1 with a helpful session on CSS and working with 
 ( Leave blanks for reviewers )
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
