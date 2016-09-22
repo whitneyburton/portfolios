@@ -307,5 +307,5 @@ Every week I have tried to set up events for my cohorts and students out of my c
 * Reflections on GearUp and professional development
 
 ### Outcome
-PROMOTED
+PROMOTED 
 
