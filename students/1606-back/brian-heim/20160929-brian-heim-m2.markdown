@@ -64,7 +64,7 @@ Robot World is a Sinatra app that serves as a directory of robots. Robots have v
 
 __Project__ description:
 
-Blogger is a Rails app that is a basic blogging platform featuring comments and tags. Style built in to the Jumpstartlab tutorial.
+Blogger is a Rails app that is a basic blogging platform featuring comments and tags. The styling for the app was built in to the Jumpstartlab tutorial.
 
 ---
 
@@ -163,7 +163,7 @@ The partnership was a positive experience. It was nice that the content was the 
 
 __Project__ description:
 
-Little Shop is a Rails app that models an e-commerce site, and is hosted live on Heroku. Our group chose to "sell" College Athletic apparel and gear. Users can create accounts, log in, assemble a cart, and "checkout", creating an order in the database with the status of "ordered". Admins can change order status and check on all orders that have been placed.
+Little Shop is a Rails app that models an e-commerce site, and is hosted live on Heroku. Our group chose to "sell" College Athletic apparel and gear. Users can create accounts, log in, assemble a cart, and "checkout", which creates an order in the database with the status of "ordered". Admins can change order status and check on all orders that have been placed.
 
 Fellow Group members: Bryan Goss, Chase Dunagan
 
@@ -180,13 +180,13 @@ Fellow Group members: Bryan Goss, Chase Dunagan
 
 Description: 
 
-This lightning talk highlights the Toneprint Technology from TC Electronic, as well as some basics about musical instrument effect pedals.
+This lightning talk highlights the wireless data transfer functionality of Toneprint Technology from TC Electronic, as well as some basics about musical instrument effect pedals.
 
 ---
 
 ### Gear Up
 
-I really enjoyed Gear Up this module, especially the last Gear Up: CODE:Debugging the Gender Gap. CODE was especially significant for me because I gained new perspective that I otherwise would not have been able to. I have a fiance in tech and hear about some of these issue from her, but didn't realize all the ways that I can help fix the problem until this Gear Up.
+I really enjoyed Gear Up this module, especially the last Gear Up: CODE:Debugging the Gender Gap. CODE was especially significant for me because I gained new perspective that I had not been aware of before. I have a fiance in tech and hear about some of these issue from her, but didn't realize all the ways that I can personally help fix the problem until this Gear Up.
 
 Overall I learned alot about myself and my fellow Turingites during these sessions, and engaged in very meaningful discussions regarding these thought-provoking topics: 
 
@@ -212,7 +212,7 @@ Overall I learned alot about myself and my fellow Turingites during these sessio
 
 * [Link to 10 interesting companies](https://gist.github.com/bheim6/ed3be7c390d1583c058745899e568434)
 
-I learned alot about branding myself in the tech industry but really took away alot of information and tips for communicating and presenting myself professionally on social media. I already use LinkedIn but will now use Twitter as well to network and communicate with others in the industry. I also wrote down tips for keeping GitHub "clean" and also buffing it up with thing slike a personal site and a professional picture.
+I learned alot about branding myself in the tech industry but really took away alot of information and tips for communicating and presenting myself professionally on social media. I already use LinkedIn but will now use Twitter as well to network and communicate with others in the industry. I also wrote down tips for keeping GitHub "clean" and also buffing it up with things like a personal site and a professional picture.
 
 #### Collaborative Communication with Allison
 
@@ -228,7 +228,9 @@ I learned alot about branding myself in the tech industry but really took away a
 
 2 - How you incorporated feedback from your team members and what you learned about yourself in the process.
 
-I received some really meaningful feedback from my Rush Hour group that I can sometimes make guesses instead of making sure that a certain query or method will work. I took this feedback to heart and let my Little Shop group know that if I start going down that rabbit hole, to call me out on it. Luckily, just being aware of this trait has helped me notice when I am doing it, and I can usually catch myself now before it even becomes an issue.
+I received some really meaningful feedback from my Rush Hour group that I can sometimes make guesses instead of making a better hypothesis whether or not a certain action will work. I found this to be very valuable and took this feedback to heart. I let my Little Shop group know that if I start going down that rabbit hole, to call me out on it. Luckily, just being aware of this trait has helped me notice when I am doing it. Recently I have been catching myself before it even becomes an issue. 
+
+I have always valued feedback and encouraged it, there will always be more things that I can do to improve myself.  
 
 #### Networking with Lia
 
@@ -244,7 +246,7 @@ I liked that we had to practice networking in this lesson. It really gave us som
 
 * Working with Jesse on his project has been a great experience, His major strengths are regarding his hard skills and ability to explain his thought process. He is a master of his tools and is adept with shortcuts and workflow. He is a strong communicator and is able to explain the reasons behind every coding decision. I learned alot about TDD form him on this project. I considered myself solid with TDD, but Jesse is an expert, and emphasized encapsulation and helper methods. It was really nice working with someone who was able to advance my own skill in this area.
 
-* The constructive advice I would give Jesse would be to be mindful about managing stress regarding project deadlines. In particular, for him to not compare his progress or understanding to others. If he can accomplish this, he will be unstoppable.
+* The constructive advice I would give Jesse would be to be mindful about managing stress regarding project deadlines. He never let it get in the way of the project, but could become distracted at times when overhearing other groups discuss how far along they were on the project. If he can accomplish this, he will be unstoppable.
 
 ### Being a Community Member
 
