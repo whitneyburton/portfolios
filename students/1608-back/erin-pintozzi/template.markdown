@@ -372,9 +372,10 @@ Third, I participated in Imposters Lunch almost every Wednesday. This group is r
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+* Very thoughtful goals for the module
+* Upward trend on individual work. 
+* Partner work solid, learned new interpersonal skills and strategies
+* Very active community participation, effort to flex into new territories seems fruitful
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
