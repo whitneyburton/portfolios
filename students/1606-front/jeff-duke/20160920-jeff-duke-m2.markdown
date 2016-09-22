@@ -198,6 +198,8 @@ Brett and I led 2 Student Led Sessions on JavaScript fundamentals using the Code
 
 In addition I tried to keep an eye out and take notice if fellow students in my cohort were struggling and to offer assistance where possible.  I took a lot of walks with folks to help them clear their heads and have good conversations about areas they might be struggling in and ways I could help or ways they could solicit help from the instructors.
 
+I've also opened several PR's against the 1606FE site to fix typos, add missing content and try to improve the resource for all when I see an issue, rather than just telling someone about it.   
+
 Outside of Turing I started blogging about my experiences here to hopefully provide insight to current and future students about the frontend program.
 
 ------------------
