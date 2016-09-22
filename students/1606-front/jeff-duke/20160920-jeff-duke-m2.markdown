@@ -37,15 +37,24 @@ A tier-one pomodoro app
 A tier-two networking app
 
 #### (Final Project: Shoot the Breeze)
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/Jeff-Duke/shoot-the-breeze)
+* [Original Assignment](http://frontend.turing.io/projects/shoot-the-breeze.html)
 
-(description)
+For this project we made a live chat app that uses Firebase for a backend and React for the Frontend.  This was a really fun project to cement our react skills and get into testing react components with Enzyme.    
 
 (evaluation comments)
 
-(evaluation scores)
+Spec Adherence: 4
+Design/UI: 3
+Code Sanitation: 4
+Testing: 4
+Workflow: 4
+CSS/Sass: 4
+JS Style: 4
+Component Architecture: 4
 
+#####Feedback to me:
+I worked with Jeff on our Firebase and React based chat app.  From the start, we were organized and on the same page.  We both wanted to learn more about compartmentalizing React components and how to test them.  We made a solid plan to divide and conquer and were both very efficient.  Our communication styles worked well together.  Jeff is very sharp and eager to help the whole cohort with testing using mocks and stubs.  Jeff is a great teammate.
 
 
 #### (A very lonely chat-room)
@@ -112,7 +121,8 @@ Design: 3
 
 #####Feedback to me:
 
-No feedback received from my partner.
+Jeff is the paragon of cool. He's a pro. Under tight deadlines, and piles of work, he stays centered and focused. He has a perspicacious eye for detail. It's quite enviable and indeed encouraging to work with Jeff because he reveals insights and crafty ways to model a problem. Jeff's a fine teacher in this way, because while working with him you get to see into the mind of a problem solver, and thusly, shape your own style & technique. It's no surprise that Jeff is an experienced communicator.  He is the only one to actively use the DTR. I found this profoundly helpful, because it sets the stage for how the team will work moving forward.
+To wrap-up my time with Jeff, I would say that he truly cares about what's important for me. He's empathetic to the stresses of Turing and eager to help and support his colleagues in any capacity. Jeff is already a fine friend and poised to be a coveted developer.
 
 #### (Tier-2 Networking App)
 
@@ -183,6 +193,8 @@ This mod I put in a lot of extra effort to play a part in the community.  I orga
 Brett and I led 2 Student Led Sessions on JavaScript fundamentals using the CodeWars platform.  We had a lot of attendance and those that participated seemed to really enjoy it and found it valuable.
 
 In addition I tried to keep an eye out and take notice if fellow students in my cohort were struggling and to offer assistance where possible.  I took a lot of walks with folks to help them clear their heads and have good conversations about areas they might be struggling in and ways I could help or ways they could solicit help from the instructors.
+
+Outside of Turing I started blogging about my experiences here to hopefully provide insight to current and future students about the frontend program.
 
 ------------------
 
