@@ -129,4 +129,4 @@ I consider my main contribution to the community to be my work with Armstrong po
 [Armstrong posse gist.](https://gist.github.com/bcgoss/ef28ca99bf8fb2265bcf0949b8e9d4cb)
 
 Other:
-For the first Friday Spike, I talked with some mod 1 students with Ben and we tried to help them settle in and get used to some of the tools they'll be using while they're here. Throughout the module I paired with Mod 1 students X times, particularly Brandon and Dan. The last Friday I will help with the Conway Game of Life coding challenge.
+For the first Friday Spike, I talked with some mod 1 students with Ben and we tried to help them settle in and get used to some of the tools they'll be using while they're here. Throughout the module I paired with Mod 1 students 4 times, particularly Brandon Randall, Dave Junta and Dan Olsen. The last Friday I will help with the Conway Game of Life coding challenge.
