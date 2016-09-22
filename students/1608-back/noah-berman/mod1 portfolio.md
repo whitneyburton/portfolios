@@ -8,7 +8,7 @@ Module 1 has been all about learning to actually do the thing -- to write code t
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: X
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 4
 
