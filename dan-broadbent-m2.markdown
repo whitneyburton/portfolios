@@ -145,7 +145,7 @@ My main takeaway from this session is to realize that developers aren't superhum
 ### Professional Development Workshops
 #### Finding Opportunities with Lia
 
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://gist.github.com/danbroadbent/921fc918eefcf1957bdeded824d05b5a)
 
 This was a very eye-opening session.  The idea that many jobs in the tech world are never even posted is really important to how you go about the job hunt.  Knowing what companies you are interested in and what kind of cultures they have is very important.  This gives you a way to start persuing those companies and finding common interests with people who already work there.
 
