@@ -10,7 +10,7 @@ Module 1 has been all about learning to actually do the thing -- to write code t
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 4
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
