@@ -106,6 +106,8 @@ Also on the technical side, Sonia was directly responsible for implementing a nu
 ###### Area of growth
 In terms of an area of growth, I would like to see Sonia apologize less - out of all the times I heard her apologize when working with her, I don't think I can think of a single instance that she did anything wrong or worth apologizing over. Part of that might come from not having confidence in her technical skill set, which is considerable.
 
+From David Davydov: I once told Sonia that she was a cyborg, and I still think this may partly be true. What impressed me about Sonia more than anything was her ability to hold massive amounts of information in her head, make sense of it all, and when she didn't know something she would know the right place to reference it. She is an organizational master. Often during our project, I would know that we'd need to use a technique we learned in a random lesson some odd days ago. Whenever I would ask her where I could reference this technique, she wouldn't hesitate before responding with the right answer. My pairing experience with Sonia was always positive. There was a moment during the project that the approach we were taking was getting complicated and I suggested that we slow down and try another way. My delivery is something I could work on, and when what I said came off as off-putting, Sonia let me know and I appreciated it. I reminded Sonia that I always recognized her super-human commitment and dedication to the team. I would be excited to work with and learn more from Sonia in the future, she is a strong resource to any group she works with.
+
 ---
 
 ## D: Professional Skills
