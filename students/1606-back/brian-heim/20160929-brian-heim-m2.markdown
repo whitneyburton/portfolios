@@ -269,9 +269,11 @@ The partnership was a positive experience. It was nice that the content was the 
 
 ### Playing a Part
 
-* Armstrong Posse - I contributed during the creation of our linear regression app and participate regularly in posse discussions 
+* Armstrong Posse - I contributed during the creation of our linear regression app and participate regularly in posse meetings and discussions 
 * Regularly empty dishes and load/run dishwashers in big workspace
-* Organized disc-golf outings with the #disc-golfers channel and met some new Mod 1 students
+* Organized disc-golf outings with the #disc-golfers channel and met/offered advice to some new Mod 1 students
+* Paired with Mod 1 students early in the mod to help with projects and homework
+* Regularly arranged and re-arranged Big Workspace furniture for guest speakers and Gear-Up.
 
 
 ---
