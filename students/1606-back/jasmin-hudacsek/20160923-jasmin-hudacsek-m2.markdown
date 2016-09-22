@@ -122,6 +122,10 @@ My experience with Jasmin was excellent. She was a very capable project manager.
 ## D: Professional Skills
 
 ### Deliverables
+#### Blog Post
+
+* [5 Tips on How to Start Your Personal Brand on Twitter for New Developers](https://medium.com/@j_sm_n/5-tips-on-how-to-start-your-personal-brand-on-twitter-for-new-developers-361601c367c8#.2ghwuie8h)
+
 #### Lightning Talk
 
 * [What The Heck Is DevOps And Why You Should Care](https://docs.google.com/presentation/d/161BZDpGzsRJwt431WinzcgZm6g-zMrMFxpKcWWUFz7k/edit?usp=sharing)
