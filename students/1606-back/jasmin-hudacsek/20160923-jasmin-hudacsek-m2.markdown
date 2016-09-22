@@ -103,9 +103,10 @@ Jasmin was such a pleasure to work with. Rush Hour moved like clockwork due to h
 
 ---
 
-### Little Shop of Orders - GoodGrocers
+### Little Shop of Orders - GoodGrocer
 
 * [GitHub URL](https://github.com/j-sm-n/little_shop)
+* [Heroku URL](https://goodgrocer.herokuapp.com)
 
 __Little Shop__ is an e-commerce site that sells grocery items and recommends items based on what previous users have bought. We implemented admin, registered user, and visitor functionality.
 
