@@ -28,14 +28,19 @@ Feedback from Sal:
 
 #### 1. Analytic/Algorithmic Thinking
 * 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+
 #### 2. Ruby Syntax & Standard Library
 * 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+
 #### 3. Rails Syntax & API
 * 3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
+
 #### 4. MVC & Rails Style
 * 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
 #### 5. Testing
 * 4: Developer writes tests at multiple layers of abstraction to drive development
+
 #### 6. Collaboration
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
