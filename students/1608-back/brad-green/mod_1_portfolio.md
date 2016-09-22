@@ -1,4 +1,4 @@
-# Brad Green - M1 Portfolio
+# Brad Green - M1 Portfolio  
 
 ## Areas of Emphasis
 
