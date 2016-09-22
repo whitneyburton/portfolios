@@ -18,8 +18,8 @@ completely blows my mind and makes more than anxious for the days ahead.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 2.5
-* **B: Individual Work & Projects**: 2.5
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
@@ -334,9 +334,9 @@ I also attended an improv session earlier in the module.
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+* Some weaknesses on personal projects
+* Next module, looking for leadership, leading by example
+* Active and engaged in professional skills
 
 ### Outcome
-
-( Leave blanks for reviewers )
+REPEAT
