@@ -53,14 +53,10 @@ The individual work this module mainly consisted of working through different tu
 
 #### Rails Mini-Project
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [https://github.com/danbroadbent/idea_box](Idea Box)
+* [https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown](Rails Mini-Project)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+Idea Box is an app to record your ideas.  It allows users to create ideas and save them with a description to different categories.  This project was not formally evaluated, but the learning goals included test driven development of a rails app with feature tests, setting up CRUD functionality, using 1-to-1 and 1-to-many database realationships, using RESTful routes, and implementing authentication of users.
 
 ## C: Group Work & Projects
 
@@ -70,10 +66,10 @@ Group projects were the highlight of this module.  I worked on two teams of thre
 
 #### Rush Hour
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [](Rush Hour GitHub)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md](Rush Hout Original Assignment)
 
-(description)
+Rush Hour was a web app built with Ruby, Sinatra, and Active Record.  It is a tool that aggregates and analyzes visitor data from another website.  Customer data was a payload in the form of a JSON object that we had to accept and anaylize.
 
 (evaluation comments)
 
