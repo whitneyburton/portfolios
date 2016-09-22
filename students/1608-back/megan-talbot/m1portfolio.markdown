@@ -1,4 +1,4 @@
- # Megan Talbot - M1 Portfolio
+# Megan Talbot - M1 Portfolio
 
 ## Areas of Emphasis
 
