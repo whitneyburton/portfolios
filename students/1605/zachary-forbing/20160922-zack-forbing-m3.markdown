@@ -364,8 +364,23 @@ Aside from my dishwasher duty on Wednesdays, I took time to take care of them wh
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3+
+
+
+* End of Mod - struggled with speed and testing - felt they were very intertwined.
+* Feels like conceptually really undrstatnds apis - maybe needs a little more work, but final doesnt really reflect where he feels he is. 
+* Felt like managerial role in pivot was a success
+* Final project with the group was really successful
+* Rales Engine was an interesting project interpersonally 
+* Feel like gives good feedback.
+* Here at Turing constantly
+* Maybe not overly participatory in extra curriculumn, but a part of the community and always present
+* Helpful to other students when they ask and offers help
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
