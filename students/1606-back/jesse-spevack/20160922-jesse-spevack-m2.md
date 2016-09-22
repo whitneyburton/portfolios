@@ -247,6 +247,11 @@ Jesse is a natural leader. In fact, working with Jesse was the first time at Tur
 ### Playing a Part
 
 * Paired 8 times with Mod 1 students
+* Led a Friday Spike on Google Apps Script
+* Completed every single feedback survey
+* Served as a pre-work guide
+* Ran registration for last Mod's demo event
+* Created and posted Captain Planet, clean up your pairing station, notices
 * Friday running group (55 miles and counting)
 * Made drinkable coffee at least three times
 
