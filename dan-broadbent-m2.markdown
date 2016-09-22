@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-My goal for this module is to build on the fountaions of Ruby and TDD that I learned in mod 1, and be able to bring these skills to the web with Rails.  I want to get very comfortable with the MVC model so that I will be able to learn different frameworks that use it.  I'm very interested in learning SQL, databases, and database relationships.  I also want to participate in the Turing community more than I did last module.
+My goal for this module is to build on the foundations of Ruby and TDD that I learned in mod 1, and be able to bring these skills to the web with Rails.  I want to get very comfortable with the MVC model so that I will be able to learn different frameworks that use it.  I'm very interested in learning SQL, databases, and database relationships.  I also want to participate in the Turing community more than I did last module.
 
 ## Rubric Scores
 
@@ -55,7 +55,7 @@ The individual work this module mainly consisted of working through different tu
 * [Idea Box GitHub](https://github.com/danbroadbent/idea_box)
 * [Rails Mini-Project Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
-Idea Box is an app to record your ideas.  It allows users to create ideas and save them with a description to different categories.  This project was not formally evaluated, but the learning goals included test driven development of a rails app with feature tests, setting up CRUD functionality, using 1-to-1 and 1-to-many database realationships, using RESTful routes, and implementing authentication of users.
+Idea Box is an app to record your ideas.  It allows users to create ideas and save them with a description to different categories.  This project was not formally evaluated, but the learning goals included test driven development of a rails app with feature tests, setting up CRUD functionality, using 1-to-1 and 1-to-many database relationships, using RESTful routes, and implementing authentication of users.
 
 ## C: Group Work & Projects
 
@@ -64,9 +64,9 @@ Group projects were the highlight of this module.  I worked on two teams of thre
 ### Rush Hour
 
 * [Rush Hour GitHub](https://github.com/brendandillon/rush_hour)
-* [Rush Hout Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
+* [Rush Hour Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
-Rush Hour was a web app built with Ruby, Sinatra, and Active Record.  It is a tool that aggregates and analyzes visitor data from another website.  Customer data was a payload in the form of a JSON object that we had to accept and anaylize.
+Rush Hour was a web app built with Ruby, Sinatra, and Active Record.  It is a tool that aggregates and analyzes visitor data from another website.  Customer data was a payload in the form of a JSON object that we had to accept and analyze.
 
 #### 1. Functional Expectations
 
@@ -109,9 +109,9 @@ Evaluation Comments:
 * [GitHub URL](https://github.com/rdavid1099/little-shop)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-Little Shop was an ecommerce site built with Ruby on Rails.  In addition to practicing Rails, we got to learn and practice a lot of group colloboration tools.  The project spec was given to us piece by piece in the form of user stories on waffle.io.  We also used git workflow with Hound integrated for styling.
+Little Shop was an e-commerce site built with Ruby on Rails.  In addition to practicing Rails, we got to learn and practice a lot of group collaboration tools.  The project spec was given to us piece by piece in the form of user stories on waffle.io.  We also used git workflow with Hound integrated for styling.
 
-I really enjoyed my project and my group.  We did a great job of defining the relationship and expectations from the outset.  We mainly worked together, and this allowed us to make sure everyone understood what was going on in the application and that we each met our learning goals.  We stayed focused on what we agreed really mattered, which was meeting the learning goals, making great use of TDD, making sure we were sticking to best practices like SRP and DRY, and overall making a solid backend.  If there was more time, I know we would have liked to spent more time styling the frontend and putting in some more extensions, but we stayed focused and executed well on what we all agreed was most important.
+I really enjoyed my project and my group.  We did a great job of defining the relationship and expectations from the outset.  We mainly worked together, and this allowed us to make sure everyone understood what was going on in the application and that we each met our learning goals.  We stayed focused on what we agreed really mattered, which was meeting the learning goals, making great use of TDD, making sure we were sticking to best practices like SRP and DRY, and overall making a solid backend.  If there was more time, I know we would have liked to spent more time styling the front-end and putting in some more extensions, but we stayed focused and executed well on what we all agreed was most important.
 
 (evaluation comments)
 
@@ -133,13 +133,13 @@ One of the most important things that I learned in this session is how gender in
 
 * [There is an "I" in "Team"](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
 
-This lesson was interesting because it introduced the idea that having personal boundries is actually a way to be more empathic to your peers.  It is counterintuitive at first, because it seems like empahty requires you to take on the other person's burden.  But it is good to know you can be empathetic by recognizing the other person and knowing what they are going through without them bringing you down as well.
+This lesson was interesting because it introduced the idea that having personal boundaries is actually a way to be more empathic to your peers.  It is counterintuitive at first, because it seems like empathy requires you to take on the other person's burden.  But it is good to know you can be empathetic by recognizing the other person and knowing what they are going through without them bringing you down as well.
 
 #### Getting Better at Difficult Things
 
 * [Getting Better at Difficult Things](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
-My main takeaway from this session is to realize that developers aren't superhuman workers that do and know everything about code.  That mindset can be detrimental and discouraging to your learning.  If you accept that you are a human with human limitations, you can make best use of the cognative resources that you do have.  To make best use of the resources that you do have, exposing yourself to lots of examples of the same thing and using the power of your brain to recognize patterns can be a very effective way to learn.
+My main takeaway from this session is to realize that developers aren't superhuman workers that do and know everything about code.  That mindset can be detrimental and discouraging to your learning.  If you accept that you are a human with human limitations, you can make best use of the cognitive resources that you do have.  To make best use of the resources that you do have, exposing yourself to lots of examples of the same thing and using the power of your brain to recognize patterns can be a very effective way to learn.
 
 
 ### Professional Development Workshops
@@ -147,15 +147,15 @@ My main takeaway from this session is to realize that developers aren't superhum
 
 * [Link to Completed Deliverables](https://gist.github.com/danbroadbent/921fc918eefcf1957bdeded824d05b5a)
 
-This was a very eye-opening session.  The idea that many jobs in the tech world are never even posted is really important to how you go about the job hunt.  Knowing what companies you are interested in and what kind of cultures they have is very important.  This gives you a way to start persuing those companies and finding common interests with people who already work there.
+This was a very eye-opening session.  The idea that many jobs in the tech world are never even posted is really important to how you go about the job hunt.  Knowing what companies you are interested in and what kind of cultures they have is very important.  This gives you a way to start pursuing those companies and finding common interests with people who already work there.
 
 #### Networking with Lia
 
-This session offered a lot of great strageies to be successful at networking and not see it as a chore.  My main takeaway was that I need to be able to easily and succinctly tell my story.  I can do that easily as long as I can answer these three questons: Who am I?,  How did I get here?, and What's next?
+This session offered a lot of great strategies to be successful at networking and not see it as a chore.  My main takeaway was that I need to be able to easily and succinctly tell my story.  I can do that easily as long as I can answer these three questions: Who am I?,  How did I get here?, and What's next?
 
 #### Collaborative Communication with Allison
 
-Since we had a couple of serious group projects this module, it was very helpful that the whole class went over communication strategies.  I found the most important and useful strategy that we went over was making your feedback objective and free of emotion, judgement, and assumptions.  This is beneficial for both the giver and reciever of the feedback as it keeps it from being taken in the wrong way and much more comfortable to give and accept.  Learning about the steps of team development was also crutial, so we all knew that to be the most effective we had to get the forming and storming out of the way as early as possible.
+Since we had a couple of serious group projects this module, it was very helpful that the whole class went over communication strategies.  I found the most important and useful strategy that we went over was making your feedback objective and free of emotion, judgement, and assumptions.  This is beneficial for both the giver and receiver of the feedback as it keeps it from being taken in the wrong way and much more comfortable to give and accept.  Learning about the steps of team development was also crucial, so we all knew that to be the most effective we had to get the forming and storming out of the way as early as possible.
 
 ## E: Feedback and Community Participation
 
@@ -181,7 +181,7 @@ From Matt - I really enjoyed working with Dan on our final group project for Mod
 
 ### Playing a Part
 
-I did pairing sessions with Mod 1 students during the first weeks of the mod.  I found it to be both challenging and rewarding, guiding students was more difficult than I anticipated.  I also attended Denver Beta, a showcase for startups in the area, with another Mod 2 frontend student in my posse.
+I did pairing sessions with Mod 1 students during the first weeks of the mod.  I found it to be both challenging and rewarding, guiding students was more difficult than I anticipated.  I also attended Denver Beta, a showcase for startups in the area, with another Mod 2 front-end student in my posse.
 
 In my posse, Bezos, I played an active role.  I led one of our weekly discussions and provided material for the group to learn more about progressive web apps.  I also opened up my personal project for other students to help me with.  I am working on building a web app for group photo sharing and it was awesome to collaborate with other students, especially those from the front-end program and get their perspectives.
 
