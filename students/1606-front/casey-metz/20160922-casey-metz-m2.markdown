@@ -6,7 +6,7 @@ I felt some good momentum coming out of mod1, and wanted to try to add on some e
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 4 (I think)
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 2.5 (I was not good about getting Louisa's design challenges done)
 * **C: Group Work & Projects**: 3 (They're all still a bit buggy)
 * **D: Professional Skills**: 3?
