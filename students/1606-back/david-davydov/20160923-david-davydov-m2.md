@@ -67,7 +67,7 @@ Rush hour was a 3-person group project. Some key concepts were parsing raw JSON 
 * 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
 
-#### Gear Up
+### Gear Up
 
 I appreciated this module's Gear Up events. Although we are here to learn programming, having a Friday to do other things such as grow as developers and human beings is a welcome feature of Turing. I included a lengthy feedback to the CODE: Debugging the Gender Gap that I will include below:
 
