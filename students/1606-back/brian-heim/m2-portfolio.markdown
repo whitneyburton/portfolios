@@ -1,9 +1,12 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Brian Heim - M2 Portfolio
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goals for this module are to keep up with the amount of material we will be covering, and truly understand Sinatra/Rails, etc. so that I can produce strong work this module. I also want to practice my HTML/CSS skills so that I can create aesthetically pleasing sites.
+
+I want to get comfortable job searching and strive to work toward improving my networking skills.
+
 
 ### End of Module Assessment
 
