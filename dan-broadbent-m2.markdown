@@ -59,11 +59,9 @@ Idea Box is an app to record your ideas.  It allows users to create ideas and sa
 
 ## C: Group Work & Projects
 
-### Projects
-
 Group projects were the highlight of this module.  I worked on two teams of three, and they both worked together very well.  In Rush Hour we build a Sinatra app, and Little Shops was built with Ruby on Rails.
 
-#### Rush Hour
+### Rush Hour
 
 * [Rush Hour GitHub](https://github.com/brendandillon/rush_hour)
 * [Rush Hout Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
@@ -101,14 +99,19 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 * 3: Good use of branches, pull requests, and a project-management tool.
 
 Evaluation Comments: 
-* One of our views had too much logic, don't query the database in the view.   
+* One of our views had too much logic, don't query the database in the view.
+* Improve naming
+* Test relationships
+* More feature tests
 
-#### Little Shop
+### Little Shop
 
 * [GitHub URL](https://github.com/rdavid1099/little-shop)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 Little Shop was an ecommerce site built with Ruby on Rails.  In addition to practicing Rails, we got to learn and practice a lot of group colloboration tools.  The project spec was given to us piece by piece in the form of user stories on waffle.io.  We also used git workflow with Hound integrated for styling.
+
+I really enjoyed my project and my group.  We did a great job of defining the relationship and expectations from the outset.  We mainly worked together, and this allowed us to make sure everyone understood what was going on in the application and that we each met our learning goals.  We stayed focused on what we agreed really mattered, which was meeting the learning goals, making great use of TDD, making sure we were sticking to best practices like SRP and DRY, and overall making a solid backend.  If there was more time, I know we would have liked to spent more time styling the frontend and putting in some more extensions, but we stayed focused and executed well on what we all agreed was most important.
 
 (evaluation comments)
 
@@ -136,7 +139,7 @@ This lesson was interesting because it introduced the idea that having personal 
 
 * [Getting Better at Difficult Things](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
-(takeaways from session)
+My main takeaway from this session is to realize that developers aren't superhuman workers that do and know everything about code.  That mindset can be detrimental and discouraging to your learning.  If you accept that you are a human with human limitations, you can make best use of the cognative resources that you do have.  To make best use of the resources that you do have, exposing yourself to lots of examples of the same thing and using the power of your brain to recognize patterns can be a very effective way to learn.
 
 
 ### Professional Development Workshops
@@ -152,7 +155,7 @@ This session offered a lot of great strageies to be successful at networking and
 
 #### Collaborative Communication with Allison
 
-Since we had a couple of serious group projects this module, it was very helpful that the whole class went over communication strategies.  I found the most important and useful strategy that we went over was making your feedback objective and free of emotion, judgement, and assumptions.  This is beneficial for both the giver and reciever of the feedback as it keeps it from being taken in the wrong way and much more comfortable to give and accept.
+Since we had a couple of serious group projects this module, it was very helpful that the whole class went over communication strategies.  I found the most important and useful strategy that we went over was making your feedback objective and free of emotion, judgement, and assumptions.  This is beneficial for both the giver and reciever of the feedback as it keeps it from being taken in the wrong way and much more comfortable to give and accept.  Learning about the steps of team development was also crutial, so we all knew that to be the most effective we had to get the forming and storming out of the way as early as possible.
 
 ## E: Feedback and Community Participation
 
