@@ -111,8 +111,11 @@ __Little Shop__ is an e-commerce site that sells grocery items and recommends it
 
 (Eval notes would go here)
 
->Feedback From Raphael:
+>Feedback from Raphael:
 I paired with Jasmin during our Little Shop Project (also know as GoodGrocers). Her leadership as the project manager, and her skills when it came down to coding and styling the website page goes beyond what I could possibly put into words. At the moment, the only constructive feedback I can give Jasmin, is to delegate more some of the responsibilities, towards the end of the project I felt that she took on a lot, and maybe it was something that we could have shared as a group (again, easy said than done since we all had something going on). It was honestly a great pleasure working with her and I have a lot of admiration and respect for her organization.
+
+>Feedback from Jean:
+My experience with Jasmin was excellent. She was a very capable project manager. She consistently kept us on track, by organizing the waffle board. I was impressed with her ability to put herself in the user's shoes. Many times throughout the project she directed us away from solutions that serve us as developers towards solutions that serve the user. Despite her prior experience as a project manager, she never became overbearing. She was defend her opinions, but never try to user her knowledge as a trump card. She was also very friendly and relaxed throughout. I learned a great deal about management by watching her, and am glad we were in the same group
 
 ---
 
@@ -180,13 +183,22 @@ I am happy to have gotten the opportunity to work with Rapha this module and get
 >Feedback to Jean:
 During Little Shop, Jean was invaluable asset as a group partner and was very good about helping us stay on topic and on schedule. Even though our whole cohort knows his coding skills and algorithmic knowledge are beyond impressive, he never lets it go to his head and is extremely easy to approach with any question. Outside of Little Shop, I very much enjoyed getting to know Jean even more and continue to be amazed at how awesome of a person he is in general. He’s shown awesome leadership with Armstrong and LGBTuring and I am excited to see what he can accomplish while he’s at Turing and beyond.
 
+>Feedback to Calaway:
+Calaway really, really impressed me this module as he stepped up and took over the pairing sessions with Module 1 students for 1606-BE. I am looking forward to getting the chance to work with him on a project in the coming modules as he has a stellar reputation for being someone who is really easy to work with and adds tremendous value to any project. On a personal note, I find that Calaway is extremely approachable about any topic and always stays very calm and collected, even during more stressful times. I feel that he has the organizational skills, intelligence and personality to take on even more leadership opportunities while at Turing and I’m excited to see what else he accomplishes in the future.
+
 ### Being a Community Member
 
 >Feedback from Sonia:
 Jasmin was such a pleasure to work with. Rush Hour moved like clockwork due to her excellent project management skills. Our group was cohesive and collaborative, and she really helped keep us on track. She has a depth of knowledge and understanding that is truly impressive, and I learned a lot from her. On a personal level, Jasmin has proven herself to be kind, empathetic, and mature beyond her years. She has considerable emotional intelligence and approaches problems calmly and with reassurance for all involved. I hope I get the opportunity to work with her again, and I’m really glad to know her.
 
->Feedback From Raphael
+>Feedback from Raphael:
 I paired with Jasmin during our Little Shop Project (also know as GoodGrocers). Her leadership as the project manager, and her skills when it came down to coding and styling the website page goes beyond what I could possibly put into words. At the moment, the only constructive feedback I can give Jasmin, is to delegate more some of the responsibilities, towards the end of the project I felt that she took on a lot, and maybe it was something that we could have shared as a group (again, easy said than done since we all had something going on). It was honestly a great pleasure working with her and I have a lot of admiration and respect for her organization.
+
+>Feedback from Jean:
+My experience with Jasmin was excellent. She was a very capable project manager. She consistently kept us on track, by organizing the waffle board. I was impressed with her ability to put herself in the user's shoes. Many times throughout the project she directed us away from solutions that serve us as developers towards solutions that serve the user. Despite her prior experience as a project manager, she never became overbearing. She was defend her opinions, but never try to user her knowledge as a trump card. She was also very friendly and relaxed throughout. I learned a great deal about management by watching her, and am glad we were in the same group
+
+>Feedback from Calaway:
+From day one Jasmin has been, and continues to be, an incredible asset to our cohort. She has a keen mind for organization and a desire to go above and beyond to share that and her other talents with her peers. She will commonly be the person we all go to to help organize our own calendars and to do lists through the endless tangle of projects and assignments here at Turing. Additionally, her intelligence and ability to quickly pick up and internalize the material is very impressive, and her willingness to use her knowledge to help others has been an amazing help to us all. She also is wonderful at keeping a positive attitude and using her energy to keep morale high, especially during the most stressful times when we all need it the most.
 
 ### Playing a Part
 
