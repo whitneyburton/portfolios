@@ -78,16 +78,16 @@ As gear ups go, this one seemed extremely relevant to my daily life at Turing. T
 
 ##There is an I in team
 
-Setting boundaries is important. I would love to live in a world where people were as explicity about their boundaries as the person in the video was describing. 
+Setting boundaries is important. I would love to live in a world where people were as explicity about their boundaries as the person in the video was describing. I will definitely incorporate this into my future DTRs.
 
 ##CODE Debugging the gender gap
 
-I joined the conversation of people who want to be contientious of gender issues and take action to improve things. We talked about making diversity "everone's job" rather than having a single "diversity champion" on the team. 
+I joined the conversation of people who want to be contientious of gender issues and take action to improve things. We talked about making diversity "everone's job" rather than having a single "diversity champion" on the team. The difference between male experiences and female experiences in the tech industry surprised some people, but I have been paying attention to these issues for a while and I am definitely aware of how the industry as a whole can make women feel unwelcome.
 
 #Professional Development 
 ##Finding Opportunities
 
-
+The skills in this lesson focused on how to investigate companies and learn what they do and what they're looking for. I want to spend some time during intermission week looking at Linkedin, twitter, github and other sources to find out as much about a company or some individuals at those companies as I can. When I find an interesting company I should contact someone who works there and ask to talk about what they do and how they like it.
 
 ##Collaborative Communication
 
