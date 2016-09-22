@@ -11,6 +11,18 @@ I also want to become a leader in Armstrong posse, and make good progress toward
 
 I also want to become the leader of LGBTuring over the course of the mod, as Nick will be graduating at the end of the mod
 
+-----------
+
+Refection at end of mod
+
+I believe I met the goals I set out for myself. I greatly improved my HTML & CSS skills, feel comfortable with Rails, Sinatra and basic MVC. I was able to apply my previous internship experience with the HTTP cycle to better internalize my understanding.
+
+I think my git workflow is much better. As a group we had almost 400 commits on our little shop and made excellent use of waffle. I believe my git workflow score on little shop will reflect this.
+
+Armstrong posse was a big success, though we ended up not investigating TensorFlow as much. Instead, we have been focusing on getting everyone to uderstand the basics of regression, which is used in all machine learning. I have improved my pyton skills some though not as much as I would like.
+
+LGBTuring will be lead by me next mod, and I received positive feedback about the sushi dinner we held.
+
 ### End of Module Assessment
 
 1. Analytic/Algorithmic Thinking
@@ -43,47 +55,37 @@ These were individual projects. They consisted of independed projects (robot wor
 
 #### Robot World
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/JeanJoeris/robot_world)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/crud_sinatra.markdown)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+This was a website building basic CRUD functionality using robots as an example. I also used it as an opportunity to practice my styling skills.
 
 #### Blogger
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/JeanJoeris/blogger_project)
 * [Original Assignment](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+This was a tutorial building a blogging platform.
 
 #### Mix Master
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/JeanJoeris/mix_master)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+This was a tutorial that taught a lot about Ruby on Rails. It involved one-to-many and many-to-many relations, as well as the role of feature testing in web development.
 
 #### Lighting Talk
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/JeanJoeris/Semi-Conductor-Lightning-Talk)
 * [Original Assignment](https://github.com/turingschool/lightning-talks)
 
-(description)
+This was a lightning talk I gave on the physics of semi-conductors
 
-(evaluation comments)
+#### Blog post
 
-(evaluation scores)
+* [Blog URL](https://jeanjoeris.github.io/2016/08/30/try-turing.html)
+
+This was a blog post I wrote as a retrospective on helping out with Try Turing Fort Collins
 
 ## Team
 
@@ -139,7 +141,6 @@ Little Shop of Orders was the final mod 2 project. The goal was to take all of o
 
 (This portfolio was due before the project was assesed)
 
-Feedback received
 Jasmin Hudacsek - 
 During Little Shop, Jean was invaluable asset as a group partner and was very good about helping us stay on topic and on schedule. Even though our whole cohort knows his coding skills and algorithmic knowledge are beyond impressive, he never lets it go to his head and is extremely easy to approach with any question. Outside of Little Shop, I very much enjoyed getting to know Jean even more and continue to be amazed at how awesome of a person he is in general. He’s shown awesome leadership with Armstrong and LGBTuring and I am excited to see what he can accomplish while he’s at Turing and beyond. 
 
