@@ -85,6 +85,31 @@ Repspeak is a project that uses the GovTrack.us API and the Google Maps API. Imp
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
 * [Heroku app URL](http://repspeak.herokuapp.com/)
 
+Assessor:
+
+Notes:
+
+#### Completion
+2: Developer completed most of the user stories and requirements set by the client.
+
+#### Test-Driven Development
+4: Developer used a project management tool and updated their progress in real-time.
+
+####  Test-Driven Development
+4: Project shows exceptional use of testing at different layers (above 95% coverage).
+
+#### Code Quality
+3: Project demonstrates solid code quality and MVC principles.
+
+Product Experience
+
+### User Experience
+3: Project exhibits a production-ready user experience.
+
+### Performance
+4: Project pages load on average under 300 milliseconds.
+
+
 ---
 
 ## __Team Projects__
