@@ -6,10 +6,10 @@ My initial goals for this module were primarily to learn Object Oriented Program
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 4
+* **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
 -----------------------
