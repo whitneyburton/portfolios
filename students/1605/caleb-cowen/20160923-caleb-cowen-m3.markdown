@@ -9,8 +9,8 @@ I want to learn more about Vim, and change posses and get more involved with my 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
