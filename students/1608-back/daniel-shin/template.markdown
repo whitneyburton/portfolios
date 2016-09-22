@@ -302,9 +302,10 @@ Every week I have tried to set up events for my cohorts and students out of my c
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+* Upward trend on individual projects
+* Group projects, overcame issues with first group project, upward trends
+* Reflections on GearUp and professional development
 
 ### Outcome
+PROMOTED
 
-( Leave blanks for reviewers )
