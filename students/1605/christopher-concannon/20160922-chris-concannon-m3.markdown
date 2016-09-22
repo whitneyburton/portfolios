@@ -20,9 +20,9 @@ The purpose of Module 3 is to prepare Turing students for employment. The focus 
 
 ***
 ## Individual Assessment
-***
-assignment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/assessment.md#expectations
-submission repo: https://github.com/concach/module_3_assessment
+
+* assignment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/assessment.md#expectations 
+* submission repo: https://github.com/concach/module_3_assessment
 
 ### Scores
 **1. Ruby Style**
@@ -42,17 +42,47 @@ submission repo: https://github.com/concach/module_3_assessment
 
 ***
 ## Projects
+
+
+### Total Scores
+#### 4: 9
+#### 3/3+: 7     
+#### 2: 1      
+#### 1: 0      
+#### Bonus: 1
+
 ***
 ### Self-Directed Project
-assignment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md
-submission repo: https://github.com/concach/ultra_swagger
+* assignment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md 
+* submission repo: https://github.com/concach/ultra_swagger
 
 #### Scores
+Assessor: Josh
 
+**1. Completion**
+* 3+: Developer completed all the user stories and requirements set by the client.
 
+**2. Organization**
+* 4: Developer used a project management tool and updated their progress in real-time.
+
+#### Technical Quality
+**1. Test-Driven Development**
+* 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+
+**2. Code Quality**
+* 3: Project demonstrates solid code quality and MVC principles.
+
+#### Product Experience
+**1. User Experience**
+* 3+: Project exhibits a production-ready user experience.
+
+**2. Performance**
+* 4: Project pages load on average under 300 milliseconds.
+
+***
 ### Rails Engine
-assignment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md
-submission repo: https://github.com/GSmes/rails_engine
+* assignment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md
+* submission repo: https://github.com/GSmes/rails_engine
 
 #### Scores
 Assessor: Andrew
@@ -74,9 +104,10 @@ Comments: Garrett not present for eval
 **4. Queries**
 * 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
+***
 ### The Pivot
-assignment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md
-submission repo: https://github.com/karinamzalez/the_pivot_1605
+* assignment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md
+* submission repo: https://github.com/karinamzalez/the_pivot_1605
 
 #### Scores
 Assessor: Sally
@@ -115,25 +146,36 @@ Assessor: Josh
 * Did the team push themselves by taking risks?
   * **1: Yes**
 
+***
 ### APIcurious (bonus)
-assigment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md
-submission repo: https://github.com/concach/apicurious
+* assigment: https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md
+* submission repo: https://github.com/concach/apicurious
 
 I used APIcurious as an opportunity to explore several different API's, and I ended up building a project that consumed API's of both Strava and Google Maps. I extracted GPS coordinate data from Strava activities, and plotted those routes on embedded Google maps which were rendered using JavaScript. I was inspired to use Strava for my personal project, though in a completely different manner. 
 
 ***
-## Feedback
-***
+## Community Participation
+
+### Feedback
+
 I participated fully in my two group projects and I gave and received feedback in all of them. This feedback was given and received both in-person and through Sally. My personal takeaways are that I am perceived as distant, but competent. My group members had complete confidence that I would complete something when I took it upon myself, but I opted to work alone more often than pair with others. The times where I was around to pair with team members were appreciated. 
 
 ***
-## Gear-Up Reflections
-***
+
+## Professional Skills
+
+### Gear-Up Reflections
+
 I was not able to attend two of three Gear Up sessions because I was traveling during both of them - once to be a groomsman in my brother's wedding, and once to celebrate my birthday with a 4-day trip over Labor Day weekend. 
 
 I did attend the screening of Code: Debugging the Gender Gap. I thought it was enlightening, but I was dissuaded by the provocative nature of the film. Some of the very dramatic claims about crash-test-dummies (that they don't represent women and children, and therefore lead to more women and children deaths) are actually completely wrong, and easily disproven by 5 minutes of google searching. Regardless, I found the video clips of conference openings and examples of misogyny completely appalling. I'm well aware of the historical shortage of women in STEM, but that inequality has already been eliminated at the undergraduate enrollment level. We as an industry are on the right path to gender equality. 
 
 ***
+
+### Professional Development
+
+I began participating in recruiting events (Denver Startup Week job fair) and I have rebuffed my LinkedIn profile and resume. I have reached out to a handful of personal contacts about networking for job opportunities. I plan to continue my job search and professional presence over the intermission week. 
+
 ## Take-aways
-***
+
 This module, more than any other, was an exercise in time management and focusing on recognizing when my work approach was inefficient or ineffective. There was also a lot of time to think about principles specific to object-oriented programming - for example: telling rather than asking objects about method returns or attributes, single-responsibility in classes, limiting controller actions and instead using services or PORO's to perform tasks. This was also an opportunity to do some more front-end learning with jQuery and AJAX. I feel like I have a solid understanding of Ruby on Rails and I am able to critically view my own work and identify areas for improvement. I also have a much better ability to design a project at the start so that I don't find myself performing massive overhauls later on. I feel that I have performed my work well, both individually and in projects, and that I am ready for module 4. 
