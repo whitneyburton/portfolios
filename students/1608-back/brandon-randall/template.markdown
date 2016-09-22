@@ -118,7 +118,7 @@ Id like to keep trying to portray positivity at all times and would like to even
 * **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 2
 * **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: X
+* **E: Peer & Instructor Feedback**: X 
 
 ### Notes
 
