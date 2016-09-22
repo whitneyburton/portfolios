@@ -20,28 +20,28 @@ Sal and I were able to finish the two questions within the time limit. I receive
 
 Robot world was very helpful for practicing the different steps required to make a CRUD application.
 
-[GitHub URL](https://github.com/bcgoss/robot_world)
+[GitHub URL](https://github.com/bcgoss/robot_world)  
 [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/crud_sinatra.markdown)
 
 ##Blogger
 
 From Blogger, I learned more about active record relationships and migrations. 
 
-[GitHub URL](https://github.com/bcgoss/blogger)
+[GitHub URL](https://github.com/bcgoss/blogger)  
 [Original Assignment](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
 ##Mix Master
 
 Mix Master was a lot of fun to work on. I solidified my understanding of relationships and I also learned about authenticating users with an outside source, Spotify in this case. Setting up Heroku and getting the Spotify API to work together with it was challenging. The API worked locally, but not on the Heroku site.
 
-[GitHub URL](https://github.com/bcgoss/mix_master)
+[GitHub URL](https://github.com/bcgoss/mix_master)  
 [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
 
 ##Rails Mini project - Points Box
 
 I was ill during the Mini-project and I regret that I didn't make more progress. It was a good experience for trying to implemtn Authentication and Authroization. 
 
-[GitHub](https://github.com/bcgoss/points_box)
+[GitHub](https://github.com/bcgoss/points_box)  
 [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
 #Group work
@@ -50,17 +50,17 @@ I was ill during the Mini-project and I regret that I didn't make more progress.
 
 Rush hour was a difficult project. There was a lot to do in the timline. My group worked well for the most part, but there were a challenging points. AT this point I was struggling with active record associations. I am too accustomed to thinking in SQL, but Active Record handles most of that for us. 
 
-[GitHub URL](https://github.com/bcgoss/rush-hour)
-[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
-[Notes from project retro](https://gist.github.com/susiirwin/5c4099e36a9dfec88286a8ea36105269)
+[GitHub URL](https://github.com/bcgoss/rush-hour)  
+[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)  
+[Notes from project retro](https://gist.github.com/susiirwin/5c4099e36a9dfec88286a8ea36105269)  
 [Notes from evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/rush_hour/bryan_susi_nate.md)
 
 ##Little Shop
 
 My favorite project this module. I really enjoyed the project management parts. Getting new cards to work on every few days seems very realistic. My team worked very well together, I look forward to working with Brian and Chase in the future.
 
-[GitHub URL](https://github.com/Cdunagan05/little_shop)
-[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+[GitHub URL](https://github.com/Cdunagan05/little_shop)  
+[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)  
 
 #Professional skills
 
