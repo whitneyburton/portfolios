@@ -290,7 +290,7 @@ Susi, I don't even know where to begin. I have so thoroughly enjoyed meeting you
 
 *Ali Schlereth*
 <br/>
-asdf
+Ali, am really grateful that you are a part of our cohort. You exude a lot of confidence, rationalize your choices well, and always seem to have time to help no matter how much work we have on our plates. I admire the gusto with which you approach problems. I remember a few weeks back during a Friday guest speaker and we were grouped together to work on solving a sample design problem, and you made a comment to me along the lines of "thanks for taking one for the team" in reference to presenting our idea in the microphone because you and Megan didn't really want to. I remember feeling so surprised when you said that because from my perspective, you are so confident and smart. So with that context in mind,  I hope you trust in your gut and know that I really value hearing the things you have to contribute and would never feel like I'm "taking one for the team" when I'm working with you. You have wondering things to offer our cohort and the Turing community.
 
 ### Being a Community Member
 
