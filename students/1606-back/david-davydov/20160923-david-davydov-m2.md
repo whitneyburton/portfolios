@@ -22,6 +22,19 @@ The projects in Module 2 exposed me to the basics of Rails applications. The pat
 
 * This was a small CRUD application that had robots and their auto-generated images. A robot has a name, city, state, avatar, birthdate, date hired, and department.
 
+
+#### Mix Master
+* [GitHub URL](https://github.com/kctrlv/mix_master)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
+
+* This was a tutorial-built application that had multiple resources working together. Concepts that were solidified with this tutorial were database relationships and associations.
+
+#### Rails Mini Project - IdeaBox
+
+* [GitHub URL](https://github.com/kctrlv/ideabox)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+
+
 ## Team
 
 ### Projects
@@ -114,8 +127,7 @@ Rush hour was a 3-person group project. Some key concepts were parsing raw JSON 
 >I was really lucky to have the chance to work with David during Little Shop. He often spots issues that others miss, and he is very insightful. He has a generally calm demeanor which is particularly helpful when coding gets stressful. I particularly appreciate David’s receptiveness to feedback. There was a moment during our project where I felt that I David was questioning me in a way that implied I did not know what I was doing. I brought it up with him and he was incredibly receptive. He did not get defensive, and he went to Starbucks and brought me back a croissant. I really appreciated that, and it made me respect him even more. Ultimately, I had a really great experience pairing with David. I think he just got better and better as a team mate during our project, and I hope I get to work with him again.
 
 * From: Jesse
-> David's Strengths
-David's strengths are wide ranging, impressive, and contributed significantly to my own learning and the completion of our Little Shop project. In fact, at this point I would say that pairing with David has been my most positive paring experience so far at Turing. A few strengths that stood out in particular for me are:
+> David's strengths are wide ranging, impressive, and contributed significantly to my own learning and the completion of our Little Shop project. In fact, at this point I would say that pairing with David has been my most positive paring experience so far at Turing. A few strengths that stood out in particular for me are:
 
 >Commitment, evidenced by his willingness to dedicate long hours throughout the project and in particular on the first Saturday, when he moved apartments and then came directly to Turing to work.
 
