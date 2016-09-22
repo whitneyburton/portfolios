@@ -7,7 +7,7 @@ This module, I would really like to focus on participating more within the Turin
 
 ---
 
-## Rubric Scores
+### Rubric Scores
 
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: 3
@@ -18,6 +18,26 @@ This module, I would really like to focus on participating more within the Turin
 ---
 
 ### A: End of Module Assessment
+
+Feedback from Sal:
+* Nice job talking through both your thoughts, and your process.
+* Good use of save and open page with some prompting.
+* Great instinct to start with using a test on the second story.
+* Little thing, but maybe `touch` the new test instead of using point and click in Atom.
+* Took a little bit of prompting to get data in order for test.
+
+#### 1. Analytic/Algorithmic Thinking
+* 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+#### 2. Ruby Syntax & Standard Library
+* 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+#### 3. Rails Syntax & API
+* 3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
+#### 4. MVC & Rails Style
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+#### 5. Testing
+* 4: Developer writes tests at multiple layers of abstraction to drive development
+#### 6. Collaboration
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ---
 
@@ -142,7 +162,17 @@ __Rush Hour__ was a Sinatra app that utilized ActiveRecord to track web traffic,
 
 ### Giving Feedback
 
-(feedback from me)
+>Feedback to Chase:
+Chase acted as the glue that held our Rush Hour group together when we needed it the most. He is an awesome diplomat that makes sure everyone has their voice heard. I am fortunate to have gotten to work with him this module and value his friendship tremendously. While he definitely has coding chops, he does sometimes become quiet and turn inward when he’s contemplating solutions to issues and it would have made me feel more aware of his feelings if he voiced them out loud during Rush Hour. Besides that, he’s an asset to any team he is on.
+
+>Feedback to Sonia:
+Sonia was an absolute pleasure to work with on Rush Hour. Even though she had worked on the project before, she didn’t let her prior experience steal her other teammates’ learning experience at all. She was very communicative and clearly expressed when she was happy or concerned about our progress. While she sometimes doubts her own skills and internalizes these sentiments to her depriment, her working through this while working on Rush Hour also helped me realize that I am sometimes blind to my communication style and how it could also be improved. I would be lucky to have her as a partner again moving on to Module 3 and 4. Plus, she still keeps those fridges sparkling clean, and EVERYONE continues to benefit from her rockstar-ness.
+
+>Feedback to Rapha:
+I am happy to have gotten the opportunity to work with Rapha this module and get to know him better than I had the chance to in Module 1. Rapha pulled his weight AND THEN SOME in our Little Shop project and I couldn’t be any more impressed with his work ethic. He was always willing to work late and always asking how he could help if I was feeling overwhelmed with my own tasks. He has a very versatile skillset and is a Googling master if he’s not sure how to do something. His sense of humor also helped to keep the group morale high during stressful times, so I’m very thankful for that. I would be fortunate to get the opportunity to partner with Rapha again.
+
+>Feedback to Jean:
+During Little Shop, Jean was invaluable asset as a group partner and was very good about helping us stay on topic and on schedule. Even though our whole cohort knows his coding skills and algorithmic knowledge are beyond impressive, he never lets it go to his head and is extremely easy to approach with any question. Outside of Little Shop, I very much enjoyed getting to know Jean even more and continue to be amazed at how awesome of a person he is in general. He’s shown awesome leadership with Armstrong and LGBTuring and I am excited to see what he can accomplish while he’s at Turing and beyond.
 
 ### Being a Community Member
 
