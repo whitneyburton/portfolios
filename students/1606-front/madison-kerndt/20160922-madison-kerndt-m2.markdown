@@ -26,13 +26,13 @@ This module I was deliberate in my effort to achieve my goals to improve my acad
 
 ##### Evaluation Comments
 
-###### With Brittany:
+##### With Brittany:
 * Room to clean up helper function
 * Clean well broken out code
 * Good collaboration
 * Room to improve on speed & shortcut memorization
 
-##### Evaluation Scores:
+#### Evaluation Scores:
 * Progress: 3
 * JavaScript Style: 4
 * Workflow: 4
@@ -40,17 +40,15 @@ This module I was deliberate in my effort to achieve my goals to improve my acad
 
 ## Work
 
-### Projects
+### Team Projects
 
-### Team
-
-#### Shoot the Breeze
+### Shoot the Breeze
 
 * [GitHub URL](https://github.com/madison-kerndt/shoot-the-breeze)
 * [Final Firebase Deploy](https://shoot-the-breeze-b1ff1.firebaseapp.com)
 * [Original Assignment](http://frontend.turing.io/projects/shoot-the-breeze.html)
 
-##### Description
+#### Description
 
 Assigned: 2016-9-16
 Due: 2016-9-22
@@ -59,7 +57,7 @@ Talk to your friends. Shoot the Breeze. Chill. With a easy, flat designed user i
 
 ##### Evaluation Comments
 
-###### With Steve:
+##### With Steve:
 * UI allow users to type more than 140 characters
 * Clear out items from state
 * make one array that always filters all searched/ chosen & filtered messages
@@ -72,7 +70,7 @@ Future exploration:
 * Look at Treeshaking
 * Substitute for Waffle IO
 
-###### With Jhun:
+##### With Jhun:
 
 * Testing looks great
 * Great use of mocking and stubbing
@@ -95,13 +93,13 @@ Future exploration:
 It was a pleasure to work with Madison on our final project and I believe we worked really well together.  She absolutely killed it on the SASS of the application as well as really understanding the testing and working hard to make sure to test our entire application.  Her only opportunity would be to make sure she took more time navigating and not always driving.  Otherwise again she absolutely killed it and was a huge help all around when it came down to it.  She really is passionate about learning more everyday and pushing herself to make everything perfect.
 
 
-#### Tier Two Gain Application
+### Tier Two Gain Application
 
 * [GitHub URL](https://github.com/sikemausa/Gains)
 * [Original Assignment](http://frontend.turing.io/projects/tier-two.html)
 * [Define the Relationship](https://docs.google.com/document/d/1CvelfiMssYIcmAz6cC41z_n0HQPkk8I7byUfZKT-JUI/pub)
 
-##### Description
+#### Description
 
 Assigned: 2016-9-1
 Due: 2016-9-15
@@ -112,14 +110,14 @@ Written in React, this app responds to users interactions, rendering various com
 
 ##### Evaluation Comments
 
-###### With Louisa:
+##### With Louisa:
 
 * Use highly contrasting text for button colors
 * Create larger distinction between search and goal inputs
 * Make category text lighter
 * Make sure to kebab case class names even in React
 
-###### With Steve:
+##### With Steve:
 
 * Make sure to enter on submit
 * Reuse add form for both goal and action
@@ -149,22 +147,22 @@ Madison, I am so glad we had the opportunity to work together. You are an absolu
 
 Madison was an incredible partner to have. It was extremely valuable for me to pair with Madison, and served as an excellent learning experience to truly cement concepts that I had previously found rather difficult. Her exuberant attitude was always a welcome sight that never failed to cement our group together. She was excellent at planning and progressing the development of our app, and her superlative sass skills really allowed me to get a better understanding of styling. I continually find myself coming (perhaps to her dismay) back to Madison for guidance, and am ultimately thrilled to have her around. She’ll do great things!
 
-#### Tier One Pomodoro Application
+### Tier One Pomodoro Application
 
 * [GitHub URL](https://github.com/madison-kerndt/tier-one-pomodoro)
 * [Original Assignment](http://frontend.turing.io/projects/tier-one.html)
 * [Define the Relationship](https://docs.google.com/document/d/1CvelfiMssYIcmAz6cC41z_n0HQPkk8I7byUfZKT-JUI/pub)
 
-##### Description
+#### Description
 
 Assigned: 2016-8-22
 Due: 2016-8-31
 
 PeaceTime(R) allows you to relax while you focus. Maintaining focus is essential to bring about your best work, but maintaining focus requires deliberate breaks. Keep track of both with PeaceTime. Written in object oriented JavaScript, PeaceTime lets you set your own focus and break times, pause and start your timer, and sets off a sound when your time is coming to an end. PeaceTime has a soft and light feel with an easy to user interface that lightens your mental burden and allows you to use more of your brain power on your task at hand.
 
-##### Evaluation Comments
+#### Evaluation Comments
 
-###### With Bree:
+##### With Bree:
 
 * Always use min width when designing
 * Design for lowest view size 320px
@@ -172,7 +170,7 @@ PeaceTime(R) allows you to relax while you focus. Maintaining focus is essential
 * In SCSS order with positioning first then default to alphabetical
 * Don't use color names for variables
 
-###### With Brenna:
+##### With Brenna:
 
 * Use single file for variables
 * Break up functions into separate, logical files
@@ -195,13 +193,13 @@ PeaceTime(R) allows you to relax while you focus. Maintaining focus is essential
 
 I worked with Madison on our Pomodoro app.  Madison has an excellent work ethic and will not stop until a feature is complete.  She is very focused and driven.  Madison also has some solid design chops and pushes herself to learn new tools and technologies such as P5JS.  She designed the UI for our project which was very clean, polished, and beautiful. My only constructive criticism is that occasionally she gets focused on one way of doing a thing, but even then she will adapt to other ideas when challenged.  I would work with Madison again.
 
-#### A Very Lonely Chat Room
+### A Very Lonely Chat Room
 
 * [GitHub URL](https://github.com/madison-kerndt/chatroom-adventures)
 * [Original Assignment](http://frontend.turing.io/projects/chatroom.html)
 * [Define the Relationship](https://docs.google.com/document/d/1NkkZoVDjVQIc1ykhtucikjkJECt0skRjwWjY3oET1UU/pub)
 
-##### Description
+#### Description
 
 Assigned: 2016-8-15
 Due: 2016-8-22
@@ -210,11 +208,11 @@ A very lonely chatroom is just that. A chatroom with a single contributing user.
 
 ##### Evaluation Comments
 
-###### With Jhun:
+##### With Jhun:
 
 The testing looks good, they are very verbose and complete. There is an opportunity to refactor the function by using partial functions (when mult. functions point to one thing) and to test for edge cases. The Javascript is clear and well thought out. There is room for some refactoring - but overall - good job!
 
-###### With Louisa:
+##### With Louisa:
 
 I like that you guys took and new and different approach to a chat room and I think that that opens up many opportunities to implement new and innovative ideas. There may be some issues with usability mainly in color contrast, and the size/style of the text. The menu is not really necessary and the icons could benefit from adding text to explain their functionality. Lastly, the line length on larger screens may be too long, since this is a mobile first application, it may be best to limit the line length and better differentiate between messages.
 
@@ -276,7 +274,7 @@ Brett, you are awesome! I am so impressed with your humble nature and extreme ta
 * Paired on with back end students to strengthen front end skills
 * Reached out to Kinsey with Kubmo
 
-Future Involvement:
+### Future Involvement:
 
 * Assume posse lead with Bezos posse
 * Help Latina women who code with Kubmo
@@ -287,28 +285,28 @@ Madison helped me kick off mod 1 with a helpful session on CSS and working with 
 
 ### Goals For Module 3
 
-Strengthen Academic Capacity:
+##### Strengthen Academic Capacity:
 
 * Consistently deliver well factored clean project code
 * Work on shortcut memorization in multiple programs
 
-Strategically Increase Community Involvement:
+##### Strategically Increase Community Involvement:
 
 * Build out portfolio website & online presence
 * Lead Bezos posse
 
-Balance:
+##### Balance:
 
 * Take the time workout & get outside
 * Read business and tech related books
 
-Exploration:
+##### Exploration:
 
 * Practice writing in Vue
 * Learn how to write D3
 * Continue using P5
 
-Self Acceptance & Maturity:
+##### Self Acceptance & Maturity:
 
 * Accurately communicate emotions to achieve effective outcomes
 * Channel power to effective avenues for change
