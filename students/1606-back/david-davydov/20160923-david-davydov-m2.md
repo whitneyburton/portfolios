@@ -39,23 +39,6 @@ The projects in Module 2 exposed me to the basics of Rails applications. The pat
 
 ### Projects
 
-#### Professional Skills Reflection
-
-Rush Hour and Little Shop were the most valuable experiences of Module 2 for me for completely different reasons.
-In Rush Hour, I received feedback along the lines of picking my own battles, only questioning the
-decisions of my group when appropriate and being more flexible with regard to the project flow. I incorporated
-that attitude into my Little Shop group and the results couldn't have been better. The workflow of our team
-was smooth throughout the project, and while everyone at Turing is smart and determined, our group
-project leader Jesse professionally demonstrated throughout the project what it takes to be a leader. Having
-been a part of a group that barely got by, and a group that blew the project out of the water, I've learned how
-I best fit into the picture of a programming team. In Mod-1, we were all asked the question: "What do you
-want to get out of Turing?" I remember answering that I wanted to learn how to work better in a team, and these
-two projects have aided my growth in this area more than anything before. I know now to be more calm, focused, and
-trusting of my teammates. Being able to go through other people's code has become easier, and figuring out
-solutions in their code as opposed to just offering my own is a skill I have recently acquired and will seek to
-always improve.
-
-
 #### Rush Hour
 
 * [GitHub URL](https://github.com/kctrlv/rush-hour)
@@ -83,6 +66,44 @@ Rush hour was a 3-person group project. Some key concepts were parsing raw JSON 
 #### View Layer
 * 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
+
+#### Gear Up
+
+I appreciated this module's Gear Up events. Although we are here to learn programming, having a Friday to do other things such as grow as developers and human beings is a welcome feature of Turing. I included a lengthy feedback to the CODE: Debugging the Gender Gap that I will include below:
+
+* I think it’s very positive that people decided to make steps to change a culture because it has not been working for them. The world is everyone’s, and everyone has a right to it. I see everyone at Turing as part of one community. I know some may assume we’re all here ultimately for ourselves (and in the future, our companies) but I think that’s a default mindset we’re taught is normal so we assume we’re just all heading down that path. After these two mods I did gain a little bit of an appreciation of what Turing is trying to do with these classes. I do want to say that continued discussion is not bad when it’s opt-in. The reason a lot of people want to opt-out is because they want to put all of their efforts into studying programming and these discussions only serve to distract from that goal, and I understand that - Turing can get heavy at times - but the efforts at community building is something I'm glad to be a part of.
+
+#### Getting Better At Difficult Things
+
+* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
+
+#### There Is An I In Team
+
+* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
+
+#### CODE:Debugging the Gender Gap
+
+* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+
+
+
+### Professional Development Workshops
+#### Finding Opportunities with Lia
+
+* [Link to Completed Deliverables](https://gist.github.com/kctrlv/3795ceba228f6923fd656fd87fcb761d)
+
+#### Collaborative Communication with Allison
+
+1. Details on project management strategies you used in your projects Rush Hour and/or Little Shop); What went well? What didn’t go well?
+
+  * Rush Hour and Little Shop were the most valuable experiences of Module 2 for me for completely different reasons. In Rush Hour, I received feedback along the lines of picking my own battles, only questioning the decisions of my group when appropriate and being more flexible with regard to the project flow. I incorporated that attitude into my Little Shop group and the results couldn't have been better. The workflow of our team was smooth throughout the project, and while everyone at Turing is smart and determined, our group project leader Jesse professionally demonstrated throughout the project what it takes to be a leader.
+
+2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+  * Having been a part of a group that barely got by, and a group that blew the project out of the water, I've learned howI best fit into the picture of a programming team. In Mod-1, we were all asked the question: "What do you want to get out of Turing?" I remember answering that I wanted to learn how to work better in a team, and these two projects have aided my growth in this area more than anything before. I know now to be more calm, focused, and trusting of my teammates. Being able to go through other people's code has become easier, and figuring out solutions in their code as opposed to just offering my own is a skill I have recently acquired and will seek to always improve.
+
+#### Networking with Lia
+
+Networking with my classmates took all the fear out of potentially networking in real life. We had three sessions of 5-minute pairings where we would talk about ourselves and answer questions, before switching the focus on the our partner. By the end of the session, I had improved my delivery but was so excited that I learned a good bit of critical feedback from one of my partners - that my eye contact could use improvement. This was a strong session, and I would love to see more of these kinds of classes in the future.
 
 ## Community
 
