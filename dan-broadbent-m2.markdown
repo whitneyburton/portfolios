@@ -22,27 +22,27 @@ Evaluator: Casey
 
 1. Analytic/Algorithmic Thinking
 
-4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+*4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
 
 2. Ruby Syntax & Standard Library
 
-3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+*3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
 
 3. Rails Syntax & API
 
-3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
+*3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
 
 4. MVC & Rails Style
 
-3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+*3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
 
 5. Testing
 
-3: Developer writes tests at multiple layers of abstraction to drive development with guidance
+*3: Developer writes tests at multiple layers of abstraction to drive development with guidance
 
 6. Collaboration
 
-3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
+*3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
 
 Notes: Work on collaboration, I do a lot of processing in my head, so be sure to talk through what I'm doing out loud.
 
