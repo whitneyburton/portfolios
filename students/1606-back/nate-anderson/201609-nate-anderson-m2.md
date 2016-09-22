@@ -34,7 +34,24 @@ Collaboration
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+* Nice way to break out percent calculation. May have gone just *slightly* overboard in terms of the number of different methods included.
+* Like that you talked through what data needed to be created for the first test.
+* Needed some prompting to get the proper data for the test.
+* Got stuck implementing the second task.
+* Be sure to use your tests/errors to drive your development. Don't get stuck in your head. Use the tools you have to get more information about why your app isn't behaving as you would expect (pry/byebug/save_and_open_page)
+### 1. Analytic/Algorithmic Thinking
+* 2: Developer can execute an algorithm or plan when steps are provided
+### 2. Ruby Syntax & Standard Library
+* 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+### 3. Rails Syntax & API
+* 3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
+### 4. MVC & Rails Style
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+### 5. Testing
+* 2: Developer struggles to use tests to drive development
+### 6. Collaboration
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
+
 
 ### Work
 
@@ -124,6 +141,10 @@ Little Shop was a project that brought together all the concepts we learned this
 ## Feedback to me
 
 From Ben Pepper: It was a pleasure to work with Nate during the Little Shop project. Nate’s persistence in getting any problem completed was inspiring. He was always willing to take up any task that needed to be handle and alway had either a question to further the project or insight that helped us overcome a problem. There is only one thing I would recommend. The only thing both Nate and I agreed on was styling sucks. This is the one area I would say we both need to work on. the Rails side is relatively easy but style had us both confused and it would be worth it to take some time to learn boot strap.
+
+From Calaway: Nate has been a great asset to our group on our Little Shop project. His communication has been excellent, which was apparent from the initial DTR. He has a good gauge of his own abilities and knows where he can have the most impact on getting the project done and helping the rest of us understand it. His knowledge of the material is very evident when working with him and his ability to learn new concepts quickly and apply them immediately is impressive. I would consider myself lucky to pair with him on any other projects in the future.
+
+From Brendan Dillon:  I worked with Nate on our Little Shop project. Nate is skilled at being able to solve problems with really clean, efficient code. It is very apparent when working with Nate or looking at code that he has written that he puts a lot of thought into the design and structure of the code. He also is great at putting his head down and getting a lot done in a short amount of time. The only thing for Nate to work on is figuring out what questions to ask when somebody else is going through their work.
 
 ## Technical Involvement
 
