@@ -175,6 +175,9 @@ Kirsten it was great working with you on this project.  It was super helpful to 
 #####Feedback to Kyle on Tier-2:
  Kyle it was good working with you on our project.  It was interesting to work on a project with 3 people for the first time and I thought we all worked well together.  I thought it worked out well that if one of us was missing the other two were able to keep working.  Also I thought we had a good mix of pairing when needed and divide & conquer when we could as well.  Overall this was one of the best apps I’ve put out in any group.  For actionable feedback for you I’d say maybe a little less pessimism?  Sometimes even if something doesn’t seem like it’ll work out, it’s still worth doing as it leads to the right answer.  Good working with you and I look forward to working on future projects together!
 
+#####Feedback to Casey on Final Project:
+Casey, it was really good working with you on this project.  I thought we did an excellent job of dividing and conquering and as a result I feel like we both learned a ton about react and react testing.  I’ve not divided/conquered a project before the way we did but it worked out well and seemed to be really efficient.  I don’t really have any actionable feedback because I thought we worked well together, our project came together really well and we didn’t have any issues really.  Look forward to working with you on future projects!
+
 ### Being a Community Member
 
 #####Feedback from Nick Chambers:
