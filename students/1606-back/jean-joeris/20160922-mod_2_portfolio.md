@@ -162,8 +162,9 @@ beyond admiration. I feel that Jean has a lot teacher's like skills and I have a
   4. 18f- Greg Boone
   5. alteryx - Jay Bourland
   6. Purch - Ellie Morris
+  7. ThinkTank - Kathreen Batayon
   8. Red Canary - Chris Rothe  
-  9. Not sure of the shop's name, but somebody who hangs out at the barn my wife spend's time at works at a Rails shop. I need to wait til the next bonfire at the barn to network with him
+  9. Not sure of the shop's name, but somebody who hangs out at the barn my wife spend's time at works at a Rails shop. I need to wait til the next bonfire at the barn to network with him. I know this is a bit vague but I thought it better to be honest about an opportunity I am pursuing than use a random company and name.
   10. SpotX - Laura Knutson
   
 * Regarding Lia's networking class:
