@@ -207,7 +207,18 @@ Ali has been an incredibly supportive teammate and companion for me throughout a
 Ali, am really grateful that you are a part of our cohort. You exude a lot of confidence, rationalize your choices well, and always seem to have time to help , no matter how much work we have on our plates. I admire the gusto with which you approach problems. I remember a few weeks back during a Friday guest speaker and we were grouped together to work on solving a design problem, and you made a comment to me along the lines of "thanks for taking one for the team" in reference to presenting our idea in the microphone because you and Megan didn't really want to. I remember feeling so surprised when you said that because from my perspective, you are so confident and smart. So with that context in mind,  I hope you trust in your gut and know that I really value hearing the things you have to contribute and would never feel like I'm "taking one for the team" when I'm working with you. You have wondering things to offer our cohort and the Turing community.  
 
 ###### Feedback from Joey:   
-Ali, it's been great collaborating with you this module. You've become a go to person for me when I have a question about code or just in general. If you can't answer "what are we supposed to be doing?" I assume that no one can. So thanks for being there. Your positive attitude is always a refreshing break from work.  
+Ali, it's been great collaborating with you this module. You've become a go to person for me when I have a question about code or just in general. If you can't answer "what are we supposed to be doing?" I assume that no one can. So thanks for being there. Your positive attitude is always a refreshing break from work.    
+
+###### Feedback from Brandon:
+Ali is a great programmer to be around. She presents the type of 
+attitude that makes people around her want to get better by always displaying 
+relentlessness in solving problems on her own while maintining a positive demenor 
+under pressure. As an inferior coder compared to her, I'd always feel comfortable
+asking her for help because she would go out of her way to help
+me while she had deadlines of her own and would take additional time to reiterate
+what we had just went over to make sure I understood what was going on. These 
+qualities in Ali not only showed me where I needed to improve, but also inspired 
+me to be able to help the next student in the same way.
 
 ### Playing a Part
 ###### Posses
