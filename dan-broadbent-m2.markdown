@@ -53,8 +53,8 @@ The individual work this module mainly consisted of working through different tu
 
 #### Rails Mini-Project
 
-* [https://github.com/danbroadbent/idea_box](Idea Box)
-* [https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown](Rails Mini-Project)
+* [Idea Box GitHub](https://github.com/danbroadbent/idea_box)
+* [Rails Mini-Project Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
 Idea Box is an app to record your ideas.  It allows users to create ideas and save them with a description to different categories.  This project was not formally evaluated, but the learning goals included test driven development of a rails app with feature tests, setting up CRUD functionality, using 1-to-1 and 1-to-many database realationships, using RESTful routes, and implementing authentication of users.
 
