@@ -395,9 +395,9 @@ helping and giving nature of the community here.
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+* Great community involvement
+* Upward trajectory, comfort with fundamentals improving
+* Looking for continued leadership next module
 
 ### Outcome
-
-( Leave blanks for reviewers )
+REPEAT
