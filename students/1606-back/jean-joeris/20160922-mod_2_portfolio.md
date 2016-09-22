@@ -155,15 +155,16 @@ beyond admiration. I feel that Jean has a lot teacher's like skills and I have a
   * One piece of feedback I have gotten is that when I get excited I can lose some of my mindful communication. I have responded to this by trying to seek feedback from others more often, and my telling people that I might do this. It is not their responsibilty to police my behavior, but by telling them I hope to make it more comfortable if they do call me out. It has been humbling to remember how my valuing of mindful communication does not translate into 100% applicaton of this value.
 
 * List of 10 companies with one person you could connect with at each 
+* 
   1. AlchemyAPI- Eliot Turner
   2. Auger - Josh
   3. Aetna - Todd Aron
   4. 18f- Greg Boone
   5. alteryx - Jay Bourland
   6. Purch - Ellie Morris
-  8. Red Canary Chris Rothe  
+  8. Red Canary - Chris Rothe  
   9. Not sure of the shop's name, but somebody who hangs out at the barn my wife spend's time at works at a Rails shop. I need to wait til the next bonfire at the barn to network with him
-  10. 
+  10. SpotX - Laura Knutson
   
 * Regarding Lia's networking class:
   * This was an extremely helpful class! As an introvert, it was so useful to have somebody a) explicitly acknowledge the difficulty I face in networking and b) give me concrete ways to overcome this difficulty. I was able to turn around and apply this at the Denver Startup Week job fair. Thanks to Lia I was able to make multiple connections.
