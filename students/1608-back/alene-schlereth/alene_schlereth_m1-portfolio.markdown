@@ -19,12 +19,12 @@ impact the educational technology sector and have fun doing it!
 
 ## A: End of Module Assessment
 
-4: Developer is able to write Ruby with a minimum of reference or debugging
-3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
-4: Developer excels at taking small steps and using the tests for both design and verification
-3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
-3: Application demonstrates comfortable use of appropriate Enumerable methods
+4: Developer is able to write Ruby with a minimum of reference or debugging  
+3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options  
+4: Developer excels at taking small steps and using the tests for both design and verification  
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts  
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck  
+3: Application demonstrates comfortable use of appropriate Enumerable methods  
 
 ## B: Individual Work & Projects
 
