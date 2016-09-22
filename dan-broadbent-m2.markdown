@@ -17,7 +17,6 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
 Evaluated by: Casey
 
 1. Analytic/Algorithmic Thinking
@@ -44,7 +43,7 @@ Evaluated by: Casey
 
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
 
-Notes: Work on collaboration, I do a lot of processing in my head, so be sure to talk through what I'm doing out loud.
+Notes: Work on collaboration, I do a lot of processing in my head, so be sure to talk through what I'm doing out loud.  Make sure I'm breaking things out as much as I can and I'm driving every feature with a test.
 
 
 ## B: Individual Work & Projects
@@ -101,14 +100,15 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 
 * 3: Good use of branches, pull requests, and a project-management tool.
 
-(evaluation comments)
+Evaluation Comments: 
+* One of our views had too much logic, don't query the database in the view.   
 
 #### Little Shop
 
 * [GitHub URL](https://github.com/rdavid1099/little-shop)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-Little Shop was an ecommerce site built with Ruby on Rails.
+Little Shop was an ecommerce site built with Ruby on Rails.  In addition to practicing Rails, we got to learn and practice a lot of group colloboration tools.  The project spec was given to us piece by piece in the form of user stories on waffle.io.  We also used git workflow with Hound integrated for styling.
 
 (evaluation comments)
 
@@ -148,7 +148,7 @@ This was a very eye-opening session.  The idea that many jobs in the tech world 
 
 #### Networking with Lia
 
-This session offered a lot of great strageies to be successful at networking and not see it as a chore.  
+This session offered a lot of great strageies to be successful at networking and not see it as a chore.  My main takeaway was that I need to be able to easily and succinctly tell my story.  I can do that easily as long as I can answer these three questons: Who am I?,  How did I get here?, and What's next?
 
 #### Collaborative Communication with Allison
 
