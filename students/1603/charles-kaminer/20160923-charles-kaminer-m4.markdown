@@ -130,8 +130,16 @@ Throughout my team at Turing I have tried to increase my role within the communi
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
