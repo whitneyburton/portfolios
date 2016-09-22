@@ -138,11 +138,21 @@ Since we had a couple of serious group projects this module, it was very helpful
 
 ### Giving Feedback
 
-(feedback from me)
+Raphael - I was happy to have you as a partner on the Rush Hour project.  You brought a great energy to our group, and made it easy to stay and get work done when we were all on a roll.  You obviously have great technical skills, but beyond that your positive attitude helped us all tackle difficult challenges with relative ease because we were all on the same page and having fun working together.  This group worked very well together and your openness and communication was a big part of that.  Can’t wait to work with you again.
+
+Brendan - I really enjoyed working with you on the Rush Hour project.  I felt you did a great job as project manager.  You allowed everyone to make their point about the direction the project should go, and made the best decision even when it wasn’t your own.  Your knowledge of what was going on in the project as a whole was impressive and allowed us to really make big breakthroughs quickly as a group.  The whole group had really great communication and we were able to address issues as the came up and keep things moving smoothly.  You were a great asset to the team and I hope I get to work with you again.
+
+Matt - It was great getting to work with you on the Little Shop project and getting to know you better.  You are calm and collected and did a great job letting things go smoothly but also making your point known when there was a disagreement about where the direction should go.  You had a great understanding of the project and definitely taught us a few things about CSS.  You’re an awesome coder and easy to work with.  I’d be happy to have you in my group again.
+
+Ryan - You were awesome to work with on the Little Shop project.  Your enthusiasm, energy, and creativity made what could have been potentially uninteresting project a lot of fun.  You did a great job listening to group input and keeping the group moving in the right direction.  There was also a specific instance where I felt that you could tell I didn’t quite understand the name-spacing technique we were using and you made sure I got the practice I needed to understand it.  You have a great ability to understand what is going on in the Rails app all at once, and are a great asset to the team.  I’m looking forward to working with you again, hopefully on something a little less structured.
 
 ### Being a Community Member
 
-(feedback to me)
+From Ryan - Dan, I am so glad we were placed in the same group for LittleShop.  Working on No Refunds has been one of the most enjoyable projects yet.  I know I've told you this in person, but your calm, easy-going personality is such a great balance for groups.  Specifically, I have learned a lot working with you.  As you know, I have a tendency to get a bit wound up when I get excited, you are really good at keeping the group's emotions down and, in turn, calm me down.  The one bit of advice I could give you though, is being calm can be a double-edged sword.  There were moments when I would ask how you were feeling about some of the code we were writing, and I think it would be beneficial if you spoke up a little more and expressed your opinions.  Overall though, you are a fantastic group member to work with and solid coder.  I'm glad we were able to get this website off the ground.  It's one of the first projects I am honestly proud to put my name on.
+
+From Raphael - I paired with Dan during our Rush Hour Project. I absolutely enjoyed working with him, from challenging ideas, to bringing the group back to focus and making sure we wouldn't fall in unnecessary rabbit holes, Dan was such a joy to partner with, and I would be more than happy to work with him in the future. I feel like our group had an amazing rapport and worked together very well. My respect and admiration for Dan's ideas, and approach to problems has grown tremendously, and for that I can only say thank you. Amazing teamwork. Raphael Barbo 
+
+From Matt - I really enjoyed working with Dan on our final group project for Module 2.  His experience working with others shows right away.  He is a natural at focusing on what needs to be done and keeping on track in agile development.  I can see from his work style that he has led many teams and knows how to work well with any team member.  I respected Dan’s ability to think outside the box and recommend creative ideas for the project that would make it better.  He is dedicated to becoming a great programmer and his previous business and technical experience make him an asset to any team.
 
 ### Playing a Part
 
