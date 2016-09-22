@@ -104,6 +104,7 @@ This section contains the only assessed work from the module, both group project
 
 * [https://github.com/bheim6/rush-hour-skeleton]
 * [https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md]
+* [DTR](https://gist.github.com/bheim6/77c8d48123493e9c8aebd887d8afaf3d)
 
 __Project__ description:
 
