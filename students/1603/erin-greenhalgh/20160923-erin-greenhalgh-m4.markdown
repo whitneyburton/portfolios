@@ -4,7 +4,7 @@
 
 My goals this module shifted somewhat from my goals in the previous mods. During the first half of the mod, I focused on learning JavaScript and trying to dive into the front-end world, which was a bit of a paradigm shift for me. During the second half of the module I shifted my focus to the job hunt. It was important to me to leave Turing with some job momentum. Denver Startup Week was a fantastic opportunity to make some contacts, and I scheduled several coffee meetings and interviews with people that I met there.
 
-At the end of mod 4, in many ways I feel that now my real work begins. I know that the next year will be difficult, transitioning into a new career and honing the skills we have learned at Turing. However I am excited to go into the wild world of development as a member of the Turing community, a group of people who are tenacious and hungry to learn and ambitious and caring and of whom I am glad to be a part. 
+At the end of mod 4, in many ways I feel that now my real work begins. I know that the next year will be difficult, transitioning into a new career and honing the skills we have learned at Turing. However I am excited to go into the wild world of development as a member of the Turing community, a group of people who are tenacious and hungry to learn and ambitious and caring and of whom I am glad to be a part.
 
 ## Rubric Scores
 
@@ -39,7 +39,7 @@ I had one minor bug that Meeka helped me fix in the eval. I could work on breaki
 
 * **Week 1:** In week 1 my time was split between doing research on the feature toggle issue for LookingFor and for doing some Mod 5 prework, i.e. ironing out my resume, planning for Denver Startup Week, meeting with my mentor, and scheduling coffee meetings with contacts at companies I am interested in.
 
-* **Week 2:** In week two I primarily focused on Denver Startup Week. I went to several sessions, including a session given by employees at Craftsy about how they restructured their app to have JS logic shared by their web app, iOS app, and Android app, utilizing React and a session given by an employee at Gusto about how they restructured their app from using Rails and jQuery to using React and Webpack. It was really interesting to see these two companies each reiterating the need to have DRYer, more maintainable apps and talking about how React was a key tool in this endeavor. During DSW I also went to several networking events, and I have sent emails to handful of people I met to have coffee and talk more about their work. So far from Denver Startup Week I have had first-round interviews with two companies with second-round interviews scheduled. I also have plans for another coffee meeting and a code challenge for two other companies. 
+* **Week 2:** In week two I primarily focused on Denver Startup Week. I went to several sessions, including a session given by employees at Craftsy about how they restructured their app to have JS logic shared by their web app, iOS app, and Android app, utilizing React and a session given by an employee at Gusto about how they restructured their app from using Rails and jQuery to using React and Webpack. It was really interesting to see these two companies each reiterating the need to have DRYer, more maintainable apps and talking about how React was a key tool in this endeavor. During DSW I also went to several networking events, and I have sent emails to handful of people I met to have coffee and talk more about their work. So far from Denver Startup Week I have had first-round interviews with two companies with second-round interviews scheduled. I also have plans for another coffee meeting and a code challenge for two other companies.
 
 ####Evaluation Comments:
 Thanks for your feedback and for summarizing/wrapping things up well and being very involved with your team even when pivoting to focus on Start Up Week!
@@ -109,8 +109,14 @@ This mod I continued to be a posse leader for Armstrong Posse. I worked with Jea
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
