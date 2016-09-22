@@ -180,7 +180,7 @@ I really had a wonderful time working with you on the project. I think we both c
 Student achieved a "3" or better on each category of the assessment.  
 * **B: Individual Work & Projects**: 3  
 Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.  
-* **C: Group Work & Projects**: 3  
+* **C: Group Work & Projects**: 2.5-3  
 Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.  
 * **D: Community Participation**: 3  
 Student participates in required activities and does at least one or two above-and-beyond supports of the community. (Mostly active in slack channels.)
@@ -193,4 +193,4 @@ Student participates in required activities and does at least one or two above-a
 
 ### Outcome
 
-PASS
+( Leave blanks for reviewers )
