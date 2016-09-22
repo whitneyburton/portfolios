@@ -220,8 +220,37 @@ Students: Caleb - Trent
 
   Build a client-side library for an easy and straightforward consumption of the FH API, write documentation explaining how to use the library and build an example project that uses the library.
 
+## Project Rubric
+
+Assessor:
+
+Notes:
+
+**1. Completion**
+
+* 3: Developer completed all the user stories and requirements set by the client.
+
+**2. Organization**
+
+* 4: Developer used a project management tool and updated their progress in real-time.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+
+**2. Code Quality**
+
+* 4: Project demonstrates exceptionally well factored code.
 
 ### Feedback to me
+
+From David:
+You brought so much enthusiasm and energy into this project.  You did a great job using that energy to propel the group forward to perfect the Ruby Gem.  You especially did a solid job with testing, by learning how to stub calls and how to test in Python.  When we started, you were especially pumped about learning Python, so it was a little disappointing to see you get derailed when we started the Python project and you realized it was a whole different beast than the Ruby Gem.  My constructive feedback would be to find ways to stay engaged sooner when you find something completely foreign, since it seemed to take you a couple days to get your momentum going again.  Overall, you brought a ton of excitement into the group, really helped drive our progress, and made this project a lot of fun.
+
+From Zack:
+It was great to finally get to work with you on a project. I feel like we have built a solid rapport with each other over the mods, so working with you was easy. You were driven and ambitious, and it was definitely infectious. Your good-natured attitude seems to know no bounds. Even when you get frustrated, you don't take it out on others. That's a valuable skill! It seemed like once we got to the Python though, you lost a bit of interest. I know you have a thirst for knowledge, and your persistence at crushing code is admirable. Keep that persistence, man! I know you've got it in you to learn Python and many more languages. I can't think of anything else you need to improve on heavily, you seem to know what you need to improve on and seek it out. It was a pleasure creating a gem (!!!) with you!
 
 ## D: Professional Skills
 (Intro)
@@ -274,6 +303,12 @@ I liked working with you and thought you really came into your own on this proje
 
 For Lin:
 I really enjoyed having you on this project. You had some great insights and your styling skills are awesome. Try to be more involved in the implementation of code. You have great input!
+
+For David:
+You were totally dedicated and probably the hardest working out of all of us on this project. Your work ethic was an inspiration to try harder even when I was having trouble with the code.
+
+For Zack:
+It was a blast working with you on this project. I could really see your enthusiasm and passion for what we were doing, and it was totally contagious. The only advice I might have is try not to get in your head when dealing with a problem. You’ve got all the skills necessary and more for the task at hand
 
 ### Playing a Part
 
