@@ -307,8 +307,17 @@ I think the place I can make the most progress is in preparation. I've learned t
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
+
+* Got into a rythm after API curious - finished strong 
+* Hopper posse lead
+* Testing was questionable - shows cuttign corners maybe - really work on depth of knowledge
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
