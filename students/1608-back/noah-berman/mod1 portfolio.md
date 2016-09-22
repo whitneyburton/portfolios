@@ -132,9 +132,20 @@ were at relatively the same level of technical skill, which was both really grea
 Still, while we were unable to finish iteration 5, we learned an enormous amount in the debugging process, and if nothing else produced a project that runs quickly (if not necessarily efficiently). 
 It was (and I hope you can hear the meaningful glance and the weight of these words) a learning experience.
 
-Comments:
+Notes:
+* 68 runs, 83 assertions, all tests pass, 95.8% coverage
+* I5 partially complete.
+* Good that tested sad path in testing
+* Used a module to pull out a number of shared methods A+++
+* Good use of constants throughout project
 
 Scores:
+* Functional Expectations: 2
+* TDD: 3
+* Encapsulation: 3
+* Ruby Style: 2
+* Enumberables: 3
+* Code Sanitation: 4
 
 Feedback: From Anna Dolan -- "Noah was my partner on our final paired project this module. He is very intelligent and a hard worker, and was consistently willing to put in the time and effort we needed to move forward on the project. We sometimes had difficulty working as a pair since we are at very similar levels with our code, and would grind our gears without actually getting anywhere. However, Noah was very open to ideas and willing to work in new directions when necessary, and cared about the outcome of the project rather than being driven by his ego. Even though Headcount was a very difficult project, we got along well and had fun working on the project."
 
