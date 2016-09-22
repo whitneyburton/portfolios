@@ -1,5 +1,4 @@
 # Jean Joeris - M2 Portfolio
-## Individual
 
 ### Areas of Emphasis
 
