@@ -1,4 +1,4 @@
-# Ben Godfrey - M1 Portfolio
+# Ben Godfrey - M2 Portfolio
 
 
 ### Areas of Emphasis
