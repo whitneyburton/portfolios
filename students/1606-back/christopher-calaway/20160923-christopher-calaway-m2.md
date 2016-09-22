@@ -32,6 +32,25 @@ I have also succeeded in the personal goals I set for myself this module: 1) to 
 * __Collaboration: 3__
  * Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
 
+
+ #### Middle of Module Assessment
+
+* __Conceptual Understanding: 4__
+ * Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
+* __Analytic/Algorithmic Thinking: 3__
+ * eveloper breaks complex problems into small, digestible steps and executes them with little assistance
+* __Feature Completeness: 2__
+ * Developer is missing one piece of functionality
+* __Rails Syntax & API: 3__
+ * Developer is able to utilize Rails methods and structures, but needs some direct guidance
+* __Rails Style: 3.5__
+ * Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs 3.5: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+* __Testing: 3__
+ * Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
+* __Collaboration: 3__
+ * Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+
 ---
 
 ## B: Individual Work & Projects
