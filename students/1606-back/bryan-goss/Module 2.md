@@ -4,11 +4,11 @@
 
 Unlike mod 1, I haven't used most of the tools that we encountered in mod 2. My area of emphasis has been to maintain a healthy balance between learning web development with Sinatra and Rails, along with picking up some machine learning from my time with Amrstrong posse. 
 
-End of Mod assessment: 3
-Individual work: 3
-Grop Work: 3
-Professional Skills 3
-Feedback and Community Participation: 4
+End of Mod assessment: 3  
+Individual work: 3  
+Grop Work: 3  
+Professional Skills: 3  
+Feedback and Community Participation: 4  
 
 ##End of Module Assessment.
 
