@@ -158,7 +158,16 @@ This project was an amazing experience for me. In a group of 4, I was able to pa
 #### Feedback from Group Members
 From **Sonia Gupta**: "Susi was such an incredibly supportive team mate. Her optimism and drive made it an absolute blast to work with her. She was willing to push through the difficult parts of the project while maintaining composure. I was most impressed with Susi’s supportive attitude when pairing. I have often been second-guessed and limited by partners who don’t trust that I am capable of coding. Susi never made me feel that way. She was open and willing to try things with me, and was patient even when I failed. I also learned a good bit of CSS from her and look forward to learning more! One thing Susi might work on is decompressing a bit when tricky bugs pop up. We had a moment on the last day of the project where our logout functionality was not working. Susi seemed to be quite distressed, but she pushed through and helped us to find a solution. I would encourage Susi to remember that she is absolutely capable of moving through these difficulties the next time a bug pops up so that she can retain her optimism even during the rough patches. I think we could both probably stand to remember that about ourselves!"
 
-From **Jesse Spevack**: ""
+From **Jesse Spevack**:
+###### Strengths
+"Susi's strengths are wide ranging, impressive, and contributed significantly to my own learning and the completion of our Little Shop project. A few that stood out in particular for me are:
+* Positive mindset in the face of uncertainty and or challenge. Throughout the project, Susi was a wellspring of positivity.
+* Emotional intelligence evidenced by her ability to read other's feelings and show empathy and compassion.
+* Humor, which makes pairing with her a pleasure."
+
+"On the technical side, Susi is highly proficient with html, css, and Bootstrap. She single handedly implemented a controller refactor that employed our project's only module. She also paired on multiple difficult challenges including order creation, photo upload, review editing, and authentication."
+###### Area of growth
+"In terms of an area of growth, I would challenge Susi to continue to push herself to drive during pairing sessions and aggressively seek opportunities to solo implementation."
 
 From **David Davydov**: "Susi is a very talented programmer and human being. She is funny, kind, and always knows the right thing to say. Having her in our group was a breath of fresh air, and whether we were reviewing code with the rest of our group, or pairing, working with Susi was always pleasant. Susi has a knack for caring about people. She would always be genuinely interested in how I was doing, and I always appreciated her kindness and willingness to make sure I was alright. From the get-go, Susi was determined to have a strong impact on the project. On day one, she committed to doing the site’s wireframes and had them ready the next day. Every day Susi made herself available during the day, evening, and even some nights for screenhero pairing. Susie’s commitment to the team, her never-slowing performance, and her compassion make her a fun and energetic teammate to work with."
 
