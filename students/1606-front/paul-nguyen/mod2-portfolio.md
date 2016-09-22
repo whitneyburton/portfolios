@@ -323,13 +323,11 @@ Tools: React, firebase, testing with enzyme and more
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
-* **D: Community Participation**: 2.5
+* **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
-
-( Leave blanks for reviewers )
+Focus on fundamentals during intermission.
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
