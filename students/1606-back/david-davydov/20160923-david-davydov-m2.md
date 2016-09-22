@@ -148,7 +148,8 @@ Networking with my classmates took all the fear out of potentially networking in
 
 * From: Jesse
 
-#### David's Strenghts
+David's Strenghts
+
 David's strengths are wide ranging, impressive, and contributed significantly to my own learning and the completion of our Little Shop project. In fact, at this point I would say that pairing with David has been my most positive paring experience so far at Turing. A few strengths that stood out in particular for me are:
 
 * Commitment, evidenced by his willingness to dedicate long hours throughout the project and in particular on the first Saturday, when he moved apartments and then came directly to Turing to work.
@@ -165,7 +166,8 @@ On the technical side, David also has a considerable skill set including
 
 * Feature driven development. David is very comfortable beginning with a user story (either given or created), creating a feature test, and then implementing a solution.
 
-#### Area of growth
+Area of growth
+
 * In terms of an area of growth, I would challenge David to not settle for good-enough code because he has the technical chops to always produce products and solutions of the highest quality.
 
 ### Playing a Part
