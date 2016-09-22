@@ -30,7 +30,7 @@ Given the large number of points, I chose not to itemize each accomplishment on 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
+* **D: Professional Skills**: 4
 * **E: Feedback & Community Participation**: 3
 
 -----------------------
@@ -246,6 +246,7 @@ This was a really interesting session for me. Before watching the film, we were 
 * [LinkedIn](https://www.linkedin.com/in/erin-pintozzi)
 * [Github](https://github.com/epintozzi)
 * [Twitter](https://twitter.com/ErinPintozzi)
+* [Resume (in progress)](https://www.canva.com/design/DAB_d3P5AdU/5Ct0WUFqxpChfCOr6ZX2dg/view?)
 
 ##### Takeaways from Session
 My takeaways from this session are that it's not too early to start thinking about resumes and our web presence. How and where we present ourselves could have a big effect of how easily we finds jobs and how many become actual opportunities for us. It's also important to recognize the limitations we have as well, for example, we are not training to become engineers, and it would be disingenuous to represent ourselves as such. Though I already had Twitter, LinkedIn, and Github profiles, it is important that I make sure all the information is sufficiently updated and representative of how I'd like to be perceived among my peers and potential future employers.
