@@ -314,8 +314,15 @@ These were somewhat helpful, especially the session we had with Jim yesterday. M
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 3
