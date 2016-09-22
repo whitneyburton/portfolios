@@ -9,11 +9,11 @@ This module, I would really like to focus on participating more within the Turin
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: X
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 4
-* **E: Feedback & Community Participation**: X
+* **E: Feedback & Community Participation**: 3
 
 ---
 
@@ -111,7 +111,7 @@ __Little Shop__ is an e-commerce site that sells grocery items and recommends it
 
 (Eval notes would go here)
 
->Feedback From Raphael
+>Feedback From Raphael:
 I paired with Jasmin during our Little Shop Project (also know as GoodGrocers). Her leadership as the project manager, and her skills when it came down to coding and styling the website page goes beyond what I could possibly put into words. At the moment, the only constructive feedback I can give Jasmin, is to delegate more some of the responsibilities, towards the end of the project I felt that she took on a lot, and maybe it was something that we could have shared as a group (again, easy said than done since we all had something going on). It was honestly a great pleasure working with her and I have a lot of admiration and respect for her organization.
 
 ---
@@ -130,9 +130,10 @@ I paired with Jasmin during our Little Shop Project (also know as GoodGrocers). 
 ---
 
 ### Gear Up
-#### Getting Better At Difficult Things
 
 This module's Gear Ups were honestly the best ones I've been a part of so far at Turing. You can really tell how much care and work Beth puts into each session, and I felt the discussion at every one was very productive and informative. I especially appreciated the showing of CODE and how the men of Turing who attended showed their honest concern in learning how to become better allies and show support. It just goes to show how strong the community at Turing as a whole is and I couldn't be more proud of being a part of.
+
+#### Getting Better At Difficult Things
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
