@@ -138,9 +138,9 @@ I really enjoyed being a part of the Imposters group and the Hopper posse.
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+* Dip in individual project scores toward the end. 
+* Pair projects, continue to work on interpersonal strategies for dealing with conflict 
+* Some concerns with Event Reporter and Headcount responses. Due Wednesday at 9:00 AM. 
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PROVISIONAL PASS (contingent on finishing Headcount)
