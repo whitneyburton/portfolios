@@ -135,7 +135,6 @@ Networking with my classmates took all the fear out of potentially networking in
 ### Being a Community Member
 
 * From: Calaway, Project: Rush Hour
-
 >David, it was awesome working with you on Rush Hour. Your ability to give good structure to your code is something I was able to learn from and improve in my own projects. Your intelligence and problem solving abilities are incredibly impressive and our team benefitted greatly from it. I do have two small points of actionable constructive criticism, and they tie in to one another. The first is to be more flexible when appropriate, and the second is to pick your battles. I think it is always best that everybody clearly voices their opinion on how to go about an particular problem. Then if there is some disagreement, have an expectation of using your proposed method some portion of the time, and then using an opposing method some other portion of the time. When I saw you being more flexible and concede certain points, then in a later situation when you would 'pick your battle' and stand up for an opposing idea it became much easier to listen to your point very closely and want to agree to go down that path together. I don't think that you were necessarily bad at either of these points, but I do think it could be beneficial to be aware of them while working on group projects. You have a great attitude and excitement toward programming and it makes it fun to work on projects together. I appreciated your awesome work ethic and I would consider myself lucky to pair with you again on a later project.
 
 * From: Ryan, Project: Rush Hour
@@ -148,23 +147,26 @@ Networking with my classmates took all the fear out of potentially networking in
 >I was really lucky to have the chance to work with David during Little Shop. He often spots issues that others miss, and he is very insightful. He has a generally calm demeanor which is particularly helpful when coding gets stressful. I particularly appreciate David’s receptiveness to feedback. There was a moment during our project where I felt that I David was questioning me in a way that implied I did not know what I was doing. I brought it up with him and he was incredibly receptive. He did not get defensive, and he went to Starbucks and brought me back a croissant. I really appreciated that, and it made me respect him even more. Ultimately, I had a really great experience pairing with David. I think he just got better and better as a team mate during our project, and I hope I get to work with him again.
 
 * From: Jesse
-> David's strengths are wide ranging, impressive, and contributed significantly to my own learning and the completion of our Little Shop project. In fact, at this point I would say that pairing with David has been my most positive paring experience so far at Turing. A few strengths that stood out in particular for me are:
 
->Commitment, evidenced by his willingness to dedicate long hours throughout the project and in particular on the first Saturday, when he moved apartments and then came directly to Turing to work.
+#### David's Strenghts
+David's strengths are wide ranging, impressive, and contributed significantly to my own learning and the completion of our Little Shop project. In fact, at this point I would say that pairing with David has been my most positive paring experience so far at Turing. A few strengths that stood out in particular for me are:
 
->Positivity towards others, evidenced by the multiple occasions I heard him say he learned something from each member of the team.
+* Commitment, evidenced by his willingness to dedicate long hours throughout the project and in particular on the first Saturday, when he moved apartments and then came directly to Turing to work.
 
->Ability to check himself and his team on rabbit hole shenanigans.
+* Positivity towards others, evidenced by the multiple occasions I heard him say he learned something from each member of the team.
 
->Team-first mindset, evidenced by go with the flow attitude (not in a uncaring way, but in a manner that projected a belief that the team's needs were most important) during team check-ins.
+* Ability to check himself and his team on rabbit hole shenanigans.
 
->On the technical side, David also has a considerable skill set including
+* Team-first mindset, evidenced by go with the flow attitude (not in a uncaring way, but in a manner that projected a belief that the team's needs were most important) during team check-ins.
 
->Speed on the computer. He is the first non-instructor I've worked with at Turing who makes me feel slow on a keyboard.
+On the technical side, David also has a considerable skill set including
 
->Feature driven development. David is very comfortable beginning with a user story (either given or created), creating a feature test, and then implementing a solution.
+* Speed on the computer. He is the first non-instructor I've worked with at Turing who makes me feel slow on a keyboard.
 
->Area of growth: In terms of an area of growth, I would challenge David to not settle for good-enough code because he has the technical chops to always produce products and solutions of the highest quality.
+* Feature driven development. David is very comfortable beginning with a user story (either given or created), creating a feature test, and then implementing a solution.
+
+#### Area of growth
+* In terms of an area of growth, I would challenge David to not settle for good-enough code because he has the technical chops to always produce products and solutions of the highest quality.
 
 ### Playing a Part
 
