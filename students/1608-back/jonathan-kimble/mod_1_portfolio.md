@@ -9,7 +9,7 @@ This module I set out to learn as much as possible about the ruby programming la
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 4
+* **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
 -----------------------
@@ -296,8 +296,8 @@ During my first module at Turing I have supported the community in a number of w
 
 ### Notes
 
-( Leave blanks for reviewers )
+Bring Event Reporter to a 4 on functionality and a 4 on testing.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROVISIONAL
