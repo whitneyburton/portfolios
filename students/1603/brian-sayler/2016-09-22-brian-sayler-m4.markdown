@@ -5,7 +5,7 @@
 This module my focus will be learning JavaScript and front end frameworks to
 supplement my Rails skills. While I'm going to focus on academics and
 maximizing points, I'd like to make sure I can position myself for an effective
-job hunt by starting to build relationships with those in the industry. 
+job hunt by starting to build relationships with those in the industry.
 
 ## Rubric Scores
 
@@ -96,7 +96,7 @@ JavaScript.
 
 Evaluator: Meeka
 
-- Nice user interface 
+- Nice user interface
 - Truncation for Idea body not working on Update
 - Search should be case-insensitive
 - Could reduce AJAX calls by disabling buttons when maximum or minimum
@@ -125,7 +125,7 @@ appreciate this as I enter the job hunt, I can now speak to what makes an
 effective stand up, the value of participating in code reviews, and the
 experience of working in an unfamiliar code base.
 
-#### Game Time 
+#### Game Time
 
 * [Production URL](https://saylerb.github.io/game-time/)
 * [GitHub URL](https://github.com/saylerb/game-time)
@@ -227,12 +227,12 @@ Check In 1: 150/150 Check In 2: 150/150 Total: 300/300 points
 
 ## D: Professional Skills (Intro)
 
-### Gear Up 
+### Gear Up
 
 #### Getting Better at Difficult Things
 
 * [Workshop
-  URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown) 
+  URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
 This workshop gave me more perspective on how to approach learning technical
 topics. It also reminded me to listen to my emotional state when I'm learning
@@ -246,7 +246,7 @@ order to practice effectively and truly master the whole skill.
 #### There is an "I" in "Team"
 
 * [Workshop
-  URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown) 
+  URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
 
 Turing does a good job making people comfortable in groups and feel like they
 have a voice.  However, we must ensure that we don't abuse this power. Team
@@ -321,7 +321,7 @@ completely, thoroughly, and creatively.
 
 ### Playing a Part
 
-- Participation in Bezos posse, co-led work time for a posse project. 
+- Participation in Bezos posse, co-led work time for a posse project.
 - Prepared discussion material for one Bezos posse lunch discussion.
 - Participated in Armstrong posse's dive into linear regressions
 
@@ -331,8 +331,17 @@ completely, thoroughly, and creatively.
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Nice Markdown
+- Speak up. Let the people around you know how awesome you are.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
