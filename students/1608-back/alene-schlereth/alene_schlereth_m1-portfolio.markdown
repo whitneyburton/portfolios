@@ -147,7 +147,7 @@ Here we watched a video about setting boundaries and creating a dynamic within a
 I really enjoyed the documentary. It did a nice job of giving information without sensationalizing the issue. I heard some others say that it was playing the victim, but I didnt feel that way. I joined the discussion on wanting to be part of solving the problem within the industry. My group had a really good discussion where it seemed like everyone shared their genuine thoughts and reactions. My biggest surprise was how many of my male group members didn't have any ideas about how they could make a positive impact in regards to gender issues in the technology field.
 
 ### Professional Development Workshops
-#### Learning to Pair
+#### Learning to Pair w/ Allison
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md)
 * [Link to Completed Deliverables](https://docs.google.com/document/d/11jxNJXE4CszRCddXfLId2t2KCsXRxM7YBd65zQDewyQ/edit?usp=sharing
@@ -172,9 +172,8 @@ Allison led our small group in a reflection exercise in which we looked at each 
 #### Personal Branding Part 2 w/ Lia
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p2.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://docs.google.com/document/d/1EGbJBWWIr5LEKv0sNUmhp5rcjtW5SjHx8EJ5p6EoWro/edit?usp=sharing)
                                   
-
 Lia worked with students to create a personal summary with a cohesive message.  She also covered making a personal website. 
 
 ## E: Feedback and Community Participation
