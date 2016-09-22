@@ -6,7 +6,7 @@
 
 This module I set out to learn about react and build tools.
 I also intended to make a conscious effort to focus on workflow
-tricks. The latter will follow me into mod3.  
+tricks. The latter will follow me into mod3.
 
 ### End of Module Assessment
 
@@ -55,18 +55,18 @@ Notes: Knock it off with the excessive nesting. Good use of SCSS variables and d
 3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
 
-#### Testing  
+#### Testing
 
  #### Notes: 18 Tests
 
 3 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of feature testing.
 
 
-#### Workflow  
+#### Workflow
 
 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
-#### Code Sanitation  
+#### Code Sanitation
 
 The output from a code sanitizer (either JSHint or ESLint) shows…
 
@@ -98,7 +98,7 @@ Notes:
 
 4 - The application meets all of the requirements listed above and implements one or more of the extensions.
 
-#### User Interface  
+#### User Interface
 
 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
@@ -208,7 +208,7 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 
 Shoot the breeze was a fun way to wrap up the mod. I enjoyed being able
 to spend more time focusing on react and firebase and less time setting up
-build tools. Enzyme testing is still a struggle.  
+build tools. Enzyme testing is still a struggle.
 
 Project: Shoot The Breeze
 Instructor: Brenna & Louisa
@@ -236,7 +236,7 @@ Testing
   2.5 - Significant effort to implement enzyme testing with zero unit tests
 
   3 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of feature testing.
-  
+
   2 - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
 
 Workflow
@@ -303,3 +303,5 @@ session about AXE testing using the chrome extension.
 
 
 ### Outcome
+
+PASS
