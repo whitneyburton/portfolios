@@ -20,6 +20,7 @@ JavascriptStyle: 3
 Workflow: 4
 Collaboration: 3
 
+Did a little over-engineering at the start, which made things a little more complicated down the road, but was able to find solutions and was confident getting functionality in place.
 
 ## B: Individual Work & Projects
 
