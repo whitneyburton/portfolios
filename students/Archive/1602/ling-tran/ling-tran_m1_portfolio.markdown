@@ -224,11 +224,7 @@ Notes:
 
 ---
 
-<<<<<<< HEAD
-## __Black Thursday Project Pull Requests (4x)__
-=======
 ## __Black Thursday Project Pull Requests (3x)__
->>>>>>> 642b0518e435e9776c9171d1d39058ca2d016593
 
 ---
 * [Create merchant class #11](https://github.com/drew-t/black_thursday/pull/11)
