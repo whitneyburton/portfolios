@@ -53,24 +53,24 @@
 
 (feedback to me)
 
-## D: Professional Skills
-(Intro)
+<!--## D: Professional Skills-->
+<!--(Intro)-->
 
-### Gear Up
-#### (Session Name)
+<!--### Gear Up-->
+<!--#### (Session Name)-->
 
-* [GitHub URL]()
+<!--* [GitHub URL]()-->
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+<!--(takeaways from session)-->
 
 
-### Professional Development Workshops
-#### (Session Name)
+<!--### Professional Development Workshops-->
+<!--#### (Session Name)-->
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+<!--* [Workshop URL]()-->
+<!--* [Link to Completed Deliverables]()-->
 
-(takeaways from session)
+<!--(takeaways from session)-->
 
 ## E: Feedback and Community Participation
 
