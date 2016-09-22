@@ -255,5 +255,4 @@ Student participates in required activities and does at least one or two above-a
 ( Leave blanks for reviewers )
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
