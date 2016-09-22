@@ -119,10 +119,6 @@ I paired with Jasmin during our Little Shop Project (also know as GoodGrocers). 
 ## D: Professional Skills
 
 ### Deliverables
-#### Technical Blog Post
-
-* [Blog Post Title]()
-
 #### Lightning Talk
 
 * [What The Heck Is DevOps And Why You Should Care](https://docs.google.com/presentation/d/161BZDpGzsRJwt431WinzcgZm6g-zMrMFxpKcWWUFz7k/edit?usp=sharing)
