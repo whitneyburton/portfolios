@@ -179,6 +179,32 @@ What Mike had to say:
 Jason was a great partner during the Enigma project.  Although he had the longest commute (by far!), he made coordination easy.  I distinctly remember he even missed a train on the final night of the project.  He is generally easygoing and funny, which makes working with him enjoyable.  One opportunity for Jason would be his willingness to speak up when he is either lost or in need of help.  I look forward to working with Jason again.
 
 #### (Headcount)
+Assessed By: Beth Sebian  
+* [GitHub URL](https://github.com/jdconrad89/head_count)
+* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/headcount.md)
+
+Notes:
+* Spec harness passes through iteration 2
+* Some test coverage, but inconsistent
+* Need to extract from large methods and test
+
+### 1. Functional Expectations
+* 1: Application crashes during normal usage
+
+### 2. Test-Driven Development
+* 2: Application makes some use of tests, but the coverage is insufficient
+
+### 3. Encapsulation / Breaking Logic into Components
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Fundamental Ruby & Style
+* 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+
+### 5. Enumerable & Collections
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+### 6. Code Sanitation
+* 1: More than ten complaints
 
 What Brett had to say:
 Jason was a great project partner.  He was always eager to pair when at Blake and was good to work with when we were not in the same physical location.  With all of the issues we had, I feel like he still brought the best out of me.
