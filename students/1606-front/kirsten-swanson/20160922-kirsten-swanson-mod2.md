@@ -183,3 +183,7 @@ On September 14th, I had a pairing session with Chaz Gormley.
 * **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 4
+
+
+# Outcome
+PASS
