@@ -120,12 +120,19 @@ Rush Hour was a web app built with Ruby, Sinatra, and Active Record.  It is a to
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Finding Opportunities with Lia
 
-* [Workshop URL]()
 * [Link to Completed Deliverables]()
 
-(takeaways from session)
+This was a very eye-opening session.  The idea that many jobs in the tech world are never even posted is really important to how you go about the job hunt.  Knowing what companies you are interested in and what kind of cultures they have is very important.  This gives you a way to start persuing those companies and finding common interests with people who already work there.
+
+#### Networking with Lia
+
+This session offered a lot of great strageies to be successful at networking and not see it as a chore.  
+
+#### Collaborative Communication with Allison
+
+Since we had a couple of serious group projects this module, it was very helpful that the whole class went over communication strategies.  I found the most important and useful strategy that we went over was making your feedback objective and free of emotion, judgement, and assumptions.  This is beneficial for both the giver and reciever of the feedback as it keeps it from being taken in the wrong way and much more comfortable to give and accept.
 
 ## E: Feedback and Community Participation
 
