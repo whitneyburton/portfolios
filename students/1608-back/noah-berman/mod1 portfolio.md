@@ -232,11 +232,12 @@ Me to Ben Pepper --
 
 ### Being a Community Member
 
-"It has been really awesome getting to know Noah this module. Everyday he has been positive and ready to work. Last night we were all in classroom B trying to wrap up HeadCount and it was great to see him rallying and pushing to get it done. We also shared some pretty sweet laughs too and I think that having his sense of humor around is a good asset to the community."
-
 "Noah has a great drive to learn that will serve him well in programming. Despite being a mod 1 student with little coding experience prior to Turing, he came to the hackathon. This alone demonstrates that he wants to learn and isn’t afraid of jumping into something new. In the high pressure environment of a 2 hr hackathon he kept his cool. When we reached a point where he didn’t know enough rails to be helpful he pivoted into helping us using his other skills. His experience with journalism was invaluable during the hackathon, as it allowed him to quickly made design decisions to move the group forward. Noah is an excellent team member and I would love to work with him again." - Jean Joeris
 
 "I was afforded the opportunity to pair with Noah several times throughout his time in Mod 1. Noah’s positive attitude has been something I am lacking and it was always refreshing to have that when we paired. Even when he is stuck on a problem he doesn't let it affect his outlook. His drive to understand the problem at hand is amazing and I have no doubt that he will excel in Truing and the industry as a whole." - Ben Pepper
+
+
+"It has been really awesome getting to know Noah this module. Everyday he has been positive and ready to work. Last night we were all in classroom B trying to wrap up HeadCount and it was great to see him rallying and pushing to get it done. We also shared some pretty sweet laughs too and I think that having his sense of humor around is a good asset to the community." - Robbie Smith
 
 ### Playing a Part
 
