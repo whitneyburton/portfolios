@@ -23,12 +23,12 @@ Notes:
 * Did a good job speaking about what he was doing, but would have liked to see him explain things prior to writing code
 * Tests were written very well, but he didn't allow the tests to drive the code. Explained that we want to run tests after each line of code so that we can write new code only based on the error and not get ahead of ourselves.
 
-* 1. Ruby Syntax & API: 3
-* 2. Completion and Progress: 3
-* 3. Testing: 3
-* 4. Workflow: 4
-* 5. Collaboration: 3
-* 6. Enumerable & Collections: 3
+* Ruby Syntax & API: 3
+* Completion and Progress: 3
+* Testing: 3
+* Workflow: 4
+* Collaboration: 3
+* Enumerable & Collections: 3
 
 ## B: Individual Work & Projects
 
