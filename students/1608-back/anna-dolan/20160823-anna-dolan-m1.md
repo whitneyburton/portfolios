@@ -203,9 +203,43 @@ David Junta - "Anna and I paired on the first paired project, Enigma.  Although 
 
 Headcount was by far the most challenging of our projects this module. For this project, we were parsing data from CSV files and creating a database to hold objects that hold hashes of the data. My project partner and I spent a lot of time fixing bugs, and we had to rebuild the project from scratch at one point. When we weren't dealing with bugs, we moved through iterations of the project quickly, but some of our errors would hold us up for hours. Essentially, our project started with a poor foundation, and building functionality on top of this was very difficult to do. As a result of our difficulty on the project, though, my partner and I spent a lot of time diving deep into our code and learning to troubleshoot errors. We learned a lot from this project, even though it did not go well, and we worked well together as partners.
 
-(evaluation comments)
+Assessed By: Mike
 
-(evaluation scores)
+Repo: http://github.com/annadolan/headcount
+
+Notes:
+* 68 runs, 83 assertions, all tests pass, 95.8% coverage
+* I5 partially complete.
+* Good that tested sad path in testing
+* Used a module to pull out a number of shared methods A+++
+* Good use of constants throughout project
+
+
+#### 1. Functional Expectations
+
+* 2: Application has some missing functionality but no crashes
+
+#### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+#### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+#### 4. Fundamental Ruby & Style
+
+* 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+
+#### 5. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+#### 6. Code Sanitation
+
+The output from `rake sanitation:all` shows...
+
+* 4: Zero complaints
 
 Noah Berman - "Anna was my pair partner on our final project of the module. She is extremely tenacious, intelligent, and always seeking to understand all sides of a problem. We were both lucky and unlucky in that we are at about the same "level" where our coding skills are concerned, so when we really got moving on a piece of code it went really smoothly, but we would run into small problems that could stop us for quite a while. Sometimes this would be hampered by both of our tendencies to go "Oh! Maybe I have it." and then dive into a solution before explaining the plan. That being said I always felt like we could talk through an issue when necessary, and Anna's willingness to consider new approaches made it an easy collaboration. Headcount is (to put it mildly) a difficult project and we were able to get along well throughout!"
 
