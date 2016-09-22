@@ -110,6 +110,16 @@ Feedback to Nate after Rush Hour -
 Feedback to Susi after Rush Hour - 
 
     I really appreciate the way you kept us all on task and organized. Our waffle board was always in good shape, and you were often the one who suggested switching roles (driver/navigator). As I said in retro, I think you’ll benefit a lot from saying out loud what you expect a given change to do. A good example is rake db:test:prepare. What does it do and why do you use it? Near the end of our project it became a ritual that, as far as I could see, you didn’t really understand. We’re all here to learn and recognizing that feeling of not understanding is a good opportunity to learn something. Another thing I really liked was the way you took ownership of the migrations. I love the way our database looks and you seem to have really mastered all the skills that go into setting it up.
+    
+Fedback to Brain after Little Shop - 
+
+    This is the first time that I have worked with Goss, and it was a great experience. Goss is not only an adept programmer, but he is also very personable and easy to work with. He naturally guided our workflow toward agile, he seemed to always create one thing at a time, and not move on to the next feature until some effort has been taken to refactor. In real-time it just seemed like we were getting work done, but at the end of the project, we realized that there weren't many refactoring opportunities since we had already been taking a significant effort to refactor during each feature. Our project was very easy to navigate and edit, and alot of the credit for this goes to Goss. He is very knowledgeable about shortcuts and best-practices in regard to code structure and syntax, and was able to explain his thought process in great detail. Goss was conscientious both when giving and receiving advice or instructions to other members, and was accomodating of the rest of the group members schedules and needs.
+
+    * The only constructive advice I could think to give Goss is regarding styling. He is actually quite good at using HTML, but often expressed his disdain for CSS and styling in general. While this is not an area that necessarily requires any sort of change on his part, it is an area in which some growth could be made.
+
+Feedback to Chase after Little Shop - 
+
+     really enjoyed working with Chase. He is always cheerful and enthusiastic. Though out the project he was always asking good questions and making great suggestions. Also he recognized that I was wearing out before I did and suggested breaks. I am confident that Little Shop would not have been as good without him on the team.
 
 ##Being a community member
 
@@ -120,6 +130,14 @@ Feedback from Nate after Rush Hour -
 Feedback from Susi after Rush Hour - 
 
     I am so thankful I was able to ask you questions when I didn’t understand what was happening. You are very dedicated to the project and to the team and that really shows in your intensity and determination.  To be perfectly honest I was really intimidated when I heard we were going to be on the same team; you have such an amazing handle on the code and databases that it can be a bit overwhelming.  What I realized was that having you as a team member is great! You have the ability to explain areas that were confusing to me. I would urge you to not put so much pressure on yourself to be done first, or compare the status of one groups’s project to the one you are working on. Keep staying dedicated and passionate and keep up that sense of humor! The laughs you created were incredible. Watching you work through SQL statements was great; your thought process and process of elimination is commendable.
+
+Feedback From Brain after Little Shop - 
+
+    Brian is very bright and good natured. I was very lucky to have him on my team for Little Shop. He always makes a point of suggestioning ideas as a question, to avoid stepping on toes. One small adjustment is that this habit eventually and in rare cases can come across as patronizing. Since I know what a genuinely friendly and kind person Brian is, I never took his suggestions that way, but I can imagine someone might in a different context. It reminds me of the Gear Up session about setting boundaries; sometimes it's better to be clear and direct. Overall, if I could select a dream team of programmers from our cohort, Brian would be on it. because he works hard and has fun doing it
+    
+Feedback From Chase after Little Shop - 
+
+    Goss was awesome to work with on Little Shop.  He has a personality that I mesh well with, and we never had any conflicts during the entire project.  Goss is a considerate partner, which I value greatly, and he is also a great listener, and truly thinks about the ideas that people give him, before he responds.  Ability wise, Goss is extremely capable and one of the strongest members of our cohort. I went to Goss regularly during the project with questions about something, and he did not hesitate to walk me through any issue I was having.  For that and for his friendship, I am tremendously grateful that Goss was in my group for Little Shop.
 
 Also, after the Collaborative Communication work shop with Allison, I spoke directly to Susi because I thought she might have been unhappy with some of our interactions during the project. She told me she thought I tried too teach rather than collaborate. She suggested I observe Pat Wentz, one of her favorite people to pair with, while he pairs with someone. I scheduled some time to do this, but then I became ill and couldn't make it.
 
