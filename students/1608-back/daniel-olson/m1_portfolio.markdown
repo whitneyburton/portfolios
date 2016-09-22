@@ -279,7 +279,11 @@ markdown are this. Designing an attractive and appealing website is key to getti
 the attention on you. Not only that but it's a great place to show your creativity.
 
 #### Strengths Finder
-https://github.com/blackknight75/portfolios/blob/master/students/1608-back/daniel-olson/Daniel%20Olson%20GallupReport.pdf
+
+Strengths Report: https://github.com/blackknight75/portfolios/blob/master/students/1608-back/daniel-olson/Daniel%20Olson%20GallupReport.pdf
+
+Affirmations: https://github.com/blackknight75/portfolios/blob/master/students/1608-back/daniel-olson/Affirming%20My%20Strengths.pdf
+
 I really liked filling out this strengths assessment. It Opened my eyes about how I'm thinking about myself
 and how I can use my strengths to assert what I know to squash my doubts. It was empowering to see these results
 and renewed my resolve for following through with this new career path.
