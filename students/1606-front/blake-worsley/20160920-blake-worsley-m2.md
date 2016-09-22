@@ -7,6 +7,8 @@
 
 This module I focused my time and energy into better understanding some of the more complicated aspects of Javascript. I effectively utilized my time to explore more adventurous designs and some explorations into ES6. I cemented my foundational learnings from mod one and began to approach thinking about code differently while working with React. Near the end of the module I started to get comfortable with both React and SCSS. I began to feel like a true developer and I am excited to start taking on more ambitious projects going forward.
 
+After reflecting on this mod I would like to work hard on developing my testing skills next mod. I am excited to work on my personal project and start to put together some of my skills to build something useful that I will use going forward.
+
 
 
 ### End of Module Assessment
@@ -75,7 +77,6 @@ I
 
 #### Tier One Project: Pomodoro App
 
-* [Link to Project]()
 * [Github URL](https://github.com/kerrd89/pomodoro-app)
 * [Original Assignment](http://frontend.turing.io/projects/tier-one.html)
 
@@ -116,7 +117,6 @@ Group: Blake and David
 
 #### Tier Two Project: Gains
 
-* [Link to Project]()
 * [Github URL](https://github.com/sikemausa/Gains)
 * [Original Assignment](http://frontend.turing.io/projects/tier-two.html)
 
@@ -164,15 +164,9 @@ notes: Really lovely design and great product idea, needed more time to really f
 
 #### DTR Example
 
-* [Chatroom DTR]()
-
-#### Project Readme Example:
-
-* []()
+* [Chatroom DTR](https://docs.google.com/document/d/1-qgo8Yw00-FsbZwXe-4OASMiC3BWKs0T0DDWUFDk0No/edit?usp=sharing)
 
 ## Community
-
-This module I continued my involvement in the community by working with SAB to run events and maintain a good cohort vibe. I actively participated in events on a weekly basis often bringing fellow students along to different meetups and helping expose them to the community. I also spent time every week working with other students and helping them with their projects. It was rewarding and I am happy with my involvement in the community this mod.
 
 ### Giving Feedback
 
@@ -201,24 +195,30 @@ The feedback I received is below:
 
 #### Feedback
 
->
+**Feedback**
+
+>Kyle Misencik
+Feedback on Chatroom Adventures: Really enjoyed working with you again Blake. I still have much to learn from your design / CSS skills. We put in a lot of hours on that project & I’m proud with how it turned out. It’s one of the first apps I’ve shown off to my friends / family. I really believe you’re a very well rounded FE developer, although I know sometimes you underestimate your own abilities. One thing I think both of us can get better at is breaking bigger problems down into smaller ones. Sometimes all it takes is a debugger / console log in the right place to get things moving when you’re stuck. Definitely won’t hear me complain if we get paired again!
 
 **Feedback**
 
->
+>David Kerr
+Your obvious strong point is styling/CSS (it was helpful watching your process w/ slack), but aside from that your positive energy and ability to discuss code are invaluable on a team.  Covered by self deprecating humor, those strong communication skills ensure that the entire team understands the what and why of what they are doing.  Thats really valuable, and your positive attitude really drives the group.  We also took some time to discuss what we wanted and what we needed from an object standpoint which helped us be successful as well.  As far as areas of improvement, I think you could get comfortable working with arrays by doing exercises like code wars as we have to deal with larger and larger data sets.  Had a blast working with you.
 
 **Feedback**
 
->
+>Madison Kerndt
+Blake is awesome to work with. His up beat mentality and his 'sky is the limit' mentality made our project super fun! He has a way of keeping his code is extremely functional and I admire his ability to jump in and get things working. He always cautions to take small steps(which is something I always need to work on). Also he is extremely visual which helped keep the group on track though the project and also helped us to flush out concepts we felt uncertain about. Ultimately his upbeat mentality, great sense of humor, and kick ass design skills made him an awesome partner. I look forward to working with Blake again in the future.
 
 **Feedback**
 
->
+>Mike Sausa
+Blake is the man. I’ve immensely enjoyed working with him throughout the last two projects, and commend him for picking up the slack of my limited knowledge. He’s a great teacher, and is always quick and effective to explain concepts that I am slow to understand. Blake is also incredible at progressing development and taking the reigns to keep the ball rolling. Definitely one of the easiest people to get along with, and always brings good vibes to the table. It’s been really cool seeing Blake progress with his React knowledge and it’s clear he’ll go on to do great things. Overall really enjoyed working with him!
+
 
 ### Playing a Part
 
-
-
+This module I continued my involvement in the community by working with SAB to run events and maintain a good cohort vibe. I actively participated in events on a weekly basis often bringing fellow students along to different meetups and helping expose them to the community. I also spent time every week working with other students and helping them with their projects. It was rewarding and I am happy with my involvement in the community this mod.
 
 ## Review
 
@@ -226,13 +226,23 @@ The feedback I received is below:
 
 * **A: End-of-Module Assessment**: 3
 
+I felt very confident in my abilities during this assessment and even though we didn't do things the way that I would have like, I think that I navigated the situation well.
+
 * **B: Individual Work & Projects**: 3
+
+I started to work on my own projects this mod and when given the opportunity, I added unique concepts into what I was doing. I am working on building these ideas out more through break.
 
 * **C: Group Work & Projects**: 3
 
+I worked extremely hard this mod and had to opportunity to lead some of the projects that we were working on. I felt great about the direction that I was taking.
+
 * **D: Community Participation**: 4
 
+I am happy with the job I did with SAB and felt like a helpful leader for the cohort. I was very active in going to meetups and bringing people along with me.
+
 * **E: Peer & Instructor Feedback**: 3
+
+I was good about having conversations with people in my groups and I took time with all of the feedback that I gave everyone this mod. 
 
 ### Notes
 
