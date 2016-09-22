@@ -362,8 +362,18 @@ I'm glad I finally got a chance to work with you on a project. We seem to have c
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3+
+* **E: Feedback & Community Participation**: 3
+
+* Solid scores throughout
+* A great module 
+* One of the strongest final asseessment
+* All group projects were very successful
+* 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
