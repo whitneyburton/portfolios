@@ -268,6 +268,15 @@ My takeaways from this session are about the importance of a personal website. I
 ##### Takeaways from Session
 My takeaways from this session are about the importance of communication and feedback when pairing or acting as a part of any team of any size. It's also important to be receptive of feedback that is given to me, so that I can be a better partner/teammate both in the classroom and eventually when I'm back in the workforce. The techniques from this session were really useful for both group projects, and I think I did an even better job using them in the second one after having had the opportunity to reflect on what could've gone better in the first project.
 
+#### StrengthsFinder
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/README.md#strengthsfinder-led-by-community-affairs-manager)
+#### Deliverables:
+* Reflection on Results
+
+##### Takeaways from Session
+My takeaways from this session are a mixed bag. This is actually the second time I've taken StrengthsFinder in 3 years. Only one of my 5 traits was the same in both, so I'm not sure if I've just changed a TON in ~3 years or if the test just isn't all that reliable. The thing is, I see all 9 traits in myself, so it's hard to say with certainty which strengths are the best to focus on. The said, the actual activities were interesting to help me self-assess what I want to do with the results, how they can help me, and how I can avoid seeing any of my strengths as harmful. The last time I did the assessment, it never really went anywhere- no activities or refection, so I'm enjoying the progression of further examining these traits and further improving upon them. 
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
