@@ -101,6 +101,9 @@ __Rush Hour__ was a Sinatra app that utilized ActiveRecord to track web traffic,
 >Feedback from Sonia:
 Jasmin was such a pleasure to work with. Rush Hour moved like clockwork due to her excellent project management skills. Our group was cohesive and collaborative, and she really helped keep us on track. She has a depth of knowledge and understanding that is truly impressive, and I learned a lot from her. On a personal level, Jasmin has proven herself to be kind, empathetic, and mature beyond her years. She has considerable emotional intelligence and approaches problems calmly and with reassurance for all involved. I hope I get the opportunity to work with her again, and I’m really glad to know her.
 
+>Feedback from Chase:
+Jasmin was an incredible partner to have on our Rush Hour project.  Not only was she extremely capable and an outstanding project manager, but she was also amazing to be around and work with, for multiple days in a row.  She did a great job as our project manager at keeping us on track and organizing our waffle board, but that doesn’t compare to how valuable she was in terms of actual coding.  Jasmin is one of those rare people who can be so intelligent, yet funny, and incredibly kind, all at once.  I’m so glad she’s part of our cohort and I had the pleasure of working with her on Rush Hour.
+
 ---
 
 ### Little Shop of Orders - GoodGrocer
@@ -195,6 +198,9 @@ Calaway really, really impressed me this module as he stepped up and took over t
 
 >Feedback from Sonia:
 Jasmin was such a pleasure to work with. Rush Hour moved like clockwork due to her excellent project management skills. Our group was cohesive and collaborative, and she really helped keep us on track. She has a depth of knowledge and understanding that is truly impressive, and I learned a lot from her. On a personal level, Jasmin has proven herself to be kind, empathetic, and mature beyond her years. She has considerable emotional intelligence and approaches problems calmly and with reassurance for all involved. I hope I get the opportunity to work with her again, and I’m really glad to know her.
+
+>Feedback from Chase:
+Jasmin was an incredible partner to have on our Rush Hour project.  Not only was she extremely capable and an outstanding project manager, but she was also amazing to be around and work with, for multiple days in a row.  She did a great job as our project manager at keeping us on track and organizing our waffle board, but that doesn’t compare to how valuable she was in terms of actual coding.  Jasmin is one of those rare people who can be so intelligent, yet funny, and incredibly kind, all at once.  I’m so glad she’s part of our cohort and I had the pleasure of working with her on Rush Hour.
 
 >Feedback from Raphael:
 I paired with Jasmin during our Little Shop Project (also know as GoodGrocers). Her leadership as the project manager, and her skills when it came down to coding and styling the website page goes beyond what I could possibly put into words. At the moment, the only constructive feedback I can give Jasmin, is to delegate more some of the responsibilities, towards the end of the project I felt that she took on a lot, and maybe it was something that we could have shared as a group (again, easy said than done since we all had something going on). It was honestly a great pleasure working with her and I have a lot of admiration and respect for her organization.
