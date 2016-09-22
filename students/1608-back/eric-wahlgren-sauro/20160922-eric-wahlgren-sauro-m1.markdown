@@ -23,7 +23,7 @@
 * *Run tests more often! Anticipate results, but then run them*
 * *GREAT collaboration!*
 * *Didn't get to enumerables*
-
+ 
 ## Rubric
 
 #### 1. Ruby Syntax & API
