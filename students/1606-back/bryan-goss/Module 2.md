@@ -4,11 +4,11 @@
 
 Unlike mod 1, I haven't used most of the tools that we encountered in mod 2. My area of emphasis has been to maintain a healthy balance between learning web development with Sinatra and Rails, along with picking up some machine learning from my time with Amrstrong posse. 
 
-End of Mod assessment: 3  
-Individual work: 3  
-Grop Work: 3  
-Professional Skills: 3  
-Feedback and Community Participation: 4  
+End of Mod assessment: 3
+Individual work: 3
+Grop Work: 3
+Professional Skills 3
+Feedback and Community Participation: 4
 
 ##End of Module Assessment.
 
@@ -63,46 +63,46 @@ My favorite project this module. I really enjoyed the project management parts. 
 
 #Professional skills
 
-#Technical Blog Post
+##Technical Blog Post
 
-#Lightning talk
+##Lightning talk
 
 I gave a talk about how AI and automation is making our job easier, and potentially so easy that devlopers may not always have a job.
 
 [Slides URL](https://drive.google.com/open?id=0Bxp6Oz_i3wHKQ1kzQzhWRmd0Q00)
 
-##Gear Up
-#Getting better at difficult things
+#Gear Up
+##Getting better at difficult things
 
 As gear ups go, this one seemed extremely relevant to my daily life at Turing. The main take away is that the best way to get better at something is repetition with some kind of feedback to check your work. If you're just practicing in isolation, there's no way to know if you're improving, so feedback is important. Even skills which are difficult or impossible to describe to someone are teachable with this process. 
 
-#There is an I in team
+##There is an I in team
 
 Setting boundaries is important. I would love to live in a world where people were as explicity about their boundaries as the person in the video was describing. 
 
-#CODE Debugging the gender gap
+##CODE Debugging the gender gap
 
 I joined the conversation of people who want to be contientious of gender issues and take action to improve things. We talked about making diversity "everone's job" rather than having a single "diversity champion" on the team. 
 
-##Professional Development 
-#Finding Opportunities
+#Professional Development 
+##Finding Opportunities
 
 
 
-#Collaborative Communication
+##Collaborative Communication
 
 The difference between Impact and Intent is frustrating for me, I almost always have good intentions, but I don't always have the impact I want to have. Impact often feels beyond my controll, but by using facts more than opinions or assumptions, I think I can have the impact I want to have.
 
-#Networking with Lia
+##Networking with Lia
 
 I appreciated the chance to practice my 2 minute story. I got good feedback from the people I talked to and it was cool to hear how people describe themselves. I need to do more work to find meetups and networking events to practice these skills.
 
-##Feedback and Community Participation
+#Feedback and Community Participation
 
-#Giving Feedback
-#Being a community member
+##Giving Feedback
+##Being a community member
 
-#Playing a part
+##Playing a part
 I consider my main contribution to the community to be my work with Armstrong posse. Machine learning is a difficult topic and requires a good foundation of knowledge. I've noticed the posse struggle two modules in a row to help new members establish this baseline. To help remedy this, I worked with Jean and Erin to develop a light "curriculum" I hope will help people get more out of their time with the posse. 
 
 [Armstrong posse gist.](https://gist.github.com/bcgoss/ef28ca99bf8fb2265bcf0949b8e9d4cb)
