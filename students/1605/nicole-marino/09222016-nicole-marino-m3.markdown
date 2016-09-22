@@ -160,10 +160,21 @@ I feel like this could have gone better, but I did have a successful group proje
 
 I worked on my resume, linkdn, and attended job fairs this module. 
 
+
+
 Notes
 
-( Leave blanks for reviewers )
+professional skills: 2
+
+
+* Grew throughout the module made progress at the end
+* Tried to work more as a pair - knows group work may not be a major strength - 
+* Pivot - more isolated when could have worked in the group
+* Decided to come back??
+* If coming back need to focus on professional skills
+
 
 Outcome
 
-( Leave blanks for reviewers )
+Pass
+
