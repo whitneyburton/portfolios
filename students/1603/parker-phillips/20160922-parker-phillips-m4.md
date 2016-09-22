@@ -70,7 +70,12 @@ checkins: 160/150
 eval: 140/150
 end-result: 300/300
 
-(feedback to me)
+This module, you and I finally had the opportunity to officially work together from day one on a project. I say finally because its no secret that we wanted to do so much sooner, but unfortunately the all mighty shuffle.pop was not on our side.
+Being my only group experience in Mod 4, I had nothing to compare this experience to during the module, but I feel safe in saying it was truly wonderful. We spent many hours over many long days, but I think we really meshed in our level of dedication, motivation, and passion. While this could result in the occasional frustration or butting of heads, we always worked through it.
+What I was even happier to see though was your growth through the project in two categories. The first was in JavaScript, which you had mentioned during our DTR was a concern for you due to struggles with IdeaBox. Rather than shy away though, you dived head first and often spent additional time outside of our scheduled time improving your personal understanding and skills. This had the excellent side benefit of encouraging me, resulting in a cyclical effect of positivity and growth.
+The second of these categories is one that I've talked to you a lot about throughout the course of Turing, and thats self-confidence. From the beginning of the program you always were incredibly talented, so it was a struggle watching you beat yourself up over the little things, or think that you weren't capable of something. While this issue still occurred every so often, you always were receptive to constructive criticism, feedback, and even asked for some of both on your own. You made a conscious decision to tackle a hard challenge, and often became the voice of positivity whenever we struggled.
+Going forward, I really urge you to take this change in mindset with you to your first job and beyond. I think that the moment you recognize your strengths you will certainly become a developer that other's look to for guidance, strength, and support.
+Thank you for such an awesome experience together, and I'm really rooting for you. - Ryan
 
 #### ScaleUp
 
