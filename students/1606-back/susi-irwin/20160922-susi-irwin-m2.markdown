@@ -86,7 +86,7 @@ No Evaluation Scores for this project.
 * [GitHub URL](https://github.com/susiirwin/idea_box)
 * [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
-IdeaBox was a super fun project involving creating a Rails app from scratch that would allow a user to login, create ideas, read ideas they had created, edit and update those ideas, and eventually delete them if needed. It also introduced the idea of an Admin Role to us. We were taught the practices of Authentication and Authorization and created the Admin Role - a user who can control more of the backend functions of the application. This project was a challenge for me because I really took my time to make sure I understood each step that I was taking. Because of this attention to detail I tend to run out of time on the shorter projects.
+IdeaBox was a super fun project involving creating a Rails app from scratch that would allow a user to login, create ideas, read ideas they had created, edit and update those ideas, and eventually delete them if needed. It also introduced the idea of an Admin Role to us. We were taught the practices of Authentication and Authorization and created the Admin Role - a user who can control more of the backend functions of the application. This project was a challenge for me because I really took my time to make sure I understood each step that I was taking. Because of this attention to detail I tend to run out of time on the shorter projects. During our Peer Review, I worked with Jean on some refactoring. I implemented Hound as well as the Awesome-Print gem. I learned that I am way more confident in my coding than I thought I was, but I also learned that I need to continually work on experimenting with my code and taking chances. 
 
 No Evaluation Scores for this project.
 
@@ -253,7 +253,9 @@ From **Eric Wahlgren-Suro**: "The imposters lunches since week one have given me
 
 ### Playing a Part
 
-This Module was a very busy one for me. I stepped up in the Pahlka Posse and took over the Student Support Survey each week where Posse members can ask for an extra pairing. This has been extremely interesting for me and has given me a huge opportunity to really get to know the members of my posse and our Mentors better.
+This Module was a very busy one for me. I stepped up in the Pahlka Posse and took over the Student Support Survey each week where Posse members can ask for an extra pairing. This has been extremely interesting for me and has given me a huge opportunity to really get to know the members of my posse and our Mentors better. I love that the Pahlka Posse is so supportive - both as a mission but also as a group of students. We have a set of incredible mentors as well. I have learned to be an active listener and I Know that will help mw in my professional career.
+
+My mentor is Matt Rogers. We slack almost everyday and make a point to Facetime about once a week. He is there for me for technical questions, professional questions, but also general questions about life as a developer. He is just wonderful!
 
 I have been an active member of the Joan Clarke Society on Slack as well as the Tuesday morning Coffee group. I created a "Parenturing" channel on Slack to connect the students  and staff at Turing who are also raising children. This has made a huge impact on me and has brought me closer to other students and staff. I have found that I can reach out to this sub-community for more support and also for amazingly cute pictures of our children! I am an active member of the Turing-Moms channel where I help support other Moms in the community as well as receive a ton of support.
 
