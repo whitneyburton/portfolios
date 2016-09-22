@@ -100,7 +100,7 @@ Rush hour was designed to be a web traffic information parser. The idea was to t
 * [Little Shop](https://github.com/bfpepper/little-shop)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-###Scores and comments
+Little shop was our first real Rails project. It required us to build an e-commerce site.  This included having authenticated users, admins, carts, etc. This was my first project at Turing where I felt I could sink my teeth into the material. This was were everything came together and it was something I could show to people. I loved doing the OAuth as an extension and was beyond excited when it worked on Heroku. This has been my most favorite project because it also tied in user stories and it made it more appealing to deal with those as opposed to iterations.
 
 ###Professional Skills
 
@@ -128,7 +128,11 @@ This was probably my most favorite Gear Up of Mod 2. The video was incredibly in
 - Susan Gill DCP Midstream 720-402-4155
 - Troy MacDonald Continental Western Group 303-489-8264
 - Regina Matthews Denver Center for the Performing Arts rmatthews@denvercenter.org
-- 
+- Lo Drogsvold Vail Resorts 303-579-4807
+- Bill Carey William C. Carey, P.C. 303-898-0190
+- Kendal Zimmermann SFCD kzimmermann@scfd.org
+- Lori Hubert Brown and Hulbert LLP lhubert@brownandhulbert.com
+- Mike DeJagger CSU, 551-208-9601
 
 Finding people in the company you want to work in is crucial. Without having some "in" into the company your chances of getting selected is minimal. This was a great exercise and well worth it. Its kind of like testing, making me think about where I want to end up now as opposed to at the end of Turing.
 
@@ -165,6 +169,18 @@ Brendan was an invaluable member of our Little Shop group. His grasp of the topi
 -To Nate Anderson
 It was a pleasure to work with Nate during the Little Shop project. Nate’s persistence in getting any problem completed was inspiring. He was always willing to take up any task that needed to be handle and alway had either a question to further the project or insight that helped us overcome a problem. There is only one thing I would recommend. The only thing both Nate and I agreed on was styling sucks. This is the one area I would say we both need to work on. the Rails side is relatively easy but style had us both confused and it would be worth it to take some time to learn boot strap.
 
+-To Sonia Gupta
+Sonia has been one of biggest driving forces of my ability to stay at Turing through a lot of hard times. No matter what is going on She is always willing to go for a walk and take time out of her day to help me figure things out. Talking with her has, more often than not, led to some breakthrough I would not have come to on my own. Her ability to understand any problem and persist until she fully understands it is inspiring and something I hope to emulate. She is an enormous asset to Turing and I am luck to know her and to be able to call her my friend.
+
+-To Raphael Barbo
+Raphael always has a smile on his face and a kind word to encourage anyone who he is around. His positivity and friendly demeanor has been of great comfort several times through Turing. His drive to learn more and to be better then the previous day is inspiring and being in the same cohort as Raphael has been a great boost for my outlook. He is a great asset to have at Turing.
+
+-To Anna Dolan
+It has been a pleasure to pair with Anna on several occasions. She understands what she is writing and how it relates to other segments of her code. I remember working with her on Enigma and whenever I asked a clarification question she was able to follow the stack trace and find the solution with very little prodding from me. She does tend to be hard on herself. She doesn't need to be. Anna will prove to be one of the better programs that comes out of Turing and her drive to know and understand the next piece will be invaluable as she progresses through Turing and into the job market.
+
+-To Noah Berman
+I was afforded the opportunity to pair with Noah several times throughout his time in Mod 1. Noah’s positive attitude has been something I am lacking and it was always refreshing to have that when we paired. Even when he is stuck on a problem he doesn't let it affect his outlook. His drive to understand the problem at hand is amazing and I have no doubt that he will excel in Truing and the industry as a whole. 
+
 ### Being a Community Member
 
 Ben made me feel very welcomed to join the cohort at the beginning of the module, and we had the opportunity to work together on our first group project, called Rush Hour.  His natural ability to connect with others in the group, through respect and attentiveness, made him great to pair with.  Ben can handle any code problem or task delegated to him, as he did every night when we split up tasks.  I found him always available to reach out to when something came up, and thought his thorough communication with team members throughout the project led to our success.  Ben already has the skills necessary to work on any team and makes a great programmer as he continues his learning.
@@ -175,6 +191,21 @@ Ben was a great team member. He has great perseverance and doesn’t fear asking
 
 It was great to work with Ben again on a group project.  Anything that he takes on, he dives deep into and learns everything about it that he can.  He was always willing to go the extra mile as well whenever we split up work. Also, he never shies away from learning something new. The recommendation I would give is one that I have given before, and I do think Ben is getting better at this, is to just not be as hard on himself as he is sometimes. He is a very good programmer and sometimes I wish he could see it himself. But other than that, he was again a great partner on another successful project.
 -Nate Anderson
+
+I have paired with Ben several times this module, and he has been more helpful to me than any other person at Turing. Even when I asked confusing questions, he always made an effort to help me find an answer. He was emotionally supportive when I was having a tough time on a project, and he has been extremely encouraging and generous with his time. He has also led sessions during Friday Spike specifically to help Module 1 students be familiar with concepts that aren't taught to us by the instructors. He is a great example of how to be helpful as a Module 2 student.
+-Anna Dolan
+
+Ben has been such an inspiration this module. He has helped me to overcome my own self-doubt and has taught me the value of self-reflection and community involvement. He paired with mod 1 students more than any other person in my cohort, and his willingness to lend a hand is truly remarkable. Turing is lucky to have him, and I am lucky to be his friend.
+-Sonia Gupta
+
+Ben has been a great asset to our Little Shop project. When he sets to work he is able to work quickly and efficiently toward a solution. He is very knowledgable of the material and is an excellent resource to go to with any questions. He has an awesome way of explaining concepts that you might not understand. He is also great at keeping spirits up with his sharp wit and sense of humor.
+-Calaway
+
+I worked with Ben on our Little Shop project. Ben is fantastic about pushing through and getting a lot of stuff done. He clearly understands how he works best, and was able to move waffle cards more quickly than a blackjack dealer. He also has the skill of asking the right questions when going through somebody else's code so that everyone in the group is able to understand it well. It is very apparent, though, when Ben gets frusturated with something, and that sort of very visible frusturation tended to infect the rest of the group. Still, Ben is a great person to work with and has a better work ethic than he gives himself credit for.
+-Brendan Dillon
+
+I could not go this module without giving Ben a major shoutout for the amazing work done during his pairing sessions, as well as seeing his dedication and willingness to learn more and more every single day throughout the module. I am super happy to have Ben in my cohort, and I honestly have a lot of admiration, and respect for everything he does.
+-Raphael Barbo
 
 ### Playing a Part
 
