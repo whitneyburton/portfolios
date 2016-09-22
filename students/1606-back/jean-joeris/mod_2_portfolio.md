@@ -13,7 +13,6 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
 1. Analytic/Algorithmic Thinking
 
 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
@@ -40,12 +39,12 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 
 ### Work
 
-(Intro)
+These were individual projects. They consisted of independed projects (robot world, basement animals), tutorials (blogger, mix master) and communcation (blog post, lightning talk). They were not evaluated, so scores are not present.
 
 #### Robot World
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/crud_sinatra.markdown)
 
 (description)
 
@@ -56,7 +55,7 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 #### Blogger
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
 (description)
 
@@ -67,7 +66,7 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 #### Mix Master
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
 
 (description)
 
@@ -78,7 +77,7 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 #### Lighting Talk
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/lightning-talks)
 
 (description)
 
@@ -90,12 +89,12 @@ I also want to become the leader of LGBTuring over the course of the mod, as Nic
 
 ### Projects
 
-(Intro)
+These were group projects designed to make us demonstrate not only technical ability but team work and collaboration skills as well.
 
 #### Rush Hour
 
 * [GitHub URL](https://github.com/JeanJoeris/rush-hour)
-* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/rush_hour/jean_ben_matt.md)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
 The purpose of this project was to design a program that could recieve JSON containing data on an http request. The app would then parse this data into a database and provide information about these requests
 
@@ -125,14 +124,20 @@ The purpose of this project was to design a program that could recieve JSON cont
 
 * 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
-(feedback to me)
+Ben Pepper - 
+Jean was a fantastic Project Manager. He was always willing to listen to our ideas (even if they didn’t always pan out). His patience with me made me mire willing to think about a problem and try to help find a solution. Jean always made sure that we were all working on the project and if someone looked to be disengaged he would ask what our thoughts were. I got stuck on one test issue and instead of telling me what to write, Jean just kept asking questions that lead me to the answer I needed. That was huge for me since it meant that I could better understand what had happened have a better understanding of the process The biggest thing I would suggest is to not lose the ability to include everyone in the group. It made a stressful project much easier since I knew that even if my idea was wrong I would not be belittled for it. That was the best part of the group.
+
+Matt DeMarteau -
+Jean and I worked together in a three-person group, on our first group project in Module 2, called Rush Hour. He took the the role as project manager and proved to be an outstanding leader.  From the very beginning of the project, I took note of Jean’s ability to stay receptive to others feedback and ideas.  When a team member was stressed or quite, Jean would notice right away and ask if they needed to switch roles or if they needed a quick break.  He valued each person’s input and treated each member equally when delegating responsibility for the project.  I have great respect for Jean in his ability to lead a team and really appreciated him asking at the end of the project how he could have done better.  I didn’t have much feedback to give him because I thought the communication and delegation of tasks was handled very professionally.  I know that Jean has the ability to lead teams through tough waters in the future, but this project seemed to come together in all ways.
 
 #### Little Shop of Orders
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/j-sm-n/little_shop)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 Little Shop of Orders was the final mod 2 project. The goal was to take all of our knowledge gained over the module and build an e-commerce site from scratch using Ruby on Rails. We decided to build a grocery store called Good Grocers. This has been a very productive project for our group. It has solidified a lot of my understanding of rails and MVC. Additionally, I have reflected throughout on how much I have learned in 6 short weeks.
+
+(This portfolio was due before the project was assesed)
 
 Feedback received
 Jasmin Hudacsek - 
@@ -141,13 +146,6 @@ During Little Shop, Jean was invaluable asset as a group partner and was very go
 Raphael Barbo -
 I paired with Jean during our Little Shop Project (also know as GoodGrocers). His algorithmic thinking abilities are 
 beyond admiration. I feel that Jean has a lot teacher's like skills and I have appreciated very much all the time he has put into explaining concepts and approaches that at times were not clear to me. At this moment, the only constructive feedback I can think about for Jean, is to sometimes listen more to your peers (mainly on the sense of ideas). I know having such an amazing approach to problems, and a very logical mind, make him see things from a very unique perspective. With such brilliance I believe he could turn average ideas into big awesome outcomes. It was honestly a great pleasure working with Jean and I have a lot of admiration and respect for his skills and everything he has taught me throughout the project.
-
-Feedback given
-Jasmin Hudacsek -
-My experience with Jasmin was excellent. She was a very capable project manager. She consistently kept us on track, by organizing the waffle board. I was impressed with her ability to put herself in the user's shoes. Many times throughout the project she directed us away from solutions that serve us as developers towards solutions that serve the user. Despite her prior experience as a project manager, she never became overbearing. She was defend her opinions, but never try to user her knowledge as a trump card. She was also very friendly and relaxed throughout. I learned a great deal about management by watching her, and am glad we were in the same group
-
-Raphael Barbo -
-Raphael has been an awesome team member. He is always willing keep working. His work experience prior to turing shines through in his excellent work ethic and positive attitude. He even volunteered to give me a ride to and from Turing one weekend. He is a very capable coder, but doesn't let that stop him from asking for help. He has no ego about seeking help when necessary. His willingness to keep working was a huge boon to the team, as he helped make sure cards were getting done. He was always happy to take on whatever task was needed. A few times it seemed to me he was so focused to move the project forward that he didn't voice his concerns as clearly as he could have. This is not to imply he doesn't communicate well, the vast majority of the time he was voiced himself clearly. Raphael is extremely kind and was a joy to work with.
 
 ## Community
 * Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
@@ -166,13 +164,27 @@ Raphael has been an awesome team member. He is always willing keep working. His 
   9. Not sure of the shop's name, but somebody who hangs out at the barn my wife spend's time at works at a Rails shop. I need to wait til the next bonfire at the barn to network with him
   10. 
   
+* Regarding Lia's networking class:
+  * This was an extremely helpful class! As an introvert, it was so useful to have somebody a) explicitly acknowledge the difficulty I face in networking and b) give me concrete ways to overcome this difficulty. I was able to turn around and apply this at the Denver Startup Week job fair. Thanks to Lia I was able to make multiple connections.
+  
 * From Gear Up sessions:_
  
 
 ### Giving Feedback
-Other feedback is listed under the appropriate project
 
-To Noah Berman (1608 BE) regarding his participation in the hackthe.news hackathon - 
+Ben Pepper (rush hour) - 
+Ben was a great team member. He has great perseverance and doesn’t fear asking questions when things aren’t totally clear. He has a very professional work manner, and always delivers things on time. Even when he needed to do something else it never affected his deliverables. On a personal level, Ben was very friendly and low stress throughout. The one area of improvement that stood out to me is being more careful about pushing to master. It wasn’t a common thing, and a little more mindfulness would probably go very far.
+
+Matt DeMarteau (rush hour) -
+I really enjoyed working with Matt. He was very friendly and hard working. I really appreciated his willingness to not go on autopilot and question our design decisions. I believe the whole team was improved by this, as our choices became more mindful. There was no distance between him and the rest of the group, which was impressive given that he was new to our cohort. He  had a happy attitude the entire project, which was nice. I hope Matt continues to keep his cool level head, as it is a boon to any groups he is on
+
+Jasmin Hudacsek (little shop) -
+My experience with Jasmin was excellent. She was a very capable project manager. She consistently kept us on track, by organizing the waffle board. I was impressed with her ability to put herself in the user's shoes. Many times throughout the project she directed us away from solutions that serve us as developers towards solutions that serve the user. Despite her prior experience as a project manager, she never became overbearing. She was defend her opinions, but never try to user her knowledge as a trump card. She was also very friendly and relaxed throughout. I learned a great deal about management by watching her, and am glad we were in the same group
+
+Raphael Barbo (little shop) -
+Raphael has been an awesome team member. He is always willing keep working. His work experience prior to turing shines through in his excellent work ethic and positive attitude. He even volunteered to give me a ride to and from Turing one weekend. He is a very capable coder, but doesn't let that stop him from asking for help. He has no ego about seeking help when necessary. His willingness to keep working was a huge boon to the team, as he helped make sure cards were getting done. He was always happy to take on whatever task was needed. A few times it seemed to me he was so focused to move the project forward that he didn't voice his concerns as clearly as he could have. This is not to imply he doesn't communicate well, the vast majority of the time he was voiced himself clearly. Raphael is extremely kind and was a joy to work with.
+
+Noah Berman (1608 BE) regarding his participation in the hackthe.news hackathon - 
 Noah has a great drive to learn that will serve him well in programming. Despite being a mod 1 student with little coding experience prior to Turing, he came to the hackathon. This alone demonstrates that he wants to learn and isn’t afraid of jumping into something new. In the high pressure environment of a 2 hr hackathon he kept his cool. When we reached a point where he didn’t know enough rails to be helpful he pivoted into helping us using his other skills. His experience with journalism was invaluable during the hackathon, as it allowed him to quickly made design decisions to move the group forward. Noah is an excellent team member and I would love to work with him again.
 
 ### Being a Community Member
@@ -194,11 +206,11 @@ In addition to these two ongoing roles I participated in a hackathon with other 
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 ### Notes
 
