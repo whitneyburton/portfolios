@@ -272,6 +272,7 @@ My takeaways from this session are about the importance of communication and fee
 #### StrengthsFinder
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/README.md#strengthsfinder-led-by-community-affairs-manager)
+
 #### Deliverables:
 * Reflection on Results
 
