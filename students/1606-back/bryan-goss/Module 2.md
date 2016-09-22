@@ -53,6 +53,7 @@ Rush hour was a difficult project. There was a lot to do in the timline. My grou
 [GitHub URL](https://github.com/bcgoss/rush-hour)
 [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 [Notes from project retro](https://gist.github.com/susiirwin/5c4099e36a9dfec88286a8ea36105269)
+[Notes from evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/rush_hour/bryan_susi_nate.md)
 
 ##Little Shop
 
