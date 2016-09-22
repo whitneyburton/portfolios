@@ -6,7 +6,7 @@ I was excited about learning JavaScript this module, because I am especially int
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 4
+* **A: End-of-Module Assessment**: 3.5g
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 4
@@ -16,6 +16,19 @@ I was excited about learning JavaScript this module, because I am especially int
 
 ## A: End of Module Assessment
 
+1. Satisfactory Progress - 3: Developer completes iterations 1 through 5 with few bugs and no missing functionality. (In the real final assessment, this will involve completing one supporting feature.)
+
+2. Ruby Syntax & Style - 3: Developer is able to write Ruby demonstrating a broad/deep understanding of available language features. Application demonstrates great understanding of Object-Oriented modeling. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+3. Rails Style & API - 3: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+4. Javascript Syntax & Style - 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+5. Testing - 4: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
+
+6. User Interface - 3: The application is pleasant, logical, and easy to use
+
+7. Workflow - 4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
 
 ## B: Individual Work & Projects
