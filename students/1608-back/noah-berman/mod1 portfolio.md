@@ -211,9 +211,13 @@ and that can put major stumbling blocks (as they say) in our way. Worth thinking
 
 ### Giving Feedback
 
-Me to Robbie --
+Me to Robbie Smith --
 
 "Robbie is a an intelligent and careful programmer, always willing to discuss a problem with his cohort-mates and work towards a solution. Definitely an asset to the community, of which he is a generous  member, once giving me a ride home in the middle of a rainstorm. It has been great getting to know him over the course of the mod."
+
+Me to Ben Pepper -- 
+
+"I was lucky enough to be able to pair with Ben a few times throughout the module. His extremely patient teaching style was a massive help to me as I learned the ropes here at Turing and with programming in general. His willingness to admit to being unsure about a problem - and the fact that he jumps into looking for / considering a solution is a tremendously valuable skill in all arenas -- the industry, Turing, etc. " 
 
 ### Being a Community Member
 
