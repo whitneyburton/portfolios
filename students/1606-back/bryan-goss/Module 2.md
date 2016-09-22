@@ -101,6 +101,16 @@ I appreciated the chance to practice my 2 minute story. I got good feedback from
 #Feedback and Community Participation
 
 ##Giving Feedback
+
+Feedback to Nate after Rush Hour - 
+
+I felt very comfortable being on a team with you. You worked diligently and helped keep things moving. You helped to set clear expectations at the end of each session about what we should do separately and have ready for next time.
+I can think of a couple times where I don't know your opinions or thoughts. Part of that is definitely because I talk too much. In addition to that, I think you could offer your opinions more.  Some times I felt like Susi and I were talking a lot and you let yourself take a back seat. On the other hand, I think you were the most centered member of the group and I appreciate that you worked well with Susi and me even when we were not as calm and focused as we could have been. Thanks for all your work on this project, it was a very positive experience! 
+
+Feedback to Susi after Rush Hour - 
+
+I really appreciate the way you kept us all on task and organized. Our waffle board was always in good shape, and you were often the one who suggested switching roles (driver/navigator). As I said in retro, I think you’ll benefit a lot from saying out loud what you expect a given change to do. A good example is rake db:test:prepare. What does it do and why do you use it? Near the end of our project it became a ritual that, as far as I could see, you didn’t really understand. We’re all here to learn and recognizing that feeling of not understanding is a good opportunity to learn something. Another thing I really liked was the way you took ownership of the migrations. I love the way our database looks and you seem to have really mastered all the skills that go into setting it up.
+
 ##Being a community member
 
 ##Playing a part
