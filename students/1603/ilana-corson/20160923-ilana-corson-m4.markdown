@@ -4,16 +4,6 @@
 
 This module I was able to work on Javascript. It was a great introduction into the powerful language. During Gametime, we were able to explore linked lists in Javascript, which was especially challenging. I was also able to polish my Module 3 project which took longer than I expected but I am happy with the result.
 
-## Rubric Scores
-
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
-
------------------------
-
 ## A: End of Module Assessment
 
 Notes:
@@ -49,8 +39,6 @@ Notes:
 * **4:** The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
 ## B: Individual Work & Projects
-
-This module, I completed three projects:
 
 ### Idea Box
 
