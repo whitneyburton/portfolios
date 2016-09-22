@@ -238,6 +238,10 @@ Daniel Shin (1608 BE) Regarding my role as Armstrong Posse lead -
 
 Jean has done an excellent job at organizing the Armstrong posse. He has been able to consistently and thoroughly explain the complex concepts that surround machine learning. This has made the Armstrong posse very welcoming, despite the potentially intimidating topics that naturally come out of such subjects. For future meetings, it may help notify to other members what kind of discussion will occur during the session (e.g. we might briefly touch on calculus) so members know what to expect.
 
+Sonia Gupta -
+
+Jean has been an incredibly positive influence on our cohort and on Armstrong Posse. He is a natural leader, and has been a gentle guide in our learning in both the posse and the classroom. I have appreciated his willingness to answer our questions and to offer his insights when appropriate. He has also fostered an environment of tolerance and kindness at Turing. He is an asset to the community and we are lucky to have him.
+
 ### Playing a Part
 
 This module I have tried very hard to contribute to the Turing community.
