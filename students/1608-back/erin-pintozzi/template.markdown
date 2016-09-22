@@ -266,7 +266,7 @@ My takeaways from this session are about the importance of a personal website. I
 * [Link to Completed Deliverables](https://docs.google.com/document/d/1tFXm5fN1Hy1SZUVOt7P2O6ZuYA7lx219iUN--TA0h50/edit?usp=sharing)
 
 ##### Takeaways from Session
-My takeaways from this session are about the importance of communication and feedback when pairing or acting as a part of any team of any size. It's also important to be receptive of feedback that is given to me, so that I can be a better partner/teammate both in the classroom and eventually when I'm back in the workforce.
+My takeaways from this session are about the importance of communication and feedback when pairing or acting as a part of any team of any size. It's also important to be receptive of feedback that is given to me, so that I can be a better partner/teammate both in the classroom and eventually when I'm back in the workforce. The techniques from this session were really useful for both group projects, and I think I did an even better job using them in the second one after having had the opportunity to reflect on what could've gone better in the first project.
 
 ## E: Feedback and Community Participation
 
