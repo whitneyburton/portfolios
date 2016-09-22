@@ -215,11 +215,26 @@ Erin, I really enjoyed our working dynamic in our Headcount project. I think you
 The professional skills sessions are an integral part of our Turing program because we are learning skills that are very industry specific for our soon-to-be new careers. This includes both examining how we are presenting ourselves to those on the outside as well as personal reflections to make sure we are striving to be the best versions of ourselves.
 
 ### Gear Up
-#### (Session Name)
+#### Getting Better at Difficult Things
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
-(takeaways from session)
+##### Takeaways
+My biggest takeaway from this session is to try and better understand my learning style and to think about different ways to improve and be an effective learner. In the video of Kathy Sierra's keynote, I was really fascinated by her discussion about the efficiency with which we get things done that we are really good at versus those we are not. It would be a fun experiment to do a lot of drills on the same topic to see if I could gain a level of expertise in something within the time frame that Kathy recommends (3 sessions no longer than 90 mintues?). I also reflected a lot on how when I get frustrated, I enter a heightened emotional state which really inhibits my learning. As a result, I've made a very pointed effort to take more breaks when I reach high levels of frustratation. It's actually helped quite a bit- I finish things more quickly and I generally feel far less stressed. 
+
+#### There is an I in team
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
+
+##### Takeaways
+I struggled with this session more than the others. While I think I understand the intention behind it, my discussion group and I had some awkward moments. Using that as a jumping off point, it was pretty clear that open communication and willingness to collaborate play a huge role in teams. We tried to overcome the strange awkward feeling, but something was still missing. Our group did not do a DTR. I think that may have helped. I think one of the biggest contributing factors to the "awkwardness" was that we had no idea what to expect from the session or each other. For the second paired project of the mod, my partner and I worked really hard to define a good DTR and then follow it throughout. I learned from the session that it's really important to recognize each person's role and responsiblity whether it's a large final project or a 40 mintues Gear Up session.
+
+#### Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+
+##### Takeaways
+This was a really interesting session for me. Before watching the film, we were asked to reflect on why we thought more women weren't in tech. I wrote that for me personally, the issue was that I didn't even know it was an option. I went to a school that focused a lot on art. The school offered the minimum number of math and science classes as required by state law. It really kind of sucks. I think I really would've enjoyed starting in this field sooner if I even knew how to start. I don't think I have a great answer about where I plan to go from here. It's a very complicated topic and I think the first step is to better identify for myself what I can do to improve my own outlook as well as the outlook for future ladies in tech. I have shared this film with a number of other males I know in the industry in hopes that it will help open their eyes to issues that women in tech deal with, including some that I myself have encountered.
 
 
 ### Professional Development Workshops
@@ -297,7 +312,7 @@ Erin has been an active member of the Imposters group module and with that has b
 
 *Ali Schlereth*
 <br/>
-asd
+I have enjoyed collaborating with Erin this module. Whenever asked, she readily offers ideas and advice. She has been a supportive community member; I know I can reach out to her if needed. I would love to hear more of her insights and ideas, don't be afraid to reach out and speak up!
 
 ### Playing a Part
 
