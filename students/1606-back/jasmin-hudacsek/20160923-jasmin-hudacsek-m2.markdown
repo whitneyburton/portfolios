@@ -91,7 +91,6 @@ Working in groups, I completed the following projects this module:
 
 __Rush Hour__ was a Sinatra app that utilized ActiveRecord to track web traffic, specifically post requests, and analysis the data come with those requests.
 
-
 * **1: Functional Expectations**: 1.5
 * **2: Test-Driven Development**: 2
 * **3: Encapsulation/Breaking Logic Into Components**: 3
@@ -99,15 +98,21 @@ __Rush Hour__ was a Sinatra app that utilized ActiveRecord to track web traffic,
 * **5: Sinatra/Web & Business Logic**: 3
 * **6: View Layer**: 2.5
 
-(Feedback from team)
+>Feedback from Sonia:
+Jasmin was such a pleasure to work with. Rush Hour moved like clockwork due to her excellent project management skills. Our group was cohesive and collaborative, and she really helped keep us on track. She has a depth of knowledge and understanding that is truly impressive, and I learned a lot from her. On a personal level, Jasmin has proven herself to be kind, empathetic, and mature beyond her years. She has considerable emotional intelligence and approaches problems calmly and with reassurance for all involved. I hope I get the opportunity to work with her again, and I’m really glad to know her.
 
 ---
 
 ### Little Shop of Orders - GoodGrocers
 
-* [GitHub URL]
+* [GitHub URL](https://github.com/j-sm-n/little_shop)
 
-(Feedback from team)
+__Little Shop__ is an e-commerce site that sells grocery items and recommends items based on what previous users have bought. We implemented admin, registered user, and visitor functionality.
+
+(Eval notes would go here)
+
+>Feedback From Raphael
+I paired with Jasmin during our Little Shop Project (also know as GoodGrocers). Her leadership as the project manager, and her skills when it came down to coding and styling the website page goes beyond what I could possibly put into words. At the moment, the only constructive feedback I can give Jasmin, is to delegate more some of the responsibilities, towards the end of the project I felt that she took on a lot, and maybe it was something that we could have shared as a group (again, easy said than done since we all had something going on). It was honestly a great pleasure working with her and I have a lot of admiration and respect for her organization.
 
 ---
 
@@ -127,39 +132,38 @@ __Rush Hour__ was a Sinatra app that utilized ActiveRecord to track web traffic,
 ### Gear Up
 #### Getting Better At Difficult Things
 
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
+This module's Gear Ups were honestly the best ones I've been a part of so far at Turing. You can really tell how much care and work Beth puts into each session, and I felt the discussion at every one was very productive and informative. I especially appreciated the showing of CODE and how the men of Turing who attended showed their honest concern in learning how to become better allies and show support. It just goes to show how strong the community at Turing as a whole is and I couldn't be more proud of being a part of.
 
-(takeaways from session)
+* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
 #### There Is An I In Team
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
 
-(takeaways from session)
-
 #### CODE:Debugging the Gender Gap
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
-
-(takeaways from session)
 
 ---
 
 ### Professional Development Workshops
 #### Finding Opportunities with Lia
 
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://gist.github.com/j-sm-n/aa154cc6fc9f89a1b4076510c52d93c5)
 
-(takeaways from session)
+I always feel very fortunate to have someone as informed and well communicative as Lia as our Partnerships Manager and her professional development workshops were anything but disappointing this mod. Her tips on how to make connections through LinkedIn were super helpful and I plan on using them for as long as I'm a working professional (so for a very long time, hopefully).
 
 #### Collaborative Communication with Allison
 
 1. Details on project management strategies you used in your projects Rush Hour and/or Little Shop); What went well? What didn’t go well?
+  * Thanks to my discussion with Allison during this session, I reinforced the good habit of trying to stop storming as soon as it is recognized for what it is and deliver precise, constructive feedback when I can. Communication was strong in our Rush Hour group up until the last day, and we could have worked on more direct feedback rather than succumb to passive aggression. It was an excellent learning experience and helped me in Little Shop.
+
 2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+  * I practiced coming across less impatient when listening to others explain their thinking. The focus of practicing active listening really, really helped with that, too.
 
 #### Networking with Lia
 
-(takeaways from session)
+Again, this was another awesome session that I felt was extremely helpful for when I'm prepared to really start reaching out to companies. Networking in person can always seem very daunting at first, but I appreciated Lia's focus on making it seem way more approachable for the rest of my cohort.
 
 ---
 
@@ -181,21 +185,24 @@ During Little Shop, Jean was invaluable asset as a group partner and was very go
 
 ### Being a Community Member
 
-(Feedback to me)
+>Feedback from Sonia:
+Jasmin was such a pleasure to work with. Rush Hour moved like clockwork due to her excellent project management skills. Our group was cohesive and collaborative, and she really helped keep us on track. She has a depth of knowledge and understanding that is truly impressive, and I learned a lot from her. On a personal level, Jasmin has proven herself to be kind, empathetic, and mature beyond her years. She has considerable emotional intelligence and approaches problems calmly and with reassurance for all involved. I hope I get the opportunity to work with her again, and I’m really glad to know her.
+
+>Feedback From Raphael
+I paired with Jasmin during our Little Shop Project (also know as GoodGrocers). Her leadership as the project manager, and her skills when it came down to coding and styling the website page goes beyond what I could possibly put into words. At the moment, the only constructive feedback I can give Jasmin, is to delegate more some of the responsibilities, towards the end of the project I felt that she took on a lot, and maybe it was something that we could have shared as a group (again, easy said than done since we all had something going on). It was honestly a great pleasure working with her and I have a lot of admiration and respect for her organization.
 
 ### Playing a Part
 
 #### Golick Posse
-- a blurb about what I did with my posse over this Module
-- my favorite thing about the posse experience
-- how has my experience with Golick helped me grow as a professional?
+- My side project for the module was to teach myself the basics of DevOps and I can proudly say that I was able to accomplish that goal. Bring on that build automation! I was also able to tie this into my lightning talk for this module and hopefully taught my classmates some useful knowledge for down the road.
 
 #### Other
-- Paring with Mod1 students
-- Friday Spike on Git and Github with Ben Pepper
-- SAB - tried to attend as many staff retros as I could in order to ensure 1606-BE was well heard and well informed
-- Continue to tweet about my experience at Turing
+- Pared with Mod1 students 7 times
+- Lead a Friday Spike on Git and Github with Ben Pepper
+- SAB representative - tried to attend as many staff retros as I could in order to ensure 1606-BE was well heard and well informed
+- Continued to tweet about my experience at Turing
 - Attended a Hackathon--Hackthe.News--and participated on an all-Turing team that snagged third prize
+- Was a lead student-facilitator during the CODE:Debugging the Gender Gap Gear Up and helped ensure collaborative communication during group discussion
 
 ---
 
