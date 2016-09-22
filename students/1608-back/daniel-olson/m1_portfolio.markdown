@@ -279,6 +279,10 @@ markdown are this. Designing an attractive and appealing website is key to getti
 the attention on you. Not only that but it's a great place to show your creativity.
 
 #### Strengths Finder
+https://github.com/blackknight75/portfolios/blob/master/students/1608-back/daniel-olson/Daniel%20Olson%20GallupReport.pdf
+I really liked filling out this strengths assessment. It Opened my eyes about how I'm thinking about myself
+and how I can use my strengths to assert what I know to squash my doubts. It was empowering to see these results
+and renewed my resolve for following through with this new career path.
 
 ## E: Feedback and Community Participation
 
@@ -286,30 +290,30 @@ the attention on you. Not only that but it's a great place to show your creativi
 
 ### To Students:###
 
-*Brett Rivers*
+*Brett Rivers::*
 Brett was an awesome addition to the team. He is very knowledgeable in many areas
 and is eager to share what he has learned. This outgoing personality allowed us to
 collaborate and assert our learning with each other all throughout the mod. He has
 a great sense of humor that definitely helped during those tough times. Brett is a
 welcomed addition to any team!
 
-*Jason Conrad*
+*Jason Conrad::*
 Jason is an awesome addition to any team. His willingness to help and reach out to
 those in need is always welcomed. His lighthearted sense of humor and encouraging
 spirit helped me through some tough times in the module. We worked feverishly on
 event reporter together and his resolve never waned.
 
-*Megan Talbot*
+*Megan Talbot::*
 Megan and I were partners for SAB. She was so creative and proactive in all aspects
 of our responsibilities. She was always open to new ideas and gave constructive criticism
 were needed. She will be awesome as a continuing representative in mod 2.
 
-*Robbie Smith*
+*Robbie Smith::*
 I really enjoyed Dan's presence during the module. His openness is very welcoming
 and he is always attentive when he is speaking with you. He was also eager to be
 of help and serve others. He's a good dude to have around.
 
-*Ryan Travitz*
+*Ryan Travitz::*
 I was very fortunate to be able to work with Ryan Travitz on Headcount. It was an
 absolute pleasure to work with him throughout this project. Ryan’s work ethic and
 teaching ability is second to none. He would constantly check in with me for
@@ -336,7 +340,7 @@ I think as a community we could do better with the safe space and listening to o
 opinions even if they are against the grain. We wont always agree but we can respect each other.
 
 ### Being a Community Member
-Mark Miranda
+Mark Miranda::
 Dan is always a pleasure to pair with. He has this hunger to understand everything
 that's going on and is very aware of the topics that he may be behind or lacking
 on and always wants to improve on them. He has an infectiously positive attitude
@@ -345,7 +349,7 @@ desire to challenge himself is amazing to watch, especially in seeing his growth
 in breadth of knowledge over the last 6 weeks. He's a great person and I'm excited
 to see the things he can accomplish over the next few modules.
 
-Ryan Travitz
+Ryan Travitz::
 I had the opportunity to work with Dan on Headcount, affectionately described on
 its Github template repo as "a whopper of a project." Throughout what was sometimes
 a trying experience, Dan was a very supportive partner. I appreciated his work ethic
@@ -354,20 +358,20 @@ We re-DTR’d several times—not for anything negative, but rather just to make
 that we remained on the same page. Without his commitment to communicating clearly
 and effectively, I’m sure our partnership would not have gone as smoothly.
 
-Megan Talbot
+Megan Talbot::
 Dan was my partner as an SAB rep this module, and I couldn't have asked for a better
 teammate. He was always around to bounce ideas off of, and he was supportive of any
 idea of mine. I will miss him next module! But I know he will be a huge asset to his
 new classmates, just as he was to us.
 
-Jason Conrad
+Jason Conrad::
 Dan was a great addition to the community. He advocated for our module in the SAB
 and was always interested to hear how we felt about things and how we were doing.
 He was also always available to help with things that we may not understand and
 there was many a time where we were here late at night working out similar issues
 together. He definitely made the community and overall experience far more pleasant.
 
-Brett Rivers
+Brett Rivers::
 Dan is a great community leader as half of 1608-BEs SAB, he is easily approachable
 to discuss issues regarding the module and it is apparent he cares about the module.
 He is also an excellent community member and cares about discussing individual's
@@ -377,7 +381,7 @@ personal issues.
 
 Was a member of SAB and did my best to convey the best interests of my cohort.
 
-Actively volunteered to help setup rooms when there we special events.
+Actively volunteered to help setup rooms when there were special events.
 
 Reached out to students who needed help to reassert my learning and continue the
 helping and giving nature of the community here.
