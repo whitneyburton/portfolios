@@ -249,6 +249,28 @@ I liked that we had to practice networking in this lesson. It really gave us som
 
 * The constructive advice I would give Jesse would be to be mindful about managing stress regarding project deadlines. He never let it get in the way of the project, but could become distracted at times when overhearing other groups discuss how far along they were on the project. If he can accomplish this, he will be unstoppable.
 
+#### Feedback for Bryan Goss
+* This is the first time that I have worked with Goss, and it was a great experience. Goss is not only an adept programmer, but he is also very
+personable and easy to work with. He naturally guided our workflow toward agile, he seemed to always create one thing at a time, and not move on to the next
+feature until some effort has been taken to refactor. In real-time it just seemed like we were getting work done, but at the end of the project,
+we realized that there weren't many refactoring opportunities since we had already been taking a significant effort to refactor during each feature. Our
+project was very easy to navigate and edit, and alot of the credit for this goes to Goss. He is very knowledgeable about shortcuts and best-practices in
+regard to code structure and syntax, and was able to explain his thought process in great detail. Goss was conscientious both when giving and receiving
+advice or instructions to other members, and was accomodating of the rest of the group members schedules and needs.
+
+* The only constructive advice I could think to give Goss is regarding styling. He is actually quite good at using HTML, but often expressed his disdain for CSS
+and styling in general. While this is not an area that necessarily requires any sort of change on his part, it is an area in which some growth could be made.
+
+#### Feedback for Chase Dunagan
+* Having worked successfully with Chase before on Night Writer, it was easy to get right into the Norming/Performing stage. We get along well personality wise,
+and I was excited to get to work with Chase again. Chase is a great team member and collaborator, and has a knack for noticing fine details. 
+He facilitatedand sought out collaboration both when driving and when navigating. He also contributed alot to the chemistry of the group by keeping things 
+light-hearted by cracking jokes and maintaining a positive attitude. Chase was instrumental in d-bugging code, often noticing error where the other group
+members could not.
+
+* Chase actively sought to drive and contribute in areas that he did not have much experience. I would challenge Chase to continue to do this, as well as take 
+some time to do some extra exercises and practice, it will only serve to give him more experience and expand his abilities as a programmer.
+
 ### Being a Community Member
 
 #### Feedback for Brian (From Jesse Spevack)
