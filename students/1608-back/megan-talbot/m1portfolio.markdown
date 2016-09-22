@@ -147,12 +147,23 @@ Megan, right off the bat we seemed to work really well together and at a similar
 Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her. (to Erin Pintozzi)
 
 
+
+
 #### Head_Count
 
 [GitHub URL](https://github.com/meganft/headcount)
 [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 Headcount is a project that had us load and organize large data sets.  We accessed statewide public education information to analyze trends. In order to do so, we built structures to organize, hold, and assess these data sets in this project. 
+
+
+*Feedback from Brad*
+
+I appreciate that we did a DTR and established the ways in which we best work together. It seems as though neither of us are divide-and-conquer types, so I'm glad that we established as much and were able to find times to work together in person. You're extremely dedicated and hard-working, and I really enjoyed working with you on this project. As for advice, I'd just be careful that frustration over code doesn't inadvertenly get directed at your partner. At times I felt like I was upsetting you, but I think it was just general frustration with the project, which is completely normal.
+
+*Feedback to Brad*
+
+Brad was a very good partner. We established our team dynamic early, and I think we were able to stick to it. The project was very challenging, but I believe we were well matched. If I can give any advice, I would say Brad needs to work on expressing his thought process aloud rather than thinking to himself. It was very hard to tell what he was thinking because he tends to process inwardly first. This made it hard for me as a partner, because I ended up feeling silly asking the questions so often and having to push for that conversation. Other than that, good work!
 
 
 
@@ -200,7 +211,7 @@ At the beginning of this module, I didn't realize how important learning to pair
 * [Workshop URL](https://github.com/turingschool/professional_skills#personal-branding-1)
 * [Link to Completed Deliverables](https://www.linkedin.com/in/megan-talbot)
 
-I really enjoyed the Personal Branding workshops. The first one focused on how we will begin to rebrand ourselves in our careers as software developers. As a result of this, I began prelimilary changes on my LinkedIn profile (linked above). Such changes include updating my title to "Software Developer", ensuring I had a profile picture, and getting a personal url link.  I leanred that these small changes are very impactful to future employers, and will be the first of many steps to propely brand myself. 
+I really enjoyed the Personal Branding workshops. The first one focused on how we will begin to rebrand ourselves in our careers as software developers. As a result of this, I began prelimilary changes on my LinkedIn profile (linked above).  Thre rest of my deliverables (updated resume and LinkedIn) will be complete by the second week in module 2, per instructions. The already compelted changes to LinkedIn include updating my title to "Software Developer", ensuring I had a profile picture, and getting a personal url link.  I learned that these small changes are very impactful to future employers, and will be the first of many steps to propely brand myself. 
 
 
 #### Personal Branding Part 2
