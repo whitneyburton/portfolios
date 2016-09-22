@@ -59,6 +59,21 @@ JS Style: 3
 Workflow: 4
 Code Sanitation: 4?
 
+#### Shoot The Breeze
+
+* [GitHub URL](https://github.com/kylem038/react-chatroom)
+* [Original Assignment](http://frontend.turing.io/projects/shoot-the-breeze.html)
+
+Spec: 3
+Architecture: 3
+UI: 3
+CSS/SASS: 3
+JS Style: 3
+Testing: 3.5
+Workflow: 3
+Code Sanitation: 3
+Design: 3
+
 ## Community
 
 ### Giving Feedback
@@ -87,7 +102,7 @@ Gabi Procell - Kyle has been a huge help with my OOP woes during mod 1. I often 
 
 ### Playing a Part
 
-I really enjoyed pairing with mod 1 this time around. It's great to work through a complex problem and see the lightbulb go off. Additionally, not only was I able to help other students but pairing helped me cement some concepts that I didn't know I needed to work on. I look forward to continue helping both Mod 2 & the new Mod 1 next mod. 
+I really enjoyed pairing with mod 1 this time around. It's great to work through a complex problem and see the lightbulb go off. Additionally, not only was I able to help other students but pairing helped me cement some concepts that I didn't know I needed to work on. I look forward to continue helping both Mod 2 & the new Mod 1 next mod.
 
 ## Review
 
