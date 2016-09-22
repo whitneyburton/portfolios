@@ -119,8 +119,7 @@ Scoring Wk5: 150/150
 
 * Take Aways:
 
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+  * The stark figures presented in this film is a clear indication of the change that needs to happen within this industry. The under representation of women in tech certainly has systemic effects and damages the community and its future. While I have not been exposed to the gender gap within the tech industry, Turing's environment of a relatively balanced male:female ratio will certainly not be emulated in my first job, which will be a severe disappointment. After I familiarize myself with the industry and assess potential opportunities to welcome and encourage more females into tech positions, I will do so.  I know I thrive in a balanced, diverse environment, and I'll challenge and question whomever believes in the orthodoxy that programming is for men.   
 
 
 ### Professional Development Workshops
@@ -150,9 +149,13 @@ Scoring Wk5: 150/150
 
 Feedback to Marcella (Gametime):
 
+Marcella is a very strong programmer and incredibly hard working individual.  She gladly accepts any duty delegated to her, and will not rest until she figures out whatever challenge she's working on. I have worked with her on multiple projects while at Turing, and she always continues to produce high quality work with a can-do attitude. It has been great to work with Marcella, she thrives independently and in a group setting.
+
 ### Being a Community Member
 
 Feedback From Marcella (Gametime):
+
+Nick offers rare talent when it comes to programming: strong problem-solving skills and strong collaborative communication skills. I have been fortunate enough to work with him on two projects, and have been impressed with his strong problem-solving skills, the consistency of his contributions to projects (he delivers throughout the duration of the project), and his ability to provide constructive, actionable feedback. His dedication to projects has pushed me to work harder, and I am confident he would be an asset to any team he joins.
 
 ### Playing a Part
 
