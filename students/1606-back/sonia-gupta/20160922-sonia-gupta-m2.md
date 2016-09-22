@@ -73,23 +73,23 @@ We had two team projects this module, one which focused on data associations and
 
 ### Rush Hour
 
-* [GitHub URL]
-* [Original Assignment]
+* [GitHub URL](https://github.com/tgisg/rush-hour-skeleton)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
-__Project__ description.
+Rush Hour mimicked a traffic analysis tool and taught us about the HTTP request-response cycle while developing our understanding of complex data associations.
 
-(Feedback from team)
+From Jasmin Hudacsek: Sonia was an absolute pleasure to work with on Rush Hour. Even though she had worked on the project before, she didn’t let her prior experience steal her other teammates’ learning experience at all. She was very communicative and clearly expressed when she was happy or concerned about our progress. While she sometimes doubts her own skills and internalizes these sentiments to her depriment, her working through this while working on Rush Hour also helped me realize that I am sometimes blind to my communication style and how it could also be improved. I would be lucky to have her as a partner again moving on to Module 3 and 4. Plus, she still keeps those fridges sparkling clean, and EVERYONE continues to benefit from her rockstar-ness.
 
 ---
 
 ### Little Shop of Orders - The Waddams Emporium
 
-* [GitHub URL]
-* [Original Assignment]
+* [GitHub URL](https://github.com/tgisg/little_shop)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-__Project__ description.
+Little Shop taught us how to build out a web application with full CRUD functionality and complex data associations, user authentication, and authorization. We also developed our styling skills and pushed the application up to Heroku.
 
-(Feedback from team)
+From Susi Irwin: Sonia's passion and commitment to our project, to learning, and to her classmates is incredible. Her collaboration skills are inspiring and working with her in both a group and a pair setting has been such a great experience. She has no fear with just getting her hands into the code and trying something out. Sonia taught me that sometimes the best way to think through a complicated problem is just write some code and see what happens! She is an code-experimenter and it is awesome! If I could offer Sonia one point to work on it would be to work on articulating herself when her frustration starts to kick in. There was one moment during Little Shop where a hidden application file would not show up on her computer and she was getting a bit stressed out about it. I would urge her to not be so hard on herself when things get a little off track. Sonia is so talented and I am just thrilled that I finally got to work alongside her!
 
 ---
 
@@ -110,7 +110,7 @@ I really appreciated this Gear Up's emphasis on the journey involved in getting 
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
 
-I was absent on the date of this Gear Up because of an illness.
+I was absent on the date of this Gear Up due to illness.
 
 #### CODE:Debugging the Gender Gap
 
@@ -167,13 +167,13 @@ I definitely think I could have participated more in the community this module, 
 
 Evaluator: Sal
 
-Conceptual Understanding: 3.5
-Analytic/Algorithmic Thinking: 3
-Feature Completeness: 2
-Rails Syntax & API: 2.5
-Rails Style: 3
-Testing: 3
-Collaboration: 3
+* Conceptual Understanding: 3.5
+* Analytic/Algorithmic Thinking: 3
+* Feature Completeness: 2
+* Rails Syntax & API: 2.5
+* Rails Style: 3
+* Testing: 3
+* Collaboration: 3
 
 ### Posse Involvement
 
