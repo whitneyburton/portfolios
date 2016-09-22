@@ -18,7 +18,7 @@ My goal for this module is to build on the fountaions of Ruby and TDD that I lea
 ## A: End of Module Assessment
 
 (Notes & scores from your assessment rubric)
-Evaluator: Casey
+Evaluated by: Casey
 
 1. Analytic/Algorithmic Thinking
 
@@ -66,8 +66,8 @@ Group projects were the highlight of this module.  I worked on two teams of thre
 
 #### Rush Hour
 
-* [https://github.com/brendandillon/rush_hour](Rush Hour GitHub)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md](Rush Hout Original Assignment)
+* [Rush Hour GitHub](https://github.com/brendandillon/rush_hour)
+* [Rush Hout Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
 Rush Hour was a web app built with Ruby, Sinatra, and Active Record.  It is a tool that aggregates and analyzes visitor data from another website.  Customer data was a payload in the form of a JSON object that we had to accept and anaylize.
 
@@ -105,10 +105,10 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 
 #### Little Shop
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/rdavid1099/little-shop)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-(description)
+Little Shop was an ecommerce site built with Ruby on Rails.
 
 (evaluation comments)
 
@@ -117,30 +117,24 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 (feedback to me)
 
 ## D: Professional Skills
-(Intro)
+This module our professional skills lessons ranged from gender inequality in tech to networking techniques.  As we continue to develop are technical skills it is important not to forget that we will be working with people on teams.  We covered many subjects that will help us be better teammates and better people in general.
 
 ### Gear Up
 #### Debugging the Gender gap
 
-* [https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown](CODE: Debugging the Gender Gap)
+* [CODE: Debugging the Gender Gap](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
 
-(takeaways from session)
+One of the most important things that I learned in this session is how gender inequality in tech begins with society.  From a young age this culture steers boys towards technology and girls away from it.  When this sort of thing happens we start to see the gaps that are present today.  The issue is that this can become a self-fulfilling prophecy.  If we don't see women in tech, we (wrongly) assume that they aren't good at it.  Then they may internalize it and others may treat them as if it's true.  It's important that we recognize this as a society and start making conscious decisions that will help close this gap.
 
 #### There is an "I" in "Team"
 
-* https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown](There is an "I" in "Team")
+* [There is an "I" in "Team"](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
 
-(takeaways from session)
+This lesson was interesting because it introduced the idea that having personal boundries is actually a way to be more empathic to your peers.  It is counterintuitive at first, because it seems like empahty requires you to take on the other person's burden.  But it is good to know you can be empathetic by recognizing the other person and knowing what they are going through without them bringing you down as well.
 
 #### Getting Better at Difficult Things
 
-* [https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown](Getting Better at Difficult Things)
-
-(takeaways from session)
-
-#### (Session Name)
-
-* [GitHub URL]()
+* [Getting Better at Difficult Things](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
 (takeaways from session)
 
