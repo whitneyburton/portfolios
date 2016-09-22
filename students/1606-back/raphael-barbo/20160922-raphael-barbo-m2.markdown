@@ -115,15 +115,16 @@ The main goals for __Little Shop Of Orders__ was to develop a Ruby on Rails appl
 
 | Session        | When         | GitHub URL         |
 | ------------- |:-------------:|:-------------:|
-| Getting Better at Difficult Things|right-aligned|[Repo](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)|
-| There is an "I" in Team|centered|[Repo](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)|
-| Code: Debugging the Gender Gap|are neat|[Repo](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+| Getting Better at Difficult Things|Friday|[Repo](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)|
+| There is an "I" in Team|Friday|[Repo](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)|
+| Code: Debugging the Gender Gap|Friday|[Repo](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
 
 #### Reflection About GearUps
 
 * I believe GearUps are an important part of Turing's identity, and those sessions are of extreme value for those looking to impact the tech industry in a constructive and productive way.
 * In addition to my previous points, I believe that GearUp could be improved with some more actionable approaches.  For example, rather than simply talking about issues (which often times is not that simple), trying throughout a module to come up with real actions that will have an impact in the commmunity, school, and its students.
 * I honestly believe that Beth has improved the quality of the conversations to a whole other level, and I sincerely believe we will see the community engagement grow as the modules progress.
+
 ---
 
 ### Professional Development Workshops
