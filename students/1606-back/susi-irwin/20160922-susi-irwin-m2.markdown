@@ -259,8 +259,7 @@ From **Erin Pintozzi**: "Susi, I don't even know where to begin. I have so thoro
 
 From **Eric Wahlgren-Suro**: "The imposters lunches since week one have given me great comfort in knowing that I’m not alone in this death march to coding success. Before I had my final  assessment for this module, Susi reminded me of familiar techniques to stay calm during the assessment. Although I did not pass my assessment her reminding me to voice my anxiety to Beth made me feel less alone as I worked through the material."
 
-From **Dave Junta**: "
-Susi has been an amazing presence at Turing for a lot of people in Mod 1, especially in the Imposters group.  She brings a humility and warmth to a program that can feel, despite all the great people, quite brutal.  Her sharing of her own experiences, both good and bad, has been a great source of support for fellow Imposters like myself.  Lastly, I’m always amazed but not surprised how everyone, even those not in Imposters, seems to know and love her."
+From **Dave Junta**: "Susi has been an amazing presence at Turing for a lot of people in Mod 1, especially in the Imposters group.  She brings a humility and warmth to a program that can feel, despite all the great people, quite brutal.  Her sharing of her own experiences, both good and bad, has been a great source of support for fellow Imposters like myself.  Lastly, I’m always amazed but not surprised how everyone, even those not in Imposters, seems to know and love her."
 
 ### Playing a Part
 
