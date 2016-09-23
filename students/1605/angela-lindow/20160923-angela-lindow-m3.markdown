@@ -56,7 +56,7 @@ For my self-directed project, I completed part 1 of the MVP for OpenDoorLLC. It 
 
 * [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
 * Private Repo, no link available
-* [OpenDoor]()
+* [OpenDoor](https://opendoor-llc.herokuapp.com)
 
 * **1: Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
 * **2: Organization**: 4: Developer used a project management tool and updated their progress in real-time.
@@ -117,7 +117,7 @@ I also appreciate your equally thoughtful feedback, but it sometimes feels like 
 
 * To Lin - Lin, your talent for design was so impressive! The platform recipient management page was my favorite one. And the quality of your code was great. You were very thoughtful about where things were placed and seemed very aware of how pieces were interacting. Whenever we worked on things together, you offered great suggestions that were creative. In the future, something to work on would be communicating more with the group about what you're working on, and/or sharing resources and encouraging a cohesive design.
 
-## Community
+## Professional Development
 
 ### Gear Up responses
 
@@ -130,6 +130,16 @@ While I enjoyed the discussion with the other two people in my group because I l
 **Getting Better at Difficult Things**
 I think I am somewhat emotionally detached from my learning process, and that is probably to my benefit. When I am struggling with a concept or a feature, I can feel frustrated, but I don't feel sad or disappointed in myself or get sucked into thoughts like "I'm not good enough"/"Why am I even trying". But when I make a great leap in understanding, I make sure to celebrate. As far as what my action could be as a result of this gear up, I could continually strive to be more conscientious of the fact that some people do have emotional reactions to their workflow, and my experience with them could go better if I try to be understanding of that.
 
+### Professional Development Workshops
+
+**Flower Exercise**
+This was a session meant to find our strengths and define our goals as they relate to beginning a career as a developer. I think my biggest takeaway was a discussion I had with a couple classmates about what kind of salary we should expect for ourselves. I find it interesting how much it varied. I think there is a tendency for us to think we can't or shouldn't ask for as much money as someone with a 4 year degree, but that is not true.
+
+**Tech Interview Discussion from Ryan Tyer**
+I felt that this was one of the most valuable sessions we have had. It is intimidating to think about what it is like to go through a technical interview, and Ryan's talk went over the process in pretty great detail. I also loved that he not only talked about what questions we might encounter, but also the goal or driving force behind those questions.
+
+## Community
+
 ### Leading Golick Posse
 
 I co-led Golick Posse with Roberta Doyle this module. While module 3 is an extremely busy/stressful module, I was able to dig up some resources for open source contributions. The most notable one was an RPG framework which a few people contributed to. I was worried that no one would be excited or interested in contributing to an open source project, but my takeaway from that was that people were appreciative of me spending the time finding a simple project to start with and people can be excited if you put in the effort to give them something approachable. We also practiced understanding documentation as we worked with the Amazon Dash button. We were never able to get it functional, but I'm excited to continue working on this and hope that we can get more interest/ideas about what to do with it next module.
@@ -141,6 +151,9 @@ I was voted on to SAB for this module, and I have very much appreciated the oppo
 ### Kids Who Code
 
  I help George with Kids Who Code every other Saturday! I love it. Those kids are brilliant and it is super exciting to be a part of a team that wants to nurture their desire to learn about code. And they're all *so* excited to show you what they've come up with. I wish more students helped out with it!
+
+### Couples Support Group
+I recently came up with the idea of having a monthly evening where students/alumni and their SO's can have a light dinner and socialize about the experience of Turing. It would hopefully give some SO's some context regarding how lonely they fill and also give them an opportunity to engage at a Turing event without the awkward feeling of not knowing how to contribute meaningfully to discusses that are tech related.
 
 ### Pre-work Guide
 
