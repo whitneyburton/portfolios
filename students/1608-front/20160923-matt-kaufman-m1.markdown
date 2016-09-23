@@ -292,7 +292,7 @@ I think I help others with their code quite often. I like to help people and get
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
 
 #Feedback for Lacey
 
