@@ -255,8 +255,17 @@ Impostors Lunch: I was a co-leader of the Impostors Lunch where we discuss issue
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+* Personal project was a sucess. Worked really hard hit all goals and worked hard. 
+* Group project went well. Small interpersonal issues in the pivot. Came out of the project feeling really strong. 
+* Good collaboration in all group projects
+* Able to ship a good product everytime no matter the issues
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
