@@ -30,8 +30,8 @@ Collaboration 3: Developer lays out their thinking before attacking a problem an
 #### Color Changer
 
 https://github.com/adam-rice/color-changer-rice
-* **Specification**
-* The application will have the following:
+**Specification**
+The application will have the following:
 A default window background color of white
 Two buttons
 One that sets a random background color that cannot be white
