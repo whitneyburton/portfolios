@@ -6,8 +6,8 @@ Aside from building a good foundation in ruby, my secondary focus was trying to 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 2.8
-* **B: Individual Work & Projects**: 2.8
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
