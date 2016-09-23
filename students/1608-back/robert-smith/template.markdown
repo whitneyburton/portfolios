@@ -246,7 +246,12 @@ This covers some of the concepts that we covered to help us work better within t
 
 https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown
 
-This was a good Gear Up. I've been involved in a lot of different types of teams, and I think that reflecting on the various teams and how they worked was valuable. I think that this reflection helped me to determine which path I would like to take here at Turing and beyond.
+This was a good Gear Up. I've been involved in a lot of different types of teams, and I think that reflecting on the various teams and how they worked was valuable. I think that this reflection helped me to determine which path I would like to take here at Turing and beyond. One thing I would like to add is that I think team work here at Turing involves me having to try to explore my feelings more, because we are all going through this process together and we should explore the areas that make us uncomfortable.
+
+#### Getting Better at Difficult Things
+https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown
+
+While I appreciated the idea behind the gear up, I personally did not get a lot out of it, however I think that to subject is important and should be brought up especially for the new students. I felt like the core of the material was about not giving up (grit) and pushing through "bad" feelings and into success. 
 
 
 ### Professional Development Workshops
@@ -292,7 +297,7 @@ Robbie is a an intelligent and careful programmer, always willing to discuss a p
 
 ### Playing a Part
 
-This module, I did not play as much of a part as I felt like I could. While my focus this module was to lay a good foundational framework in programming, I attempted where I could to give back. Some examples include: replacing toilet paper when I noticed it was empty, replacing paper towels, replacing sugar when it was empty, picking up trash and/or dishes when I noticed that were left out. I also gave people rides home(when I drove) so that they didn't have to walk or use the bus..etc. For module 2 I would like to give back by pairing with new module 1 students.
+This module, I did not play as much of a part as I felt like I could. While my focus during this module was to lay a good foundational framework in programming, I attempted where I could to give back. Some examples include: replacing toilet paper when I noticed it was empty, replacing paper towels, replacing sugar when it was empty, picking up trash and/or dishes when I noticed that were left out. I also gave people rides home(when I drove) so that they didn't have to walk or use the bus..etc. For module 2 I would like to give back by pairing with new module 1 students.
 
 ------------------
 
