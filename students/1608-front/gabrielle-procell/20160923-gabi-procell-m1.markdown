@@ -251,5 +251,4 @@ She is a super positive member of the community and her compassion for the Turin
 
 ### Outcome
 
-( Leave blanks for reviewers )
-Â
+PASS
