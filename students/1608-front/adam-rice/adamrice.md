@@ -29,9 +29,9 @@ Collaboration 3: Developer lays out their thinking before attacking a problem an
 
 #### Color Changer
 
-(https://github.com/adam-rice/color-changer-rice)
+https://github.com/adam-rice/color-changer-rice
 * **Specification**
-The application will have the following:
+* The application will have the following:
 A default window background color of white
 Two buttons
 One that sets a random background color that cannot be white
@@ -45,9 +45,9 @@ Module One projects including Number Guesser, Linked List, IdeaBox and Game-time
 
 #### Number Guesser
 
-(https://github.com/adam-rice/number_guess)
+https://github.com/adam-rice/number_guess
 * **Specification**
-Phase One: Basic Requirements
+* Phase One: Basic Requirements
 The application should have the following user interface components:
 -An input field for guessing the number
 -A button for submitting a guess
@@ -76,9 +76,9 @@ Fundamental JavaScript Style
 
 #### Linked List
 
-(https://github.com/adam-rice/linked_list)
+https://github.com/adam-rice/linked_list
 * **Specification**
-In it’s simplest form, the application should have the following:
+* In it’s simplest form, the application should have the following:
 Two input fields
 One for the title of the bookmark
 One for the URL that the bookmark should link to
@@ -117,9 +117,9 @@ Workflow
 
 #### IdeaBox
 
-(https://github.com/adam-rice/IdeaBox)
+https://github.com/adam-rice/IdeaBox
 * **Specification**
-An Idea has an id, title, a body, and a quality.
+* An Idea has an id, title, a body, and a quality.
 The id should be a unique identifier.
 title and body are free-form strings.
 quality should be one of the follow: “genius”, “plausible”, and “swill.”
@@ -156,9 +156,9 @@ Workflow
 
 #### Game-time
 
-(https://github.com/adam-rice/Lingo)
+https://github.com/adam-rice/Lingo
 * **Specification**
-Use design patterns to drive both the design and implementation of code
+* Use design patterns to drive both the design and implementation of code
 Separate business-logic code from view-related code
 Use test-driven design to build a client-side application
 
