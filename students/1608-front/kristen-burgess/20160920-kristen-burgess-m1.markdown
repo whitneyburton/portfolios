@@ -10,11 +10,11 @@ I'm so excited to move forward!
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.2
+* **C: Group Work & Projects**: 3 / 2.95
+* **D: Professional Skills**: Skip
+* **E: Feedback & Community Participation**: 2.8
 
 -----------------------
 
@@ -179,4 +179,4 @@ I don't feel like I did an optimal job of participating in the Turing community 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
