@@ -7,7 +7,7 @@ Module 1 has been all about learning to actually do the thing -- to write code t
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
