@@ -5,11 +5,11 @@ I wanted to code every day and become proficient with CSS, HTML, as well as Java
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3+
+* **C: Group Work & Projects**: 3+
+* **D: Professional Skills**: Skip
+* **E: Feedback & Community Participation**: 3+
 
 -----------------------
 
@@ -132,4 +132,4 @@ I love this shit and am excited to pair with mod1 students next module.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
