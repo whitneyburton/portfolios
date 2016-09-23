@@ -150,6 +150,27 @@ Karina - Your code contributions are smart and invaluable to our project. Your w
 * I paired with mod one students
 * I was a Pre-work guide
 * I volunteered at the Boys and Girls club Cope program in an effort to start a partnership between them and Turing.
+* 
+
+### Gear Up
+
+#### Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+
+I thoroughly enjoyed watching this movie-- I specifically remember feeling excited that Black Girls who Code was a thing. I was in the group of people wanting to do something about it in our community-- we separated into smaller groups within our group and within mine, there was a majority of men.  I remember deeply appreciating how attentive they were when we spoke, we all practiced active listening and that made for a space where we all felt free to express our opinions on the lack of gender diversity in tech. 
+
+#### There is an I in Team
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
+
+I wasn't able to attend this session, I was still in the process of moving int he beginning of this module.
+
+#### Getting Better at Difficult Things
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
+
+I wasn't able to attend this session, it was labor day weekend and family had a weekend camping trip planned. I let all of my classmates now in our private channel as well as the instructors. 
 
 ## Review
 
