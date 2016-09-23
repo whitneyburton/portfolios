@@ -10,7 +10,7 @@ In module one I set out the learn Ruby. The progress I have made throughout the 
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 2
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
