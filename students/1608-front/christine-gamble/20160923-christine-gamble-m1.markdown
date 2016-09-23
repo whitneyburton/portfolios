@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I am really excited to be a part of the front-end program. I've been around at Turing for a little while, but so far this is a much better fit for me. I hope to continue my success in this program. My health is something that has impacted me in the past at Turing, and I am hoping I can find ways to move forward and be successful in the front-end program despite these issues.
 
 ## Rubric Scores
 
@@ -28,7 +28,7 @@ There were two individual projects this module. Color changer was a one night pr
 
 #### Personal Portfolio Site
 
-* [GitHub URL](https://ccgamble.github.io/personal-portfolio/)
+* [Project Site](https://ccgamble.github.io/personal-portfolio/)
 * [Original Assignment](http://frontend.turing.io/projects/portfolio-first-draft.html)
 
 The portfolio site is an opportunity to make a first impression, and share your personality, skills, projects, resume, and contact information in one place.
@@ -40,14 +40,14 @@ The portfolio site is an opportunity to make a first impression, and share your 
 * [Project Site](https://ccgamble.github.io/color-changer/)
 * [Original Assignment](http://frontend.turing.io/projects/color-changer.html)
 
-(description)
+Color changer was a one night solo project. The goal was to create a site that had a default background color of white. One button on the page randomly set the background to a different color. The other button reset it back to white.
 
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+There were four group projects this module: Number guesser, Ideabox, linked-list, and game time.
 
 #### Game Time
 
@@ -55,7 +55,7 @@ The portfolio site is an opportunity to make a first impression, and share your 
 * [Project Link](https://rcwestlake.github.io/2048/)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-(description)
+This project involved building a game that is playable in the browser. The goals were to use design patterns to drive both the design and implementation of code, separate business-logic code from view-related code, and use test-driven design to build a client-side application.
 
 ##### Evaluation comments:
 - be comfortable breaking logic into other classes or functions
@@ -82,7 +82,7 @@ From Ryan: I had the pleasure of working with Christine for the Gametime project
 * [Project Link](https://ccgamble.github.io/ideabox/)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+The goal of this project was to build a simple application for recording and archiving our ideas. Once ideas are generated, the user will be able to delete them or increase and decrease their quality. This project focuses on using a fluid and responsive client-side interface, JS and jQuery for filtering, and localStorage so the ideas persist between sessions.
 
 #### Evaluation comments:
 * really good job, well done
@@ -103,7 +103,7 @@ From Hilary: Christine was wonderful to work with on Idea Box. She is very stron
 * [GitHub URL](https://github.com/adam-rice/linked_list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+Linked list is an application that utilizes jQuery. There are two input fields that allow the user to input a title and URL of the bookmark. Once these are created there is a button for mark as read and a remove button. The user is also able to see how a counter with read, unread, and total bookmrks.
 
 ##### Evaluation comments:
 - javascript is looking good!
@@ -117,7 +117,7 @@ From Hilary: Christine was wonderful to work with on Idea Box. She is very stron
 - Fundamental Javascript Style - 3
 - Workflow - 4
 
-(feedback to me)
+From Adam: I worked with Christine on the Linked List project. Christine was a great partner and our final product turned out better than I expected. Christine is a hard worker and took the extra step to break down any solution if I was unclear as to how a specific function was working
 
 
 
@@ -126,7 +126,7 @@ From Hilary: Christine was wonderful to work with on Idea Box. She is very stron
 * [GitHub URL](https://github.com/lrknaff/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+The focus of this project was to build a game where the user inputs two numbers that they want to guess in between. A number is randomly generated in that range, and the game tells them if they are too high or too low until they select the correct one.
 
 
 ##### Evaluation scores:
