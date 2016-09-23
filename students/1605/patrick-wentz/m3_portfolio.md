@@ -302,8 +302,18 @@ Always available to help classmates
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **F: Professional Skills**: 3
+* **E: Peer & Instructor Feedback**: 3
+
+* Scores on the individual project even out - took a good risk - it was a big project and overall it was sucessful 
+* Solid Rails Engine project 
+* Solid group contributor
+* Always Available for help - helps cohort when they have questions. A lot of little things go into community participation. Talk to other lower cohort people, student led sessions. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
