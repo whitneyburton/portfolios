@@ -244,3 +244,16 @@ You are an extremely strong coder and super productive. Sometimes your pace feel
 * Pahlka Posse - Healthy eating game project
 * Productivity lunches
 * Cheerleader/partner for Jenny's new support group
+
+
+
+Notes:
+
+* End of module: 3
+* Individual Works and projects: 3
+* Group Projects: 3
+* Community Participation: 4
+* Peer and Instructor Feedback: 3
+
+
+
