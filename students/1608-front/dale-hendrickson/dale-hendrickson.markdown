@@ -127,6 +127,8 @@ Code Sanitation: 3 - Five or fewer complaints
 ##### Feedback from Ryan Westlake
 We had the pleasure of having Dale join our team mid-way through the project. He was able to quickly get comfortable with the layout of our code and our progress in the project. While it can be difficult to not have the benefit of context, Dale did an amazing job of being a valuable contributor right away. He has an analytical mind, which was helpful as we worked through several bugs. I hope I have the pleasure of working with Dale again, and trust he will be very successful in the program and with whatever company is blessed to hire him.
 
+##### Feedback from Christine Gamble
+Dale joined Ryan and I on Gametime, and I am really glad he did! Ryan and I worked closely with Dale before he officially joined the team since we were doing the same game. I was incredibly impressed with how thorough Dale thought out the approach.  His attention to detail made a great difference in how we wrote our code. When he joined our team he was able to jump right into our code, and did some great work, especially with finding bugs and refactoring.  I look forward to working more with him.
 
 ## E: Feedback and Community Participation
 
