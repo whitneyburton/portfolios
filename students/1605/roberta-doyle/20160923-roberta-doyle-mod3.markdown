@@ -220,14 +220,24 @@ Roberta, it was a pleasure working with you on the Rails Engine project.  I was 
 * Paired with mod 2 students
 
 
+
 ------------------
 
 ## Final Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+* Personal project was a success: Some lower scores - production ready code and UX - but the feedback was impimented risks were taken
+* Group - pivot - was a tough project. Interpersonal issues and the group was still able to produce and deliver. 
+* Good rails engine project. Overall good group dynamics. 
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
