@@ -178,4 +178,19 @@ I began participating in recruiting events (Denver Startup Week job fair) and I 
 
 ## Take-aways
 
-This module, more than any other, was an exercise in time management and focusing on recognizing when my work approach was inefficient or ineffective. There was also a lot of time to think about principles specific to object-oriented programming - for example: telling rather than asking objects about method returns or attributes, single-responsibility in classes, limiting controller actions and instead using services or PORO's to perform tasks. This was also an opportunity to do some more front-end learning with jQuery and AJAX. I feel like I have a solid understanding of Ruby on Rails and I am able to critically view my own work and identify areas for improvement. I also have a much better ability to design a project at the start so that I don't find myself performing massive overhauls later on. I feel that I have performed my work well, both individually and in projects, and that I am ready for module 4. 
+This module, more than any other, was an exercise in time management and focusing on recognizing when my work approach was inefficient or ineffective. There was also a lot of time to think about principles specific to object-oriented programming - for example: telling rather than asking objects about method returns or attributes, single-responsibility in classes, limiting controller actions and instead using services or PORO's to perform tasks. This was also an opportunity to do some more front-end learning with jQuery and AJAX. I feel like I have a solid understanding of Ruby on Rails and I am able to critically view my own work and identify areas for improvement. I also have a much better ability to design a project at the start so that I don't find myself performing massive overhauls later on. I feel that I have performed my work well, both individually and in projects, and that I am ready for module 4.\
+
+
+Notes:
+
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+
+* Delivered in the personal projects - Final fell a bit short but the personal project really brought things back
+
+OUTCOME:
+Pass
