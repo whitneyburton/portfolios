@@ -266,6 +266,18 @@ I did not receive any feedback from the community.
 
 ### Notes
 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+
+* Final project was not what he expected. 
+* Missed the key points of the project
+* 2 for Individual projects - fell short on the personal project. Didn't quite hit the marks. Technically a solid developer but fell a little short on completetion and scope
+* Suggest focusing on portfolio employer ready
+
 
 ### Outcome
 
