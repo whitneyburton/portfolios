@@ -14,7 +14,7 @@ I'm so excited to move forward!
 * **B: Individual Work & Projects**: 3.2
 * **C: Group Work & Projects**: 3 / 2.95
 * **D: Professional Skills**: Skip
-* **E: Feedback & Community Participation**: 2.8
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
