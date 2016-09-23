@@ -61,7 +61,7 @@ A work-in-progress for a portfolio site to represent myself for life after Turin
 ### Projects
 
 
-#### (Project Name)
+#### Number Guesser
 
 * [GitHub URL](https://github.com/gprocell927/number-guesser-1)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
