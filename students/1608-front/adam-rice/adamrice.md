@@ -58,7 +58,7 @@ The application should have the following user interface components:
 -If their guess is too high, it should display: “Sorry, that guess is too high. Try a lower number.”
 -If their guess is too low, it should display: “Sorry, that guess is too low. Try a higher number.”
 
-Phase Two: More Better
+* Phase Two: More Better
 -The type attribute for the guess input should be “number”.
 -It should have “min” and a “max” attributes equal to the minimum and maximum of the reange of guesses (e.g. 1 and 100, respectively).
 -The application should display an error message if the guess is not a number (e.g. parseInt() returns NaN).
