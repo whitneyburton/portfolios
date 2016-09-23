@@ -41,13 +41,13 @@ dependable member of the team or achieves consistently sub-par work.
 
 ## D: Professional Skills
 
-A Turing student values professional growth and seeks opportunities to continuously improve. 
+A Turing student values professional growth and seeks opportunities to continuously improve.
 
 * 4: Student demonstrates dedication to their professional growth by not only completing the expected deliverable(s) but also pursuing additional opportunities for professional development beyond what is presented in sessions.
 * 3: Student demonstrates satisfactory dedication, understanding, and growth of professional development through their deliverables from PD sessions.
-* 2: Student demonstrates some lack of understanding or growth of professional development through their deliverables from PD sessions. 
-* 1: Student puts minimal effort into deliverable(s), does not follow directions, or is off topic. 
-* 0: Student does not complete the deliverable(s). 
+* 2: Student demonstrates some lack of understanding or growth of professional development through their deliverables from PD sessions.
+* 1: Student puts minimal effort into deliverable(s), does not follow directions, or is off topic.
+* 0: Student does not complete the deliverable(s).
 
 ## E: Feedback & Community Participation
 
