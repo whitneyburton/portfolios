@@ -23,6 +23,7 @@ I aimed to become more comfortable and proficient in Rails, as well as beginning
 4. Utilize multiple classes to help maintain complexity without needing to utilize multiple class methods or class variables
 5. Really good assessment
 
+
 **Evaluation Scores:**<br />
 _Ruby Style_<br />
 **3**: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
@@ -228,7 +229,17 @@ Regularly provided assistance to peers, and played a mentorship role to a module
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+* Good final project - a lot of code written and solid code at that
+* Great group projects - good outcomes and experiences
+* Professional skills and feedback/community participation - did the things, but didn't neccesarily go above and beyong - 3's are good scores
+* 
+
 
 ### Outcome
 
