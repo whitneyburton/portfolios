@@ -40,16 +40,21 @@ I wanted to get a solid understanding of OOP in Javascript this module, and be a
 
 (Intro)
 
-#### (Project Name)
+#### Color Changer
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/gprocell927/color-changer)
+* [Original Assignment](http://frontend.turing.io/projects/color-changer.html)
 
-(description)
+**Description:**<br>
+A small application designed to match a provided comp. The application uses Javascript and jQuery to change the background color when the user presses the "Random" button. The background color resets to white when the user presses the "Reset" button.
 
-(evaluation comments)
+#### Portfolio First Draft
 
-(evaluation scores)
+* [GitHub URL](https://github.com/gprocell927/portfolio-first-draft)
+* [Original Assignment](http://frontend.turing.io/projects/portfolio-first-draft.html)
+
+**Description:**<br>
+A work-in-progress for a portfolio site to represent myself for life after Turing.
 
 ## C: Group Work & Projects
 
@@ -147,7 +152,7 @@ My project (Number Guesser) with Gabi went smoothly, and I felt grateful to have
   4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
   **Feedback to me**
-Awaiting feedback from Kinan.
+During the times we have paired, Gabi has always been pleasant to work with. She is a light-hearted and thoughtful person whose qualities translate well into writing software. During times of high stress, she is able to ground busy energy and be cognizant of when to break and when to keep going. She has consistently presented himself as eager to learn, kind, and well attuned to focusing at the problem at hand. Overall, I can say Gabi will be an asset to any team she ends up on and look forward to our future collaboration during Turing!
 
 #### Game Time
 
