@@ -95,8 +95,6 @@ Jhun's comments:
 
 strong effort. you've established some good rhythms"
 
-From Kinan: TBD
-
 #### Linked List
 
 Partner: Alex Pilewski
@@ -220,9 +218,14 @@ To Lacey: "It was a pleasure working with Lacey. Her knowledge of design is unpa
 
 To Adam: "I really enjoyed working with Adam. We were paired together for Idea Box, which was the most challenging project we'd had to date, and the most challenging project of the mod aside from Game Time. Adam made a lot of excellent suggestions and did a very good job with the design. It was a pleasure and I hope to be paired with him again."
 
+To Devin: "Devin is a great asset to our program. She is a consistently positive presence in our cohort and always strives to bring out the best in her peers. I’ve been happy to be her colleague and friend during this module, and I hope to be paired with her in the future."
+
 In addition to my feedback to former partners for projects, I also offered feedback to others in the form of looking over others' code and portfolio sites at times, speaking up at retros and other group events, and offering tips from time to time on the module Slack channel.
 
 ### Being a Community Member
+
+From Devin: "Graham is always willing to stop what he’s doing and try to help problem solve. I even saw him get up a few times during project work time and go around and ask if everyone was okay or needed help. I’m very appreciative of his efforts to make sure he was answering questions for people when he had the ability to.
+"
 
 In addition to feedback received from project partners, I also learned a ton from 1606ers like Brett and Kyle, who were pairing buddies, as well as Andy, who at one point spent at least an hour and a half going through our Idea Box troubleshooting when he surely had many commitments of his own. That type of dedication serves as an inspiring example for us as we prepare to welcome the new 1610 cohort.
 
