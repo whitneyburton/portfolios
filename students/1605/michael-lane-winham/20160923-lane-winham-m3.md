@@ -292,7 +292,19 @@ You contribute meaningfully to the project, but I think you could have been more
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
+
+
+* Made the right trade offs for the final assessment
+* 2 for individual work - had some problems delivering the final project - had some roadblocks
+* Technically pretty solid at the end of the module
+* Pivot feeback was a good approach. Be direct and honest. 
+* Great outcome
+
 
 ### Outcome
 
