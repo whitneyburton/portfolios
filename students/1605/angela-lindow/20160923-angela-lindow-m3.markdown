@@ -161,7 +161,18 @@ I am a pre-work guide for Amy Kitner, and have tried to provide good feedback fo
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 4
+
+* Group projects had hiccups - like the pivot with group dynamics - but overall sucessful. 
+* Rails engine was a successful project. Delivered high-quality code before the due date. 
+* "Ready to build real things"
+
+
+
 
 ### Outcome
 
