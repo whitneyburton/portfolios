@@ -6,11 +6,11 @@ In this module I wanted to set a strong foundation regarding the fundamentals fo
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2.5
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: SKIP
-* **E: Feedback & Community Participation**:
+* **E: Feedback & Community Participation**: 2.5
 
 -----------------------
 
@@ -250,15 +250,15 @@ During module one I enjoyed attending several of the Turing events. My favorites
 
 ### Notes
 
+Feelings around fundamentals:
+HTML - feels good confident
+CSS - feels confident, needs to review some flexbox
+JS/jQuery - was feeling a bit lost, feels like he wasn’t writing it enough on his own so wasn’t gaining the muscle memory and wasn’t having the confidence to be able to do it on his own.
 
+As he builds confidence, we encourage him to give more constructive criticism in feedback to help his peers improve and grow.
 
-
-<!-- ( Leave blanks for reviewers ) -->
+We encourage Adam to push himself out of his comfort zone, take a more active role in projects and lead his teams. We’re very excited to see Adam push himself and grow in the coming months.
 
 ### Outcome
 
-
-
-
-
-<!-- ( Leave blanks for reviewers ) -->
+Will repeat mod1.
