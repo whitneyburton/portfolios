@@ -379,8 +379,15 @@ I did my best to support the Turing community by:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3 
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+* Personal project was a big success
+* Enjoyed the group projects  - sounds like good dynamics all around
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
