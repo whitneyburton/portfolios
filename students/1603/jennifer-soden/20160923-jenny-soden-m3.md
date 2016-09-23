@@ -290,8 +290,17 @@ activities and does at least one or two above and beyond supports of the communi
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3++
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+* Had a great final evaluation
+* Personal project fell a little short in code quality - but completion made up for that
+* Focus on finishing strong. 
+* Started support group for students
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
