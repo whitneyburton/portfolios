@@ -10,11 +10,11 @@ Going forward my biggest challenge will be the competence in the syntax of the l
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: Skip
+* **E: Feedback & Community Participation**: 3.5
 
 -----------------------
 
@@ -199,4 +199,4 @@ Collaboration
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
