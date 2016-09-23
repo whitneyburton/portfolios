@@ -359,12 +359,16 @@ I think I have always done my best to play a part in the community since it has 
 
 ### Notes
 
-* **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
-* **D: Professional Skills**:
-* **E: Feedback & Community Participation**:
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3 ++
 
+* Good module. Good group projects
+* Individual project fell a little short but overall progress was good. 
 
 
 ### Outcome
+
+Pass
