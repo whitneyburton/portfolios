@@ -209,8 +209,19 @@ __3__ - Project makes good use of ActiveRecord, but drops to ruby enumerables fo
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Peer & Instructor Feedback Community Participation**: 3
+* **E: Professional Skills**: 2.5 
+
+
+* Proud of final product of personal project evene though didn't get to all features he wanted to.
+* Felt like all group projects went really well.
+* Pivot was fun and everyone seemed to contribute. Like to work on the JavaScript for this project.
+* Rails Engine was a tedious project but felt really prepared and comfortable for the project. Even advanced ActiveRecord work. 
+* Feel like got good feedback from groups and giving feedback was a little difficult because team mates were very strong. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
