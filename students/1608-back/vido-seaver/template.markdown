@@ -192,6 +192,10 @@ As my partner in my first paired project, Vido set high expectations for future 
 
 Vido was fantastic to work during our final Headcount project. I learned so much from him as he has a really great understanding of the concepts and depth of material. I liked how honest he wanted me to be with him about what I though of his working style and communication. Outside of our project he was always willing to drop what he was doing to come over an explain an concept that I had trouble understanding.
 
+### Professional Developement
+
+I attended all of the gear ups, and spike classes. Particpated in the conversations, went to a couple things during the during startup week and attended some meetups. 
+
 ### Community
 
 "Vido is one of the top if not the top student in this cohort. In addition to whatever is required under conventional Turing Module 1 program, he usually comes up with pretty sleek and mind-blowing solutions to coding problems his peers have never seen before. Whenever I was stuck in my projects or other exercises he was there to help. He takes his time to explain  what is going on under the hood and it is great to pair up with him to tackle a coding challenge. All in all, I think Vido is a valuable asset to Turing community." -- Alisher
@@ -225,7 +229,7 @@ I did mad dishes, was constantly available to my peers a took part in a couple m
 
 ### Notes
 
-PROVISIONAL 
+( Leave blanks for reviewers )
 
 ### Outcome
 
