@@ -266,4 +266,4 @@ I participated in as many lunch roulettes, speakers and gear ups as possible. I 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+likely will repreat mod1, is going to retake the assessment
