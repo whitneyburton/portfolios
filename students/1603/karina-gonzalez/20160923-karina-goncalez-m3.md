@@ -164,13 +164,14 @@ I thoroughly enjoyed watching this movie-- I specifically remember feeling excit
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
 
-I wasn't able to attend this session, I was still in the process of moving int he beginning of this module.
+I wasn't able to attend this session, it was labor day weekend and family had a weekend camping trip planned. I let all of my classmates now in our private channel as well as the instructors
 
 #### Getting Better at Difficult Things
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
-I wasn't able to attend this session, it was labor day weekend and family had a weekend camping trip planned. I let all of my classmates now in our private channel as well as the instructors. 
+I wasn't able to attend this session, I was still in the process of moving int he beginning of this module.
+
 
 ## Review
 
