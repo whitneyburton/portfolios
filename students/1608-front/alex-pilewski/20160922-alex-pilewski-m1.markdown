@@ -177,6 +177,9 @@ Maia is the bomb. Always exudes kindness and joy (even when she has not had her 
 Feedback to Kinan:
 Kinan was a fantastic member of the cohort and the larger Turing community. Always brings a calm demeanor to the proceedings and did a great job kicking off our group retros. It is obvious Kinan is a very intentional listener and I am certain I would enjoy being paired with him on any project. A+
 
+Feedback to Dale:
+Dale has been a wonderful, wonderful member of the cohort. He is extremely gracious with his time and has helped countless members of our group with git issues time and again. It is easy to notice his excellent work temperament that helps make problem solving and collaboration frictionless. I would be delighted to be paired with Dale on any project.
+
 ### Being a Community Member
 
 Feedback from Kristen:
@@ -196,6 +199,9 @@ Alex and I were paired for the Gametime project. Alex is a very hard worker and 
 
 Feedback from Kinan:
 During the times we spoken during this module, Alex has always held the exact kind of enthusiasm you would want most during times of high stress. His ability to articulate complex social topics, cultural understandings, and current events translates well in tackling complicated technical problems. During our time together, he has held an open ear to many perspectives and is generally very pleasant to around! Alex has consistently presented himself as eager to learn and remain focused at a problem at hand. Overall, I can say Alex will be an asset to any team he ends up on and look forward to our future collaboration during Turing!
+
+Feedback from Dale:
+Alex is great to have in the cohort. He has a great sense humor that helps keep the group in a good mood. From my view, his technical skills are near the top of the class.  He has always been willing to help and to share his knowledge which I have benefited from.  I look forward to pairing with Alex in the future.  I just hope I can keep up with him.
 
 ### Playing a Part
 
