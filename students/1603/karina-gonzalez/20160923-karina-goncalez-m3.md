@@ -185,6 +185,21 @@ I wasn't able to attend this session, I was still in the process of moving int h
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3 - maybe close to 2
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 4
+* **F: Professional Skills**:  
+* **E: Peer & Instructor Feedback**: 3
+
+
+* Final assessment - Felt confident going into it. Testing bug halted some progress. The final scores reflect what was turned in, but overall the developer showed a lot of progress throughout. 
+* Started to help the Boys and Girls club sesssion to help teach them how to code. 
+* Stepping back - planning and breaking things apart to a simpler process could help your process a lot
+* Good learning outcome from the personal project
+* Community outreach A++ really appreciate your efforts to help others
+
 
 ### Outcome
+
+Pass
