@@ -15,11 +15,11 @@ I have a very long way to go, but I am very excited to learn as much as I can ab
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3 
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: Skip
-* **E: Feedback & Community Participation**: 
+* **E: Feedback & Community Participation**: 2.5
 
 -----------------------
 
@@ -249,4 +249,4 @@ For mod2
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
