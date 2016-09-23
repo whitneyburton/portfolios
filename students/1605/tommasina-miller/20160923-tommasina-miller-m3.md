@@ -240,8 +240,22 @@ I volunteered at Hope House, a house in Denver for pregnant teenagers. We walked
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 4
+
+* Personal Project - Challenging project - felt constantly stuck and got a lot of help - A learning win even if deliverable wasn't all there
+* Good documenting the struggles of mod3 personal project
+* Look back at the personal project and analyze what you think the bottlenecks were
+* Group projects - had a strong project for the pivot, if rails engine had gone better the cumulative score may have been better
+* Rails engine may have gone better if went to active record earlier instead of fucusing on writing the sql
+* Writing the SQL was a win. 
+* Has a gap in comfort with testing
+* Leader of Pahlka posse. Coordinating the new app
+* Able to do a lot with a heavy workload :claps: - Very good work this module on the xtras along with curriculum
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
