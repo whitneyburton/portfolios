@@ -24,7 +24,7 @@ Create an understanding of coding fundamentals using Ruby
   - 3: Developer writes tests that are effective validation of functionality, but don't drive the design
 * 4. Workflow
   - 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcut
-* 5. Collaboration
+* 5. Collaboration 
   - 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 * 6. Enumerable & Collections
   - 3: Application demonstrates comfortable use of appropriate Enumerable methods
