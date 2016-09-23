@@ -260,15 +260,20 @@ The one ironic thing about this section is that I was originally in the Hopper P
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
-* **D: Community Participation**: 3
+* **D: Community Participation**: 4
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Took feedback from diagnositic and applied to final assessment.
+* Changed from 3 to 2 for individual work due to completion, but what he was able to pull off code-wise in a short period of time was really solid.
+* Had a hard time with the project management role in The Pivot. Struggled with time management on Rails Engine. Tried to add tests at the end of the project, would like to have him let tests drive the development.
+* Really involved in the community. Really appreciate all of your effort to help other students, and the involvement in DSW. It was so helpful to have you talk to incoming potential students. Thank you!
+* Tends to converse with people more and take the interactions very seriously. Very receptive to feedback.
+* Technically at a good place after this module; however, need to work on project management skills, self-organization, delivering projects, and good workflow on github. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
