@@ -174,6 +174,9 @@ Output from JSHint shows...
 Feedback to Maia:
 Maia is the bomb. Always exudes kindness and joy (even when she has not had her morning cup of joe!) I relish the opportunity to pick her brain and we have had great conversations about the communities we belong to and our responsibilities to them. Very gracious with her attention and I imagine I would enjoy being paired with Maia on any  project!
 
+Feedback to Kinan:
+Kinan was a fantastic member of the cohort and the larger Turing community. Always brings a calm demeanor to the proceedings and did a great job kicking off our group retros. It is obvious Kinan is a very intentional listener and I am certain I would enjoy being paired with him on any project. A+
+
 ### Being a Community Member
 
 Feedback from Kristen:
@@ -182,11 +185,17 @@ I was incredibly lucky to work with Alex on our first project of the module, Num
 Feedback from Matt:
 Working with Alex on IdeaBox was a pleasure. He has a good knowledge of Javascript and is engaging to work with. Alex focuses well, was always on time, and overall super friendly. Our project went smoothly, we had good communication, and he helped me understand more git concepts that I didn't know before. I hope to work with Alex again in the future.
 
+Feedback from Maia:
+Alex is a wonderful member of our cohort.  He’s super smart, funny, and all around pleasant.  He’s willing to jump in and help others and really cares about our community.  His attitude is always positive, and he likes to engage in thoughtful meaningful discussion.  I really enjoy his presence and I look forward to getting to know him better, growing in the program and experiencing Turing together.
+
 Feedback from Graham:
 Alex was my partner for Linked List, the second team project of the mod. From day 1, we seemed to be on the same page; I found that my workflow with Alex was the best of all of my team experiences for the mod. Alex had a lot of insights and has a great sense of humor to boot. I hope we are paired up again in the future.
 
 Feedback from Adam:
 Alex and I were paired for the Gametime project. Alex is a very hard worker and great team player. He was willing to slowly breakdown any problems that he solved if I did not understand how he got to a solution. Alex does not get frustrated easily so it is easy to work with him.
+
+Feedback from Kinan:
+During the times we spoken during this module, Alex has always held the exact kind of enthusiasm you would want most during times of high stress. His ability to articulate complex social topics, cultural understandings, and current events translates well in tackling complicated technical problems. During our time together, he has held an open ear to many perspectives and is generally very pleasant to around! Alex has consistently presented himself as eager to learn and remain focused at a problem at hand. Overall, I can say Alex will be an asset to any team he ends up on and look forward to our future collaboration during Turing!
 
 ### Playing a Part
 
