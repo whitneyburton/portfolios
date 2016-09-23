@@ -95,6 +95,8 @@ Jhun's comments:
 
 strong effort. you've established some good rhythms"
 
+From Kinan: "During the times we have paired, Graham has always been a focused, well-articulated, organized, and thoughtful partner to have. He has consistently presented himself as eager to learn, kind, and very well attuned to the details of work at hand. Overall, I can say Graham will be an asset to any team he ends up on and look forward to our future collaboration during Turing!"
+
 #### Linked List
 
 Partner: Alex Pilewski
