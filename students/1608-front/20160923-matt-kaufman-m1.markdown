@@ -216,7 +216,6 @@ He was open to different approaches and my ideas. If you have JS questions, you 
 He’s also cool.
 
 
-
 <!-- ## D: Professional Skills
 (Intro)
 
@@ -241,9 +240,23 @@ He’s also cool.
 
 (feedback from me)
 
-The Turing program so far has been wonderful. Even though I've been slightly ahead of the curve as far as learning the material, I've felt very good about what I've learned and that I'm being acceptably challenged. I feel like I can be creative while also learning new material.
+#### Feedback for Ryan:
 
-The instructors are great, the general tone is positive and the atmosphere is conducive to learning.
+Ryan was a pleasure to work with. He was well organized, positive and design-oriented.
+He did a great job making our Number Guesser look great and we did almost the entire project together.
+While I may have been a bit further ahead with Javascript, he showed real effort towards making sure he understood all the concepts and even did the project entirely on his own separately. Ryan shows great initiative towards his own learning and is totally dedicated to his craft. I'd love to work with Ryan again, he's very thoughtful, friendly, and great to get along with - the perfect team member.
+
+#### Feedback for Alex:
+
+Working with Alex on IdeaBox was a pleasure. He has a good knowledge of Javascript and is engaging to work with. Alex focuses well, was always on time, and overall super friendly. Our project went smoothly, we had good communication, and he helped me understand more git concepts that I didn't know before. I hope to work with Alex again in the future.
+
+#### Feedback for Ian:
+
+Ian is super organized and a great team member. I learned a ton of cool workflow hacks from him. He knows his keyboard shortcuts and crushes productivity. Ian plans well, and I learned a lot from his up-front planning attitude, even if we diverged from the plans at some point during the project. Ian was really fun to work with and we had a great time working on our game. I'd love to have Ian on a team again in the future.
+
+#### Feedback for Lacey:
+
+Lacey is awesome. As a graphic designer, she knows how to make things look really damn good - and she's always giving others suggestions for design tools to use. She is great to have real, meaningful and positive conversations with, and overall a pleasure to be around. I wish I had gotten to work on a project with Lacey this module. She has a good knowledge of the class material and shows real dedication to the program. I'm looking forward to working with Lacey more and hopefully picking up some of her design chops.
 
 ## Being a Community Member
 
@@ -260,6 +273,10 @@ Matt has been an amazing teammate and a great resource for when you need help ta
 #### Lacey
 
 Matt is an incredibly bright person, but his humble nature is really what makes him stand out in our community. He is always willing to drop whatever he is doing to help others, and truly wants to see every one in the program succeed. He also has a genuinely positive attitude which is evident in our group retros and in his conversations with others. Overall, Matt adds a great dynamic to our community and I’m excited to see him continue to grow in this program!
+
+#### Maia
+
+Matt is a brilliant member of our cohort!  He clearly has the background to be able to pick up the concepts very quickly, but what I really love is his gentle and humble nature, and willingness to jump in and help whenever he is able.  I feel like I can count on him and we haven't even had the opportunity to partner on a project.  He's always there with a supportive and encouraging word, and is definitely willing to jump into anyone's code and work through a challenge.  I look forward to working with him, learning with and from him, and watching what he creates at Turing.
 
 ### Playing a Part
 
