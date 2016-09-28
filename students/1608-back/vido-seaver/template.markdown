@@ -205,6 +205,12 @@ So, Ali’s going to have to get some constructive criticism from someone else c
 
 I was kind of suprised when Alisher asked for some feedback.
 I don't feel like I've worked enough with him to really speak one way or the other on his code.  I think repeating has done him well and really solidified concepts. From what I understand he's a G when it comes to testing which makes sense because he strikes me as being pretty process oriented.  This can be a strength or a weakness depending on the situation.
+### Professional Developement
+The first gear up of the mod we watched a video about cognitive resources. I really liked it because it it broached some topics of learning -  specific examples i remember where training people to sex chickens. The was overall theme was about effective learning patterns and energy use. 
+
+The second gear up was about buying in and we and a discussion about faith or ghosts or something, our team was kinda of disjointed and epitomized what i think what the gear up was getting at - which was how hard it is to function well if everyone hasn’t bought in.
+
+The last gear up we watched the Bridging the gender gap movie. I took some issue with the naming over the groups because one in particular had quite a negative connotation to it. Ultimately i joined the “i’m interested how do i not be part of the problem group”. That movie did a great job at making feel like a terrible person. I think the thing that stuck with me the most was the “death by a thousand paper cuts” line and how easy it is to be careless and contribute to the issues that others face.
 
 ### Being a Community Member
 
