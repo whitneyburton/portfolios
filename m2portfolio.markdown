@@ -1,8 +1,9 @@
-# Megan Talbot - M1 Portfolio
+# Megan Talbot - M2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goals for this mod are: Learn more about the fundamentals of web applications; be able to build a web application  on my own; understand what happens when someone visits a website; improve my use of keyboard shortcuts; build a broader foundation of HTML/CSS capabilities.
+
 
 ## Rubric Scores
 
