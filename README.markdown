@@ -22,9 +22,10 @@ portfolio should be written/submitted
 ### Module 1 (Back-end)
 
 * Individual Assessment: Passing Score (All 3's) required
-* Required Project: Final Project (Headcount / Black Thursday) -- Passing Score (All 3's) required
-* Included Projects: All individual and paired projects
-* Feedback: Self-Solicited and from Feedback App
+* Individual Projects: All individual projects. A passing final project is required.
+* Group Projects: All paired projects
+* Professional Skills: A recap of reflections from Gear Up and deliverables from professional development sessions
+* Feedback/Community: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
 
 ** To Repeat the Module **
 
