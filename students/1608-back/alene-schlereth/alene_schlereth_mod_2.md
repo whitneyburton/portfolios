@@ -1,9 +1,9 @@
 
-# Alene Schlereth - Mod # Portfolio
+# Alene Schlereth - Mod 2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Personal Goal goes here.
 
 ## Rubric Scores
 
