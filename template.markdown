@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Erin Pintozzi - Module 2 Portfolio
 
 ## Areas of Emphasis
 
