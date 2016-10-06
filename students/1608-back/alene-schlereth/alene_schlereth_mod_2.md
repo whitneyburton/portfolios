@@ -75,6 +75,19 @@ This module I will prepare for the interview process through at least one of fol
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
+#### (Finding Opportunities w/ Lia)
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/finding_opportunities.md)
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### (Collaborative Communication w/ Allison)
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/collaborative-communication.md)
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
 
 ## E: Feedback and Community Participation
 
