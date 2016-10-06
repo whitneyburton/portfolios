@@ -3,7 +3,10 @@
 
 ## Areas of Emphasis
 
-Personal Goal goes here.
+This module I will prepare for the interview process through at least one of following tasks per week:  
+* Exercism / Tech interviews 
+* Meetup
+* Reach out directly to someone personally for networking purposes
 
 ## Rubric Scores
 
