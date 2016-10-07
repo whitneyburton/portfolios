@@ -20,6 +20,7 @@
 
 
 ## B: Individual Work & Projects
+NE - 2 projects
 
 (Intro)
 
