@@ -63,6 +63,8 @@
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
+While perhaps overly meta, my main takeaway was that I was impressed by how careful and measured our group was to keep the discussion away from descending into personal opinions on the current election cycle... this was great as no one ended up singled out/alienated. As a group we agreed that we were most impressed by leaders who are able to clearly articulate their positions and lay out pragmatic plan of action for addressing issues. I also got some great suggestions on sources for finding analysis on local ballot issues beyond the big blue book they send out in the fall. 
+
 
 ### Professional Development Workshops
 #### (Session Name)
