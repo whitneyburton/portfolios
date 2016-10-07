@@ -86,6 +86,7 @@ NE - 2 projects
 ### Playing a Part
 
 (ways you supported the larger Turing community)
+NE - e.g. helped your peers
 
 ------------------
 
