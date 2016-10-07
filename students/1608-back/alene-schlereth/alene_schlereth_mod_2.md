@@ -62,11 +62,16 @@ This module I will prepare for the interview process through at least one of fol
 
 ### Gear Up
 #### (Session Name)
-https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown
+
 * [GitHub URL]()
 
 (takeaways from session)
 
+#### (Vote Your Conscience)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+
+In this session we read about and discussed the rights and responsibilities as a citizen followed by reading, reflection, and discussion about voting and political leadership. The general consensus of the group was that many young adults are frustrated by the current functioning of the political system, but that we need to participate in the system in order to make it better. 
 
 ### Professional Development Workshops
 #### (Session Name)
