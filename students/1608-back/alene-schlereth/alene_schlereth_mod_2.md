@@ -62,7 +62,7 @@ This module I will prepare for the interview process through at least one of fol
 
 ### Gear Up
 #### (Session Name)
-
+https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown
 * [GitHub URL]()
 
 (takeaways from session)
