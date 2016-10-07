@@ -61,7 +61,7 @@
 
 * [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
 
 
 ### Professional Development Workshops
