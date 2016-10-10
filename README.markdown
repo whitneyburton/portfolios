@@ -25,7 +25,7 @@ portfolio should be written/submitted
 * Individual Projects: All individual projects. A passing final project is required.
 * Group Projects: All paired projects
 * Professional Skills: 
-  * A recap of reflections from Gear Up and deliverables from professional development sessions
+  * A recap of reflections from Gear Up
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
@@ -46,7 +46,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
  * Idea Box
 * Feedback: Self-Solicited and from Feedback App
 * Professional Skills: 
-  * A recap of reflections from Gear Up and deliverables from professional development sessions
+  * A recap of reflections from Gear Up 
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
@@ -62,6 +62,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
  * Tier Two Project
 * Feedback: Self-Solicited and from Feedback App
 * Professional Skills:
+  *  A recap of reflections from Gear Up
   * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
   * Cold email at least one of those five companies from the company tracker 
   * Two paragraph reflection on:
@@ -85,6 +86,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Evaluated projects: Rush Hour, Little Shop
 * Assessments: mid-module, final
 * Professional Skills:
+  *  A recap of reflections from Gear Up
   * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
   * Cold email at least one of those five companies from the company tracker 
   * Two paragraph reflection on:
@@ -99,6 +101,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Feedback: Self-Solicited
 * Something valuable you've taken away from your posse.
 * Professional Skills:
+  * A recap of reflections from Gear Up
   * Turing alumni portfolio
   * Pitch for personal project/Documentation showing their thought process
   * Completed Flower Exercise
@@ -113,6 +116,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Bonus Project (not required): IdeaBox
 * Feedback: Self-Solicited
 * Professional Skills:
+  * A recap of reflections from Gear Up
   * Description of your top 3 priorities in the job search and why
   * Action plan for how to overcome perceived barriers to the job search
   * Completed blog post with peer review
