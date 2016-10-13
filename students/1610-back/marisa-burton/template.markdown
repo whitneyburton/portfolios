@@ -2,7 +2,8 @@ Marisa Burton - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+What did you set out to accomplish this module?
+When I first began, I didn't know what I didn't know, but I knew I wanted to strengthen my logical skills and build a good foundation with Ruby and object oriented-programming. Whereas the logic part is quite simple for me, I needed to become more comfortable with testing, and have spent a lot of time throughout this module to become more comfortable with TDD.
 
 ## Rubric Scores
 
@@ -21,7 +22,7 @@ Marisa Burton - M1 Portfolio
 
 ## B: Individual Work & Projects
 
-(Intro)
+In this module, I worked on the following individual projects: Mastermind;
 
 #### (Project Name)
 
@@ -33,6 +34,18 @@ Marisa Burton - M1 Portfolio
 (evaluation comments)
 
 (evaluation scores)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
 
 ## C: Group Work & Projects
 
