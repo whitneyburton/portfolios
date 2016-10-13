@@ -57,6 +57,22 @@ This module I will prepare for the interview process through at least one of fol
 
 (feedback to me)
 
+(Intro)
+
+#### Rush Hour
+
+* [GitHub URL]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
+
+This project uses Ruby, Sinatra, and ActiveRecord to build a web traffic tracking and analysis tool similar to a Google Analytics. A relational (Postgres) database is created where clients have payloads of information, accessible through a web based user interface.  
+
+(evaluation comments)
+
+(evaluation scores)
+
+From Mike:  
+Ali was a great teammate.  She was completely dedicated to the success of the project. She was open to discussing ideas, had a large contribution, and was willing to take on tasks as needed.  Specifically, she kept us organized and took on the waffle cards when they had fallen to the wayside.  Dicsussing ideas with her was easy, as she learns quickly and is unafraid to challenge new ideas.  One opportunity (that I think will come with time/comfort with the material) would be to split more work in order to struggle with the some of the problems we encountered.
+
 ## D: Professional Skills
 (Intro)
 
