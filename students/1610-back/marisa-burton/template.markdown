@@ -31,6 +31,8 @@ In this module, I worked on the following individual projects: Mastermind;
 
 Build a playable game of Mastermind that runs in a REPL interface. TDD is important.
 
+I personally struggled with TDD and how to organize this project, as it was my first.
+
 (evaluation comments)
 
 (evaluation scores)
@@ -70,7 +72,8 @@ Build a playable game of Mastermind that runs in a REPL interface. TDD is import
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Rock the Vote
+I really enjoyed hearing everyone's different perspectives, as we all come from such different backgrounds and have such different life experiences. I'm contemplating about the balance between America's problems and how lucky I am to have been born here. Our democracy is not perfect, but is functional, and I have many personal freedoms here I would not have in other countries, especially as a woman. Just having the privilege to be in a program like Turing keeps my "first world problems" in check.
 
 * [GitHub URL]()
 
@@ -102,6 +105,8 @@ Personal Branding I: The resume/cover letter workshop was really helpful. I upda
 I am on the studen advisory board, where I go to weekly meetings and try to represent my cohort as much as possible.
 
 In my first module, I paired a lot with upper-module students, and try to the best of my ability help my fellow cohort students with their programming problems.
+
+I also participate in the Armstrong possee concerning regression analysis.
 
 ------------------
 
