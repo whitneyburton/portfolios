@@ -24,12 +24,12 @@ When I first began, I didn't know what I didn't know, but I knew I wanted to str
 
 In this module, I worked on the following individual projects: Mastermind;
 
-#### (Project Name)
+#### Mastermind
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://github.com/MarisaMBurton/mastermind
+* https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown
 
-(description)
+Build a playable game of Mastermind that runs in a REPL interface. TDD is important.
 
 (evaluation comments)
 
@@ -80,6 +80,8 @@ In this module, I worked on the following individual projects: Mastermind;
 ### Professional Development Workshops
 #### (Session Name)
 
+Personal Branding I: The resume/cover letter workshop was really helpful. I updated my cover letter and rebuilt and redesigned my resume as well as created a LinkedIn page following the advice given. It made me take a more analytical approach to how I represent and brand myself to stand out from other software developers. The session motivated me and got me excited about the possibilities outside of Turing.
+
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
 
@@ -97,7 +99,9 @@ In this module, I worked on the following individual projects: Mastermind;
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I am on the studen advisory board, where I go to weekly meetings and try to represent my cohort as much as possible.
+
+In my first module, I paired a lot with upper-module students, and try to the best of my ability help my fellow cohort students with their programming problems.
 
 ------------------
 
