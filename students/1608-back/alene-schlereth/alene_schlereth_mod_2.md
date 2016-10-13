@@ -71,7 +71,10 @@ This project uses Ruby, Sinatra, and ActiveRecord to build a web traffic trackin
 (evaluation scores)
 
 From Mike:  
-Ali was a great teammate.  She was completely dedicated to the success of the project. She was open to discussing ideas, had a large contribution, and was willing to take on tasks as needed.  Specifically, she kept us organized and took on the waffle cards when they had fallen to the wayside.  Dicsussing ideas with her was easy, as she learns quickly and is unafraid to challenge new ideas.  One opportunity (that I think will come with time/comfort with the material) would be to split more work in order to struggle with the some of the problems we encountered.
+Ali was a great teammate.  She was completely dedicated to the success of the project. She was open to discussing ideas, had a large contribution, and was willing to take on tasks as needed.  Specifically, she kept us organized and took on the waffle cards when they had fallen to the wayside.  Dicsussing ideas with her was easy, as she learns quickly and is unafraid to challenge new ideas.  One opportunity (that I think will come with time/comfort with the material) would be to split more work in order to struggle with the some of the problems we encountered.  
+
+From Nick:  
+Ali was a great teammate and excellent communicator. She is open with feedback and provides effective and accurate critical evaluation of both the project and her teammates. Disagreeing with Ali on certain aspects of the project was a pleasure. She was easy to talk to and always constructive. The best feedback I could give Ali would be to be aware of the time spent on what may be trivial issues in regard to the scope of the project. It was a pleasure working with Ali throughout the project and I would recommend her as a teammate to anyone.
 
 ## D: Professional Skills
 (Intro)
