@@ -99,6 +99,17 @@ to make a better effort to keep in mind the responsibilities I have that enable 
 
 
 ### Professional Development Workshops
+#### Personal Branding
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md)
+* [LinkedIn](https://www.linkedin.com/in/tmikeschu)
+* [Resume]()
+
+It's hard to accept that relatively static representations of a person can be so influential in impression management, but that's the case. 
+I used to roll my eyes at this kind of stuff, but now I better understand the idea of "perception is reality," and I have newfound intrinsic
+motivation to develop a quality personal brand online (and off).
+
+
 #### (Session Name)
 
 * [Workshop URL]()
