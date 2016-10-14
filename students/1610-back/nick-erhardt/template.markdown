@@ -89,6 +89,7 @@ NE - 2 projects
 
 (ways you supported the larger Turing community)
 NE - e.g. helped your peers
+gave a talk on D3 on the second week
 
 ------------------
 
