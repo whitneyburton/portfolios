@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Amy Kintner - Module 1 Portfolio
 
-## Areas of Emphasis
+## Statement of Research Goals
 
-(What did you set out to accomplish this module?)
++some stuff here+ All the stuff+ The Best Stuff+
 
 ## Rubric Scores
 
@@ -23,12 +23,12 @@
 
 (Intro)
 
-#### (Project Name)
+#### Date Night - Individual Project One
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/akintner/Date-Night-echo-first-project-)
+* [Original Assignment](curriculum/source/projects/date_night.markdown)
 
-(description)
+Date Night is a project in which we were tasked with creating a Binary Search Tree that would accept insertions in the form of a movie and a score. These movies and scores would populate the tree with nodes to the left and the right, with the first submission acting as a root node from which all other nodes would stem. Each new movie and score would be vetted against scores and titles already present in the tree and would then be inserted accordingly (i.e. to the right if the score was higher and not already present, to the left if the score was lower and not already present, and not at all if the title was already present). 
 
 (evaluation comments)
 
