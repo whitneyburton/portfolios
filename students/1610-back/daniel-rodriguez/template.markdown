@@ -25,8 +25,8 @@
 
 #### Date Night
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/drod1000/Date-Night)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
 (description)
 
