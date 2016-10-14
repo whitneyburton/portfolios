@@ -1,8 +1,9 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Lucy Conklin - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Goal: Do everything assigned.
+Personal Goal: Have (at least) one meaningful (non-coding, non-weather, 5 minutes or more) conversation with everyone in the 1610 back-end cohort. Reach Goal: ...everone in the 1610 front-end cohort as well.
 
 ## Rubric Scores
 
@@ -20,6 +21,19 @@
 
 
 ## B: Individual Work & Projects
+
+Binary Search Trees
+
+#### Date Night
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
 
 (Intro)
 
