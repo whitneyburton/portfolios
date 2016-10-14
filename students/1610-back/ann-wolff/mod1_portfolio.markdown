@@ -25,14 +25,30 @@
 
 #### Date Night
 
-* [https://github.com/wlffann/date_night](Repo)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown](Original Assignment)
+* [https://github.com/wlffann/date_night](My Repo)
+* [https://github.com/turingschool/ruby-submissions/blob/master/1610-b/date_night/ann-wolff.md](My Assessment)
 
-In this project, I built a binary search tree to store movie reccomemendations. As a class, we discussed the advantages of a tree structure over a 
+For this project, I built a binary search tree to store movie reccomemendations. As a class, we discussed the advantages of a tree structure over linear search in relation to Big O anyalsis. My tree can load a text file that 
 
-(evaluation comments)
+Notes:
 
-(evaluation scores)
+More testing needed, tests written demonstrate basic grasp of testing principles, but coverage is insufficient
+Health method missing
+Many long methods, nested elsif statements, opportunities to refactor
+Score:
+
+1. Test-Driven Development
+
+2: Application makes some use of tests, but the coverage is insufficient
+2. Functional Expectations
+
+2: Application is missing one base expectation
+3. Breaking Logic into Components
+
+3: Application consistently breaks concepts into classes which encapsulate functionality. (SRP).
+4. Fundamental Ruby & Style
+
+2: Application runs but the code has many long methods (>8 lines), has poorly named variables, needs significant refactoring, and is somewhat idiomatic.
 
 ## C: Group Work & Projects
 
