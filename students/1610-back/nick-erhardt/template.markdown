@@ -1,8 +1,10 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Nicholas Erhardt - M1 Portfolio
 
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
+
+This module I was looking forward to focusing on fundamentals.  By that I mean I was comfortable with the concept that Ruby can be used to to express a problem/solution, but I felt very much in the dark about *how* to organize code (classes, methods), what approach to take (where to start, how to think about breaking down the problem first) and [something else].  I also wanted to write a *lot* of code.  I felt like I needed, mileage, for lack of a better term.  
 
 ## Rubric Scores
 
