@@ -2,7 +2,10 @@ Drew Palazzari - Module 1 Portfolio
 
 Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My first goal this module was, as Jeff said, to survive. I did not, however want to survive by accomplishing the bare minimum. 
+I want to become the best programmer in the Ruby language. To achieve this: 1)I will try my absolute best not to fall behind,
+2) I will get help from pairings when I need it, 3) I will be honest about my inabilities as well as my best abilities, and 
+4) I will strive to enjoy my time here ar Turing have fun learning a new computer language.
 
 Rubric Scores
 
@@ -17,17 +20,49 @@ A: End of Module Assessment
 
 B: Individual Work & Projects
 
-(Intro)
+Individual projects were very challenging. They test your ability to access knowledge, and understand it. Overall, I am please with
+the results of my individual projects.
 
-(Project Name)
+MASTERMIND
 
-GitHub URL
-Original Assignment
-(description)
+https://github.com/Dpalazzari/Mastermind
+Mastermind markdown: https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown
 
-(evaluation comments)
+The purpose of this project was to build a working Ruby-programmed version of the game, Mastermind. The student was expected
+to demonstrate adequate use of Ruby flow mechanics, logical use of TDD and REPL, 'good code', and the student's ability to 
+build a multi-part complex, working, game. 
 
-(evaluation scores)
+GitHub URL of Drew's Mastermind Project Evaluation:
+https://github.com/turingschool/ruby-submissions/blob/master/1610-b/mastermind/drew-palazzari.md
+
+Evaluation scores:
+
+1) Test Driven Development
+  score: 2 : Application tests some components but has many gaps in coverage.
+2) REPL Interface and Game Functionality
+  score: 3 : Application's REPL is clear and pleasant to use and application fulfills base expectations 
+  from the project spec.
+3) Breaking Logic into Components
+  score: 2.5 : Application makes use of some classes, but the divisions or encapsulation are unclear.
+4. Fundamental Ruby & Style
+  score: 3 :Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)
+  needs some refactoring, and is mostly idiomatic.
+5) Enumerable & Collections
+   score: 3 :Application makes use of appropriate Enumerable methods and collections.
+   
+Personal analysis of Mastermind: I need to focus on improving my TDD skills, first off. I built Mastermind without tests
+and then went back after it worked and fruitlessly tried to test it. This is a very difficult way to write a program. Second,
+I can do better at organizing my code in an easier-to-read fashion. My Mastermind game had methods everywhere, and it wasn't
+always clear where other methods were that were being called in a different method. It was hard for anyone but me to navigate.
+Also, I need to spend more time refactoring. I had a couple methods that were just enormously large. I should strive to make
+more, smaller methods in my classes. 
+
+Things to learn:
+1) TDD
+2) implementing multiple classes
+3) understanding input/output
+4) Hash methods.
+
 
 C: Group Work & Projects
 
