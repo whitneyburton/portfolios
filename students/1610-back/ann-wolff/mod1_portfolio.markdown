@@ -21,7 +21,7 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+This secton describes the individual projects that I worked on and includes links to the assignments and my code.
 
 #### Date Night
 
