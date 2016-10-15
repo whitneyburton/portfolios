@@ -54,10 +54,11 @@
 (feedback to me)
 
 ## D: Professional Skills
-(Intro)
+ ?????
 
 ### Gear Up
-#### (Session Name)
+#### (Vote Your Conscience)
+  I gained a lot by listening to other people perspectives surround the current political situation in the United States and about the place of voting within Western Society in genereal.  The main thing that I will try to do deferently after my group discussion is to stay calm and listen, to often political discussions turn into a series of personal attacks due to the participants assosciating there politcal views as part of their identity.
 
 * [GitHub URL]()
 
@@ -66,24 +67,26 @@
 
 ### Professional Development Workshops
 #### (Session Name)
-
+Resumes and linkedin 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
+Resume
+  Linkedin
 
 (takeaways from session)
 
 ## E: Feedback and Community Participation
-
+  I participtated in the community by going to lightning talks by alumni on october 14th
 ### Giving Feedback
 
 (feedback from me)
 
 ### Being a Community Member
-
+Drew
 (feedback to me)
 
 ### Playing a Part
-
+I supported the larg
 (ways you supported the larger Turing community)
 
 ------------------
