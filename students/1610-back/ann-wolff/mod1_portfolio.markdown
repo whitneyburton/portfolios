@@ -79,7 +79,7 @@ Score:
 (Intro)
 
 ### Gear Up
-#### (Vote Your Conscience)
+#### Vote Your Conscience
 
 * [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown](Markdown)
 
