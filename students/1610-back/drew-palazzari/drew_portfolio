@@ -67,15 +67,15 @@ Things to learn:
 
 C: Group Work & Projects
 
-Projects
+NightWriter/NightReader
 
-(Intro)
+https://github.com/Dpalazzari/NightWriter
+NightWriter markdown: https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
 
-(Project Name)
-
-GitHub URL
-Original Assignment
-(description)
+The purpose of this project was to pair with a classmate, and create a program that could read a text file and then write that
+text to a new file, translated in braille. It was required to read in braille and write to english, as well. First, we had
+to build the writer and reader scripts. then we built two translators. One for english to braille, and the other for braille to
+english. We stored the languages in a hash. 
 
 (evaluation comments)
 
@@ -89,10 +89,18 @@ D: Professional Skills
 
 Gear Up
 
-(Session Name)
+Vote Your Conscience
+markdown: https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown
 
-GitHub URL
-(3-4 sentences summarizing your takeaways from each session, including things you're continuing to think about, things you learned, things you're doing differently)
+It was an interesting session, talking about the outside factors that influence people to vote. I chose to pursue topic 2:
+Information Intermediaries. There was certainly a diversity of famous people who support either candidate. To be honest, that
+means nothing to me. Celebrities and entertainers are known for their ability to perform/entertain. They aren't professional
+politicians so I really do not take anything they say to heart. I will listen, but usually I do not pay attention. The number
+one thing I took away from this gear up was that there are people with legit reasons on both sides of the line who choose their
+side for one reason or another. It is always beneficial to concede, and relate that some of the things the opposition say are
+true. That may or may not influence my vote, but if I can read into proven facts, then I am an informed voter and I can vote
+my conscience. At the end of the day, the decision to vote or not or for a particular candidate comes down to the individual.
+Hopefully most people do not let the sole input of famous people's influence sway their decisions to vote. 
 
 Professional Development Workshops
 
@@ -100,7 +108,8 @@ Professional Development Workshops
 
 Workshop URL
 Link to Completed Deliverables
-(takeaways from session)
+
+ 
 
 E: Feedback and Community Participation
 
