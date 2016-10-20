@@ -72,9 +72,11 @@ NightWriter/NightReader
 https://github.com/Dpalazzari/NightWriter
 NightWriter markdown: https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
 
+project pairing: Edilene
+
 The purpose of this project was to pair with a classmate, and create a program that could read a text file and then write that
 text to a new file, translated in braille. It was required to read in braille and write to english, as well. First, we had
-to build the writer and reader scripts. then we built two translators. One for english to braille, and the other for braille to
+to build the writer and reader scripts. Then we built two translators. One for english to braille, and the other for braille to
 english. We stored the languages in a hash. 
 
 (evaluation comments)
