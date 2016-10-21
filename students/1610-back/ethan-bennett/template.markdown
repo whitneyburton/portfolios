@@ -60,7 +60,7 @@ Notes:
 Scores:
 1. Test-Driven Development
 
-    2.5: Application makes some use of tests, but the coverage is insufficient
+        2.5: Application makes some use of tests, but the coverage is insufficient
   
 2. Breaking Logic into Components
 
