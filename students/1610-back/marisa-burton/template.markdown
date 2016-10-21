@@ -50,16 +50,31 @@ Score:
 5. Enumerable & Collections
 3: Application makes use of appropriate Enumerable methods and collections
 
-#### (Project Name)
+#### NightWriter
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://github.com/Robbie-Smith/NightWriter
+* https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
 
-(description)
+Write a program that converts a braille text to English and an English text to braille.
 
-(evaluation comments)
+Notes:
 
-(evaluation scores)
+Rake test file
+26 tests 749 assertions
+100 percent test coverage
+used in enumerables in test
+Recursive approach was super cool
+Read and write are separated, might belong together in a single class/module/thing
+try to have methods take arguments instead of reading an instance variable
+Scores:
+
+Test-Driven Development--4: Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
+
+Breaking Logic into Components--3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+
+Fundamental Ruby & Style--3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
+
+Overall Functionality--3: Application follows the complete spec and one extension
 
 
 ## C: Group Work & Projects
