@@ -96,7 +96,14 @@ Ali was a great teammate and excellent communicator. She is open with feedback a
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
-In this session we read about and discussed the rights and responsibilities as a citizen followed by reading, reflection, and discussion about voting and political leadership. The general consensus of the group was that many young adults are frustrated by the current functioning of the political system, but that we need to participate in the system in order to make it better. 
+In this session we read about and discussed the rights and responsibilities as a citizen followed by reading, reflection, and discussion about voting and political leadership. The general consensus of the group was that many young adults are frustrated by the current functioning of the political system, but that we need to participate in the system in order to make it better.  
+
+#### (Introversion and Extroversion in Teams)
+
+* [GitHub URL]https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+(takeaways from session)
+We had a great discussion about the virtures of introversion and extroversion. I enjoyed talking with my group mates about our experiences. Many of us fell in the same space of seeming extroverted but feeling more introverted. Some of our time was spent discussion how this impacts our time at Turing, especially in group works. One of personal revelations was about who teams of three are much easier than partners since you always have to engage when in a partnership but in a trio there is a chance for one person to pull back and be quiet.  
 
 ### Professional Development Workshops
 #### (Session Name)
