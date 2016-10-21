@@ -21,11 +21,11 @@
 
 ## B: Individual Work & Projects
 
-This secton describes the individual projects that I worked on and includes links to the assignments and my code.
+This secton describes the individual projects that I worked on in Module One. It includes links to the projects assignments, details about my evaluations and links to my repository.
 
 #### Date Night
 
-* [My Code](https://github.com/wlffann/date_night)
+* [GitHub URL](https://github.com/wlffann/date_night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
 For this project, I built a binary search tree to store movie reccomemendations for a hypothetical date night. As a class, we discussed the advantages of a tree structure over linear search in relation to Big O anyalsis. My algorithm creates a tree where each node has two children that are inserted based on their numerical value in relation to their parent. This creates a more efficient search where the worst case scenerio that takes much less time to run. 
@@ -60,14 +60,14 @@ Score:
 
 ### Projects
 
-(Intro)
+This section includes details about the projects I worked on with at least one other partner. It includes descriptions of the assignments, links to our repositories, details about our evaluations, feedback we received and links to our DTRs. 
 
-#### (Project Name)
+#### CompleteMe
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/wlffann/complete_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
-(description)
+For this project, my partner and I built a directed network search that functions as an auto-complete application. It can load a dictionary that then provides suggestions from a word stem provided by the user. The suggestions are weighted based on selection frequency by the specific string provided. 
 
 (evaluation comments)
 
