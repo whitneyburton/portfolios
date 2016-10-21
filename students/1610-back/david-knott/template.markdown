@@ -3,6 +3,7 @@
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
+I set out to learn as much as I could here at Turing as well as to learn how to be a beter community member.
 
 ## Rubric Scores
 
@@ -23,6 +24,27 @@
 
 (Intro)
 
+#### (Date Night)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+Test-Driven Development - Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+Functional Expectations -  Application fulfills all base expectations and two extensions.
+Breaking Logic into Components - Application makes use of some classes, but the divisions or encapsulation are unclear.
+Fundamental Ruby & Style - Application runs but the code has many long methods (>8 lines), has poorly named variables, needs significant refactoring, and is somewhat idiomatic.
+
+(evaluation scores)
+
+Functional Expectations - 4 
+Test-Driven Development - 3
+Breaking Logic into Components - 2
+Fundamental Ruby & Style - 2
+
 #### (Project Name)
 
 * [GitHub URL]()
@@ -39,6 +61,25 @@
 ### Projects
 
 (Intro)
+
+#### (Complete Me)
+
+* [GitHub URL](https://github.com/tmikeschu/complete_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
+
+(description)
+Complete me was me first group project at Turing and I learned a lot about communication, refactoring, and testing.
+
+(evaluation comments)
+
+(evaluation scores)
+
+Functional Expectations - 4 
+Test-Driven Development - 4
+Encapsulation / Breaking Logic into Components - 3.5
+Fundamental Ruby & Style - 3.5
+Enumerable & Collections - 4
+(feedback to me)
 
 #### (Project Name)
 
@@ -82,11 +123,12 @@ Resume
 (feedback from me)
 
 ### Being a Community Member
-Drew
+Phylis
+Aprciated me helping her
 (feedback to me)
 
 ### Playing a Part
-I supported the larg
+I supported the larger Turing community by...
 (ways you supported the larger Turing community)
 
 ------------------
