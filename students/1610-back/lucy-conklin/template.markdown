@@ -107,7 +107,7 @@ I really enjoyed thinking about rights and their corresponding responsibilities.
 * [Linkedin](https://www.linkedin.com/in/lucy-conklin)
 * [Twitter](https://twitter.com/lucyconklin)
 
-I really enjoyed this session, and was glad we got to personal branding so quickly. It really clarified a lot of questions about my LinkedIn and resume that I didn't know I had, like what order to put the sections in and what to include. I was a little dissapointed that my "hobbies and interests" section doesn't really belong on my resume unless it's directly applicable to the job I'm seeking.
+This session really clarified a lot of questions about my LinkedIn and resume that I didn't know I had, like what order to put the sections in and what to include. I was a little dissapointed that my "hobbies and interests" section doesn't really belong on my resume unless it's directly applicable to the job I'm seeking. I am also glad that there were deliverables about this so early. I am excited for the job search, but I want to make sure I'm doing it right, so this is a very important topic for me.
 
 #### (Session Name)
 
@@ -136,6 +136,11 @@ I really enjoyed this session, and was glad we got to personal branding so quick
 ### Playing a Part
 
 (ways you supported the larger Turing community)
+---
+* [Github]()
+
+On 10/14 [Nick Erhart]() and I gave a talk to the Verou posse about a Javascript framework for data visualization called D3, a topic which was brand new to each of us.
+
 
 ------------------
 
