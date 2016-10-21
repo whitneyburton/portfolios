@@ -79,11 +79,54 @@ text to a new file, translated in braille. It was required to read in braille an
 to build the writer and reader scripts. Then we built two translators. One for english to braille, and the other for braille to
 english. We stored the languages in a hash. 
 
-(evaluation comments)
+Link to evaluation markdown: https://github.com/turingschool/ruby-submissions/blob/master/1610-b/night_writer/drew_edilene.md
 
-(evaluation scores)
+Test Driven Development:
+  2.5 :Application makes some use of tests, but the coverage is insufficient.
+Breaking Logic into Components
+  3 :Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+Fundamental Ruby and Style:
+  3 :Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, 
+  and is mostly idiomatic.
+Overall Functionality
+  3 :Application follows the complete spec and one extension
 
-(feedback to me)
+-32 tests - all passing
+-Had some trouble with where the files live in the root and lib etc.
+-Make runner class include methods as well
+-The tests need to cover all of the methods
+
+  Could have had better testing. When we did our testing, it was thorough for the ONE method we had at the time. After refactoring,
+we changed some methods names in the tests, but didn't go back and retest the new methods we had. The application still worked,
+but the testing was not as thorough as it could have been. Also, could not figure out how to run the programs from the parent
+directory. Apparently, it was because the text files we were reading from were located in the lib folder. They should have been
+located in the parent directory. Our require statements at the top of every class were right, we just did not have the files in the
+proper place. Overall, we did well on the project. I was not, however, a very good pairing partner for Edilene.
+
+  Edilene felt she did not contribute anything to the project. I was dismissive of her ideas at some points during the paired project.
+I DID make sure she understood everything that was happening in the project, however. I appeared dismissive because it was often times
+unclear to me what she was trying to illustrate. We agreed during our DTR that we would work on the same thing together, so as
+to obtain a better understanding of what was happening in the code. 
+
+  Often times, she really did not come up with any ideas that worked, so naturally we did not use
+them (I had bad ideas, too). When I went home after our pairing, I was always thinking of ways to solve the problems in our code, so
+that when we met next, we could make some progress. This happened several times, and led to some major headway in our project. I 
+disagree with Edilene at this juncture. I cannot dismiss her ideas if she does not have any. I felt I had to solve the bigger issues
+in the project. Edilene was excellent at finding good areas for refactoring, finding things we should change (usually nomenclature)
+and solving all those small, annoying bugs and errors that I could not figure out.
+
+  Overall, I took her feedback to heart, and will strive to be more open minded to other possibilities in future pairings. My
+way is never always the best way. I need to understand that every student at Turing or in the software development field as a
+whole has a tremendous amount of ideas and coding to contribute to the community. I am sad that Edilene felt useless, as I did 
+not share that sentiment. I am happy that she told me she learned a great deal about coding while working with me on NightWriter.
+
+Learning Areas of Focus:
+-integrating FileI/O in a class program. Our Nightwriter had a scripted File reader/writer
+-creating rakefiles
+-finding other, more efficient ways to do the same thing
+-Review everything
+-test thoroughly
+-most importantly, I need to listen to my peers more/better
 
 D: Professional Skills
 
