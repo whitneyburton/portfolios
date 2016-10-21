@@ -25,8 +25,8 @@
 
 #### Date Night
 
-* [Github URL] (https://github.com/drod1000/Date-Night)
-* [Original Assessment] (https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
+* (https://github.com/drod1000/Date-Night)
+* (https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
 (description)
 
@@ -62,10 +62,10 @@ Scores:
 
 (Intro)
 
-#### (Nightwriter)
+#### Nightwriter
 
-* [GitHub URL] (https://github.com/Sh1pley/nightwriter)
-* [Original Assignment (https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+* (https://github.com/Sh1pley/nightwriter)
+* (https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 (description)
 
