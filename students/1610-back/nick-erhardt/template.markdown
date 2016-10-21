@@ -42,13 +42,16 @@ NE - 2 projects
 ### Projects
 
 (Intro)
+Pairing on a project felt very comfortable for me.  In my last job I did a small amount of work with the developers and certainly was familiar with the idea of pair programming and what the mechanics were.  However, I had no idea how it would be to pair with one of my classmates for the first time.  I knew we would be stumbling through not only the mechanics and strategies of *how* to pair effectively, but also adding the challenges of using git effectively on our own and tackling an algorithm which was difficult for both of us to solve.  In the end, I feel like my partner and I complimented each other quite well with our individual strengths and weaknesses, and I believe our assessment shows the result of a successful partnership.
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/ski-climb/Complete-Me)
+* [Assessment](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/complete_me/laszlo_nick.md)
 
 (description)
+##### Complete Me 
+Complete me expanded on the Binary Search Tree project (Date Night) from the previous week and was the more general case of a tree with linked nodes.  While the Date Night project was one way to quickly store, filter and sort a list of numbers (scores and movie title), Complete Me was used to store words so that it could be used as an autocomplete system like might be used on a phone messaging app [like so](http://www.damnyouautocorrect.com/10484/the-top-15-most-popular-dyac-texts-of-all-time/).  Our project relied heavily on recursion.  
 
 (evaluation comments)
 
