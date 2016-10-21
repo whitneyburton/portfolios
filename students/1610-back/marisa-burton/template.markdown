@@ -50,6 +50,15 @@ Score:
 5. Enumerable & Collections
 3: Application makes use of appropriate Enumerable methods and collections
 
+
+
+
+## C: Group Work & Projects
+
+### Projects
+
+The following projects were completed with a partner.
+
 #### NightWriter
 
 * https://github.com/Robbie-Smith/NightWriter
@@ -75,13 +84,6 @@ Breaking Logic into Components--3: Application consistently breaks concepts into
 Fundamental Ruby & Style--3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
 
 Overall Functionality--3: Application follows the complete spec and one extension
-
-
-## C: Group Work & Projects
-
-### Projects
-
-(Intro)
 
 #### (Project Name)
 
