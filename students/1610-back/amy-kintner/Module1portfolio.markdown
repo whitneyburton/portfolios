@@ -25,15 +25,15 @@
 
 #### Date Night - Individual Project One
 
-* [GitHub URL](https://github.com/akintner/Date-Night-echo-first-project-)
+* [GitHub URL](https://github.com/akintner/date_night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
-Date Night is a project for which we were tasked with creating a Binary Search Tree that would accept insertions in the form of a movie and a score. These movies and scores would populate the tree with nodes to the left and the right, with the first submission acting as a root node from which all other nodes would stem. Each new movie and score would be vetted against scores and titles already present in the tree and would then be inserted accordingly (i.e. to the right if the score was higher and not already present, to the left if the score was lower and not already present, and not at all if the title was already present). 
+For Date Night, we were tasked with creating a Binary Search Tree that would accept insertions in the form of a movie and a score. These movies and scores would populate the tree with nodes to the left and the right, with the first submission acting as a root node from which all other nodes would stem. Each new movie and score would be vetted against scores and titles already present in the tree and would then be inserted accordingly (i.e. to the right if the score was higher and not already present, to the left if the score was lower and not already present, and not at all if the title was already present). 
 
-Commentary about the evaluation: Overall, the experince was much less terrifiying than I'd prepped myself to believe; I enjoyed the review process and got some great advice from Beth about refactoring methods. I was hoping and expecting to get a 3 for my testing suite, which I didn't. This was upsetting simply because I misunderstood the testing protocols and had interpreted the phrase "balance of isolation and integration tests" to mean that I tested some methods individually, but tested some things together, i.e. integrate some of the tests to account for multiple things at once. I got dinged for having tests that did too many things in a single test, however, since what integration testing was not explicitely made clear until the second TDD lesson in the third week, I feel I was unfairly judged against a rubric that wasn't clear. 
+* Commentary about the evaluation: Overall, the experince was much less terrifiying than I'd prepped myself to believe; I enjoyed the review process and got some great advice from Beth about refactoring methods. I was hoping and expecting to get a 3 for my testing suite, which I didn't. This was upsetting simply because I misunderstood the testing protocols and had interpreted the phrase "balance of isolation and integration tests" to mean that I tested some methods individually, but tested some things together, i.e. integrate some of the tests to account for multiple things at once. I got dinged for having tests that did too many things in a single test, however, since what integration testing was not explicitely made clear until the second TDD lesson in the third week, I feel I was unfairly judged against a rubric that wasn't clear. 
 
 
-* Commentary from Beth's evaluation (https://github.com/turingschool/ruby-submissions/edit/master/1610-b/date_night/amy-kintner.md)
+* Beth's evaluation (https://github.com/turingschool/ruby-submissions/edit/master/1610-b/date_night/amy-kintner.md)
 
 ## C: Group Work & Projects
 
@@ -43,10 +43,10 @@ Commentary about the evaluation: Overall, the experince was much less terrifiyin
 
 #### Complete Me
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/kheppenstall/complete_me/tree/master)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
-(description)
+For Complete Me - our first paired project at Turing - the echo group was working to popular a Trie with words from a dictionary (the entirety of which contained 260,000 words. From a root node, the tree would popular words into an effectively unlimited number of subsidiary nodes, each of which contained a letter and links to other letters. Traversing these nodes would ultimately end with letters that terminated a word and be indicated as such. The program could suggest words, given a fragment, and also delete words from the dictionary by removing all links between letters of that word. 
 
 (evaluation comments)
 
