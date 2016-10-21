@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Ethan Bennett - Module 1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goals have shifted a little as this module has progressed--at first, I just wanted to learn as much as I possibly could. Now (as of the third week), I'm more focused on drilling in the fundamentals.
 
 ## Rubric Scores
 
@@ -40,12 +40,12 @@
 
 (Intro)
 
-#### (Project Name)
+#### Night Writer
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://github.com/ethanbennett/night-writer
+* https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
 
-(description)
+
 
 (evaluation comments)
 
