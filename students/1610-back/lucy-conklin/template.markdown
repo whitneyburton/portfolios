@@ -3,7 +3,10 @@
 ## Areas of Emphasis
 
 Goal: Do everything assigned.
-Personal Goal: Have (at least) one meaningful (non-coding, non-weather, 5 minutes or more) conversation with everyone in the 1610 back-end cohort. Reach Goal: ...everone in the 1610 front-end cohort as well.
+
+Personal Goal: Have (at least) one meaningful (non-coding, non-weather, 5 minutes or more) conversation with everyone in the 1610 back-end cohort. 
+
+Reach Goal: ...everone in the 1610 front-end cohort as well.
 
 ## Rubric Scores
 
@@ -22,20 +25,18 @@ Personal Goal: Have (at least) one meaningful (non-coding, non-weather, 5 minute
 
 ## B: Individual Work & Projects
 
-Binary Search Trees
+(Intro)
 
 #### Date Night
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/lucyconklin/Date-Night)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
-(description)
+Build a binary search tree for 100 movies with unique scores and titles.
 
 (evaluation comments)
 
 (evaluation scores)
-
-(Intro)
 
 #### (Project Name)
 
@@ -53,6 +54,19 @@ Binary Search Trees
 ### Projects
 
 (Intro)
+#### Complete Me
+
+* [GitHub URL]()
+* [Original Assignment]()
+* [DTR](https://docs.google.com/document/d/1wuEe-HlkuZ2Vuekzhvack4-OKVn6lAeRtFH42NLjNrU/edit?usp=sharing)
+
+Build an auto-complete program using a search tree. Include methods to insert, suggest, select, and weight the suggestions based on user input.
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
 
 #### (Project Name)
 
@@ -71,6 +85,13 @@ Binary Search Trees
 (Intro)
 
 ### Gear Up
+#### Vote Your Conscience 10/7/2016
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+
+I really enjoyed thinking about rights and their corresponding responsibilities. Coming into the session I was concerned about the session devolving into partisan politics, and I thought maybe it would be a good idea to try to focus the conversation on other ballot items. There was very little unstructured discussion time, so it wasn't a problem. Since the session I've been thinking about voting being mandatory. I thought that was some of the juiciest discussion from the session, with valid points challenging what I thought was obviously a good idea (mandatory voting). We talked about at making election day a holiday, and someone brought up the fact that the people who don't vote are those who feel disenfranchised, and those people are also likely to have service industry jobs that wouldn't give them the day off anyway. Also I am returning to Colorado and very interested in the mail-in-ballot system.
+
+### Gear Up 
 #### (Session Name)
 
 * [GitHub URL]()
@@ -79,6 +100,22 @@ Binary Search Trees
 
 
 ### Professional Development Workshops
+#### Personal Branding Part 1
+
+* [Workshop URL](https://github.com/lucyconklin)
+* [Github]()
+* [Linkedin](https://www.linkedin.com/in/lucy-conklin)
+* [Twitter](https://twitter.com/lucyconklin)
+
+I really enjoyed this session, and was glad we got to personal branding so quickly. It really clarified a lot of questions about my LinkedIn and resume that I didn't know I had, like what order to put the sections in and what to include. I was a little dissapointed that my "hobbies and interests" section doesn't really belong on my resume unless it's directly applicable to the job I'm seeking.
+
+#### (Session Name)
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
 #### (Session Name)
 
 * [Workshop URL]()
