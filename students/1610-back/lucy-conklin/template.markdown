@@ -92,18 +92,24 @@ Build an auto-complete program using a search tree. Include methods to insert, s
 I really enjoyed thinking about rights and their corresponding responsibilities. Coming into the session I was concerned about the session devolving into partisan politics, and I thought maybe it would be a good idea to try to focus the conversation on other ballot items. There was very little unstructured discussion time, so it wasn't a problem. Since the session I've been thinking about voting being mandatory. I thought that was some of the juiciest discussion from the session, with valid points challenging what I thought was obviously a good idea (mandatory voting). We talked about at making election day a holiday, and someone brought up the fact that the people who don't vote are those who feel disenfranchised, and those people are also likely to have service industry jobs that wouldn't give them the day off anyway. Also I am returning to Colorado and very interested in the mail-in-ballot system.
 
 ### Gear Up 
+#### Introversion and Extroversion on Teams 10/21/2016
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+This conversation seems really important for Turing since this field seems to attract people on the introverted end of the spectrum. The TED talk was great, and reinforced something that I have come to discover, which is that introverts can learn to be very powerful public speakers. In our discussion group we talked about extroverts wanting people to "get out of their shell" and I've been thinking about how that language might actually have the opposite effect. We also raised the question of whether or not Turing might actually serve introverts better than extroverts. Another takeaway from our discussion was how intertwined introversion/extroverstion, shyness, and the lack of self confidence can be, and how they can all be confused with and improperly identified as introversion.
+
+### Gear Up 
 #### (Session Name)
 
 * [GitHub URL]()
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-
 ### Professional Development Workshops
 #### Personal Branding Part 1
 
 * [Workshop URL](https://github.com/lucyconklin)
-* [Github]()
+* [Github](https://github.com/lucyconklin)
 * [Linkedin](https://www.linkedin.com/in/lucy-conklin)
 * [Twitter](https://twitter.com/lucyconklin)
 
@@ -137,9 +143,9 @@ This session really clarified a lot of questions about my LinkedIn and resume th
 
 (ways you supported the larger Turing community)
 ---
-* [Github]()
+* [Github URL](https://github.com/lucyconklin/d3-practice)
 
-On 10/14 [Nick Erhart]() and I gave a talk to the Verou posse about a Javascript framework for data visualization called D3, a topic which was brand new to each of us.
+On 10/14 [Nick Erhart]() and I gave a talk to the Verou posse about a Javascript framework for data visualization called D3, a topic which was brand new to each of us. We introduced D3, data visualization, and a simple bar graph. I created a suite of files to work from in case anyone wanted to play around with the code on their own.
 
 
 ------------------
