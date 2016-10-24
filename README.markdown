@@ -24,7 +24,7 @@ portfolio should be written/submitted
 * Individual Assessment: Passing Score (All 3's) required
 * Individual Projects: All individual projects. A passing final project is required.
 * Group Projects: All paired projects
-* Professional Skills: 
+* Professional Skills:
   * A recap of reflections from Gear Up
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
@@ -45,8 +45,8 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
  * Number Guesser
  * Idea Box
 * Feedback: Self-Solicited and from Feedback App
-* Professional Skills: 
-  * A recap of reflections from Gear Up 
+* Professional Skills:
+  * A recap of reflections from Gear Up
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
@@ -64,7 +64,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Professional Skills:
   *  A recap of reflections from Gear Up
   * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Cold email at least one of those five companies from the company tracker 
+  * Cold email at least one of those five companies from the company tracker
   * Two paragraph reflection on:
      1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
      2. How you incorporated feedback from your team members and what you learned about yourself in the process.
@@ -88,7 +88,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Professional Skills:
   *  A recap of reflections from Gear Up
   * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Cold email at least one of those five companies from the company tracker 
+  * Cold email at least one of those five companies from the company tracker
   * Two paragraph reflection on:
     1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
     2. How you incorporated feedback from your team members and what you learned about yourself in the process.
@@ -96,16 +96,16 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 ### Module 3
 
 * Individual Assessment
-* Included Projects: Self-Directed Project, Rales Engine, The Pivot
+* Included Projects: Self-Directed Project, Rales Engine, Cloney Island
 * Bonus Project (not required): APIcurious
-* Feedback: Self-Solicited
+* Feedback: Self-Solicited and collected from Cloney Island
 * Something valuable you've taken away from your posse.
 * Professional Skills:
   * A recap of reflections from Gear Up
   * Turing alumni portfolio
-  * Pitch for personal project/Documentation showing their thought process
+  * Pitch for personal project/Documentation showing your thought process
   * Completed Flower Exercise
-  * Job search strategy set with daily, weekly, monthly goals 
+  * Job search strategy set with daily, weekly, monthly goals
 
 
 ### Module 4
