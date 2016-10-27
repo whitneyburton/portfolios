@@ -77,7 +77,7 @@ Notes:
     
 Scores: 
 1. Overall Functionality
-
+   
    2: Application implements iterations 0 - 3
 
 2. Fundamental Ruby & Style
