@@ -86,8 +86,8 @@ Scores:
 
 #### Nightwriter
 
-* (https://github.com/Sh1pley/nightwriter)
-* (https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+* https://github.com/Sh1pley/nightwriter
+* https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
 
 (description)
 
