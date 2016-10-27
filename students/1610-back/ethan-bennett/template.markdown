@@ -21,7 +21,7 @@ My goals have shifted a little as this module has progressed--at first, I just w
 
 ## B: Individual Work & Projects
 
-After completing my two individual projects, I've seen the strengths I expected to display both improve and be reinforced. Coming from a writing background, I hoped to see my composition and editing skills translate to eloquent Ruby style, efficient refactoring, and logical structures--and I think it did. I also intuited, after Mastermind, that testing would be my most difficult area, and that's also been accurate. I'm comfortable with the material, but I suspect I'll see some major improvement on my next paired project (Black Thursday).
+After completing my two individual projects, I've seen the strengths I expected to display both improve and be reinforced. Coming from a writing background, I hoped to see my composition and editing skills translate to eloquent Ruby style, efficient refactoring, and logical structures--and I think it did. I also intuited, after Mastermind, that testing would be my most difficult area, and that's also been accurate. I'm comfortable with the material, but I suspect I'll see some major testing improvement on my next paired project (Black Thursday). Otherwise, I feel like these individual projects took me from being totally overwhelmed to confident and effective, so I'm happy with the work they display.
 
 #### Mastermind
 
