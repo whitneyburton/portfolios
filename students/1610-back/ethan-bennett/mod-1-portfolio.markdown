@@ -42,23 +42,23 @@ Notes:
 Scores:
 1. Test-Driven Development
 
-    1: Application does not demonstrate strong use of TDD
+   1: Application does not demonstrate strong use of TDD
 
 2. REPL Interface and Game Functionality
 
-    4: Application's REPL goes above and beyond expectations and application includes one or more extensions
+   4: Application's REPL goes above and beyond expectations and application includes one or more extensions
 
 3. Breaking Logic into Components
 
-    2.5: Application makes use of some classes, but the divisions or encapsulation are unclear.
+   2.5: Application makes use of some classes, but the divisions or encapsulation are unclear.
 
 4. Fundamental Ruby & Style
 
-    3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
+   3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
 
 5. Enumerable & Collections
 
-    1: Application does not use enumerables.
+   1: Application does not use enumerables.
 
 #### HTTP
 
@@ -78,20 +78,19 @@ Notes:
 Scores: 
 1. Overall Functionality
 
-    2: Application implements iterations 0 - 3
+   2: Application implements iterations 0 - 3
 
-Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirements are shifted by 1 additional iteration -- So a 3 for Echo requires completing Iterations 0-5
 2. Fundamental Ruby & Style
 
-    3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+   3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
 3. Test-Driven Development
 
-    2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+   2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
 
 4. Breaking Logic into Components
 
-    4: Application effectively breaks logical components apart with clear intent and usage
+   4: Application effectively breaks logical components apart with clear intent and usage
 
 
 
@@ -122,20 +121,20 @@ Notes:
 Scores:
 1. Test-Driven Development
 
-        2.5: Application makes some use of tests, but the coverage is insufficient
+   2.5: Application makes some use of tests, but the coverage is insufficient
   
 2. Breaking Logic into Components
 
 
-        3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+   3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
 
 3. Fundamental Ruby & Style
 
-        3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
+   3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
 
 4. Overall Functionality
 
-        3: Application follows the complete spec and one extension
+   3: Application follows the complete spec and one extension
 
 
 (feedback to me)
