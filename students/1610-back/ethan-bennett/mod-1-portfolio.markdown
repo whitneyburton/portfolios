@@ -31,6 +31,7 @@ After completing my two individual projects, I've seen the strengths I expected 
 Mastermind is a simple color guessing game. The user runs it from the command line, and the program generates a combination for the user to guess. In the context of my other work, it's a great example of how far I've come in testing, enumerable use, breaking problems into logical components, and general Ruby style.
 
 Assessed by: Ilana
+
 Notes:
 
     Mastermind and Player Input class
@@ -67,6 +68,7 @@ Scores:
 HTTP started with building a server in Ruby. It also had to include specific paths, with unique outputs on the page for each path. I didn't get through all the verb functions, so my scores on this project aren't my highest. I do think it shows significant improvement in the areas I hoped to improve, however--particularly in style and the logical components. The testing was weaker on this one as well, but the score reflects a "scaling up" of testing capabilities. I would argue the tests still display a remarkable level of coverage compared with the projects I'd completed up to this point, and despite its lower scores, I think it's the highest-quality code I've written yet (by a long shot).
 
 Assessed by: Ilana
+
 Notes:
 
     17 tests - all passing
@@ -108,6 +110,7 @@ Echo/Foxtrot Note: Requirements listed are for Foxtrot pairs -- Echo requirement
 Night Writer is a program designed to translate English characters into Braille characters. Each Braille character is a grid of six dots or zeroes, with the zeroes representing the raised dots. Since a single Braille character six-dot rectangle, the translation involved some difficult formatting problems. The input (English or Braille text) is extracted directly from a .txt file, and the program creates a new .txt file containing the translated output. The user runs the program by calling night_writer.rb for English-to-Braille or night_reader.rb for the reverse, and it's fed two arguments: the first being the existing .txt file to be translated, and the second being a the desired file-name for the translated output.
 
 Assessed By: Ilana
+
 Notes:
 
     19 tests - all passing
