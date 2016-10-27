@@ -62,6 +62,42 @@ Score
 
   3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)  needs some refactoring, and is mostly idiomatic.
 
+#### HTTP, Yeah You Know Me!
+
+* [GitHub URL](https://github.com/tmikeschu/http_yykm)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+For this project, I took a head first dive into the world of HTTP request-response cycles. This is 
+my first go at integrating algorithms and programs with a pseudo web application (baby steps!).
+Using the localhost URL, I developed a simple server with simple features, including
+word verification, greeting, and a number guessing game.
+
+Assessed By: Ilana
+
+Evaluation Notes
+
+* 53 tests - all passing 
+* set up modules for a lot of functionality
+* well-broken out.
+
+Score
+
+* Overall Functionality
+
+  3: Application implements iterations 0 - 4
+
+* Fundamental Ruby & Style
+
+  4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+* Test-Driven Development
+
+  3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
+
+* Breaking Logic into Components
+
+  4: Application effectively breaks logical components apart with clear intent and usage
+
 ## C: Group Work & Projects
 
 The following projects involved at least one other partner, and are listed in chronological order.
