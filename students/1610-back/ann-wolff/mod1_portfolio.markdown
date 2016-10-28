@@ -55,6 +55,13 @@ Score:
 4. Fundamental Ruby & Style
 
   2: Application runs but the code has many long methods (>8 lines), has poorly named variables, needs significant refactoring, and is somewhat idiomatic.
+  
+#### HTTP Yeah You Know Me
+
+* [GitHub URL](https://github.com/wlffann/http_yeah_you_know_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+ 
 
 ## C: Group Work & Projects
 
@@ -69,9 +76,40 @@ This section includes details about the projects I worked on with at least one o
 
 For this project, my partner and I built a directed network search that functions as an auto-complete application. It can load a dictionary that then provides suggestions from a word stem provided by the user. The suggestions are weighted based on selection frequency by the specific string provided. 
 
-(evaluation comments)
+Assessed By: Jeff
 
-(evaluation scores)
+Repo:
+
+Notes:
+
+Tests have some failures after refactoring and removing methods
+Tests are very detailed and closely tied to implementation
+Haven't used the spec harness
+Implementation is strong but could use more abstractions
+Good code for refactoring with a mentor
+Keep the "language" of the app consistent unless it needs to be different
+Spec harness passes
+Scores:
+
+1. Test-Driven Development
+
+  3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+2. Encapsulation / Breaking Logic into Components
+
+  3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+
+3. Fundamental Ruby & Style
+
+  3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
+
+4. Enumerable & Collections
+
+  3: Application makes use of appropriate Enumerable methods and collections
+
+5. Functional Expectations
+
+  3: Application fulfills all base expectations
 
 (feedback to me)
 
