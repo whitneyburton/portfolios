@@ -29,6 +29,7 @@ In this module, I worked on the following individual projects: Mastermind;
 * https://github.com/MarisaMBurton/mastermind
 * https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown
 
+
 Build a playable game of Mastermind that runs in a REPL interface. TDD is important.
 
 I personally struggled with TDD and how to organize this project, as it was my first. Now I'm getting a better understanding of TDD and how to properly build and use classes.
@@ -63,6 +64,7 @@ The following projects were completed with a partner.
 
 * https://github.com/Robbie-Smith/NightWriter
 * https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
+* DTR: https://gist.github.com/Robbie-Smith/b5e3eaf605c04b9273cb04248089e236
 
 Write a program that converts a braille text to English and an English text to braille.
 
@@ -85,6 +87,8 @@ Fundamental Ruby & Style--3: Application shows some effort toward organization b
 
 Overall Functionality--3: Application follows the complete spec and one extension
 
+Feedback from Robbie Smith: Marisa was a pleasure to work with during the Night Writer project. I really appreciated her flexibility and willingness to put in long hours over the weekened to work on the project. Her humility was much appreciated, and she was quick to speak up when she did not understand an issue. This allowed us as a group to work on the areas that she needed and allowed us both to focus on our learning process together.
+
 #### (Project Name)
 
 * [GitHub URL]()
@@ -104,6 +108,9 @@ Overall Functionality--3: Application follows the complete spec and one extensio
 ### Gear Up
 #### Rock the Vote
 I really enjoyed hearing everyone's different perspectives, as we all come from such different backgrounds and have such different life experiences. I'm contemplating about the balance between America's problems and how lucky I am to have been born here. Our democracy is not perfect, but is functional, and I have many personal freedoms here I would not have in other countries, especially as a woman. Just having the privilege to be in a program like Turing keeps my "first world problems" in check.
+
+##Introvert
+I really enjoyed this gear-up. I realized that I've had more extroverted bosses that don't really understand how to get the best work out of me since I don't go out of my way to look for praise. My extroverted bosses have tended to try to micomanage me in that past, and I tend to do better being left to my own resonpsibilities. I do feel that Turing sometimes favors extroverts since there is a lot of group work, and sometimes I just need alone time to reinforce and process what I just learned before breaking off into groups and immediately working with other people.
 
 * [GitHub URL]()
 
