@@ -134,6 +134,12 @@ This discussion focused on the importance of active citizenship and the role tha
 ### Professional Development Workshops
 #### (Session Name)
 
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
+* [LinkedIn](https://www.linkedin.com/in/annie-wolff)
+
+In this workshop, we learned techniques to present our selfs and our stories in a light that reccommends us to employers. We learned about what to put on a resume and how to use LinkedIn to passively connect with people to potentially network with. 
+
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
 
