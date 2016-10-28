@@ -226,7 +226,13 @@ where the snag is located in the relationship system instead of at the individua
 
 ### Giving Feedback
 
-(feedback from me)
+To David Knott (for Complete Me): 
+Overall, you were a great partner for Complete Me.  Being our first partner project, 
+we had some awkward learn as we go moments in terms of setting expectations and checking 
+in with each other, but we got through it with smiles and positive attitudes. For future 
+group projects, I recommend you work on communication. It’s my impression that your thoughts develop very quickly, which makes verbalization difficult. For me as the receiver, your ideas sounded choppy and were hard for me to follow. 
+
+On the positive side, I appreciate you fully put yourself out there, expressing your strengths in developing functionality and weaknesses in organization and simplicity. At points where I had developed parts of the project that were ahead of your progress, you always meaningfully contributed to the high-level discussion and low-level implementation of the feature at hand. Lastly, and most simply, I very much appreciate your willingness to show up at 7am each morning this week for pair programming. I think our last two days were especially collaborative and productive because of our commitment to do extra and early work in the beginning.
 
 ### Being a Community Member
 
