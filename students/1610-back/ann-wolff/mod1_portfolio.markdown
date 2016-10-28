@@ -124,21 +124,24 @@ Scores:
 
 This discussion focused on the importance of active citizenship and the role that voting plays in upholding these responsibilies. The readings also probed America's low voter turn-out and the difficulties many voters have in receiving high quality information about issues on the ballot. I was surprised by the strong anti-voting feelings that these discussions brought up. Many doubted the actual power that their voice had in the democracy, but I was convinced by the argument that a democracy depends on its citizens to be effective. 
 
-#### (Session Name)
+#### (Introversion and Extroversion on Teams)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+I valued the reminder that people come from all different perspectives and attitudes. I am a very strong extrovert and so was a little surprised by the views that my introverted classmates held. It seemed like the small group was a place where they could express how they felt about much of the personal development that we do.
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 
 ### Professional Development Workshops
-#### (Session Name)
-
+#### (Personal Branding)
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 * [LinkedIn](https://www.linkedin.com/in/annie-wolff)
 
 In this workshop, we learned techniques to present our selfs and our stories in a light that reccommends us to employers. We learned about what to put on a resume and how to use LinkedIn to passively connect with people to potentially network with. 
+
+#### (Session Name)
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
