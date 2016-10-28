@@ -134,7 +134,7 @@ I valued the reminder that people come from all different perspectives and attit
 
 
 ### Professional Development Workshops
-#### (Personal Branding)
+#### Personal Branding
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 * [LinkedIn](https://www.linkedin.com/in/annie-wolff)
