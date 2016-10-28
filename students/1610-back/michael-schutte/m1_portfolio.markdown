@@ -24,7 +24,7 @@ and provide support frequently in order to create a healthy learning environment
 
 ## B: Individual Work & Projects
 
-Below are the projects I worked on independently to develop mastery of OOP and the Ruby lanuage. 
+Below are the projects I worked on independently to develop mastery of OOP and the Ruby language. 
 They are listed in chronological order.
 
 #### Date Night
@@ -171,10 +171,20 @@ Scores
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
 Voting is an interesting topic. As someone brought up in our discussion, it's hard to imagine anyone
-who is expressedly "anti-voting", so on the other side of fervent "Vote or Die"-type mantras are are not 
+who is explicitly "anti-voting", so on the other side of fervent "Vote or Die"-type mantras are are not 
 fists or counter-arguments, just lazy shoulder shrugs. Moving forward, the dialectic of rights and responsibilities
 is top of mind. It seems like current US culture teaches us to cling to the former, and barely touch the latter, so I want 
 to make a better effort to keep in mind the responsibilities I have that enable my rights.    
+
+#### Introversion and Extroversion
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+I read Susan Cain's book in the spring of 2014. I was a senior in college at the time, and I was amazed to realize I was a bona fide introvert.
+I too used to think that introversion was synonymous with shy or quiet, and was startled to identify over and over again with her descriptions of 
+introverts. It all comes down to where one finds their energy, and in what environments one feels their best. Discussing this at a group level
+was very illuminating, and I especially appreciated our groups closing emphasis on the fact that introversion and extroversion are not deterministic
+qualities. It's just an aspect of personality that is important to keep in mind when working with people.  
 
 #### (session)
 
@@ -232,7 +242,7 @@ we had some awkward learn as we go moments in terms of setting expectations and 
 in with each other, but we got through it with smiles and positive attitudes. For future 
 group projects, I recommend you work on communication. It’s my impression that your thoughts develop very quickly, which makes verbalization difficult. For me as the receiver, your ideas sounded choppy and were hard for me to follow. 
 
-On the positive side, I appreciate you fully put yourself out there, expressing your strengths in developing functionality and weaknesses in organization and simplicity. At points where I had developed parts of the project that were ahead of your progress, you always meaningfully contributed to the high-level discussion and low-level implementation of the feature at hand. Lastly, and most simply, I very much appreciate your willingness to show up at 7am each morning this week for pair programming. I think our last two days were especially collaborative and productive because of our commitment to do extra and early work in the beginning.
+On the positive side, I appreciate you fully put yourself out there, expressing your strengths in developing functionality and weaknesses in organization and simplicity. At points where I had developed parts of the project that were ahead of your progress, you always meaningfully contributed to the high-level discussion and low-level implementation of the feature at hand. Lastly, and most simply, I very much appreciate your willingness to show up at 7am each morning this week for pair programming. I think our last two days were especially collaborative and productive because of our commitment to do extra and early work in the beginning. 
 
 ### Being a Community Member
 
@@ -255,3 +265,4 @@ Kids Who Code
 ### Outcome
 
 ( Leave blanks for reviewers )
+
