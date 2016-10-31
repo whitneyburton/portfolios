@@ -60,6 +60,9 @@ Complete me expanded on the Binary Search Tree project (Date Night) from the pre
 (evaluation scores)
 
 (feedback to me)
+From Laszlo:
+
+I very much enjoyed pairing with Nick on the Complete Me project. Nick has a strong work ethic and a very strong drive to deliver a high quality solution. Nick demonstrated great knowledge of GitHub and was great at sharing that knowledge as well as help me to improve with everything GitHub related. He is great at keeping a disciplined development approach that allowed us to build our project through iteration (test-code-refactor). I would be very happy to pair with Nick on any future projects and anybody who will pair with him will be very pleased with Nick’s value add to the success of any future projects.
 
 ## D: Professional Skills
 (Intro)
