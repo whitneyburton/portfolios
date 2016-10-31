@@ -68,10 +68,11 @@ Build an auto-complete program using a search tree. Include methods to insert, s
 
 (feedback to me)
 
-#### (Project Name)
+#### Black Thursday
 
 * [GitHub URL]()
 * [Original Assignment]()
+* [DTR](https://docs.google.com/document/d/1-znvBm8mFMxhxQet1lleAd5mXd46uliP_S6I8ILk0yo/edit?usp=sharing)
 
 (description)
 
