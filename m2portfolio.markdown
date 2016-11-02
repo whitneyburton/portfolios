@@ -39,9 +39,22 @@ My goals for this mod are: Learn more about the fundamentals of web applications
 
 ### Projects
 
-(Intro)
+This module had included two main group projects.  The first, rush hour, was 
 
-#### (Project Name)
+#### (Rush Hour)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### (Little Shop)
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -55,7 +68,8 @@ My goals for this mod are: Learn more about the fundamentals of web applications
 (feedback to me)
 
 ## D: Professional Skills
-(Intro)
+
+I really enjoyed the professional skills sessions this module.
 
 ### Gear Up
 #### (Session Name)
