@@ -78,15 +78,12 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
   * a blurb about what you did with your posse over the module
   * your favorite thing about the posse experience
   * how has your posse experience helped you grow as a professional?
-
-* Non evaluated projects: Sinatra CRUD, Tool Chest, Mix Master
- * Include what you learned/took away fromt he project.  
-* Peer evaluated projects:  Rails Mini Project
- * Include what you implemented for the extension day. And include a short description of what you built and what you took away/learned from this project.
-* Evaluated projects: Rush Hour, Little Shop
-* Assessments: mid-module, final
+* Non evaluated projects: Rails Mini Project, Mix Master
+ * Include what you learned/took away from the project.  
+* Evaluated projects: Rush Hour, Little Shop, Job Tracker
+* Assessments: Final
 * Professional Skills:
-  *  A recap of reflections from Gear Up
+  * A recap of reflections from Gear Up
   * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
   * Cold email at least one of those five companies from the company tracker
   * Two paragraph reflection on:
