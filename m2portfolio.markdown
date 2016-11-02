@@ -100,6 +100,7 @@ I really enjoyed the professional skills sessions this module.
 ### Playing a Part
 
 I was happy to be able to continue my involvement with the Student Advisory Board this module. I really enjoyed being part of SAB and will sad to leave next mod!  SAB duties generally consisted of attending weekly meetings, bi-weekly staff retro meetings, gathering student community feedback, sharing this feedback with the rest of SAB, leading weekly retros, and communicating student facilities requests with proper staff.  I really enjoyed our weekly retro time, and thought Jon and I did a great job of leading these sessions. Addditionally, I helped to plan the Glow in the Gardens event, as well as helping set up our food/clothing drive over the course of this module. I'm happy to say that the Glow in the Gardens was a success, and I hope that we are able to collect a solid amount of canned food and warm clothes to help out the greater Denver community during these winter months.<br>
+<br> pairing<br>
 I was also active in Joan Clarke society, attending every weekly coffee meeting this mod. <br>
 And lastly, I was involved with the Bezos posse, attending weekly lunch meetings and spike sessions. In addition, I arranged for Bezos to have a meeting with the CEO of GoSpotCheck at his office. Note, he does happen to be my brother ;), but was hopefully a very informative session!
 
