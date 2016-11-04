@@ -40,14 +40,18 @@ This module I will prepare for the interview process through at least one of fol
 
 #### Job-Tracker
 
-* [GitHub URL]https://github.com/AliSchlereth/job-tracker()
-* [Original Assignment]()
+* [GitHub URL]https://github.com/AliSchlereth/job-tracker
+* [Original Assignment](https://github.com/case-eee/job-tracker)
 
-(description)
+This project focuses on creating tables utilizing different data types and foreign keys, creating routes, utilizing MVC with restful routes and CRUD functionality. In addition, this project practices ActiveRecord managing relationships and queries to the database.
 
-(evaluation comments)
-
-(evaluation scores)
+4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.  
+3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.  
+3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.  
+3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.  
+3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.  
+3: The application has been styled, but the user may need to use the nav-bar to enter a URL or back button to get to access some functionality.  
+3: Project has a running test suite that tests and multiple levels but fails to cover some features  
 
 ## C: Group Work & Projects
 
@@ -97,9 +101,9 @@ Ali was a great teammate and excellent communicator. She is open with feedback a
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Resilience
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
 (takeaways from session)
 
@@ -153,8 +157,16 @@ This session we talked about how to address someone when they've made significan
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
-
+Pahlka Posse:    
+* Posse Leader
+As a posse leader I facilitated time management of meetings and utilized structure to involve both ongoing Pahlka members as well as weekly drop in visitors on Fridays.  
+We made forward progress building a game with nested games inside of it.   
+* My favorite part   
+This module I was able to work with a group refactoring JavaScript, explore Node.js and gain some experience with WebPack. I've really enjoyed transferring my knowledge of Ruby to JS.  
+* Personal Growth  
+As a member of a posse, I have grown in two main areas.
+1. Managing group dynamics between peers. Finding the balance between efficiency and dynamic discussion.
+1. Diving into a new language and new frameworks. I'm loving learning new tech skills!
 ------------------
 
 ## Final Review
