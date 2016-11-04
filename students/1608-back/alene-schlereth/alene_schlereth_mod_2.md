@@ -27,6 +27,10 @@ This module I will prepare for the interview process through at least one of fol
 
 (Intro)
 
+#### Blog Post    
+
+* [Blog Post on SRP](https://alischlereth.github.io/2016/10/30/single_responsiblity_and_the_spork.html) 
+
 #### (Project Name)
 
 * [GitHub URL]()
@@ -52,6 +56,22 @@ This project focuses on creating tables utilizing different data types and forei
 3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.  
 3: The application has been styled, but the user may need to use the nav-bar to enter a URL or back button to get to access some functionality.  
 3: Project has a running test suite that tests and multiple levels but fails to cover some features  
+
+### Rails Mini Project
+
+* [GitHub URL](https://github.com/AliSchlereth/idea_box)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+
+For Rails Mini Project, I created an Idea Box with the intention of creating a resource for educators to use in find diverse images to align with lessons and units. I really enjoyed getting to put my own context on this project as it further increased my enthusiasm for what I was creating.    
+My biggest learning take aways from this project surrounded user authorization and authentication. It was also helpful to have to create a project from the very beginning all by myself. It strengthen my confidence in my skills as a Rails Developer.   
+
+#### Mix-Master
+
+* [GitHub URL](https://github.com/AliSchlereth/mix_master)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
+
+Mix-Master was half tutorial half independent work. I really enjoyed the opportunity to still have some guidance while also getting more experience creating functionality and tests independently.  This was a great opportunity to challenge myself but still have easy access to modeled work so as to anaylze where my my growth points were.   
+This project helped me become more comfortable writing tests in RSpec and Capybara.  Additionall, it was good exposure to new types of forms and database relationships.
 
 ## C: Group Work & Projects
 
