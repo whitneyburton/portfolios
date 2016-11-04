@@ -88,9 +88,16 @@ Again awesome job man! Excited to see the refactor and hope to work with you aga
 ### Gear Up
 #### (Session Name)
 
-* [GitHub URL]()
+* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown](Vote Your Conscience)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+  Our discussion was refreshingly full of disagreement. Our first speaker stressed the importance of voting, our second speaker however felt the opposite way, and voiced his apathy with voting. Our third and fourth speakers spoke about using a guide to decide how to vote, which I thought also had a lot of merit. What I took away from all this is that "whether or not voting matters" is something dualistic, that effects everybody these days. They want to believe in voting, but sometimes its hard.We ran out of time before I got a chance to talk, but I basically just wanted to tell everyone how much I enjoyed their input, and that in the future I might start using a guide to vote like we had discussed.  I for one, am a big fan of Barack Obama, as a statesman and an orator, and I was also going to talk about how I think he brings a level of intellectualism to the White House that is missing, traditionally.
+
+  * [https://github.com/turingschool/gear-up/blob/master/introversion.markdown](Introversion)
+
+    This was an almost eerily serendipitous discussion to walk into on Friday afternoon. At lunch, my group had started talking about a guy who had left Turing because he had trouble with all the community and social stuff. He was not really a people person they said, and then they started  to talk about whether or not Turing is too hard on introverts. I for one, said that the "culture" of Turing is well spelled out for us, and that I specifically wanted to come to Turing because of the social aspect, the focus on teamwork, and the community element. Then, after the TED talk video finished, I liked at our rubric and was kind of awe struck that the questions were basically dealing with this exact discussion we had. In a way, during our Gear Up discussion, I felt a little abrasive, as I defended extroversion as a principle, and lashed out somewhat against introversion. But for me, being introverted is something that has caused me a lot of trouble in the past. So when I seek out experiences like team building or joining a community, its kind of my way of "overcoming introversion". For me, everything is about balance, the "yin and the yang". So I know that I like to work at home sometimes, and even need to sometimes. But I don't want to use that as an excuse to lower my attendance and participation, and what I said in our discussion is that I hope Turing sticks with their culture, and continues to encourage social interaction
+
+
+
 
 
 ### Professional Development Workshops
