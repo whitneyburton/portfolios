@@ -24,7 +24,7 @@ My goals for this mod are: Learn more about the fundamentals of web applications
 
 (Intro)
 
-#### (Project Name)
+#### Job Tracker
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -43,10 +43,10 @@ This module had included two main group projects.  The first, rush hour, was
 
 #### (Rush Hour)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/bfpepper/rush-hour)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
-(description)
+Rush Hour was a project to build a tool to track and analyze web traffic. It was a 3 person team project, and as a group we accepted data through what we called a payload, analyzed it, and then displayed the results on a website.  
 
 (evaluation comments)
 
@@ -56,14 +56,11 @@ This module had included two main group projects.  The first, rush hour, was
 
 #### (Little Shop)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/epintozzi/root_and_branch)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-(description)
+Little Shop was a project in which we built an online ecommerce website. Our project was called Root & Branch, and we created an etsy-like platform which sold socially conscious goods.  
 
-(evaluation comments)
-
-(evaluation scores)
 
 (feedback to me)
 
@@ -76,6 +73,9 @@ I really enjoyed the professional skills sessions this module.
 
 * [GitHub URL]()
 
+Voting<br>
+Introversion
+
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 
@@ -84,6 +84,7 @@ I really enjoyed the professional skills sessions this module.
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
+Feedback and collabrative communication 
 
 (takeaways from session)
 
