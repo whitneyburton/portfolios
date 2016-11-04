@@ -158,7 +158,7 @@ This session we talked about how to address someone when they've made significan
 ### Playing a Part
 
 Pahlka Posse:    
-* Posse Leader
+* Posse Leader  
 As a posse leader I facilitated time management of meetings and utilized structure to involve both ongoing Pahlka members as well as weekly drop in visitors on Fridays.  
 We made forward progress building a game with nested games inside of it.   
 * My favorite part   
