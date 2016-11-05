@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+For this module, my main focuses were to grow in confidence as a ruby developer and to aclimate myself to life at Turing.  I hoped to join and contribute to a few groups and become an active member of the community.
 
 ## Rubric Scores
 
@@ -73,6 +73,7 @@ This section includes details about the projects I worked on with at least one o
 
 * [GitHub URL](https://github.com/wlffann/complete_me)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
+* [Partner DTR](https://docs.google.com/document/d/1wuEe-HlkuZ2Vuekzhvack4-OKVn6lAeRtFH42NLjNrU/edit)
 
 For this project, my partner and I built a directed network search that functions as an auto-complete application. It can load a dictionary that then provides suggestions from a word stem provided by the user. The suggestions are weighted based on selection frequency by the specific string provided. 
 
@@ -111,10 +112,10 @@ Scores:
 
   3: Application fulfills all base expectations
 
-(feedback to me)
+My partner, Lucy and I made a good team. 
 
 ## D: Professional Skills
-(Intro)
+This section addresses the 
 
 ### Gear Up
 
@@ -124,14 +125,17 @@ Scores:
 
 This discussion focused on the importance of active citizenship and the role that voting plays in upholding these responsibilies. The readings also probed America's low voter turn-out and the difficulties many voters have in receiving high quality information about issues on the ballot. I was surprised by the strong anti-voting feelings that these discussions brought up. Many doubted the actual power that their voice had in the democracy, but I was convinced by the argument that a democracy depends on its citizens to be effective. 
 
-#### (Introversion and Extroversion on Teams)
+#### Introversion and Extroversion on Teams
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
 I valued the reminder that people come from all different perspectives and attitudes. I am a very strong extrovert and so was a little surprised by the views that my introverted classmates held. It seemed like the small group was a place where they could express how they felt about much of the personal development that we do.
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Resilience
 
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+
+I have many people in my life who model amazing resilience, so this topic is very important to me. In our small group, we discussed what resilience means at Turing and how to support our cohort-mates in their ability to frame challenges as oppurtunities for growth. I was reminded of the importance of developing this attitude in difficult situations and will continue to work towards greater resilience. 
 
 ### Professional Development Workshops
 #### Personal Branding
@@ -156,7 +160,9 @@ In this workshop, we learned techniques to present our selfs and our stories in 
 
 ### Being a Community Member
 
-(feedback to me)
+"Annie! Thanks so much for always setting up opportunities for our cohort to hang out. You make decisions for the group without being overbearing, and it definitely strengthens our bond. Putting the Wolff in Wolffpack!" -Mike Shutte
+
+
 
 ### Playing a Part
 
