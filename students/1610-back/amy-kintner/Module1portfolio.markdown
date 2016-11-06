@@ -77,13 +77,13 @@ In our project retro, Kyle and I both agreed that we worked well together and ou
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### (Personal Branding)
 
-* [Workshop URL]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 * [Link to LinkedIn Page] (https://www.linkedin.com/in/amy-kintner)
 * [Link to Resume PDF](https://turingschool.slack.com/files/akintner7/F2T36PH8T/amy_kintner_resume.pdf)
 
-(some stuff here - all the best stuff, only the best stuff)
+(Going into this, I had used LinkedIn quite a bit, so a portion of the material from this session was repetitive for me. I did, however, gather some great info about where to make nice resumes online (Creddle.io), and how to turn the focus of your LinkedIn to being tech and software-development focused. For me, having come from years of high-level academia work, eliminating material from my CV to create a one-page resume was a painful process; all those publicaitons, all those conferences, all those years of work, that's all gone. I spent some great time with my mentor - who is quite senior and has acted as a hiring manager - going through my CV and deciding what to eliminate and what to include, as well as how to structure the end result. He was super pleased with the creddle resume I created, as was I. Of course I await other perspectives from folks at Turing, as well.)
 
 ## E: Feedback and Community Participation
 
