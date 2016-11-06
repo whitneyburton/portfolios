@@ -2,7 +2,9 @@
 
 ## Areas of Emphasis
 
-For this module, my main focuses were to grow in confidence as a ruby developer and to aclimate myself to life at Turing.  I hoped to join and contribute to a few groups and become an active member of the community.
+For this module, my main focuses were to grow in confidence as a ruby developer and to aclimate myself to life at Turing. Much of my energy went towards learning the material and doing good work on my projects, and I think that this work has helped me achieve my first goal. I feel that the work that I've done in this session has prepped me to jump into the challenges coming in the next module. I knew early on that I would find it challenging to admit when I am struggling, so I set goals early on to set up pairings and reach out for help early and often. This was instrumental to my ability to succeed and I am looking   forward to being able to give back to students who come in the next module. 
+
+I hoped to join and contribute to a few groups and become an active member of the community. I think I could have worked harder to achieve this goal, but I have gotten a lot out of the groups I've joined. I have given presentations to my posse, attended many Imposter Lunches and become close friends with many of my classmates. I hope that moving forward, I can be an even more active member of the community.
 
 ## Rubric Scores
 
@@ -112,16 +114,22 @@ Scores:
 
   3: Application fulfills all base expectations
 
-My partner, Lucy and I made a good team. 
+#### BlackThursday
+
+* [GitHub URL](https://github.com/wlffann/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [Partner DTR](https://docs.google.com/document/d/1Q5F5tmlT4mkO0JdqqU0Ahs9plPnyAVXuLNIoEPEQyxQ/edit?usp=sharing)
+
+In this project, we worked with large csv files containing ecommerce data. We built a program that parsed the data and created objects that interacted to show detailed information about the merchants, customers, and the items that have been purchased. We provide a class that preforms analytics on the dataset to provide meaningful interpretation of the data.
 
 ## D: Professional Skills
-This section addresses the 
+This section includes details about the programs we participate that address issues in the tech industry and teach us professional skills to help us as we leave Turing. 
 
 ### Gear Up
 
 #### Vote Your Conscience
 
-* [Discussion Prompt](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
 This discussion focused on the importance of active citizenship and the role that voting plays in upholding these responsibilies. The readings also probed America's low voter turn-out and the difficulties many voters have in receiving high quality information about issues on the ballot. I was surprised by the strong anti-voting feelings that these discussions brought up. Many doubted the actual power that their voice had in the democracy, but I was convinced by the argument that a democracy depends on its citizens to be effective. 
 
@@ -163,10 +171,11 @@ In this workshop, we learned techniques to present our selfs and our stories in 
 "Annie! Thanks so much for always setting up opportunities for our cohort to hang out. You make decisions for the group without being overbearing, and it definitely strengthens our bond. Putting the Wolff in Wolffpack!" -Mike Shutte
 
 
-
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Although I still feel that I can continue to grow into my role as a community member at Turing, I've been able to give back in some rewarding ways. As a member of the Verou posse, I led a discussion on Bootstrap that covered its benefits and drawbacks. I have also been able to attend many of their meetings and be an engaged member of thr group. I've also become a regular of Imposter Lunches, where we support each other or just provide an oppurtunity to not stress about school work.
+
+Within our own cohort, we have begun to build our own close community and support system. Amara Lovato and Lucy Conklin and I have arranged a weekly happy hour on Thursdays that has been a great opportunity to become closer and learn new things about everyone in our cohort. Many members of our class have families or live far outside of town, so it has been wonderful to have a time when we can plan on being together and unwind after a stressful week. 
 
 ------------------
 
