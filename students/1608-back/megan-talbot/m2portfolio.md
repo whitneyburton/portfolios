@@ -34,20 +34,20 @@ Job Tracker was a project which focused on creating an application to track job 
 I enjoyed this project quite a bit and was happy to see my progress in such a tangible way. The new "analysis" section was more challenging that what I had created in the past, but I was happy to be able to complete that section as well.  I have also focused on refactoring this project a bit, and plan to continue to do so over my intermission week.
 
 Evaluation Scores:<br>
-1: Database, Relationships, and Migrations
-  4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
-2) Routes
-  3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
-3) Controllers
-  3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.
-4) ActiveRecord
-  4: ActiveRecord methods are used in models to supply all appropriate functionality. Methods exist on the appropriate model, and developers are not referencing other classes or self in models unnecessarily. Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality. The developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models.
-5) Views
-  3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
-6) User Experience
-  4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
-7) Testing
-  3: Project has a running test suite that tests and multiple levels but fails to cover some features
+1: Database, Relationships, and Migrations<br>
+  4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.<br>
+2) Routes<br>
+  3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.<br>
+3) Controllers<br>
+  3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.<br>
+4) ActiveRecord<br>
+  4: ActiveRecord methods are used in models to supply all appropriate functionality. Methods exist on the appropriate model, and developers are not referencing other classes or self in models unnecessarily. Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality. The developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models.<br>
+5) Views<br>
+  3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.<br>
+6) User Experience<br>
+  4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.<br>
+7) Testing<br>
+  3: Project has a running test suite that tests and multiple levels but fails to cover some features<br>
 
 
 
