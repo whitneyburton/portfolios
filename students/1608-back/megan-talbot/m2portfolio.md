@@ -26,14 +26,30 @@ My goals for this mod are: Learn more about the fundamentals of web applications
 
 #### Job Tracker
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/meganft/job-tracker)
+* [Original Assignment](https://github.com/case-eee/job-tracker)
 
-(description)
+Job Tracker was a project which focused on creating an application to track job leads for a someone. This was an individual project, and I was tasked with using migrations to make tables with appropriate relationships, using Active Records for database queries, setting the appropriate routes, using controllers to create CRUD functionality, and setting up my views following best practices. <br>
 
-(evaluation comments)
+I enjoyed this project quite a bit and was happy to see my progress in such a tangible way. The new "analysis" section was more challenging that what I had created in the past, but I was happy to be able to complete that section as well.  I have also focused on refactoring this project a bit, and plan to continue to do so over my intermission week.
 
-(evaluation scores)
+Evaluation Scores:<br>
+1: Database, Relationships, and Migrations
+  4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+2) Routes
+  3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
+3) Controllers
+  3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.
+4) ActiveRecord
+  4: ActiveRecord methods are used in models to supply all appropriate functionality. Methods exist on the appropriate model, and developers are not referencing other classes or self in models unnecessarily. Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality. The developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models.
+5) Views
+  3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
+6) User Experience
+  4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
+7) Testing
+  3: Project has a running test suite that tests and multiple levels but fails to cover some features
+
+
 
 ## C: Group Work & Projects
 
