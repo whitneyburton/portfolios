@@ -66,7 +66,7 @@ Commentary from the evaluation: We rocked this project. I was super happy with h
 In our project retro, Kyle and I both agreed that we worked well together and our project was successful as a result. The issue he said could probably use improvement was the fact that we decided to do the insert and count methods separately over the weekend, then spend Sunday night discussing what we achieved on Screenehro, and spend Monday afternoon and after school re-writing the entire program from scratch. In retrospect, Kyle feels it may have been better to have done more work together, perhaps especially the creation of a testing suite, as early as Friday and THEN have moved forward over the weekend with the assurance that our lanague would at least be similar when creating our insert and count methods. I agree, and we both think outlining and making a testing suite before we start the next project will be super helpful. Additionally, Kyle thanked me for the level of friendly communication we had before we started each pairing session and said it helped to establish some small level of friendship before we dug into work every day. 
 
 ## D: Professional Skills
-(Intro)
+(blah blah, some stuff here)
 
 ### Gear Up
 #### (Session Name)
@@ -80,9 +80,10 @@ In our project retro, Kyle and I both agreed that we worked well together and ou
 #### (Session Name)
 
 * [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Link to LinkedIn Page] (https://www.linkedin.com/in/amy-kintner)
+* [Link to Resume PDF](https://turingschool.slack.com/files/akintner7/F2T36PH8T/amy_kintner_resume.pdf)
 
-(takeaways from session)
+(some stuff here - all the best stuff, only the best stuff)
 
 ## E: Feedback and Community Participation
 
