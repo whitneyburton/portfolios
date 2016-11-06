@@ -118,7 +118,7 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
-Feedback and collabrative communication 
+
 
 (takeaways from session)
 
@@ -126,7 +126,7 @@ Feedback and collabrative communication
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
-Feedback and collabrative communication 
+
 
 (takeaways from session)
 
@@ -134,7 +134,7 @@ Feedback and collabrative communication
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
-Feedback and collabrative communication 
+
 
 (takeaways from session)
 
