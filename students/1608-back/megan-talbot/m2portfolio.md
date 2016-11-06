@@ -50,6 +50,15 @@ Evaluation Scores:<br>
   3: Project has a running test suite that tests and multiple levels but fails to cover some features<br>
 
 
+#### Rails Mini Project 
+
+* [GitHub URL](https://github.com/meganft/gif-generator)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+
+This was another individual project in which we were able to choose which project we wanted to work on. I chose the "gif generator" where a user can login, browse gifs, and favorite their own. There is also admin functionality, in which an admin can generate gifs. This project was a lot of fun for me, and I also plan to work on it a bit more in intermission week as well, even though it was not scored.
+
+#### Mix master?
+
 
 ## C: Group Work & Projects
 
@@ -85,9 +94,22 @@ Little Shop was a project in which we built an online ecommerce website. Our pro
 I really enjoyed the professional skills sessions this module.
 
 ### Gear Up
-#### (Session Name)
 
-* [GitHub URL]()
+#### Vote Your Conscience
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+
+
+#### Introversion and Extroversion on Teams
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+Voting<br>
+Introversion
+
+#### Resilience 
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
 Voting<br>
 Introversion
@@ -96,6 +118,7 @@ Introversion
 
 
 ### Professional Development Workshops
+
 #### (Session Name)
 
 * [Workshop URL]()
