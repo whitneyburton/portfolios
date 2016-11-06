@@ -34,7 +34,7 @@ Job Tracker was a project which focused on creating an application to track job 
 
 I enjoyed this project quite a bit and was happy to see my progress in such a tangible way. The new "analysis" section was more challenging that what I had created in the past, but I was happy to be able to complete that section as well.  I have also focused on refactoring this project a bit, and plan to continue to do so over my intermission week.
 
-_Evaluation Scores:_<br>
+__Evaluation Scores:__<br>
   4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.<br>
   3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.<br>
   3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.<br>
