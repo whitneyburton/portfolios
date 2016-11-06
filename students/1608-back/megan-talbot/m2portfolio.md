@@ -2,7 +2,8 @@
 
 ## Areas of Emphasis
 
-My goals for this mod are: Learn more about the fundamentals of web applications; be able to build a web application  on my own; understand what happens when someone visits a website; improve my use of keyboard shortcuts; build a broader foundation of HTML/CSS capabilities.
+My goals at the beginning of this mod were to learn more about the fundamentals of web applications; be able to build a web application  on my own; understand what happens when someone visits a website; improve my use of keyboard shortcuts; and build a broader foundation of HTML/CSS capabilities.  <br>
+I am happy to say that I have accomplished all of those goals.  I am very pleased with all of my projects from this module. I hope to continue to work on each of them to be able to use them on my resume. It's almost hard to believe that I learned all of these things in 6 weeks, and how little I knew coming into Mod 2!
 
 
 ## Rubric Scores
@@ -33,7 +34,7 @@ Job Tracker was a project which focused on creating an application to track job 
 
 I enjoyed this project quite a bit and was happy to see my progress in such a tangible way. The new "analysis" section was more challenging that what I had created in the past, but I was happy to be able to complete that section as well.  I have also focused on refactoring this project a bit, and plan to continue to do so over my intermission week.
 
-Evaluation Scores:<br>
+_Evaluation Scores:_<br>
   4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.<br>
   3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.<br>
   3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.<br>
@@ -84,7 +85,7 @@ Little Shop was a project in which we built an online ecommerce website. Our pro
 
 ## D: Professional Skills
 
-I really enjoyed the professional skills sessions this module.
+I really enjoyed the professional skills sessions this module. We had 3 interesting gear ups, and we had some useful sessions with the Lia and Meg. I may be in the minority within my cohort, but I really like beginning the job-hunting aspect of Turing. 
 
 ### Gear Up
 
@@ -120,6 +121,32 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 Feedback and collabrative communication 
 
 (takeaways from session)
+
+#### Finding Opportunities with Lia
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+Feedback and collabrative communication 
+
+(takeaways from session)
+
+#### Cold Outreach with Meg
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+Feedback and collabrative communication 
+
+(takeaways from session)
+
+#### Collaborative Communication with Allison
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+Feedback and collabrative communication 
+
+(takeaways from session)
+
+
 
 ## E: Feedback and Community Participation
 
