@@ -56,6 +56,7 @@ HTML: 3 - Developer solves structural problems with a balance between concisenes
 
 CSS: 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
+
 ## Team
 
 ### Projects
