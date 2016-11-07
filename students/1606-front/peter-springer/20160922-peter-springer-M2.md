@@ -1,5 +1,3 @@
-<h1 style="color: yellow">Peter Springer</h1>
-
 # M2 Front-end Portfolio
 
 ### Areas of Emphasis
