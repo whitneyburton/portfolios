@@ -35,13 +35,13 @@ Job Tracker was a project which focused on creating an application to track job 
 I enjoyed this project quite a bit and was happy to see my progress in such a tangible way. The new "analysis" section was more challenging that what I had created in the past, but I was happy to be able to complete that section as well.  I have also focused on refactoring this project a bit, and plan to continue to do so over my intermission week.
 
 __Evaluation Scores:__<br>
-  4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.<br>
-  3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.<br>
-  3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.<br>
-  4: ActiveRecord methods are used in models to supply all appropriate functionality. Methods exist on the appropriate model, and developers are not referencing other classes or self in models unnecessarily. Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality. The developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models.<br>
-  3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.<br>
-  4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.<br>
-  3: Project has a running test suite that tests and multiple levels but fails to cover some features<br>
+4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.<br>
+3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.<br>
+3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.<br>
+4: ActiveRecord methods are used in models to supply all appropriate functionality. Methods exist on the appropriate model, and developers are not referencing other classes or self in models unnecessarily. Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality. The developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models.<br>
+3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.<br>
+4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.<br>
+3: Project has a running test suite that tests and multiple levels but fails to cover some features<br>
 
 
 #### Rails Mini Project 
@@ -49,9 +49,14 @@ __Evaluation Scores:__<br>
 * [GitHub URL](https://github.com/meganft/gif-generator)
 * [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
-This was another individual project in which we were able to choose which project we wanted to work on. I chose the "gif generator" where a user can login, browse gifs, and favorite their own. There is also admin functionality, in which an admin can generate gifs. I need to work a bit on refactoring this project, and improving the testing. However, this project was a lot of fun for me, and I plan to work on it a bit more in intermission week as well, even though it was not scored.  
+This was an unscored individual project in which we were able to choose which project we wanted to work on. I chose the "gif generator" where a user can login, browse gifs, and favorite their own. There is also admin functionality, in which an admin can generate gifs. I need to work a bit on refactoring this project, and improving the testing. However, this project was a lot of fun for me, and I plan to work on it a bit more in intermission week as well to use as part of my portfolio/resume. 
 
-#### Mix master?
+#### Mix master
+
+* [GitHub URL](https://github.com/meganft/mix_master)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
+
+This was more of a tutorial style project where we made our first real application in rails. We made an app that could keep track of songs, artists, and playlists. This project was very thorough and clear in expectations, but it was very helpful as well. I even added the Spotify login, which was an optional extension, but very cool to be able to complete. It was also the first project that I pushed to Heroku. I really enjoyed being able to actually show people something I had created on Heroku! This is a project that I would certainly want to clean up styling-wise, but I stil very satisfied with my it. 
 
 
 ## C: Group Work & Projects
@@ -65,11 +70,17 @@ This module had included two main group projects.  The first, rush hour, was
 * [GitHub URL](https://github.com/bfpepper/rush-hour)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
-Rush Hour was a project to build a tool to track and analyze web traffic. It was a 3 person team project, and as a group we accepted data through what we called a payload, analyzed it, and then displayed the results on a website.  
+Rush Hour was a project to build a tool to track and analyze web traffic. It was a 3 person team project, and as a group we accepted data through what we called a payload, analyzed it, and then displayed the results on a website.   
 
-(evaluation comments)
+__Evaluation Scores:__<br>
+3: Application fulfills base expectations
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+3: Application shows strong effort towards organization, content, and refactoring
+3: Application makes good use of Sinatra but has some mixing of the web and business logic.
+3: Application breaks components out to view partials but has some logic or complexity leaking into the view
+(not graded)3: Good use of branches, pull requests, and a project-management tool.
 
-(evaluation scores)
 
 (feedback to me)
 
@@ -114,37 +125,42 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 
 ### Professional Development Workshops
 
-#### (Session Name)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+#### Finding Opportunities
 
-
-(takeaways from session)
-
-#### Finding Opportunities with Lia
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
+* [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker)
 
 
 (takeaways from session)
 
-#### Cold Outreach with Meg
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-
-(takeaways from session)
 
 #### Collaborative Communication with Allison
 
-* [Workshop URL]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/collaborative_communication.md)
 * [Link to Completed Deliverables]()
-Feedback and collabrative communication 
+
 
 (takeaways from session)
+
+
+#### Cold Outreach
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/tree/master/module_two)
+* [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker)
+
+
+(takeaways from session)
+
+
+#### Networking
+
+* [Workshop URL]https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
+* [Link to Completed Deliverables]()
+
+
+(takeaways from session)
+
 
 
 
@@ -165,6 +181,15 @@ I was happy to be able to continue my involvement with the Student Advisory Boar
 Additionally, I was also active in Joan Clarke society, attending every weekly coffee meeting this mod. I also paired with Mod 1 students 7 different times, which was hopefully at least a little bit as helpful for them as it was for me! <br>
 <br>
 And lastly, I was involved with the Bezos posse, attending weekly lunch meetings and spike sessions. I have already had discussion with the current Bezos leaders to take over that role in Mod 4. In addition, I arranged for Bezos to have a meeting with the CEO of GoSpotCheck at his office. (Note: he does happen to be my brother ;), but was hopefully a very informative session!)
+
+you're in a posse - please include:
+a blurb about what you did with your posse over the module
+your favorite thing about the posse experience
+how has your posse experience helped you grow as a professional?
+
+Two paragraph reflection on:
+Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+How you incorporated feedback from your team members and what you learned about yourself in the process.
 
 ------------------
 
