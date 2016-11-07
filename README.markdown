@@ -52,12 +52,33 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
   * Copy for a personal website
 
+### Module 2 (Back-end)
+
+* Evaluation notes - You need to take notes during assessments/evaluations
+* Blog post (>=1)
+* Self-solicited continual peer feedback
+* If you're in a posse - please include:
+  * a blurb about what you did with your posse over the module
+  * your favorite thing about the posse experience
+  * how has your posse experience helped you grow as a professional?
+* Non evaluated projects: Rails Mini Project, Mix Master
+ * Include what you learned/took away from the project.
+* Evaluated projects: Rush Hour, Little Shop, Job Tracker
+* Assessments: Final
+* Professional Skills:
+  * A recap of reflections from Gear Up
+  * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
+  * Cold email at least one of those five companies from the company tracker
+  * Two paragraph reflection on:
+    1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+    2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+
 ### Module 2 (Front-end)
 
 * Individual Assessment: Passing Score (All 3's) required
 * Required Project: Final Project (Shoot The Breeze) -- Passing Score (All 3's) required
 * Included Projects:
- * A Very Lonely Chat Room  
+ * A Very Lonely Chat Room
  * Tier One Project
  * Tier Two Project
 * Feedback: Self-Solicited and from Feedback App
@@ -69,28 +90,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
      1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
      2. How you incorporated feedback from your team members and what you learned about yourself in the process.
 
-### Module 2 (Back-end)
-
-* Evaluation notes - You need to take notes during assessments/evaluations
-* Blog post (>=1)
-* Self-solicited continual peer feedback
-* If you're in a posse - please include:
-  * a blurb about what you did with your posse over the module
-  * your favorite thing about the posse experience
-  * how has your posse experience helped you grow as a professional?
-* Non evaluated projects: Rails Mini Project, Mix Master
- * Include what you learned/took away from the project.  
-* Evaluated projects: Rush Hour, Little Shop, Job Tracker
-* Assessments: Final
-* Professional Skills:
-  * A recap of reflections from Gear Up
-  * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Cold email at least one of those five companies from the company tracker
-  * Two paragraph reflection on:
-    1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
-    2. How you incorporated feedback from your team members and what you learned about yourself in the process.
-
-### Module 3
+### Module 3 (Back-end)
 
 * Individual Assessment
 * Included Projects: Self-Directed Project, Rales Engine, Cloney Island
@@ -104,6 +104,18 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
   * Completed Flower Exercise
   * Job search strategy set with daily, weekly, monthly goals
 
+### Module 3 (Front-end)
+
+* Individual Assessment
+* Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
+* Bonus Project (not required): None
+* Feedback: Self-Solicited and collected from Weather Forecast and Remember
+* Professional Skills:
+  * A recap of reflections from Gear Up
+  * Turing alumni portfolio
+  * Pitch for personal project/Documentation showing your thought process
+  * Completed Flower Exercise
+  * Job search strategy set with daily, weekly, monthly goals
 
 ### Module 4
 
