@@ -1,17 +1,17 @@
 
-# Brian Heim - M2 Portfolio
+# Brian Heim - M3 Portfolio
 
 ## Areas of Emphasis
 
-I set out to improve upon my Mod 1 performance this module, not only in academics but in community involvement and professional skills as well. In academics, I wanted to focus more on making sure that I truly grasped concepts and could easily execute new skills through practice and repetition. I feel as though I achieved this goal, and truly put in the hours and never got behind of the steady Mod 2 workload. In the community I especially set out to be more involved in posses, and ended up joining Armstrong after some encouragement from Jean, who had heard that I did statistics and advanced calculus in college. I am very happy in Armstrong and have attended as many meetings as possible. With regard to Professional Skills, I wanted to learn more about how to navigate the tech job marketplace. Lia's sessions were very helpful and outlined some great strategies to aid with the job hunt and getting noticed through networking both in person and on social media. Another goal for me was to attend the Denver Startup Week job fair and gain some experience talking to companies and presenting myself well.      
+      
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 4
-* **E: Feedback & Community Participation**: 3
+* **A: End-of-Module Assessment**: x
+* **B: Individual Work & Projects**: x
+* **C: Group Work & Projects**: x
+* **D: Professional Skills**: x
+* **E: Feedback & Community Participation**: x
 
 ---
 
@@ -19,27 +19,21 @@ I set out to improve upon my Mod 1 performance this module, not only in academic
 
 #### 1. Analytic/Algorithmic Thinking
 
-* 3: Developer breaks complex problems into small, digestible steps and executes them
 
 #### 2. Ruby Syntax & Standard Library
 
-* 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
 
 #### 3. Rails Syntax & API
 
-* 3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
 
 #### 4. MVC & Rails Style
 
-* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
 
 #### 5. Testing
 
-* 3: Developer writes tests at multiple layers of abstraction to drive development with guidance
 
 #### 6. Collaboration
 
-* 3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
 
 ---
 
