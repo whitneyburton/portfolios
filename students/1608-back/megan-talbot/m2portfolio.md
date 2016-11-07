@@ -73,13 +73,13 @@ This module had included two main group projects.  The first, rush hour, was
 Rush Hour was a project to build a tool to track and analyze web traffic. It was a 3 person team project, and as a group we accepted data through what we called a payload, analyzed it, and then displayed the results on a website.   
 
 __Evaluation Scores:__<br>
-3: Application fulfills base expectations
-4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-3: Application effectively breaks logical components apart but breaks the principle of SRP
-3: Application shows strong effort towards organization, content, and refactoring
-3: Application makes good use of Sinatra but has some mixing of the web and business logic.
-3: Application breaks components out to view partials but has some logic or complexity leaking into the view
-(not graded)3: Good use of branches, pull requests, and a project-management tool.
+3: Application fulfills base expectations<br>
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data<br>
+3: Application effectively breaks logical components apart but breaks the principle of SRP<br>
+3: Application shows strong effort towards organization, content, and refactoring<br>
+3: Application makes good use of Sinatra but has some mixing of the web and business logic.<br>
+3: Application breaks components out to view partials but has some logic or complexity leaking into the view<br>
+(not graded)3: Good use of branches, pull requests, and a project-management tool.<br>
 
 
 (feedback to me)
@@ -164,6 +164,10 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 
 
 
+`Two paragraph reflection on:
+Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+How you incorporated feedback from your team members and what you learned about yourself in the process.`
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
@@ -178,18 +182,9 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 
 I was happy to be able to continue my involvement with the Student Advisory Board this module. I really enjoyed being part of SAB and will sad to leave next mod!  SAB duties generally consisted of attending weekly meetings, bi-weekly staff retro meetings, gathering student community feedback, sharing this feedback with the rest of SAB, leading weekly retros, and communicating student facilities requests with proper staff.  I really enjoyed our weekly retro time, and thought Jon and I did a great job of leading these sessions. Addditionally, I helped to plan the Glow in the Gardens event, as well as helping set up our food/clothing drive over the course of this module. I'm happy to say that the Glow in the Gardens was a success, and I hope that we are able to collect a solid amount of canned food and warm clothes to help out the greater Denver community during these winter months.<br>
 <br> 
-Additionally, I was also active in Joan Clarke society, attending every weekly coffee meeting this mod. I also paired with Mod 1 students 7 different times, which was hopefully at least a little bit as helpful for them as it was for me! <br>
+Additionally, I was active in Joan Clarke society, attending every weekly coffee meeting this mod. I also paired with Mod 1 students 7 different times, which was hopefully at least a little bit as helpful for them as it was for me! <br>
 <br>
-And lastly, I was involved with the Bezos posse, attending weekly lunch meetings and spike sessions. I have already had discussion with the current Bezos leaders to take over that role in Mod 4. In addition, I arranged for Bezos to have a meeting with the CEO of GoSpotCheck at his office. (Note: he does happen to be my brother ;), but was hopefully a very informative session!)
-
-you're in a posse - please include:
-a blurb about what you did with your posse over the module
-your favorite thing about the posse experience
-how has your posse experience helped you grow as a professional?
-
-Two paragraph reflection on:
-Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
-How you incorporated feedback from your team members and what you learned about yourself in the process.
+And lastly, I was involved with the Bezos posse, attending weekly lunch meetings and spike sessions. We had great discussions on things like user testing and agile development. Additionally, we did a $5 challenge, where we were each tasked with making as much money as we could with only $5. My group didn't have great success, but we learned a lot! I know that these activities will help me grow as a professional, as I have learned a ton from being around other entrepreneurial-minded people. I have also already had discussion with the current Bezos leaders to take over that role in Mod 4. And finally, I arranged for Bezos to have a meeting with the CEO of GoSpotCheck at his office. (Note: he does happen to be my brother ;), but hopefully it a very informative session!
 
 ------------------
 
