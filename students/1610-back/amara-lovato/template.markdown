@@ -249,6 +249,9 @@ This too?
 
 ### Being a Community Member
 
+From Edilene Cruz:
+Amara, your positivity is absolutely contagious and your desire to strenghthen the student community is amazing! During the hardships that learning something new brings, you were always there to encourage and remind me the ultimate goal of this amazing, crazy and long road we are on. I hope that I will have the chance to work with you in a project and continue to share a little bit of our cultures through food like we did this module. Keep spreading positivity!
+
 (feedback to me)
 
 # Playing a Part
