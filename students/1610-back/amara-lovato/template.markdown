@@ -248,6 +248,9 @@ This too?
 To Edilene Cruz:
 Edilene, your incredible resilience and hard work are an inspiration to me. Your always positive and encouraging attitude made many of us keep moving forward in this challenging experience. You are a very caring person with a big heart, always asking us how we were doing and sharing with us resources and even pairing sessions in your committed will to help us. I am positive that you will be successful in your goal to become a great developer because you are not only smart and resourceful but also a one-of-a-kind team member.
 
+To Annie Wolff:
+Annie, I love that you are always eager to help us and you have a unique way to do it. You are always active listening (never assuming things), you support us to find the solutions for ourselves, you never use advance words that can make us feel behind and you have always nice words to encourage us. You are an advance coder but always humble so that makes you even better from my perspective. Your cheerfulness and energy in the group makes a big positive difference, you make us laugh with your authenticity and fresh personality. You are a great human asset for the Turing community, I see you in the soon future becoming a great programmer and an awesome mentor. I feel very lucky to have met you!
+
 ### Being a Community Member
 
 From Edilene Cruz:
@@ -255,6 +258,9 @@ Amara, your positivity is absolutely contagious and your desire to strenghthen t
 
 From Marlo Major:
 I've been working with Amara for several weeks now and I have to say I am super proud of how far she's come. Initially, there was the typical Turing module one worry that everyone goes through, but over time, it's been great to see her take this stress and use it as a strength. It's been great watching her go from "I don't know what I'm doing at all" to a well written test suite, 100% test driven project, and a clearly written, easily maintainable project. One critique I have for Amara is that she tends to have too much caution when it comes to writing code or giving an answer to a problem.  It would be nice if she eventually learned how to throw caution to the wind and dig in, failing possibly but also learning what works and what doesn't faster. It's been an immense pleasure mentoring Amara. It's actually one of the things I'm most proud to have ever contributed to the Turing community. It had excited me to take on more students in the future, which I certainly plan on doing!
+
+From Annie Wolff:
+Amara, your dedication to learning the material is almost unmatched in our cohort. Even when you are frustrated, you persevere in your effort to understand and master ruby. Moreover, you are able to look past current struggles and see many learning opportunities that you go after with gusto. You do not accept the status quo and your efforts to grow and change consistently improve the experience of your peers. You're a natural leader and I feel fortunate that I get to work with you everyday.
 
 # Playing a Part
 
