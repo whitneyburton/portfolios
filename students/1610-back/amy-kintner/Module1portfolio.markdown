@@ -1,8 +1,10 @@
 # Amy Kintner - Module 1 Portfolio
 
-## Statement of Research Goals
+## Statement of Goals
+Looking back at what I wrote on day 1 as my learning goals, one major thing stands out: “I got mega thrown under the bus by a former colleague, so I need to try to trust everyone and always assume they are being fair, honest, and helpful.” The repercussions of being thrown under the bus have tailed me in some form for the past five years of my life, and part of my decision to change careers and come here stem from wanting to be rid of that persistent tail. Embracing the career change was hard at first, mostly because I had little trust in others or myself. Learning to trust was, for me, the most major obstacle. 
+<br>
+What I learned over the course of the semester was that this type of work is nothing like what I’ve done before, a third because of the burden of learning the actual technical skills, and two thirds because of the collaborative environment. For my field in academia, no one really works together, no one researches together, no one publishes together, no one really collaborates on anything at a career-level. With that in mind, changing my mindset for paired work was more than a little difficult, though I welcomed the opportunity. 
 
-+some stuff here+ All the stuff+ The Best Stuff+
 
 ## Rubric Scores
 
@@ -22,6 +24,7 @@
 ## B: Individual Work & Projects
 
 For the first part of this term, I was part of the Echo group. In that half of the module, I felt continually behind and like I was probably the lowest member of the group (regardless of whether or not this was true, it was how I perceived the first half of the semester, and I had no way to know differently). 
+<br>
 For the latter part after the mid-term evaluation, I was a member of the merged class that did the HTTP project. This project was extremely frustrating due to a VERY small time-frame in which to work, though I liked it quite a lot and felt the knowledge was integral to progressing through other modules at Turing.
 
 #### Date Night - Individual Project One
@@ -30,7 +33,7 @@ For the latter part after the mid-term evaluation, I was a member of the merged 
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
 For Date Night, we were tasked with creating a Binary Search Tree that would accept insertions in the form of a movie and a score. These movies and scores would populate the tree with nodes to the left and the right, with the first submission acting as a root node from which all other nodes would stem. Each new movie and score would be vetted against scores and titles already present in the tree and would then be inserted accordingly (i.e. to the right if the score was higher and not already present, to the left if the score was lower and not already present, and not at all if the title was already present). 
-
+<br>
 Commentary about the evaluation: Overall, the experience was much less terrifying than I'd prepped myself to believe; I enjoyed the review process and got some great advice from Beth about refactoring methods. I was hoping and expecting to get a 3 for my testing suite, which I didn't. This was upsetting simply because I misunderstood the testing protocols and had interpreted the phrase "balance of isolation and integration tests" to mean that I tested some methods individually, but tested some things together, i.e. integrate some of the tests to account for multiple things at once. I got dinged for having tests that did too many things in a single test, however, since what integration testing was not explicitly made clear until the second TDD lesson in the third week, I feel I was unfairly judged against a rubric that wasn't clear.
 
 * Beth's evaluation (https://github.com/turingschool/ruby-submissions/edit/master/1610-b/date_night/amy-kintner.md)
@@ -54,7 +57,7 @@ Commentary about the evaluation: This project was the most frustrating so far fo
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
 For Complete Me - our first paired project at Turing - the Echo group was working to populate a Trie with words from a dictionary (the entirety of which contained 260,000 words. From a root node, the tree would popular words into an effectively unlimited number of subsidiary nodes, each of which contained a letter and links to other letters. Traversing these nodes would ultimately end with letters that terminated a word and be indicated as such. The program could suggest words, given a fragment, and also delete words from the dictionary by removing all links between letters of that word. 
-
+<br>
 Commentary from the evaluation: We rocked this project. I was super happy with how it worked out, and since we'd run the spec harness in advance, Jeff seemed very pleased with everything. Kyle and I were both very happy with the way everything turned out; it was an amazing first pairing project for me.
 
 * Jeff's evaluation (https://github.com/turingschool/ruby-submissions/blob/master/1610-b/complete_me/kyle_amy.md)
@@ -65,7 +68,7 @@ Commentary from the evaluation: We rocked this project. I was super happy with h
  * [Original Assignment] (https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
  
 For Black Thursday - our second paired project at Turing - the entire cohort was finally merged. This is a giant, intensely interconnected business intelligence project that will begin with the making of CSV data repositories, and move into business analytics and statistics. The project has 5 total parts, spread amongst Iterations 0-3 and either Iteration 4 or 5.  
-
+<br>
 Commentary from the evaluation:
 
 * evaluation ()
@@ -84,6 +87,7 @@ Our group ended up having quite the conversation about leadership and gender. Ba
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
 I thought doing this in our own cohorts was a great idea, and the smaller group I was in for the talk - Josh, Jason, Nick E and I - ended up having a very thorough talk about previous work situations in which a boss who was either an distinct introvert or a distinct extrovert caused problems for a team. Having Josh and Jason there, both ex-enlisted military men, added an interesting dynamic to the talk, as their stories about bosses and work situations were vastly different from Nick's and my own. 
+<br>
 In terms of the actual introvert/extrovert spectrum, I usually fall smack dab in the center (the video we watched would label me an "ambivert"): while I can be gregarious and talkative, I need time alone to recoup my energies after doing anything in a group. For this reason, I do find the long days at Turing to be extremely, massively exhausting, which is something that I don't think Turing manages well. The fact that many people drawn to this field are introverts conflicts with the fact that we are forced to do A LOT of work together, or at least stay and work for long periods in a relatively cramped, often loud place around A LOT of other people. For group projects, the idea of having to stay at Turing through the evening for more intensive pairing session is an awful probability that I'll likely have to endure at some point. 
 
 #### Resilience (gear-up 3)
@@ -96,26 +100,33 @@ In terms of the actual introvert/extrovert spectrum, I usually fall smack dab in
 
 Going into this, I had used LinkedIn quite a bit, so a portion of the material from this session was repetitive for me. I did, however, gather some great info about where to make nice resumes online (Creddle.io), and how to turn the focus of your LinkedIn to being tech and software-development focused. For me, having come from years of high-level academia work, eliminating material from my CV to create a one-page resume was a painful process; all those publications, all those conferences, all those years of work, that's all gone. I spent some great time with my mentor - who is quite senior and has acted as a hiring manager - going through my CV and deciding what to eliminate and what to include, as well as how to structure the end result. He was super pleased with the Creddle resume I created, as was I. Of course I await other perspectives from folks at Turing, as well.
 
-# Deliverables
+#### Deliverables
 * [Link to LinkedIn Page] (https://www.linkedin.com/in/amy-kintner)
 * [Link to Resume PDF](https://turingschool.slack.com/files/akintner7/F2T36PH8T/amy_kintner_resume.pdf)
 * [GitHub URL] (https://github.com/akintner)
 
 ## E: Feedback and Community Participation
 
+Community participation: one of the aspects of Turing that excites me – and may get wholly overlooked by others who’ve not spent such a long time in academic settings – is that we, the students/patrons/future colleagues/whatever, actually get to have a say, and that say seems to actually matter to someone. For this reason, I was ALWAYS on board to thoughtfully prepare the end-of-week surveys. It’s small, but I think it’s an important way to help the community grow and thrive. 
+<br>
+Another thing I enjoy and have always been good at doing (I spent a long time as a bartender) is encouraging others to take a load off and relax for a while. In week three I initiated a “ladies who lunch” for all the women in our cohort, for which I corralled everyone on Thursday or Friday at lunch and more or less made them come to the Blake Street Vault for burgers and beer. It helped us bond and solidified some friendly vibes between us, regardless of what we might be doing at school. By last week, the “ladies” group had grown to include half the cohort!
+<br>
+As for technical community participation, I’ve helped a few others chase some bugs throughout the semester (I can recall working with Eric and Lucy in particular). I also have a solid large-scale understanding of what we’re doing, so I’ve done some in-depth explanation for a few students who were struggling to understand some aspects of how programs were interrelating. 
+
+
 ### Giving Feedback
 
 Kyle and I worked on the first paired project together, Complete Me, and overall it was an amazing experience. Our work and communication styles are clearly similar, and our ability to do work together was complemented by these similarities. One thing that could be improved, from my perspective, was continuing to outline goals for each evening of the week it was due. Over the weekend, we set explicit goals and both achieved them, but after our first pairing session Monday night, we never re-set goals each day, so I spent some evenings wondering what I should be doing and feeling like I wasn't accomplishing much. In the end, our project ended up being a tremendous success, and these evening of solo work and research helped both of us achieve a very streamlined end result, but it may be better going forward to outline more explicit goals and communicate them in advance each day. Communication between the two of us during pairing sessions was excellent, we shared space and computer consoles very well, and I look forward to working with Kyle again in the future at Turing.
 
 ### Being a Community Member
-# Feedback from Kyle Heppenstall, first paired project partner: 
+#### Feedback from Kyle Heppenstall, first paired project partner: 
 In our project retro, Kyle and I both agreed that we worked well together and our project was successful as a result. The issue he said could probably use improvement was the fact that we decided to do the insert and count methods separately over the weekend, then spend Sunday night discussing what we achieved on Screenhero, and spend Monday afternoon and after school re-writing the entire program from scratch. In retrospect, Kyle feels it may have been better to have done more work together, perhaps especially the creation of a testing suite, as early as Friday and THEN have moved forward over the weekend with the assurance that our language would at least be similar when creating our insert and count methods. I agree, and we both think outlining and making a testing suite before we start the next project will be super helpful. Additionally, Kyle thanked me for the level of friendly communication we had before we started each pairing session and said it helped to establish some small level of friendship before we dug into work every day.
 
-# Feedback from Amara Lovato, second paired project partner:
+#### Feedback from Amara Lovato, second paired project partner:
 
-# From Brett 
+#### From Brett 
 
-# From Caroline
+#### From Caroline
 
 ### Playing a Part
 
