@@ -245,14 +245,16 @@ This too?
 
 # Giving Feedback
 
-(feedback from me)
+To Edilene Cruz:
+Edilene, your incredible resilience and hard work are an inspiration to me. Your always positive and encouraging attitude made many of us keep moving forward in this challenging experience. You are a very caring person with a big heart, always asking us how we were doing and sharing with us resources and even pairing sessions in your committed will to help us. I am positive that you will be successful in your goal to become a great developer because you are not only smart and resourceful but also a one-of-a-kind team member.
 
 ### Being a Community Member
 
 From Edilene Cruz:
 Amara, your positivity is absolutely contagious and your desire to strenghthen the student community is amazing! During the hardships that learning something new brings, you were always there to encourage and remind me the ultimate goal of this amazing, crazy and long road we are on. I hope that I will have the chance to work with you in a project and continue to share a little bit of our cultures through food like we did this module. Keep spreading positivity!
 
-(feedback to me)
+From Marlo Major:
+I've been working with Amara for several weeks now and I have to say I am super proud of how far she's come. Initially, there was the typical Turing module one worry that everyone goes through, but over time, it's been great to see her take this stress and use it as a strength. It's been great watching her go from "I don't know what I'm doing at all" to a well written test suite, 100% test driven project, and a clearly written, easily maintainable project. One critique I have for Amara is that she tends to have too much caution when it comes to writing code or giving an answer to a problem.  It would be nice if she eventually learned how to throw caution to the wind and dig in, failing possibly but also learning what works and what doesn't faster. It's been an immense pleasure mentoring Amara. It's actually one of the things I'm most proud to have ever contributed to the Turing community. It had excited me to take on more students in the future, which I certainly plan on doing!
 
 # Playing a Part
 
