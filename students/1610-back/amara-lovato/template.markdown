@@ -145,14 +145,10 @@ Watch CRs and spacing, use of them makes code more readable.
 2: Application converts to Braille and back successfully
 
 #Feedback from Jason:
-He told me that although I could feel that my participation in the project was limited, I was contributing a lot by asking him questions and remind him to slow down.
-That forced him to say out loud what we were trying to do and many times by doing that he realized that there was a better strategy.
-Furthermore, by explaining the concepts to me he was understanding better them. He also told me that I was good at finding bugs, especially with misspellings.
+Amara was a joy to work with. With the gap in understanding she was continually stoping to ask questions to make sure that she was understanding what it was our project was doing and what we were trying to accomplish. It was great because on more than one occasion while talking things out we would realize that it wouldn’t the way that was being anticipated so we were able to save some time. Her thirst for understanding and knowledge was amazing and was a great motivator to do the best we could throughout the project. Her flexibility to be able to come in on the weekend was also extremely helpful and appreciated. The biggest thing that I would say she needs to work on is to ask even more questions that there were times that we would get locked in doing things and then there would be a bunch of things that she didn’t fully grasp (part of that was on me getting in a grove and would just start chugging along)
 
 #Feedback to Jason:
-I told Jason that it was a big challenge to overcome our knowledge gap and that the fact that he decided to work on his own on the project made me feel more alienated of the project
-and harder for me to catch up as he renamed variables or modified methods so it was hard to follow or contribute. Another thing that I shared with him was that I regretted not having
-dedicated more time for white boarding the problem and go through the little pieces together. That would have helped me to understand better what was in his mind and the small steps that were necessary and challenges.
+Jason, it was great working with you. I really liked that you were always ready to stop for as much as needed to answer my questions and you took into consideration all my suggestions. Although there was a big gap of knowledge between us you were very supportive and doing your best to make me feel as a contributor. You were also very adaptable and understanding trying to accommodate our schedules. Some things that could improve for future pairs would be to dedicate more time to whiteboard in order to discuss strategy, see the steps and go through little pieces together. The pace was too fast for me so it was hard for me to catch up but at the same time I understand that there was a rush to progress to finish the project on time. Reviewing the code together and making sure that we were in the same page would also have been useful. But globally speaking, it was a very positive experience and I’m happy that I was paired with you because you are a great classmate and a very talented teacher.
 
 #### Black Thursday
 
