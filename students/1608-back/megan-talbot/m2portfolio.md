@@ -29,7 +29,7 @@ I am happy to say that I have accomplished all of those goals.  I am very please
 
 ## B: Individual Work & Projects
 
-(Intro)
+This module had 3 main individual projects. It was interesting for me to look back on my progression throughout this module and inspect earlier projects. I have made quite a bit of progress from Mix Master to Job Tracker! It's clear that I learned a lot from all of these projects, and I know I will refer back to each of them often.
 
 #### Job Tracker
 
@@ -57,7 +57,7 @@ __Evaluation Scores:__<br>
 
 This was an unscored individual project in which we were able to choose which project we wanted to work on. I chose the "gif generator" where a user can login, browse gifs, and favorite their own. There is also admin functionality, in which an admin can generate gifs. I need to work a bit on refactoring this project, and improving the testing. However, this project was a lot of fun for me, and I plan to work on it a bit more in intermission week as well to use as part of my portfolio/resume. 
 
-#### Mix master
+#### Mix Master
 
 * [GitHub URL](https://github.com/meganft/mix_master)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
@@ -69,9 +69,9 @@ This was more of a tutorial style project where we made our first real applicati
 
 ### Projects
 
-This module had included two main group projects.  The first, Rush Hour, was a tool to analzye and display web traffic information, which we built with Sinatra. The second group project was called Little Shop, in which we created an ecommerce website with Rails. The projects were both interesting and presented new topics as we went, and I'm happy to say that I leanred a lof from each. 
+This module had included two main group projects.  The first, Rush Hour, was a tool to analzye and display web traffic information, which we built with Sinatra. The second group project was called Little Shop, in which we created an ecommerce website with Rails. The projects were both interesting and presented new topics as we went, and I'm happy to say that I learned a lot from each. 
 
-#### (Rush Hour)
+#### Rush Hour
 
 * [GitHub URL](https://github.com/bfpepper/rush-hour)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
@@ -90,7 +90,7 @@ __Evaluation Scores:__<br>
 
 (feedback to me)
 
-#### (Little Shop)
+#### Little Shop
 
 * [GitHub URL](https://github.com/epintozzi/root_and_branch)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
