@@ -18,7 +18,13 @@ I am happy to say that I have accomplished all of those goals.  I am very please
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
+3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+3: Developer is able to implement all functionality and all tests pass
+3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
+3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 
 ## B: Individual Work & Projects
@@ -63,7 +69,7 @@ This was more of a tutorial style project where we made our first real applicati
 
 ### Projects
 
-This module had included two main group projects.  The first, rush hour, was 
+This module had included two main group projects.  The first, Rush Hour, was a tool to analzye and display web traffic information, which we built with Sinatra. The second group project was called Little Shop, in which we created an ecommerce website with Rails. The projects were both interesting and presented new topics as we went, and I'm happy to say that I leanred a lof from each. 
 
 #### (Rush Hour)
 
@@ -89,14 +95,14 @@ __Evaluation Scores:__<br>
 * [GitHub URL](https://github.com/epintozzi/root_and_branch)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-Little Shop was a project in which we built an online ecommerce website. Our project was called Root & Branch, and we created an etsy-like platform which sold socially conscious goods.  
+Little Shop was a project in which we built an online ecommerce website. Our project was called Root & Branch, and we created an etsy-like platform which sold socially conscious goods. This was a really fun project as well, and I am very happy with our end result. Working on a team of all women, I was especially pleased to have such a successful project. We were able to more successfully split up work than I have in past projects, which kept our progress moving along. 
 
 
 (feedback to me)
 
 ## D: Professional Skills
 
-I really enjoyed the professional skills sessions this module. We had 3 interesting gear ups, and we had some useful sessions with the Lia and Meg. I may be in the minority within my cohort, but I really like beginning the job-hunting aspect of Turing. 
+I really enjoyed the professional skills sessions this module. We had 3 interesting gear ups, and we had some useful sessions with the Lia and Meg. I may be in the minority within my cohort, but I really like beginning the job-hunting aspect of Turing!
 
 ### Gear Up
 
@@ -131,8 +137,7 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
 * [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker)
 
-
-(takeaways from session)
+Lia made some excellent points in this session, centered around the idea of finding new opportunities. She discussed how she uses Meetup.com to find new companies or contacts, and then uses websites like LinkedIn as follow-up. It's also always a good idea to Google a company or even a contact at that company. I used many of her suggestions to create my Trello job search board, which I am continuing to update frequently. 
 
 
 #### Collaborative Communication with Allison
@@ -140,8 +145,7 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/collaborative_communication.md)
 * [Link to Completed Deliverables]()
 
-
-(takeaways from session)
+This was a session focused on the idea of effective collaborative communication in teams. We did this session immediately prior to kicking off Rush Hour, which I thought was a very effective tactic. We had some reading from "How to Win Friends & Influence People in the Digital Age", and then we spent some time discussing in our groups. I enjoyed the chance to have these disussions with my Rush Hour partners, and thought it was useful to have this session before our DTR as well.
 
 
 #### Cold Outreach
@@ -149,8 +153,7 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 * [Workshop URL](https://github.com/turingschool/professional_skills/tree/master/module_two)
 * [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker)
 
-
-(takeaways from session)
+This was a follow-up from the "Finding Opportunities" session, and we talked about how to reach out the contacts we had previously identified.  I reached out to 3 different companies, as reflected in my Trello board.  I haven't heard anything back from any of them, but I am hopeful that I may still! And I am more comfortable with my ability to reach out to someone new after this session with Meg.
 
 
 #### Networking
@@ -162,11 +165,6 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 (takeaways from session)
 
 
-
-
-`Two paragraph reflection on:
-Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
-How you incorporated feedback from your team members and what you learned about yourself in the process.`
 
 ## E: Feedback and Community Participation
 
