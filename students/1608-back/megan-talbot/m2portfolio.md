@@ -104,6 +104,11 @@ Little Shop was a project in which we built an online ecommerce website. Our pro
 
 I really enjoyed the professional skills sessions this module. We had 3 interesting gear ups, and we had some useful sessions with the Lia and Meg. I may be in the minority within my cohort, but I really like beginning the job-hunting aspect of Turing!
 
+### Blog Post 
+
+* [Blog Post Link](https://medium.com/@megantalbot/i-made-a-ruby-gem-6-weeks-into-programming-and-you-should-too-33dd5905397e#.b7ipydkq9)
+
+
 ### Gear Up
 
 #### Vote Your Conscience
