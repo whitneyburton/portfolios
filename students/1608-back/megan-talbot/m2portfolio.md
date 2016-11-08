@@ -87,8 +87,12 @@ __Evaluation Scores:__<br>
 3: Application breaks components out to view partials but has some logic or complexity leaking into the view<br>
 (not graded)3: Good use of branches, pull requests, and a project-management tool.<br>
 
+*From Ben Pepper:*<br>
+Megan was a great project manager. Her attention to detail made sure that we always completely finished an iteration before moving on. Her drive to fully understand a problem was instrumental in the group learning as much as possible. Our working styles were not in sync but during our retro she was extremely professional in bringing it up and discussing it. She made it easy to understand what happened and her thoughts on how to move forward. I learned a lot from her about how to work more effectively in a group and it will only prove to be helpful through out Turing.<br>
+<br>
+*From Lee Saville:*<br>
+Megan, you were delightful to work with, I think we shared a similar preference for the pairing dynamic, and overall meshed well in personality and disposition. Going into the future we can both work on feeling more comfortable with a divide/conquer  scenario. Thanks for the hard work!
 
-(feedback to me)
 
 #### Little Shop
 
@@ -175,11 +179,23 @@ This was a follow-up from the "Finding Opportunities" session, and we talked abo
 
 ### Giving Feedback
 
-(feedback from me)
+*To Lee Saville:*<br>
+Lee was an amazing partner.  We worked together on this project very closely, and I leanred a ton from him. He is very patient with other people's questions, and is also very open to ask questions of his own. He is also very flexible and easy going, making it super easy to work with him. We probably both could have worked on more effectively splitting up work, but I think that is something that will come with time. Overall, I was very happy to have the chance to work with Lee!
+<br>
+*To Ben Pepper:*<br>
+Ben was a great partner. He was very open to answering questions and trying new things. Ben was also incredibly open to feedback and appreciated honesty. We probably could have been a little more clear with each other about our preferred working styles, but we all realized that and agreed to take note going forward.  I was happy to have him as a partner!
+
 
 ### Being a Community Member
 
-(feedback to me)
+*From Lee Saville:*<br>
+Megan, you were delightful to work with, I think we shared a similar preference for the pairing dynamic, and overall meshed well in personality and disposition. Going into the future we can both work on feeling more comfortable with a divide/conquer  scenario. Thanks for the hard work!
+
+*From Ben Pepper:*<br>
+Megan was a great project manager. Her attention to detail made sure that we always completely finished an iteration before moving on. Her drive to fully understand a problem was instrumental in the group learning as much as possible. Our working styles were not in sync but during our retro she was extremely professional in bringing it up and discussing it. She made it easy to understand what happened and her thoughts on how to move forward. I learned a lot from her about how to work more effectively in a group and it will only prove to be helpful through out Turing.
+
+
+
 
 ### Playing a Part
 
