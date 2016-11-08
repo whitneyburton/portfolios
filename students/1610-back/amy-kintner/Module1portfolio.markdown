@@ -1,9 +1,9 @@
 # Amy Kintner - Module 1 Portfolio
 
 ## Statement of Goals
-Looking back at what I wrote on day 1 as my learning goals, one major thing stands out: “I got mega thrown under the bus by a former colleague, so I need to try to trust everyone and always assume they are being fair, honest, and helpful.” The repercussions of being thrown under the bus have tailed me in some form for the past five years of my life, and part of my decision to change careers and come here stem from wanting to be rid of that persistent tail. Embracing the career change was hard at first, mostly because I had little trust in others or myself. Learning to trust was, for me, the most major obstacle. 
+Looking back at what I wrote on day 1 as my learning goals, one major thing stands out: “I got mega thrown under the bus by a former colleague, so I need to try to trust everyone and always assume they are being fair, honest, and helpful.” The repercussions of being thrown under the bus have tailed me in some form for the past five years of my life, and part of my decision to change careers and come here stem from wanting to be rid of that persistent tail. Embracing the career change was hard at first, mostly because I had little trust in others or myself. Learning to trust is, for me, the most major obstacle. 
 <br>
-What I learned over the course of the semester was that this type of work is nothing like what I’ve done before, a third because of the burden of learning the actual technical skills, and two thirds because of the collaborative environment. For my field in academia, no one really works together, no one researches together, no one publishes together, no one really collaborates on anything at a career-level. With that in mind, changing my mindset for paired work was more than a little difficult, though I welcomed the opportunity. 
+What I learned over the course of the semester was that this type of work is nothing like what I’ve done before, a third because of the burden of learning the actual technical skills, and two thirds because of the collaborative environment. For my field in academia, no one really works together, no one researches together, no one publishes together, no one really collaborates on anything at a career-level. With that in mind, changing my mindset for paired work was more than a little difficult. 
 
 
 ## Rubric Scores
@@ -74,7 +74,12 @@ Commentary from the evaluation:
 * evaluation ()
 
 ## D: Professional Skills
-(blah blah, some stuff here)
+
+I came into this thinking I had zero skills that would transfer from humanities academia to software development. That mindset got crushed by my first (and only, to date) virtual meeting with my mentor - a very senior developer who also worked for a period as a hiring manager - who looked at my CV and said he was incredibly impressed by some of the things I'd done. I asked what stood out to him, and he pointed to all my previous work as a professional editor for academic journals and major publishing firms. He said that kind of work already told him I have a good eye for minute details that others would overlook, which in the world of software development can save dozens of hours when developing new products because catching typos before they're committed or able to crash tests is a major, major skill. That was nice to hear, so it's something I tried to highlight in my resume. 
+<br>
+My lifelong ability to learn languages (I speak four with some degree of fluency and can read/translate from six) should also help me going forward. I know that Ruby is only the beginning, so I figure the pliability of my languages skills and adaptability to new syntax/vocab will help me throughout my career.
+<br>
+Additionally, I have never been intimidated by public speaking. I've presently a huge variety of material for a huge variety of audiences with a huge variety of skill levels in a huge variety of contexts, so nothing about public speaking is even remotely foreign to me now, and I feel comfortable with whatever may be thrown my way.
 
 ### Gear Up
 #### Vote Your Conscience (gear-up 1)
@@ -86,12 +91,14 @@ Our group ended up having quite the conversation about leadership and gender. Ba
 #### Introversion (gear-up 2)
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-I thought doing this in our own cohorts was a great idea, and the smaller group I was in for the talk - Josh, Jason, Nick E and I - ended up having a very thorough talk about previous work situations in which a boss who was either an distinct introvert or a distinct extrovert caused problems for a team. Having Josh and Jason there, both ex-enlisted military men, added an interesting dynamic to the talk, as their stories about bosses and work situations were vastly different from Nick's and my own. 
+I thought doing this in our own cohorts was a great idea, and the smaller group I was in for the talk - Josh, Jesse, Nick E and I - ended up having a very thorough talk about previous work situations in which a boss who was either an distinct introvert or a distinct extrovert caused problems for a team. Having Josh and Jesse there, both ex-enlisted military men, added an interesting dynamic to the talk, as their stories about bosses and work situations were vastly different from Nick's and my own. 
 <br>
 In terms of the actual introvert/extrovert spectrum, I usually fall smack dab in the center (the video we watched would label me an "ambivert"): while I can be gregarious and talkative, I need time alone to recoup my energies after doing anything in a group. For this reason, I do find the long days at Turing to be extremely, massively exhausting, which is something that I don't think Turing manages well. The fact that many people drawn to this field are introverts conflicts with the fact that we are forced to do A LOT of work together, or at least stay and work for long periods in a relatively cramped, often loud place around A LOT of other people. For group projects, the idea of having to stay at Turing through the evening for more intensive pairing session is an awful probability that I'll likely have to endure at some point. 
 
 #### Resilience (gear-up 3)
 * [GitHub URL] (https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+
+This topic is for me, and is also, I sense, for others, very sensitive because no one likes to talk about the deep shit that has taken place in their lives. Casual conversation about weird or unexpected things that crop up in life are one thing, but asking someone to talk about the truly fucked-up shit that may or may not have occurred is something else altogether. For this reason, I do think this topic might better be approached in the individual cohorts instead of a mixed group. One thing that came up in our session (at Gusto) was the fact that the backend pre-work before Mod 1 could be way harder, which might actually help some people prepare more mentally for what we'd actually encounter in the first few weeks. Everyone 100% agreed that Mod 1 is the resilience-maker at Turing.
 
 ### Professional Development Workshops
 #### Personal Branding
@@ -106,13 +113,6 @@ Going into this, I had used LinkedIn quite a bit, so a portion of the material f
 * [GitHub URL] (https://github.com/akintner)
 
 ## E: Feedback and Community Participation
-
-Community participation: one of the aspects of Turing that excites me – and may get wholly overlooked by others who’ve not spent such a long time in academic settings – is that we, the students/patrons/future colleagues/whatever, actually get to have a say, and that say seems to actually matter to someone. For this reason, I was ALWAYS on board to thoughtfully prepare the end-of-week surveys. It’s small, but I think it’s an important way to help the community grow and thrive. 
-<br>
-Another thing I enjoy and have always been good at doing (I spent a long time as a bartender) is encouraging others to take a load off and relax for a while. In week three I initiated a “ladies who lunch” for all the women in our cohort, for which I corralled everyone on Thursday or Friday at lunch and more or less made them come to the Blake Street Vault for burgers and beer. It helped us bond and solidified some friendly vibes between us, regardless of what we might be doing at school. By last week, the “ladies” group had grown to include half the cohort!
-<br>
-As for technical community participation, I’ve helped a few others chase some bugs throughout the semester (I can recall working with Eric and Lucy in particular). I also have a solid large-scale understanding of what we’re doing, so I’ve done some in-depth explanation for a few students who were struggling to understand some aspects of how programs were interrelating. 
-
 
 ### Giving Feedback
 
@@ -130,7 +130,13 @@ In our project retro, Kyle and I both agreed that we worked well together and ou
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Community participation: one of the aspects of Turing that excites me – and may get wholly overlooked by others who’ve not spent such a long time in academic settings – is that we, the students/patrons/future colleagues/whatever, actually get to have a say, and that say seems to actually matter to someone. For this reason, I was ALWAYS on board to thoughtfully prepare the end-of-week surveys. It’s small, but I think it’s an important way to help the community grow and thrive. 
+<br>
+Another thing I enjoy and have always been good at doing (I spent a long time as a bartender) is encouraging others to take a load off and relax for a while. In week three I initiated a “ladies who lunch” for all the women in our cohort, for which I corralled everyone on Thursday or Friday at lunch and more or less made them come to the Blake Street Vault for burgers and beer. It helped us bond and solidified some friendly vibes between us, regardless of what we might be doing at school. By last week, the “ladies” group had grown to include half the cohort!
+<br>
+As for technical community participation, I’ve helped a few others chase some bugs throughout the semester (I can recall working with Eric and Lucy in particular). I also have a solid large-scale understanding of what we’re doing, so I’ve done some in-depth explanation for a few students who were struggling to understand some aspects of how programs were interrelating. 
+<br>
+Also, I did a lot of dishes.
 
 ------------------
 
