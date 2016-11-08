@@ -18,13 +18,13 @@ I am happy to say that I have accomplished all of those goals.  I am very please
 
 ## A: End of Module Assessment
 
-3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
-3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
-3: Developer is able to implement all functionality and all tests pass
-3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
-3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
-3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
-3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning<br>
+3: Developer breaks complex problems into small, digestible steps and executes them with little assistance<br>
+3: Developer is able to implement all functionality and all tests pass<br>
+3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database<br>
+3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack<br>
+3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps<br>
+3: Developer lays out their thinking before attacking a problem and integrates feedback through the process<br>
 
 
 ## B: Individual Work & Projects
