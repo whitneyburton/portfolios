@@ -16,14 +16,10 @@
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
-
 Assessed By: Beth Sebian
-
 Challenge: What Can I Make
 
 Notes:
-
 * Nice testing
 * Clear comfort with using Ruby
 
