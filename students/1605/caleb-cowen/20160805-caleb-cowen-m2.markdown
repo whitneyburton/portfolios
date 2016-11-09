@@ -256,8 +256,13 @@ I paired with mod 1 any chance I had, attending posse meetings, and helping my s
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Continuing to work on vim
+* Didn't get involved more formally with Turing community, but helped a lot of individual students/pairing
+* Learned a lot during Mini Project
+* Should have spoke up sooner during Rush Hour when felt dynamics becoming semi-negative
+* Better at giving feedback in person
+* Continue pairing with mod 1 students and classmates to reinforce concepts
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass

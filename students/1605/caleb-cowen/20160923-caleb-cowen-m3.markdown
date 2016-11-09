@@ -320,8 +320,20 @@ I took part and am still taking part in a civic tech project in Pahlka, as well 
 
 ### Notes
 
-( Leave blanks for reviewers )
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+
+* Pivot was a great project - got good scores
+* Rails engine was an intense project - contributed a lot to it
+* Leading backend in Pahlka posse
+* Hosted get togethers for cohort
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass

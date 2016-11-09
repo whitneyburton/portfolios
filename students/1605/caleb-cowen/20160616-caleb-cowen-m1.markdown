@@ -277,9 +277,9 @@ https://github.com/concach/headcount/blob/master/README.markdown
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 4
+* **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: 4
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
