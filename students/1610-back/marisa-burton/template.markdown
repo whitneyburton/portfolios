@@ -58,7 +58,8 @@ Notes:
 -Methods created to check user input were great
 Score:
 
-1. Test-Driven Development: Application does not demonstrate strong use of TDD
+1. Test-Driven Development: 
+* 1--Application does not demonstrate strong use of TDD
 2. REPL Interface and Game Functionality
 3: Application's REPL is clear and pleasant to use and application fulfills base expectations from the project spec
 3. Breaking Logic into Components
