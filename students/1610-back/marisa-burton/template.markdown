@@ -118,7 +118,7 @@ Overall Functionality--3: Application follows the complete spec and one extensio
 (feedback to me)
 
 ## D: Professional Skills
-(Intro)
+I think I have developed an odd set of skills with my myriad types of jobs over the last two decades, but I really would like to learn more how to brand myself with confidence.
 
 ### Gear Up
 #### Rock the Vote
