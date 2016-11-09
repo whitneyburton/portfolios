@@ -25,7 +25,31 @@ This module I was looking forward to focusing on fundamentals.  By that I mean I
 NE - 2 projects
 
 HTTP
-Black Thursday
+#### HTTP
+
+* [GitHub URL](http://github.com/ski-climb/http)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+(description)
+
+(evaluation comments)
+Notes:
+* Great testing overall, used tmux to get around the server close test
+* code was well organized, would have liked to have seen the word search pulled out
+* Memoization in loading dictionary which is sweet
+
+(evaluation scores)
+### 1. Overall Functionality
+* 2: Application implements iterations 0 - 3
+
+### 2. Fundamental Ruby & Style
+* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+### 3. Test-Driven Development
+* 4: Application is broken into components which are well tested in both isolation and integration
+
+### 4. Breaking Logic into Components
+* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
 (Intro)
@@ -95,7 +119,6 @@ could combine multiple methods into one
 * Liked the explicit returns in only the methods where it made sense
 * Shoes extension is really neat
 
-
 (evaluation scores)
 ### 1. Test-Driven Development
 * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
@@ -123,10 +146,20 @@ I very much enjoyed pairing with Nick on the Complete Me project. Nick has a str
 ### Gear Up
 #### (Session Name)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
+#### (Session Name)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### (Session Name)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 ### Professional Development Workshops
 #### (Session Name)
@@ -134,6 +167,8 @@ I very much enjoyed pairing with Nick on the Complete Me project. Nick has a str
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
 github and linkedin
+* [LinkedIn Profile](https://www.linkedin.com/in/nicholas-erhardt)
+* [GitHub](https://github.com/ski-climb)
 
 
 (takeaways from session)
@@ -143,15 +178,37 @@ github and linkedin
 ### Giving Feedback
 
 (feedback from me)
+From me to Annie: 
+Annie was great influence during Mod 1 and very helpful during the Black
+Thursday project.  Throughout the module, she was cheerful and positive
+(even in the face of greater challenges like Complete Me and, even worse,
+voter registration after relocating to a new state).  And she was
+especially generous with her time and as an extra brain to talk out the
+intricacies of Black Thursday - even though she had already breezed past
+the section that was tripping me up.  I appreciate her insight and hope to
+get a chance to work with her on a project at Turing.
+
+From me to Laszlo:
+Laszlo was a fantastic pairing partner for Complete Me.  He brought a
+thoughtful and consistent approach to testing our project.  His discipline
+for seeking out edge cases from both the micro and macro levels of the application
+demonstrated a thorough knowledge of the code base. The result was a robust
+project that was also flexible and a very complete test suite.
+
+Laszlo is also a tremendous communicator.  He was always open to listening to
+and consider new ideas.  And in the end, whether the idea was acted on or
+not, or he agreed with it or not, he would always give a well thought out,
+reasoned response.  His communicative style and calm demeanor cultivated a
+positive, safe environment in which to try out new approaches or test
+various theories.  
+
+Laszlo was amazing to work with, and I am truly looking forward to
+partnering with him again.
 
 ### Being a Community Member
 
 D3 talk Lucy and I gave to Verou Posse
 (feedback to me)
-
-### Playing a Part
-
-(ways you supported the larger Turing community)
 NE - e.g. helped your peers
 
 feedback from Annie Wolff on GitHub help:
@@ -159,9 +216,11 @@ Nick, you are the first person I go to when I would like a thorough, un-judgment
 answer to a stupid question. You have a deep understanding of GitHub and have
 helped me right multiple gitastrophies. Each time I come to you with a problem, 
 I leave with a better grasp of how to fix it myself in the future.
-
 Thanks!
 
+### Playing a Part
+
+(ways you supported the larger Turing community)
 
 gave a talk on D3 on the second week
 
