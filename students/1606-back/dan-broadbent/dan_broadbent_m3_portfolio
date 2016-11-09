@@ -77,10 +77,10 @@ Subjective evaluation will be made on your work/process according to the followi
 
 I really loved the individual projects this module.  The first was API curious, where I consumed the GitHub API to make a basic profile browser.  I really allowed TDD to drive this project and was really proud that I made it so you could browse users and their followers infinitely deep.  The second was a personal project of our own choosing.  I decided to take a risk and go with a stack that was completely foreign to me, Ionic 2 with Angular 2 and a Firebase backend.  It may have been too ambitious for a two week project, but I got to learn a ton of new stuff and I'm excited to continue working on it.
 
-#### (Project Name)
+#### API Curious
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
 (description)
 
