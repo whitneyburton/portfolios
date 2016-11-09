@@ -36,7 +36,7 @@ This module had 3 main individual projects. It was interesting for me to look ba
 * [GitHub URL](https://github.com/meganft/job-tracker)
 * [Original Assignment](https://github.com/case-eee/job-tracker)
 
-Job Tracker was a project which focused on creating an application to track job leads for a someone. This was an individual project, and I was tasked with using migrations to make tables with appropriate relationships, using Active Records for database queries, setting the appropriate routes, using controllers to create CRUD functionality, and setting up my views following best practices. <br>
+Job Tracker was a project which focused on creating an application to track job leads for an individual. This was a solo project, and I was tasked with using migrations to make tables with appropriate relationships, using Active Records for database queries, setting the appropriate routes, using controllers to create CRUD functionality, and setting up my views following best practices. <br>
 
 I enjoyed this project quite a bit and was happy to see my progress in such a tangible way. The new "analysis" section was more challenging that what I had created in the past, but I was happy to be able to complete that section as well.  I have also focused on refactoring this project a bit, and plan to continue to do so over my intermission week.
 
@@ -69,7 +69,7 @@ This was more of a tutorial style project where we made our first real applicati
 
 ### Projects
 
-This module had included two main group projects.  The first, Rush Hour, was a tool to analzye and display web traffic information, which we built with Sinatra. The second group project was called Little Shop, in which we created an ecommerce website with Rails. The projects were both interesting and presented new topics as we went, and I'm happy to say that I learned a lot from each. 
+This module had included two group projects.  The first, Rush Hour, was a tool to analzye and display web traffic information, which we built with Sinatra. The second was called Little Shop, in which we created an ecommerce website with Rails. The projects were both interesting and presented new topics as we went, and I'm happy to say that I learned a lot from each. 
 
 #### Rush Hour
 
@@ -99,18 +99,15 @@ Megan, you were delightful to work with, I think we shared a similar preference 
 * [GitHub URL](https://github.com/epintozzi/root_and_branch)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-Little Shop was a project in which we built an online ecommerce website. Our project was called Root & Branch, and we created an etsy-like platform which sold socially conscious goods. This was a really fun project as well, and I am very happy with our end result. Working on a team of all women, I was especially pleased to have such a successful project. We were able to more successfully split up work than I have in past projects, which kept our progress moving along. 
+Little Shop was a project in which we built an online ecommerce website. Our project was called Root & Branch, and we created an online marketplace for selling socially conscious goods. This was a really fun project as well, and I am very happy with our end result. We were able to more effectively split up work than I have in past projects, which kept our progress moving along. Working on a team of all women, I was especially pleased to have such a successful project. All of my teammates were wonderful to work with, and I was proud to be a part of this group.
 
 
 
 ## D: Professional Skills
 
-I really enjoyed the professional skills sessions this module. We had 3 interesting gear ups, and we had some useful sessions with the Lia and Meg. I may be in the minority within my cohort, but I really like beginning the job-hunting aspect of Turing!
-
 ### Blog Post 
 
 * [Blog Post Link](https://medium.com/@megantalbot/i-made-a-ruby-gem-6-weeks-into-programming-and-you-should-too-33dd5905397e#.b7ipydkq9)
-
 
 ### Gear Up
 
@@ -128,7 +125,6 @@ In this gear up, we focused on the idea of voting as a responsibility of citizen
 This session was about different personality traits, particularly extroversion vs introversion, and how they should be handled best in team environments. I enjoyed that this gear up was conducted in our cohorts, especially since those are the people who make up the teams that I work with while at Turing. I tend to identify as both an introvert and an extrovert, so I often see this issue from both sides. In my discussion group, we all agreed that we could focus more on allowing individual work in teams for introverts. Ultimately, I think the most important thing is to be aware that other people may have a different preference for working styles. 
 
 
-
 #### Resilience 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
@@ -143,7 +139,7 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 #### Finding Opportunities
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
-* [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker)
+* [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker) - Company Tracker
 
 Lia made some excellent points in this session, centered around the idea of finding new opportunities. She discussed how she uses Meetup.com to find new companies or contacts, and then uses websites like LinkedIn as follow-up. It's also always a good idea to Google a company or even a contact at that company. I used many of her suggestions to create my Trello job search board, which I am continuing to update frequently. 
 
@@ -159,9 +155,18 @@ This was a session focused on the idea of effective collaborative communication 
 #### Cold Outreach
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/tree/master/module_two)
-* [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker)
+* [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker) - Company Tracker
 
-This was a follow-up from the "Finding Opportunities" session, and we talked about how to reach out the contacts we had previously identified.  I reached out to 3 different companies, as reflected in my Trello board.  I haven't heard anything back from any of them, but I am hopeful that I may still! And I am more comfortable with my ability to reach out to someone new after this session with Meg.
+This was a follow-up from the "Finding Opportunities" session, and we talked about how to reach out the contacts we had previously identified.  I reached out to 3 different companies, as reflected in my Trello board.  I have only heard back from one person, who was unfortunately not available to help, but I am hopeful that something good will come from my cold outreach efforts. And I am more comfortable with my ability to reach out to someone new after this session with Meg.
+
+
+#### Reflection
+
+We used many different project management styles in my two projects this module.  In Rush Hour, we time-boxed trying new things, which was very effective, in addition to using tools like Waffle and Slack. Time-boxing helped us explore new things but also know when to move on. We probably could have done a better job of re-DTRing. There were different working styles at play in our group, and I don't think we identified that early enough. I think we were still very successful, but I have always tried to remember from now on that it's best to try to check in with your teammates as much as possible. <br>
+
+In Little Shop, we had a very thorough DTR and did a much better job of checking in often. We also did stand-ups, since we were able to split up work in an effective way between the four of us. I think we also did a great job of utilizing Waffle in this project, which keps us very clearly on track. I think our project management and workflow in Little Shop was the best and most effecient of any project I've worked on up to this date.<br>
+
+I tried to incorporate feedback about these issues to make myself better in each project, and I think I was able to do that. I learned that it's always best to be as thorough as possible, to check in often, and to set clear expectations.  These things make me feel more comfortable on a project, which is turn will hopefully make me more succesful. <br>
 
 
 
@@ -211,7 +216,7 @@ I was happy to be able to continue my involvement with the Student Advisory Boar
 <br> 
 Additionally, I was active in Joan Clarke society, attending every weekly coffee meeting this mod. I also paired with Mod 1 students 7 different times, which was hopefully at least a little bit as helpful for them as it was for me! <br>
 <br>
-And lastly, I was involved with the Bezos posse, attending weekly lunch meetings and spike sessions. We had great discussions on things like user testing and agile development. Additionally, we did a $5 challenge, where we were each tasked with making as much money as we could with only $5. My group didn't have great success, but we learned a lot! I know that these activities will help me grow as a professional, as I have learned a ton from being around other entrepreneurial-minded people. I have also already had discussion with the current Bezos leaders to take over that role in Mod 4. And finally, I arranged for Bezos to have a meeting with the CEO of GoSpotCheck at his office. (Note: he does happen to be my brother ;), but hopefully it a very informative session!
+And lastly, I was involved with the Bezos posse, attending weekly lunch meetings and spike sessions. We had great discussions on things like user testing and agile development. Additionally, we did a $5 challenge, where we were each tasked with making as much money as we could with only $5. My group didn't have great success, but we learned a lot! I know that these activities will help me grow as a professional, as I have learned a ton from being around other entrepreneurial-minded people. I have also already had discussions with the current Bezos leaders to take over that role in Mod 4. And finally, I arranged for Bezos to have a meeting with the CEO of GoSpotCheck at his office. (Note: he does happen to be my brother ;), but hopefully it a very informative session!
 
 ------------------
 
