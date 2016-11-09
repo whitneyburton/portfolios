@@ -171,6 +171,16 @@ Ben was a great partner. He was very open to answering questions and trying new 
 -Lee Saville
 Ben I love how eager you are to get things to work. In the future you could perhaps be more aware of your strong inclination towards divide and conquer and communicate that more clearly in your dtrs. In addition, sometimes it seemed like your frustration with not having the answer right away prevented you from moving forward on a problem, It’d be great to see you harness that eagerness to solve problems and not let not having the answer slow you down. You’ve definitely inspired me to try and become more comfortable with divide and conquer in the future and it was great working with you!   
 
+-Joey Stansfield
+Ben, it’s been a good week and a half working on little shop together. You did an excellent job as project manager. That took some of the logistical stresses off the rest of us and made it easier to focus on problem solving. Everything fit together seamlessly and much of that should be attributed to your management. I have one suggestion for the next time you find yourself in a project management role: create some sort of style guide. Our test naming is pretty inconsistent. Our routes were a bit messy (but have since been refactored). I think some of these things could have been made cleaner if we had outlined a guide in the beginning. This is never something I would have predicted, but something I learned entirely in this project. Overall great job as a manager and team member. Nice work on oauth and google maps. I’d be happy to work with you again.
+
+- Anthony Ciccone
+Really relaxed and easy to work with. Ben was really helpful with our github workflow. He was often the one check over pull requests and push our work to master. Ben also looked into pulling google maps into our project which was a great addition.
+
+- Ryan Travitz
+I appreciated that you took over the project manager tasks for this project. You set the tone for our workflow early on, and as a result we had an easy time working as a team. Our workflow made me feel like a real developer and was a highlight of the project for me. I also appreciated your constant positivity and reassurances. Thank you!
+
+
 ### Giving Feedback
 
 - To Megan Talbot
@@ -179,13 +189,21 @@ Megan was a great project manager. Her attention to detail made sure that we alw
 - To Lee Saville
 Lee is an extremely energetic and inquisitive partner to have in any group. His tenacity in finding answers in amazing and inspiring. During our retro he was extremely professional and made it easy to discuss what went I needed to work on in the future. His desire to learn as much as possible is extremely valuable. I would suggest that sometime it is not imperative to learn the intricacies of a system to implement it. Trying to learn the code base, though valuable, may lead down rabbit holes that may not serve the groups direction or time frame. I think when we talked about time boxing tangents it was helpful. I think that continuing that is extremely helpful in any group or individual endeavor.  Lee is always positive and will always bring so much to any group he is part of.
 
+- To Joey Stansfield
+Joey is an amazing partner to work with. His ability to quickly, and efficiently complete any task that is handed to him is amazing. Every day he would come in with some new functionality that was well thought out and executed beautifully. He did a fantastic job of integrating JavaScript into the project to get added functionality.  This addition made our Little Shop so much more professional and something that I am excited to show people. I would be thrilled to have Joey as a partner again either in Turing or in the work force.
+
+- To Anthony Ciccone
+Anthony was a work horse during Little shop. He was always willing to take on a card and make any changes necessary. He was extremely easy to pair with and always brought fantastic ideas to the table. He has great attention to detail and I am sure he will be fantastic through out the rest of Turing and in the workforce.
+
+- To Ryan Travitz
+Ryan was our details and styling guru. His attention to detail can not be matched. He was always able and willing to make sure that everything was perfect before we moved onto the next card/feature/or problem. He was awesome to pair with and was always able to have a different point of view that helped me understand the problem better. Ryan has a tenacity that I dont see often and it was amazing watching him tackle a problem or see a PR submitted late into the night on something he just HAD to figure out. Our Little Shop would not have been nearly as amazing without his contributions and workflow.
 
 
 ### Being a Community Member
 
 ### Playing a Part
 
-- One Friday guest talk
+- One Friday guest talk (How cool was that!)
 - 3 pairings with Mod 1
 - 1 student led panel
 
