@@ -127,13 +127,13 @@ For the my Rails Mini-Project, I chose Option 4, a self-designed project. I deci
 
 ##### Ungraded Assignment
 
-#### Blog Post
+#### Blog Post - Project Management Strategies for Developers
 
-* [URL]()
+* [URL](https://epintozzi.github.io/2016/11/07/project-management-strategies-for-developers.html)
 
 ##### Description
 
-(description)
+This post outlines 4 project-management-inspired strategies for developers (including a list of tools) to help get the job done right the first time.
 
 ## C: Group Work & Projects
 
@@ -174,7 +174,7 @@ Rush hour is a Google Analytics-like app the can load user data and provide stat
 ##### Feedback to me
 * Anna: Erin was the Project Manager for my Rush Hour group, and she contributed enormously to the success of our project. Erin made sure that our team stayed on constant communication throughout the project, and kept us on track using Waffle. She also had a large part in the productive and happy group dynamic that we were able to maintain throughout the project. I look forward to continuing to work with her on future projects.
 
-* Alisher:
+* Alisher: Erin was great in many aspects during the Rush Hour project. As a Project Manager, she took care of her project management tasks in an excellent manner.  We were always on the same page since everything was written out by her on our waffle cards which were being constantly updated. On the other hand, she worked hard on different components of the project and  did a great job solving some problems needed to complete the required functionality. I can recall a specific instance when I was supposed to work on something in the morning but she took care of it overnight and I got extra couple hours of sleep. So I look forward to working with Erin again.
 
 
 #### Little Shop
@@ -254,6 +254,7 @@ In this session we learned tips for structuring good cold outreach email includi
 
 * Erin was in my Little Shop group, and acted as the Project Manager. She kept us organized and on task, while at the same time being very open to ideas presented by group members. She worked very hard to keep us organized on Waffle while also putting in a ton of work on our code. I have worked with Erin twice this module, and I think that a presence like hers is very important to productivity and general happiness in a group-work scenario. - Anna Dolan
 
+* Erin has been a wonderful partner and classmate. During our group project, she had a highly collaborative temperment. I enjoyed talking through strategies and ideas, putting our thoughts together for great outcomes. I learned a lot about creating a solid web app and thinking through design for user experience. I really appreciated how you stood up for your opinions while also being open to other ideas, it made finding compromises an ease. - Ali Schlereth
 
 ### Playing a Part
 
