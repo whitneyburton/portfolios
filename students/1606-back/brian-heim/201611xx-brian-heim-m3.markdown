@@ -39,16 +39,16 @@
 
 ## B: Individual Work & Projects
 
-This section contains no assessed work, but instead consists of many tutorials and mini-projects that were done throughout the module. 
+This section contains Individually completed work, API Curious was our only Individual Project and it was not graded
 
-### Robot World
+### API Curious
 
-* [https://github.com/bheim6/robot_world]
-* Original Assignment at bottom of file: [https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/crud_sinatra.markdown]
+* [https://github.com/bheim6/api_curious]
+* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md]
 
 __Project__ description:
 
-Robot World is a Sinatra app that serves as a directory of robots. Robots have various attributes including an Avatar that is generated using http://robohash.org/. The app has an index and dashboard that displays various robots and statistics adout the robots in the inventory. This app is pretty metal \m/.
+API Curious focuses on consuming and working with public API data. The premise is to re-construct a simplified version of an existing site using their own API. For this project, I chose to use GitHub. 
 
 ---
 
