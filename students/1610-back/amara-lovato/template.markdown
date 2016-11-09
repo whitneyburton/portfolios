@@ -16,24 +16,22 @@ Keeping my final goal in mind (create great tools to make the world better) real
 
 -------------------------------------------------------------------
 
-**** A: END-OF-MODULE ASSESSMENT (INDIVIDUAL SELF-ASSESSMENT)******
+## A: End-of-Module Assessment (individual self-assessment)##
 
-#A: End-of-Module Assessment
+# A: End-of-Module Assessment
 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
 
-#B: Individual Work & Projects
+# B: Individual Work & Projects
 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
 
-#C: Group Work & Projects
+# C: Group Work & Projects
 3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
 
-#D: Professional Skills
+# D: Professional Skills
 3: Student demonstrates satisfactory dedication, understanding, and growth of professional development through their deliverables from PD sessions.
 
-#E: Feedback & Community Participation
+# E: Feedback & Community Participation
 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior. They have a significant positive positive impact on the learning and spirit of the people around them.
-
-********* B: INDIVIDUAL WORK AND PROJECTS *************************
 
 ## B: Individual Work & Projects
 The goals of this module were the appropriate use of basic Ruby, have a correct Ruby style and focus on Test Driven Development. Please see below the scores and summaries of my individual projects in module 1.
@@ -43,7 +41,7 @@ The goals of this module were the appropriate use of basic Ruby, have a correct 
 * GitHub URL: https://github.com/pixapi/mastermind.git
 * Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown
 
-(description) !!!!******** PENDING TO DO THIS ******!!!!!!
+Mastermind consists in creating a game where the user tries to guess a randomly created four digit password which can contain the letters G (green), B (blue), Y (yellow) and R (red). After every try the user is informed if the guess was correct and equals the password or otherwise how many letters in the right position or different position are in the user guess compared to the password. The user can keep playing or quit the game as well as choose cheat to see the answer. When the user guesses the password, how many tries and how long it took is provided. The project includes a code generator, a REPL, a counter to track times and time and several complex methodsto evaluate the input versus the password
 
 # Evaluation Comments:
 
@@ -51,7 +49,7 @@ Got a little turned around when trying to pull together multiple classes
 Separate the files better into lib and test and delete inactive files
 TDD could be stronger and test things that need to be tested, not just simple things
 
-#Evaluation Scores:
+# Evaluation Scores:
 
 1. Test-Driven Development
 1: Application does not demonstrate strong use of TDD
@@ -72,7 +70,7 @@ TDD could be stronger and test things that need to be tested, not just simple th
 * GitHub URL: https://github.com/pixapi/bottles
 * Original Assignment: https://github.com/turingschool/challenges/blob/master/99_bottles.markdown
 
-(description) !!!!******** PENDING TO DO THIS ******!!!!!!
+99 bottles consists in create a program that displays the famous song "99 bottle of beer on the wall" discounting a bottle from the number of bottles every time that the song is sung until there aren't any bottles on the wall. It basically uses loops in order to make the countdown and display the changes in the lyrics that occur for the last times.
 
 # Evaluation Comments:
 There were many opportunities for refactoring.
