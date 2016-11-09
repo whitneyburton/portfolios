@@ -170,34 +170,34 @@ This was a follow-up from the "Finding Opportunities" session, and we talked abo
 ### Giving Feedback
 
 *To Lee Saville:*<br>
-Lee was an amazing partner.  We worked together on this project very closely, and I leanred a ton from him. He is very patient with other people's questions, and is also very open to ask questions of his own. He is also very flexible and easy going, making it super easy to work with him. We probably both could have worked on more effectively splitting up work, but I think that is something that will come with time. Overall, I was very happy to have the chance to work with Lee!
+Lee was an amazing partner.  We worked together on this project very closely, and I leanred a ton from him. He is very patient with other people's questions, and is also very open to ask questions of his own. He is also very flexible and easy going, making it super easy to work with him. We probably both could have worked on more effectively splitting up work, but I think that is something that will come with time. Overall, I was very happy to have the chance to work with Lee!<br>
 <br>
 *To Ben Pepper:*<br>
-Ben was a great partner. He was very open to answering questions and trying new things. Ben was also incredibly open to feedback and appreciated honesty. We probably could have been a little more clear with each other about our preferred working styles, but we all realized that and agreed to take note going forward.  I was happy to have him as a partner!
+Ben was a great partner. He was very open to answering questions and trying new things. Ben was also incredibly open to feedback and appreciated honesty. We probably could have been a little more clear with each other about our preferred working styles, but we all realized that and agreed to take note going forward.  I was happy to have him as a partner!<br>
 <br>
 *To Ali Schlereth:*<br>
-Ali was, as always, a great partner for me this module. We got the chance to work together on Little Shop, and I was very grateful for that opportunity. Ali is always supportive and willing to hear different opinions. At the same time, she is eager to help with anything. I will miss working on a project with her, but am so glad that we were able to do that at least once! And I know she will continue to be as supportive as always going forward. 
+Ali was, as always, a great partner for me this module. We got the chance to work together on Little Shop, and I was very grateful for that opportunity. Ali is always supportive and willing to hear different opinions. At the same time, she is eager to help with anything. I will miss working on a project with her, but am so glad that we were able to do that at least once! And I know she will continue to be as supportive as always going forward. <br>
 <br>
 *To Anna Dolan:*<br>
-Anna was an awesome partner. We worked together on our Little Shop project, and we paired together for most of our work. I am very pleased with how much we were able to get done. Anna is a really hard worker and I always appreciated how much she was willing to do! I know we will continue to support each other in future modules, and I look forward to those opportunities. 
+Anna was an awesome partner. We worked together on our Little Shop project, and we paired together for most of our work. I am very pleased with how much we were able to get done. Anna is a really hard worker and I always appreciated how much she was willing to do! I know we will continue to support each other in future modules, and I look forward to those opportunities. <br>
 <br>
 *To Erin Pintozzi:*<br>
-Erin was such a great partner in this module. We worked together on Little Shop, and she was our fearless project manager. I learned a lot watching her work and am so glad for that opportunity. We were also both in the Bezos possee, and I again was glad to have the chance to learn from her. She is always willing to offer her opinion but also super open to hearing from other people. I will miss working with her on Little Shop, but I'm glad that we will have the chance to still work together in other ways in the future!
+Erin was such a great partner in this module. We worked together on Little Shop, and she was our fearless project manager. I learned a lot watching her work and am so glad for that opportunity. We were also both in the Bezos possee, and I again was glad to have the chance to learn from her. She is always willing to offer her opinion but also super open to hearing from other people. I will miss working with her on Little Shop, but I'm glad that we will have the chance to still work together in other ways in the future!<br>
 <br>
 *To Jon Kimble:*<br>
-Jon was an awesome partner for me this module. We were SAB reps together as well as working together with the Bezos posse. He was super willing to jump in and help with anything. He immediately offered to help with the clothing/food drive and the Glow in the Gardens event. He was always willing to step up to his SAB duties, as well as being an active member of Bezos. I will miss working with him on SAB next mod but know he will continue to do a great job!
+Jon was an awesome partner for me this module. We were SAB reps together as well as working together with the Bezos posse. He was super willing to jump in and help with anything. He immediately offered to help with the clothing/food drive and the Glow in the Gardens event. He was always willing to step up to his SAB duties, as well as being an active member of Bezos. I will miss working with him on SAB next mod but know he will continue to do a great job!<br>
 <br>
 
 ### Being a Community Member
 
 *From Lee Saville:*<br>
-Megan, you were delightful to work with, I think we shared a similar preference for the pairing dynamic, and overall meshed well in personality and disposition. Going into the future we can both work on feeling more comfortable with a divide/conquer  scenario. Thanks for the hard work!
+Megan, you were delightful to work with, I think we shared a similar preference for the pairing dynamic, and overall meshed well in personality and disposition. Going into the future we can both work on feeling more comfortable with a divide/conquer  scenario. Thanks for the hard work!<br>
 <br>
 *From Ben Pepper:*<br>
-Megan was a great project manager. Her attention to detail made sure that we always completely finished an iteration before moving on. Her drive to fully understand a problem was instrumental in the group learning as much as possible. Our working styles were not in sync but during our retro she was extremely professional in bringing it up and discussing it. She made it easy to understand what happened and her thoughts on how to move forward. I learned a lot from her about how to work more effectively in a group and it will only prove to be helpful through out Turing.
+Megan was a great project manager. Her attention to detail made sure that we always completely finished an iteration before moving on. Her drive to fully understand a problem was instrumental in the group learning as much as possible. Our working styles were not in sync but during our retro she was extremely professional in bringing it up and discussing it. She made it easy to understand what happened and her thoughts on how to move forward. I learned a lot from her about how to work more effectively in a group and it will only prove to be helpful through out Turing.<br>
 <br>
 *From Anna Dolan:*<br>
-Megan and I worked together on Little Shop this module. Megan is a hard worker and a great collaborator. She and I paired for most of the project, and we were able to get a lot of work done together. She is good at offering her opinion in a kind way, and is open to others' ideas. I look forward to workin with her in future modules on both group and individual projects.
+Megan and I worked together on Little Shop this module. Megan is a hard worker and a great collaborator. She and I paired for most of the project, and we were able to get a lot of work done together. She is good at offering her opinion in a kind way, and is open to others' ideas. I look forward to workin with her in future modules on both group and individual projects.<br>
 
 
 
