@@ -70,7 +70,7 @@ This was more of a tutorial style project where we made our first real applicati
 
 ### Projects
 
-This module had included two group projects.  The first, Rush Hour, was a tool to analzye and display web traffic information, which we built with Sinatra. The second was called Little Shop, in which we created an ecommerce website with Rails. The projects were both interesting and presented new topics as we went, and I'm happy to say that I learned a lot from each. 
+This module included two group projects.  The first, Rush Hour, was a tool to analzye and display web traffic information, which we built with Sinatra. The second was called Little Shop, in which we created an ecommerce website with Rails. The projects were both interesting and presented new topics as we went, and I'm happy to say that I learned a lot from each. 
 
 #### Rush Hour
 
