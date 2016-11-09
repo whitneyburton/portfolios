@@ -166,7 +166,7 @@ We used many different project management styles in my two projects this module.
 
 In Little Shop, we had a very thorough DTR and did a much better job of checking in often. We also did stand-ups, since we were able to split up work in an effective way between the four of us. I think we also did a great job of utilizing Waffle in this project, which keps us very clearly on track. I think our project management and workflow in Little Shop was the best and most effecient of any project I've worked on up to this date.<br>
 
-I tried to incorporate feedback about these issues to make myself better in each project, and I think I was able to do that. I learned that it's always best to be as thorough as possible, to check in often, and to set clear expectations.  These things make me feel more comfortable on a project, which is turn will hopefully make me more succesful. <br>
+I tried to incorporate feedback about these issues to make myself better in each project. I learned that it's always best to be as thorough as possible, to check in often, and to set clear expectations.  These things make me feel more comfortable on a project, which in turn will hopefully make me a more effective and succesful teammate. <br>
 
 
 
