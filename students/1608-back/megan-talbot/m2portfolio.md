@@ -198,6 +198,9 @@ Megan was a great project manager. Her attention to detail made sure that we alw
 <br>
 *From Anna Dolan:*<br>
 Megan and I worked together on Little Shop this module. Megan is a hard worker and a great collaborator. She and I paired for most of the project, and we were able to get a lot of work done together. She is good at offering her opinion in a kind way, and is open to others' ideas. I look forward to workin with her in future modules on both group and individual projects.<br>
+<br>
+*From Anna Dolan:*<br>
+Megan, what a great surprise to have the opportunity to together again on a group project. First off, I think we did sooo much better with the planning and workflow that we struggled with in Mod 1. You  make intentional decisions that help us get code right the first time, and you also have a persistence to help keep the team's head up and get things done. I'm sure you experienced moments of frustration, but honestly, it never really showed which is an unbelievable quality to have on a team and one that I think would make you an excellent team leader.<br>
 
 
 
