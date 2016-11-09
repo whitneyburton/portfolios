@@ -43,12 +43,19 @@ Many long methods, nested elsif statements, opportunities to refactor
 Score:
 
 1. Test-Driven Development
+  
   2: Application makes some use of tests, but the coverage is insufficient
+
 2. Functional Expectations
+  
   2: Application is missing one base expectation
+
 3. Breaking Logic into Components
+  
   3: Application consistently breaks concepts into classes which encapsulate functionality. (SRP).
+
 4. Fundamental Ruby & Style
+  
   2: Application runs but the code has many long methods (>8 lines), has poorly named variables, needs significant refactoring, and is somewhat idiomatic.
   
 #### HTTP Yeah You Know Me
@@ -67,12 +74,19 @@ Using lots of small methods
 Scores:
 
 1. Overall Functionality
+  
   3: Application implements iterations 0 - 4
+
 2. Fundamental Ruby & Style
+  
   4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
 3. Test-Driven Development
+  
   3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
+
 4. Breaking Logic into Components
+  
   4: Application effectively breaks logical components apart with clear intent and usage 
 
 ## C: Group Work & Projects
@@ -105,14 +119,23 @@ Spec harness passes
 Scores:
 
 1. Test-Driven Development
+  
   3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
 2. Encapsulation / Breaking Logic into Components
+  
   3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+
 3. Fundamental Ruby & Style
+  
   3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
+
 4. Enumerable & Collections
+  
   3: Application makes use of appropriate Enumerable methods and collections
+
 5. Functional Expectations
+  
   3: Application fulfills all base expectations
 
 #### BlackThursday
