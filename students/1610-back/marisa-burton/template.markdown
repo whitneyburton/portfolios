@@ -107,8 +107,8 @@ Overall Functionality--3: Application follows the complete spec and one extensio
 #### Black Thursday
 
 * https://github.com/drod1000/black_thursday
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
-*DTR
+* https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
+* DTR: https://gist.github.com/MarisaMBurton/c2ee89e50f5de3b8dc4d451fa4fc3b2e
 
 A business is only as smart as its data. Let's build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
 
