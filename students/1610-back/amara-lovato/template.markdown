@@ -18,19 +18,19 @@ Keeping my final goal in mind (create great tools to make the world better) real
 
 ## A: End-of-Module Assessment (individual self-assessment)##
 
-# A: End-of-Module Assessment
+A: End-of-Module Assessment
 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
 
-# B: Individual Work & Projects
+B: Individual Work & Projects
 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
 
-# C: Group Work & Projects
+C: Group Work & Projects
 3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
 
-# D: Professional Skills
+D: Professional Skills
 3: Student demonstrates satisfactory dedication, understanding, and growth of professional development through their deliverables from PD sessions.
 
-# E: Feedback & Community Participation
+E: Feedback & Community Participation
 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior. They have a significant positive positive impact on the learning and spirit of the people around them.
 
 ## B: Individual Work & Projects
@@ -75,14 +75,14 @@ TDD could be stronger and test things that need to be tested, not just simple th
 # Evaluation Comments:
 There were many opportunities for refactoring.
 
-#Evaluation Scores:
+# Evaluation Scores:
 This project was part of a special continuous evaluation program.
 
 # Wizarding Bank
 * GitHub URL: https://github.com/pixapi/wizarding.git
 * Original Assignment: https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown
 
-(description) !!!!******** PENDING TO DO THIS ******!!!!!!
+This project consists in building a program that allows create bank accounts in different banks for several people that have initally certain cash. The program also performs the normal bank operations: withdrawal, transfer money between account and keep track of the balances in each account. The primary learning goal is the use of classes, methods and passing info around through arguments and variables.
 
 # Evaluation Comments:
 Trouble with passing arguments and calling methods from other classes. Good effort in TDD.
@@ -94,21 +94,19 @@ This project was part of a special continuous evaluation program.
 * GitHub URL: https://github.com/pixapi/enigma
 * Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown
 
-(description) !!!!******** PENDING TO DO THIS ******!!!!!!
+This project consists of building a program that simulates the encryptation method used during the Cold War. The system rotates characters and numbers in a way that having the key and knowing the rotations allows to decrypt the message. However, there is a way to do it without the key that's called to crack the message. The goal of this project was to do the first part of the solving process that is the whiteboarding/pseudocoding,  focusing on identifying classes and their attributes.
 
 # Evaluation Comments:
 Good visual map to identify classes and attributes. Trouble to think of next steps in Ruby. Good effort in TDD.
 
-#Evaluation Scores:
+# Evaluation Scores:
 This project was part of a special continuous evaluation program.
-
-************** C: GROUP PROJECTS ******************************
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro) !!!!******** PENDING TO DO THIS ******!!!!!!
+This section will display the pair projects that we did during module 1. The main learning goals are the technical knowledge and use of Ruby but also and as important as is how to work with somebody in a project. In order to perform well working in pairs, there is an initial discussion called DTR (Define the Relationship) where pairs talk about how are their styles to work, schedules and other factors that condition their good performance; at the end of the discussion they achieve a compromise and determine some rules for a good workflow.
 
 #### Night Writer
 
