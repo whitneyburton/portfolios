@@ -15,15 +15,46 @@ I set out to learn JavaScript and hone my professional presence in module 4. I a
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: Six 3's and One 4
+* **B: Individual Work & Projects**: 400/450 points total
+* **C: Group Work & Projects**: 282/300 points total
+* **D: Professional Skills**: See below
+* **E: Feedback & Community Participation**: See below
 
 -----------------------
 
 ## A: End of Module Assessment
+
+### Instructor Comments
+- I'm able to edit links to have bad URLs
+- In your flash message, you escape the `c` character by typing `\cc`. `\` needs to be escaped by typing `\\`
+- Link index view is clean, but status flag seems unnecessary because you could have just used `link.read` instead of creating a new local variable.
+- No tests for supporting feature
+- UI looks good, and is easy to use
+- It doesn't specifically say so, but you're only searching by title, instead of title and URL. Could be a better UX.
+
+### Detailed Rubric
+
+#### 1. Satisfactory Progress
+* **3: Developer completes iterations 1 through 5, and one supporting feature, with few bugs and no missing functionality.**
+
+#### 2. Ruby Syntax & Style
+* **3: Developer is able to write idiomatic and effective Ruby. Application makes good use of Object-Oriented modeling with few gaps in class identification and component extraction. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+#### 3. Rails Style & API
+* **3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+#### 4. Javascript Syntax & Style
+* **3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+#### 5. Testing
+* **3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.**
+
+#### 6. User Interface
+* **3: The application has many strong pages/interactions, but a few holes in lesser-used functionality**
+
+#### 7. Workflow
+* **4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.**
 
 ## B: Individual Work & Projects
 
@@ -35,6 +66,12 @@ I set out to learn JavaScript and hone my professional presence in module 4. I a
 I was part of the self-driven group "Whiskey Tango" for Scale Up. I learned much about Android App development, and created two simple apps during my learning. I submitted one PR and received valuable feedback from a Turing mentor in California. I also documented my learning via two detailed blog posts on Medium which were both shared and favorited multiple times, and gained me several followers on the site.
 
 I received a total 285/300 points for Scale Up. I had points knocked off mainly because I did not open a PR for review in the first week of the project.
+
+Instructor Notes:
+- Blog post is thorough and helpful. I'm not sure the inline images were the best choice. It shrinks the readable area, and makes it a little harder to read.
+- Nice progress on an android app, and android development in general.
+- I'd recommend adding a README to your android project so you can talk about it.
+
 
 #### Idea Box
 
