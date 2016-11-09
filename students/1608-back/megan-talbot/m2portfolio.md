@@ -209,6 +209,9 @@ Megan, what a great surprise to have the opportunity to together again on a grou
 <br>
 *From Ali Schlereth:*<br>
 Megan is a hard working insightful individual. She has an attention to detail and always willing to collaborate. Throughout the entire module, I always knew that I could go to Megan as a resource for both technical as well as emotional support. This was also true in our Little Shop project. She does a great job voicing her opinion while also listening to others. I appreciate when she pushes back on others' suggestions when she has a differing opinion. She is comfortable giving something a try and perservering until it works, and works well. Thank you for your leadership and support! <br>
+<br>
+*From Jon Kimble:*<br>
+It was fantastic working with Megan in Bezos Posse and I couldn't have asked for a better partener on S.A.B.!  During S.A.B. Megan volunteered to lead the effort for glow in the gardens and played a big part in making the community event happen for everyone in school.  She always had keen insights during our S.A.B. discussion and was a great person to have representing our whole mod.  I was particularly impressed during out weekly retros where she took a lead roll and gracefully handled the various feedback and discussions we had as a group.  Megan also organized a Bezos posse field trip to visit her brother at Go Spot Check which was one of my favorite moments of all of module 2. I admire Megans strong communication skills, clear thinking, and willingness to give back to the community and we're all better off for having her here at Turing!
 
 
 
