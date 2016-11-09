@@ -7,7 +7,7 @@ When I first began, I didn't know what I didn't know, but I knew I wanted to str
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
 * **D: Professional Skills**: X
@@ -125,23 +125,14 @@ Feedback from Robbie Smith: Marisa was a pleasure to work with during the Night 
 #### Rock the Vote
 I really enjoyed hearing everyone's different perspectives, as we all come from such different backgrounds and have such different life experiences. I'm contemplating about the balance between America's problems and how lucky I am to have been born here. Our democracy is not perfect, but is functional, and I have many personal freedoms here I would not have in other countries, especially as a woman. Just having the privilege to be in a program like Turing keeps my "first world problems" in check.
 
-##Introvert
+#### Introvert
 I really enjoyed this gear-up. I realized that I've had more extroverted bosses that don't really understand how to get the best work out of me since I don't go out of my way to look for praise. My extroverted bosses have tended to try to micomanage me in that past, and I tend to do better being left to my own resonpsibilities. I do feel that Turing sometimes favors extroverts since there is a lot of group work, and sometimes I just need alone time to reinforce and process what I just learned before breaking off into groups and immediately working with other people.
 
-* [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+### Professional Sessions
 
+Personal Branding I: The resume/cover letter workshop was really helpful. I updated my cover letter and rebuilt and redesigned my resume as well as created a LinkedIn page following the advice given. It made me take a more analytical approach to how I represent and brand myself to stand out from other software developers. The session motivated me and got me excited about the possibilities outside of Turing. I completed my LinkedIn profile here and will continue to update it with my relevant skills once I learn more. LinkedIn profile: https://www.linkedin.com/in/marisa-burton-14281a130?trk=hp-identity-name 
 
-### Professional Development Workshops
-#### (Session Name)
-
-Personal Branding I: The resume/cover letter workshop was really helpful. I updated my cover letter and rebuilt and redesigned my resume as well as created a LinkedIn page following the advice given. It made me take a more analytical approach to how I represent and brand myself to stand out from other software developers. The session motivated me and got me excited about the possibilities outside of Turing.
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
 
 ## E: Feedback and Community Participation
 
