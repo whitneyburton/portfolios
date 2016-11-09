@@ -1,18 +1,8 @@
-# Erin Pintozzi - Module 2 Portfolio
+# (Your Name) - (M1/M2/M3/M4) Portfolio
 
 ## Areas of Emphasis
 
-This module, I had two primary goals, both with the overarching goal of passing Module 2 in preparation for a career as a software developer:
-
-#### Goal 1 - Be a “Yes (Wo)man”
-Continuation of Mod 1 goal: The purpose of this goal is to encourage myself to do things outside of my comfort zone that I might normally say “no” to doing. This goal will help me be a better student, peer, and person both in and out of the classroom. I will do at least 1 thing outside of my comfort zone each week such as attending a meetup, giving a talk, joining a group, or similar. If 1 opportunity is not available, I will introduce myself to at least one new person or write a blog post as a substitute event.
-
-##### Result
-
-#### Goal 2 - Work on leadership/support skills
-The purpose of this goal is to build my leadership and support skills within the Turing network to be a better student/peer as well as to hone my professional skills. I will earn at least 3 “points” per week. Points can be earned by: participating in class in a meaningful way, meeting someone new, being a pair for another student, meeting with a mentor, volunteering in the greater community (ex: at a meetup), and asking for or offering help. This list may be updated over time as I become aware of different opportunities.
-
-##### Result
+(What did you set out to accomplish this module?)
 
 ## Rubric Scores
 
