@@ -155,7 +155,7 @@ Susi - Susi, I had so much fun working on Rails Engine with you.  It was a reall
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+My biggest contribution this module was taking over the Bezos Posses with Madison from 1606 Frontend.  We decided to make the activities of the posse more hands on.  The most memorable activity was the $5 challenge, where pairs of students worked together to make the most profit in 2 hours with a budget of $5.  Some groups failed and some succeeded, but it was memorable for all.  We followed that up with a pitch practice, user testing workshop, and a class on Search Engine Optimization.  With the help of Megan from 1608 Backend, we were able to make a special trip to GoSpotCheck where we got to have a roundtable discussion with the CEO Matt.
 
 ------------------
 
