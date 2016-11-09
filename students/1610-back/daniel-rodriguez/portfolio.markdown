@@ -18,8 +18,6 @@
 
 (Notes & scores from your assessment rubric)
 
-
-Beth Sebian	[12:11 PM]  
 Assessed By: Beth Sebian
 
 Challenge: What Can I Make
