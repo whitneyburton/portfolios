@@ -147,6 +147,7 @@ I valued the reminder that people come from all different perspectives and attit
 I have many people in my life who model amazing resilience, so this topic is very important to me. In our small group, we discussed what resilience means at Turing and how to support our cohort-mates in their ability to frame challenges as oppurtunities for growth. I was reminded of the importance of developing this attitude in difficult situations and will continue to work towards greater resilience. 
 
 ### Professional Development Workshops
+
 #### Personal Branding
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
@@ -154,12 +155,23 @@ I have many people in my life who model amazing resilience, so this topic is ver
 
 In this workshop, we learned techniques to present our selfs and our stories in a light that reccommends us to employers. We learned about what to put on a resume and how to use LinkedIn to passively connect with people to potentially network with. 
 
-#### (Session Name)
+#### Learning to Pair
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md)
 
-(takeaways from session)
+Because it is an industry norm, pairing early and often is an important part of learning to program. In this session, we discussed the importance of setting expectations with a partner early by defining the parameters of the relationship with a DTR. By documenting these expectations, later problems can be resolved with limited conflict. 
+
+DTRs can also help set a tone of collaboration by identifying the strengths and weaknesses of each partner. It can help to head off personality clashes by identifying potential tensions in a relaxed situation. DTRs can even be granular in detail and define times and methods for work and communication. Resolving all of theses differences at the start of the partnership can keep them from impeding the process.
+
+When expectations are broken, however, returing to the DTR can give partners tools to resolve issues. If partners come to each other with mutual respect and empathy, these conflicts can be resolved without tempers flaring. 
+
+#### Feedback I
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md)
+
+Hopefully, each partnership that we undertake makes a better collaborator and programmer. An integral part of this growth is giving and recieving productive feedback. With the help of those we work with, we can identify areas of challenge and strength and develop strategies to improve.
+
+There are three types of feedback: appreciation, coaching and evaluation. Appreciative feedback provides motovation to a partner by identifying their strengths and sucesses. Coaching is intended to help accelerate the learning process for a partner by suggesting ways for he or she to improve or explore further. Evaluation in intended to help a partner know where he or she stands in comparison to a set of standards. All three types are vitally important to the learning process.
 
 ## E: Feedback and Community Participation
 
@@ -176,6 +188,8 @@ To Amara Lovato: "Amara, your dedication to learning the material is almost unma
 "Annie! Thanks so much for always setting up opportunities for our cohort to hang out. You make decisions for the group without being overbearing, and it definitely strengthens our bond. Putting the Wolff in Wolffpack!" -Mike Shutte
 
 "Annie, I love that you are always eager to help us and you have a unique way to do it. You are always active listening (never assuming things), you support us to find the solutions for ourselves, you never use advance words that can make us feel behind and you have always nice words to encourage us. You are an advance coder but always humble so that makes you even better from my perspective. Your cheerfulness and energy in the group makes a big positive difference, you make us laugh with your authenticity and fresh personality. You are a great human asset for the Turing community, I see you in the soon future becoming a great programmer and an awesome mentor. I feel very lucky to have met you!"
+
+"Annie was great influence during Mod 1 and very helpful during the Black Thursday project.  Throughout the module, she was cheerful and positive (even in the face of greater challenges like Complete Me and, even worse, voter registration after relocating to a new state).  And she was especially generous with her time and talent when I asked to talk out the intricacies of Black Thursday - even though she had already breezed past the section that was tripping me up.  I appreciate her insight and hope to get a chance to work with her on a project at Turing." 
 
 ### Playing a Part
 
