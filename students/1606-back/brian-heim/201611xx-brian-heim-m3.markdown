@@ -252,28 +252,19 @@ I liked that we had to practice networking in this lesson. It really gave us som
 
 ### Being a Community Member
 
-#### Feedback for Brian (From Jesse Spevack)
+#### Feedback for Brian (From Nate Anderson)
 
-##### Positives:
+* I really enjoyed finally getting a chance to work with you on a project. Our pairing time was very productive, but also light and fun which made everything much easier. Your work with the css was amazing and it was really fun watching our site come to life like that. Your dedication to getting every aspect exactly right was great to watch. I have tried to rack my brain to come up with a criticism to no avail. Your work ethic is great and it was a pleasure working with you.
 
-Extremely positive attitude all the time. Throughout the project, no matter the pace or progress, Brian was very positive. He always said things like, 'Good job' and 'We are doing great.'
-Very calm and even headed during stressful situations. Even when we were stuck on problems or behind our schedule, Brian always was calm. He never lost his temper at all.
-Working with Brian made the me faster. He is great finding errors and issues that I may have overlooked as I was implementing a test or code.
+#### Feedback for Brian (From David Davydov)
 
-#####Area of growth
+* Brian, you were a great team member and I strongly valued your easy-going personality and dedication throughout our project. You did a fantastic job in making our site look professional, implementing the right CSS for image cropping, centering, and all that other stuff that the rest of the team was not doing. Your commitment to the styling of the site was invaluable, and your git workflow in terms of periodically applying these stylistic changes to the progress we've made turned out to be very intuitive. Your understanding of the site's layout was solid by the end of the project, when you gave me the rundown on how to match our review form to have the same style as the other forms. In an area of growth, I would suggest that when something in the code or project is not clear, do not hesitate to pause the pairing session and use it as an opportunity to learn. There were times during our pairing that you made some suggestions that seemed random which gave me the impression that your understanding of the code flow was not fully solidified. This was never anything more than minor, but reading code is crucial and I would suggest you always stay on top of lubricating these gears of dis-clarity whenever they seem to get stuck - it will pay off dividends in the long run. You were always fun to work with and level-headed throughout the project and our team strongly benefited from having you as a partner. Thank you for your hard work and patience.
 
-I challenge Brian to apply more rigor to his hypothesis formulation and strive to eliminate some of the random guessing he applied to problem solving. While random guessing is a totally legitimate strategy in some situations, Brian will be better served in forcing himself to make a hypothesis or rationalize his guesses with data and/or technical knowledge.
+#### Feedback for Brian (From Raphael Barbo)
 
-#####Overall
-
-The partnership was a positive experience. It was nice that the content was the hardest part of this project.
-
-#### Feedback for Brian (From Chase Dunagan)
-* Brian and I have worked on a project together, before, and it went very well, so I was excited to get the chance to work with him again, but this time on Little Shop.  Brian and I click very well as far as personality, and I think we compliment each other’s programming skills, nicely.  Besides our superb ability to work well together, Brian was also extremely important to our Little Shop project.  His ability to think logically, and work out problems that were new to us, was very impressive. It was fun to work with Brian again and see how much he has grown since our first pair project at Turing. He continues to show why he is such a great programmer, and I envy any of his future group members, because they will be getting one of the most laid back, friendly, and  impressive programmers of our cohort.
-
-#### Feedback for Brian (From Bryan Goss)
-* Brian is very bright and good natured. I was very lucky to have him on my team for Little Shop. He always makes a point of suggestioning ideas as a question, to avoid stepping on toes. One small adjustment is that this habit eventually and in rare cases can come across as patronizing. Since I know what a genuinely friendly and kind person Brian is, I never took his suggestions that way, but I can imagine someone might in a different context. It reminds me of the Gear Up session about setting boundaries; sometimes it's better to be clear and direct. Overall, if I could select a dream team of programmers from our cohort, Brian would be on it. because he works hard and has fun doing it.
-
+* Brian is very easy to work with, as far as technical skills it was really fun to work with Brian because I feel we are at the same level, and it allowed both of us to contribute towards the features we were working on.
+My constructive feedback to Brian is just to keep listing to people's ideas, and different approach to problems. The beauty of being a developer is that the are 200 ways to solve the same problem.
+I really enjoyed working with him, and I am looking forward to see what he accomplishes throughout his time at turing.
 
 
 ### Playing a Part
