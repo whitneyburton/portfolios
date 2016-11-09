@@ -20,7 +20,13 @@ This module I will prepare for the interview process through at least one of fol
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning  
+3: Developer breaks complex problems into small, digestible steps and executes them with little assistance  
+3: Developer is able to implement all functionality and all tests pass  
+3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database  
+3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack  
+3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps  
+3: Developer lays out their thinking before attacking a problem and integrates feedback through the process  
 
 
 ## B: Individual Work & Projects
@@ -125,7 +131,7 @@ Ali was a great teammate and excellent communicator. She is open with feedback a
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-(takeaways from session)
+Coming in to this gear up, I anticipated a lot of talk about 'grit', which as a buzz word personally leaves something to be desired. However, I was pleasantly surpised by some research on resiliance and personal reflection time.  I enjoyed the conversation with a smaller group of cross-cohort members. It was interesting to hear how folks saw this applying from a mod4 member to mod1 members. 
 
 #### (Vote Your Conscience)
 
@@ -169,11 +175,35 @@ This session we talked about how to address someone when they've made significan
 
 ### Giving Feedback
 
-(feedback from me)
+To Noah:    
+Noah has been an integral part of Pahlka Posse this module. He eagerly provides ideas and suggestions founded on experience and research. He is willing to work on a flexible team and help direct their accomplishments. Noah continues to work to find the balance between many great ideas and moving forward effeciently with one of them. Thanks for your contributions and leadership Noah!   
+
+To Casey:  
+As my Pahlka Possee co-leader this module, Casey has been a steady balanced presence. I appreciate his drive to make forward progress on our project while also providing great emotional leadership for the great. Casey you have a great pastoral presence, thank you!  
+
+To Tommasina:  
+Tommasina has been a great mentor this module within Pahlka Posse. She does a great job of keeping our mission at the forefront of our work and ensuring that everyone feels valued and included. Thank you for your work this module Tommasina!   
+
+To Erin:  
+Erin has been a wonderful partner and classmate. During our group project, she had a highly collaborative temperment. I enjoyed talking through strategies and ideas, putting our thoughts together for great outcomes. I learned a lot about creating a solid web app and thinking through design for user experience. I really appreciated how you stood up for your opinions while also being open to other ideas, it made finding compromises an ease.  
+
+To Anna:  
+Anna has a lot of passion for design and usability. She is quick to pick up on ideas and strategies and is comfortable aggregtaing research to come up with solutions. I've enjoyed learning from her this module and know she is a good resource for collaboration. Thanks for a great working dynamic!  
+
+To Megan:  
+Megan is a hard working insightful individual. She has an attention to detail and always willing to collaborate. Throughout the entire module, I always knew that I could go to Megan as a resource for both technical as well as emotional support. This was also true in our Little Shop project. She does a great job voicing her opinion while also listening to others. I appreciate when she pushes back on others' suggestions when she has a differing opinion. She is comfortable giving something a try and perservering until it works, and works well. Thank you for your leadership and support!   
+
 
 ### Being a Community Member
 
-(feedback to me)
+From Erin:  
+Ali, working with you has been a lot of fun and I've learned tons. I think we have a similar style of how we approach programming so working with you also felt very natural and easy. Your note-keeping, precision, and thoughtfulness toward our approach resulted in our group attaining higher quality project that I'm super proud of. Keep practicing not letting perfection drive out the good. You write great code and are awesome at refactoring, so I know this is something that you will easily keep improving while you knock out great projects.  
+
+From Megan:   
+Ali was, as always, a great partner for me this module. We got the chance to work together on Little Shop, and I was very grateful for that opportunity. Ali is always supportive and willing to hear different opinions. At the same time, she is eager to help with anything. I will miss working on a project with her, but am so glad that we were able to do that at least once! And I know she will continue to be as supportive as always going forward.
+
+From Anna:  
+Ali was a part of my Little Shop group this module, and this was my first time working in a group with her. Ali was very dedicated to the project and excited at small victories. She helped to keep us motivated and contributed to a happy group dynamic. She also put in a ton of work on the project, and made really important contributions to our code. I look forward to working with her in the future, whether in a group or on an individual project.  
 
 ### Playing a Part
 
