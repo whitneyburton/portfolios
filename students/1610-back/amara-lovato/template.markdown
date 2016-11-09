@@ -36,20 +36,20 @@ E: Feedback & Community Participation
 ## B: Individual Work & Projects
 The goals of this module were the appropriate use of basic Ruby, have a correct Ruby style and focus on Test Driven Development. Please see below the scores and summaries of my individual projects in module 1.
 
-# Mastermind
+## Mastermind
 
 * GitHub URL: https://github.com/pixapi/mastermind.git
 * Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown
 
-Mastermind consists in creating a game where the user tries to guess a randomly created four digit password which can contain the letters G (green), B (blue), Y (yellow) and R (red). After every try the user is informed if the guess was correct and equals the password or otherwise how many letters in the right position or different position are in the user guess compared to the password. The user can keep playing or quit the game as well as choose cheat to see the answer. When the user guesses the password, how many tries and how long it took is provided. The project includes a code generator, a REPL, a counter to track times and time and several complex methodsto evaluate the input versus the password
+Mastermind project consists in creating a game where the user tries to guess a randomly created four digit password which can contain the letters G (green), B (blue), Y (yellow) and R (red). After every try the user is informed if the guess was correct and equals the password or otherwise how many letters in the right position or different position are in the user guess compared to the password. The user can keep playing or quit the game as well as choose cheat to see the answer. When the user guesses the password, how many tries and how long it took is provided. The project includes a code generator, a REPL, a counter to track times and time and several complex methodsto evaluate the input versus the password
 
-# Evaluation Comments:
+Evaluation Comments:
 
 Got a little turned around when trying to pull together multiple classes
 Separate the files better into lib and test and delete inactive files
 TDD could be stronger and test things that need to be tested, not just simple things
 
-# Evaluation Scores:
+Evaluation Scores:
 
 1. Test-Driven Development
 1: Application does not demonstrate strong use of TDD
@@ -66,56 +66,56 @@ TDD could be stronger and test things that need to be tested, not just simple th
 5. Enumerable & Collections
 2: Application only uses the most basic Enumerable techniques.
 
-# 99 bottles
+### 99 bottles
 * GitHub URL: https://github.com/pixapi/bottles
 * Original Assignment: https://github.com/turingschool/challenges/blob/master/99_bottles.markdown
 
-99 bottles consists in create a program that displays the famous song "99 bottle of beer on the wall" discounting a bottle from the number of bottles every time that the song is sung until there aren't any bottles on the wall. It basically uses loops in order to make the countdown and display the changes in the lyrics that occur for the last times.
+99 bottles project consists in create a program that displays the famous song "99 bottle of beer on the wall" discounting a bottle from the number of bottles every time that the song is sung until there aren't any bottles on the wall. It basically uses loops in order to make the countdown and display the changes in the lyrics that occur for the last times.
 
-# Evaluation Comments:
+Evaluation Comments:
 There were many opportunities for refactoring.
 
-# Evaluation Scores:
+Evaluation Scores:
 This project was part of a special continuous evaluation program.
 
-# Wizarding Bank
+### Wizarding Bank
 * GitHub URL: https://github.com/pixapi/wizarding.git
 * Original Assignment: https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown
 
-This project consists in building a program that allows create bank accounts in different banks for several people that have initally certain cash. The program also performs the normal bank operations: withdrawal, transfer money between account and keep track of the balances in each account. The primary learning goal is the use of classes, methods and passing info around through arguments and variables.
+Wizarding Bank project consists in building a program that allows create bank accounts in different banks for several people that have initally certain cash. The program also performs the normal bank operations: withdrawal, transfer money between account and keep track of the balances in each account. The primary learning goal is the use of classes, methods and passing info around through arguments and variables.
 
-# Evaluation Comments:
+Evaluation Comments:
 Trouble with passing arguments and calling methods from other classes. Good effort in TDD.
 
-#Evaluation Scores:
+Evaluation Scores:
 This project was part of a special continuous evaluation program.
 
-# Enigma
+### Enigma
 * GitHub URL: https://github.com/pixapi/enigma
 * Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown
 
-This project consists of building a program that simulates the encryptation method used during the Cold War. The system rotates characters and numbers in a way that having the key and knowing the rotations allows to decrypt the message. However, there is a way to do it without the key that's called to crack the message. The goal of this project was to do the first part of the solving process that is the whiteboarding/pseudocoding,  focusing on identifying classes and their attributes.
+Enigma project consists of building a program that simulates the encryptation method used during the Cold War. The system rotates characters and numbers in a way that having the key and knowing the rotations allows to decrypt the message. However, there is a way to do it without the key that's called to crack the message. The goal of this project was to do the first part of the solving process that is the whiteboarding/pseudocoding,  focusing on identifying classes and their attributes.
 
-# Evaluation Comments:
+Evaluation Comments:
 Good visual map to identify classes and attributes. Trouble to think of next steps in Ruby. Good effort in TDD.
 
-# Evaluation Scores:
+Evaluation Scores:
 This project was part of a special continuous evaluation program.
 
 ## C: Group Work & Projects
 
-### Projects
+## Projects
 
 This section will display the pair projects that we did during module 1. The main learning goals are the technical knowledge and use of Ruby but also and as important as is how to work with somebody in a project. In order to perform well working in pairs, there is an initial discussion called DTR (Define the Relationship) where pairs talk about how are their styles to work, schedules and other factors that condition their good performance; at the end of the discussion they achieve a compromise and determine some rules for a good workflow.
 
-#### Night Writer
+## Night Writer
 
 * GitHub URL: https://github.com/jdconrad89/nightwriter
 * Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
 
-(description) !!!!******** PENDING TO DO THIS ******!!!!!!
+Night Writer project consists of transforming an English text file into a Braille file. The positions where in Braille are points will be represented by zeros and empty spaces in Braille will be dots in the program. It translates English to Braille but also Braille to English. One of the main focus is the use of File I/O that will be coordinating all the actions and being the node of all the process.
 
-#Evaluation Comments:
+### Evaluation Comments:
 
 Successfully converts either way
 11 tests, one failing test
@@ -126,7 +126,7 @@ Numerous methods are missing corresponding tests
 I like the fact that the dictionaries are broken, out but use constants and test it.
 Watch CRs and spacing, use of them makes code more readable.
 
-#Evaluation Scores:
+### Evaluation Scores:
 
 1. Test-Driven Development
 2: Application makes some use of tests, but the coverage is insufficient
@@ -140,24 +140,28 @@ Watch CRs and spacing, use of them makes code more readable.
 4. Overall Functionality
 2: Application converts to Braille and back successfully
 
-#Feedback from Jason:
+### Feedback from Jason:
+
 Amara was a joy to work with. With the gap in understanding she was continually stoping to ask questions to make sure that she was understanding what it was our project was doing and what we were trying to accomplish. It was great because on more than one occasion while talking things out we would realize that it wouldn’t the way that was being anticipated so we were able to save some time. Her thirst for understanding and knowledge was amazing and was a great motivator to do the best we could throughout the project. Her flexibility to be able to come in on the weekend was also extremely helpful and appreciated. The biggest thing that I would say she needs to work on is to ask even more questions that there were times that we would get locked in doing things and then there would be a bunch of things that she didn’t fully grasp (part of that was on me getting in a grove and would just start chugging along)
 
-#Feedback to Jason:
+### Feedback to Jason:
+
 Jason, it was great working with you. I really liked that you were always ready to stop for as much as needed to answer my questions and you took into consideration all my suggestions. Although there was a big gap of knowledge between us you were very supportive and doing your best to make me feel as a contributor. You were also very adaptable and understanding trying to accommodate our schedules. Some things that could improve for future pairs would be to dedicate more time to whiteboard in order to discuss strategy, see the steps and go through little pieces together. The pace was too fast for me so it was hard for me to catch up but at the same time I understand that there was a rush to progress to finish the project on time. Reviewing the code together and making sure that we were in the same page would also have been useful. But globally speaking, it was a very positive experience and I’m happy that I was paired with you because you are a great classmate and a very talented teacher.
 
-#### Black Thursday
+## Black Thursday
 
 * GitHub URL: https://github.com/akintner/black_thursday
 * Original Assignment:
 https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
 
-(description) !!!!******** PENDING TO DO THIS ******!!!!!!
+### Description
 
-#Evaluation Comments:
+Black Thursday project consists in building a program that connects different csv files (clients, items,  merchants, invoices) and analize the data from a business intelligence perspective. It allows to do all sort of searchs such as average price items per merchant, golden items, fully paid invoices, days of the week with more sales, and so on. 
+
+### Evaluation Comments:
 
 
-#Evaluation Scores:
+### Evaluation Scores:
 
 1. Test-Driven Development
 
@@ -171,9 +175,9 @@ https://github.com/turingschool/curriculum/blob/master/source/projects/black_thu
 4. Overall Functionality
 
 
-#Feedback from Amy:
+### Feedback from Amy:   !!! NEEDS TO BE ADDED HERE!!!
 
-#Feedback to Amy: 
+### Feedback to Amy: 
 
 Amy is one of the best people that I have worked with. She is not only smart and resourceful but also humble and collaborative so it was a real pleasure to work with her. In spite of the complexity and many challenges of the project, she always kept motivated and dedicated endless hours to fix any single problem until the tests were passing. She is hard-working, tenacious and resilient in such a high level that I admire her for that. I appreciate that she slowed down and explained me concepts to make sure that we were in the same page and working together. She was always ready for questions and discuss strategies. Even in the most stressful moments, she kept calm, focus and kept working towards our goals. She will be a great programmer and an awesome team member for any company that she works for.
 
@@ -246,8 +250,10 @@ To Annie Wolff:
 Annie, I love that you are always eager to help us and you have a unique way to do it. You are always active listening (never assuming things), you support us to find the solutions for ourselves, you never use advance words that can make us feel behind and you have always nice words to encourage us. You are an advance coder but always humble so that makes you even better from my perspective. Your cheerfulness and energy in the group makes a big positive difference, you make us laugh with your authenticity and fresh personality. You are a great human asset for the Turing community, I see you in the soon future becoming a great programmer and an awesome mentor. I feel very lucky to have met you!
 
 To Caroline Powell:
-
 Caroline, your confidence and will to make a positive change in the world are impressive. I love that you never accept things how they are but find ways to make them awesome. You are creative but in a practical way, you are not a dreamer, you are a doer and I'm sure that you will succeed in your entrepreneurial and transformative ideas. Having you in Turing will make the experience much more powerful in a learning and human perspective. Being so ambitious, hard-working and smart, I can only envision for you a brilliant career.
+
+To Nick Gheorghita:
+Nick has a friendly and positive attitude all the time and people like help to make any stressful moment better. He provides a very good vibe for our group and he is always ready to help and give nice encouraging words. I'm glad that he is our cohort, he is a very nice person to interact with and a good team member.
 
 ### Being a Community Member
 
@@ -265,15 +271,13 @@ Amara is so inspiring to be around. She is great at bringing people together and
 
 # Playing a Part
 
-(ways you supported the larger Turing community)
-
-I actively participated in the cohort retro and surveys providing new ideas to Turing experience even more awesome. In order to strengthen the team sense,
-I encourage our cohort to get together every Thursday after wrap up to celebrate together that we made it one more week. Some members of the cohort and I met
+I do my best trying to encourage the group (my cohort) to get together every Thursday after wrap up to celebrate that we made it one more week as a way to keep ourselves motivated to move forward. I also actively participate in the cohort retro and surveys providing new ideas and constructive feedback to make Turing experience even better. In order to strengthen the team sense,
 several times to create a list of tech topics that we knew and others that we wanted to learn about. Then we surveyed the rest of our cohort to find out which of
 those tech topics people were interested in and if others. We presented it to Alison and she suggested that creating a new posse to go through these topics and
 build markdowns for the future would be suitable.
 I've been attending to productivity lunch and impostor syndrome lunch and both groups have been extremely helpful.
--------------------------------------------------------------------
+I have the will to build connections between the school and whoever I find especially awesome in the field like professionals, incubators, local tech companies and co-working spaces. I haven't written some places and people but it always take a while to be successful and unfortunately I've been frantic busy with school workload. However, I will keep trying next semester, I'm a tenacious person when I have a goal in mind.
+
 
 ## Final Review
 
