@@ -10,11 +10,11 @@ This module I will prepare for the interview process through at least one of fol
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -31,22 +31,12 @@ This module I will prepare for the interview process through at least one of fol
 
 ## B: Individual Work & Projects
 
-(Intro)
+Follow are my individual outcomes from thie module. Included are a blog post as well as graded and ungraded projects. 
 
 #### Blog Post    
 
 * [Blog Post on SRP](https://alischlereth.github.io/2016/10/30/single_responsiblity_and_the_spork.html) 
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 #### Job-Tracker
 
@@ -63,6 +53,8 @@ This project focuses on creating tables utilizing different data types and forei
 3: The application has been styled, but the user may need to use the nav-bar to enter a URL or back button to get to access some functionality.  
 3: Project has a running test suite that tests and multiple levels but fails to cover some features  
 
+I really appreciated this project for building my confidence. Having a starter repo to build off of created some support to look back upon and rely on. It also asked us to create a large amount of functionality on our own. 
+
 ### Rails Mini Project
 
 * [GitHub URL](https://github.com/AliSchlereth/idea_box)
@@ -76,29 +68,23 @@ My biggest learning take aways from this project surrounded user authorization a
 * [GitHub URL](https://github.com/AliSchlereth/mix_master)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)
 
-Mix-Master was half tutorial half independent work. I really enjoyed the opportunity to still have some guidance while also getting more experience creating functionality and tests independently.  This was a great opportunity to challenge myself but still have easy access to modeled work so as to anaylze where my my growth points were.   
+Mix-Master was half tutorial half independent work. I really enjoyed the opportunity to still have some guidance while also getting more experience creating functionality and tests independently. This was a great opportunity to challenge myself but still have easy access to modeled work so as to anaylze where my my growth points were.   
 This project helped me become more comfortable writing tests in RSpec and Capybara.  Additionall, it was good exposure to new types of forms and database relationships.
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+Following are the group projects from this module - Rush Hour and Little Shop. 
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/epintozzi/root_and_branch) (http://root-and-branch.herokuapp.com/)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-(description)
+This project builds an online ordering platform. Customers should be able to place orders and view placed order details. The site owner should be able to manage products and categories in addition to processing and completing orders.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
-(Intro)
+I appreciated building out a usable web application. During this project, I learned a lot about using sessions as well as styling using modified bootstrap. My team was a great resource, everyone working with perserverence and contributing invaluably to the group. 
 
 #### Rush Hour
 
@@ -124,7 +110,7 @@ Feedback From Nick:
 Ali was a great teammate and excellent communicator. She is open with feedback and provides effective and accurate critical evaluation of both the project and her teammates. Disagreeing with Ali on certain aspects of the project was a pleasure. She was easy to talk to and always constructive. The best feedback I could give Ali would be to be aware of the time spent on what may be trivial issues in regard to the scope of the project. It was a pleasure working with Ali throughout the project and I would recommend her as a teammate to anyone.
 
 ## D: Professional Skills
-(Intro)
+Following are the reflections from Gear Up and Professional Development sessions. 
 
 ### Gear Up
 #### Resilience
@@ -133,41 +119,34 @@ Ali was a great teammate and excellent communicator. She is open with feedback a
 
 Coming in to this gear up, I anticipated a lot of talk about 'grit', which as a buzz word personally leaves something to be desired. However, I was pleasantly surpised by some research on resiliance and personal reflection time.  I enjoyed the conversation with a smaller group of cross-cohort members. It was interesting to hear how folks saw this applying from a mod4 member to mod1 members. 
 
-#### (Vote Your Conscience)
+#### Vote Your Conscience
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
 In this session we read about and discussed the rights and responsibilities as a citizen followed by reading, reflection, and discussion about voting and political leadership. The general consensus of the group was that many young adults are frustrated by the current functioning of the political system, but that we need to participate in the system in order to make it better.  
 
-#### (Introversion and Extroversion in Teams)
+#### Introversion and Extroversion in Teams
 
 * [GitHub URL]https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-(takeaways from session)
 We had a great discussion about the virtures of introversion and extroversion. I enjoyed talking with my group mates about our experiences. Many of us fell in the same space of seeming extroverted but feeling more introverted. Some of our time was spent discussion how this impacts our time at Turing, especially in group works. One of personal revelations was about who teams of three are much easier than partners since you always have to engage when in a partnership but in a trio there is a chance for one person to pull back and be quiet.  
 
 ### Professional Development Workshops
-#### (Session Name)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)  
-
-#### (Finding Opportunities w/ Lia)
+#### Finding Opportunities w/ Lia
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/finding_opportunities.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://docs.google.com/spreadsheets/d/11yQhtJAWuGWcWMuqgRX-Qae4xaaKwh6uD4kKZRe2y44/edit#gid=0)
 
 Lia walked us through some strategies relating to making connections and building our professional network. Some of my top take aways were:  
 * on utilizing Meetup attendence lists in conjunction with LinkedIn to find people 
 * looking at the current and past jobs of someone on LinkedIn to determine if they have similar work interests as well as broadening my knowledge of the possible companies I'd like to work with  
 * ideas what to talk to someone about during a networking coffee meeting 
 
-#### (Collaborative Communication w/ Allison)
+#### Collaborative Communication w/ Allison
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/collaborative-communication.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://docs.google.com/document/d/1DihxGGvsKfy1zRrZfoVGYnzyFXFzv2J64h6qSGZjquw/edit?usp=sharing)
 
 This session we talked about how to address someone when they've made significant mistakes and how to share responsibility within a team setting.  During our group discussion, we reviewed the goals and pathways to collaborative group work with respectul communication and mutual accountability. 
 
