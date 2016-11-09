@@ -106,10 +106,11 @@ Overall Functionality--3: Application follows the complete spec and one extensio
 
 #### Black Thursday
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://github.com/drod1000/black_thursday
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
+*DTR
 
-(description)
+A business is only as smart as its data. Let's build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
 
 (evaluation comments)
 
@@ -147,6 +148,7 @@ Personal Branding I: The resume/cover letter workshop was really helpful. I upda
 "Robbie was a pleasure to work with and was understanding and patient when dealing with my gaps in knowledge. He is a strong programmer, who easily sees patterns and has strong organizational skills. Robbie explained himself well, walking me through every step of his thinking and programming process. He even spent his free time helping me with drills so that I can become a stronger programmer."
 
 #### Feedback to Daniel Rodriguez:
+"Daniel was a great partner. He is a strong programmer and lead the way through stressful and tough coding moments. He has strong organizational and logical skills. He is a hard worker who doesn't stop coding until he thinks it's the best, refactored code he can possibly write at the given moment. He always explained his thought processes really well, and I learned a lot from him by working with him on Black Thursday and would be happy to work with him again."
 
 
 ### Being a Community Member
