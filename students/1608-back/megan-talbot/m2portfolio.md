@@ -76,7 +76,7 @@ This module had included two group projects.  The first, Rush Hour, was a tool t
 * [GitHub URL](https://github.com/bfpepper/rush-hour)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
-Rush Hour was a project to build a tool to track and analyze web traffic. It was a 3 person team project, and as a group we accepted data through what we called a payload, analyzed it, and then displayed the results on a website.   
+Rush Hour was a project to build a tool to track and analyze web traffic. It was a 3 person team project, and as a group we accepted data through what we called a payload, analyzed it, and then displayed the results on a website. We created this project in Sinatra and utilized Active Record and Ruby as well. It was essentially a tool that worked like Google Analytics. I think we did a good job with this project, successfully completing all functionality and learning a ton about the content and about group dynamics.
 
 __Evaluation Scores:__<br>
 3: Application fulfills base expectations<br>
@@ -143,6 +143,13 @@ The final gear up of this mod focused on the idea of resilience, and how that ca
 
 Lia made some excellent points in this session, centered around the idea of finding new opportunities. She discussed how she uses Meetup.com to find new companies or contacts, and then uses websites like LinkedIn as follow-up. It's also always a good idea to Google a company or even a contact at that company. I used many of her suggestions to create my Trello job search board, which I am continuing to update frequently. 
 
+#### Cold Outreach
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/tree/master/module_two)
+* [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker) - Company Tracker
+
+This was a follow-up from the "Finding Opportunities" session, and we talked about how to reach out the contacts we had previously identified.  I reached out to 3 different companies, as reflected in my Trello board.  I have only heard back from one person, who was unfortunately not available to help, but I am hopeful that something good will come from my cold outreach efforts. And I am more comfortable with my ability to reach out to someone new after this session with Meg.
+
 
 #### Collaborative Communication with Allison
 
@@ -152,15 +159,7 @@ Lia made some excellent points in this session, centered around the idea of find
 This was a session focused on the idea of effective collaborative communication in teams. We did this session immediately prior to kicking off Rush Hour, which I thought was a very effective tactic. We had some reading from "How to Win Friends & Influence People in the Digital Age", and then we spent some time discussing in our groups. I enjoyed the chance to have these disussions with my Rush Hour partners, and thought it was useful to have this session before our DTR as well.
 
 
-#### Cold Outreach
-
-* [Workshop URL](https://github.com/turingschool/professional_skills/tree/master/module_two)
-* [Link to Completed Deliverables](https://trello.com/b/gthNySRX/megan-talbot-job-search-company-tracker) - Company Tracker
-
-This was a follow-up from the "Finding Opportunities" session, and we talked about how to reach out the contacts we had previously identified.  I reached out to 3 different companies, as reflected in my Trello board.  I have only heard back from one person, who was unfortunately not available to help, but I am hopeful that something good will come from my cold outreach efforts. And I am more comfortable with my ability to reach out to someone new after this session with Meg.
-
-
-#### Reflection
+### Reflection
 
 We used many different project management styles in my two projects this module.  In Rush Hour, we time-boxed trying new things, which was very effective, in addition to using tools like Waffle and Slack. Time-boxing helped us explore new things but also know when to move on. We probably could have done a better job of re-DTRing. There were different working styles at play in our group, and I don't think we identified that early enough. I think we were still very successful, but I have always tried to remember from now on that it's best to try to check in with your teammates as much as possible. <br>
 
