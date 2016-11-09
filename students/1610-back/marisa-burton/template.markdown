@@ -3,6 +3,7 @@ Marisa Burton - M1 Portfolio
 ## Areas of Emphasis
 
 What did you set out to accomplish this module?
+
 When I first began, I didn't know what I didn't know, but I knew I wanted to strengthen my logical skills and build a good foundation with Ruby and object oriented-programming. Whereas the logic part is quite simple for me, I needed to become more comfortable with testing, and have spent a lot of time throughout this module to become more comfortable with TDD. I'd  like to work more on how objects interact with each other.
 
 ## Rubric Scores
@@ -18,7 +19,7 @@ When I first began, I didn't know what I didn't know, but I knew I wanted to str
 ## A: End of Module Assessment
 
 #### 1. Ruby Syntax & API
-3: Developer is able to write Ruby with some debugging of fundamental concepts
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
 
 #### 2. Completion and Progress
 * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
@@ -32,7 +33,7 @@ When I first began, I didn't know what I didn't know, but I knew I wanted to str
 #### 5. Collaboration
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
-### 6. Enumerable & Collections
+#### 6. Enumerable & Collections
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
@@ -68,8 +69,6 @@ Score:
 3: Application makes use of appropriate Enumerable methods and collections
 
 
-
-
 ## C: Group Work & Projects
 
 ### Projects
@@ -103,7 +102,6 @@ Fundamental Ruby & Style--3: Application shows some effort toward organization b
 
 Overall Functionality--3: Application follows the complete spec and one extension
 
-Feedback from Robbie Smith: Marisa was a pleasure to work with during the Night Writer project. I really appreciated her flexibility and willingness to put in long hours over the weekened to work on the project. Her humility was much appreciated, and she was quick to speak up when she did not understand an issue. This allowed us as a group to work on the areas that she needed and allowed us both to focus on our learning process together.
 
 #### (Project Name)
 
@@ -142,7 +140,7 @@ Personal Branding I: The resume/cover letter workshop was really helpful. I upda
 
 ### Being a Community Member
 
-(feedback to me)
+Feedback from Robbie Smith: "Marisa was a pleasure to work with during the Night Writer project. I really appreciated her flexibility and willingness to put in long hours over the weekened to work on the project. Her humility was much appreciated, and she was quick to speak up when she did not understand an issue. This allowed us as a group to work on the areas that she needed and allowed us both to focus on our learning process together."
 
 ### Playing a Part
 
@@ -150,7 +148,7 @@ I am on the studen advisory board, where I go to weekly meetings and try to repr
 
 In my first module, I paired a lot with upper-module students, and try to the best of my ability help my fellow cohort students with their programming problems.
 
-I also participate in the Armstrong and Golick possees, and have developed a good relationship with my mentor and Module 2 students when it comes to pairing.
+I also participate in the Armstrong and Golick possees, and have developed a good relationship with my mentor who I meet with weekly to two times a week.
 
 ------------------
 
