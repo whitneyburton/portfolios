@@ -177,7 +177,9 @@ https://github.com/turingschool/curriculum/blob/master/source/projects/black_thu
 
 #Feedback from Amy:
 
-#Feedback to Amy:
+#Feedback to Amy: 
+
+Amy is one of the best people that I have worked with. She is not only smart and resourceful but also humble and collaborative so it was a real pleasure to work with her. In spite of the complexity and many challenges of the project, she always kept motivated and dedicated endless hours to fix any single problem until the tests were passing. She is hard-working, tenacious and resilient in such a high level that I admire her for that. I appreciate that she slowed down and explained me concepts to make sure that we were in the same page and working together. She was always ready for questions and discuss strategies. Even in the most stressful moments, she kept calm, focus and kept working towards our goals. She will be a great programmer and an awesome team member for any company that she works for.
 
 ************* D: PROFESSIONAL SKILLS ***********************
 ## D: Professional Skills
@@ -247,6 +249,10 @@ Edilene, your incredible resilience and hard work are an inspiration to me. Your
 To Annie Wolff:
 Annie, I love that you are always eager to help us and you have a unique way to do it. You are always active listening (never assuming things), you support us to find the solutions for ourselves, you never use advance words that can make us feel behind and you have always nice words to encourage us. You are an advance coder but always humble so that makes you even better from my perspective. Your cheerfulness and energy in the group makes a big positive difference, you make us laugh with your authenticity and fresh personality. You are a great human asset for the Turing community, I see you in the soon future becoming a great programmer and an awesome mentor. I feel very lucky to have met you!
 
+To Caroline Powell:
+
+Caroline, your confidence and will to make a positive change in the world are impressive. I love that you never accept things how they are but find ways to make them awesome. You are creative but in a practical way, you are not a dreamer, you are a doer and I'm sure that you will succeed in your entrepreneurial and transformative ideas. Having you in Turing will make the experience much more powerful in a learning and human perspective. Being so ambitious, hard-working and smart, I can only envision for you a brilliant career.
+
 ### Being a Community Member
 
 From Edilene Cruz:
@@ -257,6 +263,9 @@ I've been working with Amara for several weeks now and I have to say I am super 
 
 From Annie Wolff:
 Amara, your dedication to learning the material is almost unmatched in our cohort. Even when you are frustrated, you persevere in your effort to understand and master ruby. Moreover, you are able to look past current struggles and see many learning opportunities that you go after with gusto. You do not accept the status quo and your efforts to grow and change consistently improve the experience of your peers. You're a natural leader and I feel fortunate that I get to work with you everyday.
+
+From Caroline Powell:
+Amara is so inspiring to be around. She is great at bringing people together and making our time at Turing enjoyable for everyone. She is full of new ideas and will be a great addition to any company culture that she's thrown into because she has the ability to excite and motivate others.
 
 # Playing a Part
 
