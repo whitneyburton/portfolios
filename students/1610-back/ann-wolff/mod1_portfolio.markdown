@@ -43,19 +43,12 @@ Many long methods, nested elsif statements, opportunities to refactor
 Score:
 
 1. Test-Driven Development
-
   2: Application makes some use of tests, but the coverage is insufficient
-
 2. Functional Expectations
-
   2: Application is missing one base expectation
-
 3. Breaking Logic into Components
-
   3: Application consistently breaks concepts into classes which encapsulate functionality. (SRP).
-
 4. Fundamental Ruby & Style
-
   2: Application runs but the code has many long methods (>8 lines), has poorly named variables, needs significant refactoring, and is somewhat idiomatic.
   
 #### HTTP Yeah You Know Me
@@ -63,7 +56,24 @@ Score:
 * [GitHub URL](https://github.com/wlffann/http_yeah_you_know_me)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
- 
+Assessed By: Jeff
+Notes:
+
+About 21 tests with rake plus 7 in server
+Features work pretty well with a small bug in the number guessing game
+Implementation is strong
+Good use of breaking out classes
+Using lots of small methods
+Scores:
+
+1. Overall Functionality
+  3: Application implements iterations 0 - 4
+2. Fundamental Ruby & Style
+  4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+3. Test-Driven Development
+  3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
+4. Breaking Logic into Components
+  4: Application effectively breaks logical components apart with clear intent and usage 
 
 ## C: Group Work & Projects
 
@@ -95,23 +105,14 @@ Spec harness passes
 Scores:
 
 1. Test-Driven Development
-
   3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-
 2. Encapsulation / Breaking Logic into Components
-
   3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
-
 3. Fundamental Ruby & Style
-
   3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
-
 4. Enumerable & Collections
-
   3: Application makes use of appropriate Enumerable methods and collections
-
 5. Functional Expectations
-
   3: Application fulfills all base expectations
 
 #### BlackThursday
@@ -164,12 +165,17 @@ In this workshop, we learned techniques to present our selfs and our stories in 
 
 ### Giving Feedback
 
-(feedback from me)
+To Lucy Conklin: "Lucy, you were a very patient partner and an absolute pleasure to work with. You're an amazing active listener who can be present enough in a pairing to catch typos as well as major flaws in logic. Your positive attitude makes even challenging situations bearable. Moreover, your creativity means that your solutions to problems are ingenious and always entertaining. You have a lot of passion for exploring new ideas and I can't wait to see you implement these ideas in the community!"
+
+To Mike Schutte: "Schutte, you sent a tone of respect that permeates the entire cohort. You approach every problem open suggestions from any team mate. On top of that, you get super pumped when you solve a particularly tricky problem, which always raises the energy in the room."
+
+To Amara Lovato: "Amara, your dedication to learning the material is almost unmatched in our cohort. Even when you are frustrated, you persevere in your effort to understand and master ruby. Moreover, you are able to look past current struggles and see many learning opportunities that you go after with gusto. You do not accept the status quo and your efforts to grow and change consistently improve the experience of your peers. You're a natural leader and I feel fortunate that I get to work with you everyday."
 
 ### Being a Community Member
 
 "Annie! Thanks so much for always setting up opportunities for our cohort to hang out. You make decisions for the group without being overbearing, and it definitely strengthens our bond. Putting the Wolff in Wolffpack!" -Mike Shutte
 
+"Annie, I love that you are always eager to help us and you have a unique way to do it. You are always active listening (never assuming things), you support us to find the solutions for ourselves, you never use advance words that can make us feel behind and you have always nice words to encourage us. You are an advance coder but always humble so that makes you even better from my perspective. Your cheerfulness and energy in the group makes a big positive difference, you make us laugh with your authenticity and fresh personality. You are a great human asset for the Turing community, I see you in the soon future becoming a great programmer and an awesome mentor. I feel very lucky to have met you!"
 
 ### Playing a Part
 
