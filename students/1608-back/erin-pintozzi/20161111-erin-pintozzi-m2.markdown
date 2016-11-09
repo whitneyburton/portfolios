@@ -189,15 +189,10 @@ This Little Shop project is an e-commerce store/app written in Ruby/Rails with A
 
 (evaluation scores)
 
-##### Feedback to me
-* Anna:
-
-* Megan:
-
-* Ali:
+##### Feedback Activity
 
 ## D: Professional Skills
-(Intro)
+The professional skills sessions are an integral part of our Turing program because we are learning skills that are very industry specific for our soon-to-be new careers. This includes both examining how we are presenting ourselves to those on the outside as well as personal reflections to make sure we are striving to be the best versions of ourselves.
 
 ### Gear Up
 #### Voting
@@ -246,11 +241,19 @@ In this session we learned tips for structuring good cold outreach email includi
 
 ### Giving Feedback
 
-(feedback from me)
+* Ali, working with you has been a lot of fun and I've learned tons. I think we have a similar style of how we approach programming so working with you also felt very natural and easy. Your note-keeping, precision, and thoughtfulness toward our approach resulted in our group attaining higher quality project that I'm super proud of. Keep practicing not letting perfection drive out the good. You write great code and are awesome at refactoring, so I know this is something that you will easily keep improving while you knock out great projects.
+
+* Megan, what a great surprise to have the opportunity to together again on a group project. First off, I think we did sooo much better with the planning and workflow that we struggled with in Mod 1. You  make intentional decisions that help us get code right the first time, and you also have a persistence to help keep the team's head up and get things done. I'm sure you experienced moments of frustration, but honestly, it never really showed which is an unbelievable quality to have on a team and one that I think would make you an excellent team leader.
+
+* Anna, it was really exciting the be able to work with you a second time this mod. I am so glad you took the lead as our product designer. Our Little Shop looks awesome and you rock at styling. I also think it's pretty cool to see how much more confident in the MVC type framework you've become for solving problems, debugging, and testing. I think you're going to keep rocking these skills as we continue to learn more.
+
 
 ### Being a Community Member
 
-(feedback to me)
+* Erin was such a great partner in this module. We worked together on Little Shop, and she was our fearless project manager. I learned a lot watching her work and am so glad for that opportunity. We were also both in the Bezos possee, and I again was glad to have the chance to learn from her. She is always willing to offer her opinion but also super open to hearing from other people. I will miss working with her on Little Shop, but I'm glad that we will have the chance to still work together in other ways in the future! - Megan Talbot
+
+* Erin was in my Little Shop group, and acted as the Project Manager. She kept us organized and on task, while at the same time being very open to ideas presented by group members. She worked very hard to keep us organized on Waffle while also putting in a ton of work on our code. I have worked with Erin twice this module, and I think that a presence like hers is very important to productivity and general happiness in a group-work scenario. - Anna Dolan
+
 
 ### Playing a Part
 
