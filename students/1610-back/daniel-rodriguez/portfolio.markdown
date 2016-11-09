@@ -143,6 +143,10 @@ Scores:
 
 (feedback from me)
 
+To Jesse Shipley:
+
+Jesse was my partner for our first paired project, Nightwriter. I was a little nervous about working on a project with another person for the first time but I’m happy to say that working with Jesse was a great experience. In our DTR session we talked about our strengths and weaknesses and how we planned to approach the project. We kept an open line of communication as we were working through it which was vital to us turning in a product that we were proud of. Throughout the project Jesse demonstrated that he is a creative problem solver, a hard worker who never gives up, and someone who is always looking for ways to improve. I’m sure that he will keep doing great at Turing and I look forward to working with him again in the future.
+
 ### Being a Community Member
 
 (feedback to me)
