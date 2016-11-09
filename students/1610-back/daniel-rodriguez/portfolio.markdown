@@ -114,8 +114,6 @@ Scores:
 
 ## C: Group Work & Projects
 
-### Projects
-
 (Intro)
 
 #### Nightwriter
