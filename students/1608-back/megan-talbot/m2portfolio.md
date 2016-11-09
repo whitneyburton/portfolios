@@ -54,8 +54,9 @@ __Evaluation Scores:__<br>
 
 * [GitHub URL](https://github.com/meganft/gif-generator)
 * [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+* [Heroku Link](https://pacific-retreat-21818.herokuapp.com/)
 
-This was an unscored individual project in which we were able to choose which project we wanted to work on. I chose the "gif generator" where a user can login, browse gifs, and favorite their own. There is also admin functionality, in which an admin can generate gifs. I need to work a bit on refactoring this project, and improving the testing. However, this project was a lot of fun for me, and I plan to work on it a bit more in intermission week as well to use as part of my portfolio/resume. 
+This was an unscored individual project in which we were able to choose which project we wanted to work on. I chose the "gif generator" where a user can login, browse gifs, and favorite their own. There is also admin functionality, in which an admin can generate gifs. I need to work a bit on refactoring this project, as well as improving the testing. However, this project was a lot of fun for me, and I plan to work on it a bit more in intermission week as well to use as part of my portfolio/resume.
 
 #### Mix Master
 
