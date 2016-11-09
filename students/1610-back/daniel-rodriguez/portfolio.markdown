@@ -147,6 +147,14 @@ Scores:
 
 (feedback to me)
 
+From Jesse Shipley:
+
+Daniel was my first partner in paired coding. During the DTR we both openly discussed what we enjoyed about code, and the ways we thought we understood each step following with the things we thought we struggled with. Daniel's technical ability with Ruby was integral to forming the framework of our project. He was able to flawlessy take my mechanical/logical ideas and teach me how to implement them into code. The pairing with Daniel was the bar to reach for every pairing I have had since, both with fellow 1610 students and other mod students as well. I could not have hand selected a better partner to learn along side during our early weeks at school. His input and constructive criticism were greatly appreciated, and I am certain pairing with him helped me grasp some important fundamentals in Ruby and coding in general.
+
+From Marisa Burton:
+
+Daniel was a great partner. He is a strong programmer and led the way through stressful and tough coding moments. He has strong organizational and logical skills. He is a hard worker who doesn't stop coding until he thinks it's the best, refactored code he can possibly write at the given moment. He always explained his thought processes really well, and I learned a lot from him by working with him on Black Thursday and would be happy to work with him again.
+
 ### Playing a Part
 
 (ways you supported the larger Turing community)
