@@ -1,8 +1,8 @@
-Marisa Burton - M1 Portfolio
+## Marisa Burton - M1 Portfolio
 
 ## Areas of Emphasis
 
-What did you set out to accomplish this module?
+#### What did you set out to accomplish this module?
 
 When I first began, I didn't know what I didn't know, but I knew I wanted to strengthen my logical skills and build a good foundation with Ruby and object oriented-programming. Whereas the logic part is quite simple for me, I needed to become more comfortable with testing, and have spent a lot of time throughout this module to become more comfortable with TDD. I'd  like to work more on how objects interact with each other.
 
@@ -73,7 +73,7 @@ Score:
 
 ### Projects
 
-The following projects were completed with a partner.
+The following projects were completed with a partner: Nightwriter & Black Thursday.
 
 #### NightWriter
 
@@ -103,7 +103,7 @@ Fundamental Ruby & Style--3: Application shows some effort toward organization b
 Overall Functionality--3: Application follows the complete spec and one extension
 
 
-#### (Project Name)
+#### Black Thursday
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -129,18 +129,26 @@ I really enjoyed this gear-up. I realized that I've had more extroverted bosses 
 
 ### Professional Sessions
 
-Personal Branding I: The resume/cover letter workshop was really helpful. I updated my cover letter and rebuilt and redesigned my resume as well as created a LinkedIn page following the advice given. It made me take a more analytical approach to how I represent and brand myself to stand out from other software developers. The session motivated me and got me excited about the possibilities outside of Turing. I completed my LinkedIn profile here and will continue to update it with my relevant skills once I learn more. LinkedIn profile: https://www.linkedin.com/in/marisa-burton-14281a130?trk=hp-identity-name 
+Personal Branding I: The resume/cover letter workshop was really helpful. I updated my cover letter and rebuilt and redesigned my resume as well as created a LinkedIn page following the advice given. It made me take a more analytical approach to how I represent and brand myself to stand out from other software developers. The session motivated me and got me excited about the possibilities outside of Turing. I completed my LinkedIn profile  and will continue to update it with my relevant skills once I learn more. I'm still wondering how much of my past work experience I should put on my LinkedIn profile vs putting it on my resume, as I prefer to focus on my software-developer-experience on my LinkedIn profile. I will seek advice concerning this. LinkedIn profile: https://www.linkedin.com/in/marisa-burton-14281a130?trk=hp-identity-name 
 
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+#### Feedback to Brett Rivers:
+"Brett was extremely helpful. He spent much of his free time pairing with me and is a natural teacher, walking me through how I should approach a problem step-by-step, asking questions so that I would reach my own conclusions. He always made sure I was learning throughout the pairing process so that I could emerge a stronger programmer. He's also a great person to talk to concerning expectations and calming my nerves."
+
+#### Feedback to Robbie Smith:
+"Robbie was a pleasure to work with and was understanding and patient when dealing with my gaps in knowledge. He is a strong programmer, who easily sees patterns and has strong organizational skills. Robbie explained himself well, walking me through every step of his thinking and programming process. He even spent his free time helping me with drills so that I can become a stronger programmer."
+
+#### Feedback to Daniel Rodriguez:
+
 
 ### Being a Community Member
 
-Feedback from Robbie Smith: "Marisa was a pleasure to work with during the Night Writer project. I really appreciated her flexibility and willingness to put in long hours over the weekened to work on the project. Her humility was much appreciated, and she was quick to speak up when she did not understand an issue. This allowed us as a group to work on the areas that she needed and allowed us both to focus on our learning process together."
+#### Feedback from Robbie Smith: 
+"Marisa was a pleasure to work with during the Night Writer project. I really appreciated her flexibility and willingness to put in long hours over the weekened to work on the project. Her humility was much appreciated, and she was quick to speak up when she did not understand an issue. This allowed us as a group to work on the areas that she needed and allowed us both to focus on our learning process together."
 
 ### Playing a Part
 
