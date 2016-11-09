@@ -206,6 +206,9 @@ Megan and I worked together on Little Shop this module. Megan is a hard worker a
 <br>
 *From Anna Dolan:*<br>
 Megan, what a great surprise to have the opportunity to together again on a group project. First off, I think we did sooo much better with the planning and workflow that we struggled with in Mod 1. You  make intentional decisions that help us get code right the first time, and you also have a persistence to help keep the team's head up and get things done. I'm sure you experienced moments of frustration, but honestly, it never really showed which is an unbelievable quality to have on a team and one that I think would make you an excellent team leader.<br>
+<br>
+*From Ali Schlereth:*<br>
+Megan is a hard working insightful individual. She has an attention to detail and always willing to collaborate. Throughout the entire module, I always knew that I could go to Megan as a resource for both technical as well as emotional support. This was also true in our Little Shop project. She does a great job voicing her opinion while also listening to others. I appreciate when she pushes back on others' suggestions when she has a differing opinion. She is comfortable giving something a try and perservering until it works, and works well. Thank you for your leadership and support! <br>
 
 
 
