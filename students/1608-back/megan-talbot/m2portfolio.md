@@ -102,7 +102,6 @@ Megan, you were delightful to work with, I think we shared a similar preference 
 Little Shop was a project in which we built an online ecommerce website. Our project was called Root & Branch, and we created an etsy-like platform which sold socially conscious goods. This was a really fun project as well, and I am very happy with our end result. Working on a team of all women, I was especially pleased to have such a successful project. We were able to more successfully split up work than I have in past projects, which kept our progress moving along. 
 
 
-(feedback to me)
 
 ## D: Professional Skills
 
@@ -165,15 +164,6 @@ This was a session focused on the idea of effective collaborative communication 
 This was a follow-up from the "Finding Opportunities" session, and we talked about how to reach out the contacts we had previously identified.  I reached out to 3 different companies, as reflected in my Trello board.  I haven't heard anything back from any of them, but I am hopeful that I may still! And I am more comfortable with my ability to reach out to someone new after this session with Meg.
 
 
-#### Networking
-
-* [Workshop URL]https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
-* [Link to Completed Deliverables]()
-
-
-(takeaways from session)
-
-
 
 ## E: Feedback and Community Participation
 
@@ -184,15 +174,30 @@ Lee was an amazing partner.  We worked together on this project very closely, an
 <br>
 *To Ben Pepper:*<br>
 Ben was a great partner. He was very open to answering questions and trying new things. Ben was also incredibly open to feedback and appreciated honesty. We probably could have been a little more clear with each other about our preferred working styles, but we all realized that and agreed to take note going forward.  I was happy to have him as a partner!
-
+<br>
+*To Ali Schlereth:*<br>
+Ali was, as always, a great partner for me this module. We got the chance to work together on Little Shop, and I was very grateful for that opportunity. Ali is always supportive and willing to hear different opinions. At the same time, she is eager to help with anything. I will miss working on a project with her, but am so glad that we were able to do that at least once! And I know she will continue to be as supportive as always going forward. 
+<br>
+*To Anna Dolan:*<br>
+Anna was an awesome partner. We worked together on our Little Shop project, and we paired together for most of our work. I am very pleased with how much we were able to get done. Anna is a really hard worker and I always appreciated how much she was willing to do! I know we will continue to support each other in future modules, and I look forward to those opportunities. 
+<br>
+*To Erin Pintozzi:*<br>
+Erin was such a great partner in this module. We worked together on Little Shop, and she was our fearless project manager. I learned a lot watching her work and am so glad for that opportunity. We were also both in the Bezos possee, and I again was glad to have the chance to learn from her. She is always willing to offer her opinion but also super open to hearing from other people. I will miss working with her on Little Shop, but I'm glad that we will have the chance to still work together in other ways in the future!
+<br>
+*To Jon Kimble:*<br>
+Jon was an awesome partner for me this module. We were SAB reps together as well as working together with the Bezos posse. He was super willing to jump in and help with anything. He immediately offered to help with the clothing/food drive and the Glow in the Gardens event. He was always willing to step up to his SAB duties, as well as being an active member of Bezos. I will miss working with him on SAB next mod but know he will continue to do a great job!
+<br>
 
 ### Being a Community Member
 
 *From Lee Saville:*<br>
 Megan, you were delightful to work with, I think we shared a similar preference for the pairing dynamic, and overall meshed well in personality and disposition. Going into the future we can both work on feeling more comfortable with a divide/conquer  scenario. Thanks for the hard work!
-
+<br>
 *From Ben Pepper:*<br>
 Megan was a great project manager. Her attention to detail made sure that we always completely finished an iteration before moving on. Her drive to fully understand a problem was instrumental in the group learning as much as possible. Our working styles were not in sync but during our retro she was extremely professional in bringing it up and discussing it. She made it easy to understand what happened and her thoughts on how to move forward. I learned a lot from her about how to work more effectively in a group and it will only prove to be helpful through out Turing.
+<br>
+*From Anna Dolan:*<br>
+Megan and I worked together on Little Shop this module. Megan is a hard worker and a great collaborator. She and I paired for most of the project, and we were able to get a lot of work done together. She is good at offering her opinion in a kind way, and is open to others' ideas. I look forward to workin with her in future modules on both group and individual projects.
 
 
 
