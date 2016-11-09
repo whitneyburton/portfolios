@@ -52,7 +52,7 @@ Scores:
 
 ## B: Individual Work & Projects
 
-(Intro)
+The two individual projects that I worked on during Module 1 (Date Night and HTTP) are listed below:
 
 #### Date Night
 
@@ -111,7 +111,7 @@ Scores:
 
 ## C: Group Work & Projects
 
-(Intro)
+The two pair projects that I worked on during Module 1 (Nightwriter and Black Thursday) are listed below:
 
 #### Nightwriter
 
@@ -122,10 +122,10 @@ Scores:
 
 Notes:
 
-Able to convert to braille to english and vice versa
-File IO has too much logic in it, would have liked to seen the logic broken out into translator or wherever it would have made the most sense.
-A few classes in translator class have a lot of room to break out into smaller methods
-Discussed using constants in the future, but liked that it was at least broken out into its own class
+* Able to convert to braille to english and vice versa
+* File IO has too much logic in it, would have liked to seen the logic broken out into translator or wherever it would have made the most sense
+* A few classes in translator class have a lot of room to break out into smaller methods
+* Discussed using constants in the future, but liked that it was at least broken out into its own class
 
 Scores:
 
