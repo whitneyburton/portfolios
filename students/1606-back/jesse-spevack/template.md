@@ -177,7 +177,7 @@ Jesse Spevack - "Jesse has an amazing personality, and inspiring attitude toward
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 4: Student achieved two or more "4"s on the assessment
-* **B: Individual Work & Projects**: 3: Student demonstrates excellent growth by not only achieving satisfactory evaluations for each project but also pushing their learning beyond expectations.
+* **B: Individual Work & Projects**: 4: Student demonstrates excellent growth by not only achieving satisfactory evaluations for each project but also pushing their learning beyond expectations.
 * **C: Group Work & Projects**: 3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
 * **D: Community Participation**: 3: Student participates in required activities and does at least one or two above-and-beyond supports of the community.
 * **E: Peer & Instructor Feedback**: 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
@@ -188,4 +188,4 @@ Jesse Spevack - "Jesse has an amazing personality, and inspiring attitude toward
 
 ### Outcome
 
-PROMOTED
+( Leave blanks for reviewers )

@@ -71,7 +71,7 @@ The purpose of this goal is to build my leadership and support skills within the
 
 * [GitHub URL]()
 
-(takeaways from session)
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 
 ### Professional Development Workshops

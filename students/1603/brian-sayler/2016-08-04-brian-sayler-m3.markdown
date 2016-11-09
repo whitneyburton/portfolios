@@ -273,4 +273,10 @@ Other than that, your workflow is great and your high-level organization/general
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
