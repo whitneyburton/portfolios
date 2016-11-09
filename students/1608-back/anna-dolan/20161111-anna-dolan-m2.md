@@ -101,8 +101,9 @@ This ungraded project was a tutorial to introduce us to creating and testing an 
 
 * [GitHub URL](https://github.com/annadolan/gif_generator)
 * [Original Assignment](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+* [Heroku App](https://gif-generator-app.herokuapp.com/)
 
-For this ungraded mini-project in Rails, I chose the GIF generator option. This app allows an admin to create categories and generate GIFs for existing categories using the Giphy API, and a regular user can add existing GIFs to their favorites. My app works well, but needs more testing and plenty of refactoring, especially in the views.
+For this ungraded mini-project in Rails, I chose the GIF generator option. This app allows an admin to create categories and generate GIFs for existing categories using the Giphy API, and a regular user can add existing GIFs to their favorites. My app works well, but needs more testing and plenty of refactoring, especially in the views. Log into the Heroku app as admin with email "blue@blue.blue" and password "password". Log in as a regular user with "email@email.com" and "password."
 
 
 
