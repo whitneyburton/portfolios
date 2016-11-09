@@ -79,8 +79,31 @@ I really loved the individual projects this module.  The first was API curious, 
 
 #### API Curious
 
+* [API Curious GitHub URL](https://github.com/danbroadbent/api-curious)
+* [API Curious Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
+
+This project, we focused on consuming and working with data from public APIs. I chose Github to re-construct a simplified version of the website's existing UI using their own API.  Although this project wasn't officially graded, I really enjoyed working on it and I was proud of what I accomlished in the time given.
+
+#### Personal Project
+
 * [GitHub URL]()
-* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+## C: Group Work & Projects
+
+### Group Projects
+
+Group projects were also a lot of fun this module.  First was the pair project, Rails Engine, where we created a Rails API. It was super challenging and we got exposure to more Active Record and SQL and got to learn new things like JBuilder for custom JSON endpoints.  Next was the four person project Cloney Island.  In this project we "cloned" Flickr, and made a photo-sharing rails app.  I got to work on some 
+
+#### Rails Engine
+
+* [Rails Engine GitHub URL](https://github.com/susiirwin/rails_engine)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
 
 (description)
 
@@ -88,16 +111,10 @@ I really loved the individual projects this module.  The first was API curious, 
 
 (evaluation scores)
 
-## C: Group Work & Projects
+#### Cloney Island
 
-### Projects
-
-Group projects were also a lot of fun this module.  First was the pair project, Rails Engine, where we created a Rails API. It was super challenging and we got exposure to more Active Record and SQL and got to learn new things like JBuilder for custom JSON endpoints.  Next was the four person project Cloney Island.  In this project we "cloned" Flickr, and made a photo-sharing rails app.  I got to work on some 
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
+* [Cloney Island GitHub URL](https://github.com/danbroadbent/turing_photoshare)
+* [Cloney Island Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/cloney_island.md)
 
 (description)
 
