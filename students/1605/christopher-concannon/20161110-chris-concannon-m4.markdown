@@ -3,6 +3,12 @@
 ## Areas of Emphasis
 I set out to learn JavaScript and hone my professional presence in module 4. I accomplished the JavaScript-related goals through completion of IdeaBox and Game Time. I made much progress on my professional goals through polishing my resume, obtaining outside feedback for technical interviews and resume/cover letter content, and starting the job application process. During Scale Up, I set another goal to learn as much about Android Development as I could for the project. I achieved nearly full points for that project and I am continuing my Android learning for the near future. I am also continuing my job search - to date I have completed several phone interviews and technical challenges related to applications I submitted.
 
+[Turing School Portfolio](https://www.turing.io/alumni/chris-concannon)
+
+[LinkedIn Profile](https://www.linkedin.com/in/csconcannon)
+
+[Medium Blog](https://medium.com/@chrisconcannon)
+
 ## Self-Assessment Scores:
 
 * **A: End-of-Module Assessment**: 3
