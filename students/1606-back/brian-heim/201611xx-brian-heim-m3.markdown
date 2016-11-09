@@ -238,33 +238,17 @@ I liked that we had to practice networking in this lesson. It really gave us som
 
 ### Giving Feedback
 
-#### Feedback for Jesse Spevack
+#### Feedback for David Davydov
 
-* Working with Jesse on his project has been a great experience, His major strengths are regarding his hard skills and ability to explain his thought process. He is a master of his tools and is adept with shortcuts and workflow. He is a strong communicator and is able to explain the reasons behind every coding decision. I learned alot about TDD form him on this project. I considered myself solid with TDD, but Jesse is an expert, and emphasized encapsulation and helper methods. It was really nice working with someone who was able to advance my own skill in this area.
+* Working with David on this project was a great experience. He is a very talented programmer with exceptional hard skills, his typing speed and TDD are especially noteworthy. He did a very good job of examining and testing edge cases to ensure that our code was as rock solid and performed as expected. David is a conscientious person when pairing and regularly seeks collaboration. When we worked on consuming our API externally, David and I consistently would step-back when stuck, and read documentation and discuss a plan of attack before moving forward and I found this to be a very successful part of the project. I appreciated David’s strong work ethic and motivation to be constantly working because it is an encouraging trait to have in a project lead, but I would challenge him to make more time for regular breaks. There were times when David would work through Pomodoros and lunch, which is a personal choice, but in my experience, in order to reduce the feeling of “burnout” and to re-focus the mind, regular breaks from coding is very beneficial. Overall, David is an amazing person to work with and I consider him one of the strongest coders in the cohort.
 
-* The constructive advice I would give Jesse would be to be mindful about managing stress regarding project deadlines. He never let it get in the way of the project, but could become distracted at times when overhearing other groups discuss how far along they were on the project. If he can accomplish this, he will be unstoppable.
+#### Feedback for Nate Anderson
 
-#### Feedback for Bryan Goss
-* This is the first time that I have worked with Goss, and it was a great experience. Goss is not only an adept programmer, but he is also very
-personable and easy to work with. He naturally guided our workflow toward agile, he seemed to always create one thing at a time, and not move on to the next
-feature until some effort has been taken to refactor. In real-time it just seemed like we were getting work done, but at the end of the project,
-we realized that there weren't many refactoring opportunities since we had already been taking a significant effort to refactor during each feature. Our
-project was very easy to navigate and edit, and alot of the credit for this goes to Goss. He is very knowledgeable about shortcuts and best-practices in
-regard to code structure and syntax, and was able to explain his thought process in great detail. Goss was conscientious both when giving and receiving
-advice or instructions to other members, and was accomodating of the rest of the group members schedules and needs.
+* This was my first time working with Nate since being at Turing, and while we only paired on a small section of the code, I enjoyed working with him. Nate is easy-going and open to suggestions when writing code, which makes for a relaxed pairing environment. He regularly complimented other members of the group which was very encouraging and appreciated. Nate did a good job of checking in when the group was split into pairs (David and Nate, Rapha and myself), he would regularly check in with us and update us on their progress and sought to understand what we were working on as well. While Nate was very easy to work with, I would challenge him to assert himself into a “lead” role more often, when we paired I did most of the driving, and i noticed that this was the case with other team members as well. Navigating is an important skill to have, but assuming the Driving role is important to solidifying skills, and further advancing as a developer in general. Overall I genuinely enjoyed working with Nate and his laid-back and friendly demeanor.
 
-* The only constructive advice I could think to give Goss is regarding styling. He is actually quite good at using HTML, but often expressed his disdain for CSS
-and styling in general. While this is not an area that necessarily requires any sort of change on his part, it is an area in which some growth could be made.
+#### Feedback for Raphael Barbo
 
-#### Feedback for Chase Dunagan
-* Having worked successfully with Chase before on Night Writer, it was easy to get right into the Norming/Performing stage. We get along well personality wise,
-and I was excited to get to work with Chase again. Chase is a great team member and collaborator, and has a knack for noticing fine details. 
-He facilitatedand sought out collaboration both when driving and when navigating. He also contributed alot to the chemistry of the group by keeping things 
-light-hearted by cracking jokes and maintaining a positive attitude. Chase was instrumental in d-bugging code, often noticing error where the other group
-members could not.
-
-* Chase actively sought to drive and contribute in areas that he did not have much experience. I would challenge Chase to continue to do this, as well as take 
-some time to do some extra exercises and practice, it will only serve to give him more experience and expand his abilities as a programmer.
+* Working with Rapha on this project has been very enjoyable. He is very energetic when working and would get visibly excited when we solved problems. This energy was infectious and helped motivate me at times when I was feeling tired, especially when he and I tackled implementing jQuery datepicker to show a calendar of available dates for a listing. He is also a very determined and hard worker. Rapha regularly worked late or worked at home after the group disbanded for the night, experimenting and implementing better test coverage. He is a strong communicator and freely speaks his mind which is a great strength, but he could work on his delivery as sometimes he can come off too strongly or a little harsh. He commented on the preliminary CSS styling I had done for the site in a way that was not very constructive, but then he apologized and clarified his intent, which showed his maturity and grace, and was quite impressive to me. In fact, he and I worked on the final styling of the site and he was incredibly complimentary and encouraging. Overall I really enjoyed working with Rapha and look forward to pairing with him again.
 
 ### Being a Community Member
 
