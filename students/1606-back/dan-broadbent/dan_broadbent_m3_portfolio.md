@@ -98,7 +98,7 @@ This project, we focused on consuming and working with data from public APIs. I 
 
 ### Group Projects
 
-Group projects were also a lot of fun this module.  First was the pair project, Rails Engine, where we created a Rails API. It was super challenging and we got exposure to more Active Record and SQL and got to learn new things like JBuilder for custom JSON endpoints.  Next was the four person project Cloney Island.  In this project we "cloned" Flickr, and made a photo-sharing rails app.  I got to work on some 
+Group projects were also a lot of fun this module.  First was the pair project, Rails Engine, where we created a Rails API. It was super challenging and we got exposure to more Active Record and SQL and got to learn new things like JBuilder for custom JSON endpoints.  Next was the four person project Cloney Island.  In this project we "cloned" Flickr, and made a photo-sharing rails app.  I got to work on some really fun and unique problems with each of my teammates.
 
 #### Rails Engine
 
