@@ -141,10 +141,18 @@ I’m excited to see what you’ll do next!
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
 ### Notes
 
-( Leave blanks for reviewers )
+* Great final
+* Satisfactory group work throughout
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
