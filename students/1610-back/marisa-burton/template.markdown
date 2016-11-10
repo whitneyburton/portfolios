@@ -150,6 +150,9 @@ Personal Branding I: The resume/cover letter workshop was really helpful. I upda
 #### Feedback to Daniel Rodriguez:
 "Daniel was a great partner. He is a strong programmer and lead the way through stressful and tough coding moments. He has strong organizational and logical skills. He is a hard worker who doesn't stop coding until he thinks it's the best, refactored code he can possibly write at the given moment. He always explained his thought processes really well, and I learned a lot from him by working with him on Black Thursday and would be happy to work with him again."
 
+#### Feedback to Jason Conrad:
+"Jason was my fellow SAB rep and was a pleasure to work with, and I look forward to working with him again next module! Jason made it his priority to represent out module at SAB meetings, balancing his own opinion with viewpoints from his fellow classmates. He was also great during Friday retros, cracking a joke and always smiling in order to create a relaxing atmosphere for our cohort to feel more comfortable expressing their opinions on sensitive matters. It was also Jason’s idea to create an exclusive Slack channel for our cohort, giving a place for our classmates to discuss non-coding related topics; this channel has caused us to all become much closer and more communicative, which I think helps with morale a lot."
+
 
 ### Being a Community Member
 
