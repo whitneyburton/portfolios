@@ -229,10 +229,14 @@ Blog posts, even if technical, should be written in a way in which they can appe
 
 ## Final Review
 
-### Notes
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
-( Leave blanks for reviewers )
+### Notes
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
