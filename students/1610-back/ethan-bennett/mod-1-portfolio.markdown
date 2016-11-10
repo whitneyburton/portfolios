@@ -22,17 +22,17 @@ Notes:
 Did better when we pseudo-coded
 Scores:
 * Ruby Syntax & API
-3: Developer is able to write Ruby with some debugging of fundamental concepts
+    * 3: Developer is able to write Ruby with some debugging of fundamental concepts
 * Completion and Progress
-3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+    * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 * Testing
-3: Developer writes tests that are effective validation of functionality, but don't drive the design
+    * 3: Developer writes tests that are effective validation of functionality, but don't drive the design
 * Workflow
-3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+    * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 * Collaboration
-4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+    * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 * Enumerable & Collections
-3: Application demonstrates comfortable use of appropriate Enumerable methods
+    * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 ## B: Individual Work & Projects
