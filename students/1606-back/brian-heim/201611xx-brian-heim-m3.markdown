@@ -286,7 +286,7 @@ I liked that we had to practice networking in this lesson. It really gave us som
 
 #### Feedback for Nate Anderson
 
-* This was my first time working with Nate since being at Turing, and while we only paired on a small section of the code, I enjoyed working with him. Nate is easy-going and open to suggestions when writing code, which makes for a relaxed pairing environment. He regularly complimented other members of the group which was very encouraging and appreciated. Nate did a good job of checking in when the group was split into pairs (David and Nate, Rapha and myself), he would regularly check in with us and update us on their progress and sought to understand what we were working on as well. While Nate was very easy to work with, I would challenge him to assert himself into a “lead” role more often, when we paired I did most of the driving, and i noticed that this was the case with other team members as well. Navigating is an important skill to have, but assuming the Driving role is important to solidifying skills, and further advancing as a developer in general. Overall I genuinely enjoyed working with Nate and his laid-back and friendly demeanor.
+* This was my first time working with Nate since being at Turing, and while we only paired on a small section of the code, I enjoyed working with him. Nate is easy-going and open to suggestions when writing code, which makes for a relaxed pairing environment. He regularly complimented other members of the group which was very encouraging and appreciated. Nate did a good job of checking in when the group was split into pairs (David and Nate, Rapha and myself), he would regularly check in with us and update us on their progress and sought to understand what we were working on as well. While Nate was very easy to work with, I would challenge him to assert himself into a “lead” role more often, when we paired I did most of the driving, and I noticed that this was the case with other team members as well. Navigating is an important skill to have, but assuming the Driving role is important to solidifying skills, and further advancing as a developer in general. Overall I genuinely enjoyed working with Nate and his laid-back and friendly demeanor.
 
 #### Feedback for Raphael Barbo
 
@@ -311,10 +311,10 @@ I really enjoyed working with him, and I am looking forward to see what he accom
 
 ### Playing a Part
 
-* Armstrong Posse - I contributed during the creation of our linear regression app and participate regularly in posse meetings and discussions 
+* Armstrong Posse - I contributed during the creation of our linear regression app, and some lesson plans and participate regularly in posse meetings and discussions. Along with Jean Joeris created an app and built a neural net from scratch which will be used as a learning resource/example for the posse.  
 * Regularly empty dishes and load/run dishwashers in big workspace
-* Organized disc-golf outings with the #disc-golfers channel and met/offered advice to some new Mod 1 students
-* Paired with Mod 1 students early in the mod to help with projects and homework
+* Organized disc-golf outings with the #disc-golfers channel
+* Served as a Pre-Work Guide for incomming students
 * Regularly arranged and re-arranged Big Workspace furniture for guest speakers and Gear-Up.
 
 
