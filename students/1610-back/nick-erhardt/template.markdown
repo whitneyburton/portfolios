@@ -2,9 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
-
-This module I was looking forward to focusing on fundamentals.  By that I mean I was comfortable with the concept that Ruby can be used to to express a problem/solution, but I felt very much in the dark about *how* to organize code (classes, methods), what approach to take (where to start, how to think about breaking down the problem first) and [something else].  I also wanted to write a *lot* of code.  I felt like I needed, mileage, for lack of a better term.  
+This module I was looking forward to focusing on fundamentals.  By that I mean I was comfortable with the concept that Ruby can be used to to express a problem/solution, but I felt very much in the dark about *how* to organize code (e.g. classes, methods, etc...).  I knew I needed practice with what approach to take (where to start, how to think about breaking down the problem first) and what 'refactoring' actually looks like.  I also wanted to write a *lot* of code.  I felt like I needed... mileage, for lack of a better term.  One aspect I was looking forward to was the shared struggle of working through problems with my cohort-mates - learning with and from each other.
 
 ## Rubric Scores
 
@@ -18,12 +16,9 @@ This module I was looking forward to focusing on fundamentals.  By that I mean I
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
 Assessed By: Ilana
 
 Challenge: Option 2
-
-Notes:
 
 Scores:
 
@@ -56,25 +51,26 @@ HTTP
 * [GitHub URL](http://github.com/ski-climb/http)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-(description)
+The heart of the HTTP project was to make a web server using Ruby.  We created and fired up a web server.  We created and parsed requests.  We sent responses based on the path and HTTP verb.  
+HTTP was an eye-opening opportunity to make a web server using Ruby.  On one hand it was an *excellent* experience which exposed the fundamental processes and flow of a web server.  On the other hand it was a unique experiment in frustration and formatting which made me revel in the gloriousness of my web browser.  I also had no idea that information could be included in a web request in so many ways from query parmeters to POST key, values in forms.  
 
-(evaluation comments)
+##### Evaluation Comments:
 Notes:
 * Great testing overall, used tmux to get around the server close test
 * code was well organized, would have liked to have seen the word search pulled out
 * Memoization in loading dictionary which is sweet
 
-(evaluation scores)
-### 1. Overall Functionality
+
+##### 1. Overall Functionality
 * 2: Application implements iterations 0 - 3
 
-### 2. Fundamental Ruby & Style
+##### 2. Fundamental Ruby & Style
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-### 3. Test-Driven Development
+##### 3. Test-Driven Development
 * 4: Application is broken into components which are well tested in both isolation and integration
 
-### 4. Breaking Logic into Components
+##### 4. Breaking Logic into Components
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
@@ -87,7 +83,7 @@ Notes:
 
 (description)
 
-(evaluation comments)
+##### Evaluation Comments:
 Notes:
 * Opportunity for more unit testing. Overall very strong testing suite, though. Strong 3
 * Base and all extensions
@@ -96,16 +92,16 @@ Notes:
 * Clean up file dependencies to run from top of project directory
 
 (evaluation scores)
-### 1. Test-Driven Development
+##### 1. Test-Driven Development
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
  
-### 2. Functional Expectations
+##### 2. Functional Expectations
 * 4: Application fulfills all base expectations and two extensions
 
-### 3. Breaking Logic into Components
+##### 3. Breaking Logic into Components
 * 3: Application consistently breaks concepts into classes which encapsulate functionality. (SRP).
 
-### 4. Fundamental Ruby & Style
+##### 4. Fundamental Ruby & Style
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)  needs some refactoring, and is mostly idiomatic.
 
 #### Black Thursday
