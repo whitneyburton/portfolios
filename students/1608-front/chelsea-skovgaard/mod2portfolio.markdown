@@ -23,7 +23,7 @@ Collaboration: 3
 
 ## B: Individual Work & Projects
 
-I worked on three projects independently this module: number guesser in React, seven weeks of fonts, and .
+I worked on three projects independently this module: number guesser in React and seven weeks of fonts.
 
 #### Number Guesser in React
 
