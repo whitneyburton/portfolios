@@ -69,22 +69,21 @@ I'm not entirely sure what our individual projects are, so nothing has been link
 
 (description)
 
-## Instructor Evaluation Points: Number Guesser
-### Evaluator: Louisa
+#### Evaluator: Louisa
 
-### Specification Adherence
+#### Specification Adherence
 
-### UX/UI Expectations
+#### UX/UI Expectations
 3.25 - some layout bugs on iPhone 5, otherwise well executed.
 
-### Functional Expectations
+#### Functional Expectations
 4: Application meets all of the functional expectations in Phase Three
 
-### Fundamental JavaScript Style
+#### Fundamental JavaScript Style
 3: Application shows strong effort towards organization, content, and refactoring
 
 
-### Comment:
+#### Comment:
 They got off to a rocky start on the first day of the project and didn't balance the work/effort equally or fairly. They regrouped and recovered very strongly, and both made a big effort to work together and learn from the project and pairing experience. Could have a been a discouraging project, but they turned it around and ended very positively. Great job!
 (feedback to me)
 
@@ -95,23 +94,23 @@ They got off to a rocky start on the first day of the project and didn't balance
 
 (description)
 
-### Reviewer: Bree
-### Notes:
+#### Reviewer: Bree
+#### Notes:
 Students may take the weekend and resubmit project for review on Monday for revised scores.
 
-### Functional Expectations
+#### Functional Expectations
 - 1: Application does not meet the requirements in Phase One.
 
-### Fundamental JavaScript Style
+#### Fundamental JavaScript Style
 - 2: Application runs but the code has long functions, unnecessary or poorly named variables, and needs significant refactoring.
 
-### Workflow
+#### Workflow
 - 2.5: The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
 
-### HTML Style
+#### HTML Style
 - 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
-### CSS Style
+#### CSS Style
 - 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 (feedback to me)
@@ -123,31 +122,29 @@ Students may take the weekend and resubmit project for review on Monday for revi
 
 (description)
 
+#### Evaluator: Bree
 
-## Instructor Evaluation Points
-### Evaluator: Bree
-
-### Specification Adherence
+#### Specification Adherence
 
 - 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
-### HTML Style
+#### HTML Style
 
 - 4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors.
 
-### CSS Style
+#### CSS Style
 
 - 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-### JavaScript Style
+#### JavaScript Style
 
 - 3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-### Workflow
+#### Workflow
 
 - 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-### Collaboration
+#### Collaboration
 
 - 3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
