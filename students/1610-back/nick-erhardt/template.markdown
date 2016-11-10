@@ -51,6 +51,7 @@ The heart of the HTTP project was to make a web server using Ruby.  We created a
 HTTP was an eye-opening opportunity to make a web server using Ruby.  On one hand it was an *excellent* experience which exposed the fundamental processes and flow of a web server.  On the other hand it was a unique experiment in frustration and formatting which made me revel in the gloriousness of my web browser.  I also had no idea that information could be included in a web request in so many ways from query parmeters to POST key, values in forms.  
 I did not get as far as I would have liked on this project (Overall Functionality score of 2).  This was because of two reasons: 1) I got stuck early on trying to create an easy to use setup with tmux that would allow me to fire up and shut down the server during testing; and 2) I dug in *deep* to HTTP requests when I got to the section on passing information via POSTs.  Ultimately, I believe the first issue was not the best use of *that many hours*, and I should have bailed on the neat-but-not-critical idea.  The second issue was fantastic learning, and I was willing to sacrifice the score for a more in-depth look at HTTP requests.
 
+Assessed by Mike
 #### Evaluation Comments:
 Notes:
 * Great testing overall, used tmux to get around the server close test
@@ -76,6 +77,7 @@ Notes:
 
 Date Night was a first introduction to the Binary Search Tree data structure.  It introduced a new method (to me) for storing and searching large data sets.  My implementation had fairly dumb nodes (they only knew about themselves and their children) and put the logic of adding/searching/deleting in the tree itself.  This project was an excellent introduction to recursion, and I made heavy use of recursion to navigate the tree.
 
+Assessed by Beth
 #### Evaluation Comments:
 Notes:
 * Opportunity for more unit testing. Overall very strong testing suite, though. Strong 3
@@ -106,6 +108,7 @@ Black Thursday was a project to analyze sales data which included customers, mer
 
 Black Thursday was an introduction to a more complex data set and relationships within the data than we have been exposed to previously.  I especially enjoyed diving into the complex questions we could answer, using the tools we had built from scratch.
 
+Assessed by Ilana
 #### Evaluation Comments:
 Notes: 
 - 102 tests all passing *EDIT by Nick: the spec harness had 102 tests, I had 206. Huzzah unit tests!*
@@ -146,6 +149,7 @@ The output from `rake sanitation:all` shows...
 #### Description
 Complete Me expanded on the Binary Search Tree project (Date Night) from the previous week and was the more general case of a n-dimensional tree with linked nodes.  While the Date Night project was one way to quickly store, filter and sort a list of numbers (scores and movie title), Complete Me was used to store words so that it could be used as an autocomplete system like might be used on a phone messaging app [like so](http://www.damnyouautocorrect.com/10484/the-top-15-most-popular-dyac-texts-of-all-time/).  Our project relied heavily on recursion.  
 
+Assessed by Sally
 #### Evaluation Comments:
 * Really good job breaking out into logical components.
 * Though there are small methods, looks like there is a bit of redundancy and
@@ -169,8 +173,6 @@ could combine multiple methods into one
 
 #### 5. Functional Expectations
 * **4**: Application fulfills all base expectations and one extension
-
-
 
 ## D: Professional Skills
 
