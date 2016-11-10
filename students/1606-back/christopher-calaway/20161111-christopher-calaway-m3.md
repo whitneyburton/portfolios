@@ -47,7 +47,22 @@ The work and projects in Module 3 have trained us to build professional web appl
 
 Monocle is a directory of tech companies in Colorado that Turing job seekers can reference in to aid in their search. I was selected to work on this project for Jeff Casimir.
 
-This has not yet been evaluated.
+Assessor: Lauren
+
+* __Notes:__
+ * Major goal was to build a project that outlives this assignment
+* __Completion__
+ * 4: Developer completed all the user stories and requirements set by the client in timely manner
+* __Organization__
+ * 4: Developer used a project management tool and updated their progress in real-time
+* __Test-Driven Development__
+ * 4: Project shows exceptional use of testing at different layers (above 95% coverage
+* __Code Quality__
+ * 3.5: Project demonstrates solid code quality and MVC principles
+* __User Experience__
+ * 3: Project exhibits a production-ready user experience
+* __Performance__
+ * 3: Project pages load on average under 400 milliseconds
 
 ## C: Group Work & Projects
 
