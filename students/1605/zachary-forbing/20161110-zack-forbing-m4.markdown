@@ -145,10 +145,7 @@ I'm always trying to help clean up around here - usually the dishwashers, which 
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
