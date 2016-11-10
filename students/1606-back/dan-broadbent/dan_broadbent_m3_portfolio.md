@@ -245,11 +245,31 @@ It was really cool to learn how there is a scale from introvert to extrovert, ra
 
 ### Giving Feedback
 
-To Susi - Susi, I had so much fun working on Rails Engine with you.  It was a really tough project and we both tackled some really hard problems.  Your communication is fantasitic, I always knew what your personal obligations were and how things were going in the project.  Thank you for being flexible with my schedule and sticking to our DTR.  I know it wasn't ideal, but I really appreciate your understanding.  Dividing and conquering on this project worked great, and we both learned a ton.  It was great seeing you succeed on doing some of the really complex business logic.  You had mentioned that this was one of the first group projects where you really got to go out on your own and sink your teeth into a big problem without help.  You crushed it, and I hope that you take that with you going forward and continue to take risks and push your comfort zone.
+#### To Susi:
+Susi, I had so much fun working on Rails Engine with you.  It was a really tough project and we both tackled some really hard problems.  Your communication is fantasitic, I always knew what your personal obligations were and how things were going in the project.  Thank you for being flexible with my schedule and sticking to our DTR.  I know it wasn't ideal, but I really appreciate your understanding.  Dividing and conquering on this project worked great, and we both learned a ton.  It was great seeing you succeed on doing some of the really complex business logic.  You had mentioned that this was one of the first group projects where you really got to go out on your own and sink your teeth into a big problem without help.  You crushed it, and I hope that you take that with you going forward and continue to take risks and push your comfort zone.
+
+### To Jesse:
+You did a good job with bringing the group together and making sure everything was moving forward because of your proactive attitude, but you could work on making better notes of things you want to come back to so there aren’t comments in the code that other people don’t understand.
+
+### To Calaway:
+You did a good job with staying focused on tough problems and working through to get little bits of progress complete, but you could be more liberal in trying things that might not work in order to speed up learning.
+
+### To Chase:
+You did a good job pairing on the api with me and making sure we were both working on the same page and also taking turns driving because you have good self awareness, but you could make sure you don’t spend to much time on the same problem in order to get the most out of your time.
 
 ### Being a Community Member
 
-From Susi - Dan, this project was an absolute blast because I was partnered with you. Rails Engine was extremely difficult but you never once lost your cool and calm demeanor. We set our goals from the beginning and every day, sometimes twice a day, you always made sure to check and make sure we were on track. We set a deadline and we stuck to it. You let me know immediately during our DTR that you had an odd schedule that week and we were able to effectively stick to an even shorter schedule than anticipated by our teachers. It was amazing to watch you celebrate our successes! Your encouragement and confidence in the project and in me really made a huge difference. You have an extremely logical and analytical thought process that makes problem solving as a pair extremely interesting and fun - not to mention hilarious at times.
+#### From Susi:
+Dan, this project was an absolute blast because I was partnered with you. Rails Engine was extremely difficult but you never once lost your cool and calm demeanor. We set our goals from the beginning and every day, sometimes twice a day, you always made sure to check and make sure we were on track. We set a deadline and we stuck to it. You let me know immediately during our DTR that you had an odd schedule that week and we were able to effectively stick to an even shorter schedule than anticipated by our teachers. It was amazing to watch you celebrate our successes! Your encouragement and confidence in the project and in me really made a huge difference. You have an extremely logical and analytical thought process that makes problem solving as a pair extremely interesting and fun - not to mention hilarious at times.
+
+#### From Jesse:
+You did a great job with a lot of the technical challenges you took on. Specifically, pairing on the album creation, photo upload were great experiences. You also figured out some of the complicated sql queries and the photo download as a zip feature. I definitely enjoyed pairing with you. I think you communicate your thinking clearly and also bring a lot of troubleshooting skills to the table. Another thing that I appreciate is that you give really good feedback. During our re-DTR, and thinking back to the first feedback session back in Mod1, I got a lot from what you had to say. In terms of area of growth, I perceived variations in terms of the energy you brought to the project. For example, when we paired on some of the admin panel features, I got the feeling you were not fully checked in. This is only because some of our other pairings (e.g. w/ Google Cloud) felt so much more dialed in. I ask that you think about the impact the energy you bring to a particular challenge can have on those you are working with. Overall, that's a pretty minor issue. I loved working with you. I especially appreciate the confidence you have in your problem solving skills and would jump at the opportunity to work with you on just about anything again in the future.
+
+#### From Calaway:
+Dan has been awesome to work with throughout this project. On day one at Turing we learned the steps for success, which included a preference for action. Dan definitely employs this in his projects and problem solving, and over the last two weeks he has helped me to do the same, which I greatly appreciate.
+
+#### From Chase:
+Dan was great to work with. He is smart and knows how to research ideas he isn't sure about. One critique I would give to Dan is that he sometimes gets so into his code, that he tunes out the rest of the world, including the words of his team members. This is never for very long, and it's obvious he doesn't mean to, but it's still something he could try working on.
 
 ### Playing a Part
 
