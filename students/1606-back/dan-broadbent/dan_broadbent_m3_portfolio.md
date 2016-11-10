@@ -151,12 +151,21 @@ Technical Quality
 (feedback to me)
 
 ## D: Professional Skills
-(Intro)
+
+This module, we got more actionable requirements on the job hunt, and continued to explore different issues in being an active and productive group member in Gear Up.
 
 ### Gear Up
 #### (Session Name)
 
-* [GitHub URL]()
+* [Resilience GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+* [Introvert & Extrovert Introspection GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+* [Vote Your Conscious GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
