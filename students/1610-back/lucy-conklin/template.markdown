@@ -10,9 +10,9 @@ Reach Goal: ...everyone in the 1610 front-end cohort as well.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 2.5
-* **C: Group Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 4
 
@@ -248,8 +248,10 @@ On 10/14 Nick Erhardt and I gave a talk to the Verou posse about a Javascript fr
 
 ### Notes
 
-( Leave blanks for reviewers )
+* big takeaways from the introverts/extroverts 
+* would love to see a Friday Spike session to add more community participation
+* would like to finish iteration 4 and 1 extension on http by Tuesday
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PENDING
