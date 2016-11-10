@@ -189,7 +189,7 @@ It is my duty as a citizen of the U.S. to vote and make sure that I am informed 
 
 GitHub URL: https://github.com/turingschool/gear-up/blob/master/introversion.markdown
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+As an introvert who has always struggled to fit in, the thought that the world is designed in a way that favors extroverts has crossed my mind before. I've learned to use it as an asset instead of viewing it as a hindrance. I try to leverage the strengths that come with it whenever I interact with others. I also try to make a concerted effort to accommodate others to ensure that everyone feels comfortable no matter their level of extraversion.
 
 #### Resilience
 
