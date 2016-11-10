@@ -376,7 +376,11 @@ This module I really saw the emotional and academic support that comes from bein
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 4
 
 ### Outcome
 
