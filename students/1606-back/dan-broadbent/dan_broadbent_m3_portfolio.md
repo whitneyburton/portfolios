@@ -173,11 +173,11 @@ Technical Quality
 
 ### Giving Feedback
 
-Susi - Susi, I had so much fun working on Rails Engine with you.  It was a really tough project and we both tackled some really hard problems.  Your communication is fantasitic, I always knew what your personal obligations were and how things were going in the project.  Thank you for being flexible with my schedule and sticking to our DTR.  I know it wasn't ideal, but I really appreciate your understanding.  Dividing and conquering on this project worked great, and we both learned a ton.  It was great seeing you succeed on doing some of the really complex business logic.  You had mentioned that this was one of the first group projects where you really got to go out on your own and sink your teeth into a big problem without help.  You crushed it, and I hope that you take that with you going forward and continue to take risks and push your comfort zone.
+To Susi - Susi, I had so much fun working on Rails Engine with you.  It was a really tough project and we both tackled some really hard problems.  Your communication is fantasitic, I always knew what your personal obligations were and how things were going in the project.  Thank you for being flexible with my schedule and sticking to our DTR.  I know it wasn't ideal, but I really appreciate your understanding.  Dividing and conquering on this project worked great, and we both learned a ton.  It was great seeing you succeed on doing some of the really complex business logic.  You had mentioned that this was one of the first group projects where you really got to go out on your own and sink your teeth into a big problem without help.  You crushed it, and I hope that you take that with you going forward and continue to take risks and push your comfort zone.
 
 ### Being a Community Member
 
-(feedback to me)
+From Susi - Dan, this project was an absolute blast because I was partnered with you. Rails Engine was extremely difficult but you never once lost your cool and calm demeanor. We set our goals from the beginning and every day, sometimes twice a day, you always made sure to check and make sure we were on track. We set a deadline and we stuck to it. You let me know immediately during our DTR that you had an odd schedule that week and we were able to effectively stick to an even shorter schedule than anticipated by our teachers. It was amazing to watch you celebrate our successes! Your encouragement and confidence in the project and in me really made a huge difference. You have an extremely logical and analytical thought process that makes problem solving as a pair extremely interesting and fun - not to mention hilarious at times.
 
 ### Playing a Part
 
