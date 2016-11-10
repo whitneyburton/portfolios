@@ -35,10 +35,10 @@ Scores:
   * 4: Developer is a master of their tools, efficiently moving between phases of development
 
 5. Collaboration
-4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+  * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 6. Enumerable & Collections
-3: Application demonstrates comfortable use of appropriate Enumerable methods
+  * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 
