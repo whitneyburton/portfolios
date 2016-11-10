@@ -1,4 +1,4 @@
-# (Noah Berman) - (M2) Portfolio
+# Noah Berman - (M2) Portfolio
 
 ## Areas of Emphasis
 
@@ -136,7 +136,7 @@ View Layer - 4
 Little Shop! My group for this project involved four people (myself included) with very different attitudes towards
 coding styles, which made (makes?) for an interesting codebase. Writing this prior to the evaluation I'll be interested
 to see how our solutions are perceived. Still, we moved at a fairly steady clip, helped perhaps by having waffle cards
-and three other group members to keep us on our toes. Managed to get AWS/Paperclip up and running for image upload, followed
+and three other group members to keep us on our toes. I was unfortunately at odds with another group member for a portion of the project -- I think I let the stress of the week and the election get to me in ways I didn't predict or bring up at the DTR. I wish I had worked harder to resolve this conflict earlier on in the project. Still: we managed to get AWS/Paperclip up and running for image upload, followed
 by getting Stripe installed on the order pages. We went down a unique path - making more of a Point of Sale app than a 
 standard web store - and wound up with an interesting product.
 
@@ -250,6 +250,8 @@ From Ali Schlereth - "Noah has been an integral part of Pahlka Posse this module
 
 From Mike Schutte - "Hey Noah! Just want to say thanks for all your work with the coffeebot on Slack (and your general enthusiasm for coffee). For a community that basically requires caffeine, your work to optimize our supply chain helps us all do the important work we are here to do. Let me know if you need any help, and until then, I’ll make sure to keep the /coffee_brewing !"
   
+From Tommasina - "Noah has continued to play a key role in our Pahlka Posse, participating in developing our healthy eating game in JavaScript and Ruby, and creating opportunities for students to gather for important documentaries  and to discuss pertinent political issues. I see that he's well-respected across the school for the clarity of his ideas, his commitment to ideals and open discussion, and his ingenuity and passion for coffee in crafting a coffee brewing Slack Bot. I'm excited to see where his programming takes him, as it's likely to be at an important intersection of topics and technologies. Keep on keepin' on, Noah!"  
+
 Me to Ali Schlereth - "Ali's leadership of Pahlka Posse has really pushed us forward as a group. She is able to keep us on track while still making sure everyone's opinions get heard, which is no mean feat. We wound up rewriting a huge chunk of a project in JS/Node and she jumped in and picked up a ton of the syntax/concepts really quickly, making serious progress towards bringing a suite of other apps together as one main game/app. Her willingness to just get things done has not only served Pahlka well but will surely serve her well in the post-Turing world!"
 
 ### Playing a Part
