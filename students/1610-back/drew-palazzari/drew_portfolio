@@ -211,16 +211,16 @@ proper place. Overall, we did well on the project.
 3. Encapsulation / Breaking Logic into Components
 
 4: Application is expertly divided into logical components each with a clear, single responsibility
+
 4. Fundamental Ruby & Style
-
 3: Application shows strong effort towards organization, content, and refactoring
-5. Enumerable & Collections
 
+5. Enumerable & Collections
 4: Application consistently makes use of the best-choice Enumerable methods
+
 6. Code Sanitation
 
 The output from rake sanitation:all shows...
-
 4: Zero complaints
 
 Project pairing: Lucy Conklin
@@ -344,6 +344,12 @@ Also, I thought your punctuality and dedication to the project were legendary. Y
 accomplished SO much over the weekend. This is the first project where I'm not dying of stress the day before it's due 
 because we made a schedule and (somehow) stuck to it. Brava! I chose to focus on this quality because punctuality and 
 communication are the most important aspects of a successful group project, in my opinion.
+
+#My Feedback to Jesse:#
+Jesse is an awesome guy. He's got a great sense of humor. It really helps having someone like him around in a stressful 
+situation like Module 1 at Turing. From day 1 we've practically been homies. He's an excellent coder and is always available 
+for advice. I trust his advice and would be thrilled if I was ever paired with him. I consider him a friend and look forward 
+to walking to 7/11 with him again in Module 2.
 
 ### Being a Community Member ###
 
