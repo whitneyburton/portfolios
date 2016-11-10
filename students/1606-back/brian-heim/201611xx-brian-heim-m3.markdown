@@ -3,7 +3,7 @@
 
 ## Areas of Emphasis
 
-      
+I set out to take some risks this module. Since I came away with a good understanding of Rails basics from Mod 2, I wanted to see what new things I could try (JavaScript, Machine Learning, Python, etc.). I also aimed to be more active in my posse (Armstrong) and in the community. My ultimate goal however, was to hone and obtain new skills and to get closer to being a "job ready" junior developer by the end of the module.
 
 ## Rubric Scores
 
