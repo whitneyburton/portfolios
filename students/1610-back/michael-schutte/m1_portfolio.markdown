@@ -295,7 +295,9 @@ which always raises the energy in the room.
 and his positive outlook is very much welcomed. He gets these concepts pretty quick 
 and is always eager to help spread is knowledge.
 
+* His name is Mike. His enthusiasm is contagious, and oh so valuable when you’ve been sitting in a basement, staring at screens for hours. Not to mention, unbounded willingness to stop his task and help with any code problems, or just to talk about our mutual admiration for the tequila-rista across the road. It’s been a pleasure learning and writing code in his company. I will undoubtedly be recounting wild and crazy stories about this man and his proclivity for the finer things in life to my great-great-grandchildren.
 
+* Schutte, since day one you have been a learning inspiration to me. Thank you for constantly presenting a creative and unique approach to learning, sharing your insights and knowledge, and for being such a compassionate colleague.
 
 ### Playing a Part
 
