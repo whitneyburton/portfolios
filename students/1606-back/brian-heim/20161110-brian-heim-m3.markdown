@@ -51,7 +51,7 @@ This section contains individually completed work, API Curious was our only indi
 
 __Project__ description:
 
-API Curious focuses on consuming and working with public API data. The premise is to re-construct a simplified version of an existing site using their own API. For this project, I chose to use GitHub. 
+API Curious focuses on consuming and working with public API data. The premise is to re-construct a simplified version of an existing site using their own API. For this project, I chose to use GitHub.
 
 ---
 
@@ -60,7 +60,7 @@ API Curious focuses on consuming and working with public API data. The premise i
 
 ### Projects
 
-This section contains Group Projects from the module: Rails Engine, Cloney Island and the Self-Directed Project. I paired with Jean Joeris on the Self-Directed Project: Mind On The Ball. 
+This section contains Group Projects from the module: Rails Engine, Cloney Island and the Self-Directed Project. I paired with Jean Joeris on the Self-Directed Project: Mind On The Ball.
 
 ### Rails Engine
 
@@ -177,7 +177,7 @@ __Project__ description:
 
 The goal of the SDP is to create an app that will authenticate with a third-party service, consume an api, and solve an actual problem.
 
-Jean and I decided to create an app that would generate statistical predictions for the NFL. We set out to accomplish this using a machine learning algorithm called a Neural Net. The app also contains an educational blog section that documents our process during the creation of the neural net. In addition, there is a page that displays large amounts of statistical data acquired from an external api.   
+Jean and I decided to create an app that would generate statistical predictions for the NFL. We set out to accomplish this using a machine learning algorithm called a Neural Net. The app also contains an educational blog section that documents our process during the creation of the neural net. In addition, there is a page that displays large amounts of statistical data acquired from an external api.
 
 Project Partner: Jean Joeris
 
@@ -209,7 +209,7 @@ MOTB is an application that presents predictions based on historical data and pr
 * API
  * NFL Fantasy API
 * OAuth integration
- * Github 
+ * Github
 
 
 __Project__ scores:
@@ -301,7 +301,7 @@ I really enjoyed working with him, and I am looking forward to see what he accom
 
 ### Playing a Part
 
-* Armstrong Posse - I contributed during the creation of our linear regression app, and some lesson plans and participate regularly in posse meetings and discussions. Along with Jean Joeris created an app and built a neural net from scratch which will be used as a learning resource/example for the posse.  
+* Armstrong Posse - I contributed during the creation of our linear regression app, and some lesson plans and participate regularly in posse meetings and discussions. Along with Jean Joeris created an app and built a neural net from scratch which will be used as a learning resource/example for the posse.
 * Regularly empty dishes and load/run dishwashers in big workspace
 * Organized disc-golf outings with the #disc-golfers channel
 * Served as a Pre-Work Guide for incomming students
@@ -314,7 +314,11 @@ I really enjoyed working with him, and I am looking forward to see what he accom
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
