@@ -1,7 +1,7 @@
 # MaryJane Valade - M3 Portfolio
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Entering Mod 3, I felt really comfortable in React and that my JS skills were finally improving. Then we starting working in Redux and I felt confused all over again.
 
 ## Rubric Scores
 
@@ -30,14 +30,34 @@ Personal Project
 
 #### CO Kid Hikes
 
-* [GitHub URL] (https://github.com/mjvalade/cokid-hikes)
-* [Original Assignment] (http://frontend.turing.io/projects/self-directed-project.html)
+* [GitHub URL](https://github.com/mjvalade/cokid-hikes)
+* [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
 I developed a website application to create hiking trails that are kid-friendly so users can keep track of trails they have done or want to do in the future. This project was basically an Idea Box but I also implemented various API calls. I found a user's geolocation and then used that to call a weather API to find the local weather. I also brought in the Google Maps API so that when a user makes a new trail they can drop a pin to note the trailhead's location.
 
-(evaluation comments)
+#### Evaluation Comments
+* Rename a few functions to be more specific.
+* Advice about testing and setting up tests as soon as I set up each component.
 
-(evaluation scores)
+#### Evaluation scores:
+**Feature Delivery:**  
+Completion  
+4 - Developer completed all the user stories and requirements set in check-ins in timely manner.
+Organization  
+3- Developer used a project management tool to keep their project organized.
+
+
+**Technical Quality:**  
+Test-Driven Development  
+2 - Project shows gaps in test usage/coverage/design (85 - 90% coverage).  
+Code Quality  
+4 - Project demonstrates exceptionally well factored code.
+
+**Product Experience:**  
+User Experience  
+4 - Project exhibits a production-ready and polished UX.
+Performance  
+4 - Project pages load on average under 300 milliseconds.
 
 ## C: Group Work & Projects
 
@@ -47,8 +67,8 @@ Two paired projects: Weather Tracker and Remember
 
 #### Weather Tracker
 
-* [GitHub URL] (https://github.com/mjvalade/weather-forecast)
-* [Original Assignment] (http://frontend.turing.io/projects/weather-forecast.html)
+* [GitHub URL](https://github.com/mjvalade/weather-forecast)
+* [Original Assignment](http://frontend.turing.io/projects/weather-forecast.html)
 
 The weather app project was the first time we paired in a group of three people rather than two so it was important to focus on workflow and code commits. This project forced us to learn a lot of things all at once between redux, API calls, routing, etc. First we had to find a user's geolocation and then use that to find the local weather. the focus of the app was allowing a user to create a list of pinned or favorite cities and getting the current and extended forecast for those cities. This was the first time we implemented Redux with React and had to learn how to organize all our actions in order to pass state from the main store.
 
@@ -73,23 +93,35 @@ Workflow
 
 #### Remember
 
-* [GitHub URL] (https://github.com/turingschool-projects/1606-remember-5)
+* [GitHub URL](https://github.com/turingschool-projects/1606-remember-5)
 * [Original Assignment] ()
 
 This was our first chance working with the JS framework Ember. This project was structured in more of a real-world style with a focus on workflow by receiving and solving user stories, pushing code for PRs and code review before merging and moving on to the next issue. Our system of working together until we felt comfortable tackling issues on our own was productive and helped us learn Ember better. Then we were able to move at a faster pace by dividing issues and reviewing together before pushing up for instructor review.
 
 **Scores:**
-PASS
+PASS - 9 completed user stories
 
 ## D: Professional Skills
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Vote Your Conscience
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+3-4 sentences summarizing your takeaways from _each_ session
+
+#### Introversion and Extroversion on Teams
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+3-4 sentences summarizing your takeaways from _each_ session
+
+#### Resilience
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+
+3-4 sentences summarizing your takeaways from _each_ session
 
 
 ### Professional Development Workshops
@@ -115,12 +147,24 @@ I enjoyed working with you on learning a brand new framework in Ember. I feel li
 
 ### Being a Community Member
 
+From Pete:  
+
+From Jeff:  
+MaryJane, I really enjoyed working with you and Pete on the Weather app project.  I thought we did a good job working through it together and I was really happy with how it turned out.  I think we did a good job working together to muddle our way through all the new concepts and then did an awesome job of working independently on several pieces at once to get a solid app out the door by the deadline.  I hope we get to work together again on another project!
+
+From Kirsten:  
+This was the first time that we’ve ever worked together and it was great working with you! I think we did a good job with evenly driving when we were working together. Additionally, we evenly split up work to independently work on the issues we received later on in the project. So with that being said, I would say our collaboration and communication was very fluid and we had excellent workflow. Whenever we got back together after dividing our work you always explained your code in great detail in a manner that was succinct and easy to follow. Nice job with refactoring the styling after we made the basic layout. I can definitely tell you have an eye for design and you’re really good at it! You did a great job reaching out to the instructors and your mentor when you felt lost and needed help. In relation to this, I think sometimes you would reach out too quickly before trying to figure out the solution. However, I think you were already aware of this because of your shout-out during Friday wrap-ups. Otherwise nice work on our first Ember project and way to “cherry pick!”
+
 From Susi Irwin:  
 I am so fortunate to have gotten to know MaryJane over the past 3 modules at Turing and cannot say enough amazing things about her. She is the epitome of what Turing strives for in its developers: strong, courageous, talented, passionate. She balances school while raising two children who adore her. She manages to assist other students in the Front End Program, offer guidance to any Back End students who reach out as well. She is hard working and it is extremely apparent how dedicated she is to success. She attends the Joan Clarke Society Tuesday meetings regularly and is always around for a chat if I need. Such a pleasure to be a part of her community.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+* I met with Angela Lindow (1605-BE) to discuss setting up an after-hours event to bring together Turing students and spouses/partners to support each other through the Turing process. We are working with Allison to get out a survey and schedule a date.
+
+* I've attened a few meetups and also spoke to people at them (that is a big deal for me). I've met with a couple people for coffee to talk about jobs and the industry and working on setting up more over break and early next mod.
+
+* I come in early to get work done but also try and tidy up the Bank space when necessary, as well as help set up for Friday guest speakers.
 
 ------------------
 
