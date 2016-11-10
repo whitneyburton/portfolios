@@ -147,21 +147,36 @@ https://github.com/turingschool/curriculum/blob/master/source/projects/black_thu
 Black Thursday project consists in building a program that connects different csv files (clients, items,  merchants, invoices) and analize the data from a business intelligence perspective. It allows to do all sort of searchs such as average price items per merchant, golden items, fully paid invoices, days of the week with more sales, and so on. 
 
 ### Evaluation Comments:
+Assessed By: Beth Sebian
 
+Beautiful, refactored testing suite, balance of integration and unit testing
+Ruby syntax meets convention, very few opportunities for refactoring
+A couple long methods
+Spec harness passes 0-4
+Nice use of modules, well-defined/encapsulated methods, consistent application of SRP
+Consistent use of best choice enumerables
+2 rake:sanitation errors
 
 ### Evaluation Scores:
 
-1. Test-Driven Development
+#### 1. Functional Expectations
+3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
+#### 2. Test-Driven Development
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
-2. Breaking Logic into Components
+#### 3. Encapsulation / Breaking Logic into Components
+4: Application is expertly divided into logical components each with a clear, single responsibility
 
+#### 4. Fundamental Ruby & Style
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-3. Fundamental Ruby & Style
+#### 5. Enumerable & Collections
+4: Application consistently makes use of the best-choice Enumerable methods
 
-
-4. Overall Functionality
-
+#### 6. Code Sanitation
+The output from rake sanitation:all shows...
+3: Five or fewer complaints
 
 ### Feedback from Amy:   
 Amara is without a doubt the most enthusiastic, uplifting, gregarious member of our cohort, and it was a pleasure to work with her on the final project. We had a thorough DTR before we began, and that was helpful most notably for the fact that we have slightly different working styles: I prefer to fight with problems alone until I absolutely must seek help, while Amara is quick to seek help. This forced me out of my comfort zone a few times, but ended up being very useful in continuing forward momentum with the project. Amara is resilient and hard working, and she’s an expert reader of both behaviors and situations. She was a valuable team member for a difficult, stressful project, and I am glad to have gotten the opportunity to work with her. We came in as collaborators and emerged as friends, which is, I believe, the best possible outcome.
@@ -240,6 +255,9 @@ Amara, your dedication to learning the material is almost unmatched in our cohor
 
 #### From Caroline Powell:
 Amara is so inspiring to be around. She is great at bringing people together and making our time at Turing enjoyable for everyone. She is full of new ideas and will be a great addition to any company culture that she's thrown into because she has the ability to excite and motivate others.
+
+### From David Knott:
+Amara you bring so much to the Turing community, I always feel better after talking to you and I suspect that many of our classmates feel the same way.  I know the past six weeks have been hard for you and I’m happy to see that you maintained a relatively optimistic attitude despite near constant stress.  I can’t help but believe that with your level of intelligence and motivation things will make an ever increasing amount of sense.  Estoy feliz a conocerte
 
 ## Playing a Part
 I love working in teams and being part of meaningful communities and this is why in Turing I feel in my element. This module I did my best to make the group (my cohort) feel like a team, for example trying to include everybody in conversations, checking when I was seeing somebody struggling and encouraging my peers to get together every Thursday after wrap up to celebrate that we as a team made it one more week. I also actively participate in the cohort retro and student surveys providing new ideas and constructive feedback to make Turing experience even better. In terms of posses, I attended mainly to Pahlka but I also went to some sessions of Verou and Bezos that I found especially interesting. I have been also going to some Impostor Syndrome lunch times and to most of Productivity Lunch meetings, these later ones have been really useful and very inspiring, I love the group, always eager to share things that work for them, and how Nate leads the sessions. Caroline Powell and I met with a group of our peers to create a list of tech topics that we knew and others that we wanted to learn about in order to create workshops and tutorials markdowns that the school could use in the future. Then we surveyed the rest of our cohort to find out which of those topics people were interested the most and if others. We are currently working on that and hopefully we will be able to have some materials ready for possible talks next module. Last but not least, I have the will to build connections between the school and whoever I find especially awesome in the field such as  professionals, incubators, local tech companies and co-working spaces. I haven't only reached some places and people so far because it always take a while for people to answer and I've been able to allocate much time to do follow-up due to school workload. However, I will keep trying next semester, I'm a tenacious person when I have a goal in mind.
