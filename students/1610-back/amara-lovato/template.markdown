@@ -7,33 +7,29 @@ My areas of emphasis were mainly getting familiar with the concepts (classes, me
 Keeping my final goal in mind (create great tools to make the world better) really helped to be motivated to work hard. I wish I would have had more tech knowledge because I feel it makes a huge difference when facing module 1. Coming from a non tech industry, for me it has been an enormous hurdle to overcome in terms of related knowledge and learning pace.
 
 ## Rubric Scores
-
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
 * **D: Professional Skills**: X
 * **E: Feedback & Community Participation**: X
 
--------------------------------------------------------------------
-
-## A: End-of-Module Assessment (individual self-assessment)##
-
-A: End-of-Module Assessment
+# A: End-of-Module Assessment (individual self-assessment)##
+#### A: End-of-Module Assessment
 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
 
-B: Individual Work & Projects
+#### B: Individual Work & Projects
 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
 
-C: Group Work & Projects
+#### C: Group Work & Projects
 3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
 
-D: Professional Skills
+#### D: Professional Skills
 3: Student demonstrates satisfactory dedication, understanding, and growth of professional development through their deliverables from PD sessions.
 
-E: Feedback & Community Participation
+#### E: Feedback & Community Participation
 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior. They have a significant positive positive impact on the learning and spirit of the people around them.
 
-## B: Individual Work & Projects
+# B: Individual Work & Projects
 The goals of this module were the appropriate use of basic Ruby, have a correct Ruby style and focus on Test Driven Development. Please see below the scores and summaries of my individual projects in module 1.
 
 ## Mastermind
@@ -43,66 +39,69 @@ The goals of this module were the appropriate use of basic Ruby, have a correct 
 
 Mastermind project consists in creating a game where the user tries to guess a randomly created four digit password which can contain the letters G (green), B (blue), Y (yellow) and R (red). After every try the user is informed if the guess was correct and equals the password or otherwise how many letters in the right position or different position are in the user guess compared to the password. The user can keep playing or quit the game as well as choose cheat to see the answer. When the user guesses the password, how many tries and how long it took is provided. The project includes a code generator, a REPL, a counter to track times and time and several complex methodsto evaluate the input versus the password
 
-Evaluation Comments:
+### Evaluation Comments:
 
 Got a little turned around when trying to pull together multiple classes
 Separate the files better into lib and test and delete inactive files
 TDD could be stronger and test things that need to be tested, not just simple things
 
-Evaluation Scores:
+### Evaluation Scores:
 
-1. Test-Driven Development
+#### 1. Test-Driven Development
 1: Application does not demonstrate strong use of TDD
 
-2. REPL Interface and Game Functionality
+#### 2. REPL Interface and Game Functionality
 1: Application's REPL has several issues or application fails to run
 
-3. Breaking Logic into Components
+#### 3. Breaking Logic into Components
 2: Application makes use of some classes, but the divisions or encapsulation are unclear.
 
-4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 2: Application runs but the code has many long methods (>8 lines) has poorly named variables, needs significant refactoring, and is somewhat idiomatic.
 
-5. Enumerable & Collections
+#### 5. Enumerable & Collections
 2: Application only uses the most basic Enumerable techniques.
 
-### 99 bottles
+## 99 bottles
 * GitHub URL: https://github.com/pixapi/bottles
 * Original Assignment: https://github.com/turingschool/challenges/blob/master/99_bottles.markdown
 
+### Description
 99 bottles project consists in create a program that displays the famous song "99 bottle of beer on the wall" discounting a bottle from the number of bottles every time that the song is sung until there aren't any bottles on the wall. It basically uses loops in order to make the countdown and display the changes in the lyrics that occur for the last times.
 
-Evaluation Comments:
+### Evaluation Comments:
 There were many opportunities for refactoring.
 
-Evaluation Scores:
+### Evaluation Scores:
 This project was part of a special continuous evaluation program.
 
-### Wizarding Bank
+## Wizarding Bank
 * GitHub URL: https://github.com/pixapi/wizarding.git
 * Original Assignment: https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown
 
+### Description
 Wizarding Bank project consists in building a program that allows create bank accounts in different banks for several people that have initally certain cash. The program also performs the normal bank operations: withdrawal, transfer money between account and keep track of the balances in each account. The primary learning goal is the use of classes, methods and passing info around through arguments and variables.
 
-Evaluation Comments:
+### Evaluation Comments:
 Trouble with passing arguments and calling methods from other classes. Good effort in TDD.
 
-Evaluation Scores:
+### Evaluation Scores:
 This project was part of a special continuous evaluation program.
 
-### Enigma
+## Enigma
 * GitHub URL: https://github.com/pixapi/enigma
 * Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown
 
+### Description
 Enigma project consists of building a program that simulates the encryptation method used during the Cold War. The system rotates characters and numbers in a way that having the key and knowing the rotations allows to decrypt the message. However, there is a way to do it without the key that's called to crack the message. The goal of this project was to do the first part of the solving process that is the whiteboarding/pseudocoding,  focusing on identifying classes and their attributes.
 
-Evaluation Comments:
+### Evaluation Comments:
 Good visual map to identify classes and attributes. Trouble to think of next steps in Ruby. Good effort in TDD.
 
-Evaluation Scores:
+### Evaluation Scores:
 This project was part of a special continuous evaluation program.
 
-## C: Group Work & Projects
+# C: Group Work & Projects
 
 ## Projects
 
@@ -113,10 +112,10 @@ This section will display the pair projects that we did during module 1. The mai
 * GitHub URL: https://github.com/jdconrad89/nightwriter
 * Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
 
+### Description
 Night Writer project consists of transforming an English text file into a Braille file. The positions where in Braille are points will be represented by zeros and empty spaces in Braille will be dots in the program. It translates English to Braille but also Braille to English. One of the main focus is the use of File I/O that will be coordinating all the actions and being the node of all the process.
 
 ### Evaluation Comments:
-
 Successfully converts either way
 11 tests, one failing test
 FILE IO tests arent meaningful
@@ -127,35 +126,30 @@ I like the fact that the dictionaries are broken, out but use constants and test
 Watch CRs and spacing, use of them makes code more readable.
 
 ### Evaluation Scores:
-
-1. Test-Driven Development
+#### 1. Test-Driven Development
 2: Application makes some use of tests, but the coverage is insufficient
 
-2. Breaking Logic into Components
+#### 2. Breaking Logic into Components
 3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
 
-3. Fundamental Ruby & Style
+#### 3. Fundamental Ruby & Style
 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
 
-4. Overall Functionality
+#### 4. Overall Functionality
 2: Application converts to Braille and back successfully
 
 ### Feedback from Jason:
-
 Amara was a joy to work with. With the gap in understanding she was continually stoping to ask questions to make sure that she was understanding what it was our project was doing and what we were trying to accomplish. It was great because on more than one occasion while talking things out we would realize that it wouldn’t the way that was being anticipated so we were able to save some time. Her thirst for understanding and knowledge was amazing and was a great motivator to do the best we could throughout the project. Her flexibility to be able to come in on the weekend was also extremely helpful and appreciated. The biggest thing that I would say she needs to work on is to ask even more questions that there were times that we would get locked in doing things and then there would be a bunch of things that she didn’t fully grasp (part of that was on me getting in a grove and would just start chugging along)
 
 ### Feedback to Jason:
-
 Jason, it was great working with you. I really liked that you were always ready to stop for as much as needed to answer my questions and you took into consideration all my suggestions. Although there was a big gap of knowledge between us you were very supportive and doing your best to make me feel as a contributor. You were also very adaptable and understanding trying to accommodate our schedules. Some things that could improve for future pairs would be to dedicate more time to whiteboard in order to discuss strategy, see the steps and go through little pieces together. The pace was too fast for me so it was hard for me to catch up but at the same time I understand that there was a rush to progress to finish the project on time. Reviewing the code together and making sure that we were in the same page would also have been useful. But globally speaking, it was a very positive experience and I’m happy that I was paired with you because you are a great classmate and a very talented teacher.
 
 ## Black Thursday
-
 * GitHub URL: https://github.com/akintner/black_thursday
 * Original Assignment:
 https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
 
 ### Description
-
 Black Thursday project consists in building a program that connects different csv files (clients, items,  merchants, invoices) and analize the data from a business intelligence perspective. It allows to do all sort of searchs such as average price items per merchant, golden items, fully paid invoices, days of the week with more sales, and so on. 
 
 ### Evaluation Comments:
@@ -175,27 +169,25 @@ Black Thursday project consists in building a program that connects different cs
 4. Overall Functionality
 
 
-### Feedback from Amy:   !!! NEEDS TO BE ADDED HERE!!!
+### Feedback from Amy:   
+Amara is without a doubt the most enthusiastic, uplifting, gregarious member of our cohort, and it was a pleasure to work with her on the final project. We had a thorough DTR before we began, and that was helpful most notably for the fact that we have slightly different working styles: I prefer to fight with problems alone until I absolutely must seek help, while Amara is quick to seek help. This forced me out of my comfort zone a few times, but ended up being very useful in continuing forward momentum with the project. Amara is resilient and hard working, and she’s an expert reader of both behaviors and situations. She was a valuable team member for a difficult, stressful project, and I am glad to have gotten the opportunity to work with her. We came in as collaborators and emerged as friends, which is, I believe, the best possible outcome.
 
 ### Feedback to Amy: 
-
 Amy is one of the best people that I have worked with. She is not only smart and resourceful but also humble and collaborative so it was a real pleasure to work with her. In spite of the complexity and many challenges of the project, she always kept motivated and dedicated endless hours to fix any single problem until the tests were passing. She is hard-working, tenacious and resilient in such a high level that I admire her for that. I appreciate that she slowed down and explained me concepts to make sure that we were in the same page and working together. She was always ready for questions and discuss strategies. Even in the most stressful moments, she kept calm, focus and kept working towards our goals. She will be a great programmer and an awesome team member for any company that she works for.
 
-************* D: PROFESSIONAL SKILLS ***********************
-## D: Professional Skills
-(Intro) !!!!******** PENDING TO DO THIS ******!!!!!!
+# D: Professional Skills
+The goals of these sessions is to improve our soft skills such as communication, personal branding, being a good team member or resilience. They also provide a reflective space to discuss civics and other topics as people, citizens and professionals.
 
-# Gear Up *******************************************
+## Gear Up 
 #Vote Your Conscience #
 https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown
 
-******** REVIEW WHAT I WROTE TAKING THE FOLLOWING SPECS INTO ACCOUNT (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)*****************
-
-The session "Vote Your Conscience" made me realized that to vote is not only a right as I thought but being a citizen also means a responsibility to participate in the democratic process and stay inform of issues in the community. I mean, I knew that it's the right thing to do but I never saw it as a inherited duty for all when becoming citizens so I found it a very powerful argument. In addition to that, I really liked the discussion in our group about what were the different perspectives that we had in elections and how each of us were looking at different things when evaluating candidates. I feel that sometimes we hang out with similar people to us and it's always eye opening to hear about other believes, approaches and ways to see politics or topics such as foreign policy, tax policy, gun control or other controversial issues.
+The session "Vote Your Conscience" made me think deeper that voting is not only a right but that is part of being a citizen because as it is stated citizens have the responsibility to participate in the democratic process and stay inform of issues in the community. I mean, I knew that it's the right thing to do but I never saw it as a inherited duty for all when becoming citizens so I found it a very powerful argument. In addition to that, I enjoyed the discussion in our group about what were the different perspectives that we had in elections and how each of us were looking at different aspects when evaluating candidates. I feel that sometimes we hang out with similar people to us and it's a learning experience to hear about other people with different believes, approaches and ways to see politics, topics such as foreign policy, tax policy, gun control or other controversial issues.
 
 #Introversion and Extroversion on Teams#
 https://github.com/turingschool/gear-up/blob/master/introversion.markdown
-!!!!******** PENDING TO DO THIS, MAYBE I WROTE ABOUT IT SOMEWHERE, CHECK NOTEBOOK AND FILES IN MY LAPTOP ******!!!!!!
+
+That was an opening-eye session for me. 
 
 #Resilience#
 https://github.com/turingschool/gear-up/blob/master/resilience.markdown
@@ -238,10 +230,9 @@ This too?
 
 #Dynamics(Drive, what motivates you) page 59
 
-******** E: FEEDBACK AND COMMUNITY PARTICIPATION **************
-## E: Feedback and Community Participation
+# E: Feedback and Community Participation
 
-# Giving Feedback
+## Giving Feedback
 
 To Edilene Cruz:
 Edilene, your incredible resilience and hard work are an inspiration to me. Your always positive and encouraging attitude made many of us keep moving forward in this challenging experience. You are a very caring person with a big heart, always asking us how we were doing and sharing with us resources and even pairing sessions in your committed will to help us. I am positive that you will be successful in your goal to become a great developer because you are not only smart and resourceful but also a one-of-a-kind team member.
@@ -255,7 +246,7 @@ Caroline, your confidence and will to make a positive change in the world are im
 To Nick Gheorghita:
 Nick has a friendly and positive attitude all the time and people like help to make any stressful moment better. He provides a very good vibe for our group and he is always ready to help and give nice encouraging words. I'm glad that he is our cohort, he is a very nice person to interact with and a good team member.
 
-### Being a Community Member
+## Being a Community Member
 
 From Edilene Cruz:
 Amara, your positivity is absolutely contagious and your desire to strenghthen the student community is amazing! During the hardships that learning something new brings, you were always there to encourage and remind me the ultimate goal of this amazing, crazy and long road we are on. I hope that I will have the chance to work with you in a project and continue to share a little bit of our cultures through food like we did this module. Keep spreading positivity!
