@@ -29,7 +29,7 @@ My areas of emphasis were mainly getting familiar with the concepts (classes, me
 #### 5. Collaboration
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
-### 6. Enumerable & Collections
+#### 6. Enumerable & Collections
 * 1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
 ## A: End-of-Module Assessment
