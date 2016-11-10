@@ -31,19 +31,26 @@ https://medium.com/@shin.daniel.d/day-in-the-life-of-a-software-consultant-ceb1a
 
 ### Evaluation Scores
 
-**Conceptual Understanding** : 3.5
+**Conceptual Understanding**  
+3.5: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
 
-**Analytic/Algorithmic Thinking** : 3.5
+**Analytic/Algorithmic Thinking** :  
+4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
 
-**Feature Completeness**  : 4
+**Feature Completeness**  :  
+4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
 
-**Rails Syntax & API**  : 4
+**ActiveRecord and Style**  :  
+3.5: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
 
-**Rails Style**  : 3.5
+**Rails Style**  :  
+3.5: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
 
-**Testing**  : 4
+**Testing**  :  
+3.5: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
 
-**Collaboration** :  4
+**Collaboration** :  
+3.5: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
 
 
 ## B: Individual Work & Projects
