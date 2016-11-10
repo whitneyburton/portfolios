@@ -108,7 +108,7 @@ Black Thursday was an introduction to a more complex data set and relationships 
 
 #### Evaluation Comments:
 Notes: 
-- 102 tests all passing *EDIT by Nick: the spec harness had 102 tests, I had 206*
+- 102 tests all passing *EDIT by Nick: the spec harness had 102 tests, I had 206. Huzzah unit tests!*
 - spec passing
 - established a process
 - felt more comfortable with enumerables
@@ -135,7 +135,7 @@ The output from `rake sanitation:all` shows...
 * **4**: Zero complaints
 
 ## C: Group Work & Projects
-(complete me only - Laszlo)
+
 ### Projects
 
 ### Complete Me
@@ -171,9 +171,6 @@ could combine multiple methods into one
 * **4**: Application fulfills all base expectations and one extension
 
 
-#### Feedback from Laszlo:
-
-I very much enjoyed pairing with Nick on the Complete Me project. Nick has a strong work ethic and a very strong drive to deliver a high quality solution. Nick demonstrated great knowledge of GitHub and was great at sharing that knowledge as well as help me to improve with everything GitHub related. He is great at keeping a disciplined development approach that allowed us to build our project through iteration (test-code-refactor). I would be very happy to pair with Nick on any future projects and anybody who will pair with him will be very pleased with Nick’s value add to the success of any future projects.
 
 ## D: Professional Skills
 
@@ -255,11 +252,10 @@ partnering with him again.
 
 ### Being a Community Member
 
-D3 talk Lucy and I gave to Verou Posse
-(feedback to me)
-NE - e.g. helped your peers
+From Laszlo (Complete Me pair - *that sounds adorable*)
+I very much enjoyed pairing with Nick on the Complete Me project. Nick has a strong work ethic and a very strong drive to deliver a high quality solution. Nick demonstrated great knowledge of GitHub and was great at sharing that knowledge as well as help me to improve with everything GitHub related. He is great at keeping a disciplined development approach that allowed us to build our project through iteration (test-code-refactor). I would be very happy to pair with Nick on any future projects and anybody who will pair with him will be very pleased with Nick’s value add to the success of any future projects.
 
-feedback from Annie Wolff on GitHub help:
+Feedback from Annie Wolff on GitHub help:
 Nick, you are the first person I go to when I would like a thorough, un-judgmental 
 answer to a stupid question. You have a deep understanding of GitHub and have
 helped me right multiple gitastrophies. Each time I come to you with a problem, 
@@ -268,9 +264,7 @@ Thanks!
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
-
-gave a talk on D3 on the second week
+I would say the best example I could find for playing a part in this first module was the Intro to D3 talk I gave with Lucy to the Verou Posse.  It was a topic we are both interested in, and the posse was the perfect setting for a low-stress introduction to the topic with a friendly audience.  I appreciated the opporunity to stretch out from the Ruby cocoon of Module 1, pair with a motivated partner, and all dive in together to a topic none of us knew much about.  Looking ahead, I am definitely be interested in getting more involved with the posses here at Turing and (possibly) leading one during Module 3 or 4.
 
 ------------------
 
