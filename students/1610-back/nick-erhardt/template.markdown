@@ -23,22 +23,22 @@ Challenge: Option 2
 Scores:
 
 1. Ruby Syntax & API
-  * 4: Developer is able to write Ruby with a minimum of reference or debugging
+  * **4**: Developer is able to write Ruby with a minimum of reference or debugging
 
 2. Completion and Progress
-  * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+  * **3**: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 
 3. Testing
-  * 4: Developer excels at taking small steps and using the tests for both design and verification
+  * **4**: Developer excels at taking small steps and using the tests for both design and verification
 
 4. Workflow
-  * 4: Developer is a master of their tools, efficiently moving between phases of development
+  * **4**: Developer is a master of their tools, efficiently moving between phases of development
 
 5. Collaboration
-  * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+  * **4**: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 6. Enumerable & Collections
-  * 3: Application demonstrates comfortable use of appropriate Enumerable methods
+  * **3**: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ## B: Individual Work & Projects
 
@@ -58,16 +58,16 @@ Notes:
 * Memoization in loading dictionary which is sweet
 
 ##### 1. Overall Functionality
-* 2: Application implements iterations 0 - 3
+* **2**: Application implements iterations 0 - 3
 
 ##### 2. Fundamental Ruby & Style
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+* **4**:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
 ##### 3. Test-Driven Development
-* 4: Application is broken into components which are well tested in both isolation and integration
+* **4**: Application is broken into components which are well tested in both isolation and integration
 
 ##### 4. Breaking Logic into Components
-* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* **3**: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 #### Date Night
 
@@ -85,16 +85,16 @@ Notes:
 * Clean up file dependencies to run from top of project directory
 
 ##### 1. Test-Driven Development
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+* **3**: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
  
 ##### 2. Functional Expectations
-* 4: Application fulfills all base expectations and two extensions
+* **4**: Application fulfills all base expectations and two extensions
 
 ##### 3. Breaking Logic into Components
-* 3: Application consistently breaks concepts into classes which encapsulate functionality. (SRP).
+* **3**: Application consistently breaks concepts into classes which encapsulate functionality. (SRP).
 
 ##### 4. Fundamental Ruby & Style
-* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)  needs some refactoring, and is mostly idiomatic.
+* **3**:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)  needs some refactoring, and is mostly idiomatic.
 
 #### Black Thursday
 
@@ -114,23 +114,23 @@ Notes:
 
 ##### Evaluation Scores:
 ##### 1. Functional Expectations
-* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+* **3**: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
 ##### 2. Test-Driven Development
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+* **4**: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 ##### 3. Encapsulation / Breaking Logic into Components
-* 4: Application is expertly divided into logical components each with a clear, single responsibility
+* **4**: Application is expertly divided into logical components each with a clear, single responsibility
 
 ##### 4. Fundamental Ruby & Style
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+* **4**:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
 ##### 5. Enumerable & Collections
-* 4: Application consistently makes use of the best-choice Enumerable methods
+* **4**: Application consistently makes use of the best-choice Enumerable methods
 
 ##### 6. Code Sanitation
 The output from `rake sanitation:all` shows...
-* 4: Zero complaints
+* **4**: Zero complaints
 
 ## C: Group Work & Projects
 (complete me only - Laszlo)
@@ -155,19 +155,19 @@ could combine multiple methods into one
 
 ##### Evaluation Scores:
 ##### 1. Test-Driven Development
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
+* **4**: Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
 
 ##### 2. Encapsulation / Breaking Logic into Components
-* 4: Application always breaks concepts into classes and methods which encapsulate functionality.
+* **4**: Application always breaks concepts into classes and methods which encapsulate functionality.
 
 ##### 3. Fundamental Ruby & Style
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, refactoring, and extensively uses idiomatic code.
+* **4**:  Application demonstrates excellent knowledge of Ruby syntax, style, refactoring, and extensively uses idiomatic code.
 
 ##### 4. Enumerable & Collections
-* 4: Application consistently makes use of the best-choice Enumerable methods and collections
+* **4**: Application consistently makes use of the best-choice Enumerable methods and collections
 
 ##### 5. Functional Expectations
-* 4: Application fulfills all base expectations and one extension
+* **4**: Application fulfills all base expectations and one extension
 
 DTR: https://docs.google.com/document/d/10bR4P1cFi15NhzPXGgfmw6GChrDIf_feH8VtAb9xr-4/edit
 
