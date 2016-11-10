@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to become more proficient with vim and JavaScript and to learn React
 
 ## Rubric Scores
 
