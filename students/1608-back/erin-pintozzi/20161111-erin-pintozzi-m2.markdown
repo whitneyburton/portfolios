@@ -241,6 +241,8 @@ In this session we learned tips for structuring good cold outreach email includi
 
 ### Giving Feedback
 
+* Phyllis, I've really enjoyed pairing with you throughout this module. It's been really fun to experience all the things you're learning each week and to practice those skills with you. You do a great job of working through drills and tasks and knowing what things you'd like to work on when we pair to make good use of the time. You give code your full attention and thought to really understand why things happen the way they do which is a wonderful skill to keep practicing. I'm confident that with time you'll be flying through those drills because I've seen you learn so much over the last 6 weeks.
+
 * Ali, working with you has been a lot of fun and I've learned tons. I think we have a similar style of how we approach programming so working with you also felt very natural and easy. Your note-keeping, precision, and thoughtfulness toward our approach resulted in our group attaining higher quality project that I'm super proud of. Keep practicing not letting perfection drive out the good. You write great code and are awesome at refactoring, so I know this is something that you will easily keep improving while you knock out great projects.
 
 * Megan, what a great surprise to have the opportunity to together again on a group project. First off, I think we did sooo much better with the planning and workflow that we struggled with in Mod 1. You  make intentional decisions that help us get code right the first time, and you also have a persistence to help keep the team's head up and get things done. I'm sure you experienced moments of frustration, but honestly, it never really showed which is an unbelievable quality to have on a team and one that I think would make you an excellent team leader.
@@ -249,6 +251,9 @@ In this session we learned tips for structuring good cold outreach email includi
 
 
 ### Being a Community Member
+
+* Erin Pintozzi has been a stalwart pair partner for me throughout module 1.  She consistently sacrificed her lunch break so she could assist me with course material.  
+Calm, patient and incredibly focused we painstakingly worked through drills and course material until I got it.  She has an easy way of breaking down complex principles into their smallest components.  We have paired a great many times throughout the module, with an open invitation to work on the material more in depth at anytime.  She is always  enthusiastic and eager to impart what she knows.  I once mixed up schedules and left her hanging, unperturbed she just arranged for another session later in the week.  I am so grateful for all she has given me by way of teaching. - Phyllis Hugunien
 
 * Erin was such a great partner in this module. We worked together on Little Shop, and she was our fearless project manager. I learned a lot watching her work and am so glad for that opportunity. We were also both in the Bezos possee, and I again was glad to have the chance to learn from her. She is always willing to offer her opinion but also super open to hearing from other people. I will miss working with her on Little Shop, but I'm glad that we will have the chance to still work together in other ways in the future! - Megan Talbot
 
