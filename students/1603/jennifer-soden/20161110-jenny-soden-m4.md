@@ -372,8 +372,14 @@ I enjoyed this session and learned which type of blog posts and just writing in 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Great module
+* Big improvements throughout time at turing
+* IdeaBox wasn't awesome - but acceptable - big improvements to the final. 
+* Solid throughout the module - no huge successes or failures
+* Great work on Support channel
+
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
