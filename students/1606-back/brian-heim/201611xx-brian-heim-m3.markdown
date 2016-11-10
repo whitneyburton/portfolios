@@ -224,23 +224,25 @@ I got the opportunity to shadow the developers at Trelora for an afternoon with 
 
 ### Gear Up
 
-I really enjoyed Gear Up this module, especially the last Gear Up: CODE:Debugging the Gender Gap. CODE was especially significant for me because I gained new perspective that I had not been aware of before. I have a fiance in tech and hear about some of these issue from her, but didn't realize all the ways that I can personally help fix the problem until this Gear Up.
+#### Introversion and Extroversion on Teams
 
-Overall I learned alot about myself and my fellow Turingites during these sessions, and engaged in very meaningful discussions regarding these thought-provoking topics: 
+I liked discussing this Gear up with our Cohort and Instructors. It was cool to see which personality type my fellow classmates identified with, and how they felt based on that criteria. I learned alot about myself as well, very valuable session.
 
-#### Getting Better At Difficult Things
-
-* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
+* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
 
-#### There Is An I In Team
+#### Vote Your Conscience
 
-* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
+I thought this was a thought provoking session, maybe not as valuable as the other Gear Ups, but it fostered a great discussion. Being an election year, it was relevant and interesting to see how others viewed voting.
+
+* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
 
-#### CODE:Debugging the Gender Gap
+#### Resilience
 
-* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+This was a good Gear up as well. The discussion our group had was meaningful and productive. I learned alot about the people in my group and the struggles they have ahd to overcome.
+
+* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
 
 ---
