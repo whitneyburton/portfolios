@@ -33,20 +33,18 @@ Keeping my final goal in mind (create great tools to make the world better) real
 The goals of this module were the appropriate use of basic Ruby, have a correct Ruby style and focus on Test Driven Development. Please see below the scores and summaries of my individual projects in module 1.
 
 ## Mastermind
-
 * GitHub URL: https://github.com/pixapi/mastermind.git
 * Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown
 
+### Description
 Mastermind project consists in creating a game where the user tries to guess a randomly created four digit password which can contain the letters G (green), B (blue), Y (yellow) and R (red). After every try the user is informed if the guess was correct and equals the password or otherwise how many letters in the right position or different position are in the user guess compared to the password. The user can keep playing or quit the game as well as choose cheat to see the answer. When the user guesses the password, how many tries and how long it took is provided. The project includes a code generator, a REPL, a counter to track times and time and several complex methodsto evaluate the input versus the password
 
 ### Evaluation Comments:
-
 Got a little turned around when trying to pull together multiple classes
 Separate the files better into lib and test and delete inactive files
 TDD could be stronger and test things that need to be tested, not just simple things
 
 ### Evaluation Scores:
-
 #### 1. Test-Driven Development
 1: Application does not demonstrate strong use of TDD
 
@@ -104,11 +102,9 @@ This project was part of a special continuous evaluation program.
 # C: Group Work & Projects
 
 ## Projects
-
 This section will display the pair projects that we did during module 1. The main learning goals are the technical knowledge and use of Ruby but also and as important as is how to work with somebody in a project. In order to perform well working in pairs, there is an initial discussion called DTR (Define the Relationship) where pairs talk about how are their styles to work, schedules and other factors that condition their good performance; at the end of the discussion they achieve a compromise and determine some rules for a good workflow.
 
 ## Night Writer
-
 * GitHub URL: https://github.com/jdconrad89/nightwriter
 * Original Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
 
@@ -179,89 +175,77 @@ Amy is one of the best people that I have worked with. She is not only smart and
 The goals of these sessions is to improve our soft skills such as communication, personal branding, being a good team member or resilience. They also provide a reflective space to discuss civics and other topics as people, citizens and professionals.
 
 ## Gear Up 
-#Vote Your Conscience #
+###Vote Your Conscience #
 https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown
 
 The session "Vote Your Conscience" made me think deeper that voting is not only a right but that is part of being a citizen because as it is stated citizens have the responsibility to participate in the democratic process and stay inform of issues in the community. I mean, I knew that it's the right thing to do but I never saw it as a inherited duty for all when becoming citizens so I found it a very powerful argument. In addition to that, I enjoyed the discussion in our group about what were the different perspectives that we had in elections and how each of us were looking at different aspects when evaluating candidates. I feel that sometimes we hang out with similar people to us and it's a learning experience to hear about other people with different believes, approaches and ways to see politics, topics such as foreign policy, tax policy, gun control or other controversial issues.
 
-#Introversion and Extroversion on Teams#
+###Introversion and Extroversion on Teams
 https://github.com/turingschool/gear-up/blob/master/introversion.markdown
 
 That was an opening-eye session for me. 
 
-#Resilience#
+###Resilience#
 https://github.com/turingschool/gear-up/blob/master/resilience.markdown
 !!!!******** PENDING TO DO THIS, POSITIVE THAT I WROTE ABOUT IT SOMEWHERE, CHECK NOTEBOOK AND FILES IN MY LAPTOP ******!!!!!!
 
-### Professional Development Workshops
+When I think of resilience, I think of a person who is tenacious and keeps positive in spite of the circumstances. I didn’t know that resilence can be learned. It was interesting to know the approach of resilience, while some of us thought more in physical conditions other considered. The career to be a programmer consists basically in solving problems so you need to be ready to face them and constantly evaluate what you can do instead of complaining of what went wrong. Leaving your comfortable bubble, traveling to very different places than you are use to, surround yourself from people more knowledgeable in a subject than you, learning new skills, thinking about a problem differently. Help people find their solutions instead of giving them the answers, being empathetic with others, helping another student to break big problems into smaller pieces, celebrating the small wins, helping people recognize what they do well, encouraging people think positively, ask them to think of the worst thing that can happen in their life so they realize that the problem that they’re facing is probably much smaller than they initially thought. Another way to build resilience is to get inspired with stories of people that were in a much worse situation and they finally thrive.
 
-#Personal Branding Part I
+## Professional Development Workshops
+
+### Personal Branding Part I
 https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md
 Link to Completed Deliverables:
 * Resume: https://turingschool.slack.com/files/pixapi/F2ZLU2N5C/resume_lovato_1610.pdf
 * LinkedIn Profile: https://www.linkedin.com/in/amaralovato
 * Twitter Account: https://twitter.com/amaralovato
 * GitHub Profile: https://github.com/pixapi
-Takeaways from session: ******** !!PENDING, SEE NOTEBOOK page 8 ***
+Takeaways from session: 
+I found especially inspiring the approach of branding ourselves as telling a consistent story about us. Many times we see branding as something superficial or trying to project a perfect image but reflecitng about it, I understand that is more to make people know us and of course, enhance the best of us. Our brand is not only our resume or dressing elegant for our interview, we define who we are by many ways (such as when using Twitter, our LinkedIn profile or when attending a conference) so we need to be wise and behave appropriately if we want to create a good impression as a whole.
 
-#Personal Branding Part II
-* ****** WE DIDN'T DO PERSONAL BRANDING P2, RIGHT? *********
-
-# Learning to Pair
+### Learning to Pair
 https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md
 Link to Completed Deliverables:
 * DTR Memo: https://turingschool.slack.com/files/pixapi/F2Z1F5NJW/dtrforamyandamara.pdf
-Takeaways from session: ******** !!PENDING *********
+Takeaways from session: 
+Having a conversation before starting to work on a project with your pair is crucial for having a good experience. Some of the aspects that should be discussed are what time both work better, what are your strenghts and concerns about the project, what are your learning goals and what can help you or stop you from being successful in the project. Once each part has shared their perspective, the goal is to define a guideline that works for both and to use during the pair project period.
 
-#Feedback I
+### Feedback I
 https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md
 Link to Completed Deliverables:
 Please see Feedback section in portfolio for feedback for and from project partner.
-Takeaways from session: ******* !!PENDING, SEE NOTEBOOK page 73 ***
-
-This too?
-#StrengthFinder
-
-#Tech language (I have notes in my notebook 38page)
-
-#Academic Integrity I have notes in my notebook 46page)
-
-#Pairing Patterns page 58
-
-#Dynamics(Drive, what motivates you) page 59
+Takeaways from session: 
+How to provide good feedback is an important thing to know how to do and I feel that talking about it outloud help us to realize many things of ourselves that we weren't aware of. Feedback should start recognizing the good things and when going through the things that can be better, it's advisable to be said in a constructive way by providing solutions so people don't feel receiving a problem but a way to improve. 
 
 # E: Feedback and Community Participation
 
 ## Giving Feedback
-
-To Edilene Cruz:
+#### To Edilene Cruz:
 Edilene, your incredible resilience and hard work are an inspiration to me. Your always positive and encouraging attitude made many of us keep moving forward in this challenging experience. You are a very caring person with a big heart, always asking us how we were doing and sharing with us resources and even pairing sessions in your committed will to help us. I am positive that you will be successful in your goal to become a great developer because you are not only smart and resourceful but also a one-of-a-kind team member.
 
-To Annie Wolff:
+#### To Annie Wolff:
 Annie, I love that you are always eager to help us and you have a unique way to do it. You are always active listening (never assuming things), you support us to find the solutions for ourselves, you never use advance words that can make us feel behind and you have always nice words to encourage us. You are an advance coder but always humble so that makes you even better from my perspective. Your cheerfulness and energy in the group makes a big positive difference, you make us laugh with your authenticity and fresh personality. You are a great human asset for the Turing community, I see you in the soon future becoming a great programmer and an awesome mentor. I feel very lucky to have met you!
 
-To Caroline Powell:
+#### To Caroline Powell:
 Caroline, your confidence and will to make a positive change in the world are impressive. I love that you never accept things how they are but find ways to make them awesome. You are creative but in a practical way, you are not a dreamer, you are a doer and I'm sure that you will succeed in your entrepreneurial and transformative ideas. Having you in Turing will make the experience much more powerful in a learning and human perspective. Being so ambitious, hard-working and smart, I can only envision for you a brilliant career.
 
-To Nick Gheorghita:
+#### To Nick Gheorghita:
 Nick has a friendly and positive attitude all the time and people like help to make any stressful moment better. He provides a very good vibe for our group and he is always ready to help and give nice encouraging words. I'm glad that he is our cohort, he is a very nice person to interact with and a good team member.
 
 ## Being a Community Member
-
-From Edilene Cruz:
+#### From Edilene Cruz:
 Amara, your positivity is absolutely contagious and your desire to strenghthen the student community is amazing! During the hardships that learning something new brings, you were always there to encourage and remind me the ultimate goal of this amazing, crazy and long road we are on. I hope that I will have the chance to work with you in a project and continue to share a little bit of our cultures through food like we did this module. Keep spreading positivity!
 
-From Marlo Major:
+#### From Marlo Major:
 I've been working with Amara for several weeks now and I have to say I am super proud of how far she's come. Initially, there was the typical Turing module one worry that everyone goes through, but over time, it's been great to see her take this stress and use it as a strength. It's been great watching her go from "I don't know what I'm doing at all" to a well written test suite, 100% test driven project, and a clearly written, easily maintainable project. One critique I have for Amara is that she tends to have too much caution when it comes to writing code or giving an answer to a problem.  It would be nice if she eventually learned how to throw caution to the wind and dig in, failing possibly but also learning what works and what doesn't faster. It's been an immense pleasure mentoring Amara. It's actually one of the things I'm most proud to have ever contributed to the Turing community. It had excited me to take on more students in the future, which I certainly plan on doing!
 
-From Annie Wolff:
+#### From Annie Wolff:
 Amara, your dedication to learning the material is almost unmatched in our cohort. Even when you are frustrated, you persevere in your effort to understand and master ruby. Moreover, you are able to look past current struggles and see many learning opportunities that you go after with gusto. You do not accept the status quo and your efforts to grow and change consistently improve the experience of your peers. You're a natural leader and I feel fortunate that I get to work with you everyday.
 
-From Caroline Powell:
+#### From Caroline Powell:
 Amara is so inspiring to be around. She is great at bringing people together and making our time at Turing enjoyable for everyone. She is full of new ideas and will be a great addition to any company culture that she's thrown into because she has the ability to excite and motivate others.
 
-# Playing a Part
-
+## Playing a Part
 I do my best trying to encourage the group (my cohort) to get together every Thursday after wrap up to celebrate that we made it one more week as a way to keep ourselves motivated to move forward. I also actively participate in the cohort retro and surveys providing new ideas and constructive feedback to make Turing experience even better. In order to strengthen the team sense,
 several times to create a list of tech topics that we knew and others that we wanted to learn about. Then we surveyed the rest of our cohort to find out which of
 those tech topics people were interested in and if others. We presented it to Alison and she suggested that creating a new posse to go through these topics and
