@@ -8,7 +8,7 @@ The module got off to something of a rough start with a difficult first project 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: TBD
+* **A: End-of-Module Assessment**: ~3 9(see below)
 * **B: Individual Work & Projects**: 3 (I feel that my individual work was strong, but due to time constraints, I feel that I did not put forth my best efforts on the small styling projects.)
 * **C: Group Work & Projects**: 3 (I grew as a teammate this module, but a teamwork issue with one of the projects reminded me that I still have a ways to go in this area.)
 * **D: Professional Skills**: 3.5 (I feel much more comfortable about my efforts this mod than last mod; my company tracker is a useful tool and I wrote a couple of cold emails and went to a meetup.)
@@ -18,7 +18,25 @@ The module got off to something of a rough start with a difficult first project 
 
 ## A: End of Module Assessment
 
-TBD
+## Evaluator: Taylor
+## Notes:
+
+### Progression/Completion
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+#### JavaScript Style
+
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+### Workflow
+
+* 3.5: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+### Collaboration
+
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
 
 ## B: Individual Work & Projects
 
