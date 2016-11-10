@@ -6,11 +6,11 @@ My primary goals for the module are to learn as much as I can and be an effectiv
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4 
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -241,8 +241,9 @@ I am proud of the ways that I was able to support some of my classmates on proje
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Nice gear up write-up
+* technical pieces are going well, would like to see more community participation such as tutoring
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PROMOTED 
