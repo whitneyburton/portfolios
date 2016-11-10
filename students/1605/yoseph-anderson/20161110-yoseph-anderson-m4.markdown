@@ -251,8 +251,8 @@ Eric Wahlgren-Sauro
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Scale up needs work to complete - deliver scale up.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending scale up deliverables
