@@ -178,7 +178,6 @@ Scores:
 * 4: Zero complaints
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Vote Your Conscience
@@ -239,7 +238,7 @@ Daniel was a great partner. He is a strong programmer and led the way through st
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I tried my best to support Turing's mission by attending events and making sure to be an active participant during Gear Up sessions. Module 1 was extremely challenging for me and I found myself having to focus most of my time on coding. I definitely think I could've done a better job and I plan to do so in the upcoming modules.
 
 ------------------
 
