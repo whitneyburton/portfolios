@@ -181,30 +181,37 @@ Scores:
 ### Gear Up
 #### Vote Your Conscience
 
-GitHub URL: https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown
+Markdown: https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown
 
 It is my duty as a citizen of the U.S. to vote and make sure that I am informed when I do so. It's important to consider all reputable sources when researching to ensure that I have the complete picture. Moving forward, I plan to consider the viewpoints of those who disagree with me instead of dismissing them. It's easy to accepts others when they feel the way you do but the only way we can move forward is to attempt to understand those who are not like us.
 
 #### Introversion
 
-GitHub URL: https://github.com/turingschool/gear-up/blob/master/introversion.markdown
+Markdown: https://github.com/turingschool/gear-up/blob/master/introversion.markdown
 
 As an introvert who has always struggled to fit in, the thought that the world is designed in a way that favors extroverts has crossed my mind before. I've learned to use it as an asset instead of viewing it as a hindrance. I try to leverage the strengths that come with it whenever I interact with others. I also try to make a concerted effort to accommodate others to ensure that everyone feels comfortable no matter their level of extraversion.
 
 #### Resilience
 
-GitHub URL: https://github.com/turingschool/gear-up/blob/master/resilience.markdown
+Markdown: https://github.com/turingschool/gear-up/blob/master/resilience.markdown
 
 In all honesty, I hadn't given a lot of thought to resiliency before this gear up session. Once I reflected on it, I realized that it helped me overcome many of the obstatcles that I encountered growing up in an underpriviledged community. I think that it's important to develop resilience as an individual because no matter where you come from at some point you're going to be faced with adversity and how you respond will determine whether you can overcome it.
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Personal Branding
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* Markdown: https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md
+* LinkedIn: https://www.linkedin.com/in/daniel-rodriguez-00
 
-(takeaways from session)
+#### Learning to Pair
+
+* Markdown: https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md
+* DTR: https://gist.github.com/MarisaMBurton/c2ee89e50f5de3b8dc4d451fa4fc3b2e
+
+#### Feedback
+
+Markdown: https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md
 
 ## E: Feedback and Community Participation
 
