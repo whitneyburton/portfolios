@@ -34,6 +34,7 @@ For this project, I built a binary search tree to store movie reccomemendations 
 
 The program features methods that can insert individual movies, as well as load entire text files. It can also query the tree to determine the maximum and minimum values, as well as whether a particular rating is already in the tree and its depth within it.
 
+Assessed By: Beth Sebian
 Notes:
 
 + More testing needed, tests written demonstrate basic grasp of testing principles, but coverage is insufficient
