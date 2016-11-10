@@ -80,16 +80,6 @@ The main goals for __Rails Engine__ was to develop a Ruby on Rails application b
 ---
 ## D: Professional Skills
 
-### Deliverables
-#### Technical Blog Post
-
-* [No Blog Posted this module]()
-
-#### Lightning Talk
-
-* [Search Inside Yourself - A look inside of Google's Mindfulness Program](https://drive.google.com/file/d/0BxWHY2WfMQDgMWpYN3MxazU2VUU/view?ts=57e3d3da)
-
----
 ### Gear Up & Reflection
 
 __Election Day__ I appreciated talking about the duty of citizens to vote. Jorge did a great job facilitating the conversation. 
