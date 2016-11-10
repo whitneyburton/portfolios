@@ -58,7 +58,7 @@ The two individual projects that I worked on during Module 1 (Date Night and HTT
 
 Repo: https://github.com/drod1000/Date-Night
 
-* Date Night stores movies according to their score by using a binary search tree
+Date Night stores movies according to their score by using a binary search tree
 
 Notes:
 
@@ -89,7 +89,7 @@ Scores:
 
 Repo: https://github.com/drod1000/http
 
-* HTTP builds a functioning web server
+HTTP builds a functioning web server
 
 Scores:
 
@@ -113,7 +113,7 @@ The two pair projects that I worked on during Module 1 (Nightwriter and Black Th
 
 Repo: https://github.com/Sh1pley/nightwriter
 
-* Nightwriter converts text files from english to braille and back
+Nightwriter converts text files from english to braille and back
 
 Notes:
 
@@ -143,6 +143,8 @@ Scores:
 Assessed By: Beth Sebian
 
 Repo: https://github.com/drod1000/black_thursday
+
+Black Thursday builds a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business
 
 Notes:
 * Beautiful testing suite, nice balance of integration and unit testing
