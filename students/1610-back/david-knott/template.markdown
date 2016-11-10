@@ -13,7 +13,7 @@ I set out to learn as much as I could here at Turing.  I learned about ruby, pro
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 4
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
