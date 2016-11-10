@@ -138,7 +138,17 @@ This topic got me thinking a lot about my past life experiences and how I can re
 
 ### Professional Sessions
 
-Personal Branding I: The resume/cover letter workshop was really helpful. I updated my cover letter and rebuilt and redesigned my resume as well as created a LinkedIn page following the advice given. It made me take a more analytical approach to how I represent and brand myself to stand out from other software developers. The session motivated me and got me excited about the possibilities outside of Turing. I completed my LinkedIn profile  and will continue to update it with my relevant skills once I learn more. I'm still wondering how much of my past work experience I should put on my LinkedIn profile vs putting it on my resume, as I prefer to focus on my software-developer-experience on my LinkedIn profile. I will seek advice concerning this. LinkedIn profile: https://www.linkedin.com/in/marisa-burton-14281a130?trk=hp-identity-name 
+#### Personal Branding I
+https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md
+The resume/cover letter workshop was really helpful. I updated my cover letter and rebuilt and redesigned my resume as well as created a LinkedIn page following the advice given. It made me take a more analytical approach to how I represent and brand myself to stand out from other software developers. The session motivated me and got me excited about the possibilities outside of Turing. I completed my LinkedIn profile  and will continue to update it with my relevant skills once I learn more. I'm still wondering how much of my past work experience I should put on my LinkedIn profile vs putting it on my resume, as I prefer to focus on my software-developer-experience on my LinkedIn profile. I will seek advice concerning this. LinkedIn profile: https://www.linkedin.com/in/marisa-burton-14281a130?trk=hp-identity-name 
+
+#### Learning to Pair
+https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md
+I thought going over the DTR was useful. I tend to be shy and not as open when expressing my opinion, and the DTR forces me into a rather uncomfortable place in a good way. It was good to review my strengths and weaknesses in a comfortable environment.
+
+#### Feedback I
+https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md
+I really liked the three forms of feedback, as nothing happens in a vacuum. I think when giving feedback in a professional enviornment, you have to throw away the emotional baggage and always make sure to express your opinion in a kind way, never letting things build up until they reach a point where things are out of control. Thers is always a nice way to give constructive feedback, focusing on the positive and a person's strengths rather than their weaknesses.
 
 
 ## E: Feedback and Community Participation
