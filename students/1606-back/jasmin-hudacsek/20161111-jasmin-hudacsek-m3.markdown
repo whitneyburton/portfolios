@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-FILL ME IN
+For this module, I plan on really understanding advanced ActiveRecord queries and how to make them more efficient. I'm also super excited to start really digging into APIs and how to use them to build professional Rails applications. As a personal goal, I'd like to focus a bit on server management and DevOps, too.
 
 ---
 
@@ -48,12 +48,12 @@ Feedback from Lauren:
 
 Individual projects I completed:
 
-### APIcurious
+### APIcurious - Github Clone
 
 * [GitHub URL](https://github.com/j-sm-n/apicurious)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
-__APIcurious__ description.
+__APIcurious__ was a self-directed project that allowed us to really dig deep into an API for the first time. I chose to make a basic Github clone.  
 
 ---
 
@@ -62,7 +62,44 @@ __APIcurious__ description.
 * [GitHub URL](https://github.com/turingschool/deck)
 * [Website]()
 
-__Description__ of project goes here.
+__Deck__ was an open source issue ticket tracking software currently being used in production by [Ivaldi](https://ivaldi.nl/) that I took over. Currently running on Devise, Google OAuth and Letter Opener, my task was to replace all of those with the Slack API.
+
+Assessor: Sally MacNicholas
+
+Notes:
+* Great job! Love that took a big risk.
+* Had decent coverage, discussed importance of TDD
+* Code is really clean and broken out well. Little room for improvement in the
+ sessions controller, but not bad.
+* Able to discuss went well and where to improve in future projects
+
+**1. Completion**
+
+* 3.5: Developer completed all the user stories and requirements set by the client.
+
+**2. Organization**
+
+* 4: Developer used a project management tool and updated their progress in real-time.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 3: Project shows adequate testing (90% - 95% coverage).
+
+**2. Code Quality**
+
+* 3.5: Project demonstrates solid code quality and MVC principles.
+
+### Product Experience
+
+**1. User Experience**
+
+* 4: Project exhibits a production-ready and polished UX.
+
+**2. Performance**
+
+* 4: Project pages load on average under 300 milliseconds.
 
 ---
 
@@ -76,8 +113,6 @@ Working in groups, I completed the following projects this module:
 
 * [GitHub URL](https://github.com/kctrlv/rails_engine)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
-
-__Rails Engine__ description.
 
 Feedback from Andrew:
 
@@ -135,8 +170,6 @@ Good use of joins and some advanced ActiveRecord queries, but some Ruby `merchan
 
 * [GitHub URL](https://github.com/tgisg/filedrop)
 * [Heroku URL](https://filedrop-v1.herokuapp.com/)
-
-__Cloney Island__ description.
 
 ### Completion
 
@@ -239,19 +272,19 @@ I have to extend a huge amount of gratitude about how much patience Matt has sho
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
-__Description__ of feedback
+This gear up was fun because we got to read a couple of articles that made me think and reevaluate how I feel about voting or not voting during an election. The discussions were short, but that made them have to be pertinent, in order to get our points across. It was a good gear up.
 
 #### Introversion and Extroversion on Teams
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-__Description__ of feedback
+This gear up was great because we were able to have it within our own cohort. We talked about introverts and extroverts and I learned more about a couple of introverts in my class, and realized how working in groups was a much much different experience for them, than it was for me. I made me rethink how I should treat and accept people during group work, because of the way they might be feeling about it, if they are an introvert.
 
 #### Resilience
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-__Description__ of feedback
+This gear up really solidified a term that I never really related to my life. In my life I have been very resilient, but I never knew that's what it was. Now, I know what it is, and me and my group talked about techniques to be more resilient in my every day life.
 
 ---
 
@@ -259,7 +292,7 @@ __Description__ of feedback
 
 ### Golick Posse
 
-- WRITE ABOUT THIS - something valuable I've taken away from my posse
+- This module, we really focused on technical prep and I took away some great knowledge for the real world. I'm also really excited to be the head posse lead next module, and I plan on giving Golick a little revamp to get people excited about it again.
 
 ---
 
