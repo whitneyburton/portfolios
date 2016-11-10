@@ -238,6 +238,9 @@ I believe that I would benefit from working at a smaller company.  I like the id
     - Personal brand may not be unique or special
     - So many people apply for the same position
 
+### Blog Post
+[From Ruby to Swift](https://medium.com/@matthewrpacker/from-ruby-to-swift-cc2d02cff93d#.mmutgd4mt)
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
