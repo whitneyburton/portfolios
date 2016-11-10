@@ -170,16 +170,14 @@ could combine multiple methods into one
 #### 5. Functional Expectations
 * **4**: Application fulfills all base expectations and one extension
 
-DTR: https://docs.google.com/document/d/10bR4P1cFi15NhzPXGgfmw6GChrDIf_feH8VtAb9xr-4/edit
-
-Pairing on a project felt very comfortable for me.  In my last job I did a small amount of work with the developers and certainly was familiar with the idea of pair programming and what the mechanics were.  However, I had no idea what it would be like to pair with one of my classmates for the first time.  I knew we would be stumbling through not only the mechanics and strategies of *how* to pair effectively, but also adding the challenges of using git effectively on our own and tackling an algorithm which was difficult for both of us to solve.  In the end, I feel like my partner and I complimented each other quite well with our individual strengths and weaknesses, and I believe our assessment shows the result of a successful partnership.
 
 #### Feedback from Laszlo:
 
 I very much enjoyed pairing with Nick on the Complete Me project. Nick has a strong work ethic and a very strong drive to deliver a high quality solution. Nick demonstrated great knowledge of GitHub and was great at sharing that knowledge as well as help me to improve with everything GitHub related. He is great at keeping a disciplined development approach that allowed us to build our project through iteration (test-code-refactor). I would be very happy to pair with Nick on any future projects and anybody who will pair with him will be very pleased with Nick’s value add to the success of any future projects.
 
 ## D: Professional Skills
-(Intro)
+
+This module we had Gear Ups on resiliency, introversion v. extroversion, and (appropriately) voting.  Our professional skills seminars focused on personal branding (or how I stopped worrying and love LinkedIn), pairing, and feedback (giving and receiving).  I feel that the Gear Ups were excellent opportunities to talk about the other aspects that affect success at and after Turing (like resiliency).  And they were a great chance to roll the sleeves up and have intelligent debates with my peers.  Turns out, the folks here are both well-informed and have diverse backgrounds and perspectives - which leads to truly challenging, and enjoyable, conversations.  The professional skills seminars were especially helpful when it came to formally defining the relationship for pairing and giving/receiving feedback.  These feel like truly valuable techniques that we'll continue to hone and develop throughout our careers.
 
 ### Gear Up
 #### Resiliency
@@ -198,7 +196,7 @@ The Gear Up on introverts and extroverts was especially helpful because of the r
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+What I found most interesting about the voting Gear Up was one person who shared their decision that they would not be voting and the reason behind it.  While I personally didn't agree with that decision, it highlighted that voting, while it might feel mandatory, is truly a choice.  And that succinctly demonstrates how democracy allows you to be as involved as you want, and with that involvement comes an oportunity to change, and yes, criticize the current system.
 
 ### Professional Development Workshops
 #### Personal Branding
@@ -214,11 +212,15 @@ My takeaways from the professional development session were about how to represe
 
 [Learning to Pair](https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md)
 
+DTR: https://docs.google.com/document/d/10bR4P1cFi15NhzPXGgfmw6GChrDIf_feH8VtAb9xr-4/edit
+
+Pairing on a project felt very comfortable for me.  In my last job I did a small amount of work with the developers and certainly was familiar with the idea of pair programming and what the mechanics were.  However, I had no idea what it would be like to pair with one of my classmates for the first time.  I knew we would be stumbling through not only the mechanics and strategies of *how* to pair effectively, but also adding the challenges of using git effectively on our own and tackling an algorithm which was difficult for both of us to solve.  In the end, I feel like my partner and I complimented each other quite well with our individual strengths and weaknesses, and I believe the quality of our project shows the result of a successful partnership.
 
 #### Feedback
 
 [Feedback](https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md)
 
+This might have been my favorite professional skills session.  While we all ackowledge that feedback is truly important, in so many aspects of our lives, not just programming, I feel that it's challenging to develop the skills to generate a positive outcome from the feedback we recieve.  However, learning techniques which lay out a constructive process for *how* to not just give but also *receive* feedback was tremendously helpful.  After this session, my partner from Complete Me and I had a second, more in-depth conversation about pairing on the project, and we were able to get to more useful feedback that each of us could act on. 
 
 ## E: Feedback and Community Participation
 
