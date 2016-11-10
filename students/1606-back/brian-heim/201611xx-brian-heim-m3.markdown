@@ -252,33 +252,11 @@ This was a good Gear up as well. The discussion our group had was meaningful and
 
 * [https://gist.github.com/bheim6/ede248d348a259ae11754f2c2e622e88]
 
-#### Finding Opportunities with Lia
+#### Job Search Strategies
 
-* [Link to 10 interesting companies](https://gist.github.com/bheim6/ed3be7c390d1583c058745899e568434)
-
-I learned alot about branding myself in the tech industry but really took away alot of information and tips for communicating and presenting myself professionally on social media. I already use LinkedIn but will now use Twitter as well to network and communicate with others in the industry. I also wrote down tips for keeping GitHub "clean" and also buffing it up with things like a personal site and a professional picture.
-
-#### Collaborative Communication with Allison
-
-1 - Details on project management strategies you used in your projects Rush Hour and/or Little Shop); What went well? What didn’t go well?
-
-##### The Good
-* We used Waffle extensively as a project management tool during both Rush Hour and Little Shop. It was very helpful to keep track of the work that still needed to be done and organized it in a nice way that also integrates with GitHub.
-* We instituted regular check-ins that kept everybody on the same page and aware of each team members' unique schedule and personal needs
-* We kept communication lines open and welcome, which made discussing issues and being held accountable both respectful and actionable
-
-##### The Not-As-Good
-* I learned that I am not the best Project Manager. I enjoy using the tools and find them very helpful, but can sometimes forget to incorporate the tools into my regular workflow
-
-2 - How you incorporated feedback from your team members and what you learned about yourself in the process.
-
-I received some really meaningful feedback from my Rush Hour group that I can sometimes make guesses instead of making a better hypothesis whether or not a certain action will work. I found this to be very valuable and took this feedback to heart. I let my Little Shop group know that if I start going down that rabbit hole, to call me out on it. Luckily, just being aware of this trait has helped me notice when I am doing it. Recently I have been catching myself before it even becomes an issue. 
-
-I have always valued feedback and encouraged it, there will always be more things that I can do to improve myself.  
-
-#### Networking with Lia
-
-I liked that we had to practice networking in this lesson. It really gave us some good practice before the Denver Startup Week job fair and helped me organize my "about me" shpiel by using "Who are you", "How did you get here", and "What's next?" as guidelines to drive the conversation.
+* Daily: Research companies and reach out to contacts (5), keep up Ruby/JS skills, learn new techniques
+* Weekly: Attend MeetUps and Networking events, arrange informal meetings with contacts (1-3)
+* Monthly: Turn meetings into Interviews, work with my mentor to practice technical interviewing skills
 
 ---
 
