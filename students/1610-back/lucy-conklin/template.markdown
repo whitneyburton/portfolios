@@ -20,7 +20,30 @@ Reach Goal: ...everyone in the 1610 front-end cohort as well.
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+#### 1. Ruby Syntax & API
+
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
+
+#### 2. Completion and Progress
+
+* 4: Developer fully completes baseline assignment and one of the Challenge options.
+
+#### 3. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+#### 4. Workflow
+
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### 5. Collaboration
+
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+### 6. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 ## B: Individual Work & Projects
@@ -40,13 +63,13 @@ Assessed By: Beth Sebian
 * Opportunities to refactor, extract functionality from long methods
 * Overall sound implementation, just needed to get further and refactor
 
-Test-Driven Development/ 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+Test-Driven Development/ **3:** Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-Functional Expectations/ 2: Application is missing one base expectation
+Functional Expectations/ **2:** Application is missing one base expectation
 
-Breaking Logic into Components/ 2: Application makes use of some classes, but the divisions or encapsulation are unclear.
+Breaking Logic into Components/ **2:** Application makes use of some classes, but the divisions or encapsulation are unclear.
 
-Fundamental Ruby & Style/ 2: Application runs but the code has many long methods (>8 lines), has poorly named variables, needs significant refactoring, and is somewhat idiomatic.
+Fundamental Ruby & Style/ **2:** Application runs but the code has many long methods (>8 lines), has poorly named variables, needs significant refactoring, and is somewhat idiomatic.
 
 #### HTTP
 
@@ -63,13 +86,13 @@ Assessed By: Mike
 * in the server, there are a few methods which are doing entirely too much - think about how you would pull them out
 * used a hash to store the dictionary, very efficient lookup
 
-Overall Functionality/ 2: Application implements iterations 0 - 3ting Iterations 0-5
+Overall Functionality/ **2:** Application implements iterations 0 - 3ting Iterations 0-5
 
-Fundamental Ruby & Style/ 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+Fundamental Ruby & Style/ **3:** Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
-Test-Driven Development/ 3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
+Test-Driven Development/ **3:** Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
 
-Breaking Logic into Components/ 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+Breaking Logic into Components/ **3:** Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 ## C: Group Work & Projects
 
@@ -95,15 +118,15 @@ Assessed by: Jeff
 * Keep the "language" of the app consistent unless it needs to be different
 * Spec harness passes
 
-Test-Driven Development/ 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+Test-Driven Development/ **3:** Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-Encapsulation / Breaking Logic into Components/ 3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+Encapsulation / Breaking Logic into Components/ **3:** Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
 
-Fundamental Ruby & Style/ 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
+Fundamental Ruby & Style/ **3:** Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
 
-Enumerable & Collections/ 3: Application makes use of appropriate Enumerable methods and collections
+Enumerable & Collections/ **3:** Application makes use of appropriate Enumerable methods and collections
 
-Functional Expectations/ 3: Application fulfills all base expectations
+Functional Expectations/ **3:** Application fulfills all base expectations
 
 (From Ann Wolff)
 Lucy, you were a very patient partner and an absolute pleasure to work with. You're an amazing active listener who can be present enough in a pairing to catch typos as well as major flaws in logic. Your positive attitude makes even challenging situations bearable. Moreover, your creativity means that your solutions to problems are ingenious and always entertaining. You have a lot of passion for exploring new ideas and I can't wait to see you implement these ideas in the community!
@@ -116,9 +139,25 @@ Lucy, you were a very patient partner and an absolute pleasure to work with. You
 
 In this project we created some very real data analytics for some merchant/customer data. We integrated many classes and files, mock testing, modules, reading files from csv, and time management for a two week project.
 
-(evaluation comments)
+Assessed By: Ilana
 
-(evaluation scores)
+* 174 assertions
+
+* both felt that this was more realistic with data
+
+* liked making relationship connections
+
+Functional Expectations/ **3:** Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+Test-Driven Development/ **4:** Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+Encapsulation / Breaking Logic into Components/ **4:** Application is expertly divided into logical components each with a clear, single responsibility
+
+Fundamental Ruby & Style/ **3:** Application shows strong effort towards organization, content, and refactoring
+
+Enumerable & Collections/ **4:** Application consistently makes use of the best-choice Enumerable methods
+
+Code Sanitation The output from rake sanitation:all shows.../ **4:** Zero complaints
 
 (From Drew Palazzari)
 You are an awesome coder! Hardcore gave me imposter syndrome many times. Overall, I was very pleased with our project, though. We pretty much dominated it. My one piece of feedback would be to try to share what you are thinking more. There were times, particularly in the Sales_analyst.rb where you did not verbalize what you were thinking, so I fell behind through the rest of that file. This really was not a big deal, I went back and studied the code and I understand it. I would have benefitted from breaking down your logic at times. It is phenomenal, and I would love to replicate it, but at a slower pace. There were times when you DID share what you were thinking, and I was able to follow along and contribute (the night we destroyed the pathing methods/mock testing and the top_invoices_by_day method).
