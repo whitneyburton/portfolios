@@ -175,6 +175,9 @@ Megan is a hard working insightful individual. She has an attention to detail an
 
 ### Being a Community Member
 
+From Tommasina:  
+Ali has been a dedicated leader of Pahlka Posse this mod. She's coordinated our meeting times, locations, and agendas and has helped keep us on track with timing during these meetings. She's facilitated Saturday work parties, and lead our group through its first iteration of our master canvas for our healthy eating game, even as she was just learning JavaScript. Her sense of efficiency, fairness, and dedication to working towards a greater good have made her an inspiring leader without our group.  
+
 From Erin:  
 Ali, working with you has been a lot of fun and I've learned tons. I think we have a similar style of how we approach programming so working with you also felt very natural and easy. Your note-keeping, precision, and thoughtfulness toward our approach resulted in our group attaining higher quality project that I'm super proud of. Keep practicing not letting perfection drive out the good. You write great code and are awesome at refactoring, so I know this is something that you will easily keep improving while you knock out great projects.  
 
