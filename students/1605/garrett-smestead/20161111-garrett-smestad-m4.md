@@ -180,10 +180,22 @@ I was responsible for the math in 3 GameTime projects after pairing with 2 other
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 2
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 2.5
+
+
 ### Notes
 
-( Leave blanks for reviewers )
+* Final - Developer considers a small bug in production. - Mailer 
+* Module was going fine until Developer really fell short on expectations
+* Fell short a bit on group work because of the last week of scale up
+* PD sessions were productive and a good use of time. - Comforting
+* Score are too far from passing scores for this module
+* Developer feels he did work that warrents more points on scale up (Risk Taking)
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Fail
