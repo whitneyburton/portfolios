@@ -1,4 +1,4 @@
-# Raphael Barbo - M2 Portfolio
+# Raphael Barbo - M3 Portfolio
 ## Individual
 
 ### Areas of Emphasis
@@ -37,7 +37,7 @@ Tutorials, Challenges and individual projects that I have completed throughout M
 ### Projects
 
 Here are the group projects that I have completed throughout module 3:
-### RestfulStay 
+### RestfulStay
 
 * [GitHub URL](https://github.com/rsbarbo/restful_stay)
 * [Heroku URL](http://restful-stay.herokuapp.com/)
@@ -82,11 +82,11 @@ The main goals for __Rails Engine__ was to develop a Ruby on Rails application b
 
 ### Gear Up & Reflection
 
-__Election Day__ I appreciated talking about the duty of citizens to vote. Jorge did a great job facilitating the conversation. 
+__Election Day__ I appreciated talking about the duty of citizens to vote. Jorge did a great job facilitating the conversation.
 
 __Introversion__ Introversion Within cohort GearUp. It was nice to be able to bring our cohort's concern to the table and talk about subjects that otherwise would have been overlooked.
 
-__Resilience__ I welcomed the conversation about resilience. Knowing how to persist through difficulty seems to be a big part of being successful as a developer. 
+__Resilience__ I welcomed the conversation about resilience. Knowing how to persist through difficulty seems to be a big part of being successful as a developer.
 
 ---
 
@@ -155,7 +155,11 @@ Working with Rapha on this project has been very enjoyable. He is very energetic
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 1
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
