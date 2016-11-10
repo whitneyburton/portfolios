@@ -246,7 +246,7 @@ The output from JSHint shows…
 [LinkedIn](https://www.linkedin.com/in/annastasia-psitos)
 
 ### Resume
-[Resume](./APsitosResume2-16.pdf)
+[Resume](./APsitosResume2016.pdf)
 
 ### Personal website
 [My Site](https://apsitos.github.io/)
