@@ -26,13 +26,13 @@ Scores:
   * 4: Developer is able to write Ruby with a minimum of reference or debugging
 
 2. Completion and Progress
-3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+  * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 
 3. Testing
-4: Developer excels at taking small steps and using the tests for both design and verification
+  * 4: Developer excels at taking small steps and using the tests for both design and verification
 
 4. Workflow
-4: Developer is a master of their tools, efficiently moving between phases of development
+  * 4: Developer is a master of their tools, efficiently moving between phases of development
 
 5. Collaboration
 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
@@ -43,9 +43,7 @@ Scores:
 
 
 ## B: Individual Work & Projects
-NE - 2 projects
 
-HTTP
 #### HTTP
 
 * [GitHub URL](http://github.com/ski-climb/http)
@@ -53,6 +51,7 @@ HTTP
 
 The heart of the HTTP project was to make a web server using Ruby.  We created and fired up a web server.  We created and parsed requests.  We sent responses based on the path and HTTP verb.  
 HTTP was an eye-opening opportunity to make a web server using Ruby.  On one hand it was an *excellent* experience which exposed the fundamental processes and flow of a web server.  On the other hand it was a unique experiment in frustration and formatting which made me revel in the gloriousness of my web browser.  I also had no idea that information could be included in a web request in so many ways from query parmeters to POST key, values in forms.  
+I did not get as far as I would have liked on this project (Overall Functionality score of 2).  This was because of two reasons: 1) I got stuck early on trying to create an easy to use setup with tmux that would allow me to fire up and shut down the server during testing; and 2) I dug in *deep* to HTTP requests when I got to the section on passing information via POSTs.  Ultimately, I believe the first issue was not the best use of time, and I should have bailed on the neat-but-not-critical idea.  The second issue was fantastic learning, and I was willing to sacrifice the score for a more in-depth look at HTTP requests.
 
 ##### Evaluation Comments:
 Notes:
@@ -74,14 +73,12 @@ Notes:
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
-(Intro)
-
 #### Date Night
 
 * [GitHub URL](https://github.com/ski-climb/date_night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
-(description)
+Date Night was a first introduction to the Binary Search Tree data structure.  It introduced a new method (to me) for storing and searching large data sets.  My implementation had fairly dumb nodes (they only knew about themselves and their children) and put the logic of adding/searching/deleting in the tree itself.  This project was an excellent introduction to recursion, and I made heavy use of recursion to navigate the tree.
 
 ##### Evaluation Comments:
 Notes:
@@ -91,7 +88,6 @@ Notes:
 * Some long methods, overall solid/comfortable use of Ruby style/syntax
 * Clean up file dependencies to run from top of project directory
 
-(evaluation scores)
 ##### 1. Test-Driven Development
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
  
