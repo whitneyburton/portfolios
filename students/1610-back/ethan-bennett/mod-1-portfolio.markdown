@@ -194,8 +194,6 @@ Scores:
 
 6. Code Sanitation
 
-The output from rake sanitation:all shows...
-
    * 4: Zero complaints
 
 
