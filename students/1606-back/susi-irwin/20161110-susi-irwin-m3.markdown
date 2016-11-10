@@ -100,9 +100,55 @@ Family Friendly is an app which consumes the Yelp API(v2) to bring in local rest
 
 Some major technical challenges and learning experiences in this project centered around form creation, data collection, and data display. I learned how to work with ```has_many, through: checkboxes``` as a concept for this project; this is used extensively in the Reviews functionality.
 
-(evaluation comments)
+### Evaluator: Josh
 
-(evaluation scores)
+#### Project Rubric
+
+**1. Completion**
+
+* 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **3: Developer completed all the user stories and requirements set by the client.**
+* 2: Developer completed most of the user stories and requirements set by the client.
+* 1: Developer completed the user stories and requirements partially.
+
+**2. Organization**
+
+* **4: Developer used a project management tool and updated their progress in real-time.**
+* 3: Developer used a project management tool to keep their project organized.
+* 2: Developer used a project management tool but didn't update the progress frequently.
+* 1: Developer failed to use a project management tool to track its progress.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **3: Project shows adequate testing (90% - 95% coverage).**
+* 2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
+* 1: Project lacks sufficient testing (under 85% coverage).
+
+**2. Code Quality**
+
+* 4: Project demonstrates exceptionally well factored code.
+* **3: Project demonstrates solid code quality and MVC principles.**
+* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* 1: Project demonstrates poor factoring and/or understanding of MVC.
+
+### Product Experience
+
+**1. User Experience**
+
+* 4: Project exhibits a production-ready and polished UX.
+* **3: Project exhibits a production-ready user experience.**
+* 2: Project exhibits some gaps in the UX.
+* 1: Project exhibits inattention to the user experience.
+
+**2. Performance**
+
+* 4: Project pages load on average under 300 milliseconds.
+* **3: Project pages load on average under 400 milliseconds.**
+* 2: Project pages load on average under 500 milliseconds.
+* 1: Project pages load on average over 500 milliseconds.
 
 ## C: Group Work & Projects
 
@@ -237,7 +283,6 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 #### Feedback to me:
 ##### From Brendan:
 "You did a great job with pushing forward on things you were uneasy with. Your determination throughout this project was awesome and really kept the whole group on track, especially on the last day when we were running in to bugs. Sometimes, it felt like you didn't value your own contributions. You added a ton of value to the team, and it was frustrating to see you not acknowledge that."
-
 ##### From Jean:
 "You did a great job advocating for your needs in the group and keeping us update as to where you were at. You could have told us earlier near the start of the project, but once you told us the communication was awesome."
 
@@ -272,7 +317,8 @@ Something I have learned about myself while at Turing is that I am way more intr
 #### Resilience
 * [Original Gear Up Outline](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-This session had an amazing discussion in a very small group - there were only 4 of us. One thing I thought about quite a bit during the session was the old saying, "What doesn't kill us only makes us stronger." I am wondering how that reflects resilience or if it even does. And what is the difference between resilience and perseverance? Are they the same thing? The same idea? I am not so sure. I am continuing to think about this topic along those lines and also looking at each challenge at Turing and outside of Turing as whether or not it is something that is helping to grow my resilience. 
+This session had an amazing discussion in a very small group - there were only 4 of us. One thing I thought about quite a bit during the session was the old saying, "What doesn't kill us only makes us stronger." I am wondering how that reflects resilience or if it even does. And what is the difference between resilience and perseverance? Are they the same thing? The same idea? I am not so sure. I am continuing to think about this topic along those lines and also looking at each challenge at Turing and outside of Turing as whether or not it is something that is helping to grow my resilience.
+
 
 ### Professional Development Workshops
 #### The Flower Workshop
