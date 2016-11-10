@@ -1,17 +1,19 @@
 # David Knott - (M1) Portfolio
 
 ## Areas of Emphasis
-
+<br>
 (What did you set out to accomplish this module?)
+<br>
 I set out to learn as much as I could here at Turing as well as to learn how to be a beter community member.  I learned about ruby, programming, and workflow in general these past 6 weeks and I am happy with the progress I've made while realising that I still have a long wayu to go.  After the first 2 weeks I decided to spend my energy focusing on organizing my thoughts and forcing myself to TDD and now both are starting to become habits.
+<br>
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -168,7 +170,7 @@ Code Sanitation - 4
 
  * [Linkedin](https://www.linkedin.com/in/david1knott)
  
- * [Resume](https://www.linkedin.com/in/david1knott)
+ * [Resume](https://resume.creddle.io/resume/3c7l391te96)
 
 (takeaways from session)
 I learned the importantce of personal branding both over the internet and in person and that everything I put out for the world to see should be careful analyzed beforehand as to the effect it will ahve on my reputation.
