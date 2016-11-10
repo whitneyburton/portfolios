@@ -330,8 +330,14 @@ Kris
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Accomplished goals for this module
+* Improvement from mid mod to final eval
+* Improved problem solving skills
+* Working on taking things one step at a time rather than focusing on the big picture
+* Proud of amount of time helping mod 1 students - continue doing this!
+* Work on being comfortable with not knowing every single aspect of something
+* Work on being organized and meeting deadlines
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
