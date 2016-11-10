@@ -9,8 +9,8 @@ I deleted and rewrote this today, because my impression of the challenges ahead 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 4
-* **E: Feedback & Community Participation**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -257,8 +257,10 @@ I'm really interested in machine learning, and I participated in Armstrong as mu
 
 ### Notes
 
-( Leave blanks for reviewers )
+* work on testing 
+* would love to see more community involvement
+* finish http iteration 4 and 5 and TDD 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PENDING
