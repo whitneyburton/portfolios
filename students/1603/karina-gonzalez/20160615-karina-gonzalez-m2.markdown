@@ -5,11 +5,7 @@
 ### Areas of Emphasis
 
   Coming into this module I remember having a heavy case of the infamous "imposter's syndrome".  I suppose it's difficult for me to imagine that I deserve to be here when I have frequent conversations with my extremely intelligent and capable family members/friends from home who weren't quite as lucky. That being said, one of my major goals for this module was to phase out of the "victim" role and into a more authoritative role.  I realize that I am in a position where, depending upon how much I take advantage of this opportunity, I could progress into a position where I could actually empower my fellow humans who can who come from similar roots. (Also, I wanted to learn more about machine learning, which I did ... learned a bit about linear regression but I'd like to learn more)
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> 6cff88e8c99c749693be139ba542084537b551ec
   “I tell my students, 'When you get these jobs that you have been so brilliantly trained for, just remember that your real job is that if you are free, you need to free somebody else. If you have some power, then your job is to empower somebody else. This is not just a grab-bag candy game.” - Toni Morrison
 
 ### End of Module Assessment
@@ -105,11 +101,7 @@ Notes for extended submission:
 Evaluator: Andrew
 
 Notes:
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> 6cff88e8c99c749693be139ba542084537b551ec
       - App broke on creation of new family. Looks like twillio. Will give time to fix to bring score up.
       - One query in view. Nationalities.all. Refactor to controller. The use of partials and presenters cancel our the logic int he view for a score of 4. Happy to user attempts at using presenters.
       - Using session hash for cart quantity - would prefer the supply to call quantity
