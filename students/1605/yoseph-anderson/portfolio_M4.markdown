@@ -166,15 +166,15 @@ I really enjoyed the whole Turing community and everything that they have offere
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 1
 * **C: Group Work & Projects**: 3
 * **D: Professional**: 3
 * **E: Feedback & Community Participation**: 3
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Scale up needs work to complete - deliver scale up. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending scale up deliverables
