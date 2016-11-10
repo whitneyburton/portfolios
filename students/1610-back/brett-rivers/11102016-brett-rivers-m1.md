@@ -7,7 +7,7 @@ Become a TDD wizard, play a more active role in the community
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 4
@@ -328,8 +328,12 @@ I’m really glad that he was in our cohort, he has been a wonderful resource an
 
 ### Notes
 
-( Leave blanks for reviewers )
+- spent too much time helping others with mastermind and didn’t do as well 
+- area of strength in group was area of weakness personally so nice improvement
+- was able to go to bill clinton rally and that was awesome
+- needs to complete HTTP through iteration 5 by Tuesday
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PENDING
