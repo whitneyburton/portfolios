@@ -262,6 +262,8 @@ Mike: "Working with Alex on FireBae AKA BetsketBall was great. Since i’m not a
 
 Chelsea: "I enjoyed being able to work with Alex on our budget/betting app. I don't think I'm a great risk taker. Alex's passion and risk taking drive are admirable and pushed me out of my comfort zone on this project. Alex's idea to do a betting app allowed our group to flex our skills, work on challenging problems, and try new ways of thinking. Alex is hilarious and always willing to listen to other people on the team's ideas. This was my first time in a group of three so I think it was a little difficult to know what each of us was working on, how to divide work and what our next steps should be. So I think we could have used more organization of our tasks. Overall, I had a great experience working with Alex, would love to collaborate on another project, and work to refine our app."
 
+Andrew: "Working with Alex is what I imagine it would be like working with the ‘me’ from a parallel universe. The difference being that he’s much quicker to work through logic, more comfortable with syntax and his humor is more creative. Alex is able to balance productivity with an enjoyable working atmosphere. I’d argue that the balance was perfect, but being paired with me probably through off the natural harmony that he seems to have achieved between the two. I think Alex could benefit from slowing down just a bit more to explain a complicated chunk before moving to the next problem. That said, he was never impatient to explain anything - it was just explained at the speed with which he thinks, which is a bit faster than my speed of thinking. I’m ready to pair with him in Mod 3 and hope we’re able to do so."
+
 ### Playing a Part
 
 ###### Karoake. Need I say more?
