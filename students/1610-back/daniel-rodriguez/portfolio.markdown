@@ -10,7 +10,7 @@ When I first started at Turing my goal was to familiarize myself with Ruby and g
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 2
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
