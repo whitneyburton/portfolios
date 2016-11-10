@@ -27,7 +27,7 @@ and provide support frequently in order to create a healthy learning environment
 Below are the projects I worked on independently to develop mastery of OOP and the Ruby language. 
 They are listed in chronological order.
 
-#### Date Night
+### Date Night
 
 * [GitHub URL](https://github.com/tmikeschu/date-night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
@@ -62,7 +62,7 @@ Score
 
   3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)  needs some refactoring, and is mostly idiomatic.
 
-#### HTTP, Yeah You Know Me!
+### HTTP, Yeah You Know Me!
 
 * [GitHub URL](https://github.com/tmikeschu/http_yykm)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
@@ -102,7 +102,7 @@ Score
 
 The following projects involved at least one other partner, and are listed in chronological order.
 
-#### Complete Me
+### Complete Me
 
 * [GitHub URL](https://github.com/tmikeschu/complete-me)
 * [DTR Memo](https://github.com/tmikeschu/complete-me/blob/master/dtr_complete_me_dk_ms.pdf)
@@ -147,23 +147,40 @@ Scores
 
   4: Application fulfills all base expectations and one extension
 
-(feedback to me)
+#### From David Knott: 
+First let me start by saying that it was a pleasure working with you and that I feel lucky to have had you as a partner for our first project here at Turing.  I feel safe saying that the most important part of any group is communication and I felt that our communication improved progressively as the project went on.  
+I also appreciate your flexibility and understanding of my prior commitments to the friend I had staying in my home.  That being said in the future I would suggest that you consider making micro expectations surrounding project objectives more clear with your partners.  Also, I think our project could’ve gone even better if we had talked sooner about what I could do to add on to what you had initially made.  On the other hand, I did like how we came together towards the second half of the project to polish it off, this step felt much more collaborative to me and your enthusiasm over a nice refactor was enlivening.  
+Overall I enjoyed working with you and learned an incredible amount about organization, testing, and ruby style which has undoubtedly helped me to succeed in other projects.  Many thanks.
 
-#### (Project Name)
+### Black Thursday
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/tmikeschu/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-(description)
+Black Thursday develops a network of e-commerce data to enable meaningful 
+business analytics. We extended the project to include the Google Charts
+API and show our business analytics visually. 
+Broadly speaking, this project applies concepts such as
+class integration and referencing, test-driven development, and managing a 
+huge project with distributed responsibilities. 
 
 (evaluation comments)
 
 (evaluation scores)
 
-(feedback to me)
+#### To Mike Schutte (for Black Thursday)
+Mike was a great partner to have. He really pushed me to have an 
+attention to detail and really showed me how easy it can be to have
+solid testing if you keep it at the fore front of your mind.
+He was always willing to stay late when needed and put in the extra 
+work when needed as well. I learned quite a bit from him and would 
+be more than happy to work with him again in the future.
+Comparing the experience of my two final projects for Mod 1 I can 
+say this one was far better overall and I feel like the end product
+shows how dedicated he was to completing this project to the best 
+of our abilities. 
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Vote Your Conscience
@@ -186,19 +203,25 @@ introverts. It all comes down to where one finds their energy, and in what envir
 was very illuminating, and I especially appreciated our groups closing emphasis on the fact that introversion and extroversion are not deterministic
 qualities. It's just an aspect of personality that is important to keep in mind when working with people.  
 
-#### (session)
+#### Resilience
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
+It had been a while since I had a full blow discussion about resilience. 
+After a lot of personal learning about eastern philosophy,
+it seems that resilience and mindfulness are very similar. Most simply, 
+both emphasize a recognition of what is out of control (i.e., events), and what
+can actually be chosen (i.e., perspective). Developing a capacity to mold
+perspective and meaning as if it were playout might be one of the most
+rewarding pursuit of the human experience. 
 
 ### Professional Development Workshops
-#### Personal Branding
+
+#### Personal Branding I
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md)
 * [LinkedIn](https://www.linkedin.com/in/tmikeschu)
-* [Resume]()
+* [Resume](https://resume.creddle.io/resume/bwkczx0jama)
 
 It's hard to accept that relatively static representations of a person can be so influential in impression management, but that's the case. 
 I used to roll my eyes at this kind of stuff, but now I better understand the idea of "perception is reality," and I have newfound intrinsic
@@ -225,18 +248,19 @@ I enjoyed learning about the relationship trigger, and how to put it in perspect
 move past it. Moving forward, I will work on moving from a "you or me" story to a "you and me" one,
 where the snag is located in the relationship system instead of at the individual level. 
 
-#### (Session Name)
+<!--#### Personal Branding II
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p2.md)
+* [Website Copy]()
+* [Plan for Personal Site]()
 
-(takeaways from session)
+\*\*\*FILL IN*** -->
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-To David Knott (for Complete Me): 
+#### To David Knott (for Complete Me): 
 Overall, you were a great partner for Complete Me.  Being our first partner project, 
 we had some awkward learn as we go moments in terms of setting expectations and checking 
 in with each other, but we got through it with smiles and positive attitudes. For future 
@@ -244,15 +268,44 @@ group projects, I recommend you work on communication. It’s my impression that
 
 On the positive side, I appreciate you fully put yourself out there, expressing your strengths in developing functionality and weaknesses in organization and simplicity. At points where I had developed parts of the project that were ahead of your progress, you always meaningfully contributed to the high-level discussion and low-level implementation of the feature at hand. Lastly, and most simply, I very much appreciate your willingness to show up at 7am each morning this week for pair programming. I think our last two days were especially collaborative and productive because of our commitment to do extra and early work in the beginning. 
 
+#### To Jason Conrad (for Black Thursday):
+
+I really enjoyed working with you to make this sea of data more comprehensible.
+We started out with a rather slow pace in order to deeply understand the scope
+of the project, and I think you'd agree that move fully paid off.
+
+For future improvement, I recommend you pay more attention to the fine details.
+Some of the project could be implemented with copy-paste and a few modifications,
+which is great, but it led to some syntax problems down the road due to 
+mismatched and/or duplicated naming.
+
+I'm very proud of the quality of our project, and I'm especially grateful
+for your hard work that allowed us to finish early and relatively stress-free.
+Thank you for staying late from the get-go and completing all of your responsibilities 
+in a timely manner. Best of luck on future projects!
+
 ### Being a Community Member
 
-(feedback to me)
+* Schutte, you set a tone of respect that permeates the entire cohort. 
+You approach every problem open to suggestions from any teammate. 
+On top of that, you get super pumped when you solve a particularly tricky problem, 
+which always raises the energy in the room.
+
+* Having Mike around this mod has been sweet. He's brought a lot of positive energy 
+and his positive outlook is very much welcomed. He gets these concepts pretty quick 
+and is always eager to help spread is knowledge.
+
+
 
 ### Playing a Part
 
-Kids Who Code 
+#### Kids Who Code 
 * 10/15/16: Vector vs. Bitmap animations and setting cloud variables on Scratch. 
-  * Helped kiddos navigate the Scratch interface and set a high score cloud variable.  
+  * Helped kiddos navigate the Scratch interface and set a high score cloud variable.
+* 10/29/16: Communication between objects
+  * Not a huge turnout on this day. Stuck around the whole time, but we were 
+  essentially over-staffed. A rare situation in education!
+* 11/5/16: Lunch meeting to discuss future curriculum plans   
 
 ------------------
 
@@ -265,4 +318,5 @@ Kids Who Code
 ### Outcome
 
 ( Leave blanks for reviewers )
+
 
