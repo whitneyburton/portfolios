@@ -47,7 +47,7 @@ A homework assignment exploring javascript.
 A homework assignment exploring javascript and testing.
 
 #### Personal Site
-*[View on github.](https://github.com/adam-rice/Personal-Site)
+* [View on github.](https://github.com/adam-rice/Personal-Site)
 
 A project requiring that I create professional site about myself.
 
@@ -67,8 +67,10 @@ A number guessing game created by Kenia Farias and Adam Rice using vanilla javaS
 #### Evaluator: Louisa
 #### UX/UI Expectations
 * 3: Application shows strong effort towards matching the comp, but some details have been missed. Any extensions are simple, clean design, content organization, and well thought out experience and user interactions.
+
 #### Functional Expectations
 * 3: Application meets all of the functional expectations in Phase Two
+
 #### Fundamental JavaScript Style
 * 3: Application shows strong effort towards organization, content, and refactoring
 
@@ -84,12 +86,16 @@ A list to store pages you want to read! Using HTML, CSS, JavaScript and jQuery a
 #### Evaluator: Louisa
 #### Functional Expectations
 * 4: Application meets all of the functional expectations in Phase Three.
+
 #### Fundamental JavaScript Style
 * 3: Application shows strong effort towards organization, content, and refactoring.
+
 #### Workflow
 * 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
 #### HTML Style
 * 4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors.
+
 #### CSS Style
 * 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
@@ -105,14 +111,19 @@ An application to store your ideas. Created by Chaz-Mykl Gormley and Adam Rice u
 #### Evaluator: Louisa
 #### Specification Adherence
 * 4 - The application meets all of the requirements listed above and implements one or more of the extensions. well done, included some test coverage.
+
 #### HTML Style
 * 3.5 -- leveraging an H1 for the title rather than just span tags, otherwise nicely done
+
 #### CSS Style
 * 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
 #### JavaScript Style
 * 3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 #### Workflow
+
 * 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base. could have had a more equal number of commits from both team members
+
 #### Collaboration
 * 3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
