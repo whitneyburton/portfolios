@@ -53,7 +53,7 @@ A homework assignment exploring javascript and testing.
 #### Personal Site
 * [View on github.](https://github.com/adam-rice/Personal-Site)
 
-A project requiring that I create professional site about myself.
+A project requiring that I create a professional site about myself.
 
 ## C: Group Work & Projects
 
