@@ -155,6 +155,7 @@ Overall I enjoyed working with you and learned an incredible amount about organi
 ### Black Thursday
 
 * [GitHub URL](https://github.com/tmikeschu/black_thursday)
+* [DTR Memo](https://github.com/tmikeschu/black_thursday/blob/master/DTR_jdc_tms)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 Black Thursday develops a network of e-commerce data to enable meaningful 
