@@ -14,7 +14,7 @@ It's exciting, despite the challenge.
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
@@ -412,9 +412,12 @@ I really enjoyed them. It's a great way to meet students in other cohorts and ge
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Doing a good job, maybe not fast enough.
+* Drew felt like he tried to improve on taking his partner into consideration.
+* Strong group work pushed group work to a 4.
+* Was able to experience what it might feel like to not be the stronger partner.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PENDING
 
