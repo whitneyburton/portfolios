@@ -11,7 +11,7 @@ Reach Goal: ...everyone in the 1610 front-end cohort as well.
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 2.5
+* **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 4
