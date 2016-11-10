@@ -170,6 +170,9 @@ total = 128
 
 [Deliverable](https://medium.com/@deborahleehamel/react-js-getting-to-know-you-1df3b9a0cbe8#.mjx7hf5lz)
 
+#### Job Shadowing
+* Our day at MojoTech in Boulder was amazing. They gave us so much time and attention, shadowing a review of a React project, discussions with multiple teams members in different roles and tons of advice.
+* Key piece of strategic advice - Product company can be a good first dev job because you are working on a single code base and get lots of practice and experience in consistent architecture. VS Consultancy companies have multiple clients and multiple languages and code bases that can require you switch contexts a lot - but can be and exciting and challenging atmosphere to learn and grow.
 
 #### Resume
 
