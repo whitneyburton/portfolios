@@ -104,6 +104,10 @@ Lane was a great partner to work with for Game Time. He was extremely easy to wo
 
 ### Being a Community Member
 
+**From Lane**
+
+Jason was a tireless worker and great leader on the project. He kept me focused and really drove the development process.He was instrumental on really making the final push of this project, and his thoughtful observations were great for making sure I understood what was happening at all times.
+
 
 
 ### Playing a Part
