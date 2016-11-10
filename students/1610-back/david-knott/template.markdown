@@ -4,7 +4,7 @@
 <br>
 (What did you set out to accomplish this module?)
 <br>
-I set out to learn as much as I could here at Turing as well as to learn how to be a beter community member.  I learned about ruby, programming, and workflow in general these past 6 weeks and I am happy with the progress I've made while realising that I still have a long wayu to go.  After the first 2 weeks I decided to spend my energy focusing on organizing my thoughts and forcing myself to TDD and now both are starting to become habits.
+I set out to learn as much as I could here at Turing.  I learned about ruby, programming, and workflow in general these past 6 weeks and I am happy with the progress I've made while realising that I still have a long way to go.  After the first 2 weeks I decided to spend my energy focusing on organizing my thoughts and forcing myself to TDD and now both are starting to become habits.
 <br>
 
 ## Rubric Scores
@@ -18,13 +18,44 @@ I set out to learn as much as I could here at Turing as well as to learn how to 
 -----------------------
 
 ## A: End of Module Assessment
-
-(Notes & scores from your assessment rubric)
+<br>
+Assessed By: Ilana
+<br>
+Challenge: Option 1
+<br>
+Notes: Would love to see better workflow
+<br>
+Scores:
+<br>
+Ruby Syntax & API: 3
+<br>
+Developer is able to write Ruby with some debugging of fundamental concepts
+<br>
+Completion and Progress:3
+<br>
+Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+<br>
+Testing: 3
+<br>
+Developer writes tests that are effective validation of functionality, but don't drive the design
+<br>
+Workflow: 3
+<br>
+Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+<br>
+Collaboration: 4
+<br>
+Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+<br>
+Enumerable & Collections: 3
+<br>
+Application demonstrates comfortable use of appropriate Enumerable methods
+<br>
 
 
 ## B: Individual Work & Projects
 
- During the six weeks so far I have been taught the value of being methodical and have been reminded of that value on a near daily basis.  This is where I have learned the most, granted at first it TDD was painful and whiteboarding seemed pointless but after countless hours stuck I see that in programming like the majority of other things in conceptualizing and remembering to make sure I'm on the right path will always pay off in the long run.
+ Over the past six weeks I have been taught the value of being methodical.  I have come to accept that although TDD is at times painful and whiteboarding sometimes seems pointless, in the long run it pays off tenfold. I now accept that it is always a good idead to conceptualize beforehand and to make sure I'm on the right track before I'm to far along.
 
 #### (Date Night)
 
@@ -33,7 +64,7 @@ I set out to learn as much as I could here at Turing as well as to learn how to 
 
 (description)
 
-Created a binary tree that takes in a list of movies and scores and orders them according to their score and then performance analyses on them to determine certain characteristics of the tree such as maximum, depth, and health.
+Created a binary tree that takes in a list of movies and scores and orders them according to their score. Then perform analysis on them to determine certain characteristics of the tree such as the maximum score, depth, and health.
 
 (evaluation comments)
 
@@ -55,7 +86,7 @@ Fundamental Ruby & Style - 2
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 (description)
-Built a web server that could succesfully send and recieve data.
+Built a web server that could send and recieve data.
 
 (evaluation comments)
 
@@ -85,7 +116,7 @@ Fundamental Ruby & Style - 2.5
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
 (description)
-Complete me was my first group project at Turing.  I learned a lot about communication, refactoring, and testing.  Created a TRIE that took in a dictionary and had the ability to suggest words.
+Complete Me was my first group project at Turing.  I learned a lot about communication, refactoring, and testing.  I created a TRIE that took in a dictionary and had the ability to suggest words.
 
 (evaluation comments)
 Test-Driven Development - Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
@@ -142,22 +173,22 @@ Code Sanitation - 4
 
 ## D: Professional Skills
  This module taught me how to be an effective team member and how to give and recieve feedback in a cosntructive way.
- I like the idea of Gear Up but I fet that they were very hit or miss.
+ I like the idea of Gear Up but I felt that they were very hit or miss in that some led to good conversations and reflexion while others seemed to raise issues without alloting enough time for discussion.
 
 ### Gear Up
 #### (Vote Your Conscience)
-  I gained a lot by listening to other people perspectives surround the current political situation in the United States and about the place of voting within Western Society in genereal.  The main thing that I will try to do deferently after my group discussion is to stay calm and listen, to often political discussions turn into a series of personal attacks due to the participants assosciating there politcal views as part of their identity.
+  I gained a lot by discussing politics with a group of people outside of my social circle.  I enjoyed being exposed to their different perspectives.  In the future I will make an effort to stay calm and listen better, to often political discussions turn into a series of personal attacks due to the participants assosciating their politcal views as part of their identity.
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
 
 #### (Introversion and Extroversion on Teams)
- My group was more at ease then usual, most likely because this Gear Up was conducted within everyones own module which created a safer space for the sharing of ideas.  As a result the conversation my group had was extremely authentic and each member had enough courage to draw on personal experiences from their own lives to add to the discussion.   The main take away from this discussion is that although our culture tends to look down on introverts there are more of them then I had previously though and they con be just as effective and efficient in the modern world as an extrovert. 
+ My group was more at ease then usual, most likely because this Gear Up was conducted within everyones own module which created a safer space for the sharing of ideas.  As a result, the conversation my group had was extremely authentic and each member had enough courage to draw on personal experiences from their own lives to add to the discussion.   The main take away from this discussion is that although our culture tends to look down on introverts there are more of them then I had previously thought and they can be just as effective and efficient as an extrovert.
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
 #### (Resilience)
- I didn’t enjoy discussing resilience because the first half of the discussion was spent trying to convince us that it is important which I feel most people particularly those at Turing already know.  The more interesting question with regards to resilience is how it can be fostered on the individual level,  although we touched on this I didn’t feel comfortable enough with my group to share my personal struggles with regards to resilience.  The discussion did prompt a significant amount of introspective thought afterwards as to how I can force myself to build healthier habits which I believe would create the best foundation for me to acquire a higher level of resilience. 
+ I didn’t enjoy discussing resilience because the first half of the discussion was spent trying to convince us that it is important which I feel most people particularly those at Turing already knew.  The more interesting question with regards to resilience is how it can be fostered on the individual level,  although we touched on this I didn’t feel comfortable enough with my group to share my personal struggles with regards to resilience.  The discussion did however prompt a significant amount of introspective thought afterwards as to how I can force myself to build healthier habits which I believe would create the best foundation for me to acquire a higher level of resilience. 
 
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
@@ -173,14 +204,14 @@ Code Sanitation - 4
  * [Resume](https://resume.creddle.io/resume/3c7l391te96)
 
 (takeaways from session)
-I learned the importantce of personal branding both over the internet and in person and that everything I put out for the world to see should be careful analyzed beforehand as to the effect it will ahve on my reputation.
+I learned the importantce of personal branding both over the internet and in person and that everything I put out for the world to see should be carefully analyzed beforehand as to the effect it will have on my reputation.
 
 #### Learning to Pair 1
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md)
 
 (takeaways from session)
-I learned that two eyes are always better then one and that have another person involved is most helpful during the coneptuals stages of a project when attemlpting to develop a strong foundation.
+I learned that two eyes are always better than one and that having another person involved is most helpful during the coneptuals stages of a project when attempting to develop a strong foundation.
 
 #### Feedback 1
 
