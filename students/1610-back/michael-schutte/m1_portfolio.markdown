@@ -363,8 +363,9 @@ and is always eager to help spread is knowledge.
   essentially over-staffed. A rare situation in education!
 * 11/5/16: Lunch meeting to discuss future curriculum plans  
 
-####
-* Went to each Lunch Roulette
+#### Lunch Roulette
+
+* Went to each one
 
 ------------------
 
