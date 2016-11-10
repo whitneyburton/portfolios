@@ -105,8 +105,6 @@ For this project, my partner and I built a directed network search that function
 
 Assessed By: Jeff
 
-Repo:
-
 Notes:
 
 Tests have some failures after refactoring and removing methods
@@ -207,7 +205,7 @@ I have many people in my life who model amazing resilience, so this topic is ver
 
 ### Professional Development Workshops
 
-#### Personal Branding
+#### Personal Branding I
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 * [LinkedIn](https://www.linkedin.com/in/annie-wolff)
@@ -249,6 +247,8 @@ To Amara Lovato: "Amara, your dedication to learning the material is almost unma
 "Annie, I love that you are always eager to help us and you have a unique way to do it. You are always active listening (never assuming things), you support us to find the solutions for ourselves, you never use advance words that can make us feel behind and you have always nice words to encourage us. You are an advance coder but always humble so that makes you even better from my perspective. Your cheerfulness and energy in the group makes a big positive difference, you make us laugh with your authenticity and fresh personality. You are a great human asset for the Turing community, I see you in the soon future becoming a great programmer and an awesome mentor. I feel very lucky to have met you!"
 
 "Annie was great influence during Mod 1 and very helpful during the Black Thursday project.  Throughout the module, she was cheerful and positive (even in the face of greater challenges like Complete Me and, even worse, voter registration after relocating to a new state).  And she was especially generous with her time and talent when I asked to talk out the intricacies of Black Thursday - even though she had already breezed past the section that was tripping me up.  I appreciate her insight and hope to get a chance to work with her on a project at Turing." 
+
+"Annie, I have enjoyed learning with you these last few weeks. During our paired project your attitude, positivity, and dedication to the project was instrumental in its successful completion, but also made working with you fun and rewarding. You are always pushing the boundaries of your learning and you inspire those around you to do the same."
 
 ### Playing a Part
 
