@@ -237,6 +237,7 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 #### Feedback to me:
 ##### From Brendan:
 "You did a great job with pushing forward on things you were uneasy with. Your determination throughout this project was awesome and really kept the whole group on track, especially on the last day when we were running in to bugs. Sometimes, it felt like you didn't value your own contributions. You added a ton of value to the team, and it was frustrating to see you not acknowledge that."
+
 ##### From Jean:
 "You did a great job advocating for your needs in the group and keeping us update as to where you were at. You could have told us earlier near the start of the project, but once you told us the communication was awesome."
 
@@ -268,6 +269,10 @@ This was a powerful discussion - but very short considering the topic. I think t
 
 Something I have learned about myself while at Turing is that I am way more introverted than I ever thought I was. I am not quiet, nor do I mind being in large groups, however, I have found that I need recovery time after these larger interactions. After discussing this with 3 other members of my cohort, I learned that I am not alone. I also noticed, and am so pleased with this, that the students at Turing (as well as Staff) have been MORE supportive of the introverted ways since this session occurred. Bravo!
 
+#### Resilience
+* [Original Gear Up Outline](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+
+This session had an amazing discussion in a very small group - there were only 4 of us. One thing I thought about quite a bit during the session was the old saying, "What doesn't kill us only makes us stronger." I am wondering how that reflects resilience or if it even does. And what is the difference between resilience and perseverance? Are they the same thing? The same idea? I am not so sure. I am continuing to think about this topic along those lines and also looking at each challenge at Turing and outside of Turing as whether or not it is something that is helping to grow my resilience. 
 
 ### Professional Development Workshops
 #### The Flower Workshop
