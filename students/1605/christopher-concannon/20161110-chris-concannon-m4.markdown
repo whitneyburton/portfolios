@@ -155,10 +155,21 @@ I continued to be a leader/member of the Friday running group and I assisted mul
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+
 ### Notes
 
-( Leave blanks for reviewers )
+* Final assessment was successful - problem getting mailer setup and got it configured with gmail 
+* Gametime - minigolf - more complex than anticipated. 
+* Glad the professional skills was in this module - good timing
+
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
