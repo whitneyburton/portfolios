@@ -158,8 +158,9 @@ Kerry has once again been a tremendous figure of good will, comfort and programm
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Great projects throughout
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
