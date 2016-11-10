@@ -7,11 +7,11 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: x
-* **B: Individual Work & Projects**: x
-* **C: Group Work & Projects**: x
-* **D: Professional Skills**: x
-* **E: Feedback & Community Participation**: x
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ---
 
