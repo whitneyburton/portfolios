@@ -8,11 +8,11 @@ I hoped to join and contribute to a few groups and become an active member of th
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 2
 
 -----------------------
 
