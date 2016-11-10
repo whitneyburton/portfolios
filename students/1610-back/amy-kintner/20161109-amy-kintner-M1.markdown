@@ -81,9 +81,9 @@ Commentary from the evaluation: We rocked this project. I was super happy with h
 For Black Thursday - our second paired project at Turing - the entire cohort was finally merged. This is a giant, intensely interconnected business intelligence project that will begin with the making of CSV data repositories, and move into business analytics and statistics. The project has 5 total parts, spread amongst Iterations 0-3 and either Iteration 4 or 5.  
 <br>
 <br>
-Commentary from the evaluation:
+Commentary from the evaluation: After some great hurdles and many, many hours chasing bugs, the project turned out beautifully. Beth found only a small handful of places where refactoring would be an issue - two long methods in Sales Analyst (which I kenw would be an issue) and one small issue with invoice.is_paid_in_full? - and said the testing suite was phenomenal. I was very pleased with the final result. 
 
-* evaluation ()
+* evaluation (https://github.com/turingschool/ruby-submissions/blob/master/1610-b/black_thursday/amy_amara.md)
 
 ## D: Professional Skills
 
@@ -120,7 +120,7 @@ This topic is for me, and is also, I sense, for others, very sensitive because n
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 
-Going into this, I had used LinkedIn quite a bit, so a portion of the material from this session was repetitive for me. I did, however, gather some great info about where to make nice resumes online (Creddle.io), and how to turn the focus of your LinkedIn to being tech and software-development focused. For me, having come from years of high-level academia work, eliminating material from my CV to create a one-page resume was a painful process; all those publications, all those conferences, all those years of work, that's all gone. I spent some great time with my mentor - who is quite senior and has acted as a hiring manager - going through my CV and deciding what to eliminate and what to include, as well as how to structure the end result. He was super pleased with the Creddle resume I created. I await other perspectives from folks at Turing, as well.
+Going into this, I had used LinkedIn quite a bit, so a portion of the material from this session was repetitive for me. I did, however, gather some great info about where to make nice resumes online (Creddle.io), and how to turn the focus of your LinkedIn to being tech and software-development focused. For me, having come from years of high-level academia work, eliminating material from my CV to create a one-page resume was a painful process; all those publications, all those conferences, all those years of work, that's all gone. I spent some great time with my mentor going through my CV and deciding what to eliminate and what to include, as well as how to structure the end result. He was super pleased with the Creddle resume I created. I await other perspectives from folks at Turing, as well.
 
 #### Deliverables
 * [Link to LinkedIn Page] (https://www.linkedin.com/in/amy-kintner)
