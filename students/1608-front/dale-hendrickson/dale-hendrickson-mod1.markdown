@@ -1,4 +1,4 @@
-# Dale Hendrikson - M1 Portfolio
+# Dale Hendrickson - M1 Portfolio
 
 ## Areas of Emphasis
 
