@@ -207,7 +207,7 @@ I spent the majority of my time this module applying for jobs, polishing my resu
 
 ### Notes
 
-( Leave blanks for reviewers )
+* 
 
 ### Outcome
 
