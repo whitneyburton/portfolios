@@ -18,6 +18,8 @@ Evaluation Scores:
 * User Interface: 3
 * Workflow: 3
 
+Feedback: Need to complete the last feature in order for 2.5 to be a 3
+
 ## B: Individual Work & Projects
 
 * The following section is comprised of individual assignments and projects that I have worked on during this module.
@@ -276,6 +278,8 @@ Second note for clarification: "will alter it itself” — perhaps change “it
 Third suggestion: "This was a concept that took me far too long to become even mildly comfortable with.” — I feel ya! How about reframing it for future employers though? What about “I’m glad I finally understand the complexities of state inheritance!” or something to show your learning in a positive light?
 
 Lastly, ‘Javascript’ in your last sentence reminded me of Lia telling us to make sure to spell JavaScript with a capital S in it. And great conclusion recapping what you covered!
+
+From Jason: Lane was a great partner to work with for Game Time. He was extremely easy to work with, and always willing to give me space to experiment with the code. He also has a tenacity about going in a certain direction and finding the most efficient or succinct solution, which really helped us break through some real challenging spots. I wouldn’t hesitate to work with Lane on another project. I always have confidence in his work being done completely, thoroughly, and creatively.
 
 ### Playing a Part
 
