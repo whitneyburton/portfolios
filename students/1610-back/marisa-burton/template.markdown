@@ -95,13 +95,14 @@ Read and write are separated, might belong together in a single class/module/thi
 try to have methods take arguments instead of reading an instance variable
 Scores:
 
-Test-Driven Development--4: Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
-
-Breaking Logic into Components--3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
-
-Fundamental Ruby & Style--3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
-
-Overall Functionality--3: Application follows the complete spec and one extension
+#### Test-Driven Development
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
+#### Breaking Logic into Components
+3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+#### Fundamental Ruby & Style
+3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
+#### Overall Functionality
+3: Application follows the complete spec and one extension
 
 
 #### Black Thursday
@@ -112,11 +113,29 @@ Overall Functionality--3: Application follows the complete spec and one extensio
 
 A business is only as smart as its data. Let's build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerece business.
 
-(evaluation comments)
+Notes:
 
-(evaluation scores)
+Beautiful testing suite, nice balance of integration and unit testing
+Went a little overboard on assertions; only need one to target claim, split into separate tests if targeting different cases
+Consistent implementation of best-choice enumerables
+Complete through i4
+0 rake sanitation errors
+Use of one module (SAAssistant) and Merchant Assistant class to delegate functionality and uphold SRP
+Scores:
 
-(feedback to me)
+#### Functional Expectations
+3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+#### Test-Driven Development
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+#### Encapsulation / Breaking Logic into Components
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+#### Fundamental Ruby & Style
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+#### Enumerable & Collections
+4: Application consistently makes use of the best-choice Enumerable methods
+#### Code Sanitation
+The output from rake sanitation:all shows...
+4: Zero complaints
 
 ## D: Professional Skills
 I think I have developed an odd set of skills with my myriad types of jobs over the last two decades, but I really would like to learn more how to brand myself with confidence.
