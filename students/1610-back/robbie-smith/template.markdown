@@ -7,10 +7,10 @@ Having to repeat module 1 was kick ass. I'm so glad I did. Having already been t
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -261,8 +261,9 @@ The output from `rake sanitation:all` shows...
 
 ### Notes
 
-( Leave blanks for reviewers )
+* strong individual work and group projects
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PROMOTED
+
