@@ -9,7 +9,7 @@ I really enjoyed working with earlier modules in Module 2 so I wanted to continu
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 2.5
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 3.5
 * **D: Professional Skills**: 3.5
 * **E: Feedback & Community Participation**: 3.5
@@ -83,6 +83,44 @@ Subjective evaluation will be made on your work/process according to the followi
 A website for NBA fans to be able to customize the site to be able to more quickly access their favorite teams and players.
 Users can choose any team or player in the NBA, add them to their page and be able to check in on their most current stats
 in one easy to navigate site.
+
+**Evaluation**
+Assessor: Sally MacNicholas
+
+Notes:
+* A few bugs on heroku
+* Code quality is great. Great use of MVC model. Needs a little refactoring to
+break out methods into smaller ones
+* Testing looks great. For some reason not working, going to try and fix.
+* Overall, great job!
+
+**1. Completion**
+
+* 4: Developer completed all the user stories and requirements set by the client in timely manner.
+
+**2. Organization**
+
+* 4: Developer used a project management tool and updated their progress in real-time.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+
+**2. Code Quality**
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+### Product Experience
+
+**1. User Experience**
+
+* 3: Project exhibits a production-ready user experience.
+
+**2. Performance**
+
+* 4: Project pages load on average under 300 milliseconds.
 
 ## C: Group Work & Projects
 
