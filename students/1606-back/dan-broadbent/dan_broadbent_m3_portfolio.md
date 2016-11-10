@@ -90,9 +90,68 @@ This project, we focused on consuming and working with data from public APIs. I 
 
 The peronsal project was obviously of our own choosing.  I have been very interested in developing mobile web apps since even before coming to Turing, and we get way less exposure to that in the backend program, so I decided to explore that for my personal project.  I went with a framework that is designed to make it easier to build apps specifically for mobile devices that can be eaisly ported to native apps with a single codebase.  The framework is called Ionic and it was built on top of Angular 2.  I decided to try to use Firebase for my database and authentication as well.
 
-(evaluation comments)
+Student: Dan
 
-(evaluation scores)
+Assessor: Lauren
+
+Notes:
+
+* Presented two apps locally (Firebase keys can't be hidden in front-end code)
+  * Auth in one, CRUD events resource in other
+* Followed tutorials / wrote accompanying blog post
+* JS testing implemented to best of ability being new to language, framework, and test suite
+* Performance score N/A (all front-end code)
+* Learned a lot about localstorage
+
+**1. Completion**
+
+* 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **3: Developer completed all the user stories and requirements set by the client.**
+* 2: Developer completed most of the user stories and requirements set by the client.
+* 1: Developer completed the user stories and requirements partially.
+
+**2. Organization**
+
+project management tool: tutorials and to-do list
+
+* 4: Developer used a project management tool and updated their progress in real-time.
+* **3: Developer used a project management tool to keep their project organized.**
+* 2: Developer used a project management tool but didn't update the progress frequently.
+* 1: Developer failed to use a project management tool to track its progress.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+test suite used: jasmine, karma (runs jasmine), protractor (e2e)
+
+* 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **3: Project shows adequate testing (90% - 95% coverage).**
+* 2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
+* 1: Project lacks sufficient testing (under 85% coverage).
+
+**2. Code Quality**
+
+* 4: Project demonstrates exceptionally well factored code.
+* **3: Project demonstrates solid code quality and MVC principles.**
+* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* 1: Project demonstrates poor factoring and/or understanding of MVC.
+
+### Product Experience
+
+**1. User Experience**
+
+- UX is boilerplate, nature of new angular app with ionic
+
+* 4: Project exhibits a production-ready and polished UX.
+* **3: Project exhibits a production-ready user experience.**
+* 2: Project exhibits some gaps in the UX.
+* 1: Project exhibits inattention to the user experience.
+
+**2. Performance**
+
+--n/a, not working serverside
+
 ## C: Group Work & Projects
 
 ### Group Projects
@@ -240,6 +299,13 @@ It was really cool to learn how there is a scale from introvert to extrovert, ra
 * [Link to Completed Deliverables](https://github.com/danbroadbent/portfolios/blob/master/students/1606-back/dan-broadbent/Flower%20Diagram-Dan.pdf)
 
 The flower exercise made us do some deep reflection on what we are really looking for in a career.  We make a lot of assumptions about what we think we want, but when we look deeper into what we really value, it may be surprising to discover what would really make us the most happy.
+
+#### Job Search Strategy
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/job_search_strategies.md)
+
+This class helped make us set more tangable goals in reference for our job search.  By setting small daily goals it becomes more manageable to make progress on the job search while having a full course load at Turing.
+
+My daily goals are to spend a pomodoro every other day on something job related.  This can be either updating resume, working on digital assets like Linkedin, or researching potential companies to work for.  My weekly goal for module four is to be contacting several of the companies I find.  And my monthly goals are to get as many interviews and offers as possible.
 
 ## E: Feedback and Community Participation
 
