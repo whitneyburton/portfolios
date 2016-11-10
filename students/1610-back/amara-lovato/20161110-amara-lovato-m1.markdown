@@ -290,4 +290,4 @@ I love working in teams and being part of meaningful communities and this is why
 
 ## Outcome
 
-( Leave blanks for reviewers )
+RETAINED
