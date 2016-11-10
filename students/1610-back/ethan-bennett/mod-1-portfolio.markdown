@@ -16,7 +16,23 @@ My goals have shifted a little as this module has progressed--at first, I just w
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Ilana
+Challenge: Option 1
+Notes:
+Did better when we pseudo-coded
+Scores:
+* Ruby Syntax & API
+3: Developer is able to write Ruby with some debugging of fundamental concepts
+* Completion and Progress
+3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+* Testing
+3: Developer writes tests that are effective validation of functionality, but don't drive the design
+* Workflow
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* Collaboration
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+* Enumerable & Collections
+3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 ## B: Individual Work & Projects
@@ -143,34 +159,43 @@ Scores:
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Vote Your Conscience
 
-* [GitHub URL]()
+Our discussion in this session revolved mostly around an attempt to define our level of responsibility for researching voting issues from multiple sources, and I actually had to rewrite this section--recent events really emphasized its importance. If journalistic bias is inevitable, as it seems to be, is all research equal in value? We mostly talked about Fox News and personalities like Alex Jones and Rush Limbaugh, but ironically, it seems like we were in an even bigger bubble. It is vitally important to support strong journalism and to choose your sources carefully, especially in the coming years.
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+* https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown
+
+#### Introversion and Extraversion on Teams
+
+Oversimplifying personality types is kind of a pet peeve of mine, and it couldn't be more clear in attempting to draw a clean line between two concepts like this. It's certainly important to know how you "recharge" best, but if you take this identifier too seriously, you're bound to limit your own potential. Some days it's cathartic to be alone, others you need to be around people. But if you spend too much time telling yourself what you think you need, you're less likely to respond appropriately when your gut tells you "hey, you should do this tonight."
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Personal Branding
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* https://github.com/turingschool/professional_skills/tree/master/module_one
+* https://www.linkedin.com/in/ethan-bennett
+* https://resume.creddle.io/resume/618p9t6i6l8
 
-(takeaways from session)
+I did a ton of job hunting in a couple tough industries, and although I arrived at some of these styles independently, I really value taking the time to improve them. It's pretty obvious that people don't get jobs based on merit alone, so it was strange to me that conventional college wouldn't spend time on it.
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+To Jesse: We both had personal stuff going on, and we still managed to complete the project without too much stress. I think a big part of that came from your independent working style and your patient demeanor, and those qualities made collaboration easy. It seemed like you were committed to doing the best possible work from start to finish, and your catching the Iteration 0 mistake early caused the rest of the project to flow smoothly. It was great working with you!
+
+To Eric: You were great at simplifying the solutions we duct-taped together, you did the majority of the physical “driving,” and you were always throwing more skillful Ruby methods in the mix. I also think your motivation to continue working late into the night was stronger than mine, and it probably kept me a little more invested in doing higher quality work—-no matter how long it took—-than I would’ve been if I’d been working solo.
 
 ### Being a Community Member
 
-(feedback to me)
+From Jesse: 
+
+From Eric: My partner’s role was to keep the relationship easy going and keep me grounded in what we could achieve. Ethan brought the best out in me because I felt I could trust him and felt he offered context for knowing that while the problems were difficult they had solutions.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I'm really interested in machine learning, and I participated in Armstrong as much as my schedule would allow. Nick and I also took over our Spike session on the work-shadow day (when Mods 3 and 4 weren't here) and although it was not an excessively organized session, we all had a great time (and learned a little bit about Watson and some cool APIs). I'm looking forward to participating more in these programs as I move forward. 
 
 ------------------
 
