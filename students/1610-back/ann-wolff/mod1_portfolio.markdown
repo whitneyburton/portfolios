@@ -8,11 +8,11 @@ I hoped to join and contribute to a few groups and become an active member of th
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 2
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -292,4 +292,4 @@ Within our own cohort, we have begun to build our own close community and suppor
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
