@@ -6,8 +6,8 @@ Learn JavaScript, solidify my competence as a junior developer, and work on a la
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
@@ -277,10 +277,6 @@ I did my best to support the Turing community by:
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+pass
