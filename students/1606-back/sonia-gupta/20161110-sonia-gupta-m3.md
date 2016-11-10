@@ -154,7 +154,7 @@ I was excused from attending this Gear Up in order to meet with a public speakin
 
 #### Alumni Portfolio
 
-I entered all of my information into the website but it does not appear to be uploading.
+[Link](https://www.turing.io/alumni/sonia-gupta)
 
 #### Personal Project Pitch
 
