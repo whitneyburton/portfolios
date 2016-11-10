@@ -120,7 +120,7 @@ I've Karina to thank for introducing me to Pahlka Posse, and the existence of "C
 ## Self-Scoring
 
 * **A: End-of-Module Assessment**: 2
-* **B: Individual Work & Projects** 1
+* **B: Individual Work & Projects** 2
 * **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
@@ -128,9 +128,14 @@ I've Karina to thank for introducing me to Pahlka Posse, and the existence of "C
 =======================================
 
 ## Review
-
 ### Rubric Scores
 ### Outcome
+
+Fail
+
+Let's talk about options to come - Another Shot at mod4? Jobhunt? audit?
+
+
 
 * **A: End-of-Module Assessment**:
 * **B: Individual Work & Projects**:
