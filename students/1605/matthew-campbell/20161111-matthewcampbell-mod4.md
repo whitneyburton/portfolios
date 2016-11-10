@@ -265,6 +265,7 @@ I think Lia is an amazing resources for us as students.  Some good tips I got we
 
 * "Matt is one of the most sincere, thoughtful people I have had the pleasure to meet. He is always willing to help and to listen. It has been so great getting to know him better over this course of the past few modules. I was having some issues with routes and a form on my final project and Matt was quick to take a look, over some advice, and help me out. I can't thank him enough for that. Matt has been an awesome contributor to the Parenturing channel and awesome parent-ally for me as we both raise our sons. Matt is always smiling, always encouraging. I cannot wait to hear what his future as a developer in the post-Turing world holds for him!" - Susi Irwan
 
+* "Matt brought out my best flow state the whole module. Pairing with him was bliss. He knew just what to say to put me in a mindset were I could grow and subsequently gain confidence in my abilities as a developer. He will be missed." -Eric Wahlgren-Sauro
 
 ### Playing a Part
 
