@@ -101,12 +101,14 @@ Notes:
 * [GitHub URL](https://github.com/ski-climb/Black-Thursday.git)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-(description)
+#### Description
+Black Thursday was a project to analyze sales data which included customers, merchants, items (sold), invoices, and transactions (successful or not).  The data was imported from CSV's and each relationship (e.g. a merchant has items) was created by hand.  Once the foundation was built, it was possible to ask more complex questions like finding the average price across all items and average number of items merchants had for sale.  Going even deeper, we were also able to dig into which item was the most purchased item for a particular merchant, or find the item which generated the most revenue for a merchant.  
 
+Black Thursday was an introduction to a more complex data set and relationships within the data than we have been exposed to previously.  I especially enjoyed diving into the complex questions we could answer, using the tools we had built from scratch.
 
 #### Evaluation Comments:
 Notes: 
-- 102 tests all passing *EDIT by Nick: the spec harness had 102 test, I had 206*
+- 102 tests all passing *EDIT by Nick: the spec harness had 102 tests, I had 206*
 - spec passing
 - established a process
 - felt more comfortable with enumerables
