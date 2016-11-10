@@ -179,9 +179,21 @@ Scores:
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Vote Your Conscience
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Introversion
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Resilience
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
