@@ -173,10 +173,13 @@ To Megan:
 Megan is a hard working insightful individual. She has an attention to detail and always willing to collaborate. Throughout the entire module, I always knew that I could go to Megan as a resource for both technical as well as emotional support. This was also true in our Little Shop project. She does a great job voicing her opinion while also listening to others. I appreciate when she pushes back on others' suggestions when she has a differing opinion. She is comfortable giving something a try and perservering until it works, and works well. Thank you for your leadership and support!   
 
 
-### Being a Community Member
+### Being a Community Member  
+
+From Noah:  
+Ali's leadership of Pahlka Posse has really pushed us forward as a group. She is able to keep us on track while still making sure everyone's opinions get heard, which is no mean feat. We wound up rewriting a huge chunk of a project in JS/Node and she jumped in and picked up a ton of the syntax/concepts really quickly, making serious progress towards bringing a suite of other apps together as one main game/app. Her willingness to just get things done has not only served Pahlka well but will surely serve her well in the post-Turing world!
 
 From Tommasina:  
-Ali has been a dedicated leader of Pahlka Posse this mod. She's coordinated our meeting times, locations, and agendas and has helped keep us on track with timing during these meetings. She's facilitated Saturday work parties, and lead our group through its first iteration of our master canvas for our healthy eating game, even as she was just learning JavaScript. Her sense of efficiency, fairness, and dedication to working towards a greater good have made her an inspiring leader without our group.  
+Ali has been a dedicated leader of Pahlka Posse this mod. She's coordinated our meeting times, locations, and agendas and has helped keep us on track with timing during these meetings. She's facilitated Saturday work parties, and lead our group through its first iteration of our master canvas for our healthy eating game, even as she was just learning JavaScript. Her sense of efficiency, fairness, and dedication to working towards a greater good have made her an inspiring leader within our group.  
 
 From Erin:  
 Ali, working with you has been a lot of fun and I've learned tons. I think we have a similar style of how we approach programming so working with you also felt very natural and easy. Your note-keeping, precision, and thoughtfulness toward our approach resulted in our group attaining higher quality project that I'm super proud of. Keep practicing not letting perfection drive out the good. You write great code and are awesome at refactoring, so I know this is something that you will easily keep improving while you knock out great projects.  
