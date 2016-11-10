@@ -9,10 +9,10 @@ For this mod my main goal was to get much better at collaboration with my team m
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3.5
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3.5
+* **B: Individual Work & Projects**: 3.75
+* **C: Group Work & Projects**: 3.75
 * **D: Professional Skills**: 3.5
-* **E: Feedback & Community Participation**: 3.5
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
