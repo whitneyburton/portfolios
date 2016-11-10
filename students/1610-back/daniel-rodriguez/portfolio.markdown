@@ -26,27 +26,27 @@ Notes:
 
 Scores:
 
-### 1. Ruby Syntax & API
+#### 1. Ruby Syntax & API
 
 * 4: Developer is able to write Ruby with a minimum of reference or debugging
 
-### 2. Completion and Progress
+#### 2. Completion and Progress
 
 * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 
-### 3. Testing
+#### 3. Testing
 
 * 3: Developer writes tests that are effective validation of functionality, but don't drive the design
 
-### 4. Workflow
+#### 4. Workflow
 
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
-### 5. Collaboration
+#### 5. Collaboration
 
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
-### 6. Enumerable & Collections
+#### 6. Enumerable & Collections
 
 * N/A
 
@@ -54,7 +54,7 @@ Scores:
 
 The two individual projects that I worked on during Module 1 (Date Night and HTTP) are listed below:
 
-#### Date Night
+### Date Night
 
 Repo: https://github.com/drod1000/Date-Night
 
@@ -69,23 +69,23 @@ Notes:
 
 Scores:
 
-### 1. Test-Driven Development
+#### 1. Test-Driven Development
 
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-### 2. Functional Expectations
+##### 2. Functional Expectations
 
 * 3: Application fulfills all base expectations
 
-### 3. Breaking Logic into Components
+#### 3. Breaking Logic into Components
 
 * 3: Application consistently breaks concepts into classes which encapsulate functionality. (SRP).
 
-### 4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)  needs some refactoring, and is mostly idiomatic.
 
-#### HTTP
+### HTTP
 
 Repo: https://github.com/drod1000/http
 
@@ -93,23 +93,23 @@ HTTP builds a functioning web server
 
 Scores:
 
-### 1. Overall Functionality
+#### 1. Overall Functionality
 * 2: Application implements iterations 0 - 3
 
-### 2. Fundamental Ruby & Style
+#### 2. Fundamental Ruby & Style
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
-### 3. Test-Driven Development
+#### 3. Test-Driven Development
 * 3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
 
-### 4. Breaking Logic into Components
+#### 4. Breaking Logic into Components
 * 4: Application effectively breaks logical components apart with clear intent and usage
 
 ## C: Group Work & Projects
 
 The two pair projects that I worked on during Module 1 (Nightwriter and Black Thursday) are listed below:
 
-#### Nightwriter
+### Nightwriter
 
 Repo: https://github.com/Sh1pley/nightwriter
 
@@ -124,21 +124,23 @@ Notes:
 
 Scores:
 
-### 1. Test-Driven Development
+#### 1. Test-Driven Development
 
 * 3.5: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-### 2. Breaking Logic into Components
+#### 2. Breaking Logic into Components
 
 * 2: Application makes use of some classes, but the divisions or encapsulation are unclear.
 
-### 3. Fundamental Ruby & Style
+#### 3. Fundamental Ruby & Style
 
 * 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
 
-### 4. Overall Functionality
+#### 4. Overall Functionality
 
 * 3: Application follows the complete spec and one extension
+
+### Black Thursday
 
 Assessed By: Beth Sebian
 
@@ -156,22 +158,22 @@ Notes:
 
 Scores:
 
-### 1. Functional Expectations
+#### 1. Functional Expectations
 * 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
-### 2. Test-Driven Development
+#### 2. Test-Driven Development
 * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
-### 3. Encapsulation / Breaking Logic into Components
+#### 3. Encapsulation / Breaking Logic into Components
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-### 4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-### 5. Enumerable & Collections
+#### 5. Enumerable & Collections
 * 4: Application consistently makes use of the best-choice Enumerable methods
 
-### 6. Code Sanitation
+#### 6. Code Sanitation
 * The output from `rake sanitation:all` shows...
 * 4: Zero complaints
 
