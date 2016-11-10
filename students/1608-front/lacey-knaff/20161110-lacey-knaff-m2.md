@@ -187,11 +187,12 @@ Due: 2016-10-16
 
 #####Feedback to me from Kristen Burgess
 
+I had heard positive reviews from cohortmates on Lacey as a partner, and I was so excited to be paired together for 2DoBox! Her repuation did not falsley precede her! Lacey has a great attitude, and she approaches difficult problems with a calm, positive demeanor that is really pleasant to work with. She is well organized, a strong communcicator, and a hard worker. I think she writes very clean, logical code, and I felt like we paired together very well. Furthermore, in spite of all her modesty, she is so incredibly talented with creating beautifully designed layouts through exceptionally well written CSS! My only critique- and it's hardly a critique- is to be more confident! I feel like there are times you doubt yourself more than you should; you have no reason to with as talented as you are! I look forward to working together again in the modules ahead!
 
 
 #####Feedback from me to Kristen Burgess
 
-I had an awesome time working with Nick on Linked List. He's a great team player and has an infectious positive attitude, even in times of stress. He consistently does pulse checks in the group to re-DTR and make sure every one is feeling good about workflow and process. He's is an adept developer that brought a lot of skills to the team and is a confident problem solver. Hoping we can work together again in future projects!
+I really enjoyed working with Kristen on 2DoBox. She is a super hard worker, and I was really impressed with her drive to   delve into testing. Even though unit testing in Selenium wasn't very much fun, It was great to see her find something she was passionate about learning, and then continue on to be a kickass enzyme tester. I think we had a great group dynamic and I'd love to work with her again in the future!
 
 
 ## D: Professional Skills
