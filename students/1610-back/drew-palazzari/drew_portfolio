@@ -174,6 +174,28 @@ proper place. Overall, we did well on the project.
 * [GitHub URL](https://github.com/lucyconklin/black_thursday-1)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 * [DTR with Lucy](https://docs.google.com/document/d/1-znvBm8mFMxhxQet1lleAd5mXd46uliP_S6I8ILk0yo/edit#)
+* [Evaluation Scores](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/black_thursday/drew_lucy.md)
+
+1. Functional Expectations
+
+3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+2. Test-Driven Development
+
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3. Encapsulation / Breaking Logic into Components
+
+4: Application is expertly divided into logical components each with a clear, single responsibility
+4. Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+5. Enumerable & Collections
+
+4: Application consistently makes use of the best-choice Enumerable methods
+6. Code Sanitation
+
+The output from rake sanitation:all shows...
+
+4: Zero complaints
 
 Project pairing: Lucy Conklin
 
@@ -182,6 +204,11 @@ hardest part for me was definitely in sales analyst. Thankfully, Lucy is awesome
 methods in that part of the project. I was proud of my participation in all other aspects. I figured out how to  make mock 
 tests work, how to build the paths from repo to repo, and how to get the spec harness passing. I learned a lot from this 
 project, especially that I have a lot of work to do before I am the coder I want to be.
+
+Lucy was awesome. She is such a good coder. We meshed well together and finished this project a couple days early (we spent about
+16 hours at Turing over the weekend). Only thing for improvement we could have done was break apart the sales analyst into multiple
+analyst files. When we did try, it was causing more problems than it resolved, so we decided to just stop working the night before
+it was due. We refactored it wonderfully, and then called it quits.
 
 
 ## D: Professional Skills ##
