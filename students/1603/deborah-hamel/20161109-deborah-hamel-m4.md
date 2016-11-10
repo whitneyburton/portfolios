@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Graduate! How do I make up gaps and do what's best for Deb.
+Graduate! Make up gaps and do what's best for my continued growth and learning.
 My goals coming to Turing were to push myself as hard as I could and transition to new work as a programmer. I am committed to the Turing program, Turing community, and my own personal growth and learning. I will persevere through challenges and stay positive with an upward sloping trend. Looking back on Mod 1, I really am proud of the effort I have put into my own personal learning journey. I am looking forward to continued learning and opportunities to grow and be successful in a satisfying technical career.
 
 This module, in particular, I wanted to:
