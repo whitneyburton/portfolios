@@ -234,12 +234,12 @@ It was really cool to learn how there is a scale from introvert to extrovert, ra
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Flower Exercise
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
+* [Link to Completed Deliverables](https://github.com/danbroadbent/portfolios/blob/master/students/1606-back/dan-broadbent/Flower%20Diagram-Dan.pdf)
 
-(takeaways from session)
+The flower exercise made us do some deep reflection on what we are really looking for in a career.  We make a lot of assumptions about what we think we want, but when we look deeper into what we really value, it may be surprising to discover what would really make us the most happy.
 
 ## E: Feedback and Community Participation
 
