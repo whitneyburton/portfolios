@@ -6,8 +6,8 @@ This module I was looking forward to focusing on fundamentals.  By that I mean I
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
@@ -274,8 +274,9 @@ I would say the best example I could find for playing a part in this first modul
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Enjoyed gearup discussions 
+* would love to see more community involvement 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PROMOTED
