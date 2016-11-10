@@ -10,11 +10,11 @@ Reach Goal: ...everyone in the 1610 front-end cohort as well.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -178,7 +178,7 @@ I really enjoyed thinking about rights and their corresponding responsibilities.
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-This conversation seems really important for Turing since this field seems to attract people on the introverted end of the spectrum. The TED talk was great, and reinforced something that I have come to discover, which is that introverts can learn to be very powerful public speakers. In our discussion group we talked about extroverts wanting people to "get out of their shell" and I've been thinking about how that language might actually have the opposite effect. We also raised the question of whether or not Turing might actually serve introverts better than extroverts. Another takeaway from our discussion was how intertwined introversion/extroverstion, shyness, and the lack of self confidence can be, and how they can all be confused with and improperly identified as introversion.
+This conversation seems really important for Turing since this field seems to attract people on the introverted end of the spectrum. The TED talk was great, and reinforced something that I have come to discover, which is that introverts can learn to be very powerful public speakers. In our discussion group we talked about extroverts wanting people to "get out of their shell" and I've been thinking about how that language might actually have the opposite effect. We also raised the question of whether or not Turing might actually serve introverts better than extroverts. Another takeaway from our discussion was how intertwined introversion/extroversion, shyness, and the lack of self confidence can be, and how they can all be confused with and improperly identified as introversion.
 
 #### Resilience
 
