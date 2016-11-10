@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-* When I first started at Turing my goal was to familiarize myself with Ruby and get used to thinking through problems logically to give myself a good foundation as a new developer. As the module progressed, I realized that that there are a lot of things that go into writing good and readable code that I wasn't aware of initially. I struggled with using a test driven development approach at first so I made it a point to improve on it. Although I know I still have a way to go I'm proud of the strides I've made and hope to turn this into a strength of mine as I move through the program.
+When I first started at Turing my goal was to familiarize myself with Ruby and get used to thinking through problems logically to give myself a good foundation as a new developer. As the module progressed, I realized that that there are a lot of things that go into writing good and readable code that I wasn't aware of initially. I struggled with using a test driven development approach at first so I made it a point to improve on it. Although I know I still have a way to go I'm proud of the strides I've made and hope to turn this into a strength of mine as I move through the program.
 
 ## Rubric Scores
 
