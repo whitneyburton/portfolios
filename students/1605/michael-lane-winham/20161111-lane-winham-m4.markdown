@@ -303,8 +303,9 @@ From Jason: Lane was a great partner to work with for Game Time. He was extremel
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Resilience session was really productive and applicable to anything. It's how you respond and progress through a situation
+* PD flower exercise was a really good exercise
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
