@@ -59,9 +59,7 @@ A project requiring that I create a professional site about myself.
 
 ### Projects
 
-(Intro)
-
-#### Number Guesser
+### Number Guesser
 
 * [View on github.](https://github.com/adam-rice/numberGuesser)
 * [View the assignment requirements.](http://frontend.turing.io/projects/number-guesser.html)
@@ -80,7 +78,7 @@ A number guessing game created by Kenia Farias and Adam Rice using vanilla javaS
 
 Feedback from Kenia: Adam thank you for taking on a mentor role and really guiding the project in the right direction. Also, thanks for letting me struggle instead of just giving me the answer right away. It really helped me to become more comfortable with writing out code. I think our project worked out really well because of our initial DTR and our constant communication. I also became a lot more comfortable pushing and pulling changes from and to gitHub. I feel like there were some parts of the project where you had a great idea and went with it, but I would have liked to go over what some of the changes were a little more in depth. I really think our overall teamwork was great and I learned a lot!
 
-#### Bookmark List
+### Bookmark List
 
 * [View on github.](https://github.com/adam-rice/Bookmark-List)
 * [View the assignment requirements.](http://frontend.turing.io/projects/linked-list.html)
@@ -105,7 +103,7 @@ A list to store pages you want to read! Using HTML, CSS, JavaScript and jQuery a
 
 Feedback: Had no partner.
 
-#### IdeaBox
+### IdeaBox
 
 * [View on github.](https://github.com/adam-rice/Idea-Box)
 * [View the assignment requirements.](http://frontend.turing.io/projects/ideabox.html)
@@ -133,7 +131,7 @@ An application to store your ideas. Created by Chaz-Mykl Gormley and Adam Rice u
 
 Feedback from Chaz: Adam and I worked together on "Idea Box" , which introduced 'localStorage' into the JS/jQuery fold. Overall the experience was ideal - we planned properly and were able to break out work into segments, allowing us both to have a 'hands-on' experience. Adam's grasp of JS exceeds my own, and there were points in the project where he blazed ahead and got a lot done in that department - however, he made sure to walk me through, and ensure that I could explain the logic/how-to, in those moments. As we move forward as a cohort, I look forward to working with Adam further.
 
-#### Game Time
+### Game Time
 
 * [View on github.](https://github.com/jonwille/Frogger)
 * [View the assignment requirements.](http://frontend.turing.io/projects/game-time.html)
