@@ -258,6 +258,10 @@ This was a good Gear up as well. The discussion our group had was meaningful and
 * Weekly: Attend MeetUps and Networking events, arrange informal meetings with contacts (1-3)
 * Monthly: Turn meetings into Interviews, work with my mentor to practice technical interviewing skills
 
+#### Turing Portfolio Link
+
+* []
+
 ---
 
 ## E: Feedback & Community Participation
