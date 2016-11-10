@@ -43,7 +43,9 @@ Anna will retake the assessment.
 
 ## B: Individual Work & Projects
 
-I'm not entirely sure what our individual projects are, so nothing has been linked below. On my individual work, I did not complete many of the exercises. I will be finishing with Mythical Creatures over the weekend with my mentor, after beginning again for practice. While on intermission, I hope to go through all of Dead Presidents and the Unicorn site. I have difficulty prioritizing when everything seems important, but the 'smaller' exercises tend to be set aside in favor of the paired projects with given deadlines. Therefore, I hope to complete all of them and do additional work on exercisms between modules.
+I'm not entirely sure what our individual projects are. On the work we did in class or as homework, I did not complete many of the exercises. I will be finishing with Mythical Creatures over the weekend with my mentor, after beginning again for practice. While on intermission, I hope to go through all of Dead Presidents and the Unicorn site. I have difficulty prioritizing when everything seems important, but the 'smaller' exercises tend to be set aside in favor of the paired projects with given deadlines. Therefore, I hope to complete all of them and do additional work on exercisms between modules.
+
+My [Mythical Creatures](http://www.bellydancedigs.com/fusion-2pc-knicker-pant.html) repo is here.
 
 ## C: Group Work & Projects
 
@@ -139,6 +141,18 @@ Students may take the weekend and resubmit project for review on Monday for revi
 
 (feedback to me)
 
+#### Game Time
+
+* [Frogger](https://github.com/pescel/Frogger);
+* [Project Description](http://frontend.turing.io/projects/game-time.html)
+
+Functional Expectations - 3
+Testing - 3
+User Interface - 4
+Javascript Style - 3
+Workflow - 4
+Code Sanitation - 3
+
 ## D: Professional Skills
 (Intro)
 
@@ -213,25 +227,22 @@ Students may take the weekend and resubmit project for review on Monday for revi
 #### Feedback I
 
 * https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md
-* [Link to Completed Deliverables]()
+  The article Allison brought in was very interesting and quite useful. While I don't know that I've actively used the knowledge in class, I have tried to keep the points in mind and hope to reread the article in the coming weeks. I do believe that the information would be helpful if fully implemented by everyone, but that is something each person needs to take on themselves. For myself, I hope to take some time for self-reflection to determine what type of feedback I need the most.
 
-(takeaways from session)
 
 ### Professional Development Workshops
 #### Learning to Pair
 
 * https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md
-* [Link to Completed Deliverables]()
 
-(takeaways from session)
+  I thought this session was very helpful. Walking through how to DTR and having a template to work through helped all my pairs start off with a strong start. I need to get more comfortable at voicing disappointment and frustration, but that is also something I need to work on in general. I expect to become more comfortable with my cohortmates as we all get to know each other better, which will make any kind of discussion easier.
 
 ### Professional Development Workshops
 #### Personal Branding I
 
 * https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md
-* [Link to Completed Deliverables]()
 
-(takeaways from session)
+  I have a lot of work to do to align my personal brand. It is not anything I have ever spent much time on and while I have all necessary information, there may be too much information. I would like to streamline my LinkedIn and personal site to be more concise.
 
 ### Professional Development Workshops
 #### Personal Branding II
