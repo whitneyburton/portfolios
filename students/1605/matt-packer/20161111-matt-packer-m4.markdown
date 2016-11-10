@@ -51,6 +51,10 @@ Below is a demonstration of the App:
 
 ![URLGif](http://recordit.co/TO4j4hRcwH.gif)
 
+## Cumulative Module Score (from Tracker)
+* **1024/1140**
+* **89.82%**
+
 ## B: Individual Work & Projects
 
 The following section consists of one evaluated individual project:
@@ -218,7 +222,7 @@ I would love to join a team where I can help contribute to all stages of the pro
 
 I believe that I would benefit from working at a smaller company.  I like the idea that my performance would be visible to the entire organization.
 
-**Barries:**
+**Barriers:**
 - Entering tech industry
     - Being new to the industry
     - Lack of experience
