@@ -192,10 +192,18 @@ David, pairing with you was a great experience.  We haven’t really gotten to w
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
 ### Notes
 
-( Leave blanks for reviewers )
+* Good final assessment
+* Successful gametime with Matt - slime volleyball
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
