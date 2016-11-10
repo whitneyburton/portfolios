@@ -265,6 +265,11 @@ My group had a long discussion about whether labelling people as introverts or e
 
 My group's discussion was based mostly around how poorly this election has been run and the seeming bias of all the resources we could find. We decided it all comes down to each individual doing their own extensive research on each candidate and drawing their conclusion after viewing each side.
 
+#### Resilience
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+
+I was made to realize how my own hardships have shaped me, and how important it is to view each challenge and hardship as a chance to do better and be better.
 
 
 ### Professional Development Workshops
@@ -291,6 +296,18 @@ Action Steps:
 * Attend more meetups-start in a more relaxed environment
 
 * Try to get to know people who can intro me into the job talk-get a wingman
+
+#### Negotiations
+
+[Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_four/negotiations.md)
+
+I thought this class was very useful. Some thing I learned were:
+
+* Never negotiate over email
+
+* Never make the first offer
+
+* Never accept an offer on the spot
 
 ## E: Feedback and Community Participation
 
