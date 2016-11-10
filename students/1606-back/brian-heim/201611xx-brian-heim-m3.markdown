@@ -167,6 +167,55 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 
 ---
 
+### Self-Directed Project - Mind On The Ball
+
+* [https://github.com/bheim6/football_machine_learning]
+* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md]
+* [https://mind-on-the-ball.herokuapp.com]
+
+__Project__ description:
+
+The goal of the SDP is to create an app that will authenticate with a third-party service, consume an api, and solve an actual problem.
+
+Jean and I decided to create an app that would generate statistical predictions for the NFL. We set out to accomplish this using a machine learning algorithm called a Neural Net. The app also contains an educational blog section that documents our process during the creation of the neural net. In addition, there is a page that displays large amounts of statistical data acquired from an external api.   
+
+Project Partner: Jean Joeris
+
+### [Mind On The Ball]
+
+### Pitch
+
+MOTB is an application that presents predictions based on historical data and provides an educational resource for learning about Neural Nets through NFL football statistics.
+
+### Problem
+
+1. Learning about Neural Nets is hard and without context, can be overwhelming (Normalizing data, constructing network, calculations).
+2. UI is a little outdated (all HTML).
+3. Good Football APIs are expensive and hard to come by.
+
+### Solution
+
+1. Blog posts documenting process will explain many of these issues, and potentially serve as a resource for Armstron Posse.
+2. Will utilize JavaScript/AJAX to speed up requests and limit need to refresh, improving UI
+3. Football Stats will be free to use and transparent with an API being provided.
+
+### Target Audience
+
+1-3 sentences describing what type of user your app would be applicable to.
+
+1. Students wishing to gain knowledge about machine learning, specifically Neural Nets.
+2. Football fans who want lightweight statistics on their favorite players with predictions for future performance.
+
+### Integrations
+
+* Which APIs will you use?
+ * NFL Fantasy API
+* Which OAuth integration are you planning to use?
+ * Github 
+
+
+__Project__ scores:
+
 ## D: Professional Skills
 
 ### Job Shadowing Experience - Trelora
