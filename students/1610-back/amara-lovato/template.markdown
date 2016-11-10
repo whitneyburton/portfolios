@@ -14,19 +14,19 @@ Keeping my final goal in mind (create great tools to make the world better) real
 * **E: Feedback & Community Participation**: X
 
 # A: End-of-Module Assessment (individual self-assessment)##
-#### A: End-of-Module Assessment
+## A: End-of-Module Assessment
 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
 
-#### B: Individual Work & Projects
+## B: Individual Work & Projects
 3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
 
-#### C: Group Work & Projects
+## C: Group Work & Projects
 3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
 
-#### D: Professional Skills
+## D: Professional Skills
 3: Student demonstrates satisfactory dedication, understanding, and growth of professional development through their deliverables from PD sessions.
 
-#### E: Feedback & Community Participation
+## E: Feedback & Community Participation
 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior. They have a significant positive positive impact on the learning and spirit of the people around them.
 
 # B: Individual Work & Projects
@@ -183,38 +183,36 @@ The session "Vote Your Conscience" made me think deeper that voting is not only 
 ###Introversion and Extroversion on Teams
 https://github.com/turingschool/gear-up/blob/master/introversion.markdown
 
-That was an opening-eye session for me. 
+That was an opening-eye session for me. Being an extroverted I never could imagine how introverts could feel in daily situations. I enjoyed the TED talk about this topic and made me understand previous situations that I had with some of my friends or family that are introverts. For example, I couldn't imagine that somebody could feel tired after socializing for a couple of hours, that some people prefer to go home and read instead of going to a party to meet people or that some silent time is a necessity for others. I felt bad for having tried some of my friends to be more extroverted or expose to things that probably they weren't comfortable with but now that I know that, I will ask them and others before assuming things because we all are different and that's the charm of this world.
 
 ###Resilience#
 https://github.com/turingschool/gear-up/blob/master/resilience.markdown
-!!!!******** PENDING TO DO THIS, POSITIVE THAT I WROTE ABOUT IT SOMEWHERE, CHECK NOTEBOOK AND FILES IN MY LAPTOP ******!!!!!!
 
 When I think of resilience, I think of a person who is tenacious and keeps positive in spite of the circumstances. I didn’t know that resilence can be learned. It was interesting to know the approach of resilience, while some of us thought more in physical conditions other considered. The career to be a programmer consists basically in solving problems so you need to be ready to face them and constantly evaluate what you can do instead of complaining of what went wrong. Leaving your comfortable bubble, traveling to very different places than you are use to, surround yourself from people more knowledgeable in a subject than you, learning new skills, thinking about a problem differently. Help people find their solutions instead of giving them the answers, being empathetic with others, helping another student to break big problems into smaller pieces, celebrating the small wins, helping people recognize what they do well, encouraging people think positively, ask them to think of the worst thing that can happen in their life so they realize that the problem that they’re facing is probably much smaller than they initially thought. Another way to build resilience is to get inspired with stories of people that were in a much worse situation and they finally thrive.
 
 ## Professional Development Workshops
-
 ### Personal Branding Part I
 https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md
-Link to Completed Deliverables:
+#### Link to Completed Deliverables:
 * Resume: https://turingschool.slack.com/files/pixapi/F2ZLU2N5C/resume_lovato_1610.pdf
 * LinkedIn Profile: https://www.linkedin.com/in/amaralovato
 * Twitter Account: https://twitter.com/amaralovato
 * GitHub Profile: https://github.com/pixapi
-Takeaways from session: 
+#### Takeaways from session: 
 I found especially inspiring the approach of branding ourselves as telling a consistent story about us. Many times we see branding as something superficial or trying to project a perfect image but reflecitng about it, I understand that is more to make people know us and of course, enhance the best of us. Our brand is not only our resume or dressing elegant for our interview, we define who we are by many ways (such as when using Twitter, our LinkedIn profile or when attending a conference) so we need to be wise and behave appropriately if we want to create a good impression as a whole.
 
 ### Learning to Pair
 https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md
-Link to Completed Deliverables:
+#### Link to Completed Deliverables:
 * DTR Memo: https://turingschool.slack.com/files/pixapi/F2Z1F5NJW/dtrforamyandamara.pdf
-Takeaways from session: 
+#### Takeaways from session: 
 Having a conversation before starting to work on a project with your pair is crucial for having a good experience. Some of the aspects that should be discussed are what time both work better, what are your strenghts and concerns about the project, what are your learning goals and what can help you or stop you from being successful in the project. Once each part has shared their perspective, the goal is to define a guideline that works for both and to use during the pair project period.
 
 ### Feedback I
 https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md
-Link to Completed Deliverables:
+#### Link to Completed Deliverables:
 Please see Feedback section in portfolio for feedback for and from project partner.
-Takeaways from session: 
+#### Takeaways from session: 
 How to provide good feedback is an important thing to know how to do and I feel that talking about it outloud help us to realize many things of ourselves that we weren't aware of. Feedback should start recognizing the good things and when going through the things that can be better, it's advisable to be said in a constructive way by providing solutions so people don't feel receiving a problem but a way to improve. 
 
 # E: Feedback and Community Participation
@@ -246,20 +244,14 @@ Amara, your dedication to learning the material is almost unmatched in our cohor
 Amara is so inspiring to be around. She is great at bringing people together and making our time at Turing enjoyable for everyone. She is full of new ideas and will be a great addition to any company culture that she's thrown into because she has the ability to excite and motivate others.
 
 ## Playing a Part
-I do my best trying to encourage the group (my cohort) to get together every Thursday after wrap up to celebrate that we made it one more week as a way to keep ourselves motivated to move forward. I also actively participate in the cohort retro and surveys providing new ideas and constructive feedback to make Turing experience even better. In order to strengthen the team sense,
-several times to create a list of tech topics that we knew and others that we wanted to learn about. Then we surveyed the rest of our cohort to find out which of
-those tech topics people were interested in and if others. We presented it to Alison and she suggested that creating a new posse to go through these topics and
-build markdowns for the future would be suitable.
-I've been attending to productivity lunch and impostor syndrome lunch and both groups have been extremely helpful.
-I have the will to build connections between the school and whoever I find especially awesome in the field like professionals, incubators, local tech companies and co-working spaces. I haven't written some places and people but it always take a while to be successful and unfortunately I've been frantic busy with school workload. However, I will keep trying next semester, I'm a tenacious person when I have a goal in mind.
+I love working in teams and being part of meaningful communities and this is why in Turing I feel in my element. This module I did my best to make the group (my cohort) feel like a team, for example trying to include everybody in conversations, checking when I was seeing somebody struggling and encouraging my peers to get together every Thursday after wrap up to celebrate that we as a team made it one more week. I also actively participate in the cohort retro and student surveys providing new ideas and constructive feedback to make Turing experience even better. In terms of posses, I attended mainly to Pahlka but I also went to some sessions of Verou and Bezos that I found especially interesting. I have been also going to some Impostor Syndrome lunch times and to most of Productivity Lunch meetings, these later ones have been really useful and very inspiring, I love the group, always eager to share things that work for them, and how Nate leads the sessions. Caroline Powell and I met with a group of our peers to create a list of tech topics that we knew and others that we wanted to learn about in order to create workshops and tutorials markdowns that the school could use in the future. Then we surveyed the rest of our cohort to find out which of those topics people were interested the most and if others. We are currently working on that and hopefully we will be able to have some materials ready for possible talks next module. Last but not least, I have the will to build connections between the school and whoever I find especially awesome in the field such as  professionals, incubators, local tech companies and co-working spaces. I haven't reached some places and people but it always take a while to be successful and unfortunately I've been frantic busy with school workload. However, I will keep trying next semester, I'm a tenacious person when I have a goal in mind.
 
+# Final Review
 
-## Final Review
-
-# Notes
+## Notes
 
 ( Leave blanks for reviewers )
 
-# Outcome
+## Outcome
 
 ( Leave blanks for reviewers )
