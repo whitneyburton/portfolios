@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+* When I first started at Turing my goal was to familiarize myself with Ruby and get used to thinking through problems logically to give myself a good foundation as a new developer. As the module progressed, I realized that that there are a lot of things that go into writing good and readable code that I wasn't aware of initially. I struggled with using a test driven development approach at first so I made it a point to improve on it. Although I know I still have a way to go I'm proud of the strides I've made and hope to turn this into a strength of mine as I move through the program.
 
 ## Rubric Scores
 
@@ -59,7 +59,7 @@ The two individual projects that I worked on during Module 1 (Date Night and HTT
 * https://github.com/drod1000/Date-Night
 * https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown
 
-(description)
+* Date Night stores movies according to their score by using a binary search tree
 
 Notes:
 
@@ -86,14 +86,12 @@ Scores:
 
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)  needs some refactoring, and is mostly idiomatic.
 
-(Intro)
-
 #### HTTP
 
 * https://github.com/drod1000/http
 * https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown
 
-(description)
+* HTTP builds a functioning web server
 
 Scores:
 
@@ -118,7 +116,7 @@ The two pair projects that I worked on during Module 1 (Nightwriter and Black Th
 * https://github.com/Sh1pley/nightwriter
 * https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown
 
-(description)
+* Nightwriter converts text files from english to braille and back
 
 Notes:
 
@@ -144,8 +142,6 @@ Scores:
 ### 4. Overall Functionality
 
 * 3: Application follows the complete spec and one extension
-
-(feedback to me)
 
 ## D: Professional Skills
 (Intro)
