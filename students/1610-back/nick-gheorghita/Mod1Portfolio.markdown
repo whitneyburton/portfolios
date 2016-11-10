@@ -9,11 +9,11 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -241,8 +241,11 @@ https://bl.ocks.org/njgheorghita/1fe7f5f657b0089b62b92a966d422bb6
 
 ### Notes
 
-( Leave blanks for reviewers )
+* strong group work
+* would have loved to see stronger individual work
+* get involved in a posse
+* go back to HTTP iteration 0-5 with good code
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PENDING
