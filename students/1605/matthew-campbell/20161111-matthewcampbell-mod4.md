@@ -8,10 +8,10 @@ My goal for module 4 was to leave prepared for the workforce with another tool u
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3.5
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3.5
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -274,10 +274,7 @@ I think Lia is an amazing resources for us as students.  Some good tips I got we
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
