@@ -13,7 +13,33 @@
   E: Feedback & Community Participation: 3
 
 ## Final Assessment Scores
-  Not yet received, but got 3s and 3.5s
+1. Conceptual Understanding
+
+ * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
+
+2. Analytic/Algorithmic Thinking
+
+ * 3.5: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+
+3. Feature Completeness
+
+ * 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+
+4. ActiveRecord Syntax and Style
+
+ * 3.5: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+
+5. Rails Style
+
+ * 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+6. Testing
+
+ * 3.5: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
+
+7. Collaboration
+
+ * 3.5: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ## Evaluation Notes
   - Need to get stronger determining when to use instance/class methods
