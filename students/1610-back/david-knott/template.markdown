@@ -13,7 +13,7 @@ I set out to learn as much as I could here at Turing.  I learned about ruby, pro
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 4
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -291,8 +291,13 @@ I completed me cleaning duties every week and tried to help my classmates when t
 
 ### Notes
 
-( Leave blanks for reviewers )
+* struggled with making clean code but had a lot of functional projects 
+* embrace personal strengths and ask for help in areas of struggle
+* PD feedback session was his favorite 
+* more community in M2
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PROMOTED
+
+
