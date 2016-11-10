@@ -210,7 +210,7 @@ In all honesty, I hadn't given a lot of thought to resiliency before this gear u
 #### Learning to Pair
 
 * Markdown: https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md
-* DTR: https://gist.github.com/MarisaMBurton/c2ee89e50f5de3b8dc4d451fa4fc3b2e
+* DTR: https://gist.github.com/drod1000/55ed00026e2c5b357479160b72a909e3
 
 #### Feedback
 
