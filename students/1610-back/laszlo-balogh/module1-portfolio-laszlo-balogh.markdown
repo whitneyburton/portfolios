@@ -35,7 +35,7 @@ Assessed by: Mike Dao
 #### 5. Collaboration  
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
-### 6. Enumerable & Collections  
+#### 6. Enumerable & Collections  
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
@@ -55,7 +55,7 @@ Above and beyond the base project feature requirements I implemented one extensi
 
 Assessed By: Beth Sebian
 
-Original evaluation report: https://github.com/turingschool/ruby-submissions/blob/master/1610-b/date_night/laszlo-balogh.md
+[Original evaluation report](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/date_night/laszlo-balogh.md)
 
 Notes:
 
@@ -195,8 +195,8 @@ Code Sanitation - The output from rake sanitation:all shows...
 ## D: Professional Skills
 Personal notes, take-aways from Professional Development and Gear Up sessions.
 
-### Gear Up
-#### Vote Your Conscience
+## Gear Up
+### Vote Your Conscience
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
@@ -214,7 +214,7 @@ Democracy makes sense in theory, but by some accounts its integrity in the US ha
 * Compare what a citizen needs to do to support democracy against your current attitudes towards civic responsibility and your perception of mainstream attitudes towards voting. How do you reconcile these? What level of involvement is most consist with the values you hold?
 * To serve everyone’s best interest, citizens should focus on facts, filter our feelings and subjective details as much as possible. Using objective information as basis for decision making would be in best interest of every citizens.
 
-#### Introversion and Extroversion on Teams
+### Introversion and Extroversion on Teams
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
@@ -244,18 +244,18 @@ Book suggestion:
 Man’s search for meaning
 
 
-### Professional Development Workshops
+## Professional Development Workshops
 
 [All workshop descriptions](https://github.com/turingschool/professional_skills/tree/master/module_one)
 
-#### Personal Branding
+### Personal Branding
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 * [Link to Completed Deliverables](https://www.linkedin.com/in/laszlobalogh)
 
 Need to set up industry specific online presence, including tayloring content towards the industry. Such as updating LInkedIn profile and resume to highlight industry specicic experience, eliminate non-relevant information.
 
-#### Learning to Pair
+### Learning to Pair
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md)
 * [Link to Completed Deliverable - Complete-Me DTR](https://docs.google.com/document/d/10bR4P1cFi15NhzPXGgfmw6GChrDIf_feH8VtAb9xr-4/edit?usp=sharing)
@@ -263,7 +263,7 @@ Need to set up industry specific online presence, including tayloring content to
 
 We practiced how to go through a paired project kick-off, prepare working together, identify project related details such as tools, way of working, value brought by team members, etc.
 
-#### Feedback
+### Feedback
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md)
 
