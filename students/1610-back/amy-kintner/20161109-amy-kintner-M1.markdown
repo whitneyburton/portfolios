@@ -137,6 +137,7 @@ The attention to this topic was well deserved: pairing with others is a skill, a
 
 * [DTR Memo from Amy and Kyle] (https://docs.google.com/document/d/16NymvDNiOQUi6tp7JkjFA4eGKSM1pXh8Wgwxw-yDgAY/edit?ts=5808fd10#)
 * [DTR Memo from Amara and Amy] (https://turingschool.slack.com/files/pixapi/F2Z1F5NJW/dtrforamyandamara.pdf)
+
 ### Giving Feedback
 
 Kyle and I worked on the first paired project together, Complete Me, and overall it was an amazing experience. Our work and communication styles are clearly similar, and our ability to do work together was complemented by these similarities. One thing that could be improved, from my perspective, was continuing to outline goals for each evening of the week it was due. Over the weekend, we set explicit goals and both achieved them, but after our first pairing session Monday night, we never re-set goals each day, so I spent some evenings wondering what I should be doing and feeling like I wasn't accomplishing much. In the end, our project ended up being a tremendous success, and these evening of solo work and research helped both of us achieve a very streamlined end result, but it may be better going forward to outline more explicit goals and communicate them in advance each day. Communication between the two of us during pairing sessions was excellent, we shared space and computer consoles very well, and I look forward to working with Kyle again in the future at Turing.
