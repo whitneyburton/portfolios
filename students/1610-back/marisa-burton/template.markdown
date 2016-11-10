@@ -59,7 +59,7 @@ Notes:
 Score:
 
 #### Test-Driven Development: 
-1--Application does not demonstrate strong use of TDD
+1: Application does not demonstrate strong use of TDD
 #### REPL Interface and Game Functionality
 3: Application's REPL is clear and pleasant to use and application fulfills base expectations from the project spec
 #### Breaking Logic into Components
@@ -157,7 +157,7 @@ Personal Branding I: The resume/cover letter workshop was really helpful. I upda
 "Marisa was a pleasure to work with during the Night Writer project. I really appreciated her flexibility and willingness to put in long hours over the weekened to work on the project. Her humility was much appreciated, and she was quick to speak up when she did not understand an issue. This allowed us as a group to work on the areas that she needed and allowed us both to focus on our learning process together."
 
 #### Feedback from Jason Conrad:
-"I had the pleasure of working with Marissa on SAB this module. She consistently was trying to take what the people from our Module were saying and figure out ways to improve our experience. She consistently stepped up to the challenge of trying to balance being a student here while being a voice on behalf of our classmates. She assisted in leading weekly retros in which we would try to get a sense of how our classmates were doing so that we could in turn pass it along to the staff so that we could help better the experience for the students. She was was a great person to work with and you could see how much 
+"I had the pleasure of working with Marisa on SAB this module. She consistently was trying to take what the people from our Module were saying and figure out ways to improve our experience. She consistently stepped up to the challenge of trying to balance being a student here while being a voice on behalf of our classmates. She assisted in leading weekly retros in which we would try to get a sense of how our classmates were doing so that we could in turn pass it along to the staff so that we could help better the experience for the students. She was was a great person to work with and you could see how much 
 she wanted to represent our cohort to the best of her abilities. We were lucky to have her and I am excited to see what the rest of her time on SAB and in this school brings!"
 
 ### Playing a Part
