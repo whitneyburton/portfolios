@@ -58,9 +58,40 @@ Subjective evaluation will be made on your work/process according to the followi
 
 Connecting local news producers with the communities they are serving.  NewZ is essentially a platform for community members to have an open-dialogue with news producers to better shape the content and quality of local newscasts.
 
-(evaluation comments)
+Notes:
 
-(evaluation scores)
+* Nixed polymorphic relationships to build relationships from scratch on own
+* Hosted on personal DO droplet
+* Custom rake task for grabbing NYT top stories and populating DB with them
+* Performance can be improved with multiple queries, but zippier on production
+
+**1. Completion**
+
+* **4: Developer completed all the user stories and requirements set by the client in timely manner.**
+
+**2. Organization**
+
+* **3: Developer used a project management tool to keep their project organized.**
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* **3: Project shows adequate testing (90% - 95% coverage).**
+
+**2. Code Quality**
+
+* **4: Project demonstrates exceptionally well factored code.**
+
+### Product Experience
+
+**1. User Experience**
+
+* **3: Project exhibits a production-ready user experience.**
+
+**2. Performance**
+
+* **3.5: Project pages load on average under 400 milliseconds.**
 
 ## C: Group Work & Projects
 
