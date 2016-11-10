@@ -165,9 +165,41 @@ Broadly speaking, this project applies concepts such as
 class integration and referencing, test-driven development, and managing a 
 huge project with distributed responsibilities. 
 
-(evaluation comments)
+Assessed By: Ilana
 
-(evaluation scores)
+Evaluation Notes 
+
+* 363 tests!! all passing
+* spec harness passing
+* got charts as well for the extension
+* jason focuses on testing and breaking logic down
+* schutte loved the relationships
+
+Scores
+
+* Functional Expectations
+
+  4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
+
+* Test-Driven Development
+
+  4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+* Encapsulation / Breaking Logic into Components
+
+  4: Application is expertly divided into logical components each with a clear, single responsibility
+
+* Fundamental Ruby & Style
+
+  4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+* Enumerable & Collections
+
+  4: Application consistently makes use of the best-choice Enumerable methods
+
+* Code Sanitation
+
+  4: The output from rake sanitation:all shows: Zero complaints
 
 #### To Mike Schutte (for Black Thursday)
 Mike was a great partner to have. He really pushed me to have an 
