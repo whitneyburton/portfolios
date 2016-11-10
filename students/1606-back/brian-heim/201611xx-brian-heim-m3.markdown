@@ -260,6 +260,8 @@ This was a good Gear up as well. The discussion our group had was meaningful and
 
 #### Turing Portfolio Link
 
+* As of 10/10/2016 I have not received an email to re-set my password and access the site. I thought I put in the correct password but the site is telling me otherwise. Waiting on assistance to finish this piece.
+
 * []
 
 ---
