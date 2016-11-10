@@ -4,22 +4,28 @@
 Looking back at what I wrote on day 1 as my learning goals, one major thing stands out: “I got mega thrown under the bus by a former colleague, so I need to try to trust everyone and always assume they are being fair, honest, and helpful.” The repercussions of being thrown under the bus have tailed me in some form for the past five years of my life, and part of my decision to change careers and come here stems from wanting to be rid of that persistent tail. Embracing the career change was hard at first, mostly because I had little trust in others or myself. Learning to trust is, for me, the most major obstacle. 
 <br>
 <br>
-What I learned over the course of the semester was that this type of work is nothing like what I’ve done before, a third because of the burden of learning the actual technical skills, and two thirds because of the collaborative environment. For my field in academia, no one really works together, no one researches together, no one publishes together, no one really collaborates on anything at a career-level. With that in mind, changing my mindset for paired work was more than a little difficult. 
+What I learned over the course of the semester was that this type of work is nothing like what I’ve done before, a third because of the burden of learning the actual technical skills, and two thirds because of the collaborative environment. For my field in academia, no one really works together, no one researches together, no one publishes together, no one really collaborates on anything at a career-level. With that in mind, and coupled with my trust issues, approaching paired work was a difficult mental obstacle for me to overcome. 
 
 
-## Rubric Scores
+## Self Assessment Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Self Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
-## A: End of Module Assessment
+## A: End of Module Assessment Scores
 
-(Notes & scores from your assessment rubric)
+* **A: End-of-Module Assessment**: x
+* **B: Individual Work & Projects**: x
+* **C: Group Work & Projects**: x
+* **D: Professional Skills**: x
+* **E: Feedback & Community Participation**: x
+
+(Notes & scores from the assessment rubric)
 
 
 ## B: Individual Work & Projects
@@ -114,21 +120,29 @@ This topic is for me, and is also, I sense, for others, very sensitive because n
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 
-Going into this, I had used LinkedIn quite a bit, so a portion of the material from this session was repetitive for me. I did, however, gather some great info about where to make nice resumes online (Creddle.io), and how to turn the focus of your LinkedIn to being tech and software-development focused. For me, having come from years of high-level academia work, eliminating material from my CV to create a one-page resume was a painful process; all those publications, all those conferences, all those years of work, that's all gone. I spent some great time with my mentor - who is quite senior and has acted as a hiring manager - going through my CV and deciding what to eliminate and what to include, as well as how to structure the end result. He was super pleased with the Creddle resume I created, as was I. Of course I await other perspectives from folks at Turing, as well.
+Going into this, I had used LinkedIn quite a bit, so a portion of the material from this session was repetitive for me. I did, however, gather some great info about where to make nice resumes online (Creddle.io), and how to turn the focus of your LinkedIn to being tech and software-development focused. For me, having come from years of high-level academia work, eliminating material from my CV to create a one-page resume was a painful process; all those publications, all those conferences, all those years of work, that's all gone. I spent some great time with my mentor - who is quite senior and has acted as a hiring manager - going through my CV and deciding what to eliminate and what to include, as well as how to structure the end result. He was super pleased with the Creddle resume I created. I await other perspectives from folks at Turing, as well.
 
 #### Deliverables
 * [Link to LinkedIn Page] (https://www.linkedin.com/in/amy-kintner)
 * [Link to Resume PDF](https://turingschool.slack.com/files/akintner7/F2T36PH8T/amy_kintner_resume.pdf)
 * [GitHub URL] (https://github.com/akintner)
 
+#### Learning to Pair
+
+* [Workshop URL] (https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md)
+
+The attention to this topic was well deserved: pairing with others is a skill, and that means it can be learned, studied, and improved. As I mentioned before, the very thought of pairing for a graded project at this point in my life made me extremely nervous before coming here, and this session actually helped calm my nerves quite a bit. I had literally never heard of a DTR before, but the concept, like the session as a whole, proved immensely valuable. 
+
 ## E: Feedback and Community Participation
 
+* [DTR Memo from Amy and Kyle] (https://docs.google.com/document/d/16NymvDNiOQUi6tp7JkjFA4eGKSM1pXh8Wgwxw-yDgAY/edit?ts=5808fd10#)
+* [DTR Memo from Amara and Amy] (https://turingschool.slack.com/files/pixapi/F2Z1F5NJW/dtrforamyandamara.pdf)
 ### Giving Feedback
 
 Kyle and I worked on the first paired project together, Complete Me, and overall it was an amazing experience. Our work and communication styles are clearly similar, and our ability to do work together was complemented by these similarities. One thing that could be improved, from my perspective, was continuing to outline goals for each evening of the week it was due. Over the weekend, we set explicit goals and both achieved them, but after our first pairing session Monday night, we never re-set goals each day, so I spent some evenings wondering what I should be doing and feeling like I wasn't accomplishing much. In the end, our project ended up being a tremendous success, and these evening of solo work and research helped both of us achieve a very streamlined end result, but it may be better going forward to outline more explicit goals and communicate them in advance each day. Communication between the two of us during pairing sessions was excellent, we shared space and computer consoles very well, and I look forward to working with Kyle again in the future at Turing.
 <br>
 <br>
-I wrote feedback for a number of others members of our cohort, which can be found and viewed on their portfolios. 
+I wrote feedback for a number of others members (Caroline, Brett, Amara, Annie, Lucy) of our cohort, which can be found and viewed on their portfolios. 
 
 ### Being a Community Member
 #### Feedback from Kyle Heppenstall, first paired project partner: 
