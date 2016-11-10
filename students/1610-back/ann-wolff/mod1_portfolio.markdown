@@ -36,9 +36,9 @@ The program features methods that can insert individual movies, as well as load 
 
 Notes:
 
-More testing needed, tests written demonstrate basic grasp of testing principles, but coverage is insufficient
-Health method missing
-Many long methods, nested elsif statements, opportunities to refactor
++ More testing needed, tests written demonstrate basic grasp of testing principles, but coverage is insufficient
++ Health method missing
++ Many long methods, nested elsif statements, opportunities to refactor
 
 Score:
 
@@ -66,11 +66,12 @@ Score:
 Assessed By: Jeff
 Notes:
 
-About 21 tests with rake plus 7 in server
-Features work pretty well with a small bug in the number guessing game
-Implementation is strong
-Good use of breaking out classes
-Using lots of small methods
++ About 21 tests with rake plus 7 in server
++ Features work pretty well with a small bug in the number guessing game
++ Implementation is strong
++ Good use of breaking out classes
++ Using lots of small methods
+
 Scores:
 
 1. Overall Functionality
@@ -107,13 +108,14 @@ Assessed By: Jeff
 
 Notes:
 
-Tests have some failures after refactoring and removing methods
-Tests are very detailed and closely tied to implementation
-Haven't used the spec harness
-Implementation is strong but could use more abstractions
-Good code for refactoring with a mentor
-Keep the "language" of the app consistent unless it needs to be different
-Spec harness passes
++ Tests have some failures after refactoring and removing methods
++ Tests are very detailed and closely tied to implementation
++ Haven't used the spec harness
++ Implementation is strong but could use more abstractions
++ Good code for refactoring with a mentor
++ Keep the "language" of the app consistent unless it needs to be different
++ Spec harness passes
+
 Scores:
 
 1. Test-Driven Development
@@ -148,10 +150,11 @@ Assessed By: Ilana
 
 Notes:
 
-178 tests, 189 assertions all passing
-Really nice job.
-Used a delegator which was creative
-Broke logic out very well.
++ 178 tests, 189 assertions all passing
++ Really nice job.
++ Used a delegator which was creative
++ Broke logic out very well.
+
 Scores:
 
 1. Functional Expectations
