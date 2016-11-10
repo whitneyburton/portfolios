@@ -51,14 +51,12 @@ My [Mythical Creatures](http://www.bellydancedigs.com/fusion-2pc-knicker-pant.ht
 
 ### Projects
 
-(Intro)
 
 #### Number Guesser
 
 * [Number Guesser Repo](https://github.com/apsitos/NumberGuesser)
 * [Project Description](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
 
 #### Evaluator: Louisa
 
@@ -76,14 +74,16 @@ My [Mythical Creatures](http://www.bellydancedigs.com/fusion-2pc-knicker-pant.ht
 
 #### Comment:
 They got off to a rocky start on the first day of the project and didn't balance the work/effort equally or fairly. They regrouped and recovered very strongly, and both made a big effort to work together and learn from the project and pairing experience. Could have a been a discouraging project, but they turned it around and ended very positively. Great job!
-(feedback to me)
+
+Feedback to Me:
+"This feedback feels like it's so old but really our project was just a few weeks ago. The only thing I can think of is that we could have communicated better outside of class, mostly on my part. I really enjoyed working with you and sorry again for taking over the JS. It was really awesome to see you take your learning into your own hands and redo the JS side of the project. I hope we work together again in the future so I can redeem myself as a better partner." - Justin Wood
 
 #### Linked List
 
 * [Linked List GitHub Repo](https://github.com/StephanieEA/LinkedList/branches)
 * [Project Description](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+NB: We took the weekend, as permitted, and updated our repo, but neglected to resubmit the project.
 
 #### Reviewer: Bree
 #### Notes:
@@ -104,14 +104,15 @@ Students may take the weekend and resubmit project for review on Monday for revi
 #### CSS Style
 - 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-(feedback to me)
+Feedback to Me:
+
+"I appreciated the research you put into our project.  When we weren’t sure about the next step, you were quick to look up different possibilities we could follow.  It was easy to communicate about our goals and the challenges we faced with the code.  I appreciated your flexibility with meeting times/places.  I also appreciated your positivity.  For constructive feedback, I think we both learned about the necessity of asking for help when necessary and probably should have reached out for more assistance." - Stephanie Andrews
 
 #### Idea Box
 
 * [Idea Box Repo](https://github.com/apsitos/Idea_Box)
 * [Project Description](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
 
 #### Evaluator: Bree
 
@@ -139,7 +140,9 @@ Students may take the weekend and resubmit project for review on Monday for revi
 
 - 3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
-(feedback to me)
+Feedback to Me:
+
+"I had a really great time working with Anna on Idea Box. We both struggled a little getting started, but once we had some basic code on the page we hit a stride and worked together well to get things done. We split a few tasks and I was impressed with how well Anna solved some of the problems we had. I think she knows a lot more than she thinks she does should be more confident in her work, because it's awesome!" - Devin Beliveau
 
 #### Game Time
 
@@ -261,15 +264,10 @@ I gave feedback to Devin, but forgot to copy the text before I submitted the for
 
 ### Being a Community Member
 
-"I appreciated the research you put into our project.  When we weren’t sure about the next step, you were quick to look up different possibilities we could follow.  It was easy to communicate about our goals and the challenges we faced with the code.  I appreciated your flexibility with meeting times/places.  I also appreciated your positivity.  For constructive feedback, I think we both learned about the necessity of asking for help when necessary and probably should have reached out for more assistance." - Stephanie Andrews
-
-"This feedback feels like it's so old but really our project was just a few weeks ago. The only thing I can think of is that we could have communicated better outside of class, mostly on my part. I really enjoyed working with you and sorry again for taking over the JS. It was really awesome to see you take your learning into your own hands and redo the JS side of the project. I hope we work together again in the future so I can redeem myself as a better partner." - Justin Wood
-
-"I had a really great time working with Anna on Idea Box. We both struggled a little getting started, but once we had some basic code on the page we hit a stride and worked together well to get things done. We split a few tasks and I was impressed with how well Anna solved some of the problems we had. I think she knows a lot more than she thinks she does should be more confident in her work, because it's awesome!" - Devin Beliveau
 
 ### Playing a Part
 
-Member of SAB
+Member of SAB - led weekly retros, brought information to my cohort and from my cohort.
 
 ------------------
 
