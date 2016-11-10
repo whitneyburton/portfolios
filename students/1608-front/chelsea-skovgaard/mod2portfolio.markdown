@@ -38,22 +38,10 @@ Fundamental JavaScript/React Style: 3.5
 
 #### Seven Weeks of Fonts
 
-* [https://github.com/ChelseaSkovgaard/SevenWeeksFonts]()
-* [Original Assignment]()
+* [https://github.com/ChelseaSkovgaard/SevenWeeksFonts]
+* [http://frontend.turing.io/projects/seven-weeks-of-fonts.html]
 
-(description)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
+Challenge using text snippets and font pairings
 
 ## C: Group Work & Projects
 
@@ -79,6 +67,7 @@ Workflow: 4
 Code Sanitation: 4
 
 Feedback from Christine:
+Chelsea and I worked together on 2DoBox. She was a great partner to have. We clicked really well and flew through the project. Chelsea is very strong in her technical skills, but more importantly she approaches problems in a logical way. We started with the goal of taking an agile approach with this project, but for the most part we didn't create tests until the end. This could be an area for improvement in the future. The way Chelsea approaches code and her drive to deliver solid work will make her a great programmer.
 
 #### Shoot the Breeze
 
@@ -210,9 +199,12 @@ Both Chelsea and Lacey bring special energy to the Verou Posse that makes it spe
 From Graham:
 Lacey and Chelsea, great job with the Verou posse! You really stepped up and created something that has attracted great interest in the Turing community. I've really enjoyed being a part of this posse, and I look forward to our activities in the future. Kudos!
 
+From Lauren Pesce (1610FE):
+Lacey and Chelsea - You two are truly incredible! The Verou posse was always something to look forward to during my first mod at Turing. Your lessons were well thought out and I was so impressed to see a big push to include back-end students in a group that was so based in design. I think it was a great idea to focus on our personal websites as an ongoing project - it was something everyone could work on and learn from. You were both always so positive and it was apparent that you have a great understanding of front-end lessons as well as design related subjects.
+
 ### Playing a Part
 
-This module I co-founded/started a new posse on focused on design principles, data visualization, and developing FE skills. One week during Friday Spike, I presented a workshop on animating SVGs. Additionally, I co-led several posse lunches and Friday Spikes. I also took the opportunity to pair with other students on topics they needed help on. I also actively participated in Productivity Lunch, Lunch Roulette, and other community activities.
+This module I co-founded/started a new posse on focused on design principles, data visualization, and developing FE skills. One week during Friday Spike, I presented a workshop on animating SVGs. Additionally, I co-led several posse lunches and Friday Spikes. I also took the opportunity to pair with other students on topics they needed help on. I also actively participated in Productivity Lunch, Joan Clarke Coffee Meetings, Lunch Roulette, and other community activities.
 
 ------------------
 
