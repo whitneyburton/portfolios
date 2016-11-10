@@ -2,7 +2,6 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
 For Module 3 I really wanted to hone in my Rails skills.  I wanted to work on some more difficult tasks and get more hands on with the hard stuff from Module 2, like authentication and authorization.  In the pre-work, the intermediate active record queries were pretty difficult and I wanted to get more exposure to working with Active Record and SQL.  From a team perspective, in mods one and two, I was not on a team of four, I feel like having two groups of two could be quite a bit more efficient than a group of three.
 
 ## Rubric Scores
@@ -86,10 +85,10 @@ This project, we focused on consuming and working with data from public APIs. I 
 
 #### Personal Project
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/danbroadbent/event_photo_share)
 * [Original Assignment]()
 
-(description)
+The peronsal project was obviously of our own choosing.  I have been very interested in developing mobile web apps since even before coming to Turing, and we get way less exposure to that in the backend program, so I decided to explore that for my personal project.  I went with a framework that is designed to make it easier to build apps specifically for mobile devices that can be eaisly ported to native apps with a single codebase.  The framework is called Ionic and it was built on top of Angular 2.  I decided to try to use Firebase for my database and authentication as well.
 
 (evaluation comments)
 
@@ -105,7 +104,7 @@ Group projects were also a lot of fun this module.  First was the pair project, 
 * [Rails Engine GitHub URL](https://github.com/susiirwin/rails_engine)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
 
-(description)
+In this project we used Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.  We used Jbuilder to created custom JSON endpoints and SQL and ActiveRecord to create useful business intellegence endpoints from database information.
 
 Evaluator: Andrew
 
@@ -141,6 +140,8 @@ Technical Quality
 
 * [Cloney Island GitHub URL](https://github.com/danbroadbent/turing_photoshare)
 * [Cloney Island Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/cloney_island.md)
+
+In this project we worked together to build a new platform from scratch.  Each group got a different theme to model their platform after, ours was Flickr.  It was a really fun project with a lot of technically challenging pieces, like creating 2-factor text authentication with Twilio, to downloading a zipfile of a gallery of photos with Google Cloud Storage.
 
 ### Completion
 
@@ -218,19 +219,18 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 This module, we got more actionable requirements on the job hunt, and continued to explore different issues in being an active and productive group member in Gear Up.
 
 ### Gear Up
-#### (Session Name)
+
+#### Resilience
 
 * [Resilience GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+In this lesson, I learned that a large part of having resilience comes from how you frame your world and the events that shape your life.  By taking control of your life and destiny and letting go of the things that are completely out your control, you can have be happier and more productive and will be less likely to be dominated by your emotional reactions to things.
+
+#### Introvert & Extrovert Introspection
 
 * [Introvert & Extrovert Introspection GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-* [Vote Your Conscious GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+It was really cool to learn how there is a scale from introvert to extrovert, rather than people just being one or the other.  From a collaboration standpoint, I think it was most important to learn that we must respect both groups of people.  That it is not good to have all collaboration time with no personal quite work time or vice versa.  There needs to be a balance that allows for collaboration, but also separate environments to work in that are open and louder as well as more secluded and quieter so everyone can do their best work.
 
 
 ### Professional Development Workshops
