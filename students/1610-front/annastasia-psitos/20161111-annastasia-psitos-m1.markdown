@@ -12,7 +12,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 * **B: Individual Work & Projects**: 2.5
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 2.5
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -44,17 +44,6 @@ Anna will retake the assessment.
 ## B: Individual Work & Projects
 
 I'm not entirely sure what our individual projects are, so nothing has been linked below. On my individual work, I did not complete many of the exercises. I will be finishing with Mythical Creatures over the weekend with my mentor, after beginning again for practice. While on intermission, I hope to go through all of Dead Presidents and the Unicorn site. I have difficulty prioritizing when everything seems important, but the 'smaller' exercises tend to be set aside in favor of the paired projects with given deadlines. Therefore, I hope to complete all of them and do additional work on exercisms between modules.
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 ## C: Group Work & Projects
 
@@ -154,11 +143,23 @@ Students may take the weekend and resubmit project for review on Monday for revi
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Vote Your Conscience
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
-(takeaways from session)
+  I believe it is very important to vote in every election. I recognize that many people think their voice doesn't matter, or they don't have time, or many other reasons, but every issue and candidate has or will have an effect on your life. It may not be direct, but we all operate in this country together. And if you want to get things out of it, you have to put work in. To create a better-educated public, I believe that civics should be a requirement in all high schools. You can't expect people to participate if they don't know how their vote and their role fits in the larger picture. And if they are unaware of how the system of government works, they will be angry and frustrated at the wrong parts.
+
+#### Introversion v. Extroversion
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+  The video was interesting and prompted some interesting discussions. I think it really helped some of our cohort members understand the introvert personality better, even though most of us are introverts. It helped both sides realize ways they could meet more in the middle and possibly even become more like the other, creating a more 'balanced' individual.
+
+#### Resilience
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+
+  The idea of reframing as a way to have a more positive outlook on difficult situations is a very good way of building resilience and of increasing overall optimism. The rebuttal to the New Yorker article was possibly well-intentioned, but by comparing a cold and rainy day to a childhood with an absentee father and alcoholic mother struck me as incredibly entitled. Yes, it was a good example of a way to reframe a bad situation, but it doesn't necessarily show how a child in such terrible circumstances would develop the resilience to thrive in spite of them.
 
 ### DTR Memo
 ####DTR for Idea Box
