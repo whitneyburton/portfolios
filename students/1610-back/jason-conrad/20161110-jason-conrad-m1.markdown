@@ -5,9 +5,9 @@ Repeating this module I went in with the mindset that I was going to work on the
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 4
 
@@ -268,8 +268,10 @@ the beginning of the module when my schedule was more forgiving and allowed for 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Proud of progress made 
+* Group projects showed that individual work was fine
+* nice, meaty feedback
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PROMOTED
