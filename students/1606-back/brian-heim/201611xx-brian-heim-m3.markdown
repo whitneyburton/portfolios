@@ -201,16 +201,14 @@ MOTB is an application that presents predictions based on historical data and pr
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
-
 1. Students wishing to gain knowledge about machine learning, specifically Neural Nets.
 2. Football fans who want lightweight statistics on their favorite players with predictions for future performance.
 
 ### Integrations
 
-* Which APIs will you use?
+* API
  * NFL Fantasy API
-* Which OAuth integration are you planning to use?
+* OAuth integration
  * Github 
 
 
