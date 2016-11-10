@@ -23,11 +23,11 @@ This module, in particular, I wanted to:
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -48,8 +48,16 @@ Ideabox was my first project with JavaScript. I really felt better about jQuery 
 Ideabox
  * In this project, we built a simple application for recording and archiving our ideas. Focus was on providing a fluid and responsive client-side interface. Ideally project relies on JavaScript and jQuery to implement snappy filtering in the browser, and AJAX to enable inconspicuous communication between client and server.
  * This was my first project with JavaScript. Learning a new language can be intimidating, but mapping similar concepts we have learned from Ruby made it easier to gain some momentum.
- * Point 115/150
+ * Points 115/150
 
+#### Scale Up/Independent Study
+
+* [GitHub URL](https://github.com/deborahleehamel/food_demo_react)
+* [Original Assignment](https://github.com/turingschool/ruby-submissions/tree/master/1605/module_4_assignments/ideabox2.0)
+
+Independent Study
+ * I really loved the pace of scale up. I am encouraged by the space I had to explore new things like React and mapping. It was a lot more fun to do research and coding exercises with an autonomous schedule. There was some ambiguity, but I am confident I can continue growing as an independent learner. 
+ * Points 120/150
 
 ## C: Group Work & Projects
 
