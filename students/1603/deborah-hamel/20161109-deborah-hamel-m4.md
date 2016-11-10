@@ -226,10 +226,21 @@ I am committed to continuing to do this kind of volunteer work and teaching afte
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
 ### Notes
 
-( Leave blanks for reviewers )
+* Developer feels like pae is slower than most, but has made significant progress throughout. 
+* Glad took a break after mod2 but it was a tradeoff
+* The code that was written was good code - but progress through the final was not as far as would warrant a passing assessment. 
+* PD sessions were excellent. 
+* Reassessment
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending - reassessment
+
