@@ -186,13 +186,14 @@ I very much enjoyed pairing with Nick on the Complete Me project. Nick has a str
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-The Gear Up on resiliency was 
+I find the topic of resiliency interesting, but the reading material from the Gear Up was not super useful.  I agree with the summary from the Inc. article that the Times article basically said 'resiliency is good, and some people have it' without actually mentioning **how** one might practice resiliency.  For that topic, I'm just going to dive right in and get political... Trump getting elected president will provide an excellent opportunity for people (myself included) to *practice* resiliencey.  This is a chance to *acknowledge*, *analyze* and *reframe* the situation (or use the three techniques that came out of the Gear Up discussion).
 
 #### Invtroversion and Extroversion
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The Gear Up on introverts and extroverts was especially helpful because of the real examples and helpful techniques that were mentioned in the reading about how to best organize a team which is composed of introverts and extroverts.  It was interesting to learn that, basically, opposites work well when divvying up team leader vs. team member roles.  I also appreciated the discussions that we all fall somewhere along the introvert/extrovert scale.  Working in an industry that has a reputation for leaning inrovert, I never felt that the label was especilly helpful.  As a developer, we'll need to be able to communicate well with our teammates and the client.  Brushing off solid communication in the form of a, "well I'm an introvert" is unhelpful, and ultimately, untrue.
+
 #### Vote Your Conscience
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
@@ -200,16 +201,24 @@ The Gear Up on resiliency was
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Personal Branding
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-github and linkedin
+* [Workshop URL](https://github.com/turingschool/professional_skills/tree/master/module_one)
+
 * [LinkedIn Profile](https://www.linkedin.com/in/nicholas-erhardt)
 * [GitHub](https://github.com/ski-climb)
 
+My takeaways from the professional development session were about how to represent myself.  I feel that I, like many of the folks who study (and teach) at Turing, have experienced a non-traditional path through life.  That path has taught valuable lessons and resulted me some amazing opportunities - many of which do not fit nicely on an 8 & 1/2 by 11 resume.  The highlight of the professional development session for me was to share my story of how I've arrived here, *and what value that experience can bring to my future employers*.  It's fine that my resume doesn't look like anyone else's.  The important part is to expose the 
 
-(takeaways from session)
+#### Learning to Pair
+
+[Learning to Pair](https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md)
+
+
+#### Feedback
+
+[Feedback](https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md)
+
 
 ## E: Feedback and Community Participation
 
