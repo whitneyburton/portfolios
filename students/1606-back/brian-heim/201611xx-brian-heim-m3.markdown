@@ -246,6 +246,10 @@ Overall I learned alot about myself and my fellow Turingites during these sessio
 ---
 
 ### Professional Development Workshops
+#### Flower Exercise
+
+* [https://gist.github.com/bheim6/ede248d348a259ae11754f2c2e622e88]
+
 #### Finding Opportunities with Lia
 
 * [Link to 10 interesting companies](https://gist.github.com/bheim6/ed3be7c390d1583c058745899e568434)
