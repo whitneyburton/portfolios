@@ -42,7 +42,7 @@ Scores:
 
 ## B: Individual Work & Projects
 
-#### HTTP
+### HTTP
 
 * [GitHub URL](http://github.com/ski-climb/http)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
@@ -51,32 +51,32 @@ The heart of the HTTP project was to make a web server using Ruby.  We created a
 HTTP was an eye-opening opportunity to make a web server using Ruby.  On one hand it was an *excellent* experience which exposed the fundamental processes and flow of a web server.  On the other hand it was a unique experiment in frustration and formatting which made me revel in the gloriousness of my web browser.  I also had no idea that information could be included in a web request in so many ways from query parmeters to POST key, values in forms.  
 I did not get as far as I would have liked on this project (Overall Functionality score of 2).  This was because of two reasons: 1) I got stuck early on trying to create an easy to use setup with tmux that would allow me to fire up and shut down the server during testing; and 2) I dug in *deep* to HTTP requests when I got to the section on passing information via POSTs.  Ultimately, I believe the first issue was not the best use of *that many hours*, and I should have bailed on the neat-but-not-critical idea.  The second issue was fantastic learning, and I was willing to sacrifice the score for a more in-depth look at HTTP requests.
 
-##### Evaluation Comments:
+#### Evaluation Comments:
 Notes:
 * Great testing overall, used tmux to get around the server close test
 * code was well organized, would have liked to have seen the word search pulled out
 * Memoization in loading dictionary which is sweet
 
-##### 1. Overall Functionality
+#### 1. Overall Functionality
 * **2**: Application implements iterations 0 - 3
 
-##### 2. Fundamental Ruby & Style
+#### 2. Fundamental Ruby & Style
 * **4**:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-##### 3. Test-Driven Development
+#### 3. Test-Driven Development
 * **4**: Application is broken into components which are well tested in both isolation and integration
 
-##### 4. Breaking Logic into Components
+#### 4. Breaking Logic into Components
 * **3**: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
-#### Date Night
+### Date Night
 
 * [GitHub URL](https://github.com/ski-climb/date_night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
 Date Night was a first introduction to the Binary Search Tree data structure.  It introduced a new method (to me) for storing and searching large data sets.  My implementation had fairly dumb nodes (they only knew about themselves and their children) and put the logic of adding/searching/deleting in the tree itself.  This project was an excellent introduction to recursion, and I made heavy use of recursion to navigate the tree.
 
-##### Evaluation Comments:
+#### Evaluation Comments:
 Notes:
 * Opportunity for more unit testing. Overall very strong testing suite, though. Strong 3
 * Base and all extensions
@@ -84,19 +84,19 @@ Notes:
 * Some long methods, overall solid/comfortable use of Ruby style/syntax
 * Clean up file dependencies to run from top of project directory
 
-##### 1. Test-Driven Development
+#### 1. Test-Driven Development
 * **3**: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
  
-##### 2. Functional Expectations
+#### 2. Functional Expectations
 * **4**: Application fulfills all base expectations and two extensions
 
-##### 3. Breaking Logic into Components
+#### 3. Breaking Logic into Components
 * **3**: Application consistently breaks concepts into classes which encapsulate functionality. (SRP).
 
-##### 4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 * **3**:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)  needs some refactoring, and is mostly idiomatic.
 
-#### Black Thursday
+### Black Thursday
 
 * [GitHub URL](https://github.com/ski-climb/Black-Thursday.git)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
@@ -104,7 +104,7 @@ Notes:
 (description)
 
 
-##### Evaluation Comments:
+#### Evaluation Comments:
 Notes: 
 - 102 tests all passing *EDIT by Nick: the spec harness had 102 test, I had 206*
 - spec passing
@@ -112,23 +112,23 @@ Notes:
 - felt more comfortable with enumerables
 - liked using mocks
 
-##### Evaluation Scores:
-##### 1. Functional Expectations
+#### Evaluation Scores:
+#### 1. Functional Expectations
 * **3**: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
-##### 2. Test-Driven Development
+#### 2. Test-Driven Development
 * **4**: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
-##### 3. Encapsulation / Breaking Logic into Components
+#### 3. Encapsulation / Breaking Logic into Components
 * **4**: Application is expertly divided into logical components each with a clear, single responsibility
 
-##### 4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 * **4**:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-##### 5. Enumerable & Collections
+#### 5. Enumerable & Collections
 * **4**: Application consistently makes use of the best-choice Enumerable methods
 
-##### 6. Code Sanitation
+#### 6. Code Sanitation
 The output from `rake sanitation:all` shows...
 * **4**: Zero complaints
 
@@ -136,16 +136,15 @@ The output from `rake sanitation:all` shows...
 (complete me only - Laszlo)
 ### Projects
 
-#### Complete Me
+### Complete Me
 
 * [GitHub URL](https://github.com/ski-climb/Complete-Me)
 * [Assessment](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/complete_me/laszlo_nick.md)
 
-(description)
-##### Complete Me 
+#### Description
 Complete Me expanded on the Binary Search Tree project (Date Night) from the previous week and was the more general case of a n-dimensional tree with linked nodes.  While the Date Night project was one way to quickly store, filter and sort a list of numbers (scores and movie title), Complete Me was used to store words so that it could be used as an autocomplete system like might be used on a phone messaging app [like so](http://www.damnyouautocorrect.com/10484/the-top-15-most-popular-dyac-texts-of-all-time/).  Our project relied heavily on recursion.  
 
-##### Evaluation Comments:
+#### Evaluation Comments:
 * Really good job breaking out into logical components.
 * Though there are small methods, looks like there is a bit of redundancy and
 could combine multiple methods into one
@@ -153,27 +152,27 @@ could combine multiple methods into one
 * Liked the explicit returns in only the methods where it made sense
 * Shoes extension is really neat
 
-##### Evaluation Scores:
-##### 1. Test-Driven Development
+#### Evaluation Scores:
+#### 1. Test-Driven Development
 * **4**: Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
 
-##### 2. Encapsulation / Breaking Logic into Components
+#### 2. Encapsulation / Breaking Logic into Components
 * **4**: Application always breaks concepts into classes and methods which encapsulate functionality.
 
-##### 3. Fundamental Ruby & Style
+#### 3. Fundamental Ruby & Style
 * **4**:  Application demonstrates excellent knowledge of Ruby syntax, style, refactoring, and extensively uses idiomatic code.
 
-##### 4. Enumerable & Collections
+#### 4. Enumerable & Collections
 * **4**: Application consistently makes use of the best-choice Enumerable methods and collections
 
-##### 5. Functional Expectations
+#### 5. Functional Expectations
 * **4**: Application fulfills all base expectations and one extension
 
 DTR: https://docs.google.com/document/d/10bR4P1cFi15NhzPXGgfmw6GChrDIf_feH8VtAb9xr-4/edit
 
 Pairing on a project felt very comfortable for me.  In my last job I did a small amount of work with the developers and certainly was familiar with the idea of pair programming and what the mechanics were.  However, I had no idea what it would be like to pair with one of my classmates for the first time.  I knew we would be stumbling through not only the mechanics and strategies of *how* to pair effectively, but also adding the challenges of using git effectively on our own and tackling an algorithm which was difficult for both of us to solve.  In the end, I feel like my partner and I complimented each other quite well with our individual strengths and weaknesses, and I believe our assessment shows the result of a successful partnership.
 
-##### Feedback from Laszlo:
+#### Feedback from Laszlo:
 
 I very much enjoyed pairing with Nick on the Complete Me project. Nick has a strong work ethic and a very strong drive to deliver a high quality solution. Nick demonstrated great knowledge of GitHub and was great at sharing that knowledge as well as help me to improve with everything GitHub related. He is great at keeping a disciplined development approach that allowed us to build our project through iteration (test-code-refactor). I would be very happy to pair with Nick on any future projects and anybody who will pair with him will be very pleased with Nick’s value add to the success of any future projects.
 
