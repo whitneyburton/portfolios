@@ -9,9 +9,9 @@ and provide support frequently in order to create a healthy learning environment
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
@@ -369,10 +369,13 @@ and is always eager to help spread is knowledge.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* very strong individual and group projects 
+* more community involvement in M2. 
+* be the megaphone, not the voice
+* would love to see Schutte leading M1 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PROMOTED
 
 
