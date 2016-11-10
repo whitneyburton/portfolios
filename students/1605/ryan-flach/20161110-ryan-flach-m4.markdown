@@ -215,15 +215,20 @@ Blog posts, even if technical, should be written in a way in which they can appe
 
 ### Giving Feedback
 
-* I did not provide any formal, non-project related feedback this module.
+* "Angela was a positive and responsive team member, despite significant life circumstances that limited her involvement initially, subsequently prohibiting it altogether. In the time we were able to work together, Angela's professionalism and proficiency within her skill set was complemented by consistent and clear communication. It was a pleasure being able to work with Angela one final time." - Feedback provided to Angela Lindow
+* "Pat proved himself early in module 3 to have both a keen interest and proficiency in JavaScript. Throughout this module, he has gone above and beyond to answer not only my own questions, but also to provide learning guides to the rest of our class. I've always found him to be an excellent classmate and communicator, and I look forward to seeing what comes next for him." - Feedback provided to Pat Wentz
 
 ### Being a Community Member
 
-* I received no formal, non-project related feedback this module.
+* Please see feedback from GameTime above.
+* "Ryan didn't even think twice when he sat down next to me to look at my project. I had hit a huge hurdle and just wasn't sure how to reach the end goal that I had defined. Ryan immediately asked what the goal was, what steps I had already taken to reach it, and if I had any tests written. He never once touched the keyboard without asking me first. He encouraged me to think outloud for all of my processing and asked questions to help me find the answers. Ryan made me feel comfortable, confident, and at ease. We worked together to come to a solution. He made sure that I understood every step of our process. Ryan was amazing to pair with and I am sad that he is graduating, but extremely excited to see what he does next!" - Feedback received from Susi Irwin
+* "Ryan was clearly one of the brightest and most helpful students not just in this module, but throughout our entire Turing time.  No one was more ready to help answer questions after hours on Slack than Ryan.  If I was ever stuck on something for longer than an hour or two, he was the first person I would head to for help because I knew he would always be ready and willing to lend a hand.  Ryan always provides great insight in activities such as gear-up or our professional development sessions and I am a better student and person because of it." - Feedback received from Matt Campbell
 
 ### Playing a Part
 
 * I volunteered at RailsBridge the weekend of Nov. 4-5.
+* I volunteered at Rocky Mountain Ruby
+* I paired with students in lower modules and regularly assisted my peers.
 
 ------------------
 
