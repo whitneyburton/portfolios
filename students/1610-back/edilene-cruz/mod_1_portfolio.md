@@ -7,11 +7,11 @@ I have a deep desire to learn programming and be really good at it. I'm hoping t
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -200,9 +200,9 @@ I decided to participate in a posse and was very fortunate to be at Pahlka. Thei
 ## Final Review
 
 ### Notes
+* Opportunities to demonstrate stronger individual work.
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+REPEATING
