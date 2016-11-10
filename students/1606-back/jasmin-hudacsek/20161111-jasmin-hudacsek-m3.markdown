@@ -53,7 +53,7 @@ Individual projects I completed:
 * [GitHub URL](https://github.com/j-sm-n/apicurious)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
-__APIcurious__ was a self-directed project that allowed us to really dig deep into an API for the first time. I chose to make a basic Github clone.  
+__APIcurious__ was a self-directed project that allowed us to really dig deep into an API for the first time. I chose to make a basic Github clone.
 
 ---
 
@@ -300,7 +300,11 @@ This gear up really solidified a term that I never really related to my life. In
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3+
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
