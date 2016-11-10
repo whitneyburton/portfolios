@@ -58,6 +58,7 @@ Notes:
     Talked about creating methods that could intake variables instead of creating instance variables.
 
 Scores:
+
 1. Test-Driven Development
 
    * 1: Application does not demonstrate strong use of TDD
@@ -94,6 +95,7 @@ Notes:
     some general methods that we talked about including the output and headers method in the output class
     
 Scores: 
+
 1. Overall Functionality
    
    * 2: Application implements iterations 0 - 3
@@ -136,6 +138,7 @@ Notes:
     talked about variables at length
 
 Scores:
+
 1. Test-Driven Development
 
    * 2.5: Application makes some use of tests, but the coverage is insufficient
@@ -168,6 +171,7 @@ Notes:
     were able to get the spec harness to 2 min from 20
 
 Scores:
+
 1. Functional Expectations
 
    * 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
