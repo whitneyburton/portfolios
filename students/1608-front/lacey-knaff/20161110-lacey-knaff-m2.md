@@ -256,10 +256,12 @@ For mod2
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 ### Outcome
 
-PASS
+PROMOTED

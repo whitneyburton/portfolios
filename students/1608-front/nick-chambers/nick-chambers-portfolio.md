@@ -280,8 +280,22 @@ P.S - I am really really really grateful for her asking questions during class. 
 
 ### Notes
 
-( Leave blanks for reviewers )
+Keep it up with the great work on the pairing and involvement in Pahlka Posse. 
+
+You are moving into the 4 range for Group Work and Projects, people are very comfortable working with you and moving through projects. Keep working on breaking down problems.
+
+Appreciate all your hard work, your work has been solid.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
+- End-of-Module Assessment: 3
+
+- Individual Work & Projects: 3
+
+- Group Work & Projects: 3
+
+- Professional Skills: 3.5
+
+- Feedback & Community Participation: 3

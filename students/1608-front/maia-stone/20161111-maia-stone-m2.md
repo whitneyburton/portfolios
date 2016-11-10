@@ -182,8 +182,6 @@ Maia and I took on the sizeable "Fire-Bae" project with one another, and we asse
 
 ##D: Professional Skills
 
-
-
 ##Gear Up
 
 [**Vote Your Conscience**](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)   
@@ -207,7 +205,8 @@ Additionally, I enjoyed the session on Scrum and Agile practices.  I would like 
 
 ##Giving Feedback
 
-**Community Feedback to Lacey Knaff**   
+**Community Feedback to Lacey Knaff**  
+
 Lacey, you are a positive and thoughtful person, with a sunny disposition.  I always look forward to talking with you and seeing what you are building.  Your design skills are fabulous, and I would encourage you (or ask you!) to share more of your tools, techniques, perspective and projects with everyone.  I think you add tremendous value to our mod and community, I hope we get to pair on a project sometime!  Thank you for taking time to chat with me about projects, life, or the future.
 
 ##Being a Community Member
@@ -223,10 +222,20 @@ I did checkout Kids Who Code, and tried to conceptualize a way I could collabora
 
 ##Final Review
 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3.5
+* **E: Feedback & Community Participation**: 3.5
+
 Notes
 
-( Leave blanks for reviewers )
+We are incredibly impressed by how much work, and the quality of work that you bring out. 
+
+I would like to see you to struggle a little longer before you reach out for help. Really debug. If and when you reach out for help, you can tell someone exactly where it's at. - Taylor
+
+Met with Ian, met with Meg.
 
 Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

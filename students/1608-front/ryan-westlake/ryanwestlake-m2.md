@@ -3,7 +3,7 @@
 ## Areas of Emphasis
 
 1. Understand React and how to build a larger application
-2. Solidfy Javasript
+2. Solidify Javascript
 
 ## Rubric Scores
 
@@ -358,10 +358,16 @@ I was involved every Friday. I threw in my hat for SAB next module.
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3 (if this were the outcome in mod 3, it would be a 2.5)
+
 ### Notes
 
-( Leave blanks for reviewers )
+Look into teaching what you know next module.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

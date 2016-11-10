@@ -433,12 +433,25 @@ It was wonderful to start of the mod pairing with you, Matt! It was great to see
 
 Feeback for Shoot the Breeze --
 I really enjoyed working with Matt on our Shoot the Breeze project. He made it clear in the beginning of the project that he wanted to personally work on letting go of the reigns on a project and really empower the other people in the group to contribute and at the very least, take over all of the typing. I think he was really successful in this, and made great strides in personal growth during this project. Some areas of improvement for Matt would be to simplify. I think he is incredibly smart, and the next step for him in his path is a developer is to perform the complex tasks he can do in a more simplified way. Overall though, my favorite part of working with Matt is his optimism and his desire to see every one in the group succeed. Thanks, Matt!
+
 ## Final Review
 
-
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.75
+* **C: Group Work & Projects**: 3.75
+* **D: Professional Skills**: 3.5
+* **E: Feedback & Community Participation**: 4
 
 ### Notes
 
-( Leave blanks for reviewers )
+Make it easy for people, when you're working together, to say 'no, I don't get it'. 
+
+Keep going down rabbit holes - Taylor
+
+Get your ass kicked a little bit. Trying pairing in rails. Do some open source. Put yourself in situations where you aren't the best dev in the room. Try to work with Lacey. Contribute to exercism. - Meeka
+
+You're doing _great_ work in focusing on pairing. You bring a lot to the cohort and I'm so proud of the strides that you've made. - Jhun
 
 ### Outcome
+
+PROMOTED

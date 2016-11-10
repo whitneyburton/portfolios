@@ -371,10 +371,16 @@ I feel like I contributed a lot to the Turing community this module. I paired se
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3.5
+
 ### Notes
 
-( Leave blanks for reviewers )
+We really appreciate that you've taken collaboration feedback to heart and chosen to work on it. And stretching your comfort zone.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

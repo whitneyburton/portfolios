@@ -1,6 +1,7 @@
 # Gabi Procell - M2 Portfolio
 
 ## Areas of Emphasis
+
 This module has been a whirlwind both for my Turing life and my personal life. I wanted to emphasize learning more outside of the curriculum through my posse and Friday spike. I feel that I managed to pack TONS of fun into module 2, and I'm satisfied with the result!
 
 ## Rubric Scores
@@ -56,8 +57,6 @@ Fundamental JavaScript/React Style
 
 3: Application shows strong effort towards organization, content, and refactoring
 Contact GitHub API Training Shop Blog About
-
-
 
 
 ## C: Group Work & Projects
@@ -393,10 +392,14 @@ You were exceptional in our pairing session.  I appreciate how patient you are a
 
 ## Final Review
 
-### Notes
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3.5
 
-( Leave blanks for reviewers )
+### Notes
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
