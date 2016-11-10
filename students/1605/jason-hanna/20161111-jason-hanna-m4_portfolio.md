@@ -193,8 +193,10 @@ My takeaways:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Scale up came out "OK" - put effort forth which is good. 
+* Great work throughout - great job at tradeoffs
+* Get exctied and find something that interests you
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
