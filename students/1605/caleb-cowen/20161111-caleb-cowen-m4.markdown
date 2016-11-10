@@ -320,8 +320,6 @@ Caleb has a vast storehouse of knowledge of Ruby principles and is a superb teac
 
 ### Notes
 
-* 
-
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending PD deliverables
