@@ -42,7 +42,7 @@ Evaluator: Nate
 1. User Interface: 3
 1. Workflow: 4
 
-Total: 175/175 points
+***Total: 175/175 points***
 
 ### Work
 
