@@ -44,7 +44,7 @@ Workflow | 3
 
 
 #### ScaleUp Week 1
-* [Submission] (https://github.com/turingschool/ruby-submissions/blob/master/1602/module_4_assignments/scale-up-wk-4/Ashwin-Rao-check-in-form.md)
+* [Submission](https://github.com/turingschool/ruby-submissions/blob/master/1602/module_4_assignments/scale-up-wk-4/Ashwin-Rao-check-in-form.md)
 
 **Nate evaluated this project with the following results:**
 
@@ -54,11 +54,11 @@ Blog | 25
 Team Participation | 50
 Hourly Work | 25
 Risk Taking and Creativity | 50
-Total | 150 of 150
+Total | 120 of 150
 
 
 #### GameTime
-* [Github] (https://github.com/chompasina/gametime)
+* [Github](https://github.com/chompasina/gametime)
 
 **Andrew evaluated this project with the following results:**
 
@@ -73,8 +73,8 @@ JSHint | 15
 Total (incl checkins)| 128 of 150
 
 #### IdeaBox
-* [Github](git@github.com:karinamzalez/idea_box.git)
-* [Production](https://git.heroku.com/rocky-dawn-87087)
+* [Github](https://github.com/karinamzalez/idea_box)
+* [Production](https://idea-circle.herokuapp.com/)
 
 During this time I was still working on VolunteerCope for Demo night and wasn't able to finish it on time.
 
