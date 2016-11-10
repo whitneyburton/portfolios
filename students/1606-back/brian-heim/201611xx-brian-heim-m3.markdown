@@ -39,7 +39,7 @@
 
 ## B: Individual Work & Projects
 
-This section contains Individually completed work, API Curious was our only Individual Project and it was not graded
+This section contains individually completed work, API Curious was our only individual project and it was not graded.
 
 ### API Curious
 
@@ -52,131 +52,123 @@ API Curious focuses on consuming and working with public API data. The premise i
 
 ---
 
-### Blogger
-
-* [https://github.com/bheim6/blogger]
-* [http://tutorials.jumpstartlab.com/projects/blogger.html]
-
-__Project__ description:
-
-Blogger is a Rails app that is a basic blogging platform featuring comments and tags. The styling for the app was built in to the Jumpstartlab tutorial.
-
----
-
-### Mix Master
-
-* [https://github.com/bheim6/mix_master]
-* [https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master]
-
-__Project__ description:
-
-Mix Master is a Rails app that utilizes Heroku to host the app. The app itself keeps track of songs, artists, and playlists. It also features user creation and log in, as well as RSpec testing suite.
-
-note: currently Heroku does not authenticate with Spotify.
-
----
-
-### Rails Mini Project - IdeaBox
-
-* [https://github.com/bheim6/Idea_box_v2]
-* [https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown]
-
-__Project__ description:
-
-Idea Box is an app that lets users record their ideas, add images and associate categories with these ideas. There is an admin role that can create images an categories, regular users only have the ability to create ideas.
-
-Extension: Uses RSpec instead of Test::Unit
-
----
 
 ## C: Group Work & Projects
 
 ### Projects
 
-This section contains the only assessed work from the module, both group projects were graded. Little Shop was my favorite of the two, I enjoyed it because it allowed us to be creative and have some fun with the subject matter. 
+This section contains Group Projects from the module: Rails Engine, Cloney Island and the Self-Directed Project. I paired with Jean Joeris on the Self-Directed Project: Mind On The Ball. 
 
-### Rush Hour
+### Rails Engine
 
-* [https://github.com/bheim6/rush-hour-skeleton]
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md]
-* [DTR](https://gist.github.com/bheim6/77c8d48123493e9c8aebd887d8afaf3d)
+* [https://github.com/bcgoss/rails_engine]
+* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md]
 
 __Project__ description:
 
-Rush Hour is a Ruby, Sinatra, and ActiveRecord app that analyzes web traffic. The statistics are displayed on the web, and are navigable based on a number of criteria.
+This project uses Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 
-Partner: Jesse Spevack
+Project Partner: Bryan Goss
 
 __Project__ scores:
 
-#### 1. Functional Expectations
+### Feature Delivery
 
-* 3: Application fulfills base expectations
+**1. Completion**
 
-#### 2. Test-Driven Development
+* 4: Project completes all base requirements according to the spec harness.
 
-* 3: Application is well tested but does not balance isolation and integration/feature tests
+### Technical Quality
 
-#### 3. Encapsulation / Breaking Logic into Components
+**1. Test-Driven Development**
 
-* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+* 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
 
-#### 4. Fundamental Ruby & Style
+**2. Code Quality**
 
-* 3: Application shows strong effort towards organization, content, and refactoring
+* 3: Project demonstrates solid code quality and MVC principles.
 
-#### 5. Sinatra / Web and Business Logic
+**3. API Design**
 
-* 3: Application makes good use of Sinatra but has some mixing of the web and business logic.
+* 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
 
-#### 6. View Layer
+**4. Queries**
 
-* 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
+* 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
-#### Feedback for Brian
-
-##### Positives:
-
-Extremely positive attitude all the time. Throughout the project, no matter the pace or progress, Brian was very positive. He always said things like, 'Good job' and 'We are doing great.'
-Very calm and even headed during stressful situations. Even when we were stuck on problems or behind our schedule, Brian always was calm. He never lost his temper at all.
-Working with Brian made the me faster. He is great finding errors and issues that I may have overlooked as I was implementing a test or code.
-
-##### Area of growth
-
-I challenge Brian to apply more rigor to his hypothesis formulation and strive to eliminate some of the random guessing he applied to problem solving. While random guessing is a totally legitimate strategy in some situations, Brian will be better served in forcing himself to make a hypothesis or rationalize his guesses with data and/or technical knowledge.
-
-##### Overall
-
-The partnership was a positive experience. It was nice that the content was the hardest part of this project.
 
 ---
 
-### Little Shop of Orders - CollegeFootballShop
+### Cloney Island - RESTful_stay
 
-* [https://github.com/Cdunagan05/little_shop]
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown]
-* [https://safe-shore-68034.herokuapp.com/]
+* [https://github.com/kctrlv/restful_stay]
+* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/cloney_island.md]
+* [https://restful-stay.herokuapp.com/]
 
 __Project__ description:
 
-Little Shop is a Rails app that models an e-commerce site, and is hosted live on Heroku. Our group chose to "sell" College Athletic apparel and gear. Users can create accounts, log in, assemble a cart, and "checkout", which creates an order in the database with the status of "ordered". Admins can change order status and check on all orders that have been placed.
+In this project, we had to build a new platform from scratch. Within it, we built an API to both internally consume and protect for external consumption. Our platform, (Air BnB clone) will be built to handle multiple types of users ("visiting" guest users, as well as registered users: travelers, hosts & admins).
 
-Fellow Group members: Bryan Goss, Chase Dunagan
+Fellow Group members: David Davydov, Nate Anderson, Raphael Barbo
 
-(Feedback from team)
+(Feedback from team further down)
+
+__Project__ scores:
+
+### Completion
+
+**Client Expectations**
+
+*   Team completed all the user stories and requirements set by the client.
+
+    *   3: As expected
+
+**User Experience**
+
+*   Project exhibits a production-ready user experience.
+
+    *   2.5: Below expectations
+
+**Organization**
+
+*   Team used a project management tool to keep their project organized.
+
+    *   3: As expected
+
+### Technical Evaluation
+
+**Git Workflow**
+
+*   Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+
+    *   3: As expected
+
+**Test Quality**
+
+*   Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+
+    *   4: Better than expected
+
+**Code Quality**
+
+*   Project demonstrates well-factored code and a solid grasp of MVC principles.
+
+    *   3: As expected
+
+**Bonus**
+
+We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
+
+*   Did the team push themselves by taking risks?
+    *   1: Yes
 
 ---
 
 ## D: Professional Skills
 
-### Lightning Talk
-#### Guitar Geek
+### Job Shadowing Experience - Trelora
 
-* [Slides](https://drive.google.com/open?id=1ddcnQuThSh7J5rxHEmDfVDVW2u4T9siTAYWWpG2GxRU)
-
-Description: 
-
-This lightning talk highlights the wireless data transfer functionality of Toneprint Technology from TC Electronic, as well as some basics about musical instrument effect pedals.
+I got the opportunity to shadow the developers at Trelora for an afternoon with three other Turing students. The experience was not only helpful and informative, it was also really fun! The codebase that Trelora uses is very similar to what we see at Turing every day: Ruby and JavaScript. This was very fortunate because we were able to 'pair' with each of the developers and actually help them troubleshoot and progress on different tasks, which was a pretty amazing feeling. In addition to being adept programmers, it is worth noting how welcoming and easy to talk to they were. The dev team lead Keith was an awesome host and gave us meaningful advice during our Q&A session regarding the job market, interviewing, and the job hunt in general.
 
 ---
 
