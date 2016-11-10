@@ -48,6 +48,7 @@ Ideabox was my first project with JavaScript. I really felt better about jQuery 
 Ideabox
  * In this project, we built a simple application for recording and archiving our ideas. Focus was on providing a fluid and responsive client-side interface. Ideally project relies on JavaScript and jQuery to implement snappy filtering in the browser, and AJAX to enable inconspicuous communication between client and server.
  * This was my first project with JavaScript. Learning a new language can be intimidating, but mapping similar concepts we have learned from Ruby made it easier to gain some momentum.
+ * Point 115/150
 
 
 ## C: Group Work & Projects
