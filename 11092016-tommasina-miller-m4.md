@@ -9,7 +9,7 @@ I wanted to develop my JavaScript skills and become more confident in my program
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -275,8 +275,8 @@ I also helped organize Pahlka Posse's work party and meetings.
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending
