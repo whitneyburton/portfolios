@@ -248,13 +248,13 @@ It was really cool to learn how there is a scale from introvert to extrovert, ra
 #### To Susi:
 Susi, I had so much fun working on Rails Engine with you.  It was a really tough project and we both tackled some really hard problems.  Your communication is fantasitic, I always knew what your personal obligations were and how things were going in the project.  Thank you for being flexible with my schedule and sticking to our DTR.  I know it wasn't ideal, but I really appreciate your understanding.  Dividing and conquering on this project worked great, and we both learned a ton.  It was great seeing you succeed on doing some of the really complex business logic.  You had mentioned that this was one of the first group projects where you really got to go out on your own and sink your teeth into a big problem without help.  You crushed it, and I hope that you take that with you going forward and continue to take risks and push your comfort zone.
 
-### To Jesse:
+#### To Jesse:
 You did a good job with bringing the group together and making sure everything was moving forward because of your proactive attitude, but you could work on making better notes of things you want to come back to so there aren’t comments in the code that other people don’t understand.
 
-### To Calaway:
+#### To Calaway:
 You did a good job with staying focused on tough problems and working through to get little bits of progress complete, but you could be more liberal in trying things that might not work in order to speed up learning.
 
-### To Chase:
+#### To Chase:
 You did a good job pairing on the api with me and making sure we were both working on the same page and also taking turns driving because you have good self awareness, but you could make sure you don’t spend to much time on the same problem in order to get the most out of your time.
 
 ### Being a Community Member
