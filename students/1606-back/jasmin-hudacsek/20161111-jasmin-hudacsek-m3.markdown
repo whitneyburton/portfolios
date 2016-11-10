@@ -3,16 +3,16 @@
 
 ### Areas of Emphasis
 
-
+FILL ME IN
 
 ---
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
 ---
@@ -59,10 +59,10 @@ __APIcurious__ description.
 
 ### Self-Directed Project - Deck
 
-__Description__ of project goes here.
-
 * [GitHub URL](https://github.com/turingschool/deck)
 * [Website]()
+
+__Description__ of project goes here.
 
 ---
 
@@ -129,9 +129,6 @@ Good use of joins and some advanced ActiveRecord queries, but some Ruby `merchan
 
 * **3**: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
-
->Feedback to David:
-
 ---
 
 ### Cloney Island
@@ -141,7 +138,65 @@ Good use of joins and some advanced ActiveRecord queries, but some Ruby `merchan
 
 __Cloney Island__ description.
 
-(Eval notes would go here)
+### Completion
+
+**Client Expectations**
+
+*   Team completed all the user stories and requirements set by the client.
+    *   4: Better than expected
+    *   **3: As expected**
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**User Experience**
+
+*   Project exhibits a production-ready user experience.
+    *   4: Better than expected
+    *   3: As expected
+    *   **2: Below expectations**
+    *   1: Well below expectations
+
+**Organization**
+
+*   Team used a project management tool to keep their project organized.
+    *   **4: Better than expected**
+    *   3: As expected
+    *   2: Below expectations
+    *   1: Well below expectations
+
+### Technical Evaluation
+
+**Git Workflow**
+
+*   Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+    *   **4: Better than expected**
+    *   3: As expected
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Test Quality**
+
+*   Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+    *   4: Better than expected
+    *   **3: As expected**
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Code Quality**
+
+*   Project demonstrates well-factored code and a solid grasp of MVC principles.
+    *   4: Better than expected
+    *   **3: As expected**
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Bonus**
+
+We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
+
+*   Did the team push themselves by taking risks?
+    *   **1: Yes**
+    *   0: No
 
 >**Feedback From Sonia:**
 Jasmin! I always love working with you. We always have fun and there is such an abundance of laughter. You really did a great job with the CRUD functionality on this project. I noticed at some moments during our pairing that we both suffer from the same problem of sometimes not formulating our thoughts succinctly before verbalizing them. I noticed this sometimes when we were working together, more so when we had been pairing for a long stretch like the day we worked on the uploads controller. I also need to work on this, so I'm not faulting you for this at all. It's probably more noticeable when we're both doing it, because we end up talking over each other a bit. There were other moments, however, like the night when we were dealing with Authy and Lauren came over for the check-in, and you were quiet for a while and then suddenly sprang to life with exactly the right answer (twice). That was amazing! It's hard to be actionable on this (I'm currently struggling with this myself and have a long way to go) but sometimes being more present in the meditative / mindfulness sense helps to slow down my thoughts. Ultimately you are such a blast to work with. You are all of the things that the tech community needs. Bright, thoughtful, considerate, conscientious, mature, hardworking, kind, and fun. Thanks for a great experience.
@@ -163,103 +218,48 @@ I have to extend a huge amount of gratitude about how much patience Matt has sho
 ## D: Professional Skills
 
 ### Deliverables
-#### Blog Post
+#### Flower Exercise
 
-* [5 Tips on How to Start Your Personal Brand on Twitter for New Developers](https://medium.com/@j_sm_n/5-tips-on-how-to-start-your-personal-brand-on-twitter-for-new-developers-361601c367c8#.2ghwuie8h)
+* [Image Link](https://i.imgur.com/7GDsWau.jpg)
 
-#### Lightning Talk
+#### Job Strategy
 
-* [What The Heck Is DevOps And Why You Should Care](https://docs.google.com/presentation/d/161BZDpGzsRJwt431WinzcgZm6g-zMrMFxpKcWWUFz7k/edit?usp=sharing)
+* [Trello Board](https://trello.com/b/OVCItgXa/work-priorities)
+
+
+#### Turing Portfolio
+
+* [Link](https://www.turing.io/alumni/jasmin-hudacsek)
 
 ---
 
 ### Gear Up
 
-This module's Gear Ups were honestly the best ones I've been a part of so far at Turing. You can really tell how much care and work Beth puts into each session, and I felt the discussion at every one was very productive and informative. I especially appreciated the showing of CODE and how the men of Turing who attended showed their honest concern in learning how to become better allies and show support. It just goes to show how strong the community at Turing as a whole is and I couldn't be more proud of being a part of.
+#### Vote Your Conscious
 
-#### Getting Better At Difficult Things
+* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
+__Description__ of feedback
 
-#### There Is An I In Team
+#### Introversion and Extroversion on Teams
 
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
+* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-#### CODE:Debugging the Gender Gap
+__Description__ of feedback
 
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+#### Resilience
 
----
+* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-### Professional Development Workshops
-#### Finding Opportunities with Lia
-
-* [Link to Completed Deliverables](https://gist.github.com/j-sm-n/aa154cc6fc9f89a1b4076510c52d93c5)
-
-I always feel very fortunate to have someone as informed and well communicative as Lia as our Partnerships Manager and her professional development workshops were anything but disappointing this mod. Her tips on how to make connections through LinkedIn were super helpful and I plan on using them for as long as I'm a working professional (so for a very long time, hopefully).
-
-#### Collaborative Communication with Allison
-
-1. Details on project management strategies you used in your projects Rush Hour and/or Little Shop); What went well? What didn’t go well?
-  * Thanks to my discussion with Allison during this session, I reinforced the good habit of trying to stop storming as soon as it is recognized for what it is and deliver precise, constructive feedback when I can. Communication was strong in our Rush Hour group up until the last day, and we could have worked on more direct feedback rather than succumb to passive aggression. It was an excellent learning experience and helped me in Little Shop.
-
-2. How you incorporated feedback from your team members and what you learned about yourself in the process.
-  * I practiced coming across less impatient when listening to others explain their thinking. The focus of practicing active listening really, really helped with that, too.
-
-#### Networking with Lia
-
-Again, this was another awesome session that I felt was extremely helpful for when I'm prepared to really start reaching out to companies. Networking in person can always seem very daunting at first, but I appreciated Lia's focus on making it seem way more approachable for the rest of my cohort.
+__Description__ of feedback
 
 ---
 
 ## E: Feedback & Community Participation
 
-### Giving Feedback
+### Golick Posse
 
->Feedback to Chase:
-Chase acted as the glue that held our Rush Hour group together when we needed it the most. He is an awesome diplomat that makes sure everyone has their voice heard. I am fortunate to have gotten to work with him this module and value his friendship tremendously. While he definitely has coding chops, he does sometimes become quiet and turn inward when he’s contemplating solutions to issues and it would have made me feel more aware of his feelings if he voiced them out loud during Rush Hour. Besides that, he’s an asset to any team he is on.
-
->Feedback to Sonia:
-Sonia was an absolute pleasure to work with on Rush Hour. Even though she had worked on the project before, she didn’t let her prior experience steal her other teammates’ learning experience at all. She was very communicative and clearly expressed when she was happy or concerned about our progress. While she sometimes doubts her own skills and internalizes these sentiments to her depriment, her working through this while working on Rush Hour also helped me realize that I am sometimes blind to my communication style and how it could also be improved. I would be lucky to have her as a partner again moving on to Module 3 and 4. Plus, she still keeps those fridges sparkling clean, and EVERYONE continues to benefit from her rockstar-ness.
-
->Feedback to Rapha:
-I am happy to have gotten the opportunity to work with Rapha this module and get to know him better than I had the chance to in Module 1. Rapha pulled his weight AND THEN SOME in our Little Shop project and I couldn’t be any more impressed with his work ethic. He was always willing to work late and always asking how he could help if I was feeling overwhelmed with my own tasks. He has a very versatile skillset and is a Googling master if he’s not sure how to do something. His sense of humor also helped to keep the group morale high during stressful times, so I’m very thankful for that. I would be fortunate to get the opportunity to partner with Rapha again.
-
->Feedback to Jean:
-During Little Shop, Jean was invaluable asset as a group partner and was very good about helping us stay on topic and on schedule. Even though our whole cohort knows his coding skills and algorithmic knowledge are beyond impressive, he never lets it go to his head and is extremely easy to approach with any question. Outside of Little Shop, I very much enjoyed getting to know Jean even more and continue to be amazed at how awesome of a person he is in general. He’s shown awesome leadership with Armstrong and LGBTuring and I am excited to see what he can accomplish while he’s at Turing and beyond.
-
->Feedback to Calaway:
-Calaway really, really impressed me this module as he stepped up and took over the pairing sessions with Module 1 students for 1606-BE. I am looking forward to getting the chance to work with him on a project in the coming modules as he has a stellar reputation for being someone who is really easy to work with and adds tremendous value to any project. On a personal note, I find that Calaway is extremely approachable about any topic and always stays very calm and collected, even during more stressful times. I feel that he has the organizational skills, intelligence and personality to take on even more leadership opportunities while at Turing and I’m excited to see what else he accomplishes in the future.
-
-### Being a Community Member
-
->Feedback from Sonia:
-Jasmin was such a pleasure to work with. Rush Hour moved like clockwork due to her excellent project management skills. Our group was cohesive and collaborative, and she really helped keep us on track. She has a depth of knowledge and understanding that is truly impressive, and I learned a lot from her. On a personal level, Jasmin has proven herself to be kind, empathetic, and mature beyond her years. She has considerable emotional intelligence and approaches problems calmly and with reassurance for all involved. I hope I get the opportunity to work with her again, and I’m really glad to know her.
-
->Feedback from Chase:
-Jasmin was an incredible partner to have on our Rush Hour project.  Not only was she extremely capable and an outstanding project manager, but she was also amazing to be around and work with, for multiple days in a row.  She did a great job as our project manager at keeping us on track and organizing our waffle board, but that doesn’t compare to how valuable she was in terms of actual coding.  Jasmin is one of those rare people who can be so intelligent, yet funny, and incredibly kind, all at once.  I’m so glad she’s part of our cohort and I had the pleasure of working with her on Rush Hour.
-
->Feedback from Raphael:
-I paired with Jasmin during our Little Shop Project (also know as GoodGrocers). Her leadership as the project manager, and her skills when it came down to coding and styling the website page goes beyond what I could possibly put into words. At the moment, the only constructive feedback I can give Jasmin, is to delegate more some of the responsibilities, towards the end of the project I felt that she took on a lot, and maybe it was something that we could have shared as a group (again, easy said than done since we all had something going on). It was honestly a great pleasure working with her and I have a lot of admiration and respect for her organization.
-
->Feedback from Jean:
-My experience with Jasmin was excellent. She was a very capable project manager. She consistently kept us on track, by organizing the waffle board. I was impressed with her ability to put herself in the user's shoes. Many times throughout the project she directed us away from solutions that serve us as developers towards solutions that serve the user. Despite her prior experience as a project manager, she never became overbearing. She was defend her opinions, but never try to user her knowledge as a trump card. She was also very friendly and relaxed throughout. I learned a great deal about management by watching her, and am glad we were in the same group
-
->Feedback from Calaway:
-From day one Jasmin has been, and continues to be, an incredible asset to our cohort. She has a keen mind for organization and a desire to go above and beyond to share that and her other talents with her peers. She will commonly be the person we all go to to help organize our own calendars and to do lists through the endless tangle of projects and assignments here at Turing. Additionally, her intelligence and ability to quickly pick up and internalize the material is very impressive, and her willingness to use her knowledge to help others has been an amazing help to us all. She also is wonderful at keeping a positive attitude and using her energy to keep morale high, especially during the most stressful times when we all need it the most.
-
-### Playing a Part
-
-#### Golick Posse
-- My side project for the module was to teach myself the basics of DevOps and I can proudly say that I was able to accomplish that goal. Bring on that build automation! I was also able to tie this into my lightning talk for this module and hopefully taught my classmates some useful knowledge for down the road.
-
-#### Other
-- Pared with Mod1 students 7 times
-- Lead a Friday Spike on Git and Github with Ben Pepper
-- SAB representative - tried to attend as many staff retros as I could in order to ensure 1606-BE was well heard and well informed
-- Continued to tweet about my experience at Turing
-- Attended a Hackathon--Hackthe.News--and participated on an all-Turing team that snagged third prize
-- Was a lead student-facilitator during the CODE:Debugging the Gender Gap Gear Up and helped ensure collaborative communication during group discussion
+- WRITE ABOUT THIS - something valuable I've taken away from my posse
 
 ---
 
