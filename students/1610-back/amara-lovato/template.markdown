@@ -12,6 +12,26 @@ My areas of emphasis were mainly getting familiar with the concepts (classes, me
 * **E: Feedback & Community Participation**: X
 
 # A: End-of-Module Assessment (individual self-assessment)##
+
+# Final Evaluation Scores
+#### 1. Ruby Syntax & API
+* 1: Developer spends significant time debugging elementary syntax or concepts
+
+#### 2. Completion and Progress
+* 2: Developer completes baseline but struggles to progress on optional challenges.
+
+#### 3. Testing
+* 2: Developer uses and writes tests to guide development, but implements more functionality than the tests cover
+
+#### 4. Workflow
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### 5. Collaboration
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+### 6. Enumerable & Collections
+* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
+
 ## A: End-of-Module Assessment
 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
 
