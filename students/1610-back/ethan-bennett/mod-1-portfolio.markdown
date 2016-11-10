@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My goals have shifted a little as this module has progressed--at first, I just wanted to learn as much as I possibly could. Now (as of the third week), I'm more focused on drilling in the fundamentals.
+I deleted and rewrote this today, because my impression of the challenges ahead was pretty naive six weeks ago. Now that I'm beginning to appreciate the incredible breadth of opportunities that come with this set of tools, I can begin to visualize what I really want out of this program. I think that's the most valuable thing I got out of Module 1, besides the obvious Ruby know-how--I'm at a point where I can begin to think critically about my direction when this ends, and what kinds of extracurricular studying I can do to maximize my chances of realizing that path.
 
 ## Rubric Scores
 
@@ -33,6 +33,8 @@ Scores:
     * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 * Enumerable & Collections
     * 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+
 
 
 ## B: Individual Work & Projects
@@ -115,7 +117,7 @@ Scores:
 
 ### Projects
 
-(Intro)
+I really enjoyed both group projects, which was somewhat surprising for me--I work well with others, but I typically prefer independent pursuits. Both partners felt our work benefitted from some parts of my personality I generally take for granted, and I definitely wouldn't have thought to mention them in future interviews. 
 
 #### Night Writer
 
@@ -132,7 +134,6 @@ Notes:
     Decent refactoring to be done
     functioning with an extension
     talked about variables at length
-
 
 Scores:
 1. Test-Driven Development
@@ -151,12 +152,51 @@ Scores:
 4. Overall Functionality
 
    3: Application follows the complete spec and one extension
+   
+#### Black Thursday
+
+* https://github.com/ethanbennett/black_thursday
+* https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown
+
+Black Thursday is, without a doubt, the project that brought all these concepts home for me. It involved building an engine for reading and analyzing sales data, but more specifically, it put our comprehension of object-oriented programming--and managing relationships between those objects--to the test. I found myself implementing strategies I didn't know I understood, and I consistently fixed problems that would've totally baffled me two weeks ago. I'm very happy with the outcome, and our code definitely represents, for me, just how far I've come in six weeks.
+
+Assessed By: Ilana
+Notes:
+
+    136 tests all passing
+    were able to get the spec harness to 2 min from 20
+
+Scores:
+1. Functional Expectations
+
+   * 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+2. Test-Driven Development
+
+   * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+3. Encapsulation / Breaking Logic into Components
+
+   * 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+4. Fundamental Ruby & Style
+
+   * 3: Application shows strong effort towards organization, content, and refactoring
+
+5. Enumerable & Collections
+
+   * 4: Application consistently makes use of the best-choice Enumerable methods
+
+6. Code Sanitation
+
+The output from rake sanitation:all shows...
+
+   * 4: Zero complaints
 
 
-(feedback to me)
 
 ## D: Professional Skills
-(Intro)
+Most of my professional experience centered around difficult skills to prove on paper, so learning how to express my strengths to employers is a skill I'm both grateful to be learning and excited to push further.
 
 ### Gear Up
 #### Vote Your Conscience
@@ -169,6 +209,13 @@ Our discussion in this session revolved mostly around an attempt to define our l
 
 Oversimplifying personality types is kind of a pet peeve of mine, and it couldn't be more clear in attempting to draw a clean line between two concepts like this. It's certainly important to know how you "recharge" best, but if you take this identifier too seriously, you're bound to limit your own potential. Some days it's cathartic to be alone, others you need to be around people. But if you spend too much time telling yourself what you think you need, you're less likely to respond appropriately when your gut tells you "hey, you should do this tonight."
 
+* https://github.com/turingschool/gear-up/blob/master/introversion.markdown
+
+#### Resilience
+
+Although resilience is an important quality to me personally (and for all of us as developers), this Gear Up inspired the least in-depth discussion of the three. The sources didn't really solidify this elusive concept in a meaningful way, so the discussion inevitably became more of a free-form musing on what we thought resilience means. It's still important to devote conscious thought to defining qualities like these, but the conversation stayed on the surface level.
+
+* https://github.com/turingschool/gear-up/blob/master/resilience.markdown
 
 ### Professional Development Workshops
 #### Personal Branding
@@ -179,17 +226,21 @@ Oversimplifying personality types is kind of a pet peeve of mine, and it couldn'
 
 I did a ton of job hunting in a couple tough industries, and although I arrived at some of these styles independently, I really value taking the time to improve them. It's pretty obvious that people don't get jobs based on merit alone, so it was strange to me that conventional college wouldn't spend time on it.
 
+
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-To Jesse: We both had personal stuff going on, and we still managed to complete the project without too much stress. I think a big part of that came from your independent working style and your patient demeanor, and those qualities made collaboration easy. It seemed like you were committed to doing the best possible work from start to finish, and your catching the Iteration 0 mistake early caused the rest of the project to flow smoothly. It was great working with you!
+To Jesse: We both had personal stuff going on, and we still managed to complete the project without too much stress. I think a big part of that came from your independent working style and your patient demeanor, and those qualities made collaboration easy. It seemed like you were committed to doing the best possible work from start to finish, and your catching the Iteration 0 mistake early caused the rest of the project to flow smoothly. You were also extremely good at solving the frustrating problems without wanting to throw your computer through the wall, and I don't think this project would've turned out as well paired with most anyone else. It was great working with you!
 
 To Eric: You were great at simplifying the solutions we duct-taped together, you did the majority of the physical “driving,” and you were always throwing more skillful Ruby methods in the mix. I also think your motivation to continue working late into the night was stronger than mine, and it probably kept me a little more invested in doing higher quality work—-no matter how long it took—-than I would’ve been if I’d been working solo.
 
 ### Being a Community Member
 
-From Jesse: 
+From Jesse: Ethan was my pair for our final project. Which also meant we were together for the final 2 weeks of Module 1. The pairing of Ethan and I was ironic in the way, that just a week before our assignment we had worked on a exercise on how to pair. We both came out of that exercise saying that we work well together.. but we also fell into rabbit holes together rather well too. 
+
+Knowing this information, I think it really helped drive our DTR. We talked about Strengths, and also about limitations, time restraints and weaknesses we perceived in ourselves. This set up communication really well between us. I could not have completed this project without the communication, passion and understanding that Ethan had for both this project and us as a team. Even if I did complete the specs, it would not be something that I was as proud of. This project will live in my project showcase, and I am certain it will be something talked about as an example of what hard work, planning and team dedication are capable of presenting after 2 weeks. I have the utmost respect for Ethan as a person, a programmer and a friend. I look forward to working with Ethan in the future, and am excited about what we are capable of if paired together again.
 
 From Eric: My partner’s role was to keep the relationship easy going and keep me grounded in what we could achieve. Ethan brought the best out in me because I felt I could trust him and felt he offered context for knowing that while the problems were difficult they had solutions.
 
