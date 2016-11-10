@@ -40,8 +40,6 @@ Scores:
 6. Enumerable & Collections
   * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
-
-
 ## B: Individual Work & Projects
 
 #### HTTP
@@ -51,14 +49,13 @@ Scores:
 
 The heart of the HTTP project was to make a web server using Ruby.  We created and fired up a web server.  We created and parsed requests.  We sent responses based on the path and HTTP verb.  
 HTTP was an eye-opening opportunity to make a web server using Ruby.  On one hand it was an *excellent* experience which exposed the fundamental processes and flow of a web server.  On the other hand it was a unique experiment in frustration and formatting which made me revel in the gloriousness of my web browser.  I also had no idea that information could be included in a web request in so many ways from query parmeters to POST key, values in forms.  
-I did not get as far as I would have liked on this project (Overall Functionality score of 2).  This was because of two reasons: 1) I got stuck early on trying to create an easy to use setup with tmux that would allow me to fire up and shut down the server during testing; and 2) I dug in *deep* to HTTP requests when I got to the section on passing information via POSTs.  Ultimately, I believe the first issue was not the best use of time, and I should have bailed on the neat-but-not-critical idea.  The second issue was fantastic learning, and I was willing to sacrifice the score for a more in-depth look at HTTP requests.
+I did not get as far as I would have liked on this project (Overall Functionality score of 2).  This was because of two reasons: 1) I got stuck early on trying to create an easy to use setup with tmux that would allow me to fire up and shut down the server during testing; and 2) I dug in *deep* to HTTP requests when I got to the section on passing information via POSTs.  Ultimately, I believe the first issue was not the best use of *that many hours*, and I should have bailed on the neat-but-not-critical idea.  The second issue was fantastic learning, and I was willing to sacrifice the score for a more in-depth look at HTTP requests.
 
 ##### Evaluation Comments:
 Notes:
 * Great testing overall, used tmux to get around the server close test
 * code was well organized, would have liked to have seen the word search pulled out
 * Memoization in loading dictionary which is sweet
-
 
 ##### 1. Overall Functionality
 * 2: Application implements iterations 0 - 3
@@ -71,7 +68,6 @@ Notes:
 
 ##### 4. Breaking Logic into Components
 * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
-
 
 #### Date Night
 
@@ -107,18 +103,38 @@ Notes:
 
 (description)
 
-(evaluation comments)
 
-(evaluation scores)
+##### Evaluation Comments:
+Notes: 
+- 102 tests all passing *EDIT by Nick: the spec harness had 102 test, I had 206*
+- spec passing
+- established a process
+- felt more comfortable with enumerables
+- liked using mocks
+
+##### Evaluation Scores:
+##### 1. Functional Expectations
+* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+##### 2. Test-Driven Development
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+##### 3. Encapsulation / Breaking Logic into Components
+* 4: Application is expertly divided into logical components each with a clear, single responsibility
+
+##### 4. Fundamental Ruby & Style
+* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+##### 5. Enumerable & Collections
+* 4: Application consistently makes use of the best-choice Enumerable methods
+
+##### 6. Code Sanitation
+The output from `rake sanitation:all` shows...
+* 4: Zero complaints
 
 ## C: Group Work & Projects
 (complete me only - Laszlo)
 ### Projects
-
-DTR: https://docs.google.com/document/d/10bR4P1cFi15NhzPXGgfmw6GChrDIf_feH8VtAb9xr-4/edit
-
-(Intro)
-Pairing on a project felt very comfortable for me.  In my last job I did a small amount of work with the developers and certainly was familiar with the idea of pair programming and what the mechanics were.  However, I had no idea how it would be to pair with one of my classmates for the first time.  I knew we would be stumbling through not only the mechanics and strategies of *how* to pair effectively, but also adding the challenges of using git effectively on our own and tackling an algorithm which was difficult for both of us to solve.  In the end, I feel like my partner and I complimented each other quite well with our individual strengths and weaknesses, and I believe our assessment shows the result of a successful partnership.
 
 #### Complete Me
 
@@ -127,9 +143,9 @@ Pairing on a project felt very comfortable for me.  In my last job I did a small
 
 (description)
 ##### Complete Me 
-Complete Me expanded on the Binary Search Tree project (Date Night) from the previous week and was the more general case of a tree with linked nodes.  While the Date Night project was one way to quickly store, filter and sort a list of numbers (scores and movie title), Complete Me was used to store words so that it could be used as an autocomplete system like might be used on a phone messaging app [like so](http://www.damnyouautocorrect.com/10484/the-top-15-most-popular-dyac-texts-of-all-time/).  Our project relied heavily on recursion.  
+Complete Me expanded on the Binary Search Tree project (Date Night) from the previous week and was the more general case of a n-dimensional tree with linked nodes.  While the Date Night project was one way to quickly store, filter and sort a list of numbers (scores and movie title), Complete Me was used to store words so that it could be used as an autocomplete system like might be used on a phone messaging app [like so](http://www.damnyouautocorrect.com/10484/the-top-15-most-popular-dyac-texts-of-all-time/).  Our project relied heavily on recursion.  
 
-(evaluation comments)
+##### Evaluation Comments:
 * Really good job breaking out into logical components.
 * Though there are small methods, looks like there is a bit of redundancy and
 could combine multiple methods into one
@@ -137,24 +153,27 @@ could combine multiple methods into one
 * Liked the explicit returns in only the methods where it made sense
 * Shoes extension is really neat
 
-(evaluation scores)
-### 1. Test-Driven Development
+##### Evaluation Scores:
+##### 1. Test-Driven Development
 * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
 
-### 2. Encapsulation / Breaking Logic into Components
+##### 2. Encapsulation / Breaking Logic into Components
 * 4: Application always breaks concepts into classes and methods which encapsulate functionality.
 
-### 3. Fundamental Ruby & Style
+##### 3. Fundamental Ruby & Style
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, refactoring, and extensively uses idiomatic code.
 
-### 4. Enumerable & Collections
+##### 4. Enumerable & Collections
 * 4: Application consistently makes use of the best-choice Enumerable methods and collections
 
-### 5. Functional Expectations
+##### 5. Functional Expectations
 * 4: Application fulfills all base expectations and one extension
 
-(feedback to me)
-From Laszlo:
+DTR: https://docs.google.com/document/d/10bR4P1cFi15NhzPXGgfmw6GChrDIf_feH8VtAb9xr-4/edit
+
+Pairing on a project felt very comfortable for me.  In my last job I did a small amount of work with the developers and certainly was familiar with the idea of pair programming and what the mechanics were.  However, I had no idea what it would be like to pair with one of my classmates for the first time.  I knew we would be stumbling through not only the mechanics and strategies of *how* to pair effectively, but also adding the challenges of using git effectively on our own and tackling an algorithm which was difficult for both of us to solve.  In the end, I feel like my partner and I complimented each other quite well with our individual strengths and weaknesses, and I believe our assessment shows the result of a successful partnership.
+
+##### Feedback from Laszlo:
 
 I very much enjoyed pairing with Nick on the Complete Me project. Nick has a strong work ethic and a very strong drive to deliver a high quality solution. Nick demonstrated great knowledge of GitHub and was great at sharing that knowledge as well as help me to improve with everything GitHub related. He is great at keeping a disciplined development approach that allowed us to build our project through iteration (test-code-refactor). I would be very happy to pair with Nick on any future projects and anybody who will pair with him will be very pleased with Nick’s value add to the success of any future projects.
 
@@ -162,18 +181,18 @@ I very much enjoyed pairing with Nick on the Complete Me project. Nick has a str
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Resiliency
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The Gear Up on resiliency was 
 
-#### (Session Name)
+#### Invtroversion and Extroversion
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-#### (Session Name)
+#### Vote Your Conscience
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
@@ -195,7 +214,6 @@ github and linkedin
 
 ### Giving Feedback
 
-(feedback from me)
 From me to Annie: 
 Annie was great influence during Mod 1 and very helpful during the Black
 Thursday project.  Throughout the module, she was cheerful and positive
