@@ -179,8 +179,7 @@ Scores:
 
 ## D: Professional Skills
 
-I've always been confident in my ability to pick things up from a technical perspective but a lot shakier on soft skills. 
-I've found the Gear Up and the professional development workshops really helpful. All of the sessions that I attended during Module 1 are listed below.
+I'm usually confident in my ability to pick things up from a technical perspective but I've always felt a little shakier when it comes to soft skills. I've found the Gear Up and the professional development workshops really helpful. All of the sessions that I attended during Module 1 are listed below.
 
 ### Gear Up
 #### Vote Your Conscience
