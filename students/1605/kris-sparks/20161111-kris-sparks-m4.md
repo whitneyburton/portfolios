@@ -238,11 +238,14 @@ During my time at Turing I have made an effort to participate in as many opportu
 
 ### Notes
 
-* **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
-* **D: Professional Skills**:
-* **E: Feedback & Community Participation**:
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 
 ### Outcome
+
+Pass
