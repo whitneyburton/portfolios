@@ -58,6 +58,8 @@ Following are my individual projects from Module 2 at Turing.
 
 The goal of this project was to create a personal job tracker app in Rails. This app has CRUD functionality for several models, along with an analysis piece to perform calculations on the data stored in the database and display it on the dashboard.
 
+I enjoyed this project because we finally got to put some of our Rails skills to good use. I was really pleased with how the Bootstrap styling worked out, and excited to have a functional app that someone might actually use.
+
 ### Rubric
 
 #### 1) Database, Relationships, and Migrations
@@ -105,7 +107,7 @@ This ungraded project was a tutorial to introduce us to creating and testing an 
 
 For this ungraded mini-project in Rails, I chose the GIF generator option. This app allows an admin to create categories and generate GIFs for existing categories using the Giphy API, and a regular user can add existing GIFs to their favorites. My app works well, but needs more testing and plenty of refactoring, especially in the views. Log into the Heroku app as admin with email "blue@blue.blue" and password "password". Log in as a regular user with "email@email.com" and "password."
 
-
+This project was fun because of the GIF aspect of it. I felt a little held back by the spec, and I didn't really like that a category has to be created before a GIF can be made in that category. Aside from that, I am happy with the outcome, and I also got to hone my Bootstrap skills a little more.
 
 
 ## C: Group Work & Projects
@@ -120,6 +122,8 @@ Following are my group projects from Module 2.
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
 For this project, we created an application that aggregates and analyzes visitor data from another website. We simulated the process of gathering and receiving data in a grouping called a payload. This application can accept the submission of these payloads, analyze the data submitted, and display it through a HTML interface.
+
+When we first started the project, I felt a little behind, but was soon brought up to speed by my teammates. After that, I really enjoyed the project. I had a great team and I was proud of what we accomplished.
 
 
 ### Evaluation Rubric
@@ -161,6 +165,8 @@ Alisher Sadikov: I really enjoyed working with Anna on the Rush Hour Project. Sh
 * [Heroku App](http://root-and-branch.herokuapp.com/)
 
 This app is a mock store called Root & Branch, which is a marketplace for socially responsible goods. It is a fully functioning web store written in Rails, complete with user authentication and admin authorization, a functioning cart and checkout, and Bootstrap styling.
+
+This project was a ton of fun, and I had a great group. We worked hard on the code, testing, refactoring, and styling, and I am really happy to have this app to show people.
 
 
 ## D: Professional Skills
