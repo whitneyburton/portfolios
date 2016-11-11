@@ -39,7 +39,7 @@ soft 3, needs to rely less on keyboard. Developer demonstrates comfort with thei
 
 ## B: Individual Work & Projects
 
-(Intro)
+(This project really helped to become more comfortable with exploring different styles on my own.)
 
 #### (Personal Site)
 
@@ -70,7 +70,7 @@ soft 3, needs to rely less on keyboard. Developer demonstrates comfort with thei
 (This was a game that generated a random number from 1-100 for a user to guess.)
 
 
-(
+
 #UX/UI Expectations
 
 3: Application shows strong effort towards matching the comp, but some details have been missed. Any extensions are simple, clean design, content organization, and well thought out experience and user interactions.
@@ -81,7 +81,7 @@ soft 3, needs to rely less on keyboard. Developer demonstrates comfort with thei
 
 #Fundamental JavaScript Style
 
-3: Application shows strong effort towards organization, content, and refactoring)
+3: Application shows strong effort towards organization, content, and refactoring
 
 
 (Feedback to me: Kenia was willing to collaborate, work hard, and also take breaks. I enjoyed working with Kenia. Kenia could be even more aggressive and take charge on a specific element, whether it be css or a challenging javascript function. Kenia is positive and not afraid to make suggestions in the moment. -Adam Rice)
@@ -97,7 +97,7 @@ soft 3, needs to rely less on keyboard. Developer demonstrates comfort with thei
 
 (This was a helpful link storage website that used local storage to save data.)
 
-(
+
 #Functional Expectations
 
 2: Application meets all of the functional expectations in Phase One.
@@ -116,12 +116,12 @@ soft 3, needs to rely less on keyboard. Developer demonstrates comfort with thei
 
 #CSS Style
 
-2: Your application has some duplication and minor bugs. Developer can speak to most choices made in the code and knows what every line is doing.)
+2: Your application has some duplication and minor bugs. Developer can speak to most choices made in the code and knows what every line is doing.
 
 
 
-(Feedback to me: Kenia, it was a lot of fun pairing with you on link-list. I cannot believe we did all of that in two days. I like that we incorporate jQuery into our project, and that you were willing to go to pairing sessions as a team. Overall I think we both need to work on our jQuery, but it is a newer concept for us. I appreciate the help with git and github too. I hope we can work together again!
-  )
+(Feedback to me: Kenia, it was a lot of fun pairing with you on link-list. I cannot believe we did all of that in two days. I like that we incorporate jQuery into our project, and that you were willing to go to pairing sessions as a team. Overall I think we both need to work on our jQuery, but it is a newer concept for us. I appreciate the help with git and github too. I hope we can work together again!)
+
 
 (Feedback I gave: Overall I think our project went well, but I do think we could have done better.
 I think we did really well at working as a group through the project and even
@@ -138,7 +138,7 @@ room for growth I was happy with our project.)
 
 (This was a website that stores ideas in which we also used local storage.)
 
-(
+
 #Notes
 
 JavaScript looked pretty good, but there were some large functions that needed breaking down and refactoring, for sets of variables that are needed within a function, could break these out into a function that returns an object with these variables
@@ -148,7 +148,8 @@ Alignment and width of buttons/input fields was getting off compared to the comp
 #Specification Adherence
 
 4 - The application meets all of the requirements listed above and implements one or more of the extensions.
-HTML Style
+
+#HTML Style
 
 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
@@ -166,7 +167,7 @@ Workflow
 #Collaboration
 
 3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
-)
+
 
 (Feedback to me: Great job on the project. I wish I had more to criticize but you really were a great partner. I was especially happy to see you step up to the challenge when I asked you to take the lead on the JS portion of the project even though you were uncomfortable with JS at that time. It showed a lot of determination and grit to willingly tackle something unfamiliar. You also bring a cheerful presence and great attitude to every group you're in. Thanks again for the hard work and you truly made the project fun and enjoyable.)
 
@@ -177,8 +178,8 @@ javascript and took on more of a mentor role and it helped me become
 much stronger at writing code. One thing I would suggest is taking some time
 to yourself every once in while. You are very focused and driven, but I do
 feel like you need to step away and take more breaks. Overall i think we worked
-really well together and I appreciate your patience. —Kenia Farias
-)
+really well together and I appreciate your patience. —Kenia Farias)
+
 
 
 #### (Game Time)
@@ -188,12 +189,12 @@ really well together and I appreciate your patience. —Kenia Farias
 
 (Built Frogger!)
 
-(
+
 #Functional Expectations:
 
 4 - Application is fully playable and exceeds the expectations set by instructors
 
-User Interface:
+#User Interface
 
 missing directives on how to play (i.e. am i using my mouse? the arrow keys?)
 
@@ -204,7 +205,8 @@ missing directives on how to play (i.e. am i using my mouse? the arrow keys?)
 No functionality is tested, presence of functions is covered. needed a refactor of the codebase to make testing more straightforward. got stuck with dealing with canvas + tests.
 
 2 - Project has sporadic use of tests at multiple levels. The application contains numerous holes in testing and/or many features are untested.
-JavaScript Style
+
+#JavaScript Style
 
 soft 3, significant amount of working code is in the index.js file. needs to be refactored.
 
@@ -218,11 +220,11 @@ soft 3, significant amount of working code is in the index.js file. needs to be 
 
 The output from JSHint shows…
 
-3 - Five or fewer complaints)
+3 - Five or fewer complaints
 
 
-(Feedback to me: Kenia- I had a great time being your partner. You are an incredibly hard worker, and won't stop until a task is complete. Your positivity and kindness make working on a stressful project a lot easier. We worked together extremely well. We both had goals for this project that achieved by working together. You are very talented and I hope to work with you again soon! I am very impressed with how hard you are willing to work, we had a lot of late nights. One piece of constructive criticism, during a really stressful time for me, you took a break and got coffee. It ended up making me even more nervous, and I had even felt abandoned. Next time maybe you could be more aware of the time and I’ll be sure to voice my concerns to you so that we don’t have this problem again! I think what we accomplished was awesome, and I am super proud of how the game turned out. Being your partner and friend has been such a joy!. —Bekah
-)
+(Feedback to me: Kenia- I had a great time being your partner. You are an incredibly hard worker, and won't stop until a task is complete. Your positivity and kindness make working on a stressful project a lot easier. We worked together extremely well. We both had goals for this project that achieved by working together. You are very talented and I hope to work with you again soon! I am very impressed with how hard you are willing to work, we had a lot of late nights. One piece of constructive criticism, during a really stressful time for me, you took a break and got coffee. It ended up making me even more nervous, and I had even felt abandoned. Next time maybe you could be more aware of the time and I’ll be sure to voice my concerns to you so that we don’t have this problem again! I think what we accomplished was awesome, and I am super proud of how the game turned out. Being your partner and friend has been such a joy!. —Bekah)
+
 
 (Feedback I gave: Bekah, working with you was honestly so much fun. Your positivity made our
 stressful times through this project seem much less intimidating. I think our
@@ -234,8 +236,8 @@ For example during one of our merge conflicts I had a game that was not working.
 Before I could talk to you about the problem you went over to help someone else
 with their game before I could talk to you and It stressed me out. In the future you
 can think about being more aware of conflicts in your team and I will work on  
- being more vocal about my concerns.
-)
+ being more vocal about my concerns.)
+
 
 
 
@@ -266,7 +268,6 @@ There are many ways to participate and be a part of these decisions, so I would 
 
 ### Giving Feedback
 
-()
 
 ### Being a Community Member
 
