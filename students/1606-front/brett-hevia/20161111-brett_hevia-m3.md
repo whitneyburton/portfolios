@@ -1,4 +1,4 @@
-# Brett Hevia - M2 FE Portfolio
+# Brett Hevia - M3 FE Portfolio
 
 ### Areas of Emphasis
 
