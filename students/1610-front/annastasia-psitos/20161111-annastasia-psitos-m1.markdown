@@ -111,6 +111,7 @@ Feedback to Me:
 #### Idea Box
 
 * [Idea Box Repo](https://github.com/apsitos/Idea_Box)
+* [Idea Box GH Pages](https://apsitos.github.io/Idea_Box/)
 * [Project Description](http://frontend.turing.io/projects/ideabox.html)
 
 
@@ -146,7 +147,7 @@ Feedback to Me:
 
 #### Game Time
 
-* [Frogger](https://github.com/pescel/Frogger);
+* [Frogger](https://github.com/pescel/Frogger)
 * [Project Description](http://frontend.turing.io/projects/game-time.html)
 
 #### Evaluator: Louisa
@@ -255,6 +256,7 @@ The output from JSHint shows…
 #### Feedback I
 
 * https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md
+
   The article Allison brought in was very interesting and quite useful. While I don't know that I've actively used the knowledge in class, I have tried to keep the points in mind and hope to reread the article in the coming weeks. I do believe that the information would be helpful if fully implemented by everyone, but that is something each person needs to take on themselves. For myself, I hope to take some time for self-reflection to determine what type of feedback I need the most.
 
 
