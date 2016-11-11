@@ -63,7 +63,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 * [GitHub URL]()
 
--(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 
 ### Professional Development Workshops
