@@ -40,8 +40,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### (Personal Site)
 
-* [https://github.com/bekahlundy/personal_site]()
-* [http://frontend.turing.io/projects/personal-site-first-draft.html]()
+* [https://github.com/bekahlundy/personal_site]
+* [http://frontend.turing.io/projects/personal-site-first-draft.html]
 
 (I created a professional personal site to showcase my current and past projects. It will be used on resumes and be sent to future employers.)
 
@@ -54,8 +54,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### (Number Guesser)
 
-* [https://github.com/bekahlundy/number_guesser_v2]()
-* [http://frontend.turing.io/projects/number-guesser.html]()
+* [https://github.com/bekahlundy/number_guesser_v2]
+* [http://frontend.turing.io/projects/number-guesser.html]
 
 (We created a web application that took an input number and compare it to a random one. It would then tell you if your guess was too low or too high)
 
@@ -82,8 +82,8 @@ I think you’re in a great place in terms of your knowledge and work ethic, so 
 
 #### (Linked List)
 
-* [https://bekahlundy.github.io/linked_list/]()
-* [http://frontend.turing.io/projects/linked-list.html]()
+* [https://bekahlundy.github.io/linked_list/]
+* [http://frontend.turing.io/projects/linked-list.html]
 
 (We created an application that took title's and url's and created a book-mark-like list out of them)
 
@@ -109,8 +109,8 @@ Overall you were a great partner to work with not only because you're a nice per
 
 #### (Idea Box)
 
-* [https://github.com/bekahlundy/ideaBox]()
-* [http://frontend.turing.io/projects/ideabox.html]()
+* [https://github.com/bekahlundy/ideaBox]
+* [http://frontend.turing.io/projects/ideabox.html]
 
 (We created an application that took ideas and put them onto the page with local storage)
 
@@ -144,8 +144,8 @@ Bekah - I am so proud of what we accomplished for this IdeaBox project! You have
 
 #### (Game Time)
 
-* [https://github.com/bekahlundy/Game-Time-]()
-* [http://frontend.turing.io/projects/game-time.html]()
+* [https://github.com/bekahlundy/Game-Time-]
+* [http://frontend.turing.io/projects/game-time.html]
 
 (We created a game using a canvas. We had to think about all the logic to create the game frogger. We used constructor functions, prototypes, testing, and more.)
 
@@ -201,7 +201,7 @@ being more vocal about my concerns.
 ### Gear Up
 #### (Resilience)
 
-* [https://github.com/turingschool/gear-up/blob/master/resilience.markdown]()
+* [https://github.com/turingschool/gear-up/blob/master/resilience.markdown]
 
 (I enjoyed talking about resilience with fellow Turing students. First of all, it was good to hear that everyone struggles through turing. We all got to talk about bouncing back and how we deal with hard weeks. I also enjoy getting together with other Turing students from all different cohorts. You can really learn a lot. We talked about why being pushed so hard makes us resilient, and how mod one can teach us how the rest of the courses need to be treated. It is nice to be able to have serious and real talks with strangers instead of just small talk.)
 
