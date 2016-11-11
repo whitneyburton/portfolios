@@ -41,18 +41,7 @@ Will retake 11/14
 
 ## B: Individual Work & Projects
 
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+**N/A**
 
 ## C: Group Work & Projects
 
@@ -194,6 +183,30 @@ The output from JSHint shows…
 Feedback from Noah Peden:
 
 "I was worried before we were assigned partners about who I was going to get for a two week project partner, but it turns out my worries were for naught as I got you as my partner!! I am grateful for your abilities to quickly grasp and tackle difficult concepts/problems and willingness to put in late nights so that we can accomplish what is needed. I am also a huge fan of your humor, ability to listen to my side, and styling skills. My only constructive criticism would be to plan out your path to a Minimal Viable Product and really stick to that before adding on extra features or things. Overall you were a pleasure to work with and I don't think our game would've turned out half as well as it did without you. Thanks for rocking!!"
+
+**DTR with Noah for Game Time Project:**
+
+DTR Memo
+Project: Game Time
+Group Member Names: Chelle Tuerk, Noah Peden
+Project Expectations: What does each group member hope to get out of this project? Goals and expectations:
+*  Further understanding of JS and solid foundation of HTML5 Canvas Schedule Expectations: When are we available to work together and individually?
+*  Mornings and Evenings and weekends
+Communication Expectations: How and often will we communicate? How do we keep lines of
+communication open?
+*  In person, slack, and phone
+Abilities Expectations: Technical strengths and areas for desired improvement:
+*  Improvement: Syntax, prototypes/methods/objects
+*  Strength: understanding concepts deeper, jQuery, CSS Workload Expectations: What features do we each want to work on?
+*  JS: together
+*  CSS: can be separate if necessary
+Workflow Expectations: Git workflow/Tools/Code Review/Reviewing Pull Requests:
+*  Equal, many commits. After each block of code is finished, we’ll commit and switch off.
+Expectations for giving and receiving feedback: *  Just be honest.
+Tools:
+* Map everything out down to small steps
+Online tutorials/videos
+Google, pairings
 
 
 ## D: Professional Skills
