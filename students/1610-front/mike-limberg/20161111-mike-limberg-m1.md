@@ -45,7 +45,7 @@ This project has not yet been given the time and attention it deserves. I spent 
 
 ### Projects
 
-(Intro)
+The following projects built on one-another with each new project adding a new level of difficulty. The elements explored in these projects include HTML, CSS, Javascript, jQuery, Local Storage, JSON, and the HTML canvas.
 
 #### Number Guesser
 
