@@ -1,19 +1,21 @@
 # MaryJane Valade - M3 Portfolio
 ## Areas of Emphasis
 
-Entering Mod 3, I felt really comfortable in React and that my JS skills were finally improving. Then we starting working in Redux and I felt confused all over again.
+Entering Mod 3, I felt really comfortable in React and that my JS skills were finally improving. Then we starting working in Redux and I felt confused all over again. I really wanted to feel confident using React and Redux because it seems to be the way the industry is going for many projects lately so I tackled it for my personal project. I was also excited to learn Ember to add another tool to my tool box. I hope we can do a little more with it in Mod 4 to have more practice. I am also really looking forward to Mod 4 and all the new things we will learn and polish our skills to set out on our own.
+
+This mod I felt that I really became aware of what the industry is looking like as we begin searching for jobs. I tried to reach out to people in my circle for job hunting advice and to talk through my interests and how they could fit with some local companies.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
-## A: End of Module Assessment
+## A: End of Module Assessment - Quiz Builder
 
 ##### Specification Adherence
 3 - The application includes all of the major functionality. There are no features missing from above that make the application feel incomplete or hard to use.
@@ -42,7 +44,7 @@ I developed a website application to create hiking trails that are kid-friendly 
 #### Evaluation scores:
 **Feature Delivery:**  
 Completion  
-4 - Developer completed all the user stories and requirements set in check-ins in timely manner.
+4 - Developer completed all the user stories and requirements set in check-ins in timely manner.  
 Organization  
 3- Developer used a project management tool to keep their project organized.
 
@@ -70,7 +72,7 @@ Two paired projects: Weather Tracker and Remember
 * [GitHub URL](https://github.com/mjvalade/weather-forecast)
 * [Original Assignment](http://frontend.turing.io/projects/weather-forecast.html)
 
-The weather app project was the first time we paired in a group of three people rather than two so it was important to focus on workflow and code commits. This project forced us to learn a lot of things all at once between redux, API calls, routing, etc. First we had to find a user's geolocation and then use that to find the local weather. the focus of the app was allowing a user to create a list of pinned or favorite cities and getting the current and extended forecast for those cities. This was the first time we implemented Redux with React and had to learn how to organize all our actions in order to pass state from the main store.
+The weather app project was one of the rare times we worked in a group of three people rather than two so it was important to focus on workflow and code commits. This project forced us to learn a lot of things all at once between Redux, API calls, routing, etc. First we had to find a user's geolocation and then use that to find the local weather. The focus of the app was allowing a user to create a list of pinned or favorite cities and getting the current and extended forecast for those cities. This was the first time we implemented Redux with React and had to learn how to organize all our actions in order to pass state from the main store.
 
 **Scores:**  
 Specification Adherence  
@@ -96,41 +98,36 @@ Workflow
 * [GitHub URL](https://github.com/turingschool-projects/1606-remember-5)
 * [Original Assignment] ()
 
-This was our first chance working with the JS framework Ember. This project was structured in more of a real-world style with a focus on workflow by receiving and solving user stories, pushing code for PRs and code review before merging and moving on to the next issue. Our system of working together until we felt comfortable tackling issues on our own was productive and helped us learn Ember better. Then we were able to move at a faster pace by dividing issues and reviewing together before pushing up for instructor review.
+This was our first chance working with the JS framework Ember. This project was structured in more of a real-world work style with a focus on workflow by receiving and solving user stories, pushing code for PRs and code review before merging and moving on to the next issue. Our system of working together until we felt comfortable tackling issues on our own was productive and helped us better learn Ember. Then we were able to move at a faster pace by dividing issues and reviewing together before pushing up for instructor review.
 
 **Scores:**
 PASS - 9 completed user stories
 
 ## D: Professional Skills
-(Intro)
-
 ### Gear Up
+
+[Gear Up Notes for all sessions](https://docs.google.com/document/d/1pCbGG8DrcuR8k696ws7SrH218xYgEK26H5-7FCUL3oI/edit?usp=sharing)
+
 #### Vote Your Conscience
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
-
-3-4 sentences summarizing your takeaways from _each_ session
 
 #### Introversion and Extroversion on Teams
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-3-4 sentences summarizing your takeaways from _each_ session
 
 #### Resilience
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-3-4 sentences summarizing your takeaways from _each_ session
-
-
 ### Professional Development Workshops
-#### (Session Name)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Workshop URL links](https://github.com/turingschool/professional_skills/tree/master/module_three)
+* [Job search doc](https://docs.google.com/spreadsheets/d/1s7GrVWfkrQOm7MauK7oJusoJvcAcFKyQFU1IB__swb0/edit?usp=sharing)
+* [Flower Exercise](https://drive.google.com/file/d/0B1D9FI4eOLMkbkZCSWlVS2liZTQ/view?usp=sharing)
 
-(takeaways from session)
+These sessions were helpful as we begin job searching and need a game plan so we don't freak out. Giving us some things to think about as far as what types of environments and people we want to work with is valuable. I really enjoyed having David Rudder come speak to us about the job interview process. He definitely put some of my anxieties to rest and gave us some great information. The problem-solving/creativity session for our personal project was not helpful.
 
 ## E: Feedback and Community Participation
 
@@ -143,11 +140,12 @@ Project 1: Weather App (Jeff)
 It was nice to work with you again on the weather app. This project forced us to learn a lot of things all at once between redux, API calls, routing, etc. Once you figured out how to make redux work I appreciated that you tried to explain it to us rather than just breaking apart the project to work on our own elements. Taking redux on your shoulders when we were struggling helped Pete and I work on the rest of the project.
 
 Project 2: Ember Remember (Kirsten)  
-I enjoyed working with you on learning a brand new framework in Ember. I feel like our system of working together until we felt comfortable tackling issues on our own was productive and helped us learn Ember better. The best thing I gained from working with you is that whenever i wanted to go ask for help you wouldn’t let me because you thought we could figure it out ourselves - and you were usually right. This has really helped me with my personal project.
+I enjoyed working with you on learning a brand new framework in Ember. I feel like our system of working together until we felt comfortable tackling issues on our own was productive and helped us better learn Ember. The best thing I gained from working with you is that whenever i wanted to go ask for help you wouldn’t let me because you thought we could figure it out ourselves - and you were usually right. This has really helped me with my personal project.
 
 ### Being a Community Member
 
 From Pete:  
+Working on the weather app with you was a pleasure. You are a strong communicator which makes it easy and enjoyable to pair with you. One thing I think our group did well was rotating who was driving and navigating based on who understood the current issue being worked on. Doing this well shows that you value your partners learning just as much as your own. I would be happy to work together in the future.
 
 From Jeff:  
 MaryJane, I really enjoyed working with you and Pete on the Weather app project.  I thought we did a good job working through it together and I was really happy with how it turned out.  I think we did a good job working together to muddle our way through all the new concepts and then did an awesome job of working independently on several pieces at once to get a solid app out the door by the deadline.  I hope we get to work together again on another project!
@@ -162,7 +160,7 @@ I am so fortunate to have gotten to know MaryJane over the past 3 modules at Tur
 
 * I met with Angela Lindow (1605-BE) to discuss setting up an after-hours event to bring together Turing students and spouses/partners to support each other through the Turing process. We are working with Allison to get out a survey and schedule a date.
 
-* I've attened a few meetups and also spoke to people at them (that is a big deal for me). I've met with a couple people for coffee to talk about jobs and the industry and working on setting up more over break and early next mod.
+* I've attened a few meetups and even spoke to people at them (that is a big deal for me). I've met with a couple people for coffee to talk about jobs and the industry and working on setting up more over break and early next mod.
 
 * I come in early to get work done but also try and tidy up the Bank space when necessary, as well as help set up for Friday guest speakers.
 
