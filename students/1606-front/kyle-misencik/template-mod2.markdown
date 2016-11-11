@@ -1,4 +1,4 @@
-# Kyle Misencik - (M1)-FE Portfolio
+# Kyle Misencik - (M2)-FE Portfolio
 ## Individual
 
 ### Areas of Emphasis
@@ -111,7 +111,7 @@ I really enjoyed pairing with mod 1 this time around. It's great to work through
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
-* **D: Community Participation**: 2
+* **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
