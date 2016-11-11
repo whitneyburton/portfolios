@@ -10,9 +10,9 @@
 * Good collaboration
 * Try to use the mouse less
 
-Progression/Completion: 3
-JS Style: 3
-Workflow: 3
+Progression/Completion: 3  
+JS Style: 3  
+Workflow: 3  
 Collaboration: 3
 
 Evaluator: Steve
@@ -37,14 +37,14 @@ Styling Review: more contrast between user messages to differentiate them, less 
 Technical Review: split functions in testing for clarity, more unit tests, don’t name variables with only one letter
 
 ###### Evaluation Scores:
-Spec Adherence: 3
-User-interface: 3
-HTML: 3
-CSS: 3
-Design: 3
-Testing: 3
-JavaScript: 3
-Workflow: 3
+Spec Adherence: 3  
+User-interface: 3  
+HTML: 3  
+CSS: 3  
+Design: 3  
+Testing: 3  
+JavaScript: 3  
+Workflow: 3  
 Code Sanitation: 3
 
 Evaluators: Louisa, Jhun, & Bree
@@ -63,14 +63,14 @@ Styling Review: remove hover from disabled buttons, input field that allows user
 Technical Review: break out event listeners from index.js and put them in their own file, pull out sound intervals from the tick and make a function that groups them all together to call in the tick function, and hard code arguments when unit testing
 
 ###### Evaluation Scores:
-Spec Adherence: 4
-User-interface: 3
-HTML: 4
-CSS: 3
-Design: 4
-Testing: 3
-JavaScript: 3
-Workflow: 4
+Spec Adherence: 4  
+User-interface: 3  
+HTML: 4  
+CSS: 3  
+Design: 4  
+Testing: 3  
+JavaScript: 3  
+Workflow: 4  
 Code Sanitation: 3
 
 Evaluators: Bree & Brenna
@@ -89,15 +89,15 @@ Styling Review: have image styling consistent, use field-set in form, don’t ma
 Technical Review: reduce toggle button state, in general reduce as much as you can from components state, remove super() if it’s not needed, and buttons and inputs can be made into their own components
 
 ###### Evaluation Scores:
-Spec Adherence: 3
-Risk-taking: 3
-User-interface: 4
-HTML: 3
-CSS: 3
-Design: 4
-Testing: 4
-JavaScript: 3
-Workflow: 4
+Spec Adherence: 3  
+Risk-taking: 3  
+User-interface: 4  
+HTML: 3  
+CSS: 3  
+Design: 4  
+Testing: 4  
+JavaScript: 3  
+Workflow: 4  
 Code Sanitation: 4
 
 Evaluators: Bree & Brenna
@@ -116,14 +116,14 @@ Styling Review: closest design to the comp specs, like the disabled buttons
 Technical Review: submit and clear buttons can be grouped into a single button component, sort buttons can be grouped together as a single component, use a ternary for the handleIndividualUser function, refactor filter function and make a variable that takes in property and filtertext which can be passed down into a function, instead of === false use !== true, and filter and sort functions could potentially use the same function to run every message through them
 
 ###### Evaluation Scores:
-Spec Adherence: 3
-Component Architecture: 3
-User-interface: 4
-CSS: 4
-Design: 4
-Testing: 3
-JavaScript: 3
-Workflow: 3.5
+Spec Adherence: 3  
+Component Architecture: 3  
+User-interface: 4  
+CSS: 4  
+Design: 4  
+Testing: 3  
+JavaScript: 3  
+Workflow: 3.5  
 Code Sanitation: 3
 
 Evaluators: Steve & Jhun
