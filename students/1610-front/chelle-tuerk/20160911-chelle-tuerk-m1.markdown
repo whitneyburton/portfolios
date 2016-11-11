@@ -303,7 +303,7 @@ Feedback from Dylan Avery:
 
 Feedback from Regis Boudinot:
 
-* At first Chelle was a bit all over the place :joy: and trying to immediately understand absolutely everything that was going on. In the last two weeks however, she understands that coding is like eating an elephant. You gotta do it one bite at a time. No easy way around it.
+* "At first Chelle was a bit all over the place :joy: and trying to immediately understand absolutely everything that was going on. In the last two weeks however, she understands that coding is like eating an elephant. You gotta do it one bite at a time. No easy way around it.
 
 The velocity in which she throws idea into code now is impressive. She understands the concepts faster than what she needs to write. Which honestly is a key trait for a good programmer. I can't count how many times I just sit and think about how to do something before writing code for a few hours and it's done. Some people like to hack away until they understand both the concept as well as the code that needs to be thrown down.
 
@@ -311,7 +311,7 @@ Her knowledge of spacial entities such as git and how files talk to each other h
 
 She likes to talk a lot but that's not a bad thing. Accidental rubber ducking will get you far.
 
-I say keep at it. If the current pace at which you are picking things up maintains, you will be in a good place.
+I say keep at it. If the current pace at which you are picking things up maintains, you will be in a good place."
 
 
 ### Playing a Part
