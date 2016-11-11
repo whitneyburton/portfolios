@@ -93,15 +93,13 @@ __Resilience__ I welcomed the conversation about resilience. Knowing how to pers
 ### Professional Development Workshops
 #### Flower Exercise with Allison
 
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://docs.google.com/document/d/19Y7Yl5MxgYM1sgWCUkcvYvaptS98niLLF3md-aH6q5w/edit?usp=sharing)
 
-(takeaways from session)
 
 #### Job Search Session with Meg and Lia
 
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://docs.google.com/document/d/17M_Ax0AXX_3txwJxtjP9JaSHsEMwALS53uyXKME5r3M/edit?usp=sharing)
 
-(takeaways from session)
 
 ---
 
