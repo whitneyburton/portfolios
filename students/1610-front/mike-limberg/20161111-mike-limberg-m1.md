@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Ultimately I set out to ensure I had a level of understanding sufficient enough to complete Mod 1. It's safe to say that the expectations I had for myself during mod 1 were not nearly high enough. After going through mod 1, I have a better understanding of the bar I need to set for myself moving forward. I am thoroughly impressed with the Turing process and am still surprised at how much I (and our entire cohort) have accomplished. 
 
 ## Rubric Scores
 
