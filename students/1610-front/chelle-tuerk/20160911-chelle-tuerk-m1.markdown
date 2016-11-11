@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My goals for module 1 include establishing a solid foundation in which to build upon.  I have set out to fully understand the concepts of Javascript and create an environment for myself that promotes success in all areas.  I have been reassured in learning that I, in fact, have found a fervor for programming.
+My goals for module 1 include establishing a solid foundation in which to build upon. I have set out to fully understand the concepts of Javascript and create an environment for myself that promotes success in all areas. I have been reassured in learning that I, in fact, have found a fervor for programming.
 
 ## Rubric Scores
 
