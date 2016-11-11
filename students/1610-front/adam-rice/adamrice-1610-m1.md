@@ -43,12 +43,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 #### Super-Fizz-Buzz
 * [View on github.](https://github.com/adam-rice/Superfizzbuzz)
 
-A homework assignment exploring javascript.
+A homework assignment exploring Javascript.
 
 #### Mythical Creatures
 * [View on github.](https://github.com/adam-rice/Mythical-Creatures)
 
-A homework assignment exploring javascript and testing.
+A homework assignment exploring Javascript and testing.
 
 #### Personal Site
 * [View on github.](https://github.com/adam-rice/Personal-Site)
@@ -138,44 +138,73 @@ Feedback from Chaz: Adam and I worked together on "Idea Box" , which introduced 
 
 Frogger in Javascript! This game was built by Jon Willemain and Adam Rice as a pair project in Module 1 at the Turing School.
 
-(evaluation comments)
+#### Evaluator: Bree
+#### Functional Expectations
+* 3: Application is fully playable without crashes or bugs.
 
-(evaluation scores)
+#### Fundamental JavaScript Style
+* 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-(feedback to me)
+#### Workflow
+* 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
+#### User Interface
+* 3: The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+#### Testing
+* 3: Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+
+#### Code Sanitation
+* 4: Zero complaints. 
+
+Feedback from Jon: Adam was a great partner and a gracious host when we were working on our Game Time project over the weekend. I am glad I was paired with him. He helped me understand many of the strange canvas issues we incountered.
+
 
 ## D: Professional Skills
-(Intro)
+I was able to work on my professional skills over the last six weeks and focused on adaptability and problem-solving. The projects during mod one are challenging I put my energy towards staying positive, resilient, and patient. In regards to problem-solving I took time each morning to do warm-ups and practiced writing small applications so that I could be more comfortable pairing while writing code. 
 
 ### Gear Up
-#### (Session Name)
 
-* [GitHub URL]()
+#### Vote Your Conscience
 
-(takeaways from session)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
+I enjoyed discussing the reason that each member of a cummunity needs to participate in the community. When members do not contribute to the community it starts to crumble. We also talked about how many citizens in other countries envy our right to vote.
+
+#### Introversion and Extroversion on Teams
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+This topic surprised me and I was excited to watch the video because I am mostly introverted. I agreed with many of the elements of Susan's TED Talk and realized just how many office norms are built for extroverts. Now that Susan helped me realize just how bias the system has become I hope to find ways to improve the situation for myself and fellow introverts in the future when I start my career.
+
+#### Resilience
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+
+For me this was the best gear up session of the mod. The group I was assigned was diverse which made the conversation very interesting. I learned the most from a group member who is attending Turing while also raising two kids. I felt inspired by this individual and honored to be a collegue of theirs. 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### iOS Session with Erika Carlson from Detroit Labs
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
+I learned a lot at the workshop led by Erika. We spent the first four hours reviewing basic javascript terms and practiced writing a few basic functions. Next, we began writing our first application using Swift. It was exciting to build a simple app for a mobile iOS device using xCode and Swift. Writing code in a different language actually helped me feel more comfortable writing in vanilla javascript. The second day we built three more apps that were each slightly more complex.
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+To Jon Willemain: During the Game Time project I was paired with Jon and was very excited when I learned this. Jon and I were already friends before pairing. Jon is a smart guy and willing to work hard on problems that arise. I feel that Jon could be better at talking through a problem when pairing, as often we would be looking at code trying to resolve a problem and Jon would be very silent. Also, there was a day that Jon and I were scheduled to meet and Jon failed to show up on time, did not answer my calls, then called me two hours later and claimed he had fallen asleep. Jon perhaps could have thought ahead in this situation and set an alarm.  Jon is good at staying relaxed in stressful and trying situations.
+
+To Kenia Farias: Kenia was willing to collaborate, work hard, and also take breaks. I enjoyed working with Kenia. Kenia could be even more aggressive and take charge on a specific element, whether it be css or a challenging javascript function. Kenia is positive and does not get stressed in trying situations.
+
+To Chaz: During IdeaBox I was excited to be paired with Chaz as we had both had already completed IdeaBox once before. Chaz is a hard worker and was not afraid to trust me and break up some of the duties as we only had three days to complete the project. Chaz is also good at explaining how he resolved an issue as he worked out many of the CSS issues and minor js bugs we were experiencing on the final day. I feel that Chaz would benefit from increasing his pace when coding and writing faster. 
 
 ### Being a Community Member
 
-(feedback to me)
+From Mike Zicarrdi: I never had a chance to work with Adam on a project, but he was always available to help whenever I had a question or just wanted to chat. I look forward to working with Adam in the future.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Over the past six weeks I strived to be a leader in the 1610 cohort and participate in Turing wide functions. I enjoyed attending the Glow at the Gardens meetup held at the Denver botanical gardens by SAB as well as some other none Turing sanctioned events put on by Turing students. Alison held a discussion for the students that completed the Strengths Finder questionare that I was able to attend. In order to set a good example for the 1610 cohort I would typically arrive well before 9a and be solving a CodeWars problem to warm-up. I also was surprised by how many classmates came to me with questions on each project. I enjoyed giving them suggestions but not just providing the answer with no context. Because I was builing my Frogger game on one of the large TVs in the main classroom over the last week I feel that many others making the same game saw the extra elements Jon and I were adding to the game and pushed themselves to also add these extra elements.  
 
 ------------------
 
