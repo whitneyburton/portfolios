@@ -108,8 +108,7 @@ I liked the idea of this gearup but didn't appreciate the approach.  It mostly f
 ##### Flower Exercise
 * Flower exercise is included in this PR as a PDF.
 
-##### Alumni Portfolio
-* Never received invite link, working on getting this from Lia
+[Alumni Portfolio](https://www.turing.io/alumni/jeff-duke)
 
 #### Job Search Strategy
 
