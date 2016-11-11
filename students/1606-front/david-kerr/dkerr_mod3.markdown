@@ -39,7 +39,7 @@ Made a react/react-router/redux application accessing the open weather API and t
 * Workflow: make sure to use WIP and add description
 * Workflow: use assign portion of GitHub
 
-####Thoughts
+#### Thoughts
 I was very frustrated after spending several days unable to map anything into components.  I should have put up a pull request early, but didn't know if the issue was due to my lack of understanding of redux or that package itself.  By the end, I felt comfortable with redux just because I had struggled in futility for 3 days.
 
 From Madison -
@@ -61,7 +61,7 @@ We closed 9 issues which represent incremental feature additions.  We had 3 pend
 
 From Jeff - David, it was awesome working with you on our Ember project.  It was one my favorite projects so far, both because of the project structure and also how we worked together.  I thought we did an awesome job of popping back and forth to make commits and solve problems while still working together to resolve user issues and get the code pushed up.  I thought we did a great job of pairing and dividing/conquering.  I don't really have any constructive feedback, I thought we both did a good job and the project ran really smoothly.  Look forward to working with you again.
 
-####Thoughts
+#### Thoughts
 The workflow on this project was awesome.  I still do not feel comfortable with gitHub entirely, but gained an appreciation for why honing those skills is so important.  I would have liked to see this continue for another day or two, but everyone was clamouring to start personal projects.
 
 #### (Selc Directed Project) Twitter User Analytics
@@ -69,10 +69,10 @@ The workflow on this project was awesome.  I still do not feel comfortable with 
 * [GitHub URL](https://github.com/kerrd89/social-feed)
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
-Made an application which accesses the twitter API to do analytics on a given users use of twitter.  It has an express server running to meet CORS requirements and properly attach authentication headers to API calls.  Inside the application, I used react and react router and chartjs to create charts for those calculated data points.  The app updates with a new username and has minor UI peices to make those transitions smoother.
+Made an application which accesses the twitter API to do analytics on a given users use of twitter.  It has an express server running to meet CORS requirements and properly attach authentication headers to API calls.  Inside the application, I used react and react router and chartjs to create charts for those calculated data points.  The app updates with a new username and has minor UI pieces to make those transitions smoother.
 
 ####Thoughts
-Personally, I am not entirely pleased with how I finished this project.  There are some rough patches (like hashes in the url, improper routes) which I would like to iron out.  I would also like to push this to a herokuapp so anyone can use the app.  I intend to revisit this project with other APIs as well.
+Personally, I am not entirely pleased with how I finished this project.  There are some rough patches (like hashes in the url, improper routes) which I would like to iron out.  I would also like to push this to a Heroku app so anyone can use the app.  I intend to revisit this project with other APIs as well.
 
 ## Community
 
@@ -88,13 +88,19 @@ To Jeff: Jeff, this project went smooth as silk.  On top of your obvious talents
 
 ### Being a Community Member
 
-*[Google Doc with DTR]https://docs.google.com/document/d/1daHvWHTYKsM3s49Ont0Vp0e6-cz6dkrTEl3SAMsw8o8/edit?usp=sharing
+* [Google Doc with DTR](https://docs.google.com/document/d/1daHvWHTYKsM3s49Ont0Vp0e6-cz6dkrTEl3SAMsw8o8/edit?usp=sharing)
 
-#[Google Doc with ]https://drive.google.com/open?id=0BwpG4U2MbpRNbjBUUkczeVRJMWc
+* [Google Doc with Gear-Up Flower-Trait PDF](https://drive.google.com/open?id=0BwpG4U2MbpRNbjBUUkczeVRJMWc)
+
+#### Gear-Up Reflections
+
+Resilience - I didn't find this gearUp frustrating because resilience is a prerequisite to getting this far in Turing.  The one positive I took away is the point that what matters about a situation is how our brain records that experience, because those experiences are information our brain uses to make future decisions
+
+Introvert vs. Extrovert - I really dislike these binary categorizations when it comes to something as complicated as people.  That being said, I feel we had a good conversation about whether or not Turing was being inclusive to each of these personality types.  Doing this Gear-Up within our group led to some pretty great conversations.
 
 ### Playing a Part
 
-I continue to be active in our community as someone who helps others with issues.  While my formal participation has dropped (didn't run any posses or friday spike sessions), I attended every gear-Up (except for the an excuses absense for a flight to seattle) and participate openly and enthusiatically in those events.  Additionally, I started tutoring a woman Kris met at Girl Developer It 5 hours a week to help her learn javascript.
+I continue to be active in our community as someone who helps others with issues.  While my formal participation has dropped (didn't run any posses or Friday spike sessions), I attended every gear-Up (except for the an excuses absence for a flight to Seattle) and participate openly and enthusiastically in those events.  Additionally, I started tutoring a woman Kris met at Girl Developer It 5 hours a week to help her learn javascript.
 
 ## Review
 
@@ -109,5 +115,3 @@ I continue to be active in our community as someone who helps others with issues
 ### Notes
 
 ### Outcome
-
-PASS
