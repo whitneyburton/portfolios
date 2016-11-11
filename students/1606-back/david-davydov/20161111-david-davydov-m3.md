@@ -218,6 +218,88 @@ When I first read the title of this GearUp, I was happy to feel that perhaps the
 I was told in a private conversation early in Mod 1 that there could be a thin line here at Turing: resilience can be built very quickly in a short span of time but falling off can really mess someone up. I learned that resilience is built when a person has no choice to fall off and must keep going, despite tremendous physical and emotional difficulties. I have developed resilience due to the personal experiences I’ve had while attending Turing that will keep me a stronger person, programmer, and team member for the rest of my professional life.
 
 
+## Professional Development Workshops
+#### [The Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
+
+**Petal #1: Favorite Knowledges And/Or Fields of Interest**
+
+* Creating interactive experiences
+* Customizing user experiences with physical things
+* Home Automation
+* VR and Cryptocurrency technologies and uses
+* Machine Learning, Road-Tripping, Backpacking
+
+**Petal #2: Preferred Kinds of People to Work With**
+
+* Employer whose vision is shared by the team
+* Coworkers who enjoy where they work
+* People who are willing to try new things
+* Open, creative, collaborative, and respectful
+
+**Petal #3: Transferable Skills**
+
+* Have worked in Home Automation Programming (Crestron * Control4 systems)
+* Python knowledge gained in MITx courses
+* Bachelor's in Accounting and four years of bookkeeping / office admin experience
+* Quick to learn new things
+
+**Petal #4: Preferred Working Conditions**
+
+* Some privacy in terms of workspace
+* Some degree of autonomy in terms of work delivery
+* Respect and trust, collaboration, feeling like part of a team
+
+**Petal #5: Salary & Level of Responsibility**
+
+* $65,000 - $85,000 to start
+
+**Petal #6: Preferred place to live**
+
+* My top pick would be in or around Fort Collins
+* Denver, Boulder, Longmont
+* Anywhere in Colorado
+* Salt Lake City
+* Open to new locations
+
+**Petal #7: Goal/Purpose/Mission in life**
+
+* I want to create user experiences that are engaging and enriching. I want to build something that spreads through word-of-mouth because people want to use it with their friends and family. I don't yet know what that thing is, but I know with the technology and open information available on the web, possibilities in this area are limitless. My mission is to educate myself with these technologies to the extent that I can not only put any vision I have to reality, but to be of service to people that are currently doing incredible things.
+
+
+#### [Job Search Strategies](https://github.com/turingschool/professional_skills/blob/master/module_three/job_search_strategies.md)
+
+This session was overwhelming to be faced with. Specifically, it was overwhelming to realize that there was a lot of work in finding a job, never-mind the right job for me. We have a lot on our plates throughout the module at Turing, and learning that we have to spend X minutes a day, X times a week on outreach / networking was only stressing me out to hear about. However, I know that anything worth having is worth working for. My strategy is to flesh out my resume and linkedin profiles, reach out to connections I've made and make new connections over the two-week break. During Mod 4 my strategy is to use lunches more for meeting and networking with potential leads. I plan to take at least one evening chunk of time a week to reach out to contacts, the information of which I will gather over the course of the week.
+
+#### [Innovative Problem Solving](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
+
+
+**Pitch**
+
+I want to build a Rails app that utilizes ActionCable to host lobbies / rooms where users can play games with cards, the cards being giphy gifs. The idea is a cards against humanity clone with the “white cards” being a deck of randomly assigned giphy gifs. Players would go around the table being the “judge”, and the other players would submit white cards against the played ‘black card’, and the winner would be the person the table voted for.
+
+**Problem**
+
+I’m trying to solve the problem of there not being enough fun or interesting multiplayer games online that involve user-generated web content. Using already existing gifs to make a multiplayer game sounds like a fun challenge for me at this time.
+
+**Solution**
+
+By implementing a multiplayer lobby / room system, I plan to make an easy and fun to use website where anyone can come play a quick round with strangers. I plan to add features and different types of games involving giphys after finishing the MVP. Examples are a solitaire memory matching game using giphys.
+
+**Target Audience**
+
+Anyone open to playing multiplayer games and having a fun time using giphys as playing cards.
+
+**Which APIs will you use?**
+
+Giphy API, Reddit API (data for black cards)
+
+**Which OAuth integration are you planning to use?**
+
+Slack (for turing-only rooms)
+
+
+
+
 ## Community
 
 ### Feedback from Team Members
