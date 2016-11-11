@@ -15,7 +15,7 @@ For this module I set out to broaden my skills and knowledge of different framew
 
 ## A: End of Module Assessment
 
-No rubric for this, the assessment went well and I passed, I will demo the project at the Turing Demo night.
+All 3's
 
 
 ## B: Individual Work & Projects
@@ -59,7 +59,7 @@ Build a reminder app using Ember based on open issues and user stories.  A user 
 
 Merged PRs for 9-10 user stories.  Feedback was generally good from the instructors.  We had to burn down our code in a couple spots and rebuild it in a better way to make things easier on ourselves in the future.  Overall this was one of my favorite projects so far.  I really liked working in Ember and I really enjoyed the user-story/PR workflow process.  It gave us a glimpse as to what it will be like to use Github workflow in the real world.  
 
-No feedback received from my partner yet.
+Jeff, this project went smooth as silk.  On top of your obvious talents as a programmer, you are incredibly patient, a great listener, and very good at explaining what you are thinking.  That makes working with you delightful.  No constructive feedback for you either!  I would love to work with you again in the future.
 
 #### React/Redux Weather App
 
