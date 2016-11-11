@@ -13,11 +13,11 @@ I am grateful of my early shift in focus.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 
 -----------------------
@@ -334,4 +334,4 @@ type of social structure and interaction would be very unlikely. I want to give 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Provisional
