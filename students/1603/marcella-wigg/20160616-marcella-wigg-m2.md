@@ -21,11 +21,11 @@ In this module, I wanted to build on the tools I'd learned in the previous modul
 
 Category | Score
 --- | ---
-Analytic/Algorithmic Thinking | 4
+Analytic/Algorithmic Thinking | 3
 Ruby Syntax & Standard Library | 3
-Rails & Syntax and API | 4
-MVC & Rails Style | 4
-Testing | 3.5
+Rails & Syntax and API | 3
+MVC & Rails Style | 3
+Testing | 4
 Collaboration | 4
 
 ### Mid-Module Assessment
