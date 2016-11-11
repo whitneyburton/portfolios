@@ -4,7 +4,7 @@
 ### Areas of Emphasis
 I'd like to continue to become a well-rounded FE developer. This module I definitely got a better at understanding and writing tests. Working with Ben on the Pomodoro app helped a ton. Additionally, I wanted to push my logic skills & focused on completing CodeWars challenges outside of class. I felt I drove a lot this module & proved I can take concepts & implement the functionality.
 
-### End of Module Assessment
+### Game Time
 
 Progression: 3
 Workflow: 4
@@ -116,8 +116,7 @@ I really enjoyed pairing with mod 1 this time around. It's great to work through
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
