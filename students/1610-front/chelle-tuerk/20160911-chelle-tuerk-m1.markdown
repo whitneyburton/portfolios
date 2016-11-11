@@ -28,8 +28,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 #### Number Guesser
 
 * [Number Guesser](https://chelletuerk.github.io/number_guesser)
-* <a href="https://github.com/chelletuerk/number_guesser">Code Base</a>
-* <a href="http://frontend.turing.io/projects/number-guesser.html">Original Assignment</a>
+* [Code Base](https://github.com/chelletuerk/number_guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
