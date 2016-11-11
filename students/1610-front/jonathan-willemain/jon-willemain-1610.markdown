@@ -228,4 +228,4 @@ Once I graduate from Turing, I plan to reach out to local clubs with the intent 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+REPEAT
