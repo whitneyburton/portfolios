@@ -283,7 +283,7 @@ Yoseph & Garrett
 
 ### Being a Community Member
 
->Yoseph is an amazing person.  He was very patient while teaching some of the concepts prior to the mid-module assessment. He spent 2 hours working through things with me and he also made sure I understood what I was doing.  He quizzed me and and asked me to explain the program we hd written until I could do it backwards.  it was irritating at the time but looking back I understand what is going on much better because of that.  Yoseph has a fantastic attitude when it comes to Turing and I suspect that he will go far not only here but also after Mod 4.  - Ben Pepper 
+>Yoseph is an amazing person.  He was very patient while teaching some of the concepts prior to the mid-module assessment. He spent 2 hours working through things with me and he also made sure I understood what I was doing.  He quizzed me and and asked me to explain the program we hd written until I could do it backwards.  it was irritating at the time but looking back I understand what is going on much better because of that.  Yoseph has a fantastic attitude when it comes to Turing and I suspect that he will go far not only here but also after Mod 4.  - Ben Pepper
 
 ### **_Playing a Part_**
 
@@ -301,11 +301,11 @@ Yoseph & Garrett
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
