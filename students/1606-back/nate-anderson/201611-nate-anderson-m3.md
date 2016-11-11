@@ -163,9 +163,9 @@ Technical Quality
 
 **Feedback to Me:**
 
-It was great to work with Nate. He solved some tough active record challenges that made the project move much quicker than 
-it otherwise would have. It was also good to be able to vent frustrations as the stress of the project increased and know 
-that Nate was always there to listen, support and keep everything productive and professional. I'm looking forward to the 
+It was great to work with Nate. He solved some tough active record challenges that made the project move much quicker than
+it otherwise would have. It was also good to be able to vent frustrations as the stress of the project increased and know
+that Nate was always there to listen, support and keep everything productive and professional. I'm looking forward to the
 next time I get to work with Nate.
 
 #### Cloney Island
@@ -230,30 +230,30 @@ Did the team push themselves by taking risks?
 
 
 **Feedback to Me:**
-Nate, it was a fun experience to pair with you on this project. You were always on top of the ball in our pairing 
-sessions and because of this were were able to get a lot done quickly. In particular, pairing with you on dogfeeding 
-our own API into our site involved a lot of new challenges that were overcome without too much of a struggle due to 
-our putting our brains together. On an area of growth, I would ask you always consider how you can help your team improve 
-the project and be open to suggesting your ideas. You were a valuable member of our team, and I at one point felt that 
+Nate, it was a fun experience to pair with you on this project. You were always on top of the ball in our pairing
+sessions and because of this were were able to get a lot done quickly. In particular, pairing with you on dogfeeding
+our own API into our site involved a lot of new challenges that were overcome without too much of a struggle due to
+our putting our brains together. On an area of growth, I would ask you always consider how you can help your team improve
+the project and be open to suggesting your ideas. You were a valuable member of our team, and I at one point felt that
 maybe you were not challenged as much as you could have been. If this is ever the case, seek out ways to challenge
-yourself and bring those ideas to the team. Overall, you were a strong team member and your calm, level-headed style 
-to the project ensured things never got too stressful. I enjoyed pairing with you, and I wish you well in your future 
+yourself and bring those ideas to the team. Overall, you were a strong team member and your calm, level-headed style
+to the project ensured things never got too stressful. I enjoyed pairing with you, and I wish you well in your future
 groups.
 
-For me is a pleasure and an honor to work with Nate. Seeing how much he has evolved throughout the past modules is just 
+For me is a pleasure and an honor to work with Nate. Seeing how much he has evolved throughout the past modules is just
 amazing. Nate is easy-going, super communicative, and I have nothing but positive things to say about him.
-My only feedback to Nate on the constructive side of things, open up more about your thoughts and ideas, you have so 
+My only feedback to Nate on the constructive side of things, open up more about your thoughts and ideas, you have so
 much to offer and sometimes i feel like you don't speak enough about your great ideas.
 I am super proud of you, and stoked to have worked in our first project together.
 
-This was my first time working with Nate since being at Turing, and while we only paired on a small section of the code, 
-I enjoyed working with him. Nate is easy-going and open to suggestions when writing code, which makes for a relaxed pairing 
-environment. He regularly complimented other members of the group which was very encouraging and appreciated. Nate did a 
-good job of checking in when the group was split into pairs (David and Nate, Rapha and myself), he would regularly check 
-in with us and update us on their progress and sought to understand what we were working on as well. While Nate was very 
-easy to work with, I would challenge him to assert himself into a “lead” role more often, when we paired I did most of the 
-driving, and i noticed that this was the case with other team members as well. Navigating is an important skill to have, 
-but assuming the Driving role is important to solidifying skills, and further advancing as a developer in general. Overall 
+This was my first time working with Nate since being at Turing, and while we only paired on a small section of the code,
+I enjoyed working with him. Nate is easy-going and open to suggestions when writing code, which makes for a relaxed pairing
+environment. He regularly complimented other members of the group which was very encouraging and appreciated. Nate did a
+good job of checking in when the group was split into pairs (David and Nate, Rapha and myself), he would regularly check
+in with us and update us on their progress and sought to understand what we were working on as well. While Nate was very
+easy to work with, I would challenge him to assert himself into a “lead” role more often, when we paired I did most of the
+driving, and i noticed that this was the case with other team members as well. Navigating is an important skill to have,
+but assuming the Driving role is important to solidifying skills, and further advancing as a developer in general. Overall
 I genuinely enjoyed working with Nate and his laid-back and friendly demeanor.
 
 ## D: Professional Skills
@@ -305,24 +305,24 @@ It was great to finally get a chance to work with you. I feel like we both have 
 flowed very smoothly because of that. I really appreciate your work ethic and your desire to go through the process thoroughly
 in terms of testing and debugging. This really helped me to be more disciplined in this area. The only thing I would suggest
 is to try and take some time to destress and breath, at times it seemed you were very worried about completion. But the drive
-obviously paid off as 4's across the board was a great way to end the project. 
+obviously paid off as 4's across the board was a great way to end the project.
 
-You did a fantastic job as team lead and really pushed us to keep on track throughout the project. Your work ethic is 
-second to none and I really appreciate your incremental approach of walking through the code step by step to debug 
-anything that came up. The only thing I would suggest is to try and relax a little more during a long project. You 
-seemed a little stressed out in the beginning and I would say allow yourself to take a break here and there. But other 
+You did a fantastic job as team lead and really pushed us to keep on track throughout the project. Your work ethic is
+second to none and I really appreciate your incremental approach of walking through the code step by step to debug
+anything that came up. The only thing I would suggest is to try and relax a little more during a long project. You
+seemed a little stressed out in the beginning and I would say allow yourself to take a break here and there. But other
 than that, I have nothing to suggest and it was an absolute pleasure working with you on the project.
 
-Happy to have finally had a chance to work with you on a group project. You are a fantastic developer and always keep 
-things light while we are working. I think we were very productive as a pair and the bonus was I felt we were laughing 
-and joking throughout the entire time which made it feel less like work. The only thing I would suggest is when people 
-have ideas or suggestions in a full group setting to maybe take a little more time to digest what they say before offering 
-an alternative. But you have very good ideas so I understand wanting to express them. Other than that I have no other 
+Happy to have finally had a chance to work with you on a group project. You are a fantastic developer and always keep
+things light while we are working. I think we were very productive as a pair and the bonus was I felt we were laughing
+and joking throughout the entire time which made it feel less like work. The only thing I would suggest is when people
+have ideas or suggestions in a full group setting to maybe take a little more time to digest what they say before offering
+an alternative. But you have very good ideas so I understand wanting to express them. Other than that I have no other
 suggestions and I would be excited to work with you again. Great job buddy.
 
-I really enjoyed finally getting a chance to work with you on a project. Our pairing time was very productive, but also 
-light and fun which made everything much easier. Your work with the css was amazing and it was really fun watching our 
-site come to life like that. Your dedication to getting every aspect exactly right was great to watch. I have tried to 
+I really enjoyed finally getting a chance to work with you on a project. Our pairing time was very productive, but also
+light and fun which made everything much easier. Your work with the css was amazing and it was really fun watching our
+site come to life like that. Your dedication to getting every aspect exactly right was great to watch. I have tried to
 rack my brain to come up with a criticism to no avail. Your work ethic is great and it was a pleasure working with you.
 
 ### Being a Community Member
@@ -341,7 +341,11 @@ Regularly provided assistance to peers, joined prework guides to provide assista
 
 ### Notes
 
-
+* **A: End-of-Module Assessment**: 2.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3.5
+* **E: Feedback & Community Participation**: 3.5
 
 ### Outcome
 
