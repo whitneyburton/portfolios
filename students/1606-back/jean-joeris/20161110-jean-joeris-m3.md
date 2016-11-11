@@ -209,9 +209,10 @@ The goal of the project was to build a neural net to analysis previous football 
 
 * **3: Project pages load on average under 400 milliseconds.**
 
+#### From Brian:
+This was my first time working with Jean and it was one of the best, if not the best project experiences I have had at Turing. We built a neural net from scratch in two weeks, which is a very difficult task. However, through productive pairing and a lot of math, we came out very successfully. Jean is, in my opinion, the strongest programmer in our cohort. Not only does he have very solid hard skills and a thorough understanding of Ruby, Rails and Object Oriented techniques, he has incredible git workflow and a demeanor that is pleasant to work with. Jean would consistently seek collaboration before implementing a feature. He would regularly ask things like “What do you think about this?”, and “Would you say that this is a valid approach?” before moving forward. He is a hard worker and was dedicated to the project. The only constructive advice that I could think of for Jean is to be careful about taking on too many responsibilities at once. Jean volunteered to give a speech at a Meetup during the final week of the Mod, which he fully disclosed to me early on, and we planned and accounted for. This did not impact the project in any negative way, but I could tell that it was an added stressor during a very stressful week to begin with. Overall, I truly enjoyed working with Jean, and look forward to working with him again.
 
 ## D: Professional Skills
-(Intro)
 
 ### Personal Project pitch
 ### Mind on The Ball
@@ -262,24 +263,30 @@ Mind on The Ball is an application that presents predictions based on historical
   * This session was very interesting for me. While I can be outspoken, I identify as a introvert. At the end of the day, I find it draining to be around groups of people and most rewarding to be around 0-3 people. I enjoyed sharing this experience and hearing it echoed by my cohort-mates. I would love to see more gear up sessions where we focused on our cohort. I loved the loved getting to know those I spend the most time with better.
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Flower Exercise
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
+* [Link to Completed Deliverables](https://slack-files.com/T029P2S9M-F31HPPUPN-1099a6777e)
 
-(takeaways from session)
+This was an interesting excersize. By forcing me to consider what I value in a number of areas it helped me envision what sorts of jobs I would be happiest at. I plan to come back to this to anchor me in the job search
 
 #### Job Search Strategy
 
 * No gist for workshop
 
+* Saturday
+  * Update resume
+* Sunday
+  * Update Linkdin
+* Monday
+  * Edit resume
 * Daily
   * spend 15-30 min. each day identifying people to reach out
   * make sure I am in contact with mentors/support network
 * Weekly
   * Reach out to people I have identified and follow up with previous contacts
 * Monthly
-  * Work on growing my technical skill in some direction. Examples - dotNet, c#, haskell, dev ops
+  * Work on growing my technical skill in some direction. Examples - dotNet/c#, haskell, dev ops
 
 ## E: Feedback and Community Participation
 
@@ -293,6 +300,9 @@ You did a great job advocating for your needs in the group and keeping us update
 
 #### To Brendan:
 You did a great job contributing well factored semantic code. I know you are an introvert and that is good. When you speak it carries more weight because of it. However, there were a few times when we were doing remote work where I didn't know what the status of your work was. It would have been nice if you had given an update, even if it was just saying you were still working.
+
+#### To Brian:
+You are an awesome person to work with. Your cool, level-headed attitude helped us stay on track through a very challenging project. Your math skills on stronger than it seems like you believe they are. I would encourage you to have faith in them, you did an excellent job handling some gnarly multi-variable calc. I am hugely appreciative of you being willing to wrap things up Wednesday and allowing me to speak at Boulder Ruby.
 
 
 ### Being a Community Member
