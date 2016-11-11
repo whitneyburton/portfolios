@@ -8,7 +8,7 @@ When I first started at Turing my goal was to familiarize myself with Ruby and g
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
@@ -248,8 +248,8 @@ I tried my best to support Turing's mission by attending events and making sure 
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PROMOTED
