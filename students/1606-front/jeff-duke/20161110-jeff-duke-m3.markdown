@@ -196,6 +196,7 @@ MaryJane, I really enjoyed working with you and Pete on the Weather app project.
 * Paired with 1608 students as requested in the pairing channel.
 * Helped Brett host a Friday Spike session on codewars for new students.
 * Hosted a Friday Spike session on building circuits.
+* TA'd for a Try Turing weekend
 
 ### Playing a Part
 
