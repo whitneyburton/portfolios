@@ -6,18 +6,15 @@ I set out to get better to advance my skills in react and start working and unde
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 4: Student achieved two or more "4"s on the assessment (Module 3 requires three or more "4"s).
-* **B: Individual Work & Projects**: 4: Student demonstrates excellent growth by not only achieving satisfactory evaluations for each project but also pushing their learning beyond expectations.
-* **C: Group Work & Projects**: 4: Student consistently helps their teammates be their best selves, learn at an accelerated pace, and achieve great results.
-* **D: Professional Skills**: 4: Student demonstrates dedication to their professional growth by not only completing the expected deliverable(s) but also pursuing additional opportunities for professional development beyond what is presented in sessions.
-* **E: Feedback & Community Participation**: 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback. They participate in required activities and does at least one or two above and beyond supports of the community.
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
-
-(Notes & scores from your assessment rubric)
-
 
 ### Individual Work & Projects
 #### Personal Project
@@ -96,7 +93,7 @@ I would often say that I struggle with resilience an it is something that you ne
 * [Flower Workshop](https://docs.google.com/document/d/1E6hY4dXb2ynzjE-dDMrx9Zd4JiYqSe-S0Ugo9S2-0V0/pub)
 * [Personal Development Plan ](https://docs.google.com/document/d/1avO9KzhUg6ACsgSNynd5pAmbLReloIOHO0Aa_qicPiE/edit?usp=sharing)
 
-(takeaways from session)
+I realized that location is a big factor for me and I am not too concerned with the company I first join as long as they are willing to support me.
 
 ## E: Feedback and Community Participation
 
