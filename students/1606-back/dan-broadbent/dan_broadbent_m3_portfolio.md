@@ -347,7 +347,11 @@ My biggest contribution this module was taking over the Bezos Posses with Madiso
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 ### Outcome
 

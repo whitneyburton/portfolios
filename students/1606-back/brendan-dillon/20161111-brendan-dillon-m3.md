@@ -54,7 +54,7 @@ The individual projects this module were the first time when I really did much p
 * [GitHub URL](https://github.com/brendandillon/tumbldr)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
 
-In this four-day project, I used Tumblr's API to access content from Tumblr and create posts. I hand-rolled an OAuth 1.0 handshake for authorizing the requests, which was an extremely educational and informative nightmare. Another big challenge in this project was figuring out how to post data. While I was only partially successful, I did learn quite a bit about different ways for data to be encoded in post request. 
+In this four-day project, I used Tumblr's API to access content from Tumblr and create posts. I hand-rolled an OAuth 1.0 handshake for authorizing the requests, which was an extremely educational and informative nightmare. Another big challenge in this project was figuring out how to post data. While I was only partially successful, I did learn quite a bit about different ways for data to be encoded in post request.
 
 This was an unscored project.
 
@@ -278,7 +278,11 @@ I led one lesson for Miyamoto posse in programming projectile movement. This pos
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 2.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
