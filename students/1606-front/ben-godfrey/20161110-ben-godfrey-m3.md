@@ -155,6 +155,7 @@ I was out of town for this Gear Up session.
 ---
 
 ## Review
+
 ### Rubric Scores
 
 - **A: End-of-Module Assessment**: 3
