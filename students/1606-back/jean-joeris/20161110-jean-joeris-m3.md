@@ -251,12 +251,15 @@ Mind on The Ball is an application that presents predictions based on historical
  * Github 
 
 ### Gear Up
-#### (Session Name)
 
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
+#### [Vote Your Conscience](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+  * I thought this was a very interesting session. I love history and am continually disappointed with my fellow citizen's understanding of what is expected of them in our political culture. I'm not sure how much difference this made to other students, but I was pleased to hear us talking about what citizens must do in a healthy democracy. P.S. - the electoral process is too depressing to think about right now.
+  
+#### [https://github.com/turingschool/gear-up/blob/master/resilience.markdown](Resilience)
+  * This was an excellent session. One of the articles described kids who were "at-risk" yet succeeded due to them realizing they were their own "locus of control". This describes my life from 3rd-7th grade very well. It was enlightening to hear someone put more academic terms around my own life. It also helped me realize that the least successful points in my life were ones where I let my resilience slip.
+  
+#### [Introversion](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+  * This session was very interesting for me. While I can be outspoken, I identify as a introvert. At the end of the day, I find it draining to be around groups of people and most rewarding to be around 0-3 people. I enjoyed sharing this experience and hearing it echoed by my cohort-mates. I would love to see more gear up sessions where we focused on our cohort. I loved the loved getting to know those I spend the most time with better.
 
 ### Professional Development Workshops
 #### (Session Name)
