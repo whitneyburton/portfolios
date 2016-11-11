@@ -1,8 +1,19 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Jean Joeris - M3 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goals for the mod were 3 fold
+
+1) Continue to lead Armstrong Posse and strengthen it
+   * I feel I succeeded at this goal. I received very positive feedback about multiple Friday Spike sessions (particularly Python mob programming and perceptron/artifical neuron). I believe it was strengthen because mod 1 and 2 students led a very succesful spike on the AlchemyAPI by themselves. The blog portion of Mind on The Ball will also strengthen Armstrong by serving as a lasting resource past my graduation.
+   
+2) Build a machine learning algorithm
+   * I wasn't sure if I would do this through Armstrong or the self-directed project. It ended up being a neural net built as the self-directed project. This was incredibly successful. While I feel I have just scratched the surface, Brian and I were able to impliment a working neural net in two weeks. This is made more impressive(?) due to the fact we built in Ruby, a subpar language for the type of algorithm we were building.
+   
+3) Lead LGBTuring
+   * I did not succeed in this goal. Between the intense workload of mod 3, and dealing with my wife's health problems I let this slip. This was also in part driven by the apparent lack of interest from the community, but in mod 4 I plan to redouble my efforts. This is extremely important to me, as I need to find a younger student to take the reigns of the group.
+   
+While I did not meet all of my goals, I am extremely proud of what I did this mod, and believe my code backs this up.
 
 ## Rubric Scores
 
@@ -163,7 +174,6 @@ Jean - It has been a pleasure working with you on this project. Thank you for st
 #### From Ryan:
 Jean is one of the most talented people I have ever run into in my professional life. His ability to grasp a concept and understand its function and the logic behind it is uncanny. Specific to this group, Jean stepped up during some difficult emotional hurdles and steered us back onto the path of success. While Jean's ability to grasp technical concepts is incredible, his knowledge can be overwhelming at times. I consider myself a rather confident programmer, and, for me, pairing with him became intimidating at times. Now, I'm not saying he is purposely flaunting his knowledge or intentionally drowning out other voices, I just think his excitement for the problem gets the best of him. My advice is to reign back and focus that excitement. There are times that his excitement is great in context, but the self-awareness for those times and places is not fully-developed. When Jean learns how to convert all of his positive energy towards the group, his skills will know no bounds.
 
-(Intro)
 
 ### Mind on The Ball (self-directed project)
 
@@ -277,7 +287,7 @@ This module I got to know Jean through joining the Armstrong posse and attending
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I feel I greatly contributed to the Turing community through leading Armstrong. Members of the posse were exposed to regression analysis, Python, artifical neurons and neural nets. Additionally, the Python mob programming spike exposed students to an interesting and fun group programming technique. I also spoke at Boulder Ruby and was very well received. I believe this betters the Turing community as it grows our reputation for technical excellence
 
 ------------------
 
