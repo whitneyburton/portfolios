@@ -59,6 +59,8 @@ A project requiring that I create a professional site about myself.
 
 ### Projects
 
+The following projects built on one-another with each new project adding a new level of difficulty. The elements explored in these projects include HTML, CSS, Javascript, jQuery, Local Storage, JSON, and the HTML canvas.
+
 ### Number Guesser
 
 * [View on github.](https://github.com/adam-rice/numberGuesser)
