@@ -103,8 +103,7 @@ Specification Adherence
 
 Functional Expectations
 
-* 2.5: will fix responsive and wrap up feature.
-Fundamental JavaScript Style
+* 3: Application shows strong effort towards organization, content, and refactoring.
 
 * 3: Application shows strong effort towards organization, content, and refactoring.
 Workflow
@@ -222,9 +221,13 @@ I adopt the philosophy of trauma as a growth opportunity.  There's a need to dis
 #### Personal Branding with Lia James 10-4-2016
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/tree/master/module_one)
-* [Link to Completed Deliverables]()
+* [Personal Branding Website](https://chelletuerk.github.io/profile/)
 
-(takeaways from session)
+Takeaways:
+
+* Reorganization of my resume to exhibit my experience and technical skills
+* Brand myself with a personal statement
+* Highlight transferable skills and how I provide value
 
 ## E: Feedback and Community Participation
 
@@ -253,6 +256,40 @@ Feedback for Gabi Procell:
 
 * "Gabi was exceptional in our pairing session.  I appreciate how patient you are and willing to spend time on a subject until I understood it fully.  I will certainly be pairing with Gabi in the future."
 
+Feedback for Chaz-Mykl Gormley:
+
+* Chaz, I appreciate the effort you put forth in making sure all concepts of the project were understood to the fullest.  It is
+commendable that you insist on knowing the in's and out's of every piece of code.  You set the tone for a work ethic necessary
+to produce high-quality results.  I would've liked more time spent face-to-face, however, the time we did have with each other
+was extremely productive.  You are an outstanding example of someone who takes pride in their work and it was a sincere
+pleasure to work with you.
+
+Feedback for Lauren Pesce:
+
+* Lauren, you were an absolute pleasure to partner with for the Linked List project.  I appreciate that you value the
+challenge it presented and the initiative taken in presenting a final product we could both be proud of.  Your dedication in
+taking time necessary to complete all phases of the project is commendable.  I feel we produced results through hard work and
+research that show a commitment to high-quality work.  I would very much like working with you in the future knowing that you
+hold a standard of excellence as your first priority.
+
+Feedback for Dan Grund:
+
+* Dan, you were very pleasant to work with on this project.  I value your patience in allowing me to digest the information
+and the time required for me to comprehend all aspects of the project.  Additionally, I appreciate that you recognize the
+importance in producing a quality product and not cutting any corners.  However, on a select few instances, it was difficult
+to communicate with you while you were wearing headphones.  Ultimately, the experiene was a vary valuable and enjoyable one
+and I'd be pleased to work with you in the future.
+
+Feedback for Noah Peden:
+
+* Noah was an exceptional example of the type of individual to be paired with on a project.  He puts in long hours, showing a
+true dedication to a final product we are both proud of.  Additionally, he takes programming very seriously and is determined
+in finding a solution, which was clearly illustrated by his devoted manner in which he attacks a complicated problem.  I look
+forward to working more with Noah and am grateful to have been partnered with him for the game-time project.
+
+Feedback for Dylan Avery:
+
+* "Dylan has a serious talent for understanding complicated code that most are unable to wrap their head around.  He experiments with ideas that are seemingly impossible, yet somehow finds a way to make them fully functional.  He’s a great asset to have in class and is approachable and patient when asked questions."  
 
 
 
@@ -260,11 +297,32 @@ Feedback for Gabi Procell:
 
 ### Being a Community Member
 
-(feedback to me)
+Feedback from Dylan Avery:
+
+* “Chelle is one of the most artistically gifted students in our cohort. She has a great eye for design, and had one of the best early iterations of a personal website. She is truly a joy to be around and has an infectious personality which can uplift the entire cohort at times.”
+
+Feedback from Regis Boudinot:
+
+* At first Chelle was a bit all over the place :joy: and trying to immediately understand absolutely everything that was going on. In the last two weeks however, she understands that coding is like eating an elephant. You gotta do it one bite at a time. No easy way around it.
+
+The velocity in which she throws idea into code now is impressive. She understands the concepts faster than what she needs to write. Which honestly is a key trait for a good programmer. I can't count how many times I just sit and think about how to do something before writing code for a few hours and it's done. Some people like to hack away until they understand both the concept as well as the code that needs to be thrown down.
+
+Her knowledge of spacial entities such as git and how files talk to each other has grown exponentially in the last few weeks as well.
+
+She likes to talk a lot but that's not a bad thing. Accidental rubber ducking will get you far.
+
+I say keep at it. If the current pace at which you are picking things up maintains, you will be in a good place.
+
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+* Attended meetups
+* Attended Student Demo Night
+* Attended every Friday Speaker
+* Socializing outside of Turing in and & out the 1610 cohort
+* Regular meetings with a mentor
+
+
 
 ------------------
 
