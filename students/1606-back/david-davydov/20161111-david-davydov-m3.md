@@ -13,7 +13,7 @@ The projects we handled in this module had us building and consuming APIs, using
 * [GitHub URL](https://github.com/kctrlv/redreader)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
-* This was the first project that allowed us to experiment consuming an API from a site to the extent of building a clone of it. I decided to build a basic reader of reddit, it uses OAuth and shows the user their current subreddit subscriptions, and allows them to view the links and comments of the top stories for each subreddit. There is also some POST functionality to upvote and downvote links.  
+* This was the first project that allowed us to experiment consuming an API from a site to the extent of building a clone of it. I decided to build a basic reader of reddit, it uses OAuth and shows the user their current subreddit subscriptions, and allows them to view the links and comments of the top stories for each subreddit. There is also some POST functionality to upvote and downvote links.
 
 
 ### Giphy Grudge - ActionCable Chat App
@@ -410,7 +410,11 @@ Other than that, I would love to work with him again.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Outcome
 
