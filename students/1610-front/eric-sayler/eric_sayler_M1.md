@@ -57,10 +57,8 @@ Personal Site
 
 #### Personal Site: First Draft
 
-* [GitHub URL](https://github.com/esayler/personal-site)
+* [Personal Site GitHub URL](https://github.com/esayler/personal-site)
 * [Original Assignment](http://frontend.turing.io/projects/personal-site-first-draft.html)
-
-Personal site and blog
 
 ## C: Group Work & Projects
 
@@ -70,8 +68,6 @@ Personal site and blog
 
 * [Linked List GitHub URL](https://github.com/esayler/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
-
-(description)
 
 ##### Scores Rubric
 
@@ -108,8 +104,6 @@ The output from JSHint shows…
 
 * [Linked List GitHub URL](https://github.com/esayler/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
-
-(description)
 
 ##### evaluation comments
 
@@ -290,7 +284,7 @@ granted. All in all, there were some tense moments of opinion but we had an effe
  * [personal_branding_p2.md]( https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p2.md)
 
 
- ## E: Feedback and Community Participation
+## E: Feedback and Community Participation
 
 ### Giving Feedback
 
@@ -307,7 +301,6 @@ I was impressed with Justin’s ability to iterate and test much of our game’s
  One thing we could improve on: I felt we were too focused on our own tasks; there could have been a little more balance throughout. Just a little gripe!  Anyway, from my point of view it seemed like you may have been resistant to pairing on JS, not sure if this is accurate or if you were hesitant/nervous because I might be more familiar with JS, but it seemed like you wanted to go off and do it on your own, which is fine, to each their own! Anyway, keep that in mind going forward, Turing really pushes pairing hard and so far I’ve been trying hard to get better at it myself, but its not a project deal-breaker by any means.
 
 
-
 ### Playing a Part
 
 As someone with a bit more programming experience than many of my peers, I've tried to be of much as a help as possible while still reserving significant time for my own learning.
@@ -317,6 +310,8 @@ _give away an answer_ but guide others towards coming up with an effective solut
 own, without thinking enough about other's learning and ability to understand what I'm doing. For this reason, I feel I've been hesitant to pair more and/or help other students out,
 since it's a significant challenge for me to simplify solutions, examples, and explanations into an easy-to-digest and rapidly understandable chunks. Explaining _why_ I am doing
 something in a particular way is also an area I'd like to improve on. Overall, I feel I have places to improve with it comes to community involvement and participation.
+
+
 ------------------
 
 ## Final Review
