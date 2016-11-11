@@ -66,7 +66,7 @@ Front-End Mod1 - Week1 Project .
 Very first front-end mod 1 project. Intro to html and css. Required to follow a tutorial on creating a single page website
 
 
-* [https://jwood11atx.github.io/dog-party/](Dog Party Link)
+* [Dog Party Link](https://jwood11atx.github.io/dog-party/)
 * [Original Assignment]()
 
 
@@ -92,8 +92,8 @@ Group projects done during the 1st Mod of Turing’s Front-End Program.
 #### Number Guesser
 
 
-*[https://jwood11atx.github.io/Number-Guesser/](Number Guesser)
-*[http://frontend.turing.io/projects/number-guesser.html](Number Guesser Project Sheet)
+*[Number Guesser](https://jwood11atx.github.io/Number-Guesser/)
+*[Number Guesser Project Sheet](http://frontend.turing.io/projects/number-guesser.html)
 
 
 Front-End Mod1 - Week2 Project - Team: Annastasia Psitos
@@ -128,8 +128,8 @@ Thank you for all the work you did on this project, especially all the JavaScrip
 #### Linked List
 
 
-*[https://jwood11atx.github.io/linked-list/](Linked List)
-*[http://frontend.turing.io/projects/linked-list.html](Linked List Project Sheet)
+*[Linked List](https://jwood11atx.github.io/linked-list/)
+*[Linked List Project Sheet](http://frontend.turing.io/projects/linked-list.html)
 
 
 Front-End Mod1 - Week3 Project - Team: Dan Grund
@@ -160,8 +160,8 @@ as well.
 ### Idea Box
 
 
-*[https://jwood11atx.github.io/idea-box/](Idea Box)
-*[http://frontend.turing.io/projects/ideabox.html](Idea Box Project Sheet)
+*[Idea Box](https://jwood11atx.github.io/idea-box/)
+*[Idea Box Project Sheet](http://frontend.turing.io/projects/ideabox.html)
 
 
 Front-End Mod 1 - Week4 Project - Team: Kenia Farias
@@ -230,9 +230,9 @@ really well together and I appreciate your patience.
 ### Game Time
 
 
-* [https://jwood11atx.github.io/CatDog](CatDog)
-* [http://frontend.turing.io/projects/game-time.html](Game Time Project Sheet)
-*[https://github.com/esayler/game-time/blob/cb05e68c730a69a85d6fd8a15378c25a57eb3560/Game-Time-Spec%20-%20Google%20Docs.pdf](Game Proposal Doc)
+* [CatDog](https://jwood11atx.github.io/CatDog)
+* [Game Time Project Sheet](http://frontend.turing.io/projects/game-time.html)
+*[Game Proposal Doc](https://github.com/esayler/game-time/blob/cb05e68c730a69a85d6fd8a15378c25a57eb3560/Game-Time-Spec%20-%20Google%20Docs.pdf)
 
 
 Front-End Mod 1 - Week5 Project - Team: Eric Sayler
@@ -260,7 +260,7 @@ Game Time is final project for Mod1 Front-End students. We are given a list of 1
 #### Resilience
 
 
-* [https://github.com/turingschool/gear-up/blob/master/resilience.markdown](Resilience)
+* [Resilience](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
 
 Mostly that resilience is a trait that can be learned and taught. There will always be cases where, because of genetics, people are on an extreme side of the spectrum. But overall, when an event happens, good or bad, it is how the individual person reacts to the event that determines if it is a tragedy or not. An event is an event, it isn’t innately tragic. It is just an event that has happened a million times before and will continue to happen. Being human is a double-edged sword in that we can overcome and withstand a lot of bad in our lives, but we also have the capability to make a small problem into something huge. It really just comes down to how you react to what has happened and if you shut down and succumb to depression and sadness or if you take things for what they are and move on.
