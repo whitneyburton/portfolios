@@ -42,7 +42,7 @@ Made a react/react-router/redux application accessing the open weather API and t
 #### Thoughts
 I was very frustrated after spending several days unable to map anything into components.  I should have put up a pull request early, but didn't know if the issue was due to my lack of understanding of redux or that package itself.  By the end, I felt comfortable with redux just because I had struggled in futility for 3 days.
 
-From Madison -
+From Madison - David, I really enjoyed working with you. I like how you work to break down and understand problems efficiently and effectively. I learned a lot from your thought process. It was awesome getting to bounce ideas off of you and work through code examples to better understand redux. Although I wish I could have contributed more, I felt that our group did a good job of dividing and conquering. In the end, was impressed by your ability to wrap your head, so quickly, around such a complicated subject matter like redux. I hope we get the chance to work together next module!
 
 From Blake - David, you were wonderful to work with on this project and were definitely helpful in terms of explaining difficult to understand concepts. I have truly learned a lot from you and appreciate the time you have given to teach. I don't have any glaring things to work on, all I would suggest is you continue to be patient and understanding like you are.
 
