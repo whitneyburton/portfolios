@@ -1,18 +1,18 @@
-# Chelle Tuerk - M1 Portfolio
+# (Your Name) - (M1/M2/M3/M4) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goals for module 1 include establishing a solid foundation in which to build upon.  I have set out to fully understand the concepts of Javascript and create an environment for myself that promotes success in all areas.  I have been reassured in learning that I, in fact, have found a fervor for programming.
 
 ## Rubric Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -25,10 +25,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 (Intro)
 
-#### (Project Name)
+#### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [Number Guesser](https://chelletuerk.github.io/number_guesser)
+* <a href="https://github.com/chelletuerk/number_guesser">Code Base</a>
+* <a href="http://frontend.turing.io/projects/number-guesser.html">Original Assignment</a>
 
 (description)
 
