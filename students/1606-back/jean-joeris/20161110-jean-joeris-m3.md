@@ -269,6 +269,18 @@ Mind on The Ball is an application that presents predictions based on historical
 
 (takeaways from session)
 
+#### Job Search Strategy
+
+* No gist for workshop
+
+* Daily
+  * spend 15-30 min. each day identifying people to reach out
+  * make sure I am in contact with mentors/support network
+* Weekly
+  * Reach out to people I have identified and follow up with previous contacts
+* Monthly
+  * Work on growing my technical skill in some direction. Examples - dotNet, c#, haskell, dev ops
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
