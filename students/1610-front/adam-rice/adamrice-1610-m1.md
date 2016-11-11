@@ -159,7 +159,7 @@ Frogger in Javascript! This game was built by Jon Willemain and Adam Rice as a p
 #### Code Sanitation
 * 4: Zero complaints. 
 
-Feedback from Jon: Adam was a great partner and a gracious host when we were working on our Game Time project over the weekend. I am glad I was paired with him. He helped me understand many of the strange canvas issues we incountered.
+Feedback from Jon: Adam, it was definitely a great time building "Frogging" with you . I really appreciate you stepping up when I was sick, and for hosting me so we could work on our project over the weekend. I was worried about being behind for missing those days, but you made sure I was understood all of the code that was written. I do not have any constructive criticism for you, you definitely helped me learn a lot on a project that had a lot of moving parts. I think it is a project we can be very proud of.
 
 
 ## D: Professional Skills
