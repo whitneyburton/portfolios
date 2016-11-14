@@ -76,16 +76,15 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 ### Module 2 (Front-end)
 
 * Individual Assessment: Passing Score (All 3's) required
-* Required Project: Final Project (Shoot The Breeze) -- Passing Score (All 3's) required
+* Required Project: ToDo Box Pivot, Shoot the Breeze, FireBae (Tier Two) -- scores should all be passing (All 3's) or show gradual improvement
 * Included Projects:
- * A Very Lonely Chat Room
- * Tier One Project
- * Tier Two Project
+ * Weatherly
 * Feedback: Self-Solicited and from Feedback App
+  * Required feedback from at least one student outside of your cohort who you have paired with (Mod 1 student, back end student) AND/OR a mentor.
 * Professional Skills:
   *  A recap of reflections from Gear Up
-  * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Cold email at least one of those five companies from the company tracker
+    * Link to a gist with notes is acceptable.
+  * Company tracker with five companies of interest identified
   * Two paragraph reflection on:
      1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
      2. How you incorporated feedback from your team members and what you learned about yourself in the process.
