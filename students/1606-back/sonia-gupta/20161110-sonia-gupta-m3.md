@@ -179,7 +179,7 @@ FitIn will be useful to many people. Future functionality will include suggestin
 
 #### Flower Exercise
 
-[Link](https://docs.google.com/document/d/1LsBNiGzhpOE9v5P7Cizvmp7extd9mrbejVMK8yMfQKs/edit?usp=sharing)
+[Link](https://drive.google.com/file/d/0B1V6TDRRNIGqMzh3RE96RklQQ0E/view?usp=sharing)
 
 #### Job Search Strategy
 
