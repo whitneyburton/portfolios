@@ -339,4 +339,4 @@ Caleb has a vast storehouse of knowledge of Ruby principles and is a superb teac
 
 ### Outcome
 
-Pending PD deliverables
+Graduate
