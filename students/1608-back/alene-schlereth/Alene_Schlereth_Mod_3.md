@@ -3,6 +3,9 @@
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
+Weekly job prep activities:  
+-Networking (meetups, coffees)  
+-Algorithm pracitce  
 
 ## Rubric Scores
 
