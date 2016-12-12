@@ -151,9 +151,37 @@ from a particular and narrow slice of experience.
 #### Collaborative Communication
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/collaborative_communication.md)
-* [Link to Completed Deliverables]()
 
-(takeaways from session)
+Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+How you incorporated feedback from your team members and what you learned about yourself in the process
+
+1. Project: Bike Share
+    * With the spec designed in a more agile structure to begin with (i.e., small iterations of completion building on top of each other),
+    our team stuck with this approach. To distribute tasks, we used a Waffle board and a Google Sheets task list, the latter ended up being more 
+    clear for us as a group. To facilitate regular communication, we closed each work session with a rose-bud-thorn reflection, where we each shared what 
+    we thought went well (rose), what we thought could be improved (thorn), and what we looked forward to (bud). Additionally, we developed a good culture of 
+    frequent check-in polls (e.g., "How's everybody feeling in terms of where we are at in the project right now?") at times of task change/transition.
+    We also used Slack to update each other on new developments while we worked remotely.
+        
+      After retro-ing our project, our group unanimously agreed that we learned a lot about how to manage a four-person project. Originally, we tried to split
+    up the CRUD functionality in four groups, one per person, and quickly realized that the interconnected nature of CRUD made this to be more of a hassle
+    than a gain in efficiency. It would have been more efficient to do the CRUD all together, or have one person do it, then distribute tasks (such as the analytics methods
+    and styling) from there. Conflict wise, our main "storming" moment occurred due to one group member and I drawing out a database schema on our own
+    without updating the other two group members. This caused them to feel both out of the loop and as if they were slacking. Fortunately, one of them brought it
+    up immediately, and the two of us recognized how our actions could cause those feelings of anxiety and frustration, and we swiftly moved into a stage of 
+    "norming". On the positive side, we were all very happy with how clear our communication and Github workflow was.
+
+2. Project: Little Shop
+    * 
+
+3. Incorporating Feedback
+    * After Bike Share, the main feedback themes I received were 1) that I have a great attitude and really help with the groups energy, and 2) that when I 
+    get on a roll with my code, I can forget to explain to the group what I'm working on or how I'm doing it. They all said that I eventually clarified this each time,
+    but that I could improve by doing so sooner. 
+    * In the context of being a teammate, I learned that I have an unique ability to influence the group's energy. I've never been super drawn to 
+    deciding in which direction the group should go, but I do feel like a leader in being able to make sure we have the energy and capacity to get where we're going.
+    In this way, I feel a bit like a team battery: my job is to keep us charged up so we can do the work we set out to do, and do it in high spirits. I'm grateful for 
+    learning this about myself, and I'm excited to keep this framework top of mind as I move on to new projects with different teams.
 
 #### Finding Opportunities
 
@@ -162,7 +190,8 @@ from a particular and narrow slice of experience.
 
 With all the anxiety associated with the job hunt, I appreciated how grounded this session was. It consisted entirely of *how* to actually find connections and opportunities.
 My biggest takeaway from this session is to not be intimidated or disappointed if a company does not have job listings in my area. If that is the case,
-I can reach out to someone anyway and just see what it's like to work there, and develop a relationship from an informational standpoint.
+I can reach out to someone anyway and just see what it's like to work there, and develop a relationship from an informational standpoint. 
+Moreover, it was exciting to put together a job tracker and remember that the whole reason I'm at Turing is to find a fulfilling career as a software developer.
 
 #### (Session Name)
 
