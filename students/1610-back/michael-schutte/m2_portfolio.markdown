@@ -1,3 +1,24 @@
+// ### Module 2 (Back-end)
+
+// * Evaluation notes - You need to take notes during assessments/evaluations
+// * Blog post (>=1)
+// * Self-solicited continual peer feedback
+// * If you're in a posse - please include:
+//   * a blurb about what you did with your posse over the module
+//   * your favorite thing about the posse experience
+//   * how has your posse experience helped you grow as a professional?
+// * Non evaluated projects: Rails Mini Project, Mix Master
+//  * Include what you learned/took away from the project.
+// * Evaluated projects: Rush Hour, Little Shop, Job Tracker
+// * Assessments: Final
+// * Professional Skills:
+//   * A recap of reflections from Gear Up
+//   * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
+//   * Cold email at least one of those five companies from the company tracker
+//   * Two paragraph reflection on:
+//     1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+//     2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+
 # Mike Schutte - M2 Portfolio
 
 ## Areas of Emphasis
@@ -6,9 +27,10 @@ Personally, I want to become a better collaborator by being less attached to my 
 On a technical level, I want to develop a deep understanding of database architecture, Rails,
 and what's going on in the black boxes of the internet and web applications.
 As a community member, I want to take a leadership role in holding extra-curricular space for Ruby drills and content reviews. 
-(What did you set out to accomplish this module?)
 
 ## Rubric Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
@@ -44,6 +66,52 @@ As a community member, I want to take a leadership role in holding extra-curricu
 
 (Intro)
 
+#### Bike Share
+
+* [GitHub URL](https://github.com/mollybrown/bike-share)
+* [Original Assignment](https://github.com/case-eee/bike-share)
+
+Bike Share is an application used for tracking analytics of a San Francisco bike sharing system.
+Using open source data from [kaggle.com](https://www.kaggle.com/benhamner/sf-bay-area-bike-share), 
+we constructed a relational database using SQL that includes tables for trips, stations,
+and weather conditions by date. Using this database, we created methods to calculate
+trends in the data about bike usage relative to stations and weather.
+To display this application, we used the Sinatra framework and Bootstrap styling
+for our HTML views. Each major table (stations, trips, and weather) exhibits full
+CRUD functionality.
+
+Working along with Ethan Bennett, Molly Brown, and Caroline Powell, my focus was
+particularly on our test driven development and analytics methods.
+
+## Evaluation Rubric
+
+### 1. Functional Expectations
+
+* 3.5: Application fulfills base expectations and adds two extensions
+* 3.5: Application fulfills base expectations
+
+### 2. ActiveRecord
+
+* 4: Appropriate ActiveRecord methods are used to query the database and live in the appropriate model. No Ruby is used to organize data after database queries.
+
+### 3. User Experience and Conventions
+
+* 4: Project uses Sinatra methods and ERB templates to display both resources and non-resource related views with appropriate routes, and HTTP verbs. All functionality can be accessed in the application where expected based on the spec. User experience is exceptional ('client ready') and all pieces of the application can be accessed without entering addresses manually in the nav bar.
+
+### 4. Code Organization/Quality
+
+* 4: Code is organized so that the main application file is primarily concerned with HTTP requests/responses. Other logic is refactored to be included in other Ruby objects, and code responsible for analyzing information in the database exists in the appropriate ActiveRecord models. Methods are appropriately refactored to have a specific purpose and generally do not exceed eight to ten lines. The purpose of methods is generally clear and easy to understand/follow. Logic is not included in ERB views, and is instead in the controller or model as appropriate.
+
+### 5. Testing
+
+* 3: Application is well tested but does not balance isolation and integration/feature tests
+
+### 6. Working Collaboratively
+
+* 3: Good use of branches, pull requests, and a project-management tool.
+
+(feedback to me)
+
 #### (Project Name)
 
 * [GitHub URL]()
@@ -61,14 +129,41 @@ As a community member, I want to take a leadership role in holding extra-curricu
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Microaggressions
 
-* [GitHub URL]()
+* [https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I missed the in-person component of this Gear Up due to medical reasons, but I read the articles for "Responding to Microaggressions" and was deeply affected by them.
+With a background in sociology, the concept is not unfamiliar to me, but it was refreshing to consider it in a more applied context, outside of academia.
+Demographically and in terms of identity, I benefit massively and unfairly from the massive institutions of gender, race, sexuality, and so on. In other words, as
+a straight, white, middle-class male, I can't say I've ever truly been the recipient of a microaggression. For a few years of my life, I felt very guilty for this,
+but I've come to accept that guilt does not change anything, and just as demographics and identities that fall outside of US hegemony did not choose their lives,
+so too was my lot in life relatively random and out of my control. So instead of guilt, I respond to realities such as microaggression with a commitment to pay
+attention to the actions and behaviors of others, and, more importantly, to speak up and act when people abuse others with their words.
+  
+I recently saw an interview with Jon Stewart in which he said the idea of the U.S. is fundamentally difficult, in that it's never been done before. This idea 
+of equality and open-mindedness is not our default setting. It would be easy to default to tribalistic instincts and stereotype others unlike ourselves,
+but I take comfort in the idea of trying to transcend that impulse in order to achieve a greater sense of what it means to be a human on this earth, and not just
+from a particular and narrow slice of experience.
 
 
 ### Professional Development Workshops
+#### Collaborative Communication
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/collaborative_communication.md)
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### Finding Opportunities
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
+* [Link to Completed Deliverables](https://trello.com/b/GrDk8PVl/job-tracker-mike-schutte)
+
+With all the anxiety associated with the job hunt, I appreciated how grounded this session was. It consisted entirely of *how* to actually find connections and opportunities.
+My biggest takeaway from this session is to not be intimidated or disappointed if a company does not have job listings in my area. If that is the case,
+I can reach out to someone anyway and just see what it's like to work there, and develop a relationship from an informational standpoint.
+
 #### (Session Name)
 
 * [Workshop URL]()
@@ -89,6 +184,13 @@ As a community member, I want to take a leadership role in holding extra-curricu
 ### Playing a Part
 
 (ways you supported the larger Turing community)
+  * Drills for Skills: I started up an extracurricular space for people to work on and polish their Ruby programming skills. 
+  These sessions centered around Ruby Exercisms, where we worked independently for ten minutus, collaboratively for another ten, and finally reviewed
+  challanges and new content for five.
+
+  * Pahlka Posse: We focused this mod on a project that visualizes important education data
+  to make schooling information accessible to more people. I played a key role in parsing PDF tables, desisgning the relational database,
+  and seeding this data into a Rails application.
 
 ------------------
 
@@ -101,3 +203,4 @@ As a community member, I want to take a leadership role in holding extra-curricu
 ### Outcome
 
 ( Leave blanks for reviewers )
+
