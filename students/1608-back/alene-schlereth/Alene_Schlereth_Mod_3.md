@@ -1,8 +1,7 @@
-# Alene Schlereth - Mod # Portfolio
+# Alene Schlereth - Mod 3 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
 Weekly job prep activities:  
 -Networking (meetups, coffees)  
 -Algorithm pracitce  
@@ -56,6 +55,20 @@ Weekly job prep activities:
 
 (feedback to me)
 
+#### Rales_Engine
+
+* [GitHub URL](https://github.com/AliSchlereth/rales_engine)
+* [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+
 ## D: Professional Skills
 (Intro)
 
@@ -74,6 +87,15 @@ Weekly job prep activities:
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
+
+#### Job Search Strategies w/ Meg
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/job_search_strategies.md)
+* [Link to Completed Deliverables](https://docs.google.com/document/d/1Bh5e_k23Spm_4w9nEmUgdWWmQ_3pl6F5cusr19tLG-4/edit?usp=sharing)
+
+(takeaways from session)
+
+
 
 ## E: Feedback and Community Participation
 
