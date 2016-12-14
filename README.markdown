@@ -57,20 +57,21 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Evaluation notes - You need to take notes during assessments/evaluations
 * Blog post (>=1)
 * Self-solicited continual peer feedback
-* If you're in a posse - please include:
+* If you're in a posse - please include (in the Being a Community Member section):
   * a blurb about what you did with your posse over the module
   * your favorite thing about the posse experience
   * how has your posse experience helped you grow as a professional?
 * Non evaluated projects: Rails Mini Project, Mix Master
  * Include what you learned/took away from the project.
-* Evaluated projects: Rush Hour, Little Shop, Job Tracker
+* Evaluated projects: Bike Share, Little Shop, Job Tracker
 * Assessments: Final
+* Gear Up:
+  * Recap of reflections
 * Professional Skills:
-  * A recap of reflections from Gear Up
   * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
   * Cold email at least one of those five companies from the company tracker
   * Two paragraph reflection on:
-    1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+    1. Details on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
     2. How you incorporated feedback from your team members and what you learned about yourself in the process.
 
 ### Module 2 (Front-end)
