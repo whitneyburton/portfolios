@@ -250,9 +250,7 @@ Student participates in required activities and does at least one or two above-a
 * **E: Peer & Instructor Feedback**: 3  
  Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
-### Notes
-
-( Leave blanks for reviewers )
+## Final Review
 
 ### Outcome
 PASS
