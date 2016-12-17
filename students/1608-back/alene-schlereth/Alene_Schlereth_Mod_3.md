@@ -94,6 +94,12 @@ Items search controller could use refactoring with various params cases, otherwi
 
 Microaggressions are more pervasive than most people realize.  This is, in part what makes a microaggression. Often those perpetuating them do not realize the impact their comments have on other people. Our group discussed some lived experiences of microaggressions as well as touched on how perhaps the different genders respond to different incidents. 
 
+#### Journey Mapping
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
+
+*(takeaways from session)*  
+
 ### Professional Development Workshops
 #### (Session Name)
 
