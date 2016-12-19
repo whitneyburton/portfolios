@@ -6,7 +6,7 @@
 
 ## Rubric Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module:
+Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
