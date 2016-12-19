@@ -61,7 +61,6 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 ### Professional Development Workshops
 #### (Session Name)
 
-* [Workshop URL]()
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
