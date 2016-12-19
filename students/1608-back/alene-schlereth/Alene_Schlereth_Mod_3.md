@@ -98,7 +98,7 @@ Microaggressions are more pervasive than most people realize.  This is, in part 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-*(takeaways from session)*  
+Coming in to this gear up, I had anticipated talking about our personal story. It was a pleasant surprise to find that it was about a tool used to think through user experiences. I enjoyed the structured conversation with my partner and getting to direct the interview whichever way I felt was appropriate.   
 
 ### Professional Development Workshops
 #### (Session Name)
