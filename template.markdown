@@ -81,6 +81,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 (ways you supported the larger Turing community)
 
 ### Gear Up
+
+(reflect on your Gear Up sessions following the below example)
+
 #### Vote Your Conscience
 
 * [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
