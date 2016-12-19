@@ -7,6 +7,7 @@ A submission summarizes your accomplishments in these key areas:
 
 * Individual
 * Team
+* Professional Development
 * Community
 
 ## Authoring Process
