@@ -25,7 +25,7 @@ portfolio should be written/submitted
 * Individual Assessment: Passing Score (All 3's) required
 * Individual Projects: All individual projects. A passing final project is required.
 * Group Projects: All paired projects
-* Professional Skills:
+* Professional Development:
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
@@ -46,7 +46,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
  * Number Guesser
  * Idea Box
 * Feedback: Self-Solicited and from Feedback App
-* Professional Skills:
+* Professional Development:
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
@@ -66,7 +66,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
   * Include what you learned/took away from the project.
 * Evaluated projects: Bike Share, Little Shop, Job Tracker
 * Assessments: Final
-* Professional Skills:
+* Professional Development:
   * Copy for a personal website
   * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
   * Seven cold emails sent to seven different contacts from the company tracker
@@ -84,7 +84,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Required Project: ToDo Box Pivot, Shoot the Breeze, FireBae (Tier Two) -- scores should all be passing (All 3's) or show gradual improvement
 * Included Projects:
  * Weatherly
-* Professional Skills:
+* Professional Development:
   * Copy for a personal website
   * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
   * Seven cold emails sent to seven different contacts from the company tracker
@@ -105,7 +105,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Bonus Project (not required): APIcurious
 * Feedback: Self-Solicited and collected from Cloney Island
 * Something valuable you've taken away from your posse.
-* Professional Skills:
+* Professional Development:
   * Turing alumni portfolio
   * Pitch for personal project/Documentation showing your thought process
   * Completed Flower Exercise
@@ -119,7 +119,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
 * Bonus Project (not required): None
 * Feedback: Self-Solicited and collected from Weather Forecast and Remember
-* Professional Skills:
+* Professional Development:
   * Turing alumni portfolio
   * Pitch for personal project/Documentation showing your thought process
   * Completed Flower Exercise
