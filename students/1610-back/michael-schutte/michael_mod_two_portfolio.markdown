@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Mike Schutte - M2 Portfolio
 
 ## End of Module Reflection
 
@@ -147,6 +147,23 @@ With all the anxiety associated with the job hunt, I appreciated how grounded th
 My biggest takeaway from this session is to not be intimidated or disappointed if a company does not have job listings in my area. If that is the case,
 I can reach out to someone anyway and just see what it's like to work there, and develop a relationship from an informational standpoint. 
 Moreover, it was exciting to put together a job tracker and remember that the whole reason I'm at Turing is to find a fulfilling career as a software developer.
+
+#### Cold Outreach
+
+This development session was extremely productive. The presentation was succinct and informative, and using the remaining time to actually construct and workshop an email was invaluable.
+Prior to this exercise, I thought cold outreach was very daunting. I realize now that it can be pretty straightforward. I think it's also good to rememeber that the worst thing that can happen is that they don't respond--and that's okay.
+
+Here are my cold outreach emails:
+
+    * Subject: Interest in Map My Fitness analytics
+        Hi Josh, 
+        I’m a junior backend developer in the Denver area, and really interested in UA’s development team. A friend of mine from the innovation team, Sam Gerk, mentioned there are some awesome projects in the works.
+        As an endurance runner and fellow outdoor enthusiast, I’m specifically interested in the data analytics of the Map My Fitness side of the company, 
+        Are you free anytime this week, maybe Thursday (1/5) at 2pm, to meet for coffee at Novo off 16th and Glenarm?  Let me know if a different time works better.
+        All the best,
+        Mike
+
+Include takeaways and deliverables from each session.
 
 #### (Session Name)
 
