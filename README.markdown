@@ -90,7 +90,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
   * Seven cold emails sent to seven different contacts from the company tracker
   * Attend two networking events
   * Two paragraph reflection on:
-    1. Details on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
+    1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
     2. How you incorporated feedback from your team members and what you learned about yourself in the process.
 * Community:
   * A recap of reflections from Gear Up
