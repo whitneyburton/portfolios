@@ -39,8 +39,12 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 
 ### Module 1 (Front-end)
 
-* Individual Assessment: Passing Score (All 3's) required
-* Required Project: Final Project (Game Time) -- Passing Score (All 3's) required
+* Pentathlon
+  1. Individual Coding Challenge-A: Passing Score (All 3's) required
+  2. Individual Coding Challenge-B: Passing Score (All 3's) required
+  3. Comprehensive Quizlette
+  4. Final Project (Game Time) -- Passing Score (All 3's) required
+  5. Completed Portfolio
 * Included Projects:
  * Linked List
  * Number Guesser
