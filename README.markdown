@@ -49,7 +49,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
  * Linked List
  * Number Guesser
  * Idea Box
-* Feedback: Self-Solicited and from Feedback App
+* Feedback: Self-solicited from your peers
 * Professional Development:
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
@@ -149,7 +149,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 
 ### Module 4 (Front-end)
 
-* 
+*
 * Professional Development:
   * Description of your top three priorities in the job search and why
   * Action plan for how to overcome perceived barriers to the job search
