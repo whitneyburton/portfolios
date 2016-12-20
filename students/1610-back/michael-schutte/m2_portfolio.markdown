@@ -49,12 +49,14 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 (Intro)
 
-#### (Project Name)
+#### Job Tracker
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/tmikeschu/job-tracker)
+* [Original Assignment](https://github.com/case-eee/job-tracker)
 
-(description)
+Job Tracker is a simple Rails application that keeps track of information for someone's job hunt. I inherited a project that had base functionality for company and job features, and expanded
+upon it to include full CRUD functionality for companies, jobs, and categories, and the ability to create contacts for companies and comments for jobs.
+Conceptually, this project employs a relational database (PostgreSQL), CRUD functionality, test-driven development, MVC modeling, and basic HTML/CSS styling for the user experience.
 
 (evaluation comments)
 
@@ -131,7 +133,7 @@ particularly on our test driven development and analytics methods.
 ### Gear Up
 #### Microaggressions
 
-* [https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md)
 
 I missed the in-person component of this Gear Up due to medical reasons, but I read the articles for "Responding to Microaggressions" and was deeply affected by them.
 With a background in sociology, the concept is not unfamiliar to me, but it was refreshing to consider it in a more applied context, outside of academia.
@@ -146,6 +148,18 @@ of equality and open-mindedness is not our default setting. It would be easy to 
 but I take comfort in the idea of trying to transcend that impulse in order to achieve a greater sense of what it means to be a human on this earth, and not just
 from a particular and narrow slice of experience.
 
+#### Journey Mapping
+
+* [GitHub URL] (https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
+
+With a heavy background in sociology and qualitative reserach methodologies, I really enjoyed learning about journey mapping. I think it's a great way to iteratively develop a product based
+on actual user needs and experiences. In sociology and anthropology, there is an idea of "grounded theory", which refers to reserach being guided by actual
+social happenings and observation, as opposed to a researcher entering a field site with a pre-conceived theory. Journey mapping follows a similar ethos, which is rooted in 
+curiosity and humility. Instead of claiming to know what the user experiences, journey mapping requires the product team to slow down and gather detailed data 
+about the user experience, and implement future development in response to that.
+
+Professionally, I've been curious about how I can use my sociological skills in the tech world. Journey mapping excites me,
+because it offers a platform for me to just that.
 
 ### Professional Development Workshops
 #### Collaborative Communication
