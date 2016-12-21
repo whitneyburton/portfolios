@@ -49,14 +49,13 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
  * Linked List
  * Number Guesser
  * Idea Box
-* Feedback: Self-solicited from your peers
+* Feedback: Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
 * Professional Development:
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
 * Community:
   * A recap of reflections from Gear Up
-* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
 
 ### Module 2 (Back-end)
 
