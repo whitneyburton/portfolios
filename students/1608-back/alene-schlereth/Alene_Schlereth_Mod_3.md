@@ -122,6 +122,13 @@ When meeting people in a networking environment, you will need to approach conve
 
 After graduating from Turing, we will need to hit the ground running to find a job in a timely manner.  During this session we planned out what we could be doing now to build relationships which we can rely on during the job search.
 
+#### (Session Name)
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
