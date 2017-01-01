@@ -1,15 +1,27 @@
 # (Your Name) - (M1/M2/M3/M4) Portfolio
-## Individual
 
-### Areas of Emphasis
+## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
 
-### End of Module Assessment
+## Rubric Scores
+
+Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
+
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Development**: X
+* **E: Feedback & Community Participation**: X
+
+-----------------------
+
+## A: End of Module Assessment
 
 (Notes & scores from your assessment rubric)
 
-### Work
+
+## B: Individual Work & Projects
 
 (Intro)
 
@@ -24,7 +36,7 @@
 
 (evaluation scores)
 
-## Team
+## C: Group Work & Projects
 
 ### Projects
 
@@ -43,7 +55,17 @@
 
 (feedback to me)
 
-## Community
+## D: Professional Development
+(Intro)
+
+### Professional Development Workshops
+#### (Session Name)
+
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+## E: Feedback and Community Participation
 
 ### Giving Feedback
 
@@ -57,15 +79,13 @@
 
 (ways you supported the larger Turing community)
 
-## Review
+### Gear Up
 
-### Rubric Scores
+(reflect on your Gear Up sessions following the below example)
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+------------------
+
+## Final Review
 
 ### Notes
 
