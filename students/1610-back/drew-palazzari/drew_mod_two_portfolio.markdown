@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Drew Palazzari - Module 2 Portfolio
 
 ## End of Module Reflection
 
-What did you get technically and professionally out of this module? How are you going to use it in the future?
+I came into Module 2 with a desire to not fall behind like I did in Module 1. I will do all the homework, every night.
 
 ## Self-Evaluated Rubric Scores
 
@@ -27,6 +27,46 @@ Add your notes and scores here.
 #### [Project Name](include-link-to-production-site-here)
 
 If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+
+Group Projects are both challenging and rewarding. I enjoy them far more than individual projects. Two minds are always better than one.
+
+### Bike Share
+
+* [GitHub URL](https://github.com/kheppenstall/bike-share)
+* [Original Assignment](https://github.com/case-eee/bike-share)
+
+Bike Share was a sinatra project that utilized ActiveRecord methods to organize and do analytics on massive csv files. All as a web based app.
+
+It was the first group Project of our Cohort. I was grouped with Kyle Heppenstall and Josh Cohen. It went really well!
+
+Overall Sal was impressed and pleased with our project. We fulfilled all expectations, and had excellent testing. Room for improvement in our styling, but let's be honest...thats for front-end developers.
+
+###Evaluation Scores
+1)Functional Expectations: 3
+2)ActiveRecord use: 3.5
+3)User Experience and Conventions: 3.5
+4)Code Organization/Quality: 4
+5)Testing: 4
+6) Working Collaboratively: 4
+
+* [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/bike_share/drew_kyle_josh.md)
+
+Josh's Feedback to me:
+
+Josh Cohen [11:51 AM]  
+For Drew:  NEG: You can sometimes have “selective attention”, and that can make things challenging for those working with you.  POS:  You’re a pleasure to work with; especially in a high stress situation.  You relieve the stress by using simple jokes & keeping things “light”
+
+Kyle's Feedback to me:
+
+Kyle Heppenstall [11:42 AM]
+On bike share Drew did an excellent job working collaboratively in a way that worked for the team. He was always available for questions, asked for help when he needed help but still worked independently to get tasks finished. He also did a great job reminding the team to understand code and practice typing it out from memory. My constructive feedback was to take more ownership on figuring out the best way to accomplish tasks like writing dashboard methods. He was hesitant to switch to ActiveRecord from Ruby at first even though it was in the spec and made the pages load faster.
+
+Group Feedback:
+
+Kyle Heppenstall [11:42 AM] (Kyle was the typer)
+We stayed late and demonstrated commitment and work ethic. We were willing and ready to resolve conflict on the team while keeping the big picture in mind (and while not being defensive).  We taught each other and did a great job putting learning first. Our work flow of two people pairing and one person working individually kept our pace high. Styling was consistent across all pages.
+
+We could have used Waffle more often and organized the waffle page better. Our agile approach was not always on point. We should have wrapped up the stations chunk better before moving on to further iterations. The organization of our models directory could have been clearer. We should have focused more on base expectations instead of adding extra features (time cap them). We could have been more detail-oriented when merging pull requests (and creating pull requests that are more discrete and smaller). Communication was too reliant on everyone being here. Styling was minimalist.
 
 ### Individual Projects
 
