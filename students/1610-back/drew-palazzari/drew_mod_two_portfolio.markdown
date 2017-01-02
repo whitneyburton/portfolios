@@ -3,6 +3,9 @@
 ## End of Module Reflection
 
 I came into Module 2 with a desire to not fall behind like I did in Module 1. I will do all the homework, every night.
+Throughout the Module, I have been working on my personal website as well. YOu can find it, and any links to blog posts below:
+
+* [Personal Website](Dpalazzari.github.io)
 
 ## Self-Evaluated Rubric Scores
 
@@ -24,11 +27,12 @@ Add your notes and scores here.
 
 ### Group Projects
 
-#### [Project Name](include-link-to-production-site-here)
-
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
-
 Group Projects are both challenging and rewarding. I enjoy them far more than individual projects. Two minds are always better than one.
+
+### Blogger
+
+I chose to add Blogger to my portfolio simply because of how useful it was. I learned the most from this tutorial, bar none. It walked the developer through the whole process of building a rails application, and was still around for reference during confusion at other times/different projects. It also went through every error message one might see while working on Rails.
+
 
 ### Bike Share
 
@@ -51,6 +55,74 @@ Overall Sal was impressed and pleased with our project. We fulfilled all expecta
 
 * [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/bike_share/drew_kyle_josh.md)
 
+
+### Individual Projects
+
+#### [Project Name](include-link-to-production-site-here)
+
+If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+
+## C: Professional Skills
+
+### Gear Up
+#### Responding to Microaggressions
+
+I think Microaggressions are a problem. I also think that some things that some people consider microaggressions, are actually not microaggressions. As a stright, white, male in America it is hard for me to relate to microaggressions. It's sad, but I really just have no experience in the matter. Reading about examples though, I understand why many people hear/experience microaggressions and are hurt by it. I will strive to not accidentally commit microaggressions in the workplace and at Turing.
+
+#### Journey Mapping
+
+I did not get much from this Gear-up, to be honest. It was not for lack of effort though. I think one of the big takeaways I got from this Gear up, is the ability to see what other problems a User might have when visiting a Rails application for the first time. You want your apps to be easy to use, clear, and awesome. Nobody wants their users to have big problems or issues because of lack of clarity or confusion on your app.
+
+Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+
+### Professional Development Workshops
+
+It's good to be a great professional, and a skilled Developer.
+
+#### Finding Opportunites
+
+We were told to start looking for companies we'd like to work for, and find a contact or someone who works for that company. We must have 10 companies with contacts by December 16th.
+
+UPDATE: time to start sending cold outreach emails to those contacts!
+
+#### Intro to Project Management
+
+Biggest takeaway was the difference between agile and waterfall workflows, and why Turing students should pretty much always use an agile workflow.
+
+#### Feedback II
+
+Take feedback to heart. Analyze what you feel is wrong and right about the feedback. Try to picture it from your teammates point of view. Have a plan for the next collaboration project so the same problems aren't repeated again.
+
+In my feedback, I really have not had anything that I felt was wrong. I know and understand my faults as a character and I do try to improve them. I must do my best to remember the truth in my feedback and become an even better collaborator on projects.
+
+I have a pretty sweet Johari Window, too. I am curious as to what negvative adjectives my teammates would select for me.
+
+#### Cold Outreach
+
+Remember those contacts everyone found in the Finding Opporunities workshop? Well it's time to start reaching out to them.
+Went over how to find someone who works for a company that interests you, and then how to communicate with that person in a friendly way. The goal was to get a tech interview/tour of their job.
+
+
+## D: Feedback
+
+### Giving Feedback
+
+Feedback to Josh(Bike Share)
+
+Drew Palazzari [11:45 AM]  
+Constructive Feedback: Be more assertive from Day 1.  Frontloading a project at the start makes it less likely to accrue 'intel debt' as the project commences and the group adds more confusing code and files. Josh fell further and further behind at times because he wasn't with Kyle and me the first day the group began work on the project.
+
+You-are-awesome Feedback: When Josh called for a second DTR session, it was very maturely and very professionally done. It was clear Josh was upset, but the group came together, voiced concerns and moved on and built a kick-ass project. Josh is an able bodied coder and I would be pleased to be grouped with him again. Josh did an excellent job getting caught up with the code he did not understand.
+
+Feedback to Kyle(Bike Share)
+
+Drew Palazzari [11:47 AM]  
+Constructive Feedback: Don't take on too much work. Kyle did too much work, even after like 8-9 hours of working at school. If there is something Kyle feels NEEDS to be done, even after a day's work,  he should ask  group members for help. Most students at Turing  work hard and are willing to go the extra mile to finish a project. Don't burn yourself out.
+
+You-are-awesome Feedback:  I think our collaborative work styles really meshed well together. Had a ton of fun working on this project with Kyle. Kyle is an excellent coder, and there is a ton to learn from him. I would be very pleased to work with Kyle again. 10/10
+
+### Being a Community Member
+
 Josh's Feedback to me:
 
 Josh Cohen [11:51 AM]  
@@ -66,41 +138,12 @@ Group Feedback:
 Kyle Heppenstall [11:42 AM] (Kyle was the typer)
 We stayed late and demonstrated commitment and work ethic. We were willing and ready to resolve conflict on the team while keeping the big picture in mind (and while not being defensive).  We taught each other and did a great job putting learning first. Our work flow of two people pairing and one person working individually kept our pace high. Styling was consistent across all pages.
 
-We could have used Waffle more often and organized the waffle page better. Our agile approach was not always on point. We should have wrapped up the stations chunk better before moving on to further iterations. The organization of our models directory could have been clearer. We should have focused more on base expectations instead of adding extra features (time cap them). We could have been more detail-oriented when merging pull requests (and creating pull requests that are more discrete and smaller). Communication was too reliant on everyone being here. Styling was minimalist.
-
-### Individual Projects
-
-#### [Project Name](include-link-to-production-site-here)
-
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
-
-## C: Professional Skills
-
-### Gear Up
-#### Session Name
-
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
-
-### Professional Development Workshops
-#### (Session Name)
-
-Include takeaways and deliverables from each session.
-
-## D: Feedback
-
-### Giving Feedback
-
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
+Group Feedback: We could have used Waffle more often and organized the waffle page better. Our agile approach was not always on point. We should have wrapped up the stations chunk better before moving on to further iterations. The organization of our models directory could have been clearer. We should have focused more on base expectations instead of adding extra features (time cap them). We could have been more detail-oriented when merging pull requests (and creating pull requests that are more discrete and smaller). Communication was too reliant on everyone being here. Styling was minimalist.
 
 ## E: Community Participation
 
-How did you actively contribute to the Turing community?
+Attended every Gear-up and as many posse meet-ups as I could. Paired with Module 1 students wehn they signed up for my pairings. Collaborated positively with several of my classmates at many times during Mod 2. I was always available to help people. I was particularly popular for requests for help during Job Tracker.
 
-------------------
 
 ## Final Review
 
