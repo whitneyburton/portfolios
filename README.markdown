@@ -142,7 +142,6 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
   * Action plan for how to overcome perceived barriers to the job search
   * Completed blog post with peer review
   * Six cold outreach emails sent
-  * One informational interview
 * The Plan
 * Community:
   * A recap of reflections from Gear Up
