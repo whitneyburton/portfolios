@@ -133,9 +133,9 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 ### Module 4 (Back-end)
 
 * Individual Assessment
-* Required Project: Capstone & Supplimental Project
+* Required Project: Capstone Project
   * Should include points breakdown per project
-* Blog Post
+* At least one Blog Post - see below
 * Link to your PR for opensource contribution
 * Professional Development:
   * Description of your top three priorities in the job search and why
