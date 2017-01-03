@@ -2,7 +2,8 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+In this module I hope so gain a deeper understanding of Rails. I also want to learn more about consuming APIs and building my own. 
+Additionally, I want to prepare myself for interviews by focusing on exercisms every week. I hope to make new contacts in both the Boston and Denver areas.
 
 ## Rubric Scores
 
