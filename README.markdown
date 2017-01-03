@@ -132,7 +132,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 
 ### Module 4 (Back-end)
 
-* Individual Assessment (thoughtbox)
+* Individual Assessment
 * Required Project: Capstone & Supplimental Project
   * Should include points breakdown per project
 * Blog Post
