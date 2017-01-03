@@ -153,7 +153,6 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Professional Development:
   * Description of your top three priorities in the job search and why
   * Action plan for how to overcome perceived barriers to the job search
-  * Completed blog post with peer review
   * Six cold outreach emails sent
   * One informational interview
 * Community:
