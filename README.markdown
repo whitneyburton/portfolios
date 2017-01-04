@@ -136,7 +136,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Required Project: Capstone Project
   * Should include points breakdown per project
 * At least one Blog Post with peer review - Open-Source or Technical from PD sessions.
-* Link to your PR for opensource contribution
+* Link to your PR for opensource contributions
 * Professional Development:
   * Description of your top three priorities in the job search and why
   * Action plan for how to overcome perceived barriers to the job search
