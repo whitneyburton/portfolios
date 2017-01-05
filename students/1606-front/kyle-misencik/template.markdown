@@ -2,140 +2,107 @@
 ## Individual
 
 ### Areas of Emphasis
-I wanted to start off strong and gain a solid foundation for moving forward into the
-next modules. Honestly, considering Turing's reputation, I just wanted to move on to module 2.
-I also consider this my first steps into a new career which I wish to be successful at.
-
+I'd like to continue to become a well-rounded FE developer. This module I definitely got a better at understanding and writing tests. Working with Ben on the Pomodoro app helped a ton. Additionally, I wanted to push my logic skills & focused on completing CodeWars challenges outside of class. I felt I drove a lot this module & proved I can take concepts & implement the functionality.
 
 ### Game Time
 
-Functional: 3
-UI: 3 - 'fixed directions'
-Testing: 2
+Progression: 3
+Workflow: 4
 JS Style: 3
-Workflow: 3
+Collaboration: 4
 
 ### Work
 
-The following is a list of projects assigned during mod 1.
+The following is a list of projects assigned during mod 2.
 
-#### Personal Portfolio
+#### A Very Lonely Chat Room
 
-* [GitHub URL](https://github.com/kylem038/portfolio)
-* [Original Assignment](http://frontend.turing.io/projects/portfolio-first-draft.html)
+* [GitHub URL](https://github.com/kylem038/chatroom-adventures)
+* [Original Assignment](http://frontend.turing.io/projects/chatroom.html)
 
-A portfolio site represents you, your personal brand, and is a fantastic opportunity to make a great first impression. For this project, we’ll be focusing on how you structure both your content and your HTML & CSS.
-
-4 at every check-in
-
-#### Color Changer
-
-* [GitHub URL](https://github.com/kylem038/color-changer-solo)
-* [Original Assignment](http://frontend.turing.io/projects/color-changer.html)
-
-The application will have the following:
-A default window background color of white
-Two buttons
-One that sets a random background color that cannot be white
-One that resets the background color to white
-
-Functional: 3
+Spec: 4
+UI: 3.5
+HTML: 4
+CSS/SASS: 3
 JS Style: 3
-Workflow: 4
-HTML: 3
-CSS: 4
+Testing: 3
+Workdlow: 4
+Code Sanitation: 3
 
-## Team
+#### Tier 1
 
-### Projects
+* [GitHub URL](https://github.com/kylem038/tier-1)
+* [Original Assignment](http://frontend.turing.io/projects/tier-one.html)
 
-A summary for the team projects during mod 1 - FE.
-
-#### Number Guesser
-
-* [GitHub URL](https://github.com/kylem038/Number-Guesser)
-* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
-
-Build a game where the user picks a number between 1 and 100.
-
-Functional: 4
-JS Style: 3
-
-Felt good after this one. Potentially go back and practice refactoring.
-
-#### Linked List
-
-* [GitHub URL](https://github.com/kylem038/linked-list)
-* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
-
-In it’s simplest form, the application should have the following:
-Two input fields
-One for the title of the bookmark
-One for the URL that the bookmark should link to
-One for creating the bookmark and adding it to the page
-A section for all of the created bookmarks; each bookmark should display:
-The title of the bookmark
-The URL of the bookmark (this should be clickable and link to the URL)
-A button to “Mark as Read”
-A button to “Remove” the bookmark
-
-Functional: 4
-JS Style: 2.5
-Workflow: 4
-HTML: 3
-CSS: 3
-
-Redid this solo over a free weekend and was pleased.
-
-#### ideabox
-
-* [GitHub URL](https://github.com/kylem038/ideabox)
-* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
-
-For this project, we’ll be increasingly thinking about the “server” and “client” as separate entities. We’ll be using:
-JavaScript (with jQuery) to manage client-side interactions.
-JSON and localStorage to persist data between sessions.
-Your entire application will consist of one HTML page or template.
-
-Spec Adherence: 3
-User Interface: 4
+Spec: 3
+UI: 3
+HTML: 4
+CSS/SASS: 3
 JS: 3.5
-Workflow: 4
+Testing: 4
+Workdlow: 4
+Code Sanitation: 4
+Design: 2.75
 
-Come back to this and practice localStorage!
+#### Tier 2
+
+* [GitHub URL](https://github.com/kylem038/tier-2)
+* [Original Assignment](http://frontend.turing.io/projects/tier-two.html)
+
+Spec: 3
+Risk Taking: 3
+Design: 3
+UI: 4
+HTML: 3
+CSS/SASS: 3
+JS Style: 3
+Workflow: 4
+Code Sanitation: 4?
+
+#### Shoot The Breeze
+
+* [GitHub URL](https://github.com/kylem038/react-chatroom)
+* [Original Assignment](http://frontend.turing.io/projects/shoot-the-breeze.html)
+
+Spec: 3
+Architecture: 3
+UI: 3
+CSS/SASS: 3
+JS Style: 3
+Testing: 3.5
+Workflow: 3
+Code Sanitation: 3
+Design: 3
 
 ## Community
 
 ### Giving Feedback
 
-Blake Worsley - Hey Blake - here is my feedback for linked list —— Really enjoyed working with you on this project. From beginning to end we both worked hard to not only deliver a great final product but to learn along the way. I don’t feel like we strayed at all from our DTR. Additionally, I feel like linked list was the project where we struggled through Git & Github and came out making great strides in our understanding of how to use it. I did notice that after trying something only a few times you’d get pretty agitated & stressed that it wasn’t working. I think keeping a level head & being aware of when a big problem needs to be broken down into smaller ones will pay large dividends for you over your career as a developer. Looking forward to working with you again!
+Blake Worsley - Feedback on Chatroom Adventures: Really enjoyed working with you again Blake. I still have much to learn from your design / CSS skills. We put in a lot of hours on that project & I’m proud with how it turned out. It’s one of the first apps I’ve shown off to my friends / family. I really believe you’re a very well rounded FE developer, although I know sometimes you underestimate your own abilities. One thing I think both of us can get better at is breaking bigger problems down into smaller ones. Sometimes all it takes is a debugger / console log in the right place to get things moving when you’re stuck. Definitely won’t hear me complain if we get paired again!
 
-Casey Cross - Hey Casey - here is my feedback for ideabox — — Really enjoyed working with you on this project! Our communication was great and I don’t believe we strayed from our DTR one bit. I know we both leveraged mentors & peers a lot for this project, but in the end we learned a ton and the fact that we got 3’s & 4’s speaks volumes. I know at crunch time we both got a bit stressed and there was some fist pounding and swearing going on. I think moving forward keeping a level head in those situations will allow you (and me) to keep a clear head a recognize we need to break a larger problem into a bunch of smaller ones. Looking forward to working with you again!
+Tex Bodfrey - Feedback on Pompodoro: Really enjoyed working with you on this project Ben. I know I drove through a lot of this project & I appreciate you being cool with that. You’re a really solid developer & we would’ve been in trouble without some of your last minute coding skills. At the same time there’s a lot I think we can both improve on. I’d definitely be down to work through what Taylor helped us with & really understand how to pass everything we need to separate work clocks from break clocks. Hope to work with ya again in the future!
 
-Casey Metz - Hey Casey - here’s my feedback for number guesser --- Really enjoyed working with you on my first project at Turing. I think we were both figuring out Git & Github, but ended up with a great final version on our Github. Functionally, the number guesser turned out exactly how we liked. One thing we both stressed during DTR was learning as much as we could, and I do feel there were times where we came in after a night of work and you had completed a lot. I think moving forward making sure to communicate your rationale and methods for getting things to work will make the teams you’re in that much more cohesive. Definitely looking forward to working with you again!
+Jeff Duke - Feedback Tier-2: I truly enjoyed working with you on the Tier-2 project. I learned a ton from your approach to problem solving. Your ability to recognize that problems needs to be further broken down is something I hope to emulate as I continue to code. I often take pride in giving constructive feedback, but in this case I say keep doing what you’re doing. You’re elevating everyone in our class & I hope you continue to do so. Hope to work with you again!
 
-Mike Sausa - Hey Mike - here’s my feedback for gametime ——— Enjoyed working on this challenging project with you. I think your perseverance will allow us to present a fully functional game tomorrow. I learned a lot from your approach to logically breaking down problems and your understanding of JS syntax. Also, your instinct to burn our code and approach it from a different perspective will stick with me moving forward at Turing. It was also great to see you progress in your confidence with Git & Github. I did notice that you don’t really use Atom shortcuts at all and sometimes you were unsure where you were in your Terminal. Moving forward I think practicing Atom shortcuts & setting up Bash aliases will make you way more efficient as a developer. Additionally, I think we both can use some more practice with JS testing. Looking forward to working with you again!
+Kirsten Swanson - Feedback Tier-2: I truly enjoyed working with you & Jeff during this two week project. Your positivity is infectious, and during those days in the basement it helped us push through on some very stubborn problems. I also noticed how, if you didn’t feel you understood something, you’d take charge on that task. Finally, your work ethic is unparalleled & I feel we all have much to learn from you. I usually pride myself on giving constructive feedback but in this case I say keep pushing forward in the fashion that you are. If you do I think you’ll make a name for yourself in the coding community. Hope to work with you again in the future!
 
 ### Being a Community Member
 
-Blake Worsley - Had a great time working with you on linked list. We had a great opportunity to work through a difficult project together. We successfully delivered a final project and learned how to navigate git well in the process. The only critique I would give is that at times I would have liked to have a bit more control over what was happening. In the future I think taking turns switching who controls the flow when pairing will be beneficial. Thanks again though for everything and I look forward to working with you soon!
+Kirsten Swanson - It was great working on this two week project with you Kyle, especially since you’re probably one of the most organized people that I know! Your waffle.io skills keep you on track and because of that our group was extremely organized and well structured. From the very beginning with the wire-framing and user stories we had a direction and end goal to reach due to your organization. When we were struggling with React communicating with Firebase you were determined to make it work and kept on trying different approaches to solve the problem. I think it’s great you experiment with code even if you’re not sure if it’s going to work, but the fact that you try regardless is motivating. Drives me to try to just write code more even if I’m not sure if it’s the correct solution. The only constructive feedback for you would have been to practice some SASS skills since you had mentioned that as a weakness in the DTR. I typically volunteer to work on CSS since I enjoy it so much, so I apologize if I took control, but I just wanted it to get done. Once again you have a strong work ethic, which makes you a reliable team player and a great individual to work with!
 
-Casey Cross - Kyle, you were a great partner, you gave me some great advice about not letting yourself get stuck on one problem for a great length of time without reaching out for help.  Idea Box was a more challenging project than I think either one of us anticipated and yes, it gave us some of our first “Turing moments” but just knowing we were both feeling the same things (as were many of our classmates)  helped us get through.  In the end, we produced a great project that I am proud to put both of our names on.
+Jeff Duke - Kyle is what good working with you on our project.  It was interesting to work on a project with 3 people for the first time and I thought we all worked well together.  I thought it worked out well that if one of us was missing the other two were able to keep working.  Also I thought we had a good mix of pairing when needed and divide & conquer when we could as well.  Overall this was one of the best apps I’ve put out in any group.  For actionable feedback for you I’d say maybe a little less pessimism?  Sometimes even if something doesn’t seem like it’ll work out, it’s still worth doing as it leads to the right answer.  Good working with you and I look forward to working on future projects together!
 
-Casey Metz - Hey Kyle, here’s mine - Kyle was a great first project partner. On Number Guesser he went out of his way to lead the DTR. As he mentioned in my feedback, I was a bit eager on this first project, and sometimes raced ahead without clear task delegation. Kyle communicated this in a respectful way, and we were able to re-set our expectations before the end of the project. By the end, we were doing a better job of sharing driving and tasks, and Kyle kicked butt on styling our site. He has a great work ethic and knows how to seek the help and resources necessary to complete difficult tasks. Looking forward to working together again!
+Blake Worsley - Kyle, it was great to have the opportunity to work with you again this mod. I know we had both given each other feedback from last mod, and I really feel that this was an even better and smoother project then last time. You are diligent about managing the process and keeping us on track on Waffle.io. I know that I had suggested that you let me drive a bit more this time and I appreciate you taking that to heart. All in all I think it was a great project and I had a great time working with you.
 
-Mike Sausa - Working with Kyle was hugely beneficial for me. For the past two weeks Kyle has been my GitHub sensei pulling me up from zero to near-hero, and I can’t thank him enough. Kyle is really good at taking the reigns and getting the ball rolling on things, and is an excellent communicator and collaborator. He has an excellent workflow and was great at creating tasks and keeping our waffle.io up to date. One of our weaknesses was our lack of poor testing - definitely something we can improve upon in the future. Ultimately I think we were on the same page for the whole project (even if we were in a rabbit hole for a bit) and really enjoyed working with Kyle. Hope to do it again in the near future!
+Gabi Procell - Kyle has been a huge help with my OOP woes during mod 1. I often have a hard time navigating through my code when relationships become very complicated, and Kyle served as a sherpa to explain why I was having errors with my code. Also, explaining the concept of webpack was an enormous help. He's always been very approachable when I did not have him scheduled from pairing, and is eager to help.  Thanks again!
 
 ### DTR
 
-* [GDoc with DTR](https://docs.google.com/document/d/1MvoOhU9hGoCKN7PmN5Jw3Sk1FOLYYvkt6tOhYyq_yJY/edit?usp=sharing)
+* [GDoc with DTR](https://docs.google.com/document/d/10EwePDt4MQtJZSphOSaX6RboQLjIGyqi-ZI1llwnYeo/edit)
 
 ### Playing a Part
 
-Admittedly I didn't participate in many things outside of class & our Friday community time. I'd definitely like
-to start a posse next module to help support the next group of FE students coming in. I know the backend already has
-a posse like this. Hopefully, as I become more confident in my efficiency and time management skills, I can begin to
-focus more on networking and attending after school events.
+I really enjoyed pairing with mod 1 this time around. It's great to work through a complex problem and see the lightbulb go off. Additionally, not only was I able to help other students but pairing helped me cement some concepts that I didn't know I needed to work on. I look forward to continue helping both Mod 2 & the new Mod 1 next mod.
 
 ## Review
 
@@ -144,7 +111,7 @@ focus more on networking and attending after school events.
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
-* **D: Community Participation**: 2
+* **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes

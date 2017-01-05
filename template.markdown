@@ -6,10 +6,12 @@
 
 ## Rubric Scores
 
+Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
+
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
+* **D: Professional Development**: X
 * **E: Feedback & Community Participation**: X
 
 -----------------------
@@ -53,21 +55,12 @@
 
 (feedback to me)
 
-## D: Professional Skills
+## D: Professional Development
 (Intro)
-
-### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(takeaways from session)
-
 
 ### Professional Development Workshops
 #### (Session Name)
 
-* [Workshop URL]()
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
@@ -85,6 +78,10 @@
 ### Playing a Part
 
 (ways you supported the larger Turing community)
+
+### Gear Up
+
+(reflect on your Gear Up sessions following the below example)
 
 ------------------
 
