@@ -62,11 +62,38 @@ We followed a tutorial for this project, which was our first introduction to rai
 
 #### [JobTracker](https://wolff-job-tracker.herokuapp.com/)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+##### 1) Database, Relationships, and Migrations
+
+* 4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+
+##### 2) Routes
+
+* 4: Routes are defined for all functionality and not any additional functionality. All routes conform to RESTful conventions for resources, and routes to pages that are not specifically for resources stored in the database are not named in a way that an experienced developer would find surprising.
+
+##### 3) Controllers
+
+* 3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.
+
+##### 4) ActiveRecord
+
+* 3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
+
+##### 5) Views
+
+* 2.5: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
+* 2.5: Significant logic leaks into the view or remains in controllers and developers show some difficulty in identifying strategies to refactor.
+
+##### 6) User Experience
+
+* 4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
+
+##### 7) Testing
+
+* 4: Project has a running test suite that exercises the application at multiple levels
 
 #### [TutorialShare]()
 
-This was the result 
+This project was made to fill the requirments of the RailsMini Spec. It is a site inspired by Instructables.com that allows users to create and share craft tutorials and browse other user's projects by category. It features authentication and authorization of users and admins. Users can create and edits projects and onlt view other user's submissions. Only admins can create categories. 
 
 ## C: Professional Skills
 
