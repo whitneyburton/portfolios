@@ -3,15 +3,15 @@
 
 ## Areas of Emphasis
 
-I set out to take some risks this module. Since I came away with a good understanding of Rails basics from Mod 2, I wanted to see what new things I could try (JavaScript, Machine Learning, Python, etc.). I also aimed to be more active in my posse (Armstrong) and in the community. My ultimate goal however, was to hone and obtain new skills and to get closer to being a "job ready" junior developer by the end of the module.
+.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **A: End-of-Module Assessment**: 
+* **B: Individual Work & Projects**: 
+* **C: Group Work & Projects**: 
+* **D: Professional Skills**: 
+* **E: Feedback & Community Participation**: 
 
 ---
 
@@ -20,23 +20,23 @@ I set out to take some risks this module. Since I came away with a good understa
 
 ### 1. Ruby Style
 
-* **3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components**
+.
 
 ### 2. Rails Syntax & API
 
-* **3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.**
+.
 
 ### 3. Testing
 
-* **2: Developer writes tests. Most new lines of code are tested but they aren't effective at testing for functionality and value.**
+.
 
 ### 4. Progression/Completion
 
-* **3: Developer is able to implement solutions at the speed of a junior developer.**
+.
 
 ### 5. Workflow
 
-* **4: Developer commits every 15 minutes**
+.
 
 ---
 
