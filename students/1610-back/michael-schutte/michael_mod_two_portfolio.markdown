@@ -68,7 +68,9 @@ particularly on our test driven development and analytics methods.
 
 * 3: Good use of branches, pull requests, and a project-management tool.
 
-(feedback to me)
+## Feedback
+From Caroline Powell:
+Mike is known for his positive attitude and ability to write super clean super efficient code. There are almost always 10-20 sets of code that you could write to get the same job done. Mike is notorious for finding the absolute best code solution out of those 20 possibilities. He pays a lot of attention to detail and his appetite for exploration and performance benchmarking will no doubt lead to high-performance sites as he continues his development career. He is also a great communicator and works hard to keep up team morale. The last night of the project we ran into an issue and had to stay up late working to resolve it. We were all fading but Mike kept our team spirit high and that really helped us to push through in the end.
 
 
 #### [Project Name](include-link-to-production-site-here)
@@ -131,10 +133,14 @@ How you incorporated feedback from your team members and what you learned about 
 2. Project: Little Shop
     * 
 
-3. Incorporating Feedback
+#### Feedback II
+
+1. Incorporating Feedback
     * After Bike Share, the main feedback themes I received were 1) that I have a great attitude and really help with the groups energy, and 2) that when I 
     get on a roll with my code, I can forget to explain to the group what I'm working on or how I'm doing it. They all said that I eventually clarified this each time,
-    but that I could improve by doing so sooner. 
+    but that I could improve by doing so sooner. After considering this shortcoming with a Right-Wrong spotting technique, I think I can build upon
+    this by recognizing that my assumptions of where the group is at is not enough. I have to ask.
+
     * In the context of being a teammate, I learned that I have an unique ability to influence the group's energy. I've never been super drawn to 
     deciding in which direction the group should go, but I do feel like a leader in being able to make sure we have the energy and capacity to get where we're going.
     In this way, I feel a bit like a team battery: my job is to keep us charged up so we can do the work we set out to do, and do it in high spirits. I'm grateful for 
@@ -155,13 +161,83 @@ Prior to this exercise, I thought cold outreach was very daunting. I realize now
 
 Here are my cold outreach emails:
 
-    * Subject: Interest in Map My Fitness analytics
-        Hi Josh, 
-        I’m a junior backend developer in the Denver area, and really interested in UA’s development team. A friend of mine from the innovation team, Sam Gerk, mentioned there are some awesome projects in the works.
-        As an endurance runner and fellow outdoor enthusiast, I’m specifically interested in the data analytics of the Map My Fitness side of the company, 
-        Are you free anytime this week, maybe Thursday (1/5) at 2pm, to meet for coffee at Novo off 16th and Glenarm?  Let me know if a different time works better.
-        All the best,
-        Mike
+    To: Josh Dale, Senior Software Engineer at Under Armour
+
+    jdale@underarmour.com
+
+    Subject: Interest in Map My Fitness analytics
+
+    Hi Josh, 
+
+    I’m a junior backend developer in the Denver area, and really interested in UA’s development team. A friend of mine from the innovation team, Sam Gerk, mentioned there are some awesome projects in the works.
+
+    As an endurance runner and fellow outdoor enthusiast, I’m specifically interested in the data analytics of the Map My Fitness side of the company, 
+
+    Are you free anytime this week, maybe Thursday (1/5) at 2pm, to meet for coffee at Novo off 16th and Glenarm?  Let me know if a different time works better.
+
+
+    All the best,
+    Mike
+
+    —
+
+    To: Erika Carlson, Director of Apprenticeship & Training at Detroit Labs
+
+    erika@detroitlabs.com
+
+    Subject: Denver Dev Interested in Detroit Labs
+
+    Hi Erika,
+
+    I’m a junior developer at Turing School of Software and Design in Denver, and I’m interested in moving to Detroit upon finishing the program (around April/May). Lia James recommended I reach out to you when I mentioned my interest in Detroit Labs.
+
+    As a fellow enthusiast for quality craft and lifelong learning, I would love to hear more about your experience with Detroit Labs, and about the Detroit tech scene more broadly.
+
+    Are you free for a Google Hangout sometime, maybe  Friday (1/6) at 1pm? Let me know if a better time works for you.
+
+    Thanks for considering!
+
+    Mike
+
+    —
+
+    To: Jim Ray, Development Director at CaptainU
+
+    jimiray@gmail.com
+
+    Subject: Interested in current CaptainU dev projects
+
+    Hi Jim,
+
+    I’m a junior developer at Turing, and Lia James recommended I get in touch with you when I mentioned my interest in the work and mission of CaptainU.
+
+    As a competitive athlete and big believer relationship development, I’d love to hear more about what you all are working on, as well as your experiences as a developer at CaptainU.
+
+    Are you free to get coffee sometime, maybe Wednesday (1/18) at 2pm, at Novo Coffee off 16th and Glenarm? Let me know if a different time/place works better.
+
+    Thanks for considering,
+
+    Mike
+
+    —
+
+    To: Adam Hundley, Software Developer at Fareharbor
+
+    slack
+
+    Hi Adam,
+
+    I’m a Turing student, on the tail end of Mod 2 in the backend program. I came across FareHarbor, and Lia James recommended I reach out to you.
+
+    I’d love to hear more about what you’ve been working on with FareHarbor, and about your experience as Turing grad in the professional tech seen.
+
+    Are you free to get coffee sometime, maybe Tuesday (1/17) at 2pm, at Black Eye on 8th and Sherman? Let me know if another time works better for you.
+
+    Thanks for considering!
+
+    Mike
+
+    —
 
 Include takeaways and deliverables from each session.
 
@@ -175,6 +251,18 @@ Include takeaways and deliverables from each session.
 
 (feedback from me)
 
+#### Bike Share
+
+Molly, thank you for all your work as project manager. You did a fantastic job keeping us on track and productive. Additionally, I really respect how you were undaunted in figuring out the Google Map API, it really took our project to another level. On your next projects, I recommend making an effort to improve your attention to detail on factors such as changes in variable names in order to skip small and preventable bugs. Thanks again for being a great teammate, and good luck on your future projects.
+
+Caroline, I really enjoyed working on Bike Share together. Your initiative to design the database with the utmost care really set the tone of success for the rest of the project. I also appreciate our shared love for simple things like alphabetized dropdown menus. For future projects, I think you could work on listening to alternative solutions when the group is stuck on a bug. You have great focus, and that focus sometimes led to tunnel vision during ruts in the project. Thanks again for taking the lead on the database design, and being a critical player on our path to completing a great project. Good luck on your future work!
+
+Ethan, you were incredibly adaptive throughout the timeline of the project. You contributed significantly to most parts of the projects, and proved to be a great point person for our front end design. On future projects, I recommend you work on following syntax conventions for HTML/CSS so it is more readable to others. Thanks for all your hard work and calm demeanor during Bike Share, and for taking our UX to the next level.  Best of luck on your upcoming projects!
+
+#### Little Shop
+
+
+
 ### Being a Community Member
 
 (feedback to me)
@@ -184,11 +272,11 @@ Include takeaways and deliverables from each session.
 How did you actively contribute to the Turing community?
 
  * Drills for Skills: I started up an extracurricular space for people to work on and polish their Ruby programming skills. 
-  These sessions centered around Ruby Exercisms, where we worked independently for ten minutus, collaboratively for another ten, and finally reviewed
+  These sessions centered around Ruby Exercisms and Codewar exercises, where we worked independently for ten minutus, collaboratively for another ten, and finally reviewed
   challanges and new content for five.
 
   * Pahlka Posse: We focused this mod on a project that visualizes important education data
-  to make schooling information accessible to more people. I played a key role in parsing PDF tables, desisgning the relational database,
+  T o make schooling information accessible to more people. I played a key role in parsing PDF tables, desisgning the relational database,
   and seeding this data into a Rails application.
 
 ------------------
