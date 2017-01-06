@@ -88,8 +88,6 @@ Items search controller could use refactoring with various params cases, otherwi
 
 (takeaways from session)
 
-https://github.com/turingschool/gear-up/blob/master/grit.markdown
-
 
 #### Microaggressions
 
@@ -101,7 +99,13 @@ Microaggressions are more pervasive than most people realize.  This is, in part 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-Coming in to this gear up, I had anticipated talking about our personal story. It was a pleasant surprise to find that it was about a tool used to think through user experiences. I enjoyed the structured conversation with my partner and getting to direct the interview whichever way I felt was appropriate.   
+Coming in to this gear up, I had anticipated talking about our personal story. It was a pleasant surprise to find that it was about a tool used to think through user experiences. I enjoyed the structured conversation with my partner and getting to direct the interview whichever way I felt was appropriate.  
+
+#### Grit
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+I have a hard time with the term Grit and repercussions of its popularity. I agree with a lot of the commentary from the first article.  There is some merit to the idea, but the idea is not entirely a new one. In currently implementation it often is shallow and has a blame the vicitm air about it. I am however, a big supporter of growth mindset type learning opportunities and detaching failure from the idea of being a failure.  
 
 ### Professional Development Workshops
 #### (Session Name)
