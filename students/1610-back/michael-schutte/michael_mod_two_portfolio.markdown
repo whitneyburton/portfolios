@@ -27,7 +27,7 @@ Add your notes and scores here.
 
 ### Group Projects
 
-#### [Bike Share]((https://github.com/mollybrown/bike-share)
+#### [Bike Share](https://github.com/mollybrown/bike-share)
 
 Bike Share is an application used for tracking analytics of a San Francisco bike sharing system.
 Using open source data from [kaggle.com](https://www.kaggle.com/benhamner/sf-bay-area-bike-share), 
@@ -69,16 +69,27 @@ particularly on our test driven development and analytics methods.
 * 3: Good use of branches, pull requests, and a project-management tool.
 
 ## Feedback
+
 From Caroline Powell:
 Mike is known for his positive attitude and ability to write super clean super efficient code. There are almost always 10-20 sets of code that you could write to get the same job done. Mike is notorious for finding the absolute best code solution out of those 20 possibilities. He pays a lot of attention to detail and his appetite for exploration and performance benchmarking will no doubt lead to high-performance sites as he continues his development career. He is also a great communicator and works hard to keep up team morale. The last night of the project we ran into an issue and had to stay up late working to resolve it. We were all fading but Mike kept our team spirit high and that really helped us to push through in the end.
 
-
-#### [Project Name](include-link-to-production-site-here)
+#### [Scoopful (Little Shop)](scoopful.herokuapp.com)
 
 If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
 
-
 ### Individual Projects
+
+#### [JTrack (Job Tracker)](jtrack.herokuapp.com)
+
+Job Tracker is a simple Rails application that keeps track of information for someone's job hunt. I inherited a project that had base functionality for company and job features, and expanded
+upon it to include full CRUD functionality for companies, jobs, and categories, and the ability to create contacts for companies and comments for jobs.
+Conceptually, this project employs a relational database (PostgreSQL), CRUD functionality, test-driven development, MVC modeling, and basic HTML/CSS styling for the user experience.
+
+ADD EVAL
+
+#### [Carrot Candy (Rails Mini Project)](carrotcandy.herokuapp.com)
+
+REFLECTION 
 
 #### [Project Name](include-link-to-production-site-here)
 
@@ -102,6 +113,17 @@ I recently saw an interview with Jon Stewart in which he said the idea of the U.
 of equality and open-mindedness is not our default setting. It would be easy to default to tribalistic instincts and stereotype others unlike ourselves,
 but I take comfort in the idea of trying to transcend that impulse in order to achieve a greater sense of what it means to be a human on this earth, and not just
 from a particular and narrow slice of experience.
+
+#### Journey Mapping
+
+With a heavy background in sociology and qualitative reserach methodologies, I really enjoyed learning about journey mapping. I think it's a great way to iteratively develop a product based
+on actual user needs and experiences. In sociology and anthropology, there is an idea of "grounded theory", which refers to reserach being guided by actual
+social happenings and observation, as opposed to a researcher entering a field site with a pre-conceived theory. Journey mapping follows a similar ethos, which is rooted in 
+curiosity and humility. Instead of claiming to know what the user experiences, journey mapping requires the product team to slow down and gather detailed data 
+about the user experience, and implement future development in response to that.
+
+Professionally, I've been curious about how I can use my sociological skills in the tech world. Journey mapping excites me,
+because it offers a platform for me to just that.
 
 #### Grit
 
@@ -159,7 +181,7 @@ How you incorporated feedback from your team members and what you learned about 
     learning this about myself, and I'm excited to keep this framework top of mind as I move on to new projects with different teams.
 
 #### Finding Opportunities
-* [Link to Completed Deliverables](https://trello.com/b/GrDk8PVl/job-tracker-mike-schutte)
+* [Job Tracker (Trello)](https://trello.com/b/GrDk8PVl/job-tracker-mike-schutte)
 
 With all the anxiety associated with the job hunt, I appreciated how grounded this session was. It consisted entirely of *how* to actually find connections and opportunities.
 My biggest takeaway from this session is to not be intimidated or disappointed if a company does not have job listings in my area. If that is the case,
@@ -251,8 +273,6 @@ Here are my cold outreach emails:
 
     —
 
-Include takeaways and deliverables from each session.
-
 #### (Session Name)
 
 Include takeaways and deliverables from each session.
@@ -261,7 +281,9 @@ Include takeaways and deliverables from each session.
 
 ### Giving Feedback
 
-(feedback from me)
+#### Community 
+
+
 
 #### Bike Share
 
