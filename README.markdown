@@ -153,7 +153,6 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
   * Description of your top three priorities in the job search and why
   * Action plan for how to overcome perceived barriers to the job search
   * Six cold outreach emails sent
-  * One informational interview
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
