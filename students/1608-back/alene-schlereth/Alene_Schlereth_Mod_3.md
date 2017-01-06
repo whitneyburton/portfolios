@@ -88,6 +88,9 @@ Items search controller could use refactoring with various params cases, otherwi
 
 (takeaways from session)
 
+https://github.com/turingschool/gear-up/blob/master/grit.markdown
+
+
 #### Microaggressions
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
