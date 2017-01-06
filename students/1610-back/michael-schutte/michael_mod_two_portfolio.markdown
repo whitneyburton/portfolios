@@ -103,6 +103,18 @@ of equality and open-mindedness is not our default setting. It would be easy to 
 but I take comfort in the idea of trying to transcend that impulse in order to achieve a greater sense of what it means to be a human on this earth, and not just
 from a particular and narrow slice of experience.
 
+#### Grit
+
+Grit is not a single thing. It involves enduring fascination in something. It has to do with the acceptance of frustration. It requires meanigful work. It is nothing without a belief in growth. 
+I really liked the supplementary articles for this session. It's dangerous to think that there is some simple solution to success, 
+like having grit. I'm skeptical of any silver-bullet solution. Humans are just more complex than that.
+The articles and this session highlight that grit thrives when in concert with other aspects like passion and humility. I think that naked grit, or grit just all by itself,
+can be damaging and soul-hollowing. There has to be purpose for the blood, sweat, tears. I've been extremely fortunate in my Turing experience so far, because
+I have a lot of life experience that helped me cultivate grit, and programming happens to be something I thoroughly enjoy. 
+
+Still, I like the idea of eternal opportunity for improvement, so to make my work more meaningful, I want to do a better job of helping my fellow Turing students,
+and continuing to take a teaching or mentorship role as I move on in my career. 
+
 #### Session Name
 
 Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
