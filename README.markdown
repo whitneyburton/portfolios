@@ -26,12 +26,13 @@ portfolio should be written/submitted
 * Individual Projects: All individual projects. A passing final project is required.
 * Group Projects: All paired projects
 * Professional Development:
-  * DTR Memo from 1 paired project
+  * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
+  * Feedback: Paragraph; Self-solicited from project pairs
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
 * Community:
   * A recap of reflections from Gear Up
-* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+  * Summary of how you've contributed to the community
 
 ** To Repeat the Module **
 
@@ -49,11 +50,11 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
  * Linked List
  * Number Guesser
  * Idea Box
-* Feedback: Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
 * Professional Development:
-  * DTR Memo from 1 paired project
+  * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
+  * Feedback: Paragraph; Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
 * Community:
   * A recap of reflections from Gear Up
 
@@ -74,9 +75,8 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
   * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
   * Seven cold emails sent to seven different contacts from the company tracker
   * Attend two networking events
-  * Two paragraph reflection on:
-    1. Details on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
-    2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+  * Paragraph reflection on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
+  * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -92,9 +92,8 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
   * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
   * Seven cold emails sent to seven different contacts from the company tracker
   * Attend two networking events
-  * Two paragraph reflection on:
-    1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
-    2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+  * Paragraph reflection on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
+  * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -104,14 +103,21 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 ### Module 3 (Back-end)
 
 * Individual Assessment
-* Included Projects: Self-Directed Project, Rales Engine, Cloney Island
+* Included Projects: Self-Directed Project (including your pitch), Rales Engine, Cloney Island
 * Bonus Project (not required): APIcurious
 * Feedback: Self-Solicited and collected from Cloney Island
 * Something valuable you've taken away from your posse.
 * Professional Development:
   * Turing alumni portfolio
   * Pitch for personal project/Documentation showing your thought process
-  * Completed Flower Exercise
+  * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
+    * Transferable Skills
+    * Favorite/Most Valued Knowledge
+    * Favorite working conditions
+    * Favorite people to work with/serve
+    * Values/Goals/Mission in life
+    * Preferred places to live
+    * Preferred salary and level of responsibility
   * Three mock interviews
 * Community:
   * A recap of reflections from Gear Up
@@ -119,13 +125,20 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 ### Module 3 (Front-end)
 
 * Individual Assessment
-* Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
+* Included Projects: Self-Directed Project (including your pitch), Remember (Number of Completed User Stories), Weather Forecast
 * Bonus Project (not required): None
 * Feedback: Self-Solicited and collected from Weather Forecast and Remember
 * Professional Development:
   * Turing alumni portfolio
   * Pitch for personal project/Documentation showing your thought process
-  * Completed Flower Exercise
+  * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
+    * Transferable Skills
+    * Favorite/Most Valued Knowledge
+    * Favorite working conditions
+    * Favorite people to work with/serve
+    * Values/Goals/Mission in life
+    * Preferred places to live
+    * Preferred salary and level of responsibility
   * Three mock interviews
 * Community:
   * A recap of reflections from Gear Up
@@ -138,8 +151,8 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * At least one Blog Post with peer review - Open-Source or Technical from PD sessions.
 * Link to your PR for opensource contributions
 * Professional Development:
-  * Description of your top three priorities in the job search and why
-  * Action plan for how to overcome perceived barriers to the job search
+  * Paragraph description of top three priorities in the job search and why
+  * 1-2 paragraph action plan for how to overcome perceived barriers to the job search
   * Six cold outreach emails sent
 * The Plan
 * Community:
@@ -150,8 +163,8 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 
 *
 * Professional Development:
-  * Description of your top three priorities in the job search and why
-  * Action plan for how to overcome perceived barriers to the job search
+  * Paragraph description of top three priorities in the job search and why
+  * 1-2 paragraph action plan for how to overcome perceived barriers to the job search
   * Six cold outreach emails sent
 * Community:
   * A recap of reflections from Gear Up
