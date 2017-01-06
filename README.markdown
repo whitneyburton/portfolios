@@ -148,7 +148,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Individual Assessment
 * Required Project: Capstone Project
   * Should include points breakdown per project
-* At least one Blog Post with peer review - Open-Source or Technical from PD sessions.
+* At least one Blog Post with at least a paragraph of peer review - Open-Source or Technical from PD sessions.
 * Link to your PR for opensource contributions
 * Professional Development:
   * Paragraph description of top three priorities in the job search and why
