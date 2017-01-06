@@ -98,9 +98,17 @@ This project was made to fill the requirments of the RailsMini Spec. It is a sit
 ## C: Professional Skills
 
 ### Gear Up
-#### Session Name
+#### Grit
 
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+Grit is the combination of hard work and passsion. It can often be the determining factor in a person's ability to succeed in a challenging situation and many people are looking for ways to develop grit in themselves and others. Grittiness is an important attribute to develop as a Turing student, and we brainstormed ways to promote this attribute in ourselves. One solution is to look for ways to make our work more meaningful, such as implementing our skills on side projects that we care about and help other students to learn difficult material.
+
+#### Journey Mapping
+
+Journey Mapping is all about considering how someone's background and experience could effect their interaction with a progam or process. By empathizing with the user of a product and attempting to understand how they approach it, developers can improve their process and results. To practice this exercise, our group journey mapped our decision to attend Turing and discovered motovations, pain points and results.
+
+#### MicroAgressions
+
+This Gear Up provoked more conversation amoungst the community than any other I have participated in. Before and after the session, I had discussions on the validity of microagressions, and the difference between impact and intent. I attended the small group session and I found it to be a very sensitive and productive conversation. Between this session and the interactions I had outside of it, I found this to be a very effective idea to introduce into the Turing community.
 
 ### Professional Development Workshops
 #### (Session Name)
