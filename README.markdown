@@ -148,12 +148,12 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Individual Assessment
 * Required Project: Capstone Project
   * Should include points breakdown per project
-* At least one Blog Post with at least a paragraph of peer review - Open-Source or Technical from PD sessions.
 * Link to your PR for opensource contributions
 * Professional Development:
   * Paragraph description of top three priorities in the job search and why
   * 1-2 paragraph action plan for how to overcome perceived barriers to the job search
   * Six cold outreach emails sent
+  * At least one Blog Post with at least a paragraph of peer review - Open-Source or Technical
 * The Plan
 * Community:
   * A recap of reflections from Gear Up
