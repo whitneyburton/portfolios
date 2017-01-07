@@ -103,7 +103,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 ### Module 3 (Back-end)
 
 * Individual Assessment
-* Included Projects: Self-Directed Project (including your pitch), Rales Engine, Cloney Island
+* Included Projects: Self-Directed Project, Rales Engine, Cloney Island
 * Bonus Project (not required): APIcurious
 * Feedback: Self-Solicited and collected from Cloney Island
 * Something valuable you've taken away from your posse.
@@ -125,7 +125,7 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 ### Module 3 (Front-end)
 
 * Individual Assessment
-* Included Projects: Self-Directed Project (including your pitch), Remember (Number of Completed User Stories), Weather Forecast
+* Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
 * Bonus Project (not required): None
 * Feedback: Self-Solicited and collected from Weather Forecast and Remember
 * Professional Development:
