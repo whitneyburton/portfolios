@@ -108,9 +108,26 @@ I like the topics of grit and resilience. The thoughts that everyone is fighting
 Also at this point in Turing, I feel that the tools are all available to us now. Some more practiced than others, but none the less the tool box is fully open to a degree. I really find joy in diving into the capabilities in tech and to try and wrap my mind around what is possible in the future has become a sort of driving amitibion for me.
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Finding New Opportunities
+This session was very infomative. I think the tracking times and topics of when you contacted a job prospect is very smart. It seems to also be a way to allow me to hone in on what I actually want in a tech job, while at the same time keeping things realistic.
+[Trello JobBoard](https://trello.com/b/O3eXcvQC/jesse-shipley-job-tracker)
 
-Include takeaways and deliverables from each session.
+#### Agile Practices & Project Management && Collaborative Communication
+This topic really solidified alot of information with me, as well as a lot of my person behavior. I had the pleasure and displeasure to work with a large variety of people. All of which had vastly changing ways of 'leading'. I have also had the opportunity to lead others in many different environments. 
+
+The articles provided were very very good reads, and I will continue to think of my team above my self in future opportunities to lead. I once had a Commander, Brigadier General Samuel Mahaney. Who always led and closed with his token saying; 'Take care of the people, and they will take care of the mission.' This continues to prove to be effective leadership in my eyes, and those of others as the articles and content of Allison's lesson would go on to teach.
+
+#### Feedback II
+I learned that one of my greatest strengths is also my biggest weakness. I have a very even keeled personality. I do not show much effects from stress and remain calm under pressure. Which is a great strength, I am able to keep peace and steer difficult tasks and topics without over reacting or getting bogged down. I lean on this heavily as it is a peaceful way for me to tackle tasks and problems. 
+
+However, I learned the negative effect of this as well. As did my fellow team mates on the Bike Share project. I allowed myself to fall into a pretty big rabbit hole navigating a particular problem during the project. And because I perceived the groups attitude as already stressed I didn't want to add any more fuel to the fire, so I pushed on. 
+
+Had I stopped to ask questions early on, the problem would have been fixed in the same 15 mins it took to clarify the issue with my team mates and I could have moved on to a new task to push development. This was an important lesson, and one I will carry forward with me. I now like to ask early questions/see examples of something I am maybe 'fuzzy' on. So that I can be of more use to my team.
+
+#### Cold Outreach
+This was an interesting topic and concept to the class as a whole I felt. I do like the idea of putting a friendly email out to show interest and to broaden your connections in a world that seems to be so very connected. I have been making it a point to attend all guest speakers and to add each one to my LinkedIn as well. To be able to lean on the experience here at Turing and connect on the subjcts of topics brought to us that I feel are interesting and engaging.
+
+I have reached out to contacts at companies like: HyprLoco, CaptainU, Granikis, and the City of Ft. Collins.
 
 ## D: Feedback
 
