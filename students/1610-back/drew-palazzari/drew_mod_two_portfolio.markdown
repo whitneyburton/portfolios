@@ -58,9 +58,39 @@ Overall Sal was impressed and pleased with our project. We fulfilled all expecta
 
 ### Individual Projects
 
-#### [Project Name](include-link-to-production-site-here)
+#### [Job Tracker](https://github.com/Dpalazzari/job-tracker)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+[Heroku Link](https://desolate-river-68572.herokuapp.com/)
+
+I think Job Tracker is a good example of all I've learned this mod (which is a ton). It was hard, but I thoroughly enjoyed using TDD to drive the development. It was hard, but not so hard that I couldn't figure aspects of the markdown out. I think this is a testament to my growth as a developer and learner within the Turing program.
+
+hey @Dpalazzari awesome job on this. i left ya some comments. let me know if you have questions! good work pushing it to heroku too 👍
+
+i encourage you to commit more often!
+
+Rubric
+
+1) Database, Relationships, and Migrations
+4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+
+2) Routes
+3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
+
+3) Controllers
+3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.
+
+4) ActiveRecord
+3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
+
+5) Views
+3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
+
+6) User Experience
+4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
+
+7) Testing
+3: Project has a running test suite that tests and multiple levels but fails to cover some features
+
 
 ## C: Professional Skills
 
@@ -73,7 +103,11 @@ I think Microaggressions are a problem. I also think that some things that some 
 
 I did not get much from this Gear-up, to be honest. It was not for lack of effort though. I think one of the big takeaways I got from this Gear up, is the ability to see what other problems a User might have when visiting a Rails application for the first time. You want your apps to be easy to use, clear, and awesome. Nobody wants their users to have big problems or issues because of lack of clarity or confusion on your app.
 
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+#### Grit
+
+This Gear up was about grit. In my opinion, it should have been called passion. There is very little passion involved when it comes to grit. A person with grit persists, and endures through hardship, despit the hardship. 
+
+Either way, it did teach the value in being resiliently passionate about your hobbies. Even when it gets hard at Turing, you cannot give up. I enjoy coding, and I don't want one step-back to get in the way of my achievement of becoming a profession web developer.
 
 ### Professional Development Workshops
 
@@ -101,6 +135,8 @@ I have a pretty sweet Johari Window, too. I am curious as to what negvative adje
 
 Remember those contacts everyone found in the Finding Opporunities workshop? Well it's time to start reaching out to them.
 Went over how to find someone who works for a company that interests you, and then how to communicate with that person in a friendly way. The goal was to get a tech interview/tour of their job.
+
+So far, of the four I sent, I have gotten responses (and tour's: CaptainU and iTriage) from two of them. My job now is to reach out to more senior level people within companies and send cold outreach to them.
 
 
 ## D: Feedback
@@ -142,7 +178,9 @@ Group Feedback: We could have used Waffle more often and organized the waffle pa
 
 ## E: Community Participation
 
-Attended every Gear-up and as many posse meet-ups as I could. Paired with Module 1 students wehn they signed up for my pairings. Collaborated positively with several of my classmates at many times during Mod 2. I was always available to help people. I was particularly popular for requests for help during Job Tracker.
+Attended every Gear-up and as many posse meet-ups as I could. Paired with Module 1 students when they signed up for my pairings. Collaborated positively with several of my classmates at many times during Mod 2. I was always available to help people. I was particularly popular for requests for help during Job Tracker.
+
+Nick G and I have paired very successfully on our Little Shop project. Group Harmony is pretty top notch, everyone does their job, has a light hearted attitude, and gets along very well.
 
 
 ## Final Review
