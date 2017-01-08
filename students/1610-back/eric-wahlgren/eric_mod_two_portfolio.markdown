@@ -27,7 +27,7 @@ Add your notes and scores here.
 
 #### [Bike-Share](include-link-to-production-site-here)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+[link to notes](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/bike_share/nick_g_eric_david.md)
 
 #### [Litte-Shop](https://serene-beyond-86450.herokuapp.com/)
 
@@ -37,15 +37,36 @@ If the project was graded, add your evaluation scores and notes. If the project 
 
 #### [Blogger](https://github.com/cews7/blogger)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+Blogger was a great introduction to Rails. It let us pick up on how to CRUD an application without making the developer bear of the burden of styling all the pages. It was methodical.
 
 #### [Mix-Master](https://github.com/cews7/mix_master)
 
-
+Mix-Master seemed like a slight extension on Blogger. I can't remember how it differed which I think comes as a result of working all the time in a Rails environment. 
 
 #### [Job-Tracker](https://hidden-forest-51950.herokuapp.com/)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+Overall, good work with this. be sure to test all the methods your write and test sad paths. let me know if you have questions on my comments. 
+
+**Database, Relationships, and Migrations**
+* 4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+
+**Routes**
+* 3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
+
+**Controllers**
+* 3: Significant logic exists in the controllers. Methods may be more complicated than necessary. Most functionality is still supported.
+
+**ActiveRecord**
+* 3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
+
+**Views**
+* 2: Significant logic leaks into the view or remains in controllers and developers show some difficulty in identifying strategies to refactor.
+
+**User Experience**
+* 3: The application has been styled, but the user may need to use the nav-bar to enter a URL or back button to get to access some functionality.
+
+**Testing**
+* 2: Project has sporadic use of tests and multiple levels
 
 ## C: Professional Skills
 
