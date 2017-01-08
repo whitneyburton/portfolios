@@ -1,18 +1,19 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Eric Wahlgren-Sauro - M2 Portfolio
 
 ## End of Module Reflection
 
 What did you get technically and professionally out of this module? How are you going to use it in the future?
+I learned how to build, in Ruby on Rails and Sinatra, a fully deployable web application. The process for doing so involves a multitude of steps that I have become proficient with, since starting the module. The greatest value offered from this module is learning how to CRUD out an application. This process involves needing to know how to add content and style a page, create routes, and use a database to store information about our model objects. In the coming module, I plan on using what I've learned about Active Record to help me be successful on Rails-Engine. 
 
 ## Self-Evaluated Rubric Scores
 
 Find the rubric near the end of this document.
 
 * **A: End of Module Assessment**: X
-* **B: Individual & Group Work**: X
-* **C: Professional Skills**: X
-* **D: Feedback**: X
-* **E: Community Participation**: X
+* **B: Individual & Group Work**: 3
+* **C: Professional Skills**: 4
+* **D: Feedback**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -24,13 +25,25 @@ Add your notes and scores here.
 
 ### Group Projects
 
-#### [Project Name](include-link-to-production-site-here)
+#### [Bike-Share](include-link-to-production-site-here)
+
+If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+
+#### [Litte-Shop](https://serene-beyond-86450.herokuapp.com/)
 
 If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
 
 ### Individual Projects
 
-#### [Project Name](include-link-to-production-site-here)
+#### [Blogger](https://github.com/cews7/blogger)
+
+If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+
+#### [Mix-Master](https://github.com/cews7/mix_master)
+
+
+
+#### [Job-Tracker](https://hidden-forest-51950.herokuapp.com/)
 
 If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
 
@@ -38,6 +51,8 @@ If the project was graded, add your evaluation scores and notes. If the project 
 
 ### Gear Up
 #### Session Name
+
+#### Grit
 
 Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
 
@@ -50,15 +65,34 @@ Include takeaways and deliverables from each session.
 
 ### Giving Feedback
 
-(feedback from me)
+**Marisa Burton**
+
+*Marisa carried a can-do-attitude on every step of Little-Shop. We often would pair together over screenhero and be equally lost in what to do next and right when I would be tempted to justify taking a break, she'd perk up with an idea on how to solve the current issue. She is smart, but often unsure of herself. While this isn't untrue of many Turing students, she sometimes comes across as being too hard on herself at times. She frequently verbally represented, how I was feeling on the inside as we worked through problems together. She's a hard worker and a fun teammate. She loves George Michael!*
+
+**Jason Conrad**
+
+*Jason is the undisputed pop-culture guru of the co-hort. His light-hearted approach to our work, married with intense desire to push forward struck the perfect balance on Little-Shop. When doing our DTR as a group, and struggling to come up with an idea for the store, Jason perked up with the idea of doing all things mini for our Little-Shop project. Once he gets excited about something, he's off to the races. He scrolled through six pages of Google results to find a perfect video on setting up a cart for our project. He seeded all the data and had fun doing it.*
+
+**David Knott**
+
+**Molly Brown**
+
+**Mike Schutte**
+
+*Endowed with a deep fascination regarding the process of programming, Mike raises my expectations for test coverage and well refactored code. Beyond programming, he is among my favorite people at Turing. Ten minutes of conversation always leaves me with new considerations to reflect on. He is a fully-developed human with a capacity for seeing multiple layers of need coming from people, simultaneously. Consequently, Mike is highly flexible in his approach and always strives to achieve a well presented outcome.*
 
 ### Being a Community Member
 
-(feedback to me)
+**Nick Isaacs (mentor)**
+
+
+**Mike Schutte**
+
+*A wise woman once told me that the smartest person in the room doesn’t have all the answers, they just ask the right questions. Eric is a phenomenally present and curious listener in all situations, and delivers questions at will that reflect this unrivaled sense of intention. In the hustle bustle lifestyle of Turing, Eric is a continual breath of fresh and authentic air that always reminds me to think beyond the scope of a single project or problem, and remember why this work matters and how satisfying it can be. He demonstrates respect and empathy in a multitude of ways, and I am sincerely grateful for his presence during my Turing experience.*
 
 ## E: Community Participation
 
-How did you actively contribute to the Turing community?
+I paired with module one students frequently, attended Friday speakers, and helped lead a spike session on Machine Learning APIs. 
 
 ------------------
 
