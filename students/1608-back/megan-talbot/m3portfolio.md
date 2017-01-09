@@ -40,7 +40,7 @@ This project focused on learning how to consume an external API. We were able to
 
 (Intro)
 
-#### (Rails Engine)
+#### Rails Engine
 
 * [GitHub URL](https://github.com/meganft/rails-engine-api)
 * [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
@@ -55,30 +55,30 @@ Notes: -
 
 **1. Completion**
 
-* **4: Project completes all base requirements according to the spec harness.**
+* **(4): Project completes all base requirements according to the spec harness.**
 
 ### Technical Quality
 
 **2. Test-Driven Development**
 
-* **4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.**
+* **(4): Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.**
 
 **3. Code Quality**
 
-* **3: Project demonstrates solid code quality and MVC principles.**
+* **(3): Project demonstrates solid code quality and MVC principles.**
 
 **4. API Design**
 
-* **4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.**
+* **(4): Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.**
 
 **5. Queries**
 
-* **4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.**
+* **(4): Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.**
 
 
 (feedback to me)
 
-#### (Cloney Island)
+#### Cloney Island
 
 * [GitHub URL](https://github.com/rtravitz/pushpin)
 * [Original Assignment](http://backend.turing.io/module3/projects/cloney_island)
@@ -124,6 +124,7 @@ Notes: -
 
 
 
+
 ## D: Professional Skills
 (Intro)
 
@@ -134,7 +135,7 @@ Notes: -
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown
 )
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Unfortunately, I missed this Gear Up, as I was in Chicago for a funeral. :(
 
 #### (Journey Mapping)
 
