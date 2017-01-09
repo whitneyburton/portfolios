@@ -43,7 +43,7 @@ Bike Share was a sinatra project that utilized ActiveRecord methods to organize 
 
 It was the first group Project of our Cohort. I was grouped with Kyle Heppenstall and Josh Cohen. It went really well!
 
-Overall Sal was impressed and pleased with our project. We fulfilled all expectations, and had excellent testing. Room for improvement in our styling, but let's be honest...thats for front-end developers.
+Overall Sal was impressed and pleased with our project. We fulfilled all expectations, and had excellent testing. Room for improvement in our styling.
 
 ###Evaluation Scores
 1)Functional Expectations: 3
