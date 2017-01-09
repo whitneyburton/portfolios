@@ -3,7 +3,7 @@
 ## End of Module Reflection
 
 I came into Module 2 with a desire to not fall behind like I did in Module 1. I will do all the homework, every night.
-Throughout the Module, I have been working on my personal website as well. YOu can find it, and any links to blog posts below:
+Throughout the Module, I have been working on my personal website as well. You can find it, and any links to blog posts below:
 
 * [Personal Website](Dpalazzari.github.io)
 
