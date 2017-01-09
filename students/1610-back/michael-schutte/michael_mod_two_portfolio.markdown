@@ -11,11 +11,11 @@ As a community member, I want to take a leadership role in holding extra-curricu
 
 Find the rubric near the end of this document.
 
-* **A: End of Module Assessment**: X
-* **B: Individual & Group Work**: X
-* **C: Professional Skills**: X
-* **D: Feedback**: X
-* **E: Community Participation**: X
+* **A: End of Module Assessment**: 4
+* **B: Individual & Group Work**: 4
+* **C: Professional Skills**: 4
+* **D: Feedback**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -73,6 +73,14 @@ particularly on our test driven development and analytics methods.
 From Caroline Powell:
 Mike is known for his positive attitude and ability to write super clean super efficient code. There are almost always 10-20 sets of code that you could write to get the same job done. Mike is notorious for finding the absolute best code solution out of those 20 possibilities. He pays a lot of attention to detail and his appetite for exploration and performance benchmarking will no doubt lead to high-performance sites as he continues his development career. He is also a great communicator and works hard to keep up team morale. The last night of the project we ran into an issue and had to stay up late working to resolve it. We were all fading but Mike kept our team spirit high and that really helped us to push through in the end.
 
+From Molly Brown:
+
+Mike, I am equally grateful for both the positive attitude and energy your contributed to our team as well as your carefully thought-out code. In particular I was really impressed by your work to keep up team morale as we worked late the night before the project was due and your ability to pitch in and help any of us work through code issues, despite the fact that were were all working on very different aspects of the project - it speaks highly of your skills with the concepts we have learned thus far. That being said, in future projects I would suggest that you remain mindful of the fact that your fluency with the material and desire to write the best code possible can sometimes conflict with the needs of your other team members to work through issues at their own speed. However, you also demonstrated that you are open and responsive to constructive feedback and make immediate changes as needed, which I have the utmost respect for. Thank you again for all you contributed and helping make our project and team finish strong.
+
+From Ethan Bennett:
+
+Schutte: Your optimistic attitude definitely gave me a positive outlook during the long hours, and it seems like that’s true for the group as a whole, too. You’re committed to writing high-quality code, and you're totally undeterred in that commitment by any bugs or rabbit holes. I think both of us dug into our areas of the app to an extent that made it tough to split tasks, so that’s probably something to think about in the future. I don’t think it was really a problem in this context, though.
+
 #### [Scoopful (Little Shop)](scoopful.herokuapp.com)
 
 If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
@@ -85,15 +93,49 @@ Job Tracker is a simple Rails application that keeps track of information for so
 upon it to include full CRUD functionality for companies, jobs, and categories, and the ability to create contacts for companies and comments for jobs.
 Conceptually, this project employs a relational database (PostgreSQL), CRUD functionality, test-driven development, MVC modeling, and basic HTML/CSS styling for the user experience.
 
-ADD EVAL
+## Evaluation Rubric
+
+Comments from Casey Cumbow: hey @tmikeschu awesome job on this project. love all the commits. let me know if you have questions about where some of your methods should go and the purpose of those helper modules 👍
+
+### 1. Database, Relationships, and Migrations
+
+* 4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+
+### 2. Routes
+
+* 4: Routes are defined for all functionality and not any additional functionality. All routes conform to RESTful conventions for resources, and routes to pages that are not specifically for resources stored in the database are not named in a way that an experienced developer would find surprising.
+
+### 3. Controllers
+
+* 3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.
+
+### 4. ActiveRecord
+
+* 3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
+
+### 5. Views
+
+* 3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
+
+### 6. User Experience
+
+* 4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
+
+### 7. Testing
+
+* 3: Project has a running test suite that tests and multiple levels but fails to cover some features
 
 #### [Carrot Candy (Rails Mini Project)](carrotcandy.herokuapp.com)
 
-REFLECTION 
+This was a great opportunity to apply the functionality of user authentication and authorization, sharpen my CSS skills, and revisit some classic model interaction, reminiscent of my days in Module 1.
+Initially overwhelmed at the thought of authenticating users, I was surprised by the simplicity of it all (i.e., comparing ID numbers, and redirecting if they don't match). 
 
-#### [Project Name](include-link-to-production-site-here)
+In terms of CSS, I used this as an bootstrap-less challenge, and made all of my styling by hand, relying heavily on the CSS flexbox display value. With this tool, I am happy with how 
+my forms and general grid items turned out, and will be sure to keep flexbox in mind for future styling.
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+Everything was pretty straight forward in terms of workflow until I hit the need to add points to a user. All the sudden it felt like I was back to the Mod 1 Ruby exercises
+where we had to add a pencil to a bag from another class or something. I soon realized though that adding points is essentially updating a user's attributes, and the solution path
+clarified from there. Overall, I'm happy I put time and effort into this optional project. It was a perfect combination of low stakes and opportunity for exploration.
 
 ## C: Professional Skills
 
@@ -273,17 +315,103 @@ Here are my cold outreach emails:
 
     —
 
-#### (Session Name)
+    To: Laura Hasemeyer, Developer at Bracket Labs
 
-Include takeaways and deliverables from each session.
+    laura@bracketlabs.com
+
+    Subject: Interest in current projects at Bracket Labs
+
+    Hi Laura,
+
+    I'm a junior developer at Turing School of Software and Design, and as a big fan of enabling productivity and quality work, I'd love to hear about what kind of projects you all are working on. 
+
+    I'm especially interested in your experience moving from a bootcamp to the professional tech world.
+
+    Are you free sometime, maybe Thursday (1/19) at 2pm, for coffee at Proper Grounds? Let me know if another time works better. 
+
+    Thanks for considering!
+
+    Mike
+
+    —
+
+    To: Sam Estenson, Operations Coordinator at Google
+
+    estenson.sam@gmail.com
+
+    Hey Sam!
+
+    First, Happy 2017. I hope it's looking sharper and brighter than a Led Zeppelin laser show. But enough about me...
+
+    I want to get the ball rolling, however slowly, on shooting for the moon in terms of a position at Google. What do you think are my first steps? I'm about halfway through Turing, and my remaining time, as I think I mentioned before, is basically taking my game from JV to Varsity.
+
+    I'm pretty aware of the improbability of becoming a full on developer or engineer, but am still very curious about what you think would be a good fit for my skill set and passions.
+
+    Thanks so much for even offering to consider this, and I look forward to seeing what you think!
+
+    —
+
+    To: Chris Rothe, CTO at Red Canary
+
+    chris@redcanary.com
+
+    Subject; Junior dev interested in current security projects
+
+    Hi Chris,
+
+    I’m a junior developer at Turing School of Software and Design, and I’m interested in security development.
+
+    As someone with deep enthusiasm for programming and for challenging the status quo, I’m particularly drawn to Red Canary’s work and ethos, and would love to hear about your current projects.
+
+    Are you free to get coffee sometime, maybe Thursday (1/19) at 10am, at Little Owl off 16th and Blake? Let me know if another time works better for you.
+
+    Thanks for considering,
+
+    Mike
+
+    —
+
+    To: Rob Hill, Engineer at Pivotal Labs
+
+    rhill@pivotal.io
+
+    Subject: Junior dev interested in Pivotal Labs projects and culture
+
+    Hi Rob,
+
+    I’m a junior developer at Turing School, and I’m very interested in Pivotal Labs’ process and culture.
+
+    As a fellow boot camper, I’d love to hear about what you’re working on and about experience as an engineer at Pivotal.
+
+    Are you free to get coffee sometime, maybe Wednesday (1/18) at 10am, at Metropolis Coffee off Kensing and Central? Let me know if another time works better for you.
+
+    Thanks for considering,
+
+    Mike
+
+    —
+
+#### Networking
+
+TAKEAWAYS AND DELIVERABLES
 
 ## D: Feedback
 
 ### Giving Feedback
 
-#### Community 
+#### Community
 
+Ali deserves a wealth of gratitude and appreciation for her work on this module’s Pahlka project. As I was struggling to keep my head above water, I was always amazed to see new and meaningful PR’s from her on our Edualize project. She has seemingly endless endurance, and her passion for making a difference is contagious to all that interact with her. I’m grateful for having learned a bit about thinking beyond my own work this module, and can’t wait to see what Ali does with her incredible drive.
 
+A wise woman once told me that the smartest person in the room doesn’t have all the answers, they just ask the right questions. Eric is a phenomenally present and curious listener in all situations, and delivers questions at will that reflect this unrivaled sense of intention. In the hustle bustle lifestyle of Turing, Eric is a continual breath of fresh and authentic air that always reminds me to think beyond the scope of a single project or problem, and remember why this work matters and how satisfying it can be. He demonstrates respect and empathy in a multitude of ways, and I am sincerely grateful for his presence during my Turing experience.
+
+Jean has incredibly contagious enthusiasm for learning. Whereas many can become obsessed with technical knowledge in a way that builds barriers between them and others, Jean makes his passions approachable and welcoming to all who care to listen. In my few but meaningful interactions with Jean, it is clear that he lives a life full of intention and empathy, and I’m grateful for his initiative in the Turing community to show us more of what the wonderful world of programming has to offer.
+
+Jon is an incredibly passionate and caring person. I have a hard time imagining anyone not feeling welcomed and fundamentally seen by Jon. He has an uncanny knack for getting excited about any and all things, and this enthusiasm is noticeably contagious in a group setting. I see Jon as a deeply humble and motivated person, which I consider to be essential ingredients for success. I’m better for knowing him, and take great comfort in the fact that everyone who meets Jon will be inspired to live with authenticity and curiosity.
+
+Valerie, thanks for being a regular attendee at Drills for Skills. I really appreciated your positive attitude and commitment to talk about and get more exposure to code. Good luck on your future work, and I hope to see you at the next drills session!
+
+Nick: I just wanted to reach out and share my gratitude for your support on starting up Drills for Skills. I don’t think we ended up getting the turnout we expected or wanted, but we made the most of the sessions and I think they helped everyone involved. Your thirst for knowledge and good form in programming is contagious, and I always love doing a little research binge on whatever topic comes up in conversation. Where many would leave thoughts such as ‘I wonder how to…’ , you more than anyone I know are ready to explore right away. Thanks for making the hunt for skills and knowledge a fun an collaborative one. I hope to work on a project with you one day!
 
 #### Bike Share
 
@@ -293,9 +421,13 @@ Caroline, I really enjoyed working on Bike Share together. Your initiative to de
 
 Ethan, you were incredibly adaptive throughout the timeline of the project. You contributed significantly to most parts of the projects, and proved to be a great point person for our front end design. On future projects, I recommend you work on following syntax conventions for HTML/CSS so it is more readable to others. Thanks for all your hard work and calm demeanor during Bike Share, and for taking our UX to the next level.  Best of luck on your upcoming projects!
 
-#### Little Shop
+#### Scoopful (Little Shop)
 
+Annie,
 
+Amy,
+
+Kyle,
 
 ### Being a Community Member
 
@@ -310,7 +442,7 @@ How did you actively contribute to the Turing community?
   challanges and new content for five.
 
   * Pahlka Posse: We focused this mod on a project that visualizes important education data
-  T o make schooling information accessible to more people. I played a key role in parsing PDF tables, desisgning the relational database,
+  To make schooling information accessible to more people. I played a key role in parsing PDF tables, desisgning the relational database,
   and seeding this data into a Rails application.
 
 ------------------
