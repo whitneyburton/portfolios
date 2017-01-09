@@ -83,7 +83,19 @@ Schutte: Your optimistic attitude definitely gave me a positive outlook during t
 
 #### [Scoopful (Little Shop)](scoopful.herokuapp.com)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+* [Github Repo](https://github.com/akintner/scoopful)
+
+For the Little Shop project, our team created an e-commerce application that brings the bulk aisle online. 
+Users can browse through items by category, add them to their cart, and create an account to checkout their order.
+Administrators of the site can edit items and view order history.
+
+## Evaluation Rubric
+
+
+
+## Feedback
+
+
 
 ### Individual Projects
 
