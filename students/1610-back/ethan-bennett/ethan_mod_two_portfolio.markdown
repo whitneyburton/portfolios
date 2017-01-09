@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Ethan Bennett - M2 Portfolio
 
 ## End of Module Reflection
 
@@ -22,17 +22,65 @@ Add your notes and scores here.
 
 ## B: Individual & Group Work
 
-### Group Projects
+# Group Projects
 
-#### [Project Name](include-link-to-production-site-here)
+## Bike Share (include-link-to-production-site-here)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+### 1. Functional Expectations
 
-### Individual Projects
+* 3.5: Application fulfills base expectations and adds two extensions
 
-#### [Project Name](include-link-to-production-site-here)
+### 2. ActiveRecord
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+* 4: Appropriate ActiveRecord methods are used to query the database and live in the appropriate model. No Ruby is used to organize data after database queries.
+
+### 3. User Experience and Conventions
+
+* 4: Project uses Sinatra methods and ERB templates to display both resources and non-resource related views with appropriate routes, and HTTP verbs. All functionality can be accessed in the application where expected based on the spec. User experience is exceptional ('client ready') and all pieces of the application can be accessed without entering addresses manually in the nav bar.
+
+### 4. Code Organization/Quality
+
+* 4: Code is organized so that the main application file is primarily concerned with HTTP requests/responses. Other logic is refactored to be included in other Ruby objects, and code responsible for analyzing information in the database exists in the appropriate ActiveRecord models. Methods are appropriately refactored to have a specific purpose and generally do not exceed eight to ten lines. The purpose of methods is generally clear and easy to understand/follow. Logic is not included in ERB views, and is instead in the controller or model as appropriate.
+
+### 5. Testing
+
+* 3: Application is well tested but does not balance isolation and integration/feature tests
+
+### 6. Working Collaboratively
+
+* 3: Good use of branches, pull requests, and a project-management tool.
+
+# Individual Projects
+
+## Job Tracker (https://afternoon-mountain-19392.herokuapp.com/)
+
+### Conceptual Understanding
+
+ * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
+
+### Analytic/Algorithmic Thinking
+
+ * 3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+
+### Feature Completeness
+
+ * 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+
+### Rails Syntax & API
+
+ * 3: Developer is able to utilize Rails methods and structures, but needs some direct guidance
+
+### Rails Style
+
+ * 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs
+
+### Testing
+
+ * 4: Developer understands errors produced by tests, and uses them to drive development independently
+
+### Collaboration
+
+ * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ## C: Professional Skills
 
@@ -50,11 +98,19 @@ Include takeaways and deliverables from each session.
 
 ### Giving Feedback
 
-(feedback from me)
+**To Mike:** Your optimistic attitude definitely gave me a positive outlook during the long hours, and it seems like that’s true for the group as a whole, too. You’re committed to writing high-quality code, and you're totally undeterred in that commitment by any bugs or rabbit holes. I think both of us dug into our areas of the app to an extent that made it tough to split tasks, so that’s probably something to think about in the future. I don’t think it was really a problem in this context, though.
+
+**To Molly:** You did a great job managing our team. It was impressive that your response to our inactive Waffle board was to make an executive decision and try a different format (the Google doc), and I think the second try “clicked” more with our group. It felt especially helpful towards the end, as we were crossing things off and finishing up. Since you want to be a project manager in the future, it might be worth thinking about how you’d respond to a situation that called for a stronger arbitration of work, refereeing group squabbles, etc, but it’s awesome that none of that was necessary in this project.
+
+**To Caroline:** It was a huge advantage for the rest of us to have you (and your experience with database structuring) on our team for our first project like this. Despite that, I never got the impression that you were leaving us behind—you handled being the DB expert well. Occasionally there were some mix-ups with terminology, so that’s something to think about in your next group project (but it was definitely never a big deal).
 
 ### Being a Community Member
 
-(feedback to me)
+**From Mike:** Ethan, you were incredibly adaptive throughout the timeline of the project. You contributed significantly to most parts of the projects, and proved to be a great point person for our front end design. On future projects, I recommend you work on following syntax conventions for HTML/CSS so it is more readable to others. Thanks for all your hard work and calm demeanor during Bike Share, and for taking our UX to the next level.  Best of luck on your upcoming projects!
+
+**From Caroline:** I had the pleasure of working with Ethan on the Bike Share project. Ethan is a really great team member and is very easy to get along with. He keeps the team dynamics together. Ethan really stepped up in our project to take the lead on styling with Bootstrap, which was new and uncomfortable territory for us all at the time. Our site looked really nice when it was finished, especially for a first time endeavor. We all agree that was one of the strongest reasons that we got such great scores on the project. I was really impressed with Ethan’s ability to learn a new skill so fast and produce great results right off.
+
+**From Molly:** Ethan, I felt like you were the most versatile member of our team and did an awesome job of offering help on every aspect of our project. I was particular impressed by your ability to jump into the visual design and structure of our website and put together a finished product that showcased our data very well in a short time frame. It was a huge confidence boost for me personally to know that we had a good-looking first project to showcase right from the start of Mod 2. My one suggestion for improvement would be to keep the lines of communication open with team members when working remotely. Again, thanks for all your work and being the swiss army knife of our team!
 
 ## E: Community Participation
 
