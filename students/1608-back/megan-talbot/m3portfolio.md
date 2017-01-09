@@ -128,6 +128,13 @@ Did the team push themselves by taking risks?
 
 ### Gear Up
 
+#### (Microagressions)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown
+)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
 #### (Journey Mapping)
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
