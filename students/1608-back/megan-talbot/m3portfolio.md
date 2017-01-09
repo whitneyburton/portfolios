@@ -3,7 +3,7 @@
 ## Areas of Emphasis
 
 In this module I hope so gain a deeper understanding of Rails. I also want to learn more about consuming APIs and building my own. 
-Additionally, I want to prepare myself for interviews by focusing on exercisms every week. I hope to make new contacts in both the Boston and Denver areas.
+Additionally, I want to prepare myself for interviews by focusing on exercisms every week. I hope to make new contacts in both the Boston and Denver areas through a dedicated outreach effort.
 
 ## Rubric Scores
 
@@ -28,7 +28,7 @@ Additionally, I want to prepare myself for interviews by focusing on exercisms e
 * [GitHub URL](https://github.com/meganft/api-curious-github)
 * [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
 
-This project focused on learning how to consume an external API. We were able to choose a popular API to then consume it to essentially recreate the website on our own. I chose Github and was very happy with my results! I was nervous about learning how to conusme and API, but this project was very helpful because we had to do it many times.
+This project focused on learning how to consume an external API. We were able to choose a popular API to then consume it to essentially recreate the website on our own. I chose Github and was very happy with my results! I was nervous about learning how to conusme and API, but this project was very helpful because we had to do it many times. I'm happy to say I am very comfortable consuming an API.
 
 (evaluation comments)
 
@@ -45,18 +45,43 @@ This project focused on learning how to consume an external API. We were able to
 * [GitHub URL](https://github.com/meganft/rails-engine-api)
 * [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
 
-(description)
+This project had us create our own RESTful API to display sales data.  We built single-responsibility controllers to expose many different record endpoints, as well as more complex business relationship endpoints. This required advanced active record queries, which was very challenging but also very rewarding.  It was a hard project but I learned a ton! I thought building an API would be much more complicted than it was. I also learned about customzing JSON output and a lot more about queries databases.
 
-(evaluation comments)
+*Evaluation:*
 
-(evaluation scores)
+Notes: -
+
+### Feature Delivery
+
+**1. Completion**
+
+* **4: Project completes all base requirements according to the spec harness.**
+
+### Technical Quality
+
+**2. Test-Driven Development**
+
+* **4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.**
+
+**3. Code Quality**
+
+* **3: Project demonstrates solid code quality and MVC principles.**
+
+**4. API Design**
+
+* **4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.**
+
+**5. Queries**
+
+* **4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.**
+
 
 (feedback to me)
 
 #### (Cloney Island)
 
-* [GitHub URL](https://github.com/meganft/rails-engine-api)
-* [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
+* [GitHub URL](https://github.com/rtravitz/pushpin)
+* [Original Assignment](http://backend.turing.io/module3/projects/cloney_island)
 
 (description)
 
@@ -66,8 +91,7 @@ This project focused on learning how to consume an external API. We were able to
 
 (feedback to me)
 
-Client Expectations
-
+*Client Expectations*
 Team completed all the user stories and requirements set by the client.
 3: As expected
 
@@ -78,20 +102,16 @@ Project exhibits a production-ready user experience.
 Team used a project management tool to keep their project organized.
 3: As expected
 
-Git Workflow
-
+*Technical Expectations*
 Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
 3: As expected
 
-
 Test Quality
-
 Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
 4: Better than expected
 3: As expected
 
 Code Quality
-
 Project demonstrates well-factored code and a solid grasp of MVC principles.
 3: As expected
 
