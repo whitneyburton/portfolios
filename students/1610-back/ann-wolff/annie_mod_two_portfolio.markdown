@@ -24,7 +24,7 @@ Add your notes and scores here.
 
 ### Group Projects
 
-#### [BikeShare](include-link-to-production-site-here)
+#### [BikeShare](https://github.com/wlffann/bike-share)
 
 ##### 1. Functional Expectations
 
@@ -91,7 +91,7 @@ We followed a tutorial for this project, which was our first introduction to rai
 
 * 4: Project has a running test suite that exercises the application at multiple levels
 
-#### [TutorialShare]()
+#### [TutorialShare](https://tutorial-share.herokuapp.com)
 
 This project was made to fill the requirments of the RailsMini Spec. It is a site inspired by Instructables.com that allows users to create and share craft tutorials and browse other user's projects by category. It features authentication and authorization of users and admins. Users can create and edits projects and onlt view other user's submissions. Only admins can create categories. 
 
@@ -111,9 +111,20 @@ Journey Mapping is all about considering how someone's background and experience
 This Gear Up provoked more conversation amoungst the community than any other I have participated in. Before and after the session, I had discussions on the validity of microagressions, and the difference between impact and intent. I attended the small group session and I found it to be a very sensitive and productive conversation. Between this session and the interactions I had outside of it, I found this to be a very effective idea to introduce into the Turing community.
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Collaborative Communication & Agile Project Management
 
-Include takeaways and deliverables from each session.
+Strong leadership and clarity of purpose is important to the success of an agile project. We discussed ways to encourage these needs in a group setting by encouraging and identifying the stages of development of a team. 
+
+#### Feedback II
+
+#### Finding Oppurtunities
+
+#### Cold Outreach
+
+As strange as it feels to email someone out of the blue, I have had quite a bit of success making new connections with my cold outreach emails. I have scheduled several meetings with people at companies I find very interesting and one of my cohort-mates has already gotten a job interview from her cold-outreach!
+
+#### Networking
+
 
 ## D: Feedback
 
@@ -123,7 +134,11 @@ Include takeaways and deliverables from each session.
 
 ### Being a Community Member
 
-(feedback to me)
+"Annie was amazing as a group partner in our Bike Share project. I always enjoyed her upbeat attitude in class, and eagerness to bond and become friends as a large class. This attitude was even more apparent in a group of four. She immediately found ways to make everything more exciting. Her planning, preparedness and strong technical toolset was vital to the progress of our project." -- Jesse Shipley
+
+"You bring a huge amount of positive energy to any team that is just very inspiring." -- Laslo Balogh
+
+"Annie was a pleasure to work with. She is both quick-witted and is a quick learner. Annie was a major force and foundation in our team. We wouldn’t have finished the project without her major contributions. I was very appreciative of her walking me through the steps of design, and she took the time to explain things to me when I was having trouble. I really enjoyed working on the final iteration with her, as she made it look so easy when other people were struggling. She was always reminding us to smile even when we felt a bit overworked and tired, and that helped lighten up the atmosphere." -- Marisa Burton
 
 ## E: Community Participation
 
