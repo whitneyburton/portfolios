@@ -90,8 +90,7 @@ Cold outreach isn't nearly as scary as it seems initially. The hardest part is t
 
 #### Feedback II
 
-
-
+I haven't internalized the information shared in either feedback lesson. Old habits die hard and I'm not used to giving feedback in a particular manor beyond gut instinct on how to appropriately, with tact, give feedback to teammates. During the session, we were given hypotheical situations to work with in teams of three. I was with Kyle and Brett. I don't recall what our comments were, but I do remember reflecting on the fact that when given feedback people are often quick to avoid wanting to admitting that the person giving the feedback may have a point. Framing the feedback is crucial. I appreciated doing the Johari Window activity. It gave to opportunity to better understand myself and consider how people actually view me versus what I think people think of me. 
 ## D: Feedback
 
 ### Giving Feedback
