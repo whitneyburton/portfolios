@@ -2,13 +2,11 @@
 
 ## End of Module Reflection
 
--What did you get technically and professionally out of this module? How are you going to use it in the future?
-
-Professionally I learned how to find and reach out to Developers around the world. I also improved my group working dynamics. I enjoy working within groups and have had only great experiences with them. 
+Professionally, I learned how to find and reach out to Developers around the world. I also improved my group working dynamics. I enjoy working within groups and have had only great experiences with them. 
 
 Technically, I learned about Ruby on Rails and got an invaluable understanding of what it means to be a web developer. I can make a semi-decent web application with user authentication/authorization in under an hour, including basic styling. Module 2's teaching style really helped me learn a lot of content in a very effective way. I love using Rspec and reading rails error messages- mostly because I have had a lot of practice, and I rarely see an error message that I do not understand. 
 
-Throughout the mod, I also made adjustments to my personal website, which I like a lot:
+Throughout the mod, I also made adjustments to my personal website, which I enjoyed:
 
 * [Personal Website](Dpalazzari.github.io)
 
