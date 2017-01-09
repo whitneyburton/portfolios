@@ -2,8 +2,13 @@
 
 ## End of Module Reflection
 
-I came into Module 2 with a desire to not fall behind like I did in Module 1. I will do all the homework, every night.
-Throughout the Module, I have been working on my personal website as well. You can find it, and any links to blog posts below:
+-What did you get technically and professionally out of this module? How are you going to use it in the future?
+
+Professionally I learned how to find and reach out to Developers around the world. I also improved my group working dynamics. I enjoy working within groups and have had only great experiences with them. 
+
+Technically, I learned about Ruby on Rails and got an invaluable understanding of what it means to be a web developer. I can make a semi-decent web application with user authentication/authorization in under an hour, including basic styling. Module 2's teaching style really helped me learn a lot of content in a very effective way. I love using Rspec and reading rails error messages- mostly because I have had a lot of practice, and I rarely see an error message that I do not understand. 
+
+Throughout the mod, I also made adjustments to my personal website, which I like a lot:
 
 * [Personal Website](Dpalazzari.github.io)
 
@@ -107,7 +112,7 @@ I did not get much from this Gear-up, to be honest. It was not for lack of effor
 
 This Gear up was about grit. In my opinion, it should have been called passion. There is very little passion involved when it comes to grit. A person with grit persists, and endures through hardship, despit the hardship. 
 
-Either way, it did teach the value in being resiliently passionate about your hobbies. Even when it gets hard at Turing, you cannot give up. I enjoy coding, and I don't want one step-back to get in the way of my achievement of becoming a profession web developer.
+Either way, it did teach the value in being resiliently passionate about your hobbies. Even when it gets hard at Turing, you cannot give up. I enjoy coding, and I don't want one step-back to get in the way of my achievement of becoming a professional web developer.
 
 ### Professional Development Workshops
 
@@ -115,13 +120,13 @@ It's good to be a great professional, and a skilled Developer.
 
 #### Finding Opportunites
 
-We were told to start looking for companies we'd like to work for, and find a contact or someone who works for that company. We must have 10 companies with contacts by December 16th.
+We were told to start looking for companies we'd like to work for, and find a contact or someone who works for that company. We must have 10 companies with contacts by December 16th. I have slowly added more companies over the course of the mod.
 
 UPDATE: time to start sending cold outreach emails to those contacts!
 
 #### Intro to Project Management
 
-Biggest takeaway was the difference between agile and waterfall workflows, and why Turing students should pretty much always use an agile workflow.
+Biggest takeaway was the difference between agile and waterfall workflows, and why Turing students should pretty much always use an agile workflow. This lecture was really useful in my success in Bike Share. 
 
 #### Feedback II
 
