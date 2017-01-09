@@ -161,7 +161,9 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 
 ### Module 4 (Front-end)
 
-*
+* Individual Assessment
+* Required Project: Capstone Project, Imposter Syndrome, Curiously Native, Jet Fuel
+  * Should include points breakdown per project
 * Professional Development:
   * Paragraph description of top three priorities in the job search and why
   * 1-2 paragraph action plan for how to overcome perceived barriers to the job search
