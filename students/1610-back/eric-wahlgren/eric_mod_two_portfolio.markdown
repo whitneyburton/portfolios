@@ -71,26 +71,30 @@ Overall, good work with this. be sure to test all the methods your write and tes
 ## C: Professional Skills
 
 ### Gear Up
-#### Session Name
-
 #### Micro-Agressions
 
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
-
-This was pretty heated, as I recall. I was in a group with Daniel, Jesse, and Drew. We had 
+This was pretty heated, as I recall. I was in a group with Daniel, Jesse, and Drew. We arrived at consensus that if micro-agressions represent of cutting edge of intolerant behavior, then we are making good progress as a society. With that said, I recall being a bit annoyed that this neo-liberal agenda was being pushed on me. Freedom of speech is in jeopardy when we start to make safe-spaces. I'm continually making efforts to run the latest moral reasoning software on my wet-ware. 
 
 #### Journey Mapping
 
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+Wasn't in attendance. 
 
 #### Grit
 
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+I really appreciated being with my co-hort for this session, as it allowed for strong emotions to come through that otherwise might have not. I was grouped with Ethan and Amy during the questions portion. Both expressed strong emotions towards the subject, saying that the TED Talk's explanation of grit came across as being passion. These concepts were argued to be very distinct ideas and that grit was being hijacked. Paraphrased, we agreed that grit is dealing with a situation in which we could have given up due to difficulty, but opted not to. 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Agile Practices & Project Management
 
-Include takeaways and deliverables from each session.
+For Bike-Share we didn't take advantage of agile practices nearly as much compared to Little-Shop. For Bike-Share we worked almost exclusively face-to-face, which had merit, but didn't make us nearly as efficient as if we had worked independently more often. In Little-Shop, our team worked remotely more often than not. Our communication mostly took place over Slack, and Google Hangout. For more complicated work, we parked at TVs together during our work-time during the week days at Turing.
+
+#### Cold Outreach
+
+Cold outreach isn't nearly as scary as it seems initially. The hardest part is tracking down emails. I used a Chrome plug-in and Excel email generator to track down the emails for people I found on LinkedIn. I reached out to SendGrid, GoSpotCheck, PivotalLabs, Twitter, AspenWare, Gusto, and CaptainU. I heard back from the director of engineering at the Boulder office for Twitter; made contact with a developer from SendGrid; made contact with a developer from GSC; made contact with a developer from Gusto. I have meetings set up with someone from each of these companies. 
+
+#### Feedback II
+
+
 
 ## D: Feedback
 
