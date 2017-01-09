@@ -167,9 +167,16 @@ When meeting people in a networking environment, you will need to approach conve
 
 After graduating from Turing, we will need to hit the ground running to find a job in a timely manner.  During this session we planned out what we could be doing now to build relationships which we can rely on during the job search.
 
-#### (Session Name)
+#### Innovative Problem Solving
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
+* [Link to Completed Deliverables](https://docs.google.com/document/d/1zImMHWjvy6WZVfkunz_HnMDFuRSiGAf_HvM2Y87IZ1I/edit?usp=sharing)
+
+This session helped me flesh out my ideas for my personal project. I liked that it was directly relatable to our project that we had to pitch a few days later.  I was also glad that I had the opportunity to have someone poke holes in my plan.
+
+#### Flower Exercise 
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
