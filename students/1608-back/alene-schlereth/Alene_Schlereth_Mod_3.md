@@ -90,7 +90,7 @@ Items search controller could use refactoring with various params cases, otherwi
 * [GitHub URL](https://github.com/AliSchlereth/pushpin)
 * [Original Assignment](http://backend.turing.io/module3/projects/cloney_island)
 
-(description)
+Pushpin is a clone of [Thumbtack](https://www.thumbtack.com/) . Our group built this website utilizing multi tenancy for four user roles. I enjoyed digging into S3 for file storage, Twilio 2Factor Authentication,  Intricate DB relationships, and building out a Post endpoint for an internal API.  
 
 (evaluation comments)
 
@@ -109,7 +109,7 @@ Team always used pull requests and commented on pull requests prior to introduci
 3: As expected
 Test Quality
 Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
-3: As expected
+3.5: As expected
 Code Quality
 Project demonstrates well-factored code and a solid grasp of MVC principles.
 3: As expected
@@ -126,12 +126,6 @@ Did the team push themselves by taking risks?
 (Intro)
 
 ### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(takeaways from session)
-
 
 #### Microaggressions
 
@@ -195,7 +189,13 @@ After graduating from Turing, we will need to hit the ground running to find a j
 Pahlka Posse:  
 As a co-leader of Pahlka Posse, I have enjoyed supporting our team in getting things done. This module, we set up our work flow differently than in the past. Friday Spike sessions were formatted as tutorials/code alongs where we Pahlka memebers learned about and then lead a session on a tech topic/skill that was applicable to what we needed to learn to build our app.  These included PDF scraper, d3/LoDash, API Building, and Security. This spread the leadership amongst more Pahlka members and made our Friday Spike sessions more meaningful for visitors.  
 
-from Schuttte: Ali deserves a wealth of gratitude and appreciation for her work on this module’s Pahlka project. As I was struggling to keep my head above water, I was always amazed to see new and meaningful PR’s from her on our Edualize project. She has seemingly endless endurance, and her passion for making a difference is contagious to all that interact with her. I’m grateful for having learned a bit about thinking beyond my own work this module, and can’t wait to see what Ali does with her incredible drive.
+from Schuttte: Ali deserves a wealth of gratitude and appreciation for her work on this module’s Pahlka project. As I was struggling to keep my head above water, I was always amazed to see new and meaningful PR’s from her on our Edualize project. She has seemingly endless endurance, and her passion for making a difference is contagious to all that interact with her. I’m grateful for having learned a bit about thinking beyond my own work this module, and can’t wait to see what Ali does with her incredible drive.  
+
+Productivity Lunch:  
+Attended weekly productivity lunch where I built relationships and talked about strategies for a healthier happier, more productive life.  I enjoyed chatting with this group of people from week to week.  
+
+Joan Clarke Society:  
+Attended weekly Joan Clarke Society coffee where I built relationships with fellow female Turing devs across cohorts and with alumni. I really appreciated the opportunity to ask questions and gain advice on developement work, group project dynamics, and general balancing life as a Turing student.   
 
 ------------------
 
