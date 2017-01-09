@@ -192,7 +192,10 @@ After graduating from Turing, we will need to hit the ground running to find a j
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Pahlka Posse:  
+As a co-leader of Pahlka Posse, I have enjoyed supporting our team in getting things done. This module, we set up our work flow differently than in the past. Friday Spike sessions were formatted as tutorials/code alongs where we Pahlka memebers learned about and then lead a session on a tech topic/skill that was applicable to what we needed to learn to build our app.  These included PDF scraper, d3/LoDash, API Building, and Security. This spread the leadership amongst more Pahlka members and made our Friday Spike sessions more meaningful for visitors.  
+
+from Schuttte: Ali deserves a wealth of gratitude and appreciation for her work on this module’s Pahlka project. As I was struggling to keep my head above water, I was always amazed to see new and meaningful PR’s from her on our Edualize project. She has seemingly endless endurance, and her passion for making a difference is contagious to all that interact with her. I’m grateful for having learned a bit about thinking beyond my own work this module, and can’t wait to see what Ali does with her incredible drive.
 
 ------------------
 
