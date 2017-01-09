@@ -32,7 +32,7 @@ Add your notes and scores here.
 
 Group Projects are both challenging and rewarding. I enjoy them far more than individual projects. Two minds are always better than one.
 
-### Lobbify
+### Lobbify (Little Shop Final Project)
 
 [Website App](http://lobbify.herokuapp.com/)
 [Source Code](https://github.com/drod1000/lobbify)
