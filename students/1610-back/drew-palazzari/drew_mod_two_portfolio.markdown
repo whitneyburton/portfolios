@@ -188,6 +188,17 @@ We stayed late and demonstrated commitment and work ethic. We were willing and r
 
 Group Feedback: We could have used Waffle more often and organized the waffle page better. Our agile approach was not always on point. We should have wrapped up the stations chunk better before moving on to further iterations. The organization of our models directory could have been clearer. We should have focused more on base expectations instead of adding extra features (time cap them). We could have been more detail-oriented when merging pull requests (and creating pull requests that are more discrete and smaller). Communication was too reliant on everyone being here. Styling was minimalist.
 
+Jesse's Feedback to me:
+
+Drew and I paired on many class assignments, including our project Job Tracker.
+Drew brings alot of technical capability and ideas to programming and this cohort.
+He never shys away from challenging his knowledge with code, and is outstanding 
+at expressing his thought processes while programming.
+
+I enjoy having Drew in our cohort, his friendly attitude and willingness to learn 
+really enhances the experience of Turing. I look forward to working with, and 
+completing future projects at Turing with Drew.
+
 ## E: Community Participation
 
 Attended every Gear-up and as many posse meet-ups as I could. Paired with Module 1 students when they signed up for my pairings. Collaborated positively with several of my classmates at many times during Mod 2. I was always available to help people. I was particularly popular for requests for help during Job Tracker.
