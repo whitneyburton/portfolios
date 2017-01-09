@@ -25,7 +25,7 @@ Add your notes and scores here.
 
 ### Group Projects
 
-#### [Bike-Share](include-link-to-production-site-here)
+#### [Bike-Share](https://github.com/cews7/bike-share)
 
 [link to notes](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/bike_share/nick_g_eric_david.md)
 
@@ -73,6 +73,16 @@ Overall, good work with this. be sure to test all the methods your write and tes
 ### Gear Up
 #### Session Name
 
+#### Micro-Agressions
+
+Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+
+This was pretty heated, as I recall. I was in a group with Daniel, Jesse, and Drew. We had 
+
+#### Journey Mapping
+
+Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+
 #### Grit
 
 Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
@@ -87,19 +97,18 @@ Include takeaways and deliverables from each session.
 ### Giving Feedback
 
 **Marisa Burton**
-
 *Marisa carried a can-do-attitude on every step of Little-Shop. We often would pair together over screenhero and be equally lost in what to do next and right when I would be tempted to justify taking a break, she'd perk up with an idea on how to solve the current issue. She is smart, but often unsure of herself. While this isn't untrue of many Turing students, she sometimes comes across as being too hard on herself at times. She frequently verbally represented, how I was feeling on the inside as we worked through problems together. She's a hard worker and a fun teammate. She loves George Michael!*
 
 **Jason Conrad**
-
 *Jason is the undisputed pop-culture guru of the co-hort. His light-hearted approach to our work, married with intense desire to push forward struck the perfect balance on Little-Shop. When doing our DTR as a group, and struggling to come up with an idea for the store, Jason perked up with the idea of doing all things mini for our Little-Shop project. Once he gets excited about something, he's off to the races. He scrolled through six pages of Google results to find a perfect video on setting up a cart for our project. He seeded all the data and had fun doing it.*
 
 **David Knott**
+*I worked on Bike-Share with David. Whenever I'm around him, I feel he's about to explode with energy. His intensity is a great asset to any team. He loves his work and it shows. He's a bottomless well of idea for how to solve an issue. A de-bugging machine, really. At moments, I felt out of the loop on his thought process and subsequently lost my bearings.*
 
 **Molly Brown**
+*I'll keep this concise because Molly would want that. Molly's diligence was the glue of our little-shop team. Whenever we'd be off task as a collective, she'd be quick to bring our attention back to the demands of the project. I appreciated her ability to stay focused. She also was able to make meaningful progress, working independently.*
 
 **Mike Schutte**
-
 *Endowed with a deep fascination regarding the process of programming, Mike raises my expectations for test coverage and well refactored code. Beyond programming, he is among my favorite people at Turing. Ten minutes of conversation always leaves me with new considerations to reflect on. He is a fully-developed human with a capacity for seeing multiple layers of need coming from people, simultaneously. Consequently, Mike is highly flexible in his approach and always strives to achieve a well presented outcome.*
 
 ### Being a Community Member
@@ -108,8 +117,10 @@ Include takeaways and deliverables from each session.
 
 
 **Mike Schutte**
-
 *A wise woman once told me that the smartest person in the room doesn’t have all the answers, they just ask the right questions. Eric is a phenomenally present and curious listener in all situations, and delivers questions at will that reflect this unrivaled sense of intention. In the hustle bustle lifestyle of Turing, Eric is a continual breath of fresh and authentic air that always reminds me to think beyond the scope of a single project or problem, and remember why this work matters and how satisfying it can be. He demonstrates respect and empathy in a multitude of ways, and I am sincerely grateful for his presence during my Turing experience.*
+
+**Marisa Burton**
+*I really enjoyed working with Eric on Little Shop. He perseveres and is great to pair with and work through a problem together. Eric is always focused on completing a task until it’s completed, and he knows when to ask for help when he needs it. Eric knows a lot more than he thinks he does, and I hope he will be more confident with coding in the future.*
 
 ## E: Community Participation
 
