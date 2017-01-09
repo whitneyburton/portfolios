@@ -32,6 +32,16 @@ Add your notes and scores here.
 
 Group Projects are both challenging and rewarding. I enjoy them far more than individual projects. Two minds are always better than one.
 
+### Lobbify
+
+[Website App](http://lobbify.herokuapp.com/)
+[Source Code](https://github.com/drod1000/lobbify)
+
+Project Manager: Daniel Rodriguez
+Group members: Nick Gheorghita, Daniel Rodriguez, Laszlo Balogh, Drew Palazzari
+
+We decided to make an app where Lobbyists could peruse and purchase outings with United States Senators.
+
 ### Blogger
 
 I chose to add Blogger to my portfolio simply because of how useful it was. I learned the most from this tutorial, bar none. It walked the developer through the whole process of building a rails application, and was still around for reference during confusion at other times/different projects. It also went through every error message one might see while working on Rails.
@@ -56,8 +66,7 @@ Overall Sal was impressed and pleased with our project. We fulfilled all expecta
 5)Testing: 4
 6) Working Collaboratively: 4
 
-* [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/bike_share/drew_kyle_josh.md)
-
+* [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/bike_share/drew_kyle_josh.md) 
 
 ### Individual Projects
 
