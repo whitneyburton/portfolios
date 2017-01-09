@@ -47,7 +47,7 @@ This project focused on learning how to consume an external API. We were able to
 
 This project had us create our own RESTful API to display sales data.  We built single-responsibility controllers to expose many different record endpoints, as well as more complex business relationship endpoints. This required advanced active record queries, which was very challenging but also very rewarding.  It was a hard project but I learned a ton! I thought building an API would be much more complicted than it was. I also learned about customzing JSON output and a lot more about queries databases.
 
-*Evaluation:*
+ __**Evaluation:**__
 
 Notes: -
 
@@ -91,37 +91,38 @@ Notes: -
 
 (feedback to me)
 
-*Client Expectations*
-Team completed all the user stories and requirements set by the client.
-3: As expected
+ __**Evaluation Scores:**__
 
-Project exhibits a production-ready user experience.
-3: As expected
-2.5: Below expectations
+### Client Expectations
 
-Team used a project management tool to keep their project organized.
-3: As expected
+**Team completed all the user stories and requirements set by the client.**
+* **3: As expected**
 
-*Technical Expectations*
-Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
-3: As expected
+**Project exhibits a production-ready user experience.**
+* **2.5: (As expected / Below expectations)**
 
-Test Quality
-Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
-4: Better than expected
-3: As expected
+**Team used a project management tool to keep their project organized.**
+* **3: As expected**
 
-Code Quality
-Project demonstrates well-factored code and a solid grasp of MVC principles.
-3: As expected
+### Technical Expectations 
 
-Bonus
+**Team always used pull requests and commented on pull requests prior to introducing code into the master branch.**
+* **3: As expected**
 
-We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn’t pan out. Earn a bonus point to offset a score above.
+### Test Quality
+**Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?**
+* **3.5: (As expected / Better than expected)** 
 
-Did the team push themselves by taking risks?
-1: Yes
-0: No
+### Code Quality
+**Project demonstrates well-factored code and a solid grasp of MVC principles.**
+* **3: As expected**
+
+###Bonus
+
+**Did the team push themselves by taking risks?**
+* **1: Yes**
+
+
 
 ## D: Professional Skills
 (Intro)
