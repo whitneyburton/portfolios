@@ -29,10 +29,6 @@ Add your notes and scores here.
 
 [link to notes](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/bike_share/nick_g_eric_david.md)
 
-#### [Litte-Shop](https://serene-beyond-86450.herokuapp.com/)
-
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
-
 ### Individual Projects
 
 #### [Blogger](https://github.com/cews7/blogger)
