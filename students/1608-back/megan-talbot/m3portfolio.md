@@ -23,7 +23,7 @@ Additionally, I want to prepare myself for interviews by focusing on exercisms e
 
 (Intro)
 
-#### (API Curious)
+#### API Curious
 
 * [GitHub URL](https://github.com/meganft/api-curious-github)
 * [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
@@ -40,24 +40,25 @@ This project focused on learning how to consume an external API. We were able to
 
 (Intro)
 
-#### Rails Engine
+### Rails Engine
 
 * [GitHub URL](https://github.com/meganft/rails-engine-api)
 * [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
 
 This project had us create our own RESTful API to display sales data.  We built single-responsibility controllers to expose many different record endpoints, as well as more complex business relationship endpoints. This required advanced active record queries, which was very challenging but also very rewarding.  It was a hard project but I learned a ton! I thought building an API would be much more complicted than it was. I also learned about customzing JSON output and a lot more about queries databases.
 
- __**Evaluation:**__
+
+__***Evaluation:***__
 
 Notes: -
 
-### Feature Delivery
+#### Feature Delivery
 
 **1. Completion**
 
 * **(4): Project completes all base requirements according to the spec harness.**
 
-### Technical Quality
+#### Technical Quality
 
 **2. Test-Driven Development**
 
@@ -78,7 +79,7 @@ Notes: -
 
 (feedback to me)
 
-#### Cloney Island
+### Cloney Island
 
 * [GitHub URL](https://github.com/rtravitz/pushpin)
 * [Original Assignment](http://backend.turing.io/module3/projects/cloney_island)
