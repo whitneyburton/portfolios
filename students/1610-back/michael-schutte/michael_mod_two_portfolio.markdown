@@ -419,6 +419,10 @@ A wise woman once told me that the smartest person in the room doesn’t have al
 
 Jean has incredibly contagious enthusiasm for learning. Whereas many can become obsessed with technical knowledge in a way that builds barriers between them and others, Jean makes his passions approachable and welcoming to all who care to listen. In my few but meaningful interactions with Jean, it is clear that he lives a life full of intention and empathy, and I’m grateful for his initiative in the Turing community to show us more of what the wonderful world of programming has to offer.
 
+Hey Phyllis! Just want to say thank you for your commitment to Drills for Skills this module! I really appreciate and respect your drive to continually improve your work. Stick with the drills and it will continue to pay off. Thanks again for bringing a positive attitude for every session, and good luck on your future work.
+
+Hey Noah! Just want to say thanks for all your hard work on the Pahlka project this mod, as well as your general kindness and enthusiasm (especially for security). My Turing experience is brightened by your presence. Finish strong!
+
 Jon is an incredibly passionate and caring person. I have a hard time imagining anyone not feeling welcomed and fundamentally seen by Jon. He has an uncanny knack for getting excited about any and all things, and this enthusiasm is noticeably contagious in a group setting. I see Jon as a deeply humble and motivated person, which I consider to be essential ingredients for success. I’m better for knowing him, and take great comfort in the fact that everyone who meets Jon will be inspired to live with authenticity and curiosity.
 
 Valerie, thanks for being a regular attendee at Drills for Skills. I really appreciated your positive attitude and commitment to talk about and get more exposure to code. Good luck on your future work, and I hope to see you at the next drills session!
@@ -435,15 +439,16 @@ Ethan, you were incredibly adaptive throughout the timeline of the project. You 
 
 #### Scoopful (Little Shop)
 
-Annie,
+Annie: I'm so stoked we got to work on this project together! I've always respected how much innovative drive you bring to programming. You seem undaunted by the need to explore and learn new technologies, and I think it gives the group an extended sense of can-do attitude. In terms of critical feedback, I recommend working 'smarter not harder' in terms of methods and tools. You obviously know how to get things running perfectly, but there were a few instances (e.g., not using before blocks in the specs, using Ruby methods over ActiveRecord or Rails methods) where you could have saved yourself many lines of code and cognitive load. Overall, I'm especially grateful for your commitment to defining and sticking to a clean and efficient workflow process. It definitely elevated our project to the next level. Thanks so much for all your work and meaningful contributions to Scoopful. 
 
-Amy,
+Amy: Fantastic job as project manager for Little Shop. Your attention to detail was essential and made our distribution of work much more efficient and merge-friendly. For future work, I recommend you practice taking a second to slow down when problems or bugs emerge. I got the sense that in these events, your instinct is to expect the worst and act quickly, which can lead to unnecssarily complex decisions. That sense of urgency, of course, also results in very high quality work most times, I just recommend zooming out and deciding if a situation is worth your energy or not. Overall, I'm very glad we got to finally work on a project together, and I can't wait to see the work you do in the future.
 
-Kyle,
+Kyle: I'm very grateful for getting to work with you on this final project. You are an incredibly strong programmer, yet the technical mastery never comes across as arrogant or pretentious. You are an incredibly clear communicator, and demonstrate seemingly endless patience in all your group interactions. I suppose one downside to your competence is that you implemented features on this project without asking any questions, such as the Carrier Wave configuration. Since no questions came up, I didn't even realize so much set up went into the gem, and I didn't know how to use it at first. So, for future work, I recommend that if you go off and do your Kyle thing and learn something new, teach it back to the group with a quick walkthrough or something. Overall, I'm very grateful for the chance to work with you. Thank you for providing so many learning opportunities by sharing your knowledge.
 
 ### Being a Community Member
 
-(feedback to me)
+From Eric Wahlgren-Sauro:
+Mike: Endowed with a deep fascination regarding the process of programming, Mike raises my expectations for test coverage and well refactored code. Beyond programming, he is among my favorite people at Turing. Ten minutes of conversation always leaves me with new considerations to reflect on. He is a fully-developed human with a capacity for seeing multiple layers of need coming from people, simultaneously. Consequently, Mike is highly flexible in his approach and always strives to achieve a well presented outcome.
 
 ## E: Community Participation
 
