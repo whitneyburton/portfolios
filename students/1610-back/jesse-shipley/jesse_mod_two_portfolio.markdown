@@ -1,18 +1,24 @@
-# Jesse Shipley - (M1/M2/M3/M4) Portfolio
+# Jesse Shipley - M2 Portfolio
 
 ## End of Module Reflection
 
-What did you get technically and professionally out of this module? How are you going to use it in the future?
+This module was a great change of pace from module 1. The tools taught in this module are tools that will learn and grow with each of us in various ways, and I feel that the structure of module 2 really let that shine and cultivate as the weeks passed.
+
+This module I really wanted to focus on learning TDD that tested more functions and less logic. Module 1 TDD seemed to be more model testing with some functions but limited in the way were using Minitest. With the introduction of RSpec and Capybara I wanted to learn the '_Progamming like God_' approach from the video we watched during intermission. 
+
+It was difficult to switch from this should match this exactly and function testing as I developed code in module 1, to a more here is what I think would look nice and this is how I wish it would react. It took me most of the module to get a grasp on the tools introduced. As the final week passes, I feel more comfortable in writing tests that push what I can do technically. Seeing the edge cases and sad paths that could exists, writing tests in place of randomly coding and then building an app to pass my tests.
+
+Also the concept of least surprise with Ruby seems to impress me every day, as I find my tests passing in the most easy ways most times and that is actually surprising in itself.
 
 ## Self-Evaluated Rubric Scores
 
 Find the rubric near the end of this document.
 
 * **A: End of Module Assessment**: X
-* **B: Individual & Group Work**: X
-* **C: Professional Skills**: X
-* **D: Feedback**: X
-* **E: Community Participation**: X
+* **B: Individual & Group Work**: 3
+* **C: Professional Skills**: 3
+* **D: Feedback**: 4
+* **E: Community Participation**: 4
 
 -----------------------
 
@@ -24,7 +30,8 @@ Add your notes and scores here.
 
 ### Group Projects
 
-#### [Gryff Outdoor](https://github.com/riverswb/gryff_outdoor)
+#### [Gryff Outdoor](gryff-outdoor.herokuapp.com)
+##### [Repo](https://github.com/riverswb/gryff_outdoor)
 scores here
 
 #### [Bike Share](https://github.com/Sh1pley/bike-share)
@@ -87,6 +94,12 @@ scores here
 
 * 2: Project has sporadic use of tests and multiple levels
 
+#### [Gif Box](https://github.com/Sh1pley/GifBox)
+
+I didn't get as far along on this as I wanted. However, it was when started using _forcasted_ type testing and really trying to approach a TDD directed plan. I used the newness of using an external API, the newness of a sort of non structored project, and my newness to Rails to really just focus on a 'dream driven' design.
+
+Getting familiar with tools like Factory Girl, Shoulda/Matchers, Capybara and Rspec and just jumping into writing tests that seemed to contain the most straightforward method names, and expected functionality helped to show me what Rails and Ruby were capable of.
+
 ## C: Professional Skills
 
 ### Gear Up
@@ -127,7 +140,7 @@ Had I stopped to ask questions early on, the problem would have been fixed in th
 #### Cold Outreach
 This was an interesting topic and concept to the class as a whole I felt. I do like the idea of putting a friendly email out to show interest and to broaden your connections in a world that seems to be so very connected. I have been making it a point to attend all guest speakers and to add each one to my LinkedIn as well. To be able to lean on the experience here at Turing and connect on the subjcts of topics brought to us that I feel are interesting and engaging.
 
-I have reached out to contacts at companies like: HyprLoco, CaptainU, Granikis, and the City of Ft. Collins.
+I have reached out to contacts at companies like: HyprLoco, CaptainU, Granicus, and the City of Ft. Collins.
 
 ## D: Feedback
 
@@ -137,7 +150,7 @@ I have reached out to contacts at companies like: HyprLoco, CaptainU, Granikis, 
 
 ### Being a Community Member
 
-(feedback to me)
+
 
 ## E: Community Participation
 
