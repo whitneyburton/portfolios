@@ -24,12 +24,12 @@ Additionally, I want to prepare myself for interviews by focusing on exercisms e
 
 (Intro)
 
-#### (Project Name)
+#### (API Curious)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/meganft/api-curious-github)
+* [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
 
-(description)
+This project focused on learning how to consume an external API. We were able to choose a popular API to then consume it to essentially recreate the website on our own. I chose Github and was very happy with my results! I was nervous about learning how to conusme and API, but this project was very helpful because we had to do it many times.
 
 (evaluation comments)
 
@@ -41,10 +41,10 @@ Additionally, I want to prepare myself for interviews by focusing on exercisms e
 
 (Intro)
 
-#### (Project Name)
+#### (Rails Engine)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/meganft/rails-engine-api)
+* [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
 
 (description)
 
@@ -58,14 +58,24 @@ Additionally, I want to prepare myself for interviews by focusing on exercisms e
 (Intro)
 
 ### Gear Up
-#### (Session Name)
 
-* [GitHub URL]()
+#### (Journey Mapping)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+
+#### (Grit)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 
 ### Professional Development Workshops
+http://backend.turing.io/professional_development/module_three/
+
 #### (Session Name)
 
 * [Workshop URL]()
