@@ -25,6 +25,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### (Project Name)
 
+* HyperLoop
+
+  This was my self directed project. I was asked by a few co-workers to help code in Python for their HyperLoop Competition. This involved talking to a Raspberry Pi, Arduinos, and Linear Actuators. I had to help develop the File IO system to log all data for later review and also the logic behind the GUI and initialization process for the pod. There is no link currently because the repo is private. 
+
 * [APIcurious](https://github.com/bfpepper/apicurious)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module3/projects/apicurious.md)
 
@@ -85,7 +89,7 @@ This was an interesting project It was my first time dealing with Two factor Aut
 
 * [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-  This was a hard one for me. I was always taught that to achieve something you have to work for it. So the idea of "grit" never really entered my mind. It was just a thing that had to happen in order to get something else. But it was interesting to hear other peoples thoughts about what "grit" means to them. 
+  This was a hard one for me. I was always taught that to achieve something you have to work for it. So the idea of "grit" never really entered my mind. It was just a thing that had to happen in order to get something else. But it was interesting to hear other peoples thoughts about what "grit" means to them.
 
 
 ### Professional Development Workshops
