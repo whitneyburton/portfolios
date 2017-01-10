@@ -77,20 +77,23 @@ This was an interesting project It was my first time dealing with Two factor Aut
 [Flower Exercise](http://imgur.com/kMhADkz)
 
 ### Gear Up
-#### Vote Your Conscience
+#### Microaggressions
 
-* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
+* [Microaggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
 
-It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
+  So the biggest thing I took away from this is that the things I would classify as "being an asshole" are classified as microaggressions by others. The articles we read seemed more about overt racism, sexism, etc then anything else. So it felt like the terminology I've always used is being changed which I think was the biggest thing for me.
+
+* [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+  This was a hard one for me. I was always taught that to achieve something you have to work for it. So the idea of "grit" never really entered my mind. It was just a thing that had to happen in order to get something else. But it was interesting to hear other peoples thoughts about what "grit" means to them. 
 
 
 ### Professional Development Workshops
 #### (Session Name)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* Interview prep
 
-(takeaways from session)
+  This was a great session for me. It was nice to see the other side of the interview process. Knowing what to expect, a road map, was extremely enlightening. It did make me questions my personal skills, so I am working through how to best showcase myself when put into an interview situation.
 
 ## E: Feedback and Community Participation
 
