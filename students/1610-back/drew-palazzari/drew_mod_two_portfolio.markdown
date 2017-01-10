@@ -135,7 +135,15 @@ UPDATE: time to start sending cold outreach emails to those contacts!
 
 Biggest takeaway was the difference between agile and waterfall workflows, and why Turing students should pretty much always use an agile workflow. This lecture was really useful in my success in Bike Share. 
 
+In my group projects we always stuck to the agile workflow. This ensured with finished everything thoroughly and finished it off with styling. It turned out pretty well.
+
+In both group projects, We also elected a project manager. They did an excellent job keeping waffle up to date, setting up meetings, and ensuring that everything got completed. I was glad to have a project manager in both cases.
+
+I cannot think of anything that did not got well.
+
 #### Feedback II
+
+Most of the feedback I gave was praise worthy. When I did give constructive feedback, I tried to focus on glaring issues that the recipient may not be aware of. I learned that I work very well with other people, and am good at keeping the atmosphere light-hearted, despite the stress and high tension that goes along with a project. I also learned that sometimes I have the tendency to practice selective hearing, which I have striven to improve all mod.
 
 Take feedback to heart. Analyze what you feel is wrong and right about the feedback. Try to picture it from your teammates point of view. Have a plan for the next collaboration project so the same problems aren't repeated again.
 
