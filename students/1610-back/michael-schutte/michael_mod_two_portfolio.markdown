@@ -23,6 +23,32 @@ Find the rubric near the end of this document.
 
 Add your notes and scores here.
 
+### Evaluation Criteria
+
+Evaluator: Casey
+
+Student: Mike Schutte
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+1. Conceptual Understanding
+    * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
+    * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
+    * 2: Developer demonstrates some gaps in understanding when asked for additional detail
+    * 1: Developer has fundamental misconceptions about Rails, MVCs, the web, or related topics
+2. Analytic/Algorithmic Thinking
+    * 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+3. Feature Completeness
+    * 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+4. ActiveRecord Syntax and Style
+    * 4: Developer is able to establish and utilize ActiveRecord methods independently and can articulately discuss the difference between relationships at the model and database level
+5. Rails Style
+    * 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
+6. Testing
+    * 4: Developer understands errors produced by tests, and uses them to drive development independently
+7. Collaboration
+    * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
 ## B: Individual & Group Work
 
 ### Group Projects
