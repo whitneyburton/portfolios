@@ -67,10 +67,11 @@ Dan Broadbent: "You stepped up on day 1 and offered to PM the project. Kudos to 
 * [Link to Project PR - Code]()
 * [Link to Project Documentation PR]()
 
-## E. Professional Development
-* [Link to Blog]()
+## E. Professional Development - Technical Blog Post
+* [A Backender Reacting to React](https://medium.com/@susi27/a-backender-reacting-to-react-2ee0dbcc1e87#.8dicf9mu8)
 
-#### Feedback from ___ on Blog
+* Feedback/Review from Sonia Gupta: "There is a minor typo in the first paragraph, it should say "components as reusable objects." I like the bag analogy you use, it's very approachable. Drawing similarities with HTML also makes the reader more comfortable, and your enthusiastic narration is fun to read!"
+
 
 ## F: The Plan
 
