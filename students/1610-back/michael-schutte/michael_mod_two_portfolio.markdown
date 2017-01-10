@@ -12,7 +12,7 @@ As a community member, I want to take a leadership role in holding extra-curricu
 Find the rubric near the end of this document.
 
 * **A: End of Module Assessment**: 4
-* **B: Individual & Group Work**: 4
+* **B: Individual & Group Work**: 3
 * **C: Professional Skills**: 4
 * **D: Feedback**: 3
 * **E: Community Participation**: 3
@@ -20,8 +20,6 @@ Find the rubric near the end of this document.
 -----------------------
 
 ## A: End of Module Assessment
-
-Add your notes and scores here.
 
 ### Evaluation Criteria
 
@@ -117,9 +115,19 @@ Administrators of the site can edit items and view order history.
 
 ## Evaluation Rubric
 
-
+N/A
 
 ## Feedback
+
+From Amy:
+
+It was amazing to get the chance to work with Mike on the final project. He’s a tireless worker who is more than willing to put in long hours to finish up a project or help others with issues and de-bugging. He’s a GREAT set of extra eyes when hunting for problems, and he helped all of us, at some point, with refactoring ideas. He got some great knowledge from his mentor about front-end ideas on our very first day, and that helped us work through some of the more finicky styling issues of the project. Mobile First, now and always. We couldn’t have done it without him!
+
+From Annie:
+
+
+
+From Kyle:
 
 
 
@@ -217,10 +225,6 @@ I have a lot of life experience that helped me cultivate grit, and programming h
 Still, I like the idea of eternal opportunity for improvement, so to make my work more meaningful, I want to do a better job of helping my fellow Turing students,
 and continuing to take a teaching or mentorship role as I move on in my career. 
 
-#### Session Name
-
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
-
 ### Professional Development Workshops
 
 #### Collaborative Communication
@@ -245,7 +249,16 @@ How you incorporated feedback from your team members and what you learned about 
     "norming". On the positive side, we were all very happy with how clear our communication and Github workflow was.
 
 2. Project: Little Shop
-    * 
+    * I look back on this project as a great success. To manage workflow, we had a very detailed DTR to start the project, defining things as granular as Git branch naming conventions.
+    Waffle cards proved to be an immensely useful tool, allowing us to both stay on track and also up to date on each other's work when we were apart.
+    From my perspective, our one storming moment came Friday morning, when Annie expressed a disinterest in styling if I was going to restyle all her work.
+    She felt her work was useless and was frustrated by my actions. I'm very glad she brought this up so directly, because it was able to clarify very quickly that 
+    the only reason I was able to do such quick style tinkering was because of the great CSS structure she designed. I explained that the bulk of the styling was her work, 
+    with just a few extra properties of my own addition. This seemed to dissipate the tention relatively quickly, and we were able to 'norm' on from there.
+
+        This was the first project I've worked on where we had to so trustingly distribute entire pieces of functionality to individual people, and I am grateful for the experience.
+    Where it felt kind of weird and first to put so much trust in my team, the results of our dividing and conquering were borderline euphoric at time. One merged PR and BAM, totally
+    new functionality. After this relatively positive experience, I very much look forward to future group projects.
 
 #### Feedback II
 
@@ -457,30 +470,39 @@ Nick: I just wanted to reach out and share my gratitude for your support on star
 
 #### Bike Share
 
-Molly, thank you for all your work as project manager. You did a fantastic job keeping us on track and productive. Additionally, I really respect how you were undaunted in figuring out the Google Map API, it really took our project to another level. On your next projects, I recommend making an effort to improve your attention to detail on factors such as changes in variable names in order to skip small and preventable bugs. Thanks again for being a great teammate, and good luck on your future projects.
+Molly: thank you for all your work as project manager. You did a fantastic job keeping us on track and productive. Additionally, I really respect how you were undaunted in figuring out the Google Map API, it really took our project to another level. On your next projects, I recommend making an effort to improve your attention to detail on factors such as changes in variable names in order to skip small and preventable bugs. Thanks again for being a great teammate, and good luck on your future projects.
 
-Caroline, I really enjoyed working on Bike Share together. Your initiative to design the database with the utmost care really set the tone of success for the rest of the project. I also appreciate our shared love for simple things like alphabetized dropdown menus. For future projects, I think you could work on listening to alternative solutions when the group is stuck on a bug. You have great focus, and that focus sometimes led to tunnel vision during ruts in the project. Thanks again for taking the lead on the database design, and being a critical player on our path to completing a great project. Good luck on your future work!
+Caroline: I really enjoyed working on Bike Share together. Your initiative to design the database with the utmost care really set the tone of success for the rest of the project. I also appreciate our shared love for simple things like alphabetized dropdown menus. For future projects, I think you could work on listening to alternative solutions when the group is stuck on a bug. You have great focus, and that focus sometimes led to tunnel vision during ruts in the project. Thanks again for taking the lead on the database design, and being a critical player on our path to completing a great project. Good luck on your future work!
 
-Ethan, you were incredibly adaptive throughout the timeline of the project. You contributed significantly to most parts of the projects, and proved to be a great point person for our front end design. On future projects, I recommend you work on following syntax conventions for HTML/CSS so it is more readable to others. Thanks for all your hard work and calm demeanor during Bike Share, and for taking our UX to the next level.  Best of luck on your upcoming projects!
+Ethan: you were incredibly adaptive throughout the timeline of the project. You contributed significantly to most parts of the projects, and proved to be a great point person for our front end design. On future projects, I recommend you work on following syntax conventions for HTML/CSS so it is more readable to others. Thanks for all your hard work and calm demeanor during Bike Share, and for taking our UX to the next level.  Best of luck on your upcoming projects!
 
 #### Scoopful (Little Shop)
 
-Annie: I'm so stoked we got to work on this project together! I've always respected how much innovative drive you bring to programming. You seem undaunted by the need to explore and learn new technologies, and I think it gives the group an extended sense of can-do attitude. In terms of critical feedback, I recommend working 'smarter not harder' in terms of methods and tools. You obviously know how to get things running perfectly, but there were a few instances (e.g., not using before blocks in the specs, using Ruby methods over ActiveRecord or Rails methods) where you could have saved yourself many lines of code and cognitive load. Overall, I'm especially grateful for your commitment to defining and sticking to a clean and efficient workflow process. It definitely elevated our project to the next level. Thanks so much for all your work and meaningful contributions to Scoopful. 
+Annie: I'm so stoked we got to work on this project together! I've always respected how much innovative drive you bring to programming. You seem undaunted by the need to explore and learn new technologies, and I think it gives the group an extended sense of can-do attitude. In terms of critical feedback, I recommend working 'smarter not harder' in terms of methods and tools. You obviously know how to get things running perfectly, but there were a few instances (e.g., not using before blocks in the specs, using Ruby methods over ActiveRecord or Rails methods) where you could have saved yourself many lines of code and cognitive load with simpler solutions. Overall, I'm completely grateful for your commitment to defining and sticking to a clean and efficient workflow process. It definitely elevated our project to the next level. Thanks so much for all your work and meaningful contributions to Scoopful. 
 
-Amy: Fantastic job as project manager for Little Shop. Your attention to detail was essential and made our distribution of work much more efficient and merge-friendly. For future work, I recommend you practice taking a second to slow down when problems or bugs emerge. I got the sense that in these events, your instinct is to expect the worst and act quickly, which can lead to unnecssarily complex decisions. That sense of urgency, of course, also results in very high quality work most times, I just recommend zooming out and deciding if a situation is worth your energy or not. Overall, I'm very glad we got to finally work on a project together, and I can't wait to see the work you do in the future.
+Amy: Fantastic job as project manager for Little Shop. Your attention to detail was essential and made our distribution of work much more efficient and merge-friendly. For future work, I recommend you practice taking a second to slow down when problems or bugs emerge. I got the sense that in these events, your instinct is to expect the worst and act quickly, which can lead to unnecssarily complex decisions. That sense of urgency and focus, of course, also results in very high quality code that we as a group could all depend on, so maybe just try zooming out more to decide if a situation is worth your energy or not. Overall, I'm very glad we got to finally work on a project together, and I can't wait to see the work you do in the future.
 
 Kyle: I'm very grateful for getting to work with you on this final project. You are an incredibly strong programmer, yet the technical mastery never comes across as arrogant or pretentious. You are an incredibly clear communicator, and demonstrate seemingly endless patience in all your group interactions. I suppose one downside to your competence is that you implemented features on this project without asking any questions, such as the Carrier Wave configuration. Since no questions came up, I didn't even realize so much set up went into the gem, and I didn't know how to use it at first. So, for future work, I recommend that if you go off and do your Kyle thing and learn something new, teach it back to the group with a quick walkthrough or something. Overall, I'm very grateful for the chance to work with you. Thank you for providing so many learning opportunities by sharing your knowledge.
 
 ### Being a Community Member
 
 From Eric Wahlgren-Sauro:
+
 Mike: Endowed with a deep fascination regarding the process of programming, Mike raises my expectations for test coverage and well refactored code. Beyond programming, he is among my favorite people at Turing. Ten minutes of conversation always leaves me with new considerations to reflect on. He is a fully-developed human with a capacity for seeing multiple layers of need coming from people, simultaneously. Consequently, Mike is highly flexible in his approach and always strives to achieve a well presented outcome.
+
+From Gabi Procell:
+
+Thank you again for doing Drills for Skills. It is definitely something that I am interested in continuing with. As I said earlier, our class got a wake up call this past week in terms of our knowledge with enumerables and basic JS logic. I feel bad saying it (only for front end staff) but I learned more in that 25 minutes than I did in 3 hours this morning.
+
+From Phyllis Hugunien:
+
+You are an awesome teacher.  It's evident that you have a lot of technical knowledge but you never lord it over anyone.  You are always humble, willing to break concepts down into their smallest components, in order to help the other person get it! I mean every word and thanks for being so giving and embodying what the Turing spirit is all about.
 
 ## E: Community Participation
 
 How did you actively contribute to the Turing community?
 
- * Drills for Skills: I started up an extracurricular space for people to work on and polish their Ruby programming skills. 
+ * Drills for Skills: I started up a twice weekly extracurricular space for people to work on and polish their Ruby programming skills. 
   These sessions centered around Ruby Exercisms and Codewar exercises, where we worked independently for ten minutus, collaboratively for another ten, and finally reviewed
   challanges and new content for five.
 
