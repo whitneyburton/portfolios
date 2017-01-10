@@ -2,8 +2,10 @@
 
 ## Areas of Emphasis
 
-In this module I hope so gain a deeper understanding of Rails. I also want to learn more about consuming APIs and building my own. 
-Additionally, I want to prepare myself for interviews by focusing on exercisms every week. I hope to make new contacts in both the Boston and Denver areas through a dedicated outreach effort.
+I entered this module with the main goal of gaining a deeper understanding of Rails. I also wanted to learn more about consuming APIs and building my own, as I had essentially no experience with APIs prior. 
+Additionally, I aimed to prepare myself for interviews by focusing on exercisms every week. I also hoped to make new contacts in both the Boston and Denver areas through a dedicated outreach effort.
+
+I am happy to say I have accomplished all of my goals! I feel much more comfortable with Rails and I also know a lot about API consumption and construction. I have done my best to focus on exercisms outside of class, and I hope to continue this effort. I think my network has grown in both Boston and in Denver, but I will most definitely keep working on this as well!
 
 ## Rubric Scores
 
@@ -84,11 +86,11 @@ Notes: -
 * [GitHub URL](https://github.com/rtravitz/pushpin)
 * [Original Assignment](http://backend.turing.io/module3/projects/cloney_island)
 
-(description)
+This project had us create a total application from scratch. Our group built a platform called "Pushpin", which was based off of the website Thumbtack, where people can request home improvement services.  This project had many new challenges, as we had many different levels of authorization (admin, professionals, requesters, and guests), as well as new functionality that we had never done before, such as messaging systems and two-factor authrntication.  I think we all thought that our final product was not exactly where we wanted it to be by the end of the project, but I still left very satisfied as I learned lots of new things. Part of me wishes we had more time to finish it exactly, but we did a great job with the scope and time frame we had!
 
-(evaluation comments)
 
-(evaluation scores)
+ __**Evaluation Comments:**__
+ We self-graded this project and were relatively hard on ourselves, as we all wanted a perfect final product! Sally said she agreed with the grades we gave ourselves which are below. It essentially works out to all 3's (one 2.5 and one 3.5) and we did get the extra point for pushing ouselves to try something new. 
 
 (feedback to me)
 
@@ -136,7 +138,7 @@ Notes: -
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown
 )
 
-Unfortunately, I missed this Gear Up, as I was in Chicago for a funeral. :(
+I unfortunately missed this Gear Up, as I was in Chicago for a funeral. :(
 
 #### (Journey Mapping)
 
@@ -155,10 +157,28 @@ Unfortunately, I missed this Gear Up, as I was in Chicago for a funeral. :(
 ### Professional Development Workshops
 http://backend.turing.io/professional_development/module_three/
 
-#### (Session Name)
+#### Flower Exercise
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
+* [Link to Completed Deliverables]()
+
+#### Job Search Strategies
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/job_search_strategies.md)
+* [Link to Completed Deliverables]()
+
+
+#### Innovative Problem Solving 
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
+* [Link to Completed Deliverables]()
+
+
+#### Interviewing
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
+
 
 (takeaways from session)
 
