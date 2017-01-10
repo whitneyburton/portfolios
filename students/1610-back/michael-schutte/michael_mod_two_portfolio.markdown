@@ -502,13 +502,13 @@ You are an awesome teacher.  It's evident that you have a lot of technical knowl
 
 How did you actively contribute to the Turing community?
 
- * Drills for Skills: I started up a twice weekly extracurricular space for people to work on and polish their Ruby programming skills. 
-  These sessions centered around Ruby Exercisms and Codewar exercises, where we worked independently for ten minutus, collaboratively for another ten, and finally reviewed
-  challanges and new content for five.
+* Drills for Skills: I started up a twice weekly extracurricular space for people to work on and polish their Ruby programming skills. 
+These sessions centered around Ruby Exercisms and Codewar exercises, where we worked independently for ten minutus, collaboratively for another ten, and finally reviewed
+challanges and new content for five.
 
-  * Pahlka Posse: We focused this mod on a project that visualizes important education data
-  To make schooling information accessible to more people. I played a key role in parsing PDF tables, desisgning the relational database,
-  and seeding this data into a Rails application.
+* Pahlka Posse: We focused this mod on a project that visualizes important education data
+To make schooling information accessible to more people. I played a key role in parsing PDF tables, desisgning the relational database,
+and seeding this data into a Rails application.
 
 ------------------
 
