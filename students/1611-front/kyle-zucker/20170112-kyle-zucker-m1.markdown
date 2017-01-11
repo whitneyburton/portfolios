@@ -28,8 +28,8 @@ Here are some things I've done by myself
 
 #### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/zkc/NumberGuesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
