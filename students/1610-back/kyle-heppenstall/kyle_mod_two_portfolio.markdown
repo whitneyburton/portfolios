@@ -29,9 +29,6 @@ Evaluator: Sal
 1. Conceptual Understanding: Waiting for a written portion
 
     * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
-    * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
-    * 2: Developer demonstrates some gaps in understanding when asked for additional detail
-    * 1: Developer has fundamental misconceptions about Rails, MVCs, the web, or related topics
 
 1. Analytic/Algorithmic Thinking
 
