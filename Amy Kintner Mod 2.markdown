@@ -80,10 +80,12 @@ Positive/YAY: it was generally agreed that I'm "fearless" and everyone was SUPER
 #### Scoopful
 
 * [GitHub URL](https://github.com/akintner/scoopful)
-* [Heroku URL] (https://scoopful.herokuapp.com
+* [Heroku URL](https://scoopful.herokuapp.com)
 * [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
 
 For this project, teams will build an online ordering platform of their choosing. Customers should be able to place orders and view placed order details. The site owner should be able to manage products and categories in addition to processing and completing orders.
+<br>
+I was the project manager for our team, so I did the original setup for us and managed most of the waffle cards throughout the project. 
 
 (evaluation comments)
 
