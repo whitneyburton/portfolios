@@ -118,7 +118,10 @@ Did the team push themselves by taking risks?
 1: Yes  
 
 from Ryan:  
-I appreciated working with Ali on Cloney Island. On the project, she showed great organization and attention to detail that benefitted our group. When plans needed to be drawn up, or issues closed off the waffle board, Ali was the person to take responsibility for these important, occasionally overlooked tasks. I also appreciated Ali's willingness to dive into unknown territory with me. Perhaps the highlight of the project for me was pairing together to host our photos on AWS.
+I appreciated working with Ali on Cloney Island. On the project, she showed great organization and attention to detail that benefitted our group. When plans needed to be drawn up, or issues closed off the waffle board, Ali was the person to take responsibility for these important, occasionally overlooked tasks. I also appreciated Ali's willingness to dive into unknown territory with me. Perhaps the highlight of the project for me was pairing together to host our photos on AWS.  
+
+from Alisher:
+This was the first time I officially collaborated on a project with Ali - on Cloney Island. To me, what stands out about Ali is her exceptional communication skills/manners: she is genuinely nice and supportive, no matter the circumstances.  Now add her clear thinking process and strong programming skills to this and you end up  with a very pleasant and productive collaboration experience with her.  I consider myself lucky to have been on one team with Ali and look forward to collaborating with her in the future!
 
 ## D: Professional Skills
 
