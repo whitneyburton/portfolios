@@ -26,12 +26,19 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Here are some things I've done by myself
 
+#### Comp Challenge 2
+
+* [Link](https://zkc.github.io/KZ-comp-challenge-2/)
+* [GitHub URL](https://github.com/zkc/KZ-comp-challenge-2)
+
+A lovely example of CSS. I'm fond of the side-scrolling navagation icons on the top. I finally started to feel comfortable with positioning and flex-box after this project.
+
 #### Number Guesser
 
 * [GitHub URL](https://github.com/zkc/NumberGuesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-Guess the Number! I enjoyed building the UI and adding in extra features 
+Guess the Number! I enjoyed building the UI and adding in extra features. 
 
 Evaluator: Louisa
 
@@ -63,11 +70,26 @@ Here are some things I've done with other people
 
 Steve needs to get his nut back home! Guide Steve thru the perilous Nutcracker infested forests. This project increased my love of objects in js.
 
-(evaluation comments)
+Evaluator: Bree
 
-(evaluation scores)
+Functional Expectations
 
-(feedback to me)
+3 - Application is fully playable without crashes or bugs
+User Interface
+
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+Testing
+
+3 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+JavaScript Style
+
+3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+Workflow
+
+3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+Code Sanitation
+
+3 - Five or fewer complaints
 
 #### IdeaBox
 
@@ -108,7 +130,7 @@ Collaboration
 * https://github.com/zkc/Linked-List
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-I need a link! Good thing it's on this list. This project was my first experience pair programming. 
+I need a link! Good thing it's on this list. This project was my first experience pair programming. The discovery of event bubbling was thrilling. 
 
 Evaluator: Bree
 
