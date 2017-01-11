@@ -125,11 +125,11 @@ It was amazing to get the chance to work with Mike on the final project. He’s 
 
 From Annie:
 
-
+Mike! Your infinite curiosity and willingness to stretch your abilities makes you an extremely valuable team member and a pleasure to work with. You're enthusiastic when celebrating success and undaunted when approaching failures. I truly believe that you drove everyone in our team to do the best work that we could do while contributing huge amounts of work yourself. Also, learning new things with you is fun! I've really enjoyed the times we've spent puzzling out an algorithm or an active record query together. My only delta for this project is that your drive and willingness to pull long hours puts pressure on the team to move quickly and keep up with your pace. I believe that this desire to forge ahead comes purely from a love of the work, but in a group setting it creates a feeling that everyone should keep up with you to be able to contribute meaningfully. Slow down a little and enjoy it!
 
 From Kyle:
 
-
+Thanks for being so passionate and patient throughout the project. You did a wonderful job pushing the group and keeping our goals focused on learning / process instead of just outcomes. Pushing the team to use bootstrap less resulted in some awesome learning outcomes for me (and hopefully the whole team).  Also when I needed to pair to figure more out about Sass and flex boxes you took the time to go over it with me without making me feel like I was wasting time or not contributing to the team. Your passion for coding definitely comes through when working with you. You are always full of ideas and ready to work on anything needed. Since you’re always overflowing with ideas I’d encourage you to try to lead with questions a bit more often. When working on the the initial schema, some styling decisions, and parts of the AP I felt like your ideas were consistently thrown out first. Although this didn’t create any tension on our team it could be helpful to keep in mind when working with other groups in the future. Thanks for being such a great team member and I hope we get to work together again!
 
 ### Individual Projects
 
@@ -444,7 +444,9 @@ Here are my cold outreach emails:
 
 #### Networking
 
-TAKEAWAYS AND DELIVERABLES
+While I’ve typically shied away from networking environments, I feel more excited (and still slightly terrified) to do so in the development context. I didn’t look forward to this session, especially the elevator speech practice bit, but I found that as the conversation went on, I got more and more comfortable. As I move into a more regular networking practice, I’m going to be mindful of steering the conversation towards substantive topics (projects, process, etc) so I can get over the awkward social tension.
+
+(Networking events to come next week).
 
 ## D: Feedback
 
@@ -497,6 +499,14 @@ Thank you again for doing Drills for Skills. It is definitely something that I a
 From Phyllis Hugunien:
 
 You are an awesome teacher.  It's evident that you have a lot of technical knowledge but you never lord it over anyone.  You are always humble, willing to break concepts down into their smallest components, in order to help the other person get it! I mean every word and thanks for being so giving and embodying what the Turing spirit is all about.
+
+From Chris Dale:
+
+I personally wanted to say thank you, again, for running the drills-for-skills program.  It is a huge thing to spend time with others and help them, it shows compassion and caring about the content you are learning/teaching, as well as your commitment to the school and it’s denizens.  Keep going forward, I look forward to what you may be able to pass on to me in the future.
+
+From Ali Schlereth: 
+
+This module I had the pleasure of teaming up with Schutte in Pahlka Posse.  He was a great addition to our group. One of the things I appreciate most about him, is his enthusiasm for solving problems. Early in our project, when working with a foreign tool, he put together a solution and offered it up before many of the rest of us had even had time to devote to figuring it out. He continued to be a devoted part of our team contributing great ideas and feedback along the way.
 
 ## E: Community Participation
 
