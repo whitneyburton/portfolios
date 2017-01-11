@@ -23,7 +23,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ## B: Individual Work & Projects
 
-I much preferred the format of this mod to that of mod 1: loads of work time in the afternoons, plenty of projects - basically constant projects - but not all graded. I realize there's a reason this can't be done in mod 1, but the difference in my mindset throughout the mod from this different work-flow was substantial. Perhaps this stems from the fact that the Mod 2 method fits better with my own "best learning" environment.
+I much preferred the format of this mod: loads of work time in the afternoons, plenty of projects - basically constant projects - but not all graded. I realize there's a reason this can't be done in mod 1, but the difference in my mindset throughout the mod from this different work-flow was substantial. Perhaps this stems from the fact that the Mod 2 method fits better with my own "best learning" environment.
 
 #### Mix_master - Ungraded 
 
@@ -70,17 +70,17 @@ We had two large group projects this Mod, the first being the brand new Bike Sha
 This was the innagural edition of a new first group project, Bike Share, in which we compiled data from the San Francisco Bike Share program (available on Kaggle) and used that data to provide a website showing info for Stations, Trips, Weather, and various dashboards with analysis of the data. 
 
 1) Functional Expectations
-  * 2: Application has some small missing base functionality (mising a very small portion - one foreign key on trip functionality - that went unmerged from a PR the morning of the eval)
+* 2: Application has some small missing base functionality (mising a very small portion - one foreign key on trip functionality - that went unmerged from a PR the morning of the eval)
 2) ActiveRecord
-  * 3: ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. A project at this level may have some queries that have not produced the correct results based on the expectations described, but in those cases the query was still generally on the right path and demonstrated some minor misunderstanding.
+* 3: ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. A project at this level may have some queries that have not produced the correct results based on the expectations described, but in those cases the query was still generally on the right path and demonstrated some minor misunderstanding.
 3) User Experience and Conventions
-  * 3: Project still uses appropriate routes and HTTP verbs. User experience is pleasant, but may need additional improvement before truly being ready to be deployed to production for a client.
+* 3: Project still uses appropriate routes and HTTP verbs. User experience is pleasant, but may need additional improvement before truly being ready to be deployed to production for a client.
 4) Code Organization/Quality
-  *4: Code is organized so that the main application file is primarily concerned with HTTP requests/responses. Other logic is refactored to be included in other Ruby objects, and code responsible for analyzing information in the database exists in the appropriate ActiveRecord models. Methods are appropriately refactored to have a specific purpose and generally do not exceed eight to ten lines. The purpose of methods is generally clear and easy to understand/follow. Logic is not included in ERB views, and is instead in the controller or model as appropriate.
+* 4: Code is organized so that the main application file is primarily concerned with HTTP requests/responses. Other logic is refactored to be included in other Ruby objects, and code responsible for analyzing information in the database exists in the appropriate ActiveRecord models. Methods are appropriately refactored to have a specific purpose and generally do not exceed eight to ten lines. The purpose of methods is generally clear and easy to understand/follow. Logic is not included in ERB views, and is instead in the controller or model as appropriate.
 5) Testing
-  *4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 6) Working Collaboratively
-  *3: Good use of branches, pull requests, and a project-management tool.
+* 3: Good use of branches, pull requests, and a project-management tool.
 <br>
 <br>
 At our final group retro, we each exchanged one "negative" and one "positive" feedback, and here's my breakdown: 
@@ -117,16 +117,15 @@ I thought this session was SUPER helpful and intersting. Cold Outreach isn't any
 
 #### Intro to Project Management and Collaborative Communication
 
-* [Deliverable] - While I wasn’t the project manager for Bike Share, I was eager to try waffle because it appeals to my (arguably intense) desire to make lists and organize workflow. For this reason, I volunteered and set up all the waffle cards for Bike Share. Nick E quickly realized a way to make these self-closing via branch-naming conventions on GitHub, and so the group made great use of this tool; this resulted in a good, collaborative approach to commits and group workflow.
-For Little Shop, I was the project manager and also took the lead on waffle, as I was the only person who’d used it extensively in a group setting. Everyone else in the group quickly grew to like it, thus card making and assignment was wholly democratic for the duration of the project. One of the other group members had a method for naming branches that he felt strongly about, so we didn’t build self-closing waffle-tagged branches for this project, but we did end up having around 130 cards, so it went well overall. 
-
+* Deliverable - While I wasn’t the project manager for Bike Share, I was eager to try waffle because it appeals to my (arguably intense) desire to make lists and organize workflow. For this reason, I volunteered and set up all the waffle cards for Bike Share. Nick E quickly realized a way to make these self-closing via branch-naming conventions on GitHub, and so the group made great use of this tool; this resulted in a good, collaborative approach to commits and group workflow. For Little Shop, I was the project manager and also took the lead on waffle, as I was the only person who’d used it extensively in a group setting. Everyone else in the group quickly grew to like it, thus card making and assignment was wholly democratic for the duration of the project. One of the other group members had a method for naming branches that he felt strongly about, so we didn’t build self-closing waffle-tagged branches for this project, but we did end up having around 130 cards, so it went well overall. 
+<br>
 We did a lot of work this Mod on feedback giving and receiving in teams. While we did spend some time on the subject during Mod 1, I think the material we
 covered this mod built on what we covered in Mod 1 and expanded it in a very meaningful way. Focusing on how "negative" feedback is received and processed by each inidividual
 was a nice way to help me get better at realizing what my own biggest triggers are, as well as how to move past them and take something good from all feedback I give and receive. 
 
 #### Feedback II
 
-* [Deliverable] - I thought the Johari window exercise was one of the most interesting professional development things we’ve done at Turing so far. When it comes to self-assessment, I’m extremely hard on myself, which is something I’ve known since grade school, so it’s always very good for me to take a step back and view others’ perspectives. For this, the amount of skills that others said I had versus what I submitted about myself was very different: I’d submitted 14 about myself, 12 were also known to others, but an additional 23 were also submitted about me by others. Some of these - reflective, helpful, able, kind, sympathetic, confident, responsive, dependable, empathetic, and mature - were chosen by 66-100% of the others! The logical result of this seems to be that while my assessment of myself was also supported by others, it quite drastically underestimated the skills that others think I have. This was good for my ego and also for my self-esteem, which took quite a beating in 2016 (for various reasons), and I’m glad we did this. I hope others found it as helpful as I did. 
+* Deliverable - I thought the Johari window exercise was one of the most interesting professional development things we’ve done at Turing so far. When it comes to self-assessment, I’m extremely hard on myself, which is something I’ve known since grade school, so it’s always very good for me to take a step back and view others’ perspectives. For this, the amount of skills that others said I had versus what I submitted about myself was very different: I’d submitted 14 about myself, 12 were also known to others, but an additional 23 were also submitted about me by others. Some of these - reflective, helpful, able, kind, sympathetic, confident, responsive, dependable, empathetic, and mature - were chosen by 66-100% of the others! The logical result of this seems to be that while my assessment of myself was also supported by others, it quite drastically underestimated the skills that others think I have. This was good for my ego and also for my self-esteem, which took quite a beating in 2016 (for various reasons), and I’m glad we did this. I hope others found it as helpful as I did. 
 
 ## E: Feedback and Community Participation
 
@@ -146,7 +145,16 @@ was a nice way to help me get better at realizing what my own biggest triggers a
 
 ### Being a Community Member
 
-(feedback to me)
+* From Jason: I had the pleasure of working with Amy on Bike Share. From the get go Amy was eager to have her hand in as many parts of the project as she could. She was always willing to help out in areas where we were having issues and was more than happy to take on a larger chunk of functionality. She was always looking for new ways to do things which was very beneficial in the times when we would get stuck. Her willingness to work long hours and to push through roadblocks was a great benefit for the team and I would be more than happy to work with her again.
+
+* From Annie: I love collaborating with Amy. She has a mind built to absorb information and apply it in interesting ways, which is invaluable when you're stuck without a solution to a problem. She's willing to work hard, play hard and share a meaningful conversation with you whenever you need it. On Scoopful, she fought through sickness to serve as our project manager. Her dedication to making our project great was unmatched and her management helped balance our group's personalities. I appreciate all of the work she did for us, especially the work she did feverish. I hope to work with her more in the future!
+
+* From Nick E:
+* From Lucy:
+
+* From Mike: Amy: Fantastic job as project manager for Little Shop. Your attention to detail was essential and made our distribution of work much more efficient and merge-friendly. For future work, I recommend you practice taking a second to slow down when problems or bugs emerge. I got the sense that in these events, your instinct is to expect the worst and act quickly, which can lead to unnecssarily complex decisions. That sense of urgency and focus, of course, also results in very high quality code that we as a group could all depend on, so maybe just try zooming out more to decide if a situation is worth your energy or not. Overall, I'm very glad we got to finally work on a project together, and I can't wait to see the work you do in the future.
+
+* From Kyle: You were a wonderful project manager for our team in Little Shop. Your delegation and diligent use of Waffle kept us all organized. Our git workflow and task management was on point due to your leadership. Also I really respect how you communicated so openly about being sick and kept the team moving in the best way possible when you were sick. That took a lot of humility and I don’t think you could have handled it any better. Next time you’re project manager I would encourage you to be a bit more directive in person. There were times when we were all just standing around a lot waiting for a group discussion to take place, and it would have been helpful for you to just rally us together and get things moving. Thanks for being such a great team member and hopefully we can work together on a third project before our time at Turing is done!
 
 ### Playing a Part
 
@@ -156,18 +164,16 @@ During the third week, I went with a group of other Turing students (five total)
 
 ### Gear Up
 
-####Microagressions: I didn't actually attend this gear-up because my house in Colorado Springs had been robbed. That said, I exchanged a number of emails 
-with Beth over break about the session, as it's a topic that I had addressed with students when I was teaching undergraduates. I heard, of course, about some of the
-backlash about this session, and while I do have some theories about why certain people lash out about this topic, I did engage in at least a dozen VERY interesting and
-thorough discussions about microaggressions with various people over the next two weeks. Some folks may not have liked it, but it did generate a lot of talking, which is, in my opinion,
-a step in the right direction.
+####Microagressions: 
 
-####Journey Mapping: This was fun. I was paired with three front-enders, and we agreed on two topics for the discussion: "when you missed a flight or a connection" and "why you decide to get a new phone". 
-Both were funny and interesting to map. While I don't think I would ever make a journey map on my own, the session was light-hearted and a fun addition to the Friday afternoon. 
+I didn't actually attend this gear-up because my house in Colorado Springs had been robbed. That said, I exchanged a number of emails 
+with Beth over break about the session, as it's a topic that I had addressed with students when I was teaching undergraduates. I heard, of course, about some of the backlash about this session, and while I do have some theories about why certain people lash out about this topic, I did engage in at least a dozen VERY interesting and thorough discussions about microaggressions with various people over the next two weeks. Some folks may not have liked it, but it did generate a lot of talking, which is, in my opinion, a step in the right direction.
 
-####Grit: I had a lot of opinions about this session, far too many to get into here. The basic gist, however, is that I don't really like buzzwords like this in general, but particularly
-when they're applied as pedagogical "tools" before any real scientific basis for the term has been established. Besides, the educational system in the western world is SO focused on grades 
-that inevitably grit would be graded, which is a seriously flawed idea, given the psychological findings about grit that have been in conversation since 2007. 
+####Journey Mapping: 
+This was fun. I was paired with three front-enders, and we agreed on two topics for the discussion: "when you missed a flight or a connection" and "why you decide to get a new phone". Both were funny and interesting to map. While I don't think I would ever make a journey map on my own, the session was light-hearted and a fun addition to the Friday afternoon. 
+
+####Grit: 
+I had a lot of opinions about this session, far too many to get into here. The basic gist, however, is that I don't really like buzzwords like this in general, but particularly when they're applied as pedagogical "tools" before any real scientific basis for the term has been established. Besides, the educational system in the western world is SO focused on grades that inevitably grit would be graded, which is a seriously flawed idea, given the psychological findings about grit that have been in conversation since 2007. 
 
 ------------------
 
