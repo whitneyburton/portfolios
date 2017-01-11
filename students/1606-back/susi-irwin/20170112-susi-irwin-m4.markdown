@@ -95,9 +95,13 @@ Brendan Dillon: "It has been such an amazing pleasure to get to work with you on
 Dan Broadbent: "You stepped up on day 1 and offered to PM the project. Kudos to you for that! I admire your ability to stand up for your opinions to the tech leads and present the facts as you seem them, back them up with evidence and present your case. You never get emotional about it, you simply state what you know, what you see, and your proposed outcome. You have amazing communication skills both written and spoken. You present yourself in a professional manner but still know how to sit back and joke around when the timing is right. Pairing with you on the Notes section of the project was great. Thank you for trusting me to struggle through some bugs and knowing when to step in and offer guidance and support. You are a natural leader and it was great working with you again."
 
 ## C: Open Source
-[Link to Project PR - Code - Add a new Faker to the Faker Gem](https://github.com/stympy/faker/pull/791)
+[Link to Project PR - Code - Add a new Dessert Faker to the Faker Gem](https://github.com/stympy/faker/pull/791)
 
 [Link to Project Documentation PR - Add the documentation for Dessert Faker](https://github.com/stympy/faker/pull/791)
+
+[Link to Project PR - Code - Add a new Famous Last Words Faker to the Faker](https://github.com/stympy/faker/pull/792)
+
+[Link to Project Documentation PR - Code - Add a new Famous Last Words Faker to the Faker](https://github.com/stympy/faker/pull/792)
 
 ## D. Professional Development - Technical Blog Post
 [A Backender Reacting to React](https://medium.com/@susi27/a-backender-reacting-to-react-2ee0dbcc1e87#.8dicf9mu8)
