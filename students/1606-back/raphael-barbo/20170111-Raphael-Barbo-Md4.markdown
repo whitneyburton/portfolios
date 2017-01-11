@@ -55,7 +55,7 @@ _EVAL SCORES_
 
 ###### 1 paragraph describing my top 3 priorities in my first dev job and why
 
-> For my first job post-Turing, one of my top priorities is the size of the company I work for. In the past, I’ve worked at a few companies that were at most 10 people--usually around seven people. While I’m happy for the experience I learned at these startups, working at a company around 20-40 people in size would offer more an established feel for me as a junior developer. Location is the next important thing for me--I’d ideally like to stay in Colorado for the next few years since my family just moved back here to be close to me. My last top priority would be a benefits package that includes decent health insurance. Being 25 now, I only have one more year before I’m kicked off of my family’s plan, so having that would be key for me.
+> I think as far as my first job goes, one of my top priorities is definitely the size of the company that I will be working for. I’ve worked at companies that were smaller and although I appreciated the experience I've learned that is not quite my thing. As a junior developer I am looking for mentorship above anything else.My second priority is definitely staying in Colorado, my wife and I moved here December 2015 and I since she was born and raise in Boulder, we would like to stay around the area (or should I say it is not an option to move anywhere else). Last but def not least important is benefits over salary, I would much rather work for a company with great benefits rather than getting paid big bucks (of course I know what I am worth) but still benefits are important for me since I am planning on having a family sometime next year.
 
 #### Blog Post & Peer Review
 
