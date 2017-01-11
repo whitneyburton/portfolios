@@ -203,7 +203,11 @@ Alisher:
 
 ### Being a Community Member
 
-from Schuttte: Ali deserves a wealth of gratitude and appreciation for her work on this module’s Pahlka project. As I was struggling to keep my head above water, I was always amazed to see new and meaningful PR’s from her on our Edualize project. She has seemingly endless endurance, and her passion for making a difference is contagious to all that interact with her. I’m grateful for having learned a bit about thinking beyond my own work this module, and can’t wait to see what Ali does with her incredible drive.  
+from Schuttte:  
+Ali deserves a wealth of gratitude and appreciation for her work on this module’s Pahlka project. As I was struggling to keep my head above water, I was always amazed to see new and meaningful PR’s from her on our Edualize project. She has seemingly endless endurance, and her passion for making a difference is contagious to all that interact with her. I’m grateful for having learned a bit about thinking beyond my own work this module, and can’t wait to see what Ali does with her incredible drive.  
+
+from Dave:  
+Ali did a fantastic job this module co-leading the Pahlka Posse.  She clearly took the time to carefully plot the course for our meetings and projects and provided a warm, fun and productive experience for everyone involved.  I look forward to continuing to be a part of Pahlka under her leadership.  
 
 ### Playing a Part
 
