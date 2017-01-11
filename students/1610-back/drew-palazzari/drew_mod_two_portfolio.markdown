@@ -175,6 +175,11 @@ Went over how to find someone who works for a company that interests you, and th
 
 So far, of the four I sent, I have gotten responses (and tour's: CaptainU and iTriage) from two of them. My job now is to reach out to more senior level people within companies and send cold outreach to them.
 
+#### Networking
+
+This PD session was about going to networking events and being prepared to picth yourself to people of interest. The idea is to attend networking events and talk with employers in the area. Make them aware of you, make them aware of your story, and leave a strong impression.
+
+Deliverables: Go to two networking events during intermission week.
 
 ## D: Feedback
 
