@@ -2,8 +2,9 @@
 
 ## Areas of Emphasis
 
-I setout to get back into a school mindset and schedule and get the most out of my resources. 
-More importanlty, I wanted to obtain a strong foundation and begin to build my confidence with coding. 
+In this program my primary goal was to build up my foundation for front-end development that would give me a strong base to carry through this program as well as through my career.
+My secondary goal was to get back into a solid routine and school mindset. After working in a job that was not challenging I was a little worried about switching back into a mindset for learning and critical thinking. 
+My final goal was to begin to build a community of like-minded individuals - a major reason Turing was my final choice was because of this emphasis of community. 
 
 ## Rubric Scores
 
@@ -57,6 +58,7 @@ Well done!
 Passed
 
 ## Game Time
+* [GameTime Link](https://marissa27.github.io/game-time/) 
 ### Functional Expectations
 * 3 - Application is fully playable without crashes or bugs
 
@@ -227,7 +229,16 @@ To Kyle Zucker
 Working with you has been really great. You make it easy to make your skillset that is above my own as a benefit to my own education instead of me feeling like I am holding you back. I appreciate you pushing me and love our game!
 
 To Megan Brown
-
+What did you like about working together?
+  It was very easy to work together and luckily we both enjoyed the pingpong style
+What did you find challenging about working with me?
+  both of our lack of knowledge in git! 
+What do you see as my strengths? Weaknesses?
+  You are very persistent! Could get faster with shortkeys 
+What do you think I can improve on?
+  Just moving around your docs 
+Anything else you'd like to add?
+  you were an awesome person to have in class and I am so happy for you, but bummed you are taking a mod off! 
 
 ### Being a Community Member
 
