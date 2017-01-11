@@ -145,23 +145,15 @@ CSS Style
 (feedback to me)
 
 ## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### Vote Your Conscience
-
-* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
-
-It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
 
 
-### Professional Development Workshops
+### Resume
+* [Resume](https://resume.creddle.io/resume/d9o4r324bdb)
+
+
+
 #### DTR
-##### Project: _Game Time
-
-Group Member Names: Kyle Zucker and Marissa Reinke
-Project Expectations: What does each group member hope to get out of this project? 
-
+##### Project: Game Time
 ##### Goals and expectations:
 
 Kyle hopes to use github better, use it constantly/consistently, come out with a good game
@@ -188,6 +180,19 @@ Workload Expectations:
 What features do we each want to work on?
 Utilizing our deadlines and github to stay on top of stuff and so one person can’t break it all! 
 Use lots of branching effectively
+
+
+
+### Gear Up
+#### Vote Your Conscience
+
+* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
+
+It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
+
+
+### Professional Development Workshops
+
 
 #### (Session Name)
 
