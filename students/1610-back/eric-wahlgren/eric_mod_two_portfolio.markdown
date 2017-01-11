@@ -117,7 +117,16 @@ The networking event served as a good way of meeting a couple more people from t
 ### Being a Community Member
 
 **Nick Isaacs (mentor)**
-**
+*Keep up the good question asking, you will gain a lot by simply asking "why" and "how" something works until you get to the bottom
+Why is a method written a certain way
+What methods does a method rely on
+Why is a framework (Rails, Ruby, JavaScript, React, etc.) written in a certain way?
+Software never makes mistakes, humans always do
+Think critically about every method/class/line you write:
+Why did you write it in a certain way?
+What assumptions did you make?
+What is the correct abstraction we are trying to create?
+When starting your career in this field, know there is boundless opportunity. People are hiring interns/part time/junior engineers, it may take time to find those willing mentors, but many exist*
 
 **Marisa Burton**
 *I really enjoyed working with Eric on Little Shop. He perseveres and is great to pair with and work through a problem together. Eric is always focused on completing a task until it’s completed, and he knows when to ask for help when he needs it. Eric knows a lot more than he thinks he does, and I hope he will be more confident with coding in the future.*
