@@ -60,6 +60,7 @@ Passed
 ## Game Time
 
 * [GameTime Link](https://marissa27.github.io/game-time/) 
+
 ### Functional Expectations
 * 3 - Application is fully playable without crashes or bugs
 
