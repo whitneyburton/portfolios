@@ -94,7 +94,8 @@ Items search controller could use refactoring with various params cases, otherwi
 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.  
 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.  
 
-(feedback to me)
+From Noah:  
+Working with Ali on Rales Engine was a great experience. We complemented each-other’s skill-sets well and I feel like we were both able to learn a ton on the project. We managed to knock out the “Boss Mode” query thanks to her SQL skills! Also, it was especially cool that we were able to take what we learned on the project to our work leading Pahlka Posse. I look forward to working with Ali again in the future.
 
 #### CloneyIsland :: Pushpin
 
@@ -127,9 +128,8 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 Did the team push themselves by taking risks?  
 1: Yes  
 
-
-(feedback to me)
-
+from Ryan:  
+I appreciated working with Ali on Cloney Island. On the project, she showed great organization and attention to detail that benefitted our group. When plans needed to be drawn up, or issues closed off the waffle board, Ali was the person to take responsibility for these important, occasionally overlooked tasks. I also appreciated Ali's willingness to dive into unknown territory with me. Perhaps the highlight of the project for me was pairing together to host our photos on AWS.
 
 ## D: Professional Skills
 (Intro)
@@ -186,26 +186,47 @@ This session helped me flesh out my ideas for my personal project. I liked that 
 #### Flower Exercise 
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://docs.google.com/document/d/1LtT0M_hyTQCLfHA3fOHh-2PfGBmszLULp2PA-we9olk/edit?usp=sharing)
 
-(takeaways from session)
+As someone who is fairly self aware and regularly reflections on many of these topics I found this exercise to bear little personal fruit. I see how it could be beneficial for someone who doesn't knwo what they want. 
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+Schutte:  
+ This module I had the pleasure of teaming up with Schutte in Pahlka Posse.  He was a great addition to our group. One of the things I appreciate most about him, is his enthusiasm for solving problems. Early in our project, when working with a foreign tool, he put together a solution and offered it up before many of the rest of us had even had time to devote to figuring it out. He continued to be a devoted part of our team contributing great ideas and feedback along the way.   
+
+Noah:  
+  This module I worked with Noah on Rales Engine as well as Pahlka Posse co-lead. It has been a pleasure as our natural skills seem to balance each other well.  Noah is fearless and full of ideas. He easily jumps in to new strategies and tools and is always willing to give something a try. This proves quite successful as the thing he is trying either works, or he is able to easily pivot to another new tool and strategy. Noah also has a collaborative spirit which made it easy to combine our ideas and skills for some great outcomes, both in Rales Engine and Pahlka.   
+
+Nick:  
+  This module Nick did a great job taking over leadership for some of the Pahlka content. We restructured how our Friday Spike sessions worked and Nick took on leading a couple of these sessions without hesitation. As a backend student, I greatly appreciated the exposure to frontend development tools and workflow. In addition, I appreciate how present Nick is to our posse community and the project we have undertaken. It makes the work much smoother and more enjoyable with a committed team. 
+
+Matt K:  
+    This module Matt did a great job taking over leadership for some of the Pahlka content. We restructured how our Friday Spike sessions worked and Matt took on leading a couple of these sessions without hesitation. As a backend student, I greatly appreciated the exposure to frontend development tools and workflow. Matt has been a regular presence in our posse community. I greatly appreciate his dedication and commitment to our project and the group as a whole. 
+
+Dave:  
+  This module Pahlka Posse started a new project with plans of utilizing a PDF as a data source. Dave was a dedicated member of our backend team helping to navigate foreign territory. I greatly appreciated his code contributions and code review along the way. He has been a dedicated member of the Pahlka community.  
+
+Megan:  
+  I have greatly enjoyed each opportunity I’ve had to work with Megan.  On Cloney Island, Megan and I undertook the Twilio 2Factor Authentication. As someone who is often intimidated using new development tools it was great to work with Megan as she is calm and positive when facing challenges.  In addition, Megan undertook the tasks of giving ratings and assigning proposals which involved intricate database relationships. It was a lot of work, but Megan calmly pushed through until she found success.     
+
+Ryan:  
+  Working with Ryan on Cloney Island was a pleasure. He had many immeasurable contributions to our team, regularly taking on whatever needed to be done. We all easily noted how detail oriented he is when debugging. In addition he eagerly jumped into working on setting up the AWS S3 and integrating it into the messaging between users. When a team shift was needed, he moved over to support another team member to support the overall needs of the team. Also, he has great jokes : )    
+
+Alisher:  
+  This was the first project on which I worked with Alisher. He is a dedicated worker who puts in a lot of time and effort to get the job done. He is comfortable looking up resources and troubleshooting errors. We worked together on building out the internal API, most notably on building the post endpoint and testing it as well. I appreciated his calm and persistent nature. He was open to suggestions as well as providing his own. I would encourage Alisher to speak up and offer his opinions more in group situations as he has great ideas to share.  Also, he has great jokes : )   
+
 
 ### Being a Community Member
 
-(feedback to me)
+from Schuttte: Ali deserves a wealth of gratitude and appreciation for her work on this module’s Pahlka project. As I was struggling to keep my head above water, I was always amazed to see new and meaningful PR’s from her on our Edualize project. She has seemingly endless endurance, and her passion for making a difference is contagious to all that interact with her. I’m grateful for having learned a bit about thinking beyond my own work this module, and can’t wait to see what Ali does with her incredible drive.  
 
 ### Playing a Part
 
 Pahlka Posse:  
 As a co-leader of Pahlka Posse, I have enjoyed supporting our team in getting things done. This module, we set up our work flow differently than in the past. Friday Spike sessions were formatted as tutorials/code alongs where we Pahlka memebers learned about and then lead a session on a tech topic/skill that was applicable to what we needed to learn to build our app.  These included PDF scraper, d3/LoDash, API Building, and Security. This spread the leadership amongst more Pahlka members and made our Friday Spike sessions more meaningful for visitors.  
-
-from Schuttte: Ali deserves a wealth of gratitude and appreciation for her work on this module’s Pahlka project. As I was struggling to keep my head above water, I was always amazed to see new and meaningful PR’s from her on our Edualize project. She has seemingly endless endurance, and her passion for making a difference is contagious to all that interact with her. I’m grateful for having learned a bit about thinking beyond my own work this module, and can’t wait to see what Ali does with her incredible drive.  
 
 Productivity Lunch:  
 Attended weekly productivity lunch where I built relationships and talked about strategies for a healthier happier, more productive life.  I enjoyed chatting with this group of people from week to week.  
