@@ -79,9 +79,9 @@ Find the rubric near the end of this document.
 
 * 4: Excellent use of branches, pull requests, and a project management tool.
 
-#### [Project Name](include-link-to-production-site-here)
+#### [Scoopful](https://scoopful.herokuapp.com/)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+This project is the result of the Little Shop of Orders assignment, which encouraged us to practice the Cart-Order lifecycle, database design, front-end styling, authentication and authorization. It is a bulk food ordering site that allows a user to choose how many pounds of a product they would like to purchase. 
 
 ### Individual Projects
 
