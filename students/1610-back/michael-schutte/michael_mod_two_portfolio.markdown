@@ -271,7 +271,7 @@ How you incorporated feedback from your team members and what you learned about 
     learning this about myself, and I'm excited to keep this framework top of mind as I move on to new projects with different teams.
 
     * In terms of room for improvement, I learned in the Little Shop retro that my work ethic can be alienating and make my group members feel like they are not doing enough.
-    I need to keep this in mind as I move into other group projects. To act upon this, I'm going to be up front about this tendency, and also try to relax what tends to be a break-neck pace by default.
+    I need to keep this in mind as I move into other group projects. To act upon this, I'm going to be up front about this tendency, and also try to relax what can default to being a breakneck pace.
 
 #### Finding Opportunities
 * [Job Tracker (Trello)](https://trello.com/b/GrDk8PVl/job-tracker-mike-schutte)
