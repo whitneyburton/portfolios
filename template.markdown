@@ -186,19 +186,25 @@ very nicely done, NO GLOBAL VARIABLES! JS very concise, small focused functions.
 * [Game Time](https://github.com/krystin987/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-### Evaluator: Robbie
+### Evaluator: Louisa
 
 
 
 ## D: Professional Development
-(Intro)
+
+### Gear Up
+
+(reflect on your Gear Up sessions following the below example)
 
 ### Professional Development Workshops
+
 #### (Session Name)
 
-* [Link to Completed Deliverables]()
-
 (takeaways from session)
+
+* [https://resume.creddle.io/resume/iri0mbjujcg](Creddle)
+* [https://www.linkedin.com/in/krystin-villeneuve-a24a6659/](LinkedIn)
+
 
 ## E: Feedback and Community Participation
 
@@ -246,9 +252,6 @@ I participated in the hackathon during the second week at Turing.
 
 I participated in teaching elementary school kids in Arvada about Arduinos having no prior experience.
 
-### Gear Up
-
-(reflect on your Gear Up sessions following the below example)
 
 ------------------
 
