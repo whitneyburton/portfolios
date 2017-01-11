@@ -105,7 +105,7 @@ From Ethan Bennett:
 
 Schutte: Your optimistic attitude definitely gave me a positive outlook during the long hours, and it seems like that’s true for the group as a whole, too. You’re committed to writing high-quality code, and you're totally undeterred in that commitment by any bugs or rabbit holes. I think both of us dug into our areas of the app to an extent that made it tough to split tasks, so that’s probably something to think about in the future. I don’t think it was really a problem in this context, though.
 
-#### [Scoopful (Little Shop)](scoopful.herokuapp.com)
+#### [Scoopful (Little Shop)](http://scoopful.herokuapp.com/)
 
 * [Github Repo](https://github.com/akintner/scoopful)
 
@@ -133,7 +133,7 @@ From Kyle:
 
 ### Individual Projects
 
-#### [JTrack (Job Tracker)](jtrack.herokuapp.com)
+#### [JTrack (Job Tracker)](http://jtrack.herokuapp.com/login)
 
 Job Tracker is a simple Rails application that keeps track of information for someone's job hunt. I inherited a project that had base functionality for company and job features, and expanded
 upon it to include full CRUD functionality for companies, jobs, and categories, and the ability to create contacts for companies and comments for jobs.
@@ -171,7 +171,7 @@ Comments from Casey Cumbow: hey @tmikeschu awesome job on this project. love all
 
 * 3: Project has a running test suite that tests and multiple levels but fails to cover some features
 
-#### [Carrot Candy (Rails Mini Project)](carrotcandy.herokuapp.com)
+#### [Carrot Candy (Rails Mini Project)](http://carrotcandy.herokuapp.com/)
 
 This was a great opportunity to apply the functionality of user authentication and authorization, sharpen my CSS skills, and revisit some classic model interaction, reminiscent of my days in Module 1.
 Initially overwhelmed at the thought of authenticating users, I was surprised by the simplicity of it all (i.e., comparing ID numbers, and redirecting if they don't match). 
