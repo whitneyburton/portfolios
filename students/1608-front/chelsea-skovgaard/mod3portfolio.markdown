@@ -7,7 +7,7 @@ I want to take time to become more confident doing foundational JavaScript. My p
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3.5
-* **B: Individual Work & Projects**:
+* **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 4
@@ -36,12 +36,11 @@ and to track the movies they have watched. The application was build using React
 ReactRouter 4, Firebase, Sass, and Webpack.
 
 Evaluation Scores:
-Completion:
-Organization:
-Test-Driven Development:
-Code Quality:
-User Experience:
-Performance:
+Completion: 4
+Organization: 4
+Test-Driven Development: 3
+Code Quality: 3
+User Experience: 4
 
 ## C: Group Work & Projects
 
@@ -57,13 +56,13 @@ I completed two group projects this module: Weather Forecast and remEMBER.
 This application enables the user to search cities for current, hourly, and weekly weather. Three cities can be pinned and deleted for reference. The application also uses geolocation to determine the user's location and display the location's weather.
 
 Scores:
-Specification Adherence:
-Redux Architecture:
-Routing:
-JavaScript Style: 
-Testing:
-Workflow:
-Troubleshooting:
+Specification Adherence: 4
+Redux Architecture: 3
+Routing: 4
+JavaScript Style: 4
+Testing: 3
+Workflow: 4
+Troubleshooting: 4
 
 Feedback from Hilary:
 I always enjoy working with Chelsea because she works very efficiently through problems. Chelsea came into the project having a limited understanding of Redux and she was able to logically share her ideas on setting up components and reducers. I enjoyed Chelsea's willingness to help me on tests when I was getting frustrated by suggesting that we Screenhero and she worked through the problems with me. Chelsea has a lot to bring to a team because of her teamwork, eye for design, understanding of user experience, and positive attitude.
