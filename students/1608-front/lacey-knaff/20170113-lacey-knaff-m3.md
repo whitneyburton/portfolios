@@ -70,31 +70,25 @@ MASV is a website for a local graphic design company that displays their current
 
 In Mod3 we had 2 group projects. Weathrly and and remEmber.
 
-#### (Weathrly)
+#### (Weather Forecast)
 
-* [GitHub URL](https://github.com/dshendrickson/mo-money)
-* [Original Assignment](http://frontend.turing.io/projects/fire-bae.html)
-* [Published Project](https://mo-money-2f924.firebaseapp.com/)
-* [DTR](https://docs.google.com/document/d/115kS6QfxcxRDup5WxWhIR5RLSPyisio7oDRH785BtxI/edit)
+* [GitHub URL](https://github.com/lrknaff/weather-tracker)
+* [Original Assignment](http://frontend.turing.io/projects/weather-forecast.html)
+* [Published Project](https://lrknaff.github.io/weather-tracker/#/?_k=ah0b7b)
 
 #####Description
 
-Assigned: 2016-10-30
-Due: 2016-11-08
-
-MoMoney was a pivot off of the idea of a financial application for our final project. It takes in a set of values from a user about a job offer (salary offer, yearly bonus, perks, miles from work, and location) and gives an adjusted annual, monthly, weekly and hourly pay scale based on various calculations. The application takes in cost of living from all 50 states and displays a random quote on the login screen. We build this application using React and stored user details and input using Firebase.
+Weather Forecast is a real-time weather app that makes use of the Open Weather API. A user receives weather information on their current location via geo-location and then can input up to 3 locations to get weather for. Each location also displays a 5day/3hr forecast on click. We were also introduced to Redux to hold state, and worked more with React Router for routing.
 
 #####Evaluation Scores
 
 * Specification Adherence - 4
-* Risk Taking and Creativity - 4
-* Design - 3.5
-* User Interface - 4
-* HTML Style - 4
-* CSS/Sass Style - 4
-* JavaScript Style - 3.5
-* Testing - 3.5
-* Workflow - 4
+* Redux Architecture - 3
+* Routing - 4
+* JavaScript Style - 3
+* Testing - 3
+* Workflow - 3
+* Troubleshooting - 4
 
 #####Feedback to me from Graham Nessler, Nick Chambers, and Ryan Westlake
 
