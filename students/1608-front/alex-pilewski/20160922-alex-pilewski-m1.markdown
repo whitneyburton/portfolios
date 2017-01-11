@@ -6,11 +6,11 @@ I wrote in my goals gist from the beginning of the module that I would like a so
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.5 
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: Skip
+* **E: Feedback & Community Participation**: 3.5
 
 -----------------------
 
@@ -212,8 +212,14 @@ Creation of Dale memes, willingness to make a fool of myself, willingness to tea
 
 ### Notes
 
-( Leave blanks for reviewers )
+Feels good about building a solid foundation this module, as we agree.
+
+Gives great positive feedback, but we encourage him to give good constructive critical feedback to help peers grow and improve.
+
+Alex is a great member of this cohort and our Turing community and we’re excited to see how he grows over the next three modules.
+
+Wants to be a part of building front end focused posses, step into a leadership role in the Turing community.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
