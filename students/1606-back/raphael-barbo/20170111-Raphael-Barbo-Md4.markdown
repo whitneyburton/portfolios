@@ -35,9 +35,9 @@ Individual projects I completed:
 * ReactBox
 [GitHub](https://github.com/rsbarbo/reactBox)
 
-* Open Source (Individual)
+* Individual Open Source | GetStream 
+[Github](https://github.com/rsbarbo/stream-ruby)
 
-[GitHub]
 
 ---
 
@@ -45,7 +45,7 @@ Individual projects I completed:
 
 ### Enroll
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/enroll)
 * [Website]()
 
 _FEEDBACK NOTES_
