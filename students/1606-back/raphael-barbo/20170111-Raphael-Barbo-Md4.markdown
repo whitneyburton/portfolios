@@ -43,6 +43,12 @@ Individual projects I completed:
 
 ## C: Group Work & Projects
 
+### Open Source (with Jesse)
+
+We collaborated to Lovisa's CREACT Tutorial. It was not only fun to do it, but the great feedback we received from her, and I am looking forward to keep collaborating to the tutorial as we receive more and more feedback.
+
+[Github/CREACT](https://github.com/applegrain/creact)
+
 ### Enroll
 
 * [GitHub URL](https://github.com/turingschool/enroll)
