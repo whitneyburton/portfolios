@@ -19,21 +19,21 @@ This module my main goal is to further prepare myself for my new career in softw
 
 ### Notes:
 
-* Notes
-
 Needed for Satisfactory Progress:
-
+- Add title to javascript url filtering
 - Doesn't require password confirmation
 - Links don't seem to be scoped to users
 - Doesn't have flash messages on create ajax
 - Mark as unread also adds to read count on hotreads
 - And edit
-- Add title to javascript url filtering
 
+^^^^^ These things have been satisfactorily fixed
+
+### Scores
 
 ### 1. Satisfactory Progress
 
-* 2: Developer completes sections 1 through 5 with some _minor_ bugs or missing functionality.
+* 3: Developer completes sections 1 through 5 minor bugs and no missing functionality
 
 ### 2. Ruby & Rails Style & API
 
@@ -60,13 +60,20 @@ Needed for Satisfactory Progress:
 
 ## B: Capstone Project
 
-#### Project - Monocle
+### Project - Monocle
 
 * [GitHub URL](https://github.com/danbroadbent/monocle)
 * [Production URL](http://turingmonocle-production.herokuapp.com/)
 * [Original Assignment](http://backend.turing.io/module4/projects_overview)
+* [Link to Video Demo of Site](https://vimeo.com/199076606)
 
 #### Personal Experience:
+
+#####  - Learning React
+
+Learning React was both challenging and fun. ReactBox was awesome. The lessons were super straight forward and easy to follow. I love the ideas of components and working with pieces of functionality on a page - feels a lot like asp.net forms in SharePoint (so, familiar). I am excited to learn more and to use Lovissa's Creact tutorial to really dig in. As a team, we have a spike branch to get our feet wet with React in an actual project. 
+
+#####  - Overall
 This project has been pretty amazing overall. We were given a brownfield project with not a ton of functionality built in and basically a brainstormed list of what Jeff would like to see in the application by the end of the 6 weeks. We also, as a team, brainstormed some of our own ideas for features that we, as users of the system, thought would be awesome to have included. We were to use Agile methodologies to progress through three, 2 week sprints with Andrew as our Scrum Master/Tech Lead. I have used Agile and been a part of scrums and sprints in my previous career, but not as a developer, so I was really excited to see how that side of the desk would be. It was more frustrating than I anticipated, but I think that was due to a few specific factors:
 
 * Lack of clear directives about the sprint as a whole
@@ -104,6 +111,31 @@ Dan Broadbent: "You stepped up on day 1 and offered to PM the project. Kudos to 
 [Link to Project Documentation PR - Code - Add a new Famous Last Words Faker to the Faker](https://github.com/stympy/faker/pull/792)
 
 [Blog about Open Source](https://medium.com/@susi27/fake-it-til-you-eat-your-dessert-a43aec0a4b4b#.yajawijba)
+
+Feedback from Nate Anderson:
+
+"Overall impressions:
+
+I can feel your energy through the article. It's pretty amazing. Most of these technical articles are very boring and dry,
+yours makes me want to continue to read to see what happened next.
+
+Structure & Formatting:
+
+It flowed very well. Not too long, not too short. I like the snippet where we get to see some of the syntax to get a taste
+of what you were dealing with.
+
+Grammar & Syntax:
+
+I did not find any grammar or syntax errors. I might have missed some but I think you did a great job here.
+
+Final Words:
+
+This was a very unique article to me in that the subject was not all that exciting by itself, but you did a great job of
+creating a feel that contributing to open source is the most exciting thing in the world. I wish more authors of these types
+of articles would take a little bit more time to create a more personal feel and I think you nailed it in this aspect. While
+also providing useful information."
+
+
 
 ## D. Professional Development - Technical Blog Post
 [A Backender Reacting to React](https://medium.com/@susi27/a-backender-reacting-to-react-2ee0dbcc1e87#.8dicf9mu8)
