@@ -46,7 +46,8 @@ Individual projects I completed:
 ### Enroll
 
 * [GitHub URL](https://github.com/turingschool/enroll)
-* [Website]()
+* [Enroll](http://enroll-staging.turing.io/invitation-required)
+* [Apply](http://apply-staging.turing.io/)
 
 _FEEDBACK NOTES_
 
