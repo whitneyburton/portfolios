@@ -39,21 +39,15 @@ This was our first official project with Rails, and for it we were to create a J
 
 Evaluation Rubric, Commentary, and Scores:
 hey @akintner - overall, good work with this. i made a few comments. be sure to remember to commit more often as well 👍
+<br>
 Rubric
-1) Database, Relationships, and Migrations
-* 4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
-2) Routes
-* 3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
-3) Controllers
-* 4: The developer has moved logic out of the controllers and into the models/POROs where appropriate. The developer uses strong params in a private method. Instance variables being passed to views are appropriately named and limited in number. The developer can speak to each choice made when questioned.
-4) ActiveRecord
-* 3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
-5) Views
-* 3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
-6) User Experience
-* 4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
-7) Testing
-* 2: Project has sporadic use of tests and multiple levels
+* 1) Database, Relationships, and Migrations = 4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+* 2) Routes = 3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
+* 3) Controllers = 4: The developer has moved logic out of the controllers and into the models/POROs where appropriate. The developer uses strong params in a private method. Instance variables being passed to views are appropriately named and limited in number. The developer can speak to each choice made when questioned.
+* 4) ActiveRecord = 3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
+* 5) Views = 3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
+* 6) User Experience = 4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
+* 7) Testing = 2: Project has sporadic use of tests and multiple levels
 
 
 ## C: Group Work & Projects
@@ -69,18 +63,12 @@ We had two large group projects this Mod, the first being the brand new Bike Sha
 
 This was the innagural edition of a new first group project, Bike Share, in which we compiled data from the San Francisco Bike Share program (available on Kaggle) and used that data to provide a website showing info for Stations, Trips, Weather, and various dashboards with analysis of the data. 
 
-1) Functional Expectations
-* 2: Application has some small missing base functionality (mising a very small portion - one foreign key on trip functionality - that went unmerged from a PR the morning of the eval)
-2) ActiveRecord
-* 3: ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. A project at this level may have some queries that have not produced the correct results based on the expectations described, but in those cases the query was still generally on the right path and demonstrated some minor misunderstanding.
-3) User Experience and Conventions
-* 3: Project still uses appropriate routes and HTTP verbs. User experience is pleasant, but may need additional improvement before truly being ready to be deployed to production for a client.
-4) Code Organization/Quality
-* 4: Code is organized so that the main application file is primarily concerned with HTTP requests/responses. Other logic is refactored to be included in other Ruby objects, and code responsible for analyzing information in the database exists in the appropriate ActiveRecord models. Methods are appropriately refactored to have a specific purpose and generally do not exceed eight to ten lines. The purpose of methods is generally clear and easy to understand/follow. Logic is not included in ERB views, and is instead in the controller or model as appropriate.
-5) Testing
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-6) Working Collaboratively
-* 3: Good use of branches, pull requests, and a project-management tool.
+* 1) Functional Expectations = 2: Application has some small missing base functionality (mising a very small portion - one foreign key on trip functionality - that went unmerged from a PR the morning of the eval)
+* 2) ActiveRecord = 3: ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. A project at this level may have some queries that have not produced the correct results based on the expectations described, but in those cases the query was still generally on the right path and demonstrated some minor misunderstanding.
+* 3) User Experience and Conventions = 3: Project still uses appropriate routes and HTTP verbs. User experience is pleasant, but may need additional improvement before truly being ready to be deployed to production for a client.
+* 4) Code Organization/Quality = 4: Code is organized so that the main application file is primarily concerned with HTTP requests/responses. Other logic is refactored to be included in other Ruby objects, and code responsible for analyzing information in the database exists in the appropriate ActiveRecord models. Methods are appropriately refactored to have a specific purpose and generally do not exceed eight to ten lines. The purpose of methods is generally clear and easy to understand/follow. Logic is not included in ERB views, and is instead in the controller or model as appropriate.
+* 5) Testing = 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+* 6) Working Collaboratively = 3: Good use of branches, pull requests, and a project-management tool.
 <br>
 <br>
 At our final group retro, we each exchanged one "negative" and one "positive" feedback, and here's my breakdown: 
