@@ -1,18 +1,18 @@
-# (Kyle Zucker) - (M1/M2/M3/M4) Portfolio
+# (Kyle Zucker) - (M1) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I wanted to learn a lot #$%^#$%^#$^%
 
 ## Rubric Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -23,9 +23,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Work & Projects
 
-(Intro)
+Here are some things I've done by myself
 
-#### (Project Name)
+#### Linked List
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -36,11 +36,32 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 (evaluation scores)
 
+#### Number Guesser
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+
 ## C: Group Work & Projects
 
-### Projects
+Here are some things I've done with other people
 
-(Intro)
+#### IdeaBox
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
 
 #### (Project Name)
 
