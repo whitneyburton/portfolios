@@ -46,6 +46,8 @@ _FEEDBACK NOTES_
 **From Brian H.** I have worked with Rapha before and it is always great to work with him. He and I work well together and contribute code harmoniously when we pair. Unfortunately I only got to work with Rapha for one afternoon on this project, but it was on a cool feature: the smart search, and was very rewarding. Rapha is a strong coder and has a relentless motor; he is always hungry for more code and new things to try. I look forward to seeing what he can accomplish after we leave Turing.
 
 
+**From Jean** Feedback for Raphael Barbo: Rapha is wonderful to work with. When pairing he is happy to let people try a solution, but has no problem questioning the solution. His happy, laid back attitude makes it easy to pair with him, even in stressful situations. He essential to creating smart search, and continued to work on it with David on a day I had to leave. This is my second project working with Rapha, and both times he has been an excellent team member
+
 _EVAL SCORES_
 
 ---
