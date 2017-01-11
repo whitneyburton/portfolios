@@ -159,9 +159,11 @@ Guest Speakers - I have attended and enjoyed every guest speaker during my 7 mon
 
 ### Mentor Relationships throughout Turing
 
-Matt Rogers and Mark Miranda -
+* Matt Rogers and Mark Miranda (1602)
 
 I wanted to add a section to mention how important my mentors have been to my success at Turing. Mark was my prework guide for Turing. Little did I know we would get closer and become friends over the course of the last 7 months. We speak regularly, our families hang out, and I can always count on him for guidance, advice, and a reality check. He is a role model if there ever was one for a coder. Matt agreed to take me on as a mentee during week 3 of Module 1. I was nervous to have a mentor who was not in the Denver area, but Matt being in Dallas has not been an issue at all. Have remote sessions has helped with my git workflow, my screen hero sessions, my overall communication. Matt has had complete faith in me since day 1. He is always there to ask me the hard questions and encourages me to finish what I start as well as I possibly can, and then some. Matt and mark both know what I am capable of and hold me to that standard. They challenges me and help me celebrate my wins. They have both been there for me through some of my hardest spots in Turing and I am absolutely sure that I would be not be submitting this portfolio to you today if it were not for them. I am so grateful that Turing encourages the Mentor/Mentee Relationship. It has meant the world to me and I am sure it will continue to be important to me as I move forward. I am excited for the day when I can be a mentor to a Turing student... it will be an honor.
+
+
 ------------------
 
 ## Final Review
