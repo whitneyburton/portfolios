@@ -111,14 +111,13 @@ A weather app created with React/Redux that allows the user to see different for
 
 
 ## D: Professional Development
-(Intro)
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Flower Exercise
 
-* [Link to Completed Deliverables]()
+* [Link to Flower Exercise](https://docs.google.com/document/d/18_iOoJURUK6VgRwPNbHyJ2w27lhmaTWJ7eSa4EK8PP0/edit?usp=sharing)
 
-(takeaways from session)
+The professional development sessions were top-notch this mod. Even though the Flower Exercise is very intense and time-consuming, I found it extremely valuable in how I go about describing myself. I also participated in the StrengthsFinder groups again, and found these to be very valuable towards my personal storytelling.
 
 ## E: Feedback and Community Participation
 
