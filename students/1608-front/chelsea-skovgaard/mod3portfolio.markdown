@@ -174,7 +174,7 @@ This module I continued leading the Verou on focused on design principles, data 
 
 ### Notes
 
-Step out of personal bubble and reach out to share knowledge/thought process with other students. 
+Keep reaching out to share knowledge/thought process with other students. 
 
 ### Outcome
 
