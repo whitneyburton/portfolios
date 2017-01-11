@@ -20,59 +20,59 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## A: End of Module Assessment
 
 ## DOM Manipulation
-# Rubric
+### Rubric
 Well done!
 
-# Progression/Completion
+### Progression/Completion
 
 * 3: Developer is able to implement solutions at the speed of a junior developer.
 
-# JavaScript Style
+### JavaScript Style
 
 * 3.5 - Well done! Very solid understanding of proper syntax, had a clear understanding of what her code was doing and was able to take suggestions and incorporate them very quickly.
 
-# Workflow
+### Workflow
 
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
-# Collaboration
+### Collaboration
 
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ## Testing
-# Progression/Completion
+### Progression/Completion
 * 3: Developer is able to implement solutions at the speed of a junior developer.
 
-# JavaScript Problem Solving
+### JavaScript Problem Solving
 * 3: Developer solves problems with a balance between conciseness and clarity, and can effectively leverage documentation
 
 
-# Workflow
+### Workflow
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
-# Collaboration
+### Collaboration
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ## Quiz
 Passed
 
 ## Game Time
-# Functional Expectations
+### Functional Expectations
 * 3 - Application is fully playable without crashes or bugs
 
-# User Interface
+### User Interface
 * 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
-# Testing
+### Testing
 * 3 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
 
-# JavaScript Style
+### JavaScript Style
 * 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-# Workflow
+### Workflow
 * 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-# Code Sanitation
+### Code Sanitation
 * 3 - Five or fewer complaints
 
 
