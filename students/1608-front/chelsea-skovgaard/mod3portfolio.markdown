@@ -6,9 +6,9 @@ I want to take time to become more confident doing foundational JavaScript. My p
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**:
+* **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 4
 
@@ -16,9 +16,9 @@ I want to take time to become more confident doing foundational JavaScript. My p
 
 ## A: End of Module Assessment
 
-Specification Adherence:
-Determining the Right Tools:
-Following Documentation:
+Specification Adherence:3
+Determining the Right Tools:4
+Following Documentation:3.5
 
 ## B: Individual Work & Projects
 
@@ -60,7 +60,7 @@ Scores:
 Specification Adherence:
 Redux Architecture:
 Routing:
-JavaScript Style:
+JavaScript Style: 
 Testing:
 Workflow:
 Troubleshooting:
