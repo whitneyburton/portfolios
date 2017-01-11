@@ -8,11 +8,11 @@ Weekly job prep activities:
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -35,17 +35,6 @@ Weekly job prep activities:
 ## B: Individual Work & Projects
 
 (Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 #### Apicurious :: Github Clone
 
@@ -109,17 +98,17 @@ Team completed all the user stories and requirements set by the client.
 3: As expected  
 User Experience  
 Project exhibits a production-ready user experience.  
-2.5: Below expectations  
+3: As expected  
 Organization  
 Team used a project management tool to keep their project organized.  
-3: As expected  
+4: Better than expected 
 Technical Evaluation  
 Git Workflow  
 Team always used pull requests and commented on pull requests prior to introducing code into the master branch.  
-3: As expected  
+4: Better than expected 
 Test Quality  
 Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?  
-3.5: As expected  
+3: As expected  
 Code Quality  
 Project demonstrates well-factored code and a solid grasp of MVC principles.  
 3: As expected  
@@ -132,7 +121,6 @@ from Ryan:
 I appreciated working with Ali on Cloney Island. On the project, she showed great organization and attention to detail that benefitted our group. When plans needed to be drawn up, or issues closed off the waffle board, Ali was the person to take responsibility for these important, occasionally overlooked tasks. I also appreciated Ali's willingness to dive into unknown territory with me. Perhaps the highlight of the project for me was pairing together to host our photos on AWS.
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 
@@ -155,12 +143,6 @@ Coming in to this gear up, I had anticipated talking about our personal story. I
 I have a hard time with the term Grit and repercussions of its popularity. I agree with a lot of the commentary from the first article.  There is some merit to the idea, but the idea is not entirely a new one. In currently implementation it often is shallow and has a blame the vicitm air about it. I am however, a big supporter of growth mindset type learning opportunities and detaching failure from the idea of being a failure.  
 
 ### Professional Development Workshops
-#### (Session Name)
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
 
 #### Networking w/ Lia
 
