@@ -14,11 +14,11 @@ Throughout the mod, I also made adjustments to my personal website, which I enjo
 
 Find the rubric near the end of this document.
 
-* **A: End of Module Assessment**: X
-* **B: Individual & Group Work**: X
-* **C: Professional Skills**: X
-* **D: Feedback**: X
-* **E: Community Participation**: X
+* **A: End of Module Assessment**: 3
+* **B: Individual & Group Work**: 4
+* **C: Professional Skills**: 3
+* **D: Feedback**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
