@@ -140,25 +140,26 @@ Megan was an excellent team member on Cloney Island. I repeatedly saw her jump o
 
 ### Gear Up
 
-#### (Microagressions)
+#### Microagressions
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown
 )
 
 I unfortunately missed this Gear Up, as I was in Chicago for a funeral. :(
 
-#### (Journey Mapping)
+#### Journey Mapping
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This was a fun gear up. I liked that it focused on something we will have to actively consider on the job - effectively designing for users. The basic premise of journey mapping is identifying the "journey" the user will take while doing something (like using your software) and identifying opportunities and weaknesses of this journey in a timeline/map format.  We split into groups and tried it out, journey mapping both the experience of getting a new driver's license and completing your first Turing project. I will definitely take the lessons from this gear up with me as I move forward, and try to remember to consider the user's journey when designing any sofware.
 
 
-#### (Grit)
+#### Grit
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The last gear up of this module focused on grit. Though grit has become a bit of a buzzword, it is obviously an important quality. I particularly liked the article that noted the criticisms of grit,  where they said that grit only matters if it is coupled with passion. We talked a lot in my group about grit as a Turing student, which we all undoubtedly have. Much like the resistance gear up, however, we also talked about how it's important to reflect on grit inwardly and not focus on telling others to have more grit, as this can easily trend toward victim blaming. I liked doing this gear up in our cohorts and definitely appreciate the grit in myself throughout this whole experience!
+
 
 
 ### Professional Development Workshops
