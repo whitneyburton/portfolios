@@ -2,17 +2,19 @@
 
 ## End of Module Reflection
 
-What did you get technically and professionally out of this module? How are you going to use it in the future?
+This module was very exciting! I enjoyed module one, but there is something so amazing about building something that you can show to others. I enjoyed learning rails and I feel like it actually gave me a taste of what web development is all about. Now that I have these skills, I come up with a new idea for a cool website every day. 
+
+I stretched myself professionally by reaching out to people who could potentially be valuable members of my network. I've really found it valuable to explore career options and talk to other about thier experience. It's energizing to look into the many oppurtunities that can be open to me when I'm finished at Turing. 
 
 ## Self-Evaluated Rubric Scores
 
 Find the rubric near the end of this document.
 
-* **A: End of Module Assessment**: X
-* **B: Individual & Group Work**: X
-* **C: Professional Skills**: X
-* **D: Feedback**: X
-* **E: Community Participation**: X
+* **A: End of Module Assessment**: 3
+* **B: Individual & Group Work**: 4
+* **C: Professional Skills**: 3
+* **D: Feedback**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
