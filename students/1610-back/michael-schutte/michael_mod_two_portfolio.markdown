@@ -99,7 +99,7 @@ Mike is known for his positive attitude and ability to write super clean super e
 
 From Molly Brown:
 
-Mike, I am equally grateful for both the positive attitude and energy your contributed to our team as well as your carefully thought-out code. In particular I was really impressed by your work to keep up team morale as we worked late the night before the project was due and your ability to pitch in and help any of us work through code issues, despite the fact that were were all working on very different aspects of the project - it speaks highly of your skills with the concepts we have learned thus far. That being said, in future projects I would suggest that you remain mindful of the fact that your fluency with the material and desire to write the best code possible can sometimes conflict with the needs of your other team members to work through issues at their own speed. However, you also demonstrated that you are open and responsive to constructive feedback and make immediate changes as needed, which I have the utmost respect for. Thank you again for all you contributed and helping make our project and team finish strong.
+Mike, I am equally grateful for both the positive attitude and energy your contributed to our team as well as your carefully thought-out code. In particular I was really impressed by your work to keep up team morale as we worked late the night before the project was due and your ability to pitch in and help any of us work through code issues, despite the fact that we were all working on very different aspects of the project - it speaks highly of your skills with the concepts we have learned thus far. That being said, in future projects I would suggest that you remain mindful of the fact that your fluency with the material and desire to write the best code possible can sometimes conflict with the needs of your other team members to work through issues at their own speed. However, you also demonstrated that you are open and responsive to constructive feedback and make immediate changes as needed, which I have the utmost respect for. Thank you again for all you contributed and helping make our project and team finish strong.
 
 From Ethan Bennett:
 
@@ -176,7 +176,7 @@ Comments from Casey Cumbow: hey @tmikeschu awesome job on this project. love all
 This was a great opportunity to apply the functionality of user authentication and authorization, sharpen my CSS skills, and revisit some classic model interaction, reminiscent of my days in Module 1.
 Initially overwhelmed at the thought of authenticating users, I was surprised by the simplicity of it all (i.e., comparing ID numbers, and redirecting if they don't match). 
 
-In terms of CSS, I used this as an bootstrap-less challenge, and made all of my styling by hand, relying heavily on the CSS flexbox display value. With this tool, I am happy with how 
+In terms of CSS, I used this as a bootstrap-less challenge, and made all of my styling by hand, relying heavily on the CSS flexbox display value. With this tool, I am happy with how 
 my forms and general grid items turned out, and will be sure to keep flexbox in mind for future styling.
 
 Everything was pretty straight forward in terms of workflow until I hit the need to add points to a user. All the sudden it felt like I was back to the Mod 1 Ruby exercises
@@ -204,8 +204,8 @@ from a particular and narrow slice of experience.
 
 #### Journey Mapping
 
-With a heavy background in sociology and qualitative reserach methodologies, I really enjoyed learning about journey mapping. I think it's a great way to iteratively develop a product based
-on actual user needs and experiences. In sociology and anthropology, there is an idea of "grounded theory", which refers to reserach being guided by actual
+With a heavy background in sociology and qualitative research methodologies, I really enjoyed learning about journey mapping. I think it's a great way to iteratively develop a product based
+on actual user needs and experiences. In sociology and anthropology, there is an idea of "grounded theory", which refers to research being guided by actual
 social happenings and observation, as opposed to a researcher entering a field site with a pre-conceived theory. Journey mapping follows a similar ethos, which is rooted in 
 curiosity and humility. Instead of claiming to know what the user experiences, journey mapping requires the product team to slow down and gather detailed data 
 about the user experience, and implement future development in response to that.
@@ -215,7 +215,7 @@ because it offers a platform for me to just that.
 
 #### Grit
 
-Grit is not a single thing. It involves enduring fascination in something. It has to do with the acceptance of frustration. It requires meanigful work. It is nothing without a belief in growth. 
+Grit is not a single thing. It involves enduring fascination in something. It has to do with the acceptance of frustration. It requires meaningful work. It is nothing without a belief in growth. 
 I really liked the supplementary articles for this session. It's dangerous to think that there is some simple solution to success, 
 like having grit. I'm skeptical of any silver-bullet solution. Humans are just more complex than that.
 The articles and this session highlight that grit thrives when in concert with other aspects like passion and humility. I think that naked grit, or grit just all by itself,
@@ -254,7 +254,7 @@ How you incorporated feedback from your team members and what you learned about 
     From my perspective, our one storming moment came Friday morning, when Annie expressed a disinterest in styling if I was going to restyle all her work.
     She felt her work was useless and was frustrated by my actions. I'm very glad she brought this up so directly, because it was able to clarify very quickly that 
     the only reason I was able to do such quick style tinkering was because of the great CSS structure she designed. I explained that the bulk of the styling was her work, 
-    with just a few extra properties of my own addition. This seemed to dissipate the tention relatively quickly, and we were able to 'norm' on from there.
+    with just a few extra properties of my own addition. This seemed to dissipate the tension relatively quickly, and we were able to 'norm' on from there.
 
         This was the first project I've worked on where we had to so trustingly distribute entire pieces of functionality to individual people, and I am grateful for the experience.
     Where it felt kind of weird and first to put so much trust in my team, the results of our dividing and conquering were borderline euphoric at time. One merged PR and BAM, totally
@@ -268,7 +268,7 @@ How you incorporated feedback from your team members and what you learned about 
     but that I could improve by doing so sooner. After considering this shortcoming with a Right-Wrong spotting technique, I think I can build upon
     this by recognizing that my assumptions of where the group is at is not enough. I have to ask.
 
-    * In the context of being a teammate, I learned that I have an unique ability to influence the group's energy. I've never been super drawn to 
+    * In the context of being a teammate, I learned that I have a unique ability to influence the group's energy. I've never been super drawn to 
     deciding in which direction the group should go, but I do feel like a leader in being able to make sure we have the energy and capacity to get where we're going.
     In this way, I feel a bit like a team battery: my job is to keep us charged up so we can do the work we set out to do, and do it in high spirits. I'm grateful for 
     learning this about myself, and I'm excited to keep this framework top of mind as I move on to new projects with different teams.
@@ -284,7 +284,7 @@ Moreover, it was exciting to put together a job tracker and remember that the wh
 #### Cold Outreach
 
 This development session was extremely productive. The presentation was succinct and informative, and using the remaining time to actually construct and workshop an email was invaluable.
-Prior to this exercise, I thought cold outreach was very daunting. I realize now that it can be pretty straightforward. I think it's also good to rememeber that the worst thing that can happen is that they don't respond--and that's okay.
+Prior to this exercise, I thought cold outreach was very daunting. I realize now that it can be pretty straightforward. I think it's also good to remember that the worst thing that can happen is that they don't respond--and that's okay.
 
 Here are my cold outreach emails:
 
@@ -320,7 +320,7 @@ Here are my cold outreach emails:
 
     As a fellow enthusiast for quality craft and lifelong learning, I would love to hear more about your experience with Detroit Labs, and about the Detroit tech scene more broadly.
 
-    Are you free for a Google Hangout sometime, maybe  Friday (1/6) at 1pm? Let me know if a better time works for you.
+    Are you free for a Google Hangout sometime, maybe Friday (1/6) at 1pm? Let me know if a better time works for you.
 
     Thanks for considering!
 
@@ -466,7 +466,7 @@ Jon is an incredibly passionate and caring person. I have a hard time imagining 
 
 Valerie, thanks for being a regular attendee at Drills for Skills. I really appreciated your positive attitude and commitment to talk about and get more exposure to code. Good luck on your future work, and I hope to see you at the next drills session!
 
-Nick: I just wanted to reach out and share my gratitude for your support on starting up Drills for Skills. I don’t think we ended up getting the turnout we expected or wanted, but we made the most of the sessions and I think they helped everyone involved. Your thirst for knowledge and good form in programming is contagious, and I always love doing a little research binge on whatever topic comes up in conversation. Where many would leave thoughts such as ‘I wonder how to…’ , you more than anyone I know are ready to explore right away. Thanks for making the hunt for skills and knowledge a fun an collaborative one. I hope to work on a project with you one day!
+Nick: I just wanted to reach out and share my gratitude for your support on starting up Drills for Skills. I don’t think we ended up getting the turnout we expected or wanted, but we made the most of the sessions and I think they helped everyone involved. Your thirst for knowledge and good form in programming is contagious, and I always love doing a little research binge on whatever topic comes up in conversation. Where many would leave thoughts such as ‘I wonder how to…’ , you more than anyone I know are ready to explore right away. Thanks for making the hunt for skills and knowledge a fun and collaborative one. I hope to work on a project with you one day!
 
 #### Bike Share
 
@@ -480,7 +480,7 @@ Ethan: you were incredibly adaptive throughout the timeline of the project. You 
 
 Annie: I'm so stoked we got to work on this project together! I've always respected how much innovative drive you bring to programming. You seem undaunted by the need to explore and learn new technologies, and I think it gives the group an extended sense of can-do attitude. In terms of critical feedback, I recommend working 'smarter not harder' in terms of methods and tools. You obviously know how to get things running perfectly, but there were a few instances (e.g., not using before blocks in the specs, using Ruby methods over ActiveRecord or Rails methods) where you could have saved yourself many lines of code and cognitive load with simpler solutions. Overall, I'm completely grateful for your commitment to defining and sticking to a clean and efficient workflow process. It definitely elevated our project to the next level. Thanks so much for all your work and meaningful contributions to Scoopful. 
 
-Amy: Fantastic job as project manager for Little Shop. Your attention to detail was essential and made our distribution of work much more efficient and merge-friendly. For future work, I recommend you practice taking a second to slow down when problems or bugs emerge. I got the sense that in these events, your instinct is to expect the worst and act quickly, which can lead to unnecssarily complex decisions. That sense of urgency and focus, of course, also results in very high quality code that we as a group could all depend on, so maybe just try zooming out more to decide if a situation is worth your energy or not. Overall, I'm very glad we got to finally work on a project together, and I can't wait to see the work you do in the future.
+Amy: Fantastic job as project manager for Little Shop. Your attention to detail was essential and made our distribution of work much more efficient and merge-friendly. For future work, I recommend you practice taking a second to slow down when problems or bugs emerge. I got the sense that in these events, your instinct is to expect the worst and act quickly, which can lead to unnecessarily complex decisions. That sense of urgency and focus, of course, also results in very high quality code that we as a group could all depend on, so maybe just try zooming out more to decide if a situation is worth your energy or not. Overall, I'm very glad we got to finally work on a project together, and I can't wait to see the work you do in the future.
 
 Kyle: I'm very grateful for getting to work with you on this final project. You are an incredibly strong programmer, yet the technical mastery never comes across as arrogant or pretentious. You are an incredibly clear communicator, and demonstrate seemingly endless patience in all your group interactions. I suppose one downside to your competence is that you implemented features on this project without asking any questions, such as the Carrier Wave configuration. Since no questions came up, I didn't even realize so much set up went into the gem, and I didn't know how to use it at first. So, for future work, I recommend that if you go off and do your Kyle thing and learn something new, teach it back to the group with a quick walkthrough or something. Overall, I'm very grateful for the chance to work with you. Thank you for providing so many learning opportunities by sharing your knowledge.
 
@@ -492,7 +492,7 @@ Mike: Endowed with a deep fascination regarding the process of programming, Mike
 
 From Gabi Procell:
 
-Thank you again for doing Drills for Skills. It is definitely something that I am interested in continuing with. As I said earlier, our class got a wake up call this past week in terms of our knowledge with enumerables and basic JS logic. I feel bad saying it (only for front end staff) but I learned more in that 25 minutes than I did in 3 hours this morning.
+Thank you again for doing Drills for Skills. It is definitely something that I am interested in continuing with. As I said earlier, our class got a wakeup call this past week in terms of our knowledge with enumerables and basic JS logic. I feel bad saying it (only for front end staff) but I learned more in that 25 minutes than I did in 3 hours this morning.
 
 From Phyllis Hugunien:
 
@@ -503,12 +503,14 @@ You are an awesome teacher.  It's evident that you have a lot of technical knowl
 How did you actively contribute to the Turing community?
 
 * Drills for Skills: I started up a twice weekly extracurricular space for people to work on and polish their Ruby programming skills. 
-These sessions centered around Ruby Exercisms and Codewar exercises, where we worked independently for ten minutus, collaboratively for another ten, and finally reviewed
-challanges and new content for five.
+These sessions centered around Ruby Exercisms and Codewar exercises, where we worked independently for ten minutes, collaboratively for another ten, and finally reviewed
+challenges and new content for five.
 
 * Pahlka Posse: We focused this mod on a project that visualizes important education data
-To make schooling information accessible to more people. I played a key role in parsing PDF tables, desisgning the relational database,
+To make schooling information accessible to more people. I played a key role in parsing PDF tables, designing the relational database,
 and seeding this data into a Rails application.
+
+* Productivity Lunch: Weekly participation in group discussions about productivity and wellness.
 
 ------------------
 
@@ -572,7 +574,7 @@ to shape their own character and behavior. They have a significant positive
 positive impact on the learning and spirit of the people around them.
 * 3: Student consistently delivers meaningful feedback for peers and implements
 strategies to improve themselves in response to feedback. They participate in required
-activities and does at least one or two above and beyond suports of the community.
+activities and does at least one or two above and beyond supports of the community.
 * 2: Student gives meaningful impact to peers as well as being aware of themes
 in the feedback they receive. They participate in most required community activities
 such as demos, lightning talks, improv, but does not do anything else of
@@ -587,7 +589,8 @@ the larger Turing family, and persons outside our walls who want to develop
 their own skills.
 
 * 4: Student has a significant positive impact on the learning and spirit of the people around them.
-* 3: Student participates in required activities and does at least one or two above and beyond suports of the community.
+* 3: Student participates in required activities and does at least one or two above and beyond supports of the community.
 * 2: Student participates in most required community activities such as demos, lightning talks, improv, but does not do anything else of
 significance.
 * 1: Student stays in their lane and focuses on just their own learning.
+
