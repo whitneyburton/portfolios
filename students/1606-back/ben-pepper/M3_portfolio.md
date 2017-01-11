@@ -27,7 +27,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 * HyperLoop
 
-  This was my self directed project. I was asked by a few co-workers to help code in Python for their HyperLoop Competition. This involved talking to a Raspberry Pi, Arduinos, and Linear Actuators. I had to help develop the File IO system to log all data for later review and also the logic behind the GUI and initialization process for the pod. There is no link currently because the repo is private. 
+  This was my self directed project. I was asked by a few co-workers to help code in Python for their HyperLoop Competition. This involved talking to a Raspberry Pi, Arduinos, and Linear Actuators. I had to help develop the File IO system to log all data for later review and also the logic behind the GUI and initialization process for the pod. There is no link currently because the repo is private.
 
 * [APIcurious](https://github.com/bfpepper/apicurious)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module3/projects/apicurious.md)
@@ -121,9 +121,11 @@ From Anthony Ciccone
   I was pumped to hear that I was going to be in a group with Ben again. He is always willing to change and adapt to situations around him. Ben took on one of the hardest parts of the project which was working with Twillio. I also like how Ben won’t let something go until he understands the true why! I would love Ben to be in my group a 3rd time!
 
 From Noah Berman
+  It was great to finally get to work with Ben on a project! We were remote pairing at one point and his mic just flat out refused to work, but we managed to work around it and got a huge amount accomplished. (Twilio 2FA!) He took on more than his fair share of the CRUD work in the early stages of the project which left me free to fight with AWS, which I massively appreciate. Hopefully we’re able to work on something again in the future!
 
 
 From Lee Saville
+  I love how you jump right into a project. It's definitely motivating for the other members of the team. As a slight improvement, I'd like to see you be a bit calmer and methodical when you're not sure what's going on with a bug. Great working with you again on cloney-island, keep up the enthusiasm.
 
 
 From Michael Scherer
