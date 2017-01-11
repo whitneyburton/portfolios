@@ -94,6 +94,7 @@ I haven't internalized the information shared in either feedback lesson. Old hab
 
 #### Networking
 
+The networking event served as a good way of meeting a couple more people from the front-end program. The students I worked with said I offered up insightful feedback regarding how how to be successful in conversation with a total stranger. I confirmed that it is smart to keep a conversation going as long as it seems beneficial for both parties. I talked with Lia at length about how to engage my mentor's boss in our upcoming conversation. I also learned additional questions to ask my mentors to keep conversations going. 
 
 ## D: Feedback
 
