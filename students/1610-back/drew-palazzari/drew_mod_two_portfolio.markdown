@@ -17,7 +17,7 @@ Find the rubric near the end of this document.
 * **A: End of Module Assessment**: 3
 * **B: Individual & Group Work**: 4
 * **C: Professional Skills**: 3
-* **D: Feedback**: 3
+* **D: Feedback**: 4
 * **E: Community Participation**: 3
 
 -----------------------
