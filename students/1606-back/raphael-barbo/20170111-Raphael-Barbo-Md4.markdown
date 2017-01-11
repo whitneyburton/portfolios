@@ -59,7 +59,7 @@ _EVAL SCORES_
 
 #### Blog Post & Peer Review
 
-* [Link to post]()
+* [Link to post](https://medium.com/@rsbarbo/the-guide-to-becoming-a-software-developer-trust-me-you-can-do-this-a703ea5b88e7#.7rmhf2ujs)
 * [Link to peer review]()
 
 ---
