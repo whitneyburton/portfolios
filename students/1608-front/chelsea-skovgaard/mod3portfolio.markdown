@@ -68,10 +68,11 @@ Troubleshooting:
 Feedback from Hilary:
 I always enjoy working with Chelsea because she works very efficiently through problems. Chelsea came into the project having a limited understanding of Redux and she was able to logically share her ideas on setting up components and reducers. I enjoyed Chelsea's willingness to help me on tests when I was getting frustrated by suggesting that we Screenhero and she worked through the problems with me. Chelsea has a lot to bring to a team because of her teamwork, eye for design, understanding of user experience, and positive attitude.
 
+Feedback from Matt:
+Chelsea is awesome to work with. She's always in good spirits and bringing a welcome energy to the team. Working with her on our Weather/Redux project was really great. She's super reliable and always pulls through with the work she committed to, even going above and beyond. She made our app look great, and helped write important tests that lead to our project being a great success. Chelsea has a very skilled developer and one of the most enjoyable people to be around in our cohort. I hope we get to work together again soon!'
+
 Feedback from Dale:
 I was on the first group project of Mod3 with Chelsea.  The project was an enhanced weather application. This was second time I have worked with Chelsea and I know what she has to offer her team.  An area of strengthening in regards to this project was she seemed a little disengaged as compared to our previous project. It was our fist 'large' group project and I think we were all struggling to find a way to add to the team in a positive way.  Chelsea has great technical skills and is quick to get in and figure things out.  I have always liked working and learning with Chelsea.
-
-Feedback from Matt:
 
 
 #### remEMBER
@@ -86,6 +87,8 @@ Pull Request Quality:
 Project Completion: 3 (10 issues closed)
 
 Feedback from Kristen:
+I have wanted to work with Chelsea since our first module, and it was so great to finally get that opportunity on the Ember project. Chelsea has such a positive attitude and exceptional communication skills, which were tremendously helpful for this project whose prime focus was a smooth workflow. Furthermore, I was out sick when my cohort was introduced to Ember, and Chelsea was able to get me up to speed and understanding the structure of an Ember app and our project in an hour over Sceenhero. Chelsea is great at debugging and problem solving, and I felt like between the two of us, we could work through any problem with little to no outside help.
+My only constructive feedback is to not be afraid to call me (or anyone else) out when I'm being difficult or stubborn on working through a problem :) I truly hope we get to work together again in our final mod!
 
 ## D: Professional Skills
 
@@ -144,6 +147,9 @@ I am happy that Christine is part of the Turing Community. She has been an activ
 To Susi:
 I was lucky enough the meet Susi during my first module at Turing during the Joan Clarke coffee mornings and in the Pahlka posse. I also have had the pleasure of interacting with her during Gear Ups and Lunch Roulette over the following modules. Susi is one of the most open, graceful, and kind-hearted people I have met. She can't help but make you smile when she talks. She made Turing feel welcoming and gave me confidence as a fellow female developer. I also appreciate how Susi always speaks her mind while being willing to listen. Susi is a wonderful colleague, friend, and developer who contributes to the community and inspires others.
 
+To Laszlo:
+Laszlo's genuine kidness is really hard to come by, Chelsea and I felt incredibly lucky to have him as a part of the Verou posse and to get to know him as a person. He is always willing to lend a helping hand and step up when needed to share his knowledge and perspective. When Chelsea and I asked for people to volunteer to give spikes during posse time Laszlo volunteered without hesitation. Not only are we happy to have had Laszlo as a part of the Verou Posse, but we look forward to continuing to get to know him as a developer and friend!
+
 ### Being a Community Member
 
 Feedback from Susi Irwin (1606-BE):
@@ -152,7 +158,7 @@ Chelsea - you are such a force at Turing. Getting to know you at JSC and Friday 
 Feedback from Christine:
 Chelsea continually contributes to the Turing community. She created and has led the Verou posse, which is great for both front-end and back-end students. I know leading a posse can be very time consuming, and she and Lacey have gone out of their way to make sure this posse is worthwhile for those who attend. We unfortunately did not have any projects together this mod, but we still collaborated and problem solved together often, which I really appreciated. Chelsea is becoming a great developer and I look forward to working with her more in the future.
 
-Feedback from Lazlo Balogh (1610 BE):
+Feedback from Laszlo Balogh (1610 BE):
 Another module with the Verou Posse being under Chelsea's and Lacey's leadership. I enjoyed very much joining the weekly sessions. They provided great energy to bring together a large group to spread knowledge about front end related concepts and tools. Joining the Verou Posse from the Back End program the atmosphere was always welcoming and never for a second felt as an "outsider". They proved that they have what it takes to bring people together for collaboration. As they move to Mod4 and hand over leadership of the Verou Posse, their effort and contribution will be missed.
 
 Feedback from Graham Nessler:
