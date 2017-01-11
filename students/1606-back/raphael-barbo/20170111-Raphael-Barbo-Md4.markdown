@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-_WRITE SOMETHING HERE_
+I think it is undeniable that my main area of emphasis for module 4 is to prove to myself that I can do this... I love coding and I love the challenges it represents, and although I do not want to be a software developer for the rest of my life (I really want to be a Product/Project Manager), I now have a great sense of admiration for coding and coders. My goal for module four as far as technical skills, was definitely to get as much exposure as possible to JS and REACTJS, and I think I have accomplished it thanks to the curriculum that the staff has put together.
 
 ---
 
