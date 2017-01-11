@@ -204,6 +204,7 @@ Having this topic then be applied to the growth mindset idea solidified the less
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 * [Link to Completed Deliverables](https://www.linkedin.com/in/marissareinke)
+* [Resume](https://drive.google.com/open?id=0B3svkvGDyNXweEo4ZkZ6enM4ZmJfX25OYzlWWHRCQjc5QlNV)
 
 Finding a way to begin to define who I am from a career stance as well as a personal one and how to professionally display this on a resume or professional profile. It really helped to begin to think of these things realistically before I will be able to answer them so that when I am ready to move into the job pool I will have had plenty of time to formulate and articulate a proper response and to also have an updated and sleek portfolio and resume. 
 
