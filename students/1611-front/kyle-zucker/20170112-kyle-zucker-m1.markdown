@@ -168,10 +168,11 @@ CSS Style
 
 ## D: Professional Skills
 
+### Professional Development Workshops
 
-### Resume
+#### Resume
 * [Resume](https://resume.creddle.io/resume/d9o4r324bdb)
-
+* [LinkedIn](https://www.linkedin.com/in/kylezucker)
 
 
 #### DTR
@@ -204,24 +205,13 @@ Utilizing our deadlines and github to stay on top of stuff and so one person can
 Use lots of branching effectively
 
 
-
 ### Gear Up
-#### Vote Your Conscience
+#### Grit
 
-* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
+* [Workshop URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
+This workshop discussed the concept of "grit" and its applications to your Turing experience. I consider myself a "gritty" person and have been my entire life. The idea of building grit wasn't one that felt too relavant to me. That said it was interesting to take a step back and look at the concept thru an outside lens. It was funny to hear Ellen Mary say "you still have such a long time left, you have 5.5 months left!" as I would consider a time period that's less than 6 months as not much, basically no time at all. 
 
-
-### Professional Development Workshops
-
-
-#### (Session Name)
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
 
 ## E: Feedback and Community Participation
 
@@ -229,15 +219,21 @@ It was difficult to refrain from talking about the current election in the conte
 
 Marissa is the best! Fantastic coder and very creative too. It was an honor to work with her on game-time. I definitely couldn't have got thru the project without her! 
 
+Chelle is great! I appreciated her enthusiasm and helpfulness in our pairing session
+
+Bucket's got it. His progress has been phenomenal and his work ethic goes far beyond most. His ability to take a problem and make it his own and find his own way thru it is inspiring. Don't hold back. If you think you can do it, then do it. If you think you can't do it, then do it anyway. 
 
 
 ### Being a Community Member
 
-(feedback to me)
+Working with you has been really great. You make it easy to make your skillset that is above my own as a benefit to my own education instead of me feeling like I am holding you back. I appreciate you pushing me and love our game!
+
+Kyle is a rockstar. I am so impressed with his knowledge and coding abilities. He is able to think of and implement coding solutions that are elegant and concise. Thanks for your help during this mod kyle.
+
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I greatly value my relationships will everyone in the Turing comunity and made it a point to establish as many positive relationships in this mod. I feel satisfifed with my involvement. 
 
 ------------------
 
