@@ -127,7 +127,7 @@ Collaboration
 
 #### Linked List
 
-* https://github.com/zkc/Linked-List
+* [GitHub Pages](https://github.com/zkc/Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 I need a link! Good thing it's on this list. This project was my first experience pair programming. The discovery of event bubbling was thrilling. 
@@ -227,7 +227,9 @@ It was difficult to refrain from talking about the current election in the conte
 
 ### Giving Feedback
 
-(feedback from me)
+Marissa is the best! Fantastic coder and very creative too. It was an honor to work with her on game-time. I definitely couldn't have got thru the project without her! 
+
+
 
 ### Being a Community Member
 
