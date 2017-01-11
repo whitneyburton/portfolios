@@ -181,8 +181,12 @@ feel a little easier.
 
 ### Notes
 
-( Leave blanks for reviewers )
+Will set up a schedule for a personalized mod-off plan.
+Auditing classes in both mods 2 and 3.
+Will set up individual projects that help strengthen weak spots. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Fail
+
+Taking a module off, then either repeating 3 or testing into 4 depending on the situation.
