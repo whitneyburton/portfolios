@@ -5,33 +5,60 @@ This module my main goal is to further prepare myself for my new career in softw
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
-* **D: Professional Skills**:
-* **E: Feedback & Community Participation**:
+* **A: End-of-Module Assessment**:3
+* **B: Individual Work & Projects**:3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
 ## A: End of Module Assessment
 
-### Assessor:
+### Assessor: Nate Allen
 
 ### Notes:
 
 * Notes
 
+Needed for Satisfactory Progress:
+
+- Doesn't require password confirmation
+- Links don't seem to be scoped to users
+- Doesn't have flash messages on create ajax
+- Mark as unread also adds to read count on hotreads
+- And edit
+- Add title to javascript url filtering
+
+
+### 1. Satisfactory Progress
+
+* 2: Developer completes sections 1 through 5 with some _minor_ bugs or missing functionality.
+
+### 2. Ruby & Rails Style & API
+
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 3. Javascript Syntax & Style
+
+* 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 4. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
+
+### 5. User Interface
+
+* 3: The application has many strong pages/interactions, but a few holes in lesser-used functionality
+
+### 6. Workflow
+
+* 4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+
 ## Evaluation Criteria
 
-## B: Individual Assessment
-
-* **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
-* **D: Professional Skills**:
-* **E: Feedback & Community Participation**:
-
-## C: Capstone Project
+## B: Capstone Project
 
 #### Project - Monocle
 
@@ -67,20 +94,19 @@ Brendan Dillon: "It has been such an amazing pleasure to get to work with you on
 
 Dan Broadbent: "You stepped up on day 1 and offered to PM the project. Kudos to you for that! I admire your ability to stand up for your opinions to the tech leads and present the facts as you seem them, back them up with evidence and present your case. You never get emotional about it, you simply state what you know, what you see, and your proposed outcome. You have amazing communication skills both written and spoken. You present yourself in a professional manner but still know how to sit back and joke around when the timing is right. Pairing with you on the Notes section of the project was great. Thank you for trusting me to struggle through some bugs and knowing when to step in and offer guidance and support. You are a natural leader and it was great working with you again."
 
-## D: Open Source
+## C: Open Source
 * [Link to Project PR - Code]()
 * [Link to Project Documentation PR]()
 
-## E. Professional Development - Technical Blog Post
+## D. Professional Development - Technical Blog Post
 * [A Backender Reacting to React](https://medium.com/@susi27/a-backender-reacting-to-react-2ee0dbcc1e87#.8dicf9mu8)
 
 * Feedback/Review from Sonia Gupta: "There is a minor typo in the first paragraph, it should say "components as reusable objects." I like the bag analogy you use, it's very approachable. Drawing similarities with HTML also makes the reader more comfortable, and your enthusiastic narration is fun to read!"
 
+## E: The Plan
+[Link to The Plan](https://gist.github.com/susiirwin/11467d5611e8f3e241c433523690c1c1)
 
-## F: The Plan
-[Link to The Plan]()
-
-## G: Community
+## F: Community
 
 ### Gear Up
 #### Microagressions (Group 3)
@@ -98,8 +124,7 @@ My group loved this session. We decided to take a less technical approach to the
 
 I had heard of this before, but never really dug into it. It was a great session to have at the end of the Module especially as a Module 4 student heading into my first Software Development role in just a few weeks. It really made me reflect on WHY I decided to come to Turing and give up my previous career. It also made me think long and hard about how Grit is not always a good thing - how sometimes it can lead to unhealthy behaviors. I have seen in myself and others the Grit taking over and things outside of our focus falling too far to the wayside. When all focus is directed on this one goal, does anything else suffer? Does anyONE else suffer? Do we has the Gritty person suffer? One idea we discussed in our group along with the idea I just mentioned was failing fast if one is to fail. What we meant by this, is that it would be better to fail quickly versus spending months, years on a passion that just isn't right for us. There is a lot of self-awareness that needs to come alongside Grit and I think finding and striking that balance is not only extremely important, but absolutely crucial.
 
-
-## H: Feedback and Community Participation
+## G: Feedback and Community Participation
 
 ### Giving Feedback
 
@@ -126,13 +151,15 @@ SAB member (2 modules) - I have been on SAB for two modules and have really enjo
 Imposters Lunch -
 Imposters has gone through many changes since I started attending in Module 1. When I stepped up as a co-lead I helped shape it to be more of a coping session than a venting session. We actively spoke about how we can deal with feeling like an imposter, build up some tools for our "toolbox" to help with this, and support each other in our individual journeys.
 
-Lunch Roulette -
+Lunch Roulette - I have been a firm believer in Lunch Roulettes since Module 1. I think they are super important to the health and well-being of students because we are socializing and not sitting in front of our code. We are talking and chit-chatting and finding out about our Turing-mates. I think over the course of my 7 months at Turing I have only skipped 3 Lunch Roulettes and 2 of those were due to SAB. I was almost always the person initiating the group each week and always left it open brown bag or going out. I loved these lunches and the culture that they created.
 
-Joan Clarke Society -
+Joan Clarke Society - This group has been so inspiring for me and has really allowed me to get to know some amazing women. Each Tuesday we met at Common Grounds (RIP) and just talked. Sometimes there was some impromptu pairing, but mostly it was good company. The slack channel has been super important as well, but the face to face interactions have been the best.
 
-Guest Speakers -
+Guest Speakers - I have attended and enjoyed every guest speaker during my 7 months at Turing. I have always found them interesting and inspiring. My favorite was the man from Democracy now talking about Micro-services. It was something that, at the time, I had no idea about and was an awesome segue into the next week when Jeff taught us about them. Having that base lecture from our guest speaker made the concept a little less abstract for me - though still difficult.
 
 ### Mentor Relationship throughout Turing
+
+Matt Rogers and Mark Miranda -
 
 ------------------
 
