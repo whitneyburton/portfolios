@@ -30,10 +30,7 @@ Student: Mike Schutte
 Subjective evaluation will be made on your work/process according to the following criteria:
 
 1. Conceptual Understanding
-    * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
     * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
-    * 2: Developer demonstrates some gaps in understanding when asked for additional detail
-    * 1: Developer has fundamental misconceptions about Rails, MVCs, the web, or related topics
 2. Analytic/Algorithmic Thinking
     * 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
 3. Feature Completeness
@@ -272,6 +269,9 @@ How you incorporated feedback from your team members and what you learned about 
     deciding in which direction the group should go, but I do feel like a leader in being able to make sure we have the energy and capacity to get where we're going.
     In this way, I feel a bit like a team battery: my job is to keep us charged up so we can do the work we set out to do, and do it in high spirits. I'm grateful for 
     learning this about myself, and I'm excited to keep this framework top of mind as I move on to new projects with different teams.
+
+    * In terms of room for improvement, I learned in the Little Shop retro that my work ethic can be alienating and make my group members feel like they are not doing enough.
+    I need to keep this in mind as I move into other group projects. To act upon this, I'm going to be up front about this tendency, and also try to relax what tends to be a break-neck pace by default.
 
 #### Finding Opportunities
 * [Job Tracker (Trello)](https://trello.com/b/GrDk8PVl/job-tracker-mike-schutte)
