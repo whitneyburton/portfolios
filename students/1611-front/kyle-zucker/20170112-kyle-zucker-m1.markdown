@@ -1,8 +1,9 @@
-# (Kyle Zucker) - (M1) Portfolio
+# Kyle Zucker - M1 Portfolio
 
 ## Areas of Emphasis
 
 I wanted to learn a lot #$%^#$%^#$^%
+I wanted to work with other developers, speak the language 
 
 ## Rubric Scores
 
@@ -25,17 +26,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Here are some things I've done by myself
 
-#### Linked List
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
 #### Number Guesser
 
 * [GitHub URL]()
@@ -53,6 +43,18 @@ Here are some things I've done by myself
 Here are some things I've done with other people
 
 #### IdeaBox
+
+* https://zkc.github.io/IdeaBox/
+* https://github.com/zkc/IdeaBox
+* http://frontend.turing.io/projects/ideabox.html
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Linked List
 
 * [GitHub URL]()
 * [Original Assignment]()
