@@ -2,7 +2,7 @@
 
 ## End of Module Reflection
 
-I learned how to build, in Ruby on Rails and Sinatra, a fully deployable web application. The process for doing so involves a multitude of steps that I have become proficient with, since starting the module. The greatest value offered from this module is learning how to CRUD out an application. This process involves needing to know how to add content and style a page, create routes, and use a database to store information about our model objects. In the coming module, I plan on using what I've learned about Active Record to help me be successful on Rails-Engine. 
+I learned how to build, in Ruby on Rails and Sinatra, fully deployable web applications. The process for doing so involves a multitude of steps that I have become proficient with, since starting the module. The greatest value offered from this module is learning how to CRUD out an application. This process involves needing to know how to add content and style a page, create routes, and use a database to store information about our model objects. In the coming module, I plan on using what I've learned about Active Record to help me be successful on Rails-Engine. 
 
 ## Self-Evaluated Rubric Scores
 
