@@ -63,6 +63,10 @@ _EVAL SCORES_
 * [Link to peer review]()
 
 ---
+### The Plan
+
+* [Link to Gist](https://gist.github.com/j-sm-n/bebd8d76604a152d7f6d0709ee873509)
+___
 
 ### Gear Up
 
