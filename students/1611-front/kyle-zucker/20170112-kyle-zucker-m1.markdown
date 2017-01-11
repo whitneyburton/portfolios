@@ -31,11 +31,25 @@ Here are some things I've done by myself
 * [GitHub URL](https://github.com/zkc/NumberGuesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+Guess the Number! I enjoyed building the UI and adding in extra features 
 
-(evaluation comments)
+Evaluator: Louisa
 
-(evaluation scores)
+UX/UI Expectations
+
+4: Application matches comp exactly. There are no omitted details. Any extensions are intuitive, well designed, easy to use, and in keeping with the visuals outlined in the comp. Virtually no major improvements are needed in the UX or UI.
+Functional Expectations
+
+4: Application meets all of the functional expectations in Phase Three
+Fundamental HTML
+
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+Fundamental CSS
+
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+Fundamental JavaScript
+
+3: Application shows strong effort towards organization, content, and proper syntax
 
 
 ## C: Group Work & Projects
@@ -44,10 +58,10 @@ Here are some things I've done with other people
 
 #### Steve the Squirrel (Game Time!)
 
-* https://github.com/marissa27/game-time
-* http://frontend.turing.io/projects/game-time.html
+* [GitHub URL](https://github.com/marissa27/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-Steve needs to get his nut back home! Guide Steve thru the perilous Nutcracker infested  forests 
+Steve needs to get his nut back home! Guide Steve thru the perilous Nutcracker infested forests. This project increased my love of objects in js.
 
 (evaluation comments)
 
@@ -57,11 +71,11 @@ Steve needs to get his nut back home! Guide Steve thru the perilous Nutcracker i
 
 #### IdeaBox
 
-* https://zkc.github.io/IdeaBox/
-* https://github.com/zkc/IdeaBox
-* http://frontend.turing.io/projects/ideabox.html
+* [GitHub Pages](https://zkc.github.io/IdeaBox/)
+* [GitHub URL](https://github.com/zkc/IdeaBox)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+I've got an idea, let's box that up. This project was a good continuation of pair programming experience. 
 
 Evaluator: Robbie
 
@@ -92,9 +106,9 @@ Collaboration
 #### Linked List
 
 * https://github.com/zkc/Linked-List
-* http://frontend.turing.io/projects/linked-list.html
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+I need a link! Good thing it's on this list. This project was my first experience pair programming. 
 
 Evaluator: Bree
 
@@ -142,6 +156,28 @@ It was difficult to refrain from talking about the current election in the conte
 
 
 ### Professional Development Workshops
+#### DTR
+##### Project: _Game Time
+Group Member Names: Kyle Zucker and Marissa Reinke
+Project Expectations: What does each group member hope to get out of this project? Goals and expectations:
+Kyle hopes to use github better, use it constantly/consistently, come out with a good game
+Kyle expects: base game to be completed and solid
+Kyle: to have a solid product then be able to mess around with other features
+Marissa hope to learn more complicated jquery and set deadline/track progress
+Marissa Goal: have a fun game that I am proud of to show people 
+Marissa expectations to learn a lot 
+Schedule Expectations: When are we available to work together and individually?
+Both say evenings are best time for working, save mornings for small fixes or pairings if needed 
+Communication Expectations: How and how often will we communicate? How do we keep lines of communication open?
+Kyle: always be in a place of knowing what the other has going on and at anytime be able to see what the other is doing and tie into milestones 
+Marissa: ditto 
+Abilities Expectations: Technical strengths and areas for desired improvement:
+Kyle strengths: messed around with JS stuff, the engine behind making it work. Will like to improve on design side – no clue where to begin
+Marissa: I feel comfortable in design and css, keep getting faster at JavaScript and feeling more confident 
+Workload Expectations: What features do we each want to work on?
+Utilizing our deadlines and github to stay on top of stuff and so one person can’t break it all! 
+Use lots of branching effectively
+
 #### (Session Name)
 
 * [Workshop URL]()
