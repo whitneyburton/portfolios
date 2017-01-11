@@ -2,8 +2,7 @@
 
 ## Areas of Emphasis
 
-I wanted to learn a lot #$%^#$%^#$^%
-I wanted to work with other developers, speak the language 
+I wanted to work with other developers and start building relationships. And code a lot. 
 
 ## Rubric Scores
 
@@ -19,7 +18,38 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+### OOP Eval
+Evaluator: Bree
+
+Progression/Completion
+
+4: Developer is able to implement solutions at the speed of a developer.
+JavaScript Problem Solving
+
+3: Developer solves problems with a balance between conciseness and clarity, and can effectively leverage documentation
+Workflow
+
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+Collaboration
+
+3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+### DOM Eval
+
+Evaluator: Louisa
+
+Progression/Completion
+
+3.5: moved at a consistent, comfortable pace
+JavaScript Style
+
+3.5: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+Workflow
+
+4: Developer is a master of their tools, efficiently moving between phases of development
+Collaboration
+
+3.5: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 
 ## B: Individual Work & Projects
@@ -68,7 +98,7 @@ Here are some things I've done with other people
 * [GitHub URL](https://github.com/marissa27/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-Steve needs to get his nut back home! Guide Steve thru the perilous Nutcracker infested forests. This project increased my love of objects in js.
+Steve needs to get his nut back home! Guide Steve thru the perilous Nutcracker infested forests. This project increased my love of objects in js. This the first time I've experinced a "thing of codes" become large enough to start to have a personallity of sorts. 
 
 Evaluator: Bree
 
@@ -101,8 +131,6 @@ I've got an idea, let's box that up. This project was a good continuation of pai
 
 Evaluator: Robbie
 
-Notes:
-
 Workflow needed conversation in PRs and no one should consistently merge their own PR
 Shared classes in CSS had repetition
 Liked the use of constructors and objects, not sure it was necessary because it felt "heavy", but good practice with objects
@@ -134,8 +162,6 @@ I need a link! Good thing it's on this list. This project was my first experienc
 
 Evaluator: Bree
 
-Notes:
-
 Functional Expectations
 
 3: Application meets all of the functional expectations in Phase Two.
@@ -153,22 +179,11 @@ CSS Style
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
 ## D: Professional Skills
 
+
 ### Professional Development Workshops
+
 
 #### Resume
 * [Resume](https://resume.creddle.io/resume/d9o4r324bdb)
