@@ -54,10 +54,14 @@ That being said, there was a lot of AWESOME that happened within out project. I 
 The main part of the project that I am proud of and excited about is the JavaScript Notes for companies. This was a long, very long, tedious set of cards for Dan and me. This took us more than 1 sprint to accomplish (it was all due for Sprint 2), but we hit a lot of snags - mainly the fact that we had a few lessons in JavaScript and were trying to implement it as we went. I know that this was probably one of the more realistic "real world" scenarios for us in this project so although it was frustrating, it was also pretty amazing. We knew that our code left a lot to be desired, but we had no idea how buggy it truly was until we started messing with it in staging and production. It was an eye opener for us. We had to sit down, go back through all of the JavaScript we had written and really just dig our teeth into it to see what was going on, where it was breaking, and what we needed to do to fix it. And... we got it. Such an amazing feeling! Our ajax calls were firing, we were persisting data to the database, we could show a note's author and allow a note owner (or admin) to edit and delete notes. In Rails this was a no brainer for us - we had it working in no time, but JS was a different story and it was a difficult one. It feels really good to squash those bugs.
 
 #### Feedback to me:
+From Nate:
 
+From Dan:
+
+From Brendan:
 
 #### Feedback from me:
-Nate Anderson: "Nate, your analytical nature makes you such a pleasure to work with on projects and specifically on Monocle. You are not afraid to ask the tough questions of the Tech Lead, the Team, or the application itself."
+Nate Anderson: "Nate, your analytical nature makes you such a pleasure to work with on projects and specifically on Monocle. You are not afraid to ask the tough questions of the Tech Lead, the Team, or the application itself. It is an absolute blast to work through problems with you. You have a knack of looking at the code and the problems from a different angle that I don't see. Your keen sense and intuition are incredible. Your work on Monocle has been outstanding."
 
 Brendan Dillon: "It has been such an amazing pleasure to get to work with you on this project. Your ability to look at a problem, break it down into super small, reasonable parts is second to none. I am in awe at your abilities with JavaScript and jQuery. No card given to you ever seemed to fluster you in the slightest. I hope to gain some of your confidence and curiosity as I move away from Turing. Your calm approach to programming verges on Zen and is extremely commendable."
 
@@ -74,12 +78,15 @@ Dan Broadbent: "You stepped up on day 1 and offered to PM the project. Kudos to 
 
 
 ## F: The Plan
+[Link to The Plan]()
 
 ## G: Community
 
 ### Gear Up
 #### Microagressions (Group 3)
 * [Original Gear Up Outline](https://github.com/turingschool/gear-up/blob/master/microaggressions_group3.md)
+
+This was an amazing small group (4 person) discussion. Oddly enough there were 3 people with red hair so we had discussions about being a red head in this world and how sometimes comments that are hysterical jokes to the speaker are fairly offensive to us. We spoke about where we think these comments and reactions stem from and what we can do to really work to alleviate them all together. It was a pretty heavy discussion, but it felt really great to hear from my group and chat about things like this.
 
 #### Journey Mapping
 * [Original Gear Up Outline]()
@@ -96,6 +103,18 @@ I had heard of this before, but never really dug into it. It was a great session
 
 ### Giving Feedback
 
+* Bailey Ward - "I have been so, so fortunate to be matched up with Bailey as she entered Turing this module. Bright, hardworking, empathetic and just all around amazing, Bailey brings with her the grit to accomplish whatever she puts her mind toward."
+
+* Chelsea Skovgaard - "Chelsea - you are such a force at Turing. Getting to know you at JSC and Friday Guest Speakers has been a highlight of this module. Your positive attitude, eagerness to learn, and general kindness is truly what makes our community what it is. You are always there with words of encouragement, a hug when needed, a cup of the truth when that is needed as well. Chelsea, you are such an asset to the development world and I cannot wait to watch you take it by storm!"
+
+* MaryJane Valade - "She probably doesn't know this, but MaryJane has been one of my inspirations at Turing since I met her. Her confidence and sense of self is so commendable and I strive to be as self assured as she is. She stays calm and collected, can carefully and articulately communicate her thoughts and opinions, and knows how to get the job done. She is a rock star and I am so excited to move into the "real world" of development with her!"
+
+* Raphael Barbo - "Rapha has always been one to stop, listen, and check in with me. He has been a constant supporter of every student at Turing whom he has come in contact with. His positive attitude and cheery mood is not to be missed around Turing! Rapha keeps his head on his shoulders but dreams big - in his code and in life in general. I am so excited to see where Rapha takes his talent and the applications that he will develop."
+
+### Receiving Feedback
+
+* From Chelsea Skovgaard - "I was lucky enough the meet Susi during my first module at Turing during the Joan Clarke coffee mornings and in the Pahlka posse. I also have had the pleasure of interacting with her during Gear Ups and Lunch Roulette over the following modules. Susi is one of the most open, graceful, and kind-hearted people I have met. She can't help but make you smile when she talks. She made Turing feel welcoming and gave me confidence as a fellow female developer. I also appreciate how Susi always speaks her mind while being willing to listen. Susi is a wonderful colleague, friend, and developer who contributes to the community and inspires others."
+
 ### Being a Community Member and Playing a Part
 
 Try Turing - I have participated in two Try Turing Panels and have really enjoyed sharing my story with potential students. I enjoy talking about my school and my community. It is an amazing feeling to have someone walk up to me the first week of the module and tell me that I was part of their decision to apply to Turing. It gives me goosebumps to think that I might have had a part in helping someone else make this huge decision to change their life.
@@ -107,6 +126,13 @@ SAB member (2 modules) - I have been on SAB for two modules and have really enjo
 Imposters Lunch -
 Imposters has gone through many changes since I started attending in Module 1. When I stepped up as a co-lead I helped shape it to be more of a coping session than a venting session. We actively spoke about how we can deal with feeling like an imposter, build up some tools for our "toolbox" to help with this, and support each other in our individual journeys.
 
+Lunch Roulette -
+
+Joan Clarke Society -
+
+Guest Speakers -
+
+### Mentor Relationship throughout Turing
 
 ------------------
 
