@@ -129,8 +129,8 @@ A weather app created with React/Redux that allows the user to see different for
 ### Being a Community Member
 
 *From Joey Stansfield(1608 BE)*
->Hey Gabi, It's been great doing things with you this module and all modules. I really appreciate your accountability and >willingness to take on tasks. Thanks for showing up to the Turing Lab and for helping with some of the organization there. >Thanks for getting the LAN party together, it was super fun and we should do it again. You've been involved with the whole >"community" part of my portfolio since mod 1 and having you around has made all the awkward things (like public speaking) 
->feel a little easier.
+>Hey Gabi, It's been great doing things with you this module and all modules. I really appreciate your accountability and willingness to take on tasks. Thanks for showing up to the Turing Lab and for helping with some of the organization there. Thanks for getting the LAN party together, it was super fun and we should do it again. You've been involved with the whole "community" part of my portfolio since mod 1 and having you around has made all the awkward things (like public speaking) 
+feel a little easier.
 
 ### Playing a Part
 
