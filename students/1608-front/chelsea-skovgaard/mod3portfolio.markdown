@@ -7,8 +7,8 @@ I want to take time to become more confident doing foundational JavaScript. My p
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3
+* **B: Individual Work & Projects**:
+* **C: Group Work & Projects**:
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 4
 
@@ -16,10 +16,9 @@ I want to take time to become more confident doing foundational JavaScript. My p
 
 ## A: End of Module Assessment
 
-Progression/Completion:
-JavaScript Style:
-Workflow:
-Collaboration:
+Specification Adherence:
+Determining the Right Tools:
+Following Documentation:
 
 ## B: Individual Work & Projects
 
@@ -146,6 +145,9 @@ To Susi:
 I was lucky enough the meet Susi during my first module at Turing during the Joan Clarke coffee mornings and in the Pahlka posse. I also have had the pleasure of interacting with her during Gear Ups and Lunch Roulette over the following modules. Susi is one of the most open, graceful, and kind-hearted people I have met. She can't help but make you smile when she talks. She made Turing feel welcoming and gave me confidence as a fellow female developer. I also appreciate how Susi always speaks her mind while being willing to listen. Susi is a wonderful colleague, friend, and developer who contributes to the community and inspires others.
 
 ### Being a Community Member
+
+Feedback from Christine:
+Chelsea continually contributes to the Turing community. She created and has led the Verou posse, which is great for both front-end and back-end students. I know leading a posse can be very time consuming, and she and Lacey have gone out of their way to make sure this posse is worthwhile for those who attend. We unfortunately did not have any projects together this mod, but we still collaborated and problem solved together often, which I really appreciated. Chelsea is becoming a great developer and I look forward to working with her more in the future.
 
 Feedback from Lazlo Balogh (1610 BE):
 Another module with the Verou Posse being under Chelsea's and Lacey's leadership. I enjoyed very much joining the weekly sessions. They provided great energy to bring together a large group to spread knowledge about front end related concepts and tools. Joining the Verou Posse from the Back End program the atmosphere was always welcoming and never for a second felt as an "outsider". They proved that they have what it takes to bring people together for collaboration. As they move to Mod4 and hand over leadership of the Verou Posse, their effort and contribution will be missed.
