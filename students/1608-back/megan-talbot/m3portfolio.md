@@ -80,7 +80,7 @@ Notes: -
 
 
 
-*Feedback to Alisher:*
+*Feedback to Alisher:*<br>
 Alisher was such a supportive and helpful partner for Rales Engine!  He was always willing to try new things and very open to feedback. This was a hard project but I was very happy with our results. I unfortunately had a funeral on the last day of this project, but Alisher never missed a beat when offering to handle the eval on his own. He was very thoughtful in making sure I gained all of the  information that I could have missed, and I appreicate his eagerness to be there  for me in that way!
 
 
@@ -94,7 +94,7 @@ This project had us create a total application from scratch. Our group built a p
 
 
 
- __**Evaluation Comments:**__
+ __**Evaluation Comments:**__<br>
  We self-graded this project and were relatively hard on ourselves, as we all wanted a perfect final product! Sally said she agreed with the grades we gave ourselves which are below. It essentially works out to all 3's (one 2.5 and one 3.5) and we did get the extra point for pushing ouselves to try something new. 
 
  __**Evaluation Scores:**__
@@ -130,7 +130,7 @@ This project had us create a total application from scratch. Our group built a p
 
  __**Feedback:**__
  
-*Feedback from Ryan:*
+*Feedback from Ryan:*<br>
 Megan was an excellent team member on Cloney Island. I repeatedly saw her jump on whichever part of the project needed her, even if it wasn't an easy or glamorous task like user ratings. Though at times we faced difficult problems, pairing with Megan was always a positive experience, and I am grateful that we had the chance to work on a team while at Turing.
 
 
