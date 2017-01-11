@@ -168,6 +168,7 @@ From Lee Saville
 
 
 From Michael Scherer
+  Ben was a great partner during Rales Engine.  He performed his work diligently, and genuinely cared about the success of the project.  While we had different work styles, Ben was easy to coordinate with, and made adjustments accordingly.  An opportunity for Ben would be to communicate his intentions better.  There were times where it was difficult to determine what he was working on, or where he was located.  All-in-all Ben was a great partner, and I think it came through in our work.
 
 ### Playing a Part
 
