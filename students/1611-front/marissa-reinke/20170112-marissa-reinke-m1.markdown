@@ -184,7 +184,7 @@ The app should display the number of list items there are as a whole, those read
 
 
 ## D: Professional Skills
-(Intro)
+Professional skills was time set aside for growing not only as an individual, but as a community. The lessons and projects had perspective for introspection as well as having my ideas challenged. I enjoyed these for the group part the most because without hearing other perspectives it is pretty hard to grow/learn.
 
 ### Gear Up
 #### GRIT
