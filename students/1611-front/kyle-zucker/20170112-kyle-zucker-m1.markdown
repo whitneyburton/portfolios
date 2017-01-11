@@ -158,23 +158,34 @@ It was difficult to refrain from talking about the current election in the conte
 ### Professional Development Workshops
 #### DTR
 ##### Project: _Game Time
+
 Group Member Names: Kyle Zucker and Marissa Reinke
-Project Expectations: What does each group member hope to get out of this project? Goals and expectations:
+Project Expectations: What does each group member hope to get out of this project? 
+
+##### Goals and expectations:
+
 Kyle hopes to use github better, use it constantly/consistently, come out with a good game
 Kyle expects: base game to be completed and solid
 Kyle: to have a solid product then be able to mess around with other features
 Marissa hope to learn more complicated jquery and set deadline/track progress
 Marissa Goal: have a fun game that I am proud of to show people 
 Marissa expectations to learn a lot 
-Schedule Expectations: When are we available to work together and individually?
+
+##### Schedule Expectations:
+
+When are we available to work together and individually?
 Both say evenings are best time for working, save mornings for small fixes or pairings if needed 
 Communication Expectations: How and how often will we communicate? How do we keep lines of communication open?
 Kyle: always be in a place of knowing what the other has going on and at anytime be able to see what the other is doing and tie into milestones 
 Marissa: ditto 
-Abilities Expectations: Technical strengths and areas for desired improvement:
+
+##### Technical strengths and areas for desired improvement:
+
 Kyle strengths: messed around with JS stuff, the engine behind making it work. Will like to improve on design side – no clue where to begin
 Marissa: I feel comfortable in design and css, keep getting faster at JavaScript and feeling more confident 
-Workload Expectations: What features do we each want to work on?
+
+Workload Expectations: 
+What features do we each want to work on?
 Utilizing our deadlines and github to stay on top of stuff and so one person can’t break it all! 
 Use lots of branching effectively
 
