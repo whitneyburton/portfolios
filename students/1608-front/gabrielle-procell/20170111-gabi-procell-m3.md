@@ -145,13 +145,13 @@ feel a little easier.
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_group3.md)
 
-      To be fair, I had to research what a microaggression was before coming to this Gear Up session. I was surprised that there was a term for these 'annoyances' that I experience commonly. I don't tend to think of myself as one to be easily offended, and I do like to think that I know the difference between ignorance and rudeness/bigotry/hatred/idiocracy(?). A big takeaway from this session was that I need to learn to speak up more when I have these experiences. The following week, I found out that some Turing community members made a Slack channel to mock microaggressions in response to the Gear Up topic.  Hearing of this offended me, made me feel smaller as a person, and reinforced the takeaway that I need to let others know that this behavior is not acceptable. 
+     >To be fair, I had to research what a microaggression was before coming to this Gear Up session. I was surprised that there was a term for these 'annoyances' that I experience commonly. I don't tend to think of myself as one to be easily offended, and I do like to think that I know the difference between ignorance and rudeness/bigotry/hatred/idiocracy(?). A big takeaway from this session was that I need to learn to speak up more when I have these experiences. The following week, I found out that some Turing community members made a Slack channel to mock microaggressions in response to the Gear Up topic.  Hearing of this offended me, made me feel smaller as a person, and reinforced the takeaway that I need to let others know that this behavior is not acceptable. 
 
 #### Journey Mapping
 
   * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-        I found this gear up session to be a bit confusing initially. It is still a little unclear as to why this subject matter was brought up. If anything, I did take away that the experiences we interviewed each other on were experiences that we all shared. The journey that we mapped shared several very similar key points. Our questions that we asked one another were very unbiased, and it was interesting to hear about what we do share in common. Because of this, I wasn’t sure on how to discover tactics to practice empathy.
+     >I found this gear up session to be a bit confusing initially. It is still a little unclear as to why this subject matter was brought up. If anything, I did take away that the experiences we interviewed each other on were experiences that we all shared. The journey that we mapped shared several very similar key points. Our questions that we asked one another were very unbiased, and it was interesting to hear about what we do share in common. Because of this, I wasn’t sure on how to discover tactics to practice empathy.
    
 #### Grit Mindset
 
@@ -159,22 +159,20 @@ feel a little easier.
   
     https://github.com/turingschool/gear-up/blob/master/grit.markdown
 
-*Think of a time at Turing when you've been tempted to give up.
-Is it possible to interpret that experience through the lens of grit, i.e. your grit to get through a difficult situation was under strain?*
+1. *Think of a time at Turing when you've been tempted to give up. Is it possible to interpret that experience through the lens of grit, i.e. your grit to get through a difficult situation was under strain?*
      This module has been particularly difficult for me. I think I could examine parts of my struggle through the lens of grit.
-*Is that lens helpful?*
+2. *Is that lens helpful?*
       Yes and no
-*Is it in any way problematic (emphasizing pushing through when you really need a break)?*
+3. *Is it in any way problematic (emphasizing pushing through when you really need a break)?*
       I feel that it is problematic in that it leaves no room for breaks and taking care of one’s own self.
-*As you head into the homestretch of your time at Turing and begin to look toward your job search, it will be helpful to begin to articulate the things that, in Hilmantel's words, you can find "enduringly fascinating."
-What parts of your experience at Turing has lit that fire?*
+4. *As you head into the homestretch of your time at Turing and begin to look toward your job search, it will be helpful to begin to articulate the things that, in Hilmantel's words, you can find "enduringly fascinating." What parts of your experience at Turing has lit that fire?*
       My first 2 modules and participating in Miyamoto posse
-*Brainstorm 4-5 descriptions of work that really engages you (algorithmically complex challenges, imagining user needs and creating something elegant and enjoyable to use, designing backend architecture to support open-ended specification).*
+5. *Brainstorm 4-5 descriptions of work that really engages you (algorithmically complex challenges, imagining user needs and creating something elegant and enjoyable to use, designing backend architecture to support open-ended specification).*
     * Creating something elegant and enjoyable to use
     * Creating something that makes someone’s workflow easier 
     * Bridging gaps in communication between different groups
     * Creating tools that help others learn in a different way
-*How can you create opportunities to build around the work that engages you in your remaining time at Turing?*
+6. *How can you create opportunities to build around the work that engages you in your remaining time at Turing?*
       I can try to change my mindset when starting a new project and try to frame the project within the descriptions of things that I enjoy. If those descriptions are not what is requested on the spec, I can always ask an instructor for permission to build the project in that way, or work on a side project that meets those goals.
 
 
