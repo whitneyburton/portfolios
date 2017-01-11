@@ -40,6 +40,12 @@ Individual projects I completed:
 
 _FEEDBACK NOTES_
 
+**From Sonia** Feedback to Raphael Barbo: I think Rapha and I would both agree that we've learned a lot from each other about our own working and communication styles. He is the consummate professional, and I appreciate that he has been receptive to feedback. He brings a gentle positivity to every endeavor, and has put in a lot of effort on this project. I'm glad to know him, and have learned a lot about how I can improve myself not only as a programmer, but as a human.
+
+
+**From Brian H.** I have worked with Rapha before and it is always great to work with him. He and I work well together and contribute code harmoniously when we pair. Unfortunately I only got to work with Rapha for one afternoon on this project, but it was on a cool feature: the smart search, and was very rewarding. Rapha is a strong coder and has a relentless motor; he is always hungry for more code and new things to try. I look forward to seeing what he can accomplish after we leave Turing.
+
+
 _EVAL SCORES_
 
 ---
