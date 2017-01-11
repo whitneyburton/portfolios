@@ -9,7 +9,7 @@ I learned how to build, in Ruby on Rails and Sinatra, a fully deployable web app
 
 Find the rubric near the end of this document.
 
-* **A: End of Module Assessment**: X
+* **A: End of Module Assessment**: 3
 * **B: Individual & Group Work**: 3
 * **C: Professional Skills**: 4
 * **D: Feedback**: 3
@@ -91,6 +91,10 @@ Cold outreach isn't nearly as scary as it seems initially. The hardest part is t
 #### Feedback II
 
 I haven't internalized the information shared in either feedback lesson. Old habits die hard and I'm not used to giving feedback in a particular manor beyond gut instinct on how to appropriately, with tact, give feedback to teammates. During the session, we were given hypotheical situations to work with in teams of three. I was with Kyle and Brett. I don't recall what our comments were, but I do remember reflecting on the fact that when given feedback people are often quick to avoid wanting to admitting that the person giving the feedback may have a point. Framing the feedback is crucial. I appreciated doing the Johari Window activity. It gave to opportunity to better understand myself and consider how people actually view me versus what I think people think of me. 
+
+#### Networking
+
+
 ## D: Feedback
 
 ### Giving Feedback
@@ -113,7 +117,23 @@ I haven't internalized the information shared in either feedback lesson. Old hab
 ### Being a Community Member
 
 **Nick Isaacs (mentor)**
+**
 
+**Marisa Burton**
+*I really enjoyed working with Eric on Little Shop. He perseveres and is great to pair with and work through a problem together. Eric is always focused on completing a task until it’s completed, and he knows when to ask for help when he needs it. Eric knows a lot more than he thinks he does, and I hope he will be more confident with coding in the future.*
+
+**Jason Conrad**
+*I had the priveledge of working with Eric on the Little Shop project.
+For this project Eric was our Project Manager, and he was quick to get us on 
+task as far as getting the repository and waffle set up, and getting us 
+started on breaking down the user stories into actionable waffle cards and wireframing 
+our layout. Eric was always willing to pair on things that people might be struggling with.
+He always kept us on track and would check in with us on how it was going with 
+the piece that we were working on, offering his help, while still working on
+his pieces. I would defnitely work with Eric again.*
+
+**Molly Brown**
+*First and foremost I was impressed by Eric's attention to detail on our project. He noticed many areas for improvement and took the initiative in solving issues. I was also impressed by his tenacity in working through difficult problems and patience to try out many different solutions until he found the one that worked. Finally, I feel that we all benefitted greatly from his willingness to jump into every aspect of the project and pair with people to work through issues. I think the polish and cohesivness of our final project can be atributed in large part to Eric's hard work.*
 
 **Mike Schutte**
 *A wise woman once told me that the smartest person in the room doesn’t have all the answers, they just ask the right questions. Eric is a phenomenally present and curious listener in all situations, and delivers questions at will that reflect this unrivaled sense of intention. In the hustle bustle lifestyle of Turing, Eric is a continual breath of fresh and authentic air that always reminds me to think beyond the scope of a single project or problem, and remember why this work matters and how satisfying it can be. He demonstrates respect and empathy in a multitude of ways, and I am sincerely grateful for his presence during my Turing experience.*
