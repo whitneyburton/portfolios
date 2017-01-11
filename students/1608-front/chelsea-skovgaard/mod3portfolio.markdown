@@ -146,6 +146,9 @@ I was lucky enough the meet Susi during my first module at Turing during the Joa
 
 ### Being a Community Member
 
+Feedback from Susi Irwin (1606-BE):
+Chelsea - you are such a force at Turing. Getting to know you at JSC and Friday Guest Speakers has been a highlight of this module. Your positive attitude, eagerness to learn, and general kindness is truly what makes our community what it is. You are always there with words of encouragement, a hug when needed, a cup of the truth when that is needed as well. Chelsea, you are such an asset to the development world and I cannot wait to watch you take it by storm!
+
 Feedback from Christine:
 Chelsea continually contributes to the Turing community. She created and has led the Verou posse, which is great for both front-end and back-end students. I know leading a posse can be very time consuming, and she and Lacey have gone out of their way to make sure this posse is worthwhile for those who attend. We unfortunately did not have any projects together this mod, but we still collaborated and problem solved together often, which I really appreciated. Chelsea is becoming a great developer and I look forward to working with her more in the future.
 
