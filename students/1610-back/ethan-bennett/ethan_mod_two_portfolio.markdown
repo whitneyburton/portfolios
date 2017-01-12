@@ -141,7 +141,7 @@ This was an awesome idea for a session (the adjective sheets, I mean). As many p
 
 #### Cold Outreach
 
-This one was immediately useful to me, as well. I've always felt like I'm pretty good at talking people into hiring me, but the process of getting in touch with the right people, getting the attention of a good company, and moving from being a resume in a stack to having a face-to-face conversation have been intimidating. Now that I've got some experience, I feel like I'm capable of getting my foot in the door somewhere I really want to be.
+This one was immediately useful to me, as well. I've always felt like I'm pretty good at interviewing, but the process of getting in touch with the right people, and somehow becoming more than just a resume in a stack on their desk, has been difficult. Now that I've got some experience, I feel like I'm capable of getting my foot in the door somewhere I really want to be.
 
 #### Networking
 
