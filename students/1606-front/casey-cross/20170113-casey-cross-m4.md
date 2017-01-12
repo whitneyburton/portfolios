@@ -43,9 +43,7 @@ They build up the community around them by participating and supporting other st
 the larger Turing family, and persons outside our walls who want to develop
 their own skills.
 
-* 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback. They participate in required
-activities and does at least one or two above and beyond supports of the community.
+* 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior. They have a significant positive positive impact on the learning and spirit of the people around them.
 
 ## A: End of Module Assessment
 
@@ -252,6 +250,20 @@ I’m glad I finally got to work with Casey because otherwise I would have been 
 ### Professional Development Workshops
 
 #### (Session Name)
+* Paragraph description of top three priorities in the job search and why
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### (Session Name)
+* 1-2 paragraph action plan for how to overcome perceived barriers to the job search
+
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### (Session Name)
+* Six cold outreach emails sent
 
 * [Link to Completed Deliverables]()
 
@@ -261,21 +273,47 @@ I’m glad I finally got to work with Casey because otherwise I would have been 
 
 ### Giving Feedback
 
-(feedback from me)
+#### Feedback to Pete Springer
+
+This was my first opportunity to work with Pete, and I’m glad I got the chance.  Pete has some solid JavaScript chops.  The thing I admire the most about Pete is that he remains cool, calm, and collected even in the face of frustration.  He is always willing to help out another team member.  I would happily work with Pete again in the future.
+
+#### Feedback to MaryJane Valade
+
+I worked with MaryJane for the second time during our Imposter Syndrome project.  We challenged ourselves to implement an Electron app in Ember with SQLite.  MaryJane is always 100% dedicated to the task at hand and does not give up even in the face of seemingly insurmountable struggles.  We had a very difficult issue in our project that caused us to reach out to a number of senior developers including members of Ember’s development team.  MaryJane persevered, even when we decided to burn the whole project down in the 11th hour and rebuild it from scratch using jQuery.  I would work with MaryJane again any day.  She is a kind and hardworking teammate.
+
+#### Feedback to Jeff Duke
+
+I worked with Jeff twice this module, thus I have now partnered with him three times. Jeff makes a fantastic teammate, our strengths complement each other nicely.  On our second project he suggested we take our git workflow to the next level through GitHub issues, and I have found them incredibly useful on all subsequent projects.  I know Jeff is going to be highly successful in his career and I look forward to seeing what kinds of cool robotics he makes!
+
+#### Feedback to Casey Metz
+
+I worked with Casey during our React Native project.  Casey has the best first name out of anyone in our cohort.  We worked very well together.  We both wanted to create a mobile app that was meaningful and had a positive impact on the world, thus we chose to make an app to locate alternative energy sources.  I very much enjoyed working with Casey as we share a goofy, light-hearted sense of humor that helped us get through some of the tougher moments of our project.  Casey is helpful and hard-working and has a good understanding of Redux, which is no small feat.  He is going to excel in his career and would be an asset to any team.
+
+#### Feedback to David Kerr
+
+This was my second opportunity to work with David.  David has incredibly strong JavaScript skills and picks up concepts very quickly.  I really appreciate that David is always willing to stop what he’s doing to help another teammate out when they are struggling.  David has a lot of strong opinions, as do I, so occasionally we butt heads, but we are always able to eventually come to a mutual and amicable agreement.  I look forward to seeing what amazing things David accomplishes in his professional career.
+
+#### Feedback to Kirsten Swanson
+
+I’m glad I finally got to work with Casey because otherwise I would have been sad if I hadn’t worked with her during my time at Turing. During our capstone project she kept our group very organized and accountable for Github issues, which made our workflow go smoothly. Her motivation to test is inspiring and will definitely benefit her in the future. We had 65 tests! She’s a master at resolving merge conflicts and not at all afraid to encounter them. Together we worked on styling and put together a really polished app. Casey is up for any challenge and ready to tackle whatever aspect of the project needs to be worked on, whether it’s testing, styling, or functionality. It was a pleasure working with Casey!
 
 ### Being a Community Member
 
-(feedback to me)
+See feedback from teammates above.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+During this module I volunteered to be a TA and a panelist during the one day front end Try Turing event held in January.  I also participated on a panel of female Turing students and alumni that was broadcast live on the internet to promote Turing's message of diversity and inclusivity for under-represented populations in tech.  Additionally I joined dozens of Turing students for Hack the Dot, a 90 minute fun and frenzied hack session.
 
 ### Gear Up
 
-(reflect on your Gear Up sessions following the below example)
+* A recap of reflections from Gear Up
 
-------------------
+* [Microaggressions](https://docs.google.com/document/d/1UC0uAwaGPUfoN0wdy4hU_tczlfHGTJJJxd4_F9jocuM/edit?usp=sharing)
+
+* [Journey Mapping](https://docs.google.com/document/d/151Xep7iTLj1Pi184T5_8LabOx4U9Lcf36n2ULmYoa6Q/edit?usp=sharing)
+
+* [Grit](https://docs.google.com/document/d/1bVbuxEwk8sBlK-_Q0HjM9PajKBc2GtIYVjFJw4cRTiE/edit?usp=sharing)
 
 ## Final Review
 
@@ -307,16 +345,3 @@ I contributed to open source by correcting spelling and grammar issues in one of
   * [Introversion]  https://docs.google.com/document/d/1uuwyTTkPIgvM2U9HBYnbrAGP1IfN96cWR4dNzHYoiVE/edit?usp=sharing
 
   * [Resilience]  https://docs.google.com/document/d/1WFXbprLmEnzyRvF13ka0mW2Y0O0SLiZXvGn-kiA7JGU/edit?usp=sharing
-
-  * [Turing alumni portfolio] https://www.turing.io/alumni/casey-cross
-
-  * Pitch for personal project/Documentation showing your thought process
-
-  I want to make a create-your-own-adventure story in React using a text-to-speech API and practice using animations and explore designing with SVGs. I wanted to use text to speech to make the site more accessible to kids who haven't yet learned to read, English language learners, and kids with disabilities.
-
-### Professional Development Workshops
-
-* Professional Development:
-  * Paragraph description of top three priorities in the job search and why
-  * 1-2 paragraph action plan for how to overcome perceived barriers to the job search
-  * Six cold outreach emails sent
