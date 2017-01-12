@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-I'm excited to sink my teeth into some server-side JavaScript this module along with continuing exploring different DevOps tools. I would also like to become more proficient with client-side JavaScript using jQuery and React. Working on a project for six weeks on a team also sounds like a great experience as we prepare for the post-Turing world. 
+I'm excited to sink my teeth into some server-side JavaScript this module along with continuing exploring different DevOps tools. I would also like to become more proficient with client-side JavaScript using jQuery and React. Working on a project for six weeks on a team also sounds like a great experience as we prepare for the post-Turing world.
 
 ---
 
@@ -127,7 +127,7 @@ I'm excited to continue learning about Chef post-Turing and hope I can become pr
 
 ### Census
 
-* [GitHub URL](https://github.com/bcgoss/census#maintainer)
+* [GitHub URL](https://github.com/bcgoss/census)
 * [Website](https://login.turing.io)
 * [Sprint 2 Closing Review](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/mod4_capstone/census.markdown)
 
@@ -135,7 +135,7 @@ __Census__ serves as a central location for identity management across the Turin
 
 ### Yearbook
 
-* [Original GitHub URL](hhttps://github.com/j-sm-n/yearbook)
+* [Original GitHub URL](https://github.com/j-sm-n/yearbook)
 * [(React Version) GitHub URL](https://github.com/PlanetEfficacy/FaceGuesserRedux)
 * [Website](https://turingyearbook.herokuapp.com/)
 
@@ -198,7 +198,8 @@ Since Goby went so quickly, we decided we wanted to do knock out more coding and
 ### The Plan
 
 * [Link to Gist](https://gist.github.com/j-sm-n/bebd8d76604a152d7f6d0709ee873509)
-___
+
+---
 
 ## E: Feedback & Community Participation
 
