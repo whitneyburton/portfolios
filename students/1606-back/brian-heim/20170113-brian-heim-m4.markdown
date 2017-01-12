@@ -3,7 +3,9 @@
 
 ## Areas of Emphasis
 
-.
+Mod 4, it seemed so long ago that I was in mod 1 and yet it seems like it was yesterday. I wanted to really work hard this mod and to finish strong. Little did I know just how hard we would be working, but I wouldn't change it for a thing. Our mod has been told many times how "resilient" and "performant" we are and I think we stepped up to the challenge in mod 4 and backed up both of those statements. My specific personal goals for this mod were pretty straight forward. I wanted to pass the final, learn JavaScript, and make strides in the job search. I passed the final, learned vanilla JS and some React, and made some good progress in my search for a job. I was very happy to have achieved all of these things during this module. I would have liked to have spent more time job hunting, but I did have some very helpful informational interviews, improved my resume, LinkedIn, and GitHub, and made some new professional connections. Something that I didn't necessarily set as a goal in the beginning of the mod, but I am glad to have worked on was the six-week brownfield project in a sprint style environment. I have been told over and over in informational interviews and meetUps that working on a project of that caliber is incredibly relevant to a real-life dev job. DevOps quickly became a focus of the module for me as well; once I took on that task with Sonia, there was no turning back. While frustrating at times, learning about and performing DevOps tasks was truly rewarding and definitely added value to my experience at Turing.
+
+I am very proud not only of my work during the past six weeks of class, but of the last seven months as a whole. 
 
 ## Rubric Scores
 
