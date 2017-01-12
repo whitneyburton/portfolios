@@ -55,6 +55,9 @@ Collaboration
 
 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
+#### Comprehensive Quizlette
+
+Passing score
 
 ## B: Individual Work & Projects
 
@@ -200,15 +203,16 @@ The output from JSHint shows…
 
 ## D: Professional Skills
 
-####DTR from Game-Time Project with Staci:
+(Intro)
+
+####DTR Memo from Game-Time Pairing with Staci:
 [Google doc for GameTime DTR ](https://docs.google.com/document/d/1d91F_Zkfc9cOjwWXmQ0tqfYiUq85vkrha4xunop2tJ0/edit?usp=sharing)
 
-### Gear Up
-#### Growth Mindset
+####Resume
+[Resume](https://docs.google.com/document/d/1UMrtYOMdpfScS-BWISaqAGcLAA90kHOyZMwkVk-tlsU/edit?usp=sharing)
 
-[Growth Mindset](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
-
-(Thoughts)
+####LinkedIn Profile
+[LinkedIn Profile Page](https://www.linkedin.com/in/lovettp)
 
 ####
 
@@ -225,13 +229,13 @@ The output from JSHint shows…
 
 ### Giving Feedback
 
-####to Staci 1611FE (Game-Time)
+####to Staci 1611FE (Game Time)
 
 I have worked with Staci on a number of occasions during class, and I am currently working with her on our final project for Mod1. Staci is extremely respectful and empathetic in her interactions with both myself and others in our cohort. She makes a very conscious effort to monitor her learning and adjust her study habits/workload due to her desire to have a deeper understanding of the material we are covering, which I believe is rare in others. Her love of learning goes past wanting to get "perfect" scores from a rubric, which I find very admirable. She has truly been a pleasure to work with throughout the course.
 
 At times, I think that Staci can be too hard on herself.  We have discussed this a number of times, as I feel we both are similar in this way. She understands a lot more than she thinks, and she has mentioned that her self-doubt has caused her to not "speak up" during a few occasions in class or in pairings. I think this is a shame - as our cohort could definitely benefit from her thoughts and suggestions!
 
-####to Rebecca 1611FE (Linked-List)
+####to Rebecca 1611FE (Linked List)
 
 One of Rebecca's greatest strengths is her determination to do well and finish strong. She has a can-do attitude and is not afraid to reach out to others for help or clarification on things. She puts a great amount of effort into doing her very best at all times and does well with showing confidence in the decisions that she makes.
 
@@ -247,7 +251,7 @@ Franklin is a very approachable person who is very eager to help and talk things
 
 I think Franklin's greatest strengths are his cheery nature, his passion for his work, and his willingness to help others. I wish I could offer something in the way of constructive criticism for Franklin, but I don't feel like any feedback I'd give would be as valuable as the feedback I can provide after having done a project with him.
 
-####to Krystin 1611FE (IdeaBox)
+####to Krystin 1611FE (Idea Box)
 
 Krystin has a high level of self-awareness, which I find is not typical for many people. She is open and honest with herself and others about her biggest strengths and weaknesses, which I believe will serve her well during her time at Turing and beyond. Even though each of my project pairings have been successful in helping me grow in different ways, I can honestly say that my pairing with Krystin made the most difference in how I approach my work now. While discussing and "defining" our relationship for our paired project, I made it clear to Krystin how uncomfortable I have been with "driving" and "breaking" code on the fly... and how I thought this might be stunting my development. During our entire pairing Krystin not only honored my desire to take the extra time to really understand how our code was working, but she also forced me to drive more than I would have otherwise and constantly encouraged me to "break" my code.
 
@@ -255,7 +259,7 @@ I believe Krystin could benefit from taking more short breaks while working on p
 
 ### Being a Community Member
 
-####from Staci 1611FE (Game)
+####from Staci 1611FE (Game Time)
 
 I have paired with Pam numerous time in classes and also on our final Mod-1 project Game Time. Pam is very quick to ask questions to clarify if she doesn't understand something and never hesitates to reach out when something is unclear. I think both of us were nervous coming into the project but Pam was very supportive of working as team and of my learning goals. She is also very proactive in acknowledging and working toward her own learning goals. I always enjoy pairing with Pam and she is very encouraging and positive. While sometimes she gets frustrated(like all of us), she is quick to implement a few plan and start tackling it. I was impressed by some of the solutions she came up with for our project. I think the next step for her would be to have confidence in her abilities.
 
@@ -263,7 +267,7 @@ I have paired with Pam numerous time in classes and also on our final Mod-1 proj
 
 You are a respectful person to work with. You are committed to understanding every line of code and how it all interacts together to function. In evaluation, you made a comment that you often doubt yourself and let that become apparent to the people around her. You should give yourself more credit because you know a lot more than you think you do. I have noticed you have been staying later after class to work on the more recent projects which will benefit you. I wish we could have had more time to work together in-person after class and over the weekend on our project than we did - I think that would have made our pairing more successful than it was. Overall, great work!
 
-####from Krystin 1611FE (IdeaBox)
+####from Krystin 1611FE (Idea Box)
 
 You are determined, dedicated, you have a ton of grit, AND seemingly limitless energy. You came in early, stayed late, weekends - even when feeling under the weather. During our project, we put in a LOT of hours - many of which were spent scratching our heads! Our collective ability to never flip out in frustration was pretty impressive - we kept the overall tone light and humorous. I enjoyed the time we spent working together a lot, no matter how much we wanted to pull out our hair.
 
@@ -280,6 +284,14 @@ Currently, I am an active member in the JC Society and parenting slack channels.
 I make an effort to reach out to those in my cohort by striking up conversation in and out of class that is related to class discussions as well as more informal things. I also use Slack as a way to stay connected to others in the cohort.
 
 Despite it being optional to attend, I have made it a point to attend every Friday speaker (with just one exception.) I have managed to connect with a number of people from the BE program from these events as well as other mixers/special events that Turing has put together.
+
+###Gear Up Reflections
+
+#### Growth Mindset
+
+[Growth Mindset](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+(Thoughts)
 
 ------------------
 
