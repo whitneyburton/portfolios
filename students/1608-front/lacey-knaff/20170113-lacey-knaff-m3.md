@@ -28,15 +28,15 @@ For Mod4, I'm really looking forward to working more on networking and beginning
 
 ## A: End of Module Assessment
 
-**Assessed by:** Taylor Moore
+**Assessed by:** Nathaniel
 
 **Result:**
 
 #### Scores
 
-* Spec Adherence:
-* Determining the Right Tools for The Job:
-* Following Documentation:
+* Spec Adherence: 4
+* Determining the Right Tools for The Job: 4
+* Following Documentation: 4
 
 
 ## B: Individual Work & Projects
@@ -45,7 +45,7 @@ In Mod3 our individual project was a 3 week long self-guided project. I chose to
 
 #### (MASV website)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/lrknaff/masv)
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
 #####Description
@@ -108,6 +108,72 @@ It was great to be able to work with Graham again and see how far he's progresse
 
 ## D: Professional Skills
 
+###Flower Exercise
+####Petal 1: My Valued Knowledge/Fields of interested
+* design
+* creative thinking
+* problem solving
+* brand development
+* front end web development
+* UI/UX
+* entrepreneurship
+* blogging
+
+####Petal 2: Favorite Kinds of people
+* Innovators
+* Genuine do-gooders
+* Trusting
+* Growth mindset
+* Good at what they do
+* Mentors
+* Artistic
+* Visionary
+
+##Petal 3: Most Valued Transferable skills
+* I'm good at motivating myself
+* I am level-headed therfore am good at resolving conflict
+* I'm good at following through with an idea and not giving up.
+* I'm good at seeing and facilitating connections between people.
+* I'm good at listening to people's problems and coming up with solutions.
+* I'm good at verbal and written communication.
+* I use my Intuition to solve user problems
+* I'm good at advising people about what to do in certain situations
+* I thrive on designing, creating, and innovating.
+* I think critically about all situations.
+* I constantly seek to improve myself
+* I'm good at solving analytical and design problems
+
+####Petal 4: Favorite Working Conditions
+* natural light
+* my own space
+* freedom to work from home
+* artistic/inpiring
+
+####Petal 5: Preferred Salary & Level of Responsibility
+* I would like to be a junior developer for a design company or one with design as a top priority
+* A place with a lot of room for growth
+* Ability to wear a lot of hats
+* Good Mentors
+* A Leadership position in a few years
+* Or I want to start my own design and development company
+* Preferred Starting Salary: $75-$90
+
+Looking for a place with:
+* challenge
+* intellectual stimulation
+* ability to be creative
+* ability to help others
+* ability to exercise leadership
+* ability to make decisions
+* ability to use my expertise
+
+####Petal 6: Preferred Place to Live
+* Denver
+* Steamboat/Aspen
+* New York Community
+
+####Petal 7: My Goal/Purpose/Mission in life
+My goal is to always be seeking avenues of growth and knowledge and to use that knowledge to become really good at design and development. Both of these things take empathy, compassion, creativity, a growth mindset and lifelong practice. I chose both of these fields because they are always changing and growing and I love to be challenged. Eventually I would love to give this knowledge back by teaching or mentoring.
 
 ### Gear Up
 
@@ -115,13 +181,13 @@ It was great to be able to work with Graham again and see how far he's progresse
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
 
-This session was incredibly valuable for students at Turing. It's easy to forget our duties as citizens of this great country, and I often need a reminder myself. It got me more interested in the upcoming election and realizing that my vote does actually matter.
+This session was really eye opening in a lot of ways. Especially so, because I didn't really have a firm grasp on what micro-aggessions were and this was really enlightening to be able to talk about with others
 
 #### Grit
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-Being and introvert, this Gear Up really hit home for me. It was great to see the unity of minds in our cohort over how best to accommodate for introverts at Turing. I also really appreciated the teachers implementation of approaching more activities in a self-learner style.
+This was a great segway from the gear up on resilience. It reminded me of how much grit it took to get to this point and that I need to continue with the same passion and perserverance even when the going gets tough.
 
 
 ## E: Feedback and Community Participation
