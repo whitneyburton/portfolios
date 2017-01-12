@@ -325,7 +325,7 @@ This session was my first exposure to the term grit and it was interesting to kn
 (http://backend.turing.io/professional_development/module_one/personal_branding_p1)
 
 #### Link to Completed Deliverables:
-* Resume(https://turingschool.slack.com/files/pixapi/F3LJA6DGA/alovato___resume2016_12.pdf)
+* Resume(https://drive.google.com/file/d/0B2f2Ue41XP8kZGdFYTQxa2dKWFk/view)
 * LinkedIn Profile(https://www.linkedin.com/in/amaralovato)
 * Twitter Account(https://twitter.com/amaralovato)
 * GitHub Profile(https://github.com/pixapi)
