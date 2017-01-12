@@ -231,9 +231,9 @@ The Gear Ups and professional development sessions were really useful in terms o
 #### [Gear Up Reflections](https://gist.github.com/CjMoore/62d796e5e6eb6d26e558a7fb0bce0b2b)
 
 * [Growth Mindset](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
-* [Cohort Norms](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_cohort_norms.markdown
+* [Cohort Norms](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_cohort_norms.markdown)
 * [Personal Stories and Connection](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_personal_story.markdown)
-*[Grit]( https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_personal_story.markdown)
+* [Grit]( https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_personal_story.markdown)
 
 ### Professional Development Workshops
 
