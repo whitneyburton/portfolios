@@ -324,10 +324,4 @@ During this module, I tried to integrate myself into the Turing Community as muc
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
