@@ -224,6 +224,9 @@ The output from `rake sanitation:all` shows...
 * 2: Six to ten complaints
 * **1: More than ten complaints**
 
+### Soft Skills / Protocol Requirements
+ * DTR memo: https://docs.google.com/document/d/1g0FtufbUbSJ_uGU-470KIT5vpdxktXC1oJUPznuX2X8/edit?usp=sharing
+
 
 
 ## D: Professional Skills
