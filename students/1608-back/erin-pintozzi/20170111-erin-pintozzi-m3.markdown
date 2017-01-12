@@ -379,7 +379,7 @@ I have worked with Erin several times over my time at Turing,  and she always is
 Erin was a fantastic person to work on S.A.B. and for our cloney island group project.  Erin's strong organization skills were invaluable and really sped up our whole work flow.  In addition to these organizational skills Erin's ability to work with others and handle issues that arise is outstanding and a huge asset.  It was great working with Erin this mod and I look forward to the opportunity to work together again! **- Jon Kimble**
 
 
-Feedback from **- Vido Seaver**
+I had the pleasure of working with Erin on two projects this mod. She is self-aware, empathetic, hard working and well organized. Because of her amazing organization skills she makes for a great project manager.  I don’t really haven't any complaints working with her. If there is an area i think she could improve I would say it would probably be to be more  “in charge” as a the manager and trust in her skills and judgement **- Vido Seaver**
 
 ### Playing a Part
 
