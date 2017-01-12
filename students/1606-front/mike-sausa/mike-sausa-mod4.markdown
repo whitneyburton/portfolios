@@ -121,4 +121,4 @@ Attended the last 10 minutes of 2 guest speakers
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending - 3 emails and blog posts
