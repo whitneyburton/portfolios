@@ -13,7 +13,7 @@ really is and how to apply that knowledge to real world situations.
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 4
+* **E: Feedback & Community Participation**: 3
 
 
 #ROUND 1
@@ -665,4 +665,4 @@ helping and giving nature of the community here.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROVISONAL
