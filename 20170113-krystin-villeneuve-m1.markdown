@@ -18,7 +18,7 @@
 
 ## A: End of Module Assessment
 
-## [Object Oriented Programming Assessment](https://github.com/turingschool/front-end-submissions-public/blob/master/1611/mod-1/oop-assessment/krystin.md)
+## Object Oriented Programming Assessment
 ## Evaluator: Louisa
 
 ## Notes:
@@ -71,8 +71,6 @@ Good job! A little softer on the JS foundations than I expected, understands syn
 
 ## B: Individual Work & Projects
 
-(Intro)
-
 #### Number Guesser
 ### Evaluator: Louisa
 
@@ -108,8 +106,6 @@ If you elect Phase 4, create a separate branch for that work.
 
 ### Projects
 
-(Intro)
-
 #### Linked List
 
 * [Linked-List](https://github.com/juliankyer/linked-list)
@@ -118,7 +114,7 @@ If you elect Phase 4, create a separate branch for that work.
 ### Evaluator: Louisa
 
 ### Notes:
-very nicely done, NO GLOBAL VARIABLES! JS very concise, small focused functions. well done. main docking of points was from small details around syntax that will become non-issues with experience. Nicely balanced JS and CSS writing between the pair.
+Very nicely done, NO GLOBAL VARIABLES! JS very concise, small focused functions. Well done. Main docking of points was from small details around syntax that will become non-issues with experience. Nicely balanced JS and CSS writing between the pair.
 
 ### Functional Expectations
 
@@ -184,8 +180,35 @@ very nicely done, NO GLOBAL VARIABLES! JS very concise, small focused functions.
 * [Game Time](https://github.com/krystin987/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-### Evaluator: Louisa
+## Evaluator: Louisa
 
+## Notes:
+
+### Functional Expectations
+
+* 4 - Application is fully playable and exceeds the expectations set by instructors
+
+### User Interface
+
+* 3.5 - The application is pleasant, logical, and easy to use. There are no holes in functionality and the application stands on its own to be used by the instructor _without_ guidance from the developer.
+
+### Testing
+
+* 3 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+
+### JavaScript Style
+
+* 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+* 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from JSHint shows…
+
+* 3 - Five or fewer complaints
 
 
 ## D: Professional Development
@@ -213,7 +236,7 @@ very nicely done, NO GLOBAL VARIABLES! JS very concise, small focused functions.
 Positive feedback about our pairing:
 You are tenacious and willing to try things that might be scary - like making Tetris! (RIP Tetris). When you set out to tackle a given feature, you make it work, and you celebrate the small victories that lead to the whole. This is a successful strategy in any project!
 
-Constructive criticism about our pairing
+Constructive criticism about our pairing:
 Try to trust you teammates a little more on things that seem abstract at first. It's OK to read the code around you, especially our peers.
 
 Additional comments:
@@ -233,6 +256,16 @@ You are hard working and have drive that is contagious. Your determination is in
 Needs Improvement:
 
 Sometimes you can be a hard ball which is great when working on projects but can also be somewhat hindering for group work.
+
+## Pamela Lovett
+
+Positive:
+
+Krystin has a high level of self-awareness, which I find is not typical for many people. She is open and honest with herself and others about her biggest strengths and weaknesses, which I believe will serve her well during her time at Turing and beyond. Even though each of my project pairings have been successful in helping me grow in different ways, I can honestly say that my pairing with Krystin made the most difference in how I approach my work now. While discussing and "defining" our relationship for our paired project, I made it clear to Krystin how uncomfortable I have been with "driving" and "breaking" code on the fly... and how I thought this might be stunting my development. During our entire pairing Krystin not only honored my desire to take the extra time to really understand how our code was working, but she also forced me to drive more than I would have otherwise and constantly encouraged me to "break" my code.
+
+Needs Improvement: 
+
+I believe Krystin could benefit from taking more short breaks while working on projects. She is pretty good at doing this currently, but can sometimes get very involved and forget to giver herself some room to breathe.
 
 ## Julian Kyer - Linked List Project Partner
 
