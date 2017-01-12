@@ -23,7 +23,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 Evaluator: Robbie
 
 Notes:
-
 Hesitant to using math to calculate the tip percentage. Good grasp of jQuery syntax. Needs to practice more with passing information through function arguments
 
 3: Developer is able to implement solutions at the speed of a junior developer.
@@ -43,7 +42,6 @@ Collaboration
 Evaluator: Louisa
 
 Notes:
-
 Overall, good job. Got hung up a few small things, so make sure to review/solidify the basics moving forward so the basics aren't using up braincells that could be going towards solving harder problems.
 
 3: Developer is able to implement solutions at the speed of a junior developer.
@@ -61,16 +59,16 @@ Collaboration
 ## B: Individual Work & Projects
 
 Individually, I completed the following projects:
-* Penguin Party [https://github.com/thatPamIAm/penguin-party](GitHub URL)
+* Penguin Party [GitHub URL](https://github.com/thatPamIAm/penguin-party)
 * Mythical Creatures (4 left to complete on Centaur)
-* Static Comp 1 [https://github.com/thatPamIAm/static-comp](GitHub URL)
-* Static Comp 2 [https://github.com/thatPamIAm/pl-comp-challenge-2](GitHub Url)
+* Static Comp 1 [GitHub URL](https://github.com/thatPamIAm/static-comp)
+* Static Comp 2 [GitHub URL](https://github.com/thatPamIAm/pl-comp-challenge-2)
 * Static Comp 3 (in progress)
 
 #### Number Guesser
 
-* [https://github.com/thatPamIAm/number-guesser](GitHub URL)
-* [http://frontend.turing.io/projects/number-guesser.html](Original Assignment)
+* [GitHub URL](https://github.com/thatPamIAm/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 #####A game that allows the user to guess a number between 1 and 100.
 
@@ -112,8 +110,8 @@ I completed 3 group projects in a group this module:
 
 #### Linked List
 
-* [https://github.com/becs919/linked-list](GitHub URL)
-* [http://frontend.turing.io/projects/linked-list.html](Original Assignment)
+* [GitHub URL](https://github.com/becs919/linked-list)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 #####An application that allows the user to generate bookmarks on a webpage.
 
@@ -141,8 +139,8 @@ Well done, need to work on locking in details like indentation consistently. Had
 
 #####An application that allows the user to both record, store, and retrieve data/information.
 
-* [https://github.com/thatPamIAm/idea-box](GitHub URL)
-* [http://frontend.turing.io/projects/ideabox.html](Original Assignment)
+* [GitHub URL](https://github.com/thatPamIAm/idea-box)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 Evaluator: Robbie
 
@@ -171,8 +169,8 @@ Good JS - continue refactoring and breaking out logic into smaller, more readabl
 
 #### Game-Time
 
-* [https://github.com/stacimcwilliams/game-time](GitHub URL)
-* [http://frontend.turing.io/projects/game-time.html](Original Assignment)
+* [GitHub URL](https://github.com/stacimcwilliams/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
 ##### Build a game that is playable in the browser.
 
@@ -203,14 +201,16 @@ The output from JSHint shows…
 ## D: Professional Skills
 
 ####DTR from Game-Time Project with Staci:
-[https://docs.google.com/document/d/1d91F_Zkfc9cOjwWXmQ0tqfYiUq85vkrha4xunop2tJ0/edit](Google Doc DTR)
+[Google doc for GameTime DTR ](https://docs.google.com/document/d/1d91F_Zkfc9cOjwWXmQ0tqfYiUq85vkrha4xunop2tJ0/edit?usp=sharing)
 
 ### Gear Up
-#### Vote Your Conscience
+#### Growth Mindset
 
-* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
+[Growth Mindset](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
+(Thoughts)
+
+####
 
 
 ### Professional Development Workshops
@@ -269,21 +269,22 @@ You are a respectful person to work with. You are committed to understanding eve
 
 Pam is great! I really love her ability to take the lead and start up class discussions.
 
-### Playing a Part
+###Playing a Part
 
 Currently, I am an active member in the JC Society and parenting slack channels. Although I have only attended one coffee Tuesday for JC Society, my goal for next module is to attend at least 3 of the 6 that are set to occur during the six weeks. This module I also attended lunch roulette as went to posse meetups for Verou and Pahlka. I have joined the Armstrong Posse but have yet to attend a formal meeting due to spikes for Armstrong being cancelled.
 
 I make an effort to reach out to those in my cohort by striking up conversation in and out of class that is related to class discussions as well as more informal things. I also use Slack as a way to stay connected to others in the cohort.
 
 Despite it being optional to attend, I have made it a point to attend every Friday speaker (with just one exception.) I have managed to connect with a number of people from the BE program from these events as well as other mixers/special events that Turing has put together.
+
 ------------------
 
-## Final Review
+##Final Review
 
-### Notes
+###Notes
 
 ( Leave blanks for reviewers )
 
-### Outcome
+###Outcome
 
 ( Leave blanks for reviewers )
