@@ -41,8 +41,42 @@ Weekly job prep activities:
 * [GitHub URL](https://github.com/AliSchlereth/apicurious)
 * [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
 
-This project utilizes an Oauth process, handrolled without OmniAuth, as well as the GitHub API. User functionality for a single profile page includes displaying all repositories for a user, their followers, who they are following, starred respositories, organizations, and personal contact information. Each of these hitting a different endpoint. Styling also attempts to mirror the styling of GitHub itself. 
+This project utilizes an Oauth process, handrolled without OmniAuth, as well as the GitHub API. User functionality for a single profile page includes displaying all repositories for a user, their followers, who they are following, starred respositories, organizations, and personal contact information. Each of these hitting a different endpoint. Styling also attempts to mirror the styling of GitHub itself.   
 
+#### ELLevate
+
+* [GitHub URL](https://github.com/AliSchlereth/ellevate)
+* [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module3/projects/self_directed_project.md)
+
+This web application is designed for teachers of English Language Learners.
+Teachers sign in with Google OAuth and enter their students into the system,
+including name, username, home language, WIDA language level, and an image used
+as a student password (pass-image).
+
+When students sign in, using their teacher's name, their personal username and
+their pass-image they are taken to their content page. Students learn about
+animals in habitats through images and sentence creation.
+
+On their content page, students are provided an image, a sentence frame, and
+space to enter their sentence. Students click the arrow key and watch their
+sentence be translated into their home language.
+
+Sentence frames and academic supports are built upon the guideline of the
+[WIDA]=(https://www.wida.us/) Consortium.
+
+- Translations into native language working
+- App deployed and fully working on Heroku
+- Resources for WIDA and directions for students are nice usability features
+- Still has post-MVP tasks to work on to really level-up application
+- Caching on images is not working, should be fixed (help with rate limiting for Pixabay)
+- Impressive amount of JS written  
+
+**4: Developer completed all the user stories and requirements set by the client in timely manner.**  
+**3: Developer used a project management tool to keep their project organized.**   
+**4: Project shows exceptional use of testing at different layers (above 95% coverage).**  
+**3: Project demonstrates solid code quality and MVC principles.**  
+**3: Project exhibits a production-ready user experience.**  
+**3: Project pages load on average under 400 milliseconds.**  
 
 ## C: Group Work & Projects
 
@@ -214,6 +248,9 @@ Ali deserves a wealth of gratitude and appreciation for her work on this moduleâ
 
 from Dave:  
 Ali did a fantastic job this module co-leading the Pahlka Posse.  She clearly took the time to carefully plot the course for our meetings and projects and provided a warm, fun and productive experience for everyone involved.  I look forward to continuing to be a part of Pahlka under her leadership.  
+
+from Nick:
+Ali has served as one of our leaders, core members, and top back-end contributors in the Pahlka posse, and it's been awesome working with and getting to know her. Her organization and leadership helped the us refocus our efforts on a new project and restructure our Friday spike sessions to offer more value to the wider Turing community. Under her watch, our posse has been super productive and has seen some growth. She's been awesome to work with, and I'm super glad we get to work together for another module.
 
 ### Playing a Part
 
