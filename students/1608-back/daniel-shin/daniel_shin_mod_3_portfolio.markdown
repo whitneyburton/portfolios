@@ -4,7 +4,7 @@
 
 Coming into this module, I wanted to have a solid understanding of in-depth Rails, as well as be able to extract my knowledge into other languages, particularly JavaScript. I learned a lot about how complex Rails can be, and how many different ways to approach a solution, despite Rails being a convention-based community.
 
-Despite all the above, I would say the topic of looking for jobs loomed the whole time, and distracted me from absorbing as much information as I could have. In retrospect, I probably shouldn't have spent so much time worrying about what kind of JavaScript / other web language to learn, and just devoted all my energy into becoming a better Rails developer. 
+Despite all the above, I would say the topic of looking for jobs loomed the whole time, and distracted me from absorbing as much information as I could have. In retrospect, I probably shouldn't have spent so much time worrying about what kind of JavaScript / other web language to learn, and just devoted all my energy into becoming a better Rails developer.
 
 ## Self Assessment
 
@@ -57,6 +57,31 @@ The graded projects consisted of Rales Engine, Cloney Island and the Self Direct
 #### Description
 This project introduced me to creating API endpoints and complex ActiveRecord queries. I enjoyed how there was no front end for the project. I believe having a SQL background helped me tremendously, otherwise I would have been lost.
 
+#### Assessment
+Graded by: Nate   
+
+Notes:
+Good work
+A great API tests for bad requests, and how the API responds to them
+I think your SQL can be shorter, but not enough that I'm willing to put in the effort
+Consistent indentation
+Feature Delivery
+
+#### Completion:  4  
+Project completes all base requirements according to the spec harness.
+
+#### Test-Driven Development:  4  
+Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+
+#### Code Quality:  4  
+Project demonstrates exceptionally well factored code.
+
+#### API Design:  4  
+Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+
+#### Queries:  4  
+Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
+
 ### Cloney Island
 
 * [GitHub URL](https://github.com/dshinzie/crash-pad)
@@ -64,6 +89,39 @@ This project introduced me to creating API endpoints and complex ActiveRecord qu
 
 #### Description
 This project used authentication, API creation and consumption, and going in depth into styling. It was a very big project for 1.5 weeks, but I thought it was a good experience. I liked my group, and I liked how wide the scope of the project was.
+
+#### Assessment
+Graded By: Nate  
+
+Notes:
+Using risk point on test quality to make it a 5
+Client Expectations
+
+#### Team completed all the user stories and requirements set by the client:    
+- 4: Better than expected
+
+#### Project exhibits a production-ready user experience.  
+- 3: As expected
+
+#### Team used a project management tool to keep their project organized.
+- 3: As expected
+
+#### Git Workflow  
+
+#### Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+- 3: As expected
+
+#### Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+- 4: Better than expected
+
+#### Code Quality
+
+#### Project demonstrates well-factored code and a solid grasp of MVC principles.
+- 3: As expected
+
+#### Bonus
+##### Did the team push themselves by taking risks?  
+- 1: Yes
 
 
 ### Self Directed Project
@@ -74,6 +132,41 @@ This project used authentication, API creation and consumption, and going in dep
 I took this project as an opportunity to learn a new language, specifically NodeJS using the Express framework and MongoDB. It was a headache in the beginning and I thought I was making no headway, but within the last few days of the project I was able to get in the flow of writing JavaScript. I still don't like JavaScript though. Or MongoDB. But I really appreciate the fact that I was allowed to experiment with another technology.
 
 I was not able to get as much done as I wish I could have, and much of it is probably due to the fact that I had very little idea of how to start.
+
+#### Assessment
+Assessor: Lauren
+
+Notes:
+
+- Sockets.io not working on Heroku
+- Express.js application
+- Mocha tests implemented
+- Google Maps pins placed/removed with directions in chat working
+- Google Oauth enabled
+- Performance can't be graded
+- app.js needs refactor
+- Using sessions for current user
+
+#### 1. Completion:   3  
+Developer completed all the user stories and requirements set by the client.
+
+#### 2. Organization:  3  
+Developer used a project management tool to keep their project organized.
+
+### Technical Quality
+
+#### 1. Test-Driven Development:  3  
+Project shows adequate testing (90% - 95% coverage).
+
+#### 2. Code Quality:  3  
+Project demonstrates solid code quality and MVC principles.
+
+### Product Experience
+
+##### 1. User Experience: 3:  
+Project exhibits a production-ready user experience.**
+
+#### 2. Performance:  N/A
 
 ## Feedback
 ### Rales Engine
