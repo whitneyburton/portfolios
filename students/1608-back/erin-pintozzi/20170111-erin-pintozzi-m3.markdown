@@ -308,9 +308,10 @@ My big takeaway from this session was how to effectively brain storm. I went in 
 #### Flower Exercise
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://gist.github.com/epintozzi/6bfc0141293b39fa82f1d6d0e991235e)
 
-(takeaways from session)
+The takeaways from this session were to really think about what's most influential and important to me as I grow. Some things will be deal breakers in life/career and others won't and it's important to differentiate between the two.
+
 
 #### Mock Interviews
 
