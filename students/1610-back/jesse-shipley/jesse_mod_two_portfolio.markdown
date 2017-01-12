@@ -190,10 +190,36 @@ the pride we all had in the end product.
 #### Feedback for Little Shop
 
 Brett:
+  Brett was an outstanding Project Manager and team member in our final project.
+  His attention to detail, and thoroughness really kept our project on track. 
+  His code review really helped in catching small things that could/would have led 
+  to much bigger headaches.
 
-David:
+  Brett's attitude and direction really set a productive pace without pushing or 
+  demanding anything from the team that Brett wouldn't have done his self. I would 
+  really enjoy working with Brett again on a future project. His work style, pace, 
+  and effort really were a great thing to have in a group.
 
 Ethan:
+  Working with Ethan again this module was another great experience. His dedication 
+  and work processes really helped form our work pace as a team. Ethan took on the 
+  majority of styling and helping the rest of us further understand how styling might 
+  be handled in such a large project.
+
+  I really look forward to being paired with Ethan again, and keeping our streak of
+  project collaboration alive.
+
+David:
+  Having never worked with David before, I was really excited to be paired with him
+  on this large project. I have seen his past projects and sat near him during some
+  group collaborative efforts and always admired his understanding of Ruby. 
+
+  Being part of a team with David in it, did not disappoint my expectations. His
+  knowledge and understanding of the tools that Ruby and Rails give us was a great
+  asset to us as a group. His helpful attitude really helped me learn a few additional
+  things in Rails that I was unsure about, and definitely helped solidify concepts
+  covered in this project. I would love to be paired with David again on any future
+  projects we may have.
 
 
 #### Other Feedback
