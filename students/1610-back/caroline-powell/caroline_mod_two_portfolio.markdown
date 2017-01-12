@@ -84,8 +84,22 @@ Write 3-4 sentences summarizing your takeaways from _each_ session, including th
 Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
 
 ### Professional Development Workshops
-#### (Session Name)
+#### [Agile Project Management](https://github.com/turingschool/professional_skills/blob/master/module_two/agile_practices_project_management.md)
+Include takeaways and deliverables from each session.
 
+#### [Cold Outreach](https://github.com/turingschool/professional_skills/blob/master/module_two/cold_outreach.md)
+Include takeaways and deliverables from each session.
+
+#### [Feedback II](https://github.com/turingschool/professional_skills/blob/master/module_two/feedback_ii.md)
+Include takeaways and deliverables from each session.
+
+#### [Finding Opportunities](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
+Include takeaways and deliverables from each session.
+
+#### [Johari Window](https://github.com/turingschool/professional_skills/blob/master/module_two/johari_window_activity.md)
+Include takeaways and deliverables from each session.
+
+#### [Networking](https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
 Include takeaways and deliverables from each session.
 
 ## D: Feedback
