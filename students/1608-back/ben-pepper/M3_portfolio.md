@@ -18,7 +18,43 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Notes:
+
+Providing:
+- Good job serializing
+- render of status codes looks good
+- great request specs
+
+Consuming:
+- Good work towards 2nd user story
+- Careful with this: `((@stores.count) +1)`. Only works because you know what you're expecting for this zip :)
+- Good job pushing logic down stack with Controller -> Model -> Service communication
+- Service could use more refactor work with @connection.get "long string of params" repitition (take advantage of Faraday's params here)
+- Feature, unit and service specs are very strong
+
+## Evaluation Criteria
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+### 1. Ruby Style
+
+* **3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components**
+
+### 2. Rails Syntax & API
+
+* **4: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+### 3. Testing
+
+* **4: Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.**
+
+### 4. Progression/Completion
+
+* **3: Developer is able to implement solutions at the speed of a junior developer.**
+
+### 5. Workflow
+
+* **4: Developer commits every 15 minutes**
 
 
 ## B: Individual Work & Projects
@@ -175,44 +211,14 @@ From Michael Scherer
 1. 2 Friday spike sessions
 2. 1 Community outreach, coding with kids.
 
-------------------
+----------------------
 
 ## Final Review
 
-Notes:
+## Notes
 
-Providing:
-- Good job serializing
-- render of status codes looks good
-- great request specs
-
-Consuming:
-- Good work towards 2nd user story
-- Careful with this: `((@stores.count) +1)`. Only works because you know what you're expecting for this zip :)
-- Good job pushing logic down stack with Controller -> Model -> Service communication
-- Service could use more refactor work with @connection.get "long string of params" repitition (take advantage of Faraday's params here)
-- Feature, unit and service specs are very strong
-
-## Evaluation Criteria
-
-Subjective evaluation will be made on your work/process according to the following criteria:
-
-### 1. Ruby Style
-
-* **3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components**
-
-### 2. Rails Syntax & API
-
-* **4: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing.**
-
-### 3. Testing
-
-* **4: Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.**
-
-### 4. Progression/Completion
-
-* **3: Developer is able to implement solutions at the speed of a junior developer.**
-
-### 5. Workflow
-
-* **4: Developer commits every 15 minutes**
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3

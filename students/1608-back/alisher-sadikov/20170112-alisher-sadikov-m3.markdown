@@ -151,7 +151,7 @@ Very informative and eye-opening. As I keep learning about the tech interview pr
 
  ### Playing a Part
 
- Although I have not paired with the lower module students as I had in module 2, I was curious what they were working on and tried to pair. Mostly, they were so into their projects that I found myself not really helpful or not really fast :).  
+ Although I have not paired with the lower module students as I had in module 2, I was curious what they were working on and tried to pair. Mostly, they were so into their projects that I found myself not really helpful or not really fast :).
 
  ### Gear Up
 
@@ -162,7 +162,7 @@ Very informative and eye-opening. As I keep learning about the tech interview pr
  This was an interesting session as we mapped our insurance claim journey with Daniel Shin. Might be a useful tool in organizing your plans and setting your expectations.
 
  #### Grit
- It was a good session and very informative. 
+ It was a good session and very informative.
 
  ------------------
 
@@ -170,7 +170,11 @@ Very informative and eye-opening. As I keep learning about the tech interview pr
 
  ### Notes
 
- ( Leave blanks for reviewers )
+ * **A: End-of-Module Assessment**: 4
+ * **B: Individual Work & Projects**: 3
+ * **C: Group Work & Projects**: 4
+ * **D: Professional Development**: 3
+ * **E: Feedback & Community Participation**: 3
 
  ### Outcome
 

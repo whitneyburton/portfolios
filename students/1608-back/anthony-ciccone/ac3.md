@@ -185,7 +185,7 @@ Notes:
 * 1: Project pages load on average over 500 milliseconds.
 
 ***Posse***
-* Turing Lab: This was Turing Lab's first go around and I can say I really enjoyed it. Mixing the code we learn with hardware was a great learning opportunity. This was my first time playing with an arduino and I can say my group and I did some interesting things with it. I am excited to see where Turing Lab will go once the 3D printer start working.  
+* Turing Lab: This was Turing Lab's first go around and I can say I really enjoyed it. Mixing the code we learn with hardware was a great learning opportunity. This was my first time playing with an arduino and I can say my group and I did some interesting things with it. I am excited to see where Turing Lab will go once the 3D printer start working.
 
 ***Reflection from Gear Ups***
 
@@ -230,3 +230,15 @@ https://s3-us-west-1.amazonaws.com/nzenitramwp/ACFlower.pdf
 
 * 1/9/16
  * Ian Douglas group interview session
+
+ ------------------
+
+ ## Final Review
+
+ ### Notes
+
+ * A: End-of-Module Assessment: 3
+ * B: Individual Work & Projects: 3
+ * C: Group Work & Projects: 3
+ * D: Professional Skills: 3
+ * E: Feedback & Community Participation: 3

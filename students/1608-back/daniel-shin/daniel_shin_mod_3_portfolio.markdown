@@ -8,19 +8,19 @@ Despite all the above, I would say the topic of looking for jobs loomed the whol
 
 ## Self Assessment
 
-**A: End-of-Module Assessment**: 3  
+**A: End-of-Module Assessment**: 3
 I think I spent so much time this module researching / prioritizing about what kind of languages tech jobs typically look for, that I didn't spend as much time as I should have preparing for the final assessment. In fact, I came out of both exams not feeling great, but maybe that's how most of everyone else felt too. I was able to implement core features, but I was never able to complete the assessment 100%.
 
-**B: Individual Work & Projects**: 3  
+**B: Individual Work & Projects**: 3
 I took a risk doing my self-directed project in MongoDB, Express and Node, and I spent a considerable amount of energy into the project. However, I would balance this out with the lack of effort I put into APICurious. The lack of effort is mostly due to being taken back by the Stream session. In retrospect, I do agree that the session was very valuable and gave me insight in how complex Ruby can be, and I probably should have put more effort into the non graded project.
 
-**C: Group Work & Projects**: 4  
+**C: Group Work & Projects**: 4
 I devoted all my time to Rales Engine and Cloney Island, both of which I believe turned out to be very good projects. For both projects I tried my best to go out of my comfort zone and do the best that I can.
 
-**D: Professional Skills**: 3  
+**D: Professional Skills**: 3
 I have been researching companies and doing some cold outreach, but I have not been attending Meetups or doing many Mock Interviews.
 
-**E: Feedback & Community Participation**: 2  
+**E: Feedback & Community Participation**: 2
 I helped out Mod 1 and Mod 2 students when they were stuck on projects that I have already completed, but I have not helped with the community that much.
 
 -----------------------
@@ -29,19 +29,19 @@ I helped out Mod 1 and Mod 2 students when they were stuck on projects that I ha
 
 ### Evaluation Scores
 
-**Ruby Style**:  3  
+**Ruby Style**:  3
 Developer solves problems with a balance between conciseness and clarity and often extracts logical components
 
-**Rails Syntax & API**: 3  
+**Rails Syntax & API**: 3
 Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-**Testing**:  4  
+**Testing**:  4
 Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.
 
-**Progression/Completion**:  3  
+**Progression/Completion**:  3
 Developer is able to implement solutions at the speed of a junior developer.
 
-**Workflow**  :  4  
+**Workflow**  :  4
 Developer commits every 15 minutes
 
 
@@ -58,7 +58,7 @@ The graded projects consisted of Rales Engine, Cloney Island and the Self Direct
 This project introduced me to creating API endpoints and complex ActiveRecord queries. I enjoyed how there was no front end for the project. I believe having a SQL background helped me tremendously, otherwise I would have been lost.
 
 #### Assessment
-Graded by: Nate   
+Graded by: Nate
 
 Notes:
 Good work
@@ -67,19 +67,19 @@ I think your SQL can be shorter, but not enough that I'm willing to put in the e
 Consistent indentation
 Feature Delivery
 
-#### Completion:  4  
+#### Completion:  4
 Project completes all base requirements according to the spec harness.
 
-#### Test-Driven Development:  4  
+#### Test-Driven Development:  4
 Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
 
-#### Code Quality:  4  
+#### Code Quality:  4
 Project demonstrates exceptionally well factored code.
 
-#### API Design:  4  
+#### API Design:  4
 Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
 
-#### Queries:  4  
+#### Queries:  4
 Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 ### Cloney Island
@@ -91,22 +91,22 @@ Project makes great use of ActiveRecord relationships and queries, including som
 This project used authentication, API creation and consumption, and going in depth into styling. It was a very big project for 1.5 weeks, but I thought it was a good experience. I liked my group, and I liked how wide the scope of the project was.
 
 #### Assessment
-Graded By: Nate  
+Graded By: Nate
 
 Notes:
 Using risk point on test quality to make it a 5
 Client Expectations
 
-#### Team completed all the user stories and requirements set by the client:    
+#### Team completed all the user stories and requirements set by the client:
 - 4: Better than expected
 
-#### Project exhibits a production-ready user experience.  
+#### Project exhibits a production-ready user experience.
 - 3: As expected
 
 #### Team used a project management tool to keep their project organized.
 - 3: As expected
 
-#### Git Workflow  
+#### Git Workflow
 
 #### Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
 - 3: As expected
@@ -120,7 +120,7 @@ Client Expectations
 - 3: As expected
 
 #### Bonus
-##### Did the team push themselves by taking risks?  
+##### Did the team push themselves by taking risks?
 - 1: Yes
 
 
@@ -147,23 +147,23 @@ Notes:
 - app.js needs refactor
 - Using sessions for current user
 
-#### 1. Completion:   3  
+#### 1. Completion:   3
 Developer completed all the user stories and requirements set by the client.
 
-#### 2. Organization:  3  
+#### 2. Organization:  3
 Developer used a project management tool to keep their project organized.
 
 ### Technical Quality
 
-#### 1. Test-Driven Development:  3  
+#### 1. Test-Driven Development:  3
 Project shows adequate testing (90% - 95% coverage).
 
-#### 2. Code Quality:  3  
+#### 2. Code Quality:  3
 Project demonstrates solid code quality and MVC principles.
 
 ### Product Experience
 
-##### 1. User Experience: 3:  
+##### 1. User Experience: 3:
 Project exhibits a production-ready user experience.**
 
 #### 2. Performance:  N/A
@@ -262,7 +262,12 @@ This gear up was about having a combination of persistence and passion, calling 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 
+
 
 ### Outcome
 

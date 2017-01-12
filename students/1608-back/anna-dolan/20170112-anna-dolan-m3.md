@@ -303,7 +303,7 @@ This session was about putting yourself in someone else's shoes and understandin
 #### Grit
 
 * [Github URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
-This session talked about the notion of "grit", how the original concept has been twisted, and how the idea might be useful. My group was in agreement that it was a problematic concept that tended to lay blame on a person who was unsuccessful at a task, often a child. We discussed how such an idea can have an aspect of moral superiority about it. 
+This session talked about the notion of "grit", how the original concept has been twisted, and how the idea might be useful. My group was in agreement that it was a problematic concept that tended to lay blame on a person who was unsuccessful at a task, often a child. We discussed how such an idea can have an aspect of moral superiority about it.
 
 
 ### Professional Development Workshops
@@ -328,7 +328,7 @@ This session was hard to wrap my head around, because as busy as we are at Turin
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
 * Deliverable is n/a, did client pitch project
 
-Although I did the client pitch project rather than a truly self-directed project, it was still helpful to think about my concerns going into the project and my personal idea of what I wanted to deliver. 
+Although I did the client pitch project rather than a truly self-directed project, it was still helpful to think about my concerns going into the project and my personal idea of what I wanted to deliver.
 
 ## E: Feedback and Community Participation
 
@@ -360,7 +360,11 @@ This module, I felt like I had very little free time to play a large part in the
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 

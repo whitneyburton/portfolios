@@ -139,7 +139,7 @@ necessary.
 *Solution*: RepList allows users to create, edit and share their repertoire lists. By
 using the SoundCloud API, a user is able to upload audio performances to their
 repertoire list. With RepList, plain text repertoire lists and disorganized
-performance recordings are a thing of the past.  
+performance recordings are a thing of the past.
 
 *Target Audience*: Classical musicians of all ages, but will primarily be used by high school and
 collegiate musicians.
@@ -182,7 +182,11 @@ First one is schedule with my mentor next Wednesday!
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
