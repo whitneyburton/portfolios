@@ -160,9 +160,7 @@ Most proudly, I was excited to see that ironFE, a group I cofounded in Mod2, too
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+Stop being so much like Taylor before he took a mod off. 
 
 ### Outcome
-
-( Leave blanks for reviewers )
+Pass
