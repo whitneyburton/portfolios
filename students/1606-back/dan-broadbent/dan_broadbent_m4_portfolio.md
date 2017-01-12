@@ -116,7 +116,7 @@ Video overview of Monocle: https://vimeo.com/199076606
 * [GitHub Pull Request 2](https://github.com/rubyforgood/habitat_humanity/pull/120)
 * [Original Assignment](http://backend.turing.io/module4/projects/the-plan/assignments/open-source)
 
-Blog post of this experience: https://medium.com/@danbroadbent/contributing-to-open-source-for-the-first-time-dc84478c4538#.sy8go9ori
+[Blog post of this experience](https://medium.com/@danbroadbent/contributing-to-open-source-for-the-first-time-dc84478c4538#.sy8go9ori)
 
 ## D: Professional Development
 (Intro)
