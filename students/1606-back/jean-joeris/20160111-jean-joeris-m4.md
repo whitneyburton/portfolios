@@ -132,6 +132,7 @@ There are actually still improvements to be made to our communication and workfl
 * 2: Project has an implementation in progress of one major technique from the previous two weeks of classes.
 * 1: Project has a plan to implement a technique from academic classes.
 
+#### Feedback from group
 
 Feedback from Brian Heim: I have worked with Jean before and know that he is a fantastic programmer with very strong technical skills. He also has great soft skills and is a pleasure to work with. Jean served as our Project Manager for the Enroll team and took on many different tasks in addition to writing code. He organized tasks on Tracker, communicated with our CTO and Product Owner for the team, and made sure the group was making progress. Even though I did not really work with him on the project code, Jean did a great job as PM; he reminded me (respectfully) about tasks I had forgotten about, and truly took his responsibility seriously. My only advice to Jean would be to not be too hard on himself regarding his PM duties. He mentioned to me that he felt he was not performing as well as he would like, but I thought he did a great job. I have alot of respect for Jean and can’t wait to see what he can do once we graduate.
 
