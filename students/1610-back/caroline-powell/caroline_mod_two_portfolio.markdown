@@ -93,29 +93,37 @@ Include takeaways and deliverables from each session.
 ### Giving Feedback
 
 *-To Molly Brown*
+
 I had the pleasure of working with Molly on the Bike Share project. We chose Molly to be our project manager and she did a great job keeping us organized and on track. In addition to being a great project manager, Molly was a real team asset on analytics methods and bonus extensions. One of Molly’s greatest strengths is that she is not afraid to go above and beyond and tackle new things with little guidance. She took the lead in figuring out the google maps API, and as a result we had a stunning index page that displayed the locations of each bike station in San Francisco. The map was a real wow factor that gave our site immediate visual appeal on a project very early on in our program at Turing.
 
 *-To Mike Schutte*
+
 Mike is known for his positive attitude and ability to write super clean super efficient code. There are almost always 10-20 sets of code that you could write to get the same job done. Mike is notorious for finding the absolute best code solution out of those 20 possibilities. He pays a lot of attention to detail and his appetite for exploration and performance benchmarking will no doubt lead to high-performance sites as he continues his development career. He is also a great communicator and works hard to keep up team morale. The last night of the project we ran into an issue and had to stay up late working to resolve it. We were all fading but Mike kept our team spirit high and that really helped us to push through in the end.
 
 *-To Ethan Bennett*
+
 I had the pleasure of working with Ethan on the Bike Share project. Ethan is a really great team member and is very easy to get along with. He keeps the team dynamics together. Ethan really stepped up in our project to take the lead on styling with Bootstrap, which was new and uncomfortable territory for us all at the time. Our site looked really nice when it was finished, especially for a first time endeavor. We all agree that was one of the strongest reasons that we got such great scores on the project. I was really impressed with Ethan’s ability to learn a new skill so fast and produce great results right off.
 
 *-To Robbie Smith*
+
 TBD
 
 *-To Lucy Conklin*
+
 TBD
 
 *-To Nick Erhardt*
+
 TBD
 
 ### Being a Community Member
 
 *-From Robbie Smith*
+
 You're a database queen. This is my second project with Caroline, and I am still amazed at how thorough she is in her work. Everytime I have worked with you, you have definitely made my knowledge increase.
 
 *-From Nick Erhardt*
+
 I was excited to get a chance to work with Caroline on Little Shop.  She seemed to have a fundamentally solid knowledge of how databases work and relationships between datasets.  
 
 Working with Caroline was an excellent learning opportunity for several reasons.  She has a fantastic eye for detail and takes an analytical approach to programming.  Perhaps one of her greatest strengths was reviewing code.  She quickly had a grasp of what it was supposed to do and asked piercing (yet somehow still very polite) questions when the code didn't seem to behave like one might expect.  She was fun to pair program with and helped us churn out a metric ton of clean code.  
@@ -123,12 +131,15 @@ Working with Caroline was an excellent learning opportunity for several reasons.
 She was a solid partner for designing databases and instantly understood how the database structure would relate to the Rails models.  It also has to be said that she was the driving force behind including Stripe in our project and spearheaded the effort.
 
 *-From Molly Brown*
+
 Caroline, it was awesome working with you on the Bike Share project and I feet spoiled by having you on our team. You took the lead in working through the nuances of creating our database architecture and brought up issues and potential solutions that would have never occurred to me. You are also impressively tenacious about working through problems and researching solutions and testing them for effectiveness. My only suggestion for improvement would to be remain mindful of your ability to dig deeply into issues and stick to a time limit so that you do not end up dwelling on one particular issue for too long. Still, I was very impressed by your ability to consider and issue from many potential angles. Thanks for all your hard work and I hope I get the chance to work on a project with you again.
 
 *-From Mike Schutte*
+
 Caroline, I really enjoyed working on Bike Share together. Your initiative to design the database with the utmost care really set the tone of success for the rest of the project. I also appreciate our shared love for simple things like alphabetized dropdown menus. For future projects, I think you could work on listening to alternative solutions when the group is stuck on a bug. You have great focus, and that focus sometimes led to tunnel vision during ruts in the project. Thanks again for taking the lead on the database design, and being a critical player on our path to completing a great project. Good luck on your future work!
 
 *-From Ethan Bennett*
+
 It was a huge advantage for the rest of us to have you (and your experience with database structuring) on our team for our first project like this. Despite that, I never got the impression that you were leaving us behind—you handled being the DB expert well. Occasionally there were some mix-ups with terminology, so that’s something to think about in your next group project (but it was definitely never a big deal).
 
 ## E: Community Participation
