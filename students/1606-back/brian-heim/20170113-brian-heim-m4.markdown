@@ -244,6 +244,10 @@ Submission forthcoming by 1/17/16
 
 ### The Plan
 
+* Gist Link [https://gist.github.com/bheim6/dfca17d5601cc2f6853e5cda5320a1bb]
+
+* Goals Assignment linked in above Gist
+
 
 ---
 
