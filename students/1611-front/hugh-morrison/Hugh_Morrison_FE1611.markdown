@@ -83,7 +83,7 @@ Number Guesser is an application that generates a random number on load. This nu
 * CSS needs to match the comp exactly for desktop and mobile view
 * For HTML, take advantage of shared classes between elements that are styled the same way (try to get away from CSS selectors directly on elements, like buttons, because you will have buttons with different styles on the page)
 
-#### Number Guesser Evaluation Scores
+#### Evaluation Scores
 
 ##### UX/UI Expectations
 
@@ -132,7 +132,7 @@ Number Guesser is an application that generates a random number on load. This nu
 #### (Project Name)
 
 
-Linked list:: 
+Linked list::
 * [GitHub URL]()
 * [Original Assignment]()
 * [DTR Memo Link](https://docs.google.com/document/d/1HX0Uw8sAc7Y5Hn6E1gk1Oau5G6gyi77MhfWvOtoQkpg/edit?usp=sharing)
@@ -181,6 +181,8 @@ It was difficult to refrain from talking about the current election in the conte
 ### Playing a Part
 
 (ways you supported the larger Turing community)
+
+Posse stuff
 
 ------------------
 
