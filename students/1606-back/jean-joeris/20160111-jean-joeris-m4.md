@@ -151,6 +151,7 @@ Jean is a great human being all around, I am fortunate to have had the opportuni
 * [Six cold outreach emails sent](https://gist.github.com/JeanJoeris/10c93daba356a85e6e5e669995e5688f)
 * [Blog post](https://medium.com/@jeanjoeris/a-rails-devs-perspective-on-learning-phoenix-bcbab7b2545a#.328sawgvv)
   * [Feedback on blog post](https://gist.github.com/JeanJoeris/145e44bfee33981a26797610b2d58338)
+  * [Feedback on Brian Heim's blog post](https://gist.github.com/JeanJoeris/2e9fb1a4c0f5eef5186957800254e4e4)
   
 ## The Plan
 * [The plan!](https://gist.github.com/JeanJoeris/d54492eda38b30ce2fae80384657d95c)
