@@ -176,6 +176,11 @@ The output from JSHint shows…
 
 ## D: Professional Skills
 
+Here is my DTR for IdeaBox with Staci.  This was tremendously helpful in setting expectations for working styles and exactly what we aimed to accomplish throughout the project.
+
+[IdeaBox DTR](https://docs.google.com/document/d/1wqsypLfrYvw_QdiCBzIc_vbE0gYVlWGPJXHSLCesESc/edit?usp=sharing);
+
+
 ### Gear Up
 #### Introvert/Extrovert
 
@@ -188,6 +193,12 @@ I loved this Gear Up. I think it is very important to have and essential to gett
 #### Grit
 
 Grit was a great compliment to the Growth Mindset session There were a lot of different ideas thrown around about what grit is and how it impacts us, specifically our experience at Turing.
+
+## Professional Development Workshops
+###Personal Branding
+
+[Resume](https://resume.creddle.io/resume/gt787dr5ukz);
+[LinkedIn](https://www.linkedin.com/nhome/)
 
 ## E: Feedback and Community Participation
 
@@ -220,7 +231,7 @@ Awesome work on game time. It was a really grueling project, but you were positi
 Keep working on being vocal while you're coding and talking through what you're writing.
 
 
-### Playing a Part
+<!-- ### Playing a Part -->
 
 I have made an effort to attend all of the Turing events and guest speakers. Helping my classmates work through problems and explain concepts is another way I was able to contribute to the Turing community.
 
