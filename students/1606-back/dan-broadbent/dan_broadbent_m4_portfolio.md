@@ -105,13 +105,18 @@ The most difficult part of the project for me was working on making the company 
 Video overview of Monocle: https://vimeo.com/199076606
 
 ### Scores
+
 #### Accessor:  Andrew Carmer
+
 #### Team:
+
 * Susi
 * Dan
 * Brendan
 * Nate
+
 #### Sprint 1
+
 ###### 1. Project Management
 * 4: Team is using a project management tool and updating their progress daily.
 ###### 2. Completion & Pace
