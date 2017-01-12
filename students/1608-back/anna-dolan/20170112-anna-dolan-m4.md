@@ -223,7 +223,7 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
     *   1: Yes
     *   **0: No**
 
-(feedback to me)
+Erin Pintozzi: "Working with Anna is always a treat. Anna is passionate about her work, contributes thoughtful and helpful ideas, and is very thorough. Our group had some tension about mid-way through the project and rather than just stifling the issue, Anna was very direct, but kind in bringing up the issue so the group could work on addressing it together. I know that can be a very difficult thing for a lot of people to do, but Anna seems like a natural when dealing with difficult situations and we were able to navigate the problem as a group."
 
 #### It Takes A Village
 
@@ -300,7 +300,7 @@ Vido Seaver: My first time working with Vido was on Pinspiration. He was enthusi
 
 Anthony Ciccone: "This was my first time being in a project with Anna and it was a great experience. I liked how honest and straight forward you were when working together which really helped clarify and set expectations. Anna was super hard working and also completed most of the really hard ActiveRecord Quieres. One suggestion for improvement would be if you doing a project/interview and your are on a time limit or you don’t know the answer for example try not to express/show you stressed even if you are inside. I really appreciated all the hardwork and time you put into the project! Would love to work with Anna again."
 
-Erin Pintozzi: "Working with Anna is always a treat. Anna is passionate about her work, contributes thoughtful and helpful ideas, and is very thorough. Our group had some tension about mid-way through the project and rather than just stifling the issue, Anna was very direct, but kind in bringing up the issue so the group could work on addressing it together. I know that can be a very difficult thing for a lot of people to do, but Anna seems like a natural when dealing with difficult situations and we were able to navigate the problem as a group."
+Megan Talbot: "I loved the chance to work with Anna again! Though this project started with 4 people, I was happy that Anna and I ended up sticking with it. I know we both hope we can contine working on this project to make to even better, but I am also very happy with where we ended up. Anna is a super hard worker and always gets her work done. She was very communicative with me, and we were effectively able to divide and conquer much of the work. When there was a particular challenege, however, she was always willing to pair with me so we could figure it out. I really enjoyed this project with Anna and hope it's not the end of it!"
 
 ### Playing a Part
 
