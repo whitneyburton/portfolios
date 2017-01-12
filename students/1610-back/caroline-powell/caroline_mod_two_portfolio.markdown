@@ -91,7 +91,7 @@ This session gave us great tips for how to reach out to people we've never met s
 This was a great session to improve our communication skills. We talked about how to take the personalness and offensiveness out of our feedback rhetoric and turn it into fact-based recaps of things that happened and relatable explanations of how situations made us feel. I feel like we all, especially myself, could us a lot more practice on this. Once it's brought to your attention you realize how flawed our commonly used feedback language really is.
 
 #### [Finding Opportunities](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
-Include takeaways and deliverables from each session.
+I learned a lot about how to use LinkedIn that I was not aware of before, and I've been able to use these newfound skills to widen my network and also to help friends do the same.
 
 #### [Johari Window](https://github.com/turingschool/professional_skills/blob/master/module_two/johari_window_activity.md)
 I thought the Johari Window was a great exercise. We each anonymously filled out a form about ourselves and each person we've worked with in a group, circling adjectives that we thought described us or the person we were filling the form out for. Then we recieved the forms that people filled out about us and compared the results to what we thought of ourselves. I thought it was good because the anonymous aspect gave people a chance to give real and unvarnished feedback. It helped us learn a lot about how others percieve us versus how we percieve ourselves.
