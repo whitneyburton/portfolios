@@ -1,4 +1,4 @@
-# Kyle Misencik - (M1)-FE Portfolio
+# Kyle Misencik - (M2)-FE Portfolio
 ## Individual
 
 ### Areas of Emphasis
