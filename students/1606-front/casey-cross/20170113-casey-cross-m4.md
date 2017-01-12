@@ -146,7 +146,8 @@ This was an exploration in building a desktop application using Electron. We wer
 
 ### Total Score: 158/175
 
-(feedback to me)
+#### Feedback from MaryJane Valade
+(pending)
 
 #### Curiously Native
 
@@ -190,7 +191,8 @@ This is an alternative fuel locator app built with React Native and Redux.  It r
 
 ### Total Score: 147/175
 
-(feedback to me)
+#### Feedback from Casey Metz
+(pending)
 
 #### Capstone Project
 
@@ -245,29 +247,55 @@ issues and code reviews. I also appreciated Casey's willingness and enthusiasm t
 
 I’m glad I finally got to work with Casey because otherwise I would have been sad if I hadn’t worked with her during my time at Turing. During our capstone project she kept our group very organized and accountable for Github issues, which made our workflow go smoothly. Her motivation to test is inspiring and will definitely benefit her in the future. We had 65 tests! She’s a master at resolving merge conflicts and not at all afraid to encounter them. Together we worked on styling and put together a really polished app. Casey is up for any challenge and ready to tackle whatever aspect of the project needs to be worked on, whether it’s testing, styling, or functionality. It was a pleasure working with Casey!
 
-## D: Professional Development
+#### Feedback from David Kerr
+(pending)
 
 ### Professional Development Workshops
 
-#### (Session Name)
-* Paragraph description of top three priorities in the job search and why
-* [Link to Completed Deliverables]()
+#### Job Search Priorities
+###### Paragraph description of top three priorities in the job search and why
 
-(takeaways from session)
+* My number one priority in my job search is to remain in Denver. I have lived here for 15 years and have no interest in moving.  My second priority is an environment that is supportive, gives the freedom to ask a lot of questions and/or provides mentorship, and enhances my professional growth. My third priority would be a casual and flexible work environment.  I hate having to wear business casual and would like the flexibility to work remote on occasion and not have a rigid 8 to 5 workday.  I am a night person and not at all a morning person so I prefer to start later and work later into the evening.  I would like the option to do that, at least occasionally.
 
-#### (Session Name)
-* 1-2 paragraph action plan for how to overcome perceived barriers to the job search
+* Takeaways from the session -
+It was good to clearly define my priorities so I know what I will and won't accept.  It will help me refine my job search and what to research.  This will also help guide some of the questions I will ask potential employers during the interview process.
 
-* [Link to Completed Deliverables]()
+#### Perceived Barriers to the Job Search
+###### 1-2 paragraph action plan for how to overcome perceived barriers to the job search
 
-(takeaways from session)
+* Barrier:  Lack of confidence in coding skills --> action --> emphasize existing completed projects, pretend to be confident (fake it until you make it), emphasize I have no bad coding habits yet, am moldable and adaptable.
+* Barrier: Shyness & being uncomfortable reaching out to strangers --> action --> understand that many developers feel this way and that cold outreach is an established norm in the community.  Practice practice practice.
 
-#### (Session Name)
-* Six cold outreach emails sent
+* Takeaways from the session -
+It is good to keep reminding myself of these and understanding that I am not alone in feeling this way but I cannot let these things hinder me or my professional future.
 
-* [Link to Completed Deliverables]()
+#### Cold Outreach Emails
 
-(takeaways from session)
+1. Nicole Hall -
+Backend developer at Pairin
+
+2. Kim Kutt -
+Customer Support Associate at Craftsy
+
+3. Cassidy Smirnow -
+Senior VP of Operations at Four Winds Interactive
+
+4. Carrie Marvin -
+Tech Recruiter at Trello
+
+5. Tim Cigrand -
+Front End Engineer at Apto
+
+6.  Kaitlyn Binversie -
+Sr Corporate Recruiter - Four Winds Interactive
+
+7. Kris Foss -
+Havenly
+
+
+* Takeaways from the session -
+Cold outreach is hard and uncomfortable but can be successful for both networking and opening doors to job opportunities.
+
 
 ## E: Feedback and Community Participation
 
@@ -324,24 +352,3 @@ During this module I volunteered to be a TA and a panelist during the one day fr
 ### Outcome
 
 ( Leave blanks for reviewers )
-
-<!-- ******************************************************* MOD 3 ** -->
-
-### Playing a Part
-
-I contributed to open source by correcting spelling and grammar issues in one of our lesson markdowns and submitting a pull request. I also helped organize and set up our new class space, making sure we have sufficient supplies to enhance our education.
-
-------------------
-### Professional Skills:
-
-#### Gear Up
-
-* Community:
-  * A recap of reflections from Gear Up
-
-  * [Democracy]  
-  https://docs.google.com/document/d/1fGv3CyIvSwmsvdYoBDku_IXI3UPL7DxaoKKmIw0pxDk/edit?usp=sharing
-
-  * [Introversion]  https://docs.google.com/document/d/1uuwyTTkPIgvM2U9HBYnbrAGP1IfN96cWR4dNzHYoiVE/edit?usp=sharing
-
-  * [Resilience]  https://docs.google.com/document/d/1WFXbprLmEnzyRvF13ka0mW2Y0O0SLiZXvGn-kiA7JGU/edit?usp=sharing
