@@ -55,6 +55,49 @@ For this project I used Go, Javascript, and Python to make a service that helps 
 
 The Go JSON API, backed by a Postgres database, serves up information to the Javascript frontend, and the Alexa Skill. To find parks, users can submit forms or simply ask the Amazon Echo to find a park by certain criteria. For example, a user could ask to find a park with boating, fishing, and full-hookup campsites.
 
+#### Evaluation Scores
+
+Assessor: Lauren
+
+Notes:
+
+- Go API, separate JS front end
+- Seeded DB by hand with parks info
+- Google Maps API on front end for parks page
+- Built Alexa app
+- Documentation for API on readme
+- Filter by Activities and Facilities based on current park info
+- Exceptional understanding of Go, speaking really articulately about each line of code
+
+**1. Completion**
+
+* **4: Developer completed all the user stories and requirements set by the client in timely manner.**
+
+**2. Organization**
+
+* **3: Developer used a project management tool to keep their project organized.**
+
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* **3: Project shows adequate testing (90% - 95% coverage).**
+
+**2. Code Quality**
+
+* **4: Project demonstrates exceptionally well factored code.**
+
+### Product Experience
+
+**1. User Experience**
+
+* **4: Project exhibits a production-ready and polished UX.**
+
+**2. Performance**
+
+**N/A**
+
 
 ## C: Group Work & Projects
 
