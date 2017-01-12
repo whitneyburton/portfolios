@@ -80,7 +80,7 @@ The only project I worked on individually this module was the Open Source projec
 
 * [GitHub URL](https://github.com/alexreisner/geocoder/pull/1140)
 * [Original Assignment](http://backend.turing.io/module4/projects/the-plan/assignments/open-source)
-* [Blog Post]()
+* [Blog Post](https://medium.com/@brendan__dillon/fixing-a-problem-that-you-dont-understand-2c33c50980c2)
 
 I worked on the Geocoder gem. It had a bug with the Rake task that it used to geocode all records in a database that prevented it from working correctly with projects that used Mongoid instead of ActiveRecord. Most of the time for this project was spent researching what the code was supposed to do with respect to batching. Setting up projects to test the gem with both ActiveRecord and Mongoid was also tricky and interesting, since I had never previously used MongoDB or Mongoid.
 
@@ -118,7 +118,7 @@ This workshop gave me some insight as to how to make a blog post useful for its 
 
 ### Being a Community Member
 
-(feedback to me)
+Susi Irwin: "It has been such an amazing pleasure to get to work with you on this project. Your ability to look at a problem, break it down into super small, reasonable parts is second to none. I am in awe at your abilities with JavaScript and jQuery. No card given to you ever seemed to fluster you in the slightest. I hope to gain some of your confidence and curiosity as I move away from Turing. Your calm approach to programming verges on Zen and is extremely commendable."
 
 ### Playing a Part
 
