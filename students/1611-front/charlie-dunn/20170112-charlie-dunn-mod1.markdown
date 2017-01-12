@@ -267,10 +267,4 @@ Going forward I am going to try to get more involved with meetups and hackathons
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
