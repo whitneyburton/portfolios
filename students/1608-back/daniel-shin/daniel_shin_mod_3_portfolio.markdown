@@ -88,6 +88,8 @@ I was not able to get as much done as I wish I could have, and much of it is pro
 
 "Daniel is the type of programmer that goes all out trying to solve a problem.  He doesn’t give up, and it was great to work with him because of this attribute.  He is an active record and SQL boss, and I think the project would have taken much longer and we would have ran into more speed bumps if Dan had not been in our group." - Chase to Daniel
 
+"It was great to work with Daniel on Cloney Island. He has an impressive work ethic that inspires me to work even harder. Daniel is really good at taking on risky, yet rewarding challenges. Adding the Google Maps functionality to the project was really cool. One area of growth for Daniel may be to take more breaks and ask others on the team specific questions related to the project to make sure they're keeping up." - Brad to Daniel
+
 #### To Group
 "Mike was a great partner to work with during Cloney Island. His natural project management vision helped us facilitate the project in a clear direction. Furthermore, Mike was willing to stay late during critical moments as well as split up work due to the breadth of the project. For future projects, Mike may be able to take on more front-end tasks. Regardless, Mike helped resolve many critical issues in various scopes that helped the project become successful." - Me to Mike
 
