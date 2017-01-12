@@ -75,8 +75,7 @@ This Gear Up session definitely changed my attitude and realizations on the topi
 In this session my group discussed potential ways to be more effective and potentially impactful on others after experiencing or witnessing a microagression. One particular example given that I remember is that a good way to respond to witnessing a microagression is to start a conversation with the victim of the microagression. This can both help that person feel less alone and isolated as well as demonstrate a good example for the agressor and those witnessing the incident.
 
 #### [Journey Mapping](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
-
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+This session was fun. We separated into groups and took turns interviewing each other about our personal experiences taking public transit for the first time and applying to become a Turing student. After the interviews we sketched out journey maps of the different stages, calling out specific anecdotes mentioned by the group in each phase of the journey. This was good practice I think that we will use when creating journey maps for users of our web applications.
 
 #### [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
