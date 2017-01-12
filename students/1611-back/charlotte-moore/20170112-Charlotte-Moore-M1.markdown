@@ -8,7 +8,7 @@ My primary goal in this first module was to engage myself fully in the community
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -199,7 +199,7 @@ Assessed by: Nate
 
 * Missing suggest and supporting feature
 * Clear and concise tests. We talked about efficiency in the future
-* Could make better use of words as arrays, althogh I wasn't able to easily get it working
+* Could make better use of words as arrays, althogh I wasnt able to easily get it working
 * Would have liked more examples of enumerables
 
 ## Evaluation Rubric
@@ -319,7 +319,7 @@ When I was feeling really defeated about Battleship you sat with me and Max and 
 
 ### Being a Community Member
 **(From: Ryan)**
-[Resume LinkedIn Feedback](https://drive.google.com/file/d/0B-4gck5WebSTLWVIakNqcF9BazJoRmNULXhYSENGbVFQZm1n/view?usp=sharing)
+[LinkedIn Feedback](https://drive.google.com/file/d/0B-4gck5WebSTLWVIakNqcF9BazJoRmNULXhYSENGbVFQZm1n/view?usp=sharing)
 
 **(From Casey)**
 t has been such a pleasure getting to know Charlotte, I'm so glad she's in our cohort! It was hard at first to feel connected to other people in Mod 1, but Charlotte and I quickly bonded over board games, and I've always felt like I've had an ally in the cohort ever since. I'm so looking forward to continue getting to know her over the net few months!
@@ -342,5 +342,4 @@ As a module one student I think I helped the larger Turing community by focusing
 
 ### Outcome
 
-( Leave blanks for reviewers )
-
+PROMOTED
