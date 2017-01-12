@@ -3,7 +3,7 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+In addition to having a strong finish to Turing, I wanted to continue to support Armstrong posse. I believe I succeeded in both of these goals. I worked on a difficult brownfield app, and I ran weekly spike sessions. Another goal I had was to learn Elixir. While I didn't learn a ton more Elixir, I did start to dive into Phoenix. This was something I didn't predict but have been very happy with.
 
 ### End of Module Assessment
 
@@ -97,12 +97,20 @@ This project was not evaluated, but we did meet all the requirements layed out i
 
 (evaluation scores)
 
-(feedback to me)
+Feedback from Brian Heim: I have worked with Jean before and know that he is a fantastic programmer with very strong technical skills. He also has great soft skills and is a pleasure to work with. Jean served as our Project Manager for the Enroll team and took on many different tasks in addition to writing code. He organized tasks on Tracker, communicated with our CTO and Product Owner for the team, and made sure the group was making progress. Even though I did not really work with him on the project code, Jean did a great job as PM; he reminded me (respectfully) about tasks I had forgotten about, and truly took his responsibility seriously. My only advice to Jean would be to not be too hard on himself regarding his PM duties. He mentioned to me that he felt he was not performing as well as he would like, but I thought he did a great job. I have alot of respect for Jean and can’t wait to see what he can do once we graduate.
+
+Feedback from Sonia Gupta: Jean has been an exceptional team leader. While he seemed a little unsure of his role at the beginning of the project, he certainly made up for that by the end. He became more engaged in the project and with working with fellow team members, and he did excellent work on the search feature. Jean has an innate talent for managing the expectations of others in a fruitful and compassionate way. It was truly a pleasure to be on a team with him.
+
+Feedback from David Davydov: Jean is one of the most genuinely down-to-earth people I have known. When he talks about something he is passionate about, his enthusiasm for the topic becomes infectious. About passions, he has many in the realm of web technologies. I'll never forget the day Jean told everyone about how he ran `rm -rf /` on a virtual machine and the warning he received. He is a strong advocate for others as well. In a team, he often speaks up for other team members about issues he knows are important to them. Jean is also smart, and has his head in high places. He knows what the major game changers in software are going to be and he gets himself intricately involved with these pieces. Not only that, he can effectively share his knowledge with others in a positive way. It was a pleasure to work with you Jean, and to be in the same cohort with you for 7 months, you always kept things interesting.  You are fun to hang with, highly capable, and an amazing programmer. I know you will achieve nothing less than everything you wish for yourself.
+
+Feedback from Raphael Barbo: Working with Jean is such a treat, I love how he can approach a problem from so many different perspectives and still come up with a great, reasonable, and easy to understand the solution. 
+I am a big fan of Jean and I absolutely love working with him. He easy-going attitude towards challenges, and resilience to overcome obstacles, and above all his patience and willingness to learn and grow is something I truly and sincerely admire about him. 
+Jean is a great human being all around, I am fortunate to have had the opportunity to work with Jean on two separate projects. I have learned a ton from you and I can't wait to see what the future holds. I know I will see you accomplish some really amazing things.
 
 ## Professional Development
 
 * [top three priorities in first job](https://gist.github.com/JeanJoeris/07eec00beeee5d869700362de04d00d4)
-* [action plan for how to overcome perceived barriers to the job search]()
+* [action plan for how to overcome perceived barriers to the job search](https://gist.github.com/JeanJoeris/c1a9174845ebdf0468aef993747841ca)
 * [Six cold outreach emails sent]()
 * [Blog post](https://medium.com/@jeanjoeris/a-rails-devs-perspective-on-learning-phoenix-bcbab7b2545a#.328sawgvv)
   * [Feedback on blog post](https://gist.github.com/JeanJoeris/145e44bfee33981a26797610b2d58338)
