@@ -94,7 +94,7 @@ Include takeaways and deliverables from each session.
 Include takeaways and deliverables from each session.
 
 #### [Johari Window](https://github.com/turingschool/professional_skills/blob/master/module_two/johari_window_activity.md)
-Include takeaways and deliverables from each session.
+I thought the Johari Window was a great exercise. We each anonymously filled out a form about ourselves and each person we've worked with in a group, circling adjectives that we thought described us or the person we were filling the form out for. Then we recieved the forms that people filled out about us and compared the results to what we thought of ourselves. I thought it was good because the anonymous aspect gave people a chance to give real and unvarnished feedback. It helped us learn a lot about how others percieve us versus how we percieve ourselves.
 
 #### [Networking](https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
 Include takeaways and deliverables from each session.
