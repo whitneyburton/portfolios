@@ -20,29 +20,29 @@ So how did I do on these things?
 
 Find the rubric near the [end](#rubric) of this document.
 
-* **A: End of Module Assessment**: 4 / Student achieved two or more "4"s on the assessment (Module 3 requires three or more "4"s)
-* **B: Individual & Group Work**: 4 / Student consistently helps their teammates be their best selves, learn at
-* **C: Professional Skills**: 4 / Student demonstrates dedication to their professional growth by not only completing the expected deliverable(s) but also pursuing additional opportunities for professional development beyond what is presented in sessions.
-* **D: Feedback**: 3 / Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback. They participate in required activities and does at least one or two above and beyond suports of the community.
-* **E: Community Participation**: 4 / Student has a significant positive impact on the learning and spirit of the people around them.
+* **A: End of Module Assessment** - 4 / Student achieved two or more "4"s on the assessment (Module 3 requires three or more "4"s)
+* **B: Individual & Group Work** - 4 / Student consistently helps their teammates be their best selves, learn at
+* **C: Professional Skills** - 4 / Student demonstrates dedication to their professional growth by not only completing the expected deliverable(s) but also pursuing additional opportunities for professional development beyond what is presented in sessions.
+* **D: Feedback** - 3 / Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback. They participate in required activities and does at least one or two above and beyond suports of the community.
+* **E: Community Participation** - 4 / Student has a significant positive impact on the learning and spirit of the people around them.
 
 -----------------------
 
 ## A: End of Module Assessment
 
-* **A: Conceptual Understanding** / 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
+* **A: Conceptual Understanding** - 4 / Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
 
-* **B: Analytic/Algorithmic Thinking** / 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+* **B: Analytic/Algorithmic Thinking** - 4 / Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
 
-* **C: Feature Completeness** / 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+* **C: Feature Completeness** - 4 / Developer is able to finish all prescribed functionality, refactor and have all passing tests
 
-* **D: ActiveRecord Syntax and Style** / 3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+* **D: ActiveRecord Syntax and Style** - 3 / Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
 
-* **E: Rails Style** / 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
+* **E: Rails Style** - 4 / Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
 
-* **F: Testing** / 4: Developer understands errors produced by tests, and uses them to drive development independently
+* **F: Testing** - 4 / Developer understands errors produced by tests, and uses them to drive development independently
 
-* **G: Collaboration** / 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+* **G: Collaboration** - 4 / Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ## B: Individual & Group Work
 
