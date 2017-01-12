@@ -190,7 +190,7 @@ The group projects for this module included Headcount.
 
 * [GitHub URL](http://backend.turing.io/module1/projects/headcount)
 * [Original Assignment](http://backend.turing.io/module1/projects/headcount)
-* [Self Evaluation]()
+* [Self Evaluation](https://gist.github.com/meyerhoferc/68b350215b57a4ca1779f37847b1c686)
 
 Headcount is a system that parses CSVs to create a database of information from Data.gov concerning public school data. There is a data access layer, an analysis layer, and a relationships layer to the system. The data access layer allows the system to be queried for specific data for a district or the state of Colorado. The analysis layer returns statistical analysis about the data, and the relationships layer answers questions relating to multiple data sets.
 
