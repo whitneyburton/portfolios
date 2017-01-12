@@ -174,3 +174,6 @@ When I was feeling really defeated about Battleship you sat with me and Max and 
 
 offered myself as an open and listening "friend" to those that want to talk thru things - i'm no psychologist but being a coach has trained me to be pretty close to one.  We talk thru things and i dont give answeres but I ask questions that help them solve what emotional elements they are stuck on.
 observing different backgrounds and having that inspire me to push harder on social change
+
+Outcome:
+RETAINED
