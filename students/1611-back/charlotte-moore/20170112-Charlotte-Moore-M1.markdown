@@ -230,15 +230,78 @@ The Gear Ups and professional development sessions were really useful in terms o
 ### Gear Up
 #### [Gear Up Reflections](https://gist.github.com/CjMoore/62d796e5e6eb6d26e558a7fb0bce0b2b)
 
-* [Growth Mindset](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
-* [Cohort Norms](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_cohort_norms.markdown)
-* [Personal Stories and Connection](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_personal_story.markdown)
-* [Grit]( https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_personal_story.markdown)
+#### [Growth Mindset](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+#### How do you think past experiences or experiences this week that have encouraged growth or fixed mindsets?
+When I started working on the project I was a bit overwhelmed. I wasn't sure how to approach it, but I knew that if I put the time and effort it would come to me. I was stimulated and driven by the challenge which is an example of my growth mindset. I've never encountered the idea of Growth Mindset in an official way. This scession helped put into terms something I already understood with regards to determinism. The idea that if you think you're going to fail, it's likely to become a self fullfilling prophesy seems like common sense, however in practice it can be very hard to curb dissapointment when faced with failure. 
+#### What are your triggers, what's likely to move you to fixed mindset?
+I think the idea most likely to move me into a fixed mindset is that I cannot affect the world around me. 
+#### What can you peers do to support you staying in the growth mindset?
+My peers can help support me by not being jerks. I feel like the growth mindset is something that is cultivated internally, it's difficult for me to figure out how others could help me in doing this other than not activly discouraging me.
+
+#### [Cohort Norms](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_cohort_norms.markdown)
+#### What actions do you want to take for yourself and your cohort to be successful at Turing?
+I know from experienc that introverts can often be seen as disengaged or self-concious and it was nice to have an opportunity in this Gear Up to communicate how that interpretation is often wrong. I think using the things that I learned in this gear up to adjust my perspective of how others see and react to the world will help me have empathy for others who have very different personalities from me. I think engaging myself fully in all aspects of the Turing program will help myself to be successful at Turing. I think having empathy and treating others in my cohort with respect is a way in which I can help others be successful at turing as well. 
+#### How can you leverage your place on the spectrum of introversion/extroversion to impact your career in the future?
+As an introvert I naturally avoid conflict and confrontation, which I think is a good quality when looking for a job which requires a lot of teamwork. I think a lot before I act or speak which I think gives me an advantage in dealing with confrontational or difficult people. This is something I need to think more about.
+
+#### [Personal Stories and Connection](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_personal_story.markdown)
+#### What brought you here?
+When asked the question "How did you get here?", the thought "every decision I've ever made" is pervasive. It's difficult for me to pinpoint something concrete on which to build a narrative. I guess I could say I came to turing because I was unsatisfied with the my previous job. I felt like I had more potential, and wanted to do something that would open up more opportunities for myself. I found out about Turing from a friend and figured the risk was worth the possible reward. 
+#### What are the values that drive you?
+This is another really hard question. I want to take care of myself and the people I care about. I want to do something that benefits the world around me. 
+#### How do you think you demonstrate those values to people around you?
+I work really hard to be informed of the world around me. I think awareness is essential to identify problems which I want to focus my energy on. I also work really hard to be good to the people I care about. I want to be able to support my partner, and be in a position to look after my sister if she ever finds herself in trouble. I think I'm demonstrating my commitment to them by being at Turing and making an effort to put myself in a more secure position financially. 
+#### Could other people identify your values from your actions/words/presence? Why or why not?
+I have no idea how others see me. I'm naturally reserved, which I believe is a defense mechanism. I think I make it known to the people who are close to me that they are important and my efforts to better myself are motivated by my desire to be there for them. 
+
+#### [Grit]( https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_personal_story.markdown)
+#### Is it possible to interpret that experience through the lens of grit, i.e. your grit to get through a difficult situation was under strain?
+I have had fleeting feelings that my choice to come to Turing was a mistake, but I haven't yet felt like I wanted to give up. I will not allow myself to consider giving up, I feel like I made a commitment to this program and I won't allow myself to back away from that. I think the most challenging thing I've faced at Turing so far has been failure to complete some projects. This has been particularly challenging because I fell as if I couldn't have put more time or effort into completing them, yet they were still unfinished. This hasn't made me feel like I want to give up, but I've had to perservere through the dissapointment I felt because of these challenges. 
+#### Is that lens helpful?
+I think it's necessary to acknowledge and experience the negative emotions associated with failure, however having grit helps to reinforce that setbacks are often temporary. I like to think that grit is a quality I possess because I am passionate about programming, and I am utltimately willing to perservere through the stress of this program because it will help me to reach my goals. 
+#### Is it in any way problematic (emphasizing pushing through when you really need a break)?
+I think my willingness to push through the challenges in this program have come at somewhat of a cost. When I'm faced with a problem I often get tunnel vision. I forget to eat, don't sleep enough, and just generally fail to take care of myself. I think I need to learn how to balance focus on a problem with taking care of myself. I think having a hardline 'I need to get through this' attitude can also put a lot of pressure on myself, however it also helps me perservere through the stress that pressure causes.
 
 ### Professional Development Workshops
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/index.md)
+
+### Personal Branding I
+#### Who are you?
+I am a software developer who has a passion for finding efficent and effective solutions to complex puzzles. A deep enthusiasm for critical thinking and problem solving inspire me to seek new opportunities and challenges. 
+
+#### How did you get here?
+I was working in an industry in which there was very little room for growth. I felt as if my prospects were stagnant, and I was very unsatisfied. I learned of Turing through a friend and felt it could offer me an opportunity for personal and professional growth. 
+
+#### What's next?
+No idea. It'd be nice to get a job. 
+
+### [Resume](https://drive.google.com/file/d/0B-4gck5WebSTNGZQRlEtZzlLaFdGa3VkOVNQeDUzNFV4enQ0/view?usp=sharing)/[LinkedIn](https://www.linkedin.com/in/charlotte-moore-603b77133?trk=nav_responsive_tab_profile_pic)
+#### Peer Reviews
+- [Ryan](https://drive.google.com/file/d/0B-4gck5WebSTLWVIakNqcF9BazJoRmNULXhYSENGbVFQZm1n/view?usp=sharing)
+- [Casey](https://drive.google.com/file/d/0B-4gck5WebSTcTIxbDJSV2FkTFFyNUtQbzh0ZE9GZndUMmVB/view?usp=sharing)
+
+#### Takeaway
+This scession gave me a good idea of how to begin thinking of myself professionally. The terms, such as 'Personal Branding' and 'copy' really help establish that a job hunt is an exerciese in marketing. The idea of marketing myself makes me incredibly uncomfortable, but I can understand how and why it is essential in finding employment. 
+
+## Learning to Pair
+- DTR for CompleteMe - https://docs.google.com/document/d/1YYJI1AAFYqhP__s6LiIH8rKphEaoMDGRc6MAWsBKLGA/edit?ts=5849e9a9#heading=h.l3ct5pv2ggfg
+
+#### Takeaway
+Learning to pair was extremely helpful with regards to establishing a format for pairing. It gave me good terms in which to think about cooperation and a good foundation for how to communicate.
 * [Link to Completed Deliverables](https://gist.github.com/CjMoore/74e9617f7c9ea412bb86abbd71afd09b)
+
+## Feedback I
+
+**(From: Me To: Beth)**
+Your positive attitude helped me stay focused when I became really frustrated with this project. When I wanted to give up you were a great source of encouragement, and you really pushed me to keep going when it seemed like we weren't getting anywhere. I don't think our dynamic helped advance our project because we fed off of eachother's confusion and ended up going in circles a lot. I felt like we were on the same page for a lot of stuff, but we were on the wrong page and both of us had trouble seeing that. I think it was difficult for both of us to step back from the problem, which contributed to the mire we found ourselves in. You were great at seeking out help and improved your testing a lot over the course of this project. Despite the frustrations, it was great working with you.
+
+**(From: Beth)**
+I think you had great passion about the project and wanting to succeed. You showed up on time, put in extra effort. There was never a moment where I doubted if you were in for the long haul. And thanks for letting me take over a lot of the testing. That was important for me to learn and I really appreciated it.
+I think we might have had that tunnel vision with our project. There was a point where we were both spiraling and feeling defeated. We should have met at Turing instead of the coffee shop so we could have grabbed some help. But that’s a hindsight thing. You’re github skills are getting there! We probably should have outlined how we were going to merge, pull, create branches and all that. We need to whiteboard, psuedo code, and test before we write any real code. I think we got into trouble when we started hacking away at it.
+
+#### Takeaway
+Writing feedback was hard for me. It requires a good balance of positive reflections and critical assessment. I understand that in order for feedback to be effective you have to be critical of the things that did not go well, however there is always a concern of being hurtful. I think it's something I'll get better at with practice.
 
 
 ## E: Feedback and Community Participation
