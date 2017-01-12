@@ -235,14 +235,14 @@ Submission forthcoming by 1/17/16
 
 ### Top three priorities in the job search
 
-Location: I would prefer to stay in Denver, I love living here and have been here for two years now. I have friends and family here so staying would be really nice, not having to move or radically change my life for a first dev job
-Flexible Schedule / Work - Life balance: I would like to work 40 hours a week at a company that offers flexible PTO and allows some form of remote work . I am a very active person and want to be able to travel and work from wherever I am. This is not ideal in the near future, but that is the goal
-Mentorship: I really would like a mentor or some sort of review so that I can gauge how well I am doing also and seek help or advice while on the job. 
+* Location: I would prefer to stay in Denver, I love living here and have been here for two years now. I have friends and family here so staying would be really nice, not having to move or radically change my life for a first dev job
+* Flexible Schedule / Work - Life balance: I would like to work 40 hours a week at a company that offers flexible PTO and allows some form of remote work . I am a very active person and want to be able to travel and work from wherever I am. This is not ideal in the near future, but that is the goal
+* Mentorship: I really would like a mentor or some sort of review so that I can gauge how well I am doing also and seek help or advice while on the job. 
 
 ### Action Plan
-Perceived barriers
-New developer: show them my soft skills and ability to learn
-Code School not CS degree: I have way more real-world code and working world experience than a CS degree
+* Perceived barriers
+ * New developer: show them my soft skills and ability to learn
+ * Code School not CS degree: I have way more real-world code and working world experience than a CS degree
 
 ### Cold Outreach
 
@@ -253,11 +253,13 @@ I sent all six outreach emails and was able to set up two informational intervie
 Blog Post [https://medium.com/@bheim67/rogue-bug-a-devops-story-1b83f6c1b1ce]
 
 Review from Ryan Workman:
-Overall, that was a great post Brian.  Coming to the article with a bit of back knowledge regarding DevOps, it was interesting to see how my experience compared with dealing with Heroku and playing by their rules.  As a bit of feedback, I would suggest adding more "to-do" elements and less personal experience.  While I know this may seem difficult at this early stage in our careers, it's important to remember that most people haven't done half of the stuff you've done and are therefore looking for how to accomplish what you accomplished.
+* Overall, that was a great post Brian.  Coming to the article with a bit of back knowledge regarding DevOps, it was interesting to see how my experience compared with dealing with Heroku and playing by their rules.  As a bit of feedback, I would suggest adding more "to-do" elements and less personal experience.  While I know this may seem difficult at this early stage in our careers, it's important to remember that most people haven't done half of the stuff you've done and are therefore looking for how to accomplish what you accomplished.
 
 Review from Jean Joeris:
-The general topic is very clear in the first few sentences. However, it isn’t clear what the specifics are until the second section. I _love_ the title. The audience seems to be people new to dev ops. The beginning is explaining what dev ops is and what the project is, the middle is describing the bug and solution, and the end is take-aways and tips. There were no code snippets but they didn’t feel necessary. The language is mostly tight, but the following sentence stood out to me.
->I already didn’t know much about DevOps, but I learned that there is even more about DevOps that I didn’t know than I thought I didn’t know about DevOps
+* The general topic is very clear in the first few sentences. However, it isn’t clear what the specifics are until the second section. I _love_ the title. The audience seems to be people new to dev ops. The beginning is explaining what dev ops is and what the project is, the middle is describing the bug and solution, and the end is take-aways and tips. There were no code snippets but they didn’t feel necessary. The language is mostly tight, but the following sentence stood out to me.:
+
+I already didn’t know much about DevOps, but I learned that there is even more about DevOps that I didn’t know than I thought I didn’t know about DevOps.
+
 This sentence is too long. At least one of the dev ops can be eliminated. I didn’t see any issues with punctuation. Overall the language is good. If I saw this post on medium I would want to click it, somewhat due to the awesome star wars pun in the title. I think that this article could be improved by some more specific scoping for audience. The article appears to have been logically edited and nothing stands out for needed removal
 
 
@@ -266,7 +268,6 @@ This sentence is too long. At least one of the dev ops can be eliminated. I didn
 * Gist Link [https://gist.github.com/bheim6/dfca17d5601cc2f6853e5cda5320a1bb]
 
 * Goals Assignment linked in above Gist
-
 
 ---
 
@@ -328,6 +329,10 @@ I really enjoyed this Gear Up. I especially liked hearing what my croup members 
 #### Feedback for Brian (From Raphael Barbo)
 
 * It is always a pleasure working with Brian, he brings such a positive attitude and great energy and I absolutely love it. He is always cheerful and has such a great attitude towards everything and everyone. During our pairing session throughout this project, Brian was able to break down problems into small manageable partitions, explain the process, and make sure we both understood what was going on in the code base. Brian and I both work well together and contribute code harmoniously when we pair, and that for me is just an amazing treat. I absolutely love working with Brian... Can't wait to see where his coding skills take him.
+
+#### Feedback for Brian (From David Davydov)
+
+* Brian, you've been working hard on this project from Day 1. I wish I had more of a chance to pair with you this time around. Having paired with you in the past, I know I missed out. You are always in a positive mood, and always have something cool to share. You stayed late, cranked code, fixed failing tests, and dug deep into complex gems. I was impressed by your taking on the TravisCI integration and then sharing your knowledge about it with the dashboard team. I'm happy to have gotten the opportunity to work with you, it's been a long journey but it's only just begun.
 
 
 ### Playing a Part
