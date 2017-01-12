@@ -168,3 +168,7 @@ For similar reasons to Journey Mapping, it was great being able to interact with
 - **D: Community Participation**: 3
 
 - **E: Peer & Instructor Feedback**: 3
+
+## Outcome
+
+Pending - 3 emails
