@@ -196,6 +196,26 @@ This gear up really solidified a term that I never really related to my life. In
 
 - Provided some assistance to students from previous modules, whether on a project that they were working on, or just a clarification. 
 
+### Giving Feedback
+
+**To Brian H.** It is always a pleasure working with Brian, he brings such a positive attitude and great energy and I absolutely love it. He is always cheerful and has such a great attitude towards everything and everyone. During our pairing session throughout this project, Brian was able to break down problems into small manageable partitions, explain the process, and make sure we both understood what was going on in the code base. Brian and I both work well together and contribute code harmoniously when we pair, and that for me is just an amazing treat.
+I absolutely love working with Brian... Can't wait to see where his coding skills take him.
+
+**Sonia** I can certainly say that having Sonia in the Enroll throughout the module has been such a treat to all of us. She adds more than just knowledge to the group and it is always refreshing to hear her point of views about some of the logical problems we were going through during the project. Sonia and I have paired quite a few times throughout our time at Turing, and I can certainly say that we have overcome quite a few hurdles (mainly due to our personalities) and this willingness that we both bring to the table, to always work together and improve ourselves for the sake of becoming a better human being and professional, has definitely brought us closer this module. 
+I know she will go great things in the future, and I can't wait to see what her coding life takes her.
+
+**Jean** Working with Jean is such a treat, I love how he can approach a problem from so many different perspectives and still come up with a great, reasonable, and easy to understand the solution. 
+I am a big fan of Jean and I absolutely love working with him. He easy-going attitude towards challenges, and resilience to overcome obstacles, and above all his patience and willingness to learn and grow is something I truly and sincerely admire about him. 
+Jean is a great human being all around, I am fortunate to have had the opportunity to work with Jean on two separate projects. I have learned a ton from you and I can't wait to see what the future holds. I know I will see you accomplish some really amazing things.
+
+**David** Working with David throughout my time at Turing has been one of the most rewarding and fun experiences. I have learned a lot from him, and I am glad we have been able to share those experiences with each other. He gives me a sense of ease, and it allows me to work in a much more relaxed and stress free way. I love pairing with him because I never feel judged and I feel like we both contribute a lot to each other's way of working. He is in my opinion one of the most technical savvy classmates I have, and I am glad I shared this experience with him. Can't wait to see what the future holds for you David, surely amazing things are about to come your way !
+
+**To Susi** Susi is one of the most resilient and self-motivated people I have had the opportunity to work with. Her dedication throughout her time at Turing has been nothing short of remarkable, and it has paid off big time. Susi has certainly become a great software developer, and I am glad to have been able to share this journey with her. 
+
+### Receiving Feedback
+
+**From Susi**   "Rapha has always been one to stop, listen, and check in with me. He has been a constant supporter of every student at Turing whom he has come in contact with. His positive attitude and cheery mood is not to be missed around Turing! Rapha keeps his head on his shoulders but dreams big - in his code and in life in general. I am so excited to see where Rapha takes his talent and the applications that he will develop."
+
 ---
 
 ## Final Review
