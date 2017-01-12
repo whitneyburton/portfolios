@@ -96,7 +96,7 @@ This project had us create a total application from scratch. Our group built a p
 * **3: As expected**
 
 **User Expectations - Project exhibits a production-ready user experience.**
-* **2: As expected**
+* **3: As expected**
 
 **Organization - Team used a project management tool to keep their project organized.**
 * **4: Better than expected**
