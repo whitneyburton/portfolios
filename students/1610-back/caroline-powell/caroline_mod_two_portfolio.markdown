@@ -78,8 +78,7 @@ In this session my group discussed potential ways to be more effective and poten
 This session was fun. We separated into groups and took turns interviewing each other about our personal experiences taking public transit for the first time and applying to become a Turing student. After the interviews we sketched out journey maps of the different stages, calling out specific anecdotes mentioned by the group in each phase of the journey. This was good practice I think that we will use when creating journey maps for users of our web applications.
 
 #### [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
-
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+Our group for this session was skeptical of using the word 'grit' for the topic being discussed in the articles and Ted Talk. We thought they should relabel what they are talking about as 'passion'. Grit has an entirely different meaning. Grit is perservering and pushing through a difficult situation even when you don't want to. It's easy to work hard on things that you're passionate about.
 
 ### Professional Development Workshops
 #### [Agile Project Management](https://github.com/turingschool/professional_skills/blob/master/module_two/agile_practices_project_management.md)
