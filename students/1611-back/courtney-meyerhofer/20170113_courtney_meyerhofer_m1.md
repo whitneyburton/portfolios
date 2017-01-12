@@ -42,7 +42,7 @@ This module, I set out to become familiar with the Ruby language and principles 
 
 ## B: Individual Work & Projects
 
-The individual projects this module included Date
+The individual projects this module included Date Night, CompleteMe, and Battleship.
 
 ### Date Night
 
