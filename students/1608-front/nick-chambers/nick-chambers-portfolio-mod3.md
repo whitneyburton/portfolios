@@ -63,3 +63,8 @@ Completed Flower Exercise -- https://docs.google.com/document/d/1sElDqWDAi7SrvCy
 
 ##Grit
 - This was a little bit like The Resilience Gear Up : Part Deux. I think it's an important and salient idea/topic for the Turing community to discuss, and it was definitely worthwhile to discuss this within our individual cohorts. Always a good convo with the Turing crowd.
+
+## Outcome
+Pass - Pending tests
+
+## Notes
