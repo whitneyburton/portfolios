@@ -78,8 +78,8 @@ REDID THE HOT AND TOP FUNCTIONALITY TO UPDATE PROGRESS TO A 3.
 
 At the end of this module students were given the opportunity to learn a new language, tool, or framework.  I decieded to stick with the majority of the class and learn React together.  We did a number of classes on React and we attempted to integrate React into our main Rails app Monocle.  We used the rails-react gem and could successfully render components, but did not finish the full functionality of the page, so it did not make it into the final code of our project.
 
-[React Box](https://github.com/danbroadbent/react-box)
-[React Branch in Monocle](https://github.com/danbroadbent/monocle/tree/spike_react_for_starred_companies)
+* [React Box](https://github.com/danbroadbent/react-box)
+* [React Branch in Monocle](https://github.com/danbroadbent/monocle/tree/spike_react_for_starred_companies)
 
 ## C: Group Work & Projects
 
