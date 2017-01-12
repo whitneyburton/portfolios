@@ -67,6 +67,62 @@ Needed for Satisfactory Progress:
 * [Original Assignment](http://backend.turing.io/module4/projects_overview)
 * [Link to Video Demo of Site](https://vimeo.com/199076606)
 
+### Scores
+#### Accessor:  Andrew Carmer
+
+#### Team:
+
+* Susi
+* Dan
+* Brendan
+* Nate
+
+#### Sprint 1
+
+###### 1. Project Management
+
+* 4: Team is using a project management tool and updating their progress daily.
+
+###### 2. Completion & Pace
+
+* 3: Team is on track to complete all the user stories and requirements set by the client in timely manner.
+
+###### 3. Implementation Quality
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+###### 4. Application of Techniques
+
+* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
+
+
+#### Sprint 2
+
+
+###### 1. Project Management
+
+* 4: Team is using a project management tool and updating their progress daily.
+
+###### 2. Completion & Pace
+
+* 3: Team is on track to complete all the user stories and requirements set by the client in timely manner.
+
+###### 3. Implementation Quality
+
+* Create method in companies controller needs some refactoring.
+* Update in locations could use some refactoring. State could be brought into strong_params.
+* Would like to see flash when something is destroyed. (Admin)
+* Notes controller needs some work. #create and #update.
+* Declaring flashes in different ways. I would decide as a team the preferred style and go with that for consistency.
+
+This score is close. I'd like to see more code review in PRs. I checked a couple and did not see any response or questions or suggestions.
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+###### 4. Application of Techniques
+
+* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
+
 #### Personal Experience:
 
 #####  - Learning React
@@ -92,7 +148,7 @@ From Nate: "Susi, it was so much fun to work with you again on a project. You ke
 
 From Dan: "Susi, it has been a pleasure working with you again.  We’ve had to work together on some really tough challenges.  Your attitude and perseverance make all the difference in moving things forward.  Even when we were struggling through implementing javascript, jQuery, and AJAX for the first time in our project, we kept at it and kept moving forward trying different ideas and taking turns driving.  It was a tough pairing session but ultimately very rewarding when we finally got it.  You don’t give up and show a lot of grit.  I’m lucky to have had you in my cohort and I’ve really enjoyed getting to know you and work with you."
 
-From Brendan:
+From Brendan: "Working on Monocle with you has been a fantastic experience.  Your drive and excitement when something works always carries through. You have a fantastic sense for how to translate airy requirements in to user stories and keep the pivotal tracker in shape. After working with you in the past, I really noticed that you are getting more confident in your work. It was really cool to see you plowing through difficult problems and defending your code. You don't seem like you will ever let your knowledge go stale, so I really look forward to seeing what you manage to do after Turing."
 
 #### Feedback from me:
 Nate Anderson: "Nate, your analytical nature makes you such a pleasure to work with on projects and specifically on Monocle. You are not afraid to ask the tough questions of the Tech Lead, the Team, or the application itself. It is an absolute blast to work through problems with you. You have a knack of looking at the code and the problems from a different angle that I don't see. Your keen sense and intuition are incredible. Your work on Monocle has been outstanding."
