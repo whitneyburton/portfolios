@@ -261,21 +261,25 @@ The professional and personal skills developed during this module include mindse
 #### Growth Mindset
 
 * [Session URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+
 I really enjoyed the Growth Mindset Gear Up. I first learned about growth mindset when teaching AP science classes during my previous career. Teaching my students about growth mindset ended up really changing my life. I began to think about what I really wanted and what I would do if I wasn't so afraid to fail. Learning to program and having a more fulfilling career was what I decided I truly wanted. I've experienced this module that celebrating others' growth and success and letting others inspire me instills more of a growth mindset in me. I've also observed that being tired and failing despite having high amounts of effort sometimes triggers a fixed mindset in me.
 
 #### Introvert/Extrovert Working Style
 
 * [Session URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_cohort_norms.markdown)
+
 My main takeawway from this Gear Up was learning about other working styles that I do not possess. I've always identified as an introvert, even though I enjoy talking with people. I'm very glad that Turing took the time to draw attention to different working styles because I definitely feel like school settings are oftentimes more catered to the extrovert working style.
 
 #### Public Narrative
 
 * [Session URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_public_narrative.markdown)
+
 I felt like this Gear Up really brought everyone together as a cohort and helped me reconnect to my motivation for coming to Turing. I feel like everyone has unique stories on what brought them to Turing, and it was enjoyable to hear and share those experiences. Sharing our stories and connecting with others allowed us to explore how far we've come in module 1 and how we can support each other.
 
 #### Grit
 
 * [Session URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
 I think that I developed some grit before Turing and it's serving me well now. However, just as there are two sides to every coin, a case occassionally arises where using grit to persevere and just keep working can sometimes be a detriment, especially when I need to take a break. Grit and growth mindset are definitely intertwined concepts. I would distinguish them as such: growth mindset is a mindset that allows one to pursue their interests and persevere in spite of failures while grit is a tool that growth mindset calls on to accomplish its goals. While I had been introduced to growth mindset before coming to Turing, I think that seeing how I persevere with grit and the success that it brings is a positive cycle that feeds on itself, allowing me to have more confidence and dream bigger with growth mindset.
 
 ### Professional Development Workshops
@@ -284,24 +288,28 @@ I think that I developed some grit before Turing and it's serving me well now. H
 * [Workshop URL](http://backend.turing.io/professional_development/module_one/personal_branding_p1)
 * [Link to Completed Deliverables: LinkedIn](https://www.linkedin.com/in/courtney-meyerhofer-821a22ab)
 * [Link to Completed Deliverables: Resume](https://resume.creddle.io/resume/iqg6r7dlokd)
+
 I found this session very valuable because it introduced me to the job hunt part of the technology world. I learned about how to showcase experience and projects in professional profiles and resumes, and I learned about the importance of having a succinct story for my profile or an elevator pitch. I found the portion involving writing a summary about myself and my skills the most challenging. My summary is still quite rough and I don't think it is accurate yet. I don't know exactly what part of the tech sector I want to eventually work in, and my short term goals after Turing are very different from my long term goals. I think that as I learn more from Turing and about myself, I'll be able to answer these questions better.
 
 #### Learning to Pair
 
 * [Workshop URL](http://backend.turing.io/professional_development/module_one/learning_to_pair)
 * [Link to Completed Deliverables: DTR Memo](https://gist.github.com/meyerhoferc/2efb6bc4302c099e33405e051da9727b)
+
 The main takeaways from the Learning to Pair session were pairing styles, communication systems, and expectation management. I think it's important to clarify the expectations for a pairing segment in terms of how and what is being paired on as well as the format for the pair. I like the idea of communicating to someone more advanced than me to not steal my learning and to switch roles frequently.
 
 #### Feedback I
 
 * [Workshop URL](http://backend.turing.io/professional_development/module_one/feedback_1)
 * [Link to Completed Deliverables: Written Feedback](https://gist.github.com/meyerhoferc/307268bf7f41b6c5c41178b90430f2a9)
+
 A major takeaway from this session was learning to give and receive feedback with grace and humility. I've incorporated celebrating success and providing specific, actionable, and kind feedback into pairings. I've observed that it's often difficult to receive feedback because it can challenge my view of myself. I think it's important to have a growth mindset in those moments and to remember that we're all here to learn. I'm here because I don't know what I'm doing, and I'm learning to view feedback as a gift that can help me improve.
 
 #### Peronsal Branding Part II
 
 * [Workshop URL](http://backend.turing.io/professional_development/module_one/personal_branding_p2)
 * [Link to Completed Deliverables](https://gist.github.com/meyerhoferc/66a6307064b785f66ad602ef9581f0d8)
+
 From this session, I learned about writing website copy for both technical and non-technical people that will be visiting my personal site. Particularly interesting to me was how word choice conveys personality, especially with the examples shown in the lesson. I found it difficult to write about myself, but I think Lia's advice to write for myself and to be authentic helped me write something I feel proud to place on a website.
 
 ## E: Feedback and Community Participation
