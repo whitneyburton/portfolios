@@ -95,7 +95,6 @@ This project had us create a total application from scratch. Our group built a p
 
 
  __**Evaluation Comments:**__<br>
- We self-graded this project and were relatively hard on ourselves, as we all wanted a perfect final product! Sally said she agreed with the grades we gave ourselves which are below. It essentially works out to all 3's (one 2.5 and one 3.5) and we did get the extra point for pushing ouselves to try something new. 
 
  __**Evaluation Scores:**__
 
@@ -104,20 +103,25 @@ This project had us create a total application from scratch. Our group built a p
 **Team completed all the user stories and requirements set by the client.**
 * **3: As expected**
 
+### User Expectations
+
 **Project exhibits a production-ready user experience.**
-* **2.5: (As expected / Below expectations)**
+* **2: As expected**
+
+### Organization 
 
 **Team used a project management tool to keep their project organized.**
-* **3: As expected**
+* **4: Better than expected**
 
 ### Technical Expectations 
+**Git Workflow**
 
 **Team always used pull requests and commented on pull requests prior to introducing code into the master branch.**
-* **3: As expected**
+* **4: As expected**
 
 ### Test Quality
 **Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?**
-* **3.5: (As expected / Better than expected)** 
+* **3: As expected** 
 
 ### Code Quality
 **Project demonstrates well-factored code and a solid grasp of MVC principles.**
@@ -128,12 +132,27 @@ This project had us create a total application from scratch. Our group built a p
 **Did the team push themselves by taking risks?**
 * **1: Yes**
 
+
  __**Feedback:**__
  
 *Feedback from Ryan:*<br>
 Megan was an excellent team member on Cloney Island. I repeatedly saw her jump on whichever part of the project needed her, even if it wasn't an easy or glamorous task like user ratings. Though at times we faced difficult problems, pairing with Megan was always a positive experience, and I am grateful that we had the chance to work on a team while at Turing.
 
+*Feedback from Alisher:*<br>
+This module, I was in one team with Megan both for Rales Engine as well as Cloney Island. She is a great person to work with, in terms of positive attitude, collaboration, and support. In addition, she has great software development skills and has a keen eye for UI/UX details. Being a hard worker, she contributed a lot to both projects and was always willing to jump in and attack the problem. I look forward to working with Megan again!
 
+*Feedback from Ali:*<br>
+I have greatly enjoyed each opportunity I’ve had to work with Megan.  On Cloney Island, Megan and I undertook the Twilio 2Factor Authentication. As someone who is often intimidated using new development tools it was great to work with Megan as she is calm and positive when facing challenges.  In addition, Megan undertook the tasks of giving ratings and assigning proposals which involved intricate database relationships. It was a lot of work, but Megan calmly pushed through until she found success.
+
+
+*Feedback to Ryan:<br>*
+Ryan was such a great partner for this project. He was always very eager to help anyone and jump in on any aspect of the project. I know we all wish we had the time to deliver a more polished final product, but I know we wouldn't have made even close to the same progress without Ryan! He was also super understanding of everyone's schedules and commitments, which is always appreciated in a larger group project. I would gladly work with Ryan again in the future!
+
+*Feedback to Alisher:*<br>
+I loved the chance to work with Alisher again in Cloney Island! It was a very challenging project, but Alisher was again 100% committed and eager to help with anything. We worked on some of the same features on this project, such as Ratings, and I am confident that we both learned a lot. It was great to work him Alisher again and I appreciate his willingness to jump in on anything for these projects!
+
+*Feedback to Ali:*<br>
+I felt so lucky to have a project with Ali during this module! She is always such a positive force on a team, and that was certainly the case for Cloney Island. We all tackled some tough new features, but Ali never let that get her openly frustrated with the group. Even though we all wished we had more time, I know that we  learned a ton throughout this project, which is obviously the most important thing.  I would eagerly work with Ali again any time!
 
 ## D: Professional Skills
 (Intro)
