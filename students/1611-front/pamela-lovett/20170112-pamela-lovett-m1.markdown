@@ -303,10 +303,4 @@ I have made it a point to attend every Friday speaker (with just one exception.)
 
 ##Final Review
 
-###Notes
-
-( Leave blanks for reviewers )
-
-###Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
