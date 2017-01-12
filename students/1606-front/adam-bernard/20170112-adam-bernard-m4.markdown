@@ -211,4 +211,4 @@ This module I ran a Friday Spike on giving and receiving feedback and used what 
 
 ### Outcome
 
-Passed
+Pending - 3 emails
