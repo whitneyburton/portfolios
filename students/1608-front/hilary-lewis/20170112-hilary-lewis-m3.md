@@ -272,8 +272,5 @@ I am realizing that micro-aggression is sometimes intentional and sometimes unin
 ## Final Review
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
-
-( Leave blanks for reviewers )
+Pass
