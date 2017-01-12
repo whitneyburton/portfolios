@@ -25,10 +25,6 @@ Notes:
 
 Hesitant to using math to calculate the tip percentage. Good grasp of jQuery syntax. Needs to practice more with passing information through function arguments
 
-Rubric
-
-Progression/Completion
-
 3: Developer is able to implement solutions at the speed of a junior developer.
 JavaScript Style
 
@@ -48,10 +44,6 @@ Evaluator: Louisa
 Notes:
 
 Overall, good job. Got hung up a few small things, so make sure to review/solidify the basics moving forward so the basics aren't using up braincells that could be going towards solving harder problems.
-
-Rubric
-
-Progression/Completion
 
 3: Developer is able to implement solutions at the speed of a junior developer.
 JavaScript Problem Solving
@@ -79,7 +71,7 @@ Individually, I completed the following projects:
 * [https://github.com/thatPamIAm/number-guesser]()
 * [http://frontend.turing.io/projects/number-guesser.html]()
 
-We were required to build a game that allows the user to guess a number between 1 and 100.
+A game that allows the user to guess a number between 1 and 100.
 
 Evaluator: Robbie
 
@@ -92,19 +84,19 @@ Naming of JavaScript variables and functions should be descriptive (so you can c
 CSS needs to match the comp exactly for desktop and mobile view
 For HTML, take advantage of shared classes between elements that are styled the same way (try to get away from CSS selectors directly on elements, like buttons, because you will have buttons with different styles on the page)
 
-UX/UI Expectations
+#####UX/UI Expectations
 3: Application shows strong effort towards matching the comp, but some details have been missed. Any extensions are simple, clean design, content organization, and well thought out experience and user interactions.
 
-Functional Expectations
+#####Functional Expectations
 2.5: Application meets all of the functional expectations in Phase One
 
-Fundamental HTML
+#####Fundamental HTML
 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
-Fundamental CSS
+#####Fundamental CSS
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-Fundamental JavaScript
+#####Fundamental JavaScript
 2.5: Application runs but the code is confusing with unnecessary or poorly named variables, functions, and unclear organization, structure, and/or duplication
 
 
@@ -112,7 +104,7 @@ Fundamental JavaScript
 
 ### Projects
 
-I completed 3 group projects:
+I completed 3 group projects in a group this module:
 * Linked List
 * Idea Box
 * Game Time
@@ -128,19 +120,19 @@ Notes:
 
 Well done, need to work on locking in details like indentation consistently. Had a slight lack of balance between both Pam and Becca sharing the JS and CSS writing. Used jQuery and Flexbox, which required some end-of-project refactoring to include. Good job taking risks!
 
-Functional Expectations
+#####Functional Expectations
 4: Application meets all of the functional expectations in Phase Three.
-Fundamental JavaScript Style
 
+#####Fundamental JavaScript Style
 3: Application shows strong effort towards organization, content, and refactoring.
-Workflow
 
+#####Workflow
 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
-HTML Style
 
+#####HTML Style
 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
-CSS Style
 
+#####CSS Style
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 #### Idea Box
@@ -156,22 +148,22 @@ Filter was not working, but implementation was close (jQuery each)
 Good conversation in GitHub, but more of it, especially in the PR descriptions
 Good JS - continue refactoring and breaking out logic into smaller, more readable functions
 
-Specification Adherence
+#####Specification Adherence
 2.5 - The application is in a usable state, but is missing 1 or more of the features outlined in the specification above.
 
-HTML Style
+#####HTML Style
 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
-CSS Style
+#####CSS Style
 2: Your application has some duplication and minor bugs. Developer can speak to most choices made in the code and knows what every line is doing.
 
-JavaScript Style
+#####JavaScript Style
 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-Workflow
+#####Workflow
 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-Collaboration
+#####Collaboration
 3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
 #### Game-Time
@@ -179,13 +171,29 @@ Collaboration
 * [https://github.com/stacimcwilliams/game-time]()
 * [http://frontend.turing.io/projects/game-time.html]()
 
-(description)
+Build a game that is playable in the browser.
 
-(evaluation comments)
+######Functional Expectations
+4 - Application is fully playable and exceeds the expectations set by instructors
+User Interface
 
-(evaluation scores)
+#####User Interface
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+Testing
 
-(feedback to me)
+#####Testing
+They will be adding some tests, to be completed by end of week to be bumped up to a 3.
+2 - Project has sporadic use of tests at multiple levels. The application contains numerous holes in testing and/or many features are untested.
+
+#####JavaScript Style
+3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+#####Workflow
+4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+#####Code Sanitation
+The output from JSHint shows…
+4 - Zero complaints
 
 ## D: Professional Skills
 
