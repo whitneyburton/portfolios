@@ -228,16 +228,14 @@ I'm glad I had the opportunity to work with Kinan. He really pushes hard to deve
 
 During this module, much more responsibility and freedom were present. Turing instructors dub module 3 as the module in which much less hand-holding is present, a time in which there is a freedom and responsibility to learn and grow, answer questions, solve problems, and code more independently. This is to ensure a smoother transition post-Turing. 
 
-During this module, I have offered my hand to students in lower modules, and have made myself available to them as needed for pairing. I have not missed any class time, fridays, etc. during this module and have been present and participating during class. I have set out to engage with the community in social fridays at Pourtions, having met many peopel across cohorts and back/front end programs. I believe this is enriching for the Turing community as a whole, since many of us receive great assurance of conditions, confidence in skills, and relief from stress.
+During this module, I have offered my hand to students in lower modules, and have made myself available to them as needed for pairing. I have not missed any class time, fridays, etc. during this module and have been present and participating during class. I have set out to engage with the community in social fridays at Pourtions, having met many people across cohorts and back/front end programs. I believe this is enriching for the Turing community as a whole, since many of us receive great assurance of conditions, confidence in skills, and relief from stress.
 
 ------------------
 
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+Keep destressing the class! 
 
 ### Outcome
-
-( Leave blanks for reviewers )
+Pass
