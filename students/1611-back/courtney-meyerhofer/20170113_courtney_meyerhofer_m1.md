@@ -8,9 +8,9 @@ This module, I set out to become familiar with the Ruby language and principles 
 
 * **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 4
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 4
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -36,15 +36,15 @@ This module, I set out to become familiar with the Ruby language and principles 
 
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
-### 6. Enumerable & Collections
+#### 6. Enumerable & Collections
 
 * 4: Application consistently makes use of the best-choice Enumerable methods
 
 ## B: Individual Work & Projects
 
-(Intro)
+The individual projects this module included Date
 
-#### Date Night
+### Date Night
 
 * [GitHub URL](https://github.com/meyerhoferc/date-night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
@@ -55,38 +55,38 @@ and minimum scores in the tree, and determining the depth of of scores within th
 
 #### Assessed By: Mike
 
-## Notes:
+#### Notes:
 * Chock full of great recursive methods
 * Some opportunities to move things to the node class instead.
 * well tested.
 
-## Scores:
+#### Scores:
 
-## Evaluation Rubric
+#### Evaluation Rubric
 
 The project will be assessed with the following rubric:
 
-### 1. Functional Expectations
+#### 1. Functional Expectations
 
 * 2: Application is missing one base expectation
 
-### 2. Test-Driven Development
+#### 2. Test-Driven Development
 
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-### 3. Encapsulation / Breaking Logic into Components
+#### 3. Encapsulation / Breaking Logic into Components
 
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-### 4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-### 5. Looping *or* Recursion
+#### 5. Looping *or* Recursion
 
 * 4: Application makes excellent use of loop/recursion techniques
 
-#### CompleteMe
+### CompleteMe
 
 * [GitHub URL](https://github.com/meyerhoferc/complete-me)
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
@@ -100,31 +100,31 @@ Notes:
 - Coverage isn't at a really great number for the node class, but there's some redudancy in the file. I think the tests themselves are great.
 - Things are thoughtfully refactored. Could be more concise, but shows thought towards good encapsulation and organization
 
-## Scores:
+#### Scores:
 
-### 1. Functional Expectations
+#### 1. Functional Expectations
 
 * **3: Application fulfills all base expectations**
 
-### 2. Test-Driven Development
+#### 2. Test-Driven Development
 
 * **4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
 
-### 3. Encapsulation / Breaking Logic into Components
+#### 3. Encapsulation / Breaking Logic into Components
 
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
 * **3.5:**
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-### 4. Fundamental Ruby & Style
+#### 4. Fundamental Ruby & Style
 
 * **4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring**
 
-### 5. Enumerable & Collections
+#### 5. Enumerable & Collections
 
 * **4: Application consistently makes use of the best-choice Enumerable methods**
 
-#### Battleship
+### Battleship
 
 * [GitHub URL](https://github.com/meyerhoferc/battleship)
 * [Original Assignment](http://backend.turing.io/module1/projects/battleship)
@@ -144,47 +144,47 @@ Notes:
 * Complete baseline functionality
 * Nice work automating ship placement -- tough task, nicely done!
 
-### 1. Fundamental Ruby & Style
+#### 1. Fundamental Ruby & Style
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3:  Application shows strong effort towards organization, content, and refactoring
 * **2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring**
 * 1:  Application generates syntax error or crashes during execution
 
-### 2. Enumerable & Collections
+#### 2. Enumerable & Collections
 * 4: Application consistently makes use of the best-choice Enumerable methods
 * **3: Application demonstrates comfortable use of several Enumerable techniques**
 * 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
 * 1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
-### 3. Test-Driven Development
+#### 3. Test-Driven Development
 * 4: Application is broken into components which are well tested in both isolation and integration
 * **3: Application is well tested but does not balance isolation and integration tests**
 * 2: Application makes some use of tests, but the coverage is insufficient
 * 1: Application does not demonstrate strong use of TDD
 
-### 4. REPL Interface
+#### 4. REPL Interface
 * 4: Application's REPL goes above and beyond expectations to improve the gameplay
 * **3: Application's REPL is clear and pleasant to use**
 * 2: Application's REPL has some inconsistencies or rough edges
 * 1: Application's REPL has enough problems as to make play difficult
 
-### 5. Breaking Logic into Components
+#### 5. Breaking Logic into Components
 * 4: Application is expertly divided into logical components such that individual pieces could be reused or replaced without difficulty
 * **3: Application effectively breaks logical components apart with clear intent and usage**
 * 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 * 1: Application logic shows poor decomposition with too much logic mashed together
 
-### 6. Functional Expectations
+#### 6. Functional Expectations
 * 4: Application meets all requirements, and implements one extension properly.
 * **3: Application meets all requirements as laid out per the specification.**
 * 2: Application runs, but does not work properly, or does not meet specifications.
 * 1: Application does not run, crashes on start.
 
-## C: Group Work & Projects
+### C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+The group projects for this module included Headcount.
 
 #### Headcount
 
@@ -256,20 +256,17 @@ From this session, I learned about writing website copy for both technical and n
 
 Katy, I really enjoyed whiteboarding the CompleteMe project with you. Technically, I think your strengths were in testing and having a healthy skepticism concerning every idea that was brought up. When you said that we wouldn't understand if #select was working until we tested it against #suggest, that really deepened my understanding of integration tests. I also enjoyed receiving feedback from you on the differences between functionality and implementation.In terms of collaboration, I appreciate that you consistently called for check-ins, defining goals, and declaring break time. You always celebrated victories and I felt very supported by you when I became frustrated with my errors and was feeling overwhelmed.I appreciate that you don't avoid conflict, and I think you should voice your frustrations earlier in the next project. In your next group project, consider structuring regular breaks consistently and communicating your needs more frequently. If you need a moment to process an idea through writing/drawing/coding/prying independently, don't be afraid to ask. I think those moments really ramped up your conceptual understanding of the project and you were able to contribute even more effectively. I also think that while you had a healthy skepticism of new ideas, it may be helpful to entertain the rabbit hole for a few minutes. You could even set a time limit for how long to spend on a rabbit hole so it doesn't waste too much time.
 
-For Max:
 Max, I'm really glad I got ot occasionally pair with and get to know you this module. I think your technical strengths are in creating beautifully architected systems, and I think you will be an excellent developer. Your enthusiasm for elegant solutions is absolutely contagious. I also really appreciate that throughout the module I could turn to your for emotional and academic support. You always lent an ear and provided feedback on ideas I shared with you. The few times we paired together were some of the best pairing sessions I've had, and I sincerely hope we are paired togehter on a project in the future. To improve as a developer, I think you should keep the phrase 'red, green, refactor' in mind. It's okay to have underdeveloped code that passes tests and to then clean it or restructure once you have something working. You are conceptually very strong, and I'm excited to see what you build in the future.
 
-For Dan:
 Dan, I really enjoyed working with you as a partner in SAB as well as on some code. I feel inspired by how much you care for others in our cohort and how you go out of your way to address others' needs. I think you do a phenomenal job of balancing / surviving Turing while taking care of your family. During times of struggle, I appreciate that I could turn to your for emotional and technical support. Thank you for going significantly out of your way and above the call of duty of SAB to be an excellent peer. I look forward to working with you in the future.
 
-For Maria:
 Maria, overall I enjoyed working on the Headcount project with you. Technically, I think your strengths are being the GitHub queen, communicating ideas and understanding the ruby object model as it relates to connections across classes. You handle abstraction very well and were overall pleasant to work with. Work on having a growth mindset when it comes to not understanding a concept or a section of code. Ask yourself 'What do I not understand about this? What steps should I take in order to understand this?' In order to improve your technical skills, I suggest you practice reading the errors and doing the drills. Learn the different types of errors that can be thrown and learn how to read the stack trace that sometimes accompanies the errors. The errors contain so much information about how to improve your work, and the drills will improve your coding muscle memory for syntax. I appreciate how patient and slow moving you were with git stuff at the beginning of our project. Pairing with you really strenghtened my understanding of git and GitHub. I really enjoyed getting to know you during the process of Headcount, and look forward to pairing with you in the future.
 
 ### Being a Community Member
-From Max:
+(From Max)
 Courtney, I've really enjoyed getting to know you during this time at Turing. I'm especially impressed with your service on the Student Advisory Board. You've been a leader in helping bring our cohort together as a community and also as a representative to the instructors and staff, shouldering those additional responsibilities with patience and grace. I'm glad to find someone who also gets excited about the intellectual joy of programming and I look forward to further learning and exploration together. You're an excellent problem solver, have great instincts, and I've learned that I can rely on you as a sounding board for ideas and to provide a clear mind when I get stuck. I hope we get a chance to pair on a project in the future.
 
-From Maria:
+(From Maria)
 Courtney: you were hands-down a rockstar partner, and it was an honor to be paired with you. At the beginning: I was really excited when I saw that we were going to be paired together on the Headcount project! Not only are you a technical star, you are able to digest information quickly and read and progress through test errors thrown rapidly. That said, you were patient and helpful with explaining concepts to me, and getting into the nitty gritty of the logic of some of the more complex math operations that were included in the project. I think we both had a really Github work flow, and you were conscientious to check in and make sure we were both on the same page and in agreement before any merging took place. You would make a pull request, I would review it, comment on it, and we only pushed to master when both of us were present. I think the workflow we established saved us some (potential) work-flow headaches. I think setting up our DTR at the beginning, which mentioned a daily-check in, was really beneficial to our communication. I will say that continuing to work on a problem or fixing a bug wasn't always the best strategy, as burn-out and diminishing returns (for both partners) was a bit of an issue that I would recommend keeping in mind for future projects. Having said that, your work ethic is top notch and your motivation to continue on and problem-solve is unmatched in the class and I think this will serve you very well in Module 2, and beyond. Being very technically proficient with the material is great and will serve you well, but I think moreover your innate teaching skills and ability to convey complex topics to me (and others) will be the gold that propels you in your career and you will make a fantastic asset to any team. I really enjoyed working on this project with you, and thanks again for your patience and willingness to collaborate!
 
 ### Playing a Part
