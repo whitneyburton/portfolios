@@ -9,9 +9,9 @@
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **E: Feedback & Community Participation**: 4
 
 ---
 
@@ -156,11 +156,28 @@ __Project__ scores:
 
 ---
 
+### Open Source Contributions
+
+#### Habitica
+
+#### Figaro
+
+#### Faker
+
+---
+
 
 ## D: Professional Skills
 
-### Job Shadowing Experience - Trelora
+### Top three priorities in the job search
 
+### Action Plan
+
+### Cold Outreach
+
+### Blog Post and reviews
+
+### The Plan
 
 
 ---
@@ -190,56 +207,39 @@ This was a good Gear up as well. The discussion our group had was meaningful and
 
 ---
 
-### Professional Development Workshops
-#### Flower Exercise
-
-* [https://gist.github.com/bheim6/ede248d348a259ae11754f2c2e622e88]
-
-#### Job Search Strategies
-
-* Daily: Research companies and reach out to contacts (5), keep up Ruby/JS skills, learn new techniques
-* Weekly: Attend MeetUps and Networking events, arrange informal meetings with contacts (1-3)
-* Monthly: Turn meetings into Interviews, work with my mentor to practice technical interviewing skills
-
-#### Turing Portfolio Link
-
-* As of 10/10/2016 I have not received an email to re-set my password and access the site. I thought I put in the correct password but the site is telling me otherwise. Waiting on assistance to finish this piece.
-
-* []
-
----
-
-## E: Feedback & Community Participation
+## F: Feedback & Community Participation
 
 ### Giving Feedback
 
 #### Feedback for David Davydov
 
-* Working with David on this project was a great experience. He is a very talented programmer with exceptional hard skills, his typing speed and TDD are especially noteworthy. He did a very good job of examining and testing edge cases to ensure that our code was as rock solid and performed as expected. David is a conscientious person when pairing and regularly seeks collaboration. When we worked on consuming our API externally, David and I consistently would step-back when stuck, and read documentation and discuss a plan of attack before moving forward and I found this to be a very successful part of the project. I appreciated David’s strong work ethic and motivation to be constantly working because it is an encouraging trait to have in a project lead, but I would challenge him to make more time for regular breaks. There were times when David would work through Pomodoros and lunch, which is a personal choice, but in my experience, in order to reduce the feeling of “burnout” and to re-focus the mind, regular breaks from coding is very beneficial. Overall, David is an amazing person to work with and I consider him one of the strongest coders in the cohort.
+*  I have worked with David before and know that he is an incredibly strong programmer with a very clear grasp of theory and technical knowledge. Unfortunately I did not get to work much directly with David on this project as our assigned tasks never overlapped. I always learned so much from David whenever we had paired in the past and having him as a Technical Lead for our team was very valuable. He took his role seriously and offered to help to Rapha and I with a refactor when working on the smart search feature. His implementation was brilliant and very clean, which is further proof to me of the truly great things David will achieve as a software developer.
 
-#### Feedback for Nate Anderson
+#### Feedback for Jean Joeris
 
-* This was my first time working with Nate since being at Turing, and while we only paired on a small section of the code, I enjoyed working with him. Nate is easy-going and open to suggestions when writing code, which makes for a relaxed pairing environment. He regularly complimented other members of the group which was very encouraging and appreciated. Nate did a good job of checking in when the group was split into pairs (David and Nate, Rapha and myself), he would regularly check in with us and update us on their progress and sought to understand what we were working on as well. While Nate was very easy to work with, I would challenge him to assert himself into a “lead” role more often, when we paired I did most of the driving, and I noticed that this was the case with other team members as well. Navigating is an important skill to have, but assuming the Driving role is important to solidifying skills, and further advancing as a developer in general. Overall I genuinely enjoyed working with Nate and his laid-back and friendly demeanor.
+* I have worked with Jean before and know that he is a fantastic programmer with very strong technical skills. He also has great soft skills and is a pleasure to work with. Jean served as our Project Manager for the Enroll team and took on many different tasks in addition to writing code. He organized tasks on Tracker, communicated with our CTO and Product Owner for the team, and made sure the group was making progress. Even though I did not really work with him on the project code, Jean did a great job as PM; he reminded me (respectfully) about tasks I had forgotten about, and truly took his responsibility seriously. My only advice to Jean would be to not be too hard on himself regarding his PM duties. He mentioned to me that he felt he was not performing as well as he would like, but I thought he did a great job. I have alot of respect for Jean and can’t wait to see what he can do once we graduate.
 
 #### Feedback for Raphael Barbo
 
-* Working with Rapha on this project has been very enjoyable. He is very energetic when working and would get visibly excited when we solved problems. This energy was infectious and helped motivate me at times when I was feeling tired, especially when he and I tackled implementing jQuery datepicker to show a calendar of available dates for a listing. He is also a very determined and hard worker. Rapha regularly worked late or worked at home after the group disbanded for the night, experimenting and implementing better test coverage. He is a strong communicator and freely speaks his mind which is a great strength, but he could work on his delivery as sometimes he can come off too strongly or a little harsh. He commented on the preliminary CSS styling I had done for the site in a way that was not very constructive, but then he apologized and clarified his intent, which showed his maturity and grace, and was quite impressive to me. In fact, he and I worked on the final styling of the site and he was incredibly complimentary and encouraging. Overall I really enjoyed working with Rapha and look forward to pairing with him again.
+* I have worked with Rapha before and it is always great to work with him. He and I work well together and contribute code harmoniously when we pair. Unfortunately I only got to work with Rapha for one afternoon on this project, but it was on a cool feature: the smart search, and was very rewarding. Rapha is a strong coder and has a relentless motor; he is always hungry for more code and new things to try. I look forward to seeing what he can accomplish after we leave Turing.
+
+#### Feedback for Sonia Gupta
+
+* This was my first time working with Sonia and it was a great experience. We ended up serving as the ‘DevOps’ team for our project and paired on most tasks. This was a new field of study for us and thus we were learning as we went. Working with a brownfield project as well as a totally new technology is quite challenging but Sonia and I were persistent and came away with alot of new knowledge. Sonia is a pleasure to pair with, she is very conscientious and seeks collaboration both when driving and navigating. She also kept a strong set of notes with useful commands and processes so that when we needed to revisit things, we did not have to waste time searching for solutions that we had already discovered. Sonia is also a strong programmer technically, and I feel we worked well as a team and complimented each other in terms of technical knowledge and skill; it always felt as though we were on “the same page”. My only advice to Sonia would be to put more trust in her intuition. There were times where she would second guess herself, but more often than not, her instincts were right. Sonia was awesome to work with and even though we worked on the most mystifying and at times frustrating portion of the project, we emerged successful and I am excited to see what Sonia can accomplish once we leave Turing.
 
 ### Being a Community Member
 
-#### Feedback for Brian (From Nate Anderson)
+#### Feedback for Brian (From Jean Joeris)
 
-* I really enjoyed finally getting a chance to work with you on a project. Our pairing time was very productive, but also light and fun which made everything much easier. Your work with the css was amazing and it was really fun watching our site come to life like that. Your dedication to getting every aspect exactly right was great to watch. I have tried to rack my brain to come up with a criticism to no avail. Your work ethic is great and it was a pleasure working with you.
+* Brian was a great team member. He worked with Sonia very hard on DevOps and handling our deployment, which was harder than anyone expected. Issues kept coming up, yet he was willing to continue troubleshooting as long as needed. I regret I didn't get to work with him more often on this project, as I know from Mind on The Ball we work excellent together. He was very hard working throughout and I'm glad he was on Enroll 
 
-#### Feedback for Brian (From David Davydov)
+#### Feedback for Brian (From Sonia Gupta)
 
-* Brian, you were a great team member and I strongly valued your easy-going personality and dedication throughout our project. You did a fantastic job in making our site look professional, implementing the right CSS for image cropping, centering, and all that other stuff that the rest of the team was not doing. Your commitment to the styling of the site was invaluable, and your git workflow in terms of periodically applying these stylistic changes to the progress we've made turned out to be very intuitive. Your understanding of the site's layout was solid by the end of the project, when you gave me the rundown on how to match our review form to have the same style as the other forms. In an area of growth, I would suggest that when something in the code or project is not clear, do not hesitate to pause the pairing session and use it as an opportunity to learn. There were times during our pairing that you made some suggestions that seemed random which gave me the impression that your understanding of the code flow was not fully solidified. This was never anything more than minor, but reading code is crucial and I would suggest you always stay on top of lubricating these gears of dis-clarity whenever they seem to get stuck - it will pay off dividends in the long run. You were always fun to work with and level-headed throughout the project and our team strongly benefited from having you as a partner. Thank you for your hard work and patience.
+* Brian has been the person I worked with most on this project, and every moment was truly a pleasure. Even when we were frustrated, I always felt we were in it together. I had never worked with Brian before this project, and I am truly lucky to now have had the opportunity to do so. Brian has patience, resilience, and an incredibly upbeat personality. He allowed me to explore potential solutions even if they didn't work, and he never talked down to me. He treated me as an equal, and was incredibly respectful and compassionate. I learned from him how to have a sense of humor about our frustrations, and he kept me optimistic even when I felt downtrodden. I'm really grateful to Brian for his kindness and camaraderie. It means more than I can say. :)
 
 #### Feedback for Brian (From Raphael Barbo)
 
-* Brian is very easy to work with, as far as technical skills it was really fun to work with Brian because I feel we are at the same level, and it allowed both of us to contribute towards the features we were working on.
-My constructive feedback to Brian is just to keep listing to people's ideas, and different approach to problems. The beauty of being a developer is that the are 200 ways to solve the same problem.
-I really enjoyed working with him, and I am looking forward to see what he accomplishes throughout his time at turing.
+* It is always a pleasure working with Brian, he brings such a positive attitude and great energy and I absolutely love it. He is always cheerful and has such a great attitude towards everything and everyone. During our pairing session throughout this project, Brian was able to break down problems into small manageable partitions, explain the process, and make sure we both understood what was going on in the code base. Brian and I both work well together and contribute code harmoniously when we pair, and that for me is just an amazing treat. I absolutely love working with Brian... Can't wait to see where his coding skills take him.
 
 
 ### Playing a Part
@@ -248,7 +248,6 @@ I really enjoyed working with him, and I am looking forward to see what he accom
 * Regularly empty dishes and load/run dishwashers in big workspace
 * Organized disc-golf outings with the #disc-golfers channel
 * Served as a Pre-Work Guide for incomming students
-* Regularly arranged and re-arranged Big Workspace furniture for guest speakers and Gear-Up.
 
 
 ---
@@ -257,11 +256,11 @@ I really enjoyed working with him, and I am looking forward to see what he accom
 
 ### Notes
 
-* **A: End-of-Module Assessment**: 2
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **A: End-of-Module Assessment**: 
+* **B: Individual Work & Projects**: 
+* **C: Group Work & Projects**: 
+* **D: Professional Skills**: 
+* **E: Feedback & Community Participation**: 
 
 ### Outcome
 
