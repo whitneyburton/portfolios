@@ -5,7 +5,7 @@
 Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 2.5
+* **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
 * **D: Professional Development**: 4
 * **E: Feedback & Community Participation**: 4
@@ -28,18 +28,41 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### Client project for Price Intelligently
 
-#### (Project Name)
+* http://frontend.turing.io/projects/self-directed-project.html
 
-* [GitHub URL]()
-* [Original Assignment]()
+- Genesis of a dashboard product for PI
 
-(description)
+Feature Delivery
 
-(evaluation comments)
+1. Completion
 
-(evaluation scores)
+2: Developer completed most of the user stories and requirements set during check-ins.
+
+2. Organization
+
+1: Developer failed to use a project management tool to track its progress.
+
+Technical Quality
+
+1. Test-Driven Development
+
+1: Project lacks sufficient testing (under 85% coverage).
+
+2. Code Quality
+
+3: Project demonstrates solid code quality, proper abstractions, and reduced duplication.
+
+Product Experience
+
+1. User Experience
+
+4: Project exhibits a production-ready and polished UX.
+
+2. Performance
+
+4: Project pages load on average under 300 milliseconds.
 
 ## C: Group Work & Projects
 
@@ -134,7 +157,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ### Being a Community Member
 
-(feedback to me)
+Ian: "Alex was a great partner to work with for the reminders project. Learning ember while also adhering to a structured pull request workflow was challenging in ways that I think neither of us expected. That said, we worked very effectively by individually tackling issues but still maintaining a tight communication loop. We ended up with a some merge conflicts and a couple of different version of the app, but facing these challenges was easy working with Alex. He always kept his cool and kept the project moving forward. One thing I think Alex could work on is coding speed. Alex’s approach and and knowledge of the code seems on point which makes me think he could be a much faster coder."
 
 ### Playing a Part
 
