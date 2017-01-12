@@ -121,7 +121,10 @@ from Ryan:
 I appreciated working with Ali on Cloney Island. On the project, she showed great organization and attention to detail that benefitted our group. When plans needed to be drawn up, or issues closed off the waffle board, Ali was the person to take responsibility for these important, occasionally overlooked tasks. I also appreciated Ali's willingness to dive into unknown territory with me. Perhaps the highlight of the project for me was pairing together to host our photos on AWS.  
 
 from Alisher:
-This was the first time I officially collaborated on a project with Ali - on Cloney Island. To me, what stands out about Ali is her exceptional communication skills/manners: she is genuinely nice and supportive, no matter the circumstances.  Now add her clear thinking process and strong programming skills to this and you end up  with a very pleasant and productive collaboration experience with her.  I consider myself lucky to have been on one team with Ali and look forward to collaborating with her in the future!
+This was the first time I officially collaborated on a project with Ali - on Cloney Island. To me, what stands out about Ali is her exceptional communication skills/manners: she is genuinely nice and supportive, no matter the circumstances.  Now add her clear thinking process and strong programming skills to this and you end up  with a very pleasant and productive collaboration experience with her.  I consider myself lucky to have been on one team with Ali and look forward to collaborating with her in the future!  
+
+from Megan:  
+I felt so lucky to have a project with Ali during this module! She is always such a positive force on a team, and that was certainly the case for Cloney Island. We all tackled some tough new features, but Ali never let that get her openly frustrated with the group. Even though we all wished we had more time, I know that we  learned a ton throughout this project, which is obviously the most important thing.  I would eagerly work with Ali again any time!  
 
 ## D: Professional Skills
 
