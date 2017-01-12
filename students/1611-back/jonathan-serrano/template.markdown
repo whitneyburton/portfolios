@@ -136,7 +136,7 @@ I participated in the following Group Projects:
 ### Personal Branding
 
 * [Workshop URL](http://backend.turing.io/professional_development/module_one/personal_branding_p1)
-* [Link to Completed Deliverables](https://www.linkedin.com/in/jserrano)
+* [Link to Completed Deliverables](https://www.linkedin.com/in/jserranor)
 * [Link to Completed Deliverables](https://dochub.com/jonathanserrano7fcf1b89/aBWxae/jonathan-serrano-resume)
 
 
