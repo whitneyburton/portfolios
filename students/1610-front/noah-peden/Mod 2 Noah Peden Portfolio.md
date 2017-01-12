@@ -60,6 +60,7 @@ This mod's projects focused on coding in React, object oriented programming, and
 
 Specification Adherence
 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
 Accessibility
 3 - The application has a strong accessibility presence. The developer showed a strong effort to keep accessibility in mind from the beginning of the project. The application has 0-3 aXe-core violations.
 User Interface
@@ -74,11 +75,13 @@ Testing
 2 - Project has sporadic use of tests. The application contains numerous holes in testing and/or many features are untested.
 Workflow
 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
 ### Feedback
 
 Feedback from Kenia: Noah, I really enjoyed working with you on our 2DoBox app. You showed a really great understanding in ES6 and problem solving. I think we really became comfortable with working remotely and improved our workflow. You're great attitude made it easy to get through the more stressful parts of our project and tackle some of our more difficult challenges. I look forward to working with you in the future!
 
 #### (Weathrly)
+
 #### Summary
 This project was a somewhat self directed project where you have to call a fake API and display weather based on inputs using React.
 
@@ -86,6 +89,7 @@ This project was a somewhat self directed project where you have to call a fake 
 * [Original Assignment](https://github.com/noahpeden/weathrly)
 
 #### (Shoot The Breeze)
+
 #### Summary
 This project is a real time messaging app between users. Each component is tested using Enzyme, unit tests, and stored in Firebase. We also used Webpack build tools to build the application.
 
@@ -121,6 +125,7 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 Design
 
 3 - The application has a strong approach to layout and content hierarchy, but typography and color choices are lacking. The evaluator has several recommended changes to improvement.
+
 ### Feedback
 
 From Elijah- You were a lot of fun to work with on both of our projects.  It was great to see how much you progressed in React from when we first started working on Weathrly until we finished Shoot the Breeze.  I’d encourage you to break apart code into small bits and focus on understanding it in detail.  Give yourself time to solve problems yourself before reaching out to others.  You were an awesome partner!  Looking forward to continuing working with you!
@@ -189,11 +194,13 @@ Noah, your humor kept us going through some dark places sunday. bless. I'd sugge
 (We had five PD workshops this mod: Finding Opportunities, Feedback, AGILE practices, Cold Outreach and Networking)
 
 ### Professional Development Workshops
+
 ### Finding Opportunities
+
 [Google Doc](https://docs.google.com/spreadsheets/d/1uEmFYs-tioG-TIy4aRC1qufcEC54k-3tm9C-VImiJDM/edit#gid=0)
 Looking for jobs on sites like Monster.com, Indeed, and other career listing sites can be discouraging and ineffective. Instead you should focus on reaching out and getting a job through contacts. Set up information interviews to get your foot in the door.
 
-###Agiles Practices & Project Management (FEE)
+### Agiles Practices & Project Management (FEE)
 
 I use agile practices with each of my projects. As a DTR in each group, we discuss the best way to use agile practice so have the most success with our project. I make sure when working a specific functionality, we test, make it work, style, refactor, and add accessibility.
 
@@ -203,8 +210,9 @@ I use google docs and mac notes to organize the tasks we need to get done and br
 
 Through communication in a project, I try to feel out what everyone is working on, their stress level, and what they are comfortable with. I also try encourage everyone to keep open communication about when working on a function. Through feedback I have found that I can sometime work at a slower pace than others and I need to take step back, focus in on the problem, and take time for myself before reaching out to someone for help. 
 
-###Cold Outreach
-#####Synopsis:
+### Cold Outreach
+
+##### Synopsis:
 Kelly Port at WellTok: I emailed her in December asking if she'd like to meet to tell me more about her job and WellTok after meeting her at the Alamo theater and her giving me her contact info. No response yet, will call or email in the next two weeks.
 
 Andrew Joynt at n.io: I emailed the info account at n.io after seeing they had a front end engineering position open on LinkedIn and Andrew emailed me back saying to get in contact with him in a couple months. Emailed again to set up informational interview in January or February.
@@ -223,7 +231,7 @@ Kelly at Ibotta: Sent her a message asking to meet sometime in January to talk a
 
 So far I have reached out to 8 people, and set up information interviews with 2 people. My mentor is also going to introduce me to a couple more people at startups around denver.
 
-###Networking
+### Networking
 
 Over the break I plan on attending a React meetup, and a couple other networking ones on UX and Front End stuff.
 
@@ -238,7 +246,6 @@ Elijah - I wouldn't have chosen anyone else to be paired with on two projects in
 Dan - Thanks for being a great partner and carrying the team through with your knowledge of object oriented programming and trying to let others drive occasionally. I would suggest that before you take someone's code and completely refactor you make sure you ask them if that's ok and completely explain what you're about to do and why you think it's important.  Thanks again for driving us through a four day grind and I look forward to working with you more!
 
 Lauren - With most project partners you can’t really tell how competent they are, or what their work ethic is until it’s too late. Lauren is not only incredibly competent, but stuff doesn’t faze her until it’s figured out, and you can tell immediately.  She single handedly figured out like 20 million problems when it came to testing in React. So beyond being intelligent, she was an awesome friend to work with and I basically have zero criticisms. 10/10 would project pair again.
-
 
 ### Being a Community Member
 
@@ -276,8 +283,16 @@ Grit is the perfect combination of passion and perserverence when faced with a c
 
 ### Notes
 
-( Leave blanks for reviewers )
+* I appreciate the willingness to focus
 
 ### Outcome
+
+pass
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 4
+* **E: Feedback & Community Participation**: 4
 
 ( Leave blanks for reviewers )
