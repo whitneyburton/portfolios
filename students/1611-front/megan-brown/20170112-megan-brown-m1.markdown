@@ -238,10 +238,4 @@ I also look forward to finding a mentor and will follow up on Allison's recommen
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED - but taking next inning off. 
