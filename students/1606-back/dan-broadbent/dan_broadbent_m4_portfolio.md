@@ -208,13 +208,15 @@ The topics that we covered this module included communcation and pitching, user 
 
 [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md)
 
-
+I chose to join group 2 of the microagressions gear up because although I had never heard the term before, once I was told what it was, I was aware of the negative impact that they can have.  We had a very productive group discussion about this topic.  Some of the main takeaways that our group had was that the first issue to addressing a problem is acknowledging it and part of that is being able to talk about it.  That's where it is important that there is a word for microagressions so that the discussion can be had.  The other big takeaway was that it is important for you to call out your friends when you see them do it.  If a stranger criticizes you, you are more likely to become defensive and not listen to the criticism.  Where if it is your friend, they are more likely to listen.
 
 [Journey Mapping](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-
+I had never heard of Journey Mapping before this gear up and I really wish I had.  It is basically a technique to map out the thoughts and feelings of someone using a product or service throughout the whole process.  This would have been very helpful to me in my last role as a startup founder.  We made a lot of assumptions about our users and that led to a lot of time and money lost.  This is a technique that I will definitely use as I continue to build products in the future.
 
 [Grit Mindset](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+The idea of grit the way that the gearup presented it was that it is one of the key factors in determining which people will have continued success in the long term.  Grit is considered a combination of passion and perseverance.  Our group discussion mainly focused on what passion really is and what success really is.  It seems that there are people who have boundless energy for a specific problem/project, and while these people may be successful in their companies, they can also have terrible personal lives.  Is that success?  We liked the idea that passion isn't necessary to have grit, but there must at least be some level of curiosity coupled with perseverance to have grit.
 
 
 
