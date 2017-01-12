@@ -273,10 +273,4 @@ I was involved in a posse, tried to make as many womens coffee group, attended a
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
