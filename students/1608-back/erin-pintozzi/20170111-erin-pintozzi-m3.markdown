@@ -19,10 +19,10 @@ I maintained a google doc to track the new things I tried and participated in to
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3 (average of all 5 criteria scores)
-* **B: Individual Work & Projects**: x
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.59 (average of all rubric scores)
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -169,14 +169,14 @@ Technical Quality
 * 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
 * 1: Project demonstrates poor factoring and/or understanding of MVC.
 
-### 3. API Design
+### 4. API Design
 
 * **4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.**
 * 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
 * 2: Project has inconsistencies or gaps in how its JSON data is organized or formatted.
 * 1: Project's API is not fully functional or has significant confusion around request formats.
 
-### 4. Queries
+### 5. Queries
 
 * **(3.5 - two multi-query calls) 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.**
 * 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
@@ -254,29 +254,48 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 The professional skills sessions are an integral part of our Turing program because we are learning skills that are very industry specific for our soon-to-be new careers. This includes both examining how we are presenting ourselves to those on the outside as well as personal reflections to make sure we are striving to be the best versions of ourselves.
 
 ### Gear Up
-#### (Session Name)
+#### Micro-Aggressions
 
 * [GitHub URL]()
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-#### (Session Name)
+#### Journey Mapping
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-#### (Session Name)
+#### Grit
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Turing Alumni Portfolio
 
-* [Workshop URL]()
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### Personal Project Pitch
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### Flower Exercise
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### Mock Interviews
+
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
@@ -285,15 +304,30 @@ The professional skills sessions are an integral part of our Turing program beca
 
 ### Giving Feedback
 
-(feedback from me)
+##### Anna Dolan
+Working with Anna is always a treat. Anna is passionate about her work, contributes thoughtful and helpful ideas, and is very thorough. Our group had some tension about mid-way through the project and rather than just stifling the issue, Anna was very direct, but kind in bringing up the issue so the group could work on addressing it together. I know that can be a very difficult thing for a lot of people to do, but Anna seems like a natural when dealing with difficult situations and we were able to navigate the problem as a group.
+
+##### Jon Kimble
+Jon is a great group partner. He is so easy going and determined. Jon took on some very challenging tasks which he saw through to completion. Jon has a great gauge for knowing when to ask for help and when to keep digging. He also is very even-keeled which proved to be very helpful when our group hit a point of tension. I learned a lot working with Jon and I think our project was much better for it.
+
+
+##### Vido Seaver
+I had the opportunity to work with Vido twice this module on Cloney Island and Rales Engine. One of the best parts about working with Vido was his willingness to talk about progress, problems, and successes. Vido helped our group make sure we stayed on track with our regular stand-ups to check progress and the "temperature" of the group. Vido values team work and pairing and works really hard to ensure positive working relationships are maintained.
 
 ### Being a Community Member
 
-(feedback to me)
+I have worked with Erin several times over my time at Turing,  and she always is a treat to work with. She was the project manager for our group on Inspiration, and she kept us on track and kept our user stories clear. When I had some issues with another group member, she was very understanding and helped me to keep calm and continue working. I have been lucky to work with Erin as much as I have, but I would still love to work with her again! **- Anna Dolan**
+
+Feedback from **- Jon Kimble**
+
+
+Feedback from **- Vido Seaver**
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+One of the most meaningful contributions that I think I've made is that I was an SAB rep this mod. I think it's important to my cohort-mates as well as to myself that we all seriously consider how to improve the Turing community and I'm able to directly affect that in my role as an SAB representative.
+
+I've also been an active participant in the Bezos posse. I've participated in a couple of activities which made me uncomfortable (in a good way) and I think helped me grow as well as the other Bezos posse members. This mod we did some practice pitching which was really helpful both for practicing public speaking as well as fleshing out my idea for my personal project. Second, we did user test which again helped me practice public speaking. The other great part of both these activities is that we were able to practice giving and receiving feedback on our performance, projects, and ideas in real time.
 
 ------------------
 
