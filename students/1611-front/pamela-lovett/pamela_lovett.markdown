@@ -19,6 +19,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## A: End of Module Assessment
 
 #### DOM assessment
+
 Evaluator: Robbie
 
 Notes:
@@ -71,7 +72,7 @@ Individually, I completed the following projects:
 * [https://github.com/thatPamIAm/number-guesser](GitHub URL)
 * [http://frontend.turing.io/projects/number-guesser.html](Original Assignment)
 
-* A game that allows the user to guess a number between 1 and 100.
+#####A game that allows the user to guess a number between 1 and 100.
 
 Evaluator: Robbie
 
@@ -114,9 +115,9 @@ I completed 3 group projects in a group this module:
 * [https://github.com/becs919/linked-list](GitHub URL)
 * [http://frontend.turing.io/projects/linked-list.html](Original Assignment)
 
-Evaluator: Louisa
+#####An application that allows the user to generate bookmarks on a webpage.
 
-* An application that allows the user to generate bookmarks on a webpage.
+Evaluator: Louisa
 
 Notes:
 Well done, need to work on locking in details like indentation consistently. Had a slight lack of balance between both Pam and Becca sharing the JS and CSS writing. Used jQuery and Flexbox, which required some end-of-project refactoring to include. Good job taking risks!
@@ -138,7 +139,7 @@ Well done, need to work on locking in details like indentation consistently. Had
 
 #### Idea Box
 
-* An application that allows the user to both record, store, and retrieve data/information.
+#####An application that allows the user to both record, store, and retrieve data/information.
 
 * [https://github.com/thatPamIAm/idea-box](GitHub URL)
 * [http://frontend.turing.io/projects/ideabox.html](Original Assignment)
@@ -173,7 +174,9 @@ Good JS - continue refactoring and breaking out logic into smaller, more readabl
 * [https://github.com/stacimcwilliams/game-time](GitHub URL)
 * [http://frontend.turing.io/projects/game-time.html](Original Assignment)
 
-* Build a game that is playable in the browser.
+##### Build a game that is playable in the browser.
+
+Evaluator: Louisa
 
 ######Functional Expectations
 4 - Application is fully playable and exceeds the expectations set by instructors
