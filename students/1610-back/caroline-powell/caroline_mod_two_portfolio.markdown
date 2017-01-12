@@ -68,7 +68,19 @@ If the project was graded, add your evaluation scores and notes. If the project 
 ## C: Professional Skills
 
 ### Gear Up
-#### Session Name
+#### [Resilience](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+
+Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+
+#### [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md)
+
+Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+
+#### [Journey Mapping](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
+
+Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+
+#### [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
 Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
 
