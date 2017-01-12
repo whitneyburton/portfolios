@@ -99,6 +99,7 @@ I spent the final two weeks of the module working on learning Python. Although I
 #### Enroll
   * [Github Repository](https://github.com/turingschool/enroll)
   * [Staging Website](enroll-staging.turing.io)
+  * [Scores](https://github.com/turingschool/ruby-submissions/tree/master/1606-b/enroll)
 
   **Feedback To Jean Joeris:** "Jean has been an exceptional team leader. While he seemed a little unsure of his role at the beginning of the project, he certainly made up for that by the end. He became more engaged in the project and with working with fellow team members, and he did excellent work on the search feature. Jean has an innate talent for managing the expectations of others in a fruitful and compassionate way. It was truly a pleasure to be on a team with him."
 
