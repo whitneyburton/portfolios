@@ -85,10 +85,10 @@ Our group for this session was skeptical of using the word 'grit' for the topic 
 One of my favorite books is The Lean Startup by Eric Ries. The book basically lays out all the reasons why companies and teams and everyone should use the agile approach in pretty much everything. It's important to iterate and get to quick minimal results as fast as you can, so that you can learn and course correct on errors before doing a ton of work and having to scrap it.
 
 #### [Cold Outreach](https://github.com/turingschool/professional_skills/blob/master/module_two/cold_outreach.md)
-Include takeaways and deliverables from each session.
+This session gave us great tips for how to reach out to people we've never met such as bringing up a common interest, requesting a coffee date, suggesting a specific time and place for a meetup rather than leaving it open and in the air.
 
 #### [Feedback II](https://github.com/turingschool/professional_skills/blob/master/module_two/feedback_ii.md)
-Include takeaways and deliverables from each session.
+This was a great session to improve our communication skills. We talked about how to take the personalness and offensiveness out of our feedback rhetoric and turn it into fact-based recaps of things that happened and relatable explanations of how situations made us feel. I feel like we all, especially myself, could us a lot more practice on this. Once it's brought to your attention you realize how flawed our commonly used feedback language really is.
 
 #### [Finding Opportunities](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
 Include takeaways and deliverables from each session.
@@ -97,7 +97,7 @@ Include takeaways and deliverables from each session.
 I thought the Johari Window was a great exercise. We each anonymously filled out a form about ourselves and each person we've worked with in a group, circling adjectives that we thought described us or the person we were filling the form out for. Then we recieved the forms that people filled out about us and compared the results to what we thought of ourselves. I thought it was good because the anonymous aspect gave people a chance to give real and unvarnished feedback. It helped us learn a lot about how others percieve us versus how we percieve ourselves.
 
 #### [Networking](https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
-Include takeaways and deliverables from each session.
+The networking session was good practice for giving our personal elevator pitches about who we are, how we got where we are, and what's next in a succinct way.
 
 ## D: Feedback
 
