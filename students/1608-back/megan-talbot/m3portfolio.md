@@ -133,7 +133,7 @@ This project had us create a total application from scratch. Our group built a p
 * **1: Yes**
 
 
- __**Feedback to me:**__
+__**Feedback to me:**__
  
 *Feedback from Ryan:*<br>
 Megan was an excellent team member on Cloney Island. I repeatedly saw her jump on whichever part of the project needed her, even if it wasn't an easy or glamorous task like user ratings. Though at times we faced difficult problems, pairing with Megan was always a positive experience, and I am grateful that we had the chance to work on a team while at Turing.
@@ -162,7 +162,7 @@ I felt so lucky to have a project with Ali during this module! She is always suc
 
 I had the chance to work on the client project for the self-directed final project of the module. We started the group with 4 people, but it ended up only being Anna and me. I am happy with what we were able to accomplish in the 2 weeks we had, though I know both of us want to keep working to make it better! The project had a lot of new challenges, and I am confident when I say that we both learned a lot. Rachel, our client, has seemed very pleased with everything we have done, so I am happy with that as well. I appreciated the chance to work on this project!
 
-*Feedback to Anna:*
+*Feedback to Anna:*<br>
 I loved the chance to work with Anna again! Though this project started with 4 people, I was happy that Anna and I ended up sticking with it. I know we both hope we can contine working on this project to make to even better, but I am also very happy with where we ended up. Anna is a super hard worker and always gets her work done. She was very communicative with me, and we were effectively able to divide and conquer much of the work. When there was a particular challenege, however, she was always willing to pair with me so we could figure it out. I really enjoyed this project with Anna and hope it's not the end of it!
 
 
@@ -195,7 +195,6 @@ The last gear up of this module focused on grit. Though grit has become a bit of
 
 
 ### Professional Development Workshops
-http://backend.turing.io/professional_development/module_three/
 
 #### Flower Exercise
 
