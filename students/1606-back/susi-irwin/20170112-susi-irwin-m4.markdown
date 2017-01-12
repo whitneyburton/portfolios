@@ -179,6 +179,8 @@ I had heard of this before, but never really dug into it. It was a great session
 
 * From Chelsea Skovgaard - "I was lucky enough the meet Susi during my first module at Turing during the Joan Clarke coffee mornings and in the Pahlka posse. I also have had the pleasure of interacting with her during Gear Ups and Lunch Roulette over the following modules. Susi is one of the most open, graceful, and kind-hearted people I have met. She can't help but make you smile when she talks. She made Turing feel welcoming and gave me confidence as a fellow female developer. I also appreciate how Susi always speaks her mind while being willing to listen. Susi is a wonderful colleague, friend, and developer who contributes to the community and inspires others."
 
+* From MaryJane Valade - "I couldn't be more proud of Susi for her perseverance to finish the program even though she already scored a job. She is driven to succeed for herself and her family. Her enthusiasm seems to rub off on those around her and she has become a great friend. I wish we could have done a project together, combining our FE and BE skills."
+
 ### Being a Community Member and Playing a Part
 
 Try Turing - I have participated in two Try Turing Panels and have really enjoyed sharing my story with potential students. I enjoy talking about my school and my community. It is an amazing feeling to have someone walk up to me the first week of the module and tell me that I was part of their decision to apply to Turing. It gives me goosebumps to think that I might have had a part in helping someone else make this huge decision to change their life.
