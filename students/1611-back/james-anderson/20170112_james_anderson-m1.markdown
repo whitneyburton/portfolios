@@ -246,12 +246,8 @@ I would also venture to say you are one of the strongest students in the class. 
 
 ### Playing a Part
 
--Lunch Roulette
--Pairings (numerous w/ Kris Sparks, 5 pairing w/ different mod 2 students)
--Long hours in the basement  (David, mythical creatures/final assessment prep(remote))
--Mod 1 lunches
--After hours social gatherings
--Turing lab
+I have spent many long hours in the basement getting to know lots of different people who were very gracious with their assistance. David Mauer has been a great resource giving some much of his time on weekends with mythical creatures walkthroughs and final assessment prep (remotely). I've paired with Kris Sparks on numerous occaisions and had the opportunity to pair with five different Mod 2 students. Lunch roulette has been an interesting and fun way to mix with other mods and front end students and since our SAB members instigated Mod 1 Monday lunches, I think its helped our cohort gel well. Outside of the Blakement a number of us have had the chance to celebrate our project completion week-by-week as well. I feel that as a group/cohort, we have really grown together.
+
 
 
 ------------------
