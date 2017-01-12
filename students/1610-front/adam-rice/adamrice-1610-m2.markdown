@@ -224,6 +224,10 @@ Code Sanitation
 
 * 4 - Zero complaints
 
+##### Feedback
+
+From Josh Small: Fire-bae project was soooo fun to work on with Adam. Honestly, the only difficult thing about working with him was my difficulty judging whether or not he was joking about something. haha Other than that it was a breeze, he knows React back and forth and was able to pick up Native without much effort. He is always willing to help out if I get held up on something or supply comic relief if I get too stressed out about an issue. He also took the role of project manager, in this position he exceeded expectations. He regularly brought the group together to discuss what still needed to be worked on and what was a priority. I think myself and Justin benefitted from this since I have a tendency to just choose a feature and work on it until it is complete. Before this project, me and Adam hadn't spent much time together but I feel like after this project we not only produced a very successful and professional product but a new friendship.
+
 ## D: Professional Skills
 
 ### Gear Up
