@@ -107,7 +107,7 @@ Mike Sausa & Paul Nguyen
 This project is a culmination of what we've done this module. We used HTML5 canvas to draw our game,
 added some interactivity with jquery, styled with CSS, and used javascript to add interactivity.
 
-Functioonal: 3
+Functional: 3
 User Interface: 3
 Testing: 2
 JS: 3
@@ -194,8 +194,22 @@ From Kyle - Enjoyed working on this challenging project with you. I think your p
 
 ### Notes
 
-( Leave blanks for reviewers )
+Wanted to improve HTML and CSS foundation, hadn’t done any JS so wanted to learn more. and get better with HTML and CSS. Wanted to learn how to break problems into smaller pieces to tackle.
+
+Hasn’t collaborated in the this type of setting before so wanted to learn about that and how to get better at that, and wants to get more involved with the community.
+
+Surprises: the pace was surprising, was much faster than expected, took a while to adjust to that and feel comfortable with it
+
+Had been commuting from Lyons, first part of the  module, is staying with family in devner now so it’s been much better without the commute now.
+
+Feels like he’s a little slower picking things up, break week is a great time to review and study and rebuild a few things.
+
+Wants to focus on and get better at TDD
+
+Feels very positive about all the pairs he was on, learned from all the people he was paired with, had very positive experiences and appreciated having the team work and the learning opportunities.
+
+Staff: Mike is always positive, glass-half-full. He sees the best in his team mates and his work, and we’re glad he’s here.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS

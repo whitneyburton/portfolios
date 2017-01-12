@@ -1,7 +1,6 @@
-# Mike Sausa - M4 Portfolio
-## Individual
 
-### Areas of Emphasis
+
+## Areas of Emphasis
 
 Learn Electron,
 React-Native,
@@ -12,11 +11,24 @@ improve Javascript fundamentals,
 not fail,
 find my inner peace
 
-### End of Module Assessment
+## Rubric Scores
+
+Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
+
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Development**: X
+* **E: Feedback & Community Participation**: X
+
+-----------------------
+
+## A: End of Module Assessment
 
 105/150
 
-### Work
+
+## B: Individual Work & Projects
 
 #### Jet Fuel
 
@@ -32,7 +44,6 @@ A URL shorten service that takes long URLS and creates shortened ones.
 * https://github.com/sikemausa/electron-vue-reminders-app
 * http://frontend.turing.io/projects/imposter-syndrome.html
 
-A native reminders application in Electron and Vue.js
 
 149/175
 
@@ -56,13 +67,19 @@ A github statistics visualization in react, redux, and electron
 
 260/325
 
-## Community
+## D: Professional Development
+(Intro)
+
+### Professional Development Workshops
+#### (Session Name)
+
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+## E: Feedback and Community Participation
 
 ### Giving Feedback
-
-Adam - It was great getting to work with Mike again on this project.  I know he sacrificed his idea for the project and we built something different and he was good about making sure this didn't bother him to much.  One area Mike could have improved on was making sure that he was explaining more about his code contributions, as he took on the part of really learning Vue and I felt like I did not fully understand it.  In the end though he helped a lot with the application and it was awesome that he got our native notifications to work as I know this took him some time to figure out.
-
-Ben - I was really happy to get to work with Ben again. He was great at getting the ball rolling and taking charge of our API calls and reduxing. Our group could have communicated more clearly at times, as we we occasionally stepped on eachothers’ toes with the work we were doing, but other than that, Ben’s the man, I’m sure he’ll go on to do great things!
 
 ### Being a Community Member
 
@@ -72,15 +89,13 @@ Adam - Adam was really fun to work with! He really pushed me to try new things t
 
 Attended the last 10 minutes of 2 guest speakers
 
-## Review
+### Gear Up
 
-### Rubric Scores
+(reflect on your Gear Up sessions following the below example)
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+------------------
+
+## Final Review
 
 ### Notes
 
