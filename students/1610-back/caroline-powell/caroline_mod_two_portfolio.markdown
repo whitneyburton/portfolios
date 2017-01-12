@@ -121,7 +121,11 @@ Robbie is the king of refactoring. It's like he has a photographic memory of all
 
 *-To Lucy Conklin*
 
-TBD
+Lucy is so fun to be around and to work with. On Little Shop, she did a great job being our project manager and facilitating our user story workflow on GitHub. I really appreciated that after every team meeting she would send a recap of the conversation and what each of us should be working on. It was a hard project to split up and she kept us organized and making progress.
+
+Lucy is one of the best when it comes to front end styling and she served as Creative Director for our project so that she could share her knowledge with each of us. We all significantly improved our styling abilities because she took the time to teach us.
+
+I also really appreciated her partnership in implementing stripe payments for the first time in our project. It was new material for us both. She was able to diagnose issues and get us through hurdles and we ended up getting it installed in just a few hours - not bad for a first time.
 
 *-To Nick Erhardt*
 
