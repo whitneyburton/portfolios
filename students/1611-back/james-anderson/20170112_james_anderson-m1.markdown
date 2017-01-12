@@ -187,7 +187,7 @@ I often focus on productivity and see soft skills as a variable in that function
 ### Gear Up
 #### Growth/Fixed Mindset
 
-* [Workshop URL](could not locate link)
+* [Workshop URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
 This was our first Gear Up and a welcome break from technical lessons. It was focused on the growth mindset which was an entirely new concept to me. Coming from a very negative atmosphere in my previous job, it was a drastic change to be in such a welcoming and positive environment. I was grouped with both front-end and back-end students and had a wonderful time discussing our backgrounds and how we can focus on staying in the growth mindset. It also gave me some time to reflect and jot down some goals I hope to accomplish both in Mod 1 and throughout my time at Turing.
 
