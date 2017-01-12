@@ -20,11 +20,11 @@ So how did I do on these things?
 
 Find the rubric near the end of this document.
 
-* **A: End of Module Assessment**: 4
-* **B: Individual & Group Work**: 4
-* **C: Professional Skills**: 4
-* **D: Feedback**: 3
-* **E: Community Participation**: 4
+* **A: End of Module Assessment**: 4 / Student achieved two or more "4"s on the assessment (Module 3 requires three or more "4"s)
+* **B: Individual & Group Work**: 4 / Student consistently helps their teammates be their best selves, learn at
+* **C: Professional Skills**: 4 / Student demonstrates dedication to their professional growth by not only completing the expected deliverable(s) but also pursuing additional opportunities for professional development beyond what is presented in sessions.
+* **D: Feedback**: 3 / Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback. They participate in required activities and does at least one or two above and beyond suports of the community.
+* **E: Community Participation**: 4 / Student has a significant positive impact on the learning and spirit of the people around them.
 
 -----------------------
 
@@ -150,6 +150,5 @@ their own skills.
 
 * 4: Student has a significant positive impact on the learning and spirit of the people around them.
 * 3: Student participates in required activities and does at least one or two above and beyond suports of the community.
-* 2: Student participates in most required community activities such as demos, lightning talks, improv, but does not do anything else of
-significance.
+* 2: Student participates in most required community activities such as demos, lightning talks, improv, but does not do anything else of significance.
 * 1: Student stays in their lane and focuses on just their own learning.
