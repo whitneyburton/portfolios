@@ -15,7 +15,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 * **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 2
+* **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
 -----------------------
