@@ -146,6 +146,21 @@ _PEERS FEEDBACK_
 * [Link to post](https://medium.com/@rsbarbo/the-guide-to-becoming-a-software-developer-trust-me-you-can-do-this-a703ea5b88e7#.7rmhf2ujs)
 * [Link to peer review](https://gist.github.com/rsbarbo/c0bc3954c2b7bf7ea93a6abbbebb3fc3)
 
+### Six Cold Outreach Emails 
+
+1. **Chelsea Worrel | Octvi** - I wanted to get in touch about her company (since I am interested in applying for a position when they have an opening), and know more about her job search experience and any hints she could possibly give me.
+
+2. **Kyle Henson| Huron** - Kyle Henson is a software developer at My Rounding Solutions, I contacted via LinkedIn (week 2) and followed up during week 3 about a job application I had submitted for Junior PM position at Huron. 
+
+3. **Jim Ray | CaptainU** - I had spoken with him before, and we talked about getting in touch once I was getting closer to graduate. He has agreed to grab coffee some time during our break week (between Christmas and New Year), he will look over my resume, and give me some ideas on how approach job search and opportunities.
+
+4. **Ian Douglas | Stream** - I had three pairing sessions with Ian @ Stream. The first was a casual (informal) lunch in Boulder to go over resume, connecting with people in the industry,etc... The second and third one was working on a Ruby application they needed help with at GetStream. It was a great experience to get to work in a real world code-base and see the challenges that it entails.
+
+5. **Linda Hall | Leprino Foods** - I sent cold email to Linda at the beginning of December about a position of Web Developer they had open at their company. One week later I received an email from her asking me if I would be interested in coming in for an interview and learn more about their company and the department. Although I loved the company, its technology is not in par with the current market (most WordPress | PHP stuff) and I did not believe I would be a good fit for the company at this time.
+
+6. **Mark Evans | SnapTeam** - I sent Mark a cold outreach email at the beginning of Module 4. He was super welcoming and easy to talk to. Mark has given a lot great advises on how to approach the job search and technical interviews (he is a G2 grad), and he even opened up an opportunity for me to interview with his company in Boulder.
+
+
 ---
 
 ### Gear Up
@@ -167,21 +182,6 @@ This gear up was great because we were able to have it within our own cohort. We
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
 This gear up really solidified a term that I never really related to my life. In my life I have been very resilient, but I never knew that's what it was. Now, I know what it is, and me and my group talked about techniques to be more resilient in my every day life.
-
-
-### Six Cold Outreach Emails 
-
-1. **Chelsea Worrel | Octvi** - I wanted to get in touch about her company (since I am interested in applying for a position when they have an opening), and know more about her job search experience and any hints she could possibly give me.
-
-2. **Kyle Henson| Huron** - Kyle Henson is a software developer at My Rounding Solutions, I contacted via LinkedIn (week 2) and followed up during week 3 about a job application I had submitted for Junior PM position at Huron. 
-
-3. **Jim Ray | CaptainU** - I had spoken with him before, and we talked about getting in touch once I was getting closer to graduate. He has agreed to grab coffee some time during our break week (between Christmas and New Year), he will look over my resume, and give me some ideas on how approach job search and opportunities.
-
-4. **Ian Douglas | Stream** - I had three pairing sessions with Ian @ Stream. The first was a casual (informal) lunch in Boulder to go over resume, connecting with people in the industry,etc... The second and third one was working on a Ruby application they needed help with at GetStream. It was a great experience to get to work in a real world code-base and see the challenges that it entails.
-
-5. **Linda Hall | Leprino Foods** - I sent cold email to Linda at the beginning of December about a position of Web Developer they had open at their company. One week later I received an email from her asking me if I would be interested in coming in for an interview and learn more about their company and the department. Although I loved the company, its technology is not in par with the current market (most WordPress | PHP stuff) and I did not believe I would be a good fit for the company at this time.
-
-6. **Mark Evans | SnapTeam** - I sent Mark a cold outreach email at the beginning of Module 4. He was super welcoming and easy to talk to. Mark has given a lot great advises on how to approach the job search and technical interviews (he is a G2 grad), and he even opened up an opportunity for me to interview with his company in Boulder.
 
 ---
 
