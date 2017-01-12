@@ -16,7 +16,7 @@ I am very proud not only of my work during the past six weeks of class, but of t
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 4
+* **E: Feedback & Community Participation**: 3
 
 ---
 
@@ -226,7 +226,7 @@ I paired with Goss on a Figaro issue regarding Figaro's test suite which seemed 
 
 - [] -
 
-Submission forthcoming by 1/17/16
+Submission forthcoming by 1/18/16
 
 ---
 
