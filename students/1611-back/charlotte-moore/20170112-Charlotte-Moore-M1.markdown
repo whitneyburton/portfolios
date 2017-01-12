@@ -250,6 +250,9 @@ Your positive attitude helped me stay focused when I became really frustrated wi
 
 ### Being a Community Member
 
+**(From Casey)**
+t has been such a pleasure getting to know Charlotte, I'm so glad she's in our cohort! It was hard at first to feel connected to other people in Mod 1, but Charlotte and I quickly bonded over board games, and I've always felt like I've had an ally in the cohort ever since. I'm so looking forward to continue getting to know her over the net few months!
+
 **(From Beth)**
 I think you had great passion about the project and wanting to succeed. You showed up on time, put in extra effort. There was never a moment where I doubted if you were in for the long haul. And thanks for letting me take over a lot of the testing. That was important for me to learn and I really appreciated it.
 I think we might have had that tunnel vision with our project. There was a point where we were both spiraling and feeling defeated. We should have met at Turing instead of the coffee shop so we could have grabbed some help. But that’s a hindsight thing. You’re github skills are getting there! We probably should have outlined how we were going to merge, pull, create branches and all that. We need to whiteboard, psuedo code, and test before we write any real code. I think we got into trouble when we started hacking away at it.
