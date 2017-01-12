@@ -145,4 +145,4 @@ Grit - I have a lot of experience with Grit in terms of understanding and applic
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Passed
