@@ -76,7 +76,7 @@ This section contains individually completed work using the React library. More 
 
 ### React work
 
-Learning React has been really fun. I am excited to keep working with it, especially on the Turing Dashboard app. I think React is a very effective way to render alot of different pages with different content and functionality very easily. When combined with the React router library, it starts to feel like Rails in a way, setting up routes and views, and rendering html and styling with css for those "views" or components as they are called in React. I think the React docs explain components the best: "Components let you split the UI into independent, reusable pieces, and think about each piece in isolation". They are easy to use and easy to configure. I find it fun just messing around in React and it reminds me of mod 2 just learning Rails for the first time. 
+Learning React has been really fun. I am excited to keep working with it, especially on the Turing Dashboard app. I think React is a very effective way to render alot of different pages with different content and functionality very easily. When combined with the React router library, it starts to feel like Rails in a way, setting up routes and views, and rendering html and styling with css for those "views" or components as they are called in React. The React docs explain components the best: "Components let you split the UI into independent, reusable pieces, and think about each piece in isolation". They are easy to use and easy to configure. I find it fun just messing around in React and it reminds me of mod 2 just learning Rails for the first time. 
 
 
 #### ReactBox 
@@ -199,11 +199,28 @@ N/A
 
 ### Open Source Contributions
 
+Original Assignment - [http://backend.turing.io/module4/projects/the-plan/assignments/open-source]
+
 #### Habitica
+
+ * GitHub [https://github.com/HabitRPG/habitica]
+ 
+ Habitica is essentially a task management tool wrapped in a fun, collaborative "game" for the web and mobile. There are rewards in game for completing tasks and going on quests with friends. I attempted to install Habitica but ran into issues (crashed my comp three times) but also did not allocate the full suggested 4GB of swap data in my hard drive. I abandonded it given the deliverable timeline, but I will absolutely continue to work on Habitica as I am interested in front end frameworks and this project uses Angular. 
 
 #### Figaro
 
+* Link to PR [https://github.com/laserlemon/figaro/pull/258]
+
+I have used Figaro alot in projects and think it is a very useful tool. It is very easy to use and has great docs, which is why I chose to make a Documentation PR to Figaro to include a helpful heroku command - heroku config - to display variables in the command line, very handy when deploying code to different environments and doing DebOps work, I probably typed heroku config 100 times this mod.
+
+And yes, they require a gif in every PR... according to [https://github.com/laserlemon/figaro/blob/master/CONTRIBUTING.md]
+
+
 #### Faker
+
+- [] -
+
+Submission forthcoming by 1/17/16
 
 ---
 
