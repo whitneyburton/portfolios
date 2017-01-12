@@ -3,6 +3,8 @@
 ## All the Web Development, All the Time
 
 Overall, I just wanted this mod to be a better mental environment for me, which it absolutely was. The workflow and project assigment schedule fit much better with my own "perfect" learning environment, and I was able to relax a bit, which helps me absorb material a LOT better than the constant, unabating stress of Mod 1. 
+<br>
+In terms of content, I thought this mod was fascinating, well-paced, and extremely well-taught. There was never a point during which I felt lost or without easy access to resources that would help me solve whatever issues arose, part of which was due to the fact that our cohort is quite close-knit and friendly, but another part of which was due to the impeccable pace of lectures and new material. Many thanks to both Sal and Casey for this.
 
 ## Rubric Scores
 
@@ -18,8 +20,18 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+## Evaluation Criteria
 
+Evaluator: Sal
+Student: Amy
+Subjective evaluation will be made on your work/process according to the following criteria:
+* 1. Conceptual Understanding = 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
+ * 2. Analytic/Algorithmic Thinking = 3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+* 3. Feature Completeness = 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+* 4. ActiveRecord Syntax and Style = 3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+* 5. Rails Style = 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
+* 6. Testing = 3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
+* 7. Collaboration = 3.5: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ## B: Individual Work & Projects
 
@@ -29,6 +41,9 @@ I much preferred the format of this mod: loads of work time in the afternoons, p
 
 * [GitHub URL](https://github.com/akintner/Mix-Master)
 * [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/1_getting_started.markdown)
+
+This was structured more as an extra long tutorial, and as it was our first major Rails project, that structure made it a very convenient way to navigate the intricacies of Rails in a way that kept us from royally screwing it up and not knowing how to fix it yet. 
+
 
 #### Job Tracker
 
@@ -48,7 +63,6 @@ Rubric
 * 5) Views = 3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
 * 6) User Experience = 4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
 * 7) Testing = 2: Project has sporadic use of tests and multiple levels
-
 
 ## C: Group Work & Projects
 
@@ -91,14 +105,17 @@ I was the project manager for our team, so I did the original setup for us and m
 
 (evaluation scores)
 
-(feedback to me)
+At our final group retro, we each exchanged one "negative" and one "positive" feedback, and here's my breakdown: 
+<br>
+Negative/Improvement Potential: Kyle suggested that I could have taken a more dominant role in some of our in-person idea-wrangling sessions, as we had a group with four strong personalities and needed someone to really put a foot down about some thing early on; Schutte pointed out that I seem to get worried and assume the worst when things go wrong - which is totally true - and he said that I could work toward trying to change that; Annie echoed what Kyle said and told me that she never wanted to hear me say I was sorry for being sick again. 
+<br>
+Positive/YAY: everyone thanked me for an overall excellent job as PM, and Kyle specifically said that he thought I did a great job neogtiating the group's many "strong" personalities, and he thought I did an excellent job delegating work without meddling in the way the work was carried out; everyone also agreed that they were super pleased about the way I handled being sick and the way I was so open about not wanting to screw up the project by messing with it too much when I was feverish; Annie said she likes how thoughtful and deliberate I am before acting; Schutte liked how clean my code always was. 
 
 ## D: Professional Development
-In the realm of professional development this mod, we focused a lot on two things, largely fitting into these two categories: job-searching and preparation
-and better team/group workflow and feedback. We had a long session with Meg and Lia during the first two weeks about Cold Outreach emails, and we had a number of 
-helpful sessions with Allison about feedback giving and receiving. 
+In the realm of professional development this mod, we focused a lot on two things, largely fitting into these two categories: job-searching and preparation and better team/group workflow and feedback. We had a long session with Meg and Lia during the first two weeks about Cold Outreach emails, and we had a number of helpful sessions with Allison about feedback giving and receiving. 
 
 ### Professional Development Workshops
+
 #### Finding Opportunities and Cold Outreach Emails
 
 * [Link to Completed Deliverables](https://trello.com/b/6RPBJrUa/amy-kintner-job-tracker-wishlist)
@@ -109,9 +126,7 @@ I thought this session was SUPER helpful and intersting. Cold Outreach isn't any
 
 * Deliverable - While I wasn’t the project manager for Bike Share, I was eager to try waffle because it appeals to my (arguably intense) desire to make lists and organize workflow. For this reason, I volunteered and set up all the waffle cards for Bike Share. Nick E quickly realized a way to make these self-closing via branch-naming conventions on GitHub, and so the group made great use of this tool; this resulted in a good, collaborative approach to commits and group workflow. For Little Shop, I was the project manager and also took the lead on waffle, as I was the only person who’d used it extensively in a group setting. Everyone else in the group quickly grew to like it, thus card making and assignment was wholly democratic for the duration of the project. One of the other group members had a method for naming branches that he felt strongly about, so we didn’t build self-closing waffle-tagged branches for this project, but we did end up having around 130 cards, so it went well overall. 
 <br>
-We did a lot of work this Mod on feedback giving and receiving in teams. While we did spend some time on the subject during Mod 1, I think the material we
-covered this mod built on what we covered in Mod 1 and expanded it in a very meaningful way. Focusing on how "negative" feedback is received and processed by each inidividual
-was a nice way to help me get better at realizing what my own biggest triggers are, as well as how to move past them and take something good from all feedback I give and receive. 
+We did a lot of work this Mod on feedback giving and receiving in teams. While we did spend some time on the subject during Mod 1, I think the material we covered this mod built on what we covered in Mod 1 and expanded it in a very meaningful way. Focusing on how "negative" feedback is received and processed by each inidividual was a nice way to help me get better at realizing what my own biggest triggers are, as well as how to move past them and take something good from all feedback I give and receive. 
 
 #### Feedback II
 
@@ -160,9 +175,11 @@ I didn't actually attend this gear-up because my house in Colorado Springs had b
 with Beth over break about the session, as it's a topic that I had addressed with students when I was teaching undergraduates. I heard, of course, about some of the backlash about this session, and while I do have some theories about why certain people lash out about this topic, I did engage in at least a dozen VERY interesting and thorough discussions about microaggressions with various people over the next two weeks. Some folks may not have liked it, but it did generate a lot of talking, which is, in my opinion, a step in the right direction.
 
 ####Journey Mapping: 
+
 This was fun. I was paired with three front-enders, and we agreed on two topics for the discussion: "when you missed a flight or a connection" and "why you decide to get a new phone". Both were funny and interesting to map. While I don't think I would ever make a journey map on my own, the session was light-hearted and a fun addition to the Friday afternoon. 
 
 ####Grit: 
+
 I had a lot of opinions about this session, far too many to get into here. The basic gist, however, is that I don't really like buzzwords like this in general, but particularly when they're applied as pedagogical "tools" before any real scientific basis for the term has been established. Besides, the educational system in the western world is SO focused on grades that inevitably grit would be graded, which is a seriously flawed idea, given the psychological findings about grit that have been in conversation since 2007. 
 
 ------------------
