@@ -95,7 +95,6 @@ Workflow: 4
 
 Troubleshooting: 4
 
-(feedback to me)
 #### Dale
 
 I was on the first group project of Mod3 with Matt. The project was an enhanced weather application. This was the first time I have worked with him. An area that I think could be strengthened for Matt is bit more self awareness in group problem solving sessions. My sense is that he can come across a bit forceful in some situations.  I believe that is not his intention and more a reflection of his intensity when working to solve a problem. That said, I found him open to discussion and willing to try other’s suggestions and approaches. He was also quick to praise his teammates when things worked out. He is the strongest technically of anyone that I worked with in the cohort. I learned a great deal from Matt and really enjoyed working with him.  I believe he would be an excellent intern/teaching assistant for Turing when he completes the program if he applies.
@@ -115,7 +114,6 @@ t was great working with Matt on my first Redux project because he had a really 
 #### Grit
 
 * [GitHub URL]()
-
 
 As you head into the homestretch of your time at Turing and begin to look toward your job search, it will be helpful to begin to articulate the things that, in Hilmantel's words, you can find "enduringly fascinating."
 
@@ -227,9 +225,8 @@ SAB
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+Amp up the fancy vocab when pairing
+Finesse. 
 
 ### Outcome
-
-( Leave blanks for reviewers )
+Pass
