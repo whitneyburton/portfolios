@@ -19,7 +19,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ### Scrabble
 
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser-in-react.html)
-* [GitHub URL] (https://github.com/ejwill04/scrabble2)
+* [GitHub URL](https://github.com/ejwill04/scrabble2)
 
 #### Instructor: Meeka
 
@@ -121,7 +121,7 @@ I thought you were a great partner to work with.  I think we did a good job brea
 ## Weathrly (ungraded)
 
 * [Original Assessment](http://frontend.turing.io/projects/weathrly.html)
-* [GitHub URL] (https://github.com/noahpeden/weathrly)
+* [GitHub URL](https://github.com/noahpeden/weathrly)
  
 This was an ungraded project to give us a first taste of APIs and React.  
  
@@ -208,10 +208,55 @@ This was the final mod2 project where we had a chance to continue using React an
 
 #### Feedback
 
+3.5 - No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+## Risk Taking and Creativity
+
+4 - Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature. The application shows evidence that the developers explored concepts and technologies outside the scope of the curriculum.
+
+## Design
+
+3 - The application has a strong approach to layout and content hierarchy, but typography and color choices are lacking. The evaluator has several recommended changes to improvement.
+
+## User Interface
+
+4 - The application is pleasant, logical, and easy to use. The application is fully responsive, and has clearly had special consideration around usability on devices. There are no holes in functionality and the application stands on its own to be used by the instructor without guidance from the developer.
+
+## HTML Style
+
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+## CSS/Sass Style
+
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
+
+## JavaScript Style
+
+3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+## Testing
+
+3 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application has robust unit tests and makes some use of feature testing where appropriate and applicable.
+
+## Workflow
+
+4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+## Accessibility
+
+4 - The application demonstrates an exceptional knowledge of web accessibility. The application has no aXe-core violations, is fully functional without using a mouse, and the application uses HTML/CSS to ‘chunk’ content into more manageable pieces. The application utilizes semantic HTML.
+
+## Code Sanitation
+
+The output from a code sanitizer (either JSHint or ESLint) shows…
+
+3 - Five or fewer complaints
+
+Keep an eye on changing the eslint or jshint rules and leaving comments to disable things.
+
 ##### Jeff Buss
 
 Similar to the feedback given to me, I would consider Elijah one of the most dependable, stable, and level-headed people I've paired w/ at Turing thus far. It's always a pleasure to work with someone who doesn't get unnecessarily upset when something doesn't work. That's literally our job at this point - fixing broken shit lol :) Elijah is able to keep his cool despite incredibly frustrating issues arising, which is a crucial trait in this field. Sometimes this can lead to mild complacency  and an "everything is fine, I'm cool with whatever" attitude (for lack of a better way to put it), but when need be Elijah always will speak his mind.
-
 
 ##### Chelle Tuerk
 
@@ -249,10 +294,9 @@ It was good chance to reaffirm certain areas in my life and encourage others.
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
 
-[Link to Completed Deliverables] (https://trello.com/b/Z3QKUgH3/elijah-williams-job-tracker)
+[Link to Completed Deliverables](https://trello.com/b/Z3QKUgH3/elijah-williams-job-tracker)
 
 This session allowed me to pull away from my studies and begin thinking about what type of companies I want to work for once I finish Turing.  It also gave me some leads into the companies I'm intersted in joining.
- 
  
 ## E: Feedback and Community Participation
 
@@ -318,13 +362,18 @@ After getting feedback last mod that I should take more time to do things outsid
  
 I pushed to use Waffle on all of our projects this mod.  I found it to be a great project management tool.  I tried to make sure I was always communicating over Slack to keep everyone connected.  The one area I'd like to improve is making sure work is explicitly assigned so there isn't anything left floating.
   
-  
 # Final Review
+
+It's a pass!
 
 ## Notes
 
-( Leave blanks for reviewers )
+Jhun: I would like to see you take on a little more ownership for the community. The pairing slot is a great start, as you move into the senior role - it would be great to see you build ways to make the community even greater.
 
 ## Outcome
 
-( Leave blanks for reviewers )
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 4
+* D: Professional Development: 3
+* E: Feedback & Community Participation: 3

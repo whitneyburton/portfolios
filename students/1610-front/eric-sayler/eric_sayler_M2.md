@@ -477,7 +477,12 @@ consistent contact with mentors and other outside resources.
 
 ### Notes
 
-( Leave blanks for reviewers )
+Pending Number Guesser completion and Cold Emails/Company Tracker/Feedback paragraph
 
 ### Outcome
 
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 2 [Pending]
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 2 [Pending]
+* **E: Feedback & Community Participation**: 3

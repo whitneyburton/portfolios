@@ -21,9 +21,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## Rubric
 ## Instructor Evaluation Points: final-assessment
 ## Instructor: yung-jhun
+
 ## Comments:
 - you need to stick to structure.
 - psudo code a little more
+
 ### Progression/Completion
 
 * 3: Developer is able to implement solutions at the speed of a junior developer.
@@ -274,6 +276,7 @@ Chelle was on the brink of heading up to the mountains on more than one occasion
 * How can I imbue my work over the next week and next inning to be more "filled with purpose."
 
 ##### Reflection of difficult time at Turing:
+
 Having required a retake for mod 1 and being encouraged to repeat:
 At my portfolio defense I was terrified by the situation I found myself in, both at Turing, in general, and the internal conflict of whether it'd be in my best interest to repeat mod 1.  That is, until Louisa actually used the word 'grit'.  I believe that about myself.  This gear up reminds me of the resilience gear up on 9-4-16.  I believe these two characteristics are related.  
 I've played an instrument my whole life.  Three years ago I decided to teach myself guitar.  Being back in that place where I don't understand how it's possible to move 2 hands in 2 different directions and 10 fingers doing 10 different things.  Inconceivable!! (Princess Bride reference!)  I now do open mic sessions.  
@@ -287,10 +290,6 @@ Balance is everything and I'm constantly trying to find it...in everything.
 
 Imbue my work?
 I've finally found the sought-after obsession I've been looking for with programming.  It took a minute.  From the hardships of mod 1 being said, in nicer words, "I'm not good enough", all that's turned around since then.  Things are still insanely difficult, but do-able.
-
-
-
-
 
 ### Professional Development Workshops
 #### (Session Name)
@@ -335,6 +334,7 @@ Elijah is a centered, smart, and hard-working guy.  He tackles difficult concept
 Mike is the IDEAL collaborative partner.  He insists on clean code, thorough research, and presents himself in a cool, collected way that encourages growth from himself and others( meaning me, in this instance, of course).  Communication was a breeze, as Mike was always quick to respond which allowed for us to be on the same page at all times.  Additionally, Mike was able to show me some things that I wasn’t privy to, such as breaking out testing components.  He’s patient, positive, and demands only the best from himself.  I work would with Mike again in a heartbeat.  We put out a chat app that I’m proud to have completed with him as my partner. (edited)
 
 ### Being a Community Member
+
 #### FROM LAUREN PESCE
 Chelle helped me with my number guesser in react project, as well as other small problems throughout the mod. I completely appreciate how patient and understanding you are and gave me your full attention when I really needed it. You were able to make quick and thought out decisions to come up with intelligent solutions to my questions. Thanks for the support!
 #### FROM MARISSA REINKE
@@ -359,8 +359,16 @@ Participating in the Turing Community, for me, consisted of attending Friday Spe
 
 ### Notes
 
-( Leave blanks for reviewers )
+I want to see you give a conference talk.
+
+Don't forget to take breaks.
+
+Avoid jumping around in code, write some psuedo-code.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 3

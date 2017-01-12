@@ -108,10 +108,12 @@ We spent time making an elevator pitch for ourselves to use at networking events
 * [Personal Portfolio](https://devinmarieb.github.io/personal-portfolio/) - please don’t look at this.
 
 #### Management Strategies
+
 We used more waffle boards this mod which was great. They’re not a hard thing to set up and use, but it’s just not habit for a lot of us, so it was nice to get into the practice of it. I know we’re all supposed to try really hard to give each other usable feedback, but I really enjoyed working with all my partners and can’t really say much on how I changed the way I work in a team based on feedback. I know I always can do a better job at communicating in the moment and writing better commit messages / comments. I think in general, everyone’s workflow improved greatly this mod. We all tried really hard to write clear messages and make sure we commented on PRs and went through the steps of what it would be like on a team working separately not just a team sitting right next to each other all the time that knows exactly what every PR is for because we did it together. 
 
 
 ## E: Feedback and Community Participation
+
 ### Giving Feedback (feedback from me)
 Adam Rice: I really liked working on the 2DoBox project with you. I think you're really good at staying calm when things break and I can tell you really like to think through a problem before you try and implement it. We had originally planned to do a lot of the work together, but we ended up working on different parts of the project and combining our efforts to get it done. I actually think this worked out really well, especially since we did have a few opportunities to work together to solve some smaller problems and bugs.
 
@@ -125,6 +127,7 @@ Kenia Farias: I really enjoyed working with you on our budget app. I think we bo
 Eric Sayler: It was great working with you on our Firebase budget app. In fact, it's safe to say that your ability to understand Firebase docs really quickly let us move forward at a pace that allowed us to have a pretty sweet MVP (while helping other teams figure out Firebase too). One thing that I really like about the way you work is that you really try and make sure that the people you work with understand what's happening and why. I think we were all team players on this project and we did a really good job at staying calm under the pressure of the time crunch. My only piece of feedback is your communication at the beginning of this project. You should let your partners know if you're going to be absent so we don't drastically jump to the conclusion that you're dead!
 
 ### Being a Community Member (feedback to me)
+
 Adam Rice: Working with Devin on 2DoBox was a good experience. Devin was not afraid to make suggestions when pairing, take on difficult tasks solo when we decided to divide-and-conquer, and she was willing to ask for help from instructors and her mentor in times of crisis. I feel that Devin could benefit by taking short breaks every 20-30 minutes when working, as it seems she will power through several hours with no breaks. This made me as her partner feel pressured to not take breaks as often. Also, towards the end of the deadline I felt that Devin and myself did not do a good enough job communicating the improvements we would make on commits and the work would not be double checked before being merged. Over the course of the week-long project I was happy to learn that Devin is very patient, logical, modest about her abilities, and passionate about solving difficult problems.
 
 Sam Johnson: I thought you were a great partner on this project and I appreciate all the work you put in.  I felt like this was a really “big” project for us - doing a lot of stuff that was new/crazy - and I thought you were really good at partnering with me to make sure we were breaking stuff down into pieces and getting everything done.
@@ -157,8 +160,12 @@ Grit: It was good to reflect on how Turing brings out the grit in us. We had a l
 
 ### Notes
 
-( Leave blanks for reviewers )
+It's a pass. Crushed it this mod.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 3.5

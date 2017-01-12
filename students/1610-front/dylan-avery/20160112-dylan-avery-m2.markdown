@@ -443,10 +443,16 @@ I wanted to do Improv every week too, like I did in Mod1, but it seems like Jess
 
 ## Final Review
 
+Pass like woah.
+
 ### Notes
 
-( Leave blanks for reviewers )
+Seriously crushed it this mod. Really awesome what you've done with community participation. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
