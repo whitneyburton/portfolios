@@ -23,7 +23,7 @@ I am happy to say I have accomplished all of my goals! I feel much more comforta
 
 ## B: Individual Work & Projects
 
-I only ended up with one individual project in this module, as I ended up on the client project for my self-directed with one other person. I like to work alone sometimes, so I appreciated the chance to have API Curious in this module.
+I only ended up with one individual project in this module, as I worked on the client project for my self-directed with Anna Dolan. I like to work alone sometimes, so I appreciated the chance to have API Curious in this module.
 
 #### API Curious
 
@@ -56,7 +56,7 @@ Notes: -
 
 * **(4): Project completes all base requirements according to the spec harness.**
 
-** Technical Quality - Test-Driven Development**
+**Technical Quality - Test-Driven Development**
 
 * **(4): Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.**
 
@@ -125,7 +125,7 @@ This module, I was in one team with Megan both for Rales Engine as well as Clone
 *Feedback from Ali:*<br>
 I have greatly enjoyed each opportunity I’ve had to work with Megan.  On Cloney Island, Megan and I undertook the Twilio 2Factor Authentication. As someone who is often intimidated using new development tools it was great to work with Megan as she is calm and positive when facing challenges.  In addition, Megan undertook the tasks of giving ratings and assigning proposals which involved intricate database relationships. It was a lot of work, but Megan calmly pushed through until she found success.
 
-__**Feedback from me:**__
+__**Feedback from me:**__<br>
 *Feedback to Ryan:<br>*
 Ryan was such a great partner for this project. He was always very eager to help anyone and jump in on any aspect of the project. I know we all wish we had the time to deliver a more polished final product, but I know we wouldn't have made even close to the same progress without Ryan! He was also super understanding of everyone's schedules and commitments, which is always appreciated in a larger group project. I would gladly work with Ryan again in the future!
 
@@ -134,6 +134,8 @@ I loved the chance to work with Alisher again in Cloney Island! It was a very ch
 
 *Feedback to Ali:*<br>
 I felt so lucky to have a project with Ali during this module! She is always such a positive force on a team, and that was certainly the case for Cloney Island. We all tackled some tough new features, but Ali never let that get her openly frustrated with the group. Even though we all wished we had more time, I know that we  learned a ton throughout this project, which is obviously the most important thing.  I would eagerly work with Ali again any time!
+
+
 
 ## D: Professional Skills
 
@@ -206,17 +208,9 @@ Per deliverables, I have
 
 ## E: Feedback and Community Participation
 
-### Giving Feedback
+### Takeaway from my posse
 
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
-
-### Playing a Part
-
-(ways you supported the larger Turing community)
+I was again involved with the Bezos posse this module, and it was a great experience. I had more of a leadership role this module, and am planning to be and official leader next module. It was great to learn from the other students in our posse, particulary when we did sessions like user testing. We also had 3 guest speakers this module, but we had to reschedule 2 of them due to the snow. :( Last module, I asked my brother to come speak to us, and I think we will plan to ask him and a few more speakers to come next module as well. I appreciate being part of Bezos to get to know other entreprenurial minded students!
 
 ------------------
 
