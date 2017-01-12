@@ -19,6 +19,25 @@ I am happy to say I have accomplished all of my goals! I feel much more comforta
 
 ## A: End of Module Assessment
 
+**Ruby Style**
+
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+**Rails Syntax & API**
+
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+**Testing**
+
+* 3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.
+
+**Progression/Completion**
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+**Workflow**
+
+* 4: Developer commits every 15 minutes
 
 
 ## B: Individual Work & Projects
@@ -38,7 +57,7 @@ This was an ungraded project that focused on learning how to consume an external
 
 ### Projects
 
-(Intro)
+I worked on 3 group projects this module - Railes Engine, Cloney Island, and the self-directed (client) project. These projects were all very challenging and came with thier own unique challenges. Looking back on where I started on the first project, I am very impressed with my progress this module on projects!
 
 ### Rails Engine
 
@@ -135,6 +154,16 @@ I loved the chance to work with Alisher again in Cloney Island! It was a very ch
 *Feedback to Ali:*<br>
 I felt so lucky to have a project with Ali during this module! She is always such a positive force on a team, and that was certainly the case for Cloney Island. We all tackled some tough new features, but Ali never let that get her openly frustrated with the group. Even though we all wished we had more time, I know that we  learned a ton throughout this project, which is obviously the most important thing.  I would eagerly work with Ali again any time!
 
+
+### Self-Directed Project (Client) -- It Takes a Village
+
+* [GitHub URL](https://github.com/meganft/It-takes-a-village)
+* [Original Assignment](http://backend.turing.io/module3/projects/self_directed_project)
+
+I had the chance to work on the client project for the self-directed final project of the module. We started the group with 4 people, but it ended up only being Anna and me. I am happy with what we were able to accomplish in the 2 weeks we had, though I know both of us want to keep working to make it better! The project had a lot of new challenges, and I am confident when I say that we both learned a lot. Rachel, our client, has seemed very pleased with everything we have done, so I am happy with that as well. I appreciated the chance to work on this project!
+
+*Feedback to Anna:*
+I loved the chance to work with Anna again! Though this project started with 4 people, I was happy that Anna and I ended up sticking with it. I know we both hope we can contine working on this project to make to even better, but I am also very happy with where we ended up. Anna is a super hard worker and always gets her work done. She was very communicative with me, and we were effectively able to divide and conquer much of the work. When there was a particular challenege, however, she was always willing to pair with me so we could figure it out. I really enjoyed this project with Anna and hope it's not the end of it!
 
 
 ## D: Professional Skills
