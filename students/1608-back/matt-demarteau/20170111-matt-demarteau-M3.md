@@ -82,7 +82,7 @@ __Snow Travel__ We were tasks to create something from scratch that would solve 
 
 ### Projects
 
-We had a lot of group projects in module 3 and it was a very valuable experience to work in partnered projects, as well as projects involving 4 people.  The larger group projects were formatted for agile workflow and git collaboration.  I really thought it was good real world experience to work in a large group and learn how to each have a part of a project, but still not touch every piece or control the direction the entire time.  This led to a new experience of coding with others without knowing what they are working on, but still bring together a great deliverable at the end of the sprint.  I was lucky to work in some great groups and learn from my peers along the way.  
+We had a lot of group projects in module 3 and it was a very valuable experience to work in partnered projects, as well as projects involving 4 people.  The larger group projects were formatted for agile workflow and git collaboration.  I really thought it was good real world experience to work in a large group and learn how to each have a part of a project, but still not touch every piece or control the direction the entire time.  This led to a new experience of coding with others without knowing what they are working on, but still bring together a great deliverable at the end of the sprint.  I was lucky to work in some great groups and learn from my peers along the way.
 
 ### Rails Engine - Partner Project with Brad Green (github/bradgreen3)
 
@@ -122,7 +122,7 @@ __Project__ This was our first project to kick off the module and dive into new 
 * [GitHub URL](https://github.com/JStans12/stuff_box)
 * [Original Assignment](http://backend.turing.io/module3/projects/cloney_island)
 
-__Project__ This was our largest group and longest group project we have had yet at Turing.  It was structured with agile workflow in mind and the opportunity to experiment with challenges outside the scope of our typical projects.  I thought the project was most like a real world project and gave us the opportunity to see what an actual on the job project would be like.  My group was a group of very strong peers and I really enjoyed working on the project with them.  I was never worried about anyone missing out on the learning because everyone really took on the projects that they wanted to learn the most.  
+__Project__ This was our largest group and longest group project we have had yet at Turing.  It was structured with agile workflow in mind and the opportunity to experiment with challenges outside the scope of our typical projects.  I thought the project was most like a real world project and gave us the opportunity to see what an actual on the job project would be like.  My group was a group of very strong peers and I really enjoyed working on the project with them.  I was never worried about anyone missing out on the learning because everyone really took on the projects that they wanted to learn the most.
 
 ### Feature Delivery
 
@@ -162,7 +162,7 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 
 ## D: Professional Skills
 
-Since we are past the halfway point in the program, the professional skills deliverables were more focused on networking, job searching, and finding the right company to work for.  They really help us to learn about what to expect from a technical interview and how to reach out to other professionals to get information about the companies they know or are working for.  I really enjoyed the professionals they brought in from outside of Turing where we had a more intimate conversation about what to expect from interviews and our first attempts at getting into the industry.  I completed all the required gear up skills with my portfolio still to come in the gists in my github profile. 
+Since we are past the halfway point in the program, the professional skills deliverables were more focused on networking, job searching, and finding the right company to work for.  They really help us to learn about what to expect from a technical interview and how to reach out to other professionals to get information about the companies they know or are working for.  I really enjoyed the professionals they brought in from outside of Turing where we had a more intimate conversation about what to expect from interviews and our first attempts at getting into the industry.  I completed all the required gear up skills with my portfolio still to come in the gists in my github profile.
 
 ---
 
@@ -177,23 +177,23 @@ This was definitely the most controversial gear ups we had this module.  I think
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-This was a short gear up, but I still got a lot out of the exercise.  It made me realize how to take a look back at some of the problems you have solved or the progress you have made in the past and learn better ways to approach new problems.  I have never done a journey map before and enjoyed looking back at prior experience from my life.  You can really gain a lot from relooking re-experiencing a journey from a research standpoint. 
+This was a short gear up, but I still got a lot out of the exercise.  It made me realize how to take a look back at some of the problems you have solved or the progress you have made in the past and learn better ways to approach new problems.  I have never done a journey map before and enjoyed looking back at prior experience from my life.  You can really gain a lot from relooking re-experiencing a journey from a research standpoint.
 
 #### Grit Mindset
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-I think it is very important for you to have a great sense of grit expecially while at Turing.  There are many times when I would ether be burnt out or exhausted from the previous weeks work, and you had to show grit and tenacity to get through the next project.  This was a great topic to discuss throughout the tough weeks at Turing.  
+I think it is very important for you to have a great sense of grit expecially while at Turing.  There are many times when I would ether be burnt out or exhausted from the previous weeks work, and you had to show grit and tenacity to get through the next project.  This was a great topic to discuss throughout the tough weeks at Turing.
 
 ## E: Feedback & Community Participation
 
 ### Playing a Part
 
-* I was a part of the Bezos posse throughout this module.  I really enjoyed the posse this module.  We had some spikes where we would take someone elses pitch cards and make a pitch from their pitch cards trying to sell the project and working on delivery skills.  This was a spike that I really enjoyed because I have a fear of talking in-front of people, and this spike helped to get over some of those fears with practice.  We also had some great guest speakers this module.  I really like having intimate conversations with other business owners and think this was the original idea behind the Bezos posse.  Although this posse takes up most of the other spikes, I really enjoy the people who are in it and took advantage of participating in the group as much as I could. 
+* I was a part of the Bezos posse throughout this module.  I really enjoyed the posse this module.  We had some spikes where we would take someone elses pitch cards and make a pitch from their pitch cards trying to sell the project and working on delivery skills.  This was a spike that I really enjoyed because I have a fear of talking in-front of people, and this spike helped to get over some of those fears with practice.  We also had some great guest speakers this module.  I really like having intimate conversations with other business owners and think this was the original idea behind the Bezos posse.  Although this posse takes up most of the other spikes, I really enjoy the people who are in it and took advantage of participating in the group as much as I could.
 
-* Although I switched cohorts I feel that it is very important to keep the strong ties and bonds you have going with the cohort above me.  It was definitely a challenge not to be involved in the projects they took on, but we have a weekly lunch bunch that I would go to as much as I could to keep ties with my peers. 
+* Although I switched cohorts I feel that it is very important to keep the strong ties and bonds you have going with the cohort above me.  It was definitely a challenge not to be involved in the projects they took on, but we have a weekly lunch bunch that I would go to as much as I could to keep ties with my peers.
 
-* I also stepped in on the .bash_profile meeting setup by Ben Popper.  I enjoyed looking at customizing and helping some of the mod 1 students to get their computers customized as well. 
+* I also stepped in on the .bash_profile meeting setup by Ben Popper.  I enjoyed looking at customizing and helping some of the mod 1 students to get their computers customized as well.
 
 ---
 
@@ -201,7 +201,11 @@ I think it is very important for you to have a great sense of grit expecially wh
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 

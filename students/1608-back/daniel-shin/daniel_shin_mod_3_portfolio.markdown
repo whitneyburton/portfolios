@@ -266,8 +266,7 @@ This gear up was about having a combination of persistence and passion, calling 
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Development**: 3
-* **E: Feedback & Community Participation**: 
-
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
