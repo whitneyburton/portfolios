@@ -53,7 +53,7 @@ I used a binary search tree to sort scores and titles of movies from a text file
 Some functionality included sorting the movie data into a hash, finding the maximum
 and minimum scores in the tree, and determining the depth of of scores within the tree.
 
-## Assessed By: Mike
+#### Assessed By: Mike
 
 ## Notes:
 * Chock full of great recursive methods
@@ -94,7 +94,7 @@ The project will be assessed with the following rubric:
 
 CompleteMe was an autocomplete tree made from a re-trie-val tree / trie. It can import dictionaries, make suggestions based on sub-strings, and remember selected suggestions for future use.
 
-## Assessed By: Nate
+#### Assessed By: Nate
 
 Notes:
 - Coverage isn't at a really great number for the node class, but there's some redudancy in the file. I think the tests themselves are great.
@@ -133,7 +133,7 @@ Notes:
 Battleship was an interactive text-based game I made using Ruby. The game features an AI opponent, ship placement, shots firing, and the declaration of a winner.
 I used the principles of Test-Driven Development and Single Responsibility Principle to drive the development of the game.
 
-## Assessed By: Beth Sebian
+#### Assessed By: Beth Sebian
 
 Notes:
 * Some long methods, opps to extract features into smaller, testable methods
