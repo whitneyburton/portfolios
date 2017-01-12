@@ -64,6 +64,39 @@ Adam - It was great getting to work with Mike again on this project.  I know he 
 
 Ben - I was really happy to get to work with Ben again. He was great at getting the ball rolling and taking charge of our API calls and reduxing. Our group could have communicated more clearly at times, as we we occasionally stepped on eachothers’ toes with the work we were doing, but other than that, Ben’s the man, I’m sure he’ll go on to do great things!
 
+### Professional Development
+
+Top 3 priorities in job search
+
+  1. Find a job - this is the reason I came to turing!
+  2. Flexible hours - I'd like to not have to sit in rush hour traffic.
+  3. Showers - I'd like to run at lunch.
+
+### Gear Up
+
+ Micro Aggressions - I thought this one was interesting, there were people in my group that
+  were micro-agressing that didn't realize it, and it was rather eye opening
+
+ Journey Mapping - I thought this one was valuable because it was very similar user stories that
+  we have leanred to assist us with testing
+
+ Grits - I didn't agree with this session because I think that grit can be developed through
+  effort, which was not necessarily what the session discussed.
+
+### Cold outreach
+
+John Ives at Tahoma ventures
+
+Edwin at Ovetowork
+
+Betsy Doughty at Spectra Logic
+
+Kristos Tskilos at Apsis
+
+Ahmed Naguib at XITE
+
+Nick Serra Quick Left
+
 ### Being a Community Member
 
 Adam - Adam was really fun to work with! He really pushed me to try new things that I was hesitant to try at first, such as Vue.js - and I’m really glad we went that route. As always he’s a champ at design and css. He could have maybe gotten his hands on the Vue more, but this was probably more my fault for not explaining things very well than his - sorry about that, Adam! Ultimately, I was really happy that he pushed me on this one, and very happy with how it turned out.
