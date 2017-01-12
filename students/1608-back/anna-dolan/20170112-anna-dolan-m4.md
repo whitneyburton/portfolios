@@ -227,6 +227,8 @@ Erin Pintozzi: "Working with Anna is always a treat. Anna is passionate about he
 
 Jon Kimble: "It was great working with Anna on cloney island.  She showed a strong work ethic and technical skills and was a driving force in the completion of our project.  In addition to her technical skills Anna was an all around joy to work with on the project.  Even when things got hard she didn't let the stress effect her overall attitude!  She is also always willing to help and has a unique ability to make people feel comfortable about approaching her for a help and coming to a solution!"
 
+Vido Seaver: "Anna is a work horse. While working with her on Pinspiration I’d say she easily did as a much stuff as the rest of the group combined. Which was pretty incredible. We were getting pull requests from her from 7am until 11 pm everyday. Even when she said she wasn't going to be working she’d pull down cards and finish them. I struggled communicating with her and ultimately didn't think we really resolved the issue.  There was a lot of stress and while we passed in a working project I did not enjoy the group dynamic. As I mentioned to her halfway through the project I think they way in which she communicates could be improved by stopping and evaluating how she is coming across."
+
 #### It Takes A Village
 
 * [GitHub URL](https://github.com/meganft/It-takes-a-village)
