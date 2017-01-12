@@ -119,17 +119,24 @@ Video overview of Monocle: https://vimeo.com/199076606
 
 ###### 1. Project Management
 * 4: Team is using a project management tool and updating their progress daily.
+
 ###### 2. Completion & Pace
 * 3: Team is on track to complete all the user stories and requirements set by the client in timely manner.
+
 ###### 3. Implementation Quality
 * 3: Project demonstrates solid code quality and MVC principles.
+
 ###### 4. Application of Techniques
 * 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
+
 #### Sprint 2
+
 ###### 1. Project Management
 * 4: Team is using a project management tool and updating their progress daily.
+
 ###### 2. Completion & Pace
 * 3: Team is on track to complete all the user stories and requirements set by the client in timely manner.
+
 ###### 3. Implementation Quality
 * Create method in companies controller needs some refactoring.
 * Update in locations could use some refactoring. State could be brought into strong_params.
@@ -138,6 +145,7 @@ Video overview of Monocle: https://vimeo.com/199076606
 * Declaring flashes in different ways. I would decide as a team the preferred style and go with that for consistency.
 This score is close. I'd like to see more code review in PRs. I checked a couple and did not see any response or questions or suggestions.
 * 3: Project demonstrates solid code quality and MVC principles.
+
 ###### 4. Application of Techniques
 * 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
 
