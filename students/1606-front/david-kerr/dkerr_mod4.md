@@ -106,7 +106,8 @@ Roy Mellinger, CISO of Anthem
 Steve Linehan, ex-Treasurer Capital One
 Jeff Taggart, CTO of P2Bi
 Jeff Taggart, CEO of P2Bi
-**Graduation pending 2 emails due tomorrow
+Informational Interview, Jeff Taggart
+**Graduation pending 2-3? additional emails due tomorrow
 
 ## Review
 
@@ -116,9 +117,9 @@ Jeff Taggart, CEO of P2Bi
 
 ### Notes
 
-I attempted to engage in shaping the program but feedback was met with resistance and a dismissive tone by the organization.  I feel institutional defensiveness poisoned my Turing experience, culminating in a conversation with Jeff Casimir on Wednesday morning in which he told me he doesn't care about the specifics of the situation, and that if I didn't submit my emails (by the deadline which had not yet passed) I would be asked to drop out.  I mentioned my correspondence with Meg laid out my timeline and I might need an extra couple days to complete, given the constraints of the final week.  He pressed his original point about the value of cold outreach making it clear he was not hearing me when I said I hadn't missed any deadline and the issue was that we were having this conversation in general... After participating in multiple demo nights and actively participating in the community, I felt incredibly disrespected by how the situation was handled.
+I attempted to engage in shaping the program but feedback was met with resistance and a dismissive tone by the organization.  I feel institutional defensiveness poisoned my Turing experience, culminating in a conversation with Jeff Casimir on Wednesday morning in which he told me he doesn't care about the specifics of the situation, and that if I didn't submit my emails (by the deadline which had not yet passed) I would be asked to drop out.  I mentioned my correspondence with Meg laid out my timeline and I might need an extra couple days to complete, given the constraints of the final week.  He pressed his original point about the value of cold outreach making it clear he was not hearing me when I said I hadn't missed any deadline and the issue was that we were having this conversation in general... After participating in multiple demo nights and actively participating in the community, I felt incredibly disrespected by how the situation was handled.  Students, in a position where they have already quit jobs and taken out loans, have little to no leverage in these situations.  To the student, it feels like bullying.
 
-This will be my memory of the Turing community, how it meets any pushback with defensiveness over understanding, empathy, and an open conversation.
+I will submit my emails by Sunday, likely Saturday, maybe tonight if I have time.  
 
 I am eternally grateful to the staff, particularly the Front End staff who put together over 7 months a top notch curriculum. Constantly listening to feedback, understanding that nothing is perfect, and working tirelessly to give us tools to make us successful.  Sorry for not making this process easy for you guys, but I really appreciate you putting up with the headaches.
 
