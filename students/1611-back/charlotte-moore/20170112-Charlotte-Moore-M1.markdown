@@ -248,7 +248,12 @@ The Gear Ups and professional development sessions were really useful in terms o
 **(From:Me, To: Beth)**
 Your positive attitude helped me stay focused when I became really frustrated with this project. When I wanted to give up you were a great source of encouragement, and you really pushed me to keep going when it seemed like we weren't getting anywhere. I don't think our dynamic helped advance our project because we fed off of eachother's confusion and ended up going in circles a lot. I felt like we were on the same page for a lot of stuff, but we were on the wrong page and both of us had trouble seeing that. I think it was difficult for both of us to step back from the problem, which contributed to the mire we found ourselves in. You were great at seeking out help and improved your testing a lot over the course of this project. Despite the frustrations, it was great working with you.
 
+**(From: Me To: Ryan)**
+[Resume LinkedIn Feedback](https://drive.google.com/file/d/0B-4gck5WebSTTUtsd2RSWGxmblBjbThKbC0wUTNoUTlKUHdr/view?usp=sharing)
+
 ### Being a Community Member
+**(From: Ryan)**
+[Resume LinkedIn Feedback](https://drive.google.com/file/d/0B-4gck5WebSTLWVIakNqcF9BazJoRmNULXhYSENGbVFQZm1n/view?usp=sharing)
 
 **(From Casey)**
 t has been such a pleasure getting to know Charlotte, I'm so glad she's in our cohort! It was hard at first to feel connected to other people in Mod 1, but Charlotte and I quickly bonded over board games, and I've always felt like I've had an ally in the cohort ever since. I'm so looking forward to continue getting to know her over the net few months!
