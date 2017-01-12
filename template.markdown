@@ -18,7 +18,7 @@
 
 ## A: End of Module Assessment
 
-## [https://github.com/turingschool/front-end-submissions-public/blob/master/1611/mod-1/oop-assessment/krystin.md]Object (Oriented Programming Assessment) 
+## [https://github.com/turingschool/front-end-submissions-public/blob/master/1611/mod-1/oop-assessment/krystin.md](Object Oriented Programming Assessment) 
 ## Evaluator: Louisa
 
 ## Notes:
