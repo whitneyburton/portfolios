@@ -3,7 +3,11 @@
 
 ## Areas of Emphasis
 
-Mod 4, it seemed so long ago that I was in mod 1 and yet it seems like it was yesterday. I wanted to really work hard this mod and to finish strong. Little did I know just how hard we would be working, but I wouldn't change it for a thing. Our mod has been told many times how "resilient" and "performant" we are and I think we stepped up to the challenge in mod 4 and backed up both of those statements. My specific personal goals for this mod were pretty straight forward. I wanted to pass the final, learn JavaScript, and make strides in the job search. I passed the final, learned vanilla JS and some React, and made some good progress in my search for a job. I was very happy to have achieved all of these things during this module. I would have liked to have spent more time job hunting, but I did have some very helpful informational interviews, improved my resume, LinkedIn, and GitHub, and made some new professional connections. Something that I didn't necessarily set as a goal in the beginning of the mod, but I am glad to have worked on was the six-week brownfield project in a sprint style environment. I have been told over and over in informational interviews and meetUps that working on a project of that caliber is incredibly relevant to a real-life dev job. DevOps quickly became a focus of the module for me as well; once I took on that task with Sonia, there was no turning back. While frustrating at times, learning about and performing DevOps tasks was truly rewarding and definitely added value to my experience at Turing.
+Mod 4, it seemed so long ago that I was in mod 1 and yet it seems like it was yesterday. I wanted to really work hard this mod and to finish strong. Little did I know just how hard we would be working, but I wouldn't change it for a thing. Our mod has been told many times how "resilient" and "performant" we are and I think we stepped up to the challenge in mod 4 and backed up both of those statements. 
+
+My specific personal goals for this mod were pretty straight forward. I wanted to pass the final, learn JavaScript, and make strides in the job search. I passed the final, learned vanilla JS and some React, and made some good progress in my search for a job. I was very happy to have achieved all of these things during this module. I would have liked to have spent more time job hunting, but I did have some very helpful informational interviews, improved my resume, LinkedIn, and GitHub, and made some new professional connections. 
+
+Something that I didn't necessarily set as a goal in the beginning of the mod, but I am glad to have worked on was the six-week brownfield project in a sprint style environment. I have been told over and over in informational interviews and meetUps that working on a project of that caliber is incredibly relevant to a real-life dev job. DevOps quickly became a focus of the module for me as well; once I took on that task with Sonia, there was no turning back. While frustrating at times, learning about and performing DevOps tasks was truly rewarding and definitely added value to my experience at Turing.
 
 I am very proud not only of my work during the past six weeks of class, but of the last seven months as a whole. 
 
@@ -209,12 +213,15 @@ Original Assignment - [http://backend.turing.io/module4/projects/the-plan/assign
 
 #### Figaro
 
-* Link to PR [https://github.com/laserlemon/figaro/pull/258]
+* Link to Docs PR [https://github.com/laserlemon/figaro/pull/258]
 
 I have used Figaro alot in projects and think it is a very useful tool. It is very easy to use and has great docs, which is why I chose to make a Documentation PR to Figaro to include a helpful heroku command - heroku config - to display variables in the command line, very handy when deploying code to different environments and doing DebOps work, I probably typed heroku config 100 times this mod.
 
 And yes, they require a gif in every PR... according to [https://github.com/laserlemon/figaro/blob/master/CONTRIBUTING.md]
 
+* Reproducing an issue/commenting on open source [https://github.com/laserlemon/figaro/issues/247]
+
+I paired with Goss on a Figaro issue regarding Figaro's test suite which seemed easy at the time but turned out to be quite difficult. While we were successfully able to trace the issue, as seen by Goss's remarks we weren't able to quite solve the issue, but believe we know what is going wrong. This issue is something we will likely revisit, but will opt for the contriutions below as my code PR deliverable.
 
 #### Faker
 
