@@ -87,7 +87,6 @@ Testing: 3
 JS Style: 3
 Workflow: 3
 
-
 ## Community
 
 ### Giving Feedback
@@ -110,7 +109,7 @@ From Pete:
 Adam and I worked together on two projects this module. Working on game time with Adam was great. His strong math skills were a real asset that allowed us to work at a steady pace. An opportunity for Adam would be to work on breaking problems into smaller components. I think this would benefit himself as well as any of his future teammates. I found Adam to be a very strong problem solver but occasionally felt that we were trying to tackle too much at once. Overall I think we worked well together and was happy with the outcome of our projects.
 
 From Ben:
-I really enjoyed working with Adam. He had a great vision of where we needed to go with the project, and was very determined in making sure we had approached a problem from every angle before we got frustrated. Even when we’d get stuck on a problem for an entire class, Adam was very persistent in trying to find the issue, which made our dynamic work very well.
+I really enjoyed working with Adam. hi!He had a great vision of where we needed to go with the project, and was very determined in making sure we had approached a problem from every angle before we got frustrated. Even when we’d get stuck on a problem for an entire class, Adam was very persistent in trying to find the issue, which made our dynamic work very well.
 
 If there was anything that I’d say you could work on, it would just be to focus in on one small problem at a time. You were great at analyzing where we needed to go and what the project would look like overall, but sometimes we would both get caught up in looking at the entire project, rather than moving along with the smallest possible part. Once you get this down then you’ll be killing it!
 
@@ -129,9 +128,9 @@ https://gist.github.com/ab255/0bc6cb246b614c04dc2d5fcbba700684
 * **E: Peer & Instructor Feedback**: 3
 
 ### Notes
+Didn’t have any expectations, so was open to seeing what would happen. Had no idea what we were going to be doing. Javascript has been a cool exciting thing to get into.
 
-( Leave blanks for reviewers )
+Had hopes and dreams to b more involved in community things, but it has been a little tricky. Not sure how to dive in, wants to be more involved next module.
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
