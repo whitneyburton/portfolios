@@ -191,7 +191,38 @@ In this project we built upon a dataset centered around schools in Colorado prov
 
 (evaluation comments)
 
+	-109 tests all passing
+	-pass spec harness except one method which we talked about (not in spec)
+	-more robust testing needed
+	-some refactoring as well
+
 (evaluation scores)
+
+1.) Functional Expectations
+
+	2: Application has some missing functionality but no crashes
+	
+2.) Test-Driven Development
+
+	3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+	
+3.) Encapsulation / Breaking Logic into Components
+
+	3: Application effectively breaks logical components apart but breaks the principle of SRP
+	
+4.) Fundamental Ruby & Style
+
+	3: Application shows strong effort towards organization, content, and refactoring
+	
+5.) Enumerable & Collections
+
+	3: Application demonstrates comfortable use of appropriate Enumerable methods
+	
+6.) Code Sanitation
+
+	The output from rake sanitation:all shows...
+
+	4: Zero Complaints
 
 (feedback to me from Amara Lovato)
 
@@ -315,6 +346,7 @@ Alex has been an awesome pair to work with because of his personality and extrao
     -I always make myself availble to my peers for help. I enjoy it and it usually helps me understand what I'm teaching better.
     -I participated in the Name.com/Turing Hackathon. My group built a website that allows users to exchange unwanted Christmas gifts. It has you submit a gift you do not want and it randomly sends you someone else's regifted gift in return.
     -I am a member of the Maker/Turing Lab Posse. I got my hands on some arduinos and made some LEDs flash! Soon I will be kicking of a personal project here once a couple more parts arrive in the mail.
+    
 ------------------
 
 ## Final Review
