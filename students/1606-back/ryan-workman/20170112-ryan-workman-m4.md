@@ -104,7 +104,7 @@ Unlike Ruby, C# will not allow any program to run unless it meets the strict cri
 
 While I have not had as much practice or experience with C# as I have with Ruby, my initial exposure to the strongly-typed language has left me happy and wanting more. As I continue to learn and grow in my programming career, I'm excited to learn more strongly-typed languages and can't wait to see the amazing things that can be created in these languages.
 
-#### [Peer Review for Brian Heim](https://medium.com/@bheim67/rogue-bug-a-devops-story-1b83f6c1b1ce)
+#### Peer Review for Brian Heim's [Blog Post](https://medium.com/@bheim67/rogue-bug-a-devops-story-1b83f6c1b1ce)
 
 Overall, that was a great post Brian.  Coming to the article with a bit of back knowledge regarding DevOps, it was interesting to see how my experience compared with dealing with Heroku and playing by their rules.  As a bit of feedback, I would suggest adding more "to-do" elements and less personal experience.  While I know this may seem difficult at this early stage in our careers, it's important to remember that most people haven't done half of the stuff you've done and are therefore looking for how to accomplish what you accomplished.
 
@@ -185,11 +185,11 @@ Hey Dan.  It was great to get to work with you again after knocking out Little S
 
 #### From Jasmin:
 
-
+Ryan always manages to find very cool, yet somewhat complex, solutions to his problems. Even with that observation, he still manages to understand the impact of his choices and is relentless about continually improving how he tackles a problem until it is perfect. He might benefit from slowing down at times and planning out his entire direction before implementing something, but everyone has their own work styles, right? Overall, Ryan is a very passionate and caring person and will gladly explain any part of his process and let you slow him down if you need. His teamwork skills have always been impressive, but I'm really proud of the growth I've seen in him since module 1 and I'm very keen to see what he builds next being left to his own devices.
 
 #### From Dan:
 
-
+Ryan, I was really excited to get to work on another project with you.  Although it was only for the first week of the project, we still got some solid pairing time in.  We were working on what should have been a tedious task of database normalization, but we got into a great flow and it turned out being a lot of fun.  It was a combination of your positive fun personality and your killer technical skills that made it so enjoyable.  You’re an awesome programmer, and whatever company ends up hiring you will be lucky to have you on their team.
 
 ------------------
 
