@@ -246,6 +246,10 @@ I enjoy having Drew in our cohort, his friendly attitude and willingness to lear
 really enhances the experience of Turing. I look forward to working with, and 
 completing future projects at Turing with Drew.
 
+Daniel's Feedback to me: 
+
+Drew is a great person to work with. He always knows the right time to crack a joke whenever the group is starting to get flustered due to a difficult problem. He’s always willing to do whatever it takes for the team to be successful. He has a thorough understanding of most concepts which gives him the ability to fill in the gaps wherever the team needs him. He can explain what he’s thinking when he has a better understanding of something and he’s not afraid to speak up when he thinks we’re going down the wrong path. Having said all of this, I would encourage him to practice styling. There was a point during the project when we were paired together to style and we ended up wasting time and a not so good looking page.
+
 ## E: Community Participation
 
 Attended every Gear-up and as many posse meet-ups as I could. Paired with Module 1 students when they signed up for my pairings. Collaborated positively with several of my classmates at many times during Mod 2. I was always available to help people. I was particularly popular for requests for help during Job Tracker.
