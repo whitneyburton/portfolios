@@ -247,7 +247,7 @@ Noah was an excellent person to pair with. He is very knowledgeable and always m
 
 
 ### Playing a Part
-At the beginning of the mod I was nominated for SAB. 
+At the beginning of the mod I was nominated for SAB. In SAB I've advocated for our cohort and pass out surveys which I then hand on to Allison. I also contacted Lia to see if my father, Troy Peden, would be a good candidate to be a guest speaker, and he is now on track to speak sometime in the coming months.
 
 ### Gear Up
 
