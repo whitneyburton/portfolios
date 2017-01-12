@@ -10,7 +10,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
+* **C: Group Work & Projects**: 3
 * **D: Professional Development**: X
 * **E: Feedback & Community Participation**: X
 
@@ -91,20 +91,24 @@ REDID THE HOT AND TOP FUNCTIONALITY TO UPDATE PROGRESS TO A 3.
 
 ### Projects
 
-(Intro)
+For the final mod, we were given one project that lasted the entire six weeks.  We were divided up into groups of four or larger and used agile develpment strategies throughout the six weeks.  We used Pivotal Tracker to manage the project, keep track of our current sprint, progress, and ideas for future features.
 
-#### (Monocle)
+#### Monocle
 
 * [GitHub URL](https://github.com/danbroadbent/monocle)
 * [Original Assignment](http://backend.turing.io/module4/projects_overview)
 
-(description)
+Monocle is meant to be a job hunt research tool.  When our team took over the project, it was just a barebones Rails app that allow users to sign in through Slack, view a list of companies, and search by city.
 
-(evaluation comments)
+Since Monocle is a tool where all the team members are also the intended users, we got to put a lot of our own input as to how it should look and behave.  The first set of features we developed revolved around allowing user generated content.  Students are always discovering new companies that might be hiring grads and we wanted to give them the ability to add those to the database.  To ensure that the companies that we being added are good quality and accurate, after they are submitted, they are sent to a queue for review by either a moderator or an admin.
 
-(evaluation scores)
+The next big phase of the project was displaying company information in a compelling way.  We decided that the best format would be something similar to Airbnb, with company information cards that look like LinkedIn.  We implemented a two column layout with filters to narrow your company search down on the left, and a map view with pins of companies on the right with the companies listed underneath the map.
 
-(feedback to me)
+The final phase of the project was taking our new javascript skills and applying them to what we had already done.  For the homepage, the company filters were changed to javascript using jQuery and ajax to filter down companies without reloading the page.  On the companies detail page we used the same technology to make starring companies and adding notes to companies work fully without reloading the page.
+
+The most difficult part of the project for me was working on making the company notes have full CRUD functionality with javascript.  It was the most difficult because javascript was new to us this module and we just didn't have the same familiarity that we do with Rails.  It was a really fun project and I can't wait to see what future teams will add to it.
+
+Video overview of Monocle: https://vimeo.com/199076606
 
 #### (Open Source Contribution)
 
