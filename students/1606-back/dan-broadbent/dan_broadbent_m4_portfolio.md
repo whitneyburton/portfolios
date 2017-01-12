@@ -149,6 +149,12 @@ To Ryan Workman: "Ryan, I was really excited to get to work on another project w
 
 From Susi Irwin: "You stepped up on day 1 and offered to PM the project. Kudos to you for that! I admire your ability to stand up for your opinions to the tech leads and present the facts as you seem them, back them up with evidence and present your case. You never get emotional about it, you simply state what you know, what you see, and your proposed outcome. You have amazing communication skills both written and spoken. You present yourself in a professional manner but still know how to sit back and joke around when the timing is right. Pairing with you on the Notes section of the project was great. Thank you for trusting me to struggle through some bugs and knowing when to step in and offer guidance and support. You are a natural leader and it was great working with you again."
 
+From Nate Anderson: "Dan, it was really great that we finally got to work on a project together. I feel like we both
+have a very similar demeanor and that showed during our pairing time together, which was always really productive
+and enjoyable. You were a fantastic project manager and were able to keep us organized and moving forward even
+when at times during the project we didn't feel like we had much guidance. I would definitely enjoy working with you
+again and am interested to see what you do beyond Turing."
+
 From Ryan Workman: "Hey Dan.  It was great to get to work with you again after knocking out Little Shop together.  Your growth since Module 2 is astounding.  Your laid back style and easy-going personality is an asset to any team, not to mention your technical strength.  While we only got to work together for the first week of the module, pairing with you to change the database normalization and fixing failing tests was great.  I know that whatever happens over the next few months out of Turing, you will go far in your career.  Keep in touch!"
 
 ### Playing a Part
