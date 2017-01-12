@@ -251,6 +251,9 @@ Your positive attitude helped me stay focused when I became really frustrated wi
 **(From: Me To: Ryan)**
 [Resume LinkedIn Feedback](https://drive.google.com/file/d/0B-4gck5WebSTTUtsd2RSWGxmblBjbThKbC0wUTNoUTlKUHdr/view?usp=sharing)
 
+**(From: Me To: Mark)**
+When I was feeling really defeated about Battleship you sat with me and Max and helped us put our dissapointment in perspective. It was so incredibly helpful for me to hear that, from an outsider's perspective, it seemed like I was doing well. The encouragement was invaluable, and helped me adjust my attitude. I felt so much better after that conversation. I know that you struggled a lot this mod and I think that your attitude will help you through the rest of your time here. Thanks for the support. 
+
 ### Being a Community Member
 **(From: Ryan)**
 [Resume LinkedIn Feedback](https://drive.google.com/file/d/0B-4gck5WebSTLWVIakNqcF9BazJoRmNULXhYSENGbVFQZm1n/view?usp=sharing)
