@@ -12,7 +12,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 * **A: End-of-Module Assessment**: 3.35
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
 * **D: Professional Development**: 4
 * **E: Feedback & Community Participation**: 4
 
@@ -26,7 +26,7 @@ Evaluator: Sal
 Student: Amy
 Subjective evaluation will be made on your work/process according to the following criteria:
 * 1. Conceptual Understanding = 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
- * 2. Analytic/Algorithmic Thinking = 3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+* 2. Analytic/Algorithmic Thinking = 3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
 * 3. Feature Completeness = 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
 * 4. ActiveRecord Syntax and Style = 3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
 * 5. Rails Style = 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
