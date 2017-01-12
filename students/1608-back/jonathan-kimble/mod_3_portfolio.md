@@ -187,7 +187,11 @@ My main take aways from Bezos this mod are the friendships and community I have 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: ?
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 

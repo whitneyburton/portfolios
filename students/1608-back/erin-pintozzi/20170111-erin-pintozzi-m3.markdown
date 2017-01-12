@@ -393,7 +393,11 @@ I've also been an active participant in the Bezos posse. I've participated in a 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
