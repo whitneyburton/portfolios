@@ -204,8 +204,25 @@ Since Goby went so quickly, we decided we wanted to do knock out more coding and
 ## E: Feedback & Community Participation
 
 ### Peer Feedback
+>_**From Calaway/Capstone Team Member:**_
+I'm very happy to have gotten the opportunity to work with Jasmin on Census this module. She has had a well deserved reputation in our cohort for being incredibly organized and a master in project management. After working closely with her over the past 6 weeks I can confidently say that these abilities are absolutely matched by her technical, communication, and teamwork skills.
 
->_From Ryan Workman/OSS Contribution Partner:_
+>On the non-technical side, I very much appreciate cultural ideas that Jasmin brings to the table. Anybody would know from speaking with her that she is very educated on social issues that affect us all. I believe that having someone on a development team who can speak so eloquently about such things will make your product better for the end user by making software while keeping in mind the diverse range of people who will be using it.  
+
+>Overall, Jasmin has been an indispensable part of this project. I can say that I have found myself a better developer for having worked with her, and more than that I am happy to be able to call her a friend.
+
+---
+
+>_**From Bryan Goss/Capstone Team Member:**_
+You were a huge asset to our team in several areas. I'm sure our staging and production environments would be a lot more convoluted without your contributions.
+
+>I'm not sure why this happens but we often got into a feedback loop where, I think, we both try to clarify or apologize for a possible offense. Some times I'm not sure what I do to get us into those, but I have never gotten the impression that you had some problem with me, so I'm not sure what we're tiptoing around. In fact I have had the most fun during Turing on the occasions were we've hung out.
+
+>You put in a lot of work and our projects show it! I hope we find ways to keep in touch after Turing.
+
+---
+
+>_**From Ryan Workman/OSS Contribution Partner:**_
 Jasmin, we worked together on the open source contribution.  I have been excited to work with you since day one.  Throughout our time at Turing, all of your former group members raved over your coding ability and leadership skills.  After spending a few hours working on implementing new features on the open source projects, I can confirm that you live up to the high standards set by others.  You are amazing at breaking down problems into smaller chunks and finding elegant solutions using those atomic pieces.  Overall, your technical and managerial skills are the best I've worked with; I will say, however, it's important to keep in mind other people's work styles.  Some may find your style a bit abrasive and shut down.  But like I said, overall, you have an amazing skill set and will definitely go far as you begin your journey in the technical world.
 
 ---
