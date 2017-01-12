@@ -155,6 +155,8 @@ and enjoyable. You were a fantastic project manager and were able to keep us org
 when at times during the project we didn't feel like we had much guidance. I would definitely enjoy working with you
 again and am interested to see what you do beyond Turing."
 
+From Brendan Dillon: "It has been great working with you on Monocle. Your ability to see a useful finished product is incredibly important and impressive. It is even more impressive that you were able to articulate this and argue for or against features that would impact the final product. Throughout the project, you did a really good job at keeping the communication in the team going and reviewing code. You brought an infective sense of easygoing friendliness to the team, as well. I look forward to seeing what you are able to create with your sense for a good project in the future."
+
 From Ryan Workman: "Hey Dan.  It was great to get to work with you again after knocking out Little Shop together.  Your growth since Module 2 is astounding.  Your laid back style and easy-going personality is an asset to any team, not to mention your technical strength.  While we only got to work together for the first week of the module, pairing with you to change the database normalization and fixing failing tests was great.  I know that whatever happens over the next few months out of Turing, you will go far in your career.  Keep in touch!"
 
 ### Playing a Part
