@@ -119,7 +119,7 @@ https://gist.github.com/kctrlv/8310822865002b8d4d6632522815758f
 
 * From Raphael:
 
-> TBD
+> Working with David throughout my time at Turing has been one of the most rewarding and fun experiences. I have learned a lot from him, and I am glad we have been able to share those experiences with each other. He gives me a sense of ease, and it allows me to work in a much more relaxed and stress free way. I love pairing with him because I never feel judged and I feel like we both contribute a lot to each other's way of working. He is in my opinion one of the most technical savvy classmates I have, and I am glad I shared this experience with him. Can't wait to see what the future holds for you David, surely amazing things are about to come your way !
 
 ## Final Assessment (Andrew)
 
