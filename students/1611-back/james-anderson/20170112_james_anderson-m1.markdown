@@ -8,7 +8,7 @@ For Module 1 I set out to build a strong foundation in Ruby. As a total beginner
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -306,4 +306,4 @@ I have spent many long hours in the basement getting to know lots of different p
 
 ### Outcome
 
-PROVISIONAL
+PROMOTED
