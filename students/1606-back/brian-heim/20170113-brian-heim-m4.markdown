@@ -79,20 +79,17 @@ React is a javascript library that
 #### ReactBox 
 
 * [https://github.com/bheim6/api_curious]
-* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md]
 
 __Project__ description:
 
-API Curious focuses on consuming and working with public API data. The premise is to re-construct a simplified version of an existing site using their own API. For this project, I chose to use GitHub.
+
 
 #### ReactRouter 
 
 * [https://github.com/bheim6/api_curious]
-* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md]
 
 __Project__ description:
 
-API Curious focuses on consuming and working with public API data. The premise is to re-construct a simplified version of an existing site using their own API. For this project, I chose to use GitHub.
 
 ---
 
@@ -244,11 +241,10 @@ This was a good Gear up as well. The discussion our group had was meaningful and
 
 ### Playing a Part
 
-* Armstrong Posse - I contributed during the creation of our linear regression app, and some lesson plans and participate regularly in posse meetings and discussions. Along with Jean Joeris created an app and built a neural net from scratch which will be used as a learning resource/example for the posse.
-* Regularly empty dishes and load/run dishwashers in big workspace
+* Armstrong Posse - I contributed during the creation of our linear regression app, and some lesson plans. I participated regularly in posse meetings and discussions and aided posse leads in facilitating many sessions (firday spikes, meetings, lunches). Along with Jean Joeris created an app and built a neural net from scratch which will be used as a learning resource/example for the posse - update: Our presentation for MOTB won the Turing final Demo Day!
+* Regularly empty dishes and load/run dishwashers (RIP) in big workspace
 * Organized disc-golf outings with the #disc-golfers channel
 * Served as a Pre-Work Guide for incomming students
-
 
 ---
 
