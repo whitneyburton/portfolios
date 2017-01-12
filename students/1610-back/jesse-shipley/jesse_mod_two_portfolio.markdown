@@ -24,7 +24,39 @@ Find the rubric near the end of this document.
 
 ## A: End of Module Assessment
 
-Add your notes and scores here.
+Evaluator: Casey
+
+Student: Jesse
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+1. Conceptual Understanding
+
+ * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
+
+2. Analytic/Algorithmic Thinking
+
+ * 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+
+3. Feature Completeness
+
+ * 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+
+4. ActiveRecord Syntax and Style
+
+ * 3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+
+5. Rails Style
+
+ * 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
+
+6. Testing
+
+ * 3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
+
+7. Collaboration
+
+ * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ## B: Individual & Group Work
 
@@ -259,11 +291,13 @@ From Marisa:
 #### Feedback from Little Shop
 
 From Brett:
+  Jesse is a natural leader and problem solver that balances what needs to be said with what needs to be done, to motivate the entire team.  I really appreciated that when things came up in your home life that would keep you from communicating with the group you let us know about how long you would be unreachable, hopefully you don't need to go change flat tires too often, but when you do letting the team know you are unreachable is valuable.
 
 From David:
+  Jesse you were the calming wind of the group, you injected humor into every conversation which was vital to maintaining group moral.  In terms of your contributions to the groups workload I couldn’t help but notice that you constantly volunteered to do any issue that came up on the waffle board and were always eager to be a second set of eyes. In other words keep doing what your doing and you’ll go far. It was a pleasure and an honor to have completed little shop with you.
 
 From Ethan:
-
+  Jesse: I was under the impression we’d always have new teammates, so it was a pretty nice surprise to work with you again. As with last time, I think it’s pretty cool that we can split work as effectively as we do—on whatever schedule we have to be on—and totally trust each other to get the work done. I also happen to be a little too reliant on dad jokes myself, so it’s been fun to have so much dry, sarcastic, and unfunny humor flying around the group all the time.
 #### Other Feedback for me
 
 From Drew:
