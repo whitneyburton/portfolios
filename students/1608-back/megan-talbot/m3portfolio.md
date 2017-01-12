@@ -12,7 +12,7 @@ I am happy to say I have accomplished all of my goals! I feel much more comforta
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
-* **D: Professional Skills**: 4
+* **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
 -----------------------
@@ -164,6 +164,9 @@ I had the chance to work on the client project for the self-directed final proje
 
 *Feedback to Anna:*<br>
 I loved the chance to work with Anna again! Though this project started with 4 people, I was happy that Anna and I ended up sticking with it. I know we both hope we can contine working on this project to make to even better, but I am also very happy with where we ended up. Anna is a super hard worker and always gets her work done. She was very communicative with me, and we were effectively able to divide and conquer much of the work. When there was a particular challenege, however, she was always willing to pair with me so we could figure it out. I really enjoyed this project with Anna and hope it's not the end of it!
+
+*Feedback from Anna:*<br>
+I was really happy to get to work with Megan again on the client pitch project. She is a really hard worker, and an easy person to work with. She is very flexible and open to ideas, and we were successful both in pairing and in splitting up work. I also appreciate that Megan is quick at working through problems, and she is always a good second set of eyes when bugs or frustrations come up. I hope we will get to continue work on our project in mod 4, because I know that the two of us can create a really wonderful finished product.
 
 
 ## D: Professional Skills
