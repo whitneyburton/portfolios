@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I came into this Module after having a hard time with my process in the previous module.  I was falling behind because I was not as fast at some of the setup work as my peers were.  During the evaluations, I was failing to finish the work eventhough I knew the material.  I really tried to work personally on my process this module to gain speed in accomplishing some of task faster.
+I came into this Module from the previous module after having a hard time with my process.  I was falling behind because I could not complete the setup work for projects as fast as my peers.  During the evaluations, I was failing to finish the work even though I knew the material.  I really tried to work personally on my process this module to gain speed in completing the project tasks faster.
 
 ## Rubric Scores
 
@@ -54,14 +54,14 @@ Subjective evaluation will be made on your work/process according to the followi
 
 ## B: Individual Work & Projects
 
-Much of module 3 was comprised of group projects, but I did get the chance to work on my final project individualy and was proud of how much I learned in the module to put together the final project on an individual basis.  I was part of a group that took a chance to learn something new during our other individual project called api curious.  I enjoyed working with a company outside of Turing and looking at great examples of proffessional code, but the project turned out to have too complicated to solve for the short time we had and we ended up pivoting to the old project halfway through.  I learned a lot about JSON Web Token (JWT) and security involved in sending and receiving data from an api, and was proud of handrolling the Reddit api request.
+Much of module 3 was comprised of group projects, but I did get the chance to work on my final project individually and was proud of how much I learned in the module to put together the final project on an individual basis.  I was part of a group that took a chance to learn something new during our other individual project called api curious.  I enjoyed working with a company outside of Turing and looking at great examples of professional code, but the project turned out to have too complicated to solve for the short time we had and we ended up pivoting to the old project halfway through.  I learned a lot about JSON Web Token (JWT) and security involved in sending and receiving data from an api, and was proud of handrolling the Reddit api request.
 
 ### API-Curious - Reddit
 
 * [GitHub URL](https://github.com/MDes41/api_curious_reddit)
 * [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
 
-__Reddit__ For this project we were tasked to build a basic subreddit browser.  A user would then be able to authenticate with their Reddit acount, view their basic info, and view their list of subreddit subscriptions.  It proved to be a very challenging project that I enjoyed working on.
+__Reddit__ For this project we were tasked to build a basic subreddit browser.  A user would then be able to authenticate with their Reddit account, view their basic info, and view their list of subreddit subscriptions.  It proved to be a very challenging project that I enjoyed working on.
 
 * This project was not graded
 
@@ -72,7 +72,9 @@ __Reddit__ For this project we were tasked to build a basic subreddit browser.  
 * [GitHub URL](https://github.com/MDes41/snow_travel)
 * [Production URL](https://stark-spire-60038.herokuapp.com/)
 
-__Snow Travel__ We were tasks to create something from scratch that would solve a problem with our programming skills that would bring together all that we have learned.  It was great to get the option to do anything we wanted and I learned that a small project can turn into something very technical in a short time.  One strict requirement that we had to abide by was that our application had to make some sort of api call.  I chose something that I am pasionate about, which is skiing and reporting of snow storms.  I built a rails app that would get a JSON 16 day forecast and anaylized the results to present the forecast in a way that would be easy to analyze which moutains where getting snow and what to expect from the next two weeks across those mountains.
+__Snow Travel__ We were tasks to create something from scratch that would solve a problem with our programming skills that would bring together all that we have learned.  It was great to get the option to do anything we wanted and I learned that a small project can turn into something very technical in a short time.  One strict requirement that we had to abide by was that our application had to make some sort of api call.  I chose something that I am passionate about, which is skiing and reporting of snow storms.  I built a rails app that would get a JSON 16 day forecast and analyzed the results to present the forecast in a way that would be easy to analyze which mountains where getting snow and what to expect from the next two weeks across those mountains.
+
+* Grade to come at the end of the module
 
 ---
 
@@ -160,38 +162,38 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 
 ## D: Professional Skills
 
-Since we are past the halfway point in the program, the professional skills deliverables were more focused on networking, job searching, and finding the right company to work for.  They really help us to learn about what to expect from a technical interview and how to reach out to other proffessionals to get information about the companies they know or are working for.  I really enjoyed the proffessionals they brought in from outside of Turing where we had a more intimate conversation about what to expect from interviews and our first attempts at getting into the industry. 
+Since we are past the halfway point in the program, the professional skills deliverables were more focused on networking, job searching, and finding the right company to work for.  They really help us to learn about what to expect from a technical interview and how to reach out to other professionals to get information about the companies they know or are working for.  I really enjoyed the professionals they brought in from outside of Turing where we had a more intimate conversation about what to expect from interviews and our first attempts at getting into the industry.  I completed all the required gear up skills with my portfolio still to come in the gists in my github profile. 
 
 ---
 
 ### Gear Up
-#### Microaggressions 101: Building Understanding
+#### Micro aggressions 101: Building Understanding
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
 
-This was definitely the most controversial gear ups we had this module.  I think these gear ups are great for discussion.  Many times coming from the background that I have, I do not realize what others might be going through in their journey.  Although, I think these topics are so hard to solve, the first step is knowledge.  Just to be more aware of your and others environment is esential to setting up a safe space for others to grow.  I think that Turing does a great job bringing these tough topics to students at Turing and appreciate the gear ups that involve tough topics.
+This was definitely the most controversial gear ups we had this module.  I think these gear ups are great for discussion.  Many times coming from the background that I have, I do not realize what others might be going through in their journey.  Although, I think these topics are so hard to solve, the first step is knowledge.  Just to be more aware of your and others environment is essential to setting up a safe space for others to grow.  I think that Turing does a great job bringing these tough topics to students at Turing and appreciate the gear ups that involve tough topics.
 
 #### Journey Mapping
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-This was a short gear up, but I still got a lot out of the exercise.  It made me realize how to take a look back at some of the problems you have solved or the progress you have made in the past and learn better ways to approach new problems.  I have never done a journey map before and enjoyed looking back at prior experience from my life.  You can really gain a lot from relooking reexperiencing a journey from a research standpoint. 
+This was a short gear up, but I still got a lot out of the exercise.  It made me realize how to take a look back at some of the problems you have solved or the progress you have made in the past and learn better ways to approach new problems.  I have never done a journey map before and enjoyed looking back at prior experience from my life.  You can really gain a lot from relooking re-experiencing a journey from a research standpoint. 
 
 #### Grit Mindset
 
 * [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-I think it is very importanct for you to have a great sense of grit expecially while at Turing.  There are many times when I would ether be burnt out or exhausted from the previous weeks work, and you had to show grit and tenacity to get through the next project.  This was a great topic to discuss throughout the tough weeks at Turing.  
+I think it is very important for you to have a great sense of grit expecially while at Turing.  There are many times when I would ether be burnt out or exhausted from the previous weeks work, and you had to show grit and tenacity to get through the next project.  This was a great topic to discuss throughout the tough weeks at Turing.  
 
 ## E: Feedback & Community Participation
 
 ### Playing a Part
 
-* I was a part of the Bezos posse throughout this module.  I really enjoyed the posse this module.  We had some spikes where we would take someone elses pitch cards and make a pitch from their pitch cards trying to sell the project and working on delivery skills.  This was a spike that I really enjoyed because I have a fear of taliking infront of poeple, and this spike helped to get over some of those fears with practice.  We also had some great guest speakers this module.  I really like having intimate conversations with other business oweners and think this was the original idea behind the Bezos posse.  Athough this posse takes up most of the other spikes, I really enjoy the people who are in it and took advantage of participating in the group as much as I could. 
+* I was a part of the Bezos posse throughout this module.  I really enjoyed the posse this module.  We had some spikes where we would take someone elses pitch cards and make a pitch from their pitch cards trying to sell the project and working on delivery skills.  This was a spike that I really enjoyed because I have a fear of talking in-front of people, and this spike helped to get over some of those fears with practice.  We also had some great guest speakers this module.  I really like having intimate conversations with other business owners and think this was the original idea behind the Bezos posse.  Although this posse takes up most of the other spikes, I really enjoy the people who are in it and took advantage of participating in the group as much as I could. 
 
-* Although I switched cohorts I feel that it is very important to keep the strong ties and bonds you have going with the cohort above me.  It was definitaly a challenge not to be involved in the projects they took on, but we have a weekly lunch bunch that I would go to as much as I could to keep ties with my peers. 
+* Although I switched cohorts I feel that it is very important to keep the strong ties and bonds you have going with the cohort above me.  It was definitely a challenge not to be involved in the projects they took on, but we have a weekly lunch bunch that I would go to as much as I could to keep ties with my peers. 
 
-* I also stepped in on the .bash_profile meeting setup by Ben Popper.  I enjoyed looking at customizing and helping some of the mod 1 students to get their computers customized as well. \
+* I also stepped in on the .bash_profile meeting setup by Ben Popper.  I enjoyed looking at customizing and helping some of the mod 1 students to get their computers customized as well. 
 
 ---
 
