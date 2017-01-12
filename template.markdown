@@ -8,8 +8,6 @@
 
 ## Rubric Scores
 
-Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
-
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
@@ -20,7 +18,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ## A: End of Module Assessment
 
-## Object Oriented Programming Assessment 
+## [https://github.com/turingschool/front-end-submissions-public/blob/master/1611/mod-1/oop-assessment/krystin.md]Object (Oriented Programming Assessment) 
 ## Evaluator: Louisa
 
 ## Notes:
