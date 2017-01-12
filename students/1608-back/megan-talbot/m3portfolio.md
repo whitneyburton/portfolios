@@ -79,15 +79,15 @@ Notes: -
 
 * **(4): Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.**
 
-**3. Code Quality**
+**Code Quality**
 
 * **(3): Project demonstrates solid code quality and MVC principles.**
 
-**4. API Design**
+**API Design**
 
 * **(4): Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.**
 
-**5. Queries**
+**Queries**
 
 * **(4): Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.**
 
@@ -209,7 +209,6 @@ This was an exercise adapted from "What Color is Your Parachute", and it focused
 #### Job Search Strategies
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/job_search_strategies.md)
-* [Link to Completed Deliverables]()
 
 We focused a lot on scheduling for the job search in this session, which made it both useful and intimidating. I implemented a job search schdule for myself this module, and I have tried to stick to it. I plan to focus even more on this through intermission week and into mod 4!
 
@@ -217,7 +216,6 @@ We focused a lot on scheduling for the job search in this session, which made it
 #### Innovative Problem Solving 
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
-* [Link to Completed Deliverables]()
 
 This was a session with Allison where we focused on building creativity and new ways to approach problem solving. I didn't make a pitch after this session since I knew  I was hoping to work on the client project, and we were told it was uncessary if this was the case. However, it was still useful to go through the process of brainstorming and asking critical questions about our ideas. 
 
@@ -225,10 +223,9 @@ This was a session with Allison where we focused on building creativity and new 
 #### Interviewing
 
 * [Workshop URL]()
-* [Link to Completed Deliverables]()
 
 I really enjoyed this session. It was great to have an external speaker come in who is in charge of hiring. He was honest and clear in his suggestions, and I will always rememmber them.
-Per deliverables, I have 
+See more information below!
 
 
 #### Deliverables:
