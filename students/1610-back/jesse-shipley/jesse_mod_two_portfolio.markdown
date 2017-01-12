@@ -14,7 +14,7 @@ Also the concept of least surprise with Ruby seems to impress me every day, as I
 
 Find the rubric near the end of this document.
 
-* **A: End of Module Assessment**: X
+* **A: End of Module Assessment**: 4
 * **B: Individual & Group Work**: 3
 * **C: Professional Skills**: 3
 * **D: Feedback**: 4
@@ -61,8 +61,8 @@ scores here
 * 4: Excellent use of branches, pull requests, and a project management tool.
 
 ### Individual Projects
-
-#### [Job Tracker](https://github.com/Sh1pley/job-tracker)
+#### [Job Tracker](https://salty-beyond-62079.herokuapp.com/dashboard)
+##### [repo](https://github.com/Sh1pley/job-tracker)
 
 1) Database, Relationships, and Migrations
 
@@ -146,15 +146,112 @@ I have reached out to contacts at companies like: HyprLoco, CaptainU, Granicus, 
 
 ### Giving Feedback
 
-(feedback from me)
+#### Feedback for Bike Share:
+Annie:
+  Annie was amazing as a group partner in our Bike Share project. I always enjoyed
+her upbeat attitude in class, and eagerness to bond and become friends as a large class.
+This attitude was even more apparent in a group of four. She immediately found ways to
+make everything more exciting. Her planning, preparedness and strong technical toolset
+was vital to the progress of our project.
+
+Although stress of the project and short timeframe got to all of us, Annie remained
+as good natured and upbeat as she always is. Annie was irreplaceable as a member of our group
+and without her I feel our learning and satisfaction in the journey would have suffered.
+
+I would love to work with Annie again on a future project. Her happiness and ability to make 
+everyone feel included is an amazing trait that really makes our cohort better as a whole.
+
+Laszlo:
+  Working with Laszlo was an outstanding experience.
+His inviting approach to tutoring, guidance and overall team work was 
+really refreshing to have in our first larger group project.
+
+His attitude and enthusiasm never shifted even when things were getting busy/stressful.
+He made it a point to be in charge of keeping us smiling, and in an upbeat mood.
+He did this without fail, even when he might not have been in the mood to.
+
+I would love to work with Laszlo again in a future project, and his ability
+to include everyone in our group into every bit of our project really encompasses
+what Turing is about.
+
+Marisa:
+  Marisa was a great group partner on our Bike Share project. As a group we were all 
+very new to building a functioning web app, with a user experience. Inspite of all
+the new ideas and concepts, Marisa really dove in and tackled many aspects that were
+foreign to us. Through all of her hard work, she was an outstanding communicator and
+great to work with. 
+
+I found her sense of humor, and genuine love for programming really set a mindset
+with us all, that this was a project we could be proud of. I would
+welcome the opportunity to work with Marisa again in a future project. Her 
+attitude, focus and want for success really was important to group moral and 
+the pride we all had in the end product.
+
+#### Feedback for Little Shop
+
+Brett:
+
+David:
+
+Ethan:
+
+
+#### Other Feedback
+
+Drew:
+  Drew and I paired on many class assignments, including our project Job Tracker.
+Drew brings alot of technical capability and ideas to programming and this cohort.
+He never shys away from challenging his knowledge with code, and is outstanding 
+at expressing his thought processes while programming.
+
+I enjoy having Drew in our cohort, his friendly attitude and willingness to learn 
+really enhances the experience of Turing. I look forward to working with, and 
+completing future projects at Turing with Drew.
+  
 
 ### Being a Community Member
 
+#### Feedback from Bike Share
+
+From Laszlo:
+  Great working with you on the Bike-Share project! I appreciated very much that you set the tone with your calmness for the team. Besides that always ready to listen to all the opinions and decide on the next steps.
+You did a great job of pushing through the “ugly” pieces, such as CSV import, which never seems to be a popular choice.
+I loved the fact that following our technical discussions, you still put in effort to research a subject further to understand it as best as possible.
+
+Positive highlight:
+Staying calm through the entire time
+
+Actionable item:
+As a PM, please try to use your position to drive progress. In case there is a deadlock, such as picking topics, jump in and pick topics for everyone. That would trigger progress and further discussion if needed to adjust assignments.
+
+From Annie:
+  Jesse is a dedicated and enthusiastic team member. He served as project manager and was the solid foundation that made our group so successful. He is one of the most even-headed people I have ever encountered, which was so valuable when the stress of the project got tough. On top of the pressure of Turing, he has many outside responsibilites that he seemd to juggle effortlessly. He's a wonderful community member and I'm so glad to have him on my team.
+  
+From Marisa:
+  Jesse was so much fun to work with. He was so hardworking and focused on learning and finishing the difficult iterations we handed off to him. Jesse is such a team player, and is a quick, analytical learner. Even when we are stressed, he is always there to crack a joke and make everyone feel a little more relaxed. He is great at showing support, appreciation, and open to asking for help when he needs it. I really enjoyed working with and would work with him again.
+
+#### Feedback from Little Shop
+
+From Brett:
+
+From David:
+
+From Ethan:
+
+#### Other Feedback for me
+
+From Drew:
+  Jesse is a great person to pair with. He brings limitless knowledge, as well as attained knowledge from his mentor that helps profusely. He comes up with excellent ideas, but is also open to hearing/trying other ideas. He is a good friend and a good guy. I honestly have no room for improvement feedback to give him.
+  
+From Molly:
+  Hey Jesse! I was looking for you this morning to tell you in person, but I just wanted to say that I thought your lightning talk this morning was *awesome*. I feel like you are the first person I have seen at Turing so far give a lightning talk the right way, in that you picked a small topic and dug into it in a though-provoking way. I plan on doing my best to try to do it your way in the future
 
 
 ## E: Community Participation
 
-How did you actively contribute to the Turing community?
+This module, I wanted to give back to the beginning Cohort. I really enjoyed the way pairing from module 2 to module 1 was presented to us and the learning and growth I was able to achieve by using fellow students at Turing. I gave 2 to 3 time slots each week for the first 4 weeks of this module. Only stopping when our work load started picking up and I felt like I was slipping behind. 
+
+I structured my pairing in the best possible way to teach and drive 'answer finding' instead of 'answer giving'. I thought the methods taught early on were presented in the same way and served as a way to show us that anything is findable with a little effort. 
 
 ------------------
 
