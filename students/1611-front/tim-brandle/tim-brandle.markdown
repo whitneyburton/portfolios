@@ -197,7 +197,8 @@ Grit was a great compliment to the Growth Mindset session There were a lot of di
 ## Professional Development Workshops
 ###Personal Branding
 
-[Resume](https://resume.creddle.io/resume/gt787dr5ukz);
+[Resume](https://resume.creddle.io/resume/gt787dr5ukz)
+
 [LinkedIn](https://www.linkedin.com/nhome/)
 
 ## E: Feedback and Community Participation
