@@ -171,11 +171,11 @@ Looking for a place with:
 
 ####Petal 6: Preferred Place to Live
 * Denver
+* New York City
 * Steamboat/Aspen
-* New York Community
 
 ####Petal 7: My Goal/Purpose/Mission in life
-My goal is to always be seeking avenues of growth and knowledge and to use that knowledge to become really good at design and development. Both of these things take empathy, compassion, creativity, a growth mindset and lifelong practice. I chose both of these fields because they are always changing and growing and I love to be challenged. Eventually I would love to give this knowledge back by teaching or mentoring.
+My goal is to always be seeking avenues of growth and knowledge and to use that knowledge to become the best I can be at design and development and use these skills in avenues of entrepreneurship. Both of these things take empathy, compassion, creativity, a growth mindset and lifelong practice. I chose both of these fields because they are always changing and growing and I love to be challenged. Eventually I would love to give this knowledge back by teaching or mentoring.
 
 ### Gear Up
 
@@ -202,6 +202,8 @@ Another module with the Verou Posse being under Chelsea's and Lacey's leadership
 
 Great job running the posse for another mod! It's been a great part of the Turing community, and filled a real gap.
 
+Chelsea and Lacey are an incredible team. I always love participating in the Verou posse and I truly think they have done a great job with organizing and leading the group. They are always positive, hard working, and approachable. Thanks for putting together an amazing posse you two!
+
 ### Playing a Part
 
 * I attended morning coffee with the Joane Clarke Society on Tuesdays and intend on continuing to attend when I can. I enjoy getting to know ladies from other modules and feeling like I have a support group of women.
@@ -212,7 +214,7 @@ Great job running the posse for another mod! It's been a great part of the Turin
 ###Goals
 
 For mod3
-* Create workback schedule for job hunt
+* Create work-back schedule for job hunt
 * Set clear weekly goals for applications, technical interview prep, and networking
 * Focus on being more active
 * Finish my portfolio over intermission week
