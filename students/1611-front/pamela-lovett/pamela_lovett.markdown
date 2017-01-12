@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-For this module, my goal was to establish a strong foundational knowledge in JavaScript, HTML, and CSS. I came into the program having done a fair amount of coursework on sites like CodeAcademy. I completed all of the pre-work and also read Eloquent JavaScript in its entirety. Despite this, I still felt like there was much that I could do in terms of approving my understanding of all three things listed above.
+For this module, my goal was to establish a strong foundational knowledge in JavaScript, HTML, and CSS. I came into the program having done just a small amount of coursework on sites like CodeAcademy. I completed all of the pre-work and also read Eloquent JavaScript in its entirety. Despite this, I still felt like there was much that I could do in terms of approving my understanding of all three things listed above.
 
 ## Rubric Scores
 
@@ -70,13 +70,13 @@ Collaboration
 
 Individually, I completed the following projects:
 * Penguin Party
-* Mythical Creatures
-* Static Comp 1 and 2 - (will be finished 3 in the next week)
+* Mythical Creatures (on Centauy)
+* Static Comp 1 and 2 - (3 will be finished in the next week)
 
 #### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [https://github.com/thatPamIAm/number-guesser]()
+* [http://frontend.turing.io/projects/number-guesser.html]()
 
 We were required to build a game where the user guesses a number between 1 and 100.
 
@@ -111,12 +111,38 @@ Fundamental JavaScript
 
 ### Projects
 
-(Intro) 
+(Intro)
 
-#### (Project Name)
+#### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [https://github.com/becs919/linked-list]()
+* [http://frontend.turing.io/projects/linked-list.html]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### Idea Box
+
+* [https://github.com/thatPamIAm/idea-box]()
+* [http://frontend.turing.io/projects/ideabox.html]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### Game-Time
+
+* [https://github.com/stacimcwilliams/game-time]()
+* [http://frontend.turing.io/projects/game-time.html]()
 
 (description)
 
