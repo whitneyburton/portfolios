@@ -248,7 +248,6 @@ https://github.com/turingschool/gear-up/blob/master/grit.markdown
 
 This module I continued the tradition of cleaning out the fridges every Friday. I participated in Try Turing on a couple of occasions, and offered emotional support to struggling Mod 1 students (I know what it's like to be in their shoes). I also paired with Mod 1 students throughout the module. I gave a lightning talk on the Fourth Amendment and Electronic Privacy on the last Friday of the module.
 
-
 ---
 
 ## Final Review
