@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I set out to build on my fundamental HTML and CSS skills and develop working knowledge of JavaScript. JavaScript was entirely new to me coming into the program so I knew I would need to spend majority of my time focusing on it. Additionally, I wanted to achieve a better understanding of how all three languages work together in front end development. A few weeks into the mod it was clear that I also need to spend some time working on my personal workflow and utilize tools like spectacle to help me be more efficient and organized.
+I set out to build on my fundamental HTML and CSS skills and develop working knowledge of JavaScript. JavaScript was entirely new to me coming into the program so I knew I would need to spend majority of my time focusing on it. Additionally, I wanted to achieve a better understanding of how all three languages work together in front end development. A few weeks into the mod it was clear that I also needed to spend some time working on my personal workflow and utilize tools like spectacle to help me be more efficient and organized.
 
 ## Rubric Scores
 
@@ -160,6 +160,8 @@ Collaboration
 
 #### Game Time
 
+[DTR](https://docs.google.com/document/d/1h11_DDxWJmGHpo3HiizfQacit6e9ws435MVP2NUqVJQ/edit?usp=sharing)
+
 Evaluator: Robbie
 
 Notes:
@@ -204,11 +206,13 @@ The concept of growth mindset was entirely new to me. I was very intrigued by th
 * [LinkedIn](https://www.linkedin.com/in/charlesldunn/)
 * [Resume](https://drive.google.com/file/d/0B_m6zSjWLypQLTdtY1VBdEJRWjQ/view)
 
-(takeaways from session)
+It was really helpful to get some clarity on my LinkedIn profile. There are so many different job sites these days that I never really know what is actually a good use of my time. Getting feedback on my resume was very helpful as well. I've never had to create a resume for a technical job so it was really helpful to hear what recruiters and people in the industry look for and expect to see on a resume.
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
+
+Feedback for Megan:
 
 • What did you like about working together?
 
@@ -222,28 +226,42 @@ Really nothing at this point. We haven't done projects together, but working wit
 
 Strengths: Very collaborative and dedicated. It's evident how much you care about learning the material. Your CSS has come a long way from the beginning of the program so keep it up!
 
-Weaknesses: It seems like the object oriented javascript poses a bit of a challenge at times (as it does for me). The abstract thinking is very difficult and I know we struggled through mythical creatures together early on. It's create to see the strides you've made over the last several weeks.
+Weaknesses: It seems like the object oriented javascript poses a bit of a challenge at times (as it does for me). The abstract thinking is very difficult and I know we struggled through mythical creatures together early on. It's great to see the strides you've made over the last several weeks.
 
 What do you think I can improve on?
 
 • Keep crushing the javascript problems.
 
+---------------------
+
+Feedback for Lisa:
+
+Overall it was a pleasure working with you on ideabox. I know you're feeling pretty overwhelmed and a little discouraged right now, but your willingness to stay engaged and talk through problems is incredibly helpful.
+
+Stay vocal and keep asking questions to solidify the fundamentals. It's very clear that you are committed to learning and it makes working with you enjoyable.
+
+Keep grinding!
+
+
 ### Being a Community Member
 
-##### Positive
+Feedback from Lisa:
+
 * Great collaborator. Generous with his time. Dilligent in his focus on problem solution. Fast with CSS and HTML.
 
+* Accept your skill level and be verbally confident in your skill base.
+
+Feedback from Tim:
 
 * This was a crazy project and it was great to work with a partner that was on the same wave length. There were really frustrating times working through canvas, but you were patient and worked long hours with me, which I appreciated. Canvas and JS aside, I think you definitely have a strength in CSS. There was minimal CSS in the project, but it seemed really comfortable with positioning and styling. You also have a strong understanding of JS creative thinking on how to solve problems.
-
-##### Areas for improvements
-* Accept your skill level and be verbally confident in your skill base.
 
 * I think the speed of your workflow could improve by learning about and using all the shortcuts in Atom.
 
 ### Playing a Part
 
-I wasn't particularly active in the larger Turing community this module, but it something I am going to stress going forward. I tried to make myself available either through slack or being on campus to collaborate with other people as much as possible.
+This module I joined the Verou Posse, which proved to be valuable and interesting. It was cool to get some exposure to more advanced javascript and meet people from other mods. I also participated in a few of the lunch roulette sessions which was another nice way to meet people in the turing community.
+
+Going forward I am going to try to get more involved with meetups and hackathons to further entrench myself in the community.
 
 ------------------
 
