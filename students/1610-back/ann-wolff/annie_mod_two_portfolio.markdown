@@ -23,9 +23,6 @@ Find the rubric near the end of this document.
 ##### 1. Conceptual Understanding
 
  * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
- * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
- * 2: Developer demonstrates some gaps in understanding when asked for additional detail
- * 1: Developer has fundamental misconceptions about Rails, MVCs, the web, or related topics
 
 ##### 2. Analytic/Algorithmic Thinking
 
