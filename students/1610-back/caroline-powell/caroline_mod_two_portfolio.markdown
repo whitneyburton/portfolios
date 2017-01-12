@@ -146,7 +146,8 @@ It was a huge advantage for the rest of us to have you (and your experience with
 
 **How did you actively contribute to the Turing community?**
 
-* [Git and GitHub Tutorial for Mod 1](https://github.com/CPowell23/github_tutorial): Ben Pepper and I led a Friday spike Git and GitHub tutorial for Mod 1 so that they didn't have to go through the gitastrophies that our classes experienced in Mod 1.
+* [Git and GitHub Tutorial for Mod 1](https://github.com/CPowell23/github_tutorial)
+  --Ben Pepper and I led a Friday spike Git and GitHub tutorial for Mod 1 so that they didn't have to go through the gitastrophies that our classes experienced in Mod 1.
 * Created the Hamilton Posse along with Amara Lovato
   -- Set up a field trip for students to attend the local WeWork coworking space
   -- Set up a field trip to the Boulder TechStars incubator (will happen in March)
