@@ -125,7 +125,9 @@ TBD
 
 *-To Nick Erhardt*
 
-TBD
+This was my first time and a privilege to get to work with Nick. Nick worked with developers before coming to Turing and you can really tell how much knowledge he obtained from that experience. He has an excellent grasp of Ruby and Rails and is a master of TDD. I really appreciated him taking so much time to explain topics to me that I was unfamiliar with. My knowledge greatly increased in this project as a result. It was also a privilege to have an industry guru on the team to answer questions about "the real world" and best practice industry norms for high-quality professional developers.
+
+I also have to say that he has great leadership skills. He helped facilitate several team discussions on important decisions and I thought it was very helpful and effective.
 
 ### Being a Community Member
 
