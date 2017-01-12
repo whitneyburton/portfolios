@@ -7,10 +7,10 @@ I came to Turing with three years of programming experience and I really wanted 
 ## Rubric Scores
 
 * A: End-of-Module Assessment: 4
-* B: Individual Work & Projects: 4
+* B: Individual Work & Projects: 3
 * C: Group Work & Projects: 3
 * D: Professional Development: 3
-* E: Feedback & Community Participation: 2
+* E: Feedback & Community Participation: 3
 
 -----------------------
 
@@ -205,4 +205,4 @@ I did not do any pairings with higher mod students, attend any of the Friday mor
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
