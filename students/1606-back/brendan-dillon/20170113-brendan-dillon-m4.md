@@ -113,6 +113,8 @@ This workshop gave me some insight as to how to make a blog post useful for its 
 
 I wrote a blog post on my open source contribution, which is linked in the Individual Projects section above. Dan Broadbent gave me this feedback- "Great job, I really enjoyed reading it, you made some difficult concepts easy to understand."
 
+#### [The Plan](https://gist.github.com/brendandillon/332450cb20a7eb3a81ad056859fa9510)
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
