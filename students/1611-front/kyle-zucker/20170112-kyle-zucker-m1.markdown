@@ -239,11 +239,11 @@ Chelle is great! I appreciated her enthusiasm and helpfulness in our pairing ses
 Bucket's got it. His progress has been phenomenal and his work ethic goes far beyond most. His ability to take a problem and make it his own and find his own way thru it is inspiring. Don't hold back. If you think you can do it, then do it. If you think you can't do it, then do it anyway. 
 
 
-### Being a Community Member
-
-Working with you has been really great. You make it easy to make your skillset that is above my own as a benefit to my own education instead of me feeling like I am holding you back. I appreciate you pushing me and love our game!
+### Being a Community Member (Receiving Feedback)
 
 Kyle is a rockstar. I am so impressed with his knowledge and coding abilities. He is able to think of and implement coding solutions that are elegant and concise. Thanks for your help during this mod kyle.
+
+Working with you has been really great. You make it easy to make your skillset that is above my own as a benefit to my own education instead of me feeling like I am holding you back. I appreciate you pushing me and love our game!
 
 
 ### Playing a Part
