@@ -17,19 +17,19 @@ Weekly job prep activities:
 -----------------------
 
 ## A: End of Module Assessment  
-* Overall nice arrangement of POROs
-* Accessing an array by index is a bit confusing (SearchController#index). How would you refactor?
-* Good use of serializer
-* BestBuyService is in need of refactoring. How would you do that?
-* Internal API tests look thorough. See more accessing an element in an array using the index (items[0]). How would you refactor this to read more clearly and be more meaningful to future developers?
-* Search feature test should probably check for stores count. "returns 15 stores within a 25mi radius" but content of the test doesn't check for that. Be sure your test descriptions match what is being tested.
-* Clear understanding of the core concepts of B3 and the big picture. Only minor stylistic blemishes to clean up.
+* Overall nice arrangement of POROs  
+* Accessing an array by index is a bit confusing (SearchController#index). How would you refactor?  
+* Good use of serializer  
+* BestBuyService is in need of refactoring. How would you do that?  
+* Internal API tests look thorough. See more accessing an element in an array using the index (items[0]). How would you refactor this to read more clearly and be more meaningful to future developers?  
+* Search feature test should probably check for stores count. "returns 15 stores within a 25mi radius" but content of the test doesn't check for that. Be sure your test descriptions match what is being tested.  
+* Clear understanding of the core concepts of B3 and the big picture. Only minor stylistic blemishes to clean up.  
 
-**3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components**
-**3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.**
-**3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.**  
-**3: Developer is able to implement solutions at the speed of a junior developer.**  
-**4: Developer commits every 15 minutes**  
+**3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components**  
+**3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.**  
+**3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.**    
+**3: Developer is able to implement solutions at the speed of a junior developer.**    
+**4: Developer commits every 15 minutes**    
 
 
 ## B: Individual Work & Projects
