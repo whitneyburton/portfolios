@@ -9,11 +9,11 @@ I think it is undeniable that my main area of emphasis for module 4 is to prove 
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ---
 
@@ -21,7 +21,31 @@ I think it is undeniable that my main area of emphasis for module 4 is to prove 
 
 _FEEDBACK NOTES_
 
+- Missing partial functionality from 4 and 5
+- Missing any testing for create and edit link. Expecting controller tests.
+- Javascript is kind of verbose, but it shows troubleshooting and problem solving
+- ^^^ The above things have been addressed and corrected 
+
 _EVAL NOTES_
+
+### 1. Satisfactory Progress
+* **3: Developer completes sections 1 through 5 minor bugs and no missing functionality.**
+
+### 2. Ruby & Rails Style & API
+* **3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+### 3. Javascript Syntax & Style
+* **3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+### 4. Testing
+* **3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.**
+
+### 5. User Interface
+* **3: The application has many strong pages/interactions, but a few holes in lesser-used functionality**
+
+### 6. Workflow
+* **4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.**
+
 
 ---
 
