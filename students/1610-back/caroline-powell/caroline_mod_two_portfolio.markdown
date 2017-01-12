@@ -6,15 +6,15 @@
 
 At the beginning of module 2 we took some time to write down what we wanted to get out of the module personally and professionally and how we wanted to grow as a community member. I wrote this on that day:
 
-* Technically: I want to start developing some personal projects. Before we weren't ready, but we're about to be.
-* Personally: In Mod 1 I had to focus on myself just to get through, but in Mod 2 I want to feel more on top of things so that I can give back and help others more.
-* As a Community Member: Since my first week at Turing I've been saying that I want to do all these things, but in Mod 2 I want to actually do them instead of just talking about it (e.g. start a posse, visit the TechStars Incubator, get an internet copyright lawyer to come speak on a Friday).
+* _Technically_: I want to start developing some personal projects. Before we weren't ready, but we're about to be.
+* _Personally_: In Mod 1 I had to focus on myself just to get through, but in Mod 2 I want to feel more on top of things so that I can give back and help others more.
+* _As a Community Member_: Since my first week at Turing I've been saying that I want to do all these things, but in Mod 2 I want to actually do them instead of just talking about it (e.g. start a posse, visit the TechStars Incubator, get an internet copyright lawyer to come speak on a Friday).
 
 So how did I do on these things?
 
-* Technical Goal: I have started developing some personal projects, but they're not as far along as I would like them to be. I'd like to use the intermission break to make some real progress on this.
-* Personal Goal: I'd say I did a good job. I paired with people and took time to help others through problems when I knew how to solve them. I also led a Friday spike Git and GitHub tutorial for Mod 1 along with Ben Pepper and created an online [repo](https://github.com/CPowell23/github_tutorial) for students to refer to so that they didn't have to go through the gitastrophies that our class experienced in Mod 1.
-* Community Member Goal: I think I did an awesome job on my community member goal this mod. Amara Lovato and I created the Hamilton posse that will officially start after the break, but we did already start some activities. The github tutorial was a posse endeavor, we set up a field trip for students to attend the local WeWork coworking space, we're sending a large group on a field trip to the Boulder TechStars incubator in March, and I set up an internet copyright lawyer to come speak on a Friday morning. I hope we can keep making this much progress next Mod!
+* _Technical Goal_: I have started developing some personal projects, but they're not as far along as I would like them to be. I'd like to use the intermission break to make some real progress on this.
+* _Personal Goal_: I'd say I did a good job. I paired with people and took time to help others through problems when I knew how to solve them. I also led a Friday spike Git and GitHub tutorial for Mod 1 along with Ben Pepper and created an online [repo](https://github.com/CPowell23/github_tutorial) for students to refer to so that they didn't have to go through the gitastrophies that our class experienced in Mod 1.
+* _Community Member Goal_: I think I did an awesome job on my community member goal this mod. Amara Lovato and I created the Hamilton posse that will officially start after the break, but we did already start some activities. The github tutorial was a posse endeavor, we set up a field trip for students to attend the local WeWork coworking space, we're sending a large group on a field trip to the Boulder TechStars incubator in March, and I set up an internet copyright lawyer to come speak on a Friday morning. I hope we can keep making this much progress next Mod!
 
 ## Self-Evaluated Rubric Scores
 
