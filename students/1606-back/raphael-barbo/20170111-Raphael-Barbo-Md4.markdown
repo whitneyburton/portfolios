@@ -103,33 +103,16 @@ There are actually still improvements to be made to our communication and workfl
 _EVAL SCORES_
 
 ### 1. Project Management
-
 * **4: Team is using a project management tool and updating their progress daily.**
-* 3: Team is using a project management tool to keep their project organized.
-* 2: Team is using a project management tool but didn't update the progress frequently.
-* 1: Team failed to use a project management tool to track its progress.
 
 ### 2. Completion & Pace
-
-* 4: Team is on track to complete all stories and has tracked/completed chores and/or laid out future stories.
 * **3: Team is on track to complete all the user stories and requirements set by the client in timely manner.**
-* 2: Team is on track to complete a subset of user stories after an approved cutting of the work scope.
-* 1: Team is not on track to complete the agreed-upon stories.
 
 ### 3. Implementation Quality
-
-* 4: Project demonstrates exceptionally well factored code.
 * **3: Project demonstrates solid code quality and MVC principles.**
-* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
-* 1: Project demonstrates poor factoring and/or understanding of MVC.
 
 ### 4. Application of Techniques
-
-* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
 * **3: Project has implemented one major technique from the previous two weeks of academic classes.**
-* 2: Project has an implementation in progress of one major technique from the previous two weeks of classes.
-* 1: Project has a plan to implement a technique from academic classes.
-
 
 _PEERS FEEDBACK_
 
@@ -150,18 +133,18 @@ _PEERS FEEDBACK_
 ### Deliverables
 #### Flower Exercise Follow-Up Paragraphs
 
-###### 1-2 paragraphs describing your perceived barriers and the action steps you will take to overcome them
+##### 1-2 paragraphs describing your perceived barriers and the action steps you will take to overcome them
 
 > I often time hesitate to apply for jobs because of the qualifications required, and one of the biggest changes I have noticed on myself is that I am looking at them from a different perspective. "Yeah I am not have all the qualifications, but I sure as heck can learn anything", and that has opened up some doors and interviews recently.
 
-###### 1 paragraph describing my top 3 priorities in my first dev job and why
+##### 1 paragraph describing my top 3 priorities in my first dev job and why
 
 > I think as far as my first job goes, one of my top priorities is definitely the size of the company that I will be working for. I’ve worked at companies that were smaller and although I appreciated the experience I've learned that is not quite my thing. As a junior developer I am looking for mentorship above anything else.My second priority is definitely staying in Colorado, my wife and I moved here December 2015 and I since she was born and raise in Boulder, we would like to stay around the area (or should I say it is not an option to move anywhere else). Last but def not least important is benefits over salary, I would much rather work for a company with great benefits rather than getting paid big bucks (of course I know what I am worth) but still benefits are important for me since I am planning on having a family sometime next year.
 
 #### Blog Post & Peer Review
 
 * [Link to post](https://medium.com/@rsbarbo/the-guide-to-becoming-a-software-developer-trust-me-you-can-do-this-a703ea5b88e7#.7rmhf2ujs)
-* [Link to peer review]()
+* [Link to peer review](https://gist.github.com/rsbarbo/c0bc3954c2b7bf7ea93a6abbbebb3fc3)
 
 ---
 
@@ -185,11 +168,31 @@ This gear up was great because we were able to have it within our own cohort. We
 
 This gear up really solidified a term that I never really related to my life. In my life I have been very resilient, but I never knew that's what it was. Now, I know what it is, and me and my group talked about techniques to be more resilient in my every day life.
 
+
+### Six Cold Outreach Emails 
+
+1. **Chelsea Worrel | Octvi** - I wanted to get in touch about her company (since I am interested in applying for a position when they have an opening), and know more about her job search experience and any hints she could possibly give me.
+
+2. **Kyle Henson| Huron** - Kyle Henson is a software developer at My Rounding Solutions, I contacted via LinkedIn (week 2) and followed up during week 3 about a job application I had submitted for Junior PM position at Huron. 
+
+3. **Jim Ray | CaptainU** - I had spoken with him before, and we talked about getting in touch once I was getting closer to graduate. He has agreed to grab coffee some time during our break week (between Christmas and New Year), he will look over my resume, and give me some ideas on how approach job search and opportunities.
+
+4. **Ian Douglas | Stream** - I had three pairing sessions with Ian @ Stream. The first was a casual (informal) lunch in Boulder to go over resume, connecting with people in the industry,etc... The second and third one was working on a Ruby application they needed help with at GetStream. It was a great experience to get to work in a real world code-base and see the challenges that it entails.
+
+5. **Linda Hall | Leprino Foods** - I sent cold email to Linda at the beginning of December about a position of Web Developer they had open at their company. One week later I received an email from her asking me if I would be interested in coming in for an interview and learn more about their company and the department. Although I loved the company, its technology is not in par with the current market (most WordPress | PHP stuff) and I did not believe I would be a good fit for the company at this time.
+
+6. **Mark Evans | SnapTeam** - I sent Mark a cold outreach email at the beginning of Module 4. He was super welcoming and easy to talk to. Mark has given a lot great advises on how to approach the job search and technical interviews (he is a G2 grad), and he even opened up an opportunity for me to interview with his company in Boulder.
+
 ---
 
-## E: Feedback & Community Participation
+## E: The Plan
 
-### Helping Module 2/3
+
+---
+
+## F: Feedback & Community Participation
+
+### Helping Modules 2 & 3
 
 - Provided some assistance to students from previous modules, whether on a project that they were working on, or just a clarification. 
 
