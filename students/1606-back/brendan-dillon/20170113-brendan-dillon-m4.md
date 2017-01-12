@@ -18,7 +18,6 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ## A: End of Module Assessment
 
-```
 Notes:
 
 * missing link title validation
@@ -69,7 +68,7 @@ Notes:
 * 2: The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
 * 1: The developer commited the code to version control in only a few commits. The evaluator cannot determine the evolution of the application.
 * 0: The application was not checked into version control.
-```
+
 
 
 ## B: Individual Work & Projects
@@ -97,6 +96,62 @@ The group project for this module was definitely an exercise in figuring out how
 * [Video](https://vimeo.com/199076606)
 
 Monocle is a job-tracking app. We started with a brownfield project, as Calaway built out a CRUD app for jobs. We added admin functionality, AJAX filtering, an interactive Google map, AJAX starring, AJAX notes, a way to display data from the LookingFor service and persist jobs that a user had starred into our database, and the ability to log in with the Census application.
+
+### Scores
+#### Accessor:  Andrew Carmer
+
+#### Team:
+
+* Susi
+* Dan
+* Brendan
+* Nate
+
+#### Sprint 1
+
+###### 1. Project Management
+
+* 4: Team is using a project management tool and updating their progress daily.
+
+###### 2. Completion & Pace
+
+* 3: Team is on track to complete all the user stories and requirements set by the client in timely manner.
+
+###### 3. Implementation Quality
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+###### 4. Application of Techniques
+
+* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
+
+
+#### Sprint 2
+
+
+###### 1. Project Management
+
+* 4: Team is using a project management tool and updating their progress daily.
+
+###### 2. Completion & Pace
+
+* 3: Team is on track to complete all the user stories and requirements set by the client in timely manner.
+
+###### 3. Implementation Quality
+
+* Create method in companies controller needs some refactoring.
+* Update in locations could use some refactoring. State could be brought into strong_params.
+* Would like to see flash when something is destroyed. (Admin)
+* Notes controller needs some work. #create and #update.
+* Declaring flashes in different ways. I would decide as a team the preferred style and go with that for consistency.
+
+This score is close. I'd like to see more code review in PRs. I checked a couple and did not see any response or questions or suggestions.
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+###### 4. Application of Techniques
+
+* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
 
 ## D: Professional Development
 Through the professional development workshops, I figured out what I am looking for in a job. My top priority is that I work in a company where I can touch a wide variety of stuff. As cool as it would be to gain mastery in one specific corner of web development, I am still early enough in learning this that I want to cast my net of knowledge a bit wider. The second priority is making sure that I work in an environment where the employees actively support one another. My third priority in a job would be location- my preference would be Denver, but I would be happy with any mid-size to large city.
