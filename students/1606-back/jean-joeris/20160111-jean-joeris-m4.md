@@ -95,6 +95,7 @@ The project was brownfield on Turing's Enrollment app. Some of the main features
 
 Evaluations - While we were supposed to be officially evaluated at the end of each sprint (weeks 2, 4 and 6), we ended up not being evaluated weeks 2 or 6. Given that, here are the week 4 scores.
 
+~~~~~~~~~~
 Notes:
 
 I'll just ramble for a while. I've decided that you were given some above average difficulty, but not impossible tasks. Everyone complains about Josh Cheek's code, but I don't think it's out of the realm of possibility of things you'll find, especially in the open source world. I've found that gems and libraries are written by people that are just coding all the time, and they need to keep themselves interested.
@@ -130,7 +131,7 @@ There are actually still improvements to be made to our communication and workfl
 * **3: Project has implemented one major technique from the previous two weeks of academic classes.**
 * 2: Project has an implementation in progress of one major technique from the previous two weeks of classes.
 * 1: Project has a plan to implement a technique from academic classes.
-
+~~~~~~~~~~
 
 Feedback from Brian Heim: I have worked with Jean before and know that he is a fantastic programmer with very strong technical skills. He also has great soft skills and is a pleasure to work with. Jean served as our Project Manager for the Enroll team and took on many different tasks in addition to writing code. He organized tasks on Tracker, communicated with our CTO and Product Owner for the team, and made sure the group was making progress. Even though I did not really work with him on the project code, Jean did a great job as PM; he reminded me (respectfully) about tasks I had forgotten about, and truly took his responsibility seriously. My only advice to Jean would be to not be too hard on himself regarding his PM duties. He mentioned to me that he felt he was not performing as well as he would like, but I thought he did a great job. I have alot of respect for Jean and can’t wait to see what he can do once we graduate.
 
