@@ -127,7 +127,7 @@ This module we had some real world requirements as we make our way closer to ent
 * [Cold Outreach Emails](https://docs.google.com/document/d/1VhoFZf3BnKLmpDh6rbwxP3SR-y9dqV48mb0il_DVRSU/edit)
 * [Jobs Tracker](https://docs.google.com/spreadsheets/d/15DzhMLH_4wy7ByGPpy3BnHNrbla7DW71HQ5gFcDoPNw/edit#gid=0)
 * [iLoan Technical Challenge](https://github.com/danbroadbent/payment_exercise)
-* [Rabbit Internet Technical Challenge](https://github.com/danbroadbent/city_twitter) - [Production](https://citytwitter.herokuapp.com/)
+* Rabbit Internet Technical Challenge: [GitHub](https://github.com/danbroadbent/city_twitter) - [Production](https://citytwitter.herokuapp.com/)
 
 ## The Plan
 
