@@ -189,8 +189,7 @@ Future Involvement:
 
 ### Notes
 
-( Leave blanks for reviewers )
-
+Purse teaching kids or women in tech in Denver / Boulder area
 ### Outcome
 
-( Leave blanks for reviewers )
+Passed
