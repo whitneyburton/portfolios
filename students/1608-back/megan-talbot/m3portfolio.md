@@ -155,7 +155,8 @@ I loved the chance to work with Alisher again in Cloney Island! It was a very ch
 I felt so lucky to have a project with Ali during this module! She is always such a positive force on a team, and that was certainly the case for Cloney Island. We all tackled some tough new features, but Ali never let that get her openly frustrated with the group. Even though we all wished we had more time, I know that we  learned a ton throughout this project, which is obviously the most important thing.  I would eagerly work with Ali again any time!
 
 ## D: Professional Skills
-(Intro)
+
+Many of the professional skills ramped up in this module. Though I know we are all getting intimidated by a lof of this, I've been trying to take each session very seriously as I know it will help me eventually.
 
 ### Gear Up
 
@@ -189,10 +190,14 @@ http://backend.turing.io/professional_development/module_three/
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
 * [Link to Completed Deliverables]()
 
+This was an exercise adapted from "What Color is Your Parachute", and it focused on taking inventory of what is most important to you and who you are. I enjoyed this exercise quite a bit, even though it took a good acount of time. You can see the summary of my efforts in the attached gist!
+
 #### Job Search Strategies
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/job_search_strategies.md)
 * [Link to Completed Deliverables]()
+
+We focused a lot on scheduling for the job search in this session, which made it both useful and intimidating. I implemented a job search schdule for myself this module, and I have tried to stick to it. I plan to focus even more on this through intermission week and into mod 4!
 
 
 #### Innovative Problem Solving 
@@ -200,11 +205,16 @@ http://backend.turing.io/professional_development/module_three/
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
 * [Link to Completed Deliverables]()
 
+This was a session with Allison where we focused on building creativity and new ways to approach problem solving. I didn't make a pitch after this session since I knew  I was hoping to work on the client project. However, it was still useful to go through the process of brainstorming and asking critical questions about our ideas. 
+
 
 #### Interviewing
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
+
+I really enjoyed this session. It was great to have an external speaker come in who is in charge of hiring. He was honest and clear in his suggestions, and I will always rememmber them.
+Per deliverables, I have 
 
 
 (takeaways from session)
