@@ -118,26 +118,58 @@ Fundamental JavaScript
 * [https://github.com/becs919/linked-list]()
 * [http://frontend.turing.io/projects/linked-list.html]()
 
-(description)
+Evaluator: Louisa
 
-(evaluation comments)
+Notes:
 
-(evaluation scores)
+Well done, need to work on locking in details like indentation consistently. Had a slight lack of balance between both Pam and Becca sharing the JS and CSS writing. Used jQuery and Flexbox, which required some end-of-project refactoring to include. Good job taking risks!
 
-(feedback to me)
+Functional Expectations
+
+4: Application meets all of the functional expectations in Phase Three.
+Fundamental JavaScript Style
+
+3: Application shows strong effort towards organization, content, and refactoring.
+Workflow
+
+3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+HTML Style
+
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+CSS Style
+
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 #### Idea Box
 
 * [https://github.com/thatPamIAm/idea-box]()
 * [http://frontend.turing.io/projects/ideabox.html]()
 
-(description)
+Evaluator: Robbie
 
-(evaluation comments)
+Notes:
 
-(evaluation scores)
+Filter was not working, but implementation was close (jQuery each)
+Good conversation in GitHub, but more of it, especially in the PR descriptions
+Good JS - continue refactoring and breaking out logic into smaller, more readable functions
 
-(feedback to me)
+Specification Adherence
+2.5 - The application is in a usable state, but is missing 1 or more of the features outlined in the specification above.
+
+HTML Style
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+CSS Style
+2: Your application has some duplication and minor bugs. Developer can speak to most choices made in the code and knows what every line is doing.
+
+JavaScript Style
+3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Workflow
+3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
+Collaboration
+3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
 #### Game-Time
 
@@ -234,29 +266,29 @@ It was difficult to refrain from talking about the current election in the conte
 
 ### Giving Feedback
 
-To Staci McWilliams 1611FE
+To Staci 1611FE (Game-Time)
 
 I have worked with Staci on a number of occasions during class, and I am currently working with her on our final project for Mod1. Staci is extremely respectful and empathetic in her interactions with both myself and others in our cohort. She makes a very conscious effort to monitor her learning and adjust her study habits/workload due to her desire to have a deeper understanding of the material we are covering, which I believe is rare in others. Her love of learning goes past wanting to get "perfect" scores from a rubric, which I find very admirable. She has truly been a pleasure to work with throughout the course.
 
 At times, I think that Staci can be too hard on herself.  We have discussed this a number of times, as I feel we both are similar in this way. She understands a lot more than she thinks, and she has mentioned that her self-doubt has caused her to not "speak up" during a few occasions in class or in pairings. I think this is a shame - as our cohort could definitely benefit from her thoughts and suggestions!
 
-To Rebecca 1611FE
+To Rebecca 1611FE (Linked-List)
 
 One of Rebecca's greatest strengths is her determination to do well and finish strong. She has a can-do attitude and is not afraid to reach out to others for help or clarification on things. She puts a great amount of effort into doing her very best at all times and does well with showing confidence in the decisions that she makes.
 
 At times, I believe Rebecca's determination to do her very best personal work can sometimes overshadow the team dynamic. During both our pairings in-person and remotely, I believe this played a role in our struggle to find common ground to work together on tasks as team members.
 
-To Sam 1610 FE
+To Sam 1610 FE (Pairing)
 
 Sam is knowledgeable, patient, and flexible. While mentoring, he is great about asking questions to make sure that the people he is helping are actually grasping the material at hand. He is willing to take the time to help guide others to the "answer" without just handing it over - which is no small task!
 
-To Franklin 1611 FE
+To Franklin 1611 FE (Pairing)
 
 Franklin is a very approachable person who is very eager to help and talk things through with others. Although we have talked quite extensively in class concerning lessons and in-class work items,  Franklin and I have yet to pair on an actual project. From what I've seen, he does a great job of going above and beyond the expectations of the project requirements.
 
 I think Franklin's greatest strengths are his cheery nature, his passion for his work, and his willingness to help others. I wish I could offer something in the way of constructive criticism for Franklin, but I don't feel like any feedback I'd give would be as valuable as the feedback I can provide after having done a project with him.
 
-To Krystin 1611FE
+To Krystin 1611FE (IdeaBox)
 
 Krystin has a high level of self-awareness, which I find is not typical for many people. She is open and honest with herself and others about her biggest strengths and weaknesses, which I believe will serve her well during her time at Turing and beyond. Even though each of my project pairings have been successful in helping me grow in different ways, I can honestly say that my pairing with Krystin made the most difference in how I approach my work now. While discussing and "defining" our relationship for our paired project, I made it clear to Krystin how uncomfortable I have been with "driving" and "breaking" code on the fly... and how I thought this might be stunting my development. During our entire pairing Krystin not only honored my desire to take the extra time to really understand how our code was working, but she also forced me to drive more than I would have otherwise and constantly encouraged me to "break" my code.
 
