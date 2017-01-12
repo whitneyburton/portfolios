@@ -256,36 +256,54 @@ The professional skills sessions are an integral part of our Turing program beca
 ### Gear Up
 #### Micro-Aggressions
 
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Though slightly controversial, this was an interesting session. I think Micro-Aggressions are one of those things that is easy to ignore and pretend like it doesn't exist, so keeping it in mind as a lens through which I make observations and decisions will benefit me and those around me as I continue to learn and grow as a developer.
 
 #### Journey Mapping
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The journey mapping session was interesting because it focuses on the big reason why I am here: providing a great solution to a problem. Using journey mapping will help ensure that whatever that solution is, is focused on the problem from the perspective of the user and should ultimately result in better projects.
 
 #### Grit
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+My takeaways from this session were thinking about what really engages and interests me, and how I can use that to my benefit in the future. For example, I can make sure I speak up when appropriate during projects to ensure I have to chance to work on my learning goals. I know I like working on well-planned projects with solid UX so that user's enjoy the end product and that can be a driver as I move forward in Turing and my career.
 
 
 ### Professional Development Workshops
 #### Turing Alumni Portfolio
 
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
+* [Link to Completed Deliverables](https://www.turing.io/alumni/erin-pintozzi)
 
 #### Personal Project Pitch
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
-* [Link to Completed Deliverables]()
 
-(takeaways from session)
+##### Deliverable
+### Tuesdates
+### Pitch
+Tuesdates is an app the helps friends organize "dinner dates" using the Yelp api to make recommendations and then send out the "date" information to everyone in the group.
+### Problem
+• History: I used to be a part of a group of 4 people, who, every Tuesday would go to dinner. We alternated who would pick the restaurant. That person had to send an email with the details. I added the restaurant to a google doc for tracking, and we also used google calendar events to remind the "picker" that it was their turn. It worked but was messy. This app will consolidate all those steps in one place
+### Solution
+An easy to use app that reminds and alerts group members about dinner/event details and keeps a log of past events for the group.
+### Target Audience
+• Audience 20-30-somethings who are looking to spice up their Tuesdays (or any day) while exploring new restaurants in town
+• We know growth of the demographic is booming in Denver
+• We know the Denver restaurant growth has also boomed
+	○ 300 new restaurants opened in 2014
+	○ 200 new restaurants opened in 2015
+	○ In 2015, for the first time ever, consumers spent more on restaurants than groceries
+• I imagine this applies to other cities as well
+### Integrations
+* Which APIs will you use?
+	* Yelp to generate restaurant list
+* Which OAuth integration are you planning to use?
+  * Google
+
+
+My big takeaway from this session was how to effectively brain storm. I went in with an idea for a project, but was able to better flesh out the details so I could execute a well-thought out project.
 
 #### Flower Exercise
 
@@ -296,9 +314,11 @@ The professional skills sessions are an integral part of our Turing program beca
 
 #### Mock Interviews
 
-* [Link to Completed Deliverables]()
+2 mock interviews are due for portfolio review with a third due by 1/23
 
-(takeaways from session)
+My first mock interview was with Sam, a team lead of Reverb in Chicago. It didn't go quite as well as I'd hoped- I felt pretty nervous so stumbled a little over my answers. My biggest take-away is that I need to get more comfortable talking through my process and it would serve me well to work on some practice technical interview problems so I feel less anxious during interview.
+
+My second interview was with Fred, a technical manager of Riot in Los Angeles. I expected this one to go better than the first, however since Fred is a hiring manager (whereas Sam was a team leader but not responsible for hiring), the interview felt a little different, and again, my nerves were at play. I think the practice is helpful because hopefully it will make the pressure feel more "normal" so that when a real interview comes, I'm ready.
 
 ## E: Feedback and Community Participation
 
