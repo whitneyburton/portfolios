@@ -20,11 +20,11 @@ So how did I do on these things?
 
 Find the rubric near the end of this document.
 
-* **A: End of Module Assessment**: X
-* **B: Individual & Group Work**: X
-* **C: Professional Skills**: X
-* **D: Feedback**: X
-* **E: Community Participation**: X
+* **A: End of Module Assessment**: 4
+* **B: Individual & Group Work**: 4
+* **C: Professional Skills**: 4
+* **D: Feedback**: 3
+* **E: Community Participation**: 4
 
 -----------------------
 
