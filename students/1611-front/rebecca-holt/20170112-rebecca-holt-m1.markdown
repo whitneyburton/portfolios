@@ -190,7 +190,7 @@ This Gear Up was especially powerful because I think it's important to have grit
 ### Professional Development Workshops
 ####  Resume Building 
 
-* [Workshop URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 * [LinkedIn](https://www.linkedin.com/in/rebecca-holt)
 * [Resume](https://drive.google.com/file/d/0B7e0utIZxF-LNDh3Qm5KVi1CMTA/view?usp=sharing)
 
