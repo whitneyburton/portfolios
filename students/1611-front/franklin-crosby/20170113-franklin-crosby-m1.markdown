@@ -313,10 +313,4 @@ It was great that we started on our portfolios from day one. I was also very hap
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED

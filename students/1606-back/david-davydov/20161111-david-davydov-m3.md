@@ -413,8 +413,8 @@ Other than that, I would love to work with him again.
 * **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 4
-* **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
