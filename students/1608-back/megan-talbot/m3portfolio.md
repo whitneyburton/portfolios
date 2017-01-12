@@ -23,18 +23,16 @@ I am happy to say I have accomplished all of my goals! I feel much more comforta
 
 ## B: Individual Work & Projects
 
-(Intro)
+I only ended up with one individual project in this module, as I ended up on the client project for my self-directed with one other person. I like to work alone sometimes, so I appreciated the chance to have API Curious in this module.
 
 #### API Curious
 
 * [GitHub URL](https://github.com/meganft/api-curious-github)
 * [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
 
-This project focused on learning how to consume an external API. We were able to choose a popular API to then consume it to essentially recreate the website on our own. I chose Github and was very happy with my results! I was nervous about learning how to conusme and API, but this project was very helpful because we had to do it many times. I'm happy to say I am very comfortable consuming an API.
+This was an ungraded project that focused on learning how to consume an external API. We were able to choose a popular API to then consume it to essentially recreate the website on our own. I chose Github and was very happy with my results! I was nervous about learning how to conusme and API, but this project was very helpful because we had to do it many times. I'm happy to say I am very comfortable consuming an API.
 
-(evaluation comments)
 
-(evaluation scores)
 
 ## C: Group Work & Projects
 
@@ -54,15 +52,11 @@ __***Evaluation:***__
 
 Notes: -
 
-#### Feature Delivery
-
-**1. Completion**
+**Feature Delivery - Completion**
 
 * **(4): Project completes all base requirements according to the spec harness.**
 
-#### Technical Quality
-
-**2. Test-Driven Development**
+** Technical Quality - Test-Driven Development**
 
 * **(4): Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.**
 
@@ -98,42 +92,29 @@ This project had us create a total application from scratch. Our group built a p
 
  __**Evaluation Scores:**__
 
-### Client Expectations
-
-**Team completed all the user stories and requirements set by the client.**
+**Client Expectations - Team completed all the user stories and requirements set by the client.**
 * **3: As expected**
 
-### User Expectations
-
-**Project exhibits a production-ready user experience.**
+**User Expectations - Project exhibits a production-ready user experience.**
 * **2: As expected**
 
-### Organization 
-
-**Team used a project management tool to keep their project organized.**
+**Organization - Team used a project management tool to keep their project organized.**
 * **4: Better than expected**
 
-### Technical Expectations 
-**Git Workflow**
-
-**Team always used pull requests and commented on pull requests prior to introducing code into the master branch.**
+**Git Workflow** - **Team always used pull requests and commented on pull requests prior to introducing code into the master branch.**
 * **4: As expected**
-
-### Test Quality
-**Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?**
+ 
+**Test Quality - Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?**
 * **3: As expected** 
 
-### Code Quality
-**Project demonstrates well-factored code and a solid grasp of MVC principles.**
+**Code Quality - Project demonstrates well-factored code and a solid grasp of MVC principles.**
 * **3: As expected**
 
-###Bonus
-
-**Did the team push themselves by taking risks?**
+**Bonus - Did the team push themselves by taking risks?**
 * **1: Yes**
 
 
- __**Feedback:**__
+ __**Feedback to me:**__
  
 *Feedback from Ryan:*<br>
 Megan was an excellent team member on Cloney Island. I repeatedly saw her jump on whichever part of the project needed her, even if it wasn't an easy or glamorous task like user ratings. Though at times we faced difficult problems, pairing with Megan was always a positive experience, and I am grateful that we had the chance to work on a team while at Turing.
@@ -144,7 +125,7 @@ This module, I was in one team with Megan both for Rales Engine as well as Clone
 *Feedback from Ali:*<br>
 I have greatly enjoyed each opportunity I’ve had to work with Megan.  On Cloney Island, Megan and I undertook the Twilio 2Factor Authentication. As someone who is often intimidated using new development tools it was great to work with Megan as she is calm and positive when facing challenges.  In addition, Megan undertook the tasks of giving ratings and assigning proposals which involved intricate database relationships. It was a lot of work, but Megan calmly pushed through until she found success.
 
-
+__**Feedback from me:**__
 *Feedback to Ryan:<br>*
 Ryan was such a great partner for this project. He was always very eager to help anyone and jump in on any aspect of the project. I know we all wish we had the time to deliver a more polished final product, but I know we wouldn't have made even close to the same progress without Ryan! He was also super understanding of everyone's schedules and commitments, which is always appreciated in a larger group project. I would gladly work with Ryan again in the future!
 
@@ -188,7 +169,7 @@ http://backend.turing.io/professional_development/module_three/
 #### Flower Exercise
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://gist.github.com/meganft/a07913d3f658c262c756e5f029891abf)
 
 This was an exercise adapted from "What Color is Your Parachute", and it focused on taking inventory of what is most important to you and who you are. I enjoyed this exercise quite a bit, even though it took a good acount of time. You can see the summary of my efforts in the attached gist!
 
@@ -205,7 +186,7 @@ We focused a lot on scheduling for the job search in this session, which made it
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
 * [Link to Completed Deliverables]()
 
-This was a session with Allison where we focused on building creativity and new ways to approach problem solving. I didn't make a pitch after this session since I knew  I was hoping to work on the client project. However, it was still useful to go through the process of brainstorming and asking critical questions about our ideas. 
+This was a session with Allison where we focused on building creativity and new ways to approach problem solving. I didn't make a pitch after this session since I knew  I was hoping to work on the client project, and we were told it was uncessary if this was the case. However, it was still useful to go through the process of brainstorming and asking critical questions about our ideas. 
 
 
 #### Interviewing
@@ -217,7 +198,11 @@ I really enjoyed this session. It was great to have an external speaker come in 
 Per deliverables, I have 
 
 
-(takeaways from session)
+#### Deliverables:
+* Flower Exercist gist: https://gist.github.com/meganft/a07913d3f658c262c756e5f029891abf
+* Interviews: I had one very casual technical interview with a friend in the industry. I had another one scheduled with a developer at my brother's company, but he had to reschedule for next week. I am planning to do 2 with him, and I also have another scheduled with Ian Douglas for intermission week. I also purchased a discounted account for Interview Cake and have been devoted to exercisms to prep for interviews.
+* Alumni Portfolio: https://www.turing.io/alumni/megan-talbot
+
 
 ## E: Feedback and Community Participation
 
