@@ -92,6 +92,7 @@ particularly on our test driven development and analytics methods.
 ## Feedback
 
 From Caroline Powell:
+
 Mike is known for his positive attitude and ability to write super clean super efficient code. There are almost always 10-20 sets of code that you could write to get the same job done. Mike is notorious for finding the absolute best code solution out of those 20 possibilities. He pays a lot of attention to detail and his appetite for exploration and performance benchmarking will no doubt lead to high-performance sites as he continues his development career. He is also a great communicator and works hard to keep up team morale. The last night of the project we ran into an issue and had to stay up late working to resolve it. We were all fading but Mike kept our team spirit high and that really helped us to push through in the end.
 
 From Molly Brown:
