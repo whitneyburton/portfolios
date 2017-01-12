@@ -61,7 +61,7 @@ Passing score
 
 ## B: Individual Work & Projects
 
-I enjoyed working on an individual project to the start the module because it gave me a good idea of where I was at, in terms of learning. It also helped to have to do everything on my own.
+I enjoyed working on an individual project to the start the module because it gave me a good idea of where I was in terms of learning. It also helped to have to do everything on my own.
 
 Individual Projects:
 * Mythical Creatures
@@ -232,7 +232,7 @@ It was great to break out into groups to discuss grit. The timing for this gear 
 
 #### Personal Branding
 
-I really liked the support that was given for building up or resumes and linkedIn. I also really enjoyed being able to take (and talk about) the strengths finder test with Allison and others in the cohort.
+I really liked the support that was given for building up our resumes and linkedIn profiles. I also really enjoyed being able to take (and talk about) the strengths finder test with Allison and others in the cohort.
 
 [Resume](https://docs.google.com/document/d/1UMrtYOMdpfScS-BWISaqAGcLAA90kHOyZMwkVk-tlsU/edit?usp=sharing)
 
