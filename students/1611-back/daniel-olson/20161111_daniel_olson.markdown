@@ -57,6 +57,12 @@ Daniel Olson - (M1) Portfolio
 
 I set out to understand the fundamentals and logic of programming.
 My goals were to finish the mod with a better understanding of what programming
+Daniel Olson - (M1) Portfolio
+
+## Areas of Emphasis
+
+I set out to understand the fundamentals and logic of programming.
+My goals were to finish the mod with a better understanding of what programming
 really is and how to apply that knowledge to real world situations.
 
 ## Rubric Scores
@@ -78,7 +84,30 @@ really is and how to apply that knowledge to real world situations.
 
 -----------------------
 
-## A: End of Module Assessment
+## A: End of Module Assessment ROUND 2
+
+Assessed By: Ilana
+Challenge: Shopping List
+
+####Ruby Syntax & API
+3: Developer is able to write Ruby with some debugging of fundamental concepts
+
+####2. Completion and Progress
+3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+
+####3. Testing
+4: Developer excels at taking small steps and using the tests for both design and verification
+
+####4. Workflow
+4: Developer is a master of their tools, efficiently moving between phases of development
+
+####5. Collaboration
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+####6. Enumerable & Collections
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+## A: End of Module Assessment ROUND 1
 
 Notes:
 * Initial implementation of stock check indicated some confusion. We want to return a `value` from `@stock` and not the entire hash `@stock`
@@ -492,6 +521,8 @@ increment my learning.
 
 ### Professional Development Workshops
 
+*Resume* https://drive.google.com/file/d/0B53sMa0Nsm1lQmZUU2UzQ0t0cEU/view?usp=sharing
+
 I wasn't able to attend most of these due to pairings or evals. My take away form
 what I did see was the importance of branding yourself as a software developer.
 The advice for managing your Twitter and Linkedin accounts was very valuable. Specifically
@@ -598,7 +629,7 @@ positive attitude to class that is so contagious you just can't help but being
 effected by her. Her perseverance and determination to work past difficult
 problems while keeping this attitude is her strongest strength. I remember
 messaging her at 5:00am, still being up, struggling with my project and she
-still tried to cheer me up even though she was dealing with a similarily 
+still tried to cheer me up even though she was dealing with a similarily
 difficult problem. Thanks "G" for being so awesome!
 
 ### To Turing: ###
