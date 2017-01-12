@@ -165,23 +165,17 @@ _PEERS FEEDBACK_
 
 ### Gear Up
 
-#### Vote Your Conscious
+**Microagressions** - [GIST](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
 
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+I know this Gear Up caused some interesting and somewhat coincidental drama, I really appreciated how receptive some of my peers were to letting others talk about their personal microagression stories. I do wish there was a finer line drawn between instances that are overtly racist and those that are microagressive-- it seemed like some of the articles we read had a mix of both. Neither are good things, obviously, but I think they socially have very different connotations and impacts on people.
 
-This gear up was fun because we got to read a couple of articles that made me think and reevaluate how I feel about voting or not voting during an election. The discussions were short, but that made them have to be pertinent, in order to get our points across. It was a good gear up.
+**Journey Mapping** - [GIST](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-#### Introversion and Extroversion on Teams
+This Gear Up seemed to be a very practical one for the developer real world post Turing. Thinking about users and what keeps them engaged and happy is a very important skill that most developers I've worked with in the past as a project manager lacked. This showed us a concrete way to empathize with users AKA people that use and hopefully benefit from our applications.
 
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+**Grit Mindset** - [GIST](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-This gear up was great because we were able to have it within our own cohort. We talked about introverts and extroverts and I learned more about a couple of introverts in my class, and realized how working in groups was a much much different experience for them, than it was for me. I made me rethink how I should treat and accept people during group work, because of the way they might be feeling about it, if they are an introvert.
-
-#### Resilience
-
-* [GitHub Gist URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
-
-This gear up really solidified a term that I never really related to my life. In my life I have been very resilient, but I never knew that's what it was. Now, I know what it is, and me and my group talked about techniques to be more resilient in my every day life.
+This was a great session with Jeff... Although I find it very interesting, I wonder how one measures their level of grit? As someone who hasn't had too many opinions but hustle in life, I wonder how one differentiates dedication vs. necessity. Anyhow, it was a great talk and discussion for sure. 
 
 ---
 
