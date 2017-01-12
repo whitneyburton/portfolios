@@ -78,7 +78,7 @@ The only project I worked on individually this module was the Open Source projec
 
 #### Contributing to Open Source
 
-* [GitHub URL](https://github.com/alexreisner/geocoder/pull/1140)
+* [Pull Request URL](https://github.com/alexreisner/geocoder/pull/1140)
 * [Original Assignment](http://backend.turing.io/module4/projects/the-plan/assignments/open-source)
 * [Blog Post](https://medium.com/@brendan__dillon/fixing-a-problem-that-you-dont-understand-2c33c50980c2)
 
@@ -94,15 +94,16 @@ The group project for this module was definitely an exercise in figuring out how
 #### Monocle
 
 * [GitHub URL](https://github.com/danbroadbent/monocle)
+* [Video](https://vimeo.com/199076606)
 
 Monocle is a job-tracking app. We started with a brownfield project, as Calaway built out a CRUD app for jobs. We added admin functionality, AJAX filtering, an interactive Google map, AJAX starring, AJAX notes, a way to display data from the LookingFor service and persist jobs that a user had starred into our database, and the ability to log in with the Census application.
 
 ## D: Professional Development
-As the job search looms with a terrifying and imposing presence over our heads, the professional development became both crucial and anxiety-inducing.
+Through the professional development workshops, I figured out what I am looking for in a job. My top priority is that I work in a company where I can touch a wide variety of stuff. As cool as it would be to gain mastery in one specific corner of web development, I am still early enough in learning this that I want to cast my net of knowledge a bit wider. The second priority is making sure that I work in an environment where the employees actively support one another. My third priority in a job would be location- my preference would be Denver, but I would be happy with any mid-size to large city.
 
 ### Professional Development Workshops
 #### Overcoming Imposter's Syndrome
-This workshop was a good reminder that we are all in the same boat, and not to freak out too much.
+My biggest barrier in the job search is a general fear of people. Meetups and informational interviews initially seemed insurmountable. This session helped me to realize that I can try to turn the conversation away from the terrifying personal zone and in to a more comfortable zone of discussing programming. I also have difficulty with thinking linearly and clearly in an interview, but as long as I approach problems by honestly and clearly articulating my thought process, it should be okay that it is not always the most linear.
 
 #### Negotiations
 This workshop provided good strategies for approaching a negotiation in a polite but assertive way. If I hadn't had this session, I would have been totally in the dark about the protocol for salary negotiations and would have probably have wound up undercutting myself out of fear that I was going to cross a line.
@@ -110,23 +111,45 @@ This workshop provided good strategies for approaching a negotiation in a polite
 #### Writing a Blog Post and Peer Review
 This workshop gave me some insight as to how to make a blog post useful for its audience, especially with keeping the audience in mind and specifically defining any technical jargon that you use.
 
+I wrote a blog post on my open source contribution, which is linked in the Individual Projects section above. Dan Broadbent gave me this feedback- "Great job, I really enjoyed reading it, you made some difficult concepts easy to understand."
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+Susi Irwin - Working on Monocle with you has been a fantastic experience.  Your drive and excitement when something works always carries through. You have a fantastic sense for how to translate airy requirements in to user stories and keep the pivotal tracker in shape. After working with you in the past, I really noticed that you are getting more confident in your work. It was really cool to see you plowing through difficult problems and defending your code. You don’t seem like you will ever let your knowledge go stale, so I really look forward to seeing what you manage to do after Turing.
+
+Dan Broadbent - It has been great working with you on Monocle. Your ability to see a useful finished product is incredibly important and impressive. It is even more impressive that you were able to articulate this and argue for or against features that would impact the final product. Throughout the project, you did a really good job at keeping the communication in the team going and reviewing code. You brought an infective sense of easygoing friendliness to the team, as well. I look forward to seeing what you are able to create with your sense for a good project in the future.
+
+Nate Anderson - Working with you on Monocle has been great. You always were able to bring a sense of calm reasonableness to a sometimes panicky project. You have a really good sense for structuring a project in a clear, modular way. I really enjoyed pairing with you throughout this project, as you really brought a step-by-step sensibility but accommodated for my spaghetti-flinging sensibility. Your clear-headedness brings a lot to a team, and I look forward to seeing what you are able to do after Turing.
+
 
 ### Being a Community Member
 
-Susi Irwin: "It has been such an amazing pleasure to get to work with you on this project. Your ability to look at a problem, break it down into super small, reasonable parts is second to none. I am in awe at your abilities with JavaScript and jQuery. No card given to you ever seemed to fluster you in the slightest. I hope to gain some of your confidence and curiosity as I move away from Turing. Your calm approach to programming verges on Zen and is extremely commendable."
+Susi Irwin - It has been such an amazing pleasure to get to work with you on this project. Your ability to look at a problem, break it down into super small, reasonable parts is second to none. I am in awe at your abilities with JavaScript and jQuery. No card given to you ever seemed to fluster you in the slightest. I hope to gain some of your confidence and curiosity as I move away from Turing. Your calm approach to programming verges on Zen and is extremely commendable.
+
+Dan Broadbent - Brendan, it’s been awesome having you on my team again.  You pulled us through some really tough challenges where it was really hard to diagnose what the problem was.  For example, noticing the difference in authenticating the user when their browser was using a http URL vs a https URL.  Your attention to detail and ability to keep many aspects of the problem in your mind is impressive.  You’ve always got a positive attitude, you have a great sense of humor and it’s a pleasure having you on the team.
+
+Nate Anderson - Brendan, it was great to be able to work with you again on a project. Your work ethic is fantastic
+and your tenacity when attacking a problem is really impressive. You were easily one of my favorite people to pair with
+during my time at Turing and would always crack me up with your one liners. You also seemed to really become more
+and more comfortable as the modules progressed in expressing your opinion and making your voice heard. You are one
+of the most talented programmers in the cohort so I'm happy to see your confidence grow and I can't wait to see what you accomplish in the future.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+This module, I made some time to pair with people in other modules who needed help. I spent quite a few evenings and weekends in the basement and listened for "ugh, are there any mod 4 people around?" as a sort of bat-signal (except that in this scenario, batman mostly gives bad javascript advice instead of fighting crime). I definitely intend to continue to do that with more frequency as I job search. I also was proud to count myself in the minority of people who actually did dishes, took out the trash, and made coffee at Blake.
 
 ### Gear Up
 
-(reflect on your Gear Up sessions following the below example)
+#### Microagressions
+I took part in the 'lived experience' conversation about microagressions. It was a really valuable conversation about the way that little things can add up. We also discussed how few situations the recipients of microagressions are able to call them out in any sort of a productive way. I left it with the takeaway that it is really important to take advantage of opportunities to effectively call out shitty behaviour, even if it is meant without malice.
+
+#### Journey Mapping
+My group mapped out the process of learning to program for the first time. It was definitely informative to get into that headspace of imaging the user's specific concerns and emotional response at each stage of a process. It is often too easy to imagine user requirements as one static thing, when they absolutely do evolve and change as the user interacts with your project.
+
+#### Grit
+I participated in a discussion about what grit means, with respect to schools and with respect to software development. We spent a little while trying to nail down the vague term and discussed whether passion plays a role in grit. We ultimately came to agree that, even when defining grit as dogged persistence, there is an element of passion just in following that reward cycle of pushing through something.
 
 ------------------
 
