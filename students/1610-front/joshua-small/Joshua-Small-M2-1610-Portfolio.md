@@ -11,7 +11,6 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 * **E: Feedback & Community**: 3
 * **F:Participation**: 3
 
------------------------
 ## A: End of Module Assessment
 ###Progression/Completion
 * Practice your atom hotkeys
@@ -38,6 +37,24 @@ A web application created to learn how to work with APIs.
 A web application used to recreate a project previously done in vanilla javascript in React.
 *[GitHub URL](https://github.com/jksmall0631/number-guesser-react)
 *[Original Assignment](http://frontend.turing.io/projects/number-guesser-in-react.html)
+
+# Comments:
+- great use of components
+- loved the button components
+- loved the use of a helper
+- loved breaking out state
+- refactor some things. continue building out the compare function
+
+# Rubric
+
+# Functional Expectations
+
+* 3: Application meets all of the functional expectations in Phase Two
+
+# Fundamental JavaScript/React Style
+
+* 4: Application demonstrates excellent knowledge of JavaScript syntax, style, and refactoring
+
 
 # C: Group Work & Projects
 ##Projects
@@ -231,6 +248,9 @@ Marissa Reinke - "Josh was amazing to pair with. He is not only very knowledgeab
 I attended the welcome 1611 meetup, plenty of pairing, and went to several lunch roulettes to try to meet more back end folks.
 
 ### Gear Up
+
+[Note from Meeka: Discussed in person at the portfolio]
+
 ####Microaressions
 A discussion on the small things that could potentially impact people in a large way.
 
@@ -240,9 +260,17 @@ A discussion on trying to get into the head of the consumer in an attempt to mak
 ####Grit
 A discussion on identifying grit and preserving it as a student at Turing.
 
-------------------
 ## Final Review
+
 ### Notes
-( Leave blanks for reviewers )
+
+Moooooooving on! It's a pass.
+
 ### Outcome
-( Leave blanks for reviewers )
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 3
+* **E: Feedback & Community**: 3
+* **F:Participation**: 3
