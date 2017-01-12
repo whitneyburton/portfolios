@@ -25,14 +25,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## B: Individual Work & Projects
 
 I worked on the following individual projects:
-*  Credit Check
 *  Jungle Beats
 *  Battleship
 
 #### (Jungle Beats)
 
 * [GitHub URL](https://github.com/JonathanSR/jungle_beats)
-* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/jungle_beats/jonathan_serrano/jungle_beat.md)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
 (description) 
 *  This project focuses on the use of the linked list data structure by making a drum machine program. 
@@ -51,7 +50,7 @@ I worked on the following individual projects:
 #### (Battleship)
 
 * [GitHub URL](https://github.com/JonathanSR/Battleship)
-* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/battleship/jonathan-serrano.md)
+* [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
 (description)
 *  Builds a playable game of Battleship that runs in a REPL interface. The game will allow a single human player to play against a (simplistic) computer player.
@@ -79,7 +78,7 @@ I participated in the following Group Projects:
 #### Enigma (Edilene)
 
 * [GitHub URL](https://github.com/edilenedacruz/enigma)
-* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/enigma/edilene_jonathan.markdown)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
 (description)
 *  Builds a tool for cracking an encryption algorithm.
@@ -101,7 +100,7 @@ I participated in the following Group Projects:
 #### Headcount (Katy)
 
 * [GitHub URL](https://github.com/TheKaterTot/headcount)
-* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/enigma/edilene_jonathan.markdown)
+* [Original Assignment](http://backend.turing.io/module1/projects/headcount)
 
 (description)
 *  Builds a state education dataset that is used to analyze and answer questions such as "Does Kindergarten participation perdict high school graduation?"
@@ -137,7 +136,7 @@ I participated in the following Group Projects:
 ### Personal Branding
 
 * [Workshop URL](http://backend.turing.io/professional_development/module_one/personal_branding_p1)
-* [Link to Completed Deliverables](www.linkedin.com/in/jserranor)
+* [Link to Completed Deliverables](https://www.linkedin.com/in/jserrano)
 * [Link to Completed Deliverables](https://dochub.com/jonathanserrano7fcf1b89/aBWxae/jonathan-serrano-resume)
 
 
@@ -189,7 +188,7 @@ Intro/About/Bio - Skills - Projects - Contact - Blog
 
 ### Playing a Part
 
-Currently I am working on establishing a support base called "Turing Diversity" that focuses on three subjects, current students, incoming students and community outreach. The goals are to create a foundation support group for all of those who identify as a minority, where we can help out each other in succeeding during our time at Turing and after. Incoming students would benefit from having an established support group where we can become mentors, guide them through the process, help them if they are out of town and or are having a hard time assimilating into the culture. Community outreach delves into reaching our community base, the future of tomorrow, the present, to show that there are people like them in tech. That there are other ways of succeeding in life than some of the options that draw so many people of our community into. Goals are to adopt a school where we teach code, create a blogpost, put out a diversity panel etc. I've also participated in the weekly health challenges, attended code-for-skills, productivity lunches and other programs that I hope that I was able to leave a positive footprint as they did on me.
+ * Currently I am working on establishing a support base called "Turing Diversity" that focuses on three subjects, current students, incoming students and community outreach. The goals are to create a foundation support group for all of those who identify as a minority, where we can help out each other in succeeding during our time at Turing and after. Incoming students would benefit from having an established support group where we can become mentors, guide them through the process, help them if they are out of town and or are having a hard time assimilating into the culture. Community outreach delves into reaching our community base, the future of tomorrow, the present, to show that there are people like them in tech. That there are other ways of succeeding in life than some of the options that draw so many people of our community into. Goals are to adopt a school where we teach code, create a blogpost, put out a diversity panel etc. I've also participated in the weekly health challenges, attended code-for-skills, productivity lunches and other programs that I hope that I was able to leave a positive footprint as they did on me.
 
 ------------------
 
