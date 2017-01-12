@@ -254,10 +254,4 @@ I greatly value my relationships will everyone in the Turing community and made 
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
