@@ -136,11 +136,26 @@ If the project was graded, add your evaluation scores and notes. If the project 
 ## C: Professional Skills
 
 ### Gear Up
-#### Session Name
+#### [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+This was probably my favorite session.  I especially appreciated the author's focus on passion and not simply 'gutting it out'.  The main takeaway for me was to look for the enjoyment in what I'm doing.  I truly enjoy the work that we get to do as developers.  Every day isn't sunshine and rainbows though.  But connecting the real world impact we can have through the applications we build make the rainbow-less days insignificant.
 
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+#### [Journey Mapping](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
+This turned into a fascinating look at how some of my classmates came to Turing.  As far as it applies to web development - I think it might be one of the most useful sessions we had.  For me, it's easy to get caught up in the code and lose touch with what is going to matter about the application - and that is how peopple use it.  Yes, it needs to work.  Yes, I love tests.  But no one will see the tests.  They will simply wonder (justly) why it takes 3 clicks to create a new account instead of 1.  "Tell me how you will use this," I think is one of the most important questions we can ask.
+
+#### [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md)
+I left this one feeling paranoid.  I think that we all have blind spots.  And we all have a range of what we would call acceptable behavior.  But between the vibes that we don't realize we are putting out and the mismatch in overlap betweeen what is acceptable behavior for one person being completely offensive to another makes me wonder if I'm essentially giving everyone in the world the bird (you know, the bird) and not realizing it.  On one hand, I'm glad it was discussed because awareness is an important first step.  And treating others with a little bit extra respect and understanding is a good second step.  But beyond that, I'm not exactly sure *how* to correct for migroaggressiosn.
+
+#### [Resilience](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+I think this was an excellent addition to the gear ups - mostly as a reminder that Turing can be difficult, but that doesn't need to be a bad thing.  We're not here suffering (though I use the term freely in this portfolio), we're here growing.  It's an important but sometimes subtle difference.  I think this topic should almost be done every other mod as a refresher.  I do wish the session discussed more techniques for becoming more resilient though.
+
 
 ### Professional Development Workshops
+#### Cold Outreach emails
+
+The deliverables were 7 cold outreach emails, which I have completed (just) but I they were sent after the deadline of Friday of last week.
+
+The session was very interesting in that it definitely gave good examples of how to get that first foot in the door when there is a company that you would like to work for.  I think the process is fascinating and am curious to see what comes out of the emails.  It was very uncomfortable for me to reach out to strangers and ask for help.  I prefer at least a lukewarm outreach personally.
+
 #### (Session Name)
 
 Include takeaways and deliverables from each session.
