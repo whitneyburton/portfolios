@@ -131,7 +131,6 @@ The rails mini project (a.k.a. Auth Squared for Authentication and Authorization
 
 * 4: Project has a running test suite that exercises the application at multiple levels
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
 
 ## C: Professional Skills
 
@@ -171,8 +170,6 @@ I like that we were able to receive (and give) anonymous feedback - for that opp
 #### [Networking](https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
 Elevator pitch practice!  This was helpful for a couple reasons.  It was great to mix with the Front End group.  The feedback I got was very helpful and actionable, and it was a chance to actually practice my elevator pitch a couple times in a row.  I learned that I need to tighte up the parts of my pitch when I talked about being an engineer, and focus more on what brought me to web development.  This was a very helpful session - but maybe at the end we hear one or two elevator pitches from the group (learn more about our peers and hear a polished pitch).  
 
-
-Include takeaways and deliverables from each session.
 
 ## D: Feedback
 
@@ -285,10 +282,7 @@ This was my first time and a privilege to get to work with Nick. Nick worked wit
 I also have to say that he has great leadership skills. He helped facilitate several team discussions on important decisions and I thought it was very helpful and effective.
 
 
-
 ## E: Community Participation
-
-How did you actively contribute to the Turing community?
 
 This mod I really wanted to help out the Mod 1 students.  I know that it was a challenge for me to pull through the six intense weeks of effort.  And I think part of that was feeling slightly isolated and not realizing how many resources were available as a Mod 1 student.  So I opened up my schedule and paired with Mod 1 students about twice a week.  I also helped out Mike Schutte with his excellent Drills for Skills sessions as well. 
 
