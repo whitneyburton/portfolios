@@ -9,10 +9,10 @@ This module I didn't know what all I should expect since we were trying out a ne
 Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: X
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Professional Development**: X
-* **E: Feedback & Community Participation**: X
+* **D: Professional Development**: 4
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -74,18 +74,12 @@ REDID THE HOT AND TOP FUNCTIONALITY TO UPDATE PROGRESS TO A 3.
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### React
 
-#### (Project Name)
+At the end of this module students were given the opportunity to learn a new language, tool, or framework.  I decieded to stick with the majority of the class and learn React together.  We did a number of classes on React and we attempted to integrate React into our main Rails app Monocle.  We used the rails-react gem and could successfully render components, but did not finish the full functionality of the page, so it did not make it into the final code of our project.
 
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+[React Box](https://github.com/danbroadbent/react-box)
+[React Branch in Monocle](https://github.com/danbroadbent/monocle/tree/spike_react_for_starred_companies)
 
 ## C: Group Work & Projects
 
@@ -109,6 +103,38 @@ The final phase of the project was taking our new javascript skills and applying
 The most difficult part of the project for me was working on making the company notes have full CRUD functionality with javascript.  It was the most difficult because javascript was new to us this module and we just didn't have the same familiarity that we do with Rails.  It was a really fun project and I can't wait to see what future teams will add to it.
 
 Video overview of Monocle: https://vimeo.com/199076606
+
+### Scores
+#### Accessor:  Andrew Carmer
+#### Team:
+* Susi
+* Dan
+* Brendan
+* Nate
+#### Sprint 1
+###### 1. Project Management
+* 4: Team is using a project management tool and updating their progress daily.
+###### 2. Completion & Pace
+* 3: Team is on track to complete all the user stories and requirements set by the client in timely manner.
+###### 3. Implementation Quality
+* 3: Project demonstrates solid code quality and MVC principles.
+###### 4. Application of Techniques
+* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
+#### Sprint 2
+###### 1. Project Management
+* 4: Team is using a project management tool and updating their progress daily.
+###### 2. Completion & Pace
+* 3: Team is on track to complete all the user stories and requirements set by the client in timely manner.
+###### 3. Implementation Quality
+* Create method in companies controller needs some refactoring.
+* Update in locations could use some refactoring. State could be brought into strong_params.
+* Would like to see flash when something is destroyed. (Admin)
+* Notes controller needs some work. #create and #update.
+* Declaring flashes in different ways. I would decide as a team the preferred style and go with that for consistency.
+This score is close. I'd like to see more code review in PRs. I checked a couple and did not see any response or questions or suggestions.
+* 3: Project demonstrates solid code quality and MVC principles.
+###### 4. Application of Techniques
+* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
 
 #### Open Source Contribution
 
