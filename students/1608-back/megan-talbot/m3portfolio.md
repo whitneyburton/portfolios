@@ -162,6 +162,41 @@ I felt so lucky to have a project with Ali during this module! She is always suc
 
 I had the chance to work on the client project for the self-directed final project of the module. We started the group with 4 people, but it ended up only being Anna and me. I am happy with what we were able to accomplish in the 2 weeks we had, though I know both of us want to keep working to make it better! The project had a lot of new challenges, and I am confident when I say that we both learned a lot. Rachel, our client, has seemed very pleased with everything we have done, so I am happy with that as well. I appreciated the chance to work on this project!
 
+Assessor:
+
+Notes:
+
+**1. Completion**
+
+* **3: Developer completed all the user stories and requirements set by the client.**
+
+**2. Organization**
+
+* **4: Developer used a project management tool and updated their progress in real-time.**
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* **4: Project shows exceptional use of testing at different layers (above 95% coverage).**
+
+**2. Code Quality**
+
+* **3: Project demonstrates solid code quality and MVC principles.**
+
+
+### Product Experience
+
+**1. User Experience**
+
+* **4: Project exhibits a production-ready and polished UX.**
+
+
+**2. Performance**
+
+* **4: Project pages load on average under 300 milliseconds.**
+
+
 *Feedback to Anna:*<br>
 I loved the chance to work with Anna again! Though this project started with 4 people, I was happy that Anna and I ended up sticking with it. I know we both hope we can contine working on this project to make to even better, but I am also very happy with where we ended up. Anna is a super hard worker and always gets her work done. She was very communicative with me, and we were effectively able to divide and conquer much of the work. When there was a particular challenege, however, she was always willing to pair with me so we could figure it out. I really enjoyed this project with Anna and hope it's not the end of it!
 
