@@ -215,3 +215,7 @@ January 12th, present capstone project at demo night.
 * **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
 * **E: Peer & Instructor Feedback**: 3
+
+## Outcome
+
+Passed
