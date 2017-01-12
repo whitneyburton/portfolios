@@ -4,6 +4,9 @@
 
 What did you get technically and professionally out of this module? How are you going to use it in the future?
 
+At the beginning of module 2 we took some time to write down what we wanted to get out of the module personally and professionally and how we wanted to grow as a community member. I wrote this on that day:
+
+
 ## Self-Evaluated Rubric Scores
 
 Find the rubric near the end of this document.
