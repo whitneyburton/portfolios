@@ -18,19 +18,112 @@ Find the rubric near the end of this document.
 
 ## A: End of Module Assessment
 
-Add your notes and scores here.
+## Evaluation Criteria
+
+Evaluator: Sal
+
+Student: Nick E
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+1. Conceptual Understanding
+
+  * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
+
+2. Analytic/Algorithmic Thinking
+
+  * 3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+
+3. Feature Completeness
+
+  * 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+
+4. ActiveRecord Syntax and Style
+
+  * 3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+
+5. Rails Style
+
+  * 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+6. Testing
+
+  * 3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
+
+7. Collaboration
+
+  * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ## B: Individual & Group Work
 
 ### Group Projects
 
-#### [Project Name](include-link-to-production-site-here)
+bike share
+little shop
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+#### [Bike Share](https://github.com/jdconrad89/bike-share)
+
+The project will be assessed with the following rubric:
+
+##### 1. Functional Expectations
+
+* 2: Application has some small missing base functionality
+
+##### 2. ActiveRecord
+
+* 3: ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. A project at this level may have some queries that have not produced the correct results based on the expectations described, but in those cases the query was still generally on the right path and demonstrated some minor misunderstanding.
+
+##### 3. User Experience and Conventions
+
+* 3: Project still uses appropriate routes and HTTP verbs. User experience is pleasant, but may need additional improvement before truly being ready to be deployed to production for a client.
+
+##### 4. Code Organization/Quality
+
+* 4: Code is organized so that the main application file is primarily concerned with HTTP requests/responses. Other logic is refactored to be included in other Ruby objects, and code responsible for analyzing information in the database exists in the appropriate ActiveRecord models. Methods are appropriately refactored to have a specific purpose and generally do not exceed eight to ten lines. The purpose of methods is generally clear and easy to understand/follow. Logic is not included in ERB views, and is instead in the controller or model as appropriate.
+
+##### 5. Testing
+
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+##### 6. Working Collaboratively
+
+* 3: Good use of branches, pull requests, and a project-management tool.
+
 
 ### Individual Projects
 
-#### [Project Name](include-link-to-production-site-here)
+rails mini
+
+
+#### [Job Tracker](https://github.com/ski-climb/job-tracker)
+
+##### 1) Database, Relationships, and Migrations
+
+* 4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+
+##### 2) Routes
+
+* 4: Routes are defined for all functionality and not any additional functionality. All routes conform to RESTful conventions for resources, and routes to pages that are not specifically for resources stored in the database are not named in a way that an experienced developer would find surprising.
+
+##### 3) Controllers
+
+* 4: The developer has moved logic out of the controllers and into the models/POROs where appropriate. The developer uses strong params in a private method. Instance variables being passed to views are appropriately named and limited in number. The developer can speak to each choice made when questioned.
+
+##### 4) ActiveRecord
+
+* 4: ActiveRecord methods are used in models to supply all appropriate functionality. Methods exist on the appropriate model, and developers are not referencing other classes or self in models unnecessarily. Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality. The developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models.
+
+##### 5) Views
+
+* 3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
+
+##### 6) User Experience
+
+* 4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
+
+##### 7) Testing
+
+* 4: Project has a running test suite that exercises the application at multiple levels
 
 If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
 
