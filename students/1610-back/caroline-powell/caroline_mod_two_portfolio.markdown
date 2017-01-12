@@ -18,7 +18,7 @@ So how did I do on these things?
 
 ## Self-Evaluated Rubric Scores
 
-Find the rubric near the end of this document.
+Find the rubric near the [end](#rubric) of this document.
 
 * **A: End of Module Assessment**: 4 / Student achieved two or more "4"s on the assessment (Module 3 requires three or more "4"s)
 * **B: Individual & Group Work**: 4 / Student consistently helps their teammates be their best selves, learn at
@@ -85,7 +85,7 @@ How did you actively contribute to the Turing community?
 ( Leave blanks for reviewers )
 
 
-# Portfolio Rubric
+# <a name="rubric"></a>Portfolio Rubric
 
 For Module 2, your portfolio will be evaluated using the following rubric. Earning at least
 a three in each category is the baseline for promotion/graduation.
