@@ -210,17 +210,17 @@ I looked forward to setting up a DTR in each of my pairings in order to better u
 
 [DTR with Staci for Game-Time ](https://docs.google.com/document/d/1d91F_Zkfc9cOjwWXmQ0tqfYiUq85vkrha4xunop2tJ0/edit?usp=sharing)
 
-
-
-
-### Professional Development Workshops
 ###Gear Up Reflections
 
-#### Growth Mindset
+[Introversion/Extroversion](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+[Feedback](https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md)
 
 [Growth Mindset](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-(Thoughts)
+[Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+### Professional Development Workshops
 
 #### Personal Branding
 
