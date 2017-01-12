@@ -131,7 +131,7 @@ This module we had some real world requirements as we make our way closer to ent
 
 ## The Plan
 
-[Link to the Plan]()
+[Link to the Plan](https://gist.github.com/danbroadbent/15ddbef6b051113f2d36d4a010ed79ba)
 
 ## E: Feedback and Community Participation
 
