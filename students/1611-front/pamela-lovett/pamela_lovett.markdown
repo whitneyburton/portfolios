@@ -65,12 +65,12 @@ I enjoyed working on an individual project to the start the module because it ga
 
 Individual Projects:
 * Mythical Creatures
-* Penguin Party [GitHub URL](https://github.com/thatPamIAm/penguin-party)
-* Static Comp 1 [GitHub URL](https://github.com/thatPamIAm/static-comp)
-* Static Comp 2 [GitHub URL](https://github.com/thatPamIAm/pl-comp-challenge-2)
+* [Penguin Party](https://github.com/thatPamIAm/penguin-party)
+* [Static Comp 1](https://github.com/thatPamIAm/static-comp)
+* [Static Comp 3](https://github.com/thatPamIAm/pl-comp-challenge-2)
 * Static Comp 3 (in progress)
 
-#### Number Guesser
+### Number Guesser
 
 * [GitHub URL](https://github.com/thatPamIAm/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -114,7 +114,7 @@ I completed 3 group projects in a group this module:
 * Idea Box
 * Game Time
 
-#### Linked List
+### Linked List
 
 * [GitHub URL](https://github.com/becs919/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
@@ -141,7 +141,7 @@ Well done, need to work on locking in details like indentation consistently. Had
 #####CSS Style
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-#### Idea Box
+### Idea Box
 
 #####Description: An application that allows the user to both record, store, and retrieve data/information.
 
@@ -173,7 +173,7 @@ Good JS - continue refactoring and breaking out logic into smaller, more readabl
 #####Collaboration
 3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
-#### Game-Time
+###Game-Time
 
 * [GitHub URL](https://github.com/stacimcwilliams/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
@@ -211,9 +211,20 @@ I looked forward to setting up a DTR in each of my pairings in order to better u
 [DTR with Staci for Game-Time ](https://docs.google.com/document/d/1d91F_Zkfc9cOjwWXmQ0tqfYiUq85vkrha4xunop2tJ0/edit?usp=sharing)
 
 
+
+
 ### Professional Development Workshops
+###Gear Up Reflections
+
+#### Growth Mindset
+
+[Growth Mindset](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+(Thoughts)
 
 #### Personal Branding
+
+I really liked the support that was given for building up or resumes and linkedIn. I also really enjoyed being able to take (and talk about) the strengths finder test with Allison and others in the cohort.
 
 [Resume](https://docs.google.com/document/d/1UMrtYOMdpfScS-BWISaqAGcLAA90kHOyZMwkVk-tlsU/edit?usp=sharing)
 
@@ -277,15 +288,8 @@ Currently, I am an active member in the JC Society and parenting slack channels.
 
 I make an effort to reach out to those in my cohort by striking up conversation in and out of class that is related to class discussions as well as more informal things. I also use Slack as a way to stay connected to others in the cohort.
 
-Despite it being optional to attend, I have made it a point to attend every Friday speaker (with just one exception.) I have managed to connect with a number of people from the BE program from these events as well as other mixers/special events that Turing has put together.
+I have made it a point to attend every Friday speaker (with just one exception.) I have managed to connect with a number of people from the BE program from these events as well as other mixers/special events that Turing has put together.
 
-###Gear Up Reflections
-
-#### Growth Mindset
-
-[Growth Mindset](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
-
-(Thoughts)
 
 ------------------
 
