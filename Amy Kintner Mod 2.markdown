@@ -88,9 +88,11 @@ This was the innagural edition of a new first group project, Bike Share, in whic
 <br>
 At our final group retro, we each exchanged one "negative" and one "positive" feedback, and here's my breakdown: 
 <br>
-Negative/Improvement Potential: overall I think people agreed that I should make it more known that I'm available on screenhero (Lucy said she "wanted more access to me" as her negative feedback, and Jason echoed that) for pairings and problem solving because it appears that I'm super good at that, and more people want to use me for it
 <br>
-Positive/YAY: it was generally agreed that I'm "fearless" and everyone was SUPER happy that I tackled 3/4ths of the dashboards and just rolled with that by myself while Nick and Lucy and Jason worked to fix the issues with the trips. Nick and I had a couple great pairings on screenhero late into some nights, and so he was pleased with my flexibility and willingness to just hang around and help keep him up/be an extra set of eyes. 
+*Negative/Improvement Potential*: overall I think people agreed that I should make it more known that I'm available on screenhero (Lucy said she "wanted more access to me" as her negative feedback, and Jason echoed that) for pairings and problem solving because it appears that I'm super good at that, and more people want to use me for it
+<br>
+<br>
+*Positive/YAY*: it was generally agreed that I'm "fearless" and everyone was SUPER happy that I tackled 3/4ths of the dashboards and just rolled with that by myself while Nick and Lucy and Jason worked to fix the issues with the trips. Nick and I had a couple great pairings on screenhero late into some nights, and so he was pleased with my flexibility and willingness to just hang around and help keep him up/be an extra set of eyes. 
 
 #### Scoopful
 
@@ -108,9 +110,11 @@ I was the project manager for our team, so I did the original setup for us and m
 
 At our final group retro, we each exchanged one "negative" and one "positive" feedback, and here's my breakdown: 
 <br>
-Negative/Improvement Potential: Kyle suggested that I could have taken a more dominant role in some of our in-person idea-wrangling sessions, as we had a group with four strong personalities and needed someone to really put a foot down about some thing early on; Schutte pointed out that I seem to get worried and assume the worst when things go wrong - which is totally true - and he said that I could work toward trying to change that; Annie echoed what Kyle said and told me that she never wanted to hear me say I was sorry for being sick again. 
 <br>
-Positive/YAY: everyone thanked me for an overall excellent job as PM, and Kyle specifically said that he thought I did a great job neogtiating the group's many "strong" personalities, and he thought I did an excellent job delegating work without meddling in the way the work was carried out; everyone also agreed that they were super pleased about the way I handled being sick and the way I was so open about not wanting to screw up the project by messing with it too much when I was feverish; Annie said she likes how thoughtful and deliberate I am before acting; Schutte liked how clean my code always was. 
+*Negative/Improvement Potential*: Kyle suggested that I could have taken a more dominant role in some of our in-person idea-wrangling sessions, as we had a group with four strong personalities and needed someone to really put a foot down about some thing early on; Schutte pointed out that I seem to get worried and assume the worst when things go wrong - which is totally true - and he said that I could work toward trying to change that; Annie echoed what Kyle said and told me that she never wanted to hear me say I was sorry for being sick again. 
+<br>
+<br>
+*Positive/YAY*: everyone thanked me for an overall excellent job as PM, and Kyle specifically said that he thought I did a great job neogtiating the group's many "strong" personalities, and he thought I did an excellent job delegating work without meddling in the way the work was carried out; everyone also agreed that they were super pleased about the way I handled being sick and the way I was so open about not wanting to screw up the project by messing with it too much when I was feverish; Annie said she likes how thoughtful and deliberate I am before acting; Schutte liked how clean my code always was. 
 
 ## D: Professional Development
 In the realm of professional development this mod, we focused a lot on two things, largely fitting into these two categories: job-searching and preparation and better team/group workflow and feedback. We had a long session with Meg and Lia during the first two weeks about Cold Outreach emails, and we had a number of helpful sessions with Allison about feedback giving and receiving. 
