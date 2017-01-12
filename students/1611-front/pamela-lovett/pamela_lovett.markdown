@@ -265,6 +265,10 @@ You are a respectful person to work with. You are committed to understanding eve
 
 ####from Krystin 1611FE (IdeaBox)
 
+You are determined, dedicated, you have a ton of grit, AND seemingly limitless energy. You came in early, stayed late, weekends - even when feeling under the weather. During our project, we put in a LOT of hours - many of which were spent scratching our heads! Our collective ability to never flip out in frustration was pretty impressive - we kept the overall tone light and humorous. I enjoyed the time we spent working together a lot, no matter how much we wanted to pull out our hair.
+
+You can be more direct with others, especially when you want to test an idea don't hesitate to go rogue and test out a bunch of things. Version control shall set us free.
+
 ####from Kyle 1611FE
 
 Pam is great! I really love her ability to take the lead and start up class discussions.
