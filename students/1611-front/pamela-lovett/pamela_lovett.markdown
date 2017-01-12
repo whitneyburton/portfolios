@@ -60,18 +60,18 @@ Collaboration
 ## B: Individual Work & Projects
 
 Individually, I completed the following projects:
-* Penguin Party [https://github.com/thatPamIAm/penguin-party]
+* Penguin Party [https://github.com/thatPamIAm/penguin-party](GitHub URL)
 * Mythical Creatures (4 left to complete on Centaur)
-* Static Comp 1 [https://github.com/thatPamIAm/static-comp]
-* Static Comp 2 [https://github.com/thatPamIAm/pl-comp-challenge-2]
+* Static Comp 1 [https://github.com/thatPamIAm/static-comp](GitHub URL)
+* Static Comp 2 [https://github.com/thatPamIAm/pl-comp-challenge-2](GitHub Url)
 * Static Comp 3 (in progress)
 
 #### Number Guesser
 
-* [https://github.com/thatPamIAm/number-guesser]()
-* [http://frontend.turing.io/projects/number-guesser.html]()
+* [https://github.com/thatPamIAm/number-guesser](GitHub URL)
+* [http://frontend.turing.io/projects/number-guesser.html](Original Assignment)
 
-A game that allows the user to guess a number between 1 and 100.
+* A game that allows the user to guess a number between 1 and 100.
 
 Evaluator: Robbie
 
@@ -111,13 +111,14 @@ I completed 3 group projects in a group this module:
 
 #### Linked List
 
-* [https://github.com/becs919/linked-list]()
-* [http://frontend.turing.io/projects/linked-list.html]()
+* [https://github.com/becs919/linked-list](GitHub URL)
+* [http://frontend.turing.io/projects/linked-list.html](Original Assignment)
 
 Evaluator: Louisa
 
-Notes:
+* An application that allows the user to generate bookmarks on a webpage.
 
+Notes:
 Well done, need to work on locking in details like indentation consistently. Had a slight lack of balance between both Pam and Becca sharing the JS and CSS writing. Used jQuery and Flexbox, which required some end-of-project refactoring to include. Good job taking risks!
 
 #####Functional Expectations
@@ -137,13 +138,14 @@ Well done, need to work on locking in details like indentation consistently. Had
 
 #### Idea Box
 
-* [https://github.com/thatPamIAm/idea-box]()
-* [http://frontend.turing.io/projects/ideabox.html]()
+* An application that allows the user to both record, store, and retrieve data/information.
+
+* [https://github.com/thatPamIAm/idea-box](GitHub URL)
+* [http://frontend.turing.io/projects/ideabox.html](Original Assignment)
 
 Evaluator: Robbie
 
 Notes:
-
 Filter was not working, but implementation was close (jQuery each)
 Good conversation in GitHub, but more of it, especially in the PR descriptions
 Good JS - continue refactoring and breaking out logic into smaller, more readable functions
@@ -168,10 +170,10 @@ Good JS - continue refactoring and breaking out logic into smaller, more readabl
 
 #### Game-Time
 
-* [https://github.com/stacimcwilliams/game-time]()
-* [http://frontend.turing.io/projects/game-time.html]()
+* [https://github.com/stacimcwilliams/game-time](GitHub URL)
+* [http://frontend.turing.io/projects/game-time.html](Original Assignment)
 
-Build a game that is playable in the browser.
+* Build a game that is playable in the browser.
 
 ######Functional Expectations
 4 - Application is fully playable and exceeds the expectations set by instructors
@@ -198,67 +200,7 @@ The output from JSHint shows…
 ## D: Professional Skills
 
 ####DTR from Game-Time Project with Staci:
-[https://docs.google.com/document/d/1d91F_Zkfc9cOjwWXmQ0tqfYiUq85vkrha4xunop2tJ0/edit]
-
-######What are your learning goals for this project?
-Pam: Deeper level of understanding of the code; Increasing comfort in ‘jumping in’ and trying new ideas and things w/the code
-
-Staci: To increase comfort level in JS and work on breaking down projects to the smallest piece and working from there. 	
-
-######What is your collaboration style? How do you feel about pair programming vs. divide-and-conquer approaches?
-Pam: I prefer pair-programming (in-person when possible) with JS. I prefer working on HTML/CSS together in terms of planning… however, don’t mind the divide and conquer approach for ‘knocking it out.’
-
-Staci: I prefer pair programming when programming JS or new concepts. Fine with divide and conquer on CSS/HTML. I can be flexible.
-
-######How do you communicate best? How do you appreciate receiving communication from others?
-Pam: I am fairly direct and to the point. I am very available on slack during nearly all hours of the day.
-
-Staci: In-person is always the best. I like using slack and screenhero as well. I appreciate honesty in communication as long as it is constructive and delivered kindly.
-
-######How would you describe your work style?
-Pam: I like working independently and with a partner. I definitely like to “think things out” before jumping in. I have no problem reaching out to others after I find myself struggling with a problem.
-
-Staci: Very collaborative, like to talk through problems and think out loud. I try to    tackle something myself but if I am not making progress I seek out help.
-
-######What’s gone well or poorly in your previous projects?
-Pam: Both of my projects have turned out to be great learning experiences. Past projects have taught me to stop being so gun-shy with the actual coding process as well as the need to speak up if I have a differing opinion on things.
-
-Staci: Great learning experience. Was paired with peers who had a different  learning/communication style and was happy to be exposed to it. Felt my partners and I were able to be flexible with each other and learn from each other. Made new friends!
-
-######What do you need (resources, environment, communication) to do your best work?
-Pam: I need to make sure that we both feel comfortable with getting enough exposure to all areas of the project. I think this can be done by working collaboratively together. I also need to vent.
-
-Staci: I need a safe place where I can be honest about challenges. I really try to celebrate “wins” no matter how small. Open communication is very important and if there is a conflict I would want to resolve it immediately. 									
-
-######What scheduling restraints do you have? What are your scheduling preferences?
-Pam: I am VERY flexible remotely and have good flexibility for in-person meet-ups. I have no preferences for scheduling, especially over the X-Mas break. I do think my brain works better in the mornings, though. HA!
-
-Staci: NA
-
-######What is your style for giving feedback? Does anything ever hold you back from giving feedback?
-Pam: I am pretty direct in any feedback that I do give (which hasn’t been much these last few projects).
-
-Staci: Not really in a place comfortable giving feedback in technical areas but am working on my comfort level there. I think giving and receiving constructive feedback is really beneficial and enjoy receiving it.
-
-######What do you identify as being your biggest strength(s) technically, as they relate to this project? Where do you feel you could use improvement in your technical skills, as they relate to this project? How can our team help support you in improving these skills?
-
-Pam: I could use improvement in both CSS and JS. I feel like my strength in JS is edging out my CSS after the last project, but not by much. I could use improvement in all technical areas. I think the best way my team can help support improving my skills is working together.
-
-Staci: Strong communication/collaboration skills. Comfortable in HTML and somewhat in CSS. Avidly working on strengthening my JS skills. Very open to improving those in any way my partner suggests.
-
-######What tools do you want to use to manage the project?
-Git/Github/Waffle/Slack
-
-######How do you want the group to solve problems when members run into issues with features of the project?
-	1) Consult each other/pseudo code/write out ideas
-	2) Google/Stack Overflow
-	3) Consult peers/pairings
-
-######How do you know if a project is successful? How can we achieve that as a group?
-Pam: For me, a project is successful if both team members walk away from it having learned something. I am more concerned that we both have a solid understanding of what is going on than getting a “perfect” project turned in.
-
-Staci: If I feel I strengthened my technical skills during the project.
-(3’s).  Teamwork makes the dream work!
+[https://docs.google.com/document/d/1d91F_Zkfc9cOjwWXmQ0tqfYiUq85vkrha4xunop2tJ0/edit](Google Doc DTR)
 
 ### Gear Up
 #### Vote Your Conscience
