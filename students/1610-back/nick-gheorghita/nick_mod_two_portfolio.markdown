@@ -189,6 +189,10 @@ Ethan Bennett - Our shared technical interests have led to a lot of time spent t
 
 David Knott - Working with David was a pleasure. He’s intelligent, knows his material, and is not afraid to take on challenging problems. 100% reliable. David came through multiple times with unique solutions by diving deep into ActiveRecord, which improved the overall outcome of our project immensely. Always a fun guy to be around, even while banging his head on the computer for hours trying to figure out what broke our database. Look forward to continue learning and building code with this guy.
 
+Laszlo Balogh - Calm and cool under pressure, Laszlo is a fantastic addition to any team. His attention to detail and unbounded love for robust testing is an invaluable quality to have within any group. His knowledge is thorough, and if you ever run into a problem, Laszlo’s always there, with genuine interest, to help you arrive at the best solution. Would love to work on another project with him, and look forward to seeing all the cool things he builds.
+
+Improvement Suggestion: It was a struggle to come up with an improvement suggestion. Don’t be afraid to be more vocal, but for the most part keep doing you!
+
 Dan Rodriguez - I’m stoked I was able to work on a project with Dan. His calm demeanor kept the mood light, even when we’ve been grinding out the hours. Dan had no problem taking up the responsibility of being product manager, and he killed it. Kept everyone on top of the current project status, regularly updated the waffle, and kept us on track. Not only that, but he was always handy with a clever solution to any code challenges we ran into. Look forward to building cool things in the future together.
 
 ### Being a Community Member
