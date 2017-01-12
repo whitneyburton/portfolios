@@ -47,7 +47,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 With every project I could see my ability to use ruby grow. I really enjoyed the challenge of working on the projects, and believe they are what really drove the development of my understanding. I struggled tremendously with being able to translate my conceptual understanding into functional application. However, as each project presented a new set of challenges, the exposure to new expectations advanced my ability to recognize how to execute new functionality. When we were given the Binary Search Tree I had no idea how to even start, however by the time we kicked-off Headcount I had was able to not only come up with a strategy, but also implement it.  
 
-#### Date Night
+### Date Night
 
 Repo: https://github.com/CjMoore/Date-Night
 
@@ -57,16 +57,16 @@ Build a Binary Search Tree
 
 Assessed by: Mike
 
-## Notes:
+### Notes:
 * Tests are very thorough.
 * Sort and health arent working.
 * Not everything was an attr-accessor <3
 * include method loses data during execution, does not traverse the tree properly
 * 36 tests total.
 
-## Scores:
+### Scores:
 
-## Evaluation Rubric
+### Evaluation Rubric
 
 The project will be assessed with the following rubric:
 
@@ -90,7 +90,7 @@ The project will be assessed with the following rubric:
 
 * 3: Application makes effective use of loop/recursion techniques
 
-#### Battleship
+### Battleship
 
 Repo: https://github.com/CjMoore/Battleship
 
@@ -100,7 +100,7 @@ Build a Battleship game
 
 Assessed by: Mike
 
-##Notes:
+### Notes:
 * 34 tests, all passing
 * Only writes instructions
 * Using a space class is... very classy
@@ -133,7 +133,7 @@ Unscored.
 
 * 1: Application does not run, crashes on start.
 
-#### Headcount
+### Headcount
 
 * [GitHub Url](https://github.com/CjMoore/headcount)
 * [Original Assignment](http://backend.turing.io/module1/projects/headcount)
@@ -152,7 +152,7 @@ Notes:
 * I like how File IO was pulled out
 * Look into sad path testing and predicate methods
 
-## Evaluation Rubric
+### Evaluation Rubric
 
 The project will be assessed with the following guidelines:
 
@@ -188,7 +188,7 @@ The output from `rake sanitation:all` shows...
 
 I only did one group project this Module, but I really enjoyed working with my partner. We struggled a lot with Complete Me, but ultimately I think we got a lot farther than I would have gotten on my own. It was a huge challenge to coordinate writing code, not only because of my introverted nature, but also because of time. I found that it took a lot more time to get through parts of the project, simply because we both had to have an established understanding before we moved forward. Overall, I would say I learned as much about ruby as I did about communication working on this project.
 
-#### Complete Me
+### Complete Me
 
 * [GitHub URL](https://github.com/CjMoore/CompleteMe)
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
