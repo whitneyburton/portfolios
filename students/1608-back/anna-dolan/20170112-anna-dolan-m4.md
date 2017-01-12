@@ -296,6 +296,8 @@ Erin Pintozzi: I have worked with Erin several times over my time at Turing,  an
 
 Vido Seaver: My first time working with Vido was on Pinspiration. He was enthusiastic and helpful when we conceptualized our project, and we got off to a quick start. He did tend to get frustrated or hung up on smaller tasks, and sometimes this led to the project moving forward more slowly than expected. However, a big positive is that Vido is very motivated to learn.
 
+Megan Talbot: I was really happy to get to work with Megan again on the client pitch project. She is a really hard worker, and an easy person to work with. She is very flexible and open to ideas, and we were successful both in pairing and in splitting up work. I also appreciate that Megan is quick at working through problems, and she is always a good second set of eyes when bugs or frustrations come up. I hope we will get to continue work on our project in mod 4, because I know that the two of us can create a really wonderful finished product.
+
 ### Being a Community Member
 
 Anthony Ciccone: "This was my first time being in a project with Anna and it was a great experience. I liked how honest and straight forward you were when working together which really helped clarify and set expectations. Anna was super hard working and also completed most of the really hard ActiveRecord Quieres. One suggestion for improvement would be if you doing a project/interview and your are on a time limit or you don’t know the answer for example try not to express/show you stressed even if you are inside. I really appreciated all the hardwork and time you put into the project! Would love to work with Anna again."
