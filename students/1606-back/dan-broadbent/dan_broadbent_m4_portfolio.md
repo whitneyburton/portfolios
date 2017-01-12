@@ -93,10 +93,10 @@ REDID THE HOT AND TOP FUNCTIONALITY TO UPDATE PROGRESS TO A 3.
 
 (Intro)
 
-#### (Project Name)
+#### (Monocle)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/danbroadbent/monocle)
+* [Original Assignment](http://backend.turing.io/module4/projects_overview)
 
 (description)
 
@@ -105,6 +105,13 @@ REDID THE HOT AND TOP FUNCTIONALITY TO UPDATE PROGRESS TO A 3.
 (evaluation scores)
 
 (feedback to me)
+
+#### (Open Source Contribution)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
 
 ## D: Professional Development
 (Intro)
