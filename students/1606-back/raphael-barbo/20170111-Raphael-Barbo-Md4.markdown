@@ -62,6 +62,63 @@ Individual projects I completed:
 * Individual Open Source | GetStream 
 [Github](https://github.com/rsbarbo/stream-ruby)
 
+* Self-Directed Project
+
+For my self-directed project, I decided to join in the React team that was being guided by Andrew.  I set out to learn React on my own, and it was good to have Andrew's leadership to follow throughout the proceed. While I didn't make as much progress as I would have liked to have made with React, I was still able to spend a great deal of time building applications and being able to use it to contribute in my [Open Source Task](https://github.com/applegrain/creact). In addition, I have been able to spend a decent amount of time on tutorials and learning documentation, and I am glad to say I feel somewhat comfortable working with this framework.
+
+So what have I learned thus far about React? React is a `UI library` developed at Facebook to facilitate the creation of interactive, stateful & reusable UI components. It is used at Facebook in production, and Instagram.com. One of the greatest advantages of using React is that it performs on the client side, but it can also be rendered server side, and they can work together inter-operably.
+
+It also uses a concept called the Virtual DOM that selectively renders subtrees of nodes based upon state changes. It does the least amount of `DOM manipulation` possible in order to keep your components up to date. So the question becomes, how does a Virtual DOM works??
+
+Imagine you had an object that you have modeled around something (whether it is a car, a person, or a house), It has every relevant property an object could possibly have, and mirrored the object's current state. This is basically what React does with the DOM. 
+
+Now imagine you took that object and made some changes (color, shape or form). In React-land, when we apply those changes, two main things will take place. First, React runs a “diffing” algorithm, which identifies what has changed (what a magical world react really is, isn't it). The second step is reconciliation, where React updates the DOM with the results of diff.
+
+So React takes all the changes you have made, and rather than rebuilding the entire object from the bottom to the top, it will only 'render' the changes you have made (like a plastic surgery). That translates into less use of memory space being taken, productive rendering, and of course, less stress about unwanted changes being made to the DOM.
+
+## The Basics
+
+React’s basic building blocks are called `components`.
+
+```
+import React from 'react';
+
+class Search extends React.Component {
+  render() {
+    return (
+      <div className="row">
+        Hello World!
+      </div>
+    )
+  }
+}
+```
+
+I know right!!! Probably wondering what kind of Javascript/HTML chimera sorcery is taking place right now. It is called `JSX`, a  `Javascript XML` syntax transform. It allows you to write `HTMLish` tags in your Javascript. I say HTMLish because there are a few gotchas here. You are really just writing XML based object representations.
+
+For regular `HTML tags`, the `class` attribute is simple class whereas in React it is called `className`. The reason for such a small but reasonable change is that Javascript have those words reserved so in order to translate it proper in JSX they had to come up with clear, understandable ways to mimic without losing its uniqueness. 
+
+Here is a little example:
+
+```
+return (
+      <div className='container'>
+        <CreateIdeaForm saveIdea={ this.storeIdea.bind(this) }/>
+        <Search />
+        <IdeaList ideas={this.state.ideas}
+                  destroy={this.destroyIdea.bind(this)}
+                  updateTitle={this.updateTitle.bind(this)}
+                  updateBody={this.updateBody.bind(this)}/>
+      </div>
+    );
+```
+
+I won't write a blog post here, but some other real cool things I learned with React are:
+
+** PROPS, Specs, Lifecycle & State, Lifecycle methods (componentWillMount, componentDidMount, etc...), and Events **
+
+There are still a lot other things I want to learn about React. I love the framework and I will definitely be diving into it more and more throughout the upcoming weeks. 
+
 
 ---
 
