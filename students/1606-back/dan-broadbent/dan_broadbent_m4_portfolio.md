@@ -122,22 +122,34 @@ Video overview of Monocle: https://vimeo.com/199076606
 
 This module we had some real world requirements as we make our way closer to entering our first jobs.  Our main requirement was to reach out to several developers in the community for informal meetings to get a better sense of what's out there and maybe get some potential leads for jobs.  I also began applying to jobs this module, which proved to be quite successful.  I have had many calls with companies, several technical challenges, and one on location interview.
 
-### Professional Development Workshops
-#### (Session Name)
+### Professional Development Accomplishments
 
-* [Link to Completed Deliverables]()
+* [Cold Outreach Emails](https://docs.google.com/document/d/1VhoFZf3BnKLmpDh6rbwxP3SR-y9dqV48mb0il_DVRSU/edit)
+* [Jobs Tracker](https://docs.google.com/spreadsheets/d/15DzhMLH_4wy7ByGPpy3BnHNrbla7DW71HQ5gFcDoPNw/edit#gid=0)
+* [iLoan Technical Challenge](https://github.com/danbroadbent/payment_exercise)
+* [Rabbit Internet Technical Challenge](https://github.com/danbroadbent/city_twitter) - [Production](https://citytwitter.herokuapp.com/)
 
-(takeaways from session)
+## The Plan
+
+[Link to the Plan]()
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+To Susi Irwin: "Susi, it has been a pleasure working with you again.  We’ve had to work together on some really tough challenges.  Your attitude and perseverance make all the difference in moving things forward.  Even when we were struggling through implementing javascript, jQuery, and AJAX for the first time in our project, we kept at it and kept moving forward trying different ideas and taking turns driving.  It was a tough pairing session but ultimately very rewarding when we finally got it.  You don’t give up and show a lot of grit.  I’m lucky to have had you in my cohort and I’ve really enjoyed getting to know you and work with you."
+
+To Brendan Dillon: "Brendan, it’s been awesome having you on my team again.  You pulled us through some really tough challenges where it was really hard to diagnose what the problem was.  For example, noticing the difference in authenticating the user when their browser was using a http URL vs a https URL.  Your attention to detail and ability to keep many aspects of the problem in your mind is impressive.  You’ve always got a positive attitude, you have a great sense of humor and it’s a pleasure having you on the team."
+
+To Nate Anderson: "Nate, I’m really glad we finally got to work together on a big project.  You were awesome to pair with.  When we were working together on figuring out how to filter our data with scopes, we got it to a great flow and it was the most fun I had all project.  I felt that I got to know you a lot better as a person and a programmer during this project.  Your positive attitude and willingness to take on any problem were a real asset to the team.  I’d be happy to work with you again."
+
+To Ryan Workman: "Ryan, I was really excited to get to work on another project with you.  Although it was only for the first week of the project, we still got some solid pairing time in.  We were working on what should have been a tedious task of database normalization, but we got into a great flow and it turned out being a lot of fun.  It was a combination of your positive fun personality and your killer technical skills that made it so enjoyable.  You’re an awesome programmer, and whatever company ends up hiring you will be lucky to have you on their team."
 
 ### Being a Community Member
 
-(feedback to me)
+From Susi Irwin: "You stepped up on day 1 and offered to PM the project. Kudos to you for that! I admire your ability to stand up for your opinions to the tech leads and present the facts as you seem them, back them up with evidence and present your case. You never get emotional about it, you simply state what you know, what you see, and your proposed outcome. You have amazing communication skills both written and spoken. You present yourself in a professional manner but still know how to sit back and joke around when the timing is right. Pairing with you on the Notes section of the project was great. Thank you for trusting me to struggle through some bugs and knowing when to step in and offer guidance and support. You are a natural leader and it was great working with you again."
+
+From Ryan Workman: "Hey Dan.  It was great to get to work with you again after knocking out Little Shop together.  Your growth since Module 2 is astounding.  Your laid back style and easy-going personality is an asset to any team, not to mention your technical strength.  While we only got to work together for the first week of the module, pairing with you to change the database normalization and fixing failing tests was great.  I know that whatever happens over the next few months out of Turing, you will go far in your career.  Keep in touch!"
 
 ### Playing a Part
 
