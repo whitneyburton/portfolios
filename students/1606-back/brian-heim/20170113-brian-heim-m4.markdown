@@ -72,25 +72,30 @@ I am very proud not only of my work during the past six weeks of class, but of t
 
 ## B: Individual Work & Projects
 
-This section contains individually completed work...(more)
+This section contains individually completed work using the React library. More in the Capstone Project section.
 
 ### React work
 
-React is a javascript library that 
 
 #### ReactBox 
 
-* [https://github.com/bheim6/api_curious]
+* [https://github.com/bheim6/react_box]
 
 __Project__ description:
 
+IdeaBox built in React, this was completed part in-class and finished for homework 
 
+* Built to function like [https://github.com/Carmer/reactBox]
 
 #### ReactRouter 
 
-* [https://github.com/bheim6/api_curious]
+* [https://github.com/bheim6/react-router-revisited]
 
 __Project__ description:
+
+Tutorial on using the React Router
+
+* Parent Repo on GitHub [https://github.com/martensonbj/react-router-revisited]
 
 
 ---
