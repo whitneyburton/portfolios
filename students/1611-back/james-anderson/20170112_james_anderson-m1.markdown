@@ -177,6 +177,7 @@ Some replication of code in encrypt/decrypt
 
 * [GitHub URL](https://github.com/cmacaulay/headcount)
 * [Original Assignment](http://backend.turing.io/module1/projects/headcount)
+* DTR (https://docs.google.com/document/d/1A2UncXTJozYl6GoNYY41jRmAjoxCPrb31OSDXv0hKBo/edit)
 Assessed By: Beth Sebian
 
 Repo: https://github.com/cmacaulay/headcount
@@ -246,7 +247,8 @@ I found this Gear Up incredibly valuable. Firstly, it changed my entire view of 
 
 * [Workshop URL](http://backend.turing.io/professional_development/module_one/personal_branding_p1)
 * [Link to Completed Deliverables](https://www.linkedin.com/in/james-patrick-anderson
-  https://github.com/ande1618/)
+  https://github.com/ande1618/
+  https://resume.creddle.io/resume/6woabnpfnu4)
 
 It was very encouraging to be introduced to Allison and Meg this early on and know that Turing is serious about our professional development and continued success after the program. I find it incredibly difficult to paint my experiences in the best light because it's just my normal life to me. Because of that, I found swapping resumes and linkedin accounts useful because others gave me some areas to focus and expand on.
 
