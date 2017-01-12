@@ -2,8 +2,6 @@
 
 ## End of Module Reflection
 
-What did you get technically and professionally out of this module? How are you going to use it in the future?
-
 Technically I feel as though I can build something that is of actual use.  To test this theory, I'm putting together a proof of concept for a bike race organizer who wants an 'issue reporter' for participants to be able to report hazards or changing course conditions during a fund-raising bike ride.  To that end, I feel incredibly more comortable in Rails building a simple CRUD app (with authentication!) and am  looking forward to getting into more complex topics.
 
 Professionally I'm still learning the best way to work in a group as a developer.  Working with so many talented, intelligent and tremendously hard working individuals is a huge benefit of being here - and a challenge.  How can I put this - as a group, I don't think we played a lot of team sports.  I'm glad that we're going through these growing pains as a tight knit group who has already suffered together.  Without that common bond it would be harder to simply speak our minds and not step on each others toes.  I think that the group dynamic will change with each group, and getting through the Stormin' phase takes a lot of effort and empathy.  I also firmly believe that, as programmers, we get the most bang for our buck (learning + actual progress) when we pair program (on a topic that we reasonably understand).
@@ -14,7 +12,7 @@ My goal for future team projects will be to continue to pair program.  My second
 
 Find the rubric near the end of this document.
 
-* **A: End of Module Assessment**: X
+* **A: End of Module Assessment**: 4
 * **B: Individual & Group Work**: X
 * **C: Professional Skills**: X
 * **D: Feedback**: X
@@ -64,8 +62,8 @@ Subjective evaluation will be made on your work/process according to the followi
 
 ### Group Projects
 
-bike share
-little shop
+
+# Need little shop
 
 #### [Bike Share](https://github.com/jdconrad89/bike-share)
 
@@ -98,7 +96,9 @@ The project will be assessed with the following rubric:
 
 ### Individual Projects
 
-rails mini
+#### [Rails mini project](https://secret-atoll-69525.herokuapp.com/)
+
+The rails mini project (a.k.a. Auth Squared for Authentication and Authorization) was one of my favorites this mod.  I had tried to learn about authentication before via the session, and for some reason the content did not click with me.  The instruction explaining the topic was excellent.  And I'm glad we had a chance to suffer through this for a project on our own.  The introduction to sessions made Little Shop practically pleasant to code up since we had such a strong foundation in how sessions work.  (Please forgive the 'session id' in the production app - it is my comfy reminder of what is going on.)
 
 
 #### [Job Tracker](https://github.com/ski-climb/job-tracker)
@@ -148,16 +148,120 @@ Include takeaways and deliverables from each session.
 ## D: Feedback
 
 ### Giving Feedback
+For Robbie:
+I was very excited to discover that Robbie was on my team for Little Shop.
+As I've been getting to know him in class I always appreciated his strong
+work ethic, thirst for knowledge and creative approach to solving
+programming problems.
 
-(feedback from me)
+Working with Robbie on Little Shop was an excellent learning experience.  I
+respect his desire for clean code and refactoring-as-you-go approach.
+Robbie is always willing to share the gems of knowledge he has researched
+and is constantly working to improve his craft.  
+
+I hope to get paired up with Robbie in the future and tackle something big.
+He's a solid partner and produces excellent work for the team.
+
+For Caroline:
+I was excited to get a chance to work with Caroline on Little Shop.  She
+seemed to have a fundamentally solid knowledge of how databases work and
+relationships between datasets.  
+
+Working with Caroline was an excellent learning opportunity for several
+reasons.  She has a fantastic eye for detail and takes an analytical
+approach to programming.  Perhaps one of her greatest strengths was
+reviewing code.  She quickly had a grasp of what it was supposed to do and
+asked piercing (yet somehow still very polite) questions when the code
+didn't seem to behave like one might expect.  She was fun to pair program
+with and helped us churn out a metric ton of clean code.  
+
+She was a solid partner for designing databases and instantly understood
+how the database structure would relate to the Rails models.  
+
+It also has to be said that she was the driving force behind including
+Stripe in our project and spearheaded the effort.  
+
+For Amy:
+It was awesome to work with Amy on Bike Share!  She was always willing to
+tackle any aspect of the project - whether we had an idea of how to do it
+or not.  She was particularly skilled at diving in where we *didn't* know
+what the approach might be and simply found a way to figure it out.  Our
+dashboards and analysis would not have come out nearly so well if it hadn't
+been for her effort (and considerable ruby skill).  
+
+I also really appreciate that Amy helped us stay organized as a group.  She
+lead the charge on using Waffle and changed our perception of it from being
+an extra hassle to a truly useful tool because she made it work for us.  
+
+Amy was always beaming energy and tackle tough situations with a happy and
+calm attitude.  Looking forward to having her on my team again!
+
+For Jason:
+I'm glad I got a chance to work with Jason on Bike Share.  I knew him from
+class as a rather jovial jokester.
+
+Working with him on the project revealed that he has a fierce work ethic and
+will simply delve in deeper if he gets stuck or doesn't understand
+something 100%.  
+
+One afternoon we paired on some of the forms for Bike Share, and it might
+have been the most in-depth look at forms/parameters/controllers that I've
+had during my time at Turing.  I walked away with a much better
+understanding of how information from forms gets passed around, and that
+was due to Jason's tireless work effort and tremendous research he had
+done.
+
+In short, it was great to get a chance to work with Jason, and the guy
+truly never quits.  I have a lot of respect for that attitude.  
+
+For Mike Shutte:
+Mike: I wanted say I'm glad we've ended up in the same cohort at Turing.
+While you are remarkably hard-working, have a passion for coding, and bring
+a fresh curiosity to whatever you do, I'd like to highlight something else
+entirely.  
+
+Turing presents a number of challenges to its students - only some of them
+are coding related.  Many are social, or even deeply personal.
+When a ticklish subject has come up, you exhibit a vulnerability when
+communicating that is both genuine and disarming.  In these moments of
+vulnerable strength you often ask the question or make the statement that
+was on my mind but I didn't know how to put into words.  I respect your
+measured approach and level head.
+
 
 ### Being a Community Member
 
-(feedback to me)
+#### Drills for Skills:
+From Mike Schutte
+Nick: I just wanted to reach out and share my gratitude for your support on starting up Drills for Skills. I don’t think we ended up getting the turnout we expected or wanted, but we made the most of the sessions and I think they helped everyone involved. Your thirst for knowledge and good form in programming is contagious, and I always love doing a little research binge on whatever topic comes up in conversation. Where many would leave thoughts such as ‘I wonder how to…’ , you more than anyone I know are ready to explore right away. Thanks for making the hunt for skills and knowledge a fun an collaborative one. I hope to work on a project with you one day!
+
+#### Bike Share:
+From Jason:
+I had the privilege of working with Nick on Bike Share. Almost immediately I was impressed with his knowledge and understanding of how to do some of the things required to do for our project. He was always willing to pair if people were having issues and was always looking into new and interesting ways to do things. Both in the production and the testing. He was always willing to take the time to slow down and explain something if someone didn't understand exactly what it was that we were doing. I learned quite a bit from him on the project. His willingness to put in long days and work on something was also very appreciated.  I would be more than willing to work with him again.
+
+From Amy:
+It was amazing to get the chance to work with Nick on Bike Share. He’s a tireless worker who is more than willing to put in long hours - if necessary…and it was necessary - to finish up a project or help others with issues and de-bugging. He’s a GREAT set of extra eyes when hunting for problems, and he helped all of us, at some point, with small Git issues. He’s got some great knowledge from his previous work at a Rails firm, and that helped us work through some of the more problematic issues of the project. We couldn’t have done it without him!
+
+
+#### Little Shop:
+From Robbie:
+It was good working with Nick over the course of the little shop project. He is incredibly smart and I learned a ton from working with him during this project. I was able to increase my knowledge on everything from github to databases and that is pretty sweet.
+
+From Lucy:
+I feel very fortunate to have worked with you twice this mod. We certainly did not shy away from any challenges! I appreciate your work ethic, endless patience, and ability to explain all of the concepts we are discussing. You were a really important part of both teams, and I have definitely learned a lot from you.
+
+From Caroline:
+This was my first time and a privilege to get to work with Nick. Nick worked with developers before coming to Turing and you can really tell how much knowledge he obtained from that experience. He has an excellent grasp of Ruby and Rails and is a master of TDD. I really appreciated him taking so much time to explain topics to me that I was unfamiliar with. My knowledge greatly increased in this project as a result. It was also a privilege to have an industry guru on the team to answer questions about "the real world" and best practice industry norms for high-quality professional developers.
+
+I also have to say that he has great leadership skills. He helped facilitate several team discussions on important decisions and I thought it was very helpful and effective.
+
+
 
 ## E: Community Participation
 
 How did you actively contribute to the Turing community?
+
+This mod I really wanted to help out the Mod 1 students.  I know that it was a challenge for me to pull through the six intense weeks of effort.  And I think part of that was feeling slightly isolated and not realizing how many resources were available as a Mod 1 student.  So I opened up my schedule and paired with Mod 1 students about twice a week.  I also helped out Mike Schutte with his excellent Drills for Skills sessions as well. 
 
 ------------------
 
