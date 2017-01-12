@@ -270,5 +270,10 @@ I think I have played a very active part in the Turing Community this mod.  I ha
 ( Leave blanks for reviewers )
 
 ## Outcome
+PASS
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3.5
