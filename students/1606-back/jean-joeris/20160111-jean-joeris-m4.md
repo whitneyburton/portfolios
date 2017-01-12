@@ -67,8 +67,8 @@ These were the learning goals I defined at the beginning of the final 2 week spr
   * Rebuild ideabox with phoenix and react
   
 Of these goals, I was able to meet the meet the first two. The third one is in progress. I have a Phoenix app that communicates to Enroll's postgres database and have built a few Phoenix models using this db. I have worked through a tutorial on building a json api in Phoenix. The only reason I haven't built the Enroll endpoint is that it requires serious use of the Phoenix ORM (Ecto). I could try to hack it together using raw sql, but 
-  a. the json is complicated enough I'm not sure this would work, and
-  b. I was to actually learn how to use Ecto
+  1. the json is complicated enough I'm not sure this would work, and
+  2. I was to actually learn how to use Ecto
 I am happy to try and deliver this controller some time next week.
 
 The stretch goals were not achieved, but I have made progress towards them. The Phoenix book I am working through is building a project that uses the concurrency capabilities of Phoenix. I also have a fun idea for a React/Phoenix project to build - see Phoenix Paint in Side Hussle under The Plan.
