@@ -509,6 +509,21 @@ From Ali Schlereth:
 
 This module I had the pleasure of teaming up with Schutte in Pahlka Posse.  He was a great addition to our group. One of the things I appreciate most about him, is his enthusiasm for solving problems. Early in our project, when working with a foreign tool, he put together a solution and offered it up before many of the rest of us had even had time to devote to figuring it out. He continued to be a devoted part of our team contributing great ideas and feedback along the way.
 
+From Nick Erhardt:
+
+Mike: I wanted say I'm glad we've ended up in the same cohort at Turing.
+While you are remarkably hard-working, have a passion for coding, and bring
+a fresh curiosity to whatever you do, I'd like to highlight something else
+entirely.  
+
+Turing presents a number of challenges to its students - only some of them
+are coding related.  Many are social, or even deeply personal.
+When a ticklish subject has come up, you exhibit a vulnerability when
+communicating that is both genuine and disarming.  In these moments of
+vulnerable strength you often ask the question or make the statement that
+was on my mind but I didn't know how to put into words.  I respect your
+measured approach and level head.
+
 ## E: Community Participation
 
 How did you actively contribute to the Turing community?
