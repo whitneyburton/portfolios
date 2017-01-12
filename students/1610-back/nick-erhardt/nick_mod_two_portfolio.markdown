@@ -156,7 +156,6 @@ The deliverables were 7 cold outreach emails, which I have completed (just) but 
 
 The session was very interesting in that it definitely gave good examples of how to get that first foot in the door when there is a company that you would like to work for.  I think the process is fascinating and am curious to see what comes out of the emails.  It was very uncomfortable for me to reach out to strangers and ask for help.  I prefer at least a lukewarm outreach personally.
 
-#### (Session Name)
 #### [Agile Project Management](https://github.com/turingschool/professional_skills/blob/master/module_two/agile_practices_project_management.md)
 While I am a fan of Agile Project management because I firmly believe in delivering one piece of funcionality at a time so that a client can experiment, I do think that waterfall has it's place on smaller team projects.  Sometime you just have to have a basic schema and drawing of the fundamental relationships established so that the rest of the app feels cohesive and not ad-hoc.  Still I very much enjoyed the opportunity to practice with Waffle.  Amy K. was a whiz at it during Bike Share.  She showed the value so well that I even used Waffle when I worked solo on Job Tracker.
 
