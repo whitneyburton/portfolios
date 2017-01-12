@@ -166,6 +166,11 @@ Dan Broadbent: "You stepped up on day 1 and offered to PM the project. Kudos to 
 
 [Link to Project Documentation PR - Code - Add a new Famous Last Words Faker to the Faker](https://github.com/stympy/faker/pull/792)
 
+### The Process
+
+I am still working on my fakers. I have dug into the code very deeply and have a better understanding of what is happening. My tests are moving along but not passing at this point. My passes were premature when I submitted my PR, but I had no real way to know that until it was reviewed by another contributor. I am in conversation with that person now. I am VERY excited but know this will be a long process.
+
+
 [Blog about Open Source](https://medium.com/@susi27/fake-it-til-you-eat-your-dessert-a43aec0a4b4b#.yajawijba)
 
 Feedback from Nate Anderson:
