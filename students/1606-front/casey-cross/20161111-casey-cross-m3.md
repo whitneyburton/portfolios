@@ -1,4 +1,4 @@
-# Casey Cross -  M2 Portfolio
+# Casey Cross -  M3 Portfolio
 
 ### Module 3 (Front-end)
 
