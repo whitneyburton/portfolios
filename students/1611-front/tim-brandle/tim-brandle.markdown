@@ -240,10 +240,4 @@ I have made an effort to attend all of the Turing events and guest speakers. Hel
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
