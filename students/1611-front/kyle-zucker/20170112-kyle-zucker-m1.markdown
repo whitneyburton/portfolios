@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My personl emphasis was to learn, work with other developers and start building lasting relationships. And code a lot. 
+My personal emphasis was to learn, work with other developers and start building lasting relationships. And code a lot. 
 
 ## Rubric Scores
 
@@ -61,7 +61,7 @@ Here are some things I've done by myself
 * [Link](https://zkc.github.io/KZ-comp-challenge-2/)
 * [GitHub URL](https://github.com/zkc/KZ-comp-challenge-2)
 
-A lovely example of CSS. I'm fond of the side-scrolling navagation icons on the top. I finally started to feel comfortable with positioning and flex-box after this project.
+A lovely example of CSS. I'm fond of the side-scrolling navigation icons on the top. I finally started to feel comfortable with positioning and flex-box after this project.
 
 #### Number Guesser
 
@@ -98,7 +98,7 @@ Here are some things I've done with other people
 * [GitHub URL](https://github.com/marissa27/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-Steve needs to get his nut back home! Guide Steve thru the perilous Nutcracker infested forests. This project increased my love of objects in js. This the first time I've experinced a "thing of codes" become large enough to start to have a personallity of sorts. 
+Steve needs to get his nut back home! Guide Steve thru the perilous Nutcracker infested forests. This project increased my love of objects in js. This the first time I've experienced a "thing of codes" become large enough to start to have a personality of sorts. 
 
 Evaluator: Bree
 
@@ -225,7 +225,7 @@ Use lots of branching effectively
 
 * [Workshop URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-This workshop discussed the concept of "grit" and its applications to your Turing experience. I consider myself a "gritty" person and have been my entire life. The idea of building grit wasn't one that felt too relavant to me. That said it was interesting to take a step back and look at the concept thru an outside lens. It was funny to hear Ellen Mary say "you still have such a long time left, you have 5.5 months left!" as I would consider a time period that's less than 6 months as not much, basically no time at all. 
+This workshop discussed the concept of "grit" and its applications to your Turing experience. I consider myself a "gritty" person and have been my entire life. The idea of building grit wasn't one that felt too relevant to me. That said it was interesting to take a step back and look at the concept thru an outside lens. It was funny to hear Ellen Mary say "you still have such a long time left, you have 5.5 months left!" as I would consider a time period that's less than 6 months as not much, basically no time at all. 
 
 
 ## E: Feedback and Community Participation
@@ -248,7 +248,7 @@ Working with you has been really great. You make it easy to make your skillset t
 
 ### Playing a Part
 
-I greatly value my relationships will everyone in the Turing comunity and made it a point to establish as many positive relationships in this mod. I feel satisfifed with my involvement. 
+I greatly value my relationships will everyone in the Turing community and made it a point to establish as many positive relationships in this mod. I feel satisfied with my involvement. 
 
 ------------------
 
