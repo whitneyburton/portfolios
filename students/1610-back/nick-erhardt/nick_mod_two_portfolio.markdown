@@ -4,6 +4,12 @@
 
 What did you get technically and professionally out of this module? How are you going to use it in the future?
 
+Technically I feel as though I can build something that is of actual use.  To test this theory, I'm putting together a proof of concept for a bike race organizer who wants an 'issue reporter' for participants to be able to report hazards or changing course conditions during a fund-raising bike ride.  To that end, I feel incredibly more comortable in Rails building a simple CRUD app (with authentication!) and am  looking forward to getting into more complex topics.
+
+Professionally I'm still learning the best way to work in a group as a developer.  Working with so many talented, intelligent and tremendously hard working individuals is a huge benefit of being here - and a challenge.  How can I put this - as a group, I don't think we played a lot of team sports.  I'm glad that we're going through these growing pains as a tight knit group who has already suffered together.  Without that common bond it would be harder to simply speak our minds and not step on each others toes.  I think that the group dynamic will change with each group, and getting through the Stormin' phase takes a lot of effort and empathy.  I also firmly believe that, as programmers, we get the most bang for our buck (learning + actual progress) when we pair program (on a topic that we reasonably understand).
+
+My goal for future team projects will be to continue to pair program.  My second goal is to earlier recognize when a code review has gone off the rails and should table a longer, technical, discussion for another time.
+
 ## Self-Evaluated Rubric Scores
 
 Find the rubric near the end of this document.
