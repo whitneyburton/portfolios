@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I wanted to work with other developers and start building those relationships. And code a lot. 
+My personl emphasis was to learn, work with other developers and start building lasting relationships. And code a lot. 
 
 ## Rubric Scores
 
