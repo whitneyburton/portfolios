@@ -34,7 +34,6 @@ Weekly job prep activities:
 
 ## B: Individual Work & Projects
 
-(Intro)
 
 #### Apicurious :: Github Clone
 
@@ -82,20 +81,6 @@ Sentence frames and academic supports are built upon the guideline of the
 
 ### Projects
 
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
 
 #### Rales_Engine
 
