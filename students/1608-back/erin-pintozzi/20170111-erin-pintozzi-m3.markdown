@@ -339,7 +339,7 @@ I had the opportunity to work with Vido twice this module on Cloney Island and R
 
 I have worked with Erin several times over my time at Turing,  and she always is a treat to work with. She was the project manager for our group on Inspiration, and she kept us on track and kept our user stories clear. When I had some issues with another group member, she was very understanding and helped me to keep calm and continue working. I have been lucky to work with Erin as much as I have, but I would still love to work with her again! **- Anna Dolan**
 
-Feedback from **- Jon Kimble**
+Erin was a fantastic person to work on S.A.B. and for our cloney island group project.  Erin's strong organization skills were invaluable and really sped up our whole work flow.  In addition to these organizational skills Erin's ability to work with others and handle issues that arise is outstanding and a huge asset.  It was great working with Erin this mod and I look forward to the opportunity to work together again! **- Jon Kimble**
 
 
 Feedback from **- Vido Seaver**
