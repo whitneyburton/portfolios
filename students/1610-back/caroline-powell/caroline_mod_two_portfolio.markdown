@@ -82,7 +82,7 @@ Our group for this session was skeptical of using the word 'grit' for the topic 
 
 ### Professional Development Workshops
 #### [Agile Project Management](https://github.com/turingschool/professional_skills/blob/master/module_two/agile_practices_project_management.md)
-Include takeaways and deliverables from each session.
+One of my favorite books is The Lean Startup by Eric Ries. The book basically lays out all the reasons why companies and teams and everyone should use the agile approach in pretty much everything. It's important to iterate and get to quick minimal results as fast as you can, so that you can learn and course correct on errors before doing a ton of work and having to scrap it.
 
 #### [Cold Outreach](https://github.com/turingschool/professional_skills/blob/master/module_two/cold_outreach.md)
 Include takeaways and deliverables from each session.
