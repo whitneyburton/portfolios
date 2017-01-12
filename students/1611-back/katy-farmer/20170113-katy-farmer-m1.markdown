@@ -84,24 +84,24 @@ Create a binary search tree to store movies and their scores.
 
 1. Functional Expectations
 
-
-**1: Application is missing more than one base expectation**
+  **1: Application is missing more than one base expectation**
+  
 2. Test-Driven Development
 
-**4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
+  **4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
 
 
 3. Encapsulation / Breaking Logic into Components
 
-**2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear**
+  **2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear**
 
 4. Fundamental Ruby & Style
 
-**2.5: Shows some refactoring, but could use a lot more**
+  **2.5: Shows some refactoring, but could use a lot more**
 
 5. Looping or Recursion
 
-**3: Application makes effective use of loop/recursion techniques**
+  **3: Application makes effective use of loop/recursion techniques**
 
 ### Battleship
 
@@ -116,22 +116,27 @@ tested the REPL
 used File IO to pull instructions from a text file w
 1. Fundamental Ruby & Style
 
-3: Application shows strong effort towards organization, content, and refactoring
+  3: Application shows strong effort towards organization, content, and refactoring
+
 2. Enumerable & Collections
 
-3: Application demonstrates comfortable use of several Enumerable techniques
+  3: Application demonstrates comfortable use of several Enumerable techniques
+
 3. Test-Driven Development
 
-4: Application is broken into components which are well tested in both isolation and integration
+  4: Application is broken into components which are well tested in both isolation and integration
+
 4. REPL Interface
 
-4: Application's REPL goes above and beyond expectations to improve the gameplay
+  4: Application's REPL goes above and beyond expectations to improve the gameplay
+
 5. Breaking Logic into Components
 
-3: Application effectively breaks logical components apart with clear intent and usage
+  3: Application effectively breaks logical components apart with clear intent and usage
+
 6. Functional Expectations
 
-4: Application meets all requirements, and implements one extension properly.
+  4: Application meets all requirements, and implements one extension properly.
 
 
 ## C: Group Work & Projects
@@ -159,23 +164,23 @@ Nate got distracted by trying to refactor an elsif, but doesn't have any judgeme
 
 1. Functional Expectations
 
-**3: Application fulfills all base expectations**
+  **3: Application fulfills all base expectations**
 
 2. Test-Driven Development
 
-**4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
+  **4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
 
 3. Encapsulation / Breaking Logic into Components
 
-**4: Application is expertly divided into logical components each with a clear, single responsibility**
+  **4: Application is expertly divided into logical components each with a clear, single responsibility**
 
 4. Fundamental Ruby & Style
 
-**3: Application shows strong effort towards organization, content, and refactoring**
+  **3: Application shows strong effort towards organization, content, and refactoring**
 
 5. Enumerable & Collections
 
-**4: Application consistently makes use of the best-choice Enumerable methods**
+  **4: Application consistently makes use of the best-choice Enumerable methods**
 
 #### Headcount
 
@@ -197,29 +202,29 @@ The project will be assessed with the following guidelines:
 
 1. Functional Expectations
 
-3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
+  3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
 
 2. Test-Driven Development
 
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+  3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
 3. Encapsulation / Breaking Logic into Components
 
-3: Application effectively breaks logical components apart but breaks the principle of SRP
+  3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 4. Fundamental Ruby & Style
 
-3: Application shows strong effort towards organization, content, and refactoring
+  3: Application shows strong effort towards organization, content, and refactoring
 
 5. Enumerable & Collections
 
-4: Application consistently makes use of the best-choice Enumerable methods
+  4: Application consistently makes use of the best-choice Enumerable methods
 
 6. Code Sanitation
 
 The output from rake sanitation:all shows...
 
-4: Zero complaints
+  4: Zero complaints
 
 ## D: Professional Skills
 (Intro)
