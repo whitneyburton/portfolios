@@ -108,14 +108,13 @@ Favorite Knowledges / Fields of Interest:
 -Entertainment
 -Networking
 
-Kinds of People To Work With:
+Kinds of People To Work With: (priority)
 -Accountable
 -Willing to share knowledge
 -Humble
 -Motivated & driven
 -Accepting of failure
-
-Transferable Skills:
+-Transferable Skills:
 -SEO
 -Agency management
 -Client management
@@ -124,24 +123,24 @@ Transferable Skills:
 
 Preferred Working Conditions:
 -Open environment
--No cubicles
+-No cubicles (priority)
 -Option for remote work eventually
 -Paired programming
 -Diverse teams
 
 Salary / Responsibility:
-- 65-70k to start.
+- 65-70k to start. (priority)
 - I'd be open to a sr dev position.
 - I'd like to foster jr. devs into mid-level devs
 - Hopefully make 150k + in a higher dev position
 
 Preferred Places To Live:
--Denver
+-Denver (priority)
 
 Goals / Purpose
 -I want to make life easier for people.
 -I want to create something that creates an industry
--I want to connect artists to create inspiring pieces of art
+-I want to help connect artists to create inspiring pieces of art
 
 
 ## E: Feedback and Community Participation
