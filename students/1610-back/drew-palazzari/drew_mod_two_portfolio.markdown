@@ -199,6 +199,23 @@ Constructive Feedback: Don't take on too much work. Kyle did too much work, even
 
 You-are-awesome Feedback:  I think our collaborative work styles really meshed well together. Had a ton of fun working on this project with Kyle. Kyle is an excellent coder, and there is a ton to learn from him. I would be very pleased to work with Kyle again. 10/10
 
+Feedback to Nick G. :
+ Nick is a lot of fun to work with. He brings a code attitude as well as excellent code to the table. Working with him, there was no challenge that was insurmountable. I hope I work with him on future projects again.
+
+Constructive Feedback: It is hard for me to think of something that Nick needs to improve upon. I would say that a good area to improve, would be to be more available when working remote. Often times, the group would wait for a good amount of time waiting for Nick to check out a pull request. This was not a problem in this particular project (it was not too hard) but it would be a problem for a bigger, more difficult project.
+
+Feedback to Laszlo: 
+
+Positive Feedback: Working with Laszlo has been a real pleasure. Laszlo is an excellent coder, a great personality, and an incredibly intelligent person. His love for tables and thorough testing is legendary (and contagious) and I hope that I get paired with him on a project again.
+
+Constructive Feedback: I think Laszlo's code and intelligence is very high level. Sometimes, this makes it difficult to follow. It would behoove Laszlo to do better at explaining his code in some instances. This is a very small issue however. Considering that English is not Laszlo's primary language, he does a wonderful job of communicating.
+
+Feedback to Daniel: 
+
+Positive Feedback: Daniel did an excellent job as Project Manager. He made sure every card we were given was completed, he was fair, he trusted the team, he's smart, and is a wonderful coder. Daniel was always available for communication and did a really good job of organizing waffle cards and getting the group together for meetings. I would be honored to work with Daniel again on a project.
+
+Constructive Feedback: I challenge Daniel to speak his voice more often. I think he is incredibly intelligent, and I know for a fact he has really good ideas. He is also very quiet. Speak up, Daniel! You're ideas rock. Also, like me, practice your styling.
+
 ### Being a Community Member
 
 Josh's Feedback to me:
