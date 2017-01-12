@@ -161,7 +161,7 @@ This is a wonderful post! I hope you continue writing - so interesting to read a
 ***Feedback from Jasmin Hudacsek:***
 
 ###### Is the topic clear to you from the first few sentences? Does the writer clearly describe the topic?
-The topic recounts a personal programming expereience Sonia had with CORS and Heroku on a brownfield application. I feel that she stayed on topic throughout her post.
+The topic recounts a personal programming experience Sonia had with CORS and Heroku on a brownfield application. I feel that she stayed on topic throughout her post.
 
 ###### Does the title fit the post?
 Yes.
