@@ -42,9 +42,14 @@ Find the rubric near the [end](#rubric) of this document.
 
 ### Group Projects
 
-#### [Project Name](include-link-to-production-site-here)
+#### [Bike Share](https://github.com/mollybrown/bike-share)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+* **A: Functional Expectations** - 3.5 / Application fulfills base expectations and adds two extensions
+* **A: ActiveRecord** - 4 / Appropriate ActiveRecord methods are used to query the database and live in the appropriate model. No Ruby is used to organize data after database queries.
+* **A: User Experience and Conventions** - 4 / Project uses Sinatra methods and ERB templates to display both resources and non-resource related views with appropriate routes, and HTTP verbs. All functionality can be accessed in the application where expected based on the spec. User experience is exceptional ('client ready') and all pieces of the application can be accessed without entering addresses manually in the nav bar.
+* **A: Code Organization/Quality** - 4 / Code is organized so that the main application file is primarily concerned with HTTP requests/responses. Other logic is refactored to be included in other Ruby objects, and code responsible for analyzing information in the database exists in the appropriate ActiveRecord models. Methods are appropriately refactored to have a specific purpose and generally do not exceed eight to ten lines. The purpose of methods is generally clear and easy to understand/follow. Logic is not included in ERB views, and is instead in the controller or model as appropriate.
+* **A: Testing** - 3 / Application is well tested but does not balance isolation and integration/feature tests
+* **A: Working Collaboratively** - 3 / Good use of branches, pull requests, and a project-management tool.
 
 ### Individual Projects
 
