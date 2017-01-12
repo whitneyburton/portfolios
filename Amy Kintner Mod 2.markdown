@@ -2,7 +2,8 @@
 
 ## All the Web Development, All the Time
 
-Overall, I just wanted this mod to be a better mental environment for me, which it absolutely was. The workflow and project assigment schedule fit much better with my own "perfect" learning environment, and I was able to relax a bit, which helps me absorb material a LOT better than the constant, unabating stress of Mod 1. 
+Overall, I just wanted this mod to be a better mental environment for me, which it absolutely was. The workflow and project assignment schedule fit much better with my own "perfect" learning environment, and I was able to relax a bit, which helps me absorb material a LOT better than the constant stress of Mod 1. 
+<br>
 <br>
 In terms of content, I thought this mod was fascinating, well-paced, and extremely well-taught. There was never a point during which I felt lost or without easy access to resources that would help me solve whatever issues arose, part of which was due to the fact that our cohort is quite close-knit and friendly, but another part of which was due to the impeccable pace of lectures and new material. Many thanks to both Sal and Casey for this.
 
