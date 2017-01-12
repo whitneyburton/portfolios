@@ -156,7 +156,7 @@ Good conversation in GitHub, but more of it, especially in the PR descriptions
 Good JS - continue refactoring and breaking out logic into smaller, more readable functions
 
 #####Specification Adherence
-2.5 - The application is in a usable state, but is missing 1 or more of the features outlined in the specification above.
+2.5 - The application is in a usable state, but is missing 1 or more of the features outlined in the specification above..
 
 #####HTML Style
 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
