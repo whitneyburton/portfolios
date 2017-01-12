@@ -78,11 +78,60 @@ We collaborated to Lovisa's CREACT Tutorial. It was not only fun to do it, but t
 
 ### Enroll
 
-* [GitHub URL](https://github.com/turingschool/enroll)
-* [Enroll](http://enroll-staging.turing.io/invitation-required)
-* [Apply](http://apply-staging.turing.io/)
+* [Enroll GitHub URL](https://github.com/turingschool/enroll)
+* [Enroll Staging](http://enroll-staging.turing.io)
+* [Apply Staging](http://apply-staging.turing.io/)
+
+### Capstone Project
+
+This was a six weeks long project, our cohort was split up into three teams with different projects, two of which were meant to communicate with each other. I personally worked on the Enroll team, which was an active enrollment app for Turing students. We were asked to implement new features as well as modify current functionalities so that it could integrate with its sister project aka Census.
+
+The main features I have made contributions are `Smart Search`, `Testing Suites`, and last but not list the initial communication between Enroll and Census.  
+
+### Enroll
+
+`Enroll` is an enrollment app for new students. They must register through `Apply`, an authentication service, before gaining access to Enroll. Future iterations will have Enroll speak to Census to do the authentication side of it (instead of Apply).
 
 _FEEDBACK NOTES_
+
+I'll just ramble for a while. I've decided that you were given some above average difficulty, but not impossible tasks. Everyone complains about Josh Cheek's code, but I don't think it's out of the realm of possibility of things you'll find, especially in the open source world. I've found that gems and libraries are written by people that are just coding all the time, and they need to keep themselves interested.
+
+The real struggle that I stepped into was process. Our goal was to simulate how projects are really done in the working world, and your process was holding you back. Communication between the different roles on the team, staff and student, was broken. People didn't know what others were thinking, how to get their questions across, or how to communicate progress and blockers. I can't say who's fault that is, but I'm big on personal responsibility, so I'll just say it was everyone's fault.
+
+There are actually still improvements to be made to our communication and workflow. With all that said, I went back into manager mode, and I was strict about deliverables and adherence to the workflow I've communicated, and you guys bounced back quickly. I want you to ramp up even more in the last two weeks of the project, but I'm proud of what you delivered this week and how you delivered it. You're making lasting impact on your own careers, and the cogs that make Turing run.
+
+_EVAL SCORES_
+
+### 1. Project Management
+
+* **4: Team is using a project management tool and updating their progress daily.**
+* 3: Team is using a project management tool to keep their project organized.
+* 2: Team is using a project management tool but didn't update the progress frequently.
+* 1: Team failed to use a project management tool to track its progress.
+
+### 2. Completion & Pace
+
+* 4: Team is on track to complete all stories and has tracked/completed chores and/or laid out future stories.
+* **3: Team is on track to complete all the user stories and requirements set by the client in timely manner.**
+* 2: Team is on track to complete a subset of user stories after an approved cutting of the work scope.
+* 1: Team is not on track to complete the agreed-upon stories.
+
+### 3. Implementation Quality
+
+* 4: Project demonstrates exceptionally well factored code.
+* **3: Project demonstrates solid code quality and MVC principles.**
+* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* 1: Project demonstrates poor factoring and/or understanding of MVC.
+
+### 4. Application of Techniques
+
+* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
+* **3: Project has implemented one major technique from the previous two weeks of academic classes.**
+* 2: Project has an implementation in progress of one major technique from the previous two weeks of classes.
+* 1: Project has a plan to implement a technique from academic classes.
+
+
+_PEERS FEEDBACK_
 
 **From Sonia** Feedback to Raphael Barbo: I think Rapha and I would both agree that we've learned a lot from each other about our own working and communication styles. He is the consummate professional, and I appreciate that he has been receptive to feedback. He brings a gentle positivity to every endeavor, and has put in a lot of effort on this project. I'm glad to know him, and have learned a lot about how I can improve myself not only as a programmer, but as a human.
 
@@ -92,7 +141,7 @@ _FEEDBACK NOTES_
 
 **From Jean** Feedback for Raphael Barbo: Rapha is wonderful to work with. When pairing he is happy to let people try a solution, but has no problem questioning the solution. His happy, laid back attitude makes it easy to pair with him, even in stressful situations. He essential to creating smart search, and continued to work on it with David on a day I had to leave. This is my second project working with Rapha, and both times he has been an excellent team member
 
-_EVAL SCORES_
+**From David** Raphael has matured a lot during his time at Turing, particularly in the way he approaches a group project. Not only is he a very dependable and hard working programmer, he is also light and keeps things fun. I can honestly say that it has always been a blast to work with you Raphael. You are the kind of guy I'd like to work with in the real world.
 
 ---
 
