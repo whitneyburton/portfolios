@@ -169,7 +169,7 @@ Design
 
 ##### Feedback
 
-I learned a lot while working with Adam. He has a good sense of humor, is adept in learning new skills, and above all, he is patient and tactful.
+From Andy: I learned a lot while working with Adam. He has a good sense of humor, is adept in learning new skills, and above all, he is patient and tactful.
 Adam keeps clear lines of communication and inspires a drive to improve.
 It is somewhat challenging to offer critique, because I feel Adam cares deeply about his, as well as other's success. He leads well, often by example. He carefully gauged my skill level and suggested areas of the project were I could be sufficiently challenged. Adam comports himself will confidence and tact in a way that feels to me as though he could (and should) lead in the near future.
 As far as areas of improvement.. boy this is hard, because I don't feel like Adam is behind, or struggling in some way. I'm actually watching my cursor blink trying to think of an area were he can improve.. Hey! Here's an idea versus a critique..
@@ -225,7 +225,6 @@ Code Sanitation
 * 4 - Zero complaints
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Microaggressions
@@ -268,9 +267,6 @@ In this session I learned the difference between Agile and Waterfall management 
 
 During this session I was able to build my Johori Window based on my previous partners responses. I enjoyed seeing the blind spot characteristics. I am also able to review feedback and consider Right & Wrong Spotting and how this may trigger my fight or flight response. See above link for a reflection on how I have incorporated feedback from my past partners.
 
-https://github.com/turingschool/professional_skills/blob/master/module_two/cold_outreach.md
-
-
 #### Cold OutReach
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/cold_outreach.md
@@ -301,7 +297,7 @@ I emailed Trent because Old National is one of the largest employers in Evansvil
 1/9 email - Brandon Carr(IT Staffing Manager-Pinnacle Partners):
 I emailed Brandon because when I moved to Indianapolis four years ago another associate at his office helped me find my first job. I sent him my resume and asked about the job market for junior devs in Indianapolis. I have not heard back from Brandon just yet.
 
-#### networking
+#### Networking
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
 
