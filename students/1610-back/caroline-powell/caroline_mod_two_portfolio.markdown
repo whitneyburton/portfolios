@@ -117,7 +117,7 @@ I had the pleasure of working with Ethan on the Bike Share project. Ethan is a r
 
 *-To Robbie Smith*
 
-TBD
+Robbie is the king of refactoring. It's like he has a photographic memory of all the code in a project. In our Little Shop project he was constantly noticing and calling out places where we'd written redundant code, and he took it upon himself to refactor and clean up the project. It was a really large project that could have gotten very messy if we didn't have him focusing on good clean code. This was my second project working with Robbie and again I'll say that out of everyone in our class he is one of the strongest when it comes to knowledge of ruby. He is able to constantly implement the cleanest code solutions.
 
 *-To Lucy Conklin*
 
