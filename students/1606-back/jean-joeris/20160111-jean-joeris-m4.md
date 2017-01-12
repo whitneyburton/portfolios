@@ -101,9 +101,14 @@ This project was not evaluated, but we did meet all the requirements layed out i
 
 ## Professional Development
 
-* [top three priorities in the job search and why]()
+* [top three priorities in first job](https://gist.github.com/JeanJoeris/07eec00beeee5d869700362de04d00d4)
 * [action plan for how to overcome perceived barriers to the job search]()
 * [Six cold outreach emails sent]()
+* [Blog post](https://medium.com/@jeanjoeris/a-rails-devs-perspective-on-learning-phoenix-bcbab7b2545a#.328sawgvv)
+  * [Feedback on blog post](https://gist.github.com/JeanJoeris/145e44bfee33981a26797610b2d58338)
+  
+## The Plan
+* [The plan!](https://gist.github.com/JeanJoeris/d54492eda38b30ce2fae80384657d95c)
 
 ## Community
 
@@ -133,7 +138,7 @@ I also try to make myself available to people for pairing and help when I'm hang
 
 ### Gear-up
 
-* [reflections from Gear Up]()
+* [Reflections from Gear Up](https://gist.github.com/JeanJoeris/27ff9d34d00116512f52f684a1770b5c)
 
 ## Review
 
