@@ -27,6 +27,7 @@ I spent the final two weeks of the module working on learning Python. Although I
 * [Learning Goals](https://gist.github.com/tgisg/776cd960eaeace3916b3e8b5027549b0)
 * [Deaf Grandma](https://github.com/tgisg/python_challenges/blob/master/deaf_grandma.py)
 * [Flask By Example Project](https://github.com/tgisg/flask-by-example)
+* [Learn Python The Hard Way](https://github.com/tgisg/LPTHW-exercises)
 
 ---
 
@@ -63,9 +64,20 @@ I spent the final two weeks of the module working on learning Python. Although I
 
 #### Top 3 Priorities in The Job Search and Why:
 
+1) **Located in Denver:** During my time at Turing, I have come to love Denver. I want to remain here because it feels like I have found a home, and also because I love the Turing family and want to remain an active part of it.  
+
+2) **Mid-to-large Company:** I think I will probably find more stability and job security at a mid-to-large company. They will likely have more technical procedures in place as well as more benefits. I also like the idea of being able to be around more programmers rather than less, and working regular hours without being expected to be on call.
+
+3) **Easily Accessible Mentorship and Continued Learning:** This relates to the company size priority listed above, but seeing as I will be entering the workforce as a junior developer, I believe I will benefit most from having access to mentors and other programmers to learn the ropes. I also want to be at a company that encourages my continued learning through an educational stipend or other means.
 
 
 #### Action Plan to Overcome Perceived Barriers to The Job Search:
+
+I think my biggest problem will be maintaining my own confidence level. The best way for me to combat this is to just keep coding. So I will be at Turing every day that I don't have a job, and I will be coding ever day as if I'm in school. That will help me to feel like I can stay competitive.
+
+I also really enjoy just getting to know people in the tech community, so going to meetups and remaining active on Twitter will help people warm up to me, which makes it easier for me to approach them. I've even joined a book club with some tech folks in Boulder and am looking forward to getting to know them better.
+
+Maintaining by self-branding will also be crucial in this. I published my first blog post today and it has already been retweeted by someone in the community. I suspect that continuing to publish will give me more exposure and make me more comfortable with discussing technical topics.
 
 #### Six cold outreach emails sent:
 
@@ -75,7 +87,17 @@ In the interest of not publicizing the identities of the individuals to whom I s
 
  * [Blog Post](https://medium.com/@redsonia7/all-the-worlds-a-stage-until-you-have-cors-issues-4c08268f961a#.73188die8)
 
-**Feedback from Jasmin Hudacsek:**
+***Feedback from Susi Irwin:***
+
+"Overall Impressions: Well thought out and flows wonderfully! I love the use of your humor in there to guide the reader through a super complicated project and set of problems.
+
+Structure & Formatting - Well done! Love the code snippets and information from the Heroku's site. Easy to read, and easy to follow.
+
+Grammar & Syntax - I don't see anything to update here at all.
+
+This is a wonderful post! I hope you continue writing - so interesting to read and learn from you :) Well done, Sonia!!"
+
+***Feedback from Jasmin Hudacsek:***
 
 ###### Is the topic clear to you from the first few sentences? Does the writer clearly describe the topic?
 The topic recounts a personal programming expereience Sonia had with CORS and Heroku on a brownfield application. I feel that she stayed on topic throughout her post.
