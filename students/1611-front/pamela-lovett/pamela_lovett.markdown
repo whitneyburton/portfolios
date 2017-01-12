@@ -61,9 +61,11 @@ Passing score
 
 ## B: Individual Work & Projects
 
-Individually, I completed the following projects:
+I enjoyed working on an individual project to the start the module because it gave me a good idea of where I was at, in terms of learning. It also helped to have to do everything on my own.
+
+Individual Projects:
+* Mythical Creatures
 * Penguin Party [GitHub URL](https://github.com/thatPamIAm/penguin-party)
-* Mythical Creatures (4 left to complete on Centaur)
 * Static Comp 1 [GitHub URL](https://github.com/thatPamIAm/static-comp)
 * Static Comp 2 [GitHub URL](https://github.com/thatPamIAm/pl-comp-challenge-2)
 * Static Comp 3 (in progress)
@@ -73,7 +75,7 @@ Individually, I completed the following projects:
 * [GitHub URL](https://github.com/thatPamIAm/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-#####A game that allows the user to guess a number between 1 and 100.
+#####Description: A game that allows the user to guess a number between 1 and 100.
 
 Evaluator: Robbie
 
@@ -104,8 +106,9 @@ For HTML, take advantage of shared classes between elements that are styled the 
 
 ## C: Group Work & Projects
 
-### Projects
+Initially, working in pairings turned out to be more difficult than I anticipated. Despite having a pretty solid DTR in place, I think it was difficult for both my partner and I to really grasp and implement what pairing entails. Now that I've done three group projects and seen some of the struggles that can (and do) come up in pairings, I feel very comfortable working in pairs. I love being able to learn and grow with another person by my side!
 
+Work Projects:
 I completed 3 group projects in a group this module:
 * Linked List
 * Idea Box
@@ -116,7 +119,7 @@ I completed 3 group projects in a group this module:
 * [GitHub URL](https://github.com/becs919/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-#####An application that allows the user to generate bookmarks on a webpage.
+#####Description: An application that allows the user to generate bookmarks on a webpage.
 
 Evaluator: Louisa
 
@@ -140,7 +143,7 @@ Well done, need to work on locking in details like indentation consistently. Had
 
 #### Idea Box
 
-#####An application that allows the user to both record, store, and retrieve data/information.
+#####Description: An application that allows the user to both record, store, and retrieve data/information.
 
 * [GitHub URL](https://github.com/thatPamIAm/idea-box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -175,7 +178,7 @@ Good JS - continue refactoring and breaking out logic into smaller, more readabl
 * [GitHub URL](https://github.com/stacimcwilliams/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-##### Build a game that is playable in the browser.
+#####Description: Breakout is a game where the player uses a rectangle-shaped paddle to hit a block-shaped ball and destroy rectangle-shaped tiles at the top of the screen. The goal is to destroy all the tiles without allowing the ball to fall through the bottom of the canvas. As you level up, the ball moves faster.
 
 Evaluator: Louisa
 
@@ -203,27 +206,18 @@ The output from JSHint shows…
 
 ## D: Professional Skills
 
-(Intro)
+I looked forward to setting up a DTR in each of my pairings in order to better understand my partner's pairing goals and strengths and witnesses. It served as a good ice-breaker for working together.
 
-####DTR Memo from Game-Time Pairing with Staci:
-[Google doc for GameTime DTR ](https://docs.google.com/document/d/1d91F_Zkfc9cOjwWXmQ0tqfYiUq85vkrha4xunop2tJ0/edit?usp=sharing)
-
-####Resume
-[Resume](https://docs.google.com/document/d/1UMrtYOMdpfScS-BWISaqAGcLAA90kHOyZMwkVk-tlsU/edit?usp=sharing)
-
-####LinkedIn Profile
-[LinkedIn Profile Page](https://www.linkedin.com/in/lovettp)
-
-####
+[DTR with Staci for Game-Time ](https://docs.google.com/document/d/1d91F_Zkfc9cOjwWXmQ0tqfYiUq85vkrha4xunop2tJ0/edit?usp=sharing)
 
 
 ### Professional Development Workshops
-#### (Session Name)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+#### Personal Branding
 
-(takeaways from session)
+[Resume](https://docs.google.com/document/d/1UMrtYOMdpfScS-BWISaqAGcLAA90kHOyZMwkVk-tlsU/edit?usp=sharing)
+
+[LinkedIn](https://www.linkedin.com/in/lovettp)
 
 ## E: Feedback and Community Participation
 
