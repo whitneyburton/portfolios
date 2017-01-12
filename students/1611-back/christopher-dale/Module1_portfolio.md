@@ -15,11 +15,11 @@ I am just ready to try again and succeed with knew understanding and determinati
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: N/A
 * **B: Individual Work & Projects**: 2
-* **C: Group Work & Projects**: 2.5
-* **D: Professional Skills**: 2.5
-* **E: Feedback & Community Participation**: 4
+* **C: Group Work & Projects**: 2
+* **D: Professional Skills**: 2
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -168,4 +168,4 @@ telling me the same thing.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+RETAINED
