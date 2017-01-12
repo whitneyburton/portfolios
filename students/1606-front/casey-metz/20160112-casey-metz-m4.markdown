@@ -122,3 +122,5 @@ Again, I feel like I invested a fair amount in the Turing community. This mod, m
 ( Leave blanks for reviewers )
 
 ### Outcome
+
+Pending - Resume, LinkedIn, 4 emails
