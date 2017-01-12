@@ -74,6 +74,8 @@ This section contains individually completed work...(more)
 
 ### React work
 
+React is a javascript library that 
+
 #### ReactBox 
 
 * [https://github.com/bheim6/api_curious]
@@ -101,165 +103,65 @@ API Curious focuses on consuming and working with public API data. The premise i
 
 This project lasted all six weeks of the module, our cohort was split up into three teams with different projects. I was on team Enroll, which was an active enrollment app for Turing stufents. We were asked to implement new features as well as modify functionality so that it could communicate with another groups' project Census, the new authorization service for meant for most if not all Turing apps.
 
-My main contributions were in the DevOps realm: setting up the app as well as the old auth service in a staging environment, congiuring auto-deployment, continuous integration testing(CI), working with a third app, the Dashboard, which was a React app written by a Front End Engineering student and configuring auto-deploy and CI in that app as well. I also helped fix the test suite which had numerous failures when we inherited the code, as well as worked on the smart search feature     
+My main contributions were in the DevOps realm: setting up the app as well as the old auth service in a staging environment, congiuring auto-deployment, continuous integration testing(CI), and working with a third app, the Dashboard, which was a React app written by a Front End Engineering student and configuring auto-deploy and CI in that app as well. I also helped fix the test suite which had numerous failures when we inherited the code, as well as worked on the smart search feature for the admin dashboard of the Enroll app.       
 
-### Rails Engine
+### Enroll
 
-* [https://github.com/bcgoss/rails_engine]
-* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md]
+* [http://enroll-staging.turing.io/]
+* [https://github.com/turingschool/enroll]
 
 __Project__ description:
 
-This project uses Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 
-Project Partner: Bryan Goss
 
 __Project__ scores:
 
-### Feature Delivery
-
-**1. Completion**
-
-* 4: Project completes all base requirements according to the spec harness.
-
-### Technical Quality
-
-**1. Test-Driven Development**
-
-* 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
-
-**2. Code Quality**
-
-* 3: Project demonstrates solid code quality and MVC principles.
-
-**3. API Design**
-
-* 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
-
-**4. Queries**
-
-* 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
 
 ---
 
-### Cloney Island - RESTful_stay
+### Apply
 
-* [https://github.com/kctrlv/restful_stay]
-* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/cloney_island.md]
-* [https://restful-stay.herokuapp.com/]
+* [http://apply-staging.turing.io/]
+* [https://github.com/turingschool/apply]
 
 __Project__ description:
 
-In this project, we had to build a new platform from scratch. Within it, we built an API to both internally consume and protect for external consumption. Our platform, (Air BnB clone) will be built to handle multiple types of users ("visiting" guest users, as well as registered users: travelers, hosts & admins).
 
-Fellow Group members: David Davydov, Nate Anderson, Raphael Barbo
-
-(Feedback from team further down)
 
 __Project__ scores:
 
-### Completion
-
-**Client Expectations**
-
-*   Team completed all the user stories and requirements set by the client.
-
-    *   3: As expected
-
-**User Experience**
-
-*   Project exhibits a production-ready user experience.
-
-    *   2.5: Below expectations
-
-**Organization**
-
-*   Team used a project management tool to keep their project organized.
-
-    *   3: As expected
-
-### Technical Evaluation
-
-**Git Workflow**
-
-*   Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
-
-    *   3: As expected
-
-**Test Quality**
-
-*   Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
-
-    *   4: Better than expected
-
-**Code Quality**
-
-*   Project demonstrates well-factored code and a solid grasp of MVC principles.
-
-    *   3: As expected
-
-**Bonus**
-
-We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
-
-*   Did the team push themselves by taking risks?
-    *   1: Yes
 
 ---
 
-### Self-Directed Project - Mind On The Ball
+### Turing Dashboard
 
-* [https://github.com/bheim6/football_machine_learning]
-* [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md]
-* [https://mind-on-the-ball.herokuapp.com]
+Do auth in react
+
+#### Resources for implementing Auth
+
+* AuthO method [https://auth0.com/blog/adding-authentication-to-your-react-flux-app/]
+* Redux-auth Package for Oauth [https://github.com/lynndylanhurley/redux-auth]
+* Tutorial for Stormwatch [https://stormpath.com/blog/build-a-react-app-with-user-authentication]
+
+* [https://github.com/bheim6/turing_dashboard]
+* []
 
 __Project__ description:
 
-The goal of the SDP is to create an app that will authenticate with a third-party service, consume an api, and solve an actual problem.
-
-Jean and I decided to create an app that would generate statistical predictions for the NFL. We set out to accomplish this using a machine learning algorithm called a Neural Net. The app also contains an educational blog section that documents our process during the creation of the neural net. In addition, there is a page that displays large amounts of statistical data acquired from an external api.
-
-Project Partner: Jean Joeris
-
-### [Mind On The Ball]
-
-### Pitch
-
-MOTB is an application that presents predictions based on historical data and provides an educational resource for learning about Neural Nets through NFL football statistics.
-
-### Problem
-
-1. Learning about Neural Nets is hard and without context, can be overwhelming (Normalizing data, constructing network, calculations).
-2. UI is a little outdated (all HTML).
-3. Good Football APIs are expensive and hard to come by.
-
-### Solution
-
-1. Blog posts documenting process will explain many of these issues, and potentially serve as a resource for Armstron Posse.
-2. Will utilize JavaScript/AJAX to speed up requests and limit need to refresh, improving UI
-3. Football Stats will be free to use and transparent with an API being provided.
-
-### Target Audience
-
-1. Students wishing to gain knowledge about machine learning, specifically Neural Nets.
-2. Football fans who want lightweight statistics on their favorite players with predictions for future performance.
-
-### Integrations
-
-* API
- * NFL Fantasy API
-* OAuth integration
- * Github
 
 
 __Project__ scores:
+
+
+---
+
 
 ## D: Professional Skills
 
 ### Job Shadowing Experience - Trelora
 
-I got the opportunity to shadow the developers at Trelora for an afternoon with three other Turing students. The experience was not only helpful and informative, it was also really fun! The codebase that Trelora uses is very similar to what we see at Turing every day: Ruby and JavaScript. This was very fortunate because we were able to 'pair' with each of the developers and actually help them troubleshoot and progress on different tasks, which was a pretty amazing feeling. In addition to being adept programmers, it is worth noting how welcoming and easy to talk to they were. The dev team lead Keith was an awesome host and gave us meaningful advice during our Q&A session regarding the job market, interviewing, and the job hunt in general.
+
 
 ---
 
