@@ -124,3 +124,5 @@ I will submit my emails by Sunday, likely Saturday, maybe tonight if I have time
 I am eternally grateful to the staff, particularly the Front End staff who put together over 7 months a top notch curriculum. Constantly listening to feedback, understanding that nothing is perfect, and working tirelessly to give us tools to make us successful.  Sorry for not making this process easy for you guys, but I really appreciate you putting up with the headaches.
 
 ### Outcome
+
+Pending - 3 emails
