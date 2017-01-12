@@ -57,11 +57,11 @@ MASV is a website for a local graphic design company that displays their current
 
 #####Evaluation Scores
 
-* Completion:
-* Test-Driven Development
-* Code Quality
-* User Experience
-* Performance
+* Completion: 3-4
+* Test-Driven Development: 3-4
+* Code Quality: 3
+* User Experience: 3-4
+* Performance: 4
 
 
 ## C: Group Work & Projects
@@ -105,7 +105,7 @@ Ryan is a phenomenal addition to any team. I think he has a great grasp on React
 
 It was great to be able to work with Graham again and see how far he's progressed since Mod1. As always, he was a pleasure to work with. He communicated his ideas effectively, had an unparalled workflow, and has a sincere desire to work on his weaknesses. In this particular project he chose to put a little more focus on Sass and HTML. I think Graham has a slight tendency to overcomplicate things, but I think that's something that will be improved over time as Graham continues on with development.
 
-Nick brings a certain positivety to groups, which is really great, especially during stressful times. Going into this project he expressed interest in taking on his areas of weakness which were styling and css and I was really impressed by his and Graham's initiative to take that on. They both did a great job focusing on something they hadn't had much practice on. I think initially he was feeling a little bit fuzzy on Redux concept, as we all were, but really starting getting a grasp on it by the end. Overall, just really impressed with his curiosity and passion to take on all aspects of the project. 
+Nick brings a certain positivety to groups, which is really great, especially during stressful times. Going into this project he expressed interest in taking on his areas of weakness which were styling and css and I was really impressed by his and Graham's initiative to take that on. They both did a great job focusing on something they hadn't had much practice on. I think initially he was feeling a little bit fuzzy on Redux concept, as we all were, but really starting getting a grasp on it by the end. Overall, just really impressed with his curiosity and passion to take on all aspects of the project.
 
 
 ## D: Professional Skills
