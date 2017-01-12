@@ -11,8 +11,8 @@ Moving forward I am going to be focusing much more on searching for a job, refin
 Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
 * **D: Professional Development**: 3
 * **E: Feedback & Community Participation**: 3
 
@@ -141,9 +141,7 @@ This usage of the term 'grit' was new to me. I enjoyed the perspective it gave a
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+Get back into pairing/spike/group classes in mod 4
 
 ### Outcome
-
-( Leave blanks for reviewers )
+Pass
