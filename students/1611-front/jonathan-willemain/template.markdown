@@ -17,7 +17,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 -----------------------
 
 ## A: End of Module Assessment
-DOM Assessment:
+
+## DOM Assessment:
 
 Evaluator: Bree
 
@@ -37,7 +38,7 @@ Collaboration
 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 
-OOP Assessment:
+## OOP Assessment:
 
 Evaluator: Robbie
 
@@ -63,24 +64,25 @@ Collaboration
 
 ## B: Individual Work & Projects
 
-Mythical-Creatures
-Exorcisms
-SuperFizzBuzz
-Dog Party - Red Wings Edition
-Static Comp Challenge - Local H
+#### Mythical-Creatures
+
+#### Exorcisms
+
+#### SuperFizzBuzz
+
+#### Dog Party - Red Wings Edition
+
+#### Static Comp Challenge - Local H
 https://github.com/jonwille/static-comp-challenge-1.git
-Static Comp Challenge - The Beatles
+
+#### Static Comp Challenge - The Beatles
 https://github.com/jonwille/Jon_Willemain_static_comp_2.git
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
-
-#### (Project Name)
-
-Number-Guesser:
+#### Number-Guesser:
 
 https://github.com/jonwille/Number-Guess.git
 
@@ -117,7 +119,7 @@ Fundamental JavaScript:
 
 
 
-Linked-List:
+#### Linked-List:
 
 Evaluator: Robbie
 
@@ -151,7 +153,7 @@ CSS Style:
 
 
 
-Idea-Box:
+#### Idea-Box:
 
 Evaluator: Robbie
 
@@ -191,7 +193,7 @@ Collaboration:
 
 
 
-Game-Time:
+#### Game-Time:
 
 https://github.com/jonwille/game-time.git
 
@@ -228,23 +230,22 @@ The output from JSHint shows…
 
 ## D: Professional Skills
 
-The power of "yet":
+### The power of "yet":
 
 This isn't something I have practiced prior to attending Turing, but I absolutely fell in love with the idea. The first time I went through mod one I would find myself getting discouraged because I wasn't picking up on the material as fast as others. I found myself wondering "how did I get into this school, they must have made a mistake." It wasn't until my last portfolio defense that I had this mindset, the confidence the instructors had in me to learn this material triggered that "yet" mindset. There are going to be things that I am not going to pick up as fast as other individuals, and I am okay with that. All I want to do is continue to work hard and continue to improve. With the resources Turing has I know I will continue to get better and get to where I want to be.
 
 ### Professional Development Workshops
-#### (Session Name)
 
-
-DTR:
+#### DTR:
 
 https://docs.google.com/document/d/1-K2Csgx3iJIEChYd1P4O2_aJCo8qTA2IFqEDxXO6rfc/edit
 
-Resume:
+#### Resume:
 
 https://resume.creddle.io/resume/g1nsgo15q8v
 
-Linkedin:
+#### Linkedin:
+
 https://www.linkedin.com/in/jon-willemain/
 
 ## E: Feedback and Community Participation
@@ -257,25 +258,25 @@ The enjoyed the posse's, even though the one I was in wasn't around this past mo
 
 ### Being a Community Member
 
+#### Devin Dixon
+
 Jon is an intelligent, hard-working, light-hearted person to work with. I looked forward to working with him from day one because of his grasp on fundamental concepts and syntax, and because of the fun we would have working together. He was very supportive throughout the project and celebrated each small victory I made, even if it didn't end up going towards the final product.
 
 One area of improvement would be to slow down a bit when working side by side and decide on a mutual plan of attack on how to accomplish the next step.
 
 Overall Jon is an awesome dude and collaborator.
 
--Devin Dixon
+#### Rebecca Holt
 
 Jon is a very respectful person to work with. He is willing to adapt his work style to fit the needs of his partner so the project workflow goes smoothly. He isn't afraid to delete everything and start over on a project to help him understand every line. Jon could improve on the amount of commits he makes on projects - instead of making commits with a lot of large changes, he could work on making more commits for smaller changes. Great work!! Correct!
 
--Rebecca Holt
+#### Hugh Morrison
 
 I really enjoyed my time working with Jon. We have similar work and collaborative styles and so working together was a breeze. Jon is very chilled out and is open to exploring novel approaches to problem solving. His grasp on the material is excellent and he is great at distilling and teaching ideas that are difficult to comprehend. I look forward to collaborating on projects in the future.
 
--Hugh
+#### Dylan Avery
 
 “I really miss having Jon in our cohort, but its been great to see him become one of the top programmers in the building this last six weeks. He has really developed a lot of confidence and become a model Turing student since I first met him. I think he will surprise himself and be one of the top leaders at the school before too long. Look forward to pairing with you a lot more Jon, and thank you for always coming to me for advice!!! Let’s both make lots of friends this year.”
-
--Dylan Avery
 
 
 ### Playing a Part
