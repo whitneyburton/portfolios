@@ -54,7 +54,7 @@ _EVAL NOTES_
 Individual projects I completed:
 
 * Personal Website 
-[raphaelbarbo.com](https://github.com/rsbarbo/rsbarbo.github.io)
+[raphaelbarbo.com](www.raphaelbarbo.com) | [GitHub Repo](https://github.com/rsbarbo/rsbarbo.github.io)
 
 * ReactBox
 [GitHub](https://github.com/rsbarbo/reactBox)
