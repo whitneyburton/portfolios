@@ -176,6 +176,7 @@ Design
 
 ##### Feedback from Eric Sayler
 
+Working with Dylan was a ‘breeze’(!) We decided early on to pair often and were really effective as a team in catching eachother’s mistakes and using equal participation in driving and conducting during pairing. Really enjoyed working with Dylan, he’s witty, smart, and  light-hearted in the face of challenges and making mistakes, which is perfect when pairing. Dylan did a great job with Sass styling as well, which I’m less comfortable with, so I learned a lot about that too! By pairing as much as possible, we stayed motivated and were very productive in producing a great end product and given the chance I look forward to working with Dylan again in the future!
 
 #### FireBae
 
