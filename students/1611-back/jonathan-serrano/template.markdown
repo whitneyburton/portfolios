@@ -186,9 +186,11 @@ Ken, your dedication to this program is surpassed by none. We all come here to l
 
 Jonathan, you have been awesome at being a fellow cohort(er) and I am inspired by you perception and action to make Turing a more inclusive space by starting the Turing minority group. I am honored and excited to see how we can make a difference to our community (not just Turing but our local tech community). I feel with we can make a positive difference! I've seen you studying hard early in the morning and into the late hours in the Blakement and I am inspired by your dedication and know you will be an influence to incoming cohorts with your example. I have no doubt you will become an amazing developer and continue your work to better people of colors lives through learning to code.
 Ken Lee
+
 ### Playing a Part
 
 Currently I am working on establishing a support base called "Turing Diversity" that focuses on three subjects, current students, incoming students and community outreach. The goals are to create a foundation support group for all of those who identify as a minority, where we can help out each other in succeeding during our time at Turing and after. Incoming students would benefit from having an established support group where we can become mentors, guide them through the process, help them if they are out of town and or are having a hard time assimilating into the culture. Community outreach delves into reaching our community base, the future of tomorrow, the present, to show that there are people like them in tech. That there are other ways of succeeding in life than some of the options that draw so many people of our community into. Goals are to adopt a school where we teach code, create a blogpost, put out a diversity panel etc. I've also participated in the weekly health challenges, attended code-for-skills, productivity lunches and other programs that I hope that I was able to leave a positive footprint as they did on me.
+
 ------------------
 
 ## Final Review
