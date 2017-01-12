@@ -190,6 +190,5 @@ Overall, I think Turing chooses relevant, meaningful Gear Up topics, but these t
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
+Pass
