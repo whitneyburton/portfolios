@@ -225,6 +225,8 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 
 Erin Pintozzi: "Working with Anna is always a treat. Anna is passionate about her work, contributes thoughtful and helpful ideas, and is very thorough. Our group had some tension about mid-way through the project and rather than just stifling the issue, Anna was very direct, but kind in bringing up the issue so the group could work on addressing it together. I know that can be a very difficult thing for a lot of people to do, but Anna seems like a natural when dealing with difficult situations and we were able to navigate the problem as a group."
 
+Jon Kimble: "It was great working with Anna on cloney island.  She showed a strong work ethic and technical skills and was a driving force in the completion of our project.  In addition to her technical skills Anna was an all around joy to work with on the project.  Even when things got hard she didn't let the stress effect her overall attitude!  She is also always willing to help and has a unique ability to make people feel comfortable about approaching her for a help and coming to a solution!"
+
 #### It Takes A Village
 
 * [GitHub URL](https://github.com/meganft/It-takes-a-village)
