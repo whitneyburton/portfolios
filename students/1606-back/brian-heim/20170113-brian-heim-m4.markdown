@@ -5,7 +5,7 @@
 
 Mod 4, it seemed so long ago that I was in mod 1 and yet it seems like it was yesterday. I wanted to really work hard this mod and to finish strong. Little did I know just how hard we would be working, but I wouldn't change it for a thing. Our mod has been told many times how "resilient" and "performant" we are and I think we stepped up to the challenge in mod 4 and backed up both of those statements. 
 
-My specific personal goals for this mod were pretty straight forward. I wanted to pass the final, learn JavaScript, and make strides in the job search. I passed the final, learned vanilla JS and some React, and made some good progress in my search for a job. I was very happy to have achieved all of these things during this module. I would have liked to have spent more time job hunting, but I did have some very helpful informational interviews, improved my resume, LinkedIn, and GitHub, and made some new professional connections. 
+My specific personal goals for this mod were pretty straight forward. I wanted to pass the final, learn JavaScript, and make strides in the job search. I successfully passed the final, learned vanilla JS and some React, and made some good progress in my search for a job. I was very happy to have achieved all of these things during this module. I would have liked to have spent more time job hunting, but I did have some very helpful informational interviews, improved my resume, LinkedIn, and GitHub, and made some new professional connections. 
 
 Something that I didn't necessarily set as a goal in the beginning of the mod, but I am glad to have worked on was the six-week brownfield project in a sprint style environment. I have been told over and over in informational interviews and meetUps that working on a project of that caliber is incredibly relevant to a real-life dev job. DevOps quickly became a focus of the module for me as well; once I took on that task with Sonia, there was no turning back. While frustrating at times, learning about and performing DevOps tasks was truly rewarding and definitely added value to my experience at Turing.
 
@@ -249,25 +249,25 @@ Submission forthcoming by 1/17/16
 
 ### Gear Up
 
-#### Introversion and Extroversion on Teams
+#### MicroAggressions
 
-I liked discussing this Gear up with our Cohort and Instructors. It was cool to see which personality type my fellow classmates identified with, and how they felt based on that criteria. I learned alot about myself as well, very valuable session.
+Out of the three this was my least favorite Gear Up. I feel like I came away with a more ambiguous understanding of them than before. Many of the examples seemed more like either just plain old racism on one end, or on the other very gray statements that when said in different contexts and tones can have many different meanings. However, over time I can see how these can affect people and I will try my best to avoid them, even if I am being sincere: "Why did one straw break the camel's back? Here's the secret: the million other straws underneath it - it's all mathematics" - Mos Def 
 
-* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
-
-
-#### Vote Your Conscience
-
-I thought this was a thought provoking session, maybe not as valuable as the other Gear Ups, but it fostered a great discussion. Being an election year, it was relevant and interesting to see how others viewed voting.
-
-* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+* [Link](https://github.com/turingschool/gear-up/blob/master/microaggressions.markdown)
 
 
-#### Resilience
+#### Journey Mapping
 
-This was a good Gear up as well. The discussion our group had was meaningful and productive. I learned alot about the people in my group and the struggles they have ahd to overcome.
+This Gear Up was fun. I liked improvising a little bit with asking the questions, it made the process light-hearted and insightful. I enjoyed workind in in teams and then splitting those teams. Very open conversation because the subject was very easy to talk about and not controversial which was nice.
 
-* [GitHub Gist Link](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
+* [Link](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
+
+
+#### Grit
+
+I really enjoyed this Gear Up. I especially liked hearing what my croup members thoughts were on what Grit means, specifically the question asking what was your previous definition of grit and how/what does that word apply to you?
+
+* [Link](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
 
 ---
