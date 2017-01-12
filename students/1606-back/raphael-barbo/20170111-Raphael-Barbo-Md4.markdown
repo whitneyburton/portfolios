@@ -182,6 +182,7 @@ This was a great session with Jeff... Although I find it very interesting, I won
 
 ## E: The Plan
 
+[THE PLAN](https://gist.github.com/rsbarbo/b4f45afa243eb298f70727a4285273ce)
 
 ---
 
