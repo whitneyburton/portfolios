@@ -231,10 +231,4 @@ community and take advantage of all Turing has to offer.
 
 ####Final Review
 
-####Notes
-
-1. ( Leave blanks for reviewers )
-
-####Outcome
-
-1. ( Leave blanks for reviewers )
+RETAINED: repeating M1
