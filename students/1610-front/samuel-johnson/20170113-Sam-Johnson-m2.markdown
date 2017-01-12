@@ -229,7 +229,7 @@ This was a great exercise for me and allowed me to get a different form of feedb
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
 
-(description)
+This session was a good opportunity to start thinking about my next steps.  I feel like the push to begin thinking about this early was really helpful for me and I feel good about the steps I've taken so far to build my network for my next steps professionally.
 
 # E: Feedback and Community Participation
 
@@ -254,9 +254,12 @@ Sam was great to pair with he helped us both in-person and remote when we had a 
 #### Pamela Lovett (pairing)
 Sam is knowledgeable, patient, and flexible. While mentoring, he is great about asking questions to make sure that the people he is helping are actually grasping the material at hand. He is willing to take the time to help guide others to the "answer" without just handing it over - which is no small task!
 
+#### Devin Dixon (pairing)
+You've been an awesome person to work with and look to for guidance on problems that were tripping us up. Whenever you'd come in to pair, you'd take a moment to fully understand the problem at hand, as well as briefly familiarize yourself with the code being worked on. Then you'd guide us through what you would do to troubleshoot or what may be going wrong, instead of just giving us the answer straight out. I enjoyed pairing with you out of everyone I met with and found you the most helpful. Keep killing it, dude.
+
 ## Playing a Part
 
-(ways you supported the larger Turing community)
+I think I have played a very active part in the Turing Community this mod.  I have been one of the more active members in the Pahlka Posse and am excited to dig in further to the public ed data api project next Mod.  I also think I have been a valuable addition to Gear Ups and other community-oriented conversations on campus.  I look forward to doing more over the next two mods as we move into a more inviting/productive shared-community space.  I have also done my best to pair with Mod1 students as much as possible and think I've been very effective as a pairing partner with them.
 
 ------------------
 
