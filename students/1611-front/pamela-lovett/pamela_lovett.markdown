@@ -67,8 +67,8 @@ Individual Projects:
 * Mythical Creatures
 * [Penguin Party](https://github.com/thatPamIAm/penguin-party)
 * [Static Comp 1](https://github.com/thatPamIAm/static-comp)
-* [Static Comp 3](https://github.com/thatPamIAm/pl-comp-challenge-2)
-* Static Comp 3 (in progress)
+* [Static Comp 2](https://github.com/thatPamIAm/pl-comp-challenge-2)
+* Static Comp 3
 
 ### Number Guesser
 
@@ -214,11 +214,19 @@ I looked forward to setting up a DTR in each of my pairings in order to better u
 
 [Introversion/Extroversion](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
+I really enjoyed this session. It was nice to interact in groups with a mix up of "introverted" and "extroverted" people and here everyone's perspectives.
+
 [Feedback](https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md)
+
+Feedback is such an important part of becoming a better programmer, pairing partner, and human being. I found talking about different strategies to be extremely beneficial.
 
 [Growth Mindset](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
+The Gear Up on growth mindset vs fixed mindset was one of my favorite sessions. I found (and taught a lesson) about Carol Dweck's research nearly ten years ago when I taught for a semester as a 7th grade Language Arts teacher. It was great to be able to circle back to her research now in order to remind myself that having a growth mindset will play a HUGE factor in my success here at Turing at beyond.
+
 [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+It was great to break out into groups to discuss grit. The timing for this gear up was excellent, considering where we were in the module. Grit requires one to have both perseverance and passion.... and is tightly intertwined with having a growth mindset.
 
 ### Professional Development Workshops
 
