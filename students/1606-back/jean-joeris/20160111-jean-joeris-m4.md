@@ -3,7 +3,17 @@
 
 ### Areas of Emphasis
 
-In addition to having a strong finish to Turing, I wanted to continue to support Armstrong posse. I believe I succeeded in both of these goals. I worked on a difficult brownfield app, and I ran weekly spike sessions. Another goal I had was to learn Elixir. While I didn't learn a ton more Elixir, I did start to dive into Phoenix. This was something I didn't predict but have been very happy with.
+In addition to having a strong finish to Turing, I wanted to continue to support Armstrong posse. I believe I succeeded in both of these goals. I worked on a difficult brownfield app, and I ran weekly spike sessions. Another goal I had was to learn Elixir. While I didn't learn a ton more Elixir, I did start to dive into Phoenix. This was something I didn't predict but have been very happy with. Coming to a new web framework that feels like Rails yet has a very different paradigm has been awesome. It has highlighted for me how much I have learned at Turing. I feel empowered to go build whatever I want.
+
+## Rubric Scores
+
+Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 4
 
 ### End of Module Assessment
 
@@ -43,14 +53,16 @@ Notes:
 The only individual project I did this mod was self-directed learning of Elixir & Phoenix.
 These were the learning goals I defined at the beginning of the final 2 week sprint:
 
+#### Throughout
+  * Working through Programming Phoenix and Dave Thomas's Programming Elixir
+
 #### By 1/5
   * Build a basic hello world app in Phoenix
-      * [Deliverable](https://github.com/JeanJoeris/phoenix_blog_example)
+      * Built a [blog platform](https://github.com/JeanJoeris/phoenix_blog_example) in 15 minutes based on this [great tutorial](https://monterail.com/blog/2015/phoenix-blog/)
   
 #### By 1/9
   * Write a blog post
-      * Compare/contrast rails and phoenix
-      * [Deliverable](https://medium.com/@jeanjoeris/a-rails-devs-perspective-on-learning-phoenix-bcbab7b2545a#.328sawgvv)
+      * [A Rails Dev's Perspective on Learning Phoenix](https://medium.com/@jeanjoeris/a-rails-devs-perspective-on-learning-phoenix-bcbab7b2545a#.328sawgvv)
 
 #### By 1/12
   * Create a phoenix app to duplicate enroll api endpoint used by dashboard
@@ -63,8 +75,8 @@ These were the learning goals I defined at the beginning of the final 2 week spr
   * Rebuild ideabox with phoenix and react
   
 Of these goals, I was able to meet the meet the first two. The third one is in progress. I have a Phoenix app that communicates to Enroll's postgres database and have built a few Phoenix models using this db. I have worked through a tutorial on building a json api in Phoenix. The only reason I haven't built the Enroll endpoint is that it requires serious use of the Phoenix ORM (Ecto). I could try to hack it together using raw sql, but 
-  1. the json is complicated enough I'm not sure this would work, and more importantly
-  2. I was to actually learn how to use Ecto
+  1. the json is complicated enough I'm not sure this would work well, and more importantly
+  2. I actually want to learn Ecto
 I am happy to try and deliver this controller some time next week.
 
 The stretch goals were not achieved, but I have made progress towards them. The Phoenix book I am working through is building a project that uses the concurrency capabilities of Phoenix. I also have a fun idea for a React/Phoenix project to build - see Phoenix Paint in Side Hussle under The Plan.
@@ -74,11 +86,11 @@ I paired with Dan Broadbent for working on open source. We decided to contribute
 
 * [Original Assignment](http://backend.turing.io/module4/projects/the-plan/assignments/open-source)
 * Pull requests
-  * [My PR for fixing the sizes of images displayed in the app](https://github.com/rubyforgood/habitat_humanity/pull/118)
-  * [Dan's PR for adding names to a table reporting shifts](https://github.com/rubyforgood/habitat_humanity/pull/119)
-  * [Our PR for adding documentation on node.js, and install Postgres in Linux & Windows](https://github.com/rubyforgood/habitat_humanity/pull/120)
+  * [PR for fixing the sizes of images displayed in the app](https://github.com/rubyforgood/habitat_humanity/pull/118)
+  * [PR for adding names to a table reporting shifts](https://github.com/rubyforgood/habitat_humanity/pull/119)
+  * [PR for adding documentation on node.js, and install Postgres in Linux & Windows](https://github.com/rubyforgood/habitat_humanity/pull/120)
   
-This project was not evaluated, but we did meet all the requirements layed out in the original assignment. The main take away Dan and I had was that we shouldn't measure the size of a contribution to a project by the ease/difficulty we had making it, but by the value it adds to the project. Our small changes made the shift reporting much more usable, helping an organization we want to support.
+This project was not evaluated, but we did meet all the requirements layed out in the original assignment. The main take away Dan and I had was that we shouldn't measure the size of a contribution to a project by the ease/difficulty we had making it, but by the value it adds to the project. Our small changes made it easier to keep track of when people are working, a requirement for funding from a grant. 
 
 ## Team
 
@@ -86,7 +98,7 @@ This project was not evaluated, but we did meet all the requirements layed out i
 
 Our cohort was the willing guinea pig for the overhaul of mod 4. One of the biggest changes was working on a 6 week long capstone. The project I was on was overhauling the application handling Turing's enrollment.
 
-#### Enroll
+### Enroll
 
 * [GitHub URL](https://github.com/turingschool/enroll)
 * [Original Assignment](http://enroll-staging.turing.io/)
@@ -95,7 +107,7 @@ The project was brownfield on Turing's Enrollment app. Some of the main features
 
 Evaluations - While we were supposed to be officially evaluated at the end of each sprint (weeks 2, 4 and 6), we ended up not being evaluated weeks 2 or 6. Given that, here are the week 4 scores.
 
-#### Eval 
+### Eval 
 Notes:
 
 I'll just ramble for a while. I've decided that you were given some above average difficulty, but not impossible tasks. Everyone complains about Josh Cheek's code, but I don't think it's out of the realm of possibility of things you'll find, especially in the open source world. I've found that gems and libraries are written by people that are just coding all the time, and they need to keep themselves interested.
@@ -104,35 +116,23 @@ The real struggle that I stepped into was process. Our goal was to simulate how 
 
 There are actually still improvements to be made to our communication and workflow. With all that said, I went back into manager mode, and I was strict about deliverables and adherence to the workflow I've communicated, and you guys bounced back quickly. I want you to ramp up even more in the last two weeks of the project, but I'm proud of what you delivered this week and how you delivered it. You're making lasting impact on your own careers, and the cogs that make Turing run.
 
-### 1. Project Management
+#### 1. Project Management
 
 * **4: Team is using a project management tool and updating their progress daily.**
-* 3: Team is using a project management tool to keep their project organized.
-* 2: Team is using a project management tool but didn't update the progress frequently.
-* 1: Team failed to use a project management tool to track its progress.
 
-### 2. Completion & Pace
+#### 2. Completion & Pace
 
-* 4: Team is on track to complete all stories and has tracked/completed chores and/or laid out future stories.
 * **3: Team is on track to complete all the user stories and requirements set by the client in timely manner.**
-* 2: Team is on track to complete a subset of user stories after an approved cutting of the work scope.
-* 1: Team is not on track to complete the agreed-upon stories.
 
-### 3. Implementation Quality
+#### 3. Implementation Quality
 
-* 4: Project demonstrates exceptionally well factored code.
 * **3: Project demonstrates solid code quality and MVC principles.**
-* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
-* 1: Project demonstrates poor factoring and/or understanding of MVC.
 
-### 4. Application of Techniques
+#### 4. Application of Techniques
 
-* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
 * **3: Project has implemented one major technique from the previous two weeks of academic classes.**
-* 2: Project has an implementation in progress of one major technique from the previous two weeks of classes.
-* 1: Project has a plan to implement a technique from academic classes.
 
-#### Feedback from group
+### Feedback from group
 
 Feedback from Brian Heim: I have worked with Jean before and know that he is a fantastic programmer with very strong technical skills. He also has great soft skills and is a pleasure to work with. Jean served as our Project Manager for the Enroll team and took on many different tasks in addition to writing code. He organized tasks on Tracker, communicated with our CTO and Product Owner for the team, and made sure the group was making progress. Even though I did not really work with him on the project code, Jean did a great job as PM; he reminded me (respectfully) about tasks I had forgotten about, and truly took his responsibility seriously. My only advice to Jean would be to not be too hard on himself regarding his PM duties. He mentioned to me that he felt he was not performing as well as he would like, but I thought he did a great job. I have alot of respect for Jean and can’t wait to see what he can do once we graduate.
 
@@ -146,9 +146,9 @@ Jean is a great human being all around, I am fortunate to have had the opportuni
 
 ## Professional Development
 
-* [top three priorities in first job](https://gist.github.com/JeanJoeris/07eec00beeee5d869700362de04d00d4)
-* [action plan for how to overcome perceived barriers to the job search](https://gist.github.com/JeanJoeris/c1a9174845ebdf0468aef993747841ca)
-* [Six cold outreach emails sent]()
+* [Top three priorities in first job](https://gist.github.com/JeanJoeris/07eec00beeee5d869700362de04d00d4)
+* [Action plan for how to overcome perceived barriers to the job search](https://gist.github.com/JeanJoeris/c1a9174845ebdf0468aef993747841ca)
+* [Six cold outreach emails sent](https://gist.github.com/JeanJoeris/10c93daba356a85e6e5e669995e5688f)
 * [Blog post](https://medium.com/@jeanjoeris/a-rails-devs-perspective-on-learning-phoenix-bcbab7b2545a#.328sawgvv)
   * [Feedback on blog post](https://gist.github.com/JeanJoeris/145e44bfee33981a26797610b2d58338)
   
@@ -186,14 +186,6 @@ I also try to make myself available to people for pairing and help when I'm hang
 * [Reflections from Gear Up](https://gist.github.com/JeanJoeris/27ff9d34d00116512f52f684a1770b5c)
 
 ## Review
-
-### Rubric Scores
-
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
-* **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: 4
 
 ### Notes
 
