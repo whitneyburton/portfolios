@@ -147,7 +147,8 @@ This was an exploration in building a desktop application using Electron. We wer
 ### Total Score: 158/175
 
 #### Feedback from MaryJane Valade
-(pending)
+
+If ever there was someone to burn down a project with I'm glad it was with you! I think we gave our Ember/Knex/SQLite/Electron app a valiant try and we would have succeeded if not for the database hangup. I'm glad we put in the effort to relearn Ember again but it was unfortunate we couldn't put more time into the fun Electron things. I really enjoyed working with you and you were always able to keep me from getting ahead of myself. Making the decision to start over two days before the project was due took courage but was the right thing to do and at least we produced a workable app. I don't think we could have succeeded in such a short time without a good workflow and partnership.
 
 #### Curiously Native
 
@@ -192,7 +193,8 @@ This is an alternative fuel locator app built with React Native and Redux.  It r
 ### Total Score: 147/175
 
 #### Feedback from Casey Metz
-(pending)
+
+I was happy to get the opportunity to work with my friend Casey this mod. I was impressed by her excellent instinct for project management and organization, keeping me motivated and accountable. She's willing to take on any task with good humor and energy, and she pushes herself to stick with challenging problems. My suggestion for Casey would be to keep an eye on her 'self-talk'; during our project, she sometimes fell into the trap of defeatism, emphasizing the negatives of the situation. This kind of self-deprecation can threaten to become a self-fulfilling prophecy. Our project turned out well, and I'd encourage Casey to recognize that she's more capable than she sometimes gives herself credit for. I've appreciated Casey's strength and realness for my entire time here at Turing, and I hope she carries her social awareness, and the power of her voice, with her into the working world. I'm confident she will.
 
 #### Capstone Project
 
@@ -248,7 +250,8 @@ issues and code reviews. I also appreciated Casey's willingness and enthusiasm t
 I’m glad I finally got to work with Casey because otherwise I would have been sad if I hadn’t worked with her during my time at Turing. During our capstone project she kept our group very organized and accountable for Github issues, which made our workflow go smoothly. Her motivation to test is inspiring and will definitely benefit her in the future. We had 65 tests! She’s a master at resolving merge conflicts and not at all afraid to encounter them. Together we worked on styling and put together a really polished app. Casey is up for any challenge and ready to tackle whatever aspect of the project needs to be worked on, whether it’s testing, styling, or functionality. It was a pleasure working with Casey!
 
 #### Feedback from David Kerr
-(pending)
+
+Every team needs a Casey.  She makes light of things which are weighing everyone down, is always willing to ask questions when she is unsure if the team is on the right path, and always looks to add value however she can.  Because Casey is more diligent and paced in her programming, there were many times in this project Casey had to deal with merge conflicts which were just not her fault.  Rather than complaining as most would, she put the team goals first and kept going.  I look forward to remaining frenemies with Casey moving forward.
 
 ### Professional Development Workshops
 
