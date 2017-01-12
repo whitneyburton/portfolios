@@ -127,6 +127,8 @@ Evaluator: Josh
 
 - from Lee Saville: "I like how you powered through and did a thing you cared about even though none of the rest of the team could help. I think it was great that all of us got to do a thing we were interested in on a bigger project that could be compartmentalized in such a way. While the project turned out great I think its good to be aware of when you're too far down a hole and be ready to 'kill the baby'. Your contributions in PR comments were exemplar and you've inspired me to be more thorough in the group code reviews. I had a great experience working with you, Thanks!"
 
+- from Nick Chambers: "It's been a real pleasure getting to know Noah and working alongside him in the Pahlka posse. While working with him, one gets the impression that he's extremely passionate about what he's doing and is a happy camper when working in software development. He led multiple spike sessions and is generous with his research into security and encryption. I've learned a lot from hanging out with him, and he's helped make Pahlka my favorite part of the Turing experience."
+
 ## D: Professional Development
 
 ### Professional Development Workshops
