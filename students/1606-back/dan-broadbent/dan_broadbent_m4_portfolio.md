@@ -110,12 +110,13 @@ The most difficult part of the project for me was working on making the company 
 
 Video overview of Monocle: https://vimeo.com/199076606
 
-#### (Open Source Contribution)
+#### Open Source Contribution
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub Pull Request 1](https://github.com/rubyforgood/habitat_humanity/pull/119)
+* [GitHub Pull Request 2](https://github.com/rubyforgood/habitat_humanity/pull/120)
+* [Original Assignment](http://backend.turing.io/module4/projects/the-plan/assignments/open-source)
 
-(description)
+Blog post of this experience: https://medium.com/@danbroadbent/contributing-to-open-source-for-the-first-time-dc84478c4538#.sy8go9ori
 
 ## D: Professional Development
 (Intro)
