@@ -119,7 +119,8 @@ Video overview of Monocle: https://vimeo.com/199076606
 [Blog post of this experience](https://medium.com/@danbroadbent/contributing-to-open-source-for-the-first-time-dc84478c4538#.sy8go9ori)
 
 ## D: Professional Development
-(Intro)
+
+This module we had some real world requirements as we make our way closer to entering our first jobs.  Our main requirement was to reach out to several developers in the community for informal meetings to get a better sense of what's out there and maybe get some potential leads for jobs.  I also began applying to jobs this module, which proved to be quite successful.  I have had many calls with companies, several technical challenges, and one on location interview.
 
 ### Professional Development Workshops
 #### (Session Name)
@@ -140,11 +141,23 @@ Video overview of Monocle: https://vimeo.com/199076606
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+This module I was co-lead of the Bezos posse with Madison Kerndt from the front end program.  This is the second module we have lead, and continued to work for the changes we wanted to see in the posse.  Our main goal was to make the posse more practical and hands on, giving students experience and discussions that would be valueable after leaving Turing.
+
+The topics that we covered this module included communcation and pitching, user testing, and business plans.  We also had really great speakers this module, obviously Jeff, and also Pana CEO Devon Tivona.  We also had another speaker move to next module because of poor weather. I lead the Friday Spikes on Pitching and User Testing.  I'm really proud of the direction we took the posse, and the students who attended reguarly got a lot out of it.
 
 ### Gear Up
 
-(reflect on your Gear Up sessions following the below example)
+[Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md)
+
+
+
+[Journey Mapping](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
+
+
+
+[Grit Mindset](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+
 
 ------------------
 
