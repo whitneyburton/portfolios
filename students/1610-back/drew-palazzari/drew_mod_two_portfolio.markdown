@@ -254,6 +254,14 @@ Nick's Feedback to me:
 
 I had a great time working on little shop with drew. as two members of the group that were keen on pairing, we ended up spending a fair amount of time together working on our cards. He’s always engaged, and his fun demeanor lifts the mood whenever necessary. On top of that, his knowledge of ruby & rails is thorough. I felt like I could always rely on him whenever a unique solution to a challenge was required. His gifs and atom plugins are on point as well. Look forward to the possibility of coding up something cool in the future with Drew.
 
+Laszlo's Feedback to me: 
+
+Drew has a personality that makes him an immediate culture fit for any team! He is very easy to work with, works extremely hard, works fast and a team member anyone can always rely on! I enjoyed working with Drew very much and seeing how quickly he can bring a concept to life. He is great at getting things up and running, leaving plenty of time for group review and refactoring.
+
+Improvement suggestion: don’t be afraid to ask questions and suggest a different solution. I might have sounded too convincing when you clearly had a better solution. In a team effort everybody is there to ensure the best possible outcome after considering all ideas available.
+
+It has been great working with you!!!
+
 ## E: Community Participation
 
 Attended every Gear-up and as many posse meet-ups as I could. Paired with Module 1 students when they signed up for my pairings. Collaborated positively with several of my classmates at many times during Mod 2. I was always available to help people. I was particularly popular for requests for help during Job Tracker.
