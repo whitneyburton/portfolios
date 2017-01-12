@@ -20,7 +20,7 @@ For my third module at Turing I wanted to focus on building and interacting with
   3. Testing: 3
   4. Completion: 3
   5. Workflow: 4
-  
+
 ## B: Individual Work & Projects
 
 We had both group and Individual project his module.  These project gave us the opportunity to interact with numerous APIs, learn more about rails, and work on our project management skills.
@@ -191,9 +191,9 @@ My main take aways from Bezos this mod are the friendships and community I have 
 
 ### Notes
 
-* **A: End-of-Module Assessment**: ?
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
