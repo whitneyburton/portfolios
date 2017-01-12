@@ -186,7 +186,7 @@ Notes:
 
 The group projects for this module included Headcount.
 
-#### Headcount
+### Headcount
 
 * [GitHub URL](http://backend.turing.io/module1/projects/headcount)
 * [Original Assignment](http://backend.turing.io/module1/projects/headcount)
@@ -197,8 +197,6 @@ Headcount is a system that parses CSVs to create a database of information from 
 (evaluation comments)
 
 (evaluation scores)
-
-(feedback to me)
 
 ## D: Professional Skills
 The professional and personal skills developed during this module include mindsets and working styles as well as perseverance and whole group connection.
