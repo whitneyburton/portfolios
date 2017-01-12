@@ -185,8 +185,6 @@ Ian: "Alex was a great partner to work with for the reminders project. Learning 
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
-
-( Leave blanks for reviewers )
+Provisional: Pending on final project improvement and feedback given to other students
