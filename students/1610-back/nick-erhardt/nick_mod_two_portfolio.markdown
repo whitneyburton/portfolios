@@ -13,7 +13,7 @@ My goal for future team projects will be to continue to pair program.  My second
 Find the rubric near the end of this document.
 
 * **A: End of Module Assessment**: 4
-* **B: Individual & Group Work**: X
+* **B: Individual & Group Work**: 3
 * **C: Professional Skills**: X
 * **D: Feedback**: X
 * **E: Community Participation**: X
@@ -157,13 +157,28 @@ The deliverables were 7 cold outreach emails, which I have completed (just) but 
 The session was very interesting in that it definitely gave good examples of how to get that first foot in the door when there is a company that you would like to work for.  I think the process is fascinating and am curious to see what comes out of the emails.  It was very uncomfortable for me to reach out to strangers and ask for help.  I prefer at least a lukewarm outreach personally.
 
 #### (Session Name)
+#### [Agile Project Management](https://github.com/turingschool/professional_skills/blob/master/module_two/agile_practices_project_management.md)
+While I am a fan of Agile Project management because I firmly believe in delivering one piece of funcionality at a time so that a client can experiment, I do think that waterfall has it's place on smaller team projects.  Sometime you just have to have a basic schema and drawing of the fundamental relationships established so that the rest of the app feels cohesive and not ad-hoc.  Still I very much enjoyed the opportunity to practice with Waffle.  Amy K. was a whiz at it during Bike Share.  She showed the value so well that I even used Waffle when I worked solo on Job Tracker.
+
+#### [Feedback II](https://github.com/turingschool/professional_skills/blob/master/module_two/feedback_ii.md)
+Yes!  Finally - this is the session I was looking for.  I *want* to hear about the areas where I am blind but need to improve.  And I enjoyed giving and receiving 'things to work on' feedback in a constructive and safe environment.  I truly appreciate these sessions.  One of my biggest takeaways was to ask the person if they are prepared/would like to hear the constructive feedback.  That feels like a critical step that is often glossed over.
+
+#### [Finding Opportunities](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
+This session was very helpful for learning how to use LinkedIn to truly explore the employees at a company and my potential connections to them.  I hadn't used LinkedIn like this previously, but it was critical for my research for my cold outreach emails.
+
+#### [Johari Window](https://github.com/turingschool/professional_skills/blob/master/module_two/johari_window_activity.md)
+I like that we were able to receive (and give) anonymous feedback - for that opportunity for people to be truly open and honest.  But considering that it was a session about how to improve, the list of descriptors that we used were mainly positive.  It's great to hear that we're doing things well, but if it's a session on how to improve based on our blindspots, I would like more constructive and less... (this sounds odd, but it's true) positive feedback.
+
+#### [Networking](https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
+Elevator pitch practice!  This was helpful for a couple reasons.  It was great to mix with the Front End group.  The feedback I got was very helpful and actionable, and it was a chance to actually practice my elevator pitch a couple times in a row.  I learned that I need to tighte up the parts of my pitch when I talked about being an engineer, and focus more on what brought me to web development.  This was a very helpful session - but maybe at the end we hear one or two elevator pitches from the group (learn more about our peers and hear a polished pitch).  
+
 
 Include takeaways and deliverables from each session.
 
 ## D: Feedback
 
 ### Giving Feedback
-For Robbie:
+##### For Robbie:
 I was very excited to discover that Robbie was on my team for Little Shop.
 As I've been getting to know him in class I always appreciated his strong
 work ethic, thirst for knowledge and creative approach to solving
@@ -177,7 +192,7 @@ and is constantly working to improve his craft.
 I hope to get paired up with Robbie in the future and tackle something big.
 He's a solid partner and produces excellent work for the team.
 
-For Caroline:
+##### For Caroline:
 I was excited to get a chance to work with Caroline on Little Shop.  She
 seemed to have a fundamentally solid knowledge of how databases work and
 relationships between datasets.  
@@ -196,7 +211,7 @@ how the database structure would relate to the Rails models.
 It also has to be said that she was the driving force behind including
 Stripe in our project and spearheaded the effort.  
 
-For Amy:
+##### For Amy:
 It was awesome to work with Amy on Bike Share!  She was always willing to
 tackle any aspect of the project - whether we had an idea of how to do it
 or not.  She was particularly skilled at diving in where we *didn't* know
@@ -211,7 +226,7 @@ an extra hassle to a truly useful tool because she made it work for us.
 Amy was always beaming energy and tackle tough situations with a happy and
 calm attitude.  Looking forward to having her on my team again!
 
-For Jason:
+##### For Jason:
 I'm glad I got a chance to work with Jason on Bike Share.  I knew him from
 class as a rather jovial jokester.
 
@@ -229,7 +244,7 @@ done.
 In short, it was great to get a chance to work with Jason, and the guy
 truly never quits.  I have a lot of respect for that attitude.  
 
-For Mike Shutte:
+##### For Mike Shutte:
 Mike: I wanted say I'm glad we've ended up in the same cohort at Turing.
 While you are remarkably hard-working, have a passion for coding, and bring
 a fresh curiosity to whatever you do, I'd like to highlight something else
@@ -247,25 +262,25 @@ measured approach and level head.
 ### Being a Community Member
 
 #### Drills for Skills:
-From Mike Schutte
+##### From Mike Schutte
 Nick: I just wanted to reach out and share my gratitude for your support on starting up Drills for Skills. I don’t think we ended up getting the turnout we expected or wanted, but we made the most of the sessions and I think they helped everyone involved. Your thirst for knowledge and good form in programming is contagious, and I always love doing a little research binge on whatever topic comes up in conversation. Where many would leave thoughts such as ‘I wonder how to…’ , you more than anyone I know are ready to explore right away. Thanks for making the hunt for skills and knowledge a fun an collaborative one. I hope to work on a project with you one day!
 
 #### Bike Share:
-From Jason:
+##### From Jason:
 I had the privilege of working with Nick on Bike Share. Almost immediately I was impressed with his knowledge and understanding of how to do some of the things required to do for our project. He was always willing to pair if people were having issues and was always looking into new and interesting ways to do things. Both in the production and the testing. He was always willing to take the time to slow down and explain something if someone didn't understand exactly what it was that we were doing. I learned quite a bit from him on the project. His willingness to put in long days and work on something was also very appreciated.  I would be more than willing to work with him again.
 
-From Amy:
+##### From Amy:
 It was amazing to get the chance to work with Nick on Bike Share. He’s a tireless worker who is more than willing to put in long hours - if necessary…and it was necessary - to finish up a project or help others with issues and de-bugging. He’s a GREAT set of extra eyes when hunting for problems, and he helped all of us, at some point, with small Git issues. He’s got some great knowledge from his previous work at a Rails firm, and that helped us work through some of the more problematic issues of the project. We couldn’t have done it without him!
 
 
 #### Little Shop:
-From Robbie:
+##### From Robbie:
 It was good working with Nick over the course of the little shop project. He is incredibly smart and I learned a ton from working with him during this project. I was able to increase my knowledge on everything from github to databases and that is pretty sweet.
 
-From Lucy:
+##### From Lucy:
 I feel very fortunate to have worked with you twice this mod. We certainly did not shy away from any challenges! I appreciate your work ethic, endless patience, and ability to explain all of the concepts we are discussing. You were a really important part of both teams, and I have definitely learned a lot from you.
 
-From Caroline:
+##### From Caroline:
 This was my first time and a privilege to get to work with Nick. Nick worked with developers before coming to Turing and you can really tell how much knowledge he obtained from that experience. He has an excellent grasp of Ruby and Rails and is a master of TDD. I really appreciated him taking so much time to explain topics to me that I was unfamiliar with. My knowledge greatly increased in this project as a result. It was also a privilege to have an industry guru on the team to answer questions about "the real world" and best practice industry norms for high-quality professional developers.
 
 I also have to say that he has great leadership skills. He helped facilitate several team discussions on important decisions and I thought it was very helpful and effective.
