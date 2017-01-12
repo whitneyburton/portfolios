@@ -303,10 +303,4 @@ I plan to become more involved moving forward.
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED
