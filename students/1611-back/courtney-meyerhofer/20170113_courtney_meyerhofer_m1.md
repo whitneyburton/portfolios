@@ -326,6 +326,9 @@ Courtney: you were hands-down a rockstar partner, and it was an honor to be pair
 (From Spencer)
 Courtney, as we entered into the first module, it was clear that everyone was a tad bit nervous about what the future may hold. It was of little surprise to me to learn that Courtney was a teacher prior to her time at Turing, as her kindness is only rivaled by the wealth of knowledge she has dispersed among her cohorts. Her time as a teacher proved invaluable while she dealt with the massive complaints from students towards turing as the cohort SAB representative, always professional and making time for every single person’s voice to be heard. Always available to help others, she has given all of her peers advice on both computing matters as well as matters relating to larger issues in life. I appreciate that she doesn’t purely give her peers answers, but rather helps them learn the material, fully embracing the “teach a man to fish” ideology, if you will. Courtney, you have time after time proved your resilience in the Turing community, whether it be as the SAB leader or your actions on a daily basis.
 
+(From Dan)
+Courtney has been an absolute pleasure to work with. She constanly brings things I struggle with down to a logical level that I can understand. She is able to communicate very clearly when collaborating and is very creative when it comes to difficult problems. I look forward to work with her in the future and know that she will go very far with the set of skills she has.
+
 ### Playing a Part
 
 I played a part in the Turing community by participating as a representative on the Student Advisory Board.
