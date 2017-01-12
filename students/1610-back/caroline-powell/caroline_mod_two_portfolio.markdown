@@ -69,8 +69,7 @@ If the project was graded, add your evaluation scores and notes. If the project 
 
 ### Gear Up
 #### [Resilience](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
-
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+This Gear Up session definitely changed my attitude and realizations on the topic of personal resilience. I've always been a believer that positive thinking is very important and leads to resilience through adversity. It makes you do little things that set you up to be more likely to succeed. The session really made me think though about what makes a person resilient and how people acquire this attribute. I've never thought about it too much, but the articles we read made a strong argument that acquiring resilience is usually not due to anything that we do ourselves. It's usually due to having strong role models, not necessarily parents even, as a child. This made me realize that having resilience might actually be a gift that was given to us by other people, whereas I think a lot of people, myself included, think of resilience as a self-prophesied trait.
 
 #### [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md)
 
