@@ -9,7 +9,7 @@ My community goals were to help my classmates with their own questions, to join 
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: 2
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -230,4 +230,4 @@ Intro/About/Bio - Skills - Projects - Contact - Blog
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROVISIONAL
