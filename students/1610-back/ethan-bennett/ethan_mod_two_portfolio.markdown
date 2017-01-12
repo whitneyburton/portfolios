@@ -123,6 +123,10 @@ Like many others in our cohort (as well as the speaker in the TED talk), I didn'
 
 This discussion wasn't quite as productive. There were several times throughout the Gear Up when my partner and I had to stop our conversation suddenly just to follow the guidelines of the activity, and I think that sort of defeats the purpose. I also struggled to understand what the takeaway was supposed to be, but I think it's interesting to think about in the context of user stories. I don't know if this was supposed to be the point, but the similarity between journey maps and user stories invites you to think about real-world conflicts through the lens of programming skills: to take smaller steps, to think carefully about the logic, and to consider what could possibly go wrong. So ironically, although I didn't enjoy this Gear Up nearly as much, it did call for some interesting reflection.
 
+#### Micro Agressions
+
+Similar to the Grit discussion: I think the terminology can be abused when we're talking about micro agressions (as many people in our group noted, several of the examples seemed like totally unqualified aggression, and others felt a bit trivial) but the conversation is a very good one. It's easy to not consider the unintended connotations hidden in the language you use, and whether you're being unintentionally disrespectful or simply undermining the message you're trying to communicate, it can have terrible consequences. I also don't mean to criticize the topic when I criticize the language--better terminology only evolves when we're critical our own speech.
+
 
 ### Professional Development Workshops
 
