@@ -1,9 +1,8 @@
 # Madison Kerndt - M4 Portfolio
 
 #### Summary
-### Areas of Emphasis:
 
-#### Goals:
+### Areas of Emphasis:
 
 #### My Driving Principles:
 
@@ -49,14 +48,6 @@ Personal
 * Practice thoughts that solidify a cohesive character to merge intensity, strength, and thoughtfulness
 * Find joy calming outlets such as nature, walking and listening again.
 * Practice positive project management skills (even when things are overwhelming)
-
-#### Rubric Scores
-
-* **A: End-of-Module Assessment**: 2.5
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
 
 Future goals below
 
@@ -165,7 +156,7 @@ Microagressions are a tricky topic. I had mix feelings about this gear up given 
 
 * [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-I feel that grit is only taking perseverance into the picture and completely neglecting passion. If you feel passionate about your path then perseverance is never bad. It is only in the case of pure perseverance that issues occur. I really liked this gear up and the discussion that we had. I realized that not everyone believes that they have grit and that it is something to continually foster and persue.
+I feel that grit is only taking perseverance into the picture and completely neglecting passion. If you feel passionate about your path then perseverance is never bad. It is only in the case of pure perseverance that issues occur. I really liked this gear up and the discussion that we had. I realized that not everyone believes that they have grit and that it is something to continually foster and pursue.
 
 ### Being a Community Member
 
@@ -185,6 +176,14 @@ Future Involvement:
 * Presenting at Boulder.js again
 * Presenting at Turing
 * Open to being a mentor
+
+#### Rubric Scores
+
+* **A: End-of-Module Assessment**: 2.5
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ## Final Review
 
