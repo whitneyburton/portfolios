@@ -260,8 +260,8 @@ Valerie, I really enjoyed whiteboarding the CompleteMe project with you. Technic
 it may be a good time to drive so you can ask questions while pairing. You brought a lot of excellent resources to the project by scheduling pairings and getting outside help. Without these resources, I don't think our project would've been nearly as successful.
 
 ### Being a Community Member
-
-(feedback to me)
+From Max:
+Courtney, I've really enjoyed getting to know you during this time at Turing. I'm especially impressed with your service on the Student Advisory Board. You've been a leader in helping bring our cohort together as a community and also as a representative to the instructors and staff, shouldering those additional responsibilities with patience and grace. I'm glad to find someone who also gets excited about the intellectual joy of programming and I look forward to further learning and exploration together. You're an excellent problem solver, have great instincts, and I've learned that I can rely on you as a sounding board for ideas and to provide a clear mind when I get stuck. I hope we get a chance to pair on a project in the future.
 
 ### Playing a Part
 
