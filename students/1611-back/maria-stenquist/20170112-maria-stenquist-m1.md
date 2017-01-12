@@ -7,11 +7,11 @@
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -36,10 +36,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 * I had fun building this project. I think the concept of linked-lists are important to grasp as they can be built on the fly and are very useful in data science applications. 
 
 **Scores**
-* Fundamental Ruby & Style: 
-* Enumerable & Collections: 
-* REPL Interface and Game Functionality: 
-* Breaking Logic into Components: 
+* Fundamental Ruby & Style: 3
+* TDD: 3
+* Functionality: 2
+* Breaking Logic into Components: 3
 
 
 #### Mastermind
@@ -53,10 +53,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 **Comments**
 * Would like to expand upon this further and refactor in modules, other functionality.
 **Scores**
-* Fundamental Ruby & Style: 
-* Enumerable & Collections: 
-* REPL Interface and Game Functionality: 
-* Breaking Logic into Components: 
+* Fundamental Ruby & Style: N/A
+* Enumerable & Collections: N/A
+* REPL Interface and Game Functionality: N/A
+* Breaking Logic into Components: N/A
 
 ## C: Group Work & Projects
 
@@ -74,14 +74,11 @@ I think the group projects brought together a lot of concepts and exercised a re
 * A pared-down exercise of the WWII Enigma Code
 * Consisted of encrypting, decrypting, and cracking a code :)
 
-**Comments**
-* 
-* 
 **Scores**
-* Fundamental Ruby & Style: 
-* Enumerable & Collections: 
-* REPL Interface and Game Functionality: 
-* Breaking Logic into Components: 
+* Fundamental Ruby & Style: 3
+* TDD: 2
+* Overall Functionality: 1
+* Breaking Logic into Components: 4
 
 ### Feedback
 
@@ -110,10 +107,10 @@ As programmers, we can use those data sets to ask and answer questions. We'll bu
 * This project was a very, very good exercise in hashes, extracting from objects, modules, and dealing with a larger-scope project
 
 **Scores**
-* Fundamental Ruby & Style: 
-* Enumerable & Collections: 
-* REPL Interface and Game Functionality: 
-* Breaking Logic into Components: 
+* Fundamental Ruby & Style: 4
+* Enumerable & Collections: 4
+* Overall Functionality: 3
+* Breaking Logic into Components/Encapsulation: 3
 
 ## D: Professional Skills
 
@@ -169,7 +166,7 @@ Being adept at 'selling yourself' and highlighting both your technical skills as
   INSERT  (takeaways from session)
 
 ## E: Feedback and Community Participation
- 
+  
 ### Giving Feedback
 #####(feedback from me)
 Amara Lovato:
@@ -214,7 +211,7 @@ Hey Maria, I'm so happy to be able to write you a peer review! You have been a g
 
 Being a part of Turing Diversity--I am excited to work on initiatives to help provide support those that do not feel they come from backgrounds that are traditionally associated with coding & the tech sector. Furthermore, I hope the Turing Diversity student body group is able to help cut accross lines of class, race, gender, sexual orientation and further promote Turing's inclusive mission. This started in the latter part of the module, and I am eager to be a strong member of this group and see how it develops going forward. 
 
-I have really enjoyed going to the posse talks, the guest speakers, and I think that going to 'imposters lunch' has been really good for me to remember to focus on combining a growth mindset and digging in and believing in myself. Susi (spearheading imposters lunch) is amazing, and such a supportive member of Turing! 
+I have really enjoyed going to the posse talks, the guest speakers, and I think that going to 'imposters lunch' has been really good for me to remember to focus on combining a growth mindset and digging in and believing in myself. Susi (spearheading imposters lunch) is amazing, and such a supportive member of Turing! I really enjoyed going to Imposters Lunch.
 
 I made myself available to others in our Mod1 cohort. I was always available to lend an ear and be there for students who were struggling on a personal level, or were stressed out with the content/projects. Over the holiday break, there was a core group of people that were in Blakement and I think there was a lot of camaraderie and working with others on drills and really helping each other understand material. On Slack, even late at night I was online and I definitely responded first to the messages from other students that needed to vent, wanted someone to talk to, or wanted to discuss how they were feeling. Mod1 is tough, and I was really glad too see more cohort cohesion in the last couple weeks of the module. I think being there for each other really enhanced the Turing experience for many in the cohort. 
 
