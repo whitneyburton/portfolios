@@ -115,9 +115,23 @@ I spent the final two weeks of the module working on learning Python. Although I
 
   **Feedback to David Davydov:** "David and I have worked together before, and it was a pleasure to work with him again on exposing the API endpoint. David is methodical and enthusiastic about coding. He was patient and respectful, and I appreciate his considerable skill. David has become an incredibly strong developer during his time at Turing, and I'm glad to have had the opportunity to learn with him."
 
+  **Feedback from David Davydov:** "Sonia has become a strong and capable developer during her time at Turing. Sonia was integral to getting Enroll operational as she handled the DevOps portion. This was not easy, as there were two brownfield apps that talked to each other with unusual interconnections. Sonia is honest with her team mates about how she feels and when things are not right with her, but it was always good to have that conversation with her. We collaborated together on the Dashboard and opened up an API endpoint for Matt on the front-end. Sonia, I know you're going to be a strong force wherever you go. Keep your spirits high, and inspire others to be their best selves. I've learned a lot from working with you."
+
 #### Open Source (With Calaway)
   * [Pull Request (includes Code contribution and Documentation contribution)](https://github.com/publiclab/plots2/pull/1179)
   * [Bug Refutation](https://github.com/publiclab/plots2/issues/1166)
+
+  **Feedback to Calaway:** "I had never had the chance to work with Calaway before the open source project, and I'm so glad I didn't leave Turing without having that opportunity. It was truly one of the most pleasant, encouraging, and fun pairing experiences I have ever had.
+
+  Calaway approaches problems with precision and patience. In our personal interactions, Calaway has always proven himself to be incredibly kind, conscientious, and mindful. These traits were also evident in our pairing interaction.
+
+  When initially confronting a problem, Calaway makes sure to explain what he is thinking, and where he is in the code. I never felt like I wasn't following, because he made himself extremely clear, and was very patient in his explanations. He also showed me a number of shortcuts that I had never used before (clicking on the path to copy in Atom? Mind-blowing!). His passion for coding really comes through when he is digging through a difficult issue, such as when we were trying to set up the virtual environment for our first attempt at open source contribution. He is persistent, but knows how to manage his time well and doesn't just aimlessly run down rabbit holes. Instead, Calaway methodically reviews each possible point of failure and tests them. His precision is truly a joy to observe. Watching Calaway solve a problem is a great way to find out if you yourself truly love coding; if you feel excitement and intrigue when working with him, the answer is probably yes!
+
+  On a personal level, I have been so honored to know and learn with Calaway. He is truly one of the kindest, most well-balanced individuals I have ever known. I aspire to be more like him in so many ways. He always seems to be the voice of reason when those around him are falling apart, and he takes a very equitable view of problems and does not lose focus of the really important issues involved. I have said this of very few people I have known throughout my journey on this planet, but I am a better person for knowing Calaway, and I honestly hope we will be friends for life."
+
+  **Feedback from Calaway:** "One regret I thought I would be walking away from Turing with was not getting the opportunity to work on a project with Sonia. Lucky for me we were given one last chance to pair up with a classmate in the form of our first open source contribution. It is easy to see from working with Sonia that her natural intelligence coupled with her impressive education and experience have given her an excellent way of approaching and solving problems. Her excited explanations upon first understanding how the code base we were working on functions made the joy of writing code infectious. After working with her I can confidently say that her well developed soft skills—such as excellent communication and admirable drive—are in every way matched by her technical ability to write great software.
+
+  Sonia has an excellent style of teamwork, such that the cooperative effort is greater than the sum of what would be possible from the individuals separately. Related to this but on a personal note, at the end of my first week here at Turing, which was also my first week living in Colorado, I was invited to hang out with a few of the Mod 2 cohort for a bit after school. Sonia was incredibly warm and inviting and helped me instantly feel at home in what could have otherwise felt like a lonely and foreign environment. Since then I have seen this welcoming and community building behavior from her toward many other students. She is a person who can make a cohort feel like a family, and I consider myself lucky to be able to call her a friend."
 
 ---
 
@@ -147,6 +161,12 @@ In the interest of not publicizing the identities of the individuals to whom I s
 #### Blog Post and Peer Review
 
  * [Blog Post](https://medium.com/@redsonia7/all-the-worlds-a-stage-until-you-have-cors-issues-4c08268f961a#.73188die8)
+
+***Feedback from Calaway:***
+
+"A very well put together piece of writing, indeed! This manages to be at once informative and entertaining, which is certainly a difficult balance to strike. The personal narrative through the difficulties and successes, as well as the expert literary style, make the piece highly readable. I’ve been meaning to tell you that I always appreciate and admire your vocabulary. It brings a distinguished kind of spice to conversations you’re in, while still being inviting and approachable, and I can now see that such vernacular translates well into written form as well.
+I do have one minor technical suggestion. I always like when technical explanations include the path and filename of each file they’re referencing as a comment on the first line of the code snippet for increased clarity.
+Very well done. I hope this finds it’s way into the hands of a student struggling with the dreaded CORS issues as we all have this module!"
 
 ***Feedback from Susi Irwin:***
 
