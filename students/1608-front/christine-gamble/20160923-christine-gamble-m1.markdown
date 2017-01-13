@@ -6,11 +6,11 @@ I am really excited to be a part of the front-end program. I've been around at T
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -172,5 +172,4 @@ From Devin: I was excited to work with Christine for my first project because sh
 ( Leave blanks for reviewers )
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
