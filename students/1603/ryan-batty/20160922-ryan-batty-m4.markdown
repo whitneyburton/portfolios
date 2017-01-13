@@ -6,14 +6,14 @@ Three down, one to go.
 
 Going into Mod 4, I knew that I had three major priorities, job search, JavaScript, and graduation. Initially, I felt the last two would fall into place, but it ultimately ended up being a pretty difficult balance to strike.
 
-That said, I do feel that module 4 was a success. With GameTime, my partner and I were able to make an amazingly fun and well written game. With Scale Up, I was able to really push my comfort zone and what I'm capable of. Finally, with Denver Startup Week I had a fantastic collection of events to help with my job search. 
+That said, I do feel that module 4 was a success. With GameTime, my partner and I were able to make an amazingly fun and well written game. With Scale Up, I was able to really push my comfort zone and what I'm capable of. Finally, with Denver Startup Week I had a fantastic collection of events to help with my job search.
 
 Going forward, I would love to say its done and over. My experience at Turing though has taught me that learning is a constant effort, and I feel so far from finished. While my responsibilities at Turing feel finished, I still have a job to nail down and so many new technologies I want to explore. I believe that it is possible though, and I have Turing to thank for that.
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3 (?)
 * **E: Feedback & Community Participation**: 3
@@ -22,7 +22,7 @@ Going forward, I would love to say its done and over. My experience at Turing th
 
 ## A: End of Module Assessment
 
-Category | Score 
+Category | Score
 ---|---
 Satisfactory Progress | 3
 Ruby Syntax & Style | 4
@@ -44,7 +44,7 @@ IdeaBox is a project that uses jQuery and AJAX to present a list of Ideas that c
 
 **Evaluator: Nate**
 * Recommended taking another look at RESTful routes on API's, endpoints were inappropriately based around methods
-* Felt the JS was appropriately broken apart 
+* Felt the JS was appropriately broken apart
 
 Category | Points
 ---|---
@@ -71,7 +71,7 @@ Overall, the project instead became an experiment in dealing with the above chal
 
 **Evaluator: Meeka**
 
-Code: 
+Code:
 
 Your README still has a lot of the boilerplate stuff in it - so other than the app description there isn’t much in there about what your app specifically does. At minimum I would recommend removing the link to the Vapor example repo and putting in a link to your blog
 
@@ -162,7 +162,7 @@ My favorite part of this GitHub was the Fluent talk from Kathy Sierra. I was sur
 #### Telling Your Story, using the completed Flower Exercise
 * [Turing.io Profile](https://www.turing.io/alumni/ryan-batty)
 
-**LinkedIn / Resume Summary** 
+**LinkedIn / Resume Summary**
 I'm a developer driven by a passion for delivering engaging and interesting digital experiences. Whether its a traditional full stack web application, a mobile solution,  or something new, I am happy to tackle any challenge and learn new technologies whenever possible. With prior experience in Information Technology and Customer Service I am not afraid to get my hands dirty, fixing and fine-tuning a variety of platforms, tackling customer issues head on, and working as part of a bigger picture to deliver the absolute best experience possible to the client.
 
 **Takeaway**
@@ -221,8 +221,14 @@ Regardless, I do wish I could of done more. I think as a cohort we had wanted to
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3

@@ -180,4 +180,12 @@ I attempted to overcome this by making myself accessible to other mods over slac
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3

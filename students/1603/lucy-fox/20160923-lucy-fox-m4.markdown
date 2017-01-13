@@ -149,7 +149,7 @@ I believe this session was on cold outreach. If so, then the takeaway for me was
 
 ### Giving Feedback
 
-To Erin - I really appreciated having the chance to work with Erin for game time. Erin has a persistent attitude to overcome all challenges that present in projects which makes her a motivating team member. She does her best to think and explore ideas outside of the box. I did notice on occasion when ideas sometimes led us down rabbit holes Erin tried her best to make them work. On occasion, she may benefit from moving on to a new idea a little sooner. Overall, I'm happy with our final product and I look forward to seeing what Erin is able to accomplish as a developer. 
+To Erin - I really appreciated having the chance to work with Erin for game time. Erin has a persistent attitude to overcome all challenges that present in projects which makes her a motivating team member. She does her best to think and explore ideas outside of the box. I did notice on occasion when ideas sometimes led us down rabbit holes Erin tried her best to make them work. On occasion, she may benefit from moving on to a new idea a little sooner. Overall, I'm happy with our final product and I look forward to seeing what Erin is able to accomplish as a developer.
 
 ### Being a Community Member
 
@@ -166,8 +166,14 @@ In a larger scope, I've attended every day this module with the exception of the
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3

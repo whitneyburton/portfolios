@@ -164,7 +164,7 @@ Nick offers rare talent when it comes to programming: strong problem-solving ski
 
 ### Self Evaluation
 
-| Rubric Scores for Self Evaluation                    
+| Rubric Scores for Self Evaluation                    | |
 |-------------------------------|:-----:|
 | End of Module Assessment      |     3 |
 | Individual Work and Projects  |     3 |
@@ -179,5 +179,14 @@ Nick offers rare talent when it comes to programming: strong problem-solving ski
 
 ### Notes
 
-
 ### Outcome
+
+PROMOTED
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
