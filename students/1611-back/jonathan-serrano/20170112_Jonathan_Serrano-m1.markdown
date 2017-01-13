@@ -227,4 +227,4 @@ Intro/About/Bio - Skills - Projects - Contact - Blog
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROVISIONAL
