@@ -320,6 +320,13 @@ I have enjoyed going to the Friday morning guest speakers, they have been helpfu
 
 ### Notes
 
-
+Pass!
 
 ### Outcome
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+

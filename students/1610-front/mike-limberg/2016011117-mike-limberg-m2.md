@@ -379,6 +379,8 @@ Thank you for your openness and general good vibes. I appreciate you taking the 
 
 I tried to clean a bit more even on days that weren't assigned to me, push in chairs when I was one of the last to leave etc. Other than that I really just try to help people when they bump into problems. Being at Gusto it's mainly just Mod 1 but I like to offer help whenever I can. I opened up an hour pairing slot every day except Friday for the entire module.
 
+[ Note from Meeka: started leading fundamental JavaScript practices in the morning ]
+
 ### Personal Reflection
 
 I worked really hard to improve myself as a teammate and learner this mod, mostly based on the feedback and impressions I got from teammates in mod 1. One of the biggest things I knew I had to work on was my patience and temperment when running into hurdles during a project.
@@ -398,8 +400,12 @@ Quite honestly this area needs improvement. The individual assigned to the role 
 
 ### Notes
 
-( Leave blanks for reviewers )
+Super Pass. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
