@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I want to learn a good deal more about DevOps techniques and security, as well as building on my existing foundation of rails techniques. I would also like to try my hand at another language or two (not in-depth, but at least having some exposure would be good). 
+I want to learn a good deal more about DevOps techniques and security, as well as building on my existing foundation of rails techniques. I would also like to try my hand at another language or two (not in-depth, but at least having some exposure would be good).
 
 ## Rubric Scores
 
@@ -59,25 +59,25 @@ I enjoyed trying to get Stream to work for this project, and I think I learned a
 ##### Description
 This was exhausting in the best of ways. I decided to connect my existing coffee bot service / API with 'the real world.' To do so I wound up connecting my existing Rails app to a Javascript (Node/Express) API+Server on the Raspberry Pi. The JS server is then responsible for running (given the proper command) a python script. Whew. For this project I had to work with an existing brownfield API (of my own creation), Slack's OAuth system, the Raspberry Pi's Linux interface... and that's before I started actually having to put hardware together. I learned a ton and only managed to blow up one Raspberry Pi. (Pending a self-repairing fuse's self-repair.)
 
-##### Evaluation Comments: 
+##### Evaluation Comments:
 To be added post-eval.
 
 
-##### Evaluation Scores: 
+##### Evaluation Scores:
 To be added post-eval.
 
 ## C: Group Work & Projects
 
 ### Projects
 
-Rales Engine! Cloney Island! The hit-parade continues. (I only have one mod left to figure out what to put in these intro sections. Wish me luck.) 
+Rales Engine! Cloney Island! The hit-parade continues. (I only have one mod left to figure out what to put in these intro sections. Wish me luck.)
 
 ### Rales Engine
 
 * [GitHub URL](https://github.com/AliSchlereth/rales_engine)
 * [Original Assignment](https://backend.turing.io/module3/projects/rails_engine)
 
-##### Description: 
+##### Description:
 
 Rales Engine! Ah, Rales Engine. It was kind of nice to get back to our total-backend roots and build this raw API. Getting to really exercise my ActiveRecord/SQL skills helped to reinforce those concepts as well.
 
@@ -106,7 +106,7 @@ Evaluator: Lauren
 
 ##### Description
 
-I spent a lot of time during this project coming to terms with AWS. I learned a massive amount about deploying to production and though it was definitely rough 'in the trenches' it was quite a reward getting to see it running smoothly (and securely! thanks, Let's Encrypt!) in production. Was also good to experiment with dogfeeding an API and getting to work with our permissions service. I feel like we did/learned so much on this project it's hard to sum everything up! 
+I spent a lot of time during this project coming to terms with AWS. I learned a massive amount about deploying to production and though it was definitely rough 'in the trenches' it was quite a reward getting to see it running smoothly (and securely! thanks, Let's Encrypt!) in production. Was also good to experiment with dogfeeding an API and getting to work with our permissions service. I feel like we did/learned so much on this project it's hard to sum everything up!
 
 ##### Evaluation Scores:
 Evaluator: Josh
@@ -158,7 +158,7 @@ It was a relief to hear that the people interviewing us can be just as nervous a
 - to Ali Schlereth:
 “Working with Ali on Rales Engine was a great experience. We complemented each-other’s skill-sets well and I feel like we were both able to learn a ton on the project. We managed to knock out the “Boss Mode” query thanks to her SQL skills! Also, it was especially cool that we were able to take what we learned on the project to our work leading Pahlka Posse. I look forward to working with Ali again in the future.”
 
-- to Anthony Ciccone: 
+- to Anthony Ciccone:
 "I enjoyed working with Anthony on Cloney Island! He especially took charge of our front-end content and the site wouldn’t have looked anywhere near as good without him. He is calm under pressure and is always willing to try new approaches to problems. This was my first time working with Anthony on a project but hopefully not the last! Also: Thanks in particular for tolerating my wandering around the AWS rabbit hole - I learned a _ton_ and I really appreciate having had the opportunity!"
 
 - to Ben Pepper:
@@ -167,20 +167,20 @@ It was a relief to hear that the people interviewing us can be just as nervous a
 - to Lee Saville:
 "It was great working with Lee on Cloney Island. His persistence and drive to understand every facet of an idea or issue was a massively valuable asset to our group. I hadn’t had the chance to work with Lee before and I was glad to get the chance to do so, hopefully we’ll work together again! He tackled challenge after challenge (ajax! API authentication!) and our site/project was way better for it. Also: Thanks in particular for tolerating my wandering around the AWS rabbit hole - I learned a _ton_ and I really appreciate having had the opportunity!"
 
-- to Nick Chambers: 
+- to Nick Chambers:
 "It has been (and continues to be) good getting to know Nick as part of Pahlka Posse. His willingness to dive in to totally new concepts has been massively valuable to us throughout the mods. He co-taught a D3 lesson that was approachable, useful, and fun. I look forward to continuing to work with Nick and to seeing where his talents take him in the future!"
 
-- to Gabi Procell: 
+- to Gabi Procell:
 "Gabi's leadership of the Turing Game Time / Lan Party groups has been impressive to witness + benefit from -- she grew these groups out of nothing and created a regularly attended event, something that is not easy to do. I have not had the experience of working with her on a programming project -- the curse of the front end / back end divide! -- but her work to bring people together through playing games is hopefully working to end that divide."
 
 ### Being a Community Member
 
-Feedback to me: 
+Feedback to me:
 
 - from Mike Schutte:
 "Hey Noah! Just want to say thanks for all your hard work on the Pahlka project this mod, as well as your general kindness and enthusiasm (especially for security). My Turing experience is brightened by your presence. Finish strong!"
 
-- from Devin Beliveau: 
+- from Devin Beliveau:
 "Noah, I really enjoyed your Spike on security. It was actually one of my favorite Spikes of the mod! We don't concern ourselves much with security over here on the front end, so it was really awesome to hear about regular and one off security issues with modern technology. I think the talk sparked a lot of conversation among those who attended. I know when I have the time (and money) I'm going to look into some of the software we talked about. I think if you were to continue doing some talks on security, I would ask what features people want to hear about. I think the front end may have a lot of questions about security that we will probably never go over in our program."
 
 ### Playing a Part
@@ -191,11 +191,11 @@ I gave a security lightning talk and then eventually wound up leading a 2 hour (
 
 ### Gear Up
 
-#### Microaggressions 
+#### Microaggressions
 I think it's always valuable to have this kind of conversation. Microaggressions are imperfectly defined and even more imperfectly understood, but they are very real and very much a part of our daily lives. I was disappointed and saddened to experience the reaction of some members of our community, but I guess that is part of the conversation as well. I think these kinds of gears up are most useful for us as we head out into the 'real world' just as much as internally (no matter which mod) -- just being aware of (and taking seriously) these issues is vital.
 
 #### Journey Mapping
-I'm always a little skeptical about these business-buzzword Gear Ups. I appreciate that it is useful to have a schematic for one's plans but I don't really know what I got out of this. I was lucky enough to find myself in a group that was excited to think creatively about the idea and it was a nice way to re-think an existing concept. 
+I'm always a little skeptical about these business-buzzword Gear Ups. I appreciate that it is useful to have a schematic for one's plans but I don't really know what I got out of this. I was lucky enough to find myself in a group that was excited to think creatively about the idea and it was a nice way to re-think an existing concept.
 
 #### Grit
 Okay, I'm extremely skeptical about these business-buzzword Gear Ups. When both of the articles we read seemed to say that it's impossible to define 'grit', I felt pretty uncertain about the whole thing. Still, we had a good conversation about the ways in which the idea of grit can be used to both help and hurt us and I think that was a good end result.
@@ -206,8 +206,14 @@ Okay, I'm extremely skeptical about these business-buzzword Gear Ups. When both 
 
 ### Notes
 
-( Leave blanks for reviewers )
+Nice thought given to Gear-up sessions. Great work for the community. Consistently going above and beyond.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 4

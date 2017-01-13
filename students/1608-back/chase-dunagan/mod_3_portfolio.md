@@ -140,8 +140,12 @@ I was not able to do this gear-up because I was ill.
 
 ### Notes
 
-( Leave blanks for reviewers )
+Flower exercise wasn't checkable.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
