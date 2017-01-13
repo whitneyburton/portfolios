@@ -1,7 +1,7 @@
 # Christine Gamble - M3 Portfolio
 
 ## Areas of Emphasis
-I am excited about being in the front-end program and continuing to develop my skills. My health is something that has impacted me in the past at Turing, and I am hoping I can find ways to move forward and be successful despite these issues.
+I want to continue to build a strong foundation for JS and React. I plan to continue to do different exercises over intermission week and throughout module 4 to strengthen those skills. I also plan to work on cleaning up my resume and personal website and building connections to help with the job search.
 
 ## Rubric Scores
 
