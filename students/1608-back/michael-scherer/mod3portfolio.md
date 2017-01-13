@@ -245,8 +245,12 @@ I think this was a good session; I liked that we had the reflection in our cohor
 
 ### Notes
 
-( Leave blanks for reviewers )
+Love the 5 on testing. Really great instincts for development. Consistently reaching outside of comfort zone. Nice thoughts on grit. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 3

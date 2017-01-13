@@ -7,10 +7,10 @@ I decided to redo module 2 and i think that it was the right choice. Being able 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
-* **D: Professional Skills**:
-* **E: Feedback & Community Participation**:
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -72,23 +72,25 @@ some glimpses of great code! would like to see more.
 
 
 Specification Adherence
+
 1 - The application is missing * 3 or more smaller features or 1 major feature essential to having a complete application.
 
-
 Accessibility
+
 4 - The application demonstrates an exceptional knowledge of web accessibility. The application has no aXe-core violations, is fully functional without using a mouse, and the application uses HTML/CSS to ‘chunk’ content into more manageable pieces. The application utilizes semantic HTML.
 
-
-
 User Interface
+
 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
 
 
 HTML Style
+
 4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors.
 
 
 JavaScript Style
+
 3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
 
@@ -99,17 +101,13 @@ Utilization of es6
 Testing
 1 - There is little or no evidence of testing in this application.
 
-
-
 Workflow
 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
 Working with Mike is great, he’s patient and great at finding new ways to tackle complex problems. I especially enjoy taking a walk and discussing new approaches to problem solving. He & I share a strong standard for quality and I, with no doubt, see Mike as the backbone to many elegant design solutions.
 
-
-
-
 #### Shoot The Breeze
+
 * [GitHub URL](https://github.com/mziccardi/shoot-the-breeze-)
 * [Original Assignment](http://frontend.turing.io/projects/shoot-the-breeze.html)
 
@@ -162,6 +160,7 @@ NETWORKR is a project that focused  on using firebase backend and a react UI.
 Instructor Evaluation Points: firebae
 Instructor: yung-jhun
 Comments:
+
 solid project given time and lack of 3rd person
 saw some good tests. pretty pumped on that
 state was delegated to other componenets which is hard to do
@@ -214,9 +213,11 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 I thought you were also a great partner to work with.  This was a tough project and I think I probably introduced some complexity early on that was tough for both of us to work through - I definitely have learned a few things on that front through this project. Despite our challenges, I really appreciated the positive/optimistic tone you gave our work together and hope you’ll continue to grow that strength.  Having worked on a number of teams in my past life, I can tell you that optimism and positivity is an incredibly important skill set to have in team work. Cheers!
 
 ## D: Professional Skills
+
  - learning project management was beneficial in module 2 i enjoyed learning about scrums and scrum cycles. while i feel that our projects arent big enough (yet) to implement these skills, it's good to know about AGILE and things like that, especially after looking at job postings and how AGILE is required knowledge for many developer positions
 
 ### Gear Up
+
 #### (micro-aggressions)
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
@@ -257,14 +258,12 @@ working with Andy on the 2dobox pivot was an experience. Andy was patient as we 
   -Sam: I really enjoyed working with Sam His Can-do attitude was super helpful when running into  speed bumps during our time working on firebae. He helped me when I was struggling with concepts and he always kept me positive. He was patient when I would get lost in our mess of components and I really appreciated it. One thing that I feel would be beneficial to sam is to take more breaks. for me the long stretches of coding would cause me to have worse focus and not get much progress. sam has really been killing it, and i'm happy to be in class with him.
 
 ### Being a Community Member
+
 Working with Mike is great, he’s patient and great at finding new ways to tackle complex problems. I especially enjoy taking a walk and discussing new approaches to problem solving. He & I share a strong standard for quality and I, with no doubt, see Mike as the backbone to many elegant design solutions.
 
  Mike is the IDEAL collaborative partner.  He insists on clean code, thorough research, and presents himself in a cool, collected way that encourages growth from himself and others( meaning me, in this instance, of course).  Communication was a breeze, as Mike was always quick to respond which allowed for us to be on the same page at all times.  Additionally, Mike was able to show me some things that I wasn't privy to, such as breaking out testing components.  He's patient, positive, and demands only the best from himself.  I work would with Mike again in a heartbeat.  We put out a chat app that I'm proud to have completed with him as my partner.
 
  I thought you were also a great partner to work with.  This was a tough project and I think I probably introduced some complexity early on that was tough for both of us to work through - I definitely have learned a few things on that front through this project. Despite our challenges, I really appreciated the positive/optimistic tone you gave our work together and hope you’ll continue to grow that strength.  Having worked on a number of teams in my past life, I can tell you that optimism and positivity is an incredibly important skill set to have in team work. Cheers!
-
-
-
 
 
 ### Playing a Part
@@ -280,4 +279,12 @@ Working with Mike is great, he’s patient and great at finding new ways to tack
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+
