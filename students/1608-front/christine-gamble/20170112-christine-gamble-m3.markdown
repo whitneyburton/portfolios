@@ -131,8 +131,6 @@ I appreciated this session because it allowed me to define grit in a new way. I'
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
