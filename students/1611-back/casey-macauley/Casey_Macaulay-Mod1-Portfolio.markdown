@@ -15,7 +15,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 4
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -362,4 +362,4 @@ So, I had the pleasure of pairing with Casey several times over the course of th
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

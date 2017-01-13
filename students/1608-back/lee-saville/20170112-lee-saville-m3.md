@@ -264,7 +264,7 @@ In my mind all the gear ups that ever were and will be are about awareness/empat
 
 ##### [Journey Mapping](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
-Journey mapping was an interesting exploration of mapping the user experience along with their emotions and a timeline. This sort of activity encourages us to play user and imagine what frustrations we might have interacting with a product and will surely lead us to creating higher quality software products. This ties in with Josh's plea to use behavior driven development. An aspect of the Journey mapping that is out of our ordinary mode of thinking about our applications is all the activity that a user might engage in outside actually using a service or app that indirectly affects that experience, such as the path to discovering a service/product and their gathering of competitors data/budget concerns etc.  
+Journey mapping was an interesting exploration of mapping the user experience along with their emotions and a timeline. This sort of activity encourages us to play user and imagine what frustrations we might have interacting with a product and will surely lead us to creating higher quality software products. This ties in with Josh's plea to use behavior driven development. An aspect of the Journey mapping that is out of our ordinary mode of thinking about our applications is all the activity that a user might engage in outside actually using a service or app that indirectly affects that experience, such as the path to discovering a service/product and their gathering of competitors data/budget concerns etc.
 
 ##### [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
@@ -276,7 +276,11 @@ Grit seems like the magic buzzword in success psychology. It does seem to have s
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 

@@ -6,16 +6,20 @@ For my third module at Turing I wanted to focus on building and interacting with
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**:
-* **B: Individual Work & Projects**:
-* **C: Group Work & Projects**:
-* **D: Professional Skills**:
-* **E: Feedback & Community Participation**:
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
-
+  1. Ruby Style: 3
+  2. Rails Syntax & API: 3
+  3. Testing: 3
+  4. Completion: 3
+  5. Workflow: 4
 
 ## B: Individual Work & Projects
 
@@ -187,9 +191,9 @@ My main take aways from Bezos this mod are the friendships and community I have 
 
 ### Notes
 
-* **A: End-of-Module Assessment**: ?
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 

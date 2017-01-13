@@ -7,7 +7,7 @@ This module, I set out to become familiar with the Ruby language and principles 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
@@ -353,3 +353,5 @@ to other cohort members. My peers suggested a Mod 1 Monday Lunch roulette so the
 
 
 ### Outcome
+
+PROMOTED

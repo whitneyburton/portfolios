@@ -296,10 +296,4 @@ When I started at Turing, I was worried that I would be overwhelmed by the commu
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED

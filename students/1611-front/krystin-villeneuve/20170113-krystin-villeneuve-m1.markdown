@@ -1,4 +1,4 @@
-# Krytin Villeneuve - M1 Portfolio
+# Krystin Villeneuve - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -318,3 +318,7 @@ It's not always easy to think of ourselves in these kinds of relative terms. I e
 ## Growth Mindset
 
 This was my favorite workshop. This mindset is vital in all facets of life. I learned about this when I first went to college after the army. I had to begin math training way back at remedial pre-algebra. I felt 'stupid' and considered not pursuing it any further, but I still took that first pre-algebra class. Then I took another math class, and another, and another. I learned I was never bad at math, I was just behind, and that was easily fixed - and most other things work the same way. It's life changing.
+
+***
+
+PROMOTED

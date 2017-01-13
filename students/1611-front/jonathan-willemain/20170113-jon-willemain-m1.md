@@ -287,10 +287,4 @@ I really like the class I am in, I try to help as much as I can because I want t
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PENDING - needs to turn in GT tests for Robbie's review.

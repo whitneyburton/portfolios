@@ -257,10 +257,4 @@ I supported the Turing community by being a member of a posse, going to women's 
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED

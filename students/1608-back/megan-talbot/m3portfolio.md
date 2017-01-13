@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I entered this module with the main goal of gaining a deeper understanding of Rails. I also wanted to learn more about consuming APIs and building my own, as I had essentially no experience with APIs prior. 
+I entered this module with the main goal of gaining a deeper understanding of Rails. I also wanted to learn more about consuming APIs and building my own, as I had essentially no experience with APIs prior.
 Additionally, I aimed to prepare myself for interviews by focusing on exercisms every week. I also hoped to make new contacts in both the Boston and Denver areas through a dedicated outreach effort.
 
 I am happy to say I have accomplished all of my goals! I feel much more comfortable with Rails and I also know a lot about API consumption and construction. I have done my best to focus on exercisms outside of class, and I hope to continue this effort. I think my network has grown in both Boston and in Denver, but I will most definitely keep working on this as well!
@@ -122,9 +122,9 @@ This project had us create a total application from scratch. Our group built a p
 
 **Git Workflow** - **Team always used pull requests and commented on pull requests prior to introducing code into the master branch.**
 * **4: As expected**
- 
+
 **Test Quality - Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?**
-* **3: As expected** 
+* **3: As expected**
 
 **Code Quality - Project demonstrates well-factored code and a solid grasp of MVC principles.**
 * **3: As expected**
@@ -134,7 +134,7 @@ This project had us create a total application from scratch. Our group built a p
 
 
 __**Feedback to me:**__
- 
+
 *Feedback from Ryan:*<br>
 Megan was an excellent team member on Cloney Island. I repeatedly saw her jump on whichever part of the project needed her, even if it wasn't an easy or glamorous task like user ratings. Though at times we faced difficult problems, pairing with Megan was always a positive experience, and I am grateful that we had the chance to work on a team while at Turing.
 
@@ -248,11 +248,11 @@ This was an exercise adapted from "What Color is Your Parachute", and it focused
 We focused a lot on scheduling for the job search in this session, which made it both useful and intimidating. I implemented a job search schdule for myself this module, and I have tried to stick to it. I plan to focus even more on this through intermission week and into mod 4!
 
 
-#### Innovative Problem Solving 
+#### Innovative Problem Solving
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
 
-This was a session with Allison where we focused on building creativity and new ways to approach problem solving. I didn't make a pitch after this session since I knew  I was hoping to work on the client project, and we were told it was uncessary if this was the case. However, it was still useful to go through the process of brainstorming and asking critical questions about our ideas. 
+This was a session with Allison where we focused on building creativity and new ways to approach problem solving. I didn't make a pitch after this session since I knew  I was hoping to work on the client project, and we were told it was uncessary if this was the case. However, it was still useful to go through the process of brainstorming and asking critical questions about our ideas.
 
 
 #### Interviewing
@@ -281,7 +281,11 @@ I was again involved with the Bezos posse this module, and it was a great experi
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
