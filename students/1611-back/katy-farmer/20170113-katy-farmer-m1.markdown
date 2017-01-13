@@ -28,28 +28,28 @@ Challenge: What Can I Make?
 
 #### Ruby Syntax & API
 
-* **4: Developer is able to write Ruby with a minimum of reference or debugging**
+* 4: Developer is able to write Ruby with a minimum of reference or debugging
 
 #### Completion and Progress
 
-* **4: Developer fully completes baseline assignment and one of the Challenge options.**
+* 4: Developer fully completes baseline assignment and one of the Challenge options.
 
 #### Testing
 
-* **4: Developer excels at taking small steps and using the tests for both design and verification**
+* 4: Developer excels at taking small steps and using the tests for both design and verification
 
 #### Workflow
 
-* **3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts**
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
 
 #### Collaboration
 
-* **4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck**
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 #### Enumerable & Collections
 
-* **4: Application consistently makes use of the best-choice Enumerable methods**
+* 4: Application consistently makes use of the best-choice Enumerable methods
 
 
 
@@ -75,24 +75,24 @@ Create a binary search tree to store movies and their scores.
 
 #### Functional Expectations
 
-  **1: Application is missing more than one base expectation**
+*  1: Application is missing more than one base expectation
 
 #### Test-Driven Development
 
-  **4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
+*  4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 
 #### Encapsulation / Breaking Logic into Components
 
-  **2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear**
+*  2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 
 #### Fundamental Ruby & Style
 
-  **2.5: Shows some refactoring, but could use a lot more**
+*  2.5: Shows some refactoring, but could use a lot more
 
 #### Looping or Recursion
 
-  **3: Application makes effective use of loop/recursion techniques**
+*  3: Application makes effective use of loop/recursion techniques
 
 ### Battleship
 
@@ -107,27 +107,27 @@ tested the REPL
 used File IO to pull instructions from a text file w
 #### Fundamental Ruby & Style
 
-  3: Application shows strong effort towards organization, content, and refactoring
+*  3: Application shows strong effort towards organization, content, and refactoring
 
 #### Enumerable & Collections
 
-  3: Application demonstrates comfortable use of several Enumerable techniques
+*  3: Application demonstrates comfortable use of several Enumerable techniques
 
 #### Test-Driven Development
 
-  4: Application is broken into components which are well tested in both isolation and integration
+*  4: Application is broken into components which are well tested in both isolation and integration
 
 #### REPL Interface
 
-  4: Application's REPL goes above and beyond expectations to improve the gameplay
+*  4: Application's REPL goes above and beyond expectations to improve the gameplay
 
 #### Breaking Logic into Components
 
-  3: Application effectively breaks logical components apart with clear intent and usage
+*  3: Application effectively breaks logical components apart with clear intent and usage
 
 #### Functional Expectations
 
-  4: Application meets all requirements, and implements one extension properly.
+*  4: Application meets all requirements, and implements one extension properly.
 
 
 ## C: Group Work & Projects
@@ -151,23 +151,23 @@ Nate got distracted by trying to refactor an elsif, but doesn't have any judgeme
 
 #### Functional Expectations
 
-  **3: Application fulfills all base expectations**
+*  3: Application fulfills all base expectations
 
 #### Test-Driven Development
 
-  **4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
+*  4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 #### Encapsulation / Breaking Logic into Components
 
-  **4: Application is expertly divided into logical components each with a clear, single responsibility**
+*  4: Application is expertly divided into logical components each with a clear, single responsibility
 
 #### Fundamental Ruby & Style
 
-  **3: Application shows strong effort towards organization, content, and refactoring**
+*  3: Application shows strong effort towards organization, content, and refactoring
 
 #### Enumerable & Collections
 
-  **4: Application consistently makes use of the best-choice Enumerable methods**
+*  4: Application consistently makes use of the best-choice Enumerable methods
 
 #### Headcount
 
@@ -189,29 +189,29 @@ The project will be assessed with the following guidelines:
 
 #### Functional Expectations
 
-  3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
+*  3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
 
 #### Test-Driven Development
 
-  3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+*  3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
 #### Encapsulation / Breaking Logic into Components
 
-  3: Application effectively breaks logical components apart but breaks the principle of SRP
+*  3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 #### Fundamental Ruby & Style
 
-  3: Application shows strong effort towards organization, content, and refactoring
+*  3: Application shows strong effort towards organization, content, and refactoring
 
 #### Enumerable & Collections
 
-  4: Application consistently makes use of the best-choice Enumerable methods
+*  4: Application consistently makes use of the best-choice Enumerable methods
 
 #### Code Sanitation
 
 The output from rake sanitation:all shows...
 
-  4: Zero complaints
+*  4: Zero complaints
 
 ## D: Professional Skills
 (Intro)
