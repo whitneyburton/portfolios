@@ -9,7 +9,7 @@ My community goals were to help my classmates with their own questions, to join 
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: 2
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -25,22 +25,22 @@ Challenge: Shopping List
 
 
 #### Ruby Syntax & API
-* **3: Developer is able to write Ruby with some debugging of fundamental concepts**
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts**
 
 #### 2. Completion and Progress
-* **3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.**
+* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.**
 
 #### 3. Testing
-* **3: Developer writes tests that are effective validation of functionality, but don't drive the design**
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design**
 
 #### 4. Workflow
-* **3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts**
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts**
 
 #### 5. Collaboration
-* **4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck**
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck**
 
 ### 6. Enumerable & Collections
-* **3: Application demonstrates comfortable use of appropriate Enumerable methods**
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods**
 
 
 ## B: Individual Work & Projects
@@ -49,38 +49,36 @@ I worked on the following individual projects:
 *  Jungle Beats
 *  Battleship
 
-#### (Jungle Beats)
+#### Jungle Beats
 
 * [GitHub URL](https://github.com/JonathanSR/jungle_beats)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
-(description) 
 *  This project focuses on the use of the linked list data structure by making a drum machine program. 
 
-(evaluation comments)
+#### Evaluation Comments
 *  need to work on testing
 *  talked about variables and refactoring
 
-(evaluation scores)
+#### Evaluation Scores
 *  Functional Expectations 1
 *  Test_Driven Development 2
 *  Encapsulation / Breaking Logic Into Components 3
 *  Fundamental Ruby & Style 2
 *  Looping or Recursion 3
 
-#### (Battleship)
+#### Battleship
 
 * [GitHub URL](https://github.com/JonathanSR/Battleship)
 * [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
-(description)
 *  Builds a playable game of Battleship that runs in a REPL interface. The game will allow a single human player to play against a (simplistic) computer player.
 
 
 
-(evaluation comments)
+#### Evaluation Comments
 
-(evaluation scores)
+#### Evaluation Scores
 *  Fundamental Ruby & Style 4
 *  Enumerable & Collections 3
 *  Test-Driven Development 2
@@ -101,32 +99,31 @@ I participated in the following Group Projects:
 * [GitHub URL](https://github.com/edilenedacruz/enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-(description)
 *  Builds a tool for cracking an encryption algorithm.
 
-(evaluation comments)
+#### Evaluation Comments
 *  got through crack and an extension
 *  talked about division of responsibility
 *  tests are working but only if code is commented out (we talked about commented out code to make things work)
 *  tests need to be more robust
 
-(evaluation scores)
+#### Evaluation Scores
 *  Overall Functionality 4
 *  Fundmamental Ruby & Style 3
 *  Test-Driven Development 3
 *  Breaking Logic into Components 2
 
-(feedback to me)
+#### Feedback To Me
 * I’m happy that we worked together in this project. We were great at listening to each other and being clear at the expectations we had. We started out really strong by creating a plan and setting daily goals that unfortunately, were not met at times but that kept us grounded and in our toes and that wasn’t bad actually. Several times you gave your suggestion, looked for help and asked questions that would guide us in the right direction. I was extremely pleased with your acceptance of using Waffle, GitHub and I was extremely amazed on how you kept your cool when GitHub was being a pain. Your calm demeanor will continue to be an amazing asset when working in groups and your willingness to try something new will help you succeed in the future. I would be great to work together again.
+
 #### Headcount (Katy)
 
 * [GitHub URL](https://github.com/TheKaterTot/headcount)
 * [Original Assignment](http://backend.turing.io/module1/projects/headcount)
 
-(description)
 *  Builds a state education dataset that is used to analyze and answer questions such as "Does Kindergarten participation perdict high school graduation?"
 
-(evaluation comments)
+#### Evaluation Comments
 * Passing through i5, with exception of a compellingly contested i5 spec harness test
 * Solid, clear testing -- some opportunities to test more edge cases and verify desired functionality
 * Overall solid style and encapsulation, some opportunities to refactor large methods
@@ -134,7 +131,7 @@ I participated in the following Group Projects:
 * 0 sanitation
 
 
-(evaluation scores)
+#### Evaluation Scores
   * Functional Expectations 3
   * Test-Driven Development 3
   * Encapsulation/Breaking Logic into Components 3
