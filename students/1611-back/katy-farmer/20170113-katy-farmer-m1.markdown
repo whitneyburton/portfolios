@@ -29,34 +29,25 @@ Challenge: What Can I Make?
 #### Ruby Syntax & API
 
 * **4: Developer is able to write Ruby with a minimum of reference or debugging**
-* 3: Developer is able to write Ruby with some debugging of fundamental concepts
-* 2: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts
-* 1: Developer spends significant time debugging elementary syntax or concepts
-* 0: Developer struggles with basic Ruby syntax
 
-#### 2. Completion and Progress
+#### Completion and Progress
 
 * **4: Developer fully completes baseline assignment and one of the Challenge options.**
-* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
-* 2: Developer completes baseline but struggles to progress on optional challenges.
-* 1: Developer struggles to complete the baseline assignment.
-* 0: Developer is unable to digest the problem and identify an approach.
 
-#### 3. Testing
+#### Testing
 
 * **4: Developer excels at taking small steps and using the tests for both design and verification**
 
-#### 4. Workflow
-
+#### Workflow
 
 * **3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts**
 
 
-#### 5. Collaboration
+#### Collaboration
 
 * **4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck**
 
-### 6. Enumerable & Collections
+#### Enumerable & Collections
 
 * **4: Application consistently makes use of the best-choice Enumerable methods**
 
@@ -82,24 +73,24 @@ Create a binary search tree to store movies and their scores.
 
 (evaluation scores)
 
-1. Functional Expectations
+#### Functional Expectations
 
   **1: Application is missing more than one base expectation**
-  
-2. Test-Driven Development
+
+#### Test-Driven Development
 
   **4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
 
 
-3. Encapsulation / Breaking Logic into Components
+#### Encapsulation / Breaking Logic into Components
 
   **2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear**
 
-4. Fundamental Ruby & Style
+#### Fundamental Ruby & Style
 
   **2.5: Shows some refactoring, but could use a lot more**
 
-5. Looping or Recursion
+#### Looping or Recursion
 
   **3: Application makes effective use of loop/recursion techniques**
 
@@ -114,27 +105,27 @@ colors
 Game runs
 tested the REPL
 used File IO to pull instructions from a text file w
-1. Fundamental Ruby & Style
+#### Fundamental Ruby & Style
 
   3: Application shows strong effort towards organization, content, and refactoring
 
-2. Enumerable & Collections
+#### Enumerable & Collections
 
   3: Application demonstrates comfortable use of several Enumerable techniques
 
-3. Test-Driven Development
+#### Test-Driven Development
 
   4: Application is broken into components which are well tested in both isolation and integration
 
-4. REPL Interface
+#### REPL Interface
 
   4: Application's REPL goes above and beyond expectations to improve the gameplay
 
-5. Breaking Logic into Components
+#### Breaking Logic into Components
 
   3: Application effectively breaks logical components apart with clear intent and usage
 
-6. Functional Expectations
+#### Functional Expectations
 
   4: Application meets all requirements, and implements one extension properly.
 
@@ -151,34 +142,30 @@ those relationships.
 #### Complete_Me
 
 * [GitHub URL](https://github.com/valerietrudell/Complete_Me)
-* [Original Assignment]()
 
-(description)
 Create a program that works to autocomplete text.
-
-(evaluation comments)
 
 Nate got distracted by trying to refactor an elsif, but doesn't have any judgements to bring upon this code
 
 (evaluation scores)
 
-1. Functional Expectations
+#### Functional Expectations
 
   **3: Application fulfills all base expectations**
 
-2. Test-Driven Development
+#### Test-Driven Development
 
   **4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
 
-3. Encapsulation / Breaking Logic into Components
+#### Encapsulation / Breaking Logic into Components
 
   **4: Application is expertly divided into logical components each with a clear, single responsibility**
 
-4. Fundamental Ruby & Style
+#### Fundamental Ruby & Style
 
   **3: Application shows strong effort towards organization, content, and refactoring**
 
-5. Enumerable & Collections
+#### Enumerable & Collections
 
   **4: Application consistently makes use of the best-choice Enumerable methods**
 
@@ -200,27 +187,27 @@ Evaluation Rubric
 
 The project will be assessed with the following guidelines:
 
-1. Functional Expectations
+#### Functional Expectations
 
   3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
 
-2. Test-Driven Development
+#### Test-Driven Development
 
   3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-3. Encapsulation / Breaking Logic into Components
+#### Encapsulation / Breaking Logic into Components
 
   3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-4. Fundamental Ruby & Style
+#### Fundamental Ruby & Style
 
   3: Application shows strong effort towards organization, content, and refactoring
 
-5. Enumerable & Collections
+#### Enumerable & Collections
 
   4: Application consistently makes use of the best-choice Enumerable methods
 
-6. Code Sanitation
+#### Code Sanitation
 
 The output from rake sanitation:all shows...
 
