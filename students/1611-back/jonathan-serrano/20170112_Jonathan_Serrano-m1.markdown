@@ -66,7 +66,7 @@ I worked on the following individual projects:
 
 #### Projects
 
-I participated in the following Group Projects:
+I participated on the following Group Projects:
 *  Enigma
 *  Headcount
 
@@ -150,23 +150,29 @@ I participated in the following Group Projects:
 
 #### Giving Feedback
 
-* Project Partner Feedback(Enigma)
+Project Partner Feedback(Enigma)
 * Edilene BackEnd 1611
 * I want to take this moment to thank you for an amazing paired project experience. I will be honest and admit that I was skeptical how this pairing would go due to never participated in one. Your ability to manipulate data and be able to follow it as it moves from class to class is by far amazing. Listening to your explanations of your implementations of methods and objects really helped in making Enigma an enjoyable project. I know that you preach TDD and we followed it the first couple days but we veered from it as the project got bigger. Causing us to “hack” the code and write tests after code. Staying focused on TDD will help you with your time management by saving you unnecessary reformatting time. Your test writing abilities are an area of strength and I would enjoy seeing you thoroughly master this skill as you seem to be a natural at it. Thanks again for being a helpful, informative, well-rounded partner and good luck on your next pairing.
 
 
-* Ken Lee BackEnd 1611
+Ken Lee BackEnd 1611
 * Ken, your dedication to this program is surpassed by none. We all come here to learn how to program but you strive to understand the material to the point where you feel comfortable enough to work with it in a variety of ways. Your approach of having a solid foundation before moving on has made me change my method of learning for the better. Being a great communicator is one of your perks, for example explaining to me why I was not being able to pull from Github and talking me through the steps of how to resolve the conflict is only one of the many instances where your skills have had a positive impact on me. I have faith in your ability in becoming a well rounded programmer. Thanks for being an awesome peer, friend and community memember.
 
 #### Receiving Feedback
 
 * Jonathan, you have been awesome at being a fellow cohort(er) and I am inspired by you perception and action to make Turing a more inclusive space by starting the Turing minority group. I am honored and excited to see how we can make a difference to our community (not just Turing but our local tech community). I feel with we can make a positive difference! I've seen you studying hard early in the morning and into the late hours in the Blakement and I am inspired by your dedication and know you will be an influence to incoming cohorts with your example. I have no doubt you will become an amazing developer and continue your work to better people of colors lives through learning to code.
-* Ken Lee
+Ken Lee
 
 #### Community Involvment
 
  * Currently I am working on establishing a support base called "Turing Diversity" that focuses on three subjects, current students, incoming students and community outreach. The goals are to create a foundation support group for all of those who identify as a minority, where we can help out each other in succeeding during our time at Turing and after. Incoming students would benefit from having an established support group where we can become mentors, guide them through the process, help them if they are out of town and or are having a hard time assimilating into the culture. Community outreach delves into reaching our community base, the future of tomorrow, the present, to show that there are people like them in tech. That there are other ways of succeeding in life than some of the options that draw so many people of our community into. Goals are to adopt a school where we teach code, create a blogpost, put out a diversity panel etc. I've also participated in the weekly health challenges, attended code-for-skills, productivity lunches and other programs that I hope that I was able to leave a positive footprint as they did on me.
 
+#### Self Rubric Scores
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 
 
@@ -175,66 +181,6 @@ I participated in the following Group Projects:
 
 
 
-### Professional Development Workshops
-
-### Personal Branding
-
-* [Workshop URL](http://backend.turing.io/professional_development/module_one/personal_branding_p1)
-* [Link to Completed Deliverables](https://www.linkedin.com/in/jserranor)
-* [Link to Completed Deliverables](https://dochub.com/jonathanserrano7fcf1b89/aBWxae/jonathan-serrano-resume)
-
-
-This session has made clear what personal branding in is and how to stay consistent at creating my own image. This is an area where I lack(ed) clear focus, now knowing what I need to accomplish and maintain will improve my visibility once I reach the job market.
-
-
-#### Learing To Pair
-
-* [Workshop URL](http://backend.turing.io/professional_development/module_one/learning_to_pair)
-* [Link to Completed Deliverables](https://docs.google.com/document/d/1cVB4ULjxXuCj-3m8yj68saqD-XgE9xyuZQ0QG3FRLX0/edit?ts=584b59db#heading=h.l3ct5pv2ggfg)
-
-This session has allowed me to view pairing in a postive light. I for one am introverted and prefer to work alone. I understand that a big objective of Turing is to get students comfortable in working with teams, that success is atainable in these settings. What I took from it are the different methods of pair programming and the benefits of them, which showed me that paring is not bad at all. My big reason for dislking team work is that I didn't know how to delegate work, thanks to this session I took with me a couple methods of how work gets delegated in the programming world. For example the Driver-Navigator method allows for a balanced approach between two people, the navigator guides the driver towards the objective. The navigator pays attention to what is being written and states what should be written while the driver codes those requests.
-
-#### Feedback 1
-
-* [Workshop URL](http://backend.turing.io/professional_development/module_one/feedback_1)
-* (*See partner feedback from projects for deliverables)
-
-Feedback is another area where I am rough on the edges. I'm quite glad that I was able to participate in a workshop that helps me know what is and isint appropriate feedback. It also helped me format my feedback for it to get the right message across with it not being to harsh or soft depending on the circumstance. The skills learned during this workshop are also applicable to other settings in life which is another thing that I took from it.
-
-#### Personal Branding II
-
-* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p2.md)
-* (*See below for Deliverables)
-
-Layout for Personal Site
-Intro/About/Bio - Skills - Projects - Contact - Blog 
-
-* Intro
-* Hi, I'm Jonathan Serrano, a software developer in Denver, Colorado.
-* I'm a current student at Turing School of Software and Design. I enjoy the challenges that programming brings and am loving the process of learning all of this information. "I'm passionate about creating change with tech that teaching kids to code at High Schools to me is a drive."(in the process of working this last section action.)
-
-###Feedback and Community Participation
-
-### Giving Feedback
-
-* Project Partner Feedback(Enigma)
-* Edilene BackEnd 1611
-* I want to take this moment to thank you for an amazing paired project experience. I will be honest and admit that I was skeptical how this pairing would go due to never participated in one. Your ability to manipulate data and be able to follow it as it moves from class to class is by far amazing. Listening to your explanations of your implementations of methods and objects really helped in making Enigma an enjoyable project. I know that you preach TDD and we followed it the first couple days but we veered from it as the project got bigger. Causing us to “hack” the code and write tests after code. Staying focused on TDD will help you with your time management by saving you unnecessary reformatting time. Your test writing abilities are an area of strength and I would enjoy seeing you thoroughly master this skill as you seem to be a natural at it. Thanks again for being a helpful, informative, well-rounded partner and good luck on your next pairing.
-
-
-* Ken Lee BackEnd 1611
-* Ken, your dedication to this program is surpassed by none. We all come here to learn how to program but you strive to understand the material to the point where you feel comfortable enough to work with it in a variety of ways. Your approach of having a solid foundation before moving on has made me change my method of learning for the better. Being a great communicator is one of your perks, for example explaining to me why I was not being able to pull from Github and talking me through the steps of how to resolve the conflict is only one of the many instances where your skills have had a positive impact on me. I have faith in your ability in becoming a well rounded programmer. Thanks for being an awesome peer, friend and community memember.
-
-### Being a Community Member
-
-* Jonathan, you have been awesome at being a fellow cohort(er) and I am inspired by you perception and action to make Turing a more inclusive space by starting the Turing minority group. I am honored and excited to see how we can make a difference to our community (not just Turing but our local tech community). I feel with we can make a positive difference! I've seen you studying hard early in the morning and into the late hours in the Blakement and I am inspired by your dedication and know you will be an influence to incoming cohorts with your example. I have no doubt you will become an amazing developer and continue your work to better people of colors lives through learning to code.
-* Ken Lee
-
-### Playing a Part
-
- * Currently I am working on establishing a support base called "Turing Diversity" that focuses on three subjects, current students, incoming students and community outreach. The goals are to create a foundation support group for all of those who identify as a minority, where we can help out each other in succeeding during our time at Turing and after. Incoming students would benefit from having an established support group where we can become mentors, guide them through the process, help them if they are out of town and or are having a hard time assimilating into the culture. Community outreach delves into reaching our community base, the future of tomorrow, the present, to show that there are people like them in tech. That there are other ways of succeeding in life than some of the options that draw so many people of our community into. Goals are to adopt a school where we teach code, create a blogpost, put out a diversity panel etc. I've also participated in the weekly health challenges, attended code-for-skills, productivity lunches and other programs that I hope that I was able to leave a positive footprint as they did on me.
-
-------------------
 
 ## Final Review
 
@@ -245,17 +191,3 @@ Intro/About/Bio - Skills - Projects - Contact - Blog
 ### Outcome
 
 PROVISIONAL
-
-
-## Rubric Scores
-
-Fill in how you would grade yourself from 1-4 in the following categories this module:
-
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 2
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
-
-
------------------------
