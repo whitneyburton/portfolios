@@ -40,7 +40,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
-### 6. Enumerable & Collections
+#### 6. Enumerable & Collections
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
@@ -128,6 +128,11 @@ In this project you'll use Ruby to build a tool for cracking an encryption algor
 
 #### Notes:
 
+* had zero tests
+* had one method that did everything
+* talked about refactoring and running the file properly
+* they are going to write tests and try to make the file work correctly by monday
+
 #### Scores:
 
 
@@ -164,7 +169,7 @@ build a "Data Access Layer" which allows us to query/search the underlying data
 build a "Relationships Layer" which creates connections between related data
 build an "Analysis Layer" which uses the data and relationships to draw conclusions
 
-Assessed By: Beth Sebian
+#### Assessed By: Beth Sebian
 
 Repo: https://github.com/andrewdwooten/headcount.git
 
@@ -273,7 +278,7 @@ Cody, I had a great time working with you on Headcount. We worked well when we w
 I joined the Bezos posse but wasn't able to attend as many meetings as I'd have liked due to schedule conflicts. I spent a lot of nights & weekends in the basement and made myself available to assist classmates whenever they needed a hand. I went out for drinks with classmates to foster relationships outside of school. In my past educational experiences I almost never participated in lectures or discussions -- I think I made solid progress in this regard during Mod 1 and look forward to improving further in this area. In the future I'd like to get involved more in the community by volunteering for Try Turing events and making myself available for pairing with Mod1 students. It seems really important to get started on the right foot and I think given how Mod1 went for me I can be a good mentor to newcomers.
 
 ### Module 1 Requirements
- * DTR memo: https://docs.google.com/document/d/1g0FtufbUbSJ_uGU-470KIT5vpdxktXC1oJUPznuX2X8/edit?usp=sharing
+ * DTR memo: https://https://goo.gl/Go7Gv9
 ------------------
 
 ## Final Review
