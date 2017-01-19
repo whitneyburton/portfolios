@@ -61,40 +61,38 @@ really understanding what was going on just as the end of Complete Me. I really 
 making Battleship because there was a fun interface and I learned new things as I needed them.
 
 
-#### Date Night
+### *Date Night*
 
 * [GitHub URL](https://github.com/TheKaterTot/binary_tree)
 * [Original Assignment]()
 
 Create a binary search tree to store movies and their scores.
 
-(evaluation comments)
 - Wasn't able to get the tree running
 
-(evaluation scores)
 
-#### Functional Expectations
+##### Functional Expectations
 
 *  1: Application is missing more than one base expectation
 
-#### Test-Driven Development
+##### Test-Driven Development
 
 *  4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 
-#### Encapsulation / Breaking Logic into Components
+##### Encapsulation / Breaking Logic into Components
 
 *  2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 
-#### Fundamental Ruby & Style
+##### Fundamental Ruby & Style
 
 *  2.5: Shows some refactoring, but could use a lot more
 
-#### Looping or Recursion
+##### Looping or Recursion
 
 *  3: Application makes effective use of loop/recursion techniques
 
-### Battleship
+### *Battleship*
 
 https://github.com/TheKaterTot/Battleship
 
@@ -105,27 +103,27 @@ colors
 Game runs
 tested the REPL
 used File IO to pull instructions from a text file w
-#### Fundamental Ruby & Style
+##### Fundamental Ruby & Style
 
 *  3: Application shows strong effort towards organization, content, and refactoring
 
-#### Enumerable & Collections
+##### Enumerable & Collections
 
 *  3: Application demonstrates comfortable use of several Enumerable techniques
 
-#### Test-Driven Development
+##### Test-Driven Development
 
 *  4: Application is broken into components which are well tested in both isolation and integration
 
-#### REPL Interface
+##### REPL Interface
 
 *  4: Application's REPL goes above and beyond expectations to improve the gameplay
 
-#### Breaking Logic into Components
+##### Breaking Logic into Components
 
 *  3: Application effectively breaks logical components apart with clear intent and usage
 
-#### Functional Expectations
+##### Functional Expectations
 
 *  4: Application meets all requirements, and implements one extension properly.
 
@@ -139,7 +137,7 @@ five years. I'm working on being a better listener so that my partner always fee
 heard and valued. I'm learning to like working in pairs as I get better at managing
 those relationships.
 
-#### Complete_Me
+### *Complete_Me*
 
 * [GitHub URL](https://github.com/valerietrudell/Complete_Me)
 
@@ -147,29 +145,27 @@ Create a program that works to autocomplete text.
 
 Nate got distracted by trying to refactor an elsif, but doesn't have any judgements to bring upon this code
 
-(evaluation scores)
-
-#### Functional Expectations
+##### Functional Expectations
 
 *  3: Application fulfills all base expectations
 
-#### Test-Driven Development
+##### Test-Driven Development
 
 *  4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
-#### Encapsulation / Breaking Logic into Components
+##### Encapsulation / Breaking Logic into Components
 
 *  4: Application is expertly divided into logical components each with a clear, single responsibility
 
-#### Fundamental Ruby & Style
+##### Fundamental Ruby & Style
 
 *  3: Application shows strong effort towards organization, content, and refactoring
 
-#### Enumerable & Collections
+##### Enumerable & Collections
 
 *  4: Application consistently makes use of the best-choice Enumerable methods
 
-#### Headcount
+### *Headcount*
 
 Assessed By: Beth Sebian
 
@@ -187,34 +183,33 @@ Evaluation Rubric
 
 The project will be assessed with the following guidelines:
 
-#### Functional Expectations
+##### Functional Expectations
 
 *  3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
 
-#### Test-Driven Development
+##### Test-Driven Development
 
 *  3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-#### Encapsulation / Breaking Logic into Components
+##### Encapsulation / Breaking Logic into Components
 
 *  3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-#### Fundamental Ruby & Style
+##### Fundamental Ruby & Style
 
 *  3: Application shows strong effort towards organization, content, and refactoring
 
-#### Enumerable & Collections
+##### Enumerable & Collections
 
 *  4: Application consistently makes use of the best-choice Enumerable methods
 
-#### Code Sanitation
+##### Code Sanitation
 
 The output from rake sanitation:all shows...
 
 *  4: Zero complaints
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Growth Mindset
