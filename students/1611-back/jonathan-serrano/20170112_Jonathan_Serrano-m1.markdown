@@ -186,8 +186,8 @@ Ken Lee
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Finish Battleship by 1/18
 
 ### Outcome
 
-PROVISIONAL
+PROMOTED
