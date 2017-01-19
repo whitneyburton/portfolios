@@ -12,11 +12,10 @@ A submission summarizes your accomplishments in these key areas:
 
 ## Authoring Process
 
-* Carefully read the `submission_guidelines.markdown` to understand how your
-portfolio should be written/submitted
-* Read a sample portfolio in `sample.markdown` in this repo
-* Copy the content of [template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown) as a starting point
-* Fill in and submit your own content.
+* Carefully read this document - README.markdown - to understand how your portfolio should be written/submitted
+* Read thru a portfolio from a student in upper mod for reference
+* Fork this repo and edit the template.markdown file in portfolios/students/your-cohort/your-name. IF the file or folder in question is missing, then copy the content of [template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown) as a starting point. 
+* Fill in and submit your own content. Submission guidelines are located at the bottom of this document
 
 ## Per-Module Expectations
 

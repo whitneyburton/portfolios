@@ -276,14 +276,17 @@ I really enjoyed the process of rebranding myself away from my former career. It
 Feedback for Franklin Crosby:
 I think we did a good job of staying on the same page, and updating each other on what was going on when we independently added functionality to our project. I think we got hung up on a couple things that maybe us some refinement in our game, but we learned a lot from it, and we made good decisions that allowed us to complete our project on time. We did really well in terms of balancing work and trading off when we were stuck. You did a great job of checking in frequently. You keep things fun even when things aren't going well. There seemed to be a couple points where you were focused on details and I wanted to pan out and look at the bigger picture. I wouldn't even say that's a bad thing, just to be mindful that there might be points when your partner needs to take stock of what's happening, and wants to evaluate need-to-haves vs want-to-haves. I had a great time working with you; I think we had a good balance and both brought things to the table. You're one of the people in class that others consistently lean toward when they need help; part of that is your comfort with the material, but even more is your attitude.
 
+Feedback for Krystin Villeneuve:
+You aren't afraid to try a bunch of things out and see what happens. You move a team along and keep things fresh with new ideas. Be mindful of the fact that you might work quickly for some. Not necessarily a bad thing, but your pace can be really fast.
+
 
 ### Being a Community Member
 
 "We had a really good balance of workload and problem solving. You are great at doing research, but be a little more fearless with the code, and don't be afraid of breaking it. It was great working with you."
 -Franklin Crosby
 
-"You maintained a positive attitude no matter how stressful things seemed to be, even when we both disagreed, even when we both felt really behind. Using GitHub to pair remotely was challenging to non-existent at first, I would have liked to do more work separately, but I know we're all more comfortable with it now than we were a couple of weeks ago. You're not easily intimidated, you stand your ground when you feel strongly about a given feature or concept. This will take you pretty far, but try not to let it cloud your longer vision on an overall project. Trust your partner a bit more, don't be afraid to implement concepts that seem abstract at first. Lastly, one of our stand-out achievements when we paired came through when we made a decision about the comp. We didn't agree, we each stated our cases, we made our decision, and we moved on to the next task without skipping a beat. When it came up, we were a united front- that was my favorite part. We handled that really well."
--Breana Knight
+"You always came with a positive attitude and a great sense of humor - I appreciate that in ANY working relationship. Remote pairing was challenging - we didn't do a whole lot of it, I would have liked to use github a lot more earlier on instead of waiting to meet up. BUT, we were all still a bit freaked out on version control at that point. You have great ideas - you see things from a creative perspective and you stick to your guns when you feel strongly about a given approach. This is always going to take you pretty far, just don't let it make you lose sight of what's important in a project in the long run. Trust your partner/team a bit more. Some ideas or concepts may seem abstract at first, and that can be really uncomfortable - embrace more of that discomfort (I bet you already are). In the pairings I've been assigned, I have learned to appreciate the small conflicts that help us move forward. I felt the way we handled ours was top notch - instead of dividing, we became a more united front. I was super impressed with us. Tension and discourse is always going to happen, we'll see WAY worse as we progress as developers. I think we're off to a great start."
+-Krystin Villeneuve
 
 ### Playing a Part
 
@@ -293,10 +296,4 @@ When I started at Turing, I was worried that I would be overwhelmed by the commu
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+PROMOTED

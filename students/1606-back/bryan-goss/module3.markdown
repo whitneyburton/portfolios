@@ -38,7 +38,7 @@ Several 1, some 3s.
 
 ### Projects
 
-I enjoyed my experiences on group projects. All four of my teammates were a pleasure to work with and I am proud of my contributions to those teams. 
+I enjoyed my experiences on group projects. All four of my teammates were a pleasure to work with and I am proud of my contributions to those teams.
 
 #### Rails Engine
 
@@ -47,7 +47,7 @@ I enjoyed my experiences on group projects. All four of my teammates were a plea
 
 Rails Engine is an ecomerce information dashboard. Brian and I worked well together and solved a problem with the test suite.
 
-Scores: 
+Scores:
 1. Completion: 4
 2. Test-Driven Development: 3
 3. Code Quality: 3
@@ -109,7 +109,7 @@ On the subject of voting, the Gear Up gave us lots to think about with respect t
 
 And finally, the conversation about how to be an introvert in a professional setting made me think about ways to accomodate an introvert without forcing them to be more extraverted. I am not sure I have solutions, but as in many cases, I'm sure asking the individual about their preferences is a good start.
 
-### Personal Project Pitch  
+### Personal Project Pitch
 ### Skillist
 
 #### Pitch
@@ -130,12 +130,12 @@ Programmers, especially those who are switching into or within the industry, nee
 
 #### Integrations
 
-I plan to use the Indeed API to find a list of job postings  
+I plan to use the Indeed API to find a list of job postings
 I plan to authenticat with Github using OAuth and as an extention, I plan to check languages that users employ and compare those choices to job postings.
 
 ### Job Search Plan
 
-My Plan for searching for jobs relies on networkin in Portland and Seattle. Since the Turing Network is less well established in that area, I will have to rely on myself more than the average grad. 
+My Plan for searching for jobs relies on networkin in Portland and Seattle. Since the Turing Network is less well established in that area, I will have to rely on myself more than the average grad.
 
 Daily: Spend at least a couple hours researching companies, individuals and jobs in the Portland or Seattle area. This will inlcude research on Linkedin, Glassdoor, Twitter and other sources.
 
@@ -149,11 +149,11 @@ https://www.turing.io/user/786
 
 ### Flower Exercise
 
-1 Favorite People to Work with: I prefer working with people who are passionate about learning and using good practices, even if it means that things move slower in the short term.  
-2 Values and goals: I value leaving the world better than I found it. My Goals include retiring and traveling.  
+1 Favorite People to Work with: I prefer working with people who are passionate about learning and using good practices, even if it means that things move slower in the short term.
+2 Values and goals: I value leaving the world better than I found it. My Goals include retiring and traveling.
 3 Preferred Places to Live: I prefer a temperate climate in an urban setting with forests near by. This lends itself to the Pacific Northwest.
 4 Preferred Pay and Level of Responsibiltiy: I feel more comfortable directing the process but not setting the final goal. I wouldn't enjoy having creative responsibilty, but I can see myself managing others in some capacity, eventually.
-5 I work best with short deadlines 
+5 I work best with short deadlines
 
 ## Review
 
@@ -165,9 +165,15 @@ https://www.turing.io/user/786
 * **D: Community Participation**: 4
 * **E: Peer & Instructor Feedback**: 3
 
+## Final Review
+
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3+
 
 ### Outcome
 
