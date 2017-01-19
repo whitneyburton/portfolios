@@ -1,8 +1,7 @@
 # Cody Borders - M1 Portfolio
 
-## Individual
 
-### Areas of Emphasis
+## Areas of Emphasis
 
 With so many unknowns at the start it was a challenge to set concrete goals for the module. I set out to develop a fundamental understanding of Ruby and improve my ability to focus on a cognitively demanding task. I also wanted to develop better organizational habits.
 
@@ -18,7 +17,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 -----------------------
 
-### A: End of Module Assessment
+## A: End of Module Assessment
 
 #### 1. Ruby Syntax & API
 
@@ -45,11 +44,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
-### B: Individual Work & Projects
+## B: Individual Work & Projects
 
 At the beginning of the module my ability to plan a project was weak which made it difficult to conceptualize the start of a project, but I've been improving by whiteboarding and hand-writing pseudocode to break things down into smaller pieces. My time management skills were lacking at first as well which led to me having to choose between completing a project to spec and making what I've written look good & function properly even if it's incomplete. Through studious observation of where/how my time is being spent and making changes to how I prioritize tasks I've improved my time management which has led to less stress and better results.
 
-#### Jungle Beats
+### Jungle Beats
 
 * https://github.com/codyborders/jungle_beat
 * https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown
@@ -65,7 +64,7 @@ However to add some additional depth, let's also use this project as a chance to
 #### Scores:
 
 
-##### Evaluation Rubric
+#### Evaluation Rubric
 
 The project will be assessed with the following rubric:
 
@@ -104,20 +103,20 @@ The project will be assessed with the following rubric:
 * 2: Application has issues with loop/recursion techniques or mixes them inappropriately
 * 1: Application struggles to loop/recurse at all
 
-#### Mastermind
+### Mastermind
 
 * https://github.com/codyborders/mastermind
 * https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/mastermind.markdown
 
 In this project you'll use Ruby to build an implementation of the classic game Mastermind.
 
-### C: Group Work & Projects
+## C: Group Work & Projects
 
-#### Projects
+### Projects
 
 Having nearly always worked by myself in previous jobs I was unsure what to expect from and how to approach group projects. For both of my projects I was paired with students whom I felt were stronger than I at conceptualizing projects from the beginning. After Headcount it dawned on me that in these kinds of situations we should be pairing driver/navigator approach from the beginning. Despite feeling behind the curve conceptually on both group projects the experiences were largely positive and beneficial to my growth as a developer. Having tenacious partners made it easy to put in long hours and keep pushing forward in the face of setbacks. In the future I want to get better at defining our goals, responsibilities, and approach from the beginning of a project.
 
-#### Enigma
+### Enigma
 
 * https://github.com/codyborders/enigma
 * https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown
@@ -154,7 +153,7 @@ In this project you'll use Ruby to build a tool for cracking an encryption algor
 
 * 1: Application logic shows poor decomposition with too much logic mashed together
 
-#### Headcount
+### Headcount
 
 * https://github.com/andrewdwooten/headcount
 * https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/headcount.markdown
