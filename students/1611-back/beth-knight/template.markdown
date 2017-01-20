@@ -304,10 +304,6 @@ I loved the grit talk. Grit is the ability to persevere through difficult tasks 
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+RETAINED
