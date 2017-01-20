@@ -393,10 +393,6 @@ First, I started creating a new posse (Hamilton) and helping organizing some act
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-PROVISIONAL
+PROMOTED
