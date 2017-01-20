@@ -6,6 +6,8 @@
 
 ## Rubric Scores
 
+Fill in how you would grade yourself from 1-4 in the following categories this module:
+
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
@@ -57,11 +59,6 @@
 (Intro)
 
 ### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 
 ### Professional Development Workshops

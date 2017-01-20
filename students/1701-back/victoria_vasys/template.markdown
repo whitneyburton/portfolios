@@ -4,7 +4,7 @@
 
 (What did you set out to accomplish this module?)
 
-## Rubric Scores
+## Rubric Score
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
@@ -59,6 +59,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 (Intro)
 
 ### Gear Up
+
+
 
 ### Professional Development Workshops
 #### (Session Name)
