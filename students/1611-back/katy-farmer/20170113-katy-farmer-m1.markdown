@@ -289,10 +289,6 @@ enjoyed supporting people in my cohort, either academically or emotionally.
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-PROVISIONAL
+PROMOTED
