@@ -386,11 +386,7 @@ LINKEDIN
 ------------------------------------------------------------------------------------------------------------
 ## Final Review ##
 
-# Notes #
-
-( Leave blanks for reviewers )
-
 # Outcome  #
 
-PROVISIONAL 
+PROMOTED
 
