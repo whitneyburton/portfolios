@@ -6,13 +6,13 @@ My goals for the mod were 3 fold
 
 1) Continue to lead Armstrong Posse and strengthen it
    * I feel I succeeded at this goal. I received very positive feedback about multiple Friday Spike sessions (particularly Python mob programming and perceptron/artifical neuron). I believe it was strengthen because mod 1 and 2 students led a very succesful spike on the AlchemyAPI by themselves. The blog portion of Mind on The Ball will also strengthen Armstrong by serving as a lasting resource past my graduation.
-   
+
 2) Build a machine learning algorithm
    * I wasn't sure if I would do this through Armstrong or the self-directed project. It ended up being a neural net built as the self-directed project. This was incredibly successful. While I feel I have just scratched the surface, Brian and I were able to impliment a working neural net in two weeks. This is made more impressive(?) due to the fact we built in Ruby, a subpar language for the type of algorithm we were building.
-   
+
 3) Lead LGBTuring
    * I did not succeed in this goal. Between the intense workload of mod 3, and dealing with my wife's health problems I let this slip. This was also in part driven by the apparent lack of interest from the community, but in mod 4 I plan to redouble my efforts. This is extremely important to me, as I need to find a younger student to take the reigns of the group.
-   
+
 While I did not meet all of my goals, I am extremely proud of what I did this mod, and believe my code backs this up.
 
 ## Rubric Scores
@@ -249,16 +249,16 @@ Mind on The Ball is an application that presents predictions based on historical
 * Which APIs will you use?
  * NFL Fantasy API
 * Which OAuth integration are you planning to use?
- * Github 
+ * Github
 
 ### Gear Up
 
 #### [Vote Your Conscience](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
   * I thought this was a very interesting session. I love history and am continually disappointed with my fellow citizen's understanding of what is expected of them in our political culture. I'm not sure how much difference this made to other students, but I was pleased to hear us talking about what citizens must do in a healthy democracy. P.S. - the electoral process is too depressing to think about right now.
-  
+
 #### [https://github.com/turingschool/gear-up/blob/master/resilience.markdown](Resilience)
   * This was an excellent session. One of the articles described kids who were "at-risk" yet succeeded due to them realizing they were their own "locus of control". This describes my life from 3rd-7th grade very well. It was enlightening to hear someone put more academic terms around my own life. It also helped me realize that the least successful points in my life were ones where I let my resilience slip.
-  
+
 #### [Introversion](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
   * This session was very interesting for me. While I can be outspoken, I identify as a introvert. At the end of the day, I find it draining to be around groups of people and most rewarding to be around 0-3 people. I enjoyed sharing this experience and hearing it echoed by my cohort-mates. I would love to see more gear up sessions where we focused on our cohort. I loved the loved getting to know those I spend the most time with better.
 
@@ -320,7 +320,11 @@ I feel I greatly contributed to the Turing community through leading Armstrong. 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 ### Outcome
 
