@@ -256,10 +256,6 @@ Grit is something that I can completely relate to. Turing is not the first "meat
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-PROVISIONAL 
+PROMOTED
