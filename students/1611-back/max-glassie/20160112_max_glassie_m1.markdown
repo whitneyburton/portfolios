@@ -356,10 +356,6 @@ Looking at the retrospectives from across the module, I feel like we did a great
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
