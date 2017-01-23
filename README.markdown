@@ -22,11 +22,11 @@ A submission summarizes your accomplishments in these key areas:
 
 ### Module 1 (Back-end)
 
-1. Fork and clone this repo (https://github.com/turingschool/portfolios)
+1. Fork and clone this repo.
 2. Follow instructions in [portfolio expectations](http://backend.turing.io/module1/portfolios/portfolio_expectations) to create your folder and file for your M1 portfolio.
 3. Copy the template code from the [M1 template markdown](http://backend.turing.io/module1/portfolios/portfolio_template) to your new file.
 4. Update placeholder text in template.
-5. Commit your changes, push to your remote repo, then create a PR to the turing/portfolios (https://github.com/turingschool/portfolios) repo.
+5. Commit your changes, push to your remote repo, then create a PR to the turing/portfolios repo.
 
 
 ### Module 1 (Front-end)
