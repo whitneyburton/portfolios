@@ -6,11 +6,11 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**: X
+*   **B: Individual Work & Projects**: X
+*   **C: Group Work & Projects**: X
+*   **D: Professional Skills**: X
+*   **E: Feedback & Community Participation**: X
 
 -----------------------
 
@@ -25,8 +25,8 @@
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+*   [GitHub URL]()
+*   [Original Assignment]()
 
 (description)
 
@@ -42,8 +42,8 @@
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+*   [GitHub URL]()
+*   [Original Assignment]()
 
 (description)
 
@@ -59,20 +59,20 @@
 ### Gear Up
 #### (Session Name)
 
-* [GitHub URL]()
+*   [GitHub URL]()
 
 (takeaways from session)
 
 ### PROtocol
 #### (Session Name)
 
-* [Link to Completed Deliverables]()
+*   [Link to Completed Deliverables]()
 
 ### Professional Development Workshops
 #### (Session Name)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+*   [Workshop URL]()
+*   [Link to Completed Deliverables]()
 
 (takeaways from session)
 
