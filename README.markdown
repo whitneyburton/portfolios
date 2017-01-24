@@ -12,31 +12,22 @@ A submission summarizes your accomplishments in these key areas:
 
 ## Authoring Process
 
-* Carefully read the `submission_guidelines.markdown` to understand how your
-portfolio should be written/submitted
-* Read a sample portfolio in `sample.markdown` in this repo
-* Copy the content of [template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown) as a starting point
-* Fill in and submit your own content.
+* Carefully read this document - README.markdown - to understand how your portfolio should be written/submitted
+* Read thru a portfolio from a student in upper mod for reference
+* Fork this repo and edit the template.markdown file in portfolios/students/your-cohort/your-name. IF the file or folder in question is missing, then copy the content of [template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown) as a starting point.
+* Fill in and submit your own content. Submission guidelines are located at the bottom of this document
+
 
 ## Per-Module Expectations
 
 ### Module 1 (Back-end)
 
-* Individual Assessment: Passing Score (All 3's) required
-* Individual Projects: All individual projects. A passing final project is required.
-* Group Projects: All paired projects
-* Professional Development:
-  * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
-  * Feedback: Paragraph; Self-solicited from project pairs
-  * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
-  * LinkedIn profile with a summary, descriptions under experience, and Turing under education
-* Community:
-  * A recap of reflections from Gear Up
-  * Summary of how you've contributed to the community
+1. Fork and clone this repo.
+2. Follow instructions in [portfolio expectations](http://backend.turing.io/module1/portfolios/portfolio_expectations) to create your folder and file for your M1 portfolio.
+3. Copy the template code from the [M1 template markdown](http://backend.turing.io/module1/portfolios/portfolio_template) to your new file.
+4. Update placeholder text in template.
+5. Commit your changes, push to your remote repo, then create a PR to the turing/portfolios repo.
 
-** To Repeat the Module **
-
-A passing Chisel project completed during the final 2 weeks of the module **OR** Satisfactory progress on the Headcount / Black Thursday final project.
 
 ### Module 1 (Front-end)
 

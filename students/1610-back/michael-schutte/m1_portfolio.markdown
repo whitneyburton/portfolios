@@ -361,7 +361,11 @@ and is always eager to help spread is knowledge.
 * 10/29/16: Communication between objects
   * Not a huge turnout on this day. Stuck around the whole time, but we were 
   essentially over-staffed. A rare situation in education!
-* 11/5/16: Lunch meeting to discuss future curriculum plans   
+* 11/5/16: Lunch meeting to discuss future curriculum plans  
+
+#### Lunch Roulette
+
+* Went to each one
 
 ------------------
 
