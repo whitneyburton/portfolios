@@ -63,9 +63,6 @@ A submission summarizes your accomplishments in these key areas:
 * Assessments: Final
 * Professional Development:
   * Copy for a personal website
-  * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Seven cold emails sent to seven different contacts from the company tracker
-  * Attend two networking events
   * Paragraph reflection on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
   * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
 * Community:
