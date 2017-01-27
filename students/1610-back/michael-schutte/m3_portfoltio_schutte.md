@@ -62,6 +62,18 @@ Constructive: Sometimes Schutte can get in the programming zone and not be as op
 ## D: Professional Skills
 
 ### Gear Up
+#### Tragedy of the Commons
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+
+Firstly, the [Parable of the Polygons](http://ncase.me/polygons/) software was an amazing application of dense academic work on top of really beautiful software.
+I think it was a great way to prime us of a more open and productive discussion on what can be a sensitive topic. No one wants to be labeled
+as a racist or sexist or whatever insert-stigmatized-label-here-ist, so I appreciate how this approach to anti-bias is made up of partially
+accepting and normalizing our inherent biases, and also recognizing that we have the power to be aware of, and ultimately change, these biases.
+I also love paradigms that are action oriented in a positive way, as opposed to negative. Put differently, asking people to do something instead of asking people to not do something.
+Giving people an actionable thing to try, such as seeking to engage with more diverse people, is a fundamentally different ask than
+'Hey, stop being racist.' Moving forward, I will not consider whether someone or an organization is open-minded or not, but whether they actively seek out different schools of thought and practice.
+
 #### (Session Name)
 
 * [GitHub URL]()
