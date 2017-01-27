@@ -72,7 +72,7 @@ Constructive: Sometimes Schutte can get in the programming zone and not be as op
 ### Professional Development Workshops
 #### Flower Exercise
 
-* [Workshop URL]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
 * [Link to Completed Deliverables](https://gist.github.com/tmikeschu/7dcbf48eba017d686c5b3bf2d3e26f1c)
 
 (takeaways from session)
