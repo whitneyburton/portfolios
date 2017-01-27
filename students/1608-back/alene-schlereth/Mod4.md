@@ -1,8 +1,10 @@
-# Alene Schlereth - Mod # Portfolio
+# Alene Schlereth - Mod 4 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+* Code Challenge/Tech Interview Practice 1x wk  
+* Support others for successful continuance of group mission (Pahlka)  
+* Get interview  
 
 ## Rubric Scores
 
@@ -27,6 +29,17 @@
 
 * [GitHub URL]()
 * [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)  
+
+#### Quantify Me
+
+* [GitHub URL]()
+* [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
 
 (description)
 
@@ -60,6 +73,12 @@
 #### (Session Name)
 
 * [GitHub URL]()
+
+(takeaways from session)
+
+#### Tradgedy of the Commons 
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
 (takeaways from session)
 
