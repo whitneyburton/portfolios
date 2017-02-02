@@ -46,15 +46,15 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | PROJ 1 (replace) | PROJ 2 (replace) | PROJECT 3 (replace) |
+| CATEGORY | Credit Check | Flashcards | PROJECT 3 (replace) |
 | - | - | - | - |
-| **Project Spec** | [link](http://example.com) | [link](http://example.com) | [link](http://example.com) |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
 | **Github** | [link](http://example.com) | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | X | X | X |
-| **Test-Driven Development** | X | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X | X |
-| **Fundamental Ruby & Style** | X | X | X |
-| **Loop or Recursion** | X | X | X |
+| **Functional Expectations** | n/a | 3 | X |
+| **Test-Driven Development** | 4 | 3 | X |
+| **Encapsulation/Breaking Logic into Components** | 4 | 3 | X |
+| **Fundamental Ruby & Style** | 4 | 3 | X |
+| **Loop or Recursion** | 4 | 3 | X |
 
 #### Notes
 
