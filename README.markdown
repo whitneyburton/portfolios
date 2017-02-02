@@ -150,7 +150,7 @@ A submission summarizes your accomplishments in these key areas:
 ### Module 4 (Front-end)
 
 * Individual Assessment
-* Required Project: Capstone Project, Imposter Syndrome, Curiously Native, Jet Fuel
+* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, Real Time & Homework Assignment
   * Should include points breakdown per project
 * Professional Development:
   * Paragraph description of top three priorities in the job search and why
