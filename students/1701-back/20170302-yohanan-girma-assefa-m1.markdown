@@ -46,15 +46,15 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | PROJ 1 (replace) | PROJ 2 (replace) | PROJECT 3 (replace) |
+| CATEGORY | Credit Check | Flash Card | PROJECT 3 (replace) |
 | - | - | - | - |
-| **Project Spec** | [link](http://example.com) | [link](http://example.com) | [link](http://example.com) |
-| **Github** | [link](http://example.com) | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | X | X | X |
-| **Test-Driven Development** | X | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X | X |
-| **Fundamental Ruby & Style** | X | X | X |
-| **Loop or Recursion** | X | X | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
+| **Github** | [link](https://github.com/yoasyo25/classwork-/blob/master/luhn_algorithm_3.rb) | [link](https://github.com/yoasyo25/Flashcards) | [link](http://example.com) |
+| **Functional Expectations** | 3 | 2 | X |
+| **Test-Driven Development** | N/A | 3 | X |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 | X |
+| **Fundamental Ruby & Style** | 3 | 3 | X |
+| **Loop or Recursion** | N/A | N/A | X |
 
 #### Notes
 
