@@ -27,16 +27,16 @@ This section does not need to be populated (and template text should therefore b
 
 ## A: End of Module Assessment
 
-| Category | Score |
-| ----- | - |
-| **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS/FAIL |
-| **Ruby Syntax & API** | X |
-| **Completion and Progress** | X |
-| **Testing** | X |
-| **Workflow** | X |
-| **Collaboration** | X |
-| **Enumerable & Collections** | X |
+| Category                      | Score |
+| -----                         | - |
+| **Written Diagnostic**        | PASS/FAIL |
+| **Timed Exercise**            | PASS/FAIL |
+| **Ruby Syntax & API**         | X |
+| **Completion and Progress**   | X |
+| **Testing**                   | X |
+| **Workflow**                  | X |
+| **Collaboration**             | X |
+| **Enumerable & Collections**  | X |
 
 #### Assessor Comments
 
@@ -46,15 +46,15 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | PROJ 1 (replace) | PROJ 2 (replace) | PROJECT 3 (replace) |
-| - | - | - | - |
-| **Project Spec** | [link](http://example.com) | [link](http://example.com) | [link](http://example.com) |
-| **Github** | [link](http://example.com) | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | X | X | X |
-| **Test-Driven Development** | X | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X | X |
-| **Fundamental Ruby & Style** | X | X | X |
-| **Loop or Recursion** | X | X | X |
+| CATEGORY | Credit Check | Complete Me | PROJECT 3 (replace) |
+| -        | -                | -                | - |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/complete_me) | [link](http://example.com) |
+| **Github** | [link](https://github.com/samlandfried/credit_check) | [link](https://github.com/samlandfried/complete_me) | [link](http://example.com) |
+| **Functional Expectations** | 4 | 4 | X |
+| **Test-Driven Development** | na | 3 | X |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 | X |
+| **Fundamental Ruby & Style** | 4 | 3 | X |
+| **Loop or Recursion** | na | 3 | X |
 
 #### Notes
 
