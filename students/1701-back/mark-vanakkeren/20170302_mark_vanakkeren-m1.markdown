@@ -2,9 +2,146 @@
 # Mark Van Akkeren - M1 Portfolio
 
 ## Areas of Emphasis
+
+Okie dokie... on to round two.  Writing this at the end of week two.  Different approach this time.  
+
 I arrived here looking at gaining a skill to then leverage along with my other skills I've acquired in my various and multifaceted careers.  That someone with such a diverse career background with also a developer skill set would be a valuable asset in the work force.  I had attended the July Try Turing class which was the convincing factor for attending (and friends saying "you'd be good at this" <-- i feel like i'm doubting them now ;), but i was "scared" of javascript and signed up for a night class at Galvanize.  It helped with warming me up a bit to coding and getting more comfortable with JS. The thing I've been repeating since day one has been "just get the skillset, just get the skillset" <-- in "just keep swimming" Dory voice.
 
-## Rubric Scores
+Work immediately below is Mod_1-1701.  For Mod_1-1611 scroll down to **"Rubric Scores - Mod_1-1611"**
+
+## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Section | Category | Score |
+| - | ----- | - |
+| A | **End-of-Module Assessment** | X |
+| B | **Individual Projects** | X |
+| C | **Group Projects** | X |
+| D | **Professional Development** | X |
+| E | **Community** | X |
+
+#### Notes
+
+This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+
+*   Note 1 (if applicable)
+*   Note 2 (if applicable)
+
+------------------------------------------------
+
+## A: End of Module Assessment
+
+| Category | Score |
+| ----- | - |
+| **Written Diagnostic** | PASS/FAIL |
+| **Timed Exercise** | PASS/FAIL |
+| **Ruby Syntax & API** | X |
+| **Completion and Progress** | X |
+| **Testing** | X |
+| **Workflow** | X |
+| **Collaboration** | X |
+| **Enumerable & Collections** | X |
+
+#### Assessor Comments
+
+*   Note 1 (if applicable)
+*   Note 2 (if applicable)
+
+
+## B: Individual Projects
+
+| CATEGORY | Credit Check | Date Night | Http - You know me |
+| - | - | - | - |
+| **Project Spec** | [link](http://http://backend.turing.io/module1/projects/credit_check) | [link](http://http://backend.turing.io/module1/projects/date_night) | [link](http://http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Github** | [link](https://github.com/markyv18/credit_check/blob/master/credit_check.rb) | [link](https://github.com/markyv18/date_night) | [link](http://example.com) |
+| **Functional Expectations** | 3 | 2.5 | X |
+| **Test-Driven Development** | n/a | 4 | X |
+| **Encapsulation/Breaking Logic into Components** | 3 | 2 | X |
+| **Fundamental Ruby & Style** | 2 | 3 | X |
+| **Loop or Recursion** | n/a | n/a | X |
+
+#### Notes
+
+This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+
+*   Note 1 (if applicable)
+*   Note 2 (if applicable)
+
+
+## C: Group Projects
+
+| CATEGORY | PROJECT 1 | PROJECT 2 |
+| - | - | - | - |
+| **Project Spec** | [link](http://example.com) | [link](http://example.com) |
+| **Github** | [link](http://example.com) | [link](http://example.com) |
+| **Functional Expectations** | X | X |
+| **Test-Driven Development** | X | X |
+| **Encapsulation/Breaking Logic into Components** | X | X |
+| **Fundamental Ruby & Style** | X | X |
+| **Loop or Recursion** | X | X |
+| **Teamwork** | X | X |
+
+#### Notes
+
+This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+
+*   Note 1 (if applicable)
+*   Note 2 (if applicable)
+
+
+## D: Professional Development
+
+### Define-the-Relationship (DTR)
+
+[Link](http://example.com) to DTR Memo from 1 paired project.
+
+### Pair Feedback
+
+Feedback from partner projects.
+
+*   Project 1 (First Last): lorem ipsum
+*   Project 2 (First Last): lorem ipsum
+
+### Job Prep
+
+*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](http://example.com)
+*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](http://example.com)
+
+
+
+## E: Community
+
+### Gear Up
+
+#### Session 1
+(insert reflection summary here)
+
+#### Session 2
+(insert reflection summary here)
+
+#### Session 3
+(insert reflection summary here)
+
+#### Session 4
+(insert reflection summary here)
+
+### Community Participation
+(insert description of how you've contributed to the Turing community)
+
+-------------------------------------------------------------
+
+## Final Review
+
+*   Note 1
+*   Note 2
+
+### Outcome
+
+(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+-----------------------------------------------------------
+
+## Rubric Scores - Mod_1-1611
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
