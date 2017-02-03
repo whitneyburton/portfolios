@@ -49,7 +49,7 @@ This section does not need to be populated (and template text should therefore b
 | CATEGORY | Credit Check | Date Night | PROJECT 3 (replace) |
 | - | - | - | - |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://example.com) |
-| **Github** | [link](https://github.com/glassjoseph/projects) | [link](https://github.com/glassjoseph/date_night) | [link](http://example.com) |
+| **Github** | [link](https://github.com/glassjoseph/credit_check) | [link](https://github.com/glassjoseph/date_night) | [link](http://example.com) |
 | **Functional Expectations** | 4 | 3 | X |
 | **Test-Driven Development** | n/a | 4 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 | X |
