@@ -66,15 +66,15 @@ This section does not need to be populated (and template text should therefore b
 
 ## C: Group Projects
 
-| CATEGORY | PROJECT 1 | PROJECT 2 |
+| CATEGORY | Night Writer | PROJECT 2 |
 | - | - | - | - |
-| **Project Spec** | [link](http://example.com) | [link](http://example.com) |
-| **Github** | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | X | X |
-| **Test-Driven Development** | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X |
-| **Fundamental Ruby & Style** | X | X |
-| **Loop or Recursion** | X | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://example.com) |
+| **Github** | [link](https://github.com/josh-works/night_writer) | [link](http://example.com) |
+| **Functional Expectations** | 2 | X |
+| **Test-Driven Development** | 3 | X |
+| **Encapsulation/Breaking Logic into Components** | 3 | X |
+| **Fundamental Ruby & Style** | 3 | X |
+| **Loop or Recursion** | N/A | X |
 | **Teamwork** | X | X |
 
 #### Notes
@@ -89,7 +89,7 @@ This section does not need to be populated (and template text should therefore b
 
 ### Define-the-Relationship (DTR)
 
-[Link](http://example.com) to DTR Memo from 1 paired project.
+[Night Writer DTR ](https://docs.google.com/document/d/1wdLkKnqhbDR7-tn0veq9xZat20eQGFhp9QDvTZFfPTI/edit#): DTR Memo from Night Writer project with Seth Mo.
 
 ### Pair Feedback
 
