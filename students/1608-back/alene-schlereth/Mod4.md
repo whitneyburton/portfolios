@@ -83,7 +83,10 @@
 (takeaways from session)
 
 
-### Professional Development Workshops
+### Professional Development Workshops  
+
+[Networking Documentation](https://docs.google.com/document/d/1V3JIS9z-Ceczbgb5JkUSzqXxQeB_mN_sHaSVmjM1YNI/edit?usp=sharing)  
+
 #### (Session Name)
 
 * [Workshop URL]()
