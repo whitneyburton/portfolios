@@ -1,4 +1,3 @@
-# Josh Thompson - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -95,7 +94,7 @@ This section does not need to be populated (and template text should therefore b
 
 Feedback from partner projects.
 
-*   Project 1 (First Last): lorem ipsum
+*   Project 1 (Seth Mo): [Notes here](https://gist.github.com/josh-works/689944269533ba6f8a547df6d90dc897)
 *   Project 2 (First Last): lorem ipsum
 
 ### Job Prep
