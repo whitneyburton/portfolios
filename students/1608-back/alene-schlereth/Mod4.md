@@ -80,7 +80,13 @@
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-(takeaways from session)
+I really liked the triangle/square exercise. There was someone in my group who disagreed with the idea of affirmative action, we had a nice respectful conversation. It was great to explore action steps from another point of view.
+
+#### Automation and the Future 
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
+Automation is likely inevitable. It was interesting to hear how different people thought about what it means for the future. There were a couple folks in my group/room who were fairly outspoken about a couple set ideas, which hindered conversation a bit. 
 
 
 ### Professional Development Workshops  
