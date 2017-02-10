@@ -25,6 +25,14 @@ I will also keep networking and opportunity-finding top of mind and front-loaded
 
 (Intro)
 
+#### Pivotal Tracker Gem (Apicurious)
+
+* [GitHub URL](https://github.com/jasonnoble/pivotal-tracker)
+* [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
+
+Lucy Conklin, Kyle Heppenstall, Annie Wolff, and I got the chance to contribute to a gem that wraps queries to the Pivotal Tracker API in Ruby methods.
+While we did not spend as much time hitting API's as I'm sure everyone else in the cohort did for Apicurious, I am very pleased with how much I learned about constructing a gem and more advanced Git workflow.
+
 #### project name
 
 * [GitHub URL]()
@@ -74,6 +82,17 @@ I also love paradigms that are action oriented in a positive way, as opposed to 
 Giving people an actionable thing to try, such as seeking to engage with more diverse people, is a fundamentally different ask than
 'Hey, stop being racist.' Moving forward, I will not consider whether someone or an organization is open-minded or not, but whether they actively seek out different schools of thought and practice.
 
+#### Automation
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
+This was a very sobering topic to engage with. In a relatively short amount of time, humans have decidedly figured out how to survive.
+Accordingly, work needs a fundamental change in perspective. We don't have to figure out how to live anymore, we need to figure out how to live a life worth living.
+Perhaps complete automation will eventually allow people to stop freaking out about material gain. Then we can learn how to be mindful and still and then maybe actually transcend or progress as a species.
+We might have fancy gadgets, but our behavior in the most abstract sense is no different than any other species.
+
+I am very happy this was a gear up session. Nate did a great job emphasizing that this consideration is essential for us to keep top of mind as we advance in our careers.
+
 #### (Session Name)
 
 * [GitHub URL]()
@@ -88,6 +107,17 @@ Giving people an actionable thing to try, such as seeking to engage with more di
 * [Link to Completed Deliverables](https://gist.github.com/tmikeschu/7dcbf48eba017d686c5b3bf2d3e26f1c)
 
 (takeaways from session)
+
+#### Organize Your Shit
+
+* [Workshop URL](http://backend.turing.io/professional_development/module_four/organize_your_shit)
+* [Github](https://github.com/tmikeschu)
+* [LinkedIn](https://www.linkedin.com/in/tmikeschu)
+* [Stack Overflow](http://stackoverflow.com/users/7497708/mike-schutte)
+* [Twitter](https://twitter.com/tmikeschu)
+
+This session was much needed. I think some of the professional development has a vibe of frivolity and that we won't have to work that hard to make things happen.
+Jeff was very real with us and did a great job balancing the realities of what we need to do (downer) with the joys that will come from the discipline we put forth (upper).
 
 #### (Session Name)
 
@@ -104,14 +134,24 @@ To Drew Palazzari: Working with you was both highly productive, and highly enjoy
 For future improvement, I recommend gaining more command of your work flow tools, especially the text editor. It’s a minor thing, but there were a couple times where you made moves to implement an idea, and a laggy mouse drag or selection caused you to forget what your original goal was.
 I am incredibly proud of our project, and I firmly believe it was taken to the next level by your fastidious code reviews and high quality Ruby style. Best of luck on future projects!
 
+To Lucy Conklin: Lucy is an absolute positive influence on our cohort. She brings an air of maturity, respect, and excitement like no one else. She contributes considerably to the overall mood of our cohort, which is generally congenial and supportive. This all comes along with her top notch technical skills. She is a thorough problem solver, and innovative thinker. I am happy for anyone who gets to work with her in the future.
+
 ### Being a Community Member
 
-(feedback to me)
+From Kenia Farias: I think today's spike was super helpful. I was able to successfully set up a bullet journal and I'm really excited to get more organized. I think this is a great way for Turing students to organize their day to day work/lives wich really helps with time management. Thanks for taking the time to go through the bullet journal!
+
+From Staci Williams: Great Spike today Mike! I am really excited to use my new journal and stop trying to use ten different things to stay organized. Thank you for taking the time to give a spike and give us some of your knowledge. Much appreciated!
+
+From Gabi Procell: I have the worst time with finding effective methods to organize my schedule. Thank you, Schutte, for presenting a Spike session on Bullet Journaling. I felt that this is a productivity method that I will be able to maintain, and it was even easier to get started by having someone guide me through the concept.
+
+From Ken Lee: Hey Mike, thanks for the Time Management/Bullet Journal spike today. I will try out this new technique to keep up the positive feedback from checking off things on my list.
 
 ### Playing a Part
 
-* Served as Student Advisory Board representative
-* Delivered a lightning talk to motivate Turing community members to think about how their backgrounds can influence how they make quality software.
+* Served as Student Advisory Board representative.
+* Delivered a lightning talk to motivate Turing community members to think about how their backgrounds can influence how they make [quality software](https://docs.google.com/presentation/d/1e6vKMp3OeroUAIOau76Jc6030lTgTJ_icIaaVLwr7vc/edit#slide=id.p).
+* Served as TA for the back-end Try Turing day.
+* Led a Friday Spike about time management using the [Bullet Journal](https://gist.github.com/tmikeschu/01bb409b8f51bc59c95ef14cab45af30) technique.
 
 ------------------
 
