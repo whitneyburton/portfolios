@@ -42,6 +42,55 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 (Intro)
 
+
+#### Bike Share
+
+* [GitHub URL](https://github.com/meyerhoferc/bike-share)
+* [Original Assignment](https://github.com/turingschool/bike-share)
+
+(description)
+
+#### Evaluation Notes
+
+Code organization and where logic lives:
+* there were opportunities to pull logic out of the controller
+  * fat model, skinny controller paradigm
+  * making a class that would return us the object we want after parsing through params
+
+Collaboartion and Workflow:
+* Making cards into a user story
+* using integration with waffle & issue numbers in branch names
+* opportunities to have code reviews in pull requests
+  * it's a place to discuss the code
+  * have more clearly defined GitHub expectations
+
+#### 1. Functional Expectations
+
+* 3: Application fulfills base expectations
+
+#### 2. ActiveRecord
+
+* 4: Appropriate ActiveRecord methods are used to query the database and live in the appropriate model. No Ruby is used to organize data after database queries.
+
+#### 3. User Experience and Conventions
+
+* 3.5: Project still uses appropriate routes and HTTP verbs. User experience is pleasant, but may need additional improvement before truly being ready to be deployed to production for a client.
+
+#### 4. Code Organization/Quality
+
+* 3.5: Some logic not related specifically to HTTP requests/resesponses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns. Limited logic may leak into the views.
+
+#### 5. Testing
+
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+#### 6. Working Collaboratively
+
+* 4: Excellent use of branches, pull requests, and a project management tool.
+
+
+(feedback to me)
+
 #### (Project Name)
 
 * [GitHub URL]()
