@@ -157,7 +157,8 @@ A submission summarizes your accomplishments in these key areas:
 * Community:
   * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
- Complete 2 of the following:
+  
+ Complete and document 2 of the following:
   * Lead or co-lead a Friday Spike
   * Deliver any session at a meetup or conference
   * Pair three or more times with students in lower modules
@@ -175,7 +176,8 @@ A submission summarizes your accomplishments in these key areas:
 * Community:
   * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
- Complete 2 of the following:
+  
+ Complete and document 2 of the following:
   * Lead or co-lead a Friday Spike
   * Deliver any session at a meetup or conference
   * Pair three or more times with students in lower modules
