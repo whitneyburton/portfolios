@@ -57,7 +57,7 @@ A submission summarizes your accomplishments in these key areas:
   * how has your posse experience helped you grow as a professional?
 * Non evaluated projects: Rails Mini Project, Mix Master
   * Include what you learned/took away from the project.
-* Evaluated projects: Little Shop, Job Tracker
+* Evaluated projects: Little Shop, Bike Share
 * Assessments: Final
 * Professional Development:
   * Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
