@@ -95,7 +95,9 @@ Night Writer notes from Beth
 
 Feedback from partner projects.
 
-*   Night Writer (Natalie Barron): lorem ipsum
+*   Night Writer (Natalie Barron): 
+Sam, you have a really good understanding of ruby. You are great at explaining things that are unclear or walking me through a process. You have strong project planning skills and the effort we put into preplanning the entire project was really beneficial.  Communication was great. The biggest challenge we faced in this project was the disparity between our levels of ruby. As we discussed in our retro, when working with someone who has less ruby experience, adjust your work pace and process so collaboration can be more inclusive. Also take into account the time commitment necessary for someone who isn’t at the same ruby level because it may take them longer to work their way to a solution. That said, I appreciate the effort you made to adjust to my level of understanding and taking time to clarify ruby concepts. Thank you for the work that you did and your commitment to working together to complete the project. 
+
 *   Project 2 (First Last): lorem ipsum
 
 ### Job Prep
