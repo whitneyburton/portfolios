@@ -9,7 +9,7 @@
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | X |
 | B | **Individual Projects** | X |
 | C | **Group Projects** | X |
@@ -28,7 +28,7 @@ This section does not need to be populated (and template text should therefore b
 ## A: End of Module Assessment
 
 | Category | Score |
-| ----- | - |
+| ----- | --- |
 | **Written Diagnostic** | PASS/FAIL |
 | **Timed Exercise** | PASS/FAIL |
 | **Ruby Syntax & API** | X |
@@ -47,7 +47,7 @@ This section does not need to be populated (and template text should therefore b
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Complete Me | PROJECT 3 (replace) |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/complete_me) | [link](http://example.com) |
 | **Github** | [link](https://github.com/dannyradden/credit_check) | [link](https://github.com/dannyradden/complete_me) | [link](http://example.com) |
 | **Functional Expectations** | 4 | 3 | X |
@@ -66,16 +66,15 @@ This section does not need to be populated (and template text should therefore b
 
 ## C: Group Projects
 
-| CATEGORY | PROJECT 1 | PROJECT 2 |
-| - | - | - | - |
-| **Project Spec** | [link](http://example.com) | [link](http://example.com) |
-| **Github** | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | X | X |
-| **Test-Driven Development** | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X |
-| **Fundamental Ruby & Style** | X | X |
-| **Loop or Recursion** | X | X |
-| **Teamwork** | X | X |
+| CATEGORY | Night Writer | PROJECT 2 |
+| --- | --- | --- | --- |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://example.com) |
+| **Github** | [link](https://github.com/markyv18/night_writer) | [link](http://example.com) |
+| **Functional Expectations** | 4 | X |
+| **Test-Driven Development** | 3 | X |
+| **Encapsulation/Breaking Logic into Components** | 3 | X |
+| **Fundamental Ruby & Style** | 4 | X |
+| **Loop or Recursion** | n/a | X |
 
 #### Notes
 
@@ -95,12 +94,16 @@ This section does not need to be populated (and template text should therefore b
 
 Feedback from partner projects.
 
-*   Project 1 (First Last): lorem ipsum
+*   Project 1 (Mark Van Akkeren):
+      Feedback for Mark:
+        You were a great partner to work with. I loved the overall flexibility and enthusiasm with working on the project. You had a good grasp on what we had to do and what the assessors were expecting from us. I think we both should have done a better job with TDD. We should have done more TDD from the beginning. Also, you made David Hasselhoff too skinny. You need to work on you ASCII conversion skills. Overall our communication was great between us and i liked your willingness to improve as well.
+      Feedback from Mark:
+        This went pretty smooth.  It would be interesting to work together again on a harder project, maybe at that point some difficulties or struggles might get sussed out but when the work is well within our current aptitudes there isn't a whole lot of flailing.  I was massively impressed with your familiarity in calling concise methods point by point when modifying data.  I'll take a lot away from that.  When you wanted to refactor my code you took the time to walk me thru it and help me with a better understanding of the process.  There ain't no shit here... because we finished so quickly, and refactored quickly you then were taking the time to help others out.  Only positive vibes.
+
 *   Project 2 (First Last): lorem ipsum
 
 ### Job Prep
 
-*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](http://example.com)
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](http://example.com)
 
 
@@ -109,13 +112,13 @@ Feedback from partner projects.
 
 ### Gear Up
 
-#### Session 1
+#### Session 1: Growth Mindset
 (insert reflection summary here)
 
-#### Session 2
+#### Session 2: Getting Better at Difficult Things
 (insert reflection summary here)
 
-#### Session 3
+#### Session 3: Stress Management
 (insert reflection summary here)
 
 #### Session 4
