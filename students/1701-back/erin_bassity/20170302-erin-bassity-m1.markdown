@@ -66,16 +66,15 @@ This section does not need to be populated (and template text should therefore b
 
 ## C: Group Projects
 
-| CATEGORY | PROJECT 1 | PROJECT 2 |
+| CATEGORY | Night Writer | PROJECT 2 |
 | - | - | - | - |
-| **Project Spec** | [link](http://example.com) | [link](http://example.com) |
-| **Github** | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | X | X |
-| **Test-Driven Development** | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X |
-| **Fundamental Ruby & Style** | X | X |
-| **Loop or Recursion** | X | X |
-| **Teamwork** | X | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://example.com) |
+| **Github** | [link](https://github.com/BethKnight1234/knight_rider) | [link](http://example.com) |
+| **Functional Expectations** | 2 | X |
+| **Test-Driven Development** | 4 | X |
+| **Encapsulation/Breaking Logic into Components** | 3 | X |
+| **Fundamental Ruby & Style** | 2 | X |
+| **Loop or Recursion** | N/A | X |
 
 #### Notes
 
@@ -89,13 +88,28 @@ This section does not need to be populated (and template text should therefore b
 
 ### Define-the-Relationship (DTR)
 
-[Link](http://example.com) to DTR Memo from 1 paired project.
+[Link](https://docs.google.com/document/d/1tdrWsprsmeAv7L9cOxiCTnOf4gziiY_Okv877XL5ri8/edit?usp=sharing) DTR Memo from 1 paired project.
 
 ### Pair Feedback
 
 Feedback from partner projects.
 
-*   Project 1 (First Last): lorem ipsum
+*   Project 1 (Beth Knight):
+
+Dear Erin,
+
+Here is why you are amazing…
+
+  You came in on the weekend to work with me.
+
+  Our communication was completely open. I never felt like we butted heads. Instead, you listen and gave feedback like a champ.
+
+  When we got stuck, you reached out to people. The file.io was incredibly hard and you took it on. I think you acknowledge where you are not clear and seek help.
+
+Here is what you need to work on….
+
+  Writing more code. I feel like I stole your learning by taking over most of night_writer.rb.
+
 *   Project 2 (First Last): lorem ipsum
 
 ### Job Prep
@@ -110,13 +124,13 @@ Feedback from partner projects.
 ### Gear Up
 
 #### Session 1
-(insert reflection summary here)
+Gear Up - Growth Mindset [Link](https://gist.github.com/somedayrainbows/b5f3c4c95e28d92437553052ec112efc)
 
 #### Session 2
-(insert reflection summary here)
+Getting better at doing difficult things [Link]https://gist.github.com/somedayrainbows/b9de84fab16d410208cc3fde6b2f452c
 
 #### Session 3
-(insert reflection summary here)
+Managing Stress [Link]https://gist.github.com/somedayrainbows/5f768e389acc6fb5e00d3f12de26c0ec
 
 #### Session 4
 (insert reflection summary here)
