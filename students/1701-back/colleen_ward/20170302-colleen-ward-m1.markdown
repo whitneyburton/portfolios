@@ -108,13 +108,13 @@ Feedback from partner projects.
 ### Gear Up
 
 #### Session 1
-I really enjoyed the Gear Up session on growth mindset. I had never heard of growth/fixed mindset and it immediately made an impact on me. Having a growth mindset is essential to attending Turing and learning new things in general. If you have a fixed mindset, then you don’t think you can learn new things. Learning about growth mindset and thinking about past experiences and what held me back from having a growth mindset, really made me think about ways I can avoid that while attending Turing, including focusing on small successes I have made, talking to others that may also be “stuck” on a project or asking questions when I don’t understand something.
+Growth Mindset [Link](https://gist.github.com/caward12/ad8a99746493cb271084acdf3d771d36)
 
 #### Session 2
-The Gear Up session on getting better at difficult things introduced me to another new concept - cognitive load. I found it very fascinating about how increased cognitive load can impact your ability to handle stress and learning new things. I also really liked the idea that Kathy Sierra presented about the three things that take up cognitive resources- the things we can’t do but need to learn, things we can do, but with effort, and then the things we have “mastered” and don’t need to think about much. Her ideas on how to reduce cognitive resources and move things from a to c, really helped me think of the things we have been learning in new ways and how I can approach new learnings.
+Getting Better at Difficult Things [Link](https://gist.github.com/caward12/906d93ae015a21fe3efc95358e3cef7e)
 
 #### Session 3
-The Gear Up session on managing stress could not have come at a better time for me. I was starting to really feel stressed with just finishing up our first pair project, the mid mod diagnostic coming up and the HTTP project just assigned that I really had no idea where to start on. It gave me the space to really think about ways that help me de-stress and remind myself to try and do those things when I start to feel overwhelmed. They asked us to write down an action plan of sorts so that when we identify that we are stressed, we can do some of those things to “off ramp” before we get to a level 10 stress. I even did some of them the following weekend and that helped a lot! 
+Managing Stress [Link](https://gist.github.com/caward12/b7d24a91a40237c39d6493547d9ab300)
 
 #### Session 4
 (insert reflection summary here)
