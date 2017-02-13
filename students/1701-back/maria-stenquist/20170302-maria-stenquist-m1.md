@@ -9,7 +9,7 @@
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | X |
 | B | **Individual Projects** | X |
 | C | **Group Projects** | X |
@@ -28,7 +28,7 @@ This section does not need to be populated (and template text should therefore b
 ## A: End of Module Assessment
 
 | Category | Score |
-| ----- | - |
+| ---- | --- |
 | **Written Diagnostic** | PASS/FAIL |
 | **Timed Exercise** | PASS/FAIL |
 | **Ruby Syntax & API** | X |
@@ -45,9 +45,9 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Flashcards | PROJECT 3 (replace) |
-| - | - | - | - |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
+| CATEGORY | Credit Check | Flashcards | HTTP |
+| --- | --- | --- | --- |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/mariastenquist/projects) | [link](https://github.com/mariastenquist/flashcards) | [link](http://example.com) |
 | **Functional Expectations** | 3 | 3 | X |
 | **Test-Driven Development** | N/A | 3 | X |
@@ -65,16 +65,16 @@ This section does not need to be populated (and template text should therefore b
 
 ## C: Group Projects
 
-| CATEGORY | Night Writer | | | Proj 4 | Proj 5
-| - | - | - | - |
-| **Project Spec** | [link](http://example.com) | [link](http://example.com) |
-| **Github** | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | X | X |
-| **Test-Driven Development** | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X |
-| **Fundamental Ruby & Style** | X | X |
-| **Loop or Recursion** | X | X |
-| **Teamwork** | X | X |
+| CATEGORY | Night Writer | Proj 4 | Proj 5
+| --- | --- | --- | --- |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://example.com) |
+| **Github** | [link](https://github.com/mariastenquist/night_writer) | [link](http://example.com) |
+| **Functional Expectations** | 3 | X |
+| **Test-Driven Development** | 3 | X |
+| **Encapsulation/Breaking Logic into Components** | 3 | X |
+| **Fundamental Ruby & Style** | 3 | X |
+| **Loop or Recursion** | N/A | X |
+
 
 #### Notes
 
@@ -94,7 +94,7 @@ This section does not need to be populated (and template text should therefore b
 
 Feedback from partner projects.
 
-*   Project 1 (First Last): lorem ipsum
+*   Project 1 (Craig Ness): 
 *   Project 2 (First Last): lorem ipsum
 
 ### Job Prep
