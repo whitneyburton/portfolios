@@ -9,7 +9,7 @@
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | X |
 | B | **Individual Projects** | X |
 | C | **Group Projects** | X |
@@ -28,7 +28,7 @@ This section does not need to be populated (and template text should therefore b
 ## A: End of Module Assessment
 
 | Category | Score |
-| ----- | - |
+| ----- | --- |
 | **Written Diagnostic** | PASS/FAIL |
 | **Timed Exercise** | PASS/FAIL |
 | **Ruby Syntax & API** | X |
@@ -40,9 +40,27 @@ This section does not need to be populated (and template text should therefore b
 
 #### Assessor Comments
 
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+* Note 1 (if applicable)
+* Note 2 (if applicable)
 
+## Mid-Module Assessment
+
+| Category | Score |
+| ----- | --- |
+| **Functional Expectationss** | 3 |
+| **Ruby Style** | 3 |
+| **Testing** | 4 |
+| **Workflow** | 4 |
+| **Collaboration** | 3 |
+
+#### Assessor Comments: Beth Sebian
+
+* Swift setup of first iteration
+* Close running of tests and reading error messages effectively
+* Should get in habit of creating new files for every new class
+* Unnecessary use of `return` and `split(' ')`
+* Line up class names, test names, and file names
+* Initial test setup for add_case a little wonky, but got there eventually
 
 ## B: Individual Projects
 
@@ -136,7 +154,7 @@ One of the most stressful times for me occurred when one of my clients at Cipher
 
 During that time period, I'd work without breaks for long periods of time, order expensive, unhealthy delivery Thai food to my NYC apartment door, try to watch a couple of episodes of TV, and cutback on "non-essential" day-to-day tasks (mostly ones relating to self care). I didn't take enough breaks, didn't exercise, and isolated myself from friends and family. I also have a bad habit when I'm stressed of picking at my face... which causes acne... Anyway, it's all a mess.
 
-During Turing, I've been way more mindful of stress and how I handle it. I'll stop myself from working too late, and it *always* pays off for me. I have been making sure to craft a routine that I'm comfortable sticking with even in times of stress, and always prioritize what is going to make me happy, because I learned the hard way that not taking care of yourself as a shortcut usually backfires and makes me less effective/productive. I also learned some other really good coping mechanisms and healthy strategies from others. I've participated in meditations with classmates, and know everyone knows I love taking walks on my breaks. I'm definitely going to look into other strategies, like a craft or activity I can work on in my spare time, like knitting or drawing, etc. 
+During Turing, I've been way more mindful of stress and how I handle it. I'll stop myself from working too late, and it *always* pays off for me. I have been making sure to craft a routine that I'm comfortable sticking with even in times of stress, and always prioritize what is going to make me happy, because I learned the hard way that not taking care of yourself as a shortcut usually backfires and makes me less effective/productive. I also learned some other really good coping mechanisms and healthy strategies from others. I've participated in meditations with classmates, and know everyone knows I love taking walks on my breaks. I'm definitely going to look into other strategies, like a craft or activity I can work on in my spare time, like knitting or drawing, etc.
 
 #### Session 4
 (insert reflection summary here)
