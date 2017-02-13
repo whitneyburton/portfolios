@@ -43,8 +43,6 @@ A submission summarizes your accomplishments in these key areas:
  * Idea Box
 * Professional Development:
   * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
-  * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
-  * LinkedIn profile with a summary, descriptions under experience, and Turing under education
   * Feedback: Paragraph; Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
 * Community:
   * A recap of reflections from Gear Up
@@ -62,9 +60,16 @@ A submission summarizes your accomplishments in these key areas:
 * Evaluated projects: Bike Share, Little Shop, Job Tracker
 * Assessments: Final
 * Professional Development:
-  * Copy for a personal website
-  * Paragraph reflection on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
+  * Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
   * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
+   * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
+    * Transferable Skills
+    * Favorite/Most Valued Knowledge
+    * Favorite working conditions
+    * Favorite people to work with/serve
+    * Values/Goals/Mission in life
+    * Preferred places to live
+    * Preferred salary and level of responsibility
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -76,12 +81,16 @@ A submission summarizes your accomplishments in these key areas:
 * Included Projects:
  * Weatherly
 * Professional Development:
-  * Copy for a personal website
-  * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Seven cold emails sent to seven different contacts from the company tracker
-  * Attend two networking events
-  * Paragraph reflection on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
+  * Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
   * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
+  * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
+    * Transferable Skills
+    * Favorite/Most Valued Knowledge
+    * Favorite working conditions
+    * Favorite people to work with/serve
+    * Values/Goals/Mission in life
+    * Preferred places to live
+    * Preferred salary and level of responsibility
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -106,7 +115,9 @@ A submission summarizes your accomplishments in these key areas:
     * Values/Goals/Mission in life
     * Preferred places to live
     * Preferred salary and level of responsibility
-  * Three mock interviews
+  * Job search action plan for M4
+  * Link to Trello board
+  * Reflection of how to be successful in interviews
 * Community:
   * A recap of reflections from Gear Up
 
@@ -127,7 +138,9 @@ A submission summarizes your accomplishments in these key areas:
     * Values/Goals/Mission in life
     * Preferred places to live
     * Preferred salary and level of responsibility
-  * Three mock interviews
+  * Job search action plan for M4
+  * Link to Trello board
+  * Reflection of how to be successful in interviews
 * Community:
   * A recap of reflections from Gear Up
 
@@ -138,14 +151,17 @@ A submission summarizes your accomplishments in these key areas:
   * Should include points breakdown per project
 * Link to your PR for opensource contributions
 * Professional Development:
-  * Paragraph description of top three priorities in the job search and why
-  * 1-2 paragraph action plan for how to overcome perceived barriers to the job search
-  * Six cold outreach emails sent
-  * At least one Blog Post with at least a paragraph of peer review - Open-Source or Technical
-* The Plan
+  * Synopsis of six cold outreach emails sent. [Use these guidelines for your synopsis](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md)
+  * The Plan (action plan for job search)
+  * Documentation of participation in actual interview or practice interview
 * Community:
+  * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
-* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+ Complete 2 of the following:
+  * Lead or co-lead a Friday Spike
+  * Deliver any session at a meetup or conference
+  * Pair three or more times with students in lower modules
+  * Contribute in a meaningful way to project of a student/team not in your module
 
 ### Module 4 (Front-end)
 
@@ -153,12 +169,17 @@ A submission summarizes your accomplishments in these key areas:
 * Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, Real Time & Homework Assignment
   * Should include points breakdown per project
 * Professional Development:
-  * Paragraph description of top three priorities in the job search and why
-  * 1-2 paragraph action plan for how to overcome perceived barriers to the job search
-  * Six cold outreach emails sent
+  * Synopsis of six cold outreach emails sent. [Use these guidelines for your synopsis](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md)
+  * The Plan (action plan for job search)
+  * Documentation of participation in actual interview or practice interview
 * Community:
+  * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
-* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+ Complete 2 of the following:
+  * Lead or co-lead a Friday Spike
+  * Deliver any session at a meetup or conference
+  * Pair three or more times with students in lower modules
+  * Contribute in a meaningful way to project of a student/team not in your module
 
 ## Submission Guidelines
 
