@@ -129,7 +129,7 @@ Stress. this session we talked about the triggers of stress, as well as the resp
 (insert reflection summary here)
 
 ### Community Participation
-Particiapted in the Turing Lab Posse, and was invited to present my side project during a spike. 
+Participated in the Turing Lab Posse, and was invited to present my side project during a spike. 
 
 -------------------------------------------------------------
 
