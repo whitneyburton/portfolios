@@ -94,6 +94,7 @@ This section does not need to be populated (and template text should therefore b
 Feedback from partner projects.
 
 *   Project 1 (Nicholas Jacques): 
+### From Nick ###
 Strengths
     + Really strong ability to turn algorthimic concepts into functional code.  I could suggest an idea and you would quickly implement it in the program.
     + Great time management, time spent coding was focused with few distractions.  
@@ -104,6 +105,22 @@ Strengths
 Opportunities for Improvement 
 + Slow down and commit to TDD. We both struggled with this and probably enabled each other in neglecting it.  Once we tried to implement we made good progress.  We both clearly have a lot more too learn about TDD. 
 + You might be able to combat overly-complicated-method syndrome by talking through these methods with your pair.  You have an impressive ability to make it "do the thing" but there were a few methods in our project that I never really got a full grasp of how they worked.  As you mentioned, I definitely should have been more proactive about speaking up when that occurred.
+
+### To Nick ###
+1. 3 strengths
+  + Great code organization and eye for detail
+  + Communicating and being flexible in terms of time management was really good. I never felt like time was being wasted on this project, and I felt like we were pretty efficient with each-other's time
+  + Ability to work paired was great, especially at the end. It felt cumbersome to use ping-pong TDD methods, but it ended up working out faster than the first half of the project which was way more laissez faire
+  + git
+  + keeping up with what the other was thinking and clarifying when there was confusion
+
+2. 3 areas of improvement
+  + It would have been better if we had been able to get to coding earlier instead of waiting later in the week. I feel like this was a mutual thing
+  + Learning to really use TDD would have been a great thing. Coming into this project, it felt like we both had a bad grasp of TDD, and at the end it felt like we had a basic grasp that really helped the second half of the project
+  + Speak up more when your partner starts making things way too complicated
+Add Comment Collapse
+
+
 *   Project 2 (First Last): lorem ipsum
 
 ### Job Prep
