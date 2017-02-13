@@ -88,19 +88,22 @@ This section does not need to be populated (and template text should therefore b
 
 ### Define-the-Relationship (DTR)
 
-[Link](http://example.com) to DTR Memo from 1 paired project.
+[Link](https://turingschool.slack.com/files/mstenquist/F441MPAEL/dtrnightwriter.pages) to DTR Memo from 1 paired project.
 
 ### Pair Feedback
 
 Feedback from partner projects.
 
-*   Project 1 (Craig Ness): 
+*   Project 1 (Craig Ness): Feedback for Maria (project: Night Writer)
+
+### Maria was a great partner to work with. While I tended to get lost in the fine details of the code, she was able to keep track of the broader picture and scope and keep us moving in a positive direction. Whenever we got stuck for too long, she took initiative and sought out resources (mentors, upper-mod students) or took us through a white-boarding session that always got us back on track. Without this, our project would have stalled while we both stared at the same lines of code over and over again. Maria was also excellent at spotting potential roadblocks that our coding approach would create, had we continued with that approach. Many times I would find myself trying something only to have Maria point out why that way might not be the best way further down the road. She was able to save us both time and energy during these instances, and I found it unbelievably helpful. There were a few times when I wished that perhaps she took the driver’s role a bit more, because often times it helps to step away from coding and watch someone else work for awhile, but our pairing strategy worked as we were able to implement all functionality from the specs into our project. Trying different pairing techniques might have helped us achieve this functionality at a faster pace, or with better TDD however. Finally, she was also great at coordinating Git and GitHub, and really helped me through that whole aspect of the project. Overall, I had a truly positive experience working with Maria, and I think our final product is definitely something to be proud of!
+
 *   Project 2 (First Last): lorem ipsum
 
 ### Job Prep
 
-*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](http://example.com)
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](http://example.com)
+*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](https://turingschool.slack.com/files/mstenquist/F45EFMU7R/msresumeturing.pdf)
+*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/mariastenquist)
 
 
 
