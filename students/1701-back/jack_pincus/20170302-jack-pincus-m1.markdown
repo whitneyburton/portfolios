@@ -1,4 +1,4 @@
-# First Last - MX Portfolio
+# Jack Pincus - MX Portfolio
 
 ## Areas of Emphasis
 
