@@ -9,7 +9,7 @@
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | X |
 | B | **Individual Projects** | X |
 | C | **Group Projects** | X |
@@ -28,7 +28,7 @@ This section does not need to be populated (and template text should therefore b
 ## A: End of Module Assessment
 
 | Category | Score |
-| ----- | - |
+| ----- | --- |
 | **Written Diagnostic** | PASS/FAIL |
 | **Timed Exercise** | PASS/FAIL |
 | **Ruby Syntax & API** | X |
@@ -47,7 +47,7 @@ This section does not need to be populated (and template text should therefore b
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Date Night | PROJECT 3 |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://example.com) |
 | **Github** | [link](https://github.com/Cdale3/Credit-Check) | [link](https://github.com/Cdale3/Date-Night) | [link](http://example.com) |
 | **Functional Expectations** | 4 | 2.5 | X |
@@ -67,7 +67,7 @@ This section does not need to be populated (and template text should therefore b
 ## C: Group Projects
 
 | CATEGORY | PROJECT 1 | PROJECT 2 |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://example.com) | [link](http://example.com) |
 | **Github** | [link](http://example.com) | [link](http://example.com) |
 | **Functional Expectations** | X | X |
@@ -75,7 +75,6 @@ This section does not need to be populated (and template text should therefore b
 | **Encapsulation/Breaking Logic into Components** | X | X |
 | **Fundamental Ruby & Style** | X | X |
 | **Loop or Recursion** | X | X |
-| **Teamwork** | X | X |
 
 #### Notes
 
@@ -100,7 +99,6 @@ Feedback from partner projects.
 
 ### Job Prep
 
-*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](http://example.com)
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](http://example.com)
 
 
