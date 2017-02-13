@@ -101,9 +101,9 @@ Strengths
     + File IO master.
     + Overall a really positive pairing experience.
     
-Opportunities for Improvement
-    + Slow down and commit to TDD. We both struggled with this and probably enabled each other in neglecting it.  Once we tried to implement we made good progress.  We both clearly have a lot more too learn about TDD.
-    + You might be able to combat overly-complicated-method syndrome by talking through these methods with your pair.  You have an impressive ability to make it "do the thing" but there were a few methods in our project that I never really got a full grasp of how they worked.  As you mentioned, I definitely should have been more proactive about speaking up when that occurred.
+Opportunities for Improvement 
++ Slow down and commit to TDD. We both struggled with this and probably enabled each other in neglecting it.  Once we tried to implement we made good progress.  We both clearly have a lot more too learn about TDD. 
++ You might be able to combat overly-complicated-method syndrome by talking through these methods with your pair.  You have an impressive ability to make it "do the thing" but there were a few methods in our project that I never really got a full grasp of how they worked.  As you mentioned, I definitely should have been more proactive about speaking up when that occurred.
 *   Project 2 (First Last): lorem ipsum
 
 ### Job Prep
