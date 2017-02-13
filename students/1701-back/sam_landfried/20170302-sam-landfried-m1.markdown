@@ -89,7 +89,7 @@ Night Writer notes from Beth
 
 ### Define-the-Relationship (DTR)
 
-[Link](https://docs.google.com/document/d/1fq60nOuCxl18Kxd_AMWttP_U83S055mtQ_AonUSZXGI/edit?usp=sharing) to DTR Memo from 1 paired project.
+[Link](https://docs.google.com/document/d/1fq60nOuCxl18Kxd_AMWttP_U83S055mtQ_AonUSZXGI/edit?usp=sharing) to DTR Memo from Night Writer.
 
 ### Pair Feedback
 
