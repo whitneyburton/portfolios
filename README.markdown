@@ -55,19 +55,19 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 ### Module 2 (Front-end)
 
 * Individual Assessment: Passing Score (All 3's) required
-* Required Project: Final Project (Shoot The Breeze) -- Passing Score (All 3's) required
+* Required Project: ToDo Box Pivot, Shoot the Breeze, FireBae (Tier Two) -- scores should all be passing (All 3's) or show gradual improvement
 * Included Projects:
- * A Very Lonely Chat Room  
- * Tier One Project
- * Tier Two Project
-* Feedback: Self-Solicited and from Feedback App
-* Professional Skills:
-  *  A recap of reflections from Gear Up
-  * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Cold email at least one of those five companies from the company tracker
-  * Two paragraph reflection on:
-     1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
-     2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+ * Weatherly
+* Professional Development:
+  * Copy for a personal website
+  * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
+  * Seven cold emails sent to seven different contacts from the company tracker
+  * Reflection on project management strategies used in projects: What went well? What didn’t go well?
+  * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
+* Community:
+  * A recap of reflections from Gear Up
+* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+  * Required feedback from at least one student outside of your cohort who you have paired with (Mod 1 student, back end student) AND/OR a mentor.  
 
 ### Module 2 (Back-end)
 
