@@ -23,6 +23,19 @@
 
 (Intro)
 
+### PreWork
+Deliverables:
+- Write up a summary of the pieces you completed.
+- Looking back on the pre-work, what did you find useful in terms of preparation for the material covered in Module 3? What do you wish there had been more/less of?
+
+* [Wes Bos JavaScript30](https://github.com/apsitos/JS30)
+  * This was a fun way to review JavaScript and to learn new ways to use the library. I don't know that I can do any of it on my own, but I'm glad I have these to look back on and review. 
+* [Wes Bos Learn Redux](https://github.com/apsitos/LearnRedux)
+* [NodeWork]
+
+### UI/UX Homework
+* [Homework Markdown](https://github.com/turingschool/front-end-submissions-public/blob/master/1610/mod-3/homework-submissions.md)
+
 ### Walker Texas RangerBox
 
 *   [GitHub URL](https://github.com/apsitos/ChuckNorris)
