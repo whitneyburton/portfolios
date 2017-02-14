@@ -29,9 +29,11 @@ Deliverables:
 - Looking back on the pre-work, what did you find useful in terms of preparation for the material covered in Module 3? What do you wish there had been more/less of?
 
 * [Wes Bos JavaScript30](https://github.com/apsitos/JS30)
-  * This was a fun way to review JavaScript and to learn new ways to use the library. I don't know that I can do any of it on my own, but I'm glad I have these to look back on and review. 
+  * This was a fun way to review JavaScript and to learn new ways to use the library. I don't know that I can do any of it on my own, but I'm glad I have these to look back on and review.
 * [Wes Bos Learn Redux](https://github.com/apsitos/LearnRedux)
+  * I enjoyed getting to work with Redux before we got instruction on it. However, I didn't really understand what we were doing because he moves pretty fast. I think that now we've done a project in it, I could go back and do this again and solidify what I learned.
 * [NodeWork]
+  * The Express.js work was awful. The only way to accomplish this assignment was to watch the videos, which felt like cheating. I did not find this to be a useful part of pre-work at all. It was interesting that it all had to be done in the terminal, and I appreciated getting more experience with that, but I think that might have been the only real benefit.
 
 ### UI/UX Homework
 * [Homework Markdown](https://github.com/turingschool/front-end-submissions-public/blob/master/1610/mod-3/homework-submissions.md)
@@ -68,10 +70,10 @@ Notes: A bit light on the feature implementation as we ran into some bugs that p
 
 (Intro)
 
-#### (Project Name)
+#### Redux Weather Project
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+*   [GitHub URL](https://github.com/bekahlundy/redux-weather-app)
+*   [Original Assignment](http://frontend.turing.io/projects/weather-forecast.html)
 
 (description)
 
