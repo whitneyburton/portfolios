@@ -66,14 +66,14 @@ This section does not need to be populated (and template text should therefore b
 
 | CATEGORY | Credit Check | Complete Me | PROJECT 3 (replace) |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/complete_me) | [link](http://example.com) |
-| **Github** | [link](https://github.com/lao9/credit_check) | [link](https://github.com/lao9/complete_me) | [link](http://example.com) |
-| **Functional Expectations** | 4 | 4 | X |
-| **Test-Driven Development** | n/a | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | 3 | X |
-| **Fundamental Ruby & Style** | 3 | 2 | X |
-| **Loop or Recursion** | n/a | n/a | X |
-| **Enumerable & Collections** | n/a | 3 | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/complete_me) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Github** | [link](https://github.com/lao9/credit_check) | [link](https://github.com/lao9/complete_me) | [link](https://github.com/lao9/http_yeah_you_know_me) |
+| **Functional Expectations** | 4 | 4 | 3 |
+| **Test-Driven Development** | n/a | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 | 4 |
+| **Fundamental Ruby & Style** | 3 | 2 | 3 |
+| **Loop or Recursion** | n/a | n/a | n/a |
+| **Enumerable & Collections** | n/a | 3 | n/a |
 
 #### Notes
 
@@ -156,8 +156,31 @@ During that time period, I'd work without breaks for long periods of time, order
 
 During Turing, I've been way more mindful of stress and how I handle it. I'll stop myself from working too late, and it *always* pays off for me. I have been making sure to craft a routine that I'm comfortable sticking with even in times of stress, and always prioritize what is going to make me happy, because I learned the hard way that not taking care of yourself as a shortcut usually backfires and makes me less effective/productive. I also learned some other really good coping mechanisms and healthy strategies from others. I've participated in meditations with classmates, and know everyone knows I love taking walks on my breaks. I'm definitely going to look into other strategies, like a craft or activity I can work on in my spare time, like knitting or drawing, etc.
 
-#### Session 4
-(insert reflection summary here)
+#### Session 4: Core Values
+* What brought you here?
+
+I was pretty unhappy with my job back in New York and always had an interest and strength in coding/development. I felt that going to a dev bootcamp would provide me with way more flexibility, and I like Turing's approach to learning. I felt that moving to Denver would give me both the education and fresh new start that I was craving.
+
+* What lenses or identities do you view the world though most often?
+
+I see things from a very liberal lens, and also identify as female, which definitely colors my views on things for better or for worse. Currently, I definitely feel like an outsider in Denver, so I also definitely identify as a New Yorker, and I know my friends who live here who are from New York notice my tendencies, too!
+
+* What are the values that drive you?
+  * Humor
+  * Compassion/Empathy
+  * Accountability
+  * Discipline
+  * Greatness (good isn't good enough, neither is the status quo)
+
+
+* How do you think you demonstrate those values to people around you?
+
+I feel like I am constantly trying to make people laugh, mostly to make them more comfortable. I find that self-deprecating humor works best at putting people at ease. I'm also a listener, and helper and find that my values in empathy and compassion make me a good friend, mentor, teacher, or coach. I'm also super reliable when working with others, and get my work done quickly and easily.
+
+* Could other people identify your values from your actions/words/presence?
+
+I think so, because people already come to me with help, and have recognized me as someone who gets their work done super well. I also feel that people are comfortable coming to me not just because I (usually) am able to help and know how to solve problems, but because I'm making them comfortable doing so. It's not always easy to be vulnerable or ask for help when you don't know something.
+
 
 ### Community Participation
 (insert description of how you've contributed to the Turing community)
