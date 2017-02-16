@@ -45,22 +45,39 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Date Night | PROJECT 3 (replace) |
+| CATEGORY | Credit Check | Date Night | HTTP |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://example.com) |
-| **Github** | [link](https://github.com/josh-works/mod1_homework/blob/master/credit_check.rb) | [link](https://github.com/josh-works/date_night/tree/master) | [link](http://example.com) |
-| **Functional Expectations** | 4 | 2 | X |
-| **Test-Driven Development** | n/a | 4 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | 2 | X |
-| **Fundamental Ruby & Style** | 4 | 3 | X |
-| **Loop or Recursion** | n/a | recursion | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Github** | [link](https://github.com/josh-works/mod1_homework/blob/master/credit_check.rb) | [link](https://github.com/josh-works/date_night/tree/master) | [link](https://github.com/josh-works/http_yeah_you_know_me) |
+| **Functional Expectations** | 4 | 2 | 2 |
+| **Test-Driven Development** | n/a | 4 | 1 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 2 | 2 |
+| **Fundamental Ruby & Style** | 4 | 3 | 2 |
+| **Loop or Recursion** | n/a | recursion | n/a |
 
-#### Notes
+### Notes
 
 This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
+#### Date Night project notes
 *   Don't have scores from Gorge for Date Night yet. This is what I remembered, need to update.
-*   Note 2 (if applicable)
+
+##### HTTP project notes
+
+HTTP was a frustrating project. I found the resources I needed to build a mental and built it (and could hand-write HTTP request/responses) on the 2nd to last day of the project.
+
+After writing [this lengthy article](http://backend.turing.io/module1/projects/http_yeah_you_know_me) about the steps I took to try to understand, I found buried in the bottom of the project spec a link to
+
+> content from previous versions not germane to the assignment above [available here](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me-addendum.markdown).
+
+I'd skipped it the first few times I saw it, and then when I clicked through, I found the knowledge that I'd just spent five days trying to acquire. I'm thrilled to throw myself at big projects, but this was frustrating to me.
+
+Once I identified the tooling and methods to _test_ my assumptions about HTTP send/response cycles, I learned the basics of the project in about an hour. It took me four days to identify the tooling and methods required to do this testing.
+
+It felt to me like we were not taught anything germane to the project before being told to "just figure it out". I believe our learning could have been massively accelerated had we been told about `nc` or `curl -v`.
+
+I intentionally avoided just copying and pasting code from other students that was moving them along the project, because I didn't want code I didn't understand in my project. So, I'm quite comfortable now with debugging server send/responses, but had a horrific project evaluation.
+
+¯\\\_(ツ)\_/¯ 
 
 
 ## C: Group Projects
