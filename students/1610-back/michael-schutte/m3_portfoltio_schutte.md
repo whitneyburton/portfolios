@@ -33,12 +33,26 @@ I will also keep networking and opportunity-finding top of mind and front-loaded
 Lucy Conklin, Kyle Heppenstall, Annie Wolff, and I got the chance to contribute to a gem that wraps queries to the Pivotal Tracker API in Ruby methods.
 While we did not spend as much time hitting API's as I'm sure everyone else in the cohort did for Apicurious, I am very pleased with how much I learned about constructing a gem and more advanced Git workflow.
 
-#### project name
+####  [PadCrach](http://padcrash.herokuapp.com/) (Airbnb Cloney Island)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/tmikeschu/air_bnb_clone)
+* [Original Assignment](http://backend.turing.io/module3/projects/cloney_island)
 
-description
+With five people at hand, we set out to recreate some of the functionality of Airbnb.
+
+In PadCrash you can:
+* Create a user account
+* Search and reserve available pads
+* Chat with host about each reservation
+* Upload your own pad to rent out for travelers
+
+Features we're proud of:
+* Used Travis CI for continuous integration
+* 2-factor authentication via Twilio
+* Geocoder used to integrate couch locations for display on Google Maps (COMING SOON!)
+* Upload photos of your pad with Carrierwave
+* Use of AJAX to update available pad Search
+* CSS: flexboxes on flexboxes
 
 (evaluation comments)
 
@@ -135,6 +149,14 @@ For future improvement, I recommend gaining more command of your work flow tools
 I am incredibly proud of our project, and I firmly believe it was taken to the next level by your fastidious code reviews and high quality Ruby style. Best of luck on future projects!
 
 To Lucy Conklin: Lucy is an absolute positive influence on our cohort. She brings an air of maturity, respect, and excitement like no one else. She contributes considerably to the overall mood of our cohort, which is generally congenial and supportive. This all comes along with her top notch technical skills. She is a thorough problem solver, and innovative thinker. I am happy for anyone who gets to work with her in the future.
+
+To Jesse Shipley: I have immense respect for how many "life things" you juggle with Turing. Along with all of your commitments, you retain an awesome sense of passion and curiosity for programming, which makes you an ideal team member for figuring out new technologies (like Geocoder). For improvement, I think you could work on troubleshooting more independently instead of relying solely on documentation. While the latter approach is essential sometimes, I think a thorough reading of the stack trace could save you time and strengthen your understanding of the code. Thank you for being such a great teammate, and for all your intrepid contributions to our project's functionality. Good luck on your future work!
+
+To Nick Erhardt: I'm glad we finally got to work together, especially on such a large project. As a programmer, you have impeccable style and attention to detail. As a teammate, you are helpful, patient, and productive. For future improvement, I recommend you bring more awareness of your former role as a program manager to your more peer-to-peer interactions. When you offer feedback or guidance, it often comes across more as a command than an instruction. I'm confident this isn't your intent, but a perception that might be worth noting. Overall, thank you for your quality contributions, both technical and interpersonal, to the project, and good luck on future work.
+
+To Nick Gheorghita: My main hacker! Nick, you are a fundamentally fun person to be around. Somehow, you strike a great balance between a focused and a happy-go-lucky attitude. Technically, I am incredibly impressed by your ability to solve almost any bug or problem. One downside to this, in my opinion, can be sloppy or cryptic code that is hard to read and build off. Overall, thank you for your outstanding contributions (esp. AJAX and GoogleMaps) that took the project to the next level. Good luck on your future work!
+
+To Brett Rivers: I think all teammates would be better off if they were as self-aware as you. At the beginning of the project, you articulated very clearly what your preferences and skills were, which made for a great team workflow down the road. Thank you for busting your tail on a lot of database work, and the Twilio integration. My only suggestion for future improvement is to consider more DRY solutions to your code. For example, accessing associated attributes through objects that are already defined (like current_user). Overall, I'm really grateful for all your work on this project, and I wish you luck on your future work!
 
 ### Being a Community Member
 
