@@ -23,7 +23,33 @@ I will also keep networking and opportunity-finding top of mind and front-loaded
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### SamePage (Personal Project)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+## C: Group Work & Projects
+
+### Projects
+
+Module 3 consisted of three group projects: Rails Engine, the Pivotal Tracker Gem (Apicurious), and PadCrash (Cloney Island).
+
+#### (Project Name)
+
+* [GitHub URL](https://github.com/tmikeschu/rails_engine)
+* [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
+
+Rails Engine is an API-only Rails app that provides endpoints for database records, relationships, and business intelligence queries. It follows a RESTful approach, and strongly object oriented controller architecture.
+
+(evaluation comments)
+
+(evaluation scores)
+
+Feedback for Schutte (From Drew Palazzari):
+
+Positives: Schutte is an excellent coder. He is highly intelligent and very professional. Schutte is a pleasure to pair with and does a good job  in paired programming. Schutte bring s a lot to the table when working with him on a project. His testing is phenomenal and very thorough.
+
+Constructive: Sometimes Schutte can get in the programming zone and not be as open minded to practical solutions. I too am guilty of this, but it is something to keep in mind at all times when pair-programming.
 
 #### Pivotal Tracker Gem (Apicurious)
 
@@ -57,29 +83,6 @@ Features we're proud of:
 (evaluation comments)
 
 (evaluation scores)
-
-## C: Group Work & Projects
-
-### Projects
-
-Module 3 consisted of two group projects: Rails Engine, a multi-tenant business intelligence API, and ___, a
-
-#### (Project Name)
-
-* [GitHub URL](https://github.com/tmikeschu/rails_engine)
-* [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
-
-Rails Engine is an API-only Rails app that provides endpoints for database records, relationships, and business intelligence queries. It follows a RESTful approach, and strongly object oriented controller architecture.
-
-(evaluation comments)
-
-(evaluation scores)
-
-Feedback for Schutte (From Drew Palazzari):
-
-Positives: Schutte is an excellent coder. He is highly intelligent and very professional. Schutte is a pleasure to pair with and does a good job  in paired programming. Schutte bring s a lot to the table when working with him on a project. His testing is phenomenal and very thorough.
-
-Constructive: Sometimes Schutte can get in the programming zone and not be as open minded to practical solutions. I too am guilty of this, but it is something to keep in mind at all times when pair-programming.
 
 ## D: Professional Skills
 
