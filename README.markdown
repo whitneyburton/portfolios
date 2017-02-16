@@ -104,22 +104,10 @@ A submission summarizes your accomplishments in these key areas:
 * Bonus Project (not required): APIcurious
 * Feedback: Self-Solicited and collected from Cloney Island
 * Something valuable you've taken away from your posse.
-* Professional Development:
-  * Turing alumni portfolio
-  * Pitch for personal project/Documentation showing your thought process
-  * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
-    * Transferable Skills
-    * Favorite/Most Valued Knowledge
-    * Favorite working conditions
-    * Favorite people to work with/serve
-    * Values/Goals/Mission in life
-    * Preferred places to live
-    * Preferred salary and level of responsibility
-  * Job search action plan for M4
-  * Link to Trello board
-  * Reflection of how to be successful in interviews
 * Community:
   * A recap of reflections from Gear Up
+
+*Professional Development does not need to be included in the portfolio. Submit your deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
 
 ### Module 3 (Front-end)
 
@@ -150,10 +138,6 @@ A submission summarizes your accomplishments in these key areas:
 * Required Project: Capstone Project
   * Should include points breakdown per project
 * Link to your PR for opensource contributions
-* Professional Development:
-  * Synopsis of six cold outreach emails sent. [Use these guidelines for your synopsis](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md)
-  * The Plan (action plan for job search)
-  * Documentation of participation in actual interview or practice interview
 * Community:
   * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
@@ -163,6 +147,8 @@ A submission summarizes your accomplishments in these key areas:
   * Deliver any session at a meetup or conference
   * Pair three or more times with students in lower modules
   * Contribute in a meaningful way to project of a student/team not in your module
+  
+ *Professional Development does not need to be included in the portfolio. Submit your deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
 
 ### Module 4 (Front-end)
 
