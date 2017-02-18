@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Megan Talbot - M4 Portfolio
 
 ## Areas of Emphasis
 
@@ -40,7 +40,21 @@
 
 (Intro)
 
-#### (Project Name)
+
+#### Quantified Self
+
+* [GitHub URL](https://github.com/mscherer11/quantified-self)
+* [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
+
+Quantified Self was a pair project in which we made a calorie tracker entirely in Javascript. 
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### MentorSHIP
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -53,11 +67,18 @@
 
 (feedback to me)
 
+
 ## D: Professional Skills
 (Intro)
 
 ### Gear Up
 #### (Session Name)
+
+Automation 
+https://github.com/turingschool/gear-up/blob/master/automation.markdown
+
+Tragedy of the commons
+https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown 
 
 * [GitHub URL]()
 
