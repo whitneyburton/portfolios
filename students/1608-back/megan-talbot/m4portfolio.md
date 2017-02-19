@@ -97,7 +97,10 @@ https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markd
 
 ### Giving Feedback
 
-(feedback from me)
+To Mike:
+
+Mike was a great partner for Quantified Self. This was a hard project and I was glad to have Mike with me for it.  He is a super hard worker and never gave up. Considering this project was in a language we both know relatively little about, I was impressed by Mike's grasp of it as well as his quick ability to learn. I know we both wished we could have polished up our final product more and refactored a bit, but I was very satisifed with our progress. I would gladly work with Mike again!
+
 
 ### Being a Community Member
 
