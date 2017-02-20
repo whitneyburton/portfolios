@@ -46,11 +46,34 @@
 * [GitHub URL](https://github.com/mscherer11/quantified-self)
 * [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
 
-Quantified Self was a pair project in which we made a calorie tracker entirely in Javascript. 
+Quantified Self was a pair project in which we made a calorie tracker entirely in Javascript. This was definitely a hard project as it was so new, but I can safely say that I learned a lot. I wish there had been more time to polish up our final project, but we worked very hard to get where we did, so I am satisfied with what we submitted. 
 
-(evaluation comments)
+Evaluation Comments: 
+* Teensy bug with the icon.
+* 40 tests. 
+* Filtering requires a refresh. 
+* Would like to have seen some dry. 
+* What bugs do exist are very minor.
 
-(evaluation scores)
+### Functional Expectations
+- 3: Application has all functionality, but some bugs or strange behavior where features intersect
+
+### Testing
+- 3: All functionality is covered by tests. Appropriate mix of unit and integration tests.
+
+### HTML/CSS/UI
+- 3: Application is not confusing to use. HTML Classes and IDs are kebab case.
+
+### JS syntax and Style
+- 3: Uses classes as modules. DRY code where appropriate. Attention payed to indentation and naming.
+
+### Git Workflow
+- 3: Team is using the proper branch types, and has a pull request for each feature
+
+### Project Management
+- 4: Team is using a project management tool and updating their progress daily. It's hard to misinterpret user stories
+
+
 
 (feedback to me)
 
