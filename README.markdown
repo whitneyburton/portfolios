@@ -70,6 +70,7 @@ A submission summarizes your accomplishments in these key areas:
       * Values/Goals/Mission in life
       * Preferred places to live
       * Preferred salary and level of responsibility
+   * Cold Outreach Summary for reaching out to mentors and/or alumni following [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -91,6 +92,7 @@ A submission summarizes your accomplishments in these key areas:
     * Values/Goals/Mission in life
     * Preferred places to live
     * Preferred salary and level of responsibility
+  * Cold Outreach Summary for reaching out to mentors and/or alumni following [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
