@@ -56,22 +56,22 @@ Quantified Self was a pair project in which we made a calorie tracker entirely i
 * What bugs do exist are very minor.
 
 #### Evaluation Scores: 
-##### Functional Expectations
+Functional Expectations
 - 3: Application has all functionality, but some bugs or strange behavior where features intersect
 
-##### Testing
+Testing
 - 3: All functionality is covered by tests. Appropriate mix of unit and integration tests.
 
-##### HTML/CSS/UI
+HTML/CSS/UI
 - 3: Application is not confusing to use. HTML Classes and IDs are kebab case.
 
-##### JS syntax and Style
+JS syntax and Style
 - 3: Uses classes as modules. DRY code where appropriate. Attention payed to indentation and naming.
 
-##### Git Workflow
+Git Workflow
 - 3: Team is using the proper branch types, and has a pull request for each feature
 
-##### Project Management
+Project Management
 - 4: Team is using a project management tool and updating their progress daily. It's hard to misinterpret user stories
 
 
