@@ -63,13 +63,13 @@ A submission summarizes your accomplishments in these key areas:
   * Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
   * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
    * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
-    * Transferable Skills
-    * Favorite/Most Valued Knowledge
-    * Favorite working conditions
-    * Favorite people to work with/serve
-    * Values/Goals/Mission in life
-    * Preferred places to live
-    * Preferred salary and level of responsibility
+      * Transferable Skills
+      * Favorite/Most Valued Knowledge
+      * Favorite working conditions
+      * Favorite people to work with/serve
+      * Values/Goals/Mission in life
+      * Preferred places to live
+      * Preferred salary and level of responsibility
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
