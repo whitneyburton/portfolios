@@ -64,7 +64,7 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Complete Me | PROJECT 3 (replace) |
+| CATEGORY | Credit Check | Complete Me | HTTP |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/complete_me) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/lao9/credit_check) | [link](https://github.com/lao9/complete_me) | [link](https://github.com/lao9/http_yeah_you_know_me) |
