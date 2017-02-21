@@ -123,7 +123,6 @@ What are your triggers, what's likely to move you to fixed mindset? My triggers 
 What can you peers do to support you staying in the growth mindset? Finding support, talking through things, banishing negative self-talk/self-doubt, breaking down a problem into something managable. Talking with someone usually helps to bring the tension down. Peers can help me by being encouraging, working through speed-bumps together, and being there for each other while opening up about feeling overwhelmed can help tame the stress and keep me in a growth-mindset.
 
 Small Group Discussion
-
         - silence the "I can't" voice
         - teaching: people do better in encouraging/supportive environments
         - When you fall behind and get stressed out: get help!
@@ -189,6 +188,15 @@ What elements/lens do I see the world in? Personal-responsibility | Connectednes
 
 ### Community Participation
 (insert description of how you've contributed to the Turing community)
+(ways you supported the larger Turing community)
+-Participated in Hamilton Posse, came up with a project idea (to work on within the posse)
+-Participated in Imposters Lunch
+-Enjoyed meeting new people in the Lunch Roulettes
+-Checked-in with fellow students, and provided emotional/encouragment support to others
+-Led a few Mythical Creatures/other drills sessions for students that requested them
+-Shared my lightning talk with students that were further interested in the topic, made myself available to chat further on the topic
+-revamped a fellow student's resume
+-on-going support for a couple Turing alums/student that left the program in regards to sharing contacts for the job-hunt
 
 -------------------------------------------------------------
 
