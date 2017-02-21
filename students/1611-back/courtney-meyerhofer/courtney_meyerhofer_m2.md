@@ -118,7 +118,7 @@ I think giving people opportunities to reflect on when they've encountered bias 
 
 I don't think it's very effective in changing people's opinions, as it didn't change mine. I would like to see some evidence in support of the idea that 1/3 of peple....The visualization is interesting, but I don't understand why natural segregation is a bad idea if it actually occurs. People who are similar often have similar values and it's part of our evolutionary biology to be with people who are like us. It makes us feel safe and safety leads to survival. Complicit segregation should never be enforced, but neither should complicit diversity. As long as someone isn't harmig someone else, we can't enforce these norms in good conscience with respect to the freedom of the individual.
 
-#### Deubbing the Gender Gap
+#### Debugging the Gender Gap
 
 * [GearUp URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
 
