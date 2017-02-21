@@ -125,6 +125,13 @@ I don't think it's very effective in changing people's opinions, as it didn't ch
 
 
 ### Professional Development Workshops
+#### Flower Exercise
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
+* [Link to Completed Deliverables](https://gist.github.com/meyerhoferc/455fcab7c1ba50f5cf8e648fa918b962)
+
+My main takeaway from this session was the idea that an interview with a company should be a two-way interview. I am interviewing them as much as they are me. The process of reflecting and writing for this exercise was helpful in identifying and narrowing down my priorities and dealbreakers. I hope to use it as a guide for targeting company outreach next module.
+
 #### (Session Name)
 
 * [Workshop URL]()
@@ -144,8 +151,7 @@ I don't think it's very effective in changing people's opinions, as it didn't ch
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
-
+In order to participate in the community, I made myself available to module 1 students for pairing and was co-ran two spikes with Max Glassie.
 ------------------
 
 ## Final Review
