@@ -35,12 +35,13 @@ A submission summarizes your accomplishments in these key areas:
   1. Individual Coding Challenge-A: Passing Score (All 3's) required
   2. Individual Coding Challenge-B: Passing Score (All 3's) required
   3. Comprehensive Quizlette
-  4. Final Project (Game Time) -- Passing Score (All 3's) required
+  4. Final Project (Static Comp Challenge #3) -- Passing Score (All 3's) required
   5. Completed Portfolio
 * Included Projects:
  * Linked List
  * Number Guesser
  * Idea Box
+ * 2DoBox Pivot
 * Professional Development:
   * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
   * Feedback: Paragraph; Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
