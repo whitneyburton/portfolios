@@ -128,8 +128,8 @@ A submission summarizes your accomplishments in these key areas:
     * Values/Goals/Mission in life
     * Preferred places to live
     * Preferred salary and level of responsibility
-  * Job search action plan for M4
-  * Link to Trello board
+  * Job search action plan for M4 - Submit to Meg via email at [mstewart@turing.io](mail:to)
+  * Link to Trello board (add Meg to this if you haven't already)
   * Reflection of how to be successful in interviews
 * Community:
   * A recap of reflections from Gear Up
@@ -150,7 +150,7 @@ A submission summarizes your accomplishments in these key areas:
   * Pair three or more times with students in lower modules
   * Contribute in a meaningful way to project of a student/team not in your module
   
- *Professional Development does not need to be included in the portfolio. Submit your deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
+ *Professional Development does not need to be included in the portfolio. Deliverables and submission guidelines are [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
 
 ### Module 4 (Front-end)
 
@@ -159,8 +159,8 @@ A submission summarizes your accomplishments in these key areas:
   * Should include points breakdown per project
 * Professional Development:
   * Synopsis of six cold outreach emails sent. [Use these guidelines for your synopsis](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md)
-  * The Plan (action plan for job search)
   * Documentation of participation in actual interview or practice interview
+  *PD deliverables should be submitted via email to Meg at [mstewart@turing.io](mail:to)*
 * Community:
   * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
