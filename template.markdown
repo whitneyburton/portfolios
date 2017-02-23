@@ -6,7 +6,7 @@
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: X
+*   **A: End-of-Module Assessment**: Pass/Fail/Pending
 *   **B: Individual Work & Projects**: X
 *   **C: Group Work & Projects**: X
 *   **D: Professional Skills**: X
@@ -14,9 +14,9 @@
 
 -----------------------
 
-## A: End of Module Assessment
+## A: End of Module Assessment Status
 
-(Notes & scores from your assessment rubric)
+(Please Indicate if Pass/Fail/Pending)
 
 
 ## B: Individual Work & Projects
