@@ -62,7 +62,7 @@ MentorSHIP is intended (when fully developed) to help students connect with ment
 
 * [FUSD App](https://github.com/kristindiannefoss/fusdIJC)
 
-This is an app thought up by Kris Foss of 1603.  We attend the same church and the messaging system for the Immigration Justice group is appaling and confusing. They are currently using Google forums. This leads to email chains that are long, confusing and lack any real ability to comprehend the needs of the community. She and I have been working on making a site which can be easier to user and navigate. Our hope is to make this the hub for all communications so the community can better understand its own needs. 
+This is an app thought up by Kris Foss of 1603.  We attend the same church and the messaging system for the Immigration Justice group is appalling and confusing. They are currently using Google forums. This leads to email chains that are long, confusing and lack any real ability to comprehend the needs of the community. She and I have been working on making a site which can be easier to user and navigate. Our hope is to make this the hub for all communications so the community can better understand its own needs. 
 
 ## Community
 
