@@ -37,8 +37,9 @@ The following individual projects were not completed as a group/partnership but 
 
 #### Open Source Contributions
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+*   [Link to PR]()
+*   [Link to blog]()
+*   [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
 (description)
 
@@ -54,8 +55,8 @@ The following projects were completed as a group/partnership.
 
 #### Quantified Self
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+*   [GitHub URL](https://github.com/dshinzie/quantified-self)
+*   [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
 
 (description)
 
@@ -67,7 +68,7 @@ The following projects were completed as a group/partnership.
 
 #### Ripped/Code of Arms
 
-*   [GitHub URL]()
+*   [GitHub URL](https://github.com/turingschool-projects/ripped)
 *   [Original Assignment]()
 
 (description)
@@ -92,9 +93,21 @@ The following projects were completed as a group/partnership.
 (feedback to me)
 
 ## D: Professional Skills
-(Intro)
+The professional skills sessions are an integral part of our Turing program because we are learning skills that are very industry specific for our soon-to-be new careers. This includes both examining how we are presenting ourselves to those on the outside as well as personal reflections to make sure we are striving to be the best versions of ourselves.
 
 ### Gear Up
+#### Tragedy of the Commons
+
+*   [GitHub URL]()
+
+(takeaways from session)
+
+#### Automation
+
+*   [GitHub URL]()
+
+(takeaways from session)
+
 #### (Session Name)
 
 *   [GitHub URL]()

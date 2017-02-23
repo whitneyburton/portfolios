@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This module, I had a primary goalwith the overarching goal of passing Module 3 in preparation for a career as a software developer:
+This module, I had a primary goal with the overarching goal of passing Module 3 in preparation for a career as a software developer:
 
 #### Goal - Be a “Yes (Wo)man”
 Continuation of Mod 1 & 2 goal: The purpose of this goal is to encourage myself to do things outside of my comfort zone that I might normally say “no” to doing. This goal will help me be a better student, peer, and person both in and out of the classroom. I will strive do at least 1 thing outside of my comfort zone each week such as attending a meetup, giving a talk, joining a group, or similar. If 1 opportunity is not available, I will introduce myself to at least one new person or write a blog post as a substitute event.
