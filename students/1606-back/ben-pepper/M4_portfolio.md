@@ -4,15 +4,13 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I'll be honest, I had no idea what to expect this mod. I wanted to work with Javascript and some React. I got to touch both so there's that. Outside of that I was hoping to solidify my Rails knowledge and got to do that with some more advanced database things like delegations. 
 
 ### End of Module Assessment
 
 (Notes & scores from your assessment rubric)
 
 ### Work
-
-(Intro)
 
 ## Team
 
@@ -62,7 +60,7 @@ MentorSHIP is intended (when fully developed) to help students connect with ment
 
 * [FUSD App](https://github.com/kristindiannefoss/fusdIJC)
 
-This is an app thought up by Kris Foss of 1603.  We attend the same church and the messaging system for the Immigration Justice group is appalling and confusing. They are currently using Google forums. This leads to email chains that are long, confusing and lack any real ability to comprehend the needs of the community. She and I have been working on making a site which can be easier to user and navigate. Our hope is to make this the hub for all communications so the community can better understand its own needs. 
+This is an app thought up by Kris Foss of 1603.  We attend the same church and the messaging system for the Immigration Justice group is appalling and confusing. They are currently using Google forums. This leads to email chains that are long, confusing and lack any real ability to comprehend the needs of the community. She and I have been working on making a site which can be easier to user and navigate. Our hope is to make this the hub for all communications so the community can better understand its own needs.
 
 ## Community
 
