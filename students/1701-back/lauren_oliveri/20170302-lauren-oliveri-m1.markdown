@@ -31,12 +31,12 @@ This section does not need to be populated (and template text should therefore b
 | ----- | --- |
 | **Written Diagnostic** | PASS/FAIL |
 | **Timed Exercise** | PASS/FAIL |
-| **Ruby Syntax & API** | X |
-| **Completion and Progress** | X |
-| **Testing** | X |
-| **Workflow** | X |
-| **Collaboration** | X |
-| **Enumerable & Collections** | X |
+| **Ruby Syntax & API** | 4 |
+| **Completion and Progress** | 4 |
+| **Testing** | 4 |
+| **Workflow** | 3 |
+| **Collaboration** | 4 |
+| **Enumerable & Collections** | n/a |
 
 #### Assessor Comments
 
