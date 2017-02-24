@@ -23,10 +23,12 @@ I will also keep networking and opportunity-finding top of mind and front-loaded
 
 ## B: Individual Work & Projects
 
-#### SamePage (Personal Project)
+#### [The Spoken Tour](http://spoke-n.herokuapp.com/) (Personal Project)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/tmikeschu/spoke-n)
+* [Original Assignment](http://backend.turing.io/module3/projects/self_directed_project)
+
+REFLECTION
 
 ## C: Group Work & Projects
 
@@ -84,6 +86,23 @@ Features we're proud of:
 
 (evaluation scores)
 
+Feedback:
+
+From Nick Gheorghita: Mr. Schutte! It was a pleasure finally working on a project together. Can’t say enough about how great you are as a team member, and your skills as a coder. But, I’ll try. Even though we dumped the responsibility of PM on you, you took it on and murdered it with ease. The fact that our project came together while we were all working on separate features comes down largely to how well you did this job. I’m in constant awe of your refactoring skills, it’s something that’s gonna take you far in your career. Your people skills are also on point. Always with the high and positive energy, even when we’re bogged down in the muddy trenches, under constant siege from ugly and boring stories, you pop in like a whiff of fresh air on a dewy, spring morning.
+
+From Jesse Shipley: Finally got to work with you during an 'official' project! I always envied the way you could immerse yourself
+into your work and still come away with such a refreshing outlook on the concepts and application. I know we
+'voluntold' the project manager position to you, but your work ethic, drive and passion really matched that job well.
+I think one thing you could work on in is using your drive and passion to really push the boundaries of a group
+project. Whether you are in charge of development decisions or just a part of them. You have an immense value in
+group cohesion and it sometimes led down a path of no resolve when multiple ideas were brought up. I really
+appreciate the way you value a group mindset but sometimes a set path builds a more creative idea.
+I wanted to also thank you again for all of the time and effort you put in to make this an amazing group experience!
+You dedicated hours of work into our user stories, and dissected Josh's thoughts on possible pathways in our project.
+All of this work went so far to help our progress and allow us that extra time in the end to truly branch out and learn
+new concepts. I am completely confident in saying that without that extra, sometimes unseen, effort we would not have
+had such an awesome time with the last push in this project.
+
 ## D: Professional Skills
 
 ### Gear Up
@@ -110,12 +129,11 @@ We might have fancy gadgets, but our behavior in the most abstract sense is no d
 
 I am very happy this was a gear up session. Nate did a great job emphasizing that this consideration is essential for us to keep top of mind as we advance in our careers.
 
-#### (Session Name)
+#### Universal Basic Income
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
 
 ### Professional Development Workshops
 #### Flower Exercise
