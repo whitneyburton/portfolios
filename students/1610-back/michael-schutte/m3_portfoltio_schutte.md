@@ -136,30 +136,8 @@ I am very happy this was a gear up session. Nate did a great job emphasizing tha
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 ### Professional Development Workshops
-#### Flower Exercise
 
-* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
-* [Link to Completed Deliverables](https://gist.github.com/tmikeschu/7dcbf48eba017d686c5b3bf2d3e26f1c)
-
-(takeaways from session)
-
-#### Organize Your Shit
-
-* [Workshop URL](http://backend.turing.io/professional_development/module_four/organize_your_shit)
-* [Github](https://github.com/tmikeschu)
-* [LinkedIn](https://www.linkedin.com/in/tmikeschu)
-* [Stack Overflow](http://stackoverflow.com/users/7497708/mike-schutte)
-* [Twitter](https://twitter.com/tmikeschu)
-
-This session was much needed. I think some of the professional development has a vibe of frivolity and that we won't have to work that hard to make things happen.
-Jeff was very real with us and did a great job balancing the realities of what we need to do (downer) with the joys that will come from the discipline we put forth (upper).
-
-#### (Session Name)
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
+*Sent to Meg and Lia on GitHub*
 
 ## E: Feedback and Community Participation
 
