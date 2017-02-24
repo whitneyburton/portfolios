@@ -122,7 +122,10 @@ I don't think it's very effective in changing people's opinions, as it didn't ch
 
 * [GearUp URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
 
+#### Universal Basic Income
+* [GearUp URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
+The realities of our future economy is that work for pay might not serve the public as a model of wealth distribution. UBI is the idea that we should tax the rich to take care of unskilled workers who have had a computer take over their job. I don’t have a strong reaction to the idea that UBI is a “foregone conclusion.” I mostly agree, but I think we will have to reinvent how we spend our time once automation is more fully realized. People will have to gain fulfillment and satisfaction from things in their lives that aren’t their jobs. Our concept of wealth might have to change. If we automate our systems of production and have sufficient AI for service jobs such as doctors and lawyers, what will be our purpose? I think the greater question is an existential one and UBI is the safety net in the path to a more automated society.	I think being educated about automation and its effect on our workforce is worthwhile because technology has continually been developing before policy. Having debates to iron out the best of our ideas is the only way to create the future we want.
 
 ### Professional Development Workshops
 #### Flower Exercise
