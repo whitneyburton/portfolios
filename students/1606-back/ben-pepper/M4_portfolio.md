@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-I'll be honest, I had no idea what to expect this mod. I wanted to work with Javascript and some React. I got to touch both so there's that. Outside of that I was hoping to solidify my Rails knowledge and got to do that with some more advanced database things like delegations. 
+I'll be honest, I had no idea what to expect this mod. I wanted to work with Javascript and some React. I got to touch both so there's that. Outside of that I was hoping to solidify my Rails knowledge and got to do that with some more advanced database things like delegations.
 
 ### End of Module Assessment
 
@@ -29,7 +29,7 @@ This was our first project done in Javascript. It involved working with local st
 ### Functional Expectations
 3: Application has all functionality, but some bugs or strange behavior where features intersect
 
-###Testing
+### Testing
 3: All functionality is covered by tests. Appropriate mix of unit and integration tests.
 
 ### HTML/CSS/UI
@@ -50,11 +50,20 @@ This was our first project done in Javascript. It involved working with local st
 
 MentorSHIP is intended (when fully developed) to help students connect with mentors who are available. This is done as a full Rails app with the react-rails gem working on the front end.
 
-(evaluation comments)
+### Project Management
+4: Team is using a project management tool and updating their progress daily.
 
-(evaluation scores)
+### Completion & Pace
+3: Team completed all stories scheduled for this checkpoint by the product owner.
 
-(feedback to me)
+### Implementation Quality
+3: Project demonstrates solid code quality and MVC principles.
+
+### Application of Techniques
+3: Project has implemented one major technique from the previous two weeks of academic classes.
+
+### Documentation
+3: Project features excellent documentation showing how to develop the application
 
 #### First Unitarian Society of Denver app
 
