@@ -104,10 +104,13 @@ Project Management
 #### Evaluation Scores: 
 Project Management
 - 4: Team is using a project management tool and updating their progress daily.
+
 Completion & Pace
 - 3: Team completed all stories scheduled for this checkpoint by the product owner.
+
 Implementation Quality
 - 3: Project demonstrates solid code quality and MVC principles.
+
 Application of Techniques
 - 3: Project has implemented one major technique from the previous two weeks of academic classes.
 
@@ -130,12 +133,16 @@ Megan, You always produce amazing apps with stunning code. You should always be 
 #### Evaluation Scores: 
 Project Management
 - 4: Team is using a project management tool and updating their progress daily.
+
 Completion & Pace
 - 3: Team completed all stories scheduled for this checkpoint by the product owner.
+
 Implementation Quality
 - 3: Project demonstrates solid code quality and MVC principles.
+
 Application of Techniques
 - 3: Project has implemented one major technique from the previous two weeks of academic classes.
+
 Documentation
 - 3: Project features excellent documentation showing how to develop the application
 
