@@ -2,14 +2,14 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module, I wanted to learn how the Internet works, learn Rails fundamentals, complete a side project, and take a deep dive into personal and professional development. My favorite lessons this module were the ones centered on HTTP, DNS, the asset pipeline, and the MVC model. I read textbooks and explored tools to better understand the protocols of the web and learned the basics of Rails through projects and reading documentation. I have a side project that works but might not ever be done, and I pushed myself far out of my comfort zone for personal and professional development. Because I didn't have many pairing experiences in module 1, I sought out opportunities to pair within and outside of my cohort and incorporated their feedback into how I collaborate. For professional development, I began exploring career interests and cohosted two spike sessions on topics I didn't know much about in order to improve my public speaking skills (still a long way to go). I think the two most important things I learned this module was how to give and receive feedback and be documentation reliant in the development process. 
 
 ## Rubric Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
