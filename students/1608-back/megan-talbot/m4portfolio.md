@@ -88,9 +88,8 @@ Project Management
 
 (description)
 
-Reviewer: Nate
 
-Notes:
+#### Evaluation Notes: 
 - Technical conversation happens on PR's in Github. Functionality conversations happen in Pivotal on the feature card.
 - You guys have been doing a great job with Pivotal Tracker
 - New Git/Github Workflow
@@ -102,15 +101,15 @@ Notes:
   - Bug fixes are merged into that release Branch
   - Release is merged to master and development when we're ready for it to go to production
 
-
-### 1. Project Management
-* **4: Team is using a project management tool and updating their progress daily.**
-### 2. Completion & Pace
-* **3: Team completed all stories scheduled for this checkpoint by the product owner.**
-### 3. Implementation Quality
-* **3: Project demonstrates solid code quality and MVC principles.**
-### 4. Application of Techniques
-* **3: Project has implemented one major technique from the previous two weeks of academic classes.**
+#### Evaluation Scores: 
+Project Management
+- 4: Team is using a project management tool and updating their progress daily.**
+Completion & Pace
+- 3: Team completed all stories scheduled for this checkpoint by the product owner.**
+Implementation Quality
+- 3: Project demonstrates solid code quality and MVC principles.**
+Application of Techniques
+- 3: Project has implemented one major technique from the previous two weeks of academic classes.**
 
 From Ben Pepper:<br>
 It was a pleasure working with Megan again. Her dedication to the project and making things work is inspiring. Her ability to get thrown into a new situation and then fully grasp the concept was stunning and something I hope to emulate soon.
