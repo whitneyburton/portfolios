@@ -38,7 +38,7 @@ Your promotion to the next module is based upon a summative assessment coined th
   4. Final Project (Static Comp Challenge #3) -- Passing Score (All 3's) required
   5. Completed Portfolio
   
-Your completed portfolio is comprised of the following material:
+Your completed portfolio is comprised of the following required material:
 
 * Course Projects:
  * Linked List
@@ -52,6 +52,8 @@ Your completed portfolio is comprised of the following material:
   
 * Community:
   * A recap of reflections from Gear Up
+  
+You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of the evaluations.
   
 ### Module 2 (Back-end)
 
