@@ -41,7 +41,7 @@ Blog post -
 
 ### Projects
 
-(Intro)
+Mod 4 essentially consisted of 3 group projects. We had Quantified Self, which was a 2 week Javascript project. Then we had 2 'sprints' on our Capstone project, MentorSHIP.  Lastly, we had a smaller scale side project during the final 2 weeks which was called Mashup.  Looking back, Quantified Self feels like a long time ago, but it was very useful. The capstone projects felt more like actual team projects on a job, which has been challenging but also rewarding. The final side project was done with our Capstone groups.
 
 
 ### Quantified Self
@@ -78,13 +78,13 @@ Project Management
 - 4: Team is using a project management tool and updating their progress daily. It's hard to misinterpret user stories
 
 
-
 (feedback to me)
 
-#### MentorSHIP - Sprint 1
 
-* [GitHub URL]()
-* [Original Assignment]()
+### MentorSHIP - Sprint 1
+
+* [GitHub URL](https://github.com/turingschool-projects/MentorSHIP)
+* [Original Assignment](https://turing-mentorship-staging.herokuapp.com/)
 
 (description)
 
@@ -117,8 +117,22 @@ It was a pleasure working with Megan again. Her dedication to the project and ma
 Megan, You always produce amazing apps with stunning code. You should always be proud of what you produce no matter what it is. I know we didn't get as far as you would have liked in MentorSHIP but the code we produced was good and sets up 1610 for a strong start. The work you put into the front end made the site easily navigable and easy to look at.
 
 
+### MentorSHIP - Sprint 2
+
+* [GitHub URL](https://github.com/turingschool-projects/MentorSHIP)
+* [Original Assignment](https://turing-mentorship-prod.herokuapp.com/)
+
+(description)
+
+
+### Mashup 
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+
+
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### (Session Name)
@@ -128,6 +142,9 @@ https://github.com/turingschool/gear-up/blob/master/automation.markdown
 
 Tragedy of the commons
 https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown 
+
+Universal Basic Income 
+
 
 * [GitHub URL]()
 
