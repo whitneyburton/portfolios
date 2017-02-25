@@ -75,7 +75,25 @@ This is an app thought up by Kris Foss of 1603.  We attend the same church and t
 
 ### Giving Feedback
 
-(feedback from me)
+To: Ali Schlereth
+Ali is an amazing partner. Her grasp of JQuery and Javascript is stunning. She made Quantified Self far more tolerable and her enthusiasm when something finally worked was refreshing. Ali is more than capable as a programer and as a member of any team that she has been or will be a part of.
+
+Ali, don't burn yourself out. Turing and the job can be draining and there will be times that things don't get done in time. Just roll with the punches and don't let it stress you. I know it's a tautological statement but the cards will fall where they will. There are a few things you can do to affect them but with any project there are too many moving parts to control. Just do you and you'll be fine.
+
+To: Megan Talbot
+It was a pleasure working with Megan again. Her dedication to the project and making things work is inspiring. Her ability to get thrown into a new situation and then fully grasp the concept was stunning and something I hope to emulate soon.
+
+Megan, You always produce amazing apps with stunning code. You should always be proud of what you produce no matter what it is. I know we didn't get as far as you would have liked in MentorSHIP but the code we produced was good and sets up 1610 for a strong start. The work you put into the front end made the site easily navigable and easy to look at.
+
+To: Jon Kimble
+It was my first time work with Jon. I couldn't have asked for a better team member. He constantly beings enthusiasm and enjoyment into whatever he is doing. Jon constantly amazes me with his outgoing nature and that he always has a smile on his face. His drive to learn more each day is something I hope to emulate as I get into the industry.
+
+Jon, You guys did a hell of a job getting React to work with MentorSHIP. I know we didn't get as far as you would have liked with the app but the codebase we are leaving for 1610 is far better than we were handed. Thats part of brown field, can we leave this better then we found it? We did. Thats a lot and will only serve to set up 1610 for quick success. You did a lot to help that and they will have you to thank for it.
+
+To: Vido Seaver
+This was the first project I worked on with Vido. His ability to understand a problem and tackle it is wonderful. He has an ability to look at a problem and see a solution. Several times we paired trying to figure out what the next step was and Vido was able to articulate the solution and navigate through all the issues.
+
+Vido, I know it can be frustrating taking steps back in a project. Its shitty to re-do something several times and have to wait for other things to complete. Its part of the job. Getting stressed hurts you and your team. Try to take a step back and just roll with the punches when they come. You know what you're doing and can accomplish a lot. Just control what you can and let the other things fall by the way side. 
 
 ### Being a Community Member
 
@@ -93,10 +111,10 @@ This is an app thought up by Kris Foss of 1603.  We attend the same church and t
 ### Rubric Scores
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Community Participation**: X
-* **E: Peer & Instructor Feedback**: X
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ### Notes
 
