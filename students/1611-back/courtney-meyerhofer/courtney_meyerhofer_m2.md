@@ -164,6 +164,12 @@ My main takeaway from this session was the idea that an interview with a company
 
 During Bike Share, I was the project manager and some strategies we used included a shared Google spreadsheet timeline, [Waffle](https://www.waffle.io), daily standups and retros, Slack mesaging, and an agreed-upon git workflow. I found the timeline helpful to keep us on track with deadlines and the end goal of the project. Waffle cards were useful to have a visual representation of the tasks and breaking them into smaller issues, and we made use of the assignment feature of the cards to keep track of what needs to be done. I think a lot of our pull requests during bike share were a formality and weren't appropriately used as a tool for communication & code review. In contrast, during Little Shop, pull requests were used in a way that brought a lot of value to our codebase. We used rebasing to craft a commit history and performed code reviews where we asked questions of each other and instructors to make our code the best it could be. 
 
+#### Reflection on Incorporating Feedback
+
+A moment that changed how I interacted in group settings happened during Bike Share when a group member said to me "I need you to trust me and trust that I can complete this." We were struggling with seeding the database with huge CSVs and were about to call it a night. It was then that I realized I don't often give space to others to try to solve the tough problems and that this can cause others to think I don't perceive them as competent. I've always been a bit of a lone wolf, and I think this module I learned how to trust others' ideas and give them space to learn in the struggle. The Johari Window activity taught me a lot about how others' perceive me, which I think is a form of feedback. It was interesting for me to see traits that I and my peers agreed I exhibit while some traits were only observed from my peers. 
+
+During my portfolio review at the end of module 1, some feedback I received from an instructor was to work on my perfectionism, and I began to explore that area of my identity this module. I think the way in which I grew the most personally this module was being okay with not knowing and becoming more accepting and calm during the learning process. In my personal history, a lot of my identity was built upon the values of knowledge and power in knowing. This module, there was a lot of new material, and in order to get through sanely I learned to embrace the error and embrace the failure in order to become better at what I do. The way I did this was to interact more with people in my cohort and implement a stricter self care routine. I've learned that it's important for me to take care of my mental well being because my mindset affects how I interact with others, and how I interact with others affects their learning process. 
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
@@ -177,6 +183,7 @@ During Bike Share, I was the project manager and some strategies we used include
 ### Playing a Part
 
 In order to participate in the community, I made myself available to module 1 students for pairing and was co-ran two spikes with Max Glassie.
+
 ------------------
 
 ## Final Review
