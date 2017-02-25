@@ -36,6 +36,13 @@
 
 (evaluation scores)  
 
+
+## C: Group Work & Projects
+
+### Projects
+
+(Intro)
+
 #### Quantify Me
 
 * [GitHub URL](https://github.com/AliSchlereth/quantify-me)
@@ -71,33 +78,25 @@ Project Documentation A+++++++ would read again.
 4: Project demonstrates exceptionally well factored code.  
 3: Project has implemented one major technique from the previous two weeks of academic classes.  
 
-## C: Group Work & Projects
+#### Census Sprint 1  
+All stories and bugs completed.
+Good documentation.
+Code generally well written and well factored.  
 
-### Projects
-
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+4: Team is using a project management tool and updating their progress daily.  
+3: Team completed all stories scheduled for this checkpoint by the product owner.  
+3: Project demonstrates solid code quality and MVC principles.  
+3: Project has implemented one major technique from the previous two weeks of academic classes.  
+3: Project features excellent documentation showing how to develop the application  
 
 ## D: Professional Skills
 
 ### Gear Up
-#### (Session Name)
+#### Universal Basic Income
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
-(takeaways from session)
+There are lots of complexities here. We discussed what this would look like across the country with such a variance in cost of living. We also discussed how some of the options in laying it out would not in the end fix income inequality and poverty. It was also important to think about what happens if people are out of work, how does this impact their self worth. 
 
 #### Tradgedy of the Commons 
 
