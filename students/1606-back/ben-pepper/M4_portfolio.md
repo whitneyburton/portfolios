@@ -73,6 +73,9 @@ This is an app thought up by Kris Foss of 1603.  We attend the same church and t
 
 ## Community
 
+### Personal Development Deliverables
+[The delieverable gist](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1608-b/ben_pepper.md)
+
 ### Giving Feedback
 
 To: Ali Schlereth
@@ -93,7 +96,7 @@ Jon, You guys did a hell of a job getting React to work with MentorSHIP. I know 
 To: Vido Seaver
 This was the first project I worked on with Vido. His ability to understand a problem and tackle it is wonderful. He has an ability to look at a problem and see a solution. Several times we paired trying to figure out what the next step was and Vido was able to articulate the solution and navigate through all the issues.
 
-Vido, I know it can be frustrating taking steps back in a project. Its shitty to re-do something several times and have to wait for other things to complete. Its part of the job. Getting stressed hurts you and your team. Try to take a step back and just roll with the punches when they come. You know what you're doing and can accomplish a lot. Just control what you can and let the other things fall by the way side. 
+Vido, I know it can be frustrating taking steps back in a project. Its shitty to re-do something several times and have to wait for other things to complete. Its part of the job. Getting stressed hurts you and your team. Try to take a step back and just roll with the punches when they come. You know what you're doing and can accomplish a lot. Just control what you can and let the other things fall by the way side.
 
 ### Being a Community Member
 
