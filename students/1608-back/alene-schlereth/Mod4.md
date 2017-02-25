@@ -129,7 +129,8 @@ Automation is likely inevitable. It was interesting to hear how different people
 
 ### Being a Community Member
 
-(feedback to me)
+from Ben:   
+Ali is an amazing partner. Her grasp of JQuery and Javascript is stunning. She made Quantified Self far more tolerable and her enthusiasm when something finally worked was refreshing. Ali is more than capable as a programer and as a member of any team that she has been or will be a part of.
 
 ### Playing a Part
 
