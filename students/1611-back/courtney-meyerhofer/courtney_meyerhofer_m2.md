@@ -18,8 +18,15 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+#### Evaluation Notes
 
+* Rails style & API strong
+* room for improvement with TDD in the way of not outpacing feedback
+  * read errors more carefully
+  * when running into errors in TDD process, question the setup of my test sooner
+  * even if I know why the error is present, don't over develop for the test or error (especially in an interview environment)
+* collaboration was strong because I solicited feedback and involved the other person without asking for too much help
+  * demonstrated knowledge of different solutions, asked for preference
 
 ## B: Individual Work & Projects
 
