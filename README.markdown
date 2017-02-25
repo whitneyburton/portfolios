@@ -34,8 +34,8 @@ A submission summarizes your accomplishments in these key areas:
 Your promotion to the next module is based upon a summative assessment coined the Pentathlon. The Pentathlon includes:
   1. Individual Coding Challenge-A: Passing Score (All 3's) required
   2. Individual Coding Challenge-B: Passing Score (All 3's) required
-  3. Comprehensive Quizlette: Passing Score 80%
-  4. Final Project (Static Comp Challenge #3) -- Passing Score (All 3's) required
+  3. Final Project (Static Comp Challenge #3) -- Passing Score (All 3's) required
+  4. Comprehensive Quizlette: Passing Score (80% correct answers) required
   5. Completed Portfolio
   
 Your completed portfolio is comprised of the following required material:
