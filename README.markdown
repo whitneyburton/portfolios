@@ -53,7 +53,7 @@ Your completed portfolio is comprised of the following required material:
 * Community:
   * A recap of reflections from Gear Up
   
-You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of the evaluations.
+You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of those evaluations and in advance of portfolio reviews.
   
 ### Module 2 (Back-end)
 
