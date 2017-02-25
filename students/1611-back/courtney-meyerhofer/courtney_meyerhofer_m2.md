@@ -50,7 +50,7 @@ Violet Teacher is a teacher gradebook and student grade portal of my own design.
 
 * [GitHub URL]()
 
-Panopti-packet is a Rails and network application named after the [Panopticon](https://en.wikipedia.org/wiki/Panopticon). I wanted to understand TCP/IP & UDP protocols more in depth while practicing Rails style, testing, and ActiveRecord. This is a less-functional Wireshark in a browser. Users can create accounts and define sessions where they monitor the packet activity on different interfaces on their machine. ActiveRecord is used to display analytics about the packets that were observed for the defined sessions.
+Panopti-packet is a Rails and network application named after the [Panopticon](https://en.wikipedia.org/wiki/Panopticon). I wanted to understand TCP/IP & UDP protocols more in depth while practicing Rails style, testing, and ActiveRecord. This is a less-functional Wireshark in a browser that was created for my own learning, not necessarily for others to use. Users can create accounts and define sessions where they monitor the packet activity on different interfaces on their machine. ActiveRecord is used to display analytics about the packets that were observed for the defined sessions.
 
 ## C: Group Work & Projects
 
