@@ -84,7 +84,7 @@ Project Management
 ### MentorSHIP - Sprint 1
 
 * [GitHub URL](https://github.com/turingschool-projects/MentorSHIP)
-* [Original Assignment](https://turing-mentorship-staging.herokuapp.com/)
+* [Production URL](https://turing-mentorship-staging.herokuapp.com/)
 
 (description)
 
@@ -120,7 +120,7 @@ Megan, You always produce amazing apps with stunning code. You should always be 
 ### MentorSHIP - Sprint 2
 
 * [GitHub URL](https://github.com/turingschool-projects/MentorSHIP)
-* [Original Assignment](https://turing-mentorship-prod.herokuapp.com/)
+* [Production URL](https://turing-mentorship-prod.herokuapp.com/)
 
 (description)
 
@@ -128,7 +128,7 @@ Megan, You always produce amazing apps with stunning code. You should always be 
 ### Mashup 
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/secondary.md)
 
 
 
