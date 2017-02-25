@@ -9,10 +9,10 @@
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -30,14 +30,14 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Work & Projects
 
-(Intro)
+The individual projects I completed were created in Rails and helped developed my understanding of the MVC model, ActiveRecord, TDD in an application, and relational databases. Because I'm interested DevOps and how networks work, I pursued a personal project called Panopti-packet.
 
 #### Mix Master
 
 * [GitHub URL](https://github.com/meyerhoferc/mix_master)
 * [Original Assignment](http://backend.turing.io/module2/projects/mix_master/1_getting_started)
 
-Mix Master was the first project where I implemented multiple relationships in a Rails application. A user can add artists, songs for that artist, and create playlists of songs. The most important thing I learned from Mix Master was exploiting ActiveRecord relationships from belongs_to & has_many. Mix Master was also the project that caused me to learn TDD in the context of a Rails app. I began to feel comfortable with the work flow and was able to start predicting what error would happen when making my tests pass.
+Mix Master was the first project where I implemented multiple relationships in a Rails application. A user can add artists, songs for that artist, and create playlists of songs. I also experimented with authorization by adding OAuth through Spotify. The most important thing I learned from Mix Master was exploiting ActiveRecord relationships from belongs_to & has_many. Mix Master was also the project that caused me to learn TDD in the context of a Rails app. I began to feel comfortable with the work flow and was able to start predicting what error would happen when making my tests pass.
 
 #### Violet Teacher (Rails Mini Project)
 
@@ -46,6 +46,11 @@ Mix Master was the first project where I implemented multiple relationships in a
 
 Violet Teacher is a teacher gradebook and student grade portal of my own design. Students and teachers can both create accounts and login. Teachers can create courses and students can enroll in courses. I had grand plans for this project, too much to be completed within the extended weekend. The most valuable lessons I took away from this project were working iteratively by beginning with a minimum viable product and that people in tech have opinions but there is often more than one way to accomplish a goal (with the idea of tradeoffs in functionality / implementation). When implementing users, I didn't think it made sense to have one users table for students and teachers since they had very different attributes. In talking with others about the problem, I was able to explore tradeoffs and decided on separate teacher and student tables.
 
+#### Panopti-packet (Personal Project)
+
+* [GitHub URL]()
+
+Panopti-packet is a Rails and network application named after the [Panopticon](https://en.wikipedia.org/wiki/Panopticon). I wanted to understand TCP/IP & UDP protocols more in depth while practicing Rails style, testing, and ActiveRecord. This is a less-functional Wireshark in a browser. Users can create accounts and define sessions where they monitor the packet activity on different interfaces on their machine. ActiveRecord is used to display analytics about the packets that were observed for the defined sessions.
 
 ## C: Group Work & Projects
 
