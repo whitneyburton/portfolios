@@ -32,16 +32,20 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 (Intro)
 
-#### (Project Name)
+#### Mix Master
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/meyerhoferc/mix_master)
+* [Original Assignment](http://backend.turing.io/module2/projects/mix_master/1_getting_started)
 
-(description)
+Mix Master was the first project where I implemented multiple relationships in a Rails application. A user can add artists, songs for that artist, and create playlists of songs. The most important thing I learned from Mix Master was exploiting ActiveRecord relationships from belongs_to & has_many. Mix Master was also the project that caused me to learn TDD in the context of a Rails app. I began to feel comfortable with the work flow and was able to start predicting what error would happen when making my tests pass.
 
-(evaluation comments)
+#### Violet Teacher (Rails Mini Project)
 
-(evaluation scores)
+* [GitHub URL](https://github.com/meyerhoferc/violet_teacher)
+* [Original Assignment](http://backend.turing.io/module2/projects/mini-project)
+
+Violet Teacher is a teacher gradebook and student grade portal of my own design. Students and teachers can both create accounts and login. Teachers can create courses and students can enroll in courses. I had grand plans for this project, too much to be completed within the extended weekend. The most valuable lessons I took away from this project were working iteratively by beginning with a minimum viable product and that people in tech have opinions but there is often more than one way to accomplish a goal (with the idea of tradeoffs in functionality / implementation). When implementing users, I didn't think it made sense to have one users table for students and teachers since they had very different attributes. In talking with others about the problem, I was able to explore tradeoffs and decided on separate teacher and student tables.
+
 
 ## C: Group Work & Projects
 
