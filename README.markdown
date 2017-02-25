@@ -31,23 +31,28 @@ A submission summarizes your accomplishments in these key areas:
 
 ### Module 1 (Front-end)
 
-* Pentathlon
+Your promotion to the next module is based upon a summative assessment coined the Pentathlon. The Pentathlon includes:
   1. Individual Coding Challenge-A: Passing Score (All 3's) required
   2. Individual Coding Challenge-B: Passing Score (All 3's) required
-  3. Comprehensive Quizlette
+  3. Comprehensive Quizlette: Passing Score 80%
   4. Final Project (Static Comp Challenge #3) -- Passing Score (All 3's) required
   5. Completed Portfolio
-* Included Projects:
+  
+Your completed portfolio is comprised of the following material:
+
+* Course Projects:
  * Linked List
  * Number Guesser
  * Idea Box
  * 2DoBox Pivot
+ 
 * Professional Development:
   * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
   * Feedback: Paragraph; Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
+  
 * Community:
   * A recap of reflections from Gear Up
-
+  
 ### Module 2 (Back-end)
 
 * Evaluation notes - You need to take notes during assessments/evaluations
