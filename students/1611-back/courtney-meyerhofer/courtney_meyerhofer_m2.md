@@ -160,6 +160,10 @@ My main takeaway from this session was the idea that an interview with a company
 
 (takeaways from session)
 
+#### Reflection on Project Management Strategies
+
+During Bike Share, I was the project manager and some strategies we used included a shared Google spreadsheet timeline, [Waffle](https://www.waffle.io), daily standups and retros, Slack mesaging, and an agreed-upon git workflow. I found the timeline helpful to keep us on track with deadlines and the end goal of the project. Waffle cards were useful to have a visual representation of the tasks and breaking them into smaller issues, and we made use of the assignment feature of the cards to keep track of what needs to be done. I think a lot of our pull requests during bike share were a formality and weren't appropriately used as a tool for communication & code review. In contrast, during Little Shop, pull requests were used in a way that brought a lot of value to our codebase. We used rebasing to craft a commit history and performed code reviews where we asked questions of each other and instructors to make our code the best it could be. 
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
