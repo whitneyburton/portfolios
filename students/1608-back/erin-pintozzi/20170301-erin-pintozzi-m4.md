@@ -29,14 +29,14 @@ I maintained a google doc to track the new things I tried and participated in to
 ## A: End of Module Assessment
 
 (Notes & scores from your assessment rubric)
-
+<!-- TODO -->
 
 ## B: Individual Work & Projects
 
 The following individual projects were not completed as a group/partnership but rather as an individual effort.
 
 #### Open Source Contributions
-
+<!-- TODO -->
 *   [Link to PR]()
 *   [Link to blog]()
 *   [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
@@ -55,7 +55,7 @@ The following projects were completed as a group/partnership.
 *   [GitHub URL](https://github.com/dshinzie/quantified-self)
 *   [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
 
-(description)
+Quantified Self is a application that tracks exercise and meal calories for each day to help users achieve a healthier life.
 
 Assessed By: Jeff
 
@@ -97,6 +97,8 @@ Notes:
 
 - 4: Team is using a project management tool and updating their progress daily. It's hard to misinterpret user stories
 
+### Feedback
+<!-- TODO -->
 (feedback to me)
 
 #### Ripped/Code of Arms
@@ -106,7 +108,7 @@ Notes:
 
 Code of Arms is an Exercism-like application for the Turing School of Software and Design to help students practice coding and instructors give feedback in a streamlined manner.
 
-##### First Check-in
+#### First Check-in
 
 Reviewer: Mike
 
@@ -126,14 +128,17 @@ Reviewer: Mike
 
 * 3: Project has implemented one major technique from the previous two weeks of academic classes.
 
-##### Second Check-in
+#### Second Check-in
+<!-- TODO: Need scores -->
 
+### Feedback
 (feedback to me)
 
 #### Joust
 
 *   [GitHub URL](https://github.com/NZenitram/joust)
 
+<!-- TODO -->
 (description)
 
 (evaluation comments)
@@ -180,7 +185,7 @@ How I'll achieve this:
 	* Cold outreach
 	* Give lightening talks or a talk at a meetup
 	* Go to meetups and just get to know people; I don't think my "practice" has to be limited to my work team
-		§ This will also help me learn about new potential opportunities in case a shift to team lead doesn't exist at my first company
+		* This will also help me learn about new potential opportunities in case a shift to team lead doesn't exist at my first company
 	* Write a blog or anything that helps me feel confident and authoritative on a technical subject
 	* I would like to support my cohort-mates however they need it. Everyone is different so what sounds like good support to me may not be the same for someone else.
 		* I would love to someday be the person that introduces someone to their new awesome job because of the network I've been able to build
@@ -189,11 +194,11 @@ How I'll achieve this:
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
-
+<!-- TODO -->
 (feedback from me)
 
 ### Being a Community Member
-
+ <!-- TODO -->
 (feedback to me)
 
 ### Playing a Part
