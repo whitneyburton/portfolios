@@ -172,7 +172,19 @@ I had some fairly inconclusive takeaways from this session. I don't think it's a
 #### Strengthsfinder session
 * [Link to Session](https://github.com/turingschool/professional_skills/blob/master/strengths_finder/mod4_strengthsfinder_small_group.md)
 
-(takeaways from session)
+Vision Statement: In the next year, I will pursue my career goal of moving out of a junior role in to a non-junior role and begin/continue preparing myself for a team lead position in the future. By using my deliberative and discipline strengths,  I will channel my energy in to finding opportunities, avoiding pitfalls, and learning continuously.
+
+How I'll achieve this: 	
+* Practice being comfortable in my shoes. I feel like I'm growing out of my imposter syndrome here but I'm not confident that that'll stick with me in to the job, especially in a field where it seems women kind of get the short end of the stick sometimes. If I want to make it to a team lead position I will need to practice being a leader, having opinions and healthy disagreements in addition to just making valuable code contributions.
+* To get there I can:
+	* Cold outreach
+	* Give lightening talks or a talk at a meetup
+	* Go to meetups and just get to know people; I don't think my "practice" has to be limited to my work team
+		§ This will also help me learn about new potential opportunities in case a shift to team lead doesn't exist at my first company
+	* Write a blog or anything that helps me feel confident and authoritative on a technical subject
+	* I would like to support my cohort-mates however they need it. Everyone is different so what sounds like good support to me may not be the same for someone else.
+		* I would love to someday be the person that introduces someone to their new awesome job because of the network I've been able to build
+
 
 ## E: Feedback and Community Participation
 
