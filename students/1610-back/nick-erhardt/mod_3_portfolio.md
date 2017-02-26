@@ -90,7 +90,7 @@ Subjective evaluation will be made on your work/process according to the followi
 #### StravaCurious (ungraded)
 
 * [Strava Curious GitHub repo](https://github.com/ski-climb/strava_curious)
-* [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
+* [API Curious Assignment](http://backend.turing.io/module3/projects/apicurious)
 
 The focus of this project was to consume an external API, and to authorize via OAuth with an external service.  I chose the Strava API because I love everything to do with riding, running, tracking data, presenting data, and maps.  It was shockingly satisfying to query the API for data and not worry about saving any of it to the database (save for some user data).  I used VCR to test the functionality of the API requests.  This was also a test run for the API that I had my eye on for a personal project.  
 
@@ -103,8 +103,8 @@ Rales Engine and Cloney Island (AirBnB / PadCrash) were my group projects this m
 
 #### Rales Engine
 
-* (Rales Engine GitHub repo)[https://github.com/ski-climb/rales_engine]
-* (Original Assignment)[https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md]
+* [Rales Engine GitHub repo](https://github.com/ski-climb/rales_engine)
+* [Rales Engine Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
 
 It's all about the data.  The focus of this project was to build an API and provide data from the database in an ordered format.
 
@@ -143,8 +143,8 @@ Students: Nick Erhardt & Kyle
 
 #### Cloney Island (AirBnB / PadCrash)
 
-* (PadCrash GitHub repo)[https://github.com/tmikeschu/air_bnb_clone]
-* (Original Assignment)[http://backend.turing.io/module3/projects/cloney_island]
+* [PadCrash GitHub repo](https://github.com/tmikeschu/air_bnb_clone)
+* [Cloney Island Assignment](http://backend.turing.io/module3/projects/cloney_island)
 
 PadCrash was a great opportunity to see what we could build in Rails now that we are comfortable with the basics.  For the first time we had only a rough idea of what we were building, with much less direction that previous projects.  It was a definite switch from the more tighly guided projects we had done in the past.  The time commitment up front to plan, create stories, discuss options, and decide on how to proceed was evident from the get go.  But the practice of going through that as a group helped our team make tremendous progress later on once we gained traction.  
 
@@ -199,7 +199,7 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 ### Gear Up
 #### (Session Name)
 
-* [GitHub URL]()
+* [title](link)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
