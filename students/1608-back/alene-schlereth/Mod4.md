@@ -92,12 +92,6 @@ Code generally well written and well factored.
 ## D: Professional Skills
 
 ### Gear Up
-#### Universal Basic Income
-
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
-
-There are lots of complexities here. We discussed what this would look like across the country with such a variance in cost of living. We also discussed how some of the options in laying it out would not in the end fix income inequality and poverty. It was also important to think about what happens if people are out of work, how does this impact their self worth. 
-
 #### Tradgedy of the Commons 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
@@ -108,7 +102,13 @@ I really liked the triangle/square exercise. There was someone in my group who d
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-Automation is likely inevitable. It was interesting to hear how different people thought about what it means for the future. There were a couple folks in my group/room who were fairly outspoken about a couple set ideas, which hindered conversation a bit. 
+Automation is likely inevitable. It was interesting to hear how different people thought about what it means for the future. There were a couple folks in my group/room who were fairly outspoken about a couple set ideas, which hindered conversation a bit.   
+
+#### Universal Basic Income
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+
+There are lots of complexities here. We discussed what this would look like across the country with such a variance in cost of living. We also discussed how some of the options in laying it out would not in the end fix income inequality and poverty. It was also important to think about what happens if people are out of work, how does this impact their self worth. 
 
 ### Professional Development Workshops  
 
@@ -132,11 +132,16 @@ Automation is likely inevitable. It was interesting to hear how different people
 from Ben:   
 Ali is an amazing partner. Her grasp of JQuery and Javascript is stunning. She made Quantified Self far more tolerable and her enthusiasm when something finally worked was refreshing. Ali is more than capable as a programer and as a member of any team that she has been or will be a part of.
 
-### Playing a Part
+ ### Playing a Part  
+
+[Open Source Blog Post](https://medium.com/@ali_schlereth/the-power-of-building-88745d0da977#.ra16jbc5z)
+
 
 Pahlka Posse:
 * Efforts toward Pahlka Posse continuing after the current four Mod4 folks graduate. We revamped a bit of how Spikes and our weekly lunch work to be more inclusive and build relationships. Personally this mod, I focused on stepping back as a leader and supporting the current leaders to ensure Pahlka's continued success. 
-* Continued to build 
+* Continued to build out Edualize's backend.  We built a PDF scraper, loaded it into a DB and built an API endpoint for our frontend (and anyone else who finds it and wants to use some state by state school funding data) team to use in a React Leaflet app. 
+* Supported fellow Pahlka students through pairing. Taught one frontend group about SQL - creating, inserting, selecting, etc and how to access it.
+* Lead a spike on Intro to Civic tech, describing Civic Tech and sharing resources. Exploring current projects out there. Discussed what makes a quality data source (tricky subject w/ lots of opinions)
 
 ------------------
 
