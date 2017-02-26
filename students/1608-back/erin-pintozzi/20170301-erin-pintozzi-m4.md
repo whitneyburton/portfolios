@@ -9,20 +9,20 @@ Continuation of Mod 1, 2, & 3 goal: The purpose of this goal is to encourage mys
 
 ##### Result
 I maintained a google doc to track the new things I tried and participated in to reach this goal:
-* Volunteer as a prework guide
+* Volunteer as a pre-work guide
 * Led a Friday Spike on Project Management
 * Co-led a workshop for the Women in STEM series
-* Joined the "Pairing" channel to find new opportunities to help "younger" mods be successful at Turing
+* Joined the "Pairing" channel to find new opportunities to help "younger" mods be successful at Turing (and then paired with People)
 * Blog/document my personal project process (in progress)
 *
 
 ## Rubric Scores
 
 *   **A: End-of-Module Assessment**: X
-*   **B: Individual Work & Projects**: X
+*   **B: Individual Work & Projects**: 3
 *   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -43,9 +43,6 @@ The following individual projects were not completed as a group/partnership but 
 
 (description)
 
-(evaluation comments)
-
-(evaluation scores)
 
 ## C: Group Work & Projects
 
@@ -60,29 +57,82 @@ The following projects were completed as a group/partnership.
 
 (description)
 
-(evaluation comments)
+Assessed By: Jeff
 
-(evaluation scores)
+Notes:
+
+* Tracker indicates all expected features are delivered
+* user experience is pretty solid
+* Day navigation and persistence works
+* Log stays accurate with changes, edits, deletions
+* Testing looks really good
+* Look out for little things like target/verify based on CSS classes rather than specific values
+* Experiment with dynamic ID generation in your view rendering to allow for targeting on identity rather than hierarchy (nth-child)
+* JavaScript implementation style is beautiful
+* Good job isolating the ugly/unpleasant parts and keeping them away from the good stuff
+
+## Rubric
+
+### Functional Expectations
+
+- 3: Application has all functionality, but some bugs or strange behavior where features intersect
+
+### Testing
+
+- 4: All functionality is covered by tests. Tests can be run both in the browser and terminal. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests
+
+### HTML/CSS/UI
+
+- 3: Application is not confusing to use. HTML Classes and IDs are kebab case.
+
+### JS syntax and Style
+
+- 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
+
+### Git Workflow
+
+- 4: Team uses Uses master for production, develop as the current state of development and feature branches for individual work. Team is using pull requests with good context and conversation
+
+### Project Management
+
+- 4: Team is using a project management tool and updating their progress daily. It's hard to misinterpret user stories
 
 (feedback to me)
 
 #### Ripped/Code of Arms
 
 *   [GitHub URL](https://github.com/turingschool-projects/ripped)
-*   [Original Assignment]()
 
-(description)
 
-(evaluation comments)
+Code of Arms is an Exercism-like application for the Turing School of Software and Design to help students practice coding and instructors give feedback in a streamlined manner.
 
-(evaluation scores)
+##### First Check-in
+
+Reviewer: Mike
+
+### 1. Project Management
+
+* 4: Team is using a project management tool and updating their progress daily.
+
+### 2. Completion & Pace
+
+* 4: Team completed all stories scheduled for this checkpoint by the product owner and laid out future stories.
+
+### 3. Implementation Quality
+
+* 3.5: Project demonstrates solid code quality and MVC principles.
+
+### 4. Application of Techniques
+
+* 3: Project has implemented one major technique from the previous two weeks of academic classes.
+
+##### Second Check-in
 
 (feedback to me)
 
 #### Joust
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+*   [GitHub URL](https://github.com/NZenitram/joust)
 
 (description)
 
@@ -98,31 +148,29 @@ The professional skills sessions are an integral part of our Turing program beca
 ### Gear Up
 #### Tragedy of the Commons
 
-*   [GitHub URL]()
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-(takeaways from session)
+My biggest takeaway from this session was the idea that we define "likeness" wrong. 100% (or close to it) of people at Turing are "like me" because we all quit our jobs to come learn to code. We all like solving problems. I don't think "like me" is as one dimensional as gender or skin tone. That said I realize that things like gender, race, orientation are the types of things that tend to lead toward this type of segregation. I think a lot of that is based in ignorance and fear. If we all tried to find "like" things in each other, I bet we'd be surprised.
 
 #### Automation
 
-*   [GitHub URL]()
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-(takeaways from session)
+My big takeaway from this session was thinking about what automation means for me, my peers, and my neighbors (aka "the world"). It reminds me of the book _Player Piano_ by Vonnegut. The hardest question to answer, to me, isn't about income, it's "what happens when there's nothing I can do to contribute to society?" One of the biggest reasons I came to Turing is that I wanted a better challenge in my career and for myself and my growth. If there isn't a job for me or anyone, what do we do? How do we stay challenged and remain interested in anything? Money is the least of my worries. What a horrible boring life to have no purpose.
 
-#### (Session Name)
+#### Universal Basic Income
 
-*   [GitHub URL]()
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
-(takeaways from session)
-
-### PROtocol
-#### (Session Name)
-
-*   [Link to Completed Deliverables]()
+I had some fairly inconclusive takeaways from this session. I don't think it's a novel idea. It's just another variation of welfare (which I do think is necessary and generally good). I think another solution, and probably better one, is figuring out how to provide "necessities" for less: healthcare, housing, and food. And frankly, I don't think it's a one or the other. Why not try and marry both of those ideas together? Once topic that came up was the "freeloading" of people who won't work because they don't have to. I think that misses the point. I think everyone should have a right to basic necessities. My taxes are what they are because I had the privilege and opportunity to go to school and get a job that I like. Taxes are necessary for many things, including helping our neighbors, and I don't feel bad about that.
 
 ### Professional Development Workshops
 #### Professional Development Deliverables
 
 *   [Link to Completed Deliverables](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1608-b/erin_pintozzi.md)
+
+#### Strengthsfinder session
+* [Link to Session](https://github.com/turingschool/professional_skills/blob/master/strengths_finder/mod4_strengthsfinder_small_group.md)
 
 (takeaways from session)
 
@@ -138,7 +186,7 @@ The professional skills sessions are an integral part of our Turing program beca
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+[Link to Community Requirement Deliverables Summary](https://gist.github.com/epintozzi/1d5a4fe362de681e2c075fade3c41748)
 
 ------------------
 
