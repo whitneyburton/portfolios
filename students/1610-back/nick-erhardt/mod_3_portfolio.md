@@ -89,8 +89,8 @@ Subjective evaluation will be made on your work/process according to the followi
 
 #### StravaCurious (ungraded)
 
-* (Strava Curious GitHub repo)[https://github.com/ski-climb/strava_curious]
-* (Original Assignment)[http://backend.turing.io/module3/projects/apicurious]
+* [https://github.com/ski-climb/strava_curious](Strava Curious GitHub repo)
+* [http://backend.turing.io/module3/projects/apicurious](Original Assignment)
 
 The focus of this project was to consume an external API, and to authorize via OAuth with an external service.  I chose the Strava API because I love everything to do with riding, running, tracking data, presenting data, and maps.  It was shockingly satisfying to query the API for data and not worry about saving any of it to the database (save for some user data).  I used VCR to test the functionality of the API requests.  This was also a test run for the API that I had my eye on for a personal project.  
 
