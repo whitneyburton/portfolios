@@ -14,7 +14,7 @@ I maintained a google doc to track the new things I tried and participated in to
 * Co-led a workshop for the Women in STEM series
 * Joined the "Pairing" channel to find new opportunities to help "younger" mods be successful at Turing (and then paired with People)
 * Blog/document my personal project process (in progress)
-*
+* Joined several meetup groups in Los Angeles to begin my networking before I move
 
 ## Rubric Scores
 
@@ -183,7 +183,7 @@ How I'll achieve this:
 * Practice being comfortable in my shoes. I feel like I'm growing out of my imposter syndrome here but I'm not confident that that'll stick with me in to the job, especially in a field where it seems women kind of get the short end of the stick sometimes. If I want to make it to a team lead position I will need to practice being a leader, having opinions and healthy disagreements in addition to just making valuable code contributions.
 * To get there I can:
 	* Cold outreach
-	* Give lightening talks or a talk at a meetup
+	* Give lightning talks or a talk at a meetup
 	* Go to meetups and just get to know people; I don't think my "practice" has to be limited to my work team
 		* This will also help me learn about new potential opportunities in case a shift to team lead doesn't exist at my first company
 	* Write a blog or anything that helps me feel confident and authoritative on a technical subject
