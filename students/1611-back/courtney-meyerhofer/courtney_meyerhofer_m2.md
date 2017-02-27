@@ -123,7 +123,7 @@ I think having subconscious bias about the demographic of a technical team is da
 
 I think giving people opportunities to reflect on when they've encountered bias personally will help them consider how they can have less bias. Also using tools that help remove sources of unconscious bias like changing names, removing pictures, etc.
 
-I don't think it's very effective in changing people's opinions, as it didn't change mine. I would like to see some evidence in support of the idea that 1/3 of peple....The visualization is interesting, but I don't understand why natural segregation is a bad idea if it actually occurs. People who are similar often have similar values and it's part of our evolutionary biology to be with people who are like us. It makes us feel safe and safety leads to survival. Complicit segregation should never be enforced, but neither should complicit diversity. As long as someone isn't harmig someone else, we can't enforce these norms in good conscience with respect to the freedom of the individual.
+I don't think this visualization is very effective in changing people's opinions, as it didn't change mine. I would like to see some evidence in support of the idea that 1/3 of peple....The visualization is interesting, but I don't understand why natural segregation is a bad idea if it actually occurs. People who are similar often have similar values and it's part of our evolutionary biology to be with people who are like us. It makes us feel safe and safety breeds to survival. Complicit segregation should never be enforced, but neither should complicit diversity. As long as someone isn't harmig someone else, we can't enforce these norms in good conscience with respect to the freedom of the individual.
 
 #### Debugging the Gender Gap
 
@@ -173,7 +173,7 @@ During my portfolio review at the end of module 1, some feedback I received from
 
 ### Playing a Part
 
-In order to participate in the community, I made myself available to module 1 students for pairing and was co-ran two spikes with Max Glassie.
+I paired with module 1 students twice per week and general made myself available to members of my cohort. With Max Glassie, I co-hosted two spike workshops: recursion fundamentals and how interpreters work. 
 
 ------------------
 
