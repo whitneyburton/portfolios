@@ -71,6 +71,13 @@ Linked List is a page where users can add and delete links to their favorite sit
 
 Idea Box was very similar to linked list, but allowed the ideas to persist based on utilizing local storage.
 
+### ToDo Box Pivot
+
+* [GitHub URL](https://github.com/JohnBinning/2DoBox-pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+With ToDo Box, we took another group's Idea Box and pivoted it into a new site.  ToDo box could filter ToDo's level of importance, and completed ideas could be recalled.  We used Selenium testing, and had to refactor the old code as well.
+
 ## D: Professional Skills
 (Intro)
 
@@ -100,7 +107,9 @@ It's interesting to look back on the first gear up of the mod now that we are at
 
 ### Giving Feedback
 
-(feedback from me)
+For Justyna Field, linked-list partner:
+
+Working with Justyna was great.  We had wonderful give and take, and we agreed up front that no one would fall behind.  I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me.  Our communication was excellent, and we were consequently able to stop any arguments before they even started.  I would be happy to work with her again.
 
 ### Being a Community Member
 
