@@ -82,11 +82,13 @@ With ToDo Box, we took another group's Idea Box and pivoted it into a new site. 
 (Intro)
 
 ### Gear Up
-#### (Growth Mindset)
+#### Growth Mindset
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
 It's interesting to look back on the first gear up of the mod now that we are at the end.  I can say that I have had some pretty strong moments of having having both a fixed and a growth mindset.  It has been valuable to be able to recognize what is happening during times of having a fixed mindset, and taking steps to switch back to growth.  I think this session has been and will continue to be valuable to me as I work my way through the highs and lows of Turing.
+
+#### Debugging the Gender Gap
 
 
 ### PROtocol
