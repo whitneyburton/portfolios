@@ -37,7 +37,7 @@ Your promotion to the next module is based upon a summative assessment coined th
   3. Final Project (Static Comp Challenge #3) -- Passing Score (All 3's) required
   4. Comprehensive Quizlette: Passing Score (80% correct answers) required
   5. Completed Portfolio
-  
+
 Your completed portfolio is comprised of the following required material:
 
 * Course Projects:
@@ -45,16 +45,16 @@ Your completed portfolio is comprised of the following required material:
  * Number Guesser
  * Idea Box
  * 2DoBox Pivot
- 
+
 * Professional Development:
   * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
   * Feedback: Paragraph; Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
-  
+
 * Community:
   * A recap of reflections from Gear Up
-  
+
 You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of those evaluations and in advance of portfolio reviews.
-  
+
 ### Module 2 (Back-end)
 
 * Evaluation notes - You need to take notes during assessments/evaluations
@@ -78,7 +78,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
       * Values/Goals/Mission in life
       * Preferred places to live
       * Preferred salary and level of responsibility
-   * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor. 
+   * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor.
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -100,7 +100,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
     * Values/Goals/Mission in life
     * Preferred places to live
     * Preferred salary and level of responsibility
-  * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor. 
+  * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor.
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -137,12 +137,12 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
     * Preferred places to live
     * Preferred salary and level of responsibility
   * Reflection of how to be successful in interviews
-    
+
   To send to Meg (via email at [mstewart@turing.io](mail:to) )
   * Link to completed Turing portfolio
-  * Job search action plan for M4 
+  * Job search action plan for M4
   * Link to Trello board (add Meg to this if you haven't already)
-  
+
 * Community:
   * A recap of reflections from Gear Up
 
@@ -155,13 +155,13 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Community:
   * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
-  
+
  Complete and document 2 of the following:
   * Lead or co-lead a Friday Spike
   * Deliver any session at a meetup or conference
   * Pair three or more times with students in lower modules
   * Contribute in a meaningful way to project of a student/team not in your module
-  
+
  *Professional Development does not need to be included in the portfolio. Deliverables and submission guidelines are [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
 
 ### Module 4 (Front-end)
@@ -173,17 +173,11 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 *PD deliverables should be submitted via email to Meg at [mstewart@turing.io](mail:to)*
   * Synopsis of six cold outreach emails sent. [Use these guidelines for your synopsis](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md)
   * Documentation of participation in actual interview or practice interview
-  
+
 * Community:
   * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
   
- Complete and document 2 of the following:
-  * Lead or co-lead a Friday Spike
-  * Deliver any session at a meetup or conference
-  * Pair three or more times with students in lower modules
-  * Contribute in a meaningful way to project of a student/team not in your module
-
 ## Submission Guidelines
 
 A pull request with your submission must be made at least 12 hours before your
