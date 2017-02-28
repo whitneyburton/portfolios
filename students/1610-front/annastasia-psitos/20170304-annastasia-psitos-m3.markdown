@@ -21,8 +21,6 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
-
 ### PreWork
 Deliverables:
 - Write up a summary of the pieces you completed.
@@ -68,8 +66,6 @@ Notes: A bit light on the feature implementation as we ran into some bugs that p
 
 ### Projects
 
-(Intro)
-
 #### Redux Weather Project
 
 *   [GitHub URL](https://github.com/bekahlundy/redux-weather-app)
@@ -83,38 +79,65 @@ Notes: A bit light on the feature implementation as we ran into some bugs that p
 
 (feedback to me)
 
+#### remEMBER
+
+* [GitHub URL](https://github.com/turingschool/portfolios)
+* [Original Assignment](http://frontend.turing.io/projects/remember.html)
+
+This project was to teach us Ember and better GitHub workflow. As you well know, I do not like Ember. It was very difficult to keep track of where things needed to be and why. I'm glad of the exposure to it, but I do not think it needed to be such a long project. Part of that, though, was that there should be three people approving PRs. It's too much work for just two. (In fact, Buss and I still have a PR outstanding. And we had other functionality waiting!)
+
 ## D: Professional Skills
-(Intro)
+
+### Personal Project
+#### Restaurant Locator
+#### Pitch
+
+This is an app that will help you choose a restaurant based on your location when you can’t make a decision.
+
+#### Problem
+
+Denver has a lot of good restaurants. Sometimes there are too many to choose from, you’re new to town, or your dining companions can’t agree.
+
+#### Solution
+
+This app will use the Google Places API to search for restaurants nearby, based on your geolocation. It will then randomly select one and display the result.
+
+#### Target Audience
+
+This app can be used by anyone who can occasionally be overcome by decision fatigue.
+
+###(Flower Exercise)[https://gist.github.com/apsitos/aa6269d0fbcbd3eab46af6ad4152f31d]
 
 ### Gear Up
 #### (Session Name)
 
-*   [GitHub URL]()
+* [Commonality Gear Up](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+1. If at least 1/3 of hires are more like their hiring manager, it could increase diversity, but not by much
+2. Diversity quotas are a good way to start. By bringing in those who are competent, but not like the majority, you can teach tolerance and understanding. However it is very difficult to react the quota immediately and the minorities hired at the beginning might feel very isolated. This could cause quotas to be unattainable if the isolation remains too long: minorities will not want to remain in their positions.
+3. Not teaching bias and hate would be an excellent start to improving diversity.
+4. It is important for Turing to seek to include those who are not like us as individuals. It is also important to take an active role in discouraging bias.
 
-(takeaways from session)
+* Automation Gear Up Markdown is definitely not the same one we looked at. I believe we just watched two videos and discussed them as a group, therefore there are no notes.
 
-### PROtocol
-#### (Session Name)
+* [UBI Gear Up](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
-*   [Link to Completed Deliverables]()
+As we become more technologically advanced, more people will lose their jobs to automation. What few manufacturing jobs are left will in turn just become people who oversee the machines, until machines can oversee the machines. As a result, there will be more and more people who are unemployed and unable to be employed.
 
-### Professional Development Workshops
-#### (Session Name)
-
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
-
-(takeaways from session)
+UBI isn’t a foregone conclusion, as there are large political hurdles to cross, but it will be important to figure out what is going to happen to the people who lose their jobs to technology. But society at large needs to be educated about the reasons for UBI and what automation is doing for jobs.
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+Staci was instrumental in helping me retake headshots so I could update all my personal sites and my alumni profile. I do not enjoy having my photo taken, but she was supportive and encouraging and I was very pleased with the results. She has also been excellent emotional support when I've been having difficulty with classwork and the stress seems to get to me.
+
+Bekah and I worked together on the weather redux project. She isn't afraid to try things when she doesn't know the answer and is also a good researcher. We only paired a few times on this project, but I enjoyed working with her. When I was having difficulties with our third team member she was encouraging of my dealing head on with the issue. My only suggestion to her would be to trust her own knowledge. Bekah knows quite a lot and is a very good programmer, but as with many of us, doesn't always trust that she knows what she knows.
 
 ### Being a Community Member
 
-(feedback to me)
+I worked on the redux weather app with Anna. Anna was a very hard worker and is very good at researching and learning about the topics in our project. Anna and I only paired a few times on this project. Anna is very open, which is helpful for when I make mistakes. The only advice or constructive criticism I could give you is to try to open to others opinions and thoughts, and to speak up right away if you do not feel that you are being heard. That way, we can solve problems very early on! I am glad we got to work together this mod! - Bekah Lundy
+
+Anna was an amazing support to me in Mod-1 and continues to be throughout the program. She goes out of her way to be available to me when I need help. She has also been my ear and emotional support to help me through Turing. I don't think I could make it this far without her! She is always encouraging, honest, knowledgeable and kind. - Staci McWilliams
 
 ### Playing a Part
 
