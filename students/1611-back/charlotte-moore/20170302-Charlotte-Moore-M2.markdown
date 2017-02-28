@@ -1,4 +1,4 @@
-# Charlotte Moore - M1 Portfolio
+# Charlotte Moore - M2 Portfolio
 
 ## Areas of Emphasis
 
@@ -58,20 +58,32 @@ Subjective evaluation will be made on your work/process according to the followi
 
 ### Rails Mini-Project
 
-Repo: https://github.com/CjMoore/path_minder
+* [Mini-Project Repo](https://github.com/CjMoore/path_minder)
 
-Original Assignment: http://backend.turing.io/module2/projects/mini-project
+* [Original Assignment](http://backend.turing.io/module2/projects/mini-project)
 
 This was the first project where we were able to come up with our own idea and be creative with rails. I chose to build an app that was based on a need I encountered while playing the game Pathfinder. In this app, I used one-to-many and many-to-many relationships to provide the user with a quick reference for combat scenarios. The app is intended to be a tool for the Game Master, and allow him/her to keep track of character and creature stats in individual combat scenarios. The most valuable thing I took away from this project was from working through the process of creating an app from an idea. When I started this project I was over ambitious and as I worked through it I had to figure out where I could cut back. I learned a lot about my own limitations as well as strengths. 
 
 
 ### Mix-Master
 
-Repo: https://github.com/CjMoore/mix_master
+* [Mix-Master Repo](https://github.com/CjMoore/mix_master)
 
-Original Assignment: http://backend.turing.io/module2/projects/mix_master/1_getting_started
+* [Original Assignment](http://backend.turing.io/module2/projects/mix_master/1_getting_started)
 
 In this project we built an app that used one-to-one and many-to-many relationships between tracks albums and artists. The structure of this project was that of a tutorial. It walked us through how to build a rails app using TDD. The most valuable thing I took away from this project was learning how to follow errors to produce functionality. At first the order in which the tests pushed functionality was uncomfortable. I wanted to do things in an order that made more sense to me. This would mean building the migrations and models first. Forcing myself to follow errors was really valuable, as I learned that they can help me create functionality that I didn't immediately know how to produce. I've continued to use this strategy which has been incredibly helpful. 
+
+### Personal Website
+
+* [Website](CjMoore.github.io)
+* [Repo](https://github.com/CjMoore/CjMoore.github.io)
+* [Blog Post](https://cjmoore.github.io/blog.html)
+
+### One Nation Many Voices
+
+* [ONMV-Backend Repo](https://github.com/One-Nation-Many-Voices/ONMV-backend)
+
+This mod I had the opportunity to work with two Mod 4 front-end students, Christine Gamble and Chelsea Skovgaard, as well as Casey and Katy, on a project called One Nation Many Voices. The app is intended to be a tool for civic engagement and protesting. The end goal is an app that takes information about protests and civil actions from facebook, meetup, and twitter and puts them in one place. Ideally the user would be able to search for events in their area by category and save the event to a calendar. When we began this project we knew that we didn't have the knowledge or experience to produce all the desired functionality, so we broke it down into a manageable goal. We used a live google doc that lists Town Hall meetings and office hours with Senators and Congressmen and were able to seed it into a database of events. We were then able to create end-points for Christine and Chelsea to hit and do their front-end magic. I learned an incredible amount from doing this project. When we began I had absolutely no concept of how front-end and back-end interacted with eachother, and wouldn't have been able to tell you what an API is. I feel much more comfortable going into Mod 3 with the knowledge gained through this project. 
 
 ## C: Group Work & Projects
 
@@ -110,26 +122,24 @@ Assessed by: Sal
 
 * 3: Good use of branches, pull requests, and a project-management tool.
 
+## D: Professional Development
 
-## D: Professional Skills
+### Project Management
 
-### Professional Development
+### Feedback
 
-#### Project Management
+### Flower Exercise
 
-#### Feedback
+### Mentor 
 
-#### Flower Exercise
+## Community
 
-#### Mentor 
+### Tragedy of the Commons
 
-### Gear Up
+### Debugging the Gender Gap
 
+### Universal Basic Income
 
-## Feedback I
+## E: Feedback
 
-## E: Feedback and Community Participation
-
-
-### Playing a Part
 
