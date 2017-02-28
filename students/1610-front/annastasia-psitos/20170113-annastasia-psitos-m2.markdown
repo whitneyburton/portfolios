@@ -260,6 +260,7 @@ Anna is great to work with! She's a hard worker, open communicator and asks grea
 
 I worked with Anna on our first project, ToDo Box Pivot, and I thought it was a success. She seemed to have struggled a bit in mod 1 but upon working with her in mod 2, she seemed to have put in the hours and was really understanding the material. As a result she was willing and able to complete the features she took on. She also did a very good job communicating, not only with her ideas but with explaining me into the project. It took no time at all to sit down with her and get my brain into her code. One thing I did find a little frustrating was on the final day before the project was due, you weren't able to make it in. I think at some point you mentioned that you had a prior engagement but I didn't remember that until the day of. Another reminder would have been welcome so that we could have made arrangements to complete the project before that last day. Other than that, solid project. It was a pleasure working with you. - Josh S
 
+The thing I found most helpful about pairing with you was how you helped me slow down and break things into smaller chunks. You really kept me from getting ahead of myself. - Julian Kyer (1611)
 
 ### Playing a Part
 
