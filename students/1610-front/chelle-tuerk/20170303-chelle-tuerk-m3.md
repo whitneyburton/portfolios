@@ -253,9 +253,7 @@ Matt and I worked on the UX/UI Challenge together.  I didn't know just how serio
 
 ### Playing a Part
 
-My role in supporting Turing bleeds into everything I do.  I eat, sleep, and breathe code and that is directly related to Turing.  I actually had an Engineer at Pandora reach out to me on LinkedIn asking for my thoughts, as his wife was considering applying.  I have nothing but praise for my school.  
-
-###### I attend Meetups and represent the Turing community and a member that 'shows up' and is proud to be a student at Turing.
+My role in supporting Turing bleeds into everything I do.  I eat, sleep, and breathe code and that is directly related to Turing.  I actually had an Engineer at Pandora reach out to me on LinkedIn asking for my thoughts, as his wife was considering applying.  I have nothing but praise for my school.  I attend Meetups and represent the Turing community and a member that 'shows up' and is proud to be a student at Turing. Lastly, my favorite way that supports Turing as a whole indirectly is attending Demo Nights.  It's amazing to see other students work and how they got there, thanks to Turing.
 ------------------
 
 ## Final Review
