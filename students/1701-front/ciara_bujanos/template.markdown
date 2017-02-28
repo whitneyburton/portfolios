@@ -2,9 +2,9 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+What did you set out to accomplish this module?
 
-(I set out to build on my fundamental HTML and CSS skills and develop working knowledge of JavaScript. JavaScript was entirely new to me coming into the program so I knew I would need to spend majority of my time focusing on it. A few weeks into the module it was apparent I needed a better understanding of it and how it ties in with HTML and CSS so I tried seeking out as much help as possible.)
+I set out to build on my fundamental HTML and CSS skills and develop working knowledge of JavaScript. JavaScript was entirely new to me coming into the program so I knew I would need to spend majority of my time focusing on it. A few weeks into the module it was apparent I needed a better understanding of it and how it ties in with HTML and CSS so I tried seeking out as much help as possible.
 
 ## Rubric Scores
 
@@ -27,7 +27,7 @@
 
 #### Number Guesser
 
-*   [https://github.com/buji405/number-guesser](GitHub URL)
+*   [GitHub URL](https://github.com/buji405/number-guesser)
 *   [http://frontend.turing.io/projects/number-guesser.html](Original Assignment)
 
 (description)
