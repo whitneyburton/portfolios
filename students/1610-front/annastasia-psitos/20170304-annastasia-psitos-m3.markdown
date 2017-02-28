@@ -71,13 +71,32 @@ Notes: A bit light on the feature implementation as we ran into some bugs that p
 *   [GitHub URL](https://github.com/bekahlundy/redux-weather-app)
 *   [Original Assignment](http://frontend.turing.io/projects/weather-forecast.html)
 
-(description)
 
-(evaluation comments)
+##### Specification Adherence  
 
-(evaluation scores)
+* 4: The application meets all of the requirements listed above and implements one or more of the extensions.
 
-(feedback to me)
+##### Redux Architecture
+
+* 3: At least one component is not connected with Redux appropriately. Application state is mutated by more than just Redux. The Redux store is missing application data that it should be handling.
+
+##### Routing
+
+* 4: Application is a single page and uses the React Router to display appropriate components based on URL.
+
+
+##### JavaScript Style
+
+* 3: Application is thoughtfully put together with some duplication and no major bugs. Group can speak to choices made in the code and knows what every line of code is doing.
+
+
+##### Testing
+
+* 3: Project has a running test suite that tests multiple levels but fails to cover some features.
+
+##### Workflow
+
+* 4: The group effectively uses different Git branches, submits pull requests and reviews each other’s code. The evolution of the application and who was responsible for what features is clearly documented through github.
 
 #### remEMBER
 
