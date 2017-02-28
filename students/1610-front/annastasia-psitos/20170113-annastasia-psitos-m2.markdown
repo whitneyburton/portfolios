@@ -2,7 +2,11 @@
 
 ## Areas of Emphasis
 
+<<<<<<< HEAD
 (What did you set out to accomplish this module?)
+=======
+Wanted to learn more and make sure that I had a better comprehension and grasp of foundations and felt comfortable in what I was doing. I felt I left mod 1 feeling slightly shakey and I wanted to make sure I focused on those things.
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 
 ## Rubric Scores
 
@@ -16,14 +20,28 @@
 
 ## A: End of Module Assessment
 
+<<<<<<< HEAD
 (Notes & scores from your assessment rubric)
 
+=======
+- 3: Developer is able to implement solutions at the speed of a junior developer.
+JavaScript Style
+- 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+Workflow
+- 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+Collaboration
+- 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 
 ## B: Individual Work & Projects
 
 (Intro)
 
+<<<<<<< HEAD
 #### (Project Name)
+=======
+#### Number Guesser
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 
 * [GitHub URL](https://github.com/apsitos/NumberGuesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser-in-react.html)
@@ -32,7 +50,11 @@
 #### Instructor: Jhun
 #### Comments:
 
+<<<<<<< HEAD
 # Rubric
+=======
+#### Rubric
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 
 #### Functional Expectations
 
@@ -50,14 +72,21 @@
 
 ### Projects
 
+<<<<<<< HEAD
 (Intro)
 
+=======
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 ### ToDo Box Pivot
 
 * [ToDo Box](https://github.com/apsitos/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot)
 
 #### Comments:
+<<<<<<< HEAD
+=======
+
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 - solid project
 - could use some refactoring and changing the for loops to a filter
 - look into changing switch statement to object or array.
@@ -74,7 +103,10 @@
 
 * 3.5 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 #### HTML Style
 
 * 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
@@ -129,7 +161,11 @@ Rubric
 
 #### JavaScript Style
 
+<<<<<<< HEAD
 * 3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+=======
+* 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 
 #### Testing
 
@@ -209,7 +245,10 @@ Rubric
 4 - Zero complaints
 
 ## D: Professional Development
+<<<<<<< HEAD
 (Intro)
+=======
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 
 ### Professional Development Workshops
 #### Finding Opportunities
@@ -234,7 +273,10 @@ I hope Sam gives a Spike session on Scrum! I think it would be very interesting 
 
 * This was a very interesting session. I think it helped to be able to recognize the kinds of triggers we might be feeling and the reasons behind them. I  will be re-reading the article over break to try and better comprehend them.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
@@ -255,13 +297,19 @@ I have paired with Anna multiple times over the past few weeks. In fact I find h
 
 Firstly, chatapp 1C-809 forever. AOL Instant Messenger won't know what hit em. I appreciate your level headed approach to the project, ability to analyze and troubleshoot through the development cycle, and your patience as I tried to solve little hiccups in the implementation. Your organization and scheduling was very efficient as well. I think we spent equal times driving the code along, which I appreciated as well. I can't think of an immediate area of improvement to suggest, you were a very well rounded pairing partner. -Dan G
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 Anna is great to work with! She's a hard worker, open communicator and asks great questions. She's not afraid to say when she doesn't know something and seeks to understand the answer as well as the process to get to it. Would gladly work with her again. Keep practicing. Keep pushing! - Mike L
 
 I worked with Anna on our first project, ToDo Box Pivot, and I thought it was a success. She seemed to have struggled a bit in mod 1 but upon working with her in mod 2, she seemed to have put in the hours and was really understanding the material. As a result she was willing and able to complete the features she took on. She also did a very good job communicating, not only with her ideas but with explaining me into the project. It took no time at all to sit down with her and get my brain into her code. One thing I did find a little frustrating was on the final day before the project was due, you weren't able to make it in. I think at some point you mentioned that you had a prior engagement but I didn't remember that until the day of. Another reminder would have been welcome so that we could have made arrangements to complete the project before that last day. Other than that, solid project. It was a pleasure working with you. - Josh S
 
+<<<<<<< HEAD
 The thing I found most helpful about pairing with you was how you helped me slow down and break things into smaller chunks. You really kept me from getting ahead of myself. - Julian Kyer (1611)
 
+=======
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
 ### Playing a Part
 
 Member of SAB, paired with some Mod 1 people
@@ -280,8 +328,22 @@ Grit - An interesting investigation. I know I have grit and resilience, though, 
 
 ### Notes
 
+<<<<<<< HEAD
 ( Leave blanks for reviewers )
 
 ### Outcome
 
 ( Leave blanks for reviewers )
+=======
+Build new features on a project, write stories - when the story is complete, run your linter, check your tests, refactor, commit - and repeat. Do exercisms and then compare your answer to 3 to 5 others.
+
+Do more reps, it's always good. 
+
+### Outcome
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 3
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878

@@ -187,6 +187,8 @@ Student participates in required activities and does at least one or two above-a
 * **E: Peer & Instructor Feedback**: 3  
  Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
 
+## Final Review
+
 ### Notes
 
 - Work on feeling more comfortable in a leadership role
