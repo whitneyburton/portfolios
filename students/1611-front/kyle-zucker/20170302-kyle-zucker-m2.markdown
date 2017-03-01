@@ -167,13 +167,20 @@ This workshop discussed the concept of UBI and consider the possibitlity of UBI 
 Favorite People to Work with: 
 - I enjoy most people, and feel working well with all is a better approach than trying to shelter yourself from people. Ultimately I prefer to work with folks with a similar drive in intensity and effort.
 
+Transferable skills: 
+- My communication skills work all over the place
 
+Favorite Working Conditions: 
+- I work best around good people
 
-PASTE 
-here are the results of my Flower Exercise 
+Prefered Pay and Responsibility: 
+- I don't care much about money, but I need a liveable wage. I'll take on any level responsibility
 
+Prefered Location: 
+- Denver or out-side US ideally. 
 
-
+My Values and Goals: 
+- I believe we are one organism on one planet. I'd like to share that view as I can. 
 
 
 ### Mentor
