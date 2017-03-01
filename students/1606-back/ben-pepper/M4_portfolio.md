@@ -8,7 +8,7 @@ I'll be honest, I had no idea what to expect this mod. I wanted to work with Jav
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Didn't finish. Doing the retake.
 
 ### Work
 
@@ -71,10 +71,37 @@ MentorSHIP is intended (when fully developed) to help students connect with ment
 
 This is an app thought up by Kris Foss of 1603.  We attend the same church and the messaging system for the Immigration Justice group is appalling and confusing. They are currently using Google forums. This leads to email chains that are long, confusing and lack any real ability to comprehend the needs of the community. She and I have been working on making a site which can be easier to user and navigate. Our hope is to make this the hub for all communications so the community can better understand its own needs.
 
+##### Instructor Feedback
+- Glad you're able to apply some of the security we've taught you
+- Glad you're working on a project for a real use
+- Seems like you've at least thought a little about security
+- Are the old people ok with that UI? Maybe Forums are natural for old people, because forums are old
+
 ## Community
 
 ### Personal Development Deliverables
 [The delieverable gist](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1608-b/ben_pepper.md)
+
+###Gear Up
+
+[Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+
+This is always a tricky subject for me. partly because in economic terms the Tragedy of the Commons is more about over using public resources, not how to make an inclusive society.  That being said, helping people understand one another is critical for any society to work properly. And I think showing the Parable of the Polygons was an important step in this mission.
+
+[Universal Basic Income](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+
+I mean who doesn't love free money. This was actually my senior thesis in undergrad so being able to discuss it was a joy for me. The one thing I learned was that people don't seem to understand how the money gets there. We can tax the rich, sure, but that then disincentivise them to work more after a certain point, thus reducing the size of the economic pie. Basic income seems more to be a stop gap in the march towards the next economic system then a permenant thing we will always have.
+
+[Turing Career Development: Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
+Well we're all screwed. Not really but that was the general feeling. Either it being that no one makes money and because of that no one can afford anything to machines are going to take over everything. Neither is true but thats whatever. Machines do one thing very well (whatever that is). and if no one is making money then everything will cost $0. thats just basic economics. It was fun to see the world from other people's perspectives given that I work for Tesla and have seen Auto Pilot grow up in the last 2 years.
+
+### PROtocol
+
+* Lead two spike sessions
+* Paired with three Mod 1 students
+* Helped a Mod 3 group understand why serializers are better.
+* Did a Tuesday Lightning Talk
 
 ### Giving Feedback
 
@@ -100,20 +127,28 @@ Vido, I know it can be frustrating taking steps back in a project. Its shitty to
 
 ### Being a Community Member
 
-(feedback to me)
+From Ali Schlereth:
 
-### Playing a Part
+Ben was a great partner. Coming in to Quantified Self, he was eager to learn all about JavaScript. We quickly hit an onboarding pattern of setting out a prototype (not the JS kind) and then he recreated it to help himself solidify the knowledge. Ben was determined to find solutions and a diligent worker. I think he would benefit from giving himself a bit more time to figure things out before seeking outside help. He was a great collaborator who listened as much as he spoke. Ben made for a great learning partner!  
 
-* Lead two spike sessions
-* Paired with three Mod 1 students
-* Helped a Mod 3 group understand why serializers are better.
-* Did a Tuesday Lightning Talk
+From Vido Seaver:
+
+Ben you're strong developer. You picks your cards and get it done. I’m shocked that you are being told to retake the final. It makes me think the whole thing is predetermined. You’re also great at giving feedback and you get the shit done you say he will. Your energy is a little frenetic  and I think you'd do well to slow down a little. I didn’t get to pair with you that much but when we did you was sharp, quick and on point.  I got a little frustrated with you in regards to the database design but that is water under bridge and you handled that quite well. I had a good time working with you and would gladly do it again.
+
+From Jon Kimble
+
+Ben it was great getting a chance to work with you during mod4, you were a stong teammate willing to take on hard techinical challenges and manage a signifigant portion of project.  Even when things got tough you kept working and moving our teams forward.  Thanks for all the great experiences and staying strong in mod4, I hope we get the chance to work together again in the future!
+
+From Megan Talbot:
+
+Ben was a great partner this module. We have worked together in the past, and I have always appreciated how easygoing he is. Ben is always eager to help and pitch in, which is such a great way to be. I know he felt a little burned out at times this module, but he always stayed committed to our group and project. I think he will be very successful in his career and I wish him all the best!
+
 
 ## Review
 
 ### Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 1
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Community Participation**: 3
