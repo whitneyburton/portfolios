@@ -19,11 +19,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## A: End of Module Assessment
 1. Conceptual Understanding
 
-  * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
   * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
-  * 2: Developer demonstrates some gaps in understanding when asked for additional detail
-  * 1: Developer has fundamental misconceptions about Rails, MVCs, the web, or related topics
-
+ 
 2. Analytic/Algorithmic Thinking
 
   * 3.5: Developer breaks complex problems into small, digestible steps and executes them with little assistance
