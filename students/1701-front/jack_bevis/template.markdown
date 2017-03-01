@@ -1,10 +1,10 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Jack Bevis - M1 Portfolio
 
-## Areas of Emphasis
+## Front-End Engineering
 
-(What did you set out to accomplish this module?)
+I decided to come to Turing because I wanted to gain a valuable new skill set and attempt to gain a career in front-end development. Prior to arriving at Turing I had some limited professional work in HTML, and had done some self teaching in CSS and Javascript, but very limited. My goals for this mod were to really improve fundamentals of HTML, CSS, and Javascript as well as start to develop better design principles. 
 
-## Rubric Scores
+## Self Assessment
 
 *   **A: End-of-Module Assessment**: X
 *   **B: Individual Work & Projects**: X
@@ -16,42 +16,81 @@
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
-
+Pentathalon:
+- Coding Challenge 1: *pending*
+- Coding Challenge 2: *pending*
+- Comprehensive Quizlette: *pending*
+- Static-Comp 3: *pending*
+- Portfolio Defense: *pending*
 
 ## B: Individual Work & Projects
 
-(Intro)
+Below is a recap of my individual project from the 
+#### Number Guesser
 
-#### (Project Name)
+*   GitHub Repo: https://github.com/jbevis/number_guesser
+*   Original Assignment: http://frontend.turing.io/projects/number-guesser.html
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+Create a game where the user can guess a number, and then submit the guess. Depending on the guess, the user will either win, or be prompted if their guess was too low, or too high. 
 
-(description)
+## Evaluator: Robbie
 
-(evaluation comments)
+## Notes:
 
-(evaluation scores)
+### UX/UI Expectations
+
+- 3: Application shows strong effort towards matching the comp, but some details have been missed. Any extensions are simple, clean design, content organization, and well thought out experience and user interactions.
+
+### Functional Expectations
+
+- 3: Application meets all of the functional expectations in Phase Two
+
+### Fundamental HTML
+
+- 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing and has incorporated accessibility best practices.
+
+### Fundamental CSS
+
+- 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
+### Fundamental JavaScript
+
+- 3: Application shows strong effort towards organization, content, and proper syntax
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+Below is a recap of my paired projects and scores from Mod 1.
 
-#### (Project Name)
+#### Linked List 
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+*   GitHub URL: https://github.com/jbevis/linked-list
+*   Original Assignment: http://frontend.turing.io/projects/linked-list.html
 
-(description)
+Linked List lets a user keep track of all their important book marks. Users can enter a title and description of the bookmark and upon submitting a new bookmar card is created. Users can then mark them as read, and delete the cards once they aren't of use anymore.
 
-(evaluation comments)
+## Evaluator: Bree
 
-(evaluation scores)
+### Functional Expectations
 
-(feedback to me)
+  3: Application meets all of the functional expectations in Phase Two.
+
+## Fundamental JavaScript Style
+
+  3: Application shows strong effort towards organization, content, and refactoring.
+
+## Workflow
+
+  4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their    application.
+
+## HTML Style
+
+  3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+## CSS Style
+
+  3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 ## D: Professional Skills
 (Intro)
