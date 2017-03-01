@@ -1,4 +1,4 @@
-# Danny Radden - MX Portfolio
+# Danny Radden - M1 Portfolio
 
 ## Areas of Emphasis
 
