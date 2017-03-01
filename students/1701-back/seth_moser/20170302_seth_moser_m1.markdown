@@ -1,15 +1,15 @@
-# Seth Moser - M1 Portfolio
+# Seth Moser --- M1 Portfolio
 
 ## Areas of Emphasis
 
-(insert description here)
+Hashes, syntax, and testing.
 
 ## Self-Assessment Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | 3 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
@@ -21,7 +21,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## A: End of Module Assessment
 
 | Category | Score |
-| ----- | - |
+| ----- | --- |
 | **Written Diagnostic** | PASS/FAIL |
 | **Timed Exercise** | PASS/FAIL |
 | **Ruby Syntax & API** | PASS |
@@ -40,7 +40,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## B: Individual Projects
 
 | CATEGORY | PROJ 1 Credit Check | PROJ 2 Date Night | PROJECT 3 HTTP |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/themenintights/credit_check) | [link](https://github.com/themenintights/date_night) | [link](https://github.com/themenintights/http_yeah_you_know_me) |
 | **Functional Expectations** | 3 | 3 | 1 |
@@ -59,7 +59,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## C: Group Projects
 
 | CATEGORY | PROJ 1 Night Writer | PROJECT 2 Black Thursday |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/josh-works/night_writer) | [link](https://github.com/themenintights/black_thursday) |
 | **Functional Expectations** | 2 | X |
