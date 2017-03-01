@@ -160,7 +160,7 @@ Notes:
 
 * ```From Joey:``` Brad, nice work on census. You were super easy to work with and I enjoyed having you on my team. Your workflow is solid and I think your ability to write code is often greater than you give yourself credit for. I don't have anything critical or negative to say this module. Good look on the job hunt. I hope you can buy back your sax one day.
 
-* ```From Ali:``` (placeholder)
+* ```From Ali:``` awaiting feedback
 
 ## D: Professional Skills
 
@@ -196,7 +196,7 @@ Because the rate of job loss is so sudden and so severe, we need an equally sudd
 
 I co-led a spike on Github workflow. Most of the participants were mod 1 and mod 2 students. I recall how confusing Github was to me not that long ago, so it was cool to be able to help others with something that used to be so intimidating to me.
 
-I paired with my prework guidee several times. I also paired with Eric on APICurious for over hour. Additionally, I've informally helped numerous people by making myself available in the basement. Hanging out in the pairing room is a good place to help others. My favorite was helping a mod 1 front end student on a JavaScript project earlier in the module. 
+I paired with my prework guidee several times. I also paired with Eric on APICurious for over an hour. Additionally, I've informally helped numerous people by making myself available in the basement. Hanging out in the pairing room is a good place to help others. My favorite was helping a mod 1 front end student on a JavaScript project earlier in the module.
 
 ### Feedback to Others
 
