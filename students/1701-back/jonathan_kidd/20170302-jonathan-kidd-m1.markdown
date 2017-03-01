@@ -4,7 +4,7 @@
 
 This module, I set out to gain a basic (but thorough) understanding of the Ruby language, including syntax and object oriented programming. Additionally, I sought to learn how to break down technical challenges and conceptually grasp how to solve complex problems. Finally, I wanted to learn more about working with others, life in the tech world, and social issues that affect the industry and our world.
 
-I made great strides toward meeting these goals over the course of the module. I went from near-zero knowledge of Ruby to a decent level of comfort in many core areas of Ruby and OOP. I greatly improved by capacity for breaking down and solving complex problems. In this, I learned about the importance of growth mindset and tenacity when dealing with such problems. I also learned a great deal about pair-programming and my strengths and areas for development as a team member. Finally, I learned and reflected about the tech industry and the most pressing social issues of our time. 
+I made great strides toward meeting these goals over the course of the module. I went from near-zero knowledge of Ruby to a decent level of comfort in many core areas of Ruby and OOP. I greatly improved by capacity for breaking down and solving complex problems. In this, I learned about the importance of growth mindset and tenacity when dealing with such problems. I also learned a great deal about pair-programming and my strengths and areas for development as a team member. Finally, I learned and reflected about the tech industry and the most pressing social issues of our time.
 
 ## Self-Assessment Scores
 
@@ -20,7 +20,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Notes
 
-*   I feel my performance has consistently improved during the module, though I know I still have gaps in some areas. However, I feel I have gained the skills and knowledge of resources to work through any issues and continue to improve.
+*   I feel my performance has consistently improved during the module, though I know I still have gaps in some areas (complex logic, algorithms). However, I feel I have gained the skills and knowledge of resources to work through any issues and continue to improve.
 
 ------------------------------------------------
 
@@ -53,7 +53,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 #### Notes
 
 *   Areas for future focus include bolstering tests (especially edge cases) and further breaking apart large methods and classes. Much of this solidified for me in the last 2 weeks of the module.
-*   Functional expectations scores were less than satisfactory for the second and third project. I believe this has to do with two issues: time management and wanting to fully demonstrate my abilities in other categories. I have taken steps to improve by time management issues by front-loading my work, which will allow me to get further in the projects, while still producing good quality work.
+*   Functional expectations scores were less than satisfactory for the second and third project. I believe this has to do with two issues: time management and wanting to fully demonstrate my abilities in other assessment categories. I have taken steps to improve by time management issues by front-loading my work, which will allow me to get further in the projects, while still producing good quality work.
 
 
 ## C: Group Projects
@@ -85,11 +85,19 @@ Feedback from partner projects.
 
 *   Project 1 (Riley Thompson):
 
+From Riley:
 You were very organized, and possessed a strong attention to detail. Took the initiative to schedule many different pairing sessions which were integral to the success of our project. You were fun to work with,  kept a serious, but also playful attitude even during frustrating stints, while remaining punctual and respecting my time.
+
+To Riley:
+Had a great time working on this project with you. It seems like you have a knack for diving into complex problems, and somehow holding it all in your head at once. You were committed to the outcome while being good natured and easy to work with. I think we had a good flow when things were happening. In retrospect we may have stayed mired in problems for too long (1 + hour) before asking for help. I think asking for help or pairing sooner could have left us more time to polish in the end. I also think more time pseudo coding in a deeper way may have helped, rather than diving right into to problems. We did a good job planning big-picture solutions, but not much time mapping exactly how we would get there.
 
 *   Project 2 (Diana Whalen):
 
+From Diana:
 (Diana's feedback for me goes here)
+
+To Diana:
+Diana - I have learned so much working with you on this project. I really appreciate your tenacity and willingness and ability to put in long hours to understand the material and get the work done. Your explanation of your learning and work style helped me understand how best to approach the project as a team. I feel that our issues at the outset of the project allowed us to learn more about how to work on a team and dealing with people who are different than us (and also very alike in some ways!). More clear communication on what you would like to divide up and conquer versus work through together would improve workflow. Thanks for your the time and energy you devoted to this project.
 
 ### Job Prep
 
