@@ -24,7 +24,7 @@ Evaluator: yung-jhun
 Did ok! 
 
 
-## B: Work & Projects
+## Work & Projects
 
 Here are some dope things I've done this Mod
 
