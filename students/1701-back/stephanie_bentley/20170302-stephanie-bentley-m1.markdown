@@ -7,8 +7,6 @@ I feel that over the past six weeks I have developed a very basic understanding 
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
 | Section | Category | Score |
 | --- | --- | --- |
 | A | **End-of-Module Assessment** | 3 |
@@ -16,8 +14,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | C | **Group Projects** | 3 |
 | D | **Professional Development** | 3 |
 | E | **Community** | 3 |
-
-#### Notes
 
 ------------------------------------------------
 
@@ -44,15 +40,14 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Loop or Recursion** | na | X | X |
 
 #### Notes
-Evaluator Comments
-
+Evaluator Comments:
     *  CreditCheck: talked about variables and methods to be created
 
     *  DateNight: Implementation showed struggles on grasping abstractions. Separation of concerns needed.Can explain implementation but struggles with problem solving from scratch.
 
     *  HTTP: Some opportunity to refactor by pulling html and messages out into a module of some sort.
 
-My Comments
+My Comments:
     *  I think the biggest reflection I have on my scores is the progress I've made.  I was weak in a number of areas to begin, but have made progress in refining and refactoring my code. I know I still have plenty of room to continue to grow, but I think this is one area that has grown significantly since day one.
 
 
@@ -70,10 +65,8 @@ My Comments
 
 
 #### Notes
-
-Evaluator comments
-
-  *  NightWriter: Talked about some refactoring spots and longer methods (use of enumerables). Talked about how to push out a FileIO class. Talked about tests that don't rely on other methods. Unit testing.
+Evaluator Comments:
+    *  NightWriter: Talked about some refactoring spots and longer methods (use of enumerables). Talked about how to push out a FileIO class. Talked about tests that don't rely on other methods. Unit testing.
 
 ## D: Professional Development
 
