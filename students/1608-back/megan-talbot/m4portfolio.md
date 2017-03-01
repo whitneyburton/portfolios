@@ -167,6 +167,12 @@ Documentation
 - 3: Project features excellent documentation showing how to develop the application
 
 
+To Jon: 
+Jon was a great partner for me this module. We worked together on many differnet things, and I was especially happy to have him in my group for the capstone project. It was a challenging project, but Jon is such a hard worker and never got discouraged when we hit obstacles. I really appreciate his positive attitude and level head.  I know Jon will have a super successful career and I look forward to seeing what he does! 
+
+From Jon:
+It was great working together during mod4 and our whole time at Turing!  We collaborated on alot of stuff from S.A.B., to bezos, and finally on our projects during mod4.  Mod4 was a bit of a fight but you were the perfect partnener to face that challenge with.  I always appretiate your intelligence, insight, persistance, and calm resiliance in the face of every obstical we faced.  Your were a huge asset to the whole mod and my time and Turing and I hope we get to work together again in the future!
+
 ### Mashup 
 
 * [GitHub URL - Frontend](https://github.com/meganft/mashup-frontend)
