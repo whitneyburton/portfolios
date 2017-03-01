@@ -4,7 +4,7 @@
 
 This module, I set out to gain a basic (but thorough) understanding of the Ruby language, including syntax and object oriented programming. Additionally, I sought to learn how to break down technical challenges and conceptually grasp how to solve complex problems. Finally, I wanted to learn more about working with others, life in the tech world, and social issues that affect the industry and our world.
 
-I made great strides toward meeting these goals over the course of the module. I went from near-zero knowledge of Ruby to a decent level of comfort in many core areas of Ruby and OOP. I greatly improved by capacity for breaking down and solving complex problems. In this, I learned about the importance of growth mindset and tenacity when dealing with such problems. I also learned a great deal about pair-programming and my strengths and areas for development as a team member. Finally, I learned and reflected about the tech industry and the most pressing social issues of our time.
+I made great strides toward meeting these goals over the course of the module. I went from near-zero knowledge of Ruby to a decent level of comfort in many core areas of Ruby and OOP. I greatly improved by capacity for breaking down and solving complex problems. In this, I learned about the importance of growth mindset and tenacity when dealing with such problems. I also learned a great deal about pair-programming and my strengths and areas for development as a team member. Finally, I learned and reflected about the tech industry and the most pressing social issues of our time. 
 
 ## Self-Assessment Scores
 
