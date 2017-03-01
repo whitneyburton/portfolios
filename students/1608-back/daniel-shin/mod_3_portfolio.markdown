@@ -9,22 +9,27 @@ Although my mindset was focused on JS and the client-side, during the mod I real
 ## Self Assessment
 
 **End-of-Module Assessment**: 3
+
 I successfully used message queues, implemented decently clean and readable JavaScript, and had a pretty clean UI. Overall I thought the end product was pretty good, except I definitely didn't do as well in testing.
 
 I probably wasted a ton of time considering I spent the full 14 hours. I would say the worst part of the experience was that I started to realize I was wasting time and began to stress myself out. I need to learn how to calm myself down during situations where I know I made a lengthy mistake.
 
 **Individual Work & Projects**: 3
-I enjoyed doing the open source project. Even though it picked a while to pick the proper project, going into the code and seeing advanced ruby was enjoyable. 
+
+I enjoyed doing the open source project. Even though it picked a while to pick the proper project, going into the code and seeing advanced ruby was enjoyable.
 
 **Group Work & Projects**: 4  
+
 I gave the capstone project all the energy I could give. I was pretty motivated to learn React, and luckily my group was on board as well. We spent long hours almost every day, and implemented quality server side and client side code.
 
 I also think that the group dynamics worked out very well. There was a moment during the project where the group felt lost and unmotivated, and I made it a point to clean up logic / get functionality working with the group so that everyone would feel like they're back on track.
 
 **Professional Skills**: 3  
+
 I did all that was asked for, but I think I fall in the category of people who are anxious but do not act on the anxiety when it comes to getting a job.
 
 **Feedback & Community Participation**: 3  
+
 I paired with a few Mod 1 students, and participated in the Turing Lab posse every time they got together.
 
 -----------------------
@@ -163,7 +168,6 @@ Jeff's Feedback
 -----------------------
 ## Community
 
-
 ### Feedback
 #### Quantified Self
 
@@ -176,8 +180,7 @@ Jeff's Feedback
 ##### From Group
 "jThis was my second time being partners with Dan on a project. Dan had a huge impact on our project as he was able to lay down all the ground work of how to use react.js. Dan always impresses me on how well and quickly he can teach himself a new concept. Along that same line, Dan is really easy to pair and get along with. I also went to Dan's spike on SQL which I thought was really well put together and I learned a lot from. Dan is certainly one of the best programmers I have pair with a Turing. Team Briefacase 4 lyfe" - Anthony to Daniel
 
-"" - Matt to Daniel
-
+"This was my first time working with Daniel, but I had heard many people talk about how great he is to pair with.  I really enjoyed paring on our final projects with Daniel.  There was one time during the project that he noticed we were losing steam in the project.  He made sure to bring it up in our retro and asked to pair on the next tasks in the project.  I really appreciated the acknowledgment that the group was losing steam and enjoyed pairing the rest of the project.  I thought we worked well together and delivered a great product.  My only feedback to Daniel is to have more confidence in himself outside of his work ethic.  He would be great on any team and can bring out the best in the teams he works in. He is a great guy and I am happy to have gotten to know him as a person outside of Turing as well.  I really enjoyed the team dynamic we had for our final project and would work with Daniel anytime." - Matt to Daniel
 
 ##### To Group
 "Anthony is a quick learner and was usually the one to round up the group to get work done. Anthony helped a lot in making sure we got our cards done and had the project on track. There were definitely days where I didn't really know what the best thing to focus on was, and Anthony would point out what we should do (like it was obvious). Anthony's attention to detail and critical thinking definitely helped us make a high quality product in the end. I think he will find success in either front-end or back-end environment. " - Me to Anthony
@@ -189,6 +192,12 @@ Jeff's Feedback
 The Turing Lab posse was a great place to experiment. I think working with hardware would actually be really cool in the future. I found the guest speaker inspiring after he showed all the projects he worked on with physical equipment. However, that's probably way down the line.
 
 
+### Professional Development
+#### StrengthsFinder: What's next?
+During this session we talked about what we wanted to accomplish after Turing. I thought it would be cool to be an active speaker / leader of a Meetup. It would feel like I made it as a developer at that point.
+
+#### Flower Exercise Follow-Up: Imposter Syndrome
+During this session, we talked about things that we were most afraid of. I was probably most afraid of having the right conversation when having coffee meet ups but also making it clear I was trying to get a job.
 
 ### Gear Up
 #### Tragedy of the Commons
