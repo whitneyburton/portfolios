@@ -54,7 +54,7 @@ Workflow
 * [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
 
-Individual work in module 4 consisted of contibution to an open source project. After a lot of exploring, I chose this [Public Lab Plots 2](https://github.com/publiclab/plots2/issues) project, which had lots of issues and many marked for "first-timers-only."  I started by finding an [issue](https://github.com/publiclab/plots2/issues/1211) that was marked as a 'bug' and tried to reproduce it locally.  When I was able to do that, I decided to start work on the issue. The full navbar was showing up on error pages, and they didn't want that to be the case.  I commented on the issue that I would do some work, and then I edited the static error pages on my machine. When I thought I had something they would like, I posted a screenshot on a PR to see if they liked it.  They seemed very pleased, and my PR is offically submitted.  You can see it [here](https://github.com/publiclab/plots2/pull/1291).   
+Individual work in module 4 consisted of contibution to open source projects. After a lot of exploring, I chose this [Public Lab Plots 2](https://github.com/publiclab/plots2/issues) project, which had lots of issues and many marked for "first-timers-only."  I started by finding an [issue](https://github.com/publiclab/plots2/issues/1211) that was marked as a 'bug' and tried to reproduce it locally.  When I was able to do that, I decided to start work on the issue. The full navbar was showing up on error pages, and they didn't want that to be the case.  I commented on the issue that I would do some work, and then I edited the static error pages on my machine. When I thought I had something they would like, I posted a screenshot on a PR to see if they liked it.  They seemed very pleased, and my PR is offically submitted.  You can see it [here](https://github.com/publiclab/plots2/pull/1291).   
 I wrote a blog post about the experience [here](https://medium.com/@megantalbot/my-first-contribution-to-open-source-93c961b69ec1#.y0mm2egen).
 <br>Additionally, I submitted a PR for Growstuff, as seen [here](https://github.com/Growstuff/growstuff/pull/1258). This is a similar error to above but was in haml so was a bit more challenging.  But I wanted to contribute to another project in addition to the one above.
 <br>
@@ -255,6 +255,9 @@ Vido was a solid partner this module. We had a lot of time together on MentorSHI
 
 
 ### Being a Community Member
+
+From Mike Scherer:<br>
+Megan was a great partner during Quantified Self.  She was super easy-going, and I enjoyed pairing with her.  Her ability to go with the flow saved my psyche during times of severe stress.  She is super smart, learns quickly, and I think she will be a successful developer after Turing.
 
 From Jon Kimble:<br>
 It was great working together during mod4 and our whole time at Turing!  We collaborated on alot of stuff from S.A.B., to bezos, and finally on our projects during mod4.  Mod4 was a bit of a fight but you were the perfect partnener to face that challenge with.  I always appretiate your intelligence, insight, persistance, and calm resiliance in the face of every obstical we faced.  Your were a huge asset to the whole mod and my time and Turing and I hope we get to work together again in the future!
