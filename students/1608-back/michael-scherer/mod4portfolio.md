@@ -16,9 +16,9 @@
 
 ## Self Assessment
 
-*   **A: End-of-Module Assessment**: Pass
-*   **B: Individual Work & Projects**: 3.5
-*   **C: Group Work & Projects**: 3.5
+*   **A: End-of-Module Assessment**: 4
+*   **B: Individual Work & Projects**: 4
+*   **C: Group Work & Projects**: 4
 *   **D: Professional Skills**: 3
 *   **E: Feedback & Community Participation**: 3
 
@@ -72,6 +72,16 @@ Subjective evaluation will be made on your work/process according to the followi
 
 ## B: Individual Work & Projects
 
+#### Open Source
+* [PR](https://github.com/stympy/faker/pull/835)
+* [Bug Confirmation/Denial](https://github.com/vmg/redcarpet/issues/582)
+* [Blog Post](https://medium.com/@michael.c.scherer/turing-open-source-df1f23d177cf#.kuov9hevg)
+
+
+## C: Group Work & Projects
+
+### Projects
+
 #### Quantified Self
 
 *   [GitHub URL](https://github.com/mscherer11/quantified-self)
@@ -118,12 +128,6 @@ Quantified-Self is a Javascript project, built to track daily calorie input and 
 
 ###### Feedback from me
 * Megan - Megan was a great partner during Quantified Self.  She was super easy-going, and I enjoyed pairing with her.  Her ability to go with the flow saved my psyche during times of severe stress.  She is super smart, learns quickly, and I think she will be a successful developer after Turing.
-
-## C: Group Work & Projects
-
-### Projects
-
-Monocle
 
 #### Monocle
 
@@ -195,13 +199,29 @@ Monocle is company and job seeking tool for the Turing School community. It's pu
 * Lee - Lee was a great partner to work during Monocle.  He has possibly the best work ethic of the whole cohort, and he takes great pride in all the work he completes.  I really enjoyed pairing with him due to his conscientious nature.  I learned a lot from his work habits, as well as his organization.
 * Chase - Chase and I worked together in mod 2, and I have the same feedback for him no as I did then.  He is very easy to get along with, and I enjoyed pairing with him.
 
-## D: Open Source
-* [PR](https://github.com/stympy/faker/pull/835)
-* [Bug Confirmation/Denial]()
-* [Blog Post](https://medium.com/@michael.c.scherer/turing-open-source-df1f23d177cf#.kuov9hevg)
+#### LookingFor
 
+*   [GitHub URL](https://github.com/turingschool-projects/Lookingfor)
+*   [Original Assignment](https://lookingFor.turing.io/)
 
-## E: Professional Skills
+###### Notes
+
+* It's running SQL, and stuff, and lots of errors
+* Streaming a bunch of fucked up data into Monocle
+* So..why are there multiple scrapers running? How could you possibly debug this?
+* LookingFor watches a queue, scrapers get jobs and drop them into the queue
+* LookingFor finds the company in Monocle or creates a new one
+* "Location information isn't passing Travis" - it's still unhappy
+* Tracker: not good
+* Inherited three scrapers, revised them, built the additional two scrapers
+* Sounds like some good technical challenges, but...not convinced any of the scrapers actually work
+* Risk: revised the original scrapers
+* Proud of: usage of queues
+* This project could have been the best of the five today, but as demoed it's basically a more messed
+up version of LookingFor than we had a week ago.
+* Something about needing to change the Google Maps key
+
+## D: Professional Skills
 [PD Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1608-b/michael_scherer.md)
 
 ### Gear Up
@@ -223,10 +243,10 @@ Monocle is company and job seeking tool for the Turing School community. It's pu
 
   Similarly to the automation gear-up, I thought the discussion on the reasons for UBI were overstated.  I actually think that UBI should be discussed outside the context of automation.  I would have liked to read more material on economic studies of UBI (they exist).
 
-## F: Feedback and Community Participation
+## E: Feedback and Community Participation
 
 * Pre-work Mentor
-* Led Spike (Exorcisms)
+* Led Spike (Exercisms)
 
 ------------------
 
