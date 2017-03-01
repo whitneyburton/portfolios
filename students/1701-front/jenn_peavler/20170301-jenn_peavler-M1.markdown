@@ -6,9 +6,9 @@ I wanted to obtain a firm grasp on the structure and uses of javascript and jQue
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: 3.5
+*   **A: End-of-Module Assessment**: 3
 *   **B: Individual Work & Projects**: 3.5
-*   **C: Group Work & Projects**: 3.5
+*   **C: Group Work & Projects**: 3
 *   **D: Professional Skills**: 3
 *   **E: Feedback & Community Participation**: 2.5
 
