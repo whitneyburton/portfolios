@@ -103,6 +103,7 @@ Quantified Self was my second project with Erin, and I have to say it's always b
 #### Ripped/Code of Arms
 
 *   [GitHub URL](https://github.com/turingschool-projects/ripped)
+* [Heroku Link](https://code-of-arms.herokuapp.com/)
 
 
 Code of Arms is an Exercism-like application for the Turing School of Software and Design to help students practice coding and instructors give feedback in a streamlined manner.
@@ -174,6 +175,7 @@ The professional skills sessions are an integral part of our Turing program beca
 #### Tragedy of the Commons
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+* [Heroku Link](https://pure-crag-87193.herokuapp.com/)
 
 My biggest takeaway from this session was the idea that we define "likeness" wrong. 100% (or close to it) of people at Turing are "like me" because we all quit our jobs to come learn to code. We all like solving problems. I don't think "like me" is as one dimensional as gender or skin tone. That said I realize that things like gender, race, orientation are the types of things that tend to lead toward this type of segregation. I think a lot of that is based in ignorance and fear. If we all tried to find "like" things in each other, I bet we'd be surprised.
 
