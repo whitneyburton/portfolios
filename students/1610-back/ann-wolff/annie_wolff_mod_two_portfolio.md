@@ -147,7 +147,6 @@ rails_engine is an exercise in creating an internal API that serves up business 
 * 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 
