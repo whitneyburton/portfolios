@@ -3,7 +3,7 @@
 ## Areas of Emphasis
 
 My goal for Mod 1 was to develop a basic understanding of the Ruby language and feel comfortable using it. I came into Mod 1 without any experience in computer science, programming, or coding. Before Mod 1 I had never written a program or piece of code, ever.
-I feel that over the past six weeks I have developed a very basic understanding of Ruby. I know that there is much more to learn, but I am pleased with my progress so far and look forward to continuing to grow and learn more.
+I feel that over the past six weeks I have developed a very basic understanding of Ruby. I know that there is much more to learn, but I am pleased with my progress so far and look forward to continuing to grow and learn more. One area I really want to improve upon is my understanding and "fluency" with Github.
 
 ## Self-Assessment Scores
 
@@ -50,7 +50,7 @@ Evaluator Comments:
 
 My Comments:
 
-  *  I think the biggest reflection I have on my scores is the progress I've made.  I was weak in a number of areas to begin, but have made progress in refining and refactoring my code. I know I still have plenty of room to continue to grow, but I think this is one area that has grown significantly since day one.
+  *  I think the biggest reflection I have on my scores is the progress I've made.  I was weak in a number of areas, but particularly Ruby style and refactoring. I have made progress in this area. I know I still have plenty of room to continue to grow, but I think this is one area that has developed significantly since my first project.
 
 
 ## C: Group Projects
@@ -71,6 +71,11 @@ Evaluator Comments:
 
   *  NightWriter: Talked about some refactoring spots and longer methods (use of enumerables). Talked about how to push out a FileIO class. Talked about tests that don't rely on other methods. Unit testing.
 
+My Comments:
+
+  *  Ovearall I thought this first paired project was successful. We managed our time well, the workload was evenly balanced, we stuck to our DTR Expectations, and produced a working project with all minimum iterations complete. 
+
+
 ## D: Professional Development
 
 ### Define-the-Relationship (DTR)
@@ -83,7 +88,7 @@ Feedback from partner projects.
 
 *   Project 1 (Brett Schwartz): Stephanie - It was a pleasure working with you for our first paired project at Turing. Starting with the DTR session, I thought you did a great job of initiating the outline, timeline and workflow for the project. When we hit road bumps in the project, (i.e. 80 char limit) I thought you did a great job of using outside resources to help guide us to the solution. Your effort was consistent throughout the week which helped us stay ahead of the Thursday deadline. As we spoke about, we could’ve improved our TDD process and started with tests instead of jumping right into the source code. Also, we could’ve improved the readability of our files so they would be easier for outside eyes to understand. Overall, it was a pleasure working with you and I look forward to working together down the road!
 
-*   Project 2 (First Last): lorem ipsum
+*   Project 2 (Beth Knight): lorem ipsum
 
 ### Job Prep
 
