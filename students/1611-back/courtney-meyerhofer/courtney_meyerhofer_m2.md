@@ -177,6 +177,10 @@ To Casey Macaulay:
 
 Casey, I really enjoyed working with you on the Little Shop project. I observed your technical strengths to include: reading documentation, testing, the MVC framework, and forward-thinking about the project. You remained communicative during a scheduling conflict and took on challenges that added a lot of functionality to our project. You consistently went out of your way to help group members and exercised forward-thinking that guided us in making decisions about our application. Your ambition and positivity are contagious, and how you interact with others' ideas is very positive. I always felt like you treated everyone's ideas with equal merit, and you were growth-oriented in the way you received feedback about your code. In the future, ask for a second pair of eyes sooner when stuck on a problem. Your git documentation and code reviews were essential to the success of our project. The questions you asked in pull requests and comments made helped make our code base well tested. I thoroughly enjoyed working with you, and I'm proud of the application we built together.
 
+To Max Glassie:
+
+Max, your ambition and tenacity has been apparent this module. You've taken extra steps to deepen your learning and immerse yourself in the Turing community. I appreciate that you invited me into the process of learning about interpreters, Lisp, and co-hosting spike sessions. You're very inspiring in that your enthusiasm for well-constructed code and the principles of SICP is contagious. Thank you for taking the time to teach me new concepts, be a supportive friend, and be a partner in creating workshops. You've taken steps to start learning new programming languages and concepts well outside of the established curriculum, and I foresee nothing but success in your future because of your motivation. I thoroughly enjoy all of my interactions with you, and I'm excited to see what you accomplish in module 3. 
+
 ### Being a Community Member
 
 From Katy Farmer:
