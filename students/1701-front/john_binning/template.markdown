@@ -6,11 +6,11 @@ My goal for the module was to get as comfortable as possible with the fundamenta
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: X
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**: 3
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -114,6 +114,14 @@ With ToDo Box, we took another group's Idea Box and pivoted it into a new site. 
 
 It's interesting to look back on the first gear up of the mod now that we are at the end.  I can say that I have had some pretty strong moments of having having both a fixed and a growth mindset.  It has been valuable to be able to recognize what is happening during times of having a fixed mindset, and taking steps to switch back to growth.  I think this session has been and will continue to be valuable to me as I work my way through the highs and lows of Turing.
 
+#### Getting Better at Difficult Things
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+I learned that I need to focus on recognizing when I'm stuck.  When I do get stuck, I need to find a way to get myself out of a rut.  I also recognized that worrying about the whole process of learning to code is just going to be frustrating.  It's best to take things one project/day at a time, and I can accomplish this by breaking down/splitting up difficult/daunting tasks.  I also need to go easier on myself on my mistakes.
+
+
+
 #### Debugging the Gender Gap
 
 I found the quote about women in history interesting "Women are an equal part of the past but not an equal part of history".
@@ -165,13 +173,20 @@ Working with Devon was great.  He has a fantastic work ethic and is very encoura
 
  I really enjoyed working with John. We determined our working relationship right away with great respect of each other’s working habits and schedule differences. During our work process we exchanged clarifying questions. If there was any part of the project that one of us did not fully understand we would stop and take time to walk each other through the problem and make sure that we both fully understand that topic. I feel like we both equally contributed into the project, it was a very good pairing experience.
  
- 
 #### From Mike Fenwick, Mod 2 pairing partner:
 
 Pairing with John has been a great experience. From the very start I could tell he was fully engaged and focused on the task in hand. 
 If we worked through something to solve an issue John wanted to know exactly what was going on and why. He wasn't happy just taking the code functionality at face value which is a great mind set to have. 
 If John continues with this approach throughout Turing and into the work field then I can see John having a successful career in development.
 I would happily pair/work with John again.
+
+#### From Devon Bull, ToDo Box partner:
+
+Since we partnered the second week it's always been great to work with you. You have a great work ethic and a focus that is both awesome and terrifying. Communication is never a problem. For constructive feedback: you need to focus on Javascript more. You are very quick to read code and there are certain aspects that you have a great understanding of (event bubbling). It would definitely help you to fly solo in JS more.
+
+#### From Zane Russell, Idea Box partner:
+
+Pairing with you was a great experience. Great work ethic, easy to communicate with, and I really admire how determined you were to thoroughly understand every part of the operation on before moving forward. I have a tendency to fly by the seat of my pants and ask questions later, so having some temperance was a sobering and helpful dynamic. 5/5 would pair again
 
 
 ### Playing a Part
