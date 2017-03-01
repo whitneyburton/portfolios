@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Understand the fundmentals of Ruby.
+Understand the foundations of Ruby.
 
 ## Self-Assessment Scores
 
@@ -85,8 +85,6 @@ Yohanan, thank you for being a great partner on Night Writer. I think overall we
 
 ## E: Community
 
-As a member of the Student Advisory Board, I relayed the concerns of Mod 1 students to Turing staff and participated in weekly advisory board meetings.
-
 ### Gear Up
 
 #### Session 1
@@ -102,13 +100,12 @@ A certain degree of struggle and some level of failure is part of the process to
 #### Session 3
 Core Values
 
-
+While there are many values that drive me, some of those that stand out for me include that of working for the greater good (public service) and hard work.  
 
 #### Session 4
 Personal Stories
 
-I came to Turing because I was interested in a career that would allow me to develop technical skills and help me grow in a personal and professional manner. I view the world through the lenses of my various identities, including as a woman, a person of color, a foreigner etc. While there are many values that drive me, some of those that stand out for me include that of working for the greater good (public service) and hard work.  
-
+I came to Turing because I was interested in a career that would allow me to develop technical skills and help me grow in a personal and professional manner.
 
 #### Session 5
 Debugging the Gender Gap
@@ -117,6 +114,7 @@ The tech industry has a significant problem when it comes to gender parity. Whil
 
 ### Community Participation
 
+As a member of the Student Advisory Board, I relayed the concerns of Mod 1 students to Turing staff and participated in weekly advisory board meetings.
 
 -------------------------------------------------------------
 
