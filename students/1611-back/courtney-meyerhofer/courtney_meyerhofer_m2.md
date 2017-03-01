@@ -189,6 +189,11 @@ Max, your ambition and tenacity has been apparent this module. You've taken extr
 
 ### Being a Community Member
 
+From Charlotte Moore:
+
+Courtney, it’s been awesome having you on the Little Shop dream team. It’s clear from working with you that you have a really strong understanding of all the material we’ve learned this mod. In particular, your testing is very thorough, you are able to produce functional features quickly, and you’ve been great at helping team members through difficulties with particular problems. I really appreciate how you stepped up to tackle little things that came up, on top of working on big features. I think our cohort would benefit from you reaching out to individuals who are struggling and using your teaching experience to take a leadership role. You were assertive and approachable throughout the project, which was tremendously valuable while Casey was gone. I’m really happy with how the project turned out, and I can’t imagine the process being as smooth without your input. I have a lot of respect for you, and I hope we have the opportunity to work together again in the future. 
+
+
 From Katy Farmer:
 
 First, I would like to recognize how much effort you put into your personal growth, particularly in the pair/group setting. You’ve grown immeasurably since the last time we worked together, and I really appreciate it. The role of Project Manager suited you, and you did a great job organizing our schedule and measuring deliverables. The only remaining suggestions I have for improvement is that you could take breaks more often to help you refocus on the problem at hand. That being said, your ability to walk away from a problem when you’re frustrated is much improved. Thank you for taking on the role of Project Manager and for being a great team member.
