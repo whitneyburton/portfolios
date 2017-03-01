@@ -1,4 +1,4 @@
-# First Last - MX Portfolio
+# Ken Lee - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -18,10 +18,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+*   Feel like this mod was the mod I learned! I learned I can code and to believe in myself. To let the "bad" go and get going again. To focus on the good. Something that I normally don't do. Because of that view I had a lot of fun this time. That was a big part of me breaking through and learning.
 
 ------------------------------------------------
 
@@ -29,15 +26,9 @@ This section does not need to be populated (and template text should therefore b
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | score |
+| Pairing Assessment | pass|
 | Independent Timed Assessment | score |
 | Diagnostic | passed |
-
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
 
 ## B: Individual Projects
 
@@ -46,19 +37,15 @@ This section does not need to be populated (and template text should therefore b
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
 | **Github** | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/credit_check/ken-lee/credit_check.md) | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/flashcards/ken_lee/rubric.md) | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/http/ken-lee/rubric.md) |
 | **Functional Expectations** | 3 | 3 | X |
-| **Test-Driven Development** | X | 3 | X |
+| **Test-Driven Development** | n/a | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 2.5 | 3 | X |
 | **Fundamental Ruby & Style** | 3 | 3 | X |
-| **Loop or Recursion** | X | 3 | X |
-| **Enumerable & Collections | X | 3 | X |
+| **Loop or Recursion** | n/a | 3 | X |
+| **Enumerable & Collections | n/a | 3 | X |
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
 *   Note 1 https://gist.github.com/wewert/ea5dfeabebb56da75a463364ba0f71af
-*   Note 2 (if applicable)
-
 
 ## C: Group Projects
 
@@ -70,59 +57,58 @@ This section does not need to be populated (and template text should therefore b
 | **Test-Driven Development** | 2 | X |
 | **Encapsulation/Breaking Logic into Components** | 2.5 | X |
 | **Fundamental Ruby & Style** | 2.5 | X |
-| **Loop or Recursion** | N/A | X |
-
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
+| **Loop or Recursion** | n/a | X |
 
 ## D: Professional Development
 
 ### Define-the-Relationship (DTR)
 
-[Link](https://docs.google.com/document/d/1TegCyBVJS6habxZszZmQidNj2A4DHYUIP3pTO4sNFIM/edit#heading=h.l3ct5pv2ggfg) to DTR Memo from 1 paired project.
+[Link](https://docs.google.com/document/d/1TegCyBVJS6habxZszZmQidNj2A4DHYUIP3pTO4sNFIM/edit#heading=h.l3ct5pv2ggfg)
 
 ### Pair Feedback
-
-Feedback from partner projects.
 
 *   Night Writer Project (Andrew Mossefin): Project Pair Feedback: Hey Andrew, it was great working with you on the Night Writer project. You showed me how bad ass you were at ripping through codes. I like our interaction when figuring out problems. That we played on each others strengths and knowledge to get things done. Your calm and letting me know to take breaks helped me stay focused on the task at hand. To make things more smoother next time I would get more comfortable with using Git, TTD, and workflow tools(spectacle, vs code, etc). Like we discussed we both need to work better at planning out projects, to which we both will start bullet pointing our projects into task. Your enthusiasm and willingness to work like a rabid dog is inspiring.
 
 Ken, it was truly a pleasure. I couldn’t have asked for a better first pairing experience. Room was left for improvement, such as being more specific in the initial planning stage so that we didn’t run into trouble coming together at the end, but I think we both learned from that which is a definite plus. Your demeanor was always positive and made for productive remote sessions and problem solving. Things always go smoother when you can get along. Just remember that if you get stuck, there’s no option that isn’t worth trying. Generally, you were great and I think we could destroy some projects if we get a second chance at it. Keep it up man!
 
-*   Black Thursday (Joseph Glass): Project Pair Feedback: Hey Joseph, your skill and understanding of everything we've learned so far  
+*   Black Thursday (Joseph Glass): Project Pair Feedback: Hey Joseph, your skill and understanding of everything we've learned so far is mind blowing. You ability to work as a pair is exactly what I needed to learn what a perfect pairing is. Thank you for that. I felt we made a great team where our strengths and weaknesses balanced each other out.
+
+Ken, I’m amazed by your commitment to code every day against all challenges. When we paired, I felt I could focus on just one just one tiny aspect of the problem, fully confident that you would catch mistakes, add insights, and improve our code when we switched tasks. You helped me develop a more consistent, readable style, and taught me to use advanced methods like .reduce. The only areas for improvement I notice, you’re already working on. You’re drilling on classes and method interactions, you’re practicing Vim and your typing to avoid errors and speed your coding. I know that as you fix those “attention drains”, you’re going to become an unstoppable programmer. Thanks for everything!
 
 ### Job Prep
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/feed/)
-
-
+*   LinkedIn profile with a summary, descriptions under experience, and Turing under education:
+[Link](https://www.linkedin.com/feed/)
 
 ## E: Community
 
 ### Gear Up
 
 #### Session 1 Growth Mindset
-[Link](https://gist.github.com/wewert/0abac1ccdd49e47253cdce6256729cae.js)
+Growth mindset is still something I keep in my present mind from last mod. I still have to stop myself when stuck and feeling low and tell myself how does this feeling help me and what can I do at this moment. I admit I still go down the fixed mindset
+road. It's a hard thing to get out of and I don't think I will ever completely change something that has been engrained in my since my presences here on Earth. I do commiserate with fellow students still to let out steam but I have to admit I don't know real use that does to help me. All I know is, growth mind set tells me that I need to keep moving forward. I know I'm learning I know way more than I did last mod. The fixed mind set in me worries about things I can't control like Turing decision. If
+Turing deems me unfit to move on. That keeps going through my head because that is reality. How does growth mindset reconcile that?
 
 #### Session 2 How to deal with difficult things better
-[Link](https://gist.github.com/wewert/a666b0e8b26f0baf23f8aebe1c78675b.js)
+I like learning how to view learning difficult things. For instance, to not look at the whole thing of learning how to code as a one giant thing but to break it down into just a few things that I can master. I already do that on a day to day basis but
+I've never connected the dots with my learning the codes. I only looked at learning the codes as a big chuck and wind up choking on it. If I cut it up in to smaller pieces that I can master and then move on to the next couple, and the next couple. In a while I'll know a bunch. I've been doing this with learning Vim, so I have experience doing this. I just need to use this to learn coding. I do still need to do more research on techniques on how to accomplish this kind learning so I can be more
+efficient. Less time trying to learn and more quality time learning.
 
-#### Session 3 Stress
-[Link](https://gist.github.com/wewert/8ee2747126a78b37a80d114545efda9c.js)
+#### Session 3 Stress Management
+I found myself having a hard time coming up with what I do to relieve stress. And I found that more peoples ideas were boring. I'm sure it helps them out but I wanted to relieve stress in a different way. What ever that is. I tend to go to a very dark places when dealing with high stress. I've always been this way. I did not have good role models growing up on how to deal with stress. My mom had bi-polar disorder and she handled stress by freaking out and destroying everything in her path which included her children. Especially her children. So, my way of dealing with stress is to internalize it and keep it in. I know that is not good but I don't know how else to deal with it. Stress gets to me and I become over whelmed and I shut down.
+I want to be able to handle it better but I don't know how. It would have been nice to hear some techniques on how to deal with stress other then have people write down that go to the gym, go hiking, read a book, listen to music...
 
-#### Session 4 Self Reflection
-[Link](https://gist.github.com/wewert/faad9ad47a6d96ddf51fe17202dca020)
+#### Session 4 Personal Stories and Connections
+The session was just like the last mod and I reflected on the differences of my prospective. I've thought a lot about how the issues I have are still blocks for me. Less now though. I think I'm trying to change for the better. I know more about where my weaknesses are and though not perfect...I am aware. That is a huge steps for me. To not just survive but think about how and why I do what I do. When I came to Turing because I wanted to know I can make my life better. That I can do this programming
+stuff. That I know I can be like everyone else. I've notice I do better when I do the growth mindset. I hope to get better at all this. I know I can and I will.
 
-#### Session 5 Code: Breaking the Gender Barrier
-[Link](https://gist.github.com/wewert/ec9113d4434a03a102537d151c61faa8)
+#### Session 5 Code: Debugging the Gender Gap
+This movie was something I'm very familiar with because I've worked in the industry for years and I've seen and heard all. Some of the people I've worked with even believe they are socially conscious and think they are doing the right thing. But the
+reality is that they were adding the the same culture that is all wrong. I hope to help change this when I get in to the actual coding and looked at at the same level. Exactly what I mean with the last sentence.
 
 ### Community Participation
-[Link](https://gist.github.com/wewert/34ffd4110574d8abaeb6bca261dbb88c)
+I have participated in the Turing Diversity group and tried to help with how we can help a more diverse peoples become interested and join Turing. I have also submitted to Jorge my outline of how to get grants for school. I have also helped out fellow
+students in class with questions.
 
 -------------------------------------------------------------
 
