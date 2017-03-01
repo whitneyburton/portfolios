@@ -52,6 +52,12 @@ Violet Teacher is a teacher gradebook and student grade portal of my own design.
 
 Panopti-packet is a network application named after the [Panopticon](https://en.wikipedia.org/wiki/Panopticon). I wanted to understand TCP/IP & UDP protocols more in depth while practicing Ruby style, testing, and SQL. This is a less-functional Wireshark that was created for my own learning, not necessarily for others to use. Users can define sessions where they monitor the packet activity on different interfaces on their machine. SQL is used to calculate analytics about the packets that were observed for the defined sessions.
 
+#### Personal Website
+
+* [GitHub URL](https://github.com/meyerhoferc/meyerhoferc.github.io)
+* [Blog Post](https://meyerhoferc.github.io/blog.html)
+* [Active Site](https://meyerhoferc.github.io)
+
 ## C: Group Work & Projects
 
 #### Bike Share
