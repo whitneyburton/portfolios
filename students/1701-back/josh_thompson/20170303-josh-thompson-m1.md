@@ -109,7 +109,7 @@ I intentionally avoided just copying and pasting code from other students that w
 This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
 
 *   Note 1 (if applicable)
-*   Note 2 (if applicable)
+* I'll delete this section once I add black thursday scores
 
 
 ## D: Professional Development
