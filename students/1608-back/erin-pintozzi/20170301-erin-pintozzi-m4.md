@@ -28,6 +28,8 @@ I maintained a google doc to track the new things I tried and participated in to
 
 ## A: End of Module Assessment
 
+PASS
+
 Reviewer: Nate
 
 Repos:
@@ -78,7 +80,7 @@ The following individual projects were not completed as a group/partnership but 
 #### Open Source Contributions
 <!-- TODO -->
 *   [Link to PR]()
-*   [Link to blog]()
+*   [Link to blog](http://erinpintozzi.com/2017/03/01/my-first-open-source-pr.html)
 *   [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
 The purpose of this project is to submit to an open source project to make positive contributions to the programmer community. I chose to contribute to a Gitlab gem. Further details about the project are linked above in my blog post.
