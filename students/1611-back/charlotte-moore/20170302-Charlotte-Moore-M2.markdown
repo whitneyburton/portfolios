@@ -126,13 +126,17 @@ Assessed by: Sal
 
 ### Project Management
 
+Prior to this lesson I had heard of Agile development, but I really had no idea what it meant. After having implemented it in Bike-Share and Little Shop I can absolutely see the advantage it brings to web development, particularly in comparison to the waterfall process. This lesson was invaluable to me as PM on our Little Shop project. Our team communcated really well throughout the project despite circumstances that could have been really difficult to overcome, specifically one of our teammates was out of town for three days. The team was able to meet at least once a day (for the most part) to go over what work had been done and what work needed to be done. This helped tremendously when communicating with the 'client' at our check-ins as the team was always on the same page. 
+
 ### Feedback
+
+The most valuable feedback that I've gotten at Turing is that I need to open up and communicate more. I'm natrually introverted, but I realize that's not an excuse. It takes me a long time to become comfortable with people 
 
 ### Flower Exercise
 
 ### Mentor 
 
-## Community
+## E: Community
 
 ### Tragedy of the Commons
 
@@ -140,6 +144,6 @@ Assessed by: Sal
 
 ### Universal Basic Income
 
-## E: Feedback
+## F: Feedback
 
 
