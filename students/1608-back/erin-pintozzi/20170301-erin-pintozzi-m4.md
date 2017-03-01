@@ -81,8 +81,7 @@ The following individual projects were not completed as a group/partnership but 
 *   [Link to blog]()
 *   [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
-(description)
-
+The purpose of this project is to submit to an open source project to make positive contributions to the programmer community. I chose to contribute to a Gitlab gem. Further details about the project are linked above in my blog post.
 
 ## C: Group Work & Projects
 
