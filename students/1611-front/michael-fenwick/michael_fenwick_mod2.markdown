@@ -1,7 +1,10 @@
-## Michael Fenwick - M1 Portfolio
+## Michael Fenwick - M2 Portfolio
 
 ## Areas of Emphasis
 
+Firstly to solidify the fundamentals of Javascript and incorporate es6.
+Secondly become more comfortable manipulating arrays and objects and using API's.
+Lastly, be be introduced to React and to use React within an application.
 
 ## Rubric Scores
 
@@ -17,31 +20,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## A: End of Module Assessment
 
-## DOM
+## TDD
 
 ### Progression/Completion
 
 *
 
 ### JavaScript Style
-
-*
-
-### Workflow
-
-*
-
-### Collaboration
-
-*
-
-## OOP
-
-### Progression/Completion
-
-*
-
-### JavaScript Problem Solving
 
 *
 
@@ -60,35 +45,31 @@ Three individual projects for Module 2 to benefit us prior to being introduced t
 The second was sorting suite, which was were we built 3 different sorting algorithms. Each one increased in complexity but also improve the performance.
 The third was Complete me, where we built a Trie data structure where we could import the dictionary and use the tree as an auto complete.
 
+
 ### FlashCards
 
 * [GitHub URL](https://github.com/Mickyfen17/flash_cards)
 * [Original Assignment](http://frontend.turing.io/projects/flash-cards.html)
 
+#### Fundamental Javascript & Style
 
-#### Notes:
+* 3: Application shows strong effort towards organization, content, and refactoring.
 
+#### Enumerable & Collections
 
+* 3.5: Application demonstrates comfortable use of appropriate Enumerable methods
 
-#### UX/UI Expectations
+#### Test-Driven Development
 
-*
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data.
+
+#### Encapsulation / Breaking Logic into Components
+
+* 3.5: Application effectively breaks logical components apart but breaks the principle of SRP.
 
 #### Functional Expectations
 
-*
-
-#### Fundamental HTML
-
-*
-
-#### Fundamental CSS
-
-*
-
-#### Fundamental JavaScript
-
-*
+* 3: Application fulfills expectations of iterations 1 - 5 with no bugs, crashes, or missing functionality.
 
 ### Sorting Suite
 
@@ -96,29 +77,22 @@ The third was Complete me, where we built a Trie data structure where we could i
 * [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
 
-#### Notes:
+#### Fundamental JavaScript & Style
 
+* 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
+#### Test-Driven Development
 
-#### UX/UI Expectations
+* 4: Application is broken into components which are well tested in both isolation and integration
 
-*
+#### Encapsulation / Breaking Logic into Components
+
+* 3.5: Application effectively breaks logical components apart but breaks the principle of SRP
 
 #### Functional Expectations
 
-*
+* 3.5: Application meets all requirements as laid out per the specification.
 
-#### Fundamental HTML
-
-*
-
-#### Fundamental CSS
-
-*
-
-#### Fundamental JavaScript
-
-*
 
 ### Complete Me
 
@@ -220,30 +194,41 @@ Same application as IdeaBox in mod 1 but with the added usage of es6.
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 * [DTR](https://docs.google.com/document/d/1Dj0X4hEZPJcKhtwIOC_Zbrz6yJKP34hweeiMv3L9huA/edit?usp=sharing)
 
+#### Notes:
+
 A Weather application built with React and using WeatherUnderground API.
 
 #### Specification Adherence
 
-*
+* 3.5
+
+#### User Interface
+
+* 3.5
+
 #### HTML Style
 
-*
+* 3
 
-#### CSS Style
+#### CSS/Sass Style
 
-*
+* 3
 
 #### JavaScript Style
 
-*
+* 3.5
+
+#### Testing
+
+* 3
 
 #### Workflow
 
-*
+* 3
 
-#### Collaboration
+#### Code Sanitation
 
-*
+* 3
 
 
 ## D: Professional Skills
@@ -260,6 +245,16 @@ I find Turing does a good job by providing a diverse gender ratio but feel that 
 
 ### Professional Development Workshops
 
+#### Project Management Strategies
+
+So far I've yet to be faced with any issues during projects. I've always tried to structure the project the same way where I try I get the bulk of the work done early and then use the time at the end to refactor/tidy up.
+So far, this has worked and I will try to use this moving forward. On larger applications then I may need to re-think this strategy.
+
+#### Incorporated Feedback
+
+I've really just tried to continue from mod1 and always be available, be flexible and work hard on what ever we're working on.
+So far this has worked out, so will continue in the same direction until I receive feedback not to do so.
+
 #### Cold Outreach I
 
 * [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md)
@@ -268,22 +263,64 @@ It took me until around week 8 of the program before I decided to reach out to a
 If I can met as we currently are and continue down the same path then I can see myself getting a lot out of the mentorship system.
 I am still trying to build a network so I'm now on the lookout for further mentors to assist with that.
 
+#### Flower Exercise
+
+* [Flower Exercise](https://gist.github.com/Mickyfen17/7b24c7520e89f5f195bf8407ce83f347)
+
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-##### To
+##### To Pam Lovett
 
+Working with Pam on Weathrly has been a great experience. Weathrly has been a unique project as it's our introduction to React which neither of us had used before.
+From the start, Pam has been hard working and willing to learn the in's and out's of React and Enzyme testing suite. It was very clear that Pam was able to take a problem and implement a solution.
+What Pam can achieve while being a parent and wife blows my mind.
+Not only that, Pam is extremely easy going and very easy to work with.
+I look forward to working with Pam in future mods.
 
-##### To
+##### To Matt Kaufman
 
+##### What actionable steps can I take to improve as a collaborator?
 
-##### To
+From an IronFE point of view I feel your collaboration has been really good. You have provided us with problems, gave us pointers when needed and if we weren't sure of something, you would look it up for us.
+
+##### Anything else you'd like to add?
+
+Thank you for your time and effort over the last 6 weeks with organizing Iron FE.
+On top of completing mod 4 your still found the time to get into school early every morning and provide problems for us to solve on the white board.
+I believe we've all benefited from these sessions and have become better at not only problem solving but also white boarding.
 
 
 ##### To Leta Keane:
 
+Pairing with Leta has been great. On both occasions Leta has known exactly what was required which made pairing extremely easy.
+Leta’s code was very well written and easy to dive into and understand what has going on. When pairing, Leta was open to trying different approaches to solve the same problem and immediately looked at ways to refactor her code.
+It was clear to see that Leta knew what was going on with her code and that she only needed the smallest of nudges in the right direction before she was off writing code to solve the issues that were faced.
+I can tell that Leta is going to do extremely well at Turing and I look forward to pairing with her again.
+
+
+##### To John Binning:
+
+Pairing with John has been a great experience. From the very start I could tell he was fully engaged and focused on the task in hand.
+If we worked through something to solve an issue John wanted to know exactly what was going on and why. He wasn't happy just taking the code functionality at face value which is a great mind set to have.
+If John continues with this approach throughout Turing and into the work field then I can see John having a successful career in development.
+I would happily pair/work with John again.
+
+
+##### To Devin Dixon
+
+##### What do you think are my greatest strengths?
+
+Your ability to learn.
+I've seen a lot of growth form you during these last 6 weeks which has built confidence. I feel if you tackle problems with confidence, then you've got more chance of solving them. You've proven that!
+
+##### Additional comments
+
+I think the hard decision you made at the end of mod1 has paid off. You're now in an extremely strong position to enter into mod2.
+I have no doubt that you will kick on from here and hit everything in front of you with the confidence you will carry from mod1.
+Keep up the hard work that you're putting in!
 
 
 ### Being a Community Member
@@ -292,8 +329,17 @@ I am still trying to build a network so I'm now on the lookout for further mento
 
 Working with you on two different projects was helpful. I appreciated that you listened and offered suggestions, instead of pushing us to solve a problem the same way you did. I thought you did a great job checking in and gauging the skill level of me and my partner, and you checked in to make sure we were following along with you. I appreciated your willingness to really look at our existing code to see how we were working, rather than just pulling up your code and showing us what you'd done. tl;dr 10/10 would pair again
 
-#### From
 
+#### From Pam Lovett
+
+I think one of Fenwick's greatest strengths is his desire to always push himself further. Fenwick is not satisfied with the status quo, and it shows in both the quality of the work that he produces and the amount of effort he puts in with everything he does. What I find particularly admirable about Fenwick is his reason for pushing himself so far  - it is clear that he does this out of a true desire to gain a deeper understanding of the material at hand… not because he is trying to get a "passing" score or complete extensions on projects for the sake of completing extensions.  Throughout our pairing on Weathrly, Fenwick was a great partner. He was always available, a great communicator, and a team player.
+
+The one piece of constructive feedback I would give to Fenwick is to GO TO SLEEP. Seriously, Fenwick. Go to sleep like one hour earlier than you do. You're making me tired.
+
+
+#### From John Binning
+
+Pairing with Mike was great.  He has been very invested in helping me reach and understand solutions to problems I was having.  Mike didn’t just give me answers, he made me think about what I was trying to do.  He has also been supportive of my growth mindset.  When I was feeling down, he related back to his mod1 experiences and encouraged me to keep pressing on and not worry.  I look forward to paring/working with Mike again in the future.
 
 ### Playing a Part
 
