@@ -18,9 +18,9 @@ I maintained a google doc to track the new things I tried and participated in to
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: 3.14 (avg of all scores)
+*   **A: End-of-Module Assessment**: 3
 *   **B: Individual Work & Projects**: 3
-*   **C: Group Work & Projects**: 3.63 (avg of all scores)
+*   **C: Group Work & Projects**: 4
 *   **D: Professional Skills**: 3
 *   **E: Feedback & Community Participation**: 3
 
@@ -80,6 +80,8 @@ The following individual projects were not completed as a group/partnership but 
 #### Open Source Contributions
 <!-- TODO -->
 *   [Link to PR]()
+* 	[Link to documentation]()
+* 	[Link to bug/issue](https://github.com/NARKOZ/gitlab/issues/244)
 *   [Link to blog](http://erinpintozzi.com/2017/03/01/my-first-open-source-pr.html)
 *   [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
@@ -296,9 +298,24 @@ Quantified Self was my second project with Erin, and I have to say it's always b
 
 ### Playing a Part
 
-[Link to Community Requirement Deliverables Summary](https://gist.github.com/epintozzi/1d5a4fe362de681e2c075fade3c41748)
+#### As stewards of the larger Turing community, Module 4 students are expected to complete at least two of the following:
+* lead or co-lead a Friday Spike session
+* deliver any session at a meetup or conference
+* pair three or more times with students in lower modules
+* contribute in a meaningful way to the project of a student/team not in your module
 
-In addition to the Community requirement deliverables linked above, I participated in the community as an SAB representative and active member of Bezos posse.
+#### My Contributions
+1) Lead a Friday Spike
+  * Led spike on Project Management "secrets to success" on 2/10
+
+2) Deliver a session
+  * Led a workshop at Aurora History Museum for Women in STEM series (led alongside Maryjane Valade and Jasmin Hudacsek)
+
+3) Pairing with lower modules
+  * Paired with Charlotte (mod 2 BE) on her Rails mini-project
+  * Paired with Christopher Dale (mod 1 BE) on Black Thursday
+
+In addition to the Community requirement deliverables noted above, I participated in the community as an SAB representative and active member of Bezos posse.
 
 ------------------
 
