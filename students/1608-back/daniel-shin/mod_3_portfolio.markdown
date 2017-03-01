@@ -132,8 +132,28 @@ Project has implemented one major technique from the previous two weeks of acade
 #### Documentation: 3  
 Project features excellent documentation showing how to develop the application
 
+### Gadget
+* [GitHub URL](https://turing-gadget-production.herokuapp.com/)
+
+Nate's Feedback
+* Table looks good. Easy to read and audit
+* Creating an audit is also easy
+* UI doesn't explain itself. You need to tell someone how to use it.
+* Nice work rolling with technical chalenges, like LinkedIn not having any API
+* We're gonna get this in use this week, so we'll let you know how it goes
+
+Jeff's Feedback
+* Checking LinkedIn, GitHub matching of names
+* Select the fields for review
+* Would need Census to require the URLs
+* LinkedIn locks you out easily
+* Would like to improve speed (needs caching)
+* Risk: used begin/rescue, but, uhhhhh, but, uhhhh
+* Pitfall: checkboxes with materialize
+* Demo: ugh.
 -----------------------
 ## Open Source
+* [Awesome Print Bug](https://github.com/awesome-print/awesome_print/issues/294)
 
 * [Awesome Print PR](https://github.com/awesome-print/awesome_print/pull/301)
 
