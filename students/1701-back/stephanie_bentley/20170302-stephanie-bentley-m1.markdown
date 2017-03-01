@@ -1,4 +1,4 @@
-# First Last - MX Portfolio
+# Stephanie Bentley - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -19,11 +19,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
 ------------------------------------------------
 
 ## A: End of Module Assessment
@@ -35,10 +30,6 @@ This section does not need to be populated (and template text should therefore b
 | Diagnostic | PASS |
 
 #### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
 
 ## B: Individual Projects
 
@@ -54,16 +45,15 @@ This section does not need to be populated (and template text should therefore b
 
 #### Notes
 Evaluator Comments
-  CreditCheck: talked about variables and methods to be created
 
-  DateNight: Implementation showed struggles on grasping abstractions.
-  Separation of concerns needed.
-  Can explain implementation but struggles with problem solving from scratch.
+    *  CreditCheck: talked about variables and methods to be created
 
-  HTTP: Some opportunity to refactor by pulling html and messages out into a module of some sort.
+    *  DateNight: Implementation showed struggles on grasping abstractions. Separation of concerns needed.Can explain implementation but struggles with problem solving from scratch.
+
+    *  HTTP: Some opportunity to refactor by pulling html and messages out into a module of some sort.
 
 My Comments
-  I think the biggest reflection I have on my scores is the progress I've made.  I was weak in a number of areas to begin, but have made progress in refining and refactoring my code. I know I still have plenty of room to continue to grow, but I think this is one area that has grown significantly since day one.
+    *  I think the biggest reflection I have on my scores is the progress I've made.  I was weak in a number of areas to begin, but have made progress in refining and refactoring my code. I know I still have plenty of room to continue to grow, but I think this is one area that has grown significantly since day one.
 
 
 ## C: Group Projects
@@ -82,10 +72,8 @@ My Comments
 #### Notes
 
 Evaluator comments
-  NightWriter: Talked about some refactoring spots and longer methods (use of enumerables)
-  Talked about how to push out a FileIO class
-  Talked about tests that don't rely on other methods. Unit testing.
 
+  *  NightWriter: Talked about some refactoring spots and longer methods (use of enumerables). Talked about how to push out a FileIO class. Talked about tests that don't rely on other methods. Unit testing.
 
 ## D: Professional Development
 
@@ -97,7 +85,7 @@ Evaluator comments
 
 Feedback from partner projects.
 
-*   Project 1 (First Last): Stephanie - It was a pleasure working with you for our first paired project at Turing. Starting with the DTR session, I thought you did a great job of initiating the outline, timeline and workflow for the project. When we hit road bumps in the project, (i.e. 80 char limit) I thought you did a great job of using outside resources to help guide us to the solution. Your effort was consistent throughout the week which helped us stay ahead of the Thursday deadline. As we spoke about, we could’ve improved our TDD process and started with tests instead of jumping right into the source code. Also, we could’ve improved the readability of our files so they would be easier for outside eyes to understand. Overall, it was a pleasure working with you and I look forward to working together down the road!
+*   Project 1 (Brett Schwartz): Stephanie - It was a pleasure working with you for our first paired project at Turing. Starting with the DTR session, I thought you did a great job of initiating the outline, timeline and workflow for the project. When we hit road bumps in the project, (i.e. 80 char limit) I thought you did a great job of using outside resources to help guide us to the solution. Your effort was consistent throughout the week which helped us stay ahead of the Thursday deadline. As we spoke about, we could’ve improved our TDD process and started with tests instead of jumping right into the source code. Also, we could’ve improved the readability of our files so they would be easier for outside eyes to understand. Overall, it was a pleasure working with you and I look forward to working together down the road!
 
 *   Project 2 (First Last): lorem ipsum
 
