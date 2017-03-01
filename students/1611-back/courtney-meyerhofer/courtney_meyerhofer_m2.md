@@ -175,7 +175,9 @@ Charlotte, I really enjoyed working with you on the Little Shop project. I obser
 
 ### Being a Community Member
 
-(feedback to me)
+From Katy Farmer:
+
+First, I would like to recognize how much effort you put into your personal growth, particularly in the pair/group setting. You’ve grown immeasurably since the last time we worked together, and I really appreciate it. The role of Project Manager suited you, and you did a great job organizing our schedule and measuring deliverables. The only remaining suggestions I have for improvement is that you could take breaks more often to help you refocus on the problem at hand. That being said, your ability to walk away from a problem when you’re frustrated is much improved. Thank you for taking on the role of Project Manager and for being a great team member.
 
 ### Playing a Part
 
