@@ -181,6 +181,36 @@ To Leta Keane: "Thank you for being such a great project partner. IdeaBox was on
 
 I ran a Sprite Spike with Lita, which seemed to be informative for Mod-1 students. I also organized a meeting with people in the Front End program to discuss changes to Mod 1 to fix some of the complaints that we were having.
 
+
+### Self-Assessment
+
+## A: End-of-Module Assessment
+
+## B: Individual Work & Projects
+
+3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+
+
+I feel that with each project increasing in difficulty, I have achieved grades of three's starting from the beginning and progressed toward 3.5's towards the end of the mod. I feel that I have increased my knowledge and understanding of JavaScript, CSS and HTML. While still having a lot of room for improvement, I feel that I have generally continued to do better on each project.
+
+## C: Group Work & Projects
+
+3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
+
+Soft 3.5: I feel that I have gotten along well with every project partner that I have had. I also like to think that I have helped my partners understand new concepts, while not being too shy to ask for help in understanding things that they seem to have mastered. I have never had an argument or felt like there was frustration toward me or toward my communication through any of the projects.
+
+## D: Professional Development
+
+3: Student demonstrates satisfactory dedication, understanding, and growth of professional development through their deliverables from PD sessions.
+
+Soft 3.5: I have been active and involved in professional development courses. More importantly, I feel that I have actively used skills and concepts discussed in professional development, including pairing suggestions and updating information on all of my professional accounts.
+
+## E: Feedback & Community Participation
+
+3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback. They participate in required activities and does at least one or two above and beyond supports of the community.
+
+I was excited and grateful to be able to lead a Sprite Spike with Leta toward the end of Mod 1. This gave me an opportunity to better teach myself a topic that had not been entirely taught in class and to ensure that I understood it enough to demonstrate to the class. I also did some organization of our Mod to discuss any frustrations that we were having in order to find some actionable steps towards the betterment of our experience.
+
 ------------------
 
 ## Final Review
