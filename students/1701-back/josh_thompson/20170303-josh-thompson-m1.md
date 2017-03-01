@@ -122,7 +122,11 @@ Feedback from partner projects.
 
 #### Project 1: Night Writer (Seth Mo)
 
-> Josh it was great you were able to meet before hand with me and set up our work schedule. It really helped that you were able to communicate well quickly understood new concepts. You could work on TDD and pseudocoding to help you make your programs better, and don't forget to take small breaks when working for really long periods of time. If you keep going how you are with those two small changes you'll be on a good track.
+> Josh it was great you were able to meet before hand with me and set up our work schedule.
+
+>It really helped that you were able to communicate well quickly understood new concepts. You could work on TDD and pseudocoding to help you make your programs better, and don't forget to take small breaks when working for really long periods of time.
+
+>If you keep going how you are with those two small changes you'll be on a good track.
 
 > [additional notes here](https://gist.github.com/josh-works/689944269533ba6f8a547df6d90dc897)
 
