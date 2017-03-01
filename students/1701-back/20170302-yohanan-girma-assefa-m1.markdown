@@ -9,7 +9,7 @@ Understand the foundations of Ruby.
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| - + ----- + - |
 | A | **End-of-Module Assessment** | 2 |
 | B | **Individual Projects** | 2 |
 | C | **Group Projects** | 1 |
