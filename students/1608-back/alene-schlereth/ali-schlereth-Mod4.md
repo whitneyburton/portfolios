@@ -18,8 +18,13 @@
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
-
+* 3: Developer completes sections 1 through 5 minor bugs and no missing functionality.
+* 4: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing.
+* 4: Developer uses elegant and idiomatic Javascript to accomplish common tasks. Demonstrates solid understanding of function passing and manipulation. Developer can speak to choices made in the code and knows what every line of code is doing.
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
+* 3: The application has many strong pages/interactions, but a few holes in lesser-used functionality
+* 3: Project features excellent documentation showing how to develop the application
+* 4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.  
 
 ## B: Individual Work & Projects
  
