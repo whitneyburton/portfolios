@@ -6,10 +6,10 @@ This module I wanted to become as job-ready as possible. I also wanted to gain a
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: 3 (maybe 3.5?)
+*   **A: End-of-Module Assessment**: 3
 *   **B: Individual Work & Projects**: 3
 *   **C: Group Work & Projects**: 3
-*   **D: Professional Skills**: 3
+*   **D: Professional Skills**: 4
 *   **E: Feedback & Community Participation**: 4
 
 -----------------------
