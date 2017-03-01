@@ -53,11 +53,17 @@ This section does not need to be populated (and template text should therefore b
 | **Loop or Recursion** | na | X | X |
 
 #### Notes
+Evaluator Comments
+  CreditCheck: talked about variables and methods to be created
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+  DateNight: Implementation showed struggles on grasping abstractions.
+  Separation of concerns needed.
+  Can explain implementation but struggles with problem solving from scratch.
 
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+  HTTP: Some opportunity to refactor by pulling html and messages out into a module of some sort.
+
+My Comments
+  I think the biggest reflection I have on my scores is the progress I've made.  I was weak in a number of areas to begin, but have made progress in refining and refactoring my code. I know I still have plenty of room to continue to grow, but I think this is one area that has grown significantly since day one.
 
 
 ## C: Group Projects
@@ -75,10 +81,10 @@ This section does not need to be populated (and template text should therefore b
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+Evaluator comments
+  NightWriter: Talked about some refactoring spots and longer methods (use of enumerables)
+  Talked about how to push out a FileIO class
+  Talked about tests that don't rely on other methods. Unit testing.
 
 
 ## D: Professional Development
@@ -119,6 +125,9 @@ It is hard to keep going after struggling for so long with a project/concept, es
 
 #### Session 4
 What core values do you carry with you? Through what kind of a lense do you see the world?  Good questions!  My big takeaway from this Gear Up session, was that each of us answer these questions differently.  No matter how similar we may seem, we each have our own unique set of values and our own way of taking in the world and processing it.  We can take leverage these differences by taking advantage of our collective strengths.  But, at the same time, we need to keep in mind that, although we are community, we do not all come from the same place nor do we see things in the same way.  Remembering this will help us to be more empathic and more fully capitalize on those strengths.
+
+#### Session 5
+Although I struggled to stop thinking about my project this week, I really appreciated the video Debugging the Gender Gap. I think Turing is on the right track when it comes to this very important conversation. The first step is acknowledging what realities exist in the tech field, the next step is discussing and embracing "difficult" conversations, and then finally taking action to do something about it in order to make change.  This is the path I see Turing laying out. In fact, it was one of the deciding factors for me in choosing to attend Turing.  
 
 ### Community Participation
 This mod has been a trial by fire.  I feel like one of the biggest ways I’ve engaged the community is reaching out for support.  I have attended all of the Joan Clarke Society meetings, and this has been a great thing. It’s not only been a great outlet for relieving stress, but also an awesome way to get to know a network of women here at Turing and out in the “real world”.  I have also reached out to upper mod students and mentors for pairings.  I benefited (a ton!) from these pairings.  I have made an effort to “pay it forward” from these sessions, too. For the first partner project after I paired one-one with a mentor, I was able to reteach a lot of what I had learned to my partner.  The same goes for the project HTTP; after a long pairing with a mentor I was able to help a small group of classmates who were stuck get started on the project.  In addition, I’ve attended some of the Pahlka meetings and “turing-game-time” meetings (when I can spare the time at lunch :) . Finally, I always try to leave the classroom and kitchen better than I found it. I load/unload the dishwasher, wipe up the counter, make coffee/dump out empty grounds, etc.
