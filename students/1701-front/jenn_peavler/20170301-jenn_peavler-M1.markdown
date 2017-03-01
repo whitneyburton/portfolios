@@ -88,12 +88,18 @@ For this project, my partner and I built an idea card generator.  The user could
 
 Working with Jenn was a solid experience. We communicated fairly well and often enough that we were typically on the same page.  We struggled on a few aspects of the project, but it was Jenn who would take the first step back to break the problem down into much more simple tasks. This proved to be the most valuable part of the experience as I have a tendency to take on too much at once.
 
+##### Feedback to my partner:
+
+Dave communicates expectation and roles clearly.  He is approachable and adaptable.  He has a solid understanding of the subject manner and is able to express his thought process clearly.  He works relentlessly to get the job done, and takes pride in his work.  In order to grow as a developer, it is my recommendation that Dave keep up the good work, but perhaps sometimes, take a step back from the project and look at the flow of the application as a whole.  This will enable Dave to be able to understand how to break up the whole project into smaller, more attackable functionality problems.  Can’t wait to work with Dave again, as he most definitely rocks.
+
 #### 2Do-Box-Pivot
 
 For this project, my partner and I took the code repository from another pair of students 'Idea-Box' project.  We refactored the code and altered the functionality in order to suit a task-to-do card generator application.  We were also tasked with creating some selenium testing for the application.
 
 * [Original Assignment](hhttp://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 * [GitHub URL](https://github.com/jennPeavler/2DoBox-Pivot)
+
+* [DTR](https://docs.google.com/document/d/12tTcvLwX-NLxHi7CMMN78ckYFW_nEGEIy14d_OStqIU/edit?usp=sharing)
 
 Evaluator:  Robbie
 
@@ -147,15 +153,17 @@ It was interesting to think about the people in my life and which ones tend to h
 
 ### Giving Feedback
 
-(feedback from me)
+Feedback to Dave from me:
+Dave communicates expectation and roles clearly.  He is approachable and adaptable.  He has a solid understanding of the subject manner and is able to express his thought process clearly.  He works relentlessly to get the job done, and takes pride in his work.  In order to grow as a developer, it is my recommendation that Dave keep up the good work, but perhaps sometimes, take a step back from the project and look at the flow of the application as a whole.  This will enable Dave to be able to understand how to break up the whole project into smaller, more attackable functionality problems.  Can’t wait to work with Dave again, as he most definitely rocks.
 
 ### Being a Community Member
 
-(feedback to me)
+Feedback from Dave to me:
+Working with Jenn was a solid experience. We communicated fairly well and often enough that we were typically on the same page.  We struggled on a few aspects of the project, but it was Jenn who would take the first step back to break the problem down into much more simple tasks. This proved to be the most valuable part of the experience as I have a tendency to take on too much at once.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I was a member of the SAB and I lead up the LGBT Turing Group.  I also reached out to students who needed help with course work.
 
 ------------------
 
