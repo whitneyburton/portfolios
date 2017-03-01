@@ -75,6 +75,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 Feedback from partner projects.
 
 *   Project 1 (Nicholas Jacques): 
+
 ### From Nick
 Strengths
 + Really strong ability to turn algorthimic concepts into functional code.  I could suggest an idea and you would quickly implement it in the program.
