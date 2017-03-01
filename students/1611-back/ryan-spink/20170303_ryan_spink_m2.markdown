@@ -62,14 +62,12 @@ Rails Mini Project:
 
 ### Projects
 
-(Intro)
-
 #### (Bike Share)
 
 *   [GitHub URL](https://github.com/Ryanspink1/bike-share)
 *   [Original Assignment](https://github.com/turingschool/bike-share)
 
-(description)
+ In bike share, we were tasked with creating a database to store CSV information about a bike share business in California. It was a great introduction to the server-side of things (routes, Active Record) in a "deployable" manner. I think that our group worked incredibly well together. We had a "get shit done, without sacrificing quality" mindset and we stuck to it. We hashed differences out like adults and were self-aware in our interactions with each other. We supported each others individual delegations while still maintining the effectiveness of individual workflow. In the end, we produced a great project and learned immensely in the process. 
 
 Evaluation Rubric
 
@@ -100,6 +98,13 @@ The project will be assessed with the following rubric:
   3: Good use of branches, pull requests, and a project-management tool.
 
 (feedback to me)
+
+#### (Little Shop of Orders: Abandoned Camel Coffee Mercantile)
+
+*   [GitHub URL](https://github.com/codyborders/abandoned_camel_coffee_mercantile)
+*   [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
+
+ This project has easily been the most enjoyable of the Mod. We were tasked with creating our own e-commerce server, which we molded into a coffee bean retailer. It has been a pleasure to continue my professional growth as a member of a well functioning team. Furthermore, the more real-world scenario of customer-client interactions has been interesting and a great primer. I have really taken the TDD approach to heart with this project and being rewarding with a smooth, enjoyable software development experience. I'm excited to finish the project out and see how it ends up!
 
 ## D: Professional Skills
 (Intro)
