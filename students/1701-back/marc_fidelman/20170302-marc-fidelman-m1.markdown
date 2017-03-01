@@ -2,11 +2,9 @@
 
 ## Areas of Emphasis
 
-(I was trying to focus on )
+I focused on trying to start good developer habits, getting a foundational understanding of Ruby, and building my understanding and connection with Turing as a community. 
 
 ## Self-Assessment Scores
-
-Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
 | --- | ----- | --- |
@@ -17,11 +15,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | E | **Community** | 3 |
 
 #### Notes
+I felt I was fairly involved in the community but really struggled with getting fundamentals of ruby established and those weak foundations undermined nearly every project. Some personal struggles outside of school also hampered me from performing my best and putting in as many hours towards the work as I would have liked.
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 ------------------------------------------------
 
@@ -46,15 +41,15 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Flashcards | PROJECT 3 (replace) |
+| CATEGORY | Credit Check | Flashcards | HTTP Yeah You Know Me |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
-| **Github** | [link](http://example.com) | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | x | 3 | X |
-| **Test-Driven Development** | 4 | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 4 | 3 | X |
-| **Fundamental Ruby & Style** | 4 | 3 | X |
-| **Loop or Recursion** | 4 | 3 | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link]http://backend.turing.io/module1/projects/http_yeah_you_know_me |
+| **Github** | [link](http://example.com) | [link]https://github.com/MarcOverZero/flash_cards | [link](http://example.com) |
+| **Functional Expectations** | n/a | n/a | n/a |
+| **Test-Driven Development** | n/a | n/a | n/a |
+| **Encapsulation/Breaking Logic into Components** | n/a | n/a | n/a |
+| **Fundamental Ruby & Style** | n/a | n/a | n/a |
+| **Loop or Recursion** | n/a | n/a | n/a |
 
 #### Notes
 
