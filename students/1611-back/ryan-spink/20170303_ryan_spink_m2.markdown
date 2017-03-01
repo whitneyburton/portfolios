@@ -110,9 +110,21 @@ The project will be assessed with the following rubric:
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### (Tragedy of Commons)
 
-*   [GitHub URL]()
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+
+(takeaways from session)
+
+#### (Debugging the Gender Gap)
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+
+(takeaways from session)
+
+#### (Universal Basic Income)
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
 (takeaways from session)
 
@@ -122,12 +134,35 @@ The project will be assessed with the following rubric:
 *   [Link to Completed Deliverables]()
 
 ### Professional Development Workshops
-#### (Session Name)
+#### (Flower Exercise)
 
-*   [Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
+*   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
 *   [Link to Completed Deliverables](https://docs.google.com/document/d/16sqwlqqF9lTeVCIYCpvVl-0FUKuKr7cPwW4ut4eHfDM/edit)
 
 (takeaways from session)
+
+#### (Johari Window)
+
+
+(takeaways from session)
+
+#### (Feedback II)
+
+*   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/feedback_ii.md)
+
+(takeaways from session)
+
+#### (Agile Practices & Project Management)
+
+*   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/agile_practices_project_management.md)
+
+(takeaways from session)
+
+#### (Finding a Mentor)
+
+
+(takeaways from session)
+
 
 ## E: Feedback and Community Participation
 
