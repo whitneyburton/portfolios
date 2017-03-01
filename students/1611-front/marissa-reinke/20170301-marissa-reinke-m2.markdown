@@ -80,8 +80,7 @@ In this project, you’ll write a flashcard program that is used through the com
 In order to build good habits, we’ve broken the project up into small classes to demonstrate objects that have a single responsibility. As you work through each iteration, use TDD to drive out the desired behavior.
 
 # Evaluation Rubric
-## Project:
-## Instructor:
+## Instructor: Nathaniel
 ## Comments:
 
 ### 1. Fundamental JavaScript & Style
@@ -209,47 +208,74 @@ In this project you will be getting your first real interactions with ReactJS, a
 ### Professional Development Workshops
 #### (Project Management)
 
-* [Link to Completed Deliverables]()
+This was really interesting to learn about different ways that teams can work. 
 
-(takeaways from session)
+It really helped breaking out the different types and having groups learn one then teach it to the rest of the class. 
 
 #### (Feedback)
 
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
+It was good to revisit different feedback technqiues and to help recognize the different ways to approach situations dependent on the person and the project.
 
 #### (Flower Exercise)
 
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://drive.google.com/file/d/0B3svkvGDyNXwMXZqUUFjWE80c1k/view?usp=sharing)
 
-(takeaways from session)
+What is important to me when it comes to having a job. 
 
 #### (Mentor Outreach)
 
-* [Link to Completed Deliverables]()
+I got a mentor at the beginning of the mod and I look forward to continuing to utilize that connection and work together.
+Currently we meet up every other week in person and go over things I have already accomplished. 
+My plan moving forward is to try and find a mentor that is React specific to continue to grow my skillset outside of the classroom. 
+And one more mentor that could help me with navigating the job market abroad - specifically in New Zealand.
 
-(takeaways from session)
+Takeaway - A stronger understanding of how to get a mentor and ways to keep that relationship going. 
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+#### To Hugh: 
+Hugh was a great partner. He was always willing to go through anything he coded while we were coding separately. The thing that could have made the pairing more beneficial for both and efficient I think could have been grabbing a computer and letting one drive while we both could have gone through logically what needed to happen. 
+
+#### To Mike:
+Mike is awesome. He came up to me at a meetup and let me know that even though the pairing sheet was down that he was always available to pair. 
+This mod I definitely utilized him and we ended up having Smikes where he would come into mod2 and go through stuff with whoever wanted to show up. He is extremely  helpful and an amazing teacher. 
+
+#### To Charlie:
+Charlie was an incredible partner. He is so talented and very humble about his skillset. I felt like we worked well together and did a lot of switching off who was driving and going through the logic of what we needed to do before just codiing to code. His CSS wizardy makes me very jealous! 
 
 ### Being a Community Member
+#### John Binning
+Marissa was great about giving me enough information to not let me be stuck, but she did not spoon feed me either
+Negative Feedback: None - honest
+Additional Comments: You rock!!!!!
 
-(feedback to me)
+#### Kristi Green
+You get coding! Your style of help is spot on. Really appreciated your instruction and the fact that you weren't all over my computer typing in the stuff you were trying to help me with, instead, you were able to guide me and allow me to do the typing, as I took in your instruction. Thank you!
+Negative: n/a
+
+#### Dave
+You were very good at guiding us to possible solutions via guided questions. It was helpful to gain thought process throughout our session.
+Negative: Never!
+
+#### Beth Knight
+Marissa is one of the first friends I made at Turing. She's outgoing, helpful, and always down to go to lunch. Whenever I need someone to talk to she's there.
+Additional Comments: Marissa was my gateway person to the frontend group. She's helped me make friends outside of my department, which is super helpful.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+By pairiing with mod1 students in the FE and going out of my way to meet/make friends with people cross mods and programs. 
+Being a part of a posse as well. 
 
 ### Gear Up
 
 #### Tragedy of the commons
 
 [Gist on Session](https://gist.github.com/marissa27/8a63dd06ab6261089034e3b2028334df)
+
+This session was awesome. It was great to have a Gear Up that not only brought in a valuable message, but also had a fun coding/design aspect to it. That site was wonderful to navigate and made it a game to sift through the information provided. 
+This gearup made me happy to be a part of such an inclusive and open community here at Turing and I feel confident the students here will bring that attitude out into the real world and will make a small dent in the problem. 
 
 #### 
 
