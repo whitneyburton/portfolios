@@ -41,7 +41,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Flashcards | HTTP_yeah_you_know_me|
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/bschwartz10/credit_check) | [link](https://github.com/bschwartz10/flashcards) | [link](https://github.com/bschwartz10/http) |
 | **Functional Expectations** | 3 | 2 | 2 |
@@ -65,7 +65,7 @@ Opportunities to pull messages packaging into another class or module
 ## C: Group Projects
 
 | CATEGORY | NightWriter | Black Thursday |
-| - - - | - - - | - - - | - - - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/slague/night_writer) | [link](https://github.com/josh-works/black_thursday) |
 | **Functional Expectations** | 2.5 | X |
