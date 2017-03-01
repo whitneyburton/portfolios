@@ -28,8 +28,48 @@ I maintained a google doc to track the new things I tried and participated in to
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
-<!-- TODO -->
+Reviewer: Nate
+
+Repos:
+<br> [URLockBox](https://github.com/epintozzi/temp-mid-mod-1)
+<br>
+[Hot Reads](https://github.com/epintozzi/hot_links_final)
+
+Notes:
+
+- Good work. You pushed through.
+
+## Rubric
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+### 1. Satisfactory Progress
+
+* 3: Developer completes sections 1 through 5 minor bugs and no missing functionality.
+
+### 2. Ruby & Rails Style & API
+
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 3. Javascript Syntax & Style
+
+* 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 4. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
+
+### 5. User Interface
+
+* 3: The application has many strong pages/interactions, but a few holes in lesser-used functionality
+
+### 6. Documentation
+
+* 3: Project features excellent documentation showing how to develop the application
+
+### 7. Workflow
+
+* 4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
 ## B: Individual Work & Projects
 
