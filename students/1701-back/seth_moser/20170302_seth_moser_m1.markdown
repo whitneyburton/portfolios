@@ -20,26 +20,15 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## A: End of Module Assessment
 
-| Category | Score |
+| Category | Result (pass, fail, pending) |
 | ----- | --- |
-| **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS/FAIL |
-| **Ruby Syntax & API** | PASS |
-| **Completion and Progress** | PASS |
-| **Testing** | PASS |
-| **Workflow** | PASS |
-| **Collaboration** | PASS |
-| **Enumerable & Collections** | PENDING |
-
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
+| Pairing Assessment | PASS |
+| Independent Timed Assessment | PASS |
+| Diagnostic | PASS |
 
 ## B: Individual Projects
 
-| CATEGORY | PROJ 1 Credit Check | PROJ 2 Date Night | PROJECT 3 HTTP |
+| CATEGORY | Credit Check | Date Night | HTTP |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/themenintights/credit_check) | [link](https://github.com/themenintights/date_night) | [link](https://github.com/themenintights/http_yeah_you_know_me) |
@@ -58,7 +47,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## C: Group Projects
 
-| CATEGORY | PROJ 1 Night Writer | PROJECT 2 Black Thursday |
+| CATEGORY | Night Writer | Black Thursday |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/josh-works/night_writer) | [link](https://github.com/themenintights/black_thursday) |
@@ -89,18 +78,25 @@ Feedback from partner projects.
 
 ## E: Community
 
-### Gear Up
+### Gear Ups
 
-#### Session 1
+#### Growth Mindset
 Don't hold yourself back by focusing on the grades or how bad you do. Keep an open mind and continue to learn. Mistakes are a good thing and failure is how we learn.
 
-#### Session 2
+#### Getting Better at Difficult things
 Don't bunch everything up in catagory **B** move one at a time from **A** to **B** to **C**. Master one thing at a time, get a handle on it before moving onto something new.
 
-#### Session 3
+#### Stress Management
 Find ways to deal with stress, something you're comfortable with that's not self destructive. Watch a movie, take a walk, meet with friends. Don't immediately turn to alcohol/other unhealthy options.
 
-#### Session 4
+#### Personal Stories and Connections
+* What brough you here? My sister, she new I was into coding and suggested it.
+* What lenses do you view the world with? Optimism
+* What values drive you? Respect, Morality
+* How do you demonstrate? I treat others the way I want to be treated
+* Could others guess your values based on your demonstration? No because guessing somebody's values is an almost impossible task
+
+#### Debugging the Gender Gap
 Even now there's still a lot of discrimination in the workplace. I may not see it because I don't personally have to deal with it, but keep an eye out, learn the signals and querks people do that show discrimination and take a stand against it. Don't let it to continue because doing nothing is the same and being the one discriminating.
 
 ### Community Participation
