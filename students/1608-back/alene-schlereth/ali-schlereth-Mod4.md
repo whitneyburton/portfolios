@@ -83,6 +83,13 @@ Code generally well written and well factored.
 3: Project has implemented one major technique from the previous two weeks of academic classes.  
 3: Project features excellent documentation showing how to develop the application  
 
+#### Yearbook  
+Notes from Nate:  
+- I like the planning for the future. The settings screen.
+- Looks like you're handling at least a few edge cases, like students that haven't uploaded at picture. But not images that are the wrong aspect ratio...
+- Yearbook is for Jeff
+- Looks clean
+
 ## D: Professional Skills
 
 ### Gear Up
