@@ -122,7 +122,7 @@ There are lots of complexities here. We discussed what this would look like acro
 to Noah:  
 Noah has done a great job leading Pahlka for a second inning. I really appreciated his perserverance in making sure we had solid Spike content/plans and rallying the troops each week when so many of us didn't have the energy. Thank you for your enthusiasm and dedication. Pahlka for life! (Also, yay Pahlka twitter account!)  
   
-to Nick: 
+to Nick:   
 As always, Nick has been a great contributor to Pahlk Posse. He is reliably present to the group and willing to share of his ideas and energy. He showed great leadership this inning, leading a technical spike on Leaflet as well as a networking/mentor spike with Horace where he lead a great conversation. He took the time to do outside background work to make the session a success during wk5 which is never easy. Thanks Nick!    
 
 to Ben:  
