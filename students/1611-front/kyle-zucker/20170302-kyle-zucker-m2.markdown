@@ -21,13 +21,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ### OOP TDD Eval
 Evaluator: yung-jhun
 
-Did ok!
+Did ok! 
 
 
 ## B: Work & Projects
 
 Here are some dope things I've done this Mod
-
 
 #### 2Do-Pivot
 
@@ -165,7 +164,8 @@ This workshop discussed the concept of UBI and consider the possibitlity of UBI 
 
 ### Flower Exercise 
 
-
+Favorite People to Work with: 
+- I enjoy most people, and feel working well with all is a better approach than trying to shelter yourself from people. Ultimately I prefer to work with folks with a similar drive in intensity and effort.
 
 
 
