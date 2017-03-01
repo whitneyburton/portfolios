@@ -8,7 +8,7 @@ This module, I wanted to learn how the Internet works, learn Rails fundamentals,
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -28,6 +28,22 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 * collaboration was strong because I solicited feedback and involved the other person without asking for too much help
   * demonstrated knowledge of different solutions, asked for preference
 
+#### Scores
+1. Conceptual Understanding
+  * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
+2. Analytic/Algorithmic Thinking
+  * 3.5: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+3. Feature Completeness
+  * 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+4. ActiveRecord Syntax and Style
+  * 3.5: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+5. Rails Style
+  * 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
+6. Testing
+  * 3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
+7. Collaboration
+  * 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
 ## B: Individual Work & Projects
 
 The individual projects I completed were created in Rails and helped developed my understanding of the MVC model, ActiveRecord, TDD in an application, and relational databases. Because I'm interested DevOps and how networks work, I pursued a personal project called Panopti-packet.
@@ -45,12 +61,6 @@ Mix Master was the first project where I implemented multiple relationships in a
 * [Original Assignment](http://backend.turing.io/module2/projects/mini-project)
 
 Violet Teacher is a teacher gradebook and student grade portal of my own design. Students and teachers can both create accounts and login. Teachers can create courses and students can enroll in courses. I had grand plans for this project, too much to be completed within the extended weekend. The most valuable lessons I took away from this project were working iteratively by beginning with a minimum viable product and that people in tech have opinions but there is often more than one way to accomplish a goal (with the idea of tradeoffs in functionality / implementation). When implementing users, I didn't think it made sense to have one users table for students and teachers since they had very different attributes. In talking with others about the problem, I was able to explore tradeoffs and decided on separate teacher and student tables.
-
-#### Panopti-packet (Personal Project)
-
-* [GitHub URL](https://github.com/meyerhoferc/panopti-packet)
-
-Panopti-packet is a network application named after the [Panopticon](https://en.wikipedia.org/wiki/Panopticon). I wanted to understand TCP/IP & UDP protocols more in depth while practicing Ruby style, testing, and SQL. This is a less-functional Wireshark that was created for my own learning, not necessarily for others to use. Users can define sessions where they monitor the packet activity on different interfaces on their machine. SQL is used to calculate analytics about the packets that were observed for the defined sessions.
 
 #### Personal Website
 
