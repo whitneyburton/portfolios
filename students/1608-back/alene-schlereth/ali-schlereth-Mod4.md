@@ -99,10 +99,9 @@ Automation is likely inevitable. It was interesting to hear how different people
 
 There are lots of complexities here. We discussed what this would look like across the country with such a variance in cost of living. We also discussed how some of the options in laying it out would not in the end fix income inequality and poverty. It was also important to think about what happens if people are out of work, how does this impact their self worth. 
 
-### Professional Development Workshops  
+### Professional Development Workshops 
 
-[Networking Documentation](https://docs.google.com/document/d/1V3JIS9z-Ceczbgb5JkUSzqXxQeB_mN_sHaSVmjM1YNI/edit?usp=sharing)  
-
+[PD Requirements](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1608-b/ali_schlereth.md)  
 
 ## E: Feedback and Community Participation
 
