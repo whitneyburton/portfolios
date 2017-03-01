@@ -126,8 +126,7 @@ from Jon:
 Ali was a huge asset to the Turing community and all our time at Turing. She is an incredibly hard worker with a level head who has always gone far out of her way to support her classmates.  She has both strong techincal and personal skills that makek her an outstanding developer and teammate. In addition I think she has a strong moral compass which will lead her to meaningful and impactful work in the future, I'm really excited to see what she gets up to in the future and SO glad that she was a part of our mod.  Thanks Ali for always being awesome and supporting those arround you!  Best of luck in the future and if you ever need anything feel free to reach out!    
 
 from Joey:     
-Ali, it has been great working with you on Census and throughout Turing. I admire your organization and dedication to quality work. You pushed me to do some testing and refactoring that I probably wouldn't have done on my own and I appreciate that. It's a shame that we never had the chance to work together on a more exciting project. I think that would have been a lot of fun.    
-## test
+Ali, it has been great working with you on Census and throughout Turing. I admire your organization and dedication to quality work. You pushed me to do some testing and refactoring that I probably wouldn't have done on my own and I appreciate that. It's a shame that we never had the chance to work together on a more exciting project. I think that would have been a lot of fun.  
  ### Playing a Part  
 
 Pahlka Posse:
