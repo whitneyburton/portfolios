@@ -103,8 +103,6 @@ Project Management
 - 4: Team is using a project management tool and updating their progress daily. It's hard to misinterpret user stories
 
 
-(feedback to me)
-
 
 ### MentorSHIP - Sprint 1
 
@@ -137,11 +135,6 @@ Implementation Quality
 
 Application of Techniques
 - 3: Project has implemented one major technique from the previous two weeks of academic classes.
-
-From Ben Pepper:<br>
-It was a pleasure working with Megan again. Her dedication to the project and making things work is inspiring. Her ability to get thrown into a new situation and then fully grasp the concept was stunning and something I hope to emulate soon.
-<br>
-Megan, You always produce amazing apps with stunning code. You should always be proud of what you produce no matter what it is. I know we didn't get as far as you would have liked in MentorSHIP but the code we produced was good and sets up 1610 for a strong start. The work you put into the front end made the site easily navigable and easy to look at.
 
 
 ### MentorSHIP - Sprint 2
