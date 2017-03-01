@@ -78,11 +78,31 @@ We had two opportunities for group work this Mod: the RailsEngine project in wee
 * [GitHub URL](https://github.com/akintner/RailsEngine)
 * [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
 
-(description)
+This was our project during the first week, and in it we used Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema from our Postgresql DB. The project drew on our skills in ActiveRecord to query the DB for increasingly advanced data retrieval for each of the API endpoints. 
 
-(evaluation comments)
+#### Scores: Feature Delivery
 
-(evaluation scores)
+**1. Completion**
+
+* 3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.
+
+#### Technical Quality
+
+**1. Test-Driven Development**
+
+* 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+
+**2. Code Quality**
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+**3. API Design**
+
+* 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+
+**4. Queries**
+
+* 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
 Feedback to me: It has been a great pleasure to pair with Amy on the RailsEngine project. Our work style and schedule complimented well each other and I feel we could have a very efficient workflow.
 I very much appreciated Amy’s dedication to push forward. She is definitely a coding pioneer in a sense that she is not afraid to go ahead and tackle the complex tasks for initial completion to allow the team to maximize the time for refactoring.
