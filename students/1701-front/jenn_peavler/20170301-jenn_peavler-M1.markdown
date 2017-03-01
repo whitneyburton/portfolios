@@ -117,14 +117,18 @@ The developer makes a series of small, atomic commits that document the evolutio
 
 
 ## D: Professional Skills
-(Intro)
+
+* [Professional Branding](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
+* [Linkedin](https://www.linkedin.com/in/jennifer-peavler-17558310)
+* [Github](https://jennpeavler.github.io)
+
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
-*   [GitHub URL]()
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-(takeaways from session)
+It was interesting to think about the people in my life and which ones tend to have a fixed mindset versus a growth mindset.  For me, the biggest take away was to recognize that some people DO have fixed mindsets.  I have a growth mindset.  I am always looking for ways to improve things, find solutions to problems and learn.  So the thing that I walked away realizing, is that some times people don't always want solutions to problems.  Some times, people just want to share their story or vent and the best thing to do is listen and learn from them what I can.
 
 ### PROtocol
 #### (Session Name)
