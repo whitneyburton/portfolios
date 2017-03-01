@@ -8,12 +8,13 @@ Although my mindset was focused on JS and the client-side, during the mod I real
 
 ## Self Assessment
 
-**End-of-Module Assessment**: 3.33  
+**End-of-Module Assessment**: 3
 I successfully used message queues, implemented decently clean and readable JavaScript, and had a pretty clean UI. Overall I thought the end product was pretty good, except I definitely didn't do as well in testing.
 
 I probably wasted a ton of time considering I spent the full 14 hours. I would say the worst part of the experience was that I started to realize I was wasting time and began to stress myself out. I need to learn how to calm myself down during situations where I know I made a lengthy mistake.
 
-**Individual Work & Projects**: N/A
+**Individual Work & Projects**: 3
+I enjoyed doing the open source project. Even though it picked a while to pick the proper project, going into the code and seeing advanced ruby was enjoyable. 
 
 **Group Work & Projects**: 4  
 I gave the capstone project all the energy I could give. I was pretty motivated to learn React, and luckily my group was on board as well. We spent long hours almost every day, and implemented quality server side and client side code.
