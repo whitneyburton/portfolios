@@ -146,4 +146,22 @@ The most valuable feedback that I've gotten at Turing is that I need to open up 
 
 ## F: Feedback
 
+** (From: Andy) **
+
+Charlotte Moore:
+    It's been a terrific time getting to know you during Mod 2. Thank you
+  for being so responsive to questions, and generally amazingly thorough in
+  answering them. You helped clarify more than one thing that I didn't
+  understand this inning, and I really appreciate that. I'm glad you
+  started opening up and talking more. That's a difficult barrier for anyone to
+  overcome, but you're breaking through it awesomely! Given that it seems we're
+  going to be heading into the realm of networking and job-hunting next Mod, I
+  think it would be helpful for you to keep up progress in that area. It's an
+  absolute pleasure having you in our cohort, and I'm really looking forward to
+  seeing what Mod 3 has in store. It's gonna be a good time.
+  
+  ** (From: Courtney) **
+  
+  Charlotte, I really enjoyed working with you on the Little Shop project. I observed your technical strengths to include: testing, debugging styling issues, the MVC framework, and a particular acumen for strategic planning. As a project manager, you considered everyone's opinion and input as equal and frequently engaged in forward/big picture thinking that kept us on a successful track at a manageable pace. As a peer, you consistently stopped what you were doing to help others work through difficult problems and took on many of the unexpected tasks that came up throughout the project. In the future, you may find it useful to advocate for the tasks you specifically want to ensure you're getting the learning experience you desire out of a project. You were very communicative on Slack and GitHub, and your thorough code reviews helped us verify / challenge our assumptions about what our code was doing / not doing. I particularly appreciate the attention to detail you exercised in going through all of the user stories and code at different milestones throughout the project. I enjoyed all of my interactions with you, and I'm proud of the application we built together.
+
 
