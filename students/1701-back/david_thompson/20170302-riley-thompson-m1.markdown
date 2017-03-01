@@ -1,8 +1,7 @@
-# First Last - MX Portfolio
+# Riley Thompson - M1 Portfolio
 
 ## Areas of Emphasis
-
-(insert description here)
+  Ruby/SRP
 
 ## Self-Assessment Scores
 
@@ -10,58 +9,38 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | ---- | ----- | ---- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Community** | X |
-
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |   
 
 ------------------------------------------------
 
 ## A: End of Module Assessment
 
-| Category | Score |
-| ----- | ---- |
-| **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS/FAIL |
-| **Ruby Syntax & API** | X |
-| **Completion and Progress** | X |
-| **Testing** | X |
-| **Workflow** | X |
-| **Collaboration** | X |
-| **Enumerable & Collections** | X |
-
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+| Category | Result (pass, fail, pending) |
+| ----- | --- |
+| Pairing Assessment | PASS |
+| Independent Timed Assessment | PASS |
+| Diagnostic | PASS |
 
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Complete Me | PROJECT 3 (replace) |
+| CATEGORY | Credit Check | Complete Me | HTTP, Yeah You Know Me |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/complete_me) | [link](http://example.com) |
-| **Github** | [link](https://github.com/ryt11/projects/blob/master/credit_check.rb) | [link](https://github.com/ryt11/complete_me) | [link](http://example.com) |
-| **Functional Expectations** | 4 | 2 | X |
-| **Test-Driven Development** | N/A | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | 3 | X |
-| **Fundamental Ruby & Style** | 3 | 2 | X |
-| **Loop or Recursion** | N/A | 4 | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/complete_me) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Github** | [link](https://github.com/ryt11/projects/blob/master/credit_check.rb) | [link](https://github.com/ryt11/complete_me) | [link](https://github.com/ryt11/http_yeah_you_know_me) |
+| **Functional Expectations** | 4 | 2 | 3 |
+| **Test-Driven Development** | N/A | 3 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 2 | 3 |
+| **Loop or Recursion** | N/A | 4 | N/A |
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+*  Complete Me - Strong 2 on style. weird use of self, some long methods
 
 
 ## C: Group Projects
@@ -79,11 +58,8 @@ This section does not need to be populated (and template text should therefore b
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
+*   Night Writer - Would like to see more effort towards SRP next project. Some lengthy methods, but redeeming efforts were made towards refactor.
+Would like to see some edge case testing.
 
 ## D: Professional Development
 
@@ -93,15 +69,15 @@ This section does not need to be populated (and template text should therefore b
 
 ### Pair Feedback
 
-Feedback from partner projects.
-
 *   Project 1 (Jonathan Kidd): Had a great time working on this project with you. It seems like you have a knack for diving into complex problems, and somehow holding it all in your head at once. You were committed to the outcome while being good natured and easy to work with. I think we had a good flow when things were happening. In retrospect we may have stayed mired in problems for too long (1 + hour) before asking for help. I think asking for help or pairing sooner could have left us more time to polish in the end. I also think more time pseudo coding in a deeper way may have helped, rather than diving right into to problems. We did a good job planning big-picture solutions, but not much time mapping exactly how we would get there.
-*   Project 2 (First Last): lorem ipsum
+
+
+*   Project 2 (Maria Stenquist): Working with Riley on the Black Thursday project was a lot of fun. Riley was very calm and patient, and super helpful in explaining concepts. He also kept the mood light and we had some good laughs about the code. Riley brought several strengths to the project: he was really good at understanding the interaction of the objects involved, levels of abstraction, as well as being competent and comfortable using various enumerables. Riley was really conscious of taking breaks and making sure both of us managed stress well, as well as daily check-ins to see how we could better navigate workflow and divisions of labor. I appreciated Riley being patient and helpful with me when I caught a cold, and given the fact that we both were ill for parts of the project I think we did well in supporting the other partner. Using Github was easy working with Riley and we had a good Github workflow throughout the project. Also, we were on the same page as far as TDD. Our pair-dynamics with our driver-navigator setup, as well as ping-pong, worked well,  and agreeing to divide up specific tasks provided exposure to all aspects of the project for each of us. Furthermore, I think we worked well together to debug errors that arose. I really enjoyed working with Riley on Black Thursday!
 
 ### Job Prep
 
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](http://example.com)
+*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/david-thompson-183b38135/)
 
 
 
@@ -109,20 +85,25 @@ Feedback from partner projects.
 
 ### Gear Up
 
-#### Session 1
-(insert reflection summary here)
+#### Session 1: Growth Mindset
+Focus more on praise related to my effort put into work rather, than praise related to some perceived innate gift. Make sure to share your struggles with peers so they don't feel alone, and can relate to someone else.
 
-#### Session 2
-(insert reflection summary here)
+#### Session 2: Getting Better at Difficult Things
+When trying to master a sub-skill keep it to a maximum of three sessions of 40-45 minutes if you can't master the sub-skill in that time then it is too complex.
+Allow yourself to struggle for a while during a complex problem before asking for help, this builds your understanding of the topic. Need to try to implement the process of breaking complex skills into sub-skills because I have never taken that approach before.
 
-#### Session 3
-(insert reflection summary here)
+#### Session 3: Stress Management
+I was able to take the following suggestions from my peers, and I will attempt to implement them in my day-to-day life in order to reduce stress: Meditation, Getting enough sleep, Improving my diet(big one), staying hydrated, attempt to exercise more (endorphins are good).
 
-#### Session 4
-(insert reflection summary here)
+#### Session 4: Personal Stories and Connections
+Not present for session.
+
+#### Session 5: Debugging the Gender Gap
+Not present for session.
 
 ### Community Participation
-(insert description of how you've contributed to the Turing community)
+Maintained the collaborative spirit of the Turing community by interacting regularly
+with my peers in regards to programming questions, and/or general social interaction.
 
 -------------------------------------------------------------
 
