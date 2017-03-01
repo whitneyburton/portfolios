@@ -25,6 +25,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | Independent Timed Assessment | PASS |
 | Diagnostic | PASS |
 
+#### Notes
+
+*  Independent Timed Assessment - Nicely done, Riley. You botched the git stuff a bit — I didn’t see any evidence of a PR from you, and your branch naming was off. If you reread the instructions and can resubmit by tomorrow at 9, I’ll make a note in your score and forgive it. Otherwise, we’re probably looking at a provisional pass based on some follow-up work. _Otherwise_ , really good stuff.
+
 
 ## B: Individual Projects
 
