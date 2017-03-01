@@ -157,20 +157,17 @@ rails_engine is an exercise in creating an internal API that serves up business 
 
 This session focused on bias and how a society of people with even a small amount of bias leads to overall segregation. I have frequently heard the argument that diversity quotas are antithetical to true diversity, but I thought that the Parable of the Polygons game was a clear demonstration that a demand for diversity is the only way to reverse these effects. 
 
-#### (Session Name)
+#### Automation
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Automation will continue to take jobs that were previously held by people of all social classes and education. As a country, we're going to be facing social changes that we must address to ensure our future as a united nation. I have been thinking a lot about how I can contribute to limiting the effects of this problem and I haven't come up with a lot of hopeful thoughts yet. I think the most important thing to do is to continue to discuss it and consider it when making decisions about public leader and policy.
 
+#### Univeral Basic Income
 
-### Professional Development Workshops
-#### (Session Name)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
+In thinking about this in the context of the automation talk, I think that UIB is a possible solution, but certainly not a "foregone conclusion" as Elon Musk suggests. It's a new idea that I don't believe much of the nation will embrace right away, but the more we discuss it, the more likely it is to become more popular. I also believe that investing in early childhood education could allow citizens to achieve the higher education levels that are required to obtain the jobs that automation will produce.
 
 ## E: Feedback and Community Participation
 
