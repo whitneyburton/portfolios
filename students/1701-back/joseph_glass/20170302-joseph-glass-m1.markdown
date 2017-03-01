@@ -1,4 +1,4 @@
-# First Last - M1 Portfolio
+# Joseph Glass - M1 Portfolio
 
 ## Areas of Emphasis
 
