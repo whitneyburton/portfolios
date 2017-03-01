@@ -167,6 +167,7 @@ Either way, I'm thrilled to be studying with _adults_, instead of everything I d
 
 ### Community Participation
 
+
 - I led a spike on Github workflow and usage. Spent 90 minutes digging into Git with many mod1 students. [Here's my lesson "plan"](https://github.com/josh-works/git_practice)
 - I am a strong believer in "teach what you know", so when I get a few questions from other students, I document what my answer is, write it up, and share with the class as a gist. Here's some of those gists, all of which received positive feedback:
 
@@ -176,6 +177,8 @@ Either way, I'm thrilled to be studying with _adults_, instead of everything I d
   - [how to customize your terminal to improve readability and information parsing](https://gist.github.com/josh-works/7f2e6c82d22dca6e9fbc029c8b17703d)
 
 
+- Continuing in this vein, I held several "work through drills" sessions throughout the mod. I basically spent an hour or more helping other students get set up to do mythical creatures, and work through them.
+- I also did a screenhero session with a few students one weekend, to help them with drills.
 - I emptied the dishwasher three or four times throughout the mod. I'm a sucker for a clean kitchen, both at home and anywhere I "work". Also, regularly made coffee and kept the kitchen clean. It's a small thing, but without a few folks noting and fixing issues related to cleanliness, things slowly degrade.
 
 -------------------------------------------------------------
