@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-coding in ruby to create
+Coding in ruby to create IOT devices.
 
 ## Self-Assessment Scores
 
@@ -30,8 +30,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Assessor Comments
 
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 
 ## B: Individual Projects
@@ -89,7 +87,7 @@ Opportunities for Improvement
 + Slow down and commit to TDD. We both struggled with this and probably enabled each other in neglecting it.  Once we tried to implement we made good progress.  We both clearly have a lot more too learn about TDD. 
 + You might be able to combat overly-complicated-method syndrome by talking through these methods with your pair.  You have an impressive ability to make it "do the thing" but there were a few methods in our project that I never really got a full grasp of how they worked.  As you mentioned, I definitely should have been more proactive about speaking up when that occurred.
 
-### To Nick ###
+### To Nick 
 1. 3 strengths
   + Great code organization and eye for detail
   + Communicating and being flexible in terms of time management was really good. I never felt like time was being wasted on this project, and I felt like we were pretty efficient with each-other's time
@@ -128,7 +126,7 @@ Stress. this session we talked about the triggers of stress, as well as the resp
 #### Session 4
 Shared values: This session we talked about the common ground that we can all find despite different backgrounds and beliefs.
 
-### Session 5
+#### Session 5
 Debugging the gender gap. Watched a documentary about the gender imbalance in workplaces in technology. Afterwards discussed the ways that all tech workers can make impacts in this area. Ideas we came up with include 
 
 ### Community Participation
