@@ -23,10 +23,10 @@
 
 ## B: Individual Work & Projects
  
- [Open Source Blog Post](https://medium.com/@ali_schlereth/the-power-of-building-88745d0da977#.ra16jbc5z)
- [Bug Report](https://github.com/rubyforgood/working_landscapes/issues/75) 
- [Working Landscapes](https://github.com/rubyforgood/working_landscapes/pull/83)
- [Habitat for Humanity](https://github.com/rubyforgood/habitat_humanity/pull/126)
+ [Open Source Blog Post](https://medium.com/@ali_schlereth/the-power-of-building-88745d0da977#.ra16jbc5z)  
+ [Bug Report](https://github.com/rubyforgood/working_landscapes/issues/75)   
+ [Working Landscapes](https://github.com/rubyforgood/working_landscapes/pull/83)  
+ [Habitat for Humanity](https://github.com/rubyforgood/habitat_humanity/pull/126)  
  
 ## C: Group Work & Projects
 
@@ -127,7 +127,7 @@ Ali was a huge asset to the Turing community and all our time at Turing. She is 
 
 from Joey:     
 Ali, it has been great working with you on Census and throughout Turing. I admire your organization and dedication to quality work. You pushed me to do some testing and refactoring that I probably wouldn't have done on my own and I appreciate that. It's a shame that we never had the chance to work together on a more exciting project. I think that would have been a lot of fun.    
-
+## test
  ### Playing a Part  
 
 Pahlka Posse:
