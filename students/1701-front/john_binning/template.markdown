@@ -132,7 +132,7 @@ Two biggest takeaways:
 -it's much easier to develop applications that are usable for everyone when we have a diverse team of developers.
 
 ### PROtocol
-#### (Session Name)
+
 
 *   [PROtocol slides](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit#slide=id.g1c505a3b55_0_258)
 
@@ -140,7 +140,6 @@ I learned that I need to be sensitive to how I give an receive feedback.  It is 
 
 
 ### Professional Development Workshops
-#### (Session Name)
 
 *   [Workshop URL](http://backend.turing.io/professional_development/module_one/identity_essentials)
 *   [Github](https://github.com/JohnBinning)
