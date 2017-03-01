@@ -11,7 +11,7 @@ The second area of emphasis for me was learning ruby syntax and fundamentals of 
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | 3 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
