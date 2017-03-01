@@ -156,11 +156,21 @@ Notes:
 - Yearbook is for Jeff
 - Looks clean
 
+* Pulls information from Census
+* Start Game -> Select a Cohort -> Guessing
+* Scoped out the robots / people without
+* Tracker: good
+* Census: added a few routes before starting Yearbook
+* "Discovered" that really only one person can play the game at a time
+* Lots of extra controllers
+* Conclusion: start from scratch
+* Proud: "I added some tests"
+
 ##### Feedback
 
 * ```From Joey:``` Brad, nice work on census. You were super easy to work with and I enjoyed having you on my team. Your workflow is solid and I think your ability to write code is often greater than you give yourself credit for. I don't have anything critical or negative to say this module. Good look on the job hunt. I hope you can buy back your sax one day.
 
-* ```From Ali:``` awaiting feedback
+* ```From Ali:``` Brad was a great team member, especially for a four week project. I enjoyed diving into building universal search functionality together and was impressed with your research skills while we were trying to figure out SAML.  Thanks for being a great collaborator with dedication. 
 
 ## D: Professional Skills
 
