@@ -1,8 +1,8 @@
-# Jack Pincus - MX Portfolio
+# Jack Pincus - M1 Portfolio
 
 ## Areas of Emphasis
 
-(insert description here)
+coding in ruby to create
 
 ## Self-Assessment Scores
 
@@ -10,33 +10,23 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Community** | X |
+| A | **End-of-Module Assessment** | 4 |
+| B | **Individual Projects** | 4 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 4 |
+| E | **Community** | 3 |
 
-#### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 ------------------------------------------------
 
 ## A: End of Module Assessment
 
-| Category | Score |
+| Category | Result (pass, fail, pending) |
 | ----- | --- |
-| **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS/FAIL |
-| **Ruby Syntax & API** | X |
-| **Completion and Progress** | X |
-| **Testing** | X |
-| **Workflow** | X |
-| **Collaboration** | X |
-| **Enumerable & Collections** | X |
+| Pairing Assessment | pass |
+| Independent Timed Assessment | pass |
+| Diagnostic | pass |
 
 #### Assessor Comments
 
@@ -46,30 +36,23 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Date Night | PROJECT 3 (replace) |
+| CATEGORY | Credit Check | Date Night | http yeah you know me |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://example.com) |
-| **Github** | [link](https://github.com/jwpincus/credit_check) | [link](https://github.com/jwpincus/date_night) | [link](http://example.com) |
-| **Functional Expectations** | 4 | 3 | X |
-| **Test-Driven Development** | n/a | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 2 | 3 | X |
-| **Fundamental Ruby & Style** | 2.5 | 3 | X |
-| **Loop or Recursion** | n/a | n/a | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Github** | [link](https://github.com/jwpincus/credit_check) | [link](https://github.com/jwpincus/date_night) | [link](https://github.com/jwpincus/http_yeah_you_know_me) |
+| **Functional Expectations** | 4 | 3 | 3 |
+| **Test-Driven Development** | n/a | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 2 | 3 | 3 |
+| **Fundamental Ruby & Style** | 2.5 | 3 | 3 |
 
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 
 ## C: Group Projects
 
-| CATEGORY |  Night Writer | PROJECT 2 |
+| CATEGORY |  Night Writer | Black Thursday |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://example.com) |
-| **Github** | [link](https://github.com/jwpincus/night_writer) | [link](http://example.com) |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
+| **Github** | [link](https://github.com/jwpincus/night_writer) | [link](https://github.com/markyv18/black_thursday) |
 | **Functional Expectations** | 4 | X |
 | **Test-Driven Development** | 1 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
@@ -79,7 +62,7 @@ This section does not need to be populated (and template text should therefore b
 #### Notes
 
 
-*   Note 1: TDD in project was unable to execute due to an input file that was misnamed when we cleaned up our test data before turning in. We used TDD throughout the project, and going back 1 commit or changing the input file path makes it functional again. My feeling is that getting the same score as if I had not even written any tests is bad feedback at best, and a demoralizing personally.
+*   Note 1: TDD in project was unable to execute due to an input file that was misnamed when we cleaned up our test data before turning in. We used TDD throughout the project, and going back 1 commit or changing the input file path makes it functional again.
 *   Note 2 (if applicable)
 
 
@@ -96,11 +79,11 @@ Feedback from partner projects.
 *   Project 1 (Nicholas Jacques): 
 ### From Nick ###
 Strengths
-    + Really strong ability to turn algorthimic concepts into functional code.  I could suggest an idea and you would quickly implement it in the program.
-    + Great time management, time spent coding was focused with few distractions.  
-    + We figured out a basic github workflow. No catastrophes.
-    + File IO master.
-    + Overall a really positive pairing experience.
++ Really strong ability to turn algorthimic concepts into functional code.  I could suggest an idea and you would quickly implement it in the program.
++ Great time management, time spent coding was focused with few distractions.  
++ We figured out a basic github workflow. No catastrophes.
++ File IO master.
++ Overall a really positive pairing experience.
     
 Opportunities for Improvement 
 + Slow down and commit to TDD. We both struggled with this and probably enabled each other in neglecting it.  Once we tried to implement we made good progress.  We both clearly have a lot more too learn about TDD. 
@@ -143,7 +126,10 @@ Getting better at difficult things. This session pointed out that the brain is o
 Stress. this session we talked about the triggers of stress, as well as the responses and actions that people can take to deal with stress. The important takeaway for me was that managing stress is critical, but even mor ecritical is managing stress in ways that are healthy for me and my world.
 
 #### Session 4
-(insert reflection summary here)
+Shared values: This session we talked about the common ground that we can all find despite different backgrounds and beliefs.
+
+### Session 5
+Debugging the gender gap. Watched a documentary about the gender imbalance in workplaces in technology. Afterwards discussed the ways that all tech workers can make impacts in this area. Ideas we came up with include 
 
 ### Community Participation
 Participated in the Turing Lab Posse, and was invited to present my side project during a spike. 
