@@ -85,6 +85,29 @@ LookingFor is a rails application that pulls developer job postings from the int
 
 ##### Instructor Feedback:
 
+Nate:
+- Nice dev ops work, before it broke
+- Don't put PRY in production
+- Cool to see data (companies) actually appearing from your scrapers
+- Nice work with queues
+- Could do a better job of showing the code. Focus our attention on something. If it needs to be improved, say how.
+
+Jeff:
+* It's running SQL, and stuff, and lots of errors
+* Streaming a bunch of fucked up data into Monocle
+* So..why are there multiple scrapers running? How could you possibly debug this?
+* LookingFor watches a queue, scrapers get jobs and drop them into the queue
+* LookingFor finds the company in Monocle or creates a new one
+* "Location information isn't passing Travis" - it's still unhappy
+* Tracker: not good
+* Inherited three scrapers, revised them, built the additional two scrapers
+* Sounds like some good technical challenges, but...not convinced any of the scrapers actually work
+* Risk: revised the original scrapers
+* Proud of: usage of queues
+* This project could have been the best of the five today, but as demoed it's basically a more messed
+up version of LookingFor than we had a week ago.
+* Something about needing to change the Google Maps key
+
 ## C: Individual Work
 
 #### Open Source Contribution
