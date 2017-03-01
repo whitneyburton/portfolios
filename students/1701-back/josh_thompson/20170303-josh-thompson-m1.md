@@ -3,7 +3,7 @@
 
 I enjoyed learning lots in Mod 1. I've got tons more to learn, obviously, the biggest one being better with knowing when and how to make new classes, and move messages between them.
 
-Single methods are "easy", as is moving data around inside of classes, but I'm not yet comfortable spinning up new classes to do things, and interacting with them from different classes.
+Single methods are "easy", as is moving data around inside of classes, but I don't yet find it trivially easy to spin up new classes to do things with them, and interacting with them from different classes.
 
 Same with modules and mix-ins. After doing Black Thursday, I feel like I'll know _where I'm going_ better in the future, and everything I've learned in _POODR_ and _Eloquent Ruby_ will be easier to implement next time around.
 
