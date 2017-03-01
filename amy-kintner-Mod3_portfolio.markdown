@@ -84,7 +84,9 @@ We had two opportunities for group work this Mod: the RailsEngine project in wee
 
 (evaluation scores)
 
-(feedback to me)
+Feedback to me: It has been a great pleasure to pair with Amy on the RailsEngine project. Our work style and schedule complimented well each other and I feel we could have a very efficient workflow.
+I very much appreciated Amy’s dedication to push forward. She is definitely a coding pioneer in a sense that she is not afraid to go ahead and tackle the complex tasks for initial completion to allow the team to maximize the time for refactoring.
+Amy is also very strong on building documentation. Relying on her academic background she could build a very strong product documentation that anyone can follow easily.
 
 #### Pinspiration
 
