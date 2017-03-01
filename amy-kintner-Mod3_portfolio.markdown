@@ -16,9 +16,9 @@ They hype concerning the difficulty of Mod 3 had me a bit worried, but I found t
 
 ## A: End of Module Assessment
 
-### Accessor: Casey
 
-### Notes:
+
+#### Notes from Casey:
 * No need to have flash messages in your API controller; we just want to return JSON
 * Also, no need to set instance variables in your API controller either
 * Like that you have a test for your service, I don't see a test for your `Store` PORO though
@@ -29,23 +29,23 @@ They hype concerning the difficulty of Mod 3 had me a bit worried, but I found t
 * I suggest using VCR to test your API calls rather than hitting it every time.
 * Also - be sure to *only* use Capybara (visiting the page) in your feature tests and not in your request specs.
 
-### 1. Ruby Style
+#### 1. Ruby Style
 
 * 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
 
-### 2. Rails Syntax & API
+#### 2. Rails Syntax & API
 
 * 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-### 3. Testing
+#### 3. Testing
 
 * 3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.
 
-### 4. Progression/Completion
+#### 4. Progression/Completion
 
 * 3: Developer is able to implement solutions at the speed of a junior developer.
 
-### 5. Workflow
+#### 5. Workflow
 
 * 4: Developer commits every 15 minutes
 
@@ -92,7 +92,7 @@ We had two opportunities for group work this Mod: the RailsEngine project in wee
 * [Original Assignment](http://backend.turing.io/module3/projects/cloney_island#teams)
 
 The goal of this project was to clone a new platform from scratch. Within it, we built a well-documented API to both internally consume data and provide users with a developer option and web-tokens for API access. Our group's platform to clone, Pinterest, was built to handle multiple types of users (guests, registered users with either pinterest credentials or Google Oauth credentials, and admins). The database for our app ended up being quite complex, as all of the items - pins, boards, likes, comments - were interrelated and tied to a user's credentials, thus the database ended up being a platform for us to explore polymorphic associations. Additionally, the visual layout of Pinterest provided us with an opportunity to delve deep into styling, masonry, and image hosting. 
-
+#### Technical Evaluation
 **Client Expectations**
 
 *   Team completed all the user stories and requirements set by the client.
@@ -107,8 +107,6 @@ The goal of this project was to clone a new platform from scratch. Within it, we
 
 *   Team used a project management tool to keep their project organized.
    *   4: Better than expected
-
-### Technical Evaluation
 
 **Git Workflow**
 
@@ -125,13 +123,6 @@ The goal of this project was to clone a new platform from scratch. Within it, we
 *   Project demonstrates well-factored code and a solid grasp of MVC principles.
    *   3: As expected
 
-**Bonus**
-
-We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
-
-*   Did the team push themselves by taking risks?
-   *   0: No
-
 
 ## D: Professional Skills
 
@@ -142,21 +133,20 @@ This mod's professional development focus was on the job hunt, including researc
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+PotP speaks to the power of group norms: a seemingly innocuous attitude, wanting to be surrounded by at least 1/3 of people who look like you, when embraced by a large group, can have huge implications on that community. Considering this reality, what knowledge and understandings should Turing impart to students to ensure they do not enter the field perpetuating ideas that are in conflict with our mission. The more diverse the field at Turing becomes, the most diverse the entire population in the tech industry becomes - at least thats the goal. The actual implementation of this becomes incredibly complex, especially at a school that has admissions requirements: do you sacrifice admissions requirements for diversity, do you sacrifice diversity for admission of people who come from some background that might help them be successful, do you bring in people who are underrepresented and then strand them because their background isn’t conducive to this kind of knowledge and career? And more generally, how does a school achieve diversity while still bringing in people who can succeed in this career path? Diversity "quotas" are sometimes dismissed as counter-productive or missing the point of actually valuing diversity. PotP does demonstrate how they may add some value. What are your attitudes toward diversity quotas; does this game change your assumptions? In general, I think diversity quotas is a terrible name for a good idea; as we know from genetics, diversity leads to strength in a variety of ways, the most basic being increased chances of survival. By labeling this as a quota, it automatically points towards the ruling class, whatever that may be in the situation, as the folks with the power to dictate the quota and fill it. I think the very idea of a diversity quota is gendered male and racially white, which is part of what breeds resentment about the term. 
 
 ### Gear Up
 #### Automation
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This is a serious topic, and I'm super glad we covered it. It's not something that I've actually spent a tremendous amount of time thinking about, though the discussion we had in class certainly piqued my interest. In general, I'm of the mind that increased automation is not the best choice because it will certainly - and has already - take away jobs, and the jobs it will take away first are the ones that presenlty belong to the lower-income classes around the world, and they're the most likely to suffer the most and NOT be able to quickly rebound if those jobs disappear. Our group immediately jumped into discussion of Universal Basic Income as a bandaid, and we had some robust arguments about the issue, including: where will the money come from? how will it motivate people? what will it motivate people to do? who server to benefit the most from it and why? And I'm going to save more of this discusion for the next bit because we jumped straight into the heart of the matter in the next gear up. 
 
 #### Universal Basic Income
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
+ALRIGHT, UBI. Socialism. Star Trek, here we come. 
 
 ## E: Feedback and Community Participation
 
