@@ -16,21 +16,111 @@
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+### 1. Ruby Style
+
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components**
+
+### 2. Rails Syntax & API
+
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+### 3. Testing
+
+* 3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.**
+
+### 4. Progression/Completion
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.**
+
+### 5. Workflow
+
+* 4: Developer commits every 15 minutes**
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+This is a summation of my individual projects for Module 3
 
-#### Rails Engine
+### Projects
+
+#### RehearsalTracker
+
+* [GitHub URL](https://github.com/wlffann/rehearsal_tracker)
+* [Production Site](http://rehearsaltracker.herokuapp.com/)
+* [Original Assignment](http://backend.turing.io/module3/projects/self_directed_project)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+## C: Group Work & Projects
+
+### Pinspiration
+
+* [GitHub URL](https://github.com/wlffann/pinspiration)
+* [Production Site](https://pinspirations.herokuapp.com/)
+* [Original Assignment](http://backend.turing.io/module3/projects/cloney_island#learning-goals)
+
+Need a new recipe? Maybe some ideas on what to wear to work? What color should you paint your bedroom? Let’s create a platform that allows you to keep all of your inspiration in one place.
+
+##### Completion
+
+**Client Expectations**
+
+*   Team completed all the user stories and requirements set by the client.
+   *   3.5: As expected, but great
+
+**User Experience**
+
+*   Project exhibits a production-ready user experience.
+   *   4: Better than expected
+
+**Organization**
+
+*   Team used a project management tool to keep their project organized.
+   *   4: Better than expected
+
+#### Technical Evaluation
+
+**Git Workflow**
+
+*   Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+   *   3.5: Better than expected
+   *   3.5: As expected
+
+**Test Quality**
+
+*   Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+   *   4: Better than expected
+
+**Code Quality**
+
+*   Project demonstrates well-factored code and a solid grasp of MVC principles.
+   *   3: As expected
+
+**Bonus**
+
+We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
+
+*   Did the team push themselves by taking risks?
+   *   0: No
+
+### Pivotal Tracker Gem
+
+* [GitHub URL](https://github.com/wlffann/pivotal-tracker/tree/api_version5)
+
+Work on updating Pivotal Tracker Gem to work with v5 of the API. I contributed the readme, the memberships resources endpoint, and a proxy class to allow to gem to mock ActiveRecord's chained methods.
+
+### Rails Engine
 
 * [GitHub URL](https://github.com/wlffann/rails_engine)
 * [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
 
 rails_engine is an exercise in creating an internal API that serves up business anyltics. It features endpoints that return information on customers, merchants, invoices, invoice items and transactions.
-
-#### Evaluation
 
 ##### Feature Delivery
 
@@ -55,25 +145,6 @@ rails_engine is an exercise in creating an internal API that serves up business 
 **4. Queries**
 
 * 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
-
-## C: Group Work & Projects
-
-### Projects
-
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
 
 ## D: Professional Skills
 (Intro)
