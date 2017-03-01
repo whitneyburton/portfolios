@@ -111,7 +111,7 @@ An application to track daily caloric intake and exercise. Compare calorie intak
 
 ##### Feedback
 
-* ```From Anthony:``` (placeholder)
+* ```From Anthony:``` I had a blast working with Brad. I think we got along really well and had a great work dynamic. Brad drove half the project and took on alot of the toughest aspects of the project. We both worked really hard and I was happy with the outcome of the project. I was partners with Brad in mod two and I feel like he improved alot in terms of taking the lead and voicing his opinions.
 
 ---
 
@@ -196,7 +196,7 @@ Because the rate of job loss is so sudden and so severe, we need an equally sudd
 
 I co-led a spike on Github workflow. Most of the participants were mod 1 and mod 2 students. I recall how confusing Github was to me not that long ago, so it was cool to be able to help others with something that used to be so intimidating to me.
 
-I paired with my prework guidee several times. I also paired with Eric on APICurious for an hour. Additionally, I've informally helped numerous people by making myself available in the basement. Hanging out in the pairing room is a good place to help others. My favorite was helping a mod 1 front end student on a JavaScript project earlier in the module.
+I paired with my prework guidee several times. I also paired with Eric on APICurious for over hour. Additionally, I've informally helped numerous people by making myself available in the basement. Hanging out in the pairing room is a good place to help others. My favorite was helping a mod 1 front end student on a JavaScript project earlier in the module. 
 
 ### Feedback to Others
 
