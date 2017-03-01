@@ -10,11 +10,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Community** | X |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 4 |
 
 #### Notes
 
@@ -29,8 +29,8 @@ This section does not need to be populated (and template text should therefore b
 
 | Category | Score |
 | ---- | --- |
-| **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS/FAIL |
+| **Written Diagnostic** | PASS |
+| **Timed Exercise** | PASS |
 | **Ruby Syntax & API** | X |
 | **Completion and Progress** | X |
 | **Testing** | X |
@@ -48,7 +48,7 @@ This section does not need to be populated (and template text should therefore b
 | CATEGORY | Credit Check | Flashcards | HTTP |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
-| **Github** | [link](https://github.com/mariastenquist/projects) | [link](https://github.com/mariastenquist/flashcards) | [link](http://example.com) |
+| **Github** | [link](https://github.com/mariastenquist/projects) | [link](https://github.com/mariastenquist/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Functional Expectations** | 3 | 3 | 2 |
 | **Test-Driven Development** | N/A | 3 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 | 2 |
@@ -68,7 +68,7 @@ This section does not need to be populated (and template text should therefore b
 | CATEGORY | Night Writer | Black Thursday | 
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
-| **Github** | [link](https://github.com/mariastenquist/night_writer) | [link](http://example.com) |
+| **Github** | [link](https://github.com/mariastenquist/night_writer) | [link](https://github.com/ryt11/black_thursday) |
 | **Functional Expectations** | 3 | X |
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
