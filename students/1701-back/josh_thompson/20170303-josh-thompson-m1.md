@@ -35,25 +35,23 @@ I look forward to the learning to come in the upcoming modules!
 
 ## A: End of Module Assessment
 
-| Category | Score |
-| ----- | --- |
-| **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS |
-| **Ruby Syntax & API** | 4 |
-| **Completion and Progress** | 3 |
-| **Testing** | 3 |
-| **Workflow** | 3 |
-| **Collaboration** | 3 |
-| **Enumerable & Collections** | n/a |
+|  | Paired Assessment | Timed Exercise | Written Diagnostic |
+| ----- | --- | --- | --- |
+| **Outcome **| PASS | PASS | PASS |
+| **Ruby Syntax & API** | 4 | 4 | - |
+| **Completion and Progress** | 3.5 | x | - |
+| **Testing** | 3 | 3 | - |
+| **Workflow** | 3 | 4 | -  |
+| **Collaboration** | 3 | n/a | - |
+| **Enumerable & Collections** | n/a | 4 | - |
 
 #### Assessor Comments (Lauren Fazah, timed exercise)
 
-*   great use of test_helper
-* would be nice to see separate character attribute tests - I know this feels tedious, but will pay off (removing one attribute won't change unit tests for other attributes, etc)
-* strong efforts towards i3 made - **will grade as 3.5**
-* scores: 4/4/3/4/4
-* Note 2 (if applicable)
-
+```
+ - great use of test_helper
+ - would be nice to see separate character attribute tests - I know this feels tedious, but will pay off (removing one attribute won't change unit tests for other attributes, etc)
+ - strong efforts towards i3 made - **will grade as 3.5**
+```
 
 ## B: Individual Projects
 
