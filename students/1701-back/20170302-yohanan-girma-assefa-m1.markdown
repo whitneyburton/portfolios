@@ -9,7 +9,7 @@ Understand the foundations of Ruby.
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | 2 |
 | B | **Individual Projects** | 2 |
 | C | **Group Projects** | 1 |
@@ -22,7 +22,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## A: End of Module Assessment
 
 | Category | Score |
-| ----- | - |
+| ----- | --- |
 | **Written Diagnostic** | PASS |
 | **Timed Exercise** | FAIL |
 | **Ruby Syntax & API** | N/A |
@@ -41,7 +41,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Flash Card | Master Mind |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/mastermind.markdown) |
 | **Github** | [link](https://github.com/yoasyo25/classwork-/blob/master/luhn_algorithm_3.rb) | [link](https://github.com/yoasyo25/Flashcards) | [link](https://github.com/yoasyo25/master_mind) |
 | **Functional Expectations** | 3 | 2 | X |
@@ -54,7 +54,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## C: Group Projects
 
 | CATEGORY | Night Writer |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) |
 | **Github** | [link](https://github.com/caward12/night_writer) |
 | **Functional Expectations** | 3 |
