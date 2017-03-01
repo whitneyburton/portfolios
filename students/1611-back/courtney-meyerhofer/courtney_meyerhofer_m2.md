@@ -191,6 +191,10 @@ To Dan Olson:
 
 Dan, I really enjoyed working through the Bike Share project with you. I think your technical strengths from this project were in creating a well-stitched user experience and the MVC structure. The styling you added made our project look professional. You were very communicative about what you were working on and eagerly took on big aspects of our project like pagination, CRUD-ing out routes, and seeding. You also influenced the group positively by teaching back the concepts that you learned and offering help to other group members. In the future, when you are frustrated with code, verify your assumptions about what you've written. Often the reasons you were stuck were small things like test setup. You brought a lot of positive energy and motivation to our group. Your ambition is contagious, and I look forward to working with you in the future.
 
+To Valerie Trudell:
+
+Valerie, I really enjoyed working on the Little Shop project with you. I think your strengths were most obvious in the MVC structure and writing tests. You took on some of the most difficult features, such as the Admin-Orders dashboard. As a project member, I appreciate how you entertained everyone's ideas and asked questions that drove the development of our project. You were very communicative about what you were working on, and you consistently contributed high quality code to our application. In future projects, it might be helpful to advocate for what features you specifically want to work on to make sure that you're getting the learning experience you desire. Throughout Little Shop, you demonstrated tenacity and engagement in the development process. Your code reviews and questions asked during stand-ups made our code base stronger. I'm proud of the application we built together, and I look forward to working with you in the future.
+
 ### Being a Community Member
 
 From Charlotte Moore:
