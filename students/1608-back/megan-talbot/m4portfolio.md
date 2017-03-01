@@ -17,43 +17,43 @@
 ## A: End of Module Assessment
 
 
-1. Satisfactory Progress
+Satisfactory Progress
 
 * 3: Developer completes sections 1 through 5 minor bugs and no missing functionality.
 
-2. Ruby & Rails Style & API
+Ruby & Rails Style & API
 
 * 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-3. Javascript Syntax & Style
+Javascript Syntax & Style
 
 * 4: Developer uses elegant and idiomatic Javascript to accomplish common tasks. Demonstrates solid understanding of function passing and manipulation. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-4. Testing
+Testing
 
 * 3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
 
-5. User Interface
+User Interface
 
 * 3: The application has many strong pages/interactions, but a few holes in lesser-used functionality
 
-6. Documentation
+Documentation
 
 * 3: Project features excellent documentation showing how to develop the application
 
-7. Workflow
+Workflow
 
 * 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+Individual work in module 4 only consisted of contibution to an open source project.
 
 Open Source - https://github.com/publiclab/plots2/pull/1291
 Blog post - 
 
-#### (Project Name)
+#### Open Source
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -176,28 +176,33 @@ Documentation
 
 ### Mashup 
 
-* [GitHub URL]()
+* [GitHub URL - Frontend](https://github.com/meganft/mashup-frontend)
+* [GitHub URL - Backend API](https://github.com/vidoseaver/mashup-api)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/secondary.md)
 
-
+Mashup was our secondary project, in which we made an interface for users to sort groups of turing students based on differnet paramaters.
 
 ## D: Professional Skills
 
 ### Gear Up
-#### (Session Name)
+#### Tragedy of the Commons
 
-Automation 
-https://github.com/turingschool/gear-up/blob/master/automation.markdown
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown )
 
-Tragedy of the commons
-https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown 
+This gear up was conducted in our cohorts, which I really enjoyed. I was familiar with this phrase as a economic term, and it was intrersting to see it described in a more socially impactful way.  Also, I really loved that we used an interesting technology to explore this subject.
 
-Universal Basic Income 
+#### Automation
 
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-* [GitHub URL]()
+Summary
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Universal Basic Income
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+
+Summary
+
 
 
 ### Professional Development Workshops
@@ -206,8 +211,9 @@ Submitted via PR here https://github.com/turingschool/career-development-curricu
 
 ## E: Feedback and Community Participation
 
-Led 3 spikes with the Bezos posse. Paired 4 times with Mod 1 students
+I was happy to be co-lead of the Bezos Posse with Jon Kimble this module. We have both been active member since our first mods, and I think we did a great job leading. We had 2 speakers and co-led 3 spike sessions. They were An Intro to Bezos, Pitching, and User Testing. 
 
+I also paired 4 times with module 1 students. spreadsheet
 
 
 ### Giving Feedback
