@@ -105,7 +105,6 @@ Idea Box was very similar to linked list, but allowed the ideas to persist based
 With ToDo Box, we took another group's Idea Box and pivoted it into a new site.  ToDo box could filter ToDo's level of importance, and completed ideas could be recalled.  We used Selenium testing, and had to refactor the old code as well.
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Growth Mindset
@@ -133,11 +132,9 @@ Two biggest takeaways:
 
 ### PROtocol
 
-
 *   [PROtocol slides](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit#slide=id.g1c505a3b55_0_258)
 
 I learned that I need to be sensitive to how I give an receive feedback.  It is important to stop and think about how I am perceiving/giving feedback based on how I'm feeling.
-
 
 ### Professional Development Workshops
 
@@ -146,8 +143,7 @@ I learned that I need to be sensitive to how I give an receive feedback.  It is 
 *   [Linkedin](https://www.linkedin.com/in/john-binning-289607132/)
 *   [Stack Overflow](http://stackoverflow.com/users/7484758/john-binning)
 
-
-I recognize the value of looking professional on social media.  Social media is a great way to network, and could lead to job leads.
+I recognize the value of looking professional on social media.  Social media is a great way to network, and could lead to job leads.  It influences other people's impressions of you.
 
 ## E: Feedback and Community Participation
 
