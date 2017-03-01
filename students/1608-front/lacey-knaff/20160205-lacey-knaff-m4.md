@@ -128,6 +128,8 @@ This was kind of a scary Gear Up. I mean, I knew that automation was thing but d
 ####Universal Basic Income
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
+I enjoyed this gear up discussion. I've never really heard of the idea of UBI, so it was interesting to read and talk about with other students. We came away pretty much as unsure of the future as when we went in.
+
 
 ## E: Feedback and Community Participation
 
