@@ -18,9 +18,9 @@ I maintained a google doc to track the new things I tried and participated in to
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: X
+*   **A: End-of-Module Assessment**: 3.14 (avg of all scores)
 *   **B: Individual Work & Projects**: 3
-*   **C: Group Work & Projects**: X
+*   **C: Group Work & Projects**: 3.63 (avg of all scores)
 *   **D: Professional Skills**: 3
 *   **E: Feedback & Community Participation**: 3
 
@@ -129,7 +129,33 @@ Reviewer: Mike
 * 3: Project has implemented one major technique from the previous two weeks of academic classes.
 
 #### Second Check-in
-<!-- TODO: Need scores -->
+
+Reviewer: Mike
+
+Notes:
+* All stories complete.
+* Documentation is clean and complete.
+* Some opportunities to refactor in controllers.
+
+### 1. Project Management
+
+* 4: Team is using a project management tool and updating their progress daily.
+
+### 2. Completion & Pace
+
+* 3: Team completed all stories scheduled for this checkpoint by the product owner.
+
+### 3. Implementation Quality
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+### 4. Application of Techniques
+
+* 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
+
+### 5. Documentation
+
+* 4: Project features excellent documentation showing how to develop the application including a screencast or tutorial
 
 ### Feedback
 (feedback to me)
@@ -143,8 +169,8 @@ Reviewer: Mike
 
 (evaluation comments)
 
-(evaluation scores)
 
+### Feedback
 (feedback to me)
 
 ## D: Professional Skills
@@ -194,8 +220,22 @@ How I'll achieve this:
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
-<!-- TODO -->
-(feedback from me)
+
+Anna:
+This is my fifth project with Anna while here at Turing. It's been an interesting experience to be able to grow and learn together over the last 7 months in a much deeper capacity than most of my other peers. Anna is smart and confident and can solve any problem. Even when she gets frustrated, she's so good at using that energy to find answers and not give up. She arguably holds herself to a higher standard than anyone else I've paired with during my time here at Turing and whoever she works with in the future will be lucky to have her on their team.
+
+
+Nick:
+I really enjoyed working with Nick on the capstone project. I tend to be pretty conservative and pick options that feel a little clearer or more comfortable. Nick is fearless. The webhook he implemented is so cool and something I probably wouldn't have had to courage to tackle myself. I have literally never hear him utter the words "I can't" and that is why he is going to be such a strong asset to whichever team he joins after Turing.
+
+
+Noah:
+Noah was a great teammate during the capstone. He has a great enthusiasm and imagination for coming up for creative solutions to problems and ideas for features of the app.  Our app implemented some new tools and techniques that we learned throughout the mod because Noah had so much excitement for experimentation.
+
+
+Daniel:
+This is my second project with Daniel (first was Headcount in mod 1). I've enjoyed being able to come full circle on this particular pairing because I remember in mod 1 it took a couple days for us to find a workflow and pace, and this time I think we hit a better groove, and much faster. Daniel has such a strong work ethic and rocked all the javascript. Not only that, but he's a really great teacher. I definitely felt a big struggle learning javascript but Daniel's explanations got me up to speed much faster than if I'd continued to suffer on my own to the point that we were even able to divide some tasks to do solo which I really liked because it helped me feel more confident in my javascript skills. Daniel would frequently pause to make sure I understood what was happening in the project for the pieces that were confusing to me. He'll be a great asset to any team, and I imagine also a great mentor to other developers he works with as he continues to grow and learn.
+
 
 ### Being a Community Member
  <!-- TODO -->
