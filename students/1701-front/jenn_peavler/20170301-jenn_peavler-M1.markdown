@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Jennifer Peavler - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I wanted to obtain a firm grasp on the structure and uses of javascript and jQuery.  Particularily I wanted to see my code become more clear and eloquent as the module progressed.  I wanted to become more proficient at CSS and develop a more refined sense of design.  
 
 ## Rubric Scores
 
