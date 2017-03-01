@@ -65,7 +65,6 @@ I look forward to the learning to come in the upcoming modules!
 | **Test-Driven Development** | n/a | 4 | 1 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 2 | 2 |
 | **Fundamental Ruby & Style** | 4 | 3 | 2 |
-| **Loop or Recursion** | n/a | recursion | n/a |
 
 ### Notes
 
@@ -160,6 +159,12 @@ How have I been challenged by the growth mindset concept? How do I rest and rech
 Stress is a normal part of life, so figuring how to manage it well is key. I've not been particularly stressed at Turing (yet!), but that's partially because I do lots of stress-reduction projects and try to take care of myself.
 
 #### Session 4
+
+I enjoyed learning more about others in my class. Most of us see the world very differently, and simultaneously quite similarly. There's an interesting tension between the two.
+
+Either way, I'm thrilled to be studying with _adults_, instead of everything I did in high school and college. We all bring such fascinating stories to the table, and it's great learning more about everyone.
+
+#### Session 5
 100% agree with the discussion on gender and racial bias in the tech community. One of the reasons I'm excited to be at Turing is to be able to take this attitude of inclusivity forward into any company and team I work with in the future.
 
 
@@ -173,7 +178,9 @@ Stress is a normal part of life, so figuring how to manage it well is key. I've 
   - [guide to getting started with ruby drills, like "mythical creatures"](https://gist.github.com/josh-works/ac68a974cb9e0d73d663ea6c8cf3e8d8) (I shared this with 1703 BEE students already, and plan on continuing to help them as much as possible.
   - [how to customize your terminal to improve readability and information parsing](https://gist.github.com/josh-works/7f2e6c82d22dca6e9fbc029c8b17703d)
 
+
 - I emptied the dishwasher three or four times throughout the mod. I'm a sucker for a clean kitchen, both at home and anywhere I "work". Also, regularly made coffee and kept the kitchen clean. It's a small thing, but without a few folks noting and fixing issues related to cleanliness, things slowly degrade.
+
 -------------------------------------------------------------
 
 ## Final Review
