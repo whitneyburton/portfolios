@@ -41,6 +41,7 @@ I feel that over the past six weeks I have developed a very basic understanding 
 
 #### Notes
 Evaluator Comments:
+
     *  CreditCheck: talked about variables and methods to be created
 
     *  DateNight: Implementation showed struggles on grasping abstractions. Separation of concerns needed.Can explain implementation but struggles with problem solving from scratch.
@@ -48,6 +49,7 @@ Evaluator Comments:
     *  HTTP: Some opportunity to refactor by pulling html and messages out into a module of some sort.
 
 My Comments:
+
     *  I think the biggest reflection I have on my scores is the progress I've made.  I was weak in a number of areas to begin, but have made progress in refining and refactoring my code. I know I still have plenty of room to continue to grow, but I think this is one area that has grown significantly since day one.
 
 
@@ -66,6 +68,7 @@ My Comments:
 
 #### Notes
 Evaluator Comments:
+
     *  NightWriter: Talked about some refactoring spots and longer methods (use of enumerables). Talked about how to push out a FileIO class. Talked about tests that don't rely on other methods. Unit testing.
 
 ## D: Professional Development
