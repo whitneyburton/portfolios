@@ -6,10 +6,10 @@ This module I wanted to become as job-ready as possible. I also wanted to gain a
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: 3
+*   **A: End-of-Module Assessment**: 4
 *   **B: Individual Work & Projects**: 3
 *   **C: Group Work & Projects**: 3
-*   **D: Professional Skills**: 4
+*   **D: Professional Skills**: 3
 *   **E: Feedback & Community Participation**: 4
 
 -----------------------
@@ -72,12 +72,17 @@ Subjective evaluation will be made on your work/process according to the followi
 
 Open Source! It's fun, it's a challenge, it's a thing that we did! It was great to get to "give back" to the community I make so much use of in my own projects.
 
+Sidenote: for my docs PR I had to submit an issue rather than a PR, as the docs I was trying to fix are not open for PRs.
+
 #### Open Source
 
+*   [Blog Post](https://medium.com/@bermannoah/spectres-and-sploits-b43a79731ed7#.a8dx59zha) - "Spectres and 'Sploits"
 *   [GitHub URL - Spectre CSS PR](https://github.com/picturepan2/spectre/pull/142)
-*   [Original Assignment]()
-
-COMING SOON!
+*   [GitHub URL - Spectre CSS Bug Confirmation](https://github.com/picturepan2/spectre/issues/137#issuecomment-282530814)
+*   [GitHub URL - Metasploit PR](https://github.com/rapid7/metasploit-framework/pull/8041)
+*   [GitHub URL - Metasploit Docs Issue](https://github.com/rapid7/metasploit-framework/issues/8042)
+*   [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
+*   [Pitch Gist](https://gist.github.com/bermannoah/a105b1803191a2b81b90342faf29b2a5)
 
 ## C: Group Work & Projects
 
@@ -172,6 +177,8 @@ Feedback to me from Nicholas Martinez: "Working and arguing with you throughout 
 
 *   [GitHub URL](https://github.com/NZenitram/joust)
 *   [Original Assignment](http://backend.turing.io/module4/projects/secondary)
+
+This was a good chance to test out our work - making sure that interacting with Code of Arms was as easy or usable as we'd hope. We paired a little bit differently for this project and it was good to experiment with different ways of contributing to a project at this level of complexity. 
 
 Feedback from Nate:
 
