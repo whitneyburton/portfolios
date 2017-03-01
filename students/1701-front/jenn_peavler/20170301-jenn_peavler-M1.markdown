@@ -6,11 +6,11 @@ I wanted to obtain a firm grasp on the structure and uses of javascript and jQue
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: X
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**: 3.5
+*   **B: Individual Work & Projects**: 3.5
+*   **C: Group Work & Projects**: 3.5
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 2.5
 
 -----------------------
 
