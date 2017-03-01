@@ -98,8 +98,7 @@ Notes:
 - 4: Team is using a project management tool and updating their progress daily. It's hard to misinterpret user stories
 
 ### Feedback
-<!-- TODO -->
-(feedback to me)
+Quantified Self was my second project with Erin, and I have to say it's always been great to work with her. Erin consistently kept the project on track, especially with Pivotal Tracker(which I kept ignoring). Her time management skills helped us time-box issues that we were stuck on, which in turn helped us move on with the project so that we would never really be behind. Erin was also able to pick up JavaScript fairly quickly and was using ES6 syntax and writing shared functions by the end. I also had a great learning experience when Erin took over the user experience side of the project and lead the styling session. Overall, I think Erin has the skills to work in either front-end or back-end environment, and her management skills will be valuable to any project. - Daniel Shin
 
 #### Ripped/Code of Arms
 
@@ -157,9 +156,6 @@ Notes:
 
 * 4: Project features excellent documentation showing how to develop the application including a screencast or tutorial
 
-### Feedback
-(feedback to me)
-
 #### Joust
 
 *   [GitHub URL](https://github.com/NZenitram/joust)
@@ -170,8 +166,6 @@ Notes:
 (evaluation comments)
 
 
-### Feedback
-(feedback to me)
 
 ## D: Professional Skills
 The professional skills sessions are an integral part of our Turing program because we are learning skills that are very industry specific for our soon-to-be new careers. This includes both examining how we are presenting ourselves to those on the outside as well as personal reflections to make sure we are striving to be the best versions of ourselves.
@@ -238,12 +232,20 @@ This is my second project with Daniel (first was Headcount in mod 1). I've enjoy
 
 
 ### Being a Community Member
- <!-- TODO -->
-(feedback to me)
+
+Code of Arms was one of many projects I've worked on with Erin, and I was excited to be in a group with her again. As always, she contributed a ton of great code, along with skillful project management (even though she wasn't technically our PM). She was always very understanding and flexible with group members, and it helped to keep the tone pleasant and upbeat. Erin is really talented, and I am excited to see what she accomplishes after Turing! - Anna Dolan
+
+I feel fortunate to have been able to work with Erin on our capstone project. As a group we wound up doing a lot of our work separately, and Erin would not only come in every day with problems solved and great code written, but with ideas for how to improve features while staying within the scope of the project. (!) The skills she brings from her "previous life" also came in super handy - graphic design for our hella great shield logo, project management for our project... management. Looking forward to seeing where her career takes her! - Noah Berman
+
+It was great working with you this module. Your ability to organize your thoughts, schedule tasks and assist in delegating responsibility is invaluable to any team. You remained calm and collected throughout the stress of the module and that helped keep everyone's emotions in check. Working with you on any team would be a pleasure. - Nick Martinez
+
+Quantified Self was my second project with Erin, and I have to say it's always been great to work with her. Erin consistently kept the project on track, especially with Pivotal Tracker(which I kept ignoring). Her time management skills helped us time-box issues that we were stuck on, which in turn helped us move on with the project so that we would never really be behind. Erin was also able to pick up JavaScript fairly quickly and was using ES6 syntax and writing shared functions by the end. I also had a great learning experience when Erin took over the user experience side of the project and lead the styling session. Overall, I think Erin has the skills to work in either front-end or back-end environment, and her management skills will be valuable to any project. -Daniel Shin
 
 ### Playing a Part
 
 [Link to Community Requirement Deliverables Summary](https://gist.github.com/epintozzi/1d5a4fe362de681e2c075fade3c41748)
+
+In addition to the Community requirement deliverables linked above, I participated in the community as an SAB representative and active member of Bezos posse.
 
 ------------------
 
