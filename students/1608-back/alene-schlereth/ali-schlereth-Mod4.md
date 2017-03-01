@@ -139,11 +139,15 @@ Ali was a huge asset to the Turing community and all our time at Turing. She is 
 from Joey:     
 Ali, it has been great working with you on Census and throughout Turing. I admire your organization and dedication to quality work. You pushed me to do some testing and refactoring that I probably wouldn't have done on my own and I appreciate that. It's a shame that we never had the chance to work together on a more exciting project. I think that would have been a lot of fun.  
 
+from Brad:  
+Positive: You're always happy to answer questions. You explain your thought process super clearly, and I learned a lot from pairing with you.
+Constructive: Don't be afraid to be more assertive. I think taking a project manager role would be a good challenge, and I bet you'd be really good at it.
+
 ### Playing a Part  
 
 Pahlka Posse:
 * Efforts toward Pahlka Posse continuing after the current four Mod4 folks graduate. We revamped a bit of how Spikes and our weekly lunch work to be more inclusive and build relationships. Personally this mod, I focused on stepping back as a leader and supporting the current leaders to ensure Pahlka's continued success. 
-* Continued to build out Edualize's backend.  We built a PDF scraper, loaded it into a DB and built an API endpoint for our frontend (and anyone else who finds it and wants to use some state by state school funding data) team to use in a React Leaflet app. 
+* Continued to build out Edualize's backend.  We built a PDF scraper, loaded it into a DB and built an API endpoint for our frontend (and anyone else who finds it and wants to use some state by state school funding data) team to use in a React Leaflet app.  
 
 Community Engagement:  
 * Supported fellow Pahlka students through pairing. Taught one frontend group about SQL - creating, inserting, selecting, etc and how to access it.
