@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Learning to code, primarily in Ruby.
+Learning to code, primarily in Ruby. I feel that I did a good job accomplishing this goal!
 
 ## Self-Assessment Scores
 
@@ -66,20 +66,31 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Feedback from partner projects.
 
-*   Project 1 (Mark Van Akkeren):
+*  **Project 1 (Mark Van Akkeren):**
 
-      Feedback for Mark:
+      **Feedback for Mark:**
 
       You were a great partner to work with. I loved the overall flexibility and enthusiasm with working on the project. You had a good grasp on what we had to do and what the assessors were expecting from us. I think we both should have done a better job with TDD. We should have done more TDD from the beginning. Also, you made David Hasselhoff too skinny. You need to work on you ASCII conversion skills. Overall our communication was great between us and i liked your willingness to improve as well.
 
-      Feedback from Mark:
+      **Feedback from Mark:**
 
       This went pretty smooth.  It would be interesting to work together again on a harder project, maybe at that point some difficulties or struggles might get sussed out but when the work is well within our current aptitudes there isn't a whole lot of flailing.  I was massively impressed with your familiarity in calling concise methods point by point when modifying data.  I'll take a lot away from that.  When you wanted to refactor my code you took the time to walk me thru it and help me with a better understanding of the process.  There ain't no shit here... because we finished so quickly, and refactored quickly you then were taking the time to help others out.  Only positive vibes.
+
+*  **Project 2 (Christopher Dale):**
+
+      **Feedback for Chris:**
+
+      You were a great partner to work with. I loved the overall flexibility with working on the project. At first you seemed to have some trouble with methods that traversed different classes, but it seemed to clear up as time went on. You still have some work to do with improving your ruby syntax, but it also improved as the project progressed. Just keep practicing and looking up things in Ruby Docs! I think we both did a pretty good at following TDD guidelines and with our DTR. Overall our communication was great between us and i liked your willingness to improve as well. Thanks for everything!
+
+      **Feedback from Chris:**
+
+      It was a great experience to work with you on Black Thursday.  I feel like I got to know you better as a person and as a student while working on this project together.  I think our DTR was good and everything we set out was met.  You helped explain things in a detailed manner whether we were working next to each other or when you and I had met back up.  I wished we did some white boarding or written in a notebook so I can refer to it later, that might have helped me to try to map some of the methods and what they were doing, so as to allow me more tools to be able to help you.
+      Regardless I appreciated our working together, I look forward to seeing what you are fully capable of.  I think you also should offer your services to more people.  I think the entire school would benefit from it.  Good luck in all your future endeavors.  See you around.
 
 
 ### Job Prep
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/danny-radden-62029915/)
+*   LinkedIn profile: [Link](https://www.linkedin.com/in/danny-radden-62029915/)
 
 
 
