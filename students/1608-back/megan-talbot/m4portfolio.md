@@ -56,7 +56,8 @@ Workflow
 
 Individual work in module 4 consisted of contibution to an open source project. After a lot of exploring, I chose this [Public Lab Plots 2](https://github.com/publiclab/plots2/issues) project, which had lots of issues and many marked for "first-timers-only."  I started by finding an [issue](https://github.com/publiclab/plots2/issues/1211) that was marked as a 'bug' and tried to reproduce it locally.  When I was able to do that, I decided to start work on the issue. The full navbar was showing up on error pages, and they didn't want that to be the case.  I commented on the issue that I would do some work, and then I edited the static error pages on my machine. When I thought I had something they would like, I posted a screenshot on a PR to see if they liked it.  They seemed very pleased, and my PR is offically submitted.  You can see it [here](https://github.com/publiclab/plots2/pull/1291).   
 I wrote a blog post about the experience [here](https://medium.com/@megantalbot/my-first-contribution-to-open-source-93c961b69ec1#.y0mm2egen).
-I also updated error pages on the Growstuff [repo](https://github.com/Growstuff/growstuff/pull/1258) and submitted a PR for that. It is in haml so was a bit more challenging to me, but I wanted to contribute to another project in addition to the one above.
+<br>Additionally, I submitted a PR for Growstuff, as seen [here](https://github.com/Growstuff/growstuff/pull/1258). This is a similar error to above but was in haml so was a bit more challenging.  But I wanted to contribute to another project in addition to the one above.
+<br>
 Separately, I wrote a documentation [patch](https://github.com/exercism/exercism.io/pull/3392) for Exercism, as it was an unclear link that was confusing during setup when I was exploring their issues. 
 
 
