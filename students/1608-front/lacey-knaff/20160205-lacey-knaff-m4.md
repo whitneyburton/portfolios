@@ -1,8 +1,13 @@
 # Lacey Knaff - M4 Portfolio
 
 ##Summary
+Mod4 was all about the job hunt. I set out to get a job offer before the end of the module, so spent a lot of my time networking, sending cold outreach emails, prepping for interviews, and applying for jobs. It was definitely overwhelming having to try to balance both school and the job search, and I often felt like I wouldn't be able to finish the Mod.
 
 ##Areas of Emphasis
+* Getting a job offer
+* Learning how to set up a backend database
+* Learning to make applications that use express and node
+* Using Heroku for deployment
 
 ##Rubric Scores
 * **A: End-of-Module Assessment**: 3.5
@@ -21,15 +26,15 @@
 
 #### Scores
 
-* Spec Adherence:
-* JavaScript Syntax & Style:
-* Testing:
-* CSS Style:
-* User Interface:
-* Workflow:
+* Spec Adherence: 4
+* JavaScript Syntax & Style: 3.5
+* Testing: 3
+* CSS Style: 4
+* User Interface: 3
+* Workflow: 4
 
 ## B: Individual Work & Projects
-In Mod4 I had two individual projects. The two projects were Real Time and Refactor Trac(tor).
+In Mod4 I had two individual projects. The two projects were Real Time and Refactor Track(tor).
 
 ####Real Time
 * [GitHub URL](https://github.com/lrknaff/real-time)
@@ -46,12 +51,14 @@ Real Time is a real-time voting app that uses Auth0 client-side security, WebSoc
 * Total: 110 / 150
 
 ####Refactor Trac(tor)
-* [GitHub URL]()
-* [Production Site]()
+* [Interview Prep](https://github.com/lrknaff/frontend-interview-prep)
+* [Blog Post](https://medium.com/@lacey.k/good-design-is-good-business-why-design-should-be-at-the-forefront-of-business-thinking-2d5cf27c4588#.82clkufu4)
 
-#####Description
+#####Description:
+The Refactor Track was a week long project where we were allowed to do self-directed work. Each day we had a group stand up and were in charge of tracking hours and keeping on track. I used this time to clean up issues in an older project, write a blog post, network, and put together a front-end interview prep document.
 
 #####Evaluation Scores:
+PASS
 
 
 ## C: Group Work & Projects
@@ -102,3 +109,35 @@ This was kind of a scary Gear Up. I mean, I knew that automation was thing but d
 
 ####Universal Basic Income
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+
+
+## E: Feedback and Community Participation
+
+###Giving Feedback:
+
+###Being a Community Member:
+Lacey's eye and mind for design and clean code is one of the reasons I asked to pair with her this mod on my personal site. She was honest and helpful with the ideas I came up with for my own site, and helped walk me through what could be some challenges or downfalls. I think she's probably one of those developers who's going to end up getting paid buttloads cause she's basically a UX Designer with the skill set of an experienced Front End Engineer. Overall she was a pleasure to work with. -Noah Peden
+
+###Playing a Part
+
+###Goals
+My goals for after graduation are:
+* continue my education in front-end development
+* stay up to date on new technologies
+* network at and attend developer meetups
+* work on starting my own design + development business
+* learn prototyping tools like Framer.js and get better at Sketch app
+* get healthy again
+* use my extra free time to keep learning and growing
+* start giving back to the design + development community
+
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
