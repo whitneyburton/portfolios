@@ -21,7 +21,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ### OOP TDD Eval
 Evaluator: yung-jhun
 
-Progression/Completion
+Did ok!
 
 
 ## B: Work & Projects
@@ -163,16 +163,34 @@ That said, knowledge of indiviudal/small group PM techniquies is useful. I used 
 
 This workshop discussed the concept of UBI and consider the possibitlity of UBI in our society. I'm already a huge proponent for a UBI system so I enjoyed talking about the subject. Honestly I was a bit surprised to see UBI as a gear up topic but I'm glad that, at the very least, the concept is spreading. I'm very sad that our Gear up schedule was messed up and we did not get to participate in the automation gear up, as I feel the topics in that discussion would have been helped make the case for UBI.
 
+### Flower Exercise 
+
+
+
+
+
+PASTE 
+here are the results of my Flower Exercise 
+
+
+
+
+
+### Mentor
+
+Allison's session was very help for me to get my mind straight on getting myself a mentor. I've reached out to Horace and plan to touch base with a few other mentor's that I'm interested in. 
 
 ## E: Feedback and Community Participation
 
 ### Feedback Recieved
 
-PASTE FEEDBACK HERE
+We had a very productive pairing session with Kyle. We first discussed the problem and then brainstormed ideas on how we could solve it. Kyle didn't provide me with an answer but rather directed me to resolve the task myself. I feel like I learnt a lot while working with Kyle.
+
+The way in which you help during pair sessions is really useful. You didn't push our group down any one path but really allowed us to figure out the details. Also, when it came to helping you pointed us to docs and let us work through that which is more beneficial than just out right saying 'do this' or 'do that'.
 
 ### Feedback Reflections
 
-I feel that my personal feedback response handling was fairly matured before coming to Turing. I've had to deal with characters far more intense than 
+I feel that my personal feedback response handling was fairly matured before coming to Turing. I've had to deal with characters far more intense than. 
 
 ### Being a Community Member 
 
