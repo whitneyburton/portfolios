@@ -101,7 +101,6 @@ I intentionally avoided just copying and pasting code from other students that w
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | N/A | X |
 
 #### Notes
 
