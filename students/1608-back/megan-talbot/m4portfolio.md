@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-During this module, my principal goal was to prepare myself for my career as a sotware developer. This meant that I wanted to work on expanding my network, setting up informational interviews, and prep for technical interviews. I also wanted to solidify my knowledge of Rails and explore Javascript. I'm happy to say that I able to accomplish many of those goals. My Javascript knowledge explanded quite a bit, and I'm happy to be more proficient in it. I didn't have as much time as I wanted to build my professional network since our coarse load was much bigger than expected.
+During this module, my principal goal was to prepare myself for my career as a sotware developer. This meant that I wanted to work on expanding my network, setting up informational interviews, and prep for technical interviews. I also wanted to solidify my knowledge of Rails and explore Javascript. I'm happy to say that I able to accomplish many of those goals. My Javascript knowledge explanded quite a bit, and I'm happy to be more proficient in it. I didn't have as much time as I wanted to build my professional network since our coarse load was much bigger than expected, but I am excited to have time for those pursuits in Mod 5.
 
 ## Rubric Scores
 
