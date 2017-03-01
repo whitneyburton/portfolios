@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module, I mainly set out to prepare myself for my career as a sotware developer. This meant that I wanted to work on expanding my network, setting up informational interviews, and prep for technical interviews. I also wanted to solidify my knowledge of Rails and explore Javascript. I'm happy to say that I able to accomplish many of those goals. My Javascript knowledge explanded quite a bit, and I'm happy to be more proficient in it. I didn't have as much time as I wanted to build my professional network since our coarse load was much bigger than expected.
 
 ## Rubric Scores
 
@@ -48,21 +48,15 @@ Workflow
 
 ## B: Individual Work & Projects
 
-Individual work in module 4 only consisted of contibution to an open source project.
-
-Open Source - https://github.com/publiclab/plots2/pull/1291
-Blog post - 
-
 #### Open Source
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/publiclab/plots2/pull/1291)
+* [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
-(description)
 
-(evaluation comments)
+Individual work in module 4 consisted of contibution to an open source project. After a lot of exploring, I chose this [Public Lab Plots 2](https://github.com/publiclab/plots2/issues) project, which had lots of issues and many marked for "first-timers-only."  I started by finding an [issue](https://github.com/publiclab/plots2/issues/1211) that was marked as a 'bug' and tried to reproduce it locally.  When I was able to do that, I decided to start work on the issue. The full navbar was showing up on error pages, and they didn't want that to be the case.  I commented on the issue that I would do some work, and then I edited the static error pages on my machine. When I thought I had something they would like, I posted a screenshot on a PR to see if they liked it.  They seemed very pleased, and my PR is offically submitted.  You can see it [here](https://github.com/publiclab/plots2/pull/1291).   I wrote a blog post about the experience [here](https://medium.com/@megantalbot/my-first-contribution-to-open-source-93c961b69ec1#.y0mm2egen).
 
-(evaluation scores)
+
 
 ## C: Group Work & Projects
 
@@ -113,8 +107,7 @@ Project Management
 * [GitHub URL](https://github.com/turingschool-projects/MentorSHIP)
 * [Production URL](https://turing-mentorship-staging.herokuapp.com/)
 
-(description)
-
+In our first sprint of MentorSHIP, we focused on setting up a new application with React-Rails and architecting our database. It was fun to learn React-Rails and I was happy to have setup some of the main functionality with that. 
 
 #### Evaluation Notes: 
 - Technical conversation happens on PR's in Github. Functionality conversations happen in Pivotal on the feature card.
