@@ -16,7 +16,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 -----------------------
 
-## A: End of Module Assessment
+## End of Module Assessment
 
 ### OOP TDD Eval
 Evaluator: yung-jhun
@@ -141,7 +141,7 @@ Code Sanitation
 3 - Score bumped to a 3 after this post eval PR submitted
 
 
-## D: Professional Skills
+## Professional Skills
 
 ### Project Management Tools - Reflections
 
@@ -150,10 +150,6 @@ As a previous project manager, I've been tinkering with PM tools for some time. 
 That said, knowledge of indiviudal/small group PM techniquies is useful. I used Waffle.io for the first time this Mod, and found the tool to be very useful. Ultimately, I don't want to be responsible for PM activities, but Waffle's github integreation makes the tool useful for personal use.
 
 ### Professional Development Workshops
-
-#### Resume
-* [Resume](https://resume.creddle.io/resume/d9o4r324bdb)
-* [LinkedIn](https://www.linkedin.com/in/kylezucker)
 
 ### Gear Up
 #### UBI
@@ -187,7 +183,7 @@ My Values and Goals:
 
 Allison's session was very help for me to get my mind straight on getting myself a mentor. I've reached out to Horace and plan to touch base with a few other mentor's that I'm interested in. 
 
-## E: Feedback and Community Participation
+## Feedback and Community Participation
 
 ### Feedback Recieved
 
