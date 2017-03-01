@@ -8,11 +8,11 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -22,26 +22,15 @@
 
 
 ## B: Individual Work & Projects
-
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)  
-
-
+ 
+ [Open Source Blog Post](https://medium.com/@ali_schlereth/the-power-of-building-88745d0da977#.ra16jbc5z)
+ [Bug Report](https://github.com/rubyforgood/working_landscapes/issues/75) 
+ [Working Landscapes](https://github.com/rubyforgood/working_landscapes/pull/83)
+ [Habitat for Humanity](https://github.com/rubyforgood/habitat_humanity/pull/126)
+ 
 ## C: Group Work & Projects
 
 ### Projects
-
-(Intro)
 
 #### Quantify Me
 
@@ -78,7 +67,7 @@ Project Documentation A+++++++ would read again.
 4: Project demonstrates exceptionally well factored code.  
 3: Project has implemented one major technique from the previous two weeks of academic classes.  
 
-#### Census Sprint 1  
+#### Census Sprint 2  
 All stories and bugs completed.
 Good documentation.
 Code generally well written and well factored.  
@@ -114,18 +103,18 @@ There are lots of complexities here. We discussed what this would look like acro
 
 [Networking Documentation](https://docs.google.com/document/d/1V3JIS9z-Ceczbgb5JkUSzqXxQeB_mN_sHaSVmjM1YNI/edit?usp=sharing)  
 
-#### (Session Name)
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
 (feedback from me)
+to Noah:  
+Noah has done a great job leading Pahlka for a second inning. I really appreciated his perserverance in making sure we had solid Spike content/plans and rallying the troops each week when so many of us didn't have the energy. Thank you for your enthusiasm and dedication. Pahlka for life! (Also, yay Pahlka twitter account!)  
+to Nick: 
+As always, Nick has been a great contributor to Pahlk Posse. He is reliably present to the group and willing to share of his ideas and energy. He showed great leadership this inning, leading a technical spike on Leaflet as well as a networking/mentor spike with Horace where he lead a great conversation. He took the time to do outside background work to make the session a success during wk5 which is never easy. Thanks Nick!  
+to Ben:  
+Ben was a great partner. Coming in to Quantified Self, he was eager to learn all about JavaScript. We quickly hit an onboarding pattern of setting out a prototype (not the JS kind) and then he recreated it to help himself solidify the knowledge. Ben was determined to find solutions and a diligent worker. I think he would benefit from giving himself a bit more time to figure things out before seeking outside help. He was a great collaborator who listened as much as he spoke. Ben made for a great learning partner!    
 
 ### Being a Community Member
 
@@ -134,12 +123,11 @@ Ali is an amazing partner. Her grasp of JQuery and Javascript is stunning. She m
 
  ### Playing a Part  
 
-[Open Source Blog Post](https://medium.com/@ali_schlereth/the-power-of-building-88745d0da977#.ra16jbc5z)
-
-
 Pahlka Posse:
 * Efforts toward Pahlka Posse continuing after the current four Mod4 folks graduate. We revamped a bit of how Spikes and our weekly lunch work to be more inclusive and build relationships. Personally this mod, I focused on stepping back as a leader and supporting the current leaders to ensure Pahlka's continued success. 
 * Continued to build out Edualize's backend.  We built a PDF scraper, loaded it into a DB and built an API endpoint for our frontend (and anyone else who finds it and wants to use some state by state school funding data) team to use in a React Leaflet app. 
+
+Community Engagement:  
 * Supported fellow Pahlka students through pairing. Taught one frontend group about SQL - creating, inserting, selecting, etc and how to access it.
 * Lead a spike on Intro to Civic tech, describing Civic Tech and sharing resources. Exploring current projects out there. Discussed what makes a quality data source (tricky subject w/ lots of opinions)
 
