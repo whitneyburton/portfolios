@@ -8,7 +8,7 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 4
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -111,15 +111,24 @@ There are lots of complexities here. We discussed what this would look like acro
 (feedback from me)
 to Noah:  
 Noah has done a great job leading Pahlka for a second inning. I really appreciated his perserverance in making sure we had solid Spike content/plans and rallying the troops each week when so many of us didn't have the energy. Thank you for your enthusiasm and dedication. Pahlka for life! (Also, yay Pahlka twitter account!)  
+  
 to Nick: 
-As always, Nick has been a great contributor to Pahlk Posse. He is reliably present to the group and willing to share of his ideas and energy. He showed great leadership this inning, leading a technical spike on Leaflet as well as a networking/mentor spike with Horace where he lead a great conversation. He took the time to do outside background work to make the session a success during wk5 which is never easy. Thanks Nick!  
+As always, Nick has been a great contributor to Pahlk Posse. He is reliably present to the group and willing to share of his ideas and energy. He showed great leadership this inning, leading a technical spike on Leaflet as well as a networking/mentor spike with Horace where he lead a great conversation. He took the time to do outside background work to make the session a success during wk5 which is never easy. Thanks Nick!    
+
 to Ben:  
 Ben was a great partner. Coming in to Quantified Self, he was eager to learn all about JavaScript. We quickly hit an onboarding pattern of setting out a prototype (not the JS kind) and then he recreated it to help himself solidify the knowledge. Ben was determined to find solutions and a diligent worker. I think he would benefit from giving himself a bit more time to figure things out before seeking outside help. He was a great collaborator who listened as much as he spoke. Ben made for a great learning partner!    
 
 ### Being a Community Member
 
-from Ben:   
-Ali is an amazing partner. Her grasp of JQuery and Javascript is stunning. She made Quantified Self far more tolerable and her enthusiasm when something finally worked was refreshing. Ali is more than capable as a programer and as a member of any team that she has been or will be a part of.
+from Ben:     
+Ali is an amazing partner. Her grasp of JQuery and Javascript is stunning. She made Quantified Self far more tolerable and her enthusiasm when something finally worked was refreshing. Ali is more than capable as a programer and as a member of any team that she has been or will be a part of.    
+
+from Jon:   
+Ali was a huge asset to the Turing community and all our time at Turing. She is an incredibly hard worker with a level head who has always gone far out of her way to support her classmates.  She has both strong techincal and personal skills that makek her an outstanding developer and teammate. In addition I think she has a strong moral compass which will lead her to meaningful and impactful work in the future, I'm really excited to see what she gets up to in the future and SO glad that she was a part of our mod.  Thanks Ali for always being awesome and supporting those arround you!  Best of luck in the future and if you ever need anything feel free to reach out!    
+
+from Joey:     
+Ali, it has been great working with you on Census and throughout Turing. I admire your organization and dedication to quality work. You pushed me to do some testing and refactoring that I probably wouldn't have done on my own and I appreciate that. It's a shame that we never had the chance to work together on a more exciting project. I think that would have been a lot of fun.  
+
 
  ### Playing a Part  
 
