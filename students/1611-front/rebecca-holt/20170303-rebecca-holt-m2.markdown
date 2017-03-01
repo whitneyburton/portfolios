@@ -172,16 +172,12 @@ This Gear Up was especially interesting for me, being a woman entering the tech 
 
 ##Professional Development Workshops
 
-* Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
-* Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
-* Completed Flower Exercise -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
-♣	Transferable Skills
-♣	Favorite/Most Valued Knowledge
-♣	Favorite working conditions
-♣	Favorite people to work with/serve
-♣	Values/Goals/Mission in life
-♣	Preferred places to live
-♣	Preferred salary and level of responsibility
+Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
+
+Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
+
+* [Completed Flower Exercise](https://gist.github.com/becs919/d2ce2464d37addfc99b2424ccc515f89)
+
 
 ##Mentor 
 
