@@ -189,7 +189,9 @@ I have a mentor/friend that went to Turing and I have known her for several year
 
 ####Self-solicited
 
-Some feedback that I would give to myself regarding pairing this module would be to let things go more. A project will fall into place over time and I don’t need to stress so much about the little details. This module I only had a few scheduled pairings and some of them cancelled, so next module I am going to try and reach out to the mods below me more so than I did this module. I am also encouraging myself to get more comfortable with remote pairing next module, I tend to like side-by-side driver-navigator pairing but I need to get comfortable with remote pairing as I prepare to enter the workforce. 
+*  Staci was a really awesome partner. She is calm and confident. We worked really well together both from home and collaborating together. You should speak up more often because you really know what you're doing!
+
+* Jon is easy to pair with and open to other's ideas. He follows the pace of the person he pairs with and doesn't move too fast ahead. He is great at conveying his thoughts and talking through his code.
 
 ####Pairing Feedback
 
