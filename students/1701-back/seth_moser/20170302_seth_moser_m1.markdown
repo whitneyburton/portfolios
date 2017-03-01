@@ -1,4 +1,4 @@
-# First Last - MX Portfolio
+# Seth Moser - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -10,18 +10,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | - | ----- | - |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Community** | X |
-
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 4 |
 
 ------------------------------------------------
 
@@ -31,12 +24,12 @@ This section does not need to be populated (and template text should therefore b
 | ----- | - |
 | **Written Diagnostic** | PASS/FAIL |
 | **Timed Exercise** | PASS/FAIL |
-| **Ruby Syntax & API** | X |
-| **Completion and Progress** | X |
-| **Testing** | X |
-| **Workflow** | X |
-| **Collaboration** | X |
-| **Enumerable & Collections** | X |
+| **Ruby Syntax & API** | PASS |
+| **Completion and Progress** | PASS |
+| **Testing** | PASS |
+| **Workflow** | PASS |
+| **Collaboration** | PASS |
+| **Enumerable & Collections** | PENDING |
 
 #### Assessor Comments
 
@@ -54,7 +47,6 @@ This section does not need to be populated (and template text should therefore b
 | **Test-Driven Development** | N/A | 2 | 2 |
 | **Encapsulation/Breaking Logic into Components** | 4 | 4 | 3 |
 | **Fundamental Ruby & Style** | 3 | 3 | 3 |
-| **Loop or Recursion** | N/A | N/A | X |
 
 #### Notes
 
@@ -74,14 +66,6 @@ This section does not need to be populated (and template text should therefore b
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | N/A | X |
-
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 
 ## D: Professional Development
@@ -94,13 +78,12 @@ This section does not need to be populated (and template text should therefore b
 
 Feedback from partner projects.
 
-*   Project 1 Josh Thompson: "Seth. It was great fun to work with you on Night Writer. You were extremely helpful and patient working through TDD and refactoring with me, despite my late-in-the-game restart. Your easy-going disposition served us both well, and your comfort with Ruby methods was obvious. With a tiny adjustment to hashes instead of case statements, I think you’re on top of everything that’s been passed our way so far."
-*   Project 2 (First Last): lorem ipsum
+*   Knight Writer: Josh Thompson: "Seth. It was great fun to work with you on Night Writer. You were extremely helpful and patient working through TDD and refactoring with me, despite my late-in-the-game restart. Your easy-going disposition served us both well, and your comfort with Ruby methods was obvious. With a tiny adjustment to hashes instead of case statements, I think you’re on top of everything that’s been passed our way so far."
 
 ### Job Prep
 
-*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](http://example.com)
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](http://example.com)
+*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](https://resume.creddle.io/resume/ixw63ikpmhw)
+*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/seth-moser-a84064134/)
 
 
 
