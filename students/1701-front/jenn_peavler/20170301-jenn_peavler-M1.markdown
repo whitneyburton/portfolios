@@ -136,18 +136,6 @@ The developer makes a series of small, atomic commits that document the evolutio
 
 It was interesting to think about the people in my life and which ones tend to have a fixed mindset versus a growth mindset.  For me, the biggest take away was to recognize that some people DO have fixed mindsets.  I have a growth mindset.  I am always looking for ways to improve things, find solutions to problems and learn.  So the thing that I walked away realizing, is that some times people don't always want solutions to problems.  Some times, people just want to share their story or vent and the best thing to do is listen and learn from them what I can.
 
-### PROtocol
-#### (Session Name)
-
-*   [Link to Completed Deliverables]()
-
-### Professional Development Workshops
-#### (Session Name)
-
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
-
-(takeaways from session)
 
 ## E: Feedback and Community Participation
 
@@ -163,7 +151,7 @@ Working with Jenn was a solid experience. We communicated fairly well and often 
 
 ### Playing a Part
 
-I was a member of the SAB and I lead up the LGBT Turing Group.  I also reached out to students who needed help with course work.
+I was a member of the SAB and I lead up the LGBT Turing Group.  I also reached out to students who needed help with course work.  I participated in Lunch Roullete. 
 
 ------------------
 
