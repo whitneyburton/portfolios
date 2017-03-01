@@ -9,18 +9,23 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Community** | X |
+| A | **End-of-Module Assessment** | 4 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 4 |
+| E | **Community** | 4 |
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+The projects have been the hardest thing I've encountered so far at Turing. Ruby syntax, moving around my computer w/o a mouse, using docs, all is easy and normal.
 
-*   02/13/17 Mid Mod assessment: 3/4/4/4
-*   Note 2 (if applicable)
+I need more time and practice building database-esq projects. This project (Black Thursday) has been _extremely_ educational, and I've learned a ton. Me and my partner are paying the price for some clunky methods we wrote earlier, and that experience in and of itself has been great.
+
+I was one of two mod1 BEE students to lead a spike this last inning, and that experience gave me a lot more empathy for the task our instructors have before them, of trying to move students who are in many different places through a technical process.
+
+I walked them through Github (I linked to my lesson in the _Community Participation_ section), and it was a fascinating experience. Everyone said they benefitted, but I didn't see them make as much progress as I'd hoped.
+
+I look forward to the learning to come in the upcoming modules!
 
 ------------------------------------------------
 
@@ -147,10 +152,12 @@ How have I been challenged by the growth mindset concept? How do I rest and rech
 1. Recognize difference between _distress_ and _eustress_. One can be bad, the other is good. Everything at Turing is, IMO, _eustress_. I've been mildly stressed a few times so far, but nothing more severe than that.
 
 #### Session 3
-(insert reflection summary here)
+
+Stress is a normal part of life, so figuring how to manage it well is key. I've not been particularly stressed at Turing (yet!), but that's partially because I do lots of stress-reduction projects and try to take care of myself.
 
 #### Session 4
-(insert reflection summary here)
+100% agree with the discussion on gender and racial bias in the tech community. One of the reasons I'm excited to be at Turing is to be able to take this attitude of inclusivity forward into any company and team I work with in the future.
+
 
 ### Community Participation
 
