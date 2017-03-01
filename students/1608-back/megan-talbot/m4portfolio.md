@@ -54,7 +54,9 @@ Workflow
 * [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
 
-Individual work in module 4 consisted of contibution to an open source project. After a lot of exploring, I chose this [Public Lab Plots 2](https://github.com/publiclab/plots2/issues) project, which had lots of issues and many marked for "first-timers-only."  I started by finding an [issue](https://github.com/publiclab/plots2/issues/1211) that was marked as a 'bug' and tried to reproduce it locally.  When I was able to do that, I decided to start work on the issue. The full navbar was showing up on error pages, and they didn't want that to be the case.  I commented on the issue that I would do some work, and then I edited the static error pages on my machine. When I thought I had something they would like, I posted a screenshot on a PR to see if they liked it.  They seemed very pleased, and my PR is offically submitted.  You can see it [here](https://github.com/publiclab/plots2/pull/1291).   I wrote a blog post about the experience [here](https://medium.com/@megantalbot/my-first-contribution-to-open-source-93c961b69ec1#.y0mm2egen).
+Individual work in module 4 consisted of contibution to an open source project. After a lot of exploring, I chose this [Public Lab Plots 2](https://github.com/publiclab/plots2/issues) project, which had lots of issues and many marked for "first-timers-only."  I started by finding an [issue](https://github.com/publiclab/plots2/issues/1211) that was marked as a 'bug' and tried to reproduce it locally.  When I was able to do that, I decided to start work on the issue. The full navbar was showing up on error pages, and they didn't want that to be the case.  I commented on the issue that I would do some work, and then I edited the static error pages on my machine. When I thought I had something they would like, I posted a screenshot on a PR to see if they liked it.  They seemed very pleased, and my PR is offically submitted.  You can see it [here](https://github.com/publiclab/plots2/pull/1291).   
+I wrote a blog post about the experience [here](https://medium.com/@megantalbot/my-first-contribution-to-open-source-93c961b69ec1#.y0mm2egen).
+Separately, I wrote a documentation [patch](https://github.com/exercism/exercism.io/pull/3392) for Exercism, as it was an unclear link that was confusing during setup when I was exploring their issues. 
 
 
 
@@ -145,8 +147,7 @@ Megan, You always produce amazing apps with stunning code. You should always be 
 * [GitHub URL](https://github.com/turingschool-projects/MentorSHIP)
 * [Production URL](https://turing-mentorship-prod.herokuapp.com/)
 
-(description)
-
+During the second sprint, we focused on streamlining the functionality that was already there. We also decided to create a post request to Census that would update their data. It was a struggle at times, but we focused on really solidifying the functionality we had.
 
 #### Evaluation Notes: 
 
@@ -179,7 +180,30 @@ It was great working together during mod4 and our whole time at Turing!  We coll
 * [GitHub URL - Backend API](https://github.com/vidoseaver/mashup-api)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/secondary.md)
 
-Mashup was our secondary project, in which we made an interface for users to sort groups of turing students based on differnet paramaters.
+Mashup was our secondary project, in which we made an interface for users to sort groups of turing students based on different paramaters.
+
+#### Evaluation Comments: 
+From Nate:
+
+- Nice work with local storage
+- Glad you're able to diagram the problem. Visuals are good for explaining technical challenges
+- A little more instruction about how to use the app in the app would be nice
+- Could have made the name a little bigger on popcicle view
+- Glad you have a plan on where you would take this next
+
+From Jeff:
+
+* Implemented the Popsicle name selector
+* Implemented pairs
+* Don't understand what the project bits are about
+* Have generator for Lunch Roulette
+* It'd be neat if the links were sharable (embed random generator seeds)
+* Wish I could download the data into a csv or plaintext or something
+* Challenge: scope of the project...?
+* Didn't implement the ability to swap students
+* Code Shame: lots of accidental refactoring / code simplification
+* Proud: popsicle using localstorage
+* Tracker: Got most stories delivered
 
 ## D: Professional Skills
 
@@ -194,41 +218,62 @@ This gear up was conducted in our cohorts, which I really enjoyed. I was familia
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-Summary
+Automation is obiously going to become a bigger and bigger issue, so it was interesting to explore this topic in gear up. Part of it made me nervous about the changes we will face, but I am generally an optimist so I think we will be ok. It's definitely clear that it's something to become as educated on as possible.
+
 
 #### Universal Basic Income
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
-Summary
+I liked how this gear up was somewhat of a sequel to the automation one. I had heard the term before, and had even heard it in the news recently, but it is also clear that Universal Basic Income may be in our future. I had no idea before this Gear Up that some places are already experimenting with UBI, and I will be eager to see how it plays out as we got forward.
 
 
 
 ### Professional Development Workshops
 
-Submitted via PR here https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1608-b/megan_talbot.md
+All deliverables were completed and submitted via PR here https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1608-b/megan_talbot.md
+
 
 ## E: Feedback and Community Participation
-
-I was happy to be co-lead of the Bezos Posse with Jon Kimble this module. We have both been active member since our first mods, and I think we did a great job leading. We had 2 speakers and co-led 3 spike sessions. They were An Intro to Bezos, Pitching, and User Testing. 
-
-I also paired 4 times with module 1 students. spreadsheet
 
 
 ### Giving Feedback
 
-To Mike:
+To Mike Scherer:<br>
+Mike was a great partner for Quantified Self. This was a hard project and I was glad to have Mike with me for it.  He is a super hard worker and never gave up. Considering this project was in a language we both know relatively little about, I was impressed by Mike's grasp of it as well as his quick ability to learn. I know we both wished we could have polished up our final product more and refactored a bit, but I was very satisifed with our progress. I know this is the end of module 4, but I would gladly work with Mike again!
 
-Mike was a great partner for Quantified Self. This was a hard project and I was glad to have Mike with me for it.  He is a super hard worker and never gave up. Considering this project was in a language we both know relatively little about, I was impressed by Mike's grasp of it as well as his quick ability to learn. I know we both wished we could have polished up our final product more and refactored a bit, but I was very satisifed with our progress. I would gladly work with Mike again!
+To Jon Kimble:<br>
+Jon was a great partner for me this module. We worked together on many differnet things, and I was especially happy to have him in my group for the capstone project. It was a challenging project, but Jon is such a hard worker and never got discouraged when we hit obstacles. I really appreciate his positive attitude and level head.  I know Jon will have a super successful career and I look forward to seeing what he does! 
+
+To Ben Pepper:<br>
+Ben was a great partner this module. We have worked together in the past, and I have always appreciated how easygoing he is. Ben is always eager to help and pitch in, which is such a great way to be. I know he felt a little burned out at times this module, but he always stayed committed to our group and project. I think he will be very successful in his career and I wish him all the best!
+
+To Vido Seaver:<br>
+Vido was a solid partner this module. We had a lot of time together on MentorSHIP and Mashup, and he always stayed committed to our projects. I know we all got frustrated at times, but any issues were quickly addressed and we moved on. I can say that we probably all wish we had more time to polish up our projects, but we worked really hard to get where we ended up and I'm grateful for that!
 
 
 ### Being a Community Member
 
-(feedback to me)
+From Jon Kimble:<br>
+It was great working together during mod4 and our whole time at Turing!  We collaborated on alot of stuff from S.A.B., to bezos, and finally on our projects during mod4.  Mod4 was a bit of a fight but you were the perfect partnener to face that challenge with.  I always appretiate your intelligence, insight, persistance, and calm resiliance in the face of every obstical we faced.  Your were a huge asset to the whole mod and my time and Turing and I hope we get to work together again in the future!
+
+From Vido Seaver:<br>
+This was my first project working with you megan and you were a great team mate. You are level headed and stay steady. Get work done and carry your weight. You also do an excellent job of keeping an eye on the end goal and keeping the group pointed in that direction. I’m sorry about the way I handled my frustration with jon and you last week. I really wish I hadn’t lost my cool. My frustration was more with jon and you kind of got just caught in the crossfire. You were a solid teammate I don’t really have any complaints
+
+From Ben Pepper:<br>
+It was a pleasure working with Megan again. Her dedication to the project and making things work is inspiring. Her ability to get thrown into a new situation and then fully grasp the concept was stunning and something I hope to emulate soon.
+Megan, You always produce amazing apps with stunning code. You should always be proud of what you produce no matter what it is. I know we didn't get as far as you would have liked in MentorSHIP but the code we produced was good and sets up 1610 for a strong start. The work you put into the front end made the site easily navigable and easy to look at.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I was happy to be co-lead of the Bezos Posse with Jon Kimble this module. We have both been active members since our first mod, and I think we did a great job leading. We had 2 speakers and co-led 3 spike sessions. The 3 spikes were:
+* An Intro to Bezos
+* Pitching 
+* User Testing
+I think Bezos always ebbs and flows in popularity, and I think now it a slight downtime in that sense. However, I got an immmense amount of value out of Bezos and leading the posse. I will always look back fondly on my time as a posse lead.
+
+I also paired 4 times with module 1 students, as seen on this [spreadsheet](https://docs.google.com/spreadsheets/d/1rXraG4hds_hUB2rskdeS2Hy1LS3XumXBlFnQKhP3AGI/edit#gid=0). It was actually a lot of fun to pair with mod 1 and refresh Ruby, and I was impressed with every person with whom I worked.
+
 
 ------------------
 
