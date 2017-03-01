@@ -165,7 +165,9 @@ During my portfolio review at the end of module 1, some feedback I received from
 
 ### Giving Feedback
 
-(feedback from me)
+To Katy Farmer:
+
+Katy, I really enjoyed working through the Bike Share project with you. I think your strengths were most pronounced in testing and pairing. When we paired on the CRUD aspects of the project, you asked lots of questions that guided us to make better decisions about our code structure. Working with you really deepened my understanding of the differences in functionality and implementation, and your thorough code reviews made our code base sturdy. In order to become an even better pairing partner/group member, I recommend taking a break sooner when frustration is rising with a feature. In terms of collaboration, you consistently called for check-ins, defining goals, and offered your help to other group members. You always celebrated victories, and I particularly appreciate that you were always thinking ahead about what we needed to do next in terms of project completion and the strategy for completion. You handled challenges well and demonstrated resourcefulness and tenacity. I'm glad we were able to work through ActiveRecord, and I'm proud of the application we built together.
 
 ### Being a Community Member
 
