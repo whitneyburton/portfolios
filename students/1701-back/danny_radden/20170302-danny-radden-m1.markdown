@@ -14,13 +14,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | Independent Timed Assessment | pass |
 | Diagnostic | pass |
 
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
 ------------------------------------------------
 
 ## A: End of Module Assessment
@@ -36,11 +29,6 @@ This section does not need to be populated (and template text should therefore b
 | **Collaboration** | 3 |
 | **Enumerable & Collections** | 4 |
 
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
 
 ## B: Individual Projects
 
@@ -54,13 +42,6 @@ This section does not need to be populated (and template text should therefore b
 | **Fundamental Ruby & Style** | 4 | 3 | 3 |
 | **Loop or Recursion** | n/a | 3 | n/a |
 
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
 
 ## C: Group Projects
 
@@ -73,13 +54,6 @@ This section does not need to be populated (and template text should therefore b
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 4 | X |
 | **Loop or Recursion** | n/a | X |
-
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 
 ## D: Professional Development
