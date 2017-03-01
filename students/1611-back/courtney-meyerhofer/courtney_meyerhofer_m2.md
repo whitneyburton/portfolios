@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This module, I wanted to learn how the Internet works, learn Rails fundamentals, begin a side project, and take a deep dive into personal and professional development. My favorite lessons this module were the ones centered on HTTP, DNS, the asset pipeline, and the MVC model. I read textbooks and explored tools to better understand the protocols of the web and learned the basics of Rails through projects and reading documentation. I have a side project that works but might not ever be done, and I pushed myself far out of my comfort zone for personal and professional development. Because I didn't have many pairing experiences in module 1, I sought out opportunities to pair within and outside of my cohort and incorporated their feedback into how I collaborate. For professional development, I began exploring career interests and cohosted two spike sessions on topics I didn't know much about in order to improve my public speaking skills (still a long way to go). I think the two most important things I learned this module was how to give and receive feedback and be documentation reliant in the development process. 
+This module, I wanted to learn how the Internet works, learn Rails fundamentals, begin a side project, and take a deep dive into personal and professional development. I read textbooks and explored tools to better understand the protocols of the web and learned the basics of Rails through projects and reading documentation. I have a side project that works but might not ever be done, and I pushed myself far out of my comfort zone for personal and professional development. Because I didn't have many pairing experiences in module 1, I sought out opportunities to pair within and outside of my cohort and incorporated their feedback into how I collaborate. For professional development, I began exploring career interests and cohosted two spike sessions on topics I didn't know much about in order to improve my public speaking skills (still a long way to go). I think the two most important things I learned this module was how to give and receive feedback and be documentation reliant in the development process. 
 
 ## Rubric Scores
 
@@ -50,7 +50,7 @@ Violet Teacher is a teacher gradebook and student grade portal of my own design.
 
 * [GitHub URL](https://github.com/meyerhoferc/panopti-packet)
 
-Panopti-packet is a Rails and network application named after the [Panopticon](https://en.wikipedia.org/wiki/Panopticon). I wanted to understand TCP/IP & UDP protocols more in depth while practicing Rails style, testing, and ActiveRecord. This is a less-functional Wireshark in a browser that was created for my own learning, not necessarily for others to use. Users can create accounts and define sessions where they monitor the packet activity on different interfaces on their machine. ActiveRecord is used to display analytics about the packets that were observed for the defined sessions.
+Panopti-packet is a network application named after the [Panopticon](https://en.wikipedia.org/wiki/Panopticon). I wanted to understand TCP/IP & UDP protocols more in depth while practicing Ruby style, testing, and SQL. This is a less-functional Wireshark that was created for my own learning, not necessarily for others to use. Users can define sessions where they monitor the packet activity on different interfaces on their machine. SQL is used to calculate analytics about the packets that were observed for the defined sessions.
 
 ## C: Group Work & Projects
 
