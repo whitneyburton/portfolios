@@ -55,7 +55,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | 1 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 2.5 | X |
-| **Loop or Recursion** | n/a | X |
 
 #### Notes
 
