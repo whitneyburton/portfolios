@@ -29,18 +29,21 @@ This section does not need to be populated (and template text should therefore b
 | Category | Score |
 | ----- | --- |
 | **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS/FAIL |
-| **Ruby Syntax & API** | X |
-| **Completion and Progress** | X |
-| **Testing** | X |
-| **Workflow** | X |
-| **Collaboration** | X |
-| **Enumerable & Collections** | X |
+| **Timed Exercise** | PASS |
+| **Ruby Syntax & API** | 4 |
+| **Completion and Progress** | 3 |
+| **Testing** | 3 |
+| **Workflow** | 3 |
+| **Collaboration** | 3 |
+| **Enumerable & Collections** | n/a |
 
-#### Assessor Comments
+#### Assessor Comments (Lauren Fazah, timed exercise)
 
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+*   great use of test_helper
+* would be nice to see separate character attribute tests - I know this feels tedious, but will pay off (removing one attribute won't change unit tests for other attributes, etc)
+* strong efforts towards i3 made - **will grade as 3.5**
+* scores: 4/4/3/4/4
+* Note 2 (if applicable)
 
 
 ## B: Individual Projects
@@ -57,13 +60,13 @@ This section does not need to be populated (and template text should therefore b
 
 ### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-#### Date Night project notes
-*   Don't have scores from Gorge for Date Night yet. This is what I remembered, need to update.
+
 
 ##### HTTP project notes
 
-HTTP was a frustrating project. I found the resources I needed to build a mental and built it (and could hand-write HTTP request/responses) on the 2nd to last day of the project.
+HTTP was a frustrating project. I found the resources I needed to build a mental framework, and finally understood it on the 2nd to last day of the project.
+
+I can hand-write http requests/responses, and use `curl` and `nc` quite well now. (In conjunction with Postman, etc.)
 
 After writing [this lengthy article](http://backend.turing.io/module1/projects/http_yeah_you_know_me) about the steps I took to try to understand, I found buried in the bottom of the project spec a link to
 
@@ -77,15 +80,15 @@ It felt to me like we were not taught anything germane to the project before bei
 
 I intentionally avoided just copying and pasting code from other students that was moving them along the project, because I didn't want code I didn't understand in my project. So, I'm quite comfortable now with debugging server send/responses, but had a horrific project evaluation.
 
-¯\\\_(ツ)\_/¯ 
+¯\\\_(ツ)\_/¯
 
 
 ## C: Group Projects
 
-| CATEGORY | Night Writer | PROJECT 2 |
+| CATEGORY | Night Writer | Black Thursday |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://example.com) |
-| **Github** | [link](https://github.com/josh-works/night_writer) | [link](http://example.com) |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
+| **Github** | [link](https://github.com/josh-works/night_writer) | [link](https://github.com/josh-works/black_thursday) |
 | **Functional Expectations** | 2 | X |
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
@@ -104,7 +107,9 @@ This section does not need to be populated (and template text should therefore b
 
 ### Define-the-Relationship (DTR)
 
-[Night Writer DTR ](https://docs.google.com/document/d/1wdLkKnqhbDR7-tn0veq9xZat20eQGFhp9QDvTZFfPTI/edit#): DTR Memo from Night Writer project with Seth Mo.
+- [Night Writer DTR ](https://docs.google.com/document/d/1wdLkKnqhbDR7-tn0veq9xZat20eQGFhp9QDvTZFfPTI/edit#): DTR Memo from Night Writer project with Seth Mo.
+
+- [Black Thursday DTR](https://docs.google.com/document/d/1yXr73LzLVie56rvE4l4tpZc_MiCOawZrkej5uDvrgOI/edit?usp=drive_web): DTR Memo from Black Thursday project with Brett Schwartz
 
 ### Pair Feedback
 
@@ -116,7 +121,7 @@ Feedback from partner projects.
 
 > [additional notes here](https://gist.github.com/josh-works/689944269533ba6f8a547df6d90dc897)
 
-#### Project 2 (First Last)
+#### Project 2: Black Thursday (Brett Schwartz)
 > lorem ipsum
 
 ### Job Prep
@@ -148,8 +153,16 @@ How have I been challenged by the growth mindset concept? How do I rest and rech
 (insert reflection summary here)
 
 ### Community Participation
-(insert description of how you've contributed to the Turing community)
 
+- I led a spike on Github workflow and usage. Spent 90 minutes digging into Git with many mod1 students. [Here's my lesson "plan"](https://github.com/josh-works/git_practice)
+- I am a strong believer in "teach what you know", so when I get a few questions from other students, I document what my answer is, write it up, and share with the class as a gist. Here's some of those gists, all of which received positive feedback:
+
+  - [`ls` command basics](https://gist.github.com/josh-works/83fc75e684b4dd2d52b385a67ced4d9b)
+  - [understanding HTTP request/response cycles](https://gist.github.com/josh-works/59b17f5aa8d3ab7ac899c7a4a2fae92d)
+  - [guide to getting started with ruby drills, like "mythical creatures"](https://gist.github.com/josh-works/ac68a974cb9e0d73d663ea6c8cf3e8d8) (I shared this with 1703 BEE students already, and plan on continuing to help them as much as possible.
+  - [how to customize your terminal to improve readability and information parsing](https://gist.github.com/josh-works/7f2e6c82d22dca6e9fbc029c8b17703d)
+
+- I emptied the dishwasher three or four times throughout the mod. I'm a sucker for a clean kitchen, both at home and anywhere I "work". Also, regularly made coffee and kept the kitchen clean. It's a small thing, but without a few folks noting and fixing issues related to cleanliness, things slowly degrade.
 -------------------------------------------------------------
 
 ## Final Review
