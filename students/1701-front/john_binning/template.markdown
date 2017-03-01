@@ -59,10 +59,15 @@ The Number Guesser project requires students to create a site that randomly gene
 
 * [StaticComp1 GitHub URL](https://github.com/JohnBinning/jb-static-comp1)
 * [StaticComp1 URL](https://johnbinning.github.io/jb-static-comp1/)
+* [GitHub Pages](https://johnbinning.github.io/jb-static-comp1/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 * [StaticComp2 GitHub URL](https://github.com/JohnBinning/jb-comp-challenge-2)
 * [StaticComp2 URL](https://johnbinning.github.io/jb-comp-challenge-2/)
+* [GitHub Pages](https://johnbinning.github.io/jb-comp-challenge-2/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+* [StaticComp3 URL](https://github.com/JohnBinning/jb-static-comp3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+* [GitHub Pages](https://johnbinning.github.io/jb-static-comp3/)
 
 While the static comps have not been easy, they have been my favorite projects of Mod1.  I really enjoy the challenge of trying to get every detail correct.
 
