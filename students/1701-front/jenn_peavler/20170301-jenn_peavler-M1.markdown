@@ -21,12 +21,27 @@ I wanted to obtain a firm grasp on the structure and uses of javascript and jQue
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### CSS Static Comp Challenges
 
-#### (Project Name)
+[Original Assignment](http://frontend.turing.io/projects/static-comp-challenge.html)
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+#### Comp 1
+* [GitHub Pages](https://jennpeavler.github.io/jp-comp-challenge-1/)
+* [GitHub Repo](https://github.com/jennPeavler/jp-comp-challenge-1)
+
+#### Comp 2
+* [GitHub Pages](https://jennpeavler.github.io/jp-comp-challenge-2/)
+* [GitHub Repo](https://github.com/jennPeavler/jp-comp-challenge-2)
+
+#### Comp 3
+* [GitHub Pages](https://jennpeavler.github.io/jp-comp-challenge-3/)
+* [GitHub Repo](https://github.com/jennPeavler/jp-comp-challenge-3)
+
+#### Number Guesser
+
+* [GitHub URL](https://github.com/jennPeavler/numberGuesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
 
 (description)
 
