@@ -166,7 +166,7 @@ Professional skills are important to gain and improve on as you move through Tur
 
 ##Gear Up
 
-#### Debugging the Gender Gap 
+### Debugging the Gender Gap 
 
 This Gear Up was especially interesting for me, being a woman entering the tech industry. This film brought to light the issues of low female representation in the tech fields and the gathered evidence to explain why that is. As a woman, it made me feel empowered knowing I will entering the workforce as a female web developer and contributing to a growing trend of females in the industry. It also me a little frightened and nervous to enter the industry as a female. Hearing the horrible stories of what women have had to endure were the extremes of my fears, but nonetheless, adds to my anxiety about it. I think that it’s an important topic to discuss especially in a school like Turing which is very open and inclusive. It was interesting to break off into discussion groups after the film which were mixed in gender and see the react of not only the other women in the class but also the men. The men were almost more interesting to discuss the topic with because they had to take a step back to think about their actions in over the last 12 weeks to see if they had unknowingly said something or done something to make the women in the class feel below them. It was eye opening to see how conscientious they became of their actions. Overall, this was my favorite gear up of my time here at Turing. It sends a very powerful message for both men and women in and out of the tech industry.  
 
@@ -187,11 +187,11 @@ I have a mentor/friend that went to Turing and I have known her for several year
 
 ##Giving Feedback
 
-Self-solicited
+####Self-solicited
 
 Some feedback that I would give to myself regarding pairing this module would be to let things go more. A project will fall into place over time and I don’t need to stress so much about the little details. This module I only had a few scheduled pairings and some of them cancelled, so next module I am going to try and reach out to the mods below me more so than I did this module. I am also encouraging myself to get more comfortable with remote pairing next module, I tend to like side-by-side driver-navigator pairing but I need to get comfortable with remote pairing as I prepare to enter the workforce. 
 
-Pairing Feedback
+####Pairing Feedback
 
 Positive feedback about our pairing:
 *	Paired-Project - You were a pleasure to work with! You made yourself available and were enthusiastic about meeting up to work anytime! You were so confidant and encouraging to work with, I am so glad our first project of this mod was with you!
@@ -203,7 +203,7 @@ Constructive criticism about our pairing
 *	Paired-Project I don't really have much to put here. You were great. 
 *	Mod 1 Pairing - I thought our pairing session went well. 
 
-Being a Community Member
+####Being a Community Member
 
 I have become a member of the Turing community by pairing with module one students, pairing with back-end students regarding algorithmic thinking projects, going to Joan Clark Society meetings on Tuesdays, and participating in Friday Spike sessions in the Verou Posse. 
 
