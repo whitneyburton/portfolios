@@ -23,50 +23,98 @@ I wanted to obtain a firm grasp on the structure and uses of javascript and jQue
 
 #### CSS Static Comp Challenges
 
-[Original Assignment](http://frontend.turing.io/projects/static-comp-challenge.html)
+I completed a series of static comp challenges this mod.  A picture of a comp was given to me and my task was to recreate the
+image.  Creative liberties with regards to copy, images, icons and color were taken; however the design and layout integrity was to be kept in tact.
 
 #### Comp 1
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 * [GitHub Pages](https://jennpeavler.github.io/jp-comp-challenge-1/)
 * [GitHub Repo](https://github.com/jennPeavler/jp-comp-challenge-1)
 
 #### Comp 2
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 * [GitHub Pages](https://jennpeavler.github.io/jp-comp-challenge-2/)
 * [GitHub Repo](https://github.com/jennPeavler/jp-comp-challenge-2)
 
 #### Comp 3
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 * [GitHub Pages](https://jennpeavler.github.io/jp-comp-challenge-3/)
 * [GitHub Repo](https://github.com/jennPeavler/jp-comp-challenge-3)
 
 #### Number Guesser
 
-* [GitHub URL](https://github.com/jennPeavler/numberGuesser)
+For this project, I built a number guesser game.  The game generated a random number, and the user had to guess this number.
+The original assignment is shown below along with the application that I built.
+
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+* [GitHub URL](https://github.com/jennPeavler/numberGuesser)
 
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+#### Linked-List
 
-#### (Project Name)
+For this project, my partner and I built a web address bookmark generator.  The user could enter the name and URL of a website.  The application validated the url and appended a bookmark card to the page.
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+* [GitHub URL](https://github.com/jennPeavler/linked-list)
 
-(description)
+Evaluator: Robbie
 
-(evaluation comments)
+##### Functional Expectations-3.5: 
+Application meets all of the functional expectations in Phase Two.
 
-(evaluation scores)
+##### Fundamental JavaScript Style-3.5: 
+Application shows strong effort towards organization, content, and refactoring.
 
-(feedback to me)
+##### Workflow-2.5: 
+The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
+
+##### HTML Style-4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors.
+
+###### CSS Style-3: 
+Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
+#### Idea-box
+
+For this project, my partner and I built an idea card generator.  The user could enter the name and content of an idea.  The application appended an idea card to the page.  The user could then rate the idea or delete the idea.  The idea card and the information on the card persisted upon page reload.
+
+* [Original Assignment](http://frontend.turing.io/projects/idea-box.html)
+* [GitHub URL](https://github.com/jennPeavler/idea-box)
+
+##### Feedback from my partner:
+
+Working with Jenn was a solid experience. We communicated fairly well and often enough that we were typically on the same page.  We struggled on a few aspects of the project, but it was Jenn who would take the first step back to break the problem down into much more simple tasks. This proved to be the most valuable part of the experience as I have a tendency to take on too much at once.
+
+#### 2Do-Box-Pivot
+
+For this project, my partner and I took the code repository from another pair of students 'Idea-Box' project.  We refactored the code and altered the functionality in order to suit a task-to-do card generator application.  We were also tasked with creating some selenium testing for the application.
+
+* [Original Assignment](hhttp://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [GitHub URL](https://github.com/jennPeavler/2DoBox-Pivot)
+
+Evaluator:  Robbie
+
+##### Specification Adherence-3:
+The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from phases 1 through 4 that make the application feel incomplete or hard to use.
+
+##### User Interface-3:
+The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+##### HTML Style-3.5:
+Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+##### JavaScript Style-3:
+Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+##### Testing-3:  
+Project has a running test suite but fails to cover some features. The application makes some use of feature testing.
+
+##### Workflow-3
+The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
 
 ## D: Professional Skills
 (Intro)
