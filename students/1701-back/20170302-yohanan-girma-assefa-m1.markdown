@@ -56,7 +56,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | CATEGORY | Night Writer |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) |
-| **Github** | [link](https://github.com/caward12/night_writer) |
+| **Github** | [link](https://github.com/yoasyo25/night_writer-1) |
 | **Functional Expectations** | 3 |
 | **Test-Driven Development** | 3 |
 | **Encapsulation/Breaking Logic into Components** | 3 |
