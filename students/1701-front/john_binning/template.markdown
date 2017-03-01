@@ -121,38 +121,57 @@ Two biggest takeaways:
 ### PROtocol
 #### (Session Name)
 
-*   [Link to Completed Deliverables]()
+*   [PROtocol slides](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit#slide=id.g1c505a3b55_0_258)
+
+I learned that I need to be sensitive to how I give an receive feedback.  It is important to stop and think about how I am perceiving/giving feedback based on how I'm feeling.
+
 
 ### Professional Development Workshops
 #### (Session Name)
 
 *   [Workshop URL](http://backend.turing.io/professional_development/module_one/identity_essentials)
 *   [Github](https://github.com/JohnBinning)
-*   [Link to Completed Deliverables]()
+*   [Linkedin](https://www.linkedin.com/in/john-binning-289607132/)
+*   [Stack Overflow](http://stackoverflow.com/users/7484758/john-binning)
 
-(takeaways from session)
+
+I recognize the value of looking professional on social media.  Social media is a great way to network, and could lead to job leads.
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-For Justyna Field, linked-list partner:
+#### For Justyna Field, linked-list partner:
 
 Working with Justyna was great.  We had wonderful give and take, and we agreed up front that no one would fall behind.  I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me.  Our communication was excellent, and we were consequently able to stop any arguments before they even started.  I would be happy to work with her again.
 
-### Receiving Feedback
+#### For Mike Fenwick, Mod 2 pairing partner.
 
-From Justyna Field, linked-list partner: 
+Pairing with Mike was great.  He has been very invested in helping me reach and understand solutions to problems I was having.  Mike didn’t just give me answers, he made me think about what I was trying to do.  He has also been supportive of my growth mindset.  When I was feeling down, he related back to his mod1 experiences and encouraged me to keep pressing on and not worry.  I look forward to pairing/working with Mike again in the future.
 
- I really enjoyed working with John. We determined our working relationship right away with great respect of each other’s working habits and schedule differences. During our work process we exchanged clarifying questions. If there was any part of the project that one of us did not fully understand we would stop and take time to walk each other through the problem and make sure that we both fully understand that topic. I feel like we both equally contributed into the project, it was a very good pairing experience.
+#### For Devon Bull, ToDo Box partner:
+
+Working with Devon was great.  He has a fantastic work ethic and is very encouraging.  We worked together on the ToDo Box  Pivot and I felt that the pairing went well.  I was able to side by side pair with him effectively, and I believe we did a good job of splitting to work individually.  When we split, we always made sure to come back and explain what we had done, not moving on until both partners understood what was going on with the new work.  For the sake of providing constructive feedback, Devon could possibly work on prioritizing tasks.  He generally did a good job working with me, but I worry about how sustainable spending the night at school to finish his comp3 is.  I would be very happy to pair with Devon in the future, and plan on doing so.
+
 
 ### Being a Community Member
 
-(feedback to me)
+#### From Justyna Field, linked-list partner: 
+
+ I really enjoyed working with John. We determined our working relationship right away with great respect of each other’s working habits and schedule differences. During our work process we exchanged clarifying questions. If there was any part of the project that one of us did not fully understand we would stop and take time to walk each other through the problem and make sure that we both fully understand that topic. I feel like we both equally contributed into the project, it was a very good pairing experience.
+ 
+ 
+#### From Mike Fenwick, Mod 2 pairing partner:
+
+Pairing with John has been a great experience. From the very start I could tell he was fully engaged and focused on the task in hand. 
+If we worked through something to solve an issue John wanted to know exactly what was going on and why. He wasn't happy just taking the code functionality at face value which is a great mind set to have. 
+If John continues with this approach throughout Turing and into the work field then I can see John having a successful career in development.
+I would happily pair/work with John again.
+
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I feel that although I played a part in the community this mod, I have room to grow in the future.  I tried to set up lunch roulettes, and sometimes was successful.  I joined the Imposters community and went to every lunch I could, even when I was not feeling like an imposter.  I also regularly reached out and attempted to encourage members of my mod who were not feeling confident, and led a study group for the final quiz.
 
 ------------------
 
