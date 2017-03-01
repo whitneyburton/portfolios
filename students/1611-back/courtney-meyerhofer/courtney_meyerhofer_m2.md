@@ -187,6 +187,10 @@ To Max Glassie:
 
 Max, your ambition and tenacity has been apparent this module. You've taken extra steps to deepen your learning and immerse yourself in the Turing community. I appreciate that you invited me into the process of learning about interpreters, Lisp, and co-hosting spike sessions. You're very inspiring in that your enthusiasm for well-constructed code and the principles of SICP is contagious. Thank you for taking the time to teach me new concepts, be a supportive friend, and be a partner in creating workshops. You've taken steps to start learning new programming languages and concepts well outside of the established curriculum, and I foresee nothing but success in your future because of your motivation. I thoroughly enjoy all of my interactions with you, and I'm excited to see what you accomplish in module 3. 
 
+To Dan Olson:
+
+Dan, I really enjoyed working through the Bike Share project with you. I think your technical strengths from this project were in creating a well-stitched user experience and the MVC structure. The styling you added made our project look professional. You were very communicative about what you were working on and eagerly took on big aspects of our project like pagination, CRUD-ing out routes, and seeding. You also influenced the group positively by teaching back the concepts that you learned and offering help to other group members. In the future, when you are frustrated with code, verify your assumptions about what you've written. Often the reasons you were stuck were small things like test setup. You brought a lot of positive energy and motivation to our group. Your ambition is contagious, and I look forward to working with you in the future.
+
 ### Being a Community Member
 
 From Charlotte Moore:
