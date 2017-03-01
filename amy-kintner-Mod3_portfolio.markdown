@@ -89,33 +89,74 @@ We had two opportunities for group work this Mod: the RailsEngine project in wee
 #### Pinspiration
 
 * [GitHub URL](https://github.com/akintner/pinspiration)
+* [Original Assignment](http://backend.turing.io/module3/projects/cloney_island#teams)
 
-(description)
+The goal of this project was to clone a new platform from scratch. Within it, we built a well-documented API to both internally consume data and provide users with a developer option and web-tokens for API access. Our group's platform to clone, Pinterest, was built to handle multiple types of users (guests, registered users with either pinterest credentials or Google Oauth credentials, and admins). The database for our app ended up being quite complex, as all of the items - pins, boards, likes, comments - were interrelated and tied to a user's credentials, thus the database ended up being a platform for us to explore polymorphic associations. Additionally, the visual layout of Pinterest provided us with an opportunity to delve deep into styling, masonry, and image hosting. 
 
-(evaluation comments)
+**Client Expectations**
 
-(evaluation scores)
+*   Team completed all the user stories and requirements set by the client.
+   *   3.5: As expected, but great
 
-(feedback to me)
+**User Experience**
+
+*   Project exhibits a production-ready user experience.
+   *   4: Better than expected
+
+**Organization**
+
+*   Team used a project management tool to keep their project organized.
+   *   4: Better than expected
+
+### Technical Evaluation
+
+**Git Workflow**
+
+*   Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+   *   3.5: Better than expected
+
+**Test Quality**
+
+*   Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+   *   4: Better than expected
+
+**Code Quality**
+
+*   Project demonstrates well-factored code and a solid grasp of MVC principles.
+   *   3: As expected
+
+**Bonus**
+
+We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
+
+*   Did the team push themselves by taking risks?
+   *   0: No
+
 
 ## D: Professional Skills
-(Intro)
+
+This mod's professional development focus was on the job hunt, including research and interview strategies. All of our profesisonal dvelopment material was sent in a private repo to Meg Stewart for evaultation. 
 
 ### Gear Up
-#### (Session Name)
+#### Tragedy of the Commons
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
+### Gear Up
+#### Automation
 
-### Professional Development Workshops
-#### (Session Name)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-(takeaways from session)
+#### Universal Basic Income
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
 
 ## E: Feedback and Community Participation
 
