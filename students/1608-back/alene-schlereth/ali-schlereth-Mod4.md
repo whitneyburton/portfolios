@@ -127,7 +127,8 @@ Ali was a huge asset to the Turing community and all our time at Turing. She is 
 
 from Joey:     
 Ali, it has been great working with you on Census and throughout Turing. I admire your organization and dedication to quality work. You pushed me to do some testing and refactoring that I probably wouldn't have done on my own and I appreciate that. It's a shame that we never had the chance to work together on a more exciting project. I think that would have been a lot of fun.  
- ### Playing a Part  
+
+### Playing a Part  
 
 Pahlka Posse:
 * Efforts toward Pahlka Posse continuing after the current four Mod4 folks graduate. We revamped a bit of how Spikes and our weekly lunch work to be more inclusive and build relationships. Personally this mod, I focused on stepping back as a leader and supporting the current leaders to ensure Pahlka's continued success. 
