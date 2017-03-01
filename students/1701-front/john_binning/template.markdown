@@ -23,34 +23,34 @@ My goal for the module was to get as comfortable as possible with the fundamenta
 
 Our first project during Mod1 was Number Guesser, a game where users guess a randomly generated number.  Other individual projects included three static comp CSS challenges.
 
-#### Number Guesser
+### Number Guesser
 
 *   [GitHub URL](https://github.com/JohnBinning/number-guesser)
 *   [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 The Number Guesser project requires students to create a site that randomly generates a number, starting between 1-100.  Users will input a guess, then the application provides feedback as to whether their guess was correct, too high, or too low.  Upon a correct guess, the range would increase by ten on either side.  The user can set a custom range of numbers if they prefer.
 
-##### Evaluator: Robbie
+#### Evaluator: Robbie
 
-##### Notes:
+#### Notes:
 
-##### UX/UI Expectations
+#### UX/UI Expectations
 
 - 3: Application shows strong effort towards matching the comp, but some details have been missed. Any extensions are simple, clean design, content organization, and well thought out experience and user interactions.
 
-##### Functional Expectations
+#### Functional Expectations
 
 - 4: Application meets all of the functional expectations in Phase Three
 
-##### Fundamental HTML
+#### Fundamental HTML
 
 - 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing and has incorporated accessibility best practices.
 
-##### Fundamental CSS
+#### Fundamental CSS
 
 - 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-##### Fundamental JavaScript
+#### Fundamental JavaScript
 
 - 3: Application shows strong effort towards organization, content, and proper syntax
 
@@ -111,6 +111,12 @@ It's interesting to look back on the first gear up of the mod now that we are at
 
 #### Debugging the Gender Gap
 
+I found the quote about women in history interesting "Women are an equal part of the past but not an equal part of history".
+When they spoke about not having computer sciense as a subject in high school, I could really relate, I wish I could have been exposed to the subject much earlier.
+
+Two biggest takeaways: 
+-it's almost if not completely impossible for me to understand the experiences of people who are a different gender, race... than I am if no one speaks up
+-it's much easier to develop applications that are usable for everyone when we have a diverse team of developers.
 
 ### PROtocol
 #### (Session Name)
@@ -133,6 +139,12 @@ It's interesting to look back on the first gear up of the mod now that we are at
 For Justyna Field, linked-list partner:
 
 Working with Justyna was great.  We had wonderful give and take, and we agreed up front that no one would fall behind.  I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me.  Our communication was excellent, and we were consequently able to stop any arguments before they even started.  I would be happy to work with her again.
+
+### Receiving Feedback
+
+From Justyna Field, linked-list partner: 
+
+ I really enjoyed working with John. We determined our working relationship right away with great respect of each other’s working habits and schedule differences. During our work process we exchanged clarifying questions. If there was any part of the project that one of us did not fully understand we would stop and take time to walk each other through the problem and make sure that we both fully understand that topic. I feel like we both equally contributed into the project, it was a very good pairing experience.
 
 ### Being a Community Member
 
