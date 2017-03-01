@@ -63,7 +63,7 @@ The Number Guesser project requires students to create a site that randomly gene
 * [StaticComp2 GitHub URL](https://github.com/JohnBinning/jb-comp-challenge-2)
 * [StaticComp2 URL](https://johnbinning.github.io/jb-comp-challenge-2/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
-* [StaticComp3 URL](https://github.com/JohnBinning/jb-static-comp3)
+* [StaticComp3 GitHub URL](https://github.com/JohnBinning/jb-static-comp3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 * [StaticComp3 URL](https://johnbinning.github.io/jb-static-comp3/)
 
