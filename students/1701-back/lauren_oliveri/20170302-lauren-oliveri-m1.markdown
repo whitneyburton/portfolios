@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I came to Turing to kick ass. I had some helpful exposure to coding before coming to Turing, which not only drove my decision to pursue an education here, but helped and fueled my desire to learn how to code. During Module 1, I aimed to learn fundamentals of a programming language in hopes that it will help me learn other useful programming languages and how to solve and breakdown complex problems. I've learned that and more, I have a solid foundation of test-driven development and don't feel intimidated by scary prompts or problems, and am already starting to brainstorm ideas for side projects.
+I had some helpful exposure to coding before coming to Turing, which not only drove my decision to pursue an education here, but helped and fueled my desire to learn how to code. During Module 1, I aimed to learn fundamentals of a programming language in hopes that it will help me learn other useful programming languages and how to solve and breakdown complex problems. I've learned that and more, I have a solid foundation of test-driven development and don't feel intimidated by scary prompts or problems, and am already starting to brainstorm ideas for side projects.
 
 ## Self-Assessment Scores
 
@@ -142,7 +142,7 @@ Even when I arrived to Turing, an upper-mod student sort of "mansplain"-ed the t
 
 ### Community Participation
 
-In mod 1, though I have primarily focused on myself and my studies, I have been an active helper in the class for those that need assistance on homework and projects. I enjoy helping others with their coding challenges. Additionally, I've been attending as many guest speaker, demo night, group meditations, and Joan Clarke meetings and talks as I can.
+In Module 1, though I have primarily focused on myself and my studies, I have been an active helper in the class for those that need assistance on homework and projects. I enjoy helping others with their coding challenges. Additionally, I've been attending as many guest speaker, demo night, group meditations, and Joan Clarke meetings and talks as I can.
 
 -------------------------------------------------------------
 
