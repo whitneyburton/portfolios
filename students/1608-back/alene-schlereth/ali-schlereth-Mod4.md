@@ -88,7 +88,18 @@ Notes from Nate:
 - I like the planning for the future. The settings screen.
 - Looks like you're handling at least a few edge cases, like students that haven't uploaded at picture. But not images that are the wrong aspect ratio...
 - Yearbook is for Jeff
-- Looks clean
+- Looks clean    
+
+Notes from Jeff:  
+* Pulls information from Census
+* Start Game -> Select a Cohort -> Guessing
+* Scoped out the robots / people without
+* Tracker: good
+* Census: added a few routes before starting Yearbook
+* "Discovered" that really only one person can play the game at a time
+* Lots of extra controllers
+* Conclusion: start from scratch
+* Proud: "I added some tests"
 
 ## D: Professional Skills
 
@@ -126,7 +137,13 @@ to Nick:
 As always, Nick has been a great contributor to Pahlk Posse. He is reliably present to the group and willing to share of his ideas and energy. He showed great leadership this inning, leading a technical spike on Leaflet as well as a networking/mentor spike with Horace where he lead a great conversation. He took the time to do outside background work to make the session a success during wk5 which is never easy. Thanks Nick!    
 
 to Ben:  
-Ben was a great partner. Coming in to Quantified Self, he was eager to learn all about JavaScript. We quickly hit an onboarding pattern of setting out a prototype (not the JS kind) and then he recreated it to help himself solidify the knowledge. Ben was determined to find solutions and a diligent worker. I think he would benefit from giving himself a bit more time to figure things out before seeking outside help. He was a great collaborator who listened as much as he spoke. Ben made for a great learning partner!    
+Ben was a great partner. Coming in to Quantified Self, he was eager to learn all about JavaScript. We quickly hit an onboarding pattern of setting out a prototype (not the JS kind) and then he recreated it to help himself solidify the knowledge. Ben was determined to find solutions and a diligent worker. I think he would benefit from giving himself a bit more time to figure things out before seeking outside help. He was a great collaborator who listened as much as he spoke. Ben made for a great learning partner!  
+
+to Brad:  
+Brad was a great team member, especially for a four week project. I enjoyed diving into building universal search functionality together and was impressed with your research skills while we were trying to figure out SAML.  Thanks for being a great collaborator with dedication.   
+
+to Joey:  
+Joey was a great team member throughout our 5 week project span. I enjoyed collaborating and learning new tricks. It helped work flow and team dynamics a great deal to split apart functionality and know that we could rely on each other to produce quality. Thanks! 
 
 ### Being a Community Member
 
