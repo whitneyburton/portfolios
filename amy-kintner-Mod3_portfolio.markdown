@@ -154,7 +154,20 @@ ALRIGHT, UBI. Socialism. Star Trek, here we come.
 
 ### Giving Feedback
 
-(feedback from me)
+Caroline: I had the pleasure of working with Caroline on our Cloney Island project, during which we – the ladies – cloned Pinterest. Caroline was our Project Manager, a role she took reluctantly, but then owned to its fullest extent during the project’s two weeks. Not only did Caroline setup all the database migrations for us, but she consistently kept us on track by assigning work to each of us individually, organizing pairings, and keeping a watchful eye on our GitHub activity and pull requests. At Turing, I’ve not yet worked with someone who settled into the role of Project Manager and gave the entire project a more professional feel than might have otherwise been the case. 
+That said, Caroline was also a delight to work with because she never took any of the work or any of our roles too seriously. We laughed a lot, and we got a lot done. It was by far the most fun I’ve yet had at Turing and was an experience I expect to go unmatched in my time yet to come. 
+<br>
+<br>
+Annie: I had the pleasure of working with Annie on our Cloney Island project, during which we – the ladies – cloned Pinterest. Annie was our Project Owner, a role we came up with after much discussion about the complexity of the project and its scope. In this role, Annie was our direct contact with the “client,” thus did all of the communicating with Casey. In keeping true to this role, Annie guided us through the process of GitHub rebasing, branch-naming, and acted as the primary organizer of our Git activity.  She also took on the setup of “Likes,” the polymorphic part of our database setup, and presided over the daunting task that came with setting up the proper associations and targets in the models, views, and controllers. 
+That said, Annie was also a delight to work with because she never took any of the work or any of our roles too seriously. We laughed a lot, and we got a lot done. It was by far the most fun I’ve yet had at Turing and was an experience I expect to go unmatched in my time yet to come. 
+<br>
+<br>
+Molly: I had the pleasure of working with Molly on our Cloney Island project, during which we – the ladies – cloned Pinterest. Molly and I collaborated on the process of getting Google Oauth set up, which proved a rather more daunting task than either of us realized at first, and she also volunteered to be our Twilio ninja. In the latter role, Molly was really the only person to have her hands on Twilio, on which she worked tirelessly and valiantly for the better part of a week. Between Google Oauth, Twilio, and the work she did styling on the Wednesday before the project was due, I think Molly gets the award for bravest and most fearless amongst our group. 
+As with the others in the group, however, Molly was a delight to work with because she never took any of the work or any of our roles too seriously. We laughed a lot, and we got a lot done. It was by far the most fun I’ve yet had at Turing and was an experience I expect to go unmatched in my time yet to come. 
+<br>
+<br>
+Laszlo: It was a pleasure to finally get to work with Laszlo on an official project, RailsEngine in our first week of Mod 3. The biggest thing I noticed right away was that our methods of communication and our work schedules complimented each other perfectly, which made us an ideal match for such a labor-intensive project. Laszlo’s focus on testing is perhaps unmatched in our cohort, and that helped to keep the project’s progress grounded. His dedication to code-review in pull requests on GitHub also helped prevent at least one major issue, and thus kept the project from suffering any hiccups. In the end, we managed to make it through the week without any major problems, a fact that I attribute to Laszlo’s commitment to testing and careful review of PRs.  
+
 
 ### Being a Community Member
 
@@ -162,7 +175,7 @@ ALRIGHT, UBI. Socialism. Star Trek, here we come.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+My living situation this Mod allowed me a bit more time to stay after school hours were over, and I circulated around and helped a number of lower mod folks with little parts of their projects. I was also a pre-turing guide for an incoming student again, which is fun; I got to help out with some array questions and chat about Turing life in general. Otherwise, I did a lot of dish loading and unloading, and I am THAT person who grabs bottles or cans out of the trash and recycles them. Don't tell anyone my secret. 
 
 ------------------
 
