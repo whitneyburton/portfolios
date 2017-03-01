@@ -123,10 +123,10 @@ Getting better at difficult things. This session pointed out that the brain is o
 Stress. this session we talked about the triggers of stress, as well as the responses and actions that people can take to deal with stress. The important takeaway for me was that managing stress is critical, but even mor ecritical is managing stress in ways that are healthy for me and my world.
 
 #### Session 4
-Shared values: This session we talked about the common ground that we can all find despite different backgrounds and beliefs.
+Shared values: This session we talked about the common ground that we can all find despite different backgrounds and beliefs. It was nice to see that we are all from different places and backgrounds and still have a common thread amongst ourselves.
 
 #### Session 5
-Debugging the gender gap. Watched a documentary about the gender imbalance in workplaces in technology. Afterwards discussed the ways that all tech workers can make impacts in this area. Ideas we came up with include 
+Debugging the gender gap. Watched a documentary about the gender imbalance in workplaces in technology. Afterwards discussed the ways that all tech workers can make impacts in this area. Ideas we came up with include working to make the pipeline of applicants in tech is broadened and raising awareness actively.
 
 ### Community Participation
 Participated in the Turing Lab Posse, and was invited to present my side project during a spike. 
