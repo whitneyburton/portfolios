@@ -199,12 +199,22 @@ Notes:
 
 #### Joust
 
-*   [GitHub URL](https://github.com/NZenitram/joust)
+* [GitHub URL](https://github.com/NZenitram/joust)
+* [Live Link](https://pure-crag-87193.herokuapp.com/)
 
-<!-- TODO -->
-(description)
+##### Jeff Comments:
+* Problem: too much free time, opportunity to hone skills, be better developers
+* Get two solutions from the same exercise on Code of Arms
+* PLEASE DON'T TYPE "LKHJGSDFG" IN YOUR DEMOS!
+* Tracker: good progress, some stories in the backlog, add some filtering
+* Shame: Showing Sal a thing that didn't work, turned out to just have Pry
+* Proud: use of the Code of Arms API, neat to build other things
+* Improved the CoA API to allow the functionality
+* "How do you see the comments?" "`rails c`"
 
-(evaluation comments)
+##### Nate Comments:
+* I like the consistent style with code of arms
+* It seems like a good start, but a lot of the "sticky" functionality is yet to come
 
 
 
