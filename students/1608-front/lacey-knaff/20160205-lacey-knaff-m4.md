@@ -1,7 +1,7 @@
 # Lacey Knaff - M4 Portfolio
 
 ##Summary
-Mod4 was all about the job hunt. I set out to get a job offer before the end of the module, so spent a lot of my time networking, sending cold outreach emails, prepping for interviews, and applying for jobs. It was definitely overwhelming having to try to balance both school and the job search, and I often felt like I wouldn't be able to finish the Mod.
+Mod4 was all about the job hunt. I set out to get a job offer before the end of the module, so spent a lot of my time networking, sending cold outreach emails, prepping for interviews, and applying for jobs. It was definitely overwhelming having to try to balance both school and the job search, but I successfully completed both and was able to secure a job that I think will be really great for my growth as a designer and developer.
 
 ##Areas of Emphasis
 * Getting a job offer
@@ -88,12 +88,30 @@ Jet Fuel is a url-shortening service that uses a postgresql backend database.
 * [Published Project](https://jet-fuel-lk.herokuapp.com/)
 
 #####Description
-Volit is a volunteer organization application. We completed the admin side.
+Volit is a volunteer organization application. We completed the admin side of the application using Auth0, React, React Router, Redux, Node, Express, and Sass.
 
 #####Evaluation Scores
+* Production:
+* JavaScript Style: 40
+* User Interface: 38
+* Risk Taking/Creativity:
+* Testing:
+* Workflow: 50
+* Total: /325
 
 ## D: Professional Skills
 ####I completed all needed professional skills requirements for the Module.
+1. Branden Youngs of TechGrayscale. He emailed be back and said that he was working overseas remotely now but gave me the contact information for a coworker. I emailed the coworker but did not hear back.
+
+2. Cortland Coffey of Denver Outfitters. Met with them at their space and discussed their needs. I didn't think I was a good fit but created a connection between Cortland and Lia for future opportunities.
+
+3. Scott MacDonald of Lumenati and Cinebody. He connected me with the owner of Barbershop, who I emailed but did not hear back from.
+
+4. Corban of Barbershop. Did not hear back.
+
+5. Juan Ponce of Red Van Workshop. Met for coffee, shared his contact with Chelsea.
+
+6. Kate Catlin of Flock. I discussed a few opportunities with her, but did not find something that I felt would be a good fit. We discussed the type of jobs I was looking for and she is keeping me in mind for future opportunities she might come across.
 
 ### Gear Up
 
@@ -114,9 +132,16 @@ This was kind of a scary Gear Up. I mean, I knew that automation was thing but d
 ## E: Feedback and Community Participation
 
 ###Giving Feedback:
+This was my first time working with Hilary on a project and I was really blown away by her project management skills. She has a unique ability to break down larger tasks into, smaller, more manageable pieces an divvy out those tasks accordingly so that things stay on track. She conistently checks in with her teammates to get a pulse on how things are going with the group and makes suggestions and changes to the workflow accordingly. If I could suggest one thing for her to work on, and this is something I also need to work on, is being more consistent with her use of es6 (using const or let vs. var, destructuring, etc). Otherwise, she's an extremely hard working and quick learning developer who I think is going to go on to be a great asset to any team. --To Hilary Lewis
+
+Noah is a self-motivated developer who's not afraid to ask for feedback and advice, which are great soft skills to take into the workplace. I had a couple of opportunities to work with Noah on his personal portfolio, and every time I was impressed with his ability to accept critical advice and desire to learn from others. Not only is this an impressive way to approach work and life, but Noah is just a really pleasant person to talk and work with. One piece of advice I have for him would be to go after learning more about design if he thinks it's something he's really interested in. I think every one can gain an eye and ability to design with the correct amount of time and effort. Either way, he's going to be a great addition to any team or company he decides to work with. --To Noah Peden (Mod3)
+
+Lauren, Lucy and Dylan did a phenomenal job taking over and leading the Verou Posse. The sessions were always welcoming to newcomers, well thought out, and just a joy to be a part of. I know first hand how hard it is to find time at Turing to lead and run a posse, so stepping up to take on the challenge of taking over leading the posse was a great accomplishment for all of them, and I'm really glad they were all willing to volunteer their time to keep to posse alive. I've really enjoyed getting to know all of you the past 3 mods! Finish strong! --To the Verou Posse leaders
 
 ###Being a Community Member:
-Lacey's eye and mind for design and clean code is one of the reasons I asked to pair with her this mod on my personal site. She was honest and helpful with the ideas I came up with for my own site, and helped walk me through what could be some challenges or downfalls. I think she's probably one of those developers who's going to end up getting paid buttloads cause she's basically a UX Designer with the skill set of an experienced Front End Engineer. Overall she was a pleasure to work with. -Noah Peden
+I am so happy I got the opportunity to work with Lacey on this project. I regret not getting to work with her more throughout my time at Turing because our collaboration with each other allows me to learn a lot from Lacey. Lacey has so much to offer a team because of her eye for design, deep understanding of UX/UI, efficiency in writing JavaScript, clean and consistant css implementations, and encouraging personality. If there is one thing I can offer to Lacey, it would be to have confidence in the ideas she has to bring to a project, expecially when working with people who may have a 'bigger title'. I say this because her ideas for not only design but also javascript are very valuable and powerful. Overall, I hope in the future I can to work with Lacey again and Cultivator has won a very impressive designer and developer. --From Hilary Lewis
+
+Lacey's eye and mind for design and clean code is one of the reasons I asked to pair with her this mod on my personal site. She was honest and helpful with the ideas I came up with for my own site, and helped walk me through what could be some challenges or downfalls. I think she's probably one of those developers who's going to end up getting paid buttloads cause she's basically a UX Designer with the skill set of an experienced Front End Engineer. Overall she was a pleasure to work with. -- From Noah Peden
 
 ###Playing a Part
 
@@ -127,7 +152,8 @@ My goals for after graduation are:
 * network at and attend developer meetups
 * work on starting my own design + development business
 * learn prototyping tools like Framer.js and get better at Sketch app
-* get healthy again
+* **get healthy again**
+* travel
 * use my extra free time to keep learning and growing
 * start giving back to the design + development community
 
