@@ -130,15 +130,28 @@ Prior to this lesson I had heard of Agile development, but I really had no idea 
 
 ### Feedback
 
-The most valuable feedback that I've gotten at Turing is that I need to open up and communicate more. I'm natrually introverted, but I realize that's not an excuse. It takes me a long time to become comfortable with people 
+The most valuable feedback that I've gotten at Turing is that I need to open up and communicate more. I'm natrually introverted, but I realize that's not an excuse. In Little Shop I took this feedback and stepped into the role of PM. It was extremely uncomfortable at first but with support and advice from my team members it really worked out. I'm incredibly happy with how that project turned out, and I'm happy that I was able to step into a role that forced me to be communicative and be successful. 
 
 ### Flower Exercise
 
 ### Mentor 
 
+I've reached out to two people about mentorship. The first never responded, and the second agreed to be my mentor, but I haven't heard from him since. I intend to take time over intermission week to reach out to a few people. I'm looking for a mentor who I can talk to about civic tech and python, and there are a number of people on the mentor spreadsheet who have experience with those things. After the PD session today I realize my approach could be the issue,  so I intend to seek feedback from peers about the way I'm reaching out.  
+
 ## E: Community
 
 ### Tragedy of the Commons
+
+* Let's say tech executives (consciously or subconsciously) seek teams in which at least 1/3 of team members are like them (gender, age, race). How will this impact the types of jobs available?
+ * If tech executives seek teams in which at least one third of team members are like them than that means at a minimum at least one third of jobs at those companies won't be available to people unlike them. This is an issue because it limits the opportunities for people of different genders, ages, and races. 
+* Diversity "quotas" are sometimes dismissed as counter-productive or missing the point of actually valuing diversity. PotP does demonstrate how they may add some value. What are your attitudes toward diversity quotas; does this game change your assumptions?
+ * I think diversity quotas are a good way of counteracting systemic bias. It helps ensure that negative bias is less of an issue in the hiring process. 
+* Given the patterns illuminated by PotP, what other strategies may be effective in counteracting bias?
+ * I think education is the best way to counteract negative bias. I think engaging people who are unlike yourself is the best way to offset any learned or intrinsic bias we may have. The other is only the other because they are unknown. 
+* PotP speaks to the power of group norms: a seemingly innocuous attitude, wanting to be surrounded by at least 1/3 of people who look like you, when embraced by a large group, can have huge implications on that community. Considering this reality, what knowledge and understandings should Turing impart to students to ensure they do not enter the field perpetuating ideas that are in conflict with our mission.
+ * I think doing gear ups like this are a good way of educating people about the danger of embracing a group norm that is exclusionary. 
+* PotP is a pretty sweet example of how technology can illustrate complex ideas. What are PotP's goals, and how effective do you think the game is in advancing those goals?
+ * PotP's goals were to provide an interactive model that demonstrates the effects of collective. I think it was ultimately effective, it was fun and engaging. 
 
 ### Debugging the Gender Gap
 
