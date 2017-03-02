@@ -44,7 +44,7 @@ My areas of emphasis included those deemed necessary by Turing in order to be co
 
 ### Assessor Comments
 
-##### Comments on Date Night from Jorge Téllez:
+#### Comments on Date Night from Jorge Téllez:
 *   Functionality was almost there.
 *   Good testing coverage.
 *   Showed really good encapsulation.
@@ -65,14 +65,14 @@ My areas of emphasis included those deemed necessary by Turing in order to be co
 
 ### Assessor Comments
 
-##### Comments on Night Writer from Lauren Fazah:
+#### Comments on Night Writer from Lauren Fazah:
 *   Aim for encapsulating all Ruby code in a class
 *   Smaller, more SRP methods (efforts towards that are visible)
 *   Less unnecessary variable declarations
 *   Let tests drive major (and minor) refactors - this would eliminate issues we're seeing with old `to_braille` tests no longer supporting `ToBraille`
 *   Would be nice to see edge cases tested
 
-##### Comments on Black Thursday from Beth Sebian:
+#### Comments on Black Thursday from Beth Sebian:
 *   Style: If enumerables are blocks, use do/end, and no need to return values in find
 *   Solid testing, comprehensive; nice use of fixtures
 *   Enumerables otherwise solid
