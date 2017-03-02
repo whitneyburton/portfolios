@@ -81,12 +81,12 @@ This module I wanted to: become proficient at Ruby (writing succinct & conventio
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/VictoriaVasys/night_writer) | [link](http://example.com) |
-| **Functional Expectations** | 3 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 4 | X |
-| **Fundamental Ruby & Style** | 2.5 | X |
-| **Code Sanitation** | n/a | X |
-| **Enumerables & Collections** | n/a | X |
+| **Functional Expectations** | 3 | 4 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 4 | 4 |
+| **Fundamental Ruby & Style** | 2.5 | 4 |
+| **Code Sanitation** | n/a | 4 |
+| **Enumerables & Collections** | n/a | 4 |
 
 #### Notes
 
@@ -95,7 +95,11 @@ This module I wanted to: become proficient at Ruby (writing succinct & conventio
   * talked about instance variables and how to break those out and use methods instead
   * had a nice dictionary module!
   * file io was broken out as well
-* Black Thursday (if applicable)
+* Black Thursday (assessed by Ilana)
+  * Great breakdown of classes and creation of modules
+  * Created charts with JS
+  * Talked about more robust testing
+  * Talked about small use of instance variables instead of methods
 
 
 ## D: Professional Development
