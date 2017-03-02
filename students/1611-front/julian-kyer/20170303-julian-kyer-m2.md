@@ -225,4 +225,10 @@ I enjoyed having this discussion with my cohort. We spoke of how this isn't just
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+*   **A: End-of-Module Assessment**: Pass
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3.5
