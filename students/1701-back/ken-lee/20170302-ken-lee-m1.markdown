@@ -25,7 +25,7 @@ I plan to work on my ruby knowledge and improve what I learned from last mod. Al
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
 | Pairing Assessment | Pass|
-| Independent Timed Assessment | pending |
+| Independent Timed Assessment | Pending |
 | Diagnostic | Passed |
 
 ## B: Individual Projects
