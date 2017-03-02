@@ -35,6 +35,8 @@ Sorting sweet is a project in which we were tasked with writing various array so
 
 ##### Test Driven Development
 
+PASS
+
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
 ##### Encapsulation / Breaking Logic into Components
@@ -298,6 +300,8 @@ This mod, I've really immersed myself in the Turing community. I continued my in
 - in dtr explain the headphones / work process 
 
 ### Outcome
+
+PASS
 
 * **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**: 3
