@@ -341,6 +341,20 @@ As a kid there were many topics in school that I was easily successful at and wh
 Practice practice practice. Break difficult things into smaller distinct things that you can master.
 
 ### Gear Up
+#### (Managing Personal Stress)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
+
+I have had very stressful situations in my past, and no matter how hard -and differently stressing- Turing may be it will never be as stressful as those. It is important to remember what coping mechanisms worked for me at that point in my life and how I can apply them now. Be aware of when I am getting overly stressed and find 'off ramps' for my stress. My coping mechanisms are gettting enough sleep and walking my dogs while listening to podcasts.
+
+### Gear Up
+#### (Personal Narratives)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_personal_story.markdown)
+
+My values continue to be curiosity, critical thinking, fairness and social justice. I have to learn how to apply those things to this new career, how to harness the similarities and differences between my cohort brethern and to keep what is important to me.
+
+### Gear Up
 #### (Debugging the gender gap)
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
