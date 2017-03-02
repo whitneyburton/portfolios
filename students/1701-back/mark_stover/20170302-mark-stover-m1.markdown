@@ -83,12 +83,10 @@ During Module 1, I had the expectations of learning the fundamental building blo
 ### Pair Feedback
 
 #### Project 1: Night-Writer (Chris Dale): 
-> Mark,
-It was a pleasure to work with you. I was happy from day 1 after we sat and talked through the DTR. I feel it was really constructive and put us on a good footing with each other right off the bat. I think we made a great team, I hope I was able to give you as much insight as you gave me. I have a difficult time sometimes with new things and the driver/navigator roles we filled helped me out a lot. I look forward to working with you in the future and am glad I can call you friend.
+>It was a pleasure to work with you. I was happy from day 1 after we sat and talked through the DTR. I feel it was really constructive and put us on a good footing with each other right off the bat. I think we made a great team, I hope I was able to give you as much insight as you gave me. I have a difficult time sometimes with new things and the driver/navigator roles we filled helped me out a lot. I look forward to working with you in the future and am glad I can call you friend.
 
 #### Project 2: Black Thursday (Andrew Mossfin): 
->Mark,
-You sir, will be a tough act for the next project partner to follow. We both learned so much from this project due to our ability to bounce off one another. The communication was great, and so was the work produced. I appreciate your ability to take constructive criticisms well, but also to give them in a way that isn’t at all abrasive. That's what allowed us to keep grinding away at a feverish pace but still in good spirits. I know i’m supposed to give an example of room for improvement, but I’m drawing a blank. You’re a solid programmer and an even more solid person. Hope we get to work together again sometime in the future.
+>You sir, will be a tough act for the next project partner to follow. We both learned so much from this project due to our ability to bounce off one another. The communication was great, and so was the work produced. I appreciate your ability to take constructive criticisms well, but also to give them in a way that isn’t at all abrasive. That's what allowed us to keep grinding away at a feverish pace but still in good spirits. I know i’m supposed to give an example of room for improvement, but I’m drawing a blank. You’re a solid programmer and an even more solid person. Hope we get to work together again sometime in the future.
 
 ### Job Prep
 
