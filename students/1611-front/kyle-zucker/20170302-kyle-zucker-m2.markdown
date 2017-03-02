@@ -21,12 +21,81 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ### OOP TDD Eval
 Evaluator: yung-jhun
 
-Did ok! 
+Did ok! Passed 
 
 
 ## Work & Projects
 
 Here are some dope things I've done this Mod
+
+#### JS foundations 
+
+##### Complete Me
+
+Passed
+
+This project involved building and basic implementation of a trie data structure. I feel I solidified my ability to use recursive functions. 
+
+1. Fundamental JavaScript & Style
+
+3.5: Application shows strong effort towards organization, content, and refactoring
+
+2. Enumerable & Collections
+
+3.5: Application demonstrates comfortable use of appropriate Enumerable methods
+
+3. Test-Driven Development
+
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+4. Encapsulation / Breaking Logic into Components
+
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+5. Functional Expectations
+
+4: Application meets all requirements, and implements one extension properly.
+
+##### Sorting Suite
+
+Passed 
+
+This project involved creating 3 different sorting suites. Merge sort was by far the largest chunk of the project for me. The recursive function introduced with the Merge really expanded the possibilities of coding for me. I really enjoyed being able to have my algos compete with each other via testing.
+
+1. Fundamental JavaScript & Style
+
+3.5: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+2. Test-Driven Development
+
+4: Application is broken into components which are well tested in both isolation and integration
+3. Encapsulation / Breaking Logic into Components
+
+3.5: Application effectively breaks logical components apart but breaks the principle of SRP
+4. Functional Expectations
+
+3.5: Application meets all requirements as laid out per the specification.
+
+##### Flash Cards
+
+Passsed
+
+Loading text files in the browser is weird. I enjoying expanding into the cmd line interface, which is not a thing I feel is typically done with js. 
+
+1. Fundamental Javascript & Style
+
+3.5: Application shows strong effort towards organization, content, and refactoring.
+2. Enumerable & Collections
+
+4: Application consistently makes use of the best-choice Enumerable methods
+3. Test-Driven Development
+
+3.5: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+4. Encapsulation / Breaking Logic into Components
+
+3.5: Application effectively breaks logical components apart but breaks the principle of SRP.
+5. Functional Expectations
+
+4: Application fulfills all expectations of iterations 1 - 5 with no bugs, crashes, or missing functionality as well as an extensions.
 
 #### 2Do-Pivot
 
@@ -209,5 +278,10 @@ This mod, with the help of the Lab posse leaders, I ran a Friday spike on curcui
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
 
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 4
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Feedback & Community Participation: 3

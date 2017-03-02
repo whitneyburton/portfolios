@@ -174,7 +174,7 @@ Chelsea - It was great working with Matt on the JetFuel pair project. During pai
 
 Devin - You're a great leader and collaborator. The only feedback I would have is that your brain works so fast that sometimes I can kind of tell you get annoyed that people don't pick up as fast as you.
 
-Mike Fenwick - From an IronFE point of view I feel your collaboration has been really good. You have provided us with problems, gave us pointers when needed and if we weren't sure of something, you would look it up for us.Thank you for your time and effort over the last 6 weeks with organizing Iron FE. On top of completing mod 4 you still found the time to get into school early every morning and provide problems for us to solve on the white board. I believe we've all benefitted from these sessions and have become better at not only problem solving but also white boarding.
+Mike Fenwick - From an IronFE point of view I feel your collaboration has been really good. You have provided us with problems, gave us pointers when needed and if we weren't sure of something, you would look it up for us. Thank you for your time and effort over the last 6 weeks with organizing Iron FE. On top of completing mod 4 you still found the time to get into school early every morning and provide problems for us to solve on the white board. I believe we've all benefitted from these sessions and have become better at not only problem solving but also white boarding.
 
 Ryan - Matt took on the responsibility of IronFe with incredible zeal and dedication. He deserves a lot of credit for sacrificing early mornings to help others practice white boarding and thinking about code. His has a great teaching ability and am excited to see how it serves him in the future. Kudos to him!
 
@@ -192,8 +192,12 @@ IronFE!
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3.5
+* **E: Feedback & Community Participation**: 4
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted!!!

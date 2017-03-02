@@ -87,7 +87,7 @@ Deliverables:
 This was a solo project to use React and API calls. I definitely struggled more than I feel I should have at this point, but I also did not ask for help as soon as I should have to help me progress.
 
 Student: Annastasia Psitos
-Notes: A bit light on the feature implementation as we ran into some bugs that prevented all the functionality from falling into place.  Good work trying to test the features and components that were in place, and solid effort on design though not 100% polished.
+Notes: A bit light on the feature implementation as we ran into some bugs that prevented all the functionality from falling into place.  Good work trying to test the features and components that were in place, and solid effort on design though not 100% polished. 
 
 #### Specification Adherence
 
@@ -237,8 +237,10 @@ Anna was an amazing support to me in Mod-1 and continues to be throughout the pr
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Recognizing black holes and working to avoid them/reflect on if it's worth your time. 
+- DTR
+- Thinking about job scenario during coding - if you were in a job environment when would you cut bait and work on a different feature or bit off a smaller chunk?
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS

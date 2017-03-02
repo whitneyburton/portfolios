@@ -103,5 +103,12 @@ This mod I continued to lead the Turing Lab posse.  Even though I was unable to 
 
 Notes
 
+A: End-of-Module Assessment: Pass
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3
+D: Professional Skills: 4
+E: Feedback & Community Participation: 3
 
 Outcome
+
+Promoted
