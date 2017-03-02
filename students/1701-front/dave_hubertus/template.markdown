@@ -39,17 +39,17 @@ Front End Module One Projects are designed to improve our skills and increase ou
 
 Build a game where the user guesses a number between 1 and 100.
 
-UX/UI Expectations
+#### UX/UI Expectations
 2: Application meets the basic spirit of the comp but overlooks many details. Extensions show questionable design decisions that negatively impact the overall UX/UI. Functional Expectations
 3: Application meets all of the functional expectations in Phase Two
 
-Fundamental HTML
+#### Fundamental HTML
 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing and has incorporated accessibility best practices.
 
-Fundamental CSS
+#### Fundamental CSS
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-Fundamental JavaScript
+#### Fundamental JavaScript
 3: Application shows strong effort towards organization, content, and proper syntax
 
 #### Static Comp 3
@@ -76,20 +76,20 @@ Front End Module One Projects are designed to improve our skills and increase ou
 
 Build an application that can save a URL and title into two inputs and on click of submit to save the bookmark to your webpage.
 
-Functional Expectations
+#### Functional Expectations
 3: Application meets all of the functional expectations in Phase Two.
 
-Fundamental JavaScript Style
+#### Fundamental JavaScript Style
 3.5: Application shows strong effort towards organization, content, and refactoring. 
 
-Workflow
+#### Workflow
 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base. 
 
-HTML Style
+#### HTML Style
 4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. 
 Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors. 
 
-CSS Style
+#### CSS Style
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 (feedback to me)
@@ -101,22 +101,22 @@ CSS Style
 
 Build an application that can save a URL and title into two inputs and on click of submit to save the bookmark to your webpage. The bookmarks should be stored in local storage and persist on the page after refresh.
 
-Specification Adherence
+#### Specification Adherence
 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
-HTML Style
+#### HTML Style
 3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
-CSS Style
+#### CSS Style
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-JavaScript Style
+#### JavaScript Style
 3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-Workflow
+#### Workflow
 3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-Collaboration
+#### Collaboration
 3.5 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
 (feedback to me)
