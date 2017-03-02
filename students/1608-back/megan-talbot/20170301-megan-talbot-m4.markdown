@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-During this module, my principal goal was to prepare myself for my career as a sotware developer. This meant that I wanted to work on expanding my network, setting up informational interviews, and prep for technical interviews. I also wanted to solidify my knowledge of Rails and explore Javascript. I'm happy to say that I able to accomplish many of those goals. My Javascript knowledge explanded quite a bit, and I'm happy to be more proficient in it. I didn't have as much time as I wanted to build my professional network since our coarse load was much bigger than expected, but I am excited to have time for those pursuits in Mod 5.
+During this module, my principal goal was to prepare myself for my career as a software developer. This meant that I wanted to work on expanding my network, setting up informational interviews, and prep for technical interviews. I also wanted to solidify my knowledge of Rails and explore Javascript. I'm happy to say that I able to accomplish many of those goals. My Javascript knowledge expanded quite a bit, and I'm happy to be more proficient in it. I didn't have as much time as I wanted to build my professional network since our course load was much bigger than expected, but I am excited to have time for those pursuits in Mod 5.
 
 ## Rubric Scores
 
@@ -54,11 +54,11 @@ Workflow
 * [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
 
-Individual work in module 4 consisted of contibution to open source projects. After a lot of exploring, I chose this [Public Lab Plots 2](https://github.com/publiclab/plots2/issues) project, which had lots of issues and many marked for "first-timers-only."  I started by finding an [issue](https://github.com/publiclab/plots2/issues/1211) that was marked as a 'bug' and tried to reproduce it locally.  When I was able to do that, I decided to start work on the issue. The full navbar was showing up on error pages, and they didn't want that to be the case.  I commented on the issue that I would do some work, and then I edited the static error pages on my machine. When I thought I had something they would like, I posted a screenshot on a PR to see if they liked it.  They seemed very pleased, and my PR is offically submitted.  You can see it [here](https://github.com/publiclab/plots2/pull/1291).   
+Individual work in module 4 consisted of contribution to open source projects. After a lot of exploring, I chose this [Public Lab Plots 2](https://github.com/publiclab/plots2/issues) project, which had lots of issues and many marked for "first-timers-only."  I started by finding an [issue](https://github.com/publiclab/plots2/issues/1211) that was marked as a 'bug' and tried to reproduce it locally.  When I was able to do that, I decided to start work on the issue. The full navbar was showing up on error pages, and they didn't want that to be the case.  I commented on the issue that I would do some work, and then I edited the static error pages on my machine. When I thought I had something they would like, I posted a screenshot on a PR to see if they liked it.  They seemed very pleased, and my PR is officially submitted.  You can see it [here](https://github.com/publiclab/plots2/pull/1291).   
 I wrote a blog post about the experience [here](https://medium.com/@megantalbot/my-first-contribution-to-open-source-93c961b69ec1#.y0mm2egen).
 <br>Additionally, I submitted a PR for Growstuff, as seen [here](https://github.com/Growstuff/growstuff/pull/1258). This is a similar error to above but was in haml so was a bit more challenging.  But I wanted to contribute to another project in addition to the one above.
 <br>
-Separately, I wrote a documentation [patch](https://github.com/exercism/exercism.io/pull/3392) for Exercism, as it was an unclear link that was confusing during setup when I was exploring their issues, and thought it would be helpful to clarify! 
+Separately, I wrote a documentation [patch](https://github.com/exercism/exercism.io/pull/3392) for Exercism, as it was an unclear link that was confusing during setup when I was exploring their issues, and thought it would be helpful to clarify!
 
 
 
@@ -74,16 +74,16 @@ Mod 4 essentially consisted of 3 group projects. We had Quantified Self, which w
 * [GitHub URL](https://github.com/mscherer11/quantified-self)
 * [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
 
-Quantified Self was a pair project in which we made a calorie tracker entirely in Javascript. This was definitely a hard project as it was so new, but I can safely say that I learned a lot. I wish there had been more time to polish up our final project, but we worked very hard to get where we did, so I am satisfied with what we submitted. 
+Quantified Self was a pair project in which we made a calorie tracker entirely in Javascript. This was definitely a hard project as it was so new, but I can safely say that I learned a lot. I wish there had been more time to polish up our final project, but we worked very hard to get where we did, so I am satisfied with what we submitted.
 
-#### Evaluation Comments: 
+#### Evaluation Comments:
 * Teensy bug with the icon.
-* 40 tests. 
-* Filtering requires a refresh. 
-* Would like to have seen some dry. 
+* 40 tests.
+* Filtering requires a refresh.
+* Would like to have seen some dry.
 * What bugs do exist are very minor.
 
-#### Evaluation Scores: 
+#### Evaluation Scores:
 Functional Expectations
 - 3: Application has all functionality, but some bugs or strange behavior where features intersect
 
@@ -109,9 +109,9 @@ Project Management
 * [GitHub URL](https://github.com/turingschool-projects/MentorSHIP)
 * [Production URL](https://turing-mentorship-staging.herokuapp.com/)
 
-In our first sprint of MentorSHIP, we focused on setting up a new application with React-Rails and architecting our database. It was fun to learn React-Rails and I was happy to have setup some of the main functionality with that. 
+In our first sprint of MentorSHIP, we focused on setting up a new application with React-Rails and architecting our database. It was fun to learn React-Rails and I was happy to have setup some of the main functionality with that.
 
-#### Evaluation Notes: 
+#### Evaluation Notes:
 - Technical conversation happens on PR's in Github. Functionality conversations happen in Pivotal on the feature card.
 - You guys have been doing a great job with Pivotal Tracker
 - New Git/Github Workflow
@@ -123,7 +123,7 @@ In our first sprint of MentorSHIP, we focused on setting up a new application wi
   - Bug fixes are merged into that release Branch
   - Release is merged to master and development when we're ready for it to go to production
 
-#### Evaluation Scores: 
+#### Evaluation Scores:
 Project Management
 - 4: Team is using a project management tool and updating their progress daily.
 
@@ -144,9 +144,9 @@ Application of Techniques
 
 During the second sprint, we focused on streamlining the functionality that was already there. We also decided to create a post request to Census that would update their data. It was a struggle at times, but we focused on really solidifying the functionality we had.
 
-#### Evaluation Notes: 
+#### Evaluation Notes:
 
-#### Evaluation Scores: 
+#### Evaluation Scores:
 Project Management
 - 4: Team is using a project management tool and updating their progress daily.
 
@@ -165,7 +165,7 @@ Documentation
 
 
 
-### Mashup 
+### Mashup
 
 * [GitHub URL - Frontend](https://github.com/meganft/mashup-frontend)
 * [GitHub URL - Backend API](https://github.com/vidoseaver/mashup-api)
@@ -173,7 +173,7 @@ Documentation
 
 Mashup was our secondary project, in which we made an interface for users to sort groups of turing students based on different paramaters.
 
-#### Evaluation Comments: 
+#### Evaluation Comments:
 From Nate:
 
 - Nice work with local storage
@@ -203,13 +203,13 @@ From Jeff:
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown )
 
-This gear up was conducted in our cohorts, which I really enjoyed. I was familiar with this phrase as a economic term, and it was intrersting to see it described in a more socially impactful way.  Also, I really loved that we used an interesting technology to explore this subject.
+This gear up was conducted in our cohorts, which I really enjoyed. I was familiar with this phrase as a economic term, and it was interesting to see it described in a more socially impactful way.  Also, I really loved that we used an interesting technology to explore this subject.
 
 #### Automation
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-Automation is obiously going to become a bigger and bigger issue, so it was interesting to explore this topic in gear up. Part of it made me nervous about the changes we will face, but I am generally an optimist so I think we will be ok. It's definitely clear that it's something to become as educated on as possible.
+Automation is obviously going to become a bigger and bigger issue, so it was interesting to explore this topic in gear up. Part of it made me nervous about the changes we will face, but I am generally an optimist so I think we will be ok. It's definitely clear that it's something to become as educated on as possible.
 
 
 #### Universal Basic Income
@@ -234,7 +234,7 @@ To Mike Scherer:<br>
 Mike was a great partner for Quantified Self. This was a hard project and I was glad to have Mike with me for it.  He is a super hard worker and never gave up. Considering this project was in a language we both know relatively little about, I was impressed by Mike's grasp of it as well as his quick ability to learn. I know we both wished we could have polished up our final product more and refactored a bit, but I was very satisifed with our progress. I know this is the end of module 4, but I would gladly work with Mike again!
 
 To Jon Kimble:<br>
-Jon was a great partner for me this module. We worked together on many differnet things, and I was especially happy to have him in my group for the capstone project. It was a challenging project, but Jon is such a hard worker and never got discouraged when we hit obstacles. I really appreciate his positive attitude and level head.  I know Jon will have a super successful career and I look forward to seeing what he does! 
+Jon was a great partner for me this module. We worked together on many differnet things, and I was especially happy to have him in my group for the capstone project. It was a challenging project, but Jon is such a hard worker and never got discouraged when we hit obstacles. I really appreciate his positive attitude and level head.  I know Jon will have a super successful career and I look forward to seeing what he does!
 
 To Ben Pepper:<br>
 Ben was a great partner this module. We have worked together in the past, and I have always appreciated how easygoing he is. Ben is always eager to help and pitch in, which is such a great way to be. I know he felt a little burned out at times this module, but he always stayed committed to our group and project. I think he will be very successful in his career and I wish him all the best!
@@ -262,13 +262,13 @@ Megan, You always produce amazing apps with stunning code. You should always be 
 
 I was happy to be co-lead of the Bezos Posse with Jon Kimble this module. We have both been active members since our first mod, and I think we did a great job leading. We had 2 speakers and co-led 3 spike sessions. The 3 spikes were:
 * An Intro to Bezos
-* Pitching 
+* Pitching
 * User Testing
-I think Bezos always ebbs and flows in popularity, and I think now it a slight downtime in that sense. However, I got an immmense amount of value out of Bezos and leading the posse. I will always look back fondly on my time as a posse lead.
+I think Bezos always ebbs and flows in popularity, and I think now it a slight downtime in that sense. However, I got an immense amount of value out of Bezos and leading the posse. I will always look back fondly on my time as a posse lead.
 
 I also paired 4 times with module 1 students, as seen on this [spreadsheet](https://docs.google.com/spreadsheets/d/1rXraG4hds_hUB2rskdeS2Hy1LS3XumXBlFnQKhP3AGI/edit#gid=0). It was actually a lot of fun to pair with mod 1 and refresh Ruby, and I was impressed with every person with whom I worked.
 
-Additionally, I again took part in all Joan Clarke Society meetings, which I always find great value in. 
+Additionally, I again took part in all Joan Clarke Society meetings, which I always find great value in.
 
 I was also again a pre-work guide, and I love to talk to incoming studnets about things like setting up environments, as it makes me very aware of how far I've come!
 
@@ -278,8 +278,12 @@ I was also again a pre-work guide, and I love to talk to incoming studnets about
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Watch your spelling -- wouldn't look good in a cover letter/resume
+* Blog post is interesting but would benefit from some code snippets/screenshots
+* Group work was strong. Mashup was one of the better secondary projects.
+* Really like the "Playing a Part" -- you were/are a great part of the community
+* Strong portfolio, good work!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
