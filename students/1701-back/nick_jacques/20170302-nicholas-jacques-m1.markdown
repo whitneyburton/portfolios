@@ -28,12 +28,6 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 | Independent Timed Assessment | pass |
 | Diagnostic | pass |
 
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
-
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Flash Cards | HTTP |
@@ -110,17 +104,18 @@ I thought this session was really valiable in preparing us for the rollercoaster
 In this session we learned about the trials and rewards of working to get better at difficult things.  This was pretty strongly tied to our previous gear-up on growth mindset.  My two biggest take-aways from this gear up are that my emotional state can have a huge impact on my ability to learn and grow and that getting better at difficult things requires a certain amount of 'grit'.  If I allow myself to become frustrated or discouraged it can completely shutdown my learning.  I need to be conscious of this and make an effort avoid pushing myself to the point that my emotions negatively affect my ability to learn.  Getting better at difficult things naturally doesn't come easily.  It requires a concerted effort and level of 'grit' to work through adverse situations.  This has proven to be very true so far at Turing School. 
 
 
-#### Session 3
-Stress
+#### Session 3: Managing Stress
+This gear up happened after a really busy weekend in which I didn't do a very good job of preparing myself for the upcoming week.  I definitely felt like I was paying for my lack of preparation.  This gear up helped reinforce that the best way to manage stress is to take a prevantative approach.  If I can set my self up to succees then I will have fewer stressful situations to manage.
 
-#### Session 4
-Shared Values
+#### Session 4: Shares Values
+In this session we reflected on our personal values and the lense that we see the world through.  We also reflected on why we decided to attend Turing school.  I decided to attend Turing school for a few reasons.  I felt really dissatisfied with my previous work environment. In the past I did not work in very progressive fields and didn't feel like it was a good fit for me.  I also wanted to learn skills that would give me the opportunity to have financial security for the rest of my life.  Finally, I wanted to apply myself and challenge myself more than I had in the past.  When reflecting with other students we found that we had a lot of common reasons for attending turing school.
 
-#### Session 5
-Debugging the Gender
+#### Session 5: Debugging the Gender Gap
+In this session we watched the moving "Debugging the Gender Gap" and then spent time reflecting on the Turing School environment comparing that to the environment that is common in the tech industry.  The members or my reflection group all agreed that we had come from much less inclusive environments than Turing School and that Turing School felt like a breath of fresh air.  We also agreed that although the environment at Turing School is really inclusive, that doesn't mean that it is flawless and that we can still work to improve it.
+
 
 ### Community Participation
-(insert description of how you've contributed to the Turing community)
+This is something that I can definitely continue to work on.  I tried to be available to help people whenever I felt like I could.  I decided to volunteer at the next Try Turing event as a way to get more involved with the community.
 
 -------------------------------------------------------------
 
