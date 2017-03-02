@@ -78,10 +78,10 @@ Subjective evaluation will be made on your work/process according to the followi
 The following individual projects were not completed as a group/partnership but rather as an individual effort.
 
 #### Open Source Contributions
-<!-- TODO -->
-*   [Link to PR]()
-* 	[Link to documentation]()
-* 	[Link to bug/issue](https://github.com/NARKOZ/gitlab/issues/244)
+*   [Link to PR](https://github.com/NARKOZ/gitlab/pull/261)
+* 	[Link to documentation](https://github.com/matplotlib/matplotlib/pull/8178)
+* 	[Link to bug](https://github.com/NARKOZ/gitlab/issues/244)
+	* [Refuted](https://github.com/NARKOZ/gitlab/issues/244#issuecomment-283539443)
 *   [Link to blog](http://erinpintozzi.com/2017/03/01/my-first-open-source-pr.html)
 *   [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
