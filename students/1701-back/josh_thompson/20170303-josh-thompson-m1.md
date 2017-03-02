@@ -1,11 +1,11 @@
 
 ## Areas of Emphasis
 
-I enjoyed learning lots in Mod 1. I've got tons more to learn, obviously, the biggest one being better with knowing when and how to make new classes, and move messages between them.
+I enjoyed learning what I did in Module 1. There's much I'd like to improve upon. Foremost, I'd like to be better with knowing when and how to make new classes, and move messages between them.
 
-Single methods are "easy", as is moving data around inside of classes, but I don't yet find it trivially easy to spin up new classes to do things with them, and interacting with them from different classes.
+Single methods are "easy", as is moving data around inside of classes, but I don't yet find it trivially easy to spin up new classes to use their methods to aid other classes, and interacting with them from different classes.
 
-Same with modules and mix-ins. After doing Black Thursday, I feel like I'll know _where I'm going_ better in the future, and everything I've learned in _POODR_ and _Eloquent Ruby_ will be easier to implement next time around.
+Same with modules and mix-ins. After doing Black Thursday, I feel like I'll know _where I'm going_ better in the future, and everything I've learned in _POODR_ and _Eloquent Ruby_ will be easier to use next time around.
 
 ## Self-Assessment Scores
 
@@ -37,7 +37,7 @@ I look forward to the learning to come in the upcoming modules!
 
 |  | Paired Assessment | Timed Exercise | Written Diagnostic |
 | ----- | --- | --- | --- |
-| **Outcome **| PASS | PASS | PASS |
+| **Outcome ** | PASS | PASS | PASS |
 | **Ruby Syntax & API** | 4 | 4 | - |
 | **Completion and Progress** | 3.5 | x | - |
 | **Testing** | 3 | 3 | - |
@@ -74,7 +74,7 @@ HTTP was a frustrating project. I found the resources I needed to build a mental
 
 I can hand-write http requests/responses, and use `curl` and `nc` quite well now. (In conjunction with Postman, etc.)
 
-After writing [this lengthy article](http://backend.turing.io/module1/projects/http_yeah_you_know_me) about the steps I took to try to understand, I found buried in the bottom of the project spec a link to
+After writing [this lengthy article](http://backend.turing.io/module1/projects/http_yeah_you_know_me) about the steps I took to try to understand, I found the following line buried at the [bottom of the project spec](http://backend.turing.io/module1/projects/http_yeah_you_know_me):
 
 > content from previous versions not germane to the assignment above [available here](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me-addendum.markdown).
 
