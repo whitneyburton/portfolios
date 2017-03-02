@@ -10,7 +10,7 @@ Finally, I wanted the capstone to simulate a real job, and I believe it did. I f
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: Pass
+*   **A: End-of-Module Assessment**: 4
 *   **B: Individual Work & Projects**: 3
 *   **C: Group Work & Projects**: 3
 *   **D: Professional Skills**: 3
@@ -170,7 +170,7 @@ Notes:
 
 * ```From Joey:``` Brad, nice work on census. You were super easy to work with and I enjoyed having you on my team. Your workflow is solid and I think your ability to write code is often greater than you give yourself credit for. I don't have anything critical or negative to say this module. Good look on the job hunt. I hope you can buy back your sax one day.
 
-* ```From Ali:``` Brad was a great team member, especially for a four week project. I enjoyed diving into building universal search functionality together and was impressed with your research skills while we were trying to figure out SAML.  Thanks for being a great collaborator with dedication. 
+* ```From Ali:``` Brad was a great team member, especially for a four week project. I enjoyed diving into building universal search functionality together and was impressed with your research skills while we were trying to figure out SAML.  Thanks for being a great collaborator with dedication.
 
 ## D: Professional Skills
 
@@ -228,8 +228,13 @@ I paired with my prework guidee several times. I also paired with Eric on APICur
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Upped your score for assessment to a 4
+* Nice work on OSS. The blog post is really strong.
+* Group projects were overall strong -- would have liked to see a little more from Yearbook
+* Good work on proskills. Let's work more on outreach next week.
+* Like the pairing with M1 and what I assume was front-end M1.
+* Solid portfolio, good job!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
