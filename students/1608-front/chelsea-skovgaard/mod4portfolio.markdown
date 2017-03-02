@@ -121,6 +121,7 @@ depending on our backgrounds.
 #### Automation
 
 * [Gear Up Markdown](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
 This was probably one of my least favorite gear ups. While I think the two films make a
 good point about possible increases of automation, I think it would have been good
 to have another perspective. The discussion was good and focused on thinking about
@@ -138,13 +139,17 @@ about these concepts to be more aware of the topics when we hear about them in n
 From Staci McWilliams, Mod 2 FE:
 Chelsea is always a pleasure to be around. She is knowledgeable, kind, encouraging and positive! My only regret is that I didn't seek her out earlier to pair with. Listening to her talk through a problem was so beneficial for me. I look forward to working with her again as soon as possible!
 
+From Casey Macaulay, Mod 2 BE:
+Christine & Chelsea, thank you so much for your initial ideation on this project, it really spoke to me and I was excited to contribute even if it required me learning skills beyond what we had covered at Turing. Your positivity and faith in Katy, Charlotte and I is what enabled this venture to be a success. I really enjoyed working with you and can't wait to see what you both achieve in your careers as developers. You have both inspired me to view software development as an opportunity to engage in civic activism through coding.
+
 From Matt:
 Working with Chelsea on JetFuel was a really great experience. She was dedicated to the project and understood when I had other obligations related to Demo night. She really took her share of the work and did a great job. The only thing I'd recommend is that she continues to challenge herself as a developer beyond Turing! There's so much more to learn out there and Chelsea is on her way to becoming a great developer who's heart is in the right place - using her skills for good. Keep it up =)
 
 From Nick:
+I was psyched to get the chance to work with Chelsea on the RealTime app. She's super proficient, fun to work with, and gets things done. We worked hard out the gates to attempt to implement a postgres database to complement our web sockets, but ended up pivoting once things began to slow down. She did a great job of being realistic and using her better judgement to keep the project on track. I'd encourage her to keep pushing herself to learn after Turing because I think she's on a really solid trajectory. She's great!
 
 From Christine:
-
+It was so great to work on another project with Chelsea! I really appreciate that this project started before the capstone and it was in response to a true need we saw. We were able to work together and collaborate with others to decide how to handle the different challenges and determine what the MVP should be. Chelsea worked incredibly hard throughout the project, and I especially appreciate her UI/UX skills. In the future, she could work on being more decisive. While it is good to be flexible, we went back and forth a lot at the beginning trying to decide what the project for the capstone should be, what framework we should use, etc. Chelsea is a great developer, and I'm excited to see where she ends up.
 
 ### Giving Feedback
 
