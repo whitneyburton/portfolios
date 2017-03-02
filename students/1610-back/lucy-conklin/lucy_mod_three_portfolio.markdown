@@ -58,15 +58,43 @@ Reflection: This could also be much better. I think we should make an API and th
 
 There are people in space. Right. Now. This space station tracker shows the position of the International Space Station over the earth, and tells the user when they can next view the space station. Then the app can send a text reminder 5 minutes before the space station passes overhead.
 
-(evaluation comments)
+Assessor: Sally
 
-(evaluation scores)
+Notes:
+
+**1. Completion**
+
+* 4: Developer completed all the user stories and requirements set by the client in timely manner.
+
+**2. Organization**
+
+* 3: Developer used a project management tool to keep their project organized.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 3: Project shows adequate testing (90% - 95% coverage).
+
+**2. Code Quality**
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+### Product Experience
+
+**1. User Experience**
+
+* 4: Project exhibits a production-ready and polished UX.
+
+**2. Performance**
+
+* 4: Project pages load on average under 300 milliseconds.
+
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
 
 #### Rales Engine
 
