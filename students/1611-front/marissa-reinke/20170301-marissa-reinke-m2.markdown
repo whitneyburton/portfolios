@@ -312,4 +312,10 @@ This gearup made me happy to be a part of such an inclusive and open community h
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3
+D: Professional Development: 3
+E: Feedback & Community Participation: 3.5
