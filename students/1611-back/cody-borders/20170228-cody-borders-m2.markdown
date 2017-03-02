@@ -1,4 +1,4 @@
-# Andrew Wooten - M2 Portfolio
+# Cody Borders - M2 Portfolio
 
 ## Areas of Emphasis
 
@@ -212,11 +212,11 @@ Feedback to me:
         Reflection on project management strategies you used in your team
         projects; What went well? What didn’t go well?
 
-          I'm a big fan of using Waffle in conjunction with GitHub to create an easy-to-follow workflow. Bike Share was the first time
-          I'd used Waffle and at first I didn't really see the benefit, but after using it in a group setting I think it's awesome. I think kanban board style workflow
-          makes it easier to break a project into smaller pieces and keep everyone on the team abreast of the status of any story at any time. I've also found that consistent
-          use of branches on GitHub is beneficial because again, projects get broken down into smaller pieces and it's easier for other members of the team to see what's being
-          worked on, what's up next, and what's been completed. In both group projects we did our fair share of building multiple pieces of functionality on one branch rather than splitting
+        I'm a big fan of using Waffle in conjunction with GitHub to create an easy-to-follow workflow. Bike Share was the first time
+        I'd used Waffle and at first I didn't really see the benefit, but after using it in a group setting I think it's awesome. I think kanban board style workflow
+        makes it easier to break a project into smaller pieces and keep everyone on the team abreast of the status of any story at any time. I've also found that consistent
+        use of branches on GitHub is beneficial because again, projects get broken down into smaller pieces and it's easier for other members of the team to see what's being
+        worked on, what's up next, and what's been completed. In both group projects we did our fair share of building multiple pieces of functionality on one branch rather than splitting
           them up, but I think that's something we'll improve on with practice. I also liked our attempts at integrating agile practices like daily standups into our workflow. On Bike Share we
           were dilligent about doing a standup every day explaining what we did, what we planned to do the next day, what went right, and what went wrong. Not only was this process cathartic, it
           helped us get in the right frame of mind for the next day because we knew what our goals were and since we stood up and told everyone in the group there was a little more of a feeling of
@@ -257,7 +257,7 @@ Feedback to me:
   For Max:
 
 
-I got a lot of value from working on Bike Share with you, particularly pairing with you and working through those first ActiveRecord queries. I like how you take a methodical approach and try to break things down into smaller pieces, and how you'll take time to yourself to focus deeply when you're trying to grasp a concept. I thought you handled your PostGres issue really well even though it was a multi-hour headache, and that you didn't let it get in the way of getting something accomplished on the project. And you read the docs! During the project I observed that you'd work for extended periods of time on a single problem, which I like to do as well. I think sometimes this can be counterproductive, and that it's a good idea to take a break at least every 90 minutes to let your mind relax for a bit. 
+I got a lot of value from working on Bike Share with you, particularly pairing with you and working through those first ActiveRecord queries. I like how you take a methodical approach and try to break things down into smaller pieces, and how you'll take time to yourself to focus deeply when you're trying to grasp a concept. I thought you handled your PostGres issue really well even though it was a multi-hour headache, and that you didn't let it get in the way of getting something accomplished on the project. And you read the docs! During the project I observed that you'd work for extended periods of time on a single problem, which I like to do as well. I think sometimes this can be counterproductive, and that it's a good idea to take a break at least every 90 minutes to let your mind relax for a bit.
 
 
 
