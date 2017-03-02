@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-They hype concerning the difficulty of Mod 3 had me a bit worried, but I found that what difficulty there was stemmed more from the consistent pace and caliber of the work required and expected than the type or complexity of the work itself. My main focus for this Mod was leanring the ins and outs of API creation and consumption, with almost equal focus on learning OAuth procedures and principles. The idea of being able to consume external APIs was (and continues to be) somewhat thrilling, especially as I continued to delve into more what was actually out there, which, as it turns out, is a LOT. I enjoy variety and choice, so feeling that the world of APIs is now open for my use makes me giddy (well, almost giddy). 
+The hype concerning the difficulty of Mod 3 had me a bit worried, but I found that what difficulty there was stemmed more from the consistent pace and caliber of the work required and expected than the type or complexity of the work itself. My main focus for this Mod was learning the ins and outs of API creation and consumption, with almost equal focus on learning OAuth procedures and principles. The idea of being able to consume external APIs was (and continues to be) somewhat thrilling, especially as I continued to delve into more what was actually out there, which, as it turns out, is a LOT. I enjoy variety and choice, so feeling that the world of APIs is now open for my use makes me giddy (well, almost giddy). 
 
 ## Rubric Scores
 
@@ -52,7 +52,7 @@ They hype concerning the difficulty of Mod 3 had me a bit worried, but I found t
 
 ## B: Individual Work & Projects
 
-We had two opportunities for indidivudal work this Mod: the APICurious project in week 2, and the final project in weeks 5 and 6. Originally, I was extremely excited for the time to do some work alone again, but I found that we still clumped into groups that more or less worked "together" in both cases. For the first project, there were five of us who chose to take on Reddit's Oauth API, and we consistently worked with each other and shared any breakthroughs. For the final project, I voluntarily paired with a Front_ender, which was aimed to allow me some hand's on time with React (this ended up not coming entirely to fruition for a variety of reasons, but c'est la vie). 
+We had two opportunities for individual work this Mod: the APICurious project in week 2, and the final project in weeks 5 and 6. Originally, I was extremely excited for the time to do some work alone again, but I found that we still clumped into groups that more or less worked "together" in both cases. For the first project, there were five of us who chose to take on Reddit's Oauth API, and we consistently worked with each other and shared any breakthroughs. For the final project, I voluntarily paired with a Front_ender, which was aimed to allow me some hand's on time with React (this ended up not coming entirely to fruition for a variety of reasons, but c'est la vie). 
 
 #### APICurious
 
@@ -65,7 +65,7 @@ This project was designed for us to consume an external API's OAuth procedures a
 * [Backend GitHub URL](https://github.com/akintner/free_college_app)
 * [Frontend GitHub URL](https://github.com/noahpeden/free-college-abroad)
 
-For our final project, I worked with Noah Peden on making an app that will display information about countries around the world that offer some kind of undergradaute degree for free (or at least relatively free compared to the costs of such educaiton in the US). This project was inspired by the fact that there are more than a dozen countries around the world that offer free tuition for undergraduate degrees, and a great many classes at these colleges are  taught in English. This site was built in React Redux with a backend set up in Rails 5 and Postgresql. Based on user input, the site grabs university options in a particular country and lists some basic information, along with a link to the university.
+For our final project, I worked with Noah Peden on making an app that will display information about countries around the world that offer some kind of undergraduate degree for free (or at least relatively free compared to the costs of such education in the US). This project was inspired by the fact that there are more than a dozen countries around the world that offer free tuition for undergraduate degrees, and a great many classes at these colleges are  taught in English. This site was built in React Redux with a backend set up in Rails 5 and Postgresql. Based on user input, the site grabs university options in a particular country and lists some basic information, along with a link to the university.
 
 ## C: Group Work & Projects
 
@@ -114,6 +114,7 @@ Amy is also very strong on building documentation. Relying on her academic backg
 * [Original Assignment](http://backend.turing.io/module3/projects/cloney_island#teams)
 
 The goal of this project was to clone a new platform from scratch. Within it, we built a well-documented API to both internally consume data and provide users with a developer option and web-tokens for API access. Our group's platform to clone, Pinterest, was built to handle multiple types of users (guests, registered users with either pinterest credentials or Google Oauth credentials, and admins). The database for our app ended up being quite complex, as all of the items - pins, boards, likes, comments - were interrelated and tied to a user's credentials, thus the database ended up being a platform for us to explore polymorphic associations. Additionally, the visual layout of Pinterest provided us with an opportunity to delve deep into styling, masonry, and image hosting. 
+
 #### Technical Evaluation
 **Client Expectations**
 
@@ -148,7 +149,7 @@ The goal of this project was to clone a new platform from scratch. Within it, we
 
 ## D: Professional Skills
 
-This mod's professional development focus was on the job hunt, including research and interview strategies. All of our profesisonal dvelopment material was sent in a private repo to Meg Stewart for evaultation. 
+This mod's professional development focus was on the job hunt, including research and interview strategies. All of our professional development material was sent in a private repo to Meg Stewart for evaluation. 
 
 ### Gear Up
 #### Tragedy of the Commons
@@ -162,13 +163,13 @@ PotP speaks to the power of group norms: a seemingly innocuous attitude, wanting
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-This is a serious topic, and I'm super glad we covered it. It's not something that I've actually spent a tremendous amount of time thinking about, though the discussion we had in class certainly piqued my interest. In general, I'm of the mind that increased automation is not the best choice because it will certainly - and has already - take away jobs, and the jobs it will take away first are the ones that presenlty belong to the lower-income classes around the world, and they're the most likely to suffer the most and NOT be able to quickly rebound if those jobs disappear. Our group immediately jumped into discussion of Universal Basic Income as a bandaid, and we had some robust arguments about the issue, including: where will the money come from? how will it motivate people? what will it motivate people to do? who server to benefit the most from it and why? And I'm going to save more of this discusion for the next bit because we jumped straight into the heart of the matter in the next gear up. 
+This is a serious topic, and I'm super glad we covered it. It's not something that I've actually spent a tremendous amount of time thinking about, though the discussion we had in class certainly piqued my interest. In general, I'm of the mind that increased automation is not the best choice because it will certainly - and has already - take away jobs, and the jobs it will take away first are the ones that presently belong to the lower-income classes around the world, and they're the most likely to suffer the most and NOT be able to quickly rebound if those jobs disappear. Our group immediately jumped into discussion of Universal Basic Income as a bandaid, and we had some robust arguments about the issue, including: where will the money come from? how will it motivate people? what will it motivate people to do? who server to benefit the most from it and why? And I'm going to save more of this discussion for the next bit because we jumped straight into the heart of the matter in the next gear up.
 
 #### Universal Basic Income
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
-ALRIGHT, UBI. Socialism. Star Trek, here we come. 
+ALRIGHT, UBI. Socialism. Star Trek, here we come. So a significant part of my doctoral dissertation was about the impacts and trends in utopian (and dystopian) fiction in the 20th century and beyond, and rest assured that the issue of money is a big - perhaps an overwhelmingly important - issue for almost every major literary work in the genre. Without going too deep into that rabbit hole, I think that something akin to Universal Basic Income would alleviate some problems worldwide, though I do think it would eventually cause other problems to arise. Income disparity, while it might get a bit better, would not disappear (and will not disappear until money is entirely abolished). More immediately, however, is my concern about the fact that UBI, coupled with the lack of jobs that increasing automation will create, might leave a large and vulnerable part of the world population without much to do. Some might argue that those people could choose to better themselves with learning trades, crafts, etc in their newfound free time, but I think it's naive to assume that that would universally be the case; in reality, I think a lot of people would be left unfulfilled and without anything obvious to work towards. That, in turn, could breed resentment, discontent, and perhaps eventually new forms of class warfare, which isn't a nice note on which to end my portfolio...suffice to say that the issue of UBI is just as complex as the issue of increasing automation. I do hope that tech leaders around the world begin to give proper attention to both issues and consider the ideas and opinions of a variety of sources, including and perhaps especially those outside their own legions who continue to barrel forward, convinced they're working on saving the world. 
 
 ## E: Feedback and Community Participation
 
@@ -191,11 +192,13 @@ Laszlo: It was a pleasure to finally get to work with Laszlo on an official proj
 
 ### Being a Community Member
 
-(feedback to me)
+From Molly: In working on our Cloney Island project, Amy proved to be the perfect partner for hacking through difficult issues. We spent many hours together working on setting up the Google authorization and authentication system for our site, which could have been a very frustrating process were it not for Amy’s levelheadedness, flexibility, and persistence. She also continued to be the point person for our Google Oauth issues as they continued to pop-up, and she totally impressed me with her endurance attacking the issues day after day. Finally, I very much appreciated Amy’s humor and ability to compel us towards some much needed breaks and fun after we had all been deep in the weeds for too long. She was a key contributor in making Girl Group awesome, and I’m so happy that I was able to share the experience with her and all the others in our group.
 
 ### Playing a Part
 
 My living situation this Mod allowed me a bit more time to stay after school hours were over, and I circulated around and helped a number of lower mod folks with little parts of their projects. I was also a pre-turing guide for an incoming student again, which is fun; I got to help out with some array questions and chat about Turing life in general. Otherwise, I did a lot of dish loading and unloading, and I am THAT person who grabs bottles or cans out of the trash and recycles them. Don't tell anyone my secret. 
+<br>
+I wrote Annie a "Bill Shakespeare Hates Email" sonnet for her final project, which was a fun opportunity to use some of the skills I left behind when I came to Turing and was also a wonderful distraction.
 
 ------------------
 
