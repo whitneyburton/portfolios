@@ -88,7 +88,7 @@ Below is the list of my solo projects that I have been working on during this mo
 *   [GitHub URL](https://github.com/JustynaField/number-guesser)
 *   [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-In this project I got to build my very first javascript functionaly. It was challenging but extremely rewarding in the end.
+In this project I got to build my very first javascript functionality. It was challenging but extremely rewarding in the end.
 
 
 ####Evaluator: Bree
