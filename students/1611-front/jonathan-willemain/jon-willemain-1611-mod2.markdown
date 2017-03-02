@@ -14,7 +14,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
   The reason I am giving myself a 2 is because I feel pretty comfortable with my tools, but I feel like I did not convey that. Projects go really well, but something about the pressure of a final assessment gets to me. I need to work on my confidence.
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: X
+* **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
 -----------------------
