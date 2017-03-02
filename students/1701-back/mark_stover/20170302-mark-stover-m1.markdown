@@ -37,9 +37,9 @@ During Module 1, I had the expectations of learning the fundamental building blo
 | **Fundamental Ruby & Style** | 4 | 3 | 3 |
 | **Loop or Recursion** | n/a | 3 | n/a |
 
-#### Notes
+#### Assessor Comments
 
-*   HTTP Notes:
+*   HTTP:
     * Game does not work
     * Completes up to Iteration 3
     * Some long methods, that do a bit too much
@@ -60,15 +60,15 @@ During Module 1, I had the expectations of learning the fundamental building blo
 | **Enumerables & Collections** | n/a | 4 |
 
 
-#### Notes
+#### Assessor Comments
 
-*   Night-Writer Instructor Notes:
+*   Night-Writer:
     * 11 tests total all passing
     * Got through all iterations
     * talked about encapsulating runners in a class
     * talked about a dictionary class as well to hold constants
 
-*   Black-Thursday Instructor Notes: 
+*   Black-Thursday: 
     * Testing solid; continue to seek ways to isolate testing to smallest scopes possible,
     * Rock-solid enumerable
     * Consider Sanitizer module or something else to help with standardizing data
