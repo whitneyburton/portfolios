@@ -10,7 +10,7 @@ I focused on trying to start good developer habits, getting a foundational under
 | --- | ----- | --- |
 | A | **End-of-Module Assessment** | 2 |
 | B | **Individual Projects** | 1 |
-| C | **Group Projects** | 3|
+| C | **Group Projects** | 2|
 | D | **Professional Development** | 2 |
 | E | **Community** | 3 |
 
