@@ -74,18 +74,23 @@ Instructor/developers will select one feature in the project to review for this 
 
 ## Jet-Fuel
 
-####Spec Adherance
+#### Spec Adherance
+
 50 points
 Succeeded in implementing the evaluation criteria, though some of the more granular user stories were missing. (i.e. being able to sort in an ascending and descending order)
 
-####User Interface
+#### User Interface
+
 7 points
+
 Seems to have run out of time for styling. One particularly weird thing I noticed is when you enter a new folder, the font size of the folder names changes from large to small. The smaller font makes it difficult to differentiate grouping and heirarchy.
 Difficult to tell where you've added a new link, as you're only displaying the shortened hash rather than the original URL entered and the full shortened URL.
 I would expect to be able to 'toggle' the sorting buttons for an ascending and descending list, but it appears both buttons are only a one-time deal.
 
-####Data Persistance with SQL Database
+#### Data Persistance with SQL Database
+
 20 points
+
 The server-side logic looks very nicely organized; I like the strategy of breaking out the database queries into a different file, but perhaps 'helperfriends' isn't the best name for this file. Additionally, I think it would be best to leave the actual response-specific code in the server logic. It mentally makes more sense to see that 'when I do a get request for folders, this is what I'm sending back'. That also eliminates the need to pass around that response object to make it available in your helpers file. Something along these lines:
 app.get('/urls/:id', (request, response) => {
   const { id } = request.params;
@@ -98,11 +103,11 @@ app.get('/urls/:id', (request, response) => {
     });
 });
 
-####Testing
+#### Testing
 0 points
 Though a test file is present with the appropriate vendor imports, there are no tests.
 
-####JavaScript Style
+#### JavaScript Style
 15 points - There is definitely room for improvement with refactoring duplicitous code, but it is clear there is a demonstrated understanding of how to work with the given technologies in an appropriate manner.
 
 Sweet dynamic sorting code
@@ -177,19 +182,19 @@ No PRs!
 
 ##Gear Up
 
-###Tragedy of the Commons
+### Tragedy of the Commons
 
 Great gear up. Obviously small choices matter. It's how we empower people and lead that makes communities different. Being dictatorial and threatening people with unilateral decrees that make them feel powerless is not the way to instill change.
 
-###Automation
+### Automation
 
 Automation. I love it. I think it's humankinds biggest hurdle. I'm excited to see what happens and how the world accomodates for this shift. On to the next topic of UBI.
 
-###UBI
+### UBI
 
 I'm interested in hearing other alternatives. I think people need to work to feel successful. I'm not sure UBI offers that if it's just an empty paycheck.
 
-##Professional Development
+## Professional Development
 
 I did everything I was supposed to do for ProfDev. I think cold outreach is beneficial. Lia is amazingly helpful!! I haven't talked much with Meg, but when I have, she's great too. They're both encouraging, helpful, resourceful and wicked smart. Anyone without these skills should not be teaching ProfDev.
 
@@ -200,6 +205,13 @@ UX/UI Project - partner Andrew Crist - Working with Andrew on the UX/UI project 
 ## Final Review
 
 ### Notes
- 
+
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
+
+Promoted
