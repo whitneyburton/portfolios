@@ -203,5 +203,8 @@ Charlotte Moore:
    ** (From: Chelsea and Christine) **
    
    Casey, Katy, and Charlotte- Our backend team! We’ve been so impressed with your willingness and enthusiasm to jump into the One Nation Many Voices project. You each provided valuable perspectives to the planning phase, and the API you created was really helpful in building out the MVP. We know you are going to be successful developers with your work ethic and problem solving abilities, and we hope you’ll continue working on this project!
-  
+   
+#### Contributions to the Community
+
+This mod I was able to contribute to the turing commuinty at large by paring with mod 1 students and engaging in a project outside of the curriculum. Pairing with mod 1 students was really fun, and helped me engage more with people outside my cohort. I worked really hard to lead students that I was pairing with to the answer as opposed to solving problems for them. This helped me with my own communication skills, and hopefully helped them through the problems they were struggling with. Working on ONMV with Chelsea and Christine was also really fun and informative. I have hope that the app we built together will help more than just the people in the Turing community, but also people who want resorces for civic engagement. 
 
