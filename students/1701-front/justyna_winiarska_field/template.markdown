@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My goal was to set solid foundations in css, html and javascript, that I could build on going forward. I also wanted to go through the first module and see how I deal with fast-paced working environment and if an intensive program like Turing works well for me. Being exposed to the coding community was an important part. All of that gave me confirmation that I want to keep studing and complete this program as a Front-End Developer.
+My goal for this module was to set solid foundations in css, html and javascript, that I could build on going forward. I also wanted to go through the first module and see how I deal with fast-paced working environment and if an intensive program like Turing works well for me. Being exposed to the coding community was an important part. All of that gave me confirmation that I want to keep studing and complete this program as a Front-End Developer.
 
 ## Rubric Scores - self evaluation
 
