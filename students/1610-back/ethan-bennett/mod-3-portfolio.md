@@ -174,6 +174,8 @@ Coming prepared with his own suggestion, yet Ethan is always open to listen to o
 
 From Jason: I had the pleasure of working with Ethan on Rales Engine. This was the first time I got to work with Ethan and I was quite impressed with his work ethic. We stayed in Constant Communication throughout this project which was great given how much there was to do and how little of time there was to do it. Constructive Feedback: The only thing I would say (and this is for both of us) we needed to have a little more attention to detail (we had a testing issue due to setting up SimpleCov incorrectly so our testing numbers were drastically skewed).
 
+From David: Ethan, box-drop was a hard project for all parties involved.  Thanks for sticking it out!  I really appreciated your positive way of looking at things, at times I can be pretty negative and your willingness to chug along (especially on that last night) inspired me.  One of your skills that I appreciate the most is you ability to offer insightful views into situations and paint them in a realistic light that forces me to think (this really came out during our google hangouts).  I think one of the most important things that you (and I)  gained out of this project was an appreciation for projects managers.  In terms of constructive feedback, I can’t think of anything in particular that you could do better but I definitely think that we could’ve done a better job  as a team realizing (in our case a lack of leadership) a problem and confronting it head on sooner.
+
 ### Playing a Part
 
 I led the Armstrong posse with Nick, and I think it was definitely a success. Our last Spike, on blockchains, was probably the best-attended Armstrong spike yet in my time at Turing.
