@@ -323,6 +323,13 @@ I have no doubt that you will kick on from here and hit everything in front of y
 Keep up the hard work that you're putting in!
 
 
+##### To Graham Nessler
+
+I paired with Graham almost every morning during IronFE. Throughout the daily pairings I found out very quickly that Graham was an extremely intelligent person.
+I found myself in a fortunate position where I could learn from Graham and his approach to solving the problems we faced. This has helped me a lot and altered the way that I would approach problems.  
+I found Graham to be very collaborative, easy to work with and a genuinely nice person.
+I have no doubt that Graham has a bright future ahead of him in Software Development.
+
 ### Being a Community Member
 
 #### From Leta Keane:
@@ -340,6 +347,12 @@ The one piece of constructive feedback I would give to Fenwick is to GO TO SLEEP
 #### From John Binning
 
 Pairing with Mike was great.  He has been very invested in helping me reach and understand solutions to problems I was having.  Mike didn’t just give me answers, he made me think about what I was trying to do.  He has also been supportive of my growth mindset.  When I was feeling down, he related back to his mod1 experiences and encouraged me to keep pressing on and not worry.  I look forward to paring/working with Mike again in the future.
+
+
+#### From Graham Nessler
+
+I got to know Michael this module chiefly through ironFE. He proved himself to be very dedicated, attending every day or almost every day. I got to work with him in whiteboarding during many ironFE sessions, and while he struggled at times like the rest of us, he had an unwavering determination to put his best foot forward in solving the problems--particularly impressive given how early it was. I hope that Michael takes on one or more leadership positions during the remainder of his time at Turing, because others would really benefit from learning from him. He's also a really nice guy to boot.
+
 
 ### Playing a Part
 
