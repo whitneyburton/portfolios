@@ -146,6 +146,21 @@ Census is an identity provider for Turing School. It provides authentication for
 Positive: You're laid back and easy to work with, yet you get things done.
 Constructive: Work to verbalize your thought process. Don't take anything for granted when working with other juniors who may not be up to speed. - Brad
 
+#### Yearbook
+
+ Yearbook is a game that randomly picks a student's picture and then asks the user to match it to a name.
+
+##### Notes
+* Pulls information from Census
+* Start Game -> Select a Cohort -> Guessing
+* Scoped out the robots / people without
+* Tracker: good
+* Census: added a few routes before starting Yearbook
+* "Discovered" that really only one person can play the game at a time
+* Lots of extra controllers
+* Conclusion: start from scratch
+* Proud: "I added some tests"
+
 ## D: Professional Skills
 
 ### Gear Up
