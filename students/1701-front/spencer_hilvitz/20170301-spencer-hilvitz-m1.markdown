@@ -16,7 +16,13 @@
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Pentathalon:
+
+1. Code Challenge #1: Passing
+2. Code Challenge #2: Passing
+3. Quizlette: Passing
+4. Static Comp Challenge: Passing
+5. Portfolio
 
 
 ## B: Individual Work & Projects
@@ -87,7 +93,6 @@ The color scheme was not good as there was not enough contrast between the grid 
 
 ### Projects
 
-(Intro)
 
 #### (Linked List)
 
@@ -123,9 +128,24 @@ Soft three
 
 The IdeaBox project required us to create a box on the page that would hold different idea titles and idea bodies. It was also required that we use local storage to make the information that we were storing on the page available even on a page reload. We needed to be able to pull things from local storage, make edits and change qualities, and then re-enter that information into storage.
 
-(evaluation comments)
+Specification Adherence
 
-(evaluation scores)
+3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+HTML Style
+
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+CSS Style
+
+3.5: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+JavaScript Style
+
+3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+Workflow
+
+3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+Collaboration
+
+3.5 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
 Leta Keane: "I really enjoyed working with you, both on IdeaBox and on our sprites spike! I appreciated that you were proactive with communication. Struggling with the jQuery felt bearable because we were both open about how tough it was, and I think we came up with good solutions together.  Putting together a very last minute spike also felt like a breeze, because you are so calm and collected :slightly_smiling_face: It was easy in both the project and the spike to divvy up tasks, because I knew you'd be vocal about any issues or reservations you had.
 
@@ -137,15 +157,35 @@ Thanks for a great paired project experience!"
 *   [GitHub URL](https://github.com/hilvitzs/2DoBox)
 *   [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+This project asked us to take our IdeaBox project and change the functionality to do a To Do Box. This required us to change some of the functionality including the up and down votes in importance and also to add some search options to the screen as well. This involved hiding and showing different pieces on the page depending on which buttons were clicked.
 
-(evaluation comments)
+Specification Adherence
 
-(evaluation scores)
+3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from phases 1 through 4 that make the application feel incomplete or hard to use.
+
+User Interface
+
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+HTML Style
+
+3.5 - Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+JavaScript Style
+
+3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Testing
+
+3.5 - Project has a running test suite but fails to cover some features. The application makes some use of feature testing.
+
+Workflow
+
+3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
 
 ## D: Professional Skills
-(Intro)
+
 
 ### Gear Up
 #### (Personal Stories and Connection)
