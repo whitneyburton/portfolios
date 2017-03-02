@@ -7,7 +7,7 @@ My areas of emphasis included those deemed necessary by Turing in order to be co
 ## Self-Assessment Scores
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | --- | --- |
 | A | **End-of-Module Assessment** | 3 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
