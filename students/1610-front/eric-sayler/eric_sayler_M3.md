@@ -186,29 +186,36 @@ it's certainly possible that AI could result in the return of centrally-managed 
 - Startups
 - Internet/Web Services/Mobile
 - Machine Learning/AI
+
 ##### Petal 2: Favorite Kinds of People (to Work With)
 - highly-motivated/skilled colleagues that I can learn from
 - good mentor who a passionate about their work responsibilities/job
 - Those who are investigative (curious), artistic, creative, but realistic
 - more hands-off management style, those who allow for creative freedom
+
 ##### Petal 3: Most Valued Transferable Skills
 - motivated, coordinated problem solving skills
 - communicates well in writing
 - intuition
 - critical thinking
+
 ##### Petal 4: Favorite Working Conditions
 - organized/quiet environments
 - less open office spaces
+
 ##### Petal 5: Preferred Salary & Level of Responsibility
 - salary at or above 75,000
 - challenging/Intellectual work environment with respectful peers
 - more personal responsibility/creativity, less just following directions
 - ability to pursue own interests in order to build overall skills
 - able to leverage my expertise for the benefit of others
+
 ##### Petal 6: Preferred Place(s) to Live
 - prefer metro areas such as Denver, New York, etc.
 - sense of community
+
 ##### Petal 7: Goal/Purpose/Mission in Life (Values and Goals)
+
 - keep learning new valuable skills/knowledge through work and continuing education
 - stay fit/healthy
 - do good, increase compassion/empathy in others
