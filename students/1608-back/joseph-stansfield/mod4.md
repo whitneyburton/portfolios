@@ -55,7 +55,7 @@ Pass
 *   [Bug Report](https://github.com/laserlemon/figaro/issues/259)
 *   [Pull Request](https://github.com/laserlemon/figaro/pull/262)
 *   [Documentation PR](https://github.com/laserlemon/figaro/pull/263)
-*   [Blog Post](https://gist.github.com/JStans12/17a81b821326b6a783724aa6aa8102aa)
+*   [Blog Post](https://medium.com/@jstans12/being-a-part-of-it-9441a5711cdc#.3a3zt324g)
 
 I worked on the Figaro gem to fix a reported bug. Previously, when users ran `bundle exec figaro install` if they were already ignoring application.yml in .gitignore, the ignore line would be appended again. Now, if it is already ignored, nothing will happen in .gitignore.
 
