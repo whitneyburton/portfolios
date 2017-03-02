@@ -210,8 +210,9 @@ I was Co-Lead of the Turing Lab. I ran a basic Arduino spike on my own, and help
 
 ### Notes
 
-( Leave blanks for reviewers )
+It looks like you've met all of your goals. You've definitely shown that you can work in a new and unfamiliar codebase, as well as levelled up your JavaScript. You've overall had a great attitude and have always been willing to tear into the task ahead of you. You've delivered great work throughout this entire module.
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+RECOMMENDED FOR GRADUATION
