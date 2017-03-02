@@ -239,6 +239,8 @@ Feedback from me to Nicholas Martinez: "Nick and I have had an ongoing political
 
 Feedback from me to Sam Johnson: "We kind of ambushed Sam with the offer to co-lead Pahlka Posse at the end of last mod, and he has taken on the position with skill and enthusiasm. His work in trying to obtain more resources for Pahlka as well as building our engagement with mods 1 + 2 has been and continues to be incredibly valuable in terms of Pahlka's continued existence. Thanks so much for your willingness to take the helm of the good ship Pahlka Posse, and #pahlkaforever!"
 
+Feedback from me to Nick Chambers: "Nick has always been one of the most stalwart members of Pahlka Posse -- whether that's arranging and then leading a remote interview in a matter of days or bringing mad front end skills to our various projects or any number of other things. He was also willing to help me troubleshoot a persistent React problem on our capstone project (that I had caused because of... reasons) during a week when we were all feeling the time crunch. I look forward to seeing the wild and extremely good things he makes as his career no-doubt takes off!"
+
 ### Being a Community Member
 
 Feedback to me from Ali Schlereth: "Noah has done a great job leading Pahlka for a second inning. I really appreciated his perserverance in making sure we had solid Spike content/plans and rallying the troops each week when so many of us didn't have the energy. Thank you for your enthusiasm and dedication. Pahlka for life! (Also, yay Pahlka twitter account!)"
@@ -254,6 +256,8 @@ A couple of times we didn’t really do anything.  I still enjoyed getting to kn
 Feedback to me from Sam Johnson: "Noah, thank you very much for giving me the opportunity to get more involved with Pahlka this mod.  You did a LOT of the heavy lifting - especially with the Spikes you led - and I appreciated that. Im going to do my best to carry on the tradition!
 
 One piece of small constructive feedback that I would give you is that I do think there were times this mod where there was some room to involve me a bit more as a co-lead.  For instance, I offered to help/brainstorm/etc on the first spike around Civic Tech but didn’t hear anything - to be honest, it was a bit awkward to then find out that you and Ali had partnered and were presenting. I suspect this is mostly the result of time constraints/etc with your Mod4 work, but thought I’d mention it as something to consider/reflect on in the future."
+
+Feedback to me from Nick Chambers: "Noah has been a kickass leader in the Pahlka posse and a good dude to get to know. I've always enjoyed listening to him speak publicly, and I'm not sure if he knows this or not, but he's quite good at it. He put together an awesome session on building Twitter bots this module that I know quite a few people enjoyed. He's a wonderful dude and I hope he sticks around Denver after the dust settles."
 
 ### Playing a Part
 
