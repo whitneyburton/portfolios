@@ -145,7 +145,7 @@ Fundamental JavaScript
 *   [GitHub URL](https://github.com/JustynaField/linked-list)
 *   [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-Good, extensive pracitce of jQuery. 
+Good, extensive practice of jQuery. 
 
 
 ####Evaluator: Louisa
