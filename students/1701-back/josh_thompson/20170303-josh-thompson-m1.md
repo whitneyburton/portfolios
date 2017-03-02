@@ -104,7 +104,11 @@ I intentionally avoided just copying and pasting code from other students that w
 
 #### Black Thursday project notes
 
-Black Thursday was a blast - Brett and I learned a ton, from git workflow stuff (127 commits between us, plus some more that didn't get into merged branches)
+Black Thursday was a blast - Brett and I learned a ton, from git workflow stuff (127 commits between us, and something like 25 branches.) to pry goodies (`ls -m`, `ls -i`, `show-method load_data`, etc.) to terminal stuff, like running tests with the `time` program, to see how long they take to run, to using a test-helper file and test-setup mixin modules.
+
+The hardest point was keeping the DAL straight in our heads. We eventually worked everything out, but next time, I plan on keeping copious notes of object relationships and what methods do as we build them.
+
+I learned a lot about test setup, and got some help from Jason with some modules related to testing. I learned a lot in that, too. :)
 
 
 ## D: Professional Development
