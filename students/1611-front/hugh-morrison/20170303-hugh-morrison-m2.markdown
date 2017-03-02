@@ -115,7 +115,7 @@ We built some pretty cool applications this mod, and in this section, I will sho
 ### 2Do-Box-Pivot
 
 2Do-Box-Pivot is an evolved linked list. We added several features to our mod-1 linked lists,
-and we refactored using es6, we tested heavilyusing selenium webdriver, and we made sure it was accessible to all.
+and we refactored using es6, we tested heavil yusing selenium webdriver, and we made sure it was accessible to all.
 
 * [GitHub URL](https://github.com/hmorri32/2-do-box)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot)
@@ -238,7 +238,7 @@ Marissa and Franklin both gave me tremendously valuable feedback. I heard from F
 
 #### Plan to Reach Out to Mentor
 
-I know some great developers at several companies in Miami, Denver, Boulder, and San Francisco. I plan to reach out to them, one by one, in order to pick their brains. I can only imagine the wealth of information they all have. I've built several relationships with developers in the Denver area. I've done this by attending meetups at galvanize and at wework and being generally outgoing while at bars. I've met fabulous people that work at Stack Overflow and heaps of other cool companies while out enjoying a frosty beer. 
+I know some great developers at several companies in Miami, Denver, Boulder, and San Francisco. I plan to reach out to them, one by one, in order to pick their brains. I can only imagine the wealth of information they all have. I've built several relationships with developers in the Denver area. I've done this by attending meetups at galvanize and at wework and by being generally outgoing while at bars. I've met fabulous people that work at Stack Overflow and heaps of other cool companies while out enjoying a frosty beer.
 
 ## E: Feedback and Community Participation
 
