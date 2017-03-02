@@ -2,15 +2,16 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I was a little intimidated by Mod 3 so I came in with the goal that I would keep up with the class and try to get the best grades that I could. I think that I achieved this goal, although this was certainly the most difficulty I've had a Turing yet.
+I'm proud of the group work that I did this Mod, though I wish that my solo work had been better. I also set the goal that I would make time to really start my job search during this mod. I am happy with the leads that I've drummed up so far and I think that the work I have done will make searching during the next mod easier.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -49,13 +50,7 @@ This is a summation of my individual projects for Module 3
 * [Production Site](http://rehearsaltracker.herokuapp.com/)
 * [Original Assignment](http://backend.turing.io/module3/projects/self_directed_project)
 
-(description)
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
 
 ## C: Group Work & Projects
 
@@ -172,15 +167,22 @@ In thinking about this in the context of the automation talk, I think that UIB i
 
 ### Giving Feedback
 
-(feedback from me)
+To Amy Kintner: "Amy is a trooper. I worked with her on our Cloney Island project and she had the unenviable task of making GoogleOAuth work for our extremely convoluted login path. Even though it seemed to break every day, she always took the time to fix it and learn something new in the process. She's also a true pleasure to work with and be around. She wrote me the most amazing sonnet about email for my Shakespeare branded project management tool that I proudly display on the home page of my app."
+
+To Molly Brown: "Molly might just have the honor of being my favorite person at Turing. Besides being a dedicated worker who will tackle projects singlehandedly and deliver amazing work, she's also very supportive and fun to be around. I truly appreciated her work on our Cloney Island project and I really respect her evenhanded approach to discussions and group work."
 
 ### Being a Community Member
 
-(feedback to me)
+"Thank you for taking on the thankless task of product owner. Your user stories were clear, you posted them efficiently, and you were flexible in their interpretation. I think you really hit the right balance of controlling the execution of the user stories, while also keeping us from getting too bogged down in the non-essential details. Rolling them out in batches may have made the process even more focused. I also continue to appreciate and depend on the positive atmosphere you create in the classroom. You are a leader and a supporter, you are doing a great job on SAB, and you are actively setting the foundation for some really exciting opportunities" --Lucy Conklin
+
+"I had the pleasure of working with Annie on our Cloney Island project, during which we – the ladies – cloned Pinterest. Annie was our Project Owner, a role we came up with after much discussion about the complexity of the project and its scope. In this role, Annie was our direct contact with the “client,” thus did all of the communicating with Casey. In keeping true to this role, Annie guided us through the process of GitHub rebasing, branch-naming, and acted as the primary organizer of our Git activity.  She also took on the setup of “Likes,” the polymorphic part of our database setup, and presided over the daunting task that came with setting up the proper associations and targets in the models, views, and controllers.
+That said, Annie was also a delight to work with because she never took any of the work or any of our roles too seriously. We laughed a lot, and we got a lot done. It was by far the most fun I’ve yet had at Turing and was an experience I expect to go unmatched in my time yet to come." --Amy Kintner
+
+"I'm really glad I got paired with you a project this hard!" --Dan Rodriguez
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+This was my first module as an SAB representative. I'm really happy that I was nominated, because it has been a really rewarding experience. I also served as a prework guide and got to meet my guidee for the first time during week six! It was great to talk to her in person. I think that she will succeed in Mod1.
 
 ------------------
 
