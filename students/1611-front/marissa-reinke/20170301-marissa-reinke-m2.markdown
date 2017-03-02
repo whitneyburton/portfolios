@@ -20,7 +20,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Passed
 
 
 ## B: Individual Work & Projects
