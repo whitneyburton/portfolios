@@ -13,6 +13,31 @@
 * D: Professional Skills: X
 * E: Feedback & Community Participation: X
 
+###End of Module Assessment 
+
+Assessed By: Andrew Carmer
+
+#### Evaluation Scores
+Conceptual Understanding - 3
+  * Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning.
+
+Analytic/Algorithmic Thinking - 3
+  * Developer breaks complex problems into small, digestible steps and executes them with little assistance.
+
+Feature Completeness - 3
+  * Developer is able to implement all functionality and all tests pass.
+
+ActiveRecord Syntax and Style - 3
+  * Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database.
+
+Rails Style - 3
+  * Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack.
+
+Testing  - 3
+  * Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps.
+
+Collaboration -4 
+  * Developer actively seeks collaboration both before implementing, while in motion, and when stuck.
 
 ###Evaluation Notes
 MidMod Assessment
@@ -70,23 +95,36 @@ I worked on the following group projects:
 * Some broken pages. Updates, trip index, new station
 
 #### Evaluation Scores
-* Functional Expectations - 2
-  * Application has some small mising base functionality
+Functional Expectations - 2
+* Application has some small mising base functionality
 
-* ActiveRecord - 3
-  * ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. 
+ActiveRecord - 3
+* ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. 
 
-* User Experience and Conventions - 3
-  * Project still uses appropriate routes and HTTP verbs. User experiance is pleasant, but may need additional improvement before truly being ready to be be deployed.
+User Experience and Conventions - 3
+* Project still uses appropriate routes and HTTP verbs. User experiance is pleasant, but may need additional improvement before truly being ready to be be deployed.
 
-* Code Organizationn/Quality - 3
-  * Some logic not realated specifically to HTTP request/responses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns.
+Code Organizationn/Quality - 3
+* Some logic not realated specifically to HTTP request/responses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns.
 
-* Testing - 3
-  * Application is well tested but does not balance isolation and integratin/features tests.
+Testing - 3
+* Application is well tested but does not balance isolation and integratin/features tests.
 
-* Woork Collaboratively - 3
-  * Good use of branches, pull requests, and a project-management tool.
+Woork Collaboratively - 3
+* Good use of branches, pull requests, and a project-management tool.
+
+#### Project Pair Feedback
+
+Andrew Wooten 
+* Jonathan, I had a great time working with you on Bikeshare.  It was a great experience.  I was delighted to get to know you more.  I really respect your ability to draw lines as far as your work time goes.  It seems like you have a pretty great handle on taking care of work/self-care balance.  I also appreciate your drive to learn new things and get experience in areas/problems you haven’t gotten to work with.  You’re, additionally, excellent to pair with.  You communicate questions clearly and bring up great points for conversation/thinking around the problem at hand.  As far as actionable change, it was difficult at times to know what your needs were in the group: problems you wanted to work on, help you needed, overall how you were doing.  I think it would be beneficial for you to maintain  a more direct line of open dialogue with your teammates so that your needs are met and no lingering questioning of that remains.  I look forward to working with you again.
+<br>
+
+James Anderson
+* Your testing proficiency is second to none. Between writing scores of tests and fixing dozens more that were failing, I think you have a firm grasp on that. You also managed to squeeze in front ending which made our app pretty slick. In the future I think it would be beneficial for you to practice more pair programming as it seems you are more comfortable working alone. Aside from that, you also did a great job of keeping momentum up. While the rest of us would get stuck on granular tasks, you would show up the next day with a whole slew of new improvements. I think we all meshed really well and I'm very proud of the headway the four of us made in skill level and the work we produced. Looking forward to the next time we get paired together.
+<br>
+
+Spencer Carter
+* It was an absolute pleasure working with you on Bikeshare! Your knowledge, plus your communication while pairing made for the easiest, most efficient "driver/navigator" experience yet. I also commend you on the effort you made on testing! Although you were awesome in parings, I think you could still grow just a bit more in communicating with the group. Not knowing if you were struggling with an issue or just crushing tests (t'was the latter) had us overlap work once. You were the silent assassin, and I was envious of your knowledge on every aspect of the project, you could CRUD, test, html, and brainstorm with the best of them! Keep up the hard work because it is clearly paying off!
 
 #### Little Shop (Abandoned Camel Coffee Mercantile)
 * [Github URL](https://github.com/codyborders/abandoned_camel_coffee_mercantile)
@@ -96,45 +134,6 @@ I worked on the following group projects:
 #### Evaluation Comments
 
 #### Evaluation Scores
-
-
-###End of Module Assessment 
-
-Assessed By: Andrew Carmer
-
-#### Evaluation Scores
-* Conceptual Understanding - (Pending)
-
-* Analytic/Algorithmic Thinking - 3
-  * Developer breaks complex problems into small, digestible steps and executes them with little assistance.
-
-* Feature Completeness - 3
-  * Developer is able to implement all functionality and all tests pass.
-
-* ActiveRecord Syntax and Style - 3
-  * Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database.
-
-* Rails Style - 3
-  * Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack.
-
-* Testing  - 3
-  * Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps.
-
-* Collaboration -4 
-  * Developer actively seeks collaboration both before implementing, while in motion, and when stuck.
-
-#### Project Pair Feedback
-
-* Andrew Wooten 
-* Jonathan, I had a great time working with you on Bikeshare.  It was a great experience.  I was delighted to get to know you more.  I really respect your ability to draw lines as far as your work time goes.  It seems like you have a pretty great handle on taking care of work/self-care balance.  I also appreciate your drive to learn new things and get experience in areas/problems you haven’t gotten to work with.  You’re, additionally, excellent to pair with.  You communicate questions clearly and bring up great points for conversation/thinking around the problem at hand.  As far as actionable change, it was difficult at times to know what your needs were in the group: problems you wanted to work on, help you needed, overall how you were doing.  I think it would be beneficial for you to maintain  a more direct line of open dialogue with your teammates so that your needs are met and no lingering questioning of that remains.  I look forward to working with you again.
-<br>
-
-* James Anderson
-* Your testing proficiency is second to none. Between writing scores of tests and fixing dozens more that were failing, I think you have a firm grasp on that. You also managed to squeeze in front ending which made our app pretty slick. In the future I think it would be beneficial for you to practice more pair programming as it seems you are more comfortable working alone. Aside from that, you also did a great job of keeping momentum up. While the rest of us would get stuck on granular tasks, you would show up the next day with a whole slew of new improvements. I think we all meshed really well and I'm very proud of the headway the four of us made in skill level and the work we produced. Looking forward to the next time we get paired together.
-<br>
-
-* Spencer Carter
-* It was an absolute pleasure working with you on Bikeshare! Your knowledge, plus your communication while pairing made for the easiest, most efficient "driver/navigator" experience yet. I also commend you on the effort you made on testing! Although you were awesome in parings, I think you could still grow just a bit more in communicating with the group. Not knowing if you were struggling with an issue or just crushing tests (t'was the latter) had us overlap work once. You were the silent assassin, and I was envious of your knowledge on every aspect of the project, you could CRUD, test, html, and brainstorm with the best of them! Keep up the hard work because it is clearly paying off!
 
 ##Professional Development
 Professional Development:
