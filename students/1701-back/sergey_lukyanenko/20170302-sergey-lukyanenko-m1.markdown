@@ -72,8 +72,8 @@ new field of information.
 
 ### Define-the-Relationship (DTR)
 
-[Link](https://docs.google.com/document/d/1KZSdD9zyfFi4__Mpg37MeTlPqx5h4tDprAdSD5ydiT4/edit) to DTR Memo from 1st paired project.
-[Link](https://docs.google.com/document/d/1DARmVuvxv84OAdBlUPlYX59SKiyM8YY00-wuoZnXhJU/edit?ts=58ac8d2e#heading=h.l3ct5pv2ggfg) to DTR Memo from 2nd paired project.
+* [Link](https://docs.google.com/document/d/1KZSdD9zyfFi4__Mpg37MeTlPqx5h4tDprAdSD5ydiT4/edit) to DTR Memo from 1st paired project.
+* [Link](https://docs.google.com/document/d/1DARmVuvxv84OAdBlUPlYX59SKiyM8YY00-wuoZnXhJU/edit?ts=58ac8d2e#heading=h.l3ct5pv2ggfg) to DTR Memo from 2nd paired project.
 ### Pair Feedback
 
 Feedback from partner projects.
@@ -97,7 +97,7 @@ I look forward to working with Nick on future projects and wish him success in p
 
 #### Session 1
 1. How do you think past experiences or experiences this week that have encouraged growth or fixed mindsets?
- * Enviroment at Turing creates a passion for learning and so cretes growth mindset.
+  * Enviroment at Turing creates a passion for learning and so cretes growth mindset.
 2. What are your triggers, what's likely to move you to fixed mindset?
  * Inability to handle stress can lead to fix mind.
 3. What can you peers do to support you staying in the growth mindset?
@@ -157,6 +157,7 @@ With his knowledge and experience in programming he patiently and with courage h
 process more productive. As a mentor he supported me emotionally and taught me many coding technics. 
 It's been a pleasure  to work with Alisher. I wish him success in his professional career and continue 
 sharing knowledge and experience with Turing family."
+
 -------------------------------------------------------------
 
 ## Final Review
