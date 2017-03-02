@@ -208,8 +208,10 @@ Mike Z, what a champ. stays up late and wakes up early, always troubleshooting b
 ### Being a Community Member
 
 #### Noah P
+This is the second project that I worked with Dan on, he's able to play in a team very well and is fine doing the tasks handed out to him by the team, but he could use work on styling.
 
 #### Elijah W
+Dan was a great person to work with on Remember.  He was confident in his abilities and had no problem figuring out solutions when coding issues would arise.  He was efficient but maintained a high attention to detail.  One area I would challenge him in is to make sure he’s keeping an even pace throughout the project  All in, he was a solid partner and a great developer.
 
 #### Mike Z
 Working with dan on the weather forecast project was great. He made the sadness of learning Redux more fun by implementing a secret code into the app. Dan was always ready to work on the next parts of functionality, and was always ready to help when Noah or I was having any problems with our assigned parts. One important thing I learned from Dan was to "NEVER FORK THE REPO" just clone it down and make a separate repo so making PRs isn't as awful.
