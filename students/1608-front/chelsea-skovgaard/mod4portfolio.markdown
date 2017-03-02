@@ -175,4 +175,8 @@ Our backend team! We’ve been so impressed with your willingness and enthusiasm
 
 ### Outcome
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: 3.5
+B: Individual Projects: 3.5
+C: Group Work: 4
+C: Professional Development: 3
+D: Community: 4
