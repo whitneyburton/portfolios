@@ -180,6 +180,8 @@ During my portfolio review at the end of module 1, some feedback I received from
 
 #### Mentor Interactions
 
+My mentor interactions this module were very beneficial to my professional development and for exploring side projects. I developed a relationship with two mentors, Trey Tomlinson and Micah Adams. Trey is a Turing graduate and has been really helpful for debugging Postgres and deployment problems. Micah has a traditional CS background and has helped me identify some side projects to explore. 
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
