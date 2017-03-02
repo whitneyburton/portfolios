@@ -51,7 +51,7 @@ During Module 1, I had the expectations of learning the fundamental building blo
 | CATEGORY | PROJECT 1 | PROJECT 2 |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/night_writer.markdown) | [link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/black_thursday.markdown) |
-| **Github** | [link](https://github.com/Cdale3/Night-Writer) | [link](https://github.com/stovermc/black_thursday) |
+| **Github** | [link](https://github.com/stovermc/Night-Writer) | [link](https://github.com/stovermc/black_thursday) |
 | **Functional Expectations** | 3 | 3 |
 | **Test-Driven Development** | 3 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 |
