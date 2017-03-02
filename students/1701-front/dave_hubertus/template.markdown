@@ -32,7 +32,7 @@ Comprehensive Quizlette:
 
 Front End Module One Projects are designed to improve our skills and increase our exposure to multiple facets of programming. Each project builds upon the last and increases in complexity. Projects have exposed us to HTML, CSS, Javascript, jQuery, JSON and Local Storage.
 
-#### Number Guesser
+### Number Guesser
 
 *   [GitHub URL](https://github.com/dhubertus/number-guesser)
 *   [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -52,7 +52,7 @@ Build a game where the user guesses a number between 1 and 100.
 #### Fundamental JavaScript
 3: Application shows strong effort towards organization, content, and proper syntax
 
-#### Static Comp 3
+### Static Comp 3
 
 *   [GitHub URL](https://github.com/dhubertus/dh-comp-challenge-3)
 *   [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
@@ -69,7 +69,7 @@ The static comp challenge is a series of three challenges to keep you working th
 
 Front End Module One Projects are designed to improve our skills and increase our exposure to multiple facets of programming. Each project builds upon the last and increases in complexity. Projects have exposed us to HTML, CSS, Javascript, jQuery, JSON and Local Storage.
 
-#### Linked List
+### Linked List
 
 *   [GitHub URL](https://github.com/Adamj1232/LinkedList)
 *   [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
@@ -94,7 +94,7 @@ Application is expertly organized and logically structured with with a clear, th
 
 (feedback to me)
 
-#### Idea Box
+### Idea Box
 
 *   [GitHub URL](https://github.com/jennPeavler/idea-box)
 *   [Original Assignment](https://github.com/dhubertus/portfolios/edit/master/students/1701-front/dave_hubertus/template.markdown)
@@ -121,7 +121,7 @@ Build an application that can save a URL and title into two inputs and on click 
 
 (feedback to me)
 
-#### 2DoBox - Pivot
+### 2DoBox - Pivot
 
 *   [GitHub URL](https://github.com/dhubertus/2DoBox-Pivot)
 *   [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
