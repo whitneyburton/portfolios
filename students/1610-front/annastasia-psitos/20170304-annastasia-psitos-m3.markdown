@@ -158,6 +158,14 @@ I worked on the redux weather app with Anna. Anna was a very hard worker and is 
 
 Anna was an amazing support to me in Mod-1 and continues to be throughout the program. She goes out of her way to be available to me when I need help. She has also been my ear and emotional support to help me through Turing. I don't think I could make it this far without her! She is always encouraging, honest, knowledgeable and kind. - Staci McWilliams
 
+'My feedback is primarily focused on constructive feedback from the redux project we worked on together with Bekah.
+
+I think the main tension/frustration I felt - especially early on in the project - was what I perceived to be a lack of commitment to contributing to the codebase we were building. I know you had commitments that kept you from pairing with Bekah and I during the first few afternoon/nights of the project but my expectation was that you’d be making up for it by contributing to the codebase at other times. This was a project that had specific goals around git workflow and divide and conquer and I didn’t get the impression that you were interested in working on the project unless it was paired - something that wasn’t possible for the first few days because of your schedule. As a result, I thought the workload/contributions from the group were pretty unbalanced - especially early on - and I think it created tension.
+
+I think my main piece of feedback, based on the above, is that I think your locus of control can sometimes be a little too externally oriented. At times, I felt like your assumption was that we all needed to pair to get anything done and that, if we weren’t together, you weren’t going to contribute. From the perspective of a team member, this was frustrating to feel like I was put in a position where I had to spend more of my time picking up the slack. For example, I did the majority of the CSS - after Bekah did the initial setup/styling. I felt like that was a place where you could have done some more of the work when you were having trouble with other parts of the code.
+
+I am happy to discuss any of this with you if you’d like and I am sorry for not sharing it earlier.' - Sam Johnson
+
 ### Playing a Part
 
 (ways you supported the larger Turing community)
