@@ -100,25 +100,25 @@ Feedback from partner projects.
 Specifically, you were patient with me when it came to GitHub. I totally messed up my branches, and you didn’t get upset or frustrated. You just sat down and helped sort things out.  You were also really good about making sure you understood what was confusing you about the project. For example, with the File IO stuff, right away you said “I want to make sure I really understand this, because it tripped me up in the last project.”  Also, when we came back with different pieces of the project working, you were intent on making sure you understood the pieces I brought back. I also think your willingness to persevere and tackle difficult problems (both together and independently) allowed us to make progress each day.
 What could be better? I think we both let ourselves “give in” a little bit a the end of the last night. We may have leaned on Jasmin too heavily the last night, and we could have been more motivating for each other to clean things up (refactor longer methods, get capitals working) at the end.
 
-*   Black Thursday (Josh Thompson): It was a pleasure working with you on this project, Brett. I really enjoyed the process of learning the basics about items and their associated repositories, and then linking and populating objects with data from the CSVs.
+*   Black Thursday (Josh Thompson): It was a pleasure working with you on this project,   Brett. I really enjoyed the process of learning the basics about items and their associated repositories, and then linking and populating objects with data from the CSVs.
 
-I feel like we both had a good pace throughout the project. We didn't rush, and made sure we had understanding the whole time, but still made good speed.
+    I feel like we both had a good pace throughout the project. We didn't rush, and made sure we had understanding the whole time, but still made good speed.
 
-I love how we tested everything, both from a TDD perspective, and from a "throw a pry in there and see what happens."
+    I love how we tested everything, both from a TDD perspective, and from a "throw a pry in there and see what happens."
 
-You made huge contributions to the project by being able to link our objects and traverse between them in ways that I was completely unable to see. It seems like for every single iteration, when we got held up by difficult-to-finish methods, I would have nothing, and you'd pull great ideas out and we'd implement 'em.
+    You made huge contributions to the project by being able to link our objects and traverse between them in ways that I was completely unable to see. It seems like for every single iteration, when we got held up by difficult-to-finish methods, I would have nothing, and you'd pull great ideas out and we'd implement 'em.
 
-I enjoyed how quick you are to just stick it out and do work, like the last night of the project, and two days before that. We just... banged out a lot of not-bad code, and you did it with a completely content attitude.
+    I enjoyed how quick you are to just stick it out and do work, like the last night of the project, and two days before that. We just... banged out a lot of not-bad code, and you did it with a completely content attitude.
 
-I know now project evaluation is completely useful without ways to improve, but it's hard to find any useful recommendations on things to do. So, I'm really scraping the bottom of the bucket trying to find something to recommend, but I was able to think of two things:
+    I know now project evaluation is completely useful without ways to improve, but it's hard to find any useful recommendations on things to do. So, I'm really scraping the bottom of the bucket trying to find something to recommend, but I was able to think of two things:
 
-First, you might want to look up and add tab autocomplete for your git commands. That way, when typing something like git push origin iteration_four_cleanup_branch you can type git push or[tab] ite[tab], and it'll auto complete the rest of those words.
+    First, you might want to look up and add tab autocomplete for your git commands. That way, when typing something like git push origin iteration_four_cleanup_branch you can type git push or[tab] ite[tab], and it'll auto complete the rest of those words.
 
-There's a few other cool git aliases you can add that reduce the typing burden, like gs for git status, or gb for git branch, etc.
+    There's a few other cool git aliases you can add that reduce the typing burden, like gs for git status, or gb for git branch, etc.
 
-Second, maybe run through some Typing.io ruby exercises. I've spent a ton of time on there, and it's helped be able to more quickly type as I think, without having to think about the typing. The time difference isn't much. I mean, we could re-type the last week of work in just an hour or two, but it makes a difference in how you think as you type. I mention this mostly because I'm in the same boat, and still don't do well with some of the odd characters.
+    Second, maybe run through some Typing.io ruby exercises. I've spent a ton of time on there, and it's helped be able to more quickly type as I think, without having to think about the typing. The time difference isn't much. I mean, we could re-type the last week of work in just an hour or two, but it makes a difference in how you think as you type. I mention this mostly because I'm in the same boat, and still don't do well with some of the odd characters.
 
-Thanks Brett! I had a blast, and would do another project with you, gladly, in a heartbeat. Maybe we'll have a chance to do more.
+    Thanks Brett! I had a blast, and would do another project with you, gladly, in a heartbeat. Maybe we'll have a chance to do more.
 
 ### Job Prep
 
