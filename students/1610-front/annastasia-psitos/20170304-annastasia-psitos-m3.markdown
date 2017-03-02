@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to be more confident with my coding. Even though I spent most of the module thinking I was behind and didn't know what I was doing, the evals and tests I did at the beginning of this week made me feel a lot more confident in my ability.
 
 ## Rubric Scores
 
@@ -17,21 +17,21 @@
 ## A: End of Module Assessment
 
 UX/UI
-	- Replace find restaurant btuton with result - and  'regenerate' type of thing 
+	- Replace find restaurant btuton with result - and  'regenerate' type of thing
 	- Pick a font style consistancy
-	- Divs and relative position will make the font not opaque 
+	- Divs and relative position will make the font not opaque
 	- Button CSS
-	- Spinner/Waiting 
+	- Spinner/Waiting
 
 CODE
-	- If 20 bars - save that number, slice it out, keep regenerating from local array until 20 bars are done, THEN fire off new api call. 
-	
+	- If 20 bars - save that number, slice it out, keep regenerating from local array until 20 bars are done, THEN fire off new api call.
+
 TESTING
 	- check out boilerplate lesson and mod 2 testing hard stuff lesson
-	
+
 README
 	- Update readme to indicate that the project is in progress (to justify skipped tests and comments)
-	
+
 	### Feature Delivery
 
 **1. Completion**
@@ -87,7 +87,7 @@ Deliverables:
 This was a solo project to use React and API calls. I definitely struggled more than I feel I should have at this point, but I also did not ask for help as soon as I should have to help me progress.
 
 Student: Annastasia Psitos
-Notes: A bit light on the feature implementation as we ran into some bugs that prevented all the functionality from falling into place.  Good work trying to test the features and components that were in place, and solid effort on design though not 100% polished. 
+Notes: A bit light on the feature implementation as we ran into some bugs that prevented all the functionality from falling into place.  Good work trying to test the features and components that were in place, and solid effort on design though not 100% polished.
 
 #### Specification Adherence
 
@@ -237,7 +237,7 @@ Anna was an amazing support to me in Mod-1 and continues to be throughout the pr
 
 ### Notes
 
-- Recognizing black holes and working to avoid them/reflect on if it's worth your time. 
+- Recognizing black holes and working to avoid them/reflect on if it's worth your time.
 - DTR
 - Thinking about job scenario during coding - if you were in a job environment when would you cut bait and work on a different feature or bit off a smaller chunk?
 
