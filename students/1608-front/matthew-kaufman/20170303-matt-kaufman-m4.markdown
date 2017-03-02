@@ -11,42 +11,14 @@ This module I set out to #1 have a job before I graduated, and #2 contribute to 
 * **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 3.5
-* **D: Professional Skills**: 4
+* **D: Professional Skills**: 3.5
 * **E: Feedback & Community Participation**: 4
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
-
-### Specification Adherence
-
-* 4: The application consists of one page with all of the major functionality being provided. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use. Application is in production and at least one extension is completed.
-
-
-### Javascript Syntax & Style
-
-* 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
-
-### Testing
-
-* 3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests and a few unit tests where appropriate.
-
-### CSS Style
-
-*CSS is graded on quality, not quantity. You don't need a lot of CSS to have a pleasant interface*
-
-* 4: Application has exceptionally well-factored CSS with little or no duplication and all styles separated out into logical stylesheets. There are zero instances where an instructor would recommend taking a different approach.
-
-
-### User Interface
-
-* 4: The application is pleasant, logical, and easy to use. The interface is aesthetically pleasing to the evaluator. There is good use color and whitespace. There is no point where the instructor cannot figure out how to use the application without guidance from the developer.
-
-### Workflow
-
-* 4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+PASS 😎
 
 ## B: Individual Work & Projects
 
@@ -72,9 +44,9 @@ In this project, we’re going to exploring client-side security and build a rea
 
 (description)
 
-(evaluation comments)
+IronFest is a code editing interface complete with a chai assertion library editor =)
 
-(evaluation scores)
+I passed!
 
 ## C: Group Work & Projects
 
@@ -184,7 +156,7 @@ What does it look like to be a responsible citizen in the face of such a large, 
 
 #### Cold Outreach
 
-I did it
+I did it, and sent all the requirements to Meg.
 
 ## E: Feedback and Community Participation
 
@@ -192,9 +164,21 @@ I did it
 
 (feedback from me)
 
+Graham - Graham showed up to IronFE almost every single day this mod, and was an awesome partner to help me lead the sessions. He was super supportive of the younger mod students and participated in every single problem I presented. Graham is a naturally kind spirit and an extremely humble, brilliant human. Having him around is always a joy, and I'll miss seeing him every day dearly. I would encourage him to continue doing what he does to throw himself outside of his comfort zone, because I've noticed how much better he's gotten at speaking to the class throughout the module. Graham rules.
+
+Ryan - Ryan stepped up to lead an IronFE lesson this mod and did an awesome job. He lead the session with an interesting problem regarding stock prices and how to find the greatest return on investment. He did a great job helping others with the problem and I think it was a great exercise for him to become even more confident in his skills. I think he should continue working to improve his mentoring skills by throwing himself into similar situations in the future.
+
 ### Being a Community Member
 
-(feedback to me)
+Chelsea - It was great working with Matt on the JetFuel pair project. During pair programming, he listens, explains, and collaborates with ease. We could go over concepts and come to an understanding quickly, which was important when learning so many new concepts and implementing them over the course of a week. I was impressed that even with the stress Matt had from prepping for Demo Night Finals during our project week how calm and focused he was when working on the project.
+
+Devin - You're a great leader and collaborator. The only feedback I would have is that your brain works so fast that sometimes I can kind of tell you get annoyed that people don't pick up as fast as you.
+
+Mike Fenwick - From an IronFE point of view I feel your collaboration has been really good. You have provided us with problems, gave us pointers when needed and if we weren't sure of something, you would look it up for us.Thank you for your time and effort over the last 6 weeks with organizing Iron FE. On top of completing mod 4 you still found the time to get into school early every morning and provide problems for us to solve on the white board. I believe we've all benefitted from these sessions and have become better at not only problem solving but also white boarding.
+
+Ryan - Matt took on the responsibility of IronFe with incredible zeal and dedication. He deserves a lot of credit for sacrificing early mornings to help others practice white boarding and thinking about code. His has a great teaching ability and am excited to see how it serves him in the future. Kudos to him!
+
+Graham - Matt led ironFE this mod, and I wanted to write this note to convey my thanks to him for taking this on. Matt served a big leadership role in our cohort and at Turing this mod, and his presence made a huge positive difference in what was often a tough mod. I'll miss him a great deal when he leaves, but wish him the best in his new job and beyond. Thanks for everything, Matt!  
 
 ### Playing a Part
 
