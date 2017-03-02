@@ -3,9 +3,9 @@
 
 ## Areas of Emphasis
 
-Coming into this module I wanted to work on my self-productivity skills.  In Module 4 there was a ton of work we had to keep track of.  Staying organized was a priority and falling behind was not an option.  I worked hard to use time wisely and not leave any time to waste.  I stayed after school many late nights to work on my projects and used any free time I had to work on professional development skills.  The module was a lot of work, but the extra time spent on task paid off. 
+Coming into this module, I wanted to work on my personal productivity skills.  In Module 4 there was a ton of work we had to keep track of.  Staying organized was a priority and falling behind was not an option.  I worked hard to use time wisely, not leaving any time to waste.  I stayed after school many late nights to work on my projects and used any free time I had to work on professional development skills.  The module was a lot of work, but the extra time spent on task paid off. 
 
-In the previous module I had to work hard to review my process and make sure I was accomplishing tasks at the speed of a junior developer.  I feel that my attention to process helped me in this module.  I feel that I have become better at managing my time and accomplishing tasks and work on time. 
+In the previous module, I had to work hard to review my process and make sure I was accomplishing tasks at the speed of a junior developer.  I feel that my attention to process helped me in this module.  I have become better at managing my time in order to learn more material and work more productively. 
 
 ## Rubric Scores 
 
@@ -63,19 +63,19 @@ activities and does at least one or two above and beyond suports of the communit
 
 ## B: Individual Work & Projects
 
-There was not an individual project in module 4, but producing for the team as an individual was needed throughout.  Due to the complexity and scope of the projects in module 4, there was many nights spent working alone on a tasks that would contribute to the group project.  Team members counted on each other to complete their share of the work throughout the mod.  
+There was not an individual project in module 4, but producing for the team as an individual was needed throughout.  Due to the complexity and scope of the projects in module 4, there were many nights spent working alone on tasks that would contribute to the group project.  Team members counted on each other to complete their share of the work throughout the mod.  
 
 
 ## C: Group Work & Projects
 
-The bulk of this module involved working in a group to complete projects.  Although the individual contribution to the group work was important, managing your time with group members and working in a team was essential to passing module 4.  Our first project was a two week pair project called quantified self and the second and third projects where three person projects.  The last two projects were related and we worked in the same three person groups for both.
+The bulk of this module involved working in a group to complete projects.  Although the individual contribution to the group work was important, managing your time with group members and working in a team was essential to passing module 4.  Our first project was a two-week pair project called quantified self and the second and third projects where three-person projects.  The last two projects were related and we worked in the same three-person groups for both.
 
 ### Quantified Self
 
 *   [GitHub URL](https://github.com/MDes41/quantified-self)
 *   [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
 
-Quantified Self is a project built in JavaScript and html only hosted on GitHub pages. The time scope of the project was two weeks worked on in a group of two while balancing other responsibilities.  We built an application to record calories for each day’s foods and exercises.  Each day has a goal to hit and each day can be recorded separately.  The project tested our strength of JavaScript, jQuery, and local browser storage to sort different foods, filter different foods, and update foods and calories without updating the DOM.  I enjoyed working on this project and thought it was a great introduction to testing our abilities to write JavaScript.  
+Quantified Self is a project built in JavaScript and html only hosted on GitHub pages. The time scope of the project was worked on in a group of two while balancing other responsibilities.  We built an application to record calories for each day’s food and exercises.  Each day has a goal to hit and each day can be recorded separately.  The project tested our strength of JavaScript, jQuery, and local browser storage to sort different foods, filter different foods, and update foods and calories without updating the DOM.  I enjoyed working on this project and thought it was a great introduction to testing our abilities to write JavaScript.  
 
 Assessed By: Jeff
 
@@ -86,10 +86,6 @@ Notes:
 * Functionality appears to work well
 * Tests look well structured with some opportunities to isolate repeated functionality / "magic data"
 * JavaScript implementation is pretty clean and easy to read/understand
-
-#### Rubric
-
-You will be subjectively graded by an instructor on the following criteria:
 
 #### Functional Expectations
 
@@ -120,7 +116,7 @@ You will be subjectively graded by an instructor on the following criteria:
 *   [GitHub URL](https://github.com/turingschool-projects/briefcase/)
 *   [Production URL](https://turing-briefcase-production.herokuapp.com)
 
-Briefcase was a project where we brought the development of the Turing alumni page in-house.  Although the site works functionally there were many areas that were improved.  Bringing the project in-house helped to streamline solving many of the functionality problems.  The main focus for revamping the website was to make it easy for the user to upload a profile.  We added whatever we could get from another app, called Census, to help with the process.  
+Briefcase was a project where we brought the development of the Turing alumni page in-house.  Although the site works functionally, there were many areas that were improved.  Bringing the project in-house helped to streamline solving many of the functionality problems.  The main focus for revamping the website was to make it easy for the user to upload a profile.  We added whatever we could get from another app, called Census, to help with the process.  Briefcase was one of my favorite projects at Turing.  It really broght together everything we have learned since module one.  We built a Rails backend with a React front end built on top.  We used many JavaScript techneques and CSS designs for the front end as well as state management, AWS, and Postgresql database management on the backend.  It was great to build something from the ground up with all the knowledge from the course.  It was also great to have some design ideas being in the backend program for what where were supposed to deliver on the front end.  The group was a great group to work with and I enjoyed putting in extra time to build a great product I am proud of. 
 
 Reviewer: Nate
 
@@ -154,7 +150,7 @@ Notes:
 *   [GitHub URL]()
 *   [Original Assignment]()
 
-Gadget was a small week long project where we made an application used by faculty to monitor what students are up to date with all their requirements.  You can login to the app and click which cohorts and criteria you would like to query and click analyze.  The application then either makes API calls to GitHub or scrapes LinkedIn to compare the data in the Census application.  A list of student names and whether they are compliant is then generated.  This project showed was a great automation project could do to help staff with a task that would take a app seconds to complete.  
+Gadget was a small week long project where we made an application used by faculty to monitor what students are up to date with all their requirements.  You can login to the app and click which cohorts and criteria you would like to query and click analyze.  The application then either makes API calls to GitHub or scrapes LinkedIn to compare the data in the Census application.  A list of student names and whether they are compliant is then generated.  This project showed what a great automation project could do to help staff with a task that would take an app seconds to complete.  
 
 Notes from Jeff
 
@@ -184,13 +180,13 @@ Being the last module of the program, the professional skills deliverables were 
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-We are confronted daily by social challenges that seem bigger than we are. It's often difficult for us to see the connection between small choices we make and these issues, but they are often connected. When we can make the connection, it's not always obvious how we can best have an impact. This gear up we learned how the choice of being like you neighbor on a grand scale has drastic impact on the societies diversity impact.  I thought the gear up was very valuable to bring insight to how we approach diversity.  It was easy to see how just a couple people keeping diversity in mind can play a huge role in the dynamics of diversity.  It was also clear to see the impact on society if everyone wanted a percentage of people like them around always.  It opened me up to the role I could play in making society a more diverse place.  
+It's often difficult for us to see the connection between small choices we make and these issues, but they are often connected. This gear up we learned how the choice of being like your neighbor on a grand scale has drastic impact on the society's diversity impact.  I thought the gear up was very valuable to bring insight on how we approach diversity.  It was easy to see how just a couple people keeping diversity in mind can play a huge role in the dynamics of diversity.  It was also clear to see the impact on society if everyone wanted a percentage of similar people always around them.  It helped me see the role I could play in making society a more diverse place.  
 
 #### Automation
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
-This gear up really opened my eyes to automation.  I always thought that automation was far away, but after this gear up, I realize automation is in the forefront of everyones reality.  If we don't act now to realize that automation is going to impact all of us in some way then we are in for a rude awakening.  In my mind, there is action for a huge paradigm shift in the way we work and make money.  I feel lucky to be in the technology industry, but know that automation will affect us as well.  As our technical careers progress, most of the work we will do is to automate processes that have been done manually.  Since we are the ones partaking in the automation process, we must take the ideology and consequences seriously and help to find a tradeoff.  
+This gear up really opened my eyes to automation.  I always thought that automation was far away, but after this gear up, I realize automation is in the forefront of everyone's reality.  If we don't act now to realize that automation is going to impact all of us in some way then we are in for a rude awakening.  In my mind, there is action for a huge paradigm shift in the way we work and make money.  I feel lucky to be in the technology industry, but know that automation will affect us as well.  As our technical careers progress, most of the work we will do is to automate processes that have been done manually.  Since we are the ones partaking in the automation process, we must take the ideology and consequences seriously and help to find a tradeoff.  
 
 #### Universal Basic Income
 
@@ -216,23 +212,23 @@ I worked with Lee on our first project in quantified self.  He was a great perso
 ### Being a Community Member
 
 **Feedback from Anthony Ciccone**
-This was my first time being in a group with Matt. He was awesome to pair with and I loved having him in my group. Matt build out our whole alumni page and did an awesome job (CSS Master). I was really impressed how Matt often took on some of the more difficult parts of our Briefcase project.  My only constructive feedback would be for Matt to portray more confidence because his technical skills are way better then he gives himself credit for. 
+This was my first time being in a group with Matt. He was awesome to pair with and I loved having him in my group. Matt built out our whole alumni page and did an awesome job (CSS Master). I was really impressed how Matt often took on some of the more difficult parts of our Briefcase project.  My only constructive feedback would be for Matt to portray more confidence because his technical skills are way better then he gives himself credit for. 
 
 **Feedback from Daniel Shin**
 Matt was a huge help in modeling the server side architecture and refactoring the client-side components. There was a time where the project seemed a little lost, and he helped clean up some muddy design decisions that was bogging down the whole project. I thought the project began picking up momentum from there. I was pleasantly surprised at how solid Matt is at designing a website. He even fixed our navbar during our eval! I think his logical thinking and attention to design will make him a valuable team member on any team, whether it's front-end or backend.
 
 **Feedback from Lee Saville**
-Really appreciated your hard work on Quantified self where we got thrown in the deep end of the javascript pool! You were great to pair with and our hard work paid off! One suggestion for you might be to work on communication so that you’re able express yourself really clearly when talking about the code you’re working on. Thanks for all that work!
+Really appreciated your hard work on Quantified self where we got thrown in the deep end of the javascript pool! You were great to pair with and our hard work paid off! One suggestion for you might be to work on communication so that you’re able to express yourself really clearly when talking about the code you’re working on. Thanks for all that work!
 
 ### Playing a Part
 
-* I switch cohorts in module 3 to be a part of a new cohort and felt that being a part of the community is essential to building great teams.  I made sure to be a part of the 1608 community by getting to know every member of the class and acting to be a part of all the community events that went on during the module.  One day was fun when a group of us got together on the Monday we had off and played basketball.
+* I switched cohorts in module 3 to be a part of a new cohort and felt that being a part of the community is essential to building great teams.  I made sure to be a part of the 1608 community by getting to know every member of the class and acting to be a part of all the community events that went on during the module.  One day was fun when a group of us got together on the Monday we had off and played basketball.
 
-* I helped with the pre-work of two individuals during the break of module 3 and during module 4.  Being further alone in the program it gets harder and harder to meet the kids that are just coming in and I really enjoyed the comradery helping the incoming students brings.  I also partake in all the lunch roulettes when the groups come together.
+* I helped with the pre-work of two individuals during the break before and during module 4.  Being further alone in the program it gets harder to meet the kids that are just coming in and I really enjoyed the camaraderie helping the incoming students.  I welcome helping the new students and enjoy being invloved.  I was working during the Try Turing events over the weekend and during a break popped in to introduce myself to a few people.  It was great to give them some insight as to how great the program is and how much I have learned. 
 
-* I made sure to pair with module 1 students when they would ask for pairing in the pair channel.  I really enjoyed helping with the tough project HTTP You Know Me.  It was great to work with the incoming students and share what I have learned.
+* I made sure to pair with module 1 students during module 4 as well.  I really enjoy helping others expecially when I helped with the tough project HTTP You Know Me.  It was great to work with incoming students and share what I have learned.
 
-* I also co-lead a spike which was great for getting my face out there.  After leading the spike, I could meet students and help with projects after getting to know them through the spike session.  
+* I also co-led a spike which was great for getting my face out there.  After leading the spike, I meet students and helped with projects after getting to know them through the spike session.  
 
 ------------------
 
