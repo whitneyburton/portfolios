@@ -278,5 +278,10 @@ This mod, with the help of the Lab posse leaders, I ran a Friday spike on curcui
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
 
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 4
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Feedback & Community Participation: 3
