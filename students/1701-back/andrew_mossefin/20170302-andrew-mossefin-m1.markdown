@@ -8,11 +8,13 @@ This module I wanted to get comfortable with the general concepts of code struct
 
 | Section | Category | Score |
 | --- | ----- | --- |
+
 | A | **End-of-Module Assessment** | 4 |
 | B | **Individual Projects** | 2.5 |
 | C | **Group Projects** | 3 |
 | D | **Professional Development** | 3 |
 | E | **Community** | 3 |
+
 
 #### Notes
 
