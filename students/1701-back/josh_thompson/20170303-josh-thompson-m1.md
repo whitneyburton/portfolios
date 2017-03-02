@@ -131,7 +131,20 @@ Feedback from partner projects.
 > [additional notes here](https://gist.github.com/josh-works/689944269533ba6f8a547df6d90dc897)
 
 #### Project 2: Black Thursday (Brett Schwartz)
-> lorem ipsum
+> It was an absolute pleasure working with you on this project for the past two weeks.
+
+> I feel like I gained more knowledge during this project than any other project this module. Your knowledge in GitHub gave us a huge security blanket during the course of the project. Keeping our master branch clean and working on our branches for new features really helped us maintain a clean and consistent workflow.
+
+> I also thought your knowledge in pry helped us tremendously throughout the project and I definitely learned a lot of helpful tactics that  I will continue to use moving forward.
+
+> I thought our communication and effort were consistent throughout the two weeks even though we had our other final assessments to also prepare for. We did a good job of putting in an extra hour at night or the weekend to refactor some of our stuff, add another class or refine our testing techniques.
+
+> I thought the way we teamed up for iterations at the beginning of the project and split up responsibilities towards the end really benefited us. We both had a solid understanding of the DAL and were able to complete later iterations on our own to save us valuable time.
+
+> One of our shortcomings was probably grasping the web of relationships throughout the project. This slowed downed our production when we got to iteration 4. Overall, I learned a lot by working with you and look forward to the opportunity of pairing together again in the future.
+
+
+> [saved notes here](https://gist.github.com/josh-works/67fd6b1725e7e3ccde0459615b6f70ff)
 
 ### Job Prep
 
