@@ -11,7 +11,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 4
 * **E: Feedback & Community Participation**: 3.5
 
@@ -260,8 +260,6 @@ My role in supporting Turing bleeds into everything I do.  I eat, sleep, and bre
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS!
