@@ -20,19 +20,19 @@ My goal was to set solid foundation in css, html and javascript.
 
 #### Pentathlon: Code Challenge # 1 (DOM Manipulation)
 
-Evaluator: Robbie
+#####Evaluator: Robbie
 
 Progression/Completion
-* 3: Developer is able to implement solutions at the speed of a junior developer.
+- 3: Developer is able to implement solutions at the speed of a junior developer.
 
 JavaScript Style
-* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+- 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
 
 Workflow
-* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+- 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
 Collaboration
-* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+- 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 
 ### Pentathlon: Code Challenge 2
@@ -40,22 +40,22 @@ Collaboration
 Evaluator: Bree
 
 Notes:
-Great communication skills
-Some trouble tracking variable values through functions and identifying how to access the data appropriately
-Very good at grasping hints and applying direction
-I think you just need more practice writing code :)
+* Great communication skills
+* Some trouble tracking variable values through functions and identifying how to access the data appropriately
+* Very good at grasping hints and applying direction
+* I think you just need more practice writing code :)
 
 Progression/Completion
-3: Developer is able to implement solutions at the speed of a junior developer.
+- 3: Developer is able to implement solutions at the speed of a junior developer.
 
 JavaScript Style
-3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+- 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
 
 Workflow
-3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+- 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
 Collaboration
-4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+- 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 
 ### Pentathlon: Static Comp Challenge
