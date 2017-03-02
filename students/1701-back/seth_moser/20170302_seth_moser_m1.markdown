@@ -14,7 +14,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
 | D | **Professional Development** | 3 |
-| E | **Community** | 4 |
+| E | **Community** | 3 |
 
 ------------------------------------------------
 
@@ -109,9 +109,8 @@ I've been very active on slack offering help to others, helping others with code
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+*   Really strong work, especially toward the end of the module
+*   Continue to support your peers
 
 ### Outcome
-
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL, BANANA)
+PROMOTED
