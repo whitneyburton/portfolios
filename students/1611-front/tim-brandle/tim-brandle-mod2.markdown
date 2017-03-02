@@ -249,4 +249,11 @@ I have made an effort to attend all of the Turing events and guest speakers. Hel
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3.5
+
