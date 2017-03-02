@@ -320,10 +320,23 @@ In addition to the Community requirement deliverables noted above, I participate
 
 ## Final Review
 
-### Notes
+## Rubric Scores
 
-( Leave blanks for reviewers )
+*   **A: End-of-Module Assessment**: 3
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 4
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 4
+
+### Notes (From Nate)
+
+I really appreciate the attitude you've had throughout this module. Your classmates were expressing a lot of stress and it seemed like a struggle for them to see the bright side. I also appreciate you speaking up when you felt that it was time to have a conversation. That had a real impact on us and your classmates.
+
+
+- Although there wasn't too much individual work, your group projects both shined. Your QS scores are great, and I love the start you guys made on Code of Arms. It shows real craftsmanship.
+- I'm sorry I missed your spike. These capstone projects are reminding me how much I appreciate good project management.
+- On top of your contributions to your cohort, you've made a real impact on both our internal community, and the broader tech community. According to you, this was outside of your comfort zone. Well, I hope you continue the trend. I'm so glad you've chosen to join the tech industry. Go do awesome things.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
