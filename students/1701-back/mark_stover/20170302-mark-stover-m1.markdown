@@ -40,9 +40,9 @@ During Module 1, I had the expectations of learning the fundamental building blo
 #### Notes
 
 *   HTTP Notes: Game does not work.
-Completes up to Iteration 3.
-Some long methods, that do a bit too much.
-Look into how response handler can be a module.
+    * Completes up to Iteration 3.
+    * Some long methods, that do a bit too much.
+    * Look into how response handler can be a module.
 
 
 ## C: Group Projects
