@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(Why I cam to Turing? and how I felt I did)
+I came to Turing to learn back end engineering. I expected to be challenged and pushed to learn a large amount of information in a short amount of time. I thought I was falling behind throughout the entire mod but that fear motivated me to work harder. I'm proud of the work I did in this mod especially the final assessments because I've been really sick and didn't get to study as much as I would have liked.
 
 ## Self-Assessment Scores
 
@@ -10,11 +10,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | ---- | ----- | ----- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Community** | X |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 
 ------------------------------------------------
@@ -51,7 +51,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 2.5 | X |
 | **Fundamental Ruby & Style** | 2.5 | X |
-| **Loop or Recursion** | n/a | X |
 
 #### Notes
 
@@ -65,9 +64,9 @@ This section does not need to be populated (and template text should therefore b
 
 ### Define-the-Relationship (DTR)
 
-[Link](https://docs.google.com/document/d/1dXffjp9BOd4QM-DqT6Tn4TWjcg1ceMJKkMj9lvG5Z_g/edit?usp=sharing) to DTR Memo from 1 paired project.
+[Link](https://docs.google.com/document/d/1dXffjp9BOd4QM-DqT6Tn4TWjcg1ceMJKkMj9lvG5Z_g/edit?usp=sharing) to DTR Memo from Night Writer paired project.
 
-[Link](https://docs.google.com/document/d/1Hg7MECIC7fpWozEvQwX6qqf8mHJ14pUyaGZz0sDQQlE/edit?usp=sharing) to DTR Memo from 1 paired project.
+[Link](https://docs.google.com/document/d/1Hg7MECIC7fpWozEvQwX6qqf8mHJ14pUyaGZz0sDQQlE/edit?usp=sharing) to DTR Memo from Black Thursday paired project.
 
 
 ### Pair Feedback
@@ -79,15 +78,14 @@ Feedback from partner projects.
 
 ### Job Prep
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/natalie-barron-44b45039/)
+*   LinkedIn profile: [Link](https://www.linkedin.com/in/natalie-barron-44b45039/)
 
 
 ## E: Community
 
 ### Gear Up
 
-#### Session 1
-(Week 1 Gear Up: Growth Mindset
+#### Session 1: Growth Mindset
 
 How do you think past experiences or experiences this week have encouraged growth or fixed mindsets?
 
@@ -99,10 +97,9 @@ Stress and distress are my triggers.
 
 What can your peers do to support you staying in the growth mindset?
 
-Encouragement helps, working together helps, talking through problems, brainstorming, pairing, and supporting each other.)
+Encouragement helps, working together helps, talking through problems, brainstorming, pairing, and supporting each other.
 
-#### Session 2
-(Week 2 Gear Up: Getting Better at Doing Difficult Things
+#### Session 2: Getting Better at Doing Difficult Things
 
 This concept introduces new ideas about the awareness of your learning.
 
@@ -116,10 +113,9 @@ I think the process of learning ruby by continuing to learn even though you have
 
 What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
 
-I have to try to dissociate my emotions from the learning process here at Turing because it's easy to feel panic about not knowing the material or mastering it before moving in to the next subject. It helps to just keep pushing through and not thinking about the stuff you haven't mastered yet.)
+I have to try to dissociate my emotions from the learning process here at Turing because it's easy to feel panic about not knowing the material or mastering it before moving in to the next subject. It helps to just keep pushing through and not thinking about the stuff you haven't mastered yet.
 
-#### Session 3
-(Week 3 Gear Up: Managing Stress
+#### Session 3: Managing Stress
 
 When have you been challenged by growth mindset?
 
@@ -139,20 +135,23 @@ Proactive plan to manage stress in the next 3 weeks:
 
   doing well: daily walks, venting, personal time, self assessment, music
 
-  need improvement: not enough sleep, not enough exercise, scheduling, time management)
+  need improvement: not enough sleep, not enough exercise, scheduling, time management
 
-#### Session 4
-(Week 4 Gear up: Personal Stories & Connection
+#### Session 4: Personal Stories & Connection
 
-This gear up highlighted that everyone is different but we actually have a lot more in common than not. The Turing community values diversity and everyone's unique perspective adds value to our cohort. There was a running theme of core values that were collectively shared by the group and those were respect, empathy, and hard work. It's important to remember that our cohort is a team and the relationships we are building may become strained at times because of the stressful learning environment at Turing but understanding our core values will help us navigate through difficulties. This will also help prepare us for interactions with people after Turing.)
+This gear up highlighted that everyone is different but we actually have a lot more in common than not. The Turing community values diversity and everyone's unique perspective adds value to our cohort. There was a running theme of core values that were collectively shared by the group and those were respect, empathy, and hard work. It's important to remember that our cohort is a team and the relationships we are building may become strained at times because of the stressful learning environment at Turing but understanding our core values will help us navigate through difficulties. This will also help prepare us for interactions with people after Turing.
 
-#### Session 5
-(Week 5 Gear up: Debugging the gender gap!
+#### Session 5: Debugging the gender gap!
 
-This movie really resonated with me and my experiences as a woman in tech. It's so important to recognize that these issues exist. It's very difficult to address a problem that the collective industry doesn't or hasn't acknowledged. I really enjoyed the class discussion after watching the movie. It was interesting to hear everyone's opinions and also see how supportive the people in our cohort are. This session demonstrated the mission of Turing.)
+This movie really resonated with me and my experiences as a woman in tech. It's so important to recognize that these issues exist. It's very difficult to address a problem that the collective industry doesn't or hasn't acknowledged. I really enjoyed the class discussion after watching the movie. It was interesting to hear everyone's opinions and also see how supportive the people in our cohort are. This session demonstrated the mission of Turing.
 
 ### Community Participation
-(I have contributed to the Turing community by becoming involved in several student groups including Joan Clark Society, Impostors, and Turing Diversity. I am planning to co-run the Impostors group with Erin Bassity going forward. I would also like to volunteer to help at either a try Turing or kids who code event during next mod.)
+
+I have contributed to the Turing community by becoming involved in several student groups including Joan Clark Society, Impostors, and Turing Diversity.
+
+I am planning to co-run the Impostors group with Erin Bassity going forward.
+
+I would also like to volunteer to help at either a try Turing or kids who code event during next mod.
 
 -------------------------------------------------------------
 
