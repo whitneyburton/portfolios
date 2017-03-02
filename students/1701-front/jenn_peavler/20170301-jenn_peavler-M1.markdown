@@ -195,10 +195,6 @@ I was a member of the SAB and I lead up the LGBT Turing Group.  I also reached o
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
