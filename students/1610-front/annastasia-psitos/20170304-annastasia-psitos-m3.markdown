@@ -16,8 +16,51 @@
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+UX/UI
+	- Replace find restaurant btuton with result - and  'regenerate' type of thing 
+	- Pick a font style consistancy
+	- Divs and relative position will make the font not opaque 
+	- Button CSS
+	- Spinner/Waiting 
 
+CODE
+	- If 20 bars - save that number, slice it out, keep regenerating from local array until 20 bars are done, THEN fire off new api call. 
+	
+TESTING
+	- check out boilerplate lesson and mod 2 testing hard stuff lesson
+	
+README
+	- Update readme to indicate that the project is in progress (to justify skipped tests and comments)
+	
+	### Feature Delivery
+
+**1. Completion**
+
+* 4: Developer completed all the user stories and requirements set in check-ins in timely manner.
+
+**2. Organization**
+
+* 3: Developer used a project management tool to keep their project organized.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 3: Project shows adequate testing (90% - 95% coverage).
+
+**2. Code Quality**
+
+* 3: Project demonstrates solid code quality, proper abstractions, and reduced duplication.
+
+### Product Experience
+
+**1. User Experience**
+
+* 3: Project exhibits a production-ready user experience.
+
+**2. Performance**
+
+* 3: Project pages load on average under 400 milliseconds.
 
 ## B: Individual Work & Projects
 
