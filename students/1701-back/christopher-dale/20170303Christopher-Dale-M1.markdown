@@ -1,12 +1,11 @@
-# First Last - MX Portfolio
-
+# Christopher Dale - M1 Portfolio
 ## Areas of Emphasis
 
 Continue my education of all things programming.  Specifically getting better with deeper layers of complexity in each of the core-types in ruby.  Explore more programming types and styles.  Gain more confidence in myself to help combat any stressful situations that may arise.  Continue using TDD and developing better edge case test scenarios.  Help my fellow students out as much as I can, to also be able to repay those that have helped me.
 
 Develop new ways or improve upon my ways of dealing with stressful situations and being able to still work effectively while being given more things when they arise.  Being able to stay positive in these situations as well as any other that presents itself.
 
-I also want to grow my network of connections and meet different people and types of people throughout my career.
+I also want to grow my network of connections and meet different types of people throughout my career.  Interacting and sharing knowledge is the way forward.
 
 ## Self-Assessment Scores
 
@@ -22,7 +21,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Notes
 
-*   Note 1 - I felt my overall drive and commitment to myself and the school was shown.  In community especially as well as group projects.  I ran 3 different after school sessions with Dan, that was geared towards helping the new cohort as well as cementing my foundational knowledge.
+*  I felt my overall drive and commitment to myself and the school was shown.  In community especially as well as group projects.  I ran 3 different after school sessions with Dan, that was geared towards helping the new cohort as well as helping to cement my foundational knowledge.
 
 ------------------------------------------------
 
@@ -33,11 +32,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | Pairing Assessment | pass |
 | Independent Timed Assessment | pass |
 | Diagnostic | pass |
-
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 
 ## B: Individual Projects
@@ -50,7 +44,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | n/a | 3 | 1 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 2 | 2 |
 | **Fundamental Ruby & Style** | 4 | 2 | 2.5 |
-| **Loop or Recursion** | n/a | n/a | n/a |
 
 
 ## C: Group Projects
@@ -64,13 +57,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 4 | X |
 | **Loop or Recursion** | n/a | X |
-
-<!-- #### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable) -->
 
 
 ## D: Professional Development
@@ -89,17 +75,19 @@ Chris,
 
 It was great working with you on Night Writer. Your amiable nature and desire to understand the full scope of the project made it very easy to work with you. Every pairing relationship will have technical disparities. To me, these are easily overcome with the right attitude and you certainly have it. The honest, friendly communication we discussed in our DTR provided a great foundation for our work together. It allowed us to fully discuss our approaches to solving the problem, giving each of us the opportunity to express our ideas for solutions in a safe and constructive space. A recommendation I have is, in an instance like trying to allow for capital letters, take enough time to fully understand the problem before searching out a solution. Pull the data into pry and use methods that are familiar to you, to better understand what you are working with. Your enthusiasm for finding a solution is awesome, and I think if you take just a little more time to understand the problem, in the end you will start cranking out wonderfully creative solutions, even faster. Again, it was a pleasure working with you. Your dedication to our project was much appreciated. Keep up the good work!
 
-(From me to Mark Stover)
+*   Night Writer (Christopher Dale):
 
 Mark,
 
 It was a pleasure to work with you.  I was happy from day 1 after we sat and talked through the DTR.  I feel it was really constructive and put us on a good footing with each other right off the bat.  I think we made a great team, I hope I was able to give you as much insight as you gave me.  I have a difficult time sometimes with new things and the driver/navigator roles we filled helped me out a lot.  I look forward to working with you in the future and am glad I can call you friend.  Cheers.
 
-*   Black Thursday (Danny Radden): Chris,
+*   Black Thursday (Danny Radden):
+
+Chris,
 
 You were a great partner to work with. I loved the overall flexibility with working on the project. At first you seemed to have some trouble with methods that traversed different classes, but it seemed to clear up as time went on. You still have some work to do with improving your ruby syntax, but it also improved as the project progressed. Just keep practicing and looking up things in Ruby Docs! I think we both did a pretty good at following TDD guidelines and with our DTR. Overall our communication was great between us and i liked your willingness to improve as well. Thanks for everything!
 
-(From me to Danny Radden)
+*   Black Thursday (Christopher Dale):
 
 Danny,
 
@@ -110,6 +98,9 @@ Regardless I appreciated our working together, I look forward to seeing what you
 
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/christopher-dale-07829b124/)
 
+*   
+Resume with a summary statement and placeholder for projects and skills to be obtained during Turing:
+[Link](https://resume.creddle.io/resume/16risdnety)
 
 
 ## E: Community
