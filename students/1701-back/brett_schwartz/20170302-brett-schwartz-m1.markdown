@@ -57,7 +57,7 @@ The second area of emphasis for me was learning ruby syntax and fundamentals of 
 | CATEGORY | NightWriter | Black Thursday |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
-| **Github** | [link](https://github.com/slague/night_writer) | [link](https://github.com/josh-works/black_thursday) |
+| **Github** | [link](https://github.com/slague/night_writer) | [link](https://github.com/bschwartz10/black_thursday) |
 | **Functional Expectations** | 2.5 | 3 |
 | **Test-Driven Development** | 2.5 | 4 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 |
