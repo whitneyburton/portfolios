@@ -58,30 +58,27 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ### Final Project (Static Comp Challenge #3)
-# Pentathlon: Static Comp Challenge
+### Pentathlon: Static Comp Challenge
 
-## Evaluator: Louisa
-## Optional Notes:
+##### Evaluator: Louisa
+#### Optional Notes:
 
 Nicely done! Still room for some polish and refactoring, but solid effort and end result.
 
-### Design Integrity
+#### Design Integrity
+* 3: The comp accurately reflects the design integrity with respect to color, layout, imagery, spatial relationship of graphical elements. While there are areas of improvement, it is a close representation of the original design.
 
-- 3: The comp accurately reflects the design integrity with respect to color, layout, imagery, spatial relationship of graphical elements. While there are areas of improvement, it is a close representation of the original design.
+#### Responsive Layout
+* 3:  The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
 
-### Responsive Layout
+#### HTML Style
+* 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
 
-- 3:  The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
-
-### HTML Style
-
-- 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
-
-### CSS Style
-
-- 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+#### CSS Style
+* 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 ### Comprehensive Quizlette:
+PASS
 
 
 
