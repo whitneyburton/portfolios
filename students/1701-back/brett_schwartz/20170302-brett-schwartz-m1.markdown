@@ -8,8 +8,6 @@ The second area of emphasis for me was learning ruby syntax and fundamentals of 
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
 | Section | Category | Score |
 | --- | ----- | --- |
 | A | **End-of-Module Assessment** | 3 |
@@ -37,10 +35,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 * Regular committing
 * Not sure why your highest_grossing_actor method is working, but it is... The way you wrote it, it should return an ordered array, but your tests pass
 
-
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Flashcards | HTTP_yeah_you_know_me|
+| CATEGORY | Credit Check | Flashcards | HTTP Yeah You Know Me|
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/bschwartz10/credit_check) | [link](https://github.com/bschwartz10/flashcards) | [link](https://github.com/bschwartz10/http) |
@@ -104,8 +101,6 @@ Specifically, you were patient with me when it came to GitHub. I totally messed 
 ### Job Prep
 
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/brettschwartzbrooksource?trk=nav_responsive_tab_profile)
-
-
 
 ## E: Community
 
