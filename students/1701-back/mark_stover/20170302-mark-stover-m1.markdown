@@ -60,8 +60,6 @@ Look into how response handler can be a module.
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
 *   Night-Writer Notes: 11 tests total all passing, Got through all iterations, talked about, encapsulating runners in a class
 talked about a dictionary class as well to hold constants
 
