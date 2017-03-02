@@ -19,9 +19,9 @@
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | PASS |
-| Independent Timed Assessment | PASS |
-| Diagnostic | PASS |
+| Pairing Assessment | pass |
+| Independent Timed Assessment | pass |
+| Diagnostic | pass |
 
 #### Notes
 
