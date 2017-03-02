@@ -28,7 +28,7 @@ Below is the list of my solo projects that I have been working on.
 *   [GitHub URL](https://github.com/JustynaField/number-guesser)
 *   [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-First project where I got to build my javascript functionaly. Challenging but a really interesting project.
+In this project I got to build my very first javascript functionaly. It was challenging but extremely rewarding in the end.
 
 
 Evaluator: Bree
@@ -39,18 +39,19 @@ Suggest adding link tag for Open Sans font
 Suggest working on the min/max feature of the app
 UX/UI Expectations
 
+UX/UI Expectations
 3: Application shows strong effort towards matching the comp, but some details have been missed. Any extensions are simple, clean design, content organization, and well thought out experience and user interactions.
+
 Functional Expectations
-
 3: Application meets all of the functional expectations in Phase Two
+
 Fundamental HTML
-
 4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors and has incorporated accessibility best practices.
+
 Fundamental CSS
-
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
-Fundamental JavaScript
 
+Fundamental JavaScript
 3: Application shows strong effort towards organization, content, and proper syntax
 
 
@@ -108,7 +109,8 @@ CSS Style
 *   [GitHub URL](https://github.com/JustynaField/linked-list)
 *   [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+Good, extensive pracitce of jQuery. 
+
 
 Evaluator: Louisa
 
@@ -123,10 +125,63 @@ Functional Expectations
 Feedback from John: Working with Justyna was great.  We had wonderful give and take, and we agreed up front that no one would fall behind.  I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me.  Our communication was excellent, and we were consequently able to stop any arguments before they even started.  I would be happy to work with her again.
 
 
-#### Linked List
+#### Idea Box
 
-*   [GitHub URL](https://github.com/JustynaField/linked-list)
-*   [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+*   [GitHub URL](https://github.com/JustynaField/idea-box)
+*   [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+
+Evaluator: Louisa
+
+Optional Notes:
+
+Specification Adherence
+
+3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+HTML Style
+
+3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+CSS Style
+
+3.5: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+JavaScript Style
+
+3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+Workflow
+
+3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+Collaboration
+
+3.5 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
+
+
+#### 2DoBox
+
+*   [GitHub URL](https://github.com/JustynaField/2DoBox-Pivot)
+*   [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+
+Evaluator: Robbie
+
+
+Specification Adherence
+3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from phases 1 through 4 that make the application feel incomplete or hard to use.
+
+User Interface
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+HTML Style
+3.5 - Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+JavaScript Style
+3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Testing
+3 - Project has a running test suite but fails to cover some features. The application makes some use of feature testing.
+
+Workflow
+3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
 
 
 ## D: Professional Skills
