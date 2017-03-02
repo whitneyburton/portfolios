@@ -230,24 +230,27 @@ Workflow
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
+
+
 #### Getting Better at Difficult Things
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
+Interesting outlook on learning - mastering few subjects at a time, rather than burning your cognitive resources at all  times. Didn't fully understand this concept at first, but after some time it made a lot of sense to me how that technique can be a very helpful learning tool. 
 
 #### Managing Stress and Coping Mechanisms
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
 
+Great team work, it was good to talk with other students about how they deal with stress.
 
 #### Debugging the Gender Gap
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
 
-(takeaways from session)
+I found this session very interesting. It was good to learn about some problems in the industry. Discussion following the movie was interesting and brought up some interesting points.
 
 ### PROtocol
-#### (Session Name)
 
 *   [Link to Completed Deliverables]()
 
