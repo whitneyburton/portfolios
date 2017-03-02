@@ -37,7 +37,7 @@
 
 ### Projects
 
-#### Quantify Me
+#### Quantified Self
 
 * [GitHub URL](https://github.com/AliSchlereth/quantify-me)
 * [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
@@ -158,7 +158,10 @@ Ali, it has been great working with you on Census and throughout Turing. I admir
 
 from Brad:  
 Positive: You're always happy to answer questions. You explain your thought process super clearly, and I learned a lot from pairing with you.
-Constructive: Don't be afraid to be more assertive. I think taking a project manager role would be a good challenge, and I bet you'd be really good at it.
+Constructive: Don't be afraid to be more assertive. I think taking a project manager role would be a good challenge, and I bet you'd be really good at it.  
+
+from Nick Chambers:  
+Ali has been one of the core members of the Pahlka posse during my time at Turing, and it's been a pleasure getting to know her. She's always been an organizer, a leader and a solid contributor. Pahlka will surely suffer without her around, and wherever she ends up working will be lucky to have her. Great job over the past seven months. It's been awesome getting to know her.  
 
 ### Playing a Part  
 
