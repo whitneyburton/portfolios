@@ -20,7 +20,7 @@
 
 ## A: End of Module Assessment
 
-| Category | Result (pass, fail, pending) |
+| Category | Result |
 | ----- | --- |
 | Pairing Assessment | Pass |
 | Independent Timed Assessment | Pass |
@@ -88,37 +88,33 @@ I very much enjoyed our pairing dynamic, and while pairing is not my favorite ac
 * [Link](https://gist.github.com/mariastenquist/076d2348f1d4d570edcb074ce71c7744) to Gist containing reflections for all 5 Module 1 Gear-Up Sessions
 
 #### Session 1: Growth Mindset
- Gear-up Session 1 (Growth Mindset) 1/27/17
+ Date: 1/27/17
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown) to Original Session Lecture
 * [Link](https://gist.github.com/mariastenquist/6cd66415195d8149d3e41e6ab0a1e897) to Session 1 Reflection 
 
-#### Session 2: Managing Cognitive Resources
-Gear-Up Session 2: 2/1/17
-Topic: Getting Better at Difficult Things (Manage Cognitive Resources)
+#### Session 2: Getting Better at Difficult Things (Manage Cognitive Resources)
+Date: 2/1/17 
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md) to Original Session 2 Lecture
 * [Link](https://gist.github.com/mariastenquist/9aead1b5c5909573bd39b0d6efb65efd) to Session 2 Reflection 
 
 #### Session 3: Managing Stress
-Gear-Up Session 3: 2/10/17
-Topic: Managing Stress
+Date: 2/10/17
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md) to Original Session 3 Lecture
 * [Link](https://gist.github.com/mariastenquist/d95966ada119dfe4ea592ed7be559b22) to Session 3 Reflection 
 
 
 #### Session 4: Personal Stories & Connection
-Gear-Up Session 4 02/15/17
-Personal Stories & Connection
+Date: 02/15/17
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_retrospective.markdown) to Original Session 4 Lecture
 * [Link](https://gist.github.com/mariastenquist/e5ee12770c04c9556066bfa5a0658925) to Session 4 Reflection 
 
 
 #### Session 5: Debugging the Gender Gap
-Gear-Up Session 5 02/24/17
-Code: Debugging the Gender Gap
+Date: 02/24/17
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md) to Original Session 5 Lecture
 * [Link](https://gist.github.com/mariastenquist/bf4349ea8a04f6dc30e7aff52617745d) to Session 5 Reflection 
