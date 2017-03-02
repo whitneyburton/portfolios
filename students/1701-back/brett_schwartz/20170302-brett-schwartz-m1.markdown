@@ -97,8 +97,11 @@ Talked about tests that don't rely on other methods. Unit testing.
 Feedback from partner projects.
 
 *   Night Writer (Stephanie Bentley): Overall I felt like this was a really successful first paired project. I felt like we were on the same page for pretty much everything. I thought communication was good and time was well managed.  I also think we did a good of evenly balancing the workload and sharing responsibilities.
-Specifically, you were patient with me when it came to GitHub. I totally messed up my branches, and you didn’t get upset or frustrated. You just sat down and helped sort things out.  You were also really good about making sure you understood what was confusing you about the project. For example, with the File IO stuff, right away you said “I want to make sure I really understand this, because it tripped me up in the last project.”  Also, when we came back with different pieces of the project working, you were intent on making sure you understood the pieces I brought back. I also think your willingness to persevere and tackle difficult problems (both together and independently) allowed us to make progress each day.
-What could be better? I think we both let ourselves “give in” a little bit a the end of the last night. We may have leaned on Jasmin too heavily the last night, and we could have been more motivating for each other to clean things up (refactor longer methods, get capitals working) at the end.
+Specifically, you were patient with me when it came to GitHub. I totally messed up my branches, and you didn’t get upset or frustrated. You just sat down and helped sort things out.  
+
+    You were also really good about making sure you understood what was confusing you about the project. For example, with the File IO stuff, right away you said “I want to make sure I really understand this, because it tripped me up in the last project.”  Also, when we came back with different pieces of the project working, you were intent on making sure you understood the pieces I brought back. I also think your willingness to persevere and tackle difficult problems (both together and independently) allowed us to make progress each day.
+
+    What could be better? I think we both let ourselves “give in” a little bit a the end of the last night. We may have leaned on Jasmin too heavily the last night, and we could have been more motivating for each other to clean things up (refactor longer methods, get capitals working) at the end.
 
 *   Black Thursday (Josh Thompson): It was a pleasure working with you on this project,   Brett. I really enjoyed the process of learning the basics about items and their associated repositories, and then linking and populating objects with data from the CSVs.
 
