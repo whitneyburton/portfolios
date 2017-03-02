@@ -318,12 +318,17 @@ Areas for improvement -
 Honestly couldn't say. Haven't worked with you yet or seen anything I could possibly say you ought to improve on
 
 ## E Community
-Turing provided sessions to help strengthen my professional side and this was the one gear up session that had the greatest impact on me.
+Turing provided sessions to help strengthen my professional side. These were a few gear up sessions that had the greatest impact on me.
 ### Gear Up
 #### Growth Mindset
 [Session Overview](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
 The idea of growth mindset was a very new to me, although I was raised in a family that valued that ideology I didn't know it was named as such. The TEDTalk video was very interesting and it made a lot of sense to me.  I think this ideology was part of the problem I had encountered at previous jobs, or lack there of this ideology. The application of growth mindset at Turing is extremely beneficial because it's such a huge on-taking to learning something like web development in a few months with many ups and downs. Practicing a growth mindset can be very difficult, but has helped in many of my approach to difficult challenges and learning curves. I try to remind myself to view each experience as a learning opportunity rather than let frustration takeover or turn it into a competition.
+
+#### Getting Better at Difficult Things
+[Session Overview](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+This gear up had a great video by Kathy Sierra - https://www.youtube.com/watch?v=FKTxC9pl-WM - about cognative resources. The video explains that the fuel tank we use for all of our cognative resources is drained from one large tank. Everything drains these resources and is fighting for the fuel in your brain which is finite. The video goes on to explain that breaking learning difficult things, such as new coding languages or processees, down into small chunks makes it much more attainable and will get the learner to a mastery point quicker then trying to take on the problem as a whole right off the bat. This gave me a lot of insight into how I view learning new information and that it is important for me to employ this tactic to avoid from getting ovewhelmed and depleting my cognitive fuel before I master or even get a grasp of a single part of the information trying to be learned
 
 ## Final Review
 
