@@ -26,6 +26,7 @@ Passing
 
 My favorite part of these is that they make me laugh...  Seriously though, I learned about pointer events from this duo.  Also, I learned about some subtleties of ux/ui design that I can only describe as non-snapping which I have yet to do but look forward to doing at some point.  I also like watching them debug- it helps me understand not only how working developers think about their bugs but that everyone makes mistakes- which is always heartening.  
 
+
 ### Chuck Norris Joke Machine
 Instructor: Taylor
 Notes:
@@ -126,6 +127,16 @@ Testing
 Workflow
 
 * 4: The group effectively uses different Git branches, submits pull requests and reviews each other’s code. The evolution of the application and who was responsible for what features is clearly documented through github.
+
+#### Ultimate UX UI Challenge
+
+* https://github.com/noahpeden/fitness-ux-challenge
+* http://frontend.turing.io/projects/ultimate-ux-ui-team-challenge.html
+
+#### RemEmber
+
+* https://github.com/pescel/1610-remember-9
+* http://frontend.turing.io/projects/remember.html
 
 
 ## D: Professional Development
