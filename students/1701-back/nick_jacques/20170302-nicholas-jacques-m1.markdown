@@ -84,7 +84,7 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
   + It would have been better if we had been able to get to coding earlier instead of waiting later in the week. I feel like this was a mutual thing
   + Learning to really use TDD would have been a great thing. Coming into this project, it felt like we both had a bad grasp of TDD, and at the end it felt like we had a basic grasp that really helped the second half of the project
   + Speak up more when your partner starts making things way too complicated
-*   Project 2 (First Last): lorem ipsum
+*   Project 2 (Sergey Lukyanenko): lorem ipsum
 
 ### Job Prep
 
