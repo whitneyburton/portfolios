@@ -55,7 +55,6 @@ While going thru the pentathlon I'm feeling very confident about where I sit on 
 | **Test-Driven Development** | n/a | 4 | 1 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 | 3 |
 | **Fundamental Ruby & Style** | 2 | 3 | 3 |
-| **Loop or Recursion** | n/a | n/a | n/a |
 
 
 #### Notes
@@ -135,7 +134,7 @@ Really enjoyed working on this project with you.  While we started slowly given 
 From Jack:  Stop and read the error message closely. It is really tempting to jump ahead and fix what you think might be the problem, but often this is not the problem.
 Time manangement: We are both guilty on this front. It would have been a lot less stressful if we had managed our time a little better. It worked out in the end, but I think my takeaway for this is that its better to frontload the work.
 Working in a team. We were able to really effectively divide and conquer on this project. It was really nice working with you, since you always stayed positive, got the work done, and knew what it was that needed doing.
-Shortcuts. I can't believe how well you can navigate around any computer. I really need to practice after seeing how you work on your, and my computer. 
+Shortcuts. I can't believe how well you can navigate around any computer. I really need to practice after seeing how you work on your, and my computer.
 
 
 
