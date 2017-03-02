@@ -350,4 +350,10 @@ I look forward to working with Hugh again in the future.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.51328
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3.5
+* **E: Feedback & Community Participation**: 4
