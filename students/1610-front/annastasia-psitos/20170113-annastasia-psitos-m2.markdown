@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Wanted to learn more and make sure that I had a better comprehension and grasp of foundations and felt comfortable in what I was doing. I felt I left mod 1 feeling slightly shakey and I wanted to make sure I focused on those things.
 
 ## Rubric Scores
 
@@ -16,14 +16,19 @@
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
-
+- 3: Developer is able to implement solutions at the speed of a junior developer.
+JavaScript Style
+- 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+Workflow
+- 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+Collaboration
+- 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ## B: Individual Work & Projects
 
 (Intro)
 
-#### (Project Name)
+#### Number Guesser
 
 * [GitHub URL](https://github.com/apsitos/NumberGuesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser-in-react.html)
@@ -32,7 +37,7 @@
 #### Instructor: Jhun
 #### Comments:
 
-# Rubric
+#### Rubric
 
 #### Functional Expectations
 
@@ -49,8 +54,6 @@
 ## C: Group Work & Projects
 
 ### Projects
-
-(Intro)
 
 ### ToDo Box Pivot
 
@@ -73,7 +76,6 @@
 #### User Interface
 
 * 3.5 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
-
 
 #### HTML Style
 
@@ -129,7 +131,7 @@ Rubric
 
 #### JavaScript Style
 
-* 3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+* 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
 #### Testing
 
@@ -209,7 +211,6 @@ Rubric
 4 - Zero complaints
 
 ## D: Professional Development
-(Intro)
 
 ### Professional Development Workshops
 #### Finding Opportunities
@@ -232,9 +233,6 @@ I hope Sam gives a Spike session on Scrum! I think it would be very interesting 
 
 #### Feedback/Triggers
 
-* This was a very interesting session. I think it helped to be able to recognize the kinds of triggers we might be feeling and the reasons behind them. I  will be re-reading the article over break to try and better comprehend them.
-
-
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
@@ -254,7 +252,6 @@ Project: Weatherly || Working with Anna on Weatherly was a fun experience. Anna 
 I have paired with Anna multiple times over the past few weeks. In fact I find her to be so helpful that I keep booking her time! She is patient and knowledgeable and goes out of her way to ensure that she is helping you. I really found the way she explains thing helpful. She has helped me strengthen some of my foundational knowledge which is so important moving forward. She is also a calming person to be around and in addition to her technical expertise, her kindness is apparent. She is great at explaining things in the smallest steps while making you think for yourself to come to a solution. I only have positive things to say about Anna and consider myself VERY fortunate to have gotten to work with her. - Staci M, Mod 1
 
 Firstly, chatapp 1C-809 forever. AOL Instant Messenger won't know what hit em. I appreciate your level headed approach to the project, ability to analyze and troubleshoot through the development cycle, and your patience as I tried to solve little hiccups in the implementation. Your organization and scheduling was very efficient as well. I think we spent equal times driving the code along, which I appreciated as well. I can't think of an immediate area of improvement to suggest, you were a very well rounded pairing partner. -Dan G
-
 
 Anna is great to work with! She's a hard worker, open communicator and asks great questions. She's not afraid to say when she doesn't know something and seeks to understand the answer as well as the process to get to it. Would gladly work with her again. Keep practicing. Keep pushing! - Mike L
 
@@ -279,9 +276,14 @@ Grit - An interesting investigation. I know I have grit and resilience, though, 
 ## Final Review
 
 ### Notes
+Build new features on a project, write stories - when the story is complete, run your linter, check your tests, refactor, commit - and repeat. Do exercisms and then compare your answer to 3 to 5 others.
 
-( Leave blanks for reviewers )
+Do more reps, it's always good. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 3
