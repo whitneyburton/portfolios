@@ -23,7 +23,7 @@ Sally said the final grade was technically a fail (I accidentally left the hash 
 
 My individual work this module allowed me to get serious about developing for Ethereum, and the progress has been pretty mind-blowing. Through the course of my self-directed project, I feel like I experienced mod 1 again...but in a totally different type of programming. I definitely feel like, somewhere in the course of this project, I became a "real developer."
 
-#### Lie Ledger
+### Lie Ledger
 
 *   [GitHub URL](https://github.com/ethanbennett/lie-ledger)
 
@@ -37,7 +37,7 @@ Given the amount of work that could be done on this to really make it work well,
 
 I learned just as much from my group projects, but for totally different subjects. It's kind of funny to think that I didn't really know what an API was six weeks ago. I also learned a lot about dealing with difficult team dynamics, but I'll elaborate on that below.
 
-#### Rales Engine
+### Rales Engine
 
 *   [GitHub URL](https://github.com/jdconrad89/rails_engine)
 
@@ -50,7 +50,7 @@ I thought I was learning how to build an API, but in retrospect, I retained a lo
 * 2: Project completes most requirements but fails 7 - 5 (10 to 6 for individual project) spec harness tests.
 * 1: Project fails more than 7 (10 for individual project) spec harness tests.
 
-##### Technical Quality
+#### Technical Quality
 
 **1. Test-Driven Development**
 
@@ -80,7 +80,7 @@ I thought I was learning how to build an API, but in retrospect, I retained a lo
 * 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.
 * 1: Project struggles to establish a coherent ActiveRecords schema, including missing relationships or dysfunctional queries.
 
-#### BoxDrop
+### BoxDrop
 
 *   [GitHub URL](https://github.com/ethanbennett/drop-it-like-its-hot)
 
@@ -115,7 +115,7 @@ Notes:
     *   2: Below expectations
     *   1: Well below expectations
 
-##### Technical Evaluation
+#### Technical Evaluation
 
 **Git Workflow**
 
@@ -145,19 +145,6 @@ Notes:
 #### (Session Name)
 
 *   [GitHub URL]()
-
-(takeaways from session)
-
-### PROtocol
-#### (Session Name)
-
-*   [Link to Completed Deliverables]()
-
-### Professional Development Workshops
-#### (Session Name)
-
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
 
 (takeaways from session)
 
