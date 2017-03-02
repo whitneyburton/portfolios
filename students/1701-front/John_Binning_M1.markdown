@@ -226,6 +226,13 @@ Pairing with Mike was great.  He has been very invested in helping me reach and 
 
 Working with Devon was great.  He has a fantastic work ethic and is very encouraging.  We worked together on the ToDo Box  Pivot and I felt that the pairing went well.  I was able to side by side pair with him effectively, and I believe we did a good job of splitting to work individually.  When we split, we always made sure to come back and explain what we had done, not moving on until both partners understood what was going on with the new work.  For the sake of providing constructive feedback, Devon could possibly work on prioritizing tasks.  He generally did a good job working with me, but I worry about how sustainable spending the night at school to finish his comp3 is.  I would be very happy to pair with Devon in the future, and plan on doing so.
 
+#### For Marissa Reinke, Mod 2 pairing partner:
+
+positive feedback:
+Marissa was great about giving me enough information to not let me be stuck, but she did not spoon feed me either
+negative feedback:
+None - honest
+
 
 ### Being a Community Member
 
