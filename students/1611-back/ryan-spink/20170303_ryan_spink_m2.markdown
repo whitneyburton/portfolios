@@ -136,6 +136,10 @@ The project will be assessed with the following rubric:
 *   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/agile_practices_project_management.md)
 
  This session was really cool! Man, am I always down for an opportunity to improve my project management skills both as it relates to coding and also outside of the tech world. Being a techy for awhile, I had always seen people discuss "workflow" in the software development world...but really had no idea what it "really" was or how it was incorporated. Being introduced to the waterfall model, the agile manifesto, waffle, and some git workflow ideas was great. In the software dev field, the idea of workflow is incredibly important to producing good, consistent, sustainable work and I really took a lot of the knowledge dropped in this lesson to heart. 
+ 
+#### (Strengths Finder)
+
+- I initially thought that this session would end up like the "Feedback II" session, but I was quite wrong. This session was very valuable to me and helped me bridge a gap in confidence. I was given very kind compliments by my previous team mates while discussing our strengths. They brought up qualities that I strive to achieve and as such this session was affirming and profoundly humbling. The nature of my competetiveness (something I actively keep bottled up in entirety at Turing) was brought up, as those I dialogued with were unaware that I posses it as a strength. While I do believe that I could incorporate it more in my daily work, I feel like that is a dangerous path here at Turing. I'm not here to compete with anyone, save myself. I'm here to progress my knowledge as far I can and to give back to the community in whatever way I can...not to compare myself to others. However, as school progresses and things get more "spicy", I hope that my competetivness with myself will provide any extra motivation I might need in a moment of struggle. 
 
 #### (Finding a Mentor)
 
