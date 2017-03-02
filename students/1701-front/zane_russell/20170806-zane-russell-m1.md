@@ -190,11 +190,11 @@ more diversity of thought, and a stronger approach as a whole.
 
 ### Being a Community Member
 
-####Keji Amos
+###Keji Amos
 ####How have our interactions affected your experience in class, if at all?
 The interactions we've had have been great. They're really beneficial and improve my ability to get things done. I've appreciated your willingness to answer and try to answer a lot of questions I've had. You also help me stay on top of my game.
 
-####Travis Gregory
+###Travis Gregory
 ####If we were partners on a project, how did you feel about the experience? Any highlights or criticism?
 I felt like we had a good partnership. Communication lines were always open and when I didn't understand something you didn't take any issue with explaining it.
 ####How have our interactions affected your experience in class, if at all?
@@ -202,7 +202,7 @@ Your help and input on projects and such has been very helpful throughout this m
 ####What should I improve or work on over the upcoming mods?
 Just make sure to talk more with partners on projects so that they know what you are thinking as you are doing it rather than after you've done the work.
 
-####Adam Carpenter
+###Adam Carpenter
 ####If we were partners on a project, how did you feel about the experience? Any highlights or criticism?
 Never partnered...damn shame.
 ####How have our interactions affected your experience in class, if at all?
@@ -212,7 +212,7 @@ Don't graduate or get a job too early or our mod will be lostttttt
 ####Any comments or brutally honest truths I should know?
 bass is better then treble.
 
-####John Binning
+###John Binning
 ####If we were partners on a project, how did you feel about the experience? Any highlights or criticism?
 I felt good about the pairing.  Zane was a bit more advanced in his Javascript than I was, but he took time to slow down and explain his thought process.  
 ####How have our interactions affected your experience in class, if at all?
@@ -232,7 +232,7 @@ I think our partnership was good. I did know that my Javascript skills were not 
 ####Any comments or brutally honest truths I should know?
 You're killing it! :)
 
-####Devin Dixon
+###Devin Dixon
 ####If we were partners on a project, how did you feel about the experience? Any highlights or criticism?
 n/a
 ####How have our interactions affected your experience in class, if at all?
@@ -242,7 +242,7 @@ I'd say just keep doing what you're doing.
 ####Any comments or brutally honest truths I should know?
 You're a cool dude, dude.
 
-####Devon Bull
+###Devon Bull
 ####If we were partners on a project, how did you feel about the experience? Any highlights or criticism?
 I noticed your speed was occasionally significantly faster than another person's who you were helping. One of your partners would come back with a look complete and utter confusion.
 ####How have our interactions affected your experience in class, if at all?
