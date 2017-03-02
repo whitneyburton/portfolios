@@ -1,7 +1,5 @@
 # Elijah Williams - M3 Portfolio
 
-[link to mod3 portfolio expectations](http://frontend.turing.io/lessons/module-3/success)
-
 ## Areas of Emphasis
 
 I wanted to get comfortable with React and get exposure to Redux, Router, and Ember.  I also wanted to get better at plain JS fundamentals.  
@@ -49,6 +47,43 @@ Design
 Testing
 
 3 - Almost all components are tested to a level that indicates developer has an understanding of testing 2+ - A valid attempt was made to test functionality with obvious gaps where functionality is not tested
+
+#### Newmann (Self-directed project)
+
+* [GitHub URL](https://github.com/ejwill04/self-directed-project)
+* [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
+
+Newmann was a solo project designed to allow users to select a company and leave comments about the company.  The project used React, Router, Redux, and Mongo.
+
+##### Feature Delivery
+
+Completion
+
+- 3: Developer completed all the user stories and requirements set during check-ins.
+
+Organization
+
+- 3: Developer used a project management tool to keep their project organized.
+
+##### Technical Quality
+
+Test-Driven Development
+
+- 2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
+
+Code Quality
+
+- 3.5: Project demonstrates solid code quality, proper abstractions, and reduced duplication.
+
+##### Product Experience
+
+User Experience
+
+- 2: Project exhibits some gaps in the UX. Search fixed. Sign up & Login page
+
+Performance
+
+- 3: Project pages load on average under 400 milliseconds.
 
 ## C: Group Work & Projects
 
@@ -103,37 +138,63 @@ Workflow
 
 4: The group effectively uses different Git branches, submits pull requests and reviews each other’s code. The evolution of the application and who was responsible for what features is clearly documented through github.
 
-(feedback to me)
+#### feedback to me
 
-#### remEMBER
+##### Adam Rice:
+
+Working with Elijah during the Movie Tracker project was great. Elijah is very good at problem solving independently as well as with a team. I am also glad he is willing to take risks and encouraged our group to add unique features such as the single movie card for each movie. The quality that I admire most about Elijah is his ability to focus his attention fully to one issue and not get distracted until he has resolved that issue. Regarding areas of improvement Elijah could get more familiar with testing a React & Redux application. I am very glad that I got to partner with Elijah during this mod.
+
+##### remEMBER
 
 * [GitHub URL](https://github.com/turingschool-projects/1610-remember-6)
 * [Original Assignment](http://frontend.turing.io/projects/remember.html)
 
-This project focused on using Ember.
+This project focused on using Ember.  The project as pass/fail and they're wasn't a final check-in.
 
-[ --- feedback --- ]
+#### feedback to me
 
-(feedback to me)
+##### Dan Grund: 
+
+Elijah and I collaborated on the Ember project. I respect his ability to search through docs and StackOverFlow to find solutions to problems, and his ability to resolve merge conflicts. also great at leaving PR comments. and at being patient. and writing tests. all around solid dev.
+
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
-#### (Session Name)
 
-* [GitHub URL]()
-
-(takeaways from session)
-
-
+#### (Tragedy of the Commons)
+ 
+ * [Github URL] (https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+ 
+ I thought the PotP was a really powerful example of the role we can all play by trying to be more inclusive.
+ 
+ 
+#### (automation)
+ 
+ * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown))
+ 
+I think the change that automation can be exciting but its effect on us and society as a whole will be dictated by how we decide to use it.  
+ 
+ 
+#### (basic income)
+ 
+ * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+ 
+I like the idea of UBI, but I'm not sure if we are in a place where it's necessitated.  The research that was presented in the discussion seemed to be lacking, so I think we should spend more time trying to understand what UBI might look like and what effects it could have on society.  
+ 
 ### Professional Development Workshops
-#### (Session Name)
+ 
+#### Flower Exercise
+ 
+* [Link to Completed Deliverables]( https://gist.github.com/ejwill04/381461cb78c265047a5e1d3139f0ca77)
+ 
+#### Portfolio Tips & Tricks
+ 
+* [Link to Completed Deliverables](https://www.turing.io/alumni/elijah-williams)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
+#### Job Search Action Plan
+ 
+* [Link to Completed Deliverables](https://gist.github.com/ejwill04/8a09aa37e4efdd2e41713d866b3efe10)
 
 ## E: Feedback and Community Participation
 
@@ -155,11 +216,11 @@ Adam was great to work with on Movie Tracker.  He was well organized, confident 
 
 #### Adam Rice:
 
-Working with Elijah during the Movie Tracker project was great. Elijah is very good at problem solving independently as well as with a team. I am also glad he is willing to take risks and encouraged our group to add unique features such as the single movie card for each movie. The quality that I admire most about Elijah is his ability to focus his attention fully to one issue and not get distracted until he has resolved that issue. Regarding areas of improvement Elijah could get more familiar with testing a react & redux application. I am very glad that I got to partner with Elijah during this mod.
+Working with Elijah during the Movie Tracker project was great. Elijah is very good at problem solving independently as well as with a team. I am also glad he is willing to take risks and encouraged our group to add unique features such as the single movie card for each movie. The quality that I admire most about Elijah is his ability to focus his attention fully to one issue and not get distracted until he has resolved that issue. Regarding areas of improvement Elijah could get more familiar with testing a React & Redux application. I am very glad that I got to partner with Elijah during this mod.
 
 #### Dan Grund: 
 
-Elijah and I collaborated on the Ember project. I respect his ability to search through docs and stackoverflow to find solutions to problems, and his ability to resolve merge conflicts. also great at leaving PR comments. and at being patient. and writing tests. all around solid dev.
+Elijah and I collaborated on the Ember project. I respect his ability to search through docs and StackOverFlow to find solutions to problems, and his ability to resolve merge conflicts. also great at leaving PR comments. and at being patient. and writing tests. all around solid dev.
 
 ### Playing a Part
 
