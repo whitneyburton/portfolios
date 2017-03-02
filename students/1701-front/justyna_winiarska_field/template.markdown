@@ -273,7 +273,7 @@ Feedback from John B:  Working with Justyna was great.  We had wonderful give an
 
 ### Playing a Part
 
-I tried to be involved as much as I could. I participated in Turing events and took part in lunch roulette several times. I tried to establish many good relationships with other students in the school. I feel good being a part of this community.
+I tried to be involved as much as I could. I participated in Turing events and took part in lunch roulette several times. I aimed at establishing many good relationships with other students in the school. I feel good being a part of this community.
 
 ------------------
 
