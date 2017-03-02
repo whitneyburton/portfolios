@@ -6,8 +6,6 @@ I plan to work on my ruby knowledge and improve what I learned from last mod. Al
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
 | Section | Category | Score |
 | ----- | ----- | ----- |
 | A | **End-of-Module Assessment** | 3 |
@@ -34,7 +32,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Credit Check | Flashcards | HTTP |
 | ----- | ----- | ----- | ----- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/credit_check/ken-lee/credit_check.md) | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/flashcards/ken_lee/rubric.md) | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/http/ken-lee/rubric.md) |
 | **Functional Expectations** | 3 | 3 | n/a |
 | **Test-Driven Development** | n/a | 3 | n/a |
@@ -53,11 +51,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | ----- | ----- | ----- | ----- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/frustratedswede/night_writer) | [link](https://github.com/glassjoseph/black_thursday) |
-| **Functional Expectations** | 3 | X |
-| **Test-Driven Development** | 2 | X |
-| **Encapsulation/Breaking Logic into Components** | 2.5 | X |
-| **Fundamental Ruby & Style** | 2.5 | X |
-| **Loop or Recursion** | n/a | X |
+| **Functional Expectations** | 3 | 4 |
+| **Test-Driven Development** | 2 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 2.5 | 3 |
+| **Fundamental Ruby & Style** | 2.5 | 3 |
+| **Enumerable & Collections** | n/a | 4 |
+| **Code Sanitation** | n/a | 4 |
 
 ## D: Professional Development
 
@@ -77,7 +76,7 @@ Ken, I’m amazed by your commitment to code every day against all challenges. W
 
 ### Job Prep
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education:
+*   LinkedIn profile:
 [Link](https://www.linkedin.com/in/ken-lee-882bb23/)
 
 ## E: Community
@@ -85,13 +84,11 @@ Ken, I’m amazed by your commitment to code every day against all challenges. W
 ### Gear Up
 
 #### Session 1 Growth Mindset
-Growth mindset is still something I keep in my present mind from last mod. I still have to stop myself when stuck and feeling low and tell myself how does this feeling help me and what can I do at this moment. I admit I still go down the fixed mindset
-road. It's a hard thing to get out of and I don't think I will ever completely change something that has been engrained in my since my presences here on Earth. I do commiserate with fellow students still to let out steam but I have to admit I don't know real use that does to help me. All I know is, growth mind set tells me that I need to keep moving forward. I know I'm learning I know way more than I did last mod. The fixed mind set in me worries about things I can't control like Turing decision. If
+Growth mindset is still something I keep in my present mind from last mod. I still have to stop myself when stuck and feeling low and tell myself how does this feeling help me and what can I do at this moment. I admit I still go down the fixed mindset road. It's a hard thing to get out of and I don't think I will ever completely change something that has been engrained in my since my presences here on Earth. I do commiserate with fellow students still to let out steam but I have to admit I don't know real use that does to help me. All I know is, growth mind set tells me that I need to keep moving forward. I know I'm learning I know way more than I did last mod. The fixed mind set in me worries about things I can't control like Turing decision. If
 Turing deems me unfit to move on. That keeps going through my head because that is reality. How does growth mindset reconcile that?
 
 #### Session 2 How to deal with difficult things better
-I like learning how to view learning difficult things. For instance, to not look at the whole thing of learning how to code as a one giant thing but to break it down into just a few things that I can master. I already do that on a day to day basis but
-I've never connected the dots with my learning the codes. I only looked at learning the codes as a big chuck and wind up choking on it. If I cut it up in to smaller pieces that I can master and then move on to the next couple, and the next couple. In a while I'll know a bunch. I've been doing this with learning Vim, so I have experience doing this. I just need to use this to learn coding. I do still need to do more research on techniques on how to accomplish this kind learning so I can be more
+I like learning how to view learning difficult things. For instance, to not look at the whole thing of learning how to code as a one giant thing but to break it down into just a few things that I can master. I already do that on a day to day basis but I've never connected the dots with my learning the codes. I only looked at learning the codes as a big chuck and wind up choking on it. If I cut it up in to smaller pieces that I can master and then move on to the next couple, and the next couple. In a while I'll know a bunch. I've been doing this with learning Vim, so I have experience doing this. I just need to use this to learn coding. I do still need to do more research on techniques on how to accomplish this kind learning so I can be more
 efficient. Less time trying to learn and more quality time learning.
 
 #### Session 3 Stress Management
@@ -99,16 +96,13 @@ I found myself having a hard time coming up with what I do to relieve stress. An
 I want to be able to handle it better but I don't know how. It would have been nice to hear some techniques on how to deal with stress other then have people write down that go to the gym, go hiking, read a book, listen to music...
 
 #### Session 4 Personal Stories and Connections
-The session was just like the last mod and I reflected on the differences of my prospective. I've thought a lot about how the issues I have are still blocks for me. Less now though. I think I'm trying to change for the better. I know more about where my weaknesses are and though not perfect...I am aware. That is a huge steps for me. To not just survive but think about how and why I do what I do. When I came to Turing because I wanted to know I can make my life better. That I can do this programming
-stuff. That I know I can be like everyone else. I've notice I do better when I do the growth mindset. I hope to get better at all this. I know I can and I will.
+The session was just like the last mod and I reflected on the differences of my prospective. I've thought a lot about how the issues I have are still blocks for me. Less now though. I think I'm trying to change for the better. I know more about where my weaknesses are and though not perfect...I am aware. That is a huge steps for me. To not just survive but think about how and why I do what I do. When I came to Turing because I wanted to know I can make my life better. That I can do this programming stuff. That I know I can be like everyone else. I've notice I do better when I do the growth mindset. I hope to get better at all this. I know I can and I will.
 
 #### Session 5 Code: Debugging the Gender Gap
-This movie was something I'm very familiar with because I've worked in the industry for years and I've seen and heard all. Some of the people I've worked with even believe they are socially conscious and think they are doing the right thing. But the
-reality is that they were adding the the same culture that is all wrong. I hope to help change this when I get in to the actual coding and looked at at the same level. Exactly what I mean with the last sentence.
+This movie was something I'm very familiar with because I've worked in the industry for years and I've seen and heard all. Some of the people I've worked with even believe they are socially conscious and think they are doing the right thing. But the reality is that they were adding the the same culture that is all wrong. I hope to help change this when I get in to the actual coding and looked at at the same level. Exactly what I mean with the last sentence.
 
 ### Community Participation
-I have participated in the Turing Diversity group and tried to help with how we can help a more diverse peoples become interested and join Turing. I have also submitted to Jorge my outline of how to get grants for school. I have also helped out fellow
-students in class with questions.
+I have participated in the Turing Diversity group and tried to help with how we can help a more diverse peoples become interested and join Turing. I have also submitted to Jorge my outline of how to get grants for school. I have also helped out fellow students in class with questions.
 
 -------------------------------------------------------------
 
@@ -133,8 +127,6 @@ comfortable with sitting down and being able to see a problem, break it down,
 and solve it with code.
 
 ## Rubric Scores
-
-Fill in how you would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: 1
 * **B: Individual Work & Projects**: 3
@@ -256,8 +248,6 @@ Enumerable & Collections: 4
 ## C: Group Work & Projects
 
 ### Projects
-
-(Intro)
 
 (feedback to me)
 ### Professional Development Workshops
