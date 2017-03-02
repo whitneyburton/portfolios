@@ -25,8 +25,6 @@ I feel that over the past six weeks I have developed a very basic understanding 
 | Independent Timed Assessment | PASS |
 | Diagnostic | PASS |
 
-#### Assessor Comments
-
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Date Night | HTTP |
@@ -59,11 +57,10 @@ My Comments:
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/slague/night_writer) | [link](https://github.com/slague/black_thursday) |
-| **Functional Expectations** | 2.5 | X |
-| **Test-Driven Development** | 2.5 | X |
-| **Encapsulation/Breaking Logic into Components** | 3| X |
-| **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | na | X |
+| **Functional Expectations** | 2.5 | 3 |
+| **Test-Driven Development** | 2.5 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3| 4 |
+| **Fundamental Ruby & Style** | 3 | 3 |
 
 
 #### Notes
@@ -73,7 +70,7 @@ Evaluator Comments:
 
 My Comments:
 
-  *  Ovearall I thought this first paired project was successful. We managed our time well, the workload was evenly balanced, we stuck to our DTR Expectations, and produced a working project with all minimum iterations complete. 
+  *  Ovearall I thought this first paired project was successful. We managed our time well, the workload was evenly balanced, we stuck to our DTR Expectations, and produced a working project with all minimum iterations complete.
 
 
 ## D: Professional Development
@@ -84,17 +81,13 @@ My Comments:
 
 ### Pair Feedback
 
-Feedback from partner projects.
+*   "NightWriter" (Brett Schwartz): Stephanie - It was a pleasure working with you for our first paired project at Turing. Starting with the DTR session, I thought you did a great job of initiating the outline, timeline and workflow for the project. When we hit road bumps in the project, (i.e. 80 char limit) I thought you did a great job of using outside resources to help guide us to the solution. Your effort was consistent throughout the week which helped us stay ahead of the Thursday deadline. As we spoke about, we could’ve improved our TDD process and started with tests instead of jumping right into the source code. Also, we could’ve improved the readability of our files so they would be easier for outside eyes to understand. Overall, it was a pleasure working with you and I look forward to working together down the road!
 
-*   Project 1 (Brett Schwartz): Stephanie - It was a pleasure working with you for our first paired project at Turing. Starting with the DTR session, I thought you did a great job of initiating the outline, timeline and workflow for the project. When we hit road bumps in the project, (i.e. 80 char limit) I thought you did a great job of using outside resources to help guide us to the solution. Your effort was consistent throughout the week which helped us stay ahead of the Thursday deadline. As we spoke about, we could’ve improved our TDD process and started with tests instead of jumping right into the source code. Also, we could’ve improved the readability of our files so they would be easier for outside eyes to understand. Overall, it was a pleasure working with you and I look forward to working together down the road!
-
-*   Project 2 (Beth Knight): lorem ipsum
+*   "Black Thursday" (Beth Knight): Dear Stephanie, You were such a great partner! You were there everyday working right beside me for the past two weeks. I appreciate you coming in on the weekend to bust this guy out. I never felt we had any communication problems. We ended up programming most of it together which worked out really well because we could catch little mistakes that could have held us back. I think you’re super strong with the enumerables, which is a difficult concept to grasp. I guess the only feedback I have would be to take a step back when we’re super stuck and maybe reach out for a new pair of eyes. I do the same thing where I start “throwing spaghetti at the walls”. Thanks for being my partner! I really enjoyed our time together!
 
 ### Job Prep
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/stephanie-bentley-52687b80/)
-
-
+*   LinkedIn profile: [Link](https://www.linkedin.com/in/stephanie-bentley-52687b80/)
 
 ## E: Community
 
@@ -125,8 +118,7 @@ This mod has been a trial by fire.  I feel like one of the biggest ways I’ve e
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+*   Notes
 
 ### Outcome
 
