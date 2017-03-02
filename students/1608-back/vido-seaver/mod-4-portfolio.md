@@ -71,33 +71,13 @@ Subjective evaluation will be made on your work/process according to the followi
 #### Open Source Contribution
 * [URL](https://github.com/boulder-food-rescue/food-rescue-robot/pull/84)
 
-* [Blog](https://docs.google.com/document/d/1XAUOOtDOSaWe7fPoSVnrgEVv687b5buMofRryMykvow/edit?usp=sharing)
+* [Blog](https://gist.github.com/vidoseaver/ea3ec700ef67ccaa5fb922c2abd3e8ec)
 
-*   [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
+*  [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
 
 
 #### Evaluation comments
-Nate:
-- Nice work with local storage
-- Glad you're able to diagram the problem. Visuals are good for explaining technical challenges
-- A little more instruction about how to use the app in the app would be nice
-- Could have made the name a little bigger on popcicle view
-- Glad you have a plan on where you would take this next
-
-Jeff:
-
-* Implemented the Popsicle name selector
-* Implemented pairs
-* Don't understand what the project bits are about
-* Have generator for Lunch Roulette
-* It'd be neat if the links were sharable (embed random generator seeds)
-* Wish I could download the data into a csv or plaintext or something
-* Challenge: scope of the project...?
-* Didn't implement the ability to swap students
-* Code Shame: lots of accidental refactoring / code simplification
-* Proud: popsicle using localstorage
-* Tracker: Got most stories delivered
 
 #### Evaluation scores
 None
@@ -154,7 +134,7 @@ Alisher, I really enjoyed pairing with you on Quantified self. It was on of my t
 
 * [Production Site](https://turing-mentorship-prod.herokuapp.com/)
 
-*   [Backend Github](https://github.com/turingschool-projects/MentorSHIP)
+* [Backend Github](https://github.com/turingschool-projects/MentorSHIP)
 
 MentorSHIP was our "brownfield" capstone project, i'd say it went alright. I don't think the project maximized my learning and  like the rest of the mod I feel like i learned more auxillary stuff and less coding. What I'm trying to say is i think had the project been different or the group had I been different might have been able to level up my coding skills as well.
 
@@ -213,6 +193,34 @@ This was my first project working with you megan and you were a great team mate.
 #### Overcoming Imposter Syndome
 The only time I've felt imposter syndrome was at about two in the afternoon during the final assessment. I was seriously questioning my development skills and felt entirely overwhelmed. I was panicing. I couldn't focus. I couldn't think about what the next step was but i forced my self to just take one. Then another and I worked through it. I'm not scared of the job search or of interviewing or personal outreach.
 
+### Mashup 
+
+Mashup was our secondary project. We started it with big asperations but quickly had to scope it down. There just wasnt the time. It was a cool idea but nothing we hadnt already done.  I wish we'd had more time to make it. Lunch roulette has been something i've wanted to fix since mod 1.
+
+Eval notes:
+
+Nate:
+- Nice work with local storage
+- Glad you're able to diagram the problem. Visuals are good for explaining technical challenges
+- A little more instruction about how to use the app in the app would be nice
+- Could have made the name a little bigger on popcicle view
+- Glad you have a plan on where you would take this next
+
+Jeff:
+
+* Implemented the Popsicle name selector
+* Implemented pairs
+* Don't understand what the project bits are about
+* Have generator for Lunch Roulette
+* It'd be neat if the links were sharable (embed random generator seeds)
+* Wish I could download the data into a csv or plaintext or something
+* Challenge: scope of the project...?
+* Didn't implement the ability to swap students
+* Code Shame: lots of accidental refactoring / code simplification
+* Proud: popsicle using localstorage
+* Tracker: Got most stories delivered
+
+
 
 ### Gear Up
 ####  [Tragedy Of the Commons - Diversity](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
@@ -236,7 +244,7 @@ Basic income is an interesting idea. Hopefully we don't have to face it too soon
 
 *   [Spike Markdown](https://gist.github.com/vidoseaver/54ccf4940dbfebb9d2c9e1a5cc5a6946)
 
-I lead a spike configuring your machine with Ben and Matt as co-leads. We basically just went over shortcuts, bash profile settings, hotkeys and snippets. There were close to fourty people in the classroom and gave me a feel for how hard it is to teach. Especially to gain interaction from your audenience. They laugh when you least expect it and planned jokes fall flat. It had alot of fun and it was pretty exhilerating and now a fair amount of mod one have activate power mode.
+I lead a spike configuring your machine with Ben and Matt as co-leads. We basically just went over shortcuts, bash profile settings, hotkeys and snippets. There were close to fourty people in the classroom and gave me a feel for how hard it is to teach. Especially to gain interaction from your audenience. They laugh when you least expect it and planned jokes fall flat. I had alot of fun and it was pretty exhilerating and now a fair amount of mod one have activate power mode. I'm not sure what else to write....
 
 
 #### Pairings
@@ -262,6 +270,7 @@ Vido, I had a great experience pairing with you - your ability to quickly unders
 ### Playing a Part
 
 I lead a spike and had 7 pairing sessions with mod one students. Pairing was probably the most enjoyable part of turing for me this mod other than quantified-self.
+
 
 
 ## Final Review
