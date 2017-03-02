@@ -75,7 +75,7 @@ Violet Teacher is a teacher gradebook and student grade portal of my own design.
 * [GitHub URL](https://github.com/meyerhoferc/bike-share)
 * [Original Assignment](https://github.com/turingschool/bike-share)
 
-(description)
+Bike Share is a sinatra-powered web application used to organize information from bike share stations across San Francisco.
 
 #### Evaluation Notes
 
@@ -120,11 +120,7 @@ Collaboartion and Workflow:
 * [GitHub URL](https://github.com/CjMoore/Weasley-wizarding-wheezes)
 * [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+Weasley's Wizard Wheezes is an e-commerce web applicaion themed on the joke Wizard shop in the Harry Potter series. 
 
 ## D: Professional Skills
 
@@ -160,6 +156,11 @@ The realities of our future economy is that work for pay might not serve the pub
 
 My main takeaway from this session was the idea that an interview with a company should be a two-way interview. I am interviewing them as much as they are me. The process of reflecting and writing for this exercise was helpful in identifying and narrowing down my priorities and dealbreakers. I hope to use it as a guide for targeting company outreach next module.
 
+#### Collaborative Communication
+* [GitHub URL](https://github.com/turingschool/professional_skills/blob/master/module_two/collaborative_communication.md)
+
+This session was given moments before assigning Bike Share, and it couldn't have come at a better time. My main takeaway form this session was the role of communication in leadership. The articles we read and discussed centered on the theme of leadership and decision making by fielding ideas from the group.
+
 #### (Session Name)
 
 * [Workshop URL]()
@@ -176,6 +177,8 @@ During Bike Share, I was the project manager and some strategies we used include
 A moment that changed how I interacted in group settings happened during Bike Share when a group member said to me "I need you to trust me and trust that I can complete this." We were struggling with seeding the database with huge CSVs and were about to call it a night. It was then that I realized I don't often give space to others to try to solve the tough problems and that this can cause others to think I don't perceive them as competent. I've always been a bit of a lone wolf, and I think this module I learned how to trust others' ideas and give them space to learn in the struggle. The Johari Window activity taught me a lot about how others' perceive me, which I think is a form of feedback. It was interesting for me to see traits that I and my peers agreed I exhibit while some traits were only observed from my peers. 
 
 During my portfolio review at the end of module 1, some feedback I received from an instructor was to work on my perfectionism, and I began to explore that area of my identity this module. I think the way in which I grew the most personally this module was being okay with not knowing and becoming more accepting and calm during the learning process. In my personal history, a lot of my identity was built upon the values of knowledge and power in knowing. This module, there was a lot of new material, and in order to get through sanely I learned to embrace the error and embrace the failure in order to become better at what I do. The way I did this was to interact more with people in my cohort and implement a stricter self care routine. I've learned that it's important for me to take care of my mental well being because my mindset affects how I interact with others, and how I interact with others affects their learning process. 
+
+#### Mentor Interactions
 
 ## E: Feedback and Community Participation
 
@@ -230,7 +233,7 @@ So glad to be friends. You're always up for my random Slack messages about LISP 
 
 ### Playing a Part
 
-I paired with module 1 students twice per week and general made myself available to members of my cohort. With Max Glassie, I co-hosted two spike workshops: recursion fundamentals and how interpreters work. 
+I paired with module 1 students twice per week and generally made myself available to members of my cohort. With Max Glassie, I co-hosted two spike workshops: recursion fundamentals and how interpreters work. 
 
 ------------------
 
