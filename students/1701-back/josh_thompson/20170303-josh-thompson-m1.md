@@ -37,7 +37,7 @@ I look forward to the learning to come in the upcoming modules!
 
 |  | Paired Assessment | Timed Exercise | Written Diagnostic |
 | ----- | --- | --- | --- |
-| **Outcome ** | PASS | PASS | PASS |
+| **Outcome** | PASS | PASS | PASS |
 | **Ruby Syntax & API** | 4 | 4 | - |
 | **Completion and Progress** | 3.5 | x | - |
 | **Testing** | 3 | 3 | - |
@@ -99,6 +99,8 @@ I intentionally avoided just copying and pasting code from other students that w
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 3 | X |
+| **Code Sanitation** | n/a | X |
+| **Enumerables & Collections** | n/a | X |
 
 ### Notes
 
