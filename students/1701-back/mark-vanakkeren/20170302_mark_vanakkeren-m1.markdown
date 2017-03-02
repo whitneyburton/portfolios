@@ -49,7 +49,7 @@ While going thru the pentathlon I'm feeling very confident about where I sit on 
 
 | CATEGORY | Credit Check | Date Night | HTTP - You know me |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://http://backend.turing.io/module1/projects/credit_check) | [link](http://http://backend.turing.io/module1/projects/date_night) | [link](http://http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/markyv18/credit_check/blob/master/credit_check.rb) | [link](https://github.com/markyv18/date_night) | [link](https://github.com/markyv18/HTTP) |
 | **Functional Expectations** | 3 | 2.5 | 1 |
 | **Test-Driven Development** | n/a | 4 | 1 |
