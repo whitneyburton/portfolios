@@ -31,7 +31,6 @@ Notes:
 * Tests not super strong -- 15 tests, one failing, not much JavaScript testing
 * Rails implementation seems fine
 * JavaScript is broken into several files
-*
 
 ## Rubric
 
@@ -271,14 +270,21 @@ Vido, I had a great experience pairing with you - your ability to quickly unders
 
 I lead a spike and had 7 pairing sessions with mod one students. Pairing was probably the most enjoyable part of turing for me this mod other than quantified-self.
 
-
-
 ## Final Review
 
-### Notes
+## Rubric Scores
 
-( Leave blanks for reviewers )
+*   **A: End-of-Module Assessment**: 3
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 4
+
+### Notes (From Nate)
+
+- I agree that you didn't find a lot of JS work this module. You got off to a tenacious start with QS, and it could lead into a real understanding of JS with a little more exploration. I encourage you to continue working on it.
+- You've put in a lot of work, and you've impacted a large part of the community inside and outside your cohort, and I want to acknowlege that. Your feedback in consistently highlighting you being a positive influence on the team.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
