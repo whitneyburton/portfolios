@@ -127,4 +127,4 @@ I've enjoyed the overwhelming support and sense of community here at Turing, and
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED
