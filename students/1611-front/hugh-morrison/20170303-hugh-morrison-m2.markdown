@@ -295,8 +295,12 @@ This mod, I've really immersed myself in the Turing community. I continued my in
 
 ### Notes
 
-( Leave blanks for reviewers )
+- in dtr explain the headphones / work process 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
