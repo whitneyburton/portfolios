@@ -19,7 +19,7 @@ I arrived here looking at gaining a skill to then leverage along with my other s
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3.5 |
 | D | **Professional Development** | 4 |
-| E | **Community** | 3.5 |
+| E | **Community** | 3 |
 
 MVA Note:
 While going thru the pentathlon I'm feeling very confident about where I sit on a whole swath of Mod1 topics.  Some areas I want/need to get better on is being able to fluidly build massive ORMs and subsequent databases and to also more fluidly know which methods that best handle the problem I'm trying to solve.
@@ -189,7 +189,7 @@ Whereas in the last mod I worked to help others' emotional states this time, wit
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED
 -----------------------------------------------------------
 ==============================================================================================================
 ===============================================================================================================
