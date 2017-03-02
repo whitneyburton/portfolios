@@ -60,11 +60,11 @@ Notes on Credit Check from Ilana
 | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/samlandfried/Night-Writer) | [link](https://github.com/somedayrainbows/black_thursday) |
-| **Functional Expectations** | 4 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 2.5 | X |
-| **Fundamental Ruby & Style** | 2.5 | X |
-| **Loop or Recursion** | NA | X |
+| **Functional Expectations** | 4 | 4 |
+| **Test-Driven Development** | 3 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 2.5 | 4 |
+| **Fundamental Ruby & Style** | 2.5 | 3 |
+| **Loop or Recursion** | NA | 4 |
 
 #### Assessor Comments
 
@@ -74,7 +74,12 @@ Night Writer notes from Beth
   -    Some really long methods -- refactoring will help in future
   -    Would like to see clearer distinctions between classes
 
-
+Black Thursday notes from Beth
+  -    Great enums: reduce, select, all, map...Choosing appropriate options based on needs
+  -    Some long methods, opportunities for refactoring
+  -    Submitting PR for inconsistencies in 5
+  -    Solid testing, unit and integration testing covered
+  -    Encapsulation: broke out ClassMethods and RepositoryMethods modules
 ## D: Professional Development
 
 ### Define-the-Relationship (DTR)
@@ -96,7 +101,32 @@ Feedback from partner projects.
   I want to thank you for a successful week of collaboration. You helped me achieve my goal of starting a project with a top-down approach — looking at the big picture idea before executing. You also kept us organized, and I feel like I learned a lesson about the value of budgeting time from you. It was also a relief to have frequent, frank conversations about our collaboration. That level of communication was helpful in navigating new terrain for both of us. To repeat a bit from one of those conversations, I think you would be well served by cementing a strong, fundamental understanding of Ruby, and it sounds like you're taking steps to achieve that. For future collaboration, continuing to be assertive with your needs will be helpful to any group, I'm sure. I'm proud of the work we did together, and I like that we executed a unique solution to the challenge, which was your brainchild. I look forward to seeing more cool ideas from you and just hanging out around Turing. Feel free to reach out if you ever want another pair of eyes on your code.
 
 *   Black Thursday (Erin Bassity):
-Forthcoming!
+  
+  **From Erin**
+
+  Dear Sam,
+
+  I loved working with you on this project. I appreciate your commitment to me as your partner and to this project, and I also appreciate you letting me drive so much so that I could gain the significant experience I took away from this project. It’s clear to me that you are very invested in overall team success and project experience.
+    
+  Your strengths include:
+  - Super positive
+  - Flexible attitude
+  - Easy going
+  - Knowledgeable about various Ruby methods
+  - Creative in writing code
+  - Patient
+  - Communicative and open
+
+  Things you need to work on:
+  - Not a thing! I would have put TDD if we were at the beginning of the project, but you’re an old pro at it now.
+
+  Thanks for an excellent project/partner experience. I really hope we get to work together again!
+
+  Erin
+
+  **To Erin**
+
+  It was a joy working with you! I appreciated your commitment to having a successful collaboration experience. Our daily retros helped us calibrate our shared time and project strategy, which was awesome and productive. I believe we spent virtually every minute of work time on this project together, which was a first for me. I value constructive feedback at moments like these, but I'm struggling to think of anything I think you could have done differently to improve our experience. As far as your personal development with code goes, I think you're making swift progress through new terrain, and it's clear that you're not limited by algorithmic thinking or any higher-order concepts. The walls you hit always seemed to be about syntax issues and Ruby functionality, and those will recede as you continue engaging the language. So I guess my only advice for the future is keep on trucking! I look forward to working with you on future projects.
 
 ### Job Prep
 
