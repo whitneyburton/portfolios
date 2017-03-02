@@ -196,8 +196,14 @@ Other feedback will be provided in person.
 
 ### Notes
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: 3.5
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3
+D: Professional Development: 4
+E: Feedback & Community Participation: 3
 
 ### Outcome
+
+Promoted!
 
 ( Leave blanks for reviewers )

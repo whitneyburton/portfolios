@@ -1,8 +1,9 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Nick Chambers - (M4) Portfolio
 
 ## Areas of Emphasis
 
 I was originally hoping to get a job so I wouldn't have to take the final assessment and could drop out early, but then I learned that writing back-end JavaScript was a whole lot of fun. I felt like I was able to round out my knowledge well with two projects in React/Redux and two in VanillaJS with jQuery. All the back-end and database experience with Express and Knex/Postgres was really illuminating as well. I feel confident as I head out into the world and convince someone to pay me to do this stuff. I can't believe how much I've learned and how much more cool stuff there is still to learn. Thanks, Turing!
+
 ## Rubric Scores
 
 *   **A: End-of-Module Assessment**: Pending
@@ -16,8 +17,6 @@ I was originally hoping to get a job so I wouldn't have to take the final assess
 ## A: End of Module Assessment Status
 
 😍Pending😍
-
-
 
 ## C: Group Work & Projects
 
@@ -82,6 +81,7 @@ A MVP built in React/Redux, Express, and Postgres for an admin user to help mana
 In module four, unemployed life is nigh, so we had to keep those professional skills sharp! 
 
 ### Gear Up
+
 #### Automation
 - This topic generated some of the most interesting conversation for a gearup thus far (second only to Microaggressions). It wasn't a topic I had engaged with thoroughly before. It got me thinking, turned me on to some good new reads (Four Futures by Peter Frase), and I had fun engaging with some libertarian smooth brains. I realized that I better get my JavaScript skills leveled up quickly, because those robots are coming for my job. 
 
@@ -128,8 +128,12 @@ In module four, unemployed life is nigh, so we had to keep those professional sk
 
 ### Notes
 
-( Leave blanks for reviewers )
+*   **A: End-of-Module Assessment**: Pending
+*   **B: Individual Work & Projects**: N/A
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3.5
+*   **E: Feedback & Community Participation**: 4
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending
