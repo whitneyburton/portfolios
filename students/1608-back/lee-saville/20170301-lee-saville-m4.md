@@ -18,10 +18,10 @@ This module I set out to learn javascript and experience the change of perspecti
 
 Reviewer: Jeff
 
-[Hotreads repo](https://github.com/lsaville/final_hot_reads)<br>
-[Hotreads production](https://sheltered-springs-63378.herokuapp.com/)<br>
-[URLockbox repo](https://github.com/lsaville/final_assessment_urlockbox)<br>
-[URLockbox production](https://calm-fjord-11043.herokuapp.com/links)
+* [Hotreads repo](https://github.com/lsaville/final_hot_reads)<br>
+* [Hotreads production](https://sheltered-springs-63378.herokuapp.com/)<br>
+* [URLockbox repo](https://github.com/lsaville/final_assessment_urlockbox)<br>
+* [URLockbox production](https://calm-fjord-11043.herokuapp.com/links)
 
 Notes:
 
@@ -283,7 +283,7 @@ I have worked with Lee for over a month on Monocle and LookingFor projects. He h
 
 This module I was able to support the larger Turing community in a number of ways. In addition to some basic household things like emptying or loading the dishwasher:
 
-* I co-hosted a spike session with Ryan about Vim before he left to start at his new job. We had a surprisingly high attendence and were able to split into two groups, one that was working on things at a basic first-time level and another group that worked on more advanced topics like plugins and more complex motion/action combinations.
+* I co-hosted a spike session with Ryan about Vim before he left to start at his new job. We had a surprisingly high attendance and were able to split into two groups, one that was working on things at a basic first-time level and another group that worked on more advanced topics like plugins and more complex motion/action combinations.
 
 * I paired with Max Glassie several times, once on Feb. 22 where we talked about the Ruby Design Patterns book and another time Feb. 23 where we paired on some capybara css syntax.
 
@@ -313,15 +313,21 @@ In a macabre way, the decision to be a part of the tech industry is a decision t
 #### [Universal Basic Income](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 
 Universal Basic Income doesn't really seem like the solution to such a societal upheaval as the automation of most human endeavors seems to suggest. It is also very unclear who will be the entity paying all the people their monthly dues. I'm sure that I don't know the solution to the whole thing. UBI is some sort of attempt to justify the implementation of automation in every corner of life. 'It will free us to do the things that matter'. I wonder how deeply engrained the idea of work is in the human psyche. Would people without jobs be able to find the meaning they need to be relatively content?
-  
+
 ------------------
 
 ## Final Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Assessment is strong, but the documentation gap
+* Covered doc gap by reworking readmes of group projects
+* Sounds like good work with Faker/Operation Code
+* Group work is really strong except for LookingFor -- it was almost good.
+* Kudos on turning off notifications ;)
+* Good job on the feedback and community support
+* Overall you did strong work this module. Thanks!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
