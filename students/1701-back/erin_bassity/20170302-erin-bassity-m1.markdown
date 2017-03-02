@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I came to Turing to learn how to write code, but also to think more logically and develop technical ability. Borrowing from the mod 1 introduction in week one, I updated my goals to include the following: to gain a working proficiency in Ruby, test-driven development, application complexity, debugging, version control, and command of my desktop environment. I also wanted to better develop my existing skills in collaboration.
+I came to Turing to learn how to write code, but also to think more logically and develop technical ability. Borrowing from the mod 1 introduction in week one, my overall goals for mod 1 were to gain a working proficiency in Ruby, test-driven development, application complexity, debugging, version control and command of my desktop environment. I also wanted to better develop my skills in collaboration.
 
 ## Self-Assessment Scores
 
@@ -26,18 +26,25 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | Independent Timed Assessment | pass |
 | Diagnostic | pass |
 
+#### Assessor Comments
+
+*   Pairing assessment: Got through IT2 talked about using docs more and using pry more efficiently.
+*   Diagnostic: A couple small misses but overall nice job.
+*   Independent time assessment: Great, clean code throughout; try to cleanup leftover prys before submitting; tests are exceptionally clean and concise; looks like you were making a good effort towards iteration 3; could use some edge case testing throughout, but overall testing looks good.
+
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Flashcards | HTTP, Yeah You Know Me |
+| CATEGORY | Credit Check | Flashcards | HTTP |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](hhttps://github.com/somedayrainbows/homework/blob/master/credit_check.rb) | [link](https://github.com/somedayrainbows/flashcards) | [link](https://github.com/somedayrainbows/http-project) |
 | **Functional Expectations** | 3 | 2 | 2 |
-| **Test-Driven Development** | n/a | 3 | 3 |
+| **Test-Driven Development** | N/A | 3 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 2 | 2 | 3 |
 | **Fundamental Ruby & Style** | 2 | 3 | 3 |
-| **Loop or Recursion** | n/a | 3 | n/a |
+| **Loop or Recursion** | N/A | N/A | N/A |
+| **Enumerable & Collections** | N/A | 3 | N/A |
 
 
 ## C: Group Projects
@@ -46,11 +53,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/BethKnight1234/knight_rider) | [link](https://github.com/somedayrainbows/black_thursday) |
-| **Functional Expectations** | 2 | X |
-| **Test-Driven Development** | 4 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 2 | X |
-| **Loop or Recursion** | N/A | X |
+| **Functional Expectations** | 2 | 4 |
+| **Test-Driven Development** | 4 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 4 |
+| **Fundamental Ruby & Style** | 2 | 3 |
+| **Loop or Recursion** | N/A | N/A |
+| **Enumerable & Collections** | N/A | 4 |
+| **Code Sanitation** | N/A | 4 |
 
 
 ## D: Professional Development
@@ -65,25 +74,23 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Feedback from partner projects:
 
-- Project 1 (Beth Knight):
+* Project 1 (Beth Knight):
   ```
   Dear Erin: Here is why you are amazing… You came in on the weekend to work with me. Our communication was completely open. I never felt like we butted heads. Instead, you listen and gave feedback like a champ. When we got stuck, you reached out to people. The file.io was incredibly hard and you took it on. I think you acknowledge where you are not clear and seek help. Here is what you need to work on… Writing more code. I feel like I stole your learning by taking over most of night_writer.rb.
   ```
-*   Project 2 (Sam Landfried)
-
+* Project 2 (Sam Landfried)
   ```
-  notes from Sam
+  It was a joy working with you! I appreciated your commitment to having a successful collaboration experience. Our daily retros helped us calibrate our shared time and project strategy, which was awesome and productive. I believe we spent virtually every minute of work time on this project together, which was a first for me. I value constructive feedback at moments like these, but I'm struggling to think of anything I think you could have done differently to improve our experience. As far as your personal development with code goes, I think you're making swift progress through new terrain, and it's clear that you're not limited by algorithmic thinking or any higher-order concepts. The walls you hit always seemed to be about syntax issues and Ruby functionality, and those will recede as you continue engaging the language. So I guess my only advice for the future is keep on trucking! I look forward to working with you on future projects.
   ```
-
 
 
 ### Job Prep
 
-*   LinkedIn profile: [Link](http://example.com)
-
+*   [LinkedIn Profile](https://www.linkedin.com/in/erinbassity/)
 
 
 ## E: Community
+
 
 ### Gear Up
 
