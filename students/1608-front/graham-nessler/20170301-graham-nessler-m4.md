@@ -291,8 +291,12 @@ Feedback to and from peers: [Google Doc](https://docs.google.com/document/d/1LlF
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: Pass  
+* **B: Individual Work & Projects**: 4 
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Development**: 3.5
+* **E: Feedback & Community Participation**: 3.5
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
