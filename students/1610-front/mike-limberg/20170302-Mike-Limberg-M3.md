@@ -235,11 +235,11 @@ My only constructive feedback is actually similar to yours - just to be aware of
 
 I would gladly partner up with you again and hope we get that opportunity on a more substantial project in Mod4.  You are a great programmer and teammate.
 
-**From Person**
+**From Justin on Rotten Tomatoes**
 
-Feedback
+Mike is easily one of the most driven individuals in our cohort.  His focus and determination were huge assets while working on our movie tracker redux project. Additionally, he’s exclusively been the only person to be a catalyst in my learning here at Turing. Mike's professionalism and hardwork helped produce a project that I'm proud of. I would happily work with him again and hope to in the future.
 
-**From Person**
+**From Buss on Rotten Tomatoes**
 
 Feedback
 
