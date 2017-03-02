@@ -235,7 +235,7 @@ I appreciate that Turing teaches us to undertake the growth, rather than fixed, 
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
-Interesting outlook on learning - mastering few subjects at a time, rather than burning your cognitive resources at all  times. Didn't fully understand this concept at first, but after some time it made a lot of sense to me how that technique can be a very helpful learning tool. 
+Interesting outlook on learning - mastering few subjects at a time, rather than burning your cognitive resources at all  times. Didn't fully understand this concept at first, but after some time it made a lot of sense to me how this technique can be a very helpful learning tool. 
 
 #### Managing Stress and Coping Mechanisms
 
