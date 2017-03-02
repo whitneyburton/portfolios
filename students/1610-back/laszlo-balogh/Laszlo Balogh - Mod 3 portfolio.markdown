@@ -207,6 +207,10 @@ I was fortunate to work with Ethan on our Cloney Island project: first time work
 He is ready to share his opinion backed by facts, so one should always listen when he suggests a solution as there are a well thought through reasoning behind that goes along with already experimenting with the solution himself.
 Coming prepared with his own suggestion, yet Ethan is always open to listen to other suggestions, evaluate other suggestions, adjust if needed based on the team decision and fully support the team decision going forward.
 
+To David Knott after Cloney Island project:
+This has been my second time to work on a project with David. I think our feedback to each other from our Black Thursday project was helpful as from a Git flow point of view our work has been that much smoother and more efficient.
+David is still a very hard worker. He gives 110% and always comes back with initial implementations of the complex issues, such as Two-Factor authentication or Google OAuth. He seems to enjoy very much being in the lead to crack the complex tasks. With the right team structure, David would be thriving without any doubt.
+
 ### Being a Community Member
 
 From Amy Kintner after RailsEngine project:
