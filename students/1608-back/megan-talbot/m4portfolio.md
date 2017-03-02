@@ -6,11 +6,11 @@ During this module, my principal goal was to prepare myself for my career as a s
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -271,6 +271,10 @@ I was happy to be co-lead of the Bezos Posse with Jon Kimble this module. We hav
 I think Bezos always ebbs and flows in popularity, and I think now it a slight downtime in that sense. However, I got an immmense amount of value out of Bezos and leading the posse. I will always look back fondly on my time as a posse lead.
 
 I also paired 4 times with module 1 students, as seen on this [spreadsheet](https://docs.google.com/spreadsheets/d/1rXraG4hds_hUB2rskdeS2Hy1LS3XumXBlFnQKhP3AGI/edit#gid=0). It was actually a lot of fun to pair with mod 1 and refresh Ruby, and I was impressed with every person with whom I worked.
+
+Additionally, I again took part in all Joan Clarke Society meetings, which I always find great value in. 
+
+I was also again a pre-work guide, and I love to talk to incoming studnets about things like setting up environments, as it makes me very aware of how far I've come!
 
 
 ------------------
