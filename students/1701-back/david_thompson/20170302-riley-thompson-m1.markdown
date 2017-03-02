@@ -75,7 +75,7 @@ Would like to see some edge case testing.
 
 *   Project 1 (Jonathan Kidd)
 
-Had a great time working on this project with you. It seems like you have a knack for diving into complex problems, and somehow holding it all in your head at once. You were committed to the outcome while being good natured and easy to work with. I think we had a good flow when things were happening. In retrospect we may have stayed mired in problems for too long (1 + hour) before asking for help. I think asking for help or pairing sooner could have left us more time to polish in the end. I also think more time pseudo coding in a deeper way may have helped, rather than diving right into to problems. We did a good job planning big-picture solutions, but not much time mapping exactly how we would get there.
+ Had a great time working on this project with you. It seems like you have a knack for diving into complex problems, and somehow holding it all in your head at once. You were committed to the outcome while being good natured and easy to work with. I think we had a good flow when things were happening. In retrospect we may have stayed mired in problems for too long (1 + hour) before asking for help. I think asking for help or pairing sooner could have left us more time to polish in the end. I also think more time pseudo coding in a deeper way may have helped, rather than diving right into to problems. We did a good job planning big-picture solutions, but not much time mapping exactly how we would get there.
 
 
 *   Project 2 (Maria Stenquist)
