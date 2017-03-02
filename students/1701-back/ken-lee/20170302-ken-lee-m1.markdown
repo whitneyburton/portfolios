@@ -36,12 +36,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | ----- | ----- | ----- | ----- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
 | **Github** | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/credit_check/ken-lee/credit_check.md) | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/flashcards/ken_lee/rubric.md) | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/http/ken-lee/rubric.md) |
-| **Functional Expectations** | 3 | 3 | X |
-| **Test-Driven Development** | n/a | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 2.5 | 3 | X |
-| **Fundamental Ruby & Style** | 3 | 3 | X |
-| **Loop or Recursion** | n/a | 3 | X |
-| **Enumerable & Collections | n/a | 3 | X |
+| **Functional Expectations** | 3 | 3 | n/a |
+| **Test-Driven Development** | n/a | 3 | n/a |
+| **Encapsulation/Breaking Logic into Components** | 2.5 | 3 | n/a |
+| **Fundamental Ruby & Style** | 3 | 3 | n/a |
+| **Loop or Recursion** | n/a | 3 | n/a |
+| **Enumerable & Collections | n/a | 3 | n/a |
 
 #### Notes
 
@@ -78,7 +78,7 @@ Ken, I’m amazed by your commitment to code every day against all challenges. W
 ### Job Prep
 
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education:
-[Link](https://www.linkedin.com/feed/)
+[Link](https://www.linkedin.com/in/ken-lee-882bb23/)
 
 ## E: Community
 
