@@ -250,8 +250,12 @@ Another consistent thread to this module has been the time we have spent interac
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted
