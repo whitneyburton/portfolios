@@ -8,13 +8,13 @@
 ## Self-Assessment Scores
 ##### Module 1
 
-| Section | Category | Score |
-| --- | ----- | --- |
-| A | **End-of-Module Assessment** | 3 |
-| B | **Individual Projects** | 3 |
-| C | **Group Projects** | 3 |
-| D | **Professional Development** | 3 |
-| E | **Community** | 4 |
+| Category | Score |
+| ----- | --- |
+| **End-of-Module Assessment** | 3 |
+| **Individual Projects** | 3 |
+| **Group Projects** | 3 |
+| **Professional Development** | 3 |
+| **Community** | 4 |
 
 
 ------------------------------------------------
@@ -33,17 +33,13 @@
 
 | CATEGORY | Credit Check | Flashcards | HTTP |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
-| **Github** | [link](https://github.com/mariastenquist/projects) | [link](https://github.com/mariastenquist/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Project Spec** | [Link](http://backend.turing.io/module1/projects/credit_check) | [Link](http://backend.turing.io/module1/projects/flashcards) | [Link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Github** | [Link](https://github.com/mariastenquist/projects) | [link](https://github.com/mariastenquist/flashcards) | [Link](https://github.com/mariastenquist/http_yykm) |
 | **Functional Expectations** | 3 | 3 | 2 |
 | **Test-Driven Development** | N/A | 3 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 | 2 |
 | **Fundamental Ruby & Style** | 3 | 3 | 3 |
 | **Loop or Recursion** | 3 | 3 | N/A |
-
-#### Notes
-
-*   Notes (if applicable)
 
 ------------------------------------------------
 
@@ -53,16 +49,11 @@
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/mariastenquist/night_writer) | [link](https://github.com/ryt11/black_thursday) |
-| **Functional Expectations** | 3 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | N/A | X |
-
-
-#### Notes
-
-*   Notes (if applicable)
+| **Functional Expectations** | 3 | 3 |
+| **Test-Driven Development** | 3 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 4 |
+| **Data Sanitation** | N/A | 4 |
 
 ------------------------------------------------
 
@@ -70,19 +61,19 @@
 
 ### Define-the-Relationship (DTR)
 
-[Link](https://turingschool.slack.com/files/mstenquist/F441MPAEL/dtrnightwriter.pages) to DTR Memo for Night Writer paired project.
+[Link](https://turingschool.slack.com/files/mstenquist/F441MPAEL/dtrnightwriter.pages) to DTR Memo for the Night Writer paired project.
 
 ### Pair Feedback
 
-Feedback from partner projects.
+*   Project 1 (Night Writer)  |  Feedback from Craig Ness:
 
-*   Project 1 (Night Writer) | Feedback from Craig Ness:
-```  Maria was a great partner to work with. While I tended to get lost in the fine details of the code, she was able to keep track of the broader picture and scope and keep us moving in a positive direction. Whenever we got stuck for too long, she took initiative and sought out resources (mentors, upper-mod students) or took us through a white-boarding session that always got us back on track. Without this, our project would have stalled while we both stared at the same lines of code over and over again. Maria was also excellent at spotting potential roadblocks that our coding approach would create, had we continued with that approach. Many times I would find myself trying something only to have Maria point out why that way might not be the best way further down the road. She was able to save us both time and energy during these instances, and I found it unbelievably helpful. There were a few times when I wished that perhaps she took the driver’s role a bit more, because often times it helps to step away from coding and watch someone else work for awhile, but our pairing strategy worked as we were able to implement all functionality from the specs into our project. Trying different pairing techniques might have helped us achieve this functionality at a faster pace, or with better TDD however. Finally, she was also great at coordinating Git and GitHub, and really helped me through that whole aspect of the project. Overall, I had a truly positive experience working with Maria, and I think our final product is definitely something to be proud of!  ```
+```Maria was a great partner to work with. While I tended to get lost in the fine details of the code, she was able to keep track of the broader picture and scope and keep us moving in a positive direction. Whenever we got stuck for too long, she took initiative and sought out resources (mentors, upper-mod students) or took us through a white-boarding session that always got us back on track. Without this, our project would have stalled while we both stared at the same lines of code over and over again. Maria was also excellent at spotting potential roadblocks that our coding approach would create, had we continued with that approach. Many times I would find myself trying something only to have Maria point out why that way might not be the best way further down the road. She was able to save us both time and energy during these instances, and I found it unbelievably helpful. There were a few times when I wished that perhaps she took the driver’s role a bit more, because often times it helps to step away from coding and watch someone else work for awhile, but our pairing strategy worked as we were able to implement all functionality from the specs into our project. Trying different pairing techniques might have helped us achieve this functionality at a faster pace, or with better TDD however. Finally, she was also great at coordinating Git and GitHub, and really helped me through that whole aspect of the project. Overall, I had a truly positive experience working with Maria, and I think our final product is definitely something to be proud of!  ```
 
-*   Project 2 (Black Thursday) | Feedback from Riley Thompson:
-```Working with Maria on Black Thursday has been a rewarding experience. Throughout the duration of this project Maria stayed  punctual and respective of my time. She did everything in her power to make sure any design decisions we made were both agreed upon by each other, and was more than understanding and courteous,  when I would sometimes take us down  crazy rabbit holes of unnecessary algorithmic thinking, which by nature, stymied progress.
+*   Project 2 (Black Thursday)  |  Feedback from Riley Thompson:
+
+``` Working with Maria on Black Thursday has been a rewarding experience. Throughout the duration of this project Maria stayed  punctual and respective of my time. She did everything in her power to make sure any design decisions we made were both agreed upon by each other, and was more than understanding and courteous,  when I would sometimes take us down  crazy rabbit holes of unnecessary algorithmic thinking, which by nature, stymied progress.
 I became ill at the start of the project and Maria supported and encouraged my absence (which detracted from our total available work time) in order to convalesce, so that I could come back the next week with enough energy to begin working on the project. Not only that, but she later became ill as well. She was able to work through the sickness and still contribute great value while not feeling her best.
-I very much enjoyed our pairing dynamic, and while pairing is not my favorite activity I did not mind it, and even enjoyed it through out our time working together, and I appreciated Maria’s initiative to schedule pairing sessions which improved the quality of our project greatly. I would recommend Maria as a partner to anyone.```
+I very much enjoyed our pairing dynamic, and while pairing is not my favorite activity I did not mind it, and even enjoyed it through out our time working together, and I appreciated Maria’s initiative to schedule pairing sessions which improved the quality of our project greatly. I would recommend Maria as a partner to anyone. ```
 
 
 ### Job Prep
@@ -133,16 +124,15 @@ Code: Debugging the Gender Gap
 * [Link](https://gist.github.com/mariastenquist/bf4349ea8a04f6dc30e7aff52617745d) to Session 5 Reflection 
 
 ### Community Participation
-(insert description of how you've contributed to the Turing community)
-(ways you supported the larger Turing community)
--Participated in Hamilton Posse, came up with a project idea (to work on within the posse)
--Participated in Imposters Lunch
--Enjoyed meeting new people in the Lunch Roulettes
--Checked-in with fellow students, and provided emotional/encouragment support to others
--Led a few Mythical Creatures/other drills sessions for students that requested them
--Shared my lightning talk with students that were further interested in the topic, made myself available to chat further on the topic
--revamped a fellow student's resume
--on-going support for a couple Turing alums/student that left the program in regards to sharing contacts for the job-hunt
+
+* Participated in Hamilton Posse, came up with a project idea (to work on within the posse)
+* Participated in Imposters Lunch
+* Enjoyed meeting new people in the Lunch Roulettes
+* Checked-in with fellow students, and provided emotional/encouragment support to others
+* Led a few Mythical Creatures/other drill sessions for students that requested them
+* Shared my lightning talk with students that were further interested in the topic, made myself available to chat further on the topic
+* revamped a couple students' resumes
+* on-going support for a couple Turing alums/students in regards to connecting contacts/companies for career opportunities
 
 -------------------------------------------------------------
 
