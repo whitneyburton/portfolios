@@ -95,12 +95,12 @@ I intentionally avoided just copying and pasting code from other students that w
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/josh-works/night_writer) | [link](https://github.com/josh-works/black_thursday) |
-| **Functional Expectations** | 2 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 3 | X |
-| **Code Sanitation** | - | X |
-| **Enumerables & Collections** | - | X |
+| **Functional Expectations** | 2 | 3 |
+| **Test-Driven Development** | 3 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 4 |
+| **Code Sanitation** | - | 4 |
+| **Enumerables & Collections** | - | 4 |
 
 ### Notes
 
@@ -112,6 +112,14 @@ The hardest point was keeping the DAL straight in our heads. We eventually worke
 
 I learned a lot about test setup, and got some help from Jason with some modules related to testing. I learned a lot in that, too. :)
 
+#### Black Thursday Instructor Comments (Assessed by Lauren)
+
+> * great use of rake tasks, minitest setup
+
+> * memoization used throughout
+
+> * tests against actual data
+
 
 ## D: Professional Development
 
@@ -122,8 +130,6 @@ I learned a lot about test setup, and got some help from Jason with some modules
 - [Black Thursday DTR](https://docs.google.com/document/d/1yXr73LzLVie56rvE4l4tpZc_MiCOawZrkej5uDvrgOI/edit?usp=drive_web): DTR Memo from Black Thursday project with Brett Schwartz
 
 ### Pair Feedback
-
-Feedback from partner projects.
 
 #### Project 1: Night Writer (Seth Mo)
 
