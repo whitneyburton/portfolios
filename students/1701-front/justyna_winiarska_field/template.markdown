@@ -154,11 +154,19 @@ Good, extensive pracitce of jQuery.
 #####Evaluator: Louisa
 
 Functional Expectations
-4: Application meets all of the functional expectations in Phase Three. ### Fundamental JavaScript Style
-3: Application shows strong effort towards organization, content, and refactoring. ### Workflow
-3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base. ### HTML Style
-3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. ### CSS Style
-3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+- 4: Application meets all of the functional expectations in Phase Three. 
+
+Fundamental JavaScript Style
+- 3: Application shows strong effort towards organization, content, and refactoring.  
+
+Workflow
+- 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base. 
+
+HTML Style
+- 3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+CSS Style
+- 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 Feedback from John: Working with Justyna was great.  We had wonderful give and take, and we agreed up front that no one would fall behind.  I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me.  Our communication was excellent, and we were consequently able to stop any arguments before they even started.  I would be happy to work with her again.
 
