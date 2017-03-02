@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I was looking to get a basic knowledge of the fundamentals of coding. I was looking forward to learning CSS, concepts of design, Javascript and HTML. I was also hoping to learn to cope better with the stress and fast pace that I knew to expect from Turing.
 
 ## Rubric Scores
 
@@ -215,7 +215,9 @@ To Leta Keane: "Thank you for being such a great project partner. IdeaBox was on
 
 ### Being a Community Member
 
-(feedback to me)
+From Nik Bornemeier: I feel like we worked very well together and you were great as a project partner. Your Javascript/Jquery understanding was exceptional and you were able to explain anything to me that I did not understand. I think you will be a great developer both while at Turing and after. Let me know if you ever need anything.
+
+From Travis Gregory: Spencer has been a great asset to me throughout mod 1. He has always been up to the challenge of helping me when I was struggling through a problem and has also been a great sounding board for ideas and for letting me talk through things. I look forward to working with spencer on projects in the future.
 
 ### Playing a Part
 
