@@ -16,8 +16,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ####End of Mod Assessment 
 
 * Evaluator: Nathaniel 
-* Notes:
-* Rubric:
+* Notes: Passed 
 
 ####Weatherly Assessment
 
