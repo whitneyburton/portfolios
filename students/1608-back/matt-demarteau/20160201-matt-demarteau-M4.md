@@ -9,11 +9,11 @@ In the previous module, I had to work hard to review my process and make sure I 
 
 ## Rubric Scores 
 
-*   **A: End-of-Module Assessment**: Pass/Fail/Pending
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**: Pass
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
 
 -----------------------
 
