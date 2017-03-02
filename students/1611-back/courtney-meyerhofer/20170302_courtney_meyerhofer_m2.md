@@ -161,12 +161,11 @@ My main takeaway from this session was the idea that an interview with a company
 
 This session was given moments before assigning Bike Share, and it couldn't have come at a better time. My main takeaway form this session was the role of communication in leadership. The articles we read and discussed centered on the theme of leadership and decision making by fielding ideas from the group.
 
-#### (Session Name)
+#### Feedback II
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/feedback_ii.md)
 
-(takeaways from session)
+I found this session to be one of the most interesting sessions so far at Turing. The Johari Window gave me an opportunity to receive honest feedback from my peers, and I found that very valuable.
 
 #### Reflection on Project Management Strategies
 
