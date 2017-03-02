@@ -71,6 +71,8 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 ### Pair Feedback
 
 *   Project 1 (Jack Pincus): 
+
+    Feedback from Jack:
     
     3 strengths
   + Great code organization and eye for detail
@@ -81,13 +83,34 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 
 
     3 areas of improvement
-  + It would have been better if we had been able to get to coding earlier instead of waiting later in the week. I feel like this was a mutual thing
-  + Learning to really use TDD would have been a great thing. Coming into this project, it felt like we both had a bad grasp of TDD, and at the end it felt like we had a basic grasp that really helped the second half of the project
-  + Speak up more when your partner starts making things way too complicated
-*   Project 2 (Sergey Lukyanenko): lorem ipsum
+    + It would have been better if we had been able to get to coding earlier instead of waiting later in the week. I feel like this was a mutual thing
+    + Learning to really use TDD would have been a great thing. Coming into this project, it felt like we both had a bad grasp of TDD, and at the end it felt like we had a basic grasp that really helped the second half of the project
+    + Speak up more when your partner starts making things way too complicated
+
+    Feedback for Jack:
+    Strengths
+    + Really strong ability to turn algorthimic concepts into functional code.  I could suggest an idea and you would quickly implement it in the program.
+    + Great time management, time spent coding was focused with few distractions.  
+    + We figured out a basic github workflow. No catastrophes.
+    + File IO master.
+    + Overall a really positive pairing experience.
+    
+Opportunities for Improvement
+    + Slow down and commit to TDD. We both struggled with this and probably enabled each other in neglecting it.  Once we tried to implement we made good progress.  We both clearly have a lot more too learn about TDD.
+    + You might be able to combat overly-complicated-method syndrome by talking through these methods with your pair.  You have an impressive ability to make it "do the thing" but there were a few methods in our project that I never really got a full grasp of how they worked.  As you mentioned, I definitely should have been more proactive about speaking up when that occurred.
+
+*   Project 2 (Sergey Lukyanenko):
+
+    Feedback from Sergey:
+
     It’s been a very productive and joyful time to work with Nick. His dedication and passion for coding is a big part of his life. He put a lot of effort and time into our project. During our project time Nick showed great skills in working with a large amount of data and connecting multiple objects together into working methods and classes. He has a clear vision of the problems that need to be solved and quickly finds a solution by using all available tools.
     He is very friendly and openminded. Nick never hesitates to ask for advice from students around and willingly offers his support and knowledge to others.
     I look forward to working with Nick on future projects and wish him success in pursuing his goals.
+
+    Feedback for Sergey:
+
+
+    Overall I’m pretty happy with how this project turned out.  I wish we had a couple more days to polish it but I think that will be the case with every project.  I was really impressed with your stamina and attitude during the project.  You were always willing to stay late and work as hard as we needed to.  I think you did really good at organizing work time and setting up pairing sessions.  I didn’t take advantage of pairing with mentors in the past and I’m glad you showed me how helpful is can be.  I also really admired your desire to have a deeper understanding of the way things worked within our code.  The questions you asked were consistently driving development and helped us gain a better understanding of the project.
 ### Job Prep
 
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/nicholas-jacques-5b830082/)
