@@ -105,13 +105,13 @@ The project will be assessed with the following rubric:
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-(takeaways from session)
+ I found this session very interesting. Coming from an accounting background that, to me, seemed fairly diverse it's been quite a change being presented with a tech social education. The parabable of the polygons was an intriguing way to present the case for how small micro-stereotypes and views leading to large consequences when held en masse. According to PotP, this leads to segregation. While I found the session engaging, I would have liked to see more empirical evidence support some of the vast assertions that were being made. I'm in no way discounting it, I just love data and am interested in the underlying support behind the session and website. I felt that discussion during this session was some of the most engaging that our cohort has had during a gear up. 
 
 #### (Debugging the Gender Gap)
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
 
-(takeaways from session)
+ There's only one word to describe this documentary: illuminating. There was an incredible amount info packed into this film on sexism in the tech industry. As previously stated, my former profession was fairly diverse. The M/F ratio in accounting stands at about 50/50 . It has been quite a shock to be introduced to this apparently rampant problem within the tech industry. Turing's education on the matter has been stellar thus far and the action behind their words of inclusiveness is on display daily at school. My biggest regret surrounding this gear up was the amount of time we had for discussion. The movie was incredibly engaging, yet we only had 10 or 15 minutes to discuss the compendium of knowledge that had just been dropped on us. I feel that many people felt this way, and that the next group to watch this would greatly benefit from an extended discussion session. This session represents the kind of social lessons that we need to be concscious software developers on the right side of change. I hope Turing continues to show this documentary and foster a rich medium for social growth and discussion.
 
 #### (Universal Basic Income)
 
@@ -119,39 +119,28 @@ The project will be assessed with the following rubric:
  
  I think that a Universal Basic Income is a novel concept, but is just that...a concept. I believe that we are still substantially far off as a civilization from being fully autonomous. I also believe that right now there are much more pressing issues than implementing UBI. I am a huge proponent for education, and I beleive that this country should fix it's education system and fully fund it through higher-ed. Providing people the tools with which to better themselves, regardless of their economic disposition, is the key to the near future. Uneducated, non-working, people cost our economy money while educated people pay enormous dividends on the economy in relation to their investment in education. I believe that if UBI was to be implemented, it would certainly have to be contingent upon some sort of civil service. In the same vein, things like illegal immigration would need to be addressed in some capacity as you can't deny millions of workers access to gov't help if you're giving it to the vast majority of the nation.
 
-### PROtocol
-#### (Session Name)
-
-*   [Link to Completed Deliverables]()
-
 ### Professional Development Workshops
 #### (Flower Exercise)
 
 *   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
 *   [Link to Completed Deliverables](https://docs.google.com/document/d/16sqwlqqF9lTeVCIYCpvVl-0FUKuKr7cPwW4ut4eHfDM/edit)
 
-(takeaways from session)
-
-#### (Johari Window)
- 
- - I have mixed feelings about this session. On one hand, I didn't receive any negative feedback and wasn't really surprised by the feedback I did receive. On the other hand, some people were genuninely hurt by the traits that a previous partner had picked for them. I realize that being able to accept critical feedback is crucial to social and professional development, but seeing more than one member of the cohort disturbed/distraught wasn't pleasant. On the plus side, it was a positive affirmation that I'm not a "bad" team member. I work hard to do my best and provide support to the team and I think that's showed through. 
-
 #### (Feedback II)
 
 *   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/feedback_ii.md)
 
-(takeaways from session)
+ - I have mixed feelings about this session. On one hand, I didn't receive any negative feedback and wasn't really surprised by the feedback I did receive. On the other hand, some people were genuninely hurt by the traits that a previous partner had picked for them. I realize that being able to accept critical feedback is crucial to social and professional development, but seeing more than one member of the cohort disturbed/distraught wasn't pleasant. I guess I would say that I value 1 on 1 honest, in person, feedback to anonymous feedback. When presented with the other side of the story, one can make a more pointed effort to improve themselves. On the plus side, it was a positive affirmation that I'm not a "bad" team member. I work hard to do my best and provide support to the team and I think that's showed through. 
 
 #### (Agile Practices & Project Management)
 
 *   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/agile_practices_project_management.md)
 
-(takeaways from session)
+ This session was really cool! Man, am I always down for an opportunity to improve my project management skills both as it relates to coding and also outside of the tech world. Being a techy for awhile, I had always seen people discuss "workflow" in the software development world...but really had no idea what it "really" was or how it was incorporated. Being introduced to the waterfall model, the agile manifesto, waffle, and some git workflow ideas was great. In the software dev field, the idea of workflow is incredibly important to producing good, consistent, sustainable work and I really took a lot of the knowledge dropped in this lesson to heart. 
 
 #### (Finding a Mentor)
 
 
- - My mentor is David Blankfield (a non-Turing mentor), a junior dev @ progressive insurance in Colorado Springs. We talk 1-2 times a week, mostly talking about topics of interest and the tech industry. I rarely have him look over my work as he works in JS and I'm in Ruby/Rails. My goal is to reach out to two Turing mentors over the intermission week. 
+ - My mentor is David Blankfield (a non-Turing mentor), a junior dev at progressive insurance in Colorado Springs. We talk 1-2 times a week, mostly chatting about topics of interest and the tech industry. I rarely have him look over my school work as he works in JS and I'm in Ruby/Rails. My goal is to reach out to two Turing mentors over the intermission week. 
 
 
 ## E: Feedback and Community Participation
