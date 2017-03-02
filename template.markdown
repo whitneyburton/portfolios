@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Nik Bornemeier - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+To learn as much as possible about HTML, CSS, and Javascript, to begin my career as a front-end developer.
 
 ## Rubric Scores
 
