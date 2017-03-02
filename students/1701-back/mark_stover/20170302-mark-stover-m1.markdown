@@ -94,7 +94,11 @@ sometimes with new things and the driver/navigator roles we filled helped me out
 working with you in the future and am glad I can call you friend.
 ```
 
-*   Project 2: Black Thursday (Andrew Mossfin): lorem ipsum
+*   Project 2: Black Thursday (Andrew Mossfin):
+```
+  Mark,
+You sir, will be a tough act for the next project partner to follow. We both learned so much from this project due to our ability to bounce off one another. The communication was great, and so was the work produced. I appreciate your ability to take constructive criticisms well, but also to give them in a way that isn’t at all abrasive. That's what allowed us to keep grinding away at a feverish pace but still in good spirits. I know i’m supposed to give an example of room for improvement, but I’m drawing a blank. You’re a solid programmer and an even more solid person. Hope we get to work together again sometime in the future.
+```
 
 ### Job Prep
 
