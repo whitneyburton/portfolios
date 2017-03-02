@@ -47,11 +47,13 @@ I look forward to the learning to come in the upcoming modules!
 
 #### Assessor Comments (Lauren Fazah, timed exercise)
 
-```
- - great use of test_helper
- - would be nice to see separate character attribute tests - I know this feels tedious, but will pay off (removing one attribute won't change unit tests for other attributes, etc)
- - strong efforts towards i3 made - **will grade as 3.5**
-```
+
+  >great use of test_helper
+
+  > would be nice to see separate character attribute tests - I know this feels tedious, but will pay off (removing one attribute won't change unit tests for other attributes, etc)
+
+  > strong efforts towards i3 made - **will grade as 3.5**
+
 
 ## B: Individual Projects
 
@@ -65,8 +67,6 @@ I look forward to the learning to come in the upcoming modules!
 | **Fundamental Ruby & Style** | 4 | 3 | 2 |
 
 ### Notes
-
-
 
 ##### HTTP project notes
 
@@ -100,12 +100,11 @@ I intentionally avoided just copying and pasting code from other students that w
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 3 | X |
 
-#### Notes
+### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+#### Black Thursday project notes
 
-*   Note 1 (if applicable)
-* I'll delete this section once I add black thursday scores
+Black Thursday was a blast - Brett and I learned a ton, from git workflow stuff (127 commits between us, plus some more that didn't get into merged branches)
 
 
 ## D: Professional Development
