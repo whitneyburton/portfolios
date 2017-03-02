@@ -67,7 +67,7 @@ A desktop app built with Electron.
 ####Feedback to me: 
 
 From Kinan: 
-`(not received by the time I submitted)`
+```Ryan brought a full set of professional skills to the table during the production of our project. As we were learning a new javascript library called Electron, we embarked on a journey of unmapped terrain. Overall, collaborating with Ryan was smooth on the soft side, with mostly a clear communication of priority items and an ability to voice his idea of directing the next steps of the project. His organizational skills shined here. I do mention that a desire to have control over each stage of the project could be restricting, since a solid collaboration can mean dividing work loads and leveraging strengths to delegate project needs over attempting to have a stake in it all. Yet, this is how a huge amount of Ryan's technical skills have clearly developed, having a knowledge of a broad variety of tools and solutions to complicated problems on the screen and the whiteboard. This came in hand quite well learning a new technology. I am certain Ryan will be an asset to any team as he deepens his career and look forward to any collaboration we may have in the future.```
 
 
 ####Feedback given by me: 
@@ -93,7 +93,7 @@ This was our first project where we built our own backend. The focus was Node/Ex
 
 ####Feedback to me
 
-From Alex: `(not received by the time I submitted)`
+From Alex: ```Ryan has all of the characteristics of a great partner: intelligent, driven, dependable, patient, funny, and has great music taste. I admire his hustle everyday and I anticipate I'll be picking his brain for some westlake wisdom in the future. Ryan will find immense success```
 
 ####Feedback given by me: 
 
