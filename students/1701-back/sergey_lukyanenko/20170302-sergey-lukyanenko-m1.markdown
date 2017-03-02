@@ -93,26 +93,28 @@ My feedback to Nicholas Jacques
 
 #### Session 1
 1. How do you think past experiences or experiences this week that have encouraged growth or fixed mindsets?
+• Enviroment at Turing creates a passion for learning and so cretes growth mindset.
 2. What are your triggers, what's likely to move you to fixed mindset?
+• Inability to handle stress can lead to fix mind.
 3. What can you peers do to support you staying in the growth mindset?
+• Taking breaks and support each other.
 
 #### Session 2
 1. What did you learn from your project?
-- Work alone until problem is solved and ask for help if there isno solution after 30 min.
-- Learned Classes, Methods, Instances and their comunication with each other.
-- Learnt to work long hours.
+• Work alone until problem is solved and ask for help if there isno solution after 30 min.
+• Learned Classes, Methods, Instances and their comunication with each other.
+• Learnt to work long hours.
 2. What did you learn from assessment?
-- It's another opportunity to learn something new.
-- It's good to receive a feedback 
-
+• It's another opportunity to learn something new.
+• It's good to receive a feedback.
 
 #### Session 3
 1. When have I been challanged by growth mindset in the last week?
-- Working on a projest Night Writer.
+• Working on a projest Night Writer.
 2. In what ways growth mindset helped me this week?
-- I could overcome stress and was more productive.
+• I could overcome stress and was more productive.
 3. What do you need to help with growth mindset?
-- Take short breaks. Enjoy the workflow.
+• Take short breaks. Enjoy the workflow.
 
 What helped to manage stress?
  - exercising and running
@@ -123,21 +125,21 @@ What helped to manage stress?
 #### Session 4
 1. What brought you here?
 Desire to grow and expand.
-- Learn new tools that I can use to change other people's lives.
+• Learn new tools that I can use to change other people's lives.
 2. What lenses or identities do you view the world through most often?
-- Through compassion
+• Through compassion.
 3. What are the values that drive you?
-- Openess, trust and compassion
+• Openess, trust and compassion.
 4. How do you think you demonstrate those values to people around you?
-- Letting people be who they are and inspiring them to be strong and better.
+• Letting people be who they are and inspiring them to be strong and better.
 5. Could other people identify your values from your actions/words/presence? Why or why not?
 When Im under stress Im not always can express my values.
 
 #### Session 5
 1. How are your experiences here at Turing similar or different than those shared in the documentary?
-- It's very different at Turing from what we see in the movie. In Turing there is no gap in equality between genders.
+• It's very different at Turing from what we see in the movie. In Turing there is no gap in equality between genders.
 2. What role do you play in creating a more inclusive environment in your cohort and the larger community at Turing?
-- By taking some extra time and effort to view each person as an individual. Supporting people from diverse background.
+• By taking some extra time and effort to view each person as an individual. Supporting people from diverse background.
 
 ### Community Participation
 Portfolio feedback from Alisher Sadikov Module 1608: "During our pairing sessions with Sergey 
