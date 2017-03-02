@@ -24,9 +24,9 @@ I plan to work on my ruby knowledge and improve what I learned from last mod. Al
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | pass|
-| Independent Timed Assessment | score |
-| Diagnostic | passed |
+| Pairing Assessment | Pass|
+| Independent Timed Assessment | pending |
+| Diagnostic | Passed |
 
 ## B: Individual Projects
 
@@ -43,7 +43,7 @@ I plan to work on my ruby knowledge and improve what I learned from last mod. Al
 
 #### Notes
 
-*   Note 1 https://gist.github.com/wewert/ea5dfeabebb56da75a463364ba0f71af
+Gist Beth wanted me to reflect on what I did good and how I could do better: https://gist.github.com/wewert/ea5dfeabebb56da75a463364ba0f71af
 
 ## C: Group Projects
 
