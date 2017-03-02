@@ -149,9 +149,14 @@ In Module 1, though I have primarily focused on myself and my studies, I have be
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+| Section | Category | Score |
+| --- | ----- | --- |
+| A | **End-of-Module Assessment** | 4 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+(PROMOTED)

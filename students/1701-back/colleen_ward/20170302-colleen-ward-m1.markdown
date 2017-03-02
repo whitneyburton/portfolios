@@ -119,8 +119,13 @@ This mod I participated in the Turing community in a couple of ways. First, I th
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+| Section | Category | Score |
+| --- | ----- | --- |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 3|
+| E | **Community** | 3 |
 
 ### Outcome
 

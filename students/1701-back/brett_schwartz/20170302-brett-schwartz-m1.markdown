@@ -4,7 +4,7 @@
 
 The first area of emphasis for me this module was to improve my problem solving skills. The morning exercises definitely helped me improve these skills. I plan on continuing to develop these skills through future exercisms and codewars.
 
-The second area of emphasis for me was learning ruby syntax and fundamentals of the language. I continue to get better each day within these two domains. I need to focus on gradually getting better at this everyday and continue to gain knowledge in the field.  
+The second area of emphasis for me was learning ruby syntax and fundamentals of the language. I continue to get better each day within these two domains. I need to focus on gradually getting better at this everyday and continue to gain knowledge in the field.
 
 ## Self-Assessment Scores
 
@@ -132,9 +132,14 @@ I have been an active voice in all gear up sessions as well as strength finder s
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+| Section | Category | Score |
+| --- | ----- | --- |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+(PROMOTED)

@@ -91,33 +91,33 @@ I very much enjoyed our pairing dynamic, and while pairing is not my favorite ac
  Date: 1/27/17
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown) to Original Session Lecture
-* [Link](https://gist.github.com/mariastenquist/6cd66415195d8149d3e41e6ab0a1e897) to Session 1 Reflection 
+* [Link](https://gist.github.com/mariastenquist/6cd66415195d8149d3e41e6ab0a1e897) to Session 1 Reflection
 
 #### Session 2: Getting Better at Difficult Things (Manage Cognitive Resources)
-Date: 2/1/17 
+Date: 2/1/17
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md) to Original Session 2 Lecture
-* [Link](https://gist.github.com/mariastenquist/9aead1b5c5909573bd39b0d6efb65efd) to Session 2 Reflection 
+* [Link](https://gist.github.com/mariastenquist/9aead1b5c5909573bd39b0d6efb65efd) to Session 2 Reflection
 
 #### Session 3: Managing Stress
 Date: 2/10/17
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md) to Original Session 3 Lecture
-* [Link](https://gist.github.com/mariastenquist/d95966ada119dfe4ea592ed7be559b22) to Session 3 Reflection 
+* [Link](https://gist.github.com/mariastenquist/d95966ada119dfe4ea592ed7be559b22) to Session 3 Reflection
 
 
 #### Session 4: Personal Stories & Connection
 Date: 02/15/17
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_retrospective.markdown) to Original Session 4 Lecture
-* [Link](https://gist.github.com/mariastenquist/e5ee12770c04c9556066bfa5a0658925) to Session 4 Reflection 
+* [Link](https://gist.github.com/mariastenquist/e5ee12770c04c9556066bfa5a0658925) to Session 4 Reflection
 
 
 #### Session 5: Debugging the Gender Gap
 Date: 02/24/17
 
 * [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md) to Original Session 5 Lecture
-* [Link](https://gist.github.com/mariastenquist/bf4349ea8a04f6dc30e7aff52617745d) to Session 5 Reflection 
+* [Link](https://gist.github.com/mariastenquist/bf4349ea8a04f6dc30e7aff52617745d) to Session 5 Reflection
 
 ### Community Participation
 
@@ -126,7 +126,7 @@ Date: 02/24/17
 * Enjoyed meeting new people in the Lunch Roulettes
 * Checked-in with fellow students, and provided emotional/encouraging support to other students
 * Led a few Mythical Creatures/other drill sessions for students that requested them
-* Shared my lightning talk with students that were further interested in the topic, made myself available to chat 
+* Shared my lightning talk with students that were further interested in the topic, made myself available to chat
 * Revamped a couple students' resumes
 * On-going support for a couple Turing alums/students in regards to connecting them with contacts/companies for career opportunities
 
@@ -134,8 +134,15 @@ Date: 02/24/17
 
 ## Final Review
 
-*   Assessor Notes
+
+| Category | Score |
+| ----- | --- |
+| **End-of-Module Assessment** | 3 |
+| **Individual Projects** | 3 |
+| **Group Projects** | 3 |
+| **Professional Development** | 3 |
+| **Community** | 4 |
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+(PROMOTED)
