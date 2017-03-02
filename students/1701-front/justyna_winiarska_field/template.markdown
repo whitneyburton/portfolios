@@ -2,6 +2,7 @@
 
 ## Areas of Emphasis
 
+My goal was to set solid foundation in css, html and javascript.
 (What did you set out to accomplish this module?)
 
 ## Rubric Scores - self evaluation
@@ -16,7 +17,67 @@
 
 ## A: End of Module Assessment
 
-Pending
+
+#### Pentathlon: Code Challenge # 1 (DOM Manipulation)
+
+Evaluator: Robbie
+
+Progression/Completion
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+JavaScript Style
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+Workflow
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+Collaboration
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+
+### Pentathlon: Code Challenge 2
+
+Evaluator: Bree
+
+Notes:
+Great communication skills
+Some trouble tracking variable values through functions and identifying how to access the data appropriately
+Very good at grasping hints and applying direction
+I think you just need more practice writing code :)
+
+Progression/Completion
+3: Developer is able to implement solutions at the speed of a junior developer.
+
+JavaScript Style
+3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+Workflow
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+Collaboration
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+
+### Pentathlon: Static Comp Challenge
+
+Evaluator: Bree
+
+Optional Notes:
+* I really appreciate your attention and care where accessibility is concerned. Keep it up!
+* Solid design eye
+* While we discussed areas of improvement in markup and CSS, it was overall well structured and organized
+
+Design Integrity
+- 4: The comp beautifully articulates the original design intent and there are no areas where an instructor would make changes with respect to color, layout, imagery, spatial relationship of graphical elements.
+
+Responsive Layout
+- 3:  The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
+
+HTML Style
+- 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
+
+CSS Style
+- 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 
 ## B: Individual Work & Projects
@@ -188,9 +249,24 @@ Workflow
 (Intro)
 
 ### Gear Up
-#### (Session Name)
 
-*   [GitHub URL]()
+#### Growth Mindset
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+
+#### Getting Better at Difficult Things
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+
+#### Managing Stress and Coping Mechanisms
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
+
+
+#### Debugging the Gender Gap
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
 
 (takeaways from session)
 
@@ -199,27 +275,27 @@ Workflow
 
 *   [Link to Completed Deliverables]()
 
+
 ### Professional Development Workshops
-#### (Session Name)
+#### Personal Branding
 
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
+*   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
+*   [LinkedIn](https://www.linkedin.com/in/justyna-field/)
 
-(takeaways from session)
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+Feedback for John: I really enjoyed working with John. We determined our working relationship right away with great respect of each other’s working habits and schedule differences. During our work process we exchanged clarifying questions. If there was any part of the project that one of us did not fully understand we would stop and take time to walk each other through the problem and make sure that we both fully understand that topic. I feel like we both equally contributed into the project, it was a very good pairing experience.
 
 ### Being a Community Member
 
-(feedback to me)
+Feedback from John B:  Working with Justyna was great.  We had wonderful give and take, and we agreed up front that no one would fall behind.  I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me.  Our communication was excellent, and we were consequently able to stop any arguments before they even started.  I would be happy to work with her again.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I tried to be involved as much as I could. I participated in Turing events and took part in lunch roulette several times. I tried to establish many good relationships with other students in the school. I feel good being a part of this community.
 
 ------------------
 
