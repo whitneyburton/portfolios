@@ -242,10 +242,18 @@ I led a spike talking about some more intermediate SQL concepts that I learned a
 
 ## Final Review
 
-### Notes
+**End-of-Module Assessment**: 4
+**Individual Work & Projects**: 3
+**Group Work & Projects**: 4  
+**Professional Skills**: 3  
+**Feedback & Community Participation**: 3  
 
-( Leave blanks for reviewers )
+### Notes (From Nate)
+
+- Great finish with your final assessment
+- Although there wasn't much solo work this module, your group work really shined. Good work.
+- You're really technically talented, and not afraid to take on tasks your own. However, you seem distracted and in your own head a lot of the time. It's going to make it hard for you to collaborate as you go through your career, and I encourage you to find strategies to address it.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
