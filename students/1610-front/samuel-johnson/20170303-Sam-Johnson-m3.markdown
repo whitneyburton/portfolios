@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This mode was all about working on fundamentals and building a portfolio I could start utilizing in my job search.  With that in mind, I tried to get into a better habit around doing CodeWars (my score/ranking has increased significantly as a result), rebuilding my personal site in React and deploying it ([sam.johnson.io](www.sam-johnson.io)), and putting together a really strong application for my personal project.  
+This mode was all about working on fundamentals and building a portfolio I could start utilizing in my job search.  With that in mind, I tried to get into a better habit around doing CodeWars (my score/ranking has increased significantly as a result), rebuilding my personal site in React and deploying it ([sam.johnson.io](www.sam-johnson.io)), and putting together a really strong application for my personal project.   
 
 In addition, I also took over a co-leader role w/ Pahlka to help jumpstart my networking (I'd love to be in Civic Tech after this) and started attending IronFE meetings a few times a week.
 
@@ -23,8 +23,7 @@ Overall I think this was a good mod for me - I feel much better about the fundam
 ### Evaluator: Taylor
 
 #### Comments:
-N/A
-
+PASS
 
 ## B: Individual Work & Projects
 
@@ -292,8 +291,6 @@ I've played an active role this module as co-lead of the Pahlka Posse and as an 
 
 ## Notes
 
-( Leave blanks for reviewers )
-
 ## Outcome
 
-( Leave blanks for reviewers )
+PASS
