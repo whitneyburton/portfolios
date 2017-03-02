@@ -195,8 +195,17 @@ Each Friday at Turing I took part in Gear Up which was a time for us to study an
 ## Final Review
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**:
+3: Student achieved a "3" or better on each category of the assessment
+
+* **B: Individual Work & Projects**: 4
+
+* **C: Group Work & Projects**: 4
+
+* **D: Professional Skills**: 4
+
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted!
