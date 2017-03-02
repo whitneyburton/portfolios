@@ -172,10 +172,7 @@ During this project we had to refactor the Idea Box project from another student
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING - awaiting revised static comp challenge due no later than Tuesday 9 am
