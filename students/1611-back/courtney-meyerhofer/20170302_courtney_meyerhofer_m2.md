@@ -30,19 +30,31 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Scores
 1. Conceptual Understanding
+
   **4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance**
+  
 2. Analytic/Algorithmic Thinking
+
   **3.5: Developer breaks complex problems into small, digestible steps and executes them with little assistance**
+  
 3. Feature Completeness
-  ** 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests**
+
+  **4: Developer is able to finish all prescribed functionality, refactor and have all passing tests**
+  
 4. ActiveRecord Syntax and Style
-  ** 3.5: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database**
+
+  **3.5: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database**
+  
 5. Rails Style
-  ** 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes**
+
+  **4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes**
+  
 6. Testing
-  ** 3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps**
+  **3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps**
+  
 7. Collaboration
-  ** 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck**
+
+  **4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck**
 
 ## B: Individual Work & Projects
 
@@ -93,27 +105,27 @@ Collaboartion and Workflow:
 
 #### 1. Functional Expectations
 
-** 3: Application fulfills base expectations **
+**3: Application fulfills base expectations**
 
 #### 2. ActiveRecord
 
-** 4: Appropriate ActiveRecord methods are used to query the database and live in the appropriate model. No Ruby is used to organize data after database queries. **
+**4: Appropriate ActiveRecord methods are used to query the database and live in the appropriate model. No Ruby is used to organize data after database queries.**
 
 #### 3. User Experience and Conventions
 
-** 3.5: Project still uses appropriate routes and HTTP verbs. User experience is pleasant, but may need additional improvement before truly being ready to be deployed to production for a client. **
+**3.5: Project still uses appropriate routes and HTTP verbs. User experience is pleasant, but may need additional improvement before truly being ready to be deployed to production for a client.**
 
 #### 4. Code Organization/Quality
 
-** 3.5: Some logic not related specifically to HTTP requests/resesponses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns. Limited logic may leak into the views. **
+**3.5: Some logic not related specifically to HTTP requests/resesponses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns. Limited logic may leak into the views.**
 
 #### 5. Testing
 
-** 4: Application is broken into components which are well tested in both isolation and integration using appropriate data **
+**4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
 
 #### 6. Working Collaboratively
 
-** 4: Excellent use of branches, pull requests, and a project management tool. **
+**4: Excellent use of branches, pull requests, and a project management tool.**
 
 #### Weasley's Wizard Wheezes
 
