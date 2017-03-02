@@ -173,4 +173,4 @@ Thoughtful reflections on Gear Up sessions. Really detailed goals at the beginni
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for promotion
