@@ -281,8 +281,10 @@ In terms of deliverables:
 
 ### Notes
 
-( Leave blanks for reviewers )
+It looks like you've done a LOT. It's always fantastic to look at a portfolio and say, that's a LOT of stuff. I'm especially impressed with what you've chosen for your OSS work - the problems you're doing are both varied and _interesting_.  I can't wait to see where your curiosity and great attitude take you next.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
+
+
