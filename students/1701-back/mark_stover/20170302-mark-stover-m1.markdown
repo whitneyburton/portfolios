@@ -83,7 +83,8 @@ Feedback from partner projects.
   Mark,
 It was a pleasure to work with you. I was happy from day 1 after we sat and talked through the DTR. I feel
 it was really constructive and put us on a good footing with each other right off the bat. I think we made
-a great team, I hope I was able to give you as much insight as you gave me. I have a difficult time sometimes with new things and the driver/navigator roles we filled helped me out a lot. I look forward to working with you in the future and am glad I can call you friend.
+a great team, I hope I was able to give you as much insight as you gave me. I have a difficult time
+sometimes with new things and the driver/navigator roles we filled helped me out a lot. I look forward to working with you in the future and am glad I can call you friend.
 ```
 
 *   Project 2: Black Thursday (Andrew Mossfin): lorem ipsum
