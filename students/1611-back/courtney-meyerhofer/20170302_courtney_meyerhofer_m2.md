@@ -216,6 +216,18 @@ From Katy Farmer:
 
 First, I would like to recognize how much effort you put into your personal growth, particularly in the pair/group setting. You’ve grown immeasurably since the last time we worked together, and I really appreciate it. The role of Project Manager suited you, and you did a great job organizing our schedule and measuring deliverables. The only remaining suggestions I have for improvement is that you could take breaks more often to help you refocus on the problem at hand. That being said, your ability to walk away from a problem when you’re frustrated is much improved. Thank you for taking on the role of Project Manager and for being a great team member.
 
+From Max Glassie:
+
+Courtney,
+
+You're intellectually curious and driven to learn about computer science concepts beyond the established curriculum. That's the fancy way of saying, I'm so happy to have a partner-in-crime for talking about SICP and to explore concepts like functional programming, recursion, and how an interpreter works. We share similar passions for theory and cool technological concepts; honestly, I feel like you're one of the only people at Turing to whom I feel comfortable expressing the extremes of my nerdiness.
+
+I really enjoyed working with you to put on two Spike sessions this module; not only did we contribute to the Turing community but I felt like we both learned a great deal. I was so grateful for your work to make those a success; you did a wonderful job with the Spike design, the research pieces for Ruby Under a Microscope, and conveying these complex topics.   
+
+Engaging these ideas with a friend makes the journey so much more fun. I'm really looking forward to diving into Clojure with you and feel like that working together we will make something really exceptional. What I've discovered is that people who like LISP are always happy to talk; it's a fantastic way to make connections in this industry and there's a wonderful community there.
+
+So glad to be friends. You're always up for my random Slack messages about LISP concepts, and that means the world to me.
+
 ### Playing a Part
 
 I paired with module 1 students twice per week and general made myself available to members of my cohort. With Max Glassie, I co-hosted two spike workshops: recursion fundamentals and how interpreters work. 
