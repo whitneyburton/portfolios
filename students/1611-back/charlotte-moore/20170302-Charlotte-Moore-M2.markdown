@@ -197,6 +197,7 @@ Charlotte Moore:
   Charlotte, I really enjoyed working with you on the Little Shop project. I observed your technical strengths to include: testing, debugging styling issues, the MVC framework, and a particular acumen for strategic planning. As a project manager, you considered everyone's opinion and input as equal and frequently engaged in forward/big picture thinking that kept us on a successful track at a manageable pace. As a peer, you consistently stopped what you were doing to help others work through difficult problems and took on many of the unexpected tasks that came up throughout the project. In the future, you may find it useful to advocate for the tasks you specifically want to ensure you're getting the learning experience you desire out of a project. You were very communicative on Slack and GitHub, and your thorough code reviews helped us verify / challenge our assumptions about what our code was doing / not doing. I particularly appreciate the attention to detail you exercised in going through all of the user stories and code at different milestones throughout the project. I enjoyed all of my interactions with you, and I'm proud of the application we built together.
   
   ** (From: Casey) **
+  
   Charlotte - I really, really enjoyed working with you and thought you did an
 amazing job as the project manager, which I know didn't feel natural to you at
 first. I thought you did a great job driving the project forward, in terms of
