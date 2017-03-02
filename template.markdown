@@ -6,11 +6,11 @@ To learn as much as possible about HTML, CSS, and Javascript, to begin my career
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: Pass/Fail/Pending
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**: fail
+*   **B: Individual Work & Projects**: 2.5
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -21,20 +21,22 @@ To learn as much as possible about HTML, CSS, and Javascript, to begin my career
 
 ## B: Individual Work & Projects
 
-(Intro)
+Individually, I feel that my progress over the course of the MOD as increased greatly, and it is much easier for me to write code when I am not in an evaluation.  However, I do not feel that I am ready for promotion to MOD 2.  I feel it is in my best interest to have a better understanding of the fundementals before advancement.  
 
-#### (Project Name)
+#### Number Guesser
 
 *   [GitHub URL]()
 *   [Original Assignment]()
 
-(description)
+I created a game where a user guesses a number and 
 
 (evaluation comments)
 
 (evaluation scores)
 
 ## C: Group Work & Projects
+
+I felt that I was very lucky in that I was matched with three great pairing partners.  I find I am able to work well when I am able to bounce ideas off of someone else, and I am generally able to add value to the team.  While I do find it very hard to write JS or JQ when staring at a blank screen, it is much easier with another set of eyes.  I feel that I worked well with all of my partners and was able to contribute to each pairing.  
 
 ### Projects
 
