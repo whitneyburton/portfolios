@@ -1,4 +1,4 @@
-# First Last - M1 Portfolio
+# Marc Fidelman - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -28,11 +28,6 @@ I felt I was fairly involved in the community but really struggled with getting 
 | Independent Timed Assessment | FAIL |
 | Diagnostic | FAIL |
 
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
 
 ## B: Individual Projects
 
@@ -45,13 +40,6 @@ I felt I was fairly involved in the community but really struggled with getting 
 | **Encapsulation/Breaking Logic into Components** | n/a | n/a | n/a | n/a|
 | **Fundamental Ruby & Style** | n/a | n/a | n/a | n/a|
 | **Loop or Recursion** | n/a | n/a | n/a | n/a|
-
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 
 ## C: Group Projects
