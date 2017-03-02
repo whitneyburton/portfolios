@@ -354,10 +354,7 @@ Nothing out of the ordinary. However, I found that some members of our cohort we
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTEd
