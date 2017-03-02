@@ -13,7 +13,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | A | **End-of-Module Assessment** | 4 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 4 |
-| D | **Professional Development** | 4 |
+| D | **Professional Development** | 3 |
 | E | **Community** | 3 |
 
 ------------------------------------------------
@@ -45,9 +45,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/lao9/night_writer) | [link](https://github.com/lao9/black-thursday-project) |
 | **Functional Expectations** | 4 | X |
+| **Enumerable & Collections** | n/a | X |
 | **Test-Driven Development** | 4 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 4 | X |
+| **Code Sanitation** | n/a | 1 |
 
 #### Notes
 
@@ -61,7 +63,8 @@ This section does not need to be populated (and template text should therefore b
 
 ### Define-the-Relationship (DTR)
 
-[Link](https://gist.github.com/lao9/0407ee800a0acdd8af2eec95175e928d) to DTR Memo from the Night Writer paired project.
+* [Link](https://gist.github.com/lao9/0407ee800a0acdd8af2eec95175e928d) to DTR Memo from the Night Writer paired project.
+* [Link](https://docs.google.com/document/d/1Hg7MECIC7fpWozEvQwX6qqf8mHJ14pUyaGZz0sDQQlE/edit) to DTR Memo from Black Thursay paired project.
 
 ### Pair Feedback
 
@@ -71,7 +74,9 @@ Feedback from partner projects.
 
 Lauren Oliveri has a friendly proactive nature that supports organization and goal oriented project management.  She was very quick to establish logistical standards and came to the table prepared to define a professional relationship of growth and good will. Lauren’s curiosity and love of fun can keep a work session light but does not deter her from digging into the details of a challenge or confronting a problem. Her desire for a clear and habitual dialogue helped us maintain a strong work ethic and swift pivots when challenges arose. When asked, Lauren is comfortable revisiting her work and explaining thought process or functionality of a section she has accomplished on her own. This kind of patience was important for dealing with the imbalance in how comfortable we each were with ruby’s fundamentals. Lauren’s eagerness for problem solving can lead to running ahead. While it never turned into over reaching into parts of the project that we had divided it did mean unclaimed territory would sometimes be completed before it was discussed. In a learning setting getting something done and revisiting it may not hold the same learning opportunities as working on something as a pair.  In our feedback session Lauren was very receptive to the concept that checking in with more specificity could keep a partner in the loop and provide opportunities to synchronize goals and work rhythms.
 
-*   Project 2 (Natalie Barron): still awaiting feedback
+*   Project 2 (Natalie Barron):
+
+Lauren, it has been a pleasure working with you on this project. I really enjoyed the test driven development approach we took starting this project. It felt like a major accomplishment every time our tests and spec harness passed. We met all of the goals we set in our DTR memo. I am really proud of our use of modules throughout the project. You have great communication skills and a great way of explaining your thoughts. I particularly enjoyed the tdd and ping-pong pairing we did early in the project. I learned a lot from working with you. I feel so much more comfortable using pry after working with you on this project. I also have a better understanding of GitHub and git branches thanks to you. It was great getting to know you better and I’m proud of the work we did. I really appreciated your dedication and teamwork. Working with you on this project was a great way to finish up Mod 1.
 
 ### Job Prep: Identity Essentials
 
