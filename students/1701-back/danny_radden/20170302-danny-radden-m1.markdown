@@ -49,11 +49,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/markyv18/night_writer) | [link](https://github.com/dannyradden/black_thursday) |
-| **Functional Expectations** | 4 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 4 | X |
-| **Loop or Recursion** | n/a | X |
+| **Functional Expectations** | 4 | 3 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 4 |
+| **Fundamental Ruby & Style** | 4 | 3 |
+| **Enumerable & Collections** | n/a | 4 |
+| **Code Sanitation** | n/a | 4 |
 
 
 ## D: Professional Development
