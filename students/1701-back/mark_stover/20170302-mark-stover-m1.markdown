@@ -70,7 +70,7 @@ During Module 1, I had the expectations of learning the fundamental building blo
 
 *   Black-Thursday: 
     * Testing solid; continue to seek ways to isolate testing to smallest scopes possible,
-    * Rock-solid enumerable
+    * Rock-solid enumerables
     * Consider Sanitizer module or something else to help with standardizing data
 
 
