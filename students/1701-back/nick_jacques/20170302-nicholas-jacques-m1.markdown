@@ -85,7 +85,9 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
   + Learning to really use TDD would have been a great thing. Coming into this project, it felt like we both had a bad grasp of TDD, and at the end it felt like we had a basic grasp that really helped the second half of the project
   + Speak up more when your partner starts making things way too complicated
 *   Project 2 (Sergey Lukyanenko): lorem ipsum
-
+    It’s been a very productive and joyful time to work with Nick. His dedication and passion for coding is a big part of his life. He put a lot of effort and time into our project. During our project time Nick showed great skills in working with a large amount of data and connecting multiple objects together into working methods and classes. He has a clear vision of the problems that need to be solved and quickly finds a solution by using all available tools.
+    He is very friendly and openminded. Nick never hesitates to ask for advice from students around and willingly offers his support and knowledge to others.
+    I look forward to working with Nick on future projects and wish him success in pursuing his goals.
 ### Job Prep
 
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/nicholas-jacques-5b830082/)
