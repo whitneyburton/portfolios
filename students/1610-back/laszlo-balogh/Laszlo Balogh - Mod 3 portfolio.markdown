@@ -53,9 +53,37 @@ Individual effort
 Planout Project helps to solve the problem of how to efficiently plan outdoor activities such as Running. Not only to manage time and arrange events into lists, but also helping the end users making a decision when to sign up and for what events in order to minimize the overall cost. By using this tools, users are expected to save various amounts, depending on the nature of the events as well as many the users will sign up for.
 The implementation is based on Ruby On Rails, but heavy use of various JQUERY libraries on the frontend side. AJAX communicatoin between the frontend and backend to enhance end user experience.
 
-(evaluation comments)
+Assessor: Sally
 
-(evaluation scores)
+Notes:
+
+**1. Completion**
+
+* 4: Developer completed all the user stories and requirements set by the client in timely manner.
+
+**2. Organization**
+
+* 4: Developer used a project management tool and updated their progress in real-time.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 3: Project shows adequate testing (90% - 95% coverage).
+
+**2. Code Quality**
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+### Product Experience
+
+**1. User Experience**
+
+* 4: Project exhibits a production-ready and polished UX.
+
+**2. Performance**
+
+* 3: Project pages load on average under 400 milliseconds.
 
 
 #### API curious
