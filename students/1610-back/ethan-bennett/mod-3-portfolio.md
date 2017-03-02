@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I greatly exceeded what I expected to accomplish in this module. Starting out, I expected to spend most of my time becoming fluent with consuming APIs, and I hoped, beyond that, to save a little time to research the blockchain and machine learning. I ended up with a comfortable fluency in APIs and documentation plus a lot more: I made my first two contributions to an open source project (documentation fixes for one of Google's machine learning libraries), I made connections in the Ethereum/blockchain world that might very well turn into job offers in the near future, and I was invited to speak at a blockchain conference in May. When the mod started, I was skeptical that I would be able to find a job in one of the niche areas that interested me most, and I'm now at a point where it seems almost inevitable.
 
 ## Rubric Scores
 
@@ -30,6 +30,7 @@ My individual work this module allowed me to get serious about developing for Et
 The first iteration of this project (i.e. the scope of the two week start) implements a proof-of-concept series of smart contracts for the Ethereum blockchain. They establish a protocol for crowd-sourced fact checking, complete with cash incentives for contributors and anti-troll safeguards. Being on the blockchain, all contributions will be completely resistent to censorship. Once deployed, this part of the app will act as something like an API, which can communicate through JavaScript to browser extensions or native apps that would notify a reader when they're on a page with registered corrections.
 
 Given the amount of work that could be done on this to really make it work well, I launched it as an open source project. After cleaning it up a little, I'll be registering it as an official Ethereum app and circulating it in the community in order to attract contributors. 
+
 
 ## C: Group Work & Projects
 
@@ -141,26 +142,41 @@ Notes:
     *   2: Below expectations
     *   1: Well below expectations
 
-### Gear Up
-#### (Session Name)
 
-*   [GitHub URL]()
+## D. Gear Up
 
-(takeaways from session)
+Note: These three Gear Ups were my three favorite out of all that I've attended so far.
+
+#### [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+The polygons were an excellent illustration of how segregation can emerge even from groups who consider themselves welcoming. I think it was a really necessary addition of subtlety to conversations about race at Turing. Being from the "Bible Belt," I've had plenty of experience with people who contribute to the angry underbelly of America--and most of them don't believe they're racist, or even unfairly judgmental. Trying to convince them to change their ways is doomed to fail unless it comes with an understanding like this parable: we get that you don't mean to be an asshole, but sometimes our actions have consequences we didn't intend.
+
+#### [Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+I viewed this Gear Up as a great opportunity to talk about UBI, so I was pretty happy with both topics. I think it's important not to get too wrapped up in the idea that machine learning algorithms might eliminate the need for human creativity, as even very complex neural networks are pretty dumb when compared with even an insect's brain. With that said, most jobs in danger of being automated wouldn't require creative ML. I think, as this issue becomes more immediate (and the apologists who find optimism in the idea of "different types of jobs we can't imagine" start to realize those jobs don't exist), UBI will quickly shed its stigma and become a serious issue in American politics.
+
+#### [Universal Base Income](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+I have pretty strong feelings about this topic. Every argument against it is based on the antiquated, unsupported, and self-defeating idea that separating a person's ability to access food and shelter from their clocked hours at work would somehow result in "laziness." Which is ironic, because that's a lazy argument. (1) A poverty-stricken mother with two full time fast food jobs taking the chance to quit one of those jobs is absolutely not laziness. (2) There isn't even an attempt to explain why laziness is bad. We all have times in our lives when we're less productive, and these eras typically precede great periods of development. This is supported by substantial psychological research. (3) Does the person arguing this really believe his or her only value is defined in the context of tasks assigned by a manager? Didn't we all decide to go to Turing because we felt that wasn't the case?
+
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+Jason: Before Rales Engine, I hadn’t had the opportunity to interact much with Jason. It turned out to be a great experience, and it felt to me like we had an ideal rapport throughout the course of the project. Jason was great at communicating what he was working on, and I had complete trust in all the code he worked on. We had a pretty great moment the night before it was due when everything came together, and it happened so quickly that it shocked both of us. I think that kind of surprising progress is only possible on a team that’s functioning really well, and I’m grateful to have had the chance to build that with Jason.
+
+David: I was lucky enough to get placed on a team with David twice, and I enjoyed working with him just as much the second time around. David’s great at diving into unfamiliar technology, and that was especially clear in his work on JQuery, Twilio, and AWS in this project. We had our latest night at Turing working on this project, and I think David’s initiative to keep plowing through it with a good attitude helped the group as a whole. We all suffered from a lack of organization in this project, and it was connected to a weak Git workflow. It’s a constructive piece of feedback to consider, but definitely not something that David was responsible for any more than the rest of us. I’d collaborate with David again any day!
+
+Laszlo: This was my first opportunity to work with Laszlo. His intelligence and his calm demeanor are both extremely valuable assets to have on a team, and they translated to strong leadership in our AWS struggles. Laszlo was also the first of us to realize the gravity of our workflow issues, and I wonder if we would have had nearly the same amount of completed work if not for him emerging as a leader in the group. We all share the blame for our weak workflow and lack of organization, but that’s the only obvious criticism I see. In fact, Laszlo was advocating for a merge before anyone else. As a whole, I think the project was a great learning experience, and I really enjoyed sharing it with Laszlo.
 
 ### Being a Community Member
+From Laszlo: I was fortunate to work with Ethan on our Cloney Island project: first time working together. Ethan has a very calm manner and has the capability to easily integrate into any team.
+He is ready to share his opinion backed by facts, so one should always listen when he suggests a solution as there are a well thought through reasoning behind that goes along with already experimenting with the solution himself.
+Coming prepared with his own suggestion, yet Ethan is always open to listen to other suggestions, evaluate other suggestions, adjust if needed based on the team decision and fully support the team decision going forward.
 
-(feedback to me)
+From Jason: I had the pleasure of working with Ethan on Rales Engine. This was the first time I got to work with Ethan and I was quite impressed with his work ethic. We stayed in Constant Communication throughout this project which was great given how much there was to do and how little of time there was to do it. Constructive Feedback: The only thing I would say (and this is for both of us) we needed to have a little more attention to detail (we had a testing issue due to setting up SimpleCov incorrectly so our testing numbers were drastically skewed).
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I led the Armstrong posse with Nick, and I think it was definitely a success. Our last Spike, on blockchains, was probably the best-attended Armstrong spike yet in my time at Turing.
 
 ------------------
 
