@@ -220,10 +220,7 @@ https://docs.google.com/document/d/1bQ9fFuUyBXpO_07txSoVTvd5OZHAJwKWz9K3qleMWl0/
 
 ## E: Feedback and Community Participation
 
-### Giving Feedback
-
-
-### Being a Community Member
+### Getting Feeback
 
 Devin Dixon
 
@@ -238,6 +235,50 @@ I think communication is an area that you could work on. Being able to effective
     Anything else you might want to add or comment on?
 
 All in all, you're an awesome dude and I'm looking forward to hanging for the next 6 months.
+
+
+Nik B
+
+    What do you believe are my strengths?
+
+great all around partner, you approach problems differently than I do and that allows me to see a different perspective.
+
+    What do you think I could improve upon?
+
+explaining some of your ideas ;)
+
+  Anything else you might want to add or comment on?
+
+You rock, thanks for everything!
+
+
+  Devon Bull
+
+  What do you believe are my strengths?
+
+Javascript, communicating complex ideas.
+
+  What do you think I could improve upon?
+
+Participating in the community.
+
+  Anything else you might want to add or comment on?
+
+Keep grinding dude!
+
+
+Laura Turk
+
+  What do you believe are my strengths?
+
+While I haven't worked with you very closely, through the conversations we have had I can say you are kind, humble, funny, welcoming, and understand complex things really well.
+
+  What do you think I could improve upon?
+
+I would love to hear more from you! (I know that's probably the shittiest feedback to receive if you identify as introverted, but you have a unique perspective and voice benefits our cohort.)
+
+
+### Giving Feedback
 
   Chris Bandrowsky
 
@@ -276,6 +317,50 @@ Clear thinking and not afraid to voice any questions
 
 What areas (technical or interpersonal) should I work on?
 Believe in yo' self girl. If people you meet wish to talk about coding and its over your head at the time, then make it a lesson to expand on your knowledge, or just say scrooge this, Ima meet people who aren't lame.
+
+
+Nik Bornemeier
+
+Feedback (good and bad)
+
+You have the intelligence and determination to make any function or layout possible. Also a design sensitive mind to certainly make a splash in this field. I see great thing in your future sir. The bad: you make others look so. But in all honesty, believe in your basic skills as a developer. Maybe its a lack of time to get comfortable with the basics,  still, you are quick enough to keep up the pace with one with all the time in the world. Keep killing it Nik
+
+
+Devon Bull
+
+  What can I improve?
+Making the rest of us not look so bad. Time management I suppose so some projects aren't last min (I know, I know, you work better under pressure..)
+
+What went well?
+
+  Among many things, you are great at networking. Being able to connect with everyone in the classroom says so much about how well you are going to, in the future, be able to kill it in finding work or assistance with the work you are currently doing.
+
+Would you want to work together again?
+Yes
+
+Is there a way to communicate with you that you prefer?
+
+With plastic cups and a string.
+
+  Any additional comments?
+
+I never worked with you but the lousy thing is required so I'll just say gee I could see us working together well.
+
+
+  Adam Carpenter
+
+Positive feedback
+
+Apparently from the work I have seen, you got you shtuff together. Soo keep doing whatever it is you are doing
+
+  Areas for improvement
+Honestly couldn't say. Haven't worked with you yet or seen anything I could possibly say you ought to improve on
+
+  Favorite type of music
+
+Anything that starts with a "B" and ends with "eatles"
+
+### Being a Community Member
 
 ### Playing a Part
 
