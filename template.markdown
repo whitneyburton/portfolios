@@ -6,17 +6,17 @@
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: Pass/Fail/Pending
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Skills**: X
+* **E: Feedback & Community Participation**: X
 
 -----------------------
 
-## A: End of Module Assessment Status
+## A: End of Module Assessment
 
-(Please Indicate if Pass/Fail/Pending)
+(Notes & scores from your assessment rubric)
 
 
 ## B: Individual Work & Projects
@@ -25,8 +25,8 @@
 
 #### (Project Name)
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+* [GitHub URL]()
+* [Original Assignment]()
 
 (description)
 
@@ -42,8 +42,8 @@
 
 #### (Project Name)
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+* [GitHub URL]()
+* [Original Assignment]()
 
 (description)
 
@@ -59,15 +59,16 @@
 ### Gear Up
 #### (Session Name)
 
-*   [GitHub URL]()
+* [GitHub URL]()
 
-(takeaways from session)
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
 
 ### Professional Development Workshops
 #### (Session Name)
 
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
 
 (takeaways from session)
 
