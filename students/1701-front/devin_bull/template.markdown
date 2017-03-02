@@ -293,10 +293,6 @@ Held a Spike session on [Selenium testing](https://github.com/DBULL7/selenium-sp
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING - waiting revised Static Comp due no later than Tuesday 9 am
