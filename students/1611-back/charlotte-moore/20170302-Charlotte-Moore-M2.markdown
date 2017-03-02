@@ -50,6 +50,13 @@ Subjective evaluation will be made on your work/process according to the followi
 ### Collaboration
 
  * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+ 
+### Evaluation Notes
+
+ * Need to improve typing speed
+ * Good understanding of material
+ * More thorough testing expectations
+ * Be more communicative about thought process
 
 ## B: Non Evaluated Projects
 
