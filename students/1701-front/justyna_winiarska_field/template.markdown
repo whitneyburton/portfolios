@@ -83,7 +83,7 @@ CSS Style
 
 Below is the list of my solo projects that I have been working on during this module.
 
-#### Number Guesser
+### Number Guesser
 
 *   [GitHub URL](https://github.com/JustynaField/number-guesser)
 *   [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -91,7 +91,7 @@ Below is the list of my solo projects that I have been working on during this mo
 In this project I got to build my very first javascript functionaly. It was challenging but extremely rewarding in the end.
 
 
-#####Evaluator: Bree
+####Evaluator: Bree
 
 Notes:
 * Excellent markup with fantastic accessibility considerations
@@ -115,34 +115,32 @@ Fundamental JavaScript
 - 3: Application shows strong effort towards organization, content, and proper syntax
 
 
-#### Static Comp Challenge 1
+### Static Comp Challenge 1
 
 *   [GitHub URL](https://github.com/JustynaField/jf-comp-challenge-1)
-    [GitHub Pages](https://justynafield.github.io/jf-comp-challenge-1/)
+*   [GitHub Pages](https://justynafield.github.io/jf-comp-challenge-1/)
 *   [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 
-#### Static Comp Challenge 2
+### Static Comp Challenge 2
 
 *   [GitHub URL](https://github.com/JustynaField/jf-comp-challenge-2)
-    [GitHub Pages](https://justynafield.github.io/jf-comp-challenge-2/)
+*   [GitHub Pages](https://justynafield.github.io/jf-comp-challenge-2/)
 *   [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
 
-#### Static Comp Challenge 3
+### Static Comp Challenge 3
 
 *   [GitHub URL](https://github.com/JustynaField/jf-comp-challenge-3)
-    [GitHub Pages](https://justynafield.github.io/jf-comp-challenge-3/)
+*   [GitHub Pages](https://justynafield.github.io/jf-comp-challenge-3/)
 *   [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 
 
 ## C: Group Work & Projects
 
-### Projects
 
-
-#### Linked List
+### Linked List
 
 *   [GitHub URL](https://github.com/JustynaField/linked-list)
 *   [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
@@ -150,7 +148,7 @@ Fundamental JavaScript
 Good, extensive pracitce of jQuery. 
 
 
-#####Evaluator: Louisa
+####Evaluator: Louisa
 
 Functional Expectations
 - 4: Application meets all of the functional expectations in Phase Three. 
@@ -170,13 +168,13 @@ CSS Style
 Feedback from John: Working with Justyna was great.  We had wonderful give and take, and we agreed up front that no one would fall behind.  I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me.  Our communication was excellent, and we were consequently able to stop any arguments before they even started.  I would be happy to work with her again.
 
 
-#### Idea Box
+### Idea Box
 
 *   [GitHub URL](https://github.com/JustynaField/idea-box)
 *   [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 
-#####Evaluator: Louisa
+####Evaluator: Louisa
 
 - 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 HTML Style
@@ -196,13 +194,13 @@ Collaboration
 - 3.5 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
 
-#### 2DoBox
+### 2DoBox
 
 *   [GitHub URL](https://github.com/JustynaField/2DoBox-Pivot)
 *   [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 
-#####Evaluator: Robbie
+####Evaluator: Robbie
 
 Specification Adherence
 - 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from phases 1 through 4 that make the application feel incomplete or hard to use.
