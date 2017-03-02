@@ -354,10 +354,6 @@ This gear up had a great video by Kathy Sierra - https://www.youtube.com/watch?v
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
