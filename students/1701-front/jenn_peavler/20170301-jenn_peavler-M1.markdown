@@ -49,6 +49,23 @@ The original assignment is shown below along with the application that I built.
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 * [GitHub URL](https://github.com/jennPeavler/numberGuesser)
 
+Evaluator: Louisa
+
+##### UX/UI Expectations-3 
+Application shows strong effort towards matching the comp, but some details have been missed. Any extensions are simple, clean design, content organization, and well thought out experience and user interactions.
+
+##### Functional Expectations-4
+Application meets all of the functional expectations in Phase Three
+
+##### Fundamental HTML-3
+Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing and has incorporated accessibility best practices.
+
+##### Fundamental CSS-3
+Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
+##### Fundamental JavaScript-3
+Application shows strong effort towards organization, content, and proper syntax
+
 
 ## C: Group Work & Projects
 
@@ -83,6 +100,27 @@ For this project, my partner and I built an idea card generator.  The user could
 
 * [Original Assignment](http://frontend.turing.io/projects/idea-box.html)
 * [GitHub URL](https://github.com/jennPeavler/idea-box)
+
+Evaluator: Louisa
+
+##### Specification Adherence-3
+The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+##### HTML Style-3.5
+Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+##### CSS Style-3
+Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
+##### JavaScript Style-3
+Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+##### Workflow-3.5
+The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
+##### Collaboration-3.5
+Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
+
 
 ##### Feedback from my partner:
 
