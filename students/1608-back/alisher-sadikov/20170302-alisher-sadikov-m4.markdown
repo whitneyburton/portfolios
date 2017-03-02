@@ -84,6 +84,8 @@ Partnered with: Michael Scherer, Lee Saville, Chase Dunagan
 
 LookingFor is a rails application that pulls developer job postings from the internet, utilizing five different scrapers (Github, Stack Overflow, Authentic Jobs, We Work Remotely, and Built in Colorado) and a message queue to communicate with them.
 
+Partnered with: Michael Scherer, Lee Saville, Chase Dunagan
+
 * [GitHub URL](https://github.com/turingschool-projects/lookingfor)
 * [Production URL](https://lookingfor.turing.io/)
 
