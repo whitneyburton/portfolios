@@ -179,8 +179,9 @@ Community Engagement:
 
 ### Notes
 
-( Leave blanks for reviewers )
+Really impressed with the work you did for open source, including your well written blog post. It's always very satisfying when you get a PR merged in from strangers. Overall really great work from you this inning, always tearing into the task at hand without complaint and doing it well. I look forward to seeing your continued growth.
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
