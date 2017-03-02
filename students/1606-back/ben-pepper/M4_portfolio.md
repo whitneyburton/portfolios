@@ -156,8 +156,12 @@ Ben was a great partner this module. We have worked together in the past, and I 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Overall a pretty solid portfolio
+* I like that you did your own thing for the secondary project and delivered something respectable
+* Good work on the community support
+* Hoping that you can pass the assessment retake
+* Wish you put this in the right folder
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending Retake
