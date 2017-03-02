@@ -29,10 +29,52 @@ I wanted to feel really strong and confident in my skills this mod. I think with
 **Description**
 We often get caught up in the latest fitness trends and fads. We try and count calories or drink more water, push ourselves to the limit and ignore what truly impacts our health and happiness. Nourish is an app for wellness. There are four types of wellness and health- physical, emotional, mental, and spiritual. In this application, I am creating a habit-forming tracker to track these four categories in your busy, everyday lives. When you complete tasks, you will be celebrated for your achievements. Nourish is a positive, happy, and inspiring app for those wanting to change the way they live.
 
+***Notes***
+- Move bar graph below list
+- Fill iln about text
 
-(evaluation comments)
+CSS 
+	- ul.parent text-align left
+	- .parent label margin-left: whatever
+	- Center bottom footer for mobile width (nav: width: 100% at a certain breakpoint)
+	
+Code 
+	- Clean up spacing
 
-(evaluation scores)
+### Project Scope
+
+Notes from Brenna
+
+### Feature Delivery
+
+**Completion**
+
+* 4: Developer completed all the user stories and requirements set in check-ins in timely manner.
+
+**Organization**
+// Not a requirement
+* 2: Developer used a project management tool but didn't update the progress frequently.
+
+### Technical Quality
+
+**Test-Driven Development**
+
+* 3: Project shows adequate testing (90% - 95% coverage).
+
+**Code Quality**
+
+* 3: Project demonstrates solid code quality, proper abstractions, and reduced duplication.
+
+### Product Experience
+
+**User Experience**
+
+* 3: Project exhibits a production-ready user experience.
+
+**Performance**
+
+* 3: Project pages load on average under 400 milliseconds.
+
 
 ## C: Group Work & Projects
 
