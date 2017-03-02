@@ -93,19 +93,21 @@ My feedback to Nicholas Jacques
 
 #### Session 1
 1. How do you think past experiences or experiences this week that have encouraged growth or fixed mindsets?
-  Enviroment at Turing creates a passion for learning and so cretes growth mindset.
+  
+- Enviroment at Turing creates a passion for learning and so cretes growth mindset.
 2. What are your triggers, what's likely to move you to fixed mindset?
+  
   Inability to handle stress can lead to fix mind.
 3. What can you peers do to support you staying in the growth mindset?
-  Taking breaks and support each other.
+  - Taking breaks and support each other.
 
 #### Session 2
 1. What did you learn from your project?
-  Work alone until problem is solved and ask for help if there isno solution after 30 min.
-  Learned Classes, Methods, Instances and their comunication with each other.
-  Learnt to work long hours.
+  -Work alone until problem is solved and ask for help if there isno solution after 30 min.
+  #Learned Classes, Methods, Instances and their comunication with each other.
+  *Learnt to work long hours.
 2. What did you learn from assessment?
-  It's another opportunity to learn something new.
+  * It's another opportunity to learn something new.
   It's good to receive a feedback.
 
 #### Session 3
