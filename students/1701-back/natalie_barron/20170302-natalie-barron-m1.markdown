@@ -51,6 +51,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 2.5 | X |
 | **Fundamental Ruby & Style** | 2.5 | X |
+| **Code Sanitation** | n/a | X |
+| **Enumerables & Collections** | n/a | X |
 
 #### Notes
 
@@ -74,7 +76,7 @@ This section does not need to be populated (and template text should therefore b
 Feedback from partner projects.
 
 *   Project 1 (Sam Landfried): I want to thank you for a successful week of collaboration. You helped me achieve my goal of starting a project with a top-down approach — looking at the big picture idea before executing. You also kept us organized, and I feel like I learned a lesson about the value of budgeting time from you. It was also a relief to have frequent, frank conversations about our collaboration. That level of communication was helpful in navigating new terrain for both of us. To repeat a bit from one of those conversations, I think you would be well served by cementing a strong, fundamental understanding of Ruby, and it sounds like you're taking steps to achieve that. For future collaboration, continuing to be assertive with your needs will be helpful to any group, I'm sure. I'm proud of the work we did together, and I like that we executed a unique solution to the challenge, which was your brainchild. I look forward to seeing more cool ideas from you and just hanging out around Turing. Feel free to reach out if you ever want another pair of eyes on your code.
-*   Project 2 (Lauren Oliveri): lorem ipsum
+*   Project 2 (Lauren Oliveri): Natalie, it was such a pleasure working with you! You are thoughtful, smart, kind, and extremely organized. You took initiative to even create a google calendar to plan out when we could meet throughout the week. I especially appreciated your scheduling flexibility, especially when I had to work Sunday, Monday, and Tuesday night! Despite being super sick early this week, you were always a trooper. You continuously brought positivity to every session, no matter how frustrated the code made us! I particularly admire how you take your time to digest information before executing, though you are a fast learner and pick up complex concepts quickly. Your kind, organized, and inquisitive demeanor kept me on task and helped me better communicate the ideas in my head. Also, I can’t stress enough how helpful some of the shortcuts, tips, and tricks you showed me have been! I am a little bit of a grandma when it comes to trying to introduce new techniques in my keyboard repertoire, but the things you’ve showed me I’ve already been able to implement! (Like spectacle, the command+D thing in atom, etc.) I am super proud of our project, and know that our process and TDD wouldn’t have been as thorough and organized from the start without you! This project was extremely challenging to wrap our heads around and execute, but we did it and finished mod 1 together!!
 
 ### Job Prep
 
