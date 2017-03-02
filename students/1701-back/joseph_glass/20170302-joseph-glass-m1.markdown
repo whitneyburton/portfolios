@@ -18,7 +18,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Notes
 
-* I've recieved so much support from the Turing community, and want to do more in the next module so that other students can feel the same.
+* I've recieved so much support from the Turing community, and want to mentor more in the next module so that other students can feel the same.
 
 ------------------------------------------------
 
@@ -62,11 +62,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/dianawhalen/night_writer) | [link](https://github.com/glassjoseph/black_thursday) |
-| **Functional Expectations** | 3 | X |
-| **Test-Driven Development** | 2 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 3 | X |
-
+| **Functional Expectations** | 3 | 4 |
+| **Test-Driven Development** | 2 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 |
+| **Enumerable & Collections** | n/a | 4 |
+| **Code Sanitation** | n/a | 4 |
 
 ## D: Professional Development
 
@@ -76,15 +77,15 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ### Pair Feedback
 
-*   Project 1 (Diana Whalen): Joseph, I’d like to start by saying that this was a learning experience, and for this I am grateful. I thought the strengths you brought to the table were being methodical, organized, and thorough. At the outset, I thought it would be very helpful that you took so many notes, so that we could use these as a resource when breaking down the project spec, and to be used in Pivotal Tracker, and I also very much appreciated your methodical approach in gathering information that may be relevant. In my opinion, this helped us get through the initial slump of getting oriented with the project. I thought going over what we had tackled, and what remained was helpful, as being thorough ensured items were being checked off the list, and I really appreciated that this is something we were both inclined to do.  
+*   Project 1: Night Writer (Diana Whalen): Joseph, I’d like to start by saying that this was a learning experience, and for this I am grateful. I thought the strengths you brought to the table were being methodical, organized, and thorough. At the outset, I thought it would be very helpful that you took so many notes, so that we could use these as a resource when breaking down the project spec, and to be used in Pivotal Tracker, and I also very much appreciated your methodical approach in gathering information that may be relevant. In my opinion, this helped us get through the initial slump of getting oriented with the project. I thought going over what we had tackled, and what remained was helpful, as being thorough ensured items were being checked off the list, and I really appreciated that this is something we were both inclined to do.  
 A few things to consider for future paired or group projects… I think you have room to improve in regards to collaboration, communication, and innovation. At the outset of the project, you stated Pseudocode and Testing were some of your weaknesses, which I happened to have stated as areas of strength on my end. Based on this and us discussing it, it seemed ideal and complimentary in that we would be able to learn from one another and our combined strengths covered all aspects of the project.  In terms of writing code, we started on the right foot with TDD, but this went off-course when you decided to start writing out code for the program on your own that Saturday, which we neither discussed nor agreed to. That decision resulted in this code being neither Test-Driven nor Paired, these being two major pieces of this project. Being excluded at this critical juncture meant that I could not build testing even after the fact, as you were making changes, and relegated me to chasing after other aspects of the project that were not currently in a state of flux. I continued to communicate with and engage you, in an effort to establish teamwork, but don’t feel we were able to reach this state. I found it disingenuous that while you referred to the project in first person perspective throughout, you suddenly and for the first time used “we” during our final assessment.
 I feel that this project was a missed opportunity for each of us to benefit the most from one another’s unique skills, which is unfortunate. I hope that in the future you will consider using your strengths to enrich your teammates, and share the valuable assets you have to offer, which could have a lasting and positive impact, not just within a project, but on all connected to it. I also think you would benefit from taking more risks in trying new things, as you are more capable than you may realize.
 
-*   Project 2 (Ken Lee): Hey Joseph, your skill and understanding of everything we've learned so far is mind blowing. You ability to work as a pair is exactly what I needed to learn what a perfect pairing is. Thank you for that. I felt we made a great team where our strengths and weaknesses balanced each other out.
+*   Project 2: Black Thursday (Ken Lee): Hey Joseph, your skill and understanding of everything we've learned so far is mind blowing. You ability to work as a pair is exactly what I needed to learn what a perfect pairing is. Thank you for that. I felt we made a great team where our strengths and weaknesses balanced each other out.
 
 ### Job Prep
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/joseph-glass-bba99753/)
+*   LinkedIn profile: [Link](https://www.linkedin.com/in/joseph-glass-bba99753/)
 
 
 
