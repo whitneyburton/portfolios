@@ -39,11 +39,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 #### Collaboration
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
-Individual Coding Challenge-B: Mythical Creature
+### Individual Coding Challenge-B: Mythical Creature
 
-Final Project (Static Comp Challenge #3)
+### Final Project (Static Comp Challenge #3)
 
-Comprehensive Quizlette:
+### Comprehensive Quizlette:
 
 
 
