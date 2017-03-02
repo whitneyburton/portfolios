@@ -83,17 +83,17 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 
 
     3 areas of improvement
-    + It would have been better if we had been able to get to coding earlier instead of waiting later in the week. I feel like this was a mutual thing
-    + Learning to really use TDD would have been a great thing. Coming into this project, it felt like we both had a bad grasp of TDD, and at the end it felt like we had a basic grasp that really helped the second half of the project
-    + Speak up more when your partner starts making things way too complicated
+  + It would have been better if we had been able to get to coding earlier instead of waiting later in the week. I feel like this was a mutual thing
+  + Learning to really use TDD would have been a great thing. Coming into this project, it felt like we both had a bad grasp of TDD, and at the end it felt like we had a basic grasp that really helped the second half of the project
+  + Speak up more when your partner starts making things way too complicated
 
     Feedback for Jack:
     Strengths
-    + Really strong ability to turn algorthimic concepts into functional code.  I could suggest an idea and you would quickly implement it in the program.
-    + Great time management, time spent coding was focused with few distractions.  
-    + We figured out a basic github workflow. No catastrophes.
-    + File IO master.
-    + Overall a really positive pairing experience.
+  + Really strong ability to turn algorthimic concepts into functional code.  I could suggest an idea and you would quickly implement it in the program.
+  + Great time management, time spent coding was focused with few distractions.  
+  + We figured out a basic github workflow. No catastrophes.
+  + File IO master.
+  + Overall a really positive pairing experience.
     
 Opportunities for Improvement
     + Slow down and commit to TDD. We both struggled with this and probably enabled each other in neglecting it.  Once we tried to implement we made good progress.  We both clearly have a lot more too learn about TDD.
