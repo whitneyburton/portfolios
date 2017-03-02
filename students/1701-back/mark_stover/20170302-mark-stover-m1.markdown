@@ -78,7 +78,7 @@ During Module 1, I had the expectations of learning the fundamental building blo
 
 ### Define-the-Relationship (DTR)
 
-[DTR Memo](https://docs.google.com/document/d/1ZlBAmATYvSJQpk7PNDQ-0hVUBflzvz7lagtBtFcK3TM/edit#) from Night-Writer.
+[DTR Memo](https://docs.google.com/document/d/1XKnfByzId1sPMEEGWohDPWINs_I_qj6hSDL0_GokA0k/edit#heading=h.l3ct5pv2ggfg) from Black-Thursday.
 
 ### Pair Feedback
 
