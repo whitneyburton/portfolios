@@ -11,7 +11,7 @@ This module I set out to improve my knowledge, skills and ability in html format
 *   **B: Individual Work & Projects**: 3
 *   **C: Group Work & Projects**: 3.2
 *   **D: Professional Skills**: 3
-*   **E: Feedback & Community Participation**: 2.9
+*   **E: Feedback & Community Participation**: 2.8
 
 -----------------------
 
@@ -173,16 +173,30 @@ The button for creating links should be disabled if there are no contents in the
 The application should be able to keep count of the total number of links currently on the page.
 The application should be able to keep count of the total number of read and unread links currently on the page.
 
-Evaluator Comments (Louisa): Small design errors in spacing in body, more cohesive color scheme would be nice.
+##### Evaluator Comments (Louisa): 
+Small design errors in spacing in body, more cohesive color scheme would be nice.
 
-Evaluator Scores - 
-3: Application meets all of the functional expectations in Phase Two. ### Fundamental JavaScript Style
-3.5: Application shows strong effort towards organization, content, and refactoring. ### Workflow
-3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base. ### HTML Style
-4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors. ### CSS Style
+##### Evaluator Scores - 
+3: Application meets all of the functional expectations in Phase Two.
+
+##### Fundamental JavaScript Style
+
+3.5: Application shows strong effort towards organization, content, and refactoring. 
+
+##### Workflow
+
+3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base. 
+
+##### HTML Style
+
+4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors. 
+
+##### CSS Style
+
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-Feedback from partner: Dave Hubertus - "Working with Adam was a great experience. We were up front about what we both wanted to get out of the experience and decided early on how we were going to attack the project. Our ideal work times were discussed and since we both wanted a hand in every aspect of our project we essentially built each part together.  Adams skill set and ability to communicate well made our first pairing very successful even when the struggle was real."
+##### Feedback from partner: 
+Dave Hubertus - "Working with Adam was a great experience. We were up front about what we both wanted to get out of the experience and decided early on how we were going to attack the project. Our ideal work times were discussed and since we both wanted a hand in every aspect of our project we essentially built each part together.  Adams skill set and ability to communicate well made our first pairing very successful even when the struggle was real."
 
 
 #### IdeaBox
@@ -194,22 +208,29 @@ In this project, we be built a simple application for recording and archiving ou
 Throughout the project, one of our focuses was providing a fluid and responsive client-side interface. To this end, we relied on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 This is also built responsive so users can use this app on any device! 
 
-Evaluator Comments (Bree): Some small amounts of typology repetition in CSS, JS could be broken down into smaller, more concise pieces.
-Evaluator Scores: 
+##### Evaluator Comments (Bree): 
+Some small amounts of typology repetition in CSS, JS could be broken down into smaller, more concise pieces.
+
+##### Evaluator Scores: 
 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
-HTML Style
+##### HTML Style
+
 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
-CSS Style
+##### CSS Style
+
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-JavaScript Style
+##### JavaScript Style
+
 3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-Workflow
+##### Workflow
+
 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
-Collaboration
+
+##### Collaboration
 
 3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
@@ -224,32 +245,33 @@ In this project we will be refactoring a fellow students IdeaBox project into a 
 Evaluator Comments (Louisa): Better coloring of buttons, functionality was good. Break out JS even further so each function only does one job.
 
 Evaluation Scores - 
-Specification Adherence
+
+##### Specification Adherence
 
 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from phases 1 through 4 that make the application feel incomplete or hard to use.
 
-User Interface
+##### User Interface
 
 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
-HTML Style
+##### HTML Style
 
 3.5 - Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
-JavaScript Style
+##### JavaScript Style
 
 3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-Testing
+##### Testing
 
 3.5 - Project has a running test suite but fails to cover some features. The application makes some use of feature testing.
 
-Workflow
+##### Workflow
 
 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-Feedback from partner: Spencer: 
-Positive feedback - "You are easy to work with and laid-back. I never felt like you were frustrated with me for not understanding   something. I appreciate that you would ask questions and take the time to clarify stuff to me as we slogged through the project." 
+##### Feedback from partner: 
+Spencer Hilvitz: Positive feedback - "You are easy to work with and laid-back. I never felt like you were frustrated with me for not understanding   something. I appreciate that you would ask questions and take the time to clarify stuff to me as we slogged through the project." 
 Areas for improvement - "None that I can think of. I appreciate your patience and dedication to getting the project done!"
 
 ## D: Professional Skills
