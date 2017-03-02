@@ -1,273 +1,345 @@
-# Drew Palazzari - Module 2 Portfolio
+# Drew Palazzari - Module 3 Portfolio
 
-## End of Module Reflection
+## Areas of Emphasis
 
-Professionally, I learned how to find and reach out to Developers around the world. I also improved my group working dynamics. I enjoy working within groups and have had only great experiences with them. 
+I want to improve my solo capabilities as a programmer while still participating as a capale member of a programming team. I also plan to think of some personal app ideas that I would like to build. I am building Nerd Bay, and having a ton of fun doing it. I am proud of what I have built on my own this mod.
 
-Technically, I learned about Ruby on Rails and got an invaluable understanding of what it means to be a web developer. I can make a semi-decent web application with user authentication/authorization in under an hour, including basic styling. Module 2's teaching style really helped me learn a lot of content in a very effective way. I love using Rspec and reading rails error messages- mostly because I have had a lot of practice, and I rarely see an error message that I do not understand. 
+## Rubric Scores
 
-Throughout the mod, I also made adjustments to my personal website, which I enjoyed:
-
-* [Personal Website](Dpalazzari.github.io)
-
-## Self-Evaluated Rubric Scores
-
-Find the rubric near the end of this document.
-
-* **A: End of Module Assessment**: 3
-* **B: Individual & Group Work**: 4
-* **C: Professional Skills**: 3
-* **D: Feedback**: 4
-* **E: Community Participation**: 3
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
 ## A: End of Module Assessment
 
 ## Evaluation Criteria
-Evaluator: Sal
-Student: Drew
 
-1. Conceptual Understanding
-  * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
-2. Analytic/Algorithmic Thinking
-  * 3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
-3. Feature Completeness
-  * 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
-4. ActiveRecord Syntax and Style
-  * 3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
-5. Rails Style
-  * 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
-6. Testing
-  * 3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
-7. Collaboration
-  * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+Subjective evaluation will be made on your work/process according to the following criteria:
 
-## B: Individual & Group Work
+### 1. Ruby Style
 
-### Group Projects
+* 4: Developer writes code that is exceptionally clear and well-factored
+### 2. Rails Syntax & API
 
-Group Projects are both challenging and rewarding. I enjoy them far more than individual projects. Two minds are always better than one.
+* 4: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing.
+### 3. Testing
 
-### Lobbify (Little Shop Final Project)
+* 4: Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.
+### 4. Progression/Completion
 
-[Website App](http://lobbify.herokuapp.com/)
-[Source Code](https://github.com/drod1000/lobbify)
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+### 5. Workflow
 
-Project Manager: Daniel Rodriguez
-Group members: Nick Gheorghita, Daniel Rodriguez, Laszlo Balogh, Drew Palazzari
-
-We decided to make an app where Lobbyists could peruse and purchase outings with United States Senators.
-
-### Blogger
-
-I chose to add Blogger to my portfolio simply because of how useful it was. I learned the most from this tutorial, bar none. It walked the developer through the whole process of building a rails application, and was still around for reference during confusion at other times/different projects. It also went through every error message one might see while working on Rails.
+* 4: Developer commits every 15 minutes
 
 
-### Bike Share
+## B: Individual Work & Projects
 
-* [GitHub URL](https://github.com/kheppenstall/bike-share)
-* [Original Assignment](https://github.com/case-eee/bike-share)
+Solo projects are always fun! I love making new discoveries and overcoming challenges. It is that much better when you accomplish it on your own. 
 
-Bike Share was a sinatra project that utilized ActiveRecord methods to organize and do analytics on massive csv files. All as a web based app.
+#### Nerd Bay
 
-It was the first group Project of our Cohort. I was grouped with Kyle Heppenstall and Josh Cohen. It went really well!
+* [Github](https://github.com/Dpalazzari/nred_bay)
+* [Heroku](https://nerd-bay.herokuapp.com/)
 
-Overall Sal was impressed and pleased with our project. We fulfilled all expectations, and had excellent testing. Room for improvement in our styling.
+My personal project is called Nerd Bay. I'm basically consuming as many API's on one page as I can. I spoke to Josh about this, and we both felt it was too little. I need to push the envelope. Therefore, I am going to attempt to build a popularity flag algorithm that finds the most popular things on the internet right now. I also have an idea for implementing AJAX into my project. Lastly, I want to enable some form of infinite scrolling.
 
-###Evaluation Scores
-1)Functional Expectations: 3
-2)ActiveRecord use: 3.5
-3)User Experience and Conventions: 3.5
-4)Code Organization/Quality: 4
-5)Testing: 4
-6) Working Collaboratively: 4
+#### Api Curious
 
-* [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/bike_share/drew_kyle_josh.md) 
+* [GitHub URL](https://github.com/Dpalazzari/api_curious)
+* [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
+* [Heroku](https://api-curious-github-dp.herokuapp.com/)
 
-### Individual Projects
+I did not spend as much time styling and making it look REALLY pretty, but this project was invaluable for Module 3. I learned how to do Oauth, and consume and API (which I have become quite proficient at since). The application was fully tested.
 
-#### [Job Tracker](https://github.com/Dpalazzari/job-tracker)
+The biggest challenge was learning how to work with VCR's. After that, it was quite enjoyable!
 
-[Heroku Link](https://desolate-river-68572.herokuapp.com/)
-
-I think Job Tracker is a good example of all I've learned this mod (which is a ton). It was hard, but I thoroughly enjoyed using TDD to drive the development. It was hard, but not so hard that I couldn't figure aspects of the markdown out. I think this is a testament to my growth as a developer and learner within the Turing program.
-
-hey @Dpalazzari awesome job on this. i left ya some comments. let me know if you have questions! good work pushing it to heroku too 👍
-
-i encourage you to commit more often!
-
-Rubric
-
-1) Database, Relationships, and Migrations
-4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
-
-2) Routes
-3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
-
-3) Controllers
-3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.
-
-4) ActiveRecord
-3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
-
-5) Views
-3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
-
-6) User Experience
-4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
-
-7) Testing
-3: Project has a running test suite that tests and multiple levels but fails to cover some features
+I talked to Sally about this project. She said I did a good job. It was ungraded, so I don't have any evidence of this, but she did like it when I showed her.
 
 
-## C: Professional Skills
+## C: Group Work & Projects
+
+### Projects
+
+#### Rails Engine
+
+* [GitHub URL](https://github.com/tmikeschu/rails_engine)
+* [Original Assignment](http://backend.turing.io/module3/projects/rails_engine)
+
+This is an API rails app that serves information from an e-commerce database. We built an API with several endpoints that render JSON. The business analytics endpoints were the most fun.
+
+My Project partner was Mike Schutte. He was a pleasure to work with. Overall, we feel we did very well (before eval) and we expect mostly 4's on our project.
+
+In our hearts and minds, we got all 4's!
+
+Evaluator: Sally
+
+Students: Mike & Drew
+
+
+## Project Rubric
+
+**1. Completion**
+
+* 4: Project completes all base requirements according to the spec harness.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+
+**2. Code Quality**
+
+* 4: Project demonstrates exceptionally well factored code.
+
+**3. API Design**
+
+* 3.5: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+
+**4. Queries**
+
+* 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
+
+DTR notes can be found in the project github link. Look for 'dtr.md'
+
+Schutte's Feedback to me: 
+
+Mike Schutte [10:40 AM] 
+Drew: Working with you was both highly productive, and highly enjoyable. I respect and appreciate your commitment to quality code through as much paired programming as possible. You are endlessly witty, and exude a positive attitude at all times even in the face of a massive work load.
+For future improvement, I recommend gaining more command of your work flow tools, especially the text editor. It’s a minor thing, but there were a couple times where you made moves to implement an idea, and a laggy mouse drag or selection caused you to forget what your original goal was.
+I am incredibly proud of our project, and I firmly believe it was taken to the next level by your fastidious code reviews and high quality Ruby style. Best of luck on future projects!
+
+My Feedback to Schutte:
+
+Drew Palazzari [10:29 AM] 
+Feedback for Schutte:
+
+Positives: Schutte is an excellent coder. He is highly intelligent and very professional. Schutte is a pleasure to pair with and does a good job  in paired programming. Schutte bring s a lot to the table when working with him on a project. His testing is phenomenal and very thorough.
+
+Constructive: Sometimes Schutte can get in the programming zone and not be as open minded to practical solutions. I too am guilty of this, but it is something to keep in mind at all times when pair-programming.
+
+#### CloneyIsland- Kickstarter_clone
+
+[Markdown link](http://backend.turing.io/module3/projects/cloney_island)
+[Source code](https://github.com/Robbie-Smith/kickstarter_clone)
+[Heroku Link](https://kickstarter2.herokuapp.com)
+
+We were given the task of replicating kickstarter.com. I was grouped with Kyle Heppenstall, Daniel Rodrigeuz, Robbie Smith, adn Jason Conrad. This was the first group of 5 project I have been in. Overall, it ent really well. There WERE some minor road bumbps though. For instance, I made myself readily available to communicate at pretty much all times. I felt good about that. Some of my group mates were not as apt at being available. There were a couple of times where the repository had several HUGE pull requests that really needed to be merged.
+
+After merging them, it would add to the projects problems. This was an issue a couple times. Especially when these PR's re-push changes to master that were previously fixed(ex: I fixed the edit and delete buttons for a project early in the week, but somehwere along the line those changes were reverted in a merge conflict and pushed to master agian).
+
+We got a 2.5 on overall user experience. I am not a big fan of some of our pages. However, with a little more time and attention spent, I think the website can rbe really, really good. We jsut need to dot our i's and cross our t's. I accept this score.
+
+Overall, the team felt good about what we accomplished. We got together after the evaluation and talked about things to improve for next time. In the end, we were all pleased.
+
+##Project Evaluation
+
+Casey Cumbow [9:50 AM] 
+# Kickstarter Two
+
+### Completion
+
+**Client Expectations**
+
+*   Team completed all the user stories and requirements set by the client.
+   *   3: As expected
+
+**User Experience**
+
+*   Project exhibits a production-ready user experience.
+   *   2.5: As expected
+   *   2.5: Below expectations
+
+**Organization**
+
+*   Team used a project management tool to keep their project organized.
+   *   3.5: As expected, but great
+
+### Technical Evaluation
+
+**Git Workflow**
+
+*   Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+   *   4: Better than expected
+
+**Test Quality**
+
+*   Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+   *   4: Better than expected
+
+**Code Quality**
+
+*   Project demonstrates well-factored code and a solid grasp of MVC principles.
+   *   4: Better than expected
+
+**Bonus**
+
+We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
+
+*   Did the team push themselves by taking risks?
+   *   0: No
+
+## D: Professional Skills
+
+The next most important thing to a successful coder, is being a good human being and knowing proper professionalism.
 
 ### Gear Up
-#### Responding to Microaggressions
+#### Tragedy of the Commons
 
-I think Microaggressions are a problem. I also think that some things that some people consider microaggressions, are actually not microaggressions. As a stright, white, male in America it is hard for me to relate to microaggressions. It's sad, but I really just have no experience in the matter. Reading about examples though, I understand why many people hear/experience microaggressions and are hurt by it. I will strive to not accidentally commit microaggressions in the workplace and at Turing.
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-#### Journey Mapping
+This was a good gear up about diversity. Not just in the workplace, but in the world as a whole. As a white male, the system has been biased towards me since before I was born. 
 
-I did not get much from this Gear-up, to be honest. It was not for lack of effort though. I think one of the big takeaways I got from this Gear up, is the ability to see what other problems a User might have when visiting a Rails application for the first time. You want your apps to be easy to use, clear, and awesome. Nobody wants their users to have big problems or issues because of lack of clarity or confusion on your app.
+The biggest take-away I got from this gear up was a strategy for dealing with non-diversity. I think diversity would improve if, during all interviews, people literally hid their face and were given something to alter their voice. All language in resumes and applications would be made gender neutral. This is truely the only way I see diversity ever truely becoming diverse. People would be chosen for the quality of their abilities, rather than the color of their skin, or gender. Diversity is a great idea, but being a disciple of diversity is inherently undiverse. 
 
-#### Grit
+It's a slippery slope; one that humanity as a whole has to address together to become a true aspect of our lives.
 
-This Gear up was about grit. In my opinion, it should have been called passion. There is very little passion involved when it comes to grit. A person with grit persists, and endures through hardship, despit the hardship. 
+#### Automation and The Future
 
-Either way, it did teach the value in being resiliently passionate about your hobbies. Even when it gets hard at Turing, you cannot give up. I enjoy coding, and I don't want one step-back to get in the way of my achievement of becoming a professional web developer.
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
+I think Automation is a scary idea for a lot of people. It's always an idea a lot of people are probably interested in. Most automated jobs (right now) are generally low skill floor jobs, so it's easy for robots to take over. However, technology improves faster than biology does. Pretty soon, even the most technical of human endeavours could be taken over by automation.
+
+I think I will someday be in danger of  automation taking my livelihood. I'm not worried right this moment, but I know there are some genius's out there creating programs that can learn to program. These people spend more time thinking how they could, rather than if they should. Automation is cheaper and more efficient. Hence why all possible jobs will always be considered from a purely capitalist point of view.
+
+I think it's always good to remember that machines need people to build and maintain them. The more robots we have, the more people we will need ot maintain them. Thats a bright spot on the horizon (until some shmuck invents the self-repairing robot or robot repairing robot).
+
+It is inevitable.
+
+#### Universal Basic Income
+
+* [Markdown](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+
+Realities: Robots are likely going to take our jobs.
+
+Constraints:
+1) Where does the money for UBI come from? the more we tax the rich/businesses/corporations, the more likely it is that robots/out-of-country labor will be utilized.
+2) If everyone suddenly has more money, prices will also increase accross the board. UBI will have to consistently increase to compensate for inflation.
+
+Opportunity: Better, more secure lives for all Americans.
+
+I think Elon Musk sets and says lofty goals/things. He's a successful entrepreneur and is very ambitious. I don't think that means that we should believe everything he says, though.
+
+UBI is (U)nuversal (B)asic (I)ncome. An idea born from the fear of a mostly automated future. Robots are becoming increasingly more advanced, and people will lose their jobs to cheaper robot labor. It is for this reason that UBI is entering policy debate. To be honest, the idea of 'free' money every month is also enticing to pretty much every single working American. Who doesn't want a little more? Robots may take over everyone's jobs someday, but (for now at least) robots will always need people to plan, build, and maintain them. People thought cars and steampowered boats would cause a ruckus. Boy were they wrong. Is it plausible to consider the idea that robotic automation could have the same effect?
 
 ### Professional Development Workshops
+#### Flower exercise
 
-It's good to be a great professional, and a skilled Developer.
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
 
-#### Finding Opportunites
+* [Link to Completed Deliverables](https://docs.google.com/document/d/1W0ZbOzMKDRs0BsG06EqAWX1MYXHfbPTMMWqTyhrLHKQ/edit)
 
-We were told to start looking for companies we'd like to work for, and find a contact or someone who works for that company. We must have 10 companies with contacts by December 16th. I have slowly added more companies over the course of the mod.
+I liked this session. It asked me to make it very clear whata I disliked from my previous job, things I liked from my previous job, my talents, and the necessity to find a future job based on the 7 pedals of the flower exercise. It is invaluable. 
 
-UPDATE: time to start sending cold outreach emails to those contacts!
+#### Organize your Sh!t
 
-#### Intro to Project Management
+* [Workshop URL](http://backend.turing.io/professional_development/module_four/organize_your_shit)
 
-Biggest takeaway was the difference between agile and waterfall workflows, and why Turing students should pretty much always use an agile workflow. This lecture was really useful in my success in Bike Share. 
+Jeff basically said to have everything prepared for job hunt season. Don't be the guy without a job 3 months later!
 
-In my group projects we always stuck to the agile workflow. This ensured with finished everything thoroughly and finished it off with styling. It turned out pretty well.
+#### Innovative Problem Solving
 
-In both group projects, We also elected a project manager. They did an excellent job keeping waffle up to date, setting up meetings, and ensuring that everything got completed. I was glad to have a project manager in both cases.
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md) 
 
-I cannot think of anything that did not got well.
+This activity was pretty useful for figuring out what to do with my personal project. I have an idea; I'm not sure if I actually still want to do it or not, but it's very nice to actually have an idea of something I would actually want to do. Thanks, Allison!
 
-#### Feedback II
+#### Job Search Strategies part 1
 
-Most of the feedback I gave was praise worthy. When I did give constructive feedback, I tried to focus on glaring issues that the recipient may not be aware of. I learned that I work very well with other people, and am good at keeping the atmosphere light-hearted, despite the stress and high tension that goes along with a project. I also learned that sometimes I have the tendency to practice selective hearing, which I have striven to improve all mod.
+* [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)
 
-Take feedback to heart. Analyze what you feel is wrong and right about the feedback. Try to picture it from your teammates point of view. Have a plan for the next collaboration project so the same problems aren't repeated again.
+Prioritize what I want out of a job, and don't settle for less than I am worth.
 
-In my feedback, I really have not had anything that I felt was wrong. I know and understand my faults as a character and I do try to improve them. I must do my best to remember the truth in my feedback and become an even better collaborator on projects.
+#### Interview Fireside w/ Ingrid Alongi
 
-I have a pretty sweet Johari Window, too. I am curious as to what negvative adjectives my teammates would select for me.
+Tech interviews:
 
-#### Cold Outreach
+Be right on time. Do not come early. Wait outside if you have to. Check out 'Lever'. It's hard to differentiate resumés -> have a nice fun cover letter. Set yourself up for success in your interviews. Get an early afternoon/late morning time (avoid traffic).
 
-Remember those contacts everyone found in the Finding Opporunities workshop? Well it's time to start reaching out to them.
-Went over how to find someone who works for a company that interests you, and then how to communicate with that person in a friendly way. The goal was to get a tech interview/tour of their job.
+Practice your interviews. Saying practice interview question answers out loud. Practice the kinds of answers you're going to give. 
 
-So far, of the four I sent, I have gotten responses (and tour's: CaptainU and iTriage) from two of them. My job now is to reach out to more senior level people within companies and send cold outreach to them.
+Don't bring computer, bring pen and paper. Be prepared with questions, always. Look for culture mismatches. If they expect you to work 80 hours a week, don't work there. If it's too good to be true, it probably is.
 
-#### Networking
+Find the balance between confidence and arrogance while interviewing. 
 
-This PD session was about going to networking events and being prepared to picth yourself to people of interest. The idea is to attend networking events and talk with employers in the area. Make them aware of you, make them aware of your story, and leave a strong impression.
+Research what some illegal and off-limit questions are. It is okay to ask who is going to do your interview ahead of time. Try to get a tour before-hand. Carefully ask, "What are the steps of the hiring process?" If they tell you one thing, but it's disorganized and incorrect, that may be a sign of a bad culture fit.
 
-Deliverables: Go to two networking events during intermission week.
+Have a super nice follow-up the next day. Email/thank you card. Ask for a business card. If you get an offer, tell them you are expecting another offer.
 
-## D: Feedback
+As for statistics. How you get customers, how fast you are growing as a company, etc.
+
+## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-Feedback to Josh(Bike Share)
+My Feedback to Schutte:
 
-Drew Palazzari [11:45 AM]  
-Constructive Feedback: Be more assertive from Day 1.  Frontloading a project at the start makes it less likely to accrue 'intel debt' as the project commences and the group adds more confusing code and files. Josh fell further and further behind at times because he wasn't with Kyle and me the first day the group began work on the project.
+Drew Palazzari [10:29 AM] 
+Feedback for Schutte:
 
-You-are-awesome Feedback: When Josh called for a second DTR session, it was very maturely and very professionally done. It was clear Josh was upset, but the group came together, voiced concerns and moved on and built a kick-ass project. Josh is an able bodied coder and I would be pleased to be grouped with him again. Josh did an excellent job getting caught up with the code he did not understand.
+Positives: Schutte is an excellent coder. He is highly intelligent and very professional. Schutte is a pleasure to pair with and does a good job  in paired programming. Schutte bring s a lot to the table when working with him on a project. His testing is phenomenal and very thorough.
 
-Feedback to Kyle(Bike Share)
+Constructive: Sometimes Schutte can get in the programming zone and not be as open minded to practical solutions. I too am guilty of this, but it is something to keep in mind at all times when pair-programming.
 
-Drew Palazzari [11:47 AM]  
-Constructive Feedback: Don't take on too much work. Kyle did too much work, even after like 8-9 hours of working at school. If there is something Kyle feels NEEDS to be done, even after a day's work,  he should ask  group members for help. Most students at Turing  work hard and are willing to go the extra mile to finish a project. Don't burn yourself out.
+My feedback to Kyle:
 
-You-are-awesome Feedback:  I think our collaborative work styles really meshed well together. Had a ton of fun working on this project with Kyle. Kyle is an excellent coder, and there is a ton to learn from him. I would be very pleased to work with Kyle again. 10/10
+Drew Palazzari [9:52 AM] 
+Cloney Island Feedback: as ever, Kyle is one helluva programmer. He bring top notch levels of critical thinking, intelligence, and raw coding talent to every team he's on. Best yet, he's awesome to work/pair with and there is no problem a team can't figure out without him.
 
-Feedback to Nick G. :
- Nick is a lot of fun to work with. He brings a code attitude as well as excellent code to the table. Working with him, there was no challenge that was insurmountable. I hope I work with him on future projects again.
+Constructive Feedback: Sometimes Kyle can be hard to get a hold of. Communication could be better in larger team environments.
 
-Constructive Feedback: It is hard for me to think of something that Nick needs to improve upon. I would say that a good area to improve, would be to be more available when working remote. Often times, the group would wait for a good amount of time waiting for Nick to check out a pull request. This was not a problem in this particular project (it was not too hard) but it would be a problem for a bigger, more difficult project.
+My feedback to Robbie:
 
-Feedback to Laszlo: 
+Drew Palazzari [10:01 AM] 
+Feedback: Robbie is an excellent leader and coder. This was his first project as project manager, and he performed admirably. I admire his dedication to the red-green-refactor stratagem and would be happy to work with him again.
 
-Positive Feedback: Working with Laszlo has been a real pleasure. Laszlo is an excellent coder, a great personality, and an incredibly intelligent person. His love for tables and thorough testing is legendary (and contagious) and I hope that I get paired with him on a project again.
+My feedback to Jason: 
 
-Constructive Feedback: I think Laszlo's code and intelligence is very high level. Sometimes, this makes it difficult to follow. It would behoove Laszlo to do better at explaining his code in some instances. This is a very small issue however. Considering that English is not Laszlo's primary language, he does a wonderful job of communicating.
+Drew Palazzari [10:05 AM] 
+Feedback: Jason is an excellent teammate and coder. He was our teams rocket launcher in Cloney Island: We give him a task, fire him at the target, and forget about it because he will take care of the story. I would be happy to work with Jason again.
 
-Feedback to Daniel: 
+Constructive feedback: Sometimes Jason's pull requests are way too big and he does too many things on them. It makes reviewing his code supremely difficult. I suggest having more, smaller PR's with single responsibilities.
 
-Positive Feedback: Daniel did an excellent job as Project Manager. He made sure every card we were given was completed, he was fair, he trusted the team, he's smart, and is a wonderful coder. Daniel was always available for communication and did a really good job of organizing waffle cards and getting the group together for meetings. I would be honored to work with Daniel again on a project.
+My feedback to Daniel:
 
-Constructive Feedback: I challenge Daniel to speak his voice more often. I think he is incredibly intelligent, and I know for a fact he has really good ideas. He is also very quiet. Speak up, Daniel! You're ideas rock. Also, like me, practice your styling.
+Drew Palazzari [10:07 AM] 
+Feedback: I thoroughly enjoy working with Daniel. He's a very smart individual with a good attitude, and great ideas. His coding abilities are top notch. I would be happy to work with him again.
+
+Constructive Feedback: Sometimes Daniel can be hard to get a hold of. I would encourage him to be more tenacious is responding to emails/github tags/slack messages so that the team can take care of issues faster.
 
 ### Being a Community Member
 
-Josh's Feedback to me:
+Schutte's Feedback to me: 
 
-Josh Cohen [11:51 AM]  
-For Drew:  NEG: You can sometimes have “selective attention”, and that can make things challenging for those working with you.  POS:  You’re a pleasure to work with; especially in a high stress situation.  You relieve the stress by using simple jokes & keeping things “light”
+Mike Schutte [10:40 AM] 
+Drew: Working with you was both highly productive, and highly enjoyable. I respect and appreciate your commitment to quality code through as much paired programming as possible. You are endlessly witty, and exude a positive attitude at all times even in the face of a massive work load.
+For future improvement, I recommend gaining more command of your work flow tools, especially the text editor. It’s a minor thing, but there were a couple times where you made moves to implement an idea, and a laggy mouse drag or selection caused you to forget what your original goal was.
+I am incredibly proud of our project, and I firmly believe it was taken to the next level by your fastidious code reviews and high quality Ruby style. Best of luck on future projects!
 
 Kyle's Feedback to me:
 
-Kyle Heppenstall [11:42 AM]
-On bike share Drew did an excellent job working collaboratively in a way that worked for the team. He was always available for questions, asked for help when he needed help but still worked independently to get tasks finished. He also did a great job reminding the team to understand code and practice typing it out from memory. My constructive feedback was to take more ownership on figuring out the best way to accomplish tasks like writing dashboard methods. He was hesitant to switch to ActiveRecord from Ruby at first even though it was in the spec and made the pages load faster.
+Kyle Heppenstall [7:12 PM] 
+Cloney Island Feedback!: As always, I loved working with Drew on Cloney Island. You are great to pair with and do a awesome job of stating your opinion on the best way to write the code but also staying flexible with the way the work is accomplished. You are also a strong communicator and always available and putting the team first. My only piece of constructive feedback is to always put your best foot forward on a PR. Whether it is a stub or styling, it could be worth it to do it all the way done the first time instead of leaving things to be refactored and fixed up later. Hopefully we get to work together in Mod 4!
 
-Group Feedback:
+Robbie's feedback to me:
 
-Kyle Heppenstall [11:42 AM] (Kyle was the typer)
-We stayed late and demonstrated commitment and work ethic. We were willing and ready to resolve conflict on the team while keeping the big picture in mind (and while not being defensive).  We taught each other and did a great job putting learning first. Our work flow of two people pairing and one person working individually kept our pace high. Styling was consistent across all pages.
+Robbie Smith [9:57 AM
+This was my first project with Drew and I really enjoyed working with him. I think he brought a good energy to the team and I appreciated his flexibility and willingess to get things done.
 
-Group Feedback: We could have used Waffle more often and organized the waffle page better. Our agile approach was not always on point. We should have wrapped up the stations chunk better before moving on to further iterations. The organization of our models directory could have been clearer. We should have focused more on base expectations instead of adding extra features (time cap them). We could have been more detail-oriented when merging pull requests (and creating pull requests that are more discrete and smaller). Communication was too reliant on everyone being here. Styling was minimalist.
+Daniel's Feedback to me:
 
-Jesse's Feedback to me:
+Daniel Rodriguez [10:58 AM] 
+As expected, working with Drew again was a great experience. He’s a great person to pair with, a hard worker and a very talented developer who will only continue to get better. I would encourage him to take risks and to take ownership of features to push himself as a developer.
 
-Drew and I paired on many class assignments, including our project Job Tracker.
-Drew brings alot of technical capability and ideas to programming and this cohort.
-He never shys away from challenging his knowledge with code, and is outstanding 
-at expressing his thought processes while programming.
+### Playing a Part
 
-I enjoy having Drew in our cohort, his friendly attitude and willingness to learn 
-really enhances the experience of Turing. I look forward to working with, and 
-completing future projects at Turing with Drew.
+I actively pair with my module classmates and I am active in the #pairing channel in Slack. I also actively participate in the Armstrong posse. Outside of Turing, I am aware that I represent Turing. I behave well and have nothing but good things to say about Turing. 
 
-Daniel's Feedback to me: 
-
-Drew is a great person to work with. He always knows the right time to crack a joke whenever the group is starting to get flustered due to a difficult problem. He’s always willing to do whatever it takes for the team to be successful. He has a thorough understanding of most concepts which gives him the ability to fill in the gaps wherever the team needs him. He can explain what he’s thinking when he has a better understanding of something and he’s not afraid to speak up when he thinks we’re going down the wrong path. Having said all of this, I would encourage him to practice styling. There was a point during the project when we were paired together to style and we ended up wasting time and a not so good looking page.
-
-Nick's Feedback to me:
-
-I had a great time working on little shop with drew. as two members of the group that were keen on pairing, we ended up spending a fair amount of time together working on our cards. He’s always engaged, and his fun demeanor lifts the mood whenever necessary. On top of that, his knowledge of ruby & rails is thorough. I felt like I could always rely on him whenever a unique solution to a challenge was required. His gifs and atom plugins are on point as well. Look forward to the possibility of coding up something cool in the future with Drew.
-
-Laszlo's Feedback to me: 
-
-Drew has a personality that makes him an immediate culture fit for any team! He is very easy to work with, works extremely hard, works fast and a team member anyone can always rely on! I enjoyed working with Drew very much and seeing how quickly he can bring a concept to life. He is great at getting things up and running, leaving plenty of time for group review and refactoring.
-
-Improvement suggestion: don’t be afraid to ask questions and suggest a different solution. I might have sounded too convincing when you clearly had a better solution. In a team effort everybody is there to ensure the best possible outcome after considering all ideas available.
-
-It has been great working with you!!!
-
-## E: Community Participation
-
-Attended every Gear-up and as many posse meet-ups as I could. Paired with Module 1 students when they signed up for my pairings. Collaborated positively with several of my classmates at many times during Mod 2. I was always available to help people. I was particularly popular for requests for help during Job Tracker.
-
-Nick G and I have paired very successfully on our Little Shop project. Group Harmony is pretty top notch, everyone does their job, has a light hearted attitude, and gets along very well.
-
+------------------
 
 ## Final Review
 
@@ -278,73 +350,3 @@ Nick G and I have paired very successfully on our Little Shop project. Group Har
 ### Outcome
 
 ( Leave blanks for reviewers )
-
-
-# Portfolio Rubric
-
-For Module 2, your portfolio will be evaluated using the following rubric. Earning at least
-a three in each category is the baseline for promotion/graduation.
-
-## A: End-of-Module Assessment
-
-A Turing student is able to demonstrate proficiency at programming in accordance
-with the module's content and expectations. If you were exempt from the assessment it's a *3*.
-
-* 4: Student achieved two or more "4"s on the assessment (Module 3 requires three or more "4"s)
-* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
-* 2: Student earned one score below "3" on the assessment
-* 1: Student earned two or more scores below "3" on the assessment
-
-## B: Individual & Group Work
-
-A Turing student contributes significantly to group projects, helps the team
-develop their technical skills, delivers a high-quality product, and works to maximize their skill growth.
-
-* 4: Student consistently helps their teammates be their best selves, learn at
-an accelerated pace, and achieve great results and demonstrates excellent growth by pushing their learning beyond expectations.
-* 3: Student fully participates in their group work to facilitate group harmony
-while achieving consistently satisfactory results or a clearly upward-sloping trend.
-* 2: Student participates somewhat in their group work but is either not a
-dependable member of the team or achieves consistently sub-par work and may demonstrate some lack of engagement or growth in their individual skill.
-* 1: Student is not a valuable member of their teams and does not show the commitment expected of Turing students.
-
-## C: Professional Skills
-
-A Turing student values professional growth and seeks opportunities to continuously improve.
-
-* 4: Student demonstrates dedication to their professional growth by not only completing the expected deliverable(s) but also pursuing additional opportunities for professional development beyond what is presented in sessions.
-* 3: Student demonstrates satisfactory dedication, understanding, and growth of professional development through their deliverables from PD sessions.
-* 2: Student demonstrates some lack of understanding or growth of professional development through their deliverables from PD sessions.
-* 1: Student puts minimal effort into deliverable(s), does not follow directions, or is off topic.
-* 0: Student does not complete the deliverable(s).
-
-## D: Feedback
-
-A Turing student accelerates the growth of those around
-them by delivering specific, kind, and actionable feedback. They accelerate their
-own growth by taking in and acting on the feedback of their peers and instructors.
-
-* 4: Student helps others to be their best selves while using peer feedback
-to shape their own character and behavior. They have a significant positive
-positive impact on the learning and spirit of the people around them.
-* 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback. They participate in required
-activities and does at least one or two above and beyond suports of the community.
-* 2: Student gives meaningful impact to peers as well as being aware of themes
-in the feedback they receive. They participate in most required community activities
-such as demos, lightning talks, improv, but does not do anything else of
-significance.
-* 1: Student does not consistently participate in or construct meaningful peer
-feedback. They stay in their lane and focuses on just their own learning.
-
-## E: Community Participation
-
-A Turing student works to build up the community around them by participating and supporting other students,
-the larger Turing family, and persons outside our walls who want to develop
-their own skills.
-
-* 4: Student has a significant positive impact on the learning and spirit of the people around them.
-* 3: Student participates in required activities and does at least one or two above and beyond suports of the community.
-* 2: Student participates in most required community activities such as demos, lightning talks, improv, but does not do anything else of
-significance.
-* 1: Student stays in their lane and focuses on just their own learning.
