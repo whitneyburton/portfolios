@@ -10,10 +10,10 @@
 
 ## Evaluation notes - You need to take notes during assessments/evaluations
 * Final Assessment
-**** Need to be able to write tests without creating the database!
-**** Tests! 
-**** Continue to do active record 
-**** Mid-mod
+** Need to be able to write tests without creating the database!
+** Tests! 
+** Continue to do active record 
+** Mid-mod
 
 ## Rubric Scores
 
@@ -306,7 +306,7 @@ Casey, Katy, and Charlotte- Our backend team! We’ve been so impressed with you
 
 ### Playing a Part
 
-This inning I served as a member of the SAB, which I really enjoyed. I really tried to act as a liaison between students and instructors/staff. It was important to both Ryan and I that everyone contributed feedback during our weekly retros, and I think that our cohort has grown a lot together because of it . Additionally, I was able to contribute to a project with mod-4 front end students, and Katy and Charlotte from my mod. It was a great experience because we were forced to learn a lot "on the job", including creating an internal API and exposing the JSon for the front enders to interact with. I feel like it simulated what life on the job might be like which I really appreciated, and it was my first tasted of working on something I really cared about. Finally, I was able to attend the Lesbians who Tech summit in San Francisco. Turing's mission is bold, and it's clear that it is prototyping, iterating, and striving to be successful in achieving it, but the LWT summit was a truly diverse and inclusive event, and gave me a lot of hope about entering this very new industry. It was great to interact with other badass Turing ladies - current students and alumni - at the conference and build on the Turing cummunity I'm already familiar with. 
+This inning I served as a member of the SAB, which I really enjoyed. I really tried to act as a liaison between students and instructors/staff. It was important to both Ryan and I that everyone contributed feedback during our weekly retros, and I think that our cohort has grown a lot together because of it. One of my favorite parts of this module was pairing with mod 1 students twice a week. It was a great opportunity to meet and interact with students outside of our module, and was a good way to interact with the material we haven't touched in a while. Additionally, I was able to contribute to a project with mod-4 front end students, and Katy and Charlotte from my mod. It was a great experience because we were forced to learn a lot "on the job", including creating an internal API and exposing the JSon for the front enders to interact with. I feel like it simulated what life on the job might be like which I really appreciated, and it was my first tasted of working on something I really cared about. Finally, I was able to attend the Lesbians who Tech summit in San Francisco. Turing's mission is bold, and it's clear that it is prototyping, iterating, and striving to be successful in achieving it, but the LWT summit was a truly diverse and inclusive event, and gave me a lot of hope about entering this very new industry. It was great to interact with other badass Turing ladies - current students and alumni - at the conference and build on the Turing cummunity I'm already familiar with. 
 ------------------
 
 ## Final Review
