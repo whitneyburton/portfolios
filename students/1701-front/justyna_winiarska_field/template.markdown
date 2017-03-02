@@ -17,7 +17,7 @@ My goal was to set solid foundations in css, html and javascript, that I could b
 ## A: End of Module Assessment
 
 
-### Pentathlon: Code Challenge # 1 (DOM Manipulation)
+### Pentathlon: Code Challenge 1 (DOM Manipulation)
 
 ####Evaluator: Robbie
 
@@ -164,8 +164,6 @@ HTML Style
 
 CSS Style
 - 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
-
-Feedback from John: Working with Justyna was great.  We had wonderful give and take, and we agreed up front that no one would fall behind.  I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me.  Our communication was excellent, and we were consequently able to stop any arguments before they even started.  I would be happy to work with her again.
 
 
 ### Idea Box
