@@ -8,7 +8,7 @@
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: Pass
+*   **A: End-of-Module Assessment**: 4
 *   **B: Individual Work & Projects**: 3
 *   **C: Group Work & Projects**: 3
 *   **D: Professional Skills**: 3
@@ -54,6 +54,7 @@ Pass
 
 *   [Bug Report](https://github.com/laserlemon/figaro/issues/259)
 *   [Pull Request](https://github.com/laserlemon/figaro/pull/262)
+*   [Documentation PR](https://github.com/laserlemon/figaro/pull/263)
 *   [Blog Post](https://gist.github.com/JStans12/17a81b821326b6a783724aa6aa8102aa)
 
 I worked on the Figaro gem to fix a reported bug. Previously, when users ran `bundle exec figaro install` if they were already ignoring application.yml in .gitignore, the ignore line would be appended again. Now, if it is already ignored, nothing will happen in .gitignore.
@@ -186,7 +187,7 @@ Brad, nice work on census. You were super easy to work with and I enjoyed having
 
 ### Playing a Part
 
-I was Co-Lead of the Turing Lab. I ran a basic Arduino spike on my own, and helped Kyle Zucker lead a spike on circuit bending. I also paired with a couple students from different mods. Helped Seth debug a test suite and helped Maia with some SQL.
+I was Co-Lead of the Turing Lab. I ran a basic Arduino spike on my own, and helped Kyle Zucker lead a spike on circuit bending. I also paired with Seth from mod one to help him fix a test suite error and Maia from 1608-FE on some SQL.
 
 ------------------
 
