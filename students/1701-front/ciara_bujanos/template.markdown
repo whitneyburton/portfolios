@@ -171,7 +171,7 @@ Specification Adherence
 
 User Interface
 
-3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+3.5 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application is pleasant, logical, and easy to use. The application is fully responsive, and has clearly had special consideration around usability on devices. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
 
 HTML Style
 
@@ -190,7 +190,10 @@ Workflow
 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
 ## D: Professional Skills
-(Intro)
+[LinkedIn](https://www.linkedin.com/in/ciarabujanos/)
+[GitHub](https://github.com/buji405)
+[Medium](https://github.com/buji405)
+[Twitter](https://twitter.com/cbujanos)
 
 ### Gear Up
 #### Growth Mindset
