@@ -21,19 +21,26 @@ This module I set out to improve my knowledge, skills and ability in html format
 #### DOM Manipulation Assessment
 Evaluator: Robbie
 
-Notes: 
+Notes: Be more vocal about my thought process. Take smaller steps to ensure the direction I am moving is the correct one.
 
 Rubric
 
 Progression/Completion
+### Progression/Completion
 
-3: Developer is able to implement solutions at the speed of a junior developer.
+* 3: Developer is able to implement solutions at the speed of a junior developer.
 
-3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+### JavaScript Style
 
-3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
 
-3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+### Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+### Collaboration
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 #### Javascript Testing Assessment
 
@@ -41,12 +48,56 @@ Evaluator: Bree
 
 Progression/Completion
 
+* Although we did not make it very far, you handled the hiccups very well
+* You still need practice in working in small incremental steps and testing your assumptions along the way
+* Good job taking direction and more carefully reading the feedback from the tests
+* I think you grasp the concepts of the data structures, you just need more time working with them
+* You need to work on communicating with the proper terminology
+
+### Progression/Completion
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+### JavaScript Style
+
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+### Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+### Collaboration
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
 
 #### Static Comp CSS Challenge Assessment
 
 Evaluator: Bree
 
 Progression/Completion
+* Need to cross browswer test on safari
+* Need to fix issues w/ flexbox on FireFox
+* Revisit class names in markup - don't wan't to use tag names as extra adjectives in the class name ("circle-graphs-div" should be "circle-graphs"
+* Refactor to remove some div tags - get more semantic, example, use `<fieldset>` in your forms to mark division of form content
+* Work on the organization of your css re: idomatic & in-line/order with the markup and chunking out sections of the css( base, scaffolding, typography, etc)
+* Very solid job overall
+ 
+### Design Integrity
+
+- 3: The comp accurately reflects the design integrity with respect to color, layout, imagery, spatial relationship of graphical elements. While there are areas of improvement, it is a close representation of the original design.
+
+### Responsive Layout
+
+- 3:  The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
+
+### HTML Style
+
+- 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
+
+### CSS Style
+
+- 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 
 ## B: Individual Work & Projects
@@ -124,7 +175,12 @@ The application should be able to keep count of the total number of read and unr
 
 Evaluator Comments (Louisa): Small design errors in spacing in body, more cohesive color scheme would be nice.
 
-(evaluation scores) - unavailable
+Evaluator Scores - 
+3: Application meets all of the functional expectations in Phase Two. ### Fundamental JavaScript Style
+3.5: Application shows strong effort towards organization, content, and refactoring. ### Workflow
+3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base. ### HTML Style
+4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors. ### CSS Style
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 Feedback from partner: Dave Hubertus - "Working with Adam was a great experience. We were up front about what we both wanted to get out of the experience and decided early on how we were going to attack the project. Our ideal work times were discussed and since we both wanted a hand in every aspect of our project we essentially built each part together.  Adams skill set and ability to communicate well made our first pairing very successful even when the struggle was real."
 
@@ -167,7 +223,30 @@ In this project we will be refactoring a fellow students IdeaBox project into a 
 
 Evaluator Comments (Louisa): Better coloring of buttons, functionality was good. Break out JS even further so each function only does one job.
 
-(evaluation scores) - unavailable
+Evaluation Scores - 
+Specification Adherence
+
+3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from phases 1 through 4 that make the application feel incomplete or hard to use.
+
+User Interface
+
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+HTML Style
+
+3.5 - Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+JavaScript Style
+
+3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Testing
+
+3.5 - Project has a running test suite but fails to cover some features. The application makes some use of feature testing.
+
+Workflow
+
+3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
 Feedback from partner: Spencer: 
 Positive feedback - "You are easy to work with and laid-back. I never felt like you were frustrated with me for not understanding   something. I appreciate that you would ask questions and take the time to clarify stuff to me as we slogged through the project." 
