@@ -36,7 +36,7 @@ Collaboration
 
 ### Pentathlon: Code Challenge 2
 
-#####Evaluator: Bree
+####Evaluator: Bree
 
 Notes:
 * Great communication skills
@@ -59,7 +59,7 @@ Collaboration
 
 ### Pentathlon: Static Comp Challenge
 
-#####Evaluator: Bree
+####Evaluator: Bree
 
 Optional Notes:
 * I really appreciate your attention and care where accessibility is concerned. Keep it up!
