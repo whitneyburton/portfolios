@@ -6,7 +6,7 @@ I set out to to learn all the basic fundamental skills (HTML, CSS, JS, working a
 
  Rubric Scores
 
-*   **A: End-of-Module Assessment**:pass-ish (3)
+*   **A: End-of-Module Assessment**:pass-ish (I am a simple 3 kind of guy)
 *   **B: Individual Work & Projects**:3
 *   **C: Group Work & Projects**:3
 *   **D: Professional Skills**:3
@@ -16,12 +16,91 @@ I set out to to learn all the basic fundamental skills (HTML, CSS, JS, working a
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+# Pentathlon: Code Challenge # 1 (DOM Manipulation)
 
+## Evaluator: Robbie
+
+## Optional Notes:
+
+### Progression/Completion
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+### JavaScript Style
+
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+### Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+### Collaboration
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+# Pentathlon: Code Challenge 2
+
+## Evaluator: Bree
+## Optional Notes:
+
+* Work on slowing down and solving the problem in smaller, incremental steps
+* Before jumping into the code, assess the problem and/or problems to solve, as you appear to get into a rushed mode and frantically start "throwing code at the wall" :)
+* Good job overall handling input and direction
+* You have a good grasp of the fundametal js concepts!
+
+### Progression/Completion
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+### JavaScript Style
+
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+### Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+### Collaboration
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+# Pentathlon: Static Comp Challenge
+
+## Evaluator: Bree
+## Optional Notes:
+
+* Need to check cross browser and fix your image issue that is causing for scrolling on the x-axis at mobile sizes
+* Less spacing in between your vertical nav items
+* Revisit where you have the hover + border bottom on horizontal nav - you want the word to be underlined, not the div it sits in
+* Lighten up those horizontal dividers in the main vertical nav bar
+* Fix your indentation. Should only be 2 spaces per indent for nesting.
+* Use more semantic markup. Your div use is heavy and lacking in accessibility attributes as well.
+* Don't use `li` sans being wrapped in a `ul`
+* Use semantic form tags and use fieldset tags to divide the content within
+* Overuse of id's in your css - gonna be hard to maintain longterm and you are likely missing opportunities to share styles across elements
+* Watch out for the hard-heights on elements that contain other elements, as it's brittle. When more children are added, your parent container's hard height is limiting. Look at `min-height`
+* Overall - this is definitely your weakest area in the summative assessment, and it's a SOFT PASS on the code part. I'd expect your markup in particular to be better structured and more semantic. Work on this area in particular, as many devs consider this to be the "easier" aspect of FE development, in which case, you don't want it to look like shit when interviewing. :)
+* Design integrity is promising. Good work there. Still need to pay attention to details of padding and font/line weights.
+
+### Design Integrity
+
+- 3: The comp accurately reflects the design integrity with respect to color, layout, imagery, spatial relationship of graphical elements. While there are areas of improvement, it is a close representation of the original design.
+
+### Responsive Layout
+
+- 3:  The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
+
+### HTML Style
+
+- 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
+
+### CSS Style
+
+- 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 ## B: Individual Work & Projects
 
-Dog-Party, Number Guesser, Mythical Creatures ,and the Static Compositions were all projects/assignments
+- Dog-Party, Number Guesser, Mythical Creatures ,and the Static Compositions were all projects/assignments
 done independently to push our skills as Web Developers to the fullest at the time.
 
 #### Dog-Party:
@@ -66,9 +145,9 @@ http://frontend.turing.io/projects/number-guesser.html -- Original Assignment
 
  3: Application shows strong effort towards organization, content, and proper syntax
 
-Static Composition Challenges
+#### Static Composition Challenges
 
- These assignment was meant to challenge and expand our HTML & CSS skills  We were given creative license, however the objective was to build something that respected the integrity of the original design.
+ These assignments was meant to challenge and expand our HTML & CSS skills  We were given creative license, however the objective was to build something that respected the integrity of the original design.
 
 ####  Static Composition 1
 
@@ -114,7 +193,7 @@ http://frontend.turing.io/projects/linked-list.html -- Original Assignment
 
 Linked List is a JavaScript powered program that takes user's inputs on title and links for bookmarked webpages.
 
-No notes available--(3's all around)
+No notes available--(It was 3's all around if you are the trusting type)
 
 
 
@@ -123,9 +202,9 @@ No notes available--(3's all around)
 https://github.com/devthehuman/idea-box --GitHub
 http://frontend.turing.io/projects/ideabox.html -- Original Assignment
 
-Project that had us expand on the principles of linked-list, but incorporated utilizing local storage on web-browsers.
+Project that had us expand on the principles of linked-list, but incorporated the utilization of local storage on web-browsers.
 
-Evaluator: Robbie
+###Evaluator: Robbie
 
 Notes:
 
@@ -155,10 +234,10 @@ https://github.com/cjorda15/2DoBox-Pivot -- GitHub
 https://cjorda15.github.io/2DoBox-Pivot/ -- Published Site
 http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html -- -- Original Assignment
 
-2DoBox-Pivot was a project meant to introduce us to working with and refactoring other developer's code as well as
+####2DoBox-Pivot was a project meant to introduce us to working with and refactoring other developer's code as well as
 starting application testing. We also were to add new features to what truly was linkedList and transform it into a new application.
 
-Evaluator: Robbie
+###Evaluator: Robbie
 
 
 Instructor Evaluation Points
@@ -220,145 +299,145 @@ https://docs.google.com/document/d/1bQ9fFuUyBXpO_07txSoVTvd5OZHAJwKWz9K3qleMWl0/
 
 ## E: Feedback and Community Participation
 
-### Getting Feeback
+#### Getting Feeback
 
-Devin Dixon
+###Devin Dixon
 
-       What do you believe are my strengths?
+##What do you believe are my strengths?
 
 I think that you are very intelligent and determined to thoroughly understand a problem or solution before moving on to the next. You're kind and supportive and definitely have what it takes to be a great programmer.
-What do you think I could improve upon?
 
-      What do you think I could work on?
+##What do you think I could work on?
 
 I think communication is an area that you could work on. Being able to effectively communicate, or even assert yourself, when collaborating is really important and you could definitely come out of your shell a bit more to achieve that.
-    Anything else you might want to add or comment on?
+
+##Anything else you might want to add or comment on?
 
 All in all, you're an awesome dude and I'm looking forward to hanging for the next 6 months.
 
 
-Nik B
+###Nik B
 
-    What do you believe are my strengths?
+##What do you believe are my strengths?
 
 great all around partner, you approach problems differently than I do and that allows me to see a different perspective.
 
-    What do you think I could improve upon?
+##What do you think I could improve upon?
 
 explaining some of your ideas ;)
 
-  Anything else you might want to add or comment on?
+##Anything else you might want to add or comment on?
 
 You rock, thanks for everything!
 
+###Devon Bull
 
-  Devon Bull
-
-  What do you believe are my strengths?
+##What do you believe are my strengths?
 
 Javascript, communicating complex ideas.
 
-  What do you think I could improve upon?
+##What do you think I could improve upon?
 
 Participating in the community.
 
-  Anything else you might want to add or comment on?
+##Anything else you might want to add or comment on?
 
 Keep grinding dude!
 
 
-Laura Turk
+###Laura Turk
 
-  What do you believe are my strengths?
+##What do you believe are my strengths?
 
 While I haven't worked with you very closely, through the conversations we have had I can say you are kind, humble, funny, welcoming, and understand complex things really well.
 
-  What do you think I could improve upon?
+##What do you think I could improve upon?
 
 I would love to hear more from you! (I know that's probably the shittiest feedback to receive if you identify as introverted, but you have a unique perspective and voice benefits our cohort.)
 
 
-### Giving Feedback
+#### Giving Feedback
 
-  Chris Bandrowsky
+###Chris Bandrowsky
 
-  If we were partners on a project, how did you feel about our group experience? Anything you liked? Any recommendations for the future?
+##If we were partners on a project, how did you feel about our group experience? Anything you liked? Any recommendations for the future?
 
 n/a
 
-  How have our interactions throughout the mod helped with your understanding of code, or the development of you as a programmer?
+##How have our interactions throughout the mod helped with your understanding of code, or the development of you as a programmer?
 
 You can articulate concepts to all of us in a manner that is easy to understand. Your design background is very helpful as well in understanding that aspect of our work
 
-  Have our interactions as a whole affected your experience as a Turing student?
+##Have our interactions as a whole affected your experience as a Turing student?
 
 Absolutely. It has only furthered my positive experience here at Turing.
 
-  What are some things I could work on in future mods?
+##What are some things I could work on in future mods?
 
 Voice your design mind more. Love hearing that shtuff
 
-  Is there anything else you'd like to tell me?
+##Is there anything else you'd like to tell me?
 
 Keep doing you man
 
-  All things considered, wanna grab a beer?
+##All things considered, wanna grab a beer?
+
 Yes, of course!
 
+###Laura Turk
 
-
-  Overall, how was it working with me as a project partner and a human?
+##Overall, how was it working with me as a project partner and a human?
 
 As a human, it was throughly a pleasure. Very kind, but direct.
 
-  What strengths did I bring to our group?
+##What strengths did I bring to our group?
 
 Clear thinking and not afraid to voice any questions
 
-What areas (technical or interpersonal) should I work on?
+##What areas (technical or interpersonal) should I work on?
+
 Believe in yo' self girl. If people you meet wish to talk about coding and its over your head at the time, then make it a lesson to expand on your knowledge, or just say scrooge this, Ima meet people who aren't lame.
 
 
-Nik Bornemeier
+###Nik Bornemeier
 
-Feedback (good and bad)
+##Feedback (good and bad)
 
-You have the intelligence and determination to make any function or layout possible. Also a design sensitive mind to certainly make a splash in this field. I see great thing in your future sir. The bad: you make others look so. But in all honesty, believe in your basic skills as a developer. Maybe its a lack of time to get comfortable with the basics,  still, you are quick enough to keep up the pace with one with all the time in the world. Keep killing it Nik
+You have the intelligence and determination to make any function or layout possible. Also a design sensitive mind to certainly make a splash in this field. I see great thing in your future sir. The bad: you make others look so. But in all honesty, believe in your basic skills as a developer. Maybe its a lack of time to get comfortable with the basics, still, you are quick enough to keep up the pace with one with all the time in the world. Keep killing it Nik
 
+###Adam Carpenter
 
-Devon Bull
-
-  What can I improve?
-Making the rest of us not look so bad. Time management I suppose so some projects aren't last min (I know, I know, you work better under pressure..)
-
-What went well?
-
-  Among many things, you are great at networking. Being able to connect with everyone in the classroom says so much about how well you are going to, in the future, be able to kill it in finding work or assistance with the work you are currently doing.
-
-Would you want to work together again?
-Yes
-
-Is there a way to communicate with you that you prefer?
-
-With plastic cups and a string.
-
-  Any additional comments?
-
-I never worked with you but the lousy thing is required so I'll just say gee I could see us working together well.
-
-
-  Adam Carpenter
-
-Positive feedback
+##Positive feedback
 
 Apparently from the work I have seen, you got you shtuff together. Soo keep doing whatever it is you are doing
 
-  Areas for improvement
+##Areas for improvement
 Honestly couldn't say. Haven't worked with you yet or seen anything I could possibly say you ought to improve on
 
-  Favorite type of music
+##Favorite type of music
 
 Anything that starts with a "B" and ends with "eatles"
+
+###Devon Bull
+
+##What can I improve?
+
+Making the rest of us not look so bad. Time management I suppose so some projects aren't last min (I know, I know, you work better under pressure..)
+
+##What went well?
+
+Among many things, you are great at networking. Being able to connect with everyone in the classroom says so much about how well you are going to, in the future, be able to kill it in finding work or assistance with the work you are currently doing.
+
+##Would you want to work together again?
+Yes
+
+##Is there a way to communicate with you that you prefer?
+
+With plastic cups and a string.
+
+##Any additional comments?
+
+I never worked with you but the lousy thing is required so I'll just say gee I could see us working together well.
 
 ### Being a Community Member
 
@@ -366,7 +445,7 @@ Anything that starts with a "B" and ends with "eatles"
 
 Whenever fellow students showed any signs of stress with a coding problem or anything else, I have tried to extend my support in any way to hopefully alleviate the issue.
 
-If a fellow student approached me wanting assistance with a coding problem, I would make sure to see if I could explain the problem in the simplest way possible and attempt to see it through with them. I feel I have taken great care, that whenever I do help others out, I don't say this is too easy or too hard of a concept or try to impress upon them any sense that I have this down (which I don't in most cases..). I always have tried to make this a partnership of tackling  a problem together rather than me explaining the solution.  
+If a fellow student approached me wanting assistance with a coding problem, I would make sure to see if I could explain the problem in the simplest way possible and attempt to see it through with them. I feel I have taken great care, that whenever I do help others out, I don't say this is too easy or too hard of a concept or try to impress upon them any sense that I have this down (which I don't in most cases..). I always have tried to make this a partnership of tackling  a problem together rather than me explaining the solution. Of course I need to work on how to get my understanding of concepts to others better because if I was talking to my past self who had no knowledge of this field, he totally would be like wt f*&%$
 
 I check the slack channels to make sure that if there is any issues any fellow colleagues are having that I may have a solution for, I will send direct messages to them with advice.
 
