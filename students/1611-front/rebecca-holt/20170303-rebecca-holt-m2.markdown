@@ -227,3 +227,13 @@ Constructive criticism about our pairing
 
 I have become a member of the Turing community by pairing with module one students, pairing with back-end students regarding algorithmic thinking projects, going to Joan Clark Society meetings on Tuesdays, and participating in Friday Spike sessions in the Verou Posse. 
 
+# Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
+
