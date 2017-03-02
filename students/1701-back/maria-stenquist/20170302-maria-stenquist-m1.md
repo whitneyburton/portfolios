@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-``` To learn as much as I can! I wanted to fill in some gaps I had in core Ruby concepts (data types, data structures, abstraction, Ruby Object Model). At the beginning of this module, I set out to have a 'weekly plan' and also a 'daily plan' for goals/objectives that I wanted to complete for that day/week, and I would check them off at the end of the day/week. This system worked (for the most part) and it did help me to organize areas that I needed to focus on. I exercised my 'growth mindset', wrote lots of code (good and bad), and better utilized available resources (classmates, TA's, mentors, Google, debugging). Revisiting topics in a 'spiral of knowledge' method did help to solidify some key concepts. Being an active member of the Turing community: I have enjoyed working with the Hamilton posse as well as the Turing Diversity student group. I am looking forward to the 'diversity panel' that has been in the works, and the first one will be at the beginning of next module. Looking towards the future, I look forward to using these Ruby fundamentals and apply layers of other frameworks, and libraries and work on some interesting projects. ```
+``` To learn as much as I can! This module I wanted to fill in some gaps I have in core Ruby concepts (data types, data structures, levels of abstraction, and the Ruby Object Model). I also wanted to focus on TDD and strengthen that skillset. At the beginning of this module I set out to have a 'weekly plan' and also a 'daily plan' for goals/objectives that I wanted to complete for that day/week. I would then check them off at the end of the day/week. This system worked (for the most part), and it did help me to organize areas that I needed to focus on. I exercised my 'growth mindset', wrote lots of code, and better utilized available resources (classmates, TA's, mentors, Google, debugging). Revisiting topics in a 'spiral of knowledge' method did help to solidify some key concepts. Being an active member of the Turing community: I have enjoyed working with the Hamilton posse as well as the Turing Diversity student group. I am looking forward to the 'diversity panel' that has been in the works: the first one will be at the beginning of next module. Looking towards the future: I am eager to use these Ruby fundamentals and apply layers of other frameworks and libraries to work on some interesting projects! ```
 
 
 ## Self-Assessment Scores
@@ -126,14 +126,14 @@ Code: Debugging the Gender Gap
 
 ### Community Participation
 
-* Participated in Hamilton Posse, came up with a project idea (to work on within the posse)
+* Participated in Hamilton Posse and came up with a project idea (to work on in the posse)
 * Participated in Imposters Lunch
 * Enjoyed meeting new people in the Lunch Roulettes
-* Checked-in with fellow students, and provided emotional/encouragment support to others
+* Checked-in with fellow students, and provided emotional/encouraging support to other students
 * Led a few Mythical Creatures/other drill sessions for students that requested them
-* Shared my lightning talk with students that were further interested in the topic, made myself available to chat further on the topic
+* Shared my lightning talk with students that were further interested in the topic, made myself available to chat 
 * revamped a couple students' resumes
-* on-going support for a couple Turing alums/students in regards to connecting contacts/companies for career opportunities
+* on-going support for a couple Turing alums/students in regards to connecting them with contacts/companies for career opportunities
 
 -------------------------------------------------------------
 
