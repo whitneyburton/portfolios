@@ -9,7 +9,7 @@ This module I wanted to: become proficient at Ruby (writing succinct & conventio
 | Section | Category | Score |
 | --- | ----- | --- |
 | A | **End-of-Module Assessment** | 4 |
-| B | **Individual Projects** | 2.5 |
+| B | **Individual Projects** | 3 |
 | C | **Group Projects** | 4 |
 | D | **Professional Development** | 4 |
 | E | **Community** | 3 |
