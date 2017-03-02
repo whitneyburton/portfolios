@@ -219,7 +219,7 @@ Positive feedback about our pairing:
 *	Paired-Project - You were a pleasure to work with! You made yourself available and were enthusiastic about meeting up to work anytime! You were so confidant and encouraging to work with, I am so glad our first project of this mod was with you!
 *	Paired-Project - You were great all around! I appreciated how you didn't shy away from the seemingly difficult tasks and just dove right into the problems. You were always throwing out ideas for solutions and you were open to my suggestions as well. 
 *	Mod 1 Pairing - You helped me understand some of the basics of programming. Our pairing session was very helpful.
-* I think you maintain a positive attitude in tough situations, which is something to admire. You are patient and kind, and seem to get along with everybody. Your ability to deal with problems without getting stressed is going to take you far in this field. You're a great person and I'll definitely pair with you next mod! 
+* Mod 1 Pairing - I think you maintain a positive attitude in tough situations, which is something to admire. You are patient and kind, and seem to get along with everybody. Your ability to deal with problems without getting stressed is going to take you far in this field. You're a great person and I'll definitely pair with you next mod! 
 
 Constructive criticism about our pairing
 *	Paired-Project - I really don't have any constructive criticism because we worked so well together. I also think having a detailed DTR together before we started the project made all the difference. You were very upfront about what you consider to be areas to improve and it seemed to me you have already come a long way in those areas.
