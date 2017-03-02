@@ -10,7 +10,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
+| A | **End-of-Module Assessment** | 3 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
 | D | **Professional Development** | 4 |
@@ -174,4 +174,4 @@ I have participated in Joan Clarke Society and Imposters (club?) while at Turing
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED
