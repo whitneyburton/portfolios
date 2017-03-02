@@ -298,6 +298,8 @@ I joined and attended IronFe in the mornings and also led my Mod as an SAB repre
 
 ### Outcome
 
+PASS
+
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
