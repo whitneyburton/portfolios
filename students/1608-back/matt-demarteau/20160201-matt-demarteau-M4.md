@@ -66,6 +66,10 @@ activities and does at least one or two above and beyond suports of the communit
 There was not an individual project in module 4, but producing for the team as an individual was needed throughout.  Due to the complexity and scope of the projects in module 4, there were many nights spent working alone on tasks that would contribute to the group project.  Team members counted on each other to complete their share of the work throughout the mod.  
 
 
+ * I did individual work to get involved in the open source community and wrote a blog post about my efforts, posted here:
+    - [Getting to Open Source is Not Always an Open Door](https://medium.com/@mtdendeavor/getting-to-open-source-is-not-always-and-open-door-748af42637ab#.hp5oo2jno)
+
+
 ## C: Group Work & Projects
 
 The bulk of this module involved working in a group to complete projects.  Although the individual contribution to the group work was important, managing your time with group members and working in a team was essential to passing module 4.  Our first project was a two-week pair project called quantified self and the second and third projects where three-person projects.  The last two projects were related and we worked in the same three-person groups for both.
