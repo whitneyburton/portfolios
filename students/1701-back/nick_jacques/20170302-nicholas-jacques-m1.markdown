@@ -38,7 +38,7 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 | **Test-Driven Development** | n/a | 3 | 1 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 | 3 |
 | **Fundamental Ruby & Style** | 3 | 3 | 3 |
-| **Loop or Recursion** | n/a | n/a| n/a |
+| **Loop or Recursion** | n/a | 3 | n/a |
 
 #### Notes
 
