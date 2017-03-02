@@ -30,7 +30,7 @@ Comprehensive Quizlette:
 
 ## B: Individual Work & Projects
 
-(Intro)
+Front End Module One Projects are designed to improve our skills and increase our exposure to multiple facets of programming. Each project builds upon the last and increases in complexity. Projects have exposed us to HTML, CSS, Javascript, jQuery, JSON and Local Storage.
 
 #### Number Guesser
 
@@ -39,9 +39,18 @@ Comprehensive Quizlette:
 
 Build a game where the user guesses a number between 1 and 100.
 
-(evaluation comments)
+UX/UI Expectations
+2: Application meets the basic spirit of the comp but overlooks many details. Extensions show questionable design decisions that negatively impact the overall UX/UI. Functional Expectations
+3: Application meets all of the functional expectations in Phase Two
 
-(evaluation scores)
+Fundamental HTML
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing and has incorporated accessibility best practices.
+
+Fundamental CSS
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
+Fundamental JavaScript
+3: Application shows strong effort towards organization, content, and proper syntax
 
 #### Static Comp 3
 
@@ -58,7 +67,7 @@ The static comp challenge is a series of three challenges to keep you working th
 
 ### Projects
 
-(Intro)
+Front End Module One Projects are designed to improve our skills and increase our exposure to multiple facets of programming. Each project builds upon the last and increases in complexity. Projects have exposed us to HTML, CSS, Javascript, jQuery, JSON and Local Storage.
 
 #### Linked List
 
@@ -67,9 +76,21 @@ The static comp challenge is a series of three challenges to keep you working th
 
 Build an application that can save a URL and title into two inputs and on click of submit to save the bookmark to your webpage.
 
-(evaluation comments)
+Functional Expectations
+3: Application meets all of the functional expectations in Phase Two.
 
-(evaluation scores)
+Fundamental JavaScript Style
+3.5: Application shows strong effort towards organization, content, and refactoring. 
+
+Workflow
+3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base. 
+
+HTML Style
+4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. 
+Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors. 
+
+CSS Style
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 (feedback to me)
 
@@ -80,9 +101,23 @@ Build an application that can save a URL and title into two inputs and on click 
 
 Build an application that can save a URL and title into two inputs and on click of submit to save the bookmark to your webpage. The bookmarks should be stored in local storage and persist on the page after refresh.
 
-(evaluation comments)
+Specification Adherence
+3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
-(evaluation scores)
+HTML Style
+3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+CSS Style
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
+JavaScript Style
+3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Workflow
+3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
+Collaboration
+3.5 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
 (feedback to me)
 
@@ -103,14 +138,14 @@ Pivoting another student's IdeaBox to become a new application that keeps much o
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mind Set
 
-*   [GitHub URL]()
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
 (takeaways from session)
 
 ### PROtocol
-#### (Session Name)
+#### Giving Good Feedback
 
 *   [Link to Completed Deliverables]()
 
@@ -152,7 +187,7 @@ I felt like our project was successful because we  had really good communication
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I have participated in most, if not all events, that have been required of Turing students. However when considering taking on tasks outside of course work, I have shied away due to fear of taking on too many tasks. Having a better understanding of the course load and Turing’s all around structure, I look forward to some of the opportunities the Turing community has to offer. 
 
 ------------------
 
