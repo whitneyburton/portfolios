@@ -18,7 +18,26 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## A: End of Module Assessment
 
-Individual Coding Challenge-A: DOM Manipulation
+### Individual Coding Challenge-A: DOM Manipulation
+### Pentathlon: Code Challenge 1
+
+##### Evaluator: Bree
+#### Optional Notes:
+* Good communication skills and laying out your approach as you work
+* Good job recognizing your concatenation issue and identifying you need to parseInt
+* Great progression getting through the features smoothly
+
+#### Progression/Completion
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+#### JavaScript Style
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+#### Workflow
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### Collaboration
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 Individual Coding Challenge-B: Mythical Creature
 
@@ -149,17 +168,24 @@ Pivoting another student's IdeaBox to become a new application that keeps much o
 (feedback to me)
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Growth Mind Set
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-Growth Mind Set is a valuable mental state which should be more widely practiced throughout education systems. Growth mind set is something Ive unknowingly practiced throughout many aspects of life, however not as much when it came to education. 
+Growth Mind Set is a valuable mental state which should be more widely practiced throughout education systems. Growth mind set is something Ive unknowingly practiced throughout many aspects of life, however not as much when it comes to education. Having this mind set and applying it to my education with Turing has been very helpful as there are many times through out each project where its easy to feel lost or unaccomplished.
+
+#### Debugging Gender Gap
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
+
+Debugging the gender gap brings up a very interesting and very valuable concept while identifying a cultural imbalance of men and women in programming. The concept of perspective is addressed heavily in the film and is something Ive practiced a good portion of my life. Having grown up in a diverse area and gone to college in a not diverse state it was eye opening how perspective can be lost. Throughout my first module with Turing, I believe this has been the most valuable gear up session. Perspective should be practiced and exposure to issues and problems that don’t typically effect ones life is highly beneficial.
 
 ### PROtocol
 #### Giving Good Feedback
+
+Giving and receiving feedback is a learned skill that can only be improved through practice. When giving feedback, its important to practice empathy and have perspective. Communication is key whether there is and issue that needs to be addressed or everything is great. When receiving feedback its important to curb emotions and extract all valuable information while passing over criticism that may otherwise cause friction. Again having frequent communication is highly important to a functional partnership.
 
 *   [Link to Completed Deliverables]()
 
