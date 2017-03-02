@@ -227,9 +227,13 @@ Turn down the suck!
 
 ### Project Teammate Feedback
 
-**From Person**
+**From Sam on remEMBER**
 
-Feedback
+I really enjoyed working with you on the Ember project, Mike.  It was one of the more difficult projects to figure out - in terms of my learning curve - but I thought we had a good pairing dynamic that got us through it very effectively.  I think we were both frustrated at times but think we had a mutual understanding/respect that kept us ultimately on track and able to kick out a very solid project.
+
+My only constructive feedback is actually similar to yours - just to be aware of ideas/a different direction than the one you are on when driving pair coding. I think we are similar in this way - we learn by exploring - but figured I’d mention it since there were a few times where I didn’t feel like you were totally internalizing the idea/direction I was trying to propose.  
+
+I would gladly partner up with you again and hope we get that opportunity on a more substantial project in Mod4.  You are a great programmer and teammate.
 
 **From Person**
 
