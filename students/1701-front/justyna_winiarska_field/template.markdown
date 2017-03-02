@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My goal was to set solid foundation in css, html and javascript.
+My goal was to set solid foundations in css, html and javascript.
 (What did you set out to accomplish this module?)
 
 ## Rubric Scores - self evaluation
