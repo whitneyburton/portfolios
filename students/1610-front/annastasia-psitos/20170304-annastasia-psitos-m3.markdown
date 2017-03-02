@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to be more confident with my coding. Even though I spent most of the module thinking I was behind and didn't know what I was doing, the evals and tests I did at the beginning of this week made me feel a lot more confident in my ability.
 
 ## Rubric Scores
 
