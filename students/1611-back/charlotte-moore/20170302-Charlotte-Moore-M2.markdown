@@ -10,7 +10,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 * **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3 
 
@@ -25,30 +25,27 @@ Subjective evaluation will be made on your work/process according to the followi
 
 ### Conceptual Understanding
 
-  * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
-  * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
-  * 2: Developer demonstrates some gaps in understanding when asked for additional detail
-  * 1: Developer has fundamental misconceptions about Rails, MVCs, the web, or related topics
+ * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
 
 ### Analytic/Algorithmic Thinking
 
-  * 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+ * 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
 
 ###  Feature Completeness
 
-* 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+ * 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
 
 ###  ActiveRecord Syntax and Style
 
-  * 4: Developer is able to establish and utilize ActiveRecord methods independently and can articulately discuss the difference between relationships at the model and database level
+ * 4: Developer is able to establish and utilize ActiveRecord methods independently and can articulately discuss the difference between relationships at the model and database level
 
 ### Rails Style
 
-  * 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
+ * 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
 
 ### Testing
 
-  * 3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
+ * 3: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
 
 ### Collaboration
 
@@ -142,15 +139,14 @@ I've reached out to two people about mentorship. The first never responded, and 
 
 ### Tragedy of the Commons
 
-* Let's say tech executives (consciously or subconsciously) seek teams in which at least 1/3 of team members are like them (gender, age, race). How will this impact the types of jobs available?
  * If tech executives seek teams in which at least one third of team members are like them than that means at a minimum at least one third of jobs at those companies won't be available to people unlike them. This is an issue because it limits the opportunities for people of different genders, ages, and races. 
-* Diversity "quotas" are sometimes dismissed as counter-productive or missing the point of actually valuing diversity. PotP does demonstrate how they may add some value. What are your attitudes toward diversity quotas; does this game change your assumptions?
+
  * I think diversity quotas are a good way of counteracting systemic bias. It helps ensure that negative bias is less of an issue in the hiring process. 
-* Given the patterns illuminated by PotP, what other strategies may be effective in counteracting bias?
+
  * I think education is the best way to counteract negative bias. I think engaging people who are unlike yourself is the best way to offset any learned or intrinsic bias we may have. The other is only the other because they are unknown. 
-* PotP speaks to the power of group norms: a seemingly innocuous attitude, wanting to be surrounded by at least 1/3 of people who look like you, when embraced by a large group, can have huge implications on that community. Considering this reality, what knowledge and understandings should Turing impart to students to ensure they do not enter the field perpetuating ideas that are in conflict with our mission.
+
  * I think doing gear ups like this are a good way of educating people about the danger of embracing a group norm that is exclusionary. 
-* PotP is a pretty sweet example of how technology can illustrate complex ideas. What are PotP's goals, and how effective do you think the game is in advancing those goals?
+
  * PotP's goals were to provide an interactive model that demonstrates the effects of collective. I think it was ultimately effective, it was fun and engaging. 
 
 ### Debugging the Gender Gap
