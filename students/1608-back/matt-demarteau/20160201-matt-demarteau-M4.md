@@ -149,7 +149,7 @@ Notes:
 * 4: Project has implemented two or more major techniques from the previous two weeks of academic classes.**
 
 
-### Gadjet
+### Gadget
 
 *   [GitHub URL]()
 *   [Original Assignment]()
@@ -238,11 +238,19 @@ Really appreciated your hard work on Quantified self where we got thrown in the 
 
 ## Final Review
 
-### Notes
+*   **A: End-of-Module Assessment**: Pass
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
 
-( Leave blanks for reviewers )
+### Notes (From Nate)
+
+- As we got to work together on Briefcase, I appreicated that you were always looking out for the rest of the team.
+- Thank you for your contributions to the community. The closeness of students
+- It's good to argue your case, but better to deliver up front. You're capable, but not always worried about the details. Sweat the details. Ask lots of questions until you're sure you understand what you're delivering.
+- You started just a little bit before me. Of all the students that I had in 1602, some have dropped out, but you stuck with it. Better late than never, and I'm proud of you.
 
 ### Outcome
 
-( Leave blanks for reviewers )
-
+Recommended for Graduation
