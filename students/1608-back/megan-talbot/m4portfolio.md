@@ -276,7 +276,6 @@ Additionally, I again took part in all Joan Clarke Society meetings, which I alw
 
 I was also again a pre-work guide, and I love to talk to incoming studnets about things like setting up environments, as it makes me very aware of how far I've come!
 
-
 ------------------
 
 ## Final Review
