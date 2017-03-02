@@ -50,7 +50,7 @@ This is a summation of my individual projects for Module 3
 * [Production Site](http://rehearsaltracker.herokuapp.com/)
 * [Original Assignment](http://backend.turing.io/module3/projects/self_directed_project)
 
-
+Running a theatre is a logistics nightmare and diseminating imformation to the differenct technical departments is very challenging. By providing a place to collect the tasks and notes that come from rehearsal meetings into one place and providing tags to alert the different departments when tasks need their attention, my app streamlines the process. It allow the stage manager to set clear expectations and track the progress of tasks as they are passed off.
 
 ## C: Group Work & Projects
 
