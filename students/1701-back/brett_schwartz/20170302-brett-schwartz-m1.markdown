@@ -53,11 +53,12 @@ The second area of emphasis for me was learning ruby syntax and fundamentals of 
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/slague/night_writer) | [link](https://github.com/josh-works/black_thursday) |
-| **Functional Expectations** | 2.5 | X |
-| **Test-Driven Development** | 2.5 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | N/A | X |
+| **Functional Expectations** | 2.5 | 3 |
+| **Test-Driven Development** | 2.5 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 4 |
+| **Code Sanitation** | n/a | 4 |
+| **Enumerables & Collections** | n/a | 4 |
 
 ## D: Professional Development
 
