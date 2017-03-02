@@ -30,9 +30,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Scores
 1. Conceptual Understanding
-  ** 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance**
+  **4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance**
 2. Analytic/Algorithmic Thinking
-  ** 3.5: Developer breaks complex problems into small, digestible steps and executes them with little assistance**
+  **3.5: Developer breaks complex problems into small, digestible steps and executes them with little assistance**
 3. Feature Completeness
   ** 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests**
 4. ActiveRecord Syntax and Style
