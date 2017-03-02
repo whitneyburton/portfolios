@@ -175,6 +175,12 @@ My goals for after graduation are:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 4
+* **E: Feedback & Community: Participation**: 3.5
 
 ### Outcome
+
+Promoted
