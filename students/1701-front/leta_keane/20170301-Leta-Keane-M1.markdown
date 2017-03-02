@@ -343,10 +343,6 @@ I'm really looking forward to pairing with future Mod1 students (presuming I mov
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
