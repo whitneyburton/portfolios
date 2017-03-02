@@ -19,7 +19,58 @@
 
 ## A: End of Module Assessment
 
-*Pending*
+#### Code Challenge 1
+###### Evaluator: Bree
+###### Optional Notes:
+
+* Excellent communication skills! I always knew where you were headed and what you were thinking.
+* Good balance of reading the problem and working in small, logical, incremental steps and testing your assumptions along the way.
+* Got stuck on the disabled state, but you quickly understood the orders of operations issue at play, as well as took good direction to validate and rule out all the other possible small problems - so good job!
+
+__Progression/Completion__
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+__JavaScript Style__
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+__Workflow__
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+__Collaboration__
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+#### Code Challenge 2
+###### Evaluator: Louisa
+
+__Progression/Completion__
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+__JavaScript Problem Solving__
+* 3: Developer solves problems with a balance between conciseness and clarity, and can effectively leverage documentation
+
+__Workflow__
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+__Collaboration__
+* 3.5: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+#### Static Comp 3
+###### Evaluator: Louisa
+###### Optional Notes:
+
+Nicely done!
+
+__Design Integrity__
+* 4: The comp beautifully articulates the original design intent and there are no areas where an instructor would make changes with respect to color, layout, imagery, spatial relationship of graphical elements.
+
+__Responsive Layout__
+* 3: The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
+
+__HTML Style__
+* 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
+
+__CSS Style__
+* 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 ***
 
@@ -93,7 +144,7 @@ This third and final static comp was the most technical and challenging of the b
 
 ###### Evaluation Scores
 
-*Pending*
+*See final assessment above*
 
 ***
 
@@ -214,18 +265,17 @@ Stress sucks. Especially when you have 2 projects due, and you have to work on M
 
 
 ### PROtocol
-#### (Session Name)
 
 *   [Link to Completed Deliverables](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit#slide=id.g1c505a3b55_0_161)
 
 ### Professional Development Workshops
-#### StrengthsFinder)
+#### StrengthsFinder
 
 *   [Workshop URL](https://docs.google.com/a/casimircreative.com/document/d/1cxVCsip9tWlPGMoevt7abtcxZeZZAH25j9rZ9i9gZxM/edit?usp=sharing)
 
 StrengthsFinder was super helpful for understanding my role within our cohort. Talking with Allison and comprehending my strengths of Responsibility, Connectedness, Communication, Individuality, and Adaptability very much helped understand my strengths. The subsequent workshop with other StrengthsFinder takers from my cohort helped understand my friend's strength.
 
-#### Personal Branding)
+#### Personal Branding
 
 *   [GitHub](https://github.com/cbandrow)
 *   [LinkedIn](https://www.linkedin.com/in/chrisbandrowsky/)
