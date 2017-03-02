@@ -251,6 +251,10 @@ The one where we broke out into groups was great (pizza didn’t hurt either).  
 Constructive:
 A couple of times we didn’t really do anything.  I still enjoyed getting to know the people who came though."
 
+Feedback to me from Sam Johnson: "Noah, thank you very much for giving me the opportunity to get more involved with Pahlka this mod.  You did a LOT of the heavy lifting - especially with the Spikes you led - and I appreciated that. Im going to do my best to carry on the tradition!
+
+One piece of small constructive feedback that I would give you is that I do think there were times this mod where there was some room to involve me a bit more as a co-lead.  For instance, I offered to help/brainstorm/etc on the first spike around Civic Tech but didn’t hear anything - to be honest, it was a bit awkward to then find out that you and Ali had partnered and were presenting. I suspect this is mostly the result of time constraints/etc with your Mod4 work, but thought I’d mention it as something to consider/reflect on in the future."
+
 ### Playing a Part
 
 I've co-lead Pahlka Posse for this module. We built up our membership of mod1+2 students (both front and backend) and continued to work on our education data visualizer application. I took over leadership of the Imposter's Lunch group, taking it from a slow re-birth to a well attended (and well-fed) meeting. I also participated in the public-facing demo night, taking home 3rd place for Coffee Bot! I wrote a blog post about the bot which as I write this has been cross-posted to the official [Turing blog](https://www.turing.io/blog/2017/02/20/coffee-command). 
