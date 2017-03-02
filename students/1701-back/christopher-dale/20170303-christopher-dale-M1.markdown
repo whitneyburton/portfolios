@@ -89,27 +89,27 @@ Feedback from partner projects.
 
 ### Gear Up
 
-##### Session 1: Turing Citizenship #1: Growth Mindset
+#### Session 1: Turing Citizenship #1: Growth Mindset
 
 The idea of growth mindset appeals to me strongly.  The fact that it is in a constant state of flux is what interests me most.  Continually being able to practice working through the motions of gaining a mindset state is great.  It makes us better as human beings in my opinion.  Repeating has helped me grow a better mindset with myself and towards others.  I like to discuss and listen to peoples experiences and see how I can help or learn from them.  This ideology applies to all aspects of life.  What we can learn from what we take away.
 
-##### Session 2: Getting Better at Difficult Things
+#### Session 2: Getting Better at Difficult Things
 I try to be engaged with the content.  Keeping things organized to an extent where I can grab things quickly.  The challenges I face are like the ones described in the video.  I need to set more paramaters on the time I spend to do things.  Also set a time limit on how long I should work on each thing.  I installed a few tools on my laptop to help with this.   Pivotal and Todoist have opened my eyes on better scheduling controls.
 
-##### Session 3: Managing Stress & Coping Mechanisms
+#### Session 3: Managing Stress & Coping Mechanisms
 In the past I have been able to deal with stress, most of the time effectively.  I like to talk to people the most about problems I have.  I like being able to bounce my thoughts off of them and get a reaction, so that I may weigh their thoughts against mine.  With talking with Allison this mod, she pointed out that I may like a journal or a notebook of some sort so as to be able to write my thoughts for when I have no one I can reach out too.
 
 I would say my struggles with stress are when it just seems to be "too much".  I over analyze things that happen around me and always assume the worst.  It is something I need to work on and fight with continually.
 Overall I try to remain happy and positive.  Try to outweigh the negative thoughts when they occur with something positive.
 
-##### Session 4: Personal Stories & Connections
+#### Session 4: Personal Stories & Connections
 I came to Turing to get a better future.  Reward myself with a fulfilling career, instead of slaving away before death.   Another main reason was to be able to have a family and not be the father who is gone all the time and miss out on the more important things in life.
 
 I look at things in terms of what is fair and what is not.  Some things that drive me are honor, courage and empathy.  We as humans need to work together to have a better life. Empathy is the key in achieving this.  Having the courage to take action and make honorable choices.
 
 I try to share my experiences with people, so they may not make the same mistakes I have made.  I also try to be there for others and listen to them when they need some support.  
 
-##### Session 5: Debugging the Gender Gap
+#### Session 5: Debugging the Gender Gap
 I don't have the same experiences that are depicted in the documentary.  I'm aware however of the fact that discrimination towards most people.  That those of a different sex and race have probably been a victim to some form of prejudice if not many.  These are not views that I share.  I abhor those that seem to disregard the social challenges we face today.
 
 My part in combating these negative views is being someone who spreads inclusion.  I believe if we spread inclusion we will gain more knowledge and trust between everyone, instead of having judgement clouded in hate.
