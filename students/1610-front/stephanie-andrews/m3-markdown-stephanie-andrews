@@ -9,7 +9,7 @@ I wanted to continue to improve my problem-solving skills and JavaScript basics 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
@@ -49,7 +49,46 @@ Notes:
 3.5 - Almost all components are tested to a level that indicates developer has an understanding of testing
 
 
-Community Connections
+### Community Connections
+
+UX/UI
+	- Cursor to pointer on clickable things
+	- Header font should be different than body at the about page.
+	- AXE and user friendly color schemes (is this something to improve or something that's good?)
+
+	### Project Scope
+
+### Feature Delivery
+
+**1. Completion**
+
+* 4: Developer completed all the user stories and requirements set in check-ins in timely manner.
+* 3: Developer completed all the user stories and requirements set during check-ins.
+
+**2. Organization**
+
+// Not Required
+* 2: Developer used a project management tool but didn't update the progress frequently.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 3: Project shows adequate testing (90% - 95% coverage).
+
+**2. Code Quality**
+
+* 3: Project demonstrates solid code quality, proper abstractions, and reduced duplication.
+
+### Product Experience
+
+**1. User Experience**
+
+* 3: Project exhibits a production-ready user experience.
+
+**2. Performance**
+
+* 3: Project pages load on average under 400 milliseconds.
 
 ## C: Group Work & Projects
 
@@ -105,7 +144,7 @@ Workflow
 
 ### Flower Exercise
   This is the link to it: 
-  https://drive.google.com/open?id=0BzELQ2OrMBmjVkNlNmtpWkEtVWJoWUFmWFZKRTYtOHhPdjBn
+  * https://drive.google.com/open?id=0BzELQ2OrMBmjVkNlNmtpWkEtVWJoWUFmWFZKRTYtOHhPdjBn
 
 ## D: Community
 
@@ -175,6 +214,11 @@ For Remember:
 From Lauren:
 I was really excited to work with Stephanie again after working with her on our very first project in mod 1! Stephanie is always so patient and easy going, but never afraid to speak her mind. The Ember project was intimidating for both of us since it was something very new, but I think Stephanie handled it well and understood Ember more than she knew. We were able to problem solve together, and she was always willing to help me with when I was stuck. Steph is an excellent developer, and I was especially impressed with how well she was able to test our code! Thanks for being a great partner once again, Steph!!
 
+For UX/UI Challege: 
+
+From Noah: 
+"Stephanie is a quiet, hard worker, who has a hidden talent for over performing and making everything perfect. Her eye for design really came out during this project and the hard work she put in to the calendar really made our app stand out when we presented. She also is great at open and honest feedback while taking others' opinions into consideration. An awesome partner overall."
+
 ###  Feedback to Others
 
 Devin:  The movie project was stressful but I’m glad we were able to work together.  You’re very sharp but humble, which is a rarity at Turing, and makes for a great team-member.  I also really appreciated your ability to articulate your way through problem-solving, something I struggle with and really benefit from hearing.  I also really appreciate your dedication to the project and your work ethic!   Thanks for being a great team member!
@@ -183,7 +227,9 @@ Josh:  I am glad we were able to work together this module!  Your dedication/wor
 
 Lauren:  I am glad we were able to work together again this module!  We’ve come so far since our first project!  I really appreciate your ability to explore new problems and be open minded when it comes to new languages/concepts/frameworks!  In both projects we worked in you’re able to just dive right in!  Thank you for your patience when in pairing when I would get stuck on particular concepts.   Also, thank you for always being there to offer another perspective when I was stuck.  It was a pleasure to work with you again!!!
 
-Noah:  It was a short and sweet partnership!  Thanks for laying down all of the groundwork for the ux/ui challenge.  Sometimes, getting started can be the most challenging part of a project for me and you immediately saw what needed to be done to get our project up and going!  I really appreciate your attitude,  your humor, and your communication!  I’m glad we were able to work together this module!!
+Noah P:  It was a short and sweet partnership!  Thanks for laying down all of the groundwork for the ux/ui challenge.  Sometimes, getting started can be the most challenging part of a project for me and you immediately saw what needed to be done to get our project up and going!  I really appreciate your attitude,  your humor, and your communication!  I’m glad we were able to work together this module!!
+
+Noah B: Noah has led quite a few Pahlka Spike sessions this module and always does so with enthusiasm and a solid plan of action.  The Twitter Bot Spike was no different and it was easy for me, as a front-end student to follow along- even though it involved Ruby and a lot of necessary set up.  The only thing, that could be improved (and it’s small) is expanding on the written directions.  Overall though, it was a really engaging Spike!
 
 ## Final Review
 
