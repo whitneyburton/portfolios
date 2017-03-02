@@ -8,26 +8,23 @@ Learning to code, primarily in Ruby. I feel that I did a good job accomplishing 
 
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-| Category | Result (pass, fail, pending) |
-| ----- | --- |
-| Pairing Assessment | pass |
-| Independent Timed Assessment | pass |
-| Diagnostic | pass |
+| Section | Category | Score |
+| --- | --- | --- |
+| A | **End-of-Module Assessment** | 4 |
+| B | **Individual Projects** | 4 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ------------------------------------------------
 
 ## A: End of Module Assessment
 
-| Category | Score |
+| Category | Result (pass, fail, pending) |
 | ----- | --- |
-| **Written Diagnostic** | PASS |
-| **Timed Exercise** | PASS |
-| **Ruby Syntax & API** | 4 |
-| **Completion and Progress** | 4 |
-| **Testing** | 3 |
-| **Workflow** | 4 |
-| **Collaboration** | 3 |
-| **Enumerable & Collections** | 4 |
+| Pairing Assessment | pass |
+| Independent Timed Assessment | pass |
+| Diagnostic | pass |
 
 
 ## B: Individual Projects
