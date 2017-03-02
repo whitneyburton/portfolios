@@ -62,7 +62,7 @@ I look forward to the learning to come in the upcoming modules!
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/date_night) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/josh-works/mod1_homework/blob/master/credit_check.rb) | [link](https://github.com/josh-works/date_night/tree/master) | [link](https://github.com/josh-works/http_yeah_you_know_me) |
 | **Functional Expectations** | 4 | 2 | 2 |
-| **Test-Driven Development** | n/a | 4 | 1 |
+| **Test-Driven Development** | - | 4 | 1 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 2 | 2 |
 | **Fundamental Ruby & Style** | 4 | 3 | 2 |
 
@@ -99,8 +99,8 @@ I intentionally avoided just copying and pasting code from other students that w
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 3 | X |
-| **Code Sanitation** | n/a | X |
-| **Enumerables & Collections** | n/a | X |
+| **Code Sanitation** | - | X |
+| **Enumerables & Collections** | - | X |
 
 ### Notes
 
