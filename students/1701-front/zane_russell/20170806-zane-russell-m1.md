@@ -260,10 +260,7 @@ Oklahoma < Texas
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
