@@ -32,8 +32,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Assessor Comments
 
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+*   Written Diagnostic (from Lauren): Great work here! A few teeny misses, but very impressive overall.
+*   Independent Assessment (from Beth): Beautiful  enums, Ruby style rock solid, Nailed i3, For some of these tests (`test_it_knows_characters`), you can have an assertion that references the objects you created in setup. For example: `assert_equal [kitt, michael_knight, devon_miles], kr.characters`. That allows you to fully verify results in one assertion. In character_test, you can get away with just using one object to test against. Two assertions in each test is redundant here. If there are exceptions you're trying to catch by using two, that should be a new test whose name highlights the exception. Git solid, no 20 min commits
 
 
 ## B: Individual Projects
@@ -55,16 +55,17 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/caward12/night_writer) | [link](https://github.com/VictoriaVasys/black_thursday) |
-| **Functional Expectations** | 3 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | n/a | X |
+| **Functional Expectations** | 3 | 4 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 4 |
+| **Fundamental Ruby & Style** | 3 | 4 |
+| **Code Sanitation** | n/a | 4 |
+| **Enumerables & Collections** | n/a | 4 |
 
 #### Notes
 
-*   The first pair project, Night Writer, was hard but I learned a lot about working in a pair and I think overall it turned out really well and we worked well together.
-*   Note 2 (if applicable)
+*   From Beth: Really strong testing of braille-to-english and english-to-braille. Would like to see more testing of edge cases.A couple long methods, but overall Ruby style is solid. Shows nice effort toward refactoring.In future, look to pull some shared functionality into separate classes or modules.
+*   From Ilana: Great breakdown of classes and creation of modules, Created charts with JS, Talked about more robust testing, Talked about small use of instance variables instead of methods
 
 
 ## D: Professional Development
@@ -75,11 +76,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ### Pair Feedback
 
-Feedback from partner projects.
-
 *   Night Writer (Yohanan Assefa): It was great working with you on night writer, Colleen. You were committed to getting the project done and brought a strong understanding of Ruby. It was helpful to observe you test out different approaches/methods, consistently use pry, and not get easily frustrated when we hit roadblocks. I appreciate your willingness to go slow and explain various concepts/methods to me when I had a hard time figuring out different aspects of the project. I’m very glad I got to pair with you and I’ve learned a lot from this experience. I have no doubt that your strong grasp of programming and ability to feel/show empathy and kindness towards others will make you an outstanding developer.
 
-*   Black Thursday (Victoria Vasys): lorem ipsum
+*   Black Thursday (Victoria Vasys): It was a real pleasure working with you! The fact that you were so willing to put every last minute of your free time into this project was highly motivating and put us in a great spot to finish, while leaving a whole day of refactoring! That felt really good. Obviously, we all have plenty of room for improvement considering we have 3 mods to go, but I think you might really benefit from celebrating your charts & pops a little more. I honestly don't have any negative feedback! I think we were good about switching roles, picking up each other's slack when we were brain-dead & dividing and conquering. Thanks for being willing to go down wonky roads with me & taking time to problem-solve on your own when we got stuck working together. Super duper job, I'm really happy with our progress!
 
 ### Job Prep
 
