@@ -51,11 +51,12 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 | ---- | ---- | ---- | ---- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/jwpincus/night_writer) | [link](https://github.com/NicholasJacques/black_thursday) |
-| **Functional Expectations** | 4 | X |
-| **Test-Driven Development** | 1 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 2.5 | X |
-| **Loop or Recursion** | n/a | X |
+| **Functional Expectations** | 4 | 3 |
+| **Test-Driven Development** | 1 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 4 |
+| **Fundamental Ruby & Style** | 2.5 | 3 |
+| **Enumerables & Collections** | n/a | 4 |
+| **Code Sanitations** | n/a | 4 | 
 
 #### Notes
 
@@ -70,7 +71,7 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 
 ### Pair Feedback
 
-### Night Writer (Jack Pincus): 
+#### Night Writer (Jack Pincus): 
 >
 >#### Feedback from Jack:
 >  
@@ -99,7 +100,7 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 >- Slow down and commit to TDD. We both struggled with this and probably enabled each other in neglecting it.  Once we tried to implement we made good progress.  We both clearly have a lot more too learn about TDD.
 >- You might be able to combat overly-complicated-method syndrome by talking through these methods with your pair.  You have an impressive ability to make it "do the thing" but there were a few methods in our project that I never really got a full grasp of how they worked.  As you mentioned, I definitely should have been more proactive about speaking up when that occurred.
 
-### Black Thursday (Sergey Lukyanenko):
+#### Black Thursday (Sergey Lukyanenko):
 >
 >##### Feedback from Sergey:
 >
