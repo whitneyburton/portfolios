@@ -8,8 +8,6 @@ I made great strides toward meeting these goals over the course of the module. I
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
 | Section | Category | Score |
 | --- | ----- | --- |
 | A | **End-of-Module Assessment** | 3 |
@@ -101,7 +99,7 @@ Diana - I have learned so much working with you on this project. I really apprec
 ### Job Prep
 
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/kiddjonathanj/)
+*   LinkedIn profile: [Link](https://www.linkedin.com/in/kiddjonathanj/)
 
 
 
