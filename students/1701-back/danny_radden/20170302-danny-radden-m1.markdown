@@ -118,9 +118,14 @@ I help my peers on homework and projects. I think that I have been an enthusiast
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+| Section | Category | Score |
+| --- | --- | --- |
+| A | **End-of-Module Assessment** | 4 |
+| B | **Individual Projects** | 4 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+(PROMOTED)

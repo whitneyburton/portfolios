@@ -150,8 +150,15 @@ I would also like to volunteer to help at either a try Turing or kids who code e
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+
+| Section | Category | Score |
+| ---- | ----- | ----- |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 4 |
+| E | **Community** | 4 |
+
 
 ### Outcome
 

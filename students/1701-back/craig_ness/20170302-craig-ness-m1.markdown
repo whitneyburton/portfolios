@@ -30,7 +30,7 @@ My areas of emphasis included those deemed necessary by Turing in order to be co
 
 * Great description of process -- demonstrates strong mastery of fundamentals
 * Get in the habit of running commands (`touch`) from top directory
-* Caught yourself on testing; tests strong, TDD cycle solid (when you remember)  
+* Caught yourself on testing; tests strong, TDD cycle solid (when you remember)
 
 
 ## B: Individual Projects
@@ -134,9 +134,14 @@ One of the first things that I noticed about Turing walking through the door on 
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+| Section | Category | Score |
+| --- | --- | --- |
+| A | **End-of-Module Assessment** | 3+ |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+(PROMOTED)
