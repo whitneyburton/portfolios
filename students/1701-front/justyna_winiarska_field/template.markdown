@@ -81,7 +81,7 @@ CSS Style
 
 ## B: Individual Work & Projects
 
-Below is the list of my solo projects that I have been working on.
+Below is the list of my solo projects that I have been working on during this module.
 
 #### Number Guesser
 
