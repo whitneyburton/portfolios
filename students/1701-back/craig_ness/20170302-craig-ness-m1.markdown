@@ -24,7 +24,9 @@ My areas of emphasis included those deemed necessary by Turing in order to be co
 | Independent Timed Assessment | PASS |
 | Diagnostic | PASS |
 
-#### Assessor Comments
+### Assessor Comments
+
+#### Comments on Pairing Assessment from Beth Sebian:
 
 * Great description of process -- demonstrates strong mastery of fundamentals
 * Get in the habit of running commands (`touch`) from top directory
@@ -97,7 +99,7 @@ Good job getting your shit done and when falling behind going back and looking a
 
 ### Job Prep
 
-*   LinkedIn profile: [Link](https://www.linkedin.com/in/craig-ness-39592563/)
+*   LinkedIn Profile: [Link](https://www.linkedin.com/in/craig-ness-39592563/)
 
 
 
