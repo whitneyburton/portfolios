@@ -173,8 +173,8 @@ This module I continued leading the Verou on focused on design principles, data 
 
 ### Notes
 
-( Leave blanks for reviewers )
+Keep reaching out to share knowledge/thought process with other students. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass

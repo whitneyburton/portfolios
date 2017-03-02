@@ -6,19 +6,17 @@
 
 ## Rubric Scores
 
-Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
-
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Development**: X
-* **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**: Pass/Fail/Pending
+*   **B: Individual Work & Projects**: X
+*   **C: Group Work & Projects**: X
+*   **D: Professional Skills**: X
+*   **E: Feedback & Community Participation**: X
 
 -----------------------
 
-## A: End of Module Assessment
+## A: End of Module Assessment Status
 
-(Notes & scores from your assessment rubric)
+(Please Indicate if Pass/Fail/Pending)
 
 
 ## B: Individual Work & Projects
@@ -27,8 +25,8 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+*   [GitHub URL]()
+*   [Original Assignment]()
 
 (description)
 
@@ -44,8 +42,8 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+*   [GitHub URL]()
+*   [Original Assignment]()
 
 (description)
 
@@ -55,13 +53,26 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 (feedback to me)
 
-## D: Professional Development
+## D: Professional Skills
 (Intro)
+
+### Gear Up
+#### (Session Name)
+
+*   [GitHub URL]()
+
+(takeaways from session)
+
+### PROtocol
+#### (Session Name)
+
+*   [Link to Completed Deliverables]()
 
 ### Professional Development Workshops
 #### (Session Name)
 
-* [Link to Completed Deliverables]()
+*   [Workshop URL]()
+*   [Link to Completed Deliverables]()
 
 (takeaways from session)
 
@@ -78,10 +89,6 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 ### Playing a Part
 
 (ways you supported the larger Turing community)
-
-### Gear Up
-
-(reflect on your Gear Up sessions following the below example)
 
 ------------------
 

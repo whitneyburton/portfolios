@@ -15,8 +15,8 @@ and completing the program.
 
 ## A: End of Module Assessment
 
-* [https://gist.github.com/Alex-Tideman/5b554a3c4812dc0dd0dc712f84ca5a95]
-* [https://github.com/ChelseaSkovgaard/Burn-Book]
+* [Assignment Link](https://gist.github.com/Alex-Tideman/5b554a3c4812dc0dd0dc712f84ca5a95)
+* [Github Repo](https://github.com/ChelseaSkovgaard/Burn-Book)
 
 Total Score:
 Specification Adherence: 3
@@ -30,9 +30,9 @@ Workflow: 4
 
 #### Capstone Project
 
-* [https://github.com/One-Nation-Many-Voices/ONMV-frontend]
-* [https://one-nation-many-voices.github.io/ONMV-frontend/]
-* [http://frontend.turing.io/projects/capstone.html]
+* [Github Repo](https://github.com/One-Nation-Many-Voices/ONMV-frontend)
+* [Deployed Project](https://one-nation-many-voices.github.io/ONMV-frontend/)
+* [Assignment Link](http://frontend.turing.io/projects/capstone.html)
 
 This application enables users to view upcoming political events by type, set a location, and search for representatives.
 The application was build using React, ReactRouter 4, and CSS with an api built with Rails.
@@ -48,8 +48,8 @@ Workflow: 50/50
 
 #### Refacktor Track(tor)
 
-* [https://github.com/turingschool/front-end-submissions-public/blob/master/1608/4-module/refacktor-track/Chelsea.md]
-* [http://frontend.turing.io/projects/refacktor-track.html]
+* [Gist Submission](https://github.com/turingschool/front-end-submissions-public/blob/master/1608/4-module/refacktor-track/Chelsea.md)
+* [Assignment Link](http://frontend.turing.io/projects/refacktor-track.html)
 
 For this track/project, I did the following classes/learning some fundamental JavaScript problems and attended lessons on ESLint, making an NPM module, and Git hooks. For professional development, I had a google hangout interview, applied to a remote job and sent follow-up email, had a coffee meeting, and attended Joan Clarke coffee. For coding/programming, I refactored JetFuel, my personal site, Real Time, and FlixFaves. I also completed the static comp challenge and paired with Meeka. I also wrote a blog post on the week.
 
@@ -58,9 +58,9 @@ All Boxes Checked ~ Pass
 
 #### Jet Fuel
 
-* [https://github.com/ChelseaSkovgaard/Tinyify]
-* [https://tinify.herokuapp.com/]
-* [http://frontend.turing.io/projects/jet-fuel.html]
+* [Github Repo](https://github.com/ChelseaSkovgaard/Tinyify)
+* [Deployment Application](https://tinify.herokuapp.com/)
+* [Assignment Link](http://frontend.turing.io/projects/jet-fuel.html)
 
 This application enables users to shorten a url. Users can also create folders to organize the urls. The date of creation and popularity of each url is stored and displayed. The application was build using React, CSS, Node.JS, Express, and PosgreSQL.
 
@@ -75,9 +75,9 @@ Workflow: 20/20
 
 #### Real Time
 
-* [https://github.com/ChelseaSkovgaard/realtime]
-* [https://realtimez.herokuapp.com/]
-* [http://frontend.turing.io/projects/real-time.html]
+* [Github Repo](https://github.com/ChelseaSkovgaard/realtime)
+* [Deployed Application](https://realtimez.herokuapp.com/)
+* [Assignment Link](http://frontend.turing.io/projects/real-time.html)
 
 This application enables users to create a real time poll. Users can create a poll than share it. In order to answer the poll, people complete a github oauth. The application is built with CSS, JQuery, Node.JS, Express and Websockets. Testing was done using Mocha and Chai.
 
@@ -93,7 +93,7 @@ Workflow: 25/25
 * Received email confirmation from Meg that all deliverables were completed
 
 #### Turing Alumni Portfolio
-* [https://www.turing.io/alumni/chelsea-skovgaard]
+* [Link to Portfolio](https://www.turing.io/alumni/chelsea-skovgaard)
 
 #### Cold Outreach Emails
 * Six emails were sent and summary sent to Meg
@@ -110,7 +110,7 @@ Speakers, and Joan Clarke meetings. I also paired and worked with students in lo
 ### Gear Ups
 #### Tragedy of the Commons
 
-* [https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown]
+* [Gear Up Markdown](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 The data visualization/interaction of the parable of the polygons was useful and informative.
 It did a good job of illustrating how small individual bias can lead to large collective
 bias, how the past can haunt the present, and the importance of demanding diversity
@@ -120,7 +120,8 @@ depending on our backgrounds.
 
 #### Automation
 
-* [Markdown](https://github.com/turingschool/gear-up/blob/master/automation.markdown]
+* [Gear Up Markdown](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
 This was probably one of my least favorite gear ups. While I think the two films make a
 good point about possible increases of automation, I think it would have been good
 to have another perspective. The discussion was good and focused on thinking about
@@ -128,7 +129,7 @@ ways as software developers we can contribute to improving the lives of others t
 may be negatively impacted by changes in technology.
 
 #### Universal Basic Income
-* [https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown]
+* [Gear Up Markdown](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
 This was a interesting gear up. I think that my background working with homeless individuals and people
 receiving TANF gave me useful information to contribute to the discussion. I think it is useful to learn
 about these concepts to be more aware of the topics when we hear about them in news and media.
