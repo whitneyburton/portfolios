@@ -144,6 +144,8 @@ I helped lead different sessions throughout the mod with Dan Olson.  Our session
 On a personal level, I tried to be there for all in our cohort.  I have been open each week about students being able to come talk to me, whether it was SAB related or not.  Anytime on slack or in person if anyone vocalized needing help or having stress, I reached out to them and offered my services.
 
 With the group of repeaters from 1611, I believe we all helped each other and were there for one another.  We all took turns of having strong moments and tough moments.  The experience from both mods has made our connections with each other more unique and stronger.  I also see our positivity and actions are spurring others along to do the same for others.
+
+
 -------------------------------------------------------------
 
 ## Final Review
