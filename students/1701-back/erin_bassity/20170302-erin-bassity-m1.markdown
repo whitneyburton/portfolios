@@ -9,7 +9,7 @@ I came to Turing to learn how to write code, but also to think more logically an
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | X |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
@@ -26,16 +26,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | Independent Timed Assessment | pass |
 | Diagnostic | pass |
 
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
 
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Flashcards | HTTP, Yeah You Know Me |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](hhttps://github.com/somedayrainbows/homework/blob/master/credit_check.rb) | [link](https://github.com/somedayrainbows/flashcards) | [link](https://github.com/somedayrainbows/http-project) |
 | **Functional Expectations** | 3 | 2 | 2 |
@@ -48,7 +43,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## C: Group Projects
 
 | CATEGORY | Night Writer | Black Friday |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/BethKnight1234/knight_rider) | [link](https://github.com/somedayrainbows/black_thursday) |
 | **Functional Expectations** | 2 | X |
@@ -56,13 +51,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 2 | X |
 | **Loop or Recursion** | N/A | X |
-
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 
 ## D: Professional Development
@@ -78,28 +66,20 @@ This section does not need to be populated (and template text should therefore b
 Feedback from partner projects:
 
 - Project 1 (Beth Knight):
+  ```
+  Dear Erin: Here is why you are amazing… You came in on the weekend to work with me. Our communication was completely open. I never felt like we butted heads. Instead, you listen and gave feedback like a champ. When we got stuck, you reached out to people. The file.io was incredibly hard and you took it on. I think you acknowledge where you are not clear and seek help. Here is what you need to work on… Writing more code. I feel like I stole your learning by taking over most of night_writer.rb.
+  ```
+*   Project 2 (Sam Landfried)
 
-Dear Erin,
-
-Here is why you are amazing…
-
-  You came in on the weekend to work with me.
-
-  Our communication was completely open. I never felt like we butted heads. Instead, you listen and gave feedback like a champ.
-
-  When we got stuck, you reached out to people. The file.io was incredibly hard and you took it on. I think you acknowledge where you are not clear and seek help.
-
-Here is what you need to work on….
-
-  Writing more code. I feel like I stole your learning by taking over most of night_writer.rb.
-
-*   Project 2 (First Last): Sam Landfried
+  ```
+  notes from Sam
+  ```
 
 
 
 ### Job Prep
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](http://example.com)
+*   LinkedIn profile: [Link](http://example.com)
 
 
 
