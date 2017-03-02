@@ -22,7 +22,7 @@ This module I wanted to: become proficient at Ruby (writing succinct & conventio
 
 ## A: End of Module Assessment
 
-| Category | Score |
+| Category | Score (PASS, FAIL, PENDING) |
 | ----- | --- |
 | **Pairing Assessment** | PASS |
 | Functional Expectations | 4 |
@@ -85,7 +85,8 @@ This module I wanted to: become proficient at Ruby (writing succinct & conventio
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 4 | X |
 | **Fundamental Ruby & Style** | 2.5 | X |
-| **Loop or Recursion** | N/A | X |
+| **Code Sanitation** | n/a | X |
+| **Enumerables & Collections** | n/a | X |
 
 #### Notes
 
@@ -107,18 +108,15 @@ This module I wanted to: become proficient at Ruby (writing succinct & conventio
 
 ### Pair Feedback
 
-Feedback from partner projects.
-
 *  Night Writer (Sergey Lukyanenko)
-  * For Sergey: 
-  It was really nice working with you! I think we balanced each other out in many helpful ways, but I especially appreciated your ability to know when to step away, take breaks, refresh & re-gather. It really helped to have you brainstorm & sketch out the way you saw different aspects of the project going & helped us keep the important stuff at the forefront. Your positive attitude really helped me step out of some serious and/or frustrating moments & it felt really good to have celebrations for every little accomplishment we made! I think you would benefit from diving into Ruby docs and getting some more understanding of various methods, especially for Enumberables (although we only *just* started learning those, so don't feel like you're behind or anything!) I would highly recommend doing exercises whenever (or if ever...) you have free time. I think we could both use more practice in Object Oriented Programming, especially with single-responsibility (less daisy-chaining)-- so if you find good resources on practice with that, I'd really appreciate links! Thanks for being such a great collaborator, encouraging me be more outgoing in asking questions & keeping us on task; I think we both learned a lot & it was a great first paired programming experience! Well done, sir! :)
+  * For Sergey: It was really nice working with you! I think we balanced each other out in many helpful ways, but I especially appreciated your ability to know when to step away, take breaks, refresh & re-gather. It really helped to have you brainstorm & sketch out the way you saw different aspects of the project going & helped us keep the important stuff at the forefront. Your positive attitude really helped me step out of some serious and/or frustrating moments & it felt really good to have celebrations for every little accomplishment we made! I think you would benefit from diving into Ruby docs and getting some more understanding of various methods, especially for Enumberables (although we only *just* started learning those, so don't feel like you're behind or anything!) I would highly recommend doing exercises whenever (or if ever...) you have free time. I think we could both use more practice in Object Oriented Programming, especially with single-responsibility (less daisy-chaining)-- so if you find good resources on practice with that, I'd really appreciate links! Thanks for being such a great collaborator, encouraging me be more outgoing in asking questions & keeping us on task; I think we both learned a lot & it was a great first paired programming experience! Well done, sir! :)
   
   * From Sergey: You were a great asset to the team. You are very professional and focused on your work. Despite the difficult deadlines for the Night Writer Project, you maintained a positive attitude. You responded to problems without getting frustrated. You often stayed late working and were very conscientious of timelines and resources. When fixing a problem, you readily explained how you were fixing it. One thing to possibly improve in your skills is dividing responsibilities of the project parts with your team, allowing your partner to be more involved in coding of the project. It has been wonderful working with you and I hope I get the chance to work with you again in the future. 
   
 * Black Thursday (Colleen Ward)
-  * For Colleen:
+  * For Colleen: It was a real pleasure working with you! The fact that you were so willing to put every last minute of your free time into this project was highly motivating and put us in a great spot to finish, while leaving a whole day of refactoring! That felt really good. Obviously, we all have plenty of room for improvement considering we have 3 mods to go, but I think you might really benefit from celebrating your charts & pops a little more ;) I honestly don't have any negative feedback! I think we were good about switching roles, picking up each other's slack when we were brain-dead & dividing and conquering. Thanks for being willing to go down wonky roads with me & taking time to problem-solve on your own when we got stuck working together. Super duper job, I'm really happy with our progress!
   
-  * From Colleen:
+  * From Colleen: I really enjoyed working with you on Black Thursday, Victoria. I think we worked well together and created an excellent project. You have strong skills in fundamental ruby style, modules, and git workflow. You have a clear passion for programming and learning as much as you can, and I learned so much from working with you. I appreciate your willingness and capability to clearly explain things when I did not quite understand some concepts, especially incorporating modules and git workflow. Your ability to stay level headed when we hit a wall and we were both really frustrated is really admirable. Our work style is similar: jumping into a pry session if something wasn’t working or trying to write a method even if it wasn’t the most succinct, which I think contributed to our great partnership and some good laughs! Overall, I think you were a great partner and I’m really proud of the work we did together.
 
 ### Job Prep
 
