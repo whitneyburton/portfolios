@@ -241,6 +241,7 @@ fun and enlightening to work on a project with a full-stack team.
 I also made myself available for pairing with Mod 1 students through the inning,
 and although not as many signed up as I would have liked, I enjoyed pairing with
 the few who did.
+
 ------------------
 
 ## Final Review
