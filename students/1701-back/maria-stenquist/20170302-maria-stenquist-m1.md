@@ -87,6 +87,7 @@ I very much enjoyed our pairing dynamic, and while pairing is not my favorite ac
 
 ### Gear Up
 * [Link](https://gist.github.com/mariastenquist/076d2348f1d4d570edcb074ce71c7744) to Gist containing reflections for all 5 Module 1 Gear-Up Sessions
+
 #### Session 1: Growth Mindset
  Gear-up Session 1 (Growth Mindset) 1/27/17
 
