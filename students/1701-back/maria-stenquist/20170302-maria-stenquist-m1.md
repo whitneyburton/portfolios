@@ -2,13 +2,11 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?) To learn as much as I can! I wanted to fill in some gaps I had in core Ruby concepts (data types, data structures, abstraction, Ruby Object Model). At the beginning of this module, I set out to have a 'weekly plan' and also a 'daily plan' for goals/objectives that I wanted to complete for that day/week, and I would check them off at the end of the day/week. This system worked (for the most part) and it did help me to organize areas that I needed to focus on. I exercised my 'growth mindset', wrote lots of code (good and bad), and better utilized available resources (classmates, TA's, mentors, Google, debugging). Revisiting topics in a 'spiral of knowledge' method did help to solidify some key concepts. Being an active member of the Turing community: I have enjoyed working with the Hamilton posse as well as the Turing Diversity student group. I am looking forward to the 'diversity panel' that has been in the works, and the first one will be at the beginning of next module. Looking towards the future, I look forward to using these Ruby fundamentals and apply layers of other frameworks, and libraries and work on some interesting projects.
+``` To learn as much as I can! I wanted to fill in some gaps I had in core Ruby concepts (data types, data structures, abstraction, Ruby Object Model). At the beginning of this module, I set out to have a 'weekly plan' and also a 'daily plan' for goals/objectives that I wanted to complete for that day/week, and I would check them off at the end of the day/week. This system worked (for the most part) and it did help me to organize areas that I needed to focus on. I exercised my 'growth mindset', wrote lots of code (good and bad), and better utilized available resources (classmates, TA's, mentors, Google, debugging). Revisiting topics in a 'spiral of knowledge' method did help to solidify some key concepts. Being an active member of the Turing community: I have enjoyed working with the Hamilton posse as well as the Turing Diversity student group. I am looking forward to the 'diversity panel' that has been in the works, and the first one will be at the beginning of next module. Looking towards the future, I look forward to using these Ruby fundamentals and apply layers of other frameworks, and libraries and work on some interesting projects. ```
 
 
 ## Self-Assessment Scores
-
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
+##### Module 1
 
 | Section | Category | Score |
 | --- | ----- | --- |
@@ -18,12 +16,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | D | **Professional Development** | 3 |
 | E | **Community** | 4 |
 
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 ------------------------------------------------
 
@@ -31,14 +23,11 @@ This section does not need to be populated (and template text should therefore b
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | pass |
-| Independent Timed Assessment | pass |
-| Diagnostic | pass |
+| Pairing Assessment | Pass |
+| Independent Timed Assessment | Pass |
+| Diagnostic | Pass |
 
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+------------------------------------------------
 
 ## B: Individual Projects
 
@@ -54,15 +43,13 @@ This section does not need to be populated (and template text should therefore b
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+*   Notes (if applicable)
 
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
+------------------------------------------------
 
 ## C: Group Projects
 
-| CATEGORY | Night Writer | Black Thursday | 
+| CATEGORY | Night Writer | Black Thursday
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/mariastenquist/night_writer) | [link](https://github.com/ryt11/black_thursday) |
@@ -75,57 +62,75 @@ This section does not need to be populated (and template text should therefore b
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+*   Notes (if applicable)
 
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
+------------------------------------------------
 
 ## D: Professional Development
 
 ### Define-the-Relationship (DTR)
 
-[Link](https://turingschool.slack.com/files/mstenquist/F441MPAEL/dtrnightwriter.pages) to DTR Memo from 1 paired project.
+[Link](https://turingschool.slack.com/files/mstenquist/F441MPAEL/dtrnightwriter.pages) to DTR Memo for Night Writer paired project.
 
 ### Pair Feedback
 
 Feedback from partner projects.
 
-*   Project 1 (Craig Ness): Feedback for Maria (project: Night Writer)
+*   Project 1 (Night Writer) | Feedback from Craig Ness:
+```  Maria was a great partner to work with. While I tended to get lost in the fine details of the code, she was able to keep track of the broader picture and scope and keep us moving in a positive direction. Whenever we got stuck for too long, she took initiative and sought out resources (mentors, upper-mod students) or took us through a white-boarding session that always got us back on track. Without this, our project would have stalled while we both stared at the same lines of code over and over again. Maria was also excellent at spotting potential roadblocks that our coding approach would create, had we continued with that approach. Many times I would find myself trying something only to have Maria point out why that way might not be the best way further down the road. She was able to save us both time and energy during these instances, and I found it unbelievably helpful. There were a few times when I wished that perhaps she took the driver’s role a bit more, because often times it helps to step away from coding and watch someone else work for awhile, but our pairing strategy worked as we were able to implement all functionality from the specs into our project. Trying different pairing techniques might have helped us achieve this functionality at a faster pace, or with better TDD however. Finally, she was also great at coordinating Git and GitHub, and really helped me through that whole aspect of the project. Overall, I had a truly positive experience working with Maria, and I think our final product is definitely something to be proud of!  ```
 
-### Maria was a great partner to work with. While I tended to get lost in the fine details of the code, she was able to keep track of the broader picture and scope and keep us moving in a positive direction. Whenever we got stuck for too long, she took initiative and sought out resources (mentors, upper-mod students) or took us through a white-boarding session that always got us back on track. Without this, our project would have stalled while we both stared at the same lines of code over and over again. Maria was also excellent at spotting potential roadblocks that our coding approach would create, had we continued with that approach. Many times I would find myself trying something only to have Maria point out why that way might not be the best way further down the road. She was able to save us both time and energy during these instances, and I found it unbelievably helpful. There were a few times when I wished that perhaps she took the driver’s role a bit more, because often times it helps to step away from coding and watch someone else work for awhile, but our pairing strategy worked as we were able to implement all functionality from the specs into our project. Trying different pairing techniques might have helped us achieve this functionality at a faster pace, or with better TDD however. Finally, she was also great at coordinating Git and GitHub, and really helped me through that whole aspect of the project. Overall, I had a truly positive experience working with Maria, and I think our final product is definitely something to be proud of!
+*   Project 2 (Black Thursday) | Feedback from Riley Thompson:
+```Working with Maria on Black Thursday has been a rewarding experience. Throughout the duration of this project Maria stayed  punctual and respective of my time. She did everything in her power to make sure any design decisions we made were both agreed upon by each other, and was more than understanding and courteous,  when I would sometimes take us down  crazy rabbit holes of unnecessary algorithmic thinking, which by nature, stymied progress.
+I became ill at the start of the project and Maria supported and encouraged my absence (which detracted from our total available work time) in order to convalesce, so that I could come back the next week with enough energy to begin working on the project. Not only that, but she later became ill as well. She was able to work through the sickness and still contribute great value while not feeling her best.
+I very much enjoyed our pairing dynamic, and while pairing is not my favorite activity I did not mind it, and even enjoyed it through out our time working together, and I appreciated Maria’s initiative to schedule pairing sessions which improved the quality of our project greatly. I would recommend Maria as a partner to anyone.```
 
-*   Project 2(Black Thursday) (Riley Thompson): Feedback for Maria
 
 ### Job Prep
 
-*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](https://turingschool.slack.com/files/mstenquist/F45EFMU7R/msresumeturing.pdf)
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/mariastenquist)
+*   [Link](https://turingschool.slack.com/files/mstenquist/F45EFMU7R/msresumeturing.pdf) to Resume
+*   [Link](https://www.linkedin.com/in/mariastenquist) to LinkedIn Profile
 
+------------------------------------------------
 
 ## E: Community
 
 ### Gear Up
-[Link](https://gist.github.com/mariastenquist/076d2348f1d4d570edcb074ce71c7744) Link to reflections for all 5 Module 1 Gear-Up Sessions
+* [Link](https://gist.github.com/mariastenquist/076d2348f1d4d570edcb074ce71c7744) to Gist containing reflections for all 5 Module 1 Gear-Up Sessions
 #### Session 1: Growth Mindset
  Gear-up Session 1 (Growth Mindset) 1/27/17
 
+* [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown) to Original Session Lecture
+* [Link](https://gist.github.com/mariastenquist/6cd66415195d8149d3e41e6ab0a1e897) to Session 1 Reflection 
+
 #### Session 2: Managing Cognitive Resources
-Gear-Up Session 2 2/1/17
-Cognitive Resources
+Gear-Up Session 2: 2/1/17
+Topic: Getting Better at Difficult Things (Manage Cognitive Resources)
+
+* [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md) to Original Session 2 Lecture
+* [Link](https://gist.github.com/mariastenquist/9aead1b5c5909573bd39b0d6efb65efd) to Session 2 Reflection 
 
 #### Session 3: Managing Stress
-Gear-Up Session 3 2/10/17
-Managing Stress
+Gear-Up Session 3: 2/10/17
+Topic: Managing Stress
+
+* [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md) to Original Session 3 Lecture
+* [Link](https://gist.github.com/mariastenquist/d95966ada119dfe4ea592ed7be559b22) to Session 3 Reflection 
+
 
 #### Session 4: Personal Stories & Connection
 Gear-Up Session 4 02/15/17
 Personal Stories & Connection
 
+* [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_retrospective.markdown) to Original Session 4 Lecture
+* [Link](https://gist.github.com/mariastenquist/e5ee12770c04c9556066bfa5a0658925) to Session 4 Reflection 
+
+
 #### Session 5: Debugging the Gender Gap
 Gear-Up Session 5 02/24/17
 Code: Debugging the Gender Gap
 
+* [Link](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md) to Original Session 5 Lecture
+* [Link](https://gist.github.com/mariastenquist/bf4349ea8a04f6dc30e7aff52617745d) to Session 5 Reflection 
 
 ### Community Participation
 (insert description of how you've contributed to the Turing community)
@@ -143,8 +148,7 @@ Code: Debugging the Gender Gap
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+*   Assessor Notes
 
 ### Outcome
 
