@@ -152,11 +152,27 @@ Staci was instrumental in helping me retake headshots so I could update all my p
 
 Bekah and I worked together on the weather redux project. She isn't afraid to try things when she doesn't know the answer and is also a good researcher. We only paired a few times on this project, but I enjoyed working with her. When I was having difficulties with our third team member she was encouraging of my dealing head on with the issue. My only suggestion to her would be to trust her own knowledge. Bekah knows quite a lot and is a very good programmer, but as with many of us, doesn't always trust that she knows what she knows.
 
+'My feedback is related to the Redux project we worked together on.
+
+I recognize that I started things off badly by having commitments that took me away from work the first two afternoons of work time, but I always tried to show up after that ready to work and collaborate. I was hoping we would stay late Tuesday night to work on things, but you preferred to go home and do research. I should have done more on my own without reference to you or Bekah, but I have been on many teams, both professionally and in school, where people duplicate work because no one bothers to discuss what needs to be done until the work has been completed and I did not want to step on anyone’s toes. In retrospect, this was the wrong tack to take, and I apologize.
+
+When we all worked together and I did try to participate, you were dismissive of my answers, even when they were the right ones. This made me feel not valued or wanted, even though I wanted to be an active part of it. I had hoped that as the week went on and we divided up more work, I would be able to take a more active role on my own, but you always seemed to volunteer for the larger chunks. I do regret that I did not contribute to much of the codebase, I didn’t stand up for myself more, and as a result you did a majority of the work. I don’t know if you didn’t trust me to do the work or if you simply wanted to make sure you understood the process on your own, but it seemed to me that you wanted that control. 
+
+I think my largest piece of feedback is to actually listen to all members of the group and encourage participation, even if you think they have nothing to contribute. They might surprise you.'
+
 ### Being a Community Member
 
 I worked on the redux weather app with Anna. Anna was a very hard worker and is very good at researching and learning about the topics in our project. Anna and I only paired a few times on this project. Anna is very open, which is helpful for when I make mistakes. The only advice or constructive criticism I could give you is to try to open to others opinions and thoughts, and to speak up right away if you do not feel that you are being heard. That way, we can solve problems very early on! I am glad we got to work together this mod! - Bekah Lundy
 
 Anna was an amazing support to me in Mod-1 and continues to be throughout the program. She goes out of her way to be available to me when I need help. She has also been my ear and emotional support to help me through Turing. I don't think I could make it this far without her! She is always encouraging, honest, knowledgeable and kind. - Staci McWilliams
+
+'My feedback is primarily focused on constructive feedback from the redux project we worked on together with Bekah.
+
+I think the main tension/frustration I felt - especially early on in the project - was what I perceived to be a lack of commitment to contributing to the codebase we were building. I know you had commitments that kept you from pairing with Bekah and I during the first few afternoon/nights of the project but my expectation was that you’d be making up for it by contributing to the codebase at other times. This was a project that had specific goals around git workflow and divide and conquer and I didn’t get the impression that you were interested in working on the project unless it was paired - something that wasn’t possible for the first few days because of your schedule. As a result, I thought the workload/contributions from the group were pretty unbalanced - especially early on - and I think it created tension.
+
+I think my main piece of feedback, based on the above, is that I think your locus of control can sometimes be a little too externally oriented. At times, I felt like your assumption was that we all needed to pair to get anything done and that, if we weren’t together, you weren’t going to contribute. From the perspective of a team member, this was frustrating to feel like I was put in a position where I had to spend more of my time picking up the slack. For example, I did the majority of the CSS - after Bekah did the initial setup/styling. I felt like that was a place where you could have done some more of the work when you were having trouble with other parts of the code.
+
+I am happy to discuss any of this with you if you’d like and I am sorry for not sharing it earlier.' - Sam Johnson
 
 ### Playing a Part
 
