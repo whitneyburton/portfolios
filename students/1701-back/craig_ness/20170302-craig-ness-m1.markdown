@@ -41,7 +41,6 @@ My areas of emphasis included those deemed necessary by Turing in order to be co
 | **Test-Driven Development** | n/a | 3.5 | 1 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 4 | 3 |
 | **Fundamental Ruby & Style** | 3 | 3 | 3 |
-| **Loop or Recursion** | n/a | n/a | n/a |
 
 ### Assessor Comments
 
@@ -50,22 +49,19 @@ My areas of emphasis included those deemed necessary by Turing in order to be co
 *   Good testing coverage.
 *   Showed really good encapsulation.
 
-### Notes
-
-##### Notes on HTTP, Yeah You Know Me! from Craig Ness
-*   I was able to keep up with the concepts of http, but ran out of time due to external (personal) matters, which have since been resolved. Not an issue going forward.
-
 ## C: Group Projects
 
 | CATEGORY | Night Writer | Black Thursday |
 | --- | --- | --- | --- |
 | **Project Spec** | [Link](http://backend.turing.io/module1/projects/night_writer) | [Link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [Link](https://github.com/mariastenquist/night_writer) | [Link](https://github.com/themenintights/black_thursday) |
-| **Functional Expectations** | 3 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | n/a | X |
+| **Functional Expectations** | 3 | 3 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 |
+| **Enumerables & Collections** | n/a | 4 |
+| **Code Sanitation** | n/a | 4 |
+
 
 ### Assessor Comments
 
@@ -76,6 +72,13 @@ My areas of emphasis included those deemed necessary by Turing in order to be co
 *   Let tests drive major (and minor) refactors - this would eliminate issues we're seeing with old `to_braille` tests no longer supporting `ToBraille`
 *   Would be nice to see edge cases tested
 
+##### Comments on Black Thursday from Beth Sebian:
+*   Style: If enumerables are blocks, use do/end, and no need to return values in find
+*   Solid testing, comprehensive; nice use of fixtures
+*   Enumerables otherwise solid
+*   Solid breakdown of classes
+*   Through i4
+
 ## D: Professional Development
 
 ### Define-the-Relationship (DTR)
@@ -84,11 +87,13 @@ My areas of emphasis included those deemed necessary by Turing in order to be co
 
 ### Pair Feedback
 
-##### Feedback for Craig (Project: Night Writer, Partner: Maria Stenquist)
+##### Pair Project 1, Feedback for Craig (Project: Night Writer, Partner: Maria Stenquist)
 
 Craig was super patient, always willing to try new things and hack away at trying to find a solution. Working together and struggling through solving problems went well. When we made "small gains" we made sure to acknowledge the other person's contributions towards it. Craig was really good at getting into the tiny details of the project, and I think that was super helpful when keeping track of a bunch of things in flux. I think we struck a good balance of using our resources (mentors, upper mod students, google), although on a few occasions we banged our heads against a concept for a bit too long. We did have some diminishing returns, and would have benefitted from taking more breaks and stepping away from the project for a bit and coming back with fresher eyes. I think we had some checks-and-balances in our pairing dynamic which was good to check small errors and getting small pieces of functionality working. When one person was starting to feel drained, I felt that the other stepped in to help relieve some of the (small) speed bumps we encountered. Nonetheless, we did get the spec functionality working in the end. I think we managed our time pretty well, and the extra hours spent white-boarding and framing the problem at the beginning were beneficial. Given a bit more time I think we would have really driven forward more refactoring and fixed our TDD process that we needed to revisit. Pair-dynamics: I think our driver-navigator setup was good. Our Github flow saved us time as our commits, pull requests, and merges went smoothly for this project. I really enjoyed working with Craig on this project!
 
-*   Project 2 (First Last): lorem ipsum
+#### Pair Project 2, Feedback for Craig (Project: Black Thursday, Partner: Seth Moser)
+
+Good job getting your shit done and when falling behind going back and looking at how something worked, it was nice of you to tell me you weren't keeping up with my pace and doing more work after we split off, but just be sure to let me know earlier next time.
 
 ### Job Prep
 
