@@ -35,7 +35,6 @@ I feel that over the past six weeks I have developed a very basic understanding 
 | **Test-Driven Development** | na | 4 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 2 | 3 |
 | **Fundamental Ruby & Style** | 2 | 2 | 3 |
-| **Loop or Recursion** | na | X | X |
 
 #### Notes
 Evaluator Comments:
@@ -62,7 +61,7 @@ My Comments:
 | **Encapsulation/Breaking Logic into Components** | 3| 4 |
 | **Fundamental Ruby & Style** | 3 | 3 |
 | **Code Sanitation** | na | 4 |
-| **Enumerable & Collections | na | 3 |
+| **Enumerable & Collections** | na | 3 |
 
 
 #### Notes
