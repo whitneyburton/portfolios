@@ -51,19 +51,22 @@ Look into how response handler can be a module.
 | --- | --- | --- | --- |
 | **Project Spec** | [link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/night_writer.markdown) | [link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/black_thursday.markdown) |
 | **Github** | [link](https://github.com/Cdale3/Night-Writer) | [link](https://github.com/stovermc/black_thursday) |
-| **Functional Expectations** | 3 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 4 | X |
-| **Loop or Recursion** | n/a | X |
+| **Functional Expectations** | 3 | 3 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 4 | 4 |
+| **Code Sanitation** | n/a | 4 |
+| **Enumerables & Collections** | n/a | 4 |
 
 
 #### Notes
 
-*   Night-Writer Notes: 11 tests total all passing, Got through all iterations, talked about, encapsulating runners in a class
-talked about a dictionary class as well to hold constants
+*   Night-Writer Instructor Notes: 11 tests total all passing, Got through all iterations, talked about, encapsulating runners in a class, talked about a dictionary class as well to hold constants
 
-*   Note 2 (if applicable)
+*   Black-Thursday Instructor Notes: 
+**Testing solid; continue to seek ways to isolate testing to smallest scopes possible,
+**Rock-solid enumerable
+**Consider Sanitizer module or something else to help with standardizing data
 
 
 ## D: Professional Development
