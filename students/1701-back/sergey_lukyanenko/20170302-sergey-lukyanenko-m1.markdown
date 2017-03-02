@@ -49,7 +49,7 @@ Notes: Some critical misses, overall this is a skill to work on that will not hi
 
 #### Notes
 *   Note 1: hhtp project brought some low grades to my portfolio. 
-But I consider it as part of the learning process. Cause this project
+But I consider it as a part of the learning process. Cause this project
 was out of our knowledge field in many ways so it let us learn how
 to search for answers, pair up with upper mod students and discover 
 new field of information.
@@ -59,12 +59,14 @@ new field of information.
 | CATEGORY | Night Writer | Black Thursday |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
-| **Github** | [link](ruby-submissions/1701-b/1module/night_writer/victoria_sergey/nightwriter.markdown) | [link](http://example.com) |
-| **Functional Expectations** | 3 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 4 | X |
-| **Fundamental Ruby & Style** | 2.5 | X |
-| **Loop or Recursion** | n/a | X |
+| **Github** | [link](ruby-submissions/1701-b/1module/night_writer/victoria_sergey/nightwriter.markdown) | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/black_thursday/nick_sergey/rubric.md) |
+| **Functional Expectations** | 3 | 3 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 4 | 4 |
+| **Fundamental Ruby & Style** | 2.5 | 3 |
+| **Loop or Recursion** | n/a | 4 |
+| **Code Sanitation** | n/a | 4 |
+
 
 ## D: Professional Development
 
@@ -80,7 +82,7 @@ Feedback from partner projects.
 
 My feedback to Victoria Vasys: You were a great asset to the team. You are very professional and focused on your work. Despite the difficult deadlines for the Night Writer Project, you maintained a positive attitude. You responded to problems without getting frustrated. You often stayed late working and were very conscientious of timelines and resources. When fixing a problem, you readily explained how you were fixing it. One thing to possibly improve in your skills is dividing responsibilities of the project parts with your team, allowing your partner to be more involved in coding of the project. It has been wonderful working with you and I hope I get the chance to work with you again in the future.
 
-*   Project 2 (Nicholas Jacques):
+*   Project 2 (Nicholas Jacques): Overall I’m pretty happy with how this project turned out.  I wish we had a couple more days to polish it but I think that will be the case with every project.  I was really impressed with your stamina and attitude during the project.  You were always willing to stay late and work as hard as we needed to.  I think you did really good at organizing work time and setting up pairing sessions.  I didn’t take advantage of pairing with mentors in the past and I’m glad you showed me how helpful is can be.  I also really admired your desire to have a deeper understanding of the way things worked within our code.  The questions you asked were consistently driving development and helped us gain a better understanding of the project.
 
 My feedback to Nicholas Jacques: It’s been a very productive and joyful time to work with Nick. His dedication and passion for coding is a big part of his life. He put a lot of effort and time into our project. During our project time Nick showed great skills in working with a large amount of data and connecting multiple objects together into working methods and classes. He has a clear vision of the problems that need to be solved and quickly finds a solution by using all available tools. 
 He is very friendly and openminded. Nick never hesitates to ask for advice from students around and willingly offers his support and knowledge to others. 
