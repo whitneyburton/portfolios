@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(ADD PARAGRAPH)
+This mod I worked really hard to step out of my comfort zone and become more engaged with the members of my cohort and the community. Last mod I struggled to assert myself and ask questions in class, and I recieved feedback that suggested I improve in this area. I asked a lot of questions this time around, and believe my learning benefited greatly from this engagement. I also reached out to members of other cohorts, and was able to pair with some mod 1 students. I also worked on a project with two front-end mod 4 students as well as Katy and Casey, and I'm really happy with the application we created. I also really enjoyed learning how to use rails, and building applications that I could interact with in my browser. Over all this mod has been really fun and engaging.  
 
 ## Rubric Scores
 
@@ -131,6 +131,8 @@ The most valuable feedback that I've gotten at Turing is that I need to open up 
 
 ### Flower Exercise
 
+ * [Flower Link](https://gist.github.com/CjMoore/7afb60be09063bea67a308ee0a670a99)
+
 ### Mentor 
 
 I've reached out to two people about mentorship. The first never responded, and the second agreed to be my mentor, but I haven't heard from him since. I intend to take time over intermission week to reach out to a few people. I'm looking for a mentor who I can talk to about civic tech and python, and there are a number of people on the mentor spreadsheet who have experience with those things. After the PD session today I realize my approach could be the issue,  so I intend to seek feedback from peers about the way I'm reaching out.  
@@ -151,7 +153,21 @@ I've reached out to two people about mentorship. The first never responded, and 
 
 ### Debugging the Gender Gap
 
+ * My experience at turing has not reflected many of the experiences shared in the documentary. I do not feel belittled or patronized by my peers here, in fact I feel respected. I am worried however about transitioning into a job, simply because I have experienced gender based discrimiation in the past. I feel however that my experience at turing has been positive, as the community here is very supportive. 
+
+ * I work to check my own judgements of people, and try to have an open mind with regards to others. I'm not a particularly outgoing person, I do my best to be approachable and kind in my intentions. 
+ 
+ * I over heard someone making racial comments and didn't say anything. Later that day a member of my cohort expressed that they felt discriminated against. I think I could have said something at the time to support the person who was hurt by those comments. 
+
 ### Universal Basic Income
+
+ * As technology progresses and jobs become automated, this will mean less jobs. One of the first questions people often ask eachother is 'what do you do?', and as a result I think a lot of people base their value to society on their occupation. I think this focus will have to change in order for us to move forward. I think however people may have more of an opportunity to explore their interests and passions, which could greatly benefit society. 
+ 
+ * I think Elon Musk's opinions on the future of our country, in particular with regards to UBI, are based on his perspective as an innovator. I think his perspective on the rapid growth of technology is somewhat skewed by the fact that his life's work is devoted to the advancement of technology. 
+ 
+ * Universal Basic Income is a program in which every adult person gets a set amount of money from the government every month regardless of emplyment status. People should know about automation and the effect it has on our workforce because we need to be prepared for a future in which there are fewer and fewer jobs. 
+ 
+ * It is worthwhile to be educated about automation because knowledge is power. 
 
 ## F: Feedback
 
@@ -172,5 +188,13 @@ Charlotte Moore:
   ** (From: Courtney) **
   
   Charlotte, I really enjoyed working with you on the Little Shop project. I observed your technical strengths to include: testing, debugging styling issues, the MVC framework, and a particular acumen for strategic planning. As a project manager, you considered everyone's opinion and input as equal and frequently engaged in forward/big picture thinking that kept us on a successful track at a manageable pace. As a peer, you consistently stopped what you were doing to help others work through difficult problems and took on many of the unexpected tasks that came up throughout the project. In the future, you may find it useful to advocate for the tasks you specifically want to ensure you're getting the learning experience you desire out of a project. You were very communicative on Slack and GitHub, and your thorough code reviews helped us verify / challenge our assumptions about what our code was doing / not doing. I particularly appreciate the attention to detail you exercised in going through all of the user stories and code at different milestones throughout the project. I enjoyed all of my interactions with you, and I'm proud of the application we built together.
-
+  
+   ** (From: Ryan) **
+   
+   Charlotte, I really enjoyed working with you on Bike Share. I feel like you greatly contributed to our cohesive, efficient team dynamic. Your insights were valuable and pairing with you was equally valuable as a learning experience for me. Honestly, I’m not sure what constructive feedback to give you. I feel like a cop-out answer to this might be “be more assertive” about some of your ideas, but thinking about that…it’s really not the case. When any of us had differences of opinion on a route to follow, we hashed it out logically and like adults. One thing that’s worth mentioning is that I think that some of your pre-planning and looking down the line at potential effects current actions in coding might have rubbed off on me. I’m very thankful for that, as it has been very useful in all of my coding since. It was a pleasure to work with you and learn from you on this project and I wish you nothing but good fortune on future endeavors!
+   
+   ** (From: Chelsea and Christine) **
+   
+   Casey, Katy, and Charlotte- Our backend team! We’ve been so impressed with your willingness and enthusiasm to jump into the One Nation Many Voices project. You each provided valuable perspectives to the planning phase, and the API you created was really helpful in building out the MVP. We know you are going to be successful developers with your work ethic and problem solving abilities, and we hope you’ll continue working on this project!
+  
 
