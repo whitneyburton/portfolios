@@ -53,7 +53,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://example.com) |
 | **Github** | [link](https://github.com/jk1dd/night_writer) | [link](http://example.com) |
-| **Functional Expectations** | 3 | 4 |
+| **Functional Expectations** | 3 | 3 |
 | **Test-Driven Development** | 3| 4 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 |
 | **Fundamental Ruby & Style** | 3 | 4 |
