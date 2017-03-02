@@ -62,9 +62,16 @@ No specific comments.
 
 By the time this project rolled around, we had one unhappy Mod, and the Friday after it was due, the Denver bars made a lot of money. But this search trie project, designed to be the bones of an autocomplete program, set us up so well for weathrly, and we all felt that as we tackled the last project of the mod. We survived it, and I think these projects were instrumental in our development as programmers, all whining aside.
 
-(evaluation comments)
-Scores not posted as of 03/01 13:45.
-(evaluation scores)
+##### Fundamental JavaScript & Style
+3: Application shows strong effort towards organization, content, and refactoring
+##### Enumerable & Collections
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+##### Test-Driven Development
+3.5: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+##### Encapsulation / Breaking Logic into Components
+3.5: Application effectively breaks logical components apart but breaks the principle of SRP
+##### Functional Expectations
+3: Application meets all requirements as laid out per the specification.
 
 ## C: Group Work & Projects
 
