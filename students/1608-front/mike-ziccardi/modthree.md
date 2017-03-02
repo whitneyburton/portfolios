@@ -18,8 +18,7 @@ as well as getting better with react and react router, learning to use redux wit
 
 ## A: End of Module Assessment
 
-PENDING
-
+PASS
 
 ## B: Individual Work & Projects
 
@@ -101,10 +100,9 @@ Remember is an app where users can create reminders for themelves. this project 
 
 Mike, I had fun working on the Ember project with you because our personalities are very similar and we both have such a dry sense of humor. I really enjoyed working through the flow of the project and switching off between issues. We talked out loud a lot during this project which was really great for my learning. You helped me a lot trying to figure out how to set upstream stuff for the repos and you got stuff rendering on the page after a half a day of being unable to do during our first set of issues, which was super frustrating. And also our jokes were on point!
 
-
-
 ## D: Professional Skills
- - Profession Development is beneficial in module 3. I enjoyed learning about how to figure out what I want in a job and what is important for me. Now I have a better understanding of what i want and where i want to be when i grow up(graduate)
+ - Profession Development is beneficial in module 3. I enjoyed learning about how to figure out what I want in a job and what is important for me. Now I have a better understanding of what i want and where i want to be when i grow up(graduate)  
+ 
 ### Gear Up
 #### (commons )
 
@@ -117,7 +115,8 @@ Mike, I had fun working on the Ember project with you because our personalities 
 
 * [GitHub URL](https://github.com/turingschool/gearup/blob/master/automation.markdown))
 
-automation is pretty cool but it is scary that almost every job can someday be automated. Its important to be informed about this so we can figure out a way for the folks who lose their jobs to get educated to have a job when theirs gets automated.
+automation is pretty cool but it is scary that almost every job can someday be automated. Its important to be informed about this so we can figure out a way for the folks who lose their jobs to get educated to have a job when theirs gets automated.  
+
 ### Gear Up
 #### (basic income)
 
@@ -131,7 +130,7 @@ automation is pretty cool but it is scary that almost every job can someday be a
 STUFF FOR MEG
 turing portfolio: https://www.turing.io/alumni/michael-ziccardi
 
- [GitHub URL](https://gist.github.com/mziccardi/c8ae013d44de3ad1d97080073f2ff742)
+[Flower Exercise](https://gist.github.com/mziccardi/c8ae013d44de3ad1d97080073f2ff742)
 
 Trello(you're already apart of it but here is a link anyway)
 
@@ -163,18 +162,12 @@ What I Will Work on with Meg
 
 I want to work on cover letter stuff.
 
-Margaret Stewart
-Feb 28 (1 day ago)
-
-to me
-Hi Mike! Thanks for all your hard work on your deliverables. Looks like the only thing missing is flower exercise. If you’ll just DM me the link, I’ll mark as complete!
-
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
 -Devin:
-I had a great time working with Devin on the RemEMBER project. I appreciate how patient you were patient when I was having trouble conceptualizing one of the issues we were given. You were easy to communicate with both in person, and over slack. If we were planning on meeting up you communicated when you would be there and were on time and that is greatly appreciated. The work flow of this project made me more comfortable with PRs and working on issues. Writing jokes in our tests made the project less boring and I even had some fun.   Why does a chicken coop only have two doors???? IF IT HAD 4 IT WOULD BE A CHICKEN SEDAN!!
+I had a great time working with Devin on the RemEMBER project. I appreciate how patient you were patient when I was having trouble conceptualizing one of the issues we were given. You were easy to communicate with both in person, and over slack. If we were planning on meeting up you communicated when you would be there and were on time and that is greatly appreciated. The work flow of this project made me more comfortable with PRs and working on issues. Writing jokes in our tests made the project less boring and I even had some fun. Why does a chicken coop only have two doors???? IF IT HAD 4 IT WOULD BE A CHICKEN SEDAN!!
 
 -DAN:
 Working with dan on the weather forecast project was great. He made the sadness of learning Redux more fun by implementing a secret code into the app. Dan was always ready to work on the next parts of functionality, and was always ready to help when Noah or I was having any problems with our assigned parts. One important thing I learned from Dan was to "NEVER FORK THE REPO" just clone it down and make a separate repo so making PRs isn't as awful.
@@ -188,8 +181,6 @@ I really enjoyed working with Noah. His Can-do attitude was super helpful when r
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
