@@ -222,13 +222,14 @@ Workflow
 
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 
 #### Growth Mindset
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+
+I appreciate that Turing teaches us to undertake the growth, rather than fixed, approach to learning. It's most important when learning a new field. I constantly remind myself and try to develop growth mindset so I can engage more deeply into the studies.
 
 #### Getting Better at Difficult Things
 
