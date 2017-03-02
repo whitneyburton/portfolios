@@ -132,6 +132,9 @@ Working with you has been a trip. I think you were successful in your goal of st
 @ Andy Wooten
 You did a great job anchoring the group. You were very good about reaching out to others outside the group for advice and getting us over hurdles that held us up for hours (i.e. trip data). In the future, make sure to give your team very clear updates about any monumental changes or progress you've made. Also, take others' working/personality styles into account. Some people need to work in silence on occasion or completely unplug from project related conversation for a breather. Your overwhelming positivity is a force to be reckoned with and your courteousness is refreshing. You are always ready and willing to add a helping hand. I think we all meshed really well and I'm very proud of the headway that the four of us made in skill level and the work we produced. Looking forward to the next time we get paired together.
 
+@ Ryan Spink
+You've been a huge asset in our cohort. Your strong leadership abilities have shown through as our SAB rep. I think you have done really well at hearing our concerns and voicing them to the faculty. You've also been a great resource for bouncing ideas off of during projects and I look forward to working with you in the future.
+
 ### Being a Community Member
 
 James, I had a blast getting to work with you on Bikeshare.  I really appreciated how clearly communicated throughout the project.  You readily brought up concerns you had about the direction of the project; furthermore, you directly communicated the pieces of the project that you were interested in working on when they were available.  Your dedication and drive were readily evident in how focused you were when working.  I also respect how quick you were to pair with someone to work through a problem.  The only thing that I would encourage you to do in the future is verbalize more quickly when you need a break from work; I respect that we all need time to unwind, and I think it would help your groups in the future for you to assert that you have that need.  I hope we get to work together in the future. It was a great experience. -Andy Wooten
@@ -142,7 +145,7 @@ Thank you for being one of the members of the "DreamTeam" for Bikeshare! Working
 James,
 While the rest of us took the first night off from the project you took it upon yourself to create CRUD functionality for the Station objects, now that is determination. If a task needed to be done and the rest of us hesitated at picking it up, you took the lead on it. While I do value your approach, I would like to see you take a bigger leadership role. Going back to doing tasks that needed to be done, next project, I would advice that you choose what you want to work on the most even if it doesn't matter what you work on. There is a positive leadership value even in a small step like the one mentioned. On the other hand, thanks for taking care of the Waffle board, it helped out a lot in knowing what had been accomplished and what needed work.Thanks for being a helpful, well-rounded and informative partner. -Jonathan Serrano
 
-### Playing a Part
+James, while we haven’t worked together on a project, we have used each other as a resource to review code and work through problems together.  You have valuable insight and are always willing to help when anyone in our mod asks for it. Outside of Turing, you spearhead inclusive social meetups that have directly contributed to our cohort cohesiveness. I look forward to working with you in Mod3! -Ryan Spink
 
 ### Gear Up
 
