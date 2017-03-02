@@ -17,9 +17,9 @@ My goal was to set solid foundations in css, html and javascript, that I could b
 ## A: End of Module Assessment
 
 
-#### Pentathlon: Code Challenge # 1 (DOM Manipulation)
+### Pentathlon: Code Challenge # 1 (DOM Manipulation)
 
-#####Evaluator: Robbie
+####Evaluator: Robbie
 
 Progression/Completion
 - 3: Developer is able to implement solutions at the speed of a junior developer.
