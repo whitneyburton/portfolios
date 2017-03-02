@@ -23,16 +23,16 @@ My goal was to set solid foundation in css, html and javascript.
 Evaluator: Robbie
 
 Progression/Completion
-* 3: Developer is able to implement solutions at the speed of a junior developer.
+3: Developer is able to implement solutions at the speed of a junior developer.
 
 JavaScript Style
-* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
 
 Workflow
-* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
 Collaboration
-* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 
 ### Pentathlon: Code Challenge 2
@@ -63,21 +63,21 @@ Collaboration
 Evaluator: Bree
 
 Optional Notes:
-* I really appreciate your attention and care where accessibility is concerned. Keep it up!
-* Solid design eye
-* While we discussed areas of improvement in markup and CSS, it was overall well structured and organized
+I really appreciate your attention and care where accessibility is concerned. Keep it up!
+Solid design eye
+While we discussed areas of improvement in markup and CSS, it was overall well structured and organized
 
 Design Integrity
-- 4: The comp beautifully articulates the original design intent and there are no areas where an instructor would make changes with respect to color, layout, imagery, spatial relationship of graphical elements.
+4: The comp beautifully articulates the original design intent and there are no areas where an instructor would make changes with respect to color, layout, imagery, spatial relationship of graphical elements.
 
 Responsive Layout
-- 3:  The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
+3:  The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
 
 HTML Style
-- 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
+3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
 
 CSS Style
-- 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 
 ## B: Individual Work & Projects
