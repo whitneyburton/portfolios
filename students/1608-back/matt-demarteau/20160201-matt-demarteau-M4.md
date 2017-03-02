@@ -1,3 +1,4 @@
+
 # Matt DeMarteau - M4 Portfolio
 
 ## Areas of Emphasis
@@ -16,13 +17,53 @@ In the previous module I had to work hard to review my process and make sure I w
 
 -----------------------
 
-## A: End of Module Assessment Status
+## Self Assessment
 
-Pass
+#### A: End of Module Assessment Status
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+
+#### B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+#### C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+#### D: Professional Development
+
+A Turing student values professional growth and seeks opportunities to continuously improve.
+
+* 3: Student demonstrates satisfactory dedication, understanding, and growth of professional development through their deliverables from PD sessions.
+
+#### E: Feedback & Community Participation
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+They build up the community around them by participating and supporting other students,
+the larger Turing family, and persons outside our walls who want to develop
+their own skills.
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback. They participate in required
+activities and does at least one or two above and beyond suports of the community.
 
 ## B: Individual Work & Projects
 
-There was not an individual project in module 4, but producing for the team as an individual was needed throughout.  Due to the complexity and scope of the projects in module 4, there was many night spent working alone on a task that would contribute to the group project.  Team members counted on each other to complete their share of the work throughout the mod.  
+There was not an individual project in module 4, but producing for the team as an individual was needed throughout.  Due to the complexity and scope of the projects in module 4, there was many nights spent working alone on a tasks that would contribute to the group project.  Team members counted on each other to complete their share of the work throughout the mod.  
 
 
 ## C: Group Work & Projects
@@ -34,7 +75,7 @@ The bulk of this module involved working in a group to complete projects.  Altho
 *   [GitHub URL](https://github.com/MDes41/quantified-self)
 *   [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
 
-Quantified Self is a project built in JavaScript and html only hosted on GitHub pages. The time scope of the project was two weeks worked on in a group of two while balancing other responsibilities.  We built an application to record calories for each day’s foods and exercises.  Each day has a goal to hit and each day can be recorded separately.  The project tested our strength of JavaScript and jQuery to sort different foods, filter different foods and update without updating the DOM.  I enjoyed working on this project and thought felt it was a great introduction to testing our abilities to write JavaScript.  
+Quantified Self is a project built in JavaScript and html only hosted on GitHub pages. The time scope of the project was two weeks worked on in a group of two while balancing other responsibilities.  We built an application to record calories for each day’s foods and exercises.  Each day has a goal to hit and each day can be recorded separately.  The project tested our strength of JavaScript, jQuery, and local browser storage to sort different foods, filter different foods, and update foods and calories without updating the DOM.  I enjoyed working on this project and thought it was a great introduction to testing our abilities to write JavaScript.  
 
 Assessed By: Jeff
 
@@ -79,7 +120,7 @@ You will be subjectively graded by an instructor on the following criteria:
 *   [GitHub URL](https://github.com/turingschool-projects/briefcase/)
 *   [Production URL](https://turing-briefcase-production.herokuapp.com)
 
-Briefcase was a project where we brought the development of the Turing alumni page in-house.  Although the site works functionally there were many areas that could have been improved.  Bringing the project in-house helped to streamline solving many of the functionality problems.  The main focus for revamping the website was to make it easy for the user to upload a profile.  We added whatever we could get from another app, called Census, to help with the process.  
+Briefcase was a project where we brought the development of the Turing alumni page in-house.  Although the site works functionally there were many areas that were improved.  Bringing the project in-house helped to streamline solving many of the functionality problems.  The main focus for revamping the website was to make it easy for the user to upload a profile.  We added whatever we could get from another app, called Census, to help with the process.  
 
 Reviewer: Nate
 
@@ -113,7 +154,7 @@ Notes:
 *   [GitHub URL]()
 *   [Original Assignment]()
 
-Gadget was a small week long project where we made an application used by faculty to monitor what students are up to date with all their requirements.  You can login to the app and click which cohorts and criteria you would like to query and click analyze.  The application then either makes API calls to GitHub or scrapes LinkedIn to compare the data in the Census application.  A list of student names and whether they are compliant is then generated.  This project showed was a great automation project to help staff with a task that would take a app second to complete.  
+Gadget was a small week long project where we made an application used by faculty to monitor what students are up to date with all their requirements.  You can login to the app and click which cohorts and criteria you would like to query and click analyze.  The application then either makes API calls to GitHub or scrapes LinkedIn to compare the data in the Census application.  A list of student names and whether they are compliant is then generated.  This project showed was a great automation project could do to help staff with a task that would take a app seconds to complete.  
 
 Notes from Jeff
 
@@ -143,7 +184,7 @@ Being the last module of the program, the professional skills deliverables were 
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-We are confronted daily by social challenges that seem bigger than we are. It's often difficult for us to see the connection between small choices we make and these issues, but they are often connected. And when we can make the connection, it's not always obvious how we can best have an impact. This gear up we learned how the choice of being like you neighbor on a grand scale has drastic impact on the societies diversity impact.  I thought the gear up was very valuable to bring insight to how we approach diversity.  It was easy to see how just a couple people keeping diversity in mind can play a huge role in the dynamics of diversity.  It was also clear to see the impact on society if everyone wanted a percentage of people like them around always.  It opened me up to the role I could play in making society a more diverse place.  
+We are confronted daily by social challenges that seem bigger than we are. It's often difficult for us to see the connection between small choices we make and these issues, but they are often connected. When we can make the connection, it's not always obvious how we can best have an impact. This gear up we learned how the choice of being like you neighbor on a grand scale has drastic impact on the societies diversity impact.  I thought the gear up was very valuable to bring insight to how we approach diversity.  It was easy to see how just a couple people keeping diversity in mind can play a huge role in the dynamics of diversity.  It was also clear to see the impact on society if everyone wanted a percentage of people like them around always.  It opened me up to the role I could play in making society a more diverse place.  
 
 #### Automation
 
@@ -162,20 +203,36 @@ This gear up really opened my eyes to automation.  I always thought that automat
 
 ### Giving Feedback
 
-This was my first time working with Daniel, but I had heard many people talk about how great he is to pair with.  I really enjoyed paring on our final projects with Daniel and feel lucky to get to know him as a person.  There was one time during the project that he noticed we were losing steam in the project.  He made sure to bring it up in our retro and asked to pair on the next tasks in the project.  I really appreciated the acknowledgment that the group was losing steam and enjoyed pairing the rest of the project.  I thought we worked well together and delivered a great product.  My only feedback to Daniel is to have more confidence in himself outside of his work ethic.  He would be great on any team and can bring out the best in the teams he works with. He is a great guy and I am happy to have gotten to know him as a person outside of Turing as well.  I really enjoyed the team dynamic we had for our final project and would work with Daniel anytime.
 
-I came into this module from another module and didn't have the chance to work with Anthony on any projects in module 3.  I ended up feeling very lucky to have Anthony as a group member on our final project.  I really enjoyed the team dynamic we had for our final project and it made for my favorite project at Turing.  I didn't mind working late and tacking problems because I really enjoyed the team and working with each other on Briefcase.  I was more than impressed with Anthony's work and felt he contributed to many tough tasks presented in the project.  He is very fast at writing code and getting things done, and specifically helped to take over driving when the team was losing steam.  The only feedback that I would give Anthony is to make sure he knows how strong he is as a coder.  I overheard that he might have been struggling with module 1 and feel he is one of the top programmers in the class.  His contributions to our project showed and I would welcome pairing with Anthony anytime in the future. 
+**Feedback for Daniel Shin**
+This was my first time working with Daniel, but I had heard many people talk about how great he is to pair with.  I really enjoyed paring on our final projects with Daniel.  There was one time during the project that he noticed we were losing steam in the project.  He made sure to bring it up in our retro and asked to pair on the next tasks in the project.  I really appreciated the acknowledgment that the group was losing steam and enjoyed pairing the rest of the project.  I thought we worked well together and delivered a great product.  My only feedback to Daniel is to have more confidence in himself outside of his work ethic.  He would be great on any team and can bring out the best in the teams he works in. He is a great guy and I am happy to have gotten to know him as a person outside of Turing as well.  I really enjoyed the team dynamic we had for our final project and would work with Daniel anytime.
 
-I worked with Lee on our first project in quantified self.  He was a great person to pair with and I thought we worked very well together.  I really value Lee's ability to give 100% all the time.  His work ethic is second to none and I believe he is one of the hardest working students in the class.  I really appreciated his knowledge of coding as well.  I learned a lot working with lee and feel he has some of the best processes when working with code.  He has many shortcuts that help with speedy code delivery and his git workflow is one to be bragged about.  The only advice I would give to Lee is to have confidence in working in teams and let go of the reins a little bit when working in groups.  He has great pride in his projects and code and wants to be a part of every step of the process.  I know that if he works in groups that deliver as much as he does he can do great things.  I would work with Lee in the future anytime.  
+**Feedback for Anthony Ciccone**
+I came into this module from another module and didn't have the chance to work with Anthony on any projects in module 3.  I ended up feeling very lucky to have Anthony as a group member on our final project.  I really enjoyed the team dynamic we had for our final project and it made for my favorite project at Turing.  I didn't mind working late and tackling problems because I really enjoyed the team and working with each other on Briefcase.  I was more than impressed with Anthony's work and felt he contributed to many tough tasks presented in the project.  He is very fast at writing code and getting things done, and specifically helped to take over driving when the team was losing focus.  The only feedback that I would give Anthony is to make sure he knows how strong he is as a coder.  I feel he is one of the top programmers in the class.  His contributions to our project showed and I would welcome pairing with Anthony anytime in the future. 
+
+**Feedback for Lee Saville**
+I worked with Lee on our first project in quantified self.  He was a great person to pair with and I thought we worked very well together.  I really value Lee's ability to give 100% all the time.  His work ethic is second to none and I believe he is one of the hardest working students in the class.  I really appreciated his knowledge of coding as well.  I learned a lot working with Lee and feel he has some of the best processes when working with code.  He has many shortcuts that help with speedy code delivery and his git workflow is one to be bragged about.  The only advice I would give to Lee is to have confidence in working in teams and let go of the reins a little bit when working in groups.  He has great pride in his code and wants to be a part of every step of the process when working on a project.  I know that if he works in groups that deliver as much as he does he can do great things.  I would work with Lee in the future anytime.  
 
 ### Being a Community Member
 
-(feedback to me)
+**Feedback from Anthony Ciccone**
+This was my first time being in a group with Matt. He was awesome to pair with and I loved having him in my group. Matt build out our whole alumni page and did an awesome job (CSS Master). I was really impressed how Matt often took on some of the more difficult parts of our Briefcase project.  My only constructive feedback would be for Matt to portray more confidence because his technical skills are way better then he gives himself credit for. 
+
+**Feedback from Daniel Shin**
+Matt was a huge help in modeling the server side architecture and refactoring the client-side components. There was a time where the project seemed a little lost, and he helped clean up some muddy design decisions that was bogging down the whole project. I thought the project began picking up momentum from there. I was pleasantly surprised at how solid Matt is at designing a website. He even fixed our navbar during our eval! I think his logical thinking and attention to design will make him a valuable team member on any team, whether it's front-end or backend.
+
+**Feedback from Lee Saville**
+Really appreciated your hard work on Quantified self where we got thrown in the deep end of the javascript pool! You were great to pair with and our hard work paid off! One suggestion for you might be to work on communication so that you’re able express yourself really clearly when talking about the code you’re working on. Thanks for all that work!
 
 ### Playing a Part
 
+* I switch cohorts in module 3 to be a part of a new cohort and felt that being a part of the community is essential to building great teams.  I made sure to be a part of the 1608 community by getting to know every member of the class and acting to be a part of all the community events that went on during the module.  One day was fun when a group of us got together on the Monday we had off and played basketball.
 
-(ways you supported the larger Turing community)
+* I helped with the pre-work of two individuals during the break of module 3 and during module 4.  Being further alone in the program it gets harder and harder to meet the kids that are just coming in and I really enjoyed the comradery helping the incoming students brings.  I also partake in all the lunch roulettes when the groups come together.
+
+* I made sure to pair with module 1 students when they would ask for pairing in the pair channel.  I really enjoyed helping with the tough project HTTP You Know Me.  It was great to work with the incoming students and share what I have learned.
+
+* I also co-lead a spike which was great for getting my face out there.  After leading the spike, I could meet students and help with projects after getting to know them through the spike session.  
 
 ------------------
 
@@ -188,3 +245,4 @@ I worked with Lee on our first project in quantified self.  He was a great perso
 ### Outcome
 
 ( Leave blanks for reviewers )
+
