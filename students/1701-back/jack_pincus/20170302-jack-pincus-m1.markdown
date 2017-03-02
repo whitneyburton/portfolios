@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Coding in ruby to create IOT devices.
+Coding in ruby to create IOT devices. I want to be able to make a product that solves an old problem in a new way.
 
 ## Self-Assessment Scores
 
