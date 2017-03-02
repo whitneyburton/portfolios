@@ -173,8 +173,8 @@
 
 ## Complete-Me
 
-  * https://github.com/kfarias/sorting-suite
-  * http://frontend.turing.io/projects/sorting-suite.html
+  * https://github.com/kfarias/complete-Me
+  * http://frontend.turing.io/projects/complete-me.html
 
     ##### Instructor: Nathaniel Foster
 
