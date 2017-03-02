@@ -2,7 +2,7 @@
 
 ## Front End
 
-I wasn't sure what to expect from Turing. I knew it would be hard work. I knew -to use the cliche- I would be drinking from the firehose, and probably stressed out. My goals for this mod was to establish healhy habits in my life, and productive study habits to set me up for success for the length of the program.
+I wasn't sure what to expect from Turing. I knew it would be hard work. I knew -to use the cliche- I would be drinking from the firehose, and probably stressed out. My goals for this mod were to establish healhy habits in my life and create productive study habits to set me up for success for the length of the program, as well as keeping up with the material.
 
 ## Rubric Scores
 
@@ -15,15 +15,82 @@ I wasn't sure what to expect from Turing. I knew it would be hard work. I knew -
 -----------------------
 
 ## A: End of Module Assessment
+# Pentathlon: Code Challenge # 1 (DOM Manipulation)
 
-(Notes & scores from your assessment rubric)
+### Evaluator: Robbie
+
+### Optional Notes:
+
+#### Progression/Completion
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+#### JavaScript Style
+
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+#### Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### Collaboration
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+# Pentathlon: Code Challenge 2
+
+### Evaluator:
+### Optional Notes:
+
+* Great communication!
+* Good job applying hints
+
+#### Progression/Completion
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+#### JavaScript Style
+
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+#### Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### Collaboration
+
+## Pentathlon: Static Comp Challenge
+
+### Evaluator: Bree
+### Optional Notes:
+
+* Nice work. Marked improvement and progress.
+* Keep pushing on organization in your markup and focus on semantic/accessible considerations
+* Next time experiment and get comfortable with in-line svgs
+* No pt's on font! Only pixels or ems or rems :)
+
+#### Design Integrity
+
+- 3: The comp accurately reflects the design integrity with respect to color, layout, imagery, spatial relationship of graphical elements. While there are areas of improvement, it is a close representation of the original design.
+
+#### Responsive Layout
+
+- 3:  The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
+
+#### HTML Style
+
+- 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
+
+#### CSS Style
+
+- 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 
-## B: Individual Work & Projects
+
+### B: Individual Work & Projects
 
 My individual work includes one solo project and three static comps. It is exciting to see the growth I have made these past six weeks, especially with CSS.
 
-#### (Number Guesser)
+##### (Number Guesser)
 
 *   [Number Guesser](https://github.com/lauraturk/number-guesser)
 *   [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -96,7 +163,7 @@ Color pallete was good. Font was small.
 
 #### (Static Comp 3)
 
-*   [Static Comp 2](https://github.com/lauraturk/lt-comp-challenge-3)
+*   [Static Comp 3](https://github.com/lauraturk/lt-comp-challenge-3)
 *   [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 (description)
@@ -105,14 +172,35 @@ font-family: Alegreya Sans SC for all caps otherwise Alegreya Sans is used. In a
 
 This comp challenge was, indeed, a challenge. It was encouraging to feel like I was beginning to understand how to approach and organize a CSS challenge of this size. Despite that I still feel like my CSS is slow and I look forward to flexing this muscle more.
 
-(evaluation comments)
+## Evaluator: Bree
+## Optional Notes:
 
-(evaluation scores)
+* Nice work. Marked improvement and progress.
+* Keep pushing on organization in your markup and focus on semantic/accessible considerations
+* Next time experiment and get comfortable with in-line svgs
+* No pt's on font! Only pixels or ems or rems :)
+
+### Design Integrity
+
+- 3: The comp accurately reflects the design integrity with respect to color, layout, imagery, spatial relationship of graphical elements. While there are areas of improvement, it is a close representation of the original design.
+
+### Responsive Layout
+
+- 3:  The comp logically breaks down across several breakpoints to accommodate mobile, tablet, desktop, and large format screens. While there are areas for improvement, nothing is lost or illegible across any of the screen sizes.
+
+### HTML Style
+
+- 3:  Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer employs basic use of semantic tags and makes additional effort where applicable to write accessible markup.
+
+### CSS Style
+
+- 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
 
 ## C: Group Work & Projects
 
 ### Projects
-I found paired projects to be more challenging than I anticipated. I've done a lot of group and committee work in my past, but it was often 'take these distinct pieces and we'll compile them all together later'. Dividing tasks and pairing on smaller projects that had less defined break points was harder on an interpersonal level than I anticipated. I learned how to divide those tasks, how to support my partner, how to manage my own stress and not try to manage my partner's, and how to speak up when I felt like my partner was getting ahead of me. I am proud of the work in these three projects.
+I found paired projects to be more challenging than I anticipated. I've done a lot of group and committee work in the past, but it was often 'take these distinct pieces and we'll compile them all together later'. Dividing tasks and pairing on smaller projects that had less defined break points was harder on an interpersonal level. I learned how to divide those tasks, how to support my partner, how to manage my own stress and not try to manage my partner's, and how to speak up when I felt like my partner was getting ahead of me. I am proud of the work in these three projects.
 
 #### (Linked List)
 
@@ -123,8 +211,23 @@ I found paired projects to be more challenging than I anticipated. I've done a l
 A foray into DOM manipulation. I felt pretty confident with this project and was able to apply what we had learned.
 
 (evaluation comments)
+Evaluator: Louisa
 
-(evaluation scores)
+Functional Expectations
+
+3.5: Application meets all of the functional expectations in Phase Three but had buggy things in the layout.
+Fundamental JavaScript Style
+
+3: Application shows strong effort towards organization, content, and refactoring.
+Workflow
+
+3.5: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+HTML Style
+
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+CSS Style
+
+soft 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
 (feedback to me)
 February 27, 2017
@@ -171,6 +274,11 @@ Collaboration
 3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
 
 (feedback to me)
+I have thoroughly enjoyed working with you throughout the past mod! Whether it had been on IdeaBox, or just talking about things to try using in our code, it's been great to bounce ideas back and forth and see what we come up with.
+
+You have incredible determination to figure out problems. Your knowledge of specific coding principles and the best way to execute them brought us to some great solutions with our project.
+
+After debriefing with IdeaBox, you felt that you were left behind on the coding. While I personally felt otherwise, I think it would be great for you to actively speak up about these things and take a stand for yourself. You're great at speaking what's on your mind already. Personally for me, I would have had a better idea of what was going on if you mentioned that you wanted to double back and refocus on a topic to get a better understanding. You've got an incredible mind to offer to any pairing session, don't be afraid to speak out about something that you want to understand better and try taking over. In the future when we are working together, please, feel free to slow me down or stop me or insist that you want to try something. I'm going to try to not take over in the future.
 
 #### (2doBox Pivot)
 
@@ -210,16 +318,34 @@ Workflow
 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
 (feedback to me)
+I thought that our partnership went very well and I can't wait to work with you on other projects! You're very receptive to new ideas and made me feel at ease about the deadline. You weren't afraid to assert yourself which is so important and such a great quality to have. You work hard and want to make sure that the people you're around feel included and appreciated, and it shows!
+Positivity, support, overall awesomeness.
+I think just being less apprehensive to speaking your mind is the only thing that I can suggest working on.
 
 ## D: Professional Skills
-(Intro)
+
+Finding the work of Carol Dweck on growth mindset and Paul Tough's work on grit brought me to Turing. It was nice to have the opportunity to revisit these topics along with ways to manage stress, how best to learn difficult subjects, discussing the role of gender in programming and our individual strengths. Many of these topics were welcome reminders in the face of new stress learning unfamiliar information. 
 
 ### Gear Up
-#### (Session Name)
+#### (Growth Mindset)
 
-*   [GitHub URL]()
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-(takeaways from session)
+As a kid there were many topics in school that I was easily successful at and when I wuold struggle (namely, math didn't come easily) I assumed I was inherently not good at it and gave up quickly. Learning about the growth mindset has allowed me to push beyond that mindset and frame difficult things as "Not yet". Triggers for fixed mindset are condecension from those around me, mansplaining, and feeling completely stuck without knowing where to start my research.
+
+### Gear Up
+#### (Getting Better At Difficult Things)
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+Practice practice practice. Break difficult things into smaller distinct things that you can master.
+
+### Gear Up
+#### (Debugging the gender gap)
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
+
+This is a conversation I've been involved with for a few years now, and I was really pleased to see Turing bring it up. What is missing from the conversation is a broader discussion of how -as a society- we devalue the work women do, and how beyond the 'pipeline' can tech be more welcoming to women. In light of this last week's news around Uber, it is clear that for too long the narrative is that women need to shift their communication styles towards men's instead of finding what is valuable in both styles and building on the shared contributions of all.
 
 ### PROtocol
 #### (Session Name)
@@ -228,12 +354,11 @@ Workflow
 *   [Link to DTR with Kristi G.](https://drive.google.com/open?id=1bDir7I_lsYKNmGkOyUNke5vgJITc2Mstjubgs82Oumo)
 
 ### Professional Development Workshops
-#### (Session Name)
+#### (Personal Goal Setting)
 
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
-
-(takeaways from session)
+*   [Workshop URL](http://frontend.turing.io/lessons/personal-goal-setting.html)
+  
+  My personal goals for the module were: I want to give back, so I will find opportunities to volunteer. I want to gain     fluency with these skills, so I will practice, practice, practice. I want a job so I will network and participate in the Turing and Tech community, and I want to keep a school-life balance so I will practice having a 'sabbath' day to recharge.
 
 ## E: Feedback and Community Participation
 
@@ -273,8 +398,7 @@ I had a great experience pairing with Laura. She had a good understanding of her
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
-
+This mod I focused on participating. I initiated communication among my lunch roulette groups. I joined the Pahlka posse and took advantage of Iron FE. 
 ------------------
 
 ## Final Review
