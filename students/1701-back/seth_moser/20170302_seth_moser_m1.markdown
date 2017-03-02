@@ -1,4 +1,4 @@
-# Seth Moser --- M1 Portfolio
+# Seth Moser - M1 Portfolio
 
 ## Areas of Emphasis
 
