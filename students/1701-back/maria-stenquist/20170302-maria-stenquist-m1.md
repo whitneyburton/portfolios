@@ -6,7 +6,6 @@
 
 
 ## Self-Assessment Scores
-##### Module 1
 
 | Category | Score |
 | ----- | --- |
@@ -132,8 +131,8 @@ Code: Debugging the Gender Gap
 * Checked-in with fellow students, and provided emotional/encouraging support to other students
 * Led a few Mythical Creatures/other drill sessions for students that requested them
 * Shared my lightning talk with students that were further interested in the topic, made myself available to chat 
-* revamped a couple students' resumes
-* on-going support for a couple Turing alums/students in regards to connecting them with contacts/companies for career opportunities
+* Revamped a couple students' resumes
+* On-going support for a couple Turing alums/students in regards to connecting them with contacts/companies for career opportunities
 
 -------------------------------------------------------------
 
