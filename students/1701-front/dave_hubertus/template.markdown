@@ -92,6 +92,7 @@ Front End Module One Projects are designed to improve our skills and increase ou
 
 *   [GitHub URL](https://github.com/Adamj1232/LinkedList)
 *   [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+*   [DTR](https://github.com/Adamj1232/LinkedList)
 
 Build an application that can save a URL and title into two inputs and on click of submit to save the bookmark to your webpage.
 
@@ -144,6 +145,7 @@ Build an application that can save a URL and title into two inputs and on click 
 
 *   [GitHub URL](https://github.com/dhubertus/2DoBox-Pivot)
 *   [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+*   [DTR](https://docs.google.com/document/d/1_7J3gk6gBuHhzh4tQsk6u0JtrY1HhdoxlonxTnUJ5p8/edit)
 
 Pivoting another student's IdeaBox to become a new application that keeps much of the same functionality of the Idea Box but adds even more functionality for the new 2DoBox.
 
