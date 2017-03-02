@@ -175,8 +175,10 @@ Sergey Lukyanenko: "During our pairing sessions with Sergey I noticed that he wa
 
 ### Notes
 
-( Leave blanks for reviewers )
+* The project work is very good except for the side project
+* OSS/Blog work is solid. Consider integrating some code snippets / screenshots.
+* This is a strong portfolio -- you did great work this module and are one of the strongest developers in your cohort.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
