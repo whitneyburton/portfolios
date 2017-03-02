@@ -55,7 +55,7 @@ Testing
 * [GitHub URL](https://github.com/chelletuerk/shut-up-and-dance)
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
-This self-directed project demands you shut you mouth and shake it.  It's a small scale version of Spotify utilizing the Spotify API, OAuth, React-Redux, and React Router.
+This self-directed project demands you shut your mouth and shake it.  It's a small scale version of Spotify utilizing the Spotify API, OAuth, React-Redux, and React Router.
 
 (evaluation comments)
 
