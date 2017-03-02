@@ -76,7 +76,7 @@ I made great strides toward meeting these goals over the course of the module. I
 
 ### Define-the-Relationship (DTR)
 
-[Link](https://gist.github.com/jk1dd/0ad3c6feaa5f38aed29789999568b5fc) to DTR Memo from 1 paired project.
+[Link](https://gist.github.com/jk1dd/0ad3c6feaa5f38aed29789999568b5fc) to DTR Memo from Night Writer with Riley Thompson.
 
 ### Pair Feedback
 
