@@ -62,15 +62,15 @@ Look into how response handler can be a module.
 #### Notes
 
 *   Night-Writer Instructor Notes:
-    11 tests total all passing
-    Got through all iterations
-    talked about encapsulating runners in a class
-    talked about a dictionary class as well to hold constants
+    *11 tests total all passing
+    *Got through all iterations
+    *talked about encapsulating runners in a class
+    *talked about a dictionary class as well to hold constants
 
 *   Black-Thursday Instructor Notes: 
-    Testing solid; continue to seek ways to isolate testing to smallest scopes possible,
-    Rock-solid enumerable
-    Consider Sanitizer module or something else to help with standardizing data
+    *Testing solid; continue to seek ways to isolate testing to smallest scopes possible,
+    *Rock-solid enumerable
+    *Consider Sanitizer module or something else to help with standardizing data
 
 
 ## D: Professional Development
