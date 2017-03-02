@@ -1,96 +1,250 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Adam Carpenter - M4 Portfolio
 
-## Areas of Emphasis
+## Front-End Engineering
 
-(What did you set out to accomplish this module?)
+This module I set out to improve my knowledge, skills and ability in html formatting and layout, css styling's and organization and all things javascript. When I entered this program I knew very little about the inner-workings, testing and functionality of JS and it was very interesting adventure to learn all that a developer could do with JS. Within the first couple weeks I also learned a huge amount about how to quickly use terminal to navigate as well as increase my working knowledge and workflow on github
+
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: X
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**: 3
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
 (Notes & scores from your assessment rubric)
+#### DOM Manipulation Assessment
+Evaluator: Robbie
+
+Notes: 
+
+Rubric
+
+Progression/Completion
+
+3: Developer is able to implement solutions at the speed of a junior developer.
+
+3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+#### Javascript Testing Assessment
+
+Evaluator: Bree
+
+Progression/Completion
+
+
+#### Static Comp CSS Challenge Assessment
+
+Evaluator: Bree
+
+Progression/Completion
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### CSS Static Comp Challenges
 
-#### (Project Name)
+#### Comp 1
+* [GitHub Pages](https://adamj1232.github.io/ac-comp-challenge-1/)
+* [GitHub Repo](https://github.com/Adamj1232/ac-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+#### Comp 2
+* [GitHub Pages](https://adamj1232.github.io/ac-comp-challenge-2/)
+* [GitHub Repo](https://github.com/Adamj1232/ac-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
+#### Comp 3
+* [GitHub Pages](https://adamj1232.github.io/ac-comp-challenge-3/)
+* [GitHub Repo](https://github.com/Adamj1232/ac-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
-(evaluation comments)
 
-(evaluation scores)
+#### Number Guesser
+
+* [GitHub URL](https://github.com/Adamj1232/numberguesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+Build a game where the user guesses a number between 1 and 100 or can set their own range. The app randomly selects a number and will return 'Too high' 'Too low' or 'Boom' until the user guesses correctly.
+
+Evaluator comments (Bree):
+  Should use convention CSS class naming with lower case, not js format
+  Consider using id's for all your JS hooks, it's faster
+  Some repeated CSS with font-family declarations
+  Refactor media queries to take out redundant properties
+
+3: Application shows strong effort towards matching the comp, but some details have been missed. Any extensions are simple, clean design, content organization, and well thought out experience and user interactions.
+
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing and has incorporated accessibility best practices.
+
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
+3: Application shows strong effort towards organization, content, and proper syntax
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+Groups of two building app to specs set by evaluators.
 
-#### (Project Name)
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+#### Linked List
 
-(description)
+*   [GitHub URL](https://github.com/Adamj1232/LinkedList)
+*   [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(evaluation comments)
+This project was to create an app for the user to build a list with. Stats as follows:
+  One button for creating the bookmark and adding it to the page
+  A section for all of the created bookmarks; each bookmark should display:
+    The title of the bookmark
+    The URL of the bookmark (this should be clickable and link to the URL)
+  A button to “Mark as Read”
+  A button to “Remove” the bookmark
+  
+The user should be able to input a title and URL into the appropriate fields. 
+When the user clicks on the button for creating the bookmark, it should be added to the bookmarks section.
+When the user clicks on the “Mark as Read” button:
+  A class of .read should be added to the bookmark
+  If it already has the class of .read, it should be removed
+When the user clicks on the “Remove” button, the link should be removed from the page
+If the user omits the title or the URL, the application should not create the link and should instead display an error prompt.
+The application should be responsive and work equally well on desktop and mobile.
+The button for creating links should be disabled if there are no contents in the title or URL fields.
+The application should be able to keep count of the total number of links currently on the page.
+The application should be able to keep count of the total number of read and unread links currently on the page.
 
-(evaluation scores)
+Evaluator Comments (Louisa): Small design errors in spacing in body, more cohesive color scheme would be nice.
 
-(feedback to me)
+(evaluation scores) - unavailable
+
+Feedback from partner: Dave Hubertus - "Working with Adam was a great experience. We were up front about what we both wanted to get out of the experience and decided early on how we were going to attack the project. Our ideal work times were discussed and since we both wanted a hand in every aspect of our project we essentially built each part together.  Adams skill set and ability to communicate well made our first pairing very successful even when the struggle was real."
+
+
+#### IdeaBox
+
+*   [GitHub URL](https://github.com/Adamj1232/idea-box)
+*   [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+In this project, we be built a simple application for recording and archiving our ideas (good and bad alike).
+Throughout the project, one of our focuses was providing a fluid and responsive client-side interface. To this end, we relied on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
+This is also built responsive so users can use this app on any device! 
+
+Evaluator Comments (Bree): Some small amounts of typology repetition in CSS, JS could be broken down into smaller, more concise pieces.
+Evaluator Scores: 
+3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+HTML Style
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+CSS Style
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+
+JavaScript Style
+3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Workflow
+3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+Collaboration
+
+3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
+
+
+#### 2DoBox - Pivot
+
+*   [GitHub URL](https://github.com/Adamj1232/2DoBox)
+*   [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+In this project we will be refactoring a fellow students IdeaBox project into a new program with beefed up option and usability. In this app we will create greater quality settings to 2Do ideas as well as employ user filter for searching through all the items on your to do list. There is a search bar, a completed button, a delete button and 5 qualities that can be assigned to each 2Do item.  All this is stored in local storage so there is no worry if you need to refresh or lose Internet connection as it will all be save until the user deletes list items.  This is also built responsive so users can use this app on any device! 
+
+Evaluator Comments (Louisa): Better coloring of buttons, functionality was good. Break out JS even further so each function only does one job.
+
+(evaluation scores) - unavailable
+
+Feedback from partner: Spencer: 
+Positive feedback - "You are easy to work with and laid-back. I never felt like you were frustrated with me for not understanding   something. I appreciate that you would ask questions and take the time to clarify stuff to me as we slogged through the project." 
+Areas for improvement - "None that I can think of. I appreciate your patience and dedication to getting the project done!"
 
 ## D: Professional Skills
-(Intro)
+### DTR Form from Group Project - Linked List:
+DTR Memo
+Project: _____Linked List______________________________________________________
+Group Member Names: ____Dave Hubertus   Adam Carpenter_____________________
+Project Expectations: What does each group member hope to get out of this project? Goals and expectations:
+●	Increased JavaScript, HTML and CSS abilities. A Workable app
+	
+Schedule Expectations: When are we available to work together and individually?
+●	Mornings, after-class for a few hours and remote
 
+Communication Expectations: How and often will we communicate? How do we keep lines of communication open?
+●	Everyday, multiple times through Slack, text or phone
+
+Abilities Expectations: Technical strengths and areas for desired improvement:
+●	Both more comfortable with HTML and CSS and are both looking to improve on JS and jQuery
+
+Workload Expectations: What features do we each want to work on?
+●	Complete most of project together, any “tighten-up” or “last-minute” fixes can be done remotely.
+
+Workflow Expectations: Git workflow/Tools/Code Review/Reviewing Pull Requests: 
+●	Ping-pong through github
+
+Expectations for giving and receiving feedback:
+●	Straight-forward and to the point
+
+### Peer Feedback
+
+#### Jack Bevis
+Positive feedback -
+Great person to pair with and bounce ideas off of. We didn't pair directly on any of the projects this mod, but you were always a great person to reach out to when stuck on a problem. Whether just talking about my own ideas or checking out what you had come up with, it was super helpful and crucial to the learning process. Big help on mythical creatures too. 
+Areas for improvement -
+Didn't bring me breakfast once. 
+But in all honesty I can't speak to any specific area of improvement.  Keep it up.
+
+#### Zane Russell
+Positive feedback -
+Been a good dude with a contagiously positive attitude. You've contributed hugely to an environment that encourages open communication and a sense of being a team rather than a bunch of individuals in the same room.
+Areas for improvement -
+More guitar
+
+#### Karen Kepner
+Positive feedback -
+Adam was a great pairing partner for our in-class exercises.  We worked together to figure out the programming challenges during the lessons and were usually able to solve the problem.
+Areas for improvement -
+Make sure you drink lots of water, good hydration makes us smarter. (I didn't notice any areas for improvement...)
+
+#### Charlie Dunn
+Positive feedback -
+Adam is sharp and picks up on things quickly. It was a pleasure pairing with him and watching him progress over the course of the module. He's clearly hungry to learn and dedicated to his craft.
+Areas for improvement -
+Keep striving to be vocal while you write code and talk through each step in the problem. 
+
+#### Devon Bull
+Positive feedback -
+You have a chill personality and are always a pleasure to work with. 
+Areas for improvement -
+You might work on dialing up the intensity when coding. From what I've seen you're crushing it, and just need to trust your instincts more. 
+
+#### Chris Jordan
+Positive feedback -
+Apparently from the work I have seen, you got you shtuff together. Soo keep doing whatever it is you are doing
+Areas for improvement -
+Honestly couldn't say. Haven't worked with you yet or seen anything I could possibly say you ought to improve on
+
+## E Community
+Turing provided sessions to help strengthen my professional side and this was the one gear up session that had the greatest impact on me.
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
+[Session Overview](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-*   [GitHub URL]()
-
-(takeaways from session)
-
-### PROtocol
-#### (Session Name)
-
-*   [Link to Completed Deliverables]()
-
-### Professional Development Workshops
-#### (Session Name)
-
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
-
-(takeaways from session)
-
-## E: Feedback and Community Participation
-
-### Giving Feedback
-
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
-
-### Playing a Part
-
-(ways you supported the larger Turing community)
-
-------------------
+The idea of growth mindset was a very new to me, although I was raised in a family that valued that ideology I didn't know it was named as such. The TEDTalk video was very interesting and it made a lot of sense to me.  I think this ideology was part of the problem I had encountered at previous jobs, or lack there of this ideology. The application of growth mindset at Turing is extremely beneficial because it's such a huge on-taking to learning something like web development in a few months with many ups and downs. Practicing a growth mindset can be very difficult, but has helped in many of my approach to difficult challenges and learning curves. I try to remind myself to view each experience as a learning opportunity rather than let frustration takeover or turn it into a competition.
 
 ## Final Review
 
