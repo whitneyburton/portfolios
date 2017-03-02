@@ -241,7 +241,9 @@ Mike is easily one of the most driven individuals in our cohort.  His focus and 
 
 **From Buss on Rotten Tomatoes**
 
-Feedback
+Was so excited to see I was paired with you yet again Limbo. Working with you is not only a breeze due to your in-depth understanding of the material, but just b/c you're an overall great guy to be around. I know I definitely grilled you a bit on your moments of negativity the first time around, and that was basically gone. There were a couple instances where it popped up, but was nothing that even came close to causing an issue. Sometimes your backend devs write some shit that's broken lol :)
+
+It's been remarkable watching you progress through this program. If I had to pick a person who I saw make the most progress since day one, it would undoubtedly be you. Your dedication to your work here at Turing is pretty baffling at times. I thought I had strong work ethic, but you make me look like a chump. Look forward to many more long hours at the keyboard followed up by cold beers in the future my man, always a pleasure!
 
 ### Community Member Feedback
 
