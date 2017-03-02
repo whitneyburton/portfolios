@@ -4,16 +4,6 @@
 
 (What did you set out to accomplish this module?)
 
-## Rubric Scores
-
-*   **A: End-of-Module Assessment**: Pass/Fail/Pending
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
-
------------------------
-
 ## Self Assessment
 
 *   **A: End-of-Module Assessment**: 4
@@ -252,10 +242,18 @@ up version of LookingFor than we had a week ago.
 
 ## Final Review
 
-### Notes
+## Rubric Scores
 
-( Leave blanks for reviewers )
+*   **A: End-of-Module Assessment**: 4
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
+
+### Notes (From Nate)
+
+- This portfolio seems a little thrown together. Not sure what to say about it. Nice assessment.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
