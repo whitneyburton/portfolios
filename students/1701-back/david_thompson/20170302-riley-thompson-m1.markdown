@@ -5,8 +5,6 @@
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
 | Section | Category | Score |
 | ---- | ----- | ---- |
 | A | **End-of-Module Assessment** | 3 |
@@ -75,10 +73,14 @@ Would like to see some edge case testing.
 
 ### Pair Feedback
 
-*   Project 1 (Jonathan Kidd): Had a great time working on this project with you. It seems like you have a knack for diving into complex problems, and somehow holding it all in your head at once. You were committed to the outcome while being good natured and easy to work with. I think we had a good flow when things were happening. In retrospect we may have stayed mired in problems for too long (1 + hour) before asking for help. I think asking for help or pairing sooner could have left us more time to polish in the end. I also think more time pseudo coding in a deeper way may have helped, rather than diving right into to problems. We did a good job planning big-picture solutions, but not much time mapping exactly how we would get there.
+*   Project 1 (Jonathan Kidd)
+
+Had a great time working on this project with you. It seems like you have a knack for diving into complex problems, and somehow holding it all in your head at once. You were committed to the outcome while being good natured and easy to work with. I think we had a good flow when things were happening. In retrospect we may have stayed mired in problems for too long (1 + hour) before asking for help. I think asking for help or pairing sooner could have left us more time to polish in the end. I also think more time pseudo coding in a deeper way may have helped, rather than diving right into to problems. We did a good job planning big-picture solutions, but not much time mapping exactly how we would get there.
 
 
-*   Project 2 (Maria Stenquist): Working with Riley on the Black Thursday project was a lot of fun. Riley was very calm and patient, and super helpful in explaining concepts. He also kept the mood light and we had some good laughs about the code. Riley brought several strengths to the project: he was really good at understanding the interaction of the objects involved, levels of abstraction, as well as being competent and comfortable using various enumerables. Riley was really conscious of taking breaks and making sure both of us managed stress well, as well as daily check-ins to see how we could better navigate workflow and divisions of labor. I appreciated Riley being patient and helpful with me when I caught a cold, and given the fact that we both were ill for parts of the project I think we did well in supporting the other partner. Using Github was easy working with Riley and we had a good Github workflow throughout the project. Also, we were on the same page as far as TDD. Our pair-dynamics with our driver-navigator setup, as well as ping-pong, worked well,  and agreeing to divide up specific tasks provided exposure to all aspects of the project for each of us. Furthermore, I think we worked well together to debug errors that arose. I really enjoyed working with Riley on Black Thursday!
+*   Project 2 (Maria Stenquist)
+
+ Working with Riley on the Black Thursday project was a lot of fun. Riley was very calm and patient, and super helpful in explaining concepts. He also kept the mood light and we had some good laughs about the code. Riley brought several strengths to the project: he was really good at understanding the interaction of the objects involved, levels of abstraction, as well as being competent and comfortable using various enumerables. Riley was really conscious of taking breaks and making sure both of us managed stress well, as well as daily check-ins to see how we could better navigate workflow and divisions of labor. I appreciated Riley being patient and helpful with me when I caught a cold, and given the fact that we both were ill for parts of the project I think we did well in supporting the other partner. Using Github was easy working with Riley and we had a good Github workflow throughout the project. Also, we were on the same page as far as TDD. Our pair-dynamics with our driver-navigator setup, as well as ping-pong, worked well,  and agreeing to divide up specific tasks provided exposure to all aspects of the project for each of us. Furthermore, I think we worked well together to debug errors that arose. I really enjoyed working with Riley on Black Thursday!
 
 ### Job Prep
 
@@ -92,22 +94,28 @@ Would like to see some edge case testing.
 ### Gear Up
 
 #### Session 1: Growth Mindset
+
 Focus more on praise related to my effort put into work rather, than praise related to some perceived innate gift. Make sure to share your struggles with peers so they don't feel alone, and can relate to someone else.
 
 #### Session 2: Getting Better at Difficult Things
+
 When trying to master a sub-skill keep it to a maximum of three sessions of 40-45 minutes if you can't master the sub-skill in that time then it is too complex.
 Allow yourself to struggle for a while during a complex problem before asking for help, this builds your understanding of the topic. Need to try to implement the process of breaking complex skills into sub-skills because I have never taken that approach before.
 
 #### Session 3: Stress Management
+
 I was able to take the following suggestions from my peers, and I will attempt to implement them in my day-to-day life in order to reduce stress: Meditation, Getting enough sleep, Improving my diet(big one), staying hydrated, attempt to exercise more (endorphins are good).
 
 #### Session 4: Personal Stories and Connections
+
 Not present for session.
 
 #### Session 5: Debugging the Gender Gap
+
 Not present for session.
 
 ### Community Participation
+
 Maintained the collaborative spirit of the Turing community by interacting regularly
 with my peers in regards to programming questions, and/or general social interaction.
 
