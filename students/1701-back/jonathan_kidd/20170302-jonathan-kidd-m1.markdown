@@ -80,7 +80,7 @@ I made great strides toward meeting these goals over the course of the module. I
 
 ### Pair Feedback
 
-*   Project 1 (Riley Thompson):
+*   Night Writer (Riley Thompson):
 
 **From Riley:**
 >You were very organized, and possessed a strong attention to detail. Took the initiative to schedule many different pairing sessions which were integral to the success of our project. You were fun to work with,  kept a serious, but also playful attitude even during frustrating stints, while remaining punctual and respecting my time.
@@ -89,7 +89,7 @@ I made great strides toward meeting these goals over the course of the module. I
 **To Riley:**
 >Had a great time working on this project with you. It seems like you have a knack for diving into complex problems, and somehow holding it all in your head at once. You were committed to the outcome while being good natured and easy to work with. I think we had a good flow when things were happening. In retrospect we may have stayed mired in problems for too long (1 + hour) before asking for help. I think asking for help or pairing sooner could have left us more time to polish in the end. I also think more time pseudo coding in a deeper way may have helped, rather than diving right into to problems. We did a good job planning big-picture solutions, but not much time mapping exactly how we would get there.
 
-*   Project 2 (Diana Whalen):
+*   Black Thursday (Diana Whalen):
 
 **From Diana:**
 >Jonathan - Pairing with you on this project has been a learning experience for me. I am very grateful for the meticulous approach you brought to the table, and especially you being proactive in securing resources for us at each step of the project, from pairings, to study rooms, etc… And continually running our tests throughout. This has been so helpful in not staying stuck on any roadblock too long and keeping us on schedule. Remembering to ask for assistance regularly is something I intend to emulate for future projects, paired or otherwise. In spite of our issues early on, I think we ended up making quick progress once we found our rhythm, especially when we took turns driving/navigating. More clarity as to intention on what you would like to try out or work on, as it changes from what we previously discussed would be helpful to stay on the same page and avoid miscommunication. Thank you for all your hard work on this project!
