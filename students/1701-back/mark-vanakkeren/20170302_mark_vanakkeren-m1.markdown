@@ -13,10 +13,8 @@ I arrived here looking at gaining a skill to then leverage along with my other s
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | 3.5 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3.5 |
@@ -31,7 +29,7 @@ While going thru the pentathlon I'm feeling very confident about where I sit on 
 ## A: End of Module Assessment
 
 | Category | Score |
-| ----- | - |
+| ----- | --- |
 | **Written Diagnostic** | PASS - 3 |
 | **Timed Exercise** | PASS - 3 |
 | **Ruby Syntax & API** | 3 |
@@ -50,7 +48,7 @@ While going thru the pentathlon I'm feeling very confident about where I sit on 
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Date Night | HTTP - You know me |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://http://backend.turing.io/module1/projects/credit_check) | [link](http://http://backend.turing.io/module1/projects/date_night) | [link](http://http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/markyv18/credit_check/blob/master/credit_check.rb) | [link](https://github.com/markyv18/date_night) | [link](https://github.com/markyv18/HTTP) |
 | **Functional Expectations** | 3 | 2.5 | 1 |
@@ -91,11 +89,12 @@ MVA Note: Awful time with this one. Really struggled with the concept and in set
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/markyv18/night_writer) | [link](https://github.com/markyv18/black_thursday) |
-| **Functional Expectations** | 4 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 4 | X |
-| **Loop or Recursion** | n/a | n/a |
+| **Functional Expectations** | 4 | 4 |
+| **Test-Driven Development** | 3 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 4 | 3 |
+| **Code Sanitation** | n/a | 4 |
+| **Enumerable & Collections** | n/a | 3 |
 
 
 #### Notes
@@ -133,15 +132,18 @@ To Jack:
 
 Really enjoyed working on this project with you.  While we started slowly given our weekend activities, once back at school we got after it in a very methodical way.  I'm astounded by your knack for ORMs and the mental mapping to follow every object so easily.  I get it with time but takes some processing you seem to get it instantly.  No real work flow issues and I believe it would require working on a harder project to tease out any differences in work style/collaboration. As long as the work is well within our current aptitudes there isn't a whole lot of flailing.  I appreciated the breaking up of ownership of code when the spec allowed for it and driver/navigation switching.         
 
-From Jack:
+From Jack:  Stop and read the error message closely. It is really tempting to jump ahead and fix what you think might be the problem, but often this is not the problem.
+Time manangement: We are both guilty on this front. It would have been a lot less stressful if we had managed our time a little better. It worked out in the end, but I think my takeaway for this is that its better to frontload the work.
+Working in a team. We were able to really effectively divide and conquer on this project. It was really nice working with you, since you always stayed positive, got the work done, and knew what it was that needed doing.
+Shortcuts. I can't believe how well you can navigate around any computer. I really need to practice after seeing how you work on your, and my computer. 
 
-You...
+
 
 
 ### Job Prep
 
-*   Resume : [link](https://resume.creddle.io/resume/2f01ty50fdc)
-*   LinkedIn profile: [Link](https://www.linkedin.com/in/mark-van-akkeren)
+*   Resume : [resume.creddle.io/resume/](https://resume.creddle.io/resume/2f01ty50fdc)
+*   LinkedIn profile: [linkedin.com/in/mark-van-akkeren](https://www.linkedin.com/in/mark-van-akkeren)
 
 
 
