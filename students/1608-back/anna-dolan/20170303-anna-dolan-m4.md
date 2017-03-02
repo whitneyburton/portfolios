@@ -278,10 +278,13 @@ This module, I tried to take as much time as I could to participate in the Turin
 
 ## Final Review
 
+
+
 ### Notes
 
-( Leave blanks for reviewers )
+This is a strong portfolio. I really liked what you chose to do for your OSS contribution, and the dialogue in your PR is pretty fantastic. Surprisingly, or perhaps not surprisingly, working on PRs like this one of the ways that you can network yourself into a job. You've done good work this module, and during your entire time at Turing. Remember that you are better at this than you think you are.
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
