@@ -6,17 +6,15 @@ The hype concerning the difficulty of Mod 3 had me a bit worried, but I found th
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3.5
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
-
-
 
 #### Notes from Casey:
 * No need to have flash messages in your API controller; we just want to return JSON
@@ -65,7 +63,11 @@ This project was designed for us to consume an external API's OAuth procedures a
 * [Backend GitHub URL](https://github.com/akintner/free_college_app)
 * [Frontend GitHub URL](https://github.com/noahpeden/free-college-abroad)
 
-For our final project, I worked with Noah Peden on making an app that will display information about countries around the world that offer some kind of undergraduate degree for free (or at least relatively free compared to the costs of such education in the US). This project was inspired by the fact that there are more than a dozen countries around the world that offer free tuition for undergraduate degrees, and a great many classes at these colleges are  taught in English. This site was built in React Redux with a backend set up in Rails 5 and Postgresql. Based on user input, the site grabs university options in a particular country and lists some basic information, along with a link to the university.
+For our final project, I worked with Noah Peden on making an app that will display information about countries around the world that offer some kind of undergraduate degree for free (or at least relatively free compared to the costs of such education in the US). This project was inspired by the fact that there are more than a dozen countries around the world that offer free tuition for undergraduate degrees, and a great many classes at these colleges are  taught in English. This site was built in React Redux with a backend set up in Rails 5 and Postgresql. Based on user input, the site grabs university options in a particular country and lists some basic information, along with a link to the university.  
+<br>
+The work for this was split unevenly, but for obvious reasons: I had to get the API up and running in production before Noah could access it and pull data from the endpoints and bring them into the actual UI on the React app. This meant that I worked tedious, long hours for the first 6 days while Noah did minor setup, and then Noah worked tedious, long hours for the next 5 days while I did minor database upkeep. We didn't get to work together that much, but did pair a few times over the last two days for some styling decisions and testing of the React half of the app, which was useful for me (and I suppose helpful for him to have another pair of eyes on things for a change).   
+<br>
+The only thing I wish we'd found a better way around - and a source of major frustration for me this week - was the scraping or gathering of university data. There was just no way to do this well, easily, or without a huge amount of data entry for me: we never found an API I could access for university data that would be useful for the project, and though I did build a functional web-scraper (which was fun), I would have to build at least 20 separate ones to gather the right data from each country, and then only if I could find a website that had conglomerate data about universities for each country. Data gathering was our biggest mess and is still unsolved. The data we have up in production right now was carefully curated for a seed file to make it look as realistic as possible, but it remains dummy data.
 
 ## C: Group Work & Projects
 
@@ -194,7 +196,9 @@ Laszlo: It was a pleasure to finally get to work with Laszlo on an official proj
 
 From Molly: In working on our Cloney Island project, Amy proved to be the perfect partner for hacking through difficult issues. We spent many hours together working on setting up the Google authorization and authentication system for our site, which could have been a very frustrating process were it not for Amy’s levelheadedness, flexibility, and persistence. She also continued to be the point person for our Google Oauth issues as they continued to pop-up, and she totally impressed me with her endurance attacking the issues day after day. Finally, I very much appreciated Amy’s humor and ability to compel us towards some much needed breaks and fun after we had all been deep in the weeds for too long. She was a key contributor in making Girl Group awesome, and I’m so happy that I was able to share the experience with her and all the others in our group.
 
-From Lucy: It has been wonderful to work with you again. You combine your drive and experience to everything you do, and it really comes through in your work. Once again I am so inspired by your no-fear attitude, and it definitely contributed to the ambitious scope of our project. Your brunch stories were a highlight of our weekend coding retreat and helped make that time both productive and restorative.
+From Lucy: It has been wonderful to work with you again. You combine your drive and experience to everything you do, and it really comes through in your work. Once again I am so inspired by your no-fear attitude, and it definitely contributed to the ambitious scope of our project. Your brunch stories were a highlight of our weekend coding retreat and helped make that time both productive and restorative.  
+
+From Annie: Amy is a trooper. I worked with her on our Cloney Island project and she had the unenviable task of making GoogleOAuth work for our extremely convoluted login path. Even though it seemed to break every day, she always took the time to fix it and learn something new in the process. She's also a true pleasure to work with and be around. She wrote me the most amazing sonnet about email for my Shakespeare branded project management tool that I proudly display on the home page of my app.
 
 ### Playing a Part
 
