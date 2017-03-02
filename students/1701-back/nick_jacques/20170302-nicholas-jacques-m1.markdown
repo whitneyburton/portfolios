@@ -110,6 +110,7 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 >#### Feedback for Sergey:
 >
 >Overall I’m pretty happy with how this project turned out.  I wish we had a couple more days to polish it but I think that will be the case with every project.  I was really impressed with your stamina and attitude during the project.  You were always willing to stay late and work as hard as we needed to.  I think you did really good at organizing work time and setting up pairing sessions.  I didn’t take advantage of pairing with mentors in the past and I’m glad you showed me how helpful is can be.  I also really admired your desire to have a deeper understanding of the way things worked within our code.  The questions you asked were consistently driving development and helped us gain a better understanding of the project.
+
 ### Job Prep
 
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/nicholas-jacques-5b830082/)
