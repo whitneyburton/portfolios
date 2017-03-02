@@ -9,7 +9,7 @@
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | ----- | --- |
 | A | **End-of-Module Assessment** | X |
 | B | **Individual Projects** | X |
 | C | **Group Projects** | X |
