@@ -12,7 +12,7 @@ This module I wanted to: become proficient at Ruby (writing succinct & conventio
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 4 |
 | D | **Professional Development** | 4 |
-| E | **Community** | 3 |
+| E | **Community** | 4 |
 
 #### Notes
 
