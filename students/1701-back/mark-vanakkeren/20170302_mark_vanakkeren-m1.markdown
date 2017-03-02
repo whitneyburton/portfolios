@@ -3,11 +3,13 @@
 
 ## Areas of Emphasis
 
-Okie dokie... on to round two.  Writing this at the end of week two.  Different approach this time.  
+Okie dokie... on to round two.  Writing this at the end of week two.  Different approach this go around.  That pie chart of time... instead of 90/10 it was 50/40/10 with 50% being panic.  This time it's 90/10 and doing good work.  I have the bandwidth to do the drills and exercises and don't get overly sucked in on the projects and HWs.  The independent learning has gone well and it's given me the tools to attack the problems that raise their heads in the projects.  I feel capable this time of taking on the challenges the school delivers.  The positivity is cyclical, though I keep wondering when i'll turn a corner and be overwhelmed again and fight to prepare for it and push back the stupidity demons.
 
-I arrived here looking at gaining a skill to then leverage along with my other skills I've acquired in my various and multifaceted careers.  That someone with such a diverse career background with also a developer skill set would be a valuable asset in the work force.  I had attended the July Try Turing class which was the convincing factor for attending (and friends saying "you'd be good at this" <-- i feel like i'm doubting them now ;), but i was "scared" of javascript and signed up for a night class at Galvanize.  It helped with warming me up a bit to coding and getting more comfortable with JS. The thing I've been repeating since day one has been "just get the skillset, just get the skillset" <-- in "just keep swimming" Dory voice.
+Beginning of week 4 here.  Still so far so good, though this HTTP project has me flailing a bit but flailing with more tools.  Feel very well prepared for the mid mod today as well having run thru the demos related to it twice, just need to remember to talk and discuss with instructor what I'm doing and any help i can get.     
 
-Work immediately below is Mod_1-1701.  For Mod_1-1611 scroll down to **"Rubric Scores - Mod_1-1611"**
+I arrived here looking at gaining a skill to then leverage along with my other skills I've acquired in my various and multifaceted careers.  That someone with such a diverse career background with also a developer skill set would be a valuable asset in the work force -- the premise I'm rolling with!  I had attended the July Try Turing class which was the convincing factor for attending (and friends saying "you'd be good at this" <-- i feel like i'm doubting them now ;), but i was "scared" of javascript and signed up for a night class at Galvanize.  It helped with warming me up a bit to coding and getting more comfortable with JS. The thing I've been repeating since day one has been "just get the skillset, just get the skillset" <-- in "just keep swimming" Dory voice.
+
+**Work immediately below is Mod_1-1701.  For Mod_1-1611 scroll down to "Rubric Scores - Mod_1-1611"**
 
 ## Self-Assessment Scores
 
@@ -15,18 +17,14 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | - | ----- | - |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Community** | X |
+| A | **End-of-Module Assessment** | 3.5 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3.5 |
+| D | **Professional Development** | 4 |
+| E | **Community** | 3.5 |
 
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+MVA Note:
+While going thru the pentathlon I'm feeling very confident about where I sit on a whole swath of Mod1 topics.  Some areas I want/need to get better on is being able to fluidly build massive ORMs and subsequent databases and to also more fluidly know which methods that best handle the problem I'm trying to solve.
 
 ------------------------------------------------
 
@@ -34,79 +32,116 @@ This section does not need to be populated (and template text should therefore b
 
 | Category | Score |
 | ----- | - |
-| **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS/FAIL |
-| **Ruby Syntax & API** | X |
-| **Completion and Progress** | X |
-| **Testing** | X |
-| **Workflow** | X |
-| **Collaboration** | X |
-| **Enumerable & Collections** | X |
+| **Written Diagnostic** | PASS - 3 |
+| **Timed Exercise** | PASS - 3 |
+| **Ruby Syntax & API** | 3 |
+| **Completion and Progress** | 3 |
+| **Testing** | 4 |
+| **Workflow** | 3 |
+| **Collaboration** | 4 |
+| **Enumerable & Collections** | 3 |
 
 #### Assessor Comments
 
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+* Note 1
+* Note 2
 
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Date Night | Http - You know me |
+| CATEGORY | Credit Check | Date Night | HTTP - You know me |
 | - | - | - | - |
 | **Project Spec** | [link](http://http://backend.turing.io/module1/projects/credit_check) | [link](http://http://backend.turing.io/module1/projects/date_night) | [link](http://http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
-| **Github** | [link](https://github.com/markyv18/credit_check/blob/master/credit_check.rb) | [link](https://github.com/markyv18/date_night) | [link](http://example.com) |
-| **Functional Expectations** | 3 | 2.5 | X |
-| **Test-Driven Development** | n/a | 4 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | 2 | X |
-| **Fundamental Ruby & Style** | 2 | 3 | X |
-| **Loop or Recursion** | n/a | n/a | X |
+| **Github** | [link](https://github.com/markyv18/credit_check/blob/master/credit_check.rb) | [link](https://github.com/markyv18/date_night) | [link](https://github.com/markyv18/HTTP) |
+| **Functional Expectations** | 3 | 2.5 | 1 |
+| **Test-Driven Development** | n/a | 4 | 1 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 | 3 |
+| **Fundamental Ruby & Style** | 2 | 3 | 3 |
+| **Loop or Recursion** | n/a | n/a | n/a |
+
 
 #### Notes
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+Credit Check:
+More methods
 
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+MVA Note: spent 15min building this one not knowing it was the graded assement and instead poured my time into getting the merge sort (of the sorting suite assignement) to work.
+
+Date Night:
+Good variable and method naming.
+Very expressive and clear code.
+Really good testing at unit and integration level.
+Some opportunities to take risks with the syntax (i.e. making more concise code)
+
+MVA Note: Really got to shine on this one. First time I felt like I had the tools I needed to get after a project and was totally equipped to solve the problems presented. Also, had new epiphanies with regard to building out test suites.
+
+HTTP:
+Hello counts by two.
+Word Search does not work.
+look out for using instance variables when you dont need to
+think about how methods can pass each other methods rather than how they can all change the value of an instance variable.
+
+MVA Note: Awful time with this one. Really struggled with the concept and in setting up postman and faraday.  Consulted with 4 different folks about the flow of it as well as attempting to grasp the concept.  Never really got it down.  If anything, getting stuff to run was a testament to knowing the how but not the why.  It annoys the hell out of me but I was able to produce _something_ even if it was poor.  I was determined to NOT let this break my stride and spirit about how things had been going.  Proof of that has been my success and confidence on the last project and the various evals and diagnostics since HTTP.    
+
 
 
 ## C: Group Projects
 
-| CATEGORY | PROJECT 1 | PROJECT 2 |
-| - | - | - | - |
-| **Project Spec** | [link](http://example.com) | [link](http://example.com) |
-| **Github** | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | X | X |
-| **Test-Driven Development** | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X |
-| **Fundamental Ruby & Style** | X | X |
-| **Loop or Recursion** | X | X |
-| **Teamwork** | X | X |
+| CATEGORY | Night Writer | Black Thursday |
+| --- | --- | --- | --- |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
+| **Github** | [link](https://github.com/markyv18/night_writer) | [link](https://github.com/markyv18/black_thursday) |
+| **Functional Expectations** | 4 | X |
+| **Test-Driven Development** | 3 | X |
+| **Encapsulation/Breaking Logic into Components** | 3 | X |
+| **Fundamental Ruby & Style** | 4 | X |
+| **Loop or Recursion** | n/a | n/a |
+
 
 #### Notes
+Night Writer: Very clean, refactored project
+Would like to see file io split into separate class and runners separated from classes
+Incorporated numbers, full functionality plus 1 extension
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
+MVA Note: Split the project in half. Danny allowed me to work thru and finish my test suite and code base and that all requirements would work before helping me with refactoring into a much more concise block of work.  While I don't believe i would have rocked straight 4s on my own, 3s (3+s?) were totally there and in working with Danny got to see how, in the future, I can further break down my methods into singular logic chunks.
 
 ## D: Professional Development
 
 ### Define-the-Relationship (DTR)
 
-[Link](http://example.com) to DTR Memo from 1 paired project.
+[Link](https://gist.github.com/markyv18/efc317f2c21e95209d00bdc5d0e52ff5) to DTR Memo from paired project with Danny Radden.
 
 ### Pair Feedback
 
 Feedback from partner projects.
 
-*   Project 1 (First Last): lorem ipsum
-*   Project 2 (First Last): lorem ipsum
+*   Project 1 - Night Writer - (Danny Radden):
+
+To Danny:
+
+This went pretty smooth.  It would be interesting to work together again on a harder project, maybe at that point some difficulties or struggles might get sussed out but when the work is well within our current aptitudes there isn't a whole lot of flailing.  I was massively impressed with your familiarity in calling concise methods point by point when modifying data.  I'll take a lot away from that.  When you wanted to refactor my code you took the time to walk me thru it and help me with a better understanding of the process.  There ain't no shit here... because we finished so quickly, and refactored quickly you then were taking the time to help others out.  Only positive vibes.        
+
+From Danny:
+
+You were a great partner to work with. I loved the overall flexibility and enthusiasm with working on the project. You had a good grasp on what we had to do and what the assessors were expecting from us. I think we both should have done a better job with TDD. We should have done more TDD from the beginning. Also, you made David Hasselhoff too skinny. You need to work on you ASCII conversion skills. Overall our communication was great between us and i liked your willingness to improve as well.
+
+
+
+*   Project 2 - Black Thursday - (Jack Pincus):
+
+To Jack:
+
+Really enjoyed working on this project with you.  While we started slowly given our weekend activities, once back at school we got after it in a very methodical way.  I'm astounded by your knack for ORMs and the mental mapping to follow every object so easily.  I get it with time but takes some processing you seem to get it instantly.  No real work flow issues and I believe it would require working on a harder project to tease out any differences in work style/collaboration. As long as the work is well within our current aptitudes there isn't a whole lot of flailing.  I appreciated the breaking up of ownership of code when the spec allowed for it and driver/navigation switching.         
+
+From Jack:
+
+You...
+
 
 ### Job Prep
 
-*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](http://example.com)
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](http://example.com)
+*   Resume : [link](https://resume.creddle.io/resume/2f01ty50fdc)
+*   LinkedIn profile: [Link](https://www.linkedin.com/in/mark-van-akkeren)
 
 
 
@@ -114,20 +149,35 @@ Feedback from partner projects.
 
 ### Gear Up
 
-#### Session 1
-(insert reflection summary here)
+#### Session 1 - Growth Mindset
+Listening to Sonia talk was the most resonate for me.  Someone coming from an established background that wants to try something new.  Easy in concept but harder in practice to teach an old dog new tricks.  Over the course of the mod I have realized that while I have a feeling that I have not failed anything it is because when I realize i'm not good at something I bow out rather quickly so as to never face real struggle.  With my commitment to this school i'm facing failure and true perseverance for the first time in a long time.  Casey put it well in one group meeting that there are two aspects to this, grit is the act of pushing forward whereas growth is the acceptance of the struggle that is the process.  Slowly am i accepting this erosion of my ego, but it's a rough ride.
 
-#### Session 2
-(insert reflection summary here)
+Coming around this second time the comparisons are apples to oranges.  I'm not sure it's really fair to try and rationalize it.  I'm still not sure I follow a growth mindset but more of a brute force grit mindset. The one time I faced adversity (HTTP) this mod I really fought the process. I was resigned to it (which perhaps is growth), but was still irritated about not "getting the thing". This remains a work in progress.  
 
-#### Session 3
-(insert reflection summary here)
 
-#### Session 4
-(insert reflection summary here)
+#### Session 2 - How to deal with difficult things better
+
+Divided on this one.  I'm so rooted in doing something well and the consequences of judging myself when it's not done well.  Ties in with my difficulty with growth mindset vs brute force vs grit.
+
+#### Session 3 - Stress
+Far easier this pass than last, does that mean i've got the tools to work on problems?  Still guarded about what comes around the next corner.  Still need to develop better coping strategies.  Shit is HARD.  I dont like not knowing.  If I at least have something to go off of i'm okay but just treading water and lost... that's a battle that still being fought.
+
+#### Session 4 - Self Reflection
+Bullet points from discussion notes
+* MPAED - making people awesome every day (what I did/do with coaching, what i'll do with coding from an interpersonal point of view)
+* If you're an ass hole i'll let you know that you're an ass hole
+* stand up for those that can't
+* core value = fairness (an arbitrator or devil's advocate)
+* objectivity - plays into fairness and arbitration by allowing me to see clearly both sides of the fence
+* able to describe/convey succinctly and richly why each side might have a point and how to resolve
+* lens on the world - critical thinking (if it's illogical/BS/unfair/unhelpful i'll point it out AND explain why it's unfair,etc)
+
+
+#### Session 5 - Breaking the Gender Barrier
+Great 80 minutes of blood pressure raising annoyance. I'm dumbfounded-astounded that such bigoted beliefs and norms can be so prominent in tech today (hell, anywhere). Texting with Sonia this morning the exclamation "Really? It's 2017!" came to mind on far too many topics that tie in to this. Making under represented folks feel welcome is important to me and should I come across oppressors of their rise when once out in the work force there will be some punching (possibly literal ones if needed) of said bigots. An UBER dev environment is unconscionable.
 
 ### Community Participation
-(insert description of how you've contributed to the Turing community)
+Whereas in the last mod I worked to help others' emotional states this time, with the larger tool kit, I've gone about trying to help others with setting up their computers to jive with the work being done here, to set up work flow processes, to tutor and help others with drills, exercises and creatures.  Help classmates get comfortable with the work that we are doing both subjectively (mental approach to it) and objectively.
 
 -------------------------------------------------------------
 
@@ -140,6 +190,9 @@ Feedback from partner projects.
 
 (PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
 -----------------------------------------------------------
+==============================================================================================================
+===============================================================================================================
+
 
 ## Rubric Scores - Mod_1-1611
 
