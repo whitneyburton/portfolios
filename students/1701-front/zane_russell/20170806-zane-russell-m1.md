@@ -222,7 +222,7 @@ Maybe your knowledge of technical terms?  It's still not bad but you mentioned y
 ####Any comments or brutally honest truths I should know?
 Sometimes it seems things come a bit faster to you and you think they are easy.  They don't necessarily come easy for everyone else though, and when you say "oh that's easy" it sometimes makes me feel like I'm behind because it isn't easy for me.  However, overall it's been great working with you this mod.
 
-####Leta
+###Leta
 ####If we were partners on a project, how did you feel about the experience? Any highlights or criticism?
 I felt POSITIVELY about the experience! Working on 2DoBox with you was great. I felt like I learned a lot about Javascript, and it was fun to solve problems together.
 ####How have our interactions affected your experience in class, if at all?
