@@ -61,6 +61,8 @@ My Comments:
 | **Test-Driven Development** | 2.5 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 3| 4 |
 | **Fundamental Ruby & Style** | 3 | 3 |
+| **Code Sanitation** | na | 4 |
+| **Enumerable & Collections | na | 3 |
 
 
 #### Notes
