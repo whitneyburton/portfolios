@@ -64,7 +64,8 @@ Notes on Credit Check from Ilana
 | **Test-Driven Development** | 3 | 4 |
 | **Encapsulation/Breaking Logic into Components** | 2.5 | 4 |
 | **Fundamental Ruby & Style** | 2.5 | 3 |
-| **Loop or Recursion** | NA | 4 |
+| **Enumerables & Collections** | NA | 4 |
+| **Code Sanitation** | NA | 4 |
 
 #### Assessor Comments
 
