@@ -18,18 +18,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## A: End of Module Assessment
  
-######Progression/Completion:
- * NA
- 
-######JavaScript Style
- * NA
- 
-######Workflow
- * NA
- 
-######Collaboration
- * NA
- 
+PASS
+
 ## B: Individual Work & Projects
  
 ### Walker Texas Rangerbox
@@ -192,9 +182,7 @@ Workflow
  ## Final Review
  
  ### Notes
- 
- ( Leave blanks for reviewers )
- 
+  
  ### Outcome
  
- ( Leave blanks for reviewers )
+PASS
