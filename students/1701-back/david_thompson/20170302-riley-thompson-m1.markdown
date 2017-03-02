@@ -128,4 +128,4 @@ with my peers in regards to programming questions, and/or general social interac
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED
