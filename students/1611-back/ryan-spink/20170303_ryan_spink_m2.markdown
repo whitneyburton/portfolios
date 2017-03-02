@@ -84,7 +84,11 @@ The project will be assessed with the following rubric:
 
   3: Good use of branches, pull requests, and a project-management tool.
 
-(feedback to me)
+- Feedback from Charlotte Moore:
+ - Ryan, working with you on Bike-Share was really fun. I observed that you have a keen eye for debugging and you pick up on new concepts very quickly. I learned a lot about how to communicate from pairing with you, and I think it really helped me grow as a coder. I know Ashley and I butted heads a bit during this project, and you always maintained a cool head when things got heated. I think this project could have benefited from you taking more of a leadership role, as I think you had a lot of good ideas. Ultimately I think we all figured out how to work together, and the initial communication issues stopped as we fell into a good workflow. I really enjoyed working with you, and I’m happy with how this project turned out. 
+ 
+- Feedback From Ashley Schauer:
+ - (Have not received)
 
 #### (Little Shop of Orders: Abandoned Camel Coffee Mercantile)
 
