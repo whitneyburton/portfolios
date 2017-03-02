@@ -66,9 +66,31 @@ In this project, you’ll write a flashcard program that is used through the com
 
 In order to build good habits, we’ve broken the project up into small classes to demonstrate objects that have a single responsibility. As you work through each iteration, use TDD to drive out the desired behavior.
 
-(evaluation comments)
+# Evaluation Rubric
+# Instructor: Nathaniel
+# Comments:
+## Rubric
 
-(evaluation scores)
+### 1. Fundamental Javascript & Style
+
+* 3: Application shows strong effort towards organization, content, and refactoring.
+
+### 2. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+### 3. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+
+### 4. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP.
+
+### 5. Functional Expectations
+
+* 3: Application fulfills expectations of iterations 1 - 5 with no bugs, crashes, or missing functionality.
+
 
 #### Complete-Me
 
@@ -158,7 +180,7 @@ Keeping accessibility in mind we will be grading you based on how accessible you
 * 3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
 
-(feedback to me)
+I really enjoyed my time working with Marissa. She is a tenacious problem solver with heaps of grit. She is a great communicator and is open to exploring novel approaches to problem solving. She is very chilled out and wonderful to collaborate with. I look forward to working with her in the future.
 
 #### (Weathrly)
 
@@ -200,7 +222,7 @@ In this project you will be getting your first real interactions with ReactJS, a
 4 - Zero complaints
 
 
-(feedback to me)
+Marissa is a pleasure to work with. She has a great sense of humor and keeps things light even when we hit road blocks and weren't making much progress. She is a very talented designer and it was a lot of fun working off her comps to create the UI for our app.
 
 ## :anguished: Professional Development
 (Intro)
