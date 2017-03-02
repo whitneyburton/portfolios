@@ -58,8 +58,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 #### Notes
 
 
-*   Note 1: TDD in project was unable to execute due to an input file that was misnamed when we cleaned up our test data before turning in. We used TDD throughout the project, and going back 1 commit or changing the input file path makes it functional again.
-*   Note 2 (if applicable)
+*   Note 1: TDD in Night Writer was unable to execute due to an input file that was misnamed when we cleaned up our test data before turning in. We used TDD throughout the project, and going back 1 commit or changing the input file path makes it functional again.
 
 
 ## D: Professional Development
@@ -101,7 +100,19 @@ Opportunities for Improvement
 Add Comment Collapse
 
 
-*   Project 2 (First Last): lorem ipsum
+*   Project 2 Mark VA: 
+
+### From Mark
++ Really enjoyed working on this project with you.  While we started slowly given our weekend activities, once back at school we got after it in a very methodical way.  I'm astounded by your knack for ORMs and the mental mapping to follow every object so easily.  I get it with time but takes some processing, you seem to get it instantly!  No real work flow issues and I believe that it would require working on a harder project to tease out any differences in work style/collaboration. As long as the work is well within our current aptitudes there isn't a whole lot of flailing.  I appreciated the breaking up of ownership of code when the spec allowed for it and driver/navigation switching.
+
+### To Mark
+
+#### Areas for improvement:
++ Stop and read the error message closely. It is really tempting to jump ahead and fix what you think might be the problem, but often this is not the problem.
++ Time manangement: We are both guilty on this front. It would have been a lot less stressful if we had managed our time a little better. It worked out in the end, but I think my takeaway for this is that its better to frontload the work.
+#### Already Mastered:
++ Working in a team. We were able to really effectively divide and conquer on this project. It was really nice working with you, since you always stayed positive, got the work done, and knew what it was that needed doing.
++ Shortcuts. I can't believe how well you can navigate around any computer. I really need to practice after seeing how you work on your, and my computer. 
 
 ### Job Prep
 
