@@ -314,12 +314,12 @@ Additional Notes:
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### (7 tips for succeeding led by Jeff Casamir)
 
 *   [Workshop URL]()
 
 
-(takeaways from session)
+(Get ahead of your learning. Have a plan for success. Talk to others that are doing what you want to do.)
 
 ## E: Feedback and Community Participation
 
@@ -370,7 +370,7 @@ Keep getting better everyday.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+(I attended various student led spikes and guest speaker spikes.  I tried to participate with lunch roulette. I was always the one initiating getting together but many didn't respond.)
 
 ------------------
 
