@@ -78,19 +78,19 @@ During Module 1, I had the expectations of learning the fundamental building blo
 
 ### Define-the-Relationship (DTR)
 
-* DTR Memo from Night-Writer: [Link](https://docs.google.com/document/d/1ZlBAmATYvSJQpk7PNDQ-0hVUBflzvz7lagtBtFcK3TM/edit#)
+[DTR Memo](https://docs.google.com/document/d/1ZlBAmATYvSJQpk7PNDQ-0hVUBflzvz7lagtBtFcK3TM/edit#) from Night-Writer.
 
 ### Pair Feedback
 
-Feedback from partner projects.
-
-* Project 1: Night-Writer (Chris Dale): [Link](https://gist.github.com/stovermc/f069f94b92d3124aa996d84aa1f6f55b)
+#### Project 1: Night-Writer (Chris Dale): 
+> Mark,
+It was a pleasure to work with you. I was happy from day 1 after we sat and talked through the DTR. I feel it was really constructive and put us on a good footing with each other right off the bat. I think we made a great team, I hope I was able to give you as much insight as you gave me. I have a difficult time sometimes with new things and the driver/navigator roles we filled helped me out a lot. I look forward to working with you in the future and am glad I can call you friend.
 
 * Project 2: Black Thursday (Andrew Mossfin): [Link](https://gist.github.com/stovermc/9e00c1cb0edcd5d9a6a9b1561fe18d92)
 
 ### Job Prep
 
-* Linked in profile: [Link](https://www.linkedin.com/in/markstover3?trk=hp-identity-photo)
+[LinkedIn profile](https://www.linkedin.com/in/markstover3?trk=hp-identity-photo)
 
 
 
