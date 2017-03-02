@@ -21,7 +21,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## A: End of Module Assessment
 
-Pending
+Passed
 
 
 ## B: Individual Work & Projects
