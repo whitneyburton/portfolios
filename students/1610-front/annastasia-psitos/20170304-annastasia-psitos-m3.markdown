@@ -168,7 +168,7 @@ This app will use the Google Places API to search for restaurants nearby, based 
 
 This app can be used by anyone who can occasionally be overcome by decision fatigue.
 
-###(Flower Exercise)[https://gist.github.com/apsitos/aa6269d0fbcbd3eab46af6ad4152f31d]
+###[Flower Exercise](https://gist.github.com/apsitos/aa6269d0fbcbd3eab46af6ad4152f31d)
 
 ### Gear Up
 #### (Session Name)
