@@ -58,7 +58,7 @@ Individual work in module 4 consisted of contibution to open source projects. Af
 I wrote a blog post about the experience [here](https://medium.com/@megantalbot/my-first-contribution-to-open-source-93c961b69ec1#.y0mm2egen).
 <br>Additionally, I submitted a PR for Growstuff, as seen [here](https://github.com/Growstuff/growstuff/pull/1258). This is a similar error to above but was in haml so was a bit more challenging.  But I wanted to contribute to another project in addition to the one above.
 <br>
-Separately, I wrote a documentation [patch](https://github.com/exercism/exercism.io/pull/3392) for Exercism, as it was an unclear link that was confusing during setup when I was exploring their issues. 
+Separately, I wrote a documentation [patch](https://github.com/exercism/exercism.io/pull/3392) for Exercism, as it was an unclear link that was confusing during setup when I was exploring their issues, and thought it would be helpful to clarify! 
 
 
 
