@@ -130,11 +130,12 @@ Professional Development:
 * Steps that I've learned for partaking in a cold outreach, biggest step is not to come straight with a "do you have a job" for me. It's more of  a establishing relationships method that could potentialy lead to future employment. Back in mod1 I implemented strategies that are frowned upon per the "Cold Outreach I" session. I came off strong and not knowing what exaclty to say during the meeting/email/phone call. Now I have a more knoweldgeable idea of what how to proceed. 
 
 #### Flower Exercise
-Transferable Skills
+* Transferable Skills
   * Following Databases
   * Being consistent with objectives and following a plan.
   * Setting up events.
-Favorite/Most Valued Knowledge
+
+* Favorite/Most Valued Knowledge
   * Perceive Patterns - Picking up patterns by paying attention to detail helps out in speeding up processes.
   * Prioritize - I prioritize by laying out what needs to be completed with what urgency.
   * Improve - Taking a step back and reflecting on my actions for that day/week/situation allows me to get a better perspective on what I need to improve on or what needs to improve.
@@ -145,24 +146,29 @@ Favorite/Most Valued Knowledge
   * Research - Reasearching my objectives before hand to get critical information on what route I should take.
   * Plan - I plan out my objective to have a clear and grounded picture of what I want to achieve.
   * Preserve - I am able to keep my original plan intact with only slight modifcations.
-Favorite working conditions
+
+* Favorite working conditions
   * Open space with a good view of the city or landscape
   * Lots of Natural Sunlight
   * Have it be in the city, I like the city vibe of walking around to/from home and during lunch.
-Favorite people to work with/serve
+  
+* Favorite people to work with/serve
   * Investigative - People who like to observe, learn, investigate, analyze, evaluate or solve problems.
   * Realistic - People who have atheltic or mechanical ability, prefer to work with objects, machines, tools, plants, or animals, or to be outdoors.
-Values/Goals/Mission in life
+
+* Values/Goals/Mission in life
   * Help my community/Give Back
   * Help improvished people/nations
-Preferred places to live
+
+* Preferred places to live
   * Denver
   * Portland
   * Seattle
   * Boise
   * San Antonio
   * Puebla, MX
-Preferred salary and level of responsibility
+
+* Preferred salary and level of responsibility
   * 65 75k - Be able to contribute to projects, be able to learn from other developers, to be able to expand my skillset in a comfortable environment.
   * 80k+ - Have a team of developers, still learn from them, have the final say on projects.
 
