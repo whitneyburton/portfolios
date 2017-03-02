@@ -1,9 +1,9 @@
 # Nicholas Jacques - M1 Portfolio
 
 ## Areas of Emphasis
-```
+
 Going into mod 2 I need to focus on continuing to use test driven development, especially when a project has unfamiliar elements.  I tended to use TDD and find it helpful when I had a strong grasp of the project but got away from it when new concepts were introduced that I didn't understand.
-```
+
 ## Self-Assessment Scores
 
 | Section | Category | Score |
@@ -76,8 +76,6 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 
 ### Pair Feedback
 
-Feedback from partner projects.
-```
 *   Project 1 (Jack Pincus): 
     
     3 strengths
@@ -93,7 +91,7 @@ Feedback from partner projects.
   + Learning to really use TDD would have been a great thing. Coming into this project, it felt like we both had a bad grasp of TDD, and at the end it felt like we had a basic grasp that really helped the second half of the project
   + Speak up more when your partner starts making things way too complicated
 *   Project 2 (First Last): lorem ipsum
-```
+
 ### Job Prep
 
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/nicholas-jacques-5b830082/)
@@ -103,14 +101,14 @@ Feedback from partner projects.
 ### Gear Up
 
 #### Session 1: Growth Mindset
-```
+
 I thought this session was really valiable in preparing us for the rollercoaster of emotions that we would be experiencing in the upcoming weeks.  Being immersed in something that I didn't understand was stressful and challenging but I was able to use some of the growth mindset techniques that we learned in this gear up to push through the low moments.  This gear up made me thing about some times in my life that I had succumbed to a 'fixed mindset' and how I had to overcome that fixed mindset to even consider applying for Turing school.  I think one of the biggest challenges to maintaining a growth mindset at Turing has been seeing other people get concepts seemingly faster and more easily than myself.  I have had to work really hard to make sure that I am only comparing my accomplishments to my own progress, and not other peoples.
-```
+
 
 #### Session 2: Getting Better at Difficult Things
-```
+
 In this session we learned about the trials and rewards of working to get better at difficult things.  This was pretty strongly tied to our previous gear-up on growth mindset.  My two biggest take-aways from this gear up are that my emotional state can have a huge impact on my ability to learn and grow and that getting better at difficult things requires a certain amount of 'grit'.  If I allow myself to become frustrated or discouraged it can completely shutdown my learning.  I need to be conscious of this and make an effort avoid pushing myself to the point that my emotions negatively affect my ability to learn.  Getting better at difficult things naturally doesn't come easily.  It requires a concerted effort and level of 'grit' to work through adverse situations.  This has proven to be very true so far at Turing School. 
-```
+
 
 #### Session 3
 Stress
