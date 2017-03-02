@@ -118,6 +118,21 @@ Evaluator: Nathaniel
 
 Scores: 
 
+* Fundamental JavaScript & Style
+3.5: Application shows strong effort towards organization, content, and refactoring
+
+* Enumerable & Collections
+3.5: Application demonstrates comfortable use of appropriate Enumerable methods
+
+* Test-Driven Development
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+* Encapsulation / Breaking Logic into Components
+3.5: Application effectively breaks logical components apart but breaks the principle of SRP
+
+* Functional Expectations
+2.5: Application runs, but does not work properly, or does not meet specifications.
+
 ##C: Group Work & Projects
 
 ##Projects
@@ -172,9 +187,10 @@ This Gear Up was especially interesting for me, being a woman entering the tech 
 
 ##Professional Development Workshops
 
-Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
+* Regarding project management strategies, it really depends on the paired partner and your DTR you filled out together. This module for pairing I have used Waffle.io for both projects which has deemed helpful for organizing thoughts and priorities. This strategy reflects the scrum method more than any other in my opinion. We are evaluating the needs on day by day basis but also looking at the project in a whole. We revisit what we need to on a need by need basis. This has proven beneficial because we don't really have customer satisfaction to incorporate as much as completing the phases of the projects. Once we start getting customer feedback in the mix in jobs, I think that the scrum method will be my preferred method for project management. 
+ 
+* Feedback is an important part of working and being in school. Being able to accept feedback and take it constructively is a very hard thing to do for most people and especial women as I have observed. It takes courage and confidence to take someone's constructive feedback and integrate it into your life and see positive outputs from it. I always take criticism with a grain of salt, but I always consider the person's point of view before doing so. At Turing, I have found it east to take the criticisms and positives from others and incorporate it into my work style. It is important to see what others see in you as strengths as well as weaknesses. The hardest part about paired projects for me at Turing has been letting go and not letting my a-type personality get in the way of things. I am always happy to see that not come up as an issue in feedback from students. When I do receive feedback from someone which surprises me, or takes me off guard, I always try to see it from their perspective and make a conscious effort to stray away from it in my next pairing.
 
-Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
 
 * [Completed Flower Exercise](https://gist.github.com/becs919/d2ce2464d37addfc99b2424ccc515f89)
 
@@ -192,6 +208,8 @@ I have a mentor/friend that went to Turing and I have known her for several year
 *  Staci was a really awesome partner. She is calm and confident. We worked really well together both from home and collaborating together. You should speak up more often because you really know what you're doing!
 
 * Jon is easy to pair with and open to other's ideas. He follows the pace of the person he pairs with and doesn't move too fast ahead. He is great at conveying his thoughts and talking through his code.
+
+* Tim is a great partner to have. He is always excited and open to new ideas. He is confident in his work but also doesn't go too fast or too slow for his partner. He is supportive of all ideas and welcomes them even if they don't aline with his own. He shouldn't be afraid to take a break sometimes, he works so hard and he deserves it.  
 
 ####Pairing Feedback
 
