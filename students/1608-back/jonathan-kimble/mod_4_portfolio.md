@@ -201,10 +201,20 @@ Pairing: I paired with two mod one groups on their projects.  I appretiated the 
 
 ## Final Review
 
-### Notes
+## Rubric Scores
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+### Notes (From Nate)
+
+- You started to let the stress get to you a little near the end, but on the whole, you kept a really great attitude this whole module. You were surrounded by some pretty negative forces, and managed to handle it. Good work.
+- Your contributions to the community continue to have an impact. It helps that you chose to do things like Bezos and Productivity lunch, but you made real contributions in everything you chose to do.
+- My critical feedback is learn to find balance. I think what I've seen from you is focus is a strong suit. When you set your mind to something, you tackle it, and tackle it hard. Being able to find the balance between many forces pulling you would be a great asset. Or simply acknowlege the weakness, and go deeper into focus :)
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for Graduation
