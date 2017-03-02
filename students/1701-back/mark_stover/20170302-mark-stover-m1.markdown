@@ -49,8 +49,8 @@ Look into how response handler can be a module.
 
 | CATEGORY | PROJECT 1 | PROJECT 2 |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/night_writer.markdown) | [link](http://example.com) |
-| **Github** | [link](https://github.com/Cdale3/Night-Writer) | [link](http://example.com) |
+| **Project Spec** | [link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/night_writer.markdown) | [link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/black_thursday.markdown) |
+| **Github** | [link](https://github.com/Cdale3/Night-Writer) | [link](https://github.com/stovermc/black_thursday) |
 | **Functional Expectations** | 3 | X |
 | **Test-Driven Development** | 3 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
@@ -114,7 +114,7 @@ An enjoyment for being in a tech office and realizing I needed more education to
 
 #### Session 5
 
-Debugging the gender gap was a great movie full of insight. The gender gap in the tech industry is something I have heard a lot about and the movie gave me a lot of context to help better understand it. It helped to reinforce my feeling that being a white male, it is especially important to be aware of the privilege that I have, and to leverage it in a way that provides a community of inclusion of all people. It is a view that I will take with me from Turing and into my professional every office in my professional career. 
+Debugging the gender gap was a great movie full of insight. The gender gap in the tech industry is something I have heard a lot about and the movie gave me a lot of context to help better understand it. It helped to reinforce my feeling that being a white male, it is especially important to be aware of the privilege that I have, and to leverage it in a way that provides a community of inclusion of all people. It is a view that I will take with me from Turing and into my professional every office in my professional career.
 
 ### Community Participation
 I have made it a point to collaborate with each member of our cohort. It is my opinion, that the more Collaboration there this,  the more cohesive our cohort will be and the more inclusive it will feel for all of us. Additionally, I have participated in lunch roulette when available, further extending my collaborations to the larger Turing community. This has proved useful in setting up opportunities for pairing sessions with upper mod students that may otherwise have not come to fruition. Lastly, it is my hope that I have provided enough optimistic smiles and high fives to help keep the energy in the basement less stressful and more fun.
