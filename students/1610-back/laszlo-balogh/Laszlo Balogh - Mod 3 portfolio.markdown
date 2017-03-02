@@ -219,6 +219,9 @@ It was a pleasure to finally get to work with Laszlo on an official project, Rai
 From Ethan Bennett after Cloney Island project:
 This was my first opportunity to work with Laszlo. His intelligence and his calm demeanor are both extremely valuable assets to have on a team, and they translated to strong leadership in our AWS struggles. Laszlo was also the first of us to realize the gravity of our workflow issues, and I wonder if we would have had nearly the same amount of completed work if not for him emerging as a leader in the group. We all share the blame for our weak workflow and lack of organization, but that’s the only obvious criticism I see. In fact, Laszlo was advocating for a merge before anyone else. As a whole, I think the project was a great learning experience, and I really enjoyed sharing it with Laszlo.
 
+From David Knott after Cloney Island project:
+I enjoyed working with you a second time and I think we both learned a lot (about a lot more than just technical skills).  After the retro at the end of our project we talked about when, why, and how our group organization went a bit off course.  I was very impressed by both how you handled us being down a member as well as by your willingness to provide feedback and support for Eric before he decided it was best to leave.  That took some serous awareness and empathy, both valuable skills in all aspects of like.  Going forward I’m excited to see what you do (in mod 4 and in the future) and where you go because you my friend can go anywhere.
+
 ### Playing a Part
 
 Sign up as prework guide for incoming BackEnd students. Reached out to the student I was assigned to and answered all his questions. Mainly generic questions about Turing.
