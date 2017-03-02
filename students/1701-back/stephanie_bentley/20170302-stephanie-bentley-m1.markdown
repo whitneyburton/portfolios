@@ -123,4 +123,4 @@ This mod has been a trial by fire.  I feel like one of the biggest ways I’ve e
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED
