@@ -247,7 +247,7 @@ Great team work, it was good to talk with other students about how they deal wit
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
 
-I found this session very interesting. It was good to learn about some problems in the industry. Discussion following the movie was interesting and brought up some interesting points.
+I found this session very interesting. It was good to learn about some problems in the industry. Discussion following the movie was engaging and brought up some interesting points.
 
 ### PROtocol
 
