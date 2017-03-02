@@ -18,25 +18,25 @@
 Assessed By: Andrew Carmer
 
 #### Evaluation Scores
-Conceptual Understanding - 3
+Conceptual Understanding: 3
   * Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning.
 
-Analytic/Algorithmic Thinking - 3
+Analytic/Algorithmic Thinking: 3
   * Developer breaks complex problems into small, digestible steps and executes them with little assistance.
 
-Feature Completeness - 3
+Feature Completeness: 3
   * Developer is able to implement all functionality and all tests pass.
 
-ActiveRecord Syntax and Style - 3
+ActiveRecord Syntax and Style: 3
   * Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database.
 
-Rails Style - 3
+Rails Style: 3
   * Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack.
 
-Testing  - 3
+Testing: 3
   * Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps.
 
-Collaboration -4 
+Collaboration: 4 
   * Developer actively seeks collaboration both before implementing, while in motion, and when stuck.
 
 ###Evaluation Notes
@@ -95,22 +95,22 @@ I worked on the following group projects:
 * Some broken pages. Updates, trip index, new station
 
 #### Evaluation Scores
-Functional Expectations - 2
+Functional Expectations: 2
 * Application has some small mising base functionality
 
-ActiveRecord - 3
+ActiveRecord: 3
 * ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. 
 
-User Experience and Conventions - 3
+User Experience and Conventions: 3
 * Project still uses appropriate routes and HTTP verbs. User experiance is pleasant, but may need additional improvement before truly being ready to be be deployed.
 
-Code Organizationn/Quality - 3
+Code Organizationn/Quality: 3
 * Some logic not realated specifically to HTTP request/responses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns.
 
-Testing - 3
+Testing: 3
 * Application is well tested but does not balance isolation and integratin/features tests.
 
-Woork Collaboratively - 3
+Woork Collaboratively: 3
 * Good use of branches, pull requests, and a project-management tool.
 
 #### Project Pair Feedback
