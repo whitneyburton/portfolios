@@ -38,10 +38,14 @@
 
 ## B: Individual Work & Projects
 
-Mix Master:
+#### (Mix Master)
+*   [GitHub URL](https://github.com/Ryanspink1/mix_master)
+*   [Original Assignment](http://backend.turing.io/module2/projects/mix_master/1_getting_started)
 -	This project is great. Really in-depth, lots of associations, lots of testing, a fair amount of stuff we hadn’t seen before…love it. I feel that I really learned a lot on this project. While it is lengthy, the tutorial is highly enjoyable from a learning standpoint. I don’t normally need someone to hold my hand, and while all the answers were available and it was a tutorial, it didn’t feel that way. I would definitely keep this project around and it’s probably one of the biggest catalysts for my growth in Rails this Mod.
 
-Rails Mini Project:
+#### (Rails Mini Project)
+*   [GitHub URL](https://github.com/Ryanspink1/PointBox)
+*   [Original Assignment](http://backend.turing.io/module2/projects/mini-project)
 -	I’m a little bit at a loss of what to say about this project. We were given easily twice amount of time needed to complete this project, yet mine still didn’t look that great. I felt uninspired on this project, and I think it shows.  While the functionality is almost all there, I don’t feel proud of this work. I think I was pretty salty that so much time was taken away from in class learning to give us time to work on this. I used most of the in-class time that was given to us to complete this project to study instead, as I felt that it provided more of a challenge and greater benefit than this project. I really hate to sound snarky, but RMP was probably the worst I felt about any work I did this Mod. I always try to work hard, and I felt that I was really missing out on what could have been valuable in-class sessions. This is in no way a knock on the instructors. I think you guys have done a fantastic job this mod. My only real feedback would be to cut the time on this project and devote more time during the day to lessons. I might be in the minority there, but that’s just my perspective. Happy to flesh this out with either Sal or Andrew if they have any questions about it. 
 
 
@@ -125,8 +129,8 @@ The project will be assessed with the following rubric:
 #### (Universal Basic Income)
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
-
-(takeaways from session)
+ 
+ I think that a Universal Basic Income is a novel concept, but is just that...a concept. I believe that we are still substantially far off as a civilization from being fully autonomous. I also believe that right now there are much more pressing issues than implementing UBI. I am a huge proponent for education, and I beleive that this country should fix it's education system and fully fund it through higher-ed. Providing people the tools with which to better themselves, regardless of their economic disposition, is the key to the near future. Uneducated, non-working, people cost our economy money while educated people pay enormous dividends on the economy in relation to their investment in education. I believe that if UBI was to be implemented, it would certainly have to be contingent upon some sort of civil service. In the same vein, things like illegal immigration would need to be addressed in some capacity as you can't deny millions of workers access to gov't help if you're giving it to the vast majority of the nation.
 
 ### PROtocol
 #### (Session Name)
@@ -142,9 +146,8 @@ The project will be assessed with the following rubric:
 (takeaways from session)
 
 #### (Johari Window)
-
-
-(takeaways from session)
+ 
+ - I have mixed feelings about this session. On one hand, I didn't receive any negative feedback and wasn't really surprised by the feedback I did receive. On the other hand, some people were genuninely hurt by the traits that a previous partner had picked for them. I realize that being able to accept critical feedback is crucial to social and professional development, but seeing more than one member of the cohort disturbed/distraught wasn't pleasant. On the plus side, it was a positive affirmation that I'm not a "bad" team member. I work hard to do my best and provide support to the team and I think that's showed through. 
 
 #### (Feedback II)
 
@@ -161,7 +164,7 @@ The project will be assessed with the following rubric:
 #### (Finding a Mentor)
 
 
-(takeaways from session)
+ - My mentor is David Blankfield (a non-Turing mentor), a junior dev @ progressive insurance in Colorado Springs. We talk 1-2 times a week, mostly talking about topics of interest and the tech industry. I rarely have him look over my work as he works in JS and I'm in Ruby/Rails. My goal is to reach out to two Turing mentors over the intermission week. 
 
 
 ## E: Feedback and Community Participation
@@ -179,7 +182,8 @@ The project will be assessed with the following rubric:
 
 ### Being a Community Member
 
-(need to get feedback)
+ - You've been a huge asset in our cohort. Your strong leadership abilities have shown through as our SAB rep. I think you have done really well at hearing our concerns and voicing them to the faculty. You've also been a great resource for bouncing ideas off of during projects and I look forward to working with you in the future. -James Anderson
+
 
 ### Playing a Part
 
