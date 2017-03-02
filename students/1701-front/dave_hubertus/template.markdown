@@ -270,10 +270,6 @@ I have participated in most, if not all events, that have been required of Turin
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
