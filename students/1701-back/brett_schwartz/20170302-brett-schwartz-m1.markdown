@@ -28,7 +28,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | Independent Timed Assessment | pass |
 | Diagnostic | pass |
 
-#### Assessor Comments
+#### Assessor Comments (Beth Sebian)
 
 * Testing solid, fundamentals strong
 * Through i2
@@ -50,18 +50,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Fundamental Ruby & Style** | 3 | 3 | 2.75 |
 | **Loop or Recursion** | n/a | 3 | n/a |
 
-#### Notes
-
-* Credit Check - Really clean, easy-to-read implementation
-, full functionality
-* Flashcards - got through IT5, nice testing
-good syntax, short methods
-* HTTP - Really solid testing suite.
-Got through i3.
-Broken down into 4 classes, diagnostics split out.
-Opportunities to pull messages packaging into another class or module
-
-
 ## C: Group Projects
 
 | CATEGORY | NightWriter | Black Thursday |
@@ -73,16 +61,6 @@ Opportunities to pull messages packaging into another class or module
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 3 | X |
 | **Loop or Recursion** | N/A | X |
-
-
-#### Notes
-
-* Night Writer - DID THE THING!!!!
-Talked about some refactoring spots and longer methods (use of enumerables)
-Talked about how to push out a FileIO class
-Talked about tests that don't rely on other methods. Unit testing.
-*   Note 2 (if applicable)
-
 
 ## D: Professional Development
 
