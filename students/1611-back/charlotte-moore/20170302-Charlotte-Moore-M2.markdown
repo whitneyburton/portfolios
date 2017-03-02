@@ -196,6 +196,19 @@ Charlotte Moore:
   
   Charlotte, I really enjoyed working with you on the Little Shop project. I observed your technical strengths to include: testing, debugging styling issues, the MVC framework, and a particular acumen for strategic planning. As a project manager, you considered everyone's opinion and input as equal and frequently engaged in forward/big picture thinking that kept us on a successful track at a manageable pace. As a peer, you consistently stopped what you were doing to help others work through difficult problems and took on many of the unexpected tasks that came up throughout the project. In the future, you may find it useful to advocate for the tasks you specifically want to ensure you're getting the learning experience you desire out of a project. You were very communicative on Slack and GitHub, and your thorough code reviews helped us verify / challenge our assumptions about what our code was doing / not doing. I particularly appreciate the attention to detail you exercised in going through all of the user stories and code at different milestones throughout the project. I enjoyed all of my interactions with you, and I'm proud of the application we built together.
   
+  ** (From: Casey) **
+  Charlotte - I really, really enjoyed working with you and thought you did an
+amazing job as the project manager, which I know didn't feel natural to you at
+first. I thought you did a great job driving the project forward, in terms of
+code, staying on top of waffle cards, and making sure we were all on the same
+page by doing stand-ups etc. I really appreciate your flexibility in enabling
+me to both go to the Lesbians who Tech summit and execute code. The only feedback I have to give you is to have more confidence in your leadership 
+abilities, you were really a force in making sure our project met the specifications
+laid out by our user cards. You're very clearly immensely strong in rails and
+what we have learned this mod, so it might be helpful for others if you paired 
+with them. It was so great working with you and I'm so proud of the application 
+we built together, and recognize fully that it could not have been done without you!
+  
    ** (From: Ryan) **
    
    Charlotte, I really enjoyed working with you on Bike Share. I feel like you greatly contributed to our cohesive, efficient team dynamic. Your insights were valuable and pairing with you was equally valuable as a learning experience for me. Honestly, I’m not sure what constructive feedback to give you. I feel like a cop-out answer to this might be “be more assertive” about some of your ideas, but thinking about that…it’s really not the case. When any of us had differences of opinion on a route to follow, we hashed it out logically and like adults. One thing that’s worth mentioning is that I think that some of your pre-planning and looking down the line at potential effects current actions in coding might have rubbed off on me. I’m very thankful for that, as it has been very useful in all of my coding since. It was a pleasure to work with you and learn from you on this project and I wish you nothing but good fortune on future endeavors!
