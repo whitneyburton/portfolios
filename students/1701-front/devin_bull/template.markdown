@@ -243,7 +243,7 @@ Workflow
 
 
 ## D: Professional Skills
-(Intro)
+
 
 ### Gear Up
 #### Getting Better At Difficult Things
@@ -256,15 +256,12 @@ This Gear Up really helped accelerate my learning of a few key things. Using the
 ### PROtocol
 #### (Session Name)
 
-*   [Link to Completed Deliverables]()
+*   DTR Memo: https://docs.google.com/document/d/164wMuZ8hnYqhfthYnN7mqwkWGyhO5AIIXS6QrxbrDNQ/edit
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Professional Branding 
 
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
-
-(takeaways from session)
+Set up [Github](https://github.com/DBULL7), [LinkedIn](https://www.linkedin.com/in/bulldevon/), and [Stackoverflow](http://stackoverflow.com/users/6866140/devon-bull) per  Jeff's instructions.
 
 ## E: Feedback and Community Participation
 
