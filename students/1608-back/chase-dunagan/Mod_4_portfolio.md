@@ -90,7 +90,7 @@ Subjective evaluation will be made on your work/process according to the followi
 ## B: Individual Work & Projects
 
  * Open Source:
-    - [Not yet finished]()
+    - [Faker Gem contribution Blog](https://medium.com/@cdunagan/contributing-to-the-faker-gem-d864e85a5906#.ma20myfrg)
 
 
 ## C: Group Work & Projects
