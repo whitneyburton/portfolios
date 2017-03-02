@@ -357,4 +357,4 @@ Nothing out of the ordinary. However, I found that some members of our cohort we
 
 ### Outcome
 
-PROMOTEd
+PROMOTED
