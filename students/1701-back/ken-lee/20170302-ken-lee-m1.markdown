@@ -26,7 +26,7 @@ I plan to work on my ruby knowledge and improve what I learned from last mod. Al
 | ----- | --- |
 | Pairing Assessment | Pass|
 | Independent Timed Assessment | Pending |
-| Diagnostic | Passed |
+| Diagnostic | Pass |
 
 ## B: Individual Projects
 
