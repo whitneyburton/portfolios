@@ -51,11 +51,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/josh-works/night_writer) | [link](https://github.com/themenintights/black_thursday) |
-| **Functional Expectations** | 2 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 3 | X |
-
+| **Functional Expectations** | 2 | 3 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 |
+| **Enumerables and Collections** | N/A | 4 |
+| **Code Sanitation** | N/A | 4 |
 
 ## D: Professional Development
 
@@ -68,6 +69,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 Feedback from partner projects.
 
 *   Knight Writer: Josh Thompson: "Seth. It was great fun to work with you on Night Writer. You were extremely helpful and patient working through TDD and refactoring with me, despite my late-in-the-game restart. Your easy-going disposition served us both well, and your comfort with Ruby methods was obvious. With a tiny adjustment to hashes instead of case statements, I think you’re on top of everything that’s been passed our way so far."
+
+*   Black Thursday: Craig Ness: "Seth, nice job on our final project of Mod 1! I was extremely impressed by your technical abilities and your speed of solving problems. You always seemed to have an idea of what direction you wanted to take, which it made it seem like we were never truly halted in our progress. Your approach to progamming avoids the pitfall of “analysis paralysis” because you are rarely hesitant to try something in your code, and I appreciated seeing this working style because it is unlike my own. Sometimes, however, this approach meant that you did a lot of your thinking in your text editor instead of taking the time to communicate your thoughts out loud. This sometimes left me wondering what you were attempting to do, and how I could contribute, so in this way, I think our communication lacked somewhat. I realized that in order to make my own contributions, I sometimes needed to work on my own at my own (admittedly slower) pace so that I could have time to work through what was happening conceptually in the project. Aside from that, and perhaps having a better git workflow, I thought we were able to work through this project without any major roadblocks. Finally, I thought your refactoring skills were also impressive, as you were able to shrink down a lot of methods using more advanced enumerables. Nice job once again, and good luck in Mod 2!"
 
 ### Job Prep
 
