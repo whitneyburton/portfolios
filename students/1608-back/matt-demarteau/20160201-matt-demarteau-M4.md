@@ -9,11 +9,11 @@ In the previous module, I had to work hard to review my process and make sure I 
 
 ## Rubric Scores 
 
-*   **A: End-of-Module Assessment**: Pass/Fail/Pending
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**: Pass
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -64,6 +64,10 @@ activities and does at least one or two above and beyond suports of the communit
 ## B: Individual Work & Projects
 
 There was not an individual project in module 4, but producing for the team as an individual was needed throughout.  Due to the complexity and scope of the projects in module 4, there were many nights spent working alone on tasks that would contribute to the group project.  Team members counted on each other to complete their share of the work throughout the mod.  
+
+
+ * I did individual work to get involved in the open source community and wrote a blog post about my efforts, posted here:
+    - [Getting to Open Source is Not Always an Open Door](https://medium.com/@mtdendeavor/getting-to-open-source-is-not-always-and-open-door-748af42637ab#.hp5oo2jno)
 
 
 ## C: Group Work & Projects
