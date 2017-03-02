@@ -13,7 +13,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | E | **Community** | 3 |
 
 #### Notes
-*   Note 1: Its been an intensive module and Ive spent around 60 - 70 hours a week for studying.
+*   Note: Its been an intensive module and Ive spent around 60 - 70 hours a week for studying.
 I don't think the more is better cause life/work shoud be in balance. Turing provides great path
 with material, teachers and methodology for succeding in learning proccess. I would say with almost 
 no background in coding I've overcame this path with a good balance and rated myself accordingly.
@@ -48,7 +48,7 @@ Notes: Some critical misses, overall this is a skill to work on that will not hi
 | **Loop or Recursion** | n/a | 3 | X |
 
 #### Notes
-*   Note 1: hhtp project brought some low grades to my portfolio. 
+*   Note: hhtp project brought some low grades to my portfolio. 
 But I consider it as a part of the learning process. Cause this project
 was out of our knowledge field in many ways so it let us learn how
 to search for answers, pair up with upper mod students and discover 
@@ -152,7 +152,7 @@ I noticed that he was a hard-working guy who put in the hours and made consisten
 I also respect the facts that he was finding time to do drills when he was buried under projects,
 always used TDD etc. I believe he has a bright future as a developer."
 
-My Portfolio feedback for Alisher Sadikov: "As a module 1 student I had many projects and assignments which require hard
+My Portfolio feedback for Alisher Sadikov Module 1608: "As a module 1 student I had many projects and assignments which require hard
 work and persistence to learn new information. I'm very thankful to have pairing session with Alisher. 
 With his knowledge and experience in programming he patiently and with courage helped me to make my studying
 process more productive. As a mentor he supported me emotionally and taught me many coding technics. 
