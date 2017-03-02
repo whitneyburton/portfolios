@@ -52,7 +52,17 @@ Testing: 4
 
 My personal project used React / Redux, Router 3 and localStorage. I built an app that pulls in seven of the New York Times best seller lists and displays them on the page. A user can switch between lists and add and delete favorites. I plan to continue to work on this and build in a Firebase backend so users can log in.
 
-Scores: NA
+Completion: 4
+
+Organization: 4
+
+TDD: 3
+
+Code Quality: 3+
+
+UX: 4
+
+Performance: 3
 
 * [NYTBookshelf GitHub](https://github.com/devinmarieb/NYTBookshelf)
 * [NYTBookshelf Spec](http://frontend.turing.io/projects/self-directed-project.html)
