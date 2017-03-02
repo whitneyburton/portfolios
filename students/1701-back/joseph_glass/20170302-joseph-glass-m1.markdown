@@ -71,7 +71,7 @@ Independent Timed Assessment
 
 ### Define-the-Relationship (DTR)
 
-[DTR Memo](https://docs.google.com/document/d/147hlMsGoTTEgWj01SItfHVl95DFwGAqMvNowKc_HzqI/edit) from Night Writer.
+[DTR Memo](https://docs.google.com/document/d/147hlMsGoTTEgWj01SItfHVl95DFwGAqMvNowKc_HzqI/edit?usp=sharing) from Night Writer.
 
 ### Pair Feedback
 
