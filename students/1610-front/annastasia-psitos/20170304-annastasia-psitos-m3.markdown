@@ -152,6 +152,14 @@ Staci was instrumental in helping me retake headshots so I could update all my p
 
 Bekah and I worked together on the weather redux project. She isn't afraid to try things when she doesn't know the answer and is also a good researcher. We only paired a few times on this project, but I enjoyed working with her. When I was having difficulties with our third team member she was encouraging of my dealing head on with the issue. My only suggestion to her would be to trust her own knowledge. Bekah knows quite a lot and is a very good programmer, but as with many of us, doesn't always trust that she knows what she knows.
 
+'My feedback is related to the Redux project we worked together on.
+
+I recognize that I started things off badly by having commitments that took me away from work the first two afternoons of work time, but I always tried to show up after that ready to work and collaborate. I was hoping we would stay late Tuesday night to work on things, but you preferred to go home and do research. I should have done more on my own without reference to you or Bekah, but I have been on many teams, both professionally and in school, where people duplicate work because no one bothers to discuss what needs to be done until the work has been completed and I did not want to step on anyone’s toes. In retrospect, this was the wrong tack to take, and I apologize.
+
+When we all worked together and I did try to participate, you were dismissive of my answers, even when they were the right ones. This made me feel not valued or wanted, even though I wanted to be an active part of it. I had hoped that as the week went on and we divided up more work, I would be able to take a more active role on my own, but you always seemed to volunteer for the larger chunks. I do regret that I did not contribute to much of the codebase, I didn’t stand up for myself more, and as a result you did a majority of the work. I don’t know if you didn’t trust me to do the work or if you simply wanted to make sure you understood the process on your own, but it seemed to me that you wanted that control. 
+
+I think my largest piece of feedback is to actually listen to all members of the group and encourage participation, even if you think they have nothing to contribute. They might surprise you.'
+
 ### Being a Community Member
 
 I worked on the redux weather app with Anna. Anna was a very hard worker and is very good at researching and learning about the topics in our project. Anna and I only paired a few times on this project. Anna is very open, which is helpful for when I make mistakes. The only advice or constructive criticism I could give you is to try to open to others opinions and thoughts, and to speak up right away if you do not feel that you are being heard. That way, we can solve problems very early on! I am glad we got to work together this mod! - Bekah Lundy
