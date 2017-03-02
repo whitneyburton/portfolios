@@ -196,7 +196,7 @@ As I've progressed through the program I've realized that the fact that I'm a La
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great feedback provided to peers. Nice reflections on Gear Up. Solid projects.
 
 ### Outcome
 

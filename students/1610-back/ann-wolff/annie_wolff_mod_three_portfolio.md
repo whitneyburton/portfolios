@@ -149,7 +149,7 @@ rails_engine is an exercise in creating an internal API that serves up business 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-This session focused on bias and how a society of people with even a small amount of bias leads to overall segregation. I have frequently heard the argument that diversity quotas are antithetical to true diversity, but I thought that the Parable of the Polygons game was a clear demonstration that a demand for diversity is the only way to reverse these effects. 
+This session focused on bias and how a society of people with even a small amount of bias leads to overall segregation. I have frequently heard the argument that diversity quotas are antithetical to true diversity, but I thought that the Parable of the Polygons game was a clear demonstration that a demand for diversity is the only way to reverse these effects.
 
 #### Automation
 
@@ -190,8 +190,8 @@ This was my first module as an SAB representative. I'm really happy that I was n
 
 ### Notes
 
-( Leave blanks for reviewers )
+Solid module with consistently strong projects throughout the Mod. Great contributions in SAB.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Recommended for promotion

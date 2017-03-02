@@ -39,7 +39,7 @@ Subjective evaluation will be made on your work/process according to the followi
 
 ## B: Individual Work & Projects
 
-Solo projects are always fun! I love making new discoveries and overcoming challenges. It is that much better when you accomplish it on your own. 
+Solo projects are always fun! I love making new discoveries and overcoming challenges. It is that much better when you accomplish it on your own.
 
 #### Nerd Bay
 
@@ -107,16 +107,16 @@ Students: Mike & Drew
 
 DTR notes can be found in the project github link. Look for 'dtr.md'
 
-Schutte's Feedback to me: 
+Schutte's Feedback to me:
 
-Mike Schutte [10:40 AM] 
+Mike Schutte [10:40 AM]
 Drew: Working with you was both highly productive, and highly enjoyable. I respect and appreciate your commitment to quality code through as much paired programming as possible. You are endlessly witty, and exude a positive attitude at all times even in the face of a massive work load.
 For future improvement, I recommend gaining more command of your work flow tools, especially the text editor. It’s a minor thing, but there were a couple times where you made moves to implement an idea, and a laggy mouse drag or selection caused you to forget what your original goal was.
 I am incredibly proud of our project, and I firmly believe it was taken to the next level by your fastidious code reviews and high quality Ruby style. Best of luck on future projects!
 
 My Feedback to Schutte:
 
-Drew Palazzari [10:29 AM] 
+Drew Palazzari [10:29 AM]
 Feedback for Schutte:
 
 Positives: Schutte is an excellent coder. He is highly intelligent and very professional. Schutte is a pleasure to pair with and does a good job  in paired programming. Schutte bring s a lot to the table when working with him on a project. His testing is phenomenal and very thorough.
@@ -139,7 +139,7 @@ Overall, the team felt good about what we accomplished. We got together after th
 
 ##Project Evaluation
 
-Casey Cumbow [9:50 AM] 
+Casey Cumbow [9:50 AM]
 # Kickstarter Two
 
 ### Completion
@@ -193,9 +193,9 @@ The next most important thing to a successful coder, is being a good human being
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-This was a good gear up about diversity. Not just in the workplace, but in the world as a whole. As a white male, the system has been biased towards me since before I was born. 
+This was a good gear up about diversity. Not just in the workplace, but in the world as a whole. As a white male, the system has been biased towards me since before I was born.
 
-The biggest take-away I got from this gear up was a strategy for dealing with non-diversity. I think diversity would improve if, during all interviews, people literally hid their face and were given something to alter their voice. All language in resumes and applications would be made gender neutral. This is truely the only way I see diversity ever truely becoming diverse. People would be chosen for the quality of their abilities, rather than the color of their skin, or gender. Diversity is a great idea, but being a disciple of diversity is inherently undiverse. 
+The biggest take-away I got from this gear up was a strategy for dealing with non-diversity. I think diversity would improve if, during all interviews, people literally hid their face and were given something to alter their voice. All language in resumes and applications would be made gender neutral. This is truely the only way I see diversity ever truely becoming diverse. People would be chosen for the quality of their abilities, rather than the color of their skin, or gender. Diversity is a great idea, but being a disciple of diversity is inherently undiverse.
 
 It's a slippery slope; one that humanity as a whole has to address together to become a true aspect of our lives.
 
@@ -234,7 +234,7 @@ UBI is (U)nuversal (B)asic (I)ncome. An idea born from the fear of a mostly auto
 
 * [Link to Completed Deliverables](https://docs.google.com/document/d/1W0ZbOzMKDRs0BsG06EqAWX1MYXHfbPTMMWqTyhrLHKQ/edit)
 
-I liked this session. It asked me to make it very clear whata I disliked from my previous job, things I liked from my previous job, my talents, and the necessity to find a future job based on the 7 pedals of the flower exercise. It is invaluable. 
+I liked this session. It asked me to make it very clear whata I disliked from my previous job, things I liked from my previous job, my talents, and the necessity to find a future job based on the 7 pedals of the flower exercise. It is invaluable.
 
 #### Organize your Sh!t
 
@@ -244,7 +244,7 @@ Jeff basically said to have everything prepared for job hunt season. Don't be th
 
 #### Innovative Problem Solving
 
-* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md) 
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
 
 This activity was pretty useful for figuring out what to do with my personal project. I have an idea; I'm not sure if I actually still want to do it or not, but it's very nice to actually have an idea of something I would actually want to do. Thanks, Allison!
 
@@ -260,11 +260,11 @@ Tech interviews:
 
 Be right on time. Do not come early. Wait outside if you have to. Check out 'Lever'. It's hard to differentiate resumés -> have a nice fun cover letter. Set yourself up for success in your interviews. Get an early afternoon/late morning time (avoid traffic).
 
-Practice your interviews. Saying practice interview question answers out loud. Practice the kinds of answers you're going to give. 
+Practice your interviews. Saying practice interview question answers out loud. Practice the kinds of answers you're going to give.
 
 Don't bring computer, bring pen and paper. Be prepared with questions, always. Look for culture mismatches. If they expect you to work 80 hours a week, don't work there. If it's too good to be true, it probably is.
 
-Find the balance between confidence and arrogance while interviewing. 
+Find the balance between confidence and arrogance while interviewing.
 
 Research what some illegal and off-limit questions are. It is okay to ask who is going to do your interview ahead of time. Try to get a tour before-hand. Carefully ask, "What are the steps of the hiring process?" If they tell you one thing, but it's disorganized and incorrect, that may be a sign of a bad culture fit.
 
@@ -278,7 +278,7 @@ As for statistics. How you get customers, how fast you are growing as a company,
 
 My Feedback to Schutte:
 
-Drew Palazzari [10:29 AM] 
+Drew Palazzari [10:29 AM]
 Feedback for Schutte:
 
 Positives: Schutte is an excellent coder. He is highly intelligent and very professional. Schutte is a pleasure to pair with and does a good job  in paired programming. Schutte bring s a lot to the table when working with him on a project. His testing is phenomenal and very thorough.
@@ -287,42 +287,42 @@ Constructive: Sometimes Schutte can get in the programming zone and not be as op
 
 My feedback to Kyle:
 
-Drew Palazzari [9:52 AM] 
+Drew Palazzari [9:52 AM]
 Cloney Island Feedback: as ever, Kyle is one helluva programmer. He bring top notch levels of critical thinking, intelligence, and raw coding talent to every team he's on. Best yet, he's awesome to work/pair with and there is no problem a team can't figure out without him.
 
 Constructive Feedback: Sometimes Kyle can be hard to get a hold of. Communication could be better in larger team environments.
 
 My feedback to Robbie:
 
-Drew Palazzari [10:01 AM] 
+Drew Palazzari [10:01 AM]
 Feedback: Robbie is an excellent leader and coder. This was his first project as project manager, and he performed admirably. I admire his dedication to the red-green-refactor stratagem and would be happy to work with him again.
 
-My feedback to Jason: 
+My feedback to Jason:
 
-Drew Palazzari [10:05 AM] 
+Drew Palazzari [10:05 AM]
 Feedback: Jason is an excellent teammate and coder. He was our teams rocket launcher in Cloney Island: We give him a task, fire him at the target, and forget about it because he will take care of the story. I would be happy to work with Jason again.
 
 Constructive feedback: Sometimes Jason's pull requests are way too big and he does too many things on them. It makes reviewing his code supremely difficult. I suggest having more, smaller PR's with single responsibilities.
 
 My feedback to Daniel:
 
-Drew Palazzari [10:07 AM] 
+Drew Palazzari [10:07 AM]
 Feedback: I thoroughly enjoy working with Daniel. He's a very smart individual with a good attitude, and great ideas. His coding abilities are top notch. I would be happy to work with him again.
 
 Constructive Feedback: Sometimes Daniel can be hard to get a hold of. I would encourage him to be more tenacious is responding to emails/github tags/slack messages so that the team can take care of issues faster.
 
 ### Being a Community Member
 
-Schutte's Feedback to me: 
+Schutte's Feedback to me:
 
-Mike Schutte [10:40 AM] 
+Mike Schutte [10:40 AM]
 Drew: Working with you was both highly productive, and highly enjoyable. I respect and appreciate your commitment to quality code through as much paired programming as possible. You are endlessly witty, and exude a positive attitude at all times even in the face of a massive work load.
 For future improvement, I recommend gaining more command of your work flow tools, especially the text editor. It’s a minor thing, but there were a couple times where you made moves to implement an idea, and a laggy mouse drag or selection caused you to forget what your original goal was.
 I am incredibly proud of our project, and I firmly believe it was taken to the next level by your fastidious code reviews and high quality Ruby style. Best of luck on future projects!
 
 Kyle's Feedback to me:
 
-Kyle Heppenstall [7:12 PM] 
+Kyle Heppenstall [7:12 PM]
 Cloney Island Feedback!: As always, I loved working with Drew on Cloney Island. You are great to pair with and do a awesome job of stating your opinion on the best way to write the code but also staying flexible with the way the work is accomplished. You are also a strong communicator and always available and putting the team first. My only piece of constructive feedback is to always put your best foot forward on a PR. Whether it is a stub or styling, it could be worth it to do it all the way done the first time instead of leaving things to be refactored and fixed up later. Hopefully we get to work together in Mod 4!
 
 Robbie's feedback to me:
@@ -332,12 +332,12 @@ This was my first project with Drew and I really enjoyed working with him. I thi
 
 Daniel's Feedback to me:
 
-Daniel Rodriguez [10:58 AM] 
+Daniel Rodriguez [10:58 AM]
 As expected, working with Drew again was a great experience. He’s a great person to pair with, a hard worker and a very talented developer who will only continue to get better. I would encourage him to take risks and to take ownership of features to push himself as a developer.
 
 ### Playing a Part
 
-I actively pair with my module classmates and I am active in the #pairing channel in Slack. I also actively participate in the Armstrong posse. Outside of Turing, I am aware that I represent Turing. I behave well and have nothing but good things to say about Turing. 
+I actively pair with my module classmates and I am active in the #pairing channel in Slack. I also actively participate in the Armstrong posse. Outside of Turing, I am aware that I represent Turing. I behave well and have nothing but good things to say about Turing.
 
 ------------------
 
@@ -345,7 +345,7 @@ I actively pair with my module classmates and I am active in the #pairing channe
 
 ### Notes
 
-( Leave blanks for reviewers )
+All 4's? Solid module and good project output.
 
 ### Outcome
 

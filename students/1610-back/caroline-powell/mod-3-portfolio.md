@@ -23,9 +23,9 @@ At the beginning of Mod 3 I wrote down a pretty lengthy list of things I wanted 
 
 * **A: End of Module Assessment** - Pass/Fail/Pending
 * **B: Individual Work & Projects** - X / Explanation of score
-* **C: Group Work & Projects** - 
-* **D: Professional Skills** - 
-* **E: Feedback & Community Participation** - 
+* **C: Group Work & Projects** -
+* **D: Professional Skills** -
+* **E: Feedback & Community Participation** -
 
 -----------------------
 
@@ -169,7 +169,7 @@ Thanks for being project manager, and your work on setting up the database got u
 
 ### Notes
 
-( Leave blanks for reviewers )
+Thoughtful reflections on Gear Up sessions. Really detailed goals at the beginning of the module led to a really productive mod even if not all of the goals were met.
 
 ### Outcome
 
