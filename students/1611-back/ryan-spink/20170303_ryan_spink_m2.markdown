@@ -45,20 +45,6 @@
 *   [Original Assignment](http://backend.turing.io/module2/projects/mini-project)
 -	I’m a little bit at a loss of what to say about this project. We were given easily twice amount of time needed to complete this project, yet mine still didn’t look that great. I felt uninspired on this project, and I think it shows.  While the functionality is almost all there, I don’t feel proud of this work. I think I was pretty salty that so much time was taken away from in class learning to give us time to work on this. I used most of the in-class time that was given to us to complete this project to study instead, as I felt that it provided more of a challenge and greater benefit than this project. I really hate to sound snarky, but RMP was probably the worst I felt about any work I did this Mod. I always try to work hard, and I felt that I was really missing out on what could have been valuable in-class sessions. This is in no way a knock on the instructors. I think you guys have done a fantastic job this mod. My only real feedback would be to cut the time on this project and devote more time during the day to lessons. I might be in the minority there, but that’s just my perspective. Happy to flesh this out with either Sal or Andrew if they have any questions about it. 
 
-
-
-
-#### (Project Name)
-
-*   [GitHub URL]()
-*   [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
 ## C: Group Work & Projects
 
 ### Projects
