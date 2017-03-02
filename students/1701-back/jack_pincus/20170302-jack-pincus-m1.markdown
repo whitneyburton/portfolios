@@ -11,9 +11,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | Section | Category | Score |
 | --- | ----- | --- |
 | A | **End-of-Module Assessment** | 4 |
-| B | **Individual Projects** | 4 |
-| C | **Group Projects** | 3 |
-| D | **Professional Development** | 4 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 3 |
 | E | **Community** | 3 |
 
 
@@ -149,9 +149,8 @@ Participated in the Turing Lab Posse, and was invited to present my side project
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+*   Strong group projects, independent projects
+*   Overall solid contributions to the cohort; continue to refine leadership role
 
 ### Outcome
-
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED
