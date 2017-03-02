@@ -215,6 +215,16 @@ From Charlotte Moore:
 
 Courtney, it’s been awesome having you on the Little Shop dream team. It’s clear from working with you that you have a really strong understanding of all the material we’ve learned this mod. In particular, your testing is very thorough, you are able to produce functional features quickly, and you’ve been great at helping team members through difficulties with particular problems. I really appreciate how you stepped up to tackle little things that came up, on top of working on big features. I think our cohort would benefit from you reaching out to individuals who are struggling and using your teaching experience to take a leadership role. You were assertive and approachable throughout the project, which was tremendously valuable while Casey was gone. I’m really happy with how the project turned out, and I can’t imagine the process being as smooth without your input. I have a lot of respect for you, and I hope we have the opportunity to work together again in the future. 
 
+From Casey Macaulay:
+
+Courtney, I'm so glad we got the chance to work together, and hope we are able to
+more while at Turing. Your abilities and tenacity were extremely evident, and I
+really enjoyed pairing with you especially. It is clear that your grasp of what we 
+have learned with this mod is extremely strong. Your git workflow, questions in
+pull requests, and ideas about how to advance our project helped make our application
+what it is. You were great at communicating throughout, especially when you were struggling 
+with something in particular. I feel like whenever you got stuck, all you needed
+was a different approach/perspective in order to find a way forward. I really enjoyed your collaboration and hope we get to work together again! 
 
 From Katy Farmer:
 
