@@ -44,15 +44,15 @@ I felt I was fairly involved in the community but really struggled with getting 
 
 ## C: Group Projects
 
-| CATEGORY | PROJECT 1 | PROJECT 2 |
-| --- | --- | --- | --- |
-| **Project Spec** | [Link](http://backend.turing.io/module1/projects/night_writer) | [Link](http://example.com) |
-| **Github** | [Link](https://github.com/lao9/night_writer) | [Link](http://example.com) |
-| **Functional Expectations** | 4 | n/a |
-| **Test-Driven Development** | 4 | n/a |
-| **Encapsulation/Breaking Logic into Components** |3 | n/a |
-| **Fundamental Ruby & Style** | 4 | n/a |
-| **Loop or Recursion** | N/A | n/a |
+| CATEGORY | Nightwriter |
+| --- | --- | --- |
+| **Project Spec** | [Link](http://backend.turing.io/module1/projects/night_writer) |
+| **Github** | [Link](https://github.com/lao9/night_writer) |
+| **Functional Expectations** | 4 |
+| **Test-Driven Development** | 4 |
+| **Encapsulation/Breaking Logic into Components** |3 |
+| **Fundamental Ruby & Style** | 4 |
+| **Loop or Recursion** | N/A |
 
 #### Notes
 
