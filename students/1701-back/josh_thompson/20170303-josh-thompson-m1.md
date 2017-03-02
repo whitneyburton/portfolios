@@ -218,4 +218,4 @@ Either way, I'm thrilled to be studying with _adults_, instead of everything I d
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED
