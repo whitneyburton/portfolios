@@ -2,6 +2,18 @@
 
 ##Individual
 
+###Areas of Emphasis
+* I set out to become more comfortable in this programming environment. I wanted to understand what sinatra and rails were apart from the being frameworks. I can say that I achieved that goal and much more, my dive into this mod was completely different from what I was expecting. ActiveRecords, Sinatra, Rails, Rspec, SQL, models, databases etc. All of it has been enjoyable to learn. I definitely feel like I've gained a lot of knowledge this mod and actually understand what is going on.
+
+###Rubric Scores
+
+* A: End-of-Module Assessment: Pass/Fail/Pending
+* B: Individual Work & Projects: X
+* C: Group Work & Projects: X
+* D: Professional Skills: X
+* E: Feedback & Community Participation: X
+
+
 ###Evaluation Notes
 MidMod Assessment
 * Assessed By: Sal Espinoza
@@ -111,6 +123,18 @@ Assessed By: Andrew Carmer
 * Collaboration -4 
   * Developer actively seeks collaboration both before implementing, while in motion, and when stuck.
 
+#### Project Pair Feedback
+
+* Andrew Wooten 
+* Jonathan, I had a great time working with you on Bikeshare.  It was a great experience.  I was delighted to get to know you more.  I really respect your ability to draw lines as far as your work time goes.  It seems like you have a pretty great handle on taking care of work/self-care balance.  I also appreciate your drive to learn new things and get experience in areas/problems you haven’t gotten to work with.  You’re, additionally, excellent to pair with.  You communicate questions clearly and bring up great points for conversation/thinking around the problem at hand.  As far as actionable change, it was difficult at times to know what your needs were in the group: problems you wanted to work on, help you needed, overall how you were doing.  I think it would be beneficial for you to maintain  a more direct line of open dialogue with your teammates so that your needs are met and no lingering questioning of that remains.  I look forward to working with you again.
+<br>
+
+* James Anderson
+* Your testing proficiency is second to none. Between writing scores of tests and fixing dozens more that were failing, I think you have a firm grasp on that. You also managed to squeeze in front ending which made our app pretty slick. In the future I think it would be beneficial for you to practice more pair programming as it seems you are more comfortable working alone. Aside from that, you also did a great job of keeping momentum up. While the rest of us would get stuck on granular tasks, you would show up the next day with a whole slew of new improvements. I think we all meshed really well and I'm very proud of the headway the four of us made in skill level and the work we produced. Looking forward to the next time we get paired together.
+<br>
+
+* Spencer Carter
+* It was an absolute pleasure working with you on Bikeshare! Your knowledge, plus your communication while pairing made for the easiest, most efficient "driver/navigator" experience yet. I also commend you on the effort you made on testing! Although you were awesome in parings, I think you could still grow just a bit more in communicating with the group. Not knowing if you were struggling with an issue or just crushing tests (t'was the latter) had us overlap work once. You were the silent assassin, and I was envious of your knowledge on every aspect of the project, you could CRUD, test, html, and brainstorm with the best of them! Keep up the hard work because it is clearly paying off!
 
 ##Professional Development
 Professional Development:
@@ -151,7 +175,7 @@ Professional Development:
   * Open space with a good view of the city or landscape
   * Lots of Natural Sunlight
   * Have it be in the city, I like the city vibe of walking around to/from home and during lunch.
-  
+
 * Favorite people to work with/serve
   * Investigative - People who like to observe, learn, investigate, analyze, evaluate or solve problems.
   * Realistic - People who have atheltic or mechanical ability, prefer to work with objects, machines, tools, plants, or animals, or to be outdoors.
@@ -190,19 +214,6 @@ Gear Ups for This Mod:
 * The thing is that before this session I had a very faint idea of what the Universal Basic Income is, apart from the obvious, that it's basic income, after the session my perception of it is not much clearer. I have a lot of questions regarding UBI, automation and policies that are being discussed to get this UBI program off the ground. I have limited knowledge and would like to know more about it, the sad part is that it being a somewhat new idea research and data on its attributes are limited. One thing that I am set on, is that UBI is going to be a necessaty in the future and I will be staying informed on everything that touches this idea.
 
 ### Community Participation
-
-#### Project Pair Feedback
-
-* Andrew Wooten 
-* Jonathan, I had a great time working with you on Bikeshare.  It was a great experience.  I was delighted to get to know you more.  I really respect your ability to draw lines as far as your work time goes.  It seems like you have a pretty great handle on taking care of work/self-care balance.  I also appreciate your drive to learn new things and get experience in areas/problems you haven’t gotten to work with.  You’re, additionally, excellent to pair with.  You communicate questions clearly and bring up great points for conversation/thinking around the problem at hand.  As far as actionable change, it was difficult at times to know what your needs were in the group: problems you wanted to work on, help you needed, overall how you were doing.  I think it would be beneficial for you to maintain  a more direct line of open dialogue with your teammates so that your needs are met and no lingering questioning of that remains.  I look forward to working with you again.
-<br>
-
-* James Anderson
-* Your testing proficiency is second to none. Between writing scores of tests and fixing dozens more that were failing, I think you have a firm grasp on that. You also managed to squeeze in front ending which made our app pretty slick. In the future I think it would be beneficial for you to practice more pair programming as it seems you are more comfortable working alone. Aside from that, you also did a great job of keeping momentum up. While the rest of us would get stuck on granular tasks, you would show up the next day with a whole slew of new improvements. I think we all meshed really well and I'm very proud of the headway the four of us made in skill level and the work we produced. Looking forward to the next time we get paired together.
-<br>
-
-* Spencer Carter
-* It was an absolute pleasure working with you on Bikeshare! Your knowledge, plus your communication while pairing made for the easiest, most efficient "driver/navigator" experience yet. I also commend you on the effort you made on testing! Although you were awesome in parings, I think you could still grow just a bit more in communicating with the group. Not knowing if you were struggling with an issue or just crushing tests (t'was the latter) had us overlap work once. You were the silent assassin, and I was envious of your knowledge on every aspect of the project, you could CRUD, test, html, and brainstorm with the best of them! Keep up the hard work because it is clearly paying off!
 
 #### Community Involvement
 * I would like to start of by saying that my involvement this mod has not been what I set it out to be. One of my biggest goals this mod was to set up a diversity panel that brings in people outside of Turing to share their thoughts on what it is to be a minority out in the tech field. It's still a goal but now It's a goal for mod3. I believe that it would be beneficial to show that the tech industry does have a diverse pool and that those individuals are thriving not because of their color/gender/religion but because of their abilities. Another thing that I set out to do was to help out mod1 students through the pairing schedule, it was great being able to help out other students with questions, problems that they were having and/or being able to work through them. Next mod I am setting to become more involved, I feel that being involved in the community is a great way to establish relationships and at the same time expand your learning through tasks that are enjoyable.
