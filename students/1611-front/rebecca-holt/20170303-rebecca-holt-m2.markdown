@@ -118,20 +118,20 @@ Evaluator: Nathaniel
 
 Scores: 
 
-* Fundamental JavaScript & Style
-3.5: Application shows strong effort towards organization, content, and refactoring
+Fundamental JavaScript & Style
+* 3.5: Application shows strong effort towards organization, content, and refactoring
 
-* Enumerable & Collections
-3.5: Application demonstrates comfortable use of appropriate Enumerable methods
+Enumerable & Collections
+* 3.5: Application demonstrates comfortable use of appropriate Enumerable methods
 
-* Test-Driven Development
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+Test-Driven Development
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-* Encapsulation / Breaking Logic into Components
-3.5: Application effectively breaks logical components apart but breaks the principle of SRP
+Encapsulation / Breaking Logic into Components
+* 3.5: Application effectively breaks logical components apart but breaks the principle of SRP
 
-* Functional Expectations
-2.5: Application runs, but does not work properly, or does not meet specifications.
+Functional Expectations
+* 2.5: Application runs, but does not work properly, or does not meet specifications.
 
 ##C: Group Work & Projects
 
