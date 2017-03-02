@@ -191,7 +191,7 @@ Monocle is company and job seeking tool for the Turing School community. It's pu
 
 ###### Feedback to me
 * Alisher - "I have worked with Mike for over a month on Monocle and LookingFor projects. He is one of those people who do not get arrogant because of their smartness. This, combined with his outstanding work ethic make him an irreplaceable teammate."
-* Lee -
+* Lee - Mike it was great to get the chance to see your working style and habits more closely and I feel like I could continue to learn more about your excellent problem solving skills. You were a great asset to our team and a pleasant character to be around. I’m certain you’ll see a lot of success in your software future and thanks for all the hard work!
 * Chase -
 
 ###### Feedback from me
