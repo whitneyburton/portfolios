@@ -27,7 +27,7 @@ I thought these were cool, but I don't know that I got much out of them. As with
 
 ## A: End of Module Assessment
 
-TayTay says I passed.
+TayTay says I passed. 
 
 ## B: Individual Work & Projects
 
@@ -143,7 +143,7 @@ From Josh: Devin was a terrific asset to our team. I thought we worked well toge
 
 From Steph: The movie project was stressful but I’m glad we were able to work together. You’re very sharp but humble, which is a rarity at Turing, and makes for a great team-member. I also really appreciated your ability to articulate your way through problem-solving, something I struggle with and really benefit from hearing. I also really appreciate your dedication to the project and your work ethic! Thanks for being a great team member!
 
-From Mike Z: I had a great time working with Devin on the RemEMBER project. I appreciate how patient you were patient when I was having trouble conceptualizing one of the issues we were given. You were easy to communicate with both in person, and over slack. If we were planning on meeting up you communicated when you would be there and were on time and that is greatly appreciated. The work flow of this project made me more comfortable with PRs and working on issues. Writing jokes in our tests made the project less boring and I even had some fun.   Why does a chicken coop only have two doors???? IF IT HAD 4 IT WOULD BE A CHICKEN SEDAN!!
+From Mike Z: I had a great time working with Devin on the RemEMBER project. I appreciate how patient you were patient when I was having trouble conceptualizing one of the issues we were given. You were easy to communicate with both in person, and over slack. If we were planning on meeting up you communicated when you would be there and were on time and that is greatly appreciated. The work flow of this project made me more comfortable with PRs and working on issues. Writing jokes in our tests made the project less boring and I even had some fun. Why does a chicken coop only have two doors???? IF IT HAD 4 IT WOULD BE A CHICKEN SEDAN!!
 
 ###Flower Exercise
 [Flower Exercise Google Doc](https://docs.google.com/document/d/1GGDKMUUmc49ReZEuI1MV0s8ENDWhMr6NfjC_4-6EDo0/edit)
@@ -155,7 +155,8 @@ From Mike Z: I had a great time working with Devin on the RemEMBER project. I ap
 ## Final Review
 
 ### Notes
-
-( Leave blanks for reviewers )
+LEAD IRON FE
 
 ### Outcome
+
+PASS
