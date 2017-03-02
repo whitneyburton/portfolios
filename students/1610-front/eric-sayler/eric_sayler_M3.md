@@ -302,6 +302,7 @@ _Working with Chelle made a tough project (Ember) progress much more easily than
 ### Notes
 
 ### Outcome
+PENDING - Waiting on finished portfolio, PD deliverables, and testing for final project
 
 * **A: End-of-Module Assessment**:
 * **B: Individual Work & Projects**:
