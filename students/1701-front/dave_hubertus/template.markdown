@@ -65,7 +65,7 @@ The static comp challenge is a series of three challenges to keep you working th
 *   [GitHub URL](https://github.com/Adamj1232/LinkedList)
 *   [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+Build an application that can save a URL and title into two inputs and on click of submit to save the bookmark to your webpage.
 
 (evaluation comments)
 
@@ -78,7 +78,7 @@ The static comp challenge is a series of three challenges to keep you working th
 *   [GitHub URL](https://github.com/jennPeavler/idea-box)
 *   [Original Assignment](https://github.com/dhubertus/portfolios/edit/master/students/1701-front/dave_hubertus/template.markdown)
 
-(description)
+Build an application that can save a URL and title into two inputs and on click of submit to save the bookmark to your webpage. The bookmarks should be stored in local storage and persist on the page after refresh.
 
 (evaluation comments)
 
@@ -91,7 +91,7 @@ The static comp challenge is a series of three challenges to keep you working th
 *   [GitHub URL](https://github.com/dhubertus/2DoBox-Pivot)
 *   [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+Pivoting another student's IdeaBox to become a new application that keeps much of the same functionality of the Idea Box but adds even more functionality for the new 2DoBox.
 
 (evaluation comments)
 
@@ -126,11 +126,29 @@ The static comp challenge is a series of three challenges to keep you working th
 
 ### Giving Feedback
 
-(feedback from me)
+To: Adam Carpenter
+
+Working with Adam was a great experience. We were up front about what we both wanted to get out of the experience and decided early on how we were going to attack the project. Our ideal work times were discussed and since we both wanted a hand in every aspect of our project we essentially built each part together.  Adams skill set and ability to communicate well made our first pairing very successful even when the struggle was real.
+
+To: Jenn Peavler
+
+Working with Jenn was a solid experience. We communicated fairly well and often enough that we were typically on the same page.  We struggled on a few aspects of the project, but it was Jenn who would take the first step back to break the problem down into much more simple tasks. This proved to be the most valuable part of the experience as I have a tendency to take on too much at once.
+
+Gave Ciara feedback through a google form.
 
 ### Being a Community Member
 
-(feedback to me)
+From: Adam Carpenter
+
+Dave was a great teammate to work with. Together we were able to battle some very difficult bugs we came across in a very short amount of time. Some of the problems we faced, mod 2 pairing and instructors were not able to figure out what was going on, yet we prevailed. His work ethic is strong and his comprehension of Javascript, HTML and CSS is very well rounded and made building an app with him a lot of fun. Let’s go!
+
+From: Jenn Peavler
+
+Dave communicates expectation and roles clearly.  He is approachable and adaptable.  He has a solid understanding of the subject manner and is able to express his thought process clearly.  He works relentlessly to get the job done, and takes pride in his work.  In order to grow as a developer, it is my recommendation that Dave keep up the good work, but perhaps sometimes, take a step back from the project and look at the flow of the application as a whole.  This will enable Dave to be able to understand how to break up the whole project into smaller, more attackable functionality problems.  Can’t wait to work with Dave again, as he most definitely rocks.
+
+From: Ciara Bujanos
+
+I felt like our project was successful because we  had really good communication the whole time. It was helpful for me to work with you because you were good at articulating your thoughts and breaking down the problems. You were also really good at Googling to help find solutions!  In terms of constructive feedback I'd say that it's great you like to figure all the solutions out between the team, but if we are spending too much time on something to start asking around to the others sooner to see how they solved it.
 
 ### Playing a Part
 
