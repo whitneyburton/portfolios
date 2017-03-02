@@ -6,8 +6,6 @@ I came to Turing to learn back end engineering. I expected to be challenged and 
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
 | Section | Category | Score |
 | ---- | ----- | ----- |
 | A | **End-of-Module Assessment** | 3 |
@@ -51,8 +49,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | 3 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 2.5 | 4 |
 | **Fundamental Ruby & Style** | 2.5 | 3 |
-| **Code Sanitation** | n/a | 4 |
 | **Enumerables & Collections** | n/a | 4 |
+| **Code Sanitation** | n/a | 4 |
 
 
 ## D: Professional Development
