@@ -22,7 +22,7 @@ I felt I was fairly involved in the community but really struggled with getting 
 
 ## A: End of Module Assessment
 
-| Category | Result (pass, fail, pending)
+| Category | Result 
 | ----- | --- |
 | Pairing Assessment | n/a |
 | Independent Timed Assessment | FAIL |
