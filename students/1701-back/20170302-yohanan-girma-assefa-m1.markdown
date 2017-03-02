@@ -6,15 +6,13 @@ Understand the foundations of Ruby.
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
 | Section | Category | Score |
 | --- | ----- | --- |
 | A | **End-of-Module Assessment** | 2 |
 | B | **Individual Projects** | 2 |
-| C | **Group Projects** | 1 |
-| D | **Professional Development** | 3 |
-| E | **Community** | 3 |
+| C | **Group Projects** | 2 |
+| D | **Professional Development** | 2 |
+| E | **Community** | 2 |
 
 
 ------------------------------------------------
@@ -23,19 +21,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category | Score |
 | ----- | --- |
+| **Pairing Assessment** | FAIL |
+| **Independent Timed Assessment** | FAIL |
 | **Written Diagnostic** | PASS |
-| **Timed Exercise** | FAIL |
-| **Ruby Syntax & API** | N/A |
-| **Completion and Progress** | N/A |
-| **Testing** | N/A |
-| **Workflow** | N/A |
-| **Collaboration** | N/A |
-| **Enumerable & Collections** | N/A |
-
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
 
 
 ## B: Individual Projects
@@ -44,10 +32,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/mastermind.markdown) |
 | **Github** | [link](https://github.com/yoasyo25/classwork-/blob/master/luhn_algorithm_3.rb) | [link](https://github.com/yoasyo25/Flashcards) | [link](https://github.com/yoasyo25/master_mind) |
-| **Functional Expectations** | 3 | 2 | X |
-| **Test-Driven Development** | N/A | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | 3 | X |
-| **Fundamental Ruby & Style** | 3 | 3 | X |
+| **Functional Expectations** | 3 | 2 | N/A |
+| **Test-Driven Development** | N/A | 3 | N/A |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 | N/A |
+| **Fundamental Ruby & Style** | 3 | 3 | N/A |
 | **Loop or Recursion** | N/A | N/A | N/A |
 
 
@@ -68,7 +56,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ### Define-the-Relationship (DTR)
 
-[Link](http://example.com) to DTR Memo from 1 paired project.
+Add DTR Memo from Night Writer project.
 
 ### Pair Feedback
 
@@ -95,22 +83,22 @@ Coming to Turing is a reflection of my belief in a growth mindset. I knew coding
 #### Session 2
 Getting Better at Difficult Things
 
-A certain degree of struggle and some level of failure is part of the process to getting better at difficult things. While it is difficult to see progress in the initial stages when we are trying to learn something new that does not come easily to us, having a "not yet" mindset can be helpful in allowing us to embrace the process and not focus overly on the outcome that we have yet to achieve. Being non-judgmental towards our learning process and not comparing ourselves to others are also useful in helping us get better at difficult things.
+A certain degree of struggle and some level of failure is part of the process to getting better at difficult things. While it is difficult to see progress in the initial stages when we are trying to learn something new that does not come easily to us, having a "not yet" mindset can be helpful in allowing us to embrace the process and not focus overly on the outcome that we have yet to achieve. Being non-judgmental towards our learning process and not comparing ourselves to others are also useful approaches to helping us get better at difficult things.
 
 #### Session 3
-Core Values
+Managing Stress
 
-While there are many values that drive me, some of those that stand out for me include that of working for the greater good (public service) and hard work.  
+While the Gear Up sessions have helped me become mindful of a growth mindset and think about different strategies to reduce stress, it's still very difficult for me to not feel so overwhelmed three weeks into Turing. I hope to be more mindful of how I relate to stress and plan to set aside time to destress and bring back some fun into my life. 
 
 #### Session 4
 Personal Stories
 
-I came to Turing because I was interested in a career that would allow me to develop technical skills and help me grow in a personal and professional manner.
+I came to Turing because I was interested in a career that would allow me to develop technical skills and help me grow in a personal and professional manner. I think this is a common theme for most of my cohort. We are all here to improve ourselves, learn new skills, and hopefully give back to the community. While there are many values that drive me, some of those that stand out include that of working for the greater good (public service) and a commitment to working hard work.
 
 #### Session 5
 Debugging the Gender Gap
 
-The tech industry has a significant problem when it comes to gender parity. While there are some efforts to address this gap, there is still a lot that needs to be done to ensure that the industry and educational institutions are taking constructive steps to address this significant gap. Turing is mindful of this gap and provides an inclusive environment for people with different backgrounds and identities.
+The tech industry has a significant problem when it comes to gender parity. I was even more surprised to learn just how significant the gender gap is. While there are some efforts to address this gap, there is still a lot that needs to be done to ensure that the industry and educational institutions are taking constructive steps to ensure that the industry is inclusive of people from different backgrounds and identities. I am appreciative of the fact that Turing is mindful of the diversity/inclusivity gap in the tech industry and actively seeks to bridge this gap.
 
 ### Community Participation
 
