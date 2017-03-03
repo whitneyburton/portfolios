@@ -149,7 +149,7 @@ a lot of low and high income jobs will be automated and obsolete. I believe UBI 
 ###### What's your reaction to hearing tech leaders like Elon Musk describe UBI as a "foregone conclusion"? 
 ^
 
-######Write a quick elevator pitch synthesizing what you've read from these articles: what is UBI, why is it entering policy debates, what do you think people should know about automation and its affect on our workforce? 
+###### Write a quick elevator pitch synthesizing what you've read from these articles: what is UBI, why is it entering policy debates, what do you think people should know about automation and its affect on our workforce? 
 UBI is a stop-gap solution to solve the impending unemployment crisis.
 
 ###### Do you think it's worthwhile to be educated about automation, its affect on our workforce, and policy solutions like UBI? What does it look like to be a responsible citizen in the face of such a large, inevitable transformation? Do you think you can really have an impact -- if not, why put energy into being informed?
@@ -160,21 +160,21 @@ I think we have to focus on a farther future, figure out what kind of governance
 
 *   [GitHub URL]()
 
-######How serious an impact do you think automation will have on our economy from now until you retire?
+###### How serious an impact do you think automation will have on our economy from now until you retire?
 it's going to take a massive effect within the next two decades
 
-######Where do you think you fall across the spectrum of people that will be affected by these changes?
+###### Where do you think you fall across the spectrum of people that will be affected by these changes?
 I will be affected later than most as an entrepreneur and developer. 
 
-######What do you think it means to be a responsible citizen around this issue?
+###### What do you think it means to be a responsible citizen around this issue?
 awareness is the first step. spread awareness.  
 
-######What role can Turing play in advancing civic responsibility in response to the challenges automation will bring?
+###### What role can Turing play in advancing civic responsibility in response to the challenges automation will bring?
 this is a tricky one. awareness is the first step. gear ups similar to this every few mods to make sure you cover the entire student body each churn is key. you can't teach responsibility but awareness helps. 
 
 
 ### Professional Development Workshops
-####Meg Deliverables
+#### Meg Deliverables
 
 [turing page] (https://www.turing.io/alumni/dan-grund)
 
@@ -226,8 +226,5 @@ I make people laugh and try to tell them that they know more than they think the
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
