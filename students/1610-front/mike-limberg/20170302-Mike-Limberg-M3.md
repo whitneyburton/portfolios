@@ -17,18 +17,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 -----------------------
 
 ## A: End of Module Assessment
-
-######Progression/Completion:
-* TBD
-
-######JavaScript Style
-* TBD
-
-######Workflow
-* TBD
-
-######Collaboration
-* TBD
+PASS
 
 ## B: Individual Work & Projects
 
@@ -277,8 +266,6 @@ I've had a few moments this mod where I feel like a real developer. My attempt t
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
