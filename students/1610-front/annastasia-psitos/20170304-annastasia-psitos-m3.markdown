@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to be more confident with my coding. Even though I spent most of the module thinking I was behind and didn't know what I was doing, the evals and tests I did at the beginning of this week made me feel a lot more confident in my ability.
 
 ## Rubric Scores
 
@@ -17,21 +17,21 @@
 ## A: End of Module Assessment
 
 UX/UI
-	- Replace find restaurant btuton with result - and  'regenerate' type of thing 
+	- Replace find restaurant btuton with result - and  'regenerate' type of thing
 	- Pick a font style consistancy
-	- Divs and relative position will make the font not opaque 
+	- Divs and relative position will make the font not opaque
 	- Button CSS
-	- Spinner/Waiting 
+	- Spinner/Waiting
 
 CODE
-	- If 20 bars - save that number, slice it out, keep regenerating from local array until 20 bars are done, THEN fire off new api call. 
-	
+	- If 20 bars - save that number, slice it out, keep regenerating from local array until 20 bars are done, THEN fire off new api call.
+
 TESTING
 	- check out boilerplate lesson and mod 2 testing hard stuff lesson
-	
+
 README
 	- Update readme to indicate that the project is in progress (to justify skipped tests and comments)
-	
+
 	### Feature Delivery
 
 **1. Completion**
@@ -87,7 +87,7 @@ Deliverables:
 This was a solo project to use React and API calls. I definitely struggled more than I feel I should have at this point, but I also did not ask for help as soon as I should have to help me progress.
 
 Student: Annastasia Psitos
-Notes: A bit light on the feature implementation as we ran into some bugs that prevented all the functionality from falling into place.  Good work trying to test the features and components that were in place, and solid effort on design though not 100% polished. 
+Notes: A bit light on the feature implementation as we ran into some bugs that prevented all the functionality from falling into place.  Good work trying to test the features and components that were in place, and solid effort on design though not 100% polished.
 
 #### Specification Adherence
 
@@ -168,7 +168,7 @@ This app will use the Google Places API to search for restaurants nearby, based 
 
 This app can be used by anyone who can occasionally be overcome by decision fatigue.
 
-###(Flower Exercise)[https://gist.github.com/apsitos/aa6269d0fbcbd3eab46af6ad4152f31d]
+###[Flower Exercise](https://gist.github.com/apsitos/aa6269d0fbcbd3eab46af6ad4152f31d)
 
 ### Gear Up
 #### (Session Name)
@@ -194,6 +194,16 @@ UBI isn’t a foregone conclusion, as there are large political hurdles to cross
 Staci was instrumental in helping me retake headshots so I could update all my personal sites and my alumni profile. I do not enjoy having my photo taken, but she was supportive and encouraging and I was very pleased with the results. She has also been excellent emotional support when I've been having difficulty with classwork and the stress seems to get to me.
 
 Bekah and I worked together on the weather redux project. She isn't afraid to try things when she doesn't know the answer and is also a good researcher. We only paired a few times on this project, but I enjoyed working with her. When I was having difficulties with our third team member she was encouraging of my dealing head on with the issue. My only suggestion to her would be to trust her own knowledge. Bekah knows quite a lot and is a very good programmer, but as with many of us, doesn't always trust that she knows what she knows.
+
+'My feedback is related to the Redux project we worked together on.
+
+I recognize that I started things off badly by having commitments that took me away from work the first two afternoons of work time, but I always tried to show up after that ready to work and collaborate. I was hoping we would stay late Tuesday night to work on things, but you (Sam) preferred to go home and do research. I should have done more on my own without reference to you or Bekah, but I have been on many teams, both professionally and in school, where people duplicate work because no one bothers to discuss what needs to be done until the work has been completed and I did not want to step on anyone’s toes. In retrospect, this was the wrong tack to take, and I apologize.
+
+When we all worked together and I did try to participate, you were dismissive of my answers, even when they were the right ones. This made me feel not valued or wanted, even though I wanted to be an active part of it. I had hoped that as the week went on and we divided up more work, I would be able to take a more active role on my own, but you always seemed to volunteer for the larger chunks. I do regret that I did not contribute to much of the codebase, I didn’t stand up for myself more, and as a result you did a majority of the work. I don’t know if you didn’t trust me to do the work or if you simply wanted to make sure you understood the process on your own, but it seemed to me that you wanted that control.
+
+I think my largest piece of feedback is to actually listen to all members of the group and encourage participation, even if you think they have nothing to contribute. They might surprise you.'
+
+I was really glad to work with you (Jeff) on this project. It was very helpful to work with someone else who prefers to pair and someone who is much better at handling stress than I am. I have a tendency to take things too seriously and to internalize a lot of stress, but working with you helped me feel less stressed about the project, even when things weren’t working correctly. I was also glad to work with someone whose outside life is also busy; it meant we were very focused when we worked together and we were both happy to make accommodations for each other’s schedule. We worked very well together and I look forward to working with you again in the future!
 
 ### Being a Community Member
 
@@ -227,7 +237,7 @@ Anna was an amazing support to me in Mod-1 and continues to be throughout the pr
 
 ### Notes
 
-- Recognizing black holes and working to avoid them/reflect on if it's worth your time. 
+- Recognizing black holes and working to avoid them/reflect on if it's worth your time.
 - DTR
 - Thinking about job scenario during coding - if you were in a job environment when would you cut bait and work on a different feature or bit off a smaller chunk?
 

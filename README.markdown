@@ -50,10 +50,33 @@ Your completed portfolio is comprised of the following required material:
   * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
   * Feedback: Paragraph; Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+* Individual Assessment: Passing Score (All 3's) required
+* Required Project: ToDo Box Pivot, Shoot the Breeze, FireBae (Tier Two) -- scores should all be passing (All 3's) or show gradual improvement
+* Included Projects:
+ * Weatherly
+* Professional Development:
+  * Copy for a personal website
+  * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
+  * Seven cold emails sent to seven different contacts from the company tracker
+  * Reflection on project management strategies used in projects: What went well? What didn’t go well?
+  * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
+* Community:
+  * A recap of reflections from Gear Up
+* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+  * Required feedback from at least one student outside of your cohort who you have paired with (Mod 1 student, back end student) AND/OR a mentor.  
+=======
+=======
+>>>>>>> 2dd6346665f23578ead5e4a275bd423150927934
 * Community:
   * A recap of reflections from Gear Up
 
 You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of those evaluations and in advance of portfolio reviews.
+<<<<<<< HEAD
+>>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
+=======
+>>>>>>> 2dd6346665f23578ead5e4a275bd423150927934
 
 ### Module 2 (Back-end)
 

@@ -24,11 +24,11 @@ Workflow
 Collaboration
 - 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
+
 ## B: Individual Work & Projects
 
-(Intro)
-
 #### Number Guesser
+
 
 * [GitHub URL](https://github.com/apsitos/NumberGuesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser-in-react.html)
@@ -38,6 +38,7 @@ Collaboration
 #### Comments:
 
 #### Rubric
+
 
 #### Functional Expectations
 
@@ -61,6 +62,7 @@ Collaboration
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot)
 
 #### Comments:
+
 - solid project
 - could use some refactoring and changing the for loops to a filter
 - look into changing switch statement to object or array.
@@ -233,6 +235,8 @@ I hope Sam gives a Spike session on Scrum! I think it would be very interesting 
 
 #### Feedback/Triggers
 
+* This was a very interesting session. I think it helped to be able to recognize the kinds of triggers we might be feeling and the reasons behind them. I  will be re-reading the article over break to try and better comprehend them.
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
@@ -259,6 +263,7 @@ I worked with Anna on our first project, ToDo Box Pivot, and I thought it was a 
 
 The thing I found most helpful about pairing with you was how you helped me slow down and break things into smaller chunks. You really kept me from getting ahead of myself. - Julian Kyer (1611)
 
+
 ### Playing a Part
 
 Member of SAB, paired with some Mod 1 people
@@ -276,9 +281,12 @@ Grit - An interesting investigation. I know I have grit and resilience, though, 
 ## Final Review
 
 ### Notes
+
+### Outcome
+
 Build new features on a project, write stories - when the story is complete, run your linter, check your tests, refactor, commit - and repeat. Do exercisms and then compare your answer to 3 to 5 others.
 
-Do more reps, it's always good. 
+Do more reps, it's always good.
 
 ### Outcome
 
