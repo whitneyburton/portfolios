@@ -18,7 +18,6 @@
 
 (Notes & scores from your assessment rubric)
 
-
 ## B: Individual Work & Projects
 
 (Intro)
