@@ -41,11 +41,42 @@ A rough interactive prototype of the application can be found at the link below.
 
 https://invis.io/VJ9VWH3SG#/212448806_Login_Screen
 
-(evaluation comments)
+#### Personal Project Eval
 
-(evaluation scores)
+##### Student: Ian
+##### Evaluator: Brittany
 
-## C: Group Work & Projects
+##### Feature Delivery
+
+###### 1. Completion
+
+4: Developer completed all the user stories and requirements set in check-ins in timely manner.
+
+###### 2. Organization
+
+3: Developer used a project management tool to keep their project organized.
+
+##### Technical Quality
+
+###### 1. Test-Driven Development
+
+3: Project shows adequate testing (90% - 95% coverage).
+
+###### 2. Code Quality
+
+3: Project demonstrates solid code quality, proper abstractions, and reduced duplication.
+
+##### Product Experience
+
+###### 1. User Experience
+
+4: Project exhibits a production-ready and polished UX.
+
+###### 2. Performance
+
+4: Project pages load on average under 300 milliseconds.
+
+##### C: Group Work & Projects
 
 ### Projects
 
@@ -89,7 +120,11 @@ Working with Ian on our first project was great. We had already familiarized wit
 
 From Maia:
 
-Working with Ian on our Weather App was great!  He had more experience writing Redux than the rest of us, and he did a great job at letting us drive, while gently steering us in the right direction. In hindsight, it would have been great if he had taken more time to pair with each of us individually on this project, because I certainly benefitted from his solid understanding of the code base and his help getting additional tests to pass.  I'm constantly amazing at how quickly Ian picks things up and how hard he works (seemingly effortlessly) to become a great developer.  I would be happy to work with Ian anytime.  
+Working with Ian on our Weather App was great!  He had more experience writing Redux than the rest of us, and he did a great job at letting us drive, while gently steering us in the right direction. In hindsight, it would have been great if he had taken more time to pair with each of us individually on this project, because I certainly benefitted from his solid understanding of the code base and his help getting additional tests to pass.  I'm constantly amazing at how quickly Ian picks things up and how hard he works (seemingly effortlessly) to become a great developer.  I would be happy to work with Ian anytime.
+
+From Kristen:
+
+Ian was a tremendous asset for our group on the Weather Tracker project. He had a much stronger command of Redux going into this project than the rest of us, but he certainly did not let us use him as a crutch during the project. Ian really proved himself to be an excellent teacher in this project, and I was really impressed with how he would often guide us to an answer as opposed to just giving it to us. When he would explain difficult concepts to us, he was able to do so very effectively. Whether that meant walking through console errors or drawing out a picture, he made sure that all of us were on the same page throughout our Redux struggle. Thank you so much, Ian, and I hope we can work together again in Mod 4! 
 
 #### Reminders
 * [GitHub URL](https://github.com/kswhyte/weather-tracker/)
