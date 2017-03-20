@@ -76,7 +76,7 @@ Feature Delivery
 
 Completion
 
-    4: Project completes all base requirements according to the spec harness.
+   4: Project completes all base requirements according to the spec harness.
 
 Technical Quality
 
