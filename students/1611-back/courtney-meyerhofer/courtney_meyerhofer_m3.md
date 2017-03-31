@@ -25,6 +25,56 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 (Intro)
 
+
+#### Apicurious - Reddit
+
+* [GitHub URL](https://github.com/meyerhoferc/apicurious)
+* [Original Assignment](http://backend.turing.io/module3/projects/apicurious)
+
+This project was an opportunity to explore consuming an external API. Using the Reddit API, a user can:
+   * sign in with their Reddit account 
+   * view their account details
+   * view a list of the subreddits they are subscribbed to
+   * view posts on the subreddit they are subscribed to
+   * view nested comments for posts
+
+**Evaluation Notes**
+
+Testing
+* overall well tested
+* opportunity to stub out more for feature and model tests
+* VCR should probably only be used explicitly for request tests
+
+User Experience
+* solid, simple design but not production - client ready quality
+
+Code Quality
+* great use of POROs and services
+* some repetition exists in using the same URL a few times in the RedditService
+
+**Feature Delivery**
+Completion
+
+3: Developer delivered all planned features.
+
+Organization
+
+4: Developer used a project management tool and updated their progress in real-time.
+Technical Quality
+
+**Test-Driven Development**
+
+4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+
+**Code Quality**
+
+4: Project demonstrates exceptionally well factored code.
+Product Experience
+
+**User Experience**
+
+3.5: The application is a logical and easy to use implementation of the target application 3.5: The application covers many interactions of the target application, but has a few holes in lesser-used functionality
+
 #### (Project Name)
 
 * [GitHub URL]()
