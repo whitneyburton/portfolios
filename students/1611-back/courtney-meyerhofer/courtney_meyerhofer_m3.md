@@ -164,8 +164,10 @@ Queries
 ### Gear Up
 #### Microaggressions
 
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
+* [GearUp URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
 
+#### Grit
+* [GearUp URL](https://docs.google.com/document/d/1QNUH48NK-QT38cSkNJmxJ19GGiYjRT6vc_dJV1RJi1Y/edit)
 
 
 ### Professional Development Workshops
