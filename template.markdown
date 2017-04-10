@@ -16,7 +16,7 @@
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+(Indicate whether you passed or failed the end of module assessment)
 
 
 ## B: Individual Work & Projects
@@ -63,24 +63,7 @@
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-
-### Professional Development Workshops
-#### (Session Name)
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
-
-## E: Feedback and Community Participation
-
-### Giving Feedback
-
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
+## E: Community Participation
 
 ### Playing a Part
 
