@@ -87,7 +87,7 @@ With regard to opportunities to improve, I think it applies to both of us, we we
 
 ### Job Prep
 
-*  [LinkedIn profile]()
+*  [LinkedIn profile](https://www.linkedin.com/in/nataliacolome/)
 
 ## E: Community
 
