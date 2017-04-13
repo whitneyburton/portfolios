@@ -27,7 +27,7 @@ I wanted to go deeper into a programming language and create more complex progra
 #### Credit Check
 
 * [GitHub URL](https://github.com/squeemishly/homework/blob/master/credit_check.rb)
-* [Original Assignment]()
+* [Original Assignment](http://backend.turing.io/module1/projects/credit_check)
 
 (description)
 
