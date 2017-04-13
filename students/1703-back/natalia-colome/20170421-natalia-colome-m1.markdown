@@ -64,7 +64,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Feedback from partner projects.
 
-#### Project 1 (Partner Name):
+#### Project 1 (Chris Smith):
 
 **Feedback for Chris:**
 
@@ -75,13 +75,13 @@ With regard to opportunities to improve, I think it applies to both of us, we we
 
 > Natalia was great to work with.  She had a strong understanding of the Ruby methods and code organization we needed to complete this project.  We worked well as a team and were able to clearly talk through any challenges we came across.  Upon reflection, one of the things I think we both agree we could have done better is be more skeptical and/or play devil’s advocate. This would have helped us catch holes in our testing/logic.  Since used the driver/navigator style for the project, we didn’t get as much of a chance to practice our Git branching and pull requests or to do code presentations/reviews.  I look forward to working with Natalia again.
 
-#### Project 2 (Partner Name):
+#### Project 2 (Charlie Corrigan):
 
-**Feedback for ___________:**
+**Feedback for Charlie:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**Feedback from ___________:**
+**Feedback from Charlie:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
