@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# squee mueller - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I wanted to go deeper into a programming language and create more complex programs than I have in the past. I wanted to be introduced to concepts and styles I hadn't worked with before or hadn't had a reason to explore in greater depth. I wanted big projects that would push me to practice the skills I was learning. I really wanted to start to find my place in the Turing community and start to develop relationships with the other students in the school.
 
 ## Rubric Scores
 
@@ -22,6 +22,18 @@
 ## B: Individual Work & Projects
 
 (Intro)
+
+
+#### Credit Check
+
+* [GitHub URL](https://github.com/squeemishly/homework/blob/master/credit_check.rb)
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
 
 #### (Project Name)
 
