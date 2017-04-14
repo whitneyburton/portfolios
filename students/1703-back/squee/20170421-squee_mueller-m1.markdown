@@ -118,20 +118,54 @@ Build a REPL version of Battleship.
 
 ### Projects
 
-(Intro)
+#### Enigma
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/squeemishly/enigmatic)
+* [Original Assignment](http://backend.turing.io/module1/projects/enigma)
 
 (description)
+Create a tool for encrypting and decrpyting messages. Add in a crack feature if there's time.
+
+(evaluation comments)
+- 45 tests, 15 failing
+- Great use of modules
+- look into how to use constants to store information that does not change
+- logic broken up well
+- application does not run
+
+(evaluation scores)
+1. Fundamental Ruby & Style
+- 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+2. Test-Driven Development
+- 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
+
+3. Breaking Logic into Components
+- 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+4. Overall Functionality
+- 1: Application is missing two operations or crashes during normal usage
+
+(feedback to me)
+### Haven't gotten it yet...
+
+
+#### Headcount
+
+* [GitHub URL](https://github.com/dianawhalen/headcount)
+* [Original Assignment](http://backend.turing.io/module1/projects/headcount)
+
+(description)
+Use Ruby to parse through a bunch of CSV files to discover the correlation of statistics around students in Denver area school districts.
 
 (evaluation comments)
 
+
 (evaluation scores)
 
+
 (feedback to me)
+
 
 ## D: Professional Skills
 (Intro)
