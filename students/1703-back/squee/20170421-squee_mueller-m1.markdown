@@ -21,8 +21,6 @@ I wanted to go deeper into a programming language and create more complex progra
 
 ## B: Individual Work & Projects
 
-(Intro)
-
 
 #### Credit Check
 
@@ -80,16 +78,41 @@ Use a linked list to make a pseudo drum machine on your computer.
 5. Looping or Recursion:
 - 4: Application makes excellent use of loop/recursion techniques
 
-#### (Project Name)
+#### Battleship
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/squeemishly/battleship)
+* [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
 (description)
+Build a REPL version of Battleship. 
 
 (evaluation comments)
+- Application does not run, has many disparate pieces, but not connected.
+- Overall, well written and clean.
+- Get around wrangling complex conditionals with predicate methods
+- Would like to have seen user feedback pulled out into a module
 
 (evaluation scores)
+1. Fundamental Ruby & Style
+- 3: Application shows strong effort towards organization, content, and refactoring
+
+2. Enumerable & Collections
+- 3: Application demonstrates comfortable use of several Enumerable techniques
+
+3. Test-Driven Development
+- 3: Application is well tested but does not balance isolation and integration tests
+
+4. Git Workflow
+- PASS: Developer demonstrates mastery of git and GitHub; commits with appropriate frequency, with clear, atomic commits that demonstrates a clear history.
+
+5. REPL Interface
+- 3: Application's REPL is clear and pleasant to use
+
+6. Breaking Logic into Components
+- 3: Application effectively breaks logical components apart with clear intent and usage
+
+7. Functional Expectations
+- 2: Application runs, but does not work properly, or does not meet specifications.
 
 ## C: Group Work & Projects
 
