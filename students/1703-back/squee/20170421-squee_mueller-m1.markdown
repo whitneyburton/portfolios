@@ -65,20 +65,20 @@ Use a linked list to make a pseudo drum machine on your computer.
 - start with no access and then add reader and accessor as necessary
 
 (evaluation scores)
-1. Functional Expectations
-3: Application fulfills all base expectations
+1. Functional Expectations:
+- 3: Application fulfills all base expectations
 
-2. Test-Driven Development
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+2. Test-Driven Development:
+- 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-3. Encapsulation / Breaking Logic into Components
-3: Application effectively breaks logical components apart but breaks the principle of SRP
+3. Encapsulation / Breaking Logic into Components: 
+- 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-4. Fundamental Ruby & Styled
-4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+4. Fundamental Ruby & Styled:
+- 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-5. Looping or Recursion
-4: Application makes excellent use of loop/recursion techniques
+5. Looping or Recursion:
+- 4: Application makes excellent use of loop/recursion techniques
 
 #### (Project Name)
 
