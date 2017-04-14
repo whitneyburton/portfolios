@@ -169,17 +169,50 @@ Use Ruby to parse through a bunch of CSV files to discover the correlation of st
 
 ## D: Professional Skills
 (Intro)
+DTR from Enigma: https://gist.github.com/squeemishly/60eb14a0dcb2aed06982e93168df6a04
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
 * [GitHub URL]()
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
+#### Define the Relationship
+
+* [GitHub URL]()
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Working Styles
+
+* [GitHub URL]()
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Strengths and Storytelling
+
+* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_and_storytelling.md)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Strengths Finder Reflection
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### Learning to Pair
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### Feedback
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
