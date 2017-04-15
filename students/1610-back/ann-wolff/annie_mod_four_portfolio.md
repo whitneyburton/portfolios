@@ -83,6 +83,10 @@ Originally proposed by Lucy, this project was meant to improve Allison's ability
 
 ## Feedback & Community
 
+This module, I again served as an SAB representative. It was sometimes frustrating but always rewarding. We made some active plans to address problems in the community this module and planned a fun event at View House for Final Friday.
+
+I also helped to faciliate a Gear Up session on automation with some fellow Mod4 students. We planned the session over a few weeks and led during Week 5. I think that having students lead Gear Up is a good way to encourage participation. I also think that having a smaller group encouraged everyone to share their thoughts and led to a better discussion. Overall, I had a positive experience and would be excited to see this idea continue.
+
 ------------------
 
 ## Final Review
