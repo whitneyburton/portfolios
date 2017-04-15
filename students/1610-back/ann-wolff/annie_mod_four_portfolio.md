@@ -29,6 +29,15 @@ This was an extension of the week-one Quantified Self project. We built an API t
 
 (evaluation scores)
 
+#### Open Source Contribution
+
+* [Code Contribution GitHub URL](https://github.com/codefordenver/Circular/pull/66)
+* [Documentation Contribution GitHub URL](https://github.com/codefordenver/Circular/pull/69)
+* [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
+* [Blog Post](https://gist.github.com/wlffann/500a65ad83207f9541bffcad80604389)
+
+For my open source contribution, I attended Code for Denver meetups and worked on their Denver Re:Imagine Project. Its an app to allow residents of a building to create a campaign to request recyling. I worked on a feature for the home page that allows users to search for their apartment in the database and see a prompt to create a new if a campaign does not exsist yet.
+
 ## Group Work
 
 #### Quantified Self
