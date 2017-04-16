@@ -41,10 +41,10 @@ Your promotion to the next module is based upon a summative assessment coined th
 Your completed portfolio is also comprised of the following required material:
 
 * Course Projects:
- * Number Guesser
- * Linked List or Foto Finder
- * Idea Box
- * 2DoBox Pivot
+  * Number Guesser
+  * Linked List or Foto Finder
+  * Idea Box
+  * 2DoBox Pivot
 
 * Professional Development:
   * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
