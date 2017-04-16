@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-For my last module at Turing, I want to take my foundational skills to the next level. Specifically, I want to develop a capacity to consider production level factors like scalability and efficiency when developing software. 
+For my last module at Turing, I want to take my foundational skills to the next level. Specifically, I want to develop a capacity to consider production level factors like scalability and efficiency when developing software.
 
 I will dive deep into JavaScript and be able to speak to its advantages and disadvantages, and how it compares to Ruby.
 
@@ -144,7 +144,7 @@ From Robbie Smith: I enjoyed working with Schutte on part one of the Quantified 
 
 ## D: Professional Skills (Intro)
 
-### Gear Up 
+### Gear Up
 
 #### Automation Planning Part 1
 
