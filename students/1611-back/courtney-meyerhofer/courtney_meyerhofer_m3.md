@@ -223,15 +223,6 @@ Project demonstrates well-factored code and a solid grasp of MVC principles.
 #### Grit
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
-
-### Professional Development Workshops
-#### (Session Name)
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
-
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
