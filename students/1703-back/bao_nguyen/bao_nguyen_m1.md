@@ -26,7 +26,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | x |
+| Pairing Assessment | PASS |
 | Independent Timed Assessment | x |
 | Diagnostic | x |
 
@@ -102,29 +102,52 @@ First, I want to thank you for being an excellent partner. In my opinion it was 
 
 ### Gear Up
 
-#### Session 1: ___________
+#### Session 1: Growth Mindset
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Several months before I came to Turing, I probably had about a 80-90% fixed mindset. When I started learning programming on
+my own, I found that the mindset was holding me back. I often hit a wall and started to think that I was not able to learn
+and be successful in this field. Some time afterward, I remembered something about sports psychology. I started reading
+personal development books and I found that my mindset began to change. This gear up is a great continuation of my 
+personal development. I find that I am much happier now, with a more resilient mind. In turn, my performance has also 
+improved (in terms of programming).
 
-#### Session 2: ___________
+#### Session 2: Getting Better at Difficult Things
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This was not the first time I saw this video. I saw it for the first time several months ago when I was looking for talks to 
+motivate my programming. Today, I do my best to get up and get going so that I can save my cognitive stores for the most
+difficult task for the day. I enjoy the programming in the morning, and I find that my mind is always fresh from 7 - 11am. I 
+also am on the look out for things that create cognitive leaks. I 'automate' as much decision making as I can, as even those
+can start to drain my ability to think and reason.
 
-#### Session 3: ______________
+#### Session 3: Introvert vs Extrovert
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I definitely consider myself an introvert. I do enjoy being around people and I am bored when I am by myself for too long.
+However, I get my energy from being alone. That is a challenge when it comes to pair programming. I feel that I am only able
+to pair for a few hours before I need to recharge with my own thoughts. This can also work out by programming for a little bit
+on my own during the project, and sharing it later.
 
-#### Session 4: _____________
+#### Session 4: Strengths and Storytelling
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is definitely a weakspot for me. I am not a great storyteller and I understand the importance of it. I will continue to
+work on my 'story' so that people have a interest and understand why I want to be a software engineer. There are several
+aspects to that story but it all comes from my experience for the last 10 years. Working long hours, low pay, and not finding
+the work flexibility to enjoy life outside of work has all driven me to this moment.
 
-#### Session 5: ________________
+#### Session 5: Debugging the Gender Gap
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is my favorite gear up of the mod. I have not watched the video before but I understand the challenges that face women
+in the tech industry. I certainly don't think that men have the inate ability to be better at engineering and I don't
+like the "boys club" culture that exists in workplaces like Uber. I think that diversity and women in the engineering teams,
+will make for a better product/ result. I think going forward, I will do my best to ensure that women get equal offers for
+not only work, but pay as well. I do strive to become a senior engineer in just the next two years, and I will leverage my
+position to debug the gender problem in tech.
 
 ### Community Participation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I went to a few different spikes to find something to like. I enjoy the Woz Poz because I like learning more about data
+structures and algorithms. I also attended Josh Thompson's spike on natural networking, which I found to be awesome. I hope to
+start meeting people in the tech industry, starting in these next few weeks which will help my job hunt later in the year. Lastly, I do my best to join my cohort mates and a few others in the Turing community (such as the TAAAP dinner) because it is
+awesome to have this community.
 
 -------------------------------------------------------------
 
