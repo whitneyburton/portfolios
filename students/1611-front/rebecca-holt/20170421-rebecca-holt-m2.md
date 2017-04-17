@@ -140,6 +140,8 @@ Movie Tracker was our first project using Router and Redux. It was my first proj
 
 * I think we worked great together. We had very similar workflows and paces. We both have the tendency to have great ideas and run with it if it works and discard it if it doesn't. You don't try to force things to work - you just erase it and do it better. The individual parts of the project that you took the reins on, you did really well in. You're a stickler for syntax and clean code and I highly respect that. 
 
+* Staci is a great partner to work with. She is a great communicator and has great work ethic. She pays attention to the details which was really helpful when learning a new framework. She was really strong in finding the information we needed in the Ember docs and had a lot a patience of it.
+
 
 ### Being a Community Member
 
@@ -152,7 +154,7 @@ Movie Tracker was our first project using Router and Redux. It was my first proj
 
 ### Gear Up
 
-(reflect on your Gear Up sessions following the below example)
+This module, we had Gear Ups on Automation, Grit and Microagressions. The grit gear up was the same as the one we had on grit in module one. I enjoyed the grit gear-up the first time and it was enjoyable to see how my mindset has changed since then. We have grown so much as students since module one. The microaggressions gear-up was one of my favorites, 
 
 ------------------
 
