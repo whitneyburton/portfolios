@@ -139,7 +139,6 @@ Movie Tracker was our first project using Router and Redux. It was my first proj
 ### Giving Feedback
 
 * I think we worked great together. We had very similar workflows and paces. We both have the tendency to have great ideas and run with it if it works and discard it if it doesn't. You don't try to force things to work - you just erase it and do it better. The individual parts of the project that you took the reins on, you did really well in. You're a stickler for syntax and clean code and I highly respect that. 
-
 * Staci is a great partner to work with. She is a great communicator and has great work ethic. She pays attention to the details which was really helpful when learning a new framework. She was really strong in finding the information we needed in the Ember docs and had a lot a patience of it.
 
 
@@ -147,6 +146,7 @@ Movie Tracker was our first project using Router and Redux. It was my first proj
 
 * I enjoyed working with you. You were flexible about dividing tasks, and I liked how much pair programming we did.
 * It was fantastic working with you. I feel like our pacing was great and we played off each other very well. I look forward to working with you again.
+* I have worked with Becca numerous times now. She is a fantastic partner to work with. She is focused and extremely driven. She is also a great problem solver and is never afraid to throw ideas out there. Another of her strengths is that she asks concise questions and communicates and collaborates very well. She is not afraid to put in the hard work and time while remaining very adaptable.  I look forward to working with Becca again in the future!
 
 ### Playing a Part
 
