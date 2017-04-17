@@ -176,7 +176,14 @@ DTR from Enigma: https://gist.github.com/squeemishly/60eb14a0dcb2aed06982e93168d
 
 * [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+write some shit in here
+
+#### Getting Better at Difficult Things
+
+* [GitHub URL]()
+
+write some shit in here
+
 
 #### Define the Relationship
 
@@ -196,6 +203,11 @@ DTR from Enigma: https://gist.github.com/squeemishly/60eb14a0dcb2aed06982e93168d
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
+#### Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 ### Professional Development Workshops
 #### Strengths Finder Reflection
@@ -213,6 +225,13 @@ DTR from Enigma: https://gist.github.com/squeemishly/60eb14a0dcb2aed06982e93168d
 (takeaways from session)
 
 #### Feedback
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
+
+#### Developer Identity
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
