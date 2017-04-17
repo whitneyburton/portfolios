@@ -147,16 +147,70 @@ Queries
    4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 
-#### (Project Name)
+#### Cloney Island: CloneBnB
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/janderson16/CloneBnB)
+* [Original Assignment](http://backend.turing.io/module3/projects/cloney_island/cloney_island)
 
-(description)
+CloneBnB is a clone of AirBnB that allows a user to create an account, create and manage their trips, manage their properties, message other users. CloneBnB also exposes an API for record retrieval and analysis.
 
-(evaluation comments)
+**Evaluation Notes**
 
-(evaluation scores)
+Organization:
+* waffle well organized
+* comments used for communication
+
+User Experience:
+* reviews not shown on admin listing page
+* link to my dashboard for admin/dashboard
+* some small stylistic problems
+
+Host dashboard thoughts:
+* be able to message the person who has made a reservation
+* link to that reservation
+
+Git Workflow:
+* decent amount of code review, some opportunity for more indepth conversation
+
+Test Quality:
+* great testing, use of stubbing present
+* high test coverage
+
+**Evaluation**
+Completion
+
+Client Expectations
+
+Team completed all the user stories and requirements set by the client.
+        4: Better than expected
+
+User Experience
+
+Project exhibits a production-ready user experience.
+        3: As expected
+
+Organization
+
+Team used a project management tool to keep their project organized.
+        3: As expected
+
+Technical Evaluation
+
+Git Workflow
+
+Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+        3: As expected
+
+Test Quality
+
+Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+        4: Better than expected
+
+Code Quality
+
+Project demonstrates well-factored code and a solid grasp of MVC principles.
+        4: Better than expected
+
 
 ## D: Professional Skills
 (Intro)
