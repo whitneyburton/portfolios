@@ -1,16 +1,8 @@
-Individual Assessment
-Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
-Bonus Project (not required): None
-Feedback: Self-Solicited and collected from Weather Forecast and Remember
-Community:
-A recap of reflections from Gear Up
-
-
 # Rebecca Holt  - M3 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+In module three, I wanted to focus on getting comfortable with React and Redux. After working on all of the projects this module, I feel most comfortable with React but feel confident in my Redux skills with use of the docs - I still get tripped up on some of the syntax but am getting more comfortable with every project. This module, I can see the larger picture of what we are learning at Turing and can see all of the knowledge I've gained come together. 
 
 ## Rubric Scores
 
@@ -77,7 +69,6 @@ Headcount 2.0 was our second project in React.js. It was meant to help us with o
 * 4 - Every component is tested from both a unit and acceptance standpoint, all crucial functionality is tested
 * 3 - Almost all components are tested to a level that indicates developer has an understanding of testing
 
-(feedback to me)
 
 #### Swapi 
 
@@ -107,8 +98,6 @@ Swapi box was a project that allowed us to have a complex application in React i
 
 * 3 - Almost all components are tested to a level that indicates developer has an understanding of testing
 
-
-(feedback to me)
 
 #### Movie Tracker 
 
@@ -144,14 +133,13 @@ Movie Tracker was our first project using Router and Redux. It was my first proj
 
 * 4: The group effectively uses different Git branches, submits pull requests and reviews each other’s code. The evolution of the application and who was responsible for what features is clearly documented through github.
 
-(feedback to me)
-
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+* I think we worked great together. We had very similar workflows and paces. We both have the tendency to have great ideas and run with it if it works and discard it if it doesn't. You don't try to force things to work - you just erase it and do it better. The individual parts of the project that you took the reins on, you did really well in. You're a stickler for syntax and clean code and I highly respect that. 
+
 
 ### Being a Community Member
 
