@@ -55,19 +55,19 @@ Headcount 2.0 was our second project in React.js. It was meant to help us with o
 - Tests: 35 Total Tests   
 
 #### Specification Adherence
-* 3 - The application completes 5 iterations.
+* 3: The application completes 5 iterations.
 
 #### Code Quality
-* 3 - Developer appears comfortable in React demonstrated gaps in knowledge of how the tools should be used and/or the app contains unrefactored code.
+* 3: Developer appears comfortable in React demonstrated gaps in knowledge of how the tools should be used and/or the app contains unrefactored code.
 
 #### CSS/Design
-* 4 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has minimal recommendations for design changes.
+* 4: Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has minimal recommendations for design changes.
 
 #### Testing
-* 3.5 - Combo of both.
+* 3.5: Combo of both.
 
-* 4 - Every component is tested from both a unit and acceptance standpoint, all crucial functionality is tested
-* 3 - Almost all components are tested to a level that indicates developer has an understanding of testing
+* 4: Every component is tested from both a unit and acceptance standpoint, all crucial functionality is tested
+* 3: Almost all components are tested to a level that indicates developer has an understanding of testing
 
 
 #### Swapi 
@@ -84,19 +84,19 @@ Swapi box was a project that allowed us to have a complex application in React i
 
 #### Specification Adherence
 
-* 2 - The application is in a usable state, but is missing some of the features outlined in the specification above.
+* 2: The application is in a usable state, but is missing some of the features outlined in the specification above.
 
 #### Code Quality
 
-* 3 - Developer appears comfortable in React. There are minor opportunities to refactor.
+* 3: Developer appears comfortable in React. There are minor opportunities to refactor.
 
 #### Design
 
-* 3 - Some changes requested by evaluator.
+* 3: Some changes requested by evaluator.
 
 #### Testing
 
-* 3 - Almost all components are tested to a level that indicates developer has an understanding of testing
+* 3: Almost all components are tested to a level that indicates developer has an understanding of testing
 
 
 #### Movie Tracker 
