@@ -1,8 +1,10 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Jason Collins - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+What did you set out to accomplish this module?
+
+_I set out to accomplish getting my developer legs underneath me, again. Having been a developer years and years ago, I knew that I would need to get back into that mindset, where the work that gets done is while sitting at a computer rather than sitting in a meeting. I also really wanted to re-ignite that fire to create things again. It's something I have felt was very much missing from my professional life over the past 10 years or so. I think that goal was a big success, as I find myself thinking about all the things I want to build now with this new knowledge I have._
 
 ## Rubric Scores
 
