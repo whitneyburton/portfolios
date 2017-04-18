@@ -10,17 +10,53 @@ I will also keep the job hustle strong throughout the mod. I have a Mod 4 plan t
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+## Rubric
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+### 1. Satisfactory Progress
+
+* **3: Developer completes sections 1 through 5 minor bugs and no missing functionality.**
+
+### 2. Ruby & Rails Style & API
+
+* **4: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+_Nice job pushing logic down the stack. The scoping and advanced use of activerecord is really good_
+
+### 3. Javascript Syntax & Style
+
+* **3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+_One long file, could be refactored into smaller files_
+
+### 4. Testing
+
+* **4: Developer excels at taking small steps and using the tests for *both* design and verification. Developer uses integration tests, controller tests, and model tests where appropriate.**
+
+_SMASHED testing. Lots of coverage. Nice work._
+
+### 5. User Interface
+
+* **3: The application has many strong pages/interactions, but a few holes in lesser-used functionality**
+
+_Interface is fine. The flash messages could be more clear and in color_
+
+### 6. Workflow
+
+* **3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.**
+
+_Normal/Good number of commits, would like to see more branching_
 
 ## Independent Work
 
@@ -33,7 +69,7 @@ I had three PRs (
   [here](https://github.com/boulder-food-rescue/food-rescue-robot/commit/60589cfcda9ce6cb2a059d8349ef9cca8befb71a),
   and [here](https://github.com/boulder-food-rescue/food-rescue-robot/commit/632dc7b1a750cc62bfcedc484e5b4c1efd81674d)
 ).
-The first two involved resolving Rubocop violations. The third one was a new feature spec that documents a key piece of the app's functionality. It literally got merged while I started writing this section (4/15/17)!
+The first two involved resolving Rubocop violations. The third one was a new feature spec that documents a key piece of the app's functionality (a volunteer viewing available shifts on their dashboard). It literally got merged while I started writing this section (4/15/17)!
 
 ### Quantified Self Pt. 2
 
@@ -41,6 +77,20 @@ The first two involved resolving Rubocop violations. The third one was a new fea
 * [Original Assignment](http://backend.turing.io/module4/projects/quantified-self/quantified-self-back-end)
 
 For this continuation part of the project, Robbie and I decided to part ways and work alone. I built API endpoints for foods that can be used by the client-side application from Part 1 (see below). I had a lot of fun learning how server-side apps work under the hood, as the Node-Express process revealed a lot about what Rails does 'for free'.
+
+#### Evaluation
+
+Notes:
+
+- Nice code organization in your API.
+  We could have a conversation about some of the decisions you made,
+  but that means you're at the level where you can discuss tradeoffs.
+- I see a couple places (front-end and back-end) where you could use promise chaining to split it up more, but we didn't talk much about that.
+- Could also simplify your RouteLister export. Since you're only exporting one thing, it doesn't need to be an object that gets exported.
+
+As for more about API design, status codes and the like, the REST standard is still king.
+It has opinions on how to use the existing HTTP verbs and status codes to achieve an API thats easy to use and document.
+I still haven't gotten around to reading [his ebook](https://leanpub.com/restful-api-design) (Turing owns a copy), but I saw Keith Casey give a talk about RESTful API design, and it got me really excited about APIs. So the content is out there if you'd like to educate yourself.
 
 ## Group Work
 
@@ -71,7 +121,6 @@ Evaluation Notes:
   you got this week. You're in a great place to continue mastering JavaScript.
   I'm assuming with the low Spec Adherence score, you'd just like to take the
   points there.
-
 
 ### Rubric
 
@@ -126,12 +175,14 @@ Teammates: Ethan Bennett, David Knott, Nick Erhardt
 * [React client](https://github.com/tmikeschu/sourcery-client)
 * [Production](http://sourcery-client.herokuapp.com/message)
 
+Sourcery is a three-app ecosystem used for tracking agricultural products. Proof of origin is a construct very vulnerable to fraud, so we decided to address that problem with an immutable database: the blockchain. Storing transactions on the Ethereum Blockchain using contracts built in the Solidity language, we store information related to those transactions on a Rails API, and bring all that information together with a single page React application, on which users can search for lots, create checkpoints for a lot, and create a lot for a product.
+
 Originally, I thought our capstone project would be some cool and complex Rails app that really demonstrated our technical mastery of Ruby and Rails. Towards the end of our project, my enthusiasm dipped because on the client side, we had a really simple app that allowed users to create and read data. Nothing special. After more reflection though, I think our experience was a lot more like a real software development. We had multiple applications talking to each other, and our goals hadn't been accomplished by anyone else before, leaving little guidance on how to move forward. Our end result on the web might not be the coolest thing ever, but I am really grateful for the process we developed and proud of ultimately connecting these three applications so they can "do some things".
 
 #### Evaluation
 #### 1. Project Management
 
-*   3: Team is using well formatted user stories and moving cards through each status in realtime
+*   3: Team is using well formatted user stories and moving cards through each status in real-time
 
 #### 2. Completion & Pace
 
@@ -152,7 +203,6 @@ Originally, I thought our capstone project would be some cool and complex Rails 
 #### 6. Accessibility
 
 *   3: Team has implemented code to increase accessibility.
-
 
 ## Feedback and Community
 
@@ -187,6 +237,10 @@ I felt really involved with Turing and the Denver community this mod. I finally 
 * Delivered a lightning talk at Wrap Up about CSS flexbox styling. Also gave a longer version of this talk at the March HTML5 Meetup.
 
 * Paired with students from Mods 1 and 2.
+
+* Regular attendance at Productivity Lunch
+
+* Served as 1610BE SAB representative with Annie Wolff.
 
 ------------------
 
