@@ -136,7 +136,7 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I was available for Mod 2 students on most of their projects. We didn't pair, but I would often sit with them and let them talk through their error. I also led a spike with Andy Wooten over RSpec to teach some of the more sophisticated testing patterns.
 
 ------------------
 
