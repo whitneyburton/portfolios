@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-> \<What did you set out to accomplish this module?>
+> Work on depth over breadth. In all honesty I didn't start this mod with a set goal or mindset. Although, that would have been a great idea. I did have the vague idea that I wanted to be very good at a few things instead of low level knowledge of many things.
 
 ## Self-Assessment
 
@@ -110,7 +110,7 @@ station_index >> station/index
 ##### Feedback to me for Bike Share
 
   >* From Maria: Jack! It was awesome to work with you on Bike Share! You definitely were the 'rock' of the group, and you definitely kept the energy levels up in our group. I really enjoyed your awesome anecdotes and the 'comic relief' you provided during (much needed) breaks. On the technical side, you were always thinking one-step-ahead as far as driving the project forward, and I think you had a really good big-picture idea of the scope of the project as we moved forward. Despite being very technically-strong, you were always willing to stop and explain a concept to me, or help clear up something that I did not understand, and you did so in a very patient and kind manner. You made sure that all of us in the group were on the same page, and that each of us felt that we were valuable & contributing group members. We could count on your knowledge to get through small speed-bumps and your strengths definitely include tracking data structures, good ol' Ruby, and ActiveRecord queries. Furthermore, you were always eager to try new things and weren't afraid to go down rabbit-holes, and I think this will serve you well in your career as a developer. As a community member, your enthusiasm, and eagerness to help others makes you a great Turing community member, and I hope we get to work together again!
-  >* From Joseph:
+  >* From Joseph: You did an excellent job as our project manager, combining separate skillsets, schedules, and balancing project priorities. I think it's a testament to your process that we got so much done with just a three person team. Your sense of humor literally makes our code better, since it made team coding a blast. As far as improvement, maybe we could have approached ActiveRecord better? Different team members ran into the same problems, and we ended up repeating bad Ruby enums in a few places. It might have been worthwhile to pause our coding and have an AR study session, or share "AR lessons learned" at a check-in. Thanks for putting in the longest Wednesday night ever to muscle single-handedly through those insane analytics methods. You've got some serious coding skills.
   >* From Andrew:N/A
 
 ##### Feedback to me for Little Shop
