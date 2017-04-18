@@ -27,10 +27,8 @@ I wanted to go deeper into a programming language and create more complex progra
 * [GitHub URL](https://github.com/squeemishly/homework/blob/master/credit_check.rb)
 * [Original Assignment](http://backend.turing.io/module1/projects/credit_check)
 
-(description)
 Write a program that can detect mistakes in a credit card number.
 
-(evaluation comments)
 - Dynamic, modular solution - made reaching that extension a breeze!
 - Great work building modular methods with (mostly) single responsibilities
 - There is some logic that could be further extracted into separate methods, though
@@ -38,7 +36,6 @@ Write a program that can detect mistakes in a credit card number.
 - Another refactor to start aiming for is not daisy chaining your methods as much, and designing your program's methods to know less about each other. We'll start looking into strategies for this together in class soon.
 - Lastly, would love to start seeing you push towards using classes throughout your programs - again, we'll be pushing this practice more soon.
 
-(evaluation scores)
 Fundamental Ruby & Style:
 3: Application shows strong effort towards organization, content, and refactoring
 
@@ -48,21 +45,19 @@ Encapsulation / Breaking Logic into Components:
 Functional Expectations:
 4: Application meets all requirements, and implements one extension properly.
 
+
 #### Jungle Beats
 
 * [GitHub URL](https://github.com/squeemishly/jungle_beat)
 * [Original Assignment](http://backend.turing.io/module1/projects/jungle_beat)
 
-(description)
 Use a linked list to make a pseudo drum machine on your computer.
 
-(evaluation comments)
 - 28 tests, all passing
 - really great tests
 - Watch for making things depend on other things
 - start with no access and then add reader and accessor as necessary
 
-(evaluation scores)
 1. Functional Expectations:
 - 3: Application fulfills all base expectations
 
@@ -78,21 +73,19 @@ Use a linked list to make a pseudo drum machine on your computer.
 5. Looping or Recursion:
 - 4: Application makes excellent use of loop/recursion techniques
 
+
 #### Battleship
 
 * [GitHub URL](https://github.com/squeemishly/battleship)
 * [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
-(description)
 Build a REPL version of Battleship. 
 
-(evaluation comments)
 - Application does not run, has many disparate pieces, but not connected.
 - Overall, well written and clean.
 - Get around wrangling complex conditionals with predicate methods
 - Would like to have seen user feedback pulled out into a module
 
-(evaluation scores)
 1. Fundamental Ruby & Style
 - 3: Application shows strong effort towards organization, content, and refactoring
 
@@ -114,6 +107,7 @@ Build a REPL version of Battleship.
 7. Functional Expectations
 - 2: Application runs, but does not work properly, or does not meet specifications.
 
+
 ## C: Group Work & Projects
 
 ### Projects
@@ -123,17 +117,14 @@ Build a REPL version of Battleship.
 * [GitHub URL](https://github.com/squeemishly/enigmatic)
 * [Original Assignment](http://backend.turing.io/module1/projects/enigma)
 
-(description)
 Create a tool for encrypting and decrpyting messages. Add in a crack feature if there's time.
 
-(evaluation comments)
 - 45 tests, 15 failing
 - Great use of modules
 - look into how to use constants to store information that does not change
 - logic broken up well
 - application does not run
 
-(evaluation scores)
 1. Fundamental Ruby & Style
 - 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
@@ -155,7 +146,6 @@ Create a tool for encrypting and decrpyting messages. Add in a crack feature if 
 * [GitHub URL](https://github.com/dianawhalen/headcount)
 * [Original Assignment](http://backend.turing.io/module1/projects/headcount)
 
-(description)
 Use Ruby to parse through a bunch of CSV files to discover the correlation of statistics around students in Denver area school districts.
 
 (evaluation comments)
@@ -174,7 +164,7 @@ DTR from Enigma: https://gist.github.com/squeemishly/60eb14a0dcb2aed06982e93168d
 ### Gear Up
 #### Growth Mindset
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
 write some shit in here
 
@@ -187,13 +177,13 @@ write some shit in here
 
 #### Define the Relationship
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 #### Working Styles
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
@@ -212,28 +202,28 @@ write some shit in here
 ### Professional Development Workshops
 #### Strengths Finder Reflection
 
-* [Workshop URL]()
+* [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_session.md)
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
 
 #### Learning to Pair
 
-* [Workshop URL]()
+* [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md)
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
 
 #### Feedback
 
-* [Workshop URL]()
+* [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
 
 #### Developer Identity
 
-* [Workshop URL]()
+* [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
