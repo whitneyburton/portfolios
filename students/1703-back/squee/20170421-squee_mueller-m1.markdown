@@ -210,21 +210,21 @@ Anyway. The tech industry is sexist. I'm not at all surprised. That's part of wh
 #### Strengths Finder Reflection
 
 * [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_session.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://gist.github.com/squeemishly/73769efa6e09449a6c1fc305712aaabc)
 
 I really connected with the strengths I got. They made me proud to be the person I am. They also helped me to understand what it was that I was able to bring to a pair project.
 
 #### Learning to Pair
 
 * [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://gist.github.com/squeemishly/60eb14a0dcb2aed06982e93168df6a04)
 
 It's crucial to have expectation conversations up front. The DTR document is a wonderful tool to fascilitate those conversations. Also, there's several different primary styles of pairing. Don't get stuck on just one. Try out different methods of pairing and see if one works better than another for each partnership you have.
 
 #### Feedback
 
 * [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://docs.google.com/document/d/1BMXh1o6eWC9sAJPunYAadgDdI96g0UJy5cXN_JtjxGo/edit)
 
 I love that we have a session on how to receive feedback. It's such a crucial skill. I'm a particularly blunt person in most circumstances and can always use the reminder about both how important it is to give good feedback as well as how to couch it in a way that is more palatable. 
 
@@ -233,7 +233,7 @@ One thing I would have loved to see in this session was some focus on how to rec
 #### Developer Identity
 
 * [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://login.turing.io/users/186)
 
 Main takeaway: I have to work on my social media presence. ::grimace::
 
