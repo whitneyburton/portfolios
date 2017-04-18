@@ -126,11 +126,23 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Automation
 
-* [GitHub URL]()
+* https://github.com/turingschool/gear-up/blob/master/automation.markdown
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Automation will have a huge impact on our economy. I image that by the time I retire, the job market will be a very different place. I think I’m certainly at risk, as a web developer, of being replaced by automation, but I intend to try to stay ahead of the curve by studying machine learning and trying to become a contributor on that front. It’s not clear to me exactly what responsibility regarding automation looks like; I care about people losing jobs, but I also support automation. I think we have to reshape our society to allow opportunities for education and skills to reach more people and remove some of the boundaries currently in place.
+
+
+#### Grit
+* https://github.com/turingschool/gear-up/blob/master/grit.markdown
+
+Although this gear-up is exactly the same, I’m trying to rethink grit as it concerns me in Mod 3. I think I have been persistent and passionate just to make it this far, and I think this is where it starts to become more difficult. Seven months is a long time to be in this environment, and it would be impossible to get through this without passion. I particularly like building personal projects where I have freedom to experiment with technologies and implementations. I just like to see what I can make given no constraints. I would like opportunities to build things that have a creative aspect, like games. I have the most passion and the most frustration when I’m building emotionally relevant work. I like technically-engaging challenges and learning new tools and languages.
+
+
+#### MicroAggressions
+* https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md
+
+Can one summarize microaggressions in a few sentences? No. This session was taken over by people who were defensive, and it forced us to cater to their feelings of victimization, despite the fact that other people in the classroom had actual experience with microaggressions and may have wanted to use that space to talk more openly about their experiences.
 
 ## E: Community Participation
 
