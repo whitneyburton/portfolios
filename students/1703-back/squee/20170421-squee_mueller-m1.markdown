@@ -138,7 +138,8 @@ Create a tool for encrypting and decrpyting messages. Add in a crack feature if 
 - 1: Application is missing two operations or crashes during normal usage
 
 (feedback to me)
-### Haven't gotten it yet...
+
+Squee, thank you for being a great pair on the Enigma project. From the very beginning you helped to foster a collaborative and enjoyable environment. You are really good at logical thinking, breaking problems down to small manageable pieces, and putting in the required effort and time to finish a project. These skills, combined with your positive energy and kindness towards others, will undoubtedly make you a great software developer/teacher. I think we both agree that we missed an opportunity to learn more about how to use git during this project, as we didn't want to spend too much time trying to figure out our many git issues. Though we found workarounds for git, I think we both recognize that git is a tool we need to learn to use more effectively. Other than that, I think our personalities complimented one another and we both made valuable contributions to the project. Thanks again for being a joy to work with.
 
 
 #### Headcount
@@ -242,15 +243,29 @@ Part of getting a job as a software developer is having a robust online presence
 
 ### Giving Feedback
 
-(feedback from me)
+Yohannan, you were absolutely fantastic to work with. I really appreciated so many aspects of working with you.
+
+First, when I was having problems thinking through what belonged in our code, you started by just giving me the answers or pointing out where I was going wrong. I asked you if you could give me a minute to think things through before telling me the solution. You actually looked like you got excited that I wanted a challenge and that I didn’t want to rely on you to get the work done. I know we could have done some things faster if you’d just given me the solution, but it was important for me to get some of those processes hardwired into my brain without help. Thank you.
+
+There was also your compassion around my need for breaks. It is really important for my brain to take breaks. Every time my brain started to get sluggish, I would ask you for a break. Every time, you would agree without hesitation. It made me feel safe in telling you when I was struggling and when I needed to buckle down and focus. Thank you for understanding my needs in that.
+
+Also, you are so great at asking for help. I tend to buckle down and want to try everything I can think of before I ask for help. I want to work for the solution myself. You were great at recognising when that was getting us nowhere and seeking out additional support that could get us back on track. It made us move much faster and dramatically decreased the amount of frustration we both ended up experiencing with the project.
+
+I was also so grateful for your motivation to find solutions to questions we had about our project. I would get so caught up in finding a solution to problems that I discounted how important it was to learn more about the side things. The fact that you sought out how to build Modules and included them in our project was a saving grace. It not only improved our score on our project, but it filled me with so much happy to see such a cool tool! That turned into a major motivator for me to ask more questions of our other classmates to see what else I could learn. Thank you for setting such an awesome example in engaging with your curiosity for curiosity sake. That was beautiful.
+
+The only thing I can think of that might have made you a stronger partner for me to work with would be holding me accountable to the things that I can find work arounds for. Git was a struggle for us. We both just wanted to give up on git and get the project done. But I think that part of that lesson was about getting us to figure out a git workflow. We missed that lesson when we just got frustrated with git. I think if one or both of us had been more insistent that we needed to figure out git and solve our problems with it, we would have gotten much more out of that lesson. But even in that, I was so appreciative of your patience and cool-headedness. That was so enormously frustrating!
+
+All in all, working with you was a fantastic experience. I appreciated your patience, chill nature, experience, and enthusiasm. You brought so much to the team, and I know that you will continue to contribute enormously to your future teams as well. :smile:
 
 ### Being a Community Member
 
-(feedback to me)
+Squee, thank you for being a great pair on the Enigma project. From the very beginning you helped to foster a collaborative and enjoyable environment. You are really good at logical thinking, breaking problems down to small manageable pieces, and putting in the required effort and time to finish a project. These skills, combined with your positive energy and kindness towards others, will undoubtedly make you a great software developer/teacher. I think we both agree that we missed an opportunity to learn more about how to use git during this project, as we didn't want to spend too much time trying to figure out our many git issues. Though we found workarounds for git, I think we both recognize that git is a tool we need to learn to use more effectively. Other than that, I think our personalities complimented one another and we both made valuable contributions to the project. Thanks again for being a joy to work with.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+For most of this mod, I was really focusing on getting my footing under me. Around week 4, I started feeling more comfortable here and had an idea about how I fit into the larger group. At that point, I started to more actively reach out to the people who I knew were struggling. I wanted to be able to support them as they learned more about coding and how they fit into the Turing community.
+
+I've already started talking to Erin about being a co-host of Imposters Lunch for next mod. That weekly meetup has been enormously beneficial for me, and I'd like to be able to use it as a conduit to help the next round of mod 1 find their place in Turing. 
 
 ------------------
 
