@@ -83,13 +83,15 @@ Heavily relying on Ruby instead of ActiveRecord for manipulations
   >Jonathan: Thank you  for your even-keeled, calm and collected attitude throughout this project. For me, a challenging project coupled with group dynamics can elevate stress and anxiety levels quickly.  I appreciated your ability to stay focused and keep a cool head despite (what had the potential to be) overwhelming factors.
 
 
-  >* From Seth Moser:
+  >* From Seth Moser: TBD
 
 ##### Feedback to me for Little Shop
 
-  >* From Maria Stenquist:
-  >* From Danny Radden:
-  >* From Sam Landfried:
+  >* From Maria Stenquist: TBD
+
+  >* From Danny Radden: TBD
+
+  >* From Sam Landfried: TBD
 
 
 ## D: Professional Skills
@@ -102,13 +104,13 @@ Heavily relying on Ruby instead of ActiveRecord for manipulations
 #### **Gear Ups**
 
 > [Empathy](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+This was a valuable exercise examining privilege and marginalization. I have seen the privilege statement list a few times before, but it always uncovers something new - this time I was struck by now I can live my life with basically no fear of others around me. Also, it is a great reminder that some of the advantages and disadvantages folks hold are not visible - a traumatic childhood could happen to anyone, regardless of race or socio-economic status. I continue to reflect on what advantages and disadvantages I have, and seek to understand others', as part of being more empathetic.
 
 > [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+This lesson presented grit as a combination of passion and perseverance. On the whole, I would agree, although I posit that there is an important addition of working 'smart' (both in what you do, in a self-reflective and evolving way, and how you do it), rather that just powering through a large volume of work and calling it grit. My own grit has increased here at Turing - I have come to enjoy the pace of work (usually), and find myself missing it when it is not there. Something I hope to develop is a greater sense of grit around independent work. I have generally done my best/most work in a structured environment, but I want to learn to do more on my own.
 
 > [Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+Automation will either save us or destroy us all. The rapid increase/improvement of technology has the potential to make the world a better place, providing for the basic needs of all humans, or it has the potential to exacerbate the inequality already present in many societies (both economically developing and developed). I tend to be fairly pessimistic that our society values things like re-training and improving education, but I continue to strive for a better world through my awareness and activism.
 
 
 ## E: Feedback and Community Participation
@@ -134,17 +136,27 @@ Heavily relying on Ruby instead of ActiveRecord for manipulations
 ##### Feedback from me for Little Shop
 
   >* For Maria Stenquist:
+
+  >It was great working with you on Little Shop, you were an excellent teammate. I really appreciated how reliable you were with the work, and how much you offered assistance whenever possible. The only thing you might focus on in future projects is taking some initiative to try out your ideas - it is a difficult balance in a group project, but also perfectly acceptable to make a spike-branch to try things out, and I think that could have moved our styling and functional design along more quickly. Overall, your contributions across the project, and especially around styling, made the project much better than it would otherwise have been.
+
+
   >* For Danny Radden:
+
+  >I had a great time working with you. Your quickness in picking up new concepts, as well as your existing depth and breadth of knowledge, enabled us to blaze through every challenge in front of us. Also, your dogged determination to solve problems was great - though at the same time, it was sometimes hard to know what your process was for tackling said problem. In sharing that process with the group, it can lead to a better outcome and more learning all around, even with the trade-off of potentially arriving at a solution more slowly. All around, I really appreciated your sense of humor and good nature, and assert you were a true asset to the team. 10/10 would work with again.
+
+
   >* For Sam Landfried:
 
+  >I very much enjoyed and appreciated pairing with you - your methodical approach to TDD and your flexibility on the eventual solution was especially constructive, and you personally helped me see even more value in the TDD and pairing processes. We as a team benefitted from your logical mind, and your bringing creative solutions to the challenges of the project. The only area you might focus on in the future is setting boundaries on your time, both for your own benefit and that of the group. Your energy and concentration is a real asset, but can also be difficult for others to keep up with. Overall, I am really glad we finally had the chance to work together, and would hope to again in the future.
+
 #### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
+  >* I was loosely affiliated with the Wozniak posse this module. Generally, I attended weekly social lunches and Friday spikes.
+  >* I enjoyed being exposed to some of the more brain-bending logical concepts of data structures.
+  >* I have a vision and list of topics for what I would like to know more about.
 
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
+> I signed up to pair with Mod 1 students right away - though I did not pair very often, I think it is important to give back, and especially meaningful to give back in a way that helped me so much. I plan to continue to do this in the future. I also did my part to keep the school picked up and a good place for learning.
 
 ------------------
 
