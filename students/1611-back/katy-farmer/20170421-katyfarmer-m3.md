@@ -22,13 +22,6 @@ I'm going to go with passed.
 ## B: Individual Work & Projects
 ### Projects
 
-
-
-
-## C: Group Work & Projects
-
-### Projects
-
 #### Shine
 
 * https://github.com/thekatertot/shine
@@ -37,6 +30,11 @@ I'm going to go with passed.
 * Shine is a game tailored to lift the player's mood and reward self-care.
 
 Assessment --to come
+
+
+## C: Group Work & Projects
+
+### Projects
 
 #### Rails Engine
 
