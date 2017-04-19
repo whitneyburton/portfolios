@@ -64,29 +64,29 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Feedback from partner projects.
 
-#### Project 1 (Partner Name):
+#### Project 1 (Alex):
 
 **Feedback for Alex:**
 
 > I don't have much feedback for my partner Alex, because the project went very smoothly -- from my perspective. There was one day that he was late to a study session, but we talked about it and didn't have another issue. I felt that we communicated well and contributed equally. He wasn't domineering and was open to my ideas. I found that Alex allowed me to think through problems before adding his opinion, which really helped me learn throughout the project. And he didn't assume his opinion was inherently correct, so I felt we had a good back and forth. As for the DTR, we both decided our end goal was to incorporate emojies, which really directed our efforts, so that was good.
 
-**Feedback from ___________:**
+**Feedback from Alex:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-#### Project 2 (Partner Name):
+#### Project 2 (Sarah):
 
-**Feedback for ___________:**
+**Feedback for Sarah:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**Feedback from ___________:**
+**Feedback from Sarah:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Job Prep
 
-*  [LinkedIn profile]()
+*  [LinkedIn profile](https://www.linkedin.com/in/carl-richmond/)
 
 ## E: Community
 
