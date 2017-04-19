@@ -1,19 +1,12 @@
-# Aaron Olsen - M1 Portfolio
+# FIRST LAST - M1 Portfolio
 
 ## Areas of Emphasis
 
-I came into module one with three goals: Fluency in Ruby and OOP, Fast and effecient workflow, and Building a First Layer Network. TDD development was added as a fourth goal when it's importance became clear early on.
-1. Fluencey in Ruby and OOP:
-    * I've become very comfortable writing in Ruby, to the point where I'm solving most problems directly rather then solving it <i>through</i> Ruby. I understand and can use the Ruby API in order to reference and learn new Ruby syntax. I have a fluent use of Ruby's basic building blocks; Enumerables, Strings, Arrays, and Hashes. I understand how to write the meaning of my code in the code itself and when to use brevity over clarity.
-    * Through Ruby I now have a very functional understanding of object oriented programming. I follow the SOLID, DRY, and LoD rules to organize my methods, classes, modules, and blocks. I have a strong grasp on Object Relational Mapping, how to utilize objects to limit dependencies, and how to break a large problem up with Agile design.
-2. Fast and Efficient Workflow:
-    * I focused here on stopping bad habits early and taking seriously the advice of more veteran coders. I took the time to understand the programs I use to write my code and organize my environment. By utilizing autocomplete features, shortcuts, and additional tools I have turned my work environment into an asset rather than a burden.
-3. Building a First Layer Network:
-    * My goal here was to develop good relationships with other students in my module as well as the instructors. This included reaching out to other mods and cohorts when necessary, but I understood the pace of module 1 was such that I needed to limit the focus of this goal. This has been a great success. I know at least a little about everyone in the class and feel they know at least a little about me. Overall there has been a strong spirit of community in the classroom which I believe I have contributed to in a positive way.
-4. TDD development:
-    * I didn't hesitate to dive into TDD as I understood right away it's importance. I have used TDD to help build by Agile design skills and solve complex problems. I'm confident the extra time spent on the TDD components of my projects saves me time in the long run and has helped immensely with the success of my projects.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
 | --- | --- | --- |
@@ -29,7 +22,7 @@ I came into module one with three goals: Fluency in Ruby and OOP, Fast and effec
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | <b>Pass</b> |
+| Pairing Assessment | x |
 | Independent Timed Assessment | x |
 | Diagnostic | x |
 
@@ -38,24 +31,21 @@ I came into module one with three goals: Fluency in Ruby and OOP, Fast and effec
 
 | CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
 | --- | --- | --- | --- |
-| **Project Spec** | [Credit Check Spec](http://backend.turing.io/module1/projects/credit_check) | [Date Night Spec](http://backend.turing.io/module1/projects/date_night) | [Battleship Spec](http://backend.turing.io/module1/projects/battleship) |
-| **Github** | [Credit Check Github](https://github.com/MrAaronOlsen/credit_check) | [Date Night Github](https://github.com/MrAaronOlsen/h2o_tree) | [Battleship Github](https://github.com/MrAaronOlsen/battleship) |
-| **Functional Expectations** | 3 | 4 | 4 |
-| **Test-Driven Development** | na | 4 | 3 |
-| **Encapsulation/Breaking Logic into Components** | 3 | 4 | 4 |
-| **Fundamental Ruby & Style** | 3 | 4 | 3 |
-| **REPL Interface** | na | na | 4 |
-| **Git Workflow** | na | na | pass |
-| **Enumerable & Collections** | na | na | 4 |
-
+| **Project Spec** | [link]() | [link]() | [link]() |
+| **Github** | [link]() | [link]() | [link]() |
+| **Functional Expectations** | x | x | x |
+| **Test-Driven Development** | x | x | x |
+| **Encapsulation/Breaking Logic into Components** | x | x | x |
+| **Fundamental Ruby & Style** | x | x | x |
+| **Loop or Recursion** | x | x | x |
 
 
 ## C: Group Projects
 
-| CATEGORY | Enigma | Headcount |
+| CATEGORY | Enigma | Black Thursday |
 | --- | --- | --- | --- |
-| **Project Spec** | [Enigma Spec](http://backend.turing.io/module1/projects/enigma) | [Headcount Spec](http://backend.turing.io/module1/projects/headcount) |
-| **Github** | [Enigma Github](https://github.com/MrAaronOlsen/enigma) | [Headcount Github](https://github.com/MrAaronOlsen/headcount) |
+| **Project Spec** | [link]() | [link]() |
+| **Github** | [link]() | [link]() |
 | **Functional Expectations** | x | x |
 | **Test-Driven Development** | x | x |
 | **Encapsulation/Breaking Logic into Components** | x | x |
@@ -74,15 +64,15 @@ I came into module one with three goals: Fluency in Ruby and OOP, Fast and effec
 
 Feedback from partner projects.
 
-#### Project 1 (Mason Hollad):
+#### Project 1 (Partner Name):
 
 **Feedback for ___________:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**Feedback from Mason Holland:**
+**Feedback from ___________:**
 
-* I found Aaron to be a great partner. His input and hard work were essential to the success of the project, he consistently put in the hours and ensured that we were on and track and focused. He was reliable, honest, open and understanding. His understanding allowed me to get moved out of my apartment with minimal stress while juggling the project. His openness led to great communication . If anything I felt I was holding the group back. Would love to work with him again.
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 #### Project 2 (Partner Name):
 
@@ -102,23 +92,23 @@ Feedback from partner projects.
 
 ### Gear Up
 
-#### Session 1: 3/17: Growth Mindset
+#### Session 1: ___________
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-#### Session 2: 3/22: Getting Better at Difficult Things
+#### Session 2: ___________
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-#### Session 3: 3/31: Introvert vs. Extrovert
+#### Session 3: ______________
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-#### Session 4: 4/05: Strengths & Storytelling
+#### Session 4: _____________
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-#### Session 5: 4/14: Debugging the Gender Gap
+#### Session 5: ________________
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
