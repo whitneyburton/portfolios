@@ -32,7 +32,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/battleship) |
-| **Github** | [link]() | [link]() | [link]() |
+| **Github** | [link](https://github.com/ACC25/sorting_project/blob/master/credit_check_final.rb) | [link](https://github.com/ACC25/linked_list) | [link](https://github.com/ACC25/Battleship) |
 | **Functional Expectations** | x | x | x |
 | **Test-Driven Development** | x | x | x |
 | **Encapsulation/Breaking Logic into Components** | x | x | x |
