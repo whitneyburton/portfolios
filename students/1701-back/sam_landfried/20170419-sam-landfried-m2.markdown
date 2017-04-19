@@ -88,12 +88,10 @@ I very much enjoyed and appreciated pairing with you - your methodical approach 
 * From Maria Stenquist:
 Sam, it was a great learning experience for me to finally have you as a team member. You set out to learn as much as you could in this project, and I think you did a good job balancing your own learning objectives with those of the rest of the team. You were dedicated to the project, as well as the team, and while you kept the scope of the project in mind, you were never afraid to dive into the nitty gritty details of the code. I think this skill will immensely serve you as a developer. During our project, you did an awesome job with juggling other commitments, such as your work with Wozniak Posse and arranging a lecture on Beth's job-hunt process (which was a great lecture, I got a lot out of it) as well as side-projects (something about working in Java?), so you are always thinking two-steps ahead. Having said this, while you conceptually and technically were very strong in driving forward the objectives of the project, I noticed a couple times where other members of the group had valuable input that was not given credence to at that point, but later surfaced as being relevant. Otherwise, I am hard-pressed to think of any other constructive feedback as you were an excellent teammate, and I really appreciated our pairing sessions (especially on RSpec!) as they helped to synthesize several concepts for me. Thanks for making yourself available to pair, and it is clear you have a knack for teaching, which is a super valuable skill to have. I foresee you going on to doing great things as a developer, and hopefully we get to work together again soon.
 
-  >* From \<Partner 3>:
+* From \<Partner 3>:
 
 
 ## D: Professional Skills
-
-\<Intro>
 
 #### **Professional Development Workshops**
 [Warm Outreach, Agile Process, Feedback](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/sam_landfried.md)
