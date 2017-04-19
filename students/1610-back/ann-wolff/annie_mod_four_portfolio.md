@@ -1,9 +1,5 @@
 # Annie Wolff - M4 Portfolio
 
-## Areas of Emphasis
-
-(What did you set out to accomplish this module?)
-
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
@@ -25,14 +21,11 @@
 
 This was an extension of the week-one Quantified Self project. We built an API to handle the foods data that we needed for he meal tracker. It's built on Express.js with a Node backend. We also used Knex to connnect to a PostgreSQL database. Lots of new technologies! It was a challenging and exciting extension to the original project and it was cool to learn a new way to build apps without Rails.
 
-(evaluation comments)
-
-(evaluation scores)
-
 #### Open Source Contribution
 
 * [Code Contribution GitHub URL](https://github.com/codefordenver/Circular/pull/66)
 * [Documentation Contribution GitHub URL](https://github.com/codefordenver/Circular/pull/69)
+* [Bug Confirmation GitHub URL](https://github.com/thoughtbot/shoulda-matchers/issues/1011)
 * [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 * [Blog Post](https://gist.github.com/wlffann/500a65ad83207f9541bffcad80604389)
 
@@ -86,9 +79,29 @@ Adhering to any of these additional specifications will allow you to increase on
 
 Originally proposed by Lucy, this project was meant to improve Allison's ability to run the Johari Window reflection exercise. We decoupled the front-end and back-end of this project so we ended up with a React app and a Rails API. Making these two technologies work together was a new challenge and taught us a lot about how a front-end team and back-end team could work together. Unfortunately, we were not able to get our React app to play happily with Auth0 for authentication, but I learned a lot about React while wrestling with the problem. 
 
-(evaluation comments)
+##### 1. Project Management
 
-(evaluation scores)
+*   4: Tracker also documents feature related discussions
+
+##### 2. Completion & Pace
+
+*   3: Team is able to set and update expectations so that there are no surprises on the last day of the sprint
+
+##### 3. Implementation Quality
+
+*   4: Project demonstrates exceptionally well factored code.
+
+##### 4. Application of Techniques
+
+*   4: Project has implemented two or more major techniques that were new this week.
+
+##### 5. Documentation
+
+*   4: Project also features a screencast, tutorial or other wow factor
+
+##### 6. Accessibility
+
+*   4: Team has expertly implemented features to follow accessibility best practices.
 
 ## Feedback & Community
 
