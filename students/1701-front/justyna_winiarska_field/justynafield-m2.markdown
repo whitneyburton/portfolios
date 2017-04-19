@@ -141,9 +141,11 @@ Feedback for Jack:
 
 ### Being a Community Member
 
-Feedback from Jack B: Working with you was really enjoyable. Weatherly was by far the hardest thing we’ve been asked to tackle at Turing thus far, in my opinion. You maintained a very cool head throughout the whole project, and we’re really good at keeping us on track when we were about to go down the rabbit-hole. It was really rewarding to finally get components to render on the page. I hope we get to work together again in the future.
+#####Feedback from Jack B: 
+Working with you was really enjoyable. Weatherly was by far the hardest thing we’ve been asked to tackle at Turing thus far, in my opinion. You maintained a very cool head throughout the whole project, and we’re really good at keeping us on track when we were about to go down the rabbit-hole. It was really rewarding to finally get components to render on the page. I hope we get to work together again in the future.
 
-Feedback from John B: Working with Justyna the second time around was great again. Just like the first time, we had wonderful give and take, and we agreed up front that no one would fall behind. I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me. It was great seeing how much she had learned and grown since our first paring.  Our communication was excellent, and we were consequently able to stop any arguments before they even started. I would be happy to work with her again.  Also, our game was awesome! 
+#####Feedback from John B: 
+Working with Justyna the second time around was great again. Just like the first time, we had wonderful give and take, and we agreed up front that no one would fall behind. I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me. It was great seeing how much she had learned and grown since our first paring.  Our communication was excellent, and we were consequently able to stop any arguments before they even started. I would be happy to work with her again.  Also, our game was awesome! 
 
 ### Playing a Part
 
