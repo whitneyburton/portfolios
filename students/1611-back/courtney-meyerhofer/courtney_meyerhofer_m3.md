@@ -236,8 +236,10 @@ Project demonstrates well-factored code and a solid grasp of MVC principles.
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
 
-#### Grit
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+#### Automation
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
+My main takeaway from this gear up is the idea of getting in front of technology with policy. I think automation is mostly inevitable, but how it's implemented at a larger scale depends on the policy we develop before it gets here. I think the larger problem is the lack of science, technology, and futuristic-thinking in our media and policy makers. Until we welcome science and technology policy into the sphere of public debate, we might be doomed to take the consequences of automation.
 
 ## E: Feedback and Community Participation
 
