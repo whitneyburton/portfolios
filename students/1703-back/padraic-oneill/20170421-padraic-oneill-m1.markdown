@@ -35,10 +35,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ) |
 | **Github** | [link](https://github.com/podoglyph/credit_check) | [link](https://github.com/podoglyph/date_night) | [link](https://github.com/podoglyph/battleship) |
 | **Functional Expectations** | 4 | 1 | 2 |
-| **Test-Driven Development** | x | 2 | 2.5 |
+| **Test-Driven Development** | N/A | 2 | 2.5 |
 | **Encapsulation/Breaking Logic into Components** | 2 | 3 | 3 |
 | **Fundamental Ruby & Style** | 2 | 3 | 2 |
-| **Loop or Recursion** | x | x | 4 |
+| **Loop or Recursion** | N/A | x | 4 |
 
 
 ## C: Group Projects
@@ -94,7 +94,13 @@ Overall, the pairing went smoothly. We took on the driver/navigator role which w
 
 #### Session 1: Growth Mindset
 
+This week I've struggled to write code to complete each exercise. The process has helped me identify some weaknesses in my abilities and now I am excited to spend weekend improving those areas.
 
+In the past, I've experienced great amounts of stress, or problems with self-confidence that have made it easy to give up on the challenges I've faced. I know I did it - gave up. But now I feel energized to learn new things and push my boundaries.
+
+My triggers are stress and a lack of self-esteem. These will cause me to tuck tail and run or escape temporarily using methods that are ultimately detrimental to my future growth. My peers can check-in, make sure I'm doing the work on me. Exercise and eating healthy, and sleeping enough are all important factors. Also, my peers can communicate help in a way that is on the level, not be patronizing, and not assume that they know what's best for me.
+
+Now, at the end of the mod, I realize that some of the above came true, and some didn't. The things I thought about myself seemed to remain, although I did push through many boundaries. I adopted more of a work hard, play hard mentality. The things I thought about my peers turned out to be better than ever. We have a strong cohort and I'm lucky to be a part of it.
 
 #### Session 2: Getting Better at Difficult Things
 
