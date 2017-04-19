@@ -103,9 +103,11 @@ You did a great job PM’ing this project, and it was a pleasure to work with yo
 
 ##### Feedback to me for Little Shop
 
-  >* From \<Partner 1>:
-  >* From \<Partner 2>:
-  >* From \<Partner 3>:
+From Mark: I am glad we were finally able to work on a project together! You added a dynamic to our group that we were lacking and because of it, we performed at a much higher level. You gave 100% every day and really helped drive our project to completion. This included making the decision to start working as a team to ensure we were all capturing the learning this project offered. Your technical skills are really strong and I enjoyed working through the creation of orders and the checkout process with you. I noticed you are working on your keyboard shortcuts in Atom, thats awesome! I think if you gave VIM an honest effort you would really like it. Overall, you are a wonderful teammate and I would be thrilled to work on a future project with you.
+
+From Erin: Working with you was really great. I actually had a blast writing and running tests and working through code with you. I feel like I learned a lot more on this project than in past projects because how we tackled problems together. Thank you also for bring your mentor resources to our project and for coming in all weekend with me to hammer out our code. You are curious, positive, willing to do whatever it takes for our team, and always kept us on the TDD path when we started to stray. Your technical skills, research and problem-resolution skills, and communication/teamplayer skills are strong. I hope we get to work together again!
+
+From Natalie: Stephanie, it was really great working with you on little shop. You are very dedicated and knowledgable. I appreciate your willingness to seek help when you have a question. You really want to understand why something works and when you ask questions it helps me understanding as well. You have strong communication skills and I appreciate the way you talk through what we're doing or trying to do while we're pairing. I love how you share information. Thanks for being a great teammate!
 
 
 #### **Gear Ups**
