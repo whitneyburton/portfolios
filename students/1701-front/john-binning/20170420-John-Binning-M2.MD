@@ -172,12 +172,26 @@ Working with Justyna was great.  We had wonderful give and take, and we agreed u
 Though I never formally paired with her, Leta has done a great job as a member of the cohort and the community.  She started up a D3 study group, and was always trying to get things started.  She was very helpful to the mod as a whole, often perceiving when people were not understanding concepts and trying to help out.  I look forward to hopefully pairing with her officially some time in the future.
 
 
-
-### Being a Community Member
+### Recieving Feedback
 
 #### From Justyna Field, linked-list partner: 
 
  I really enjoyed working with John. We determined our working relationship right away with great respect of each other’s working habits and schedule differences. During our work process we exchanged clarifying questions. If there was any part of the project that one of us did not fully understand we would stop and take time to walk each other through the problem and make sure that we both fully understand that topic. I feel like we both equally contributed into the project, it was a very good pairing experience.
+ 
+#### From Leta Keane, 1701 FE Peer
+ 
+John and I weren't paired for projects, but he and I worked together whiteboarding during Sorting Suite and Complete Me, and just generally reviewing concepts from lessons.  John always makes a point to check in with the group and double check that everyone feels good with new concepts. He is unafraid to speak up and ask for clarification (especially if someone looks confused but too nervous to speak up themselves). We've dreamed about making an actually useful ARIA reference site - daunting task, but doable when working with John :slightly_smiling_face:
+ 
+#### From Chris Brandrowsky, 1701 FE Peer
+ 
+##### How was my communication
+* Your communication is on point. You're great at explaining what's on your mind, what ideas you have, and what we could try to do to write better code. 
+
+##### What did I do well?
+* Communication, stated above. But you're also a super positive influence on this mod, your support for us all is awesome. 
+
+##### How can I improve for next time?
+* No major suggestions, you've been great to work with throughout the mod.
  
 #### From  Jason Lucas, Mod1 pairing partner
 
