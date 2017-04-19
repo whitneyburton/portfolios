@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-What was I trying to do when I first came here. 
+I wanted to start out by saying I have absolutely loved my experience so far at Turing. I came here, all the way from Canada, because this program was the only one that seemed hard enough to be legitimate. 
 
 ## Self-Assessment Scores
 
