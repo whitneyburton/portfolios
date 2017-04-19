@@ -24,7 +24,7 @@
 | Category | Score (optional) |
 | ----- | --- |
 | **Pairing Assessment** | pass |
-| **Written Diagnostic** | X |
+| **Written Diagnostic** | 4/5 |
 
 >* \<Takeaways, your experience>
 >* \<Notes>
