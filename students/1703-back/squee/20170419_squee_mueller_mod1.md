@@ -10,7 +10,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | --- | --- |
-| A | **End-of-Module Assessments** | x |
+| A | **End-of-Module Assessments** | 4 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
 | D | **Professional Development** | 4 |
@@ -63,8 +63,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ### Pair Feedback
 
 Feedback from partner projects.
-
-Squee, thank you for being a great pair on the Enigma project. From the very beginning you helped to foster a collaborative and enjoyable environment. You are really good at logical thinking, breaking problems down to small manageable pieces, and putting in the required effort and time to finish a project. These skills, combined with your positive energy and kindness towards others, will undoubtedly make you a great software developer/teacher. I think we both agree that we missed an opportunity to learn more about how to use git during this project, as we didn't want to spend too much time trying to figure out our many git issues. Though we found workarounds for git, I think we both recognize that git is a tool we need to learn to use more effectively. Other than that, I think our personalities complimented one another and we both made valuable contributions to the project. Thanks again for being a joy to work with.
 
 #### Project 1 (Partner Name):
 
@@ -124,19 +122,21 @@ I also love the concept of exposure; that immersing yourself completely in somet
 
 #### Session 3: Define the Relationship
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The document students are given to guide the conversation is so helpful. I loved that I essentially had a checklist to run through to make sure I wasn't missing something that needed to be hashed out up front. It helped to guide how I communicated with my pair partners as well as what we were each able to give to the project. :D
 
-#### Session 4: _____________
+#### Session 4: Working Styles
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There's so much discussion - online and in life - about how to accomodate an introvert in social situations. It never really occurred to me to worry about the extrovert's experience. I just assumed "They like people! They must be comfortable working with all kinds of people! Done!" But man, they still have specific needs. I know this sounds really foolish, and after this session, I felt like a total tool for not even considering it. But man... That was an eye-opener! 
 
-#### Session 5: ________________
+#### Session 5: Strengths and Storytelling
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A large part of what will help us get jobs once we finish Turing is being able to nail the interviews we receive. Part of nailing those interviews is appearing competent and confident. We spend our time coding to learn to be competent, but that doesn't necessarily change the way we present ourselves. The number of students in the class who were uncomfortable with putting 'software developer' as their career on Linked In is telling to our ability to present ourselves. Until we get used to seeing ourselves as software developers, we'll never be able to sell ourselves as developers to potential employers.
 
 ### Community Participation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For most of this mod, I was really focusing on getting my footing under me. Around week 4, I started feeling more comfortable here and had an idea about how I fit into the larger group. At that point, I started to more actively reach out to the people who I knew were struggling. I wanted to be able to support them as they learned more about coding and how they fit into the Turing community.
+
+I've already started talking to Erin about being a co-host of Imposters Lunch for next mod. That weekly meetup has been enormously beneficial for me, and I'd like to be able to use it as a conduit to help the next round of mod 1 find their place in Turing. 
 
 -------------------------------------------------------------
 
