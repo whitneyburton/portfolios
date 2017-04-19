@@ -134,8 +134,8 @@ The output from JSHint shows…
 
 ### Giving Feedback
 
-#### Feedback for John: 
-
+#### Feedback for John B: 
+It is always very inspiring for me to see how you pay attention to every detail and really make sure that every piece of the code is very well understood. It is great to see the incredible progress you’ve made since the last time we worked together. I think that you are a very respectful partner and also very supportive. I like working with you because you always make sure that we are both on the same page and nobody ever falls behind. Just like before, this was a very good pairing experience. It would be great to work together again in the future. 
 
 #### Feedback for Jack B:
 It was great working with Jack. I appreciate how we approached the new subject and patiently worked through challenges together. I like how we discussed code problems and tried new solutions. I feel like we’ve learnt a lot while working together. Jack was very dependable and respectful. I would like to work with Jack again in the future.
