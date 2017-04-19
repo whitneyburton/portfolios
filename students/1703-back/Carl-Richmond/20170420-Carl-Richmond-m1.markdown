@@ -98,23 +98,25 @@ This Gear Up was by far the most important for me out of the 5 for Module 1. I h
 
 #### Session 2: Getting Better at Difficult Things
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I found this Gear Up interesting because I had never looked at a problem in terms of how much cognitive resources it would take to complete. The idea of breaking things into easier to digest problems makes a lot of sense and the idea of managing your own cognitive resources and cognitive load is new to me, but I can see how influencial it could be moving forward.
 
 #### Session 3: Working Styles
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I have always known that I am middle of the road when it comes to the introvert/extrovert question, so I didn't find this Gear Up to be as interesting. I've had a lot of instruction in the military about teamwork and how to work with different types of people, so the different team management techniques weren't new concepts to me. I did enjoy hearing from people at the extremes of the social spectrums and how they like being interacted with though. 
 
 #### Session 4: Strengths and Storytelling
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I found this Gear Up interesting because everyone I know that had to do the 4min video in the Turing application had already thought of all the topics covered. The questions for the video are almost identical to the group discussion points, so I had already put my life into a narrative and outlined my strengths. If I had done Try Turing and not done the video, I would have probably learnt more from this Gear Up.
 
 #### Session 5: Debugging the Gender Gap
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I thought that the class discussion after the video was more interesting than the video itself. Canada doesn't have the same gender gap and gender bias problem as the U.S, so it was interesting to be reminded that people still deal with these issues. My girlfriend is in the Navy as an Officer and has faced less gender discrimination than every women interviewed in the video. It's sad to think the most conservative organization in Canada is better than some of the most progressive organizations in the states. That is not to say that Canada is perfect and doesn't have issues, far from it, but the differences in this topic specifically are pretty drastic. My previous job in politics, there was almost 70% women in leadership roles (including the Premier(state governor)). My dads company has 60% female VPs and 50% female board of directors. Federally Canada has 50% female Ministers. There is lots of room for improvement in some industries, but it's just not as big of a conversation back home..especially in Vancouver because it's a lot more Liberal than the rest of the country.
 
 ### Community Participation
 
-I think I have participated the most in the Turing community through my pairings with upper module students. I've always made them open and invited others, and have had on average three per week since the first week. Through these pairings I have talked about the Gear Ups, the Spikes, the Retros and learnt a lot about Turing in general. Aside from that, I have attented a few different Posses meetings on Fridays, but still haven't choosen which one I like the most. I've enjoyed just bouncing between them and learning more than just one specific topic. 
+I think I have participated the most in the Turing community through my pairings with upper module students. I've always made them open and invited others, and have had on average three per week since the first week. Through these pairings I have talked about the Gear Ups, the Spikes, the Retros and learnt a lot about Turing in general. Aside from that, I have attented a few different Posses meetings on Fridays, but still haven't choosen which one I like the most. I've enjoyed just bouncing between them and learning more than just one specific topic.
+
+I've also had a professional coaching session with Allison that I thought was very beneficial and I intend to continue doing them as I move through Turing. 
 
 -------------------------------------------------------------
 
