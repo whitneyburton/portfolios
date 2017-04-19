@@ -31,7 +31,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link]() |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/battleship) |
 | **Github** | [link]() | [link]() | [link]() |
 | **Functional Expectations** | x | x | x |
 | **Test-Driven Development** | x | x | x |
@@ -42,9 +42,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## C: Group Projects
 
-| CATEGORY | Enigma | Black Thursday |
+| CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
-| **Project Spec** | [link]() | [link]() |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [link]() | [link]() |
 | **Functional Expectations** | x | x |
 | **Test-Driven Development** | x | x |
