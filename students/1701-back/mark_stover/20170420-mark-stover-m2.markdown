@@ -33,21 +33,21 @@
 > [\<Topic>](https://)
 
 #### Tutorials: Blogger & Mix Master
-> \<These projects were very helpful in providing exposure to topics that were later covered in lecture. Because they were so lengthy, I had to make sure I was using pomodoros in order to give each part of the tutorials my full attention. These projects also proved to be useful resources to come back to for clarification throughout the module and during other projects. >
+> These projects were very helpful in providing exposure to topics that were later covered in lecture. Because they were so lengthy, I had to make sure I was using pomodoros in order to give each part of the tutorials my full attention. These projects also proved to be useful resources to come back to for clarification throughout the module and during other projects. 
 
 #### Projects: Job Tracker & Rails Mini Project
-> \<Job tracker provided the same type of learning for me as Blogger and Mix Master. It was helpful in introducing me to new concepts that were later covered in lecture. The Rails Mini Project was great in that it really helped reinforce all of my learning this Module. It was also a really nice break from tutorial work. Because I was able choose my own project, I noticed an increase in my enthusiasm and productivity. >
+> Job tracker provided the same type of learning for me as Blogger and Mix Master. It was helpful in introducing me to new concepts that were later covered in lecture. The Rails Mini Project was great in that it really helped reinforce all of my learning this Module. It was also a really nice break from tutorial work. Because I was able choose my own project, I noticed an increase in my enthusiasm and productivity. 
 
 
 ## C: Group Work & Projects
 
 > **Bike Share**
->* \<In this project we used Ruby, Sinatra, and Activerecord to build a site that analyzed bike share usage in San Francisco>
->* \<This project was a great introduction to working on a larger team. It required us to improve upon our Git skills in order to keep our work flow organized and helped to highlight the value of good team communication. The was my first time using Activerecord and I enjoyed finding ways to leverage database relationships to procure the required information.>
+>* In this project we used Ruby, Sinatra, and Activerecord to build a site that analyzed bike share usage in San Francisco
+>* This project was a great introduction to working on a larger team. It required us to improve upon our Git skills in order to keep our work flow organized and helped to highlight the value of good team communication. The was my first time using Activerecord and I enjoyed finding ways to leverage database relationships to procure the required information.
 
 > **Little Shop of Orders**
->* \<In this project we used Ruby, Rails, and Activerecord to build an online store complete with shopping cart, authentication, and authorization.>
->* \<This project was really enjoyable. We strived to use agile methodologies to drive the completion of our MVP. We communicated really well and were able to successfully implement all of the logic required to implement all of the features of our site. Additionally, our testing suite was rock solid and our site developed using 100% TDD.>
+>* In this project we used Ruby, Rails, and Activerecord to build an online store complete with shopping cart, authentication, and authorization.
+>* This project was really enjoyable. We strived to use agile methodologies to drive the completion of our MVP. We communicated really well and were able to successfully implement all of the logic required to implement all of the features of our site. Additionally, our testing suite was rock solid and our site developed using 100% TDD.
 
 | CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
 | --- | --- | --- |
