@@ -15,55 +15,60 @@
 
 ## A: End of Module Assessment
 
+##Evaluator: Jhun
 
-### Pentathlon: Code Challenge 1 (DOM Manipulation)
-
-####Evaluator: 
-
-
-
-### Pentathlon: Code Challenge 2
-
-####Evaluator: 
-
-collaboration both before implementing, while in motion, and when stuck
-
-
-### Pentathlon: Static Comp Challenge
-
-####Evaluator: 
 
 
 
 
 ## B: Individual Work & Projects
 
-Below is the list of my solo projects that I have been working on during this module.
 
-### Number Guesser
+# Sorting Suite
 
-*   [GitHub URL](https://github.com/JustynaField/number-guesser)
-*   [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+## Evaluator: Alter-Nate
 
-In this project I got to build my very first javascript functionality. It was challenging but extremely rewarding in the end.
-
-
-####Evaluator: Bree
+*   [GitHub URL](https://github.com/JustynaField/sorting-suite)
+*   [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
 
 
 
-### Static Comp Challenge 1
 
-*   [GitHub URL](https://github.com/JustynaField/jf-comp-challenge-1)
-*   [GitHub Pages](https://justynafield.github.io/jf-comp-challenge-1/)
-*   [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
+# Complete-me
+
+*   [GitHub URL](https://github.com/JustynaField/complete-me)
+*   [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
+
+## Evaluator: Jhun
+
+### 1. Fundamental JavaScript & Style
+
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Functional Expectations
+
+<!-- * 3: Application meets all requirements as laid out per the specification. -->
+* 2.5: Application runs, but does not work properly, or does not meet specifications.
+
+### 5. Code Sanitation
+
+The output from ESLint shows…
+
+* 4 - Zero complaints
 
 
 
 ## C: Group Work & Projects
-
 
 # Game Time
 
@@ -71,7 +76,8 @@ In this project I got to build my very first javascript functionality. It was ch
 *   [GitHub URL](https://github.com/JustynaField/game-time)
 *   [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-## Instructor: yung-jhun
+## Evaluator: yung-jhun
+
 ### Comments:
 
 - UI is hilarious
@@ -79,7 +85,6 @@ In this project I got to build my very first javascript functionality. It was ch
 - Would love to see logic broken out of World and move things like game rendering and starting to a game class
 - move some of the collisions to block // a collisions class
 - Would like to see more tests for World if the majority of responsibility stays with world.
-
 
 ### Functional Expectations
 
@@ -108,31 +113,12 @@ The output from JSHint shows…
 * 4 - Zero complaints
 
 
+# Weatherly
 
+*   [GitHub URL](https://github.com/JustynaField/weatherly)
+*   [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
-
-
-
-
-
-### Idea Box
-
-*   [GitHub URL](https://github.com/JustynaField/idea-box)
-*   [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
-
-
-####Evaluator: Louisa
-
-
-
-
-### 2DoBox
-
-*   [GitHub URL](https://github.com/JustynaField/2DoBox-Pivot)
-*   [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
-
-
-####Evaluator: 
+## Evaluator: Alter-Nate
 
 
 
