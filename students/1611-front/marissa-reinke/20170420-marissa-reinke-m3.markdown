@@ -167,6 +167,8 @@ To Tim: Tim was awesome to work with. He is extremely good at coding and fun to 
 
 ### Being a Community Member
 
+Feedback from Beth Knight (Mod2-BE)
+
 Marissa helped with my shopping cart CSS/HTML. She's a design ninja and now our site looks really professional. As a backend non designer, she made it really easy to understand what she was doing. Her twitter game is also on point.
 
 ### Playing a Part
