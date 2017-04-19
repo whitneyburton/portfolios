@@ -1,4 +1,4 @@
-# FIRST LAST - M1 Portfolio
+# Carl Richmond - M1 Portfolio
 
 ## Areas of Emphasis
 
