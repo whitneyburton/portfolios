@@ -61,27 +61,24 @@
 | **Working Collaboratively** | 4 | X |
 
 > Bike Share evaluation comments:
-\<Impressive styling, Stations CRUD: solid, Weather CRUD: solid, Bugs: deleting station presents issues re-rendering stations index page, creating station with invalid city affects stations index page.>
+Impressive styling, Stations CRUD: solid, Weather CRUD: solid, Bugs: deleting station presents issues re-rendering stations index page, creating station with invalid city affects stations index page.
 
 > Little Shop evaluation comments:
 \<Instructor Comments Here>
 
 ##### Feedback to me for Bike Share
 
-  >* From \<Natalie Barron>: Mark, it was a pleasure working with you on Bike Share. I appreciated your commitment to learning and understanding. Our approach to completing iteration 1 together really helped my understanding of ActiveRecord fundamentals. Although we ultimately used the gem, I was impressed with your dedication to understanding pagination. Your positive attitude helped get us through the project and I’m proud of our completed project.
+  >* From Natalie Barron: Mark, it was a pleasure working with you on Bike Share. I appreciated your commitment to learning and understanding. Our approach to completing iteration 1 together really helped my understanding of ActiveRecord fundamentals. Although we ultimately used the gem, I was impressed with your dedication to understanding pagination. Your positive attitude helped get us through the project and I’m proud of our completed project.
 
-  >* From \<Erin Bassity>: I really enjoyed working on a team with you. Your interpersonal skills are great, and you are equally skilled in team-based work and solo work. You delivered, you showed up, you talked through problems, you were there for your team the entire time. You wrote great code, you refactored, you kept your eye on the ball, you were creative and advocated well for things you felt we should try when we were stuck, and you kept a positive attitude throughout. Thank you for an excellent team experience all around!
+  >* From Erin Bassity: I really enjoyed working on a team with you. Your interpersonal skills are great, and you are equally skilled in team-based work and solo work. You delivered, you showed up, you talked through problems, you were there for your team the entire time. You wrote great code, you refactored, you kept your eye on the ball, you were creative and advocated well for things you felt we should try when we were stuck, and you kept a positive attitude throughout. Thank you for an excellent team experience all around!
 
 ##### Feedback to me for Little Shop
 
-  >* From \<Natalie Barron>: Mark, it was a pleasure working with you on Little Shop. You did a great job implementing the cart functionality. I was really impressed. I really appreciated the pairing we did throughout the project. Working with you has been a great experience. You are very knowledgeable and dedicated to really understanding what's going on. I've learned so much from working with you on both Bike Share and Little Shop. Thanks for being a great teammate!
-  >* From \<Partner 2>:
-  >* From \<Partner 3>:
+  >* From Natalie Barron: Mark, it was a pleasure working with you on Little Shop. You did a great job implementing the cart functionality. I was really impressed. I really appreciated the pairing we did throughout the project. Working with you has been a great experience. You are very knowledgeable and dedicated to really understanding what's going on. I've learned so much from working with you on both Bike Share and Little Shop. Thanks for being a great teammate!
+  >* From Erin Bassity: I really enjoyed working on a team with you. Your interpersonal skills are great, and you are equally skilled in team-based work and solo work. You delivered, you showed up, you talked through problems, you were there for your team the entire time. You wrote great code, you refactored, you kept your eye on the ball, you were creative and advocated well for things you felt we should try when we were stuck, and you kept a positive attitude throughout. Thank you for an excellent team experience all around!
 
 
 ## D: Professional Skills
-
-> \<Intro>
 
 #### **Professional Development Workshops**
 > [Warm Outreach, Agile Process, Feedback](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/mark_stover.md)
@@ -89,13 +86,13 @@
 #### **Gear Ups**
 
 > [Empathy](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
-\<I think that empathy is one of the most powerful communication tools available to us as humans. In the scope of privilege, I feel that empathy provides a channel of communication that can transcend peoples differing backgrounds. Inevitably, people have different experiences and different backgrounds but through empathy we can understand and relate to one another. To me, empathy occurs on an emotional level, and because of this, I am able to better understand the experiences of another. Although someones experience may be very different from mine, I can relate to, and understand the emotional impact a particular experience may have. An example of this could be financial stress. I believe that financial stress exists across the full spectrum of wealth distribution. Someone struggling to pay rent may feel the same financial stress as someone struggling to make a mortgage payment on a million dollar house. Because the feeling is similar, I believe the two people in question could empathetically relate to each other through based on their emotional responses to their respective situations. In this way, barriers built by differing experiences and life situations can be transcended through emotional and empathetic understanding. >
+I think that empathy is one of the most powerful communication tools available to us as humans. In the scope of privilege, I feel that empathy provides a channel of communication that can transcend peoples differing backgrounds. Inevitably, people have different experiences and different backgrounds but through empathy we can understand and relate to one another. To me, empathy occurs on an emotional level, and because of this, I am able to better understand the experiences of another. Although someones experience may be very different from mine, I can relate to, and understand the emotional impact a particular experience may have. An example of this could be financial stress. I believe that financial stress exists across the full spectrum of wealth distribution. Someone struggling to pay rent may feel the same financial stress as someone struggling to make a mortgage payment on a million dollar house. Because the feeling is similar, I believe the two people in question could empathetically relate to each other through based on their emotional responses to their respective situations. In this way, barriers built by differing experiences and life situations can be transcended through emotional and empathetic understanding. 
 
 > [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
-\<In an environment like Turing, having Grit is essential. To me, this means having the mental capacity to continue to work, and work well, through failures, through long days/weeks/months of performing at 100% capacity. This capacity comes from passion and enjoyment of the work we are doing here. It also comes from knowing when to take a break. When the going gets tough, and it feels like progress in futile, remembering what I enjoy about programming is one way that I am able to apply my grit and continue working. If I did not have the passion or find joy in the work that I am doing at Turing, I do not think that I would be able to apply my whole self in the way that I do. It is also important for me to recognize when my grit is wearing thin and to respect this acknowledgement and take a break for awhile. This may seem a bit counter intuitive, but being mindful of this will help me continue to apply my grit in the long run. Turing is a marathon, not a sprint. >
+In an environment like Turing, having Grit is essential. To me, this means having the mental capacity to continue to work, and work well, through failures, through long days/weeks/months of performing at 100% capacity. This capacity comes from passion and enjoyment of the work we are doing here. It also comes from knowing when to take a break. When the going gets tough, and it feels like progress in futile, remembering what I enjoy about programming is one way that I am able to apply my grit and continue working. If I did not have the passion or find joy in the work that I am doing at Turing, I do not think that I would be able to apply my whole self in the way that I do. It is also important for me to recognize when my grit is wearing thin and to respect this acknowledgement and take a break for awhile. This may seem a bit counter intuitive, but being mindful of this will help me continue to apply my grit in the long run. Turing is a marathon, not a sprint. 
 
 > [Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
-\<When I think about automation, I find that I have two different perspectives. First, at a high level, I think automation is a great thing. I believe that we have really large systemic problems in the world, ie. over-population, poverty, extreme inequalities in distribution of wealth, etc., and I think that automation highlight these issues and force us to develop solutions to them. At a granular level, I still believe automation is a good thing, but lots of work needs to be done in order to prepare for the effects it will have on our economies and ways of life. I think we will find the best solutions through having an opinion and discussing it with others, determining what course of action will provide the least amount of suffering amongst all people. Unfortunately, regardless of how much we prepare for automation, I feel there will be a period of time defined by the suffering that automation will create until we have things in place, such as basic income, that will allow us to continue to live prosperously.   >
+When I think about automation, I find that I have two different perspectives. First, at a high level, I think automation is a great thing. I believe that we have really large systemic problems in the world, ie. over-population, poverty, extreme inequalities in distribution of wealth, etc., and I think that automation highlight these issues and force us to develop solutions to them. At a granular level, I still believe automation is a good thing, but lots of work needs to be done in order to prepare for the effects it will have on our economies and ways of life. I think we will find the best solutions through having an opinion and discussing it with others, determining what course of action will provide the least amount of suffering amongst all people. Unfortunately, regardless of how much we prepare for automation, I feel there will be a period of time defined by the suffering that automation will create until we have things in place, such as basic income, that will allow us to continue to live prosperously.
 
 
 ## E: Feedback and Community Participation
@@ -115,13 +112,13 @@
   >* For \<Partner 3>:
 
 #### **Posse**
-  >* \<This module I have been a part of Turing labs. We have been working on building an arcade box that will host Turing's arcade on a raspberry pie.>
-  >* \<Thus far, my favorite thing has been building out the arcade box and assembling the monitor, joysticks, and buttons. It has been really cool to see it all come together.>
-  >* \<My posse experience has helped me better understand what hardware is and how it can be implemented. By playing around with the raspberry pi I have learned a lot about what a computer is in its simplest form.>
+  >* This module I have been a part of Turing labs. We have been working on building an arcade box that will host Turing's arcade on a raspberry pie.
+  >* Thus far, my favorite thing has been building out the arcade box and assembling the monitor, joysticks, and buttons. It has been really cool to see it all come together.
+  >* My posse experience has helped me better understand what hardware is and how it can be implemented. By playing around with the raspberry pi I have learned a lot about what a computer is in its simplest form.
 
 #### **Playing a Part**
 
-> \<As an SAB representative for our cohort I feel that I have helped play a part in making sure our classroom is a place of inclusion and respect. I have also paired with various module 1 students and participated in lunch roulette. Additionally, I high five nearly every one I make eye contact with. It's awesome.>
+> As an SAB representative for our cohort I feel that I have helped play a part in making sure our classroom is a place of inclusion and respect. I have also paired with various module 1 students and participated in lunch roulette. Additionally, I high five nearly every one I make eye contact with. It's awesome.
 
 ------------------
 
