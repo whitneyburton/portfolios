@@ -10,7 +10,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | --- | --- |
-| A | **End-of-Module Assessments** | x |
+| A | **End-of-Module Assessments** | 3 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 4 |
 | D | **Professional Development** | 4 |
@@ -22,9 +22,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | x |
-| Independent Timed Assessment | x |
-| Diagnostic | x |
+| Pairing Assessment | pass |
+| Independent Timed Assessment | pass |
+| Diagnostic | pass |
 
 
 ## B: Individual Projects
@@ -34,10 +34,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/battleship) |
 | **Github** | [link](https://github.com/nmcolome/credit_check) | [link](https://github.com/nmcolome/jungle_beat) | [link](https://github.com/nmcolome/battleship) |
 | **Functional Expectations** | 4 | 4 | 1 |
-| **Test-Driven Development** | x | 3 | 2 |
+| **Test-Driven Development** | N/A | 3 | 2 |
 | **Encapsulation/Breaking Logic into Components** | 2 | 3 | 3 |
 | **Fundamental Ruby & Style** | 2 | 3 | 3 |
-| **Loop or Recursion** | x | 3 | x |
+| **Loop or Recursion** | N/A | 3 | x |
 
 
 ## C: Group Projects
@@ -79,7 +79,8 @@ With regard to opportunities to improve, I think it applies to both of us, we we
 
 **Feedback for Charlie:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Even though our project was very challenging and sometimes frustrating, I really enjoyed working on it with you. I love how you write down things to better understand them and how you took your time to explain them to me. Even though we have different approaches to working on a problem, we worked really well and we complemented each other. You are very logical, methodical and calm and I really appreciated your balance, specially when I started feeling frustrated about the project I could count on you step back and put things into perspective.
+> There is always something we can improve: remembering to do more git commits, splitting our work load sooner and checking in with our classmates to look for opportunities in our code, but as a partner, you communicate really well, you were open to my input and I have nothing but great things to say about you.
 
 **Feedback from Charlie:**
 
@@ -93,29 +94,32 @@ With regard to opportunities to improve, I think it applies to both of us, we we
 
 ### Gear Up
 
-#### Session 1: Growth Mindset (StrengthsFinder reflection & Learning to Pair)
+#### Session 1: Growth Mindset
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It's important to keep in mind that my abilities can be developed. I have to be patient and trust myself, my strengths and my learning process. Always remember: I can't do something *yet*; but I *will* learn how. I'm adaptable and I'm always growing as a person.
+Even though sometimes frustration or stress can trigger a fixed mindset, we must keep en eye on our on thoughts and get in the habit of stop our negative talk and accept that through failure we learn.
 
-#### Session 2: Getting Better at Difficult Things (Feedback)
+#### Session 2: Getting Better at Difficult Things
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I have limited cognitive resources and I need to manage them well in order to learn more efficiently. There are three stages of learning: can't do -- do with effort -- mastered. To better manage my learning process I should focus my learning on a few, more specific skills; break thing into pieces, get high-quality high-quantity examples, find mentors or pairings to guide me and immerse myself in the environment. So it's basically focus on small things at a time and surround myself in the field to be constantly in contact with what I want to learn. 
+
+Also, a big part of managing my learning is managing my emotions, and learning to handle frustration and stress. I have limited cognitive resources and I need to manage them well, not on feeling bad about myself or 
 
 #### Session 3: Dealing with Difference: Introvert vs. Extrovert
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It was interesting to learn about the spectrum of introversion and extroversion, how people saw themselves and were open to talk about what they need to do to work better. It was great to reflect about it and think about what I can leverage in myself and what can I do to make others feel their best and do their best.
 
 #### Session 4: Storytelling & Strengths (StrengthsFinder I)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It's interesting to see how, with practice, we get better at telling our story. I love that through the exercises we do (a story we like, the strengths we have, what were we doing before Turing and were we see ourselves after) we can find common things that helps us build our story but also identify the things that we identify with. I'm eager to develop it through out the following mods.
 
 #### Session 5: Code: Debugging the Gender Gap
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I loved the documentary and I would have liked to have more time to discuss it, but it sparked interesting conversations the following days. It's important to be aware of how our behaviour (even if unconscious) affects others and what we can do to change it. For me, it was disappointing, but not surprising, the lack of respect there is towards (in this case) women in the Technology industry but it just motivates me more to create opportunities for myself and others.
 
 ### Community Participation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I wanted to participate more in the community but sometimes it felt overwhelming; specially at the beginning of the mod. Nonetheless, I attendend every Guest Speaker Series, all but one Meetup event, joined the Wozniak posse and mondays Productivy Lunch; and tried Impostors group. Even though I didn't paired with upper mod students as much as I would have liked, I did develop a good relationship with my classmates; specially through the paired projects
 
 -------------------------------------------------------------
 
