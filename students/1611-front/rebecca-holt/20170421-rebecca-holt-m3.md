@@ -8,17 +8,17 @@ In module three, I wanted to focus on getting comfortable with React and Redux. 
 
 Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Development**: 3
-* **E: Feedback & Community Participation**: 4
+* **E: Feedback & Community Participation**: 3.5
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Passed 
 
 
 ## B: Individual Work & Projects
@@ -31,6 +31,8 @@ Our individal project for module three was our final project. I decided to make 
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
 Floral Palette an application that is designed for brides or grooms who have started their wedding planning process find flowers that will be in season during their wedding. A user can enter in the season of their wedding and up to three colors of their color palette and be presented with a list of flowers that match their criteria. I hard coded the flower data because I wasn't able to find an API that met my needs and I could easily control what data was being presented. 
+
+Passed
 
 (evaluation comments)
 
@@ -147,14 +149,15 @@ Movie Tracker was our first project using Router and Redux. It was my first proj
 * I enjoyed working with you. You were flexible about dividing tasks, and I liked how much pair programming we did.
 * It was fantastic working with you. I feel like our pacing was great and we played off each other very well. I look forward to working with you again.
 * I have worked with Becca numerous times now. She is a fantastic partner to work with. She is focused and extremely driven. She is also a great problem solver and is never afraid to throw ideas out there. Another of her strengths is that she asks concise questions and communicates and collaborates very well. She is not afraid to put in the hard work and time while remaining very adaptable.  I look forward to working with Becca again in the future!
+* Positive Feedback: Paring! We worked on a project for a whole week! Rebecca is the best! Our project would not have been successful had it not been for her abilities and awesomeness!
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+At Turing, I am a part of the community by attending Friday lectures, spikes, and am invloved in the Verou Posse. I also have paired with some mod 2 students this module on their projects. 
 
 ### Gear Up
 
-This module, we had Gear Ups on Automation, Grit and Microagressions. The grit gear up was the same as the one we had on grit in module one. I enjoyed the grit gear-up the first time and it was enjoyable to see how my mindset has changed since then. We have grown so much as students since module one. The microaggressions gear-up was one of my favorites, 
+This module, we had Gear Ups on Automation, Grit and Microagressions. The grit gear up was the same as the one we had on grit in module one. I enjoyed the grit gear-up the first time and it was enjoyable to see how my mindset has changed since then. We have grown so much as students since module one. The microaggressions gear-up was one of my favorites because the examples we had were realistic of the work environment as a dev and I enjoyed coming up with solutions on my own as well as hearing solutions from others in the cohort. The automation gear-up was enjoyable because it was run by mod 4 students. I felt as though there was more student involvment and outspoken opinions because we were more comfortable around the mod 4 students than we usualy are around the instructors. 
 
 ------------------
 
