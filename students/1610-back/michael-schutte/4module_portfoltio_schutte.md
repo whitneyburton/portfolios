@@ -62,6 +62,14 @@ _Normal/Good number of commits, would like to see more branching_
 
 ### Open Source
 
+#### Reproduce and confirm or contradict one bug report
+
+[Factory Girl](https://github.com/thoughtbot/factory_girl/issues/959)
+
+I found it surprisingly fun to recreate another person's setup and reproduce a bug. Maybe it's because I could look at their limited pictures and bust out a little Rails environment right out of muscle memory. Confidence boost!
+
+#### Submit one sizable/difficult or two smaller/moderate code-centric pull requests that are worth merging
+
 For my open source project, I contributed to the [Boulder Food Rescue Robot](https://github.com/boulder-food-rescue/food-rescue-robot). It's an application that helps save food from being thrown out at grocery stores. Volunteers use the app to schedule shifts and organize these movements. The Rails application was developed by some CU computer science students and a professor. Since they weren't Rubyists, the codebase is super hard to read and not aligned with Ruby or Rails conventions. MojoTech, a consultancy out in Boulder, decided to pick up the codebase and improve it for the Boulder.rb ongoing project, which is how I found out about it.
 
 I had three PRs (
@@ -69,7 +77,16 @@ I had three PRs (
   [here](https://github.com/boulder-food-rescue/food-rescue-robot/commit/60589cfcda9ce6cb2a059d8349ef9cca8befb71a),
   and [here](https://github.com/boulder-food-rescue/food-rescue-robot/commit/632dc7b1a750cc62bfcedc484e5b4c1efd81674d)
 ).
+
 The first two involved resolving Rubocop violations. The third one was a new feature spec that documents a key piece of the app's functionality (a volunteer viewing available shifts on their dashboard). It literally got merged while I started writing this section (4/15/17)!
+
+#### Submit one documentation patch (README, CONTRIBUTING, code documentation, etc)
+
+Early on in my BFR contributions, I made a PR for adding a SETUP markdown. They developers didn't see the point of making a separate markdown file, so they [closed my PR](https://github.com/boulder-food-rescue/food-rescue-robot/pull/78), took my documentation, and added it to an existing PR [here](https://github.com/boulder-food-rescue/food-rescue-robot/commit/3a8bbeeb6e975b55c3fbae42f86d0b7dbb13d4d5).
+
+#### Write a single blog post that explains the whole process
+
+Find it [here](https://medium.com/@tmikeschutte/s%CC%B6w%CC%B6i%CC%B6m%CC%B6m%CC%B6i%CC%B6n%CC%B6g%CC%B6-staying-afloat-in-the-open-source-sea-285c5ea6cfc2).
 
 ### Quantified Self Pt. 2
 
@@ -203,6 +220,29 @@ Originally, I thought our capstone project would be some cool and complex Rails 
 #### 6. Accessibility
 
 *   3: Team has implemented code to increase accessibility.
+
+#### Feedback
+
+From Ethan: You were an excellent project manager, really, but your biggest addition to our team was your React expertise. I don’t think I’ve had an experience like this at Turing otherwise: where each part of the project was, more or less, delegated, and we all just trusted that it would work out. That’s even cooler when all the parts are technologically distinct—and so hirable!—and it definitely would not have happened so smoothly if not for your React-ionality. I had a great time!
+
+From David: Your process oriented style is an inspiration to me.  The first time I worked with you I gained a better understanding of DRY code and refactoring, the second time I learned how to design a react app.  Both have made me a better programmer.  As project manager it was clear to me that you’re a natural leader and I particularly appreciated how you kept us from going to far off track during our white boarding sessions.  You seem to be a bit of a perfectionist which can be a double edged sword, but as long as you’re aware of it and balance it with the end goals of whatever you’re working on I see it as more of a positive.  Given how much I’ve already learned from you I’m sure you’ll make an amazing teacher.
+
+From Nick: Herr (hair?) Schutte, I'm glad we were partnered up again on a project.
+Your enthusiasm for diving deeper into the details and truly understanding
+what you're coding is completely infectious (in the good-infection way).
+Your professional approach to the Project Manager role alternated from firm to
+gentle, depending on the nudge the group needed at the time.  But as we
+wandered down side tracks, you always kept us on the straight and narrow -
+without being the heavy.
+You have to be commended for taking on the React role solo.  We know you
+built something amazing.  You know it (or you should).  But it still has to
+be acknowledged that you took it upon yourself and just said, "Don't worry,
+guys, I got this".  And you completely came through.
+I especially enjoyed how, literally minutes before our deadline to present
+the finished product to the class, you were very willing to share your
+knowledge and teach me some React.  That's absolutely the person I want to
+work with.
+Turing is not an ending - it's a beginning.
 
 ## Feedback and Community
 
