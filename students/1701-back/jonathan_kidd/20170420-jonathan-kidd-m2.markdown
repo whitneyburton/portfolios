@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-> This module, I set out to expand on the fundamental Ruby I learned in the first module, by constructing database-backed web-applications. I aimed to learn about the tools available for building such applications, and good practices in applying them. Additionally, I wanted to learn more about group work in larger team settings (four people), and how to improve git workflow and agile project management. By and large, I feel I succeeded in attaining these goals.
+> This module, I set out to expand on the fundamental Ruby I learned in the first module, by constructing database-backed web-applications. I aimed to learn about the tools available for building such applications, and good practices in applying them. Additionally, I wanted to learn more about group work in larger team settings, and how to improve git workflow and agile project management. By and large, I feel I succeeded in attaining these goals.
 
 ## Self-Assessment
 
@@ -25,7 +25,7 @@
 | **Pairing Assessment** | 3.5 |
 | **Written Diagnostic** | X |
 
->* Good confirmation of my areas of strengths as well as a few areas for improvement, especially regarding thinking through tests to ensure they are complete.
+>* The end of module assessments were a good confirmation of my areas of strengths as well as a few areas for improvement, especially regarding thinking through tests to ensure they are complete.
 
 
 ## B: Individual Work & Projects
@@ -34,7 +34,7 @@
 > [What Makes Good Rails Routes?](https://medium.com/@jklafdjklveo/what-makes-good-rails-routes-bd882eefb6e4)
 
 #### Tutorials: Blogger & Mix Master
-> Blogger and Mix Master were great introductions to Rails. I found both projects enjoyable, and though they felt a bit overwhelming at first (especially with so many words to parse and follow), in retrospect they provided a great foundation for later, more independent work. Mix Master was also helpful getting me started down the path to using Heroku to host applications.
+> Blogger and Mix Master were great introductions to Rails. I found both projects enjoyable, and though they felt a bit overwhelming at first (especially with so many new words to read and parse and follow), in retrospect they provided a great foundation for later, more independent work. Mix Master was also helpful getting me started down the path to using Heroku to host applications.
 
 #### Projects: Job Tracker & Rails Mini Project
 > Job Tracker and the Rails Mini Project were where my learning began to solidify. They were another chance to practice the basics (at first), and then led me to be more challenged with things like custom routes - which helped firm up the idea of how the MVC model works. Consuming the Giphy API was a fun challenge in my Mini Project, and I look forward to learning more.
@@ -44,7 +44,7 @@
 
 > **Bike Share**
 >* Using Sinatra, our team of four built an app that analyzed and displayed data about a Bike Sharing program in San Francisco.
->* This was a chance to practice CRUD-ing resources and an introduction to the power of ActiveRecord. I found ActiveRecord queries to be the most challenging part of the project, as it was tempting to fall back on Ruby to get our calculations done, but it spurred me to take a greater interest in learning more ActiveRecord, and I think the way objects relate and can by queried by AR is much more solid now.
+>* This was a chance to practice CRUD-ing resources and an introduction to the power of ActiveRecord. I found ActiveRecord queries to be the most challenging part of the project, as it was tempting to fall back on Ruby to get our calculations done. In the end, though, the challenge (and 2 AR category during the assessment) spurred me to take a greater interest in learning more ActiveRecord, and I think I am much more solid on the way objects relate and the many ways they can be queried.
 
 > **Little Shop of Orders**
 >* Our team of four built a shop for 'mingled' animals, using Rails. The instructor acted as a Product Owner who delivered user stories in chunks, and also gave us feedback along the way.
@@ -62,10 +62,10 @@
 | **Working Collaboratively** | 4 | X |
 
 > Bike Share evaluation comments:
-Weather CRUD: solid
-Trip CRUD: solid
-Station CRUD: solid
-Style: quirky yet sufficient
+Weather CRUD: solid,
+Trip CRUD: solid,
+Station CRUD: solid,
+Style: quirky yet sufficient,
 Heavily relying on Ruby instead of ActiveRecord for manipulations
 
 > Little Shop evaluation comments:
@@ -75,7 +75,7 @@ Heavily relying on Ruby instead of ActiveRecord for manipulations
 
   >* From Josh Thompson:
 
-  >Jonathan. Really thoughtful and methodical. I most enjoyed pairing directly with you on Sunday and Tuesday. I’d encourage you to be more assertive with your ideas and directions. You’re very attentive to what your partner is thinking, but don’t ever give them so much space that you’re sacrificing some of your “own” time, i that makes sense.
+  >Jonathan. Really thoughtful and methodical. I most enjoyed pairing directly with you on Sunday and Tuesday. I’d encourage you to be more assertive with your ideas and directions. You’re very attentive to what your partner is thinking, but don’t ever give them so much space that you’re sacrificing some of your “own” time, if that makes sense.
 
 
   >* From Stephanie Bentley:
@@ -93,26 +93,31 @@ Heavily relying on Ruby instead of ActiveRecord for manipulations
 
   >* From Danny Radden: TBD
 
-  >* From Sam Landfried: TBD
+
+  >* From Sam Landfried:
+
+  >You’re an excellent partner, and it has been a delight collaborating with you. You’re always engaged, focused, levelheaded and nice. I especially appreciated your interest in engaging in a real pair programming dynamic. I think it was a good learning opportunity for both of us to express our technical ideas out loud. You also helped me come to a personal realization when you urged the group to claim ownership of our time. We were in a spot where we couldn’t make scheduling decisions because everyone kept saying, “Anything is fine for me,” and it would have been much easier had one of us just said, “I need these hours off.” I encourage you to continue pointing out issues with group workflow. I don’t have much to offer in terms of constructive feedback since it seems like you’re doing a good job technically and collaboratively. You can be soft spoken at times, and while that wasn’t a problem in our group, I can imagine a scenario where you get steam rolled and that would be unfortunate for that group, since your opinion is obviously more important than that hypothetical jerk that is steam rolling you. Anyways, this project has really been a great experience for me, in large part because of your influence on the group, so thank you!
 
 
 ## D: Professional Skills
 
-> [Gist Reflections](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/jonathan_kidd.md) This module I focused on further developing the interpersonal and project management skills that, in the workplace, are often as or more important than technical skills. I learned a great deal about feedback and examined how I come across, as well as how others view me. I also learned more about the Agile process, and had practice reaching out to strangers.
+> [Gist Reflections](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/jonathan_kidd.md)
+
+>This module I focused on further developing the interpersonal and project management skills that, in the workplace, are often as or more important than technical skills. I learned a great deal about feedback and examined how I come across, as well as how others view me. I also learned more about the Agile process, and had practice reaching out to strangers in the industry for professional guidance and networking.
 
 #### **Professional Development Workshops**
-> [Warm Outreach, Agile Process, Feedback](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/<your_name>.md)
+> [Warm Outreach, Agile Process, Feedback](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/jonathan_kidd.md)
 
 #### **Gear Ups**
 
 > [Empathy](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
-This was a valuable exercise examining privilege and marginalization. I have seen the privilege statement list a few times before, but it always uncovers something new - this time I was struck by now I can live my life with basically no fear of others around me. Also, it is a great reminder that some of the advantages and disadvantages folks hold are not visible - a traumatic childhood could happen to anyone, regardless of race or socio-economic status. I continue to reflect on what advantages and disadvantages I have, and seek to understand others', as part of being more empathetic.
+This was a valuable exercise examining privilege and marginalization. I have seen the privilege statement list a few times before, but it always uncovers something new - this time I was struck by now I can live my life with basically no fear of others around me. Also, it is a great reminder that some of the advantages and disadvantages folks hold are not always visible - for example, a traumatic childhood could happen to anyone, regardless of race or socio-economic status. I continue to reflect on what advantages and disadvantages I have, and seek to understand others', as part of being more empathetic and appreciating and enjoying working with people different than me.
 
 > [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 This lesson presented grit as a combination of passion and perseverance. On the whole, I would agree, although I posit that there is an important addition of working 'smart' (both in what you do, in a self-reflective and evolving way, and how you do it), rather that just powering through a large volume of work and calling it grit. My own grit has increased here at Turing - I have come to enjoy the pace of work (usually), and find myself missing it when it is not there. Something I hope to develop is a greater sense of grit around independent work. I have generally done my best/most work in a structured environment, but I want to learn to do more on my own.
 
 > [Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
-Automation will either save us or destroy us all. The rapid increase/improvement of technology has the potential to make the world a better place, providing for the basic needs of all humans, or it has the potential to exacerbate the inequality already present in many societies (both economically developing and developed). I tend to be fairly pessimistic that our society values things like re-training and improving education, but I continue to strive for a better world through my awareness and activism.
+Automation will either save us or destroy us all. The rapid increase/improvement of technology has the potential to make the world a better place, providing for the basic needs of all humans, or it has the potential to exacerbate the inequality already present in many societies (both economically 'developing' and 'developed'). I tend to be fairly pessimistic that our society values the things that would save us - like re-training, improving the education system, and providing for the basic needs of all citizens - but I continue to strive for a better world through my own awareness and activism.
 
 
 ## E: Feedback and Community Participation
@@ -154,11 +159,11 @@ Automation will either save us or destroy us all. The rapid increase/improvement
 #### **Posse**
   >* I was loosely affiliated with the Wozniak posse this module. Generally, I attended weekly social lunches and Friday spikes.
   >* I enjoyed being exposed to some of the more brain-bending logical concepts of data structures.
-  >* I have a vision and list of topics for what I would like to know more about.
+  >* I now have a vision and list of topics for what I would like to know more about.
 
 #### **Playing a Part**
 
-> I signed up to pair with Mod 1 students right away - though I did not pair very often, I think it is important to give back, and especially meaningful to give back in a way that helped me so much. I plan to continue to do this in the future. I also did my part to keep the school picked up and a good place for learning.
+> I signed up to pair with Mod 1 students right away - though I did not pair very often, I think it is important to give back, and especially meaningful to give back in a way that helped me so much. I plan to continue to do this in the future. I was also involved with the Imposters group, which I found very helpful in getting through my own times of self-doubt, and I also appreciated the chance to support others.
 
 ------------------
 
