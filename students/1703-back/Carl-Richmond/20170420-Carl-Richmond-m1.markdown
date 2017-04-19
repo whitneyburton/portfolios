@@ -45,11 +45,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
-| **Github** | [link]() | [link]() |
-| **Functional Expectations** | x | x |
-| **Test-Driven Development** | x | x |
-| **Encapsulation/Breaking Logic into Components** | x | x |
-| **Fundamental Ruby & Style** | x | x |
+| **Github** | [link](https://github.com/alex-w-k/enigma) | [link](https://github.com/ACC25/headcount) |
+| **Functional Expectations** | 4 | x |
+| **Test-Driven Development** | 3 | x |
+| **Encapsulation/Breaking Logic into Components** | 4 | x |
+| **Fundamental Ruby & Style** | 3 | x |
 | **Enumerable & Collections** | x | x |
 | **Code Sanitation** | x | x |
 
