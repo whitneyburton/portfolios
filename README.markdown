@@ -159,7 +159,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 ### Module 4 (Front-end)
 
 * Individual Assessment
-* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, Real Time & Homework Assignment
+* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, BYOB
   * Should include points breakdown per project
 * Professional Development:
 *PD deliverables should be submitted via email to Meg at [mstewart@turing.io](mail:to)*
