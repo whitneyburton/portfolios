@@ -58,10 +58,12 @@ None-FotoFinder was a complete failure. I was steamrolled by my pairing partner 
 ## D: Professional Skills
 www.linkedin.com/in/shaylarichard  https://twitter.com/ShaylaRRichard   https://github.com/Shayla303
 
+https://github.com/Shayla303/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md
+
+https://github.com/Shayla303/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md
+
 ### Gear Up
 #### (Session Name)
-
-* [GitHub URL]()
 
 https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown
 Growth mindset was such an introduction to the grit component that we are required to have as students at Turing. I enjoyed hearing Dr. Dweck discuss how to keep ourselves from creating a false sense of success. Creating praise for process, effort, and growth in an area. It's shortsighted to praise talent and intelligence. I loved the mantra to focus on the"not yet" component of learning a new area. 
