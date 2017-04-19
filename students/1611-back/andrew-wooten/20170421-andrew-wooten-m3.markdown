@@ -3,7 +3,7 @@
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
-  This module my primary goal, besides technical compentency, was to
+  This module my primary goal, besides technical competency, was to
 play a larger part in the community. I think that I've succeeded fairly well in
 in meeting my goal. I worked reasonably hard to support my cohort as well as
 anybody else that happened to come along with something that I could help with.
@@ -232,7 +232,9 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 
 *   Did the team push themselves by taking risks?
     *   1: Yes
-
+**Feedback**
+From Katy:
+  It was great to have you on our Cloney Island team. You were so motivated and ready to work all of the time, and I think that helped the team stay focused and positive. I also really appreciated your positive attitude, even when problems arose and we were stuck for some times. I would suggest you take breaks from the code a little more often to clear your head and gain perspective on those tough challenges. It was really a pleasure to have you on the team.
 ### Gear Up
 
 * Automation
