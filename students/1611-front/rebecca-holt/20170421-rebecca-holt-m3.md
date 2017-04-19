@@ -79,7 +79,7 @@ Headcount 2.0 was our second project in React.js. It was meant to help us with o
 
 Swapi box was a project that allowed us to have a complex application in React in which multiple components and children needed to pass data around. We used the Star Wars API to get the information we needed. 
 
-####Evaluator: Brenna
+#### Evaluator: Brenna
 
 #### Notes: 
  - Tests: 21 passing tests, no fetch tests
