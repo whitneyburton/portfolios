@@ -78,11 +78,11 @@ I'm grateful to have had my first pairing project with you. I felt like we were 
 
 **Feedback for Alex Koch:**
 
-> Lorem ipsum dolor 
+> This project was a success. We struggled hard in the beginning to conceptualize how to approach the project and the interaction patterns between objects. This struggle allowed us to breeze through later iterations because we had a solid structure to build off. We put in solid amounts of work time to get the project done well ahead of time allowing us to refactor. Our work styles were compatible. We used driver/navigator until we got stumped, and went solo to problem solve until one of us figured it out, usually collaboratively discussing issues throughout. We each went through periods of confusion and the other was able to explain the approach, bring the other up to speed, and keep the project moving forward together. My actionable criticism would be for you to ask others for help after struggling for more than 30 minutes because a fresh pair of eyes usually cuts out hours of struggle. Your understanding of ORM and databases certainly got us started and in a good place in the initial iterations when I was confused by the spec. Your understanding was an essential part of the success of our project.
 
 **Feedback from Alex Koch:**
 
-> Lorem ipsum dolor 
+> 
 
 ### Job Prep
 
