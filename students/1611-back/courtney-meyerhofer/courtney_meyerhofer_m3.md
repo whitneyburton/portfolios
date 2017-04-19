@@ -243,7 +243,12 @@ Project demonstrates well-factored code and a solid grasp of MVC principles.
 
 ### Giving Feedback
 
-(feedback from me)
+#### James Anderson
+James, I really enjoyed working with you on the Cloney Island project. You were dedicated to the project, and I especially appreciate the quality you put into your code, like the site's messaging system. You were always communicative and organized, and made sure to update the team of our status as we went along. As our project manager, you consistently thought ahead to what problems we might encounter and I think that forethat kept us from having any major issues. You're able to work through problems idepdently, be a communicative collaborator, and keep a project on track to completion. You were an excellent team member, and any group would be lucky to have you on their team.
+
+#### Valerie Trudell
+
+#### Amara Lovato
 
 ### Being a Community Member
 
