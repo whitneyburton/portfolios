@@ -101,9 +101,8 @@ When I think about automation, I find that I have two different perspectives. Fi
 
 ##### Feedback from me for Bike Share
 
-  >* For \<Partner 1>:
-  >* For \<Partner 2>:
-  >* For \<Partner 3>:
+  >* For Natalie Barron: It am grateful that  we were on the same team on Bike Share. You consistently produced quality work which gave me confidence in our dividing and conquering techniques. You also are very skilled at talking through a difficult coding challenges, helping to identify the root of the problem. For me this was really helpful at the beginning of the project as we worked our way through the CRUD functionality. Lastly, it is apparent you have a strong handle on the Ruby language. This makes working through challenging problems, ie iteration 6 and on up, really fun. I really enjoyed our driver/navigator roles as we worked towards wrapping up our project. I find coding to be the most fun when the majority of brain power is working towards solving a logic problem, and is not distracted by syntactical or tool malfunctions. I think we found that headspace at the end.. even though we were turning into robots! All in all, this was one of the best pairing experiences I have had. Thanks for being a great teammate!
+  >* For Erin Bassity: I sure am glad you were our team lead. Your organizational skills really helped to drive our project and gave it a really nice tempo. I always knew what to be working on and that was in large part due to the tools you set up for us at the beginning of our project. You did a wonderful job in facilitating discussion around our project design, timelines/daily expectations, and sticking points. In the case of styling our website, your obvious skill in HTML really gave our site a professional touch. You also did a great job of communicating exactly how you were styling our site, keeping each of us up to speed on your work. All together it made for a very positive team experience!
 
 ##### Feedback from me for Little Shop
 
