@@ -144,7 +144,7 @@ Squee, thank you for being a great pair on the Enigma project. From the very beg
 
 #### Headcount
 
-* [GitHub URL](https://github.com/dianawhalen/headcount)
+* [GitHub URL](https://github.com/squeemishly/headcount_trial_and_error)
 * [Original Assignment](http://backend.turing.io/module1/projects/headcount)
 
 Use Ruby to parse through a bunch of CSV files to discover the correlation of statistics around students in Denver area school districts.
