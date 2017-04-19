@@ -31,7 +31,7 @@
 ## B: Individual Work & Projects
 
 #### Blog Post:
-> [Blog Post Goin Here](https://google.com)
+> [What Makes Good Rails Routes?](https://medium.com/@jklafdjklveo/what-makes-good-rails-routes-bd882eefb6e4)
 
 #### Tutorials: Blogger & Mix Master
 > Blogger and Mix Master were great introductions to Rails. I found both projects enjoyable, and though they felt a bit overwhelming at first (especially with so many words to parse and follow), in retrospect they provided a great foundation for later, more independent work. Mix Master was also helpful getting me started down the path to using Heroku to host applications.
@@ -87,7 +87,9 @@ Heavily relying on Ruby instead of ActiveRecord for manipulations
 
 ##### Feedback to me for Little Shop
 
-  >* From Maria Stenquist: TBD
+  >* From Maria Stenquist:
+
+  >Jonathan! You were awesome to work with on the Little Shop project. You approached the project with a great attitude, which contributed to a comfortable atmosphere to work in as a group. I appreciated how you were always willing to pair on something, and helped me get over some small speed-bumps that I needed a second pair of eyes on, or just needed to voice out loud what a piece of functionality was doing. A couple of your strengths in the project were driving forward RSpec tests, as well as a bigger-picture of how the code is interacting in the project, which was helpful for us to keep the project scope in mind, and moving forward. I had to give it some thought for some constructive feedback for you in the future, and the one thing I came up with: you have really great ideas & strong technical skills, I think taking more leadership or expressing your ideas more quickly would have steered our project in a positive way. In addition, I think you have great teaching skills as I learned a lot from your explanations in our pairings, and I think you would be great at leading a spike for Turing students (I look forward to attending it!). I think your calm demeanor & open-approach being valuable to you as a developer on a team, and I foresee you being a great project lead/having leadership skills in an impactful way for whichever organization you join post-Turing. Hopefully we get to work again in a group at Turing or beyond.
 
   >* From Danny Radden: TBD
 
