@@ -17,8 +17,26 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 -----------------------
 
 ## A: End of Module Assessment
-
-(Notes & scores from your assessment rubric)
+### Comments
++- Excellent specs.
+ +- Like the table in your view, and really like the way that you approached getting the count into the view.
+ +- Controller looks good.
+ +- API Controller: Intrigued by the idea of allowing users to submit item as a nested hash or not. No strong feelings on it, but it's an interesting approach.
+ +- Could potentially break `.find_by_zipcode` into smaller methods.
+ +- Service: Consider using the syntax here for HTTParty instead of string interpolation: http://www.rubydoc.info/github/jnunemaker/httparty
+ +- For the 4 on completion would have liked to see pagination.
+ +- Re: Ruby & Rails syntax: Believe this was one of the strongest evals we saw. Believe that a 4 represents a recognition that someone has gone over and above. Currently considering pushing to move to pass/fail on evals because, while pushing yourself and doing interesting things is good for a project, in an eval I just want to see that you can do what needs to be done in a way that is completely unsurprising to an outside viewer. This assessment does that. As you can see from the comments there is very little I would change. Great job.
+ 
+### 1. Ruby Style
+3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+### 2. Rails Syntax & API
+3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+### 3. Testing
+4: Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.
+### 4. Progression/Completion
+3: Developer is able to implement solutions at the speed of a junior developer.
+### 5. Workflow
+4: Developer commits every 15 minutes
 
 
 ## B: Individual Work & Projects
