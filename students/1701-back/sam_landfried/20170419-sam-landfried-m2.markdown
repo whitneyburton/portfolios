@@ -23,10 +23,7 @@ This mod I learned that you really can't do it all. I had to make some hard deci
 | Category | Score (optional) |
 | ----- | --- |
 | **Pairing Assessment** | 4 |
-| **Written Diagnostic** | X |
-
->* \<Notes>
-
+| **Written Diagnostic** | 5 |
 
 ## B: Individual Work & Projects
 
@@ -77,14 +74,20 @@ Little Shop evaluation comments:
 
 * From Beth:
 Sam is an incredibly responsible and this made him a great project manager. He kept us focused and working when we started to get too silly. He’s also a very strong programmer. And as a person, he’s a great listener. Our team was definitely better off for having him on it.
-  >* From \<Partner 2>:
+
+* From Mark Van Akkeren:
+in retrospective you did a fantastic job at the PM organization.  While i bristled with what seemed like over kill at times it was good to always be on the same page and always have good communication lines open.  I have taken a lot away from that and totally will be applying elements in future groups.
+
   >* From \<Partner 3>:
 
 ##### Feedback to me for Little Shop
 
 * From Jonathan:
 I very much enjoyed and appreciated pairing with you - your methodical approach to TDD and your flexibility on the eventual solution was especially constructive, and you personally helped me see even more value in the TDD and pairing processes. We as a team benefitted from your logical mind, and your bringing creative solutions to the challenges of the project. The only area you might focus on in the future is setting boundaries on your time, both for your own benefit and that of the group. Your energy and concentration is a real asset, but can also be difficult for others to keep up with. Overall, I am really glad we finally had the chance to work together, and would hope to again in the future.
-  >* From \<Partner 2>:
+
+* From Maria Stenquist:
+Sam, it was a great learning experience for me to finally have you as a team member. You set out to learn as much as you could in this project, and I think you did a good job balancing your own learning objectives with those of the rest of the team. You were dedicated to the project, as well as the team, and while you kept the scope of the project in mind, you were never afraid to dive into the nitty gritty details of the code. I think this skill will immensely serve you as a developer. During our project, you did an awesome job with juggling other commitments, such as your work with Wozniak Posse and arranging a lecture on Beth's job-hunt process (which was a great lecture, I got a lot out of it) as well as side-projects (something about working in Java?), so you are always thinking two-steps ahead. Having said this, while you conceptually and technically were very strong in driving forward the objectives of the project, I noticed a couple times where other members of the group had valuable input that was not given credence to at that point, but later surfaced as being relevant. Otherwise, I am hard-pressed to think of any other constructive feedback as you were an excellent teammate, and I really appreciated our pairing sessions (especially on RSpec!) as they helped to synthesize several concepts for me. Thanks for making yourself available to pair, and it is clear you have a knack for teaching, which is a super valuable skill to have. I foresee you going on to doing great things as a developer, and hopefully we get to work together again soon.
+
   >* From \<Partner 3>:
 
 
