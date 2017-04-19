@@ -7,11 +7,13 @@ My goals for this module were to (1) pass it, (2) still enjoy the problem-solvin
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**:            X
-* **B: Individual Work & Projects**:          X
-* **C: Group Work & Projects**:               X
-* **D: Professional Skills**:                 X
-* **E: Feedback & Community Participation**:  X
+| Category                                   | Self-Eval |
+| ---                                        |   :---:   |
+|* **A: End-of-Module Assessment**           |     4     |
+|* **B: Individual Work & Projects**         |     3     |
+|* **C: Group Work & Projects**              |     3     |
+|* **D: Professional Skills**                |     3     |
+|* **E: Feedback & Community Participation** |     3     |
 
 -----------------------
 
