@@ -127,15 +127,14 @@ I really enjoyed the Automation gear up. I am a big proponent of automation and 
 >**To Jonathan:** I had a great time working with you. Your quickness in picking up new concepts, as well as your existing depth and breadth of knowledge, enabled us to blaze through every challenge in front of us. Also, your dogged determination to solve problems was great - though at the same time, it was sometimes hard to know what your process was for tackling said problem. In sharing that process with the group, it can lead to a better outcome and more learning all around, even with the trade-off of potentially arriving at a solution more slowly. All around, I really appreciated your sense of humor and good nature, and assert you were a true asset to the team. 10/10 would work with again.
 
 #### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
+I was one of the leaders for the Wozniak Posse this mod. We focused on learning data structures on algorithms.
+
+I really enjoyed learning about different data structures and teaching them to others. I think it is pretty useful knowledge. Also, standing in front of the class was great practice for public speaking and teaching. It was a challenge to find time to work on things for the posse, but because of that I think we because really good at organizing our time.
+
 
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
-
-------------------
+Other than leading a posse I have been pairing with Mod 1ers and others from my class to try to help them out. I also gave out cookies once.
 
 ## Final Review
 
