@@ -50,6 +50,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 (Intro)
 
+#### Will Legislate for Money
+
+* [GitHub URL](https://github.com/meyerhoferc/will-legislate-for-money)
+* [Original Assignment](http://backend.turing.io/module3/projects/self_directed_project)
+* [Site In Production](http://legislate.money)
+
+Will Legislate is a Django application that consumes 3 APIs to give the user information about a public official. Senators and Representatives are organized by state and chamber, and a user can search by either filter. For a legislator's show page, they have a profile of their basic information, a table of their industy and organization contributors and a table for the different bills they've sponsored or co-sponsored. Aside from the profile information, a legislator's information is displayed from an AJAX call. I also setup my own production by buying a domain and using a Digital Ocean droplet. 
 
 #### Apicurious - Reddit
 
@@ -99,17 +106,6 @@ Product Experience
 **User Experience**
 
 3.5: The application is a logical and easy to use implementation of the target application 3.5: The application covers many interactions of the target application, but has a few holes in lesser-used functionality
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 ## C: Group Work & Projects
 
