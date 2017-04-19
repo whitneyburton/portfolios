@@ -22,8 +22,8 @@
 
 | Category | Score (optional) |
 | ----- | --- |
-| **Pairing Assessment** | 3.5 |
-| **Written Diagnostic** | X |
+| **Pairing Assessment** | PASS |
+| **Written Diagnostic** | PASS |
 
 >* The end of module assessments were a good confirmation of my areas of strengths as well as a few areas for improvement, especially regarding thinking through tests to ensure they are complete.
 
