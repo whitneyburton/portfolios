@@ -77,8 +77,15 @@ Overall, the pairing went smoothly. We took on the driver/navigator role which w
 #### Project 2 (Partner Name):
 
 **Feedback for Joel Lindow:**
+Joel,
 
+Holy cow, did we endure a lot during this project! Between you and a wicked fever, and me and heavy things unrelated to Turing, we really seemed to hit our limits. I wish for the both of us that our minds were able to be more present and focused on the project. I think no matter what our circumstances the project would have been challenging, and despite our circumstances, I'm glad in some ways to have experienced it in this way. When shit goes just totally awry, maybe we'll both have a little more fortitude.
 
+In the beginning of the project I was in the mindset of hitting the wall hard, struggling to get past the concepts of an intricate and complex project and you were eager to seek outside help. This turned out to be a recurring theme for us and I think we acknowledged each other's stubborn natures. When you got sick I did look for outside help, and then realized that pressures from outside Turing were really draining me. We both made progress individually at times, together at times, we both learned a lot, and that's what really matters.
+
+I spent a fair amount of time mentoring you during first week of this project. While I am happy to help, I think you'd benefit from really digging into the basics. It's not easy to need to work on foundational Ruby knowledge while taking on a vast project. Regardless of the mod-2 prework, or if you decide to repeat mod-1, getting those foundations down is the single most important thing, in my opinion.
+
+Overall, I cannot be more thankful for you during this project. You sensed something was not okay with me, and when I finally told you what was happening, you were immediately there to support me. As it turns out, I didn't need a stellar project, I needed a spectacular project partner. And I got one.
 
 **Feedback from Joel Lindow:**
 
