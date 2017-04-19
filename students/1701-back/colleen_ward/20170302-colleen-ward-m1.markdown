@@ -87,7 +87,7 @@ Feedback from partner projects
 #### Project 2 (Victoria Vasys):
 
 >It was a real pleasure working with you! The fact that you were so willing to put every last minute of your free time into this project was highly motivating and put us in a great spot to finish, while leaving a whole day of refactoring! That felt really good. Obviously, we all have plenty of room for improvement considering we have 3 mods to go, but I think you might really benefit from celebrating your charts & pops a little more. I honestly don't have any negative feedback! I think we were good about switching roles, picking up each other's slack when we were brain-dead & dividing and conquering. Thanks for being willing to go down wonky roads with me & taking time to problem-solve on your own when we got stuck working together. Super duper job, I'm really happy with our progress!
-
+<!--  -->
 
 ### Job Prep
 
