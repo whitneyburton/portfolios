@@ -1,0 +1,135 @@
+# \<Mark Stover> - M2 Portfolio
+
+## Areas of Emphasis
+
+> \<This Module I set out to explore Rails, learn the MVC cycle, and incorporate my creativity through CSS and HTML.>
+
+## Self-Assessment
+
+| Section | Category | Score (optional) |
+| --- | ----- | --- |
+| A | **End-of-Module Assessment** | X |
+| B | **Individual Work & Projects** | 3 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 3 |
+| E | **Feedback & Community Participation** | 4 |
+
+>* \<This module was hard for me in a very different way than Module 1. There was much less algorithmic thinking and much more focus on process and memorization. This was challenging for me because the work was focused less on finding a solution, and more and getting through the many necessary steps required to complete a project. >
+>* \<Notes>
+
+-----------------------
+
+## A: End-of-Module Assessment
+
+| Category | Score (optional) |
+| ----- | --- |
+| **Pairing Assessment** | PASS |
+| **Written Diagnostic** | X |
+
+>* \<I am becoming more comfortable at working through problems with instructors. >
+>* \<Notes>
+
+
+## B: Individual Work & Projects
+
+#### Blog Post:
+> [\<Topic>](https://)
+
+#### Tutorials: Blogger & Mix Master
+> \<These projects were very helpful in providing exposure to topics that were later covered in lecture. Because they were so lengthy, I had to make sure I was using pomodoros in order to give each part of the tutorials my full attention. These projects also proved to be useful resources to come back to for clarification throughout the module and during other projects. >
+
+#### Projects: Job Tracker & Rails Mini Project
+> \<Job tracker provided the same type of learning for me as Blogger and Mix Master. It was helpful in introducing me to new concepts that were later covered in lecture. The Rails Mini Project was great in that it really helped reinforce all of my learning this Module. It was also a really nice break from tutorial work. Because I was able choose my own project, I noticed an increase in my enthusiasm and productivity. >
+
+
+## C: Group Work & Projects
+
+> **Bike Share**
+>* \<In this project we used Ruby, Sinatra, and Activerecord to build a site that analyzed bike share usage in San Francisco>
+>* \<This project was a great introduction to working on a larger team. It required us to improve upon our Git skills in order to keep our work flow organized and helped to highlight the value of good team communication. The was my first time using Activerecord and I enjoyed finding ways to leverage database relationships to procure the required information.>
+
+> **Little Shop of Orders**
+>* \<In this project we used Ruby, Rails, and Activerecord to build an online store complete with shopping cart, authentication, and authorization.>
+>* \<This project was really enjoyable. We strived to use agile methodologies to drive the completion of our MVP. We communicated really well and were able to successfully implement all of the logic required to implement all of the features of our site. Additionally, our testing suite was rock solid and our site developed using 100% TDD.>
+
+| CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
+| --- | --- | --- |
+| **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
+| **Github Repo** | [Bike Repo](https://github.com/somedayrainbows/bike-share) | [Shop Repo](https://github.com/somedayrainbows/tripvontrapp) |
+| **Functional Expectations** | 3 | X |
+| **ActiveRecord** | 3 | X |
+| **User Experience and Conventions** | 4 | X |
+| **Code Organization/Quality** | 4 | X |
+| **Testing** | 3 | X |
+| **Working Collaboratively** | 4 | X |
+
+> Bike Share evaluation comments:
+\<Impressive styling, Stations CRUD: solid, Weather CRUD: solid, Bugs: deleting station presents issues re-rendering stations index page, creating station with invalid city affects stations index page.>
+
+> Little Shop evaluation comments:
+\<Instructor Comments Here>
+
+##### Feedback to me for Bike Share
+
+  >* From \<Natalie Barron>: Mark, it was a pleasure working with you on Bike Share. I appreciated your commitment to learning and understanding. Our approach to completing iteration 1 together really helped my understanding of ActiveRecord fundamentals. Although we ultimately used the gem, I was impressed with your dedication to understanding pagination. Your positive attitude helped get us through the project and I’m proud of our completed project.
+
+  >* From \<Erin Bassity>: I really enjoyed working on a team with you. Your interpersonal skills are great, and you are equally skilled in team-based work and solo work. You delivered, you showed up, you talked through problems, you were there for your team the entire time. You wrote great code, you refactored, you kept your eye on the ball, you were creative and advocated well for things you felt we should try when we were stuck, and you kept a positive attitude throughout. Thank you for an excellent team experience all around!
+
+##### Feedback to me for Little Shop
+
+  >* From \<Natalie Barron>: Mark, it was a pleasure working with you on Little Shop. You did a great job implementing the cart functionality. I was really impressed. I really appreciated the pairing we did throughout the project. Working with you has been a great experience. You are very knowledgeable and dedicated to really understanding what's going on. I've learned so much from working with you on both Bike Share and Little Shop. Thanks for being a great teammate!
+  >* From \<Partner 2>:
+  >* From \<Partner 3>:
+
+
+## D: Professional Skills
+
+> \<Intro>
+
+#### **Professional Development Workshops**
+> [Warm Outreach, Agile Process, Feedback](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/mark_stover.md)
+
+#### **Gear Ups**
+
+> [Empathy](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
+\<I think that empathy is one of the most powerful communication tools available to us as humans. In the scope of privilege, I feel that empathy provides a channel of communication that can transcend peoples differing backgrounds. Inevitably, people have different experiences and different backgrounds but through empathy we can understand and relate to one another. To me, empathy occurs on an emotional level, and because of this, I am able to better understand the experiences of another. Although someones experience may be very different from mine, I can relate to, and understand the emotional impact a particular experience may have. An example of this could be financial stress. I believe that financial stress exists across the full spectrum of wealth distribution. Someone struggling to pay rent may feel the same financial stress as someone struggling to make a mortgage payment on a million dollar house. Because the feeling is similar, I believe the two people in question could empathetically relate to each other through based on their emotional responses to their respective situations. In this way, barriers built by differing experiences and life situations can be transcended through emotional and empathetic understanding. >
+
+> [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+\<In an environment like Turing, having Grit is essential. To me, this means having the mental capacity to continue to work, and work well, through failures, through long days/weeks/months of performing at 100% capacity. This capacity comes from passion and enjoyment of the work we are doing here. It also comes from knowing when to take a break. When the going gets tough, and it feels like progress in futile, remembering what I enjoy about programming is one way that I am able to apply my grit and continue working. If I did not have the passion or find joy in the work that I am doing at Turing, I do not think that I would be able to apply my whole self in the way that I do. It is also important for me to recognize when my grit is wearing thin and to respect this acknowledgement and take a break for awhile. This may seem a bit counter intuitive, but being mindful of this will help me continue to apply my grit in the long run. Turing is a marathon, not a sprint. >
+
+> [Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+\<When I think about automation, I find that I have two different perspectives. First, at a high level, I think automation is a great thing. I believe that we have really large systemic problems in the world, ie. over-population, poverty, extreme inequalities in distribution of wealth, etc., and I think that automation highlight these issues and force us to develop solutions to them. At a granular level, I still believe automation is a good thing, but lots of work needs to be done in order to prepare for the effects it will have on our economies and ways of life. I think we will find the best solutions through having an opinion and discussing it with others, determining what course of action will provide the least amount of suffering amongst all people. Unfortunately, regardless of how much we prepare for automation, I feel there will be a period of time defined by the suffering that automation will create until we have things in place, such as basic income, that will allow us to continue to live prosperously.   >
+
+
+## E: Feedback and Community Participation
+
+#### **Giving Feedback**
+
+##### Feedback from me for Bike Share
+
+  >* For \<Partner 1>:
+  >* For \<Partner 2>:
+  >* For \<Partner 3>:
+
+##### Feedback from me for Little Shop
+
+  >* For \<Partner 1>:
+  >* For \<Partner 2>:
+  >* For \<Partner 3>:
+
+#### **Posse**
+  >* \<This module I have been a part of Turing labs. We have been working on building an arcade box that will host Turing's arcade on a raspberry pie.>
+  >* \<Thus far, my favorite thing has been building out the arcade box and assembling the monitor, joysticks, and buttons. It has been really cool to see it all come together.>
+  >* \<My posse experience has helped me better understand what hardware is and how it can be implemented. By playing around with the raspberry pi I have learned a lot about what a computer is in its simplest form.>
+
+#### **Playing a Part**
+
+> \<As an SAB representative for our cohort I feel that I have helped play a part in making sure our classroom is a place of inclusion and respect. I have also paired with various module 1 students and participated in lunch roulette. Additionally, I high five nearly every one I make eye contact with. It's awesome.>
+
+------------------
+
+## Final Review
+
+> #### Notes ( Leave blank for reviewers )
+
+> #### Outcome ( Leave blank for reviewers )
