@@ -31,8 +31,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](https://github.com/squeemishly/homework/blob/master/credit_check.rb) | [link](https://github.com/squeemishly/jungle_beat) | [link](https://github.com/squeemishly/battleship) |
-| **Github** | [link]() | [link]() | [link]() |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/battleship) |
+| **Github** | [link](https://github.com/squeemishly/homework/blob/master/credit_check.rb) | [link](https://github.com/squeemishly/jungle_beat) | [link](https://github.com/squeemishly/battleship) |
 | **Functional Expectations** | 4 | 3 | 2 |
 | **Test-Driven Development** | x | 3 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 | 3 |
@@ -44,8 +44,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](https://github.com/squeemishly/enigmatic) | [link](https://github.com/squeemishly/headcount_trial_and_error) |
-| **Github** | [link]() | [link]() |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
+| **Github** | [link](https://github.com/squeemishly/enigmatic) | [link](https://github.com/squeemishly/headcount_trial_and_error) |
 | **Functional Expectations** | 1 | x |
 | **Test-Driven Development** | 3 | x |
 | **Encapsulation/Breaking Logic into Components** | 3 | x |
