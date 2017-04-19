@@ -19,12 +19,19 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## A: End of Module Assessment
 ### Comments
 +- Excellent specs.
+
  +- Like the table in your view, and really like the way that you approached getting the count into the view.
+ 
  +- Controller looks good.
+ 
  +- API Controller: Intrigued by the idea of allowing users to submit item as a nested hash or not. No strong feelings on it, but it's an interesting approach.
+ 
  +- Could potentially break `.find_by_zipcode` into smaller methods.
+ 
  +- Service: Consider using the syntax here for HTTParty instead of string interpolation: http://www.rubydoc.info/github/jnunemaker/httparty
+ 
  +- For the 4 on completion would have liked to see pagination.
+ 
  +- Re: Ruby & Rails syntax: Believe this was one of the strongest evals we saw. Believe that a 4 represents a recognition that someone has gone over and above. Currently considering pushing to move to pass/fail on evals because, while pushing yourself and doing interesting things is good for a project, in an eval I just want to see that you can do what needs to be done in a way that is completely unsurprising to an outside viewer. This assessment does that. As you can see from the comments there is very little I would change. Great job.
  
 ### 1. Ruby Style
