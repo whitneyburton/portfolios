@@ -58,9 +58,9 @@ None-FotoFinder was a complete failure. I was steamrolled by my pairing partner 
 ## D: Professional Skills
 www.linkedin.com/in/shaylarichard  https://twitter.com/ShaylaRRichard   https://github.com/Shayla303
 
-https://github.com/Shayla303/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md
+https://gist.github.com/Shayla303/d59fff3ce394189f9b49697646037d65
 
-https://github.com/Shayla303/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md
+https://gist.github.com/Shayla303/39df87007c651d1d66ae51ee235ceec4
 
 ### Gear Up
 #### (Session Name)
