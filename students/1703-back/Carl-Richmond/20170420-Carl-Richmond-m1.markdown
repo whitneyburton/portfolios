@@ -13,7 +13,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | A | **End-of-Module Assessments** | 3 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
-| D | **Professional Development** | 3 |
+| D | **Professional Development** | 4 |
 | E | **Community** | 3 |
 
 ------------------------------------------------
@@ -24,7 +24,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | ----- | --- |
 | Pairing Assessment | pass |
 | Independent Timed Assessment | pass |
-| Diagnostic | x |
+| Diagnostic | pass |
 
 
 ## B: Individual Projects
@@ -78,11 +78,11 @@ Feedback from partner projects.
 
 **Feedback for Sarah:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> I think that Sarah brought a really good energy to the project and her ability to rap was a hilarious unexpected addition. She was really good in brainstorming sessions and didn't let the stress of not knowing something get in the way of pushing forward, which I think was really critical for getting where we did in Headcount. The project was so difficult that if one person allowed themselves to get a "stress" mental block it would break the flow of the project. I enjoyed that she jumped in and took charge when she noticed I had been driving for too long. Her ability to manipulate enums saved us at a few critical points. I don't have any suggestions for her to improve as I thought she was a good communicator and project partner overall. Headcount was really stressful, so the fact we didn't snap at each other is a good sign I think. 
 
 **Feedback from Sarah:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>
 
 ### Job Prep
 
