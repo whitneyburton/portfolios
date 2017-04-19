@@ -96,6 +96,10 @@ Originally proposed by Lucy, this project was meant to improve Allison's ability
 
 *   4: Team has expertly implemented features to follow accessibility best practices.
 
+## Professional Development
+
+[Deliverables](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1610-b/annie_wolff.md)
+
 ## Feedback & Community
 
 This module, I again served as an SAB representative. It was sometimes frustrating but always rewarding. We made some active plans to address problems in the community this module and planned a fun event at View House for Final Friday.
