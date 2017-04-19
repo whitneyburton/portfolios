@@ -106,6 +106,17 @@ This module, I again served as an SAB representative. It was sometimes frustrati
 
 I also helped to faciliate a Gear Up session on automation with some fellow Mod4 students. We planned the session over a few weeks and led during Week 5. I think that having students lead Gear Up is a good way to encourage participation. I also think that having a smaller group encouraged everyone to share their thoughts and led to a better discussion. Overall, I had a positive experience and would be excited to see this idea continue.
 
+### Feedback from Me
+
+To Lucy Conklin--"Lucy, thank you for taking on the thankless job that is Project Manager for Johari Window. It was a great idea for a project and I loved making something that makes a difference for Turing. I appreciated your patience on Auth0. I really thought that we were going to get it working.  
+Most of all, though, I admire your drive to finish this crazy app. I was ready to throw in the towel, but that's not your style and I really value that."
+
+To David Knott--"David, your energy is infectious and it makes you a joy to work with! I enjoyed digging into a new technology stack with you and I learned a lot from the way that you approach a topic you don't understand. Never stop learning!"
+
+To Drew Palazzari--"Drew! You are so. fun. to work with! Even though our job the first week of the cappstone project wasn't that exciting, I had a blast putting it together with you. And even though most of our johari code didn't make it into the final app, it was challenging and rewarding pairing with you on it!"
+
+### Feedback to Me
+
 ------------------
 
 ## Final Review
