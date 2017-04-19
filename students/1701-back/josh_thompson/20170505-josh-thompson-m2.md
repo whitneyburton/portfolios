@@ -35,7 +35,7 @@ I met with Maya, one of just a few students in mod 2, to talk about job things. 
 | Category | Score (optional) |
 | ----- | --- |
 | **Pairing Assessment** | 3.8 |
-| **Written Diagnostic** | n/a as of 3:30p |
+| **Written Diagnostic** | 4.5 |
 
 I enjoyed pairing with Beth on the end-of-mod assessment.
 
@@ -112,13 +112,11 @@ Josh: I really appreciate your positive, “who-cares-if-things-get-fucked-up”
 
 **Chris**
 
+> pending
+
 **Seth**
 
-> Seth! This was our what... fourth project together? I've really enjoyed working with you, and continue to be impressed by how quickly you crush those waffle cards and piece together complex logic.
->
-> I look forward to working with you again down the road. Since we're supposed to have recommendations, I'd recommend (again) working on listening. Sometimes when we'd be chatting with Andrew or Beth or someone, you'd ask a question, then they'd start to give a response, and then you'd interrupt to add more info about your question. Not a huge deal, but since they're the experts, it's generally best to let them finish their thought before jumping in again.
->
-> Your technical skills are top notch. I've enjoyed them!
+> It's has been nice working with you and with your consistant ability to stay on task and not get distracted has been really helpful in keeping myself from doing those. It has also been nice exchanging keyboard shortcuts and other valuable computer navigation tricks with you.
 
 
 
