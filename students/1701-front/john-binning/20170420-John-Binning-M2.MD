@@ -256,7 +256,7 @@ John and I weren't paired for projects, but he and I worked together whiteboardi
 
 ### Playing a Part
 
-I feel that I stepped up as a community member this mod.  I joined the Pahlka Posse and helped lead a spike on accessibility.  I started attending the denver js meetup.  I also opened myself up to pairing and paired with several mod1 students. Additionaly, I reached out to Robbie Lane, a turing Alum, and set up a mentor relationship with him.
+##### I feel that I stepped up as a community member this mod.  I joined the Pahlka Posse and helped lead a spike on accessibility.  I started attending the denver js meetup.  I also opened myself up to pairing and paired with several mod1 students. Additionaly, I reached out to Robbie Lane, a turing Alum, and set up a mentor relationship with him.
 ------------------
 
 ## Final Review
