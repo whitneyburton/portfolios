@@ -23,7 +23,7 @@
 | Category | Score (optional) |
 | ----- | --- |
 | **Pairing Assessment** | Pass |
-| **Written Diagnostic** | X |
+| **Written Diagnostic** | Pass |
 
 >* The pairing assessment was a challenge for me since I had already implemented tags on my Job Tracker Beth pushed me to implement some more complex aspects of tagging, but I think I did OK and enjoyed trying something challenging.
 
