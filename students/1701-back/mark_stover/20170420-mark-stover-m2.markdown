@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-> \<This Module I set out to explore Rails, learn the MVC cycle, and incorporate my creativity through CSS and HTML.>
+> This Module I set out to explore Rails, learn the MVC cycle, and incorporate my creativity through CSS and HTML.
 
 ## Self-Assessment
 
