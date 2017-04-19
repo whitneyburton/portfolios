@@ -39,7 +39,7 @@ I am excited to push myself further in Mod3 to master more of the complex aspect
 * [GitHub URL](https://github.com/sljohnson32/Weathrly)
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
-(description)
+I really enjoyed this project and the opportunity to work independently. It took me a little bit of time to figure out React and working with the API but I think I did that well and my final product was pretty strong.
 
 #### Evaluator: Meeka
 

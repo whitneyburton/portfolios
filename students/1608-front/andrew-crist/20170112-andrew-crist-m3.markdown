@@ -1,4 +1,4 @@
-# Andrew Crist - (M2) Portfolio
+# Andrew Crist - (M3) Portfolio
 
 ## Areas of Emphasis
 
