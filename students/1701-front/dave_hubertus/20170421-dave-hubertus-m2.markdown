@@ -46,8 +46,7 @@ Front End Module One Projects are designed to improve our skills and increase ou
 
 ### Sorting Suite
 
-*   [GitHub URL](https://github.com/dhubertus/number-guesser)
-*   [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+*   [GitHub URL](https://github.com/dhubertus/dh-sorting-suite)
 
 Build a game where the user guesses a number between 1 and 100.
 
