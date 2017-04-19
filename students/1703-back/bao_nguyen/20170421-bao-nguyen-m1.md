@@ -87,8 +87,22 @@ First, I want to thank you for being an excellent partner. In my opinion it was 
 #### Project 2 (Partner Name):
 
 **Feedback for William Thomas:**
+Hi Will,
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I think working with you has been great. I think the last ten days have been pretty hard with the project, but it has
+not been stressful at all. I think problem solving has been good with you and I think we move at a pretty good pace. I also
+think we had some good off-topic conversations.
+
+I think strengths that you have include: being personable and easy to talk to, good at listening. Also, I think this is
+a matter of style ~ I like that you are receptive to slowly going through a problem and undestanding it rather than throwing
+code at a wall and hoping it sticks.
+
+Room for improvement: Now that I think about it, I remembered that you wanted to "git" better at the git workflow. I hope we accomplished that but I think we both could spend more a time fixing our git workflow problem so that we could do more
+divide and conquer coding in the future. I felt like we were stuck on "driver/navigator" because our code didn't replicate
+properly. So maybe we both need to tackle a git tutorial during our break?
+
+Cheers,
+Bao
 
 **Feedback from William Thomas:**
 
