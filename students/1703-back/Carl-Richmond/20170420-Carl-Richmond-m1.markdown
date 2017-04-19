@@ -34,10 +34,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/battleship) |
 | **Github** | [link](https://github.com/ACC25/sorting_project/blob/master/credit_check_final.rb) | [link](https://github.com/ACC25/linked_list) | [link](https://github.com/ACC25/Battleship) |
 | **Functional Expectations** | 3 | 3 | 1 |
-| **Test-Driven Development** | x | 2 | 3 |
+| **Test-Driven Development** | n/a | 2 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 1 | 3 | 3 |
 | **Fundamental Ruby & Style** | 2.5 | 3 | 2 |
-| **Loop or Recursion** | x | 4 | 2 |
+| **Loop or Recursion** | n/a | 4 | 2 |
 
 
 ## C: Group Projects
@@ -50,8 +50,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | 3 | x |
 | **Encapsulation/Breaking Logic into Components** | 4 | x |
 | **Fundamental Ruby & Style** | 3 | x |
-| **Enumerable & Collections** | x | x |
-| **Code Sanitation** | x | x |
+| **Enumerable & Collections** | n/a | x |
+| **Code Sanitation** | n/a | x |
 
 
 ## D: Professional Development
