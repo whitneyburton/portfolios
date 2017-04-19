@@ -8,14 +8,13 @@
 
 | Section | Category | Score (optional) |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
+| A | **End-of-Module Assessment** | PASS |
 | B | **Individual Work & Projects** | 3 |
 | C | **Group Projects** | 4 |
 | D | **Professional Development** | 3 |
 | E | **Feedback & Community Participation** | 4 |
 
->* \<This module was hard for me in a very different way than Module 1. There was much less algorithmic thinking and much more focus on process and memorization. This was challenging for me because the work was focused less on finding a solution, and more and getting through the many necessary steps required to complete a project. >
->* \<Notes>
+>* This module was hard for me in a very different way than Module 1. There was much less algorithmic thinking and much more focus on process and memorization. This was challenging for me because the work was focused less on finding a solution, and more and getting through the many necessary steps required to complete a project. 
 
 -----------------------
 
@@ -26,9 +25,7 @@
 | **Pairing Assessment** | PASS |
 | **Written Diagnostic** | X |
 
->* \<I am becoming more comfortable at working through problems with instructors. >
->* \<Notes>
-
+>* I am becoming more comfortable at working through problems with instructors. 
 
 ## B: Individual Work & Projects
 
