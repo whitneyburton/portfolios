@@ -94,7 +94,7 @@ Feedback from partner projects.
 
 #### Session 1: Growth Mindset
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This Gear Up was by far the most important for me out of the 5 for Module 1. I have hit so many low points in the last six weeks and the Growth Mindset idea has allowed me to bounce back every time. The idea of enjoying the grind and enjoying the fact you don't know something (because it means you can learn it) has been a really challenging concept for me to rationalize. I tried my hardest to stay positive from week 1 and writing this now in week 6, I can say that I have completely adopted everything around the Growth Mindset and it has allowed me to progress more than I expected. I think I went from being one of the worst students in the class to being firmly in the middle of the pack, which I am very proud of.  
 
 #### Session 2: Getting Better at Difficult Things
 
