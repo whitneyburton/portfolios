@@ -42,7 +42,7 @@ Some of her specific feedback was encouraging, related to how I broke apart func
 
 #### Blog Post:
 
-[Understanding D3](https://gist.github.com/josh-works/e02242b959f0422077c801cef02ab838)
+- [Understanding (and breaking) D3](https://josh.works/blog/tour-of-d3)
 
 #### Tutorials: Blogger & Mix Master
 
