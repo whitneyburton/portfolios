@@ -30,29 +30,102 @@ This project was an introduction to three different sorting algorithms. The thre
 insertion sort, and merge sort. 
 
 
+
+#### CompleteMe
+
+*   [](https://github.com/kellymiller6/completeMe)
+*   [](http://frontend.turing.io/projects/complete-me.html)
+
+Create an auto complete using a prefix trie.
+
+
+# Instructor Evaluation Points: Complete-me
+# Instructor:
+# Comments:
+
+### 1. Fundamental JavaScript & Style
+
+* 3.25:  Application shows strong effort towards organization, content, and refactoring
+
+### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Functional Expectations
+
+* 3: Application meets all requirements as laid out per the specification.
+
+### 5. Code Sanitation
+
+The output from ESLint shows…
+
+* 4 - Zero complaints
+
+
+
 ## C: Group Work & Projects
 
 ### Projects
 
 Group projects taught me a lot about myself and were overall a good experience.
-My first group project, Linked List, I felt like I was unable to contribute as much to the javascript as I would have liked.
-This motivated me to really push myself in javascript and become much more confident in manipulating the dom.
-In my last two projects I realized I am not as good at navigating as I need/want to be so this has become my main
-goal for mod 2. 
+I thought this mod my group projects went smoother than last mod. I was better able to navigate and communicate with 
+my partners.
 
 
 #### game-time
 
-*   [GitHub URL](https://github.com/karenkepner/idea-box)
-*   [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+Create a game using html5Canvas and object oriented programming in javascript. 
 
+*   [GitHub URL](https://github.com/kellymiller6/game-time)
+*   [Original Assignment](http://frontend.turing.io/projects/game-time.html)
+
+# Instructor Evaluation Points: Game Time
+# Instructor: yung-jhun
+# Comments:
+
+- from a high level the objects where structured well.
+  - I liked the helper functions
+- Tests could be more verbose
+- UI is a little sparce
+- Would like more lanes?
+
+## Functional Expectations
+
+* 3 - Application is fully playable without crashes or bugs
+
+### User Interface
+
+* 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+### Testing
+
+* 2.5 - Project has sporadic use of tests at multiple levels. The application contains numerous holes in testing and/or many features are untested.
+
+### JavaScript Style
+
+* 3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+* 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from JSHint shows…
+
+* 4 - Zero complaints
  
 
 #### Weathrly
 
-*   [GitHub URL](https://github.com/kellymiller6/2DoBox-Pivot)
-*   [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+*   [GitHub URL](https://github.com/kellymiller6/weathrly)
+*   [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
+Create a weather app using react, making an api call from weather underground.
 
 #
 ## E: Feedback and Community Participation
@@ -67,16 +140,16 @@ From Keji Amos:
 I appreciated that we had similar backgrounds, coming from education. I think that was very useful in allowing us to work well 
 together. You're organized, a good planner, and you're a quick study.
 
-
+From Mentor: 
+I have enjoyed working with Kelly on small problems and the occasionally project. She is enthusiastic about working on the 
+fundamentals of javascript. We are working on her being more comfortable communicating her thought process as she works. 
 
 ### Playing a Part
 
 (ways you supported the larger Turing community)
 Once I became a little more comfortable in the community I made efforts especially during retros and other cohort specific
-times to become an active participant in the community. I attended a couple of lunch roulettes even though mine never worked
-out, so that I could get to know those outside our mod. In addition I participated in a couple of pairings and joined the
-Pahlka spikes most weeks. This is an area I want to continue to improve in by actively trying to get to know those from other
-mods and attending events such as Joan Clarke. 
+times to become an active participant in the community. In addition I participated in a couple of pairings and joined the
+Pahlka spikes most weeks. I really enjoyed being a member of ironFe this mod and hope to contribute more in the future.  
 
 ------------------
 
