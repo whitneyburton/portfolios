@@ -9,11 +9,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | --- | --- |
-| A | **End-of-Module Assessments** | x |
-| B | **Individual Projects** | x |
-| C | **Group Projects** | x |
-| D | **Professional Development** | x |
-| E | **Community** | x |
+| A | **End-of-Module Assessments** | 2 |
+| B | **Individual Projects** | 2 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 4 |
+| E | **Community** | 4 |
 
 ------------------------------------------------
 
@@ -32,11 +32,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/mastermind) |
 | **Github** | [link](https://github.com/larisasmiles/credit_check) | [link](https://github.com/larisasmiles/jungle_beat) | [link](https://github.com/larisasmiles/mastermind) |
-| **Functional Expectations** | 4 | 1 | x |
-| **Test-Driven Development** | x | 2 | x |
+| **Functional Expectations** | 4 | 1 | 1 |
+| **Test-Driven Development** | x | 2 | 2 |
 | **Encapsulation/Breaking Logic into Components** | 1 | x | x |
-| **Fundamental Ruby & Style** | 2 | x | x |
-| **Loop or Recursion** | x | x | x |
+| **Fundamental Ruby & Style** | 2 | x | 2 |
+| **Loop or Recursion** | x | x | 2 |
 
 
 ## C: Group Projects
@@ -91,45 +91,39 @@ During the week of our pairing project I saw how invested you are in learning an
 
 #### Project 2 (Partner Name):
 
-**Feedback for ___________:**
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-**Feedback from ___________:**
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+N/a 
 
 ### Job Prep
 
-*  [LinkedIn profile]()
+*  [LinkedIn profile](https://www.linkedin.com/in/larisanderson/)
 
 ## E: Community
 
 ### Gear Up
 
-#### Session 1: ___________
+#### Session 1: __3/17/2017_________
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I grew up with a wicked smart little sister.. like 5 years younger little sister. She has her masters degree in international politics at the young age of 22... She was helping me with my math homework when she was in grade school. I developed a toxic thought that I wasn't smart, that I wasn't good at math and there it started my battle of my truth and the truth, which unfortunately can become one and the same. So because of this learning was only in the arts, creative writing, and acting. So this session was so useful for me. I am very fortunate to be apart of Turing. 
 
-#### Session 2: ___________
+#### Session 2: __3/22/2017_________
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I feel like the support and full disclosure and the genuine vibe at Turing has made a large impact on my stress levels. Don't get me wrong. Im stressed out, but I feel like it will be okay. There is LIGHT at the end of the storm. 
 
-#### Session 3: ______________
+#### Session 3: ____3/31/2017__________
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I feel I am the middle of the road in this area. I come off as very outgoing but I NEED to have my alone time to process how much energy I've given and recieved. I am very aware of my presence and I am able to see when and where I need to tone it down or tune it up. 
 
-#### Session 4: _____________
+#### Session 4: ______4/05/2017_______
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The sense of community brought me to Turing- My leses being a mom has me looking at the world a little differently. Being a woman ame me feel like I have so much power but I also feel powerless. 
 
-#### Session 5: ________________
+#### Session 5: _____4/14/2017___________
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+When I tell peole what I am doing they look very surpized and ask if I like it? I say yes and they nod in agreement and say good for you. I haven't recieved any negative feedback from anyone. Well.. Only myself. Only myself telling myself that I am not smart enough and I should be doing better. After the video I felt very inspried to do more, talk more and learn more. I also felt inspired because of my daughter. 
 
 ### Community Participation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I feel like I have made effort to get to know people, I know that I make people feel welcome and have heard from my peers that they really appreicated me giving them that energy. 
 
 -------------------------------------------------------------
 
