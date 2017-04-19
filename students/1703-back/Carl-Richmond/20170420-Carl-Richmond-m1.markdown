@@ -114,7 +114,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Community Participation
 
-I think I have participated the most in the 
+I think I have participated the most in the Turing community through my pairings with upper module students. I've always made them open and invited others, and have had on average three per week since the first week. Through these pairings I have talked about the Gear Ups, the Spikes, the Retros and learnt a lot about Turing in general. Aside from that, I have attented a few different Posses meetings on Fridays, but still haven't choosen which one I like the most. I've enjoyed just bouncing between them and learning more than just one specific topic. 
 
 -------------------------------------------------------------
 
