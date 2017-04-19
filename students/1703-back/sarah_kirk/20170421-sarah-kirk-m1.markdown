@@ -17,7 +17,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | --- | --- |
-| A | **End-of-Module Assessments** | x |
+| A | **End-of-Module Assessments** | 3 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
 | D | **Professional Development** | 4 |
@@ -29,7 +29,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | x |
+| Pairing Assessment | pass |
 | Independent Timed Assessment | x |
 | Diagnostic | x |
 
@@ -41,11 +41,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/battleship) |
 | **Github** | [link](https://github.com/sarahdactyl71/credit_check) | [link](https://github.com/sarahdactyl71/jungle_beat) | [link](https://github.com/sarahdactyl71/battleship) |
 | **Functional Expectations** | 4 | 3 | 3 |
-| **Test-Driven Development** | x | 3 | 3 |
+| **Test-Driven Development** | N/A | 3 | 3 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 | 3 |
 | **Fundamental Ruby & Style** | 2 | 3 | 2 |
-| **Loop or Recursion** | x | 4 | 3 |
-
+| **Loop or Recursion** | N/A | 4 | 3 |
+| **REPL Interface** | N/A | N/A | 3 |
 
 ## C: Group Projects
 
@@ -102,7 +102,7 @@ Feedback from partner projects.
 
 #### Session 1: Growth Mindset
 
-The power of "yet" has been somewhat of a mantra for my time here. Everytime I feel downtrodden or the self talk gets too negative, I try and modify my statements with a "yet". For example, "I am not understanding the material yet" or "I'm not biking at a consistent 15 miles per hour yet". Although I would be lying if I said that I no longer have doubts, those doubts are in fact fewer. I am trying to apply the concept of a growth mindset not only to Turing but across my life in wellness, self-talk, and my relationships.
+The power of "yet" has been somewhat of a mantra for my time here. Every time I feel downtrodden or the self talk gets too negative, I try and modify my statements with a "yet". For example, "I am not understanding the material yet" or "I'm not biking at a consistent 15 miles per hour yet". Although I would be lying if I said that I no longer have doubts, those doubts are in fact fewer. I am trying to apply the concept of a growth mindset not only to Turing but across my life in wellness, self-talk, and my relationships.
 
 #### Session 2: Getting Better at Difficult Things
 
@@ -110,15 +110,15 @@ The term "cognitive load" has been added to my lexicon. This gear up made me rea
 
 #### Session 3: Introvert vs. Extrovert
 
-It was very enlightening to see that most of Mod 1 put themselves on the introverted side of the introvert/extrovert spectrum. Because I identify as mostly extroverted with some introverted tendancies, it was very powerful to have insight on what a large portion of my classmates needed in terms of personal interaction. The back and forth conversation between those that identified as introvert or extrovert was wonderful, because I was given feedback on how many of my peers wanted to be treated. I could take that and apply it directly to my time at Turing.
+It was very enlightening to see that most of Mod 1 put themselves on the introverted side of the introvert/extrovert spectrum. Because I identify as mostly extroverted with some introverted tendencies, it was very powerful to have insight on what a large portion of my classmates needed in terms of personal interaction. The back and forth conversation between those that identified as introvert or extrovert was wonderful, because I was given feedback on how many of my peers wanted to be treated. I could take that and apply it directly to my time at Turing.
 
 #### Session 4: Strengths & Storytelling
 
-Strenghts and storytelling forced me to come to the conclusion that although my background is incredibly diverse, I simply cannot pack it all into one two minute speech. Saying what I did, and where I came from out loud, made me understand that I really needed to focus on the highlights and my current goals. Hearing the way the other students formatted their speeches inspired me to focus on the postive and the future. Only by telling someone else what brought me to this place made me hear how unintentionally negative my trials and tribulations sounded. I think this is an important topic to keep revisiting during Turing.
+Strengths and storytelling forced me to come to the conclusion that although my background is incredibly diverse, I simply cannot pack it all into one two minute speech. Saying what I did, and where I came from out loud, made me understand that I really needed to focus on the highlights and my current goals. Hearing the way the other students formatted their speeches inspired me to focus on the positive and the future. Only by telling someone else what brought me to this place made me hear how unintentionally negative my trials and tribulations sounded. I think this is an important topic to keep revisiting during Turing.
 
 #### Session 5: Debugging the Gender Gap
 
-Admittedly, this topic was incredibly triggering for me. I was well aware of the sexism and lack of women in tech, but it broke my heart to hear these brilliant women tell their stories. I directly related with so many of these situations from when I was in college; where I was one of few woman in an engineering ciriculum. What hurt more, is that I percieved a few of my classmates didn't take the film seriously, or didn't believe that women are disadvantaged in STEM. Upsetting as it was, it was a perfect catalyst to boost my awareness of how other women in the class felt. Hearing their stories, just from their time at Turing, was a call to action. It has encouraged me to build stronger relationships with my female cohort members and smash the patriarchy as I go.   
+Admittedly, this topic was incredibly triggering for me. I was well aware of the sexism and lack of women in tech, but it broke my heart to hear these brilliant women tell their stories. I directly related with so many of these situations from when I was in college; where I was one of few woman in an engineering curriculum. What hurt more, is that I perceived a few of my classmates didn't take the film seriously, or didn't believe that women are disadvantaged in STEM. Upsetting as it was, it was a perfect catalyst to boost my awareness of how other women in the class felt. Hearing their stories, just from their time at Turing, was a call to action. It has encouraged me to build stronger relationships with my female cohort members and smash the patriarchy as I go.   
 
 ### Community Participation
 
