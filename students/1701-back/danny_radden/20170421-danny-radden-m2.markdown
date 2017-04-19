@@ -20,8 +20,8 @@ I set out to learn how to use rails to make a personal website and how to set up
 
 | Category | Score (optional) |
 | ----- | --- |
-| **Pairing Assessment** | X |
-| **Written Diagnostic** | X |
+| **Pairing Assessment** | PASS |
+| **Written Diagnostic** | PASS |
 
 ## B: Individual Work & Projects
 
