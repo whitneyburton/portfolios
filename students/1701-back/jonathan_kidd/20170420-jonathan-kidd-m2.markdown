@@ -98,7 +98,7 @@ Heavily relying on Ruby instead of ActiveRecord for manipulations
 
 ## D: Professional Skills
 
-> This module I focused on further developing the interpersonal and project management skills that, in the workplace, are often as or more important than technical skills. I learned a great deal about feedback and examined how I come across, as well as how others view me. I also learned more about the Agile process, and had practice reaching out to strangers.
+> [Gist Reflections](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/jonathan_kidd.md) This module I focused on further developing the interpersonal and project management skills that, in the workplace, are often as or more important than technical skills. I learned a great deal about feedback and examined how I come across, as well as how others view me. I also learned more about the Agile process, and had practice reaching out to strangers.
 
 #### **Professional Development Workshops**
 > [Warm Outreach, Agile Process, Feedback](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/<your_name>.md)
