@@ -25,13 +25,32 @@ I passed my end of module assessment.
 
 * [GitHub URL](https://github.com/lauraturk/sorting-suite)
 * [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
-* [Evaluation Notes]()
+* [Evaluation Notes](https://github.com/turingschool/front-end-submissions-public/blob/master/1701/mod-2/sorting-sweet/laura.md)
 
 Building three classic sorting algorithms: bubble sort, merge sert, and insertion sort. I enjoyed working through these three and was glad for the practice.
 
-(evaluation comments)
+##### 1. Fundamental JavaScript & Style
 
-(evaluation scores)
+3.5: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+##### 2. Test-Driven Development
+
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+##### 3. Encapsulation / Breaking Logic into Components
+
+4: Application is expertly divided into logical components each with a clear, single responsibility
+
+##### 4. Functional Expectations
+
+4: Application meets all requirements, and implements one extension properly.
+
+##### 5. Code Sanitation
+
+The output from ESLint shows…
+
+4 - Zero complaints
+
 
 #### Complete Me
 
@@ -42,21 +61,26 @@ Building three classic sorting algorithms: bubble sort, merge sert, and insertio
 Building an autocomplete trie. This was a challenging project, though I enjoyed working through it with my fellow cohort members.
 
 ##### Comments
+
 i liked the weighting of the nodes
 great use of enumerables
 
 ##### Fundamental JavaScript & Style
+
 3: Application shows strong effort towards organization, content, and refactoring
 
 ##### Test-Driven Development
+
 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
 ##### Encapsulation / Breaking Logic into Components
+
 3: Application effectively breaks logical components apart but breaks the principle of SRP
 #####Functional Expectations
 3: Application meets all requirements as laid out per the specification.
 
 ##### Code Sanitation
+
 The output from ESLint shows…
 4 - Zero complaints
 
@@ -73,6 +97,7 @@ The output from ESLint shows…
 Building an object oriented frogger game with HTML canvas. Cemented my understanding of object orientation and the importance of building orthogonal applications.
 
 ##### Comments
+
 great OO design
 
 would like to see another super class or just have frog, h20, and lilypad inherit from.
@@ -84,37 +109,72 @@ Great job making the collision agnostic.
 Only glaring thing is the index.js
 
 ##### Functional Expectations
+
 3.5 - Application is fully playable without crashes or bugs
 
 ##### User Interface
+
 4 - The application is pleasant, logical, and easy to use. There are no holes in functionality and the application stands on its own to be used by the instructor without guidance from the developer.
 
 ##### Testing
+
 3.5 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
 
 ##### JavaScript Style
+
 3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
 ##### Workflow
+
 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
 ##### Code Sanitation
+
 The output from JSHint shows…
 4 - Zero complaints
 
-(feedback to me)
 
 #### Weathrly
 
 * [GitHub URL](https://github.com/lauraturk/weathrly)
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+* [Evaluation Notes](https://github.com/turingschool/front-end-submissions-public/blob/master/1701/mod-2/weathrly/laura_john.md)
 
 Introduction to React and api calls. I really enjoyed this project. React is fun. Working with APIs is exciting.
 
-(evaluation comments)
+##### Specification Adherence
 
-(evaluation scores)
+4 - The application meets all of the requirements listed above and implements one or more of the extensions.
 
+##### User Interface
+
+4 - The application is pleasant, logical, and easy to use. The application is fully responsive, and has clearly had special consideration around usability on devices. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
+
+##### HTML Style
+
+3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+##### CSS/Sass Style
+
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
+
+##### JavaScript / React Style
+
+4 - Application has exceptionally well-factored code with little or no duplication and all components separated out into logical components. There are zero instances where an instructor would recommend taking a different approach to design and component architecture.
+
+##### Testing
+
+3.5 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of feature testing.
+
+##### Workflow
+
+3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
+##### Code Sanitation
+
+The output from a code sanitizer (either JSHint or ESLint) shows…
+
+4 - Zero complaints
 #### feedback to me
 Laura is the worst. But actually Laura was awesome. She worked hard and helped us stay on task. I felt that we were an excellent match - we both contributed equally to the project. Her singing made me feel at home as my wife loves to sing to herself as well.
 Emoji game was only 9/10. Actually it was perfect, her emojis and her overall communication were excellent. We never really had to resolve any conflicts because we communicated well upfront and thus did not ever get far enough to have conflicts.
