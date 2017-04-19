@@ -23,6 +23,7 @@ _evaluated by_
 
 Robbie
 
+
 _evaluation comments_
 
 * Had a great strategy going - was clearly prepared for this type of eval
@@ -30,24 +31,26 @@ _evaluation comments_
 * Used callback functions right away
 * Got through phase 2 no problem
 
+
 _evaluation scores_
 
-| Area                    | Score |
-| --- | --- |
-|JavaScript||
-|* Data Types            |    3|
-|* Conditional Logic     |    3|
-|* Functions & Scope     |    4|
-|* Objects & Prototypes  |    3|
-|* DOM Manipulation      |    3|
-|* Style:                |    4|
-|Debugging||
-|* Dev Tools/Debug Process|   3|
+| Area                    |Score|
+| ---                     |:---:|
+|JavaScript               |     |
+|* Data Types             |    3|
+|* Conditional Logic      |    3|
+|* Functions & Scope      |    4|
+|* Objects & Prototypes   |    3|
+|* DOM Manipulation       |    3|
+|* Style                  |    4|
+|Debugging                |     |
+|* Dev Tools/Debug Process|    3|
 
 #### Code Challenge 2
 _evaluated by_
 
 Louisa
+
 
 _evaluation comments_
 
@@ -57,19 +60,22 @@ _evaluation comments_
 * got all the way through everything
 * fantastic job!!!
 
+
 _evaluation scores_
 
-JavaScript
-* Data Types                4
-* Conditional Logic         4
-* Functions & Scope         4
-* Arrays                    3
-* Objects & Prototypes      3
-* Style:                    4
-Testing
-* Test Comprehension        3
-Debugging
-* Dev Tools/Debug Process   3
+| Area                    |Score|
+| ---                     |:---:|
+|JavaScript               |     |
+|* Data Types             |    4|
+|* Conditional Logic      |    4|
+|* Functions & Scope      |    4|
+|* Arrays                 |    3|
+|* Objects & Prototypes   |    3|
+|* Style                  |    4|
+|Testing                  |     |
+|* Test Comprehension     |    3|
+|Debugging                |     |
+|* Dev Tools/Debug Process|    3|
 
 
 #### Static Comp \#3
@@ -80,30 +86,37 @@ Debugging
 
 _description_
 
+Static comp recreation of a recruiter's job-posting dashboard.  I enjoyed the challenge of this project, and the usability of it as well.  Displaying data and information in a clear and actionable way makes a huge difference in business.
+
+
 _evaluated by_
 
 Louisa
+
 
 _evaluation comments_
 
 "Absolutely beautiful execution, fantastic attention to detail and very thoughtfully built. Very well done!"
 
+
 _evaluation scores_
 
-HTML
-* Accessibility:            3
-* Style:                    3
-CSS
-* Structure of Code:        3
-* Implementation:           4
-Design
-* Comp Recreation           4
-* Design Concepts           4
+| Area                   |Score|
+| ---                    |:---:|
+|HTML                    |     |
+|* Accessibility         |    3|
+|* Style                 |    3|
+|CSS                     |     |
+|* Structure of Code     |    3|
+|* Implementation        |    4|
+|Design                  |     |
+|* Comp Recreation       |    4|
+|* Design Concepts       |    4|
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+Individual projects were a nice way to start this program smoothly and with less risk.  After having some good partnerships, though, I appreciate the value of team assignments and see how two heads can be better than one.
 
 #### Static Comp \#1
 
@@ -111,7 +124,9 @@ Design
 * [GitHub Pages](https://lindsaywparker.github.io/lp-comp-challenge-1/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
+_description_
+
+Flexing *everything*.  This was a recreation of a 3x3 square next to a full height image.  I found a great picture and beautiful color scheme for this assignment, which made it that much more enjoyable to see through to the end.
 
 #### Static Comp \#2
 
@@ -119,7 +134,9 @@ Design
 * [GitHub Pages](https://lindsaywparker.github.io/lp-comp-challenge-2/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
+_description_
+
+Card layouts.  This looked to be some sort of playlist sharing site.  I changed it to an informative page on famous pieces of art, which was a lot of fun visually.
 
 #### Number Guesser
 
@@ -128,37 +145,44 @@ Design
 
 _description_
 
+A quick but appropriately challenging introduction to JavaScript.  This final product didn't have the level of fine-tuning that I strive for, but overall I happy with where I got.
+
+
 _evaluated by_
 
 Robbie
+
 
 _evaluation comments_
 
 None
 
+
 _evaluation scores_
 
-Functional Expectations:    3
-HTML
-* Accessibility:            2
-* Style:                    3
-CSS
-* Structure of Code:        3
-* Implementation:           3
-JavaScript
-* Conditional Logic:        3
-* Functions & Scope:        2
-* DOM Manipulation:         3
-* Style:                    2
-Design
-* Comp Recreation:          3
+| Area                   |Score|
+| ---                    |:---:|
+|Functional Expectations |    3|
+|HTML                    |     |
+|* Accessibility         |    2|
+|* Style                 |    3|
+|CSS                     |     |
+|* Structure of Code     |    3|
+|* Implementation        |    3|
+|JavaScript              |     |
+|* Conditional Logic     |    3|
+|* Functions & Scope     |    2|
+|* DOM Manipulation      |    3|
+|* Style                 |    2|
+|Design                  |     |
+|* Comp Recreation       |    3|
 
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+As mentioned previously, I very much appreciate the power of working with a partner.  Depending on the group dynamics, so much can be accomplished.  Even with partnerships that had weaker dynamics, I learned an incredible amount.
 
 #### Foto Finder
 
@@ -168,31 +192,38 @@ Design
 
 _description_
 
+Instagram-like.  This project taught me about event bubbling & prepend, more than anything.  The biggest challenge and resulting win though was figuring out how to direct the browser to the correct image file to upload.  The solution isn't scalable, but hard-coding the file path worked like a charm.
+
 _evaluated by_
 
 Louisa
+
 
 _evaluation comments_
 
 None
 
+
 _evaluation scores_
 
-* Functional Expectations:  2
-HTML
-* Accessibility:            2
-* Style:                    3
-CSS
-* Structure of Code:        2
-* Implementation:           2
-JavaScript
-* Data Types:               2
-* Conditional Logic:        NA
-* Functions & Scope:        3
-* DOM Manipulation:         3
-* Style:                    3
-Design
-* Comp Recreation:          2
+| Area                   |Score|
+| ---                    |:---:|
+|Functional Expectations |    2|
+|HTML                    |     |
+|* Accessibility         |    2|
+|* Style                 |    3|
+|CSS                     |     |
+|* Structure of Code     |    2|
+|* Implementation        |    2|
+|JavaScript              |     |
+|* Data Types            |    2|
+|* Conditional Logic     |   NA|
+|* Functions & Scope     |    3|
+|* DOM Manipulation      |    3|
+|* Style                 |    3|
+|Design                  |     |
+|* Comp Recreation       |    2|
+
 
 _feedback to me_
 
@@ -206,38 +237,46 @@ _feedback to me_
 
 _description_
 
+All the joys of localStorage.  The largest technical challenge for this piece was making editable content persist, but we solved that with an event listener for _focusout_.  The largest challenge overall was making sure I understood all of the code in our project, as some of it was written individually.
+
+
 _evaluated by_
 
 Louisa
+
 
 _evaluation comments_
 
 "Really well done, great job!!"
 
+
 _evaluation scores_
 
-Functional Expectations     4
-HTML
-* Accessibility             3
-* Style                     4
-CSS
-* Structure of Code         3
-* Implementation            4
-JavaScript
-* Data Types                4
-* Conditional Logic         4
-* Functions & Scope         4
-* Arrays                    4
-* Objects & Prototypes      4
-* DOM Manipulation          4
-* Style:                    4
-Git & GitHub
-* Git                       4
-* GitHub                    4
-Design
-* Comp Recreation           4
-Pairing
-* Collaboration             4
+| Area                   |Score|
+| ---                    |:---:|
+|Functional Expectations |    4|
+|HTML                    |     |
+|* Accessibility         |    3|
+|* Style                 |    4|
+|CSS                     |     |
+|* Structure of Code     |    3|
+|* Implementation        |    4|
+|JavaScript              |     |
+|* Data Types            |    4|
+|* Conditional Logic     |    4|
+|* Functions & Scope     |    4|
+|* Arrays                |    4|
+|* Objects & Prototypes  |    4|
+|* DOM Manipulation      |    4|
+|* Style                 |    4|
+|Git & GitHub            |     |
+|* Git                   |    4|
+|* GitHub                |    4|
+|Design                  |     |
+|* Comp Recreation       |    4|
+|Pairing                 |     |
+|* Collaboration         |    4|
+
 
 _feedback to me_
 
@@ -251,69 +290,76 @@ _feedback to me_
 
 _description_
 
+Refactoring, and lots of it.  I enjoyed the refactoring piece though; it solidified my understanding of how the code interacts.
+
+
 _evaluated by_
 
 Robbie
+
 
 _evaluation comments_
 
 None
 
+
 _evaluation scores_
 
-Functional Expectations     3
-HTML
-* Accessibility             3
-* Style                     3
-CSS
-* Structure of Code         3
-* Implementation            3
-JavaScript
-* Data Types                3
-* Conditional Logic         3
-* Functions & Scope         4
-* Arrays                    3
-* DOM Manipulation          3
-* Style                     3
-Git & GitHub
-* Git                       3
-* GitHub                    3
+| Area                   |Score|
+| ---                    |:---:|
+|Functional Expectations |    3|
+|HTML                    |     |
+|* Accessibility         |    3|
+|* Style                 |    3|
+|CSS                     |     |
+|* Structure of Code     |    3|
+|* Implementation        |    3|
+|JavaScript              |     |
+|* Data Types            |    3|
+|* Conditional Logic     |    3|
+|* Functions & Scope     |    4|
+|* Arrays                |    3|
+|* DOM Manipulation      |    3|
+|* Style                 |    3|
+|Git & GitHub            |     |
+|* Git                   |    3|
+|* GitHub                |    3|
+
 
 _feedback to me_
 
-"Thank you for allowing me to leave our project to participate in the JavaScript foundations class.  I really appreciate your support and understanding of my needs to work basic JavaScript.  Also, thank you for offering to take your time to help me with jQuery and javaScript."
+"Thank you for allowing me to leave our project to participate in the JavaScript foundations class.  I really appreciate your support and understanding of my needs to work basic JavaScript.  Also, thank you for offering to take your time to help me with jQuery and JavaScript."
 
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### 1) Growth Mindset
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This Gear Up has definitely stuck with me throughout the inning.  As a generation that was raised in the fixed mindset, it's been very eye-opening for me to try to see things differently.  I also enjoy hearing cohort-mates seriously talk about the growth mindset; I think this topic was a great way to start.
 
 #### 2) Getting Better at Difficult Things
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Looking back at my notes from this Gear Up, the two things that stick with me the most are (1) the importance of a very high quantity of high quality examples, and (2) the impact of fear on learning.  With respect to (1), I don't thing Turing has made it a point to collect a high quantity of high quality examples.  The gap between the examples in our lessons and the quality of work we do on our own assignments would not suggest that the examples are high quantity nor high quality.  As for (2), I can acknowledge that it's harder for me to learn when I'm in an emotional place where risk or failure scare me.
 
 #### 3) Working Styles
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The reading from this Gear Up was very informative, and I felt that it rounded out a lot of personality tests that I've taken.  This was actually more beneficial to me than the Strengths Finder exercise.  I'm strongly in ambivert, and now I know what that means!
 
 #### 4) Storytelling and Strengths
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I appreciated the importance of 'having a story,' but more important to me is living my story.  I think someone that lives their story genuinely and with an interest in sharing their stories with others, doesn't necessary fall into the category of storytelling.  Maybe it was a framing issue for me?
 
 #### 5) Code Debugging the Gender Gap
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The video for this Gear Up was definitely valuable to watch.  As a female with a background in engineering, the gender gap is one that I'm incredibly familiar with, but I was a bit disheartened to learn that the gap is as prevalent in coding as it is.  Moving forward, I'll continue to pursue my passions with a healthy disregard for the limiting beliefs of others, and work and wish for the best.
 
 ## E: Community Participation
 
 ### Playing a Part 
-(ways you supported the larger Turing community)
+_ways you supported the larger Turing community_
 
-Student Advisory Board
+This module I was a representative to the Student Advisory Board for 1703 Front-End.  In addition, I fully attended community events like guest speakers and spikes. 
 
 ------------------
 
