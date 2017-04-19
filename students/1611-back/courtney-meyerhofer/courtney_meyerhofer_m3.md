@@ -48,8 +48,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Work & Projects
 
-(Intro)
-
 #### Will Legislate for Money
 
 * [GitHub URL](https://github.com/meyerhoferc/will-legislate-for-money)
@@ -110,8 +108,6 @@ Product Experience
 ## C: Group Work & Projects
 
 ### Projects
-
-(Intro)
 
 #### RalesEngine
 
@@ -234,7 +230,6 @@ Project demonstrates well-factored code and a solid grasp of MVC principles.
 
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Microaggressions
