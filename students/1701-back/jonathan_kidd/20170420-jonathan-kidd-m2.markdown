@@ -83,7 +83,9 @@ Heavily relying on Ruby instead of ActiveRecord for manipulations
   >Jonathan: Thank you  for your even-keeled, calm and collected attitude throughout this project. For me, a challenging project coupled with group dynamics can elevate stress and anxiety levels quickly.  I appreciated your ability to stay focused and keep a cool head despite (what had the potential to be) overwhelming factors.
 
 
-  >* From Seth Moser: TBD
+  >* From Seth Moser:
+
+  >It was great working with you on this project since last mod we didn't really do much, and the experience was great, your ability to see other's point of view and ideas was really helpful and cool to see, but maybe being a little more strong on your own ideas might be a good idea for the next time.
 
 ##### Feedback to me for Little Shop
 
