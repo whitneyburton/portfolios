@@ -118,7 +118,11 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 ### Did the team push themselves by taking risks?
 *1: Yes*
 
-(feedback to me)
+#### Feedback
+
+Feedback from Andy:
+It was an absolute pleasure to have you both on the team and leading us for Cloney Island. Our project benefited greatly from having you at the helm. I really appreciated how well organized you kept us. Your approach to managing our workflow with frequent check-ins and clarification of progress/problems was amazing and greatly comforting. You made going through the project more fun and were phenomenal at celebrating at a problem breakthrough. I don’t have any feedback on anything that I think you should change, but I encourage you to maintain your level of enthusiasm, organization, and team-oriented mindset. You’re awesome and so was the opportunity to work with you. 
+
 
 ## D: Professional Skills
 (Intro)
