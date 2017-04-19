@@ -171,6 +171,24 @@ Working with Justyna was great.  We had wonderful give and take, and we agreed u
 
 Though I never formally paired with her, Leta has done a great job as a member of the cohort and the community.  She started up a D3 study group, and was always trying to get things started.  She was very helpful to the mod as a whole, often perceiving when people were not understanding concepts and trying to help out.  I look forward to hopefully pairing with her officially some time in the future.
 
+#### For Chris Brandrowsky, 1701 Peer
+
+##### If we paired this mod, on a project or otherwise, how did you feel about our group experience? What did/didn't work? Any recommendations for the future?
+
+* Though we didn't officially pair, I sit next to Chris everyday.  He was very helpful overall.
+
+##### How have our interactions throughout the mod helped with your understanding of code, or the development of you as a programmer?
+
+* Chris was always willing to help me out when I didn't understand something.  His help was critical to not falling behind during lessons.
+
+##### Have our interactions as a whole affected your experience as a Turing student?
+
+* Positive :) Chris again is always helpful and not afraid to ask questions.
+
+##### What are some things I could work on in future mods?
+
+* You're actually pretty decent at this, believe in yourself more
+
 
 ### Recieving Feedback
 
