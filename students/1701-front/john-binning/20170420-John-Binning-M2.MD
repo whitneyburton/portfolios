@@ -167,6 +167,9 @@ With ToDo Box, we took another group's Idea Box and pivoted it into a new site. 
 
 Working with Justyna was great.  We had wonderful give and take, and we agreed up front that no one would fall behind.  I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me.  Our communication was excellent, and we were consequently able to stop any arguments before they even started.  I would be happy to work with her again.
 
+#### For Leta Keane, 1701 FE Peer
+
+Though I never formally paired with her, Leta has done a great job as a member of the cohort and the community.  She started up a D3 study group, and was always trying to get things started.  She was very helpful to the mod as a whole, often perceiving when people were not understanding concepts and trying to help out.  I look forward to hopefully pairing with her officially some time in the future.
 
 
 
