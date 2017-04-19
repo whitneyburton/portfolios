@@ -1,4 +1,4 @@
-# FIRST LAST - M1 Portfolio
+# ADAM GUNTHER - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -43,7 +43,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## C: Group Projects
 
 | CATEGORY | Enigma | Headcount |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [link](https://github.com/adamgunther1/enigma_collaborative) | [link](https://github.com/alex-w-k/headcount) |
 | **Functional Expectations** | 4 | x |
