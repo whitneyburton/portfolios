@@ -30,7 +30,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
 | Pairing Assessment | pass |
-| Independent Timed Assessment | x |
+| Independent Timed Assessment | fail |
 | Diagnostic | x |
 
 
@@ -86,7 +86,7 @@ Feedback from partner projects.
 
 **Feedback for Carl:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> When dealing with a project like Headcount, Carl made it very easy to talk problems through and implement what we had spoken about to code. His debugging with pry skills still continue to impress me, and I think it is a large factor to finishing the project. He was willing to put in the long hours every day (even when his partner was visiting) to meet the daily goals we had set for ourselves when we DTRed. Sometimes during our project, I would make the same suggestion as how to change our code two or three times before it was acknowledged. This made me feel that my contributions were not valued. Also, there were times when Carl would work on the project without me, and without much communication as to what he was changing. This left me to do a lot of catch up when we sat down together again. Going forward my suggestions for Carl would be to take into consideration the suggestions his partners make before brushing them aside, and to communicate more effectively about what he is doing to the code independently. Overall, Carl was an easy-going partner to work alongside. It was fun to figure out problems, and ride the roller-coaster that is Headcount with him.
 
 **Feedback from Carl:**
 
