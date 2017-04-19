@@ -1,4 +1,4 @@
-# \<Mark Stover> - M2 Portfolio
+# \Mark Stover - M2 Portfolio
 
 ## Areas of Emphasis
 
