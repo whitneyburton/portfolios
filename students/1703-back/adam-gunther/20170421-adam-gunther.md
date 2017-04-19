@@ -82,7 +82,7 @@ I'm grateful to have had my first pairing project with you. I felt like we were 
 
 **Feedback from Alex Koch:**
 
-> 
+> --
 
 ### Job Prep
 
@@ -94,27 +94,27 @@ I'm grateful to have had my first pairing project with you. I felt like we were 
 
 #### Session 1: Growth Mindset
 
-Lorem ipsum dolor 
+Growth Mindset was an essential lesson for our time at Turing and in our careers as developers. Learning about the perspective of looking at how far you've come or how much your're learning opposed to how much you don't know and how much others already know is crucial to success. This leads to meaningful transformation and growth.
 
 #### Session 2: Getting Better at Difficult Things
 
-Lorem ipsum dolor 
+Getting Better at Difficult Things was a insightful lesson on how to overcome challenges and tackle big problems. My main take aways were the idea of reducing one's cognitive load to have more endurance and strategy and breaking down big problems into small actionable steps of progress.
 
 #### Session 3: Working Styles
 
-Lorem ipsum dolor 
+Working Styles was an interesting discussion on understanding how others communicate and prefer different working styles. In development, pair programming is an integral part, so laying out expectations and disucssing how someone likes to work and communicate helps improve the project flow and successful outcome.
 
 #### Session 4: Strengths and Storytelling
 
-Lorem ipsum dolor 
+Strengths and Storytelling really emphasized the importance of crafting one's identity and how to present one's strengths through storytelling. Being able to craft an image of oneself is important in positioning one's career. I did not like trying to relate it to the strengthsfinder, but appreciate the importance of awareness of one's strengths and to highlight them.
 
 #### Session 5: Debugging the Gender Gap
 
-Lorem ipsum dolor
+Debugging the Gender Gap was a powerful moving which motivated a powerful discussion. It was a great opportunity to learn more about the industry, the necessary advocacy one needs to bring to the workplace on a daily basis, and to understand what individuals and groups in our community go through and how to take actionable steps for progress.
 
 ### Community Participation
 
-Lorem ipsum dolor 
+I am still getting my footing here at Turing and figuring out how to manage my time with the overwhelming amount of work. The extent of my community participation has revolved around asking for help and offering help when needed and attending the blockchain spike every week. I have learned to ask for help when stuck and to offer help when others are stuck, which strengthens all of our learning and understanding of topics. I setup pairing sessions with module 2 and 4 students when I was failing to grasp how to implement a topic in my code which got me through this module. The blockchain spike was a great way to meet upper-module students and learn from them. The topic was difficult but fascinating. The leaders are in the final module so it will require participation from us lower-modules to keep the spike going.
 
 -------------------------------------------------------------
 
