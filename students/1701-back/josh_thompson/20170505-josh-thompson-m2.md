@@ -1,4 +1,4 @@
-# Josh Thompson - M2 Portfolio
+# Josh Thompson - M2 BE Portfolio
 
 ## Areas of Emphasis
 
@@ -6,7 +6,11 @@ I wanted to wrap my head around Rails, and I did. I can confidently make ActiveR
 
 I enjoyed the mod, and how heavy it was with re-exposure to similar concepts. I feel like I really drilled Rails into my head.
 
+One of the biggest wins was just feeling comfortable with Rails. It felt so daunting when I started, so to now be sort of comfortable with the basics is great! I've got tons of work to do, but I am encouraged.
+
 I enjoyed pairing with Mod 1 students, and I gave a well-attended Friday Spike as well. (More info below.)
+
+One of the highlights was giving a lighting talk after wrap-up on the topic of _mastery_. [These are the notes for that talk](https://gist.github.com/josh-works/65802ebf3c90025b113b52cbf6a79c71)
 
 ## Self-Assessment
 
@@ -31,18 +35,18 @@ I met with Maya, one of just a few students in mod 2, to talk about job things. 
 | Category | Score (optional) |
 | ----- | --- |
 | **Pairing Assessment** | 3.8 |
-| **Written Diagnostic** | X |
+| **Written Diagnostic** | n/a as of 3:30p |
 
 I enjoyed pairing with Beth on the end-of-mod assessment.
 
-Some of her specific feedback was encouraging, related to how I broke apart functional pieces of logic in the application, and it was also reassuring that I _have_ learned a lot over the mod, even though it's always felt like I'm a certain distance behind what's being taught. (My score was all 4s and a 3)
+Some of her specific feedback was encouraging, related to how I broke apart functional pieces of logic in the application, and it was also reassuring that I _have_ learned a lot over the mod, even though it's always felt like I'm a certain distance behind what's being taught. (My score was all 4s and a 3, hence the 3.8)
 
 
 ## B: Individual Work & Projects
 
 #### Blog Post:
 
-- [Understanding (and breaking) D3](https://josh.works/blog/tour-of-d3)
+[Understanding (and breaking) D3](https://josh.works/blog/tour-of-d3)
 
 #### Tutorials: Blogger & Mix Master
 
@@ -58,13 +62,15 @@ Further solidifying my Rails knowledge. I'm eager to pick up new things, like AP
 
 ## C: Group Work & Projects
 
-> **Bike Share**
+**Bike Share**
 
 I only wish I'd known the real goodness of ActiveRecord... we would have finished the project 24 hrs early, instead of working until midnight the day of.
 
-> **Little Shop of Orders**
+**Little Shop of Orders**
 
-Still in progress, but so far so good.
+Learned a lot this time around. Using Waffleboard was a learning experience. I was PM'ing, and at the beginning, I was writing not-very-detailed cards for fixes, but quickly learned that the more detailed I can write them, the easier it is for someone else to pick it up and complete it.
+
+I enjoyed the project, and found it to be not nearly as stressful as most of the other projects we've had.
 
 
 | CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
@@ -78,11 +84,18 @@ Still in progress, but so far so good.
 | **Testing** | 4 | X |
 | **Working Collaboratively** | 4 | X |
 
-> Bike Share evaluation comments:
-\<Instructor Comments Here>
+**Bike Share evaluation comments (from Beth)**
+> - Weather CRUD: solid
+> - Trip CRUD: solid
+> - Station CRUD: solid
+> - Style: quirky yet sufficient
+> - Heavily relying on Ruby instead of ActiveRecord for manipulations
 
-> Little Shop evaluation comments:
-\<Instructor Comments Here>
+
+
+**Little Shop evaluation comments:**
+
+N/A yet
 
 ##### Feedback to me for Bike Share
 
@@ -101,6 +114,14 @@ Josh: I really appreciate your positive, “who-cares-if-things-get-fucked-up”
 
 **Seth**
 
+> Seth! This was our what... fourth project together? I've really enjoyed working with you, and continue to be impressed by how quickly you crush those waffle cards and piece together complex logic.
+>
+> I look forward to working with you again down the road. Since we're supposed to have recommendations, I'd recommend (again) working on listening. Sometimes when we'd be chatting with Andrew or Beth or someone, you'd ask a question, then they'd start to give a response, and then you'd interrupt to add more info about your question. Not a huge deal, but since they're the experts, it's generally best to let them finish their thought before jumping in again.
+>
+> Your technical skills are top notch. I've enjoyed them!
+
+
+
 
 ## D: Professional Skills
 
@@ -117,14 +138,9 @@ https://gist.github.com/josh-works/8c2fec8a933cea0766555c0baaf6ff26
 
 #### **Gear Ups**
 
-> [Empathy](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
-
 Empathy is hard. It's also easiest to empathize with people who are like us, and its hard to imagine seeing the world any other way. But true empathy (distinct from sympathy) is to try to be where the other person is, and without judgement, say "yeah, that is hard."
 
-Brene Brown had a great youtube video on this: <link>
-
-
-
+Brene Brown had a great youtube video on this, btw: [Brené Brown on Empathy](https://www.youtube.com/watch?v=1Evwgu369Jw)
 
 **Grit**
 
@@ -165,9 +181,22 @@ It was fun seeing some more of the mod4 folks, talking with them a bit.
 
 ##### Feedback from me for Little Shop
 
-  >* For \<Partner 1>:
-  >* For \<Partner 2>:
-  >* For \<Partner 3>:
+**Seth**
+
+> Seth! This was our what... fourth project together? I've really enjoyed working with you, and continue to be impressed by how quickly you crush those waffle cards and piece together complex logic.
+>
+> I look forward to working with you again down the road. Since we're supposed to have recommendations, I'd recommend (again) working on listening. Sometimes when we'd be chatting with Andrew or Beth or Jorge, you'd ask a question, then they'd start to give a response, and then you'd interrupt to add more info about your question. Not a huge deal, but since they're the experts, it's generally best to let them finish their thought before jumping in again.
+>
+> Your technical skills are top notch. I've enjoyed them!
+
+**Chris**
+
+> Chris! I enjoyed getting to work with you on Little Shop. Thanks for your work, and for your patience with us all.
+>
+> I appreciated the calmness that you brought to the table, and your constant willingness to figure out what you needed to work on, and your care at managing all the branches and waffle cards well. It's sometimes a bit hard on the team when one person just launches off in one direction without any input from others, so I appreciate how intentional you were with regards to that.
+>
+> We're supposed to have recommendations in here, so I'd recommend figuring out how to make your ruby linter highlight only real problems, instead of more-or-less everything. Also, take a crack at customizing your terminal prompt to allow you to more quickly find your input and separate it from what's being printed to the screen.
+
 
 #### **Posse**
 
@@ -178,9 +207,13 @@ It was fun seeing some more of the mod4 folks, talking with them a bit.
 
 #### **Playing a Part**
 
-I led a spike on how to reach out to people via email, setting up coffee dates, and how to handle them once they're scheduled. There were ~40 people there. (!!!), and everyone said they enjoyed it and found it helpful.
+1. I led a spike on how to reach out to people via email, setting up coffee dates, and how to handle them once they're scheduled. There were ~40 people there. (!!!), and everyone said they enjoyed it and found it helpful. [Notes for the spike here](https://gist.github.com/josh-works/758e4d7babb082e446c888d8e00a40c2)
 
-I paired with mod-1 students 2-3/x week, and joined in some group discussions as they were studying more complex topics, like hashes.
+2. I paired with mod-1 students 2-3/x week, and joined in some group discussions as they were studying more complex topics, like hashes.
+
+3. Before their mod started, I shared [these thoughts(gist)](https://gist.github.com/josh-works/9366bece56a2b10a814ec727a8f6b45e) in their channel, and also heard that this was a useful guide. Also: [Learning how to learn](https://gist.github.com/josh-works/ea3be735b150710017f28baf75703407)
+4. I got proactive in inviting folks from mods 1/2 Frontend/backend out to the park near Turing for lunch. Some days we had more than 20 people out there, and a few folks thanked me for taking the initiative to invite everyone out. For just the "price" of a few slack messages in their channel, I was pleased with the result.
+
 
 ------------------
 
@@ -189,5 +222,3 @@ I paired with mod-1 students 2-3/x week, and joined in some group discussions as
 > #### Notes ( Leave blank for reviewers )
 
 > #### Outcome ( Leave blank for reviewers )
-GET | 301 | ? ms
-GET | 200 | ? ms
