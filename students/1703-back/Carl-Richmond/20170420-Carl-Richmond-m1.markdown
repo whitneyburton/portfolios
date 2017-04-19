@@ -33,10 +33,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/battleship) |
 | **Github** | [link](https://github.com/ACC25/sorting_project/blob/master/credit_check_final.rb) | [link](https://github.com/ACC25/linked_list) | [link](https://github.com/ACC25/Battleship) |
-| **Functional Expectations** | x | x | x |
+| **Functional Expectations** | 3 | x | x |
 | **Test-Driven Development** | x | x | x |
-| **Encapsulation/Breaking Logic into Components** | x | x | x |
-| **Fundamental Ruby & Style** | x | x | x |
+| **Encapsulation/Breaking Logic into Components** | 1 | x | x |
+| **Fundamental Ruby & Style** | 2.5 | x | x |
 | **Loop or Recursion** | x | x | x |
 
 
