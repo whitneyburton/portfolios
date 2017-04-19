@@ -55,8 +55,8 @@
 
 | Category | Score |
 | ----- | - |
-| **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS/FAIL |
+| **Written Diagnostic** | PASS |
+| **Timed Exercise** | PASS |
 | **Ruby Syntax & API** | PASS |
 | **Completion and Progress** | PASS |
 | **Testing** | PASS |
