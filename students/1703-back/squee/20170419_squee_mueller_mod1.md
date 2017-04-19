@@ -58,7 +58,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ### Define-the-Relationship (DTR)
 
-[Link]() to DTR Memo from 1 paired project.
+[Link](https://gist.github.com/squeemishly/60eb14a0dcb2aed06982e93168df6a04) to DTR Memo from 1 paired project.
 
 ### Pair Feedback
 
