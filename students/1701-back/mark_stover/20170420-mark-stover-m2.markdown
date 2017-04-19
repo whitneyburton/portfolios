@@ -23,7 +23,7 @@
 | Category | Score (optional) |
 | ----- | --- |
 | **Pairing Assessment** | PASS |
-| **Written Diagnostic** | X |
+| **Written Diagnostic** | PASS |
 
 > I am becoming more comfortable at working through problems with instructors. 
 
@@ -49,7 +49,7 @@
 >* In this project we used Ruby, Rails, and Activerecord to build an online store complete with shopping cart, authentication, and authorization.
 >* This project was really enjoyable. We strived to use agile methodologies to drive the completion of our MVP. We communicated really well and were able to successfully implement all of the logic required to implement all of the features of our site. Additionally, our testing suite was rock solid and our site developed using 100% TDD.
 
-| CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
+| CATEGORY | Bike Share | Little Shop |
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/somedayrainbows/bike-share) | [Shop Repo](https://github.com/somedayrainbows/tripvontrapp) |
