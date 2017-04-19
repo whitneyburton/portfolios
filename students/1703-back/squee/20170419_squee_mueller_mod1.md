@@ -31,7 +31,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
 | --- | --- | --- | --- |
-| **Project Spec** | [link]() | [link]() | [link]() |
+| **Project Spec** | [link](https://github.com/squeemishly/homework/blob/master/credit_check.rb) | [link](https://github.com/squeemishly/jungle_beat) | [link](https://github.com/squeemishly/battleship) |
 | **Github** | [link]() | [link]() | [link]() |
 | **Functional Expectations** | 4 | 3 | 2 |
 | **Test-Driven Development** | x | 3 | 3 |
@@ -44,7 +44,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
-| **Project Spec** | [link]() | [link]() |
+| **Project Spec** | [link](https://github.com/squeemishly/enigmatic) | [link](https://github.com/squeemishly/headcount_trial_and_error) |
 | **Github** | [link]() | [link]() |
 | **Functional Expectations** | 1 | x |
 | **Test-Driven Development** | 3 | x |
