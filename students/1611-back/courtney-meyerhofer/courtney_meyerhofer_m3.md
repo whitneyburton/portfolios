@@ -247,6 +247,7 @@ Project demonstrates well-factored code and a solid grasp of MVC principles.
 James, I really enjoyed working with you on the Cloney Island project. You were dedicated to the project, and I especially appreciate the quality you put into your code, like the site's messaging system. You were always communicative and organized, and made sure to update the team of our status as we went along. As our project manager, you consistently thought ahead to what problems we might encounter and I think that forethat kept us from having any major issues. You're able to work through problems idepdently, be a communicative collaborator, and keep a project on track to completion. You were an excellent team member, and any group would be lucky to have you on their team.
 
 #### Valerie Trudell
+Valerie, I really enjoyed working with you on the Cloney Island project. I appreciate that you took on the user dashboard, the calendar, and the trips system. Your code added a lot of functionality to our site. You added well tested code to our code base and did an excellent job setting up setting up the distinctions between trips and reservations. When you encountered problems, you pushed through and asked us for help as needed which made helped make sure that our project was on track to completion.You were an excellent team member, and any group would be lucky to have you on their team.
 
 #### Amara Lovato
 
