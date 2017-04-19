@@ -100,72 +100,13 @@ The output from JSHint shows…
 
 * 4 - Zero complaints
 
-
-#### Idea Box
-
-* [GitHub URL](https://github.com/JohnBinning/idea-box)
-* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
-* [DTR](https://docs.google.com/document/d/1VazGghcFbXZkeFrnJd_Jo_rGhgpqzbV0ObwjBOQeJr8/edit)
-
-Idea Box was very similar to linked list, but allowed the ideas to persist based on utilizing local storage.
-
-#### Evaluator: Louisa
-
-#### Specification Adherence
-* 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
-
-#### HTML Style
-* 3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
-
-#### CSS Style
-* 3.5: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
-
-#### JavaScript Style
-* 3.5- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
-
-#### Workflow
-* 3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
-
-#### Collaboration
-* 3 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
-
-
-#### ToDo Box Pivot
-
-* [GitHub URL](https://github.com/JohnBinning/2DoBox-pivot)
-* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
-
-With ToDo Box, we took another group's Idea Box and pivoted it into a new site.  ToDo box could filter ToDo's level of importance, and completed ideas could be recalled.  We used Selenium testing, and had to refactor the old code as well.
-
-#### Evaluator: Louisa
-
-#### Instructor Evaluation Points
-
-#### Specification Adherence
-4 - The application meets all of the phase requirements listed above and implements one or more of the extensions.
-
-#### User Interface
-3.5 - The application has many strong pages/interactions,  the application is pleasant, logical, and easy to use. The application is fully responsive, and has clearly had special consideration around usability on devices. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
-
-#### HTML Style
-3.5 - Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing. Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors.
-
-#### JavaScript Style
-3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application has exceptionally well-factored code with little or no duplication and all components separated out into logical components.
-
-#### Testing
-4 - Project has a running test suite. The test suite covers all aspects of the application.
-
-#### Workflow
-4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
-
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
 #### For Justyna Field, Complete-Me partner:
 
-Working with Justyna the second time around was great again. Just like the first time, we had wonderful give and take, and we agreed up front that no one would fall behind. I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me. It was great seeing how much she had learned and grown since our first paring.  Our communication was excellent, and we were consequently able to stop any arguments before they even started. I would be happy to work with her again.  Also, our game was awesome!
+Working with Justyna the second time around was great again. Just like the first time, we had wonderful give and take, and we agreed up front that no one would fall behind. I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me. It was great seeing how much she had learned and grown since our first pairing.  Our communication was excellent, and we were consequently able to stop any arguments before they even started. I would be happy to work with her again.  Also, our game was awesome!
 
 #### For Leta Keane, 1701 FE Peer
 
@@ -194,7 +135,7 @@ Though I never formally paired with her, Leta has done a great job as a member o
 
 #### From Justyna Field, linked-list partner: 
 
- I really enjoyed working with John. We determined our working relationship right away with great respect of each other’s working habits and schedule differences. During our work process we exchanged clarifying questions. If there was any part of the project that one of us did not fully understand we would stop and take time to walk each other through the problem and make sure that we both fully understand that topic. I feel like we both equally contributed into the project, it was a very good pairing experience.
+ It is always very inspiring for me to see how you pay attention to every detail and really make sure that every piece of the code is very well understood. It is great to see the incredible progress you’ve made since the last time we worked together. I think that you are a very respectful partner and also very supportive. I like working with you because you always make sure that we are both on the same page and nobody ever falls behind. Just like before, this was a very good pairing experience. It would be great to work together again in the future.
  
 #### From Leta Keane, 1701 FE Peer
  
@@ -236,7 +177,7 @@ John and I weren't paired for projects, but he and I worked together whiteboardi
 
 ### Playing a Part
 
-I feel that I stepped up as a community member this mod.  I joined the Pahlka Posse and helped lead a spike on accessibility.  I also opened myself up to pairing and paired with several mod1 students and set up a mentor.
+I feel that I stepped up as a community member this mod.  I joined the Pahlka Posse and helped lead a spike on accessibility.  I started attending the denver js meetup.  I also opened myself up to pairing and paired with several mod1 students. Additionaly, I reached out to Robbie Lane, a turing Alum, and set up a mentor relationship with him.
 ------------------
 
 ## Final Review
