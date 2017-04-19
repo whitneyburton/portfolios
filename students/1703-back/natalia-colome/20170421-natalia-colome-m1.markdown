@@ -12,8 +12,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- |
 | A | **End-of-Module Assessments** | x |
 | B | **Individual Projects** | 3 |
-| C | **Group Projects** | 3 |
-| D | **Professional Development** | 3 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 4 |
 | E | **Community** | 3 |
 
 ------------------------------------------------
