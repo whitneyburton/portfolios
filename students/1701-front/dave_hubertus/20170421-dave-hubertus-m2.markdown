@@ -41,14 +41,16 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Work & Projects
 
-Front End Module One Projects are designed to improve our skills and increase our exposure to multiple facets of programming. Each project builds upon the last and increases in complexity. Projects have exposed us to HTML, CSS, Javascript, jQuery, JSON and Local Storage.
+Front End Module Two Projects are designed to improve our skills and increase our exposure to multiple facets of programming. Each project builds upon the last and increases in complexity. Projects have exposed us to HTML, CSS, Javascript, jQuery, ES6, React, JSON, Local Storage, and Enzyme/Jest.
 
 
 ### Sorting Suite
 
 *   [GitHub URL](https://github.com/dhubertus/dh-sorting-suite)
 
-Build a game where the user guesses a number between 1 and 100.
+Sorting algorithms are one of the common domains for studying Computer Science data structures and algorithms. They give us an opportunity to focus on algorithms of various complexity all solving a relatively simple problem.
+
+In this project, you are challenged to implement three fundamental sorting algorithms being bubble sort, insert sort, and merge sort.
 
 #### UX/UI Expectations
 2: Application meets the basic spirit of the comp but overlooks many details. Extensions show questionable design decisions that negatively impact the overall UX/UI. Functional Expectations
@@ -68,7 +70,7 @@ Build a game where the user guesses a number between 1 and 100.
 
 *   [GitHub URL](https://github.com/dhubertus/dh-complete-me)
 
-The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. You will be asked to recreate a static comp, with each growing in complexity.
+Everybody uses auto complete.You can love it or you can hate it but ultimately you’re going to use it. Sometimes it’s helpful and sometimes it’s just annoying. In this project you are going to be building a low level version of an auto complete system in javascript.
 
 #### Fundamental JavaScript & Style
 3: Application shows strong effort towards organization, content, and refactoring
@@ -91,14 +93,14 @@ The static comp challenge is a series of three challenges to keep you working th
 
 ### Projects
 
-Front End Module One Projects are designed to improve our skills and increase our exposure to multiple facets of programming. Each project builds upon the last and increases in complexity. Projects have exposed us to HTML, CSS, Javascript, jQuery, JSON and Local Storage.
+Front End Module Two Projects are designed to improve our skills and increase our exposure to multiple facets of programming. Each project builds upon the last and increases in complexity. Projects have exposed us to HTML, CSS, Javascript, jQuery, ES6, React, JSON, Local Storage, and Enzyme/Jest.
 
 
 ### Game Time
 
 *   [GitHub URL](https://github.com/DBULL7/breakout)
 
-Build an application that can save a URL and title into two inputs and on click of submit to save the bookmark to your webpage.
+Build a game that is playable in the browser. Use design patterns to drive both the design and implementation of code. Separate business-logic code from view-related code. Use test-driven design to build a client-side application.
 
 #### Functional Expectations
 3.5 - Application is fully playable without crashes or bugs
@@ -123,25 +125,31 @@ Build an application that can save a URL and title into two inputs and on click 
 
 *   [GitHub URL](https://github.com/Adamj1232/CloudKicker-WeatherForecast-ReactProject)
 
-Build an application that can save a URL and title into two inputs and on click of submit to save the bookmark to your webpage. The bookmarks should be stored in local storage and persist on the page after refresh.
+As web developers you’re going to be living in the context of the web. With this next project you will be interacting with a web-api.  Data is important and thats what the API provides. As a web-developer you will be giving value to that data by visualizing and organizing that data for your user base.
 
 #### Specification Adherence
 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
+#### User Interface
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
+
 #### HTML Style
-3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
-#### CSS Style
-3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+#### CSS/Sass Style
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
 
-#### JavaScript Style
-3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+#### JavaScript / React Style
+3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application has at least 6 components built out.
+
+#### Testing
+3 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of feature testing.
 
 #### Workflow
-3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
-#### Collaboration
-3.5 - Team members employ PRs and issues to both manage their work and communication/collaboration around executing the tasks.
+#### Code Sanitation
+4 - Zero complaints
 
 
 ### Playing a Part
