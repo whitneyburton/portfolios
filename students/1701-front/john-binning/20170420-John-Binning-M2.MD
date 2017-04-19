@@ -21,8 +21,49 @@ My goal for the module was to get comfortable with data manipulation, ES6, and t
 
 ## B: Individual Work & Projects
 
+### Sorting Suite
+
+
+Sorting Suite is a project where students are asked to build three sorting algorithms from scratch
+
+*   [GitHub URL](https://github.com/JohnBinning/https://github.com/JohnBinning/sorting-suite)
+*   [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
+
+# Instructor Evaluation Points: Sorting Sweet
+# Instructor: Nathaniel
+# Comments:
+
+## Evaluation Rubric
+
+### 1. Fundamental JavaScript & Style
+
+* 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 2. Test-Driven Development
+
+* 3.5: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+
+* 3.5: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Functional Expectations
+
+* 3.5: Application meets all requirements as laid out per the specification.
+
+
+### 5. Code Sanitation
+
+The output from ESLint shows…
+
+* 4 - Zero complaints
+
+### Complete-Me 
+
 Complete-Me is a project where students are asked to build an auto-complete trie in Javascript
 
+*   [GitHub URL](https://github.com/JohnBinning/https://github.com/JohnBinning/complete-me)
+*   [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
 # Instructor Evaluation Points: Complete-me
 # Instructor: Jhun
@@ -74,7 +115,7 @@ Game Time is a project where students are asked to make an arcade game in Javasc
 - Would like to see more tests for World if the majority of responsibility stays with world.
 
 
-## Functional Expectations
+### Functional Expectations
 
 * 3.5 - Application is fully playable without crashes or bugs
 
@@ -99,6 +140,44 @@ Game Time is a project where students are asked to make an arcade game in Javasc
 The output from JSHint shows…
 
 * 4 - Zero complaints
+
+# Instructor Evaluation Points: weathrly
+# Instructor:
+# Comments:
+
+### Specification Adherence
+
+4 - The application meets all of the requirements listed above and implements one or more of the extensions.
+
+### User Interface
+
+4 - The application is pleasant, logical, and easy to use. The application is fully responsive, and has clearly had special consideration around usability on devices. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
+
+### HTML Style
+
+3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+### CSS/Sass Style
+
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
+
+### JavaScript / React Style
+
+4 - Application has exceptionally well-factored code with little or no duplication and all components separated out into logical components. There are zero instances where an instructor would recommend taking a different approach to design and component architecture.
+
+### Testing
+
+3.5 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of feature testing.
+
+### Workflow
+
+3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
+### Code Sanitation
+
+The output from a code sanitizer (either JSHint or ESLint) shows…
+
+4 - Zero complaints
 
 ## E: Feedback and Community Participation
 
