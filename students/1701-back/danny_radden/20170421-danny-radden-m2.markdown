@@ -120,11 +120,21 @@ I really enjoyed the Automation gear up. I am a big proponent of automation and 
 
 ##### Feedback from me for Little Shop
 
->**To Sam:** Hey Brah. I'm glad we finally got to work together! You're a lot of fun, and I'm glad we've had the chance to become friends at Turing. But anyhoo. You were a boon to the group: You contributed a strong technical skillset, a dedication to outcomes and a friendly disposition. It was nice of you to help Riley with our navbar, too. I noticed you have a tendency to research a challenge independently and discover a solution on your own before talking through an issue with the group. Self reliance is certainly a valuable skill, but there were times when I felt like we weren't really collaborating. I think you could be a more effective collaborator if you talk through your ideas and make sure your teammates are on the same page. Doing things that way is slower, no doubt, but I like to believe it leads to better outcomes. You should also probably learn VIM. I kid, I kid. But seriously, you've helped me learn a lot about my own collaboration style, and challenged me to be a better partner, which I honestly appreciate, and am hopefully making (slow) progress on. I hope we get more chances to work together in the future.
+**To Sam:**
+- smart
+- hard working
+- focused
 
->**To Maria:** Danny! When the class was apprehensive in anticipation for the groups to be announced: I was super excited to see your name on the team, and am glad we finally got to work together! Not only were you technically strong with the concepts of the project, you made sure to keep the mood light & fun while we worked on Little Shop as a team. You are easy-going, have a great sense of humor, and you were cognizant of other team members. Not serious feedback: I question your choice in beverages with the Soylent consumption.....More serious feedback: while you are a rockstar at digging in and looking at code and you were not afraid to go down tangents and rabbit-holes, I think your inter-personal skills will certainly play an equal part to you being an amazing dev on a team. As for specifics, I appreciated your enthusiasm to go out on a limb with Materialize, especially with that slide-out-drawer that needed that one line of jquery--you were super thrilled once that got working! I admired your ability to tackle any issue in the project head-on, and when we did run into little speed-bumps, you immediately helped to diffuse any stress that surfaced! I really enjoyed working with you on crazy hybrid-animals, and hopefully we will cross paths again soon :)
+**To Maria:**
+- friendly
+- helpful
+- contributer
 
->**To Jonathan:** I had a great time working with you. Your quickness in picking up new concepts, as well as your existing depth and breadth of knowledge, enabled us to blaze through every challenge in front of us. Also, your dogged determination to solve problems was great - though at the same time, it was sometimes hard to know what your process was for tackling said problem. In sharing that process with the group, it can lead to a better outcome and more learning all around, even with the trade-off of potentially arriving at a solution more slowly. All around, I really appreciated your sense of humor and good nature, and assert you were a true asset to the team. 10/10 would work with again.
+**To Jonathan:**
+- friendly
+- tall
+- learner
+- PM
 
 #### **Posse**
 I was one of the leaders for the Wozniak Posse this mod. We focused on learning data structures on algorithms.
