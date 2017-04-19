@@ -159,48 +159,6 @@ With ToDo Box, we took another group's Idea Box and pivoted it into a new site. 
 #### Workflow
 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
-
-## D: Professional Skills
-
-### Gear Up
-#### Growth Mindset
-
-*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
-
-It's interesting to look back on the first gear up of the mod now that we are at the end.  I can say that I have had some pretty strong moments of having having both a fixed and a growth mindset.  It has been valuable to be able to recognize what is happening during times of having a fixed mindset, and taking steps to switch back to growth.  I think this session has been and will continue to be valuable to me as I work my way through the highs and lows of Turing.
-
-#### Getting Better at Difficult Things
-
-*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
-
-I learned that I need to focus on recognizing when I'm stuck.  When I do get stuck, I need to find a way to get myself out of a rut.  I also recognized that worrying about the whole process of learning to code is just going to be frustrating.  It's best to take things one project/day at a time, and I can accomplish this by breaking down/splitting up difficult/daunting tasks.  I also need to go easier on myself on my mistakes.
-
-
-
-#### Debugging the Gender Gap
-
-I found the quote about women in history interesting "Women are an equal part of the past but not an equal part of history".
-When they spoke about not having computer sciense as a subject in high school, I could really relate, I wish I could have been exposed to the subject much earlier.
-
-Two biggest takeaways: 
--it's almost if not completely impossible for me to understand the experiences of people who are a different gender, race... than I am if no one speaks up
--it's much easier to develop applications that are usable for everyone when we have a diverse team of developers.
-
-### PROtocol
-
-*   [PROtocol slides](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit#slide=id.g1c505a3b55_0_258)
-
-I learned that I need to be sensitive to how I give an receive feedback.  It is important to stop and think about how I am perceiving/giving feedback based on how I'm feeling.
-
-### Professional Development Workshops
-
-*   [Workshop URL](http://backend.turing.io/professional_development/module_one/identity_essentials)
-*   [Github](https://github.com/JohnBinning)
-*   [Linkedin](https://www.linkedin.com/in/john-binning-289607132/)
-*   [Stack Overflow](http://stackoverflow.com/users/7484758/john-binning)
-
-I recognize the value of looking professional on social media.  Social media is a great way to network, and could lead to job leads.  It influences other people's impressions of you.
-
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
