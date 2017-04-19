@@ -36,7 +36,7 @@
 ## B: Individual Work & Projects
 
 #### Blog Post:
-> [\<Topic>](https://)
+> [Automation Transformations](https://)
 
 #### Tutorials: Blogger & Mix Master
 > These were really lengthy and difficult to get through as I really need to take notes to digest new concepts and there just wasn't enough time to get past the bare minimum. This was unfortunate because the extensions looked really exciting & useful, but I referred to them many times throughout Little Shop and I'm sure they'll be valuable resources in the future.
