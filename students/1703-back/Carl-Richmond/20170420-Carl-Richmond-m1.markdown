@@ -2,7 +2,11 @@
 
 ## Areas of Emphasis
 
-I wanted to start out by saying I have absolutely loved my experience so far at Turing. I came here, all the way from Canada, because this program was the only one that seemed hard enough to be legitimate. 
+I wanted to start out by saying I have absolutely loved my experience at Turing so far. I came here, all the way from Canada, because this program was the only one that seemed hard enough to be legitimate. The grind that has been Module 1 has been wonderful and I feel like I have learnt so much. Working 14 hour days for 6 weeks has brought me from knowing nothing to being one question away from finishing Headcount. 
+
+I came here to learn the technical side of software development and to eventually pair that with the business side that I have been studying for years, and I feel really confident that after 6 more months of this that I will have the skills I came here for. 
+
+I really love the community atmosphere of Turing and I think this organization has a lot of potential to expand, and I am excited to see what is in store in Module 2!
 
 ## Self-Assessment Scores
 
