@@ -30,7 +30,7 @@
 ## B: Individual Work & Projects
 
 #### Blog Post:
-> [\<Topic>](https://)
+> [VIM](https://medium.com/@stovermc/to-vim-or-not-to-vim-76d406fddb5b)
 
 #### Tutorials: Blogger & Mix Master
 > These projects were very helpful in providing exposure to topics that were later covered in lecture. Because they were so lengthy, I had to make sure I was using pomodoros in order to give each part of the tutorials my full attention. These projects also proved to be useful resources to come back to for clarification throughout the module and during other projects. 
@@ -75,8 +75,9 @@ Impressive styling, Stations CRUD: solid, Weather CRUD: solid, Bugs: deleting st
 ##### Feedback to me for Little Shop
 
   >* From Natalie Barron: Mark, it was a pleasure working with you on Little Shop. You did a great job implementing the cart functionality. I was really impressed. I really appreciated the pairing we did throughout the project. Working with you has been a great experience. You are very knowledgeable and dedicated to really understanding what's going on. I've learned so much from working with you on both Bike Share and Little Shop. Thanks for being a great teammate!
-  >* From Erin Bassity: I really enjoyed working on a team with you. Your interpersonal skills are great, and you are equally skilled in team-based work and solo work. You delivered, you showed up, you talked through problems, you were there for your team the entire time. You wrote great code, you refactored, you kept your eye on the ball, you were creative and advocated well for things you felt we should try when we were stuck, and you kept a positive attitude throughout. Thank you for an excellent team experience all around!
-
+  >* From Erin Bassity: 
+  >* From Stephanie Bentley:Team:  You guys rocked! I had a lot of fun working on this project and building our site.  I’m really proud of our hard work and that we were able to accomplish all of the goals we set in our DTR.  It was such a nice feeling to be working on nothing but extensions the last few days of the project- definitely a refreshing change from previous project experiences! I think our success was the result of the really strong communication.  We were all on the same page for daily goals and overall work-structure. The Trello cards were great and much cleaner/easier than waffle.io. I’m glad we made this switch early in the project. I also think we worked really well as a team. We shared responsibility well and accomplished quite a bit individually, in pairs, and all together. I’m also really proud of our TDD-ing. This was something we all mentioned wanting to improve upon in the DTR, and I feel like we stuck to that goal and pushed ourselves to write tests before ever writing code.  I definitely feel stronger as a result. Thanks for a great end-of-mod project.
+Mark: I know you asked for “critical feedback”, but I’m having a hard time coming up with anything.  I really appreciated your work ethic, your willingness to get things done on this project, and your calm approach to tackling difficult problems. This was especially helpful for me as someone who can get anxious and stressed out quickly. It was awesome the way you built out the cart functionality and then took the time to explain what was going on with the code you wrote to the rest of us. I also learned how to set and pass in new params because of the work we did with the “checkout” button and creating an order. Thanks!
 
 ## D: Professional Skills
 
@@ -106,9 +107,9 @@ When I think about automation, I find that I have two different perspectives. Fi
 
 ##### Feedback from me for Little Shop
 
-  >* For \<Partner 1>:
-  >* For \<Partner 2>:
-  >* For \<Partner 3>:
+  >* For Natalie Barron: It was great getting to work with you on another project. I really like the way you work through problems and appreciate the way you are able to calmly work through each error in order to arrive at a solution. I feel we used TDD really well on this project and think that is in large part because of the way you pushed for it in our DTR. It has taught me the true value of TDD and is something that I will take with me to future projects. Your open communication around study time was very helpful in prioritizing our time spent as a group and consequently, we made an awesome app together. Also, the levity you and your robot voice bring to the group is nothing short of wonderful. It was a pleasure working with you on Tripvontrapp!
+  >* For Erin Bassity: It was awesome getting to work on a second project with you. Again, your styling wizardry gave our site an awesome professional appearance, unrivaled by any other little shop projects in my opinion. Nice Job! You seemed much more comfortable as project manager this time around and I think our project is an expression of this. Your set up of Trello was the backbone of our workflow and the daily stand ups and retros you facilitated contributed to our awesome group dynamic. Lastly, I saw great improvement in your technical skills this project. I think the questions you asked were awesome, the hard work you put in was inspiring, and the smile you brought every day helped contribute to our awesome group dynamic. Many thanks!
+  >* For Stephanie Bentley: I am glad we were finally able to work on a project together! You added a dynamic to our group that we were lacking and because of it, we performed at a much higher level. You gave 100% every day and really helped drive our project to completion. This included making the decision to start working as a team to ensure we were all capturing the learning this project offered. Your technical skills are really strong and I enjoyed working through the creation of orders and the checkout process with you. I noticed you are working on your keyboard shortcuts in Atom, thats awesome! I think if you gave VIM an honest effort you would really like it. Overall, you are a wonderful teammate and I would be thrilled to work on a future project with you.
 
 #### **Posse**
   >* This module I have been a part of Turing labs. We have been working on building an arcade box that will host Turing's arcade on a raspberry pie.
