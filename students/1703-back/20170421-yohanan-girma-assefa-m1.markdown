@@ -56,12 +56,12 @@ _It is difficult to give myself self-assessment scores but...._
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link]() |
 | **Github** | [link](https://github.com/squeemishly/enigmatic) | [link](https://github.com/yoasyo25/headcount) |
-| **Functional Expectations** | 1 | x |
-| **Test-Driven Development** | 3 | x |
-| **Encapsulation/Breaking Logic into Components** | 3 | x |
-| **Fundamental Ruby & Style** | 3 | x |
-| **Enumerable & Collections** | N/A | x |
-| **Code Sanitation** | N/A | x |
+| **Functional Expectations** | 1 | 2 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 4 |
+| **Fundamental Ruby & Style** | 3 | 4 |
+| **Enumerable & Collections** | N/A | 4 |
+| **Code Sanitation** | N/A | 4 |
 
 
 ## D: Professional Development
@@ -86,7 +86,7 @@ _It is difficult to give myself self-assessment scores but...._
 
 **Feedback for Chantal Justamond:**
 
-> Chantal, I want to thank you for being a genuine teammate under a very difficult and stressful situation. This was a very challenging project for both of us. But not once did we take out our frustrations on each other or act in a manner that made the other person feel like we weren't in this together. I really felt like we bonded meaningfully through this experience and learned a lot about git, accessing information from a cvs file, and accessing information from a database. Though it would have been wonderful if we could have gotten to iteration 5, I'm commending our persistence in making sure that we had solid foundations for our code. We also did a good job of pulling together our resources and making the best out of a difficult situation. I very much appreciated your patience, grit, easy going nature, and consistent use of pry during our project. Thank you so much for being a wonderful teammate!   
+> Chantal, I want to thank you for being a genuine teammate under a very difficult and stressful situation. This was a challenging project for both of us. But not once did we take out our frustrations on each other or act in a manner that made the other person feel like we weren't in this together. I really felt like we bonded meaningfully throughout this experience and learned a lot about git, manipulating information from a csv file, and accessing information from a database. Though it would have been wonderful if we had gotten to iteration 5, I'm commending our persistence in making sure that we had solid foundations for our code at the very beginning. We also did a good job of pulling together our resources and we learned a lot through this process. I very much appreciate your patience, grit, easy going nature, and consistent use of pry during our project. Thank you so much for being a wonderful teammate!   
 
 **Feedback from Chantal Justamond:**
 
