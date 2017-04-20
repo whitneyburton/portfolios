@@ -28,13 +28,13 @@
 ## B: Individual Work & Projects
 
 #### Blog Post:
-> [\<Topic>](https://)
+> [Personal Site](https://themenintights.github.io/)
 
 #### Tutorials: Blogger & Mix Master
-> \<Takeaways, your experience>
+> I liked the tutorials but and found them really helpful.
 
 #### Projects: Job Tracker & Rails Mini Project
-> \<Takeaways, your experience>
+> Being able to finish these and actually see what is is we're making is great and gettting active record methods working in these were awesome.
 
 
 ## C: Group Work & Projects
@@ -51,49 +51,49 @@
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/slague/bike-share) | [Shop Repo](https://github.com/josh-works/black_shop_of_horrors) |
-| **Functional Expectations** | X | X |
-| **ActiveRecord** | X | X |
-| **User Experience and Conventions** | X | X |
-| **Code Organization/Quality** | X | X |
-| **Testing** | X | X |
-| **Working Collaboratively** | X | X |
+| **Functional Expectations** | 3 | X |
+| **ActiveRecord** | 2 | X |
+| **User Experience and Conventions** | 4 | X |
+| **Code Organization/Quality** | 4 | X |
+| **Testing** | 4 | X |
+| **Working Collaboratively** | 4 | X |
 
 > Bike Share evaluation comments:
-Use more active record.
+  Weather CRUD: solid
+  Trip CRUD: solid
+  Station CRUD: solid
+  Style: quirky yet sufficient
+  Heavily relying on Ruby instead of ActiveRecord for manipulations
 
 > Little Shop evaluation comments:
-\<Instructor Comments Here>
+
 
 ##### Feedback to me for Bike Share
 
-  >* From Josh:
-  >* From Jonathan:
+  >* From Josh: "Your technical expertise has been 
+  >* From Jonathan: "I had a great  time working with you on this project. Our team was much better off having your quick problem-solving skills on board. I was especially impressed with your ability to apply concepts (from class, documentation, or wherever) to real-world problems. One thing you could focus on to be even more effective would be finding a way to more clearly communicate your thought-processes to everyone else in the group, walking through step by step."
   >* From Stephanie:
 
 ##### Feedback to me for Little Shop
 
-  >* From \<Partner 1>:
+  >* From Josh:"Seth! This was our what... fourth project together? I’ve really enjoyed working with you, and continue to be impressed by how quickly you crush those waffle cards and piece together complex logic.
+>
+> I look forward to working with you again down the road. Since we’re supposed to have recommendations, I’d recommend (again) working on listening. Sometimes when we’d be chatting with Andrew or Beth or someone, you’d ask a question, then they’d start to give a response, and then you’d interrupt to add more info about your question. Not a huge deal, but since they’re the experts, it’s generally best to let them finish their thought before jumping in again. 
+>
+> Your technical skills are top notch. I’ve enjoyed them!"
   >* From \<Partner 2>:
   >* From \<Partner 3>:
-
-
-## D: Professional Skills
-
-> \<Intro>
-
-#### **Professional Development Workshops**
-> [Warm Outreach, Agile Process, Feedback](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1701-b/<your_name>.md)
 
 #### **Gear Ups**
 
 > [Empathy](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+Some of these questions asked in this gear up confused me and I wondered how they were even considered for the gear up, but after talking with the group I was assigned to and seeing their point of view was a real eye openner.
 
 > [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+Our group talked about how grit is such a terrible word for it, they use both grit and Open Mindset to describe the same thing, when they're not.
 
 > [Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+Getting a look at how much is actually becoming automated is amaing, When we think automation we think more about automation in the sense of factories, and because of that we don't think it's harmful at all, and learning about this really opens our eyes.
 
 
 ## E: Feedback and Community Participation
@@ -102,24 +102,18 @@ Use more active record.
 
 ##### Feedback from me for Bike Share
 
-  >* For \<Partner 1>:
-  >* For \<Partner 2>:
-  >* For \<Partner 3>:
+  >* For Jonathan: It was great working with you on this project since last mod we didn't really do much, and the experience was great, your ability to see other's point of view and ideas was really helpful and cool to see, but maybe being a little more strong on your own ideas might be a good idea for the next time.
+  >* For Josh: Having your expertise on github commands really helped us get through this project, it's always enjoyable working with you and making jokes. 
+  >* For Stephanie: Thank you for taking up the project manager position, I know it isn't an easy thing but having you assign things for us to do and able to see what each of us are good at really pusehd this project along and I don't know if we would have gotten as far had you not been so on point.
 
 ##### Feedback from me for Little Shop
 
-  >* For \<Partner 1>:
-  >* For \<Partner 2>:
-  >* For \<Partner 3>:
-
-#### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
-
+  >* For Josh: It's has been nice working with you and with your consistant ability to stay on task and not get distracted has been really helpful in keeping myself from doing those. It has also been nice exchanging keyboard shortcuts and other valuable computer navigation tricks with you.
+  >* For Chris: Working with you was fun, since I haven't worked with you since last mod getting your point of view on topics has been helpful. Something that could help you in the future would maybe spend time learning your keyboard shortcuts for text editors to help you move along your code much easier.
+  
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
+> I've made myself available and contacted MOD 1 students to offer help and support.
 
 ------------------
 
