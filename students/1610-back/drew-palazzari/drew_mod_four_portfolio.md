@@ -44,3 +44,11 @@
   Feedback to Annie:
 
   It was a pleasure working with you for the first time. I still remember our Johari PORO; it was (and still is!) amazing. It lives on in my memory, as does the act of constructing it. I also admire your tenacity while working with AuthO. I'm sure it was incredibly frustrating, and part of me is happy you were able to deal with the struggle, because I know you are more than capable. Considering it was a new tech stack, I think you did an excellent job in successfully building the application to the project owner's and group's desires. I would happily work with you again; at Turing, and beyond!
+  
+  Feedback From Lucy:
+
+I’m so glad we got a chance to work together again, and it really meant a lot to me that you chose to work on the johari window project. Once again, I relied on your dedication, steady pace, and positive attitude. You had a huge impact on our success and you clearly understand the material. Your skills and approach are going to serve you well however you apply them!
+
+  Feedback to Lucy:
+
+Lucy, working with you is always an exercise in success. You are an excellent teammate and coder- even in the face of immense challenges. The Johari Window project was a great idea, and I am thankful you were open to letting me jump in and work on it. You will go far as a professional software developer, and some day, SOME DAY, we might solve AuthO. Thanks again for the great experience.
