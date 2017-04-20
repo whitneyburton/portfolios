@@ -6,7 +6,7 @@ My goal for this module was to develop strong foundations in Ruby, improve my pr
 
 ## Self-Assessment Scores
 
-_It is very difficult to give myself self-assessment scores_
+_It is difficult to give myself self-assessment scores but...._
 
 | Section | Category | Score |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ _It is very difficult to give myself self-assessment scores_
 
 **Feedback for Chantal Justamond:**
 
-> ADD FEEDBACK
+> Chantal, I want to thank you for being a genuine teammate under a very difficult and stressful situation. This was a very challenging project for both of us. But not once did we take out our frustrations on each other or act in a manner that made the other person feel like we weren't in this together. I really felt like we bonded meaningfully through this experience and learned a lot about git, accessing information from a cvs file, and accessing information from a database. Though it would have been wonderful if we could have gotten to iteration 5, I'm commending our persistence in making sure that we had solid foundations for our code. We also did a good job of pulling together our resources and making the best out of a difficult situation. I very much appreciated your patience, grit, easy going nature, and consistent use of pry during our project. Thank you so much for being a wonderful teammate!   
 
 **Feedback from Chantal Justamond:**
 
@@ -102,15 +102,15 @@ _It is very difficult to give myself self-assessment scores_
 
 #### Session 1: Growth Mindset
 
-I am much more appreciative of the progress that I have made thus far and I feel more confident in myself. The initial doubts that I had about whether I will be a good developer are no longer as strong. Most days, I believe that with time and consistent effort, I will become a good developer. But there are also times when I feel discouraged and disappointed in myself for not grasping things as fast as I would like, or expect. Perhaps these are moments I should try and be more empathic towards myself and break down the concept/problem that I am having a hard time with so that I can better understand it.
+I am much more appreciative of the progress that I have made thus far and I feel more confident in myself. The initial doubts that I had about whether I will be a good developer are no longer as strong. Most days, I believe that with time and consistent effort, I will become a good developer. But there are also times when I feel discouraged and disappointed in myself for not grasping things as fast as I would like, or expect. Perhaps these are moments I should try and be more empathetic towards myself and try to adapt a "not yet" mindset.
 
 #### Session 2: Getting Better at Difficult Things
 
-I have accepted that being at Turing and learning to code is not an easy process. I think that has helped take away my frustration at how slow I felt at understanding things and it helps me to not waste my cognitive energy by wanting this experience to be a breeze. My effort at getting good at difficult things includes making time to do drills and a range of Ruby exercises. I also try to cherish moments where concepts and drills that were once really difficult become more manageable. Pushing aside my fears and focusing on how to become a good developer has been conducive to my learning.
+I have accepted that being at Turing and learning to code is not an easy process. This has helped reduce my frustrations with the pace that I am grasping what is being taught and it helps me to not waste my cognitive energy by wanting this experience to be a breeze. My effort at getting good at difficult things has included making time to do drills and a range of Ruby exercises. I also try to cherish moments where concepts and drills that were once really difficult become more manageable. Pushing aside my fears and focusing on how to become a good developer has been conducive to my learning.
 
 #### Session 3: Introvert vs. Extrovert
 
-Open and respectful communication about our temperaments is very important when working with others. People draw their energies differently and their ability to do their best work can be impacted by the type of stimulation they are surrounded with and whether their teammates understand their temperament and are empathetic to their needs.
+Open and respectful communication about our temperaments is very important when working with others. People draw their energies differently and their ability to do their best work can be impacted by the type of stimulation they are surrounded. We need to do our best to understand each other's personality traits and be empathetic to the other person's needs.
 
 #### Session 4: Strengths & Storytelling
 
@@ -118,7 +118,7 @@ I came to Turing because I wanted to develop new skills and use them to make pos
 
 #### Session 5: Debugging the Gender Gap
 
-It is very disappointing that the tech industry has a significant lack of gender diversity and that there is widespread discrimination and bias towards women. Many of us are choosing to enter this industry because we expect it to bring positive change in our lives. It is unfortunate that once we enter the job market, many of us will face bias and unfounded questions regarding our skills. But it is encouraging to see that Turing is doing a good job at addressing this problem and has committed itself to having a diverse student body. The school still has some ways to go, especially with regards to racial diversity, but I believe that it's efforts are in the right direction. I also think that the Joan Clarke Society provides women at Turing an important space where we can lean on each other and have a support system.
+It is very disappointing that the tech industry has a significant lack of gender diversity and that there is widespread discrimination and bias towards women. Many of us are choosing to enter this industry because we expect it to bring positive change in our lives. It is unfortunate that once we enter the job market, many of us will face bias and unfounded questions regarding our skills. But it is encouraging to see that Turing is doing a good job at addressing this problem and has committed itself to having a diverse student body. The school still has some ways to go, especially with regards to racial diversity, but I believe that its efforts are in the right direction. I also think that the Joan Clarke Society provides women at Turing an important space where we can lean on each other and have a support system.
 
 ### Community Participation
 
