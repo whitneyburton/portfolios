@@ -125,3 +125,11 @@ I made myself available for whiteboarding and was always willing to work on proj
 ## Final Review
 
 ### Outcome
+
+PASS
+
+A: End-of-Module Assessment: 3 
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 4
+D: Professional Skills: 3 
+E: Feedback & Community Participation: 3
