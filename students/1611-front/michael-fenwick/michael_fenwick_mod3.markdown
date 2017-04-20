@@ -160,7 +160,7 @@ I would happily work with Marissa again in Mod4.
 
 #### To Julian Kyer:
 
-While working with Julian during Movie Tracker I found his calm approach to programming to be very effective. If we were struggling with an issue Julian was able to research and find a solution to that problem and implement it quickly. I find this to be a very useful skill to have when programming. 
+While working with Julian during Movie Tracker I found his calm approach to programming to be very effective. If we were struggling with an issue Julian was able to research and find a solution to that problem and implement it quickly. I find this to be a very useful skill to have when programming.
 Julian also has a great understanding of JS and is willing to get deeper knowledge of the things he is working on.
 I look forward to working with Julian again.
 
@@ -174,6 +174,10 @@ I think it's incredibly impressive and something to admire how much work you put
 #### From Marissa Reinke:
 
 Working with Fenwick is awesome. He is good at going over anything he did outside of the group working together and was also letting Julian and myself drive. He is extremely humble and an amazing coder. Should probably sleep more though.
+
+#### From Julian Kyer:
+
+I really enjoy working with Mike. He is very inquisitive and willing to spend a lot of time figuring out the problem. I’ve also noticed that he will take breaks from his projects and cruise around, checking in on his cohort mates. He’s always willing to sit down with someone and help them tackle their problem, a generosity that doesn’t go unnoticed in 1611.
 
 
 ### Playing a Part
