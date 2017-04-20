@@ -69,11 +69,11 @@ Notes on Battleship from Mike
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [link](https://github.com/charliecorrigan/enigma) | [link](https://github.com/nmcolome/headcount) |
-| **Functional Expectations** | 3 | x |
-| **Test-Driven Development** | 3 | x |
-| **Encapsulation/Breaking Logic into Components** | 3 | x |
-| **Fundamental Ruby & Style** | 3 | x |
-| **Enumerable & Collections** | N/A | x |
+| **Functional Expectations** | 3 | 3 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 |
+| **Enumerable & Collections** | N/A | 3 |
 | **Code Sanitation** | N/A | x |
 
 #### Notes
@@ -83,6 +83,12 @@ Notes on Enigma from Mike
 - I like how your methods decrypt and encrypt
 - Overall good testing, would like to have seen edge case
 - Some opportunities to refactor, and pull things out to methods and separate classes
+
+Notes on Headcount from Mike
+- 170 assertions, all pass.
+- Overall fairly well tested, uses fixtures
+- Complete and does I6
+- 99.79% coverage
 
 ## D: Professional Development
 
