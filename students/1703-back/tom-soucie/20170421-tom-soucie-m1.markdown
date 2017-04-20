@@ -64,33 +64,29 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ### Pair Feedback
 
-Feedback from partner projects.
-
-#### Project 1 (Partner Name):
-
 *Feedback from partner projects.
 
-#### Project 1 (Sarah Kirk):
+#### Project 1 (Enigma):
 
-**Feedback for Enigma:**
+**Feedback for Sarah Kirk:**
 
 > Sarah was a great partner for me as she would ask questions and check in and make sure we were both on the same page. Sarah also had a few merge conflicts but I think again this was due to lack of experience and just part of the learning process with git.  I felt the biggest issues faced during our project were merge conflicts with git and the overall "problem" of the Enigma machine and how it was to be completed for the project. The merge conflicts were a result of inexperience with git and improved over the course of the project. The technical aspects of the problem were dramatic at first but Sarah and I worked together to get the issues resolved, but I felt the complexity resulted in me not verbally communicating at times and simply staring at the monitor and reading to understand the project and code.  Sarah was a great partner for me as she would ask questions and check in and make sure we were both on the same page. Sarah also had a few merge conflicts but I think again this was due to lack of experience and just part of the learning process with git.
 
 >Sarah always came to our project meetings with an upbeat attitude which helped us both get started with great energy. There were times during our project when we would encounter challenges writing the code, and figuring out the right way to solve the problem. Whenever we'd encounter this kind of "resistance" Sarah always maintained a positive attitude. Her willingness to work through the challenge was very motivating, and helped me stay mentally engaged and working on the problem. Sarah's motivating energy and positive outlook helped us complete the project and was a great asset to our team!
 
-**Feedback from Enigma:**
+**Feedback from Sarah Kirk:**
 
 > I can honestly say that I couldn't have asked for a better partner. We work extremely well together, and you really jive with my learning style. I think a large part of our success was how thoroughly we defined our relationship so that there were no surprises when I told you about how I get hangry or that I need a lot of communication to make sure things are going well. When asked to reflect on problems that we had run into, I mostly found myself looking at things I could have done better. I appreciated that you pulled me out of some "holes" with coffee and telling me that we needed to take a break. Overall, it was a pleasure to work with you and I hope that we pair again in the future.
 
-#### Project 2 (Mason Holland):
+#### Project 2 (Headcount):
 
-**Feedback for Headcount:**
+**Feedback for Mason Holland:**
 
 > This has been the most difficult and lengthy project of the most difficult educational venture I've ever attempted but it was great to work with Mason on this project. At times I was overwhelmed with the scope of what has fondly become known as "Bodycount", but Mason's positive attitudue kept us moving forward. Mason always came to work with a great outlook even when we were facing stress and uncertainty with the project, and his positive attitude helped me stayed engaged with the work. Mason was always obliging when I need a break, and we worked well together in pairing. I need to work at "navigating" more explicitly and Mason is great at giving friendly feedback during pairing, keeping the work fun even when the project requirements were challenging. 
 
 >Mason's strength of understanding of Ruby syntax and hash methods complimented my affinity for testing, allowing us to make significant progress toward completion of all the project specifications. As Mason continues to work to improve his programming skills he could improve the frequency of commits, but I'm extremely happy with what we've learned on this project and was grateful Mason was my partner for this challenge.
 
-**Feedback from Headcount:**
+**Feedback from Mason Holland:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
