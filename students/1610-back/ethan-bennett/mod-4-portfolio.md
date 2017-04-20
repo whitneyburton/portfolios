@@ -118,7 +118,7 @@ Once on the same team, I’m happy to report that you truly are a gifted
 communicator.  Of all the folks in our cohort, you might be the best at
 putting your own interests aside and placing yourself in the shoes of the
 other person in the conversation.  You’re an honest listener, and it makes
-you so much easier to work with.  We might not always agree.  @e might not
+you so much easier to work with.  We might not always agree.  We might not
 always be on the same page.  But I always knew that I could talk to you in
 an open and ego-less way.  Because you always gave me the impression that
 you truly were listening, and when you said, “I know what you mean.”  You
@@ -138,3 +138,15 @@ forethought made sure we were using the blockchain as intended.
 **To David:** It seems like you’ve developed a pretty deep understanding of Solidity at, like, lightning speed. After working with you three times (literally 30% of Turing), I’ve actually seen you pick up a lot of cool stuff in, like, lightning speed. I think you had the most range in this project, and you're maybe the only one of us that made meaningful contributions to all three pieces. I’m really looking forward to collaborating on more Solidity stuff in the future. The only constructive piece I’d add is to be mindful of communicating clearly when pairing. I had a great time on this project, and it’s nice we got some redemption for BoxDrop.
 
 **To Nick:** Finally, I wasn’t the only person on the team making bad jokes. I had a great time on this project, and I thought our communication as a team was pretty top-notch. You did some excellent work on the API, and you also stayed up to speed with the React and Solidity pieces. Pairing with the whole group is not something I always love, but I really enjoyed it with you guys. I also appreciated your project management experience, which helped steer the group and keep us making large, identical post-it diagrams. I couldn’t have asked for a better way to close out the final mod!
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
