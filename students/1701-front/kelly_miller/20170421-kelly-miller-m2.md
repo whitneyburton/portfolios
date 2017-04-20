@@ -206,4 +206,10 @@ Pahlka spikes most weeks. I really enjoyed being a member of ironFe this mod and
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+A: End-of-Module Assessment: pass
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 3
+D: Professional Skills: 3
+E: Feedback & Community Participation: 4
