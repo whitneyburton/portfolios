@@ -1,8 +1,10 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Ciara Bujanos) - (M1) Portfolio
 
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
+
+I set out to build on my fundamental HTML and CSS skills and develop working knowledge of JavaScript. JavaScript was entirely new to me coming into the program so I after getting my feet wet last mod I knew what areas I needed to focus on. I wanted to have a deeper understanding of objects and arrays and also to not be timid to try new things and build my confidence with javascript. 
 
 ## Rubric Scores
 
@@ -25,7 +27,7 @@
 
 #### (Project Name)
 
-* [GitHub URL]()
+* [https://github.com/buji405/number-guesser]()
 * [Original Assignment]()
 
 (description)
