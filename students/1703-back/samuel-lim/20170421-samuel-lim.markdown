@@ -9,8 +9,8 @@ This module I hoped to more clearly grasp OOP concepts and get familiar working 
 | Section | Category | Score |
 | --- | ----- | --- |
 | A | **End-of-Module Assessment** | 4 |
-| B | **Individual Projects** | 3.5 |
-| C | **Group Projects** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3.5 |
 | D | **Professional Development** | 3 |
 | E | **Community** | 2.5 |
 
@@ -22,7 +22,7 @@ This module I hoped to more clearly grasp OOP concepts and get familiar working 
 | ----- | --- |
 | Pairing Assessment | PASS |
 | Independent Timed Assessment | PASS |
-| Diagnostic | x |
+| Diagnostic | PASS |
 
 
 ## B: Individual Projects
