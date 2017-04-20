@@ -62,7 +62,7 @@
 | **Testing** | PASS |
 | **Workflow** | PASS |
 | **Collaboration** | PASS |
-| **Enumerable & Collections** | X |
+| **Enumerable & Collections** | N/A |
 
 #### Assessor Comments
 
