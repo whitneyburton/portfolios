@@ -6,11 +6,11 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -23,60 +23,6 @@
 * Complete-Me
 * Sorting-Suite
 (These projects featured computer science aspects in order to create a sorting-suite and prefix trie)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-## C: Group Work & Projects
-
-### Projects
-* Game Time
-* Weatherly
-
-(Intro)
-
-#### (Project Name)
-
-# Game Time 
-* [GitHub URL](https://github.com/anderswood/gametime-snake)
-* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
-
-(A throwback to the classic snake game)
-
-Functional Expectations
-
-snake gets longer, crashes into self and walls, keeps score, can play multiple games
-
-3 - Application is fully playable without crashes or bugs
-
-User Interface
-
-3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
-Testing
-
-3 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
-JavaScript Style
-
-3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
-Workflow
-
-3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
-Code Sanitation
-
-The output from ESLint shows…
-
-4 - Zero complaints
-
-(feedback to me)
-
 
 # Sorting-Suite
 * [GitHub URL](http://frontend.turing.io/projects/sorting-suite.html)
@@ -126,6 +72,47 @@ The output from ESLint shows…
 
 4 - Zero complaints
 
+## C: Group Work & Projects
+
+### Projects
+* Game Time
+* Weatherly
+
+(Intro)
+
+#### (Project Name)
+
+# Game Time 
+* [GitHub URL](https://github.com/anderswood/gametime-snake)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
+
+(A throwback to the classic snake game)
+
+Functional Expectations
+
+snake gets longer, crashes into self and walls, keeps score, can play multiple games
+
+3 - Application is fully playable without crashes or bugs
+
+User Interface
+
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+Testing
+
+3 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+JavaScript Style
+
+3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+Workflow
+
+3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+Code Sanitation
+
+The output from ESLint shows…
+
+4 - Zero complaints
+
+(feedback to me)
 
 
 # Weatherly
@@ -202,18 +189,27 @@ but it will happen. What it will be remains unknown, it could be wonderful, it c
 (Being nicer to myself has helped with improving confidence and work effectiveness.)
 
 ## E: Feedback and Community Participation
+Johari Window Results - Able, accountable, clever, driven, friendly, hardworking, honest, indepdent, intelligent, logical, proud, relaxed, responsive, self-conscious, sensible.
+  - These responses from partners and pairing sessions were helpful. Most of these are clearly positive. However, there are a few things that are questionable, such as proud, and I'm not sure if that is a positive or negative aspect. As well as self-concious. I would most certainly like to work on my confidence as I move through the program and gain more experience. I need more experience and successes to be more confidence and that will come with time. 
+
+Daniel - Pairing with you via video chat was a smooth operation. I appreciated how you took any feedback by reacting not by being offended, but by either defending yourself and/or understanding why I gave the feedback I did. It made for a comfortable and effective pair session.
 
 ### Giving Feedback
+Anders (game-time) - It was an absolute joy working with you. You were pleasant, well organized, thoughtful and positive. The whole learning experience was fun. I enjoyed our whiteboarding sessions and working side by side for 90% of the project was new for me and I enjoyed it. Thank you for your time and I look forward to potentially working on another project together. 
 
-(Videos to review at later points has been helpful. Allowing to pay more attention to the lecture rather than resolving errors while live coding.)
+Travis (weatherly) - You are a hard worker, considerate and open to seeking help when needed. It was a pleasant working experience. I do wish that we had communicated better while working independently to have avoided doubling up working on the same portions of the project so we could have accomplished more. 
+
+Daniel (pairing) - I was extraordinarily pleased to have had the opportunity to work through some of the final questions. I felt comfortable and at ease with receiving feedback and exploring ideas and concepts. The exchange of time and knowledge was appreciated and made for a thorough understanding of the presented coding challenge.
+
+
 
 ### Being a Community Member
 
-(Attended and positively contributed to gearUp talk sessions)
+(Attended and contributed to gearUp talk sessions and took part in whiteboarding sessions)
 
 ### Playing a Part
 
-(Attended some evening events and represented the Turing community at the Lesbians Who Tech Conference)
+(Attended evening events, lightning talks and represented the Turing community at the Lesbians Who Tech Conference)
 
 ------------------
 
