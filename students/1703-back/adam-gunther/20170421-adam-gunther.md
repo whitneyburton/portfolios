@@ -82,7 +82,7 @@ I'm grateful to have had my first pairing project with you. I felt like we were 
 
 **Feedback from Alex Koch:**
 
-> --
+> -- I had a really great project with Adam, we worked really well together and we rarely ran into any issues. We were both really focused on getting everything done. I felt that we communicated really well and contributed equally. He was really open to trying all my ideas. I really liked how he helped push me towards TDD more than I would have on my own. It was really helpful and helped us get a better mark overall.
 
 ### Job Prep
 
