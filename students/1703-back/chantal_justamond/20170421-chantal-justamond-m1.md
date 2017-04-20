@@ -86,7 +86,7 @@ Feedback from partner projects.
 
 **Feedback for Yohanan:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> I honestly don't have any negative feedback! I think we were good about switching roles, picking up each other's slack when we were brain-dead & dividing and conquering. We never surrended to Head count, even when we had to refactor iteration zero 3 times frustration never took the best from us, we kept fighting it and winning. I would like to add It was a real pleasure working with you! The fact that you were so willing to put every last minute of your free time into this project was highly motivating.
 
 **Feedback from Yohanan:**
 
@@ -113,11 +113,11 @@ The lady in the video presented 3 ways of learning: the things we can’t do but
 
 #### Session 3: Introvert vs. Extrovert
 
-This gear could've not come in a better moment. It helped me understand how this idea can affect the way we paired. It is so important to understand your pairing partner, to get to know what is his/her best way of working and mine as well and try as possible to reach to a middle ground. In this session we also saw how important it is for activide listening to be in place in both sides of the DTR.  
+This Gear Up could've not come in a better moment!  It helped me understand how this idea can affect the way we were paired for our group projects.  It is so important to understand your pairing partner, to get to know his/her best way of working as well as my own.  Once you figure that out you can try to reach to a middle ground.  In this session we also saw how important it is for active listening to be in place in both sides of the DTR. These were lessons as valuable as any code I have learned at Turing. 
 
 #### Session 4: Strengths & Storytelling
 
-During this session we answered questions about why we want to be developers, why we chose turing, what lenses we see the world through and how are values are involved in our decision making. I was able to realize that even thow I come from another country I could see that we (other students and myself) are more similar than diferent, we all share a passion for learning, we all did at some point got bored with our jobs because they stopped being challenging, this will never happend at Turing nor in the coding world. I chose Turing because we share values like inclusiveness, personal growth/learning, creativity and honesty. This is one of best decisions I ever made. 
+During this session we answered questions about why we want to be developers, why we chose Turing, what lenses we see the world through and how are values are involved in our decision making. I was able to realize that even though I am from another country I could see that we (other students and myself) are more similar than different; we all share a passion for learning, at some point we all got bored with our jobs because they stopped being challenging. I’m convinced this could never happen at Turing nor in the coding world. I chose Turing because we share values like inclusiveness, personal growth/learning, creativity and honesty. This is one of best decisions I’ve ever made. (I have to say “one of” in case my wife reads this.)
 
 
 #### Session 5: Debugging the Gender Gap
@@ -126,7 +126,7 @@ I appreciate that Turing shows this film to all students. I was moved by the vid
 
 ### Community Participation
 
-
+I thought I would struggle with this mod since it’s always been difficult for me to speak up in community settings.  However, because I care so much about my fellow students at Turing, and feel like a valuable part of the community I was able to embrace this mod with excitement!  I feel the connections I’ve formed through pairings, SAB and general communication with others have allowed me to make an impact not only in my cohort but in the Turing community as well, just as others have impacted me.
 
 -------------------------------------------------------------
 
