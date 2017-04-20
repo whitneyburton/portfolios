@@ -62,14 +62,14 @@
 * [Scores](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/3module/cloney_island/dropbox.md)
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Automation
 
-* [GitHub URL]()
+* [Microaggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
+* [Automation](https://github.com/turingschool/gear-up/blob/master/m4_sessions/automation/session_one/five_noah_eric_nicke_laszlo.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Takeaways
 
 ## E: Community Participation
 
