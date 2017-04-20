@@ -63,12 +63,12 @@ We built an online commerce platform to facilitate online ordering in Ruby on Ra
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Repo](http://backend.turing.io/module2/projects/little_shop) |
-| **Functional Expectations** | PASS | X |
-| **ActiveRecord** | PASS | X |
-| **User Experience and Conventions** | PASS | X |
-| **Code Organization/Quality** | PASS | X |
-| **Testing** | PASS | X |
-| **Working Collaboratively** | PASS | X |
+| **Functional Expectations** | PASS | PASS |
+| **ActiveRecord** | PASS | PASS |
+| **User Experience and Conventions** | PASS | PASS |
+| **Code Organization/Quality** | PASS | PASS |
+| **Testing** | PASS | PASS |
+| **Working Collaboratively** | PASS | PASS |
 
 ##### Feedback to me for Bike Share
 
