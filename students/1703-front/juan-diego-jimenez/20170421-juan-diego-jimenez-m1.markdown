@@ -2,7 +2,12 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Overall, my main goal was to start my journey as a front end developer. On the technical side, I wanted to get a solid understanding of beginner/intermediate JS, HTML, and CSS fundamentals. I was able to accomplish this goal with the help of the instructors and the excellent feedback I got from them. On the professional part, I wanted to get involved in the Turing community; get better at networking; get better at public speaking, and get a better understanding of what it is to become a developer. I was able to complete these goals by participating in several of the Turing groups; by attending to 2 meet-ups, and by giving a lightning talk in my class.
+
+In future mods I want to :
+1. Improve in public speaking by doing at least one lightning talks in class and volunteer to do one in wrap up.
+2. Start a blog of my story and get more visibility to build credibility in the developer community.
+3. Do a side project with one of my classmates.
 
 ## Rubric Scores
 
@@ -146,7 +151,7 @@ Really clean and tidy code -- from the start broke everything out into single re
 
 ## B: Individual Work & Projects
 
-(Intro)
+I worked on 2 projects, Number-Guesser and 2DoBox. I worked alone in 2DoBox because my partner left the program do to personal reasons. I learned a lot from these projects, specially on refactoring, doing functions with single functionality, the basics of persisting data, and event bubbling.
 
 #### Number Guesser
 
@@ -228,7 +233,7 @@ Number Guesser is a game where the player has to guess a number between 1 and 10
 * [GitHub URL](https://github.com/jdiejim/2DoBox)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+Refactor ideaBox code and use it as the base of 2DoBox. 2DoBox is a client-side interface that lets you save and persist todos. You can also sort them, and filter by importance or keywords.
 
 ## Evaluator: Bree
 
@@ -305,14 +310,14 @@ Number Guesser is a game where the player has to guess a number between 1 and 10
 
 ### Projects
 
-(Intro)
+I had great partners, which exceeded my expectations. I learned a lot from them, specially on areas that weren't my strengths such as project management (Lindsay) and CSS (Dave).
 
 #### Foto Finder
 
 * [GitHub URL](https://github.com/jdiejim/foto-finder)
 * [Original Assignment](http://frontend.turing.io/projects/foto-finder.html)
 
-(description)
+User interface that lets you upload fotos and display them in the web site. They can be sorted by a favorite attribute.
 
 ## Evaluator: Robbie
 
@@ -387,7 +392,7 @@ Juan was a pleasure to work with and a great project partner. His strength in Ja
 * [GitHub URL](https://github.com/jdiejim/IdeaBox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+Idea Box is a responsive client-side interface that lets you save, sort, filter, and upvote/dowvote ideas. All the data you write is able to persist in the browser, so every time you close it, your data is saved and uploaded on refresh.
 
 ## Evaluator: Louisa
 
@@ -487,24 +492,52 @@ Really well done, great job!!
 Bottom line up front, I thought our partnership was successful.  We accomplished our goal of completing the base project, and also stayed on top of Git & GitHub, like you'd set the goal for us to do.  As a teammate, I appreciated that you were willing to share your opinions and lead our team.  Although it's clear you have a stronger understanding of the JavaScript concepts and can work through them much faster than I can, I appreciated that you sat down with me for Driver-Navigator to allow me to work through some of the problems we were assigned.  At times, however, the functionality you wrote independently would have been beneficial for me to work alongside you on.  In future projects, I would recommend staying true to the projects tasks as the team has assigned them so you're not getting too far ahead of the agreed-upon task order.  If you know you'll have more time, request more tasks, then the advantage to the team is that those additional tasks can be chosen strategically, where your partner is comfortable being less involved.  Thank you for a great project.  I learned a lot and enjoyed working with you.
 
 ## D: Professional Skills
-(Intro)
+I enjoyed the professional development lessons we got. One of my goals is to improve in this part in order to have a successful career in development. I found that DTRs are very helpful for establishing the rules before working. This way you are able to improve communication with your partner. Gear up sessions also gave me great insights that I will apply in my life.
 
 ### DTR
 * DTR Memo [Ideabox - Juan/Lindsay](https://gist.github.com/jdiejim/9bee3758ccbdbb7116291157befc6667)
 * DTR Memo [FotoFinder - Juan/Dave](https://gist.github.com/jdiejim/84e6b7f310dde78291a40142b344e849)
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Having a growth mindset will help you improve your learning experience. If you have a fixed mindset, you might get frustrated or overwhelmed when you hit an obstacle. This might give you a feeling of giving up. With growth mindset you are able to tackle these obstacles by perceiving them as learning opportunities rather than failures.
+
+#### Getting better at difficult things
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+We have limited cognitive resources, which we have to learn how to optimize. By dividing the skills you want to learn you are able to learn more quickly without feeling overwhelmed. Another way to improve your skills is repetition.
+
+#### Working with introverts, extroverts, ambiverts
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+
+I believe I am an ambivert because, even though I feel more on the introvert side, I try to push myself to get better at social settings. Is very important to understand how to work with other type of personalities in order to avoid conflicts. You can also learn a lot from the experience of people with different personalities.
+
+#### Storytelling and Strengths
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
+
+We all share similar stories of why we came to Turing. By getting better at sharing that story, and your personal values that drives you, you are able to establish an identity, and build a connection. This will help you in the future when finding a job that has a great cultural fit with your identity.
+
+#### Debugging the gender gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
+
+The documentary had a great impact in my life. We have to be the difference in order to solve this problem. Even though this is a huge social issue, we can play a role in our careers by creating a more inclusive environment. A great example is the manager at Etsy that pushed to change this issue by hiring more women for tech jobs.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I supported my classmates wherever I could with projects, mythical creatures, and static comps, in class and remotely with zoom and screen hero.
+I also participated on the following Turing groups:
+1. Productivity lunch: we discussed strategies/routines/habits to improve our productivity in life, during Turing, and after Turing.
+2. Lunch Roulette: I was able to meet people from other mods, which gave me great advice on how to improve my code, and information about the industry.
+3. Attended 2 meet-ups: I was able to share all the learnings I got from these meet-ups with my cohort and other students from other mods
 
 ------------------
 
