@@ -108,3 +108,7 @@ I happened to get the opportunity to pair with Nick on multiple occasions throug
 #### From Ethan
 Finally, I wasn’t the only person on the team making bad jokes. I had a great time on this project, and I thought our communication as a team was pretty top-notch. You did some excellent work on the API, and you also stayed up to speed with the React and Solidity pieces. Pairing with the whole group is not something I always love, but I really enjoyed it with you guys. I also appreciated your project management experience, which helped steer the group and keep us making large, identical post-it diagrams. I couldn’t have asked for a better way to close out the final mod!
 
+#### From David
+Nick,
+You are a Rails Jedi. I feel lucky to have had the opportunity to work with you on our capstone project. From the beginning, you brought everything you had, contributing both your prior project management experience, your expertise with relational data bases, and an open mind ready to learn two new technologies. Whether it be your quick wit, detail-oriented pull request comments, or your knack for thinking outside the box, you always had something worthwhile to contribute.  I’d be happy to work with you again.  Cheers.
+
