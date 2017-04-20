@@ -43,6 +43,7 @@ _It is difficult to give myself self-assessment scores but...._
 | **REPL Interface** | N/A | N/A | 3 |
 
 ### B: Ungraded Projects
+
 | CATEGORY | Mastermind | Flash Cards|
 | --- | --- | --- | --- |
 | **Project Spec** | [link](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown) | [link](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown) |
@@ -54,7 +55,7 @@ _It is difficult to give myself self-assessment scores but...._
 
 | CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link]() |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [link](https://github.com/squeemishly/enigmatic) | [link](https://github.com/yoasyo25/headcount) |
 | **Functional Expectations** | 1 | 2 |
 | **Test-Driven Development** | 3 | 3 |
