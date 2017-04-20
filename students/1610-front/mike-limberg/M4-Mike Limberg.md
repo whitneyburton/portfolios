@@ -98,8 +98,12 @@ During this time, I was able to connect with mod 2 and help them with understand
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3.5 
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3.5
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASSED
