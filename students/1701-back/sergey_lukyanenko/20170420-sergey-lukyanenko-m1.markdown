@@ -118,7 +118,9 @@ I think we have an opportunity to make the world better place for living
 #### **Playing a Part**
 
 > Participated in speaker series
-> Visited Meet up with Mike Schutte. He gave a workshop about TDD.
+> Visited Meet up with Mike Schutte. He gave a workshop about TDD
+
+> Feedback for Devon: Devon has been a great asset to the Turing Community. As a back end student I approached Devon many times asking him  to help me with front end styling for current projects. With his knowledge and experience in programming he patiently and with courage always willing to help. It's been a pleasure  to work with Devon. I wish him success in his professional career and continue sharing knowledge and experience with Turing family.
 
 ------------------
 
