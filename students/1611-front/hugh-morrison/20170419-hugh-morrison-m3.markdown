@@ -177,8 +177,10 @@ This mod, I've really immersed myself in the Turing community. I continued my in
 
 ### Notes
 
-( Leave blanks for reviewers )
+Work vocallly with teams 
+Write blog posts
+Break things into smaller chunks when starting a project
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
