@@ -14,7 +14,7 @@ In Mod 1, I was in 'explore' mode. I maximized my exposure to everything Turing 
 | D | **Professional Development** | 3 |
 | E | **Feedback & Community Participation** | 4 |
 
-This mod I learned that you really can't do it all. I had to make some hard decisions about what areas to focus on at the exclusion of others to keep myself from overloading. Case in point, I had to give up early morning meditation because that extra hour of sleep is more valuable. 
+This mod I learned that you really can't do it all. I had to make some hard decisions about what areas to focus on at the exclusion of others to keep myself from overloading. Case in point, I had to give up early morning meditation because that extra hour of sleep is more valuable.
 
 -----------------------
 
@@ -34,18 +34,18 @@ This mod I learned that you really can't do it all. I had to make some hard deci
 Creating nested paths for comments on Blogger was a valuable experience. It made it clear why nesting paths is discouraged (Because the challenge of tracking associated IDs for the paths quickly becomes overwhelming). The Tagging aspect of Blogger was also valuable since it was good practice with CRUD in a many-to-many relationship. Mix Master felt like more of the same, and I'm not sure what the unique take away from that project was supposed to be.
 
 #### Projects: Job Tracker & Rails Mini Project
-Job Tracker was a fun challenge. It was essentially the same as Blogger and Mix Master, but I attempted to do it without following the tutorial, and it helped solidify some of these patterns. The valuable take away from the mini project was that you really can't overestimate how long a project is going to take. I planned to create a complex, massive project, and there just wasn't enough time to do that over a weekend. 
+Job Tracker was a fun challenge. It was essentially the same as Blogger and Mix Master, but I attempted to do it without following the tutorial, and it helped solidify some of these patterns. The valuable take away from the mini project was that you really can't overestimate how long a project is going to take. I planned to create a complex, massive project, and there just wasn't enough time to do that over a weekend.
 
 
 ## C: Group Work & Projects
 
-**Bike Share** 
+**Bike Share**
 
-* Bike Share is a project that focuses on building out CRUD functionality for bike sharing stations in San Francisco. The project starts with a real dataset from SF's bike share program, and it is our job to create an interface to interat with that data. 
+* Bike Share is a project that focuses on building out CRUD functionality for bike sharing stations in San Francisco. The project starts with a real dataset from SF's bike share program, and it is our job to create an interface to interat with that data.
 
 * What a beast this project was. Collaborating with three people is a challenge. Working with a giant dataset is a challenge. Using ActiveRecord effectively is a challenge. Keeping logic out of views is a challenge. I think I put more time into this project than any other. It was valuable in that it helped me identify some of the things I didn't understand about web development.
 
-**Little Shop of Orders** 
+**Little Shop of Orders**
 * We built an e-commerce site that had varying levels of access for admins, users and visitors. It also had a shopping cart with the ability to checkout.
 * We all take Amazon's functionality for granted, so it was helpful to have to reason out some of that functionality. Like, how can you populate a cart as a visitor then log in and retain access to that cart? It's helpful to have an understanding of that process.
 
@@ -75,8 +75,6 @@ Sam is an incredibly responsible and this made him a great project manager. He k
 * From Mark Van Akkeren:
 in retrospective you did a fantastic job at the PM organization.  While i bristled with what seemed like over kill at times it was good to always be on the same page and always have good communication lines open.  I have taken a lot away from that and totally will be applying elements in future groups.
 
-  >* From \<Partner 3>:
-
 ##### Feedback to me for Little Shop
 
 * From Jonathan:
@@ -84,8 +82,6 @@ I very much enjoyed and appreciated pairing with you - your methodical approach 
 
 * From Maria Stenquist:
 Sam, it was a great learning experience for me to finally have you as a team member. You set out to learn as much as you could in this project, and I think you did a good job balancing your own learning objectives with those of the rest of the team. You were dedicated to the project, as well as the team, and while you kept the scope of the project in mind, you were never afraid to dive into the nitty gritty details of the code. I think this skill will immensely serve you as a developer. During our project, you did an awesome job with juggling other commitments, such as your work with Wozniak Posse and arranging a lecture on Beth's job-hunt process (which was a great lecture, I got a lot out of it) as well as side-projects (something about working in Java?), so you are always thinking two-steps ahead. Having said this, while you conceptually and technically were very strong in driving forward the objectives of the project, I noticed a couple times where other members of the group had valuable input that was not given credence to at that point, but later surfaced as being relevant. Otherwise, I am hard-pressed to think of any other constructive feedback as you were an excellent teammate, and I really appreciated our pairing sessions (especially on RSpec!) as they helped to synthesize several concepts for me. Thanks for making yourself available to pair, and it is clear you have a knack for teaching, which is a super valuable skill to have. I foresee you going on to doing great things as a developer, and hopefully we get to work together again soon.
-
-* From \<Partner 3>:
 
 
 ## D: Professional Skills
@@ -122,7 +118,7 @@ Sam
 * For Beth Knight:
 Hey Beth,
 
-It was nice to work with you and get to know you a bit better during our collaboration. You bring levity to a group, which is a relief in a stressful project like Bike Share. I’m also glad you unleashed your inner designer a bit on our project. I shudder to think of what it would have looked like had I been left to handle that. I want to mention testing as a potential area for improvement in your next collaboration. You definitely write tests well and are good about practicing a real TDD workflow. The area I see for improvement (At least in a collaborative environment) is how you react to tests failing. This may sound funny, but when we were running tests together, it was actually causing me a little bit of anxiety because I knew if the test failed you were going to get frustrated with it. I only mention this because I think it would be an easy adjustment and could make future testing relationships smoother. On an aside, I’m impressed by your initiative to find a job, and you inspired me to get started on my own job hunt. So thanks for that! 
+It was nice to work with you and get to know you a bit better during our collaboration. You bring levity to a group, which is a relief in a stressful project like Bike Share. I’m also glad you unleashed your inner designer a bit on our project. I shudder to think of what it would have looked like had I been left to handle that. I want to mention testing as a potential area for improvement in your next collaboration. You definitely write tests well and are good about practicing a real TDD workflow. The area I see for improvement (At least in a collaborative environment) is how you react to tests failing. This may sound funny, but when we were running tests together, it was actually causing me a little bit of anxiety because I knew if the test failed you were going to get frustrated with it. I only mention this because I think it would be an easy adjustment and could make future testing relationships smoother. On an aside, I’m impressed by your initiative to find a job, and you inspired me to get started on my own job hunt. So thanks for that!
 
 Best,
 Sam
@@ -143,7 +139,7 @@ You're an excellent partner, and it has been a delight collaborating with you. Y
 I'm glad we got to finally work in a group together! You're easy to get along with, committed to the work and kind. In short, an asset to any group you're on. I admire how you seem to have a dozen irons in the fire and somehow never get stressed out. Specifically, during our time working together, you were visiting friends in the hospital, studying RSpec, spearheading the styling decisions, leading a posse and engaging the job hunt more directly than anyone else in our cohort. Amazing! While staying busy is obviously a fantastic character trait, I think it might occassionally interfere with effective coding. I believe concentrating on a single process of your application is helpful for debugging, and I noticed at times you were making decisions based on your personal assumptions and beliefs, not based on what the code was telling you. So, you're probably tired of hearing it, but my advice is: Slow down. Identify your assumptions. Confirm those assumptions. And that's it! Looking forward to working together in the future. And I still owe you a data structures lesson! Open invitation.
 
 * For Danny Radden:
-Hey Brah. I'm glad we finally got to work together! You're a lot of fun, and I'm glad we've had the chance to become friends at Turing. But anyhoo. You were a boon to the group: You contributed a strong technical skillset, a dedication to outcomes and a friendly disposition. It was nice of you to help Riley with our navbar, too. I noticed you have a tendency to research a challenge independently and discover a solution on your own before talking through an issue with the group. Self reliance is certainly a valuable skill, but there were times when I felt like we weren't really collaborating. I think you could be a more effective collaborator if you talk through your ideas and make sure your teammates are on the same page. Doing things that way is slower, no doubt, but I like to believe it leads to better outcomes. You should also probably learn VIM. You've helped me learn a lot about my own collaboration style, and challenged me to be a better partner, which I honestly appreciate, and am hopefully making (slow) progress on. I hope we get more chances to work together in the future. 
+Hey Brah. I'm glad we finally got to work together! You're a lot of fun, and I'm glad we've had the chance to become friends at Turing. But anyhoo. You were a boon to the group: You contributed a strong technical skillset, a dedication to outcomes and a friendly disposition. It was nice of you to help Riley with our navbar, too. I noticed you have a tendency to research a challenge independently and discover a solution on your own before talking through an issue with the group. Self reliance is certainly a valuable skill, but there were times when I felt like we weren't really collaborating. I think you could be a more effective collaborator if you talk through your ideas and make sure your teammates are on the same page. Doing things that way is slower, no doubt, but I like to believe it leads to better outcomes. You should also probably learn VIM. You've helped me learn a lot about my own collaboration style, and challenged me to be a better partner, which I honestly appreciate, and am hopefully making (slow) progress on. I hope we get more chances to work together in the future.
 
 #### **Posse**
 I was one of the leaders/founders of Wozniak Posse, affectionately known as Woz Poz. Our goal is to close the gap between ourselves and CS grads. The other posse leads and I organized a weekly class on different data structures. We did whiteboarding, code alongs and lectures. We received solid feedback from participants, so I feel like we did a good job. I learned a lot about collaboration and my own limits. And data structures.
@@ -155,6 +151,12 @@ I was a posse lead. My posse organized a guest speaker for students. I made the 
 
 ## Final Review
 
-#### Notes ( Leave blank for reviewers )
+#### Notes
 
-#### Outcome ( Leave blank for reviewers )
+*   Strong inning
+*   Leadership in posse
+*   Continuing to find outlets for challenge
+
+#### Outcome
+
+PROMOTED

@@ -14,7 +14,7 @@
 | D | **Professional Development** | 3 |
 | E | **Feedback & Community Participation** | 4 |
 
-> This module was hard for me in a very different way than Module 1. There was much less algorithmic thinking and much more focus on process and memorization. This was challenging for me because the work was focused less on finding a solution, and more and getting through the many necessary steps required to complete a project. 
+> This module was hard for me in a very different way than Module 1. There was much less algorithmic thinking and much more focus on process and memorization. This was challenging for me because the work was focused less on finding a solution, and more and getting through the many necessary steps required to complete a project.
 
 -----------------------
 
@@ -25,7 +25,7 @@
 | **Pairing Assessment** | PASS |
 | **Written Diagnostic** | PASS |
 
-> I am becoming more comfortable at working through problems with instructors. 
+> I am becoming more comfortable at working through problems with instructors.
 
 ## B: Individual Work & Projects
 
@@ -33,10 +33,10 @@
 > [VIM](https://medium.com/@stovermc/to-vim-or-not-to-vim-76d406fddb5b)
 
 #### Tutorials: Blogger & Mix Master
-> These projects were very helpful in providing exposure to topics that were later covered in lecture. Because they were so lengthy, I had to make sure I was using pomodoros in order to give each part of the tutorials my full attention. These projects also proved to be useful resources to come back to for clarification throughout the module and during other projects. 
+> These projects were very helpful in providing exposure to topics that were later covered in lecture. Because they were so lengthy, I had to make sure I was using pomodoros in order to give each part of the tutorials my full attention. These projects also proved to be useful resources to come back to for clarification throughout the module and during other projects.
 
 #### Projects: Job Tracker & Rails Mini Project
-> Job tracker provided the same type of learning for me as Blogger and Mix Master. It was helpful in introducing me to new concepts that were later covered in lecture. The Rails Mini Project was great in that it really helped reinforce all of my learning this Module. It was also a really nice break from tutorial work. Because I was able choose my own project, I noticed an increase in my enthusiasm and productivity. 
+> Job tracker provided the same type of learning for me as Blogger and Mix Master. It was helpful in introducing me to new concepts that were later covered in lecture. The Rails Mini Project was great in that it really helped reinforce all of my learning this Module. It was also a really nice break from tutorial work. Because I was able choose my own project, I noticed an increase in my enthusiasm and productivity.
 
 
 ## C: Group Work & Projects
@@ -86,10 +86,10 @@ Mark: I know you asked for “critical feedback”, but I’m having a hard time
 #### **Gear Ups**
 
 > [Empathy](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
-I think that empathy is one of the most powerful communication tools available to us as humans. In the scope of privilege, I feel that empathy provides a channel of communication that can transcend peoples differing backgrounds. Inevitably, people have different experiences and different backgrounds but through empathy we can understand and relate to one another. To me, empathy occurs on an emotional level, and because of this, I am able to better understand the experiences of another. Although someones experience may be very different from mine, I can relate to, and understand the emotional impact a particular experience may have. An example of this could be financial stress. I believe that financial stress exists across the full spectrum of wealth distribution. Someone struggling to pay rent may feel the same financial stress as someone struggling to make a mortgage payment on a million dollar house. Because the feeling is similar, I believe the two people in question could empathetically relate to each other through based on their emotional responses to their respective situations. In this way, barriers built by differing experiences and life situations can be transcended through emotional and empathetic understanding. 
+I think that empathy is one of the most powerful communication tools available to us as humans. In the scope of privilege, I feel that empathy provides a channel of communication that can transcend peoples differing backgrounds. Inevitably, people have different experiences and different backgrounds but through empathy we can understand and relate to one another. To me, empathy occurs on an emotional level, and because of this, I am able to better understand the experiences of another. Although someones experience may be very different from mine, I can relate to, and understand the emotional impact a particular experience may have. An example of this could be financial stress. I believe that financial stress exists across the full spectrum of wealth distribution. Someone struggling to pay rent may feel the same financial stress as someone struggling to make a mortgage payment on a million dollar house. Because the feeling is similar, I believe the two people in question could empathetically relate to each other through based on their emotional responses to their respective situations. In this way, barriers built by differing experiences and life situations can be transcended through emotional and empathetic understanding.
 
 > [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
-In an environment like Turing, having Grit is essential. To me, this means having the mental capacity to continue to work, and work well, through failures, through long days/weeks/months of performing at 100% capacity. This capacity comes from passion and enjoyment of the work we are doing here. It also comes from knowing when to take a break. When the going gets tough, and it feels like progress in futile, remembering what I enjoy about programming is one way that I am able to apply my grit and continue working. If I did not have the passion or find joy in the work that I am doing at Turing, I do not think that I would be able to apply my whole self in the way that I do. It is also important for me to recognize when my grit is wearing thin and to respect this acknowledgement and take a break for awhile. This may seem a bit counter intuitive, but being mindful of this will help me continue to apply my grit in the long run. Turing is a marathon, not a sprint. 
+In an environment like Turing, having Grit is essential. To me, this means having the mental capacity to continue to work, and work well, through failures, through long days/weeks/months of performing at 100% capacity. This capacity comes from passion and enjoyment of the work we are doing here. It also comes from knowing when to take a break. When the going gets tough, and it feels like progress in futile, remembering what I enjoy about programming is one way that I am able to apply my grit and continue working. If I did not have the passion or find joy in the work that I am doing at Turing, I do not think that I would be able to apply my whole self in the way that I do. It is also important for me to recognize when my grit is wearing thin and to respect this acknowledgement and take a break for awhile. This may seem a bit counter intuitive, but being mindful of this will help me continue to apply my grit in the long run. Turing is a marathon, not a sprint.
 
 > [Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 When I think about automation, I find that I have two different perspectives. First, at a high level, I think automation is a great thing. I believe that we have really large systemic problems in the world, ie. over-population, poverty, extreme inequalities in distribution of wealth, etc., and I think that automation highlight these issues and force us to develop solutions to them. At a granular level, I still believe automation is a good thing, but lots of work needs to be done in order to prepare for the effects it will have on our economies and ways of life. I think we will find the best solutions through having an opinion and discussing it with others, determining what course of action will provide the least amount of suffering amongst all people. Unfortunately, regardless of how much we prepare for automation, I feel there will be a period of time defined by the suffering that automation will create until we have things in place, such as basic income, that will allow us to continue to live prosperously.
@@ -123,6 +123,12 @@ When I think about automation, I find that I have two different perspectives. Fi
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Notes
 
-> #### Outcome ( Leave blank for reviewers )
+*   Great performance this inning, mastering new content
+*   Looking for more exposure to algorithmic challenge and industry connections
+*   Contributions to cohort, community
+
+#### Outcome
+
+PROMOTED
