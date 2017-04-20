@@ -54,7 +54,7 @@ As of now, my work for Populus and Web3.py isn't ready to be merged. I communica
 #
 ### **Group Work**
 
-For our Capstone project, we built an app using React, Solidity/Truffle, and Rails that can track a food's origin on the Ethereum blockchain. The first sprint wasn't graded, but here's the second and third:
+For our Capstone project, we built an app using React, Solidity/Truffle, and Rails that can track a food's origin on the Ethereum blockchain. The first sprint wasn't graded, but here are the second and third:
 
 ### **Sprint Two:**
 
