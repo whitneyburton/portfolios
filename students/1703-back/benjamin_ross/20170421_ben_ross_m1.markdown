@@ -24,7 +24,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | ----- | --- |
 | Pairing Assessment | 3 | 4 | 3 | 3 | 4 |
 | Independent Timed Assessment | 4 | 3 | 3 | 3 | 3 |
-| Diagnostic | x |
+| Diagnostic | 3 | 3 |
 
 
 ## B: Individual Projects
@@ -45,7 +45,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
-| **Github** | [link](https://github.com/Benja-Ross/Enigma) | [link]() |
+| **Github** | [link](https://github.com/Benja-Ross/Enigma) | [link](https://github.com/Benjaminpjacobs/headcount) |
 | **Functional Expectations** | 3 | x |
 | **Test-Driven Development** | 3 | x |
 | **Encapsulation/Breaking Logic into Components** | 2 | x |
