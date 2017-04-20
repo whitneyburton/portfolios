@@ -26,28 +26,34 @@ A submission summarizes your accomplishments in these key areas:
 2. Follow instructions in [portfolio expectations](http://backend.turing.io/module1/portfolios/portfolio_expectations) to create your folder and file for your M1 portfolio.
 3. Copy the template code from the [M1 template markdown](http://backend.turing.io/module1/portfolios/portfolio_template) to your new file.
 4. Update placeholder text in template.
-5. Commit your changes, push to your remote repo, then create a PR to the turing/portfolios repo.
+5. Commit your changes, push to your remote repo, then create a PR to the `turing/portfolios` repo.
 
 
 ### Module 1 (Front-end)
 
-* Pentathlon
-  1. Individual Coding Challenge-A: Passing Score (All 3's) required
-  2. Individual Coding Challenge-B: Passing Score (All 3's) required
-  3. Comprehensive Quizlette
-  4. Final Project (Game Time) -- Passing Score (All 3's) required
+Your promotion to the next module is based upon a summative assessment coined the Pentathlon. The Pentathlon includes:
+  1. Individual Coding Challenge-A: Passing Score (Proficient in all areas) required
+  2. Individual Coding Challenge-B: Passing Score (Proficient in all areas) required
+  3. Final Project (Static Comp Challenge #3) -- Passing Score (Proficient in all areas) required
+  4. Comprehensive Quizlette: Passing Score (80% correct answers) required
   5. Completed Portfolio
-* Included Projects:
- * Linked List
- * Number Guesser
- * Idea Box
+
+Your completed portfolio is also comprised of the following required material:
+
+* Course Projects:
+  * Number Guesser
+  * Linked List or Foto Finder
+  * Idea Box
+  * 2DoBox Pivot
+
 * Professional Development:
   * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
-  * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
-  * LinkedIn profile with a summary, descriptions under experience, and Turing under education
-  * Feedback: Paragraph; Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
+  * Feedback Paragraphs: Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
+
 * Community:
   * A recap of reflections from Gear Up
+
+You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of those evaluations and in advance of portfolio reviews.
 
 ### Module 2 (Back-end)
 
@@ -59,12 +65,12 @@ A submission summarizes your accomplishments in these key areas:
   * how has your posse experience helped you grow as a professional?
 * Non evaluated projects: Rails Mini Project, Mix Master
   * Include what you learned/took away from the project.
-* Evaluated projects: Bike Share, Little Shop, Job Tracker
+* Evaluated projects: Little Shop, Bike Share
 * Assessments: Final
 * Professional Development:
-  * Copy for a personal website
-  * Paragraph reflection on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
-  * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
+  * Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
+  * Paragraph reflecting on your PD/Feedback lessons and outcomes this module
+  * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor.
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -76,12 +82,17 @@ A submission summarizes your accomplishments in these key areas:
 * Included Projects:
  * Weatherly
 * Professional Development:
-  * Copy for a personal website
-  * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Seven cold emails sent to seven different contacts from the company tracker
-  * Attend two networking events
-  * Paragraph reflection on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
+  * Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
   * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
+  * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
+    * Transferable Skills
+    * Favorite/Most Valued Knowledge
+    * Favorite working conditions
+    * Favorite people to work with/serve
+    * Values/Goals/Mission in life
+    * Preferred places to live
+    * Preferred salary and level of responsibility
+  * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor.
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -95,20 +106,10 @@ A submission summarizes your accomplishments in these key areas:
 * Bonus Project (not required): APIcurious
 * Feedback: Self-Solicited and collected from Cloney Island
 * Something valuable you've taken away from your posse.
-* Professional Development:
-  * Turing alumni portfolio
-  * Pitch for personal project/Documentation showing your thought process
-  * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
-    * Transferable Skills
-    * Favorite/Most Valued Knowledge
-    * Favorite working conditions
-    * Favorite people to work with/serve
-    * Values/Goals/Mission in life
-    * Preferred places to live
-    * Preferred salary and level of responsibility
-  * Three mock interviews
 * Community:
   * A recap of reflections from Gear Up
+
+*Professional Development does not need to be included in the portfolio. Submit your deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
 
 ### Module 3 (Front-end)
 
@@ -117,7 +118,7 @@ A submission summarizes your accomplishments in these key areas:
 * Bonus Project (not required): None
 * Feedback: Self-Solicited and collected from Weather Forecast and Remember
 * Professional Development:
-  * Turing alumni portfolio
+  To include in your portfolio:
   * Pitch for personal project/Documentation showing your thought process
   * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
     * Transferable Skills
@@ -127,7 +128,13 @@ A submission summarizes your accomplishments in these key areas:
     * Values/Goals/Mission in life
     * Preferred places to live
     * Preferred salary and level of responsibility
-  * Three mock interviews
+  * Reflection of how to be successful in interviews
+
+  To send to Meg (via email at [mstewart@turing.io](mail:to) )
+  * Link to completed Turing portfolio
+  * Job search action plan for M4
+  * Link to Trello board (add Meg to this if you haven't already)
+
 * Community:
   * A recap of reflections from Gear Up
 
@@ -137,28 +144,31 @@ A submission summarizes your accomplishments in these key areas:
 * Required Project: Capstone Project
   * Should include points breakdown per project
 * Link to your PR for opensource contributions
-* Professional Development:
-  * Paragraph description of top three priorities in the job search and why
-  * 1-2 paragraph action plan for how to overcome perceived barriers to the job search
-  * Six cold outreach emails sent
-  * At least one Blog Post with at least a paragraph of peer review - Open-Source or Technical
-* The Plan
 * Community:
+  * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
-* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+
+ Complete and document 2 of the following:
+  * Lead or co-lead a Friday Spike
+  * Deliver any session at a meetup or conference
+  * Pair three or more times with students in lower modules
+  * Contribute in a meaningful way to project of a student/team not in your module
+
+ *Professional Development does not need to be included in the portfolio. Deliverables and submission guidelines are [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
 
 ### Module 4 (Front-end)
 
 * Individual Assessment
-* Required Project: Capstone Project, Imposter Syndrome, Curiously Native, Jet Fuel
+* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, BYOB
   * Should include points breakdown per project
 * Professional Development:
-  * Paragraph description of top three priorities in the job search and why
-  * 1-2 paragraph action plan for how to overcome perceived barriers to the job search
-  * Six cold outreach emails sent
+*PD deliverables should be submitted via email to Meg at [mstewart@turing.io](mail:to)*
+  * Synopsis of six cold outreach emails sent. [Use these guidelines for your synopsis](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md)
+  * Documentation of participation in actual interview or practice interview
+
 * Community:
+  * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
-* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
 
 ## Submission Guidelines
 
