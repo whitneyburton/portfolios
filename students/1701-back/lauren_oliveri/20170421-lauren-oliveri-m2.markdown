@@ -62,11 +62,14 @@
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/dannyradden/bike-share) | [Shop Repo](https://github.com/lao9/we_can_pickle_that) |
 | **Functional Expectations** | 4 | 4 |
-| **ActiveRecord** | 3 | 4 |
-| **User Experience and Conventions** | 4 | X |
-| **Code Organization/Quality** | 4 | X |
-| **Testing** | 4 | X |
-| **Working Collaboratively** | 4 | X |
+| **ActiveRecord** | 3 | n/a |
+| **Views** | n/a | 4|
+| **Controllers** | n/a | 4|
+| **Models** | n/a | 4|
+| **User Experience and Conventions** | 4 | 4 |
+| **Code Organization/Quality** | 4 | n/a |
+| **Testing** | 4 | 4 |
+| **Working Collaboratively** | 4 | 4 |
 
 > Bike Share evaluation comments:
 >* You've gained a pretty deep understanding of the power of AR; share that knowledge! (spike, post-class session)
