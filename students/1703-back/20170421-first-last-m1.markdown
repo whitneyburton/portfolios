@@ -1,20 +1,27 @@
-# FIRST LAST - M1 Portfolio
+# Aaron Olsen - M1 Portfolio
 
 ## Areas of Emphasis
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I came into module one with three goals: Fluency in Ruby and OOP, Fast and effecient workflow, and Building a First Layer Network. TDD development was added as a fourth goal when it's importance became clear early on.
+1. Fluencey in Ruby and OOP:
+    * I've become very comfortable writing in Ruby, to the point where I'm solving most problems directly rather then solving it <i>through</i> Ruby. I understand and can use the Ruby API in order to reference and learn new Ruby syntax. I have a fluent use of Ruby's basic building blocks; Enumerables, Strings, Arrays, and Hashes. I understand how to write the meaning of my code in the code itself and when to use brevity over clarity.
+    * Through Ruby I now have a very functional understanding of object oriented programming. I follow the SOLID, DRY, and LoD rules to organize my methods, classes, modules, and blocks. I have a strong grasp on Object Relational Mapping, how to utilize objects to limit dependencies, and how to break a large problem up with Agile design.
+2. Fast and Efficient Workflow:
+    * I focused here on stopping bad habits early and taking seriously the advice of more veteran coders. I took the time to understand the programs I use to write my code and organize my environment. By utilizing autocomplete features, shortcuts, and additional tools I have turned my work environment into an asset rather than a burden.
+3. Building a First Layer Network:
+    * My goal here was to develop good relationships with other students in my module as well as the instructors. This included reaching out to other mods and cohorts when necessary, but I understood the pace of module 1 was such that I needed to limit the focus of this goal. This has been a great success. I know at least a little about everyone in the class and feel they know at least a little about me. Overall there has been a strong spirit of community in the classroom which I believe I have contributed to in a positive way.
+4. TDD development:
+    * I didn't hesitate to dive into TDD as I understood right away it's importance. I have used TDD to help build by Agile design skills and solve complex problems. I'm confident the extra time spent on the TDD components of my projects saves me time in the long run and has helped immensely with the success of my projects.
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
-
 | Section | Category | Score |
 | --- | --- | --- |
-| A | **End-of-Module Assessments** | x |
-| B | **Individual Projects** | x |
-| C | **Group Projects** | x |
-| D | **Professional Development** | x |
-| E | **Community** | x |
+| A | **End-of-Module Assessments** | 4 |
+| B | **Individual Projects** | 4 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ------------------------------------------------
 
@@ -22,57 +29,62 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | x |
-| Independent Timed Assessment | x |
-| Diagnostic | x |
+| Pairing Assessment | <b>Pass</b> |
+| Independent Timed Assessment | <b>Pass</b> |
+| Diagnostic | <b>Pass</b> |
 
 
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
 | --- | --- | --- | --- |
-| **Project Spec** | [link]() | [link]() | [link]() |
-| **Github** | [link]() | [link]() | [link]() |
-| **Functional Expectations** | x | x | x |
-| **Test-Driven Development** | x | x | x |
-| **Encapsulation/Breaking Logic into Components** | x | x | x |
-| **Fundamental Ruby & Style** | x | x | x |
-| **Loop or Recursion** | x | x | x |
+| **Project Spec** | [Credit Check Spec](http://backend.turing.io/module1/projects/credit_check) | [Date Night Spec](http://backend.turing.io/module1/projects/date_night) | [Battleship Spec](http://backend.turing.io/module1/projects/battleship) |
+| **Github** | [Credit Check Github](https://github.com/MrAaronOlsen/credit_check) | [Date Night Github](https://github.com/MrAaronOlsen/h2o_tree) | [Battleship Github](https://github.com/MrAaronOlsen/battleship) |
+| **Functional Expectations** | 3 | 4 | 4 |
+| **Test-Driven Development** | na | 4 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 4 | 4 |
+| **Fundamental Ruby & Style** | 3 | 4 | 3 |
+| **REPL Interface** | na | na | 4 |
+| **Git Workflow** | na | na | pass |
+| **Enumerable & Collections** | na | na | 4 |
+
 
 
 ## C: Group Projects
 
-| CATEGORY | Enigma | Black Thursday |
+| CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
-| **Project Spec** | [link]() | [link]() |
-| **Github** | [link]() | [link]() |
-| **Functional Expectations** | x | x |
-| **Test-Driven Development** | x | x |
-| **Encapsulation/Breaking Logic into Components** | x | x |
-| **Fundamental Ruby & Style** | x | x |
-| **Enumerable & Collections** | x | x |
-| **Code Sanitation** | x | x |
+| **Project Spec** | [Enigma Spec](http://backend.turing.io/module1/projects/enigma) | [Headcount Spec](http://backend.turing.io/module1/projects/headcount) |
+| **Github** | [Enigma Github](https://github.com/MrAaronOlsen/enigma) | [Headcount Github](https://github.com/MrAaronOlsen/headcount) |
+| **Functional Expectations** | 4 | x |
+| **Test-Driven Development** | 3 | x |
+| **Encapsulation/Breaking Logic into Components** | 3 | x |
+| **Fundamental Ruby & Style** | 3 | x |
+| **Enumerable & Collections** | na | x |
+| **Code Sanitation** | na | x |
 
 
 ## D: Professional Development
 
 ### Define-the-Relationship (DTR)
 
-[Link]() to DTR Memo from 1 paired project.
+[Enigma DTR](https://gist.github.com/MrAaronOlsen/3466bccc43825e23e60610cc5a283c75)
+
+[Headcount DTR](https://gist.github.com/MrAaronOlsen/d11e5556127f229c80f41251196ffc95)
 
 ### Pair Feedback
 
 Feedback from partner projects.
 
-#### Project 1 (Partner Name):
+#### Project 1 (Mason Hollad):
 
 **Feedback for ___________:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* It was quite a pleasure working with Mason. I appreciated his ability to communicate what his limitations were. He laid it all out up front, being cognizant of how those limitations could affect the project, and how he could adjust if it was affecting the project. We agreed at the start on a few sideboards, scheduling conflicts, and what we wanted to achieve by the end. He stuck to those decisions and we had no conflict as a result throughout. Mason was ready to let me take control of the project, such as asking what I wanted him to do, or asking me how we should proceed. This is my main critique for Mason. He was more than capable of steering the direction or implication of the project, and when nudged he did. As a result our project benefited from his ideas and effort. The biggest critique is not just for Mason, but for me as well. We met all the basic criteria for the project far ahead of schedule. Rather than ask if there were ways we could further improve what we had, we called it good and moved on. It definitely looks good, and I’m proud of what we made, but we were not critical enough of the project when given the opportunity to be critical. Overall I think Mason has a sharp mind and is great person to work with. While he often downplayed his ability or his contribution, his work gave me no reason to doubt him.
 
-**Feedback from ___________:**
+**Feedback from Mason Holland:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* I found Aaron to be a great partner. His input and hard work were essential to the success of the project, he consistently put in the hours and ensured that we were on and track and focused. He was reliable, honest, open and understanding. His understanding allowed me to get moved out of my apartment with minimal stress while juggling the project. His openness led to great communication . If anything I felt I was holding the group back. Would love to work with him again.
 
 #### Project 2 (Partner Name):
 
@@ -86,35 +98,35 @@ Feedback from partner projects.
 
 ### Job Prep
 
-*  [LinkedIn profile]()
+*  [LinkedIn Profile](https://www.linkedin.com/in/mraaronolsen)
 
 ## E: Community
 
 ### Gear Up
 
-#### Session 1: ___________
+#### Session 1: 3/17: Growth Mindset
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* The growth mindset is way of learning. It states that failure is not a sign of being good enough, but that you are not good enough yet. No one is perfect at something right away, but discouragement can keep someone from trying again or even trying at all. Not only can this type of mind set get you to achieve more, it can also reduce the stress and anxiety that failure can produce.  
 
-#### Session 2: ___________
+#### Session 2: 3/22: Getting Better at Difficult Things
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Reducing your cognitive load is a powerful way to increase your mastery of difficult things. This can be done by breaking your learning goals into smaller bits, prioritizing a few, and mastering those before taking on more. It can be easy to move several skills into a good understanding category. Trying to move all of those into mastery at the same pace will be difficult and discouraging. Combine this idea with the growth mindset and achieving mastery of something is far more realistic.
 
-#### Session 3: ______________
+#### Session 3: 3/31: Introvert vs. Extrovert
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Introverts and extroverts have at least one thing in common, they can both be great coders. In our class, more than 70 percent identified as being more introvert than extravert, and this can often be the stereotype of computer programers. While introverts may gain their energy from being alone, they are often strong team players as long they know how to recharge. The same goes for extraverts who gain energy from social interactions. As long as they know how to recharge themselves without disrupting team dynamics, then they can be strong team members too. In either case, both types of need to be clear in their communication when faced with opposing personalities to reduce conflict and increase productivity.  
 
-#### Session 4: _____________
+#### Session 4: 4/05: Strengths & Storytelling
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* I would like others to see me as someone they can trust and rely on for whatever may be needed. I think that my story of self reliance and hard work stand out, but they're not necessarily unique. Lot's of people work hard to get where they want. For me the story is my desire to learn, my many varied interests, and my quest to better myself and be a good person. That I can be trusted and trust others is something I take very seriously, and I value highly my desire to know and learn.
 
-#### Session 5: ________________
+#### Session 5: 4/14: Debugging the Gender Gap
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* The tech industry's lack of woman is a deep and troubling issue. There doesn't seem to be a simple answer and it can be frustrating in this regard. At this point the best thing seems to be keeping the dialogue open and upfront. As it goes with anything, respecting other people for being human and checking yourself for bias can go a long way. Then, when one finds themselves in a position to make greater positive change, hopefully they will be ready to make the right choices.
 
 ### Community Participation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* This is a difficult area to do too much in as a module one student at Turing. The pace of learning is enough to keep you late and focusing on your work is really the goal. With that said, I have made an effort to lend my self to others who need help, whether that's with coding or dealing with stress. I have joined two posses in the hopes I'll be able to commit to one next mod. I can also be heard doing an interview with the Turing School Podcast.
 
 -------------------------------------------------------------
 
