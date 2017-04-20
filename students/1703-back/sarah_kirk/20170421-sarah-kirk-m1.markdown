@@ -57,8 +57,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | 3 | x |
 | **Encapsulation/Breaking Logic into Components** | 3 | x |
 | **Fundamental Ruby & Style** | 3 | x |
-| **Enumerable & Collections** | x | x |
-| **Code Sanitation** | x | x |
+| **Enumerable & Collections** | N/A | x |
+| **Code Sanitation** | N/A | x |
 
 
 ## D: Professional Development
