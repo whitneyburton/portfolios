@@ -13,6 +13,7 @@ This module I wanted to focus on solidifying my knowledge of various tools and J
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Feedback & Community Participation**: 3
+* **E: Professional Development: 3
 
 -----------------------
 
@@ -198,6 +199,21 @@ Ian is always willing to stop what he's doing and help solve a problem. He genui
 
 #### 11/9/2016 21:07:32:
 Ian was a fantastic resource on the couple of times I paired with him.  He seems to have a great grasp of JS and jQuery and was fully attentive to make sure my questions were answered.  On top of this, he gave a great talk on SEO at Spike.   
+
+### Professional development:
+
+#### 10 Companies
+
+I really took some time to research what kind of companies I would like to work at, how I may get introduced to someone that works there. Below is a link to my job search SmartSheet tracking my reach-out progress across multiple channels.
+
+[Job Tracker](https://app.smartsheet.com/b/publish?EQBCT=dcb1321d57644871876d78e9d77f67c3)
+
+#### UX With Lauren Krabbe
+This module we focused on leaning and using the design tool Sketch. There are multiple sketch projects that I created this mod including:
+
+* [UX Homework - Recreating a login page](https://drive.google.com/open?id=0Bw0lfvKC0Pu6bHR3RFdsbnBjaVk)
+* [Wundrly HiFi Mockup](https://drive.google.com/open?id=0Bw0lfvKC0Pu6cjVUd3F6M3gzNUE)
+* [MoMony LoFi Mockup](https://drive.google.com/open?id=0Bw0lfvKC0Pu6VmdPT2MtMWFibm8)
 
 ### Playing a Part
 
