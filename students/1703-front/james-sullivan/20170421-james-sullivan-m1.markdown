@@ -556,6 +556,50 @@ I found the film to be incredibly powerful.  I took away that as a member of the
 ### Gear Up
 #### 
 
+## DTR From Paired Project
+
+##Project: Ideabox
+
+###Group Member Names: Nik Bornemeier and James Sullivan
+
+###Project Expectations: What does each group member hope to get out of this project?
+###Nik would like to become more comfortable with JSON and Array prototype methods.
+###James would like the same as well as some additional work with css, and simpler javascript.
+
+
+###Goals and expectations: Get through phase 3 and possible work on an extension if time allows.
+
+###How to overcome obstacles: Communicating to the other group member any obstacles that may arise
+###and working with them to figure out the best method to go forward. Relying on peers and other
+###cohorts to help with any issues that we can not find a resolution for.
+
+###Schedule Expectations (When are we available to work together and individually?): Monday afternoon
+### Tuesday afternoon into evening, and Wednesday afternoon/evening as needed.  We will work separately
+### on individual functionality as needed.
+
+###Communication Expectations (How and often will we communicate? How do we keep lines of communication open?): We will communicate as needed during the day, and by Slack when/if we are working
+###separately at night.
+
+###Workload Expectations (What features do we each want to work on?): we will work together on HTML and CSS.  We will also work together on JS/JQ and will possibly work on individual functionality if needed
+###and agreed upon.
+
+###Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests):  We will commit each
+###others PR, we will push after each function is created.
+
+###Expectations for giving and receiving feedback:  Be honest and respectful.
+
+
+## Feedback From Paired Projects
+
+### IdeaBox
+
+James was a great project partner.  He is VERY good at being able to research/look up methods that he is unfamiliar with.  He was always able to verbalize any ideas that he had and I was quick to explain any issues that he told me he was having trouble with.  I feel like this was a very successful pairing and I look forward to working with James in the future.  The only constructive criticism I have for James is that he could work on his syntax. He sometimes will put things slightly out of order in JQuery or have a missing semi-colon.  These are issues that most mod 1 students are dealing with and I believe he will naturally become better with syntax as he gains more experience.  Overall a GREAT experience.
+
+### ToDoBox
+
+James you are truly a joy to work with.  I loved that you were willing to stick it out super late with me until the project was where we wanted it.  Having an equally committed partner helped us get an outstanding project delivered with time to spare.  Your growth in Javascript during the project was really awesome.  You added several challenging functions, and your reverse slice reverse was hilarious and brilliant. I think it showed that you truly understood how the methods worked.  All I can advise is to keep practicing your coding and you will keep learning at that awesome rate.  Looking forward to our next project together!
+
+
 ## E: Community Participation
 
 ### Playing a Part
