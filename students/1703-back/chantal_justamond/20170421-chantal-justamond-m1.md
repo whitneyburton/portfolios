@@ -102,27 +102,31 @@ Feedback from partner projects.
 
 #### Session 1: Growth Mindset
 
-I really enjoyed the Gear Up session on growth mindset. Attending to Turing requires that not only your brain but body and soul are in Growth Mindset state, It doesn't matter how smart you are, if you are in a fixed mindset nothing will grow through and If you add bad attitud you'll get in trouble, I know keeping the GM can be challenging but is a thing that I try to keep track of. I also pay attention to my wins it doesn't matter big or small is a win and it needs to be celebrated. If mind and body are connected everything will workout.
+I really enjoyed the Gear Up session on growth mindset. Attending Turing requires that not only your brain but body and soul are in Growth Mindset state as well. It doesn't matter how smart you are, a fixed mindset will not allow growth.  If you add a bad attitude to that, you'll be in big trouble. Keeping the GM can be challenging but it is a thing that I try to keep track of because I have learned how important it is. I also try to pay attention to my wins, it doesn't matter big or small is a win, it needs to be celebrated. If mind and body are connected everything will work out.
 
 #### Session 2: Getting Better at Difficult Things
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Gear Up session on getting better at difficult things introduced me to another new concept - cognitive load. I find it fascinating that cognitive load can affect the way you learn, especially the reaction of your brain when cognitive resources are being wasted. Before starting Turing, my wife and I made some preparations so I wouldn’t waste resources. We didn’t have a name for it back then so I was encouraged by the fact that we were moving in the right direction. 
 
-#### Session 3: Managing Stress
+The lady in the video presented 3 ways of learning: the things we can’t do but need to learn, things we can do, but require effort, and then the things we have “mastered” and don’t need to think about much.  I believe this has helped me to succeed on mod-1, to focus on and conquer my weaknesses in code.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-#### Session 4: Personal Stories & Connection
+#### Session 3: Introvert vs. Extrovert
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This gear could've not come in a better moment. It helped me understand how this idea can affect the way we paired. It is so important to understand your pairing partner, to get to know what is his/her best way of working and mine as well and try as possible to reach to a middle ground. In this session we also saw how important it is for activide listening to be in place in both sides of the DTR.  
+
+#### Session 4: Strengths & Storytelling
+
+During this session we answered questions about why we want to be developers, why we chose turing, what lenses we see the world through and how are values are involved in our decision making. I was able to realize that even thow I come from another country I could see that we (other students and myself) are more similar than diferent, we all share a passion for learning, we all did at some point got bored with our jobs because they stopped being challenging, this will never happend at Turing nor in the coding world. I chose Turing because we share values like inclusiveness, personal growth/learning, creativity and honesty. This is one of best decisions I ever made. 
+
 
 #### Session 5: Debugging the Gender Gap
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I appreciate that Turing shows this film to all students. I was moved by the video and had a hard time believing that this can still happened to women in 2017. However women have been fighting the gender gap since FOREVER!, we need to keep pushing and as in other industries we need to research to place where we want to work, they are not only interviewing us, we are interviewng them. We need to join a company in which we believe we share we have the same standards and ethics.
 
 ### Community Participation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 -------------------------------------------------------------
 
