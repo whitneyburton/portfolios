@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module I wanted to learn Django, become proficient in consuming and exposing APIs, and continue professional development.
 
 ## Rubric Scores
 
@@ -236,6 +236,8 @@ Project demonstrates well-factored code and a solid grasp of MVC principles.
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
 
+My main takeaway from this gear up is the idea that things we say / things our culture believes can largely affect how people feel included or excluded from a community. It was interesting to see this conversation evolve wherein people shared their experiences in not feeling like they belong. I felt this growing up because I didn't meet the local community's societal expectations of a young female. The things people say, whether ill-intentioned or not, do take their toll. I was glad to see that the idea of being responsible even if one didn't "mean to hurt your feelings" was mostly agreed upon by the group.
+
 #### Automation
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
@@ -251,15 +253,9 @@ James, I really enjoyed working with you on the Cloney Island project. You were 
 #### Valerie Trudell
 Valerie, I really enjoyed working with you on the Cloney Island project. I appreciate that you took on the user dashboard, the calendar, and the trips system. Your code added a lot of functionality to our site. You added well tested code to our code base and did an excellent job setting up setting up the distinctions between trips and reservations. When you encountered problems, you pushed through and asked us for help as needed which made helped make sure that our project was on track to completion.You were an excellent team member, and any group would be lucky to have you on their team.
 
-#### Amara Lovato
-
-### Being a Community Member
-
-(feedback to me)
-
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+This module, I supported the community by co-leading a session on technical interviews with Valerie Trudell. I also developed friendships and was generally available to help my cohort mates.
 
 ------------------
 
