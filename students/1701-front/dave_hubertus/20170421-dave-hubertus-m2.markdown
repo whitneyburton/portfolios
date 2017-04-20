@@ -52,18 +52,20 @@ Sorting algorithms are one of the common domains for studying Computer Science d
 
 In this project, you are challenged to implement three fundamental sorting algorithms being bubble sort, insert sort, and merge sort.
 
-#### UX/UI Expectations
-2: Application meets the basic spirit of the comp but overlooks many details. Extensions show questionable design decisions that negatively impact the overall UX/UI. Functional Expectations
-3: Application meets all of the functional expectations in Phase Two
+#### Fundamental JavaScript & Style
+3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-#### Fundamental HTML
-3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing and has incorporated accessibility best practices.
+#### Test-Driven Development
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-#### Fundamental CSS
-3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
+#### Encapsulation / Breaking Logic into Components
+3.5: Application effectively breaks logical components apart but breaks the principle of SRP
 
-#### Fundamental JavaScript
-3: Application shows strong effort towards organization, content, and proper syntax
+#### Functional Expectations
+4: Application meets all requirements, and implements one extension properly.
+
+#### Code Sanitation
+4 - Zero complaints
 
 
 ### Complete-Me
