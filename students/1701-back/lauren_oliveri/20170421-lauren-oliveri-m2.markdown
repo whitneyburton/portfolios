@@ -61,8 +61,8 @@
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/dannyradden/bike-share) | [Shop Repo](https://github.com/lao9/we_can_pickle_that) |
-| **Functional Expectations** | 4 | X |
-| **ActiveRecord** | 3 | X |
+| **Functional Expectations** | 4 | 4 |
+| **ActiveRecord** | 3 | 4 |
 | **User Experience and Conventions** | 4 | X |
 | **Code Organization/Quality** | 4 | X |
 | **Testing** | 4 | X |
@@ -75,7 +75,11 @@
 >* In future projects, be more aware of individual commits; commit often & split up driving responsibilities. (evaluation scores)
 
 > Little Shop evaluation comments:
-\<Instructor Comments Here>
+>* Awesome
+>* Really thorough test suite and execution of above-and-beyond features and extensions
+>* Great styling and ease of navigation for the user
+>* Within the scope of the project, the view logic is sound and could have even be made more succinct with partials
+>* Suggestion to make analytics more efficient: make order total and quantity attributes of an order instead of just methods of orders
 
 ##### Feedback to me for Bike Share
 
@@ -88,9 +92,9 @@
 
 ##### Feedback to me for Little Shop
 
-  >* From \<Partner 1>:
-  >* From \<Partner 2>:
-  >* From \<Partner 3>:
+  >* From Jack Pincus
+  >* From Joseph Glass:
+  >* From Andrew Mossefin:
 
 
 ## D: Professional Skills
@@ -127,11 +131,11 @@ After much discussion and thought, I'm still not sure where I stand on the topic
 ##### Feedback from me for Little Shop
 
   >* For Jack Pincus:
-    * Hey Jack! Really enjoyed working with you on the little shop project. You are clearly a strong coder, and I knew that when you'd work on something it would work! I appreciated your "let's not build it if we don't have to approach" and found that you expressed your ideas and any issues you encountered clearly. If I had any constructive feedback for you, it's really small things like 1. continue writing feature and model tests before functionality (you knew this was coming, come on) and 2. fine tune your git workflow. If I could change something about the project implementation, it would be making sure the following was a clearly articulated best practice for our git workflow: 1. pull down from master, 2. merge master with your current branch, and 3. run RSpec before pushing/making a pull request to ensure your new code also passes any recent code that was merged to master since you last pulled down.
+    * Hey Jack! Really enjoyed working with you on the little shop project. If I had any constructive feedback for you, it's really small things like continue writing feature and model tests before functionality (you knew this was coming, come on). As mentioned in today's eval, if I could change something about the project implementation, it would be making sure the following was a clearly articulated best practice for our git workflow: 1. pull down from master, 2. merge master with your current branch, and 3. run RSpec before pushing/making a pull request to ensure your new code also passes any recent code that was merged to master since you last pulled down. You are clearly a strong coder, and I felt that you and your work was always super reliable. I appreciated your "let's build only what we need" approach and found that you expressed your ideas and any issues you encountered clearly. I also knew that if I was running into any issues, I'd be able to pull you aside and you could quickly jump into the issue with me and help me out. You're hard-working and produced some awesome stuff this project (like the mailers!!!). I'm ridiculously proud of our project and had a ton of fun and laughs with you!
   >* For Joseph Glass:
-    * Hey Joseph! Really enjoyed working with you on the little shop project. You're thorough, kind, and clearly a strong coder. Like me, you're super organized and good at making sure our ducks were in a row after every check-in with Beth on top of other little random feature ideas, etc. I knew that if I was running into any issues, I'd be able to pull you aside and you could quickly jump into the issue with me and help me out. I really appreciated your help and calm demeanor during this project and I hope we get to work together again at some point in Mod 3!
+    * Hey Joseph! Really enjoyed working with you on the little shop project. You're thorough, kind, and clearly a strong coder. Like me, you're super organized and good at making sure our ducks were in a row after every check-in with Beth on top of other little random feature ideas, etc. I knew that if I was running into any issues, I'd be able to pull you aside and you could quickly jump into the issue with me and help me out. You produced some really awesome stuff during this mod (like implementing paperclip and that sick admin sales analysts page!!!). I'm ridiculously proud of our project! I really appreciated your help and calm demeanor during this project and I hope we get to work together again at some point in Mod 3!
   >* For Andrew Mossefin:
-    * Hey Andrew! Really enjoyed working with you on the little shop project. You're funny and did a flipping awesome job on our project's styling. I really appreciate all the work you did to get it looking as professional as it did. If I had any constructive feedback for you, it's fine tune your git workflow. If I could change something about the project implementation, it would be making sure the following was a clearly articulated best practice for our git workflow: 1. pull down from master, 2. merge master with your current branch, and 3. run RSpec before pushing/making a pull request to ensure your new code also passes any recent code that was merged to master since you last pulled down.
+    * Hey Andrew! Really enjoyed working with you on the little shop project. If I had any constructive feedback for you, it's fine tune your git workflow. As mentioned in today's eval, if I could change something about the project implementation, it would be making sure the following was a clearly articulated best practice for our git workflow: 1. pull down from master, 2. merge master with your current branch, and 3. run RSpec before pushing/making a pull request to ensure your new code also passes any recent code that was merged to master since you last pulled down. You're funny and did a flipping awesome job on our project's styling. I think aside from all the neat features we implemented in our project, the styling really tied it together and set the stage for an awesome user experience. I really appreciate all the work you did to get it looking as professional as it did, with lots of funny little tid bits and flair. I'm ridiculously proud of our project!
 #### **Posse**
   >* I co-led the Hamilton posse this module with Maria Stenquist, and we held a few spikes regarding planning and implementation of our major project, the Wellness App!
   >* My favorite part of the posse experience was working with a front-end student to make our rails application look even more legit.
