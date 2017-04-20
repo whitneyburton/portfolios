@@ -105,7 +105,11 @@ Workflow
 station_index >> station/index
 ```
 > Little Shop evaluation comments:
-\<Instructor Comments Here>
+>* Awesome
+>* Really thorough test suite and execution of above-and-beyond features and extensions
+>* Great styling and ease of navigation for the user
+>* Within the scope of the project, the view logic is sound and could have even be made more succinct with partials
+>* Suggestion to make analytics more efficient: make order total and quantity attributes of an order instead of just methods of orders
 
 ##### Feedback to me for Bike Share
 
@@ -115,8 +119,9 @@ station_index >> station/index
 
 ##### Feedback to me for Little Shop
 
-  >* From \<Partner 1>:
-  >* From \<Partner 2>:
+  >* From Lauren: Hey Jack! Really enjoyed working with you on the little shop project. If I had any constructive feedback for you, it's really small things like continue writing feature and model tests before functionality (you knew this was coming, come on). As mentioned in today's eval, if I could change something about the project implementation, it would be making sure the following was a clearly articulated best practice for our git workflow: 1. pull down from master, 2. merge master with your current branch, and 3. run RSpec before pushing/making a pull request to ensure your new code also passes any recent code that was merged to master since you last pulled down. You are clearly a strong coder, and I felt that you and your work was always super reliable. I appreciated your "let's build only what we need" approach and found that you expressed your ideas and any issues you encountered clearly. I also knew that if I was running into any issues, I'd be able to pull you aside and you could quickly jump into the issue with me and help me out. You're hard-working and produced some awesome stuff this project (like the mailers!!!). I'm ridiculously proud of our project and had a ton of fun and laughs with you
+  >* From Joseph: Since I have had the great pleasure of working with you on two projects in a row, I will take the opportunity to extol your virtues once more.
+ You are, unsurprisingly, still an excellent coder. You have a talent for jumping into a totally new gem or DSL and figuring out exactly how it works. You’re very aware of the factors that influence productivity like time, energy levels, pairing, specific goals, and you use them to your advantage. I can’t think of anything you need to improve, so just keep teaching others and spreading that awesomeness around.
   >* From \<Partner 3>:
 
 
@@ -155,9 +160,9 @@ Areas for improvement:
 
 ##### Feedback from me for Little Shop
 
-  >* For \<Partner 1>:
-  >* For \<Partner 2>:
-  >* For \<Partner 3>:
+  >* For Andrew: It was really cool to finally get to work with you! Your work on the styling was really critical to the success of this project. The attention to detail, and willingness to push through the gritty details of the styling. I really liked that you had no problems putting in after hours time, and caused literally no issues, social or otherwise. Areas for improvement: When you get deep into a feature or branch, make your life easier by pulling down master and merging it in occasionally.
+  >* For Joseph: As always it was a pleasure working with you. Everything I've said in the past still stands, except that I noticed that you are getting even better at using shortcuts and tools on your computer. This is one of those funny situations where I'm not sure what I can tell you to improve on. I think that you are a great coder, and would gladly work on another project with you.
+  >* For Lauren: Big ups for really going HAM on this shit. You managed to really drive this project to an incredible result while still being friendly and awesome. I think that the fact that we never had a late night is amazing for a Turing Project. I'm always jealous of your ability to always seek perfection in your work. This is one of those great situations where I'm not sure what I can tell you to improve on. 12/10 would code with again. Pickles
 
 #### **Posse**
   >* Participated a lot with brainstorming and idea generation for Turing Lab. Interest fell off later as I was less interested in the arcade project. Still working with Natalie to possibly put together a beginner's hardware hackathon.
