@@ -19,10 +19,7 @@
 
 
 
-
-
 ## B: Individual Work & Projects
-
 
 # Sorting Suite
 
@@ -31,8 +28,33 @@
 *   [GitHub URL](https://github.com/JustynaField/sorting-suite)
 *   [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
+## Evaluator: Nathaniel
 
+### 1. Fundamental JavaScript & Style
 
+// would like to see use of destructuring to swap values
+// array.concat in merge sort
+
+* 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 2. Test-Driven Development
+
+// generate random large data arrays
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+
+* 3.5: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Functional Expectations
+
+* 3: Application meets all requirements as laid out per the specification.
+
+### 5. Code Sanitation
+
+The output from ESLint shows…
+
+* 4 - Zero complaints
 
 
 
@@ -57,8 +79,7 @@
 
 ### 4. Functional Expectations
 
-<!-- * 3: Application meets all requirements as laid out per the specification. -->
-* 2.5: Application runs, but does not work properly, or does not meet specifications.
+* 3: Application meets all requirements as laid out per the specification.
 
 ### 5. Code Sanitation
 
@@ -76,7 +97,7 @@ The output from ESLint shows…
 *   [GitHub URL](https://github.com/JustynaField/game-time)
 *   [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-## Evaluator: yung-jhun
+## Evaluator: Jhun
 
 ### Comments:
 
@@ -118,9 +139,41 @@ The output from JSHint shows…
 *   [GitHub URL](https://github.com/JustynaField/weatherly)
 *   [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
-## Evaluator: Alter-Nate
+## Evaluator: Nathaniel
 
+### Specification Adherence
 
+* 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+### User Interface
+
+* 3.5 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
+
+### HTML Style
+
+* 3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+### CSS/Sass Style
+
+* 3.5: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
+
+### JavaScript / React Style
+
+* 3.5- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application has at least 6 components built out.
+
+### Testing
+// jest test
+* 2.5 - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
+
+### Workflow
+
+* 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
+### Code Sanitation
+
+The output from a code sanitizer (either JSHint or ESLint) shows…
+
+* 4 - Zero complaints
 
 
 
