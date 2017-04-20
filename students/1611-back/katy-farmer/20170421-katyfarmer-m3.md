@@ -6,11 +6,11 @@ I wanted to learn what an API was and how to go about consuming one.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -123,6 +123,12 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 Feedback from Andy:
 It was an absolute pleasure to have you both on the team and leading us for Cloney Island. Our project benefited greatly from having you at the helm. I really appreciated how well organized you kept us. Your approach to managing our workflow with frequent check-ins and clarification of progress/problems was amazing and greatly comforting. You made going through the project more fun and were phenomenal at celebrating at a problem breakthrough. I don’t have any feedback on anything that I think you should change, but I encourage you to maintain your level of enthusiasm, organization, and team-oriented mindset. You’re awesome and so was the opportunity to work with you. 
 
+Feedback from Ryan:
+Katy, it was a pleasure to work with you on Cloney Island. Your drive, management skills, and dedication to quality are inspiring. As you previously mentioned, I believe that one reason we worked well together was our similar approach. There's a bonus point? Let's do it. It requires a companion app? No points left behind.  The final product of our efforts was a reflection of not only our team's will to succeed, but also your detail-oriented management. I predicted that managing five people was going to be a significant challenge, but you handled it in stride. I don't have any critical feedback for you, thanks for your hard work…it certainly paid off!
+
+Feedback from Max:
+Katy:
+You did a fantastic job as a project manager. You set the tone, made key decisions, and took full responsibility for managing and coordinating the project. I was impressed with how you both gave the members of our team the space to find where we could best contribute and also provided great direction. This project was an example for me of what a highly functioning team can accomplish with good work flow and great testing and your leadership was key to that success. It was a pleasure to work with you.
 
 ## D: Professional Skills
 (Intro)
