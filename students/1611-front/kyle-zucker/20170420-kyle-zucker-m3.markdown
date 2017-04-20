@@ -120,7 +120,15 @@ It's surprising the amount of thought I've been giving this topic. I appreciate 
 
 ### Feedback Recieved
 
-I don't know, just send me a form or something. 
+Great pairing sessions, you didn't just give us the answers, you helped us better understand how to approach complex problems and turn them into step by step solutions.
+
+Asking you a question occasionally felt like asking a monk atop a mountain about the meaning of life. Instead of heavily analyzing the question it might be better to quickly show how to lookup/research the problem so the person can internalize how to find the knowledge themselves.
+
+Kyle was an amazing partner to work with. He is very intelligent and approaches problems in a unique manner. He is very easy to work with and always takes other team members ideas into consideration.
+
+### Feedback Given 
+
+Rebecca is the best. Our project would have not have been successful without her. Her devs skills helped the project go smoothly, and she's a blast to be around. 
 
 
 ------------------
