@@ -18,15 +18,19 @@ Ashley Schauer - M3 Portfolio
 
 
 **1. Ruby Style**
-3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
 **2. Rails Syntax & API**
-3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+
 **3. Testing**
-3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.
+* 3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.
+
 **4. Progression/Completion**
-3: Developer is able to implement solutions at the speed of a junior developer.
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
 **5. Workflow**
-3: Developer commits almost every 15 minutes
+* 3: Developer commits almost every 15 minutes
 
 
 ## B: Individual Work & Projects
@@ -48,20 +52,15 @@ Ashley Schauer - M3 Portfolio
 
 ### Projects
 
-(Intro)
+#### Rails Engine
 
-#### (Project Name)
+* [GitHub URL](https://github.com/AELSchauer/turing-rails_engine_api)
+* [Scores](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/3module/rails_engine/alex_ashley.md)
 
-* [GitHub URL]()
-* [Original Assignment]()
+#### Folio Share
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+* [GitHub URL](https://github.com/cmacaulay/folio-share)
+* [Scores](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/3module/cloney_island/dropbox.md)
 
 ## D: Professional Skills
 (Intro)
@@ -77,7 +76,7 @@ Ashley Schauer - M3 Portfolio
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Alex, Jonathan, and I held a Friday spike on building a simple webscraper. One of the students approached me afterwards to discuss learning more and we set up an appointment for Thursday.
 
 ------------------
 
