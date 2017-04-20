@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This Module I focused largely on learning the material, and exploring new concepts and frameworks on my own. I also focused on learning as much as I can about working in groups. I feel as if I was successful in these pursuits. I chose to develop my Personal Project using Node/Express and, despite my ultimate defeat, I think I learned a lot from the exprience. At times it felt as if I was fumbling through the JavaScript, but it made the small successes even more rewarding. All together it was a really humbling experience, and I feel more prepared for Mod 4 because of it. I learned a lot about patience from working with my team on Cloney Island. I chose to be the PM on that project, which proved to be more of a challenge than my previous experience as PM. I learned how to step aside and allow my teammates to struggle through features for the benefit of their own learning. I also learned a lot about pariring from working with my team. Overall I'm really happy with my level of mastery of the material we covered this Mod, as well as the skills I learned with regards to working in a team.  
+This Module I focused primarily on learning the material, and exploring new concepts and frameworks on my own. I also focused on learning as much as I could about working in groups. I feel as if I was successful in these regards. I chose to develop my Personal Project using Node/Express and, despite my ultimate defeat, I think I learned a lot from the exprience. At times it felt as if I was fumbling through the JavaScript, but it made the small successes even more rewarding. All in all it was a humbling experience, and I feel more prepared for Mod 4 because of it. I learned a lot about patience from working with my team on Cloney Island. I chose to be the PM on that project, which proved to be more of a challenge than my previous experience as PM. I learned how to step aside and allow my teammates to struggle through features for the benefit of their own learning. I also learned a lot about pairing from working with my team. Overall I'm really happy with my level of proficiency with the material we covered this Mod, as well as the skills I learned with regards to working in a team.  
 
 ## Rubric Scores
 
@@ -47,11 +47,11 @@ I chose not to be graded.
 * [RAILS GitHub URL](https://github.com/CjMoore/personal_project)
 * [Original Assignment](http://backend.turing.io/module3/projects/self_directed_project)
 
-For my Personal Project I chose to use the Watson Alchemy Language API to do sentiment analysis. My initial plan was to use this API to analyze news articles and use a data visualization to display the result. This has proven to be very difficult. 
+For my Personal Project I chose to use the Watson Alchemy Language API to do sentiment analysis. My initial plan was to use this API to analyze news articles and use a data visualization to display the result. This has proven to be difficult. 
 
 ## C: Group Work & Projects
 
-This Mod we did two group projects, Rails Engine and Cloney Island. In Rails Engine we seeded data from another Turing Project (Sales Engine) and created an internal API with that data. I worked with Katy on Rails Engine, which was awesome. For Cloney Island, my team and I cloned KickStarter. While we struggled with certian parts of the project, ultimately I was really pleased with the end result. 
+This Mod we did two group projects, Rails Engine and Cloney Island. In Rails Engine we seeded data from another Turing Project (Sales Engine) and created an internal API with that data. I worked with Katy on Rails Engine, which was awesome. For Cloney Island, my team and I cloned KickStarter. While we struggled with certain parts of the project, ultimately I was really pleased with the result. 
 
 ### Rails Engine
 
@@ -99,7 +99,7 @@ Note: 99.84 coverage - intermittant failures but all related to the same issue a
  * [GitHub URL](https://github.com/CjMoore/cloney_island)
  * [Original Assignment](http://backend.turing.io/module3/projects/cloney_island/cloney_island)
  
-For Cloney Island Spencer, Eric, Edilene, and I cloned KickStarter. This project focused on multi-tenanacy and permissions. We ultimately had 6 user types each with seperate permissions. 
+For Cloney Island Spencer, Eric, Edilene, and I cloned KickStarter. This project focused on multi-tenanacy and permissions. We ultimately had 6 user types, each with seperate permissions. 
 
 #### Completion
 
@@ -150,13 +150,13 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
 
-Prior to this Gear Up I knew what a microagression was, I just didn't know what to call it. I can understand and empathize with people who have had to deal with microagressions on a daily basis, both in school and the workplace. I think the conversations we had on this topic were really enlightening for me, particularly when it comes to how certian members of my cohort felt being a part of the Turing community. I think one of the most valuable things I took away from this Gear Up is the knowledge that, reguardless of an individual's privilege, everyone can feel the effects of microagressions. 
+Prior to this Gear Up I knew what a microagression was, I just didn't know what to call it. I can understand and empathize with people who have had to deal with microagressions on a daily basis, both in school and the workplace. I think the conversations we had on this topic were really enlightening for me, particularly when it comes to how certain members of my cohort felt being a part of the Turing community. I think one of the most valuable things I took away from this Gear Up is the knowledge that, reguardless of an individual's privilege, everyone can feel the effects of microagressions. 
 
 #### Automation
 
 * [GitHub URL](https://github.com/tmikeschu/gear-up/blob/f902d71e6d86a3fd293a5a24b10705c6c34be755/m4_sessions/automation/session_one/one_elijah_annie_schutte_devin.md#pre-reading)
 
-This was a really interesting Gear Up. I am of the opinion that technology is neither inherently evil or good, and it was interesting to learn that people believe strongly that technology is absolutely good. I hope that the readings and discussion in this Gear Up was able to persuade people of the potential risk that technology can pose to society. I beleve strongly that the impact technology can have on society depends on how its used. It's important to be aware, particuarly as developers, of the disparity between the intent and actual use of a piece of technology. I think this Gear Up on Automation attemped to address that issue.
+This was a really interesting Gear Up. I am of the opinion that technology is neither inherently evil or good, and it was interesting to learn that people believe strongly that technology is absolutely good. I hope that the readings and discussion in this Gear Up was able to persuade people of the potential risk that technology can pose to society. I believe strongly that the impact technology can have on society depends on how it's used. It's important to be aware, particuarly as developers, of the disparity between the intent and actual use of a piece of technology. I think this Gear Up on Automation attemped to address that issue.
 
 ## E: Community Participation
 
@@ -164,11 +164,11 @@ This was a really interesting Gear Up. I am of the opinion that technology is ne
 
 #### BASH Spike
 
-James, Eric, Ediline, and I planned and co-lead a gear up on [BASH](https://gist.github.com/CjMoore/13565b944d20d102488812d51b9d5630). It was our intent to teach students about what BASH is and how to style their BASH prompts. We also had a discussion on how to make and use an alias, as well as Atom shortcuts. 
+James, Eric, Ediline, and I planned and co-lead a gear up on [BASH](https://gist.github.com/CjMoore/13565b944d20d102488812d51b9d5630). It was our intent to teach students about BASH and how to style their BASH prompts. We also had a discussion on how to make and use an alias, as well as Atom shortcuts. 
 
 #### Turing Lab
 
-This Mod I participated in Turing Lab. It was really fun learning about, and working with a RaspberryPi. I contributed by doing research and testing the RetroPi emulator. Spencer, Ryan, and Dan did a great job in leading and organizing tasks for the arcade cabinet, and I'm excited to see the final product. 
+This Mod I participated in the Turing Lab posse. It was really fun learning about and working with a RaspberryPi. I contributed by doing research and testing the RetroPi emulator. Spencer, Ryan, and Dan did a great job in leading and organizing tasks for the arcade cabinet, and I'm excited to see the final product. 
 
 #### Feedback
 
