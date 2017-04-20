@@ -267,4 +267,11 @@ John and I weren't paired for projects, but he and I worked together whiteboardi
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+
+*   **A: End-of-Module Assessment**: 3
+*   **B: Individual Work & Projects**: 3.5
+*   **C: Group Work & Projects**: 4
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 4
