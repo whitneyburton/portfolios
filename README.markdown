@@ -26,29 +26,29 @@ A submission summarizes your accomplishments in these key areas:
 2. Follow instructions in [portfolio expectations](http://backend.turing.io/module1/portfolios/portfolio_expectations) to create your folder and file for your M1 portfolio.
 3. Copy the template code from the [M1 template markdown](http://backend.turing.io/module1/portfolios/portfolio_template) to your new file.
 4. Update placeholder text in template.
-5. Commit your changes, push to your remote repo, then create a PR to the turing/portfolios repo.
+5. Commit your changes, push to your remote repo, then create a PR to the `turing/portfolios` repo.
 
 
 ### Module 1 (Front-end)
 
 Your promotion to the next module is based upon a summative assessment coined the Pentathlon. The Pentathlon includes:
-  1. Individual Coding Challenge-A: Passing Score (All 3's) required
-  2. Individual Coding Challenge-B: Passing Score (All 3's) required
-  3. Final Project (Static Comp Challenge #3) -- Passing Score (All 3's) required
+  1. Individual Coding Challenge-A: Passing Score (Proficient in all areas) required
+  2. Individual Coding Challenge-B: Passing Score (Proficient in all areas) required
+  3. Final Project (Static Comp Challenge #3) -- Passing Score (Proficient in all areas) required
   4. Comprehensive Quizlette: Passing Score (80% correct answers) required
   5. Completed Portfolio
 
-Your completed portfolio is comprised of the following required material:
+Your completed portfolio is also comprised of the following required material:
 
 * Course Projects:
- * Linked List
- * Number Guesser
- * Idea Box
- * 2DoBox Pivot
+  * Number Guesser
+  * Linked List or Foto Finder
+  * Idea Box
+  * 2DoBox Pivot
 
 * Professional Development:
   * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
-  * Feedback: Paragraph; Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
+  * Feedback Paragraphs: Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
 
 * Community:
   * A recap of reflections from Gear Up
@@ -69,16 +69,8 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Assessments: Final
 * Professional Development:
   * Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
-  * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
-   * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
-      * Transferable Skills
-      * Favorite/Most Valued Knowledge
-      * Favorite working conditions
-      * Favorite people to work with/serve
-      * Values/Goals/Mission in life
-      * Preferred places to live
-      * Preferred salary and level of responsibility
-   * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor.
+  * Paragraph reflecting on your PD/Feedback lessons and outcomes this module
+  * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor.
 * Community:
   * A recap of reflections from Gear Up
 * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
@@ -167,7 +159,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 ### Module 4 (Front-end)
 
 * Individual Assessment
-* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, Real Time & Homework Assignment
+* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, BYOB
   * Should include points breakdown per project
 * Professional Development:
 *PD deliverables should be submitted via email to Meg at [mstewart@turing.io](mail:to)*
@@ -177,7 +169,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Community:
   * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
-  
+
 ## Submission Guidelines
 
 A pull request with your submission must be made at least 12 hours before your
