@@ -16,30 +16,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 -----------------------
 
-## A: End of Module Assessment
-
-### Individual Coding Challenge:
-
-##### Evaluator: Nate
-#### Optional Notes:
-* Good communication skills and laying out your approach as you work
-* Good job recognizing your concatenation issue and identifying you need to parseInt
-* Great progression getting through the features smoothly
-
-#### Progression/Completion
-* 3: Developer is able to implement solutions at the speed of a junior developer.
-
-#### JavaScript Style
-* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
-
-#### Workflow
-* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-
-#### Collaboration
-* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
-
-
-## B: Individual Work & Projects
+## A: Individual Work & Projects
 
 Front End Module Two Projects are designed to improve our skills and increase our exposure to multiple facets of programming. Each project builds upon the last and increases in complexity. Projects have exposed us to HTML, CSS, Javascript, jQuery, ES6, React, JSON, Local Storage, and Enzyme/Jest.
 
@@ -91,7 +68,7 @@ Everybody uses auto complete.You can love it or you can hate it but ultimately y
 
 
 
-## C: Group Work & Projects
+## B: Group Work & Projects
 
 ### Projects
 
