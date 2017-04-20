@@ -49,12 +49,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [link](https://github.com/iamchrissmith/enigma) | [link](https://github.com/iamchrissmith/headcount) |
-| **Functional Expectations** | 3 | x |
-| **Test-Driven Development** | 4 | x |
-| **Encapsulation/Breaking Logic into Components** | 4 | x |
-| **Fundamental Ruby & Style** | 3 | x |
-| **Enumerable & Collections** | N/A | x |
-| **Code Sanitation** | N/A | x |
+| **Functional Expectations** | 3 | 4 |
+| **Test-Driven Development** | 4 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 4 | 4 |
+| **Fundamental Ruby & Style** | 3 | 4 |
+| **Enumerable & Collections** | N/A | 4 |
+| **Code Sanitation** | N/A | 4 |
 
 
 ## D: Professional Development
@@ -76,23 +76,6 @@ Feedback from partner projects.
 **Feedback from Natalia:**
 
 > I think we worked very well together and we found balance in our contributions to the project. I really appreciate the way you organized our work, how you accepted my input and improved the code with your better knowledge of Ruby.  Also, you are very resourceful, always bringing additional features to improve our work and most of all, you are a great teacher. I think you have great communication skills and I enjoyed our time working together. With regard to opportunities to improve, I think it applies to both of us, we were so happy with our work we didn’t tested it correctly so it’s important to be aware of this and try to get an extra set of eyes or be more cautious in the future. Also, we worked really well as Driver-Navigator so we never tried Distributed Pairing, and it would have been interesting to try it.
-
-#### Project 2 (Sam Lim):
-
-**Feedback for Sam Lim:**
-
-> I enjoyed working with Sam on the Headcount project.  Since this project was so large, we needed to divide and conquer as well as work together on integrating the pieces.  This gave us lots of experience with git branching, merging and the occassional merge conflict. 
-It was great to have someone with whom I could work independently as well as pair in person.  
-
-> Solely, in the interested of helping Sam grow as a developer, I wanted to point out that there were a couple of instances where Sam copy-and-pasted a solution from the web that was not a perfect fit.  I absolutely believe that being able to Google the right solution is one of the most valuable developer skills, and Sam has it. However, in just a few instances, I felt as though he might have been a little quick to accept what he found and would have been better off taking a moment to slow down and evaluate the code before putting testing it in the project.  
-
-> From a Git workflow, I would recommend for us both to try to get into the habit of pushing even when we don't feel like a feature is completely done or working. This is especially true when we are leaving the work for a bit since that is an opportunity for our project partner to review or even work on the code a bit.
-
-> Sam definitely brought a great perspective, strong knowledge and very good refactoring eye to the project.  I look forward to working with him again.
-
-**Feedback from ___________:**
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Job Prep
 
