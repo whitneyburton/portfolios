@@ -213,4 +213,10 @@ I was excited and grateful to be able to lead a Sprite Spike with Leta toward th
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING ( weathrly tests submitted )
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3
+D: Professional Skills: 3
+E: Feedback & Community Participation: 3
