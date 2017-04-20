@@ -235,4 +235,8 @@ Thank you for your help Chris!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: Pass
+B: Individual Work & Projects: 3 
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Feedback & Community Participation: 4
