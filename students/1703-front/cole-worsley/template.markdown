@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Cole Worsley - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I wanted to establish an understanding of the fundamentals of front end web development. In addition, I also set out to build a network 
 
 ## Rubric Scores
 
