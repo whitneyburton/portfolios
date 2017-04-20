@@ -3,9 +3,8 @@
 ## Areas of Emphasis
 
 1. Greater understanding of Javascript fundamentals and data structures
-2. Compentency in navigating data structures.
-3. Understanding of the strengths and limitations of Object-Oriented Programming
-4. Continued goal of "thinking like a programmer"
+2. Understanding of the strengths and limitations of Object-Oriented Programming
+3. Continued goal of "thinking like a programmer"
 
 
 ## Rubric Scores
@@ -21,14 +20,13 @@
 ## A: End of Module Assessment
 #### Evaluator: Jhun
 
-* Passed.
-
+* Passed. I think? Idk, salt bae?
 
 ***
 
 ## B: Individual Work & Projects
 
-Summary about Individual Work
+Individual work this mod consisted of Sorting Suite and Complete-Me. However, they were not as individual as the name would make them out to be. While the goal of the projects was to gain a greater understanding of the key logical fundamentals of Javascript, the added bonus was being able to use our cohort as a resource. There were whiteboarding sessions galore. Brainstorming, psuedo-coding, and testing possible solutions, our cohort really came together and worked as a team to accomplish the challenging logic of the two projects. It was enjoyable to work in such a capacity. 
 
 ### (Sorting Suite)
 
@@ -99,6 +97,7 @@ The output from ESLint shows…
 ***
 
 ## C: Group Work & Projects
+Group projects this mod were limited to Gametime and Weathrly. Both were two week tasks to create working and functional applications, with an added focus of helping us greater understand the core concepts we were reviewing at the time. 
 
 ### (Gametime)
 
@@ -136,7 +135,6 @@ For Gametime, my partner and I were tasked to create a game in HTML Canvas. The 
 The output from ESLint shows…
 
 * 4 - Zero complaints
-
 
 ### (Weathrly)
 
@@ -209,16 +207,27 @@ Write-ups for Gear Up can be found at the links below. Each link contains a summ
 ## E: Feedback and Community Participation
 
 #### Giving Feedback
+##### Feedback for Chris Jordan
+"Chris was a super awesome person to work with on Gametime. We both worked great together, whereas it be in a pairing environment, or, on our own individually. Chris is a super smart guy who had a knack for coming up with ingenious solutions to our problems. It was easy to follow his logic and his coding ideas. Chris can make complex ideas seem simple, and does an excellent job of making others understand those ideas with ease. 10/10, would work with again."
 
-(feedback from me)
-#### Feedback for person
+#### Receiving Feedback
+##### Feedback from Chris Jordan on Gametime
+"Chris was a great partner to work with. Highly capable and could trust him to follow through on work needed. Very patient in explaining his thinking process and very imaginative. Great with design and the know how to structure it. Can grasp complex concepts with ease. He has a future in this web developing thing."
+
+##### Feedback from Evan Miller on pairing between 1701 and 1703 (excerpt from survey)
+"For me, talking it out, using someone as a 'rubber ducky' helps me tremendously. The pairing was great, I think pairing with you was beneficial in helping me understand javascript.
+
+##### Feedback from John Binning on mod work (excerpts from survey)
+"Though we didn't officially pair, I sit next to Chris everyday.  He was very helpful overall. Chris was always willing to help me out when I didn't understand something.  His help was critical to not falling behind during lessons. In regards to future mods, you're actually pretty decent at this, believe in yourself more."
+
 
 
 ### Being a Community Member
 
 #### Playing a Part
 
-Edited profile headshots for classmates after taking headshots the last mod. Helped out by offering pairing sessions with members of 1703.
+Edited profile headshots for classmates after taking headshots the last mod. 
+Helped out by offering pairing sessions with members of 1703. Had three sessions: one with Josh Thompson from 1701 BE, one with Evan Miller from 1703 FE, and one with Kristi Green from 1701 FE
 
 ------------------
 
