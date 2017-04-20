@@ -2,6 +2,7 @@
 
 ## Areas of Emphasis
 
+The goal for this module was to gain solid JavaScript fundation, develop higher JS skills and understanding, expand logical thinking, learn to manipulate large data and get exposed to more advanced development. 
 
 ## Rubric Scores - self evaluation
 
@@ -194,7 +195,7 @@ It is always very inspiring for me to see how you pay attention to every detail 
 It was great working with Jack. I appreciate how we approached the new subject and patiently worked through challenges together. I like how we discussed code problems and tried new solutions. I feel like we’ve learnt a lot while working together. Jack was very dependable and respectful. I would like to work with Jack again in the future.
 
 
-### Being a Community Member
+### Receiving Feedback
 
 #### Feedback from Jack B: 
 Working with you was really enjoyable. Weatherly was by far the hardest thing we’ve been asked to tackle at Turing thus far, in my opinion. You maintained a very cool head throughout the whole project, and we’re really good at keeping us on track when we were about to go down the rabbit-hole. It was really rewarding to finally get components to render on the page. I hope we get to work together again in the future.
@@ -202,6 +203,10 @@ Working with you was really enjoyable. Weatherly was by far the hardest thing we
 #### Feedback from John B: 
 Working with Justyna the second time around was great again. Just like the first time, we had wonderful give and take, and we agreed up front that no one would fall behind. I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me. It was great seeing how much she had learned and grown since our first paring.  Our communication was excellent, and we were consequently able to stop any arguments before they even started. I would be happy to work with her again.  Also, our game was awesome! 
 
+
+### Playing a Part
+
+I have been trying to be involved in the Turing community as much as I could. I've been developing relationships with other students. My future goal is to be more actively involved in building the Turing community.
 
 ------------------
 
