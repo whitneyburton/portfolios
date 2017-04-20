@@ -190,8 +190,8 @@ I continued to attend IronFe most mornings and continued my term as the SAB repr
 
 ### Notes
 
-( Leave blanks for reviewers )
+Be the change!  
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending assessment retake
