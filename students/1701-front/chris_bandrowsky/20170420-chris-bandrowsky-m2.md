@@ -19,15 +19,7 @@
 -----------------------
 
 ## A: End of Module Assessment
-
-### Weathrly Evaluation
-###### Evaluator: Jhun
-###### Optional Notes:
-
-* Create a weather application using React. Makes an API call to Weatherunderground and displays the Current Conditions, the 10Day forecast, and the Hourly forecast as elements on the DOM. 
-
-#### Assessment
-###### Evaluator: Jhun
+#### Evaluator: Jhun
 
 * Passed.
 
@@ -43,7 +35,7 @@ Summary about Individual Work
 *   [GitHub URL](https://github.com/cbandrow/sorting-suite)
 *   [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
-Summary of Project
+The goal of Sorting Suite was to get a greater understanding of alogorithms through a sorting algorithm. Rather, not just one, but three different algorithms. We created a Bubble Sort, an Insert Sort, and a Merge Sort. Each had their own method of sorting data, and each optimized data sorting in its own way. Merge Sort proved to be the fastest most reliable data sort. 
 
 ##### Evaluator: Jhun
 
@@ -51,23 +43,23 @@ Summary of Project
 
 ##### Evaluation Scores:
 
-##### _1. Fundamental JavaScript & Style_
+#### _Fundamental JavaScript & Style_
 
 * 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-##### _2. Test-Driven Development_
+#### _Test-Driven Development_
 
 * 4: Application is broken into components which are well tested in both isolation and integration
 
-###### _3. Encapsulation / Breaking Logic into Components_
+#### _Encapsulation / Breaking Logic into Components_
 
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-###### _4. Functional Expectations_
+#### _Functional Expectations_
 
 * 3: Application meets all requirements as laid out per the specification.
 
-###### _5. Code Sanitation_
+#### _Code Sanitation_
 
 * 4 - Zero complaints
 
@@ -77,72 +69,69 @@ Summary of Project
 *   [GitHub URL](https://github.com/cbandrow/complete-me)
 *   [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
-Summary
+Complete-Me was our second individual project with a focus on data structures and algorithms. However, this project helped us understand the nature of Nodes and Tries. We created an autocomplete system which would auto guess the next character of a guessed word. If a word was entered multiple times, that word will be auto suggested and pushed to the front of the suggestions.  
 
 #### Evaluator: Nate
 
 #### Evaluation Scores:
 
-##### _1. Fundamental JavaScript & Style_
+##### _Fundamental JavaScript & Style_
 // only use returns when needed, use objects vs key values in strings
 * 3:  Application shows strong effort towards organization, content, and refactoring
 
-##### _2. Test-Driven Development_
+##### _Test-Driven Development_
 
 * 3.5: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-##### _3. Encapsulation / Breaking Logic into Components_
+##### _Encapsulation / Breaking Logic into Components_
 // pass dictionary into populate for 3.5
 * 3.5: Application effectively breaks logical components apart but breaks the principle of SRP
 
-##### _4. Functional Expectations_
+##### _Functional Expectations_
 * 3: Application meets all requirements as laid out per the specification.
 
-###### _5. Code Sanitation_
+##### _Code Sanitation_
 
 The output from ESLint shows…
 
 * 4 - Zero complaints
 
-
 ***
 
 ## C: Group Work & Projects
-
-Summary
 
 ### (Gametime)
 
 *   [GitHub URL](https://github.com/cbandrow/gametime)
 *   [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-Summary
+For Gametime, my partner and I were tasked to create a game in HTML Canvas. The game we decided to make was Breakout (the brick breaking game). The Project helped us gain a better understanding of using Objects in Javascript, especially objects that know and interact with each other. 
 
 #### Evaluator: Nate
 
 #### Evaluation Scores:
 
-##### Functional Expectations
+##### _Functional Expectations_
 
 * 3.5 - Application is fully playable without crashes or bugs
 
-##### User Interface
+##### _User Interface_
 
 * 3.5 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
-##### Testing
+##### _Testing_
 
 * 3 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
 
-##### JavaScript Style
+##### _JavaScript Style_
 
 * 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-##### Workflow
+##### _Workflow_
 
 * 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-##### Code Sanitation
+##### _Code Sanitation_
 
 The output from ESLint shows…
 
@@ -154,73 +143,75 @@ The output from ESLint shows…
 *   [GitHub URL](https://github.com/cbandrow/weathrly)
 *   [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
-Weathrly Summary
+For Weathrly, we were tasked to create a weather application. We were able to get data from a Weatherunderground API call, and append the data to the DOM using React. The app displayed the Current Location, the 7 Hour forecast, and the 10 Day forecast, all by allowing a user to input a location. 
 
 #### Evaluator: Jhun
 
 #### Evaluation Scores:
 
-##### Specification Adherence
+##### _Specification Adherence_
 
-3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+* 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
-##### User Interface
+##### _User Interface_
 
-3.5 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
+* 3.5 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
 
-##### HTML Style
+##### _HTML Style_
 
-3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+* 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
-##### CSS/Sass Style
+##### _CSS/Sass Style_
 
-3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
+* 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
 
-##### JavaScript / React Style
+##### _JavaScript / React Style_
 
-3.5- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application has at least 6 components built out.
+* 3.5- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application has at least 6 components built out.
 
-##### Testing
+##### _Testing_
 
-3 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of feature testing.
+* 3 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of feature testing.
 
-##### Workflow
+##### _Workflow_
 
-4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+* 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
-##### Code Sanitation
+##### _Code Sanitation_
 
 The output from a code sanitizer (either JSHint or ESLint) shows…
 
-4 - Zero complaints
+* 4 - Zero complaints
 
 ***
 
 ## D: Professional Skills
-Turing has done an excellent job in teaching me interpersonal skills that can apply across the industry and across professional developer interactions. Through Gear Ups, casual conversation, guest speakers, and otherwise, I've learned a great deal about functioning as a Developer in the work world.
+Turing has done an excellent job in teaching me interpersonal skills that can apply across the industry and across professional developer interactions. Through Gear Ups, casual conversation, guest speakers, and otherwise, I've learned a great deal about functioning as a Developer in the work world. Additionally, my interactions with members of the tech community have gained me greater understanding of industry trends, interview advice, and 
 
 ### DTR
 
 Defining the Relationship was an invaluable step for ensuring our pairing success in projects throughout the module. DTR's are useful for determining how my partner and I could be the best partners possible.
 
-*   [DTR 1](link)
+*   [Weathrly DTR] (https://docs.google.com/document/d/1OYj2AcZsefL_KMf8jxAZmHgdblTRgT2Q-ffFje9SkTw/edit?usp=sharing)
 
 
 ### Gear Up
 
-*   [Link to Gist](link to gear up stuff provided earlier this week)
+Write-ups for Gear Up can be found at the links below. Each link contains a summary of thoughts and takeaways from each section.
 
-Summary
-
+*   [Cold Out Reach Gist](https://gist.github.com/cbandrow/189af34367661203bbb507e726dc742c#file-cold-outreach-md)
+*   [Agile Strategies Gist](https://gist.github.com/cbandrow/3ca71db2abe40f28d78adc07a14d56d9#file-agile-development-and-management-md)
+*   [Feedback II Gist](https://gist.github.com/cbandrow/945c1a68e5f5450bffe1b71e11d5e054#file-feedback-ii-reflection-md)
+*   [Feedback III Gist](https://gist.github.com/cbandrow/e8eed3b9f6e389002ac8b86ad9610669#file-feedback-iii-reflection-md)
 
 ***
 
 ## E: Feedback and Community Participation
 
-### Giving Feedback
+#### Giving Feedback
 
 (feedback from me)
-###### Feedback for person
+#### Feedback for person
 
 
 ### Being a Community Member
