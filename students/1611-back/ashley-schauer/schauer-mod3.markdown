@@ -1,4 +1,4 @@
-Ashley Schauer - M3 Portfolio
+# Ashley Schauer - M3 Portfolio
 
 ## Areas of Emphasis
 
@@ -37,16 +37,15 @@ Ashley Schauer - M3 Portfolio
 
 (Intro)
 
-#### (Project Name)
+#### API Curious
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/AELSchauer/reddit-apicurious)
 
-(description)
+#### Wedding Budget
 
-(evaluation comments)
-
-(evaluation scores)
+* [GitHub URL](https://github.com/AELSchauer/wedding-budget)
+* [Pitch](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/3module/personal_project/ashley.md)
+* [Production](https://wedding-budget.herokuapp.com/)
 
 ## C: Group Work & Projects
 
