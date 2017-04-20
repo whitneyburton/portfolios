@@ -260,8 +260,12 @@ Mike Ziccardi - I had the pleasure of working with Lauren for TWO WHOLE PROJECTS
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 2.5
 
 ### Outcome
  
-( Leave blanks for reviewers )
+PASSED
