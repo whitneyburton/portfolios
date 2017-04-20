@@ -37,9 +37,6 @@ My goals for Mod 2 were:
 ### Testing: 2 (pending a 3)
 
 
-
-
-
 # Assessment: PENDING
 
 ## Evaluator: Jhun
@@ -149,11 +146,6 @@ The output from ESLint shows…
 * 4 - Zero complaints
 
 
-
-
-
-
-
 ----------------------------
 
 ## C: Group Work & Projects
@@ -183,7 +175,7 @@ instructions, new game, high scores...
 
 * 3 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
 
-#3## JavaScript Style
+#3 ## JavaScript Style
 
 * 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
@@ -191,7 +183,7 @@ instructions, new game, high scores...
 
 * 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-#3## Code Sanitation
+#3 ## Code Sanitation
 
 The output from ESLint shows…
 
@@ -223,8 +215,6 @@ From Bucket to me:
 You have the virtue some would refer to as patience. As a project partner, you held up your own and then some. You not held up your end of the fair responsibility, but you took a large bit of mine also. You were understanding of my ‘condition’ and were willing to help out. I appreciated that very much.
 
 
-
-
 ### Playing a Part
 
 Anders and I headed up a D3 study group and will continue that into Mod 3.
@@ -239,4 +229,15 @@ This Thursday, I'm participating in Demo Night, showing my prefix trie.
 
 ## Final Review
 
+- loves algos 
+- enjoyed her time in MOD 2 
+
 ### Outcome
+
+PENDING (waiting on weathrly tests)
+
+*   **A: End-of-Module Assessment**: X
+*   **B: Individual Work & Projects**: 3.5
+*   **C: Group Work & Projects**: 3.5
+*   **D: Professional Skills**: 3.5
+*   **E: Feedback & Community Participation**: 4
