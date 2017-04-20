@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+Ashley Schauer - M3 Portfolio
 
 ## Areas of Emphasis
 
@@ -16,7 +16,17 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+
+**1. Ruby Style**
+3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+**2. Rails Syntax & API**
+3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+**3. Testing**
+3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.
+**4. Progression/Completion**
+3: Developer is able to implement solutions at the speed of a junior developer.
+**5. Workflow**
+3: Developer commits almost every 15 minutes
 
 
 ## B: Individual Work & Projects
