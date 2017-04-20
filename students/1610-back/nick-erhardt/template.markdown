@@ -12,6 +12,7 @@
 * **D: Professional Skills**: X
 * **E: Feedback & Community Participation**: X
 
+
 -----------------------
 
 ## A: End of Module Assessment
@@ -92,8 +93,9 @@
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Enjoyed gearup discussions 
+* would love to see more community involvement 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* PROMOTED
