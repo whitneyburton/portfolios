@@ -241,4 +241,8 @@ And I became the FE guy for BE M2 to consult when they run into JS/CSS issues an
 
 ### Outcome
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: pass
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Feedback & Community Participation: 4
