@@ -15,7 +15,7 @@
 
 ## A: End of Module Assessment
 
-##Evaluator: Jhun
+## Evaluator: Jhun
 
 
 
@@ -23,7 +23,7 @@
 
 # Sorting Suite
 
-## Evaluator: Alter-Nate
+## Evaluator: Nathaniel
 
 *   [GitHub URL](https://github.com/JustynaField/sorting-suite)
 *   [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
