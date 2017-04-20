@@ -173,10 +173,10 @@ This Mod I participated in Turing Lab. It was really fun learning about, and wor
 #### Feedback
 
 From: Eric
-When the module first started, I heard people calling her "gem Charlotte" and now I know why. Not only is she the most capable developer I've encountered at Turing, she is an outstanding PM. She let the group take on it's own rhythm and consequently we all performed better than average. I grew as a developer through pairing with her on several user stories and am thankful to have her in 1611.
+<p>When the module first started, I heard people calling her "gem Charlotte" and now I know why. Not only is she the most capable developer I've encountered at Turing, she is an outstanding PM. She let the group take on it's own rhythm and consequently we all performed better than average. I grew as a developer through pairing with her on several user stories and am thankful to have her in 1611.</p>
 
 From: Edilene
-You are a powerhouse!!! You impressed me the first time we paired and you still do. Management skills, problem solving, wit, determination are only a few things I can say about you. Please continue teaching others while being kind and accepting. I know this can sound cheesy but you will become an irreplaceable developer and any company will be lucky to have you on their team. 
+<p>You are a powerhouse!!! You impressed me the first time we paired and you still do. Management skills, problem solving, wit, determination are only a few things I can say about you. Please continue teaching others while being kind and accepting. I know this can sound cheesy but you will become an irreplaceable developer and any company will be lucky to have you on their team. </p>
 
 
 ------------------
