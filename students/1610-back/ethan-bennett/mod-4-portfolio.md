@@ -54,7 +54,9 @@ As of now, my work for Populus and Web3.py isn't ready to be merged. I communica
 #
 ### **Group Work**
 
-For our Capstone project, we built an app using React, Solidity/Truffle, and Rails that can track a food's origin on the Ethereum blockchain. The first sprint wasn't graded, but here are the second and third:
+Quantified Self was a very abbreviated project for Nick and I, since we had to miss so much of the first week for our training.
+
+For the Capstone project, Schutte, David, Nick, and I built an app using React, Solidity/Truffle, and Rails that can track a food's origin on the Ethereum blockchain. The first sprint wasn't graded, but here are the second and third:
 
 ### **Sprint Two:**
 
