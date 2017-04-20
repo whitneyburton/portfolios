@@ -45,14 +45,24 @@ The Next Industrial Revolution: Automation https://natbee.github.io/mod_2_techni
 
 | CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
 | --- | --- | --- |
-| **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
-| **Github Repo** | [Bike Repo](https://github.com/somedayrainbows/bike-share) | [Shop Repo](https://github.com/somedayrainbows/tripvontrapp) |
-| **Functional Expectations** | 3 | X |
+| **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md)
+| **Github Repo** | [Bike Repo](https://github.com/somedayrainbows/bike-share)
+| **Functional Expectations** | 3 | x |
 | **ActiveRecord** | 3 | X |
-| **User Experience and Conventions** | 4 | X |
+| **User Experience and Conventions** | 4 | x |
 | **Code Organization/Quality** | 4 | X |
 | **Testing** | 3 | X |
 | **Working Collaboratively** | 4 | X |
+
+| **Project Spec** | Little Shop Spec][Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
+| **Github Repo** | [Little Shop Repo](https://github.com/somedayrainbows/tripvontrapp) |
+| **Feature Completeness | 3 |
+| **Controllers | 3.5 |
+| **Views | 3 |
+| **Models | 4 |
+| **Testing | 4 |
+| **Usability | 3 |
+| **Workflow |  3 |
 
  Bike Share evaluation comments:
   -Impressive styling
