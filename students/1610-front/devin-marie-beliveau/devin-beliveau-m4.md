@@ -144,4 +144,16 @@ Planning a Gear Up: This mod we had to plan a GearUp. I really enjoyed this and 
 
 Notes
 
+A: End-of-Module Assessment: 3
+
+B: Individual Work & Projects: 3.5 - I get along with myself quite well.
+
+C: Group Work & Projects: 3
+
+D: Professional Skills: 4
+
+E: Feedback & Community Participation: 4
+
 Outcome
+
+PASSED
