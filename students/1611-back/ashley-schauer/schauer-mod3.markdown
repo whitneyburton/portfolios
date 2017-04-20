@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I wanted to get my work done, and take some risks to push myself. Honestly, the most important piece for me was to not have a nervous breakdown like I did in mod 2. I wanted to take care of my mental health and spend more time with my family.
 
 ## Rubric Scores
 
