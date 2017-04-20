@@ -23,7 +23,6 @@ Evaluator: Taylor
 
 Completed eval with a solid 10 seconds to spare.
 
-
 ## Work & Projects
 
 Here are some tight things I've done this Mod
@@ -50,7 +49,6 @@ Testing
 3 - Almost all components are tested to a level that indicates developer has an understanding of testing
 
 Passed
-
 
 #### SWAPIbox
 
@@ -122,16 +120,12 @@ It's surprising the amount of thought I've been giving this topic. I appreciate 
 
 I don't know, just send me a form or something. 
 
-
 ------------------
 
 ## Final Review
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
-
+Pending PD confirmation, Feedback, and README on project
