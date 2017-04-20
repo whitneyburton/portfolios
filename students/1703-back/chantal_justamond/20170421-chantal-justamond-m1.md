@@ -90,7 +90,7 @@ Feedback from partner projects.
 
 **Feedback from Yohanan:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> I honestly don't have any negative feedback!  I know we are supposed to give suggestions on how we could improve but I can’t think of a single area where you could have given more, you’re effort was outstanding.  I think we were good about switching roles, picking up each other's slack when we were brain-dead & dividing and conquering. We never surrendered to Head Count, even when we had to refactor iteration zero 3 times. Frustration never got the best of us, we kept fighting it and winning.  I would like to add It was a real pleasure working with you!  The fact that you were so willing to put every last minute of your free time into this project was highly motivating.
 
 ### Job Prep
 
