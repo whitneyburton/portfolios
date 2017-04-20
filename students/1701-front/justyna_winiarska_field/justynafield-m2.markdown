@@ -24,8 +24,6 @@ The goal for this module was to gain solid JavaScript fundation, develop higher 
 
 # Sorting Suite
 
-## Evaluator: Nathaniel
-
 *   [GitHub URL](https://github.com/JustynaField/sorting-suite)
 *   [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
