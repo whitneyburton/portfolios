@@ -47,12 +47,12 @@ This module I hoped to more clearly grasp OOP concepts and get familiar working 
 | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [link](https://github.com/limsammy/project_enigma) | [link](https://github.com/iamchrissmith/headcount) |
-| **Functional Expectations** | 3 | x |
-| **Test-Driven Development** | 4 | x |
-| **Encapsulation/Breaking Logic into Components** | 4 | x |
-| **Fundamental Ruby & Style** | 3 | x |
-| **Enumerable & Collections** | N/A | x |
-| **Code Sanitation** | N/A | x |
+| **Functional Expectations** | 3 | 4 |
+| **Test-Driven Development** | 4 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 4 | 4 |
+| **Fundamental Ruby & Style** | 3 | 4 |
+| **Enumerable & Collections** | N/A | 4 |
+| **Code Sanitation** | N/A | 4 |
 
 
 ## D: Professional Development
