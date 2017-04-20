@@ -44,6 +44,16 @@ We decided to leave feedback on eachothers linkedIn profiles, seems more effecti
 I enjoyed the idea behind this mod's gear up, but I think the format needs refactoring a bit. Our group fell apart between session 2 & 3 due to everybody's different priorities and scheduling, and that definitely showed when we tried to teach the lesson.
 
 
-Outcome
+## Final Review
+
+### Notes
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
+### Outcome
 
 PASSED
