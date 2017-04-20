@@ -69,7 +69,9 @@
 * [Microaggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
 * [Automation](https://github.com/turingschool/gear-up/blob/master/m4_sessions/automation/session_one/five_noah_eric_nicke_laszlo.md)
 
-Takeaways
+I read [this story](https://www.theatlantic.com/magazine/archive/2015/09/the-coddling-of-the-american-mind/399356/) a while back about microaggressions. I found myself agreeing a lot with the points made, but after the discussion and talking to some people individually, it changed my mind. My biggest take away from our discussion is that while you could argue about whether or not any single instance is a microaggression, what's more important is whether or not there is a pattern of microagression. I'm still on the fence about whether or not the historical context of racism or sexism in giving "special treatment" is really helpful in working towards equality. All of this strikes me as the same debate a generation ago of quotas vs. reverse racism.
+
+The Automation discussion was, unfortunately, really pessimistic. Although we were divided into two groups where one was supposed to come up with a list of cons and the other a list of pros, except both sides went the "cons" route. I think Trump's victory has really brought the realities of technology to the forefront. Personally, I think that technology has become a scapegoat for very real fears that people have about the future and globalism. Globalism, like technology, has touted itself as being great for democracy and equality, but we're starting to realize that these powers will not be equally great for all people. The TED Talk brought up a very important point, I think. That the power and opportunity created by technology are not going to be inherently egaltarian. That we need a variety of institutions (whether real or cultural or ethical) that will support that vision.
 
 ## E: Community Participation
 
