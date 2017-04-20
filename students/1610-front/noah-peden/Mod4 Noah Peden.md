@@ -225,8 +225,11 @@ The way humanity responded to global warming, have not much faith how humanity i
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 4
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASSED
