@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-*What did you set out to accomplish this module?
+*What did you set out to accomplish this module?*
 
 I set out to build on my fundamental HTML and CSS skills and develop working knowledge of JavaScript. JavaScript was entirely new to me coming into the program so I after getting my feet wet last mod I knew what areas I needed to focus on. I wanted to have a deeper understanding of objects and arrays and also to not be timid to try new things and build my confidence with javascript. 
 
@@ -18,7 +18,7 @@ I set out to build on my fundamental HTML and CSS skills and develop working kno
 
 ## A: End of Module Assessment
 
-*Indicate whether you passed or failed the end of module assessment
+*Indicate whether you passed or failed the end of module assessment*
 
 # Pentathlon: Code Challenge 1
 ## Evaluator: Bree
@@ -169,18 +169,18 @@ Good attention to detail on the UI implementation. Thoughtful choices around sma
 * [https://github.com/buji405/number-guesser](Github)
 * [http://frontend.turing.io/projects/number-guesser.html](Original Assignment)
 
-(description)
+*description*
 Build a game where the user guesses a number between 1 and 100.
 Build out phases 1-3 and push them to Github via the MASTER branch for evaluation.
 
-(evaluation comments)
+*evaluation comments*
 Evaluator: Louisa
 
 Optional Notes:
 
 Nicely done! She's made huge strides, this project was a great success. She could speak to all her code very effectively, was able to discuss and defend her choices when pushed. GOOD JOB CIARA!!!
 
-(evaluation scores)
+*evaluation scores*
 
 Functional Expectations
 
@@ -221,7 +221,7 @@ Proficient
 
 ### Projects
 
-*Intro
+*Intro*
 
 #### Foto Finder
 
@@ -233,7 +233,7 @@ Add a title, add a caption, add a photo and have it prepend to page in a card fo
 
 *evaluation comments*
 
-*evaluation scores
+*evaluation scores*
 
 Functional Expectations
 Proficient
@@ -272,7 +272,7 @@ DESIGN
 Comp Recreation
 Proficient
 
-*feedback to me
+*feedback to me*
 
 "Thank you for being so easy to talk to and empathetic to the struggles that I dealt with this week in grasping some of the concepts. I am very appreciative for your willingness to take the time to go thru each bit of our project to make sure I understood what we were doing. I felt like we communicated very well. Taking the time to walk through the git process together each time we made a commit was very helpful. For coaching feedback, I would just encourage you to speak up more often because you have such great ideas and and are so helpful in teaching difficult concepts.  Working with you was a great experience and I am proud of our finished project."
 
@@ -281,14 +281,14 @@ Proficient
 * [https://github.com/buji405/idea-box](Github)
 * [http://frontend.turing.io/projects/ideabox.html](Original Assignment)
 
-*description
+*description*
 In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
 
 Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 
-*evaluation comments
+*evaluation comments*
 
-*evaluation scores
+*evaluation scores*
 
 Functional Expectations
 
@@ -345,7 +345,7 @@ PAIRING
 Collaboration
 Proficient
 
-*feedback to me
+*feedback to me*
 
 "Ciara, thanks for being my partner!  I think the project went really well.  You did a great job figuring out the bugs we had with appending the ideas, and I appreciate you teaching me the various shortcuts and reminding me to use them as I kept forgetting.  Your use of github was also excellent and I even though I was hesitant I think it really helped for you to set up the issues board and close the issues with each commit of our project. For the next project, I would push you to try alternative ways to accomplish the various requirements for the project.  It would be a good way to learn something new from doing the same project again."
 
@@ -355,12 +355,12 @@ Proficient
 * [http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html](Original Assignment)
 * [https://gist.github.com/dstock48/0ded0b721e1ae3544b5f1dcbb1218173](DTR)
 
-*description
+*description*
 Took some else's ideaBox project and refactored it into a 2DoBox. Then added on several new features. Can filter ideas by their importance and by if they are completed or not. only have 10 cards showing and then click a button that shows the rest. 
 
-*evaluation comments
+*evaluation comments*
 
-*evaluation scores
+*evaluation scores*
 Functional Expectations
 Exceptional You completed Phase Three and did something with Phase Four.
 
@@ -405,12 +405,12 @@ Proficient Commits changes frequently with detailed commit messages. Uses featur
 Github
 Exceptional Uses issues as resource for project management. There are comments on specific lines of pull requests with discussion about the implementation.
 
-*feedback to me
+*feedback to me*
 
 "Pairing with Ciara for the 2DoBox project went really well! I think we were both able to get a lot out of it and improve in the areas that we set out to. I really appreciated how Ciara pushed me to write cleaner and more concise JS rather than the lengthier and hackier code that I'd been writing up until now. We were also able to pay closer attention to using branches on GitHub and being more concious about only making relevant code changes on specific branches. Our schedules worked perfectly together and we were able to work together as a team in person to get through the entire project including the extension, with time to spare to refactor and clean up/organize our code before eval. In terms of areas for improvment, I think there were a couple times where we both might have spent more time than we should have working on a specific feature before asking for help, where it might have been beneficial to ask for help earlier on. Specifically, the functionality of the 'enter' key submitting the form even when the submit button was disabled. Later on when we ran into another big hurdle, we did ask for help earlier on and it ended up being really helpful in keeping the project on track."
 
 ## D: Professional Skills
-*intro
+*intro*
 
 ### Gear Up
 #### (Growth Mindset)
@@ -437,7 +437,7 @@ I thought this video was valuable for everyone to see. As a woman watching it it
 
 ### Playing a Part
 
-*ways you supported the larger Turing community
+*ways you supported the larger Turing community*
 
 This module I joined the Verou Posse, which proved to be interesting and fun. It was cool to get some exposure to more advanced javascript and meet people from other mods. I also participated in a few of the lunch roulette sessions which was another nice way to meet people in the Turing community.
 
