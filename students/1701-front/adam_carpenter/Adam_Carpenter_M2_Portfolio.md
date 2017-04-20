@@ -181,3 +181,10 @@ I'm optimistic that Adam will become a strong programmer. I’ve been impressed 
 
 #### Contributions to the Turing community:
 I have opened up at least one hour a day to pair with mod1 on problems and projects, I only had a couple students take me up on this time but it was always successful and productive. I have also really enjoyed taking part in the IronFE groups a few times a week, this has really strengthened my understanding and has given me an opportunity to see how more advanced programs/students take on difficult problems.
+
+### Final Assessment
+A: End-of-Module Assessment: pass
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Feedback & Community Participation: 3.5
