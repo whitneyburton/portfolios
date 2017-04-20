@@ -92,7 +92,14 @@ Squee, thank you for being a great pair on the Enigma project. From the very beg
 
 **Feedback for Diana:**
 
-pending
+Hey Diana, I really appreciated all you brought to the table during Headcount. Your charts and spreadsheets helped us understand the data we were working with in an easy to read, relatable way. I also really appreciate that you can see the scope of a project and were able to help guide us as we worked through the spec. 
+
+Additionally, I really appreciated that you were understanding of the patterns my brain works in. When my brain would shut down and need some time and space, you were never judgemental. I know that can be frustrating, particularly when we’re working on a hard prolonged problem. Thanks for your understanding.
+
+I think the hardest part of the project for both of us was our communication. It seemed like we were rarely on the same page and that was clearly hard for both of us. I think part of the reason for our miscommunications arose from the pressure you felt when I would ask you a question. I would encourage you to let yourself have the time to think through the question without worrying that it could take you a minute. This would allow you to communicate in the partnership as well as take some of the pressure off yourself for worrying about the answer.
+
+Thanks again for taking the time to work with me. I really appreciated your time and your understanding of my work patterns. 
+
 
 
 **Feedback from Diana:**
