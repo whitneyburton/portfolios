@@ -10,7 +10,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | --- | --- |
-| A | **End-of-Module Assessments** | x |
+| A | **End-of-Module Assessments** | 3 |
 | B | **Individual Projects** | 3.5 |
 | C | **Group Projects** | 4 |
 | D | **Professional Development** | 3 |
@@ -22,9 +22,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | x |
-| Independent Timed Assessment | x |
-| Diagnostic | x |
+| Pairing Assessment | P |
+| Independent Timed Assessment | P |
+| Diagnostic | P |
 
 
 ## B: Individual Projects
@@ -38,6 +38,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Encapsulation/Breaking Logic into Components** | 4 | 3 | 3 |
 | **Fundamental Ruby & Style** | 3 | 3 | 3 |
 | **Loop or Recursion** | N/A | N/A | N/A |
+| **Enumerable & Collections** | N/A | N/A | 3 |
+| **Git Workflow** | N/A | N/A | P |
+| **REPL Interface** | N/A | N/A | 4 |
 
 #### Notes
 Notes on Credit Check from Mike
