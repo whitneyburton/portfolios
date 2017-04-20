@@ -24,7 +24,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | ----- | --- |
 | Pairing Assessment | PASS |
 | Independent Timed Assessment | PASS |
-| Diagnostic | 4/4 |
+| Diagnostic | PASS |
 
 
 ## B: Individual Projects
@@ -79,9 +79,16 @@ Feedback from partner projects.
 
 #### Project 2 (Sam Lim):
 
-**Feedback for ___________:**
+**Feedback for Sam Lim:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> I enjoyed working with Sam on the Headcount project.  Since this project was so large, we needed to divide and conquer as well as work together on integrating the pieces.  This gave us lots of experience with git branching, merging and the occassional merge conflict. 
+It was great to have someone with whom I could work independently as well as pair in person.  
+
+> Solely, in the interested of helping Sam grow as a developer, I wanted to point out that there were a couple of instances where Sam copy-and-pasted a solution from the web that was not a perfect fit.  I absolutely believe that being able to Google the right solution is one of the most valuable developer skills, and Sam has it. However, in just a few instances, I felt as though he might have been a little quick to accept what he found and would have been better off taking a moment to slow down and evaluate the code before putting testing it in the project.  
+
+> From a Git workflow, I would recommend for us both to try to get into the habit of pushing even when we don't feel like a feature is completely done or working. This is especially true when we are leaving the work for a bit since that is an opportunity for our project partner to review or even work on the code a bit.
+
+> Sam definitely brought a great perspective, strong knowledge and very good refactoring eye to the project.  I look forward to working with him again.
 
 **Feedback from ___________:**
 
