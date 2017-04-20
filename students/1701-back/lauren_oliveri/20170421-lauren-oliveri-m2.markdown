@@ -154,6 +154,13 @@ After much discussion and thought, I'm still not sure where I stand on the topic
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Notes
 
-> #### Outcome ( Leave blank for reviewers )
+*   Great blog posted
+*   Community participation increased, mentoring, supporting peers, putting strengths to good use.
+*   Would love to see RSpec blog post (no rush!)
+*   Glad to have you here!
+
+#### Outcome 
+
+PROMOTED
