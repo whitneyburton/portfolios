@@ -1,4 +1,4 @@
-# Kenia Farias - M4 Portfolio
+# Kenia Farias - M3 Portfolio
 
 ## Areas of Emphasis
 
@@ -19,7 +19,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## A: End of Module Assessment
 
 Pending
-
 
 ## B: Individual Work & Projects
 
@@ -141,10 +140,8 @@ The thing that gets me through some of the more stressful and just plain “give
 
 I think that Automation is taking jobs away from people , but that’s  inevitable. i think what we really need to focus on is how to take that information and make sure that the people who don’t really have a choice in the matter need to be taken care of in some way. If we  end up with millions of people being unemployed and only a certain percentage of people who’s jobs haven’t been replaced yet are able to get ahead in life. We  talked about a couple of ways to approach this subject. One idea that was interesting was the thought of universal income being a part of our lives if everything does in fact become automated. We can’t equal employment with livelihood or there will be a huge homeless population, so the idea was the universal income would cover  your necessities food etc. One thing that was brought up was being useful in a society that is already paying for your livelihood. I think in this situation it would be interesting to see what kinds of jobs would come out of that environment and if this system could possibly work. I think the top solution we came away with was education. in order to give people better footing to make sure they can survive in a world where technology is growing at a rate we can’t imagine we need to make sure we are teaching younger generations computer science and giving them the tools to succeed early on. I think Turing doesn’t a great job of reaching people that wouldn’t typically think this was the place for them. I also think we need to make sure we are doing what we can to volunteer some time into helping kids become passionate about technology because it is sure to be in their future.
 
-
-
 ### Professional Development Workshops
-#
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
@@ -180,8 +177,8 @@ I think that Automation is taking jobs away from people , but that’s  inevitab
 
 ### Notes
 
-( Leave blanks for reviewers )
+Be louder! Ask questions a lot.  
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending Assessment 
