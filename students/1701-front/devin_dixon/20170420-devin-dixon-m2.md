@@ -221,3 +221,9 @@ Attending/running IronFE and offering my help whenever someone needed it.
 ### Outcome
 
 PASS
+
+A: End-of-Module Assessment: Pass
+B: Individual Work & Projects: 4
+C: Group Work & Projects: Pass 3.5
+D: Professional Skills: 3
+E: Feedback & Community Participation: 4
