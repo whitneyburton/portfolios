@@ -20,7 +20,6 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 Pending re-evaluation
 
-
 ## B: Individual Work & Projects
 
 Where's It On?
@@ -213,7 +212,7 @@ Strengths:
 
 Staci is a joy to work with and consistently kept us positive and motivated. I look forward to working with her again soon.
 -	Confidence
-o	Staci knows a ton and if she doesn’t know right away she knows how to figure it out. At times, I could feel that she was doubting herself when she already had the answer. She should trust her intuition and allow space for mistakes.
+-	Staci knows a ton and if she doesn’t know right away she knows how to figure it out. At times, I could feel that she was doubting herself when she already had the answer. She should trust her intuition and allow space for mistakes.
 
 ### From Tim Brandle (Partner on Swapi Box)
 
@@ -223,7 +222,6 @@ I think you could work on writing tests, as we all could. I also think it would 
 ### From Rebecca Holt (Partner on Ember Hackathon)
 
 Staci is a great partner to work with. She is a great communicator and has great work ethic. She pays attention to the details which was really helpful when learning a new framework. She was really strong in finding the information we needed in the Ember docs and had a lot a patience of it.
-
 
 (feedback to me)
 
@@ -282,15 +280,14 @@ What role can Turing play in advancing civic responsibility in response to the c
 hmmmm……… my group and I discussed this and had a hard time coming up with a lot of answers here. We think they are on the right track by educating the students and continuing to place focus on the issue.
 
 
-
 ------------------
 
 ## Final Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+Keep digging into fundamentals and verbalizing technical terms  
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending assessment retake
