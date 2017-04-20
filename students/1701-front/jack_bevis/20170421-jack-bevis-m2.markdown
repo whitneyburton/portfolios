@@ -213,4 +213,10 @@ My goal this mod was to start playing a bigger part in the Turing community as a
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING (test scores up for weathrly)
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Feedback & Community Participation: 3
