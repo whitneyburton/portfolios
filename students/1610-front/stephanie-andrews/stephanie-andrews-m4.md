@@ -328,8 +328,12 @@ Anna:  I loved working with you on Savery. I think our group communication was e
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASSED
