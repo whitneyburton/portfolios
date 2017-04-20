@@ -1,7 +1,6 @@
 # Ralph Burnette - (M1) Portfolio
 
 ## Areas of Emphasis
-
 To attain a working knowledge of HTML, CSS and JS.
 
 ## Rubric Scores
