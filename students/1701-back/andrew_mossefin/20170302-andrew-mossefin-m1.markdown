@@ -11,7 +11,7 @@ This module I wanted to get comfortable with the general concepts of code struct
 
 | A | **End-of-Module Assessment** | 4 |
 | B | **Individual Projects** | 2.5 |
-| C | **Group Projects** | 3 |
+| C | **Group Projects** | 4 |
 | D | **Professional Development** | 3 |
 | E | **Community** | 3 |
 
@@ -119,9 +119,12 @@ I've tried to participate in Gear Up discussions as often as possible by being t
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+*   Really strong finish this module
+*   Remember to communicate around attendance
+*   Strong improvements in testing in particular and project completion
 
 ### Outcome
 
+
 (PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+

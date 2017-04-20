@@ -261,7 +261,11 @@ I attended all Friday events. No way around it, this is an area of growth for me
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: skip
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
