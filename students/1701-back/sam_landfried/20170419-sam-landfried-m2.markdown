@@ -53,12 +53,12 @@ Job Tracker was a fun challenge. It was essentially the same as Blogger and Mix 
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/markyv18/bike-share) | [Shop Repo](https://github.com/mariastenquist/mythical_mingled_emporium) |
-| **Functional Expectations** | 3 | X |
-| **ActiveRecord** | 2 | X |
-| **User Experience and Conventions** | 3 | X |
-| **Code Organization/Quality** | 3 | X |
-| **Testing** | 4 | X |
-| **Working Collaboratively** | 4 | X |
+| **Functional Expectations** | 3 | 3 |
+| **ActiveRecord** | 2 | 4 |
+| **User Experience and Conventions** | 3 | 4 |
+| **Code Organization/Quality** | 3 | 4 |
+| **Testing** | 4 | 4 |
+| **Working Collaboratively** | 4 | 4 |
 
 *Bike Share evaluation comments:*
 -Full CRUD for stations, weather/conditions, trips
@@ -66,9 +66,6 @@ Job Tracker was a fun challenge. It was essentially the same as Blogger and Mix 
 -Controller: needs to be a bit dryer
 -Kept logic out of views, more opps to move logic to models
 -Great testing
-
-Little Shop evaluation comments:
-\<Instructor Comments Here>
 
 ##### Feedback to me for Bike Share
 
