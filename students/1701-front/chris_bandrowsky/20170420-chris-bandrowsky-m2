@@ -29,7 +29,7 @@
 #### Assessment
 ###### Evaluator: Jhun
 
-*
+* Passed.
 
 
 ***
@@ -40,28 +40,69 @@ Summary about Individual Work
 
 #### (Sorting Suite)
 
-*   [GitHub URL](https://github.com/cbandrow/number-guesser)
-*   [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+*   [GitHub URL](https://github.com/cbandrow/sorting-suite)
+*   [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
 Summary of Project
 
-###### Evaluator: 
+###### Evaluator: Jhun
 
-* Evaluator Notes
+* Evaluator Notes: None
 
 ##### Evaluation Scores:
 
+###### 1. Fundamental JavaScript & Style
 
-#### (Complete-Me
+* 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-*   [GitHub URL](https://github.com/cbandrow/cb-comp-challenge-1)
-*   [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+###### 2. Test-Driven Development
+
+* 4: Application is broken into components which are well tested in both isolation and integration
+
+###### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+###### 4. Functional Expectations
+
+* 3: Application meets all requirements as laid out per the specification.
+
+###### 5. Code Sanitation
+
+* 4 - Zero complaints
+
+
+#### (Complete-Me)
+
+*   [GitHub URL](https://github.com/cbandrow/complete-me)
+*   [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
 Summary
 
-###### Evaluator: 
+###### Evaluator: Nate
 
-* Summary
+##### Evaluation Scores:
+
+###### 1. Fundamental JavaScript & Style
+// only use returns when needed, use objects vs key values in strings
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+###### 2. Test-Driven Development
+
+* 3.5: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+###### 3. Encapsulation / Breaking Logic into Components
+// pass dictionary into populate for 3.5
+* 3.5: Application effectively breaks logical components apart but breaks the principle of SRP
+
+###### 4. Functional Expectations
+* 3: Application meets all requirements as laid out per the specification.
+
+###### 5. Code Sanitation
+
+The output from ESLint shows…
+
+* 4 - Zero complaints
 
 
 ***
@@ -74,8 +115,8 @@ Projects Summary
 
 #### (Gametime)
 
-*   [GitHub URL](https://github.com/cbandrow/linked-list)
-*   [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+*   [GitHub URL]()
+*   [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
 Summary
 
@@ -89,7 +130,7 @@ Summary
 #### (Weathrly)
 
 *   [GitHub URL](https://github.com/cbandrow/ideabox)
-*   [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+*   [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
 Weathrly Summary
 
