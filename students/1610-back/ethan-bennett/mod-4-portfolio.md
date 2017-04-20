@@ -1,6 +1,17 @@
 # Ethan Bennett — Module 4 Portfolio
-## 
 
+### **Areas of Emphasis**
+
+This was a weird mod. Walking in, I already knew what technology I was going to be working with on the job, so it presented an awkward challenge. I wanted to spend as much time and energy as possible on Solidity/Ethereum, but I didn't want to get left in the dust by the rest of the cohort in the curriculum either. I'm not sure I acheived that balance perfectly, but I probably learned more in this mod than any of the others since the first. In light of that, I would call it a success.
+
+### **Rubric Scores**
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Feedback & Community Participation**: 4
+
+-----------------------
 
 ### **Final Assessment**
 
@@ -45,7 +56,7 @@ As of now, my work for Populus and Web3.py isn't ready to be merged. I communica
 
 For our Capstone project, we built an app using React, Solidity/Truffle, and Rails that can track a food's origin on the Ethereum blockchain. The first sprint wasn't graded, but here's the second and third:
 
-**Sprint Two:**
+### **Sprint Two:**
 
 #### Project Management
 
@@ -71,7 +82,9 @@ For our Capstone project, we built an app using React, Solidity/Truffle, and Rai
 
 * 3: Team has implemented code to increase accessibility.
 
-**Sprint Three:**
+
+
+### **Sprint Three:**
 
 #### Project Management
 * 3: Team is using well formatted user stories and moving cards through each status in realtime
