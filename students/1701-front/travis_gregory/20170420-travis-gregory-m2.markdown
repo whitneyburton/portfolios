@@ -1,4 +1,4 @@
-# Travis Gregory - M1 Portfolio
+# Travis Gregory - M2 Portfolio
 
 ## Areas of Emphasis
 
