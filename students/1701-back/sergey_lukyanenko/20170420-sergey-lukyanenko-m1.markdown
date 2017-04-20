@@ -46,18 +46,18 @@ Practiced working with Waffle and writing comments in GitHub.
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/ryt11/bike-share) | [Shop Repo](https://github.com/NessEFC/turing_escapes) |
-| **Functional Expectations** | 2 | x |
-| **ActiveRecord** | 2.5 | x |
-| **User Experience and Conventions** | 3 | x |
-| **Code Organization/Quality** | 4 | x |
-| **Testing** | 4| x |
-| **Working Collaboratively** | 3 | x |
+| **Functional Expectations** | 2 | pass |
+| **ActiveRecord** | 2.5 | pass |
+| **User Experience and Conventions** | 3 | pass |
+| **Code Organization/Quality** | 4 | pass |
+| **Testing** | 4| pass |
+| **Working Collaboratively** | 3 | pass |
 
 ##### Feedback to me for Bike Share
 
   >* From Ken Lee: Sergey, I’m glad we had an opportunity to work on a project together. You always kept on the positive side and always wanted to learn. You took the opportunity to say I don’t know and can you explain what’s going on. Those moments helped me learn more because I was thinking the same thing but did not ask. You willingness to take on hard problems and keep on it until it was completed is admirable.
 
-  >* From Riley Thompson:
+  >* From Riley Thompson: Working with Sergey on Bike Share was a rewarding experience. I enjoyed his willingness to collaborate and share his ideas so readily, which helped to keep a steady work flow through out the project.  I was impressed constantly by Sergey’s work ethic and focus. His determination was inspiring and helped me push through some tough spots in our project. I would be willing to work with  him in another setting in an instant.
   
 
 ##### Feedback to me for Little Shop
