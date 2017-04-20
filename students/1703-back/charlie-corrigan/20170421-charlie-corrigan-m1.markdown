@@ -74,7 +74,7 @@ Notes on Battleship from Mike
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 |
 | **Fundamental Ruby & Style** | 3 | 3 |
 | **Enumerable & Collections** | N/A | 3 |
-| **Code Sanitation** | N/A | x |
+| **Code Sanitation** | N/A | 3 |
 
 #### Notes
 Notes on Enigma from Mike
