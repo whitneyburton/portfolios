@@ -376,7 +376,11 @@ I also attend demo nights to support my fellow students.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 3
 
 ### Outcome
 
