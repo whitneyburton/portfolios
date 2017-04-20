@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For module 1, I aspire to obtain a solid understanding of Ruby fundamentals in order to supplement my professional skills and experience. In addition to technical knowledge, I also would like to further develop my strengths, assess my weaknesses, enable self-awareness and improve my communication skills.
 
 ## Self-Assessment Scores
 
@@ -10,7 +10,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | --- | --- |
-| A | **End-of-Module Assessments** | 3 |
+| A | **End-of-Module Assessments** | 2 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
 | D | **Professional Development** | 4 |
@@ -24,7 +24,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | ----- | --- |
 | Pairing Assessment | PASS |
 | Independent Timed Assessment | FAIL |
-| Diagnostic | x |
+| Diagnostic | FAIL |
 
 
 ## B: Individual Projects
@@ -79,11 +79,11 @@ Feedback from partner projects.
 
 **Feedback for Nick Edwards:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nick has been a thoughtful, brilliant and focused partner throughout the entirety of our project. Nick’s Ruby skills and ability to parse through the hefty amounts of data to make complex calculations really motivated me and educated me as we worked together. Nick made sure to talk me through his portions of the code and allowed me to drive for the majority of the project. He’s super open to any contributions and questions I had regarding our work throughout the iterations. I encourage Nick to continue building his stamina for partner collaborations and keep up the great communication. I learned a lot by partnering with Nick and I am also grateful for his encouragement of taking meaningful breaks as I have a problem with working non-stop without regard for necessary intermissions. Thanks, Nick!
 
 **Feedback from Nick Edwards:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+TBA
 
 ### Job Prep
 
@@ -115,7 +115,7 @@ My experience at Turing thus far has been different than the unfortunate experie
 
 ### Community Participation
 
-Throughout my time at Turing, I openly and enthusiastically participated in several community events such as demo nights, weekly guest speakers, weekly gear ups, the SAB mixer, additional weekend/evening "classes", mentor pairing, pairing with upper mod students, pairing with Turing alumni and extracurricular outings with my cohort. 
+Throughout my time at Turing, I openly and enthusiastically participated in several community events such as demo nights, weekly guest speakers, weekly gear ups, the SAB mixer, additional weekend/evening "classes", mentor pairing, pairing with upper mod students, pairing with Turing alumni and extracurricular outings with my cohort.
 
 -------------------------------------------------------------
 
