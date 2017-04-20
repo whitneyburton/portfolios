@@ -20,32 +20,40 @@ _I set out to accomplish getting my developer legs underneath me, again. Having 
 
 ### Pentathlon: Code Challenge 1 (Evaluator: Louisa, Grade: Pass)
 Great walking through thinking and plan of attack. Broke out small functions from the get-go. Thoughtful about next-steps with refactoring.
-* JAVASCRIPT - Data Types (__Proficient__)
-* JAVASCRIPT - Conditional Logic (__Proficient__)
-* JAVASCRIPT - Functions & Scope (__Proficient__)
-* JAVASCRIPT - Objects & Prototypes (__Proficient__)
-* JAVASCRIPT - DOM Manipulation (__Proficient__)
-* JAVASCRIPT - Style (__Proficient__)
-* DEBUGGING - Dev Tools/Debug Process (__Exceptional__)
+
+| Category        | Sub-Category           | Grade  |
+| :------------- |:-------------|:----- |
+| JavaScript      | Data Types | **Proficient** |
+| JavaScript      | Conditional Logic      |  **Proficient** |
+| JavaScript | Functions & Scope      |  **Proficient** |
+| JavaScript | Objects & Prototypes      |  **Proficient** |
+| JavaScript | DOM Manipulation      |  **Proficient** |
+| JavaScript | Style      |  **Proficient** |
+| Debugging | Dev Tools/Debug Process      |  **Exceptional** |
 
 ### Pentathlon: Code Challenge 2 (Evaluator: Bree, Grade: Pass)
-* JAVASCRIPT - Data Types (__Proficient__)
-* JAVASCRIPT - Conditional Logic (__Proficient__)
-* JAVASCRIPT - Functions & Scope (__Exceptional__)
-* JAVASCRIPT - Arrays (__Proficient__)
-* JAVASCRIPT - Objects & Prototypes (__Proficient__)
-* JAVASCRIPT - Style (__Proficient__)
-* TESTING - Test Comprehension (__Exceptional__)
-* DEBUGGING - Dev Tools/Debug Process (__Exceptional__)
+
+| Category        | Sub-Category           | Grade  |
+| :------------- |:-------------|:----- |
+| JavaScript      | Data Types | **Proficient** |
+| JavaScript      | Conditional Logic      |  **Proficient** |
+| JavaScript | Functions & Scope      |  **Exceptional** |
+| JavaScript | Arrays      |  **Proficient** |
+| JavaScript | Objects & Prototypes      |  **Proficient** |
+| JavaScript | Style      |  **Proficient** |
+| Testing | Test Comprehension      |  **Exceptional** |
+| Debugging | Dev Tools/Debug Process      |  **Exceptional** |
 
 ### Pentathlon: Static Comp Challenge (Evaluator: Robbie, Grade: Pass)
-* HTML - Accessibility (__Exceptional__)
-* HTML - Style (__Proficient__)
-* CSS - Structure of Code (__Proficient__)
-* CSS - Implementation (__Proficient__)
-* DESIGN - Comp Recreation (__Proficient__)
-* DESIGN - Design Concepts (__Proficient__)
 
+| Category        | Sub-Category           | Grade  |
+| :------------- |:-------------|:----- |
+| HTML      | Accessibility | **Exceptional** |
+| HTML      | Style      |  **Proficient** |
+| CSS | Structure of Code      |  **Proficient** |
+| CSS | Implementation      |  **Proficient** |
+| Design | Comp Recreation      |  **Proficient** |
+| Design | Design Concepts      |  **Proficient** |
 
 ## B: Individual Work & Projects
 
