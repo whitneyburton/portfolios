@@ -161,8 +161,7 @@ The output from JSHint shows…
 * 3.5- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application has at least 6 components built out.
 
 ### Testing
-// jest test
-* 2.5 - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
+* 3
 
 ### Workflow
 
