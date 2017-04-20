@@ -239,4 +239,10 @@ Helped out by offering pairing sessions with members of 1703. Had three sessions
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 4
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3.5
+E: Feedback & Community Participation: 3.5
