@@ -231,4 +231,9 @@ Being able to connect with you in Turing and take advantage of your knowledge an
 
 ### Outcome
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: Pass
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 4
+D: Professional Skills: 3
+E: Feedback & Community Participation: 4
+
