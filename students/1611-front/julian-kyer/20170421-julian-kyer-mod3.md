@@ -157,6 +157,7 @@ I think my personal brand has a compelling story, and will be helpful to pull on
 * Iron FE and interview prep starting over intermission
 
 ##### Weekly Tasks:
+* Commit to pairing with mod 2/3
 * Job search Sundays, Wednesdays
 * IronFE 2x week
 * Saturday afternoon portfolio work
@@ -205,8 +206,8 @@ To Mike Fenwick: "I really enjoy working with Mike. He is very inquisitive and w
 
 ### Notes
 
-( Leave blanks for reviewers )
+Work with earlier mods, commit to working on ironFE and fundamentals  
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
