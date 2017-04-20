@@ -36,7 +36,7 @@
 ## B: Individual Work & Projects
 
 #### Blog Post:
-> [Automation Transformations](https://)
+> [The Automation Transformation](https://medium.com/@victoria.vasys/the-automation-transformation-d762c12c0ad3)
 
 #### Tutorials: Blogger & Mix Master
 > These were really lengthy and difficult to get through as I really need to take notes to digest new concepts and there just wasn't enough time to get past the bare minimum. This was unfortunate because the extensions looked really exciting & useful, but I referred to them many times throughout Little Shop and I'm sure they'll be valuable resources in the future.
@@ -59,12 +59,15 @@
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/dannyradden/bike-share) | [Shop Repo](https://github.com/bschwartz10/little_shop_of_orders/pull/92) |
-| **Functional Expectations** | 4 | X |
-| **ActiveRecord** | 3 | X |
-| **User Experience and Conventions** | 4 | X |
+| **Functional Expectations** | 4 | 3 |
+| **ActiveRecord** | 3 | N/A |
+| **User Experience and Conventions** | 4 | 3 |
 | **Code Organization/Quality** | 4 | X |
-| **Testing** | 4 | X |
-| **Working Collaboratively** | 4 | X |
+| **Views** | N/A | 3.5 |
+| **Controllers** | N/A | 4 |
+| **Models** | N/A | 3.5 |
+| **Testing** | 4 | 3 |
+| **Working Collaboratively** | 4 | 3 |
 
 > Bike Share evaluation comments:
 1. You've gained a pretty deep understanding of the power of AR; share that knowledge! (spike, post-class session)
@@ -73,7 +76,11 @@
 4. In future projects, be more aware of individual commits; commit often & split up driving responsibilities.
 
 > Little Shop evaluation comments:
-\<Instructor Comments Here>
+1. Fun concept; the site was generally navigable and enjoyable to use.
+2. Needs "Mark as Paid" on all order show pages for admin
+3. Could use some refactoring of styles from HTML to CSS (image sizes), and updating .strftime with order model method.
+4. Order show page could pass in order_powers instead of powers so that you don't have to pass an order object through the power models (just call order_power.power_quantity instead of messy method)
+5. Needs model testing for custom methods
 
 ##### Feedback to me for Bike Share
 
@@ -165,7 +172,7 @@ Brett, it's been another delightful & successful project together! I am seriousl
 
 #### **Playing a Part**
 
-  > I've gone to most Friday lectures, led the re-formatting, organization, and communication for the current Mod 1 pairing, led an ActiveRecord methods refresher, attended most Joan Clarke & Imposter meetings, TA'ed at a Try Turing Weekend, motivated other students to tour my mentor's work with me and learn some Arduino and soldering skills at the hackers' space, DenHack, co-organized the transforming of the Wellness Challenge to a web app with the Hamilton Posse, and sparked the revival of the Turing Podcast, which I now co-host along with a Mod 2 Front-end student, Travis Gregory.
+  > I've gone to most Friday lectures, led the re-formatting, organization, and communication for the current Mod 1 pairing, am a pre-work guide for an incoming 1705er, led an ActiveRecord methods refresher, attended most Joan Clarke & Imposter meetings, TA'ed at a Try Turing Weekend, motivated other students to tour my mentor's work with me and learn some Arduino and soldering skills at the hackers' space, DenHack, co-organized the transforming of the Wellness Challenge to a web app with the Hamilton Posse, and sparked the revival of the Turing Podcast, which I now co-host along with a Mod 2 Front-end student, Travis Gregory.
 
 ------------------
 
