@@ -178,6 +178,8 @@ From: Eric
 From: Edilene
 <p>You are a powerhouse!!! You impressed me the first time we paired and you still do. Management skills, problem solving, wit, determination are only a few things I can say about you. Please continue teaching others while being kind and accepting. I know this can sound cheesy but you will become an irreplaceable developer and any company will be lucky to have you on their team. </p>
 
+From: Spencer
+<p> Charlotte, has the dedication coupled with the willingness to stretch her abilities makes you an extremely valuable team member and a pleasure to work with. She served as project manager and I truly believe that she drove everyone in our team to do the best work that we could do while contributing huge amounts of work herself. She was willing to help any way that she could to drive each member of the group to success. My only concern for Charlotte is driven by two of her strongest qualities: drive and dedication. I believe that her willingness to pull long hours comes from a love of the work, however, over time this can become grueling. Particularly if she continues to take on the majority of work in team settings, as each group member should contribute meaningfully, relieving her of some of the weight she shoulders for the betterment of the team. Charlotte, you are truly an incredible programmer, and I have no doubt in my mind that you will be extremely successful, but don't overwork yourself on the way there! Try and smile once ;) </p>
 
 ------------------
 
