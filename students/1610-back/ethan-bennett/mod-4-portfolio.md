@@ -42,7 +42,7 @@ This was a weird mod. Walking in, I already knew what technology I was going to 
 
 ### **Individual Work**
 
-For my open source contribution, I worked on two projects for the Python/Ethereum ecosystem: [Populus]() (a development framework for Solidity) and [Web3.py]() (a Python implementation of the Web3 library, which communicates with the Ethereum blockchain from Python files).
+For my open source contribution, I worked on two projects for the Python/Ethereum ecosystem: [Populus](https://github.com/pipermerriam/populus) (a development framework for Solidity) and [Web3.py](https://github.com/pipermerriam/web3.py) (a Python implementation of the Web3 library, which communicates with the Ethereum blockchain from Python files).
 
 I verified several bugs locally, but the one I'm closest to solving is [here](https://github.com/pipermerriam/web3.py/issues/161#issuecomment-294399734). The comment from the owner that mentions it being "done soon" is in reference to my work on the project.
 
