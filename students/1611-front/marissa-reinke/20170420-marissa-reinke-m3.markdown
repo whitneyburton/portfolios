@@ -191,8 +191,8 @@ MOD4 AI - Although the info didn't feel that different from the other AI gearup 
 
 ### Notes
 
-( Leave blanks for reviewers )
+Do more things. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending project additions
