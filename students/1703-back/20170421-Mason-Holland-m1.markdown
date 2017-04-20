@@ -62,7 +62,7 @@
 | **Testing** | PASS |
 | **Workflow** | PASS |
 | **Collaboration** | PASS |
-| **Enumerable & Collections** | N/A |
+| **Enumerable & Collections** | PASS |
 
 #### Assessor Comments
 
@@ -89,12 +89,13 @@
 | - | - | - |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [link](https://github.com/MasonHolland/enigma) | [link](https://github.com/MasonHolland/headcount) |
-| **Functional Expectations** | 4 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | X | X |
+| **Functional Expectations** | 4 | 2 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 |
+| **Sanitation** | X | 3 |
 | **Teamwork** | X | X |
+
 
 ## D: Professional Development
 
