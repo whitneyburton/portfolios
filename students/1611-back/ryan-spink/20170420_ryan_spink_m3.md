@@ -2,7 +2,9 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+ This module was about pushing myself to do my best work under pressure. After mod 2, I felt confident in my abilities to rapidly learn programming and mod 3 honed in my ability to teach myself. I had heard that this module was the hardest, and that it eats people up...so my goal was to hit the ground running, take up every challenge I could, expand my community involment further, and never look back. 
+ 
+ I think that I was successful in accomplishing what I set out to do. I learned SO much this module, handled the pressure, tried to help others and give back to the community, and pretty much loved every minute of it. Big thanks to Sal and Ali, you guys were great and we'll miss your teachings and support as we move on! 
 
 ## Rubric Scores
 
