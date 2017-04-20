@@ -287,8 +287,8 @@ I regularly checked in on 1701 and made sure to spend time with others helping
 
 ### Notes
 
-( Leave blanks for reviewers )
+Be the voice! Stay positive, encourage others to stay positive. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
