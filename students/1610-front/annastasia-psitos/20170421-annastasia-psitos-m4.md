@@ -112,8 +112,12 @@ Led final mod Gear Up on Automation with three other Mod 4 students. Paired with
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASSED
