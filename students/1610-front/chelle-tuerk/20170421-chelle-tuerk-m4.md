@@ -213,6 +213,7 @@ You don't want to commit [WIPS](https://github.com/chelletuerk/jet-fuel/commit/5
 Points: 125 / 150
 
 #### FEEDBACK FROM ELIJAH WILLIAMS:
+I really enjoy pairing wth Chelle.  She is driven, friendly, and easy to work with.  She knows her stuff, and It’s apparent that she puts in the time.  Having paired with her in mod2, it was really cool to see her growth in just a few weeks.  She is more disciplined and independent, and that’s really matured her as a developer.  My challenge to her is to continue to push into dissecting the logic of the code she writes until everything begins to ‘click.’  Chelle is both an outstanding person and a fantastic developer.
 
 ### Projects
 
