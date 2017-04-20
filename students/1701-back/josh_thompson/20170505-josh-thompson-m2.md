@@ -46,7 +46,11 @@ Some of her specific feedback was encouraging, related to how I broke apart func
 
 #### Blog Post:
 
-[Understanding (and breaking) D3](https://josh.works/blog/tour-of-d3)
+[Understanding (and breaking) D3](https://josh.works/blog/tour-of-d3) <= published on my website, but with bad code formatting and image handling.
+
+I wrote it originally [in a gist](https://gist.github.com/josh-works/e02242b959f0422077c801cef02ab838) and the formatting is way better than on my blog.
+
+I might move to jekll soon...
 
 #### Tutorials: Blogger & Mix Master
 
@@ -112,7 +116,7 @@ Josh: I really appreciate your positive, “who-cares-if-things-get-fucked-up”
 
 **Chris**
 
-> pending
+> Josh, I think you made a great project manager.  You knew how to talk to us and communicate what you wanted.  You were respectful and worded any criticisms well.  Thank you for being encouraging and helping me when I was stuck.  Your calm nature and approach to things is a breath of fresh air.
 
 **Seth**
 
