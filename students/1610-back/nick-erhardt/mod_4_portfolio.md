@@ -5,6 +5,12 @@
 
 ### Rubric
 
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
+
 Subjective evaluation will be made on your work/process according to the following criteria:
 
 #### 1. Satisfactory Progress
