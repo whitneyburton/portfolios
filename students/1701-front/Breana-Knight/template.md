@@ -221,4 +221,10 @@ Daniel (pairing) - I was extraordinarily pleased to have had the opportunity to 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3
+D: Professional Skills: 3
+E: Feedback & Community Participation: 3
