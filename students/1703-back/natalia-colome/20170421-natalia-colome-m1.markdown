@@ -37,7 +37,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | N/A | 3 | 2 |
 | **Encapsulation/Breaking Logic into Components** | 2 | 3 | 3 |
 | **Fundamental Ruby & Style** | 2 | 3 | 3 |
-| **Loop or Recursion** | N/A | 3 | x |
+| **Loop or Recursion** | N/A | 3 | N/A |
+| **Enumerable & Collections** | N/A | N/A | 3 |
+| **Git Workflow** | N/A | N/A | fail |
+| **REPL Interface** | N/A | N/A | 3 |
 
 
 ## C: Group Projects
@@ -50,8 +53,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | 4 | x |
 | **Encapsulation/Breaking Logic into Components** | 4 | x |
 | **Fundamental Ruby & Style** | 3 | x |
-| **Enumerable & Collections** | x | x |
-| **Code Sanitation** | x | x |
+| **Enumerable & Collections** | N/A | x |
+| **Code Sanitation** | N/A | x |
 
 
 ## D: Professional Development
@@ -101,9 +104,7 @@ Even though sometimes frustration or stress can trigger a fixed mindset, we must
 
 #### Session 2: Getting Better at Difficult Things
 
-I have limited cognitive resources and I need to manage them well in order to learn more efficiently. There are three stages of learning: can't do -- do with effort -- mastered. To better manage my learning process I should focus my learning on a few, more specific skills; break thing into pieces, get high-quality high-quantity examples, find mentors or pairings to guide me and immerse myself in the environment. So it's basically focus on small things at a time and surround myself in the field to be constantly in contact with what I want to learn. 
-
-Also, a big part of managing my learning is managing my emotions, and learning to handle frustration and stress. I have limited cognitive resources and I need to manage them well, not on feeling bad about myself or 
+I have limited cognitive resources and I need to manage them well in order to learn more efficiently. There are three stages of learning: can't do -- do with effort -- mastered. To better manage my learning process I should focus my learning on a few, more specific skills; break thing into pieces, get high-quality high-quantity examples, find mentors or pairings to guide me and immerse myself in the environment. So it's basically focus on small things at a time and surround myself in the field to be constantly in contact with what I want to learn.  
 
 #### Session 3: Dealing with Difference: Introvert vs. Extrovert
 
