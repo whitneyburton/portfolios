@@ -42,3 +42,8 @@ We decided to leave feedback on eachothers linkedIn profiles, seems more effecti
 
 ### Gear Up
 I enjoyed the idea behind this mod's gear up, but I think the format needs refactoring a bit. Our group fell apart between session 2 & 3 due to everybody's different priorities and scheduling, and that definitely showed when we tried to teach the lesson.
+
+
+Outcome
+
+PASSED
