@@ -165,6 +165,20 @@ Tim is a great partner to work with. His problem solving skills are top-notch. H
 **Hugh Morrison**
 Tim is a great team member. He has a voracious intellectual appetite and approaches difficult problems in a truly gritty manner. He's keen to take novel approaches to problem solving and communicates well. 10/10 look forward to working together again.
 
+**Pam Lovett**
+Positive feedback *
+I had the opportunity to work with Tim for a paired UX/UI project as well as a larger project where a group of us implemented React, Redux, and Router 4 in an application. Without a doubt, Tim is one of the hardest working students in our cohort.  He has a deep passion for solving problems and an insatiable curiosity, which is both admirable and contagious.  Tim is one of the first persons whom I seek out when I need assistance with my work, which is largely due to the characteristics I have named and his excellent communication skills.
+
+
+**Kenia Farias**
+Areas for improvement *
+Tim should continue to reach out for help from those who can give him nudges in the right direction when he may be stuck with a problem for longer than usual. He has sometimes hesitated to do so in the past (which is feedback I gave to him while doing our group project). Since giving him this feedback initially, I have seen change his strategies and reach out to those around him more.
+
+Positive feedback *
+You have laser focus! Working with you on Movie Tracker was a great experience. We were all a little nervous going into Redux, but you had a great attitude towards the project and we were able to get it done. You have a great understanding of JS and React and were able to solve problems quickly. I'm really looking forward to working with you in the future.
+Areas for improvement *
+Take more breaks!
+
 
 ## Final Review
 
