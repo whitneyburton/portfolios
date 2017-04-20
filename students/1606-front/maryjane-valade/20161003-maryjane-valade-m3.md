@@ -168,10 +168,5 @@ I am so fortunate to have gotten to know MaryJane over the past 3 modules at Tur
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS

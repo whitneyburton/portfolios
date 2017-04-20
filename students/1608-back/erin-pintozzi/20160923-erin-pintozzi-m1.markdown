@@ -12,7 +12,7 @@ I think I did a really good job working on this goal. I maintained a google doc 
 * Attended Imposter's Lunch meetings
 * Joined a posse (Bezos)
 * Joined a small group project within my posse
-* Particpated as an active listener during all the guest speaker sessions (aka not doing project work instead) 
+* Particpated as an active listener during all the guest speaker sessions (aka not doing project work instead)
 * Met quite a few new people outside of my cohort
 
 #### Goal 2 - Tap in to the Turing Network
@@ -49,7 +49,7 @@ Given the large number of points, I chose not to itemize each accomplishment on 
 
 #### 4. Workflow
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
- 
+
 #### 5. Collaboration
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
@@ -60,7 +60,7 @@ Given the large number of points, I chose not to itemize each accomplishment on 
 
 ## B: Individual Work & Projects
 
-The following indivdual projects were not completed as a group/partnership but rather as an individual effort. 
+The following individual projects were not completed as a group/partnership but rather as an individual effort. 
 
 ### Sorting Suite
 
@@ -75,16 +75,16 @@ This project was not formally evaluated, however if I were scoring myself I'd no
 
 #### Evaluation Scores
 If I were scoring myself, I'd rate my work on this project as:
-#### 1. Functional Expectations 
+#### 1. Functional Expectations
 * 3: All three sort classes work as expected
 
 #### 2. Test-Driven Development
 * 0: No testing was done for this project
 
-#### 3. Fundamental Ruby & Style 
+#### 3. Fundamental Ruby & Style
 * 2: Code runs effectively but has large issues with readbility (long methods, confusing method or variable names, etc)
 
-#### 1. Organization 
+#### 1. Organization
 * 1: Components work together properly
 
 
@@ -104,19 +104,19 @@ This project required that we take movie titles and scores and store them in a b
 
 #### Evaluation Scores
 
-#### 1. Functional Expectations 
+#### 1. Functional Expectations
 * 2: Application is missing one base expectation
 
 #### 2. Test-Driven Development
 * 2: Application makes some use of tests, but the coverage is insufficient
 
-#### 3. Encapsulation / Breaking Logic into Components 
+#### 3. Encapsulation / Breaking Logic into Components
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-#### 4. Fundamental Ruby & Style 
+#### 4. Fundamental Ruby & Style
 * 2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
-#### 5. Looping or Recursion 
+#### 5. Looping or Recursion
 * 3: Application makes effective use of loop/recursion techniques
 
 
@@ -192,7 +192,7 @@ For this project, we built and encrpytion engine that could also decrypt and cra
 * 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
 
 ##### Feedback from Megan
-Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her. 
+Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her.
 
 ### Headcount
 
@@ -248,7 +248,7 @@ The professional skills sessions are an integral part of our Turing program beca
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
 ##### Takeaways
-My biggest takeaway from this session is to try and better understand my learning style and to think about different ways to improve and be an effective learner. In the video of Kathy Sierra's keynote, I was really fascinated by her discussion about the efficiency with which we get things done that we are really good at versus those we are not. It would be a fun experiment to do a lot of drills on the same topic to see if I could gain a level of expertise in something within the time frame that Kathy recommends (3 sessions no longer than 90 mintues?). I also reflected a lot on how when I get frustrated, I enter a heightened emotional state which really inhibits my learning. As a result, I've made a very pointed effort to take more breaks when I reach high levels of frustratation. It's actually helped quite a bit- I finish things more quickly and I generally feel far less stressed. 
+My biggest takeaway from this session is to try and better understand my learning style and to think about different ways to improve and be an effective learner. In the video of Kathy Sierra's keynote, I was really fascinated by her discussion about the efficiency with which we get things done that we are really good at versus those we are not. It would be a fun experiment to do a lot of drills on the same topic to see if I could gain a level of expertise in something within the time frame that Kathy recommends (3 sessions no longer than 90 mintues?). I also reflected a lot on how when I get frustrated, I enter a heightened emotional state which really inhibits my learning. As a result, I've made a very pointed effort to take more breaks when I reach high levels of frustratation. It's actually helped quite a bit- I finish things more quickly and I generally feel far less stressed.
 
 #### There is an I in team
 
@@ -305,7 +305,7 @@ My takeaways from this session are about the importance of communication and fee
 * Reflection on Results
 
 ##### Takeaways from Session
-My takeaways from this session are a mixed bag. This is actually the second time I've taken StrengthsFinder in 3 years. Only one of my 5 traits was the same in both, so I'm not sure if I've just changed a TON in ~3 years or if the test just isn't all that reliable. The thing is, I see all 9 traits in myself, so it's hard to say with certainty which strengths are the best to focus on. The said, the actual activities were interesting to help me self-assess what I want to do with the results, how they can help me, and how I can avoid seeing any of my strengths as harmful. The last time I did the assessment, it never really went anywhere- no activities or refection, so I'm enjoying the progression of further examining these traits and further improving upon them. 
+My takeaways from this session are a mixed bag. This is actually the second time I've taken StrengthsFinder in 3 years. Only one of my 5 traits was the same in both, so I'm not sure if I've just changed a TON in ~3 years or if the test just isn't all that reliable. The thing is, I see all 9 traits in myself, so it's hard to say with certainty which strengths are the best to focus on. The said, the actual activities were interesting to help me self-assess what I want to do with the results, how they can help me, and how I can avoid seeing any of my strengths as harmful. The last time I did the assessment, it never really went anywhere- no activities or refection, so I'm enjoying the progression of further examining these traits and further improving upon them.
 
 ## E: Feedback and Community Participation
 
@@ -321,7 +321,7 @@ Daniel, I like that we started out with a DTR so we could get on the same page, 
 
 *Michael Scherer*
 <br/>
-Michael, though we've not been paired on a full project, the times that we've been paired for in class activities have all been really positive experiences. You seem very intentional and thoughtful in your words and coding choices which I think are great traits for a budding developer since we will be making those choices all the time both here at Turing and in the working  world. We also were paired in a reflection group and you offered great insight and advice for the topic at hand (improving paired relationships). I think you have a lot of great qualities and contributions to offer and would love to hear you continue to find ways to speak up share those ideas both in paired exercises and group discussion. Even if we're never paired together for a project, I'm looking forward to hearing more about what you have to say in class, and I'm glad you're in my cohort. 
+Michael, though we've not been paired on a full project, the times that we've been paired for in class activities have all been really positive experiences. You seem very intentional and thoughtful in your words and coding choices which I think are great traits for a budding developer since we will be making those choices all the time both here at Turing and in the working  world. We also were paired in a reflection group and you offered great insight and advice for the topic at hand (improving paired relationships). I think you have a lot of great qualities and contributions to offer and would love to hear you continue to find ways to speak up share those ideas both in paired exercises and group discussion. Even if we're never paired together for a project, I'm looking forward to hearing more about what you have to say in class, and I'm glad you're in my cohort.
 
 *Susi Irwin*
 <br/>
@@ -335,7 +335,7 @@ Ali, am really grateful that you are a part of our cohort. You exude a lot of co
 
 *Megan Talbot*
 <br/>
-Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her. 
+Erin was my first partner in a paired project, and I was so happy to work with her. She was very communicative and flexible. She was great at checking in with me to see how I was feeling about our progress. We both could have done more whiteboarding and planning ahead, but we realized that quickly! Overall, Erin was an excellent partner and I was happy to work with her.
 
 *Daniel Shin*
 <br/>
@@ -356,13 +356,13 @@ I have enjoyed collaborating with Erin this module. Whenever asked, she readily 
 
 ### Playing a Part
 
-This module I've tried to support the Turing Community by being open to new experiences and participating in things I might not typically do. I often get very nervous and anxious in large groups, especially in new surroundings, so I wanted to keep pushing myself to get involved and meet peers so that I could be an active community member. 
+This module I've tried to support the Turing Community by being open to new experiences and participating in things I might not typically do. I often get very nervous and anxious in large groups, especially in new surroundings, so I wanted to keep pushing myself to get involved and meet peers so that I could be an active community member.
 <br/>
 <br/>
-I joined the Bezos posse which was a lot of fun. It has been great meeting people across all the mods who share a similar, non-coding interest. Within Bezos, I even joined a project group where go to work closely with a smaller group of students. Though not a requirement, I'm really glad I did that. I think our small group learned from each other, and I even made a front-end friend, which is awesome since the separate locations can make that a little more challenging. 
+I joined the Bezos posse which was a lot of fun. It has been great meeting people across all the mods who share a similar, non-coding interest. Within Bezos, I even joined a project group where go to work closely with a smaller group of students. Though not a requirement, I'm really glad I did that. I think our small group learned from each other, and I even made a front-end friend, which is awesome since the separate locations can make that a little more challenging.
 <br/>
 <br/>
-I have also participated in a few of the Joan Clarke Society coffee meetings. This group of ladies is so supportive, and it's been particularly great meeting some graduates, hearing about their interview and job experiences, and getting advice. It's also helpful because they share the female perspective in an industry where I don't always feel like I belong. I hope I can pay it forward and do the same as I progress through the program. 
+I have also participated in a few of the Joan Clarke Society coffee meetings. This group of ladies is so supportive, and it's been particularly great meeting some graduates, hearing about their interview and job experiences, and getting advice. It's also helpful because they share the female perspective in an industry where I don't always feel like I belong. I hope I can pay it forward and do the same as I progress through the program.
 <br/>
 <br/>
 Third, I participated in Imposters Lunch almost every Wednesday. This group is really exciting because it's hard when it feels like there's no one "like me" who understands what I'm going through, when the reality is, everyone here is like me . I've been both on the giving and receiving end of ideas and tactics for battling imposter syndrome and as with the other groups, have really enjoyed getting to know the "older" students, as well as some in my own cohort. I think the solidarity of knowing that not only are there other like me, but even people who sit right next to me every day, makes it much easier to feel less alone and more confident and I continue through Turing, and I hope I've insprired others in the group to feel the same.
@@ -373,9 +373,9 @@ Third, I participated in Imposters Lunch almost every Wednesday. This group is r
 
 ### Notes
 * Very thoughtful goals for the module
-* Upward trend on individual work. 
+* Upward trend on individual work.
 * Partner work solid, learned new interpersonal skills and strategies
 * Very active community participation, effort to flex into new territories seems fruitful
 
 ### Outcome
-PROMOTED 
+PROMOTED

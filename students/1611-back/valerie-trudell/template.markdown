@@ -6,8 +6,6 @@
 
 ## Rubric Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module:
-
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
@@ -59,6 +57,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 (Intro)
 
 ### Gear Up
+
 #### Tragedy of the Commons
 https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown 
 We'll explore the concepts from Parable of the Polygons (PotP) within the context of diversity in tech.
@@ -83,6 +82,7 @@ We'll explore the concepts from Parable of the Polygons (PotP) within the contex
     
 4.    PotP is a pretty sweet example of how technology can illustrate complex ideas. What are PotP's goals, and how effective do you think the game is in advancing those goals? 
       
+
 
 
 
