@@ -2,11 +2,13 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+A better understanding of the rails environment and how it interacts with APIs. 
+Stronger MVC management
+Try new technology and take risks progmatically
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: PASS
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
@@ -189,7 +191,21 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 
 *   Did the team push themselves by taking risks?
     *   1: Yes
-(feedback to me)
+    
+From Ryan Spink
+Dan, it was a pleasure to work with you on Cloney Island. Your attention to detail, hard work, and dedication to producing a great project was a boon to our team. While we did not work together for most of the project, I particularly enjoyed pairing with you to successfully POST from our companion application. You have a knack for styling…all of the pages you styled looked fantastic and it gave our project a professional feel. I don't have any critical feedback for you; your hard work is reflected in the quality of our final product!
+
+From Max Glassie
+Dan:
+You’ve been a consolation and a support to me since the beginning of module 1. It was fantastic to finally have the chance to work on a team together. I am endlessly impressed not with your ability to style an application (which is apparent in how good our project looks) but also your technical knowledge about the Rails framework. You handled some really tricky aspects of our project. 
+You have an amazing work ethic and dedication to producing a great product. You are a supportive and collaborative teammate and were receptive to feedback on your code. I’ve seen you grow consistently throughout our time at Turing and this project was no exception; be confident in your skills and keep up the good work. 
+
+From Andrew Wooten
+It was great to finally get to work with you on a project. The work you contributed to the project was phenomenal, and we absolutely wouldn’t have been successful in the project without your contributions. Your attention to detail and organization of code is amazing. I greatly respect your drive to push through problems, no matter how tedious, and get to the other side where there are even more problems to tackle. The only suggestion I suppose I have for you to carry forward is to just relax. We got this! It was a pleasure to get to work with you. Look forward to pairing up on some problems with you in the future.
+
+From Katy Farmer
+Dan:
+It was great to work with you again on Cloney Island. You were very focused, and you were able to tackle all the issues you were assigned. Based on our previous experience working together, I was really impressed with the progress you’ve made, both as a programmer in general and in your ability to find creative solutions to problems. You also asked for help when necessary, which is a great addition to your skill set. It was a pleasure to have you on the team delivering features.
 
 ## D: Professional Skills
 (Intro)
@@ -197,15 +213,20 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 ### Gear Up
 #### (Session Name)
 
-* [GitHub URL]()
+* https://github.com/tmikeschu/gear-up/blob/f902d71e6d86a3fd293a5a24b10705c6c34be755/m4_sessions/automation/session_one/one_elijah_annie_schutte_devin.md#pre-reading
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Automation: This was a very interesting topic. Thought this would have made UBI a more interesting gearup if we had had this one first. To hear peoples opinions of how automation will affect our lives was enlightening. My big takeyaway is that we need to be responsible with our technology and make sure that we keep inovating. Yes there will be less of the jobs ew have toady but we need to think about the jobs we want to create tomorrow.
+
+* https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown
+Micro aggresion: This is a sketchy topic for me. Part of me believes that this is a legitimate topic and part of me thinks it's not productive for society. First off, I dont condone any kind of discrimination. That being said, I feel like if we keep looking for discrimination in subtle phrases you are going to find them. We cant always disect every word that comes out of someones mouth. People can turn any inoccent thing we say into a big deal. On the flip side if someone is saying something deliberately and repetitively that is when there is true micro aggression/descrimination.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Being a leader in Turing Lab has been great. We are building an arcade machine that we are going to donate to the school. Our goal is to make it so people can create games and play them on the machine.
+
+Have done many pairings with lower mods. I really like pairing with people because it gives me a chance to look at code and touch material that I havent seen in a while. Also hearing how people attack problems help give me new ideas about how I can look at my code problems.
 
 ------------------
 
