@@ -152,6 +152,12 @@ As web developers you’re going to be living in the context of the web. With th
 4 - Zero complaints
 
 
+### Peer Reivews
+Krisit Green - Thanks Dave for pairing with me on mythical creatures, the session was really a big help for me.  We were able to work through a few issues I had with one of the creatures and I left with a better understanding of how to solve it.
+
+Adam Carpenter - Dave and I have paired on two projects now and the projects we have partnered on have gone the smoothest out of any projects I have worked on at Turing. He has a strong grasp of fundamentals, functional programming and the logic behind it that makes working on hard problems with him a lot more enjoyable. He is also great at explaining techniques that I don’t yet have a grasp on and that is why I learn so much when I work on projects with him.
+
+
 ### Playing a Part
 
 I have participated in most, if not all events, that have been required of Turing students. However when considering taking on tasks outside of course work, I have shied away due to fear of taking on too many tasks. Having a better understanding of the course load and Turing’s all around structure, I look forward to some of the opportunities the Turing community has to offer. 
