@@ -33,9 +33,7 @@
 
 ## Feedback & Community
 
-  I accomplished two community contributions this mod. I facilitated a gear-up last week on the 14th and I paired four times with mod 1 students. Once on battleship, and thrice on Headcount.
-
-  I included Feedback from Annie, because she is the only group member from this mod I have never worked with.
+  I accomplished two community contributions this mod. I facilitated a gear-up last week on the 14th and I paired three times with mod 1 students. Once on battleship, and twice on Headcount.
 
   Feedback from Annie:
 
@@ -53,6 +51,6 @@ I’m so glad we got a chance to work together again, and it really meant a lot 
 
 Lucy, working with you is always an exercise in success. You are an excellent teammate and coder- even in the face of immense challenges. The Johari Window project was a great idea, and I am thankful you were open to letting me jump in and work on it. You will go far as a professional software developer, and some day, SOME DAY, we might solve AuthO. Thanks again for the great experience.
 
-Feedback to David:
+  Feedback to David:
 
 David, working with you is a pleasure. You are a smart young guy and I have no doubt you will be successful in life. There is no coding challenge you cannot figure out, and I admire that about you. Remember, one point of improvement I recommend to you is to be more organized in the future. Other than that,you are a great coder and teammate, and I hope to keep in touch with you into the future.
