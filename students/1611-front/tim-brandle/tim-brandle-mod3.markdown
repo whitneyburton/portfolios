@@ -184,8 +184,8 @@ Take more breaks!
 
 ### Notes
 
-( Leave blanks for reviewers )
+Throw fewer tomatoes at the wall 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending project readme
