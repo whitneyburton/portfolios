@@ -52,12 +52,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [(http://backend.turing.io/module1/projects/enigma](http://backend.turing.io/module1/projects/enigma) | [http://backend.turing.io/module1/projects/headcount](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [https://github.com/Benjaminpjacobs/enigma](https://github.com/Benjaminpjacobs/enigma) | [https://github.com/Benjaminpjacobs/headcount](https://github.com/Benjaminpjacobs/headcount) |
-| **Functional Expectations** | 4 | x |
-| **Test-Driven Development** | 4 | x |
-| **Encapsulation/Breaking Logic into Components** | 4 | x |
-| **Fundamental Ruby & Style** | 4 | x |
-| **Enumerable & Collections** | - | x |
-| **Code Sanitation** | - | x |
+| **Functional Expectations** | 4 | 4 |
+| **Test-Driven Development** | 4 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 4 | 4 |
+| **Fundamental Ruby & Style** | 4 | 4 |
+| **Enumerable & Collections** | - | 4 |
+| **Code Sanitation** | - | 4 |
 
 
 ## D: Professional Development
@@ -86,11 +86,11 @@ Cheers, Bao
 
 **Feedback for Ben Ross:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My parter was excellent to work with and a strong asset to the team. His patience, relentlessly positive attitude, upbeat demeanor, sense of humor and attention to detail kept us on track and in a great head space throughout. He was easy to schedule with and made himself available whenever and where ever it was convenient for me. He was particularly fantastic in pairing sessions tempering my speed with thoughtful design ideas and incisive questions that pushed us in the right direction. My only constructive feedback is that I wish he would have been more vocal with me about when and where he might have been feeling lost/confused/ or simply unsure of the code we were writing. I believe his reticence was probably rooted in his not wanting to “slow me down” or “slow the project down" but I would have much preferred to move slower and him to have gotten even more out of the experience. In the future I hope he can feel comfortable enough in a pairing to be more open about this, it will just make the project stronger. Overall, working with Ben was a phenomenal experience and I thoroughly enjoyed it.
 
 **Feedback from Ben Ross:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ### Job Prep
 
