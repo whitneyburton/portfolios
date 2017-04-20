@@ -44,13 +44,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link]() |
-| **Github** | [link](https://github.com/wthoma22/project_enigma) | [link]() |
-| **Functional Expectations** | 3 | x |
-| **Test-Driven Development** | 4 | x |
-| **Encapsulation/Breaking Logic into Components** | 4 | x |
-| **Fundamental Ruby & Style** | 3 | x |
-| **Enumerable & Collections** | N/A | x |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
+| **Github** | [link](https://github.com/wthoma22/project_enigma) | [link](https://github.com/rongxanh88/headcount) |
+| **Functional Expectations** | 3 | 3 |
+| **Test-Driven Development** | 4 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 4 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 |
+| **Enumerable & Collections** | N/A | 3 |
 | **Code Sanitation** | N/A | x |
 
 
@@ -78,11 +78,11 @@ Feedback from partner projects.
 
 **Feedback for Bao Nguyen:**
 
-> It was a great pleasure working with Bao on the Headcount project.  Overall, I believe we were a great team together and created a fantastic final project.  We were able to work diligently in a positive environment, delegating workloads appropriately whilst never running into any issues.  I have no negative feedback to give, just that I had a great time working with Bao and appreciate how much I learned through seeing his implementations within the project.
+> It was a great pleasure working with you on the Headcount project.  Overall, I believe we were a great team together and created a fantastic final project.  We were able to work diligently in a positive environment, delegating workloads appropriately whilst never running into any issues.  I have no negative feedback to give, just that I believe some more practice and growth within git workflow would be beneficial for your overall productivity. I had a great time working with you, Bao, and appreciate how much I learned through seeing your implementations within the project.
 
 **Feedback from Bao Nguyen:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> pending
 
 ### Job Prep
 
