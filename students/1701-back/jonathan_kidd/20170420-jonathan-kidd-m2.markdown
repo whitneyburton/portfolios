@@ -53,13 +53,13 @@
 | CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
-| **Github Repo** | [Bike Repo](https://) | [Shop Repo](https://) |
-| **Functional Expectations** | 3 | X |
-| **ActiveRecord** | 2 | X |
-| **User Experience and Conventions** | 4 | X |
-| **Code Organization/Quality** | 4 | X |
-| **Testing** | 4 | X |
-| **Working Collaboratively** | 4 | X |
+| **Github Repo** | [Bike Repo](https://github.com/jk1dd/bike-share) | [Shop Repo](https://github.com/jk1dd/mythical_mingled_emporium) |
+| **Functional Expectations** | 3 | 3 |
+| **ActiveRecord** | 2 | 4 |
+| **User Experience and Conventions** | 4 | 4 |
+| **Code Organization/Quality** | 4 | 4 |
+| **Testing** | 4 | 4 |
+| **Working Collaboratively** | 4 | 4 |
 
 > Bike Share evaluation comments:
 Weather CRUD: solid,
@@ -69,7 +69,7 @@ Style: quirky yet sufficient,
 Heavily relying on Ruby instead of ActiveRecord for manipulations
 
 > Little Shop evaluation comments:
-\<Instructor Comments Here>
+N/A
 
 ##### Feedback to me for Bike Share
 
