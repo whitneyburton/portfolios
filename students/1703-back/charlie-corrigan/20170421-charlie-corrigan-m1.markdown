@@ -112,13 +112,14 @@ Feedback from partner projects.
 
 #### Project 2 (Partner Name):
 
-**Feedback for ___________:**
+**Feedback for Natalia:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Natalia,
+Working on Headcount with you has been a joy. I think that the way you were able to approach such an intimidating project with confidence and efficiency helped us to get off to a great start. When we discovered at the end of iteration 3 that we needed to scrap a lot of our code, you were not only willing to let go of our old code -- you also were able to help us start fresh with energy and a positive attitude. You communicate well, you're willing to compromise, you have a fantastic grasp of the skills we've learned so far; and, you were able to apply all of those things to making Headcount a really great experience. It's difficult to think of anything that you need to improve on, so instead I would just like to encourage you to keep going, keep learning, and remember to recognize and honor your own strengths -- you have a lot of them. I hope we get to work together again sometime.
 
-**Feedback from ___________:**
+**Feedback from Natalia:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Even though our project was very challenging and sometimes frustrating, I really enjoyed working on it with you. I love how you write down things to better understand them and how you took your time to explain them to me. Even though we have different approaches to working on a problem, we worked really well and we complemented each other. You are very logical, methodical and calm and I really appreciated your balance, specially when I started feeling frustrated about the project I could count on you step back and put things into perspective. There is always something we can improve: remembering to do more git commits, splitting our work load sooner and checking in with our classmates to look for opportunities in our code, but as a partner, you communicate really well, you were open to my input and I have nothing but great things to say about you.
 
 ### Job Prep
 
