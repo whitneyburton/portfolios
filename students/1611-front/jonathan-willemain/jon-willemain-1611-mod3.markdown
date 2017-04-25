@@ -131,6 +131,39 @@ Submitted deliverables on the Turing website
 
 ## E: Feedback and Community Participation
 
+To me:
+
+Daniel Bucket
+Jon has maintained an approachable persona. He has always been been willing to pull away if only for a few minutes to see if he can at least help guide me in right direction on whatever it was I was working on. On a few occasions he even sought me out to see how I was during on my project. I found that his willingness, genuine concern, effort was key to my success as a student. It literally enabled me to be successful at a mod level. I’d recommend him for a special award if I could.
+
+Rebecca Holt
+Jon was enjoyable to work with. He is open and honest with his ideas and welcomes other's. He isn't afraid to delete everything and start over to make sure he understands the concepts. I look forward to working with him in the future
+
+Dylan Avery
+Will it snow?
+Will it rain?
+Will we pleasure?
+Will we pain?
+Will we treble?
+Will we gain?
+A friend like Jon, Willemain?
+
+Franklin Crosby
+Strengths:
+     - Positive: Jon keeps a smile on his face and always makes a point to keep the mood light
+     - Honest: I always feel that Jon speaks his mind and lets you know when things are working or not
+     - Persistent: Jon stuck with issues we were having until we were able to figure them out. This served us very well
+Growth:
+     - Focus: Jon at times can get sidetracked. I think sticking to 25min work periods would help with this.
+
+Jon was a great team member and always kept me smiling and moving forward. I look forward to working with him again.
+
+From me:
+
+I have always sought Franklin for help, and finally had an opportunity to work on a project with him. I like how he is able to break a problem down and make sure everyone understood what he was thinking and then look to the group to see what we thought on a solution. I feel like a better programmer after working with him. I honestly don't have a critique for him, he is a great person to be around and work with.
+
+Staci is an amazing individual to work with, I had an opportunity to do a group project with her and Franklin. There was a time where we felt like we were not as far as some of the other groups, and Staci didn't mind going at a slower pace to make sure all of us understood the material. Outside of that project she has always been there for me and she has been a huge part of my success at Turing. You are very intelligent and know the material, my only knock is that you need to be more confident. You bring great ideas to the group and everyone improves when you share them. Staci and I are going to be friends long after we are done at Turing.
+
 ### Playing a Part
 
 I think I have done a very good job being a part of the Turing community this past mod, I love helping the lower mods when they need help, Tim and I even ran a spike. I also helped someone with the data tries project, which I was telling myself I would not do. I feel like I can still do more by going to meet-ups and representing Turing and minorities in the Denver devs community.
