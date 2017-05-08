@@ -109,7 +109,7 @@ pending
 
 #### Session 1: Growth Mindset
 
-I love the concept of Growth Mindset. Growing up, I'm pretty sure I had a fixed mindset. Most things came easily to me, so when something was actually challenging, I didn't know how to approach it. It wasn't until my last job, especially when I started to learn to code, that I learned how to learn. I think Growth Mindset is really just an infatuation with learning. Once you love to learn, you may face stumbling blocks and frustration, but you'll keep coming back. 
+I love the concept of Growth Mindset. Growing up, I'm pretty sure I had a fixed mindset. Most things came easily to me, so when something was actually challenging, I didn't know how to approach it. It wasn't until my last job, especially when I started to learn to code, that I learned how to learn. I think Growth Mindset is really just an infatuation with learning. Once you love to learn, you may face stumbling blocks and frustration, but you'll keep coming back.
 
 I've had many 'not yet' moments already in my time in Turing. I'm just feeling much more patient and INFINITLY more confident that yet will happen. :D
 
@@ -125,7 +125,7 @@ The document students are given to guide the conversation is so helpful. I loved
 
 #### Session 4: Working Styles
 
-There's so much discussion - online and in life - about how to accomodate an introvert in social situations. It never really occurred to me to worry about the extrovert's experience. I just assumed "They like people! They must be comfortable working with all kinds of people! Done!" But man, they still have specific needs. I know this sounds really foolish, and after this session, I felt like a total tool for not even considering it. But man... That was an eye-opener! 
+There's so much discussion - online and in life - about how to accomodate an introvert in social situations. It never really occurred to me to worry about the extrovert's experience. I just assumed "They like people! They must be comfortable working with all kinds of people! Done!" But man, they still have specific needs. I know this sounds really foolish, and after this session, I felt like a total tool for not even considering it. But man... That was an eye-opener!
 
 #### Session 5: Strengths and Storytelling
 
@@ -135,7 +135,7 @@ A large part of what will help us get jobs once we finish Turing is being able t
 
 For most of this mod, I was really focusing on getting my footing under me. Around week 4, I started feeling more comfortable here and had an idea about how I fit into the larger group. At that point, I started to more actively reach out to the people who I knew were struggling. I wanted to be able to support them as they learned more about coding and how they fit into the Turing community.
 
-I've already started talking to Erin about being a co-host of Imposters Lunch for next mod. That weekly meetup has been enormously beneficial for me, and I'd like to be able to use it as a conduit to help the next round of mod 1 find their place in Turing. 
+I've already started talking to Erin about being a co-host of Imposters Lunch for next mod. That weekly meetup has been enormously beneficial for me, and I'd like to be able to use it as a conduit to help the next round of mod 1 find their place in Turing.
 
 -------------------------------------------------------------
 
@@ -145,4 +145,4 @@ Please leave blank for assessor.
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED

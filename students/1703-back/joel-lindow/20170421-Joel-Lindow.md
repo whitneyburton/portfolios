@@ -172,8 +172,7 @@ After 5 weeks at Turing I didn't feel like a different person. However, I was a 
 ## Final Review
 
 *   Note 1
-*   Note 2
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED
