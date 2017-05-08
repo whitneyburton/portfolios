@@ -70,22 +70,20 @@ What could be better? In hindsight I think we pushed too hard Wednesday night fo
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/slague/bike-share) | [Shop Repo](https://) |
-| **Functional Expectations** | 3 | X |
-| **ActiveRecord** | 2 | X |
-| **User Experience and Conventions** | 4 | X |
-| **Code Organization/Quality** | 4 | X |
-| **Testing** | 4 | X |
-| **Working Collaboratively** | 4 | X |
+| **Functional Expectations** | 3 | 3 |
+| **ActiveRecord** | 2 | - |
+| **User Experience and Conventions** | 4 | 3 |
+| **Code Organization/Quality** | 4 | 3/3/4 |
+| **Testing** | 4 | 4 |
+| **Working Collaboratively** | 4 | 3 |
 
-Bike Share evaluation comments:
-  Weather CRUD: solid
-  Trip CRUD: solid
-  Station CRUD: solid
-  Style: quirky yet sufficient
-  Heavily relying on Ruby instead of ActiveRecord for manipulations
+Bike Share evaluation comments:  
+*   Weather CRUD: solid  
+*   Trip CRUD: solid  
+*   Station CRUD: solid  
+*   Style: quirky yet sufficient  
+*   Heavily relying on Ruby instead of ActiveRecord for manipulations  
 
-> Little Shop evaluation comments:
-\<Instructor Comments Here>
 
 ##### Feedback to me for Bike Share
 
@@ -165,9 +163,14 @@ Natalie:  It was great to get to work with you on this project. I appreciated th
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Notes
 
-> #### Outcome ( Leave blank for reviewers )
+*   Great technical developments, hitting stride
+*   Using skills for good ;)
+*   Solid contributions to team, cohort
 
+#### Outcome
+
+PROMOTED
 
 ------------------------------------------------

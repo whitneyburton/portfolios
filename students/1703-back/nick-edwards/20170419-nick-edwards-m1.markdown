@@ -151,4 +151,4 @@ Please leave blank for assessor.
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED

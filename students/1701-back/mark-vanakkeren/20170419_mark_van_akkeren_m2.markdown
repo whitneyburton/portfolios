@@ -2,15 +2,18 @@
 ## Areas of Emphasis
 Really looking forward to actually building out a functional application and no longer playing only in the terminal.  Having something to look at will be nice.  I have a familiarity with HTML/CSS/JS that might help in this mod.  So far (week 2) I'm liking the flow of CRUD.  We'll have to see what RAILS brings.
 
-## Self-Assessment
+## Self-Assessment   
+
 | Category | Score (optional) |  
-| --- | ----- | 
+| --- | ----- |
 | **End-of-Module Assessment** | 3 |
 | **Individual Work & Projects** | 3 |
-| **Group Projects** | 3 |
+| **Group Projects** | 4 |
 | **Professional Development** | 4 |
 | **Feedback & Community Participation** | 3 |
+
 Takeaways, your experience: I got a little over confident with the ease of how the first few weeks went.  This bit me in the ass hard come week 5/6.  Baseline understandings of the work we are doing is there but I really want to know all of it better.  I'm comfortable with it at a high level just need to really expose myself to more granular interconnectivity with all of the RAILS functions.
+
 -----------------------
 ## A: End-of-Module Assessment
 | Category | Score (optional) |
@@ -43,12 +46,12 @@ Takeaways, your experience: Damn.  Teaming up with two RAILS masters was intimid
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/markyv18/bike-share) | [Shop Repo: ](https://github.com/markyv18/lobby_shop) |
-| **Functional Expectations** | X | X |
-| **ActiveRecord** | X | X |
-| **User Experience and Conventions** | X | X |
-| **Code Organization/Quality** | X | X |
-| **Testing** | X | X |
-| **Working Collaboratively** | X | X |
+| **Functional Expectations** | 3 | X |
+| **ActiveRecord** | 2 | X |
+| **User Experience and Conventions** | 3 | X |
+| **Code Organization/Quality** | 3 | X |
+| **Testing** | 4 | X |
+| **Working Collaboratively** | 4 | X |
 
 Bike Share evaluation comments:
 Stuff.
@@ -93,7 +96,7 @@ Ack, still conflicted on this one.  Jotted stuff down in the note book then went
   <br /><br />
   For Sam: in retrospective you did a fantastic job at the PM organization.  While i bristled with what seemed like over kill at times it was good to always be on the same page and always have good communication lines open.  I have taken a lot away from that and totally will be applying elements in future groups.
 <br /><br />
-For Chris:  C-dale brings both positivity and a grounded attitude to the team. At times you and I can be the weaker members of the team with regard to the code base but can still add value thru speaking up on approach and insight to the use cases.  It’s really hard to fight and stand up for your inclusion and learning potential in these projects when your teammates are strong but we can’t depend on them to give us work or to naturally take into account things we might need to feel we’ve played a role.  Be empowered to step in and ask/take/discuss what piece of the pie you can take and complete.   More often than not when the subject is breached people are willing to work with us in this area.  Keep your head up and keep pushing :) 
+For Chris:  C-dale brings both positivity and a grounded attitude to the team. At times you and I can be the weaker members of the team with regard to the code base but can still add value thru speaking up on approach and insight to the use cases.  It’s really hard to fight and stand up for your inclusion and learning potential in these projects when your teammates are strong but we can’t depend on them to give us work or to naturally take into account things we might need to feel we’ve played a role.  Be empowered to step in and ask/take/discuss what piece of the pie you can take and complete.   More often than not when the subject is breached people are willing to work with us in this area.  Keep your head up and keep pushing :)
 <br /><br />
 ##### Feedback from me for Little Shop
 <br /><br />
@@ -107,6 +110,13 @@ In the spirit of the soup nazi you can call me the coffee nazi (geez we need to 
 <br /><br />
 ------------------
 ## Final Review
- #### Notes ( Leave blank for reviewers )
- #### Outcome ( Leave blank for reviewers )
-Add Comment
+
+#### Notes
+
+*   Nice work on retake
+*   Great reflections on GearUp
+*   Will focus on MixMaster (authorization/automation and Rails fundamentals)
+
+#### Outcome
+
+PROMOTED
