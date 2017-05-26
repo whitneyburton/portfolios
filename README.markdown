@@ -26,57 +26,34 @@ A submission summarizes your accomplishments in these key areas:
 2. Follow instructions in [portfolio expectations](http://backend.turing.io/module1/portfolios/portfolio_expectations) to create your folder and file for your M1 portfolio.
 3. Copy the template code from the [M1 template markdown](http://backend.turing.io/module1/portfolios/portfolio_template) to your new file.
 4. Update placeholder text in template.
-5. Commit your changes, push to your remote repo, then create a PR to the turing/portfolios repo.
+5. Commit your changes, push to your remote repo, then create a PR to the `turing/portfolios` repo.
 
 
 ### Module 1 (Front-end)
 
 Your promotion to the next module is based upon a summative assessment coined the Pentathlon. The Pentathlon includes:
-  1. Individual Coding Challenge-A: Passing Score (All 3's) required
-  2. Individual Coding Challenge-B: Passing Score (All 3's) required
-  3. Final Project (Static Comp Challenge #3) -- Passing Score (All 3's) required
+  1. Individual Coding Challenge-A: Passing Score (Proficient in all areas) required
+  2. Individual Coding Challenge-B: Passing Score (Proficient in all areas) required
+  3. Final Project (Static Comp Challenge #3) -- Passing Score (Proficient in all areas) required
   4. Comprehensive Quizlette: Passing Score (80% correct answers) required
   5. Completed Portfolio
 
-Your completed portfolio is comprised of the following required material:
+Your completed portfolio is also comprised of the following required material:
 
 * Course Projects:
- * Linked List
- * Number Guesser
- * Idea Box
- * 2DoBox Pivot
+  * Number Guesser
+  * Linked List or Foto Finder
+  * Idea Box
+  * 2DoBox Pivot
 
 * Professional Development:
   * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
-  * Feedback: Paragraph; Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
+  * Feedback Paragraphs: Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-* Individual Assessment: Passing Score (All 3's) required
-* Required Project: ToDo Box Pivot, Shoot the Breeze, FireBae (Tier Two) -- scores should all be passing (All 3's) or show gradual improvement
-* Included Projects:
- * Weatherly
-* Professional Development:
-  * Copy for a personal website
-  * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Seven cold emails sent to seven different contacts from the company tracker
-  * Reflection on project management strategies used in projects: What went well? What didn’t go well?
-  * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
-* Community:
-  * A recap of reflections from Gear Up
-* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
-  * Required feedback from at least one student outside of your cohort who you have paired with (Mod 1 student, back end student) AND/OR a mentor.  
-=======
-=======
->>>>>>> 2dd6346665f23578ead5e4a275bd423150927934
 * Community:
   * A recap of reflections from Gear Up
 
 You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of those evaluations and in advance of portfolio reviews.
-<<<<<<< HEAD
->>>>>>> f32b7bb3f3c32c043b5b0ef5580afa4544119878
-=======
->>>>>>> 2dd6346665f23578ead5e4a275bd423150927934
 
 ### Module 2 (Back-end)
 
@@ -182,7 +159,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 ### Module 4 (Front-end)
 
 * Individual Assessment
-* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, Real Time & Homework Assignment
+* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, BYOB
   * Should include points breakdown per project
 * Professional Development:
 *PD deliverables should be submitted via email to Meg at [mstewart@turing.io](mail:to)*
@@ -192,7 +169,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Community:
   * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
-  
+
 ## Submission Guidelines
 
 A pull request with your submission must be made at least 12 hours before your
