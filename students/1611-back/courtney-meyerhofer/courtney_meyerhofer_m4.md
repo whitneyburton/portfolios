@@ -109,16 +109,13 @@ The unit tests in the backend are well written and fast.*
 
 #### Capstone: Will Legislate For Money
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/meyerhoferc/will-legislate-for-money)
 
 (description)
 
 (evaluation comments)
 
 (evaluation scores)
-
-(feedback to me)
 
 ## D: Professional Skills
 (Intro)
