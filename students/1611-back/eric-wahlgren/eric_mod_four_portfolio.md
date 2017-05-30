@@ -1,4 +1,4 @@
-# Eric Wahlgren-Sauro - M3 Portfolio
+# Eric Wahlgren-Sauro - M4 Portfolio
 
 ## Areas of Emphasis
 For this module it was important to me that Javascript become my ally. 
