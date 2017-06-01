@@ -9,10 +9,10 @@
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -111,14 +111,13 @@ The unit tests in the backend are well written and fast.*
 
 * [GitHub URL](https://github.com/meyerhoferc/will-legislate-for-money)
 
-(description)
+Will Legislate For Money is a Python/Django app built as a tool to give voters easier access to information on their legislators’ campaign funding and congressional action.
 
 (evaluation comments)
 
 (evaluation scores)
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Vote Your Conscience
@@ -136,19 +135,11 @@ It was difficult to refrain from talking about the current election in the conte
 
 (takeaways from session)
 
-## E: Feedback and Community Participation
-
-### Giving Feedback
-
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
-
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I was co-lead of the Armstrong posse this inning with Max Glassie. This involved goal-setting and intentional planning as well as co-hosting events outside of normal Spike time. We hosted lunch on Tuesday every week, coordinated happy hours with alumni in the blockchain community, and prioritized passing along the leadership to keep the posse going after we leave. We created weekly agendas that involved giving lightning talks, working through tutorials, and hosting Q&As. 
+
+I gave a talk at Denver.rb about the Ruby Interpreter and hosted/organized an interview prep session one weekend. I started a repo for Turing students to add interview questions related to general concepts, the cultural interview, and coding challenges. I also created a gear up session with Max Glassie, Dan Olson, and Ryan Spink about the ethics of the snowden leaks.
 
 ------------------
 
