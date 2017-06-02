@@ -110,6 +110,7 @@ The unit tests in the backend are well written and fast.*
 #### Capstone: Will Legislate For Money
 
 * [GitHub URL](https://github.com/meyerhoferc/will-legislate-for-money)
+* [Live Site](http://legislate.money)
 
 Will Legislate For Money is a Python/Django app built as a tool to give voters easier access to information on their legislators’ campaign funding and congressional action.
 
