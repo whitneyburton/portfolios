@@ -117,10 +117,6 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Individual Assessment
 * Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, BYOB
   * Should include points breakdown per project
-* Professional Development:
-*PD deliverables should be submitted via email to Meg at [mstewart@turing.io](mail:to)*
-  * Synopsis of six cold outreach emails sent. [Use these guidelines for your synopsis](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md)
-  * Documentation of participation in actual interview or practice interview
 
 * Community:
   * Summary of how you've contributed to the community
