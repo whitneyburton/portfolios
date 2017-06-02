@@ -1,4 +1,4 @@
-# Andrew wooten - M4 Portfolio
+# Andrew Wooten - M4 Portfolio
 
 ## Areas of Emphasis
 
@@ -17,7 +17,6 @@
 ## A: End of Module Assessment
 
 Passed
-
 
 ## B: Group Work & Projects
 
@@ -55,9 +54,6 @@ Evaluation Scores:
   * **D: Application of Techniques**:
   * **E: Documentation**:
   * **F: Accessibility**:
-
-
-
 
 ### Gear Up
 #### (Danger of a Single Story)
