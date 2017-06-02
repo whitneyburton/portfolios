@@ -7,71 +7,63 @@ A submission summarizes your accomplishments in these key areas:
 
 * Individual
 * Team
+* Professional Development
 * Community
 
 ## Authoring Process
 
-* Carefully read the `submission_guidelines.markdown` to understand how your
-portfolio should be written/submitted
-* Read a sample portfolio in `sample.markdown` in this repo
-* Copy the content of [template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown) as a starting point
-* Fill in and submit your own content.
+* Carefully read this document - README.markdown - to understand how your portfolio should be written/submitted
+* Read thru a portfolio from a student in upper mod for reference
+* Fork this repo and edit the template.markdown file in portfolios/students/your-cohort/your-name. IF the file or folder in question is missing, then copy the content of [template.markdown](https://github.com/turingschool/portfolios/blob/master/template.markdown) as a starting point.
+* Fill in and submit your own content. Submission guidelines are located at the bottom of this document
+
 
 ## Per-Module Expectations
 
 ### Module 1 (Back-end)
 
-* Individual Assessment: Passing Score (All 3's) required
-* Individual Projects: All individual projects. A passing final project is required.
-* Group Projects: All paired projects
-* Professional Skills:
-  * A recap of reflections from Gear Up
-  * DTR Memo from 1 paired project
-  * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
-  * LinkedIn profile with a summary, descriptions under experience, and Turing under education
-  * Copy for a personal website
-* Feedback/Community: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+1. Fork and clone this repo.
+2. Follow instructions in [portfolio expectations](http://backend.turing.io/module1/portfolios/portfolio_expectations) to create your folder and file for your M1 portfolio.
+3. Copy the template code from the [M1 template markdown](http://backend.turing.io/module1/portfolios/portfolio_template) to your new file.
+4. Update placeholder text in template.
+5. Commit your changes, push to your remote repo, then create a PR to the `turing/portfolios` repo.
 
-** To Repeat the Module **
-
-A passing Chisel project completed during the final 2 weeks of the module **OR** Satisfactory progress on the Headcount / Black Thursday final project.
 
 ### Module 1 (Front-end)
 
-* Individual Assessment: Passing Score (All 3's) required
-* Required Project: Final Project (Game Time) -- Passing Score (All 3's) required
-* Included Projects:
- * Linked List
- * Number Guesser
- * Idea Box
-* Feedback: Self-Solicited and from Feedback App
-* Professional Skills:
+Your promotion to the next module is based upon a summative assessment coined the Pentathlon. The Pentathlon includes:
+  1. Individual Coding Challenge-A: Passing Score (Proficient in all areas) required
+  2. Individual Coding Challenge-B: Passing Score (Proficient in all areas) required
+  3. Final Project (Static Comp Challenge #3) -- Passing Score (Proficient in all areas) required
+  4. Comprehensive Quizlette: Passing Score (80% correct answers) required
+  5. Completed Portfolio
+
+Your completed portfolio is also comprised of the following required material:
+
+* Course Projects:
+  * Number Guesser
+  * Linked List or Foto Finder
+  * Idea Box
+  * 2DoBox Pivot
+* Community:
   * A recap of reflections from Gear Up
-  * DTR Memo from 1 paired project
-  * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
-  * LinkedIn profile with a summary, descriptions under experience, and Turing under education
-  * Copy for a personal website
+
+You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of those evaluations and in advance of portfolio reviews.
 
 ### Module 2 (Back-end)
 
 * Evaluation notes - You need to take notes during assessments/evaluations
 * Blog post (>=1)
-* Self-solicited continual peer feedback
-* If you're in a posse - please include:
+* If you're in a posse - please include (in the Being a Community Member section):
   * a blurb about what you did with your posse over the module
   * your favorite thing about the posse experience
   * how has your posse experience helped you grow as a professional?
 * Non evaluated projects: Rails Mini Project, Mix Master
- * Include what you learned/took away from the project.
-* Evaluated projects: Rush Hour, Little Shop, Job Tracker
+  * Include what you learned/took away from the project.
+* Evaluated projects: Little Shop, Bike Share
 * Assessments: Final
-* Professional Skills:
+* Community:
   * A recap of reflections from Gear Up
-  * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Cold email at least one of those five companies from the company tracker
-  * Two paragraph reflection on:
-    1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
-    2. How you incorporated feedback from your team members and what you learned about yourself in the process.
 
 ### Module 2 (Front-end)
 
@@ -79,55 +71,60 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Required Project: ToDo Box Pivot, Shoot the Breeze, FireBae (Tier Two) -- scores should all be passing (All 3's) or show gradual improvement
 * Included Projects:
  * Weatherly
-* Feedback: Self-Solicited and from Feedback App
-  * Required feedback from at least one student outside of your cohort who you have paired with (Mod 1 student, back end student) AND/OR a mentor.
-* Professional Skills:
-  *  A recap of reflections from Gear Up
-    * Link to a gist with notes is acceptable.
-  * Company tracker with five companies of interest identified
-  * Two paragraph reflection on:
-     1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
-     2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+* Community:
+  * A recap of reflections from Gear Up
+  * Summary of how you've contributed to the community
+
 
 ### Module 3 (Back-end)
 
 * Individual Assessment
 * Included Projects: Self-Directed Project, Rales Engine, Cloney Island
 * Bonus Project (not required): APIcurious
-* Feedback: Self-Solicited and collected from Cloney Island
 * Something valuable you've taken away from your posse.
-* Professional Skills:
+* Community:
   * A recap of reflections from Gear Up
-  * Turing alumni portfolio
-  * Pitch for personal project/Documentation showing your thought process
-  * Completed Flower Exercise
-  * Job search strategy set with daily, weekly, monthly goals
+
+*Professional Development does not need to be included in the portfolio. Submit your deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
 
 ### Module 3 (Front-end)
 
 * Individual Assessment
 * Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
 * Bonus Project (not required): None
-* Feedback: Self-Solicited and collected from Weather Forecast and Remember
-* Professional Skills:
+* Community:
   * A recap of reflections from Gear Up
-  * Turing alumni portfolio
-  * Pitch for personal project/Documentation showing your thought process
-  * Completed Flower Exercise
-  * Job search strategy set with daily, weekly, monthly goals
 
-### Module 4
+### Module 4 (Back-end)
 
-* Individual Assessment (thoughtbox)
-* Required Project: GameTime, ScaleUp
+* Individual Assessment
+* Required Project: Capstone Project
   * Should include points breakdown per project
-* Bonus Project (not required): IdeaBox
-* Feedback: Self-Solicited
-* Professional Skills:
+* Link to your PR for opensource contributions
+* Community:
   * A recap of reflections from Gear Up
-  * Description of your top 3 priorities in the job search and why
-  * Action plan for how to overcome perceived barriers to the job search
-  * Completed blog post with peer review
+
+ Complete and document 2 of the following:
+  * Lead or co-lead a Friday Spike
+  * Deliver any session at a meetup or conference
+  * Pair three or more times with students in lower modules
+  * Contribute in a meaningful way to project of a student/team not in your module
+
+ *Professional Development does not need to be included in the portfolio. Deliverables and submission guidelines are [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
+
+### Module 4 (Front-end)
+
+* Individual Assessment
+* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, BYOB
+  * Should include points breakdown per project
+* Professional Development:
+*PD deliverables should be submitted via email to Meg at [mstewart@turing.io](mail:to)*
+  * Synopsis of six cold outreach emails sent. [Use these guidelines for your synopsis](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md)
+  * Documentation of participation in actual interview or practice interview
+
+* Community:
+  * Summary of how you've contributed to the community
+  * A recap of reflections from Gear Up
 
 ## Submission Guidelines
 

@@ -6,8 +6,6 @@
 
 ## Rubric Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module:
-
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
@@ -18,7 +16,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+(Indicate whether you passed or failed the end of module assessment)
 
 
 ## B: Individual Work & Projects
@@ -59,30 +57,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 (Intro)
 
 ### Gear Up
-#### Vote Your Conscience
-
-* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
-
-It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
-
-
-### Professional Development Workshops
 #### (Session Name)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [GitHub URL]()
 
-(takeaways from session)
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-## E: Feedback and Community Participation
-
-### Giving Feedback
-
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
+## E: Community Participation
 
 ### Playing a Part
 
