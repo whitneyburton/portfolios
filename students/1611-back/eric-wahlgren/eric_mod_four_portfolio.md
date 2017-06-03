@@ -153,3 +153,5 @@ I contributed the order of delivery for the content.
 ### Professional Development
 #### Deliverables
 
+[link to deliverables](https://github.com/cews7/career-development-curriculum/blob/master/module_four/pd_mod_four.md)
+
