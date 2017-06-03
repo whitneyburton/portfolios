@@ -81,7 +81,29 @@ Evaluation Scores:
 
 * [GitHubURL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1705-inning/group_eight.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I was so excited to be given the opportunity to be a part of a team to assemble
+and deliver a GearUp session. I was fortunate to be a part of a group that took
+the assignment with the gravity it deserved. Casey Macauley had a great idea for
+a session based around a TED talk called Danger of a Single Story. It is a
+powerful message, and the topic reflects heavily what I believe the core Turing
+community is about.
+I appreciate that people might walk away from the TED talk with different ideas
+about what the message was, but to me it was about falling into the trap of
+seeing/meeting someone and immediately drawing conclusions about their
+character, capabilities, and generally what there life must be like. Basically,
+it boils down to assumption and unconscious bias. It's a trap that everyone
+falls into. In presenting the material, I hope that the attending students
+would learn to recognize the trap and get around it with some intentional
+thought and intervention.
+Overall, the GearUp was well-received by the participants. In circulating around
+the room I heard great conversations happening including people sharing personal
+experiences of their own assumptions and having assumptions made about them based
+on race and gender. I've received positive feedback about the experience, so I'm
+still ecstatic about that. It was a great time.
+I think allowing students to choose which session they attended was integral in
+having the session received well. It allowed for the audience to be engaged and
+interested in the topic presented and to remain fully engaged in the discussion
+session. Thank you for the opportunity to do this. It was great!!
 
 ## E: Community Participation
 
