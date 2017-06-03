@@ -31,6 +31,41 @@
 ## A: End of Module Assessment
 
 Passed
+## B: Individual Work
+
+### Projects
+
+* [GitHub URL](https://github.com/andrewdwooten/faker)
+* [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
+
+Blog Post:
+  As a part of my final Module at Turing, we were required to contribute to an
+active open-source project. I took the goal of the exercise to be to gain
+experience in collaborating on open-source, brownfield development, and bug
+reproduction; the guidelines for the assignment lends itself to these goals.
+  I found the most daunting part of this process to be locating a project that
+I was interested in that had a need for help. I communicated with project owners
+on several projects but found myself pretty daunted by the depth/complexity of
+most of the code bases. In the end, I made the decision to make a patch for the
+Faker gem; I've always appreciated how helpful it was as a development tool, and
+I am pretty excited to have a contribution on deck for it.
+  There contribution instructions were exceptionally clear; I forked and cloned
+down the repository and set to work. Exploring the various objects that were
+already established in the code base along with the testing suite that came
+with them made understanding the base function of the program to be fairly
+straight-forward. I chose to add a method to the 'University' faker that would
+allow a user to generate a random greek organization heading(complete with greek
+alphabet characters!). In all, it was an interesting challenge, particularly
+migrating back to MiniTest after having lived in RSpec for so long. I was happy
+to complete the contribution with a functioning product/method. I was careful to
+update the documentation for the University faker such that users would be aware
+of its existence as well as how to utilize it appropriately(nobody likes poor
+documentation)
+  Presently, I have a PR open with the Faker gem. I'm hoping that it will be
+accepted and merged in. I look forward to hopefully being able to use my own
+feature at some point in the future. All in all I'm pleased with the contribution
+I made as well as the assignment itself, and I'm looking forward to having time
+following graduation to contribute more to open-source projects.
 
 ## B: Group Work & Projects
 
