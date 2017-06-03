@@ -114,6 +114,8 @@ Charlotte : 4
 James : 3
 Spencer, Max, and Eric: 1
 
+*the 1 is based on missing the demo in the morning. Bob said he didn't know how else to penalize us for missing the demos.*
+
 ### 3. Implementation Quality
 
 *   4: Project demonstrates exceptionally well factored code.
