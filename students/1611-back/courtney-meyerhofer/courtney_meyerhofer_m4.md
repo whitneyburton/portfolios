@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-For 4 module 
+For 4 module I wanted to focus on improving my technical interview skills and learning JavaScript. 
 
 ## Rubric Scores
 
