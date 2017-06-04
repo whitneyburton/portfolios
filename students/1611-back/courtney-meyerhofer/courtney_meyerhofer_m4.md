@@ -174,13 +174,10 @@ Takeaways:
 
 It was very fun to work with my peers to create a Gear Up for something we were interested in. We chose the ethics and technology of the Snowden leaks because it was something we were all passionate about discussing, and we had varying perspectives. We decided to present the information through videos and a reading and let most of the time be left up to discussion through case studies. It was very rewarding to hear people's perspectives, and I thought it was interesting that most people's overall opinions were uniform. It may be the case that we think we're discussing topics and providing people an outlet to explore something through gear ups, but most people ended up reinforcing their own opinions. I don't know if this is a feature or a bug of gear ups, but it was something I noticed.
 
-### Professional Development Workshops
-#### (Session Name)
+### Open Source Contribution
+#### WeTransfer: ImageVise service
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
+* [Submitted PR](https://github.com/WeTransfer/image_vise/pull/9#discussion_r119997418)
 
 ### Playing a Part
 
