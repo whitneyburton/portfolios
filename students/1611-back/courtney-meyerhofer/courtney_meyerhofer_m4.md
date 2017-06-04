@@ -166,12 +166,13 @@ My main takeaways from this project was how to think through what features to im
 ## D: Professional Skills
 
 ### Gear Up
-#### Vote Your Conscience
+#### Creating a Gear Up
 
-* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
+* [Gear Up: Ethics and Technology of the Snowden Leaks](https://gist.github.com/blackknight75/c7ef4e8ef1a197d50593bce078fc9d7f)
 
-It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
+Takeaways:
 
+It was very fun to work with my peers to create a Gear Up for something we were interested in. We chose the ethics and technology of the Snowden leaks because it was something we were all passionate about discussing, and we had varying perspectives. We decided to present the information through videos and a reading and let most of the time be left up to discussion through case studies. It was very rewarding to hear people's perspectives, and I thought it was interesting that most people's overall opinions were uniform. It may be the case that we think we're discussing topics and providing people an outlet to explore something through gear ups, but most people ended up reinforcing their own opinions. I don't know if this is a feature or a bug of gear ups, but it was something I noticed.
 
 ### Professional Development Workshops
 #### (Session Name)
