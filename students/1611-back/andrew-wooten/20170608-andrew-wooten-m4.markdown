@@ -66,8 +66,20 @@ accepted and merged in. I look forward to hopefully being able to use my own
 feature at some point in the future. All in all I'm pleased with the contribution
 I made as well as the assignment itself, and I'm looking forward to having time
 following graduation to contribute more to open-source projects.
+  Finding a bug to replicate proved to be interesting. The process for looking
+for one was eased by the experience of looking for a place to contribute; I
+located a bug on the Faraday gem that was related to creating a new instance of
+Faraday with an invalid URI. It was a long-standing bug related to an older version
+of the Faraday gem, but I was happy to explore it. Initially I was unable to
+replicate it do to the current version of the gem that I have on my machine, so
+'yay, the fixed it', but in the interest of exploring it further I rolled back to
+the referenced version to see if I could replicate the error and push to pin down
+where and under what specific circumstances the error would occur.
+  Overall I feel like bug-chasing was a neat exercise. It's a fun combination of
+brownfield development and problem-solving. I was happy to fiddle around, but I'm
+looking forward more to contributing further to interesting open source projects.
 
-## B: Group Work & Projects
+## C: Group Work & Projects
 
 ### Projects
 
@@ -111,6 +123,8 @@ Evaluation Scores:
   * **E: Documentation**: 4
   * **F: Accessibility**: 4
 
+## E: Community Participation
+
 ### Gear Up
 #### (Danger of a Single Story)
 
@@ -139,8 +153,6 @@ I think allowing students to choose which session they attended was integral in
 having the session received well. It allowed for the audience to be engaged and
 interested in the topic presented and to remain fully engaged in the discussion
 session. Thank you for the opportunity to do this. It was great!!
-
-## E: Community Participation
 
 ### Playing a Part
 
