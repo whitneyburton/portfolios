@@ -1,8 +1,7 @@
 # Eric Wahlgren-Sauro - M4 Portfolio
 
 ## Areas of Emphasis
-For this module it was important to me that Javascript become my ally. 
-I knew it would be fun to learn and I've loved learning Selenium as well.
+Javascript was the focus for this module. Learning how to make things asynchronous was important so we can make our applications run faster, without having to wait for the all the data on a given page to load. I enjoyed the PD, as it provided focus for how I was going to spend my time reaching out to potential empoyers. I made an inn at a start up that has interest in hiring me for contract work!  
 
 ## Rubric Scores
 
