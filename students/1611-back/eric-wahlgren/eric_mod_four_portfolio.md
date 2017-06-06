@@ -17,7 +17,10 @@ I knew it would be fun to learn and I've loved learning Selenium as well.
 ## A: End of Module Assessment
 
 ## B: Individual Work & Projects
-Open Source Contribution: Faker gem - added StarWars phrase 
+
+* Open Source Contribution: Faker gem - [added Seinfeld faker](https://github.com/stympy/faker/pull/936) 
+
+* [Blog Post](https://medium.com/@ericwahlgrensauro/faker-gem-eceb5f9aa9b0)
 
 ## C: Group Work & Projects
 
