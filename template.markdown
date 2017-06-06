@@ -10,7 +10,7 @@
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
 * **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **E: Community Participation**: X
 
 -----------------------
 
