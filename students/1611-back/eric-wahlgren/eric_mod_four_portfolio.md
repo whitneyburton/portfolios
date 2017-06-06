@@ -10,7 +10,6 @@ I knew it would be fun to learn and I've loved learning Selenium as well.
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
