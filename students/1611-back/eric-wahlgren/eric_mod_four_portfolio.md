@@ -16,7 +16,9 @@ Javascript was the focus for this module. Learning how to make things asynchrono
 
 ## B: Individual Work & Projects
 
-* Open Source Contribution: Faker gem - [added Seinfeld faker](https://github.com/stympy/faker/pull/936) 
+### Open Source Contribution: 
+
+* Faker gem - [added Seinfeld faker](https://github.com/stympy/faker/pull/936) 
 
 * [Blog Post](https://medium.com/@ericwahlgrensauro/faker-gem-eceb5f9aa9b0)
 
