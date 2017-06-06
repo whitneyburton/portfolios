@@ -90,27 +90,27 @@ Project Management
 
 I learned some Python!
 
-1. Project Management
+Project Management
 
   4: Tracker also documents feature related discussions
 
-2. Completion & Pace
+Completion & Pace
 
   4: Team is proactive in understanding scope and is able to commit to stories before starting the sprint
 
-3. Implementation Quality
+Implementation Quality
 
   3: Project exhibits maintainable well divided code. Developers are able to speak to architecture and implementation decisions.
 
-4. Application of Techniques
+Application of Techniques
 
   4: Project has implemented two or more major techniques that were new this week.
 
-5. Documentation
+Documentation
 
   4: Project also features a screencast, tutorial or other wow factor
 
-6. Accessibility
+Accessibility
 
   4: Team has expertly implemented features to follow accessibility best practices.
 
