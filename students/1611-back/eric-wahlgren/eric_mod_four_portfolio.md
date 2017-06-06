@@ -17,7 +17,7 @@ I knew it would be fun to learn and I've loved learning Selenium as well.
 ## A: End of Module Assessment
 
 ## B: Individual Work & Projects
-Open Source Contribution: 
+Open Source Contribution: Faker gem - added StarWars phrase 
 
 ## C: Group Work & Projects
 
