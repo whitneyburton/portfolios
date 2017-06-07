@@ -16,7 +16,7 @@ I wanted to feel like a developer, and I do.
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Strong maybe
 
 
 ## B: Individual Work & Projects
