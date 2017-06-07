@@ -33,7 +33,7 @@
 - Test coverage is good. Could use more sad paths to increase test value.
 
 ### Open Source
-* [Faker PR URL] (https://github.com/stympy/faker/pull/945)
+* [Faker PR URL](https://github.com/stympy/faker/pull/945)
 * [Request Info PR URL](https://github.com/riboseinc/request_info/pull/6/files)
 * [Request Info PR URL](https://github.com/riboseinc/request_info/commit/ca0473e0a033736b6fd5e5ba0cd5286ce2b350b5)
 
