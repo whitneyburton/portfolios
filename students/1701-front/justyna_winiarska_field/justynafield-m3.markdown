@@ -16,7 +16,8 @@
 
 ## A: End of Module Assessment
 
-### Instructors: Brittany Storoz and Taylor Moore
+### Instructors: 
+#### Brittany Storoz and Taylor Moore
 
 Passing Scores
 
@@ -25,14 +26,14 @@ Passing Scores
 
 (Intro)
 
-### Sailing Club App
+## Sailing Club App
 
 * [GitHub URL](https://github.com/JustynaField/Self-Directed-Project)
 * [Plan](https://github.com/turingschool/front-end-submissions-public/blob/master/1701/mod-3/self-directed/Justyna-Field/1-checkin.md)
 
 (description)
 
-#### Evaluator: Meeka
+### Evaluator: Meeka
 
 #### Feature Delivery
 
@@ -68,7 +69,7 @@ Passing Scores
 
 (Intro)
 
-### HeadCount2.0
+## HeadCount2.0
 
 * [GitHub URL](https://github.com/JustynaField/headcount2.0)
 
@@ -76,9 +77,9 @@ Passing Scores
 (description)
 
 
-#### Evaluator: Meeka
+### Evaluator: Meeka
 
-#### Partner on the project: Travis Gregory
+### Partner on the project: Travis Gregory
 
 
 #### Specification Adherence
@@ -103,13 +104,13 @@ Not expected to update this project, teammates should focus on next testing in S
 - 2 - A valid attempt was made to test functionality with obvious gaps where functionality is not tested
 
 
-### SWAPIbox
+## SWAPIbox
 
 * [GitHub URL](https://github.com/JustynaField/SWAPIbox)
 * [Original Assignment] (http://frontend.turing.io/projects/swapi-box.html)
 
-Evaluator: Taylor
-Project Partner: Laura Turk
+### Evaluator: Taylor
+### Project Partner: Laura Turk
 
 
 #### Specification Adherence
@@ -130,13 +131,13 @@ Project Partner: Laura Turk
 
 
 
-### Movie Tracker
+## Movie Tracker
 
 * [GitHub URL](https://github.com/JustynaField/movie-tracker)
 * [Original Assignment] (https://github.com/turingschool-examples/movie-tracker)
 
-Evaluator: Jhun
-Partners on the Project: Leta Keane, Kelly Miller, Devin Dixon
+### Evaluator: Jhun
+### Partners on the Project: Leta Keane, Kelly Miller, Devin Dixon
 
 
 
