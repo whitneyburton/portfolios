@@ -33,6 +33,8 @@ The project itself was allowing users to add a question and then to have other u
 
 I was also very pleased that I was able to implement active D3 on my project and I look forward to working more with that in the future.
 
+3's across the board.
+
 ## C: Group Work & Projects
 
 ### Projects
