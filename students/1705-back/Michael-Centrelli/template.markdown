@@ -30,10 +30,10 @@ I thought that my individual projects and work went well this module. I felt com
 
 Description: Build a basic drum machine using a linked list.
 
-Comments: "Working through iteration 6,
+Comments: Working through iteration 6,
 A couple of the methods' return value is off i.e. array instead of string,
 Methods/Classes look clean,
-19 test, 1 failing"
+19 test, 1 failing.
 
 1: Fundamental Ruby & Style
 
@@ -62,8 +62,8 @@ Methods/Classes look clean,
 
 Description: Create the classic game Battleship. 
 
-Comments: "2 5 2 13 tests Included some sad path testing 2 failure Uses multiple classes to break apart functionality. Has a number of long methods - talked about chances to refactor.
-A fair amount of .each, but also using .map and .all?"
+Comments: 2 5 2 13 tests Included some sad path testing 2 failure Uses multiple classes to break apart functionality. Has a number of long methods - talked about chances to refactor.
+A fair amount of .each, but also using .map and .all?
 
 1: Fundamental Ruby & Style
 
@@ -101,12 +101,16 @@ Overall I think that the group projects this module went well. Having another pe
 
 #### (Night Writer)
 
-* [GitHub URL]()
+* https://github.com/Mcents/Night_Writer
 * http://backend.turing.io/module1/projects/night_writer
 
-(description)
+Description: Implement systems for generating Braille-like text from normal characters and the reverse.
 
-(evaluation comments)
+Comments: Limited night read tests.
+Practice the pattern of methods sending and receiving messages to each other rather than modifying a single instance variable.
+All code files should go in the lib directory
+Alphabet class needs some tests - all classes should have a test file, all methods should have at least one test.
+Application fully functional - minor bug where output text counts line breaks.
 
 1: Fundamental Ruby & Style
 
