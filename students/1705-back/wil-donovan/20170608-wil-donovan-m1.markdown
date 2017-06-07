@@ -1,0 +1,187 @@
+# Wil Donovan - M1 Portfolio
+
+## Areas of Emphasis
+
+Accomplishments in this module are a range of situations, moments, and items that have grown my knowledge base in the technological sense to my human-relations skills all the way to improvements in personal growth through attrition.  The goal of understanding and learning the technology was rougher than expected at first and came quicker than expected when it did.  It has opened a flood gate to being able to constantly learn and absorb varieties of information beyond code.
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 2
+
+-----------------------
+
+## A: End of Module Assessment
+
+Pass
+
+
+## B: Individual Work & Projects
+
+In Mod-1 we completed two projects that were done individually that were extremely helpful, beneficial, and difficult.  Not only did these projects test and build knowledge with the ruby language but along with testing and building my skills and natural abilities/strengths.
+
+########Credit_Check
+
+* [GitHub URL]https://github.com/swdonovan/credit_check
+* [Original Assignment]http://backend.turing.io/module1/projects/credit_check
+
+Description
+
+(adapted from Wikipedia)
+
+The formula verifies a number against its included check digit, which is usually appended to a partial account number to generate the full account number. This full account number must pass the following test:
+
+from the rightmost digit, which is the check digit, moving left, double the value of every second digit
+if product of this doubling operation is greater than 9 (e.g., 7 * 2 = 14), then sum the digits of the products (e.g., 10: 1 + 0 = 1, 14: 1 + 4 = 5).
+take the sum of all the digits
+if and only if the total modulo 10 is equal to 0 then the number is valid
+
+[Evaluation Comments]
+	This project was my first test of keeping my head above water and did I barely.  I did this project wrong as I forgot to add in one subtraction step to completely validate the number.  Overall, while i missed that, I ended remaking this project 3 weeks later with ease and added the step in.
+
+------------------------------------------------------------------------------------------------------
+###########Battle_Ship
+* [GitHub URL](https://github.com/swdonovan/Battleship)
+* [Original Assignment](http://backend.turing.io/module1/projects/battleship)
+
+(You are to build a playable game of Battleship that runs in a REPL interface. The game will allow a single human player to play against a (simplistic) computer player.)
+
+(1. Fundamental Ruby & Style
+
+* 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+
+# 2. Enumerable & Collections
+
+* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+
+# 3. Test-Driven Development
+
+* 1: Application does not demonstrate strong use of TDD
+
+# 4. Git Workflow
+
+* PASS:  Developer demonstrates mastery of git and GitHub; commits with appropriate frequency, with clear, atomic commits that demonstrates a clear history.
+
+# 4. REPL Interface
+
+* 3: Application's REPL is clear and pleasant to use
+
+# 5. Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart with clear intent and usage
+
+# 6. Functional Expectations
+
+* 2: Application runs, but does not work properly, or does not meet specifications.
+
+##### Jungle_Beats
+
+* [GitHub URL](https://github.com/swdonovan/Jungle_Beats)
+* [Original Assignment](http://backend.turing.io/module1/projects/jungle_beat)
+
+In this project we’re going to do some silly things with sound. Specifically, we’re going to make a very basic drum machine program.
+
+However to add some additional depth, let’s also use this project as a chance to explore one of the fundamental data structures in computer science – the Linked List.
+
+#1. Fundamental Ruby & Style
+
+2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+#2. Looping or Recursion
+
+1: Application struggles to loop/recurse at all
+#3. Test-Driven Development
+
+2: Application makes some use of tests, but the coverage is insufficient
+#4. Encapsulation / Breaking Logic into Components
+
+2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+#5. Functional Expectations
+
+2: Application runs, but does not work properly, or does not meet specifications.
+
+
+## C: Group Work & Projects
+####### Night_Writer & Black_Thursday
+
+Night-Writer---> In this project we were tasked with taking a text file and converting it back into braille, with the ability to take out of braille and return back to text if needed.
+
+Black_Thursday---> In this project we had to learn how to manipulate multiple CSV files with thousands of lines of data, break it out and recurse back through the data to formulate the outputs of information we desired.  
+### Night_Writer
+
+* [GitHub URL](https://github.com/swdonovan/night_writer)
+* [Original Assignment](http://backend.turing.io/module1/projects/night_writer)
+
+The idea of Night Writing was first developed for Napoleon’s army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille’s development of his Braille tactile writing system.
+
+In this project we’ll implement systems for generating Braille-like text from normal characters and the reverse.
+
+(Asssessed By:
+Ali
+
+Repo:
+https://github.com/swdonovan/night_writer
+
+Notes:
+12 passing tests Utilized multiple classes
+Broke methods down into smaller pieces, talked through options for runner methods vs ladder
+Method and variable names communicated intent and functionality
+Translates from eng to braille w/ 80 char truncation
+
+Rubric:
+
+#1. Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+#2. Test-Driven Development
+
+2: Application makes use of tests, but the coverage is insufficient
+#3. Encapsulation / Breaking Logic into Components
+
+3: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+#4. Functional Expectations
+
+2: Application runs, but does not work properly, or does not meet specifications.
+
+
+### Black_Thursday
+
+
+* [GitHub URL](https://github.com/swdonovan/black_thursday)
+* [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
+
+A business is only as smart as its data. Let’s build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.
+
+(evaluation comments)--TBA
+
+(evaluation scores)--TBA
+
+(feedback to me)--TBA
+
+## D: Professional Skills
+(Intro)
+
+### Gear Up
+#### (Session Name)
+
+* [GitHub URL]()
+
+Our Gear up sessions were also incredibly enlightening and beneficial to my growth while at Turing.  These were enlightening for the culture understanding, especially coming from a different state with a completely different culture.  As well, these gear ups provided an additional quality platform for personal growth!
+
+## E: Community Participation
+
+While in the Turing community, I am confidently one of the least outwardly social and active students as I've stayed focused on the task of learning the technology side.  But while I've been here I have used one of my strength in Individualization to quietly get to know and provided some immense help to students from different Mod's.  While I am weak in the obvious extrovert sense I have been able to use this strength and method to assist me in building that weakness.  
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
