@@ -119,3 +119,7 @@
         - We talked about how a diverse team creates demonstrably, factually BETTER APPS with a broader reach.
       * The Dangers of the Single Story (led by Mod 4):
         - This also spawned similar conversations: the need to realize that your assumptions are not facts, and that you have to take the time, even with people you think you know well, to get to know them more, and to hear their perspective
+        
+    * I was the SAB rep and paired with a Mod2 student re: CompleteMe.
+    * I went to a DenverScripts Meetup and connected with another mentor.
+    * I set up a couple shadowing days for intermission and will be attending DinosaurJS!
