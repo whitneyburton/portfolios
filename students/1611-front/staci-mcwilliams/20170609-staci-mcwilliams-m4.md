@@ -334,11 +334,7 @@ Passed - Only feedback given to group
 
 For our capstone project we build an application called Turing Overflow. It is intended to be an internal version of Stack Overflow for the Turing community. It was built using React, Redux, Router and a Knex and express backend.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+* Instructor Feedback(Robbie) - Passed
 
 ## D: Professional Development
 ### Professional Development turned in separately to Meg
@@ -389,13 +385,13 @@ From Jon Willeman
 
 ## Playing a Part
 
-* Attended JCS and Imposter lunch as often as possible. Went with a group of my classmates to chat with front-end mod 1 and answer their questions. Continued to foster relationships with the mod behind us. Attended demo night at Turing. Paired with my classmates often. Led gear-up in week five.
+* Attended JCS and Imposter lunch as often as possible. Went with a group of my classmates to chat with front-end mod 1 and answer their questions. Continued to foster relationships with the mod behind us. Attended demo night at Turing. Paired with my classmates often. Led gear-up in week five. Led IronFe on Tuesdays with peers. Participated in codefair. 
 
 ## Gear Up
 
 #### [Gear up markdown](https://gist.github.com/stacimcwilliams/3e86b87cb93fdae4c7d5008edce7d21e)
 
-* Led a create your own gear-up called Lending Privilege. I felt like the Friday gears ups dedicating to planning were sufficient time to plan. We didn't have to get together much outside of those which was nice with so many other things going on. The students reacted very positively to our gear up. We barely had to facilitate conversations and I heard a lot of thoughtful conversations going on. Everyone was also very open and respectful of each other during the conversations. I was skeptical at first about doing this but I am completely on board now and think it's great to have the mod four students lead these. I am anxious to hear how the students perceived the experience. 
+* Led a create your own gear-up called Lending Privilege. I felt like the Friday gears ups dedicating to planning were sufficient time to plan. We didn't have to get together much outside of those which was nice with so many other things going on. The students reacted very positively to our gear up. We barely had to facilitate conversations and I heard a lot of thoughtful conversations going on. Everyone was also very open and respectful of each other during the conversations. I was skeptical at first about doing this but I am completely on board now and think it's great to have the mod four students lead these. I am anxious to hear how the students perceived the experience.
 
 #### Two suggestions for improvement:
 * Don't plan this for the Friday after the ten hour final, that was rough.
