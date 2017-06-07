@@ -60,12 +60,10 @@ Methods/Classes look clean,
 * https://github.com/Mcents/Battle_ship
 * http://backend.turing.io/module1/projects/battleship
 
-Description: Build a basic drum machine using a linked list.
+Description: Create the classic game Battleship. 
 
-"Working through iteration 6,
-A couple of the methods' return value is off i.e. array instead of string,
-Methods/Classes look clean,
-19 test, 1 failing"
+"2 5 2 13 tests Included some sad path testing 2 failure Uses multiple classes to break apart functionality. Has a number of long methods - talked about chances to refactor.
+A fair amount of .each, but also using .map and .all?"
 
 1: Fundamental Ruby & Style
 
@@ -83,7 +81,7 @@ Methods/Classes look clean,
 
 PASS. Developer demonstrates mastery of git and GitHub; commits with appropriate frequency, with clear, atomic commits that demonstrates a clear history.
 
-: REPL Interface
+4: REPL Interface
 
 3. Application's REPL is clear and pleasant to use
 
