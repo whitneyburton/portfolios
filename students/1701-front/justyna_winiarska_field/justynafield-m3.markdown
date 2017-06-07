@@ -212,7 +212,7 @@ It was a great experience working with Kelly. She is very easy to work with. We 
 
 ### Playing a Part
 
-I have been trying to be involved in the Turing community as much as I could. I participated on Iron FE. 
+I have been trying to be involved in the Turing community as much as I could. I participated in Iron FE. 
 I have also developed some good relationships with other students.
 
 ------------------
