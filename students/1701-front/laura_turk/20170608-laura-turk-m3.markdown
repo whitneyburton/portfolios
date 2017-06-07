@@ -168,6 +168,8 @@ This project is working off the The Movie DB API (https://www.themoviedb.org/doc
 ### feedback to me
 Laura was an amazing partner for the Movie Tracker project. She attacked all the challenges we encountered, sang while doing it, and consistently made sure her two partners were up to speed. She worked autonomously on some features and then collaboratively while the whole group was together. This sort of multi-pronged approach gave me a lot of confidence that the project would get done and be in good shape. Going forward Laura can continue to improve her prioritzation of addressing issues. There were times when we'd get side-tracked while working to solve specific issues. I think this is a unversal challenge with coding: focusing on the MVP. - Anders
 
+Laura was really quick to jump in to the project and had a good understanding of the material going in. She was able to speak to her decisions and explain to me what was happening when I was stuck. The thing I would most recommend she work on is her awareness of when someone in her group is struggling with the material. This did eventually happen later in our project and Lauras help was greatly appreciated. That help was instrumental in getting me to a point of better understanding of React and Redux. Laura was also really positive even when we were stuck and as a result lowered my stress level. - Travis
+
 
 ## D: Professional Skills
 [x] done
@@ -190,6 +192,8 @@ Laura was an amazing partner for the Movie Tracker project. She attacked all the
 
 ### Playing a Part
 Led the Pahlka Posse for the second mod in a row. Organized a mond long project that incorporated backend and front end students and skills. Led weekly lunches for working or socializing. Participated in the code fair representing Pahlka.
+
+TA at a try turing weekend: Feedback from Rachel: Hey Laura, thank you so much for TA-ing yesterday! You were awesome and the participants said great things about the help you provided :
 
 Weekly participation in Joan Clarke Society
 
