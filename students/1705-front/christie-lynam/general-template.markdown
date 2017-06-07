@@ -2,15 +2,15 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goal for round 2 of Mod 1 was to have a solid grasp of all of the difficult concepts I struggled with last mod. I wanted to get through all of the required phases of each project and understand and own every line of my code. It was also important to me to be able to give back and help others this go around.
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -95,6 +95,8 @@ Proficient: Developer captures the spirit and design intent of the comp. Some sm
 * [GitHub URL](https://github.com/christielynam/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
+I was paired with David B. for Linked List.
+
 Evaluator: Louisa
 
 Optional Notes:
@@ -174,41 +176,63 @@ Collaboration
 
 |Exceptional | Pair collaboration and communication is exceptional, with the distribution of work being equal and balanced, and both partners experiencing a good working flow, able to handle stress, deadlines, issues with calm and focused demeanor.|
 
+Feedback from David:
+
+There are two things I would like to point out for feedback. Something that I believe you should continue to do in future paired projects is that of being accepting of allowing your partner to attempt pieces of the project when we both have the mindset of wanting to try everything (sorry, that's terrible grammar). When we first talked through the DTR, we discussed what pieces we were most excited about and what pieces we felt unsure about. I expressed that I really wanted to give the media queries a go even though I was very green on this topic. You were accepting of this and gave no pushback, even though this was a large part of the project. It allowed me to learn through mistakes and not feel like it was holding the project back. Even better, when I did fail, you were appreciative of the effort given and took the time to work through it together without any words of condensing nature. By doing this, you created a constructive learning environment that felt like both parties were contributing equally. The other piece of feedback stems from how well our workflow tended to be and a word of caution when working with someone that might not share similar work styles and principles (as we did). Although we were able to effectively separate work when possible and work together for the majority of the project, it might present itself that another partner might not feel equally as strong on certain topics. This could potentially lead to a one-sided project, where one person is doing more of the work and getting more out of the project. For instance, at the beginning of the week, we separated GitHub issues between each other and this was ok, because we both felt confident on all of these tasks at hand. But, if one party did not feel so confident, they might be hesitant to work in this style. They might feel a great pressure to get all of them done, possibly creating a one-sided relationship, because they know that you will succeed in most of these tasks. So, being extremely clear and concise about workflow at the beginning of a project is key.
+
 #### Idea Box
 
 * [GitHub URL](https://github.com/christielynam/idea-box2)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+I ended up working solo on this project.
 
 (evaluation comments)
 
 (evaluation scores)
 
-(feedback to me)
+Feedback:
+
+Christie was very supportive, collaborative, and kind. We broke our team so each of us could complete the project given where we are with our JS learning. This gave each of us the optimum opportunity to learn difficult concepts and execute the project spec accordingly. We finished at nearly a similar place in the spec, and evaluated both iterations of the project together. Christie and I both shared a pride in completion, considering we both are repeating MOD 1 and felt JS was an area we were lacking in. I think Christie is a stellar woman, and a huge support for me personally and as a student here at Turing.
 
 #### 2DoBox
 
 * [GitHub URL](https://github.com/christielynam/2do-box-pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+I worked with Nick S. on 2DoBox
 
 (evaluation comments)
 
 (evaluation scores)
 
-(feedback to me)
+Feedback from Nick:
+
+Christie, it was such a pleasure working with you on 2doBoxPivot. I think we worked well to establish our working relationship, and planning our approach and schedule. Your continuous dedication to this program was evident throughout the week. You were eager to learn new approaches and coding mechanisms. I appreciated your understanding when I brought concerns from my last pairings, and I saw distinct instances in which you addressed them. One thing I noticed was your ownership of work. You were pro active about finding tasks and todos that needed to be done, and didn't wait for a pairing session for this discovery. And even through taking ownership of these tasks, you still communicated clearly your idea and what you were working on. It was a struggle for me to find any criticisms or areas to improve, and the only thing I would suggest is something I need to work on as well. And that is to begin each paring session by planning out your goals for that session, and what you hope to accomplish. Anyway, I look forward to continuing this journey with you in my cohort and hope we get a chance to work together again!
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
-#### (Session Name)
 
-* [GitHub URL]()
+#### Growth Mindset
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I really enjoyed the growth mindset gear up this mod. It was a good time for me to reflect on how far I've come from last mod. It was really nice having a panel of people who were recent graduates of the program come in and share their experiences of Mod 1 and give their advice of how to stay in the growth mindset when things get hard. I also really enjoy anytime I get to hear Carol Dweck speak.
+
+#### Getting Better at Difficult Things
+
+The getting better at doing difficult things gear up was a good reminder to be conserving my cognitive resources and not wasting them on unnecessary things. I was also reminded of the value of repeating tasks (couldn't find the time to do this last mod). I improved significantly in a number of areas by repeating mod 1.  
+
+#### Working with Introverts, Extroverts, and Ambiverts
+
+I am an introvert and was reminded of how important it is for me to convey my work style and needs to others I am working with. It's also just as important to be mindful of other peoples needs and work styles that may be different than mine.
+
+#### Strengths and Storytelling
+
+* [Link to Gist](https://gist.github.com/christielynam/a74290993c50dbc417f233adb5811e8e)
+
+#### Debugging the Gender Gap
+
+This was a movie that I didn't mind watching a for a second time. It is still mind blowing to me that CS classes are not required in the US, while they are in so many other countries. I continue to think how we can change the thinking of young girls so that they grow up believing that they are just as good at math and science as males. They need to see more female role models in CS.
 
 ## E: Community Participation
 
