@@ -8,7 +8,7 @@
 
   #### Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 2.5
 * **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 3.5
 * **D: Professional Skills**: 3
