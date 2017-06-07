@@ -1,6 +1,5 @@
 ### Module 3 (Front-end)
-  # Individual Assessment:
-  
+  # Individual Assessment: Pass!
   
   --------------
   # Projects:
