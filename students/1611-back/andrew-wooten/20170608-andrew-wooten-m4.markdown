@@ -176,7 +176,7 @@ Evaluation Scores:
   * **E: Documentation**: 4
   * **F: Accessibility**: 4
 
-## E: Community Participation
+## D: Community Participation
 
 ### Gear Up
 #### (Danger of a Single Story)
