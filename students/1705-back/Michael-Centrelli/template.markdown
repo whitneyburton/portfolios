@@ -30,7 +30,7 @@ I thought that my individual projects and work went well this module. I felt com
 
 Description: Build a basic drum machine using a linked list.
 
-"Working through iteration 6,
+Comments: "Working through iteration 6,
 A couple of the methods' return value is off i.e. array instead of string,
 Methods/Classes look clean,
 19 test, 1 failing"
@@ -62,7 +62,7 @@ Methods/Classes look clean,
 
 Description: Create the classic game Battleship. 
 
-"2 5 2 13 tests Included some sad path testing 2 failure Uses multiple classes to break apart functionality. Has a number of long methods - talked about chances to refactor.
+Comments: "2 5 2 13 tests Included some sad path testing 2 failure Uses multiple classes to break apart functionality. Has a number of long methods - talked about chances to refactor.
 A fair amount of .each, but also using .map and .all?"
 
 1: Fundamental Ruby & Style
@@ -97,20 +97,32 @@ PASS. Developer demonstrates mastery of git and GitHub; commits with appropriate
 
 ### Projects
 
-(Intro)
+Overall I think that the group projects this module went well. Having another person to work through problems and conceptualize ideas was a huge asset. It also allowed me to get to know some of my classmates better as people. 
 
-#### (Project Name)
+#### (Night Writer)
 
 * [GitHub URL]()
-* [Original Assignment]()
+* http://backend.turing.io/module1/projects/night_writer
 
 (description)
 
 (evaluation comments)
 
-(evaluation scores)
+1: Fundamental Ruby & Style
 
-(feedback to me)
+3. Application shows strong effort towards organization, content, and refactoring
+
+2: Test-Driven Development
+
+2. Application makes use of tests, but the coverage is insufficient
+
+3: Encapsulation / Breaking Logic into Components
+
+3. Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+
+4: Functional Expectations
+
+3. Application meets all requirements as laid out per the specification.
 
 ## D: Professional Skills
 (Intro)
