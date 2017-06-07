@@ -24,7 +24,6 @@ Passing Scores
 
 ## B: Individual Work & Projects
 
-(Intro)
 
 ## Sailing Club App
 
@@ -65,16 +64,10 @@ Passing Scores
 
 ## C: Group Work & Projects
 
-### Projects
-
-(Intro)
 
 ## HeadCount2.0
 
 * [GitHub URL](https://github.com/JustynaField/headcount2.0)
-
-
-(description)
 
 
 ### Evaluator: Meeka
@@ -107,7 +100,7 @@ Not expected to update this project, teammates should focus on next testing in S
 ## SWAPIbox
 
 * [GitHub URL](https://github.com/JustynaField/SWAPIbox)
-* [Original Assignment] (http://frontend.turing.io/projects/swapi-box.html)
+* [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
 
 ### Evaluator: Taylor
 ### Project Partner: Laura Turk
@@ -134,11 +127,10 @@ Not expected to update this project, teammates should focus on next testing in S
 ## Movie Tracker
 
 * [GitHub URL](https://github.com/JustynaField/movie-tracker)
-* [Original Assignment] (https://github.com/turingschool-examples/movie-tracker)
+* [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
 
 ### Evaluator: Jhun
 ### Partners on the Project: Leta Keane, Kelly Miller, Devin Dixon
-
 
 
 #### Specification Adherence  
@@ -169,10 +161,16 @@ Not expected to update this project, teammates should focus on next testing in S
 
 
 
-
-
 ## D: Professional Skills
-(Intro)
+
+### Mod 3 Deliverables:
+
+* Link to resume: 
+[Justyna Winiarska-Field - Resume](https://drive.google.com/open?id=0B20X2KM6AebDNDc5bk1RSGFOT0E)
+
+* Link to Turing portfolio complete with name, photo, description, 1 project, and resume:
+[Justyna Winiarska-Field - Turing Portfolio](https://www.turing.io/alumni/justyna-winiarska-field)
+
 
 ### Gear Up
 #### (Session Name)
@@ -181,11 +179,43 @@ Not expected to update this project, teammates should focus on next testing in S
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-## E: Community Participation
+
+
+
+
+## E: Feedback & Community Participation
+
+### Receiving Feedback
+
+#### Feedback from Leta:
+It was nice to get to work on a group project with you! Your ideas are good and I think you are stronger than you think you are. Your CSS was killer for MovieTracker. I think the only thing I'd suggest is to just be bolder in taking the lead. You did specifically ask to drive a few times; that was great! Your skillz are good - trust in them :)
+
+#### Feedback from Travis:
+Working with Justyna was a great experience. She is very organized and driven when working with her projects. I learned a lot about testing from working with her. Justyna also did a great job at bringing me back from the edge when I would get stressed out about parts of the project. The biggest thing I would recommend Justyna work on would be her confidence in her abilities. During or project she would quickly get anxious when we came across a problem we couldn’t quickly solve but in the end we made it work. I think Justyna is highly capable developer despite what she may think sometimes and look forward to pairing with her in the future.
+
+#### Feedback from Laura:
+Justyna, I really enjoyed working with you. We communicated well and you are indefatigable partner. I appreciated how, when we were getting down to the wire, you were willing to divide and conquer and take on specific aspects of the project. This was a challenging project and I don't think either one of us managed our stress particularly well in the middle days. I would encourage you to show more confidence in pairing. There were moments when I felt I was rushing you or pressuring you, and would have been happy to hear , "stop!" or "i got this!". Overall, partnering with you was a success, and I'm glad you were my partner for what turned out to be one of the more difficult projects this mod.
+
+
+### Giving Feedback
+
+#### Feedback for Laura:
+Laura, I learnt a lot while working with you. I especially appreciated how you guided me in writing tests for our application. I think that our communication has been great throughout the entire time. I think you work very hard and have great structure. I think we both need to work on managing stress, when working on new and complex problems under pressure of time. But overall this pairing experience has been great, and I would not mind working with you again.
+
+#### Feedback for Leta:
+Leta, I appreciated working with you on Movie Tracker. It was a great group experience. You are a very helpful partner and very dependable. I like how we brainstormed ideas and worked on problems together. I also really like how you’ve always made sure to appreciate our partners when they did something well. It really built up good supportive atmosphere in the group. It was a very difficult project, and I think we all need to work on being more bold when faced with such a big challenge. Our entire Movie Tracker team has been great though. There were absolutely no problems within the team that I would observe. Communication was great.
+
+#### Feedback for Travis:
+What I really admire about Travis is his very strong perseverance in working through the project and making sure that none of the iterations stays incomplete. Travis was a huge support for me when I felt stressed and overwhelmed by the project. He maintained a cool head throughout the entire time, and was really good about keeping us on track. Travis is always available and eager to work. I enjoyed working together with Travis.
+
+#### Feedback for Kelly:
+It was a great experience working with Kelly. She is very easy to work with. We had good communication. I particularly enjoyed working together on routing and how we discussed different ways to approach it, it was a good give and take. I would be happy to work with Kelly again.
+
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I have been trying to be involved in the Turing community as much as I could. I participated on Iron FE. 
+I have also developed some good relationships with other students.
 
 ------------------
 
