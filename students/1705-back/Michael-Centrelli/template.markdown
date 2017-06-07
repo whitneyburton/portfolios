@@ -1,16 +1,16 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Michael Centrelli - (M1) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out this module to learn the fundamentals of ruby style and syntax. I wanted to feel comfortable in ruby and be ready to move on to the next module with that foundation under me. 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**:   3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**:      3
+* **D: Professional Skills**:        3
+* **E: Community Participation**:    3
 
 -----------------------
 
@@ -21,12 +21,12 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+I thought that my individual projects and work went well this module. I felt comfortable tackling challenges on my own, and was able to seek help from others if I wasn't. 
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://github.com/Mcents/jungle_beats
+* http://backend.turing.io/module1/projects/jungle_beat
 
 (description)
 
