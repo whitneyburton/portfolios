@@ -307,3 +307,9 @@ Also guys just a savage.
 ### Outcome
 
 PASS 
+
+* **A: End-of-Module Assessment**: 3.2
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.2
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
