@@ -22,7 +22,7 @@
 
   #### I think I really got a lot out of these group projects. I was able to get comfortable with building out data tables and really digging in to some frameworks that were completely new like electron.
   
-## Capstone
+### Capstone
 
 * [GitHub-Link](https://github.com/kfarias/namesInTime)
 * [Spec](http://frontend.turing.io/projects/capstone.html)
@@ -30,7 +30,7 @@
 ### PASSED!!
 
 
-## Electron
+### Electron
 
 * https://github.com/kfarias/2DoBox-Pivot2
 * http://frontend.turing.io/projects/2DoBox-Pivot
@@ -44,7 +44,7 @@
 
    * 'Cool you pass' - Brittany
   
-## Jet-Fuel
+### Jet-Fuel
 
    * [GitHub-Link](https://github.com/kfarias/jet-fuel)
    * [Project Spec](http://frontend.turing.io/projects/jet-fuel.html)
@@ -61,7 +61,7 @@
 
       * Minor Missing Feature: Users should be able to sort URLs in ascending or descending order. I would expect to be able to double-click the sort buttons and have the sort order reversed, with some sort of visual indicator (up/down arrows?) telling me the current sort.
 
-      ### User Interface
+      #### User Interface
 
       **18 points** - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
@@ -69,18 +69,18 @@
 
       * I'd like to see some visual indication of the 'submit' button being disabled if a user hasn't selected a folder or hasn't entered a URL. 
 
-      ## Data Persistence with SQL Database
+      #### Data Persistence with SQL Database
 
       **20 points** - The application persists data in a SQL database with correct relationships between folders and URLs.
 
-      ### Testing
+      #### Testing
 
       **15 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All controller actions are covered by tests. The application makes some use of integration testing.
 
       * You're correct in your assumption that one of your before/afterEach blocks is a bit off. In your [afterEach](https://github.com/kfarias/jet-fuel/blob/master/test/routes.spec.js#L26) block you are only doing a migration rollback, and you're not re-seeding the database. Although you're reseeding in `beforeEach`, the rollback is actually manipulating your schema rather than simply clearing out and re-seeding your data. I know the blog post we linked you all to showed the rollback call in the before and after hooks, but that could actually lead you astray if you're manipulating your schema during your tests like that. We will clarify this for future mods. In your [test seed data](https://github.com/kfarias/jet-fuel/blob/master/db/test/seeds/folder.js), you could also manually insert the `id` fields for folders & urls so that it doesn't auto-increment. This gives you slightly more control over exactly what's in your test database so that id values aren't changing around on you every time a seed runs.
 
 
-      ### JavaScript Style
+      #### JavaScript Style
 
       **15 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
@@ -95,7 +95,7 @@
       * Make sure you understand the convention of prefixing variables with the dollar sign as you've done [here](https://github.com/kfarias/jet-fuel/blob/master/public/app.js#L25-L26). Neither of these actually reference a jQuery element, which is when you'd want to prefix with a dollar sign. They both represent an ID attribute or an element value - not the elements themselves.
 
 
-      ### Workflow
+      #### Workflow
 
       **15 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
@@ -113,7 +113,7 @@
       
  # B: Individual Projects
 
-  ## BYOB
+  ### BYOB
 
   * [GitHub-Link](https://github.com/kfarias/BYOB)
   * [Project Spec](http://frontend.turing.io/projects/build-your-own-backend.html)
@@ -126,19 +126,19 @@
 
   ## Feature Completion
 
-  ### Endpoints
+  #### Endpoints
 
   60 points: Developer has implemented all 10 endpoints, 4 are secured via JWTs and one is a custom endpoint that filters data based on query params.
 
   * Error handling is pretty weak, but had a total of 11 endpoints and secured them with JWTs.
 
-  ### Data Persistence with SQL Database
+  #### Data Persistence with SQL Database
 
   40 points: The application contains at least 2 tables with a proper relationship between data sources.
 
   * Good job getting in two tables and a relationship that made sense. I recall your `peopleInfo` and `allPeople` table days. I'm glad you were able to pull off a more practical implementation.
 
-  ### Testing and Linting
+  #### Testing and Linting
 
   20 points : Project has a running test suite that covers most happy and sad paths for each endpoint.
 
@@ -147,7 +147,7 @@
   * You have an explicit error message hardcoded for [this](https://github.com/kfarias/BYOB/blob/master/test/routes.spec.js#L107) scenario in your server file. Why not check that the error message is actually what you expect it to be, rather than just testing that the response is an object?
 
 
-  ### JavaScript Style
+  #### JavaScript Style
 
   10 points: Your application has some duplication and minor bugs. Error handling is weak and there are still console.logs in the codebase.
 
