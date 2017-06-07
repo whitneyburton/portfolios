@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-  ##### For this mod I really wanted to get a lot out of learning some back-end or at least knowing enough where I feel confident in being able to work on projects and know how things are connected.
+  ##### For this mod I really wanted to get a lot out of learning some back-end or at least knowing enough where I feel      confident in being able to work on projects and know how things are connected.
 
 ## Rubric Scores
 
@@ -20,7 +20,7 @@
 
 ## Projects
 
-  #### I think I really got a lot out of these group projects. I was able to get comfortable with building out data tables and really digging in to some frameworks that were completely new like electron.
+  #### I think I really got a lot out of these group projects. I was able to get comfortable with building out data tables and  really digging in to some frameworks that were completely new like electron.
   
 ### Capstone
 
@@ -80,7 +80,7 @@
   * You're correct in your assumption that one of your before/afterEach blocks is a bit off. In your [afterEach](https://github.com/kfarias/jet-fuel/blob/master/test/routes.spec.js#L26) block you are only doing a migration rollback, and you're not re-seeding the database. Although you're reseeding in beforeEach, the rollback is actually manipulating your schema rather than simply clearing out and re-seeding your data. I know the blog post we linked you all to showed the rollback call in the before and after hooks, but that could actually lead you astray if you're manipulating your schema during your tests like that. We will clarify this for future mods. In your [test seed data](https://github.com/kfarias/jet-fuel/blob/master/db/test/seeds/folder.js), you could also manually insert the id fields for folders & urls so that it doesn't auto-increment. This gives you slightly more control over exactly what's in your test database so that id values aren't changing around on you every time a seed runs.
 
 
-    #### JavaScript Style
+  #### JavaScript Style
 
     **15 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
@@ -94,7 +94,7 @@
 
     * Make sure you understand the convention of prefixing variables with the dollar sign as you've done [here](https://github.com/kfarias/jet-fuel/blob/master/public/app.js#L25-L26). Neither of these actually reference a jQuery element, which is when you'd want to prefix with a dollar sign. They both represent an ID attribute or an element value - not the elements themselves.
 
-#### Workflow
+  #### Workflow
 
    **15 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
