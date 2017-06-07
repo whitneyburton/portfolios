@@ -2,7 +2,9 @@
 
 ## Areas of Emphasis
 
-
+I wanted to become stronger building databases and writing my own endpoints which I certainly feel I have. I also wanted to give as much effort as I've given the previous 3 modules right up until the last day. I also feel like i have achieved that.
+Finally, I wanted to work with a cool team and build something I would be proud of for Capstone. I also feel that that has been achieved.
+Overall, cool Module and glad to stick it out until the bitter end.
 
 ## Rubric Scores
 
