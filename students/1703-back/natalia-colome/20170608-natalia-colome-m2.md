@@ -8,9 +8,9 @@ Moving forward, I want to have a better understanding about authentication/autho
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
-* **D: Professional Skills**: 4
+* **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
 -----------------------
@@ -20,7 +20,7 @@ Moving forward, I want to have a better understanding about authentication/autho
 | Category | Score |
 | --- | --- |
 | **Individual Assessment** | 4 |
-| **Written Assessment** | 4 |
+| **Written Assessment** | 3.5 |
 
 ## B: Individual Work & Projects
 
@@ -52,7 +52,7 @@ Develop an app to keep track of playlists, songs and artists.
 
 Learnings
 
-I learned how to deploy to Heroku and got practice with many-to-many associations. Where I struggled and had a hard time understanding was Factory Girl; in general, I feel very confident with Ruby on Rails, but I didn't finish the project (I got to refactoring) because I kept having trouble with Factory Girl. 
+I learned how to deploy to Heroku and got practice with many-to-many associations. Where I struggled and had a hard time understanding was Factory Girl; in general, I feel very confident with Ruby on Rails, I do want to practice using Factory Girl more, I know it's a very useful tool and I want to take advantage of it. 
 
 ## C: Group Work & Projects
 
@@ -91,7 +91,7 @@ Evaluation Scores
 | **User Experience and Conventions** | 4 |
 | **Code Organization/Quality** | 4 |
 | **Testing** | 4 |
-| **Working Collaboratively** | 4 |
+| **Working Collaboratively** | 3 |
 
 Feedback to me
 
