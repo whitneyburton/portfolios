@@ -5,6 +5,7 @@
 (What did you set out to accomplish this module?)
 
 ## Rubric Scores
+Fill in how YOU would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: pass
 * **B: Individual Work & Projects**: 3.5
