@@ -9,14 +9,14 @@
 * **A: End-of-Module Assessment**: pass
 * **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 2.5
-* **D: Professional Skills**: 3
+* **D: Professional Skills**: 3.5
 * **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-### Instructors: 
+### Evaluators: 
 #### Brittany Storoz and Taylor Moore
 
 Passing Scores
@@ -79,7 +79,7 @@ Passing Scores
 
 ### Evaluator: Meeka
 
-### Partner on the project: Travis Gregory
+### Project Partner: Travis Gregory
 
 
 #### Specification Adherence
