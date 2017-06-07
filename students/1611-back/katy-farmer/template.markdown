@@ -21,18 +21,13 @@ I wanted to feel like a developer, and I do.
 
 ## B: Individual Work & Projects
 
-(Intro)
-
 #### Open Source Contribution
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://github.com/bthesorceror/arcade_keys
 
-(description)
+I used Arcade Keys in one of my Node.js projects, and it really helped me, so it felt good to give back to the project, even if it was just providing tests. It wasn't tested at all originally, and I discovered why pretty quickly. Testing required that I simulated key presses, which there were tons of examples of, and very few working examples. I also wrote the README, which has been added to the public npm page. 
 
-(evaluation comments)
-
-(evaluation scores)
+I wrote a blog post about the experience on my personal site: https://thekatertot.github.io/blog.html
 
 ## C: Group Work & Projects
 
