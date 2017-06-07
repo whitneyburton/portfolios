@@ -1,4 +1,4 @@
-# Kyle Zucker - M4 Portfolio IN PROGRESS
+# Kyle Zucker - M4 Portfolio 
 
 ## Areas of Emphasis
 
@@ -12,7 +12,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 2.5
-* **E: Feedback & Community Participation**: 2
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
