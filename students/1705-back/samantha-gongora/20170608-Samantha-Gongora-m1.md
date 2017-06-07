@@ -23,28 +23,49 @@
 
 (Intro)
 
+#### Credit Check
+
+* [GitHub URL](https://github.com/samanthagongora/credit_check)
+* [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/credit_check.markdown)
+
+no evaluation
+
 #### Date Night
 
 * [GitHub URL](https://github.com/samanthagongora/date_night)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/date_night.markdown)
 
-(description)
+#TODO (description)
 
 evaluation comments:
-   * Very well tested
-   * Only single board class which is awesome, written super good.
-   * Some small opportunities to refactor, check your indentations as a guide to where to pull out new methods.
+   * 25 tests, all passing
+   * completed up to min
+   * good recursive approach
+   * very thorough testing
 
+evaluation scores:
+1. Fundamental Ruby & Style
+   * 3: Application shows strong effort towards organization, content, and refactoring
+2. Test-Driven Development
+   * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3. Encapsulation / Breaking Logic into Components
+   * 3: Application effectively breaks logical components apart but breaks the principle of SRP
+4. Functional Expectations
+   * 2: Application runs, but does not work properly, or does not meet specifications.
 
 #### Battleship
 
 * [GitHub URL](https://github.com/samanthagongora/battleship)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/battleship.markdown)
 
-(description)
+#TODO (description)
 
-(evaluation comments)
+evaluation comments:
+   * Very well tested
+   * Only single board class which is awesome, written super good.
+   * Some small opportunities to refactor, check your indentations as a guide to where to pull out new methods.
 
+evaluation scores:
 1. Fundamental Ruby & Style
    * 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 2. Enumerable & Collections
@@ -60,25 +81,41 @@ evaluation comments:
 6. Functional Expectations
    * 4: Application meets all requirements, and implements one extension properly.
 
-
 ## C: Group Work & Projects
 
 ### Projects
 
 (Intro)
 
-#### (Project Name)
+#### (Complete Me)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/emcooper/complete_me)
+* [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/complete_me.markdown)
+
+#TODO (description)
+
+evaluation comments: none
+
+evaluation scores:
+1. Fundamental Ruby & Style
+   * 3: Application shows strong effort towards organization, content, and refactoring
+2. Test-Driven Development
+   * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3. Encapsulation / Breaking Logic into Components
+   * 4: Application is expertly divided into logical components each with a clear, single responsibility
+4. Functional Expectations
+   * 4: Application meets all requirements, and implements one extension properly.
+
+#### (Black Thursday)
+
+* [GitHub URL](https://github.com/mdevoe12/black_thursday)
+* [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/black_thursday.markdown)
 
 (description)
 
 (evaluation comments)
 
 (evaluation scores)
-
-(feedback to me)
 
 ## D: Professional Skills
 (Intro)
@@ -94,7 +131,10 @@ evaluation comments:
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+During Module 1, I served as a Student Advisory Board (SAB) Representative. I attended all Thursday SAB meetings and co-lead Friday retros. Feedback received from retros were brought up during SAB meetings to solicit suggestions for improving culture. A few suggestions Jim and I were able to incorporate:
+   * Talking about curriculum concerns to recognize commonality among cohort members, but also encourage survey feedback
+   * Mention at least one positive thing for the week, related to anything
+   * Implementing shout-out opportunities for behavior we want to celebrate
 
 ------------------
 
