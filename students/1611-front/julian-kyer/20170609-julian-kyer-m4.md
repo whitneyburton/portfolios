@@ -137,6 +137,10 @@ JetFuel is a URL-shortening service built with Express, Knex and Postgres. I'd a
 ## D: Professional Skills
 [Mod 4 Career Development Deliverables](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1611-f/julian_kyer.markdown)
 
+#### earsnakk - Capstone
+
+Earsnakk is a social playlist creator. We learned a lot of hard lessons and were happy to hear that we'd passed our capstone project. For the record, I wanted to use AirBnB's linter.
+
 ### Gear Up
 #### Mod 4
 
