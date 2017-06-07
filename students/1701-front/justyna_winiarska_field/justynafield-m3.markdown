@@ -166,10 +166,10 @@ Not expected to update this project, teammates should focus on next testing in S
 ### Mod 3 Deliverables:
 
 * Link to resume: 
-[Justyna Winiarska-Field - Resume](https://drive.google.com/open?id=0B20X2KM6AebDNDc5bk1RSGFOT0E)
+[Resume](https://drive.google.com/open?id=0B20X2KM6AebDNDc5bk1RSGFOT0E)
 
 * Link to Turing portfolio complete with name, photo, description, 1 project, and resume:
-[Justyna Winiarska-Field - Turing Portfolio](https://www.turing.io/alumni/justyna-winiarska-field)
+[Turing Portfolio](https://www.turing.io/alumni/justyna-winiarska-field)
 
 
 ### Gear Up
