@@ -146,12 +146,30 @@ Mod 4 led this Gear Up, where we talked about the experience of priviledge and h
 
 [Link to feedback implementation reflection & application of strengths to teams] (https://gist.github.com/squeemishly/b672abda9f7a20e40605643a237f96e4)
 
+#### Project Management strategies
+
+We used waffle in both of my group projects this mod. While I think that waffle is a little clunky for getting started (we mostly listed the tests we needed to write and then a second card for getting each test to pass), it ended up being a really good communication tool. We were able to tell each other what we were working on in our project without having to stop what we were doing. We were also able to add todos back into the waffle board so we didn't have to stop what we were working on in the moment to address another problem.
+
+#### Mentor & Alumni outreach
+
+I've already formed several connections with developers in Denver. I have one mentor I meet with every other week and a couple other people I chat with on slack. I intend to have coffee with both of them during this upcoming two week break to get their thoughts on job search strategies.
+
 
 ## E: Feedback and Community Participation
 
 ### Playing a Part
 
 I led the Imposters Lunch every Wednesday for this mod. I loved getting to spend more time with people who weren't just mod2 BE. I don't know that this experience has helped me grow as a professional, but it did connect me with some awesome people in the school. I've loved getting to support people on days that they struggled and help them find victories in what they struggled with.
+
+
+### Feedback
+
+Most of the feedback I've gotten has been really positive. I think the hardest feedback that I've received has been that my incessant positivity comes across as having too much confidence. That I don't find school challenging and that I'm rubbing that in the faces of the people around me. I'm not really sure how to tone down my positivity, so I've resorted to not talking as much about how much I'm enjoying the challenges here.
+
+
+## Blog Post
+
+[Posted on Medium] (https://medium.com/@squeemishly/my-first-web-app-53d5249bc6ce)
 
 
 ------------------
