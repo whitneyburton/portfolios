@@ -23,10 +23,12 @@
   #### I think I really got a lot out of these group projects. I was able to get comfortable with building out data tables and really digging in to some frameworks that were completely new like electron.
   
 ## Capstone
+
 * [GitHub-Link](https://github.com/kfarias/namesInTime)
 * [Spec](http://frontend.turing.io/projects/capstone.html)
 
 ### PASSED!!
+
 
 ## Electron
 
@@ -44,20 +46,18 @@
   
 ## Jet-Fuel
 
-  This is the first project that we had to build a database in. We had some difficulties building out the tables and doing the migrations.
-
    * [GitHub-Link](https://github.com/kfarias/jet-fuel)
    * [Project Spec](http://frontend.turing.io/projects/jet-fuel.html)
 
-      This project was really great because it really drove in object oriented development for me.
+  This is the first project that we had to build a database in. We had some difficulties building out the tables and doing the migrations.
 
-      ##### Instructor: Brittany Storoz
+  ##### Instructor: Brittany Storoz
 
-      ## Specification Adherence
+     ## Specification Adherence
 
-      **45 points**: No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+     **45 points**: No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
-      * Minor Bug: If I type in a new URL `http://google.com`, the redirect is broken because it tries to bring you to `http//google.com`. We should have some URL format validation on the front-end that only allows users to type a URL in a particular format. (Better yet would be to support all the different ways people might type a url.) The placeholder text that shows `www.example.com` is somewhat useful in guiding people in the right direction for how to format their URL, but I'd like to see some solid validation here as well.
+     * Minor Bug: If I type in a new URL `http://google.com`, the redirect is broken because it tries to bring you to `http//google.com`. We should have some URL format validation on the front-end that only allows users to type a URL in a particular format. (Better yet would be to support all the different ways people might type a url.) The placeholder text that shows `www.example.com` is somewhat useful in guiding people in the right direction for how to format their URL, but I'd like to see some solid validation here as well.
 
       * Minor Missing Feature: Users should be able to sort URLs in ascending or descending order. I would expect to be able to double-click the sort buttons and have the sort order reversed, with some sort of visual indicator (up/down arrows?) telling me the current sort.
 
@@ -121,8 +121,6 @@
       This project was really great because it really drove in object oriented development for me.
 
     ##### Instructor: Brittany Storoz
-
-    ##### Comments:
 
    # Instructor Feedback [Brittany]
 
