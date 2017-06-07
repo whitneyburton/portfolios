@@ -110,6 +110,11 @@
     -----------------
     
  # Community:
+    * Feedback:
+      * From Spencer: Leta has been a great project partner every time we've worked together. I really enjoy the way that she whiteboards her ideas both for her understanding and for mine. It really helps us get on the same page. I think it might be helpful if you communicated more what you were thinking as you do it as opposed to explaining it after. I know it's easy to get in the zone and knock stuff out but I think it could have helped my understanding a little bit more. That is my one and only criticism. You are a great coder and a great person to work with and I know you'll be a great asset to whatever company you end up working for. Thanks for going 3/3 on projects at Turing!
+      * From Jack: Working with you on Swapi-Box was a very good pairing. As was most of the work for this mod, we had to tackle some pretty tricky concepts in relatively short period of time. Although the testing was a beast of a challenge, I’m proud that we were able to get the project finished in its entirety, did someone say grit? At times I felt we both had a tendency to internalize our thoughts, which made it difficult to know where we were on how to tackle a particular problem. Overall, great working with you, and hope we pair again in the future.
+      * From Kelly: It was great working with Leta for the first time during Movie-Tracker. She provided much needed organization and communication - making sure everyone was on the same page and scheduled extra work time. We both probably could have been more vocal about contributing to the code early in the project, but you worked hard on the organizing and scheduling and then came in and make HUGE contributions with the testing.
+      
     * A recap of reflections from Gear Up
       * Microaggressions:
         - It was a really good conversation with Anders and Laura. We discussed the importance of recognizing microaggressions happening to others, and not expecting the experiencer to educate the observer
