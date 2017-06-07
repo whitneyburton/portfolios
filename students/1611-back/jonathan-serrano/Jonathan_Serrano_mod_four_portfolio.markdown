@@ -45,8 +45,8 @@
 
 ## Projects
 ### Capostone  - Will Legislate
-* [Github Url] (https://github.com/meyerhoferc/will-legislate-for-money)
-* [Production Url](http://legislate.money/)
+* [Github Url](https://github.com/meyerhoferc/will-legislate-for-money)
+* [Production](http://legislate.money/)
 
 * Will Legislate is a python/django app that gives voters easier access to information on their legislators' campaing funding and congressional action. This was my first introduction to python, I had never worked with it before and was excited to have to opportunity to work with it. The environment setup was tricky, it took me a day or so to get it up and running correctly. It's an intersting setup, having a virtual environment with a wrapper that you can only execute python commands and install packages inside of that wrapper. The code was 'easy' to understand, read and write. What was confusing and it still hinders my ability to move around the app, is the file structure. Plain and simple there is no structure and its all over the place. If I had a chance to go back to this project, I'm not sure I would attack it differently, I was able to touch the two big parts of the features added, Oauth and chart visualization. My team had great workflow and communication which made the project itself that much easier to handle.
 
@@ -66,7 +66,7 @@
 
 ### Quantified Self
 * [Backend URL](https://github.com/JonathanSR/quantified_self)
-* [Frontend](https://github.com/valerietrudell/quantified-self)
+* [Frontend URL](https://github.com/valerietrudell/quantified-self)
 * [Production](https://valerietrudell.github.io/quantified-self/)
 
 *  Quantified self is a full stack app with a backend written in node and express and a javascript frontend. All of these tools were pretty much brand new to me. I've never used node before to write server-side javascript or using express to build out an api. I had touched javascript but not on this level. The whole experience was gratifying in that two applications were created to work in tandem. My most enjoyable part of it was building out the backend. Reason being that the code being written was weird but familiar. For example the sql queries written to access the database were written in js which was the werid part but it being an sql query it was still familiar to write, read and comprehend.
