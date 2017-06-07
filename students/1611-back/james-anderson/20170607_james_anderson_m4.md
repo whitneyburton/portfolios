@@ -15,12 +15,76 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 -----------------------
 
 #### A: End of Module Assessment
-Still waiting on individual scores but I've been told it was 3s across the board
+### 1. Satisfactory Progress
+
+* 4: Developer completes sections 1 through 5 with no bugs and has one or more supporting feature implemented.
+* **3: Developer completes sections 1 through 5 minor bugs and no missing functionality.**
+* 2: Developer completes sections 1 through 5 with some _minor_ bugs or missing functionality.
+* 1: Developer fails to complete sections 1 through 5 or there are significant issues with delivered functionality.
+
+_Your filter by unread/read buttons are a little buggy. The “top” and “hot” functionality was intended for your Url Lock box application, not your Hot Reads, but what you have is fine!_
+
+### 2. Ruby & Rails Style & API
+
+* 4: Developer is able to craft Rails features that follow the principles of MVC, push business logic down the stack, and skillfully utilizes ActiveRecord to model application state. Developer can speak to choices made in the code and knows what every line of code is doing.
+* **3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.**
+* 2: Developer struggles with some concepts of MVC.  Developer is not confident in what every line of the code is doing or cannot speak to the choices made.
+* 1: Developer struggles with MVC and pushing logic down the stack
+* 0: Developer shows little or no understanding of how to craft Rails applications
+
+_I’d love for you to extract the ordering and limiting logic out of your controller in Hot Reads. Additionally, I’d love for the view not to need to decide which link is “top” or “hot.” In Url Lockbox, I’d love for the view not to need to do “link.read == false” - this could be a method in your Link model. Overall, your Rails style looks good_
+
+### 3. Javascript Syntax & Style
+
+* 4: Developer uses elegant and idiomatic Javascript to accomplish common tasks. Demonstrates solid understanding of function passing and manipulation. Developer can speak to choices made in the code and knows what every line of code is doing.
+* **3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.**
+* 2: Developer can accomplish basic tasks with Javascript but implementation is largely copy/pasted or non-idiomatic. Developer is not confident in what every line of the code is doing or cannot speak to the choices made.
+* 1: Developer can manipulate Javascript syntax but implementation is buggy or inconsistent.
+* 0: Developer shows little or no understanding of Javascript syntax and idioms
+
+_Your JS code could use some refactoring, but you’ve done a good job breaking the functionality into functions and organizing your code in files. You have some repetitive code, but that’s okay - you can refactor later! Good work getting the JS functionality down. The filtering by read/unread is a bit wonky so I’d check into that (whenever you have time and if you want to)_
+
+### 4. Testing
+
+* 4: Developer excels at taking small steps and using the tests for *both* design and verification. Developer uses integration tests, controller tests, and model tests where appropriate.
+* **3: Developer writes tests that are effective validation of functionality, but don’t drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.**
+* 2: Developer uses tests to guide development, but implements more functionality than the tests cover. Application is missing tests in a needed area such as model, integration, or controller tests.
+* 1: Developer is able to write tests, but they’re written after or in the middle of implementation.
+* 0: Developer does not use tests to guide development.
+
+_I’d love to see model tests in your Hot Reads app, but overall, your tests look solid._
+
+### 5. User Interface
+
+* 4: The application is pleasant, logical, and easy to use
+* **3: The application has many strong pages/interactions, but a few holes in lesser-used functionality**
+* 2: The application shows effort in the interface, but the result is not effective
+* 1: The application is confusing or difficult to use
+
+_The URL and title fields do not clear after creating a link. Your Only Read and Only Unread filter buttons are a little buggy. Overall, the structure and format of both applications looks good._
+
+### 6. Documentation
+
+* 4: Project features excellent documentation showing how to develop the application including a screencast or tutorial
+* **3: Project features excellent documentation showing how to develop the applications**
+* 2: Project features barebones documentation showing how to get the dev environment up and running
+* 1: Project has insufficient documentation
+
+_Nice work on the documentation!_
+
+### 7. Workflow
+
+* 4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+* **3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.**
+* 2: The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
+* 1: The developer committed the code to version control in only a few commits. The evaluator cannot determine the evolution of the application.
+* 0: The application was not checked into version control.
+
+_Looking good!_
 
 # B: Projects
 
 ## Capstone - Robot with a'Tude
-
 
 * [GitHub URL](https://github.com/CjMoore/howler)
 * [Chrome Extension URL](https://github.com/CjMoore/howler-extension)
@@ -146,9 +210,14 @@ A feature should be something like 'get-all-foods' that is just for one endpoint
 - 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
 - 1: Team failed to use a project management tool to track its progress.
 
-# C: Feedback and Community Participation
+# C: Open Source Contribution
+For the open source contribution I added 100 quotes from the Dos Equis commercial series "The Most Intersting Man in the World" to the Faker gem.
 
-# Gear Up
+[Pull Request]https://github.com/stympy/faker/pull/937
+
+# D: Feedback and Community Participation
+
+## Gear Up
 
 #### Universal Basic Income
 
