@@ -23,20 +23,23 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 *   [GitHub URL](https://github.com/dhubertus/ufo-sighting-google-maps)
 
-#### Specification Adherence
-3: The application completes 5 iterations.
+#### Feature Delivery
+##### Completion
+3: Developer completed all the user stories and requirements set during check-ins.
+##### Organization
+3: Developer used a project management tool to keep their project organized.
 
-#### Code Quality
-3: Developer appears comfortable in React demonstrated gaps in knowledge of how the tools should be used and/or the app contains unrefactored code.
+#### Technical Quality
+##### Test-Driven Development
+3.5: Project shows adequate testing (90% - 95% coverage).
+##### Code Quality
+3: Project demonstrates solid code quality, proper abstractions, and reduced duplication.
 
-#### PropType Implementation
-Pass: Proptype validation is implemented for any component receiving props.
-
-#### CSS/Design
-3.5: Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has multiple recommendations for design changes.
-
-#### Testing
-3.5 - Almost all components are tested to a level that indicates developer has an understanding of testing.
+#### Product Experience
+##### User Experience
+3.5: Project exhibits a production-ready user experience.
+##### Performance
+3: Project pages load on average under 400 milliseconds.
 
 
 ## B: Group Work & Projects
