@@ -206,15 +206,21 @@ It was interesting to see how comments can unintentionally hurt someone.  It was
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
 * Let's say tech executives (consciously or subconsciously) seek teams in which at least 1/3 of team members are like them (gender, age, race). How will this impact the types of jobs available?
+
 -the study seems to say that jobs will become segregated and predominantly available to to people similar to the executives
 * Diversity "quotas" are sometimes dismissed as counter-productive or missing the point of actually valuing diversity. PotP does demonstrate how they may add some value. What are your attitudes toward diversity quotas; does this game change your assumptions?
+
 -I still don’t like pure quotas. I’d still rather have the best person for the job based on personality and qualifications.  I personally like the idea of a soft quota or push for diversity.  *I will say that I feel like as a man, my best project partners have been women and I think it’s due the the diversity.  I’d just rather be paired with a man who is talented technically and socially than a woman who is not*
 
 * Given the patterns illuminated by PotP, what other strategies may be effective in counteracting bias?
+
 - I liked the whole less than 10% or greater than 80% thing.  I think it’s important to try to consider multiple perspectives in this manner.
+
 * PotP speaks to the power of group norms: a seemingly innocuous attitude, wanting to be surrounded by at least 1/3 of people who look like you, when embraced by a large group, can have huge implications on that community. Considering this reality, what knowledge and understandings should Turing impart to students to ensure they do not enter the field perpetuating ideas that are in conflict with our mission.
+
 - Be aware of this and include people who seem to be outliers
 * PotP is a pretty sweet example of how technology can illustrate complex ideas. What are PotP's goals, and how effective do you think the game is in advancing those goals?
+
 - It’s the data visualization that matters.  The interactivity didn’t play much of a role for me, but seeing the shapes move around did.  Overall it’s somewhat effective since it wasn’t immediately clear to me what the data was trying to show every time.  For a couple of the examples, I had to watch it a couple of times before I got it.
 
 ### Playing a Part
