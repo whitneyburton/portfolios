@@ -1,10 +1,10 @@
 # Kyle Zucker - M4 Portfolio 
 
-## Areas of Emphasis
+### Areas of Emphasis
 
 My personal emphasis hasn't changed: learn, work with other developers and start building lasting relationships. And continue to code a lot. 
 
-## Rubric Scores
+### Rubric Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
@@ -16,10 +16,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 -----------------------
 
-## End of Module Assessment
+### A - End of Module Assessment
 
-### 10 hour final
+#### 10 hour final
 Evaluator: Robbie
+
 Result: Pass 
 
 Personal Notes:
@@ -27,11 +28,11 @@ Personal Notes:
 Finally got to use my favorite color scheme in a project. After adding some tests Robbie appeared to be reluntantly satisfied with the result. 
 
 
-## Work & Projects
+### B&C - Work & Projects
 
 Here are some wicked sweet things I've done this Mod
 
-##### Jet Fuel
+#### Jet Fuel
 
 Partner: Julian
 
@@ -63,7 +64,7 @@ Personal notes:
 I set the bar too high for myself and burned myself out by looking up the mountain instead actually climbing it. But I'm pretty stoked to have a base to continue with post-grad.
 
 
-##### Turing Overflow
+#### Turing Overflow
 
 Partner: Staci, Mike
 
@@ -87,15 +88,19 @@ Personal notes:
 Fun project. I enjoyed going into something new/different. 
 
 
-### Professional Development Workshops
+### D - Professional Development Workshops
 
 Big fan of the detailed post-grad job plan. I've felt the need to do something at that level for awhile now and it's great to have a plan I'm confident about. I also appreciate the push for outreach and connection forming. 
 
 
-### Gear Up
-#### UBI Leadership
+#### Gear Up
+##### UBI Leadership
 
 I enjoyed leading the gear up with my group. UBI is something I've been supporting and it was nice to share that with other students.
+
+### E - Community Participation
+
+I continued my reign as SAB rep. I also continued to pair with students below me. Demo night and Code fair participation was fun and I hope my small part can help continue the tradition. 
 
 
 ------------------
