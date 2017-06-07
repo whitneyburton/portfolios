@@ -57,9 +57,9 @@
 
      **45 points**: No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
-     * Minor Bug: If I type in a new URL `http://google.com`, the redirect is broken because it tries to bring you to `http//google.com`. We should have some URL format validation on the front-end that only allows users to type a URL in a particular format. (Better yet would be to support all the different ways people might type a url.) The placeholder text that shows `www.example.com` is somewhat useful in guiding people in the right direction for how to format their URL, but I'd like to see some solid validation here as well.
+    * Minor Bug: If I type in a new URL `http://google.com`, the redirect is broken because it tries to bring you to `http//google.com`. We should have some URL format validation on the front-end that only allows users to type a URL in a particular format. (Better yet would be to support all the different ways people might type a url.) The placeholder text that shows `www.example.com` is somewhat useful in guiding people in the right direction for how to format their URL, but I'd like to see some solid validation here as well.
 
-      * Minor Missing Feature: Users should be able to sort URLs in ascending or descending order. I would expect to be able to double-click the sort buttons and have the sort order reversed, with some sort of visual indicator (up/down arrows?) telling me the current sort.
+     * Minor Missing Feature: Users should be able to sort URLs in ascending or descending order. I would expect to be able to double-click the sort buttons and have the sort order reversed, with some sort of visual indicator (up/down arrows?) telling me the current sort.
 
       #### User Interface
 
