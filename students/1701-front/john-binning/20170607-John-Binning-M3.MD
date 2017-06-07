@@ -68,7 +68,7 @@ SWApi Box is an app built in react, that hits multiple Star Wars Apis and return
 about the different movies. This app was a huge challenge in using promises as we had to hit one api and return that data before we could hit the second, third, etc.
 This was a two person project and the pairing went really well.
 
-##SWAPIbox
+## SWAPIbox
 
 Students: Adam and John
 
