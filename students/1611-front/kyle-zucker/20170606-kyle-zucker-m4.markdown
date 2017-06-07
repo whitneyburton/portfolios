@@ -22,7 +22,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 Evaluator: Robbie
 Result: Pass 
 
-Finally got to use my favorite color scheme in a project. After adding some tests Robbie appeared reluntantly satisfied with the result. 
+Personal Notes:
+
+Finally got to use my favorite color scheme in a project. After adding some tests Robbie appeared to be reluntantly satisfied with the result. 
+
 
 ## Work & Projects
 
@@ -40,6 +43,10 @@ Full notes here:
 
 https://github.com/turingschool/front-end-submissions-public/blob/master/1611/mod-4/jet-fuel/julian-kyle.md
 
+Personal notes: 
+
+Enjoyable challenge of a project. This felt like the first real strech to encompass the full stack of web dev. 
+
 
 #### BYOB
 
@@ -51,26 +58,39 @@ Full Notes:
 
 https://github.com/turingschool/front-end-submissions-public/blob/master/1611/mod-4/byob/Zucker-BYOB.md
 
+Personal notes: 
+
+I set the bar too high for myself and burned myself out by looking up the mountain instead actually climbing it. But I'm pretty stoked to have a base to continue with post-grad.
+
 
 ##### Turing Overflow
 
-Evaluator: Rob and Brit? 
+Partner: Staci, Mike
 
-Score: 0/150
+Evaluator: Rob
 
-Notes:
+Score: ?/150
 
+Full Notes: Ask Robbie!
+
+Personal notes:
+
+Project experience was the closest to 'real work' that I've had so far at Turing. It was great to give birth to something together with a good team. 
 
 
 #### wbwr - Electron
 
 Passed! 
 
+Personal notes: 
+
+Fun project. I enjoyed going into something new/different. 
 
 
 ### Professional Development Workshops
 
 Big fan of the detailed post-grad job plan. I've felt the need to do something at that level for awhile now and it's great to have a plan I'm confident about. I also appreciate the push for outreach and connection forming. 
+
 
 ### Gear Up
 #### UBI Leadership
