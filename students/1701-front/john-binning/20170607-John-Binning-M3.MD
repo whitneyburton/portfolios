@@ -158,6 +158,16 @@ Good start on refactoring - but keep cleaning up things like [comments here](htt
 
 ### Giving Feedback
 
+#### For Adam Carpenter, SwapiBox Partner
+
+Working with Adam on Swapi Box was great.  Swapi Box itself is the worst.  
+
+Adam displayed a fantastic work ethic.  He displayed a great understanding of Javascript and CSS, and continued to learn and improve as the project went on.  
+
+The only constructive feedback I have is that he might want to give himself a break/pom more often, but at the same time he seems to have a good workflow down, so I could be wrong about that as well.
+
+Adam did a great job staying positive during our toughest project, and I would be happy to work with him again.
+
 #### For Jack Bevis, UX/UI partner
 
 First and foremost, no one (that I am aware of anyway) can set a width property as well as Jack.  He is the GOAT width setter.
