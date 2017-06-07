@@ -21,14 +21,14 @@ I set out this module to learn the fundamentals of ruby style and syntax. I want
 
 ## B: Individual Work & Projects
 
-I thought that my individual projects and work went well this module. I felt comfortable tackling challenges on my own, and was able to seek help from others if I wasn't. 
+I thought that my individual projects and work went well this module. I felt comfortable tackling challenges on my own, and was able to seek help from others if I wasn't. There was a clear difference from jungle beats to battleship in terms of indiviudal knowledge which help me to see my progress.  
 
-#### (Project Name)
+#### (Jungle Beats)
 
 * https://github.com/Mcents/jungle_beats
 * http://backend.turing.io/module1/projects/jungle_beat
 
-(description)
+description: Build a basic drum machine using a linked list.
 
 "Working through iteration 6,
 A couple of the methods' return value is off i.e. array instead of string,
