@@ -144,7 +144,7 @@ MovieTracker was meant to increase our understanding of React and to use Redux f
 
 This project was by far the most difficult for me. I did NOT have a good understanding of Redux or of Fetch or databases before. I am looking forward to taking a deeper look into this project and possible doing my own version over break in order to make sure that I understand everything is happening. I think that I have a much better handle on Redux now that I have worked on my personal project and would be interested to see how much easier it would be.)
 
-(Specification Adherence
+Specification Adherence
 
 4: The application meets all of the requirements listed above and implements one or more of the extensions.
 Redux Architecture
@@ -173,19 +173,20 @@ This mods focus has been on job searches. They asked us to start making specific
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
 Parable of The Polygons
-(This gear up was meant to help us understand the impact that even small amounts of prejudice can have. While a lot of people are not actively racist or sexist, preferring to work with people that are like you can have pretty significant effects on segregation and the work place. We had an interesting discussion regarding anonymous interviews and the positive impact that it can have on subconscious bias and/or prejudice.)
+
+This gear up was meant to help us understand the impact that even small amounts of prejudice can have. While a lot of people are not actively racist or sexist, preferring to work with people that are like you can have pretty significant effects on segregation and the work place. We had an interesting discussion regarding anonymous interviews and the positive impact that it can have on subconscious bias and/or prejudice.)
 
 #### MicroAggressions
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md)
 
-(This gear up was aimed at helping us understand actions that we could take upon seeing microaggressions. We were given different scenarios and asked how we would handle them and our group had a good discussion regarding whether the term itself can be helpful to society. It was also aimed at reminding us that everyone has subconscious bias and that we need to actively work on ensuring that those are lessened with conscious effort.)
+This gear up was aimed at helping us understand actions that we could take upon seeing microaggressions. We were given different scenarios and asked how we would handle them and our group had a good discussion regarding whether the term itself can be helpful to society. It was also aimed at reminding us that everyone has subconscious bias and that we need to actively work on ensuring that those are lessened with conscious effort.
 
 #### Ethics and Technology of the Snowden Leaks
 
 * [GitHub URL](https://gist.github.com/blackknight75/c7ef4e8ef1a197d50593bce078fc9d7f)
 
-(This was probably the most interesting gear up that I participate in. The point of this gear up was to talk about the Snowden leaks and to basically consider what we would have done in the same situation. The biggest takeaway from this is that privacy vs security is still something that a lot of people struggle with. We actually had a person in our group argue for the NSA and it was interesting to hear their perspective since I wholeheartedly disagree. Overall it was a very successful student-led gear up session.)
+This was probably the most interesting gear up that I participate in. The point of this gear up was to talk about the Snowden leaks and to basically consider what we would have done in the same situation. The biggest takeaway from this is that privacy vs security is still something that a lot of people struggle with. We actually had a person in our group argue for the NSA and it was interesting to hear their perspective since I wholeheartedly disagree. Overall it was a very successful student-led gear up session.
 
 
 ## E: Community Participation
