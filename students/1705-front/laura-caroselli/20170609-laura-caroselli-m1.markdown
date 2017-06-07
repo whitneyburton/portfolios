@@ -114,6 +114,7 @@ During our evaluation, Brenna gave Jason and I some more suggestions in how we c
 * [Evaluation Score] (https://github.com/turingschool/front-end-submissions-public/blob/master/1705/mod-1/2DoBox/laura-jason.md)
 
 (feedback)
+"Laura, I had a great time working with you on the 2DoBox project.  I feel like given the other stresses of the week we were able to develop a plan and accomplish everything on time and with ease.  I really enjoyed getting to work independent of each other giving me more experience with pull requests.  Thank you for being so detailed in your work.  I learned a great deal watching you restructure the Script syntax and your updates to the HTML with WAI-ARIA were the most detailed that I have seen.  I personally am a fan of getting constructive feed back on things that I could work on.  I would love to give you some, however I have none to give you based on this experience.  Thank you for making the final project of Mod1 enjoyable.  Very well done."
 
 
 ## D: Professional Skills
@@ -125,22 +126,22 @@ I genuinely appreciate Turing's emphasis on developing professional skills that 
 
 1. Growth/Fixed Mindset <br />
 I think starting off our gear-up series with the growth/fixed mindset discussion really helped to instill in me that I am meant to be here, and that I can learn if I am responsible and focused with my learning.
-If I think about that end goal, I am confident that I can grow into the developer I want to become. I can keep up my momentum if I'm not afraid to ask questions. Continuing to have the motivation and willingness to grow and be vulnerable and take feedback will be significant as I move through my journey in this new role.
+If I think about my end goal, I am confident that I can grow into the developer I want to become. I can keep up my momentum if I'm not afraid to ask questions. Continuing to have the motivation and willingness to grow and be vulnerable will be significant as I continue Turing. 
 
 2. Getting Better at Difficult Things <br />
-Getting Better at Difficult Things really helped me identify some tips I can integrate into my own life. Currently, I try to focus on small tasks and tackle one problem at a time. I take an overview of all the skills I want to refine and focus on them one at a time. I think I could better manage my cognitive resources by setting tasks for the day in a list ahead of time, instead of stressing about what my tasks for the day will be day-of. I think offloading some of my tasks and making a reasonable routine/schedule will help me better manage my cognitive resources.
+Getting Better at Difficult Things really helped me identify some tips I can integrate into my own learning. Currently, I try to focus on small tasks and tackle one problem at a time, but this Gear Up helped me think about the bigger picture. I think I could better manage my cognitive resources by setting tasks for the day in a list ahead of time, instead of stressing about what my tasks for the day will be day-of.
 
 3. Introverts/Extroverts/Ambiverts <br />
-As an extrovert, I appreciated this discussion, and it was particularly helpful in identifying how the introverted working style best operates. I can help an introverted partner be at their best by respecting their space and work style enough to let them digest what they need before collaborating; I can encourage them to take the time they need to feel “recharged” enough to work together. Since the introverted working style tends to get energy from alone time, I can be more thoughtful to not overwhelm them with conversation, or railroad the project a certain direction without their feedback.
+As an ambivert (leaning extrovert), I appreciated this discussion, and it was particularly helpful in identifying how the introverted working style best operates. It was interesting to learn about how I can best help an introverted partner when we're working together on projects. Since the introverted working style tends to get energy from time alone, I can be more thoughtful to not overwhelm them with conversation, or railroad the project a certain direction without their feedback.
 
 4. Strengths & Storytelling <br />
 I am still working on my story, but I decided to attend Turing and follow this career path because it is something that has interested me since I was a kid. As I grew older, I gradually became more and more curious about programming and developed my skills in short bursts. I wanted to accelerate these skills and fully commit myself to this field, and I knew Turing could help me achieve these goals. This gear-up was helpful in guiding me toward creating a more concrete identity for myself as a developer. 
 
 5. Debugging the Gender Gap <br />
-This movie and gear-up gave me hope for our community. My experiences as a woman entering a technical field are very similar to the stories shared in the film. As a child, I was discouraged from pursuing anything "too hard" or "too technical" for a girl, and I've had to constantly remind myself that I am good enough to be here. As a child, I did light coding and had a vested interest in pursuing computer science, but my relatives discouraged me from pursuing it because they thought the math or science behind it would be too difficult for me, even though I was actually very good at it. It made me internalize that I wasn't good enough or welcome in this field. This movie helped expose the industry for what it currently is and shed light on the problems we have introducing technical fields to young girls. 
+This movie and gear-up gave me hope for our community. My experiences as a woman entering a technical field are very similar to the stories shared in the film. As a child, I was discouraged from pursuing anything "too hard" or "too technical" for a girl, and I've had to constantly remind myself that I am good enough to be here. This movie helped expose the industry for what it currently is and shed light on the problems we have introducing tech to young girls. 
 
 6. Leveraging Privelege <br />
-This gear-up was a great follow-up to the previous one. We watched two videos on privilege and they both lended themselves to an excellent group discussion. These videos identified multiple categories of privelege that we might not be aware of, and I appreciated it immensely. Often, we are blind to our own privilege and confronting it can be uncomfortable. It takes an active approach to recognize your privilege and leverage it in a positive way.
+This gear-up was a great follow-up to the previous. We watched two videos on privilege and they both lended themselves to an excellent group discussion. These videos identified multiple categories of privelege that we might not be aware of, and I appreciated it immensely. Often, we are blind to our own privilege and confronting it can be uncomfortable. It takes an active approach to recognize your privilege and leverage it in a positive way.
 
 
 
