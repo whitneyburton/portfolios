@@ -5,7 +5,7 @@ This Mod I set out with the intention to learn JavaScript and prepare myself for
 
 ## Individual Assessment
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
