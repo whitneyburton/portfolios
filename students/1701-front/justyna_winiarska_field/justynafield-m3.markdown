@@ -9,7 +9,7 @@ My goal for this module was to get to the point where I feel comfortable writing
 ## Rubric Scores
 **Fill in how YOU would grade yourself from 1-4 in the following categories this module:**
 
-* **A: End-of-Module Assessment**: pass
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 2.5
 * **D: Professional Skills**: 3.5
