@@ -16,29 +16,29 @@ My goal this module was to understand what is happening in the back-end to round
 
 ## A: End of Module Assessment
 
-#### Pass
+##### Pass
 
-#### Specification Adherence
+##### Specification Adherence
 * 3: The application is in a usable state, but is missing 1 major feature or 1-2 minor features outlined in the specification above. Application is in production.
 * Watch out for form validation - I can put an item in the garage without filling out the form, although it doesn't persist in the DB
 * Missing edit of cleanliness (or at least I can't find how to edit them)
 
-#### Javascript Syntax & Style
+##### Javascript Syntax & Style
 * 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
 * For [`fetch` calls](https://github.com/juliankyer/garage-bin/blob/master/public/script.js), you will want to be able to handle a 404 response, which isn't handled by the `catch()` block.
 
-#### Testing
+##### Testing
 * 3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests and a few unit tests where appropriate.
 - Pretty basic happy and sad paths covered; could test a little more thoroughly, for instance testing for response type (`json`) and for client-side routes (get a 200 status from '/')
 - Can be a bad assumption that you want to take everything from the [body of the request](https://github.com/juliankyer/garage-bin/blob/master/server.js#L23), what if someone put in a property or data that is malicious?
 
-#### CSS Style
+##### CSS Style
 *CSS is graded on quality, not quantity. You don't need a lot of CSS to have a pleasant interface*
 * 3:  Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
 
-#### User Interface
+##### User Interface
 * 3.5: The application has many strong pages/interactions
-#### Workflow
+##### Workflow
 * 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
 
@@ -53,13 +53,31 @@ My goal this module was to understand what is happening in the back-end to round
 
 BYOB is a back-end built with Express, Knex, Postgres, and deployed to Heroku via CircleCI. I was surprised at how much I enjoyed building this project.
 
-(evaluation comments)
+**Instructor Feedback - Brittany**
 
-(evaluation scores)
+##### Feature Completion
+
+Endpoints
+
+**60 points**: Developer has implemented 11 of 10 endpoints and secured 4 of them with JWTs or have a custom endpoint based on query params.
+
+Great job with accurate error handling and proper response codes
+Data Persistence with SQL Database
+
+**40 points**: The application contains at least 2 tables with a proper relationship between data sources.
+
+Seed files are a little intense with data. I would break out the actual json data into a separate file and import it into your seeds file so you can insert it all at once and keep the seed file clean and readable.
+Testing and Linting
+
+**20 points**: Project has a running test suite that covers most happy and sad paths for the appropriate endpoints. The project has a linting configuration that passes with no errors.
+
+##### JavaScript Style
+
+**15 points**: Your application has some duplication and minor bugs. Developer can speak to most choices made in the code and knows what every line is doing.
+
+**Points: 135 / 150**
 
 ## C: Group Work & Projects
-
-### Projects
 
 #### JetFuel
 
@@ -132,11 +150,9 @@ I had to miss the planning sessions for medical appointments related to Founders
 
 On May 19th I participated in Founders Fights, a Boulder Startup Week event. It was a charity boxing competition with the goal of getting tech and startup people to give back to their community. I am working on a blog about it, but I will try to summarize my thoughts here.
 
-Turing spends a lot of time talking about how to create the kind of world we want to live in. When I had the opportunity to participate in Founders Fights, I knew I had to do it, because it offered a chance to put my money where my mouth is. Or rather, my donor's money where my mouth is, and my face where the fists are. 
+Turing spends a lot of time talking about how to create the kind of world we want to live in. Everything I type about the event, and specifically why I chose to participate, feels clunky, but it was important for me to raise money for RAINN, the country's largest anti-sexual assault organization. Taking strong, conscious positions seems an integral part of this community; I'm grateful that Turing provided me the opportunity to stand up for something I believe in and I appreciated the support of my peers. 
 
-Everything I type about the event feels clunky, but it was important for me to raise money for RAINN, the country's largest anti-sexual assault organization, and I'm grateful that Turing provided me the opportunity to stand up for something I believe in.
-
-Also, TA-ing a Try Turing event with yung-Jhun was a blast and 10/10 would do it again.
+TA-ing a Try Turing event with yung-Jhun was also a blast and 10/10 would do it again. And per usual, I enjoyed pairing with other mods. This is a special place and I'll miss being here every day, and 1611 in particular.
 
 ------------------
 
