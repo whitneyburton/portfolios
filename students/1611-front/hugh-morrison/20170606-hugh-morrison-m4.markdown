@@ -26,7 +26,7 @@ This mod, we worked on a host of projects individually. Here, I will showcase my
 
 * [GitHub URL](https://github.com/hmorri32/byo-backend)
 
-* BYO backend was a spicy little number. I stole heaps of shark data from a non profit and created my own shark related backend with super CRUD capabilities.
+* BYO backend was a spicy little number. I created my own shark related backend with super CRUD capabilities.
 * This API was built using node/express/postgres/and knex.
 * This was a super challenging project. Writing all the yung routes and creating an ultra robust testing suite was not only time consuming but also quite educational.  
 
