@@ -247,8 +247,8 @@ and do what I can to lift it during times of group stress.
 
 PASS
 
-A: End-of-Module Assessment: 
-B: Individual Work & Projects: 
-C: Group Work & Projects: 
-D: Professional Skills: 
-E: Feedback & Community Participation: 
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 4
+C: Group Work & Projects: 4
+D: Professional Skills: 3
+E: Feedback & Community Participation: 3
