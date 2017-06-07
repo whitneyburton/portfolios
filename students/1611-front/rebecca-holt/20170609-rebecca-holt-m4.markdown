@@ -73,6 +73,8 @@ Feedback: I worked with Becca in mod1 before - so it was really great to work wi
 
 Our capstone project consisted of building a back-end for a government data set of social security baby names from 1880-2016 and displaying the data on the front-end with d3. 
 
+Passed
+
 Feedback: Working with Becca has been great. She is incredibly organized and can get anything done that she sets her mind to. Becca is an incredible developer and she really took on some challenging problems in our app. I know you will go very far in your career and I am excited to see where your future job/jobs lead you! - Kenia 
 
 ## D: Professional Skills
