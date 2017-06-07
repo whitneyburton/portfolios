@@ -21,6 +21,12 @@
 ## Projects
 
   #### I think I really got a lot out of these group projects. I was able to get comfortable with building out data tables and really digging in to some frameworks that were completely new like electron.
+  
+## Capstone
+* [GitHub-Link](https://github.com/kfarias/namesInTime)
+* [Spec](http://frontend.turing.io/projects/capstone.html)
+
+### PASSED!!
 
 ## Electron
 
