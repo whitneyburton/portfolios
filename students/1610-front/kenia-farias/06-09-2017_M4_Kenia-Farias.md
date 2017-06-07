@@ -57,7 +57,7 @@
 
      **45 points**: No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
-    * Minor Bug: If I type in a new URL `http://google.com`, the redirect is broken because it tries to bring you to `http//google.com`. We should have some URL format validation on the front-end that only allows users to type a URL in a particular format. (Better yet would be to support all the different ways people might type a url.) The placeholder text that shows `www.example.com` is somewhat useful in guiding people in the right direction for how to format their URL, but I'd like to see some solid validation here as well.
+    * Minor Bug: If I type in a new URL http://google.com, the redirect is broken because it tries to bring you to http//google.com. We should have some URL format validation on the front-end that only allows users to type a URL in a particular format. (Better yet would be to support all the different ways people might type a url.) The placeholder text that shows www.example.com is somewhat useful in guiding people in the right direction for how to format their URL, but I'd like to see some solid validation here as well.
 
      * Minor Missing Feature: Users should be able to sort URLs in ascending or descending order. I would expect to be able to double-click the sort buttons and have the sort order reversed, with some sort of visual indicator (up/down arrows?) telling me the current sort.
 
@@ -67,7 +67,7 @@
 
       * Looks nice! Easy to use and follow the interaction flow with this design.
 
-      * I'd like to see some visual indication of the 'submit' button being disabled if a user hasn't selected a folder or hasn't entered a URL. 
+      * I'd like to see some visual indication of the 'submit' button being disabled if a user hasn't selected a folder or    hasn't entered a URL. 
 
       #### Data Persistence with SQL Database
 
@@ -75,22 +75,22 @@
 
       #### Testing
 
-      **15 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All controller actions are covered by tests. The application makes some use of integration testing.
+      **15 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All           controller actions are covered by tests. The application makes some use of integration testing.
 
-      * You're correct in your assumption that one of your before/afterEach blocks is a bit off. In your [afterEach](https://github.com/kfarias/jet-fuel/blob/master/test/routes.spec.js#L26) block you are only doing a migration rollback, and you're not re-seeding the database. Although you're reseeding in `beforeEach`, the rollback is actually manipulating your schema rather than simply clearing out and re-seeding your data. I know the blog post we linked you all to showed the rollback call in the before and after hooks, but that could actually lead you astray if you're manipulating your schema during your tests like that. We will clarify this for future mods. In your [test seed data](https://github.com/kfarias/jet-fuel/blob/master/db/test/seeds/folder.js), you could also manually insert the `id` fields for folders & urls so that it doesn't auto-increment. This gives you slightly more control over exactly what's in your test database so that id values aren't changing around on you every time a seed runs.
+    * You're correct in your assumption that one of your before/afterEach blocks is a bit off. In your [afterEach](https://github.com/kfarias/jet-fuel/blob/master/test/routes.spec.js#L26) block you are only doing a migration rollback, and you're not re-seeding the database. Although you're reseeding in beforeEach, the rollback is actually manipulating your schema rather than simply clearing out and re-seeding your data. I know the blog post we linked you all to showed the rollback call in the before and after hooks, but that could actually lead you astray if you're manipulating your schema during your tests like that. We will clarify this for future mods. In your [test seed data](https://github.com/kfarias/jet-fuel/blob/master/db/test/seeds/folder.js), you could also manually insert the id fields for folders & urls so that it doesn't auto-increment. This gives you slightly more control over exactly what's in your test database so that id values aren't changing around on you every time a seed runs.
 
 
       #### JavaScript Style
 
       **15 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-      * Wonderful job making sure to always include `.catch()` blocks when working with promises. One day we will do a lesson on more proper/useful error handling, but this is a good first step.
+     * Wonderful job making sure to always include .catch() blocks when working with promises. One day we will do a lesson on more proper/useful error handling, but this is a good first step.
 
-      * You can and should still send along an appropriate status code for your [redirect](https://github.com/kfarias/jet-fuel/blob/master/server.js#L67).
+     * You can and should still send along an appropriate status code for your [redirect](https://github.com/kfarias/jet-fuel/blob/master/server.js#L67).
 
-      * The URL endpoint [here](https://github.com/kfarias/jet-fuel/blob/master/server.js#L84-L94) is a little off. I know it still works, but you want to try to match up your POST request URLs with your GET request URLs. i.e. to get the links for a particular folder, you have an endpoint that's like [/api/v1/folders/:id/links](https://github.com/kfarias/jet-fuel/blob/master/server.js#L53). I would stay consistent with this format and use it for your POST request as well. Otherwise it's a little tricky to tell where exactly that new URL is getting POSTed to. It does not clearly demonstrate that any new URL is going to be POSTed under a specific folder.
+     * The URL endpoint [here](https://github.com/kfarias/jet-fuel/blob/master/server.js#L84-L94) is a little off. I know it still works, but you want to try to match up your POST request URLs with your GET request URLs. i.e. to get the links for a particular folder, you have an endpoint that's like [/api/v1/folders/:id/links](https://github.com/kfarias/jet-fuel/blob/master/server.js#L53). I would stay consistent with this format and use it for your POST request as well. Otherwise it's a little tricky to tell where exactly that new URL is getting POSTed to. It does not clearly demonstrate that any new URL is going to be POSTed under a specific folder.
 
-      * The functionality within your [document.ready](https://github.com/kfarias/jet-fuel/blob/master/public/app.js#L4) doesn't actually need to be wrapped in `document.ready`. A fetch request doesn't depend on the DOM existing, so you could actually kick off that GET request immediately. Only functions that are intended to be executed right away **and** depend on a DOM element should be wrapped in `document.ready`.
+     * The functionality within your [document.ready](https://github.com/kfarias/jet-fuel/blob/master/public/app.js#L4) doesn't actually need to be wrapped in document.ready. A fetch request doesn't depend on the DOM existing, so you could actually kick off that GET request immediately. Only functions that are intended to be executed right away and depend on a DOM element should be wrapped in document.ready.
 
       * Make sure you understand the convention of prefixing variables with the dollar sign as you've done [here](https://github.com/kfarias/jet-fuel/blob/master/public/app.js#L25-L26). Neither of these actually reference a jQuery element, which is when you'd want to prefix with a dollar sign. They both represent an ID attribute or an element value - not the elements themselves.
 
