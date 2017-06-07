@@ -1,4 +1,4 @@
-# (Margo Schaedel) - (M1) Portfolio
+# Margo Schaedel - M1 Portfolio
 
 ## Areas of Emphasis
 
