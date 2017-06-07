@@ -298,8 +298,12 @@ Also guys just a savage.
 
 ### Notes
 
-( Leave blanks for reviewers )
-
+- Start giving back to the community 
+  - Helping out lower modules / Running Iron FE 
+- Try to talk through problems without the use of a computer. 
+  - Whiteboard / write out the problme 
+  - Mid / Senior doesn't need the computer to test the assertion. 
+  
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS 
