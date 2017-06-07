@@ -22,6 +22,11 @@ My goal for the module was to become proficient at react and get down the basics
 
 ## B: Individual Work & Projects
 
+
+## C: Group Work & Projects
+
+### Projects
+
 ### Headcount
 
 
@@ -86,10 +91,6 @@ Instructor: yung-jhun
 
 3 - Almost all components are tested to a level that indicates developer has an understanding of testing
 
-## C: Group Work & Projects
-
-### Projects
-
 We were given two group projects, Game Time, and Weathrly.
 
 #### (Movie Tracker)
@@ -153,81 +154,30 @@ Good start on refactoring - but keep cleaning up things like [comments here](htt
 * 3: The group makes a series of small, atomic commits that document the evolution of their application and it is clear who was responsible for what features.
 
 
-
-# Instructor Evaluation Points: weathrly
-# Instructor:
-# Comments:
-
-### Specification Adherence
-
-4 - The application meets all of the requirements listed above and implements one or more of the extensions.
-
-### User Interface
-
-4 - The application is pleasant, logical, and easy to use. The application is fully responsive, and has clearly had special consideration around usability on devices. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
-
-### HTML Style
-
-3.5: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
-
-### CSS/Sass Style
-
-3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
-
-### JavaScript / React Style
-
-4 - Application has exceptionally well-factored code with little or no duplication and all components separated out into logical components. There are zero instances where an instructor would recommend taking a different approach to design and component architecture.
-
-### Testing
-
-3.5 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of feature testing.
-
-### Workflow
-
-3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
-
-### Code Sanitation
-
-The output from a code sanitizer (either JSHint or ESLint) shows…
-
-4 - Zero complaints
-
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-#### For Justyna Field, Complete-Me partner:
-
-Working with Justyna the second time around was great again. Just like the first time, we had wonderful give and take, and we agreed up front that no one would fall behind. I feel like the pairing allowed me to learn by teaching Justyna, but at the same time I learned even more from what she taught me. It was great seeing how much she had learned and grown since our first pairing.  Our communication was excellent, and we were consequently able to stop any arguments before they even started. I would be happy to work with her again.  Also, our game was awesome!
 
 #### For Leta Keane, 1701 FE Peer
 
-Though I never formally paired with her, Leta has done a great job as a member of the cohort and the community.  She started up a D3 study group, and was always trying to get things started.  She was very helpful to the mod as a whole, often perceiving when people were not understanding concepts and trying to help out.  I look forward to hopefully pairing with her officially some time in the future.
+Though I never formally paired with her, Leta has done a great job as a member of the cohort and the community.   She was very helpful to the mod as a whole, often perceiving when people were not understanding concepts and trying to help out.  I look forward to hopefully pairing with her officially some time in the future.  We have a concept on accessibility we would love to get a chance to work out.
 
-#### For Chris Brandrowsky, 1701 Peer
+#### For Chris Brandrowsky, 1701 HeadCount Partner
 
 ##### If we paired this mod, on a project or otherwise, how did you feel about our group experience? What did/didn't work? Any recommendations for the future?
 
-* Though we didn't officially pair, I sit next to Chris everyday.  He was very helpful overall.
+* Working with Chris on Headcount was great.  
 
-##### How have our interactions throughout the mod helped with your understanding of code, or the development of you as a programmer?
+Chris displays a great handle on both Javascript and CSS concepts.  He is a hard worker and a good teammate to have.  He makes good design choices with both code and UI.
 
-* Chris was always willing to help me out when I didn't understand something.  His help was critical to not falling behind during lessons.
+Chris has a tendency to sometimes underestimate himself.  When things go wrong, he can get down on himself quickly.  My advice to him is to remember all the times before he has faced adversity and still come through it well.  I have seen him make it through many difficult things and I have confidence in him, if he can get that same confidence in himself he will go far.
 
-##### Have our interactions as a whole affected your experience as a Turing student?
-
-* Positive :) Chris again is always helpful and not afraid to ask questions.
-
-##### What are some things I could work on in future mods?
-
-* You're actually pretty decent at this, believe in yourself more
+Despite him being (literally) the worst person I have EVER met, I would be happy to work with Chris again.  He is a great project partner and sitnextoperson/deskmate/whateveritscalled.
 
 
 ### Recieving Feedback
 
-#### From Justyna Field, linked-list partner: 
-
- It is always very inspiring for me to see how you pay attention to every detail and really make sure that every piece of the code is very well understood. It is great to see the incredible progress you’ve made since the last time we worked together. I think that you are a very respectful partner and also very supportive. I like working with you because you always make sure that we are both on the same page and nobody ever falls behind. Just like before, this was a very good pairing experience. It would be great to work together again in the future.
  
 #### From Leta Keane, 1701 FE Peer
  
@@ -235,41 +185,41 @@ John and I weren't paired for projects, but he and I worked together whiteboardi
  
 #### From Chris Brandrowsky, 1701 FE Peer
  
-##### How was my communication
-* Your communication is on point. You're great at explaining what's on your mind, what ideas you have, and what we could try to do to write better code. 
+You’ve been a super awesome person to sit next to for 3 mods. It’s been great bouncing ideas off of each other, and having each other explain difficult concepts to each other. You are low key the champion of this mod, you stealthily crush it every time and are tremendous support unit for our team. Our mod would be wildly different without you around. You handle challenge and stress with dignity and poise and you hold yourself high during any difficult situation.
 
-##### What did I do well?
-* Communication, stated above. But you're also a super positive influence on this mod, your support for us all is awesome. 
-
-##### How can I improve for next time?
-* No major suggestions, you've been great to work with throughout the mod.
+Also, I went to a Rockies Game last night. I would like to say that they won based on my mere presence of attending that game, so you’re welcome.
  
-#### From  Jason Lucas, Mod1 pairing partner
+#### From Jack Bevis, UX/UI partner:
 
-##### How was my communication
-* Very good.
+“Right off the bat, the success of Mass Cultiv8r would not have happened without you. Working with you on the UX/UI was great. We brought the same sense of humor to the project, while also maintaining the work ethic to get it done well. Also, pairing on general class assignments was great, you provided me with a lot of help and insight and I appreciate that. Hope we get a chance to work together again."
 
-##### What did I do well?
-* John did a very good job of making sure that I understood each step of Mythical Creatures instead of just walking me thru the process.  
+### Gear Up
 
-##### How can I improve for next time?
-* Bring coffee
+#### (MicroAggresions)
 
-#### From Laura Turk, Weathrly partner:
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_group2.md)
 
-##### How was my communication
-* Your communication is excellent. I appreciated your frequent checkins and your explanation of your thought process. You are a conscientious communicator, aware of turn-taking and not dominating any interaction, and it makes for an extremely pleasant and productive pairing. 
+It was interesting to see how comments can unintentionally hurt someone.  It was also interesting to see how many small hurtful comments can be more harmful than one very hurtful one.
 
-##### What did I do well?
-* Your understanding of javascript, css and ability to troubleshoot code are excellent. You obviously have a thorough understanding of concepts and are able to explain them well. You did an great job of dividing the tasks, setting clear expectations, and communicating where you were, what you wanted to accomplish, what our next steps should be, and how you were planning to do so. You humored my silliness and had a casual rapport, which facilitated remaining stress-less during stressful moments. I really enjoyed partnering with you and hope to do so again! :tada: :taco:
+#### (Tragedy of the Commons)
 
-##### How can I improve for next time?
-* I would encourage you to apply some project management paradigm to your projects to safe-guard against following a single functionality's rabbit-hole and keep the project moving forward. We both tended to get bogged down on a single problem, and perhaps wasted some valuable time in doing so. I think you did a good job of saying, "maybe we should table this" , and I think those moments probably could have come earlier.
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
+* Let's say tech executives (consciously or subconsciously) seek teams in which at least 1/3 of team members are like them (gender, age, race). How will this impact the types of jobs available?
+-the study seems to say that jobs will become segregated and predominantly available to to people similar to the executives
+* Diversity "quotas" are sometimes dismissed as counter-productive or missing the point of actually valuing diversity. PotP does demonstrate how they may add some value. What are your attitudes toward diversity quotas; does this game change your assumptions?
+-I still don’t like pure quotas. I’d still rather have the best person for the job based on personality and qualifications.  I personally like the idea of a soft quota or push for diversity.  *I will say that I feel like as a man, my best project partners have been women and I think it’s due the the diversity.  I’d just rather be paired with a man who is talented technically and socially than a woman who is not*
+
+* Given the patterns illuminated by PotP, what other strategies may be effective in counteracting bias?
+- I liked the whole less than 10% or greater than 80% thing.  I think it’s important to try to consider multiple perspectives in this manner.
+* PotP speaks to the power of group norms: a seemingly innocuous attitude, wanting to be surrounded by at least 1/3 of people who look like you, when embraced by a large group, can have huge implications on that community. Considering this reality, what knowledge and understandings should Turing impart to students to ensure they do not enter the field perpetuating ideas that are in conflict with our mission.
+- Be aware of this and include people who seem to be outliers
+* PotP is a pretty sweet example of how technology can illustrate complex ideas. What are PotP's goals, and how effective do you think the game is in advancing those goals?
+- It’s the data visualization that matters.  The interactivity didn’t play much of a role for me, but seeing the shapes move around did.  Overall it’s somewhat effective since it wasn’t immediately clear to me what the data was trying to show every time.  For a couple of the examples, I had to watch it a couple of times before I got it.
 
 ### Playing a Part
 
-##### I feel that I stepped up as a community member this mod.  I joined the Pahlka Posse and helped lead a spike on accessibility.  I started attending the denver js meetup.  I also opened myself up to pairing and paired with several mod1 students. Additionaly, I reached out to Robbie Lane, a turing Alum, and set up a mentor relationship with him.
+##### I feel that I stepped up as a community member this mod. I contributed to the Pahkla Posse food4all project with several pull requests.  I have been attending the Denver JS meetup, and am signed up for Dinosaur.js.  Additionaly, I reached out to a friend who works for GitHub and have been mentoring with him.
 ------------------
 
 ## Final Review
