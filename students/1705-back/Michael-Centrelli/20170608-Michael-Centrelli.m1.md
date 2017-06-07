@@ -148,13 +148,29 @@ This session was interesting. I think that it applies really well to students at
 
 * https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md
 
-I thought this session was also really appliciable to us as students. Especially with the paired projects were you can have two partners with compeletely different personalities and ways of working.  
+I thought this session was also really appliciable to us as students. Especially with the paired projects where you can have two partners with compeletely different personalities and ways of working. It really helps to be able to know how your partner may work best.  
+
+#### (Personal Story)
+
+* https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown
+
+In order to know where you are going, you have to know where you are coming from. It was really nice to think about again, why we came to Turing and essentially how we got here. It helped to put things in perspective and solidify the reasons for coming here. It was also good to think about how others percieve you compared to how you want them to. Overall really helpful.
+
+#### (Debugging the Gender Gap)
+
+* https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md
+
+I enjoyed the video in this session. I thought that it brought a lot of light to the issue, and was nice that is was focused on the tech world in general. It really makes you think about your own expierences and how they were similiar or different. And then to look at the issue in terms of the Turing community. It is something that needs to be worked on in the small scale as well as the large. 
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I spent a decent amount of time working with my Turing mentor. He was extremely helpful on a number of projects. Not just providing answers, but working with me so I lead myself there. He is a connection that I hope to keep outside of Turing. 
+
+I also provided a fair bit of comic relief for the class especially during tough project times. And I spent time trying to gather students for outside activities like going to the bar, and spending lunches outside. I went to a number of possie meetings to try and see what I might like. The lab and armstrong possi'se were especially interesting and I plan for mod 2, to dive deeper into one of those.
+
+Outside of my required cleaning days, I helped to clean the kitchen many times late at night. The Turing community is amazing and I hope that moving forward I can spend more of my time integrating with it. I would love to help with recruitment or something of that sort.  
 
 ------------------
 
