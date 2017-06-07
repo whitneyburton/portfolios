@@ -5,11 +5,11 @@
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: 
-*   **B: Individual Work & Projects**: 
-*   **C: Group Work & Projects**: 
-*   **D: Professional Skills**:
-*   **E: Feedback & Community Participation**:
+*   **A: End-of-Module Assessment**: 3
+*   **B: Individual Work & Projects**: 3 
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -221,6 +221,8 @@ same page. 10 out of 10, would work with again.
 From Keji Amos:
 I appreciated that we had similar backgrounds, coming from education. I think that was very useful in allowing us to work well 
 together. You're organized, a good planner, and you're a quick study.
+
+From Justyna: It was a great experience working with Kelly. She is very easy to work with. We had good communication. I particularly enjoyed working together on routing and how we discussed different ways to approach it, it was a good give and take. I would be happy to work with Kelly again.
 
 
 ### Playing a Part
