@@ -53,7 +53,7 @@
 
 ##### Instructor: Brittany Storoz
 
-## Specification Adherence
+#### Specification Adherence
 
    **45 points**: No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
@@ -108,7 +108,7 @@
 ### To get a 3 on this project, you need to score 110 points or higher
 ### To get a 4 on this project, you need to score 135 points or higher
 
-   # Final Score: 128 / 150
+   ## Final Score: 128 / 150
       
  # B: Individual Projects
 
@@ -120,10 +120,6 @@
       This project was really great because it really drove in object oriented development for me.
 
     ##### Instructor: Brittany Storoz
-
-   # Instructor Feedback [Brittany]
-
-  ## Feature Completion
 
   #### Endpoints
 
