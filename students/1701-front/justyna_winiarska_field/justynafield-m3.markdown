@@ -178,15 +178,6 @@ It was an interesting session for me because I have never given it enough though
 #### Tragedy of the Commons
 An interesting comment was made by one of the students, which was that by nature people try to surround themselves with those who are like them. It is sometimes very difficult to avoid bias, because subconsciously we make subjective judgements about other people. If management selects 1/3 of workers who are just like them, those people might dominate the entire working environment and create a specific cultrue at work. 
 
-#### Dangers of a Single Story
-
-
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-
-
-
 
 ## E: Feedback & Community Participation
 
