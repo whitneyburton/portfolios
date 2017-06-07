@@ -30,7 +30,7 @@ Passing Scores
 * [GitHub URL](https://github.com/JustynaField/Self-Directed-Project)
 * [Plan](https://github.com/turingschool/front-end-submissions-public/blob/master/1701/mod-3/self-directed/Justyna-Field/1-checkin.md)
 
-(description)
+The project I chose to build is a web appliaction for a sailing/ racing club at Union Reservoir, CO. It is a site where user can check wind conditions on the lake: wind speed, direction and gust, like also general weather conditions (visibility and temp). User is also able to record their sailing/racing logs (date/ boat name / distance / time / details). That information can be added and persists on page after refresh. I am plannig to keep working on this project. I would like to add login/logout functionality, routing, have other data come in via api (photographs, or racing results).
 
 ### Evaluator: Meeka
 
