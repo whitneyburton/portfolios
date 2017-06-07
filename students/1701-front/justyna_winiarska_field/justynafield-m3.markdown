@@ -170,10 +170,17 @@ Not expected to update this project, teammates should focus on next testing in S
 [Turing Portfolio](https://www.turing.io/alumni/justyna-winiarska-field)
 
 
-### Gear Up
-#### (Session Name)
+## Gear Up
 
-* [GitHub URL]()
+#### Automation
+It was an interesting session for me because I have never given it enough thought before. I really liked how students had to stand on either side of the classrooom to show how much they are for or against authomation. It was also a very interesting discussion with other students becasue there were very good arguments made on both sides. I like how Mod4 students facilitated the group discussions and how this particular session had a quite different structure.  
+
+#### Tragedy of the Commons
+An interesting comment was made by one of the students, which was that by nature people try to surround themselves with those who are like them. It is sometimes very difficult to avoid bias, because subconsciously we make subjective judgements about other people. If management selects 1/3 of workers who are just like them, those people might dominate the entire working environment and create a specific cultrue at work. 
+
+#### Dangers of a Single Story
+
+
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
