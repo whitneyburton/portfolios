@@ -105,10 +105,10 @@
    * I also tell everyone to make sure you have a consistent style for your commit messages. It is super nitpicky, but try to format them in the same manner as the default 'Merge' commits that github creates: 'Start with capital letter no punctuation'. You'll likely join dev teams that have a standard style for messages and they'll hound you for it until you conform. [Here](https://chris.beams.io/posts/git-commit/) is a blog post on some good conventions.
 
 
-    ### To get a 3 on this project, you need to score 110 points or higher
-    ### To get a 4 on this project, you need to score 135 points or higher
+### To get a 3 on this project, you need to score 110 points or higher
+### To get a 4 on this project, you need to score 135 points or higher
 
-    # Final Score: 128 / 150
+   # Final Score: 128 / 150
       
  # B: Individual Projects
 
