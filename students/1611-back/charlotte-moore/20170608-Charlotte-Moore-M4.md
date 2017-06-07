@@ -143,17 +143,17 @@ Spencer, Max, and Eric: 1
  
 Quantified Self is a food diary application that uses a Node.js/Express backend. The entire application is written in JavaScript. This was the first project in which we created two completely seperate applications that handle the frontend and backend independantly. I learned a lot about how to make two applications communcate with eachother. 
 
-# Andrew & Charlotte
+#### Andrew & Charlotte
 
 * Backend Github Link:https://github.com/CjMoore/quantified-self-be
 * Frontend Github Link:https://github.com/CjMoore/quantified-self
 * Frontend Production Link:https://cjmoore.github.io/quantified-self/
 
-## Rubric
+#### Rubric
 
 You will be subjectively graded by an instructor on the following criteria:
 
-### Specification Adherence
+#### Specification Adherence
 
 - 4: Application implements all functionality as defined, with no bugs, and one extension
 - **3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect**
@@ -163,7 +163,7 @@ You will be subjectively graded by an instructor on the following criteria:
 *I'm really impressed with this app overall.  Great job!
 I can enter in negative calories for a food :( otherwise I think it's a 4*
 
-### Planning and Design
+#### Planning and Design
 
 - 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
 - **3: Team created either a schema or API docs to facilitate implementation of a service.**
@@ -172,7 +172,7 @@ I can enter in negative calories for a food :( otherwise I think it's a 4*
 
 *Willing to bump this to a 4 if you can get me a schema.  I couldn't open the one in the README Good documenation.*
 
-### Testing
+#### Testing
 
 - 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.
 - **3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests.**
@@ -181,7 +181,7 @@ I can enter in negative calories for a food :( otherwise I think it's a 4*
 
 *I know unit tests for the front end we're difficult to get up and running. Backend tests are sufficent.  I would like to see response codes tests for a succsessful post, or a unprocessable entity.  I get two failing unit tests for the backend*
 
-### HTML/UI
+#### HTML/UI
 
 - **4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.**
 - 3: Application is not confusing to use. HTML classes and IDs are kebab case.
@@ -191,7 +191,7 @@ I can enter in negative calories for a food :( otherwise I think it's a 4*
 *Y'all! These checkboxes are mad fresh. Losing my shit over here.  Everything is well styled, the UX makes a lot of sense.
 Well designed, only small demerit is there should be a way for me to navigate back to the homepage without clicking on the back button.*
 
-### JS syntax and Style
+#### JS syntax and Style
 
 - 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
 - **3: Code logically divided into files. Developer can show examples of some SOLID concepts. Attention payed to indentation and naming.**
@@ -201,7 +201,7 @@ Well designed, only small demerit is there should be a way for me to navigate ba
 *Not really syntax or style, but I would pass in the values directly into the model instead of passing the params object. Good use of ES6 syntax like fat arrows.
 Find meals function is a little bit gnarly and could use a refactor. Other than that good clean code, good separation of files and concerns.*
 
-### Git Workflow
+#### Git Workflow
 
 - 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation
 - **3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.**
@@ -215,7 +215,7 @@ not to litter your commit history.  For instance update README.md there are mult
 Try using `git commit --amend` this will let you keep the same commit message as your previous commit.  I would also
 look into squashing.*
 
-### Project Management
+#### Project Management
 
 - 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
 - **3: Team is using a project management tool to keep their project organized.**
