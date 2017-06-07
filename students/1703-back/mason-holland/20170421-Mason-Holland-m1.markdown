@@ -147,4 +147,4 @@ At this point at Turing I wouldn't say I've contributed a great deal to the comm
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED

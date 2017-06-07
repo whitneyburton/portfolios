@@ -1,4 +1,4 @@
-# Natalie Barron - M2 Portfolio
+     # Natalie Barron - M2 Portfolio
 
 ## Areas of Emphasis
 
@@ -45,35 +45,23 @@ The Next Industrial Revolution: Automation https://natbee.github.io/mod_2_techni
 
 | CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
 | --- | --- | --- |
-| **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md)
-| **Github Repo** | [Bike Repo](https://github.com/somedayrainbows/bike-share)
-| **Functional Expectations** | 3 | x |
-| **ActiveRecord** | 3 | X |
-| **User Experience and Conventions** | 4 | x |
-| **Code Organization/Quality** | 4 | X |
-| **Testing** | 3 | X |
-| **Working Collaboratively** | 4 | X |
-
-| **Project Spec** | Little Shop Spec][Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
-| **Github Repo** | [Little Shop Repo](https://github.com/somedayrainbows/tripvontrapp) |
-| **Feature Completeness | 3 |
-| **Controllers | 3.5 |
-| **Views | 3 |
-| **Models | 4 |
-| **Testing | 4 |
-| **Usability | 3 |
-| **Workflow |  3 |
+| **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
+| **Github Repo** | [Bike Repo](https://github.com/somedayrainbows/bike-share) | [Little Shop Repo](https://github.com/somedayrainbows/tripvontrapp) |
+| **Functional Expectations** | 3 | 3 |
+| **ActiveRecord** | 3 | - |
+| **User Experience and Conventions** | 4 | 3 |
+| **Code Organization/Quality** | 4 | 3.5/3/4 |
+| **Testing** | 3 | 4 |
+| **Working Collaboratively** | 4 | 3 |
 
  Bike Share evaluation comments:
-  -Impressive styling
-  -Stations CRUD: solid
-  -Trips CRUD: new/create, edit (partial), delete, index
-  -Weather CRUD: solid
-  -Bugs: deleting station presents (poss) issues rerendering stations index   -page, creating station with invalid city affects stations index page
-  -Trips dashboard analytics 3/4 working, seed file only showing August data    for one year, correctly identified count for Aug but incorrectly applies to additional 2 years
+  - Impressive styling  
+  - Stations CRUD: solid  
+  - Trips CRUD: new/create, edit (partial), delete, index  
+  - Weather CRUD: solid  
+  - Bugs: deleting station presents (poss) issues rerendering stations index   -page, creating station with invalid city affects stations index page  
+  - Trips dashboard analytics 3/4 working, seed file only showing August data    for one year, correctly identified count for Aug but incorrectly applies to additional 2 years  
 
-> Little Shop evaluation comments:
-\<Instructor Comments Here>
 
 ##### Feedback to me for Bike Share
 
@@ -160,6 +148,11 @@ https://github.com/turingschool/career-development-curriculum/pull/115/commits/7
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Notes
 
-> #### Outcome ( Leave blank for reviewers )
+*   Taking mod off
+*   Solid technical development this inning
+
+#### Outcome
+
+PROMOTED
