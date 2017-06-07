@@ -221,7 +221,7 @@ For the open source contribution I added 100 quotes from the Dos Equis commercia
 
 #### Universal Basic Income
 
-It was a lot of fun to lead a GearUp. Our group was pretty in sync with what we wanted to do which made things easier. Having taught before, it was pretty easy to bang out a lesson plan so we spent much of the second planning session researching what video we wanted to show. I pleasantly surprised with how receptive and engaged the class was. We managed to get a lot of great conversation out of them both in small groups and as whole. I think it went down pretty well and received some great feedback from Ellen Mary and a few 'thank-you's' from students on the way out, which is always nice.
+It was a lot of fun to lead a GearUp. Our group was pretty in sync with what we wanted to do which made things easier. Having taught before, it was pretty easy to bang out a lesson plan so we spent much of the second planning session researching what video we wanted to show. I was pleasantly surprised with how receptive and engaged the class was. We managed to get a lot of great conversation out of them both in small groups and as whole. I think it went down pretty well and received some great feedback from Ellen Mary and a few 'thank-you's' from students on the way out, which is always nice.
 
 ------------------
 
