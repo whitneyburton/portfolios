@@ -77,9 +77,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 
 ### Module 3 (Back-end)
-
-* See the template [here]("https://github.com/turingschool/portfolios/blob/master/BEM3_template.markdown")
-
+* See template[here](./BEM3_template)
 * Individual Assessment
 * Included Projects: Self-Directed Project, Rales Engine, Cloney Island
 * Bonus Project (not required): APIcurious
