@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-What did you set out to accomplish this module?
+**What did you set out to accomplish this module?**
 
 My goal for this module was to get to the point where I feel comfortable writing code in React. I wanted to learn to make API calls and get more practice manipulating large data sets. I also wanted to develop logical thinking and strengthen fundamental JavaScript.
 
