@@ -31,6 +31,10 @@ I thought that my individual projects and work went well this module. I felt com
 (description)
 
 (evaluation comments)
+Working through iteration 6
+A couple of the methods' return value is off i.e. array instead of string
+Methods/Classes look clean
+19 test, 1 failing
 
 (evaluation scores)
 
