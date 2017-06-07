@@ -287,7 +287,7 @@ From Chris Jordan: Pairing Mod 1
 
 ### Playing a Part
 
-<!-- This mod, I've really immersed myself in the Turing community. I continued my involvement with the verou posse and gained valuable insight into design and data visualization. I joined iron-fe, which met every morning to tackle complex javaScript problems. I also met with a meditation group every Wednesday and practiced for thirty minutes. I tried to put myself out there as much as possible and I feel as though it really paid off. What a great mod. -->
+This mod, I've really immersed myself in the Turing community. I continued my involvement with the verou posse and gained valuable insight into design and data visualization. I joined iron-fe, which met every morning to tackle complex javaScript problems. I also met with a meditation group every Wednesday and practiced for thirty minutes. I tried to put myself out there as much as possible and I feel as though it really paid off. What a great mod.
 
 ------------------
 
