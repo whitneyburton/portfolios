@@ -21,14 +21,14 @@ I set out this module to learn the fundamentals of ruby style and syntax. I want
 
 ## B: Individual Work & Projects
 
-I thought that my individual projects and work went well this module. I felt comfortable tackling challenges on my own, and was able to seek help from others if I wasn't. There was a clear difference from jungle beats to battleship in terms of indiviudal knowledge which help me to see my progress.  
+I thought that my individual projects and work went well this module. I felt comfortable tackling challenges on my own, and was able to seek help from others if I wasn't. There was a clear difference from jungle beats to battleship in terms of indiviudal knowledge which helped me track my progress. I found battleship to be incredibly challenging, but also rewarding. Working through that project helped me understand a lot better the breaking down of logic. 
 
 #### (Jungle Beats)
 
 * https://github.com/Mcents/jungle_beats
 * http://backend.turing.io/module1/projects/jungle_beat
 
-description: Build a basic drum machine using a linked list.
+Description: Build a basic drum machine using a linked list.
 
 "Working through iteration 6,
 A couple of the methods' return value is off i.e. array instead of string,
@@ -52,6 +52,46 @@ Methods/Classes look clean,
 3. Application effectively breaks logical components apart but breaks the principle of SRP
 
 5: Functional Expectations
+
+3. Application meets all requirements as laid out per the specification.
+
+#### (Battleship)
+
+* https://github.com/Mcents/Battle_ship
+* http://backend.turing.io/module1/projects/battleship
+
+Description: Build a basic drum machine using a linked list.
+
+"Working through iteration 6,
+A couple of the methods' return value is off i.e. array instead of string,
+Methods/Classes look clean,
+19 test, 1 failing"
+
+1: Fundamental Ruby & Style
+
+2. Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+
+2: Enumerable & Collections
+
+3. Application demonstrates comfortable use of several Enumerable techniques
+
+3: Test-Driven Development
+
+2. Application makes some use of tests, but the coverage is insufficient
+
+4: Git Workflow
+
+PASS. Developer demonstrates mastery of git and GitHub; commits with appropriate frequency, with clear, atomic commits that demonstrates a clear history.
+
+: REPL Interface
+
+3. Application's REPL is clear and pleasant to use
+
+5: Breaking Logic into Components
+
+3. Application effectively breaks logical components apart with clear intent and usage
+
+6: Functional Expectations
 
 3. Application meets all requirements as laid out per the specification.
 
