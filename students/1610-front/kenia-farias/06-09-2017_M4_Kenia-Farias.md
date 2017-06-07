@@ -82,7 +82,7 @@
 
   #### JavaScript Style
 
-    **15 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+   **15 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
    * Wonderful job making sure to always include .catch() blocks when working with promises. One day we will do a lesson on more proper/useful error handling, but this is a good first step.
 
