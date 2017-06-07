@@ -6,17 +6,17 @@ I wanted to feel like a developer, and I do.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
 ## A: End of Module Assessment
 
-Strong maybe
+PASSED
 
 
 ## B: Individual Work & Projects
@@ -113,7 +113,7 @@ Accessibility
 ### Gear Up
 #### Lending Privilege
 
-* [GitHub URL]()
+* https://gist.github.com/stacimcwilliams/3e86b87cb93fdae4c7d5008edce7d21e
 
 I really like facilitating a Gear-Up. I felt that because students were able to choose their sessions, they were more engaged
 and willing to participate. I think our session led to some valuable conversations about how to recognize privilege and also
