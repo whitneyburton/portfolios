@@ -158,6 +158,15 @@ Good start on refactoring - but keep cleaning up things like [comments here](htt
 
 ### Giving Feedback
 
+#### For Jack Bevis, UX/UI partner
+
+First and foremost, no one (that I am aware of anyway) can set a width property as well as Jack.  He is the GOAT width setter.
+
+Secondly, Jack displayed a fantastic sense of humor and willingness to bolster the gainz community in the effort of cultivating mass during the UX/UI project.  He worked hard (not just for the gainz either) and was a good teammate.
+
+Jack could improve on his height setting abilities.  I’ve actually never seen him set a height, and am unsure he knows the property exists.
+
+Finally, I would be happy to work with Jack again.  He has been a great partner and deskmate/sitnextopersonwhatever.
 
 #### For Leta Keane, 1701 FE Peer
 
@@ -181,7 +190,7 @@ Despite him being (literally) the worst person I have EVER met, I would be happy
  
 #### From Leta Keane, 1701 FE Peer
  
-John and I weren't paired for projects, but he and I worked together whiteboarding during Sorting Suite and Complete Me, and just generally reviewing concepts from lessons.  John always makes a point to check in with the group and double check that everyone feels good with new concepts. He is unafraid to speak up and ask for clarification (especially if someone looks confused but too nervous to speak up themselves). We've dreamed about making an actually useful ARIA reference site - daunting task, but doable when working with John :slightly_smiling_face:
+John and I still haven't gotten a chance to work on a project together (come on, Mod 4!), but we've definitely collaborated with whiteboarding and talking out code issues. John is always perceptive and will ask questions in lessons, particularly if there are others who are fuzzy on concepts but too shy to ask questions themselves. He spearheads group study sessions and provides good down-to-earth perspective when people are stressed out. Hopefully we'll be able to work on the accessibility project idea we've had since Mod 1 soon!
  
 #### From Chris Brandrowsky, 1701 FE Peer
  
