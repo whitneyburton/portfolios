@@ -70,7 +70,7 @@ Partner: Staci, Mike
 
 Evaluator: Rob
 
-Score: ?/150
+Score: Passed
 
 Full Notes: Ask Robbie!
 
