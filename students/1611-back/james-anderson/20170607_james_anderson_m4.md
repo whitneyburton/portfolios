@@ -213,7 +213,9 @@ A feature should be something like 'get-all-foods' that is just for one endpoint
 # C: Open Source Contribution
 For the open source contribution I added 100 quotes from the Dos Equis commercial series "The Most Intersting Man in the World" to the Faker gem.
 
-[Pull Request]https://github.com/stympy/faker/pull/937
+[Pull Request](https://github.com/stympy/faker/pull/937)
+[Blog Post](https://janderson16.github.io/blog.html)
+
 
 # D: Feedback and Community Participation
 
