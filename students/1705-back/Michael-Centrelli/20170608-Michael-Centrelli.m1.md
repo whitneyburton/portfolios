@@ -129,14 +129,26 @@ Application fully functional - minor bug where output text counts line breaks.
 3. Application meets all requirements as laid out per the specification.
 
 ## D: Professional Skills
-(Intro)
+I found the gear ups to be really informative and thought provoking. Its clear that Turing is commited to not only focusing on the code, but also on the person. It is one of the reasons I wanted to come here. 
 
 ### Gear Up
-#### (Session Name)
+#### (Growth Mindset)
 
-* [GitHub URL]()
+* https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I thought this gear up was really important especially for our first one. I think that falling into a fixed mindset is a common occurance, and can really hinder your ability to learn. This session covered how we can avoid the fixed mindset and instead set ourselves up to always fall into an open one. I am still thinking about things we learned in that session and I believe it has helped me tremendously this mod. 
+
+#### (Getting Better at Difficult Things)
+
+* https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md
+
+This session was interesting. I think that it applies really well to students at Turing and can be extremely helpful as we continue to face tough challenges here. What came out of it for me was that you sort of need to embrace that these things are difficult. Own up to that. Do not let hopelessness drag you down. The harder the thing is to learn, the better it is going to feel when you do.
+
+#### (Working Styles: Intro, extro, ambiverts!)
+
+* https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md
+
+I thought this session was also really appliciable to us as students. Especially with the paired projects were you can have two partners with compeletely different personalities and ways of working.  
 
 ## E: Community Participation
 
