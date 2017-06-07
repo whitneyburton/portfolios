@@ -2,7 +2,9 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+What did you set out to accomplish this module?
+
+My goal for this module was to get to the point where I feel comfortable writing code in React. I wanted to learn to make API calls and get more practice manipulating large data sets. I also wanted to develop logical thinking and strengthen fundamental JavaScript.
 
 ## Rubric Scores
 Fill in how YOU would grade yourself from 1-4 in the following categories this module:
@@ -24,7 +26,6 @@ Passing Scores
 
 
 ## B: Individual Work & Projects
-
 
 ## Sailing Club App
 
@@ -62,17 +63,13 @@ The project I chose to build is a web appliaction for a sailing/ racing club at 
 * 3: Project exhibits a production-ready user experience.
 
 
-
 ## C: Group Work & Projects
-
 
 ## HeadCount2.0
 
 * [GitHub URL](https://github.com/JustynaField/headcount2.0)
 
-
 ### Evaluator: Meeka
-
 ### Project Partner: Travis Gregory
 
 
