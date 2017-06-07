@@ -7,7 +7,7 @@
 My goal for this module was to get to the point where I feel comfortable writing code in React. I wanted to learn to make API calls and get more practice manipulating large data sets. I also wanted to develop logical thinking and strengthen fundamental JavaScript.
 
 ## Rubric Scores
-Fill in how YOU would grade yourself from 1-4 in the following categories this module:
+**Fill in how YOU would grade yourself from 1-4 in the following categories this module:**
 
 * **A: End-of-Module Assessment**: pass
 * **B: Individual Work & Projects**: 3.5
