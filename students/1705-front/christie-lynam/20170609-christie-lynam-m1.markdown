@@ -191,7 +191,7 @@ I ended up working solo on this project.
 
 (evaluation scores)
 
-Feedback:
+Feedback from Shayla:
 
 Christie was very supportive, collaborative, and kind. We broke our team so each of us could complete the project given where we are with our JS learning. This gave each of us the optimum opportunity to learn difficult concepts and execute the project spec accordingly. We finished at nearly a similar place in the spec, and evaluated both iterations of the project together. Christie and I both shared a pride in completion, considering we both are repeating MOD 1 and felt JS was an area we were lacking in. I think Christie is a stellar woman, and a huge support for me personally and as a student here at Turing.
 
