@@ -112,6 +112,8 @@ Jenn Peavler - Dave communicates expectation and roles clearly.  He is approacha
 
 Chris Bandrowski - Working with Dave was a great experience, especially in a group setting. It was enjoyable to constantly bounce ideas off of each other to see where we could go with the project. Although the project was stressful, it was great to work with Dave and the others as they were great supportive team mates.
 
+Keji Amos - You are a great teammate. You are good at staying on top of todos and making sure if there are questions they get answered.
+
 
 ### Gear UP
 
