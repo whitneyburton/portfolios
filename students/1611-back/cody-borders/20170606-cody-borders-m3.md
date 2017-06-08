@@ -43,14 +43,16 @@ I wanted to gain a better understanding of API interaction as well as improve my
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
 | **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Functional/Client Expectations** | 1 | 2 | X |
+| **TDD** | 4 | 2 | X |
+| **Code Organization/Quality** | 2 | 2 | X |
+| **API Design** | 3 | N/A | N/A |
+| **Queries** | 2 | N/A | N/A |
 
 > Rales Engine evaluation comments:
-\<Instructor Comments Here>
+_The project is failing 27 tests from the spec harness._
+_There's too much logic still living in a few controllers. For example, the `random` inputs have the controller implementing the logic rather than extracting this out to the model level._
+_The relationships leverage ActiveRecord associations, but there are no business intelligence methods_
 
 > Cloney Island Sprint 1 evaluation comments:
 \<Instructor Comments Here>
