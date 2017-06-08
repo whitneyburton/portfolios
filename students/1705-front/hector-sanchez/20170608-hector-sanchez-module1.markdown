@@ -171,6 +171,13 @@ The first static comp challenge that was assigned.  The goal was to keep the int
 
 The second static comp challenege that was assigned. The goal was to keep the integrity of the comp design and match the layout.
 
+#### Static Comp Challenge 3
+
+* [GitHub URL](https://github.com/hsanchez7934/hs-static-comp-3-challenge)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+The third and final static comp challenge that was assigned. The goal was to keep the integrity of the comp design and match the layout.
+
 #### Number Guesser
 
 * [GitHub URL](https://github.com/hsanchez7934/hs-number-guesser)
