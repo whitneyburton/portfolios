@@ -183,12 +183,16 @@ Emily Freeman did a wonderful job of emphasizing the importance of empathy in ou
 
 #### 2) Parable of the Polygon
 My notes...
+>
+Tech executives, based on the sample, if they wanted 1/3 to be like them, then sooner or later the whole team will be like them... so if you aren't like them, then your likelihood of getting that job is pretty poor.  Or maybe more so your likelihood of sticking around...
 
->Tech executives, based on the sample, if they wanted 1/3 to be like them, then sooner or later the whole team will be like them... so if you aren't like them, then your likelihood of getting that job is pretty poor.  Or maybe more so your likelihood of sticking around...
-> Diversity quotas, I wonder if diversity quotas in a vacuum would work?  That if you take out human nature and societal influence, they'd be a great idea?  But diversity quotas that are too small aren't meeting the needs of the minority necessarily.
-> Other strategies for counteracting bias?  No clue...
-> Knowledge & understanding, do we make it a point to only seek jobs where we won't be the only x, y or z?  When we get to the point of influencing hiring practices, do we encourage the diversity quota with the anti-bias mind?
-> Technology to illustrate complex ideas?  The goals of 'Parable of the Polygons' to me were imparting on the user the effects of the smallest bias on a community as a whole.  I think it was very effective, but likely not a long term impact.  But then what really is?
+Diversity quotas, I wonder if diversity quotas in a vacuum would work?  That if you take out human nature and societal influence, they'd be a great idea?  But diversity quotas that are too small aren't meeting the needs of the minority necessarily.
+
+Other strategies for counteracting bias?  No clue...
+
+Knowledge & understanding, do we make it a point to only seek jobs where we won't be the only x, y or z?  When we get to the point of influencing hiring practices, do we encourage the diversity quota with the anti-bias mind?
+
+Technology to illustrate complex ideas?  The goals of 'Parable of the Polygons' to me were imparting on the user the effects of the smallest bias on a community as a whole.  I think it was very effective, but likely not a long term impact.  But then what really is?
 
 
 #### 3) Lending Privilege
