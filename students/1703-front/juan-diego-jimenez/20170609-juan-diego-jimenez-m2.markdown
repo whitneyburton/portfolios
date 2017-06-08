@@ -18,13 +18,13 @@ In future mods I want to :
 
 ## Rubric Scores
 
-|   | Rubric                             | Score |
-| - |:---------------------------------- |------:|
-| A | End-of-Module Assessment           |     4 |
-| B | Individual Work & Projects         |     4 |
-| C | Group Work & Projects              |     4 |
-| D | Professional Skills                |     4 |
-| E | Feedback & Community Participation |     3 |
+|   | Rubric                             |  Score |
+| - |:---------------------------------- |-------:|
+| A | End-of-Module Assessment           |   pass |
+| B | Individual Work & Projects         |      4 |
+| C | Group Work & Projects              |      4 |
+| D | Professional Skills                |      3 |
+| E | Feedback & Community Participation |      4 |
 
 -----------------------
 
@@ -32,8 +32,8 @@ In future mods I want to :
 
 | Assessment                         | Score |
 |:---------------------------------- |------:|
-| End-of-Module Assessment           | passed|
-| Weathrly                           | passed|
+| End-of-Module Assessment           |  pass |
+| Weathrly                           |  pass |
 
 -----------------------
 
@@ -182,6 +182,9 @@ For game time we used javascript and html canvas to create a clone of the game T
 
 Build a clone of the classic game 'Tron' with javascript and html canvas.
 
+### Partner
+George Goering
+
 ### Instructor: Nathaniel Foster ™
 
 | Rubric                    | Score |
@@ -223,15 +226,42 @@ The output from JSHint shows…
 
 -----------------------
 
+## Weathrly
+
+* [GitHub URL](https://github.com/dstock48/weathrly)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+
+### Description
+
+Build a web app that displays the weather forecast of a city using the wunderground api and React.
+
+### Partner
+Dave Weinstock
+
+| Rubric                    | Score |
+|:------------------------- |------:|
+| Specification Adherence   |       |
+| User Interface            |       |
+| HTML Style                |       |
+| CSS/Sass Style            |       |
+| JavaScript/React Style    |       |
+| Testing                   |       |
+| Workflow                  |       |
+| Code Sanitation           |       |
+
+-----------------------
+
 ## D: Professional Skills
 
 ### Gear Up
 
 #### Empathy
 
+Emily did a great job presenting the topic and telling us her experience. This session really opened my eyes about social norms and feelings of being left out. Now I feel more aware of social norms, and also believe that we have to make an effort to be the difference and spread awareness in the workplace, especially in the tech industry.
+
 #### Parable of the Polygons
 
-During this gear up we read and played an online game/exercise that showed us how diversity can reduce segregation in a community. By demanding a little bit of diversity, and changing the perception of what is acceptable in an environment, the community reduces segregation. Creating equality takes effort, but it brings more value to a society.
+During this gear up we played an online game that showed us how diversity can reduce segregation in a community. By demanding a little bit of diversity, and changing the perception of what is acceptable in an environment, the community reduces segregation. Creating equality takes effort, but it brings more value to a society.
 
 #### Knowledge
 
