@@ -1,8 +1,8 @@
-# \<Your Name> - M3 Portfolio
+# Nicholas Jacques - M3 Portfolio
 
 ## Areas of Emphasis
 
-> \<What did you set out to accomplish this module?>
+> In this module I wanted to dive deeper into rails concepts and learn about consuming and building APIs. I also wanted to focus on concepts that might be relevant to the industry that I would like to work in.
 
 ## Self-Assessment
 
