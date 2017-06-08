@@ -50,12 +50,19 @@ I wanted to gain a better understanding of API interaction as well as improve my
 | **Queries** | 2 | N/A | N/A |
 
 > Rales Engine evaluation comments:
-_The project is failing 27 tests from the spec harness._
-_There's too much logic still living in a few controllers. For example, the `random` inputs have the controller implementing the logic rather than extracting this out to the model level._
-_The relationships leverage ActiveRecord associations, but there are no business intelligence methods_
+
+* The project is failing 27 tests from the spec harness.
+
+* There's too much logic still living in a few controllers. For example, the `random` inputs have the controller implementing 
+the logic rather than extracting this out to the model level.
+
+* The relationships leverage ActiveRecord associations, but there are no business intelligence methods
 
 > Cloney Island Sprint 1 evaluation comments:
-\<Instructor Comments Here>
+
+* Agreed upon 4 endpoints and only 1 was completed. A better way to use factory girl for associations would be to create the project backers with the pledge amount. So create 4 regular project backers and then for custom project backers, you can use factory girl like: `project_1 = create(:project_backer, pledge_amount: 8888)`. Right now, a lot of json is being displayed on the page but we are only checking for the title.
+
+* Missing 3/4 endpoints that were agreed upon and no serializers to format json for the endpoint that existed.
 
 > Cloney Island Sprint 2 evaluation comments:
 \<Instructor Comments Here>
