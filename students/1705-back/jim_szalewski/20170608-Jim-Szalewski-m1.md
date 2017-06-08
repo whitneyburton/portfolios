@@ -17,7 +17,7 @@ Coming from a place of absolutely zero programming knowledge, I knew I had my wo
 ## A: End of Module Assessment
 
 1. Final Paired Assessment: Pass
-2. Final Timed Independent Assessment:
+2. Timed Independent Assessment:
 3. Final Written Diagnostic:
 4. Final Paired Projects: Pass
 5. Portfolio Evaluation:
