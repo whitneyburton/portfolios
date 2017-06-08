@@ -60,12 +60,12 @@ google charts!
 really impressive models with logic and DRY extraction
 could DRY up testing)
 
-(Functional Expectations: 4
-  Active Record: 4
-  User Experience and Conventions: 4
-  Code Organization/Quality: 4
-  Testing: 4
-  Working Collaboratively: 3)
+Functional Expectations: 4
+Active Record: 4
+User Experience and Conventions: 4
+Code Organization/Quality: 4
+Testing: 4
+Working Collaboratively: 3
 
 
 #### (Little Shop)
@@ -75,11 +75,13 @@ could DRY up testing)
 
 Description: In this project you'll use Ruby on Rails to build an online commerce platform to facilitate online ordering.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+Feature Completeness: 4
+Views: 4
+Controller: 4
+Models: 4
+Testing: 4
+Usability: 3
+Workflow: 4
 
 
 
