@@ -6,7 +6,7 @@ What did you set out to accomplish this module?
 
 _This module, I knew that we would be focusing on some of the more algorithm heavy concepts, with more of a focus on JavaScript. I also knew we would be getting our first exposure to React. Given my background and the things I've seen built in React, I was very excited to finally get some hands-on exposure to the library. The final couple weeks of the module were a great learning experience for me as we struggled (as a cohort) through understanding the magic of React and learning a bit about how it does what it does. I also think the GameTime project really opened my eyes to the power of Canvas, which was definitely a goal for this module._
 
-## Rubric Scores
+## Rubric Scores ([Guide](https://github.com/turingschool/portfolios/blob/master/rubric.markdown))
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
