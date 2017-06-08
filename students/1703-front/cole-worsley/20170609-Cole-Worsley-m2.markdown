@@ -99,6 +99,8 @@ The output from ESLint shows…
 
 ## C: Group Work & Projects
 
+For Mod 2, we had two group projects. One was Weatherly where we worked with the weather underground API to build a basic weather app, and the other was Game Time, where we built a simple game using html canvas.
+
 ### Projects
 
 #### Weatherly
@@ -157,6 +159,11 @@ I enjoyed the interactive website in this gearup. I thought it did a fantastic j
 * [GitHub URL](https://gist.github.com/blackknight75/c7ef4e8ef1a197d50593bce078fc9d7f)
 
 This was a gear up taught by mod4 students. I thought they did an excellent job provoking an interesting discussion. We were asked whether or not we would do the same thing in Snowden's position and we all shared our thoughts.
+
+#### Empathy
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
+
+This gear up was a great example of how it is important to be empathetic to others in the workplace. Since everyone comes from very different backgrounds, we must make sure to understand their story before making assumptions about their character. This is definitely something that needs to happen more in the workplace as well as everyday life. 
 
 #### Link to other GearUps / Professional Development
 * [Gist Link](https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1703-f/cole_worsley.md)
