@@ -4,7 +4,7 @@
 
 (What did you set out to accomplish this module?)
 
-Fundamentals of Ruby. Ruby basics, some essentials in CS.....
+My beginning goal was to work as hard as possible on learning Ruby and beginner back-end fundamentals. I've learned way more than what I expected to learn. While I didn't expect coding to be the only emphasis, I learned way more than just "coding".
 
 ## Rubric Scores
 
@@ -18,25 +18,13 @@ Fundamentals of Ruby. Ruby basics, some essentials in CS.....
 
 ## A: End of Module Assessment
 
-I truly don't know. I have areas that I feel I don't know backwards and forwards. I would like to work more on Modules as well as Advanced Enumerables.
-
-
+I truly don't know.  In some cases, I feel comfortable with the material and believe that I know more than I think I do. However, I still find myself struggling with proper vocabulary part of the time. Additionally, there are areas that I feel I don't know backwards and forwards. For example, I would like to work more on Modules, Advanced Enumerables and refactoring old projects.
 
 
 ## B: Individual Work & Projects
 
-This has been night and day from the start until week six. On credit check, I felt overwhelmed and lost. During Battleship, at times I felt overwhelmed, but knew this would pass. From a technical perspective, my skills improved drastically. My ability to timebox improved, but not to the levels I would like (ie area of improvement). With Battleship, I certainly didn't know all the answers, but I knew how to incrementally build and find the answers.
+There has been a drastic change between my first and final solo project. On credit check, I felt overwhelmed and lost. During Battleship, at times I felt overwhelmed, but knew this would pass. From a technical perspective, my skills improved drastically. My ability to time box improved, but not to the levels I would like (this is an area of improvement). With Battleship, I certainly didn't know all the answers, but I knew how to incrementally build what I needed and find the answers.
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 #### (Credit Check)
 
@@ -79,7 +67,7 @@ Evaluation Scores:
   * [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
 Description:
-  Build the game "BattleShip".
+  Build the game "BattleShip" with a terminal REPL.
 
 Evaluation Comments:
   Game Play complete - reported funky startup conditions 6 7 tests passing - old tests no longer used, but thoroughly built
@@ -100,20 +88,8 @@ Evaluation Scores:
 
 ### Projects
 
-  I very much enjoyed the group work and, especially, the projects. Having a second person with a different perspective and strengths helped not only create a unique and better project, but it also served as an incredible learning opportunity for myself. The quality of my understanding and ability to contribute drastically increased between our two group projects.
+  I very much enjoyed the group work and, especially, the projects. Having a second person with different perspectives and strengths helped not only create unique and better project, but it also served as an incredible learning opportunity. The quality of understanding and ability to contribute drastically increased between the two group projects.
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
 
 #### (Night Writer)
 
@@ -134,24 +110,30 @@ Evaluation Comments:
     3. Encapsulation/Breaking Logic into Components: 2
     4. Functional Expectations: 2
 
-Feedback to me from Mike Heft:
-  Hey Matt, it was great working with you on Night Writer. This feedback is a little difficult for me to write as we pretty much gave each other feedback the entire time we worked together. I think we communicated very well with each other in terms of work load and direction we wanted to go. I feel both of us were really good about allowing the other free reign to run with ideas on issues.  And we eventually would mutually decide that might be the wrong rabbit hole to go down. The only thing I would say that both of us need to work on is better communication of our personal needs. We spent long hours together and the one time when we stopped earlier than we had intended was because both of us were spent. We talked about this in our retro with each other, but I know for me personally I need to work on being more assertive about what I need, especially in terms of rest and/or breaks. On the topic of breaks, you were great at implementing them. I know we didn't utilize them much, but when we did we ended getting more work done than when we hadn't. I had a great time working with you, and hopefully we'll have the chance for future collaborations in later mods.
 
 #### (Black Thursday)
 
   * [GitHub URL](https://github.com/mdevoe12/black_thursday)
   * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
-  (description)
+Description:
+  The largest project to date. Build a program to load, parse, search, and execute business intelligence. Build ORM and use SRP to establish relationships.
 
-  (evaluation comments)
+Evaluation Comments:
+  None yet.
 
-  (evaluation scores)
+Evaluation Scores:
+  None yet.
 
-  (feedback to me)
+
 
 ## D: Professional Skills
-(Intro)
+
+  Overall, I found the professional skills development sessions useful. The StrengthsFinder Assessment is informative in providing deeper personal context and understanding to how I approach not only work, but the world in general.
+
+  If I'm honest, the original sessions regarding personal branding and story telling were a little lost on me at first. However, our latest session detailing the application of these stories and ideas into the real world shed new light on the importance of this exercise and how this will affect our potential careers in (hopefully) a few months.
+
+  On a separate note, I previously read and applied "Thanks for the Feedback" for an unrelated business course. It's refreshing to see the principles applied and reinforced throughout the program as I previously found the book hit the feedback nail on the head.
 
 ### Gear Up
 #### (Session Name)
@@ -159,6 +141,36 @@ Feedback to me from Mike Heft:
 * [GitHub URL]()
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### (Growth Mindset)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+
+  "Not yet..." This is the proper headspace to inhabit. At Turing, we're dealing with complex, unfamiliar and often abstract concepts/problems. These things don't come naturally to 99.9% of the population. It takes work, discipline and an open mind to improve. The reason I/we are not good at a thing is not due to innate ability, it's time and energy spent on said thing. I'm trying to stay conscientious of my particular triggers and when I move away from a Growth Mindset. So far, I haven't descended too far into a downward spiral, hopefully this stays true.
+
+#### (Getting Better at Difficult Things)
+
+  * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+  Each of us has a limited tank of cognitive resources. To paraphrase from Kathy Sierra, we suffer from death by a thousand cognitive leaks. The little things that we haven't mastered, but require effort, tax our cognitive resources. There are several ways to decrease/improve our cognitive resources. This includes moving skills from the A category (Can't, but need to do) to the C category (Mastered). Additionally, there are a number of other ways to alleviate cognitive load, including proper lifestyle factors, practicing skills in the "B" category and knowing when to ask for help.
+
+#### (Working Styles: Intro, extro, ambiverts!)
+
+  * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+
+  Unfortunately, I couldn't attend this session. I left late-morning on 5/19 due to a concussion. In reviewing the material, it looks as if I'm an ambivert. I'm happy to communicate and work in an extroverted style with others. However, I very much enjoy working alone at times as well. This can cary project-to-project and day-by-day.
+
+#### (Personal Stories & Connection)
+
+  * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
+
+  This was a really interesting session. Not only did this help set the stage for future personal branding, but I got to hear others' stories, thoughts and motivations. This session ignited a personal retrospective. The journey to get into Turing was a whirlwind. It took a good amount of reflection and quiet time to really grasp why I'm here and what I value (learning, the desire to build and contribute, the love of technology, etc.)
+
+#### (Debugging the Gender Gap)
+
+  * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
+
+  This is such a sensitive topic. It's difficult to deliver feedback on a topic that I don't have, nor could I have any first hand knowledge about. The sexism, discrimination and inherent bias against women (and other groups) exists. The question is how to drive progress forward in the tech community but also address the cause in addition to the symptoms. Cultural conditioning plays a heavy role. But so do the cultures of the tech world at large. The gender gap is now so widely recognized that it's become a punchline. Like most changes, it starts at the individual/grass roots level. Notice when there may be biased behavior. Call it out.
 
 ## E: Community Participation
 
