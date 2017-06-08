@@ -6,17 +6,17 @@
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: X
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Skills**: X
+* **E: Community Participation**: X
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+(Indicate whether you passed or failed the end of module assessment)
 
 
 ## B: Individual Work & Projects
@@ -25,8 +25,8 @@
 
 #### (Project Name)
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+* [GitHub URL]()
+* [Original Assignment]()
 
 (description)
 
@@ -42,8 +42,8 @@
 
 #### (Project Name)
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+* [GitHub URL]()
+* [Original Assignment]()
 
 (description)
 
@@ -59,32 +59,11 @@
 ### Gear Up
 #### (Session Name)
 
-*   [GitHub URL]()
+* [GitHub URL]()
 
-(takeaways from session)
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-### PROtocol
-#### (Session Name)
-
-*   [Link to Completed Deliverables]()
-
-### Professional Development Workshops
-#### (Session Name)
-
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
-
-(takeaways from session)
-
-## E: Feedback and Community Participation
-
-### Giving Feedback
-
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
+## E: Community Participation
 
 ### Playing a Part
 
