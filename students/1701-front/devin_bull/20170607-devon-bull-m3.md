@@ -233,5 +233,10 @@ with understanding Flex-box. Helped BE M3 with jQuery (🤢). I helped my classm
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
 
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: PASS
+* **E: Community Participation**: 3.5
