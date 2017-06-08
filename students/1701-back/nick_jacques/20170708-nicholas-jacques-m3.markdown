@@ -19,14 +19,14 @@
 ## A: Individual Work & Projects (Optional)
 
 > **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
-> **[link to repo](https://github.com/NicholasJacques/API_curious)
+> **[link to repo](https://github.com/NicholasJacques/API_curious)**
 >* This project required us to create a clone of Github using githubs API
 >* I didn't originally get as far on this as I would have liked. I started this project over when I had a better understanding of consuming API's but that repo is not hosted on Github.
 
 ## B: Group Work & Projects
 
 > **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
-> **[link to repo](https://github.com/NicholasJacques/rails_engine)
+> **[link to repo](https://github.com/NicholasJacques/rails_engine)**
 >* This project creates an internal analytics API for analyzing and serving sales data as JSON
 >* Overall this project went really well and I enjoyed working on it. I plan to look over the ActiveRecord portion of the project as this was definitely the hardest part for me.
 
