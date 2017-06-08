@@ -3,7 +3,7 @@
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
-This mod I wanted to really understand and know how to use this fancy new tools like Capybara, Rspec, Active Record. 
+This mod I wanted to really understand and know how to use this fancy new tools like Capybara, Rspec, Active Record and feel comfortable with rails.
 Which in I believe I have done. 
 
 ## Rubric Scores
@@ -30,7 +30,9 @@ Which in I believe I have done.
 * [Job Tracker](https://github.com/chantal66/job-tracker)
 * [Job Tracker Original](https://github.com/turingschool/job-tracker)
 
-Job Tracker is a small job tracking app, when I start my job search I'll definetly do something like this.
+Job Tracker is a small job tracking app. It has the abbility to create companies,
+jobs for that company, leave comments and contacts. This will be really helpful when
+when I start my job search.
 
 Takeways:
   I enjoyed the Job Tracker project.  The best thing I walked away
@@ -128,15 +130,79 @@ The project will be assessed with the following rubric:
 * [Little Shop Original Assignment](http://backend.turing.io/module2/projects/little_shop)
 
 An e-commerce site, serving the residents of Hyrule (Zelda reference) with all the best potions and equipment. Users can create an account, add and remove items from their cart, and ultimately create an order by checking out.
+Evaluator: Lauren
 
-(evaluation comments)
+Repo: https://github.com/ACC25/little-shop
 
-(evaluation scores)
+Notes:
 
-(feedback to me)
+- Some assets not loading in production and development
+- Minor misses such as user.name vs User object in view. Feature test was lacking this check
+- Tests could/should be broken up into smaller maleable components
+- Controllers could use refactors to DRY up, but nothing too alarming
+- Small amount of logic in view
 
-## D: Professional Skills
-(Intro)
+## Evaluation Process
+
+For the evaluation we'll work through the expectations above and look at the
+following criteria:
+
+### 1. Feature Completeness
+
+* 4: All features are correctly implemented along with two extensions
+* **3: All features defined in the assignment are correctly implemented**
+* 2: There are one or two features missing or incorrectly implemented
+* 1: There are bugs/crashes in the features present
+
+### 2. Views
+
+* 4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+* **3: Views make use of layout(s), partials and helpers, but some logic leaks through**
+* 2: Views don't make use of partials or show weak understanding of `render`
+* 1: Views are poorly organized
+
+### 3. Controllers
+
+* 4: Controllers show significant effort to push logic down the stack
+* **3: Controllers are generally well organized with three or fewer particularly ugly parts**
+* 2: There are four to seven ugly controller methods that should have been refactored
+* 1: There are more than seven unsatisfactory controller methods
+
+### 4. Models
+
+* 4: Models show excellent organization, refactoring, and appropriate use of Rails features
+* **3: Models show an effort to push logic down the stack, but need more internal refactoring**
+* 2: Models are somewhat messy and/or make poor use of Rails features
+* 1: Models show weak use of Ruby and weak structure
+
+### 5. Testing
+
+* 4: Project has a running test suite that exercises the application at multiple levels
+* **3: Project has a running test suite that tests and multiple levels but fails to cover some features**
+* 2: Project has sporadic use of tests and multiple levels
+* 1: Project did not really attempt to use TDD
+
+### 6. Usability
+
+* 4: Project is highly usable and ready to deploy to customers
+* **3: Project is highly usable, but needs more polish before it'd be customer-ready**
+* 2: Project needs more attention to the User Experience, but works
+* 1: Project is difficult or unpleasant to use, or needs significantly more attention to user experience
+
+### 7. Workflow
+
+* **4: Excellent use of branches, pull requests, and a project management tool.**
+* 3: Good use of branches, pull requests, and a project-management tool.
+* 2: Sporadic use of branches, pull requests, and/or project-management tool.
+* 1: Little use of branches, pull requests, and/or a project-management tool.
+
+### Feedback to me
+
+We did a in-person feedback we all agreed that we did a great job working together,
+we did our best in here all ideas, be kind and work in an agile way. 
+this has been one the best experiences I had in a group setting. 
+
+
 
 ### Gear Up
 #### * Tragedy of the Commons
@@ -145,16 +211,15 @@ An e-commerce site, serving the residents of Hyrule (Zelda reference) with all t
 
 
 Diversity is a great thing. It exposes a person to concepts, experiences, and ideas that they otherwise would not have
-even known they existed. A lack of diversity is the culinary equivalent of only ever eating fillet mignon forever, it might be good but it gets tiring.
-
-My experiences and value of of having people from different backgrounds in my life are a part of the reason I
-chose to come to Turing.
+even known they existed. A lack of diversity is the culinary equivalent of only ever eating fillet mignon forever, 
+it might be good but it gets tiring. My experiences and value of having people from different backgrounds in my life 
+are a part of the reason I chose to come to Turing.
 
 
 #### * Lending Privilege
 
-It is goo to remember that the fact alone that we are at Turing every day
- is a privilege, and I'm very greateful of it. I Dedicate all my awake time to study
+It is good to remember that the fact alone that we are at Turing every day
+ is a privilege, and I'm very grateful of it. I Dedicate all my awake time to study
  a learning how to code this very cool apps we've made this mod, it's absolutly amazing.
 
 
@@ -170,8 +235,8 @@ very fortunate to work with such great teams on projects this inning.
 
 ### Playing a Part
 
-I do have to admint that I enjoyed been a SAB Rep this mod, it’s always been difficult for me to speak up in community settings.  
-I have to agree that it has made me feel connected to the Turing community, being part of the change is rewarding experience.
+I do have to admit that I enjoyed been a SAB Rep this mod, it’s always been difficult for me to speak up in community settings.  
+I have to agree that it has made me feel connected to the Turing community, being part of the change is a rewarding experience.
 ------------------
 
 ## Final Review
