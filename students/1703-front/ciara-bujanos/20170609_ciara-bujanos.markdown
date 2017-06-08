@@ -106,17 +106,26 @@ Goals
 Build a weather app in react and use jest/enzyme for testing.
 
 evaluation scores
-scores not posted yet.
+
+Specification Adherence: 3  its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+User Interface: 3.5 
+
+HTML Style: 3
+
+CSS/Sass Style: 3
+
+JavaScript / React Style: 3
+
+Testing: 3
+
+Workflow: 3.5 
+
+Code Sanitation: 3 
 
 ## D: Professional Skills
 ### Gear Up
-#### (Gear Up Mod 4 Leads)
 
-Gear Up 1: Empathy
-Gear Up 2: Parable of the Polygon/Automation
-Gear Up 3: Case Study (i think mod 4)
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 #### Empathy: 
 This was an interesting gearup and my takeaway from it was including people. A lot of the stories from Emily had to do with being a woman in the 
 workplace and some of the challenges that she faces and how she overcomes them. She wanted to make the community aware that this happens in real life
