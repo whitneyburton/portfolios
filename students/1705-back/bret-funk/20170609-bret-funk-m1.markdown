@@ -123,11 +123,24 @@ _Functional Expectations_
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
 ######description
-(add when given)
+Black Thursday was my favorite project so far and taught me the most about classes and objects.  I always felt that classes and objects were something I was below average in understanding but no longer!  I also LOVED learning about how you can go into an individual object and pull out information.  It took me a while to understand the concept of what was actually happening but once I did it really clicked and I pumped out iterations 1, 2, and 3 in 3-4 days.  I am sad I didn't complete the full project but I know I gave it my all.
 ######evaluation comments
-(add when given)
+_Evaluated by Sal_
 ######evaluation scores
-(add when given)
+_Fundamental Ruby & Style_
+3: Application shows strong effort towards organization, content, and refactoring
+
+_Breaking Logic into Components_
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+_Test-Driven Development_
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+_Functional Expectations_
+2: Application implements iterations 0, 1, 2, and 3
+
+_Code Sanitation_
+4: Zero complaints
 
 ## D: Professional Skills
 When I first applied to Turing, as a minority in a third-world-country, I was a little worried that these gear up sessions would be a bunch of spoiled Americans complaining about how hard they have it.  However, I have found them to be very interesting and informative.  I have read a lot of the books covered in Mod1 gear ups so I was already aware of a lot of these concepts but it was still enjoyable to talk about the ideas with others.  I especially like and believe in the idea of the "growth mindset."
