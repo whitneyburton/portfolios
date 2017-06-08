@@ -1,4 +1,4 @@
-# Jason Collins - M1 Portfolio
+# Jason Collins - M2 Portfolio
 
 ## Areas of Emphasis
 
