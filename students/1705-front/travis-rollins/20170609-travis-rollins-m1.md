@@ -633,7 +633,7 @@ The documentary that we watched was quite shocking to me and helped me realize h
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I attempted to help my classmates whenever I could on both individual projects and group projects as well as mythical creatures(unit testing).  I also participated in happy hours with classmates from my cohort as well as other students from other mods.  These were fantastic opportunities to reach out, make friends, and discuss strategies and habits to help improve our lifestyles while at Turing.
 
 ------------------
 
