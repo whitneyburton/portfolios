@@ -31,7 +31,7 @@ My individual work included Blogger, MixMaster, Job Tracker, and a Gamified Blog
 
 The rails mini project was a gamified blog in which users could earn clout by participating on the platform (commenting, liking/disliking content, others liking their content). Users were rewarded with increased permissions/authorization for earning clout. Next step is to add like/dislike button functionality.
 
-3
+  - 3 | Functional Expectations
 
 ## C: Group Work & Projects
 
@@ -60,6 +60,23 @@ This application collects data in two ways: 1) through web forms allowing users 
   - 3 | Code Organization/Quality
   - 4 | Testing
   - 4 | Working Collaboratively
+
+
+#### Little Coffee Shop
+
+* [GitHub URL](https://github.com/adamgunther1/little-shop)
+* [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
+
+Little Coffee Shop is an ecommerce web application designed to sell wholesale coffee beans. 
+
+##### Evaluation Scores
+  - 3 | Feature Completeness
+  - 4 | Views
+  - 4 | Controllers
+  - 4 | Models
+  - 4 | Testing
+  - 4 | Usability
+  - 4 | Workflow
 
 
 ## D: Professional Skills
