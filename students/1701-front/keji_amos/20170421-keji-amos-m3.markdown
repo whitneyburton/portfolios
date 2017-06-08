@@ -192,10 +192,10 @@ You have been a huge help for me this mod. You were always willing to pair with 
 
 ### Outcome
 
-PENDING (Professional Skills)
+PASS
 
 * **A: End-of-Module Assessment**: PASS
 * **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 4
-* **D: Professional Skills**: PENDING
+* **D: Professional Skills**: Pass
 * **E: Community Participation**: 4
