@@ -16,11 +16,11 @@ Coming from a place of absolutely zero programming knowledge, I knew I had my wo
 
 ## A: End of Module Assessment
 
-1. Final Paired Assessment
-2. Final Paired Assessment
-3. Final Written Diagnostic
-4. Final Paired Projects
-5. Portfolio Evaluation
+1. Final Paired Assessment: Pass
+2. Final Timed Independent Assessment:
+3. Final Written Diagnostic:
+4. Final Paired Projects: Pass
+5. Portfolio Evaluation:
 
 
 ## B: Individual Work & Projects
@@ -154,7 +154,7 @@ Built a system that loads, parses, and searches data from csv files for online m
     - Components:
       * Good use classes
       * Spoke to spec being fairly intuitive until Iter 4 - then got confusing what was actually being asked for
-      
+
 (evaluation scores)
 1. Fundamental Ruby & Style
   + 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
