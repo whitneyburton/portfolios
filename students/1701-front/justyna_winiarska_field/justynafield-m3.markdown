@@ -203,9 +203,6 @@ Leta, I appreciated working with you on Movie Tracker. It was a great group expe
 #### Feedback for Travis:
 What I really admire about Travis is his very strong perseverance in working through the project and making sure that none of the iterations stays incomplete. Travis was a huge support for me when I felt stressed and overwhelmed by the project. He maintained a cool head throughout the entire time, and was really good about keeping us on track. Travis is always available and eager to work. I enjoyed working together with Travis.
 
-#### Feedback for Kelly:
-It was a great experience working with Kelly. She is very easy to work with. We had good communication. I particularly enjoyed working together on routing and how we discussed different ways to approach it, it was a good give and take. I would be happy to work with Kelly again.
-
 
 ### Playing a Part
 
