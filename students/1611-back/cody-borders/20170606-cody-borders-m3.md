@@ -61,16 +61,18 @@ I wanted to gain a better understanding of API interaction as well as improve my
 ## C. **Gear Ups**
 
 > [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-\I think this session opened my eyes to how things we say could be interpreted differently by people from different backgrounds. My qualm with the idea of calling out suspected microaggressions is the intent of the message matters, and the onus to process the message is the recipient's -- there's a lot of subjectivity here. Ultimately I think it's important to be mindful of one's words, but it's also important to be mindful of the words and intent of others and to not let oneself get offended if a message appears to be objectively benign.
+
+*I think this session opened my eyes to how things we say could be interpreted differently by people from different backgrounds. My qualm with the idea of calling out suspected microaggressions is the intent of the message matters, and the onus to process the message is the recipient's -- there's a lot of subjectivity here. Ultimately I think it's important to be mindful of one's words, but it's also important to be mindful of the words and intent of others and to not let oneself get offended if a message appears to be objectively benign.
 
 > [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
-\I thought this was an interesting session as it highlighted the biases many of us have even if we don't realize them.
+
+*I thought this was an interesting session as it highlighted the biases many of us have even if we don't realize them.
 I didn't want to opine too much on the diversity quotas because I don't know enough about them to do so, but at first blush
 these quotas seem benign so long as companies maintain their hiring standards. I would have loved to see more data on the quotas
 with to quantify their effect.
 
 > [Choose your own adventure](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
-\I've studied the subject of UBI so I have some familiarity in the space. The video presented to us summed up my thoughts on the matter nicely -- theoretically a UBI could work, but due to the myriad variables it's tough to conduct good studies on it. One of the points that was brought up was the potential for increased entrepreneurship as a result of UBI, which I thought could be one of the most important theoretical benefits because entrepreneurial ventures are hugely responsible for mankind's progress over the last decade or so.
+*I've studied the subject of UBI so I have some familiarity in the space. The video presented to us summed up my thoughts on the matter nicely -- theoretically a UBI could work, but due to the myriad variables it's tough to conduct good studies on it. One of the points that was brought up was the potential for increased entrepreneurship as a result of UBI, which I thought could be one of the most important theoretical benefits because entrepreneurial ventures are hugely responsible for mankind's progress over the last decade or so.
 
 
 ## D: Community Participation
