@@ -633,7 +633,7 @@ The documentary that we watched was quite shocking to me and helped me realize h
 
 ### Playing a Part
 
-I attempted to help my classmates whenever I could on both individual projects and group projects as well as mythical creatures(unit testing).  I also participated in happy hours with classmates from my cohort as well as other students from other mods.  These were fantastic opportunities to reach out, make friends, and discuss strategies and habits to help improve our lifestyles while at Turing.
+I attempted to help my classmates whenever I could on both individual projects and group projects as well as mythical creatures(unit testing).  I also participated in happy hours with classmates from my cohort as well as other students from other mods.  These were fantastic opportunities to reach out, make friends, and discuss strategies and habits to help improve our lifestyles while at Turing.  I also participated in group retros and spikes every week in order to discuss the wins and losses with my cohort, and learn something new about the tech world outside of the curriculum.  Finally, I attended Demo Night and Code Fair to see other peoples' projects and speak with them about how they developed their software and some of the obstacles they had to overcome during development.  
 
 ------------------
 
