@@ -28,24 +28,24 @@ I wanted to gain a better understanding of API interaction as well as improve my
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 
 >* In this project, you will use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 
 >* Creating the API for Rails Engine wasn't too bad but the business intelligence queries involved some complex ActiveRecord which proved challenging
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://github.com/jwpincus/punstartr)** 
+> **[Cloney Island Sprint 1](https://github.com/jwpincus/punstartr)**
 
 >* In this project, you’ll be building a new platform from scratch to handle multiple types of users (guests, registered users & admins). You’ll build a new project assigned by the instructors. This is sometimes called “greenfield” development, because you are starting from scratch.
 
 >* This project was interesting in that until this point we really haven't done a lot of individual work on group projects. It was challenging yet fun to try to meld all the features together into production code. For my feature story I built an API which I was not able to finish in time, but I was able to reach and return JSON in development for two endpoints.
 
-> **[Cloney Island Sprint 2](https://github.com/josh-works/corkboard)** 
+> **[Cloney Island Sprint 2](https://github.com/josh-works/corkboard)**
 
 >* In this project, you’ll be building a new platform from scratch to handle multiple types of users (guests, registered users & admins). You’ll build a new project assigned by the instructors. This is sometimes called “greenfield” development, because you are starting from scratch.
 
->* The second sprint was hugely important in my opinion because we took existing code produced by someone else and manipulated it according to our stories. The codebase we received was incomplete in some areas and a little confusing in others, which really drives home the importance of designing with the future maintainability of the code in mind. We lost quite a bit of time trying to get the code functioning before digging into our individual stories. 
+>* The second sprint was hugely important in my opinion because we took existing code produced by someone else and manipulated it according to our stories. The codebase we received was incomplete in some areas and a little confusing in others, which really drives home the importance of designing with the future maintainability of the code in mind. We lost quite a bit of time trying to get the code functioning before digging into our individual stories.
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
@@ -110,3 +110,4 @@ I washed and put away dishes to try to keep the kitchen clean.
 > #### Notes ( Leave blank for reviewers )
 
 > #### Outcome ( Leave blank for reviewers )
+Retained
