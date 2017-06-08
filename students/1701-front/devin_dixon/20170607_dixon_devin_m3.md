@@ -100,6 +100,10 @@ whenever anybody needed it.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
 
-
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: PASS
+* **E: Community Participation**: 3.5
