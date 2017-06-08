@@ -127,9 +127,6 @@ This gear up focused on diversity and segregation in a community, and how those 
 
 #### Case Study (Knowledge, What is it? taught by Mod 4)
 
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
-* [Article URL](https://www.fastcompany.com/3016031/leadership-now/are-you-an-introvert-or-an-extrovert-and-what-it-means-for-your-career)
-
 This session got serious deep, on a metaphysical level! It started with structure but ended up being a very free-flowing group conversation about knowledge, how we each define it, and how it applies to something like programming. It was an exercise in abstract thinking...which in many ways directly applies to solving programming problems.
 
 ## E: Community Participation
