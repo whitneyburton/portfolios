@@ -136,10 +136,10 @@ I have participated in most, if not all events, that have been required of Turin
 
 ### Outcome
 
-PENDING (waiting on professional skills)
+Pass
 
 *   **A: End-of-Module Assessment**: PASS
 *   **B: Individual Work & Projects**: 3.5
 *   **C: Group Work & Projects**: 4
-*   **D: Professional Skills**: PENDING
+*   **D: Professional Skills**: Pass
 *   **E: Feedback & Community Participation**: 4

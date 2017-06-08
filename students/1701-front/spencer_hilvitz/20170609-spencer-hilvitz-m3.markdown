@@ -214,10 +214,10 @@ From Travis: 'Spencer was a great partner to work with on SWAPI. Going in to the
    
 ### Outcome
 
-PENDING ( Professional Skills)
+Pass
 
 * **A: End-of-Module Assessment**: PASS
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: PENDING
+* **D: Professional Skills**: Pass
 * **E: Community Participation**: 3

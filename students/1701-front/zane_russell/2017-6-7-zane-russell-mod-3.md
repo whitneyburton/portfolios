@@ -158,10 +158,10 @@ Ran IronFE Thursday mornings during Mod-3.
 
 ### Outcome
 
-PENDING (Professional Skills)
+PASS
 
 A: End-of-Module Assessment: PASS
 B: Individual Work & Projects: 3 (lite)
 C: Group Work & Projects: 3.5
-D: Professional Skills: PENDING
+D: Professional Skills: PASS
 E: Feedback & Community Participation: 3 

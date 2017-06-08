@@ -1,4 +1,4 @@
-# \<Your Name> - M3 Portfolio
+# \Jack Pincus - M3 Portfolio
 
 ## Areas of Emphasis
 
