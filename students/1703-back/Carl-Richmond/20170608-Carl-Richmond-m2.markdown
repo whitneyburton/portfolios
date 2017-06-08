@@ -59,9 +59,9 @@ Here are my group projects for Mod2:
 
 * Description: An e-commerce site, serving the residents of Hyrule (Zelda reference) with all the best potions and equipment. Users can create an account, add and remove items from their cart, and ultimately create an order by checking out. The live version of the site can be found at: https://nameless-sands-53448.herokuapp.com
 
-* Evaluation comments:
+* Evaluation comments: Refactors everywhere.
 
-* Evaluation scores:
+* Evaluation scores: 3s except for 4 in Git workflow. 
 
 ## D: Professional Skills
 
