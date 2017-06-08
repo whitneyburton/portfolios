@@ -263,9 +263,8 @@ It was interesting to see how comments can unintentionally hurt someone.  It was
 
 PASS
 
-
-*   **A: End-of-Module Assessment**: 
-*   **B: Individual Work & Projects**: 
-*   **C: Group Work & Projects**: 
-*   **D: Professional Skills**: 
-*   **E: Feedback & Community Participation**: 
+*   **A: End-of-Module Assessment**: PASS
+*   **B: Individual Work & Projects**: 4
+*   **C: Group Work & Projects**: 4
+*   **D: Professional Skills**: PASS
+*   **E: Feedback & Community Participation**: 3.5
