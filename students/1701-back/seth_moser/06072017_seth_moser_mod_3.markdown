@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-> \<What did you set out to accomplish this module?>
+> I wanted to be able to make a website that can take in data from imgur.com and create folders based on favorited pictures. Now that I have all this info on API's it's a self challenge that I am very anxious to start
 
 ## Self-Assessment
 
