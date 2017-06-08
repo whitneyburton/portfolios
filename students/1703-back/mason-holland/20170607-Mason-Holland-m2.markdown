@@ -35,11 +35,11 @@ Here is my individual rails project
 For my rails mini project I decided to apply my newly earned skills in an interesting way. What I attempted to make was a database that would store all of the swords from the A Song of Ice and Fire series. Each sword had its own page and through that page you would be able to view all the past wielders("users") of that sword. Each user belonged to a sword. Each sword had many users. Each user belonged to a house but each house had many users. I had 4 seperate "roles" on my site and this really helped me understand authentication and authorization. 
 I gained a lot from this project in terms of practice and repititon. However my intial hopes and scope for the project were not met. The finished project is nothing like what I had envisioned but I intend to keep working on this and turning it into something. 
 
-## C: Group Work & Project
+## C: Group Work & Projects
 
 ### Projects
 
-Here is my Group Project
+Here are my Group Projects
 
 #### Bike Share
 
@@ -67,6 +67,20 @@ Evaluation Scores
   *4
  6. Working Collaboratively
   *4
+  
+#### Little Shop
+
+* [GitHub URL](https://github.com/ACC25/little-shop)
+* [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
+
+Evaluation Scores
+ 1. Feature Completeness: 3
+ 2. Views:                3
+ 3. Controllers:          3
+ 4. Models:               3
+ 5. Testing:              3
+ 6. Usability:            3
+ 7. Workflow:             4
 
 ## D: Professional Skills
 
