@@ -14,8 +14,7 @@
 | D | **Professional Development** | X |
 | E | **Feedback & Community Participation** | X |
 
->* \<Takeaways, your experience>
->* \<Notes>
+>* I really enjoyed this mod and am glad i know how to take info from other websites. I never thought websites would have so much information/data available for free for people to use.
 
 -----------------------
 
@@ -34,17 +33,17 @@
 >* 
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
->* \<Description>
->* \<Takeaways, your experience>
+> **[Cloney Island Sprint 1](https://github.com/NicholasJacques/corkboard)** 
+>* I worked on getting the site deployed using DigitalOcean
+>* It really gave me a new respect for people that use ubuntu and vim. After working with nano throughout my user story and finally getting the hang of it near the end. It's just incredibly frustrating not having all the different tools available normal editors have.
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://github.com/stovermc/grab_bag)** 
 >* I loved how challenging it was. Making me pursue things i'd never thought I'd understand and getting it to work is really rewarding
 >* Seeing how websites save image data, or data in general is really awesome, esspecially learning the backgrounds of zipping files it's really odd and not something you generally think of when donwloading files.
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://github.com/seth-at-at/rales_engine) | [Cloney 1 Repo](https://github.com/seth-at-at/api_curious_reddit) | [Cloney 2 Repo](https://github.com/stovermc/grab_bag) |
+| **Github Repo** | [Rales Repo](https://github.com/seth-at-at/rales_engine) | [Cloney 1 Repo](https://github.com/NicholasJacques/corkboard) | [Cloney 2 Repo](https://github.com/stovermc/grab_bag) |
 | **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
 | **Functional/Client Expectations** | X | X | X |
 | **TDD** | X | X | X |
@@ -52,11 +51,9 @@
 | **API Design** | X | N/A | N/A |
 | **Queries** | X | N/A | N/A |
 
-> Rales Engine evaluation comments:
-\<Instructor Comments Here>
-
 > Cloney Island Sprint 1 evaluation comments:
-\<Instructor Comments Here>
+* Deployed project to Digital Ocean Droplet
+* Not all of the groups stories were deployed to production
 
 > Cloney Island Sprint 2 evaluation comments:
 \<Instructor Comments Here>
