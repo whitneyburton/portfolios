@@ -1,4 +1,4 @@
-# (Daniel Phillips) - (M1) Portfolio
+# Daniel Phillips - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -21,7 +21,7 @@ from https://github.com/turingschool/ruby-submissions/tree/master/1705-b/1module
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+(N/A yet to receive)
 
 ## B: Individual Work & Projects
 
@@ -152,11 +152,11 @@ Rubric:
 
 simple business data analytics software
 
+
 ## D: Professional Skills
+
 I really enjoyed these sessions as an excellent counterpart to the technical
 side of things at Turing.
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 #### Growth Mindset
 
@@ -182,7 +182,7 @@ process and continue to stay focused.
 
 I thought this session helped us to break out of our normal groups and
 interact with people who shared different worldview and experience from
-their own approaches to handling social situtations. I often struggle to find
+their own approaches to handling social situations. I often struggle to find
 exact and discrete meaning in terms like "introvert" or "extrovert", but I
 do think that there are benefits to having such definitions as guides for
 working with other people.
@@ -199,7 +199,9 @@ can work into entering the job market eventually.
 
 * [GitHub URL]()
 
-This
+This was a great Gear Up where we had so many opportunities to broach some
+really difficult discussions. I was really happy with the depth of discussion,
+and I'm really glad it was part of the curriculum.
 
 ## E: Community Participation
 
@@ -216,8 +218,7 @@ interacting with upper mod students.
 
 ### Notes
 
-( Leave blanks for reviewers )
+
+
 
 ### Outcome
-
-( Leave blanks for reviewers )
