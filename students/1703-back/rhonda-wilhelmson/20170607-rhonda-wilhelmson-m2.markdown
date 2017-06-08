@@ -40,11 +40,8 @@ I really enjoyed the opportunity to work in larger groups this module. It was gr
 
 * [Bike Share](https://github.com/rwilhel/bike-share)
 * [Original Assignment](https://github.com/turingschool/bike-share)
-* [Little Shop]
-* [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
 
 Bike Share: Implementing a web application to track and analyze data from existing San Francisco bike share hubs.
-Little Shop: Creating an e-commerce web application with specified functionality.
 
 Bike Share Eval Comments:
 
@@ -64,6 +61,27 @@ Bike Share Scores:
 6. Working Collaboratively: 4
 
 The feedback I received was more for the entire group to better implement the workflow at the head of the project in order to fully grasp the scope of all the work that will be needed.
+
+* [Little Shop](https://github.com/rwilhel/little-shop)
+* [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
+
+Little Shop: Creating an e-commerce web application with specified functionality.
+
+Little Shop Eval Comments:
+
+- Some assets not loading in production and development
+- Minor misses such as user.name vs User object in view. Feature test was lacking this check
+- Tests could/should be broken up into smaller maleable components
+- Controllers could use refactors to DRY up, but nothing too alarming
+- Small amount of logic in view
+
+1. Feature Completeness: 3
+2. Views: 3
+3. Controllers: 3
+4. Models: 3
+5. Testing: 3
+6. Usability: 3
+7. Workflow: 4
 
 ## D: Professional Skills
 
