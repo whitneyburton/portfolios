@@ -224,5 +224,4 @@ I participated in the Armstrong posse this mod.  We explored blockchain technolo
 ( Leave blanks for reviewers )
 
 ### Outcome
-
-( Leave blanks for reviewers )
+PASS
