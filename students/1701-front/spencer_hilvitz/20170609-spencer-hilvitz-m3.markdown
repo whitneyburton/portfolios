@@ -1,4 +1,4 @@
-# Adam Carpenter - (M3) Portfolio
+# Spencer Hilvitz (aka adam) - (M3) Portfolio
 
 ## Areas of Emphasis
 
