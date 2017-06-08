@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I wanted to develop a strong foundation of the Ruby programming language as well as breaking down problems and then solving them.  
+I wanted to develop a strong foundation of the Ruby programming language as well as learning efficient ways of breaking down problems and then solving them.  
 
 ## Rubric Scores
 
@@ -28,7 +28,7 @@ My Individual projects went very well in my opinion.  I did not finish Date Nigh
 * [Original Assignment](http://backend.turing.io/module1/projects/date_night)
 
 ######description
-Date night was a binary search tree solo project.  It was way over my head at the beginning but by the end I understood everything pretty well but didn't finish only due to time constraints (I think we were only given three days).
+Date night was a binary search tree project.  It was way over my head at the beginning but by the end I understood everything pretty well but didn't finish due to time constraints (I think we were only given three days).
 
 ######evaluation comments
 _Evaluated by Mike_
@@ -122,14 +122,15 @@ _Functional Expectations_
 * [GitHub URL](https://github.com/brettt/black_thursday)
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+######description
+(add when given)
+######evaluation comments
+(add when given)
+######evaluation scores
+(add when given)
 
 ## D: Professional Skills
-When I first applied to Turing, from a third-world-country, I was a little worried that these gear up sessions would be a bunch of spoiled Americans complaining about how hard they have it.  However, I have found them to be very interesting and informative.  I have read a lot of the books covered in Mod1 gear ups so I was already familar with a lot of these concepts but it was still enjoyable to talk about the ideas with others.  I especially like the concept of the "growth mindset."
+When I first applied to Turing, as a minority in a third-world-country, I was a little worried that these gear up sessions would be a bunch of spoiled Americans complaining about how hard they have it.  However, I have found them to be very interesting and informative.  I have read a lot of the books covered in Mod1 gear ups so I was already aware of a lot of these concepts but it was still enjoyable to talk about the ideas with others.  I especially like and believe in the idea of the "growth mindset."
 
 ### Gear Up
 #### Growth Mindset
@@ -143,7 +144,7 @@ Turing agrees with Ford that you can do anything with enough work and enough tim
 
 * [GitHub URL]https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md
 
-As we say in the military, "embrace the suck".  Find pleasure in pushing yourself to your limits is the secret to Turing and to life in general.  
+As we say in the military, "embrace the suck".  Find pleasure in pushing yourself to your limits is the secret to Turing and to life in general.  Embracing the suck is also the best way to learn something.  Reminds me of that great quote that an expert is someone who is made every possible mistake in a narrow field.
 
 #### Invert / Extrovert
 
@@ -165,19 +166,21 @@ The history of technology includes a lot of discrimination against women.  This 
 
 #### Universal Basic Income (Mod4 Students)
 
-As machines continue to replace humans in the workplace, many feel that eventually a universal basic income, or socialism with a new name, will be inevidable.  I was one of the few students who had concerns, 1st, where is the money coming from?  Taxing robots is essentially taxing the internet.  Should Turing students be taxed every time they compile a program?  2.  Who is in control of distribution.  Congress will screw this up for sure, and that is a best case sceniero.  If all of the money comes from one person in charge they will never lose an election.  3.  How will this change society?  If everyone received $60k per year, how would this change the economy?  My guess is it would devalue the currency like it's a bolivar and the economy would behave very erratically.  I am not opposed to the UBI, I just think these questions need answers before it can be taken seriously.   
+As machines continue to replace humans in the workplace, many feel that eventually a universal basic income, or socialism with a new face, will be unavoidable.  I was one of the only students who had concerns about 'free money': 1st, where is the money coming from?  Taxing robots is essentially taxing the internet.  Should Turing students be taxed every time they compile a program?  2.  Who is in control of distribution?  Congress will screw this up for sure, and that is the best case.  If all of the money comes from one person in charge of the government they will never lose an election because they will always offer to raise the limit.  If the limit goes up but productivity (and therefore taxes) do not then society will collapse.  3.  How will this change society?  If everyone received $60k per year, how would this change the economy?  My guess is it would devalue the currency like it's a bolivar and the economy would behave very erratically.  
+
+I am not opposed to the UBI, I just think these questions need answers before it can be taken seriously.   
 
 ## E: Community Participation
 
 ### Playing a Part
 
-Inside the Mod1 classroom I always try to be very helpful and supportive to my fellow classmates.  
+Inside the Mod1 classroom I always try to be very helpful and supportive to my fellow classmates.  When partnering with someone who knows less I do my best of explaining things as much as possible even if it slows down our project progress.  
 
 Inside the Turing Community I am active in the Armstrong posse and am attempting to build a blockchain testnet using a raspberry pi so the Turing community can test ethereum apps internally.  I have already built a working ethereum node and I know how to make an ethereum testnet, I just need to figure out how to do them together so Turing can always have a working testnet that any student can use to develop blockchain apps on the ethereum platform.
 
-Outside of the classroom I have done two national interviews as a Turing student and promote Turing inside Operation Code, a coding organization to teach veterans to code.  Op Code is how I found Turing so I want to make sure I am helping others make the Turing choice.  
+Outside of the classroom I have done two national interviews as a Turing student and promote Turing inside Operation Code, a coding organization to teach veterans to code.  Op Code is how I found Turing so I want to make sure I am helping others make the right choice and join the Turing community.  
 
-Most importantly, I have started an electronics recycling program where I take Mod1 BE telephones and give them to the crippling poor in Ecuador, a collapsing third-world-country.  So far I have collected three phones that I will personally hand out on behalf of the Turing community.  I hope to expand this program Turing wide starting Mod2 if I avoid customs shakedowns.  
+Most importantly, I have started an electronics recycling program where I take Mod1 BE's unused phones and tablets and give them to the crippling poor in Ecuador, a collapsing third-world-country.  So far I have collected three phones that I will personally hand out on behalf of the Turing community.  I hope to expand this program Turing wide starting Mod2 if I avoid customs shakedowns during my first run.  
 
 ------------------
 
