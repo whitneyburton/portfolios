@@ -2,8 +2,7 @@ Desislava Todorova - M1 Portfolio
 
 Areas of Emphasis:
 
-Coming into Turing I didn't know what to expect, but at every step I felt that this is exactly where I need to be and what needs to be taking place.
-Black Thursday has been instrumental in getting practice in a lot of the Ruby fundamentals we have learned; it requires a ton of logic but also a lot of repetition and working on this project increased my understanding and confidence in my Ruby skills. I can TDD!! This is something I found very challenging and it's great to finally have a grasp on this. I feel this mod has been successful, even if difficult and at times, chaotic.
+Coming into Turing I didn't know what to expect, but at every step I felt that this is exactly where I need to be and this is exactly what needs to be taking place; I really trusted the Turing process. I am happy to report that I feel confident walking into this review and also into Mod2. While it's been challenging and I've been on my own timeline, there is not an area or concept in Ruby that still feels fuzzy. The last two weeks have brought me exponential growth, and some rest and more practice will allow me to perform within the time required time constraints in future projects and assessments. Black Thursday was instrumental in getting practice in a lot of the Ruby fundamentals we learned; it required a ton of logic and information retention, but also a lot of repetition; completing this project increased my understanding and confidence in Ruby. I can actually TDD!! And I enjoy and value the process of writing tests!! This is something I found difficult for a period of time and it feels great to have moved on from this challenge. I feel this mod has been successful, even if difficult and at times, chaotic.
 
 Rubric Scores (self-assess):
 
@@ -70,7 +69,7 @@ C: Group Work & Projects
 
 Projects
 
-My experience working with Eddie and then with Ellen was fantastic. It was challenging at times to navigate my own stress and tight schedule in the context of a project partner, but I think it certainly paid off. I've realized that knowing someone else's success is directly dependent on me is a great motivator. I've learned that we all change our minds about different things and revisiting expectations is critical. Naming variables is hard and trusting someone else's judging is even harder.  
+My experience working with Eddie and then with Ellen was fantastic. It was challenging at times to navigate my own stress and tight schedule in the context of a project partner, but I think it certainly paid off. I've realized that knowing someone else's success is directly dependent on me is a great motivator. I've learned that we all change our minds about different things and revisiting expectations is critical. Naming variables is hard and trusting someone else's judgement is even harder.  
 
   1. Night Writer
   GitHub URL
