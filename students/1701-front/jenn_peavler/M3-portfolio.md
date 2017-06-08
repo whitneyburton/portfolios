@@ -247,5 +247,10 @@ From DBull - Jenn was great to work with, always charging into the code with a p
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
 
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: PASS
+* **E: Community Participation**: 3
