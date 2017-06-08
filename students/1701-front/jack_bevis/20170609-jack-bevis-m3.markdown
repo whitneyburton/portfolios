@@ -218,4 +218,10 @@ Score could be ammended but recommendation was to focus on good refactoring and 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS*
+
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: PASS
+* **E: Community Participation**: 3
