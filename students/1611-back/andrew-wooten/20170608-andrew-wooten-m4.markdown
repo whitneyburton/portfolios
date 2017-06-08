@@ -89,6 +89,7 @@
 ### Projects
 
 * [GitHub URL](https://github.com/andrewdwooten/faker)
+* [Documentation patch](https://github.com/codahale/bcrypt-ruby/pull/154)
 * [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 
 Blog Post:
