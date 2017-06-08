@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
- Wanted to do some personal projects and get a good head start on job hunting.
+ Wanted to do some personal projects and get a good head start on job hunting. I feel good on both of these fronts. I made a project that I think is pretty cool for the code fair. I have at least one interview lined up for the break, and have a few other things in the pipeline.
 
 ## Self-Assessment
 
@@ -20,18 +20,18 @@
 
 ## A: Individual Work & Projects (Optional)
 
-> **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
- An API consumption project using github
+> **[APIcurious](http://backend.turing.io/module3/projects/apicurious)NOT GRADED**
+ An API consumption project designed to oath into Github and pull down a user's unformation and replicate it on a locally served page.
 
 
 ## B: Group Work & Projects
 
 > **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine) PASS**
  + A business intelligence API
->* Had a lot more fun doing queries in raw SQL. Will definitely stick to that in the future
+>* Had a lot more fun doing queries in raw SQL. Will definitely stick to that in the future. This was a really challenging project to start out a mod with. It was really rewarding to get some of the complicated queries to work.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://) PASS**
+> **[Cloney Island Sprint 1](https://)PASS**
 >* Make a clone of Kickstarter
 >* Project management is hard when goals are misaligned
 
@@ -43,9 +43,9 @@
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/jwpincus/rales_engine) | [Cloney 1 Repo](https://github.com/jwpincus/punstartr) | [Cloney 2 Repo](https://github.com/jwpincus/punstartr) |
 | **Heroku** | [Rales](na) | [Cloney 1](https://puntstartr.herokuapp.com/) | [Cloney 2](https://puntstartr.herokuapp.com/) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
+| **Functional/Client Expectations** | X | 3 | X |
+| **TDD** | X | 4 | X |
+| **Code Organization/Quality** | X | 3 | X |
 | **API Design** | X | N/A | N/A |
 | **Queries** | X | N/A | N/A |
 
