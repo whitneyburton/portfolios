@@ -4,17 +4,17 @@
 
 I came into module two with three main goals: Fluency in Ruby-on-Rails and Active Record, finding time for extracurricular projects, and developing my group project skills.
 
-1. Fluencey in Ruby-on-Rails and Active Record
-    * I'll preface this by saying I do not feel fluent in either Ruby-on-Rails or Active Record. Both of these technologies are vast and nuanced and will take more exposure to master. With that said, I have gained a solid understanding of their base fundamentals. The first two+ weeks of this Mod was spent learning Sinatra with Sqlite3 and our first major group project, Bike Share, was build using them. What we gained from this experience was to learn from scratch: file and directory structure, routes and controllers, long-form html/erb syntax, database structuring with models and base SQL queries, and running a local server. These struggles exposed a lot of the mystery and magic when working in Rails, Active Record and finally pushing to Heroku. So while I have a lot to learn still with regard to Ruby-on-Rails, it becomes easier to pick up new concepts, techniques, and features knowing what they are doing under the hood.
+1. Fluency in Ruby-on-Rails and Active Record
+    * I'll preface this by saying I do not feel fluent in either Ruby-on-Rails or Active Record. Both of these technologies are vast and nuanced and will take more exposure to master. With that said, I have gained a solid understanding of their base fundamentals. The first two+ weeks of this Mod was spent learning Sinatra with Sqlite3 and our first major group project, Bike Share, was built using them. What we gained from this experience was to learn several elements from scratch: file and directory structure, routes and controllers, long-form html/erb syntax, database structuring with models and base SQL queries, and running a local server. Some of this learning involved struggles, which exposed a lot of the mystery and magic of working in Rails, Active Record and finally pushing to Heroku. So while I have a lot to learn still with regard to Ruby-on-Rails, I'm much more equipped to pick up new concepts, techniques, and features knowing what is happening under the hood.
 2. Extracurricular projects
-    * I've started working on a d2 physics engine in Ruby on my free time. I've managed to find enough time to get basic functionality working, but have spent most of my time learning how to translate Newton's basic laws of physics and collision theories into algorithms. It's a great coding challenge; merging complex project management with having to navigate a lot of unknowns. Building flexible TDD driven code in this project is very important. I'm attempting to have a more robust project done by the end of Turing that will showcase my coding ability, but can also be used a 'readable' reference for others interested in how these work.
+    * I've started working on a d2 physics engine in Ruby on my free time. I've managed to find enough time to get basic functionality working, but have spent most of my time learning how to translate Newton's basic laws of physics and collision theories into algorithms. It's a great coding challenge, and involves merging complex project management with having to navigate a lot of unknowns. Building flexible TDD driven code in this project is very important. I'm attempting to have a more robust project done by the end of Turing that will showcase my coding ability, but can also be used a 'readable' reference for others interested in how physics engines work.
 3. Group Projects
-    * The final project, Little Shop, showed just how far we've come in our ability to manage a project as a group. Breaking a project into bite sized parts so each member can contribute individually, in pairs, or as a full group is not an easy task. But good GitHub habits, both locally and remotely, along with good team communication and support, the group projects have gone very well. I gained a significant amount of highly valuable experience from these projects and feel much better prepared to move into more complex projects as team member.
+    * The final project, Little Coffee Shop, showed just how far we've come in our ability to manage a project as a group. Breaking a project into bite-sized parts so each member can contribute individually, in pairs, or as a full group is not an easy task. But with good GitHub habits, both locally and remotely, along with good team communication and support, the group projects have gone very well. I gained a significant amount of highly valuable experience from these projects and feel much better prepared to move into more complex projects as team member and leader.
 
-## Self Assessed Scores
+#### Self Assessed Scores
 
 * A: End-of-Module Assessment: **4**
-* B: Individual Work & Projects: **3**
+* B: Individual Work & Projects: **4**
 * C: Group Work & Projects: **4**
 * D: Professional Skills: **3**
 * E: Feedback & Community Participation: **3**
@@ -41,11 +41,14 @@ I came into module two with three main goals: Fluency in Ruby-on-Rails and Activ
 *   2: Developer's responses are often unclear or incomplete
 *   1: Developer's responses are mostly unclear and/or incomplete
 
+-----------------------
+
 ## B: Projects
 
-We had three significant projects this mod; Bike Share, Rails Mini App, and Little Shop. These projects had two broad goals. First was to gain a solid understanding of how the Internet works from the client => server => database cycle and turn that into working web-based apps. Starting with Sinatra/Sqlite3 we worked our way into full Rails/Active Record apps. The second was to get more comfortable working in an Agile/Scrum group environment. These projects focused on iterative user-story development prioritizing thorough TDD and Github workflow while navigating project management in a group.
+We had three significant projects this mod; Bike Share, Rails Mini App, and Little Coffee Shop. These projects had two broad goals. First was to gain a solid understanding of how the Internet works from the client => server => database cycle and turn that into working web-based apps. Starting with Sinatra/Sqlite3 we worked our way into full Rails/Active Record apps. The second was to get more comfortable working in an Agile/Scrum group environment. These projects focused on iterative user-story development prioritizing thorough TDD and Github workflow while navigating project management in a group.
 
-#### Bike Share
+
+## 1 - Bike Share
 
 * [Bike Share GitHub](https://github.com/MrAaronOlsen/bike-share)
 * [Original Assignment](https://github.com/turingschool/bike-share/blob/master/README.md)
@@ -109,32 +112,102 @@ The premise of the project was to digest very large CSV files from the SF Bay Ar
 * 2: Sporadic use of branches, pull requests, and/or project-management tool.
 * 1: Little use of branches, pull requests, and/or a project-management tool.
 
-#### Rails Mini-Project (CoinBox)
+
+## 2 - Rails Mini-Project (CoinBox)
 
 * [CoinBox GitHub](https://github.com/MrAaronOlsen/CoinBox)
 * [CoinBox Heroku](https://coin-box.herokuapp.com/)
 * [Original Assignment](http://backend.turing.io/module2/projects/mini-project)
 
 #### Description
+
 This was the first project where we brought together everything we had learned to make what might look like an actual web app. The project was built in Rails with ActiveRecord. The test environment was RSpec, Cappybara, and FactoryGirl. The biggest part of this project was user creation, user authentication, and authorization with admin roles.
 
 CoinBox is a fairly simple app. Pretend like you are an employee and the company you work for has an incentive program. This program allows an admin, or manager, to give employees coins of varying value and also create rewards that the user can spend those coins on. A user can log in, see all of their coins and all rewards that they can afford. Then, they can claim a reward and their coin collection will reflect that. That's it. CoinBox.
 
-## Evaluation
+#### Evaluation
 
 I managed to complete the project and it is fully functioning in regards to the above description. The styling is a little weak, but it at least serves the purpose of organizing the screen. Some of the logic in the user model that takes care of the user's coin collection is a bit bloated, but other than that I feel like most MVC conventions are met. I gained a full understanding of many to many relationships and how to organize my schema to maximize simplicity and efficiency. I was also able to push this to Heroku where it seems to be functioning as expected. Over all I would give myself a solid 3 on this project.
 
-#### Little Shop
 
-* [Little Shop GitHub]()
-* [Little Shop Heroku]()
-* [Original Assignment]()
+## 3 - Little Coffee Shop
+
+* [Little Coffee Shop GitHub](https://github.com/MrAaronOlsen/little-coffee-shop)
+* [Little Coffee Shop Heroku](https://little-coffee.herokuapp.com/)
+* [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
 
 #### Description
 
+**Team:** Aaron, Chris, Adam, Tom
+
+##### Environments
+
+* Framework: Ruby on Rails
+* Database: ActiveRecord
+* Security: Bcrypt
+* Testing: Rspec, Cappybara, ShouldaMatchers, FactoryGirl
+* Additional Gems: Paperclip and Cloudinary for image management
+
+##### Expectations
+
+Little Coffee Shop is a base functional e-commerce site and was the capstone project for Mod 2. Main features were user authorization/authentication, cart functionality, and MVC(T) conventions. Additional expectations were user(client) story iterations, group workflow including GitHub and Waffle, and deploying to Heroku. Overall the project was a success in all of these expectations. While were not able to add additional features beyond the base requirements, we were able to deploy a fully functioning app with no test failures or bugs. This site feels scalable, manageable, and has a decent user experience.
+
+The group aspect of the project was one of the best I've ever had. At Turing and out. Merge conflicts were just minor annoyances and never major issues. Regular meetings to cover progress helped delegate work, catch issues, and prevented duplicating work and major digressions of ideas. Each member of the group stayed focused on their tasks and did not attempt to take micro-manage other team members work. In the end everyones work was integrated with almost no issues. This was also one of the first projects at Turing that did not require complete burn out to get it done. Steady, clean work, and maintaining good communication helped keep us on track and keep us focused. Little Coffee Shop is a great way to round out Mod 2.
+
 ## Evaluation
 
-<- TBD ->
+Evaluator: Mike Schutte
+
+### 1. Feature Completeness
+
+* 4: All features are correctly implemented along with two extensions
+* **3: All features defined in the assignment are correctly implemented**
+* 2: There are one or two features missing or incorrectly implemented
+* 1: There are bugs/crashes in the features present
+
+### 2. Views
+
+* **4: Views show logical refactoring into layout(s), partials and helpers, with no logic present**
+* 3: Views make use of layout(s), partials and helpers, but some logic leaks through
+* 2: Views don't make use of partials or show weak understanding of `render`
+* 1: Views are poorly organized
+
+### 3. Controllers
+
+* **4: Controllers show significant effort to push logic down the stack**
+* 3: Controllers are generally well organized with three or fewer particularly ugly parts
+* 2: There are four to seven ugly controller methods that should have been refactored
+* 1: There are more than seven unsatisfactory controller methods
+
+### 4. Models
+
+* **4: Models show excellent organization, refactoring, and appropriate use of Rails features**
+* 3: Models show an effort to push logic down the stack, but need more internal refactoring
+* 2: Models are somewhat messy and/or make poor use of Rails features
+* 1: Models show weak use of Ruby and weak structure
+
+### 5. Testing
+
+* **4: Project has a running test suite that exercises the application at multiple levels**
+* 3: Project has a running test suite that tests and multiple levels but fails to cover some features
+* 2: Project has sporadic use of tests and multiple levels
+* 1: Project did not really attempt to use TDD
+
+### 6. Usability
+
+* **4: Project is highly usable and ready to deploy to customers**
+* 3: Project is highly usable, but needs more polish before it'd be customer-ready
+* 2: Project needs more attention to the User Experience, but works
+* 1: Project is difficult or unpleasant to use, or needs significantly more attention to user experience
+
+### 7. Workflow
+
+* **4: Excellent use of branches, pull requests, and a project management tool.**
+* 3: Good use of branches, pull requests, and a project-management tool.
+* 2: Sporadic use of branches, pull requests, and/or project-management tool.
+* 1: Little use of branches, pull requests, and/or a project-management tool.
+
+-----------------------
 
 ## D: Professional Skills
 
@@ -165,6 +238,8 @@ The parable of the polygon raises some interesting incites about how humans segr
 
 ## E: Community Participation
 I started this mod in the Wazniak Posse, but it pretty quickly became disorganized and I felt my time wasn't being well spent. I dedicated much of my time in this area on my Physics Engine instead which I hope to pull a few people into next mod. I demonstrated what I had completed at the Turing Code Fair in preparation of someday giving a more formal demonstrated.
+
+I wrote an interactive tutorial and posted it to my blog. [Css Position Tutorial](https://mraaronolsen.github.io/position_tut/index.html)
 
 ------------------
 
