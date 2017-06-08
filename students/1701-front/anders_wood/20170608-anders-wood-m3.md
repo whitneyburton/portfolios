@@ -194,9 +194,11 @@ I've tried to support and help build community within our mod by engaging in the
 
 ### Outcome
 
-A: End-of-Module Assessment:
-B: Individual Work & Projects:
-C: Group Work & Projects:
-D: Professional Skills:
-E: Feedback & Community Participation:
+PASS
+
+A: End-of-Module Assessment: PASS
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 3.5
+D: Professional Skills: PASS
+E: Feedback & Community Participation: 3.5
 
