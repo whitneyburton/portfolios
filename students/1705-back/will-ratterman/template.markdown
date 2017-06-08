@@ -25,7 +25,7 @@ Projects at Turing represent the spectrum of human emotions. Confusion at first 
 
 #### (Credit Check)
 
-* [GitHub URL]: https://github.com/wratterman/credit_check
+* [GitHub URL] https://github.com/wratterman/credit_check
 * [Original Assignment] http://backend.turing.io/module1/projects/credit_check
 
 Credit Check was our first project, and the goal of the assignment was to create a program that would test a credit card number, run it through the Luhn Algorithm to verify if the number is valid. This process would return a statement confirming that a valid number is valid or that an invalid number is invalid. The specific steps of the algoritm can be found in the Original Assignment link above.
