@@ -603,23 +603,31 @@ Travis was a great partner who possessed a great deal of patience as I was sick 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I've learned that having a growth mindset helps me improve much faster and get through tough obstacles.  Having a fixed mindset can cause one to peak quickly and easily quit when things get too difficult.  By having a growth mindset, I am able to take obstacles as opportunities to learn rather than failures.  I have learned that in order to keep myself from getting stuck in a fixed mindset, I need to break down problems into smaller pieces.  Also, I have found that if I get stuck too long on one problem, I can easily get frustrated.  By moving on to other problems and then later going back to it, I am able to go into obstacles with a clear mind and solve them one at a time, thereby helping me to keep a growth mindset.
 
 #### Getting Better at Difficult Things
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
+I learned that people have a limited amount of cognitive resources, and that the people who are successful in being highly efficient with their time and work, are great about managing their cognitive resources.  By focusing my cognitive resources on the things that are important to me, I am able to achieve much more.  I now am working on conserving my resources for learning and finding better ways of reducing cognitive resource losses by breaking problems into smaller pieces and keeping myself from getting frustrated.
+
 #### Working with Introverts, Extroverts, and Ambiverts
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+
+I believe I am more of an extrovert because I enjoy communicating and working with other people.  However, I have learned that I need to understand how to work with introverts and ambiverts as well in order to avoid problems.  By being open and making sure my partners are comfortable, I can work with people who may be on the opposite end of the spectrum from me.  By working with others who have different personalities, we can achieve great things because we all bring different something different to the table.
 
 #### Strengths and Storytelling
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
 
+I learned from this Gear Up that many people attended Turing for very similar reasons.  By understanding who we are and our motivations for doing things, we are able to create a story that reflects ourselves and helps build our identity.  This is important to me so that in the future, when I am searching for a job, I know who I am, where I fit in the community, and how to share my story.
+
 #### Debugging the Gender Gap
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
+
+The documentary that we watched was quite shocking to me and helped me realize how I can help right now as I dive into this new career by supporting more diversity.  It was also quite suprising to me the consequences of lacking diversity in the tech world.  The example of when airbags first came out, many women and children were killed by them because airbags had been developed mainly by men and had not been tested for women and children was ridiculous to me. In order to develop something for all people, diversity is absolutely necessary. 
 
 ## E: Community Participation
 
