@@ -20,6 +20,11 @@ Testing                 => 3: Developer uses tests to drive development and test
 Workflow                => 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 Collaboration           => 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
+II: Individual Timed Assessment (actual grade no available yet)
+I went into this assessment feeling confident because I had worked through the cpre types exercises and reviewed hashes. Unfortunately, I became stuck on the last method in the first iteration. I wish I had moved on and worked on other methods. However, I felt it was important for me to show that I can understand and implement hashes. That evening, I went home and studied hashes for another 2 hours -- it turned out I didn't understand nested hashes well, so I worked on that. Then, I was able to refactor and complete the required parts of the assessment with TDD.
+
+https://github.com/DesTodo/bon_appetit
+
 
 B: Individual Work & Projects
 
