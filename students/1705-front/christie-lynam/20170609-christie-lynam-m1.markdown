@@ -6,7 +6,7 @@ My goal for round 2 of Mod 1 was to have a solid grasp of all of the difficult c
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -197,7 +197,7 @@ Proficient: Developer captures the spirit and design intent of the comp. Some sm
 
 #### Static Comp 3
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/christielynam/cl-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 ## C: Group Work & Projects
