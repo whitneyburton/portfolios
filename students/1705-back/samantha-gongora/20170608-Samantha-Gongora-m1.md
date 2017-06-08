@@ -6,9 +6,9 @@ Having beginner experience in Ruby, I set out to learn as much as possible about
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 4
 * **E: Community Participation**: 4
 
@@ -21,7 +21,7 @@ Having beginner experience in Ruby, I set out to learn as much as possible about
 
 ## B: Individual Work & Projects
 
-#TODO (Intro)
+I think that I learned the most, technically, from my individual work. Fundamental gaps were more apparent and questions about how to improve came more easily. Through independent work, I became more comfortable asking questions.  
 
 #### Credit Check
 
@@ -35,7 +35,8 @@ no evaluation
 * [GitHub URL](https://github.com/samanthagongora/date_night)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/date_night.markdown)
 
-#TODO (description)
+description:
+   * I built a binary search tree that stored a group of movie titles by score. I did not finish this project. I had a slew of issues happen on my last work day, and learned a few life lessons. I had never built a program this large, and it was apparent in the organization of my project. I learned how to use recursion, nodes, complex data structures, and multiple classes.
 
 evaluation comments:
    * 25 tests, all passing
@@ -58,7 +59,8 @@ evaluation scores:
 * [GitHub URL](https://github.com/samanthagongora/battleship)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/battleship.markdown)
 
-#TODO (description)
+description:
+   * I built a very basic REPL interface Battleship game. Again, I had never worked on a project of this size. I had the most issues with deciding how to break-up and tackle the project. I disagree with my grade on Enumerable & Collections, but overall satisfied with my scores. This is a project I would like to come back to in the future.
 
 evaluation comments:
    * Very well tested
@@ -85,14 +87,15 @@ evaluation scores:
 
 ### Projects
 
-(Intro)
+I very much enjoyed working on pair projects. Teaching yourself to code, pairing is not something you get to do often. I learned the most about collaboration and increased capability when you put minds together. I put in the most hours when working with a partner, but still enjoyed the process.
 
 #### (Complete Me)
 
 * [GitHub URL](https://github.com/emcooper/complete_me)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/complete_me.markdown)
 
-#TODO (description)
+description:
+   * Ellen and I created a trie to store words in the dictionary by their letter. This project was one of the easiest for me. Having completed the binary search tree the week before, this project seemed only slightly more complex. We were able to finish the project early and work on an extension. We used Shoes to make a GUI for our project. Shoes was a terrible mess, but it was really awesome to see our program in action!
 
 evaluation comments: none
 
@@ -111,7 +114,8 @@ evaluation scores:
 * [GitHub URL](https://github.com/mdevoe12/black_thursday)
 * [Original Assignment](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/projects/black_thursday.markdown)
 
-(description)
+description:
+   * Matt and I developed an ORM from the ground up. We were capable of breaking the project into small pieces and tackle chunks at a time. We paired for almost the entire project, and I think it was a huge part of our success.
 
 (evaluation comments)
 
