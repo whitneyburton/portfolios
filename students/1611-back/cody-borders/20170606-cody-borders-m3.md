@@ -49,7 +49,7 @@ I wanted to gain a better understanding of API interaction as well as improve my
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
+| **Github Repo** | [Rales Repo](https://github.com/codyborders/rails_engine) | [Cloney 1 Repo](https://github.com/jwpincus/punstartr) | [Cloney 2 Repo](https://github.com/josh-works/corkboard) |
 | **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
 | **Functional/Client Expectations** | 1 | 2 | X |
 | **TDD** | 4 | 2 | X |
