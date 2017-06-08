@@ -57,9 +57,9 @@ Static Comp #3
 
 (Presented with a static comp, we were meant to mimic the layout and general design aspects of the comp. This comp generally was fairly easy for me, just time-consuming. Certain features such as the colored checkboxes, the table, and the shifting of pieces for responsiveness were definitely the most challenging.)
 
-(Feedback)
+(The big one here was that if someone were to take my codebase it would be difficult to understand quickly. It did the thing very well, but in terms of clarity of code, I was a bit lacking. We talked about different approaches for going about this such as BEM and SMACCS. We agreed that it would be a great benefit for me to work on refactoring with one of these approaches over the break.)
 
-[Evaluation Scores]()
+[Evaluation Scores](3-s Across the board. With a 4 in both Comp Receration and Design Concepts)
 
 ## C: Group Work & Projects
 
