@@ -20,7 +20,7 @@ In future mods I want to :
 
 |   | Rubric                             |  Score |
 | - |:---------------------------------- |-------:|
-| A | End-of-Module Assessment           |   pass |
+| A | End-of-Module Assessment           |      4 |
 | B | Individual Work & Projects         |      4 |
 | C | Group Work & Projects              |      4 |
 | D | Professional Skills                |      3 |
