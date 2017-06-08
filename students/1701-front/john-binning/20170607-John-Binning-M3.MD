@@ -27,6 +27,12 @@ My goal for the module was to become proficient at react and get down the basics
 
 ### Projects
 
+### WanderList
+
+WanderList is a project where users can enter a location and a activity from their bucket list.  Their location will appear on a map (Google Maps).  Users can give the item a completed status when they have checked it off their bucket list and monitor their total progress by displaying a graph.  Historical weather data for each location can be retrieved so users can plan when to visit.
+
+*  [GitHub URL](https://github.com/JohnBinning/WanderList)
+
 ### Headcount
 
 
