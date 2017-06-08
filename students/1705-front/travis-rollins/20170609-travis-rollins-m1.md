@@ -595,14 +595,31 @@ that is mindful of reducing complexity and increasing performance.|
 Travis was a great partner who possessed a great deal of patience as I was sick at the beginning of the project. Travis was definitely focused on making it through all phases of the project, whereas I was content to have a firm stopping point. I really admire the go far at all costs attitude, it was inspiring. Our approach was a side by side navigator driver approach which I felt was collaborative and helpful. We talked through our code, solutions, and why or how something wouldn't work. Travis was really open to trying new things with the code. During our project I also lost my lightning talk and had to redo it. Travis again, was super accommodating and empathetic and gave leniency so I could work on that. I felt very bad as I didn't feel I was giving equity to the time and input on this project the way he was. Travis definitely has strong ideas and when his mind is set it's set. That is a wonderful quality, I do think in a project if you both make a committed goal, then it should be honored. After we'd separated Travis sent me a message later saying he worked through the rest of the functionality and would show me later, again I felt like "what did I do to move this along?" Travis was very apologetic to me as his intentions were not to "leave me behind", I do know for certain his intentions were not malicious, but he wanted to learn through every phase. I get it and am glad he was my partner. Perhaps my own insecurities are making me feel less than equal. I would partner with Travis again anytime as our personalities work well together and I consider him one of my good friends in our cohort.
 
 ## D: Professional Skills
-(Intro)
+
+ I really enjoyed the professional development lessons given in Mod 1.  I want to continue improving on my communications with future partners using DTRs and would also like to continue developing my social connections in the community using various platforms like Linkedin and Twitter.  The Gear Up sessions were also extremly useful and gave me great insight on how to be a better software developer as well as partner in the greater community.
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Getting Better at Difficult Things
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+#### Working with Introverts, Extroverts, and Ambiverts
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+
+#### Strengths and Storytelling
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
+
+#### Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
 
 ## E: Community Participation
 
