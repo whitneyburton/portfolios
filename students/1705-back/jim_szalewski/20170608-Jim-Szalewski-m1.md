@@ -143,6 +143,20 @@ Built a system that loads, parses, and searches data from csv files for online m
 (evaluation comments)
 
 (evaluation scores)
+1. Fundamental Ruby & Style
+  + 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+2. Breaking Logic into Components
+  + 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+3. Test-Driven Development
+  + 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+4. Functional Expectations
+  + 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+5. Code Sanitation
+  + 4: Zero complaints
 
 ## D: Professional Skills
 (Intro)
