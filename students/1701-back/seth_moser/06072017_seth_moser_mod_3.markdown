@@ -30,7 +30,7 @@
 
 > **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
 >* Create an internal api and allow data to be shown on my website as JSON.
->* 
+>* As much as I dilike the way hashes look, the usefulness of this project and what we learned is invaluable, and I can't wait to apply it to other self projects.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
 > **[Cloney Island Sprint 1](https://github.com/NicholasJacques/corkboard)** 
