@@ -205,8 +205,16 @@ Weekly participation in Joan Clarke Society
 
 ### Notes
 
-( Leave blanks for reviewers )
-
+- Work on working with people who aren't as strong as you 
+    - building up this skillset will help you 
+    - you're proficient so you'll be intimidating. but thats tyte. 
+     
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: PASS
+* **E: Community Participation**: 4
