@@ -7,7 +7,7 @@ Moving forward, I want to have a better understanding about authentication/autho
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 4
+* **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
@@ -128,7 +128,6 @@ Feedback to me
 
 ## D: Professional Skills
 
-### Gear Up
 #### Cold Outreach I
 
 * [GitHub URL](http://backend.turing.io/career_development_curriculum/module_two/cold_outreach_i)
@@ -141,20 +140,11 @@ We learned how to contact effectively our mentors and why this relationship is i
 
 We learned about project management practices (agile vs waterfall) and to ask questions and use that to guide a conversation instead of order people around (this way we have a better understanding of the situation and we build a respectful relationship) and how to handle failure within a group by not addressing it as something to blame for, but something to learn from.
 
-#### Empathy
-
-We talked about being aware that we all want to be surrounded by people that are similar to us, and that is very easy (specially in a work environment) to segreate groups or people because they're different. We must make an effort to build a welcoming environment and to encourage diversity, and work for inclusivity and being aware that we can make a difference on how a person is treated and viewed.
-
-
 #### Feedback II
 
 * [GitHub URL](http://backend.turing.io/career_development_curriculum/module_two/feedback_ii)
 
 We learned how to give feedback, the importance of active listening and to be aware of the other person's reaction (switchtracking, body language, wording, etc.). Also on having a very clear purpose for the conversation and clear examples on how to handle them.
-
-#### Parable of the Polygon/Automation
-
-I learned that being neutral about a topic does not fix it (in this case diversity). We have to make an effort to be more inclusive, it's understandable that people want to be surrounded by their peers, but we have to be conscious about our environment and how we can impact it for better or worse. Knowing this, we need to see past our biases and always push for a welcoming environment and look for balance within our groups.
 
 #### Feedback III
 
@@ -165,6 +155,20 @@ We used the Johari window and learned about how other people view us. I really e
 #### StrengthsFinder: Teamwork
 
 We talked about how our strengths our reflected in our teamwork and in our collaboration styles. I enjoyed that people were true to their strengths, they would describe it and (having worked with them) I could make the connection to their actions or attitudes. A takeaway is to be aware that the styles, actions, attitudes, etc are a reflection of each person's values and strengths; which seems obvious but is very easy to forget.
+
+### Gear Up
+
+#### Empathy
+
+We talked about being aware that we all want to be surrounded by people that are similar to us, and that is very easy (specially in a work environment) to segreate groups or people because they're different. We must make an effort to build a welcoming environment and to encourage diversity, and work for inclusivity and being aware that we can make a difference on how a person is treated and viewed.
+
+#### Parable of the Polygon/Automation
+
+I learned that being neutral about a topic does not fix it (in this case diversity). We have to make an effort to be more inclusive, it's understandable that people want to be surrounded by their peers, but we have to be conscious about our environment and how we can impact it for better or worse. Knowing this, we need to see past our biases and always push for a welcoming environment and look for balance within our groups.
+
+#### Choose your own adventure: Dangers of a single story
+
+The biggest learning was the realization that we get bombarded with the same story about a country/race/etc through news, tv, stories, movies and there comes a point were we believe that's the only story. It's inevitable to have that perspective but we must be aware of this, so we are open to learning and not make assumptions.
 
 ## E: Community Participation
 
