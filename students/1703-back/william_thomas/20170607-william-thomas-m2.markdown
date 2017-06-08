@@ -104,23 +104,32 @@ Little Shop
 In this project you'll use Ruby on Rails to build an online commerce platform to facilitate online ordering.
 
 (evaluation comments)
+UX is fantastic - super clean, usable, well designed
+New items not creating category association
+Factories look fantastic
+All feature tests were created before starting project which really drove whole site production
+stylesheets look amazing component based, used Sass tools, etc
+views made good use of partials
 
 (evaluation scores)
 Assessor:
+
+Lauren Fazah
 
 Evaluation Rubric
 
 The project will be assessed with the following rubric:
 
-1. Feature Completeness
-2. Views
-3. Controllers
-4. Models
-5. Testing
-6. Usability
-7. Workflow
+1. Feature Completeness 3
+2. Views 4
+3. Controllers 3
+4. Models 4
+5. Testing 4
+6. Usability 4
+7. Workflow 3
 
 (feedback to me)
+Great project and team. We can all get better at waffle 
 
 ## D: Professional Skills
 Growing even more as a professional has always been an important aspect of my time here at Turing.  This module in particular has been extremely effectively and helpful in this regard.  Both through group projects, and through various lessons such as the cold outreach.
