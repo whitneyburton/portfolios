@@ -88,7 +88,7 @@ My biggest takeaway from this gear up came from the interactive data visualizati
 
 ##### Feedback from me for Rales Engine
 
-  >* For \<Partner 1>:
+  >* For Joseph Glass:
   Collaborating with Joseph has been a great experience throughout the course of the Rales Engine project. I really appreciated his patience in dealing with a late start. Along with being knowledgeable and collaborative, Joseph also has a great work ethic that comes with a positive attitude. He was willing to work as long as necessary the night before the project was due to ensure we had a satisfactory score. Overall, I would recommend Joseph as a teammate to anyone because I know he would be a valued contributor in any setting.
 
 #### **Posse**
