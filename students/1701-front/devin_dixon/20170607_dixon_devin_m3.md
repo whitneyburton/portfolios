@@ -24,14 +24,11 @@ Pass
 
 * [Github](https://github.com/devthehuman/shindig)
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
+* [Scores](https://gist.github.com/devthehuman/d5effada1a75bdc81300b601574e2494)
 
 I wanted to build an app that allows users to track concerts in any given city across the user, add an event to a calendar
 in their account, and then be able to communicate with other users who are attending the same shows. To accomplish this, I
 utilized the Express boilerplate, React, Redux, Router, Knex, Jest and Enzyme.
-
-(evaluation comments)
-
-(evaluation scores)
 
 ## C: Group Work & Projects
 
@@ -87,6 +84,11 @@ This topic brings up so many good points from all sides, it's hard to know where
 ### Playing a Part
 I ran IronFe on Wednesday mornings this module, and did my best to be available for screenhero pairing or in person help
 whenever anybody needed it. 
+
+## F: Feedback
+* Feedback from Keji: No more getting sick, but seriously it was good working with you. You’re very clever and a good communicator.  Something to keep in mind for next time we work together, I’m not a rapper.
+* Feedback from Devon: Devin has grit, is highly motived to write good Javascript, and is easy to communicate with.
+* Feedback from Leta: Devin really carried Movie Tracker. He wrote our reducers and actions and got us launched into Redux. It was great having him on the team and I think we all gelled well!
 
 ------------------
 
