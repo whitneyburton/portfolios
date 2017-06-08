@@ -16,8 +16,138 @@ I wanted to really get a good grasp of HTML, CSS, and Javascript.  While I under
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+# Pentathlon: Code Challenge 1
+## Evaluator: Brenna
+## Optional Notes:
 
+PASS
+
+## JAVASCRIPT
+
+#### Data Types
+
+* __Proficient:__ Can identify and track data types through any variety of functions, understanding their affect and result on each line of code. Knows which scenarios are better suited for objects vs. arrays and employs them accordingly.
+
+#### Conditional Logic
+
+* __Proficient:__ Can use an if/else statement to effectively handle multiple paths through the code. Writes if/else statements that only have one level of logic (no nesting). Can use logical operators instead of if/else statements where applicable.
+
+#### Functions & Scope
+
+* __Proficient:__ Functions have single responsibility. The entirety of the function is easy to read what functionality it contains. Function is generally shorter than 8 lines. Uses functions to eliminate repeated code. Comfortable refactoring any piece of code and extracting it to a function.
+
+#### Objects & Prototypes
+
+* __Proficient:__ Can use object prototypes. Can articulate the definition and the "why" of an object prototype - the best use cases for prototypes.
+
+#### DOM Manipulation
+
+* __Proficient:__ Able to extract information, modify attributes, or append/prepend data in the DOM easily regardless of whether they are employing vanilla JavaScript or jQuery. Understands how to harness event bubbling.
+
+#### Style
+
+* __Proficient:__ Code is logically organized, such that reader can easily follow the progression of the app because variable and function names are descriptive and follow a single responsibility approach. There are no major bugs and minimal duplication.
+
+------------------------------------------------------------------
+
+## DEBUGGING
+
+#### Dev Tools/Debug Process
+
+* __Proficient__: Uses the dev tools as their first line of defense when encountering something unexpected. Demonstrates comfort and skill using dev tools to investigate, check layout issues, console log results, and experiment solving problems before writing abundant amounts of code. Will experiment with javascript in the console to test unfamiliar concepts.
+
+# Pentathlon: Code Challenge 2
+## Evaluator: Louisa
+## Optional Notes:
+
+- great job walking me through his thought process, excellent communication
+- really solid with syntax
+- nailed passing an object in as a param
+- solid understanding of what is happening and how to solve problems being presented
+- stop using your mouse so much!! no more mouse!!
+
+## JAVASCRIPT
+
+#### Data Types
+
+* __Proficient:__ Can identify and track data types through any variety of functions, understanding their affect and result on each line of code. Knows which scenarios are better suited for objects vs. arrays and employs them accordingly.
+
+#### Conditional Logic
+
+* __Proficient:__ Can use an if/else statement to effectively handle multiple paths through the code. Writes if/else statements that only have one level of logic (no nesting). Can use logical operators instead of if/else statements where applicable.
+
+#### Functions & Scope
+
+* __Proficient:__ Functions have single responsibility. The entirety of the function is easy to read what functionality it contains. Function is generally shorter than 8 lines. Uses functions to eliminate repeated code. Comfortable refactoring any piece of code and extracting it to a function.
+
+#### Arrays
+
+* __Proficient:__ Does not use for loops for arrays - uses array prototypes, such as forEach, to iterate through or manipulate arrays. Can use array to store more complicated data structures such as objects or nested arrays. Is comfortable/efficient with reading array prototype documentation and can efficiently test/apply array prototype methods they have not worked with before.
+
+#### Objects & Prototypes
+
+* __Proficient:__ Can use object prototypes. Can articulate the definition and the "why" of an object prototype - the best use cases for prototypes.
+
+#### Style
+
+* __Proficient:__ Code is logically organized, such that reader can easily follow the progression of the app because variable and function names are descriptive and follow a single responsibility approach. There are no major bugs and minimal duplication.
+
+------------------------------------------------------------------
+
+## TESTING
+
+#### Test Comprehension
+
+* __Proficient__: Can read through each line of a test and understand how to drive the development to make the test pass. If stuck on making a test pass, they know how to investigate where and how the test is failing using the error messages.
+
+------------------------------------------------------------------
+
+## DEBUGGING
+
+#### Dev Tools/Debug Process
+
+* __Proficient__: Uses the dev tools as their first line of defense when encountering something unexpected. Demonstrates comfort and skill using dev tools to investigate, check layout issues, console log results, and experiment solving problems before writing abundant amounts of code. Will experiment with javascript in the console to test unfamiliar concepts.
+
+# Pentathlon: Static Comp Challenge
+## Evaluator: Brenna
+## Optional Notes:
+
+------------------------------------------------------------------
+
+## HTML
+
+#### Accessibility
+
+* __Novice:__ Knows what a semantic tag is and leverages the HTML5 structural tags to organize the content of their markup.
+
+#### Style
+
+* __Proficient:__ Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices.
+
+------------------------------------------------------------------
+
+## CSS
+
+#### Structure of Code
+
+* __Proficient__ : Leverages cascading styles and CSS specificity rules to create more complex targeting of elements in order to reduce, reuse, share styles across elements. Organizes properties within rules based upon industry standard principles of writing consistent, idiomatic CSS.
+
+#### Implementation
+
+* __Proficient:__ Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout.
+* __Exceptional__ Can articulate rationale for all parts of the CSS implementation (each line of code/CSS rule) specifically in regards to the balance of: structure of code, design integrity, performance.
+
+------------------------------------------------------------------
+
+## DESIGN
+
+#### Comp Recreation
+
+* __Proficient:__ Developer captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but developer is clearly mindful of details and has made a conscious and careful effort to match the comp. Any design decisions left open to interpretation are handled thoughtfully and are well executed, but are more noticeable and/or unintuitive than they would be if the designer had provided the solution, or may not be totally seamless during screen-size transitions.
+
+#### Design Concepts
+
+* __Proficient__: Can apply fundamental design concepts in a comp that demonstrates a thoughtful, purposeful, cohesive strategy that does not detract from legibility or overall design integrity.
 
 ## B: Individual Work & Projects
 
