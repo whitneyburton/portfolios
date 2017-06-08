@@ -7,9 +7,9 @@ Accomplishments in this module are a range of situations, moments, and items tha
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
+* **D: Professional Skills**: 2
 * **E: Community Participation**: 2
 
 -----------------------
@@ -29,7 +29,8 @@ In Mod-1 we completed two projects that were done individually that were extreme
 * [Original Assignment]http://backend.turing.io/module1/projects/credit_check
 
 Description
-
+This project was my first test of keeping my head above water and did I barely.  I did this project wrong as I forgot to add in one subtraction step to completely validate the number.  Overall, while i missed that, I ended remaking this project 3 weeks later with ease and added the step in for the verification.  This project, of all the projects, provided the lease amount of knowledge growth through experimentation.
+----------------------------------------------------------
 (adapted from Wikipedia)
 
 The formula verifies a number against its included check digit, which is usually appended to a partial account number to generate the full account number. This full account number must pass the following test:
@@ -39,15 +40,14 @@ if product of this doubling operation is greater than 9 (e.g., 7 * 2 = 14), then
 take the sum of all the digits
 if and only if the total modulo 10 is equal to 0 then the number is valid
 
-[Evaluation Comments]
-	This project was my first test of keeping my head above water and did I barely.  I did this project wrong as I forgot to add in one subtraction step to completely validate the number.  Overall, while i missed that, I ended remaking this project 3 weeks later with ease and added the step in.
 
+[Evaluation Comments]
 ------------------------------------------------------------------------------------------------------
-###########Battle_Ship
+########### Battle_Ship
 * [GitHub URL](https://github.com/swdonovan/Battleship)
 * [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
-(You are to build a playable game of Battleship that runs in a REPL interface. The game will allow a single human player to play against a (simplistic) computer player.)
+Hands down the project that reassured me that I wasn't going to drown and that i couldn't handle the task of learning a software language.  This project was my favorite as I excelled quickly at getting through the logic and the components of this project with ease.  For what was an extremely difficult project I enjoyed the complexity and challenge.  I bit off too big of a chunk by starting with a 10 x 10 board and wasn't able to get it refactored back to spec in time before turning it in.  The choice to take on a 10 x 10 was mine alone and I still wouldn't have done it any other way as that extra challenge was extremely educational to me therefore the grade doesn't represent the variations in complexity along with many other factors
 
 (1. Fundamental Ruby & Style
 
@@ -82,9 +82,7 @@ if and only if the total modulo 10 is equal to 0 then the number is valid
 * [GitHub URL](https://github.com/swdonovan/Jungle_Beats)
 * [Original Assignment](http://backend.turing.io/module1/projects/jungle_beat)
 
-In this project we’re going to do some silly things with sound. Specifically, we’re going to make a very basic drum machine program.
-
-However to add some additional depth, let’s also use this project as a chance to explore one of the fundamental data structures in computer science – the Linked List.
+This project I barely have recollection of.  It provided very little direction, education, and the only fact it proved to me was that I could get a project done regardless.  The concept of the project that is trying to be taught is incredibly on point but the absolute key concept of the project, that is integral for everything else the rest of the Mod, was poorly reasserted and this project ended up being a minor set up back for a variety of reasons that I was able to overcome.
 
 #1. Fundamental Ruby & Style
 
@@ -114,9 +112,7 @@ Black_Thursday---> In this project we had to learn how to manipulate multiple CS
 * [GitHub URL](https://github.com/swdonovan/night_writer)
 * [Original Assignment](http://backend.turing.io/module1/projects/night_writer)
 
-The idea of Night Writing was first developed for Napoleon’s army so soldiers could communicate silently at night without light. The concept of night writing led to Louis Braille’s development of his Braille tactile writing system.
-
-In this project we’ll implement systems for generating Braille-like text from normal characters and the reverse.
+This project was incredibly important to getting object oriented programming understood.  In the end this project helped the 'clicking' factor with software language.  The first paired project couldn't have gone better.  It was a different feeling to have someone relying upon you and I figured my introverted ways would make it a pain to be paired, but the result was the opposite and the project went great.  File IO knowledge along with object oriented ways to program became incredibly clearer.
 
 (Asssessed By:
 Ali
@@ -152,23 +148,21 @@ Rubric:
 * [GitHub URL](https://github.com/swdonovan/black_thursday)
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
-A business is only as smart as its data. Let’s build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.
+Aboslute favorite project with in the first 6 weeks including all exercises etc.  This project gave us our first hands on real world example to code through and the amount of education that it provided was amazing.  There was serveral frustrations towards the end but fighting those frustrations with the spec harness proved to be valuable in the sense that we had to cycle through so many variations of data and live inside our code for so long that the inner workings of a computer could almost be seen.
 
 (evaluation comments)--TBA
 
 (evaluation scores)--TBA
 
-(feedback to me)--TBA
+(feedback to me)--TBA--
 
 ## D: Professional Skills
-(Intro)
 
-### Gear Up
-#### (Session Name)
 
-* [GitHub URL]()
+###GEAR UP
 
-Our Gear up sessions were also incredibly enlightening and beneficial to my growth while at Turing.  These were enlightening for the culture understanding, especially coming from a different state with a completely different culture.  As well, these gear ups provided an additional quality platform for personal growth!
+
+Our Gear up sessions were also incredibly enlightening and beneficial to my growth while at Turing.  These were enlightening for the culture understanding, especially coming from a different state with a completely different culture.  As well, these gear ups provided an additional platform of quality for personal growth! 
 
 ## E: Community Participation
 
