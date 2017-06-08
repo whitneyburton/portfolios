@@ -6,11 +6,11 @@ In mod 2, I wanted to deepen my understanding of javascript programming.  I want
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: PASS
+* **E: Community Participation**: 4
 
 -----------------------
 
