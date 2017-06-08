@@ -76,12 +76,12 @@ implementing searches, and working with a three talented, creative and positive 
 | --- | --- | --- |
 | **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
 | **Github Repo** | [Bike Repo](https://github.com/Benjaminpjacobs/bike-share) | [Shop Repo](https://github.com/Benjaminpjacobs/little-shop) |
-| **Functional Expectations** | PASS |  |
-| **ActiveRecord** | PASS |  |
-| **User Experience and Conventions** | PASS |  |
-| **Code Organization/Quality** | PASS |  |
-| **Testing** | PASS |  |
-| **Working Collaboratively** | PASS |  |
+| **Functional Expectations** | 4 | 4 |
+| **ActiveRecord** | 4 | 4 |
+| **User Experience and Conventions** | 4 | 3 |
+| **Code Organization/Quality** | 4 | 4 |
+| **Testing** | 4 | 4 |
+| **Working Collaboratively** | 3 | 4 |
 
 
 ## D: Professional Skills
