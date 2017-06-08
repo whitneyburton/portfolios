@@ -192,6 +192,7 @@ This was probably the most interesting gear up that I participate in. The point 
 ## E: Community Participation
 
 ### Playing a Part
+
 I played my part in the community by helping other people in my cohort through their projects. I got to help Travis and Justyna through HeadCount 2.0 which was a huge benefit to my understanding. I participated in group whiteboarding sessions and have helped other students through their frustrations and hardtimes throughout the mod.
 
 Feedback:
@@ -206,8 +207,17 @@ From Travis: 'Spencer was a great partner to work with on SWAPI. Going in to the
 
 ### Notes
 
-( Leave blanks for reviewers )
-
+- Ask good questions 
+   - Understand the why behind the specific concept you are learning. 
+- Be confident! 
+- Lead / Participate in IronFE
+   
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING ( Professional Skills)
+
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: PENDING
+* **E: Community Participation**: 3
