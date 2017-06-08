@@ -22,6 +22,11 @@ Contingent Pass with completion of search and filter features and documentation 
 
 ## C: Projects
 
+### Open Source
+
+* [Pull Request] (https://github.com/codebar/planner/pull/556)
+* [Blog Post](https://aelschauer.wordpress.com/)
+
 ### Quantified Self
 
 * [Submission Links & Scores](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/4module/quantified_self/ashley_james.md)
