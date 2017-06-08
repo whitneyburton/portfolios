@@ -1,73 +1,52 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Ashley Schauer
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I wanted more collaboration practice and I wanted to learn more JavaScript, especially jQuery. I wanted to challenge myself with the open source project so I would find the whole process less intimidating. I wanted to get more brownfield experience and working with an established code base.
+
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Contingent Pass with completion of search and filter features and documentation by next Tuesday.
 
 
-## B: Individual Work & Projects
+## C: Projects
 
-(Intro)
+### Quantified Self
 
-#### (Project Name)
+* [Submission Links & Scores](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/4module/quantified_self/ashley_james.md)
 
-* [GitHub URL]()
-* [Original Assignment]()
+### Mentorship
 
-(description)
+* [GitHub Repo](https://github.com/edilenedacruz/MentorSHIP)
 
-(evaluation comments)
+(We were never given a written record of our final scores.)
 
-(evaluation scores)
+Due to missing the demo, I will be writing a 1-2 paragraph LinkedIn recommendation for each of my team members due next Tuesday.
 
-## C: Group Work & Projects
-
-### Projects
-
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Universal Basic Income
 
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I really enjoyed this experience. It was fun working collaboratively with others to develop the Gear Up. We talked a lot about what we liked or didn't like about previous sessions and how to maximize our time. We were well organized, everyone in the group got to contribute, and had a lot of fun. I always enjoyed small group discussions, and I had a great group. I tried playing devil's advocate, but it was a nice reversal having to focus on fostering discussion rather than contributing to it.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I did a pairing session with one of the Mod 3 students on Yodlee. I completed my Gear Up. I intended to lead a Spike Session, but the schedule was really weird this mod.
 
 ------------------
 
