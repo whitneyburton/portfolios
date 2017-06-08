@@ -30,9 +30,10 @@ In future mods I want to :
 
 ## A: End of Module Assessment
 
-| Test                               | Score |
+| Assessment                         | Score |
 |:---------------------------------- |------:|
 | End-of-Module Assessment           | passed|
+| Weathrly                           | passed|
 
 -----------------------
 
@@ -224,31 +225,44 @@ The output from JSHint shows…
 
 ## D: Professional Skills
 
-(Intro)
-
------------------------
-
 ### Gear Up
 
------------------------
+#### Empathy
 
-#### (Session Name)
+#### Parable of the Polygons
 
-* [GitHub URL]()
+During this gear up we read and played an online game/exercise that showed us how diversity can reduce segregation in a community. By demanding a little bit of diversity, and changing the perception of what is acceptable in an environment, the community reduces segregation. Creating equality takes effort, but it brings more value to a society.
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Knowledge
+
+During this session we discussed what knowledge is, and how to approach it in a philosophical way. I learned that philosophy and programming mix well. They both deal with logic and solving abstractions. One of my main takeaways from this session is the idea of self. What is the self? What makes us unique? What makes us conscious?
 
 -----------------------
 
 ## E: Community Participation
 
-### Feedback
-
 ### Playing a Part
 
-(intro)
+One of my goals that I set last mod was to be more involved in the Turing community. To accomplish this I did the following:
+
+* Paired with Mod 1 students
+* Started a personal project to make a web app that facilitates the scheduling of parings between students
+* Joined the Pahlka Posse and helped build a web app that mapped food deserts in Denver CO
+* Gave a React workshop to my classmates where we build a pokedex
+* Participated in the productivity lunch group where we discussed strategies/routines/habits to improve our productivity in life, during Turing, and after Turing.
+
+-----------------------
 
 #### Posse
+
+The goal of the posse this mod was to:
+* create an interactive map of food stores in Denver and the assets in communities that could be activated for food distribution particularly in the summer time for youth.
+
+I contributed by building the web comp and navigation bar.
+
+![food4all](screenshots/food4all.png)
+
+-----------------------
 
 #### Paring Feedback
 
@@ -266,17 +280,30 @@ The output from JSHint shows…
 
 > “Juan! Gracias otra vez! Yo olvido a escribir 'feedback' por la ayuda. Como siempre, fuiste muy helpful con todos mis problemas. No solo diga me que nessicito hacer, perro tambien me aprendes como hacer soluciones a mis problemas. Entonces gracias otra vez. Y nessicito te comprar una cerveza o algo parra decir gracias. Hasta luego! -Dan Alvarez. Y tambien lo siento si mi espanol es horrible... chao!”
 
+-----------------------
+
 #### Personal Project
+
+* [GitHub URL](https://github.com/jdiejim/Pairing-is-Caring)
+
+The goal of the project is to:
+
+* create a web app that facilitates the scheduling of parings between students
+
+![pairing](screenshots/pairing.png)
+
+-----------------------
 
 #### Pokedex Workshop
 
 * [GitHub URL](https://github.com/jdiejim/pokedex-tutorial)
 
-I made a workshop where we build a pokedex using React.
+The goal of the workshop was to:
+* have a greater understanding/practice with react components, and data management by building a pokedex.
 
 ###### screenshot:
 
-![pokedex](pokedex.png)
+![pokedex](screenshots/pokedex.png)
 
 ------------------
 
