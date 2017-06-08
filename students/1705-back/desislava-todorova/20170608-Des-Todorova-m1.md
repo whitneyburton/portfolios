@@ -21,7 +21,7 @@ Workflow                => 3: Developer demonstrates comfort with their tools an
 Collaboration           => 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 II: Individual Timed Assessment (actual grade no available yet)
-I went into this assessment feeling confident because I had worked through the cpre types exercises and reviewed hashes. Unfortunately, I became stuck on the last method in the first iteration. I wish I had moved on and worked on other methods. However, I felt it was important for me to show that I can understand and implement hashes. That evening, I went home and studied hashes for another 2 hours -- it turned out I didn't understand nested hashes well, so I worked on that. Then, I was able to refactor and complete the required parts of the assessment with TDD.
+I went into this assessment feeling confident because I had worked through the core-type exercises early in the mod and reviewed hashes recently. Unfortunately, I became stuck on the last method in the first iteration. I wish I had moved on and worked on other methods. However, I felt it was important for me to show that I can understand and implement hashes. That evening, I went home and studied hashes for another 2 hours -- it turned out I didn't understand nested hashes well, so I worked on that. Then, I was able to refactor and complete the required parts of the assessment with TDD.
 
 https://github.com/DesTodo/bon_appetit
 
@@ -44,11 +44,16 @@ B: Individual Work & Projects
   Original Assignment
   http://backend.turing.io/module1/projects/credit_check
 Code Review with Mike:
-Ruby Syntax & Style             => 3: Application shows strong effort towards organization, content, and refactoring
-Breaking Logic into Components  => 3: Application effectively breaks logical components apart but breaks the principle of SRP
-Test-Driven Development         => 2: Application makes some use of tests, but the coverage is insufficient
-Functional Expectations         => 2: Application runs, but does not work properly, or does not meet specifications.
-
+  Ruby Syntax & Style             => 3: Application shows strong effort towards organization, content, and refactoring
+  Breaking Logic into Components  => 3: Application effectively breaks logical components apart but breaks the principle of SRP
+  Test-Driven Development         => 2: Application makes some use of tests, but the coverage is insufficient
+  Functional Expectations         => 2: Application runs, but does not work properly, or does not meet specifications.
+Notes:
+  Inconsistent spacing
+  pull out complex conditionals into predicate methods
+  Used smart node approach
+  only completed insert and include
+  would like to have seen more in depth testing
 
   3. Battleship
   GitHub URL
@@ -56,19 +61,17 @@ Functional Expectations         => 2: Application runs, but does not work proper
   Original Assignment
   http://backend.turing.io/module1/projects/battleship
 Code Review with Alli:
+  Fundamental Ruby & Style       => 2: Application runs but the code has many long methods (>8 lines) and needs refactoring
+  Enumerable & Collections       => 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+  Test-Driven Development        => 2: Application makes some use of tests, but the coverage is insufficient
+  Git Workflow: FAIL
+  REPL Interface                 => 3: Application's REPL is clear and pleasant to use
+  Breaking Logic into Components => 3: Application effectively breaks logical components apart with clear intent and usage
+  Functional Expectations        => 2: Application runs, but does not work properly, or does not meet specifications
 Notes:  
-Quit and play work, play includes player ship placement and works through first fire  
-Talked through classes, demonstrates a good understanding of OOP w/ objects  
-Frequent long methods, opportunities to refactor with nested loops and if/else  
-
-Rubric:
-Fundamental Ruby & Style       => 2: Application runs but the code has many long methods (>8 lines) and needs refactoring
-Enumerable & Collections       => 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-Test-Driven Development        => 2: Application makes some use of tests, but the coverage is insufficient
-Git Workflow: FAIL
-REPL Interface                 => 3: Application's REPL is clear and pleasant to use
-Breaking Logic into Components => 3: Application effectively breaks logical components apart with clear intent and usage
-Functional Expectations        => 2: Application runs, but does not work properly, or does not meet specifications.
+  Quit and play work, play includes player ship placement and works through first fire  
+  Talked through classes, demonstrates a good understanding of OOP w/ objects  
+  Frequent long methods, opportunities to refactor with nested loops and if/else  
 
 C: Group Work & Projects
 
