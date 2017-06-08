@@ -115,6 +115,12 @@ In my time with the Armstrong posse this module, I helped to organize a meet up 
 
 ### Notes
 
-
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 ### Outcome
+
+PROMOTED

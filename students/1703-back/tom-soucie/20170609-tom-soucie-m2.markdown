@@ -5,7 +5,7 @@
 This module I wanted to go from having solid Ruby skills to being able to use
 Ruby to actually build tools to view and store data. The power of utilizing data and the Internet of Things is really fascinating to me, so understanding more about how this functions and how I can build tools for this is an exciting experience. As I go forward and continue to improve skills, I want to branch out to the IOT if possible and continue growing and developing my technical and professional skills.
 
-This module was a really good learning experience for how much work it really takes to be successful at Turing. I was able to get a great intro to Module 1 through Mike Dao's Second Shift program, which allowed me to be successful right away. Module 2 started off with all brand new topics for me, so from the start I have always felt behind. The only way I was able to keep afloat in the class was through countless hours of work, and I would try to make myself in the building for at least 12 hours a day during the week. I want to keep up this habit and continue improving my ability to work and learn for sustained periods of time.  
+This module was a really good learning experience for how much work it really takes to be successful at Turing. I was able to get a great intro to Module 1 through Mike Dao's Second Shift program, which allowed me to be successful right away. Module 2 started off with all brand new topics for me, so from the start I have always felt behind. The only way I was able to keep afloat in the class was through countless hours of work, and I would try to make myself in the building for at least 12 hours a day during the week. I want to keep up this habit and continue improving my ability to work and learn for sustained periods of time.
 
 ## Self Assessment
 
@@ -40,7 +40,7 @@ I still need to build out the photo functionality and styling, but this is where
 
 ### Projects
 
-The projects in this Module were a challenge, but fun and rewarding because we were actually building a visible product we could show off and conceivably someone could find useful. I know this is just the first step, and I am super motivated to keep grinding and learning and improving my web development skills.  
+The projects in this Module were a challenge, but fun and rewarding because we were actually building a visible product we could show off and conceivably someone could find useful. I know this is just the first step, and I am super motivated to keep grinding and learning and improving my web development skills.
 
 #### Bike Share
 
@@ -128,8 +128,12 @@ The Turing community is one of the most important components of the educational 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

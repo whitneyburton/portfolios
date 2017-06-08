@@ -22,7 +22,7 @@ Passed
 
 ## B: Individual Work & Projects
 
-My individual work included Blogger, MixMaster, Job Tracker, and a Gamified Blog. I gained solid reps with Blogger and MixMaster, which prepared me for Job Tracker. My Rails Mini Project was a gamified blog in which users could earn clout by participating on the platform (commenting, liking/disliking content, others liking their content). Users were rewarded with increased permissions/authorization for earning clout. 
+My individual work included Blogger, MixMaster, Job Tracker, and a Gamified Blog. I gained solid reps with Blogger and MixMaster, which prepared me for Job Tracker. My Rails Mini Project was a gamified blog in which users could earn clout by participating on the platform (commenting, liking/disliking content, others liking their content). Users were rewarded with increased permissions/authorization for earning clout.
 
 #### Rails Mini Project - Gamify Blog
 
@@ -67,7 +67,7 @@ This application collects data in two ways: 1) through web forms allowing users 
 * [GitHub URL](https://github.com/adamgunther1/little-shop)
 * [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
 
-Little Coffee Shop is an ecommerce web application designed to sell wholesale coffee beans. 
+Little Coffee Shop is an ecommerce web application designed to sell wholesale coffee beans.
 
 ##### Evaluation Scores
   - 3 | Feature Completeness
@@ -90,26 +90,26 @@ This module we have focused on outreach, feedback, and working on projects in gr
 In this gear up an alumn spoke about empathy and segregation in the workplace. We need to build a welcoming community and environment and actively encourage diversity. It's important to empower others.
 
 #### Parable of the Polygon
- 
-This was a fascinating gear up that used a web application to demonstrate the different effect of being open to diversity versus actually pursuing it. When people are open to diversity, not much change actually occurs, because people aren't actively pursing change. 
 
- 
+This was a fascinating gear up that used a web application to demonstrate the different effect of being open to diversity versus actually pursuing it. When people are open to diversity, not much change actually occurs, because people aren't actively pursing change.
+
+
  #### Feedback III
- 
+
  * [GitHub URL](http://backend.turing.io/career_development_curriculum/module_two/feedback_iii)
- 
+
  We filled out the Johari window which show us how other people view us versus how we see ourselves. I really enjoyed this, discovering where I was accurate and where my blind spots are. It's important to know how are we seen by others and how I view myself..
- 
+
  #### Universal Basic Income
 
- This was a student led gear up focusing on the positive and negatives of a universal basic income. The video brought to light how little experimentation has been done around the effectiveness of UBI. The group discussions were fascinating to see how the way policies can be implemented could really go both ways - more socialistic or capitalistic. 
- 
+ This was a student led gear up focusing on the positive and negatives of a universal basic income. The video brought to light how little experimentation has been done around the effectiveness of UBI. The group discussions were fascinating to see how the way policies can be implemented could really go both ways - more socialistic or capitalistic.
+
 
 ## E: Community Participation
 
 ### Playing a Part
 
-I paired with mod1 students a few times which was a cool experience to see where we started and to provide lessons learned and approaches I've found valuable. I was involved in the Armstrong posse focusing on blockchain and we even put together an event to meet alumni and people working in blockchain. 
+I paired with mod1 students a few times which was a cool experience to see where we started and to provide lessons learned and approaches I've found valuable. I was involved in the Armstrong posse focusing on blockchain and we even put together an event to meet alumni and people working in blockchain.
 
 ------------------
 
@@ -117,8 +117,13 @@ I paired with mod1 students a few times which was a cool experience to see where
 
 ### Notes
 
-( Leave blanks for reviewers )
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
