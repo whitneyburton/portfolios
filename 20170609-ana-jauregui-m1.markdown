@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Besides successfully making it through Mod 1. My goals for this module were to gain a solid understanding of all the material that was presented throughout, and be able to implement the concepts comfortably through my work. I feel pruod of my accomplishments throughout the mod and the growth I have experienced from the start to now, and look forward to continued growth and being able to solidify the key concepts I have learned. 
+Besides successfully making it through Mod 1. My goals for this module were to gain a solid understanding of all the material that was presented throughout, and be able to implement the concepts comfortably through my work. I feel proud of my accomplishments throughout the mod and the growth I have experienced from the start to now, and look forward to continued growth and being able to solidify the key concepts I have learned. Moving forward I would like to work on building confidence in my skills and ideas and become more comfortable displaying my capabilities. 
 
 ## Rubric Scores
 
