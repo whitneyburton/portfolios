@@ -8,11 +8,11 @@ _This module, I knew that we would be focusing on some of the more algorithm hea
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: Pass
-* **B: Individual Work & Projects**: Pass
-* **C: Group Work & Projects**: Pass
-* **D: Professional Skills**: Pass
-* **E: Feedback & Community Participation**: Pass
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
