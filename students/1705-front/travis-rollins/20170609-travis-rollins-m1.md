@@ -1,4 +1,4 @@
-# (Travis Rollins) - (M1) Portfolio
+# Travis Rollins - M1 Portfolio
 
 ## Areas of Emphasis
 
