@@ -211,12 +211,14 @@ D: Professional Skills
 
 Gear Up
 
-(Feedback || Reflection)
-https://gist.github.com/kristing40/86fd962e15e60cc40c643f72fe66aca5
-(Tragedy of Commons)
+(Empathy)
+https://gist.github.com/kristing40/34e4f112099e5349801753a86a7b75e9
+
+(Tradgedy of Commons)
 https://gist.github.com/kristing40/bbe47694df88e1a06a9233410db048d1
-(Session Name)
-(Session Name)
+
+(Gear up w/ Mod 4)
+https://gist.github.com/kristing40/cb31f8ed0d78deaebbb0f76429f8867f
 
 GitHub URL
 (3-4 sentences summarizing your takeaways from each session, including things you're continuing to think about, things you learned, things you're doing differently)
