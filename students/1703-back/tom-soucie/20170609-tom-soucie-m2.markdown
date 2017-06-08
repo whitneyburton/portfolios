@@ -5,7 +5,7 @@
 This module I wanted to go from having solid Ruby skills to being able to use
 Ruby to actually build tools to view and store data. The power of utilizing data and the Internet of Things is really fascinating to me, so understanding more about how this functions and how I can build tools for this is an exciting experience. As I go forward and continue to improve skills, I want to branch out to the IOT if possible and continue growing and developing my technical and professional skills.
 
-This module was a really good learning experience for how much work it really take to be successful at Turing. I was able to get a great intro to Module 1 through Mike Dao's Second Shift program, which allowed me to be successful right away. Module 2 started off with all brand new topics for me, so from the start I have always felt behind. The only way I was able to keep afloat in the class was through countless hours of work, and I would try to make myself in the building for at least 12 hours a day during the week. I want to keep up this habit and continue improving my ability to work and learn for sustained periods.  
+This module was a really good learning experience for how much work it really takes to be successful at Turing. I was able to get a great intro to Module 1 through Mike Dao's Second Shift program, which allowed me to be successful right away. Module 2 started off with all brand new topics for me, so from the start I have always felt behind. The only way I was able to keep afloat in the class was through countless hours of work, and I would try to make myself in the building for at least 12 hours a day during the week. I want to keep up this habit and continue improving my ability to work and learn for sustained periods of time.  
 
 ## Self Assessment
 
@@ -69,15 +69,15 @@ We started using a Waffleboard integrated with our Github repo, which turned out
 
 Little shop was a great project on a great team. It was really fun to see the project come together from our idea to an actual functioning application. I learned a ton about getting content on a browser, and dove into HAML. I want to continue working on my styling ability and understanding of how common programs interact (FactoryGirl, Paperclip, S3/Cloud storage systems).
 
-* [Graded Rubric](TBD)
+* [Graded Rubric](https://gist.github.com/TomSoucie/4f133b138eb3b61a0c711eb684e3c9c0)
 
-* **1: Feature Completeness** ->
-* **2: Views** ->
-* **3: Controllers** ->
-* **4: Models** ->
-* **5: Testing** ->
-* **6: Usability** ->
-* **7: Workflow** ->
+* **1: Feature Completeness** -> 3: All features defined in the assignment are correctly implemented
+* **2: Views** -> 4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+* **3: Controllers** -> 4: Controllers show significant effort to push logic down the stack
+* **4: Models** -> 4: Models show excellent organization, refactoring, and appropriate use of Rails features
+* **5: Testing** -> 4: Project has a running test suite that exercises the application at multiple levels
+* **6: Usability** -> 4: Project is highly usable and ready to deploy to customers
+* **7: Workflow** -> 4: Excellent use of branches, pull requests, and a project management tool.
 
 ## D: Professional Skills
 
@@ -104,7 +104,7 @@ Conversation was productive, team agreed to utilize waffle more and will discuss
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-This was content we had seen previously in Module 1, but it was a good reminder how the "status quo" will stay the same unless there's countering force on the issue. Playing with the polygon was a cool visual that illustrates some very basic human nature, and how we need to actively adjust and change to make the world a better place with less suffering for all.
+I was out sick this Friday but read through this markdown while at home. This was content we went over in Module 1 but it was a good reminder how the "status quo" will stay the same unless there's countering force on the issue. Playing with the polygon was a cool visual that illustrates some very basic human nature, and how we need to actively adjust and change to make the world a better place with less suffering for all.
 
 #### Feedback III - Week 4
 
