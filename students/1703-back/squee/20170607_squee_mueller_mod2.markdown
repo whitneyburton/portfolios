@@ -116,9 +116,49 @@ In this project we used Ruby, Sinatra, and ActiveRecord to build a site that ana
 (description)
 In this project we used Ruby on Rails to build an online commerce platform to facilitate online ordering.
 
-(evaluation comments)
+- UX is fantastic - super clean, usable, well designed
+- New items not creating category association
+- Factories look fantastic
+- All feature tests were created before starting project which really drove whole site production
+- stylesheets look amazing - component based, used Sass tools, etc
+- views made good use of partials
 
-(evaluation scores)
+
+### 1. Feature Completeness
+
+* **3: All features defined in the assignment are correctly implemented**
+
+
+### 2. Views
+
+* **4: Views show logical refactoring into layout(s), partials and helpers, with no logic present**
+
+
+### 3. Controllers
+
+* **3: Controllers are generally well organized with three or fewer particularly ugly parts**
+
+
+### 4. Models
+
+* **4: Models show excellent organization, refactoring, and appropriate use of Rails features**
+
+
+### 5. Testing
+
+* **4: Project has a running test suite that exercises the application at multiple levels**
+
+
+### 6. Usability
+
+* **4: Project is highly usable and ready to deploy to customers**
+
+
+### 7. Workflow
+
+* **3: Good use of branches, pull requests, and a project-management tool.**
+
+
 
 ## D: Professional Skills
 (Intro)
