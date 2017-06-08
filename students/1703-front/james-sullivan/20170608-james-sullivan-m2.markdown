@@ -1,4 +1,4 @@
-# (James Sullivan - M2 Portfolio
+# James Sullivan - M2 Portfolio
 
 ## Areas of Emphasis
 
