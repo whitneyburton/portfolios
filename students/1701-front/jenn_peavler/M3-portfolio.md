@@ -223,6 +223,20 @@ I also volunteer at the Aurora library and the Brookdale MV.  It’s only a few 
 
 I’m also in the midst of writing a novella.  The protagonist in it has a very large interest in web development.  I am putting it on my personal site when I am finished and it is edited.  It will speak highly to the merits of writing good, sustainable code and just doing your part!
 
+### Community Feedback Exchange
+
+Given to Dave:
+
+Dave communicates expectation and roles clearly.  He is approachable and adaptable.  He has a solid understanding of the subject manner and is able to express his thought process clearly.  He works relentlessly to get the job done, and takes pride in his work.  In order to grow as a developer, it is my recommendation that Dave keep up the good work, but perhaps sometimes, take a step back from the project and look at the flow of the application as a whole.  This will enable Dave to be able to understand how to break up the whole project into smaller, more attackable functionality problems.  Can’t wait to work with Dave again, as he most definitely rocks.
+
+Received from Dave, Chris and Devon Bull:
+
+From Dave - Working with Jenn was a solid experience. We communicated fairly well and often enough that we were typically on the same page.  We struggled on a few aspects of the project, but it was Jenn who would take the first step back to break the problem down into much more simple tasks. This proved to be the most valuable part of the experience as I have a tendency to take on too much at once.
+
+From Chris - Jenn was a great partner to have. Always able to ask the right questions and steer the project closer to what was needed. She is obviously very intelligent and capable of handling any functionality that others can be stumped on. Able to look at documentations and understand the complexities with ease. Great hard working coder and partner all around. 10/100 would do again.
+
+From DBull - Jenn was great to work with, always charging into the code with a pep in her step. She is great with communication and is willing to jump in and help whenever. She truly wants to understand what is going on and makes sure you both do before moving on. Her testing skills are off the charts. Wherever she goes she is relentless and is an extremely valuable and fun addition to any team. :white_check_mark:
+
 ------------------
 
 ## Final Review
