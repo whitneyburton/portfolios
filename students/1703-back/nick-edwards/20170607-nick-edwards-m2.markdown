@@ -94,13 +94,61 @@ This tutorial was instrumental in solidifying my knowledge of many Rails concept
 
 In this project, our 4-person team made a Sinatra app for analyzing data from the Bay Area Bike Share program. This project was an excellent exercise for learning about the MVC pattern and data analysis in a team context.
 
-Our evaluation was positive. We received 3s on Functional Expectations, ActiveRecord, User Experience and Conventions, Code Organization / Quality, and Testing. We received a 4 on Working Collaboratively.
+Assessor:
 
-Our evaluator noted the following points:
- * Ran into issues right at the end. Weather dashboard broken. 2 hr extension to address. UPDATE: resolved.
- * Tests very solid. Dashboard tests missing.
- * Model tests solid.
- * Controller very clear. Organization solid in general.
+Beth Sebian
+
+Notes:
+
+Ran into issues right at the end. Weather dashboard broken. 2 hr extension to address. UPDATE: resolved
+Tests very solid. Dashboard tests missing
+Model tests solid
+Controller very clear. Organization solid in general.
+Evaluation Rubric
+
+### 1. Functional Expectations
+
+ * 4: Application fulfills base expectations and adds two extensions
+ * **3: Application fulfills base expectations**
+ * 2: Application has some small missing base functionality
+ * 1: Application is not usable
+
+### 2. ActiveRecord
+
+ * 4: Appropriate ActiveRecord methods are used to query the database and live in the appropriate model. No Ruby is used to organize data after database queries.
+ * **3: ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. A project at this level may have some queries that have not produced the correct results based on the expectations described, but in those cases the query was still generally on the right path and demonstrated some minor misunderstanding.**
+ * 2: Limited use of ActiveRecord methods (for exxample: frequent use of .all followed by data manipulation using Ruby where other ActiveRecord methods would be more appropriate). Projects at this level may also include queries that do not produce correct results, but the query would likely need to be completely rewritten.
+ * 1: Applciation shows little understanding of ActiveRecord and likely fails to query the database to obtain the information necessary to meet project requirements.
+
+### 3. User Experience and Conventions
+
+ * 4: Project uses Sinatra methods and ERB templates to display both resources and non-resource related views with appropriate routes, and HTTP verbs. All functionality can be accessed in the application where expected based on the spec. User experience is exceptional ('client ready') and all pieces of the application can be accessed without entering addresses manually in the nav bar.
+ * **3: Project still uses appropriate routes and HTTP verbs. User experience is pleasant, but may need additional improvement before truly being ready to be deployed to production for a client.**
+ * 2: Appication is difficult to navigate, and may not follow restful conventions. This project may have limited styling.
+ * 1: Application does not follow conventions.
+
+### 4. Code Organization/Quality
+
+ * 4: Code is organized so that the main application file is primarily concerned with HTTP requests/responses. Other logic is refactored to be included in other Ruby objects, and code responsible for analyzing information in the database exists in the appropriate ActiveRecord models. Methods are appropriately refactored to have a specific purpose and generally do not exceed eight to ten lines. The purpose of methods is generally clear and easy to understand/follow. Logic is not included in ERB views, and is instead in the controller or model as appropriate.
+ * **3: Some logic not related specifically to HTTP requests/resesponses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns. Limited logic may leak into the views.**
+ * 2: Code does not represent a significant effort to refactor. Logic leaks into the views or controllers. Long methods may exist, and the purpose behind some methods may be unclear.
+ * 1: Code is disorganized and will likely be difficult to understand/maintain.
+
+### 5. Testing
+
+ * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+ * **3: Application is well tested but does not balance isolation and integration/feature tests**
+ * 2: Application makes some use of tests, but the coverage is insufficient
+ * 1: Application does not demonstrate strong use of TDD
+
+### 6. Working Collaboratively
+
+ * **4: Excellent use of branches, pull requests, and a project management tool.**
+ * 3: Good use of branches, pull requests, and a project-management tool.
+ * 2: Sporadic use of branches, pull requests, and/or project-management tool.
+ * 1: Little use of branches, pull requests, and/or a project-management tool.
+
+### Bikeshare Team Feedback
 
 The feedback my team gave me was that I was a good collaborator and a hard worker. I will continue to do my best to actively develop these strengths.
 
@@ -112,9 +160,68 @@ The feedback my team gave me was that I was a good collaborator and a hard worke
 
 In this project, our 3-person team built a fully-functional e-commerce app. By using Critical Path Methods to outline the work to be done, we were able to divide work effectively among our team and finish the minimum requirements several days ahead of schedule. This allowed us to implement extensions such as Stripe integration and search functionality. We are very pleased with our team workflow and the outcome of this project!
 
-(evaluation comments)
+Evaluator: Lauren
 
-(evaluation scores)
+Notes:
+- stripe integrated to checkout process
+- breadcrumbs to categories on items page
+- case instensitive search for items and categories
+- browser tabs have dynamic title
+- general nice UX touches
+- try not to set vars in view or access model from view
+- specs generally look good, cart model needs more validation
+- feature tests cover most functionality of models, model specs lack here and there though
+
+### 1. Feature Completeness
+
+* **4: All features are correctly implemented along with two extensions**
+* 3: All features defined in the assignment are correctly implemented
+* 2: There are one or two features missing or incorrectly implemented
+* 1: There are bugs/crashes in the features present
+
+### 2. Views
+
+* 4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+* **3: Views make use of layout(s), partials and helpers, but some logic leaks through**
+* 2: Views don't make use of partials or show weak understanding of `render`
+* 1: Views are poorly organized
+
+### 3. Controllers
+
+* **4: Controllers show significant effort to push logic down the stack**
+* 3: Controllers are generally well organized with three or fewer particularly ugly parts
+* 2: There are four to seven ugly controller methods that should have been refactored
+* 1: There are more than seven unsatisfactory controller methods
+
+### 4. Models
+
+* **4: Models show excellent organization, refactoring, and appropriate use of Rails features**
+* 3: Models show an effort to push logic down the stack, but need more internal refactoring
+* 2: Models are somewhat messy and/or make poor use of Rails features
+* 1: Models show weak use of Ruby and weak structure
+
+### 5. Testing
+
+* 4: Project has a running test suite that exercises the application at multiple levels
+* **3: Project has a running test suite that tests and multiple levels but fails to cover some features**
+* 2: Project has sporadic use of tests and multiple levels
+* 1: Project did not really attempt to use TDD
+
+### 6. Usability
+
+* **4: Project is highly usable and ready to deploy to customers**
+* 3: Project is highly usable, but needs more polish before it'd be customer-ready
+* 2: Project needs more attention to the User Experience, but works
+* 1: Project is difficult or unpleasant to use, or needs significantly more attention to user experience
+
+### 7. Workflow
+
+* **4: Excellent use of branches, pull requests, and a project management tool.**
+* 3: Good use of branches, pull requests, and a project-management tool.
+* 2: Sporadic use of branches, pull requests, and/or project-management tool.
+* 1: Little use of branches, pull requests, and/or a project-management tool.
+
+### Little Shop Team Feedback
 
 My team provided me feedback saying that I was an effective project manager with a good balance  between planning too much and planning too little. This approach enabled us to have a plan and stick to it when necessary, and update it when necessary.
 
