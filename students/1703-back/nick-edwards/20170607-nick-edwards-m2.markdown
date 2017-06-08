@@ -16,7 +16,50 @@ My main goal in this module was to gain experience in building full-fledged web 
 
 ## A: End of Module Assessment
 
-Based on the 3s and 4s in my final assessments, and based on my own judgment of my knowledge, I passed. However, on the timed assessment, I received a 2 on ActiveRecord queries based on the one query that was evaluated, and I already have learned about what I did wrong and how to improve by sticking to Rails conventions more rigorously. Although I do feel confident with ActiveRecord and I think that this particular score was a fluke on my part, I plan on studying and practicing ActiveRecord queries in depth over the intermission.
+Based on the 3s and 4s in my final assessment, and based on my own judgment of my knowledge, I passed. However, I received a 2 on ActiveRecord queries based on the one query that was evaluated, and I already have learned about what I did wrong and how to improve by sticking to Rails conventions more rigorously. Although I do feel confident with ActiveRecord and I think that this particular score was a fluke on my part, I plan on studying and practicing ActiveRecord queries in depth over the intermission.
+
+## Evaluation Criteria
+
+Evaluator: Lauren
+
+Student: Nick
+
+Repo: https://github.com/nickedwards109/job-tracker-base
+
+### 1. Analytic/Algorithmic Thinking
+
+* **4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way**
+* 3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+* 2: Developer can execute an algorithm or plan given to them
+* 1: Developer struggles to implement an algorithm or plan
+
+### 2. Feature Completeness
+
+* 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+* **3: Developer is able to implement all functionality and all tests pass**
+* 2: Developer is missing one piece of functionality
+* 1: Developer is unable to implement at least 50% functionality
+
+### 3. ActiveRecord Syntax and Style
+
+* 4: Developer is able to establish and utilize ActiveRecord methods independently and can articulately discuss the difference between relationships at the model and database level
+* 3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+* **2: Developer has difficulty establishing and utilizing ActiveRecord methods and may not have a strong understanding of the relationship between models and the database**
+* 1: Developer cannot utilize ActiveRecord methods and likely fails to understand the relationship between models and the database
+
+### 4. Rails Style
+
+* 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and establish logic in the appropriate classes
+* **3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack**
+* 2: Developer struggles with some essential concepts of MVC
+* 1: Developer shows little or no understanding of how to craft Rails applications
+
+### 5. Testing
+
+* 4: Developer understands errors produced by tests, and uses them to drive development effectively
+* **3: Developer uses tests at multiple layers of abstraction to drive development, but may have trouble parsing errors or prioritizing next steps**
+* 2: Developer struggles to use tests to drive development
+* 1: Developer develops without guidance from tests
 
 
 ## B: Individual Work & Projects
