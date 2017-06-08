@@ -218,7 +218,7 @@ Score could be ammended but recommendation was to focus on good refactoring and 
 
 ### Outcome
 
-PASS*
+PASS
 
 * **A: End-of-Module Assessment**: PASS
 * **B: Individual Work & Projects**: 3.5
