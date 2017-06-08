@@ -1,16 +1,16 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Samantha Gongora - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Having beginner experience in Ruby, I set out to learn as much as possible about test driven development, business tools (git, github, slack, etc.), pair-programming, and debugging. Starting out in mod 1, testing was painful. I have noticed a significant reduction in pain while testing in my current work. I would venture to say it's becoming enjoyable. I strongly believe the skills I have learned related to pair-programming and debugging will be invaluable during my career at Turing and elsewhere. Looking back on where I was 6 weeks ago, I am proud of how much I have learned and the effort I have put into the program.  
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
 
 -----------------------
 
@@ -21,7 +21,7 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+#TODO (Intro)
 
 #### Credit Check
 
