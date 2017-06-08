@@ -14,7 +14,7 @@
 | D | **Professional Development** | 3 |
 | E | **Feedback & Community Participation** | 3 |
 
->* I have satisfactorily met all the requirements of the module, though I know there are areas I would like to further bolster, and lots of review to do. I also have been dragging my feet in the job hunt.
+>* I have satisfactorily met all the requirements of the module, though I know there are areas I would like to further bolster, and lots of review to do. I also have been less active in networking/job hunt/research than I would like to be.
 
 -----------------------
 
