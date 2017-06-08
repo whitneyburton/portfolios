@@ -10,7 +10,7 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 | --- | ----- | --- |
 | A | **End-of-Module Assessment** | 3 |
 | B | **Individual Projects** | 2.5 |
-| C | **Group Projects** | 3 |
+| C | **Group Projects** | 4 |
 | D | **Professional Development** | 3 |
 | E | **Community** | 3 |
 
@@ -124,11 +124,9 @@ Going into mod 2 I need to focus on continuing to use test driven development, e
 
 I thought this session was really valiable in preparing us for the rollercoaster of emotions that we would be experiencing in the upcoming weeks.  Being immersed in something that I didn't understand was stressful and challenging but I was able to use some of the growth mindset techniques that we learned in this gear up to push through the low moments.  This gear up made me thing about some times in my life that I had succumbed to a 'fixed mindset' and how I had to overcome that fixed mindset to even consider applying for Turing school.  I think one of the biggest challenges to maintaining a growth mindset at Turing has been seeing other people get concepts seemingly faster and more easily than myself.  I have had to work really hard to make sure that I am only comparing my accomplishments to my own progress, and not other peoples.
 
-
 #### Session 2: Getting Better at Difficult Things
 
 In this session we learned about the trials and rewards of working to get better at difficult things.  This was pretty strongly tied to our previous gear-up on growth mindset.  My two biggest take-aways from this gear up are that my emotional state can have a huge impact on my ability to learn and grow and that getting better at difficult things requires a certain amount of 'grit'.  If I allow myself to become frustrated or discouraged it can completely shutdown my learning.  I need to be conscious of this and make an effort avoid pushing myself to the point that my emotions negatively affect my ability to learn.  Getting better at difficult things naturally doesn't come easily.  It requires a concerted effort and level of 'grit' to work through adverse situations.  This has proven to be very true so far at Turing School. 
-
 
 #### Session 3: Managing Stress
 This gear up happened after a really busy weekend in which I didn't do a very good job of preparing myself for the upcoming week.  I definitely felt like I was paying for my lack of preparation.  This gear up helped reinforce that the best way to manage stress is to take a prevantative approach.  If I can set my self up to succees then I will have fewer stressful situations to manage.
@@ -147,9 +145,9 @@ This is something that I can definitely continue to work on.  I tried to be avai
 
 ## Final Review
 
-*   Note 1
-*   Note 2
+*   Rocky start at beginning, finishing strong
+*   Solid work on Black Thursday, crushed it
+*   Great addition to the cohort
 
 ### Outcome
-
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROMOTED
