@@ -95,6 +95,42 @@ Partner Feedback to Me
 
 My partners all mentioned to me that I was a hard worker and someone they felt they could lean on. They also said that I am competent and that I was a positive influence throughout the process.
 
+#### (Little Shop)
+
+* [GitHub URL](https://github.com/Benja-Ross/little_shop)
+
+### 1. Feature Completeness
+
+* **3: All features defined in the assignment are correctly implemented**
+
+### 2. Views
+
+* **4: Views show logical refactoring into layout(s), partials and helpers, with no logic present**
+
+### 3. Controllers
+
+* **3: Controllers are generally well organized with three or fewer particularly ugly parts**
+
+### 4. Models
+
+* **4: Models show excellent organization, refactoring, and appropriate use of Rails features**
+
+### 5. Testing
+
+* **4: Project has a running test suite that exercises the application at multiple levels**
+
+### 6. Usability
+
+* **4: Project is highly usable and ready to deploy to customers**
+
+### 7. Workflow
+
+* **3: Good use of branches, pull requests, and a project-management tool.**
+
+Group Feedback -
+
+Our group had the consensus that we had a strong dynamic. We felt that all members had solid contributions and that we learned from one another. In the end we had created an application that we are all very proud of and excited to have as part of our portfolio. There was a good amount of critical introspection which I feel is some of the more valuable feedback I've had so far at Turing. We determined that our workflow and how we use Waffle was the area where all of us could improve the most. We spent time detailing how each of us could better utilize workflow applications to improve how we contribute. 
+
 ## D: Professional Skills
 
 I feel that I have come a long ways in my professional development but I still have a long ways to go. My confidence and ability to speak to technical concepts and to represent myself in a professional manner in general have improved. I met with a mentor weeks ago which helped me to get a little more clarity around the industry. I also have been networking with a few people who work in Denver in the software industry and I hope to continue to develop those relationships.
