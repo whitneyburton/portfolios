@@ -29,6 +29,9 @@ Pending
 ## C: Open Source
 * https://github.com/stympy/faker/pull/944
 
+###### Blog Post
+* https://blackknight75.github.io/blog.html
+
 
 ## D: Professional Skills
   * https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/1611-b/dan_olson.markdown
