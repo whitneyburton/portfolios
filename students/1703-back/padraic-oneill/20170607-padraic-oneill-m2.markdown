@@ -168,6 +168,38 @@ Subjective evaluation will be made on your work/process according to the followi
 [GitHub URL](https://github.com/Benjaminpjacobs/little-shop)
 [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
 
+Evaluator: Schutte
+
+Team: Sarah, Charlie, Ben J, Padraic
+
+Repo: https://github.com/Benjaminpjacobs/little-shop
+
+## Evaluation Process
+
+For the evaluation we'll work through the expectations above and look at the
+following criteria:
+
+### 1. Feature Completeness
+* **4: All features are correctly implemented along with two extensions**
+
+### 2. Views
+* **4: Views show logical refactoring into layout(s), partials and helpers, with no logic present**
+
+### 3. Controllers
+* **4: Controllers show significant effort to push logic down the stack**
+
+### 4. Models
+* **4: Models show excellent organization, refactoring, and appropriate use of Rails features**
+
+### 5. Testing
+* **4: Project has a running test suite that exercises the application at multiple levels**
+
+### 6. Usability
+* **3: Project is highly usable, but needs more polish before it'd be customer-ready**
+
+### 7. Workflow
+* **4: Excellent use of branches, pull requests, and a project management tool.**
+
 ## D: Professional Skills
 I thought the professional skills work this mod was helpful in preparing us for seeking out connections in the industry. It's great to know that there are people around Denver and around the country who are eager and willing to help us begin our careers in the industry. 
 
