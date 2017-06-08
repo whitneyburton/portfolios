@@ -7,11 +7,11 @@ Moving forward, I want to have a better understanding about authentication/autho
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3.5
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -108,23 +108,29 @@ Description
 
 Evaluation Comments
 
-- Pending
+- UX is fantastic - super clean, usable, well designed
+- New items not creating category association
+- Factories look fantastic
+- All feature tests were created before starting project which really drove whole site production
+- stylesheets look amazing - component based, used Sass tools, etc
+- views made good use of partials
+- Do a better use of waffle to keep track of our work
 
 Evaluation Scores
 
 | CATEGORY | Little Shop |
 | --- | --- |
-| **Feature Completeness** | pending |
-| **Views** | pending |
-| **Controllers** | pending |
-| **Models** | pending |
-| **Testing** | pending |
-| **Usability** | pending |
-| **Workflow** | pending |
+| **Feature Completeness** | 3 |
+| **Views** | 4 |
+| **Controllers** | 3 |
+| **Models** | 4 |
+| **Testing** | 4 |
+| **Usability** | 4 |
+| **Workflow** | 3 |
 
 Feedback to me
 
-- We originally defined a work schedule and we didn't respect it until it was brought up by a team member.
+- We did a group feedback and we worked really well together. We were very happy that even though we didn't work on each part of the project we each specialize in a different thing that will be a strength in future projects. On things to improve is our waffle tracking and communication about schedule changes. The first week we agreed on working until a certain time and we never committed to it; after having a group discusion we agreed on a new schedule. It was a great experience and I enjoyed working with them.
 
 ## D: Professional Skills
 
