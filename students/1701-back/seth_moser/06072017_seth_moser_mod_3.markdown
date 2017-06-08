@@ -1,4 +1,4 @@
-# \<Your Name> - M3 Portfolio
+# Seth Moser - M3 Portfolio
 
 ## Areas of Emphasis
 
