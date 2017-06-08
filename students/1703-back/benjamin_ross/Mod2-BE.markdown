@@ -23,7 +23,7 @@ In the coded final assessment I received four 3's and a 2. On the written assess
 
 Mix Master was great practice. I felt that it made me much more familiar with the Rails Framework and with MVC in general. It was good to get reps with the new material. The Rails Mini Project was my favorite, and most frustrating experience of the entire module. I have been thinking about an agriculture related application for many years and it was a great opportunity to dive into that while continuing to practice Rails. I made some good progress on the concept and got to the point where I could interact with the central functional concept. It was very satisfying. The frustration came when I tried to incorporate styling that started to break some of my logic. I was never able to pinpoint what the problem was but already two weeks later I feel much more competent with Rails and I am excited for the opportunity to scrap the entire project and start over. It was an exciting moment when I realized the concept of organizing gardeners/farmers into the respective climates to share information was simply a matter of constructing a one to many relationship. The complexity of the algorithm for placing users into their climates and the filtration of useful information to each user are problems that persist and will be exceptionally difficult. However, the Rails that we have covered in this module was enough to get my idea off of the ground.
 
-Despite all of that, my personal project that was the most sound was Job Tracker. I felt competent and like I had solid footing throughout the entirety of the project. The relationship models were very clear to me and I started to develop a nice flow with constructing migrations. This was also that project that I started to gain a basic familiarity with styling.  
+Despite all of that, my personal project that was the most sound was Job Tracker. I felt competent and like I had solid footing throughout the entirety of the project. The relationship models were very clear to me and I started to develop a nice flow with constructing migrations. This was also that project that I started to gain a basic familiarity with styling.
 
 #### (Job Tracker)
 
@@ -41,7 +41,7 @@ A Job belongs_to a Company, and a Company has_many jobs.
 
 ### Projects
 
-Bike Share was my first project with a large group and also my first in a Ruby based App Framework in Sinatra. My partners were all strong developers with varying skill sets. The dynamic was smooth with our skills coming together and some of our strengths even overlapping certain weaknesses (design). We worked hard together and in the end we all felt really solid about what we had put together.  
+Bike Share was my first project with a large group and also my first in a Ruby based App Framework in Sinatra. My partners were all strong developers with varying skill sets. The dynamic was smooth with our skills coming together and some of our strengths even overlapping certain weaknesses (design). We worked hard together and in the end we all felt really solid about what we had put together.
 
 #### (Bike Share)
 
@@ -129,7 +129,7 @@ My partners all mentioned to me that I was a hard worker and someone they felt t
 
 Group Feedback -
 
-Our group had the consensus that we had a strong dynamic. We felt that all members had solid contributions and that we learned from one another. In the end we had created an application that we are all very proud of and excited to have as part of our portfolio. There was a good amount of critical introspection which I feel is some of the more valuable feedback I've had so far at Turing. We determined that our workflow and how we use Waffle was the area where all of us could improve the most. We spent time detailing how each of us could better utilize workflow applications to improve how we contribute. 
+Our group had the consensus that we had a strong dynamic. We felt that all members had solid contributions and that we learned from one another. In the end we had created an application that we are all very proud of and excited to have as part of our portfolio. There was a good amount of critical introspection which I feel is some of the more valuable feedback I've had so far at Turing. We determined that our workflow and how we use Waffle was the area where all of us could improve the most. We spent time detailing how each of us could better utilize workflow applications to improve how we contribute.
 
 ## D: Professional Skills
 
@@ -197,8 +197,12 @@ Gear Up 3: Case Study
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

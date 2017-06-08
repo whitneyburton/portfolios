@@ -39,28 +39,28 @@ A TDDed Business Analytics API with over forty endpoints, combining API producti
 
 [Sprint 2 Heroku](http://grabbag.herokuapp.com/)
 
-Cloney Island combined consuming and producing APIs, larger developer teams, and complex database relationships.
+GrabBag is a Dropbox clone that combined consuming and producing APIs, larger developer teams, and complex database relationships.
 
 * This project involved a lot of completely new tools and frameworks. It was a great opportunity to learn independently and combine principles from separate sources. Self-referential and Polymorphic Associations, and file hosting were completely new to us.
 
 
-
  **[Cloney Island Sprint 2](https://)**
 
->* \<Takeaways, your experience>
+For Cloney Island Part 2, we inherited Corkboard, a brownfield clone of Thumbtack.
+
+* Since this was a brownfield project, most of the design decisions had already been made before we started. It was a good learning experience to figure out how to integrate new features on an unfamiliar code base. I learned about the importance of clear documentation, the ability to read code, and building in as much design flexibility as possible. Having a built code base also allowed us to dive much deeper into narrower code principles. 
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/glassjoseph/rails_engine) | [Cloney 1 Repo](https://github.com/glassjoseph/grab_bag) | [Cloney 2 Repo](https://github.com/josh-works/corkboard) |
 | **Heroku** | [Rales](https://) | [Cloney 1](http://grabbag-1701.herokuapp.com/) | [Cloney 2](http://corkboarded.herokuapp.com/) |
-| **Functional/Client Expectations** | 3 | 3 | X |
-| **TDD** | 3 | 3 | X |
-| **Code Organization/Quality** | 4 | 3 | X |
+| **Functional/Client Expectations** | 3 | 3 | 3 |
+| **TDD** | 3 | 3 | 3 |
+| **Code Organization/Quality** | 4 | 3 | 3 |
 | **API Design** | 3 | N/A | N/A |
 | **Queries** | 4 | N/A | N/A |
 
-> Rales Engine evaluation comments:
-\<Instructor Comments Here>
+
 
 Cloney Island Sprint 1 evaluation comments:
 Good job using Application Helpers. You should namespace admin in routes for readability.
@@ -72,7 +72,7 @@ Building on brownfield projects require you produce new features with code that 
 ## C. **Gear Ups**
 
  [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
- It's human nature to assume, to generalize, and to make assumptions. Be thoughtful and sensitive to others, particularly those
+ It's human nature to assume, to generalize, and to make assumptions. Be thoughtful and sensitive to others, particularly those who face systemic discrimination.
 
 
 [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)

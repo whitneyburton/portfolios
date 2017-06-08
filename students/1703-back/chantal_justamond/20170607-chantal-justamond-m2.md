@@ -4,7 +4,7 @@
 
 (What did you set out to accomplish this module?)
 This mod I wanted to really understand and know how to use this fancy new tools like Capybara, Rspec, Active Record and feel comfortable with rails.
-Which in I believe I have done. 
+Which in I believe I have done.
 
 ## Rubric Scores
 
@@ -38,7 +38,7 @@ Takeways:
   I enjoyed the Job Tracker project.  The best thing I walked away
 with was a greater familiarity with RSpec, Capybara, and feature testing.
 The repetition of going through the tasks was great. I was thankful to
-have examples of good test-building practices like the one we saw in Mix Master. 
+have examples of good test-building practices like the one we saw in Mix Master.
 The process in how mod2 is built helped me gain not only a familiarity
 with RSpec but also greatly reinforced and added to my knowledge of how
 Rails and the MVC ?model? really functions.
@@ -199,8 +199,8 @@ following criteria:
 ### Feedback to me
 
 We did a in-person feedback we all agreed that we did a great job working together,
-we did our best in here all ideas, be kind and work in an agile way. 
-this has been one the best experiences I had in a group setting. 
+we did our best in here all ideas, be kind and work in an agile way.
+this has been one the best experiences I had in a group setting.
 
 
 
@@ -211,8 +211,8 @@ this has been one the best experiences I had in a group setting.
 
 
 Diversity is a great thing. It exposes a person to concepts, experiences, and ideas that they otherwise would not have
-even known they existed. A lack of diversity is the culinary equivalent of only ever eating fillet mignon forever, 
-it might be good but it gets tiring. My experiences and value of having people from different backgrounds in my life 
+even known they existed. A lack of diversity is the culinary equivalent of only ever eating fillet mignon forever,
+it might be good but it gets tiring. My experiences and value of having people from different backgrounds in my life
 are a part of the reason I chose to come to Turing.
 
 
@@ -243,8 +243,12 @@ I have to agree that it has made me feel connected to the Turing community, bein
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

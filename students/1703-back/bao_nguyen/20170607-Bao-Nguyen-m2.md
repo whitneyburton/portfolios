@@ -39,14 +39,14 @@ Note 2 (if applicable)
 B: Individual Projects
 
 CATEGORY	PROJ 1 (Bike Share)	PROJ 2 (Little Shop)
-Project Spec	https://github.com/turingschool/bike-share	http://backend.turing.io/module2/projects/little_shop	
-Github	https://github.com/rongxanh88/bike-share/tree/master	https://github.com/nickedwards109/little-shop	
-Functional Expectations	4	X	
+Project Spec	https://github.com/turingschool/bike-share	http://backend.turing.io/module2/projects/little_shop
+Github	https://github.com/rongxanh88/bike-share/tree/master	https://github.com/nickedwards109/little-shop
+Functional Expectations	4	X
 Active Record 3 X
 User Experience 3 X
 Code Quality 3/4 X
-Test-Driven Development	2	X	
-Working Collaboratively	4	X	
+Test-Driven Development	2	X
+Working Collaboratively	4	X
 Notes
 
 
@@ -91,7 +91,7 @@ What principles of feedback did you use in the conversation?
 
 I used the coaching and appreciation principles.
 
-Agile Work Practices: 
+Agile Work Practices:
 
 Both projects that I participated in, were very agile this past module. This became more agile in the second project which I found to be awesome. We were very efficent, with the little shop project nearly done on Monday (on a three person team!). We planned for a tiny bit every day, about 15 minutes to figure out what everyone was working on and what they had accomplished. Then we used the waffle board to organize tasks and make sure no tasks were repeated. Lastly, this organization helped us avoid merge conflicts, so our git workflow was nearly pristine.
 
@@ -156,10 +156,14 @@ I enjoyed the block chain spike sessions that I attended. It certainly is hard t
 the amount of work that Turing has for us. As for actual participation, I would like to give lightning talks at
 wrap up. Maybe it is just in my head, but I don't feel like I have a supportive group around me.
 
-Final Review
+## Final Review
 
-Note 1
-Note 2
-Outcome
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
+## Outcome
 
 (PROMOTED, RETAINED, DISMISSED, PROVISIONAL)

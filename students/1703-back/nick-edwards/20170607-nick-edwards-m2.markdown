@@ -266,8 +266,12 @@ I took the initiative to do a presentation on REST in Rails, because I was alrea
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

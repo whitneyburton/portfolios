@@ -22,7 +22,7 @@ Pass
 ## B: Individual Work & Projects
 
 #### Voting Bloc
-While we did several individual projects this mod, I was most intrigued by our Rails MiniProject because we were able to pick our own.  
+While we did several individual projects this mod, I was most intrigued by our Rails MiniProject because we were able to pick our own.
 
 I worked on a Voting Rails app.  This allowed for three types of user roles (user, candidate and admin).  All users could vote in an election. Candidates could run and admins could create elections.  Elections had a start and finish time that opened and closed voting.  During this project, I explored user role permissions, dynamic partials, and polymorphic model relationships.
 
@@ -32,8 +32,8 @@ I chose this project as a foundation for further exploration and am continuing t
 * [Heroku](https://voting-bloc.herokuapp.com/)
 
 ##### Original Assignment Goals:
-[Turing assignment](http://backend.turing.io/module2/projects/mini-project)  
-My Outline: 
+[Turing assignment](http://backend.turing.io/module2/projects/mini-project)
+My Outline:
 
 * Elections
 * Candidates
@@ -134,7 +134,7 @@ following criteria:
 
 ## D: Professional Skills
 
-* Technical Blogging:  
+* Technical Blogging:
 	* [Up and Running with a Private Go-Ethereum Network (Part 2)](http://iamchrissmith.io/blog/ethereum/blockchain/go-ethereum/geth/aws/amazon%20web%20services/2017/06/01/building-a-private-geth-network-part-2/)
 	* [Up and Running with a Private Go-Ethereum Network (Part 1)](http://iamchrissmith.io/blog/ethereum/blockchain/go-ethereum/geth/aws/amazon%20web%20services/2017/05/26/building-a-private-geth-network/)
 	* [Rails - Form Checkboxes](http://iamchrissmith.io/blog/rails/ruby/2017/05/18/adding-checkboxes-to-rails-forms/)
@@ -159,8 +159,12 @@ This mod, I have continued to be available to other students for pairing, partic
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
