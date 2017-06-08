@@ -117,12 +117,20 @@ evaluation scores:
 description:
    * Matt and I developed an ORM from the ground up. We were capable of breaking the project into small pieces and tackle chunks at a time. We paired for almost the entire project, and I think it was a huge part of our success.
 
-(evaluation comments)
-
-(evaluation scores)
+evaluation scores:
+1. Fundamental Ruby & Style
+   * 3: Application shows strong effort towards organization, content, and refactoring
+2. Breaking Logic into Components
+   * 3: Application effectively breaks logical components apart but breaks the principle of SRP
+3. Test-Driven Development
+   * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+4. Functional Expectations
+   * 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+5. Code Sanitation
+   * 4: Zero complaints
 
 ## D: Professional Skills
-(Intro)
+I came to Turing hoping to improve my skills in leadership and project management. I considered myself capable of managing stress and a strong communicator. I have far exceeded my expectations in my growth to better manage stress and communicate. I have throughly enjoyed connecting with the Turing community and am looking forward to a career of strong human connections! My work on SAB has taught me more about community engagement and effective listening. I am pleased with how far I have come in 6 weeks!
 
 ### Gear Up
 #### Growth Mindset
@@ -135,6 +143,25 @@ I thought the growth mindset gear up was well timed and thoughtfully presented. 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
+Getting better at difficult things affirmed some thoughts I had about our mind's capability to do many things. I have limited my goals to a few manageable tasks while at Turing. Having priorities, checklists, and a routine have helped increase my focus on what I deem important.
+
+####Working Styles: Intro, extro, ambiverts!
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+
+This was my least favorite gear up. While I enjoyed talking to everyone, I think it could have benefited from some work-style examples. Mostly my group talked about how everyone needs alone time and the differences we faced when meeting people. Even though I tend to be an introvert, I enjoy group work and collaboration.
+
+####Personal Stories & Connection
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
+
+I enjoyed talking to many different people and hearing about how they came to Turing. The common thread seems to be that we were all looking for something different. Often times, something more challenging than our last career. It was awesome to see all the passion and drive in the room! I think I have more to develop about my story, and look forward to working on it throughout my time here.
+
+####Debugging the Gender Gap & Microaggressions in Tech
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
+
+Our cohort is not very diverse. I think that this gear up had the possibility of going very poorly and even alienating the minority team members in the room. I definitely catch myself wondering if I am going into the right field. Discrimination is something that some have to deal with on a daily basis. Do I really want to join a field known for its struggle to accept minority members? Yes. The way our cohort handled the topic gives me hope about the future of tech.
 
 ## E: Community Participation
 
