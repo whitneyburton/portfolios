@@ -1,4 +1,4 @@
-# George Goering - M1 Portfolio
+# George Goering - M2 Portfolio
 
 ## Areas of Emphasis
 
