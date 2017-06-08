@@ -239,6 +239,7 @@ It was very fun to work with my peers to create a Gear Up for something we were 
 #### WeTransfer: ImageVise service
 
 * [Submitted PR](https://github.com/WeTransfer/image_vise/pull/9#discussion_r119997418)
+* [Blog Post](https://gist.github.com/meyerhoferc/d2fcbb627626c23c7092d59a0fe7d320)
 
 ### Playing a Part
 
