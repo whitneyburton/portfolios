@@ -23,7 +23,7 @@ I wanted to really get a good grasp of HTML, CSS, and Javascript.  While I under
 
 The following is the first project that I did by myself.  I developed a number guessing game using basic HTML and CSS, and vanilla Javascript.  This was my first attempt at Javascript and was a great learning experience understanding how functions work and how to manipulate the DOM.
 
-#### Number Guesser
+# Number Guesser
 
 * [GitHub URL](https://github.com/Kalikoze/Number-Guesser-Project)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -94,7 +94,7 @@ This project is a number guessing game. The game was developed in order to pract
 
   The three group projects that I worked on included Linked List, IdeaBox, and 2DoPivot.  I had a blast working with others and refactoring other people's code as well.  Learning how to go about the functionality in different ways was exciting and thought-provoking.  
 
-#### Linked List
+# Linked List
 
 * [GitHub URL](https://github.com/wheresmytyphone/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
@@ -187,7 +187,7 @@ https://github.com/wheresmytyphone/linked-list
 
 Travis, overall, was an excellent partner to be paired with. We got along very well, and really without a huge amount of effort, were able to complete the project with a level of quality we both were very pleased with. He was very easy to make plans with, and was motivated to work. Would definitely like to be paired again in the future. If I had to come up with some coaching feedback for Travis (which I do), it would be to do everything he could to get down all the various keyboard shortcuts for OSX. But really, I was beyond satisfied with the experience.
 
-### Idea Box
+# Idea Box
 
 * [GitHub URL](https://github.com/danalvarez5280/Idea-Box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -349,7 +349,7 @@ This project is an idea-list application that keeps track of important ideas one
 
 Dear Travis, I thought we worked extremely well together. From the moment we sat down and did our DTR, I thought we were on the same page about everything. We both had a lot of input on the jquery. You made the process go by a lot faster by making the foundations of the jquery simple and understandable. I know that it was annoying that I stuck with the counter technique even though it was hard to understand and eventually caused us a bit more work in the end. I appreciate your patience as well as your flexibility with me in the project. Schedule wise we were on the same page, and you were extremely accommodating with working around the Static Comp project. I hope we get a chance to work together in the future as I felt our skillsets complimented each other. I thought that we both stayed positive even when we both were extremely frustrated at times. I cannot find one bad thing about this project. Other than the fact that I made the counter into a confusing mess on the page. Thanks again for making the process smooth and easy. I wish you the best in the next project. -Dan Alvarez
 
-### 2DoBoxPivot
+# 2DoBoxPivot
 
 * [GitHub URL](https://github.com/Shayla303/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
