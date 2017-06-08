@@ -7,11 +7,12 @@ To try and learn/retain as much of the curriculum being taught for Mod2 and to u
 
 Rubric Scores
 
-A: End-of-Module Assessment: X
-B: Individual Work & Projects: X
-C: Group Work & Projects: X
-D: Professional Skills: X
-E: Community Participation: X
+A: End-of-Module Assessment: PASS
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 4
+D: Professional Skills: PASS
+E: Community Participation: 
+
 A: End of Module Assessment
 
 (Indicate whether you passed or failed the end of module assessment)
