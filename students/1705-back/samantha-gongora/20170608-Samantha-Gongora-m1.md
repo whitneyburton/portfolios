@@ -125,11 +125,16 @@ description:
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I thought the growth mindset gear up was well timed and thoughtfully presented. I can be rather hard on myself to achieve my goals. I think that knowing about growth mindset has given me tools to take a step back in times of stress. I would like to say I am always kind to myself and I have no problems thinking I can't do certain things. As is life, a growth mindset is a meditation.
+
+#### Getting Better at Difficult Things
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
 
 ## E: Community Participation
 
