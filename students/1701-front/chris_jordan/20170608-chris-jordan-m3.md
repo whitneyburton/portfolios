@@ -178,23 +178,24 @@ Parable of The Polygons This GearUp was focused on small biases magnified as a g
 ## E: Community Participation
 
 ### Playing a Part
+
 I participated in IronFE and attended most of the guest speakers, spikes, and group gear ups.
 
-
-##Giving Feedback
+## Giving Feedback
 
 ### Zane
 Zane was a awesome partner to have. If there were things I was lacking, Zane was the answer. Willing to burn the midnight oil and be able to work well on a group project side by side or remotely. Very creative when it comes to css and a strong grasp of react and api calls. Very patient and very capable Would work with this fella again.
 
 ### Jenn Peavler
 Jenn was a great partner to have. Always able to ask the right questions and steer the project closer to what was needed. She is obviously very intelligent and capable of handling any functionality that others can be stumped on. Able to look at documentations and understand the complexities with ease. Great hard working coder and partner all around. 10/100 would do again.
-###Zane Russell
+
+### Zane Russell
 Zane was a awesome partner to have. If there were things I was lacking, Zane was the answer. Willing to burn the midnight oil and be able to work well on a group project side by side or remotely. Very creative when it comes to css and a strong grasp of react and api calls. Would work with this fella again
 
 
-##Getting Feedback
+## Getting Feedback
 
-###Zane Russell
+### Zane Russell
 Chris is an incredibly creative and capable programmer, and the project went out without a hitch.  He’s a laid back and intelligent fella, which make communication and pairing easy. Anytime I was at a loss for how to approach a problem he would deliver a solution that worked pretty much flawlessly. Pretty sure it’s voodoo.  Would definitely pair again.
 
 ### Jenn Peavler
@@ -211,4 +212,10 @@ Chris communicates expectation and roles clearly.  He is approachable and adapta
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: PASS
+* **E: Community Participation**: 3
