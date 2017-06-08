@@ -156,6 +156,11 @@ To John Binning: You’ve been a super awesome person to sit next to for 3 mods.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS 
 
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: PASS
+* **E: Community Participation**: 3
 
