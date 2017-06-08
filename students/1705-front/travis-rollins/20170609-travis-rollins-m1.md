@@ -8,7 +8,7 @@ I wanted to really get a good grasp of HTML, CSS, and Javascript.  While I under
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
