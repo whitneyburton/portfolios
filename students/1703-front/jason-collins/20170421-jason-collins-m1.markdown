@@ -9,10 +9,10 @@ _I set out to accomplish getting my developer legs underneath me, again. Having 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: Pass
-* **B: Individual Work & Projects**: Pending
-* **C: Group Work & Projects**: Pending
-* **D: Professional Skills**: Pending
-* **E: Feedback & Community Participation**: Pending
+* **B: Individual Work & Projects**: Pass
+* **C: Group Work & Projects**: Pass
+* **D: Professional Skills**: Pass
+* **E: Feedback & Community Participation**: Pass
 
 -----------------------
 
@@ -105,7 +105,7 @@ For this project, I paired with Tyler. In my evaluation, it was pointed out that
 * [GitHub URL](https://github.com/the-oem/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-2DoBox Pivot was a refactoring project. The intent was to take someone else's code from Idea Box and refactor it, then pivot the application and turn it into 2DoBox. The idea behind 2DoBox was to allow users to add to-do items to a list. Users could search, filter, delete, inline edit, and adjust the priority. 
+2DoBox Pivot was a refactoring project. The intent was to take someone else's code from Idea Box and refactor it, then pivot the application and turn it into 2DoBox. The idea behind 2DoBox was to allow users to add to-do items to a list. Users could search, filter, delete, inline edit, and adjust the priority.
 
 For this project, I paired with Kristi. In our evaluation, we were told that the refactored code was really clean. Most of the feedback was on the HTML/CSS side of things, where some aesthetics needed to be cleaned up.
 
