@@ -2,7 +2,7 @@ Desislava Todorova - M1 Portfolio
 
 Areas of Emphasis:
 
-Coming into Turing I didn't know what to expect, but at every step I felt that this is exactly where I need to be and this is exactly what needs to be taking place; I really trusted the Turing process. I am happy to report that I feel confident walking into this review and also into Mod2. While it's been challenging and I've been on my own timeline, there is not an area or concept in Ruby that still feels fuzzy. The last two weeks have brought me exponential growth, and some rest and more practice will allow me to perform within the time required time constraints in future projects and assessments. Black Thursday was instrumental in getting practice in a lot of the Ruby fundamentals we learned; it required a ton of logic and information retention, but also a lot of repetition; completing this project increased my understanding and confidence in Ruby. I can actually TDD!! And I enjoy and value the process of writing tests!! This is something I found difficult for a period of time and it feels great to have moved on from this challenge. I feel this mod has been successful, even if difficult and at times, chaotic.
+Coming into Turing I didn't know what to expect, but at every step I felt that this is exactly where I need to be and this is exactly what needs to be taking place; I really trusted the Turing process. I am happy to report that I feel confident walking into this review and also stepping up to Mod2. While it's been challenging and I've been on my own timeline, there is not an area or concept in Ruby that still feels fuzzy. The last two weeks have brought exponential growth, and with some rest and more practice, I feel comfortable performing within the required time constraints in future projects and assessments. Black Thursday was instrumental in getting practice in a lot of the Ruby fundamentals we learned; it required a ton of logic and information retention, but also a lot of repetition; completing this project increased my understanding and confidence in Ruby. I can actually TDD!! And I enjoy and value the process of writing tests!! This is something I found difficult for a period of time and it feels great to have moved passed this challenge. I feel this mod has been successful, even if difficult and at times, chaotic.
 
 Rubric Scores (self-assess):
 
@@ -128,7 +128,7 @@ During this session, the thing that stood out the most was how much more we are 
 Personal Stories & Connection
 https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown
 
-I loved this week's discussions as a whole. My favorite part was actually the student led spike session we had on this topic. The TedTalk that was selected to watch was very impactful, and it resonated with me.
+I loved this week's discussions as a whole. My favorite part was actually the student led spike session we had on this topic. The TedTalk that we watched was about bias and the narrow single story narratives we create about others based on our limited knowledge. Also, it was interesting to observe the mod 4 students' approach to fascilitating a productive session; I think this type of practice will be very valuable to each of us and I look forward to hosting a session in the coming months.
 
 
 Debugging the Gender Gap & Microaggressions in Tech
