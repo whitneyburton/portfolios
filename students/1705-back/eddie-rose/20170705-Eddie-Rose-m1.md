@@ -6,11 +6,11 @@ My goal for M1 is to learn Ruby and begin my journey to become a web developer.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 2
 
 -----------------------
 
@@ -100,7 +100,7 @@ this module.  I had great partners and I learned from both of them.
 * [GitHub URL](https://github.com/DesTodo/night_writer)
 * [Original Assignment](http://backend.turing.io/module1/projects/night_writer)
 
-Create a program that creates English to Braille and back again
+Create a program that translates English to Braille and back again
 
 Translates from English to Braille and back
 Lines are truncated to 80 for up to 160 characters
