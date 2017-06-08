@@ -88,7 +88,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 **Feedback from Mason Holland:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> I found Tom to be a wonderful pairing partner. We worked well together and I found his ability to be open and communicative contributed to the projects success. He was accommodating and hard working. We were able to share ideas and help develop our project as a team. His willingness to ensure we each "drove" and "navigated" in equal parts ensured that we each had a strong working knowledge of the code. I had fun the whole time on top of that so I would gladly pair with Tom in the future.
 
 ### Job Prep
 
