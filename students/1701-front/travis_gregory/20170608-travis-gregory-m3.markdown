@@ -246,8 +246,16 @@ During this mod I really tried to dig in to doing the Turing Podcast and I did f
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Type moar 
+- Give yourself an amount that you're going to do everyday then stop. 
+  - no burnout. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+REPEATING 
+
+*   **A: End-of-Module Assessment**: 2
+*   **B: Individual Work & Projects**: 2.5
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 2.5
