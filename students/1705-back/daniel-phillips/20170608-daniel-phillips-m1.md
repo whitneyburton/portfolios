@@ -25,7 +25,7 @@ from https://github.com/turingschool/ruby-submissions/tree/master/1705-b/1module
 
 ## B: Individual Work & Projects
 
-Overall, I felt like the bulk of the the reinforcing from the lessons was
+Overall, I felt like the bulk of the reinforcing from the lessons was
 borne out through these projects. Having time to sit with a project and
 wrestle with various ideas we had seen (but maybe not used yet) proved to be a
 boon for my own learning this module.
@@ -172,7 +172,7 @@ challenges and pressure. It's really foundational.
 * [GitHub URL]()
 
 I thought that this was good, especially as far as its placement in
-the curricula. Right when your starting to learn some things that start to
+the curriculum. Right when your starting to learn some things that start to
 feel somewhat overwhelming, this was a great reminder to focus on the
 process and continue to stay focused.
 
