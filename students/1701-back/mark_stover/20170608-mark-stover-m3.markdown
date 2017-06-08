@@ -14,7 +14,7 @@
 | D | **Professional Development** | 3 |
 | E | **Feedback & Community Participation** | 3 |
 
->* \<My take away from this module has been the importance of creating and consuming API's. It seems likely that as a backend developer it is likely that my professional work will require these skills.>
+>* \<My take away from this module will be the importance of creating and consuming API's. It seems likely that, as a backend developer, my professional work will require these skills.>
 
 -----------------------
 
@@ -29,7 +29,7 @@
 
 > **[Rales Engine](https://github.com/stovermc/rales_engine)**
 >* \<In this project, we used Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.>
->* \<Takeaways, your experience>
+>* \<This was one of my favorite projects so far. Combining the business intelligence with the MVC cycle really helped solidify some concepts for me. Also, the SQL queries for the BI were really fun to come up with - one of my best late nights at Turing.>
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
 > **[Cloney Island Sprint 1](https://github.com/stovermc/punstartr)**
@@ -38,7 +38,7 @@
 
 > **[Cloney Island Sprint 2](https://github.com/stovermc/grab_bag)**
 >* \<Description>
->* \<Takeaways, your experience>
+>* \<This project felt most similar to what I imagine my professional day to day to be like. It was really interesting inheriting a code base and working to identify the decisions that were made architecturally. Already having a working code base allowed us the opportunity to take deeper dives into technologies we haven't typically had time for in the past. It was a really nice change of pace and I learned a lot from this experience.>
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
@@ -56,24 +56,24 @@
 \<* Quite a few unused else statements. Some small refactoring but overall, nice job!>
 
 > Cloney Island Sprint 2 evaluation comments:
-\<Instructor Comments Here>
+\<Presently N/A. Will update when appropriate.>
 
 ## C. **Gear Ups**
 
-> [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-\<This gear up has made me continue to consider the implications of my remarks through the lens of intent vs. impact. I feel I would never consciously make a remark to offend someone.>
+> [Micro-aggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
+\<This gear up has made me continue to consider the implications of my remarks through the lens of intent vs. impact. I feel I would never consciously make a remark to offend someone, though it is certainly possible that my comments may come off as a micro aggression. I feel it is especially important to be self aware in a group setting.>
 
 > [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+\<I think diversity quotas are important for combating a large collective bias, though, sometimes can feel like they miss the point at an individual level. I feel that because of the large scale nature of collective bias, tools of a similar large scale are required to combat it, in this case, diversity quotas.>
 
-> [Choose your own adventure](https://github.com/turingschool/gear-up/)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+> [What Would You Do for a Like](https://github.com/turingschool/gear-up/)
+\<Often, I feel, that people forget just how much time, energy and money is poured into making them use their smartphones. Facebook has hundreds of engineers working to get them to spend as much time as possible on their app. I think people rarely hold this perspective and because of it, become susceptible to the many psychological hacks used to keep peoples attention. >
 
 
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
+>* \<I have served my second term as a SAB rep. I feel this inning our retros were really well facilitated and produced productive conversations. We celebrated our wins and continued to find ways to improve as a cohort and as a greater community.)>
 
 #### **Posse**
   >* \<During this inning, the Turing labs posse spent most of its time working with the 3d printer. It was fun to see the software used to generate the g-code used to "drive" the printing head.>
@@ -82,7 +82,7 @@
 
 #### **Playing a Part**
 
-> \<I have served my second term as a SAB rep. I feel this inning our retros were well facilitated and produced productive conversations. Also, I have been trying hard to make friends outside of our mod in hopes of stitching the Turing community closer together.>
+> \<I have made it a point to make friends outside of our mod in hopes of stitching the Turing community closer together.>
 
 ------------------
 
