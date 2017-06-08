@@ -85,3 +85,9 @@ To conclude, Turing lab was a great way for those who wanted to express themselv
 B. Playing a Part
  
 Besides being a posse leader, I participated in every gear up, drug others to wrap up, including times when not a single staff member was present. A community is what you make of it, and I chose not to be a part of a weak one, but rather try at all times to build a bigger and stronger community that I would be proud to be apart of. 
+
+## Blog Post fo Open Source
+
+During module four, I took the advice of my instructors and looked through my favorite gems to find a flaw, which I could then fix. While I was looking at Pry, I noticed that they used HTML generator to style, and therefore, it was broken. I assessed the gem further, and after conducting lengthy markdown language research, I discovered which HTML elements worked in MD and which did not. I edited the readme and put up a PR, which was responded to the next day with a few minor requests. I responded to these requests by cleaning up my edit, recommitted my edits, and my PR was merged.   
+
+During Bike Share, Andy and I worked tirelessly to get the gem, WillPaginate, to work with Sinatra. After researching the code for over 3 hours, we discovered that a helper module was missing, and therefore the gem was not functioning properly. I went to WillPaginate’s ReadMe, submitted that snippet, and within two hours it was merged to the Wiki with a thank you. By fixing the missing line of code, we were able to simultaneously fix everyone in the class’s WillPaginate.
