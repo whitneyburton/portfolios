@@ -108,9 +108,13 @@ Functional Expectations: 4
 
  Build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.
 
-(evaluation comments)
+Evaluation Comments: none
 
-(evaluation scores)
+Fundamental Ruby & Style: 3
+Breaking Logic into Components: 3
+Test-Driven Development: 4
+Functional Expectations: 4
+Code Sanitation: 4
 
 ## D: Professional Skills
 I found the gear ups and professional skills workshops to be a valuable component of the module.  
