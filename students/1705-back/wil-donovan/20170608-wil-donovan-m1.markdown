@@ -23,7 +23,7 @@ Pass
 
 In Mod-1 we completed two projects that were done individually that were extremely helpful, beneficial, and difficult.  Not only did these projects test and build knowledge with the ruby language but along with testing and building my skills and natural abilities/strengths.
 
-###Credit_Check
+### Credit_Check
 
 * [GitHub URL](https://github.com/swdonovan/credit_check)
 * [Original Assignment](http://backend.turing.io/module1/projects/credit_check)
