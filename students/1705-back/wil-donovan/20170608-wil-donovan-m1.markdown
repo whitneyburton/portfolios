@@ -25,12 +25,12 @@ In Mod-1 we completed two projects that were done individually that were extreme
 
 ###Credit_Check
 
-* [GitHub URL]https://github.com/swdonovan/credit_check
-* [Original Assignment]http://backend.turing.io/module1/projects/credit_check
+* [GitHub URL](https://github.com/swdonovan/credit_check)
+* [Original Assignment](http://backend.turing.io/module1/projects/credit_check)
 
 Description
 This project was my first test of keeping my head above water and did I barely.  I did this project wrong as I forgot to add in one subtraction step to completely validate the number.  Overall, while i missed that, I ended remaking this project 3 weeks later with ease and added the step in for the verification.  This project, of all the projects, provided the lease amount of knowledge growth through experimentation.
-----------------------------------------------------------
+
 (adapted from Wikipedia)
 
 The formula verifies a number against its included check digit, which is usually appended to a partial account number to generate the full account number. This full account number must pass the following test:
@@ -41,8 +41,6 @@ take the sum of all the digits
 if and only if the total modulo 10 is equal to 0 then the number is valid
 
 
-[Evaluation Comments]
-------------------------------------------------------------------------------------------------------
 ### Battle_Ship
 * [GitHub URL](https://github.com/swdonovan/Battleship)
 * [Original Assignment](http://backend.turing.io/module1/projects/battleship)
@@ -184,7 +182,7 @@ Personal Story gear up was one of my least participated in as telling stories ca
 #### Debugging the Gender Gap
 * [Github URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
 
-What an interesting topic that turned out to be fascinating.  While I never fully acknowledged the gender gap I found it extremely difficult to process from a logical stand point.  In an industry that I find so fit for women it was extremely difficult to know that male statements and frame and minds is what drives such a valuable factor to the success of technology.  Definitely intend to study further before making any opinions. 
+What an interesting topic that turned out to be fascinating.  While I never fully acknowledged the gender gap I found it extremely difficult to process from a logical stand point.  In an industry that I find so fit for women it was extremely difficult to know that male statements and frame and minds is what drives such a valuable factor to the success of technology.  Definitely intend to study further before making any opinions.
 
 ## E: Community Participation
 
