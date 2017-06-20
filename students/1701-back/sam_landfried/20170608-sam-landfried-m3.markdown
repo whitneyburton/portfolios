@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This mod, I tried to concentrate my attention on activities that would best prepare me for the job hunt. This involved networking and developing my proffesional branding in addition to applying to jobs. 
+This mod, I tried to concentrate my attention on activities that would best prepare me for the job hunt. This involved networking and developing my proffesional branding in addition to applying to jobs.
 
 ## Self-Assessment
 
@@ -25,16 +25,16 @@ This mod, I tried to concentrate my attention on activities that would best prep
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* We built an API to serve business analytics.
 >* I need to work on my ActiveRecord skills.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
->* My group cloned DropBox. 
+> **[Cloney Island Sprint 1](https://)**
+>* My group cloned DropBox.
 >* This was the first very functional app I have built. It was great to integrate it with AWS and build a complicated schema that effectively replicated DropBox functionality.
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://)**
 >* I extracted AirBnB's messaging into an external service hosted on Digital Ocean.
 >* I got to work with a Linux VPS for the first time, which was a good learning experience. I also liked the process of extracting part of a site's functionality to make it more flexible.
 
@@ -51,7 +51,7 @@ This mod, I tried to concentrate my attention on activities that would best prep
 ## C. **Gear Ups**
 
 > [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-Microagressions are when something 
+Microagressions are when something
 
 > [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 \<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
@@ -79,5 +79,7 @@ Microagressions are when something
 ## Final Review
 
 > #### Notes ( Leave blank for reviewers )
+Needs to complete Portfolio
 
 > #### Outcome ( Leave blank for reviewers )
+Provisional
