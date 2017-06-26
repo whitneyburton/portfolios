@@ -9,6 +9,7 @@ What do you want to focus on this inning? What do you hope to accomplish by grad
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
 
 * What was your biggest techincal challenge?
+* What did you like the most about the challenge?
 * How did you solve that challenge? What was your approach?
 * What did you learn?
 
@@ -18,6 +19,7 @@ Include a reflection answering the following questions:
 
 * What was your biggest techincal challenge?
 * How did you solve that challenge? What was your approach?
+* What did you like the most about the challenge?
 * What are three technical concepts you learned during this project?
 * If you could change one thing about your technical approach, what would it be and why?
 * What was the experience like working with a pair while learning something new?
@@ -28,6 +30,7 @@ Include a reflection answering the following questions:
 
 * What was your biggest techincal challenge?
 * How did you solve that challenge? What was your approach?
+* What did you like the most about the challenge?
 * What are three technical concepts you learned during this project?
 
 ## Feedback
@@ -40,7 +43,7 @@ Write a reflection about the process of planning/revising a Gear Up session and 
 
 ## Community Involvement
 
-How else did you give back to the community this inning? 
+How else did you give back to the community this inning? Why do you think this is a required part of the Turing experience?
 
 ## Going Forward
 
