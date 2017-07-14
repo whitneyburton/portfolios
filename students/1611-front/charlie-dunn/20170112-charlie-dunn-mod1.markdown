@@ -61,6 +61,9 @@ Collaboration
 
 [Original Assignment](http://frontend.turing.io/projects/static-comp-challenge.html)
 
+#### Dog Party
+* [GitHub Pages]( https://dunncl15.github.io/static-site-playground)
+
 #### Comp 1
 * [GitHub Pages](https://dunncl15.github.io/comp1/)
 * [GitHub Repo](https://github.com/dunncl15/comp1)
@@ -70,7 +73,7 @@ Collaboration
 * [GitHub Repo](https://github.com/dunncl15/cd-comp-challenge-2/)
 
 #### Comp 3
-* [GitHub Pages]()
+* [GitHub Pages](https://dunncl15.github.io/cd-comp-challenge-3/)
 * [GitHub Repo](https://github.com/dunncl15/cd-comp-challenge-3)
 
 #### Number Guesser

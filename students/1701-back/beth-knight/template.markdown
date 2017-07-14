@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This was my first in person programming course. I had worked with frameworks before for rails and ios and I wasn't understanding the fundamentals of what was going on behind the scenes. It was my goal coming into this program to really understand the algorithms that run everything. This included really grasping the ruby syntax and using tests to write code that could continuously be improved. 
+This was my first in person programming course. I had worked with frameworks before for rails and ios and I wasn't understanding the fundamentals of what was going on behind the scenes. It was my goal coming into this program to really understand the algorithms that run everything. This included really grasping the ruby syntax and using tests to write code that could continuously be improved.
 
 
 
@@ -61,7 +61,7 @@ n/a
 ## B: Individual Work & Projects
 
 
-When I first started I was extremelly confident in my abilities and so I joined Echo. In hindsight I wish I had gone with Foxtrot and worked more on the fundamentals instead of diving into big projects that overwhelmed me. It did force me to really step up to the plate and push through some fairly advanced concepts. I also learned to seek out help from mentors which I think will be key later on. 
+When I first started I was extremelly confident in my abilities and so I joined Echo. In hindsight I wish I had gone with Foxtrot and worked more on the fundamentals instead of diving into big projects that overwhelmed me. It did force me to really step up to the plate and push through some fairly advanced concepts. I also learned to seek out help from mentors which I think will be key later on.
 
 #### Date Night
 
@@ -158,7 +158,7 @@ Not strong use of TDD.
 
 ### Projects
 
-Group work was a little difficult for me because I felt I might drag my partner down because I was constantly questioning my ability. While this fear never went away, I thought it was amazing to have someone to bounce ideas off of. Overall we were able to achieve more together than we ever would alone. 
+Group work was a little difficult for me because I felt I might drag my partner down because I was constantly questioning my ability. While this fear never went away, I thought it was amazing to have someone to bounce ideas off of. Overall we were able to achieve more together than we ever would alone.
 
 #### CompleteMe
 
@@ -258,11 +258,11 @@ I startedd my professional life as a painter. I love the canvas and oil paints a
 
 Dear Charlotte,
 
-I think you had great passion about the project and wanting to succeed. You showed up on time, put in extra effort. There was never a moment where I doubted if you were in for the long haul. And thanks for letting me take over a lot of the testing. That was important for me to learn and I really appreciated it. 
+I think you had great passion about the project and wanting to succeed. You showed up on time, put in extra effort. There was never a moment where I doubted if you were in for the long haul. And thanks for letting me take over a lot of the testing. That was important for me to learn and I really appreciated it.
 
-I think we might have had that tunnel vision with our project. There was a point where we were both spiraling and feeling defeated. We should have met at Turing instead of the coffee shop so we could have grabbed some help. But that’s a hindsight thing. You’re github skills are getting there! We probably should have outlined how we were going to merge, pull, create branches and all that. We need to whiteboard, psuedo code, and test before we write any real code. I think we got into trouble when we started hacking away at it. 
-	
-	
+I think we might have had that tunnel vision with our project. There was a point where we were both spiraling and feeling defeated. We should have met at Turing instead of the coffee shop so we could have grabbed some help. But that’s a hindsight thing. You’re github skills are getting there! We probably should have outlined how we were going to merge, pull, create branches and all that. We need to whiteboard, psuedo code, and test before we write any real code. I think we got into trouble when we started hacking away at it.
+
+
 For Spencer,
 Spencer, it was awesome working with you. I think your energy and enthusiasm is infectious and it helped make this project fun. You were considerate and hard working. Even though we didn’t get through as many iterations as we wanted, I think the work we did do was implemented very well. I learned everything I know about pry today because of you. And I appreciate you letting me take over testing for a lot of the project since it is my weaker point.
 You can work on improving your speed in getting to the answers faster. I think this will come with getting familiar with programming to build your confidence .
@@ -292,7 +292,7 @@ I showed up every day with a positive attitude, ready to tackle the days challen
 
 Growth Mindset
 
-This was a great session! They talked about the idea of “yet”, as in there is always room to grow. While I might not be a programmer now, I have the ability to grow into one. The thing that would hold me back would be believing that I personally am not able because of an inherent limitation. I need to always be on my guard for the fixed mindset popping up when I’m struggling. Can’t needs to be replaced with how. 
+This was a great session! They talked about the idea of “yet”, as in there is always room to grow. While I might not be a programmer now, I have the ability to grow into one. The thing that would hold me back would be believing that I personally am not able because of an inherent limitation. I need to always be on my guard for the fixed mindset popping up when I’m struggling. Can’t needs to be replaced with how.
 
 Personalities
 
