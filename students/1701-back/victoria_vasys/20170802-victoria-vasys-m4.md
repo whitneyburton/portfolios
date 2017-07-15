@@ -1,7 +1,7 @@
 # Victoria Vasys - M4 Portfolio
 
 ## Area of Emphasis
-What do you want to focus on this inning? What do you hope to accomplish by graduation?
+This inning, I hoped to learn the basics of a new language, JavaScript & implement the pillars of OOP that we learned for Ruby & Rails in a similar way with it. By graduation, I aimed to have passed all assessments & projects, build a capstone I was proud of & could share with people who would use it, reach out to 10+ company contacts, and have a couple interviews.
 
 ## Assessment
 
@@ -13,8 +13,6 @@ Include your final outcome (pass/fail) and a reflection based on answering the f
 * What did you learn?
 
 ## Quantified Self
-
-Include a reflection answering the following questions:
 
 * What was your biggest technical challenge? 
 I think the biggest challenge for me in QS was firstly trying to navigate the DOM; I didn't realize until about 3/4 of the way through that WebDriver opens an iframe on your page, so when you are trying to debug in the console, it returns objects instead of the html you're looking for unless you manually open the iframe & the body inside it within the sources tab. I also found it really challenging trying to TDD with WebDriver as it would unpredictably not be able to find various css on my page even when I included wait.until.
