@@ -77,4 +77,4 @@ How else did you give back to the community this inning? Why do you think this i
 ## Going Forward
 
 What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
-
+> Moving forward the three skills I will take to my next job will be; the set of had skills I have learned during my time at turing, the ability to pair with another developer in order to produce effective and timely results, and lastly the ability to learn something that is very difficult to uderstand. The last one, I believe, will take me the farthest and is my most prized skill that I will take with me when I leave Turing.
