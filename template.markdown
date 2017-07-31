@@ -1,8 +1,9 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Robbie Greiner - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module my goal was to get a strong foundation of javascript, css and HTML.  One of my big 
+focuses was on time management and maintaining a growth mindset. 
 
 ## Rubric Scores
 
