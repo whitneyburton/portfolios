@@ -1,4 +1,4 @@
-# B4 Portfolio Template
+# Back End Mod 4 portfolio. AKA. The final PR
 
 ## Area of Emphasis
 
@@ -36,10 +36,16 @@ Include a reflection answering the following questions:
 
 Include a reflection answering the following questions:
 
-* What was your biggest technical challenge?
-* How did you solve that challenge? What was your approach?
-* What did you like the most about the challenge?
-* What are three technical concepts you learned during this project?
+#### What was your biggest technical challenge?
+Working with the front-end. This was probably the project with the most challenging client-side code between the webcam interactions and styling.
+#### How did you solve that challenge? What was your approach?
+I looked at doing it in Vanilla JS, but hit the fact that different browsers need different implementations. As I wasn't doing anything too out of the box, I used a library that handled it. I think that if I was going to go into a refactor on this project I would definitely change the styling and front-end first, as I think this app is actually really powerful, but not intuitive from a non-technical user's point of view.
+#### What did you like the most about the challenge?
+It was really fun to be able to come up with my own features, and my own user stories. Working with something that is relatively new like facial recognition means that No everything has been implemented before. There are no design and use patterns, which can be a lot of fun.
+#### What are three technical concepts you learned during this project?
++ Base64 image encoding. This is a quick and easy way to encode and pass an image around as a string. Very inefficient from a memory perspective, but it greatly simplified a lot of interactions.
++ getUserMedia in js. It allows, among other things, access to the webcam through the browser. Given that it seems like more and more user interaction will not use a keyboard and mouse (face unlock on most new high end phones) this is a cool trick to have. Even if I did use a library that wraps it up for me.
++ Working with hardware and Python. Python was sort of forced on me by the level of support and libraries for the hardware I was using. This was a real challenge because I don't know Python well, and hardware isn't as reliable as software. I spent a lot of time debugging, and head scratching not knowing if the problems were in the code, or in the hardware. There were problems in both, and the code had to be written in a way that was tolerant of hardware faults. For example, the distance sensor would occasionally not receive the return sound ping. This meant that it would sit and wait indefinitely for something that was never coming. Figuring out that this was why the code was hanging was a challenge, and then accounting for a way to time out the method was challenging on the code side.
 
 ## Feedback
 
@@ -47,12 +53,19 @@ What's one piece of meaningful feedback you received during B4? What have you do
 
 ## Gear Up
 
-Write a reflection about the process of planning/revising a Gear Up session and facilitating the session. Did you enjoy the experience? What was challenging? What was most rewarding?
+I enjoyed the process of planning for the gearup. Having a little bit of room to make your own decisions about what you're learning is a little rare at Turing, so that was really nice. The actual gear-up was fun to lead, but the timing of it was a little stressful.
+
+I did appreciate getting to have some interesting conversations with people who were actively curious about the topic.
 
 ## Community Involvement
 
-How else did you give back to the community this inning? Why do you think this is a required part of the Turing experience?
+This inning was really hard to get involved in community. With the death of spikes and posses, it felt like there was a lot less time to get into the community. I paired a few times, but mostly just stayed in my cohort.
+
+Community is a real hidden side of development. I'm really glad that Turing has such a conscious effort towards building community. It's easy to see that being a code 'ninja' (I actively laugh at any company that describes their employees that way) is not enough. Being engaged with community, inside and outside Turing, seems critical to success. The only way to be a good developer is to engage with the community. Building a network of people that you can ask for technical, professional, and personal advice is huge. And I have yet to find a company where devs work in isolation. Soft skills matter.
 
 ## Going Forward
 
 What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
++ Staying engaged with the community at large outside the job.
++ Keep learning ew technologies and ways of doing things. They might work better, or they might not, but web dev moves too fast to not stay up to date.
++ Personal brand building and having an online presence. It is super useful for job hunting, and it is a great way to augment the first point.
