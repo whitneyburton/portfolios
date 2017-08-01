@@ -32,7 +32,7 @@ The growth mindset one was my favorite. It's good to hear this even for a second
 
 How did you contribute to the Turing community this module?
 
-Just little things like taking out the trash or doing the dishes every once and a while.
+Just little things like taking out the trash or doing the dishes every once and a while. I'm also one of 4 or 5 of us in the Easley posse that shows up every week. Mostly we just use it for study time and questions.
 
 What would you like to do to contribute next module?
 
