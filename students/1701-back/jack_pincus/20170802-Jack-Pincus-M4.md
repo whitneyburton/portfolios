@@ -49,7 +49,7 @@ It was really fun to be able to come up with my own features, and my own user st
 
 ## Feedback
 
-What's one piece of meaningful feedback you received during B4? What have you done or going to do regarding this feedback?
+For the final assessment sprint one, I didn't do any documentation and heard about it. That combined with using some really poorly documented libraries has led to me really appreciating how good documentation can help write your software, as well as help users. A nice side effect is that good documentation is what gets your project noticed by people who might matter!
 
 ## Gear Up
 
