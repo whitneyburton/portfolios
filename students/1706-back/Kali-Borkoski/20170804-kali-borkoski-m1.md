@@ -6,7 +6,7 @@ What did you set out to accomplish this module? Were you successful?
 
     My objective was to stand under the waterfall and to collect ALL THE WATER.  
 
-    However, I quickly discovered that the waterfall is bigger than I am. This proved to be frustrating because I have no recourse to exteral collection vessels, and per my objective [read: greed and hubris] I want ALL THE WATER, not just a paltry residual wetness. Because my surface area is relatively modest and most of the waterfall couldn't be contacted let alone absorbed', I've had to adjust my original expectations:
+However, I quickly discovered that the waterfall is bigger than I am. This proved to be frustrating because I have no recourse to exteral collection vessels, and per my objective (read as: greed and hubris) I want ALL THE WATER, not just a paltry residual wetness. Because my surface area is relatively modest and most of the waterfall couldn't be contacted let alone absorbed', I've had to adjust my original expectations:
 
     Given my original two-part objective, I was only able to achieve the first part: I stood under the waterfall. 
 
