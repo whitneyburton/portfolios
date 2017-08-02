@@ -27,6 +27,7 @@
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
+
 **Evaluator:** *Brenna*
 **Evaluation Comments**
 * *Exploring aria roles*
@@ -76,6 +77,7 @@
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 (description)
+
 **Evaluator:** *Meeka*
 **Evaluation Comments:**
 * *Did a lot of different pairing styles*
