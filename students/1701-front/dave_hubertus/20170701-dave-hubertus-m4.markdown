@@ -67,6 +67,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 *   [GitHub URL](https://medium.com/@dhubertus/first-dive-into-an-open-source-project-56cc4635369f)
 
+### Capstone
+PASSING
+
 
 
 ### Peer Reivews
