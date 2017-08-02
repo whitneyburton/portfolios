@@ -38,7 +38,7 @@ The Sorting Suite project was a great chance for me to practice my Javascript sk
 * [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
 The Sorting Suite project includes different sorting algorithms including:
-  * Bubble Sort
+	* Bubble Sort
   * Insertion Sort
   * Merge Sort
   * Quick Sort
@@ -94,18 +94,53 @@ The output from ESLint shows…
 
 ### Projects
 
-(Intro)
+I completed 2 group projects this module including:
+
+	* Game Time
+	* Weathrly
+	
+Our team used Javascript and HTML canvas to re-create the game Tron for Game Time. This was also the first time that we had started implementing tests using mocha and chai to check and make sure the game was working correctly. For Weathrly, our team used React, ES6, and api calls to make a weather application. We spent much more time this project doing Test-Driven-Development using Jest and Enzyme.
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/Kalikoze/Game-Time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-(description)
+This is a re-creation of the game Tron using Javascript and HTML canvas.
 
-(evaluation comments)
+## Instructor Evaluation Points: Game Time
+## Instructor: Meeka
+## Optional Notes:
 
-(evaluation scores)
+## Functional Expectations
+
+* 3 - Application is fully playable without crashes or bugs
+
+### User Interface
+
+Make sure button to reset matches style
+
+Need some stylistic indication of the win and loss to drag the eye to it
+
+* 3.5 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+### Testing
+
+* 3 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+
+### JavaScript Style
+
+* 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+* 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from eslint shows…
+
+* 4 - Zero complaints
 
 (feedback to me)
 
