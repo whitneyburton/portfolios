@@ -8,12 +8,16 @@ What do you want to focus on this inning? What do you hope to accomplish by grad
 
 ## Assessment
 
-Include your final outcome (pass/fail) and a reflection based on answering the following questions:
+Outcome: PASS
 
 * What was your biggest technical challenge?
+Rembering how to use Rails after working in JavaScript for a month.
 * What did you like the most about the challenge?
+It was a meaningful assessment in that completing it demonstrated proficiency as a developer. I finished it and was like, 'Yep, I built a thing.'
 * How did you solve that challenge? What was your approach?
+I stuck to the prescribed iterations in the markdown. I broke iteration 1 into tiny steps, completed them, then moved to 2. 
 * What did you learn?
+The fetch API and vanilla JavaScript are not as semantic or powerful as jQuery. 
 
 ## Quantified Self
 
@@ -40,22 +44,26 @@ Include a reflection answering the following questions:
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
+Authenticating my users was a much bigger challenge than it should have been. I spent 3 days setting up Auth0 (And it probably could have been 1 if I had spent more time in the docs).
 * How did you solve that challenge? What was your approach?
+I figured out Auth0 by a lot of trial and error and reading docs. Finally, I realized it wasn't appropriate for my use case, so I handrolled my own solution.
 * What did you like the most about the challenge?
+I liked the time to focus on my own project and to finally put together a usable web app. 
 * What are three technical concepts you learned during this project?
+I learned the HTML Drag and Drop API, React and AWS EC2. 
 
 ## Feedback
 
-What's one piece of meaningful feedback you received during B4? What have you done or going to do regarding this feedback?
+I was told that because I'm 30 and don't have any dependents, it makes sense to take a high risk/reward job. If I'm given that opportunity, I'll take it. 
 
 ## Gear Up
 
-Write a reflection about the process of planning/revising a Gear Up session and facilitating the session. Did you enjoy the experience? What was challenging? What was most rewarding?
+The gear up session went well. I enjoyed working with my partners and getting to know a frontender. The new students were engaged, and I think they got some value from the experience. To me, the most rewarding aspect of it was getting to contribute to the Turing community.
 
 ## Community Involvement
 
-How else did you give back to the community this inning? Why do you think this is a required part of the Turing experience?
+I was one of the coleaders of Beryllium BE. I paired with some Mod 1 students. I helped out some classmates with JavaScript since I'd had exposure to it in the past.
 
 ## Going Forward
 
-What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
+I'm going to work on building personal relationships whereever I wind up. I'm going to try to be honest with myself about my own best interests when making decisions. I'm going to keep using Vim.
