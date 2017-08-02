@@ -51,21 +51,15 @@
 * [GitHub URL](https://github.com/francylang/fl-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
-
 #### Static Comp Challenge #2
 
 * [GitHub URL](https://github.com/francylang/fl-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
-
 #### Static Comp Challenge #3
 
 * [GitHub URL](https://github.com/francylang/fl-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
-
-(description)
 
 ## C: Group Work & Projects
 
@@ -209,7 +203,7 @@
 
 ### Playing a Part
 *As a member of the Student Advisory Board, I have had the privilige of digging deeper into what it takes to create a successful and sustainable student culture at Turing. I have worked to integrate myself into the overall community. Reaching out to students in mod 2, as well as other mods, has allowed me to grow my Turing family and strengthen my support network.
-I work daily to maintain a growth mindset and effectively live the turing values around social justice and inclusion. It is important to me to be in a place with a strong and inclusive culture. I intend to continue doing my part to support a community that values 'culture adds' and doesn't just look for 'culture fits.'
+I work daily to maintain a growth mindset and effectively live the turing values around social justice and inclusion. It is important to me to be in a place with a strong and inclusive culture. I intend to continue doing my part to support a community that values 'culture adds' and doesn't just look for 'culture fits.'*
 ------------------
 
 ## Final Review
