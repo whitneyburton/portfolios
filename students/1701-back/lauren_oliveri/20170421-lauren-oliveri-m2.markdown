@@ -95,9 +95,12 @@
 
 ##### Feedback to me for Little Shop
 
-  >* From Jack Pincus
+  >* From Jack Pincus:
+    * Big ups for really going HAM on this shit. You managed to really drive this project to an incredible result while still being friendly and awesome. I think that the fact that we never had a late night is amazing for a Turing Project. I'm always jealous of your ability to always seek perfection in your work. This is one of those great situations where I'm not sure what I can tell you to improve on. 12/10 would code with again. Pickles
   >* From Joseph Glass:
+    * You did a fantastic job managing our project. The way you broke down features to clear, well-defined, test-ready user stories made a huge difference in our workflow. I never realized how much energy I wasted trying to code to vague specs until this project. It's clear you're willing to go the extra mile and do more than your fair share of the work, while at the same time always giving credit to others. You have excellent coding instincts, and notice untapped efficiencies and refactoring opportunities, in team workflow as well as code. Don't be afraid to critique your teammates' work, we'll be even better programmers for your insights!
   >* From Andrew Mossefin:
+    * Hey Lauren. First and foremost, you absolutely CRUSHED it as the project manager. As we talked about in the eval, the fact that you chopped every task and item into a detailed individual card on waffle.io made things so much easier for everyone and gave us all clear direction on the project. You also still remain the undisputed git flow master. Very glad that I had you in my group and we finally were able to work together. Only input would be that sometimes when you get into the zone, I know I’d appreciate if you communicated more clearly on things you want to change or were changing. For example, when performing your git wizardry (teach me your ways!). That’s the only think i can’t think of. Other than that, you are an absolute champ. Very proud of what we accomplished on this, and I think you were one of the biggest driving factors in that.
 
 
 ## D: Professional Skills
