@@ -12,14 +12,16 @@ What do you want to focus on this inning? What do you hope to accomplish by grad
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
 
-    1. What was your biggest technical challenge?
-          - getting the first api request done -> adding a link
-    2. What did you like the most about the challenge?
-          - using my new knowledge of javascript on the assessment
-    3. How did you solve that challenge? What was your approach?
-          - I added a link via jQuery ...........................
-    4. What did you learn?
-          - I learned more about Selenium testing and how to tests the model tests
+    This assessment, I have done now twice, and this time I can say I felt way more confident going into it.
+    Although there was some shake ups with my computer and that didn't help my confidence levels, I was
+    proud of the work I did. I was both proud and kind of shocked that I could do all of the necessary javascript needed to get
+    the assessment done. At points I would get pretty upset about the circumstances and the requirements of the assessment
+    but I got through it, and I was happy that it went as well as it did seeing as I had to reinstall everything.
+    The hardest part of the assessment for me was making the first api call. I spend a good half a day on it, and it was extremely
+    frustrating, but it turns out I just needed to require jQuery. It was also frustrating pushing things to production; when
+    I used localhost as host and then changed it to the production url. It wasn't updating. Finally we figured out that
+    I needed to clobber and re-precompile my assets and that would update the links on production. It was nice to finally get that
+    figured out.
 
 ### Quantified Self
 
@@ -66,7 +68,7 @@ Include a reflection answering the following questions:
       When evaluation came I was shocked by the scores I had gotten, but proud that
       I had made a thing, a small thing, but still in that time frame. This project
       reassured me that I had not in fact lost touch with Rails which is something I worried about.
-      
+
     What are three technical concepts you learned during this project?
       - spring
       - code climate
@@ -85,7 +87,14 @@ What's one piece of meaningful feedback you received during B4? What have you do
 Write a reflection about the process of planning/revising a Gear Up session and facilitating the session. Did you enjoy the experience? What was challenging? What was most rewarding?
     The gear up session I was apart of did giving back to the community. I had a
     fun time doing it I felt that the people I planned it with were happy to be
-    there and excited about tell people about getting involved.
+    there and excited about tell people about getting involved. It was challenging
+    having so much going on, and trying to get this gear up together. If we had more time
+    I know for sure I would have been far better, but I think due to time and
+    resources we just didn't have a ton of time to delve in and make the gear up the most
+    that it could be. It was rewarding to see everyone actually engage and get
+    excited about the topic. When we first started out they all had different idea
+    about what it meant to give back and by the end we were able to leave them with some
+    meaningful things they could all do. 
 
 
 ### Community Involvement
