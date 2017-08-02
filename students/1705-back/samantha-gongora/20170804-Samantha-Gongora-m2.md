@@ -23,16 +23,19 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+Some crazy things happened, project-wise, in mod 2. From building a *real* application in our first group project, to breathing life to a personal concept, and finally creating a shop with authentication, authorization, and sessions! Dive into my journey:
 
 #### Bike-Share
 
 * [GitHub URL](https://github.com/bretfunk/bike-share)
 * [Original Assignment](https://github.com/turingschool/bike-share)
 
-(description)
+Description:
+  * Use Ruby, Sinatra, and Activerecord to build a site that analyzes bike share usage in San Francisco. Collect data in two ways: 1) through web forms, and 2) by consuming CSV files. Provide a number of user dashboards with higher level analysis of trends in bike share usage.
 
-(your goal and role in the project)
+Goals:
+  * Get comfortable with Bootstrap
+  * Learn more about ActiveRecord associations and requests
 
 (reflection on project)
 
@@ -41,9 +44,11 @@
 * [GitHub URL](https://github.com/samanthagongora/meal-planner)
 * [Original Assignment](http://backend.turing.io/module2/projects/mini-project)
 
-(description)
+Description:
+  * Create and deploy a functioning app to Heroku. Implement authentication/authorization, one-to-many and many-to-many relationships. Style your project do it isn't horrible to use.
 
-(your goal for the project)
+Goals:
+  *
 
 (reflection on project)
 
@@ -61,17 +66,16 @@
 -----------------------
 
 ## C: Final Assessments
-* How did you do on written and timed independent?
-  * I think I did very well on the code and written assessments. I struggled more that I would have liked on the average salary method on the code assessment. I wanted to spend more time refactoring and testing the models. I remembered a lot more than I expected on the written portion. I felt the repetition throughout the mod significantly prepared me.
+  * How did you do on written and timed independent?
+    * I think I did very well on the code and written assessments. I struggled more that I would have liked on the average salary method on the code assessment. I wanted to spend more time refactoring and testing the models. I remembered a lot more than I expected on the written portion. I felt the repetition throughout the mod significantly prepared me.
 
-* Was this a representation of your best work?
-  * Yes!
+  * Was this a representation of your best work?
+    * Yes!
 
 -----------------------
 
 ## D: Module Outcomes
-
-
+  *
 ### Self-Assessed Outcome
 
 (PROMOTED, PROVISIONAL, RETAINED, or EXCUSED)
