@@ -8,49 +8,63 @@ What do you want to focus on this inning? What do you hope to accomplish by grad
 
 ## Assessment
 
-Outcome: PASS
-
 * What was your biggest technical challenge?
+
 Rembering how to use Rails after working in JavaScript for a month.
 * What did you like the most about the challenge?
+
 It was a meaningful assessment in that completing it demonstrated proficiency as a developer. I finished it and was like, 'Yep, I built a thing.'
 * How did you solve that challenge? What was your approach?
+
 I stuck to the prescribed iterations in the markdown. I broke iteration 1 into tiny steps, completed them, then moved to 2. 
 * What did you learn?
+
 The fetch API and vanilla JavaScript are not as semantic or powerful as jQuery. 
 
 ## Quantified Self
 
-Include a reflection answering the following questions:
-
 * What was your biggest technical challenge?
-- Understanding promises.
+
+Understanding promises.
 * How did you solve that challenge? What was your approach?
-- I secured some instructor time to discuss promises in detail.
+
+I secured some instructor time to discuss promises in detail.
 * What did you like the most about the challenge?
-- Building out a frontend from scratch was fun.
+
+Building out a frontend from scratch was fun.
 * What are three technical concepts you learned during this project?
+
 1. Event delegation
 1. Testing with Selenium
 1. How frontend/backend fits together
 
 * If you could change one thing about your technical approach, what would it be and why?
-- I would have added a 'enabled' column to my foods so I could have taken them off the master food list without removing them from diaries. 
+
+ I would have added an 'enabled' column to my foods so I could have taken them off the master food list without removing them from diaries. 
 * What was the experience like working with a pair while learning something new?
-- I worked solo. In the past, learning something new with pairs has been rewarding.
+
+ I worked solo. In the past, learning something new with pairs has been rewarding.
 
 ## Capstone Project
 
-Include a reflection answering the following questions:
-
 * What was your biggest technical challenge?
+
 Authenticating my users was a much bigger challenge than it should have been. I spent 3 days setting up Auth0 (And it probably could have been 1 if I had spent more time in the docs).
 * How did you solve that challenge? What was your approach?
+
 I figured out Auth0 by a lot of trial and error and reading docs. Finally, I realized it wasn't appropriate for my use case, so I handrolled my own solution.
 * What did you like the most about the challenge?
+
 I liked the time to focus on my own project and to finally put together a usable web app. 
 * What are three technical concepts you learned during this project?
+
 I learned the HTML Drag and Drop API, React and AWS EC2. 
+
+## Open Source Contribution
+### 
+
+* [Documentation PR to Turing](https://github.com/turingschool/challenges/pull/44)
+* [I made a PR to the Faker gem](https://github.com/stympy/faker/pull/989/commits/78051fce0ec6044546b10098a15be7a886936ac4). Faker generates fake data to use in your seed data. (So you can give all your test users names from Game of Thrones). Someone requested that each Faker attribute be given a count in the documentation. So, when you look up Rick and Morty quotes, you can see that there are 75 of them. This is complicated by localizations. The number of elements in each Faker category are specific to the language Faker is configured to use, and there's something like 30 of them. I wrote a script to parse the YML files containing the Faker library, count the elements from each localization, then write the count to the doc files. Language processing, I learned, is a PAIN. Luckily, it's easy to port over the Rails modules that give you such handy methods like `pluralize`. 
 
 ## Feedback
 
