@@ -21,8 +21,6 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
-
 #### Number Guesser
 
 * [GitHub URL](https://github.com/francylang/number-guesser)
@@ -34,11 +32,42 @@
 
 (evaluation scores)
 
+#### Static Comp Challenge #1
+
+* [GitHub URL](https://github.com/francylang/fl-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp Challenge #2
+
+* [GitHub URL](https://github.com/francylang/fl-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp Challenge #3
+
+* [GitHub URL](https://github.com/francylang/fl-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
 ## C: Group Work & Projects
 
 ### Projects
-
-(Intro)
 
 #### Linked List
 
@@ -66,15 +95,24 @@
 
 (feedback to me)
 
+#### 2DoBox-Pivot
+
+* [GitHub URL](https://github.com/francylang/2DoBox-pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Takeaways
+* [GitHub URL](https://gist.github.com/francylang/a05f46c7d37013654367dbf19cfa6d1c)
 
 ## E: Community Participation
 
