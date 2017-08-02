@@ -45,9 +45,10 @@ Organize code using best practices (use POROs when appropriate, avoid long metho
 Create methods using ActiveRecord on the appropriate class.
 ```
 
-(your goal and role in the project)
+Goal: Since this was the first project we worked on in Mod 2, my goals were to understand the material in a way that I would be able to duplicate similar functionality at a later date. While the project was cool and it was nice playing around in Sinatra, the goal was definitely to identify the patterns of MVC and how that entire process works in an App. I definitely took a bit of a leadership role with the database for our project, which lent itself really well to the rest of the mod. Understanding DB relationships has been a strength of mine so far.
 
-(reflection on project)
+
+Reflection: Besides me having a Macbook Air and seeding taking 15+ hours I though it went okay as a group. There was definitely a spectrum of understanding of the material which I think tied up our pace a little big but at the end of the day, I think the people in our group could defend the code that we had written and had a pretty solid understanding of what we accomplished.
 
 #### Rails Mini-Project
 
@@ -79,9 +80,9 @@ Authentication
 Authorization
 ```
 
-(your goal for the project)
+Goal: Build out a fully functional app with the ability to create and account with a session, determine additional Authorization based on role, create one-to-one, one-to-many, and many-to-many relationships, build a simulation for a site that may exist in the real world.
 
-(reflection on project)
+Reflection: This was a big moment for me, as this is where I realized I feel pretty comfortable using Rails. I could see the steps from the migration level that I needed to take to implement specific functionality pieces and be familiar with implementing them. I could have spent more time developing the views portion of my app or using factory girl in testing, but both of those seemed non-essential for this mod and something that I could get more exposure to over the break. 
 
 #### Little Shop
 
@@ -100,9 +101,9 @@ Deploy an application to Heroku
 Build a logical user-flow that moves across multiple controllers and models
 Practice an agile workflow and improve communication skills working within a team
 ```
-(your goal and role in the project)
+Goal: Finish off the mod strong with a well done project. Become more familiar with the breaking up of workload and being able to work separately, reconvene and merge our work together. Demonstrate my knowledge of Rails, ActiveRecord, DB relationships, and MVC.
 
-(reflection on project)
+Reflection: My experience with this project has been great. I really like the group that I was in. We were all capable of keeping up with each other's thoughts. We were all able to vocalize our ideas and implement them into the code. We were able to split up work and merge together again without (many) merge conflicts. Ultimately, I feel really good about Little Shop.
 
 -----------------------
 
