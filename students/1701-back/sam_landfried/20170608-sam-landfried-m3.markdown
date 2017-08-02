@@ -51,28 +51,24 @@ This mod, I tried to concentrate my attention on activities that would best prep
 ## C. **Gear Ups**
 
 > [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-Microagressions are when something 
-
-> [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+A microagression occurs when someone is treated differently because of their background, which sends the message, 'You don't belong here'. Sometimes these are innocuous off hand comments that are unintentionally hurtful, and sometimes the ignorance is more obvious. It is are job to be aware of these microagressions to keep ourselves from offending, and to ally with those that might be affected. 
 
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
-
+I attended the 'Dangers of a Single Story' gear up. Basically, we let ourselves believe a single story about people because of their backgrounds. Humans are great at generalizing and stereotyping, which is how we process tons of information and can function in the world. The danger comes when we believe incorrect things about people, or make assumptions about them without recognizing their individuality.
 
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
+I was a leader of the Wozniak Posse and paired with other students.
 
 #### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
+  >* Woz Poz focused on practicing technical interviews.
+  >* It was nice to focus on algorithmic challenges.
+  >* It has made me more aware of my own strengths and interests, in addition to improving my technical interview skills.
 
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
+I've done my best to participate in cohort retros and group projects in meaningful ways.
 
 ------------------
 
