@@ -27,7 +27,7 @@ This includes my first project, Number Guesser, along with Static-Comps 1, 2 and
 
 #### Number Guesser
 
-* [www.robbieg.io/number-guesser](https://www.robbieg.io/number-guesser)
+* [www.robbieg.io/number-guesser](http://www.robbieg.io/number-guesser)
 * [GitHub Repo](https://github.com/robbiegreiner/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
