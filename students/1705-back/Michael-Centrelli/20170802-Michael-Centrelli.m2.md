@@ -10,6 +10,6 @@ I think my biggest growth area this module was TDD. At the end of Mod 1 I wasnt 
 
 ## B: Individual Work & Projects
 
-#Bike Share
+# Bike Share
 Repo URL: (https://github.com/JF-Lalonde/bike-share)
 Assignment: (https://github.com/turingschool/bike-share)
