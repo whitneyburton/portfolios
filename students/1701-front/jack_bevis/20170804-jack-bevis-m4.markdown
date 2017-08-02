@@ -104,7 +104,6 @@ The following set of points are distributed at the discretion of the instructor.
 
 ### Instructor Feedback: PASS
 
-
 ## Community Participation
 
 This module I was very excited to take on a leadership role in running the morning JavaScript review group Iron-FE. Iron-FE is a group that I've been participating in since mod 1 and I know how much I benefitted and learned from attending, especially in mod 2. As such, I was very exciting to take ownership of the group in a way and give back to the lower mods in a way, that I hope, was similar to all the help I received from 1608, 1610 and 1611. In leading the group, I also feel that my understanding of some fundamental JS aspects were solidified in my own mind, and I grew more comfortable teaching and public speaking. In addition to Iron-FE, I wrote my first blog post about contributing to open source code. While I know this was a requirement for a project, I found the process to be very encouraging, and I plan to write more in the weeks to come as a way of giving more to tech community as a whole. Finally, I was able to give back to the Turing community through the revamped posse structure. I was necessarily an official posse lead for Hamilton Posse, but I do feel that I moved into a kind of psuedo-mentor role for the members in the lower mods. I felt I was able to help them all through pairing and general talks about how to balance the demands of Turing.
