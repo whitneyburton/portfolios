@@ -17,6 +17,8 @@ My goal was to get a high level understanding of many advanced concepts, and to 
   
   [github](https://github.com/letakeane/mentr), [hosted site](https://turing-mentr.herokuapp.com/)
   
+  * Pass
+  
   House of Vars (blog post), 
   
   [post](https://medium.com/@john.binning17/getting-onboard-with-open-source-c9f8752a49c4) 
