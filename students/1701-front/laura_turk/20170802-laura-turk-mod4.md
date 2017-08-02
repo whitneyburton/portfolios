@@ -86,6 +86,8 @@ A madlib game for the ages. Romance abounds.
 
 * Chris, Anders, and I exchanged feedback in person
 
+* Final Score: passed
+
 ## D: Professional Skills
 Complete
 
