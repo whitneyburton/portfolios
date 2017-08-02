@@ -35,11 +35,11 @@ This is a project in which I built a game where the user guesses a number betwee
 
 Evaluation Comments: "Meets all of the expectation of the project."
 
-Evaluation Scores:
-Functional Expectations: Proficient
-Comp Recreation / Design: Advanced Beginner
-HTML: Proficient
-CSS: Advanced Beginner
+Evaluation Scores:  
+Functional Expectations: Proficient  
+Comp Recreation / Design: Advanced Beginner  
+HTML: Proficient  
+CSS: Advanced Beginner  
 JS/JQuery: Advanced Beginner
 
 
@@ -82,13 +82,13 @@ and delete bookmarks.  This is also the first project in which I utilized Git & 
 
 Evaluation comments: "Did a lot of different pairings. Exceptional functionality."
 
-Evalation Scores:
-Functional Expectations: Exceptional
-Comp Recreation / Design: Proficient
-HTML: Proficient
-CSS: Proficient
-JS/JQuery: Advanced Beginner
-Git & Github: Exceptional
+Evalation Scores:  
+Functional Expectations: Exceptional  
+Comp Recreation / Design: Proficient  
+HTML: Proficient  
+CSS: Proficient  
+JS/JQuery: Advanced Beginner  
+Git & Github: Exceptional  
 Pairing/Collaboration: Exceptional
 
 Feedback from project partner: 
@@ -112,7 +112,7 @@ HTML: Proficient
 CSS: Proficient  
 JS/JQuery: Proficient  
 Git & Github: Proficient  
-Pairing/Collaboration: Proficient  
+Pairing/Collaboration: Proficient
 
 Feedback from project partner: In Process.
 
@@ -127,17 +127,16 @@ A project in which we get assigned another classmate's IdeaBox codebase and we a
 and turn it into a to-do list.  This involved heavy refactoring and fixing broken functionality, then pivoting
 to a to-do list with features such as upvoting, filtering my importance and hiding read items.
 
-Evaluation Scores:
-Evaluation Scores:
-Data Types: Exceptional
-Conditional Logic: Proficient
-Functions & Scope: Exceptional
-Arrays: Proficient
-Objects & Prototpyes: Proficient
-DOM Manipulation: Proficient
-Style/Design : Exceptional
-Git & Github: Exceptional
-Pairing Collaboration: Exceptional
+Evaluation Scores:  
+Data Types: Exceptional  
+Conditional Logic: Proficient  
+Functions & Scope: Exceptional  
+Arrays: Proficient  
+Objects & Prototpyes: Proficient  
+DOM Manipulation: Proficient  
+Style/Design : Exceptional  
+Git & Github: Exceptional  
+Pairing Collaboration: Exceptional  
 
 Feedback from project partner: In Process.
 
