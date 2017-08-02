@@ -6,7 +6,7 @@ I set out to challenge myself, specifically with javascript and how to structure
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3/5
+* **A: End-of-Module Assessment**: 2/5
 * **B: Individual Work & Projects**: 4/5
 * **C: Group Work & Projects**: 4.5/5
 * **D: Professional Skills**: 3/5
