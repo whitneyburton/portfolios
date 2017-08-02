@@ -14,4 +14,6 @@ I think my biggest growth area this module was TDD. At the end of Mod 1 I wasnt 
 Repo URL: (https://github.com/JF-Lalonde/bike-share)
 Assignment: (https://github.com/turingschool/bike-share)
 
-Description: In this project you'll use Ruby, Sinatra, and Activerecord to build a site that analyzes bike share usage in San Francisco. This application will collect data in two ways: 1) through web forms allowing users to enter trip/station/weather information, and 2) by consuming CSV files with historical information for stations, trips, and weather. In addition to creating and storing this information for viewing at a later date, this application will provide a number of user dashboards with higher level analysis of trends in bike share usage.
+*Description:* In this project you'll use Ruby, Sinatra, and Activerecord to build a site that analyzes bike share usage in San Francisco. This application will collect data in two ways: 1) through web forms allowing users to enter trip/station/weather information, and 2) by consuming CSV files with historical information for stations, trips, and weather. In addition to creating and storing this information for viewing at a later date, this application will provide a number of user dashboards with higher level analysis of trends in bike share usage.
+
+Goal/Role: 
