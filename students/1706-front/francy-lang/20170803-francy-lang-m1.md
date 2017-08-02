@@ -38,17 +38,13 @@
 **Functional Expectations**
 * *Proficient: Application meets all of the expectations of phase three.*
 
-**COMP RECREATION / DESIGN**
-* *Proficient*
+**COMP RECREATION / DESIGN** *Proficient*
 
-**HTML**
-* *Proficient*
+**HTML** *Proficient*
 
-**CSS**
-*Proficient*
+**CSS** *Proficient*
 
-**JS/jQuery**
-*Proficient*
+**JS/jQuery** *Proficient*
 
 #### Static Comp Challenge #1
 
@@ -85,30 +81,21 @@
 **Evaluation Comments**
 * *Did a lot of different pairing styles*
 
-**Functional Expectations**
+**Functional Expectations** *Exceptional:You completed Phase Three and did something with Phase Four.*
 
-Exceptional:You completed Phase Three and did something with Phase Four.
+**COMP RECREATION / DESIGN** *Proficient*
 
-**COMP RECREATION / DESIGN**
-Proficient
+**HTML** *Proficient*
 
-**HTML**
-Proficient
+**CSS** *Proficient*
 
-**CSS**
-Proficient
+**JS/jQuery** *Advanced Beginner*
 
-**JS/jQuery**
-Advanced Beginner
+**GIT & GITHUB** *Proficient (betwixt proficient and exceptional)*
 
-**GIT & GITHUB**
-Proficient (betwixt proficient and exceptional)
+**Pairing/Collaboration** *Exceptional*
 
-**Pairing/Collaboration**
-Exceptional
-
-**Surprise and Delight**
-Hot Fire & * Magic
+**Surprise and Delight** *Hot Fire & * Magic*
 
 
 #### IdeaBox
@@ -118,34 +105,19 @@ Hot Fire & * Magic
 
 (description)
 
-**Functional Expectations**
-* *Proficient	The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals.
+**Functional Expectations** *Proficient	The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals.*
 
-HTML
+**HTML** 
 
-Accessibility
+**Accessibility** *Novice	Knows what a semantic tag is and leverages the HTML5 structural tags to organize the content of their markup.*
 
-Novice	Knows what a semantic tag is and leverages the HTML5 structural tags to organize the content of their markup.
+**Style** *Proficient	Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices.*
 
-Style
+**CSS** **Structure of Code** *Proficient	Leverages cascading styles and CSS specificity rules to create more complex targeting of elements in order to reduce, reuse, share styles across elements. Organizes properties within rules based upon industry standard principles of writing consistent, idiomatic CSS.*
 
-Proficient	Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices.
+**Implementation** *Proficient	Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout.*
 
-CSS
-
-Structure of Code
-
-Proficient	Leverages cascading styles and CSS specificity rules to create more complex targeting of elements in order to reduce, reuse, share styles across elements. Organizes properties within rules based upon industry standard principles of writing consistent, idiomatic CSS.
-
-Implementation
-
-Proficient	Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout.
-
-JAVASCRIPT
-
-Data Types
-
-Exceptional	Can assess and implement data type decisions for implementation based on increasing performance, shoring up code to be concise/clean, and composing for future maintainability.
+**JAVASCRIPT** **Data Types** *Exceptional	Can assess and implement data type decisions for implementation based on increasing performance, shoring up code to be concise/clean, and composing for future maintainability.*
 
 Conditional Logic
 
