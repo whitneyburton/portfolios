@@ -48,7 +48,7 @@ MadTalk is a game that brings more shenanigans back to the MadLibs genre. MadTal
 * [GitHub URL](https://github.com/lauraturk/MadTalk)
 * [Original Assignment](http://frontend.turing.io/projects/capstone.html)
 
-Scores TBD
+Score: Pass
 
 #### (Jet Fuel)
 SWApi Box was a project which focused on displaying Star Wars data based on categories. It focused on doing several api calls to get accurate data. User's could click cards from varying categories
@@ -102,14 +102,13 @@ Feedback about experience to Posse Colleagues:
 - Find a Turing staff member that can act as a mentor and leverage that connection. 
 - React is freakin' sweet.
 - Don't be afraid to reach out to opposite programs for help and discussion.
-- Cold Outreach sucks, but lukewarm outreach is really nice. Find people you know or have met previously in a coding environment and see where those connections can take you. 
+- Cold Outreach sucks, but lukewarm outreach is really nice. Find people you know or have met previously in a coding environment or a tech environment and see where those connections can take you. 
 
 Feedback to Laura Turk on Jet Fuel:
 - Enjoyable to work with.
 - Glad second time around went much smoother.
 - Personality clash when stress is high: figure out a way to calm down self or other parties. 
 - Thanks for honesty about what I can do to avoid the spiral. 
-
 
 ------------------
 
