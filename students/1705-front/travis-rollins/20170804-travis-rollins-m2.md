@@ -1,22 +1,27 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Travis Rollins - M2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module I wanted to get a better grasp of Javascript and work on writing cleaner code.  By the end of the module, I felt like I had a really good understanding of Javascript and knowing how to refactor my code.  I also wanted to get better at Object-Oriented Programming and Test-Driven-Development.  I feel much more confident in both of these fields after completing the Game Time project using HTML canvas and building the Weatherly project using React. This module was also a great chance to keep building on my skills with teamwork and adapting to different work styles.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+| Assessment                         | Score |
+|:---------------------------------- |------:|
+| End-of-Module Assessment           |  pass |
+| Weathrly                           |  pass |
+
+-----------------------
 
 
 ## B: Individual Work & Projects
