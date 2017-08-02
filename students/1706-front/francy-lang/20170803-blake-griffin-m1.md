@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Francy Lang - M1 1706 Portfolio
 
 ## Areas of Emphasis
 
@@ -23,10 +23,10 @@
 
 (Intro)
 
-#### (Project Name)
+#### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/francylang/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
@@ -40,10 +40,23 @@
 
 (Intro)
 
-#### (Project Name)
+#### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/robbiegreiner/linked-list)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### IdeaBox
+
+* [GitHub URL](https://github.com/francylang/idea-box)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 (description)
 
