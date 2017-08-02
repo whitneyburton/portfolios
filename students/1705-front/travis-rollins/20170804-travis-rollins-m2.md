@@ -26,18 +26,69 @@ This module I wanted to get a better grasp of Javascript and work on writing cle
 
 ## B: Individual Work & Projects
 
-(Intro)
+I completed two individual projects this module including:
+  * Sorting Suite
+  * Complete-Me
+  
+The Sorting Suite project was a great chance for me to practice my Javascript skills by creating different sorting algorithms.  Complete-Me was another great chance for me to practice Javascript, ES6, and Object-Oriented-Programming by creating a Trie data structure using count, suggest, insert, populate, and select methods to auto-complete words from a dictionary.
 
-#### (Project Name)
+#### Sorting Suite
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/Kalikoze/Sorting-Suite)
+* [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
-(description)
+The Sorting Suite project includes different sorting algorithms including:
+  * Bubble Sort
+  * Insertion Sort
+  * Merge Sort
+  * Quick Sort
 
-(evaluation comments)
+## Instructor: Nathaniel
+## Optional Notes:
 
-(evaluation scores)
+PASS
+
+Student was able to successfuly explain how each of the algorithms worked and what was going behind the scenes when using recursion.
+
+#### Complete Me
+
+* [GitHub URL](https://github.com/Kalikoze/complete-me)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
+
+Complete-Me is Trie data structure implementation using count, suggest, insert, populate, and select methods to auto-complete words from a dictionary and append them to the DOM.
+
+## Instructor: Limbo
+## Optional Notes:
+
+* More testing! Test the simplest things, edge cases, etc.
+  * Break out tests into step-by-step assertions
+* Be consistent (i.e. for loops and forEach...)
+
+# Evaluation Rubric
+
+The project will be assessed with the following rubric:
+
+## Fundamental JavaScript & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+
+## Test-Driven Development
+
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+## Encapsulation / Breaking Logic into Components
+
+3.5: Application effectively breaks logical components apart but breaks the principle of SRP
+
+## Functional Expectations
+
+4: Application meets all requirements, and implements one extension properly.
+
+## Code Sanitation
+
+The output from ESLint shows…
+
+4 - Zero complaints
 
 ## C: Group Work & Projects
 
