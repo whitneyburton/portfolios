@@ -46,21 +46,21 @@ JS/JQuery: Advanced Beginner
 #### Static-Comp 1
 
 
-* [Live URL](https://www.robbieg.io/static-comp-1)
+* [www.robbieg.io/static-comp-1](http://www.robbieg.io/static-comp-1)
 * [GitHub Repo](https://github.com/robbiegreiner/rg-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 
 #### Static-Comp 2
 
-* [Live URL](https://www.robbieg.io/static-comp-2)
+* [www.robbieg.io/static-comp-3](http://www.robbieg.io/static-comp-2)
 * [GitHub Repo](https://github.com/robbiegreiner/rg-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
 
 #### Static-Comp 3
 
-* [Live URL](https://www.robbieg.io/static-comp-3)
+* [www.robbieg.io/static-comp-3](http://www.robbieg.io/static-comp-3)
 * [GitHub Repo](http://frontend.turing.io/projects/m1-static-comp-3.html)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
@@ -73,7 +73,7 @@ These projects were completed with an assigned classmate.
 
 #### Linked List
 
-* [Live URL](https://www.robbieg.io/linked-list)
+* [www.robbieg.io/linked-list](http://www.robbieg.io/linked-list)
 * [GitHub Repo](https://github.com/robbiegreiner/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
@@ -98,7 +98,7 @@ Feedback from project partner:
 
 #### Ideabox
 
-* [Live URL](https://www.robbieg.io/idea-box)
+* [www.robbieg.io/idea-box](http://www.robbieg.io/idea-box)
 * [GitHub Repo](https://github.com/robbiegreiner/Idea-Box-1706)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
@@ -119,7 +119,7 @@ Feedback from project partner: In Process.
 
 #### 2DoBox Pivot
 
-* [Live URL](https://www.robbieg.io/2dobox)
+* [www.robbieg.io/2dobox](http://www.robbieg.io/2dobox)
 * [GitHub Repo](https://github.com/robbiegreiner/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
