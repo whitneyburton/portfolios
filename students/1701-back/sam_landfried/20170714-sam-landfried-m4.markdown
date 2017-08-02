@@ -63,6 +63,8 @@ I learned the HTML Drag and Drop API, React and AWS EC2.
 ## Open Source Contribution
 ### 
 
+* [My blog post post]
+* [Bug I reproduced and confirmed](https://bugs.chromium.org/p/chromium/issues/detail?id=751642&can=2&start=0&num=100&q=&colspec=ID%20Pri%20M%20Stars%20ReleaseBlock%20Component%20Status%20Owner%20Summary%20OS%20Modified&groupby=&sort=)
 * [Documentation PR to Turing](https://github.com/turingschool/challenges/pull/44)
 * [I made a PR to the Faker gem](https://github.com/stympy/faker/pull/989/commits/78051fce0ec6044546b10098a15be7a886936ac4). Faker generates fake data to use in your seed data. (So you can give all your test users names from Game of Thrones). Someone requested that each Faker attribute be given a count in the documentation. So, when you look up Rick and Morty quotes, you can see that there are 75 of them. This is complicated by localizations. The number of elements in each Faker category are specific to the language Faker is configured to use, and there's something like 30 of them. I wrote a script to parse the YML files containing the Faker library, count the elements from each localization, then write the count to the doc files. Language processing, I learned, is a PAIN. Luckily, it's easy to port over the Rails modules that give you such handy methods like `pluralize`. 
 
