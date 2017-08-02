@@ -53,9 +53,10 @@ This has been perhaps the most valuable project of the module. Coming in to brow
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/Benjaminpjacobs/rails-engine) | [Cloney 1 Repo](https://github.com/Benjaminpjacobs/trail-up) | [Cloney 2 Repo](https://github.com/Benjaminpjacobs/corkboard) |
 | **Heroku** | [Rales](https://sales-engine-api.herokuapp.com/apidocs/index.html) | [Cloney 1](https://trail-up.herokuapp.com/) | [Cloney 2](https://corkboard-services.herokuapp.com/) |
-| **Functional/Client Expectations** | 4 | 4 | X |
-| **TDD** | 4 | 4 | X |
-| **Code Organization/Quality** | 4 | 4 | X |
+| **Functional/Client Expectations** | 4 | 4 | 4 |
+| **TDD** | 4 | 4 | 3 |
+| **Code Organization/Quality** | 4 | 4 | 4 |
+| **GithubPractice** | N/A | N/A | 3 |
 | **API Design** | 4 | N/A | N/A |
 | **Queries** | 4 | N/A | N/A |
 
