@@ -80,6 +80,9 @@ In my group projects I had a chance to work on code with my classmates, which le
 
 The goal of this project was to begin working with Javascipt functionality while manipulating the DOM to create a simple game out of guessing numbers. 
 
+##### Evaluator
+Brenna
+
 ##### Notes/What To Work On:
 
 HTML indentation
@@ -106,6 +109,146 @@ Proficient
 ##### Surprise and Delight (reminder: have fun!)
 
 Hot Fire - JOURNEY
+
+#### Number Guesser
+
+* https://github.com/nicktu12/Linked-List
+* http://frontend.turing.io/projects/linked-list.html
+
+The goal of this project continue working with complex Javascript functionality and more complex DOM manipulation.
+
+##### Evaluator
+Louisa
+
+##### Notes/What To Work On:
+
+Feedback given in person, general overview:
+
+Great work on GitHub
+code in a great place to refactor!
+HTML and CSS needs polish
+JS seemed to have them most care put into it
+##### Functional Expectations
+
+Novice: Application meets all of the functional expectations in Phase One.
+Advanced Be: Application meets all of the functional expectations in Phase Two.
+Proficient: Application meets all of the functional expectations in Phase Three.
+Exceptional: You completed Phase Three and did something with Phase Four.
+##### COMP RECREATION / DESIGN
+
+Proficient
+##### HTML
+
+Advanced Beginner
+##### CSS
+
+Advanced Beginner
+##### JS/jQuery
+
+Proficient
+##### GIT & GITHUB
+
+Proficient
+##### Pairing/Collaboration
+
+Proficient
+##### Surprise and Delight (optional category, but reminder: have fun!)
+
+none
+
+#### IdeaBox
+
+* https://github.com/nicktu12/Ideabox
+* http://frontend.turing.io/projects/ideabox.html
+
+The goal of this project was to build on Javascript and CSS skills whil implementing local storage functionality.
+
+##### Evaluator
+Brenna
+
+##### No Scores
+But we killed it. 
+
+#### 2DoBox Pivot
+
+* https://github.com/nicktu12/2DO-box
+* http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
+
+The goal of this project was to pivot to slightly different functionality while refactoring someone else's code.
+
+##### Functional Expectations
+
+Only missing new feature is the 10 most recent Todos
+
+Proficient
+
+##### HTML
+
+###### Accessibility
+
+Proficient
+###### Style
+
+Proficient
+
+##### CSS
+
+###### Structure of Code
+
+Proficient
+###### Implementation
+
+Proficient
+
+##### JAVASCRIPT
+
+###### Data Types
+
+Proficient to Exceptional
+###### Conditional Logic
+
+Advanced Beginner & * Proficient
+###### Functions & Scope
+
+Advanced Beginner & * Proficient
+###### Arrays
+
+Exceptional
+###### Objects & Prototypes
+
+Exceptional
+###### DOM Manipulation
+
+Advanced Beginner & * Proficient
+But mostly because matching style of project
+
+###### Style
+
+Advanced Beginner
+
+##### GIT & GITHUB
+
+###### Git
+
+Advanced Beginner
+###### Github
+
+Proficient to Exceptional
+
+##### DESIGN
+
+###### Design Concepts
+
+Advanced Beginner
+Mostly due to time and priority not ability levels.
+
+
+##### PAIRING
+
+###### Collaboration
+
+Exceptional
+
 
 ## D: Professional Skills
 (Intro)
