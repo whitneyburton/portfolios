@@ -10,7 +10,7 @@ foundation in javascript, HTML and CSS to set me up for a successful mod 2.  I a
 
 * **A: End-of-Module Assessment**: 4/5
 * **B: Individual Work & Projects**: 4/5
-* **C: Group Work & Projects**: 5/5
+* **C: Group Work & Projects**: 4/5
 * **D: Professional Skills**: 4/5
 * **E: Community Participation**: 4/5
 
