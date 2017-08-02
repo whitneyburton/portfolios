@@ -141,7 +141,9 @@ The output from eslint shows…
 
 * 4 - Zero complaints
 
-(feedback to me)
+### Feedback
+
+Travis was extremely hard-working and motivated during this project.  Whenever we were stuck on something in our project, Travis would commit to figuring out how to solve the problem.  He always took the time to explain how his code worked and was always open to new ideas. His patience and drive helped keep the team inspired throughout the project. 
 
 ## D: Professional Skills
 (Intro)
