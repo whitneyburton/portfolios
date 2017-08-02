@@ -51,8 +51,8 @@ While the overall feedback was mostly positive, there were plenty of small thing
 
 #### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/AdamMescher/number-guesser/blob/master/README.md)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
@@ -64,8 +64,8 @@ While the overall feedback was mostly positive, there were plenty of small thing
 
 #### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/AdamMescher/linked-list)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 (description)
 
