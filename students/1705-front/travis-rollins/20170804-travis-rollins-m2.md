@@ -32,7 +32,7 @@ I completed two individual projects this module including:
   
 The Sorting Suite project was a great chance for me to practice my Javascript skills by creating different sorting algorithms.  Complete-Me was another great chance for me to practice Javascript, ES6, and Object-Oriented-Programming by creating a Trie data structure using count, suggest, insert, populate, and select methods to auto-complete words from a dictionary.
 
-#### Sorting Suite
+# Sorting Suite
 
 * [GitHub URL](https://github.com/Kalikoze/Sorting-Suite)
 * [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
@@ -50,7 +50,7 @@ PASS
 
 Student was able to successfuly explain how each of the algorithms worked and what was going behind the scenes when using recursion.
 
-#### Complete Me
+# Complete Me
 
 * [GitHub URL](https://github.com/Kalikoze/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
