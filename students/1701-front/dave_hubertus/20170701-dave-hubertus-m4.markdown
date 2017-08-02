@@ -81,6 +81,8 @@ Gear Up Feedback -
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1706-inning/group_two.md)
 
+* Gear up was good experience in public speaking and allowed myself to share intrest and knowledge on a topic I enjoyed. I found working with my group during our gear up session enjoyable as it was nice to actually hang out with some mod 4 BE.
+
 ### Playing a Part
 
 I have participated in most, if not all events, that have been required of Turing students. Additionaly I have participated in Iron Fe on a regular basis since the end of Mod 1. 
