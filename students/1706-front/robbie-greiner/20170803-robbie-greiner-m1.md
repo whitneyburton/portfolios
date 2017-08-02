@@ -105,14 +105,14 @@ Feedback from project partner:
 An application to create Idea cards and store them in local storage utilizing JSON. Items were to be 
 searchable.  Items were to persist and re-appear on page load.
 
-Evaluation Scores:
-Functional Expectations: Exceptional
-Comp Recreation / Design: Proficient
-HTML: Proficient
-CSS: Proficient
-JS/JQuery: Proficient
-Git & Github: Proficient
-Pairing/Collaboration: Proficient
+Evaluation Scores:  
+Functional Expectations: Exceptional  
+Comp Recreation / Design: Proficient  
+HTML: Proficient  
+CSS: Proficient  
+JS/JQuery: Proficient  
+Git & Github: Proficient  
+Pairing/Collaboration: Proficient  
 
 Feedback from project partner: In Process.
 
