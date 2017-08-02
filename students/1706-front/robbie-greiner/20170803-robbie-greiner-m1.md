@@ -155,6 +155,14 @@ in the tech industry.  I was definitely aware of these issues before watching th
 shed a greater light on the disparity of men and women in the tech world.  I am much more aware and empathetic 
 towards women and the hurdles they face in the tech industry.
 
+#### Coding Schools or Coding Fools
+
+In this session we grouped with other students and discussed the current state of coding schools and how 
+they are seen versus traditional education.  This was a great session because it allowed us to discuss
+how we see coding schools and how we all come from different educational backgrounds. This is definitely
+an interesting topic since very prominet coding schools seem to be closing as of lately.  We talked about
+how a coding school's financial model might be best as a non-profit.
+
 ## E: Community Participation
 
 ### Playing a Part
