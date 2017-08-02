@@ -44,9 +44,9 @@
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/iamchrissmith/reddit-api) | [Cloney 1 Repo](https://github.com/iamchrissmith/uncorked) | [Cloney 2 Repo](https://github.com/iamchrissmith/air_bnb_clone) |
 | **Heroku** | [Rales](https://) | [Cloney 1](https://desolate-fjord-36516.herokuapp.com/) | [Cloney 2](https://airbnb-me-a-river.herokuapp.com/) |
-| **Functional/Client Expectations** | 4 | 4 | X |
-| **TDD** | 4 | 3 | X |
-| **Code Organization/Quality** | 4 | 3 | X |
+| **Functional/Client Expectations** | 4 | 4 | 4 |
+| **TDD** | 4 | 3 | 4 |
+| **Code Organization/Quality** | 4 | 3 | 4 |
 | **API Design** | 4 | N/A | N/A |
 | **Queries** | 4 | N/A | N/A |
 
