@@ -8,7 +8,7 @@
   * Professional Development: 3.5
   * Feedback & Community Participation: 4; See below.
   
-* **Individual Assessment:** - (Pass/Fail)
+* **Individual Assessment:** - (Pass)
 * **Required Projects**
     * [Capstone Project](https://github.com/letakeane/mentr)
     * [House of Vars (blog post)](https://medium.com/@letakeane/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86)
