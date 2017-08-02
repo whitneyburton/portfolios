@@ -60,8 +60,6 @@ While the overall feedback was mostly positive, there were plenty of small thing
 
 (evaluation scores)
 
-(feedback to me)
-
 #### Linked List
 
 * [GitHub URL](https://github.com/AdamMescher/linked-list)
@@ -72,8 +70,6 @@ While the overall feedback was mostly positive, there were plenty of small thing
 (evaluation comments)
 
 (evaluation scores)
-
-(feedback to me)
 
 #### IdeaBox
 
@@ -86,8 +82,6 @@ While the overall feedback was mostly positive, there were plenty of small thing
 
 (evaluation scores)
 
-(feedback to me)
-
 #### 2DoBoxPivot
 
 * [GitHub URL](https://github.com/AdamMescher/2DoBox-Pivot)
@@ -98,8 +92,6 @@ While the overall feedback was mostly positive, there were plenty of small thing
 (evaluation comments)
 
 (evaluation scores)
-
-(feedback to me)
 
 ## D: Professional Skills
 (Intro)
