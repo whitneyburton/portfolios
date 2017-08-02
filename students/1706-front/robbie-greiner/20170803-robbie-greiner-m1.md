@@ -23,7 +23,7 @@ foundation in javascript, HTML and CSS to set me up for a successful mod 2.  I a
 
 ## B: Individual Work & Projects
 
-This includes my first project, Number Guesser, along with Static-Comps 1, 2 and 3.
+These projects were assigned and worked on individually outside of class time.  
 
 #### Number Guesser
 
@@ -44,7 +44,6 @@ JS/JQuery: Advanced Beginner
 
 
 #### Static-Comp 1
-
 
 * [www.robbieg.io/static-comp-1](http://www.robbieg.io/static-comp-1)
 * [GitHub Repo](https://github.com/robbiegreiner/rg-comp-challenge-1)
@@ -69,7 +68,9 @@ JS/JQuery: Advanced Beginner
 
 ### Projects
 
-These projects were completed with an assigned classmate.
+These projects were completed with an assigned classmate.  Usually projects were assigned on a Friday and 
+due the following Thursday.  The majority of my work during these projects was done together directly with 
+my partner, but we also utilized working remotely on feature by ourselves.
 
 #### Linked List
 
