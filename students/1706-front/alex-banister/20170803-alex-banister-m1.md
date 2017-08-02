@@ -36,6 +36,21 @@ Create a game to allow a user to guess a random number.
 (evaluation scores)
 ?
 
+#### Static Comp 1
+
+* [GitHub URL](https://github.com/alexbanister/ab-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+#### Static Comp 2
+
+* [GitHub URL](https://github.com/alexbanister/ab-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+#### Static Comp 3
+
+* [GitHub URL](https://github.com/alexbanister/ab-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
 ## C: Group Work & Projects
 
 ### Projects
@@ -145,62 +160,80 @@ Refactor an Idea Box project to clean the code, build out missing functionality 
 ###### Functional Expectations
 * Proficient
 
-### HTML
-## Accessibility
+#### HTML
+##### Accessibility
 * Exceptional
-## Style
-* Proficient 
-## CSS
-## Structure of Code
-* Proficient
-## Implementation
+
+##### Style
 * Proficient
 
-## JAVASCRIPT
-## Data Types
-* Exceptional
-## Conditional Logic
-* Exceptional
-## Functions & Scope
-* Exceptional
-## Arrays
-* Exceptional
-## Objects & Prototypes
-* Exceptional
-## DOM Manipulation
-* Exceptional
-## Style
+#### CSS
+##### Structure of Code
+* Proficient
+
+##### Implementation
+* Proficient
+
+#### JAVASCRIPT
+##### Data Types
 * Exceptional
 
-## GIT & GITHUB
-## Git
-* Exceptional
-## Github
+##### Conditional Logic
 * Exceptional
 
-## DESIGN
-## Design Concepts
+##### Functions & Scope
+* Exceptional
+
+##### Arrays
+* Exceptional
+
+##### Objects & Prototypes
+* Exceptional
+
+##### DOM Manipulation
+* Exceptional
+
+##### Style
+* Exceptional
+
+#### GIT & GITHUB
+##### Git
+* Exceptional
+
+##### Github
+* Exceptional
+
+#### DESIGN
+##### Design Concepts
 * Advanced Beginner
 
-## PAIRING
-## Collaboration
+#### PAIRING
+##### Collaboration
 * Proficient
 
 ## D: Professional Skills
-(Intro)
+In general I haven't enjoyed the gear ups during but I have seen the value in them and some have lead to some interesting conversations.
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
+This was a new concept for me, at least new in specifically identifying it and giving it name. I think I've usually done a good job of staying in a growth mindset but do have my moments. Giving it a name and having discussions about it have given me something to think about and a metric to watch myself against.
 
-* [GitHub URL]()
+#### Working Styles
+I'm not sure why this gear up is called working styles. It seemed to have way more to do with personality which influences working styles but feels like it's own seperate thing in most aspects. That being said the similarities and differences of introverts and extroverts is something I spend a lot of time thinking and reading about. Some of the conversations were very interesting to see how other people experience the world in very similar ways and how others have a much different experience.
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Telling your Story
+* [GitHub URL](https://gist.github.com/alexbanister/a014afa4eb107d7daaa6c696685c2ede)
+
+#### Community Gear Up - Attention Economy
+I wasn't familar with the idea of the attention economy but it seemed to make a lot of sense from the beginning. I wasn't thrilled with the conversations we had around the idea. The general perception seemed to be more about how we combat this verse how we work with in it and lacked more personal responsiblity than I thought was needed.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Mostly I've just been generally awesome. 
+
+I haven't been very involved with the community at large but tried to be as available and helpful and supportive within the cohort.
 
 ------------------
 
