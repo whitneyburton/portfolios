@@ -10,7 +10,7 @@
   
 * **Individual Assessment:** - (Pass)
 * **Required Projects**
-    * [Capstone Project](https://github.com/letakeane/mentr)
+    * [Capstone Project](https://github.com/letakeane/mentr): Pass
     * [House of Vars (blog post)](https://medium.com/@letakeane/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86)
     * [Jet Fuel](https://github.com/JohnBinning/jetFuel): 130/150
     * [BYOB](https://github.com/letakeane/faceEmotionAPI): 128/150
