@@ -1,4 +1,4 @@
-# (Your Name) - M2 Portfolio
+# Will Ratterman - M2 Portfolio
 
 -----------------------
 
@@ -6,12 +6,12 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Attain proficiency in Ruby on Rails Development
+Be more comfortable pursuing independent learning for programming related topics
 
 ## Areas of Growth
 
-(What did you struggle with most this module?)
-(What areas did you grow in most this module?)
+I felt that this mod was actually a pretty solid module for me. I felt independent with my learning, and most of my questions this module were more related to overall concepts and potential dev opportunities rather than dependency to understand the topic
 
 -----------------------
 
@@ -21,8 +21,9 @@
 
 #### Bike-Share
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL] https://github.com/JF-Lalonde/bike-share/
+* [Original Assignment] https://github.com/turingschool/bike-share
+
 
 (description)
 
@@ -56,8 +57,32 @@
 
 ## C: Final Assessments
 
-(how did you do on written and timed independent?)
-(was this a representation of your best work?)
+Timed:
+  - 1. Workflow
+  * 4: Developer consistently breaks complex problems into small steps with logical sequence that is evident from git history
+
+  - 2. Feature Completeness
+  * 3: Developer is able to implement all functionality and all tests pass
+
+  - 3. ActiveRecord Syntax and Style
+  * 4: Developer consistently establishes and utilizes ActiveRecord methods for effective and efficient results
+
+  - 4. Rails Style / MVC
+  * 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+  - 5. Testing
+  * 4: Developer understands errors produced by tests, and uses them to drive development effectively
+
+Written:
+  - Comprehension:
+  *   4: Developer demonstrates abundant comprehension of all concepts covered
+
+  - Technical Communication
+  *   4: Developer’s responses are exceptionally clear and complete
+
+
+Was this a representation of your best work?
+- Pretty much
 
 -----------------------
 
@@ -67,7 +92,7 @@
 
 ### Self-Assessed Outcome
 
-(PROMOTED, PROVISIONAL, RETAINED, or EXCUSED)
+PROMOTED
 
 ------------------
 
