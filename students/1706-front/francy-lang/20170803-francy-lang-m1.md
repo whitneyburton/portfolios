@@ -35,15 +35,19 @@
 * *Cleaning up comments*
 
 **Functional Expectations**
-Proficient: Application meets all of the expectations of phase three.
+* *Proficient: Application meets all of the expectations of phase three.*
+
 **COMP RECREATION / DESIGN**
-Proficient
+* *Proficient*
+
 **HTML**
-Proficient
+* *Proficient*
+
 **CSS**
-Proficient
+*Proficient*
+
 **JS/jQuery**
-Proficient
+*Proficient*
 
 #### Static Comp Challenge #1
 
