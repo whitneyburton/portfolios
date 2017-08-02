@@ -1,4 +1,4 @@
-# Adam Carpenter - (M3) Portfolio
+# Chris Jordan - (M3) Portfolio
 
 ## Areas of Emphasis
 
