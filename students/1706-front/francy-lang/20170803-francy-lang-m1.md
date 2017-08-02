@@ -202,8 +202,10 @@
 ## E: Community Participation
 
 ### Playing a Part
+
 *As a member of the Student Advisory Board, I have had the privilige of digging deeper into what it takes to create a successful and sustainable student culture at Turing. I have worked to integrate myself into the overall community. Reaching out to students in mod 2, as well as other mods, has allowed me to grow my Turing family and strengthen my support network.
 I work daily to maintain a growth mindset and effectively live the turing values around social justice and inclusion. It is important to me to be in a place with a strong and inclusive culture. I intend to continue doing my part to support a community that values 'culture adds' and doesn't just look for 'culture fits.'*
+
 ------------------
 
 ## Final Review
