@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Robbie Greiner - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -27,7 +27,7 @@ This includes my first project, Number Guesser, along with Static-Comps 1, 2 and
 
 #### Number Guesser
 
-* [Live URL](https://www.robbieg.io/number-guesser)
+* [www.robbieg.io/number-guesser](https://www.robbieg.io/number-guesser)
 * [GitHub Repo](https://github.com/robbiegreiner/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
