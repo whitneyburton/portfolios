@@ -32,7 +32,7 @@ During the last six weeks,
 
 While the overall feedback was mostly positive, there were plenty of small things that needed to be addressed.
 
- #### (Static Comp Challenge 3)
+ #### Static Comp Challenge 3
 
 * [GitHub URL](https://github.com/AdamMescher/am-comp-challenge-3)
 * [Original Assignment]()
