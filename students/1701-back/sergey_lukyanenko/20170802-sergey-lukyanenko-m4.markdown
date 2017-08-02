@@ -11,7 +11,7 @@ What do you want to focus on this inning? What do you hope to accomplish by grad
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
 * pass
 * What was your biggest technical challenge?
-- The biggest technical challenge was in part 5 to make jQuery and Ajax to build result.
+** The biggest technical challenge was in part 5 to make jQuery and Ajax to build result.
 * What did you like the most about the challenge?
 - It's challenging but I learnt a lot of new stuff and had a good practice experience.
 * How did you solve that challenge? What was your approach?
