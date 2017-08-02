@@ -41,3 +41,11 @@ Assignment: (http://backend.turing.io/module2/projects/little_shop)
 **Reflection:** This project went really well for me and I think for our group as a whole. I think everyone clicked and worked well together. We were able to come together and pair off for certain things and then split for remote work with no issues. Everyone took on similiar amounts of work and really worked hard to make sure we met our goals. I feel proud of the finished product and will feel confident showing the project to others. 
 
 ## C: Final Assessments
+
+I felt that I did okay on the timed assessment. I say that because early on I made two mistakes which really cut my time short. First I created a test for creating a tag which I didn't need to do. It wasnt until after I had the test working that I realized this. The second mistake was not realizing that I didn't have the shoulda-matches gem. I probably should have written my model tests with RSpec instead. I think after those mistakes I did some good work. I think had I had more time I would hve gotten the last method for average salary. I was just about there using active record before time ended. Overall I was dissapointed with my early mistakes but felt good enough about the challenge that I could finish with the time I had lost. And I did go back and get the last method after time had ended. 
+
+I felt pretty good about the written assessment. I found that I knew pretty much every answer and felt like I could explain it well enough. I did mix up two of the verbs on my routes which I realized after I had handed it in. Overall I came out of the test feeling good about what I got out of this mod. 
+
+### Self-Assessed Outcome
+
+Promoted. 
