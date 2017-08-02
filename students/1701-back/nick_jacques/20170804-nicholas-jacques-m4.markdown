@@ -32,12 +32,7 @@ Having learned more about front-end programming since the completion of this pro
 
 ## Capstone Project
 
-Include a reflection answering the following questions:
-
-* What was your biggest technical challenge?
-* How did you solve that challenge? What was your approach?
-* What did you like the most about the challenge?
-* What are three technical concepts you learned during this project?
+My capstone project was to build an app that helps user track their car maintenance. It uses the Edmunds API to find vehicle info by their VIN and creates custom maintenance schedules for that vehicle. The hardest challenge that I have faced so far in this project to build a maintenance schedule from the maintenance data provided by Edmunds. The maintence data provided by Edmunds is not in a very friendly format. I had to build an algorithm that iterates over the data and creates maintence milestones that each contain the correct service items based on their interval mileage.
 
 ## Feedback
 
