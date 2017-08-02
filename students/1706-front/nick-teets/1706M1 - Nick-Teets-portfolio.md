@@ -251,20 +251,45 @@ Exceptional
 
 
 ## D: Professional Skills
-(Intro)
+
+I realized a lot of the skills I possess from my StrengthsFinder results. While I agreed that I possessed those skills, I began to recognize them through my paired coding projects, and where some of my strengths and weaknesses lie. I have also begun to think about my identity as a developer and my skills as a storyteller to tell my personal journey to web development. 
 
 ### Gear Up
-#### (Session Name)
+#### Mod 1 Gear Up: Growth Mindset
 
-* [GitHub URL]()
+* https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/Growth_Mindset_Facilitator_Guide.markdown
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This Gear Up taught me the importance of growth mindset. I've always felt that I am opened minded and possess a growth mindset, and this Gear Up confirmed these things for me. 
+
+#### M1 Gear Up: Working Styles
+
+* https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown
+
+This Gear Up made me realize that I am more of an extrovert in the Turing enviorment, when in the past I've been very introverted. It was informative to learn about the different personality styles, and how to respect each others' working styles in a way that compliments your own. 
+
+#### Gear Up: Story Telling and Strengths
+
+* https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_retrospective.markdown
+
+This Gear Up taught me the skills to tell my story and establish my identity as a developer. I was able to practice talking about myself in a professional enviornment, and hope to continue to practice these storytelling techniques through my time at Turing. 
+
+#### 	Gear Up: Debugging the Gender Gap
+
+* https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md
+
+This Gear Up reinforced the knowledge of the gender gap in STEM fields. It is very unfortunate that some people do not feel comfortable in the places that they work. It's my job to stand up for those people whose voices are less heard and to fight againt injustices where I live and work. 
+
+#### 	Community Gear Up: How to hack an election
+
+* https://gist.github.com/caward12/9b45791a4645995522b4469ab4e53ed9
+
+I was very interested in this subject due to the outcome of the election. We looked at some technologies that are contributing to spin and fake news. Addtionally, we talked about the moral debate of censoring fake news versus freedom of speech.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I enjoyed exploring the different communities within Turing, including the runners group, game time group and iron-fe group. Additionally, I was able to give back to turing by helping teach my classmates during paired projects and the week before pentathalon. 
 
 ------------------
 
