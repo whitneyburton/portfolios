@@ -49,7 +49,7 @@ A Turing student values professional growth and seeks opportunities to continuou
 * 1: Student puts minimal effort into deliverable(s), does not follow directions, or is off topic.
 * 0: Student does not complete the deliverable(s).
 
-## E: Feedback & Community Participation
+## E: Community Participation
 
 A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
@@ -63,7 +63,7 @@ to shape their own character and behavior. They have a significant positive
 positive impact on the learning and spirit of the people around them.
 * 3: Student consistently delivers meaningful feedback for peers and implements
 strategies to improve themselves in response to feedback. They participate in required
-activities and does at least one or two above and beyond suports of the community.
+activities and does at least one or two above and beyond supports of the community.
 * 2: Student gives meaningful impact to peers as well as being aware of themes
 in the feedback they receive. They participate in most required community activities
 such as demos, lightning talks, improv, but does not do anything else of

@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This mod, I tried to concentrate my attention on activities that would best prepare me for the job hunt. This involved networking and developing my proffesional branding in addition to applying to jobs. 
+This mod, I tried to concentrate my attention on activities that would best prepare me for the job hunt. This involved networking and developing my proffesional branding in addition to applying to jobs.
 
 ## Self-Assessment
 
@@ -25,16 +25,16 @@ This mod, I tried to concentrate my attention on activities that would best prep
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* We built an API to serve business analytics.
 >* I need to work on my ActiveRecord skills.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
->* My group cloned DropBox. 
+> **[Cloney Island Sprint 1](https://)**
+>* My group cloned DropBox.
 >* This was the first very functional app I have built. It was great to integrate it with AWS and build a complicated schema that effectively replicated DropBox functionality.
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://)**
 >* I extracted AirBnB's messaging into an external service hosted on Digital Ocean.
 >* I got to work with a Linux VPS for the first time, which was a good learning experience. I also liked the process of extracting part of a site's functionality to make it more flexible.
 
@@ -51,6 +51,7 @@ This mod, I tried to concentrate my attention on activities that would best prep
 ## C. **Gear Ups**
 
 > [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
+
 A microagression occurs when someone is treated differently because of their background, which sends the message, 'You don't belong here'. Sometimes these are innocuous off hand comments that are unintentionally hurtful, and sometimes the ignorance is more obvious. It is are job to be aware of these microagressions to keep ourselves from offending, and to ally with those that might be affected. 
 
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
@@ -75,5 +76,7 @@ I've done my best to participate in cohort retros and group projects in meaningf
 ## Final Review
 
 > #### Notes ( Leave blank for reviewers )
+Needs to complete Portfolio
 
 > #### Outcome ( Leave blank for reviewers )
+Provisional
