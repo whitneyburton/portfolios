@@ -125,7 +125,7 @@ Feedback from project partner: In Process.
 
 A project in which we get assigned another classmate's IdeaBox codebase and we are to pivot the application
 and turn it into a to-do list.  This involved heavy refactoring and fixing broken functionality, then pivoting
-to a to-do list with features such as upvoting, filtering my importance and hiding read items.
+to a to-do list with features such as upvoting, filtering by importance and hiding read items.
 
 Evaluation Scores:  
 Data Types: Exceptional  
