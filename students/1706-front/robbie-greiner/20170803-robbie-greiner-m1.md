@@ -53,7 +53,7 @@ JS/JQuery: Advanced Beginner
 
 #### Static-Comp 2
 
-* [www.robbieg.io/static-comp-3](http://www.robbieg.io/static-comp-2)
+* [www.robbieg.io/static-comp-2](http://www.robbieg.io/static-comp-2)
 * [GitHub Repo](https://github.com/robbiegreiner/rg-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
