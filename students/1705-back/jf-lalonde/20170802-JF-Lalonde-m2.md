@@ -60,18 +60,19 @@ I found styling to be an incessant time-suck. I learned a lot about the asset pi
 
 ## C: Final Assessments
 
-(how did you do on written and timed independent?)
-(was this a representation of your best work?)
+I felt like I did well at the timed assessment, I completed the stories with time to spare and went back to improve my tests. I did get hung up trying to refactor the average salaries method from ruby to activerecord, but couldn't find a solution in time. This is my greatest weakness right now. I felt like the written test went well too, I made a few mistakes but nothing fundamental and I think I understood all the concepts that were being tested.
+
+It's hard to do a timed assessment and call it my best work. I'm proud of what I accomplished in the given time, but I would absolutely refactor some things given the opportunity.
 
 -----------------------
 
 ## D: Module Outcomes
 
-(anything else you'd like to share about this module?)
+The pace of this module kind of caught me off-guard. I felt like the tutorials were going well until I had to reiterate the information I learned, which made me realized I wasn't picking things up as quickly as I thought. However, by the time the rails mini-project came along I was beginning to have solid understanding of the concepts, and now I feel like I have a very good grasp on what we've learned this mod.
 
 ### Self-Assessed Outcome
 
-(PROMOTED, PROVISIONAL, RETAINED, or EXCUSED)
+(PROMOTED)
 
 ------------------
 
