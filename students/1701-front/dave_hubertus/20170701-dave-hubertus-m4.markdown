@@ -26,10 +26,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 #### Feature Delivery
 ##### Documentation
 9 points: The README includes documentation for all available endpoints and how to use them. Instructor can follow the documentation for using the API but has to do some parsing.
+
 ##### Feature Completion
 50 points: Completed almost all features, but lacking a relationship between the two data tables.
+
 ##### Testing Linting Error Handling
 30 points: Project has a running test suite that covers happy and sad paths for each endpoint. Error handling has been implemented and linter is passing.
+
 ##### JavaScript Style
 20 points: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
@@ -60,25 +63,27 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 #### Workflow
 20 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
+### House of Vars
+
+*   [GitHub URL](https://medium.com/@dhubertus/first-dive-into-an-open-source-project-56cc4635369f)
+
 
 
 ### Peer Reivews
-Jack Bevis - Working with you on Headcount went really well. We have a pretty strong rapport to begin with and brought the same attitude to the project. As such we were able to accomplish the goals for the project, and burn through some tough challenges in order to do so. I also want to say thanks again for shouldering a brunt of the project over the weekend while I was out of town. That was not ideal, but we were able to get it done. Great pairing, and looking forward to more collaboration.
+Jack Bevis - “Working with Dave was great. Our goals and work styles gel very well, and from that we are able to communicate very effectively and get things done. Our combined love of Jeopardy only made working on Capstone all the more enjoyable. I totally think we should be able to do technical interviews as a team, it would hilarious.”
 
-Jenn Peavler - Dave communicates expectation and roles clearly.  He is approachable and adaptable.  He has a solid understanding of the subject manner and is able to express his thought process clearly.  He works relentlessly to get the job done, and takes pride in his work.  In order to grow as a developer, it is my recommendation that Dave keep up the good work, but perhaps sometimes, take a step back from the project and look at the flow of the application as a whole.  This will enable Dave to be able to understand how to break up the whole project into smaller, more attackable functionality problems.  Can’t wait to work with Dave again, as he most definitely rocks.
-
-Chris Bandrowski - Working with Dave was a great experience, especially in a group setting. It was enjoyable to constantly bounce ideas off of each other to see where we could go with the project. Although the project was stressful, it was great to work with Dave and the others as they were great supportive team mates.
-
-Keji Amos - You are a great teammate. You are good at staying on top of todos and making sure if there are questions they get answered.
-
+Gear Up Feedback - 
+1) I liked it, it is nice to get the perspective of people who are going through the same learning process.
+2) As I assume this is a mandatory event that mod 4 students must put on...they all felt very engaged and enthusiastic about the topic.
+3) Discussions, movies, small groups were well-timed, the mod-4 students were active in the discussion. 
 
 ### Gear UP
 
-*   [GitHub URL](https://gist.github.com/dhubertus/52265c7da34c93966e066a223aed3da2)
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1706-inning/group_two.md)
 
 ### Playing a Part
 
-I have participated in most, if not all events, that have been required of Turing students. However when considering taking on tasks outside of course work, I have shied away due to fear of taking on too many tasks. Having a better understanding of the course load and Turing’s all around structure, I look forward to some of the opportunities the Turing community has to offer. 
+I have participated in most, if not all events, that have been required of Turing students. Additionaly I have participated in Iron Fe on a regular basis since the end of Mod 1. 
 
 ------------------
 
