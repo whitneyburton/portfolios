@@ -149,6 +149,8 @@ The following set of points are distributed at the discretion of the instructor.
 *   [GitHub URL](https://github.com/kamos1/trivial)
 *   [Original Assignment](http://frontend.turing.io/projects/capstone.html)
 
+PASS
+
 
 ### Playing a Part
 
