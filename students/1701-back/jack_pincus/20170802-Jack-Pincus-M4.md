@@ -8,10 +8,10 @@ I came into the inning very much concentrating on the job hunt, and wanting to l
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
 
-* What was your biggest technical challenge?
-* What did you like the most about the challenge?
-* How did you solve that challenge? What was your approach?
-* What did you learn?
+* Things I had trouble with: That one test that just wouldn't pass. Also deciding on how to implement the Hot Reads section took way too long. I thought of 3 different ways to do it, and finally just had to pull the trigger.
+* Things I liked: Having a bunch of specific user stories, but leaving it to us to decide how to implement it. Its fun to have to make a decision that you might have to defend, sometimes you just have to start coding and see what happens.
+* Solved the problem: Thought about the various ways to implement the features and the tradeoffs. Decided to go with the method that would allow the most flexibility if I were to expand on it in the future, and used the framework that I felt most comfortable with.
+* Learned: Take your time and follow good developing patterns. TDD and the red green refactor pattern feel slow, but are really useful when complexity builds. It means that your development pace is constant. 
 
 ## Quantified Self
 
