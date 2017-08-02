@@ -10,7 +10,9 @@ What did you set out to accomplish this module? Were you successful?
   language to be able to focus more on programming concepts instead of the
   syntax of the language. I would say I was moderately successful. I think I
   could spend a lot more time gaining a deeper understanding of what is
-  happening behind the scenes. I think I learned as much as possible in 7 weeks.  
+  happening behind the scenes. I think I learned as much as possible in 7 weeks.
+  I feel like I've gained the resources and ability to further my own education
+  individually.   
 
 What did you struggle most with this module? What did you learn from that struggle?
 
@@ -19,7 +21,9 @@ What did you struggle most with this module? What did you learn from that strugg
   beginning. I learned to be patient and not regret deleting code and starting
   over. I realized a couple of times that my fundamental design was flawed and
   had to start again. Through this process I gained a better understanding of
-  program design and how to break a complex problem down.
+  program design and how to break a complex problem down. Another big struggle
+  for me was workload management. Since we have so much going on at all times,
+  it was a struggle to prioritize and manage everything.
 
 
 ## Projects
@@ -62,7 +66,7 @@ How did you contribute to the Turing community this module?
   better it is for all of us.
 
 What would you like to do to contribute next module?
-  Next module I would like to become more involved in meetups and other Turing 
+  Next module I would like to become more involved in meetups and other Turing
   student sponsored events. I'd like to meet and develop professional
   relationships with as many more people as I could.
 
