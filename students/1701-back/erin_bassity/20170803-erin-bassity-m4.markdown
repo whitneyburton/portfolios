@@ -7,6 +7,7 @@
   - Learn React
   - Build an app with a Rails backend and React front end
   - Work on a solo project
+  - Practice going through technical interviews
   
 ## Assessment
 
@@ -24,7 +25,7 @@ My biggest technical challenge on this project was implementing a React front en
 
 ## Feedback
 
-Once piece of feedback I received was to be more confident in my ability as a developer. I struggle with this constantly, but it’s getting easier to convince myself that I can do what I set out to do.
+Once piece of feedback I received was to be more confident in my ability as a developer. I struggle with this constantly, but it’s getting easier to convince myself that I know as much as I do and can continue to develop my skills (growth mindset).
 
 ## Gear Up
 
@@ -36,4 +37,4 @@ This inning, I continued to participate in the Imposter’s Lunch, but stepped b
 
 ## Going Forward
 
-Beyond the obvious—-my developer skillset, the three most valuable skills I’ll take forward with me to my next job after Turing are 1) my ability to communicate well, 2) my penchant for hustle, and 3) a deep understanding the customer from many years of working as a marketing professional.
+The three most valuable skills I’ll take with me from my time at Turing are 1) test-driven development, 2) resilience/perserverence, and 3) collaborative programming (pairing).
