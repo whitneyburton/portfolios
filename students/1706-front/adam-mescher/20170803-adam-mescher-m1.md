@@ -8,9 +8,17 @@ I set out to establish a firm foundation in the fundamentals of HTML, CSS, and J
 
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **C: Group Work & Projects**: 3
+
+I was very happy with 
+
+* **D: Professional Skills**: 3
+
+I 
+
+* **E: Community Participation**: 2
+
+Still growing into who I want to be at Turing. I will be much more intentional about involvement moving forward. 
 
 -----------------------
 
@@ -21,39 +29,35 @@ I set out to establish a firm foundation in the fundamentals of HTML, CSS, and J
 
 ## B: Individual Work & Projects
 
-During the last six weeks, 
+During the last six weeks, I started with a rudimentary knowledge of HTML and CSS and finished with what feels like a strong foundation 
 
 #### Static Comp Challenge 1
 
 * [GitHub URL](https://github.com/AdamMescher/ad-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-Starting from scratch felt intimidating but it felt very rewarding to show what I had accomplished in this project to the class. This project taught me how to start from an image and finish with a tangible site as well as the ins and outs of flexbox. 
+Starting from scratch felt intimidating but it felt very rewarding to show what I had accomplished in this project to the class. This project taught me how to start from an image and finish with a tangible site as well as the ins and outs of flexbox. It also showed me how much further I need to progress to have a true grasp of HTML and CSS. 
 
-The overall feedback was mostly positive, through there were plenty of small things that needed to be addressed. 
- #### Static Comp Challenge 3
+The overall feedback was mostly positive, through there were plenty of small things that needed to be addressed.
+
+#### Static Comp Challenge 3
 
 * [GitHub URL](https://github.com/AdamMescher/am-comp-challenge-3)
-* [Original Assignment]()
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+These projects helped lay a strong foundation in 
 
 #### Number Guesser
 
 * [GitHub URL](https://github.com/AdamMescher/number-guesser/blob/master/README.md)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+Taking an idea and turning it into a real, working thing is a power feeling. Number Guesser was the first time I was able to finish such an intricate project. While the code is nothing to write home about, it's mine, it works, and because of that I love it.  
 
 (evaluation comments)
 
@@ -64,7 +68,7 @@ The overall feedback was mostly positive, through there were plenty of small thi
 * [GitHub URL](https://github.com/AdamMescher/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+Linked List was a rewarding challenge for me as it forced a deep understanding of event bubbling and DOM manipulation with JS and jQuery. Working with a pair for the first time also pushed me to better explain my way of thinking and justify my choices to another person while I was working. 
 
 (evaluation comments)
 
@@ -75,7 +79,7 @@ The overall feedback was mostly positive, through there were plenty of small thi
 * [GitHub URL](https://github.com/AdamMescher/ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+IdeaBox was a great way to learn localStorage and the basics of JSON. 
 
 (evaluation comments)
 
@@ -86,7 +90,7 @@ The overall feedback was mostly positive, through there were plenty of small thi
 * [GitHub URL](https://github.com/AdamMescher/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+2DoBox pushed me as a developer as both a 
 
 (evaluation comments)
 
