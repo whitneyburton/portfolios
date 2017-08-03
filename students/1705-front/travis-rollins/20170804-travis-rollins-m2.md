@@ -213,7 +213,7 @@ I really enjoyed this GearUp and found that it gave me a better understanding of
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+This module I spent much more time trying to reach out to my classmates and help them when possible.  I tried to help others when going through the different sorting algorithms as well as make suggestions when working as a class on the complete me project.  For the weathrly project, I also checked in on how others were learning React and help them with Test-Driven-Development. I also participated in meetups with my class as well as check in with Mod 1 students to see if I could help.  I participated in a short class with my module near the end as well to help teach unit testing to Mod 1 students.  Code Fair was another event that occured this module and I enjoyed reaching out to people I don't normally see and check out what projects they were working on.  I am also looking forward to attending Demo Night and seeing some of the amazing projects my fellow classmates have created.  
 
 ------------------
 
