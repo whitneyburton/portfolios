@@ -37,12 +37,12 @@
 >* \This was one of my favorite projects since Mod1. I had a wonderful partner who was really helpful in pushing me to keep my code very clean and my github workflow on point. I really enjoyed puzzling through the business logic and I hope I get to continue using SQL/ActiveRecord in challenging ways moving forward.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://github.com/charliecorrigan/cloney-island)** 
+> **[Cloney Island Sprint 1](https://github.com/charliecorrigan/cloney-island)**
 >* \Use the Google Places and Google Maps APIs to remake Sygic Travel.
 
 >* \My personal areas of focus in this group project were consuming the Google Places API to produce a list of attractions by city and a list of details for each attraction, consuming the Google Maps API to create maps of those cities with dynamic icons of their attractions, creating and styling the attractions and attraction sidebar, and CRUDing the vendor tables. I was also able to pair with group members who needed a little extra help. I got a lot of extra experience helping my teammates to clear up complex merge conflicts and even got to troubleshoot and solve a rather challenging schema issue that was introduced into the project's repo late in the project. I'm definitely stronger and more confident in both Git and Github as a result. This was my first experience trying to incorporate Javascript into a project and while it was challenging to dive into code that I was unfamiliar with, this element on the sprint was exciting and really enjoyable as well.
 
-> **[Cloney Island Sprint 2](https://github.com/Benjaminpjacobs/corkboard)** 
+> **[Cloney Island Sprint 2](https://github.com/Benjaminpjacobs/corkboard)**
 >* \Create a clone of the Thumbtack web app, starting with browfield code created by students in the first sprint of Cloney Island in a prior mod.
 >* \This was one of my favorite projects so far at Turing. I had a really great group and because we started with a lot of the CRUDing already complete (though in need of a little TLC in places), we were all able to pursue learning and features in areas we were interested in. My main area of focus was in creating an API for the user's projects and then rendering the user dashboard using AJAX calls, allowing a user to update their project's status using a JWS token inside an AJAX call, and allowing a user to leave reviews for pros on projects that are marked as completed.
 
@@ -92,6 +92,6 @@
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted
