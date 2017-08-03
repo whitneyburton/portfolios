@@ -43,7 +43,7 @@
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/sarahdactyl71/rales_engine) | [Cloney 1 Repo](https://github.com/squeemishly/cloney-island) | [Cloney 2 Repo](https://github.com/sarahdactyl71/kickstarter_clone) |
-| **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
+| **Heroku** | [Rales](https://) | [Cloney 1](https://morning-thicket-74383.herokuapp.com) | [Cloney 2](https://ks-clone.herokuapp.com/) |
 | **Functional/Client Expectations** | 4 | 4 | 3 |
 | **TDD** | 3 | 3 | 3 |
 | **Code Organization/Quality** | 4 | 3 | 3 |
@@ -61,22 +61,27 @@ n/a
 
 ## C. **Gear Ups**
 
-> [Link To Gear Up]()
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
+> [Microaggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
+>
+This was an important gear up for understanding what some of my peers would want in certain interactions and I had the opportunity to share what I would want. I read about microaggressions that I do not personally experience and I expanded my thinking upon them.
 
+> [Allyship](https://github.com/turingschool/gear-up/blob/master/allyship.markdown)
+>
+> A lot like the microaggressions gear up, this one was about allyship. I was very intrigued about the articles that were given to us particularly about the idea surrounding the identity of allyship and how sometimes that can be damaging. Something that stuck out to me in one of the articles was something someone said that was along the lines of "If you are going to work in social justice you are going to be prepared to screw up a lot. Find the people you hurt, ask them what you did wrong, and educate yourself." This struck me because I have messed up, I have hurt feelings, but that hasn't stopped me from moving forward and standing with opressed people.
+>
+> [How to be a Newb in Tech](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1706-inning/Being_a_Newb_in_Tech.md)
+>
+> This gear up was about contributing to projects even as a Junior Developer. It inspired me to give back to places that need it which caused me to reach out to my contacts at CU environmental center to see if I could help them out with any needs. It makes me want to help open source projects out in my freetime.
+>
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
+>* I always do my best to be a part of the community. I try and keep a postive attitude when the cohort is going through tough times. I tried to connect with each of my cohort members as much as possible and extend that connection to other cohorts as well.
 
-#### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
-
-#### **Playing a Part**
-
-> \<How else you've contributed to the community>
+####**Posse**
+  >* My posse honestly did nothing.
+  >* It was difficult getting everyone on board to do posse things. When we first met up there were about 15 people and after that no more than six showed up to the meetings.
+  >* I learned that there are some things in students lives that are more important than meeting up to do posses. It made me very understaning of some one else's needs and I felt that was more important than sticking people in a room to do forced activities.
 
 ------------------
 
