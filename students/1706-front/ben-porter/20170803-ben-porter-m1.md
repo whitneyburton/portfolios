@@ -297,8 +297,6 @@ The main roles I played in supporting the turing community in this mod was mostl
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
