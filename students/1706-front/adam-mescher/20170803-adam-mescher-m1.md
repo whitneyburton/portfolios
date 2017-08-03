@@ -6,19 +6,11 @@ I set out to establish a firm foundation in the fundamentals of HTML, CSS, and J
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-
-I was very happy with 
-
-* **D: Professional Skills**: 3
-
-I 
-
+* **D: Professional Skills**: 3 
 * **E: Community Participation**: 2
-
-Still growing into who I want to be at Turing. I will be much more intentional about involvement moving forward. 
 
 -----------------------
 
@@ -82,8 +74,6 @@ Linked List was a rewarding challenge for me as it forced a deep understanding o
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 IdeaBox was a great way to learn localStorage and the basics of JSON. 
-
-(evaluation comments)
 
 HTML
 * Accesibility: Novice
