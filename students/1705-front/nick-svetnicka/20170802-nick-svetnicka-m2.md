@@ -266,4 +266,4 @@ The output from JSHint shows…
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
