@@ -162,8 +162,6 @@ Francy, It was wonderful to have you a partner, I thought we worked well togethe
 * [GitHub URL](https://github.com/francylang/2DoBox-pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
-
 **Evaluator:** *Brenna*
 
 **Functional Expectations:** *Proficient*
