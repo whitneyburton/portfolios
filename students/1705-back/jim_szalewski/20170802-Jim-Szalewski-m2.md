@@ -1,4 +1,4 @@
-# (Your Name) - M2 Portfolio
+# Jim Szalewski - M2 Portfolio
 
 -----------------------
 
