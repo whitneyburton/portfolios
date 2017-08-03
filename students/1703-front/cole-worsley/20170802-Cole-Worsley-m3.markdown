@@ -98,7 +98,15 @@ Iteration 2: Favorites
 
 This project was a test in asyncronous javascript. We worked on this project for one week and had to make multiple nested calls to the Star Wars API. We then displayed the data on the page in a card layout.
 
-Scores: N/A
+Scores:
+Specification Adherence
+ * 4 - The application completes all 3 iterations above and implements one or more of the extensions.
+Code Quality
+ * 4 - Developer demonstrates complete understanding of React with appropriately separated components and exceptionally well refactored code.
+Design
+ * 3 - Some changes requested by evaluator.
+Testing
+ * 3.5 - Almost all components are tested to a level that indicates developer has an understanding of testing
 
 
 #### Headcount 2.0
@@ -153,11 +161,17 @@ This Mod I supported the community by helping my cohort mates and Mod2 with thei
 ------------------
 
 ## Final Review
+PASS
 
 ### Notes
 
-( Leave blanks for reviewers )
+IronFE - Go at least once a week.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
