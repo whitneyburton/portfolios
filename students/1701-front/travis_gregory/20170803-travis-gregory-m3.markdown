@@ -33,7 +33,7 @@ In this project we are tasked with creating an app that utilized React, Redux, p
 
 ### Completion
 
-2.5: Developer completed most of the user stories and requirements set during check-ins.
+3: Developer completed most of the user stories and requirements set during check-ins.
 
 ### Organization
 
@@ -230,11 +230,16 @@ During this mod I really focused on learning the material that I struggled with 
 ------------------
 
 ## Final Review
-
+* PASS
 ### Notes
 
-( Leave blanks for reviewers )
+* IronFE: Run 1, go to many.
+* Work on debugging and testing
 
 ### Outcome
 
-( Leave blanks for reviewers )
+*   **A: End-of-Module Assessment**: 3
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
