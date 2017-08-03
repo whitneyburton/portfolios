@@ -123,6 +123,6 @@ I am also friends with one of the founders of Develop Denver and may be helping 
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted
