@@ -9,7 +9,7 @@ To improve my ability to work on a team.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3??
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -223,8 +223,7 @@ I have plans to lead a spike about being approachable and inclusive of all gende
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
