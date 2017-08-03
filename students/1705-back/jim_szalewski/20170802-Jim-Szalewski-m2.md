@@ -48,7 +48,7 @@ I wasn't able to get as far as I would have liked in the time alotted this proje
 Scoot Shop. Group: Mikel Sagapolutele (PM), Daniel Phillips, Wil Donovan.
 In this project we created an online ordering platform for scooters where customers can browse scooters and place orders. Admins on the page can manage scooters and categories, as well as processing orders.
 
-Dan, Wil, and I were all pretty much equal as far as roles. We would get together and decide who would take which waffle card. We switched off on the more intense user stories and also employed a ping pong style of development on one part, where one of us wrote a test and passed it to the other to make it pass. 
+Dan, Wil, and I were all pretty much equal as far as roles. We would get together and decide who would take which waffle card. We switched off on the more intense user stories and also employed a ping pong style of development on one part, where one of us wrote a test and passed it to the other to make it pass.
 
 I feel like we all had an equal share in the learning opportunities on this project. It felt good to push myself to implement the paperclip gem (even though the instructions on thoughtbot's github page are fairly clear) and to push myself in general. So far I have been intimidated to try to do anything I perceived as extra, but throughout the course of the mod I've come to realize that self motivation is key to learning as much as possible. The finished product is something that I am proud to show off to friends, and I look forward to increasing my learning.
 
@@ -59,7 +59,7 @@ I feel like we all had an equal share in the learning opportunities on this proj
 
 ## C: Final Assessments
 
-### Final Independent Assessment 
+### Final Independent Assessment
 
 #### 1. Workflow
 
@@ -81,7 +81,7 @@ I feel like we all had an equal share in the learning opportunities on this proj
 
 * **3: Developer uses tests at multiple layers of abstraction to drive development, but may have trouble parsing errors or prioritizing next steps**
 
-I feel as though this is close to representative of my best work. I am usually obsessive about my commits, so it doesn't sit well that my worst score was in workflow. I pushed through the nervousness that clouded my thinking in the first 45 minutes, and found my stride. I made some illogical choices at first, but once I figured out 
+I feel as though this is close to representative of my best work. I am usually obsessive about my commits, so it doesn't sit well that my worst score was in workflow. I pushed through the nervousness that clouded my thinking in the first 45 minutes, and found my stride. I made some illogical choices at first, but once I figured out
 
 ### Final Written Assessment
 
@@ -115,4 +115,4 @@ PROMOTED
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

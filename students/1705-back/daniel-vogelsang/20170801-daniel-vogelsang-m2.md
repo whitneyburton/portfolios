@@ -29,3 +29,6 @@ I felt exceedingly good about my performance Finals week. Unlike Mod1, which fel
 
 ## Community:
 I think its in the Gear-UP discussions that I've seen my role as a fellow Turing student most blossom. I feel at home in the realms of self-analysis, emotional/psychological discussion, and vulnerability. I think this mod, I found myself being a leader in my gear-ups both as a unifier of message and MC for the discussions themselves, and as someone who encourages new thoughts and healthy conflict within most all my sessions. I hope that those folks in and outside my cohort with whom I've interacted would promote me as someone who provokes not only deep conversation, but as a thoughtful group member that also knows how to listen. I really enjoyed the Gear-Ups this mod.
+
+
+PROMOTED
