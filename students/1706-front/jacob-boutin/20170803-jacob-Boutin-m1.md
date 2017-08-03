@@ -162,7 +162,9 @@ i feel like i really missed out on this. i was always so behind that i felt like
 
 ### Notes
 
-( Leave blanks for reviewers )
+Will be taking a mod off, auditing particular classes and spending time in the space to leverage student support.
+We will put together a plan of attack to ensure progress, has the intent to test into 2
 
 ### Outcome
 
+Fail - Taking a mod off with the intent to test into 2
