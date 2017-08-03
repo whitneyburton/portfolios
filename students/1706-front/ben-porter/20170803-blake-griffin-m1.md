@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Ben Porter - M1 Portfolio
 
 ## Areas of Emphasis
 
-Not fully knowing what to expect coming in, and having very little Java Script background my main goals were to get the foundations and fundamentals as quickly as possible. I also set out to ensure continued growth throughout the mod. 
+Not fully knowing what to expect coming in, other than a challenge,  and having very little Java Script background my main goals were to get the foundations and fundamentals as quickly as possible. I also set out to ensure continued growth throughout the mod. 
 
 ## Rubric Scores
 
@@ -271,17 +271,25 @@ Style
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Strength Finder
+I found this to be a very interesting experience. I was very skeptical the test coud determine anything about my strenths, but was very suprised when I read the results. Since then I have found myself assessing when the traits listed are strengths and when they are messing up my balance. 
 
 * [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Give and Take Feedback
+This reflection on this gear up was interesting in that it made assess how I take feedback and why. Critical feedback is not rarly an issue for me unless it is coming from certain sources. 
+
+#### Story Telling
+My biggest takeaway from this gear up is that I need to force myself to be more comfortable with being uncomfortable. I need to attend more meet ups, and work on networking. 
+
+#### Women in tech
+This was an powerful and improtant gear up due to the importance of the subject. Deversity in tech of all kinds is so important. It was powerful and sad to hear the experices of the women in the video. Having a mother who didn't go to MIT because she was talked out of it by her brother it is iportant that these things get stopped. 
+
 
 ## E: Community Participation
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
+The main roles I played in supporting the turing community in this mod was mostly to my mod itself. Helping when and where I could, partnering etc. Moving forward I intend to be more involved as a whole, including meet ups, pairings, etc. 
 
 ------------------
 
