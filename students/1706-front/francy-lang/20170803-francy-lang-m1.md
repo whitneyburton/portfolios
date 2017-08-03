@@ -202,10 +202,6 @@ Francy, It was wonderful to have you a partner, I thought we worked well togethe
 
 * **Design Concepts:** *Proficient*
 
-**PAIRING:**
-
-* **Collaboration:** *Advanced Beginner*
-
 
 ## D: Professional Skills
 
