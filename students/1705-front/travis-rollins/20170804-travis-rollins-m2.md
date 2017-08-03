@@ -186,14 +186,28 @@ The output from a code sanitizer ESLint shows…
 4 - Zero complaints
 
 ## D: Professional Skills
-(Intro)
+I really enjoyed the professional lessons given this module including how to reach out and network with people that are a part of the Turing community as well as how to give better and more constructive feedback when working with a team. I really enjoyed meeting up with my mentor and getting feedback on things to think about as I continue my career as a developer and what I can do to prepare myself better when searching for a job. 
 
 ### Gear Up
-#### (Session Name)
+#### Empathy
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+### Gear Up
+#### Allyship
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/allyship.markdown)
+
+This was a really interesting GearUp to me in that it made me think differently than I had before on what it means to be an ally.  It was really interesting going through the scenarios and wondering how I could be an ally or if I was the victim, how would I want an ally to respond?  It made me realize how important it is not only to say you're an ally, but really prove it and act upon it.  It's important to keep up with current events and what is going on with the people around you and listen.  I would like to keep working on being a better ally by working with more diverse groups and help give them equal opportunities where possible.
+
+### Gear Up
+#### Learning a New Language
+
+* [GitHub URL](https://github.com/VictoriaVasys/learning-a-new-language/)
+
+I really enjoyed this GearUp and found that it gave me a better understanding of knowing when to start learning a new language and how to go about doing so.  It is important to wait to learn a new language until one feels solid with the language they are already learning.  One they feel ready to start learning a new language, they can use tutorials, documents, and books to research the topic.  Having a structure to learning a new language can also be useful.  This can include meetups, talking to other Turing alumni, doing projects, and teaching it yourself.  One of the best ways of learning something new is relating it so something one already knows.  Another great way of picking up a new language is building something you've already built previously in the new language.
 
 ## E: Community Participation
 
