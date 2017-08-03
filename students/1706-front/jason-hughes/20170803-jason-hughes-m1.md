@@ -6,11 +6,11 @@ During my first module here at Turing, I was looking to get a solid foundation o
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
-* **D: Professional Skills**: 
-* **E: Community Participation**: 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -334,7 +334,6 @@ This was a really interesting session. I realized I identify more as an extrover
 This was probably my favorite gear up because it was a great time to get to know classmates on a deeper level. This really made me think about my "why" and how I came to join Turing. I tell my story in bits and pieces all the time, but it was a good challenge trying to put all pieces together on a larger scale. 
 
 
-
 #### Debugging the Gender Gap
 
 * [GitHub URL](https://gist.github.com/jasonhughes1/761d4eec377698920f29352e0ec6cdaf)
@@ -359,8 +358,6 @@ I tried my best to meet and get to know both my classmates in mod one, and the g
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
