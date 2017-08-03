@@ -199,6 +199,7 @@ Git & Github
 No scores listed in eval
 
 Design
+'Not quiiiiite mobile responsive'
 
 No scores listed in eval
 
