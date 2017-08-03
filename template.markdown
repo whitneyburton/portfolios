@@ -2,8 +2,7 @@
 
 ## Areas of Emphasis
 
-This module my goal was to get a strong foundation of javascript, css and HTML.  One of my big 
-focuses was on time management and maintaining a growth mindset. 
+(What did you set out to accomplish this module?)
 
 ## Rubric Scores
 
