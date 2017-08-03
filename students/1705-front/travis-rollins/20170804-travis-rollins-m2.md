@@ -96,7 +96,8 @@ The output from ESLint shows…
 ### Projects
 
 I completed 2 group projects this module including:
-	* Game Time
+
+  * Game Time
   * Weathrly
 	
 Our team used Javascript and HTML canvas to re-create the game Tron for Game Time. This was also the first time that we had started implementing tests using mocha and chai to check and make sure the game was working correctly. For Weathrly, our team used React, ES6, and api calls to make a weather application. We spent much more time this project doing Test-Driven-Development using Jest and Enzyme.
