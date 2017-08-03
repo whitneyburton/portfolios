@@ -155,7 +155,7 @@ Francy's strengths were definitely work ethic, attitude and communication.  Fran
 Francy, It was wonderful to have you a partner, I thought we worked well together and am very happy with how the project came out. Thank you for being the balance to my intensity and panic. Your organizational skills are great, and your foresight to sign up for the pairing was a massive help. Thank your for keeping the code so clean and organized and the way you handled the JS logic was great. My biggest advice and I think it applies to both of us is to pursue exactly how and when to use prototype functions, and work out some of the syntax errors. Thank you for your terrific work and I am glad the project turned out so great.
 
 **My notes for refactor:**
-*Change CardElements to CardElement. Work on creating one function for upvote and downvote. Same for body and title edit. No nested if, else statements. Look deeper into parent elements (sepcifcally on 'keyup'). 
+*Change CardElements to CardElement. Work on creating one function for upvote and downvote. Same for body and title edit. No nested if, else statements. Look deeper into parent elements (sepcifcally on 'keyup').* 
 
 ### 2DoBox-Pivot
 
