@@ -193,7 +193,7 @@ I really enjoyed the professional lessons given this module including how to rea
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I really enjoyed the conversations in this GearUp with my fellow classmates and it helped me realize and understand many of the priveleges that I have.  Not everyone is able to enjoy those priveleges or feel safe in their environment.  As a result, I would like to try harder to listen better and try to shift how I work in order to make others around me feel safe.  By doing so and checking in more frequently, I hope I can provide a better work environment for the people around me.
 
 ### Gear Up
 #### Allyship
