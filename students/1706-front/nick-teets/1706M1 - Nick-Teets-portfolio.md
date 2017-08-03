@@ -16,8 +16,10 @@ This module I wanted to instill strong study habits for moving forward through t
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+Dom Manipulation - pass
+Creatures challenge - pass
+Quizlette - pass
+Static Comp 3 - pass
 
 ## B: Individual Work & Projects
 
