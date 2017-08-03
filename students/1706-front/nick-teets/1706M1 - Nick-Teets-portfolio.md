@@ -158,6 +158,10 @@ Proficient
 
 none
 
+##### Partner Feedback
+
+Jacob - Nick was an awesome partner, plain and simple. He was always available and very sharp individual. He noticed I was struggling with some of the material and took time to explain things to me and made sure I wasn't left behind. There were some moments at first where I felt left behind and left out of the JavaScript parts, and this is an area where his ability to slow down and take time to explain things could continue to be developed. 10/10 would partner again!
+
 #### IdeaBox
 
 * https://github.com/nicktu12/Ideabox
@@ -170,6 +174,12 @@ Brenna
 
 ##### No Scores
 But we killed it. 
+
+##### Partner Feedback
+
+Amy - I was so excited to be paired with Nick because he is so cool and collected. I felt like we had a great DTR and appreciated that he was clear on what he needed and his goals. He was organized and had a great game plan that made me feel confident about the direction we were heading in and the work distribution. He was also very patient and helpful while I was learning to navigate GitHub. The only thing I would encourage Nick to consider is how he communicates specifically about code - I think he was a bit above me and JM in our understanding of the concepts and sometimes we had a hard time keeping up! Nick was such a reliable partner and overall I am proud of the work and learning we all did together.
+
+JM - I only have small constructive things. Nick gets very excited when he is coding and almost gets lost in his own head, but stays positive and always finds an answer.
 
 #### 2DoBox Pivot
 
