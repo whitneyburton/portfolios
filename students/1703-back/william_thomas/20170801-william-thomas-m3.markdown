@@ -67,9 +67,9 @@ In my opinion, this is one of the best projects Turing can offer its students. W
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/wthoma22/rails_engine) | [Cloney 1 Repo](https://github.com/wthoma22/cloney_island_airbnb) | [Cloney 2 Repo](https://github.com/wthoma22/kickstarter_clone) |
 | **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
-| **Functional/Client Expectations** | 3 | N/A | 3 |
-| **TDD** | 4 | N/A | 3 |
-| **Code Organization/Quality** | 3 | N/A | 3 |
+| **Functional/Client Expectations** | 3 | 3 | 3 |
+| **TDD** | 4 | 3 | 3 |
+| **Code Organization/Quality** | 3 | 3 | 3 |
 | **API Design** | 4 | N/A | N/A |
 | **Queries** | 4 | N/A | N/A |
 
