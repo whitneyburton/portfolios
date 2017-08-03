@@ -157,5 +157,7 @@ The output from a code sanitizer ESLint shows…
 * Throughout the Mod I have made an effort to participate in as many community groups and sessions as I could make time for and engange with my peers to make the most out of my experience at Turing. I have also made it a point to help other students in Mod 1 when I could be of assistance to them. 
 
 
+# Outcome
 
+Pass
 
