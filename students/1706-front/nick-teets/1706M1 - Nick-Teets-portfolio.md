@@ -6,11 +6,11 @@ This module I wanted to instill strong study habits for moving forward through t
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: Pass
+* **C: Group Work & Projects**: Pass
+* **D: Professional Skills**: Pass
+* **E: Community Participation**: Pass
 
 -----------------------
 
