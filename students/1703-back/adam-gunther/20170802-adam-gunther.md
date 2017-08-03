@@ -57,11 +57,11 @@
 
 ## C. **Gear Ups**
 
-> **[Microaggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
+> **[Microaggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)**
 >* A class that focused on reading articles and discussing them in small groups. Discussion and readings were focused around microaggressions and how to prevent and address it. Interesting to hear how people respond. My group found humor to be a good way to deal with it.
-> **[Allyship](https://github.com/turingschool/gear-up/blob/master/allyship.markdown)
+> **[Allyship](https://github.com/turingschool/gear-up/blob/master/allyship.markdown)**
 >* Allyship involved small group discussion around scenarios that someone might need an ally for support. The scenarios were interesting and challenging. The take away was it's better to overstep as an ally then not help another person.
-> **[Attention Economy]
+> **[Attention Economy]**
 >* The takeaway was of the attention economy was how it is a part of competitive capitalism and uses psychology to keep your attention as long as possible for advertising. Changes focus from an information economy to one of attention. The ethics were difficult to agree upon, but regulation seemed to be the only real way to slow down the aggressive advertising or else up to personal responsibility to be aware. 
 
 ## D: Community Participation
