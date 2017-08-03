@@ -173,4 +173,4 @@ It was very nice pairing with you. My favorite part about our session was accomp
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
