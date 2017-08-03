@@ -82,7 +82,7 @@ Authorization
 
 Goal: Build out a fully functional app with the ability to create and account with a session, determine additional Authorization based on role, create one-to-one, one-to-many, and many-to-many relationships, build a simulation for a site that may exist in the real world.
 
-Reflection: This was a big moment for me, as this is where I realized I feel pretty comfortable using Rails. I could see the steps from the migration level that I needed to take to implement specific functionality pieces and be familiar with implementing them. I could have spent more time developing the views portion of my app or using factory girl in testing, but both of those seemed non-essential for this mod and something that I could get more exposure to over the break. 
+Reflection: This was a big moment for me, as this is where I realized I feel pretty comfortable using Rails. I could see the steps from the migration level that I needed to take to implement specific functionality pieces and be familiar with implementing them. I could have spent more time developing the views portion of my app or using factory girl in testing, but both of those seemed non-essential for this mod and something that I could get more exposure to over the break.
 
 #### Little Shop
 
@@ -160,4 +160,4 @@ PROMOTED
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
