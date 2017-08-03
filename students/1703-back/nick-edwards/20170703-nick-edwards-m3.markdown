@@ -1,4 +1,4 @@
-# \<Your Name> - M3 Portfolio
+# Nick Edwards - M3 Portfolio
 
 ## Areas of Emphasis
 
