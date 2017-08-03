@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Learn JS syntax, develop strong CSS skills, create semantic, accessible HTML
+Learn JS syntax, develop strong CSS skills, and create semantically correct, accessible HTML
 
 ## Rubric Scores
 
