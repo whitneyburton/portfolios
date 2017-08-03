@@ -16,9 +16,9 @@ I set out to challenge myself, specifically with javascript and how to structure
 
 ## A: End of Module Assessment
 
-DOM: Pass
-Mythical Creatures: Pass
-Static Comp 3: Pass
+* DOM: Pass
+* Mythical Creatures: Pass
+* Static Comp 3: Pass
 
 ## B: Individual Work & Projects
 
