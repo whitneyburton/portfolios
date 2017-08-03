@@ -5,11 +5,11 @@ My goals for Mod 1 were around: harnessing the foundations, exploring the life o
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
-* **D: Professional Skills**: 
-* **E: Community Participation**: 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3 
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3 
+* **E: Community Participation**: 4
 
 -----------------------
 
@@ -226,11 +226,6 @@ I work daily to maintain a growth mindset and effectively live the turing values
 
 ### Notes
 
-
-
-
 ### Outcome
 
-
-
-
+Pass
