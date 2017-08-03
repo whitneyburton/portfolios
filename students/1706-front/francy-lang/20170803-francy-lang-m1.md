@@ -1,8 +1,7 @@
 # Francy Lang - M1 1706 Portfolio
 
 ## Areas of Emphasis
-
-(What did you set out to accomplish this module?)
+My goals for Mod 1 were around: harnessing the foundations, exploring the life of tech/programming, and challenging myself and my confidence as a learner. I am super excited to see how much I have learned in a short 6 weeks. I feel strong in both HTML and CSS and I have a solid grasp on the foundations of javascript and DOM manupulation. I am fully engaged in my dev-life journey and am very content with how much I am enjoying the world of tech/programming. I have been challenged in many ways over the past 6 weeks and my confidence has been tested. I feel prepared to continue to mod 2, building upon the personal, professional and technical skills I have strengthed throughout mod 1. 
 
 ## Rubric Scores
 
@@ -16,8 +15,13 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+* DOM Manipulation
+* Mythical Creatures
+* Quizlette
+* Static Comp 3
+* Portfolio
 
+PASSED
 
 ## B: Individual Work & Projects
 
@@ -25,8 +29,6 @@
 
 * [GitHub URL](https://github.com/francylang/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
-
-(description)
 
 **Evaluator:** *Brenna*
 **Evaluation Comments**
@@ -46,6 +48,11 @@
 
 **JS/jQuery** *Proficient*
 
+**My notes for refactor:**
+**HTML/CSS** *Change id's to classes. Incorporate ARIA. Change breaks to margin. Consolidate multi-line rules into one(CSS). Take out comments and ensure all code naming is self-explanatory.* 
+
+**Javascript** *Break into small baby fuunctions. Dig more into objects. Try refactoring using jQuery.*
+
 #### Static Comp Challenge #1
 
 * [GitHub URL](https://github.com/francylang/fl-comp-challenge-1)
@@ -61,6 +68,7 @@
 * [GitHub URL](https://github.com/francylang/fl-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
+
 ## C: Group Work & Projects
 
 ### Projects
@@ -69,8 +77,6 @@
 
 * [GitHub URL](https://github.com/robbiegreiner/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
-
-(description)
 
 **Evaluator:** *Meeka*
 **Evaluation Comments:**
