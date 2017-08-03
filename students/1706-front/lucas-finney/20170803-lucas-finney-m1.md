@@ -132,7 +132,7 @@ Idea Box was probably the most challenging project for me during this mod. It si
 * Pairing/Collaboration - Proficient  
 
 ##### Partner Feedback
-```.```
+```A pleasure to work with you Luke! You have a great energy and personality, which makes you an easy and motivating partner to have. I also appreciate how you set limits for yourself and others. Remaining determined and focused while not inducing a stressful environment. To be honest, I don't have any areas of opportunity for you to work on, but for the nature of this "feedback" I'll put something in... perhaps your coffee making skills could use a little bit of work, Ahah! Just kidding! Coffee and tea was delicious! For real though... the only thing I can think of is white boarding more frequently and drawing out the logical order of functions and the process. I need to really work on this as well, and is one area of opportunity that would benefit both of us in the future. Again, it was great working with you Luke and I appreciate the ups and downs we traversed to get our project to the functioning point it resulted in!```
 
 #### ToDo Box
 
@@ -191,7 +191,7 @@ Watching the above named documentary and engaging in discussion with my classmat
 
 ## E: Community Participation
 
-### Playing a Part
+### Playing a Part ###
 
 I was given the privelge of serving as a student representative to Turing's Student Advisory Board this past mod. It was certainly more challenging than I anticipated it being for two reasons. First, it was difficult to keep the role and its associated tasks in the forefront of my mind while also working on school work. Second, it is challenging to be a representative voice of a large number of people, and I hope that I did a fair job of representing my cohorts thoughts and feelings. I will be serving as a representative again next mod and hope to improve in my capacity to meet both of these challenges.
 ------------------
