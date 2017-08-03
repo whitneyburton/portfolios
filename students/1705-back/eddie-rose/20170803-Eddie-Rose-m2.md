@@ -40,7 +40,7 @@ Let’s create an app to record your ideas. Host your app live on Heroku. Users 
 
 My three goals for the project: complete the project, become more comfortable with TDD, finish functionality early enough to spend at least one day on styling
 
-I enjoyed working on this project.  I felt comfortable enough with the rails and active record aspects that I was able to spend a full day on styling.  TDD made a lot more sense to me by the end, and, for the first time, I really appreciate the advantages of it.  Styling was more frustrating than I anticipated, but I learned a lot and I got some experience with Materialize.
+I enjoyed working on this project.  I felt comfortable enough with the rails and active record aspects that I was able to spend a full day on styling.  TDD made a lot more sense to me by the end, and, for the first time, I really appreciated the advantages of it.  Styling was more frustrating than I anticipated, but I learned a lot and I got some experience with Materialize.
 
 #### Little Shop
 
