@@ -173,8 +173,6 @@ Giving back to the community felt difficult struggling through mod1. When I did 
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass!
