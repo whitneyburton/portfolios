@@ -45,6 +45,8 @@ The overall feedback was mostly positive, through there were plenty of small thi
 * [GitHub URL](https://github.com/AdamMescher/am-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
+Static Comp Challenge 3 was a beast of a project that I grossly underestimated the man hours it would take to complete. There were many tiny details that took significant understanding to execute properly. 
+
 
 ## C: Group Work & Projects
 
@@ -83,7 +85,32 @@ IdeaBox was a great way to learn localStorage and the basics of JSON.
 
 (evaluation comments)
 
-(evaluation scores)
+HTML
+* Accesibility: Novice
+* Style: Proficient
+
+CSS
+* Structure of Code: Proficient
+* Implementation: Exceptional
+
+JAVASCRIPT
+* Data Types: Proficient
+* Conditional Logic: Proficient
+* Functions & Scope: Advanced Beginner
+* Arrays: Exceptional
+* Objects & Prototypes: Proficient
+* DOM Manipulation: Proficient
+* Style: Proficient
+
+GIT & GITHUB 
+* Git: Proficient
+* GitHub: Exceptional
+
+DESIGN
+* Comp Recreation: Proficient
+
+PAIRING
+* Collaboration: Exceptional
 
 #### 2DoBoxPivot
 
