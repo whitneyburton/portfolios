@@ -6,11 +6,11 @@ During Mod 3, I set out to increase my JavaScript skills using React, Redux, and
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: Passed
-* **B: Individual Work & Projects**: Passed
-* **C: Group Work & Projects**: Passed
-* **D: Professional Skills**: Passed
-* **E: Community Participation**: Passed
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
