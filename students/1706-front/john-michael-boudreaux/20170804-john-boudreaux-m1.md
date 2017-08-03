@@ -27,8 +27,8 @@ I think I passed...
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 
-The project was to build a game that generates a random number that the user has to guess. After each guess they are given simple or sarcastic instructions along to lead the way to the corrrect answer. 
-They could either have a random num generated between 0-100 or pick a range of their own. When the correct answer was chosen the random number the DOm would display winning text and the guessing range would increase by 10 and decrease by 10 increasing th difficulty each time.
+The project was to build a game that generates a random number that the user has to guess. After each guess they are given simple or sarcastic instructions along to lead the way to the correct answer. 
+They could either have a random num generated between 0-100 or pick a range of their own. When the correct answer was chosen the random number the DOM would display winning text and the guessing range would increase by 10 and decrease by 10 increasing th difficulty each time.
 
 My Eval Comments:
 
@@ -39,7 +39,7 @@ The biggest take away I have from this eval's feedback is the naming piece. It s
 
 #### Static-Comp3
 
-The goal for this project was to attempt to maniplate html elements, lots of html elements, while maintaining some responsivness. 
+The goal for this project was to attempt to manipulate html elements, lots of html elements, while maintaining some responsiveness. 
 
 * [GitHub URL](https://github.com/johnmboudreaux/static-comp3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
@@ -47,7 +47,7 @@ The goal for this project was to attempt to maniplate html elements, lots of htm
 
 My Eval Comments:
 
-Pay more attenton to the mobile design. Try to imagine what its like to be using your fingers on the smaller devices and be aware of the size and layout of the elements
+Pay more attention to the mobile design. Try to imagine what its like to be using your fingers on the smaller devices and be aware of the size and layout of the elements
 
 * [Evaluation Scores]()
 
@@ -110,31 +110,31 @@ Currently Under Construction
 
 ### Growth Mindset
 
-I never heard about this concept until coming to turing. It really did change the way I look at things. I kind of see it as getting over mental blocks and not losing sight of improvement and progression
+I never heard about this concept until coming to Turing. It really did change the way I look at things. I kind of see it as getting over mental blocks and not losing sight of improvement and progression
 
 ### Working with Introverts and Extroverts 
 
-This one was an eye opener for me in terms of not really knowing the true definition of introvert and extrovert. I guess I just interpreted it differently than it actually is. My takeaway was I need to realize the personality tye of the people I interact with. This is because, while I may not really need alone time to recharge and get ready to face the world, some peeps just do.
+This one was an eye opener for me in terms of not really knowing the true definition of introvert and extrovert. I guess I just interpreted it differently than it actually is. My takeaway was I need to realize the personality type of the people I interact with. This is because, while I may not really need alone time to recharge and get ready to face the world, some peeps just do.
 
 
 ### Strengths and Storytelling In this session
 
-In this seeion we talked about what brought us to turing. For me, it was making a career I can be proud of and happy with. The path that I was on just wasnt doing it for me, so I took the plunge and am now headed in a completley different direction. Its refreshing and terrifying all at once.
+In this session we talked about what brought us to Turing. For me, it was making a career I can be proud of and happy with. The path that I was on just wasn’t doing it for me, so I took the plunge and am now headed in a completely different direction. Its refreshing and terrifying all at once.
 
 ### Debugging the Gender Gap
 
-This session was filled with brow raising statistics. From how few women are developers to how so few schools have CS programs that actually mean something. It strikes me as odd that there isnt more emphasis on these kinds of things. I dont know, maybe the masses are afraid of automation. Me, I'll be one of the creators muhahaha.
+This session was filled with brow raising statistics. From how few women are developers to how so few schools have CS programs that actually mean something. It strikes me as odd that there isn’t more emphasis on these kinds of things. I don’t know, maybe the masses are afraid of automation. Me, I'll be one of the creators muhahaha.
 
 
 ### Sticking it out at Turing
 
-This one was just about how your psyche can get jacked up if you dont make sure to take certian steps. We also talked about how resiliance isnt always about how tough someone is or how much punishment they can take, but it also about being smart and taking steps to make yourself more resilaint. it is skill you have to work at and you have to know how to pick your battles.
+This one was just about how your psyche can get jacked up if you don’t make sure to take certain steps. We also talked about how resilience isn’t always about how tough someone is or how much punishment they can take, but it also about being smart and taking steps to make yourself more resilient. it is skill you have to work at and you have to know how to pick your battles.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-I dont think mod1 is really designed to give its subjects much time for extracarriculars, but I did manage to go and help Martinez set up for a demo night at wework and I took part in some iron-fe mornings as well. Hopefully after mod1 there will be time for more extra stuff.
+I don’t think mod1 is really designed to give its subjects much time for extracurriculars, but I did manage to go and help Martinez set up for a demo night at wework and I took part in some iron-fe mornings as well. Hopefully after mod1 there will be time for more extra stuff.
 
 ------------------
 
