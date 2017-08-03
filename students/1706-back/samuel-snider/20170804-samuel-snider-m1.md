@@ -10,12 +10,13 @@ What did you struggle most with this module? What did you learn from that strugg
 
 What were your favorite projects this module? Least favorite? Why?
 ####
+My favorite project was probably Enigma; it was the first project where I was able to see my programming in action applied to a real(ish) life problem that needed a solution. Though my code is still pretty ugly and messy, I set out to finish the difficulty extension, and knowing this ahead of time made the actual implementation pretty easy. This taught me a valuable lesson about making code that is very malleable to any task- even ones  you haven't imagined yet.
 
 What did you learn from your independent projects?
-####
+#### I learned that I have great potential as a programmer. Getting a plan together and making it easy to move around are keys for not having to do too much towards the end and winding up with "smellly" code. I learned to start early and work hard- functioning code is really only about 40% of the battle. Making sure the code is SRP and DRY, keeping it legible and easy to understand for a program who isn't you is at least as important- and probably more so.
 
 What did you learn from your paired projects?
-####
+#### I learned that communication is the basis for pairing. This may sound simple, but there several types of communication that must be mastered. Pairing communication, is essential to making sure all avenues for solving a problem are considered, and so criticism and encouragement can be delivered in an open and honest way. Communication outside of time together is also essential to let your partner know about changes in direction, ideas or scheduling. Also key is communication during a DTR, to be open and honest, and let your partner know your habits for scheduling, workflow, and your strengths and weaknesses. 
 
 ## Community
 
@@ -34,10 +35,10 @@ What would you like to do to contribute next module?
 
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-| Category                     | Score    |
-| -----------------------------| -------  |
+| Category                     |  Score   |
+| -----------------------------|  ------- |
 | **Individual Projects**      |   3.5    |
 | **Group Projects**           |   3      |
-| **Professional Development** |   2.75   |
+| **Professional Development** |   2.5    |
 | **Community**                |   2      |
 | **Pentathlon**               |   3.5    |
