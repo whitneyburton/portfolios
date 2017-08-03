@@ -160,8 +160,18 @@ I was also our posse leader for the mod.  I reached out to our posse mentors and
 
 ### Notes
 
-( Leave blanks for reviewers )
-
+- You take feedback really well! 
+- You're willing to jump into situations.
+- IronFE 
+  - Explaining problems 
+  - Will help the community 
+  - 2 / 3 times  || leading one 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS 
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3
+D: Professional Skills: 3
+E: Community Participation: 3
