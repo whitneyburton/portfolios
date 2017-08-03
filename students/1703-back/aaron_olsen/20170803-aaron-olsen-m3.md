@@ -52,13 +52,14 @@ Module three was one part building on previous knowledge and two parts navigatin
 | --- | --- | --- | --- |
 | **Github Repo** | [Github](https://github.com/MrAaronOlsen/rails_engine) | [Github](https://github.com/MrAaronOlsen/mr_a_blog) | [Github](https://github.com/iamchrissmith/air_bnb_clone) |
 | **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Functional/Client Expectations** | 4 | 4 | X |
+| **TDD** | 1 | 3 | X |
+| **Code Organization/Quality** | 3 | 3 | X |
+| **API Design** | 4 | N/A | N/A |
+| **Queries** | 4 | N/A | N/A |
 
 > Rales Engine evaluation comments:
+> Student notes: Because I was doing this project solo, tests were not written for basic index and show endpoints in favor of higher level sql business logic and refactoring. I think it's worth noting that aside from TDD I managed to complete the same work as a paired team.
 \<Instructor Comments Here>
 
 > Cloney Island Sprint 1 evaluation comments:
