@@ -7,18 +7,17 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 2.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3.5
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+PASSED
 
 ## B: Individual Work & Projects
 
@@ -57,6 +56,7 @@
 (feedback to me)
 
 #### (SwAPI Box)
+
   * [GitHub URL](https://github.com/danielbucket/swAPI)
   * [Original Assignment](https://github.com/danielbucket/swAPI)
  
@@ -145,4 +145,11 @@ I don't think I did. I can barely keep up with Turing's pace, let alone lead. A 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING - Get tests into me by wednesday 8/9
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3.5
+
