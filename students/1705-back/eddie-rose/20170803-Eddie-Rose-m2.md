@@ -51,7 +51,7 @@ In this project you’ll use Ruby on Rails to build an online commerce platform 
 
 I wanted to get more experience with authorization and authentication and continue to solidify my understanding of rails as much as possible.
 
-I enjoyed working with my group, we got a long well and they were great resources for help when I was stuck.  We decided to build the cart functionality together since none of us were comfortable with it. We also worked together to fix an active record problem we ran into when we didn't create a join table properly.  This worked well because sometimes in a group when you split up you aren't able to address some of your weak areas.  After that we split up just worked on stories in order.   
+I enjoyed working with my group, we got along well and they were great resources for help when I was stuck.  We decided to build the cart functionality together since none of us were comfortable with it. We also worked together to fix an active record problem we ran into when we didn't create a join table properly.  This worked well because sometimes in a group when you split up you aren't able to address some of your weak areas.  After that we split up just worked on stories in order.   
 
 -----------------------
 
