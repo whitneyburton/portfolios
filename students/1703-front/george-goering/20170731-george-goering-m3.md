@@ -1,5 +1,12 @@
 ### Module 3 (Front-end)
-  # Individual Assessment: Pass
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 3.5
+D: Professional Skills: 4
+E: Community Participation: 3.5
+
+# Individual Assessment: Pass
   
   --------------
   # Projects:
@@ -120,13 +127,17 @@ A good project idea should:
     
  # Community:
  * Feedback:
-   ** No formal feedback received in writing
- # Gear Ups
+
+** No formal feedback received in writing
+
+# Gear Ups
  
  ## Gear up on microaggressions
+ 
   * Had some nice talks with the mod on how to best approach somebody who might be making some microaggressions.  It's important to do so in a way that does not humiliate and shame the person as that might hurt your cause more than help it.
  
  ## Gear up on allieship
+ 
   * I definitely liked the idea that being an ally is not a trait one has, but it's something that one demonstrates through action. I also liked the idea that effective allyship is more about standing up for others to your peers (in my case, white people) and not necessarily about reaching out to minority groups to reaffirm that you support them, as that does little to reduce their struggle.  
   
  *  However, I do not agree that allyship should extend to being obligated to make your social events accommodating to everyone regardless of their limitations.  I have to say, the scenario where the cohort decides to go to the bar really bothered me because I don't think it's a good example of "when someone could have used an ally", and in my opinion cheapens the use of the term when it is applied to areas such as racial or gender inequality. 
@@ -138,9 +149,25 @@ A good project idea should:
  In the scenario where the cohort decides to go to the bar, someone feels left out because they don't want to, or feel like they can't be around alcohol.  I do not believe it is a reasonable expectation for that person to think that they should be accommodated and have the whole group do something else just for their sake.  The non-drinker who took issue with this is not respecting the rights of others to spend their time as they wish, and it's nobody's obligation to make sure that the group does something this person feels comfortable taking part in, and it's also nobody's obligation to assume that just because this person doesn't drink, they are uncomfortable even being around alcohol. As there was no violation of the non drinker's rights, and nobody in the group broke a societal obligation, I disagree at the application of allyship in this situation.
 
 ## Gear up on when to learn a new language
+
  * One thing that may seem obvious but was not obvious to me was that the best time to learn a new language is when you have to.  It can be very difficult to motivate yourself to learning one on your own, but if you put yourself in a position where you are forced to learn it, you will have a good chance of succeeding. 
  
+ ## notes 
+- IronFE 
+  - talking about fundamentals 
+    - closures 
+    - currying 
+    - recurssion 
+    - higher order functions 
+    - recomposing
+    - correct vocabulary 
+  - stagger the difficulty 
+  - spin it as job prep. 
+  - tech challenges 
+ 
 ## Rubric Scores
+
+PASS
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3.5
