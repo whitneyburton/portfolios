@@ -56,7 +56,7 @@ Student was able to successfuly explain how each of the algorithms worked and wh
 * [GitHub URL](https://github.com/Kalikoze/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
-Complete-Me is Trie data structure implementation using count, suggest, insert, populate, and select methods to auto-complete words from a dictionary and append them to the DOM.
+Complete-Me is a Trie data structure implementation using count, suggest, insert, populate, and select methods to auto-complete words from a dictionary and append them to the DOM.
 
 ## Instructor: Limbo
 ## Optional Notes:
