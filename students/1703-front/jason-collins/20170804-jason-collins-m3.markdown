@@ -127,7 +127,7 @@ One of the things I appreciate most about Turing is the focus on professional sk
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
 
-This was a good gear up to talk about issues we've experienced while at Turing. While I haven't experienced 
+This was a good gear up to talk about issues we've experienced while at Turing. While I haven't experienced anything serious, I do keep feeling like people don't expect me to be here, given my past working experience. I often get asked questions about why I am in Turing in a way that makes me sometimes feel not welcomed.
 
 #### Allyship
 
@@ -149,7 +149,7 @@ _As an ally, I would explain the importance of the small, supportive groups and 
 
 #### Case Study (Learning a New Language, taught by Mod 4)
 
-This session got serious deep, on a metaphysical level! It started with structure but ended up being a very free-flowing group conversation about knowledge, how we each define it, and how it applies to something like programming. It was an exercise in abstract thinking...which in many ways directly applies to solving programming problems.
+This was a good opportunity to get ideas about how to learn a new language, given that we'll all be having to do it after Turing, most likely. One thing I suggested was to read the book Seven Languages in Seven Weeks, as well as its follow-up book. It's a great primer for diving into a new language and understanding the basic tenets of the language quickly, which is a helpful skill to have as a developer.
 
 ## E: Community Participation
 
