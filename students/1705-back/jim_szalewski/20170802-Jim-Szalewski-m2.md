@@ -53,6 +53,9 @@ Dan, Wil, and I were all pretty much equal as far as roles. We would get togethe
 I feel like we all had an equal share in the learning opportunities on this project. It felt good to push myself to implement the paperclip gem (even though the instructions on thoughtbot's github page are fairly clear) and to push myself in general. So far I have been intimidated to try to do anything I perceived as extra, but throughout the course of the mod I've come to realize that self motivation is key to learning as much as possible. The finished product is something that I am proud to show off to friends, and I look forward to increasing my learning.
 
 -----------------------
+## Technical blog post
+[blog post url](https://medium.com/@jim_szalewski/my-first-technical-blog-post-be8446967939)
+-----------------------
 
 ## C: Final Assessments
 
