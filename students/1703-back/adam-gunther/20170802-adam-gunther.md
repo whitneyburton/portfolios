@@ -63,7 +63,7 @@
 > **[Allyship](https://github.com/turingschool/gear-up/blob/master/allyship.markdown)**
 >* Allyship involved small group discussion around scenarios that someone might need an ally for support. The scenarios were interesting and challenging. The take away was it's better to overstep as an ally then not help another person.
 
-> **[Attention Economy]**
+> **[Attention Economy](https://www.youtube.com/watch?v=50R21mblLb0)**
 >* The takeaway was of the attention economy was how it is a part of competitive capitalism and uses psychology to keep your attention as long as possible for advertising. Changes focus from an information economy to one of attention. The ethics were difficult to agree upon, but regulation seemed to be the only real way to slow down the aggressive advertising or else up to personal responsibility to be aware. 
 
 ## D: Community Participation
