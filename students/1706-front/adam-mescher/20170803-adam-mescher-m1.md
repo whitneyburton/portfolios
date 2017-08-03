@@ -107,11 +107,101 @@ PAIRING
 * [GitHub URL](https://github.com/AdamMescher/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-2DoBox pushed me as a developer as both a 
+2DoBox pushed me as a developer both coding and the soft skills. This project taught me how to look into another codebase and make it my own. 
 
-(evaluation comments)
+## HTML
 
-(evaluation scores)
+#### Accessibility
+
+* Proficient (really strong effort and usage of the class taught yesterday)
+
+#### Style
+
+* Exceptional  
+
+<br>
+
+------------------------------------------------------------------
+
+## CSS
+
+#### Structure of Code
+
+* Proficient  
+
+#### Implementation
+ 
+* Exceptional  
+
+<br>
+
+------------------------------------------------------------------
+
+## JAVASCRIPT
+
+#### Data Types
+
+* Exceptional  
+
+#### Conditional Logic
+
+* Proficient
+
+#### Functions & Scope
+
+* Exceptional
+
+#### Arrays
+
+* Advanced Beginner  &   * Proficient
+
+#### Objects & Prototypes
+
+* Advanced Beginner  &   * Proficient
+
+#### DOM Manipulation
+
+* Proficient  
+
+#### Style
+
+* Exceptional  
+
+<br>
+
+------------------------------------------------------------------
+
+## GIT & GITHUB
+
+#### Git
+
+* Proficient  &  * Exceptional
+
+#### Github
+
+* Proficient  &  * Exceptional  
+
+<br>
+
+------------------------------------------------------------------
+
+## DESIGN
+
+#### Design Concepts
+
+* Exceptional
+
+<br>
+
+------------------------------------------------------------------
+
+## PAIRING
+
+#### Collaboration
+
+* Exceptional
+
+<br>
 
 ## E: Community Participation
 
