@@ -25,7 +25,7 @@ PASSED
 
 ## B: Individual Work & Projects
 
-#### Number Guesser
+### Number Guesser
 
 * [GitHub URL](https://github.com/francylang/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -55,7 +55,7 @@ PASSED
 
 * **Javascript** *Break into small baby fuunctions. Dig more into objects. Try refactoring using jQuery.*
 
-#### Static Comp Challenge #1
+### Static Comp Challenge #1
 
 * [GitHub URL](https://github.com/francylang/fl-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
@@ -63,12 +63,12 @@ PASSED
 **My notes for refactor:**
 *Darker jean color so that white text is easier to read. Shrink icons to fit better on small screens. Add fun hover states to icons/boxes. Reduce button size during squishing. Clean up CSS.*
 
-#### Static Comp Challenge #2
+### Static Comp Challenge #2
 
 * [GitHub URL](https://github.com/francylang/fl-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-#### Static Comp Challenge #3
+### Static Comp Challenge #3
 
 * [GitHub URL](https://github.com/francylang/fl-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
@@ -78,7 +78,7 @@ PASSED
 
 ### Projects
 
-#### Linked List
+### Linked List
 
 * [GitHub URL](https://github.com/robbiegreiner/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
@@ -106,7 +106,7 @@ PASSED
 **FEEDBACK FROM ROBBIE:**
 Francy's strengths were definitely work ethic, attitude and communication.  Francy showed up every time we worked together with a great attitude and worked hard.  She definitely has the drive and passion to succeed.  This pushed me to work hard also, which resulted in a really solid end product.  Francy was great at communication.  When we weren't working together in person, we communicated regularly through slack.  Francy was great to work with in all scenarios, whether we were working driver-navigator or working remotely.  She always did her share of the work and expected the same out of me.  Francy was awesome a GitHub and we were one of the few groups in our class who utilized github correctly, which is great because github wasn't even introduced to us until after we started the project.  There were not too many things Francy seemed to struggle with.  Francy didn't have much experience utilizing anonymous function as compared to named functions, which I have the same struggles just vice-versa.  Both Francy and I don't have much experiene with jQuery.  Our code ended up being a mish-mash of javascript with jQuery sprinkled in.  Both of us will need to practice more jQuery so we can better manipulate the DOM. 
 
-#### IdeaBox
+### IdeaBox
 
 * [GitHub URL](https://github.com/francylang/idea-box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -157,7 +157,7 @@ Francy, It was wonderful to have you a partner, I thought we worked well togethe
 **My notes for refactor:**
 *Change CardElements to CardElement. Work on creating one function for upvote and downvote. Same for body and title edit. No nested if, else statements. Look deeper into parent elements (sepcifcally on 'keyup'). 
 
-#### 2DoBox-Pivot
+### 2DoBox-Pivot
 
 * [GitHub URL](https://github.com/francylang/2DoBox-pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
