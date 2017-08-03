@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-> I set out to learn how to provide and consume APIs, utilize internal APIs, and learn some javascript to provide better UI/UX. I learned how to use Action Cable, AJAX, background workers and microservices. 
+> I learned how to provide and consume APIs, utilize internal APIs, and learn some javascript to provide better UI/UX. I challenged myself to learn how to use Action Cable, AJAX, background workers and microservices. 
 
 ## Self-Assessment
 
@@ -35,7 +35,7 @@
 >* Enjoyed learning how to use Action Cable and websockets as well as disecting a popular web application and building it from scratch. It was a great exercise in scoping an appropriate amount of work that can be done in 10 days and determining which levels of complexity we should implement.
 
 > **[Cloney Island Sprint 2](https://github.com/adamgunther1/dark_clout)** 
->*  The goal of this project was to inherit an already working codebase and build upon the existing functionality. The original app was a clone of 'Dropbox', so we opted to use your photos and documents We implemented oauth to sign in with Facebook which fired off a background worker that called on Facebook's API with Redis and Sidekiq to pull as much personal and photo data as we could. how much information you are exposing when you authorize with Facebook. We built a dashboard of charts and maps for data visualizaton to show the user how much information about themselves that they're giving away by uploading a photos and documents or loggin in with Facebook.
+>* The goal of this project was to inherit an already working codebase and build upon the existing functionality. The original app was a clone of 'Dropbox', so we opted to use your photos and documents We implemented oauth to sign in with Facebook which fired off a background worker that called on Facebook's API with Redis and Sidekiq to pull as much personal and photo data as we could. how much information you are exposing when you authorize with Facebook. We built a dashboard of charts and maps for data visualizaton to show the user how much information about themselves that they're giving away by uploading a photos and documents or loggin in with Facebook.
 
 >* Enjoyed learning to implement Ajax and work more with Javascriptto provide a better UI/UX and visualize data. Getting to work with background workers while consuming APIs and providing API endpoints for analytics. Working on an exisitng code base was a great experience.
 
@@ -57,12 +57,12 @@
 
 ## C. **Gear Ups**
 
-> [Microaggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-\A class that focused on reading articles and discussing them in small groups. Discussion and readings were focused around microaggressions and how to prevent and address it. Interesting to hear how people respond. My group found humor to be a good way to deal with it.
-> [Allyship](https://github.com/turingschool/gear-up/blob/master/allyship.markdown)
-\Allyship involved small group discussion around scenarios that someone might need an ally for support. The scenarios were interesting and challenging. The take away was it's better to overstep as an ally then not help another person.
-> [Attention Economy]
-\The takeaway was of the attention economy was how it is a part of competitive capitalism and uses psychology to keep your attention as long as possible for advertising. Changes focus from an information economy to one of attention. The ethics were difficult to agree upon, but regulation seemed to be the only real way to slow down the aggressive advertising or else up to personal responsibility to be aware. 
+> **[Microaggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
+>* A class that focused on reading articles and discussing them in small groups. Discussion and readings were focused around microaggressions and how to prevent and address it. Interesting to hear how people respond. My group found humor to be a good way to deal with it.
+> **[Allyship](https://github.com/turingschool/gear-up/blob/master/allyship.markdown)
+>* Allyship involved small group discussion around scenarios that someone might need an ally for support. The scenarios were interesting and challenging. The take away was it's better to overstep as an ally then not help another person.
+> **[Attention Economy]
+>* The takeaway was of the attention economy was how it is a part of competitive capitalism and uses psychology to keep your attention as long as possible for advertising. Changes focus from an information economy to one of attention. The ethics were difficult to agree upon, but regulation seemed to be the only real way to slow down the aggressive advertising or else up to personal responsibility to be aware. 
 
 ## D: Community Participation
 
@@ -72,7 +72,7 @@
 
 #### **Playing a Part**
 
-> I have paired with Mod 1 students various times and am working with a group to arrange job tours for Turing students.
+  >* I have paired with Mod 1 students various times and am working with a group to arrange job tours for Turing students.
 
 ------------------
 
