@@ -260,8 +260,6 @@ Helped my cohort as much as possible and actively participated constructively in
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending static comp 3
