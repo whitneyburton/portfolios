@@ -33,11 +33,11 @@ A web-app that uses your current location to display upcoming concerts and infor
 - Completion: 3.5:
 	- Developer completed all the user stories and requirements set during check-ins.
 - Organization: 3 
-	- Developer used a project management tool to keep their project organized. - Pending
+	- Developer used a project management tool to keep their project organized. 
 
 ##### Technical Quality:
 - Test-Driven Development: 3
-	- Project shows adequate testing (90% - 95% coverage). - Pending
+	- Project shows adequate testing (90% - 95% coverage). 
 - Code Quality: 3
 	- Project demonstrates solid code quality, proper abstractions, and reduced duplication.
 
@@ -138,8 +138,17 @@ During this module I have continued to help those in the modules below me. While
 
 ### Notes
 
-( Leave blanks for reviewers )
+-IronFE 
+  - leading one 
+- Codewars etc  
+- focus on testing 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+* **A: End-of-Module Assessment**: 3.5         
+* **B: Individual Work & Projects**: 3 
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3 
