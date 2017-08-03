@@ -150,7 +150,7 @@ The output from eslint shows…
 
 This is a weather application that displays the current weather and the forecast for the next seven hours and ten days of a city using the Wunderground API and React.
 
-## Instructor: Mike
+## Instructor: Limbo
 ## Optional Notes:
 
 ### Specification Adherence
