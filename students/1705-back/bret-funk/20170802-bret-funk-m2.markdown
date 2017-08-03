@@ -10,7 +10,7 @@ I set out to accomplish being good at rails and being better at testing.  Overal
 
 ## Areas of Growth
 
-I struggled most with the cart stuff because I thought I needed to have it all memorized for the final (which I do!).
+I struggled most with the cart stuff because I thought I needed to have it all memorized for the final (which I do now have memorized!).
 I grew the most as a more seasoned programmer, knowing what is possible with programming and knowing what is not possible.  I also feel much better about testing and problem solving.  
 
 ## Blog Post
@@ -21,7 +21,7 @@ https://medium.com/@BretFunk/html-form-input-types-4cafa73c6156
 
 ## B: Individual Work & Projects
 
-(Intro)
+I really enjoyed the projects this mod and my groups were great.  It is fun to be able to build things I can show my family (even if they are not that impressed).
 
 #### Bike-Share
 
@@ -36,6 +36,30 @@ My goal was to be the workhorse and I felt I accomplished this.  I wrote a large
 
 (reflection on project)
 Bike Share was my favorite project.  I really enjoyed CRUD and the Active Record analysis.  
+
+Feedback from Mike:
+
+Complete through 8.
+Errors! (As in it tells you about them)
+Controller has one busy method/route.
+
+1. Functional Expectations
+2: Application has some small missing base functionality
+
+2. ActiveRecord
+3: ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. A project at this level may have some queries that have not produced the correct results based on the expectations described, but in those cases the query was still generally on the right path and demonstrated some minor misunderstanding.
+
+3. User Experience and Conventions
+4: Project uses Sinatra methods and ERB templates to display both resources and non-resource related views with appropriate routes, and HTTP verbs. All functionality can be accessed in the application where expected based on the spec. User experience is exceptional ('client ready') and all pieces of the application can be accessed without entering addresses manually in the navbar.
+
+4. Code Organization/Quality
+3: Some logic not related specifically to HTTP requests/resesponses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns. Limited logic may leak into the views.
+
+5. Testing
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+6. Working Collaboratively
+3: Good use of branches, pull requests, and a project-management tool.
 
 #### Mix Master
 
@@ -79,7 +103,7 @@ Fun project, great group.  I was pretty hard on myself after the in-class assess
 
 (how did you do on written and timed independent?)
 My timed independent assessment was easily the worst thing I have done at Turing.  I am not exactly sure what happened but I used the rails shortcut to make a jointable following the docs (create_join_table :job :tag) and it didn't create the jointable correctly and I never could recover despite trying everything.  I spent the last 30 minutes just bypassing the jointable and writing code as if it worked (even though I couldn't test!) so I could show you that I still knew the direction to go even if I wasn't actually making progress.  I do not feel it represents my abilities or is a reflection of how much I have absorbed this module but it is I who created this mess so I accept my fate.  Making a join table and debugging it if it doesn't work correctly is not asking a lot and I should have been able to do it.  In fact, I went home and created the join table with a normal migration and it worked just fine.  I think I should have just deleted and started over but with a timed assessment it is easy to get stressed about time.  
-My written went well and was a representation of of my knowlege (although I do not understand why I lost half a point for sessions, I feel that my answer was solid).
+My written went well and was a representation of of my knowlege (although I do not understand why I lost half a point for sessions, I feel that my answer was solid!).
 
 -----------------------
 
