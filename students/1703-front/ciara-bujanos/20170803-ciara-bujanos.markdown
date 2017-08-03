@@ -1,4 +1,4 @@
-Ciara Bujanos - M3 Portfolio
+## Ciara Bujanos - M3 Portfolio
 
 Areas of Emphasis
 
@@ -13,7 +13,7 @@ C: Group Work & Projects: 3
 D: Professional Skills: 3.5
 E: Community Participation: 3
 
-A: End of Module Assessment: 3
+A: End of Module Assessment: PASS
 
 B: Individual Work & Projects
 
@@ -75,11 +75,11 @@ Goals
 The idea of the project is to be able to sign in as a user and save favorite movies using Redux
 
 evaluation scores
-Specification Adherence: 2.5
+Specification Adherence: 3
 Redux Architechture: 3 
 Routing 3
 JavaScript Style: 3
-Testing: 2.5
+Testing: 3
 Workflow
 
 D: Professional Skills
@@ -99,11 +99,26 @@ This was kind of similar to the being and ally gear up but this was more about h
 F: Feedback
 
 Didn't get any from project partners. Jhun's feedback to me was to work on my confidence and that if I don't feel good about something then just write it and erase it over and over until I get it. 
+
 Final Review
 
 Notes
 
-( Leave blanks for reviewers )
+- Go to IronFE 
+    -explaining code 
+    - vanilla JS
+    - works on confidence and speed 
+
+- Exercisms! 
+    - logical thinking 
+    - should be doing atleast 1 -2  a week. 
 
 Outcome
 
+PASS
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3
+D: Professional Skills: 3.5
+E: Community Participation: 3
