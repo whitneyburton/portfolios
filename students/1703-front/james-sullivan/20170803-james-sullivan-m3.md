@@ -166,12 +166,13 @@ I was also our posse leader for the mod.  I reached out to our posse mentors and
   - Explaining problems 
   - Will help the community 
   - 2 / 3 times  || leading one 
+
 ### Outcome
 
 PASS 
 
 A: End-of-Module Assessment: 3
-B: Individual Work & Projects: 3
+B: Individual Work & Projects: 4 
 C: Group Work & Projects: 3
 D: Professional Skills: 3
 E: Community Participation: 3
