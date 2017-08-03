@@ -38,6 +38,7 @@ The Sorting Suite project was a great chance for me to practice my Javascript sk
 * [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
 The Sorting Suite project includes different sorting algorithms including:
+
 	* Bubble Sort
   * Insertion Sort
   * Merge Sort
