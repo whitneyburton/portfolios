@@ -28,10 +28,9 @@ During the last six weeks,
 * [GitHub URL](https://github.com/AdamMescher/ad-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
+Starting from scratch felt intimidating but it felt very rewarding to show what I had accomplished in this project to the class. This project taught me how to start from an image and finish with a tangible site as well as the ins and outs of flexbox. 
 
-While the overall feedback was mostly positive, there were plenty of small things that needed to be addressed.
-
+The overall feedback was mostly positive, through there were plenty of small things that needed to be addressed. 
  #### Static Comp Challenge 3
 
 * [GitHub URL](https://github.com/AdamMescher/am-comp-challenge-3)
