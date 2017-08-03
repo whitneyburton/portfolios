@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Rufus Welsh - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Learn JS syntax, develop strong CSS skills, create semantic, accessible HTML
 
 ## Rubric Scores
 
@@ -22,6 +22,28 @@
 ## B: Individual Work & Projects
 
 (Intro)
+
+#### Number Guesser
+
+* [GitHub URL](https://github.com/rufusasterisk/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+(description)
+Build HTML and CSS to match the given composition image. Create a number guessing game that allows the user to set the range and provides feedback if the number is too large or too small.
+
+(evaluation comments)
+Great job!
+Pixel perfect match of the comp (WAHOO!)
+Love the initialize/start page, it needs a little polish to make it really clear for users -- get it in front of a few people and let their feedback guide your adjustments.
+Total ownership of the codebase, was able to answer and explain all questions and suggestions made, all choices in the code were carefully considered and implemented.
+extremely thoughtful about execution and craft of the code
+work on including ARIA/accessibility in HTML!
+
+(evaluation scores)
+Comp - Exceptional
+HTML - Proficient
+CSS - Proficient
+Javascript - Proficient
 
 #### (Project Name)
 
