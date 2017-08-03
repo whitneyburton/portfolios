@@ -4,14 +4,12 @@
 
 What did you set out to accomplish this module? Were you successful?
 
-
 What did you struggle most with this module? What did you learn from that struggle?
 
 ## Projects
 
 What were your favorite projects this module? Least favorite? Why?
-  Favorite - Battleship because of the throwback and getting it done.
-  Least    -  Enigma because the crack was impossible.
+
 What did you learn from your independent projects?
 
 What did you learn from your paired projects?
