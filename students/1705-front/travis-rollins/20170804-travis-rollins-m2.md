@@ -100,7 +100,7 @@ I completed 2 group projects this module including:
 	
 Our team used Javascript and HTML canvas to re-create the game Tron for Game Time. This was also the first time that we had started implementing tests using mocha and chai to check and make sure the game was working correctly. For Weathrly, our team used React, ES6, and api calls to make a weather application. We spent much more time this project doing Test-Driven-Development using Jest and Enzyme.
 
-#### (Project Name)
+# Game Time
 
 * [GitHub URL](https://github.com/Kalikoze/Game-Time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
@@ -141,9 +141,49 @@ The output from eslint shows…
 
 * 4 - Zero complaints
 
-### Feedback
+# Weathrly
 
-Travis was extremely hard-working and motivated during this project.  Whenever we were stuck on something in our project, Travis would commit to figuring out how to solve the problem.  He always took the time to explain how his code worked and was always open to new ideas. His patience and drive helped keep the team inspired throughout the project. 
+* [GitHub URL](https://github.com/Kalikoze/weatherly)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+
+This is a weather application that displays the current weather and the forecast for the next seven hours and ten days of a city using the Wunderground API and React.
+
+## Instructor: Mike
+## Optional Notes:
+
+### Specification Adherence
+
+3 - The application consists of one page with all of the major functionality being provided by React/JS. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+### User Interface
+
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
+
+### HTML Style
+
+4 - Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors.
+
+### CSS/Sass Style
+
+3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
+
+### JavaScript / React Style
+
+3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application has at least 6 components built out.
+
+### Testing
+
+4 - Project has a running test suite that exercises the application at multiple levels (feature and unit). The test suite covers almost all aspects of the application.
+
+### Workflow
+
+4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from a code sanitizer ESLint shows…
+
+4 - Zero complaints
 
 ## D: Professional Skills
 (Intro)
