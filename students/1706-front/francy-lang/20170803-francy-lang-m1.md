@@ -51,9 +51,9 @@ PASSED
 
 **My notes for refactor:**
 
-**HTML/CSS** *Change id's to classes. Incorporate ARIA. Change breaks to margin. Consolidate multi-line rules into one(CSS). Take out comments and ensure all code naming is self-explanatory.* 
+* **HTML/CSS** *Change id's to classes. Incorporate ARIA. Change breaks to margin. Consolidate multi-line rules into one(CSS). Take out comments and ensure all code naming is self-explanatory.* 
 
-**Javascript** *Break into small baby fuunctions. Dig more into objects. Try refactoring using jQuery.*
+* **Javascript** *Break into small baby fuunctions. Dig more into objects. Try refactoring using jQuery.*
 
 #### Static Comp Challenge #1
 
@@ -208,7 +208,6 @@ Francy, It was wonderful to have you a partner, I thought we worked well togethe
 
 * **Collaboration:** *Advanced Beginner*
 
-(feedback to me)
 
 ## D: Professional Skills
 
