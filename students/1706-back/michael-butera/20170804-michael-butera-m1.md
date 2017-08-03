@@ -50,9 +50,28 @@ on me.
 
 #### What was your favorite Gear Up? Least favorite? Why?
 
+My favorite gear up was the mod 4 led gear up that I attended. I did not know that
+it was going to be about fake news, but it was, and that was awesome because I am
+into the phenomenon. I thought that the gear up was pretty well put together,
+and fostered great conversation.
+
+My least favorite was the gear up about being introverted vs extroverted. I
+realize that this is something that people really look into, but I do not think
+that a label and ways of appeasing certain types of people in the workplace is
+100% necessary. I know that I lean towards being introverted, but do not think
+that there should be certain ways of talking to me to get things done.
+
 #### How did you contribute to the Turing community this module?
 
+I made myself available to people in my cohort that needed help. I did my part
+in helping keep the basement clean and talked to some people in upper mods.
+
 #### What would you like to do to contribute next module?
+
+I want to be active in the pairing Slack channel that we created. I did not
+take full advantage of the fact that the people in mod 2 created a channel for us,
+and I want to make sure that the mod below me knows that they can use that channel
+for help.
 
 ## Self-Assessment Scores
 
