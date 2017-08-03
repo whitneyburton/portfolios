@@ -197,14 +197,12 @@ I really enjoyed the professional lessons given this module including how to rea
 
 I really enjoyed the conversations in this GearUp with my fellow classmates and it helped me realize and understand many of the priveleges that I have.  Not everyone is able to enjoy those priveleges or feel safe in their environment.  As a result, I would like to try harder to listen better and try to shift how I work in order to make others around me feel safe.  By doing so and checking in more frequently, I hope I can provide a better work environment for the people around me.
 
-### Gear Up
 #### Allyship
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/allyship.markdown)
 
 This was a really interesting GearUp to me in that it made me think differently than I had before on what it means to be an ally.  It was really interesting going through the scenarios and wondering how I could be an ally or if I was the victim, how would I want an ally to respond?  It made me realize how important it is not only to say you're an ally, but really prove it and act upon it.  It's important to keep up with current events and what is going on with the people around you and listen.  I would like to keep working on being a better ally by working with more diverse groups and give equal opportunities to others when possible.
 
-### Gear Up
 #### Learning a New Language
 
 * [GitHub URL](https://github.com/VictoriaVasys/learning-a-new-language/)
