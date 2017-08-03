@@ -6,7 +6,7 @@
 
 ## Areas of Emphasis
 
-I had a hard time in mod 1 and I wanted to better this mod.  I planned to adjust my study habits based on that experience.
+I had a hard time in mod 1 and I wanted to do better this mod.  I planned to adjust my study habits based on that experience.
 
 ## Areas of Growth
 
