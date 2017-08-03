@@ -28,10 +28,10 @@ Learn JS syntax, develop strong CSS skills, create semantic, accessible HTML
 * [GitHub URL](https://github.com/rufusasterisk/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+### Description
 Build HTML and CSS to match the given composition image. Create a number guessing game that allows the user to set the range and provides feedback if the number is too large or too small.
 
-(evaluation comments)
+### Evaluation Comments
 Great job!
 Pixel perfect match of the comp (WAHOO!)
 Love the initialize/start page, it needs a little polish to make it really clear for users -- get it in front of a few people and let their feedback guide your adjustments.
