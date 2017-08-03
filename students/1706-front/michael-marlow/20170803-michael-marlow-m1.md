@@ -328,4 +328,4 @@ and I really appreciated the overall positive feedback I recieved from my cohort
 
 ### Outcome
 
-Pending Static Comp 
+Pending Static Comp 3
