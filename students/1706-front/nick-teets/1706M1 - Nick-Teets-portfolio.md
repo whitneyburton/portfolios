@@ -309,8 +309,6 @@ I enjoyed exploring the different communities within Turing, including the runne
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
