@@ -92,6 +92,8 @@
 
 **Surprise and Delight:** *Hot Fire & * Magic*
 
+**FEEDBACK FROM ROBBIE:**
+Francy's strengths were definitely work ethic, attitude and communication.  Francy showed up every time we worked together with a great attitude and worked hard.  She definitely has the drive and passion to succeed.  This pushed me to work hard also, which resulted in a really solid end product.  Francy was great at communication.  When we weren't working together in person, we communicated regularly through slack.  Francy was great to work with in all scenarios, whether we were working driver-navigator or working remotely.  She always did her share of the work and expected the same out of me.  Francy was awesome a GitHub and we were one of the few groups in our class who utilized github correctly, which is great because github wasn't even introduced to us until after we started the project.  There were not too many things Francy seemed to struggle with.  Francy didn't have much experience utilizing anonymous function as compared to named functions, which I have the same struggles just vice-versa.  Both Francy and I don't have much experiene with jQuery.  Our code ended up being a mish-mash of javascript with jQuery sprinkled in.  Both of us will need to practice more jQuery so we can better manipulate the DOM. 
 
 #### IdeaBox
 
@@ -138,7 +140,8 @@
 
 **PAIRING:** **Collaboration** *Proficient	Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.*
 
-(feedback to me)
+**FEEDBACK FROM BEN:**
+Francy, It was wonderful to have you a partner, I thought we worked well together and am very happy with how the project came out. Thank you for being the balance to my intensity and panic. Your organizational skills are great, and your foresight to sign up for the pairing was a massive help. Thank your for keeping the code so clean and organized and the way you handled the JS logic was great. My biggest advice and I think it applies to both of us is to pursue exactly how and when to use prototype functions, and work out some of the syntax errors. Thank you for your terrific work and I am glad the project turned out so great.
 
 #### 2DoBox-Pivot
 
