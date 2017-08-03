@@ -29,7 +29,7 @@ This project was equally rewarding and difficult. Interacting with an external A
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](https://github.com/Benjaminpjacobs/rails-engine)** 
+> **[Rales Engine](https://github.com/Benjaminpjacobs/rails-engine)**
 
 A sales data api built with Rails 5.1 and Ruby 2.4.1. This engine serves up record, relationship and business intelligence     JSON for the included dataset.
 
@@ -43,7 +43,7 @@ Trail Up is a social hiking app with allows users to browse from thousands of tr
 
 This project was excellent experience working under high stress conditions on a restricted time table. It gave my team the opportunity to explore new technologies and push ourselves to learn new things to incorporate features quickly. Overall it was a valuable experience in team dynamics and time management as well.
 
-> **[Cork Board](https://github.com/Benjaminpjacobs/corkboard)** 
+> **[Cork Board](https://github.com/Benjaminpjacobs/corkboard)**
 
 Cork Board allows users to find professionals to handles a variety of projects from home-improvement to tutoring. It offers a dynamic market place where professionals can bid for jobs and communicate directly with their would-be customers.
 
@@ -62,7 +62,7 @@ This has been perhaps the most valuable project of the module. Coming in to brow
 
 ## C. **Gear Ups**
 
-Gear ups this module were mainly centered around how to be an Ally and to recognize situation in one's community where the opportunity to be one can be exercised. Many of these conversations continue to stick with me even now. Specifically the gear up on micro-aggressions stands out as one that permanently altered the way I saw my own actions and my role in group dynamics. It has been important to me moving forward to not only try to be more thoughtful of my own voice and actions(intents vs impact), but to be more consciously aware of the interactions around me. 
+Gear ups this module were mainly centered around how to be an Ally and to recognize situation in one's community where the opportunity to be one can be exercised. Many of these conversations continue to stick with me even now. Specifically the gear up on micro-aggressions stands out as one that permanently altered the way I saw my own actions and my role in group dynamics. It has been important to me moving forward to not only try to be more thoughtful of my own voice and actions(intents vs impact), but to be more consciously aware of the interactions around me.
 
 ## D: Community Participation
 
@@ -78,6 +78,6 @@ In general I have tried to remain a sensitive and present member of my cohort. T
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted
