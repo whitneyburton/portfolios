@@ -1,4 +1,4 @@
-# John Micahel - M1 Portfolio
+# John Michael - M1 Portfolio
 
 ## Areas of Emphasis
 
