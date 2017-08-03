@@ -39,7 +39,7 @@ The Sorting Suite project was a great chance for me to practice my Javascript sk
 
 The Sorting Suite project includes different sorting algorithms including:
 
-	* Bubble Sort
+  * Bubble Sort
   * Insertion Sort
   * Merge Sort
   * Quick Sort
