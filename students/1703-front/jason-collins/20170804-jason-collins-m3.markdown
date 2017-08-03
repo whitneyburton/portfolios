@@ -171,8 +171,17 @@ During Module 3, I participated in the Turing community by attending Demo Nights
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Leading an IronFe
+- Students would benefit from your knowledge 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS 
+
+| Category                                    | Self-Eval |
+| ---                                         |   :---:   |
+| **A: _End-of-Module Assessment_**           |    3.5    |
+| **B: _Individual Work & Projects_**         |    3.5    |
+| **C: _Group Work & Projects_**              |    4.0    |
+| **D: _Professional Skills_**                |    4.0    |
+| **E: _Feedback & Community Participation_** |     3     |
