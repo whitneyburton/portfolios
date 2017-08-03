@@ -6,11 +6,11 @@ I wanted to learn the beginnings of web development this module, including HTML,
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -342,8 +342,6 @@ I helped my fellow classmates when able. I also tried to be very encouraging and
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
