@@ -167,7 +167,6 @@ We started getting serious about our job search and making sure that we have the
 ### Playing a Part
 
 I was blown away that mod 2 students took my lead from last mod and put together study sessions for mod 1 students to cover mythical creatures.  They even used the materials I created!!  I didn't feel like I took as direct a role in helping lower mods this inning as I did last inning, but I made it a point to regularly stop into mod 2 and mod 1 FE classrooms to offer help throughout the inning.  As an SAB rep this inning, I also took it upon myself, with the help of Evan Miller, to coordinate the logistics for the code fair.  There is some room for improvement there, but it still went off well.
-
  
 ------------------
 
@@ -175,8 +174,19 @@ I was blown away that mod 2 students took my lead from last mod and put together
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Do more vanilla / foundational javascript 
+    - OOP
+    - FP
+    - Closures 
+- Lead / Attend IronFE 
+- Exercisms 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3.5
+* **E: Community Participation**: 3.5
