@@ -5,11 +5,11 @@ My goals for Mod 1 were around: harnessing the foundations, exploring the life o
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 
+* **B: Individual Work & Projects**: 
+* **C: Group Work & Projects**: 
+* **D: Professional Skills**: 
+* **E: Community Participation**: 
 
 -----------------------
 
@@ -31,6 +31,7 @@ PASSED
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 **Evaluator:** *Brenna*
+
 **Evaluation Comments**
 * *Exploring aria roles*
 * *Consolidating CSS rules*
@@ -49,6 +50,7 @@ PASSED
 **JS/jQuery** *Proficient*
 
 **My notes for refactor:**
+
 **HTML/CSS** *Change id's to classes. Incorporate ARIA. Change breaks to margin. Consolidate multi-line rules into one(CSS). Take out comments and ensure all code naming is self-explanatory.* 
 
 **Javascript** *Break into small baby fuunctions. Dig more into objects. Try refactoring using jQuery.*
@@ -57,6 +59,9 @@ PASSED
 
 * [GitHub URL](https://github.com/francylang/fl-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+**My notes for refactor:**
+*Darker jean color so that white text is easier to read. Shrink icons to fit better on small screens. Add fun hover states to icons/boxes. Reduce button size during squishing. Clean up CSS.*
 
 #### Static Comp Challenge #2
 
@@ -149,6 +154,9 @@ Francy's strengths were definitely work ethic, attitude and communication.  Fran
 **FEEDBACK FROM BEN:**
 Francy, It was wonderful to have you a partner, I thought we worked well together and am very happy with how the project came out. Thank you for being the balance to my intensity and panic. Your organizational skills are great, and your foresight to sign up for the pairing was a massive help. Thank your for keeping the code so clean and organized and the way you handled the JS logic was great. My biggest advice and I think it applies to both of us is to pursue exactly how and when to use prototype functions, and work out some of the syntax errors. Thank you for your terrific work and I am glad the project turned out so great.
 
+**My notes for refactor:**
+*Change CardElements to CardElement. Work on creating one function for upvote and downvote. Same for body and title edit. No nested if, else statements. Look deeper into parent elements (sepcifcally on 'keyup'). 
+
 #### 2DoBox-Pivot
 
 * [GitHub URL](https://github.com/francylang/2DoBox-pivot)
@@ -221,8 +229,11 @@ I work daily to maintain a growth mindset and effectively live the turing values
 
 ### Notes
 
-( Leave blanks for reviewers )
+
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+
+
+
