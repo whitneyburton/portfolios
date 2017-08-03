@@ -116,7 +116,7 @@ This session forced a hard look into who I am as a person and what drives me pro
 
 #### Coding Schools or Coding Fools
 
-* no github url
+* [Imgur URL of whiteboard with talking points](http://imgur.com/a/rjaPf)
 
 This session was an introspection into coding schools, Turing in particular, and whether we're all idiots or does this model actually have some merits. I found it interesting that we all held a similar perspective, probably because we've all already justified the expense of Turing. The question still looms on my mind but I'm confident that the knowledge gained while at Turing is invaluable and is something employers will desire for years to come. 
 
