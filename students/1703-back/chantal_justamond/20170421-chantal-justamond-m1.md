@@ -106,14 +106,14 @@ I really enjoyed the Gear Up session on growth mindset. Attending Turing require
 
 #### Session 2: Getting Better at Difficult Things
 
-The Gear Up session on getting better at difficult things introduced me to another new concept - cognitive load. I find it fascinating that cognitive load can affect the way you learn, especially the reaction of your brain when cognitive resources are being wasted. Before starting Turing, my wife and I made some preparations so I wouldn’t waste resources. We didn’t have a name for it back then so I was encouraged by the fact that we were moving in the right direction. 
+The Gear Up session on getting better at difficult things introduced me to another new concept - cognitive load. I find it fascinating that cognitive load can affect the way you learn, especially the reaction of your brain when cognitive resources are being wasted. Before starting Turing, my wife and I made some preparations so I wouldn’t waste resources. We didn’t have a name for it back then so I was encouraged by the fact that we were moving in the right direction.
 
 The lady in the video presented 3 ways of learning: the things we can’t do but need to learn, things we can do, but require effort, and then the things we have “mastered” and don’t need to think about much.  I believe this has helped me to succeed on mod-1, to focus on and conquer my weaknesses in code.
 
 
 #### Session 3: Introvert vs. Extrovert
 
-This Gear Up could've not come in a better moment!  It helped me understand how this idea can affect the way we were paired for our group projects.  It is so important to understand your pairing partner, to get to know his/her best way of working as well as my own.  Once you figure that out you can try to reach to a middle ground.  In this session we also saw how important it is for active listening to be in place in both sides of the DTR. These were lessons as valuable as any code I have learned at Turing. 
+This Gear Up could've not come in a better moment!  It helped me understand how this idea can affect the way we were paired for our group projects.  It is so important to understand your pairing partner, to get to know his/her best way of working as well as my own.  Once you figure that out you can try to reach to a middle ground.  In this session we also saw how important it is for active listening to be in place in both sides of the DTR. These were lessons as valuable as any code I have learned at Turing.
 
 #### Session 4: Strengths & Storytelling
 
@@ -136,4 +136,4 @@ Please leave blank for assessor.
 
 ### Outcome
 
-(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+PROVISIONAL - Finish Headcount and Census
