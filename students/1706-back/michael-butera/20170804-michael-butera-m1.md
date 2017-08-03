@@ -82,6 +82,6 @@ for help.
 | **Individual Projects**      |   3   |
 | **Group Projects**           |   4   |
 | **Professional Development** |   3   |
-| **Community**                |   2   |
+| **Community**                |   3   |
 | **Pentathlon**               |   4   |
 
