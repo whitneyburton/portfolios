@@ -202,7 +202,7 @@ I really enjoyed the conversations in this GearUp with my fellow classmates and 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/allyship.markdown)
 
-This was a really interesting GearUp to me in that it made me think differently than I had before on what it means to be an ally.  It was really interesting going through the scenarios and wondering how I could be an ally or if I was the victim, how would I want an ally to respond?  It made me realize how important it is not only to say you're an ally, but really prove it and act upon it.  It's important to keep up with current events and what is going on with the people around you and listen.  I would like to keep working on being a better ally by working with more diverse groups and help give them equal opportunities where possible.
+This was a really interesting GearUp to me in that it made me think differently than I had before on what it means to be an ally.  It was really interesting going through the scenarios and wondering how I could be an ally or if I was the victim, how would I want an ally to respond?  It made me realize how important it is not only to say you're an ally, but really prove it and act upon it.  It's important to keep up with current events and what is going on with the people around you and listen.  I would like to keep working on being a better ally by working with more diverse groups and give equal opportunities to others when possible.
 
 ### Gear Up
 #### Learning a New Language
