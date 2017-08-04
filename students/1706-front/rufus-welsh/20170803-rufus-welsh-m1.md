@@ -294,8 +294,14 @@ After receiving exceptional marks in github and project management, I gave a sho
 
 ### Notes
 
-( Leave blanks for reviewers )
+Reasons discussed in person for late portfolio submission.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending turning in professional development requirements
+
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 2
+* **D: Professional Skills**: Pending Submission
+* **E: Community Participation**: 3
