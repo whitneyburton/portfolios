@@ -101,8 +101,6 @@ Learn JS syntax, develop strong CSS skills, and create semantically correct, acc
 
 ## B: Individual Work & Projects
 
-(Intro)
-
 ### Number Guesser
 
 * [GitHub URL](https://github.com/rufusasterisk/number-guesser)
@@ -125,36 +123,9 @@ HTML - Proficient
 CSS - Proficient
 Javascript - Proficient
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-
 ## C: Group Work & Projects
 
 ### Projects
-
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
 
 ### Linked List
 
@@ -199,10 +170,10 @@ I really enjoyed this project, and it felt like a great even-share partnership. 
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 #### Description
-
+This project worked with local storage to create a group of individual ideas displayed on the screen. The idea 'cards' have options to rate the idea, and allows live editing of the card. There is a search field that allows for live searching of the cards entered, filtering the displayed list.
 
 #### Evaluation Comments
-
+No Eval comments
 
 #### Evaluation Scores
 
@@ -239,7 +210,7 @@ Hey Rufus loved being your partner I learned a lot from you on idea box. I feel 
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 #### Description
-
+This project began with an existing code base for ideaBox. The goal was to convert the idea tracker to a to-do list. The application continued to work with local storage, search, and have 'card' edit and voting features. The expansions of the project allowed filtering cards by quality and changing the number of cards displayed on the screen. This project was completed without any nested conditionals by creatively using arrays and JQuery DOM concatenation.
 
 #### Evaluation Comments
 
@@ -289,20 +260,33 @@ No pair partner for this project
 
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
-* [GitHub URL]()
+* [GitHub URL](https://gist.github.com/rufusasterisk/42de7e1ae15e0fc9bc44ed5e40a442a9)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Working Styles
+
+* [GitHub URL](https://gist.github.com/rufusasterisk/b2e6a688d19dfa368793bdb89d4ff0d8)
+
+#### Storytelling and Strengths
+
+* [GitHub URL](https://gist.github.com/rufusasterisk/6d8992c3258b1243d6499769c9fd1e46)
+
+#### Resilience at Turing
+
+* [GitHub URL](https://gist.github.com/rufusasterisk/e1aa443d1d7fb219edfff651996a3008)
+
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I worked with my classmates to solve problems with code when I had the time.
+
+After receiving exceptional marks in github and project management, I gave a short talk about basics of github workflow and Waffle.io integration for project management.
 
 ------------------
 
