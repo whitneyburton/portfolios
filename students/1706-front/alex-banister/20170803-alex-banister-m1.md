@@ -6,11 +6,11 @@ I set out to challenge myself, specifically with javascript and how to structure
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 2/5
-* **B: Individual Work & Projects**: 4/5
-* **C: Group Work & Projects**: 4.5/5
-* **D: Professional Skills**: 3/5
-* **E: Community Participation**: 3/5
+* **A: End-of-Module Assessment**: 3/4
+* **B: Individual Work & Projects**: 3/4
+* **C: Group Work & Projects**: 3/4
+* **D: Professional Skills**: 3/4
+* **E: Community Participation**: 3/4
 
 -----------------------
 
@@ -242,8 +242,7 @@ I haven't been very involved with the community at large but tried to be as avai
 
 ### Notes
 
-( Leave blanks for reviewers )
+Share general awesomeness and tshirts with other cohorts/bigger community at large
 
 ### Outcome
 
-( Leave blanks for reviewers )

@@ -18,8 +18,6 @@ In mod1, I first and foremost set out to see it through to the end and also to l
 
 I think I passed...
 
-
-
 ## B: Individual Work & Projects
 
 #### Number Guesser
@@ -51,12 +49,7 @@ Pay more attention to the mobile design. Try to imagine what its like to be usin
 
 * [Evaluation Scores]()
 
-
-
-
 ## C: Group Work & Projects
-
-
 
 #### Linked Lists
 
@@ -70,9 +63,6 @@ My Eval Comments:
 I thought this project went really well. The biggest take away i had in this eval was making sure to clean up my closing brackets. i had them ordered in a way that was not the greatest.
 
 * [Evaluation Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-1/linked-list/JasonHughes-JohnMichaelBoudreaux.md)
-
-
-
 
 #### Idea Box
 The project was to build an interface that you could store ideas in. it included DOM manipulation and traversal, as well as local storage, quality levels and search features. 
@@ -142,12 +132,6 @@ I don’t think mod1 is really designed to give its subjects much time for extra
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
-( Leave blanks for reviewers )
 
-
-
-
-
+Pass

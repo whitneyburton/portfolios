@@ -9,11 +9,11 @@ help and soften the transition for the newcomers.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -31,8 +31,8 @@ Code Challenge2: Passed
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 ##### description: 
-              Build a game for guessing numbers 1-100, that evolves as a game to allow
-              custom ranges for the user to provide. 
+  Build a game for guessing numbers 1-100, that evolves as a game to allow
+  custom ranges for the user to provide. 
 
 ##### evaluator: Romeeka
 
@@ -326,8 +326,6 @@ and I really appreciated the overall positive feedback I recieved from my cohort
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+Pending Static Comp 3
