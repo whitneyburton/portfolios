@@ -18,11 +18,18 @@ Include your final outcome (pass/fail) and a reflection based on answering the f
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
+- Rails gives you a few little extras that you don't have in Express. Active Record is also really powerful and abstracts away
+a lot of needed thinking. I ran into a problem where Postgres does not allow you to delete only one of a duplicate record.
 * How did you solve that challenge? What was your approach?
+ I had to alter the meal_foods table to give it an ID and then create a limit(1) subquery to delete only one food from the meal instead of all of them.
 * What did you like the most about the challenge?
+- Javascript is cool.
 * What are three technical concepts you learned during this project?
+- Webpack, NPM, async programming.
 * If you could change one thing about your technical approach, what would it be and why?
+- Nothing.
 * What was the experience like working with a pair while learning something new?
+- Good experience.
 
 ## Capstone Project
 
