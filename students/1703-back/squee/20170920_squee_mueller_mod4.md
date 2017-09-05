@@ -4,6 +4,10 @@
 
 What do you want to focus on this inning? What do you hope to accomplish by graduation?
 
+I'd like to spend this inning proving my ability to learn and use JavaScript. I have enjoyed working in it so far, and I think I'd like to look for fullstack positions as I go into my job search.
+
+By graduation, I would like to feel ready for my job search. I would like to feel like I could competently contribute to a team of developers.
+
 ## Assessment
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
@@ -49,7 +53,7 @@ I would slow down and be less excited to start solving problems. When I'm workin
 
 Awesome. I loved getting to work with Natalia. She is quick and clever and keeps hacking at things until she finds beautiful solutions.
 
-Generally, I think paired learning speeds up the process for both people. If I don't understand something, there's a chance my partner does and then they can help me. It's a safety net for both people. Plus, comradery. 
+Generally, I think paired learning speeds up the process for both people. If I don't understand something, there's a chance my partner does and then they can help me. It's a safety net for both people. Plus, comradery.
 
 
 ## Capstone Project
