@@ -33,4 +33,4 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Professional Development** |   X   |
 | **Community**                |   X   |
 | **Final Written**            |   X   |
-| **FinalT Timed**             |   X   |
+| **Final Timed**              |   X   |
