@@ -14,19 +14,20 @@ Include your final outcome (pass/fail) and a reflection based on answering the f
 
 * What was your biggest technical challenge?
 
-Figuring out the structure and communication of React. That stymied me for a minute...
+... Actually, getting started w/ jquery... I forgot how to get it set up...
+Also, getting it done in time to get to my job shadowing.
 
 * What did you like the most about the challenge?
 
-Finally making progress. It's great to make something. It's awesome when it works out. But when you have to fight to get something to work... And then it finally does... OMG. That's the best.
+All of it. It was fun and I liked the challenge.
 
 * How did you solve that challenge? What was your approach?
 
-I kept plugging away at it. I tried so many different techniques and tutorials. It wasn't until I stumbled on the correct sequence of words for the question that I had that I made real progress. But, I wouldn't have found that sequence if I hadn't kept making the mistakes I was making.
+I had to google the answer and feel chagrined as I implemented the solution. It was not a good way to start the test...
 
 * What did you learn?
 
-Don't get paralyzed when you don't understand. Make progress. As Josh likes to say: "you'll never know less about the problem than you do right now". Keep working and you'll figure it out eventually. Or, at the very least, you'll get something at kinda works... for some reason... even if you don't know why.
+Don't get paralyzed when you don't understand. Make progress. As Josh likes to say: "you'll never know less about the problem than you do right now". Keep working and you'll figure it out eventually. 
 
 ## Quantified Self
 
