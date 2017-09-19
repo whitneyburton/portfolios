@@ -13,9 +13,20 @@ By graduation, I would like to feel ready for my job search. I would like to fee
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
 
 * What was your biggest technical challenge?
+
+Figuring out the structure and communication of React. That stymied me for a minute...
+
 * What did you like the most about the challenge?
+
+Finally making progress. It's great to make something. It's awesome when it works out. But when you have to fight to get something to work... And then it finally does... OMG. That's the best.
+
 * How did you solve that challenge? What was your approach?
+
+I kept plugging away at it. I tried so many different techniques and tutorials. It wasn't until I stumbled on the correct sequence of words for the question that I had that I made real progress. But, I wouldn't have found that sequence if I hadn't kept making the mistakes I was making.
+
 * What did you learn?
+
+Don't get paralyzed when you don't understand. Make progress. As Josh likes to say: "you'll never know less about the problem than you do right now". Keep working and you'll figure it out eventually. Or, at the very least, you'll get something at kinda works... for some reason... even if you don't know why.
 
 ## Quantified Self
 
@@ -61,9 +72,22 @@ Generally, I think paired learning speeds up the process for both people. If I d
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
+
+Using React. I got stuck in a wormhole on that for several days. I started my project over several times before I actually got any traction.
+
 * How did you solve that challenge? What was your approach?
+
+Just keep working at it. Eventually I stumbled on a structure that let me progress.
+
 * What did you like the most about the challenge?
+
+Finally figuring it out. Feeling the panic slide off me once I actually understood what I was doing.
+
 * What are three technical concepts you learned during this project?
+
+The structure of React.
+Routing in React.
+Managing state in JS.
 
 ## Feedback
 
@@ -75,10 +99,18 @@ I think the biggest feedback I've received has been to slow down and fully under
 
 Write a reflection about the process of planning/revising a Gear Up session and facilitating the session. Did you enjoy the experience? What was challenging? What was most rewarding?
 
+I love the concept of having us plan and teach a Gear Up. I think it teaches us how to organize discussions around complex concepts in a way that many students haven't been exposed to before. I don't think I got much out of it personally though. It just felt like I was doing my old job. It was easy and I led the group as we created the lesson plan and contributed class content.
+
 ## Community Involvement
 
 How else did you give back to the community this inning? Why do you think this is a required part of the Turing experience?
 
+The primary way I gave back to the community was by continuing to run Imposters Lunch. I mostly hung out with mod 1 kids who were feeling overwhelmed by what Turing was asking of them. I spent my Wednesdays quelling their fears and talking about strategies for survival. It was great!
+
 ## Going Forward
 
 What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
+
+- OOP. Understanding how to organize and write good code. :D
+- How to learn a new language. How to ask questions and get help when I get stuck.
+- Knowledge that no problem is too big. I'll figure it out eventually. And maybe with a lot of help. Just have realistic expectations of myself while I'm figuring it out.
