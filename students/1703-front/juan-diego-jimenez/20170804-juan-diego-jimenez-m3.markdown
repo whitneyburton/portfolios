@@ -317,8 +317,15 @@ One of my goals that I set last mod was to be more involved in the Turing commun
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS 
+
+|   | Rubric                             |  Score   |
+| - |:---------------------------------- |---------:|
+| A | End-of-Module Assessment           |      4   |
+| B | Individual Work & Projects         |      4   |
+| C | Group Work & Projects              |      4   |
+| D | Professional Skills                |      3   |
+| E | Feedback & Community Participation |      4   |
