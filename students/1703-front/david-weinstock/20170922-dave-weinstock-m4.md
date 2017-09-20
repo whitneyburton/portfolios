@@ -77,7 +77,7 @@ Clone down and setup/install an open source project, find an issue and fix it. G
 Build a book club application using the GoodReads API. Handle multiple user accounts, making book suggestions for new books to read, and voting on which book should be read the next month.
 
 #### Evaluation Scores
-- TBD
+- PASSED!! 🎉
 
 
 ## D: Professional Skills
