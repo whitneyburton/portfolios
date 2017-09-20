@@ -256,8 +256,11 @@ In this project we were challenge to make an open source contirbution. The deliv
 ## Quizzam
 
 * [GitHub URL](https://github.com/EvanSays/Quizzam)
+* PASS
 
 ### Description
+
+Quizzam is a web app where you can create store and deploy real time quizzes. Students can enter the quiz code and the insturctor can see the results in real time.
 
 -----------------------
 
