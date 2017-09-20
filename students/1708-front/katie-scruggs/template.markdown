@@ -34,12 +34,13 @@ Notes/What To Work On:
 - A MODAL!!!!
 - Code could use a refactor pass, but was thought through, well planned, and thoughtfully executed.
 
-Functional Expectations = Exceptional    
-COMP RECREATION / DESIGN = Exceptional  
-HTML = Proficient    
-CSS = Proficient    
-JS/jQuery = Proficient    
-Surprise and Delight (reminder: have fun!) = Hot Fire  
+Scores:   
+- Functional Expectations = Exceptional      
+- COMP RECREATION / DESIGN = Exceptional        
+- HTML = Proficient       
+- CSS = Proficient        
+- JS/jQuery = Proficient         
+- Surprise and Delight (reminder: have fun!) = Hot Fire  
 
 ### Static Comp 1
 * [GitHub URL](https://github.com/katiescruggs/ks-comp-challenge-1)
