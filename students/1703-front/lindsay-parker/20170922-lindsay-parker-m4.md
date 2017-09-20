@@ -126,6 +126,9 @@ _ways you supported the larger Turing community_
 #### BYOB
 George and I had feedback sessions part-way through the project as well as after its close that resulted in entirely positive feedback.  Having only worked together previously on Movie Tracker (a three-person team), George and I hadn't had the opportunity to adapt our styles cohesively, but after BYOB, it was clear we were both very happy with the partnership and the product.
 
+Feedback from George:
+> Lindsay you are my favorite partner.  I think our work styles mesh very well together.  You are very focused person and that helps me because I like to go off in directions and try crazy stuff, which can lead to being unproductive.  I really appreciated you sticking it out with me for so long over the weekend to fix our lingering bugs.  I thought our project turned out really well!
+
 #### House of Vars
 As a quick-turnaround project where the entire team was outside their comfort zone, Justyna, Juan and I came together considerably well but did not provide explicit feedback to each other throughout the project.
 
