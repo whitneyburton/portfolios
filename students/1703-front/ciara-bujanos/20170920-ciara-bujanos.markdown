@@ -61,6 +61,8 @@ scores not posted, PASS
 
 ## Goals
 Practice more of the backend and bring everything together that we've been learning at Turing.
+(evaluation scores)
+PASS
 
 ## D: Professional Skills
 
