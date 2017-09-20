@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+In this module I hoped to get a much deeper understanding of what I knew about HTML and CSS, as well as get a soild grasp of the fundamentals of JavaScript. I worked toward this by making sure all projects were completed to the best of my ability, and using the resources available outside of class time to improve. Additionally, I hoped to start building relationships within the Turing community to become a full contributing member.
 
 ## Rubric Scores
 
@@ -21,9 +21,61 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+These were projects I worked on individually outside of class time. Number Guesser is the first JS project, while the static comps are all focused on HTML and CSS.
 
 #### Number Guesser
+
+* [GitHub URL](https://github.com/bfarestadrittel/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+This was the first JavaScript project. It required an input and submit that would register a guess of a random number between 1-100 and tell you if it was too low or too high. When the number was guessed, it would return BOOM!
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 1
+
+* [GitHub URL](https://github.com/bfarestadrittel/bfr-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+This was the first static comp, which required us to recreate the layout of a website using HTML and CSS. It was also the first time using Flex Box and responsive design. My project focused on Hank Hill, Assistant Manager Strickland Propane. 
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 2
+
+* [GitHub URL](https://github.com/bfarestadrittel/bfr-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+This project expanded on the usage of HTML and CSS, requiring us to build a more complicated layout. It had a card-style layout with different features within each card. It was more responsive than the previous project, and focused on a site where users could create a custom baseball team with player cards.
+
+(evaluation comments)
+
+(evaluation scores)
+
+## C: Group Work & Projects
+
+### Projects
+
+These were all JavaScript and jQuery projects completed in a paired project. I really enjoyed the paired projects as an opportunity to learn from different perspectives and work through things with others in the cohort.
+
+#### Linked List
+
+* [GitHub URL](https://github.com/bfarestadrittel/linked-list)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### IdeaBox
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -34,13 +86,9 @@
 
 (evaluation scores)
 
-## C: Group Work & Projects
+(feedback to me)
 
-### Projects
-
-(Intro)
-
-#### Linked List
+#### 2DoBox
 
 * [GitHub URL]()
 * [Original Assignment]()
