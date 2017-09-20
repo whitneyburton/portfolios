@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Brandon Farestad-Rittel - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -23,7 +23,7 @@
 
 (Intro)
 
-#### (Project Name)
+#### Number Guesser
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -40,7 +40,7 @@
 
 (Intro)
 
-#### (Project Name)
+#### Linked List
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -67,7 +67,7 @@
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+In Mod1 it's tricky to get your feet under you and still feel like you're making a significant contribution to the larger community. However, I tried to focus on the areas where I could contribute. I tried to keep in mind the duties of keeping the kitchen clean. Putting away dishes, emptying the full water trays and generally tidying up. I also tried to attend any other Turing events outside of the normal hours including guest speakers, happy hours, etc. Considering the amount of help I received, I always made sure to stick around and help others when they asked or jump in to offer assistance when possible.
 
 ------------------
 
