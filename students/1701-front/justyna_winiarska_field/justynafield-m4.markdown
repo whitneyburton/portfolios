@@ -5,6 +5,14 @@
 
 I wanted to learn how backend works and how it works in relation to front end. I have learnt a lot during this module. I got a pretty good understanding of Node, Express, Knex, Postgres and backend testing. It was interesting to learn about security. I also appreciate learning SASS. It felt nice to go back to coding in jQuery. 
 
+## Rubric Scores:
+
+#### End-of-Module Assessment: 3
+#### Individual Work & Projects: 3.5
+#### Group Work & Projects: 3
+#### Professional Skills: 3
+#### Community Participation: 3
+
 ## End of Module Assessment - Garage Bin: 
 #### Evaluator: Robbie Jaeger
 PASS
