@@ -144,16 +144,81 @@ I think we made a great pair and our strengths complimented each other very well
 
 #### IdeaBox
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/t6r6l5/IdeaBox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+##### Evaluator: Louisa
+###### Notes/What To Work On:
+- make sure you're watching indentation! mind the little details
+- well crafted code, could use a refactor pass (which is a good place to be)
+- both have solid ownership of entire codebase
+- Make sure you're being mindful accessibility best practices
 
-(evaluation comments)
+###### Functional Expectations
+* Proficient
 
-(evaluation scores)
 
-(feedback to me)
+##### HTML
+
+###### Accessibility
+* Proficient
+
+###### Style
+* Proficient
+
+##### CSS
+
+###### Structure of Code
+* Proficient
+
+###### Implementation
+* Proficient
+
+##### JAVASCRIPT
+
+###### Data Types
+* Proficient
+
+###### Conditional Logic
+* Proficient
+
+###### Functions & Scope
+* Proficient
+
+###### Arrays
+* Proficient
+
+##### Objects & Prototypes
+* Proficient
+
+###### DOM Manipulation
+* Proficient
+
+###### Style
+* Proficient
+
+
+##### GIT & GITHUB
+
+###### Git
+* Proficient
+
+###### Github
+* Proficient
+
+##### DESIGN
+
+###### Comp Recreation
+
+* Proficient
+
+##### PAIRING
+
+###### Collaboration
+* Proficient
+
+##### Feedback from Thomas
+Working together on IdeaBox was awesome! Your ability to pick up on concepts and implement them quickly was a huge part of why we were able to get ahead and finish all the phases of our project. At times I felt like I was getting left behind when you would figure a series of things out that would make a particular feature work and I didn't want to always stop our progress to get an explanation of your thought process. However, when I did do so, you were always quick to stop and give a very thoughtful and thorough explanation. In the future I would recommend making sure your partner is comfortable with things before moving on to the next as you do such a good job explaining. Even as I have progressed through 2doBox stuff this past weekend I have noticed how much better I understand some of the more complex concepts as a result of having worked with you. I appreciate you and hope we get paired up again soon!
 
 #### 2DoBox Pivot
 
