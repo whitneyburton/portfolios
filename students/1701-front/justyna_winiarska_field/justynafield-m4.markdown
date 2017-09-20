@@ -16,10 +16,9 @@
 - 
 
 ## Capstone Project:
--
+* PASSED
 
 ## Individual Project
-
 ### Jet Fuel
 #### Evaluator: Brittany Storoz
 
@@ -31,7 +30,6 @@
 #### Final Score: 125 / 160
 
 ## Paired Project
-
 ### BYOB
 #### Evaluator: Brittany Storoz
 #### Project Partner: Travis Gregory
@@ -45,6 +43,8 @@
 
 ## Group Projects
 ### House of Vars
+
+#### Team: Juan, Lindsay
 
 #### Blog Post
 [Link to my Blog Post](https://medium.com/@justyna.field/jumping-into-open-source-a-head-first-approach-to-contributing-to-an-existing-code-base-2b3961a4ea5e)
