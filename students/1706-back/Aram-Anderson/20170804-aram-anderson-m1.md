@@ -1,4 +1,4 @@
-# First Last - M1 Portfolio
+# Aram Anderson - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -59,7 +59,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Community**                |   3   |
 | **Pentathlon**               |   3   |
 
-# First Last - M2 Portfolio
+# Aram Anderson - M2 Portfolio
 
 ## Areas of Emphasis
 
@@ -101,7 +101,7 @@ My least favorite was the session on agile. I just feel like I didn't get much o
 
 How did you contribute to the Turing community this module?
 
-Not as much as I should have. I did a good amount of pairing with mod 1 students, and I paired with people in my own mod. 
+Not as much as I should have. I did a good amount of pairing with mod 1 students, and I paired with people in my own mod.
 
 What would you like to do to contribute next module?
 
