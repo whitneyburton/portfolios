@@ -22,20 +22,17 @@
 ## A: Individual Work & Projects (Optional)
 
 > **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
->* \<Description>
->* \<Takeaways, your experience>
+>* I thought this was a great project and a certaintly something that I referenced throughout the mod. 
 
 
 ## B: Group Work & Projects
 
 > **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
->* \<Description>
->* \<Takeaways, your experience>
+>* This was a fun project to work on. I thought it was incredibly helpful in learning and understand active record. The lesson Josh gave prior to this project was essential to my understanding and ability to exceed in this project. 
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
 > **[Cloney Island Sprint 1](https://)** 
->* \<Description>
->* \<Takeaways, your experience>
+>* This was the most fun I have had with a project while at Turing. It was probably one of the most challenging as well. I enjoyed the laissez faire attitude that we were given for this project. It really allowed us to push the limits of our understanding and do something completely new. In that process I learned a lot. 
 
 > **[Cloney Island Sprint 2](https://)** 
 >* \<Description>
