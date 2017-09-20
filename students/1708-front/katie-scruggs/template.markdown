@@ -21,11 +21,14 @@ My focus this module was to learn best practices for writing HTML, CSS, and Java
 
 ## B: Individual Work & Projects
 
-Following are my individual projects for this mod, Number Guesser and three static comps.
+During this mod, I worked on four projects individually: Number Guesser, Static Comp 1, Static Comp 2, and Static Comp 3. I enjoyed completing these projects. Although the static comps were challenging for me, I was able to learn a lot about design and CSS positioning.
 
 ### Number Guesser
 * [GitHub URL](https://github.com/katiescruggs/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+#### Description
+For my Number Guesser, I created a two-player game where two people try to guess a random number. Points are awarded for the winner of each round, and the first person to 100 points wins the game. I challenged myself to add additional features for this project, and had a lot of fun. If I could go back and edit this, I would probably redesign the modal a little and would choose a better color for the "highlighting" that shows whose turn it is.
 
 #### Evaluated By: Louisa
 Notes/What To Work On:
@@ -46,7 +49,8 @@ Scores:
 * [GitHub URL](https://github.com/katiescruggs/ks-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-I created this layout with a yoga theme, using CSS FlexBox.
+#### Description
+I created this layout with a yoga theme, using CSS FlexBox. I want to go back now that I have a better understanding of CSS and get rid of the strange margins and clean up the periwinkle/mauve situation.
 
 #### Feedback from Louisa:
 - get rid of all drop shadows
@@ -62,7 +66,8 @@ I created this layout with a yoga theme, using CSS FlexBox.
 * [GitHub URL](https://github.com/katiescruggs/ks-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-I recreated this layout with a theme of Grimms Fairy Tales, again using CSS FlexBox. 
+#### Description
+I recreated this layout with a theme of Grimms Fairy Tales, again using CSS FlexBox. I enjoyed making this project and would like to try the invisible card trick next time instead of my double-div solution to aligning the cards to the left. 
 
 #### Feedback from Louisa:
 - Purple background color is too saturated and close to the blue, knock it back
@@ -85,11 +90,14 @@ I recreated this layout with a theme of Grimms Fairy Tales, again using CSS Flex
 
 ### Projects
 
-Following are my group projects: Linked List with Julie Hawkins, IdeaBox with Thomas Laird, and 2DoBoxPivot with Hugh Hartigan.
+Following are my group projects: Linked List with Julie Hawkins, IdeaBox with Thomas Laird, and 2DoBox Pivot with Hugh Hartigan.
 
 ### Linked List
 * [GitHub URL](https://github.com/julieahawkins/Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+
+#### Description
+Linked List allows the user to create "bookmark" cards of links. This was the first project where I learned how to dynamically create HTML content and manipulate the DOM.
 
 #### Evaluated By: Pam
 
@@ -115,6 +123,9 @@ I think we made a great pair and our strengths complimented each other very well
 * [GitHub URL](https://github.com/t6r6l5/IdeaBox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
+#### Description
+IdeaBox allows the user to create cards of ideas that persist on the page on reload. This was my first introduction to local storage on the browser, which allows dynamically created elements to persist on page load.
+
 #### Evaluated by: Louisa
 Notes/What To Work On:
 - make sure you're watching indentation! mind the little details
@@ -124,10 +135,10 @@ Notes/What To Work On:
 
 Scores: 
 * Functional Expectations = Proficient
-* HTML:      
+* HTML      
    * Accessibility = Proficient
    * Style = Proficient
-* CSS: 
+* CSS 
    * Structure of Code = Proficient
    * Implementation = Proficient
 * JAVASCRIPT
@@ -153,6 +164,9 @@ Working together on IdeaBox was awesome! Your ability to pick up on concepts and
 
 * [GitHub URL](https://github.com/HartiganHM/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+#### Description
+For this project, Hugh and I received the code from another group's IdeaBox project and refactored it, then added additional features, like only displaying the 10 most recent cards, allowing a to-do to be marked "completed", and implementing a character counter. This was my first experience with working with someone else's code, and while I was at first intimidated, I enjoyed the experience of seeing how someone else had approached problems differently than I had.
 
 ##### Evaluated by: Pamela Lovett
 
