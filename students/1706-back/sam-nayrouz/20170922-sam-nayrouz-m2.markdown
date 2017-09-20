@@ -20,13 +20,13 @@ data tables or normalize to a certain point then stop.
 
 What were your favorite projects this module? Least favorite? Why?
 
-Job tracker was my favorite project this module. I felt as if that's when I felt comfortable using Rails. It gave me a complete grasp on the fundamentals of Rails
-and left me exploring other advanced scenarios in Rails.
+Job tracker was my favorite project this module. I felt as if that's when I felt comfortable using Rails. It gave me a complete grasp on the fundamentals of Rails and left me exploring other advanced scenarios in Rails.
+
+My least favorite has been Little Shop. The only reason is I just feel a bit disconnected from it. My guess to why that may be is we've been trying to work more as if we weren't in the same room all the time, so responsibility for user stories were spread across the group members, as opposed to sitting in a room and knocking them out together. There are good learning lessons there, but it feels a bit underwhelming.
 
 What did you learn from your independent projects?
 
-The most valuable learning lesson I had during my independent projects was taking a user story, translating it into a test, and building the application through TDD.
-I think it's cool to create an entire Rails application without opening a browser. I now have a firmer grasp on TDD and why it's important in Rails applications.
+The most valuable learning lesson I had during my independent projects was taking a user story, translating it into a test, and building the application through TDD. It's an awesome feeling to create an entire Rails application without opening a browser. I now have a firmer grasp on TDD and why it's important in Rails applications.
 
 What did you learn from your paired projects?
 
