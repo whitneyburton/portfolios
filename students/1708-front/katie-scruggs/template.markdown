@@ -34,8 +34,8 @@ Notes/What To Work On:
 - A MODAL!!!!
 - Code could use a refactor pass, but was thought through, well planned, and thoughtfully executed.
 
-Functional Expectations = Exceptional
-COMP RECREATION / DESIGN = Exceptional  
+Functional Expectations = Exceptional    
+COMP RECREATION / DESIGN = Exceptional  
 HTML = Proficient    
 CSS = Proficient    
 JS/jQuery = Proficient    
