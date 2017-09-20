@@ -3,7 +3,9 @@
 ## Areas of Emphasis
 
 #### What did you set out to accomplish this module? Were you successful?
-Overall: My goals this module were to develop a strong foundation for object oriented programming, and to develop an understanding of how to write clean adaptable code. Looking forward and to the application of these new skills in a profession, I want to really learn how to write not just functioning programs, but programs that can withstand change. I came in with little to know experience, so this module I want to learn the fundamentals and develop good habits of correct ruby conventions. I wanted to be all in on the process, and be present. I want to have faith in the process and pedagogy, knowing I will be uncomfortable with not being able to fully dive into topics, read all the things, etc.
+Overall: My goals this module were to develop a strong foundation for object oriented programming, and to develop an understanding of how to write clean adaptable code. Looking forward and to the application of these new skills in a profession, I want to really learn how to write not just functioning programs, but programs that can withstand change. I came in with little to know experience, so this module I want to learn the fundamentals and develop good habits of correct ruby conventions.
+
+ I also wanted to be all in on the process, and be present, and to have faith in the process and pedagogy, knowing I will be uncomfortable with not being able to fully dive into topics, read all the things, etc.
 
 Tools: My goal was to be more comfortable with using tools like git, Github, Waffle.io, my mac, terminal, etc. I wanted to get more comfortable with my Mac environment(this is my first time using a mac), as well as not be scared of computers and technology (I know.. weird that I choice Software developer program :) ).
 
