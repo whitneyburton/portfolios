@@ -21,18 +21,38 @@ My focus this module was to learn best practices for writing HTML, CSS, and Java
 
 ## B: Individual Work & Projects
 
-(Intro)
+Following are my individual projects for this mod, Number Guesser and three static comps.
 
 #### Number Guesser
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/katiescruggs/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+##### Evaluated By: Louisa
+###### Notes/What To Work On:
+- Really great job.
+- Obviously had so much fun with this!
+- A MODAL!!!!
+- Code could use a refactor pass, but was thought through, well planned, and thoughtfully executed.
 
-(evaluation comments)
+###### Functional Expectations
+* Exceptional: Application meets all of the expectations of phase three and one or more of the extensions.  
 
-(evaluation scores)
+###### COMP RECREATION / DESIGN
+* Exceptional  
+
+###### HTML
+* Proficient    
+
+###### CSS
+* Proficient    
+
+###### JS/jQuery
+* Proficient    
+
+###### Surprise and Delight (reminder: have fun!)
+* Hot Fire  
+
 
 
 #### Static Comp 1
