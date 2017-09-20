@@ -95,7 +95,7 @@ I know its part of the hype to smack talk these sessions and meetings and all be
 
 ### Playing a Part
 
-I attended a code demo night and almost all of the events put together by 1706 fe. Theres way to many events to attend them all, but I get to the ones that I can to show some support. I also participate in iro fe and pairingd for the mod behind me. Nick and I organized a three day thing where we spent our lunch's going through mythical creatures with mod 1. Luke, Adam and Ben also helped with these. 
+I attended a code demo night and almost all of the events put together by 1706 fe. There are way to many events to attend them all, but I get to the ones that I can to show some support. I also participate in iron fe and pairings for the mod behind me and Nick and I organized a three day event spending our lunch times going through mythical creatures with mod 1. Luke, Adam and Ben also helped with these. 
 
 ------------------
 
