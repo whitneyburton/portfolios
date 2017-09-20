@@ -273,12 +273,11 @@ I have not yet received the feeback for this project
 
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
-#### (Session Name)
+#### (Reflections to gear up sessions)
 
-* [GitHub URL]()
+* [GitHub URL](https://gist.github.com/mariastlouis/fbf66abc26524eea1ccabed84c562bd6)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
