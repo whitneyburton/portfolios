@@ -44,7 +44,7 @@ PASS
 [Link to my Blog Post](https://medium.com/@justyna.field/jumping-into-open-source-a-head-first-approach-to-contributing-to-an-existing-code-base-2b3961a4ea5e)
 
 ## Gear up
-Our group lead the session on UX/UI. We discussed the differences between UX and UI, provided examples of good and bad UX/UI, we also talked about Design Thinking. We created a slack channel for our gearup group and invited participating students. It was an interesting experience running a GearUp, it allowed me to see it 'from the other side'.
+Our group lead the session on UX/UI. We discussed the differences between the two, provided examples of good and bad UX/UI, we also talked about Design Thinking. We created a slack channel for our gear-up group and invited participating students. It was an interesting experience running a GearUp, it allowed me to see it 'from the other side'.
 
 ------------------
 
