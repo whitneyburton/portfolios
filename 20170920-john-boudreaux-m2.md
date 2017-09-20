@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I just tried to learn as much as possible. I put in a ton of really long hours to get throught this mod.The concepts were pretty abstract and deeper than mod 1, but I thought that they were much cooler to learn about.
+I just tried to learn as much as possible. I put in a ton of really long hours to get throught this mod. The concepts were pretty abstract and deeper than mod 1, but I thought that they were much cooler to learn about.
 
 ## Rubric Scores
 
@@ -28,7 +28,7 @@ I think I passed.
 * [GitHub URL](https://github.com/johnmboudreaux/sorting-suite)
 * [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
-I found the sorting suites to be the easiest to digest in mod 2. The workings behind the scenes was amazing to watch happen and to learn about it and turned out not to be that scary.
+I found the sorting suites to be the easiest to deal with and learn about in mod 2. The workings behind the scenes were amazing to watch happen and to learn about it and turned out not to be that scary.
 
 [Evaluation Scores and Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-2/sortingsuite/john.md)
 
@@ -38,7 +38,7 @@ I found the sorting suites to be the easiest to digest in mod 2. The workings be
 * [GitHub URL](https://github.com/johnmboudreaux/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
-This was so cool. Being able to incorporate a project into a project was awesome. I really look forward to doing sometyhing like tis again in the future.
+This was so cool. Being able to incorporate a project into a project was awesome. I really look forward to doing something like this again in the future. It was baffling to watch how the trie was constructed behind the scenes.
 
 * [Evaluation scores and Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-2/completeMe/john.md)
 
@@ -50,7 +50,7 @@ This was so cool. Being able to incorporate a project into a project was awesome
 * [GitHub URL](https://github.com/johnmboudreaux/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-this was a great intro to object oriented programming and an opportunity to build something really cool. Cavas was mostly brain breaker but ultimatley Francy and I were able to push through and get it done.
+this was a great intro to object oriented programming and an opportunity to build something really cool. Canvas was mostly brain breaking but ultimatley Francy and I were able to push through and get it done.
 
 [Evaluation Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-2/gametime/francy_john.md)
 
@@ -60,7 +60,7 @@ this was a great intro to object oriented programming and an opportunity to buil
 * [GitHub URL](https://github.com/johnmboudreaux/weatherly)
 * [Original Assignment](http://frontend.turing.io/projects/weatherly.html)
 
-This was our intro to react and api calls. It was really cool to see how this app fit together. Ben and I killed this project.
+This was our intro to react and api calls. It was really cool to see how this app fit together. Ben and I killed this project and i learned a lot about react in a short time.
 
 Eval scores are pending, but are also passing based off of eval experience.
 
@@ -68,7 +68,7 @@ Eval scores are pending, but are also passing based off of eval experience.
 
 
 ## D: Professional Skills
-I know its part of the hype to smack talk these sessions and meetings and all because we are so busy, but I refuse to call anytime at turing wasted time and I try to keep a growth mindset. To that end, it is kind of a goal of mine to walk away from each one with a take away. Those are outlined in the links below
+I know its part of the hype to smack talk these sessions and meetings and all because we are so busy, but I refuse to call anytime at turing wasted time and I try to keep a growth mindset. To that end, it is kind of a goal of mine to walk away from gear ups with a take away. Those are outlined in the links below
 
 
 ### Gear Up
@@ -95,7 +95,7 @@ I know its part of the hype to smack talk these sessions and meetings and all be
 
 ### Playing a Part
 
-I attended a code demo night and almost all of the events put together by 1706 fe. There are way to many events to attend them all, but I get to the ones that I can to show some support. I also participate in iron fe and pairings for the mod behind me and Nick and I organized a three day event spending our lunch times going through mythical creatures with mod 1. Luke, Adam and Ben also helped with these. 
+I attended a code demo night and almost all of the events put together by 1706-fe. There are way to many events to attend them all, but I get to the ones that I can to show some support. I also participate in iron fe and pairings for the mod behind me and Nick and I organized a three day event spending our lunch times going through mythical creatures with mod 1. Luke, Adam and Ben also helped with these. 
 
 ------------------
 
