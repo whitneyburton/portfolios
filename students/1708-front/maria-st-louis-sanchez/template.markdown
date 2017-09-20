@@ -21,7 +21,6 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 
 ## B: Individual Work & Projects
 
-(Intro)
 
 #### Number guesser
 
@@ -36,54 +35,248 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 
 #### Scores: 
 
-## Functional Expectations
+#### Functional Expectations
 
 * Exceptional: Application meets all of the expectations of phase three and one or more of the extensions.  
 
-
-## COMP RECREATION / DESIGN
+#### COMP RECREATION / DESIGN
 
 * Proficient  
 * Exceptional  
 
-
-## HTML
-
+#### HTML
 * Proficient  
 
-
-## CSS
-
+#### CSS
 * Proficient  
-
-
-## JS/jQuery
-
+#### JS/jQuery
 * Proficient  
-
-
-## Surprise and Delight (reminder: have fun!)
-
+#### Surprise and Delight (reminder: have fun!)
 * Magic
 
-## C: Group Work & Projects
+
+#### Static Comp 1
+
+* [GitHub URL](https://github.com/mariastlouis/ms-comp-challenge1)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+
+#### Static Comp 2
+
+* [GitHub URL](https://github.com/mariastlouis/ms-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+#### Static Comp 3
+
+* [GitHub URL](https://github.com/mariastlouis/ms-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+
+
+
+#### C: Group Work & Projects
 
 ### Projects
 
-(Intro)
 
-#### (Project Name)
+#### (Linked list)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/t6r6l5/LinkedLists)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
 
-(evaluation comments)
 
-(evaluation scores)
+#### Comments
+- well done!
+- JS was _very_ verbose in areas (specifically around appending the cards to the DOM). Refactoring would drastically reduce the number of lines of code and increase clarity/legibility
+- well crafted CSS and HTML
+- overall, code is well crafted and carefully considered. It is clean, and well thought through.
 
-(feedback to me)
+#### Evaluation scores
+
+#### Functional Expectations
+* Proficient: Application meets all of the functional expectations in Phase Three.
+#### COMP RECREATION / DESIGN
+* Proficient  
+#### HTML
+* Proficient   
+#### CSS
+* Proficient   
+#### JS/jQuery
+* Proficient
+#### GIT & GITHUB
+* Proficient   
+#### Pairing/Collaboration
+* Proficient   
+
+
+#### Feedback to me
+
+“I sincerely enjoyed working with you on our first group project. I think our skillsets meshed perfectly as evidenced by our success. Your ability to pick up new concepts and apply them quickly seriously impressed me. I appreciated the enthusiasm with which you took on challenges. I would have liked for you to take more time with me to explain your thought process and knowledge more deeply as I was eager to learn from your insight but did not get a full opportunity to do so. In future projects I would make sure that your partner feels entirely comfortable with the work you’ve done before moving forward. This also may be a fault of mine in that I did not express the extent to which I would have preferred for you to spend time discussing things with me. All in all I had a phenomenal experience working with you and hope we get paired up again soon!”
+
+
+#### (Idea Box)
+
+* [GitHub URL](https://github.com/mariastlouis/infobox)
+* [Original Assignment](https://github.com/mariastlouis/infobox)
+
+
+
+#### Comments
+- Hooray for finishing search functionality!
+- Watch indentation/spacing in HTML, CSS, JS files... as well as commented out code. It can be difficult to read through the code at times due to this.
+- Though communication went well with the project, always be sure to do a DTR before you start
+
+#### Accessibility
+
+* Advanced Beginner	Leverages more precise semantic tags when applicable, and employs basic ARIA roles attributes for added clarity in structure, descriptive image alt attributes, title attributes for applicable anchor tags.
+
+#### Style
+
+* Advanced Beginner	Crafts markup with proper and logical nesting.
+* Proficient	Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices.
+
+#### CSS
+
+#### Structure of Code
+
+* Proficient	Leverages cascading styles and CSS specificity rules to create more complex targeting of elements in order to reduce, reuse, share styles across elements. Organizes properties within rules based upon industry standard principles of writing consistent, idiomatic CSS.
+
+#### Implementation
+
+* Proficient	Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout.
+
+#### JAVASCRIPT
+
+#### Data Types
+
+* Proficient	Can identify and track data types through any variety of functions, understanding their affect and result on each line of code. Knows which scenarios are better suited for objects vs. arrays and employs them accordingly.
+
+#### Conditional Logic
+
+* Proficient	Can use an if/esle statement to effectively handle multiple paths through the code. Writes if/else statements that only have one level of logic (no nesting). Can use logical operators instead of if/else statements where applicable.
+
+#### Functions & Scope
+
+* Proficient	Functions have single responsibility. The entirety of the function is easy to read what functionality it contains. Function is generally shorter than 8 lines. Uses functions to eliminate repeated code. Comfortable refactoring any piece of code and extracting it to a function.
+
+#### Arrays
+
+* Proficient	Does not use for loops for arrays - uses array prototypes, such as forEach, to iterate through or manipulate arrays. Can use array to store more complicated data structures such as objects or nested arrays. Is comfortable/efficient with reading array prototype documentation and can efficiently test/apply array prototype methods they have not worked with before.
+
+#### Objects & Prototypes
+
+* Proficient	Can use object prototypes. Can articulate the definition and the “why” of an object prototype - the best use cases for prototypes.
+
+#### DOM Manipulation
+
+* Proficient	Able to extract information, modify attributes, or append/prepend data in the DOM easily regardless of whether they are employing vanilla JavaScript or jQuery. Understands how to harness event bubbling.
+
+#### Style
+
+* Proficient	Code is logically organized, such that reader can easily follow the progression of the app because variable and function names are descriptive and follow a single responsibility approach. There are no major bugs and minimal duplication.
+
+#### Git
+
+* Proficient	Commits changes frequently with detailed commit messages. Uses feature branches to keep master branch free of incomplete features or bugs.
+
+#### Github
+
+* Proficient	Is comfortable with resolving merge conflicts. Asks for review/merge of their pull requests from teammates. Is comfortable editing code based on review feedback from a pull request and resubmitting the branch code.
+
+#### Comp Recreation
+
+* Proficient	Developer captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but developer is clearly mindful of details and has made a conscious and careful effort to match the comp. Any design decisions left open to interpretation are handled thoughtfully and are well executed, but are more noticeable and/or unintuitive than they would be if the designer had provided the solution, or may not be totally seamless during screen-size transitions.
+
+#### Collaboration
+
+* Proficient	Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
+
+#### Feedback to me
+
+Maria, you were a fantastic partner. I was so happy to be paired with you. I really appreciated how you got going on the HTML and CSS. We both had the opportunity to work on the JavaScript. I would recommend trying to not get in such a rush when things aren't working. Specifically, this happened when we ran into problems with the localStorage and we kept trying to plow ahead instead of trying to break down the problem to its smallest parts. Other than that I enjoyed working with you. And was very thankful you were so generous with your time being a wife and a mother. Thank you.
+
+
+#### (ToDo Box)
+
+* [GitHub URL](https://github.com/jdursema/ToDoBox)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+
+
+#### Comments
+- had a bit of functionality to wrap up from ideabox, good job getting it implemented!
+- "It does a lot of f-ing things" - Maria, on the project :D
+- nice UI tweaks, used a dropdown for Importances, obvious care and thought put into additional features. Well done!
+- great teamwork
+- a few indentation issues in HTML
+
+#### Scores
+
+## Functional Expectations
+
+Proficient
+Exceptional
+
+#### Accessibility
+Proficient
+
+#### Style
+Proficient
+
+#### Structure of Code
+Proficient
+
+#### Implementation
+Proficient
+
+
+#### Data Types
+Proficient
+
+#### Conditional Logic
+
+Proficient
+
+#### Functions & Scope
+
+Proficient
+
+#### Arrays
+Proficient
+
+#### Objects & Prototypes
+
+Proficient
+
+#### DOM Manipulation
+
+Proficient
+
+#### Style
+
+Proficient
+
+#### Git
+
+Proficient
+
+#### Github
+
+Proficient
+
+#### Design Concepts
+
+Proficient
+
+### Collaboration
+
+Proficient
+
+#### Feedback to me
+I have not yet received the feeback for this project 
+
+
 
 ## D: Professional Skills
 (Intro)
@@ -99,7 +292,7 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I worked hard to integrate myself into the overall community. I constantly reached out to other mods for help and I was always willing to help out any classmates with any issues they may have had. I worked to always be a great pairing partner. I work daily to have a growth mindset and challenge my classmates if they try to shut down or give up. I worked to show my sincere gratitude to my classmates and mod 2 by bringing doughnuts. 
 
 ------------------
 
