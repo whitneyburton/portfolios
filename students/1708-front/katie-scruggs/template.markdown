@@ -26,7 +26,7 @@ My focus this module was to learn best practices for writing HTML, CSS, and Java
 #### Number Guesser
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
