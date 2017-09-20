@@ -16,11 +16,11 @@
 
 #### What did you struggle most with this module? What did you learn from that struggle?
 
--- Overall --: I struggled a lot in module 1, but I wanted a challenge and embraced the challenge because it does bring growth. I have always been a very strong traditional student, and was considered a consistent top performer in my last roles, so struggling for 6 weeks and feeling like I am at the bottom, was a very humbling experience. I would often get frustrated too when I felt that I was understanding concepts well, or how to approach and breakdown the problem, but felt that my projects, or timed assessments were not representative of my effort or knowledge. I have struggled a bit too, with stress management.
+*Overall*: I struggled a lot in module 1, but I wanted a challenge and embraced the challenge because it does bring growth. I have always been a very strong traditional student, and was considered a consistent top performer in my last roles, so struggling for 6 weeks and feeling like I am at the bottom, was a very humbling experience. I would often get frustrated too when I felt that I was understanding concepts well, or how to approach and breakdown the problem, but felt that my projects, or timed assessments were not representative of my effort or knowledge. I have struggled a bit too, with stress management.
 
--- Tools --: I feel that I have become increasingly more comfortable with Git and Github with Black_Thursday, but I would like to learn more about using git and Github. I think this is an invaluable tool moving forward. I need to continue to learn how to own my operating system- more shortcuts, atom, etc.
+--Tools--: I feel that I have become increasingly more comfortable with Git and Github with Black_Thursday, but I would like to learn more about using git and Github. I think this is an invaluable tool moving forward. I need to continue to learn how to own my operating system- more shortcuts, atom, etc.
 
--- Ruby Concepts --: I struggled with deep nested hashes, and how to write methods to appropriately access and manipulate the needed data.
+--Ruby Concepts --: I struggled with deep nested hashes, and how to write methods to appropriately access and manipulate the needed data.
 
 -- Breaking Down Logic --: I tend to struggle at times with how to start breaking things in small pieces. I am also stubborn when I get stuck, and tend to spend too much time on one method or problem. I also struggled with time-boxing, and time management.
 
