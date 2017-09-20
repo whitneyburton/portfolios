@@ -22,7 +22,7 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 ## B: Individual Work & Projects
 
 
-#### Number guesser
+### Number guesser
 
 * [GitHub URL](https://github.com/mariastlouis/number_guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -55,18 +55,18 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 * Magic
 
 
-#### Static Comp 1
+### Static Comp 1
 
 * [GitHub URL](https://github.com/mariastlouis/ms-comp-challenge1)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 
-#### Static Comp 2
+### Static Comp 2
 
 * [GitHub URL](https://github.com/mariastlouis/ms-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-#### Static Comp 3
+### Static Comp 3
 
 * [GitHub URL](https://github.com/mariastlouis/ms-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
@@ -75,11 +75,10 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 ## C: Group Work & Projects
 
 
-#### (Linked list)
+### (Linked list)
 
 * [GitHub URL](https://github.com/t6r6l5/LinkedLists)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
-
 
 
 #### Comments
@@ -111,7 +110,7 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 “I sincerely enjoyed working with you on our first group project. I think our skillsets meshed perfectly as evidenced by our success. Your ability to pick up new concepts and apply them quickly seriously impressed me. I appreciated the enthusiasm with which you took on challenges. I would have liked for you to take more time with me to explain your thought process and knowledge more deeply as I was eager to learn from your insight but did not get a full opportunity to do so. In future projects I would make sure that your partner feels entirely comfortable with the work you’ve done before moving forward. This also may be a fault of mine in that I did not express the extent to which I would have preferred for you to spend time discussing things with me. All in all I had a phenomenal experience working with you and hope we get paired up again soon!”
 
 
-#### (Idea Box)
+### (Idea Box)
 
 * [GitHub URL](https://github.com/mariastlouis/infobox)
 * [Original Assignment](https://github.com/mariastlouis/infobox)
@@ -125,40 +124,39 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 
 #### Accessibility
 
-* Advanced Beginner	Leverages more precise semantic tags when applicable, and employs basic ARIA roles attributes for added clarity in structure, descriptive image alt attributes, title attributes for applicable anchor tags.
+* Advanced Beginner
 
 #### Style
 
-* Advanced Beginner	Crafts markup with proper and logical nesting.
-* Proficient	Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices.
+* Advanced Beginner	
+* Proficient	
 
 #### CSS
 
 #### Structure of Code
 
-* Proficient	Leverages cascading styles and CSS specificity rules to create more complex targeting of elements in order to reduce, reuse, share styles across elements. Organizes properties within rules based upon industry standard principles of writing consistent, idiomatic CSS.
+* Proficient
 
 #### Implementation
 
-* Proficient	Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout.
+* Proficient
 
 #### JAVASCRIPT
 
 #### Data Types
 
-* Proficient	Can identify and track data types through any variety of functions, understanding their affect and result on each line of code. Knows which scenarios are better suited for objects vs. arrays and employs them accordingly.
-
+* Proficient	
 #### Conditional Logic
 
-* Proficient	Can use an if/esle statement to effectively handle multiple paths through the code. Writes if/else statements that only have one level of logic (no nesting). Can use logical operators instead of if/else statements where applicable.
+* Proficient
 
 #### Functions & Scope
 
-* Proficient	Functions have single responsibility. The entirety of the function is easy to read what functionality it contains. Function is generally shorter than 8 lines. Uses functions to eliminate repeated code. Comfortable refactoring any piece of code and extracting it to a function.
+* Proficient	
 
 #### Arrays
 
-* Proficient	Does not use for loops for arrays - uses array prototypes, such as forEach, to iterate through or manipulate arrays. Can use array to store more complicated data structures such as objects or nested arrays. Is comfortable/efficient with reading array prototype documentation and can efficiently test/apply array prototype methods they have not worked with before.
+* Proficient	
 
 #### Objects & Prototypes
 
@@ -193,7 +191,7 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 Maria, you were a fantastic partner. I was so happy to be paired with you. I really appreciated how you got going on the HTML and CSS. We both had the opportunity to work on the JavaScript. I would recommend trying to not get in such a rush when things aren't working. Specifically, this happened when we ran into problems with the localStorage and we kept trying to plow ahead instead of trying to break down the problem to its smallest parts. Other than that I enjoyed working with you. And was very thankful you were so generous with your time being a wife and a mother. Thank you.
 
 
-#### (ToDo Box)
+### (ToDo Box)
 
 * [GitHub URL](https://github.com/jdursema/ToDoBox)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
