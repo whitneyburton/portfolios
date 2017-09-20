@@ -87,76 +87,49 @@ I recreated this layout with a theme of Grimms Fairy Tales, again using CSS Flex
 
 Following are my group projects: Linked List with Julie Hawkins, IdeaBox with Thomas Laird, and 2DoBoxPivot with Hugh Hartigan.
 
-#### Linked List
-
+### Linked List
 * [GitHub URL](https://github.com/julieahawkins/Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-##### Evaluated By: Pam
+#### Evaluated By: Pam
 
-###### Notes/What To Work On:
+Notes/What To Work On:
 - Good naming/easy to follow code
 - Very cognizant of design
 - Use .on() instead of .bind() (the latter being deprecated as of jQuery 3.0)
 
-###### Functional Expectations
-* Exceptional: You completed Phase Three and did something with Phase Four.
-
-###### COMP RECREATION / DESIGN
-* Exceptional
-
-###### HTML
-* Proficient
- 
-###### CSS
-* Proficient  
-
-###### JS/jQuery
-* Proficient  
-
-###### GIT & GITHUB
-* Proficient  
-
-###### Pairing/Collaboration
-* Exceptional  
-
-###### Surprise and Delight (optional category, but reminder: have fun!)
-* Hot Fire  
+Scores: 
+- Functional Expectations = Exceptional: You completed Phase Three and did something with Phase Four.
+- COMP RECREATION / DESIGN = Exceptional
+- HTML = Proficient
+- CSS = Proficient  
+- JS/jQuery = Proficient  
+- GIT & GITHUB = Proficient  
+- Pairing/Collaboration = Exceptional  
+- Surprise and Delight (optional category, but reminder: have fun!) = Hot Fire  
 
 #### Partner Feedback from Julie
 I think we made a great pair and our strengths complimented each other very well! I really appreciate how you took the time to explain the things we did separately to each other so that we both felt fully on the same page throughout and I always felt we were having fun and being respectful of each other. I think we both get so excited about the possibilities and ideas about the project and that sometimes led us into getting ahead of ourselves and losing some focus; I really liked how we took breaks to take a walk and regain our focus. We pushed through some tough problems together and I’m proud of what we accomplished as a team. Our project was awesome! I really enjoyed working with you!
 
-#### IdeaBox
-
+### IdeaBox
 * [GitHub URL](https://github.com/t6r6l5/IdeaBox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-##### Evaluator: Louisa
-###### Notes/What To Work On:
+#### Evaluated by: Louisa
+Notes/What To Work On:
 - make sure you're watching indentation! mind the little details
 - well crafted code, could use a refactor pass (which is a good place to be)
 - both have solid ownership of entire codebase
 - Make sure you're being mindful accessibility best practices
 
-###### Functional Expectations
-* Proficient
-
-
-##### HTML
-
-###### Accessibility
-* Proficient
-
-###### Style
-* Proficient
-
-##### CSS
-
-###### Structure of Code
-* Proficient
-
-###### Implementation
-* Proficient
+Scores: 
+* Functional Expectations = Proficient
+* HTML:      
+   * Accessibility = Proficient
+   * Style = Proficient
+* CSS: 
+   * Structure of Code = Proficient
+   * Implementation = Proficient
 
 ##### JAVASCRIPT
 
