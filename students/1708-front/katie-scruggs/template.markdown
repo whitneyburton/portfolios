@@ -24,7 +24,6 @@ My focus this module was to learn best practices for writing HTML, CSS, and Java
 Following are my individual projects for this mod, Number Guesser and three static comps.
 
 ### Number Guesser
-
 * [GitHub URL](https://github.com/katiescruggs/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
@@ -35,21 +34,20 @@ Notes/What To Work On:
 - A MODAL!!!!
 - Code could use a refactor pass, but was thought through, well planned, and thoughtfully executed.
 
-Functional Expectations = Exceptional 
+Functional Expectations = Exceptional
 COMP RECREATION / DESIGN = Exceptional  
 HTML = Proficient    
 CSS = Proficient    
 JS/jQuery = Proficient    
 Surprise and Delight (reminder: have fun!) = Hot Fire  
 
-#### Static Comp 1
-
+### Static Comp 1
 * [GitHub URL](https://github.com/katiescruggs/ks-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 I created this layout with a yoga theme, using CSS FlexBox.
 
-###### Feedback from Louisa:
+#### Feedback from Louisa:
 - get rid of all drop shadows
 - adjust colors that are too similar (periwinkle/mauve should have more contrast)
 - the buttons should probably not be set to the same width
@@ -59,23 +57,20 @@ I created this layout with a yoga theme, using CSS FlexBox.
 - make margins more consistent
 
 
-#### Static Comp 2
-
+### Static Comp 2
 * [GitHub URL](https://github.com/katiescruggs/ks-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
 I recreated this layout with a theme of Grimms Fairy Tales, again using CSS FlexBox. 
 
-###### Feedback from Louisa:
+#### Feedback from Louisa:
 - Purple background color is too saturated and close to the blue, knock it back
 - Make sure that castle icon is perfectly alligned
 - Change the gray hover state to a red accent color so that it stands out better
 - Pull down vertical ul to the baseline instead of moving it to the top left corner
 - Center title on small screens so that the layout looks intentional
 
-
-#### Static Comp 3
-
+### Static Comp 3
 * [GitHub URL](https://github.com/katiescruggs/ks-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
