@@ -54,34 +54,41 @@ Following are my individual projects for this mod, Number Guesser and three stat
 * Hot Fire  
 
 
-
 #### Static Comp 1
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/katiescruggs/ks-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
+I created this layout with a yoga theme, using CSS FlexBox.
 
-(evaluation comments)
-
-(evaluation scores)
+###### Feedback from Louisa:
+- get rid of all drop shadows
+- adjust colors that are too similar (periwinkle/mauve should have more contrast)
+- the buttons should probably not be set to the same width
+- the background image should stay centered as the screen compresses
+- get rid of strange margins as screen sizes shrinks
+- buttons should be bigger on mobile screen
+- make margins more consistent
 
 
 #### Static Comp 2
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/katiescruggs/ks-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
+I recreated this layout with a theme of Grimms Fairy Tales, again using CSS FlexBox. 
 
-(evaluation comments)
-
-(evaluation scores)
+###### Feedback from Louisa:
+- Purple background color is too saturated and close to the blue, knock it back
+- Make sure that castle icon is perfectly alligned
+- Change the gray hover state to a red accent color so that it stands out better
+- Pull down vertical ul to the baseline instead of moving it to the top left corner
+- Center title on small screens so that the layout looks intentional
 
 
 #### Static Comp 3
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/katiescruggs/ks-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 (description)
@@ -94,7 +101,7 @@ Following are my individual projects for this mod, Number Guesser and three stat
 
 ### Projects
 
-(Intro)
+Following are my group projects: Linked List with Julie Hawkins, IdeaBox with Thomas Laird, and 2DoBoxPivot with Hugh Hartigan.
 
 #### Linked List
 
