@@ -275,7 +275,7 @@ I have not yet received the feeback for this project
 ## D: Professional Skills
 
 ### Gear Up
-#### (Reflections to gear up sessions)
+#### Reflections to gear up sessions
 
 * [GitHub URL](https://gist.github.com/mariastlouis/fbf66abc26524eea1ccabed84c562bd6)
 
