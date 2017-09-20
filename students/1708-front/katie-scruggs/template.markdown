@@ -105,16 +105,42 @@ Following are my group projects: Linked List with Julie Hawkins, IdeaBox with Th
 
 #### Linked List
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/julieahawkins/Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+##### Evaluated By: Pam
 
-(evaluation comments)
+###### Notes/What To Work On:
+- Good naming/easy to follow code
+- Very cognizant of design
+- Use .on() instead of .bind() (the latter being deprecated as of jQuery 3.0)
 
-(evaluation scores)
+###### Functional Expectations
+* Exceptional: You completed Phase Three and did something with Phase Four.
 
-(feedback to me)
+###### COMP RECREATION / DESIGN
+* Exceptional
+
+###### HTML
+* Proficient
+ 
+###### CSS
+* Proficient  
+
+###### JS/jQuery
+* Proficient  
+
+###### GIT & GITHUB
+* Proficient  
+
+###### Pairing/Collaboration
+* Exceptional  
+
+###### Surprise and Delight (optional category, but reminder: have fun!)
+* Hot Fire  
+
+#### Partner Feedback from Julie
+I think we made a great pair and our strengths complimented each other very well! I really appreciate how you took the time to explain the things we did separately to each other so that we both felt fully on the same page throughout and I always felt we were having fun and being respectful of each other. I think we both get so excited about the possibilities and ideas about the project and that sometimes led us into getting ahead of ourselves and losing some focus; I really liked how we took breaks to take a walk and regain our focus. We pushed through some tough problems together and I’m proud of what we accomplished as a team. Our project was awesome! I really enjoyed working with you!
 
 #### IdeaBox
 
