@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Maria St. Louis-Sanchez - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself to always be learning and being open to other solutions, grow in my HTML and CSS skills and throw myself into the life of a developer. While the mod has been challenging, I'm proud of how much I've learned in just six weeks and have loved the challenge and the excitment of finally figuring out a tough solution. 
 
 ## Rubric Scores
 
@@ -23,16 +23,48 @@
 
 (Intro)
 
-#### (Project Name)
+#### Number guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/mariastlouis/number_guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+#### Comments: 
 
-(evaluation comments)
+- well done!
+- thoughtful code, could use a refactor pass (which is a great plate to be for the first project)
+- fun extra details!
 
-(evaluation scores)
+#### Scores: 
+
+## Functional Expectations
+
+* Exceptional: Application meets all of the expectations of phase three and one or more of the extensions.  
+
+
+## COMP RECREATION / DESIGN
+
+* Proficient  
+* Exceptional  
+
+
+## HTML
+
+* Proficient  
+
+
+## CSS
+
+* Proficient  
+
+
+## JS/jQuery
+
+* Proficient  
+
+
+## Surprise and Delight (reminder: have fun!)
+
+* Magic
 
 ## C: Group Work & Projects
 
