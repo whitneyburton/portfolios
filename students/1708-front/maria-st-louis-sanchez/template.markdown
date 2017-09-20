@@ -72,11 +72,7 @@ My goals for mod 1 were: Learn the foundations of JavaScript, challenge myself t
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 
-
-
-#### C: Group Work & Projects
-
-### Projects
+## C: Group Work & Projects
 
 
 #### (Linked list)
