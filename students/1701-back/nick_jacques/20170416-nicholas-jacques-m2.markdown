@@ -44,6 +44,7 @@
 
 > **Little Shop of Orders**
 >* In this project we were tasked with building out a simple ecommerce platform that utilized rails' sessions to build a shopping cart without saving items to the database.
+>* One day, I will recieve a 4 on testing and it will be glorious.
 
 
 | CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
@@ -56,7 +57,6 @@
 | **Code Organization/Quality** | 3 | 4/4/3 |
 | **Testing** | 4 | 3.5 |
 | **Working Collaboratively** | 3| 3 |
-
 
 
 ##### Feedback to me for Bike Share
@@ -75,6 +75,10 @@
 
   Collaborating with Nick has been a great experience throughout the course of the Little Shop project. I really appreciated his willingess to help me become more familiar with FactoryGirl, which served to be an invaluable resource in our project that streamlined our testing work flow. Along with being knowledgeable, Nick also has a great work ethic that comes with a positive attitude. He was willing to come in both days on the weekend to ensure that we were at a good place in our user stories. Overall, I would recommend Nick as a teammate to anyone because I know he would be a valued contributor in any setting.
 
+  >* From Mark Van Akkeren:
+
+  For Nick: I grossly underestimated where you were at with the material when we kicked this off. Didn't take long to figure out my mistake.  Looking at your mini project alone blew me away.  I appreciate both of you having the patience to let me drive the first week and to allow me to solidify my understanding of the more rudimentary concepts and connections within RAILS. I'm not sure _where_ we could have put it in this project (what with the successive, seemingly sequential, user stories) but a group work technique that I've found to help when teams are made up of varying levels of talent is to give some ownership of a small feature to the weaker member and let them run with it. Funny to be on the other side of that advice now! You're very well poised to make a mark wherever you end up.  Kick some ass.  
+  p.s. sleep more
 
 
 ## D: Professional Skills

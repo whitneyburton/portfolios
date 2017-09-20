@@ -89,6 +89,7 @@ I liked this project and I am happy that I spent the extra time working on the b
 * [Original Assignment](http://backend.turing.io/module2/projects/little_shop)
 
 (description)
+
 Build a functional ecommerce site with a group of four.  For us we did a pizza place.  This was a GREAT group of folks and we all knew our stuff so well we did most things together because we moved so quickly and only broke things up at the end.  I enjoyed this project and working with Will, Eddie and Jimmy. 
 
 (your goal and role in the project)
@@ -139,4 +140,5 @@ Without bombing the in-class assement I would have def said PROMTED, for what it
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED
+
