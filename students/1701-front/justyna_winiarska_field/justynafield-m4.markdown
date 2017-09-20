@@ -8,6 +8,7 @@
 PASS
 
 ## Capstone Project:
+#### Evaluators: Robbie Jaeger and Brittany Storoz
 PASS
 
 ## Individual Project
@@ -35,10 +36,25 @@ PASS
 
 ## Group Projects
 ### House of Vars
-
 #### Team: Juan, Lindsay
 
 #### Blog Post
 [Link to my Blog Post](https://medium.com/@justyna.field/jumping-into-open-source-a-head-first-approach-to-contributing-to-an-existing-code-base-2b3961a4ea5e)
 
 ## Community
+#### UX/UI
+
+------------------
+
+## Final Review
+
+### Notes
+
+### Outcome
+
+
+* **A: End-of-Module Assessment**: 
+* **B: Individual Work & Projects**: 
+* **C: Group Work & Projects**: 
+* **D: Professional Skills**: 
+* **E: Community Participation**: 
