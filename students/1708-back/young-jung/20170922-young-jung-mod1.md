@@ -11,7 +11,7 @@ and coming back in with 1710 but after thinking about it and knowing that my
 failure wasn't due to lack of effort more I felt comfortable with the decision to
 go into 1708.  My goal from the start of the module was to learn to code, to go
 from completing zero projects in 1706 to proving that I could learn to code in 1708.
-I feel that I have been successful in my goal, through me effort and the help of
+I feel that I have been successful in my goal, through my effort and the help of
 others who offered their time to me I feel that I now have a good grasp of Ruby syntax
 and style and can code.
 
@@ -31,7 +31,7 @@ it a goal to try my best at it and I ended up finishing it late in the night bef
 the evaluation, with an extension.
 
 My least favorite I guess would be Black Thursday mostly because of how much of a
-mind bender some of the relationships can be but it's good practice.
+convoluted some of the relationships can be but it's good practice.
 
 What did you learn from your independent projects?
 
