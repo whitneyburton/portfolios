@@ -3,26 +3,26 @@
 ## Areas of Emphasis
 
 #### What did you set out to accomplish this module? Were you successful?
--- Overall -- : My goals this module were to develop a strong foundation for object oriented programming, and to develop an understanding of how to write clean adaptable code. Looking forward and to the application of these new skills in a profession, I want to really learn how to write not just functioning programs, but programs that can withstand change. I came in with little to know experience, so this module I want to learn the fundamentals and develop good habits of correct ruby conventions.
+**Overall** : My goals this module were to develop a strong foundation for object oriented programming, and to develop an understanding of how to write clean adaptable code. Looking forward and to the application of these new skills in a profession, I want to really learn how to write not just functioning programs, but programs that can withstand change. I came in with little to know experience, so this module I want to learn the fundamentals and develop good habits of correct ruby conventions.
 
  I also wanted to be all in on the process, and be present, and to have faith in the process and pedagogy, knowing I will be uncomfortable with not being able to fully dive into topics, read all the things, etc.
 
--- Tools --: My goal was to be more comfortable with using tools like git, Github, Waffle.io, my mac, terminal, etc. I wanted to get more comfortable with my Mac environment(this is my first time using a mac), as well as not be scared of computers and technology (I know.. weird that I choice Software developer program :) ).
+**Tools**: My goal was to be more comfortable with using tools like git, Github, Waffle.io, my mac, terminal, etc. I wanted to get more comfortable with my Mac environment(this is my first time using a mac), as well as not be scared of computers and technology (I know.. weird that I choice Software developer program :) ).
 
--- Ruby Concepts --: I wanted to come away with a strong understanding of classes, objects, modules, methods, and how to appropriately breakdown problems into appropriate objects, methods, etc. I wanted to use TDD to write programs. I wanted to be comfortable manipulating and storing data. I wanted to focus more on understanding why to use certain methods, or data structures to approach a problem over memorizing particular ruby methods etc.
+**Ruby Concepts**: I wanted to come away with a strong understanding of classes, objects, modules, methods, and how to appropriately breakdown problems into appropriate objects, methods, etc. I wanted to use TDD to write programs. I wanted to be comfortable manipulating and storing data. I wanted to focus more on understanding why to use certain methods, or data structures to approach a problem over memorizing particular ruby methods etc.
 
--- Community & Professional --: I wanted to find my leadership style and get comfortable with being at the elementary level of a profession again. I wanted to be open to other people's point and view and take feedback constructively. I wanted to learn how to pair with different work styles. I wanted to start to build my network in a new industry and city.
+**Community & Professional**: I wanted to find my leadership style and get comfortable with being at the elementary level of a profession again. I wanted to be open to other people's point and view and take feedback constructively. I wanted to learn how to pair with different work styles. I wanted to start to build my network in a new industry and city.
 
 
 #### What did you struggle most with this module? What did you learn from that struggle?
 
-*Overall*: I struggled a lot in module 1, but I wanted a challenge and embraced the challenge because it does bring growth. I have always been a very strong traditional student, and was considered a consistent top performer in my last roles, so struggling for 6 weeks and feeling like I am at the bottom, was a very humbling experience. I would often get frustrated too when I felt that I was understanding concepts well, or how to approach and breakdown the problem, but felt that my projects, or timed assessments were not representative of my effort or knowledge. I have struggled a bit too, with stress management.
+**Overall** : I struggled a lot in module 1, but I wanted a challenge and embraced the challenge because it does bring growth. I have always been a very strong traditional student, and was considered a consistent top performer in my last roles, so struggling for 6 weeks and feeling like I am at the bottom, was a very humbling experience. I would often get frustrated too when I felt that I was understanding concepts well, or how to approach and breakdown the problem, but felt that my projects, or timed assessments were not representative of my effort or knowledge. I have struggled a bit too, with stress management.
 
---Tools--: I feel that I have become increasingly more comfortable with Git and Github with Black_Thursday, but I would like to learn more about using git and Github. I think this is an invaluable tool moving forward. I need to continue to learn how to own my operating system- more shortcuts, atom, etc.
+**Tools** : I feel that I have become increasingly more comfortable with Git and Github with Black_Thursday, but I would like to learn more about using git and Github. I think this is an invaluable tool moving forward. I need to continue to learn how to own my operating system- more shortcuts, atom, etc.
 
---Ruby Concepts --: I struggled with deep nested hashes, and how to write methods to appropriately access and manipulate the needed data.
+**Ruby Concepts**: I struggled with deep nested hashes, and how to write methods to appropriately access and manipulate the needed data.
 
--- Breaking Down Logic --: I tend to struggle at times with how to start breaking things in small pieces. I am also stubborn when I get stuck, and tend to spend too much time on one method or problem. I also struggled with time-boxing, and time management.
+**Breaking Down Logic** : I tend to struggle at times with how to start breaking things in small pieces. I am also stubborn when I get stuck, and tend to spend too much time on one method or problem. I also struggled with time-boxing, and time management.
 
 
 ## Projects
