@@ -66,25 +66,9 @@ _description_
 
 A site for book club members to suggest books, vote, and see what the club is currently reading and what has been read in the past.
 
-
-_evaluated by_
-
-<!-- Taylor -->
-
 _evaluation comments_
 
-<!-- N/A -->
-
-_evaluation scores_
-
-<!-- | Area                   |Score|
-| ---                    |:---:|
-|Specification Adherence | 3.5 |
-|Redux Architecture      |  3  |
-|Routing                 |  4  |
-|JavaScript Style        | 3.5 |
-|Testing                 | 2.5 |
-|Workflow                |  4  | -->
+Pass
 
 
 #### House of Vars
