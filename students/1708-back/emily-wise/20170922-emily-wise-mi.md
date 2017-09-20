@@ -7,7 +7,7 @@
 
  I also wanted to be all in on the process, and be present, and to have faith in the process and pedagogy, knowing I will be uncomfortable with not being able to fully dive into topics, read all the things, etc.
 
-**Tools**: My goal was to be more comfortable with using tools like git, Github, Waffle.io, my mac, terminal, etc. I wanted to get more comfortable with my Mac environment(this is my first time using a mac), as well as not be scared of computers and technology (I know.. weird that I choice Software developer program :) ).
+**Tools**: My goal was to be more comfortable with using tools like git, Github, Waffle.io, my mac, terminal, etc. I wanted to get more comfortable with my Mac environment(this is my first time using a mac), as well as not be scared of computers and technology (I know.. weird that I chose Software developer program :) ).
 
 **Ruby Concepts**: I wanted to come away with a strong understanding of classes, objects, modules, methods, and how to appropriately breakdown problems into appropriate objects, methods, etc. I wanted to use TDD to write programs. I wanted to be comfortable manipulating and storing data. I wanted to focus more on understanding why to use certain methods, or data structures to approach a problem over memorizing particular ruby methods etc.
 
