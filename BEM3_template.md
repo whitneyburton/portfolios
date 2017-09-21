@@ -42,11 +42,11 @@
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
 | **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Functional/Client Expectations** | 3 | 3 | X |
+| **TDD** | 4 | 3 | X |
+| **Code Organization/Quality** | 4 | 3 | X |
+| **API Design** | 4 | N/A | N/A |
+| **Queries** | 4 | N/A | N/A |
 
 > Rales Engine evaluation comments:
 \<Instructor Comments Here>
