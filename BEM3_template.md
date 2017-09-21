@@ -73,13 +73,11 @@
 >* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
 
 #### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
+  >* Most of the time it was homework. We also brought mentors in who gave a great talk about the professional world and answered questions. 
 
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
+> I made myself available to mod 2 and mod 1 students for help with their projects.(At least the ones I was comfortable with) I also tried to help as best I could in our own mod. I helped move a friend as well.  
 
 ------------------
 
