@@ -27,11 +27,26 @@ Through the pre-work, books, and lessons to the static comps, number guesser pro
 * [GitHub URL](https://github.com/Toddsteez/tw-number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+This project was very difficult for me. I had missed a very important class which had introduced key Javascript concepts. This project was the beginning of my mod-long chase. However, this project was a strong start to my learn coding career and ultimately enjoyed it. Pairing was clutch!
 
-(evaluation comments)
+Besides improving javascript (common theme), I needed to consider a difficult user by making my limitations strict.
 
-(evaluation scores)
+Functional Expectations: Advanced Beginner - Proficient
+Comp Recreation/Design: Proficient
+HTML: Proficient
+CSS: Advanced Beginner
+JS/jQuery: Advanced Beginner
+
+#### Static Comps
+
+* [GitHub URL](https://github.com/Toddsteez/tw-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+* [GitHub URL](https://github.com/Toddsteez/tw-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+* [GitHub URL](https://github.com/Toddsteez/tw-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+The static comps were very challenging because I had little experience using HTML and CSS. The main challenges were page layout and how to breakdown HTML efficiently/correctly, working with flex and other strange CSS things, and making time to successfully complete them.
 
 ## C: Group Work & Projects
 
