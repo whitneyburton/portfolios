@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to learn React and Canvas and improve my algorithm knowledge.
 
 ## Rubric Scores
 
@@ -16,14 +16,27 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Passed the End of Module Assessment
 
 
 ## B: Individual Work & Projects
 
 (Intro)
 
-#### (Project Name)
+#### Sorting Suite
+
+* [GitHub URL](https://github.com/rufusasterisk/sorting-suite)
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(Intro)
+
+#### CompleteMe
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -40,7 +53,7 @@
 
 (Intro)
 
-#### (Project Name)
+#### Game Time
 
 * [GitHub URL]()
 * [Original Assignment]()
@@ -52,6 +65,22 @@
 (evaluation scores)
 
 (feedback to me)
+
+(Intro)
+
+#### Weathrly
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
 
 ## D: Professional Skills
 (Intro)
