@@ -1,18 +1,18 @@
-# \JF Lalonde - M3 Portfolio
+# JF Lalonde - M3 Portfolio
 
 ## Areas of Emphasis
 
-> \<What did you set out to accomplish this module?>
+> This module I wanted to push myself to start learning Javascript, and get some experience with remote pairing. I also wanted to get much more comfortable consuming APIs.
 
 ## Self-Assessment
 
 | Section | Category | Score |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Work & Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Feedback & Community Participation** | X |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Work & Projects** | 3 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 3 |
+| E | **Feedback & Community Participation** | 4 |
 
 >* \<Takeaways, your experience>
 >* \<Notes>
@@ -21,9 +21,10 @@
 
 ## A: Individual Work & Projects (Optional)
 
-> **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
->* \<Description>
->* \<Takeaways, your experience>
+> **[APIcurious](https://github.com/JF-Lalonde/API-Curious)**
+>* API-Curious was a project experimenting with Reddit's API.
+The goal was to authenticate a user via OAuth, then access that user's Reddit information including subreddits subscribed to, username, and karma score.
+>* This project was an ambitious undertaking. I quickly realized I was the only one tackling the Reddit API, and while I could have changed to Github I wanted to struggle through it to see what I would learn. I ultimately was able to hand-roll my Oauth to Reddit, then I refactored using the OmniAuth gem. I wasn't able to finish what I wanted in terms of the cloning part of the project, but I would love to go back to polish it off.
 
 
 ## B: Group Work & Projects
