@@ -173,11 +173,11 @@ For this module, I wanted to learn about responsive web design and walk away wit
 ## D: Professional Skills
 
 ### Gear Up
-Strengths Reflection * [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_session.md)
-Learning To Pair * [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md)
-Feedback I * [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
-Strengths and Storytelling * [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_and_storytelling.md)
-Developer Identity * [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
+* Strengths Reflection  [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_session.md)
+* Learning To Pair  [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md)
+* Feedback I  [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
+* Strengths and Storytelling  [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_and_storytelling.md)
+* Developer Identity  [Github URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
 
 ### My reflections
 * [GitHub URL](https://gist.github.com/Jessewood/701510c4028e775f96fe3161070786b2)
