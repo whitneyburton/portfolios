@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Todd Watner - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Being entirely new to programming in any manner, I set out to accomplish a great deal. My main goal of beginning to learn HTML, CSS, and Javascript was achieved through the design of the curriculum, good instruction, and hard work. I was proud to succeed when I did, and proud to learn from my many failures. Other goals of mine, like meeting great people and networking, have been accomplished as well. Going forward, I aim to advance my skills in Javascript, learn new languages, and intensely network. 
 
 ## Rubric Scores
 
@@ -16,17 +16,16 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+N/A
 
 ## B: Individual Work & Projects
 
-(Intro)
+Through the pre-work, books, and lessons to the static comps, number guesser project and online resources, I had an amazing time learning this past mod. These individual projects truly tested my ability to code.
 
-#### (Project Name)
+#### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/Toddsteez/tw-number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 (description)
 
