@@ -15,7 +15,7 @@ I hoped to solidify my rails skills and learn some new skills such as JS.
 | E | **Feedback & Community Participation** | 3 |
 
 >* \<Takeaways, your experience>
-Most of the topics in Mod 3 were very relevant to being a real developer and I really enjoyed the lessons about thigs such as performance. 
+Most of the topics in Mod 3 were very relevant to being a real developer and I really enjoyed the lessons about things such as performance. 
 I felt as through a lot of the topics weren't things one could learn well from a tutorial and the real world experience of the instructors was particularly beneficial in this mod. The projects were challenging in terms of the group work and I felt the main takeaways were project management related. 
 >* \<Notes>
 
@@ -27,7 +27,7 @@ I felt as through a lot of the topics weren't things one could learn well from a
 >* \<Description>
 Used the Github API to re-construct a simplified version of the website’s existing UI.
 >* \<Takeaways, your experience>
-This project was a great introduction to consuming APIs. By the end of the project I felt comofortable approaching most APIs.
+This project was a great introduction to consuming APIs. By the end of the project I felt comfortable approaching most APIs.
 
 ## B: Group Work & Projects
 
@@ -35,7 +35,7 @@ This project was a great introduction to consuming APIs. By the end of the proje
 >* \<Description>
 Uses Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 >* \<Takeaways, your experience>
-This project was extremely valuable in solifying and strengthening my Active Record and SQL query skills. It was also a good introdution to building RESTfil APIs.
+This project was extremely valuable in solidifying and strengthening my Active Record and SQL query skills. It was also a good introdution to building RESTful APIs.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
 > **[Cloney Island Sprint 1](https://)** 
