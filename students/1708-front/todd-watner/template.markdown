@@ -120,7 +120,7 @@ This session showed me how growth mindset can unleash my true potential. We also
 
 #### Getting Better at Difficult Things
 
-???
+Cognitive load was the theme of this session. I found it very interesting how small details in my life contribute to a lack of producticity and potential. After this, I was more conscious about not wasting braining resources.
 
 #### Dealing with Difference: Introverts & Extroverts
 
