@@ -109,8 +109,12 @@ Albeit not participating very much in the community this module, I did feel like
 
 ### Notes
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: X (3.5)
+B: Individual Work & Projects: X (3.5)
+C: Group Work & Projects: X (3.5)
+D: Professional Skills: X (3)
+E: Community Participation: X (3)
 
 ### Outcome
 
-Pass/Fail
+Pass
