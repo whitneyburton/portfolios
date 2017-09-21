@@ -160,7 +160,7 @@ Scores:
 ##### Feedback from Thomas
 Working together on IdeaBox was awesome! Your ability to pick up on concepts and implement them quickly was a huge part of why we were able to get ahead and finish all the phases of our project. At times I felt like I was getting left behind when you would figure a series of things out that would make a particular feature work and I didn't want to always stop our progress to get an explanation of your thought process. However, when I did do so, you were always quick to stop and give a very thoughtful and thorough explanation. In the future I would recommend making sure your partner is comfortable with things before moving on to the next as you do such a good job explaining. Even as I have progressed through 2doBox stuff this past weekend I have noticed how much better I understand some of the more complex concepts as a result of having worked with you. I appreciate you and hope we get paired up again soon!
 
-#### 2DoBox Pivot
+### 2DoBox Pivot
 
 * [GitHub URL](https://github.com/HartiganHM/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
@@ -168,7 +168,7 @@ Working together on IdeaBox was awesome! Your ability to pick up on concepts and
 #### Description
 For this project, Hugh and I received the code from another group's IdeaBox project and refactored it, then added additional features, like only displaying the 10 most recent cards, allowing a to-do to be marked "completed", and implementing a character counter. This was my first experience with working with someone else's code, and while I was at first intimidated, I enjoyed the experience of seeing how someone else had approached problems differently than I had.
 
-##### Evaluated by: Pamela Lovett
+##### Evaluated by: Pam
 
 Notes/What To Work On:
 - Functionality: All 3 Phases completed with extension for disabling button with 120+ characters - HOORAY!
@@ -229,10 +229,10 @@ The discussion about cognitive load made sense to me. Sometimes when I am stress
 
 I was aware of some of the difficulties involved in being a woman in tech, but watching this video and getting the chance to discuss its implications with my male classmates was valuable. It made me realize that in order to change the overall culture, individuals in tech (of every gender) need to stand up for what is right. I am hoping to be able to stand up against discrimination in the industry once I get into the industry.
 
-#### Community GearUp: The Art of Not Giving a Fuck
+#### Community Gear Up: The Art of Not Giving a Fuck
 * [GitHub URL]()
 
-Despite its slightly vulgar title, this gear up was focused on determining what is a priority and what isn't in your life, and then acting accordingly. When I get tired and stressed, it is easy for me to lose sight of my priorities and begin to worry about things that I have no control over or things that don't matter as much. I would like to work on focusing my energy on things that matter and letting go of the rest.
+Despite its title, this gear up was focused on determining what is a priority and what isn't in your life, and then acting accordingly. When I get tired and stressed, it is easy for me to lose sight of my priorities and begin to worry about things that I have no control over or things that don't matter as much. I would like to work on focusing my energy on things that matter and letting go of the rest.
 
 ## E: Community Participation
 
