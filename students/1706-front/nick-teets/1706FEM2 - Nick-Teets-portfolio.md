@@ -29,7 +29,7 @@ During this module, we had 4 projects: Game-Time, Sorting Suite, Complete-Me, an
 
 The project assignment was to build 4 sorting algorithms: bubble sort, insertion sort, merge sort, and quick sort.
 
-I struggled with this project and developing code on my own to solve these sorting problems. While I couldn't solve merge sort on my own, I was able to whiteboard the data flow and call stack of the algorithm and begin to understand how it worked. I nearly completed quick sort after understanding merge sort better, but finally solved it during a pairing session with Franklin, a student support staff member. 
+I struggled with this project and developing code on my own to solve these sorting problems. While I couldn't solve merge sort on my own, I was able to whiteboard the data flow and call stack of the algorithm and begin to understand how it worked. I nearly completed quick sort on my own after understanding merge sort, and finally solved it during a pairing session with Franklin, a student support staff member. 
 
 [Eval Scores]https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-2/sortingsuite/nick.md
 
