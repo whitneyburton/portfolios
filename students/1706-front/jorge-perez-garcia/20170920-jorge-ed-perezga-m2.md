@@ -104,8 +104,8 @@ I was on the schedule every week to pair with mod 1. Additionally, I paired with
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great Job!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
