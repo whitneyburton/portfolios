@@ -322,10 +322,9 @@ Professional development was a series of
 
 This session was very helpful in ways that you should approach learning situations, and how to handle set-backs and problem solving. How to recognize the signs of closed mind-set and how to avoid them. Growth mind-set is definetly something that I have to be very congnizant about and continue working on.
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-
 ## Working Styles
+
+We focused on introverted and extroverted personalities. I found it interesting that a person is neither completely one or the other. I defintely fall on the introverted side of the scale, but defintely have some extroverted when working on a smaller sc ale. I took away certain skill sets that are more tailored to introverted people, and how to work with people who fall on the extroverted side and vice versa.
 
 ## Defining the Relationship
 
