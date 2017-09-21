@@ -20,7 +20,7 @@ I believe I fulfilled the requirements to move on from Module 1.
 
 ## B: Individual Work & Projects
 
-The individual projects for Mod 1 were Number Guesser at the start of the mod followed by the three static compositions. I believe that these projects provided an opportunity for personal growth over the course of the module and also to take full ownership of both the deficiencies and successes of any given project.
+The individual projects for Mod 1 were Number Guesser at the start of the mod followed by the three static compositions. I believe that these projects provided an opportunity to achieve personal growth over the course of the module by taking full ownership of both the deficiencies and successes of any given project.
 
 #### Number Guesser
 
@@ -28,11 +28,31 @@ The individual projects for Mod 1 were Number Guesser at the start of the mod fo
 * [GitHub URL - Two Player Version](https://github.com/t6r6l5/Number-Guesser-2Player)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+Number guesser was the first project which utilized the skills of DOM manipulation in javascript. This project provided the foundation upon which subsequent projects were built. The goal of Number guesser was to provide an application in which the user could put in a random guess which would then be evaluated based upon a random number.
 
 (evaluation comments)
 
-(evaluation scores)
+##### Evaluator: Pamela Lovett
+
+###### Functional Expectations
+ 
+* Proficient - Exceptional
+
+###### COMP RECREATION / DESIGN
+  
+* Proficient  
+
+###### HTML
+  
+* Proficient  
+
+###### CSS
+
+* Advanced Beginner  
+
+###### JS/jQuery
+
+* Advanced Beginner  
 
 #### Static Comp One
 
