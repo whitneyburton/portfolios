@@ -60,10 +60,15 @@ I've learned more in this mod than any other, hands down. It wasn't only new mat
 | **Queries** | 4 | N/A | N/A |
 
 > Rales Engine evaluation comments:
-\<Instructor Comments Here>
+1 failure (BOSS MODE)
+Logic is pushed nicely down the stack.
+A little bit of minor refactoring and use of super class.
 
 > Cloney Island Sprint 1 evaluation comments:
-\<Instructor Comments Here>
+Not in production
+Solid implementation
+Advanced techniques in testing
+Clean separation of tricky logic
 
 > Cloney Island Sprint 2 evaluation comments:
 \<Instructor Comments Here>
