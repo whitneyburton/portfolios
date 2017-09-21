@@ -48,7 +48,7 @@ Our team used React and a database to build HeadCount 2.0. This was the first ti
 
 ## Students: Travis Rollins, Jonathan Beckman
 
-## Evaluator: Juhn
+## Evaluator: Jhun
 
 ## Specification Adherence
 
@@ -204,9 +204,11 @@ Finally, the last group project was Audio God.  We built an application that use
 3: Project pages load on average under 400 milliseconds.
 
 # C: Professional Skills
+
 I really enjoyed the professional development lessons this module and found them to be super relevant and helpful in finding a job.  Whether it was setting up a trello board for the first time to keep track of what I need to do while searching for a job, or the flower exercise to find out what I think is important in my next job and what skills are transferrable from where I last worked.  This also included how to go about searching for a job, and how important it is to contact somebody that works at a company rather than sending resumes out on indeed.com.  The feedback on my resume was also incredibly helpful.  I greatly appreciated the guidance and feel much more confident in searching for a job and being better prepared.
 
 ## Gear Up
+
 #### Microaggressions
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
@@ -235,7 +237,13 @@ This module I continued to spend time trying to reach out to my classmates and h
 
 ### Notes
 
-( Leave blanks for reviewers )
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 ### Outcome
 
