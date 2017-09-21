@@ -144,6 +144,7 @@ I unfortunately was unable to attend this Gear Up because of my medical issues w
 
 I thought I did a good job of being a part of the community this Mod by looking outward and reaching out to Turing Alums. I have had a few coffee dates now and phone conversations. I plan on being readily available once I too have a sweet job.
 
+totes forgot about being a posse lead. my b fam.
  -----------------------
 
 
@@ -151,8 +152,13 @@ I thought I did a good job of being a part of the community this Mod by looking 
 
 ### Notes
 
- ( Leave blanks for reviewers )
-
+ * **A: End-of-Module Assessment**: 3
+ * **B: Individual Work & Projects**: 3
+ * **C: Group Work & Projects**: 3
+ * **D: Professional Skills**: 3
+ * **E: Feedback & Community Participation**: 4
+ * **F: Chaco game:** 5
+ 
 ### Outcome
 
- Pass
+PASS
