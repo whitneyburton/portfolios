@@ -222,6 +222,9 @@ This project required the use of the base code from another group's IdeaBox. The
 ## D: Professional Skills
 
 ### Gear Up
+
+* [GitHub URL](https://github.com/turingschool/gear-up)
+
 #### Growth Mindset
 This session introduced the idea of growth mindset and fixed mindset. I feel it was a good way to preface the rest of the mod with the notion of "not yet" and how to recognize growth mindset and fixed mindset. I learned about how to pivot feelings that place us in fixed mindset and present these feelings in a way that allows growthmind set to step in. After this session, I still find myself pin pointing when a fixed mindset is creeping up on me and using the phrase "not yet" to change my thought process.
 
