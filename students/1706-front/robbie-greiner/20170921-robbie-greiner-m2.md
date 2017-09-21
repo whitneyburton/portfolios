@@ -131,10 +131,10 @@ Module 2 (Front-end)
  
  ### Notes
  
- ( Leave blanks for reviewers )
+ Great job!!!
  
  ### Outcome
  
- ( Leave blanks for reviewers )
+ Pass
  
  
