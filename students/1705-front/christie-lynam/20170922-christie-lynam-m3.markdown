@@ -124,34 +124,48 @@ I did my self-directed project with Margo Schaedel... see below (Do You)
 
 ##### Instructor: Jhun
 
-<!-- ###### Specification Adherence
+###### Project Scope
 
-* 4: The application meets all of the requirements listed above and implements one or more of the extensions.
+A good project idea should:
 
-###### Redux Architecture
+Break down into logical iterations so that you can deliver a strong product on every check-in
+Be something that real people would want to use to solve a problem
+Have enough technical challenge to be worth your time (as opposed to a content challenge)
 
-* 3.5: At least one component is not connected with Redux appropriately. Application state is mutated by more than just Redux. The Redux store is missing application data that it should be handling.
+###### Feature Delivery
 
-###### Routing
+1. Completion
 
-* 4: Application is a single page and uses the React Router to display appropriate components based on URL.
+* 4: Developer completed all the user stories and requirements set in check-ins in timely manner.
 
-###### JavaScript Style
+2. Organization
 
-* 3: Application is thoughtfully put together with some duplication and no major bugs. Group can speak to choices made in the code and knows what every line of code is doing.
+* 4: Developer used a project management tool and updated their progress in real-time.
 
-###### Testing
+###### Technical Quality
 
-* 3: Project has a running test suite that tests multiple levels but fails to cover some features.
+1. Test-Driven Development
 
-###### Workflow
+* 2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
 
-* 4: The group effectively uses different Git branches, submits pull requests and reviews each other’s code. The evolution of the application and who was responsible for what features is clearly documented through github. -->
+2. Code Quality
 
+* 4: Project demonstrates exceptionally well factored code.
+
+###### Product Experience
+
+1. User Experience
+
+* 3: Project exhibits a production-ready user experience.
+
+2. Performance
+
+* 3: Project pages load on average under 400 milliseconds.
 
 ## D: Professional Skills
 
 ### Gear Up
+
 #### Gear Up 1: Microaggressions
 
 <!-- I think Turing does a great job of providing an environment where people feel safe & welcome no matter their background or prior experiences. As an individual, I can work on being a little more extroverted and getting to know my cohort and community better. I love being alone and working alone, but I also recognize that this can sometimes alienate me from the rest of the group. Because of this, others are probable less willing to open up and share their experiences with me. And this is crucial in the process of becoming more empathetic. -->
