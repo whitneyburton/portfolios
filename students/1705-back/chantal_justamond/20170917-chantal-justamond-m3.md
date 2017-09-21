@@ -10,14 +10,12 @@
 
 | Section | Category | Score |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Work & Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Feedback & Community Participation** | X |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Work & Projects** | 3 |
+| C | **Group Projects** | 2.5 |
+| D | **Professional Development** | 3 |
+| E | **Feedback & Community Participation** | 3 |
 
->* \<Takeaways, your experience>
->* \<Notes>
 
 -----------------------
 
@@ -55,18 +53,19 @@ I plan to look over the ActiveRecord and SQL portion of the project as this was 
 Cloney Island is a brownfield development project aiming to clone much of the functionality and design of Airbnb's platform.
 
 >* \<Takeaways, your experience>
+>* The group experience I had was rewarding, we made some silly mistakes at the end but we took as a group and own it.
 
 
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Github Repo** | [Rales Repo](https://github.com/chantal66/rails_engine) | [80202 sprint 1 Repo](https://github.com/samanthagongora/turing_professionals) | [80202 Sprint 2 Repo](https://github.com/JF-Lalonde/cloney_island_airbnb) |
+| **Heroku** | [Rales](https://) | [80202 sprint 1 Repo](https://turing-professionals.herokuapp.com/) | [80202 Sprint 2 Repo](https://obscure-sierra-10949.herokuapp.com/) |
+| **Functional/Client Expectations** | 2 | 3 | 3 |
+| **TDD** | 3 | 3 | 3 |
+| **Code Organization/Quality** | 3 | 3 | 3 |
+| **API Design** | 3 | N/A | N/A |
+| **Queries** | 3 | N/A | N/A |
 
 > Rales Engine evaluation comments:
 \<Instructor Comments Here>
@@ -79,11 +78,6 @@ Cloney Island is a brownfield development project aiming to clone much of the fu
 
 ## C. **Gear Ups**
 
-> [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-> I guess my biggest takeaway from this gearup is that while microaggressions may sounds insignificant on their own, they can have a large cumulative affect.
-
-> [Group Thinking](https://github.com/turingschool/gear-up/blob/master/groupthink.md)
-
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
 > I attended the "Failing with Grace" gear up on how we are programmed since we are children to be afraid of failure, when one of my best learning experiences here at Turing is that when we fail or we
 make a mistake we retain the understanding of that mistake way more that if we didn't fail in the beginning. 
@@ -92,16 +86,8 @@ make a mistake we retain the understanding of that mistake way more that if we d
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
+>* [Blog Post => I Love RubyMine and I’m gonna tell you why!](https://medium.com/@chantaljustamond/i-love-rubymine-and-im-gonna-tell-you-why-318899eb687)
 
-#### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
-
-#### **Playing a Part**
-
-> \<How else you've contributed to the community>
 
 ## Final Review
 
