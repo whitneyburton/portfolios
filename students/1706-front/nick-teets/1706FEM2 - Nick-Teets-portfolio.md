@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This module I wanted to continue good study habits to stay on top of the curriculum. I wanted to help module 1 students by providing multiple pairing sessions a week, as well as present myself as an approachable programmer that no one would feel apprehensive about approaching. I also wanted to work more with classmate and learn each person's learning styles. 
+This module I wanted to continue good study habits to stay on top of the curriculum. I set out to help module 1 students by providing multiple pairing sessions a week, as well as present myself as an approachable programmer that no one would feel apprehensive about approaching. I also wanted to work more with classmate and learn each person's learning styles. 
 
 ## Rubric Scores
 
