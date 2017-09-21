@@ -168,11 +168,11 @@ Have enough technical challenge to be worth your time (as opposed to a content c
 
 #### Gear Up 1: Microaggressions
 
-<!-- I think Turing does a great job of providing an environment where people feel safe & welcome no matter their background or prior experiences. As an individual, I can work on being a little more extroverted and getting to know my cohort and community better. I love being alone and working alone, but I also recognize that this can sometimes alienate me from the rest of the group. Because of this, others are probable less willing to open up and share their experiences with me. And this is crucial in the process of becoming more empathetic. -->
+Microaggressions can be verbal or non-verbal behaviors that insult or offend a certain demographic. Most of the time, they are dispensed unintentionally which results in most people just blowing them off. I have been a victim of microaggressions, and I also realize that I have dispensed them unknowingly. The biggest thing I took away from this gear up is the importance of talking about these issues and not pushing them aside just because they may have been done/said unintentionally.   
 
 #### Gear Up 2: Groupthink
 
-<!-- When reflecting on what it takes to be an ally at Turing, a few things come to mind. Probably most important, ask questions! Try understanding why others feel the way they do. Don't attack others when trying when attempting to be an ally for a particular group or person. Offer another thought process without attacking. And LISTEN! -->
+<!-- When reflecting on what it takes to be an ally at Turing, a few things come to mind. Probably most important, ask questions! Try understanding why others feel the way they do. Don't attack others when trying when attempting to beer an ally for a particular group or person. Offer another thought process without attacking. And LISTEN! -->
 
 #### Gear Up 3: The not so subtle art of not giving a fuck
 
