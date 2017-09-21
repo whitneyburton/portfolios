@@ -137,8 +137,8 @@ I've put a lot of effort into being available to help my cohort when they needed
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great Job! 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
