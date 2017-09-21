@@ -2,8 +2,11 @@
 
 ## Areas of Emphasis
 
-APIs - 
-Deeper dive into databases, increasing efficiency, ruby in general
+-APIs - Both building and consuming
+
+-Deeper dive into database structures, increasing efficiency
+
+-Bringing together Mods 1 + 2 by advancing Mod 2 knowledge with using POROs
 
 
 ## Self-Assessment
@@ -77,16 +80,18 @@ Deeper dive into databases, increasing efficiency, ruby in general
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
+Lead and organized Posse (Vaughan) among other activities (see below).
 
 #### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
+  * Knowledge share between FE and BE. General support group. Lots of show and tell.
+  * Seeing everyone's work progress was incredible. Also learning from other students.
+  * On a personal note, the leadership and organization is always valuable. Next time, I'd like to take more advantage of mentors.
 
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
+Lead Vaughan Posse
+SAB Rep
+Paired and consistently helped Mod 1 and Mod 2 students
 
 ------------------
 
