@@ -6,7 +6,7 @@
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **E: Feedback & Community Participation**: 2
 
 -----------------------
 
@@ -172,11 +172,11 @@ Microaggressions can be verbal or non-verbal behaviors that insult or offend a c
 
 #### Gear Up 2: Groupthink
 
-<!-- When reflecting on what it takes to be an ally at Turing, a few things come to mind. Probably most important, ask questions! Try understanding why others feel the way they do. Don't attack others when trying when attempting to beer an ally for a particular group or person. Offer another thought process without attacking. And LISTEN! -->
+Groupthink (or follow the leader) takes place in almost every aspect of life... politics, legal system, sports, and the list goes on. However, good leadership, diversity, and building an intellectually credible process are principles that can be applied to avoid the narrow mindedness of groupthink. As a general rule, you should question, verify, validate, and evaluate the risk of everything. If you don't, you could be missing out on coming up with the next best thing or idea that could make the world a better place.
 
 #### Gear Up 3: The not so subtle art of not giving a fuck
 
-I chose this gear up because I feel like this became my life motto about 2 years ago. I was tired of doing things I didn't want to do... certain social engagements, practice law, etc. I told myself I was going to start saying no to the things that did not bring me happiness and give more fucks to the things that did. That lead me to Turing.... where I feel like all my fucks are currently being given to becoming the best developer I can be. I hope to be able to spread them out a little more in the new future when I get back out into the real world.
+I chose this gear up because I feel like this became my life motto about 2 years ago. I was tired of doing things I didn't want to do... certain social engagements, practicing law, etc. I told myself I was going to start saying no to the things that did not bring me happiness and give more fucks to the things that did. That lead me to Turing.... where I feel like all my fucks are currently being given to becoming the best developer I can be. I hope to be able to spread them out a little more in the near future when I get back out into the real world.
 
 
 ## E: Community Participation
