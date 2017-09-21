@@ -51,13 +51,13 @@ I've learned more in this mod than any other, hands down. It wasn't only new mat
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Github Repo** | [Rales Repo](https://github.com/thedanielvogelsang/rales_engine) | [Cloney 1 Repo](https://github.com/mdevoe12/youth_sports) | [Cloney 2 Repo](https://github.com/mdevoe12/youth_sports) |
+| **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://recruit-me-80202.herokuapp.com/) |
+| **Functional/Client Expectations** | 3 | 2 | X |
+| **TDD** | 4 | 4 | X |
+| **Code Organization/Quality** | 3 | 3 | X |
+| **API Design** | 4 | N/A | N/A |
+| **Queries** | 4 | N/A | N/A |
 
 > Rales Engine evaluation comments:
 \<Instructor Comments Here>
