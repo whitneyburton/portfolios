@@ -2,7 +2,15 @@
 
 ## Areas of Emphasis
 
-> My focus for this module was to continue supporting my cohort and the community in their learning process, while also furthering my own understanding of front-end technologies and tools. Specifically, I wanted to fully embrace React, as it's likely I will be focusing on the React stack of technologies once I graduate from Turing. For this reason, I put forth efforts to learn various architectural setups within React/Redux. I also focused on complex Routes in my final personal project of the inning. Overall, I am satisfied with my engagement within the community and cohort, and feel proud of the projects completed this mod.
+ My focus for this module was to continue supporting my cohort and the 
+ community in their learning process, while also furthering my own 
+ understanding of front-end technologies and tools. Specifically, I wanted to 
+ fully embrace React, as it's likely I will be focusing on the React stack of 
+ technologies once I graduate from Turing. For this reason, I put forth 
+ efforts to learn various architectural setups within React/Redux. I also 
+ focused on complex Routes in my final personal project of the inning. 
+ Overall, I am satisfied with my engagement within the community and cohort, 
+ and feel proud of the projects completed this mod.
 
 ## Rubric Scores - Self Assessment (1-4 rating)
 
@@ -215,13 +223,12 @@
 > Stories should be more about why’s and how’s, not just the whats. What drove you to career changes. Should show a lot of interest in the direction your going. A good story should have some conflict and how you overcame it.
 
 #### The Psych of UX/UI
+
 > Mod 4 Led Gear-up
 
 > https://gist.github.com/EndlessHypnosis/d4337edcdf21a7c4e3b41e5f07daf070
 
-
 -----------------------
-
 
 ## E: Community Participation
 
@@ -229,11 +236,18 @@
 
 > Although I transitioned out of SAB this inning, I still wanted to continue having a positive impact on the community. Specifically, I wanted to provide mentoring assisstance to students in my cohort and the cohort behind us. Also, with a continued interest in offering my services to each new front-end student at Turing, I and Dan Alvarez introduced ourselves to the mod1 cohort, and made sure they knew our mod was available for support. Several times throughout the inning, I made an effort to reach out during times of increased stress to see what I could do to help reduce stress levels for my fellow students.
 
-
 ------------------
 
 ## Final Review
 
 ### Notes
 
-( Leave blanks for reviewers )
+### Outcome 
+
+PASS
+
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3.5
+* **E: Feedback & Community Participation**: 3.5
