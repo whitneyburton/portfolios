@@ -5,12 +5,13 @@
 When I arrived, I had some experience with HTML and CSS but no experience with JS, jQuery, Github, or pair programming.  So I prioritized making the unfamiliar things into strengths, most notably, JS and jQuery, knowing that these build much of the foundation going forward.  Significant progress was made.
 
 ## Rubric Scores
+#### Self-assessment
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -165,7 +166,8 @@ Collaboration - Proficient
 ******
 
 ## D: Professional Skills
-(Intro)
+
+Professional Skills sessions were intended to get us thinking like a professional developer, from eagerly tackling difficult challenges, to preemptively addressing potential difficulties in the worklplace.
 
 ### Gear Up
 
