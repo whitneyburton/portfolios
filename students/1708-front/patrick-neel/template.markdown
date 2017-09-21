@@ -314,7 +314,7 @@ Proficient
 
 ## D: Professional Skills
 
-Professional development was a series of 
+Professional development was a series of lessons desinged for us to work on how we think and interact with others in a constructive manner.  
 
 ### Gear Up
 
