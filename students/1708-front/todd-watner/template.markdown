@@ -6,11 +6,11 @@ Being entirely new to programming in any manner, I set out to accomplish a great
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
 
 -----------------------
 
