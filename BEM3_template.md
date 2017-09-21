@@ -13,11 +13,11 @@
 
 | Section | Category | Score |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Work & Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Feedback & Community Participation** | X |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Work & Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Feedback & Community Participation** | 4 |
 
 I've learned more in this mod than any other, hands down. It wasn't only new material, the solidification of concepts and applications from the previous mods truly came into focus over the last 6 weeks.
 
@@ -96,6 +96,7 @@ Lead and organized Posse (Vaughan) among other activities (see below).
 Lead Vaughan Posse
 SAB Rep
 Paired and consistently helped Mod 1 and Mod 2 students
+Continually tried to be a positive force and leader for others
 
 ------------------
 
