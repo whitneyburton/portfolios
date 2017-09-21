@@ -173,8 +173,12 @@ Ways that I have been a part of the Turing community this mod are by being a par
 
 ### Notes
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 4
 
 ### Outcome
 
-Pass
+Pass 
