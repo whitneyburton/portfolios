@@ -74,7 +74,7 @@ My partner's feedback to me was to take more breaks during long coding sessions.
 
 This project focused on learning React, Enzyme/Jest testing, and API calls by building a weather app, which drew from the Weather Underground API. 
 
-Our app design was very well recieved, but while our app did work, we did not implement the most efficient componenet structure. We were also rending components when we could have simply updated the current components using CSS on our media queries. Lastly, our testing suite was incomplete upon turing in the project, but was able to update our project with testing for total functionality of our app. 
+Our app design was very well recieved, and while our app did work, we did not implement the most efficient componenet structure. We were also rending components when we could have simply updated the current components using CSS on our media queries. Lastly, our testing suite was incomplete upon turing in the project, but was able to update our project with testing for total functionality of our app. 
 
 [Eval Scores]https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-2/weathrly/sam_nick.md
 
