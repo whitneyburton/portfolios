@@ -236,10 +236,8 @@ Looking back, my perceived failures have always set the foundation for some of m
 
 ### Playing a Part
 
-
-
-------------------
-
+ ¯\_(ツ)_/¯ --> helped with group dynamic 
+ 
 ## Final Review
 
 ### Notes
@@ -248,4 +246,10 @@ Looking back, my perceived failures have always set the foundation for some of m
 
 ### Outcome
 
-TBD
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 3
+
+PASS
