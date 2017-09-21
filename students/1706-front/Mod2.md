@@ -228,9 +228,8 @@ I supported the larger Turing community by pairing with Mod 1 students.
 ## Final Review
 
 ### Notes
-
+Great Job!!!
 
 
 ### Outcome
-
-
+Pass
