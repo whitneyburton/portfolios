@@ -260,8 +260,8 @@ I began hosting a weekly networking/happy hour at a nearby restaurant. I found a
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great Job!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
