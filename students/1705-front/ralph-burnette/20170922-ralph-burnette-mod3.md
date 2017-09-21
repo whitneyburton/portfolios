@@ -21,30 +21,9 @@ TBD
 
 * [https://github.com/rburnette3/snowedin]()
 
-
-
-#### (Movie Tracker)
-
-* [https://github.com/rburnette3/movietracker]()
-*
-
-(last group project of the Mod and first 3 person project.)
-
-(front-end-submissions-public/1705/mod-3/movie-tracker/molly-dan-ralph.md)
-
-
-#### (SWAPI box)
-
-* [https://github.com/rburnette3/swapi-box]()
-* [front-end-submissions-public/1705/mod-3/swapi/ralph-nick.md]()
-
 ## C: Group Work & Projects
 
 ### Projects
-
-#GameTime
-
-#Weathrly
 
 #### (Movie Tracker)
 
@@ -87,5 +66,6 @@ I was under a very different impression of what the definition of what groupthin
 ### Notes
 
 ### Outcome
-
+ 
+RETAINED 
 
