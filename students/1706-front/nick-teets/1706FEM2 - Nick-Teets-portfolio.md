@@ -116,7 +116,7 @@ During this inning, I provided multiple pairing sessions a week as well as leadi
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great Job!!!
 
 ### Outcome
 
