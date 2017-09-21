@@ -78,6 +78,9 @@ Cloney Island is a brownfield development project aiming to clone much of the fu
 
 ## C. **Gear Ups**
 
+> [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
+> I guess my biggest takeaway from this gearup is that while microaggressions may sounds insignificant on their own, they can have a large cumulative affect.
+
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
 > I attended the "Failing with Grace" gear up on how we are programmed since we are children to be afraid of failure, when one of my best learning experiences here at Turing is that when we fail or we
 make a mistake we retain the understanding of that mistake way more that if we didn't fail in the beginning. 
@@ -86,7 +89,7 @@ make a mistake we retain the understanding of that mistake way more that if we d
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* [Blog Post => I Love RubyMine and I’m gonna tell you why!](https://medium.com/@chantaljustamond/i-love-rubymine-and-im-gonna-tell-you-why-318899eb687)
+>* [Blog Post -> I Love RubyMine and I’m gonna tell you why!](https://medium.com/@chantaljustamond/i-love-rubymine-and-im-gonna-tell-you-why-318899eb687)
 
 
 ## Final Review
