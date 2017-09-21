@@ -3,8 +3,8 @@
 ## Areas of Emphasis
 
 > \<What did you set out to accomplish this module?>
-- This module I set out to gain an understanding of API's and to get a solid foundation to move into mod 4. 
-- I also was made SAB rep and so ensuring I was a good advcate for my class mates was very important. 
+- This module I set out to gain an understanding of API's and to get a solid foundation to move into mod 4.
+- I also was made SAB rep and so ensuring I was a good advcate for my class mates was very important.
 - Group projects were also a big focus, as I wanted to be the best group mate possible.
 
 ## Self-Assessment
@@ -26,25 +26,25 @@ I have many takeaways from this module. It was my most challenging alongside mod
 
 ## A: Group Work & Projects
 
-> **[Rales Engine](http://)** 
+> **[Rales Engine](http://)**
 >* \<Description>
-Create an API that serves up data relating to transactions, items and merchants. Construct business intelligence endpoints to serve up various abstractions of the data set. Use SQL or ActiveRecord to retrieve information. 
+Create an API that serves up data relating to transactions, items and merchants. Construct business intelligence endpoints to serve up various abstractions of the data set. Use SQL or ActiveRecord to retrieve information.
 
 >* \<Takeaways, your experience>
-This was a fun project, at first the challenge of making an API was daunting. But after much practice and repition it became an enjoyable grind. The business logic/intelligence was also a unique challenge. We have created many queries before but these were especially unique as they provided a new level of complexity. I needed help on a few of the tougher ones, but found the project to be an enjoyable learning experience. 
+This was a fun project, at first the challenge of making an API was daunting. But after much practice and repition it became an enjoyable grind. The business logic/intelligence was also a unique challenge. We have created many queries before but these were especially unique as they provided a new level of complexity. I needed help on a few of the tougher ones, but found the project to be an enjoyable learning experience.
 
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](http://backend.turing.io/module3/projects/cloney_island/cloney_island#sprint-1---individual-evaluation)** 
+> **[Cloney Island Sprint 1](http://backend.turing.io/module3/projects/cloney_island/cloney_island#sprint-1---individual-evaluation)**
 >* \<Description>
-Clone a web app or create an approved unique idea. Create an internal API to serve up all info needed from database. Consume an external API. Complete a personal user story. 
+Clone a web app or create an approved unique idea. Create an internal API to serve up all info needed from database. Consume an external API. Complete a personal user story.
 
 >* \<Takeaways, your experience>
-This was a tough project. I had some good work and learning on the project, however due to external circumstances I found myself having to work on basic features isntead of my personal story. I think in future I will be more vocal with groupmates that I am having difficulties with. Enjoyed the process though and loved the opportunity to work with Chris Smith. 
+This was a tough project. I had some good work and learning on the project, however due to external circumstances I found myself having to work on basic features isntead of my personal story. I think in future I will be more vocal with groupmates that I am having difficulties with. Enjoyed the process though and loved the opportunity to work with Chris Smith.
 
-> **[Cloney Island Sprint 2](https://http://backend.turing.io/module3/projects/cloney_island/cloney_island#-sprint-2---final-evaluation-rubric)** 
+> **[Cloney Island Sprint 2](https://http://backend.turing.io/module3/projects/cloney_island/cloney_island#-sprint-2---final-evaluation-rubric)**
 >* \<Description>
-Continue building on the code base created by a different group. Ideally meet the sprint 1 requirements if those were not met by the original group. Add additional features and create a superior product. 
+Continue building on the code base created by a different group. Ideally meet the sprint 1 requirements if those were not met by the original group. Add additional features and create a superior product.
 
 >* \<Takeaways, your experience>
 Enjoyed this sprint a great deal more. The foreign codebase was an enjoyable struggle, it provided new challenges and learning. Found the process of building assets around already working pieces to be a valuable experience. Enjoyed working with my team and brainstorming how we could build upon the product.
@@ -89,18 +89,18 @@ Was not aware this was a requirement and was doing it out of my own desire. I pa
 
 #### **Posse**
   >* \<Blurb about what you did with your posse over the module>
-  We did very little, dissapointed I didn't make more of the time. 
-  
+  We did very little, dissapointed I didn't make more of the time.
+
   >* \<Your favorite thing about the posse experience>
-  Natalia is there. 
-  
+  Natalia is there.
+
   >* \<How has your posse experience helped you grow as a professional?>
-  It has taught me that some bureaucratic decisions will be made without your input and you may hate the outcome but must make the best of it. 
+  It has taught me that some bureaucratic decisions will be made without your input and you may hate the outcome but must make the best of it.
 
 #### **Playing a Part**
 
 > \<How else you've contributed to the community>
-SAB rep. 
+SAB rep.
 All round joker.
 Encouraging those around me and ensuring I can help others in any way possible.
 
@@ -108,6 +108,6 @@ Encouraging those around me and ensuring I can help others in any way possible.
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Provisional

@@ -87,6 +87,6 @@ This was an important gear up for understanding what some of my peers would want
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Provisional

@@ -89,7 +89,7 @@ I agree with the concepts presented. It is the cumulative actions of all individ
 
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
 
-This gear up struck centrally upon one of my biggest concerns surrounding technology. I feel that the relationship that we have formed with our devices opens up our psychology for exploitation and abuse in ways that humanity has never been before. Technology companies now hire teams of psychologists to offer methods to hijack our attention and to do what they want with it. These are troubling times in ways, I am concerned for those of us who are most vulnerable. However, I do have hope when I see people talking about it simply because I see that we are aware. I think that the relationship between humans and our technology is in an adolescent stage. I think there are inevitable growing pains that we have to go through before we better understand the most useful and rewarding ways to utilize this new world. I hope that conversations like the one had at this gear up continue, often. 
+This gear up struck centrally upon one of my biggest concerns surrounding technology. I feel that the relationship that we have formed with our devices opens up our psychology for exploitation and abuse in ways that humanity has never been before. Technology companies now hire teams of psychologists to offer methods to hijack our attention and to do what they want with it. These are troubling times in ways, I am concerned for those of us who are most vulnerable. However, I do have hope when I see people talking about it simply because I see that we are aware. I think that the relationship between humans and our technology is in an adolescent stage. I think there are inevitable growing pains that we have to go through before we better understand the most useful and rewarding ways to utilize this new world. I hope that conversations like the one had at this gear up continue, often.
 
 ## D: Community Participation
 
@@ -105,6 +105,6 @@ I have developed a relationship with several students from other cohorts. I cont
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted

@@ -68,6 +68,6 @@ The technical education industry is evolving rapidly. On one hand, the job marke
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted
