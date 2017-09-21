@@ -71,6 +71,7 @@
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
 \<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
 
+
 ## D: Community Participation
 
 #### **Community Contribution Option**
