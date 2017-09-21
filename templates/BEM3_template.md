@@ -69,6 +69,15 @@ It was difficult working through a project that built by someone else. Definitel
 
 > [Link To Gear Up]()
 \<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
+(https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown
+
+My main takeaway from the reading in this gear up is that microaggressions can lead to bigger things such as stereotypes. and making people feel out of place.
+
+https://github.com/turingschool/gear-up/blob/master/groupthink.md
+I was not here for group think gear up.
+
+https://docs.google.com/spreadsheets/d/1xGHe1ZRtc5ysSaS3WoQHBVMl_498H7hW4c41AMZT-v0/edit#gid=1953176317
+I attended the gear up "Privacy" and found it really interesting because I never new how much data was being collected from an everyday life. I got to thinking where the line is for collecting too much data.
 
 ## D: Community Participation
 
