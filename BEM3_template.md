@@ -31,7 +31,7 @@
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
 > **[Cloney Island Sprint 1](https://)** 
->* This was the most fun I have had with a project while at Turing. It was probably one of the most challenging as well. I enjoyed the laissez faire attitude that we were given for this project. It really allowed us to push the limits of our understanding and do something completely new. In that process I learned a lot. 
+>* This was the most fun I have had on project while at Turing. It was probably one of the most challenging as well. We had a really great group of coders. The freedom of the project allowd us to push the limits of our understanding and do something completely new. In that process I learned a lot. 
 
 > **[Cloney Island Sprint 2](https://)** 
 >* This project seemed like great practice for the real world. It was nice to come into a project with the bare bones already built out, and go through a different process of adding features on. 
