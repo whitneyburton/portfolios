@@ -45,7 +45,7 @@ The goal was to authenticate a user via OAuth, then access that user's Reddit in
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/JF-Lalonde/rales-engine) | [Cloney 1 Repo](https://github.com/bretfunk/palpit8) | [Cloney 2 Repo](https://github.com/JF-Lalonde/cloney_island_airbnb) |
-| **Heroku** | [Rales](N/A) | [Cloney 1](https://palpit8.herokuapp.com/) | [Cloney 2](https://obscure-sierra-10949.herokuapp.com/) |
+| **Heroku** | (N/A) | [Cloney 1](https://palpit8.herokuapp.com/) | [Cloney 2](https://obscure-sierra-10949.herokuapp.com/) |
 | **Functional/Client Expectations** | X | X | X |
 | **TDD** | X | X | X |
 | **Code Organization/Quality** | X | X | X |
@@ -64,28 +64,26 @@ The goal was to authenticate a user via OAuth, then access that user's Reddit in
 ## C. **Gear Ups**
 
 > [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+This gearupp just reinforced the idea that we can all have biases that we aren't really aware of, and that we should be open to understanding when others say that we have offended them. We should also stand up when we notice them happening, whether that be in private or public.
 
-> [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+> [GroupThink](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+This conversation was about the way that a vocal few can sometimes override decisions and have others jump on the bandwagon. The key takeaway was to think critically even when others are making decisions.
 
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
-
+Robots are taking over: This was a fairly macabre conversation about the bleak future we could all have if robots take the majority of jobs and the government (or another entity) doesn't step in with measures like universal basic income or something like it.
 
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
-
+>* I've been the Hamilton Posse lead for the last two mods, I volunteered at Try Turing Weekend, I will be volunteering at Rocky Mountain Ruby, my group will be presenting Palpit8 at demo night.
 #### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
+  >* I tried to involve my group more with front-end back-end pairing but participation steadily declined over the mod. We did have a pretty good turnout at the mentors panel.
+  >* Learning more javascript from the front end, and encouraging back-enders to present their code.
+  >* It's helped me develop my leadership skills more.
 
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
+> I've been hosting a student in need at my house for the last several weeks.
 
 ------------------
 
