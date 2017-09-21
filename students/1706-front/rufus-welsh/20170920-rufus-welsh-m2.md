@@ -21,12 +21,12 @@ Passed the End of Module Assessment
 
 ## B: Individual Work & Projects
 
-(Intro)
+There were 2 indivdual projects this mod: Sorting Suite and CompleteMe. Both projects focus on algorithms and recursion. These concepts are computer science fundamentals and frequently a part of tech interviews. The goal was to improve algorithmic thinking in JavaScript as well as improve familiarity with common code structures.
 
 #### Sorting Suite
 
 * [GitHub URL](https://github.com/rufusasterisk/sorting-suite)
-* [Original Assignment]()
+* [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
 (description)
 
@@ -34,12 +34,10 @@ Passed the End of Module Assessment
 
 (evaluation scores)
 
-(Intro)
-
 #### CompleteMe
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/rufusasterisk/complete-me)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
 (description)
 
@@ -51,12 +49,12 @@ Passed the End of Module Assessment
 
 ### Projects
 
-(Intro)
+The group projects in the mod were Game Time and Weathrly. Game Time is an HTML5 Canvas project using extensive OOP concepts. The game selected by my team was Frogger, with its own unique challenges. Weathrly is the first project built in React. It also uses AJAX for an API call to update weather information. The project uses a team member's personal CompleteMe prefix trie.
 
 #### Game Time
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/rufusasterisk/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
 (description)
 
@@ -66,12 +64,10 @@ Passed the End of Module Assessment
 
 (feedback to me)
 
-(Intro)
-
 #### Weathrly
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/alexbanister/weatherly)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
 (description)
 
@@ -96,7 +92,9 @@ Passed the End of Module Assessment
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I supported the Turing community this mod in a few ways. I worked to meet the mod 1 students and help them feel welcome at Turing. I left supportive messages on their whiteboard on a semi-regular basis and drew meme pictures to accompany the messages.
+I met periodically with mod 1 students for pair coding to help them with projects or other questions. I stopped into the mod 1 classroom during work times to offer a few minutes of help on my coding breaks.
+I began hosting a weekly networking/happy hour at a nearby restaurant. I found a location that has inexpensive food specials and drink specials. I devised entertaining ways each week to encourage students to attend. I focused on the food aspect of the event to make it more friendly to non-drinkers.
 
 ------------------
 
