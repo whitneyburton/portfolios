@@ -101,14 +101,14 @@ This session was informative in the faciliated discussion of groupthink. It was 
 
 #### (Mod 4 GearUp- Transhumanism)
 
-This module 4 led session allowed for a vibrant discussion on the ethics of transhumanism and deviated from the lesson to allow for this talk. The session was excellently faciliated, but a few people in the room dominated the conversation and didn't allow for every opinion to be heard. 
+This module 4 led session allowed for a vibrant discussion on the ethics of transhumanism and deviated from the lesson to allow for this talk. The session was excellently faciliated, and has left me wondering about the implications of transhumanism brought up during the discussion.
 
 
 ## E: Community Participation
 
 ### Playing a Part
 
-During this inning, I provided multiple pairing sessions a week as well as leading a class live coding of a mythical creatures example for module 1. I also more time this module assisting my classmates by pairing with them and working through problems on the whiteboard. 
+During this inning, I provided multiple pairing sessions a week as well as leading a class live coding of a mythical creatures example for module 1. I also spent more time this module assisting my classmates by pairing with them and working through problems on the whiteboard. 
 
 ------------------
 
