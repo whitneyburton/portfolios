@@ -155,8 +155,8 @@ I expanded my role in the community this mod be making sure I was available for 
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great Job!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
