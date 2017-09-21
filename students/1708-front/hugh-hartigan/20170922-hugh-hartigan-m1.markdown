@@ -2,21 +2,27 @@
 
 ## Areas of Emphasis
 
-My main point of focus this module was to refine my general understanding of how HTML, CSS, and JS spoke to one another. I had a very, *very* basic understanding of how it worked, but not until I was thrown head first into coding did I really start to understand how truly complicated and intricate the languages were. Each language has their ups and downs, but a firm understanding of each one is crucial to being a front end developer. Initially, I thought I had a good handle on HTML and CSS, wanting to focus more on JS, but with each project, I learned more about HTML and CSS and what made them unique and how expertly I needed to know each language to fully utilize the full potential of them all. While I certainly haven't mastered even one of the languages, my appreciation for how the each communicate to one another has deepened and made me more interested in each one. For HTML, I want to know more about ARIA and basic structuring tricks. For CSS, I want to learn how to animate, transform, and transition to make something amazing. And for JS, I want to more intimately understand it's limitations, but also how I can creatively use it's flexibility to my advantage.
+My main point of focus this module was to refine my general understanding of how HTML, CSS, and JS spoke to one another. I had a very, *very* basic understanding of how it worked, but not until I was thrown head first into coding did I really start to understand how truly complicated and intricate the languages were. Each language has their ups and downs, but a firm understanding of each one is crucial to being a front end developer. Initially, I thought I had a good handle on HTML and CSS, wanting to focus more on JS, but with each project, I learned more about HTML and CSS and what made them unique and how expertly I needed to know each language to completely utilize the full potential of them all. While I certainly haven't mastered even one of the languages, my appreciation for how they each communicate to one another has deepened and made me more interested in them all. For HTML, I want to know more about ARIA and basic structuring tricks. For CSS, I want to learn how to animate, transform, and transition to create something amazing. And for JS, I want to more intimately understand it's limitations, but also how I can creatively use it's flexibility to my advantage.
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 3.5
+* **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 4
-* **E: Community Participation**: 4
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Though I don't know my official scores yet, I have a good feeling that I passed. With each evaluation I gained more and more confidence. For the DOM manipulation challenge, I feel like I made it further than I expected and would have received a proficient score (3). For the mythical creatures challenge, I felt very comfortable for a majority of the eval, which allowed me to get through most of the tests in a quick manner. Once I hit the tougher problems, I was able to muscle through them with some direction. In all honesty, I was surprised that I made it as far as I did and would give myself an exceptional (4). I also feel very confident in my answers for the final quizlette and would give myself an exceptional here as well (4). A deeper reflection of my execution of static comp 3 is below, but in this area I would give myself a proficient (3). I think there were style elements that missed the mark and certain things that could be tweaked, but am very proud of my overall execution of the layout and it's responsiveness, especially the mobile layout.
+
+- DOM Manipulation (individual Coding Challenge-A): 3
+- Mythical Creatures (Individual Coding Challenge-B): 4
+- Final Project (Static Comp Challenge 3): 3
+- Comprehensive Quizlette: 4
+- Completed Portfolio: ?
 
 
 ## B: Individual Work & Projects
@@ -25,7 +31,7 @@ During Mod 1 at Turing, my required individual projects were *Number Guesser* an
 
 #### Static Comp Challenge 1
 
-* [GitHub URL](https://hartiganhm.github.io/hh-comp-challenge-1/)
+* [GitHub URL](https://github.com/HartiganHM/hh-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 In repurposing *Static Comp 1*, I used Rick Sanchez from the TV show Rick and Morty as my subject. Overall, it's a mock-version of the traditional artist's portfolio website, consisting of tabs for Planets Destroyed and Weak Feelings, which depicts his grandson, Morty's, face. The icons consist of a few I sourced through the internet, while most I made myself in Photoshop. The color palette comes directly from the profile image on the right-most side of the web page, but is more subdued to mimic the original composition challenge. Additionally, hover effects have been added to all of the square boxes and the buttons over the profile image to make the site a bit more immersive.
@@ -36,7 +42,7 @@ Looking back on this project, I'm still proud of what I accomplished, but can ap
 
 #### Static Comp Challenge 2
 
-* [GitHub URL](https://hartiganhm.github.io/hh-comp-challenge-2/)
+* [GitHub URL](https://github.com/HartiganHM/hh-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
 My version of *Static Comp 2* is called localCO, a website where you can find local makers in Colorado and see what types of products they offer, as well as what local markets they're attending. All of the basic icons were sourced through free icon websites and the 'localCO' logo was found online and modified in Photoshop to fit within the aesthetic scope of the web page. The accent color of the page is North Texas Green, which is the same color used for the Colorado Company badge, which is given to local business by the state of Colorado. Additional color compliments on the page are derived from this accent color to make for a more cohesive template.
@@ -45,11 +51,11 @@ The web page is built from a card based system, with each card representing a di
 
 Responsive features of the web page maintain a four card row on larger displays, but maintain the overall aspect ratio of the card on smaller displays and mobile. The console in the header also restructures on smaller displays, making sure no buttons shrink or are illegible.
 
-I think overall I did really well with this challenge. I did a much better job with managing my time and getting the assignment completed ahead of time. Additionally, I took Louisa's advise and decided to use pixel measurements instead of vh or vw. This helped so that scaling wasn't as chaotic on mobile as it was in my first static comp assignment. I also decided to change the color palette slightly, but not so much that it go out of hand. I was also able to do this and change the subject matter while maintaining the overall scope of the static comp. However, while I was able to make the webpage more responsive for mobile, I didn't take larger screens into consideration, which is something I kept note of for future projects.
+I think overall I did really well with this challenge. I did a much better job with managing my schedule and getting the assignment completed ahead of time. Additionally, I took Louisa's advise and decided to use pixel measurements instead of vh or vw. This helped so that scaling wasn't as chaotic on mobile as it was in my first static comp assignment. I also decided to change the color palette slightly, but not so much that it got out of hand. I was also able to do this and change the subject matter while staying true to the overall scope of the static comp. However, while I was able to make the webpage more responsive for mobile, I didn't take larger screens into consideration, which is something I kept note of for future projects.
 
 #### Static Comp Challenge 3
 
-* [GitHub URL](https://hartiganhm.github.io/hh-comp-challenge-3/)
+* [GitHub URL](https://github.com/HartiganHM/hh-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 My version of the page kept a majority of the overall content and copy in the interest of matching the layout of the static comp as closely as possible. With that in mind, the colors and layout are essentially the same, with minor variances that were up to interpretation, such as hover states, active states, and icons. With the amount of information on the page, I thought it best to get the small layout intricacies working before radically changing the copy/content/color-scheme, a goal I think I accomplished and am very proud of.
@@ -60,7 +66,7 @@ Overall, I am very pleased with what I accomplished. While all of the spacing an
 
 #### Number Guesser
 
-* [GitHub URL](https://hartiganhm.github.io/number-guesser/)
+* [GitHub URL](https://github.com/HartiganHM/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 *Number Guesser* was the first project that required us to start implementing HTML/CSS with JS and I was very excited to dig into. The essence of the project was to create a random number and allow the user to guess what number was chosen. The app would then relay to the user that the number was either too high or two low, until they got it correct. Working on this project was the first time I really felt like coding was something I was capable of, as I was able to satisfy my desire to see how HTML/CSS and JS really *spoke* to one another. I was also able to satisfy some of the other requirements, such as disabling buttons, rejecting non-numeric inputs, as well as allowing the user to set their own range. The last extension that I accomplished was a way for the game to keep track of the users score and decrement their possible points (out of 100) with each incorrect guess. Unfortunately, after this, I tried to make the design more "fun", which ultimately strayed too far from the original composition. Since then, I have cleaned the project up and aligned it more closely with the original color scheme and spirit of the project.
@@ -88,12 +94,12 @@ During Mod 1 at Turing, my required group work and pairing projects were *Linked
 
 #### Linked List
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/HartiganHM/Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-*Linked List* was our first paired project for the module and I was paired with Jeff Bender. For the project we were required to create an app that would take in user inputs for a website title and URL, saving the information to a card based on their inputs so they could remember it for later (totally different than bookmarking something). Initially I was nervous about the pairing, but Bender and I worked very well together. Initially, we decided that I would complete the HTML and CSS, which caused Bender too feel a little lost with the project. He vocalized this to me and we were able to get on the same page with me walking him through what was what in the code thus far. After that, we were able to tackle pieces of JS functionality independently, but came together when we got stuck or needed extra help.
+*Linked List* was our first paired project for the module and I was paired with Jeff Bender. For the project we were required to create an app that would take in user inputs for a website title and URL, saving the information to a card based on their inputs so they could remember it for later (totally different than bookmarking something). Initially I was nervous about the pairing, but Bender and I worked very well together. Initially, we decided that I would complete the HTML and CSS, which caused Bender too feel a little lost with the project. He vocalized this to me and we were able to get on the same page with me walking him through what was what in the code thus far. After that, we were able to tackle pieces of JS functionality independently, but came together when we got stuck or needed extra help. Additionally, it’s worth nothing that, since pairing with Bender, I have insisted on going over the HTML/CSS with all of my other partners, which has helped immensely.
 
-Overall, this project was a big success for me. Being able to navigate and manipulate the DOM was a huge step forward in terms of confidence. I also started to get for proficient with my CSS styling, which I think started to show on the project. The project created some difficult problems (URL input validation, deleting a single bookmark without affecting others, changing CSS properties from JS, etc.) all of which further my knowledge and comfort level with JS.
+Overall, this project was a big success for me. Being able to navigate and manipulate the DOM was a huge step forward in terms of confidence. I also started to get more proficient with my CSS styling, which I think started to show on the project. The comp created some difficult problems (URL input validation, deleting a single bookmark without affecting others, changing CSS properties from JS, etc.) all of which furthered my knowledge and comfort level with JS.
 
 **Evaluator: Pam**
 
@@ -114,12 +120,12 @@ Overall, this project was a big success for me. Being able to navigate and manip
 
 #### Idea Box
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/bfarestadrittel/idea-box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-*Idea Box* was one of my harder projects and the only one that I didn't finish in its entirety up to this point. I was paired with Brandon Farestad-Rittel, which was an easy transition as he and I have been getting to know one another since the beginning of our time at Turing. The only downside to this project was our time management. It was assigned over a holiday weekend and we were each pulled in various directions away from the project because of this. Because of this, we essentially fit our entire project into two days. It was stressful and exhausting, especially given that our first static comp was due the same week, but Brandon and I really bonded and were able to come up with a lot in a short amount of time.
+*Idea Box* was one of my harder projects and the only one that I didn't finish in its entirety up to this point. I was paired with Brandon Farestad-Rittel, which was an easy transition as he and I have been getting to know one another since the beginning of our time at Turing. The only downside to this project was our time management. It was assigned over a holiday weekend and we were each pulled in various directions away from the project. Because of this, we essentially fit our entire project into two days. It was stressful and exhausting, especially given that our first static comp was due the same week, but Brandon and I really bonded and were able to come up with a lot in a short amount of time.
 
-The project it self required us to allow user input for an idea title and body. This information would then be taken from the inputs and put onto the DOM in the form of a card. The information on the card would also be stored in local storage, so the ideas would remain, even on page load. The card itself would also have up and down vote buttons which would visually increase the ranking of each card, as well as the ranking in local storage. A delete button was also required to delete ideas visually, as well as from local storage. Overall, given the poor time management, I think Brandon and I did a really good job. Both our HTML and CSS was incredibly concise and organize. The layout was functional and responsive across various break-points. Though we didn't get to all of the functionality that was asked of us from the project, what we did get done worked and worked well. The logic in our code was straightforward and we had very little redundant text. We also were able to rid ourselves of any global variables and started implementing array prototypes. Suffice to say, although it was a little stressful, I learned a lot in completing this project.
+The project itself required us to allow user input for an idea title and body. This information would then be taken from the inputs and put onto the DOM in the form of a card. The information on the card would also be stored in local storage, so the ideas would ‘remain’, even on page load. The card itself would also have up and down vote buttons which would visually increase the ranking of each card, as well as the ranking in local storage. A delete button was also required to delete ideas visually, as well as from local storage. Overall, given the poor time management, I think Brandon and I did a really good job. Both our HTML and CSS were incredibly concise and organized. The layout was functional and responsive across various break-points. Though we didn't get to all of the functionality that was asked of us from the project, what we did get done worked and worked well. The logic in our code was straightforward and we had very little redundant code. We were also able to rid ourselves of any global variables and started implementing array prototypes. Suffice to say, although it was a little stressful, I learned a lot in completing this project.
 
 **Evaluator: Louisa**
 
@@ -151,12 +157,14 @@ The project it self required us to allow user input for an idea title and body. 
 
 #### 2DoBox Pivot
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/HartiganHM/2DoBox-Pivot)
 * [Original Assignment]()http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
 
-Out of all of the projects from this mod, *2DoBox* taught me the most without question. This is not only in regards to coding, but how to work better with other people. For this project I was paired with Katie Scruggs. Going in, I knew Katie was very knowledgable about JS, so I was excited to learn from her. At onset, we worked quickly to get things cleaned up and running. Unfortunately, over the weekend we went with a 'divide and conquer' mentality, which ultimately left me lost with the code. I generally like this approach, but in having to refactor two other people's code I didn't realize how important it would have been to dig into the JS as a team. Over the weekend, Katie was able to get a lot done, but I had barely scratched the surface and felt stuck. Instead of reaching out to her, I tried to get help elsewhere and dig into it myself, which ultimately led to miscommunication between the two of us. Fortunately, after a pairing session with a TA, we were able to get on the same page and start putting our skill sets together for the betterment of the project. In the last two days, we got an incredible amount of work done, solved a lot of difficult problems, and were able to bond and get to know one another on a more personal level. Through this experience, I truly learned how much better things can be with efficient communication.
+Out of all of the projects from this mod, *2DoBox* taught me the most without question. This is not only in regards to coding, but on how to work better with other people. For this project I was paired with Katie Scruggs. Going in, I knew Katie was very knowledgable about JS, so I was excited to learn from her. At onset, we worked quickly to get things cleaned up and running. Unfortunately, over the weekend we went with a 'divide and conquer' mentality, which ultimately left me lost with the code. I generally like this approach, but in having to refactor two other people's code I didn't realize how important it would have been to dig into the JS as a team. Over the weekend, Katie was able to get a lot done, but I had barely scratched the surface and felt stuck. Instead of reaching out to her, I tried to get help elsewhere and dig into it myself, which ultimately led to miscommunication between the two of us. 
 
-The project itself was also incredibly difficult. Initially, I thought it would be easy to start with something to go off instead of from scratch, but looking at someone else's code was like reading a foreign language. To understand what was going on and how things worked, it not only took strict attention to how things were organized, but also what was connected to where and naming conventions. Getting over this hurdle was my biggest difficulty, but once I got over it, I started to fly with changing and refactoring things. Together, Katie and I were able to cut a lot of redundant and complicated code out, making things simpler with single responsibility functions and following the DRY principle. We came up with more intuitive and clean ways to manipulate the DOM and draw from local storage, as well as cut down on the media query properties by almost 60%. Through this project I gained an immense amount of confidence with JS and learned a lot from Katie. Though some of the struggles were the most cumbersome that I've experienced at Turing, the ultimately resolution was well worth the effort.
+Fortunately, after a pairing session with a TA (who noted how well we pair together), we were able to get on the same page and start combining our skill sets for the betterment of the project. In the last two days, we got an incredible amount of work done, solved a lot of difficult problems, and had opportunity to bond and get to know one another on a more personal level. Through this experience, I truly learned how much better things can be with efficient communication.
+
+The project itself was also incredibly difficult. Initially, I thought it would be easy to start with something to go off instead of from scratch, but looking at someone else's code was like reading a foreign language. To understand what was going on and how things worked, it not only took strict attention to how things were organized, but also what was connected to where and naming conventions. Getting over this hurdle was my biggest difficulty, but once I got over it, I started to fly with changing and refactoring things. Together, Katie and I were able to cut a lot of redundant and complicated code out, making things simpler with single responsibility functions and following the DRY principle. We came up with more intuitive and clean ways to manipulate the DOM and draw from local storage, as well as cut down on the media query properties by almost 60%. Through this project I gained an immense amount of confidence with JS and learned a lot from Katie. Though some of the struggles were the most cumbersome that I've experienced at Turing, the ultimate resolution was well worth the effort.
 
 **Evaluator: Pam**
 
@@ -193,17 +201,43 @@ The project itself was also incredibly difficult. Initially, I thought it would 
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+
+Talking about 'growth mindset' put a name to something I had always thought about. Growing up I was always told I could do anything and took that to heart. Because of this I have never really felt like I had much of a fixed mindset, but have experience and learned to overcome it when possible. However, talking about it in this sort of setting has made me more aware of other people and be more patient with them. Additionally, in thinking about it critically, I have been more able to realize when I have a fixed mindset in the midst of it, which has helped me to lift the fog a realize that the feeling of inferiority or inability will pass. Through this talk, I've not only be able to help myself, but more effectively help others when they're experiencing a fixed mindset.
+
+#### Dealing with Difference: Introverts & Extroverts
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+
+Funny enough that, before reading the article assigned for this gear up, I had thought of the introversion-extroversion debate as more of a spectrum than a dichotomy. However, what I took away from this gear up was that people need to recharge differently based on where they fall on the spectrum. When looking at myself, I always considered myself an extrovert that deeply valued alone time. I could never really reconcile the two ideas. However, after this talk, I realized that being alone helps me to recharge and allow me to be more social. What was also interesting was that, when split into groups, almost everyone identified as part introvert *and* extrovert. The thing I took most from this was that, regardless of where you fall or how you self-identify, people are all people and should be treated accordingly. Thinking of it this way has helped me with my classmates, especially when it comes to reminding them that, while we signed up for Turing and it's *extremely* difficult, there's a light at the end of the tunnel and that we're all capable of getting there.
+
+#### Strengths & Storytelling
+
+* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_and_storytelling.md)
+
+Storytelling is something I've always been really fond of. I don't know when I started to consider myself a 'good' storyteller, but I really tapped into it when I started my company. I realized that people invested in us not because of our products, but because of the story they could tell other people after they had met and talked to us. While I had never really thought about it much, I think storytelling is an incredibly crucial part of setting yourself apart, particularly in the professional world. In order to succeed, you need other people and if you're able to accurately convey your story, people are more willing to invest in you, personally, emotionally, financially, etc. Most importantly, however, what I took from this is that *everyone* has a story to tell and that it *is* interesting. Though I don't know the immediate ramifications, I hope that my lightning talk about story telling helped my peers to realize that they already *have* an interesting story, they just need to refine it.
+
+#### Code: Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+
+This gear up session was one of the most meaningful to me, especially because it concerned a topic that I wasn’t aware was so prominent. I think that a lot of people like to think of the tech world as more progressive as a whole and would *assume* that sexism/genderism is rarely seen. However, this film made me realize that, regardless of where I am in life, it's something I always need to be aware of. Moving forward, I want to continue to be an advocate for those that are disenfranchised and help where I can. If anything, this film and being at Turing in general have given me more confidence to speak up if I hear or see something that isn't right.
+
+#### Case Study with Mod 4
 
 * [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+For my case study with Mod 4, we watched a short film on how the tech industry and, more comprehensively, how internet are affecting the job market. The application of AI in technical or manual jobs has increased productivity year after year, but the number of jobs has plateaued. In essence, the fear is that AI will eventually replace the need for people in most areas and asks the question if this is something we should be worried about. After the film, we broke out into small groups and talked about what we thought were the best applications for AI and the potential pitfalls. Our group talked about the almost necessity for AI when it comes to space exploration and the amount of good that it could do in the medical field. As for pitfalls, we talked about AI falling into the wrong hands or getting out of control. I left the talk knowing a lot more about how AI works, deep learning, etc. and think that it's a topic I would definitely like to learn more about in the future.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Obviously, by coming to Turing, we are immersing ourselves in a very well established community, so it is expected that you play a part. Fortunately, there are a lot of various avenues for this to happen, which I think I have taken fair advantage of. The best ways I have taken advantage of this is through utilizing Franklin and going to guest speakers. Each avenue has helped me learn faster and have insight into what the professional world will be like when I leave Turing. Of all of the guest speakers that have come to Turing, I have only missed one or two. After each I have stayed to thank the presenter and, on a few occasions, have asked them questions as well. The posses have also been great in establishing a kind of kinship among different mods as well.
+
+At the start of the Mod I took advantage of pairings with 1706, but eventually, that lessened. I think this happened because I wasn't as familiar with them and was unsure of who to pair with. Something I would like to do moving forward is make an effort to know other modules better and establish a relationship. I would also like to start attending a couple of Meet Ups once a month to meet people in the tech industry outside of Turing. Overall, however, even though I generally take time to get my bearings in a new environment, I feel close with my cohort and think I will be a more active member of the Turing community with each module.
 
 ------------------
 
