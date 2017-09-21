@@ -321,11 +321,33 @@ Did not receive feedback.
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### (Growth Mindset)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Growth_Mindset_Facilitator_Guide.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+When faced with a large amount of work, growth mindset is something very helpful to be aware of. When you're frustrated or struggling, it helps to keep in mind that's part of the process. It's not about understanding something right away, but being willing to work toward that path and believing you can gain that knowledge.
+
+#### (Getting Better at Difficult Things)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
+
+My biggest takeaway from this was thinking about what you could master. I like to get things right the first time, but that's not always an option. Instead, this reminded me to focus on one or two small things at a time, master them and continue building from there. It also made me think about how my emotional state can drain from my maximum capibility.
+
+#### (Dealing with Difference: Introverts & Extroverts)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+This exercise was helpful to get outside of our cohorts and get to know some other people. This is something I've spent a lot of time thinking about and discussing with friends, so I think understanding the concept came pretty natually. Going forward I think I will consider it more up-front when working on group projects, establishing our working styles and doing a DTR.
+
+#### (Debugging the Gender Gap)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+
+This was a very interesting look at the gender dispartiy in the tech industry. While I can't say I have the same experiences as any others, I have worked in many jobs where the ratio is reversed for me as a male. I think this helps me keep that experience at the front of mind when working with others. I always try to look at people as individuals, and it's important to speak out when you hear something you don't agree with or the problem will continue.
+
+#### (Case Study with Mod 4)
+
+I attended the session Failing Gracefully. It was nice to make some connections with students you don't normally see. It was also reassuring to know many other people experience the same thoughts as you. Going forward I will try to think about how failure is perceived. Instead of looking at how you're viewed externally, think about how you can grow personally.
 
 ## E: Community Participation
 
