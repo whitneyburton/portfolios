@@ -137,12 +137,15 @@ Scores not online
 ### Gear Up
 
 #### Microaggressions
+
 Before this gear up I didn't realize that microagressions were a thing, and that I had experienced them in the past. I thought it was good to be made aware that microaggressions exist and that they are way more common than I thought. I am continually keeping them in mind to make sure that I can recognize when its happening, either to me or to someone else.
 
 #### Groupthink
+
 I thought this gear up was really interesting because it brought attention to the idea that individuals are likely to just agree with others and go with group ideas even if they don't agree - that if the majority of people think one way, it has to be correct. I enjoyed considering how this has effected society at large in the past and how it maps on to current events. 
 
 #### UI/UX Design Thinking
+
 I enjoyed this gear up and I think its actually pretty important to be reminded that UX is a thing in the real world, and its something that we need to be considering on our projects, especially now and moving forward. The last mod or so, design thinking seems to have been put on the backburner and I know that I have been more focused on functionality. 
 
 ## E: Community Participation
@@ -161,4 +164,10 @@ I was pretty overwhelmed all of this mod and didn't do a lot of community activi
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
