@@ -62,7 +62,7 @@ this was a great intro to object oriented programming and an opportunity to buil
 
 This was our intro to react and api calls. It was really cool to see how this app fit together. Ben and I killed this project and i learned a lot about react in a short time.
 
-Eval scores are pending, but are also passing based off of eval experience.
+[Evaluation Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-2/weathrly/johnmichael_ben.md)
 
 
 
