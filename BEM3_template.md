@@ -26,8 +26,9 @@ I've learned more in this mod than any other, hands down. It wasn't only new mat
 ## A: Individual Work & Projects (Optional)
 
 > **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
->* \<Description>
->* \<Takeaways, your experience>
+- Build an application that consumes and API, (GitHub).
+
+- Main takeaways - how to consume an API. The learning curve was sharp on this one.
 
 
 ## B: Group Work & Projects
