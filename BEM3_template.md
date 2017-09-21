@@ -2,7 +2,9 @@
 
 ## Areas of Emphasis
 
-> \<What did you set out to accomplish this module?>
+APIs - 
+Deeper dive into databases, increasing efficiency, ruby in general
+
 
 ## Self-Assessment
 
