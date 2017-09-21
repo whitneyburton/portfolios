@@ -12,7 +12,7 @@
 
 ## A: End of Module Assessment
 
-PASSED!!!
+PASSED
 Scored all 3s
 
 ## B. Individual Work & Projects
@@ -176,15 +176,14 @@ Microaggressions can be verbal or non-verbal behaviors that insult or offend a c
 
 #### Gear Up 3: The not so subtle art of not giving a fuck
 
-<!-- There are numerous ways that one can contribute and give back to the community even being a tech newbie. While still at Turing, you can mentor lower mod students, lead a spike, and even start contributing to open source projects. You know more than you think you know and you are absolutely qualified to give back! -->
+I chose this gear up because I feel like this became my life motto about 2 years ago. I was tired of doing things I didn't want to do... certain social engagements, practice law, etc. I told myself I was going to start saying no to the things that did not bring me happiness and give more fucks to the things that did. That lead me to Turing.... where I feel like all my fucks are currently being given to becoming the best developer I can be. I hope to be able to spread them out a little more in the new future when I get back out into the real world.
 
 
 ## E: Community Participation
 
 ### Playing a Part
 
-<!-- This was my second mod to serve as my cohort's SAB representative. I also took a leadership role in organizing and encouraging pairings between Mod 1 and Mod 2. I am including feedback from 3 individuals that I paired with on multiple occasions this mod. -->
-
+This was an extremely difficult mod for me and I feel like I was not emotionally or mentally available to give back and participate in the Turing community as much as I would have liked and have in previous mods. I hope to better at this in Mod 4.
 ------------------
 
 ## Final Review
