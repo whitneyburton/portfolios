@@ -1,8 +1,8 @@
-# (Jonathan Beckman) - (M2) Portfolio
+# (Jonathan Beckman) - (M3) Portfolio
 
 ## Areas of Emphasis
 
-I was excited to work more with essential computer science concepts like we did with the Sorting Suit and Prefix Trie projects.  They were difficult but being split between deciding to go with the front or back end program at Turing, I was glad to touch on those concepts in the front end.  I was also very excited to work with React and using an API call for pulling in data to our project.  It makes me feel equiped to actually build an App that people may use.
+I heard Mod 3 was hard tho...wanted to solidify React. I hope to improve on my attention to detail, especially for portfolio defenses. 
 
 ## Rubric Scores
 
