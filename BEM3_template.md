@@ -19,8 +19,7 @@
 | D | **Professional Development** | X |
 | E | **Feedback & Community Participation** | X |
 
->* \<Takeaways, your experience>
->* \<Notes>
+I've learned more in this mod than any other, hands down. It wasn't only new material, the solidification of concepts and applications from the previous mods truly came into focus over the last 6 weeks.
 
 -----------------------
 
@@ -34,17 +33,20 @@
 ## B: Group Work & Projects
 
 > **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
->* \<Description>
->* \<Takeaways, your experience>
+ -Sales Engine on Rails, Active Record, Build an API
+ 
+ -Learning how to build an internal API was useful, but the Active Record portion was the most useful. After this project, I felt way more comfortable and capable using AR.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
 > **[Cloney Island Sprint 1](https://)** 
->* \<Description>
->* \<Takeaways, your experience>
+- Created a Youth Sports Recruitment app from scratch using unfamiliar technologies.
+
+- Valuable and difficult. While I learned a great deal about technologies, the hardest part was keeping the architecture consistent across the board. Working on a larger team where each of us had our individual user stories was difficult, especially when it came to the integration piece.
 
 > **[Cloney Island Sprint 2](https://)** 
->* \<Description>
->* \<Takeaways, your experience>
+ - Continued the Youth Sports app to relative completion.
+ 
+ - Refactoring, pulling the individual pieces together and deploying background workers and queues to Heroku was difficult. Learning from sprint 1, having and sticking to a solid plan including architecture and milestones is incredibly important.
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
@@ -68,13 +70,14 @@
 ## C. **Gear Ups**
 
 > [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+This one has/needs a lot of context, which is part of the difficulty in identifying when a Microaggression occurs. Being empathetic and aware of the of who you're interacting with is the key. Understanding that I/we all have speech patterns, interactions and approaches that may offend or negatively affect others is important. 
 
-> [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+> [GroupThink](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+This is a real phenomenon with tangible implications. GroupThink is everywhere, from corporations, to media, to general society. Almost all subcultures have some form of GroupThink. The question is, when does it become dangerous? At what point do we have to pull ourselves away, question the zeitgeist and shift toward a better future?
 
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+
+I chose the Transhumanism gear up. It was an interesting discussion with viewpoints across the board. My takeaways...human integration with technology is inevitable. This is exciting and scary as I think the integration is a complete paradigm shift for humans. I'm not sold that it's a good thing.
 
 
 ## D: Community Participation
