@@ -152,4 +152,4 @@ I have attended a Meet up outside of Turing. I also went to the Code Wars challe
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING
