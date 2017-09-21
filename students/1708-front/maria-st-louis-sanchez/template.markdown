@@ -268,7 +268,7 @@ Proficient
 Proficient
 
 #### Feedback to me
-I have not yet received the feeback for this project 
+It was great working with Maria and I'm really proud of the project we created and our ability to work together. I struggled with ideaBox, and it was great to have someone who understands localStorage, walk me through it, and getting it working on our ToDo Box code. I think we both have a tendency to stress out, and at some points, I think we fed off each other's stress, making each other more stressed. When something isn't going as planned, I think Maria could take a second, breathe, and then break the problem down into more pieces and take it one step at a time. With these projects, it's very easy to get overwhelmed and that can get in the way being able to think. On Tuesday, we both started to worry that we would get the project done in time. I think if we had both taken a second to destress and break the problem down, it could have helped make our project less stressful. With that in mind, the great thing about working with Maria is that she doesn't seem to get discouraged and works hard until a project is done.
 
 
 
