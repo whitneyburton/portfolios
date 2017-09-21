@@ -138,7 +138,7 @@ We watched a very interesting video about artificial intelligence. In the video,
 
 ### Playing a Part
 
-When not entirely engrossed in programming, I was a positive person in the classroom and around school. When able, I interacted with fellow Turing students in a calm, peaceful manner. Building relationships, growing in knowledge, and leaving Turing a better place than when I came in is important to me.
+When not entirely engrossed in programming, I was a positive person in the classroom and around school. When able, I interacted with fellow Turing students in a calm, respectful, and peaceful way. Building relationships, growing in knowledge, and leaving Turing a better place than when I came in is important to me.
 
 ------------------
 
