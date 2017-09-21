@@ -81,7 +81,6 @@ Our app design was very well recieved, but while our app did work, we did not im
 My partner's feedback for me was positive, and focused on my conceptual understanding of code and being able to explain it. I provided constructive cristism to my partner concerning our workflow when a broken branch was merged onto the master.
 
 ## D: Professional Skills
-These Gear Up sessions were very helpful in thinking about both soft skills and how we as students will help change things that we see to be issues when we move into the developer workforce.
 
 ### Gear Up
 
