@@ -22,14 +22,14 @@ Passed
 ## B: Individual Work & Projects
 
 #### Number Guesser
-## Student: Jeff Bender
-## Evaluator: Louisa
-## Notes/What To Work On: Overall, solid effort for the first project!
-## Functional Expectations  * Proficient: Application meets all of the expectations of phase three.
-## COMP RECREATION / DESIGN * Advanced Beginner * Proficient   
-## HTML * Advanced Beginner * Proficient   
-## CSS * Advanced Beginner * Proficient    
-## JS/jQuery * Advanced Beginner * Proficient   
+### Student: Jeff Bender
+### Evaluator: Louisa
+### Notes/What To Work On: Overall, solid effort for the first project!
+### Functional Expectations  * Proficient: Application meets all of the expectations of phase three.
+### COMP RECREATION / DESIGN * Advanced Beginner * Proficient   
+### HTML * Advanced Beginner * Proficient   
+### CSS * Advanced Beginner * Proficient    
+### JS/jQuery * Advanced Beginner * Proficient   
 
 * [GitHub URL](https://github.com/j25bender/numberGuesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -212,7 +212,7 @@ I got a lot out of this session. I was surprised by a number of facts in this mo
 It was very interesting to think about machine learning and the evolution into AI. I appreciated the input from many other students from different mods. This talk was relavant in that I have seen how this tech reaches into every corner of our lives now. Clearly we are on an exponential curve toward who knows what, cyborgs, androids, thinky robots that will continue to take on greater roles in our society. We already have computers that can beat us at chess and go it is only a matter of time before they are driving us all around and taking on more mineal tasks.
 
 ## E: Community Participation
-### Playing a Part
+#### Playing a Part
 I need coffee to function and I always always make more coffee when we are out, knowing it is the life-blood that will propel use to greaty heights! I also have cleaned the kitchen a couple times and unloaded the dishwasher. I am a part of the LGBTuring community and the 3D Printing group. I have found a 3D project worth doing that makes prosthetic hands for children. 
 ------------------
 
