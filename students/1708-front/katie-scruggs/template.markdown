@@ -7,10 +7,10 @@ My focus this module was to learn best practices for writing HTML, CSS, and Java
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
 
 -----------------------
 
@@ -214,7 +214,7 @@ Scores:
 
 Although I had a fixed mindset in regards to academics growing up, I have developed a more growth mindset for learning. I am still trying to care more about how much I have learned and how well something is contructed rather than the evaluation scores a project receives. To help me with this, I am going to continue asking for help when I need it and will try to put less pressure on myself for the end project.
 
-#### Introversion/Extroversion
+#### Dealing with Difference: Introversion and Extroversion
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/introversion.markdown)
 
 I enjoyed this discussion of introversion and extroversion, especially how the discussion was framed as "tendencies" toward one extreme or the other rather than dividing people into one of two camps. I have always known that I was someone with introverted tendencies who needs time alone to reflect and allow my mind to think its clearest thoughts. This Gear Up reminded me that it is important for me to be able to vocalize to my colleagues what I need to get my work done, and also that it is necessary to compromise and also help extroverts process information in a way that is helpful to them.
@@ -224,15 +224,15 @@ I enjoyed this discussion of introversion and extroversion, especially how the d
 
 The discussion about cognitive load made sense to me. Sometimes when I am stressed out with school or work, I ignore other things in my life in an effort to reduce my cognitive load. However, I now know from experience that this does not end well for me. One day I look around and see that my living space is in complete disarray, which only adds to my stress. I want to allocate a certain amount of time and energy for keeping my life going, even if that means that I need to take away some time from learning code.
 
-#### Debugging the Gender Gap
+#### Code: Debugging the Gender Gap
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/code_debugging_the_gender_gap.markdown)
 
 I was aware of some of the difficulties involved in being a woman in tech, but watching this video and getting the chance to discuss its implications with my male classmates was valuable. It made me realize that in order to change the overall culture, individuals in tech (of every gender) need to stand up for what is right. I am hoping to be able to stand up against discrimination in the industry once I get into the industry.
 
-#### Community Gear Up: The Art of Not Giving a Fuck
+#### Case Study with Mod 4: The Art of Not Giving a Fuck
 * [GitHub URL]()
 
-Despite its title, this gear up was focused on determining what is a priority and what isn't in your life, and then acting accordingly. When I get tired and stressed, it is easy for me to lose sight of my priorities and begin to worry about things that I have no control over or things that don't matter as much. I would like to work on focusing my energy on things that matter and letting go of the rest.
+This gear up was focused on determining what is a priority and what isn't in your life, and then acting accordingly. When I get tired and stressed, it is easy for me to lose sight of my priorities and begin to worry about things that I have no control over or things that don't matter as much. I would like to work on focusing my energy on things that matter and letting go of the rest.
 
 ## E: Community Participation
 
