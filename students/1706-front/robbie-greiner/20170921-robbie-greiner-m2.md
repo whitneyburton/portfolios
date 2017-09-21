@@ -89,7 +89,7 @@ Module 2 (Front-end)
  * [GitHub URL](https://github.com/robbiegreiner/weathrly)
  * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
  
- [For eval scores, look here, click on 'Lola'](https://github.com/turingschool/front-end-submissions-public/tree/master/1706/mod-2/weathrly)
+ [For eval scores, look here, click on 'Robbie'](https://github.com/turingschool/front-end-submissions-public/tree/master/1706/mod-2/weathrly)
  
  ## D: Professional Skills
  
