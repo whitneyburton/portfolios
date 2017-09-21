@@ -7,8 +7,8 @@ Being entirely new to programming in any manner, I set out to accomplish a great
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 2
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 4
 * **E: Community Participation**: 4
 
