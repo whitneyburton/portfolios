@@ -214,8 +214,8 @@ I also volunteered as a TA at a Try Coding event and sat on the panel at another
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great Job!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass!
