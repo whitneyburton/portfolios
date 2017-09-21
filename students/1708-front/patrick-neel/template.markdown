@@ -320,25 +320,31 @@ Professional development was a series of lessons desinged for us to work on how 
 
 ## Growth Mindset
 
+* [Git Hub](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+
 This session was very helpful in ways that you should approach learning situations, and how to handle set-backs and problem solving. How to recognize the signs of closed mind-set and how to avoid them. Growth mind-set is definetly something that I have to be very congnizant about and continue working on.
 
 ## Working Styles
+
+* [Git Hub](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
 We focused on introverted and extroverted personalities. I found it interesting that a person is neither completely one or the other. I defintely fall on the introverted side of the scale, but defintely have some extroverted when working on a smaller sc ale. I took away certain skill sets that are more tailored to introverted people, and how to work with people who fall on the extroverted side and vice versa.
 
 ## Defining the Relationship
 
-I hadn't really ever done any partner projects and this gear up was really important in that. Especially how to give constructive feedback. On the otherhand learning how to take feedback and not take it is a personal attack, but rather as way to learn and grow.
+* [Git Hub](https://gist.github.com/patneel87/85bc27308952d4ee21a9015d910824bf)
 
-* [GitHub URL](https://gist.github.com/patneel87/85bc27308952d4ee21a9015d910824bf)
+I hadn't really ever done any partner projects and this gear up was really important in that. Especially how to give constructive feedback. On the otherhand learning how to take feedback and not take it is a personal attack, but rather as way to learn and grow.
 
 ## StoryTelling and Strengths
 
 I detest talking about myself. You have to be able to eloquently be able to make yourself marketable for jobs. It definitely helped. I for sure have some work to do in this department, but it was good to be able to practice it.
 
-* [GitHub URL](https://gist.github.com/patneel87/b045a3b516e73a2463b70ee1f1899430)
+* [GitHub Gist](https://gist.github.com/patneel87/b045a3b516e73a2463b70ee1f1899430)
 
 ## Code Debugging the Gender Gap
+
+* [Git Hub](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
 
 The video we watched was quite startling. I was appalled to learn some of the statics about women, and lack of computer science courses being taught at the high school. Going forward at Turing if you hear somethings that are degrading or offensive to shut it down. If you can't do it now it's probably not going to happen when you enter the work force.
 
