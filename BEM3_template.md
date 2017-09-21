@@ -42,7 +42,7 @@
 | **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
 | **Functional/Client Expectations** | 3 | 3 | X |
 | **TDD** | 4 | 3 | X |
-| **Code Organization/Quality** | 4 | 3 | X |
+| **Code Organization/Quality** | 4 | 4 | X |
 | **API Design** | 4 | N/A | N/A |
 | **Queries** | 4 | N/A | N/A |
 
