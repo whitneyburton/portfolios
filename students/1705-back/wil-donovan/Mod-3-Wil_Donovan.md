@@ -18,7 +18,7 @@
 
   Notes:
   I barely know what i am talking about so take this with a grain of salt. The last two projects of the Mod are so incredibly valuable. First the grading team members has an accountability factor that I really like.  It might be hated after this mod, that can either be used to create an atmosphere/reputation to emphasize the accountability or do away with to keep the peace, thankfully not my decision but both approaches can't be argued against.
-  
+
   With just little things that we are exposed to with sprints, and times, and work flows, and groups, ect; the projects do have a lot of excitement built around them. But as soon as it realized that those exciting visions or hopes of directing a project are unobtainable the enthusiasm and drive/push for quality projects is lost.  The cause of this effect is good in a lot of ways, but keeping perspective or pushing for quality projects all around, if its important, could be emphasized in a group grade. The other effect is keeping an innovative mindset to pivot and drive for something thats not as cool but still worth while to the product, maybe to show more than just a desire to learn what is important to each person at that time.
 
 ## A: Individual Work & Projects (Optional)
@@ -32,24 +32,24 @@
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
-> **[Our Rales Engine](https://github.com/swdonovan/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
+> **[Our Rales Engine](https://github.com/swdonovan/rails_engine)**
 Build  A Rails API
 
-This was a good practice round as I got a lot of practice in using serialize and building all the relationship routes which paid much dividend in the final assessment. 
- Outside of being taught the importance of simple cov and testing, this was my introduction to much of the organizational side and the realization that no matter how much effort put forth, leadership or feedback is important. 
+This was a good practice round as I got a lot of practice in using serialize and building all the relationship routes which paid much dividend in the final assessment.
+ Outside of being taught the importance of simple cov and testing, this was my introduction to much of the organizational side and the realization that no matter how much effort put forth, leadership or feedback is important.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://github.com/swdonovan/shelter)** 
-Build a multi-tenancy site. 
+> **[Cloney Island Sprint 1](https://github.com/swdonovan/shelter)**
+Build a multi-tenancy site.
 
-This was a fun experience as it built off of the Cloney Island realizations and was finally the motivation to start fully studying the leadership side of software development.  This was my first test of having a great technical team that was lost sometimes doing their own things. 
+This was a fun experience as it built off of the Cloney Island realizations and was finally the motivation to start fully studying the leadership side of software development.  This was my first test of having a great technical team that was lost sometimes doing their own things.
 Technically speaking I explored in so many areas and picked up vast amounts of knowledge from experimenting, especially with JS, that it was a good all around project.
 
-> **[Cloney Island Sprint 2](https://github.com/swdonovan/uncorked)** 
+> **[Cloney Island Sprint 2](https://github.com/swdonovan/uncorked)**
 Brownfield project.  Clean it up make it client ready and build some cool shit.
 
-This brownfield project has been something I've waited for since the ending of Mod-1.  Picking up big projects and looking them over and understanding what just happened to this thing has always been a curiosity.  The results were indescribably educational both great and not so great, I think that says enough.  My team was great all around and burnt out so piecing together an app with bare bones READ.me, very little large scale usage or direction to go with it, pieces built in place by some one MUCH smarter than us, I was very proud all around of what we accomplished.  We will all admit we didn't get out of it what we hoped but that didn't stop us from pushing for our goal even if it wasn't as reachable. 
+This brownfield project has been something I've waited for since the ending of Mod-1.  Picking up big projects and looking them over and understanding what just happened to this thing has always been a curiosity.  The results were indescribably educational both great and not so great, I think that says enough.  My team was great all around and burnt out so piecing together an app with bare bones READ.me, very little large scale usage or direction to go with it, pieces built in place by some one MUCH smarter than us, I was very proud all around of what we accomplished.  We will all admit we didn't get out of it what we hoped but that didn't stop us from pushing for our goal even if it wasn't as reachable.
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
@@ -95,4 +95,6 @@ see above
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Promoted

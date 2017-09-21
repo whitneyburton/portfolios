@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-In Mod 3 I was hoping to come out job ready. I wanted to have a firm grasp of the technologies and techniques that would make me ready to walk into an interview an crush it. 
+In Mod 3 I was hoping to come out job ready. I wanted to have a firm grasp of the technologies and techniques that would make me ready to walk into an interview an crush it.
 
 ## Self-Assessment
 
@@ -14,7 +14,7 @@ In Mod 3 I was hoping to come out job ready. I wanted to have a firm grasp of th
 | D | **Professional Development** | X |
 | E | **Feedback & Community Participation** | X |
 
-I was worried about repeating, but now I'm actually excited to go through the mod 3 material again and really nail it. 
+I was worried about repeating, but now I'm actually excited to go through the mod 3 material again and really nail it.
 
 -----------------------
 
@@ -25,14 +25,14 @@ A project implementing api calls. I didn't make it very far on this project
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](https://github.com/jimszalew/rails_engine)** 
+> **[Rales Engine](https://github.com/jimszalew/rails_engine)**
 A rails version of Black Thursday, analyzing sales data in a RESTful application
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://github.com/mdevoe12/youth_sports)** 
+> **[Cloney Island Sprint 1](https://github.com/mdevoe12/youth_sports)**
 A greenfield team project creating an app to track youth sports statistics and connect athletes with recruiters.
 
-> **[Cloney Island Sprint 2](https://github.com/JF-Lalonde/cloney_island_airbnb)** 
+> **[Cloney Island Sprint 2](https://github.com/JF-Lalonde/cloney_island_airbnb)**
 A brownfield team project in which we inherited a clone of air bnb to polish up.
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
@@ -49,7 +49,7 @@ A brownfield team project in which we inherited a clone of air bnb to polish up.
 
 #### **Posse**
   >* The armstrong posse was pretty open and free form. We used it as a time to help each other with code or just chat and help each other destress.
- 
+
 #### **Playing a Part**
 
 >* I was the leader of the Armstrong posse this mod and tried to set up meetings with mentors, one of which was actually successful.
@@ -60,4 +60,6 @@ A brownfield team project in which we inherited a clone of air bnb to polish up.
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Retained

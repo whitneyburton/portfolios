@@ -29,19 +29,19 @@ I really enjoyed this project because it really taught me how oauth and services
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* \<Description> This project is a sales engine api that can be used to display json info such as merchants, customers, and transactions.
 
 >* \<Takeaways, your experience>
 This was my favorite project out of MOD3 because I struggled the most on it. I'm so glad I was able to completely finish this project with spec harness and simplecov passing at 100%.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
+> **[Cloney Island Sprint 1](https://)**
 >* \<Description> This app is an "Airbnb" for disaster victims. Users can be victims, hosts, or an admin.
 
 >* \<Takeaways, your experience>
 This was the first 5 person group project and it was quite difficult. I saw the value in using Agile and project management tools.
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://)**
 >* \<Description> Trail up is an app that lets users create and search for events at hiking trails.
 
 >* \<Takeaways, your experience>
@@ -102,4 +102,6 @@ I'm working on writing up a tutorial currently on the steps to take from develop
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Promoted

@@ -85,4 +85,6 @@ This is an app that helps to connect athletes, coaches, and recruiters.
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Promoted

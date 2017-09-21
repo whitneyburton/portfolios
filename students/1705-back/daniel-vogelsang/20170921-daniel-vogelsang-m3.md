@@ -70,3 +70,8 @@ Queries	X	N/A	N/A
 Rales Engine evaluation comments: <Instructor Comments Here>
 Cloney Island Sprint 1 evaluation comments: <Instructor Comments Here>
 Cloney Island Sprint 2 evaluation comments: <Instructor Comments Here>
+
+
+#### Outcome
+
+Promoted

@@ -29,16 +29,16 @@ The goal was to authenticate a user via OAuth, then access that user's Reddit in
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](https://github.com/JF-Lalonde/rales-engine)** 
+> **[Rales Engine](https://github.com/JF-Lalonde/rales-engine)**
 >* Rales Engine was a revisiting of the business intelligence and relationships found in the Black Thursday project. This time around, CSVs were used to populate a database, and the analytics were performed using SQL/ActiveRecord.
 >* My main takeaways here were that I finally got an opportunity to pair remotely, which had been a goal for some time. I also gained more comfort using ActiveRecord, but it also showed me how much more I need to push to get to where I want to be. Using serializers for the first time was fairly straightforward and overally pretty enjoyable.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://github.com/bretfunk/palpit8)** 
+> **[Cloney Island Sprint 1](https://github.com/bretfunk/palpit8)**
 >* Palpit8 is a clone of Twitch.tv that analyzes chatroom data of gamer streams through the Watson Tone Analyzer and returns real-time visualization of the mood of a chatroom.
 >* This was my favorite project so far at Turing, and one I want to polish a bit more because I will be showcasing it to potential employers. Making API calls to Watson was fairly straightforward, but getting all the parts to fit together was a huge challenge: Taking chat log data and clearing it after consuming it, then presenting the output through ActionCable. This is where I began to really see that I could take on things that were completely new to me and figure them out.
 
-> **[Cloney Island Sprint 2](https://github.com/JF-Lalonde/cloney_island_airbnb)** 
+> **[Cloney Island Sprint 2](https://github.com/JF-Lalonde/cloney_island_airbnb)**
 >* Sprint 2 of an Airbnb Clone where we were expected to fix bugs and polish off a brownfield project to get it presentable in production.
 >* This was my first brownfield project, and it was pretty overwhelming to step into someone else's code initially. After taking the time to figure out what was going on, we managed to fix all the bugs and polish off all the features that we wanted to in development, but we had one hiccup in production with the two-factor authentication. I really enjoyed getting the Mapbox API to work in conjuction with the Airbnb API, and was able to have a map generate pins of the properties we returned from Airbnb after filtering for location. This made me more comfortable with AJAX as well as JS/JQuery.
 
@@ -89,6 +89,8 @@ Robots are taking over: This was a fairly macabre conversation about the bleak f
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Notes
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Promotion

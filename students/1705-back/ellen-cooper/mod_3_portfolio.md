@@ -15,8 +15,8 @@ I hoped to solidify my rails skills and learn some new skills such as JS.
 | E | **Feedback & Community Participation** | 3 |
 
 >* \<Takeaways, your experience>
-Most of the topics in Mod 3 were very relevant to being a real developer and I really enjoyed the lessons about things such as performance. 
-I felt as through a lot of the topics weren't things one could learn well from a tutorial and the real world experience of the instructors was particularly beneficial in this mod. The projects were challenging in terms of the group work and I felt the main takeaways were project management related. 
+Most of the topics in Mod 3 were very relevant to being a real developer and I really enjoyed the lessons about things such as performance.
+I felt as through a lot of the topics weren't things one could learn well from a tutorial and the real world experience of the instructors was particularly beneficial in this mod. The projects were challenging in terms of the group work and I felt the main takeaways were project management related.
 >* \<Notes>
 
 -----------------------
@@ -31,23 +31,23 @@ This project was a great introduction to consuming APIs. By the end of the proje
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* \<Description>
 Uses Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 >* \<Takeaways, your experience>
 This project was extremely valuable in solidifying and strengthening my Active Record and SQL query skills. It was also a good introdution to building RESTful APIs.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
+> **[Cloney Island Sprint 1](https://)**
 >* \<Description>
 A linkedin inspired professional network for Turing alumni.
 >* \<Takeaways, your experience>
-This project was challenging and educational for a variety of reasons. I definitely learned the value of management in a dev team, as with 6 people it became difficult to hold people accountable and make group decisions without anyone being in charge. My personal story was a great introduction to using ajax and allowed me another opportunity to work on more complex database queries. It was unfortunate that the project as a whole did not come together the way we expected and I learned the value of scaling back and focusing on the MVP. 
+This project was challenging and educational for a variety of reasons. I definitely learned the value of management in a dev team, as with 6 people it became difficult to hold people accountable and make group decisions without anyone being in charge. My personal story was a great introduction to using ajax and allowed me another opportunity to work on more complex database queries. It was unfortunate that the project as a whole did not come together the way we expected and I learned the value of scaling back and focusing on the MVP.
 
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://)**
 >* \<Description>
-A brownfield project that was a wine-themed clone of uncorked. 
+A brownfield project that was a wine-themed clone of uncorked.
 >* \<Takeaways, your experience>
 This project was a good introduction to working on brown-field projects, and the associated challenges. Because our project was lacking a lot of base functionality and had a confusing user experience we spent most of our time completing the original base requirements to make it usable. I also had the opportunity to implement a feature in javascript that required programming logic in addition to AJAX calls, which served a good introduction to javascript.
 
@@ -101,4 +101,6 @@ none
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Promoted

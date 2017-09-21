@@ -31,19 +31,19 @@ I really liked this project, felt I did very well and even did a post request fr
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* \<Description>
 Make an internal API and use ActiveRecord for biz intel queries.  
 >* \<Takeaways, your experience>
 This was the only project I wasn't 100% proud of.  I think a combination of personal issues took a toll on my work.  That and I had made the seed file wrong and it was throwing off all of our tests (they would work in RSpec but not in the spec file).
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
+> **[Cloney Island Sprint 1](https://)**
 >* \<Description>
 We made a Twitch clone with a custom chat and a feature that displayed the current chatroom's mood (of actual Twitch users) using the Watson API.
 >* \<Takeaways, your experience>
 This was super fun.  I had a great group of great coders and we aimed big.  We want to demo it if it looks good enough.  During the project I moved, had my car stolen, had my car found, and other issues but the project didn't suffer which tells you how great of a project this was.  
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://)**
 >* \<Description>
 Take a project from last Mod3 students (Clonely Island Travel) and improve it.  
 >* \<Takeaways, your experience>
@@ -73,7 +73,7 @@ N/A
 
 > [Link To Gear Up]()
 \<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
-MicroAggressions 
+MicroAggressions
 https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown
 I thought this was a good topic handeled well by Sal.  The article we read was weird, though.  A girl was 'triggered' when people complimented her English, since she moved to the US when she was 17.  As someone who has lived in many foreign lands I am shocked that someone would feel this way.  I am delighted when people compliment my langauge abilities if they detect an accent.  Chantal complimented my Spanish that morning and I was flattered!  To each their own, I suppose.  
 
@@ -107,4 +107,6 @@ I helped Mike move during the mod.  And went to Nawlins alot with my classmates.
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Promoted

@@ -25,16 +25,16 @@ I wanted to learn how to pull data in from external sources into an app, and I w
 
 ## B: Group Work & Projects
 
-**[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+**[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 * We used the Sales Engine data to build an internal API using advanced ActiveRecord.
 * We knocked this one out of the park. Eddie was a great project partner and I was pretty proud of what we accomplished.
 
 **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-**[Cloney Island Sprint 1](https://turing-professionals.herokuapp.com/)** 
+**[Cloney Island Sprint 1](https://turing-professionals.herokuapp.com/)**
 * Our project was a Turing-only clone of LinkedIn.
 * I learned a ton during this project, including the importance of protecting Github branches, when to give up on something that just isn't working, and a little bit of Javascript and AJAX. Although this project didn't turn out as well as we wanted it to, I think the final product was still pretty good.
 
-**[Cloney Island Sprint 2](https://recruit-me-80202.herokuapp.com/)** 
+**[Cloney Island Sprint 2](https://recruit-me-80202.herokuapp.com/)**
 * Our project was an app to facilitate the recruitment of middle school basketball players.
 * I learned how to retrofit Devise into an existing app in this project (lesson learned: not easy!), why single table inheritance is just the worst, and how to work with brownfield code. I did enjoy working on this project.
 
@@ -67,7 +67,7 @@ The Gear Ups this mod were better than the ones in mod 2, in my opinion. The stu
 * I wrote a [blog post](https://medium.com/@katiekeel/succeed-in-group-work-require-pr-reviews-eb72b93c90fe) about the importance of protecting a project's branches on Github.
 
 #### **Posse**
-* To be honest, my posse hasn't really done anything this mod. Most of us are incredibly tired by Friday afternoon, and we end up playing Settlers of Catan or working on the puzzle in the FE4 classroom. My recommendation is just to cut out posses entirely and let students leave after Gear Up and retro on Friday - not because I don't believe in mingling with your fellow students, but because most people don't even show up, and having an extra hour off at the end of the week would be a realy nice perk. 
+* To be honest, my posse hasn't really done anything this mod. Most of us are incredibly tired by Friday afternoon, and we end up playing Settlers of Catan or working on the puzzle in the FE4 classroom. My recommendation is just to cut out posses entirely and let students leave after Gear Up and retro on Friday - not because I don't believe in mingling with your fellow students, but because most people don't even show up, and having an extra hour off at the end of the week would be a realy nice perk.
 
 ------------------
 
@@ -75,4 +75,6 @@ The Gear Ups this mod were better than the ones in mod 2, in my opinion. The stu
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Promoted

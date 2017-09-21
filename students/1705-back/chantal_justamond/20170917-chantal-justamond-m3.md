@@ -30,25 +30,25 @@
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
-> **[Link to Repo](https://github.com/chantal66/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
+> **[Link to Repo](https://github.com/chantal66/rails_engine)**
 
 >* \<Description>
 >* This project creates an internal analytics API for analyzing and serving sales data as JSON
 
 >* \<Takeaways, your experience>
->* Overall this project went really well and I enjoyed working on it. 
+>* Overall this project went really well and I enjoyed working on it.
 I plan to look over the ActiveRecord and SQL portion of the project as this was definitely the hardest but also one of the most rewarding.
 
 > **[80202](http://backend.turing.io/module3/projects/cloney_island/80202)**
-> **[80202 Sprint 1](https://github.com/samanthagongora/turing_professionals)** 
+> **[80202 Sprint 1](https://github.com/samanthagongora/turing_professionals)**
 >* \<Description>
 >* This is an app for Turing students to connect with one another post-graduation.
 >* \<Takeaways, your experience>
 >* Working with websockets has been a wonderful experience, been able to work with real time data is beyond I could've expect.
 
-> **[80202 Sprint 2](http://backend.turing.io/module3/projects/cloney_island/80202)** 
-> **[80202 Sprint 2](https://github.com/JF-Lalonde/cloney_island_airbnb)** 
+> **[80202 Sprint 2](http://backend.turing.io/module3/projects/cloney_island/80202)**
+> **[80202 Sprint 2](https://github.com/JF-Lalonde/cloney_island_airbnb)**
 >* \<Description>
 Cloney Island is a brownfield development project aiming to clone much of the functionality and design of Airbnb's platform.
 
@@ -83,7 +83,7 @@ Cloney Island is a brownfield development project aiming to clone much of the fu
 
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
 > I attended the "Failing with Grace" gear up on how we are programmed since we are children to be afraid of failure, when one of my best learning experiences here at Turing is that when we fail or we
-make a mistake we retain the understanding of that mistake way more that if we didn't fail in the beginning. 
+make a mistake we retain the understanding of that mistake way more that if we didn't fail in the beginning.
 
 
 ## D: Community Participation
@@ -96,4 +96,6 @@ make a mistake we retain the understanding of that mistake way more that if we d
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Promoted

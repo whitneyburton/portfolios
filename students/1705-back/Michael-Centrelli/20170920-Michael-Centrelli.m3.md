@@ -3,7 +3,7 @@
 
 ## Areas of Emphasis
 
-> I wanted to come out of mod 3 with a complete understanding of consuming and creating API's. I also set out to have a basic understanding of Javascript and Ajax. 
+> I wanted to come out of mod 3 with a complete understanding of consuming and creating API's. I also set out to have a basic understanding of Javascript and Ajax.
 
 ## Self-Assessment
 
@@ -15,27 +15,27 @@
 | D | **Professional Development** | 3 |
 | E | **Feedback & Community Participation** | 3 |
 
->* This was my favorite mod. I felt like I did well and learned a ton of useful knowledge that I will carry with me. 
+>* This was my favorite mod. I felt like I did well and learned a ton of useful knowledge that I will carry with me.
 
 -----------------------
 
 ## A: Individual Work & Projects (Optional)
 
 > **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
->* I thought this was a great project and a certaintly something that I referenced throughout the mod. 
+>* I thought this was a great project and a certaintly something that I referenced throughout the mod.
 
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
->* This was a fun project to work on. I thought it was incredibly helpful in learning and understand active record. The lesson Josh gave prior to this project was essential to my understanding and ability to exceed in this project. 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
+>* This was a fun project to work on. I thought it was incredibly helpful in learning and understand active record. The lesson Josh gave prior to this project was essential to my understanding and ability to exceed in this project.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
->* This was the most fun I have had on project while at Turing. It was probably one of the most challenging as well. We had a really great group of coders. The freedom of the project allowd us to push the limits of our understanding and do something completely new. In that process I learned a lot. 
+> **[Cloney Island Sprint 1](https://)**
+>* This was the most fun I have had on project while at Turing. It was probably one of the most challenging as well. We had a really great group of coders. The freedom of the project allowd us to push the limits of our understanding and do something completely new. In that process I learned a lot.
 
-> **[Cloney Island Sprint 2](https://)** 
->* This project seemed like great practice for the real world. It was nice to come into a project with the bare bones already built out, and go through a different process of adding features on. 
+> **[Cloney Island Sprint 2](https://)**
+>* This project seemed like great practice for the real world. It was nice to come into a project with the bare bones already built out, and go through a different process of adding features on.
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
@@ -74,7 +74,7 @@
 >* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
 
 #### **Posse**
-  >* Most of the time it was homework. We also brought mentors in who gave a great talk about the professional world and answered questions. 
+  >* Most of the time it was homework. We also brought mentors in who gave a great talk about the professional world and answered questions.
 
 #### **Playing a Part**
 
@@ -86,4 +86,6 @@
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome
+
+Promoted
