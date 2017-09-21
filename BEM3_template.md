@@ -2,20 +2,19 @@
 
 ## Areas of Emphasis
 
-> I wanted to come out of mod 3 with a complete understanding of consuming and creating API's. I also set out to have a basic understanding of Javascript and Ajax.
+> I wanted to come out of mod 3 with a complete understanding of consuming and creating API's. I also set out to have a basic understanding of Javascript and Ajax. 
 
 ## Self-Assessment
 
 | Section | Category | Score |
 | --- | ----- | --- |
 | A | **End-of-Module Assessment** | 3 |
-| B | **Individual Work & Projects** | 3 |
-| C | **Group Projects** | 3 |
+| B | **Individual Work & Projects** | 4 |
+| C | **Group Projects** | 4 |
 | D | **Professional Development** | 3 |
 | E | **Feedback & Community Participation** | 3 |
 
->* \<Takeaways, your experience>
->* \<Notes>
+>* This was my favorite mod. I felt like I did well and learned a ton of useful knowledge that I will carry with me. 
 
 -----------------------
 
