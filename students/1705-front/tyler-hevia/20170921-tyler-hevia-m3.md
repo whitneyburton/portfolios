@@ -3,6 +3,7 @@
 ## Areas of Emphasis
 
 I wanted to get more comfortable with React and learn how to Redux.
+go gators. 
 
 ## Rubric Scores
 
@@ -52,8 +53,7 @@ for the back end. Learning TypeScript was fun. Building the backend was less fun
 
 **1. Test-Driven Development**
 
-<!-- * 3: Project shows adequate testing (90% - 95% coverage). -->
-* 2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
+ * 3: Project shows adequate testing (90% - 95% coverage).
 
 **2. Code Quality**
 
@@ -109,14 +109,14 @@ for the back end. Learning TypeScript was fun. Building the backend was less fun
 * [GitHub URL](https://github.com/tylerjhevia/SWAPIbox)
 * [Original Project](http://frontend.turing.io/projects/swapi-box.html)
 
-* Partners: Jason Lucas and Jonathan Beckman
+* Partners: Jason Lucas and Jonathan Beckman (the dream team)
 * Used React to build an app that fetched data from the Star Wars API and displayed it in a sick cockpit view. Used a Promise.all to resolve nested API calls. Attempted to test with fetch-mock.
 
-* Eval with: Limbo
+* Eval with: Limbo (legend)
 
 ### Scores: 
 
- #### Specification Adherence
+#### Specification Adherence
 
 3 - The application completes all 3 iterations.
 
@@ -143,7 +143,7 @@ for the back end. Learning TypeScript was fun. Building the backend was less fun
 * Eval with: Limbo
 
 ### Scores:
- #### Specification Adherence  
+#### Specification Adherence  
 
 * 4: The application meets all of the requirements listed above and implements one or more of the extensions.
 
@@ -203,4 +203,10 @@ This was a really fun mod. I thought all of our projects were pretty interesting
 
 ### Outcome
 
-Pass
+PASS
+
+* **A: End-of-Module Assessment**: 3 
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3 
