@@ -1,9 +1,9 @@
-# \<Your Name> - M3 Portfolio
+# \<Jimmy Truong> - M3 Portfolio
 
 ## Areas of Emphasis
 
 > \<What did you set out to accomplish this module?>
-
+In this Mod, my goal was to develop myself to become job hireable.
 ## Self-Assessment
 
 | Section | Category | Score |
@@ -22,29 +22,34 @@
 ## A: Individual Work & Projects (Optional)
 
 > **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
->* \<Description>
+>* \<Description> APIcurious is an app that consumes the github service and lets users login using github and displays information on the user.
+https://github.com/jtruong2/apicurious
 >* \<Takeaways, your experience>
-
+I really enjoyed this project because it really taught me how oauth and services work.
 
 ## B: Group Work & Projects
 
 > **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
->* \<Description>
+>* \<Description> This project is a sales engine api that can be used to display json info such as merchants, customers, and transactions.
+
 >* \<Takeaways, your experience>
+This was my favorite project out of MOD3 because I struggled the most on it. I'm so glad I was able to completely finish this project with spec harness and simplecov passing at 100%.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
 > **[Cloney Island Sprint 1](https://)** 
->* \<Description>
->* \<Takeaways, your experience>
+>* \<Description> This app is an "Airbnb" for disaster victims. Users can be victims, hosts, or an admin.
 
+>* \<Takeaways, your experience>
+This was the first 5 person group project and it was quite difficult. I saw the value in using Agile and project management tools.
 > **[Cloney Island Sprint 2](https://)** 
->* \<Description>
->* \<Takeaways, your experience>
+>* \<Description> Trail up is an app that lets users create and search for events at hiking trails.
 
+>* \<Takeaways, your experience>
+It was difficult working through a project that built by someone else. Definitely a good experience because I was able to see some great code that I can implement in my own project.
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
+| **Github Repo** | [Rales Repo](https://github.com/jtruong2/rails_engine) | [Cloney 1 Repo](https://github.com/jtruong2/shelter) | [Cloney 2 Repo](https://github.com/jtruong2/trail_up) |
+| **Heroku** | [Rales](https://) | [Cloney 1](https://shelter-in-need.herokuapp.com) | [Cloney 2](https://trail-upv2.herokuapp.com) |
 | **Functional/Client Expectations** | X | X | X |
 | **TDD** | X | X | X |
 | **Code Organization/Quality** | X | X | X |
@@ -69,12 +74,15 @@
 
 #### **Community Contribution Option**
 >* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
+I'm working on a blog post currently on the steps to take from development to production(setup, development, CI, Staging, Production).
 
 #### **Posse**
   >* \<Blurb about what you did with your posse over the module>
+  We played games as a team builder and had a mentor Q&A
   >* \<Your favorite thing about the posse experience>
+  I really enjoyed sitting in on the mentor Q&A
   >* \<How has your posse experience helped you grow as a professional?>
-
+  I was able to get my questions answered about the real world after Turing from the mentors
 #### **Playing a Part**
 
 > \<How else you've contributed to the community>
