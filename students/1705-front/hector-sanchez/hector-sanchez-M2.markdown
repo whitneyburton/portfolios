@@ -114,8 +114,8 @@ to show support for the upper mod students.)
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great Job!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
