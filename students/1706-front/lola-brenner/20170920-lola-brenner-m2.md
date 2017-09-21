@@ -153,10 +153,10 @@ Lead a spike on gender and micro agressions.
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great Job!!!!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass!!
 
 
