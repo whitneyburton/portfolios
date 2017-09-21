@@ -163,3 +163,13 @@ This mod I made a conscientous effort to reach out to people in the greater Turi
 ( Leave blanks for reviewers )
 
 ### Outcome
+
+PASS
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**:  4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
+
