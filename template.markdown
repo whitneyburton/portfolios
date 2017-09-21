@@ -51,8 +51,6 @@
 
 (evaluation scores)
 
-(feedback to me)
-
 ## D: Professional Skills
 (Intro)
 
