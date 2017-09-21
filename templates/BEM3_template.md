@@ -74,7 +74,7 @@ It was difficult working through a project that built by someone else. Definitel
 
 #### **Community Contribution Option**
 >* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
-I'm working on a blog post currently on the steps to take from development to production(setup, development, CI, Staging, Production).
+I'm working on writing up a tutorial currently on the steps to take from development to production(setup, development, CI, Staging, Production).
 
 #### **Posse**
   >* \<Blurb about what you did with your posse over the module>
