@@ -8,11 +8,11 @@ foundation in javascript, HTML and CSS to set me up for a successful mod 2.  I a
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 4/5
-* **B: Individual Work & Projects**: 4/5
-* **C: Group Work & Projects**: 4/5
-* **D: Professional Skills**: 4/5
-* **E: Community Participation**: 4/5
+* **A: End-of-Module Assessment**: 3/4
+* **B: Individual Work & Projects**: 3/4
+* **C: Group Work & Projects**: 3/4
+* **D: Professional Skills**: 3/4
+* **E: Community Participation**: 3/4
 
 -----------------------
 
@@ -180,8 +180,6 @@ one on one to better understand certian topics.
 
 ### Notes
 
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass

@@ -82,4 +82,4 @@ PROMOTED, right?
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROMOTED

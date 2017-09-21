@@ -1,4 +1,5 @@
-# Lola Brenner - M1 Portfolio
+# Lola Brenner
+# M1 Portfolio
 
 ## Areas of Emphasis
 
