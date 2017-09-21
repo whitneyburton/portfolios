@@ -190,8 +190,12 @@ This was an extremely difficult mod for me and I feel like I was not emotionally
 
 ### Notes
 
-( Leave blanks for reviewers )
+PASS
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
