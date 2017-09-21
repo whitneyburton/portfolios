@@ -16,7 +16,7 @@ This module I wanted to strengthen my understanding of JavaScript fundamentals a
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Pass
 
 
 ## B: Individual Work & Projects
@@ -28,7 +28,7 @@ This module, I completed three solo projects.
 * [GitHub URL](https://github.com/lfinney/sorting-suite-m2)
 * [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
-The goal of Sorting Suite was to get some experience with core Computer Scienve concepts, in this case how information can be sorted and the speed at which the various approachs to sorting will process information.
+The goal of Sorting Suite was to get some experience with core Computer Science concepts, in this case how information can be sorted and the speed at which the various approachs to sorting will process information.
 
 ##### Evaluator: Leta
 ##### Evaluator Comments: 
@@ -164,8 +164,8 @@ This module I again served as an Student Advisory Board representative for my co
 
 ### Notes
 
-( Leave blanks for reviewers )
+Keep it up!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass! 
