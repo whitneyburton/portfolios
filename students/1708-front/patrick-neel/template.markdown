@@ -364,4 +364,4 @@ I supported the Turing community by going to all the guest speakers, and one of 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING
