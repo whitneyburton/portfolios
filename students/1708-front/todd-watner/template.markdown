@@ -150,4 +150,4 @@ When not entirely engrossed in programming, I was a positive person in the class
 
 ### Outcome
 
-( Leave blanks for reviewers )
+RETAINED
