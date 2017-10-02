@@ -57,3 +57,9 @@ How else did you give back to the community this inning? Why do you think this i
 ## Going Forward
 
 What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
+
+## Professional Development
+
+* Link to 30-day post-grad job search action plan: 
+* Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
+* Prepare and share your Turing story during week six.
