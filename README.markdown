@@ -22,11 +22,19 @@ A submission summarizes your accomplishments in these key areas:
 
 ### Module 1 (Back-end)
 
-1. Fork and clone this repo.
-2. Follow instructions in [portfolio expectations](http://backend.turing.io/module1/portfolios/portfolio_expectations) to create your folder and file for your M1 portfolio.
-3. Copy the template code from the [M1 template markdown](http://backend.turing.io/module1/portfolios/portfolio_template) to your new file.
-4. Update placeholder text in template.
-5. Commit your changes, push to your remote repo, then create a PR to the `turing/portfolios` repo.
+Your promotion to the next module is based upon a summative assessment coined "The Pentathlon." You must receive 3s in all categories or show strong upward sloping trend in performance in order to be promoted to Module 2. The Pentathlon includes:
+
+  1. Paired Assessment
+  2. Independent Timed Diagnostic
+  3. Written Diagnostic
+  4. Final Paired Project
+  5. Completed Portfolio
+
+**Instructions for Submitting a Completed Portfolio:** 
+  1. Fork and clone this repo.
+  2. Follow instructions in [Module 1 Portfolio Guidelines](http://backend.turing.io/module1/portfolios) to create your folder and M1 portfolio file.
+  4. Update placeholder text in your file.
+  5. Commit your changes, push to your remote repo, and create a PR to this repo by 2:30p the day prior to your portfolio review.
 
 
 ### Module 1 (Front-end)
