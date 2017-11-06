@@ -124,13 +124,13 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 * **Areas of Emphasis** - briefly describe the goals you had for this mod and if/how you accomplished them
 * **Rubric scores** - Fill in how YOU would grade yourself from 1-4 in the following categories this module:
-  * End-of-Module Assessment
+  * Individual Final Assessment
   * Individual Work & Projects
   * Group Work & Projects
   * Professional Development
   * Feedback & Community Participation
-* **Individual Assessment:** - (Pass/Fail)
-* **Required Projects** - Capstone Project, House of Vars (blog post), Jet Fuel, BYOB
+* **Individual Assessment:** - (Pass/Fail) - Do not put any rubric scores, only pass/fail
+* **Required Projects** - Capstone Project, House of Vars (link to blog post), Palette Picker, BYOB
   * Should include points breakdown per project where applicable
 * **Community**
   * Summary of how you've contributed to the community
