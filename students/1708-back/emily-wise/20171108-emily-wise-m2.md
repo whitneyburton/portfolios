@@ -6,18 +6,18 @@
 
  My goals this module were the following:
   - Build on my knowledge from Mod 1 on OOP
-  - **Read Sandy Metz and other OOP books**
+  - *Read Sandy Metz and other OOP books*
   - Focus on ActiveRecord and using the methods to build out analytics
-  - **Learn the basics of how the web works**
+  - *Learn the basics of how the web works*
   - Be able to build a web application and get comfortable with Rails
   - Focus on following the TDD process, and seek ways to make testing more robust
   - Continue to refine Git workflow and use Waffle.io and other agile project management tools - for both personal and group projects
-  - **Focus on learning how to quickly use my environment, shortcuts, atom, etc.**
-  - **Work on personal projects outside of the normal work to continue to explore what I am interested in and refine skills**
-  - **Start to blog and create online voice and presence**
+  - *Focus on learning how to quickly use my environment, shortcuts, atom, etc.*
+  - *Work on personal projects outside of the normal work to continue to explore what I am interested in and refine skills*
+  - *Start to blog and create online voice and presence*
   - Restart to the Pahlka Civic Tech group at Turing, and start working on a project
   - Pair more frequently with current mentor, and reach out to additional mentors for more pairing in Mod 3. I also want to develop a targeted networking plan over the intermission which will include the companies I am interested in and find contacts to reach out to for cold networking.
-  - **Make sure I am keep my energy level up and not let anxiety and confidence impede in my learning this module**
+  - *Make sure I am keep my energy level up and not let anxiety and confidence impede in my learning this module*
   - Be more confident that I belong here are I can be a strong technical programmer
 
   The goals that I did not personally meet are italicized. Some of the goals were stretch goals such as working on personal projects, but there are still many areas that I can focus on next module to improve on as well and carry over some goals into the next module.
@@ -63,9 +63,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category                     | Score |
 | -----------------------------| ----- |
-| **Individual Projects**      |  2- 3 | *2 on styling and refactoring, but 3 on functionality
+| **Individual Projects**      |  2- 3*|
 | **Group Projects**           |   4   |
 | **Professional Development** |   3   |
 | **Community**                |   3   |
 | **Final Written**            |   3   |
 | **Final Timed**              |   3   |
+*2 on styling and refactoring, but 3 on functionality
