@@ -202,7 +202,6 @@ Overall I'd say our project did very well! You're great with your attention to d
 * Advanced Beginner Can modify arrays by adding or removing specific elements - uses array methods such as push or shift. Can use a for loop to iterate through array.
 * Proficient  Does not use for loops for arrays - uses array prototypes, such as forEach, to iterate through or manipulate arrays. Can use array to store more complicated data structures such as objects or nested arrays. Is comfortable/efficient with reading array prototype documentation and can efficiently test/apply array prototype methods they have not worked with before.
 
-
 ##### Objects & Prototypes
 
 * Advanced Beginner Can use object constructor functions and is comfortable with extracting values of properties on different object instances.
@@ -215,7 +214,6 @@ Overall I'd say our project did very well! You're great with your attention to d
 ##### Style
 
 * Proficient  Code is logically organized, such that reader can easily follow the progression of the app because variable and function names are descriptive and follow a single responsibility approach. There are no major bugs and minimal duplication.
-
 
 #### GIT & GITHUB
 
@@ -234,40 +232,121 @@ Overall I'd say our project did very well! You're great with your attention to d
 * Proficient  Developer captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but developer is clearly mindful of details and has made a conscious and careful effort to match the comp. Any design decisions left open to interpretation are handled thoughtfully and are well executed, but are more noticeable and/or unintuitive than they would be if the designer had provided the solution, or may not be totally seamless during screen-size transitions.
 * Exceptional Developer skillfully captures the spirit and design intent of all comp details. Execution is pixel-perfect and any design decisions left open to interpretation are solved intentionally, are as seamless as if the designer had provided the solution, are handled gracefully, and enhance the overall design.
 
-
 #### PAIRING
 
 ##### Collaboration
 
 * Proficient  Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
 * Exceptional Pair collaboration and communication is exceptional, with the distribution of work being equal and balanced, and both partners experiencing a good working flow, able to handle stress, deadlines, issues with calm and focused demeanor.
-(feedback to me)
+
+#### Feedback from Melissa
+Amanda, I loved working with you. You bring an energy and enthusiasm to everything you do and it's wonderfully contagious. I love how detailed your thought process is and how much effort you put into making things look amazing and work in an efficient way. From the time we wrote our DTR, you were communicative and thoughtful. When we realized we weren't on the schedule we had planned (to be feature complete by Monday night), you were incredibly flexible and communicative about making a new schedule. I learned so much pairing with you and working through problems with you. You have a really strong handle on javascript/jQuery. When we were working through our features, your mind moves so quickly and you think really far down the road. For instance you were thinking about our global variables every step of the way and thinking about how every function impacted our goal to have less global variables. It's really fun to watch and pushes me to better as well. When you're implementing your code, I noticed that when you were white-boarding ideas or writing them in your notebook, you were able to organize all of your ideas and come up with a plan to attack the code. Keep white-boarding, writing, and talking! I seems like it helps you get unstuck and organize your solutions. Overall, I'm so proud of where our project ended up and how collaborative our work was. Thank you for being such an incredible partner!!!!
 
 #### 2DoBox
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/soytjan/2DoBox-pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 (description)
+#### Evaluation Comments
 
-(evaluation comments)
+- Comp is pretty spot on and stays true to original design. Comp is fully responsive. Minor details to be adjusted - mainly shrinking size of Completed button on mobile view. Opportunities for UX while hovering over buttons. It is not clear that filter buttons are buttons with current design choices.
+- Good naming on commits/branches.
+- YAY for using DTR! Glad to hear that there was good communication happening during project.
+- Good use of semantic elements in HTML and ARIA! Good spacing/indentation. 
+- Be sure to use semantic elements/ARIA for HTML rendered in JS file as well. Next time, use a screenreader to go through the page. The dynamically added cards are mostly unreadable by the screenreader. The contrast on the text of your filter buttons is not sufficient, per accessibility testing. 
+- CSS could use clean up. Was able to remove almost 30 declarations that were unused/not doing anything. Review cascading stylesheets and inheritance. Be sure to not assign values of display or inline on elements that are that by default. Outline-style is none by default.
+- Overall, JS file looks pretty good. It's pretty readable and easy to follow your logic. Naming is good and most functions are single responsibility. Nice use of array prototypes!
 
-(evaluation scores)
+Areas for refactoring below:
+- Unnecessary variable assigned on line 59. Just pass in Date.now() in line 60.
+- Unnecessary variables assigned on lines 82-83... though it can be argued that it improves readability VERY slightly. Could just pull values directly in condition in line 84.
+- prevCarriageReturnTitle & Body can be refactored into single function.
+- updateBody & updateTitle can be refactored into single function.
+- upvoteQuality & downvoteQuality can be refactored into single function.
 
-(feedback to me)
+#### Evaluation Scores
 
-#### (Project Name)
+#### Functional Expectations
+ 
+* Proficient  
 
-* [GitHub URL]()
-* [Original Assignment]()
+#### HTML
 
-(description)
+##### Accessibility
 
-(evaluation comments)
+* Proficient  
 
-(evaluation scores)
+##### Style
 
-(feedback to me)
+* Proficient  
+
+#### CSS
+
+##### Structure of Code
+
+* Advanced Beginner  
+* Proficient   
+
+##### Implementation
+
+* Advanced Beginner  
+* Proficient
+
+#### JAVASCRIPT
+
+##### Data Types
+
+* Proficient  
+
+##### Conditional Logic
+
+* Proficient  
+
+##### Functions & Scope
+
+* Advanced Beginner  
+* Proficient  
+
+##### Arrays
+
+* Advanced Beginner  
+* Proficient  
+
+##### Objects & Prototypes
+  
+* Proficient  
+
+##### DOM Manipulation
+ 
+* Proficient  
+
+##### Style
+
+* Advanced Beginner  
+* Proficient  
+
+#### GIT & GITHUB
+
+##### Git
+
+* Proficient  
+
+##### Github
+
+* Proficient  
+
+#### DESIGN
+
+##### Design Concepts
+
+* Proficient  
+
+#### PAIRING
+
+##### Collaboration
+
+* Proficient
 
 ## D: Professional Skills
 (Intro)
