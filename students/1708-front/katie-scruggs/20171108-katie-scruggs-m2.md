@@ -57,7 +57,7 @@ https://gist.github.com/katiescruggs/9cd1f3b62bb7f1248bd185a283533898
 #### Cold Outreach
 https://gist.github.com/katiescruggs/9342c426facbf7cb25d5356c89a9d111
 
-#### Agile Reflections
+#### Agile Reflections 
 https://gist.github.com/katiescruggs/f44a8a890c2750a069beffc752282f00
 
 ## E: Community Participation
