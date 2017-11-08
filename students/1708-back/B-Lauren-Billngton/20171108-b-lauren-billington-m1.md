@@ -6,7 +6,7 @@ What did you set out to accomplish this module? Were you successful?
 I set out to learn as much as I could.  I think I was successful with learning, and I also hope that I learned enough to move on to the next mod.
 
 What did you struggle most with this module? What did you learn from that struggle?
-Honestly, I struggled most with social relationships and some other emotional problems.  I guess I've learned that my fears about what others think of my takes up a lot of my cognitive resources and I need to address it while I'm a student so that I can be successful here and successful in a workplace.
+Honestly, I struggled most with social relationships and some other emotional problems.  I guess I've learned that my fears about what others think of me takes up a lot of my cognitive resources and I need to address it while I'm a student so that I can be successful here and successful again in a workplace. During the next Inning, I'm going to try and meet with my therapist on a weekly or biweekly basis so that I can try and deal with my issues as they arise.
 
 ## Projects
 
