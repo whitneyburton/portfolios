@@ -62,6 +62,30 @@ Number Guesser was our very first project in Module 1 and was done after our fir
 
 For our first static comp, we had to recreate a given comp using HTML and CSS. We weren't given any native files, assets, nor specific breakpoints. We had to respect the integrity of the original comp and started working with Flexbox to create a responsive layout to fit all screen sizes. We were able to take creative liberties with the copy, images, icons, and color palette.
 
+### Static Comp Challenge 2 
+
+* [GitHub Repo](https://github.com/soytjan/at-comp-challenge-2)
+* [GitHub Pages](https://soytjan.github.io/at-comp-challenge-2/)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+For our first static comp, we had to recreate a given comp using HTML and CSS. We weren't given any native files, assets, nor specific breakpoints. We had to respect the integrity of the original comp and started working with Flexbox to create a responsive layout to fit all screen sizes. We were able to take creative liberties with the copy, images, icons, and color palette.
+
+### Static Comp Challenge 2 
+
+* [GitHub Repo](https://github.com/soytjan/at-comp-challenge-3)
+* [GitHub Pages](https://soytjan.github.io/at-comp-challenge-3/)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+Our task was to recreate a given comp using only HTML and CSS. We were not provided with any assets, nor native files. We had creative license to change the copy, images, icons, and color palette. We needed to make a basic static site setup with index.html and styles.css. The site had to be responsive and we had to use a normalize instead of reset file in CSS. The site had to work across Firefox, Safari, and Chrome.
+
+### Static Comp Challenge 3 
+
+* [GitHub Repo](https://github.com/soytjan/at-comp-challenge-3)
+* [GitHub Pages](https://soytjan.github.io/at-comp-challenge-3/)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+Our task was to recreate a given comp using only HTML and CSS. We were not provided with any assets, nor native files. We had creative license to change the copy, images, icons, and color palette. We were required to make a basic static site setup with index.html and styles.css. The site also had to be responsive. 
+
 #### (Project Name)
 
 * [GitHub URL]()
@@ -77,7 +101,46 @@ For our first static comp, we had to recreate a given comp using HTML and CSS. W
 
 ### Projects
 
-(Intro)
+Over the course of the last 6 weeks, we had a total of 3 paired projects. All of the projects tested our HTML and CSS abilities, as well building on our JavaScript and jQuery abilities week by week. 
+
+#### Linked Lists
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me) 
+
+#### Idea Box
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### 2DoBox
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
 
 #### (Project Name)
 
