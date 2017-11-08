@@ -105,6 +105,8 @@ Evaluation by Robbie...
 
 #### Monocle 2.0 feat. Looking For
 
+PASSED
+
 * [GitHub URL FrontEnd](https://github.com/mschae16/monocle-2.0)
 * [GitHub URL BackEnd](https://github.com/mschae16/monocle-2.0-backend)
 * [Original Assignment](http://frontend.turing.io/projects/capstone.html)
