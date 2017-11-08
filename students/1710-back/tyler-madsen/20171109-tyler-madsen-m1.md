@@ -22,7 +22,7 @@ My least favorite projects were A Perilous Journey & Event Reporter. Though I un
 
 #### What did you learn from your independent projects?
 
-* I learned that I am capable of solving "complex" problems on my own. My past coding and logical/analytical experience shined through in my ability quickly understand and break down the problem at hand. I also learned that there is often an "Aha!" breakthrough moment when faced with a problem that almost always occurs, so I wouldn't let myself feel too down if I didn't understand something right away. I would either find help in solving the problem or move onto something else until I could.
+* I learned that I am capable of solving "complex" problems on my own and in a group. My past coding and logical/analytical experience shined through in my ability quickly understand and break down the problem at hand. I also learned that there is often an "Aha!" breakthrough moment when faced with a problem that almost always occurs, so I wouldn't let myself feel too down if I didn't understand something right away. I would either find help in solving the problem or move onto something else until I could.
 
 #### What did you learn from your paired projects?
 
