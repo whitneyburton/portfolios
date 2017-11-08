@@ -46,14 +46,52 @@ For each challenge, you’ll be given a static comp and asked to recreate it. Do
 
 (Intro)
 
-#### (Project Name)
+#### (Number Guesser)
 
 * [GitHub URL Number Guesser](https://github.com/goodalls/Number-Guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+Build a game where the user guesses a number between 1 and 100.
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### (Linked List)
+
 * [GitHub URL Linked List](https://github.com/goodalls/Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-Build a game where the user guesses a number between 1 and 100.
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+
+#### (Idea Box)
+
+* [GitHub URL Idea Box](https://github.com/goodalls/ideabox)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### (2 Do Box)
+
+* [GitHub URL 2 Do Box - Pivot](https://github.com/goodalls/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+(description)
 
 (evaluation comments)
 
