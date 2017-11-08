@@ -22,7 +22,7 @@ This module my main objective was to get a solid fundamental base in HTML, CSS, 
 ## B: Individual Work & Projects
 
 Over the course of the last module, we have had various individual projects in HTML, CSS, and JavaScript. 
-#### Number Guesser 
+### Number Guesser 
 
 * [GitHub URL](https://github.com/soytjan/number-guesser/)
 * [GitHub Pages](https://soytjan.github.io/number-guesser/)
@@ -30,13 +30,28 @@ Over the course of the last module, we have had various individual projects in H
 
 Number Guesser was our very first project in Module 1 and was done after our first week of HTML, CSS, and JavaScript. It's a game where users have to guess a number between a range of numbers of their choosing. 
 
-* Evaluation Comments
+#### Evaluation Comments
 - Comp recreation/design pretty spot on - very minor details with spacing to make it pixel perfect
 - Good use of error messaging
 - Good organization/indentation in HTML file
 - Nice job alphabetizing declarations. Work towards more organization in CSS stylesheet
 - Start working towards single responsibility in JS functions
 - Speaks confidently about decisions made in code. Understands local vs global scope and what code is doing
+
+#### Evaluation Scores
+##### Functional Expectations
+Proficient: Application meets all of the expectations of phase three.
+##### COMP RECREATION / DESIGN
+Advanced Beginner
+Proficient
+##### HTML
+Advanced Beginner
+Proficient
+##### CSS
+Advanced Beginner
+##### JS/jQuery
+Advanced Beginner
+Proficient
 
 #### (Project Name)
 
