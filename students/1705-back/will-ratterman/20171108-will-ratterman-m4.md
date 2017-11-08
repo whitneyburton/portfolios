@@ -55,19 +55,19 @@ How did you solve that challenge? What was your approach?
 - In that last case, one example was where the CSV for FBI crime data for 2013 for every city sorted by state. However the CSV row[0] Was the State name for the first city, then it was nil until the next state starts. To accomplish this I basically had this
 ```javascript
 prev_state = ""
-  current_state = false
-  CSV.foreach("./db/csvs/Crimes-By-State.csv", encoding: "bom|utf-8", :headers => true) do |row|
-    if row["State"].nil?
-      row["State"] = prev_state
-    end
-    if state.name.downcase == row["State"].downcase
-      current_state = true
-      prev_state = state.name
-    else
-      current_state = false
-      prev_state = ""
-    end
-  .....
+current_state = false
+CSV.foreach("./db/csvs/Crimes-By-State.csv", encoding: "bom|utf-8", :headers => true) do |row|
+  if row["State"].nil?
+    row["State"] = prev_state
+  end
+  if state.name.downcase == row["State"].downcase
+    current_state = true
+    prev_state = state.name
+  else
+    current_state = false
+    prev_state = ""
+  end
+.....
 ```
 What did you like the most about the challenge?
 - It just opens everything up, because there are so many free data sets that companies/organizations record. Converting to CSVs and writing smart enough alogrithms opens everything up!
