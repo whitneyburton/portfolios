@@ -74,6 +74,7 @@ Clone down and setup/install an open source project, find an issue and fix it. G
 ----
 
 ### Capstone Project: School Finder
+- PASSED
 
 * [Original Assignment](http://frontend.turing.io/projects/capstone.html)
 * [GitHub Repo](https://github.com/sljohnson32/school-finder)
