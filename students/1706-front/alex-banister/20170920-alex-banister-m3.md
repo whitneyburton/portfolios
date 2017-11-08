@@ -1,5 +1,5 @@
 
-# Alex Banister - M2 Portfolio
+# Alex Banister - M3 Portfolio
 
 ## Areas of Emphasis
 
