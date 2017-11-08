@@ -109,6 +109,7 @@ Build a game where the user guesses a number between 1 and 100.
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
+  - [gist for stregths and reflection](https://gist.github.com/goodalls/318164363f1d6aa8f11dfec5227e9847)
 ## E: Community Participation
 
 ### Playing a Part
