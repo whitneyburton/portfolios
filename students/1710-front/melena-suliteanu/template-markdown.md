@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Melena Suliteanu - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I wanted to build the base of knowledge I would need to continue through the program: I was especially excited about learning to use javascript to make things interactive. With soft skills I wanted to learn how to pair effectively.
 
 ## Rubric Scores
 
@@ -21,18 +21,43 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
 
-#### (Project Name)
+#### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/farmermel/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+This project was my first: the goal was to make a number guessing game where the user could submit guesses to match a randomly generated number. On win the range is updated to be 10 larger in either direction and the user can also set a preferred range. It is written in JavaScript.
 
-(evaluation comments)
+##### Evaluation comments:
+  Work on syntax and spacing consistency
+  Liked the fun picture injection
+  Maybe add comments to CSS for better organization
+  Be more verbose and explicit when naming functions and variables
 
-(evaluation scores)
+##### Evaluation Scores: 
+  ###### Functional Expectations
+
+    Proficient: Application meets all of the expectations of phase three.
+    Exceptional: Application meets all of the expectations of phase three and one or more of the extensions.
+    
+  ###### COMP RECREATION / DESIGN
+
+    Advanced Beginner
+    Proficient
+    
+  ###### HTML
+
+    Advanced Beginner
+    
+  ###### CSS
+
+    Advanced Beginner
+    Proficient
+    
+   ###### JS/jQuery
+
+    Advanced Beginner
 
 ## C: Group Work & Projects
 
