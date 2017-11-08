@@ -63,14 +63,14 @@ This project was my first: the goal was to make a number guessing game where the
 
 ### Projects
 
-(Intro)
+To further build on coding skills while also practicing pairing we had a number of paired projects.
 
-#### (Project Name)
+#### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/valentinovtino/mod1-linked-list)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+This project is a bookmarking application for websites. Users can create bookmarks with a title and a link, and delete them. They are not stored. The project is written with jQuery.
 
 (evaluation comments)
 
