@@ -6,11 +6,22 @@ What do you want to focus on this inning? What do you hope to accomplish by grad
 
 Learning how to program well in a new language. I hope to have created relationships in the Ed Tech community.
 
-## Assessment
+## Assessments
+
+### Word Watch
+
+The JavaScript assessment was a pass for me. The biggest technical challenge was making sure there were no race conditions and making sure the deferred objects were handled correctly. I liked the way that it makes you think about async actions. I leveraged the techniques I'd learned during Quantified Self to make sure stuff only happened after all the deferred objects were resolved.
+
+### Technical Communication Assessment
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
 
-The final outcome of this Mod was a contingent pass. My biggest technical challenge was trying to write the Capstone in the JS stack. I really liked how it challenged my way of thinking about everything, like structure and the flow of information. My approach to solving the problem involved a lot of tutorials and aggregating information. I mostly learned the importance of chunking out problems.
+* What was your biggest technical challenge?
+* What did you like the most about the challenge?
+* How did you solve that challenge? What was your approach?
+* What did you learn?
+
+The Technical Communication Assessment was also a pass, and a great experience as well. As for technical challenges, the only one we were really presented with was the debugging challenge. My favorite thing about that was that I felt it was one of my strong points. My approach to this challenge was to start pulling all my known variables, tried to find the patterns, and then finding the difference. 
 
 ## Quantified Self
 
