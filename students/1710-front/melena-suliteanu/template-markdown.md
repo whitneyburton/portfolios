@@ -28,6 +28,10 @@ I did four solo projects this module. One JavaScript project (number guesser) an
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 This project was my first: the goal was to make a number guessing game where the user could submit guesses to match a randomly generated number. On win the range is updated to be 10 larger in either direction and the user can also set a preferred range. It is written in JavaScript.
+Looking back I would change:
+  how clean the javascript is
+  it would have been fun to add more functionality
+  I think the UI is a little confusing when you win and the range changes instantly without any kind of warning or explanation 
 
 ##### Evaluation comments:
   Work on syntax and spacing consistency
