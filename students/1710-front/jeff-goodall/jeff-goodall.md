@@ -23,10 +23,14 @@ passed
 
 
 
-#### (Static Comp 1)
+#### (Static Comp 1,2,3)
 
-* [GitHub URL](https://github.com/goodalls/jg-comp-challenge-1)
+* [GitHub URL Static Comp 1](https://github.com/goodalls/jg-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+* [GitHub URL Static Comp 2](https://github.com/goodalls/JG-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+* [GitHub URL Static Comp 3](https://github.com/goodalls/JG-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 For each challenge, you’ll be given a static comp and asked to recreate it. Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design.
 
@@ -44,8 +48,10 @@ For each challenge, you’ll be given a static comp and asked to recreate it. Do
 
 #### (Project Name)
 
-* [GitHub URL](https://github.com/goodalls/Number-Guesser)
+* [GitHub URL Number Guesser](https://github.com/goodalls/Number-Guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+* [GitHub URL Linked List](https://github.com/goodalls/Linked-List)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 Build a game where the user guesses a number between 1 and 100.
 
