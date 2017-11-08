@@ -10,6 +10,7 @@ This inning I was focused on finishing Turing strong, with a Capstone that I cou
 ## Assessment
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
+N/A
 
 * What was your biggest technical challenge?
 > Pace myself and preventing my brain to overcome my will with unconfident thoughts.
@@ -40,9 +41,8 @@ Include a reflection answering the following questions:
 
 * What are three technical concepts you learned during this project?
 > How to deal with async code.
-> Ajax request in express
+> Ajax request in express.
 > injecting data into the DOM.
-
 
 * If you could change one thing about your technical approach, what would it be and why?
 > I would've look up a tutorial to learn a bit more up front.
@@ -89,7 +89,7 @@ I'm going to bring my grit, will power, enthusiasm and work ethics to any job I 
 
 ## Professional Development
 
-* Link to 30-day post-grad job search action plan using [Post grad plan](https://gist.github.com/chantal66/0672e33f69ae71538da76100e512ea00):
+* Link to 30-day post-grad job search action plan using [post grad plan](https://gist.github.com/chantal66/0672e33f69ae71538da76100e512ea00):
 
 * Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
 * Prepare and share your Turing story during week six.
