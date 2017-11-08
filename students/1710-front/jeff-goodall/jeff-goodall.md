@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goal was to learn as much as I could. I started off hesitant that it would difficult to "teach this old dog new tricks" but I was able to find myself fitting in pretty well with my class.
 
 ## Rubric Scores
 
