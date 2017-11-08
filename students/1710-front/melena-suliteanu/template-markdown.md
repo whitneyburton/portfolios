@@ -20,7 +20,7 @@ I wanted to build the base of knowledge I would need to continue through the pro
 
 
 ## B: Individual Work & Projects
-
+I did four solo projects this module. One JavaScript project (number guesser) and three static composition challenges. I enjoyed working by myself to improve on my CSS because it really gave me the space to struggle with details on my own.
 
 #### Number Guesser
 
@@ -82,6 +82,8 @@ This project is the final static composition challenge for Module 1 at Turing. T
 
 ## C: Group Work & Projects
 
+There were three group projects this module. I enjoyed the pair projects as a way to learn how to code collaboratively with another person. This is an important skill to have as a programmer and having that practice helped me learn a lot. I also enjoyed the opportunity to learn from and teach my peers.
+
 ### Projects
 
 To further build on coding skills while also practicing pairing we had a number of paired projects.
@@ -132,8 +134,6 @@ This project is a bookmarking application for websites. Users can create bookmar
   ###### Pairing/Collaboration
 
     Proficient
-
-(feedback to me)
 
 
 #### Idea Box
@@ -232,7 +232,6 @@ This project is a site where you can enter an idea title and body and save it. T
      Proficient Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback          and implement changes to positively adapt the working relationship and keep the project on track. Can effectively              implement tactics to support their partner’s learning and project goals, while also honoring their own personal                learning and project goals, should the two be different or at different levels due to skill delta.
      Exceptional Pair collaboration and communication is exceptional, with the distribution of work being equal and balanced,         and both partners experiencing a good working flow, able to handle stress, deadlines, issues with calm and focused            demeanor.
 
-(feedback to me)
 
 #### 2Do Box
 
@@ -346,23 +345,49 @@ This project was a paired project where we inherited another team's Idea Box and
 
       Proficient
 
-(feedback to me)
 
 ## D: Professional Skills
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/Growth_Mindset_Facilitator_Guide.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I got a lot out of this gear up. Having a growth mindset is not something I was introduced to until college. It's been something I struggle with since most of my education felt like it was valuing inherent talents. I really appreciated the reminder that skills are learned and grown with effort and an imperfect first attempt doesn't mean I will never learn it. I remind myself of this frequently, and I also enjoy the culture that this mindset creates.
+
+#### Dealing with Difference
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/introversion.markdown)
+
+My introversion is something I've been aware of and comfortable with for a long time. It was good to be reminded that I also have some extroverted tendencies that have only been growing as I get older. This exercise was an interesting examination of how much I've shifted towards being an ambivert. I also always enjoy hearing about how true extroverts experience the world because it is quite different from my experience.
+
+#### Getting Better at Difficult Things
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/getting_better_at_difficult_things.markdown)
+
+This gear up was really helpful in being aware of cognitive load and how to minimize it. Getting things to muscle memory is a really effective method for reducing the effort that more difficult things require. When you've got to focus on every component of a project really hard the project is much harder than if pieces were automatic. This is an extremely helpful tip to have for programming since there are so many base things to know that could make bigger projects easier.
+
+#### Code: Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/code_debugging_the_gender_gap.markdown)
+
+I don't have favorites but if I did this would be my favorite gear up. It was really wonderful to know that everyone was getting on the same page about the realities of these issues in the tech world. At the same time it was sobering to see what I'll be coming up against. As a dedicated feminist I realized that it will be hard for me to just accept these things, and also it can be damaging to stand up. I came away glad that we are attempting to put out a group of developers that is aware of the problem and willing to confront it.
+
+#### Code: Case Study with Mod 4: Social Movements in Tech
+
+In this group we talked about how to make a difference in social movements using tech. I enjoyed hearing all of the Mod 4 people share the ideas they had for the topics they were interested in. I spent my research time looking into how tech can positively impact the sustainibility of agriculture. I think there is a lot of space for improvement in this area but it is one of the reasons I wanted to get into coding so it was nice to continue thinking about it now that I have actually developed some skills.
+
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+My class: I think I know most of the people in my cohort pretty well, and I've developed some wonderful friendships. I asked for help and tried to step up helping other people when they needed it as well.
+
+Posse: I went to my posse every week and got to know some people in other mods/cohorts. I really enjoyed that time and I look forward to continuing to show up and meet new people. We also had some cross-posse discussions which was great to meet even more new people.
+
+I also went to every talk on Friday mornings and spoke with other students and speakers.
 
 ------------------
 
