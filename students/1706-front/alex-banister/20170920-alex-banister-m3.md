@@ -10,14 +10,14 @@ Dive into full apps that interact with the user and the world and actually do th
 * **A: End-of-Module Assessment**: PASS
 * **B: Individual Work & Projects**: PASS
 * **C: Group Work & Projects**: PASS
-* **D: Professional Skills**: Yes
-* **E: Community Participation**: Yes
+* **D: Community Participation**: Yes
 
 -----------------------
 
 ## A: End of Module Assessment
 
 PASSED
+* [GitHub URL](https://github.com/alexbanister/mod3-final)
 
 ## B: Individual Work & Projects
 
