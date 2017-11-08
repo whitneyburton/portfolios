@@ -10,7 +10,8 @@ Dive into full apps that interact with the user and the world and actually do th
 * **A: End-of-Module Assessment**: PASS
 * **B: Individual Work & Projects**: PASS
 * **C: Group Work & Projects**: PASS
-* **D: Community Participation**: Yes
+* **D: Professional Skills**: Yes
+* **E: Community Participation**: Yes
 
 -----------------------
 
@@ -156,8 +157,13 @@ The output from ESLint shows…
 
 4 - Developer(s) make many small, atomic commits that clearly document the evolution of the application and do not contain irrelevant changesets that aren’t reflected by the commit message. Commit messages are concise and consistent in syntax and tense. Developer(s) effectively use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing directly to master. There are no instances where the developer(s) have committed source code that should be .gitignored. There are no instances of “dead” or commented-out code and debugger statements like console.log.
 
+## D: Professional Skills
 
-## D: Community Participation
+### Turing Portfolio and Resume
+
+* [Portfolio with Resume](https://www.turing.io/alumni/alex-banister)
+
+## E: Community Participation
 
 ### Playing a Part
 I try to spend as much time as I can helping my fellow classmates and making myself available for pairing and rubber ducking. I've paired often with mod 2 students to assist them and spend most of posses working with students across mods and programs working to solve code problems and learn from each other.
