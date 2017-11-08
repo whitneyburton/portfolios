@@ -34,12 +34,9 @@
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
 > **[Cloney Island Sprint 1](https://shelter-in-need.herokuapp.com)**
->* \<Description>
->* \<Takeaways, your experience>
+>* I started to get burnt out pretty bad here
 
 > **[Cloney Island Sprint 2](https://trail-upv2.herokuapp.com/)**
->* \<Description>
->* \<Takeaways, your experience>
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
