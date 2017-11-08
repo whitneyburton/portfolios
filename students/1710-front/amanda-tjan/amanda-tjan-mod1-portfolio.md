@@ -60,7 +60,7 @@ Number Guesser was our very first project in Module 1 and was done after our fir
 * [GitHub Pages](https://soytjan.github.io/at-comp-challenge-1/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-For our first static comp, we had to recreate a given comp using HTML and CSS. We had to respect the integrity of the original comp and started working with Flexbox to create a responsive layout to fit all screen sizes. We were able to take creative liberties with the copy, images, icons, and color palette.
+For our first static comp, we had to recreate a given comp using HTML and CSS. We weren't given any native files, assets, nor specific breakpoints. We had to respect the integrity of the original comp and started working with Flexbox to create a responsive layout to fit all screen sizes. We were able to take creative liberties with the copy, images, icons, and color palette.
 
 #### (Project Name)
 
