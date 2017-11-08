@@ -87,4 +87,4 @@ https://gist.github.com/bretfunk/ff3a65bc4d748a66f651e0f0cac3be19
 * Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
 I LOVE talking about myself so this will be no issue :)
 * Prepare and share your Turing story during week six.
-Roger.  
+Here is a link to my rough draft: https://gist.github.com/bretfunk/63440b31e6643c1b5c81bba134886326  
