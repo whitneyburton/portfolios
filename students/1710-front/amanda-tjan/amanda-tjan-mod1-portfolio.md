@@ -149,7 +149,8 @@ Overall I'd say our project did very well! You're great with your attention to d
 * [GitHub URL](https://github.com/wagasky/ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+With IdeaBox, we were first introduced to JSON and localStorage. We had to create an app that created new ideas that persisted when we reloaded the page. We also implemented a search bar function that filtered the ideas.
+
 #### Evaluation Comments -- Evaluated by Pam
 - Majority of functionality met! No error handling - can create blank cards with no title and/or body.
 - Good naming and convetions followed for Git/Github. And YAY for using Waffle to stay on top of issues!
@@ -244,10 +245,11 @@ Amanda, I loved working with you. You bring an energy and enthusiasm to everythi
 
 #### 2DoBox
 
+For 2DoBox, we were given another group's IdeaBox from the week prior, and we were told to refactor it and add in new features. This was an interesting exercise so that we could learn how to read other people's code and it was also a good exercise in learning how to dry up code. We also got more practice with localStorage and jQuery. 
+
 * [GitHub URL](https://github.com/soytjan/2DoBox-pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
 #### Evaluation Comments
 
 - Comp is pretty spot on and stays true to original design. Comp is fully responsive. Minor details to be adjusted - mainly shrinking size of Completed button on mobile view. Opportunities for UX while hovering over buttons. It is not clear that filter buttons are buttons with current design choices.
@@ -349,12 +351,18 @@ Areas for refactoring below:
 * Proficient
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
-#### (Session Name)
 
-* [GitHub URL]()
+* Growth Mindset: I think that this session was a good reminder of how we need to approach Turing and any sort of obstacles. We don't want to close ourselves off to potential possibilities just because we think that we can't do soemthing. It's important to think about the process, and not necessarily just someone's intelligence or ability. Also it's good to feel comfortable being uncomfortable. 
+
+* Working Styles: I have always been a very extroverted person, although I do have some introverted tendencies. It was interesting to talk about different working styles with people who identify as introverts, and see how sometimes introverts and extroverts understand each other differently in the workplace. When an extrovert might just trying to be friendly, that might feeling overwhelming for a person who is introverted and needs more time to themselves. 
+
+* Getting Better at Difficult Things: This Gear Up was interesting because we talked about how it's important that we don't burn through our cognitive resources. Also it emphasized the importance of our emotional mindset too. The article we read in that session, reminded me a lot of what I went through when I was learning Madrid in Spain. Sometimes our biggest enemy can be ourselves when we aren't gentle with the fact that learning new things takes time. 
+
+* Storytelling and Strengths: This was a really insightful Gear Up for me because I purposely tried to find two people that I didn't know as much about. We were able to have a really genuine and honest talk about our pasts and what brought us to Turing. I have felt closer to both the people I spoke to, and I think that is also reflected in our relationships in and out of class. 
+
+* Debugging the Gender Gap: I really enjoyed watching this documentary and seeing what to expect in the workforce when we finish Turing. I know that the documentary is a few years old, but I still felt really disappointed that this is our reality as women in tech. I left the Gear Up with mixed emotions, because I felt both motivated to keep paving the way for any young girls that want to be developers, but also really sad about the fact that I probably will face some sort of discrimination as a female developer. 
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
@@ -362,9 +370,7 @@ Areas for refactoring below:
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
-
-------------------
+I've had 2+ pairing sessions a week, and I go to Joan Clarke meetings in the morning. I've also gone to some of the Health and Wellness lunches when I haven't had pairing sessions. Also, I am part of TAAAP which is how I have met some of the TAAAP alum and other TAAAPers in other mods. Also on Thursdays, I go to Brother's with other Turing students for some time away from code and $2 burgers. 
 
 ## Final Review
 
@@ -374,4 +380,4 @@ Areas for refactoring below:
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
