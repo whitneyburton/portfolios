@@ -6,7 +6,7 @@
 
 * This module I set out to become proficient in Ruby and build solid foundational backend programming skills that allow me to quickly learn new technologies/languages that I will undoubtedly encounter during a software engineering career. I believe I have been quite successful in accomplishing this goal. There is obviously more I have to learn, but for having only coded in Ruby for a couple months, I feel quite confident in my skills, as well as my ability to continue to grow and build upon what I have already learned.
 
-I also set out to build a community that will help me to achieve me goals and set myself up for getting a job post-Turing. While I feel like I have started building a solid network within the Turing student body and have joined a student group that I enjoy being a part of (Pahlka), I can work harder on building a better network of alumni and other mentors who are professionals in the industry. This is why I joined the "Cold Outreach" week 5 gear up, in order to develop the skills to do so further.
+* I also set out to build a community that will help me to achieve me goals and set myself up for getting a job post-Turing. While I feel like I have started building a solid network within the Turing student body and have joined a student group that I enjoy being a part of (Pahlka), I can work harder on building a better network of alumni and other mentors who are professionals in the industry. This is why I joined the "Cold Outreach" week 5 gear up, in order to develop the skills to do so further.
 
 #### What did you struggle most with this module? What did you learn from that struggle?
 
@@ -18,7 +18,7 @@ I also set out to build a community that will help me to achieve me goals and se
 
 * My favorite projects were Black Thursday and Enigma. I enjoyed Black Thursday because it is the most complex problem with the most moving parts that we were tasked with. Black Thursday also seems to be the most real-world relevant project we have done so far. I enjoyed Enigma simply because building an encryption machine was a fun task to accomplish.
 
-My least favorite projects were A Perilous Journey & Event Reporter. Though I understand it's usefulness for learning linked lists, which are a common interview question, linked lists seem like an outdated practice that the industry is holding onto for the sake of holding onto it. While I enjoyed Event Reporter for teaching me the basics of ERB and File I/O, I also disliked it simply because it is the project I struggled the most with.
+* My least favorite projects were A Perilous Journey & Event Reporter. Though I understand it's usefulness for learning linked lists, which are a common interview question, linked lists seem like an outdated practice that the industry is holding onto for the sake of holding onto it. While I enjoyed Event Reporter for teaching me the basics of ERB and File I/O, I also disliked it simply because it is the project I struggled the most with.
 
 #### What did you learn from your independent projects?
 
