@@ -71,5 +71,9 @@ I worked to consistently pair and help students in other mods. This included con
 ## Professional Development
 
 * Link to 30-day post-grad job search action plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
+https://gist.github.com/mdevoe12/383f4ee118592176c43a9b4e87082d3a
+
 * Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
+
 * Prepare and share your Turing story during week six.
