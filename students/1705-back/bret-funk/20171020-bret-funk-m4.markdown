@@ -3,34 +3,34 @@
 ## Area of Emphasis
 
 What do you want to focus on this inning? What do you hope to accomplish by graduation?
-Javascript, Jquery, React, Node. and other frontend skills.
+- Javascript, Jquery, React, Node. and other frontend skills.
 
 ## Assessment
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
-pass
+- pass
 
 * What was your biggest technical challenge?
-Capstone.  I had to learn react, deal with two different apps, and work with different file formats, etc.
+- Capstone.  I had to learn react, deal with two different apps, and work with different file formats, etc.
 
 * What did you like the most about the challenge?
-It's fun that we feel that we can learn anything at this point.
+- It's fun that we feel that we can learn anything at this point.
 
 * How did you solve that challenge? What was your approach?
-With my capstone I tried to learn as much as I could from docs, other people at Turing, etc.  I didn't solve all of the challenges so I think I felt short there but I have something that I am proud of and doesn't look like shit (quite an improvement for a backend student!).  
+- With my capstone I tried to learn as much as I could from docs, other people at Turing, etc.  I didn't solve all of the challenges so I think I felt short there but I have something that I am proud of and doesn't look like shit (quite an improvement for a backend student!).  
 
 * What did you learn?
-We really can learn anything at this point.  We still have to put in the work but the foundation of our technical skills is strong.
+- We really can learn anything at this point.  We still have to put in the work but the foundation of our technical skills is strong.
 
 ## Quantified Self
 
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
-It ended up being getting everything to work with the github viewer and the heroku seeding process.  
+- Getting everything to work with the github viewer and the heroku seeding process.  
 
 * How did you solve that challenge? What was your approach?
-Both were never really solved but both Will R and I checked the docs and kept trying new ideas.  In the end the problems were not solved.
+- Both Will R and I checked the docs and kept trying new ideas.
 
 * What did you like the most about the challenge?
 It seemed like most of these issues were things that would be useful in the future, especially learning to seed on heroku with a node backend.
@@ -63,7 +63,7 @@ React, dealing with a seperate front end and back end, and doing authenticated A
 ## Feedback
 
 What's one piece of meaningful feedback you received during B4? What have you done or going to do regarding this feedback?
-I don't know how to answer this question.  I guess when the instructors were upset at the whole class over QS I tried to think about it from their perspective and not just the students perspective.  
+When the instructors were upset at the class over QS I tried to think about it from their perspective and not just the students perspective.  
 
 ## Gear Up
 
@@ -73,7 +73,7 @@ Planning a gear up was interesting.  I know that our group often had conflicting
 ## Community Involvement
 
 How else did you give back to the community this inning? Why do you think this is a required part of the Turing experience?
-I helped folks in my posse.  I helped folks in Mod4.  I am taking unused cell phones of my classmates and handing them out to poor folks in Ecuador when I leave right after Turing.  I also did the code fair even though I didn't want to be because I thought it would be good to show the lower Mod students some of the cool things you can do with Golang.
+I helped folks in my posse.  I helped folks in Mod4.  I am taking unused cell phones of my classmates and handing them out to poor folks in Ecuador when I leave right after Turing.  I also did the code fair even though I didn't want to be because I thought it would be good to show the lower Mod students some of the cool things you can do with Golang.  I am also doing demo night even though I think my app isn't that impressive.  
 
 ## Going Forward
 
