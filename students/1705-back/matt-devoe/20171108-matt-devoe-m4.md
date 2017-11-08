@@ -15,6 +15,8 @@ The largest technical hurdle entering Mod 4 was the shift from Ruby/Rails to Jav
 
 As far as what I learned specifically, there's a ton. Everything from basic syntax, to React, to Node, jQuery, Express, etc. I'm still at a basic level, but I feel equipped to dive deeper.
 
+Out of the two assessments, the Javascript challenge was the more difficult. Due to our Hackathon project and attempting to finish Quanitified Self on time (I took the Express rebuild of the API), I did not touch client-side Javascript for nearly two weeks prior to the assessment. This backfired as I felt incredibly rusty going into the final Javascript assessment. I was able to pass the assessment, but I felt that I should not have struggled as much as I did.
+
 
 ## Quantified Self
 
