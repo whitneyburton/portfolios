@@ -40,18 +40,18 @@ Number Guesser was our very first project in Module 1 and was done after our fir
 
 #### Evaluation Scores
 ##### Functional Expectations
-Proficient: Application meets all of the expectations of phase three.
+- Proficient: Application meets all of the expectations of phase three.
 ##### COMP RECREATION / DESIGN
-Advanced Beginner
-Proficient
+- Advanced Beginner
+- Proficient
 ##### HTML
-Advanced Beginner
-Proficient
+- Advanced Beginner
+- Proficient
 ##### CSS
-Advanced Beginner
+- Advanced Beginner
 ##### JS/jQuery
-Advanced Beginner
-Proficient
+- Advanced Beginner
+- Proficient
 
 #### (Project Name)
 
