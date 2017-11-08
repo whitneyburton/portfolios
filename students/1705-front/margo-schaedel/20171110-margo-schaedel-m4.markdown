@@ -128,7 +128,7 @@ Partners: Christie Lynam, Jonathan Beckman, Nick Svetnicka
 
 * [GitHub URL](https://github.com/christielynam/openfoodnetwork)
 * [Original Assignment](http://frontend.turing.io/projects/house-of-vars.html)
-* [Blog Post]()
+* [Blog Post](https://medium.com/@margoschaedel/losing-my-open-source-virginity-e8bddee5512)
 
 #### Monocle 2.0 feat. Looking For
 
