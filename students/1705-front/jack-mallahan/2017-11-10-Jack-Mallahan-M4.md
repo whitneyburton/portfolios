@@ -173,8 +173,9 @@ The following set of points are distributed at the discretion of the instructor.
 
 * [GitHub URL](https://github.com/WikiEducationFoundation/WikiEduDashboard)
 * [Original Assignment](http://frontend.turing.io/projects/house-of-vars.html)
+* [Blog Post](https://medium.com/@jackmallahan/jumping-into-an-open-source-project-c2009a00f39)
 
-#### Shindig
+#### Shindig PASS
 
 * [GitHub URL](https://github.com/jackmallahan/shindig)
 * [Original Assignment](http://frontend.turing.io/projects/capstone.html)
