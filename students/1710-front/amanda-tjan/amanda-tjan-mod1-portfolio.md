@@ -24,7 +24,7 @@ This module my main objective was to get a solid fundamental base in HTML, CSS, 
 Over the course of the last module, we have had various individual projects in HTML, CSS, and JavaScript. 
 ### Number Guesser 
 
-* [GitHub URL](https://github.com/soytjan/number-guesser/)
+* [GitHub Repo](https://github.com/soytjan/number-guesser/)
 * [GitHub Pages](https://soytjan.github.io/number-guesser/)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
