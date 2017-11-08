@@ -1,6 +1,6 @@
 First Last - M1 Portfolio
 
-Areas of Emphasis
+## Areas of Emphasis
 
 What did you set out to accomplish this module? Were you successful?
 
@@ -10,7 +10,7 @@ What did you struggle most with this module? What did you learn from that strugg
 
 I think I struggled the most with Battleship due to the fact that there was no guidance on how to going through the planning of the project. But I learned a huge lesson in that project and thats the value of really thinking through a roadmap and creating evaluation checkpoints to see if I need to redesign my plan, to continue, or to refactor. Making these conscious decisions early on would have saved me on that project. What was valuable in this lesson is that the design planning is not something that is taught in our class, only mentioned briefly in the battleship introduction. Design decisions are extremely important in my future career development. Functional code is one thing, but you always have to account for the fact that something you write may have be looked at and updated by another developer who may not have communication with you. So design and planning is incredibly important and I learned that from battleship. And I believe that I used what I learned in planning a road map for black thursday.
 
-Projects
+## Projects
 
 What were your favorite projects this module? Least favorite? Why?
 Perilous journey was my favorite. I know that Linked Lists is a foundational computer science concept and although I didn't like it while I was working on it, I loved it after I completed it. It also solidified my knowledge in traversing through nodes, using until loops, and saving information in variables for later use(which helped in BlackThursday).
@@ -25,7 +25,7 @@ What did you learn from your paired projects?
 I learned a lot from my paired projects. Each individual I paired with was an opportunity to learn about different working, communication, and feedback styles. I learned the value of making a roadmap and schedule of code that I have to be accountable towards.
 
 
-Community
+## Community
 
 What was your favorite Gear Up? Least favorite? Why?
 Favorite gear up was Story Telling as it allowed me to engage with people and learn more about them and where they come from. I think my least favorite was growth mindset, and only because I had already done that gear up when I did module 1 originally.
@@ -38,13 +38,22 @@ What would you like to do to contribute next module?
 
 Next module, I'd like to be able to assist Module 1 students with their projects and provide pairing opportunities. I am very grateful for the opportunity for older mods to pair and tutor me so if anything I'd like to give that back.
 
-Self-Assessment Scores
+## Self-Assessment Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-Category	Score
-Individual Projects	2/3
-Group Projects	3
-Professional Development	4
-Community	4
-Pentathlon	3
+Category	Score  
+Individual Projects	2/3  
+Group Projects	3  
+Professional Development	4  
+Community	4  
+Pentathlon	3  
+
+## Instructor Scores  
+
+Category	Score  
+Individual Projects	2  
+Group Projects	3  
+Professional Development	3  
+Community	 3  
+Pentathlon	3  

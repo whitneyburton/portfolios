@@ -99,6 +99,8 @@ I gave a lightning talk about Imposters Syndrome and marketed the Imposters Lunc
 
 ## Final Review
 
+Promoted
+
 > #### Notes ( Leave blank for reviewers )
 
 > #### Outcome ( Leave blank for reviewers )

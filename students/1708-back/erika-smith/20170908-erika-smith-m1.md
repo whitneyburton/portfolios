@@ -1,4 +1,4 @@
-# First Last - M1 Portfolio
+# Erika Smith - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -57,3 +57,14 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Professional Development** |   4   |
 | **Community**                |   4   |
 | **Pentathlon**               |   4   |
+
+
+## Instructor Score  
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   4   |
+| **Professional Development** |   3   |
+| **Community**                |   4   |
+| **Pentathlon**               |   3   |

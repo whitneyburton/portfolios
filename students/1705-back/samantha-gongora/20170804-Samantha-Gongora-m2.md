@@ -107,4 +107,4 @@ PROMOTED
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promoted

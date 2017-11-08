@@ -27,16 +27,16 @@
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](https://github.com/iamchrissmith/rales_engine)** 
+> **[Rales Engine](https://github.com/iamchrissmith/rales_engine)**
 >* Build an internal API in Rails <[Spec](http://backend.turing.io/module3/projects/rails_engine)>
 >* Great experience working with my partner.  We exceeded all expectations.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Uncorked](https://github.com/iamchrissmith/uncorked)** 
->* Clone UnTappd's functionality for Wines. 
+> **[Uncorked](https://github.com/iamchrissmith/uncorked)**
+>* Clone UnTappd's functionality for Wines.
 >* This was a challenging project.  We definitely set out to do more than we could accomplish in the two weeks.  It was fun working with the StreamIO API to build the feed.
 
-> **[AirBnB Clone](https://github.com/iamchrissmith/air_bnb_clone)** 
+> **[AirBnB Clone](https://github.com/iamchrissmith/air_bnb_clone)**
 >* We inherited a partially built clone of AirBnB.
 >* It was very fun getting to start with a fairly solid existing code base and build up from there.  
 
@@ -85,12 +85,12 @@ This was an insightful gear up in thinking about how to be an ally and challengi
 
 #### **Playing a Part**
 
-> I have mentored/paired with several students throughout the mod. I also helped represent Turing at blockchain hackathon. 
+> I have mentored/paired with several students throughout the mod. I also helped represent Turing at blockchain hackathon.
 
 ------------------
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted

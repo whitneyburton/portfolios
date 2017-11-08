@@ -23,7 +23,7 @@ Get comfortable consuming and producing APIs, building data analytics through Ac
 
 Description
 
-- Consume the Github API to build a simplified version of the website's UI while using the OAuth protocol to authenticate our users with Github and using BDD and TDD. 
+- Consume the Github API to build a simplified version of the website's UI while using the OAuth protocol to authenticate our users with Github and using BDD and TDD.
 - Stack: Ruby on Rails, Omniauth gem, Github API, SASS, CSS, HTML
 
 Takeaways
@@ -31,12 +31,12 @@ Takeaways
 - Consuming a third-party API
 - OAuth protocol
 - Use of BDD to drive development
-- Learning how to use Faraday 
+- Learning how to use Faraday
 - Learning how to use Figaro
 
 ## B: Group Work & Projects
 
-**[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+**[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 
 Description
 
@@ -52,7 +52,7 @@ Takeaways
 - Test POST/PUT/DELETE on Postman too, not just through RSpec
 
 **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-**[Cloney Island Sprint 1](https://github.com/squeemishly/cloney-island)** 
+**[Cloney Island Sprint 1](https://github.com/squeemishly/cloney-island)**
 
 Description
 
@@ -66,7 +66,7 @@ Takeaways
 - First attempt at implementing Action Cable
 - Building a chat feature for private conversations
 
-**[Cloney Island Sprint 2](https://github.com/squeemishly/dark_clout)** 
+**[Cloney Island Sprint 2](https://github.com/squeemishly/dark_clout)**
 
 Description
 
@@ -100,7 +100,7 @@ Rales Engine evaluation comments:
 - 'Further Testing' of documentation was a bit confusing because of the order of the indications. Change order.
 - The serializer formats the output of the API. Instead of dividing by 100 and rounding in the SQL query, do this format change in the serializer.
 - Move views/queries that are common between all models to ApplicationController or ActionController, eg. Random
-- Take time to change our SQL queries to ActiveRecord to get the practice. 
+- Take time to change our SQL queries to ActiveRecord to get the practice.
 
 Cloney Island Sprint 1 evaluation comments (specific to my user story - Live messaging with ActionCable):
 
@@ -149,6 +149,6 @@ Most of the tutorials I found didn't applied to what I wanted to build so I thin
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted

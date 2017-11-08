@@ -22,11 +22,19 @@ A submission summarizes your accomplishments in these key areas:
 
 ### Module 1 (Back-end)
 
-1. Fork and clone this repo.
-2. Follow instructions in [portfolio expectations](http://backend.turing.io/module1/portfolios/portfolio_expectations) to create your folder and file for your M1 portfolio.
-3. Copy the template code from the [M1 template markdown](http://backend.turing.io/module1/portfolios/portfolio_template) to your new file.
-4. Update placeholder text in template.
-5. Commit your changes, push to your remote repo, then create a PR to the `turing/portfolios` repo.
+Your promotion to the next module is based upon a summative assessment coined "The Pentathlon." You must receive 3s in all categories or show strong upward sloping trend in performance in order to be promoted to Module 2. The Pentathlon includes:
+
+  1. Paired Assessment
+  2. Independent Timed Diagnostic
+  3. Written Diagnostic
+  4. Final Paired Project
+  5. Completed Portfolio
+
+**Instructions for Submitting a Completed Portfolio:** 
+  1. Fork and clone this repo.
+  2. Follow instructions in [Module 1 Portfolio Guidelines](http://backend.turing.io/module1/portfolios) to create your folder and M1 portfolio file.
+  4. Update placeholder text in your file.
+  5. Commit your changes, push to your remote repo, and create a PR to this repo by 2:30p the day prior to your portfolio review.
 
 
 ### Module 1 (Front-end)
@@ -116,14 +124,18 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 * **Areas of Emphasis** - briefly describe the goals you had for this mod and if/how you accomplished them
 * **Rubric scores** - Fill in how YOU would grade yourself from 1-4 in the following categories this module:
-  * End-of-Module Assessment
+  * Individual Final Assessment
   * Individual Work & Projects
   * Group Work & Projects
   * Professional Development
   * Feedback & Community Participation
-* **Individual Assessment:** - (Pass/Fail)
-* **Required Projects** - Capstone Project, House of Vars (blog post), Jet Fuel, BYOB
+* **Individual Assessment:** - (Pass/Fail) - Do not put any rubric scores, only pass/fail
+* **Required Projects** - Capstone Project, House of Vars (link to blog post), Palette Picker, BYOB
   * Should include points breakdown per project where applicable
+* **Professional Development**
+  * Link to 30-day post-grad job search action plan using this template (https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+  * Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
+  * Prepare and share your Turing story during week six
 * **Community**
   * Summary of how you've contributed to the community
   * A recap of reflections from Gear Up
