@@ -40,7 +40,7 @@ How did you contribute to the Turing community this module?
 
 What would you like to do to contribute next module?
 
-  I'd like to continue providing any help that I can to others.  I'd also like to contribute more to organizations within Turing.  
+  I'd like to continue providing any help that I can to others.  I'd also like to contribute more to organizations within Turing.  I'm also committing to putting something in the Code Fair next inning.
 
 ## Self-Assessment Scores
 
