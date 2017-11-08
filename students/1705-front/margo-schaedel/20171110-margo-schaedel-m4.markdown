@@ -8,7 +8,7 @@ I mainly wanted to gain a much better understanding of server-side technologies,
 
 * **A: Individual Final Assessment**: 3.5
 * **B: Individual Work & Projects**: 3.5
-* **C: Group Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
 * **D: Professional Development**: 3
 * **E: Feedback & Community Participation**: 3
 
