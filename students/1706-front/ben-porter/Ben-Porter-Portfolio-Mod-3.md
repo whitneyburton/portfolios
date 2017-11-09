@@ -156,7 +156,7 @@ I continued to attend meet up events. I also found a few opportunities to do my 
 ## Personal Project 
 
 
-# PD
+## PD
 
 After trying to create my portfolio for several hours I was forced to give up. I can not set up a project for the portfolio without the personal part. 
 
