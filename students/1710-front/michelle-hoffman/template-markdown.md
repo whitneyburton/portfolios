@@ -21,16 +21,35 @@ Going into Mod 1, I wasn't totally sure what to expect, but my main goal was to 
 
 ## B: Individual Work & Projects
 
-#### (Number Guesser)
+### Number Guesser
 
 * [GitHub URL](https://github.com/michellehoffman/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 The first project in the front-end program was Number Guesser. I stuggled a TON on this project, but overall I'm really proud of how it came out. I had a hard time asking for help because I felt like I was behind the rest of the class. I didn't have much experience with JavaScript before school started, so it was hard to do this project on my own. That being said, I feel like I learned a lot more by struggling through this one and felt pretty comfortable going into the next project.
 
-(evaluation comments)
+#### Evaluation Comments
 
-(evaluation scores)
+- Nice job staying true to spirit of comp - minor things to polish
+- Watch spacing in HTML file for readability
+- Continue incorporating ARIA into markup - hooray!
+- Start work towards eliminating redundancy/organizing CSS
+- Work on naming in JS. Be ready to speak to what your code is doing/why (e.g. global vs local scope)
+
+#### Evaluation Scores
+
+##### Functional Expectations
+- Proficient: Application meets all of the expectations of phase three.
+##### COMP RECREATION / DESIGN
+- Advanced Beginner
+##### HTML
+- Advanced Beginner
+##### CSS
+- Novice
+- Advanced Beginner
+##### JS/jQuery
+- Novice
+- Advanced Beginner
 
 ## C: Group Work & Projects
 
