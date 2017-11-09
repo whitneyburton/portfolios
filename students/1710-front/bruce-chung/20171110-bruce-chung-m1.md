@@ -184,63 +184,34 @@ Ideabox introduced local storage, objects, and constructor functions.
 Advanced Beginner/Proficient
 
 ##### HTML
+Accessibility - Novice
+Style - Advanced Beginner/Proficient
 
-Accessibility
-Novice
-Style
-Advanced Beginner
-Proficient
+##### CSS
+Structure of Code - Advanced Beginner/Proficient
+Implementation - Advanced Beginner
 
-CSS
+##### JAVASCRIPT
+Data Types - Proficient
+Conditional Logic - Proficient
+Functions & Scope - Proficient
+Arrays - Proficient
+Objects & Prototypes - Proficient
+DOM Manipulation - Proficient
+Style - Advanced Beginner/Proficient
 
-Structure of Code
-Advanced Beginner
-Proficient
+##### GIT & GITHUB
+Git - Proficient/Exceptional
+Github - Proficient
 
-Implementation
-Advanced Beginner
+##### DESIGN
+Comp Recreation - Novice/Advanced Beginner
 
-JAVASCRIPT
+##### PAIRING
+Proficient/Exceptional
 
-Data Types
-Proficient
-Conditional Logic
-Proficient
-Functions & Scope
-Proficient
-Arrays
-Proficient
-Objects & Prototypes
-Proficient
-DOM Manipulation
-
-Style
-Advanced Beginner
-Proficient
-GIT & GITHUB
-
-Git
-
-Proficient
-Exceptional
-
-Github
-
-Proficient
-DESIGN
-
-Comp Recreation
-
-Novice
-Advanced Beginner
-PAIRING
-
-Collaboration
-
-Proficient
-Exceptional
-
-
+##### Personal Feedback from partner (Jordan Quinn)
+Bruce, you were great to work with my man. I really appreciated your willingness to put a lot of time in over the weekend and get ahead of the ballgame. Additionally, you did a great job reining me back in when I started to pursue rabbit holes that just didn't need to get pursued. Thank you for being willing to tackle extra work load when all of my life stuff kept coming up, that meant the world to me! I felt we had an extremely positive work environment/flow. As far as something actionable goes... work zoomed in at 100% of screen size. (: It caught us both by surprise during our eval when our scale was off due to working at an altered percentage. Other than that, keep on keeping on!
 
 
 #### 2DoBox
@@ -253,9 +224,55 @@ Exceptional
 ##### Evaluator: Pamela Lovett
 
 ##### Comments: 
+ - Design is pretty accurate. Fully responsive. Move 'show more' button down to bottom or make it obvious to the user that more cards have been added off-screen.
+ - Add indication on hover that buttons are clickable. Text on the buttons themselves is kind of large.
+ - YAY for completing 2/3 of the extensions!
+ - Be sure to have a DTR next time. Glad to hear that pairing went well without having one in place.
+ - Good naming on commits/branches.
+ - Good use of semantic elements in HTML and ARIA! Good spacing/indentation. And HOORAY for forms!!!
+ - Add lang attribute to HTML. Be sure to add ARIA to dynamically rendered HTML in JS file.
+ - Next time, use a screenreader to go through the page. The dynamically added cards are mostly unreadable by the screenreader. The contrast on the filter buttons is not sufficient, per accessibility testing.
+ - CSS could use a quick pass for refactor. Just under 20 declarations that were unused/not doing anything. Review cascading stylesheets and inheritance. Outline-style is none by default.
+ - JS file is pretty good overall. Easy to follow logic and code is pretty readable. Nice use of array prototypes in some functionality! Very little redundancy - love how you combined functionality for editing title/task and changing importance. Areas for refactoring below:
+ - Lines 18-22 could be refactored into single event listener by passing in $(this).text() as argument instead of hardcoded string (being sure to adjust for case-sensitivity).
+ - Unnecessary parameters placed (importance and completed) in line 74.
+
+##### Scores:
+##### Functional Expectations
+Proficient/Exceptional
+
+###### HTML
+Accessibility - Proficient
+Style - Proficient
+
+##### CSS
+Structure of Code - Advanced Beginner/Proficient
+Implementation - Advanced Beginner/Proficient
+
+##### JAVASCRIPT
+Data Types - Proficient
+Conditional Logic - Proficient
+Functions & Scope - Proficient
+Arrays - Advanced Beginner/Proficient
+Objects & Prototypes - Proficient
+DOM Manipulation - Proficient
+Style - Proficient/Exceptional
+
+###### GIT & GITHUB
+Git - Proficient
+Github - Proficient
+
+###### DESIGN
+Design Concepts - Proficient
+
+###### PAIRING
+Proficient
+
+##### Personal Feedback from partner (Casey Dallavalle)
+Bruce and I totally hit this project out of the park! Initially when we started, Bruce was driving and I was navigating, which was working fine but we both didn't realize that we each preferred the other's role. When we figured that out, we got together and just churned out working code, which was wonderful! I do prefer working on javascript together, so I was a little disappointed when initially we started doing the work separate. Later, though, we started doing the javascript coding together and that made me feel much more comfortable with our project. The only coaching feedback that I have for Bruce centers around just one interaction we had. We were trying to refactor a couple of lines of code and after about fifteen minutes, I mentioned that what we were doing wasn't worth the time and the space we would save. I wanted to stop but Bruce insisted on finishing the code, which we spent another thirty minutes to get the code working. In the end, we both agreed it wasn't worth keeping and we had wasted a good 45 minutes doing the problem. However, other times, when I wanted to stop doing the work and Bruce kept me going, it was definitely worth it! I just think sometimes it's about finding the right things to focus on. We had a great partnership and it rocked though!!
 
 ## D: Professional Skills
-(Intro)
+Turing strives to produce well-rounded developers that can excel in the modern workplace.  The philosophy is that since coding skills are only a portion what makes a successful programmer, there is a lot of emphasis placed on professional skills.  The sessions from Mod1 are included below.
 
 ### Gear Up
 #### (Session Name)
