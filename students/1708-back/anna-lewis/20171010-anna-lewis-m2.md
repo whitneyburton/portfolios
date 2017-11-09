@@ -1,4 +1,4 @@
-# First Last - M2 Portfolio
+# Anna Lewis - M2 Portfolio
 
 ## Areas of Emphasis
 
@@ -48,8 +48,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category                     | Score |
 | -----------------------------| ----- |
-| **Individual Projects**      |   2   |
-| **Group Projects**           |   2   |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
 | **Professional Development** |   3   |
 | **Community**                |   3   |
 | **Final Written**            |   3   |
