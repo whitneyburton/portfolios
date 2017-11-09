@@ -153,7 +153,7 @@ The output from ESLint shows…
 ## E: Community Participation
 I continued to attend meet up events. I also found a few opportunities to do my own conversations/follow alongs with a few startups outside of the turing community. Where I could I continued to help lower mods on projects and tools for making their goals. 
 
-#PD
+# PD
 
 After trying to create my portfolio for several hours I was forced to give up. I can not set up a project for the portfolio without the personal part. 
 
