@@ -63,7 +63,7 @@ The complete me project introduced a variety of different data structures such a
 
 ## C: Group Work & Projects
 
-This module, I completed one paired project and three solo projects.
+This module's paired projects were Game Time and Weathrly
 
 #### Game Time
 
