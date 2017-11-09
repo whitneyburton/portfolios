@@ -85,8 +85,6 @@ This one was really cool. It was cool to see two languages next to each other do
 It was crazy to see how when someone is more into having their own types around them segregation is un-avoidable. It shows that we have to think outside of ourselves or we create a not so great environment. 
 
 
-
-
 ## E: Community Participation
 
 ### Playing a Part
@@ -103,4 +101,13 @@ I attended a code demo night and almost all of the events put together by 1706-f
 
 ### Outcome
 
-( Leave blanks for reviewers )
+## Rubric Scores
+
+PASS
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
