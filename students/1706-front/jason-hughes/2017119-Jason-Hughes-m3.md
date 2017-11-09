@@ -191,4 +191,12 @@ The output from ESLint shows…
  
  ### Outcome
  
- ( Leave blanks for reviewers )
+## Rubric Scores
+
+RETAINED 
+
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
