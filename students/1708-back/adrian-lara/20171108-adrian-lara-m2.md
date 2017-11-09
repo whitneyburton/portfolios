@@ -30,9 +30,8 @@ What did you learn from your paired projects?
 
 What was your favorite Gear Up? Least favorite? Why?
 
-  My favorite Gear Up was the professional storytelling one.  This is an area that I struggled with in the past.  Professionally, it always kind of seemed... insincere(?) to come up a predefined story to tell others, but looking back, I know that it hindered my ability easily connect with others in my professional life.  I think my past impression of creating a story was flawed in that I viewed it as a way to quickly impress others, but what this and the previous storytelling Gear Ups have taught me is that it's more of a way to know yourself better. With that, I have seen how it can help me share who I am with others in a way that actually feels more organic.
-
-  I don't feel very strongly about this, but since I have to choose, my least favorite Gear Up was Feedback 2.  This was the Gear Up revolved around verbal feedback.  The content was great, but it would've been nice to have more scheduled time to practice this.
+  My favorite Gear Up was the Tragedy of the Commons.  It was intuitive to see that diversity went down when people had a certain level of preference for having similar neighbors, but what really stuck out to me was the level of preference towards having different neighbors needed to break an established lack of diversity.  
+  My least favorite Gear Up was Empathy and Privilege. I don't feel very strongly this way, but one aspect of the Gear Up that could've improved was the clarity in some of the checklist prompts.  I recall feeling unsure what some them meant, but regardless, I did think it was an overall important and useful gear up.
 
 How did you contribute to the Turing community this module?
 
