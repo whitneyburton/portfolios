@@ -57,7 +57,7 @@
 | **Group Member Contribution** | N/A | N/A | 3.3 |
 | **Would Work With MEmber Professionally** | N/A | N/A | 3.6 |
 
-> Rales Engine evaluation comments:
+> Rales Engine evaluation comments: There were no notes from the instructor in the grading ruberick submission. However, we were told that everything looked good and we had more than satisfied the expectations of the project.
 #### 1. Completion
 3+: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.
 #### 1. Test-Driven Development
