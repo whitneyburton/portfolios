@@ -28,13 +28,55 @@ Individual projects included Number Guesser, the first project, and three static
 #### Number Guesser
 
 * [GitHub URL](https://github.com/brucekchung/numberGuesser)
-* [Original Assignment]()
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+Number Guesser was the first project and it working through it gave me an understanding of DOM manipulation and event listeners.  It was also my first exposure to putting together html, css, and js in one project.  
 
-(evaluation comments)
+Evaluator: Pamela Lovett
 
-(evaluation scores)
+Comments:
+ - Insults generator for th3 win! Like that you are pushing yourself to experiment with code outside of the requirements
+ - Nice work with ARIA ---> and using the lang attribute in your HTML
+ - Be sure to organize CSS and check for any redundancy
+ - Works towards single responsibility in your JS functions. Understands scope.
+ - Though it technically can be done, best practice is to separate your markup from your JS functionality (i.e. no click     handlers in your HTML)
+
+Scores:
+
+FUNCTIONAL EXPECTATIONS
+Proficient
+Exceptional
+
+COMP RECREATION / DESIGN
+Advanced Beginner
+
+HTML
+Advanced Beginner
+Proficient
+
+CSS
+Novice
+Advanced Beginner
+
+JS/jQuery
+Advanced Beginner
+Proficient
+
+Surprise and Delight (reminder: have fun!)
+Unicorn Rainbows
+
+#### Static Composition 1
+
+* [GitHub URL](https://github.com/brucekchung/static-comp1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+Static Comp 1 was a good introduction to flexbox.  I learned responsive design and how to use media queries.  
+
+Evaluator Comments:
+ - white text is unreadable on yellow background, need more contrast
+ - needs better icon and text spacing
+ - margins are too tight on collapse, and images and text need to be centered
+ - colors do not match image
 
 ## C: Group Work & Projects
 
