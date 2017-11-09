@@ -83,8 +83,8 @@ One of my goals this mod was to encourage more leadership from within my cohort.
 
 ### Notes
 
-(Leave blanks for reviewers)
+Keep up the great work! Great leadership and hustle this mod. Continue that in 3!
 
 ### Outcome
 
-(Leave blanks for reviewers)
+Promote to Mod 3
