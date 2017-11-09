@@ -114,6 +114,10 @@ Advanced Beginner
 Pairing/Collaboration
 Proficient
 
+(Feedback)
+
+Natalie did a great time organizing the project and kept the project on spec with the levels we needed to complete. She was able to view the whole picture of the project and break it down into small bite size chunks to help make it feel more manageable. She was easy to work with and when we came to a problem after we tried it for a while was able to reach out to fellow classmates and mod-2 to see if they could help give us a second pair of eyes. We paired for most of the project which I think was really helpful with working with javascript and some of the other features we needed both heads on to help solve the problem. I think that it was a effective way to handle the project and make it so we both contributed to the project. I would say next time we would not need to pair for the style and html parts of the project, to help move  at a faster pace in the easier elements, but overall I thought we worked really well together and I am happy with the outcome. 
+
 #### (IdeaBox)
 
 * [GitHub URL](https://github.com/goodalls/ideabox)
@@ -198,6 +202,10 @@ Collaboration
 Advanced Beginner Can identify deltas in skill level and collaborate on methods whereby both pairs can share equitably in the workload. Can revisit the DTR to address changes that arise, and/or simply to keep one another reminded of the working plan.
 
 Proficient Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
+
+(Feedback)
+
+Natalie is an amazing developer and did a great job on the project. I learned a lot from her and appreciate the effort she put into our project. Natalie did the heavy lifting on the JSON part for the project and did a wonderful job. Here are a few suggestions that could have made our project more successful. - Take the time to understand and develop suggestions with your partner. We could have tried multiple solutions for instance using strings and a conditional in the quality. It would have also helped my confidence to try it the other way. If we had tried both possible solutions we could have come to a better solution faster. -We could have looped each other in more when we ran into issues, together we could have tried to find a solution. for instance, on Thursday we were sitting next to each other while you were working on the search function and you said I need help and picked up your computer and left for help. It would have been great you turned to me. Then if I couldn't help we could go get help together so that I could have learned from the effort as well. Next time we work together, I feel that we can be a strong team. I think that I would be open to discussing any of these items further if necessary.
 
 #### 2DoBox
 
@@ -307,7 +315,7 @@ Debugging the Gender Gap - I think this session is important because we have to 
 
 ### Playing a Part
 
-As a mod 1 student I don't think I contributed to the community as much as I would have liked. I paired a lot with the mod 2 students. I would like to offer more pairing help to those that need it in the future. I would also like to help with try Turing weekend and/or kids who code in the future.
+As a mod 1 student I don't think I contributed to the community as much as I would have liked. I paired a lot with the mod 2 students and with some of my classmates. I would like to offer more pairing help to those that need it in the future. I would also like to help with try Turing weekend and/or kids who code in the future.
 
 ------------------
 
