@@ -23,7 +23,7 @@ I wanted to learn the fundamentals of Javascript more than anything else. I also
 
 The individual projects this mod were Number Guesser and three Static Compositions.
 
-#### Number Guesser
+### Number Guesser
 
 * [GitHub URL](https://github.com/Kc2693/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
