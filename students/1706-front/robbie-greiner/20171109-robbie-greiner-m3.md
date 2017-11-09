@@ -5,7 +5,7 @@
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3.5
-* **B: Projects**: ?
+* **B: Projects**: 3.5
 * **C: Professional Skills**: 3.5
 * **D: Community Participation**: 3.5
 
