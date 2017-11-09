@@ -31,63 +31,63 @@ My goals for this mod were to get great at writing array prototypes, get a good 
 #### User Interface
 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
-####Testing
+#### Testing
 4 - Project has a running test suite that exercises the application at multiple levels. The test suite covers almost all aspects of the application and uses mocks and stubs when appropriate.
 
-####JavaScript Style
+#### JavaScript Style
 3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-####Workflow
+#### Workflow
 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-####Code Sanitation
+#### Code Sanitation
 The output from ESLint shows…
 4 - Zero complaints
 
-###Complete Me 
+### Complete Me 
 
-###Scores: 
+### Scores: 
 
 #### Fundamental JavaScript & Style
 3: Application shows strong effort towards organization, content, and refactoring
 
-####Test-Driven Development
+#### Test-Driven Development
 3.5: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-####Encapsulation / Breaking Logic into Components
+#### Encapsulation / Breaking Logic into Components
 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-####Functional Expectations
+#### Functional Expectations
 3: Application meets all requirements as laid out per the specification.
 
-####Code Sanitation
+#### Code Sanitation
 The output from ESLint shows…
 4 - Zero complaints
 
-###Weathrly 
+### Weathrly 
 
-####Specification Adherence
+#### Specification Adherence
 3.5 - The application consists of one page with all of the major functionality being provided by React. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
 
-####User Interface
+#### User Interface
 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
 
-####HTML Style
+#### HTML Style
 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
 
-####CSS/Sass Style
+#### CSS/Sass Style
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
 
-####JavaScript / React Style
+#### JavaScript / React Style
 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application has at least 6 components built out.
 
-####Testing
+#### Testing
 3 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of feature testing.
 
-####Workflow
+#### Workflow
 3.5 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
-####Code Sanitation
+#### Code Sanitation
 The output from a code sanitizer (either JSHint or ESLint) shows…
 4 - Zero complaints 4ish 3 - Five or fewer complaints
 
@@ -99,15 +99,15 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 
 * [Feedback II](https://gist.github.com/mariastlouis/daa8d180b1fc3506b0622830a04871bf)
 
-####Agile practices
+#### Agile practices
 
 [Agile practices](https://gist.github.com/mariastlouis/37720022ae6f5a0abf850d07ca9b34e7)
 
-####Personal story
+#### Personal story
 
 [Personal story](https://gist.github.com/mariastlouis/83982f2ca2a4f8718a8205d63588dd29)
 
-####Outreach plan
+#### Outreach plan
 
 [Outreach plan](https://gist.github.com/mariastlouis/70ee2d77f01fb4d48d0ad5326186daf7)
 
@@ -124,8 +124,8 @@ I worked hard to help out my classmates as much as I could. I told my classmates
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great work this mod! Keep asking questions, keep being rad!
 
 ### Outcome
 
-PASS
+Promote to Mod 3
