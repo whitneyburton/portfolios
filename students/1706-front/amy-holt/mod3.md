@@ -116,4 +116,10 @@ I led Iron FE every Monday, was active in JCS, and paired with Mod 1s and 2s 1-2
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
