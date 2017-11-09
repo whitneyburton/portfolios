@@ -41,7 +41,7 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 | **Heroku** | [Rales](https://) | [https://quiet-chamber-17904.herokuapp.com/](https://) | [https://umami-brownfield.herokuapp.com/](https://) |
 | **Functional/Client Expectations** | 3 | 3 | 3 |
 | **TDD** | 3 | 3 | 3 |
-| **Code Organization/Quality** | X | 3 | 3 |
+| **Code Organization/Quality** | 4 | 3 | 3 |
 | **API Design** | 4 | N/A | N/A |
 | **Queries** | 4 | N/A | N/A |
 
