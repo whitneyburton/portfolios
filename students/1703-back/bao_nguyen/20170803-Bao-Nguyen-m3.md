@@ -36,16 +36,16 @@ put in the effort in the hard things that needed to get done.
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* Overall, I think this project went well. We communicated well and the project was finished. That said, we didn't DTR properly, which leads to problems on my next project.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
+> **[Cloney Island Sprint 1](https://)**
 >* Overall, I think this project turned our really well even though it got pretty disfunctional. I think the group dynamic was fine, but the project itself could have been better.
 Part of this, was the lack of a true DTR as well. I think what happened is that the software building process was affected and problems arose because we didn't merge, PR, and
 deploy.
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://)**
 >* This project went really well. We did a proper DTR and I think all together, the three projects taught me a lot about how to make group projects work better. It helps to make me
 a better developer and a better collaborator.
 
@@ -130,6 +130,6 @@ potentially billions of content writers, and no filters. With that in mind, we c
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted

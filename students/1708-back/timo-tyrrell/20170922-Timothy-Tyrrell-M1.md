@@ -1,4 +1,4 @@
-# First Last - M1 Portfolio
+# Timo Tyrrell - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -46,6 +46,16 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | Category                     | Score |
 | -----------------------------| ----- |
 | **Individual Projects**      |   1.5 |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   4   |
+| **Pentathlon**               |   2   |
+
+## Instructor Scores  
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   2 |
 | **Group Projects**           |   3   |
 | **Professional Development** |   3   |
 | **Community**                |   4   |

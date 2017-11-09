@@ -97,6 +97,6 @@ My posse experience in this module started out strong as we organized to discuss
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted

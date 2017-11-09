@@ -43,3 +43,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Professional Development** |   3   |
 | **Community**                |   4   |
 | **Pentathlon**               |   3   |
+
+## Instructor Scores  
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   2   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   3   |
+| **Pentathlon**               |   2   |

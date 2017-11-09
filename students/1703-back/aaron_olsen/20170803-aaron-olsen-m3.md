@@ -97,6 +97,6 @@ Module three was one part building on previous knowledge and two parts navigatin
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted
