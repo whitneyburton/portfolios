@@ -24,7 +24,7 @@ I think I passed.
 
 #### Portfolio
 
-* [GitHub URL](https://www.turing.io/alumni/john-michael-boudreaux)
+* [Portfolio URL](https://www.turing.io/alumni/john-michael-boudreaux)
 
 
 ------------------
