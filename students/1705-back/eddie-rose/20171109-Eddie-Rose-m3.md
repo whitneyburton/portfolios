@@ -59,7 +59,7 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 > [https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown](Microaggression)
 This gear-up made me more sensitive to other people's experiences and how it can influence their perspective.  Also to be more careful in my speech, some terms and phrases considered to be normal can be offensive.
 
-> [https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown](Tragedgy of the Commomns)
+> [https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown](Tragedy of the Commons)
 I was out sick this day
 
 > [](Cold Outreach - led by Mod 4)
