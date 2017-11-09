@@ -141,9 +141,9 @@ A small application that used form inputs to append things to the other side of 
 
 A project where someone could save ideas they had by entering them into input fields that would append to the page. The idea could be upvoted or downvoted in quality and there were search and filtering options for the ideas.
 
-## Student: James and Kailin
-## Evaluator: David
-## Notes/What To Work On:
+### Student: James and Kailin
+### Evaluator: David
+### Notes/What To Work On:
 * Nice work on the filtering extension!
 
 #### HTML
@@ -163,76 +163,173 @@ A project where someone could save ideas they had by entering them into input fi
 * Look for duplication in functions and try to extract those similar lines into their own functions that take arguments
 
 ## Functional Expectations
-* Exceptional The application meets all of the requirements listed above and implements one or more of the extensions.
+* Exceptional 
 
 ### HTML
 
 #### Accessibility
-* Proficient  Employs detailed accessibility practices throughout markup, especially in forms and can speak to decisions made in accessibility choices as it relates to specific accessibility concerns.
-* Exceptional Can run markup through a variety of online accessibility tools and score well for content, color, screen readers, etc.
+* Proficient  
+* Exceptional 
 
 #### Style
-
-* Advanced Beginner Crafts markup with proper and logical nesting.
+* Advanced Beginner 
 
 ### CSS
 
 #### Structure of Code
-* Advanced Beginner Can cleanly and logically organize CSS rules according to similar categories (i.e. typography, layout, components), and then logically organize the remaining CSS rules based on flow of the markup. Organizes properties within rules alphabetically.
+* Advanced Beginner 
 
 #### Implementation
-* Advanced Beginner Can articulate the differences between the approaches of absolute/relative positioning, flex-box, floats, and can appropriately apply the approaches to solve a variety of layout problems.
-* Proficient  Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout.
+* Advanced Beginner 
+* Proficient  
 
 ### JAVASCRIPT
 
 #### Data Types
-* Advanced Beginner Can diagnose when issues of data-type mismatch are present and appropriately redirect their coding and/or research efforts accordingly to solve the problem.
-* Proficient  Can identify and track data types through any variety of functions, understanding their affect and result on each line of code. Knows which scenarios are better suited for objects vs. arrays and employs them accordingly.
+* Advanced Beginner 
+* Proficient  
 
 #### Conditional Logic
-* Proficient  Can use an if/esle statement to effectively handle multiple paths through the code. Writes if/else statements that only have one level of logic (no nesting). Can use logical operators instead of if/else statements where applicable.
+* Proficient 
 
 #### Functions & Scope
-* Proficient  Functions have single responsibility. The entirety of the function is easy to read what functionality it contains. Function is generally shorter than 8 lines. Uses functions to eliminate repeated code. Comfortable refactoring any piece of code and extracting it to a function.
+* Proficient 
 
 #### Arrays
-* Advanced Beginner Can modify arrays by adding or removing specific elements - uses array methods such as push or shift. Can use a for loop to iterate through array.
-* Proficient  Does not use for loops for arrays - uses array prototypes, such as forEach, to iterate through or manipulate arrays. Can use array to store more complicated data structures such as objects or nested arrays. Is comfortable/efficient with reading array prototype documentation and can efficiently test/apply array prototype methods they have not worked with before.
+* Advanced Beginner 
+* Proficient 
 
 #### Objects & Prototypes
-* Advanced Beginner Can use object constructor functions and is comfortable with extracting values of properties on different object instances.
-* Proficient  Can use object prototypes. Can articulate the definition and the “why” of an object prototype - the best use cases for prototypes.
+* Advanced Beginner 
+* Proficient 
 
 #### DOM Manipulation
-* Proficient  Able to extract information, modify attributes, or append/prepend data in the DOM easily regardless of whether they are employing vanilla JavaScript or jQuery. Understands how to harness event bubbling.
+* Proficient 
 
 #### Style
-* Advanced Beginner Code shows strong effort toward organization, but suffers from long functions, unnecessary or poorly named variables, and requires significant refactoring. Application may have some duplication and minor bugs.
+* Advanced Beginner 
 
 ### GIT & GITHUB
 
 #### Git
-* Advanced Beginner Can create branches and willingly attempts to incorporate branches into their workflow. Commits, while infrequent, are increased in volume and show improvements in description.
-* Proficient  Commits changes frequently with detailed commit messages. Uses feature branches to keep master branch free of incomplete features or bugs.
+* Advanced Beginner 
+* Proficient 
 
 #### Github
-* Proficient  Is comfortable with resolving merge conflicts. Asks for review/merge of their pull requests from teammates. Is comfortable editing code based on review feedback from a pull request and resubmitting the branch code.
+* Proficient  
 
 ### DESIGN
 
 #### Comp Recreation
-* Proficient  Developer captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but developer is clearly mindful of details and has made a conscious and careful effort to match the comp. Any design decisions left open to interpretation are handled thoughtfully and are well executed, but are more noticeable and/or unintuitive than they would be if the designer had provided the solution, or may not be totally seamless during screen-size transitions.
+* Proficient 
 
 ### PAIRING
 
 #### Collaboration
-* Advanced Beginner Can identify deltas in skill level and collaborate on methods whereby both pairs can share equitably in the workload. Can revisit the DTR to address changes that arise, and/or simply to keep one another reminded of the working plan.
-* Proficient  Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
+* Advanced Beginner 
+* Proficient 
 
 #### Feedback Received: 
 > not yet received
 
+
+#### IdeaBox
+
+* [GitHub URL](https://github.com/OphDub/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+#### Student: Kailin and Ophus
+#### Evaluator: Louisa
+#### Notes/What To Work On:
+
+- overwhelmed by working within an existing codebase, struggled to track logic and thought process of original developer's code.
+- focused on refactoring JS, no new functionality. JS still had opportunities for refactoring and clean up.
+- didn't add any additional functionality, not all Ideabox functionality is solid (filter is case sensitive and hitting `enter` to leave an input isn't hooked up)
+- localStorage broken on Ophus's machine, unclear what is going on, works on Kailin's (different branches locally?)
+- lots of buggy behavior: first time upvote hits "critical" it becomes "undefined" on page load, and returns to "critical" after refreshing the page.
+- CSS has a lot of opportunities for further refactoring, many unused properties and cruft. Make sure you are keeping in mind foundational CSS rules and box-model as you write CSS. Much of what is written in this codebase is either doing nothing (ie `display: block` on elements that are block by default (like a div, for example) or using `margin: auto` on elements that also have `display: inline-block` on them) or overriding properties in the same rule.
+- I expected more progress to be made on this project, although it does seem like both team members learned a lot from the process of fighting with this code base, which is fantastic. Learning is always the #1 goal. It is unclear if it was a time management problem or if what was asked of them was overwhelming and the team didn't feel comfortable reaching out for help to get unstuck.
+
+### Functional Expectations
+* Advanced Beginner
+
+### HTML
+
+#### Accessibility
+
+* Advanced Beginner  
+* Proficient  
+
+#### Style
+
+* Advanced Beginner  
+* Proficient  
+
+
+### CSS
+
+#### Structure of Code
+
+* Novice  
+* Advanced Beginner  
+
+#### Implementation
+* Novice  
+* Advanced Beginner  
+
+
+### JAVASCRIPT
+
+#### Data Types
+* Advanced Beginner  
+* Proficient  
+
+#### Conditional Logic
+* Advanced Beginner  
+* Proficient  
+
+#### Functions & Scope
+* Advanced Beginner  
+* Proficient  
+
+#### Arrays
+* Advanced Beginner  
+* Proficient  
+
+#### Objects & Prototypes
+* Advanced Beginner  
+* Proficient  
+
+#### DOM Manipulation
+* Advanced Beginner  
+* Proficient  
+
+#### Style
+* Advanced Beginner  
+* Proficient  
+
+## GIT & GITHUB
+
+#### Git
+* Proficient  
+
+#### Github
+* Proficient  
+
+## DESIGN
+
+#### Design Concepts
+* Advanced Beginner  
+* Proficient  
+
+## PAIRING
+
+#### Collaboration
+* Advanced Beginner  
+* Proficient  
+
+#### Feedback Received: 
+> not yet received
 
 
 
