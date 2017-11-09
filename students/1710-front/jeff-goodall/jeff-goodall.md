@@ -283,7 +283,7 @@ Build a game where the user guesses a number between 1 and 100.
 
 * Proficient  
 
-## CSS
+### CSS
 
 #### Structure of Code
 
@@ -294,7 +294,7 @@ Build a game where the user guesses a number between 1 and 100.
 * Advanced Beginner  
 * Proficient  
 
-## JAVASCRIPT
+### JAVASCRIPT
 
 #### Data Types
 
@@ -327,7 +327,7 @@ Build a game where the user guesses a number between 1 and 100.
 * Advanced Beginner  
 * Proficient  
 
-## GIT & GITHUB
+### GIT & GITHUB
 
 #### Git
 
@@ -338,30 +338,39 @@ Build a game where the user guesses a number between 1 and 100.
 
 * Proficient  
 
-## DESIGN
+### DESIGN
 
 #### Design Concepts
 
 * Advanced Beginner  
 * Proficient  
 
-## PAIRING
+### PAIRING
 
 #### Collaboration
 
 * Proficient  
 
 ## D: Professional Skills
-(Intro)
-
 ### Gear Up
-#### (Session Name)
 
 * [GitHub URL](https://github.com/turingschool/gear-up/tree/master/m1_citizenship)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Growth Mindset
+This session introduced the idea of growth mindset and fixed mindset. I feel it was a good way to preface the rest of the mod with the notion of "not yet" and how to recognize growth mindset and fixed mindset. I learned about how to pivot feelings that place us in fixed mindset and present these feelings in a way that allows growthmind set to step in. After this session, I still find myself pin pointing when a fixed mindset is creeping up on me and using the phrase "not yet" to change my thought process.
 
-  - [gist for stregths and reflection](https://gist.github.com/goodalls/318164363f1d6aa8f11dfec5227e9847)
+#### Getting Better at Difficult Things
+This session was about how we feel about learning difficult things and how this impacts our ability to learn. There was an emphasis on how our cognative resources are used and drained by our emotions and subconscious thoughts. I can notice a big difference in how my brain preforms and my problem solving abilities depending on my emotional state and physical state.
+
+#### Dealing with Difference: Introverts & Extroverts
+This session was a discussion on how different workstyles can co-exist and support eachother. I thought this session was important because it allowed me time to recognize that my workstyle and strengths can be understood by others even if they don't share the same styles/strengths.  I was nice to hear directly from others about how they understand different workstyles and how they prefer to approach things.
+
+#### Code: Debugging the Gender Gap
+This session was eye-opening and informative, specifically the actually statistics about women and minorities in tech fields. I was not suprised by any of the content but it did remind me about the biases and inequalities that exist and how important it is to continue to push for evolution both in our smaller communities and outward. I was grateful that this discussion was encouraged. 
+
+#### Case Study with Mod 4 : UX/UI
+I really enjoyed this session about user experience and user interface. The mod4 students seemed excited to present the topic and it was informative and fun. They formed great discussion questions and gave plenty of examples of both good and bad UX/UI. I'm very driven by the concept of UX/UI and am excited to learn more about how to implement awesome code to make great user experiences!!!!
+
 ## E: Community Participation
 
 ### Playing a Part
