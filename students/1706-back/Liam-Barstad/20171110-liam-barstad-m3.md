@@ -74,7 +74,7 @@
 
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
+> \
 
 ------------------
 
