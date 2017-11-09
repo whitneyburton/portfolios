@@ -44,23 +44,19 @@ Number Guesser was the first project and it working through it gave me an unders
 ##### Scores:
 
 ##### FUNCTIONAL EXPECTATIONS
-Proficient
-Exceptional
+Proficient/Exceptional
 
 ##### COMP RECREATION / DESIGN
 Advanced Beginner
 
 ##### HTML
-Advanced Beginner
-Proficient
+Advanced Beginner/Proficient
 
 ##### CSS
-Novice
-Advanced Beginner
+Novice/Advanced Beginner
 
 ##### JS/jQuery
-Advanced Beginner
-Proficient
+Advanced Beginner/Proficient
 
 ##### Surprise and Delight (reminder: have fun!)
 Unicorn Rainbows
@@ -138,36 +134,125 @@ Linked List was the first pair project and an introduction to JQuery.  It was a 
 ##### Scores:
 
 ##### Functional Expectations
-Exceptional: You completed Phase Three and did something with Phase Four.
+Exceptional
 
 ##### COMP RECREATION / DESIGN
-Advanced Beginner
-Proficient
+Advanced Beginner/Proficient
 
 ##### HTML
-Advanced Beginner
-Proficient
+Advanced Beginner/Proficient
 
 ##### CSS
-Advanced Beginner
-Proficient
+Advanced Beginner/Proficient
 
 ##### JS/jQuery
 Proficient
 
 ##### GIT & GITHUB
-Advanced Beginner
-Proficient
+Advanced Beginner/Proficient
 
 ##### Pairing/Collaboration
-Proficient
-Exceptional
+Proficient/Exceptional
 
 ##### Surprise and Delight (optional category, but reminder: have fun!)
 Hot Fire
 
 ##### Personal Feedback from partner (Nora Gully)
 Having Bruce as my partner was a great experience and very motivational. I liked that he wanted to get work done early and to get a lot of help at the beginning. This, along with his excellent communication skills, really minimized our overall stress and avoided conflicts. I thought it was fun to work with Bruce in-person and I felt he took the time to get to know me over lunch and beer. For example, I was touched that he thought to encourage me before my Lightning Talk on Thursday. I appreciated that he was open to my ideas and willing to play around with jQuery together at an early stage, even if it meant learning together through trial and error. I also love that he was motivated to help other people with their projects with the extra time we had during class. While Bruce is a great teacher, I felt that he moved a little too quickly for me at times with the script and that sometimes I was playing catch-up. I never felt lost - these were features we were working on together - but maybe he could have been more sensitive to whether I was going in the right direction, and then pushed me harder to generate the answer even if he already knew it. I also noticed that at the outset, we set goals about what we wanted to work on, but didn't necessarily stick to them. So for example, I wanted to work on Javascript/jQuery and Bruce wanted to work on CSS, but when push came to shove, we just stuck to what we were good at. Our git workflow was a little haphazard and could be more deliberate, (i.e. making a branch more specific and merging it when the feature is complete). I think Bruce also accidentally committed changes on master when he should have been on a branch. Confusion with git is to be expected at this point, though, and I'm glad we got things like merge conflicts taken care of without messing things up! Overall working with Bruce was awesome and I have definitely learned a lot from him during this project!
+
+#### IdeaBox
+
+* [GitHub URL](https://github.com/JordanPQuinn/ideabox)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+Ideabox introduced local storage, objects, and constructor functions.
+
+##### Evaluator: Louisa Barrett
+
+##### Comments: 
+ - buggy behavior
+ - quality value disappears in some user cases? unclear what causes it
+ - can still create an idea with nothing in the inputs. details matter, and this is not a small detail.
+ - no disabled state on button
+ - very tidy, clean codebase
+ - CSS uses percentages for height, use a different unit of measure. This can cause very unpredictable behavior/movement/scaling as a user resize the browser window and when you are building more complex UI it will be a major headache.
+ - used no classes, only ids being used in HTML -- not flexible or modular as ids cannot be reused on a page.
+ - UI needs a lot of work. was built at 150% zoom, and is not well executed when it is viewed at 100%.
+ 
+##### Scores:
+##### Functional Expectations
+Advanced Beginner/Proficient
+
+##### HTML
+
+Accessibility
+Novice
+Style
+Advanced Beginner
+Proficient
+
+CSS
+
+Structure of Code
+Advanced Beginner
+Proficient
+
+Implementation
+Advanced Beginner
+
+JAVASCRIPT
+
+Data Types
+Proficient
+Conditional Logic
+Proficient
+Functions & Scope
+Proficient
+Arrays
+Proficient
+Objects & Prototypes
+Proficient
+DOM Manipulation
+
+Style
+Advanced Beginner
+Proficient
+GIT & GITHUB
+
+Git
+
+Proficient
+Exceptional
+
+Github
+
+Proficient
+DESIGN
+
+Comp Recreation
+
+Novice
+Advanced Beginner
+PAIRING
+
+Collaboration
+
+Proficient
+Exceptional
+
+
+
+
+#### 2DoBox
+
+* [GitHub URL](https://github.com/brucekchung/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+2DoBox was an inherited project (someone else's IdeaBox) that needed refactoring and additional functionality.  By this project, I reached a comfort level where the project was completed very efficiently. 
+
+##### Evaluator: Pamela Lovett
+
+##### Comments: 
 
 ## D: Professional Skills
 (Intro)
