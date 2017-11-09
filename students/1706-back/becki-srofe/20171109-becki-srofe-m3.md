@@ -54,8 +54,8 @@ This was the most frustrating project that I have worked on at Turing, but valua
 
 | CATEGORY | Rales Engine | Self Directed | The Pivot |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Self Directed](https://) | [The Pivot](https://) |
+| **Github Repo** | [Rales Repo](https://github.com/blsrofe/rails_engine) | [Self Directed](https://github.com/blsrofe/student_tracker2) | [Pivot Project](https://github.com/blsrofe/pivot_project) |
+| **Heroku** | [Rales](https://) | [Self Directed](https://https://student-tracker2.herokuapp.com/) | [The Pivot](https://uncle-franks-emporium.herokuapp.com) |
 | **Functional/Client Expectations** | 3 | 3 | 2 |
 | **TDD** | 3 | 3 | 4 |
 | **Code Organization/Quality** | 4 | 3 | 3 |
