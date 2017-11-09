@@ -146,6 +146,9 @@ In this GearUp, we explored the process of working through difficult things. Wha
 #### Debugging the Gender Gap
 This was a relly interesting day in class. We watched a movie that details the problems women face in becoming successful in the technology industry- everything from microaggressions, to assault threats, to systematic discouragement of STEM. We worked through these ideas in small groups and were actually able to discuss a microagression that happened in class earlier that day.
 
+#### Crushing Cold Outrech
+This GearUp was awesome! We learned how to find companies on LinkedIn and reach out to set up coffee meetings. Now I have one scheduled with a UI dev at a dream company next week! 
+
 ## E: Community Participation
 This Mod, I paired with several Mod 2 students and attended every Mythical Creatures session. I also attended all but one health and wellness session (and would highly recomend them!) 
 
