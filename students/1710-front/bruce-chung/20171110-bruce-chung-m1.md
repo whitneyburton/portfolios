@@ -4,7 +4,7 @@
 
 What did you set out to accomplish this module?
 
-Before the module began, my vision for the next six weeks was to stay disciplined with my schedule, push myself as hard as possible, and finish mod1 as one of the best students in the class.  I've followed my aspirations and I'm very pleased with the results.  I know what its like to be thrown into the deep end and drink from the firehose, and I wanted to keep my head above water if possible - I'm glad to say that I always felt ahead of the curve, that every week seemed like a review (because of the excellent pacing and design of the projects), and that I feel like I've absorbed every major concept. If there was one thing I could improve for Mod2, it would be my tendency to trade workout time for study time - as a very active person this is hugely detrimental to my overall workflow (and I've pointed out in nearly every weekly review this needs to be my area of improvement).
+I entered the module with very basic javascript knowledge and almost no experience in CSS or HTML. My goal was to learn as much as possible by adhering to tight schedule and trying to stay ahead of the curve.  Overall, I'm very satisfied with the results.  I was able to arrive early and review the lesson, pair early and often, and work through projects over the weekend so that most of the week was review.  A point of improvement for next mod is to stay just as disciplined with my workout schedule so that I can remain focused and energetic.
 
 ## Rubric Scores
 
@@ -23,11 +23,11 @@ Before the module began, my vision for the next six weeks was to stay discipline
 
 ## B: Individual Work & Projects
 
-(Intro)
+Individual projects included Number Guesser, the first project, and three static compositions that were spread over the last half of the module.  
 
-#### (Project Name)
+#### Number Guesser
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/brucekchung/numberGuesser)
 * [Original Assignment]()
 
 (description)
