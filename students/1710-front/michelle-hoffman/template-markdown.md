@@ -2,15 +2,15 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Going into Mod 1, I wasn't totally sure what to expect, but my main goal was to learn the foundations of JavaScript and be more comfortable with CSS. 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -21,14 +21,12 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### (Number Guesser)
 
-#### (Project Name)
+* [GitHub URL](https://github.com/michellehoffman/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
+The first project in the front-end program was Number Guesser. I stuggled a TON on this project, but overall I'm really proud of how it came out. I had a hard time asking for help because I felt like I was behind the rest of the class. I didn't have much experience with JavaScript before school started, so it was hard to do this project on my own. That being said, I feel like I learned a lot more by struggling through this one and felt pretty comfortable going into the next project.
 
 (evaluation comments)
 
