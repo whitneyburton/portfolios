@@ -230,13 +230,14 @@ I take time to help my classmates and students in lower mods.
 
 ### Outcome
 
-## Rubric Scores
-
 PASS
 
-* **A: End-of-Module Assessment**: 3.5
-* **B: Individual Work & Projects**: 3.5 
-* **C: Group Work & Projects**: 3.5
-* **D: Professional Skills**: 3.5
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
 * **E: Community Participation**: 3
+
 
