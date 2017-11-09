@@ -138,3 +138,7 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 ### Community Participation
 
 I paired with mod1 students, and helped classmates when I could answer questions. Hugh and I also presented our game at code fair to rave review from the general public. Also attending guest speakers on Fridays and reaching out to other mods with questions or help.
+
+
+### Outcome
+Promote to Mod 3
