@@ -3,18 +3,16 @@
 Areas of Emphasis:
 
 
-Rubric Scores
+#### Rubric Scores
 
-A: End-of-Module Assessment: 
+A: End-of-Module Assessment: Pass
 B: Individual Work & Projects: 
 C: Group Work & Projects: 
 D: Professional Skills: 
 E: Community Participation: 
 
 
-
-
-B: Individual Work & Projects
+## Individual Work & Projects
 
 ### Sorting Suite
 
@@ -41,9 +39,7 @@ Functional Expectations: 3
 Code Sanitation: 4
 
 
-
-
-C: Group Work & Projects
+## Group Work & Projects
 
 ### Game Time
 
@@ -83,7 +79,7 @@ Workflow: 3.5
 Code Sanitation: 4
 
 
-D: Professional Skills
+## Professional Skills
 
 ### Gear Up Reflections:
 
@@ -94,14 +90,14 @@ Playing a Part:
 I had the opportunity to pair with a lot of the Mod1 students. It was great to see how they approached projects differenty than me and it helped reinforced some lessons that I learned in Mod1. I also got to go to IronFE which was great and really helped me understand array prototypes.  
 
 
-Final Review: 
+## Final Review: 
 
 I learned so much this mod, and towards the end, I think I started to become more confident in my programing abilities. I started to really enjoy doing array prototype problems. 
 
-Notes
+### Notes
 
 ( Leave blanks for reviewers )
 
-Outcome
+### Outcome
 
 ( Leave blanks for reviewers )
