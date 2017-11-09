@@ -293,11 +293,33 @@ Bruce and I totally hit this project out of the park! Initially when we started,
 Turing strives to produce well-rounded developers that can excel in the modern workplace.  The philosophy is that since coding skills are only a portion what makes a successful programmer, there is a lot of emphasis placed on professional skills.  The sessions from Mod1 are included below.
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The growth mindset is a way to approach difficult situations and perservere.  Someone with growth mindset sees barriers as an opportunity to grow, and contrasts with someone with a fixed mindset - that difficulties are a roadblock to someones innate, unchangeable abilities.   
+
+#### Getting Better At Difficult Things
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+A very good session on managing cognitive resources.  There are three categories: need to learn, learning, and mastered.  The first and last categories take little to no resources, with the goal being to move items to mastered as quickly as possible.  Potential holdups include a buildup of items in the "learning" section, and items in the "mastered" section that are not quite at the level they should be.  Solutions include moving items from learning section to need to learn (in an effort to reduce cognitive drain) and to remaster items that need to be revisited.
+
+#### Dealing with Difference: Introverts and Extroverts
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+
+This session involved separating into groups based on introvert/extrovert scale.  The twist was you had to rate yourself in the Turing spectrum - which put me at the end of the Extrovert scale.  Brainstorming in groups gave information on how introverts and extrovers like to function and limitations they may have.  Takeaways for extroverts are that they function best when they have independence and they naturally gravitate toward leadership roles.  Takeaways for introverts are that you should not put them in situations they are not comfortable with and that they may need time alone.
+
+#### Code: Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
+
+This introduced us to the perspective of a woman in tech and barriers they may overcome.  Difficulties include assumptions based on their level of ability, the need to constantly prove themselves, and just plain sexism.  The industry needs women, and there are many steps we can take to make women comfortable in the industry.
+
+#### Block-Chain Technology with Mod4
+
+Block-chain technology 
 
 ## E: Community Participation
 
