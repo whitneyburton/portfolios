@@ -6,11 +6,11 @@ I wanted to learn the fundamentals of Javascript more than anything else. I also
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: -
+* **B: Individual Work & Projects**: 2.5??
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 2
 
 -----------------------
 
@@ -329,27 +329,54 @@ A project where someone could save ideas they had by entering them into input fi
 * Proficient  
 
 #### Feedback Received: 
-> not yet received
+> not yet received  
 
 
 
 
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The growth mindset session was actually weird. It made me examine things in my past that I hadn't thought about in years. I generally viewed my high school experience positively, but this session made me remember the negatives about it. It was very much a 'fixed mindset' environment to grow up in, but I don't think it ever really heavily impacted me? I had a big 'I do what I want, I think what I want' attitude as a teen and really solid, dependable friendships. And then I immediately moved 8 hours away from where I went to high school and was totally free of that sort of environment ever since. Still, its odd to think that as I move about in a forward-thinking environment, there are still many places all over the world that don't foster a growth-mindset attitude.
+
+
+#### Getting Better at Difficult Things
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+I think this might've been my favorite Gear Up. Kathy Sierra's keynote was incredibly interesting. With the 'all one tank' concept in mind, I've been going about my life examining how many cognitive resources things I do everyday take up. At Turing I think I've started to timebox myself better because of it.
+
+
+#### Working Styles: Intro, extro, ambiverts!
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+
+I think I've bounced around on the spectrum. I've had friends insist I'm an extrovert, but I feel like it's because they don't really know the meanings of the terms. I'm not quiet, but I am kind've shy, I just fake that I'm not. And being out and around people really drains me of energy like nothing else does, which is the main reason I've always called myself an introvert. As far as the session went, I think I've always assumed that working with extroverts would be hard, and I've realized that as long as both parties are willing to compromise, it's not as hard as I made it out to be.
+
+#### Personal Stories & Connection
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
+
+I felt like this was the least valuable Gear Up for me. I didn't really enjoy mapping out my personal story in the 'timeline, hills-and-valleys' style that we did. The group share portion was better, Jordan and I ended up in a group and we'd also group-talked for the growth mindset fashion, so he remembered portions of my story that I'd brought up back then, and we also related on some new things too. I'd like to get better at identifying others' values before there's a conflict, rather than realizing afterwards why they may have reacted the way they did. 
+
+
+#### Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
+
+This session was a really weird mix of super-relatable and totally not-relatable. My mom is a single mother who works in a male-dominated industry, so growing up I never had that 'girls can't do science/math stuff' experience because my mom is an industrial electrician. So that wasn't relatable. But I've also spent an abnormal amount of time in the 'world' of online-gaming, which is one of the most toxic, male-dominated places ever, so I've experienced a lot of what females getting harrassed in workplaces have experienced. In the end I think it's prepared me extremely well for a male-dominated workplace, but watching the video and hearing of those experiences was super-relatable. I'm not intimidated by being in male spaces at all, so I really hope that I can always be there for someone who might not be as confident.
+
 
 ## E: Community Participation
 
 ### Playing a Part
 
-Our class all pooled together money to buy breakfast burritos for mod2 because of how much they helped us. Personally I don't think I've helped out very much, because I'm just starting out and I feel like I'm usually farther behind than others in the class so I'm not the person people go to for help. Hopefully when pairing in mod2 I can give really clear explanations to people I'm paired with and help out a bit more.
+Our class all pooled together money to buy breakfast burritos for mod2 because of how much they helped us! Personally I don't think I've helped out very much, because I'm just starting out and I feel like I'm usually farther behind than others in the class so I'm not the person people go to for help. Hopefully when pairing in mod2 I can give really clear explanations to people I'm paired with and help out a bit more.
 
 ------------------
 
