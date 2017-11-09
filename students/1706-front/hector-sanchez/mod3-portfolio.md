@@ -130,9 +130,14 @@ when we had a lot of work on our hands.)
 
 ### Notes
 
-
-
 ### Outcome
 
+## Rubric Scores
 
+PASS
 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
