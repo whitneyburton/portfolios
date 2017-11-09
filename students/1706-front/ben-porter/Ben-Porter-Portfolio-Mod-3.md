@@ -22,9 +22,7 @@ I feel very good about my end of mod assessment. Though I did not get all the wa
 #  Head Count 2.0
 * [GitHub URL](https://github.com/bbp5280/headCount)
 
-## Score:
-
-# HeadCount Eval
+## HeadCount Eval
 
 ### Evaluator: Limbo
 ### Students: Ben && Amy
@@ -63,9 +61,7 @@ Pass - Proptype validation is implemented for any component receiving props.
 
 * [GitHub URL](https://github.com/jenPlusPlus/SwapiBox)
 
-
-### Evaluator comments:
-# SWapi-Box Eval
+## Swapi-Box Eval
 
 ### Evaluator: Limbo
 ### Students: Jennifer Woodson, Ben Porter
@@ -73,8 +69,6 @@ Pass - Proptype validation is implemented for any component receiving props.
 * Would like visual indication for user on adding and removing favorites
 * Need individual API calls on specific button clicks to be passing project. -- COMPLETE! Great job making that change
 
-
-## Rubric
 
 ### Specification Adherence
 
@@ -106,12 +100,10 @@ The output from ESLint shows…
 
 3 - Developer(s) make many small, atomic commits that document the evolution of the application but sometimes contain irrelevant changesets and inconsistent commit messages. Developer(s) use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing fresh changes directly to master. Pull requests may contain little or no code review. There may be slight instances where the developer(s) have committed source code that should be .gitignored. There may be some instances of “dead” or commented-out code and debugger statements like console.log that need to be cleaned up.
 
-##  Movie Tracker
+#  Movie Tracker
 * [GitHub URL](https://github.com/alexbanister/movie-tracker)
 
-## Comments:
-
-# Movie-tracker
+## Movie-tracker
 
 ### Evaluator: Will
 ### Students:
@@ -160,6 +152,13 @@ The output from ESLint shows…
 
 ## E: Community Participation
 I continued to attend meet up events. I also found a few opportunities to do my own conversations/follow alongs with a few startups outside of the turing community. Where I could I continued to help lower mods on projects and tools for making their goals. 
+
+#PD
+
+After trying to create my portfolio for several hours I was forced to give up. I can not set up a project for the portfolio without the personal part. 
+
+Her is a link to my resume:
+* [Resume](https://www.canva.com/design/DACkHEEbm4Q/JWcQFWZQKwLPGYhlwBV8XA/view?utm_content=DACkHEEbm4Q&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Final Review
 
