@@ -37,8 +37,8 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 
 | CATEGORY | Rales Engine | Self Directed | The Pivot |
 | --- | --- | --- | --- |
-| **Github Repo** | [https://github.com/blsrofe/rails_engine](https://) | [https://github.com/erose357/project_manager](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Self Directed](https://) | [The Pivot](https://) |
+| **Github Repo** | [https://github.com/blsrofe/rails_engine](https://) | [https://github.com/erose357/project_manager](https://) | [https://github.com/boveus/umami-brownfield](https://) |
+| **Heroku** | [Rales](https://) | [https://quiet-chamber-17904.herokuapp.com/](https://) | [https://umami-brownfield.herokuapp.com/](https://) |
 | **Functional/Client Expectations** | X | X | X |
 | **TDD** | X | X | X |
 | **Code Organization/Quality** | X | X | X |
