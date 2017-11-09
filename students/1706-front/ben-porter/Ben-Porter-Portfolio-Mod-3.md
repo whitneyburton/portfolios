@@ -19,7 +19,7 @@ I feel very good about my end of mod assessment. Though I did not get all the wa
 
 ## B: Individual Work & Projects
 
-##  Head Count 2.0
+#  Head Count 2.0
 * [GitHub URL](https://github.com/bbp5280/headCount)
 
 ## Score:
@@ -59,7 +59,7 @@ Pass - Proptype validation is implemented for any component receiving props.
 3 - Hot Fire
 
 
-## Swapi Box
+# Swapi Box
 
 * [GitHub URL](https://github.com/jenPlusPlus/SwapiBox)
 
@@ -109,7 +109,8 @@ The output from ESLint shows…
 ##  Movie Tracker
 * [GitHub URL](https://github.com/alexbanister/movie-tracker)
 
-# Comments:
+## Comments:
+
 # Movie-tracker
 
 ### Evaluator: Will
@@ -164,8 +165,5 @@ I continued to attend meet up events. I also found a few opportunities to do my 
 
 ### Notes
 
-Great Job!
-
 ### Outcome
 
-Pass
