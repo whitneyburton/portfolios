@@ -21,7 +21,7 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 
 ## A: Individual Work & Projects
 
-> **[APIcurious](https://github.com/erose357/apicurious) 
+> ** [APIcurious](https://github.com/erose357/apicurious) 
 >* In this project, we’ll be focusing on consuming and working with data from public APIs.
 >* Learning Oauth was cool, this project helped me understand POROs and services
 
