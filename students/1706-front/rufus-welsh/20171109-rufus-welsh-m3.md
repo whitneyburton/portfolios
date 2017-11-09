@@ -295,8 +295,12 @@ I worked with some students in an attempt to rebrand and revitalize the turing L
 
 ### Notes
 
-
-
 ### Outcome
 
+PASS
 
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
