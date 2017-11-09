@@ -90,7 +90,7 @@ Ohhhh my god there's so many elements on this page. Definitely the first time I'
 
 The group projects were Linked List, IdeaBox, and 2DoBox-Pivot.
 
-#### Linked List
+### Linked List
 
 * [GitHub URL](https://github.com/Kc2693/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
@@ -134,7 +134,7 @@ A small application that used form inputs to append things to the other side of 
 #### Feedback Received:
 > To start off, the final result of our project was awesome! I was really happy with how it turned out after all of our hard work. Even though at the end we both agreed there were a few things that could've been tweaked, I think we did a great job. As far as the pairing went, I think we were able to work through most issues that came up. We both have very different working styles, and I think that we could both learn from each other. When I am being nitpicky, I am really just trying to get as much as I can out of everything we're learning and start putting into practice the "best practices" we're going to need when we're working. I recognize that maybe you don't usually work like that, but I feel like right now we're in a situation that we should be thorough with our work. In addition, I want to be as thorough as possible with my CSS and I was disappointed that you didn't give me more feedback on the CSS when I asked you since it is one of your strengths. I think the most important part of a pairing project is learning as much as we can both from the actual work itself and from our partner. We all have different strengths in abilities and work styles, and I was excited to learn more about CSS from you and I was hoping to be able to help you with the JavaScript. You're doing a great job at using the resources we have at Turing: people from other mods, our teachers, and other people in our class. Just don't forget that your partner is also a resource. It hurt a little when you went to other people in Mod 4 and in our class before even talking to me about a problem, and I felt kind of dismissed when I asked you about what you were working on and if I could help. I would've loved to be more part of those moments when you were taking advantage of our resources at school. I don't think it was your intention, but there were times when I felt disrespected, for example when I felt dismissed because I didn't fully know jQuery yet, even though I am quite strong and understand the logic behind JavaScript. Again, I don't think that this was your intention, which is why I am telling you these things so that we can both get better at pairing in general. If you want to sit down and talk about this, I would be more than happy to have an open and compassionate conversation. And I think that we should both be really happy with how good-looking and solid our final project came out.
 
-#### IdeaBox
+### IdeaBox
 
 * [GitHub URL](https://github.com/jjlljj/idea-box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -233,7 +233,7 @@ A project where someone could save ideas they had by entering them into input fi
 > not yet received
 
 
-#### IdeaBox
+### 2DoBox-Pivot
 
 * [GitHub URL](https://github.com/OphDub/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
