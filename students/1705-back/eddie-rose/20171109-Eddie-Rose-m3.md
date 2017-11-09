@@ -39,11 +39,11 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 | --- | --- | --- | --- |
 | **Github Repo** | [https://github.com/blsrofe/rails_engine](https://) | [https://github.com/erose357/project_manager](https://) | [https://github.com/boveus/umami-brownfield](https://) |
 | **Heroku** | [Rales](https://) | [https://quiet-chamber-17904.herokuapp.com/](https://) | [https://umami-brownfield.herokuapp.com/](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Functional/Client Expectations** | 3 | 3 | 3 |
+| **TDD** | 3 | 3 | 3 |
+| **Code Organization/Quality** | X | 3 | 3 |
+| **API Design** | 4 | N/A | N/A |
+| **Queries** | 4 | N/A | N/A |
 
 > Rales Engine evaluation comments:
 \<Instructor Comments Here>
