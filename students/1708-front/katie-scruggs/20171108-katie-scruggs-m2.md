@@ -22,26 +22,38 @@ Pass
 ### Projects
 
 #### Sorting Suite
+
+For this project, I wrote sorting algorithms that sorted arrays with bubble sort, insertion sort, merge sort, and quick sort. This was good practice for becoming comfortable with algorithms, and I also learned a lot about testing. 
+
 * [GitHub URL](https://github.com/katiescruggs/sorting-suite)
 * [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
 Evaluation Scores and Comments: Pass
 
 #### Complete Me
+
+For this project, I created a prefix trie data structure that was populating with an array of words from a dictionary file. This project taught me a lot about data structures that are based on objects linked together (including linked lists and binary trees). It was cool to package this project up into an NPM module, which showed me how I can import programs into other programs to add functionality.
+
 * [GitHub URL](https://github.com/katiescruggs/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
 [Evaluation Scores and Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-2/completeMe/katie.md)
 
 #### Weathrly
+
+This project was a challenge for me because I was working individually. One thing that I definitely want to improve on with my next individual project is planning better. When I work with others, I create specific plans for what I will accomplish when and stay organized. Because I was working by myself on this project, I did not keep myself as accountable with cutting the project into small pieces and finishing them on schedule. Despite organizational challenges, I am proud of myself for completing this project. I learned so much about React, testing in React, and importing NPM modules.
+
 * [GitHub URL](https://github.com/katiescruggs/weathrly)
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
-[Evaluation Scores and Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-2)
+[Evaluation Scores and Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-2/weatherly/katie.md)
 
 ## C: Group Work & Projects
 
 #### Game Time
+
+This project was really fun for me. I learned object-oriented programming while making a game that I was intersted in creating. I had an awesome partner, and we created a really cool game that we got to show in Code Fair.
+
 * [GitHub URL](https://github.com/katiescruggs/snake)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
