@@ -46,7 +46,7 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 | **Queries** | 4 | N/A | N/A |
 
 > Rales Engine evaluation comments:
-\<Instructor Comments Here>
+\One failing spec.
 
 > Cloney Island Sprint 1 evaluation comments:
 \<Instructor Comments Here>
