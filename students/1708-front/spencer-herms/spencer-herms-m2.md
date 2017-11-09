@@ -146,10 +146,6 @@ Thought this mode I partook in the Turning community as much as possible.  I att
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers)
-
 ### Outcome
 
-( Leave blanks for reviewers)
+Repeating (and CRUSHING) mod 2!
