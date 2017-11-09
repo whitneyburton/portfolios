@@ -34,11 +34,6 @@ passed
 
 For each challenge, you’ll be given a static comp and asked to recreate it. Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
 
 #### (Number Guesser)
 
