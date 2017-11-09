@@ -32,37 +32,37 @@ Individual projects included Number Guesser, the first project, and three static
 
 Number Guesser was the first project and it working through it gave me an understanding of DOM manipulation and event listeners.  It was also my first exposure to putting together html, css, and js in one project.  
 
-Evaluator: Pamela Lovett
+##### Evaluator: Pamela Lovett
 
-Comments:
+##### Comments:
  - Insults generator for th3 win! Like that you are pushing yourself to experiment with code outside of the requirements
  - Nice work with ARIA ---> and using the lang attribute in your HTML
  - Be sure to organize CSS and check for any redundancy
  - Works towards single responsibility in your JS functions. Understands scope.
  - Though it technically can be done, best practice is to separate your markup from your JS functionality (i.e. no click     handlers in your HTML)
 
-Scores:
+##### Scores:
 
-FUNCTIONAL EXPECTATIONS
+##### FUNCTIONAL EXPECTATIONS
 Proficient
 Exceptional
 
-COMP RECREATION / DESIGN
+##### COMP RECREATION / DESIGN
 Advanced Beginner
 
-HTML
+##### HTML
 Advanced Beginner
 Proficient
 
-CSS
+##### CSS
 Novice
 Advanced Beginner
 
-JS/jQuery
+##### JS/jQuery
 Advanced Beginner
 Proficient
 
-Surprise and Delight (reminder: have fun!)
+##### Surprise and Delight (reminder: have fun!)
 Unicorn Rainbows
 
 #### Static Composition 1
