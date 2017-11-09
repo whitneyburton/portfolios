@@ -56,11 +56,11 @@ This was the most frustrating project that I have worked on at Turing, but valua
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
 | **Heroku** | [Rales](https://) | [Self Directed](https://) | [The Pivot](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Functional/Client Expectations** | 3 | 3 | 2 |
+| **TDD** | 3 | 3 | 4 |
+| **Code Organization/Quality** | 4 | 3 | 3 |
+| **API Design** | 4 | N/A | N/A |
+| **Queries** | 4 | N/A | N/A |
 
 > Rales Engine evaluation comments:
 \<Instructor Comments Here>
