@@ -17,9 +17,9 @@
 -----------------------
 
 ## A: End of Module Assessment
- DOM Munipulation: Passed
- Mythical Creatures: Retaking with Pam
- Static Comp: Pending 
+ DOM Munipulation: Passed;
+ Mythical Creatures: Retaking with Pam;
+ Static Comp: Pending;
 
 ## B: Individual Work & Projects
 
