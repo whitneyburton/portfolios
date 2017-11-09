@@ -36,7 +36,7 @@
 
 > **[The Pivot](http://backend.turing.io/module3/projects/the_pivot)**
 >* This project was a brownfield code experience building on an existing little shop e-commerce platform.
->* This was perhaps one of the most challenging experiences I have had at Turing to date. The experience of brown-field code work and the simulation of real world experience was very different from anything else I have done to date. Consequently, It was also perhaps one of the most valuable learning experiences for me to date, both technically and in a more general sense. Technical highlights for me include user login and authorization organization, twilio implementation, and database management (non-destructive seed manipluation). More generally, the experience of site design and dev-ops were immensely valuable. Struggling with production bugginess tough me so much and I think has given me a really solid foundation to build on moving forward. 
+>* This was perhaps one of the most challenging experiences I have had at Turing to date. The experience of brown-field code work and the simulation of real world experience was very different from anything else I have done to date. Consequently, It was also perhaps one of the most valuable learning experiences for me to date, both technically and in a more general sense. Technical highlights for me include user login and authorization organization, twilio implementation, and database management (non-destructive seed manipluation). More generally, the experience of site design and dev-ops were immensely valuable. Struggling with production bugginess tough me so much and I think has given me a really solid foundation to build on moving forward.
 
 | CATEGORY | Rales Engine | Self Directed | The Pivot |
 | --- | --- | --- | --- |
@@ -64,7 +64,7 @@
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* I really enjoyed pairing with students to help them through issues. I found that it was a clarifying and rewarding experience. I will aways deeply value the help and guidance I have received from more experienced students, and want to pass that along to anyone else I can. 
+>* I really enjoyed pairing with students to help them through issues. I found that it was a clarifying and rewarding experience. I will aways deeply value the help and guidance I have received from more experienced students, and want to pass that along to anyone else I can.
 
 #### **Posse**
   >* Our posse is very informal. We gather to discuss our projects and personal work, share ideas, and build relationships.
@@ -81,4 +81,4 @@
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+> #### Outcome: Promoted

@@ -14,14 +14,14 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 | D | **Professional Development** | 2 |
 | E | **Feedback & Community Participation** | 3 |
 
->I'd like to build a Rails back-end API providing data to a JS front-end.  I'm looking forward to learning JS. 
+>I'd like to build a Rails back-end API providing data to a JS front-end.  I'm looking forward to learning JS.
 >* \<Notes>
 
 -----------------------
 
 ## A: Individual Work & Projects
 
-> **[APIcurious](https://github.com/erose357/apicurious) 
+> **[APIcurious](https://github.com/erose357/apicurious)
 >* In this project, we’ll be focusing on consuming and working with data from public APIs.
 >* Learning Oauth was cool, this project helped me understand POROs and services
 
@@ -85,4 +85,4 @@ This was a great gear-up.  Cold Outreach gives me anxiety and this provided me w
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+> #### Outcome: Promoted

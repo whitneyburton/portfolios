@@ -111,4 +111,4 @@ I volunteered as a TA at a Try Turing event and joined the Pahlka Civc Tech grou
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome: Promoted

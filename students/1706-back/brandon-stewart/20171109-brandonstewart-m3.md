@@ -59,7 +59,7 @@
 
 #### **Playing a Part**
 
-> \I have been involved in the Turing Civic Tech student group.  I made my personal project for that student group and it should give us a good foundation for actually being involved in civic tech.  I really enjoy the self-organizing aspect of the group and how everyone involved is actively engaged.  I feel like this sort of student experience that I hoped posses would be like. 
+> \I have been involved in the Turing Civic Tech student group.  I made my personal project for that student group and it should give us a good foundation for actually being involved in civic tech.  I really enjoy the self-organizing aspect of the group and how everyone involved is actively engaged.  I feel like this sort of student experience that I hoped posses would be like.
 
 ------------------
 
@@ -67,4 +67,4 @@
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome: Promoted
