@@ -101,8 +101,8 @@ This mod I made a greater effort to lead group sessions with my mod and make mys
 
 ### Notes
 
-( Leave blanks for reviewers )
+Thanks for asking questions! Keep it up in Mod 3. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promote to Mod 3
