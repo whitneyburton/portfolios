@@ -261,6 +261,10 @@ Mostly due to time and priority not ability levels.
 
 Exceptional
 
+##### Partner Feedback
+
+Jen - Hi Nick, I very much enjoyed working with you on TODOBox! I felt you took the lead and kept us organized and on task. Thank you for giving me the opportunity to work on some CSS styling (eventhough I broke it all right before eval!). I also enjoyed our strategy, where we came together for major decisions and any help we may have needed, but then we delegated tasks and worked independently. This really fit my preferred workstyle. I really must commend you for your leadership during this project. I struggled some and felt I was slow to get in PRs. However, I could always count on you to have your work done well and on time. I encourage you to just keep doing whatever you're doing as far as practice and study habits. You seem to have a great grasp on javascript, jquery, and css. You are a leader in our class, and we can all learn from what you have to offer. Fantastic work! ~Jen
+
 
 ## D: Professional Skills
 
