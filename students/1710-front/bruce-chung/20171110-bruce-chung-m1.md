@@ -78,24 +78,96 @@ Evaluator Comments:
  - margins are too tight on collapse, and images and text need to be centered
  - colors do not match image
 
+#### Static Composition 2
+
+* [GitHub URL](https://github.com/brucekchung/bc-static-comp2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+Static Comp 2 was more complicated than the first, with cards that need to be aligned left when shifted to another row (on collapse).  It was perhaps also my best of the three - I was able to preserve main image while remaining true to the original comp by introducing a hover state that laid out the required information.  
+
+Evaluator Comments:
+ - nav bar icons need a hover state and live state
+ - beige background color??
+ - margins in header are different on L and R side
+ - consider having hover states active for mobile
+
+#### Static Composition 3
+
+* [GitHub URL](https://github.com/brucekchung/bc-static-comp3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+Static Comp 3 was a massive jump in difficulty from 1 and 2, resulting in nearly 800 lines of css alone.  It was a serious and businesslike design comp, and I recreated it to display military jet aircraft (with a graph hover state to humor my instructors). Successes included having three successful media queries, having good alignment on all major items, and having good organization on collapse.  Points for improvement below.
+
+Evaluator Comments:
+ - heavy borders, topbar icons should be larger
+ - too many divs in the sidebar
+ - "specifications" button misaligned
+ - mobile layout: nav bar collapse looks unintentional
+
+
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+Group projects included Linked List, IdeaBox, and 2DoBox.  Projects were done in pairs, and they were a great chance to learn git/github workflow and learn how to collaborate with another developer.  
 
-#### (Project Name)
+#### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/brucekchung/Linked-List-1)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+Linked List was the first pair project and an introduction to JQuery.  It was a good experience with in-person pair programming using driver-navigator, and distance work through slack/github.  We learned to use 'this' effectively in conjunction with an event listener.
 
-(evaluation comments)
+##### Evaluator: David Whitaker
 
-(evaluation scores)
+##### Comments: 
+ - Pay more attention to detail on comp - ie. button should not have a border radius html
+ - USE FORMS!!!!!!! Inputs should have labels!!!
+ - Html style is pretty solid, but still room for improvement in indentation(ie. line 20 should be indented)
+ - css could use some organizational comments in css, no need for empty line at beginning of file
+ - css could consider using inline blocks instead of position absolute for desktop breakpoint
+ - Seeing hex and rgba values for colors - pick one or the other
+ - Check for duplicate lines in CSS and break out into class if possible
+ - js Be weary when using large ternaries
+ - jsComments seem unnecessary/redundant
+ - js Great job naming functions
+ - js Try to only use global vars when absolutely necessary - could probably make some of global vars local in this project
+ - js Be more consistent with spacing, indentation, and semicolons(each time block is nested should be indented two spaces or one tab)
+ - git/github Tell more of a story with commit messages, but love that I'm seeing a lot of commits
 
-(feedback to me)
+##### Scores:
+
+##### Functional Expectations
+Exceptional: You completed Phase Three and did something with Phase Four.
+
+##### COMP RECREATION / DESIGN
+Advanced Beginner
+Proficient
+
+##### HTML
+Advanced Beginner
+Proficient
+
+##### CSS
+Advanced Beginner
+Proficient
+
+##### JS/jQuery
+Proficient
+
+##### GIT & GITHUB
+Advanced Beginner
+Proficient
+
+##### Pairing/Collaboration
+Proficient
+Exceptional
+
+##### Surprise and Delight (optional category, but reminder: have fun!)
+Hot Fire
+
+##### Personal Feedback from partner (Nora Gully)
+Having Bruce as my partner was a great experience and very motivational. I liked that he wanted to get work done early and to get a lot of help at the beginning. This, along with his excellent communication skills, really minimized our overall stress and avoided conflicts. I thought it was fun to work with Bruce in-person and I felt he took the time to get to know me over lunch and beer. For example, I was touched that he thought to encourage me before my Lightning Talk on Thursday. I appreciated that he was open to my ideas and willing to play around with jQuery together at an early stage, even if it meant learning together through trial and error. I also love that he was motivated to help other people with their projects with the extra time we had during class. While Bruce is a great teacher, I felt that he moved a little too quickly for me at times with the script and that sometimes I was playing catch-up. I never felt lost - these were features we were working on together - but maybe he could have been more sensitive to whether I was going in the right direction, and then pushed me harder to generate the answer even if he already knew it. I also noticed that at the outset, we set goals about what we wanted to work on, but didn't necessarily stick to them. So for example, I wanted to work on Javascript/jQuery and Bruce wanted to work on CSS, but when push came to shove, we just stuck to what we were good at. Our git workflow was a little haphazard and could be more deliberate, (i.e. making a branch more specific and merging it when the feature is complete). I think Bruce also accidentally committed changes on master when he should have been on a branch. Confusion with git is to be expected at this point, though, and I'm glad we got things like merge conflicts taken care of without messing things up! Overall working with Bruce was awesome and I have definitely learned a lot from him during this project!
 
 ## D: Professional Skills
 (Intro)
