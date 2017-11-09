@@ -19,7 +19,7 @@ I feel very good about my end of mod assessment. Though I did not get all the wa
 
 ## B: Individual Work & Projects
 
-#  Head Count 2.0
+##  Head Count 2.0
 * [GitHub URL](https://github.com/bbp5280/headCount)
 
 ## HeadCount Eval
@@ -57,7 +57,7 @@ Pass - Proptype validation is implemented for any component receiving props.
 3 - Hot Fire
 
 
-# Swapi Box
+## Swapi Box
 
 * [GitHub URL](https://github.com/jenPlusPlus/SwapiBox)
 
@@ -100,7 +100,7 @@ The output from ESLint shows…
 
 3 - Developer(s) make many small, atomic commits that document the evolution of the application but sometimes contain irrelevant changesets and inconsistent commit messages. Developer(s) use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing fresh changes directly to master. Pull requests may contain little or no code review. There may be slight instances where the developer(s) have committed source code that should be .gitignored. There may be some instances of “dead” or commented-out code and debugger statements like console.log that need to be cleaned up.
 
-#  Movie Tracker
+##  Movie Tracker
 * [GitHub URL](https://github.com/alexbanister/movie-tracker)
 
 ## Movie-tracker
@@ -152,6 +152,9 @@ The output from ESLint shows…
 
 ## E: Community Participation
 I continued to attend meet up events. I also found a few opportunities to do my own conversations/follow alongs with a few startups outside of the turing community. Where I could I continued to help lower mods on projects and tools for making their goals. 
+
+## Personal Project 
+
 
 # PD
 
