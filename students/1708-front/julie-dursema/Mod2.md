@@ -1,4 +1,4 @@
-Julie Dursema Mod2 Portfolio
+# Julie Dursema Mod2 Portfolio
 
 Areas of Emphasis:
 
@@ -16,7 +16,7 @@ E: Community Participation:
 
 B: Individual Work & Projects
 
-###Sorting Suite
+### Sorting Suite
 
 [GitHub URL] (https://github.com/jdursema/Sorting-Suite)
 [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
@@ -27,7 +27,7 @@ Pass
 
 
 
-##Complete Me
+### Complete Me
 
 [GitHub URL] (https://github.com/jdursema/Complete-Med)
 [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
@@ -45,7 +45,7 @@ Code Sanitation: 4
 
 C: Group Work & Projects
 
-##Game Time
+### Game Time
 
 [GitHub URL] (https://github.com/jdursema/game-time-mrjd)
 [Original Assignment] (http://frontend.turing.io/projects/complete-me.html)
@@ -62,7 +62,7 @@ Workflow: 3
 Code Sanitation: 4
 
 
-##Weathrly
+### Weathrly
 
 [GitHub URL] (https://github.com/mariastlouis/weathrly)
 [Original Assignment] (http://frontend.turing.io/projects/weathrly.html)
@@ -85,7 +85,7 @@ Code Sanitation: 4
 
 D: Professional Skills
 
-Gear Up Reflections:
+### Gear Up Reflections:
 
 GitHub URL
 E: Community Participation
