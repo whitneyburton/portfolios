@@ -96,8 +96,8 @@ I learned so much this mod, and towards the end, I think I started to become mor
 
 ### Notes
 
-( Leave blanks for reviewers )
+We loved your energy and enthusiasm! Great work this mod, keep it up
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promote to Mod 3
