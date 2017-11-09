@@ -179,4 +179,12 @@ The output from ESLint shows…
 
 ### Outcome
 
-( Leave blanks for reviewers )
+## Rubric Scores
+
+PASS
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4

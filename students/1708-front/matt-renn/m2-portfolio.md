@@ -100,8 +100,8 @@ I participated in IronFE sessions. I was helpful to the Mod 1 students as much a
 
 ### Notes
 
-( Leave blanks for reviewers )
+You showed really great hustle this mod. Keep it up! Great work.
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promote to Mod 3
