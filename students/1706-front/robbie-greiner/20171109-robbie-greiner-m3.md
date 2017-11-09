@@ -167,28 +167,61 @@ Pass - Proptype validation is implemented for any component receiving props.
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
 
-A reflection on micro-agressions, this Gear-Up provided a good opportunity to reflect on the everyday interactions I find myself in and how I can better be aware of others' identities. This is an important topic for us all to consider as our world becomes "smaller" given how connected we all are thanks to technology.
+I haven't experienced too many microagressions while I have been at Turing.  One that does stick out to me
+is at a professional development session in which we had to pair with another student and tell our story.
+I paired up with one of the back end students.  When he had heard that I was previously an engineer, he told
+me that he was suprised that I chose to do front end instead of back end.  I asked him why and he said
+because back end is more 'engineering' and logic based.  I kind of interpreted this as him saying that in 
+his head front end is more fluffy visual designs, and back end is real engineering and development, which is
+absolutely not true.  I politely said that there is plenty of logic in front end. 
 
 ### Tragedy of the Commons
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-The Parable of the Paragon was a thought-provoking medium through which to view and discuss diversity. The way in which the statistics on something as small as neighbor preference were displayed and interactive for the user not only caused me to reflect on some of my own choices, but also have ideas about what I can build with the skills I'm gaining at Turing.
+Let's say tech executives (consciously or subconsciously) seek teams in which at least 1/3 of team members are like 
+them (gender, age, race). How will this impact the types of jobs available?.
+  * If only 1/3 of the people in the team are like them, then I think ultimately it will lead to a really diverse team.
+  This should mean that 2/3 of the team isn't like them, which means diversity.  So I am not sure if I see a negative
+  in this scenario.
 
-However, I think this Gear-Up's title needs to be changed, because the "Tragedy of the Commons" is a specific economic problem, and not what this Gear-Up was about.
+Diversity "quotas" are sometimes dismissed as counter-productive or missing the point of actually valuing diversity. 
+PotP does demonstrate how they may add some value. What are your attitudes toward diversity quotas; does this game 
+change your assumptions?
+  * PotP basically is saying that a big mixture is good. You don't want to bring in just ONE person who is diverse to the group. 
+  * I haven't really thought about this.  Bringing in just one person who is diverse might lead to unhappiness of them because there is noone else like them.  PotP says that having many diverse people is good.
+  
+  
+Given the patterns illuminated by PotP, what other strategies may be effective in counteracting bias?
+  * Diversifying the group evenly.
+  
+PotP speaks to the power of group norms: a seemingly innocuous attitude, wanting to be surrounded by at least 1/3 of 
+people who look like you, when embraced by a large group, can have huge implications on that community. 
+Considering this reality, what knowledge and understandings should Turing impart to students to ensure they 
+do not enter the field perpetuating ideas that are in conflict with our mission.
+  * I am not sure I agree with any of this.  If Turing could get 1/3 of a diverse group here that would be an amazing 
+  accomplishment.  There are groups that are way underrepresented at Turing and other places. I do not understand
+  the issue with 1/3 considering that most teams in America do not contain 1/3 of a diverse group.
+
+PotP is a pretty sweet example of how technology can illustrate complex ideas. What are PotP's goals, and how 
+effective do you think the game is in advancing those goals?
+  * It was definitely more attention grabbing to be able to play a game that visualizes the message, rather than just
+  reading a long article with endless text.  I think this is definitely a way to get the attention of more people and 
+  educate them on an idea of philosophy that matters to you. 
 
 
-### Mod 4 Lead - Toxic Masculinity in Nerd Culture
+### Mod 4 Lead - Cold Outreach
 
-This Gear-Up attempted to have us dive into a rather vast issue, being masculinity prevalant across all types of nerd culture. I engage in interesting dialogue with my classmates, but I think we all found that the issue was much bigger than we initially thought as we talked it out.
+This gear up was one of the best things I have been a part of all mod.  It really lit the fire under me to start making
+connections and getting to know people.  I have half a dozen coffee dates setup for intermission and have already had
+one phone interview as a result of my cold outreach.  I will be using cold outreach extensively until I get a job.
 
 # D: Community Participation
 
 ## Playing a Part
 
-I maintain a google doc of mod-specific resources for my classmates to use as we go throughout the mod.
-Paired with lower mod students on a few occasions.
-Helped re-start my posse.
+I take time to help my classmates and students in lower mods.
+
 ------------------
 
 ## Final Review
@@ -201,9 +234,9 @@ Helped re-start my posse.
 
 PASS
 
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4 
-* **C: Group Work & Projects**: 4
-* **D: Professional Skills**: 4
-* **E: Community Participation**: 3.5
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5 
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3.5
+* **E: Community Participation**: 3
 
