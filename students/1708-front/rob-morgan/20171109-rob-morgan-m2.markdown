@@ -236,8 +236,8 @@ Also, I made myself consistently available for pairing with Mod 1 students and e
 
 ### Notes
 
-( Leave blanks for reviewers )
+Really great work this module!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
