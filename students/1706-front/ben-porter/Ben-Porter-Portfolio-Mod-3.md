@@ -157,7 +157,7 @@ I continued to attend meet up events. I also found a few opportunities to do my 
 
 After trying to create my portfolio for several hours I was forced to give up. I can not set up a project for the portfolio without the personal part. 
 
-Her is a link to my resume:
+Here is a link to my resume:
 * [Resume](https://www.canva.com/design/DACkHEEbm4Q/JWcQFWZQKwLPGYhlwBV8XA/view?utm_content=DACkHEEbm4Q&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Final Review
