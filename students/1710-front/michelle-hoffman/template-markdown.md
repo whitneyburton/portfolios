@@ -21,7 +21,7 @@ Going into Mod 1, I wasn't totally sure what to expect, but my main goal was to 
 
 ## B: Individual Work & Projects
 
-### Number Guesser
+#### Number Guesser
 
 * [GitHub URL](https://github.com/michellehoffman/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
@@ -38,16 +38,16 @@ The first project in the front-end program was Number Guesser. I stuggled a TON 
 
 #### Evaluation Scores
 
-##### Functional Expectations
+###### Functional Expectations
 - Proficient: Application meets all of the expectations of phase three.
-##### COMP RECREATION / DESIGN
+###### COMP RECREATION / DESIGN
 - Advanced Beginner
-##### HTML
+###### HTML
 - Advanced Beginner
-##### CSS
+###### CSS
 - Novice
 - Advanced Beginner
-##### JS/jQuery
+###### JS/jQuery
 - Novice
 - Advanced Beginner
 
