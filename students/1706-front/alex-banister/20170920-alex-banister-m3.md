@@ -173,3 +173,12 @@ I try to spend as much time as I can helping my fellow classmates and making mys
 ### Notes
 
 ### Outcome
+## Rubric Scores
+
+PASS
+
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
