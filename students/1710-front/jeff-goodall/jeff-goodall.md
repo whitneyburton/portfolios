@@ -357,25 +357,25 @@ Build a game where the user guesses a number between 1 and 100.
 * [GitHub URL](https://github.com/turingschool/gear-up/tree/master/m1_citizenship)
 
 #### Growth Mindset
-This session introduced the idea of growth mindset and fixed mindset. I feel it was a good way to preface the rest of the mod with the notion of "not yet" and how to recognize growth mindset and fixed mindset. I learned about how to pivot feelings that place us in fixed mindset and present these feelings in a way that allows growthmind set to step in. After this session, I still find myself pin pointing when a fixed mindset is creeping up on me and using the phrase "not yet" to change my thought process.
+This session started the discussion on the mentality of a growth mindset instead of a fixed mindset. I see that this was very impactful to me. A growth mindset doesnt come naturally to me but I am a happier person when I have this positive mindset. I spent most the the mod catching myself when I used a fixed mindset and changing it to a growth mindset. this was a lesson that I will take with me for sure.
 
 #### Getting Better at Difficult Things
-This session was about how we feel about learning difficult things and how this impacts our ability to learn. There was an emphasis on how our cognative resources are used and drained by our emotions and subconscious thoughts. I can notice a big difference in how my brain preforms and my problem solving abilities depending on my emotional state and physical state.
+Throwing my hands in the air and yelling screw this is something I may, or may not, have done this mod. getting better at difficult things directly relates to Turing and handeling the stress of the program. I definitly enjoy that the staff realises that the process is a difficult one and takes that into consideration. We tend to put ourselfs in a box and not step out of it. getting better at difficult things tought me how to deal with being an imposter feeling and I am very thankful.
 
 #### Dealing with Difference: Introverts & Extroverts
-This session was a discussion on how different workstyles can co-exist and support eachother. I thought this session was important because it allowed me time to recognize that my workstyle and strengths can be understood by others even if they don't share the same styles/strengths.  I was nice to hear directly from others about how they understand different workstyles and how they prefer to approach things.
+I liked this session because of the groups. in the beginning we started by picking a spot on the line of where we thought we would be on the extrovert introvert line. This was great because I imedialy was next to like minded people and it helped me feel compfortable immediatly. As a group we walked around the room and read about each group and how to relate to them despite the difference of personality. I think the comments will help me work with introverts and extroverts better going forward.
 
 #### Code: Debugging the Gender Gap
-This session was eye-opening and informative, specifically the actually statistics about women and minorities in tech fields. I was not suprised by any of the content but it did remind me about the biases and inequalities that exist and how important it is to continue to push for evolution both in our smaller communities and outward. I was grateful that this discussion was encouraged. 
+I very much liked the historical aspect of this documentary. I relate to the historical past better in fact it is one of my strength finder traits. the truth is that diversity never hurts and any industry that doesnt have much diversity is going to have issues staying relevant. The gammer geek is a steriotype of developers that needs to be changed. Developers are a unique personallity and that can limit the amount of females in the industry because it is not cool. As the scope of the insdustry keeps growing there is deffinitly room for more diversity in the industry and that diversity should start with integrading females, it ends when the developer world is a perfect little sample of the diversity of the world.
 
-#### Case Study with Mod 4 : UX/UI
-I really enjoyed this session about user experience and user interface. The mod4 students seemed excited to present the topic and it was informative and fun. They formed great discussion questions and gave plenty of examples of both good and bad UX/UI. I'm very driven by the concept of UX/UI and am excited to learn more about how to implement awesome code to make great user experiences!!!!
+#### Case Study with Mod 4 : Not Taking yourself too seriusly
+remember rule #6.“It’s really very simple. Rule Number Six is ‘Don’t take yourself so damned seriously.’” “And what, may I ask, are the other rules?” The host replied, “There aren’t any.” if everything is the most important then nothing is important! working with Mod 4 on this lesson was helpful and made me realize that what is important to me may not acctually be impartant at all and that I should not take myself so seriously. The best example of this is being able to take feedback like a champ it involves making a commitment to not take myself to seriously. reminds me of my favorite quote "When we are closed to ideas, what we hear is criticism. When we are open to criticism, what we get is advice." - Simon Sinek
+
 
 ## E: Community Participation
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
+I have supported the community by attending every friday morning talk this mod. I also have cleaned things in the kitchen and assisted in the recyleing efforts around campus by recycling and taking the recycling to the bigger cans on occation. I have been open minded about the diversity in the class room and I must admit that it is more diverce then i have been around in a long time if ever. I am a part of the school community just by being here and standing up to learn more about our vision statement. I am a better person for being here.
 
 ------------------
 
