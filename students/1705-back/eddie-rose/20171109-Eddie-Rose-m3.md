@@ -21,7 +21,7 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 
 ## A: Individual Work & Projects
 
-> ** [APIcurious](https://github.com/erose357/apicurious) 
+> **[APIcurious](https://github.com/erose357/apicurious) 
 >* In this project, we’ll be focusing on consuming and working with data from public APIs.
 >* Learning Oauth was cool, this project helped me understand POROs and services
 
@@ -70,9 +70,9 @@ This was a great gear-up.  Cold Outreach gives me anxiety and this provided me w
 
 
 #### **Posse**
-  >* <Blurb about what you did with your posse over the module>
+  >* Blurb about what you did with your posse over the module
   >* We paired up with other posses to practice sharing our personal stories
-  >* <How has your posse experience helped you grow as a professional?>
+  >* How has your posse experience helped you grow as a professional?
   >* I really struggle with the new posse structure, but it has helped me meet students from the other mods.
 
 #### **Playing a Part**
