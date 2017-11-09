@@ -7,10 +7,10 @@ This module I set out to push myself to grow in a multitude of facets. Firstly, 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **B: Individual Work & Projects**: Proficient
+* **C: Group Work & Projects**: Proficient
+* **D: Professional Skills**: Proficient
+* **E: Community Participation**: Exceptional
 
 -----------------------
 
