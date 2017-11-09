@@ -260,23 +260,109 @@ Proficient Can diplomatically handle issues that arise between the pair through 
 
 The 2doBox Pivot was our last group project for mod 1. We were given another group from the previous projects codebase and create a new project out of it. The goal was to take a users input for a task that was to be completed and store it in local storage. We were to update the ranking system and have options for the user to filter their ideas by these importance ranks. They could also search the cards and on reload only the 10 most recent and non-completed tasks would appear. They could show complted ones with a button click.
 
-(evaluation comments)
+- consider adding a no results message for filtering and search
+- show more / show less
+- toggle finished button/link
+- hover/active states
+- consider edge case of super long title and body
 
-(evaluation scores)
+html
 
-```Parker was like the most easygoing but hardworking determined pairing partner I've had so far. We were able to complete our project and even add some extensions. Parker has a lot of energy so I was worried I wouldn't be able to maintain our working pace, which I sort of told him about maybe indirectly. But Parker was patient with me and never took my own exhaustion personally, which is something I admired in him. Parker taught me how to be more organized with issues on Github and how to use Waffle.io. He took the time to help me on our side project as well. I would say my only constructive criticism which is also directed at myself is making the partner's contribution easier. That has to do with our different level of understanding of Javascript and our difference in confidence. I think Parker's confidence makes it easier for him to add contributions to our project whereas I always second-guessed myself.```
+- Get rid of those spaces!!
+- weirdness with jquery
+- blue background
 
-#### (Project Name)
+css
+
+- speak to decisions around block organization
+- Consider doing a typography section where primary font is added at top and overridden after
+
+js
+
+- variable names are better - more appropriate
+- did function expression for constructor function
+- start trying to pass around objects instead of object properties
+
+git/github
+
+- Sooo many commits! Love it!
+- Good declarative commit messages
+- consider adding a body
+
+
+#### Functional Expectations
+ 
+- Proficient
+
+HTML
+#### Accessibility
+- Proficient
+
+#### Style
+- Advanced Beginner
+- Proficient
+
+
+#### Structure of Code
+- Advanced Beginner
+- Proficient
+
+#### Implementation
+- Advanced Beginner
+- Proficient
+
+#### JAVASCRIPT
+- Data Types
+- Proficient
+
+#### Conditional Logic
+- Proficient
+- Exceptional
+
+#### Functions & Scope
+- Proficient
+
+#### Arrays
+- Advanced Beginner
+- Proficient
+
+#### Objects & Prototypes
+- Advanced Beginner
+- Proficient
+
+#### DOM Manipulation
+- Proficient
+- Style
+- Proficient
+
+#### GIT & GITHUB
+- Proficient
+
+#### Github
+- Proficient
+
+####DESIGN
+#####Design Concepts
+- Proficient
+
+#### PAIRING
+##### Collaboration
+- Proficient
+
+
+"Parker was like the most easygoing but hardworking determined pairing partner I've had so far. We were able to complete our project and even add some extensions. Parker has a lot of energy so I was worried I wouldn't be able to maintain our working pace, which I sort of told him about maybe indirectly. But Parker was patient with me and never took my own exhaustion personally, which is something I admired in him. Parker taught me how to be more organized with issues on Github and how to use Waffle.io. He took the time to help me on our side project as well. I would say my only constructive criticism which is also directed at myself is making the partner's contribution easier. That has to do with our different level of understanding of Javascript and our difference in confidence. I think Parker's confidence makes it easier for him to add contributions to our project whereas I always second-guessed myself."
+
 
 ## D: Professional Skills
-(Intro)
+
+The professional development courses the first mod of Turing were, I believe, designed to help students figure out who they are as a developer and provide insights and skills to be succesfull while at school and beyond. Such as knowing how you work best, how your pair partners work best and merging those together. We also dove into the the tech world and some of the challenges it faces from current society and how we could help solve those challenges.
 
 ### Gear Up
 #### Growth Mindset
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-I believe I've had a growth mindset for several years but Turing gave me a name for it. I think I found it somewhere when I started bike racing and was getting smoked but just kept training and racing and then was doing decent. Having a growth mindset is an important attribute to have while at Turing and beyond. The struggles I face here are some that years ago I immdediately would have backed away from. I know I'm not the fasted learner in the world but I feel that now if I just put some serious deep thought into anything and continue to practice it I will learn it. Just like training for racing it doesn't come over night. 
+ Having a growth mindset is an important attribute to have while at Turing and beyond. The struggles I face here are some that years ago I immdediately would have backed away from. I know I'm not the fasted learner in the world but I feel that now if I just put some serious deep thought into anything and continue to practice it I will learn it. Just like training for racing it doesn't come over night. 
 
 #### Getting Better at Difficult Things
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
