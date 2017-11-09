@@ -135,8 +135,8 @@ My primary goal throughout this mod in terms of contributing to the community wa
 
 ### Notes
 
-( Leave blanks for reviewers)
+Great hustle, keep the fire up and continue crushing it!
 
 ### Outcome
 
-( Leave blanks for reviewers)
+Promote to Mod 3
