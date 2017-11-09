@@ -319,13 +319,13 @@ This introduced us to the perspective of a woman in tech and barriers they may o
 
 #### Block-Chain Technology with Mod4
 
-Block-chain technology 
+My first choice of the gearup sessions with mod 4. Block-chain technology is here to stay, and we had a good discussion on how it works and how it will impact the financial and political sectors.  
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I tried to be as involved as I could in the community.  I was a SAB rep and I attended multiple group events, including TAAAP, Iron Front End, and participated in Turing-veteran discussions.  Within my class, I was active in facilitating group events after class was out, helped my peers with projects when I could, and pushed for an event to give back to Mod2 (breakfast burritos).
 
 ------------------
 
