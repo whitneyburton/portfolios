@@ -1,4 +1,4 @@
-# First Last - M1 Portfolio
+# Iza Jimenez - M1 Portfolio
 
 ## Areas of Emphasis
 
