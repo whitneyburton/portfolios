@@ -30,9 +30,17 @@ In my paired projects, I learned a lot about managing time and distributing work
 
 What was your favorite Gear Up? Least favorite? Why?
 
+My favorite Gear Up was the one on diversity. I really enjoyed the polygon exercise since I'm a visual learner and I could really see what was happening. I also feel like this is a topic that really forces me to think. As someone who applied to a professional school, it used to be really frustrating to me to watch schools accept someone with lower test scores or less volunteer hours because of a demographic. While I have moved past this view, it was still really impactful for me to see what an impact conciously trying to increase diversity can have.
+
+My least favorite Gear Up was the one on empathy and privilege. I think it is an important topic, but feel that true empathy can't be gained simply by talking about it. In addition, although I think privilege needs to be discussed, I always find these discussions frustrating. This is because so many small things play a part in how someone views the world that it's very hard to define where privilege lies. For example, I grew up with a father that worked with SQL. While many would think this positively impacts my involvement in tech, the truth is that I saw him come home from work every day stressed. He would tell me that he just has a job to make money to support his family and do things outside of work. In a way, I think privilege is a murky topic that can draw focus away from the individual.
+
 How did you contribute to the Turing community this module?
 
+I want to say that starting work on a pairing application is one way I contributed and want to continue to contribute. I think one of the hardest thing for me is reaching out to someone for help and depersonalizing the request might make it easier to ask. I think the idea is a good one and would like to continue to work on this project on the side to review my Rails knowledge over break.
+
 What would you like to do to contribute next module?
+
+I'm going to say the say thing I did last module, because I wasn't able to work something out. I'd like to work towards hosting a GDI code & coffee event at Turing with the help of JCS. 
 
 ## Self-Assessment Scores
 
