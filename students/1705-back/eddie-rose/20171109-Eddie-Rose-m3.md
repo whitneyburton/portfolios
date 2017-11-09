@@ -37,7 +37,7 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 
 | CATEGORY | Rales Engine | Self Directed | The Pivot |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
+| **Github Repo** | [https://github.com/blsrofe/rails_engine](https://) | [https://github.com/erose357/project_manager](https://) | [Cloney 2 Repo](https://) |
 | **Heroku** | [Rales](https://) | [Self Directed](https://) | [The Pivot](https://) |
 | **Functional/Client Expectations** | X | X | X |
 | **TDD** | X | X | X |
@@ -59,7 +59,7 @@ My goal was to become more comfortable working with APIs, both consuming and pro
 > [https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown](Microaggression)
 This gear-up made me more sensitive to other people's experiences and how it can influence their perspective.  Also to be more careful in my speech, some terms and phrases considered to be normal can be offensive.
 
-> [https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown](Tragedy of the Commons)
+> [https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown](Tragedy of the Commons)  
 I was out sick this day
 
 > [](Cold Outreach - led by Mod 4)
