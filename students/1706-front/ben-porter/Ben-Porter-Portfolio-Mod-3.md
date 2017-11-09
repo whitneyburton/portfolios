@@ -169,3 +169,12 @@ Here is a link to my resume:
 
 ### Outcome
 
+## Rubric Scores
+
+PASS 
+
+* **A: End-of-Module Assessment**: 4 
+* **B: Individual Work & Projects**: 3 
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
