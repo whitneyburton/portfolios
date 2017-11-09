@@ -185,23 +185,32 @@ Advanced Beginner/Proficient
 
 ##### HTML
 Accessibility - Novice
+
 Style - Advanced Beginner/Proficient
 
 ##### CSS
 Structure of Code - Advanced Beginner/Proficient
+
 Implementation - Advanced Beginner
 
 ##### JAVASCRIPT
 Data Types - Proficient
+
 Conditional Logic - Proficient
+
 Functions & Scope - Proficient
+
 Arrays - Proficient
+
 Objects & Prototypes - Proficient
+
 DOM Manipulation - Proficient
+
 Style - Advanced Beginner/Proficient
 
 ##### GIT & GITHUB
 Git - Proficient/Exceptional
+
 Github - Proficient
 
 ##### DESIGN
@@ -243,23 +252,32 @@ Proficient/Exceptional
 
 ###### HTML
 Accessibility - Proficient
+
 Style - Proficient
 
 ##### CSS
 Structure of Code - Advanced Beginner/Proficient
+
 Implementation - Advanced Beginner/Proficient
 
 ##### JAVASCRIPT
 Data Types - Proficient
+
 Conditional Logic - Proficient
+
 Functions & Scope - Proficient
+
 Arrays - Advanced Beginner/Proficient
+
 Objects & Prototypes - Proficient
+
 DOM Manipulation - Proficient
+
 Style - Proficient/Exceptional
 
 ###### GIT & GITHUB
 Git - Proficient
+
 Github - Proficient
 
 ###### DESIGN
