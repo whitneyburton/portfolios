@@ -128,8 +128,8 @@ This mod I really wanted to 'pay it forward' to mod1 and try to be available for
 
 ### Notes
 
-( Leave blanks for reviewers )
+Really solid work this mod! Thanks for helping out your cohort - keep it up!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Promote to Mod 3
