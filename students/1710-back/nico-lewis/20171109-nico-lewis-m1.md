@@ -71,10 +71,10 @@ On a side note: my yoga is definitely improving whilst at Turing so it would be 
 
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-| Category                     | Score   |
-| -----------------------------| -----   |
-| **Individual Projects**      |   3     |
-| **Group Projects**           |   3     |
-| **Professional Development** |   3     |
-| **Community**                |   4     |
-| **Pentathlon**               |   3     |
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   2   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   4   |
+| **Pentathlon**               |   3   |
