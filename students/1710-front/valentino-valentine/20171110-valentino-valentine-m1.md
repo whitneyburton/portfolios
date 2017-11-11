@@ -102,4 +102,4 @@ Idea Box: We built a simple application for recording and archiving our ideas (g
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING
