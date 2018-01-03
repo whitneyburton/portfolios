@@ -6,7 +6,7 @@ What did you set out to accomplish this module? Were you successful?
 * My primarily goal was to develop a solid understanding of the Ruby language and design principles that govern object-oriented programming. Ideally, by doing this, I would also pass the module. Over the past six weeks, I feel that I have grown and learned a lot. I would consider this growth a success.
 
 What did you struggle most with this module? What did you learn from that struggle?
-* I think I struggled with encapsulation - particularly, with regard to attr_reader and attr_accessor - and hashes. The main takeaways from these struggles were learning how useful the ruby docs are in explaining concepts and how useful my fellow students are to aid in clarfying difficult subjects.
+* I think I struggled with encapsulation - particularly, I struggled understanding when to use attr_reader and attr_accessor - and hashes. The main takeaways from these struggles were learning how useful the ruby docs are in explaining concepts and how useful my fellow students are to aid in clarfying difficult subjects.
 
 ## Projects
 
