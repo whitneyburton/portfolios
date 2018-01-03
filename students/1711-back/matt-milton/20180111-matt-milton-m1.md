@@ -23,14 +23,14 @@ What did you learn from your paired projects?
 
 What was your favorite Gear Up? Least favorite? Why?
 
-Health & Wellness 2 was my least favorite because I feel like the models presented were overly simplified. For instance, the tri-uine brain is a very simplistic model of one's nervous system. Although I found the overall takeaway of the importance of sleep and mental health to be enlightening, I think the data used to argue that takeaway was a tad underwhelming.
+* Health & Wellness 2 was my least favorite because I feel like the models presented were overly simplified. For instance, the tri-uine brain is a very simplistic model of one's nervous system. Although I found the overall takeaway of the importance of sleep and mental health to be enlightening, I think the data used to argue that takeaway was a tad underwhelming.
 
 How did you contribute to the Turing community this module?
 
-I contributed to the Turing community by participating in the Turing held events, demo night, meditation, and guest speakers. Additionally, I tried to come-in after hours and on weekends, with the explicit purpose of working with other students. This allowed me to start some relationships that I hope continue after Turing.
+* I contributed to the Turing community by participating in the Turing held events, demo night, meditation, and guest speakers. Additionally, I tried to come-in after hours and on weekends, with the explicit purpose of working with other students. This allowed me to start some relationships that I hope continue after Turing.
 
 What would you like to do to contribute next module?
-I would like to offer my help to other students more and perhaps, offer some coding advice to the incoming cohort. I would also like to attend more lunch meetups, and it would be nice to submit a project to a code-fair.
+* I would like to offer my help to other students more and perhaps, offer some coding advice to the incoming cohort. I would also like to attend more lunch meetups, and it would be nice to submit a project to a code-fair.
 
 
 ## Self-Assessment Scores
