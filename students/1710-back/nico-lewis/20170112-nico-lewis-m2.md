@@ -56,6 +56,10 @@ What would you like to do to contribute next module?
 
 Next module I really want to start the internal mentor database. I think it is really nice to know a little bit about someone before you approach them as a potential mentor. It can make the working relationship much smoother and if you find someone who has a similar set of interests as you that first meeting is just a little less awkward. Currently we have this system in place when approaching alums as potential mentors, but wouldn’t it be great if students in module one could look at a database of currently enrolled students to find potential mentors in an upper module that they have something in common with. It’s a work in progress for now and may be something I decide to build out as my personal project in the next module!
 
+Blog post
+
+[My Blog post](https://medium.com/@nicolewis/the-behavioural-economics-guide-to-web-development-eb53dd905d6e)
+
 
 ## Self-Assessment Scores
 
