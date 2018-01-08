@@ -28,6 +28,9 @@ I can't rely on pure automated testing when building forms and tools for humans.
 ### What did you learn from your paired projects?
 Got a lot of practice with being very specific about what to work on. There are a lot of things that can be assumed and if teammates make a different one than you, you're going to be redoing parts. Also, learned how hard it is to break up pieces of a site before others have been implemented.
 
+### Blog Post
+https://hackernoon.com/weve-all-been-there-adedc9e82b42 
+
 ## Community
 ### What was your favorite Gear Up? Least favorite? Why?
 The Community Gear Up about Open Source Ethics was interesting because we got to talk about ethical perspectives and think about each one from an ultimate philosophy method.
