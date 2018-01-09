@@ -107,6 +107,8 @@ Evaluation by Brittany...
 
 I lead a Gear Up on the topic of how to advocate for yourself in pairings and other professional situations. I also lead Iron FE once per week and facilitated the Queer Quoders meetup.
 
+## E: [Job Search](https://gist.github.com/lolakoala/5f8c669e70c1b25a69d8ca103b06029c)
+
 ------------------
 
 ## Final Review
