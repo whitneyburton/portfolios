@@ -14,15 +14,15 @@ What did you struggle most with this module? What did you learn from that strugg
 
 What were your favorite projects this module? Least favorite? Why?
 
-*
+* The mini-project and little shop were my two favorite. I enjoyed having a little creative freedom to make something that we wanted and were not strictly following a set of guidelines. My least favorite was Bike Share. While it was a good learning experience and nice to get some time with Sinatra, I felt like some of the directions were unclear.
 
 What did you learn from your independent projects?
 
-*
+* From my independent projects, I learned how to push myself and sort through documentation to figure out gems and other Rails features that we were not taught in class.
 
 What did you learn from your paired projects?
 
-*
+* In group projects, I learned how to take a step back and allow others to take charge in areas of the projects.
 
 ## Community
 
@@ -32,11 +32,11 @@ What was your favorite Gear Up? Least favorite? Why?
 
 How did you contribute to the Turing community this module?
 
-*
+* I contributed some to Pahlka, but found it to be difficult to juggle along with school work and life.
 
 What would you like to do to contribute next module?
 
-*
+* I would like to contribute by entering into the code fair/demo night, as well as building my network amongst other students and alumni.
 
 ## Self-Assessment Scores
 
