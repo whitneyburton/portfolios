@@ -28,7 +28,7 @@ What did you learn from your paired projects?
 
 What was your favorite Gear Up? Least favorite? Why?
 
-*
+* My favorite gear up was the Attention Economy. It was a really interesting topic and I enjoyed discussion how we can be both profitable and ethical as budding developers. I also enjoyed the storytelling gear up this mod. It was great to hear others stories in greater detail and also working on refining my own. My least favorite are the feedback gear ups. While I understand the value and that I can grow in my ability to provide feedback, they are too numerous and often seem forced.
 
 How did you contribute to the Turing community this module?
 
