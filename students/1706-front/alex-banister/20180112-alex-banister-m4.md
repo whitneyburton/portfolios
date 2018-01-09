@@ -49,6 +49,11 @@ Learn back-end and get comfortable with full-stack work.
 
 * [Portfolio with Resume](https://www.turing.io/alumni/alex-banister)
 
+### 30-day Post-Grad Plan
+
+* [Calendar](https://calendar.google.com/calendar?cid=amFzZGVzaWVjc2JjcjBrb3RnZTc2MG1vdWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+* [Plan](https://gist.github.com/alexbanister/2684bedbe8f4a452bca93e140d7bfd23)
+
 ## E: Community Participation
  - Helped my cohort mates
  - Assist mod 3, (problem solving and pairing)
