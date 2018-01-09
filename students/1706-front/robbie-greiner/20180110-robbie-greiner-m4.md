@@ -1,6 +1,6 @@
 # Robbie Greiner
 
-# M3 Portfolio
+# M4 Portfolio
 
 ## Rubric Scores
 
@@ -38,9 +38,6 @@ Passed
 * [GithHub URL](https://github.com/robbiegreiner/palette-picker)
 * [Original Assignment](http://frontend.turing.io/projects/palette-picker.html)
 
-* [GitHub URL](https://github.com/alexbanister/byob)
-* [Original Assignment](http://frontend.turing.io/projects/build-your-own-backend.html)
-
 ## Professional Development
 
 * [30-Day Post-Grad Action Plan](https://gist.github.com/robbiegreiner/2076dd7364c4721899dc6627dd2f39ae)
@@ -49,7 +46,10 @@ Passed
 ## Communitiy
 
 #### How I have Contributed to the Community
-* I feel my biggest contribution to the Turing community 
+* I feel my biggest contribution to the Turing community was helping my classmates and students in the Mod below.
+
+* The gear up session that my group led was a great experience.  We got to learn a lot more about net neutrality
+and get more practice organizing.
 
 ------------------
 
