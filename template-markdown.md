@@ -44,7 +44,29 @@ My individual project for M1 was Number Guesser.
 
 ### Projects
 
-(Intro)
+My group projects were LinkedList with Chase Richard, IdeaBox with Austin Wiedenman, and 2DoBox with Charles Yach.  While they were all *varying* degrees of success, they were all successful in their own way.  Two of my partners had working styles similary to mine, and that made working together easier.  In one case, my partner and I have polar opposite personalities and working styles.  It was good to get that experience and reflect on how we overcame our difference.  We both made some compromises and in the end, the project was a great success.
+
+#### (LinkedList)
+
+* [GitHub URL](https://github.com/mngatewood/Linked-List)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+
+**Overview**
+My partner and I went into this evaluation feeling good about how far we had gotten.  We did a DTR and decided that I would take on the lion's share of the Javascript while he focused on structure and style.  In hindsight, we didn't spend enough time in each of the pieces of the codebase, as Pam noted.  We were both fairly intimidated by the scope of the project and we really focused on the most efficient approach (divide and conquer).  I took this learned lesson into my next project. 
+
+Going into this project, I was beginning to feel very good about my vanilla Javascript skills.  Before we had our first jQuery lesson, I was well underway with the script and I wasn't going to slow myself down with jQuery (or so I thought).  I tried and tried to execute event delegation with Javascript, but I would not be successful.  Consequently, most of the project was written with vanilla Javascript, while jQuery was peppered throughout because of necessity.  I knew that I would need to get a better handle on jQuery.
+
+**Feedback**
+We had a lot of good feedback.  We made it through all phases, the CSS code was very clean (with only a couple exceptions), our ARIA code was fairly comprehensive.  One of the things we could have improved was adding a couple more media queries to make the project truly responsive.  While our script was effective, it wasn't pretty.  It was poorly organized, had Javascript mixed with jQuery, I was still struggling a little to remove anonymous functions from event listeners.  Finally, we both broke GitHub...frequently.  It had become so painful that we tried to use it as little as possible.   
+
+* *COMP RECREATION / DESIGN:* Advanced Beginner/Proficient
+* *HTML:* Proficient
+* *CSS:* Advanced Beginner/Proficient
+* *JS/jQuery:* Proficient
+* *GIT & GITHUB:* Novice/Advanced Beginner
+* *Pairing/Collaboration:* Advanced Beginner/Proficient
+
+(feedback to me)
 
 #### (Project Name)
 
@@ -58,6 +80,20 @@ My individual project for M1 was Number Guesser.
 (evaluation scores)
 
 (feedback to me)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
 
 ## D: Professional Skills
 (Intro)
