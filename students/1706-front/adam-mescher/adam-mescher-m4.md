@@ -1,22 +1,22 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Adam Mescher - M4 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+* Learn more about NodeJS and Express
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: Individual Final Assessment**: 3
+* **B: Required Projects: †ma
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Passed end of module assessment
 
 
 ## B: Individual Work & Projects
@@ -67,7 +67,15 @@
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+#### Community Contribution
+
+During Mod 4, I contributed to the community by being an enthusiastic posse member.  It was enjoyable to hear about the Turing experience from those who are currently living events that I also experienced in my not-so-distant past. 
+
+#### Gear Up Session
+
+Just Because You Can Doesn’t Mean You Should was a 75 minute group discussion led by me and 2 other Turing Mod 4 students. While initially the task of facilitating a presentation and discussion of that length seemed daunting, the execution resulted in a fantastic payoff. It was rewarding to recognize the eager interest and respect in the eyes of fellow Turing students and read their anonymous feedback afterwards. 
+
+During the session, we attempted to convey the importance of being mindful of the results of your actions as a developer. While it’s fun to use high stakes to drive home a point with situations such as breaking encryption to attempt to defuse a nuclear weapon, oftentimes the stakes of the choices we make are substantially less impressive than significant loss of human life. It was fascinating discussing the potential implications of these choices and I’m grateful for the opportunity to help make it happen.
 
 ------------------
 
