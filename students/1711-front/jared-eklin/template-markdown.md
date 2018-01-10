@@ -1,4 +1,4 @@
-### Jared Eklin  - M1 Portfolio
+### Jared Eklin  -  M1 Portfolio
 
 ## Areas of Emphasis
 
