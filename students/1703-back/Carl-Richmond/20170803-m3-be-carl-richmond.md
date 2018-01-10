@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I wanted to start building a portfolio I would be comfortable sending people. 
+I wanted to start building a portfolio I would be comfortable sending people.
 
 ## Self-Assessment
 
@@ -25,16 +25,16 @@ I wanted to start building a portfolio I would be comfortable sending people.
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](https://github.com/ACC25/rails_engine)** 
+> **[Rales Engine](https://github.com/ACC25/rails_engine)**
 >* This project was designed to mimic a sales data API, where you can query merchants, customers, invoices, transactions, items, and their associations.
 >* I was weak in SQL and ActiveRecord before this project and this helped me understand how to join multiple tables together in a query.
 
 > **Cloney Island**
-> **[Cloney Island Sprint 1](https://github.com/ACC25/trail-up)** 
+> **[Cloney Island Sprint 1](https://github.com/ACC25/trail-up)**
 >* Trail Up allows users to browse from thousands of trails across North America and create hiking events, and connect with other outdoor enthusiasts.
 >* It was tough keeping up with the pace of my group members, but it was really rewarding to see how much could be accomplished in two weeks with a passionate team.
 
-> **[Cloney Island Sprint 2](https://github.com/squeemishly/dark_clout)** 
+> **[Cloney Island Sprint 2](https://github.com/squeemishly/dark_clout)**
 >* The goal of this project was to inherit an already working codebase and build upon the existing functionality. The original app was a clone of 'Dropbox', so we opted to use your documents, images and Facebook 'public profile' and photos to visualize how much information you are exposing when you authorize with Facebook.
 >* It was a great, and terrible, experience working on another groups codebase. I had a lot of fun scanning documents and figuring out what I could do with them. It reminded me how much I like working with language and I think I'm going to start working on a natural language analyzer of some sorts on the side.
 
@@ -75,21 +75,21 @@ I really enjoyed this gear up! Body language control has always been a challenge
 ## D: Community Participation
 
 #### **Community Contribution Option**
-* I am a co-leader of Golick Posse and paired a few times throughout the mod. 
+* I am a co-leader of Golick Posse and paired a few times throughout the mod.
 
 #### **Posse**
   >* My posse has done a lightning talk, but mostly just talks casually about Turing related subjects.  
-  >* I don't have anything good to say about the new posses. 
-  >* The new posse structure hasn't helped me grow professionally. 
+  >* I don't have anything good to say about the new posses.
+  >* The new posse structure hasn't helped me grow professionally.
 
 #### **Playing a Part**
 
-* Nothing to add. 
+* Nothing to add.
 
 ------------------
 
 ## Final Review
 
-> #### Notes ( Leave blank for reviewers )
+#### Outcome ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+Promoted

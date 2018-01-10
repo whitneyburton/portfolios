@@ -16,8 +16,7 @@ This module I wanted to obtain a solid grasp of the core principles and concetps
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+Passed
 
 ## B: Individual Work & Projects
 

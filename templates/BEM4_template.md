@@ -11,7 +11,7 @@ I also hope to be interviewing for jobs during the last few weeks of Turing. I b
 interviewing early will allow me to come back to Turing with questions I have about
 the process and how I can get better.
 
-## Assessment
+## JS Assessment
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
 Fail (N/A)
@@ -32,6 +32,16 @@ what the outcome I wanted would be and work backwards.
 
 * What did you learn?
 It's better to fail honestly than to cheat.
+
+## Technical Communication Assessment
+
+Include your final outcome (pass/fail) and a reflection based on answering the following questions:
+N/A
+
+* What was your biggest challenge?
+* What did you like the most about the challenge?
+* How did you solve that challenge? What was your approach?
+* What did you learn?
 
 ## Quantified Self
 
@@ -115,6 +125,20 @@ into a CoreML model to use in Swift.
 the user interacts with a camera and Twitter.
 - Using AWS Amazon Machine Images Instances to setup an environment to use DIGITS.
 
+## Open Source Project
+
+Include a reflection answering the following questions:
+
+* What codebase did you contribute to?
+
+* What was your biggest technical challenge?
+
+* How did you solve that challenge? What was your approach?
+
+* What did you like the most about the challenge?
+
+* What are three technical concepts you learned during this project?
+
 ## Feedback
 
 What's one piece of meaningful feedback you received during B4? What have you done or going to do regarding this feedback?
@@ -167,6 +191,7 @@ level of enthusiam to their craft. It's an exciting time to be a software develo
 ## Going Forward
 
 What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
+
 - Working well with others and in a team. I think I've had every experience one could
 have when working on a group project here at Turing. The good and the bad have helped me
 grow as a partner and team member and I look forward to bringing those soft skills

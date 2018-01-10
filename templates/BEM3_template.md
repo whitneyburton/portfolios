@@ -19,7 +19,7 @@
 
 -----------------------
 
-## A: Individual Work & Projects (Optional)
+## A: Individual Work & Projects
 
 > **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
 >* Build a basic version of the Github profile / feed UI. 
