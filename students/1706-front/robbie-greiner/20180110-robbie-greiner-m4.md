@@ -111,7 +111,7 @@ Passed
 ## Professional Development
 
 * [30-Day Post-Grad Action Plan](https://gist.github.com/robbiegreiner/2076dd7364c4721899dc6627dd2f39ae)
-* [Link to 30-day Post-Grad Calendar](https://calendar.google.com/calendar?cid=Zj)
+* [Link to 30-day Post-Grad Calendar](https://calendar.google.com/calendar?cid=ZjZkajJvcWp2ODQxOGQwc2c2OTdhdjU1M2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ## Communitiy
 
