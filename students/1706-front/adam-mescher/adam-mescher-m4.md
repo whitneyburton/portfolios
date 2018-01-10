@@ -98,6 +98,7 @@ App to discover more about UNESCO World Heritage sites and track visits, favorit
 Areas of emphasis: 
 * Self-discipline
 * Interview prep
+  * Technical interview question review
   * Hone personal story
   * STAR behavorial story practice
 * Staying sharp in vanilla JS
