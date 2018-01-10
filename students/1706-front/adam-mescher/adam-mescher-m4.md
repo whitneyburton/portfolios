@@ -93,6 +93,15 @@ App to discover more about UNESCO World Heritage sites and track visits, favorit
 
 ### 30-Day Plan
 
+[Google Calendar](https://calendar.google.com/calendar?cid=YjQ1NHM4bHRpZDI1MmNzYWhtMWZqaGxhZW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+Areas of emphasis: 
+* Self-discipline
+* Interview prep
+  * Hone personal story
+  * STAR behavorial story practice
+* Staying sharp in vanilla JS
+* Learning some of Angular 5
 
 
 ### Gear Up
