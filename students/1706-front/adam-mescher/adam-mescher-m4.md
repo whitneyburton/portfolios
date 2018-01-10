@@ -66,11 +66,9 @@ During Mod 4, projects presented opportunities to learn more about Node and Expr
 
 The main focus of this project was to reinforce understanding of CRUD methods, querying a database, and responding with JSON data. My partner and I scraped NFL team and player data from ESPN.com and created an API from the data using Node and Express. 
 
-##### Eval Comments
+##### Eval Comments, Scores, and Feedback
 
-##### Eval Scores
-
-##### Feedback
+[GitHub Feedback URL](https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-4/byob/Jen%26Adam.md)
 
 #### UNESCO Tracker
 
