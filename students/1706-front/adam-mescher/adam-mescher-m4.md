@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-* My goal entering Mod 4 was to learn more about NodeJS and Express and continue to hone my skills as a developer.
+* My goal entering Mod 4 was to learn more about NodeJS and Express and continue to hone my professional and developer skills.
 
 ## Rubric Scores
 
@@ -18,7 +18,6 @@
 
 Passed end of module assessment
 
-
 ## B: Individual Work & Projects
 
 #### Palette Picker
@@ -28,7 +27,7 @@ Passed end of module assessment
 
 ##### Description
 
-A user should be able to come to your site, generate a color palette, and save it for their own future projects.
+A user should be able to come to your site, generate a color palette, and save it for their own future projects. I really enjoyed the feeling of power from building both the front and back end of the project. 
 
 ##### Eval Comments & Scores
 
@@ -55,7 +54,6 @@ A user should be able to come to your site, generate a color palette, and save i
 #### Introduction
 
 During Mod 4, projects presented opportunities to learn more about Node and Express on the backend, practice continuous integration via CircleCI and Heroku, and step into an existing Open Source codebase and make a contribution. These projects were fantastic introductions into these topics and I'm excited to apply the accumulated knowledge in the future.
-
 
 #### Build Your Own Backend
 
