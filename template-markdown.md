@@ -46,7 +46,7 @@ My individual project for M1 was Number Guesser.
 
 My group projects were LinkedList with Chase Richard, IdeaBox with Austin Wiedenman, and 2DoBox with Charles Yach.  While they were all *varying* degrees of success, they were all successful in their own way.  Two of my partners had working styles similary to mine, and that made working together easier.  In one case, my partner and I have polar opposite personalities and working styles.  It was good to get that experience and reflect on how we overcame our difference.  We both made some compromises and in the end, the project was a great success.
 
-#### (LinkedList)
+#### LinkedList
 
 * [GitHub URL](https://github.com/mngatewood/Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
@@ -56,7 +56,7 @@ My partner and I went into this evaluation feeling good about how far we had got
 
 Going into this project, I was beginning to feel very good about my vanilla Javascript skills.  Before we had our first jQuery lesson, I was well underway with the script and I wasn't going to slow myself down with jQuery (or so I thought).  I tried and tried to execute event delegation with Javascript, but I would not be successful.  Consequently, most of the project was written with vanilla Javascript, while jQuery was peppered throughout because of necessity.  I knew that I would need to get a better handle on jQuery.
 
-**Feedback**
+**Evaluation Feedback**
 We had a lot of good feedback.  We made it through all phases, the CSS code was very clean (with only a couple exceptions), our ARIA code was fairly comprehensive.  One of the things we could have improved was adding a couple more media queries to make the project truly responsive.  While our script was effective, it wasn't pretty.  It was poorly organized, had Javascript mixed with jQuery, I was still struggling a little to remove anonymous functions from event listeners.  Finally, we both broke GitHub...frequently.  It had become so painful that we tried to use it as little as possible.   
 
 * *COMP RECREATION / DESIGN:* Advanced Beginner/Proficient
@@ -66,34 +66,43 @@ We had a lot of good feedback.  We made it through all phases, the CSS code was 
 * *GIT & GITHUB:* Novice/Advanced Beginner
 * *Pairing/Collaboration:* Advanced Beginner/Proficient
 
-(feedback to me)
+**Partner Feedback**
+"I find it hard to come with with any suggestions on how we could have worked better.  I thought you were proactive and thorough in putting in the time early to get the project done as soon as possible.  In hindsight, we could have asked a mod2  who has gone through the evaluation to review our project, so that we knew exactly what we needed to do, since the instructions were vague about some things.  Also, we could have reached out for help with our github issues about how to resolve merge conflicts.  Those are the only things I think we could improve on for our next pair projects.”
 
-#### (Project Name)
+#### IdeaBox
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/mngatewood/ideaBox)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
+IdeaBox was by far my most challenging and most rewarding project.  My partner was not feeling very comfortable with Javascript and jQuery, so I feared this burden was going to weigh solely on my shoulders.  I was initially frustrated with the pace of our progress, but when we got back together on Monday, I realized that we weren't working to his strengths.  We worked closely the rest of the week and pulled through.  While the project wasn't as polished as some of my others, we both learned that we can compromise our working style and still be successful. 
 
 (evaluation comments)
 
 (evaluation scores)
 
-(feedback to me)
+**Partner Feedback**
 
+“I really enjoyed working together.  We did a good job of communicating and we both learned a lot about gitHub, which will be very beneficial moving forward.  It was really great to get to know you and to and I learned a lot about JS from you and I appreciate all of your hard work learning about JSON.  While we communicated effectively with each other regarding tasks and the break down of responsibilities, we could have been more organized with our work, which will help us be more efficient with our time.”
+
+#### 2DoBox
+
+* [GitHub URL]()
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+**Overview**
+I really enjoyed working with my partner on 2DoBox.  Given that I had been the Javascript go-to-guy in my previous pairings, it was refreshing having a partner that I can learn from.  Charles was very good with OOP and I learned a lot working with him on the script for this project.  Not being *the* expert in Javascript also allowed me to finally really dig into CSS.  The biggest takeaway from this project was to code DRY-on-the-fly.  I spent a substantial amount of time refactoring the CSS during the beginning of this project.  Once all the peices were together, our CSS looked worse than it did when we first received it.  I spent more time refactoring
+
+(evaluation comments)
+
+(evaluation scores)
+
+**Partner Feedback**
+
+"Appreciation: We absolutely rocked this! We started off perfectly with a good DTR and found out our work styles match perfectly. From there on out it was smooth sailing with good communication and solid coding. Thank you for introducing me to GitHub Issues. Issues provided a great list of tasks that still needed attention if our immediate communication didn't solve it.  Your motivation to be done before end of Christmas break was also greatly appreciated.
+
+Coaching: You're a tough partner to come up with a coaching. We both work so similarily that anything I say to you I would have to look myself in the mirror and say it to my self. We are both very conerned about fixing that last 1%. Whether it's a single pixel off, or js function that has an edge case, neither of us like to present a project with an imperfection. During our schooling we have to remember that these projects come and go. Right now, maybe we should cap the challenge and move past, even though in the future that 1% will be the difference between a polished project and garbage. Another thing we both need to do is not be as hard on ourselves. We both worked great and know our stuff. Focus on what we've done well and remind ourselves about how much we've done right instead of what we did wrong.
+
+Overall:  Thanks for my best pairing of Mod 1!"
 
 ## D: Professional Skills
 (Intro)
@@ -101,7 +110,7 @@ We had a lot of good feedback.  We made it through all phases, the CSS code was 
 ### Gear Up
 #### (Session Name)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/Growth_Mindset_Facilitator_Guide.markdown)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
@@ -109,7 +118,7 @@ We had a lot of good feedback.  We made it through all phases, the CSS code was 
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I was quite successful at actively helping other students during the first half of the module.  Somewhere in week 3 or 4, I fell into sink-or-swim
 
 ------------------
 
