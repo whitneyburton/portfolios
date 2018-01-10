@@ -123,7 +123,7 @@ Weathrly is the first project that utilises React and data from an API (weatheru
 
 #### Code Sanitation
 
-*
+* 4 - Zero complaints
 
 
 
