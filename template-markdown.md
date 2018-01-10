@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Michael Gatewood - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goal in M1 was to become familiar with the fundamental principles and syntax of Javascript and jQuery.
 
 ## Rubric Scores
 
@@ -16,23 +16,29 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+I am cautiously optimistic.
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+My individual project for M1 was Number Guesser.
 
-#### (Project Name)
+#### Number Guesser
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/mngatewood/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+**Overview**
+* Number Guesser was my first effort at writing an application using Javascript.  I was very pleased with my effort on this project and felt it was a pretty decent first attempt.  My biggest struggle here was that my approach was way too dependant on global varialbes.  As a result, it was very difficult to use named functions outside of the event listeners.  This struggle would continue into the first group project as well.
 
-(evaluation comments)
+**Feedback**
+* My feedback from Pam was mostly positive, but she encouraged me to keep practicing CSS in order do a better job of fine-tuning some the visual details of the assignment.  She pointed out some instances where elements were not aligning properly and said I could improve the organization of my CSS.  There were also opportunities to improve the usability of the UI/US.
 
-(evaluation scores)
+**Evaluation Scores**
+* *COMP RECREATION / DESIGN:* Advanced Beginner
+* *HTML:* Advanced Beginner/Proficient
+* *CSS:* Advanced Beginner
+* *JS/jQuery* Advanced Beginner/Proficient
 
 ## C: Group Work & Projects
 
