@@ -89,7 +89,7 @@ Palette Picker might have been one of my favorite projects at Turing. Building t
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1711-inning/Group_7.md)
 
-The Gear-Up I helped plan and lead focused on building strategies for people to to speak up when it might be challenging or difficult for an array of reasons.
+The Gear-Up I helped plan and lead focused on building strategies for people to to speak up when it might be challenging or difficult for an array of reasons. The feedback from our participants was overall quite positive. They appreciated the opporuntity to think through situations that they have either been in or will likely be in one day. The participants appreciated our organization, as well.
 
 ## E: Community Participation
 
