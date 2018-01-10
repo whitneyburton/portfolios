@@ -1,4 +1,4 @@
-# B4 Portfolio Template
+# B4 Portfolio Brandon Stewart
 
 ## Area of Emphasis
 
