@@ -41,11 +41,21 @@ A user should be able to come to your site, generate a color palette, and save i
 
 ##### Description
 
-##### Eval Comments
-
-##### Eval Scores
+This project was an introduction to Atomic, or modular component, design frameworks. In addition to matching the design comp, components had to be reusable. It was a great CSS refresher and building the accordion tabs without JS was a highlight of Mod 4 for me.
 
 #### Homework Assignments
+
+* [Node Server Tutorial](https://github.com/AdamMescher/introduction-to-node.js)
+* [Express Tutorial](https://github.com/AdamMescher/intro-to-express-js)
+  * Did all extensions
+* [Promise Practice Exercises](https://github.com/AdamMescher/promises-practice)
+* [Palette Picker PWA](https://github.com/AdamMescher/palette-picker)
+* [Websockets Tutorial](https://github.com/AdamMescher/socket-io-hw)
+  * Add User Connected and Disconnected
+  * Add username support
+  * Add {user} is typing
+* [House of Vars Blog Post](https://medium.com/@admescher/the-journey-of-a-thousand-commas-begins-with-a-single-commit-8b170b7a48c0)
+* [Pattern Party](https://github.com/AdamMescher/pattrn-party)
 
 ## C: Group Work & Projects
 
