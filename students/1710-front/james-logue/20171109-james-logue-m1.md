@@ -164,6 +164,10 @@ For this project I worked with Melissa Wagasky. We built a simple app to bookmar
 
 * Hot Fire
 
+#### Partner Feedback
+
+James, I told you this in person but wanted to echo here that I really enjoyed working with you. I learned a lot on our project and you were a thoughtful, organized and hard-working partner. I was nervous going into the project because I knew I would be out of town over the weekend for a wedding. I appreciated the way you jumped straight in with me and were game to plan early on Friday before we left for the day. It made me feel so much better about being away. I appreciated how communicative and organized you were over the weekend as well. We divided up our starting points and you checked in along the way to let me know where you were and to ask where I was. I appreciate how flexible you were about the wedding events that came up during the weekend and when my schedule changed unexpectedly on Sunday. I am really proud of how our actual project turned out and felt lucky to work with you on the first paired project we had this mod. You are a hard worker and you tackle problems head on. Even though I took the first pass at the jQuery, you also looked at it over the weekend and wrapped your head around the problem. This made trouble shooting some of the issues that came up much easier once Monday arrived and we were working together in person. When we ran into bugs and issues, you had a great attitude and persisted through. Thank you for all of your hard work, feedback, and communication. I learned a lot about jQuery and more working with you. I also appreciate how detail-oriented you are and the thoroughness you bring to cleaning and DRYing our code. Those things are important to me and I was grateful to have a partner who valued the same attention to detail. One additional, specific thing I wanted to thank you for - I am not as confident in my code because I feel like such a beginner (as I'm sure we all do) and it can feel really intimidating share my ideas when I'm working with someone as strong and skilled as you. For instance, when I thought we should we should use the event.PreventDefault method in our javascript as opposed to hard coding something in the HTML, I found myself not wanting to stand up for my ideas and shutting down when I wasn't really sure what would work better instead of asserting my opinion. I have to work on my confidence and that is on me - so please know that nothing you were doing caused me to shut down. I believe that you noticed and I appreciate how kind you were about it. Thank you for all of the times where you asked me how I would go about the problems and when you were so encouraging of what I'd built or done. Thank you for being my partner! Hope to work with you again!
+
 
 #### (Idea Box)
 
@@ -385,6 +389,9 @@ Areas for refactoring below:
 * Proficient  
 * Exceptional
 
+#### Partner Feedback
+
+James was an incredible partner. He is highly knowledgable and really good at teaching/ clarifying things that I was not sure on. He does a great job of refactoring and writing dry code. Our DTR was really helpful and the expectations we had for each other were clear and concise. The only advice that I have for James is to just keep being open to teaching others, he did a great job leading a session on Saturday about mythical creatures that helped others and myself as well as strengthening his own skills.
 
 ## D: Professional Skills
 
