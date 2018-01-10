@@ -48,7 +48,7 @@ For this project I wrote a series of methods that implemented a prefix trie. The
 
 In mod 2 the group projects were GameTime and Weathrly.
 
-## (GameTime)
+## GameTime
 
 * [GitHub URL](https://github.com/farmermel/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
@@ -84,7 +84,7 @@ For this project I worked with Casey Dallavalle. We made a version of [Winterbel
 
 
 
-## (Weathrly)
+## Weathrly
 
 * [GitHub URL](https://github.com/farmermel/weatherly)
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
