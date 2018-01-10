@@ -20,7 +20,7 @@
  * Capstone Project: PASS
  
  ### Professional Development
- [Post Grad Plan]():
+ [Post Grad Plan](https://gist.github.com/bbp5280/cddff1ad044434da7ec077cfd6aa9c97):
  
  ### Community
  The main ways I participated in the community this mod were through iron-FE and by attending a few meet-ups. 
