@@ -12,7 +12,7 @@ Executing a joins table. I learned how to set one up but it took a couple of pro
 
 Link your blog post here. Include a short description of your topic (one sentence is fine).
 
-https://medium.com/@tyjoo21/scripting-vs-compiled-languages-5448d03e29e9
+https://medium.com/@tyjoo21/scripting-vs-compiled-languages-5448d03e29e9        
 
 Compiled vs Scripting Langauges
 
