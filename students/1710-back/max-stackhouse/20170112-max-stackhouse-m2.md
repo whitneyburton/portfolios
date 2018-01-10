@@ -16,6 +16,10 @@ One struggle this module for me was staying engaged near the end of a project. I
 
 Also, I can definitely feel that I'm overall getting more fatigued from the school schedule. I feel like these struggles are related and probably a little bit justified, but I can also take care of myself better.
 
+## Blog Post
+https://hackernoon.com/weve-all-been-there-adedc9e82b42 
+
+
 ## Projects
 ### What were your favorite projects this module? Least favorite? Why?
 Favorites - Bike Share & Little Shop. These were my most favorite because they were group projects. I've really enjoyed the group projects this module, because it allows us a bit more freedom to work on the areas of the project that are personally interesting.
@@ -28,8 +32,6 @@ I can't rely on pure automated testing when building forms and tools for humans.
 ### What did you learn from your paired projects?
 Got a lot of practice with being very specific about what to work on. There are a lot of things that can be assumed and if teammates make a different one than you, you're going to be redoing parts. Also, learned how hard it is to break up pieces of a site before others have been implemented.
 
-### Blog Post
-https://hackernoon.com/weve-all-been-there-adedc9e82b42 
 
 ## Community
 ### What was your favorite Gear Up? Least favorite? Why?
