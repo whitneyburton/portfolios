@@ -80,18 +80,20 @@ The main focus of this project was to reinforce understanding of CRUD methods, q
 
 #### UNESCO Tracker
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/alexbanister/unesco)
+* [Original Assignment](http://frontend.turing.io/projects/capstone.html)
 
 ##### Description
 
-##### Eval Comments
+App to discover more about UNESCO World Heritage sites and track visits, favorites, and desired trips to these sites.
 
-##### Eval Scores
-
-##### Feedback
+##### Eval Comments, Scores, and Feedback
 
 ## D: Professional Skills
+
+### 30-Day Plan
+
+
 
 ### Gear Up
 
