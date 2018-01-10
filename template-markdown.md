@@ -16,7 +16,7 @@ My goal in M1 was to become familiar with the fundamental principles and syntax 
 
 ## A: End of Module Assessment
 
-I am cautiously optimistic.
+
 
 
 ## B: Individual Work & Projects
@@ -74,7 +74,7 @@ We had a lot of good feedback.  We made it through all phases, the CSS code was 
 * [GitHub URL](https://github.com/mngatewood/ideaBox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-IdeaBox was by far my most challenging and most rewarding project.  My partner was not feeling very comfortable with Javascript and jQuery, so I feared this burden was going to weigh solely on my shoulders.  I was initially frustrated with the pace of our progress, but when we got back together on Monday, I realized that we weren't working to his strengths.  We worked closely the rest of the week and pulled through.  While the project wasn't as polished as some of my others, we both learned that we can compromise our working style and still be successful. 
+IdeaBox was by far my most challenging and most rewarding project.  My partner was not very comfortable with Javascript and jQuery, so I feared this burden was going to weigh solely on my shoulders.  I was initially frustrated with the pace of our progress, but when we got back together on Monday, I realized that we weren't working to his strengths.  We worked closely the rest of the week and pulled through.  While the project wasn't as polished as some of my others, we both learned that we can compromise our working style and still be successful. I enjoyed witnessing the wins of my partner.
 
 (evaluation comments)
 
@@ -112,13 +112,13 @@ Growth mindset is the belief that you can learn or be developed to do or become 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/Growth_Mindset_Facilitator_Guide.markdown)
 
-I believe that growth mindset comes easy until you run into negative stimuli...which is often!  Growth mindeset comes naturally among the encouragement of close friends and family.  In the real world, you have to learn how to deal with those triggers...someone tells you that you can't; you struggle to understand a concept; or you fail over and over until you begin to doubt yourself.  In addition to fighting the instinct of self-doubt, it is important to foster an environment that promotes growth mindset.  If an organization is all-in on growth mindset, it becomes much easier to exhibit it yourself!
+I believe that the challenge with growth mindset comes when you run into negative stimuli...which is often!  Growth mindeset comes naturally among the encouragement of close friends and family.  In the real world, you have to learn how to deal with those triggers...someone tells you that you can't; you struggle to understand a concept; or you fail over and over until you begin to doubt yourself.  In addition to fighting the instinct of self-doubt, it is important to foster an environment that promotes growth mindset.  If an organization is all-in on growth mindset, it becomes much easier to exhibit it yourself!
 
 ## E: Community Participation
 
 ### Playing a Part
 
-I was quite successful at actively helping other students during the first half of the module.  Somewhere in week 3 or 4, I fell into sink-or-swim.  I'm always hoping to share knowledge or provide a unique perspective.  I am looking forward to M2 where I can have new opportunities for community participation.
+I was successful at actively helping other students during the first half of the module.  Somewhere in week 3 or 4, I fell into sink-or-swim mode.  Even then, I'm always hoping to share knowledge or provide a unique perspective and I have consistently provided thoughtful and meaningful feedback to my partners.  I am looking forward to M2 where I can have new opportunities for community participation.
 
 ------------------
 
