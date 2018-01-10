@@ -1,82 +1,51 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Victor Montoya - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+What did you set out to accomplish this module? Were you successful?
 
-## Rubric Scores
+**I wanted to get a good base of understanding of the Ruby programming language. I also wanted to start building my network with mentors, upper mod students and my classmates who will help me now and in the future. I think that I was successful for the most part, there's always a lot to improve on, but as far as learning the basics and building my network I did pretty good.
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+What did you struggle most with this module? What did you learn from that struggle?
 
------------------------
+**I got behind once we started learning and working on classes and testing, it was hard for me.I learned that when you're struggling with a problem in your code you should always ask for help, that was one of my main issues to begin, not asking people for help.
 
-## A: End of Module Assessment
+## Projects
 
-(Indicate whether you passed or failed the end of module assessment)
+What were your favorite projects this module? Least favorite? Why?
 
+**Favorite project for me was Flashcards, I feel like I learned a lot from that one and that's why I like it. Least favorite was Jungle Beats because I had no idea how things went together and I couldn't do much.
 
-## B: Individual Work & Projects
+What did you learn from your independent projects?
 
-(Intro)
+**I learned that you must plan ahead of time, Sal told us to plan backwards time-wise. I find that a very important skill to have in this environment.
 
-#### (Project Name)
+What did you learn from your paired projects?
 
-* [GitHub URL]()
-* [Original Assignment]()
+**How coding with a partner is very different from working on a solo project, but you learn to always being open to other ideas and compromising. You learn that everyone has a different way of working so it's a good experience to have.
 
-(description)
+## Community
 
-(evaluation comments)
+What was your favorite Gear Up? Least favorite? Why?
 
-(evaluation scores)
+**I liked all the Gear Up sessions, it was a nice change of pace. Everything that's being thought I know will be very helpful, and getting to work with FEE is also fun.
 
-## C: Group Work & Projects
+How did you contribute to the Turing community this module?
 
-### Projects
+**I tried to be as much help as I could to my classmates. The Turing community has been nothing but good to me, and I did the same in any ways I could.
 
-(Intro)
+What would you like to do to contribute next module?
 
-#### (Project Name)
+** I'll be repeating this mod but next time around I want to help the new students whenever possible. I want to be more of an extroverted person and participate more in class lectures or discussions, I think it will be more helpful to others by doing so.
 
-* [GitHub URL]()
-* [Original Assignment]()
+## Self-Assessment Scores
 
-(description)
+Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
-## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-## E: Community Participation
-
-### Playing a Part
-
-(ways you supported the larger Turing community)
-
-------------------
-
-## Final Review
-
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   2   |
+| **Group Projects**           |   2   |
+| **Professional Development** |   3   |
+| **Community**                |   3   |
+| **Pentathlon**               |   2   |
