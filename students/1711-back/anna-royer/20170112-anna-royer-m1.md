@@ -20,7 +20,7 @@ What did you struggle most with this module? What did you learn from that strugg
 
 What were your favorite projects this module? Least favorite? Why?
 
-* My favorite project was probably complete me, because the logic of solving it was so satisfying. It was also so exciting to load the csv file of all the Denver addresses and then search for an address and have it return all the matches just like google maps does. It felt like we created something useful and it was interesting to learn the intricacies of the data structure we used to make it work.
+* My favorite project was probably complete me, because the logic of solving it was so satisfying. It was also so exciting to load the csv file of all the Denver addresses and then search for an address and have it return all the matches just like google maps does. It felt like we created something useful and it was interesting to learn the intricacies of the data structure we used to make it work. I was also ecstatic when I figured out how to sort my binary search tree recursively in date night.
 
 * I don't necessarily have a least favorite project. I realize that I learned something valuable from each project. Of all the projects I have seen to completion so far, http was the most frustrating for me to work on. There were so many new elements and concepts introduced at once that I had a much more difficult time debugging problems. I spent a long time trying to figure out why my get request loop was running twice, only to realize that chrome creates an additional request for a favicon. I spent close to three days thinking I was doing redirect incorrectly, and trying it a million and one different ways, to finally realize that my redirect headers needed to be capitalized.
 
@@ -47,7 +47,7 @@ What did you learn from your paired projects?
 
 What was your favorite Gear Up? Least favorite? Why?
 
-The gear up that stands out most prominently in my memory is the health and wellness gear up on self care strategies that combat stress and anxiety. This gear up followed up on the health and wellness gear up on the powerful impact of stress on physical health. She gave us a list of activities we can use when we feel overwhelmed with stress. They were mostly simple activities. The accessibility of all the activities was what made this list so valuable. Because of this session, I have gotten in the habit of going for a walk outside or if I am at home, doing something like taking a hot shower or making a healthy snack when I start to feel really overwhelmed. I believe these small actions have been instrumental in maintaining my mental health while at Turing. 
+The gear up that stands out most prominently in my memory is the health and wellness gear up on self care strategies that combat stress and anxiety. This gear up followed up on the health and wellness gear up on the powerful impact of stress on physical health. She gave us a list of activities we can use when we feel overwhelmed with stress. They were mostly simple activities. The accessibility of all the activities was what made this list so valuable. Because of this session, I have gotten in the habit of going for a walk outside or if I am at home, doing something like taking a hot shower or making a healthy snack when I start to feel really overwhelmed. I believe these small actions have been instrumental in maintaining my mental health while at Turing.
 
 How did you contribute to the Turing community this module?
 
