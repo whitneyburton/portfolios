@@ -105,20 +105,20 @@ Coaching: You're a tough partner to come up with a coaching. We both work so sim
 Overall:  Thanks for my best pairing of Mod 1!"
 
 ## D: Professional Skills
-(Intro)
+Growth mindset is the belief that you can learn or be developed to do or become something.
 
 ### Gear Up
-#### (Session Name)
+#### Growth Mindset
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/47b936ce64782229a4338512818b5388e0e70f8d/Growth_Mindset_Facilitator_Guide.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I believe that growth mindset comes easy until you run into negative stimuli...which is often!  Growth mindeset comes naturally among the encouragement of close friends and family.  In the real world, you have to learn how to deal with those triggers...someone tells you that you can't; you struggle to understand a concept; or you fail over and over until you begin to doubt yourself.  In addition to fighting the instinct of self-doubt, it is important to foster an environment that promotes growth mindset.  If an organization is all-in on growth mindset, it becomes much easier to exhibit it yourself!
 
 ## E: Community Participation
 
 ### Playing a Part
 
-I was quite successful at actively helping other students during the first half of the module.  Somewhere in week 3 or 4, I fell into sink-or-swim
+I was quite successful at actively helping other students during the first half of the module.  Somewhere in week 3 or 4, I fell into sink-or-swim.  I'm always hoping to share knowledge or provide a unique perspective.  I am looking forward to M2 where I can have new opportunities for community participation.
 
 ------------------
 
