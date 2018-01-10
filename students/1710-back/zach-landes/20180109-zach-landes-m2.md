@@ -77,3 +77,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Community**                |   3   |
 | **Final Written**            |   3   |
 | **Final Timed**              |   3   |
+
+
+
+Medium blog post-
+
+https://medium.com/@zach.g.landes/build-your-rails-database-the-right-way-from-the-start-21659edf1a29
+
