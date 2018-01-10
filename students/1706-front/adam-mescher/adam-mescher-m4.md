@@ -87,11 +87,9 @@ During Mod 4, projects presented opportunities to learn more about Node and Expr
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Just Because You Can Doesn’t Mean You Should
 
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1711-inning/Group_6.md)
 
 ## E: Community Participation
 
