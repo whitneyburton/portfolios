@@ -30,9 +30,9 @@ Passed end of module assessment
 
 A user should be able to come to your site, generate a color palette, and save it for their own future projects.
 
-##### Eval Comments
+##### Eval Comments & Scores
 
-##### Eval Scores
+[GitHub URL](https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-4/palette-picker/adam-mescher.md)
 
 
 #### Pattrn Party
@@ -64,7 +64,7 @@ During Mod 4, projects presented opportunities to learn more about Node and Expr
 
 ##### Description
 
-The main focus of this project will be to reinforce understanding of CRUD methods, querying a database, and responding with JSON data. My partner and I scraped NFL team and player data from ESPN.com and created an API from the data using Node and Express. 
+The main focus of this project was to reinforce understanding of CRUD methods, querying a database, and responding with JSON data. My partner and I scraped NFL team and player data from ESPN.com and created an API from the data using Node and Express. 
 
 ##### Eval Comments
 
