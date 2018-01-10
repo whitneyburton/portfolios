@@ -184,3 +184,8 @@ knowing where to look. For example, simply going to the Rails docs on GitHub to 
 going on under the hood was very beneficial to me in understanding the "Rails magic" that
 occurs.
 
+## Professional Development
+
+* Link to 30-day post-grad job search action plan using [Post grad Gist](https://gist.github.com/snayrouz/8dd772f2bbc6208b581b4bb557efb824):
+* Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
+* Prepare and share your Turing story during week six.
