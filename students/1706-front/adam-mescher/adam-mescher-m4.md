@@ -57,12 +57,14 @@ A user should be able to come to your site, generate a color palette, and save i
 During Mod 4, projects presented opportunities to learn more about Node and Express on the backend, practice continuous integration via CircleCI and Heroku, and step into an existing Open Source codebase and make a contribution. These projects were fantastic introductions into these topics and I'm excited to apply the accumulated knowledge in the future.
 
 
-#### Bring Your Own Backend
+#### Build Your Own Backend
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/jenPlusPlus/build-your-own-backend)
+* [Original Assignment](http://frontend.turing.io/projects/build-your-own-backend.html)
 
 ##### Description
+
+The main focus of this project will be to reinforce understanding of CRUD methods, querying a database, and responding with JSON data. My partner and I scraped NFL team and player data from ESPN.com and created an API from the data using Node and Express. 
 
 ##### Eval Comments
 
