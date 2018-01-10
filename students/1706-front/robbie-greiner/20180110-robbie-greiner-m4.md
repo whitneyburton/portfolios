@@ -71,7 +71,7 @@ Passed
 
 **10 points**: (10 possible points) Each line of the server file (on a separate branch) is commented and explains the code using precise, correct terminology and specificity
 
-## JavaScript Style
+#### JavaScript Style
 
 **20 points**: (30 possible points) Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
@@ -117,9 +117,12 @@ Passed
 
 #### How I have Contributed to the Community
 * I feel my biggest contribution to the Turing community was helping my classmates and students in the Mod below.
+I have always stayed in touch with the mod below and offered advice and help quite often.  I also have made a 
+good effort to make myself available to any of my classmates and backend students who need any help.
 
 * The gear up session that my group led was a great experience.  We got to learn a lot more about net neutrality
-and get more practice organizing.
+and it was great practice planning and organizing.  It definitely incrreased my knowledge and interest in net
+neutrality and how it will effect us as developers and consumers.
 
 ------------------
 
@@ -131,7 +134,7 @@ and get more practice organizing.
 
 ## Rubric Scores
 
-PASS
+
 
 * **A: End-of-Module Assessment**: 3.5
 * **B: Individual Work & Projects**: 3.5 
