@@ -54,7 +54,7 @@ This React static comp was my first experience building a website out with react
 
 The group projects this mod were Game Time and Weathrly. They were both 2 week projects. 
 
-## (GameTime)
+## GameTime
 
 * [GitHub URL](https://github.com/OphDub/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
@@ -94,7 +94,7 @@ The output from eslint shows…
 * 4 - Zero complaints
 
 
-## (Weathrly)
+## Weathrly
 
 * [GitHub URL](https://github.com/soytjan/weatherly)
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
