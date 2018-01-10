@@ -2,15 +2,15 @@
 
 ## Areas of Emphasis
 
-* Learn more about NodeJS and Express
+* My goal entering Mod 4 was to learn more about NodeJS and Express and continue to hone my skills as a developer.
 
 ## Rubric Scores
 
 * **A: Individual Final Assessment**: 3
-* **B: Required Projects: †ma
+* **B: Required Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Community Participation**: 4
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -21,37 +21,67 @@ Passed end of module assessment
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### Palette Picker
 
-#### (Project Name)
+* [GitHub URL](https://github.com/adammescher/palette-picker)
+* [Original Assignment](http://frontend.turing.io/projects/palette-picker.html)
 
-* [GitHub URL]()
-* [Original Assignment]()
+##### Description
 
-(description)
+A user should be able to come to your site, generate a color palette, and save it for their own future projects.
 
-(evaluation comments)
+##### Eval Comments
 
-(evaluation scores)
+##### Eval Scores
+
+
+#### Pattrn Party
+
+* [GitHub URL](http://frontend.turing.io/projects/pattrn-party.html)
+* [Original Assignment](http://frontend.turing.io/projects/pattrn-party.html)
+
+##### Description
+
+##### Eval Comments
+
+##### Eval Scores
+
+#### Homework Assignments
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+#### Introduction
 
-#### (Project Name)
+During Mod 4, projects presented opportunities to learn more about Node and Express on the backend, practice continuous integration via CircleCI and Heroku, and step into an existing Open Source codebase and make a contribution. These projects were fantastic introductions into these topics and I'm excited to apply the accumulated knowledge in the future.
+
+
+#### Bring Your Own Backend
 
 * [GitHub URL]()
 * [Original Assignment]()
 
-(description)
+##### Description
 
-(evaluation comments)
+##### Eval Comments
 
-(evaluation scores)
+##### Eval Scores
 
-(feedback to me)
+##### Feedback
+
+#### UNESCO Tracker
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+##### Description
+
+##### Eval Comments
+
+##### Eval Scores
+
+##### Feedback
 
 ## D: Professional Skills
 (Intro)
