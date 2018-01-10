@@ -16,7 +16,7 @@ Understand array and object manipulation, develop tools for complex problem-solv
 
 ## A: End of Module Assessment
 
-reflection here
+It went smoothly. I felt confident about the material.
 
 ## B: Individual Work & Projects
 
@@ -95,23 +95,31 @@ Weathrly is the first project that utilises React and data from an API (weatheru
 
 #### Functional Expectations
 
-* 
+* 4 - The application meets all of the requirements listed above and implements one or more of the extensions.
 
 #### User Interface
 
-* 
+* would be nice to be able to type in lowercase city names 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
 
 #### Testing
 
-* 
+* 4 - Project has a running test suite that exercises the application at multiple levels (feature and unit). The test suite covers almost all aspects of the application.
+
+#### HTML Style 
+
+* don't like the br 3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+#### CSS/SASS Style
+
+* Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
 
 #### JavaScript Style
 
-* 
+* 4 - Application has exceptionally well-factored code with little or no duplication and all components separated out into logical components. There are zero instances where an instructor would recommend taking a different approach to design and component architecture.
 
 #### Workflow
 
-* 
+* 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
 #### Code Sanitation
 
@@ -150,8 +158,8 @@ I paired a lot with Mod 2 and helped lead a mythical creatures session. I am a m
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+
