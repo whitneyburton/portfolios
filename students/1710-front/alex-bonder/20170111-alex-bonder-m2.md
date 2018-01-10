@@ -95,8 +95,6 @@ This project was our first using React. React takes all the best parts of JavaSc
 
 (evaluation scores) - pending
 
-(feedback to me) - pending
-
 ## D: Professional Skills
   The Gear Up sessions this module were very interesting. We took a lot of time to focus on learning about other people and ourselves. Everything we learned this mod is something very useful for becoming better developers and better workers in general.
 
