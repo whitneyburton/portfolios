@@ -38,6 +38,7 @@ Squad Goals is meant to be an application to help groups of friends connect to e
 (evaluation comments)
 
 (evaluation scores)
+- Pass
 
 #### Teacher Talk - Build Your Own Backend
 
@@ -49,6 +50,7 @@ For BYOB my partner, Amy Holt, and I built the backend for online teacher forum 
 (evaluation comments)
 
 (evaluation scores)
+- Pass
 
 #### Open Food Network - House of Vars
 
@@ -77,7 +79,7 @@ Palette Picker might have been one of my favorite projects at Turing. Building t
 - Commented Server File - 8/10
 - JavaScript Style - 22/30
 - Workflow - 17/20
-- Total - 123/150
+- Total - 123/150 - Pass
 
 
 ## D: Professional Skills
