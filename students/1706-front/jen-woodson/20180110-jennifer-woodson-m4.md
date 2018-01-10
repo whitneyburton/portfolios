@@ -1,5 +1,7 @@
 # Jen Woodson - M4 Portfolio
 
+[30-day plan](https://gist.github.com/jenPlusPlus/675ab54c0a9c3bfce5518933e485d6e6)
+
 ## Areas of Emphasis
 
 I was really excited to learn about the backend using Node.
