@@ -22,7 +22,6 @@ What did you learn from your independent projects?
 * From jungle beat, I learned that terminal can "say" things and more importantly, the structure of a linked list. A head points to the first object in the list and the tail points to nothing. This, typically, recursive data structure is more efficient then an array because each item in the linked list only knows about its state and its neighbor. Nothing in a linked list knows about the size of the list whereas Ruby always creates empty storage space for an array.
 
 What did you learn from your paired projects?
-# FLESH THIS OUT WITH CODING EXAMPLES!!!
 * The main lesson I took away from the paired projects is the value of working with another individual. Both Ellen and Megan were great at keeping my code writing honest. They demanded that variables, arguments, methods, and classes were named idiomatically. Additionally, by working with a partner, it became abundantly clear how valuable it is to discussing one's logic as one is coding. This process streamlines working through complex projects. Lastly, it was really fun to see how there are multiple ways of coding the same functionality, and how my partners offered solutions that varied from mine.
 
 ## Community
