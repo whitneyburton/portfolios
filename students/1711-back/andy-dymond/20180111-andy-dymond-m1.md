@@ -16,10 +16,10 @@
 ## Projects
 
 #### What were your favorite projects this module? Least favorite? Why?
-  * I honestly really enjoyed all of the projects this module, so it's a tough call. I'd have to put Http Yeah You Know Me at the top of the list, as I felt it was the most demanding project in terms of applying concepts we'd learned to concepts we had to pick up on the fly. It was probably the scariest project to start, and because of that the most satisfying to finish. My least favorite was event manager, which I realize is more of a tutorial than a full-fledged project, but I feel like I would have retained more of the info imparted if it made us work just a little bit hard to get through each iteration. That said, it's a great reference to keep on hand for starting Black Thursday.
+  * I honestly really enjoyed all of the projects this module, so it's a tough call. I'd have to put Http Yeah You Know Me at the top of the list, as I felt it was the most demanding project in terms of applying concepts we'd learned to concepts we had to pick up on the fly. It was probably the scariest project to start, and because of that the most satisfying to finish. My least favorite was event manager, which I realize is more of a tutorial than a full-fledged project, but I feel like I would have retained more of the info imparted if it made us work just a little bit harder to get through each iteration. That said, it's a great reference to keep on hand for starting Black Thursday.
 
 #### What did you learn from your independent projects?
-  * This mod, all but my last project were independent projects, so I learned a lot from them. One main takeaway I had from working through these projects alone was that time management and task planning is key to getting started and keeping on schedule when the only person you are accountable to is yourself. The second takeaway was that even when working alone, you shouldn't try to work completely alone all the time, I don't think I could have completed any of the projects in the allotted time without help and feedback from peers and mentors.
+  * This mod, all but my last project were independent projects, so I learned a lot from them. One main takeaway I had from working through these projects alone was that time management and task planning is key to getting started and keeping on schedule when the only person you are accountable to is yourself. The second takeaway was that even when working alone, you shouldn't try to work completely alone all the time; I don't think I could have completed any of the projects in the allotted time without help and feedback from peers and mentors.
 
 #### What did you learn from your paired projects?
   * Working in a pair on Black Thursday taught me how important it is to define the relationship and setup your workflow tools(via github, waffle, etc) before getting caught up in actual project work. This what my partner and I did day one, and I feel as though it really allowed us to set up our expectations and communication so we could work together as a single unit with two arms. I feel like our collaboration was very easy, and we had the advantage of having similar work ethics, planning approaches, and sleep schedules. I think the upfront planning would be even more important if we didn't have such similar approaches to work.
@@ -33,7 +33,7 @@
   I got to know two mentors and many upper mod students in both front and backend programs. In my own cohort, I tried to be an active participant in class, my posse, and tried to help/collaborate with my peers whenever possible.
 
 #### What would you like to do to contribute next module?
-  I'd be interested in SAB and getting more involved in the Turing Community. I'd also like to join a technically-oriented posse and hopefully get good enough to lead it the following module!
+  I'd like to get more involved in the Turing Community, perhaps by working with people to start some kind of community based blogging? I've heard a lot of people talk about their blog posts, but haven't actually seen any of their posts. Over break I plan to check some peers blogs out and start out with some technical posts on Medium as well. I'd also like to join a technically-oriented posse and hopefully get good enough to lead it the following module!
 
 ## Self-Assessment Scores
 
