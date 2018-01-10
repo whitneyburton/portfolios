@@ -84,12 +84,14 @@ During Mod 4, projects presented opportunities to learn more about Node and Expr
 ##### Feedback
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
+
 #### Just Because You Can Doesn’t Mean You Should
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1711-inning/Group_6.md)
+
+#### 30-Day Plan
 
 ## E: Community Participation
 
