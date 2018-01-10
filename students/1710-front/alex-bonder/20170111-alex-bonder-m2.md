@@ -3,16 +3,16 @@
 (What did you set out to accomplish this module?)
 
 ## Rubric Scores
-* A: End-of-Module Assessment: X
-* B: Individual Work & Projects: X
-* C: Group Work & Projects: X
-* D: Professional Skills: X
-* E: Community Participation: X
+* A: End-of-Module Assessment: 4
+* B: Individual Work & Projects: 4
+* C: Group Work & Projects: 4
+* D: Professional Skills: 3
+* E: Community Participation: 3
 
 
 ## A: End of Module Assessment
-(Indicate whether you passed or failed the end of module assessment)
 
+Passed
 
 ## B: Individual Work & Projects
   The individual projects this mod were Sorting Suite and Complete Me. Sorting Suite taught us 4 different algorithms for sorting information. Complete Me was a project where we created a data tree which could take information and suggest completions based on the partial information it is given.
