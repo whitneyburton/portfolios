@@ -18,7 +18,7 @@ I was really excited to learn about the backend using Node.
 
 ## A: End of Module Assessment
 
-I believe I passed it with my late submissions.
+I believe I passed it with my late submissions. No news is good news, right? (Right??)
 
 
 ## B: Individual Work & Projects
