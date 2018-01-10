@@ -82,5 +82,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Medium blog post-
 
-https://medium.com/@zach.g.landes/build-your-rails-database-the-right-way-from-the-start-21659edf1a29
+I wrote about the importance of singular vs. plurals when creating a rails database
 
+https://medium.com/@zach.g.landes/build-your-rails-database-the-right-way-from-the-start-21659edf1a29
