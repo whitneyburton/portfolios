@@ -2,7 +2,8 @@
 
 ### Mod3 Portfolio
 
-#### Rubic Scores 
+#### Areas of Emphasis 
+This mod I really wanted to have a solid understanding of React and Redux. I also wanted to get better at testing which I feel I accomplished in this module.
 
 ##### End of Module Assessement
 
@@ -14,23 +15,26 @@ Headcount was a project using a messy set of data that we had to clean and then 
 
 #### Comments
 
-Specification Adherence
-3 - The application completes all 5 iterations.
+* Specification Adherence
+3 
+
 Code Quality
-3 - Developer appears comfortable in React. There are minor opportunities to refactor.
-CSS/Design
-3 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has multiple recommendations for design changes. Follows majority of the 10 Essential Usability Guidelines.
-Testing
-4 - Every component is tested from both a unit and acceptance standpoint, all crucial functionality is tested
-PropType Implementation
-Pass - Proptype validation is implemented for any component receiving props.
-Code Sanitation
-The output from ESLint shows…
+3 
 
-4 - Zero complaints
+* CSS/Design
+3 
 
-Workflow
-3 - Developer(s) make many small, atomic commits that document the evolution of the application but sometimes contain irrelevant changesets and inconsistent commit messages. Developer(s) use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing fresh changes directly to master. Pull requests may contain little or no code review. There may be slight instances where the developer(s) have committed source code that should be .gitignored. There may be some instances of "dead" or commented-out code and debugger statements like console.log that need to be cleaned up.
+* Testing
+4
+
+* PropType Implementation
+Pass
+
+* Code Sanitation
+4 
+
+* Workflow
+3 
 
 ### Swapi-Box
 * [Original Assessment](http://frontend.turing.io/projects/swapi-box.html)
@@ -40,32 +44,27 @@ Swapi-Box was really fun project using the Star Wars API and working with asynch
 
 #### Comments
 
-Evaluator:Christie
-Students:
-Comments: Separate fetch calls into separate functions - will make them much easier to test. Make sure that you are not actually making the fetch call in your test, and instead using a jest.fn(). Move all your mock data to a separate file. Overall, nice job on this project!
-Rubric
-Specification Adherence
-3 - The application completes all 4 iterations.
 
-Code Quality
-3 - Developer appears comfortable in React. There are minor opportunities to refactor.
+* Specification Adherence
+3 
 
-CSS/Design
-3.5 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has multiple recommendations for design changes. Follows majority of the 10 Essential Usability Guidelines.
+* Code Quality
+3
 
-Testing
-3 - Almost all components are tested to a level that indicates developer has an understanding of testing
+* CSS/Design
+3.5 
 
-PropType Implementation
-Pass - Proptype validation is implemented for any component receiving props.
+* Testing
+3
 
-Code Sanitation
-The output from ESLint shows…
+* PropType Implementation
+Pass
 
-4 - Zero complaints
+* Code Sanitation
+4 
 
-Workflow
-4 - Developer(s) make many small, atomic commits that clearly document the evolution of the application and do not contain irrelevant changesets that aren’t reflected by the commit message. Commit messages are concise and consistent in syntax and tense. Developer(s) effectively use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing directly to master. There are no instances where the developer(s) have committed source code that should be .gitignored. There are no instances of “dead” or commented-out code and debugger statements like console.log.
+* Workflow
+4
 
 ### Movie-Tracker
 *[Original Assessment](https://github.com/turingschool-examples/movie-tracker)
@@ -76,26 +75,32 @@ This project was extremely difficult. Luckily I had soild project partners and w
 #### Comments
 
 Rubric
-Specification Adherence
-3 - The application completes all 2 iterations.
-Code Quality
-3 - Developer appears comfortable in React. There are minor opportunities to refactor.
-CSS/Design
-3 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has multiple recommendations for design changes. Follows majority of the 10 Essential Usability Guidelines.
-Testing
-3 - Almost all components are tested to a level that indicates developer has an understanding of testing
-PropType Implementation
-Pass - Proptype validation is implemented for any component receiving props.
-5. Code Sanitation
-The output from ESLint shows…
+* Specification Adherence
+3
 
-3 - Five or fewer complaints
-Redux Architecture
-3: At least one component is not connected with Redux appropriately. Application state is mutated by more than just Redux. The Redux store is missing application data that it should be handling.
-Routing
-4: Application is a single page and uses the React Router to display appropriate components based on URL.
-Workflow
-3.5 - Developer(s) make many small, atomic commits that document the evolution of the application but sometimes contain irrelevant changesets and inconsistent commit messages. Developer(s) use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing fresh changes directly to master. Pull requests may contain little or no code review. There may be slight instances where the developer(s) have committed source code that should be .gitignored. There may be some instances of "dead" or commented-out code and debugger statements like console.log that need to be cleaned up.
+* Code Quality
+3
+
+* CSS/Design
+3 
+
+* Testing
+3 
+
+* PropType Implementation
+Pass 
+
+* Code Sanitation
+3 
+
+* Redux Architecture
+3
+
+* Routing
+4
+
+* Workflow
+3.5
 
 ### Personal Project
 *[Original Assessment](http://frontend.turing.io/projects/self-directed-project.html)
@@ -105,30 +110,27 @@ A solo self directed project that was tough and very daunting project. I did min
 
 #### Comments
 
-Project Scope
-A good project idea should:
 
-Break down into logical iterations so that you can deliver a strong product on every check-in
-Be something that real people would want to use to solve a problem
-Have enough technical challenge to be worth your time (as opposed to a content challenge)
-Feature Delivery
-1. Completion
+* 1. Completion
+3
 
-3: Developer completed all the user stories and requirements set during check-ins.
-CSS/Design
-3 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has multiple recommendations for design changes. Follows majority of the 10 Essential Usability Guidelines.
-Code Quality
-3 - Developer appears comfortable in React. There are minor opportunities to refactor.
-Redux Architecture
-3: All state changes are handled by Redux with exeception to Controlled Forms. Actions and Reducers are simple. Containers don't hold unnecessary data.
-Code Sanitation
-The output from ESLint shows…
+* CSS/Design
+3 
 
-4 - Zero complaints
-Testing
-3.5 - Almost all components are tested to a level that indicates developer has an understanding of testing
-Workflow
-4 - Developer(s) make many small, atomic commits that clearly document the evolution of the application and do not contain irrelevant changesets that aren't reflected by the commit message. Commit messages are concise and consistent in syntax and tense. Developer effectively use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing directly to master. There are no instances where the developer(s) have committed source code that should be .gitignored. There are no instances of "dead" or commented-out code and debugger statements like console.log.
+* Code Quality
+3
+
+* Redux Architecture
+3
+
+* Code Sanitation
+4
+
+* Testing
+3.5
+
+* Workflow
+4 
 
 ### Community Participation
 I helped out with when I could or people had questions from lowers mods. I also assisted with a few back-end students with helping with CSS questions. Lastly I attended a few guest speakers throughout the mod.
