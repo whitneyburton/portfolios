@@ -37,19 +37,19 @@ Evaluation Scores:
 * [GitHub URL](https://github.com/jessepackwood/CoinWatch)
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 <br>
-[Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-3/personal-projects/jesse/rubric.md)
+* [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-3/personal-projects/jesse/rubric.md)
 
 Feature Delivery:
 
-*Completion: 4
-*CSS/Design: 4
-*Code Quality: 3
-*Redux Architecture: 4
-*Testing: 3
-*JS Style: 3.5
-*CSS/SASS: 4
-*Workflow: 4
-*Code Sanitation: 4
+Completion: 4
+CSS/Design: 4
+Code Quality: 3
+Redux Architecture: 4
+Testing: 3
+JS Style: 3.5
+CSS/SASS: 4
+Workflow: 4
+Code Sanitation: 4
 
 ### C: Group Work & Projects
 
@@ -61,13 +61,13 @@ Feature Delivery:
 
 Evaluation Scores:
 
-*Spec Adherence: 3 
-*Code Quality: 2 
-*CSS/Design : 4 
-*Testing: 2 
-*PropType Implementation: Fail - There are components missing proptype validation.
-*Code Sanitation: 4 
-*Workflow: 4 
+Spec Adherence: 3 
+Code Quality: 2 
+CSS/Design : 4 
+Testing: 2 
+PropType Implementation: Fail - There are components missing proptype validation.
+Code Sanitation: 4 
+Workflow: 4 
 
 #### Movie Tracker
 
@@ -77,15 +77,15 @@ Evaluation Scores:
 <br>
 Evaluation Scores:
 
-*Spec Adherence: 4
-*Code Quality: 3.5
-*CSS/Design: 3
-*Testing: 4
-*Code Sanitation: 4
-*PropType Implementation: Pass
-*Redux Architecture: 4
-*Routing: 4
-*Workflow: 4
+Spec Adherence: 4
+Code Quality: 3.5
+CSS/Design: 3
+Testing: 4
+Code Sanitation: 4
+PropType Implementation: Pass
+Redux Architecture: 4
+Routing: 4
+Workflow: 4
 
 Pass
 ### D: Professional Skills
