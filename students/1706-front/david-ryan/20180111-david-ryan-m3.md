@@ -27,6 +27,7 @@
  * [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
  * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-3/swapi/david.md)
  <br>
+ 
  Evaluation Scores:
  
  Spec Adherence: 3
@@ -53,12 +54,19 @@
  Feature Delivery:
  
  Completion: 3
+ 
  CSS/Design: 1
+ 
  Code Quality: 3
+ 
  Redux Architecture: 3
+ 
  Testing: 2.5
+ 
  JS Style: 3.5
+ 
  Workflow: 3
+ 
  Code Sanitation: 1
  
  ### C: Group Work & Projects
@@ -72,11 +80,17 @@
  Evaluation Scores:
  
  Spec Adherence: 2 
+ 
  Code Quality: 2 
+ 
  CSS/Design : 3 
+ 
  Testing: 2 
+ 
  PropType Implementation: PASS
+ 
  Code Sanitation: 2 
+ 
  Workflow: 3
  
  #### Movie Tracker
@@ -85,16 +99,25 @@
  * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
  * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-3/movie-tracker/thomas-sam-djr.md)
  <br>
+ 
  Evaluation Scores:
  
  Spec Adherence: 4
+ 
  Code Quality: 3.5
+ 
  CSS/Design: 3.5
+ 
  Testing: 4
+ 
  Code Sanitation: 4
+ 
  PropType Implementation: Pass
+ 
  Redux Architecture: 4
+ 
  Routing: 4
+ 
  Workflow: 4
  
  Pass
