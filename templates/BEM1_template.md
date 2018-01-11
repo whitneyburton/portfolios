@@ -1,4 +1,4 @@
-# cameron johnson - M1 Portfolio
+# First Last - M1 Portfolio
 
 ## Areas of Emphasis
 
