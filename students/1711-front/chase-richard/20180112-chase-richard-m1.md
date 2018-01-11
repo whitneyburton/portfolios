@@ -304,8 +304,6 @@ Refactor Idea Box into an application that allows saving tasks to a page.
 
 
 ## D: Professional Skills
-(Intro)
-
 ### Gear Up
 #### Health and Wellness 1 - Growth Mindset
 
