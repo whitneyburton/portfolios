@@ -24,13 +24,13 @@ PASS!
 <br>
 Evaluation Scores:
 
-Spec Adherence: 3
-Code Quality: 3 
-CSS/Design: 3.5
-Testing: 2.5 
-PropType Implementation: Pass
-Code Sanitation: 1 
-Workflow : 4 
+*Spec Adherence: 3
+*Code Quality: 3 
+*CSS/Design: 3.5
+*Testing: 2.5 
+*PropType Implementation: Pass
+*Code Sanitation: 1 
+*Workflow : 4 
 
 #### Coin Watch
 
@@ -41,15 +41,15 @@ Workflow : 4
 
 Feature Delivery:
 
-Completion: 4
-CSS/Design: 4
-Code Quality: 3
-Redux Architecture: 4
-Testing: 3
-JS Style: 3.5
-CSS/SASS: 4
-Workflow: 4
-Code Sanitation: 4
+*Completion: 4
+*CSS/Design: 4
+*Code Quality: 3
+*Redux Architecture: 4
+*Testing: 3
+*JS Style: 3.5
+*CSS/SASS: 4
+*Workflow: 4
+*Code Sanitation: 4
 
 ### C: Group Work & Projects
 
@@ -61,13 +61,13 @@ Code Sanitation: 4
 
 Evaluation Scores:
 
-Spec Adherence: 3 
-Code Quality: 2 
-CSS/Design : 4 
-Testing: 2 
-PropType Implementation: Fail - There are components missing proptype validation.
-Code Sanitation: 4 
-Workflow: 4 
+*Spec Adherence: 3 
+*Code Quality: 2 
+*CSS/Design : 4 
+*Testing: 2 
+*PropType Implementation: Fail - There are components missing proptype validation.
+*Code Sanitation: 4 
+*Workflow: 4 
 
 #### Movie Tracker
 
@@ -77,15 +77,15 @@ Workflow: 4
 <br>
 Evaluation Scores:
 
-Spec Adherence: 4
-Code Quality: 3.5
-CSS/Design: 3
-Testing: 4
-Code Sanitation: 4
-PropType Implementation: Pass
-Redux Architecture: 4
-Routing: 4
-Workflow: 4
+*Spec Adherence: 4
+*Code Quality: 3.5
+*CSS/Design: 3
+*Testing: 4
+*Code Sanitation: 4
+*PropType Implementation: Pass
+*Redux Architecture: 4
+*Routing: 4
+*Workflow: 4
 
 Pass
 ### D: Professional Skills
