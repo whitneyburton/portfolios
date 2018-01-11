@@ -62,15 +62,15 @@ My goals for Mod 3 were to: synthesize all of my learning so far to make really 
 #### Evaluator: Jhun
 #### Students: Katie Scruggs and Jesse Packwood
 
-#### Specification Adherence: 4
-#### Code Quality: 3.5
-#### CSS/Design: 3
-#### Testing: 4
-#### PropType: Pass
-#### Code Sanitation: 4
-#### Redux Architecture: 4
-#### Routing: 4
-#### Workflow: 4
+* Specification Adherence: 4
+* Code Quality: 3.5
+* CSS/Design: 3
+* Testing: 4
+* PropType: Pass
+* Code Sanitation: 4
+* Redux Architecture: 4
+* Routing: 4
+* Workflow: 4
 
 ## Personal Project: Stella Via
 
