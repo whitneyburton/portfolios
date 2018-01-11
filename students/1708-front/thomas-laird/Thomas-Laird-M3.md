@@ -122,9 +122,10 @@ This mod I took over leadership of my posse. I organized the time spent on Frida
 
 ### Outcome
 
+PASS
 
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
-* **D: Professional Skills**: 
-* **E: Community Participation**: 
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
