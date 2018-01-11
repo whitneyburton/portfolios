@@ -39,4 +39,4 @@
  | **Group Projects**           |   3   |
  | **Professional Development** |   3   |
  | **Community**                |   3   |
- | **Pentathlon**               |   x   |
+ | **Pentathlon**               |   3   |
