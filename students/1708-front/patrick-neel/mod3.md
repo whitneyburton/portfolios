@@ -28,6 +28,7 @@ Code Sanitation
 The output from ESLint shows…
 
 4 - Zero complaints
+
 Workflow
 3 - Developer(s) make many small, atomic commits that document the evolution of the application but sometimes contain irrelevant changesets and inconsistent commit messages. Developer(s) use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing fresh changes directly to master. Pull requests may contain little or no code review. There may be slight instances where the developer(s) have committed source code that should be .gitignored. There may be some instances of "dead" or commented-out code and debugger statements like console.log that need to be cleaned up.
 
@@ -142,3 +143,10 @@ We made a resume and had a staff memeber review them of where they needed to be 
 
 ### Outcome
 
+PASS 
+
+* **A: End-of-Module Assessment**: pass
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
