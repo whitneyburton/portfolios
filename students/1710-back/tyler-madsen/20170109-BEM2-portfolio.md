@@ -10,6 +10,14 @@ What did you struggle most with this module? What did you learn from that strugg
 
 * I struggled most in the first two weeks of the Mod, since everything was so drastically different than the first Mod. This was not unexpected, as Mod 1 was similar until I was able to get a grasp on the basic concepts and build my more advanced knowledge from there. I've learned that I quite capable of learning these technologies and to try to not let it affect me when I am struggling. All it takes is one aha! moment to get it down. I also struggled during the Ruby challenge, which made me realize I need to continue to go back and do ruby challenges to keep that fresh in my mind.
 
+## Blog
+
+Link your blog post here. Include a short description of your topic (one sentence is fine).
+
+https://medium.com/@madsen.tyler/why-your-rails-images-are-broken-on-heroku-and-how-to-fix-them-be48e386b067
+
+* I had trouble deploying my mini-project to Heroku do to image errors and fixed them using asset helpers, so I wrote a blog post about how to do that.
+
 ## Projects
 
 What were your favorite projects this module? Least favorite? Why?
@@ -44,9 +52,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category                     | Score |
 | -----------------------------| ----- |
-| **Individual Projects**      |   4   |
+| **Individual Projects**      |   3   |
 | **Group Projects**           |   3   |
 | **Professional Development** |   3   |
 | **Community**                |   2   |
 | **Final Written**            |   3   |
-| **Final Timed**              |   4   |
+| **Final Timed**              |   3   |
