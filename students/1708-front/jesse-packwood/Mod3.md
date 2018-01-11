@@ -42,7 +42,7 @@ Workflow : 4
 Feature Delivery:
 
 Completion: 4
-CSS/Design: 3.5
+CSS/Design: 4
 Code Quality: 3
 Redux Architecture: 4
 Testing: 3
@@ -100,7 +100,13 @@ As a mod 3 student I was a member of the student advisory board and the front en
 
 ## Notes
 
-
-
 ## Outcome
+
+A: End-of-Module Assessment: Pass
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 4
+D: Professional Skills: 3
+E: Community Participation: 4
+
+PASS!
 
