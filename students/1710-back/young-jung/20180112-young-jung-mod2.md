@@ -14,6 +14,8 @@ I am still struggling with public speaking and the ability to talk about my code
 ## Blog
 
 Link your blog post here. Include a short description of your topic (one sentence is fine).
+My blog post is about how to use carrierwave with Amazon S3 buckets to store files.  The documentation I found was pretty spotty and mostly old also lots of different versions of gems so this is how I got it to work on my concertbox app.
+https://medium.com/@youngjoonjung/configuring-carrierwave-with-aws-s3-on-your-rails-application-figaro-ea6178106102
 
 ## Projects
 
@@ -21,7 +23,7 @@ What were your favorite projects this module? Least favorite? Why?
 
 My favorite projects for Module 2 were the group projects.  I had great working experiences and learned a lot from both projects so it was very hard to choose but if I had to pick I would say that Little Shop was my favorite project from Module 2.  I am really proud of my team's product both from a backend and a frontend standpoint and the implementation of all of the major components of Rails that we have learned so far(Authentication, Authorization, HABTM, Cart, Session, etc.) in this Module.  I felt like I was a major contributor on this project and I was even able to share some of the knowledge of working with the Carrierwave and Searchlight to incorporate into our project.  I also felt like my workflow was much more efficient and I was conciously making sure to improve my git commit messages.
 
-My least favorite project would have to be the Rails Mini-Project.  I am proud of the finished project being that it was one of my first apps and the first one I deployed to Heroku but my path to get to that finished project wasn't very smooth.  At the time I created the project I felt a little shaky on Rails concepts and when I started trying to incorporate the Carrierwave gem into my project I started running into a series of bugs that derailed some of my organization and my adherence to TDD.  I eventually figured it out and was able to deploy to Heroku and I think the finished product looks okay but my main take away from that project is how not to organize and work on a project.  I did gain the confidence that I could work through problems on my own
+My least favorite project would have to be the Rails Mini-Project.  I am proud of the finished project being that it was one of my first apps and the first one I deployed to Heroku but my path to get to that finished project wasn't very smooth.  At the time I created the project I felt a little shaky on Rails concepts and when I started trying to incorporate the Carrierwave gem into my project I started running into a series of bugs that derailed some of my organization and my adherence to TDD.  I eventually figured it out and was able to deploy to Heroku and I think the finished product looks okay but my main take away from that project is how not to organize and work on a project.  I did gain the confidence that I could work through problems on my own and that I could learn things even with spotty documentation.
 
 What did you learn from your independent projects?
 
@@ -34,6 +36,8 @@ I improved my Git workflow, learned a lot about styling from people who are bett
 ## Community
 
 What was your favorite Gear Up? Least favorite? Why?
+
+My favorite gear up was about the attention economy, it really made me think about how technology can affect people and how  we should think about those impacts that we create as developers.  It did make me think a lot, not sure there is really a solution to that problem.  As for least favorite, I can't think of one that I particularly dislike so I won't list one.
 
 How did you contribute to the Turing community this module?
 
