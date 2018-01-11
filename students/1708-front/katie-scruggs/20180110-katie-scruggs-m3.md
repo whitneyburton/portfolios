@@ -20,48 +20,42 @@ My goals for Mod 3 were to: synthesize all of my learning so far to make really 
 ## B: Individual Work & Projects
 
 ### SWAPI BOX
-
 * [GitHub URL](https://github.com/katiescruggs/swapi-box)
 * [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
 
-#### [Evaluator: Will] (https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-3/swapi/katie-scruggs/scores.md)
-
-#### Specification Adherence: 4
-#### Code Quality: 4
-#### CSS/Design: "4-"
-#### Testing: 4
-#### PropType Implementation: Pass
-#### Code Sanitation: 4
-#### Workflow: 4
+##### Evaluator: Will
+* Specification Adherence: 4
+* Code Quality: 4
+* CSS/Design: "4-"
+* Testing: 4
+* PropType Implementation: Pass
+* Code Sanitation: 4
+* Workflow: 4
 
 
 ## C: Group Work & Projects
 
 ### HeadCount
-
 * [GitHub URL](https://github.com/mariastlouis/headcount)
 * [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
 
-#### Evaluator: Jhun
-#### Students: Katie Scruggs and Maria St. Louis
-
-#### Specification Adherence: 4
-#### Code Quality: 4
-#### CSS/Design: 4
-#### Testing: 4
-#### PropType Implemenation: Pass
-#### Code Sanitation: 4
-#### Workflow: 3.5
+##### Evaluator: Jhun
+##### Students: Katie Scruggs and Maria St. Louis
+* Specification Adherence: 4
+* Code Quality: 4
+* CSS/Design: 4
+* Testing: 4
+* PropType Implemenation: Pass
+* Code Sanitation: 4
+* Workflow: 3.5
 
 
 ### Movie Tracker
-
 * [GitHub URL](https://github.com/katiescruggs/movie-tracker-frontend)
 * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
 
-#### Evaluator: Jhun
-#### Students: Katie Scruggs and Jesse Packwood
-
+##### Evaluator: Jhun
+##### Students: Katie Scruggs and Jesse Packwood
 * Specification Adherence: 4
 * Code Quality: 3.5
 * CSS/Design: 3
@@ -73,20 +67,18 @@ My goals for Mod 3 were to: synthesize all of my learning so far to make really 
 * Workflow: 4
 
 ## Personal Project: Stella Via
-
 * [GitHub URL](https://github.com/katiescruggs/stella-via)
 * [Original Assignment](https://github.com/turingschool-examples/personal-project)
 
-#### Evaluator: Jhun
-#### Students: Katie Scruggs and Julie Hawkins
-
-#### Completion: 4
-#### CSS/Design: 4
-#### Code Quality: 4
-#### Redux Architecture: 4
-#### Code Sanitation: 4
-#### Testing: 4
-#### Workflow: 4
+##### Evaluator: Jhun
+##### Students: Katie Scruggs and Julie Hawkins
+* Completion: 4
+* CSS/Design: 4
+* Code Quality: 4
+* Redux Architecture: 4
+* Code Sanitation: 4
+* Testing: 4
+* Workflow: 4
 
 
 ## D: Professional Skills
