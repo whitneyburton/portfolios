@@ -154,9 +154,8 @@ A good project idea should:
 
 ### CSS/Design
 
-<!-- - 4 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has minimal recommendations for design changes. Follows [10 Essential Usability Guidelines.](https://speckyboy.com/10-essential-web-application-usability-guidelines/)
-- 3 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has multiple recommendations for design changes. Follows majority of the [10 Essential Usability Guidelines.](https://speckyboy.com/10-essential-web-application-usability-guidelines/) -->
-- 2.5 - Developer has made intentional design decisions to create a user friendly application but Louisa would be mad. Attempts to follow [10 Essential Usability Guidelines.](https://speckyboy.com/10-essential-web-application-usability-guidelines/)
+3 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has multiple recommendations for design changes. Follows majority of the [10 Essential Usability Guidelines.](https://speckyboy.com/10-essential-web-application-usability-guidelines/)
+
 
 ### Code Quality
 
@@ -173,9 +172,7 @@ The output from ESLint shows…
 
 ### Testing
 
-<!-- - 4 - Every component is tested from both a unit and acceptance standpoint, all crucial functionality is tested
-- 3 - Almost all components are tested to a level that indicates developer has an understanding of testing -->
-- 2.5 - A valid attempt was made to test functionality with obvious gaps where functionality is not tested
+3 - Almost all components are tested to a level that indicates developer has an understanding of testing
 
 
 ### Workflow
@@ -218,10 +215,10 @@ Attend and contribute to IronFE. Help mod1 and mod2. Help with questions other m
  
 ## Rubric Scores
 
+PASS 
 
-
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
-* **D: Professional Skills**: 
-* **E: Community Participation**: 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
