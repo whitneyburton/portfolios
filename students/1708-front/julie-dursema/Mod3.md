@@ -114,8 +114,8 @@ This mod, I participated in SAB as a SAB leader and got to help reorganize the p
 
 PASS
 
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
-* **D: Professional Skills**: 
-* **E: Community Participation**: 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3 
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
