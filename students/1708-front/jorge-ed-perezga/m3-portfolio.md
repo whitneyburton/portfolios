@@ -160,11 +160,13 @@ M3 PORTFOLIO
   ( Leave blanks for reviewers )
   
   ### Outcome
+
+  PENDING
   
   ## Rubric Scores
 
-  * **A: End-of-Module Assessment**: 
-  * **B: Individual Work & Projects**: 
-  * **C: Group Work & Projects**: 
-  * **D: Professional Skills**: 
-  * **E: Community Participation**:
+  * **A: End-of-Module Assessment**: not passing
+  * **B: Individual Work & Projects**: 2
+  * **C: Group Work & Projects**: 3.5 
+  * **D: Professional Skills**: 3
+  * **E: Community Participation**: 3.5
