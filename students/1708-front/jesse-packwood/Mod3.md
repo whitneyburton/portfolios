@@ -75,7 +75,7 @@ PASS!
 * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-3/movie-tracker/katie-jessie.md)
 <br>
-Evaluation Scores:
+##### Evaluation Scores:
 
 * Spec Adherence: 4
 * Code Quality: 3.5
