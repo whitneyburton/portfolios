@@ -105,10 +105,10 @@ I was active in the JCS, helped out my classmates whenever I could and paired wi
 
 ### Outcome
 
+PASS
 
-
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
-* **D: Professional Skills**: 
-* **E: Community Participation**: 
+* **A: End-of-Module Assessment**: PASS 
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3 
+* **E: Community Participation**: 3
