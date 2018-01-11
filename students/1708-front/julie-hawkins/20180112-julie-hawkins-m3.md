@@ -182,4 +182,10 @@ This mod I tried to be available to the mods below as much as possible, but was 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS 
+
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
