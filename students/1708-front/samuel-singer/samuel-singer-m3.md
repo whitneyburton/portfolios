@@ -1,6 +1,10 @@
-# Luke Finney  
+# Samuel Singer
 
 # M3 Portfolio
+
+## Areas of Emphasis
+
+I set out to learn and improve my knowledge and skillset when it came to learning and implementing React/Redux/Router.
 
 ## Rubric Scores
 
@@ -183,13 +187,6 @@ The output from ESLint shows…
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
 
 A reflection on micro-agressions, this Gear-Up provided a good opportunity to reflect on the everyday interactions I find myself in and how I can be more aware of others' identities. The conscientious approach and ability to go forward in a positive manner wanting to make an impact for the better is something that we should all consider implementing.
-
-### Tragedy of the Commons
-
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
-
-Interesting way to view and understand diversity among the work place. If we choose to include is the inevitable outcome to actually exclude. Rather than seeking likeness we may need to focus our efforts in creating environments where people are striving to find others that are unlike them.
-
 
 ### Mod 4 Lead - Growth Mindset
 
