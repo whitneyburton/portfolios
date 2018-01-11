@@ -121,7 +121,7 @@ Instructor: Christie
 * Testing: 4
 * PropTypes: Pass
 * Code Sanitation: 4
-* Redux Architecture: 3
+* Redux Architecture: 4
 * Workflow: 4
 
 *********
@@ -158,4 +158,12 @@ As has been the case from the beginning, I'm at Turing late almost every night. 
 
 As well, I've enjoyed the 1708FE cohort.  We're known as the "mellow" cohort, which suits me perfectly.  I've never had any troubles working with anyone and have seen the value that each individual has to offer in a project.
 
+
 *********
+PASS
+
+* **A: End-of-Module Assessment**: PASS
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
