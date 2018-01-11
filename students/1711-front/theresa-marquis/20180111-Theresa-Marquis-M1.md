@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Technically, my goal for the mod was to learn foundational javascript, html, and css. Professionally, my goal was to futher nurture and enrich my relationships with fellow students and instructors.  During the process, I wanted to manage conflicts with composure when possible and practice effective stress management techniques routinely.
 
 ## Rubric Scores
 
@@ -30,10 +30,10 @@ I completed 1 project and 3 static compositions, named: Number Guesser, Static C
 
 Description - Build a game where the user guesses a number between 1 and 100
 
-COMP RECREATION / DESIGN - Novice
-HTML - Novice & Advanced Beginner
-CSS - Novice
-JS/jQuery - Advanced Beginner
+- COMP RECREATION / DESIGN - Novice
+- HTML - Novice & Advanced Beginner
+- CSS - Novice
+- JS/jQuery - Advanced Beginner
 
 #### Static Comp 1
 
@@ -44,8 +44,6 @@ JS/jQuery - Advanced Beginner
 
 * Evaluation comments: improve icon aspect ratio, be mindful of color calibrations; investigate full background images in css and crop images differently for different media queries; use 72-96 dpi resolutions for png and jpg, font sizes should be suitable for screen size; avoid explosive changes between media queries; use viewport metatag 
 
-(evaluation scores)
-
 #### Static Comp 2
 
 * [GitHub URL](https://github.com/tmcjunkinmarquis/tm-comp-challenge-2)
@@ -53,9 +51,8 @@ JS/jQuery - Advanced Beginner
 
 This was an extension of the first static comp, for further practice and skills expansion.  Learning emphasis is on: how a user can best experience the layout across various screen sizes; legible content; images should look good.
 
-(evaluation comments)
-
-(evaluation scores)
+- Pay closer attention to color palette
+- Reasonable adherence to Gestalt priciple of Proximity.
 
 #### Static Comp 3
 
@@ -72,7 +69,7 @@ General description is that this is a tough layout to build that will take sever
 
 ### Projects
 
-(Intro)
+Three projects this mod were paired projects.  My primary goal for all of the projects was be a good partner to my partner.  So I concentrated on the DTR and listening to my partner.  I learned a lot about the disparity in styles between
 
 #### LinkedList
 
@@ -82,26 +79,26 @@ General description is that this is a tough layout to build that will take sever
 This project is a bookmarking application for websites. Users can create bookmarks with a title and a link, and delete them. They are not stored. This was a paired project with Edgar Munoz. The project is written with vanilla JS.
 
 Improve:
-Error messaging - more direct instructions for avoiding the error
-Knock the red down on your clear read buttons, fix spacing between inputs
-Hard to read the read bookmarks text on the screen
-Use the HTML style conventions.
-Add labels to inputs.
-Use ems or rms for fonts
-Use box-sizing: border-box
-Avoid IDs as CSS selectors
-Need better names for JS objects
-Be descriptive in gitHub comments
+- Error messaging - more direct instructions for avoiding the error
+- Knock the red down on your clear read buttons, fix spacing between inputs
+- Hard to read the read bookmarks text on the screen
+- Use the HTML style conventions.
+- Add labels to inputs.
+- Use ems or rms for fonts
+- Use box-sizing: border-box
+- Avoid IDs as CSS selectors
+- Need better names for JS objects
+- Be descriptive in gitHub comments
 
-Functional Expectations - Proficient
-COMP RECREATION / DESIGN - Advanced Beginner & Proficient
-HTML - Advanced Beginner
-CSS - Advanced Beginner
-JS/jQuery - Advanced Beginner & Proficient
-GIT & GITHUB - Advanced Beginner & Proficient
-Pairing/Collaboration - Proficient
+- Functional Expectations - Proficient
+- COMP RECREATION / DESIGN - Advanced Beginner & Proficient
+- HTML - Advanced Beginner
+- CSS - Advanced Beginner
+- JS/jQuery - Advanced Beginner & Proficient
+- GIT & GITHUB - Advanced Beginner & Proficient
+- Pairing/Collaboration - Proficient
 
-Partner expressed appreciation for: researching and implementing regex, technical skill with js, optimism and encouragement, scheduling resources, good collaboration skills, github practice.
+Partner expressed appreciation for: researching and implementing regex, technical skill with js, optimism and encouragement, scheduling resources, good collaboration skills, and github practice.
 
 #### IdeaBox
 
@@ -111,9 +108,19 @@ Partner expressed appreciation for: researching and implementing regex, technica
 This is a simple application for recording and archiving ideas.  The ideas are able to be persisted in local storage, edited in the window with changes persisted as well.  JavaScript (with jQuery) manages client-side interactions.
 JSON and localStorage to persist data between sessions.
 
-(evaluation comments)
+The work captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but clearly mindful of details and has made a conscious and careful effort to match the comp.
 
-(evaluation scores)
+- Data Types - Proficient
+- Conditional Logic - Proficient
+- Functions & Scope - Proficient
+- Arrays - Proficient
+- Objects & Prototypes - Proficient
+- DOM Manipulation - Proficient
+- Style - Proficient
+- Git - Proficient
+- Github - Proficient
+- Comp Recreation - Proficient
+- Collaboration - Proficient
 
 Partner expressed appreciation for my slower, more methodical, collaborative planning and whiteboarding approach, a good DTR agreement, and kindness.
 
@@ -125,28 +132,28 @@ Partner expressed appreciation for my slower, more methodical, collaborative pla
 
 This project uses IdeaBox code from a fellow student as the base.  This project refactors the base to have little to no duplication in JavaScript (DRY principle), no deep nesting (for if/else conditionals), and to keep line lengths short and readable to avoid horizontal scrolling in sublime.
 
-Data Types - Advanced Beginner & Proficient
-Conditional Logic - Advanced Beginner & Proficient
-Functions & Scope - Advanced Beginner & Proficient
-Arrays - Advanced Beginner & Proficient
-Objects & Prototypes - Advanced Beginner & Proficient
-DOM Manipulation - Advanced Beginner & Proficient
-Style - Advanced Beginner
-GIT & GITHUB
-Git - Advanced Beginner & Proficient
-Github - Advanced Beginner & Proficient
-DESIGN
-Design Concepts - Advanced Beginner & Proficient
-Advanced Beginner
-Proficient
-PAIRING
-Collaboration - Proficient
+- Data Types - Advanced Beginner & Proficient
+- Conditional Logic - Advanced Beginner & Proficient
+- Functions & Scope - Advanced Beginner & Proficient
+- Arrays - Advanced Beginner & Proficient
+- Objects & Prototypes - Advanced Beginner & Proficient
+- DOM Manipulation - Advanced Beginner & Proficient
+- Style - Advanced Beginner
+- GIT & GITHUB
+- Git - Advanced Beginner & Proficient
+- Github - Advanced Beginner & Proficient
+ -DESIGN
+- Design Concepts - Advanced Beginner & Proficient
+- Advanced Beginner
+- Proficient
+- PAIRING
+- Collaboration - Proficient
 
-(feedback to me)
+Appreciation includes: " I really appreciate your patience and your interest in pair learning.  This was the first opportunity I have have to work with someone who was interested in pair programing and I think that it was great for my learning style."
 
 
 ## D: Professional Skills
-(Intro)
+I appreciated the focus on the social media and networking apps.  Cold outreach is a technique that I will implement.  I updated my LinkedIn successfully. 
 
 ### Gear Up
 #### Be Your Own Ally
