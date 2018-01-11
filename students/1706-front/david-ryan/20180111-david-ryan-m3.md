@@ -6,10 +6,15 @@
  ### Rubric Scores
  
  A: End-of-Module Assessment: Pass
+ 
  B: Individual Work & Projects: Pass
+ 
  C: Group Work & Projects: Pass
+ 
  D: Professional Skills: Yes
+ 
  E: Community Participation: Yes
+ 
  A: End of Module Assessment
  
  PASS!
@@ -25,11 +30,17 @@
  Evaluation Scores:
  
  Spec Adherence: 3
+ 
  Code Quality: 3.5
+ 
  CSS/Design: 2
+ 
  Testing: 1 
+ 
  PropType Implementation: Pass
+ 
  Code Sanitation: 1 
+ 
  Workflow : 4 
  
  #### Aggrecoin
