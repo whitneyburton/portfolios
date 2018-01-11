@@ -265,6 +265,7 @@ parsedObject[this.className] = $(this).text();
 
 ## Objects & Prototypes
 
+
 * Advanced Beginner Can use object constructor functions and is comfortable with extracting values of properties on different object instances.
 * Proficient  Can use object prototypes. Can articulate the definition and the “why” of an object prototype - the best use cases for prototypes.
 
@@ -314,13 +315,105 @@ Aldo “We did a great job working together. Your knowledge of javascript was ve
 * Original Assignment: http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
 
 Refactoring of someone else's IdeaBox project into a very, very different Two do checklist.
-Partner: Ngoc Phan
+Partner:  Ngoc Phan
 
-(pending evaluation comments)
 
-(pending evaluation scores)
+## Students:
+## Evaluator: Louisa
+### Notes/What To Work On:
+
+- really nice UI additions for completed cards
+- really clean, well refactored CSS. Very nicely done.
+- well refactored JS
+- very, very well done!
+
+### Functional Expectations
+
+* Proficient  
+
+### HTML
+
+
+## Accessibility
+
+
+* Proficient  
+
+## Style
+
+* Proficient  
+
+
+### CSS
+
+## Structure of Code
+
+* Proficient  
+
+## Implementation
+
+* Proficient  
+
+
+### JAVASCRIPT
+
+## Data Types
+
+* Proficient  
+
+## Conditional Logic
+
+* Proficient  
+
+## Functions & Scope
+
+* Proficient  
+
+## Arrays
+
+* Proficient  
+
+## Objects & Prototypes
+
+* Proficient  
+
+## DOM Manipulation
+
+* Proficient  
+
+## Style
+
+* Proficient  
+
+
+### GIT & GITHUB
+
+## Git
+
+* Proficient  
+
+## Github
+
+* Proficient  
+
+
+### DESIGN
+
+## Design Concepts
+
+* Proficient  
+
+
+### PAIRING
+
+## Collaboration
+
+* Proficient  
+
 
 (pending feedback to me)
+
+
 
 ## D: Professional Skills
 
