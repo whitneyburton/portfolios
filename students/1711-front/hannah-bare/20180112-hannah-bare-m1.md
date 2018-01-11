@@ -328,4 +328,4 @@ I feel good about how I participated within Turing. I helped clean and put away 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+RETAINED
