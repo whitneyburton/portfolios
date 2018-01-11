@@ -2,15 +2,15 @@
 
 ## Areas of Emphasis
 
-reflection here
+My goal was to learn as much as I could. I started off hesitant that it would difficult to "teach this old dog new tricks" but I was able to find myself fitting in pretty well with my class. Even though I feel very much like i am drinking from a fire hose on full, I have been picking up everything that has been laid down. I have jumped into projects head first and come away feeling accomplished and capable. I have gone into assesments and been compleatly confused and worked my way through to a solution. I have waken up in the middle of the night and pulled out my computer to code a solution that has been on my mind. I have sought help from everyone around me including my teachers, students in my mod and mod's above me. I have drank from the fire hose on full force and prevailed!
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
