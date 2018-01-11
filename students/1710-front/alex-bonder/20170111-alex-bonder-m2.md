@@ -1,6 +1,7 @@
 ## Alex Bonder - M2 Portfolio
 ### Areas of Emphasis
-(What did you set out to accomplish this module?)
+
+My goal for mod 2 was to continue gaining a deeper understanding of JavaScript and to become more involved in the Turing community. I started attending Iron FE and I've become very active in researching and attending Meetup events happening in Denver.
 
 ## Rubric Scores
 * A: End-of-Module Assessment: 4
