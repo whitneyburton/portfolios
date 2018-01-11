@@ -89,7 +89,7 @@ Valentino and I were ecstatic about how it turned out; we've even been discussin
 
 
 
-## (Weathrly)
+## Weathrly
 
 * [GitHub URL](https://github.com/OphDub/weathrly)
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
