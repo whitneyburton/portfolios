@@ -74,7 +74,7 @@ PASS!
 * [GitHub URL](https://github.com/katiescruggs/movie-tracker-frontend)
 * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-3/movie-tracker/katie-jessie.md)
-<br>
+
 ##### Evaluation Scores:
 
 * Spec Adherence: 4
