@@ -142,8 +142,72 @@ GIT & GITHUB
 
 (description) I learned a lot during this project, with a special thanks to Chase. I was sick during this project and missed one of the most important lessons. Chase helped me understand local storage and array prototypes. The project gives the user the ability to enter a title and idea and store the idea as a card. Quite similar to linked-list with the exception that everything is stored in local storage. 
 
+(evaluation comments)
+some buggy UI behavior on large screens
+inputs don't clear after submitting the idea
+search works for titles, not body of idea
+using forEach!
+used array of qualities!
+only 2 global variables!
+
 (evaluation scores)
-n/a
+
+HTML
+  Accessibility
+   Advanced Beginner 
+   Proficient
+
+  Style
+   Proficient
+
+CSS
+ Structure of Code
+   Advanced Beginner 
+   Proficient
+
+Implementation 
+  Advanced Beginner
+  
+JAVASCRIPT
+ Data Types
+  Proficient 
+
+ Conditional Logic
+  Proficient 
+
+ Functions & Scope
+  Proficient 
+
+ Arrays
+  Proficient 
+
+ Objects & Prototypes
+  Proficient
+  
+  DOM Manipulation
+   Proficient 
+  
+  Style
+   Proficient 
+   
+GIT & GITHUB
+
+ Git
+  Proficient 
+
+ Github
+  Proficient
+
+DESIGN
+
+ Comp Recreation
+  Advanced Beginner 
+  Proficient Developer 
+
+PAIRING
+
+ Collaboration
+  Proficient
 
 (feedback to me) 
 “Alan was a great partner to work with.  He took the lead on the HTML and CSS and when he finished that he helped me with the Javascript.  Alan was very good about noticing when we were struggling too long and sought out help.  Something we could improve on is reviewing the look of the project in detail to ensure it’s as close to the comp as possible.  Overall I think we worked well together and I was happy with our result.”
@@ -152,7 +216,7 @@ n/a
 
 (description) This project pushed me to my limits. Things didn't go well with my partner (our schedules were messed up during the holiday season and then he got sick) so I was forced to do the whole thing. It was frustrating but I learned more about javascript than I have at any other point this mod. The project was focused on refactoring someone elses codebase and adding new functionalilty, mainly in terms of sorting the idea cards. 
 
-(evaluation scores) Evaluator- Pam 
+(evaluation comments) Evaluator- Pam 
 
   DESIGN/COMP
    Completed through Phase 3. Very little refactoring of CSS - mostly JS.
@@ -252,19 +316,19 @@ JAVASCRIPT
 ### Gear Up
 #### (Session Name) Health 1 
 
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
+* [GitHub URL](https://files.slack.com/files-pri/T029P2S9M-F8QVC3T0C/download/well-being_stress_management_101.pptx)
 
 This gear up was super helpful. I had no real idea how to deal with stress, or how to notice I was even stressed out. I liked learning about the different ways to deal with stress, like taking time away from something. I also found it really helpful to learn about how important getting enough sleep is. 
 
 #### (Session Name) Health 2 
 
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
+* [GitHub URL](https://files.slack.com/files-pri/T029P2S9M-F8R3RGX9B/download/well-being_self_care_101.pptx)
 
 I think this gear-up was well-timed. We had already gone over the importance of managing stress, but then were loaded with twice the amount of stress (the Turing Way). So, it was good to go back and really focus on how we're noticing stress, and how we're dealing with it. It helped me take a second to breath, and get my feet under me. 
 
 #### (Session Name) Draw the Owl 
 
-* [GitHub URL]n/a 
+* [GitHub URL}(https://docs.google.com/spreadsheets/d/1t5Uwcdl7e10vzJFCK8JlBLfPet-o8E44q4BFmNtrazI/edit#gid=1084206419) 
 
 This was a community gear-up provided by mod 4. I didnt get the markdown, but the entire session was about how to deal with failure. It was a lot of things we've already gone over, but it really cemented the idea that failure is really the only way to learn. It helped remove frustration that traditionally came with failure. 
 
