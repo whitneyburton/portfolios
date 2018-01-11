@@ -55,15 +55,15 @@
  
  Completion: 3
  
- CSS/Design: 1
+ CSS/Design: 3
  
  Code Quality: 3
  
  Redux Architecture: 3
  
- Testing: 2.5
+ Testing: 3
  
- JS Style: 3.5
+ JS Style: 3
  
  Workflow: 3
  
@@ -79,23 +79,22 @@
  
  Evaluation Scores:
  
- Spec Adherence: 2 
+ Spec Adherence: 1
  
- Code Quality: 2 
+ Code Quality: 1
  
- CSS/Design : 3 
+ CSS/Design : 1
  
- Testing: 2 
+ Testing: 1
  
  PropType Implementation: PASS
  
- Code Sanitation: 2 
+ Code Sanitation: 1
  
- Workflow: 3
+ Workflow: 1
  
  #### Movie Tracker
  
- * [GitHub URL](https://github.com/katiescruggs/movie-tracker-frontend)
  * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
  * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-3/movie-tracker/thomas-sam-djr.md)
  <br>
@@ -142,8 +141,14 @@
  ### Final Review
  
  ## Notes
- 
-
+  - You need to push yourself 
  
  ## Outcome
  
+ PASS
+ 
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
