@@ -107,4 +107,4 @@ I signed up for a Lightning Talk next inning and slacked the 1710 and 1708 cohor
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+> #### Outcome: Promoted

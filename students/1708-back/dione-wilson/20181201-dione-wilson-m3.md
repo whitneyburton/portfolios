@@ -27,22 +27,22 @@
 >* \<Description>
 * Gain experience/exposure to consuming an api.
 >* \<Takeaways, your experience>
-* Doing something new for the first time always has bumps along the way with not really knowing how to approach 
+* Doing something new for the first time always has bumps along the way with not really knowing how to approach
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* \<Description>
 * Similar to Black Thursday, but displaying info via an api.
 >* \<Takeaways, your experience>
 * It was interesting to learn how to build out an api and how to render JSON and use serializers.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
+> **[Cloney Island Sprint 1](https://)**
 >* \<Description>
 >* \<Takeaways, your experience>
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://)**
 >* \<Description>
 >* \<Takeaways, your experience>
 
@@ -101,4 +101,4 @@ Microagressions: The information of how to navigate conversations that may be di
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+> #### Outcome: Promoted

@@ -75,4 +75,4 @@ I believe the Gear Ups were essential this mod, as they were directed towards fi
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+#### Outcome: Promoted

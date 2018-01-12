@@ -101,4 +101,4 @@ Just little things like picking up garbage, cleaning up dishes and walking aroun
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+> #### Outcome: Promoted

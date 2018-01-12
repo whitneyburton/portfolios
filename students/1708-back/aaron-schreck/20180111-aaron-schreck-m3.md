@@ -25,7 +25,7 @@ This module I wanted to cement and my knowledge of Ruby and Rails to the point o
 > **[APIcurious](http://backend.turing.io/module3/projects/apicurious) (Optional)**
 >* \<Description>
 >* \<Takeaways, your experience>
-  Got a lot of experience with APIs that helped me to build and query in-house APIs for both the pivot and personal project. 
+  Got a lot of experience with APIs that helped me to build and query in-house APIs for both the pivot and personal project.
 
 > **[Self Directed](http://backend.turing.io/module3/projects/self_directed_project)**
 >* \<Description> Politi-tracker allows you to follow politicians in a dynamic news feed.
@@ -41,7 +41,7 @@ This project stretched my knowledge of SQL and database queries. It was a good t
 > **[The Pivot](http://backend.turing.io/module3/projects/the_pivot)**
 >* \<Description>
 >* \<Takeaways, your experience>
-This felt like an extremely high value two weeks at Turing. It helped me to realize that I had developed some bad/sloppy coding habits and I spend the rest of the module trying to correct them. I really enjoyed the freedom to create 
+This felt like an extremely high value two weeks at Turing. It helped me to realize that I had developed some bad/sloppy coding habits and I spend the rest of the module trying to correct them. I really enjoyed the freedom to create
 
 | CATEGORY | Rales Engine | Self Directed | The Pivot |
 | --- | --- | --- | --- |
@@ -66,7 +66,7 @@ This felt like an extremely high value two weeks at Turing. It helped me to real
 
 > [Link To Gear Up]()
 \<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
-The gear-up on microaggressions has prompted conversations with cohort mates and helped me to examine my own language and conduct for traces of these behaviors. The information economy gear up helped me to start thinking about the moral dimension of my career as a software developer. My Mod4-led group was a touchstone for further reflection upon the moral dimension of technology with respect to Apple's decision to deny the FBI. 
+The gear-up on microaggressions has prompted conversations with cohort mates and helped me to examine my own language and conduct for traces of these behaviors. The information economy gear up helped me to start thinking about the moral dimension of my career as a software developer. My Mod4-led group was a touchstone for further reflection upon the moral dimension of technology with respect to Apple's decision to deny the FBI.
 
 ## D: Community Participation
 
@@ -88,4 +88,4 @@ The gear-up on microaggressions has prompted conversations with cohort mates and
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+> #### Outcome: Promoted

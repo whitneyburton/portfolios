@@ -14,7 +14,7 @@
 | D | **Professional Development** | 3 |
 | E | **Feedback & Community Participation** | 3 |
 
->* I feel very job ready at this point. When working in a group, I can stay on task and build out features in an agile manner, and I feel like I could be a valueable asset to a company. I also learned enough python to be comfortable creating a django application, writing python scripts, and diving into flask. 
+>* I feel very job ready at this point. When working in a group, I can stay on task and build out features in an agile manner, and I feel like I could be a valueable asset to a company. I also learned enough python to be comfortable creating a django application, writing python scripts, and diving into flask.
 >* \<Notes>
 
 -----------------------
@@ -75,4 +75,4 @@
 
       > #### Notes ( Leave blank for reviewers )
 
-      > #### Outcome ( Leave blank for reviewers )
+      > #### Outcome: Promoted

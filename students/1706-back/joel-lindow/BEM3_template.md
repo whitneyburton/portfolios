@@ -10,7 +10,7 @@
 
 | Section | Category | Score |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | 4 |
+| A | **End-of-Module Assessment** | 2.5 |
 | B | **Individual Work & Projects** | 3.5 |
 | C | **Group Projects** | 3.5 |
 | D | **Professional Development** | 3.5 |
@@ -35,7 +35,7 @@
 ## B: Group Work & Projects
 **[RalesEngine](http://backend.turing.io/module3/projects/rails_engine)**
   * Use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
-  * Learning how to serve up API data and JSON was really exciting. Also, using advanced active record was a great mental workout. I also enjoyed the pairing assignmet more than I could have imagined. 
+  * Learning how to serve up API data and JSON was really exciting. Also, using advanced active record was a great mental workout. I also enjoyed the pairing assignmet more than I could have imagined.
 
 **[BrownField](NO LINK)**
   * In this project, we took a project from other students and implemented multitenancy, OAuth and served the data up in an API
