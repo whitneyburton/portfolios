@@ -73,9 +73,9 @@
  
  #### Headcount 2.0
  
- * [GitHub URL](https://github.com/davidjryan/headcount2.0)
+ * [GitHub URL](https://github.com/davidjryan/headcount2.1)
  * [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
- * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1706/mod-3/HeadCount2.0/francy-david/scores.md)
+ * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-3/headcount/davidryan/template.md)
  
  Evaluation Scores:
  
