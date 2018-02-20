@@ -30,7 +30,7 @@ Your promotion to the next module is based upon a summative assessment coined "T
   4. Final Paired Project
   5. Completed Portfolio
 
-**Instructions for Submitting a Completed Portfolio:** 
+**Instructions for Submitting a Completed Portfolio:**
   1. Fork and clone this repo.
   2. Follow instructions in [Module 1 Portfolio Guidelines](http://backend.turing.io/module1/portfolios) to create your folder and M1 portfolio file.
   4. Update placeholder text in your file.
@@ -122,21 +122,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 ### Module 4 (Front-end)
 
-* **Areas of Emphasis** - briefly describe the goals you had for this mod and if/how you accomplished them
-* **Rubric scores** - Fill in how _you_ would grade yourself from 1-4 in the following categories this module:
-  * Individual Final Assessment
-  * Required Projects
-  * Professional Development
-  * Community Participation
-* **Individual Final Assessment:** - (Pass/Fail) - Do not put any rubric scores, only pass/fail
-* **Required Projects** - Capstone Project, House of Vars (link to blog post), Palette Picker, BYOB
-  * Should include points breakdown per project where applicable
-* **Professional Development**
-  * Link to 30-day post-grad job search action plan using this template (https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
-  * Prepare and share your Turing story during week six
-* **Community**
-  * Summary of how you've contributed to the community
-  * A recap of reflections from the Gear Up session you led
+You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271)
 
 ## Submission Guidelines
 
