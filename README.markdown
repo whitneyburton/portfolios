@@ -105,20 +105,9 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 ### Module 4 (Back-end)
 
-* Individual Assessment
-* Required Project: Capstone Project
-  * Should include points breakdown per project
-* Link to your PR for opensource contributions
-* Community:
-  * A recap of reflections from Gear Up
+* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271). Please note that a markdown should be provided as well as the slide deck for presentation
 
- Complete and document 2 of the following:
-  * Lead or co-lead a Friday Spike
-  * Deliver any session at a meetup or conference
-  * Pair three or more times with students in lower modules
-  * Contribute in a meaningful way to project of a student/team not in your module
-
- *Professional Development does not need to be included in the portfolio. Deliverables and submission guidelines are [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
+* A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and send to your coach.
 
 ### Module 4 (Front-end)
 
