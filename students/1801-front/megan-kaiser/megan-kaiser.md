@@ -27,9 +27,10 @@ I wanted to learn as much as I could which I think I did.
 * [Phase Four](https://github.com/mrayanne113/unicornGuesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-description: Build a game where the user guesses a number between 1 and 100. I went to phase four and make a unicorn game for kids to play. 
+##### description:
+Build a game where the user guesses a number between 1 and 100. I went to phase four and make a unicorn game for kids to play. 
 
-evaluation comments:
+##### evaluation comments:
 Loved Unicorn Guesser! Very cool extension! Also, cool that you got the 'done' button working!
 Code for phases 1-3 looked clean
 css
@@ -47,9 +48,25 @@ try finding duplicate lines of code and breaking out into functions
 ##### description: 
 Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike). Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 
-evaluation comments: Refactored too much, shouldn't be getting rid of global variables. I had some duplicate lines of code due to the no global varibles.
+##### evaluation comments: 
+Refactored too much, shouldn't be getting rid of global variables. I had some duplicate lines of code due to the no global varibles.
 
 * [Link to Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/megan.md)
+
+#### Static Comps
+
+* [GitHub URL STATIC COMP 1](https://github.com/mrayanne113/mk-comp-challenge-1)
+* [Original Assignment comp 1](http://frontend.turing.io/projects/m1-static-comp-1.html)
+* [GitHub URL STATIC COMP 2](https://github.com/mrayanne113/mk-comp-challenge-2.2)
+* [Original Assignment comp 2](http://frontend.turing.io/projects/m1-static-comp-2.html)
+* [GitHub URL STATIC COMP 3](https://github.com/mrayanne113/mk-static-comp-3.2)
+* [Original Assignment comp 3](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+##### description: 
+The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. :muscle: You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design. Once you get into the workforce - building out comps that reflect the designer’s choice in layout, spacing, font, imagery, and color to the smallest detail is a requirement.
+
+##### evaluation comments: 
+Refactored too much, shouldn't be getting rid of global variables. I had some duplicate lines of code due to the no global varibles.
 
 
 ## C: Group Work & Projects
@@ -63,18 +80,20 @@ evaluation comments: Refactored too much, shouldn't be getting rid of global var
 * [GitHub URL]()
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-description: With a little jQuery under your belt, it’s time to try your hand at building a small application to store website links.
+##### description:
+With a little jQuery under your belt, it’s time to try your hand at building a small application to store website links.
 
 In it’s simplest form, the application should have the following:Two input fields, One for the title of the bookmark, One for the URL that the bookmark should link to, One button for creating the bookmark and adding it to the page, A section for all of the created bookmarks; each bookmark should display: The title of the bookmark, The URL of the bookmark (this should be clickable and link to the URL), A button to “Mark as Read”, A button to “Remove” the bookmark
 
-evaluation comments: Through Phase 4 with some bugs,
+##### evaluation comments: 
+Through Phase 4 with some bugs,
 Clear read bookmarks button not working,
 Thank you for bringing your notebooks and taking notes for the verbal feedback during eval - keep it up,
 Nice job with README
 
 * [Link to Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/jack-megan.md)
 
-feedback to me:
+##### feedback to me:
 “Working on LinkedList together was really fun. Your knowledge on jQuery and Javascript was a huge part on why we were able to finish all four phases and get some extra features in our project as well. You were always willing to sit down and talk me through the functionality of our script, which I really appreciated. At times, I felt like I was a little behind when you would figure out a new aspect of our project and I didn’t always want to slow down our development to ask questions about your techniques. I should’ve approached you more, your willingness to help me was always very thorough. Our communication throughout the process was a little too laid-back and we probably could have benefitted from some more time working together. I would suggest finding that time in the future and making sure your partner understands the code before moving on to the next task. You are incredible at breaking down your thought process, so your partner will have no trouble understanding how you did things. Thanks to you, my understanding of jQuery has grown exponentially and I feel much more comfortable developing the functionality of my webpage. I really enjoyed working with you and hope that we get paired up together on another project!”
 
 #### 2doBox
@@ -82,9 +101,10 @@ feedback to me:
 * [GitHub URL](https://github.com/mrayanne113/2dobox_pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-description: For this project we were given code from a pair of classmates that created idea box. We were instructed to pivot the project into another project, were we created a platform that houses a to-do list. We also added new features including better ux/iu design of disabling the save button when there is insufficient information in inputs as well as created a completed check button for when the user has finished the task.
+##### description: 
+For this project we were given code from a pair of classmates that created idea box. We were instructed to pivot the project into another project, were we created a platform that houses a to-do list. We also added new features including better ux/iu design of disabling the save button when there is insufficient information in inputs as well as created a completed check button for when the user has finished the task.
 
-(evaluation comments)
+##### evaluation comments:
 
 * [Link to Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/megan-hannah.md)
 
