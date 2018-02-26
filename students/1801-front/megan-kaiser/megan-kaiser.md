@@ -19,7 +19,7 @@ I wanted to learn as much as I could which I think I did.
 
 ## B: Individual Work & Projects
 
-(Intro)
+The personal projects I did this mod were I focused on personal learning. 
 
 #### Number Guesser
 
@@ -33,10 +33,8 @@ Build a game where the user guesses a number between 1 and 100. I went to phase 
 ##### evaluation comments:
 Loved Unicorn Guesser! Very cool extension! Also, cool that you got the 'done' button working!
 Code for phases 1-3 looked clean
-css
-consider organizational comments
-js
-try finding duplicate lines of code and breaking out into functions
+css-consider organizational comments
+js-try finding duplicate lines of code and breaking out into functions
 
 * [Link to Score](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/number-guesser/megan-kaiser.md)
 
@@ -73,11 +71,11 @@ Refactored too much, shouldn't be getting rid of global variables. I had some du
 
 ### Projects
 
-(Intro)
+intro
 
 #### Linked List
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/mrayanne113/linkedList)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 ##### description:
