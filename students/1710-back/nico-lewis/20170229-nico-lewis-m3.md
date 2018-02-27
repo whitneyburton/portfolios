@@ -1,4 +1,4 @@
-# \<Your Name> - M3 Portfolio
+# \<Nico Lewis> - M3 Portfolio
 
 ## Areas of Emphasis
 
