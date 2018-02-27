@@ -6,20 +6,21 @@ I wanted to learn as much as I could which I think I did.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3 minus the tears with Pam
+* **B: Individual Work & Projects**: 2.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
 
 -----------------------
 
 ## A: End of Module Assessment
 
+pass
 
 ## B: Individual Work & Projects
 
-The personal projects I did this mod were I focused on personal learning. 
+The personal projects I did this mod were I focused on personal learning. And doing it different than the prevoius mod. 
 
 #### Number Guesser
 
@@ -80,7 +81,6 @@ intro
 
 ##### description:
 With a little jQuery under your belt, it’s time to try your hand at building a small application to store website links.
-
 In it’s simplest form, the application should have the following:Two input fields, One for the title of the bookmark, One for the URL that the bookmark should link to, One button for creating the bookmark and adding it to the page, A section for all of the created bookmarks; each bookmark should display: The title of the bookmark, The URL of the bookmark (this should be clickable and link to the URL), A button to “Mark as Read”, A button to “Remove” the bookmark
 
 ##### evaluation comments: 
@@ -106,7 +106,7 @@ For this project we were given code from a pair of classmates that created idea 
 
 * [Link to Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/megan-hannah.md)
 
-(feedback to me)
+##### feedback to me:
 
 ## D: Professional Skills
 (Intro)
