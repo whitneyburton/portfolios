@@ -2,7 +2,8 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out with only one goal - not to repeat. As the I progressed through the
+material, my goals definitely 
 
 ## Rubric Scores
 
@@ -28,17 +29,12 @@
 * [GitHub URL](https://github.com/brickstar/flashcards)
 * [Original Assignment](flashcards)
 
-(description)
+description
 
-(evaluation comments)
+3 3 6 7 Variables and methods nicely named Length of methods & lines is good
 
-(evaluation scores)
-
-## C: Group Work & Projects
-
-### Projects
-
-(Intro)
+(
+ 1. Ruby Syntax & Style: )
 
 #### (Project Name)
 
@@ -52,6 +48,12 @@
 (evaluation scores)
 
 (feedback to me)
+
+## C: Group Work & Projects
+
+### Projects
+
+(Intro)
 
 #### (Project Name)
 
@@ -76,7 +78,13 @@
 (Mapping the headers into a hash in the split method is elegant
 Tests only cover integration up to word_search)
 
-(evaluation scores)
+(
+ 1.  Ruby Syntax & Style: 3
+ 2. Breaking Logic into Components: 3
+ 3. Test-Driven Development: 2
+ 4. Functionality: 3
+ 5. Version Control: 3
+ )
 
 (feedback to me)
 
