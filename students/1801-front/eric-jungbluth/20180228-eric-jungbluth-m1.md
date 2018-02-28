@@ -48,38 +48,23 @@ Proficient
 Advanced Beginner
 pass in parameters to functions
 
-### Static Comp 1
+### Static Comps Project Description
+For these project we were given an image for a website and were expcted to recreate it as closely as possible. We were given creative license on the photos and copy, however the objective was to build something that respects the integrity of the original design as far as choice in layout, spacing, font, etc. The comp also needed to be responsive, and have a reasonable amount of ARIA accessibility.
 
-* [GitHub URL]()
-* [Original Assignment]()
+#### Static Comp 1
 
-(description)
+* [GitHub URL](https://github.com/EricMellow/ej-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(evaluation comments)
+#### Static Comp 2
 
-(evaluation scores)
+* [GitHub URL](https://github.com/EricMellow/ej-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-### Static Comp 2
+#### Static Comp 3
 
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-### Static Comp 3
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+* [GitHub URL](https://github.com/EricMellow/ej-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 ## C: Group Work & Projects
 
