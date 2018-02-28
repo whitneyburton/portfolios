@@ -144,8 +144,8 @@ Exceptional: You completed Phase Three and did something with Phase Four.
 
 (description)
 
-_Partner:_ Jack Laird
-_Evaluator:_ David Whitaker
+##### Partner: Jack Laird
+##### Evaluator: Nathaniel Foster
 
 ##### Notes/What To Work On:
 ##### Functional Expectations
@@ -219,11 +219,93 @@ Style
 (description)
 
 ##### Partner: Sage Vogt
-##### Evaluator: Nathaniel Foster
+##### Evaluator: David Whitaker
 
-(evaluation comments)
+##### Notes/What To Work On:
 
-(evaluation scores)
+* Really clean project. Nice refactors!
+
+##### Functional Expectations
+
+* Exceptional  
+
+##### HTML
+
+###### Accessibility
+
+* Proficient  
+
+###### Style
+
+* Proficient  
+
+##### CSS
+
+###### Structure of Code
+
+* Proficient  
+
+###### Implementation
+
+* Proficient  
+
+##### JAVASCRIPT
+
+###### Data Types
+
+* Proficient  
+* Exceptional  
+
+###### Conditional Logic
+
+* Proficient  
+
+###### Functions & Scope
+
+* Proficient  
+* Exceptional  
+
+###### Arrays
+
+* Proficient  
+* Exceptional  
+
+###### Objects & Prototypes
+
+* Proficient  
+* Exceptional  
+
+###### DOM Manipulation
+
+* Proficient  
+
+###### Style
+
+* Proficient  
+
+##### GIT & GITHUB
+
+###### Git
+
+* Proficient  
+
+###### Github
+
+* Proficient  
+
+##### DESIGN
+
+###### Design Concepts
+
+* Proficient  
+
+##### PAIRING
+
+###### Collaboration
+
+* Proficient  
+* Exceptional
+
 
 ##### Feedback from Sage: 
 > (insert feedback)
@@ -234,7 +316,7 @@ Style
 ### Gear Up
 #### Health & Wellness - Stress Management (1/26)
 
-* [GitHub URL]()
+* [Slide Presentation](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit#slide=id.p3)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
