@@ -25,15 +25,15 @@ Passed
 * [GitHub URL](https://github.com/adam-conway/flashcards)
 * [Original Assignment](http://backend.turing.io/module1/projects/flashcards)
 
-Description<br>
+<em>Description</em><br>
 We wrote a flashcard program that is used through the command line. Users are able to see the questions, take guesses, and see a final score at the end of the round.
 
-Evaluation Comments<br>
+<em>Evaluation Comments</em><br>
 * Class files and test files have "class" in filename Some instance variable used where local variables would do
 * Some single letter variables
 * Used one attr_reader and mostly attr_accessors Needs more edge case testing and could have some more robust assertions
 
-Evaluation Scores<br>
+<em>Evaluation Scores</em><br>
 Ruby Syntax & Style - 2
 Breaking Logic into Components - 3
 Test-Driven Development - 3
@@ -44,13 +44,13 @@ Functionality - 3
 * [GitHub URL](https://github.com/adam-conway/binary_search_tree)
 * [Original Assignment](http://backend.turing.io/module1/projects/date_night)
 
-Description<br>
+<em>Description</em><br>
 Created a binary search tree using movie scores and titles.
 
-Evaluation Comments<br>
+<em>Evaluation Comments</em><br>
 None
 
-Evaluation Scores<br>
+<em>Evaluation Scores</em><br>
 Ruby Syntax & Style - 3
 Breaking Logic into Components - 3
 Test-Driven Development - 3
@@ -61,10 +61,10 @@ Functionality - 3
 * [GitHub URL](https://github.com/adam-conway/http_yeah_you_know_me)
 * [Original Assignment](http://backend.turing.io/module1/projects/http_yeah_you_know_me)
 
-Description<br>
+<em>Description</em><br>
 This is an introduction to HTTP, the protocol that runs the web. We built a functioning web server to put that understanding into action.
 
-Evaluation Comments<br>
+<em>Evaluation Comments</em><br>
 * Finished through iter 5. Spent a lot of time refactoring
 * Broke paths out into own classes
 * Worked a lot on refactoring methods into smaller pieces Implemented a controller
@@ -76,7 +76,7 @@ Evaluation Comments<br>
 
 * 3 lines over 80 char long
 
-Evaluation Scores<br>
+<em>Evaluation Scores</em><br>
 Ruby Syntax & Style - 3/2
 Breaking Logic into Components - 3
 Test-Driven Development - 3
@@ -91,10 +91,10 @@ Version Control - 3
 * [GitHub URL](https://github.com/anon0mys/complete-me)
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
 
-Description<br>
+<em>Description</em><br>
 In this project, we built a trie and used it to build a word auto-complete system.
 
-Evaluation Comments<br>
+<em>Evaluation Comments</em><br>
 * node word? method seems unnecessary since you're storing it as a true/false value
 * node.inspect only used for test, which is unnecessary code
 * calls like .is_a?(String) don't need parentheses
@@ -102,13 +102,13 @@ Evaluation Comments<br>
 * try to avoid returning mixed data types such as in find_node (returns a node pointer or a string), should return pointer or nil, let something lse report the error
 * 6 of 14 methods in the main class aren't specifically unit tested (build_branch, create_node, case_desensitizer, suffix_builder, suggestion_sorter, prune, for example)
 
-Evaluation Scores<br>
+<em>Evaluation Scores</em><br>
 Ruby Syntax & Style - 3
 Breaking Logic into Components - 3
 Test-Driven Development - 2
 Functionality - 4
 
-Feedback to me<br>
+<em>Feedback to me</em><br>
 It was great working with you throughout the project. Your management skill definitely came to surface when we were planning out our deadlines and workload. You also did a great job tackling some of the more difficult problems. I think all of us could work a little bit on our refactoring skills but that’s just something that will come with time. Keep up the good work!
 
 It was excellent working with you. You are adaptive and solve problems in extremely clever ways. Your prune method was an inspiration. I sometimes worried that you didn't feel comfortable sharing in the high level decision making. Apart from that, you were the team's glue. Thank you for setting a schedule day one and for all the hard work.
@@ -118,13 +118,13 @@ It was excellent working with you. You are adaptive and solve problems in extrem
 * [GitHub URL](https://github.com/adam-conway/black_thursday)
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
-Description<br>
+<em>Description</em><br>
 Built a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.
 
-Evaluation Comments<br>
+<em>Evaluation Comments</em><br>
 Overall Grade: PASS
 
-Evaluation Scores<br>
+<em>Evaluation Scores</em><br>
 Ruby Syntax & Style - 3
 Breaking Logic into Components - 4
 Test-Driven Development - 4
