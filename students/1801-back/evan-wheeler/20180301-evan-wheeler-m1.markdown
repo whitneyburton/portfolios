@@ -73,7 +73,7 @@ We built a flashcard application that could store question and answer pairs, bui
 * [Original Assignment](http://backend.turing.io/module1/projects/date_night)
 
 (description): 
-A binary search tree that stored and sorted movies and their ratings.
+A binary search tree that stored and sorted movies by their ratings.
 
 Scores are integers between 0 and 100
 No two movies will get the same score
