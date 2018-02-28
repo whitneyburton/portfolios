@@ -9,8 +9,8 @@ Being a repeater in M1, it was my intent to not make the same mistakes I had mad
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3/4
 * **C: Group Work & Projects**: 3/4
-* **D: Professional Skills**: 3/4
-* **E: Community Participation**: 3
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
 
 -----------------------
 
