@@ -180,7 +180,7 @@ I really enjoyed this session as it helped me understand my peers better and the
 
 * [GitHub URL] N/A
 
-This was a really good session led by Marshall Houston, Adrian Lara, Hugh Hartigan and Thomas. I came to realize that the best way to learn is to actually teach someone else. That's how one can understand now much one really knows. Apart from self-awareness, it also brings a sense of fulfillment to impart your knowledge to someone else and in the process, empower them.
+This was a really good session led by Marshall Houston, Adrian Lara, Hugh Hartigan and Thomas. I came to realize that the best way to learn is to actually teach someone else. That's how one can understand how much one really knows. Apart from self-awareness, it also brings a sense of fulfillment to impart your knowledge to someone else and in the process, empower them.
 
 ## E: Community Participation
 
