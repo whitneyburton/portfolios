@@ -180,7 +180,7 @@ did some of the extensions work
 
 ### Projects
 
-CompleteMe was probably my favorite project of the mod. Practical real world use that required thinking about how to properly implement the structures. Black thursday on the other hand felt large but structured like piecing together a relational database piece by piece.
+CompleteMe was probably my favorite project of the mod. Practical real world use that required thinking about how to properly implement the structures. Black Thursday on the other hand felt large but structured like piecing together a relational database piece by piece.
 
 #### Black Thursday
 
@@ -188,11 +188,37 @@ CompleteMe was probably my favorite project of the mod. Practical real world use
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
 (description)
+
 A business is only as smart as its data. Let’s build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.
 
 (evaluation comments)
+Overall Grade: PASS
 
 (evaluation scores)
+
+1. Ruby Syntax & Style
+
+ 3: Meets expectations
+
+2. Breaking Logic into Components
+
+ 4: Above expectations
+
+3. Test-Driven Development
+
+ 3: Meets expectations
+
+4. Functionality
+
+ 3: Meets expectations
+
+5. Version Control
+
+ 3: Meets expectations
+
+6. Code Sanitation
+
+ 4: Above expectations
 
 (feedback to me)
 
