@@ -22,9 +22,9 @@ Pass
 
 This mod we had the following individual projects:
 
-a) Flashcards
-b) Date Night
-c) HTTP, Yeah You Know Me!
+a) Flashcards  
+b) Date Night  
+c) HTTP, Yeah You Know Me!  
 
 #### (Flashcards)
 
@@ -39,10 +39,10 @@ N/A
 
 (evaluation scores)
 
-Ruby Syntax & Style:            3
-Breaking Logic into Components: 3
-Test Driven Development:        3
-Functionality:                  4
+Ruby Syntax & Style:            3  
+Breaking Logic into Components: 3  
+Test Driven Development:        3  
+Functionality:                  4  
 
 #### (Date Night)
 
@@ -63,10 +63,10 @@ It is your job to take new movies that have been scored, and store them in a Bin
 
 (evaluation scores)
 
-Ruby Syntax & Style:            3
-Breaking Logic into Components: 3
-Test Driven Development:        2
-Functionality:                  4
+Ruby Syntax & Style:            3  
+Breaking Logic into Components: 3  
+Test Driven Development:        2  
+Functionality:                  4  
 
 #### (HTTP, Yeah You Know Me!)
 
@@ -83,11 +83,11 @@ In this project we'll begin to introduce HTTP, the protocol that runs the web, a
 
 (evaluation scores)
 
-Ruby Syntax & Style:            3
-Breaking Logic into Components: 4
-Test Driven Development:        3
-Functionality:                  3
-Version Control:                3
+Ruby Syntax & Style:            3  
+Breaking Logic into Components: 4  
+Test Driven Development:        3  
+Functionality:                  3  
+Version Control:                3  
 
 ## C: Group Work & Projects
 
@@ -95,8 +95,8 @@ Version Control:                3
 
 This mod we had the following group projects:
 
-a) Enigma
-b) Black Thursday
+a) Enigma  
+b) Black Thursday  
 
 #### (Enigma)
 
@@ -114,11 +114,11 @@ You are to build an encryption engine for encrypting, decrypting, and cracking m
 
 (evaluation scores)
 
-Ruby Syntax & Style:            3
-Breaking Logic into Components: 3
-Test Driven Development:        4
-Git Workflow:                   3
-Functionality:                  4
+Ruby Syntax & Style:            3  
+Breaking Logic into Components: 3  
+Test Driven Development:        4  
+Git Workflow:                   3  
+Functionality:                  4  
 
 (feedback to me from Sabrina)
 
@@ -137,12 +137,12 @@ A business is only as smart as its data. In this project, Jake and I build a sys
 
 (evaluation scores)
 
-Ruby Syntax & Style:            3
-Breaking Logic into Components: 4
-Test Driven Development:        3
-Functionality:                  3
-Version Control:                3
-Code Sanitation:                4
+Ruby Syntax & Style:            3  
+Breaking Logic into Components: 4  
+Test Driven Development:        3  
+Functionality:                  3  
+Version Control:                3  
+Code Sanitation:                4  
 
 ## D: Professional Skills
 
