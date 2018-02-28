@@ -165,17 +165,29 @@ Workflow
 ## D: Professional Skills
 
 ### Gear Up
-#### (Session Name)
+#### Microagressions
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I've experienced many microaggressions while participating in a traditionally male-dominated sport. I haven't always been the best at confronting people about these microagressions politely. In fact, I'm truly horrible at it, but it's something I want to be better about. This session reminded me of that and it was helpful to discuss ways to interrupt microagressions in a way that would actually be effective. It also helped me remember that people may not necessarily know what they are saying is offensive or mean it that way. I assume it's the same situation in the tech industry, so this is something I'll be working on, myself.
+
+#### Tragedy of the Commons
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+
+I enjoyed the website that we read at the beginning of the session. It made me realize that I am guilty of surrounding myself with people like me, especially in Golden. Attending Turing was a huge culture shock for me because I wasn't surrounded by people with the same lifestyles and passions. I'm not against spending time with people unlike me, but I've never really gone out of my way to.
+
+#### Ethics in AI
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1801-inning/Group_1.md)
+
+I went into this session not really knowing anything about AI, but thought this might be an interesting topic. This is a topic I still know very little about, but I am interested in reading more. We had a good discussion about the suggested topics, so much that we went a little over on the schedule.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I will be honest and say that I did not do much in the Turing community this module. I was one of the leads in my posse until posses were changed. I always tried to make an effort to work with students in lower mods that asked me for help. I also tried to make an effort to check in with mod 2 students to ask how they were doing. I just don't think I would have had the bandwidth to do much more. This was a tough module and I really wanted to make it my priority to understand the material. 
 
 ------------------
 
