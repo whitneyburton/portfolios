@@ -11,7 +11,7 @@ I set out to accomplish gaining a firm grasp of programming fundamentals so that
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 4
-* **E: Community Participation**: 2
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -119,10 +119,15 @@ Functionality - 4
 Built a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.
 
 (evaluation comments)
+Overall Grade: PASS
 
 (evaluation scores)
-
-(feedback to me)
+Ruby Syntax & Style - 3
+Breaking Logic into Components - 4
+Test-Driven Development - 4
+Functionality - 4
+Version Control - 3
+Code Sanitation - 4
 
 ## D: Professional Skills
 
@@ -149,13 +154,11 @@ Stress is always something I struggle with managing so this session was very hel
 
 * [GitHub URL]()
 
-I tend to work myself pretty hard (too hard at times) so focusing on relaxing is important. I particularly enjoyed the time spent figuring out ways to relax physically, mentally, and practically.
+I tend to work myself pretty hard (too hard at times) so focusing on relaxing is important. I particularly enjoyed the time spent figuring out ways to relax physically, mentally, and practically. It was also nice to spend some time putting what we learned into practice!
 
 ## E: Community Participation
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
 ------------------
 I don't feel like I was very involved in the Turing community as a whole but hope for that to change as I get into later modules. The way that I tried to support the larger Turing community through module 1 was supporting and helping other students in my cohort. As I get into later modules, I hope to help lower mod students as much as possible.
 
