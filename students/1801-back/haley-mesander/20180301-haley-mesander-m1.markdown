@@ -126,15 +126,15 @@ none given
 Black Thursday is a database written in Ruby able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.  The e-commerce business represented includes customer, merchant, item, invoice, and transaction data.
 
 **Evaluation Comments**
-
+none given
 
 **Evaluation Scores**
-* Ruby Syntax and Style:
-* Breaking Logic into Components:
-* TDD:
-* Functionality:
-* Version Control:
-* Code Sanitation:
+* Ruby Syntax and Style: 3
+* Breaking Logic into Components: 4
+* TDD: 4
+* Functionality: 4
+* Version Control: 3
+* Code Sanitation: 4
 
 **Feedback to Me**<br/>
 
