@@ -22,7 +22,7 @@ Passed. All 3s and a 4 for functionality.
 These projects were my first exposure to Ruby. Over my first 6 weeks at Turing, I learned how to break logic into components, TDD, proper syntax, SRP and GitHub workflow.
 
 #### Flashcards
-This project exposed me to classes and methods for the first time. The user plays a trivia game and each round records guesses and informs the user if they're right or wrong. 
+This project exposed me to classes and methods for the first time.  I wrote a flashcard program that is used through the command line. A user can see the questions, take guesses, and see a final score at the end of the round.
 
 * [GitHub URL](https://github.com/lilwillifo/week1/tree/master/flashcards)
 * [Original Assignment](http://backend.turing.io/module1/projects/flashcards)
