@@ -6,11 +6,11 @@ In this module I set out with only one goal - not to repeat. As I progressed thr
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: NA
+* **A: End-of-Module Assessment**:   NA
 * **B: Individual Work & Projects**: 2
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 2
-* **E: Community Participation**: 3
+* **C: Group Work & Projects**:      3
+* **D: Professional Skills**:        2
+* **E: Community Participation**:    3
 
 -----------------------
 
@@ -29,15 +29,14 @@ I worked hard on each project submitted. Next time through the module, I will se
 
 #### **Project Description**
 
-##### In this project I created a flashcard program used through the command line. In this program, a user is able to see the questions, take guesses, and see a final score at the end of the round.
+* In this project I created a flashcard program used through the command line. In this program, a user is able to see the questions, take guesses, and see a final score at the end of the round.
 
 ###### **Evaluation Comments**
-###### 3 3 6 7 Variables and methods nicely named Length of methods & lines is good
-
-###### 1. Ruby Syntax & Style: 3
-###### 2. Breaking Logic into Components: 3
-###### 3. Test-Driven Development: 3
-###### 4. Functionality: 2
+* 3 3 6 7 Variables and methods nicely named Length of methods & lines is good
+* 1. Ruby Syntax & Style: 3
+* 2. Breaking Logic into Components: 3
+* 3. Test-Driven Development: 3
+* 4. Functionality: 2
 
 
 #### Perilous Journey
@@ -45,16 +44,17 @@ I worked hard on each project submitted. Next time through the module, I will se
 * [GitHub URL](https://github.com/brickstar/perilous_journey)
 * [Original Assignment](http://backend.turing.io/module1/projects/perilous_journey)
 
-##### In this project I created a linked list data structure in the theme of the classic computer game Oregon Trail.
+* In this project I created a linked list data structure in the theme of the classic computer game Oregon Trail.
 
 ##### **Evaluation Comments**
 * 15 tests total
 * Watch spacing and indentation
 * Generally real clean
 * Generally good testing, but make sure you are testing details such as sequence and ata
-
-##### 1. Ruby Syntax & Style: 3
-##### 2. 
+* 1. Ruby Syntax & Style: 3
+* 2. Breaking Logic Into Components: 3
+* 3. Test Driven Development: 3
+* 4. Functionality: 1
 
 
 #### (HTTP_Yeah_You_Know_Me)
