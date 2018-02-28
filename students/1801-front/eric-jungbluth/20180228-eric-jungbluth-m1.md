@@ -21,9 +21,42 @@ Having absolutely no coding experience, I set out to get a solid understanding o
 
 ## B: Individual Work & Projects
 
-(Intro)
+For mod 1 we had one individual project, as well as three static compositions. The project was a simple number guesser game site and the three static compositions were of increasing difficulity.
 
-#### (Project Name)
+#### Number Guesser
+
+* [GitHub URL](https://github.com/EricMellow/Number-Guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 1
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 2
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 3
 
 * [GitHub URL]()
 * [Original Assignment]()
