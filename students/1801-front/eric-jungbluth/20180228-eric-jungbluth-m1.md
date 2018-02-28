@@ -28,11 +28,25 @@ For mod 1 we had one individual project, as well as three static compositions. T
 * [GitHub URL](https://github.com/EricMellow/Number-Guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+## Project description
+The base requirement for this project was to build a game where the user guesses a number between 1 and 100. It needed to have an input field for guessing the number, a button for submitting a guess, a button for clearing the input field, and a button that resets the game. It also needed to display the user's most recent guess and display a feedback hint to direct them for their next guess. There were two more phases that added increasing functionality, as well as a final extension phase if you had time.
 
-(evaluation comments)
+## Evaluation comments
+I didn't receive any comments for this project.
 
-(evaluation scores)
+## Evaluation scores
+### Functional Expectations
+Advanced Beginner: Application meets all of the expectations of phase two.
+bug with entering range, NaN no increase/decrease
+### COMP RECREATION / DESIGN
+Proficient
+### HTML
+Proficient
+### CSS
+Proficient
+### JS/jQuery
+Advanced Beginner
+pass in parameters to functions
 
 #### Static Comp 1
 
