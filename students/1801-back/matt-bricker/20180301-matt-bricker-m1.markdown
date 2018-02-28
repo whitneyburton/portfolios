@@ -33,10 +33,11 @@ I worked hard on each project submitted. Next time through the module, I will se
 
 ###### **Evaluation Comments**
 * 3 3 6 7 Variables and methods nicely named Length of methods & lines is good
-* 1. Ruby Syntax & Style: 3
-* 2. Breaking Logic into Components: 3
-* 3. Test-Driven Development: 3
-* 4. Functionality: 2
+
+1. Ruby Syntax & Style: 3
+2. Breaking Logic into Components: 3
+3. Test-Driven Development: 3
+4. Functionality: 2
 
 
 #### Perilous Journey
@@ -51,66 +52,48 @@ I worked hard on each project submitted. Next time through the module, I will se
 * Watch spacing and indentation
 * Generally real clean
 * Generally good testing, but make sure you are testing details such as sequence and ata
-* 1. Ruby Syntax & Style: 3
-* 2. Breaking Logic Into Components: 3
-* 3. Test Driven Development: 3
-* 4. Functionality: 1
+1. Ruby Syntax & Style: 3
+2. Breaking Logic Into Components: 3
+3. Test Driven Development: 3
+4. Functionality: 1
 
 
 #### (HTTP_Yeah_You_Know_Me)
 
 * [GitHub URL](https://github.com/brickstar/HTTP_Yeah_You_Know_Me)
-* [Original Assignment](http_yeah_you_know_me)
+* [Original Assignment](http://backend.turing.io/module1/projects/http_yeah_you_know_me)
 
-(description)
+#### **Project Description**
 
-(Mapping the headers into a hash in the split method is elegant
-Tests only cover integration up to word_search)
+* In this project, I built a server in Ruby that accepts HTTP requests and returns responses based on the request.
 
- 1.  Ruby Syntax & Style: 3
- 2. Breaking Logic into Components: 3
- 3. Test-Driven Development: 2
- 4. Functionality: 3
- 5. Version Control: 3
+###### **Evaluation Comments**
+
+* Mapping the headers into a hash in the split method is elegant
+* Tests only cover integration up to word_search
+
+1. Ruby Syntax & Style: 3
+2. Breaking Logic into Components: 3
+3. Test-Driven Development: 2
+4. Functionality: 3
+5. Version Control: 3
 
 ## C: Group Work & Projects
 
-### Projects
-
-(Intro)
-
-#### (Project Name)
+#### Enigma
 
 * [GitHub URL](https://github.com/brickstar/enigma)
-* [Original Assignment](enigma)
+* [Original Assignment](http://backend.turing.io/module1/projects/enigma)
 
-(description)
+In this project my partner and I used Ruby to build a tool for cracking an encryption algorithm.
 
-(evaluation comments)
+###### **Evaluation Comments**
+* Crack not working
+* Cipher Module, Date/Keygen class
+* SimpleCov at 85%
 
-(evaluation scores)
-
-(Hey Matt! Thanks for all your hard work during the project! You were willing to come in on the weekends and stay late after school each day to work and that was awesome! Our driver/navigator sessions were always productive and our problem solving helped us get over each of the humps. Going forward, be willing to try different solutions and try attacking a problem from different angles with the idea that code is cheap and you can always delete it if it doesn't work. Thanks again for all your hard work and patience throughout the project!)
-
-#### (Project Name)
-
-* [GitHub URL](https://github.com/brickstar/HTTP_Yeah_You_Know_Me)
-* [Original Assignment](http_yeah_you_know_me)
-
-(description)
-
-(Mapping the headers into a hash in the split method is elegant
-Tests only cover integration up to word_search)
-
- 1.  Ruby Syntax & Style: 3
- 2. Breaking Logic into Components: 3
- 3. Test-Driven Development: 2
- 4. Functionality: 3
- 5. Version Control: 3
- 
-
-(feedback to me)
-
+###### **Feedback to Me**
+Hey Matt! Thanks for all your hard work during the project! You were willing to come in on the weekends and stay late after school each day to work and that was awesome! Our driver/navigator sessions were always productive and our problem solving helped us get over each of the humps. Going forward, be willing to try different solutions and try attacking a problem from different angles with the idea that code is cheap and you can always delete it if it doesn't work. Thanks again for all your hard work and patience throughout the project!
 
 ## D: Professional Skills
 (Intro)
