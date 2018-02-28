@@ -116,20 +116,20 @@ _Notes/What To Work On:_
 * say a little more
 
 ##### Functional Expectations
-* Exceptional: You completed Phase Three and did something with Phase Four.
-##### COMP RECREATION / DESIGN
+Exceptional: You completed Phase Three and did something with Phase Four.
+###### COMP RECREATION / DESIGN
 * Proficient
-##### HTML
+###### HTML
 * Proficient
-##### CSS
+###### CSS
 * Proficient
-##### JS/jQuery
+###### JS/jQuery
 * Proficient
-##### GIT & GITHUB
+###### GIT & GITHUB
 * Proficient
-##### Pairing/Collaboration
+###### Pairing/Collaboration
 * Proficient
-##### Surprise and Delight (optional category, but reminder: have fun!)
+###### Surprise and Delight (optional category, but reminder: have fun!)
 * Hot Fire
 
 ##### Feedback from Tyler: 
