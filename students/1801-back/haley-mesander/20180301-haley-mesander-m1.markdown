@@ -23,7 +23,7 @@ Passed
 
 ## B: Individual Work & Projects
 
-#### Flashcards
+### Flashcards
 
 * [GitHub URL](https://github.com/hmesander/flashcards/tree/master/flashcards)
 * [Original Assignment](http://backend.turing.io/module1/projects/flashcards)
@@ -45,7 +45,7 @@ Flashcards is the first program that I wrote at as a Turing student.  It is a tr
 * TDD: 2
 * Functionality: 3
 
-#### Perilous Journey
+### Perilous Journey
 
 * [GitHub URL](https://github.com/hmesander/perilous_journey.git)
 * [Original Assignment](http://backend.turing.io/module1/projects/perilous_journey)
@@ -72,7 +72,7 @@ Perilous Journey is a project that introduced me to how linked lists store and r
 * TDD: 3
 * Functionality: 2
 
-#### HTTP Yeah You Know Me
+### HTTP Yeah You Know Me
 
 * [GitHub URL](https://github.com/hmesander/http_project)
 * [Original Assignment](http://backend.turing.io/module1/projects/http_yeah_you_know_me)
@@ -96,9 +96,7 @@ Perilous Journey is a project that introduced me to how linked lists store and r
 
 ## C: Group Work & Projects
 
-### Projects
-
-#### Enigma
+### Enigma
 
 * [GitHub URL](https://github.com/gijolopez/enigma)
 * [Original Assignment](http://backend.turing.io/module1/projects/enigma)
@@ -119,7 +117,7 @@ none given
 **Feedback to Me**<br/>
 "The project went well. I felt like we had an overall good vibe working with each other. I enjoyed the way we both connected in jumping into our project. Some of the positive highlights that I saw during our project were: always being available, being flexible, always having a positive attitude, discussing a paired working style that worked for both of us and for always being kind. I especially appreciate the time you and I paused for a moment and you kindly listened attentively and patiently on a method that I wanted to try, knowing that it would set up back a bit, perhaps on your next pairing you and your partner could pause and check in with one another. Overall, I am very much pleased the way we worked with one another and welcome to opportunity to work with you again. Thank you."
 
-#### Black Thursday
+### Black Thursday
 
 * [GitHub URL](https://github.com/adam-conway/black_thursday)
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
@@ -141,34 +139,33 @@ Black Thursday is a database written in Ruby able to load, parse, search, and ex
 **Feedback to Me**<br/>
 
 
-## D: Professional Skills
+## D: Professional Skills/Gear Up
 
-### Gear Up
-#### Health and Wellness - Stress Management
+### Health and Wellness - Stress Management
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
 
 My main takeaways from the Stress Management session were to continue to build awareness of my natural response during stressful situations and to apply centering practices within those situations to reduce my stress response. I am gradually becoming more self-aware in this area, but it is still a struggle for me. During the session, I learned that stress protective factors include exposure to nature, positive relationships, centering practices and taking time for rest and recovery.  As a Turing student, unfortunately, exposure to nature and taking time for rest and recovery are not easily accessible, so I have made an effort to include them in my schedule by taking walks outdoors and doing less work on one weekend day.
 
-#### Working Styles: Intro, extro, ambiverts!
+### Working Styles: Intro, extro, ambiverts!
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
 I left the Working Styles session with a greater understanding of where I lie on the introversion/extraversion scale. I also learned how to communicate clearly what I need from coworkers in order to contribute to projects successfully given my introverted tendencies. I am continuing to think about my strengths as an introvert and how to describe those to others within a professional setting. I have often had to make a deliberate effort to reach out to others for help because my first instinct is to try to work through everything on my own.  In the last paired project of the module, I feel as if my partner and I found an ideal balance between dividing up work and doing paired work.
 
-#### Getting Better at Difficult Things
+### Getting Better at Difficult Things
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
 The Getting Better at Difficult Things session introduced me to the idea of reducing cognitive load by relying on 'automatic' learning processes (similar to muscle memory).  I am still thinking about how to apply this idea within the context of my work and the time restraints I face.  I have noticed that I have learned things while at Turing that I did not deliberately set out to master but I have instead learned them simply through repetition.  I am interested in reading more about the research behind 'automatic' learning and tips on how to directly apply it to my work.
 
-#### Personal Story and Connection
+### Personal Story and Connection
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
 
 My main takeaway from Personal Story and Connection session was being able to more clearly articulate my background before Turing and what led me to pursue a career in software development. I also realized during this session that I need to continue to practice telling my story to others in order to get better at telling it in a compelling and articulate way.  I took the time clearly write down my story after the session because I know that putting it in writing helps me to better internalize it.
 
-#### From Introvert to Influential (led by Mod 4 students)
+### From Introvert to Influential (led by Mod 4 students)
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1801-inning/group_5.md)
 
