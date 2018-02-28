@@ -89,18 +89,18 @@ Pass
   * [GitHub URL](https://github.com/lilwillifo/black_thursday)
   * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
-  Description
-
-  Feedback
+  Creating a program that has the ability to find analytical information
+  from pulling from several different repositories.
 
   Ruby Syntax and Style:          3
-  Breaking Lines into Components: 4
+  Breaking Lines into Components: 3
   Test Driven Development:        3
   Git Workflow:                   3
-  Functionality:                  2
+  Functionality:                  3
+  Code Sanitation:                4
 
   Feedback for Me:
-  Working on breaking things into smaller components to be
+  Using enumerables for efficiently
 
 ## D: Professional Skills
 Primarily, I feel like I understand how I work within a development team more fully.
