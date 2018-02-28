@@ -103,7 +103,6 @@ For this project we were given code from a pair of classmates that created idea 
 
 * [Link to Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/megan-hannah.md)
 
-##### feedback to me:
 
 ## D: Professional Skills
 I find all of the PD sessions very helpful the first time around. I learned that my strengths from strength finder are very close to the truth and repaeting I realized how I should have used them better the first time in mod one. I feel like I had a strong Linkedin and Twitter before I got here. And I made my github strong over break using the things we learned, so this time around I had almost no changes to make. I know I need to work on making my story more me and less scripted so thats my plan during the week off, to nail that down.
