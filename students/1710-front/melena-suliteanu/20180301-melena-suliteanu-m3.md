@@ -2,6 +2,8 @@
 
 ## Areas of Emphasis
 
+“One of the lessons that I grew up with was to always stay true to yourself and never let what somebody else says distract you from your goals.” - Michelle Obama
+
 Improve as much as possible on: ES6, refactoring, testing, React. Learn: Redux, async JS really well.
 
 ## Rubric Scores
@@ -18,10 +20,9 @@ Improve as much as possible on: ES6, refactoring, testing, React. Learn: Redux, 
 
 Pass
 
-
 ## B: Individual Work & Projects
 
-I worked on two individual projects this mod: Swapi box and my personal project Puzzle Swap.
+"Your success will be determined by your own confidence and fortitude." -Michelle Obama
 
 #### Lego Swapi Box
 
@@ -49,7 +50,7 @@ This project uses React, Redux, Router, and react-image-crop on the frontend wit
 
 ### Projects
 
-I worked on two group projects this mod, headcount and movie tracker.
+"We learned about gratitude and humility - that so many people had a hand in our success, from the teachers who inspired us to the janitors who kept our school clean... and we were taught to value everyone's contribution and treat everyone with respect." - Michelle Obama
 
 #### Headcount
 
@@ -75,6 +76,9 @@ The project uses React, Redux, and Router.
 ## D: Professional Skills
 
 ### Gear Up
+
+“We have this window of opportunity; we have a chance to make something real happen. Something possible happen, to live beyond our fear — think about that, and help us. Help lift us up, help us fight this fight to change — transform — this country in a fundamental way…. This chance won’t come around again.” -Michelle Obama
+
 #### (Session Name)
 
 * [GitHub URL]()
@@ -84,6 +88,8 @@ The project uses React, Redux, and Router.
 ## E: Community Participation
 
 ### Playing a Part
+
+“You see, our glorious diversity – our diversity of faiths, and colors and creeds―that is not a threat to who we are, it makes us who we are.” - Michelle Obama
 
 I am one of my class' student advisory board representatives, I attend Joan Clarke Society's meetings every week, and I'm an active member of the Pahlka civic tech group. 
 
