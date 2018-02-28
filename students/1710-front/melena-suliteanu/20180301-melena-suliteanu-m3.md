@@ -79,11 +79,23 @@ The project uses React, Redux, and Router.
 
 “We have this window of opportunity; we have a chance to make something real happen. Something possible happen, to live beyond our fear — think about that, and help us. Help lift us up, help us fight this fight to change — transform — this country in a fundamental way…. This chance won’t come around again.” -Michelle Obama
 
-#### (Session Name)
+#### Microaggressions
 
-* [GitHub URL]()
+[GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_update.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This gear up gave me the opportunity to reflect on how I've grown at interacting with people that are different from me in some way. It's something I've been actively working on for as long as I can remember and I value the time we were given to think about what we've learned and times we haven't done it right.
+
+#### Tragedy of the Commons
+
+[GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+
+I'm obsessed with the article we read for this gear up. I think it was an extremely powerful visualization tool because it was based on math. Although I already believed the premise of the article I think it has the potential to be very persuasive. I had a great conversation with my group about the importance of intentionally cultivating diversity.
+
+#### Avoiding Burnout (Mod4 led)
+
+[GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1801-inning/group_2.md)
+
+This session helped me frame my feelings around burnout. Although I don't think I've reached full burnout at Turing I've gotten pretty exhausted a few times and I think the lessons carry. We talked about introversion and that is something that definitely contributes to my tiredness on group projects, because I work really hard to be a good partner/team member and while that makes for a very positive project experience it also leaves me more tired after. We talked about self care and preventing burnout by taking care of yourself consistantly and that was a good reminder.
 
 ## E: Community Participation
 
