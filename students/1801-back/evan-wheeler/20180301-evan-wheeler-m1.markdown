@@ -134,10 +134,6 @@ Each of the group work projects pushed me to be a better teammate and work colla
 (description):
 We build a node based search tree that could store words, and return suggestions based on substrings.
 
-But how would you actually make an autocomplete system?
-
-In this project, CompleteMe we’ll be exploring this idea by a simple textual autocomplete system. Perhaps in the process we will develop some sympathy for the developers who built the seemingly incompetent systems on our phones…
-
 (evaluation comments):
 * node word? method seems unnecessary since you're storing it as a true/false value
 * node.inspect only used for test, which is unnecessary code
@@ -194,6 +190,13 @@ This project was a database of ruby objects that were created by parsing CSV fil
 ## D: Professional Skills
 
 ### Gear Up
+#### (Growth Mindset)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+
+THe growth mindset was an excellent introduction for how to succeed at Turing. I relate strongly to the concepts
+
+### Gear Up
 #### (Getting Better at Difficult Things)
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
@@ -201,16 +204,23 @@ This project was a database of ruby objects that were created by parsing CSV fil
 I really enjoyed the 3 board visual from this gear up. I identify strongly with the idea of splitting skills into small componenets and mastering the small things to make the larger skills easier. I have tried to take this practice and apply it to coding. I also have tried to minimize cognitive resource drains to maximize what I get out of the program.
 
 ### Gear Up
-#### (Working Styles)
+#### (Intro, Extro, Ambivert)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
 This session was fun and enlightening. I have applied the takeaways of this gearup in almost every aspect of my life. Specifically, I have been a lot more concious of how I interact with introverts as an extreme extrovert. I put this into practice with my group and pairing sessions, and I hope that it has helped make working with me easier.
 
 ### Gear Up
-#### (Health and Welness)
+#### (Managing Stress)
 
-* [GitHub URL](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit#slide=id.p12)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
+
+It was healthy to talk about stress management this early in the mod. I started strong, and was meal prepping and taking regular breaks, but as the mod got more difficult some of my stress management tools slipped. I have a couple lists for managing the window of tolerance and which tools help mitigate the workload. I tried to check back in on these lists regularly.
+
+### Gear Up
+#### (Personal Story)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
 
 It was healthy to talk about stress management this early in the mod. I started strong, and was meal prepping and taking regular breaks, but as the mod got more difficult some of my stress management tools slipped. I have a couple lists for managing the window of tolerance and which tools help mitigate the workload. I tried to check back in on these lists regularly.
 
