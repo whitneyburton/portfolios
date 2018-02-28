@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I was determined to be comfortable enough with Ruby by the end of the mod that if I was asked to build anything I would struggle with the concept and not the language. I also was driven to complete mod 1 with all passing projects.
+I was determined to be comfortable enough with Ruby by the end of the mod that if I was asked to build anything I would struggle with the concept and not the language. I also was driven to complete mod 1 with all passing projects. I spent a good amount of time trying to learn high level Ruby concepts like OOP and SOLID principals, and trying to integrate those skills into my code. I have tried a couple times this module to learn Python and learn more about other languages, but have not made as much progress as I hoped.
 
 ## Rubric Scores
 
