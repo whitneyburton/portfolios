@@ -133,7 +133,9 @@ This was really valuable. I've worked in similar working environments basically 
 
 Ways that I supported the larger Turing community included being active in SAB, initiating conversations during our Friday retros with our cohort to get to know each other better, being an active participant during Bronze FE and encouraging others to join, pairing with other students and instructors, as well as picking up after the building if something needs to be done. 
 
+
 ------------------
+
 
 ## Final Review
 
