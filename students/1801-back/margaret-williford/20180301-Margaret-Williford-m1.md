@@ -7,7 +7,7 @@ Honestly I didn't come into mod 1 with a clear aim. I knew coding felt like it c
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Community Participation**: 3 
@@ -19,8 +19,10 @@ Honestly I didn't come into mod 1 with a clear aim. I knew coding felt like it c
 Passed. All 3s and a 4 for functionality.
 
 ## B: Individual Work & Projects
+These projects were my first exposure to Ruby. Over my first 6 weeks at Turing, I learned how to break logic into components, TDD, proper syntax, SRP and GitHub workflow.
 
 #### Flashcards
+This project exposed me to classes and methods for the first time. The user plays a trivia game and each round records guesses and informs the user if they're right or wrong. 
 
 * [GitHub URL](https://github.com/lilwillifo/week1/tree/master/flashcards)
 * [Original Assignment](http://backend.turing.io/module1/projects/flashcards)
@@ -43,6 +45,7 @@ Functionality
 3: Meets expectations
 
 #### Date Night
+This project centered around building a Binary Search Tree. This exposed me to communication between classes. The logic was more challenging than flashcards. I really enjoyed this.
 
 * [GitHub URL](https://github.com/lilwillifo/BinarySearchTree/tree/master/binary_search_tree)
 * [Original Assignment](http://backend.turing.io/module1/projects/date_night)
@@ -65,6 +68,7 @@ Functionality
 3: Meets expectations
 
 #### HTTP Yeah You Know Me
+This was the most challenging project for me. Conceptualizing servers, sockets, and a runner file was difficult for me. This was the least tangible project that we worked on. I'd like to go back and try to finish this. 
 
 * [GitHub URL](https://github.com/lilwillifo/HTTP)
 * [Original Assignment](http://backend.turing.io/module1/projects/http_yeah_you_know_me)
@@ -102,6 +106,7 @@ Version Control:
 ### Projects
 
 #### Complete Me
+We created an autocomplete system. This was 
 
 * [GitHub URL](https://github.com/lilwillifo/Complete_Me)
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
