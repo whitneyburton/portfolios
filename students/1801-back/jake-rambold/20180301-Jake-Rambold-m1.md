@@ -220,8 +220,6 @@ Overall Grade: PASS
 
  4: Above expectations
 
-(feedback to me)
-
 #### CompleteMe
 
 * [GitHub URL](https://github.com/lilwillifo/Complete_Me)
