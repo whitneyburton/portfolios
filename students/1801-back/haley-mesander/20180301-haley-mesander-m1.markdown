@@ -28,10 +28,10 @@ Passed
 * [GitHub URL](https://github.com/hmesander/flashcards/tree/master/flashcards)
 * [Original Assignment](http://backend.turing.io/module1/projects/flashcards)
 
-**description**
+**Description**<br/>
 Flashcards is the first program that I wrote at as a Turing student.  It is a trivia program that is used through the command line. Cards contain questions and answers, and they are stored in decks. Users can see the questions, take guesses, and see a final score at the end of the round.  
 
-**evaluation comments**
+**Evaluation Comments**
 * Copy/Pasted coded in Runner rather than a loop or enumerable
 * Require paths not relative to root dir
 * Calling current card should not advance the round to the next card
@@ -39,7 +39,7 @@ Flashcards is the first program that I wrote at as a Turing student.  It is a tr
 * Github repo includes other project directories
 * Test file names transposed
 
-**evaluation scores**
+**Evaluation Scores**
 * Ruby Syntax and Style: 2
 * Breaking Logic into Components: 2
 * TDD: 2
@@ -50,10 +50,10 @@ Flashcards is the first program that I wrote at as a Turing student.  It is a tr
 * [GitHub URL](https://github.com/hmesander/perilous_journey.git)
 * [Original Assignment](http://backend.turing.io/module1/projects/perilous_journey)
 
-**description**
+**Description**<br/>
 Perilous Journey is a project that introduced me to how linked lists store and retrieve data.  The project adds and removes families from a wagon train(linked list).  The wagon train can be modified and searched with many methods, including 'append', 'insert', 'prepend', 'includes?' and 'find'.  Families can also carry supplies within their specific wagons(nodes).
 
-**evaluation comments**
+**Evaluation Comments**
 * Applies appropriate attribute encapsulation
 * Developer creates instance and local variables appropriately
 * Naming follows convention (is idiomatic) X Ruby methods used are logical and readable
@@ -66,7 +66,7 @@ Perilous Journey is a project that introduced me to how linked lists store and r
 * Code is effectively broken into methods & classes
 * Developer writes methods less than 10 lines X No more than 3 methods break the principle of SRP
 
-**evaluation scores**
+**Evaluation Scores**
 * Ruby Syntax and Style: 3
 * Breaking Logic into Components: 3
 * TDD: 3
@@ -77,17 +77,17 @@ Perilous Journey is a project that introduced me to how linked lists store and r
 * [GitHub URL](https://github.com/hmesander/http_project)
 * [Original Assignment](http://backend.turing.io/module1/projects/http_yeah_you_know_me)
 
-**description**
+**Description**<br/>
 'HTTP Yeah You Know Me' was a project that introduced me to the HTTP request/response cycle.  The project is a functioning web server built in Ruby to put knowledge of HTTP into action.  The server parses incoming HTTP requests and responds with appropriate HTTP responses.  Users can play a number guessing game through requests to the server.  The server can also respond with redirects and various appropriate HTTP response codes.
 
-**evaluation comments**
+**Evaluation Comments**
 * All Integration tests, no unit tests
 * Responding to Client should be refactored into its own method
 * Too much responsibility in Server class. Needs more classes i.e. RequestParser, ResponseGenerator, WordSearch, etc.
 * Responding to Client should not happen in Game. Game's responsibility is to play the game, not do the networking
 * Game as a module is an interesting design decision. It works, but only if it doesn't have networking functionality in it, for instance responding to the Client CANNOT happen in the Game module. It works in this specific case because the Server class has an a client, but no other class could include this module.
 
-**evaluation scores**
+**Evaluation Scores**
 * Ruby Syntax and Style: 3
 * Breaking Logic into Components: 2
 * TDD: 3
@@ -103,34 +103,34 @@ Perilous Journey is a project that introduced me to how linked lists store and r
 * [GitHub URL](https://github.com/gijolopez/enigma)
 * [Original Assignment](http://backend.turing.io/module1/projects/enigma)
 
-**description**
+**Description**<br/>
 Enigma was a project meant to reinforce algorithmic thinking within the realm of software development.  The project is an encryption engine for encrypting, decrypting, and cracking messages using a Caesar Cipher(rotation) encryption technique. It can also read messages from files and output their encrypted/decrypted counterparts to files.
 
-**evaluation comments**
+**Evaluation Comments**
 none given
 
-**evaluation scores**
+**Evaluation Scores**
 * Ruby Syntax and Style: 3
 * Breaking Logic into Components: 3
 * TDD: 2
 * Git Workflow: 3
 * Functionality: 2
 
-**feedback to me**
-The project went well. I felt like we had an overall good vibe working with each other. I enjoyed the way we both connected in jumping into our project. Some of the positive highlights that I saw during our project were: always being available, being flexible, always having a positive attitude, discussing a paired working style that worked for both of us and for always being kind. I especially appreciate the time you and I paused for a moment and you kindly listened attentively and patiently on a method that I wanted to try, knowing that it would set up back a bit, perhaps on your next pairing you and your partner could pause and check in with one another. Overall, I am very much pleased the way we worked with one another and welcome to opportunity to work with you again. Thank you.
+**Feedback to Me**<br/>
+"The project went well. I felt like we had an overall good vibe working with each other. I enjoyed the way we both connected in jumping into our project. Some of the positive highlights that I saw during our project were: always being available, being flexible, always having a positive attitude, discussing a paired working style that worked for both of us and for always being kind. I especially appreciate the time you and I paused for a moment and you kindly listened attentively and patiently on a method that I wanted to try, knowing that it would set up back a bit, perhaps on your next pairing you and your partner could pause and check in with one another. Overall, I am very much pleased the way we worked with one another and welcome to opportunity to work with you again. Thank you."
 
 #### Black Thursday
 
 * [GitHub URL](https://github.com/adam-conway/black_thursday)
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
-**description**
+**Description**<br/>
 Black Thursday is a database written in Ruby able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.  The e-commerce business represented includes customer, merchant, item, invoice, and transaction data.
 
-**evaluation comments**
+**Evaluation Comments**
 
 
-**evaluation scores**
+**Evaluation Scores**
 * Ruby Syntax and Style:
 * Breaking Logic into Components:
 * TDD:
@@ -138,7 +138,7 @@ Black Thursday is a database written in Ruby able to load, parse, search, and ex
 * Version Control:
 * Code Sanitation:
 
-**feedback to me**
+**Feedback to Me**<br/>
 
 
 ## D: Professional Skills
