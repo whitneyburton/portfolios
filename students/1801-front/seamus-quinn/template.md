@@ -36,9 +36,9 @@ Individual projects included:
 ##### Evaluator: David Whitaker
 
 ###### Notes/What To Work On:
- Comp
+Comp
   * Think in terms of leveraging containers
- HTML
+HTML
   * Nesting off in places - look at style guides
   * Add aria label for inputs
  CSS
