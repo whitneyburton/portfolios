@@ -2,13 +2,13 @@
 
 ## Areas of Emphasis
 
-I wanted to learn as much as I could which I think I did and get better at the things I knew already so they wouldn't use my cognitive resources as much during the rest of my time at Turing. I 
-
+I began my studies at Turing in order to learn as much as I could about becoming a web developer, which I have excelled at so far. This module I significantly improved in the areas I already was strongest in, and as a result won't have to use my cognitive resources as much during the rest of my time at Turing. 
+ 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3 minus the tears with Pam
-* **B: Individual Work & Projects**: 3.5
-* **C: Group Work & Projects**: 3
+* **A: End-of-Module Assessment**: 4 (minus the tears with Pam, ha!)
+* **B: Individual Work & Projects**: 3.75
+* **C: Group Work & Projects**: 3.75
 * **D: Professional Skills**: 4
 * **E: Community Participation**: 4
 
@@ -16,11 +16,11 @@ I wanted to learn as much as I could which I think I did and get better at the t
 
 ## A: End of Module Assessment
 
-pass
+Pass
 
 ## B: Individual Work & Projects
 
-The personal projects I did this mod I focused on personal learning and doing it different than the prevoius mod. I pushed myself to finish phase four for very project. I did this on all of my personal projects.
+The personal projects I did this mod were focused on personal growth, as I sought to learn  new approaches from the prevoius mod. I pushed myself to finish phase four for every project, and was proud to accomplish that in every personal project.
 
 #### Number Guesser
 
@@ -73,8 +73,8 @@ The static comp challenge is a series of three challenges to keep you working th
 
 ### Projects
 
-I worked to learn about my partners working style. I learned aboout white boarding with Hannah and how to work on different things at the same time with Jack.
-
+I worked to learn about my partners working styles. I gained valuable experience white boarding with Hannah, as well as  learning critical multitasking skills with Jack. 
+ 
 #### Linked List
 
 * [GitHub URL](https://github.com/mrayanne113/linkedList)
@@ -105,28 +105,28 @@ For this project we were given code from a pair of classmates that created idea 
 
 
 ## D: Professional Skills
-I find all of the PD sessions very helpful the first time around. I learned that my strengths from strength finder are very close to the truth and repaeting I realized how I should have used them better the first time in mod one. I feel like I had a strong Linkedin and Twitter before I got here. And I made my github strong over break using the things we learned, so this time around I had almost no changes to make. I know I need to work on making my story more me and less scripted so thats my plan during the week off, to nail that down.
+I found all of the PD sessions very helpful, and learned from strength finder that some of my strongest features as a programer include responsibility, adaptability, context, futuristic, and arranger. As I repeated the module, I realized clearly how I should have used these critical skills much more aggressively the first time I went through mod one. I know my  Linkedin and Twitter were both professionally sound before I began classes at Turing, and feel excellent about their current state. I also made my Github significantly stronger over break using the tools I learned during my first attempt at mod one, and fortunately this time around I had to make very few changes. I am currently working to make my story more about me, and less scripted-feeling. I will continue to work on it during break until its perfect.
 
 ### Gear Ups
 
  ###### Stress Mgmt 101
- Redoing this gear up didn't make me feel as stressed as last time. It was good to revisit stress but I still feel like the gear up was more stressful to talk about things that make you feel stressed. It was nice to actully remember things we learned about the brain instead of just knowing we talked about, but this time I can remember the hind, mid, and frontal cortex. My window of tolerance is very low for stress right now because I'm putting too pressure on repeating in regrauds to the rest of my life and I need to work on that still. 
+ Redoing this gear up didn't make me feel stressed whatsoever, unlike my first attempt. It was very productive for me to revisit stress and I now feel much well equipped to hand it in the future. I was happy to clearly remember things we learned about the brain instead of just vaguely knowing we talked about them, but this time I can remember the hind, mid, and frontal cortex.
  
  ###### Working Styles
- I have never viewed myself anything other than introvert, just I'm starting to realize that you aren't one thing all the time. You can one way at work but another at home, etc. I was shocked that I wasn't a straight introvert but actaully right down the middle. I'm flexible at a lot of things but going full extrovert isn't something I think I will over come in the next few months but one day I will be able too. 
+ I have never viewed myself as anything other than introverted, but I've recently realized that you aren't one thing all the time. You can one work on tasks one way at the office but another at home, etc. I was shocked that I wasn't the straight introvert I imagined, but actaully right down the middle. I'm flexible at a lot of things but going full extrovert isn't something I think I will overcome over anytime soon.  
  
  ###### Getting Better at Doing Difficult Things
- It was super cool to watch that video and learn about cognitive resources. I feel the resources I use on javascript are so much smaller now thah last mod. I don't have to think about git and only had one git merge error all mod and compared to last mod when it was very week. My emotional state this mod has been all over and I really need to nail that down for success in mod 2. I am trying to use my growth midset with what we learned at this session and work on making my cognitive resources smaller everyday.
+  It was super cool to watch that video and learn about cognitive resources. Thankfully the resources I use on javascript were so much smaller than last mod. I don't have to think about git and only had one git merge error all mod, compared to last mod when I experienced them weekly. My emotional state this mod hasn't been as level as I would like, but I'm working hard to improve it and will have that down successfully for mod 2. I continue to use my growth midset and work on making my cognitive resources smaller everyday. 
  
  ###### Mod4 Lead Gear Up: Introvert to Influencer	
- It was instreting to learning about coming out of my shell by watching a video that told me to fake it until I become it. Which I thought was crappy advice but my boyfriend says I'm wrong in that and she was right. I should just fake it, but sounds horrible to me but I'm trying find a middle way so I don't feel like a imposter the rest of my life.
+   It was interesting to learn about being more outgoing from a video that told me to "fake it until I become it". 
+At the time I thought that was crappy advice, but after my boyfriend and I discussed it in detail that night I realized the video was actually right. 
 
-
-## E: Community Participation
+## E: Community Participatio
 
 ### Playing a Part
 
-This time since I was repeating, I speant a lot of time helping my classmates. I was a TA for try turing one weekend. I lead a study session this last weekend for my classmates, in which we went over wish list as a group. I have been a shoulder to cry on and people who have choosen to repeat are asking me for advice. And as always I continue to tell people about turing and hand out some card to people. 
+ Since I was repeating this time, I speant a lot of time helping my classmates improve their work. I was a TA for Try Turing one weekend. I led a study session  last weekend for a group classmates to go over wish list as a group. I'm thankful that I've been able to have been a shoulder to cry on for others, and that people who have choosen to repeat are asking me for advice. And as always I continue to tell people about Turing and hand out some cards to people. 
 
 ------------------
 
