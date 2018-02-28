@@ -58,7 +58,7 @@
 
 (description)
 
-_Evaluator:_ Nathaniel Foster
+##### Evaluator: Nathaniel Foster
 
 _Notes/What To Work On:_
 
@@ -76,6 +76,8 @@ _Notes/What To Work On:_
 * Advanced Beginner
 * group vars at top of scope no extra parens
 
+
+
 ## C: Group Work & Projects
 
 ### Projects
@@ -91,8 +93,9 @@ _Notes/What To Work On:_
 
 (description)
 
-_Partner:_ Tyler McNamara
-_Evaluator:_ David Whitaker
+##### Partner: Tyler McNamara
+##### Evaluator: David Whitaker
+
 ##### Notes/What To Work On:
 ###### html
 * nice work using aria labels
@@ -113,21 +116,21 @@ _Evaluator:_ David Whitaker
 * say a little more
 
 ##### Functional Expectations
-Exceptional: You completed Phase Three and did something with Phase Four.
-###### COMP RECREATION / DESIGN
-Proficient
+* Exceptional: You completed Phase Three and did something with Phase Four.
+##### COMP RECREATION / DESIGN
+* Proficient
 ##### HTML
-Proficient
+* Proficient
 ##### CSS
-Proficient
+* Proficient
 ##### JS/jQuery
-Proficient
+* Proficient
 ##### GIT & GITHUB
-Proficient
+* Proficient
 ##### Pairing/Collaboration
-Proficient
+* Proficient
 ##### Surprise and Delight (optional category, but reminder: have fun!)
-Hot Fire
+* Hot Fire
 
 ##### Feedback from Tyler: 
 > “I think Daniela did a great job on this project. She was willing to work hard and opened up her schedule so that we were able to complete a good portion of it within the first couple days. She had a great grasp on the javascript / JQuery fundamentals so that we were able to jump into the project without needing to coach each other much & when we came across a problem neither of us could solve we worked well together to find a solution. There were only a couple improvements I could offer, ones that I need work on as well which this first pairing process taught me, become more comfortable with Github so partners work more efficiently when apart and double check for any issues in the code before completing the project. Great first pairing experience and very happy with the final product!”
@@ -147,18 +150,21 @@ _Evaluator:_ David Whitaker
 ##### Notes/What To Work On:
 ##### Functional Expectations
 * Proficient The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals.
+
 ##### HTML
 ###### Accessibility
 * Advanced Beginner Leverages more precise semantic tags when applicable, and employs basic ARIA roles attributes for added clarity in structure, descriptive image alt attributes, title attributes for applicable anchor tags.
 use aria-label for input elements / buttons
 ###### Style
 * Proficient Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices.
+
 ##### CSS
 ###### Structure of Code
 * Advanced Beginner Can cleanly and logically organize CSS rules according to similar categories (i.e. typography, layout, components), and then logically organize the remaining CSS rules based on flow of the markup. Organizes properties within rules alphabetically.
 ###### Implementation
 * Advanced Beginner Can articulate the differences between the approaches of absolute/relative positioning, flex-box, floats, and can appropriately apply the approaches to solve a variety of layout problems.
 look into using vendor prefixes for transition e.g. -moz-, -webkit-
+
 ##### JAVASCRIPT
 ###### Data Types
 * Advanced Beginner Can diagnose when issues of data-type mismatch are present and appropriately redirect their coding and/or research efforts accordingly to solve the problem.
@@ -185,14 +191,17 @@ Style
 * Advanced Beginner Code shows strong effort toward organization, but suffers from long functions, unnecessary or poorly named variables, and requires significant refactoring. Application may have some duplication and minor bugs.
 * rename IdeaFactory to Idea
 * refactor setInLocalStorage, don't need to create a new object.
+
 ##### GIT & GITHUB
 ###### Git
 * Advanced Beginner Can create branches and willingly attempts to incorporate branches into their workflow. Commits, while infrequent, are increased in volume and show improvements in description.
 ###### Github
 * Proficient Is comfortable with resolving merge conflicts. Asks for review/merge of their pull requests from teammates. Is comfortable editing code based on review feedback from a pull request and resubmitting the branch code.
+
 ##### DESIGN
 ###### Comp Recreation
 * Proficient Developer captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but developer is clearly mindful of details and has made a conscious and careful effort to match the comp. Any design decisions left open to interpretation are handled thoughtfully and are well executed, but are more noticeable and/or unintuitive than they would be if the designer had provided the solution, or may not be totally seamless during screen-size transitions.
+
 ##### PAIRING
 ###### Collaboration
 * Proficient Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
@@ -209,15 +218,15 @@ Style
 
 (description)
 
-_Partner:_ Sage Vogt
-_Evaluator:_ Nathaniel Foster
+##### Partner: Sage Vogt
+##### Evaluator: Nathaniel Foster
 
 (evaluation comments)
 
 (evaluation scores)
 
 ##### Feedback from Sage: 
-> 
+> (insert feedback)
 
 ## D: Professional Skills
 (Intro)
