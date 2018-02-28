@@ -46,7 +46,7 @@ Each of the individual work projects helped me to develop and push the boundarie
 * [Original Assignment](http://backend.turing.io/module1/projects/flashcards)
 
 (description):
-In this project, you’ll write a flashcard program that is used through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
+We build a flashcard application that could store question and answer pairs, build a deck of flashcards, and then run a guessing game and track how many correct answers a user got.
 
 (evaluation comments):  
 * had 'puts' output in his tests
@@ -73,7 +73,7 @@ In this project, you’ll write a flashcard program that is used through the com
 * [Original Assignment](http://backend.turing.io/module1/projects/date_night)
 
 (description): 
-You are a junior developer at Netflix. You’re on a team that is developing a list of movies for Netflix users called “Suggested for You.” Each time movies are added to Netflix, an algorithm determines a score of how likely a given user is to enjoy that movie.
+A binary search tree that stored and sorted movies and their ratings.
 
 Scores are integers between 0 and 100
 No two movies will get the same score
@@ -101,7 +101,7 @@ It is your job to take new movies that have been scored, and store them in a Bin
 * [Original Assignment](http://backend.turing.io/module1/projects/http_yeah_you_know_me)
 
 (description):
-In this project we’ll begin to introduce HTTP, the protocol that runs the web, and build a functioning web server to put that understanding into action.
+We built a TCP server that could parse HTTP requests, rout a request to a path, build a response and send it back to the client.
 
 (evaluation comments):
 * Really cool use of Object.const_get in your assign_endpoint method. My only suggestion would be to try to make it more readable. For instance, instead of a one-liner, you could first say endpoint_class = Object.const_get(@paths[path]) and then say endpoint_class.new(request)
@@ -132,7 +132,7 @@ Each of the group work projects pushed me to be a better teammate and work colla
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
 
 (description):
-Everyone in today’s smartphone-saturated world has had their share of interactions with textual “autocomplete.” You may have sometimes even wondered if autocomplete is worth the trouble, given the ridiculous completions it sometimes attempts.
+We build a node based search tree that could store words, and return suggestions based on substrings.
 
 But how would you actually make an autocomplete system?
 
@@ -174,7 +174,7 @@ I appreciated the effort that you put into this project. The intense work right 
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
 (description):
-A business is only as smart as its data. Let’s build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.
+This project was a database of ruby objects that were created by parsing CSV files. The database could relate the objects and perform analysis.
 
 (evaluation comments)
 
@@ -192,7 +192,6 @@ A business is only as smart as its data. Let’s build a system able to load, pa
 6. Code Sanitation
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### (Getting Better at Difficult Things)
@@ -225,7 +224,7 @@ The mod 4 students did an excellent job running this session, and I felt like it
 ## E: Community Participation
 
 ### Playing a Part
-I have paired now with several of my classmates to help with difficult concepts. I also participate regularly in our cohort slack channel, both in development topics and in general conversation about stress management. 
+I have paired now with several of my classmates to help with difficult concepts, and try to be available to help whenever I can. I also attend as many Turing extracurricular events as possible to get to know my fellow Turing students. I try to share stress managment things with my classmates, like a weekly board game meetup and recipes for meal prep.
 
 ------------------
 
