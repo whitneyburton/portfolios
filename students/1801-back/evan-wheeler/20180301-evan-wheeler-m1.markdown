@@ -3,6 +3,7 @@
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
+I was determined to be comfortable enough with Ruby by the end of the mod that if I was asked to build anything I would struggle with the concept and not the language.
 
 ## Rubric Scores
 
@@ -16,12 +17,29 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Pull Request: https://github.com/turingschool-examples/company-audit/pull/15  
 
+Outcome:
+PASS
+
+1. Ruby Syntax & Style
+* 3: Meets expectations
+
+2. Breaking Logic into Components
+* 3: Meets expectations
+
+3. Test-Driven Development
+* 3: Meets expectations
+
+4. Version Control
+* 3: Meets expectations
+
+5. Completed Functionality
+* 4: Above expectations
 
 ## B: Individual Work & Projects
 
-(Intro)
+Each of the individual work projects helped me to develop and push the boundaries of what I am capable of in Ruby. I enjoy individual work, because the end result is a true representation of what I can accomplish.
 
 #### Flashcards
 
@@ -107,7 +125,7 @@ In this project we’ll begin to introduce HTTP, the protocol that runs the web,
 
 ### Projects
 
-(Intro)
+Each of the group work projects pushed me to be a better teammate and work collaboratively. I enjoy group work, because the end result is more than what I can accomplish alone, and each team teaches me far more than I can learn alone.
 
 #### Complete-me
 
@@ -142,14 +160,22 @@ In this project, CompleteMe we’ll be exploring this idea by a simple textual a
 4. Functionality
   4: *Above expectations
 
-(feedback to me)
+(feedback to me):
+Hi Evan - here's your feedback from Clee:
+
+It was great working with you throughout the project. You have a super good grasp of breaking down logic and working through complex problems. I think all of our refactoring skills could use a bit of work but it’s not something I’m worried about in the least. Keep up the good work!
+
+and from Adam:
+
+I appreciated the effort that you put into this project. The intense work right from the start helped set our team up for success when things got more complicated down the line. In particular, having a well functioning insert method within a few hours made the rest of the project exponentially easier. We worked really well as a team, but to work even better with future partners, I would suggest leaving a little more space for making sure everyone understands what everyone else’s code is doing. Even if a little speed is sacrificed, the extra understanding would be valuable.
 
 #### Black Thursday
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/anon0mys/black_thursday)
+* [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
-(description)
+(description):
+A business is only as smart as its data. Let’s build a system able to load, parse, search, and execute business intelligence queries against the data from a typical e-commerce business.
 
 (evaluation comments)
 
@@ -161,11 +187,32 @@ In this project, CompleteMe we’ll be exploring this idea by a simple textual a
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### (Getting Better at Difficult Things)
 
 * [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I really enjoyed the 3 board visual from this gear up. I identify strongly with the idea of splitting skills into small componenets and mastering the small things to make the larger skills easier. I have tried to take this practice and apply it to coding. I also have tried to minimize cognitive resource drains to maximize what I get out of the program.
+
+### Gear Up
+#### (Working Styles)
+
+* [GitHub URL]()
+
+This session was fun and enlightening. I have applied the takeaways of this gearup in almost every aspect of my life. Specifically, I have been a lot more concious of how I interact with introverts as an extreme extrovert. I put this into practice with my group and pairing sessions, and I hope that it has helped make working with me easier.
+
+### Gear Up
+#### (Health and Welness)
+
+* [GitHub URL]()
+
+It was healthy to talk about stress management this early in the mod. I started strong, and was meal prepping and taking regular breaks, but as the mod got more difficult some of my stress management tools slipped. I have a couple lists for managing the window of tolerance and which tools help mitigate the workload. I tried to check back in on these lists regularly.
+
+### Gear Up
+#### (Community: Mod 4 Leads)
+
+* [GitHub URL]()
+
+The mod 4 students did an excellent job running this session, and I felt like it was another gear up that had very practical applications in my day to day life. I have tried to pay attention to how I teach, and what I can learn from teaching over the past week. Teaching something you don't know well to someone that does is a valuable technique for learning what areas you are strong in.
 
 ## E: Community Participation
 
