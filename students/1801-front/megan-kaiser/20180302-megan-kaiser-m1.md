@@ -20,7 +20,7 @@ pass
 
 ## B: Individual Work & Projects
 
-The personal projects I did this mod I focused on personal learning and doing it different than the prevoius mod. 
+The personal projects I did this mod I focused on personal learning and doing it different than the prevoius mod. I pushed myself to finish phase four for very project. I did this on all of my personal projects.
 
 #### Number Guesser
 
@@ -45,22 +45,24 @@ js-try finding duplicate lines of code and breaking out into functions
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 ##### description: 
+It was hard to not work with someone on this project, when asking for help no one knew my code well enough to actully help.
+
 Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike). Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 
 ##### evaluation comments: 
-Refactored too much, shouldn't be getting rid of global variables. I had some duplicate lines of code due to the no global varibles.
+Refactored too much, shouldn't be getting rid of global variables. I had some duplicate lines of code due to the no global varibles. 
 
 * [Link to Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/megan.md)
 
 #### Static Comps
 
-* [View Site Live](https://mrayanne113.github.io/mk-comp-challenge-1/)
+* [View Site Live of Static Comp 1](https://mrayanne113.github.io/mk-comp-challenge-1/)
 * [GitHub URL STATIC COMP 1](https://github.com/mrayanne113/mk-comp-challenge-1)
 * [Original Assignment comp 1](http://frontend.turing.io/projects/m1-static-comp-1.html)
-* [View Site Live](https://mrayanne113.github.io/mk-comp-challenge-2.2/)
+* [View Site Live of Static Comp 2](https://mrayanne113.github.io/mk-comp-challenge-2.2/)
 * [GitHub URL STATIC COMP 2](https://github.com/mrayanne113/mk-comp-challenge-2.2)
 * [Original Assignment comp 2](http://frontend.turing.io/projects/m1-static-comp-2.html)
-* [View Site Live](https://mrayanne113.github.io/mk-static-comp-3.2/)
+* [View Site Live of Static Comp 3](https://mrayanne113.github.io/mk-static-comp-3.2/)
 * [GitHub URL STATIC COMP 3](https://github.com/mrayanne113/mk-static-comp-3.2)
 * [Original Assignment comp 3](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
@@ -71,7 +73,7 @@ The static comp challenge is a series of three challenges to keep you working th
 
 ### Projects
 
-intro
+I worked to learn about my partners working style. I learned aboout white boarding with Hannah and how to work on different things at the same time with Jack.
 
 #### Linked List
 
@@ -90,8 +92,6 @@ Nice job with README
 
 * [Link to Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/jack-megan.md)
 
-##### feedback to me:
-“Working on LinkedList together was really fun. Your knowledge on jQuery and Javascript was a huge part on why we were able to finish all four phases and get some extra features in our project as well. You were always willing to sit down and talk me through the functionality of our script, which I really appreciated. At times, I felt like I was a little behind when you would figure out a new aspect of our project and I didn’t always want to slow down our development to ask questions about your techniques. I should’ve approached you more, your willingness to help me was always very thorough. Our communication throughout the process was a little too laid-back and we probably could have benefitted from some more time working together. I would suggest finding that time in the future and making sure your partner understands the code before moving on to the next task. You are incredible at breaking down your thought process, so your partner will have no trouble understanding how you did things. Thanks to you, my understanding of jQuery has grown exponentially and I feel much more comfortable developing the functionality of my webpage. I really enjoyed working with you and hope that we get paired up together on another project!”
 
 #### 2doBox
 
