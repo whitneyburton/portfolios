@@ -87,10 +87,10 @@ It is your job to take new movies that have been scored, and store them in a Bin
 In this project we’ll begin to introduce HTTP, the protocol that runs the web, and build a functioning web server to put that understanding into action.
 
 (evaluation comments):
-Really cool use of Object.const_get in your assign_endpoint method. My only suggestion would be to try to make it more readable. For instance, instead of a one-liner, you could first say endpoint_class = Object.const_get(@paths[path]) and then say endpoint_class.new(request)
-Great job going above and beyond with the directory structure
-Good use of mocks and fixtures
-Uses Rakefile to do more than just run the tests
+* Really cool use of Object.const_get in your assign_endpoint method. My only suggestion would be to try to make it more readable. For instance, instead of a one-liner, you could first say endpoint_class = Object.const_get(@paths[path]) and then say endpoint_class.new(request)
+* Great job going above and beyond with the directory structure
+* Good use of mocks and fixtures
+* Uses Rakefile to do more than just run the tests
 
 (evaluation scores)
 1. Ruby Syntax & Style: 4
