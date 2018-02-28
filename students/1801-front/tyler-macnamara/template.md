@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Tyler McNamara - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module I was hoping to get a good grasp of the basics of programming and begin to change the way I think to one of a developer. I understand that working in a team and with partners will be the norm after landing a job in the field so learning how to use Github was a priority of mine as well. 
 
 ## Rubric Scores
 
