@@ -1,4 +1,4 @@
-# (Adam Conway) - (M1) Portfolio
+# Adam Conway - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -17,12 +17,11 @@ I set out to accomplish gaining a firm grasp of programming fundamentals so that
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
 Passed
 
 
 ## B: Individual Work & Projects
-#### (Flashcards)
+#### Flashcards
 
 * [GitHub URL](https://github.com/adam-conway/flashcards)
 * [Original Assignment](http://backend.turing.io/module1/projects/flashcards)
@@ -41,7 +40,7 @@ Breaking Logic into Components - 3
 Test-Driven Development - 3
 Functionality - 3
 
-#### (Date Night)
+#### Date Night
 
 * [GitHub URL](https://github.com/adam-conway/binary_search_tree)
 * [Original Assignment](http://backend.turing.io/module1/projects/date_night)
@@ -57,7 +56,7 @@ Breaking Logic into Components - 3
 Test-Driven Development - 3
 Functionality - 3
 
-#### (HTTP Yeah You Know Me)
+#### HTTP Yeah You Know Me
 
 * [GitHub URL](https://github.com/adam-conway/http_yeah_you_know_me)
 * [Original Assignment](http://backend.turing.io/module1/projects/http_yeah_you_know_me)
@@ -87,7 +86,7 @@ Version Control - 3
 ## C: Group Work & Projects
 
 ### Projects
-#### (CompleteMe)
+#### CompleteMe
 
 * [GitHub URL](https://github.com/anon0mys/complete-me)
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
@@ -111,7 +110,7 @@ Functionality - 4
 
 (feedback to me)
 
-#### (Black Thursday)
+#### Black Thursday
 
 * [GitHub URL](https://github.com/adam-conway/black_thursday)
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
@@ -128,25 +127,25 @@ Built a system able to load, parse, search, and execute business intelligence qu
 ## D: Professional Skills
 
 ### Gear Up
-#### (Getting Better at Difficult Things)
+#### Getting Better at Difficult Things
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
 Being able to learn effectively and efficiently is one of the most important skills both at Turing and outside of Turing. At Turing, it's important to break complex tasks into more simple tasks to learn it properly. I love learning difficult things so have constantly been seeking those out.
 
-#### (Working Styles)
+#### Working Styles
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
 I've always been aware that I lean more towards the introverted side. It was helpful though to specifically talk about the ways that introverts, ambiverts, and extroverts interact. After pairing with people that are definitely more extroverted, I reflected on this gear-up regularly
 
-#### (Health and Wellness)
+#### Health and Wellness
 
 * [GitHub URL](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit#slide=id.g2d1b090d8b_0_0)
 
 Stress is always something I struggle with managing so this session was very helpful. Practical self-care (preparing food, doing my budget, etc) is the area I've been focusing on managing, but I hope to focus more on mental self-care going forward.
 
-#### (Relaxation)
+#### Relaxation
 
 * [GitHub URL]()
 
@@ -157,8 +156,8 @@ I tend to work myself pretty hard (too hard at times) so focusing on relaxing is
 ### Playing a Part
 
 (ways you supported the larger Turing community)
-I don't feel like I was very involved in the Turing community as a whole but hope for that to change as I get into later modules. The way that I tried to support the larger Turing community through module 1 was supporting and helping other students in my cohort. As I get into later modules, I hope to help lower mod students as much as possible.
 ------------------
+I don't feel like I was very involved in the Turing community as a whole but hope for that to change as I get into later modules. The way that I tried to support the larger Turing community through module 1 was supporting and helping other students in my cohort. As I get into later modules, I hope to help lower mod students as much as possible.
 
 ## Final Review
 
