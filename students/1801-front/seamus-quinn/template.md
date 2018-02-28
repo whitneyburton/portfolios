@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I came into Mod1 very excited and nervous to learn code. My goals were as follows: work as hard as I can every day, learn voraciously, push myself to be the best learner I can be, and to view failure as an opportunity, not a hindrance.  My goals are process oriented, not outcome oriented.  I feel as though I have accomplished all of my goals. 
 
 ## Rubric Scores
 
@@ -21,7 +21,67 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+Individual projects included:
+
+ * Number Guesser
+ * Static Comp 1
+ * Static Comp 2
+ * Static Comp 3
+
+#### Number Guesser
+
+* [Number Guesser](https://github.com/seamus-quinn/number_guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+##### Evaluator: David Whitaker
+
+###### Notes/What To Work On:
+ Comp
+  * Think in terms of leveraging containers
+ HTML
+  * Nesting off in places - look at style guides
+  * Add aria label for inputs
+ CSS
+  * Consider adding organizational comments
+  * Pull duplication out into broader css rules
+ JS
+  * Pull duplicate lines of code into a function
+  * Functional Expectations
+Novice: Application meets all of the expectations of phase one.
+Advanced Beginner: Application meets all of the expectations of phase two.
+COMP RECREATION / DESIGN
+Advanced Beginner
+Proficient
+HTML
+Advanced Beginner
+Proficient
+CSS
+Advanced Beginner
+Proficient
+JS/jQuery
+Advanced Beginner
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
 
 #### (Project Name)
 
