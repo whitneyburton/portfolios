@@ -46,7 +46,7 @@ Each of the individual work projects helped me to develop and push the boundarie
 * [Original Assignment](http://backend.turing.io/module1/projects/flashcards)
 
 (description):
-We build a flashcard application that could store question and answer pairs, build a deck of flashcards, and then run a guessing game and track how many correct answers a user got.
+We built a flashcard application that could store question and answer pairs, build a deck of flashcards, and then run a guessing game and track how many correct answers a user got.
 
 (evaluation comments):  
 * had 'puts' output in his tests
