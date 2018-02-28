@@ -2,11 +2,11 @@
 
 ## Areas of Emphasis
 
-Honestly I didn't come into mod 1 with a clear aim. I knew coding felt like it could be a good fit for me and I love logic puzzles. I was sort of under the impression I'd be doing variations of Sudoku 24/7. I've always done well in school so although I heard several people reiterate how challenging Turing was, I didn't truly believe them. My math and finance background have certainly helped with the logic part of Turing but balancing life took more than I realized. I finally decided to quit my job and I think that will be a great weight off my shoulders for mod 2. I feel comfortable with the basics, but have had to aim for 'good enough to pass' rather than pushing myself  in projects so that I could actually get my 'real work' done. 
+Honestly I didn't come into mod 1 with a clear aim. I knew coding felt like it could be a good fit for me and I love logic puzzles. I was sort of under the impression I'd be doing variations of Sudoku 24/7. I've always done well in school so although I heard several people reiterate how challenging Turing was, I didn't truly believe them. My math and finance background have certainly helped with the logic part of Turing but balancing life took more than I realized. I finally decided to quit my job and I think that will be a great weight off my shoulders for mod 2. I feel comfortable with the basics, but have had to aim for 'good enough to pass' rather than pushing myself  in projects so that I could actually get my 'real work' done. I am excited to go into mod 2 100% focused on Turing without split attention. 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
@@ -16,12 +16,9 @@ Honestly I didn't come into mod 1 with a clear aim. I knew coding felt like it c
 
 ## A: End of Module Assessment
 
-Passed.
-
+Passed. All 3s and a 4 for functionality.
 
 ## B: Individual Work & Projects
-
-(Intro)
 
 #### Flashcards
 
@@ -167,7 +164,7 @@ This was an excellent session! Mod4 students led a discussion around the job hun
 ## E: Community Participation
 
 ### Playing a Part
-I hope to do more of this in Mod2. I came in on weekends and talked through problems with classmates. I have attended Joan Clark to network with other women at Turing. I'm bummed about the change to possees. My original posse disbanded and I've felt like a lost sheep since then. Megan and I are talking about starting a running posse in mod 2. I've had several mentor meetings, but one has really stuck and I believe he'll be a great help in my job hunt down the line! I want to be available as a mentor to mod1 students next inning. Working in groups has led me to realize I'm not always great at explaining myself, especially if others are confused. Teaching will be a great tool for reinforcement. Also now that I won't be working, I can stay after 4 to soak up all the Turing energy :) 
+I hope to do more of this in Mod2. I came in on weekends and talked through problems with classmates. I tried to be available to a resource to others. I have attended Joan Clark to network with other women at Turing. Megan and I are talking about starting a running posse in mod 2. I've had several mentor meetings, but one has really stuck and I believe he'll be a great help in my job hunt down the line! I want to be available as a mentor to mod1 students next inning. Working in groups has led me to realize I'm not always great at explaining myself, especially if others are confused. Teaching will be a great tool for reinforcement. Also now that I won't be working, I can stay late to build Turing community. 
 
 ------------------
 
@@ -175,8 +172,6 @@ I hope to do more of this in Mod2. I came in on weekends and talked through prob
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
