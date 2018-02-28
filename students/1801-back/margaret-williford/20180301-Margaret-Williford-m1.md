@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Honestly I didn't come into mod 1 with a clear aim. I knew coding felt like it could be a good fit for me and I love logic puzzles. I was sort of under the impression I'd be doing variations of Sudoku 24/7. I've always done well in school so although I heard several people reiterate how challenging Turing was, I didn't truly believe them. My math and finance background have certainly helped with the logic part of Turing but balancing life took more than I realized. I finally decided to quit my job and I think that will be a great weight off my shoulders for mod 2. I feel comfortable with the basics, but have had to aim for 'good enough to pass' rather than pushing myself  in projects so that I could actually get my 'real work' done. I am excited to go into mod 2 100% focused on Turing without split attention. 
+Honestly I didn't come into mod 1 with a clear aim. I knew coding felt like it could be a good fit for me and I love logic puzzles. I was sort of under the impression I'd be doing variations of Sudoku 24/7. I've always done well in school so although I heard several people reiterate how challenging Turing was, I didn't truly believe them. My math and finance background have certainly helped with the logic part of Turing but balancing life took more than I realized. I finally decided to quit my job and I think that will be a great weight off my shoulders for mod 2. I feel comfortable with the basics, but have had to aim for 'good enough to pass' rather than pushing myself in projects so that I could actually get my 'real work' done. I am excited to go into mod 2 100% focused on Turing without split attention. 
 
 ## Rubric Scores
 
@@ -45,7 +45,7 @@ Functionality
 3: Meets expectations
 
 #### Date Night
-This project centered around building a Binary Search Tree. This exposed me to communication between classes. The logic was more challenging than flashcards. I really enjoyed this.
+This project centered around building a Binary Search Tree. This exposed me to communication between classes and how to use recursion. The logic was more challenging than flashcards. I really enjoyed this. 
 
 * [GitHub URL](https://github.com/lilwillifo/BinarySearchTree/tree/master/binary_search_tree)
 * [Original Assignment](http://backend.turing.io/module1/projects/date_night)
@@ -68,7 +68,7 @@ Functionality
 3: Meets expectations
 
 #### HTTP Yeah You Know Me
-This was the most challenging project for me. Conceptualizing servers, sockets, and a runner file was difficult for me. This was the least tangible project that we worked on. I'd like to go back and try to finish this. 
+This was the most challenging project for me. Conceptualizing servers, sockets, and a runner file was difficult for me. This was the least tangible project that we worked on. I'd like to go back and try to finish this since I didn't finish the last iteration. 
 
 * [GitHub URL](https://github.com/lilwillifo/HTTP)
 * [Original Assignment](http://backend.turing.io/module1/projects/http_yeah_you_know_me)
@@ -106,7 +106,7 @@ Version Control:
 ### Projects
 
 #### Complete Me
-We created an autocomplete system. This was 
+We created an autocomplete system. I really enjoyed working in a pair and this was a great intro to github workflow and HoundCI. I learned the importance of unit testing as well.
 
 * [GitHub URL](https://github.com/lilwillifo/Complete_Me)
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
@@ -146,7 +146,7 @@ Functionality
 Feedback from Jake: It was great working with you and flowed extremely well. Every time I was blanking on the next step you were able to jump in and know where to go for the next step. Simply amazing. Testing the refactoring could use some work as we didn't retest smaller portions after it they were pulled into their own methods. That's something we both need to work on.
 
 #### Black Thursday
-
+This project covered business analytics for a online retailer. It was less logically challenging than other projects, but a much larger project. This was my favorite project.
 * [GitHub URL](https://github.com/lilwillifo/black_thursday)
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
@@ -156,12 +156,12 @@ Feedback from Alex:
 ## D: Professional Skills
 ### Gear Up
 #### Health and Wellness
-
 * [GitHub URL](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit#slide=id.g2d1b090d8b_0_655)
 This was a great way to kick off the inning. I prided myself the first week or two in being able to make time for exercise, but that has been something that I've let slip over the weeks. I have seriously found the value in meal prep. Week four I failed to do so and I know that added to my stress with HTTP. I'm excited to start fresh with health and wellness in Mod2!
 #### Working Styles
 I enjoy the conversation around introverts and extraverts, but worry about getting too caught up in the stereotypes. I am pretty introverted, but definitely love talking through problems in code. It was interesting to hear others' perspectives on group work, and this was a good way to learn more about classmates that I hadn't gotten to know yet. 
 #### Getting Better at Difficult Things
+* [GitHub URL] (https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 I was feeling really confident going into this session. I hadn't had to struggle with any of the projects yet and perhaps was overly confident in my abilities :) It wasn't until HTTP that I saw the value in breaking down what you do and don't know. The image of the board of post-it notes sticks with me.
 #### Shit Sandwich
 This was an excellent session! Mod4 students led a discussion around the job hunt and the pros and cons of different types of organizations. It was a really engaging discussion around corporate vs. startup vs. consulting/agencies vs. remote work. It exposed me to the idea of agency work which hadn't previously appealed to me, and it raised some really good points about remote work which I previously thought was 'the dream'. This conversation shifted my thinking and was the most valuable Gear Up I attended. 
