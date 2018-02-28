@@ -57,21 +57,15 @@ Refactored too much, shouldn't be getting rid of global variables. I had some du
 * [View Site Live](https://mrayanne113.github.io/mk-comp-challenge-1/)
 * [GitHub URL STATIC COMP 1](https://github.com/mrayanne113/mk-comp-challenge-1)
 * [Original Assignment comp 1](http://frontend.turing.io/projects/m1-static-comp-1.html)
-
 * [View Site Live](https://mrayanne113.github.io/mk-comp-challenge-2.2/)
 * [GitHub URL STATIC COMP 2](https://github.com/mrayanne113/mk-comp-challenge-2.2)
 * [Original Assignment comp 2](http://frontend.turing.io/projects/m1-static-comp-2.html)
-
 * [View Site Live](https://mrayanne113.github.io/mk-static-comp-3.2/)
 * [GitHub URL STATIC COMP 3](https://github.com/mrayanne113/mk-static-comp-3.2)
 * [Original Assignment comp 3](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 ##### description: 
 The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. :muscle: You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design. Once you get into the workforce - building out comps that reflect the designer’s choice in layout, spacing, font, imagery, and color to the smallest detail is a requirement.
-
-##### evaluation comments: 
-Refactored too much, shouldn't be getting rid of global variables. I had some duplicate lines of code due to the no global varibles.
-
 
 ## C: Group Work & Projects
 
@@ -116,22 +110,20 @@ For this project we were given code from a pair of classmates that created idea 
 ## D: Professional Skills
 I find all of the PD sessions very helpful 
 
-### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
+### Gear Ups
 
  ###### Stress Mgmt 101
  Redoing this gear up didn't make me feel as stressed as last time. It was good to revisit stress but I still feel like the gear up was more stressful to talk about things that make you feel stressed. It was nice to actully remember things we learned about the brain instead of just knowing we talked about, but this time I can remember the hind, mid, and frontal cortex. My window of tolerance is very low for stress right now because I'm putting too pressure on repeating in regrauds to the rest of my life and I need to work on that still. 
  
  ###### Working Styles
- I have never viewed myself anything other than introvert, just I'm starting to realize that you aren't one thing all the time. You can one way at work but another at home, etc. I was shocked that I wasn't a straight introvert but actaully right down the middle. I'm flexible at a lot of things but going full extrovert
+ I have never viewed myself anything other than introvert, just I'm starting to realize that you aren't one thing all the time. You can one way at work but another at home, etc. I was shocked that I wasn't a straight introvert but actaully right down the middle. I'm flexible at a lot of things but going full extrovert isn't something I think I will over come in the next few months but one day I will be able too. 
  
- - Intro to Extroverts, Ambiverts and Introverts
-  ###### Getting better at doing difficult things
-  ###### Mod4 Lead Gear Up: Introvert to Influencer	
+ ###### Getting Better at Doing Difficult Things
+ It was super cool to watch that video and learn about cognitive resources. I feel the resources I use on javascript are so much smaller now thah last mod. I don't have to think about git and only had one git merge error all mod and compared to last mod when it was very week. My emotional state this mod has been all over and I really need to nail that down for success in mod 2. I am trying to use my growth midset with what we learned at this session and work on making my cognitive resources smaller everyday.
  
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+ ###### Mod4 Lead Gear Up: Introvert to Influencer	
+ It was instreting to learning about coming out of my shell by watching a video that told me to fake it until I become it. Which I thought was crappy advice but my boyfriend says I'm wrong in that area and she was right. 
+
 
 ## E: Community Participation
 
