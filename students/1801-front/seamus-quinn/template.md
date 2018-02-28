@@ -63,38 +63,20 @@ Individual projects included:
 #### JS/jQuery
   * Advanced Beginner
 
-#### (Project Name)
+#### Static Comp 1
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/seamus-quinn/sq-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
+#### Static Comp 2
 
-(evaluation comments)
+* [GitHub URL](https://github.com/seamus-quinn/sq-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(evaluation scores)
+#### Static Comp 3
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+* [GitHub URL](https://github.com/seamus-quinn/sq-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 ## C: Group Work & Projects
 
