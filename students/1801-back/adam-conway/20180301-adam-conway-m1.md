@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+<em>What did you set out to accomplish this module?</em><br>
 I set out to accomplish gaining a firm grasp of programming fundamentals so that I could build upon those in the modules to come.
 
 ## Rubric Scores
