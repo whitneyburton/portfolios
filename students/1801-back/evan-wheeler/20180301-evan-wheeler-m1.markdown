@@ -111,14 +111,36 @@ In this project we’ll begin to introduce HTTP, the protocol that runs the web,
 
 #### Complete-me
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/anon0mys/complete-me)
+* [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
 
-(description)
+(description):
+Everyone in today’s smartphone-saturated world has had their share of interactions with textual “autocomplete.” You may have sometimes even wondered if autocomplete is worth the trouble, given the ridiculous completions it sometimes attempts.
 
-(evaluation comments)
+But how would you actually make an autocomplete system?
+
+In this project, CompleteMe we’ll be exploring this idea by a simple textual autocomplete system. Perhaps in the process we will develop some sympathy for the developers who built the seemingly incompetent systems on our phones…
+
+(evaluation comments):
+* node word? method seems unnecessary since you're storing it as a true/false value
+* node.inspect only used for test, which is unnecessary code
+* calls like .is_a?(String) don't need parentheses
+* create_node could have been made simpler with Node.new(letter, length==1)
+* try to avoid returning mixed data types such as in find_node (returns a node pointer or a string), should return pointer or nil, let something lse report the error
+* 6 of 14 methods in the main class aren't specifically unit tested (build_branch, create_node, case_desensitizer, suffix_builder, suggestion_sorter, prune, for example)
 
 (evaluation scores)
+1. Ruby Syntax & Style
+  3: *Meets expectations
+
+2. Breaking Logic into Components
+  3: *Meets expectations
+
+3. Test-Driven Development
+  2: * Below expectations
+
+4. Functionality
+  4: *Above expectations
 
 (feedback to me)
 
