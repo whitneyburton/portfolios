@@ -133,12 +133,18 @@ Worked with Kelly on this one. Complete Me was an implementation of a simple aut
 
 Worked with Jimmy on this project. CSV parsing, and business logic using Etsy data for items, transactions, invoices, merchants, and customers. Plenty of work to do here. Lots of logic to work through, as there were lots of numbers to crunch. Had a blast doing it however, as it really made us think as a team. Figure out how to break apart such a large project into manageable chunks, while splitting the work in such a way that we could simultaneously be pushing code without conflicts.
 
-(evaluation comments)
+###### Comments from Mike
+Commented on that some of our methods could still be broken up as not everything followed SRP, but it was overall pretty good. Committed way too frequently (444 commits over the whole project).
 
-(evaluation scores)
+1. Ruby Syntax & Style: 3
+2. Breaking Logic into Components: 3
+3. Test-Driven Development: 3
+4. Functionality: 4
+5. Version Control: 4
+6. Code Sanitation: 4
 
 ## D: Professional Skills
-(Intro)
+I am absolutely loving the PD sessions! It's so much stuff that you would never get at something like a university. It's great to be able to take a break from coding, and focus on our growth as individuals and professionals.
 
 ### Gear Up
 #### Growth Mindset
@@ -169,7 +175,7 @@ This session was great. I don't often think about my personal story and how hone
 
 ### Playing a Part
 
-I'll be honest, I haven't been as outwardly active as I could be. I tend to get sucked into my own work, so I haven't had a huge amount of communication with other mods. But within our own mod, I've had plenty of communication. Beyond just what we are doing in class. But regarding other mods, I've loved the interactions I've had with them so far! Makes me really look forward to getting into future mods. Loved seeing the projects they have been working on during things like the code fairs, or even just walking by the pairing stations. 
+I'll be honest, I haven't been as outwardly active as I could be. I tend to get sucked into my own work, so I haven't had a huge amount of communication with other mods. But within our own mod, I've had plenty of communication. Beyond just what we are doing in class. But regarding other mods, I've loved the interactions I've had with them so far! Makes me really look forward to getting into future mods. Loved seeing the projects they have been working on during things like the code fairs, or even just walking by the pairing stations.
 
 ------------------
 
