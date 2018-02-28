@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Eric Jungbluth - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Having absolutely no coding experience, I set out to get a solid understanding of HTML and CSS, as well as good understanding of basic JavaScript functionality. My goal was to put my head down and work hard, so I could stay ahead of the avalanche of knowledge and work. I feel good about the way the mod went, and think I did a good job of accomplishing the above goals.
 
 ## Rubric Scores
 
