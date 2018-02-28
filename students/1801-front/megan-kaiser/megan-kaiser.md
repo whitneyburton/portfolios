@@ -7,7 +7,7 @@ I wanted to learn as much as I could which I think I did.
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3 minus the tears with Pam
-* **B: Individual Work & Projects**: 2.5
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Community Participation**: 4
@@ -109,13 +109,20 @@ For this project we were given code from a pair of classmates that created idea 
 ##### feedback to me:
 
 ## D: Professional Skills
-(Intro)
+I find all of the PD sessions very helpful 
 
 ### Gear Up
 #### (Session Name)
 
 * [GitHub URL]()
 
+
+Here is a list of what we think needs to be in our portfolio:
+1. Stress Mgmt 101
+2. Working Styles- Intro to Extroverts, Ambiverts and Introverts
+3.  Learning to Pair
+4. Getting better at doing difficult things
+5. Mod4 lead gear up from last week
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 ## E: Community Participation
