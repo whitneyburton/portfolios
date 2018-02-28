@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I wanted to learn as much as I could which I think I did.
+I wanted to learn as much as I could which I think I did and get better at the things I knew already so they wouldn't use my cognitive resources as much during the rest of my time at Turing.
 
 ## Rubric Scores
 
@@ -79,7 +79,7 @@ intro
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 ##### description:
-With a little jQuery under your belt, it’s time to try your hand at building a small application to store website links.
+It’s time to try your hand at building a small application to store website links.
 In it’s simplest form, the application should have the following:Two input fields, One for the title of the bookmark, One for the URL that the bookmark should link to, One button for creating the bookmark and adding it to the page, A section for all of the created bookmarks; each bookmark should display: The title of the bookmark, The URL of the bookmark (this should be clickable and link to the URL), A button to “Mark as Read”, A button to “Remove” the bookmark
 
 ##### evaluation comments: 
@@ -108,7 +108,7 @@ For this project we were given code from a pair of classmates that created idea 
 ##### feedback to me:
 
 ## D: Professional Skills
-I find all of the PD sessions very helpful 
+I find all of the PD sessions very helpful the first time around. I learned that my strengths from strength finder are very close to the truth and repaeting I realized how I should have used them better the first time in mod one. I feel like I had a strong Linkedin and Twitter before I got here. And I made my github strong over break using the things we learned, so this time around I had almost no changes to make. I know I need to work on making my story more me and less scripted so thats my plan during the week off, to nail that down.
 
 ### Gear Ups
 
@@ -122,14 +122,14 @@ I find all of the PD sessions very helpful
  It was super cool to watch that video and learn about cognitive resources. I feel the resources I use on javascript are so much smaller now thah last mod. I don't have to think about git and only had one git merge error all mod and compared to last mod when it was very week. My emotional state this mod has been all over and I really need to nail that down for success in mod 2. I am trying to use my growth midset with what we learned at this session and work on making my cognitive resources smaller everyday.
  
  ###### Mod4 Lead Gear Up: Introvert to Influencer	
- It was instreting to learning about coming out of my shell by watching a video that told me to fake it until I become it. Which I thought was crappy advice but my boyfriend says I'm wrong in that area and she was right. 
+ It was instreting to learning about coming out of my shell by watching a video that told me to fake it until I become it. Which I thought was crappy advice but my boyfriend says I'm wrong in that and she was right. I should just fake it, but sounds horrible to me but I'm trying find a middle way so I don't feel like a imposter the rest of my life.
 
 
 ## E: Community Participation
 
 ### Playing a Part
 
-This time since I was repeating, I speant a lot of time helping my classmates. I was a TA for try turing one weekend. I lead a study session this last weekend for my classmates. I have been a shoulder to cry on.
+This time since I was repeating, I speant a lot of time helping my classmates. I was a TA for try turing one weekend. I lead a study session this last weekend for my classmates, in which we went over wish list as a group. I have been a shoulder to cry on and people who have choosen to repeat are asking me for advice. And as always I continue to tell people about turing and hand out some card to people. 
 
 ------------------
 
@@ -142,3 +142,4 @@ This time since I was repeating, I speant a lot of time helping my classmates. I
 ### Outcome
 
 ( Leave blanks for reviewers )
+
