@@ -101,8 +101,6 @@ Nice job with README
 ##### description: 
 For this project we were given code from a pair of classmates that created idea box. We were instructed to pivot the project into another project, were we created a platform that houses a to-do list. We also added new features including better ux/iu design of disabling the save button when there is insufficient information in inputs as well as created a completed check button for when the user has finished the task.
 
-##### evaluation comments:
-
 * [Link to Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/megan-hannah.md)
 
 ##### feedback to me:
