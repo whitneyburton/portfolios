@@ -49,23 +49,30 @@ This project uses React, Redux, Router, and react-image-crop on the frontend wit
 
 ### Projects
 
-(Intro)
+I worked on two group projects this mod, headcount and movie tracker.
 
-#### (Project Name)
+#### Headcount
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/farmermel/headcount2.0)
+* [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
 
-(description)
+I paired with [Matt Renn](https://github.com/rennmatthewp) on this project. It was a React/Router project to display kindergarten attendence data for the state of Colorado. Our goal was to practice React and testing.
 
-(evaluation comments)
+[evaluation comments and scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1710/mod-3/headcount/matt-melena/scores.md)
 
-(evaluation scores)
+Feedback for me: nice job making a mock helper class for tests!
 
-(feedback to me)
+#### Movie Tracker
+
+* [GitHub URL](https://github.com/farmermel/movie-tracker)
+* [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
+
+I paired with [Jeff Bender](https://github.com/j25bender) and [Spencer Herms](https://github.com/PreciseSlice) on this project. We were provided a backend for storing user login information and favorites. A user can sign up or log in and view some popular and recent movies displayed as movie posters that flip over for more information on hover. A logged in user can click a heart below each movie poster to favorite it, and go to a favorites page to view all of their favorites.
+The project uses React, Redux, and Router.
+
+[evaluation comments and scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1710/mod-3/movie-tracker/melena-bender-spencer/scores.md)
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### (Session Name)
@@ -78,7 +85,7 @@ This project uses React, Redux, Router, and react-image-crop on the frontend wit
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I am one of my class' student advisory board representatives, I attend Joan Clarke Society's meetings every week, and I'm an active member of the Pahlka civic tech group. 
 
 ------------------
 
