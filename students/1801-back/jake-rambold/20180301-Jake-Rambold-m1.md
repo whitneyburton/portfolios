@@ -4,6 +4,8 @@
 
 (What did you set out to accomplish this module?)
 
+When I came in I expected some things to be review of topics I knew, but hadn't used in a long time. As such I wanted to focus more on the intricacies of ruby. What I discovered instead that TDD had come in as a programming dogma. It's taken some adjustment to get used to. When I know how to write something there's a strong desire to just jump into the code and the testing feels slow and not always helpful.
+
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
@@ -16,32 +18,52 @@
 
 ## A: End of Module Assessment
 
-#### Company Audit
+#### Company Audit - Fail
 
 1. Ruby Syntax & Style
+
  2: Below expectations
+
 2. Breaking Logic into Components
+
  2: Below expectations
+
 3. Test-Driven Development
- 3: Meets expectations
-4. Version Control
- 3: Meets expectations
-5. Completed Functionality
+
  3: Meets expectations
 
-#### Paired Assessment
+4. Version Control
+
+ 3: Meets expectations
+
+5. Completed Functionality
+
+ 3: Meets expectations
+
+#### Paired Assessment - Fail
 
 1. Completion: 3
+
  3: Developer completes Iteration 3
+
 2. Ruby Syntax & API: 3
+
  3: Developer is able to write Ruby with some debugging of fundamental concepts
+
 3. Ruby Style: 3
+
  3: Developer refactors for clarity but has some areas for improvement
+
 4. Testing: 3
+
  3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
 5. Workflow: 2
+
  2: Developer smoothly moves between tools, but is dependent on mouse-driven interaction
+
 6. Collaboration: 3
+
  3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ## B: Individual Work & Projects
@@ -63,15 +85,25 @@ should move word search into its own class like GuessingGame
 need a LOT more DRY work on building the responses
 
 (evaluation scores)
+
 1. Ruby Syntax & Style
+
   3: Meets expectations
+
 2. Breaking Logic into Components
+
   3: Meets expectations
+
 3. Test-Driven Development
+
   3: Meets expectations
+
 4. Functionality
+
   3: Meets expectations
+
 5. Version Control
+
   3: Meets expectations
 
 #### Date Night
@@ -91,13 +123,21 @@ not done via TDD, but great coverage
 Ruby conventions still a problem and needs improvement
 
 (evaluation scores)
+
 1. Ruby Syntax & Style
+
   3: Meets expectations
+
 2. Breaking Logic into Components
+
   3: Meets expectations
+
 3. Test-Driven Development
+
   2: Below expectations
+
 4. Functionality
+
   4: Above expectations
 
 #### Flashcards
@@ -117,13 +157,21 @@ missed several tests, plus tests didn't run from the 9am repo pull
 did some of the extensions work
 
 (evaluation scores)
+
 1. Ruby Syntax & Style
+
   2: Below expectations
+
 2. Breaking Logic into Components
+
   3: Meets expectations
+
 3. Test-Driven Development
+
   2: Below expectations
+
 4. Functionality
+
   4: Above expectations
 
 ## C: Group Work & Projects
@@ -177,13 +225,21 @@ Node.make_word could be simplified
 try to avoid making methods that return different data types (Node.make_word returns a boolean or a string)
 
 (evaluation scores)
+
 1. Ruby Syntax & Style
+
  3: Meets expectations
+
 2. Breaking Logic into Components
+
  3: Meets expectations
+
 3. Test-Driven Development
+
  2: Below expectations
+
 4. Functionality
+
  3: Meets expectations
 
 (feedback to me)
@@ -337,19 +393,17 @@ Rspec
 
 ### Gear Up
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
 #### Relaxation
-* [GitHub URL]()
+* [GitHub URL](https://gist.github.com/jrambold/3ebe22f3e7b939a8f3bf00ca04424366)
 
 #### Getting Better at Difficult Things
-* [GitHub URL]()
+* [GitHub URL](https://gist.github.com/jrambold/ec74cc680e5e7df022f22ac649d8d60d)
 
 #### Working Styles
-* [GitHub URL]()
+* [GitHub URL](https://gist.github.com/jrambold/c95065483a433d7dd17a387de81591bc)
 
 #### Health and Wellness
-* [GitHub URL]()
+* [GitHub URL](https://gist.github.com/jrambold/51ddb393d021e80078cb4382a97342ef)
 
 ## E: Community Participation
 
