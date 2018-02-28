@@ -2,8 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
-I was determined to be comfortable enough with Ruby by the end of the mod that if I was asked to build anything I would struggle with the concept and not the language.
+I was determined to be comfortable enough with Ruby by the end of the mod that if I was asked to build anything I would struggle with the concept and not the language. I also was driven to complete mod 1 with all passing projects.
 
 ## Rubric Scores
 
@@ -179,9 +178,18 @@ A business is only as smart as its data. Let’s build a system able to load, pa
 
 (evaluation comments)
 
-(evaluation scores)
+(evaluation scores):
+1. Ruby Syntax & Style: 3
 
-(feedback to me)
+2. Breaking Logic into Components: 3
+
+3. Test-Driven Development: 3
+
+4. Functionality: 3
+
+5. Version Control: 3
+
+6. Code Sanitation
 
 ## D: Professional Skills
 (Intro)
@@ -189,7 +197,7 @@ A business is only as smart as its data. Let’s build a system able to load, pa
 ### Gear Up
 #### (Getting Better at Difficult Things)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
 I really enjoyed the 3 board visual from this gear up. I identify strongly with the idea of splitting skills into small componenets and mastering the small things to make the larger skills easier. I have tried to take this practice and apply it to coding. I also have tried to minimize cognitive resource drains to maximize what I get out of the program.
 
@@ -203,7 +211,7 @@ This session was fun and enlightening. I have applied the takeaways of this gear
 ### Gear Up
 #### (Health and Welness)
 
-* [GitHub URL]()
+* [GitHub URL](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit#slide=id.p12)
 
 It was healthy to talk about stress management this early in the mod. I started strong, and was meal prepping and taking regular breaks, but as the mod got more difficult some of my stress management tools slipped. I have a couple lists for managing the window of tolerance and which tools help mitigate the workload. I tried to check back in on these lists regularly.
 
@@ -217,8 +225,7 @@ The mod 4 students did an excellent job running this session, and I felt like it
 ## E: Community Participation
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
+I have paired now with several of my classmates to help with difficult concepts. I also participate regularly in our cohort slack channel, both in development topics and in general conversation about stress management. 
 
 ------------------
 
