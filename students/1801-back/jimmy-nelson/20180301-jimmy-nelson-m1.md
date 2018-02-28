@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I set out to try my hardest and learn everything I could with the guidance of teachers and the advice and experiences of my peers.
+I set out to try my hardest and learn everything I could about ruby and programming with the guidance of teachers and the advice and experiences of my peers.
 
 ## Rubric Scores
 
@@ -21,7 +21,7 @@ Passed
 
 ## B: Individual Work & Projects
 
-(Intro)
+The first and second individual projects happened very early in the module, and I felt that I had really strong growth by the time I completed the HTTP, Yeah You Know Me project.
 
 #### (Flashcards)
 
@@ -90,7 +90,7 @@ This project was also before I was comfortable with the git workflow, so wheneve
 
 ### Projects
 
-(Intro)
+I was very proud of some of the breakthroughs my partner and I had on our Enigma code. While it did have limited funcitonality, I was proud of it nonetheless and learned a lot. My second group project went very well. I was pleased with the way we worked together, the way our program works, and the small size of our methods.
 
 #### (Enigma)
 
