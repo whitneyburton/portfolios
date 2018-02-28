@@ -21,20 +21,15 @@ Pull Request: https://github.com/turingschool-examples/company-audit/pull/15
 Outcome:
 PASS
 
-1. Ruby Syntax & Style
-* 3: Meets expectations
+1. Ruby Syntax & Style: 3 Meets expectations
 
-2. Breaking Logic into Components
-* 3: Meets expectations
+2. Breaking Logic into Components: 3 Meets expectations
 
-3. Test-Driven Development
-* 3: Meets expectations
+3. Test-Driven Development: 3 Meets expectations
 
-4. Version Control
-* 3: Meets expectations
+4. Version Control: 3 Meets expectations
 
-5. Completed Functionality
-* 4: Above expectations
+5. Completed Functionality: 4 Above expectations
 
 ## B: Individual Work & Projects
 
@@ -55,24 +50,24 @@ We built a flashcard application that could store question and answer pairs, bui
 * record_guess method didn't return the right data type
 
 (evaluation scores)
-1. Ruby Syntax & Style
-  3: Meets expectations
+1. Ruby Syntax & Style:
+  3 Meets expectations
 
-2. Breaking Logic into Components
-  3: Meets expectations
+2. Breaking Logic into Components:
+  3 Meets expectations
 
-3. Test-Driven Development
-  3: Meets expectations
+3. Test-Driven Development:
+  3 Meets expectations
 
-4. Functionality
-  3: Meets expectations
+4. Functionality:
+  3 Meets expectations
 
 #### Date-Night
 
 * [GitHub URL](https://github.com/anon0mys/date-night)
 * [Original Assignment](http://backend.turing.io/module1/projects/date_night)
 
-(description): 
+(description):
 A binary search tree that stored and sorted movies by their ratings.
 
 Scores are integers between 0 and 100
@@ -83,17 +78,17 @@ It is your job to take new movies that have been scored, and store them in a Bin
 * the "smart node" code seems to confuse the responsibility of where code "belongs"
 
 (evaluation scores)
-1. Ruby Syntax & Style
-  3: Meets expectations
+1. Ruby Syntax & Style:
+  3 Meets expectations
 
-2. Breaking Logic into Components
-  3: Meets expectations
+2. Breaking Logic into Components:
+  3 Meets expectations
 
-3. Test-Driven Development
-  3: Meets expectations
+3. Test-Driven Development:
+  3 Meets expectations
 
-4. Functionality
-  3: Meets expectations
+4. Functionality:
+  3 Meets expectations
 
 #### HTTP Yeah You Know Me
 
@@ -132,7 +127,7 @@ Each of the group work projects pushed me to be a better teammate and work colla
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
 
 (description):
-We build a node based search tree that could store words, and return suggestions based on substrings.
+We built a node based search tree that could store words, and return suggestions based on substrings.
 
 (evaluation comments):
 * node word? method seems unnecessary since you're storing it as a true/false value
@@ -143,17 +138,17 @@ We build a node based search tree that could store words, and return suggestions
 * 6 of 14 methods in the main class aren't specifically unit tested (build_branch, create_node, case_desensitizer, suffix_builder, suggestion_sorter, prune, for example)
 
 (evaluation scores)
-1. Ruby Syntax & Style
-  3: *Meets expectations
+1. Ruby Syntax & Style:
+  3 Meets expectations
 
-2. Breaking Logic into Components
-  3: *Meets expectations
+2. Breaking Logic into Components:
+  3 Meets expectations
 
-3. Test-Driven Development
-  2: * Below expectations
+3. Test-Driven Development:
+  2 Below expectations
 
-4. Functionality
-  4: *Above expectations
+4. Functionality:
+  4 Above expectations
 
 (feedback to me):
 Hi Evan - here's your feedback from Clee:
@@ -190,44 +185,37 @@ This project was a database of ruby objects that were created by parsing CSV fil
 ## D: Professional Skills
 
 ### Gear Up
-#### (Growth Mindset)
+#### Growth Mindset
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-THe growth mindset was an excellent introduction for how to succeed at Turing. I relate strongly to the concepts
+The growth mindset was an excellent introduction for how to succeed at Turing. I relate strongly to the concepts, and have always tried to keep a growth mindset in every aspect of life. Especially for a program as difficult as Turing it is important to remember the tenants and avoid fixed mindset thinking.
 
-### Gear Up
-#### (Getting Better at Difficult Things)
+#### Getting Better at Difficult Things
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
-I really enjoyed the 3 board visual from this gear up. I identify strongly with the idea of splitting skills into small componenets and mastering the small things to make the larger skills easier. I have tried to take this practice and apply it to coding. I also have tried to minimize cognitive resource drains to maximize what I get out of the program.
+I really enjoyed the 3 board visual from this gear up. I identify strongly with the idea of splitting skills into small components and mastering the small things to make the larger skills easier. I have tried to take this practice and apply it to coding. I also have tried to minimize cognitive resource drains to maximize what I get out of the program.
 
-### Gear Up
-#### (Intro, Extro, Ambivert)
+#### Intro, Extro, Ambivert
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
-This session was fun and enlightening. I have applied the takeaways of this gearup in almost every aspect of my life. Specifically, I have been a lot more concious of how I interact with introverts as an extreme extrovert. I put this into practice with my group and pairing sessions, and I hope that it has helped make working with me easier.
+This session was fun and enlightening. I have applied the takeaways of this gear up in almost every aspect of my life. Specifically, I have been a lot more conscious of how I interact with introverts as an extreme extrovert. I put this into practice with my group and pairing sessions, and I hope that it has helped make working with me easier.
 
-### Gear Up
-#### (Managing Stress)
+#### Managing Stress
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
 
 It was healthy to talk about stress management this early in the mod. I started strong, and was meal prepping and taking regular breaks, but as the mod got more difficult some of my stress management tools slipped. I have a couple lists for managing the window of tolerance and which tools help mitigate the workload. I tried to check back in on these lists regularly.
 
-### Gear Up
-#### (Personal Story)
+#### Personal Story
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
 
-It was healthy to talk about stress management this early in the mod. I started strong, and was meal prepping and taking regular breaks, but as the mod got more difficult some of my stress management tools slipped. I have a couple lists for managing the window of tolerance and which tools help mitigate the workload. I tried to check back in on these lists regularly.
+I really enjoyed picking a story and identifying the themes that resonated most with my own personal story. It is good to start thinking about this skill early in the program, and I can see how the story we are building here will be invaluable in the job hunt. I have a hard time sharing sometimes, and it was good to start developing the skill early on.
 
-### Gear Up
-#### (Community: Mod 4 Leads)
-
-* [GitHub URL]()
+#### Community: Mod 4 Leads
 
 The mod 4 students did an excellent job running this session, and I felt like it was another gear up that had very practical applications in my day to day life. I have tried to pay attention to how I teach, and what I can learn from teaching over the past week. Teaching something you don't know well to someone that does is a valuable technique for learning what areas you are strong in.
 
@@ -247,4 +235,3 @@ I have paired now with several of my classmates to help with difficult concepts,
 ### Outcome
 
 ( Leave blanks for reviewers )
-
