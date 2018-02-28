@@ -2,6 +2,8 @@
 
 ## Areas of Emphasis
 
+##### What did you set out to accomplish this module?
+
 In this module I set out with only one goal - not to repeat. As I progressed through the module my goals definitely changed, reflective of my level of aptitude with the material.
 
 ## Rubric Scores
