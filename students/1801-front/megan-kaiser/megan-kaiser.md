@@ -20,7 +20,7 @@ pass
 
 ## B: Individual Work & Projects
 
-The personal projects I did this mod were I focused on personal learning. And doing it different than the prevoius mod. 
+The personal projects I did this mod I focused on personal learning and doing it different than the prevoius mod. 
 
 #### Number Guesser
 
@@ -54,10 +54,15 @@ Refactored too much, shouldn't be getting rid of global variables. I had some du
 
 #### Static Comps
 
+* [View Site Live](https://mrayanne113.github.io/mk-comp-challenge-1/)
 * [GitHub URL STATIC COMP 1](https://github.com/mrayanne113/mk-comp-challenge-1)
 * [Original Assignment comp 1](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+* [View Site Live](https://mrayanne113.github.io/mk-comp-challenge-2.2/)
 * [GitHub URL STATIC COMP 2](https://github.com/mrayanne113/mk-comp-challenge-2.2)
 * [Original Assignment comp 2](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+* [View Site Live](https://mrayanne113.github.io/mk-static-comp-3.2/)
 * [GitHub URL STATIC COMP 3](https://github.com/mrayanne113/mk-static-comp-3.2)
 * [Original Assignment comp 3](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
@@ -116,13 +121,16 @@ I find all of the PD sessions very helpful
 
 * [GitHub URL]()
 
-
-Here is a list of what we think needs to be in our portfolio:
-1. Stress Mgmt 101
-2. Working Styles- Intro to Extroverts, Ambiverts and Introverts
-3.  Learning to Pair
-4. Getting better at doing difficult things
-5. Mod4 lead gear up from last week
+ ###### Stress Mgmt 101
+ Redoing this gear up didn't make me feel as stressed as last time. It was good to revisit stress but I still feel like the gear up was more stressful to talk about things that make you feel stressed. It was nice to actully remember things we learned about the brain instead of just knowing we talked about, but this time I can remember the hind, mid, and frontal cortex. My window of tolerance is very low for stress right now because I'm putting too pressure on repeating in regrauds to the rest of my life and I need to work on that still. 
+ 
+ ###### Working Styles
+ I have never viewed myself anything other than introvert, just I'm starting to realize that you aren't one thing all the time. You can one way at work but another at home, etc. I was shocked that I wasn't a straight introvert but actaully right down the middle. I'm flexible at a lot of things but going full extrovert
+ 
+ - Intro to Extroverts, Ambiverts and Introverts
+  ###### Getting better at doing difficult things
+  ###### Mod4 Lead Gear Up: Introvert to Influencer	
+ 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 ## E: Community Participation
