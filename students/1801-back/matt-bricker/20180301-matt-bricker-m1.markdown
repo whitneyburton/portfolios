@@ -17,31 +17,34 @@ material, my goals definitely
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+NA
 
 ## B: Individual Work & Projects
 
-(Intro)
+I worked hard on each project submitted. Next time through the module, I will seek minimal outside help to complete projects.
 
-#### (Project Name)
+#### Flashcards
 
 * [GitHub URL](https://github.com/brickstar/flashcards)
-* [Original Assignment](flashcards)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
-description
+##### In this project I created a flashcard program that is used through the command line. In this program, a user is able to see the questions, take guesses, and see a final score at the end of the round.
+
 
 3 3 6 7 Variables and methods nicely named Length of methods & lines is good
 
-(
- 1. Ruby Syntax & Style: )
+1. Ruby Syntax & Style: 3
+2. Breaking Logic into Components: 3
+3. Test-Driven Development: 3
+4. Functionality: 2
 
-#### (Project Name)
+
+#### (Perilous Journey)
 
 * [GitHub URL](https://github.com/brickstar/perilous_journey)
 * [Original Assignment](perilous_journey)
 
-(description)
+##### In this project I created a linked list data structure in the theme of the classic computer game Oregon Trail.
 
 (evaluation comments)
 
