@@ -36,30 +36,32 @@ Individual projects included:
 ##### Evaluator: David Whitaker
 
 ###### Notes/What To Work On:
-Comp
+
+#### Comp
   * Think in terms of leveraging containers
-HTML
+#### HTML
   * Nesting off in places - look at style guides
   * Add aria label for inputs
- CSS
+#### CSS
   * Consider adding organizational comments
   * Pull duplication out into broader css rules
- JS
+#### JS
   * Pull duplicate lines of code into a function
-  * Functional Expectations
-Novice: Application meets all of the expectations of phase one.
-Advanced Beginner: Application meets all of the expectations of phase two.
-COMP RECREATION / DESIGN
-Advanced Beginner
-Proficient
-HTML
-Advanced Beginner
-Proficient
-CSS
-Advanced Beginner
-Proficient
-JS/jQuery
-Advanced Beginner
+  
+#### Functional Expectations 
+  * Novice: Application meets all of the expectations of phase one.
+  * Advanced Beginner: Application meets all of the expectations of phase two.
+#### COMP RECREATION / DESIGN
+  * Advanced Beginner
+  * Proficient
+#### HTML
+  * Advanced Beginner
+  * Proficient
+#### CSS
+  * Advanced Beginner
+  * Proficient
+#### JS/jQuery
+  * Advanced Beginner
 
 #### (Project Name)
 
