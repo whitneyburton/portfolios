@@ -4,7 +4,7 @@
 
 (What did you set out to accomplish this module?)
 
-When I came in I expected some things to be review of topics I knew, but hadn't used in a long time. As such I wanted to focus more on the intricacies of ruby. What I discovered instead that TDD had come in as a programming dogma. It's taken some adjustment to get used to. When I know how to write something there's a strong desire to just jump into the code and the testing feels slow and not always helpful.
+When I came in I expected some things to be review of topics I knew, but hadn't used in a long time. As such I wanted to focus more on the intricacies of ruby. On that I feel like I've been successful in getting used to the syntax and formatting, though style has been an adjustment from well commented code. What I discovered instead that TDD had come in as a programming dogma. It's taken some adjustment to get used to. When I know how to write something there's a strong desire to just jump into the code and the testing feels slow and not always helpful. However, when things were missed in writing it suddenly became helpful in quickly locating the problem. It's still an adjustment to get used to and I feel like I have less a handle on the full design in favor of focusing on small chunks at a time to build a program.
 
 ## Rubric Scores
 
@@ -68,7 +68,9 @@ When I came in I expected some things to be review of topics I knew, but hadn't 
 
 ## B: Individual Work & Projects
 
-(Intro)
+Flashcards provided a good introduction to a full ruby program.
+Date night for building a binary search tree was a fun reintroduction to algorithms, though I seem to have wrote my program ahead of my tests.
+HTTP building a server provided a nice set of interactions with the environment outside of just ruby.
 
 #### HTTP Yeah You Know Me
 
@@ -178,7 +180,7 @@ did some of the extensions work
 
 ### Projects
 
-(Intro)
+CompleteMe was probably my favorite project of the mod. Practical real world use that required thinking about how to properly implement the structures. Black thursday on the other hand felt large but structured like piecing together a relational database piece by piece.
 
 #### Black Thursday
 
