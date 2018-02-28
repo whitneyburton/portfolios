@@ -23,7 +23,7 @@ My main focus was to learn as much as I could in order to make a personal projec
 
 The personal Projects from this mod were SWAPI-box, and my personal project, Step to the Beat.
 
-#### (Project Name)
+#### SWAPI-box
 
 * [GitHub URL](https://github.com/lexbonder/swapi-box)
 * [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
