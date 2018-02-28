@@ -2,14 +2,14 @@
 
 ## Areas of Emphasis
 
-I wanted to learn as much as I could which I think I did and get better at the things I knew already so they wouldn't use my cognitive resources as much during the rest of my time at Turing.
+I wanted to learn as much as I could which I think I did and get better at the things I knew already so they wouldn't use my cognitive resources as much during the rest of my time at Turing. I 
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3 minus the tears with Pam
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
+* **D: Professional Skills**: 4
 * **E: Community Participation**: 4
 
 -----------------------
