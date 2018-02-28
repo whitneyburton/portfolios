@@ -54,18 +54,20 @@
 (description)
 
 _Evaluator:_ Nathaniel Foster
+
 _Notes/What To Work On:_
-_Functional Expectations_
+
+###### Functional Expectations
 * Advanced Beginner: Application meets all of the expectations of phase two.
 * Partial phase 3
-_COMP RECREATION / DESIGN_
+###### COMP RECREATION / DESIGN
 * Proficient
-_HTML_
+###### HTML
 * Proficient
-_CSS_
+###### CSS
 * Advanced Beginner
 * avoid using absolute positioning, try adding margin's
-_JS/jQuery_
+###### JS/jQuery
 * Advanced Beginner
 * group vars at top of scope no extra parens
 
@@ -120,7 +122,8 @@ Proficient
 ##### Surprise and Delight (optional category, but reminder: have fun!)
 Hot Fire
 
-_Feedback from Tyler:_ “I think Daniela did a great job on this project. She was willing to work hard and opened up her schedule so that we were able to complete a good portion of it within the first couple days. She had a great grasp on the javascript / JQuery fundamentals so that we were able to jump into the project without needing to coach each other much & when we came across a problem neither of us could solve we worked well together to find a solution. There were only a couple improvements I could offer, ones that I need work on as well which this first pairing process taught me, become more comfortable with Github so partners work more efficiently when apart and double check for any issues in the code before completing the project. Great first pairing experience and very happy with the final product!”
+##### Feedback from Tyler: 
+> “I think Daniela did a great job on this project. She was willing to work hard and opened up her schedule so that we were able to complete a good portion of it within the first couple days. She had a great grasp on the javascript / JQuery fundamentals so that we were able to jump into the project without needing to coach each other much & when we came across a problem neither of us could solve we worked well together to find a solution. There were only a couple improvements I could offer, ones that I need work on as well which this first pairing process taught me, become more comfortable with Github so partners work more efficiently when apart and double check for any issues in the code before completing the project. Great first pairing experience and very happy with the final product!”
 
 #### Idea Box
 
@@ -185,7 +188,8 @@ Style
 ###### Collaboration
 * Proficient Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
 
-_Feedback from Jack:_ "Working with you on IdeaBox was really fun! Your ability to self teach new concepts and implement them was a huge part of why we were able to get so much done on our project. I found that we were able to get along well and this both helped and hurt our efficiency throughout the work process. I felt really comfortable trying new things and bouncing ideas off you. I would also get distracted talking to you about something off topic but I believe that this served as a nice break from our task. You always were able to work around my schedule and I really appreciated your adaptability. I felt like I got left behind when you wrote the search function and I never got a full explanation on it. We worked on almost every other aspect of our script together so our communication on that particular function was a little less natural. In the future I’d suggest making sure that your partner understands something you did on your own before moving on. Working with you really helped me to develop my ability to collaboratively problem solve and I feel a lot more fluent in JavaScript and Jquery. I enjoyed being partnered with you and hope we are paired up again in the future!"
+##### Feedback from Jack: 
+> "Working with you on IdeaBox was really fun! Your ability to self teach new concepts and implement them was a huge part of why we were able to get so much done on our project. I found that we were able to get along well and this both helped and hurt our efficiency throughout the work process. I felt really comfortable trying new things and bouncing ideas off you. I would also get distracted talking to you about something off topic but I believe that this served as a nice break from our task. You always were able to work around my schedule and I really appreciated your adaptability. I felt like I got left behind when you wrote the search function and I never got a full explanation on it. We worked on almost every other aspect of our script together so our communication on that particular function was a little less natural. In the future I’d suggest making sure that your partner understands something you did on your own before moving on. Working with you really helped me to develop my ability to collaboratively problem solve and I feel a lot more fluent in JavaScript and Jquery. I enjoyed being partnered with you and hope we are paired up again in the future!"
 
 #### 2Do Box Pivot
 
@@ -201,7 +205,8 @@ _Evaluator:_ Nathaniel Foster
 
 (evaluation scores)
 
-_Feedback from Sage:_
+##### Feedback from Sage: 
+> 
 
 ## D: Professional Skills
 (Intro)
