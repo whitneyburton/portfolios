@@ -2,16 +2,14 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
-- take more time to get to know a brand new world
-- to feel more comfortable with javascript and have a better understanding of how to do things
-- to feel more confident in our projects and be more of a navigator with the writing code
+Deciding to repeat module 1 of Turing's Front End program was a really good decision for me. Going back to school in a completely new language the first go around hit me quite hard and was a battle. Therefore, this time I had a lot of goals that I wanted to accomplish. These included personal goals as well as academic. Personally I recognized that I needed to take time to take care of myself: work out, sleep, and do something that made me feel like myself every once in a while. I really needed to feel more like myself and not a robot trying to fit the mold. I actually allowed myself to take breaks, meditate and call my parents. Other goals included getting more comfortable with these new languages and ways of communicating, and to feel more comfortable with javascript and be more of a navigator with projects and feel capable of being able to do my code not just once, but to be able to re-write it. I wanted to be more of a captain of my learning! Mentally, I wanted to relax and be able to take in information during classes. My anxiety took over my existence last module and I knew that if I didn't pay attention to it then I would have wasted my time repeating. I learned a lot last time, and I learned even more this time. In that relaxation I wanted to be able to feel more confidence and work on being less hard on myself- which I think I accomplished yet can continue to work on. Lastly, I wanted to continue altering my internal dialogue and continue pushing myself towards a growth mindset.
+
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 4
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Community Participation**: 4
 
@@ -25,8 +23,8 @@ Pass
 
 ## B: Individual Work & Projects
 
-#### (Number Guesser)
-* [GitHub URL](https://github.com/hannahbare/number-guesser)
+#### Number Guesser
+* [GitHub](https://github.com/hannahbare/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 ##### Description
@@ -35,27 +33,24 @@ Build a game where the user guesses a number between 1 and 100.
 ##### Evaluation comments & scores
 * [Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/number-guesser/hannah-bare.md)
 
-
-#### Static Comp 1
-* [GitHub URL](https://github.com/hannahbare/hb-comp-challenge-1)
-* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
-
+##### Static Comps
 ##### Description
 The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. I was asked to recreate a static comp, with each growing in complexity. For each challenge, I was given a static comp and asked to recreate it. The objective is to build something that respects the integrity of the original design.
 
+#### Static Comp 1
+* [GitHub](https://github.com/hannahbare/hb-comp-challenge-1)
+* [GitHub Pages](https://hannahbare.github.io/hb-comp-challenge-1/)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 #### Static Comp 2
 * [GitHub URL](https://github.com/hannahbare/hb-comp-challenge-2)
+* [GitHub Pages](https://hannahbare.github.io/hb-comp-challenge-2/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
-
-The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. I was asked to recreate a static comp, with each growing in complexity. For each challenge, I was given a static comp and asked to recreate it. The objective is to build something that respects the integrity of the original design.
 
 #### Static Comp 3
 * [GitHub URL](https://github.com/hannahbare/hb-1801-comp-challenge-3)
+* [GitHub Pages](https://hannahbare.github.io/hb-1801-comp-challenge-3/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
-
-##### Description
-The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. I was asked to recreate a static comp, with each growing in complexity. For each challenge, I was given a static comp and asked to recreate it. The objective is to build something that respects the integrity of the original design.
 
 
 ## C: Group Work & Projects
@@ -63,7 +58,7 @@ The static comp challenge is a series of three challenges to keep you working th
 ### Projects
 
 
-#### (LinkedList)
+#### LinkedList
 * [GitHub URL](https://github.com/hannahbare/1801-linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
@@ -83,7 +78,7 @@ A small application that should have the following:
 * [Comments and Feedback](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/lee-hannah.md)
 
 
-#### (IdeaBox)
+#### IdeaBox
 * [GitHub URL](https://github.com/hannahbare/idea-box-1801)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
@@ -95,7 +90,7 @@ Throughout the project, one of our focuses will be on providing a fluid and resp
 * [Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/hannah-helen.md)
 
 
-#### (2DoBox)
+#### 2DoBox
 * [GitHub URL](https://github.com/hannahbare/2dobox_pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
