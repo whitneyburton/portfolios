@@ -6,17 +6,17 @@ I came into Mod1 very excited and nervous to learn code. My goals were as follow
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 2
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Pass?
 
 
 ## B: Individual Work & Projects
@@ -339,18 +339,33 @@ good job refactoring the search into one function that could take any selector.
 
 * Proficient  
 
+## D: Professional Skills
+
 ### Gear Up
-#### (Session Name)
+#### Stress Mgmt 101
 
-* [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Health & Wellness - Stress Management
+
+I really enjoyed learning about stress management.  I think that I have struggled in the past with managing stress and really learned some useful techniques that have allowed me to manage my stress fairly well this module.  I have found a lot of success in recognizing warning signs and responding with healthy forms of stress relief.  I still have a long way to go to get where I want to be in terms of stress management, but this session definitely gave me some useful tools to get me there.
+
+#### Working Styles
+
+This session was great.  I really enjoyed learning about the differences between introverts and extroverts, especially wihtin the context of Turing and the software development world.  I have found myself portraying characteristics of both in my time at Turing.  It is important to understand how I express myself, my work style, and my habits, so that I can work well with others.  This session, helped me understand myself better as a person and as a developer.
+
+#### Getting Better at Difficult Things
+
+Growth Mindest is something I have been familiar with for a while, as I have been working in the education field for the past three years.  I think it is an incredibly valuable state of mind and can truly transform anyone who is willing to put in the hard work.  Although I have taught many students, and have tried to instill a sense of growth mindset in them, it is completely different to be able to do that for myself.  Being the coach for someone else is much easier than doing it for yourself, but I think that my background in teaching has allowed me to approach myself in the same way I would approach a student, providing praise for the process and the learning, not the outcome.
+
+#### Mod 4's Gear Up (Avoiding Burnout)
+
+I went to the Mod 4 presentation on Avoiding Burnout.  It was very interesting to hear the multiple perspectives of students who have been through almost the entire program.  They had a lot of valuable insights and tips to share.  It was valuable to me to have a discussion about burnout.  It allowed me to recognize some signs of burnout in myself, and hopefully divert them so that the stress of being at Turing does not lead me down the road to burnout. 
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+My focus for Mod1 has been primarily on my development as a programmer.  I have not put much into the community of Turing due to this strong focus.  I have greatly enjoyed being a part of this place and have come to know some great people so far.  I hope to continue to cutlivate these relationships as the program goes on.  I also hope to contribute more to the community.
 
 ------------------
 
