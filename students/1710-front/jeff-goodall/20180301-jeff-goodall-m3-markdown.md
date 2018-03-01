@@ -249,4 +249,11 @@ I have supported the community by attending every friday morning talk this mod. 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
+
+OUTCOME: PASS
