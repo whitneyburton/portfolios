@@ -107,7 +107,7 @@ This project is working off the The Movie DB API (https://www.themoviedb.org/doc
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I have supported the community by attending every friday morning talk this mod. I taught Iron FE twice. I have been open minded about the diversity in the class room and I must admit that it is more diverce then I have been around in a long time if ever. I am a part of the school community just by being here and standing up to learn more about our vision statement. I am a better person for being here.
 
 ------------------
 
