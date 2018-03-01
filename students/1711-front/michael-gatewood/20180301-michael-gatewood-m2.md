@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My goal in M2 was to become familiar with the fundamental principles of Object-Oriented Programming and improve my ability to solve complex problems using algorithmic thinking.
+My goal in M2 is to become familiar with the fundamental principles of Object-Oriented Programming and improve my ability to solve complex problems using algorithmic thinking.  I want to be ative in assiting M1 students while maintining my own academic standing.  Finally, I want to continue my professional development and continue to make steps towards being prepared for the job search after I graduate Turing.
 
 ## Self-Evaluation
 
@@ -31,7 +31,7 @@ I spent more time this inning studying and working through problems with others.
 
 _What did you enjoy about Sorting Suite? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
-My goal in completing the Sorting Suite project was to develop sorting programs using the principles of bubble sort, insertion sort, quick sort and merge sort. While I enjoyed the challenge overall, the lack of incremental wins created a lot of stress and struggle.  In comparison, Game Time was a matter of implenting a feature and moving on to the next.  For Sorting Suit, I felt like that I didn't fully grasp everything that every algorithm was doing until the morning of the evaluation.  Had the evaluation been only a few hours sooner, I would not have been comfortable writing the code.  However, I think the struggle provided me with a better overall understanding of the concepts and I am grateful to be able to take this knowledge with me into an interview and explain each methodolgy with confidence.
+The goal in completing the Sorting Suite project was to develop sorting programs using the principles of bubble sort, insertion sort, quick sort and merge sort. While I enjoyed the challenge overall, the lack of incremental wins created a lot of stress and struggle.  In comparison, Game Time was a matter of implenting a feature and moving on to the next.  For Sorting Suit, I felt like that I didn't fully grasp everything that every algorithm was doing until the morning of the evaluation.  Had the evaluation been only a few hours sooner, I would not have been comfortable writing the code.  However, I think the struggle provided me with a better overall understanding of the concepts and I am grateful to be able to take this knowledge with me into an interview and explain each methodolgy with confidence.
 
 ### Complete Me
 * **Fundamental JS and Style:** _0 - 4_
@@ -42,13 +42,13 @@ My goal in completing the Sorting Suite project was to develop sorting programs 
 
 _What did you enjoy about Complete Me? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
-Complete Me was another challenging project that my cohort more-or-less treated like a class project.  This was the moment where the cohort came together as a team and leaned on each other to get through the project.  Without the teamwork of the entire class, the struggle would be magnified exponentially.  Even with the support of classmates, however, this was a project that never truly came together until the end, much like Sorting Suite.  What I take with me from this project is comradere with my cohort, another step towards a succesful interview, and a tool to use in my Weathrly project (and more?).
+CompleteMe is an application that uses a prefix trie to suggest words based on letters entered by the user.  This was another challenging project that my cohort more-or-less treated like a class project.  This was the moment where the cohort came together as a team and leaned on each other to get through the project.  Without the teamwork of the entire class, the struggle would be magnified exponentially.  Even with the support of classmates, however, this was a project that never truly came together until the end, much like Sorting Suite.  What I take with me from this project is comradere with my cohort, another step towards a succesful interview, and a tool to use in my Weathrly project (and more?).
 
 ## B: Group Work & Projects
 
 _Reflect on your group work and projects throughout the inning. Did they help you with your areas of emphasis (from above)? What was the most challenging? What patterns do you plan to continue for the next inning? What do you plan to change?_
 
-My group projects allowed me to diversify my techniques in working with other people with varying work styles and varying expertise.  Both projects were exercises in give and take.
+The group projects in this module were significantly greater in scope and challenge when compared to M1.  Both projects were developed using newly learned technologies and required a greater emphasis on testing.  My group projects allowed me to diversify my techniques in working with other people of varying work styles and expertise.  Both projects were exercises in give and take where both partners had to accomodate their preferred working style for the better of the team.
 
 ### GameTime
 * **Partner:** _Partner's Name_
@@ -61,7 +61,7 @@ My group projects allowed me to diversify my techniques in working with other pe
 
 _What did you enjoy about GameTime? What was challenging? What skills did you learn that serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
-Working with canvas was my favorite part of Game Time.  I enjoyed the process of putting together canvas objects on the screen...one dot at a time...then refactoring the construction of those objects with loops.  Animating the screen was a lot of fun as well.  I had to make a lot of compromises in my pairing and my patience was tested repeatedly (not because of my partner, but because of my preferred work style).  I came out of this pairing a better partner than I was going in.
+GameTime was a project where we were required to develop a game using Canvas, JavaScript, and es6 classes.  Working with canvas was my favorite part of Game Time.  I enjoyed the process of putting together canvas objects on the screen...one dot at a time...then later developing algorithms to develop more complex pieces.  Animating the screen was a lot of fun as well.  I had to make a lot of compromises in my pairing and my patience was tested repeatedly (not because of my partner, but because of my preferred work style).  I came out of this pairing a better partner than I was going in and we were both very happy with the end product.
 
 ### Weathrly
 * **Partner:** _Partner's Name_
@@ -80,23 +80,49 @@ My favorite part of Weathrly was becoming familiar with React and learning to wo
 
 ## C: Professional Skills
 
-* **PD Sessions:**
-  * _List here_
+Two of the gear-ups this inning were focused on diversity in general and gender diversity specifically.  Our last gear-up, conducted by M4 dove into the pros and cons of working for different types, sizes, and maturity of companies.  Our projessional development sessions started with another lesson on promoting yourself through conversation, then in warm and cold outreach.  Feedback II continued the trend of practicing good techniques in giving and receiving feedback and Jeff lead a session on agile practices in development.
 
-_What did you learn during the PD sessions that was surprising? What skills did you hone? Do you feel better prepared for your future professional life as a developer?_
+### Professional Development
 
-* **Gear Up Sessions:**
-  * _List here_
+#### Agile Practices and Leadership
 
-_What did you learn during the Gear Up sessions that was surprising? Do you find it important to have conversations like the ones in the Gear Up Sessions? Do you feel like you have the tools to keep having these conversations in the future? in your workplace? with your teammates?_
+This class was a good opportunity to have a more clear idea on exactly what agile practices entail and how Turing as an organization practices and promotes those practices.  I didn't know it before this lesson, but I am a big believer in the idea and I use similar practices in my workflow, continuously communicating changes and adjusting the plan accordingly.
+
+#### Feedback II
+
+Feeback II built upon what we had learned in M1 and had been practicing since.  Now we were introduced to some techniques specific to giving verbal feedback.  Since attending this lesson, I have become more aware of my own non-verbal communication and am making a concerted effort to control these behaviors in order to maximize my effectiveness in communicating kind and constructive feedback to others.
+
+#### Storytelling II
+
+This lesson was on being able to succintly and authoratatively pitch your professional story in a manner that grabs the listener's attention and conveys yours strengths, experience, expertise, and goals.  So often, there is a tendancy to give a chronological narrative of your professional carreer or going to the other extreme and not sharing enough.  The goal is to leave an impression in the listerner's mind of where you're looking to go and the value you can add to an organization. 
+
+#### Outreach and Networking
+
+The Outreach and Networking less provided various methods to increase your network.  This includes networking with peers, faculty, staff and alumni at Turing; going to meetups and engaging with others in your industry; and cold outreaches to people of interest in your field.  Networking is not something that comes naturally to me or even something that I'm really comfortable with, so I appreciate any tips I can get in that regard.
+
+### Gear Up Sessions:**
+
+#### Debugging the Gender Gap
+
+This session discussed gender inequality in the tech industry.  Not having been exposed to the community before, I was surprised to learn that this was an issue in modern day.  The one thing that stuck in my mind was learning that gender diversity in the industry was had reached highs in the 1980s to the extent of an almost 50/50 split between men and women.  While I'm disappointed with where we are today, I take comfort in knowing that this is a problem capable of being solved, as evidenced by the past.
+
+#### Parable of the Polygon
+
+This session was held to discuss the idea that people want to be surrounded by similar people and how quickly this behavior can negatively impact a community by compounding itself.  As it turns out, bias begets bias.  We have to be cognizant of this pattern in order to avoid it spiralling to a point where diversity is non-existant.  A good way to improve diversity in the workplace is to educate people on the virtues of multiple perspectives and experiences.  I would be interested to learn if anyone has ever conducted a study that correlates diversity to something quantifiable like profit margins.  Some examples of poor testing come to mind as events tied to lack of diversity that also cut into margins. 
+
+#### What's Your Flavor of Shit Sandwich?
+
+This session provided some interesting perspectives of working at different types of organizations in order to better tailor where it is that we (think we) want to work.  They discussed small vs medium vs large size; on-site vs remote; start-up vs mature businesses; agency vs product companies.  While the lesson was insightful, I had previously done extensive research to determine that my ideal environment was a small start-up (not necessarily tech) where I can fill multiple roles and have a greater impact on the organization.  This session was a great opportunity to confirm somet of the things that I want in a future employer. 
 
 ## Community Participation
 
-_Reflect on your community participation this inning. How did you opt-in to the community here at Turing? in Denver? Did you pair with students in other modules? Was the experience enjoyable? Illuminating?_
+Coming into M2, I made myself available for pairing every weekday and had several opportunities to help M1 students with JavaScript and OOP related questions and challenges.
 
 ## Final Assessment
 
 _What skills from this inning do you plan to review/strengthen over intermission weeek? What are you looking forward to about next inning? What are you going to do over intermission week to recharge your batteries and reconnect with your longterm goals?_
+
+I look forward to M3 with an interest in learning to master React and become efficient enough in writing tests that I can finally allow my tests to drive my development.  I intend to spend my intermission week reinforcing the skills I learned in M2.  While I feel prepared to take on the challenge of M3, I need to build additional muscle memory with array/object prototypes and some of the foundational knowledge of es6 and OOP.  I also need to recalibrate my family/school balance by spending some valuable time with my wife and son before diving full steam into M3.
 
 # Outcome:
 _Leave blank for instructors_
