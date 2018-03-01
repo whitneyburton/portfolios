@@ -183,16 +183,13 @@ We worked very well together. You have a great work ethic and an impressive apti
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 #### Project description
-
-
+2Do Box was our first change to work with someone else's code base. For 2Do Box we were given someone else's code from the Idea Box project and asked to refactor it, with a few challenges thrown in (no nested if/else statements, no anonymous functions, no functions longer than 8 lines, etc). We were to clean up the code without changing any of its functionality. After the code was refactored, we were asked to ad new features, such as filtering by level of importance and only showing the 10 most recent 2Dos on the page. Finally, there was an extensions phase with three additional functions to add if we had time.
 
 ### Evaluation scores/comments
 #### Functional Expectations
 Proficient
 Through phase 3
-
 bug with save button not always being disabled
-
 clear storage
 add title
 add body
@@ -245,6 +242,7 @@ Proficient
 
 
 ### Feedback/Coaching
+Not yet available.
 
 
 ## D: Professional Skills
