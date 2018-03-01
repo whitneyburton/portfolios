@@ -16,7 +16,7 @@ I wanted to get a solid understanding of React and api calls and focus on testin
 
 ## A: End of Module Assessment
 
-Pass?
+Pass
 
 ## B: Individual Work & Projects
 
