@@ -1,5 +1,7 @@
 # Thomas Laird - M4 Portfolio
 
+## [30 Day Action Plan Gist](https://gist.github.com/t-laird/3d42c745a9a0098766e0475c6929bfc5)
+
 ### What was your biggest achievement of the module?
 #### Success at Turing
 * Saying “I wonder if I can …” then trying it and finding out for sure
