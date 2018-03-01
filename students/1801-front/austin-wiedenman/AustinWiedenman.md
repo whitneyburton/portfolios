@@ -58,7 +58,6 @@ Build a game where the user guesses a number between 1 and 100.
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 *[linkedList repo]([linkedList repo]())
 
-it’s time to try your hand at building a small application.
 
 In it’s simplest form, the application to store website links.
 In it's simplest for it must include two input fields, One for the title of the bookmark, One for the URL that the bookmark should link to, One button for creating the bookmark and adding it to the page, and section for all of the created bookmarks. Each bookmark should display,The title of the bookmark, The URL of the bookmark (this should be clickable and link to the URL), A button to “Mark as Read”, A button to “Remove” the bookmark. 
