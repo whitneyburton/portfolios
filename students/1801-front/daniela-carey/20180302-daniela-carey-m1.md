@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Going into this mod, I set out to get a better understanding of basic front-end development skills so that I could continue to build on that foundation throughout my time at Turing. My goal was to focus on learning rather than just passing so that I felt confident in my skills before moving into Mod 2. To help accomplish this goal, I challenged myself to stay committed to my health and wellness by working out consistently and getting enough sleep. 
 
 ## Rubric Scores
 
@@ -16,38 +16,42 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+1. Individual Coding Challenge-A: **Pass**
+2. Individual Coding Challenge-B: **Pass**
+3. Final Project (Static Comp Challenge #3) -- **Pass**
+4. Comprehensive Quizlette: **Pass**
+5. Completed Portfolio **Pass**
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+The individual projects were a fun challenge and way a for my own personality to come out in the design and overall decisions that went into building them. Since we typically had group projects happening at the same time, these projects often served as a "break" from the group work and a time for me to zone in and focus without distractions. I also felt these were a good challenge for me since I didn't have a partner to help problem-solve.
 
 ---
 
 #### Static Comp 1
 
 * [GitHub URL](https://github.com/danielafcarey/ds-comp-challenge-1)
+* [GitHub Page](https://danielafcarey.github.io/ds-comp-challenge-1/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
+For Static Comp 1, I used my creative license on the comp to create a country profile on Haiti. I wanted to design something that could be a functional product, so I designed this page to be part of a database that has a similar profile on all countries. The site is responsive on desktop as well as mobile and I loved designing a clean mobile view from scratch since that was not part of the comp. 
 
-(evaluation comments)
+I started trying to use flexbox for this comp and after it became more of a headache than a design help, I decided to scrap it and redo the project using grid. I liked grid much more and felt my comp was more successful because of this pivot. 
 
-(evaluation scores)
+Feedback I received on this project was that my iamge was too big when resized to mobile. I also should have adjusted the spacing/font sizes of the header text and aligned my button icons with my button text better. Overall, the feedback was positive, specifically good feedback regarding the layout of my mobile view with the heading box overlayed on the background image.
 
 ---
 
 #### Static Comp 2
 
 * [GitHub URL](https://github.com/danielafcarey/ds-comp-challenge-2)
+* [GitHub Page](https://danielafcarey.github.io/ds-comp-challenge-2/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
+For Static Comp 2, I again wanted to design something that could be a functional product, so I created a Turing "directory" to be used as a way to connect with other Turing students & staff. The site has a profile card for students with relevant links and info related to their Turing career. This was almost like a "Private Facebook" that was specific to this organization and in the context of web development in regards to the content and functionality of the page.
 
-(evaluation comments)
-
-(evaluation scores)
+Feedback I received on this project was to consider a max-width on the page so that it was closer to the comp. The way I designed it allowed for many cards to be added on the page and for each card to fill in as one long row as long as the screen width would allow. Sticking closer to the comp (4 cards per row) could have been better UI for large screens. I also could have switched to the small mobile view at a greater width to avoid an unnecessary media break with the nav links. Overall, I received positive feedback, specifically on my very simple heading-bar on mobile view.
 
 ---
 
@@ -56,7 +60,7 @@
 * [GitHub URL](https://github.com/danielafcarey/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+Number Guesser is an app that generates a random number between 0 and 100 and allows a user to try to guess that number. The app will give feedback on the users' guesses until they guess the right number and then the user can play again. Alternatively, the user can enter their own range to guess from and the app will generate a random number between that range. 
 
 ##### Evaluator: Nathaniel Foster
 
@@ -82,16 +86,16 @@ _Notes/What To Work On:_
 
 ### Projects
 
-(Intro)
+The best part about the group projects was how much I learned from my partners. Group projects, while sometimes requiring more time to complete, bring in two great minds and skillsets and gave me the opportunity to learn new skills, methods, and techniques that I may not have been exposed to if I were working alone. Additionally, I loved problem-solving with my partners because you have double the brain-power. 
 
 ---
 
 #### Linked List
 
-* [GitHub URL](https://github.com/danielafcarey/linked-listhttps://github.com/danielafcarey/ds-comp-challenge-1)
+* [GitHub URL](https://github.com/danielafcarey/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+For this project, we created an app that allowed a user to store links in a list. The user could add a title, mark the links as read, and delete them. The app also showed the user the total counts of links, unread links, and read links. I learned a lot from Tyler on this one with CSS and this was right about the time we were learning jQuery, so we were able to get our feet wet using a little jQuery in our javascript file. Tyler and I were able to finish all phases of the project and add a few small UI improvements (2 columns of link cards on wide-screens). Additionally, we both became more comfortable with the git/github process by struggling through it for this project :)
 
 ##### Partner: Tyler McNamara
 ##### Evaluator: David Whitaker
@@ -132,9 +136,6 @@ Exceptional: You completed Phase Three and did something with Phase Four.
 ###### Surprise and Delight (optional category, but reminder: have fun!)
 * Hot Fire
 
-##### Feedback from Tyler: 
-> “I think Daniela did a great job on this project. She was willing to work hard and opened up her schedule so that we were able to complete a good portion of it within the first couple days. She had a great grasp on the javascript / JQuery fundamentals so that we were able to jump into the project without needing to coach each other much & when we came across a problem neither of us could solve we worked well together to find a solution. There were only a couple improvements I could offer, ones that I need work on as well which this first pairing process taught me, become more comfortable with Github so partners work more efficiently when apart and double check for any issues in the code before completing the project. Great first pairing experience and very happy with the final product!”
-
 ---
 
 #### Idea Box
@@ -142,7 +143,7 @@ Exceptional: You completed Phase Three and did something with Phase Four.
 * [GitHub URL](https://github.com/danielafcarey/idea-box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+IdeaBox is an app that takes a user's input of an idea title and idea and puts it into a list to store for the user. Each idea can have a quality that the user can change from the idea card and a delete button to remove the idea from the list. This was our first project that used local storage, so it was definitely a challenge to figure out how to implemenet that. The best part about this group project was problem-solving with my partner. We did miminal work separately and mostly worked side-by-side so it was helpful to have to talk through problems outloud as we tried to solve them. 
 
 ##### Partner: Jack Laird
 ##### Evaluator: Nathaniel Foster
@@ -206,9 +207,6 @@ Style
 ###### Collaboration
 * Proficient Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
 
-##### Feedback from Jack: 
-> "Working with you on IdeaBox was really fun! Your ability to self teach new concepts and implement them was a huge part of why we were able to get so much done on our project. I found that we were able to get along well and this both helped and hurt our efficiency throughout the work process. I felt really comfortable trying new things and bouncing ideas off you. I would also get distracted talking to you about something off topic but I believe that this served as a nice break from our task. You always were able to work around my schedule and I really appreciated your adaptability. I felt like I got left behind when you wrote the search function and I never got a full explanation on it. We worked on almost every other aspect of our script together so our communication on that particular function was a little less natural. In the future I’d suggest making sure that your partner understands something you did on your own before moving on. Working with you really helped me to develop my ability to collaboratively problem solve and I feel a lot more fluent in JavaScript and Jquery. I enjoyed being partnered with you and hope we are paired up again in the future!"
-
 ---
 
 #### 2Do Box Pivot
@@ -216,7 +214,7 @@ Style
 * [GitHub URL](https://github.com/danielafcarey/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+2Do Box Pivot was an extension of the previous project, IdeaBox. We inherited an IdeaBox codebase and had to refactor it and pivot to a to-do list with similar features and a few additional. This app stores to-do items in local storage for a user, who can change the importance on, mark as completed, or delete ideas. One of our first early challenges was refactoring the existing code. We found it difficult to find the boundary between refactoring too much and still maintaining the spirit of the original code. Similar to the last project, Sage and I did most of our work together, which provided for great learning and problem-solving together. 
 
 ##### Partner: Sage Vogt
 ##### Evaluator: David Whitaker
@@ -307,42 +305,41 @@ Style
 * Exceptional
 
 
-##### Feedback from Sage: 
-> (insert feedback)
 
 ## D: Professional Skills
-(Intro)
+
+This mod, we learned about stress management, how to work with different personalities, how to master difficult things, and the value of learning through teaching. 
 
 ### Gear Up
-#### Health & Wellness - Stress Management (1/26)
+#### Health & Wellness - Stress Management
 
-* [Slide Presentation](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit#slide=id.p3)
+* [Managing Stress](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit#slide=id.p3)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This session we discussed the different types of stress and different types of self-care to manage that stress. I found this to be an extremely valuable session to have at the beginning of the mod so that I could mentally prepare and set goals to manage my stress in the coming weeks. It helped to have the time to self-reflect and determine where my known weak points were in terms of managing stress so that I could be proactive about manging those areas throughout the mod. I challenged myself to reflect after every week of this mod as a small check-in to make sure I was staying on top of my wellness. 
 
-#### Working Styles (1/31)
+#### Working Styles
 
-* [GitHub URL]()
+* [Github URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+During this session, we discussed different working styles specifically related to introversion and extroversion. We identified where we each stand and were able to hear insights from all across the intro-/extro- spectrum. Hearing this was valuable, especially going into our first paired project. I was challenged to consider these differences not as hurdles, but as differences to embrace as each person brings a different strength and perspective to the table when working on a project together. 
 
-#### Getting Better at Difficult Things (2/9)
+#### Getting Better at Difficult Things
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This gear up resonated with me so strongly. I was challenged to consider how I am managing my congitive resources in general (reducing conginitive drip where I can) and to use this to learn new skills better and faster. I love the idea of splitting large, daunting skills into smaller skills to master so that as I master each of these, I master the larger skill. This method is how I approach problem-solving so it was helpful to think about applying this to learning. I loved the practical takeaways to utilize my resources to learn from high-quality, high-quantity examples so that these skills become second-nature to me. This was extremely useful this mod and even going into the pentathalon week I put this into practice by practicing over and over, even if I felt I had already learned the skill I needed for the eval. 
 
 #### Learning Through Teaching
 
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This session taught by Mod 4 students was a valuable discussion about what we can gain from being mentors. We discussed the concept that we learn better when we teach the content to someone else. We also discussed tips for reaching out to mentors, being a good mentee, and being a good mentor when that times. I am excited to use these tips as I move into Mod 2 and can help Mod 1 students. 
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+The Turing community is a valuable asset of Turing that I was not expecting going into my first mod. After week 1, I was blown away by how strong the community is and how supported I felt. I had multiple opportunities to contribute to the community within my own cohort through impromptu pairing sessions, sharing tips/tricks I learned on a project, and through our weekend study sessions. I loved the support from Mod 2 and took advantage of the pairing sessions and Mythical Creatures review. These opportunities are one of the things I'm most excited for when I'm in Mod 2 - pairing with the Mod 1 students.  
+
+Beyond this, I was an active member in the Armstrong Posse and loved the opportunity to connect with upper-mod students in my posse. I also connected with multiple Turing alumn to discuss a possible mentor relationship and get general advice on what life will be like after Turing. 
 
 ------------------
 
