@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-* I didn't enter the module with any specific expectations except for immersing myself in an environment conducive to learning how to code.  I had been working on coding on my own, but felt my progress wasn't fast enough. I didn't have a community of like minded people to to learn from and talk to.  I feel like the community and immersion were very effective in the success of the mod for me.
+*  I didn't enter the module with the expectations of both immersing myself in an environment and to familiarize myself with the fundamentals of programming.  I had been working on coding on my own, but felt my progress wasn't fast enough, nor concrete enough. I feel I was successful in the first mod with my expectations, and feel I have enough of a concrete base with which to continue learning.
 
 ## Rubric Scores
 
@@ -16,7 +16,7 @@
 
 ## A: End of Module Assessment
 
-* I really actually enjoyed both the last paired assessment and the final individual assessment.  I got caught up on reading the specs for the individual assessment and really was aware of what I would want to change and going forward.  I also got some really good feedback during the final paired assessment as to approaches to take in building out code past just the low hanging fruit for the specs themselves and looking forward as to what the eventual end goal will be to make it easier for yourself moving forward. As we close out this module I feel positive about my experiences.  Looking back, I am surprised about how far we have come in six weeks.  Turing seems to always push the envelope, to never let you feel comfortable.  It was difficult but in a good way, and I feel ready for more.
+* I really actually enjoyed both the last paired assessment and the final individual assessment.  I started to get sidetracked by not reading the specs correctly for the individual assessment but felt I recovered well, and was able to make up time once I got on track. At the end of it and after having some time to think about it, I was really was aware of what I would want to change to make it better. As we close out this module I feel positive about my experiences.  Looking back, I am surprised about how far we have come in six weeks.  Turing seems to always push the envelope, to never let you feel comfortable.  It was difficult but in a good way, and I feel ready for more.
 
 
 ## B: Individual Work & Projects
@@ -28,7 +28,7 @@
 * [GitHub URL](https://github.com/nergdnvlt/HTTP)
 * [Original Assignment](http://backend.turing.io/module1/projects/http_yeah_you_know_me)
 
-* This project was interesting for me.  It started really rough, but as I got into it, and familiar with the tools it started to make sense.  I can absolutely see the use of the project and having to fumble our way through the first couple iterations.  It showed really how a server interacts and the functionality at a very basic level.
+* This project was interesting for me.  It started really rough, but as I got into it, and familiar with the tools it started to make sense.  I can absolutely see the use of the project and to fumble our way through the first couple iterations.  It showed really how a simple server interacts and its functionality at a very basic level.
 
 Evaluation comments:
 * Nice to see Response as Module. While it might not be the best case to use a module, it is good to see you thinking about how to use not only classes but Modules and/or superclasses to refactor code.
@@ -49,7 +49,7 @@ Scores:
 * [GitHub URL](https://github.com/nergdnvlt/p_journey)
 * [Original Assignment](http://backend.turing.io/module1/projects/perilous_journey)
 
-* This project was interesting conceptually for me. The linked list data structure made sense to me, but I feel that Ruby's built in methods for handling arrays much more intuitive and smooth than a linked list.  It almost feels like an archaic data type, but building it made it clear how much abstraction high level languages use to make them more human friendly.
+* This project was interesting conceptually for me. The linked list data structure made sense to me, but I feel that Ruby's built-in methods for handling arrays much more intuitive to use than a linked list.  From the level of a higher level language, a linked-list almost feels like an archaic data type. However, building it made it clear how much abstraction in higher level languages makes them more human-friendly.
 
 Evaluation comments:
 
@@ -70,7 +70,7 @@ Scores:
 * [GitHub URL](https://github.com/nergdnvlt/cards)
 * [Original Assignment](http://backend.turing.io/module1/projects/flashcards)
 
-* This project is interesting to look back on.  At the time I had absolutely no conception of classes or methods or TDD.  All these were brand new concepts and its incredible how much I've learned in the mod. Today creating classes, methods, using TDD are everyday activities.  It's really surprising to see how far we have actually come.
+* For me, this project is extremely interesting to look back on: I remember struggling a lot. Not knowing what to do, nor how to do it.  At the time I had absolutely no conception of classes or methods or TDD.  All these concepts were brand new and it is incredible how much I've learned in such a short period of time. Now classes, methods, and TDD are so basic and fundamental.  It's really surprising to see how far we have actually come.
 
 
 Evaluation comments:
@@ -102,27 +102,28 @@ Scores:
 * [GitHub URL](https://github.com/nergdnvlt/black_thursday)
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
-* I really struggled with this project, and used my classmates as references a lot. I found being forced to ask for help a really different and rewarding challenge. It forced me to evaluate what I was really needing to ask and thus understand the question more thoroughly. The most important technical aspect of this project to me became the methodology of passing information across the map through the sales engine. I imagine that this skill is going to be very important going forward as all data is not going to be in the same place.  
+* I essentially did this project alone and really struggled with it. I think the only way I really got through it was by using my classmates as references. I am not used to having to ask for help and found being forced to ask was a really different type of challenge. It forced me to evaluate what I was really needing to ask and thus understand the problem more thoroughly. The most important technical aspect of this project to me became the methodology of passing information across each level the map through a central hub. I imagine that this skill is going to be very important going forward as all data is not going to be in the same place.  
 
 Evaluation comments:
-
-*
+* Break methods up, and use best practice naming conventions.
 
 Scores:
-* Ruby syntax and style: x
-* Breaking logic into components: x
-* TDD: x
-* Functionality: x
-* Version control: x
+* Ruby syntax and style: 2
+* Breaking logic into components: 3
+* TDD: 3
+* Functionality: 3
+* Version control: 3
+* Code Sanitation: 4
 
-(feedback to me)
+Feedback from partner
+* I would like to accentuate that I did this project almost entirely alone.
 
 #### Enigma
 
 * [GitHub URL](https://github.com/nergdnvlt/enigma-)
 * [Original Assignment](http://backend.turing.io/module1/projects/enigma)
 
-* Enigma was interesting because I really enjoyed the logical challenge of the encryption. I originally built a method that turned out to be almost impossible to reverse the pattern of, which caused us to delete the entire encryption method.  I think this in itself was a valuable lesson to me: if something is not working or doesn't work the way you want it's better to just star
+* Enigma was interesting because I really enjoyed the logical challenge of the encryption. I much more enjoyed the process of reasoning out a method to encrypt data, then simply pass data around in Black Thursday.  This project also contained some data passing and parsing in regards to the key and offset, so I think I would pick this as my favorite. Another important lesson I learned from this project is that I originally built a method which was almost impossible to use for decryption - so we scrapped the entire encryption method.  It taught me, in summation: if something is not working or doesn't work the way you want it's better to just start over.
 
 Evaluation Comments:
 * Not all methods got unit tested.
@@ -143,50 +144,49 @@ My feedback:
 
 ## D: Professional Skills
 
-* I have a lot of solid leadership and time management skills from the Army and my time in construction project management. However it seems like almost everyone has these soft skills in some form or other, so my overall goal is to back these soft skills up with some valuable hard skills that can propel an actual career forward.
-
+* I have a lot of solid leadership and time management skills from the Army and construction project management. However, it seems like almost everyone has these soft skills in some form or other. I want to add a set of hard skills, practical skills which there is also a market for to my repertoire.
 
 ### Gear Up
 
-* Below are the Gear Up sessions for Module 1.
+* Below are the Gear Up sessions for Module 1:
 
 #### Mod4 - Relax
 
 * Slack Channel: relax
 
-* What I got out of this Gear Up was essentially some really great ideas.  I had never heard of immersion tanks before and they seem super intriguing. It was also interesting hearing other people's methods for relaxation and the surprise from finding similar
+* I got some really great ideas out of this Gear Up.  I had never heard of an immersion tank before and they seem intriguing. It was also interesting hearing other people's methods for relaxation and the surprise from finding similar methods in strange places. For example one of my favorite ways to decompress, especially on the bus is to put on an audiobook and zone out.  I was really surprised that other people liked audiobooks as well. Overall, though, it was good just to reinforce all these relaxation strategies by talking about them.
 
 #### Personal Story/Strengths
 
 * [Github Repo](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
 
-* I had a hard time with this Gear Up, as I am a really strong introvert.  I don't particularly like sharing my story in this format.  I do, however, understand that developing my personal story is important to telling a powerful story which will eventually assist getting a job I'll be happy with. I think it would be more beneficial to develop the story first though, and then sharing it rather than sharing as you are trying to build it.
+* I had a hard time with this Gear Up, as I am a really intense introvert.  I don't particularly like sharing my story, nor talking about myself.  I do, however, understand that developing my personal story is important to tell a powerful story which will eventually assist my efforts in finding a rewarding job. Although, I think it would be more beneficial to develop the story first though, and then sharing it rather than sharing as you are trying to build it.
 
 
 #### Dealing with Difference: Introvert & Extrovert
 
 * [Github Repo](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
-* The Dealing with Difference Gear Up was useful in the sense in that it forced us to recognize our styles in interacting with other people.  I often times have a hard time in interactions with people that I don't consider close friends.
+* The "Dealing with Difference" Gear Up was useful in the sense in that it forced us to recognize our styles in interacting with other people.  I often times have a hard time in interactions with people that I don't consider close friends. So reiterating that people are different, work differently, and handle social situations differently and that it's all ok was a worthwhile thing to do.
 
 #### Getting Better at Difficult Things
 
 * [Github Repo](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
-* This Gear Up really resonated with me.  I was not aware that we actually do have limited cognitive resources and need to prioritize our efforts.  I don't think I've ever found anything really challenging enough that I had to step back because I had used up my resources until Turing.  Here, though, I have to do it often.  It is also something that I've enjoyed, I like being forced to think, to problem solve.
+* This Gear Up really resonated with me.  I was not aware that we have limited cognitive resources and thus need to prioritize our efforts.  I don't think I've ever found anything really challenging enough that I had to step back because until Turing.  Here, though, I have to do it often.  It is also something that I've enjoyed - I like being forced to think, to solve new and different problems (at least new to me).
 
 #### Growth Mindset
 
 * [Github Repo](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-* I love growth mindset. And I love the emphasis people are putting on growth mindset these days.  I don't really believe in a lot of positive reinforcement, I think esteem should be self generated, and the best way that I have experiences is through growth mindset.  I know there are limitations; but my general belief in life is that if someone else can do something, I can do it as well. I also think it is important in keeping perspective, just because you hit an obstacle or road block does not mean it is insurmountable - a lot of times all it takes is effort and hard work.
+* I love growth mindset. And I love the emphasis people are putting on it these days.  I don't really believe in positive reinforcement - I would rather know what I need to do better. Also though, I think esteem should be self-generated, and the best way that I have experienced this is by using a growth mindset.  I know there are limitations; but my general belief in life is that if someone else can do something, I can do it as well. I also think it is a mindset that places importance in keeping perspective: just because you hit an obstacle or roadblock does not mean it is insurmountable. A lot of times all it takes is effort and hard work.
 
 
 ## E: Community Participation
 
 ### Playing a Part
 
-* Honestly I wish I would've done more for the Turing community, that is my goal going forward.  This mod, I was essentially just trying to get my bearings and find a path forward. I have however formed some really good friendships that I already feel will be lasting.  I've tried to be helpful by sharing things that have worked for me, or things that caught me off guard and might be of benefit for others to watch out for. Going forward though, I would like to maybe be a TA for Try Turing events, and perhaps act as a mentor.  I also wish I had more interaction with my own mentor.
+* This mod, I was essentially just trying to get my bearings and find a path forward. I have formed some really good friendships that I already feel will be lasting.  I've tried to be helpful by sharing things that have worked for me, or things that caught me off guard and might be of benefit for others to watch out for. Going forward though, I would like to maybe be a TA for Try Turing events and perhaps act as a mentor.  I also wish I had more interaction with my own mentor.
 
 ------------------
 
