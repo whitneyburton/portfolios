@@ -36,6 +36,13 @@
   * I generally felt overwhelmed by the world of information that sort of opened up to us this module. It's exciting, but definitely overwhelming.
 
   * I learned how important it is for me to create structure for myself in order to be succesful. I need to get enough sleep, and make it a habit to spend time practicing coding and preparing for classes daily. Towards the end of the module, I got a little bit lax about these habits and I felt I fell behind on some things very quickly.
+  
+## Blog
+
+Link your blog post here. Include a short description of your topic (one sentence is fine).
+[https://sites.google.com/a/colorado.edu/anna-royer-blog/](My Blog Post) 
+
+This blog post is on how to open a rails project locally in production. It is based on the beginning of the lesson we had on the asset pipeline. I felt it would be helpful to have these steps layed out very clearly to return back to later.
 
 ## Projects
 
