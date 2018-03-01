@@ -12,3 +12,69 @@
 
 # What is the most important skill or lesson that you will take from Turing into your next job?
   * The most important lesson I will take after turing is the ability to tackle challenges. To work hard and the rest will come. To not stress out but to keep going and find solutions to problems that people are encountering.
+
+
+# 30 Day Plan
+
+### Full Time Position Date by April 1, 2018.
+
+## MONTHLY GOALS:
+  * Attend Meetups
+  * Have apply to 15 different positions
+  * Grow my network
+  * Learn a new technology
+
+## WEEKLY GOALS:
+  * Build new projects
+  * Attempt at least 3 coding challenges
+  * Attend 2 meetups
+
+DAILY GOALS:
+  * Code for at least 3-4 hours
+  * Keep up to date
+  * Look for Jobs for 2 hrs
+  * Find new leads
+
+DAILY PRACTICE REPO
+I will be doing code challenges.
+
+PEOPLE I WILL TALK TWO
+  * Ricardo Lasa (CEO of Sitewit)
+    * Get advice
+    * Possible job offer
+    * Industry in Florida
+  * Jason Douglas
+    * Talk about possible job offer
+    * How to find opportunities
+  * Jose Aparicio (Software Engineer self Thought)
+    * Point me to companies he applied when he started
+
+MEETUPS
+  * Tampa Ruby Brigade: Planning to give a technical talk
+  * Wyncode Events Miami: Companies hired from that bootcamp
+  * Find a Hispanic Meetup
+
+Job Tool: JobTrack
+  * Helps me be organize
+  * Can write notes about features of the company so I do not have to research them twice
+
+IMPROVE ON MY INTERVIEW PRACTICE
+
+  * I will like to improve my elevator pith
+  * I will like to do more coding challenges
+
+LINKEDIN PROFILE
+
+I have updated my LinkedIn profile with my new resume and updated with every new skill I have learned.
+
+Check-In
+I will check in with my coach and the instructors.
+
+BARRIERS
+None that I can think of now but definitely will mention them if I encounter one.
+
+PD Group
+I will definitely check in with all my PD Group every week.
+
+JOB SKILL
+I think I am really skill at making new connections and if I find a particular thing that I do different I will mention it.
