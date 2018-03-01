@@ -240,4 +240,10 @@ Overall this has been the mod that I've struggled through the most but with that
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3.5
+
+OUTCOME: PASS
