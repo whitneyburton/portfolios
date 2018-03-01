@@ -2,8 +2,7 @@
 
 ## Areas of Emphasis
 
-As Beyoncé says:
-![Beyoncé gif that says, "I slay."](https://media.giphy.com/media/3o6gb7cN7bwDxAbnS8/giphy.gif)
+During the past six weeks my focus was on asynchronous Javascript, consuming APIs, testing with Jest and Enzyme, and mastering the React / Redux / Router stack for frontend applications. I also used my personal project as an opportunity to create a backend for my app using Express and Node.js.
 
 ## Rubric Scores
 
@@ -12,6 +11,10 @@ As Beyoncé says:
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 4
 * **E: Community Participation**: 4
+
+As Beyoncé says:
+
+![Beyoncé gif that says, "I slay."](https://media.giphy.com/media/3o6gb7cN7bwDxAbnS8/giphy.gif)
 
 -----------------------
 
