@@ -228,8 +228,13 @@ I think, as a whole, the larger Turing Community supported me this mod. I had be
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Great work this mod, keep pushing
 
 ### Outcome
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: 4
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3.5
+D: Professional Skills: 4
+E: Community Participation: 3.5
+Outcome: PASS
