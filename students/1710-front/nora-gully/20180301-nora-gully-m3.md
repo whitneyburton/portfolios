@@ -183,8 +183,15 @@ I am very community-minded and I did my best to participate at Turing on every l
 
 ### Notes
 
-( Leave blank for reviewers )
+- BE SELFISH
+- GET MONEY GET 4s
 
 ### Outcome
 
-( Leave blank for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
+
+OUTCOME: PASS
