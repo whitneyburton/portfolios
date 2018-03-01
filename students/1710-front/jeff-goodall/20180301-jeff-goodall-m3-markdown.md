@@ -119,7 +119,7 @@ The output from ESLint shows…
 
 ### Projects
 
-### HeadCount2.0
+## HeadCount2.0
 
 * [GitHub URL](https://github.com/goodalls/headcount2.0)
 * [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
@@ -158,7 +158,7 @@ The output from ESLint shows…
 
 - 3+ - Developer(s) make many small, atomic commits that document the evolution of the application but sometimes contain irrelevant changesets and inconsistent commit messages. Developer(s) use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing fresh changes directly to master. Pull requests may contain little or no code review. There may be slight instances where the developer(s) have committed source code that should be .gitignored. There may be some instances of "dead" or commented-out code and debugger statements like console.log that need to be cleaned up.
 
-#### MovieTracker
+## MovieTracker
 
 * [GitHub URL](https://github.com/goodalls/movie-tracker-2)
 * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
