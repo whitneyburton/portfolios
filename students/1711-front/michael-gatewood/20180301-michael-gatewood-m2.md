@@ -27,7 +27,7 @@ _What did you notice changed in your study habits from the previous inning to th
 I spent more time this inning studying and working through problems with others.  While in terms of execution, I work better alone; I am finding that learning from others' knowledge and experience is an invaluable process that cannot be ignored.  Because I was so challenged with these projects, I found it more difficult to read-ahead.  This negatively impacted my learning and created a cycle where I felt like I was constantly playing catch-up.  In M3, I will place this priority above all others.
 
 ### Sorting Suite
-* **Outcome:** _Pass/Fail_
+* **Outcome:** Pass
 
 _What did you enjoy about Sorting Suite? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
