@@ -32,6 +32,9 @@ I contributed to the Turing community by engaging with multiple posses, the Easl
 What would you like to do to contribute next module?
 Next module I would like to continue my outreach to students in modules below me and make myself available for heling.  I would also like to stay involved in the machine learning posse and help to make this a productive and interesting time.  Additionally I would like to network outside of turing, within meetups and other coding related events.  Although this sounds self-motivated, I think it has a dual aspect.  I have a friend and mentor that I have brought to Turing to help with projects, and have shown him around turing and introduced him to fellow students as a possible mentor relationship.  After this, he became interesting in possibly recruiting from turing and I forwarded him necessary information.  I would also like to attend more turing events, such as code demos and python pals.  I have really enjoyed seeing other people's projects in code demos and have gotten ideas for personal projects from here.  I would like to be part of this also as a way to put additoinal 'front-end' pressure on myself to really focus on user interface.  In this same vein I would like also build relationship horizontally across mods (BE & FE), something our mod has not been great at.  I think both mods can learn a lot from each other - not to mention building additional relationships and growing your personal network.  
 
+## Blog Link 
+https://medium.com/@amj_81362/google-deepmind-and-the-turing-test-2e9562f5efa4
+
 ## Self-Assessment Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module.
