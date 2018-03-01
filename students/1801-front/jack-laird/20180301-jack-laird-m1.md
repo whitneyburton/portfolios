@@ -6,17 +6,17 @@ For module 1 I set out to learn the fundamentals of HTML, CSS and JavaScript as 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: TBD
-* **B: Individual Work & Projects**: TBD
-* **C: Group Work & Projects**: TBD
-* **D: Professional Skills**: TBD
-* **E: Community Participation**: TBD
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
 
 -----------------------
 
 ## A: End of Module Assessment
 
-TBD
+Pending
 
 ## B: Individual Work & Projects
 
