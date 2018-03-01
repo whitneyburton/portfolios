@@ -31,78 +31,78 @@ My main focus during my group projects this mod was to spend time learning all o
 
 #### (Static Comp #2)
 
-* [Static-Comp2 GitHub](https://github.com/Awiedenman/2-static-comp)
-* [Static-Comp2 GitHub Pages](https://awiedenman.github.io/2-static-comp/)
+* [Static-Comp2 Github](https://github.com/Awiedenman/2-static-comp)
+* [Static-Comp2 Github Pages](https://awiedenman.github.io/2-static-comp/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
 #### (Static Comp #3)
 
-* [StaticComp3 GitHub](https://github.com/Awiedenman/3-static-comp)
-* [Static-Comp3 GitHub Pages](https://awiedenman.github.io/3-static-comp/)
+* [StaticComp3 Github](https://github.com/Awiedenman/3-static-comp)
+* [Static-Comp3 Github Pages](https://awiedenman.github.io/3-static-comp/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 #### (Number Guesser)
 
-* [Scores for numberGuesser] (https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/number-guesser/austin-wiedenman.md)
-* [Original Assignment] (http://frontend.turing.io/projects/number-guesser.html)
+* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/number-guesser/austin-wiedenman.md)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-*[nuberGueser repo] (https://github.com/Awiedenman/number-guesser2)
+*[numberGueser Github repo](https://github.com/Awiedenman/number-guesser2)
 
 Build a game where the user guesses a number between 1 and 100.
 
+#### evaluation comments:
 "Work on eliminating global variables.  Great job on single use functions and keeping your code very clean."
 
 * [Scores for numberGuesser] (https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/number-guesser/austin-wiedenman.md)
 
-* [Scores for linkedList](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/austin-kent.md)
+#### (Linked List)
+* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/austin-kent.md)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
-*[linkedList repo]([linkedList repo]())
+*[linkedList Gitrepo](https://github.com/Awiedenman/linked_list2)
 
 
 In it’s simplest form, the application to store website links.
 In it's simplest for it must include two input fields, One for the title of the bookmark, One for the URL that the bookmark should link to, One button for creating the bookmark and adding it to the page, and section for all of the created bookmarks. Each bookmark should display,The title of the bookmark, The URL of the bookmark (this should be clickable and link to the URL), A button to “Mark as Read”, A button to “Remove” the bookmark. 
 
+#### evaluation comments:
 "Proficient: Application meets all of the functional expectations in Phase Three. Mostly through phase four links don't work - pay attention to details"
 
-
-[Scores for linkedList](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/austin-kent.md)
-
-(feedback to me)
 
 ## C: Group Work & Projects
 
 ### Projects
 
-Working in pairs is more complex than meets the eye.  I only really had one project this mod that my partner was involved in.  Woking with Krista was a great expereince.  She is extremely introverted in her working style and I am an extreme extrovert.  I think that we were able to overcome our differences in working styles throuhg clear and honest communication. 
+Working in pairs is more complex than meets the eye.  I only really had one project this mod that my partner was involved in.  Woking with Krista was a great expereince.  She is extremely introverted and I think that we both worked very hard to accomodate each other's learning stlyes.  I think that we were able to overcome our differences in working styles with patience, and through clear and honest communication. 
+
 
 #### (ideaBox)
 
-* [Scores for ideaBox](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/krista-austin.md)
+* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/krista-austin.md)
 * Original Assignment(http://frontend.turing.io/projects/ideabox.html)
 * GitHub URL(https://github.com/Awiedenman/ideabox2)
 
 Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we built an application for recording and archiving our ideas and indicating whether or not they were good or bad. Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 
+#### evaluation comments:
 "Hooray for body text not falling out of container when there are large amounts of text!
 Update CSS to make save button appear disabled
 Buggy - search sort of works, new line character showing up in local storage, persistUserData causing problems
 Nice job with organizing rules in CSS - easy to follow"
 
-* [Scores for ideaBox](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/krista-austin.md)
 
 #### (2doBox)
 
-* [Scores for 2doBox](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/austin-laura.md)
+* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/austin-laura.md)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 * [GitHub URL](https://github.com/Awiedenman/2DoBox)
 
 This project consisted of use taking the code from a pair of classmates and refactoring it. We were instructed to pivot the project into another project, were we created a platform that houses a to-do list in local storage. We also worked to better the ux/iu design and to add additional functionality to the filter.
 
-(evaluation comments)
+#### Evaluation comments:
+Use forEach when looping over an array. Stored repeatedly selected elements in variables.  Try to use a constructor function for 2dos
 
 * [Scores for 2doBox](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/austin-laura.md))
 
-(feedback to me)
 
 
 ## D: Professional Skills
