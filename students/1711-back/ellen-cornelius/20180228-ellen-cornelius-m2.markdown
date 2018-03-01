@@ -54,16 +54,16 @@ What are self-referential relationships? This is a pretty fancy name for somethi
 
 For example, let's say you have a gym with a bunch of members. Each member has an ID, name, date joined and referrer ID as columns. What is a referrer ID? At first you might think it is a foreign key that links to the primary key of a Referrers tables. But gym members who have referred other people to the gym are gym members themselves! So we must create a self-referential association on Members table that looks like this:
 
-![Schema for Gym Members](/self-referencing.png?raw=true)
+![Schema for Gym Members](self-referencing.png?raw=true)
 
 In your application, you would need to create a join table of Gym Members with Gym Members. Let's take a look at what the SQL output would be.
 
 Here is out Gym Members table:
 
-![Gym members self-join](/gym_members.png?raw=true)
+![Gym members self-join](gym_members.png?raw=true)
 
 And here is our Gym Members table joined to itself through referrer_ID:
 
-![Gym members self-join](/gym_members_join.png?raw=true)
+![Gym members self-join](gym_members_join.png?raw=true)
 
 *
