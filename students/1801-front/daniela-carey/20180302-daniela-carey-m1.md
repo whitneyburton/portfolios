@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Going into this mod, I set out to get a better understanding of basic front-end development skills so that I could continue to build on that foundation throughout my time at Turing. My goal was to focus on learning rather than just passing so that I felt confident in my skills before moving into Mod 2. To help accomplish this goal, I challenged myself to stay committed to my health and wellness by working out consistently and getting enough sleep. 
+Going into this mod, I set out to get a better understanding of basic front-end web development skills so that I could continue to build on that foundation throughout my time at Turing. My goal was to focus on learning rather than just passing so that I felt confident in my skills before moving into Mod 2. To help accomplish this goal, I challenged myself to stay committed to my health and wellness by working out consistently and getting enough sleep. 
 
 ## Rubric Scores
 
@@ -18,14 +18,14 @@ Going into this mod, I set out to get a better understanding of basic front-end 
 
 1. Individual Coding Challenge-A: **Pass**
 2. Individual Coding Challenge-B: **Pass**
-3. Final Project (Static Comp Challenge #3) -- **Pass**
+3. Final Project (Static Comp Challenge #3): **Pass**
 4. Comprehensive Quizlette: **Pass**
-5. Completed Portfolio **Pass**
+5. Completed Portfolio: **Pass**
 
 
 ## B: Individual Work & Projects
 
-The individual projects were a fun challenge and way a for my own personality to come out in the design and overall decisions that went into building them. Since we typically had group projects happening at the same time, these projects often served as a "break" from the group work and a time for me to zone in and focus without distractions. I also felt these were a good challenge for me since I didn't have a partner to help problem-solve.
+The individual projects were a fun challenge and a way for my own personality to come out in the design and overall decisions that went into building them. Since we typically had group projects happening at the same time, these projects often served as a "break" from the group work and a time for me to zone in and focus with less distractions. I also felt these were a good challenge for me since I didn't have a partner to help problem-solve.
 
 ---
 
@@ -35,11 +35,11 @@ The individual projects were a fun challenge and way a for my own personality to
 * [GitHub Page](https://danielafcarey.github.io/ds-comp-challenge-1/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-For Static Comp 1, I used my creative license on the comp to create a country profile on Haiti. I wanted to design something that could be a functional product, so I designed this page to be part of a database that has a similar profile on all countries. The site is responsive on desktop as well as mobile and I loved designing a clean mobile view from scratch since that was not part of the comp. 
+For Static Comp 1, I used my creative license on the comp to create a country profile on Haiti. I wanted to design something that could be a functional product, so I designed this page to be part of a database that has a similar profile on all countries. The site is responsive on desktop as well as mobile and I loved designing a clean mobile view from scratch since that was not layed out for us in the comp. 
 
 I started trying to use flexbox for this comp and after it became more of a headache than a design help, I decided to scrap it and redo the project using grid. I liked grid much more and felt my comp was more successful because of this pivot. 
 
-Feedback I received on this project was that my iamge was too big when resized to mobile. I also should have adjusted the spacing/font sizes of the header text and aligned my button icons with my button text better. Overall, the feedback was positive, specifically good feedback regarding the layout of my mobile view with the heading box overlayed on the background image.
+Feedback I received on this project was that my image was too big when resized to mobile. I also should have adjusted the spacing/font sizes of the header text and aligned my button icons with my button text better. Overall, the feedback was positive, specifically good feedback regarding the layout of my mobile view with the heading box overlayed on the background image.
 
 ---
 
@@ -51,7 +51,7 @@ Feedback I received on this project was that my iamge was too big when resized t
 
 For Static Comp 2, I again wanted to design something that could be a functional product, so I created a Turing "directory" to be used as a way to connect with other Turing students & staff. The site has a profile card for students with relevant links and info related to their Turing career. This was almost like a "Private Facebook" that was specific to this organization and in the context of web development in regards to the content and functionality of the page.
 
-Feedback I received on this project was to consider a max-width on the page so that it was closer to the comp. The way I designed it allowed for many cards to be added on the page and for each card to fill in as one long row as long as the screen width would allow. Sticking closer to the comp (4 cards per row) could have been better UI for large screens. I also could have switched to the small mobile view at a greater width to avoid an unnecessary media break with the nav links. Overall, I received positive feedback, specifically on my very simple heading-bar on mobile view.
+Feedback I received on this project was to consider a max-width on the page so that it was closer to the comp layout. The way I designed it allowed for many cards to be added on the page and for each card to fill in as one long row as long as the screen width would allow. Sticking closer to the comp (4 cards per row) could have been better UI for large screens. I also could have switched to the small mobile view at a greater width to avoid an unnecessary media break with the nav links. Overall, I received positive feedback, specifically on my very simple heading-bar on mobile view.
 
 ---
 
@@ -64,12 +64,10 @@ Number Guesser is an app that generates a random number between 0 and 100 and al
 
 ##### Evaluator: Nathaniel Foster
 
-_Notes/What To Work On:_
-
 ###### Functional Expectations
 * Advanced Beginner: Application meets all of the expectations of phase two.
 * Partial phase 3
-###### COMP RECREATION / DESIGN
+###### Comp Recreation / Design
 * Proficient
 ###### HTML
 * Proficient
@@ -95,7 +93,7 @@ The best part about the group projects was how much I learned from my partners. 
 * [GitHub URL](https://github.com/danielafcarey/linked-list)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-For this project, we created an app that allowed a user to store links in a list. The user could add a title, mark the links as read, and delete them. The app also showed the user the total counts of links, unread links, and read links. I learned a lot from Tyler on this one with CSS and this was right about the time we were learning jQuery, so we were able to get our feet wet using a little jQuery in our javascript file. Tyler and I were able to finish all phases of the project and add a few small UI improvements (2 columns of link cards on wide-screens). Additionally, we both became more comfortable with the git/github process by struggling through it for this project :)
+For this project, we created an app that allowed a user to store links in a list. The user could add a title, mark the links as read, and delete them. The app also showed the user the total counts of links, unread links, and read links. I learned a lot from Tyler on this project with CSS and this was right about the time we were learning jQuery, so we were able to get our feet wet using a little jQuery. Tyler and I were able to finish all phases of the project and add a few small UI improvements (2 columns of link cards on wide-screens). Additionally, we both became more comfortable with the git/github process by struggling through it for this project.
 
 ##### Partner: Tyler McNamara
 ##### Evaluator: David Whitaker
@@ -143,12 +141,11 @@ Exceptional: You completed Phase Three and did something with Phase Four.
 * [GitHub URL](https://github.com/danielafcarey/idea-box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-IdeaBox is an app that takes a user's input of an idea title and idea and puts it into a list to store for the user. Each idea can have a quality that the user can change from the idea card and a delete button to remove the idea from the list. This was our first project that used local storage, so it was definitely a challenge to figure out how to implemenet that. The best part about this group project was problem-solving with my partner. We did miminal work separately and mostly worked side-by-side so it was helpful to have to talk through problems outloud as we tried to solve them. 
+IdeaBox is an app that takes a user's input of an idea title and idea and puts it into a list to store for the user. Each idea can have a quality that the user can change from the idea card and a delete button to remove the idea from the list. This was our first project that used local storage, so it was definitely a challenge to figure out how to implemenet that. The best part about this group project was problem-solving with my partner. We did miminal work separately and mostly worked side-by-side so it was helpful to have to talk through problems out loud as we tried to solve them. 
 
 ##### Partner: Jack Laird
 ##### Evaluator: Nathaniel Foster
 
-##### Notes/What To Work On:
 ##### Functional Expectations
 * Proficient The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals.
 
@@ -214,7 +211,7 @@ Style
 * [GitHub URL](https://github.com/danielafcarey/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-2Do Box Pivot was an extension of the previous project, IdeaBox. We inherited an IdeaBox codebase and had to refactor it and pivot to a to-do list with similar features and a few additional. This app stores to-do items in local storage for a user, who can change the importance on, mark as completed, or delete ideas. One of our first early challenges was refactoring the existing code. We found it difficult to find the boundary between refactoring too much and still maintaining the spirit of the original code. Similar to the last project, Sage and I did most of our work together, which provided for great learning and problem-solving together. 
+2Do Box Pivot was an extension of the previous project, IdeaBox. We inherited an IdeaBox codebase and had to refactor it and pivot to a to-do list with similar features and a few additional features. This app stores to-do items in local storage for a user, who can change the importance on, mark as completed, or delete ideas. One of our first early challenges was refactoring the existing code. We found it difficult to find the boundary between refactoring too much and still maintaining the spirit of the original code. Similar to the last project, Sage and I did most of our work together, which provided for great learning and problem-solving together. 
 
 ##### Partner: Sage Vogt
 ##### Evaluator: David Whitaker
@@ -331,7 +328,7 @@ This gear up resonated with me so strongly. I was challenged to consider how I a
 
 #### Learning Through Teaching
 
-This session taught by Mod 4 students was a valuable discussion about what we can gain from being mentors. We discussed the concept that we learn better when we teach the content to someone else. We also discussed tips for reaching out to mentors, being a good mentee, and being a good mentor when that times. I am excited to use these tips as I move into Mod 2 and can help Mod 1 students. 
+This session taught by Mod 4 students was a valuable discussion about what we can gain from being mentors. We discussed the concept that we learn better when we teach the content to someone else. We also discussed tips for reaching out to mentors, being a good mentee, and being a good mentor when that time comes. I am excited to use these tips as I move into Mod 2 and can help Mod 1 students. 
 
 ## E: Community Participation
 
@@ -339,7 +336,7 @@ This session taught by Mod 4 students was a valuable discussion about what we ca
 
 The Turing community is a valuable asset of Turing that I was not expecting going into my first mod. After week 1, I was blown away by how strong the community is and how supported I felt. I had multiple opportunities to contribute to the community within my own cohort through impromptu pairing sessions, sharing tips/tricks I learned on a project, and through our weekend study sessions. I loved the support from Mod 2 and took advantage of the pairing sessions and Mythical Creatures review. These opportunities are one of the things I'm most excited for when I'm in Mod 2 - pairing with the Mod 1 students.  
 
-Beyond this, I was an active member in the Armstrong Posse and loved the opportunity to connect with upper-mod students in my posse. I also connected with multiple Turing alumn to discuss a possible mentor relationship and get general advice on what life will be like after Turing. 
+Beyond this, I was an active member in the Armstrong Posse and loved the opportunity to connect with upper-mod students in my posse. I also connected with multiple Turing alumni to discuss a possible mentor relationship and get general advice on what life will be like after Turing. 
 
 ------------------
 
