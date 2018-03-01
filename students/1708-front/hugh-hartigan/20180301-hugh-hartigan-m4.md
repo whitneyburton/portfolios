@@ -1,5 +1,8 @@
 # How was Turing for Hugh?
 
+[30 Day Plan](https://gist.github.com/HartiganHM/bc3dc6a4f77432746762515379b5be5e)
+[Slide Presentation](https://docs.google.com/presentation/d/1iFORtJqGzJ-nqIHCnhXqFNrOm--HX7uMX_zgWqyHyuI/edit?usp=sharing)
+
 ## Overview
 
 ### Biggest Achievements
