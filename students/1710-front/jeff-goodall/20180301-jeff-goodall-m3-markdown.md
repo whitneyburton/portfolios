@@ -20,10 +20,21 @@ passed
 
 ## B: Individual Work & Projects
 
-#### (Project Name)
+#### SWapi-Box
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/goodalls/swapi-box)
+* [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Farmers Market Finder
+
+* [GitHub URL](https://github.com/goodalls/farmers-market-finder)
+* [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
 (description)
 
@@ -37,12 +48,27 @@ passed
 
 (Intro)
 
-#### (Project Name)
+#### HeadCount2.0
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/goodalls/headcount2.0)
+* [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
 
-(description)
+HeadCount 2.0 is a project designed to challenge your skills at manipulating data and creating small, reusable React components.
+
+You will start the project by importing files containing various educational stats from districts within Colorado by year, per district.
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### MovieTracker
+
+* [GitHub URL](https://github.com/goodalls/movie-tracker-2)
+* [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
+
+This project is working off the The Movie DB API (https://www.themoviedb.org/documentation/api - note you'll need to go create an account to get an API key). The idea of the project is to be able to sign in as a user and save favorite movies. 
 
 (evaluation comments)
 
