@@ -233,4 +233,9 @@ In the Turing community, I have been an active member/leader of Joan Clarke Soci
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
+OUTCOME: PASS 
