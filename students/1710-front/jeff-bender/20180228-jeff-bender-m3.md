@@ -299,6 +299,16 @@ I always try and make time for my fellow students that just need someone to talk
 
 ### Notes
 
+- You should try leading an IronFE session 
+  - Teaching is going to expose gaps in your understanding 
 
 
 ### Outcome
+
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5 
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
+OUTCOME: PASS
