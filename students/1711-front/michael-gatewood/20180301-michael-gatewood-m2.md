@@ -1,4 +1,4 @@
-# MICHAEL GATEWOOD - M2 Portfolio
+# Michael Gatewood - M2 Portfolio
 
 ## Areas of Emphasis
 
