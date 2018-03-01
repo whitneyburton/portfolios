@@ -1,4 +1,4 @@
-# First Last - M2 Portfolio
+# Luke Chambers - M2 Portfolio
 
 ## Areas of Emphasis
 
