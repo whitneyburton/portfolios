@@ -66,6 +66,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 
 [Link to Medium post](https://medium.com/@kylesallette/the-beginning-of-voice-recognition-4f03d0b1f54d)
+
 [Link to Parable of the Polygon/Automation/Group Think](https://gist.github.com/kylesallette/59daa073671ee61503a1eb439b6a6d02)
 [Link to Case Study with Mod 4](https://gist.github.com/kylesallette/8c1759aa83c5edd2f13ed77871202760)
 [Link to Empathy & privilege reflection](https://gist.github.com/kylesallette/4948e32fdbfb602304c59e5ad21ef79d)
