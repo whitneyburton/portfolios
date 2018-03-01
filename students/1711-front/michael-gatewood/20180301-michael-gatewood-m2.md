@@ -85,7 +85,7 @@ This lesson was on being able to succintly and authoratatively pitch your profes
 
 The Outreach and Networking less provided various methods to increase your network.  This includes networking with peers, faculty, staff and alumni at Turing; going to meetups and engaging with others in your industry; and cold outreaches to people of interest in your field.  Networking is not something that comes naturally to me or even something that I'm really comfortable with, so I appreciate any tips I can get in that regard.
 
-### Gear Up Sessions:**
+### Gear Up Sessions:
 
 #### Debugging the Gender Gap
 
