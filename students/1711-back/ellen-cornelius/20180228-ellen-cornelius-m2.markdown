@@ -66,4 +66,17 @@ And here is our Gym Members table joined to itself through referrer_ID:
 
 ![Gym members self-join](gym_members_join.png?raw=true)
 
+Our next step is to actually set these relationships on the model level. This is where reading the Rails documentation won't get you far. Before I knew about self-references, I thought that in Rails you were limited to belongs_to <some-table> and has_many <some-table> through: <some-table>. Actually, this is where a bit a Rails magic is happening. Let's say you had a belongs_to :members on your Members model. What this is actually equivalent to is this:
+
+belongs_to :member, class_name: "Member"
+
+But Rails doesn't need you to specify the class name because it assumes that when you say :members, the class name is going to be a model class called "Member." But what this means for us is that we can actually put ANYTHING after that belongs_to and then just specify what class we actually mean for Rails to find the model class. So our above example would turn into this:
+
+belongs_to :referrer, class_name: "Member"
+
+The referrer is what I'm going to call Members who have referred other members to the gym. This is how I can distinguish the Member's ID column from a Referrer's ID column. So our SQL joins table looks like this:
+
+![Gym members self-join](new_gym_members_join.png?raw=true)
+
+And there you have it! A table and model class which links to itself.
 *
