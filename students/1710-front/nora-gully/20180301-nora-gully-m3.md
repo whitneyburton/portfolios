@@ -158,7 +158,7 @@ This was a very thought-provoking session that we had with Erin. We all benefit 
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-This was a discussion that involved a game we played about segregation and redlining. The idea was that similar people don't necessarily mean to flock together, but they generally do. The question was whether it is ethical to enact quotas to help segregated areas become less segregated, because in doing so, everybody wins. The natural parallel was to 
+This was a discussion that involved a game we played about segregation and redlining. The conceit was that similar people don't necessarily intend to flock together, but they generally do by default. The question was whether it is ethical to enact quotas to help segregated areas become less segregated, because in doing so, everybody wins. The natural parallel was to hiring the tech world - people tend to hire others who remind them of themselves. However, research shows that diverse teams make better products and clearly that's why innovative companies make a concerted effort to recruit people from nontraditional backgrounds. 
 
 #### Ethics in AI
 
