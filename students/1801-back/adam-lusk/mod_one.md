@@ -1,55 +1,55 @@
 Adam Lusk M1 Portfolio
 
 Areas of Emphasis
--object oriented programming
--Ruby
--computer science
--professional development
+object oriented programming
+Ruby
+computer science
+professional development
 
 Rubric Scores
--A: End-of-Module Assessment: 2
--B: Individual Work & Projects: 2
--C: Group Work & Projects: 3
--D: Professional Skills: 3
--E: Community Participation: 3
+A: End-of-Module Assessment: 2
+B: Individual Work & Projects: 2
+C: Group Work & Projects: 3
+D: Professional Skills: 3
+E: Community Participation: 3
 
 
 A: End of Module Assessment
--Paired Assessment: All 3's except for 2 on completion
+Paired Assessment: All 3's except for 2 on completion
 
 
 B: Individual Work & Projects
--A summary of three projects, all mostly incomplete upon submission.
+A summary of three projects, all mostly incomplete upon submission.
 
 
 Flash Cards
--Repo: Repo not working
--Write a flashcard program that is used through the command line.
+Repo: Repo not working
+Write a flashcard program that is used through the command line.
 
 Notes: 
--Issues Creating Repo
--No Runner
--Lack of edge case testing
--Tests are not focused
--Assertions not specific enough (using too much instance_of)
+Issues Creating Repo
+No Runner
+Lack of edge case testing
+Tests are not focused
+Assertions not specific enough (using too much instance_of)
 
--Ruby Syntax & Style: 3
--Breaking Logic into Components: 3
--Test-Driven Development: 2
--Functionality: 2
+Ruby Syntax & Style: 3
+Breaking Logic into Components: 3
+Test-Driven Development: 2
+Functionality: 2
 
 
 Date Night
 
--https://github.com/Vadlusk/date_night
--Build a binary search tree and many associated methods.
+https://github.com/Vadlusk/date_night
+Build a binary search tree and many associated methods.
 
 Notes: project mostly incomplete
 
--Ruby Syntax & Style: 3
--Breaking Logic into Components: 3
--Test-Driven Development: 3
--Functionality: 1
+Ruby Syntax & Style: 3
+Breaking Logic into Components: 3
+Test-Driven Development: 3
+Functionality: 1
 
 HTTP, Yeah You Know Me!
 
