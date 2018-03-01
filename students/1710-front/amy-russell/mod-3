@@ -50,6 +50,18 @@ Movie tracker involved using React, Redux, and Router to create an app that let'
 
 * [Evaluation Scores]https://github.com/turingschool/front-end-submissions-public/blob/master/1710/mod-3/movie-tracker/nora-amy-jeff/scores.md
 
+#### Roastr 
+
+* [GitHub URL]https://github.com/amy-r/Portafilter
+* [Original Assignment]http://frontend.turing.io/projects/self-directed-project.html
+
+I wanted to create an application that would improve someone's life. I spend a lot of my time in coffee shops, and wanted to give back, so Jordan 
+approached Elle Jenson, a local café owner and asked her detailed questions about her the way her business operates, what her biggest struggles are, 
+and how she could foresee technology alleviating some of those headaches. We landed on an application that better organizes her coffees, while
+seamlessly communicating with the roasters that sent them. We used React, Redux, Router, and the sendgrid API to automatically fire emails
+when a form is filled out. 
+
+* [Evaluation Scores]https://github.com/turingschool/front-end-submissions-public/tree/master/1710/mod-3/personal-projects/AmyRussell-JordanQuinn
 
 ### Gear Up
 #### Microagressions
