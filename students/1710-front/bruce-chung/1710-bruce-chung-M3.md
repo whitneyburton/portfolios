@@ -47,9 +47,6 @@ The output from ESLint shows…
 Workflow
 3 
 
-## B: Individual Work & Projects
-
-(Intro)
 
 #### Personal Project - News-Rater
 
@@ -58,15 +55,32 @@ Workflow
 
 Final project of the mod.  The idea is to rate news based on an url input, so that fake news might be detected (or an indication of how likely the news is to be real). The url is first sent to a crawler to break out data into a meaningful object, and then the author, organization, and text are sent to Google Scholar, the Better Business Bearu Api, and the Watson TOne analysis api respectively.  Scores are then normalized and aggregated into a single number (0-100).
 
-(evaluation comments)
+Completion
+3: Developer completed most of the user stories and requirements set during check-ins.
 
-(evaluation scores)
+CSS/Design
+3+ - Developer has made intentional design decisions to create a user friendly application but Louisa would be mad. Attempts to follow 10 Essential Usability Guidelines.
+
+Code Quality
+3+ - Developer selected appropriate libraries and frameworks to build the app but did not use them as intended. Significant refactoring necessary.
+
+Redux Architecture
+3: All state changes are handled by Redux with exeception to Controlled Forms. Actions and Reducers are simple. Containers don't hold unnecessary data.
+
+Code Sanitation
+The output from ESLint shows…
+4 - Zero complaints
+
+Testing
+3 - A valid attempt was made to test functionality with obvious gaps where functionality is not tested
+
+Workflow
+3
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
 
 #### Headcount 2.0
 
@@ -77,17 +91,23 @@ Used react to sort through school district data and compare.  First project of t
 
 Specification Adherence
 3 - The application completes all 5 iterations.
+
 Code Quality
 3 - Developer appears comfortable in React. There are minor opportunities to refactor.
+
 CSS/Design
 4 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has minimal recommendations for design changes. Follows 10 Essential Usability Guidelines.
+
 Testing
 4 - Every component is tested from both a unit and acceptance standpoint, all crucial functionality is tested
+
 PropType Implementation
 Pass - Proptype validation is implemented for any component receiving props.
+
 Code Sanitation
 The output from ESLint shows…
 4 - Zero complaints
+
 Workflow
 3+
 
@@ -99,14 +119,35 @@ Workflow
 
 Three person group using React, Redux, and Router to build a movie display.  Pulls from an Api and communicates with a backend to login users and save favorites.
 
-(evaluation comments)
+Specification Adherence
+3 - The application completes all 2 iterations.
 
-(evaluation scores)
+Code Quality
+3.5 - Developer appears comfortable in React. There are minor opportunities to refactor.
+CSS/Design
 
-(feedback to me)
+4 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has minimal recommendations for design changes. Follows 10 Essential Usability Guidelines.
+
+Testing
+2.5 - A valid attempt was made to test functionality with obvious gaps where functionality is not tested
+
+PropType Implementation
+Pass - Proptype validation is implemented for any component receiving props.
+
+Code Sanitation
+The output from ESLint shows…
+4 - Zero complaints
+
+Redux Architecture
+4: Appropriate components are wrapped in connected Redux container components. The Redux store contains all necessary application data and nothing more. All state changes are handled through Redux actions and reducers.
+
+Routing
+4: Application is a single page and uses the React Router to display appropriate components based on URL.
+
+Workflow
+4
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Microagressions
