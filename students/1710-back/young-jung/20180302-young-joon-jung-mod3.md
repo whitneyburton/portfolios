@@ -26,18 +26,18 @@ I struggled during this mod when it came to my learning, I felt very confident d
 
 > **[hiking-friends](https://shrouded-castle-30025.herokuapp.com/)**
 > **[Github Repo](https://github.com/seoulstice/hiking_friends)**
->* \<Description>
->* \<Takeaways, your experience>
+>* The intention of the app was to create a rideshare for users to either look for trails to create rideshares to and/or for users to join created rideshares.  
+>* I felt that my app idea was a good was and I enjoyed working on this app and I have plans to continue with this idea in Mod4 by rebuilding it in a different tech stack.  I tried to implement Facebook Oauth in order to eventually use their 'Mutual Friends' ability and eventually gave up and ran into issues where I fell behind my intended workflow and started worrying about meeting my MVP.  I also tried to make too complicated of a beginning user story and spent too much time on big picture problems when I should have been tackling a smaller user story.  In the end my app did not quite meet my MVP but I am still proud of what I built.
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
->* \<Description>
->* \<Takeaways, your experience>
+> **[Rales Engine](https://github.com/seoulstice/rales_engine)**
+>* 
+>* I had a great experience working on this project, I learned a lot about building APIs and had a good experience collaborating with my group partner.  I also learned a lot about testing API requests.  
 
-> **[The Pivot](http://backend.turing.io/module3/projects/the_pivot)**
->* \<Description>
->* \<Takeaways, your experience>
+> **[The Pivot](https://github.com/seoulstice/le_pivot)**
+>* This app was a brownfield project for a group of 3-4 people to tackle with the intent of implementing extra features and users stories and tackling concepts such as multi-tenancy.
+>* This project was very difficult, in the beginning my group did not do as good a job as we should have on organization and wire-framing and that definitely led to problems down the line.  I had a good experience working with my teammates though I didn't feel that there were aspects of the project that I didn't get to touch so I didn't learn much about.   
 
 | CATEGORY | Rales Engine | Self Directed | The Pivot |
 | --- | --- | --- | --- |
