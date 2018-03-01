@@ -246,3 +246,11 @@ This module, I participated in a few community events but not as many as I would
 ### Notes
 
 ### Outcome
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Community Participation: 3.5
+
+Outcome: PASS
