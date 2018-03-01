@@ -16,8 +16,7 @@ In module 1, I wanted to get a very strong foundation for HTML, CSS, Vanilla Jav
 
 ## A: End of Module Assessment
 
-Unknown...
-
+Pass
 
 ## B: Individual Work & Projects
 
