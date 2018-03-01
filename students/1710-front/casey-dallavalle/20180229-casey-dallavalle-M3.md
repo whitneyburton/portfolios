@@ -227,8 +227,13 @@ I met with mentors to have my code reviewed. And I also met with several Turing 
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Great job!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: 3.5
+B: Individual Work & Projects: 4
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3.5
+E: Community Participation: 3.5
+Outcome: PASS
