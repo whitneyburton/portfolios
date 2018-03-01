@@ -1,90 +1,108 @@
 Adam Lusk M1 Portfolio
 
 Areas of Emphasis
+
 object oriented programming, Ruby, computer science, professional development
 
+
 Rubric Scores
+
 A: End-of-Module Assessment: 2
+
 B: Individual Work & Projects: 2
+
 C: Group Work & Projects: 3
+
 D: Professional Skills: 3
+
 E: Community Participation: 3
 
+
 A: End of Module Assessment
+
 Paired Assessment: All 3's, 2 on completion
 
+
 B: Individual Work & Projects
+
 A summary of three projects, all mostly incomplete upon submission.
 
+
 Flash Cards
+
 Repo: Repo not working
+
 Write a flashcard program that is used through the command line.
 
-Notes:
-Issues Creating Repo
-No Runner
-Lack of edge case testing
-Tests are not focused
+Notes: Issues Creating Repo, No Runner, Lack of edge case testing, Tests are not focused
 Assertions not specific enough (using too much instance_of)
 
 Ruby Syntax & Style: 3
+
 Breaking Logic into Components: 3
+
 Test-Driven Development: 2
+
 Functionality: 2
 
+
 Date Night
+
 https://github.com/Vadlusk/date_night
-Original Assignment
+
 Build a binary search tree and many associated methods.
 
-Notes:
-project mostly incomplete
+Notes: project mostly incomplete
 
 Ruby Syntax & Style: 3
+
 Breaking Logic into Components: 3
+
 Test-Driven Development: 3
+
 Functionality: 1
 
 HTTP, Yeah You Know Me!
-https://github.com/Vadlusk/HTTPYeahYouKnowMe
-An introduction to HTTP, the protocol that runs the web.
-Build a functioning web server 
 
-Notes:
-Got through IT3
-Using only server and request files for running.
-Some longer methods
+https://github.com/Vadlusk/HTTPYeahYouKnowMe
+
+An introduction to HTTP, the protocol that runs the web. Build a functioning web server 
+
+Notes: Got through IT3, Using only server and request files for running. Some longer methods
 Would like to see further work towards encapsulation.
 MORE TESTS!
 
 Ruby Syntax & Style: 1
+
 Breaking Logic into Components: 1
+
 Test-Driven Development: 1
+
 Functionality: 2
+
 Version Control: 3
 
 
 C: Group Work & Projects
-Projects
+
 A summary of two group projects, both of which I contributed a fair share.
 
 Enigma
+
 https://github.com/Vadlusk/enigma
+
 Build a tool for cracking an encryption algorithm.
 
-Notes:
-decrypt.rb file io not working
-Enigma.encrypt not working in pry
-^working in tests
-Only Enigma class
-Tests error out in Rake
-Tested different lengths of messages, nil, tested upper case
-Lots of helper methods. Could have factored out into other classes
+Notes: decrypt.rb file io not working, Enigma.encrypt not working in pry, ^working in tests, Only Enigma class, Tests error out in Rake, Tested different lengths of messages, nil, tested upper case, Lots of helper methods. Could have factored out into other classes
 
 Ruby Syntax & Style: 2
+
 Breaking Logic into Components: 2
+
 Test-Driven Development: 2
+
 Git Workflow: 3
+
 Functionality: 2
 
 Here is my feedback from Rob:
