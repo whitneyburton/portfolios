@@ -41,32 +41,31 @@ My main focus during my group projects this mod was to spend time learning all o
 * [Static-Comp3 Github Pages](https://awiedenman.github.io/3-static-comp/)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
+
 #### (Number Guesser)
-
-* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/number-guesser/austin-wiedenman.md)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
-
 *[numberGueser Github repo](https://github.com/Awiedenman/number-guesser2)
 
+#### Description:
 Build a game where the user guesses a number between 1 and 100.
 
 #### evaluation comments:
 "Work on eliminating global variables.  Great job on single use functions and keeping your code very clean."
 
-* [Scores for numberGuesser] (https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/number-guesser/austin-wiedenman.md)
+* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/number-guesser/austin-wiedenman.md)
+
 
 #### (Linked List)
-* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/austin-kent.md)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 *[linkedList Gitrepo](https://github.com/Awiedenman/linked_list2)
 
-
+#### Description:
 In it’s simplest form, the application to store website links.
 In it's simplest for it must include two input fields, One for the title of the bookmark, One for the URL that the bookmark should link to, One button for creating the bookmark and adding it to the page, and section for all of the created bookmarks. Each bookmark should display,The title of the bookmark, The URL of the bookmark (this should be clickable and link to the URL), A button to “Mark as Read”, A button to “Remove” the bookmark. 
 
 #### evaluation comments:
 "Proficient: Application meets all of the functional expectations in Phase Three. Mostly through phase four links don't work - pay attention to details"
-
+* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/austin-kent.md)
 
 ## C: Group Work & Projects
 
@@ -76,8 +75,6 @@ Working in pairs is more complex than meets the eye.  I only really had one proj
 
 
 #### (ideaBox)
-
-* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/krista-austin.md)
 * Original Assignment(http://frontend.turing.io/projects/ideabox.html)
 * GitHub URL(https://github.com/Awiedenman/ideabox2)
 
@@ -89,10 +86,9 @@ Update CSS to make save button appear disabled
 Buggy - search sort of works, new line character showing up in local storage, persistUserData causing problems
 Nice job with organizing rules in CSS - easy to follow"
 
+* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/krista-austin.md)
 
 #### (2doBox)
-
-* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/austin-laura.md)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 * [GitHub URL](https://github.com/Awiedenman/2DoBox)
 
@@ -101,7 +97,7 @@ This project consisted of use taking the code from a pair of classmates and refa
 #### Evaluation comments:
 Use forEach when looping over an array. Stored repeatedly selected elements in variables.  Try to use a constructor function for 2dos
 
-* [Scores for 2doBox](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/austin-laura.md))
+* [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/austin-laura.md)
 
 
 
