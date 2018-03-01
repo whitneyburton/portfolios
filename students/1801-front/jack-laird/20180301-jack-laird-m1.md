@@ -20,7 +20,7 @@ TBD
 
 ## B: Individual Work & Projects
 
-The individual work and projects consisted of Number Guesser, the first project of the mod that includes HTML, CSS, and JavaScript, and three static comp projects. The static comp projects are each comp recreations that require you to follow a certain format but give you liberties on certain parts of the design. They're intended to keep you working on your HTML and CSS abilities while allowing you to use a little JavaScript. Each comp grows in complexity and pushes you to extend your knowledge in both CSS and HTMl. Learning these skills is crucial to being a developer because often times you are asked to recreate a design down to the pixel.
+The individual work and projects consisted of Number Guesser, the first project of the mod that includes HTML, CSS, and JavaScript, and three static comp projects. The static comp projects are each comp recreations that require you to follow a certain format but give you liberties on parts of the design. They're intended to keep you working on your HTML and CSS abilities while allowing you to use a little JavaScript. Each comp grows in complexity and pushes you to extend your knowledge in both CSS and HTML. Learning these skills is crucial to being a developer because often times you are asked to recreate a design down to the pixel.
 
 #### Number Guesser
 
@@ -41,7 +41,7 @@ Build a game where the user guesses a number between 0 and 100
 
 #### Static Comp 3
 [Github URL] https://github.com/JackLaird0/JL-comp-challenge-3
-[Original Assignment] http://frontend.turing.io/projects/m1-static-comp-3.html
+[Original Assignment] (http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 ## C: Group Work & Projects
 
@@ -61,28 +61,20 @@ The user should be able to enter a title and url that creates a card with this i
 #### IdeaBox
 
 * [GitHub URL] (https://github.com/danielafcarey/idea-box)
-* [Original Assignment]()
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+[IdeaBox Evaluation] (https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/daniela-jack.md)
 
 #### 2DoBox
 
 * [GitHub URL] (https://github.com/daughedm/2DoBox-Pivot)
-* [Original Assignment]()
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+You will be inheriting someone’s previous IdeaBox and pivoting it over to 2DoBox.
 
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+[2DoBox Evaluation] (https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/to-do-box/jack-david.md)
 
 ## D: Professional Skills
 (Intro)
