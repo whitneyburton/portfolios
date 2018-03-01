@@ -40,7 +40,7 @@
 ## Blog
 
 Link your blog post here. Include a short description of your topic (one sentence is fine).
-[My Blog Post](https://sites.google.com/a/colorado.edu/anna-royer-blog/)
+[My Blog Post](https://sites.google.com/a/colorado.edu/anna-royer-blog/debug-in-production)
 
 This blog post is on how to open a rails project locally in production. It is based on the beginning of the lesson we had on the asset pipeline. I felt it would be helpful to have these steps layed out very clearly to return back to later.
 
