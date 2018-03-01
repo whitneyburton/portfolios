@@ -1,6 +1,8 @@
 # Katie Scruggs - M4 Portfolio
 
-## [Slide Deck](https://docs.google.com/presentation/d/1BBMmuWlLr0OI2Nc3cLLseyHT-FJiIpWrCJYrLIDYSGw/edit?usp=sharing)
+## [Slide Deck for Presentation](https://docs.google.com/presentation/d/1BBMmuWlLr0OI2Nc3cLLseyHT-FJiIpWrCJYrLIDYSGw/edit?usp=sharing)
+
+## [30 Day Action Plan](https://gist.github.com/katiescruggs/8bf6bb081bb73e2af6716f2c12e943ce)
 
 ## Struggles
 
