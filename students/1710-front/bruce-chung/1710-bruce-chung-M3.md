@@ -185,4 +185,10 @@ I've stayed involved with 1711 and 1801.  I informally pair roughly every other 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
+
+OUTCOME: PASS
