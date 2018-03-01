@@ -170,12 +170,12 @@ Don’t believe in kings, believe in the Kingdom*
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Final project: Shoot for the stars!
 
 ### Outcome
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4.5
