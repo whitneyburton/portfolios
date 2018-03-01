@@ -6,11 +6,11 @@ Having absolutely no coding experience, I set out to get a solid understanding o
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -246,20 +246,25 @@ Not yet available.
 
 
 ## D: Professional Skills
-(Intro)
+This mod we had some sessions that were geared towards helping us become better people and better programmers. The four sessions were Stress Management, Working Styles, Getting Better at Difficult Things, and Relaxation.
 
 ### Gear Up
-#### (Session Name)
+#### Stress Management
+In this session I learned about the four typs of stress, as well as ways to reduce stress. This was incredibly helpful, as I have used many of stress-management coping mechanisms (meditation, running, and food prepping) to make my first mod at Turing more manageable. I hope to be able to continue to use what I've learned through the later mods to make my time at Turing successful.
 
-* [GitHub URL]()
+#### Working Styles
+In this session I learned about the three different working styles (introvert, extrovert, and ambivert). I was easily able to identify what category I fall in, as well as my preferred working style. I also learned about the other types and their preferred working styles, so I can work more effectively with them in the future.
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Getting Better at Difficult Things
+This session made me aware that everyone who has learned coding has gone through the same struggle that I'm going through right now. No one is born a natural programmer, everyone just has to keep working at it until they get good. It also reaffirmed my belief that I'm doing what I need to to be able to successfully get through Turing, even if sometimes it feels like I'm just spinning my wheels.
+
+#### Relaxation
+This was the mod 4 session I attended. It was somewhat similar to the Stress Management session, but was more focused on the coping mechanisms. I learned some additional ways to manage stress, as well as some good ways to de-stress from the pressure of Turing, one of which I fully intend to try during the break next week.
 
 ## E: Community Participation
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
+My involvement in the Turing community includes attending all but one of the Wrap-Ups, the events (SAB events, Code Fair, etc), and some of the Happy Hours to celebrate/de-stress with the rest of mod 1, as well as people from the upper mods. I scheduled two pairings every week, and even spent a handful of hours walking a group of students from our mod through Mythical Creatures on Saturday to help them prepare for the pentathlon.
 
 ------------------
 
