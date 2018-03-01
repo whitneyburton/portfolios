@@ -79,8 +79,8 @@ Working in pairs is more complex than meets the eye.  I only really had one proj
 #### (ideaBox)
 
 * [Scores for ideaBox](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/idea-box/krista-austin.md)
-* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
-* [GitHub URL](https://github.com/Awiedenman/ideabox2)
+* Original Assignment(http://frontend.turing.io/projects/ideabox.html)
+* GitHub URL(https://github.com/Awiedenman/ideabox2)
 
 Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we built an application for recording and archiving our ideas and indicating whether or not they were good or bad. Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 
