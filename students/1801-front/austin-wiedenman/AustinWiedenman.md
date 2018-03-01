@@ -49,7 +49,7 @@ My main focus during my group projects this mod was to spend time learning all o
 #### Description:
 Build a game where the user guesses a number between 1 and 100.
 
-#### evaluation comments:
+#### Evaluation comments:
 "Work on eliminating global variables.  Great job on single use functions and keeping your code very clean."
 
 * [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/number-guesser/austin-wiedenman.md)
@@ -63,7 +63,7 @@ Build a game where the user guesses a number between 1 and 100.
 In it’s simplest form, the application to store website links.
 In it's simplest for it must include two input fields, One for the title of the bookmark, One for the URL that the bookmark should link to, One button for creating the bookmark and adding it to the page, and section for all of the created bookmarks. Each bookmark should display,The title of the bookmark, The URL of the bookmark (this should be clickable and link to the URL), A button to “Mark as Read”, A button to “Remove” the bookmark. 
 
-#### evaluation comments:
+#### Evaluation comments:
 "Proficient: Application meets all of the functional expectations in Phase Three. Mostly through phase four links don't work - pay attention to details"
 * [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/austin-kent.md)
 
@@ -80,7 +80,7 @@ Working in pairs is more complex than meets the eye.  I only really had one proj
 
 Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we built an application for recording and archiving our ideas and indicating whether or not they were good or bad. Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 
-#### evaluation comments:
+#### Evaluation comments:
 "Hooray for body text not falling out of container when there are large amounts of text!
 Update CSS to make save button appear disabled
 Buggy - search sort of works, new line character showing up in local storage, persistUserData causing problems
@@ -92,7 +92,7 @@ Nice job with organizing rules in CSS - easy to follow"
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 * [GitHub URL](https://github.com/Awiedenman/2DoBox)
 
-This project consisted of use taking the code from a pair of classmates and refactoring it. We were instructed to pivot the project into another project, were we created a platform that houses a to-do list in local storage. We also worked to better the ux/iu design and to add additional functionality to the filter.
+This project consisted of us taking the code from a pair of classmates and refactoring it. We were instructed to pivot the project into another project, were we created a platform that houses a to-do list in local storage. We also worked to better the ux/iu design and to add additional functionality to the filter.
 
 #### Evaluation comments:
 Use forEach when looping over an array. Stored repeatedly selected elements in variables.  Try to use a constructor function for 2dos
@@ -102,20 +102,24 @@ Use forEach when looping over an array. Stored repeatedly selected elements in v
 
 
 ## D: Professional Skills
-(Intro)
+This time through Front End Mod-1, I was able to really focus deeper during our personal development curriculum.  I think that I was able to gain more insight into my strengths and weaknesses adn reflect on my time at Turing so far and what that has taught me about myself.  My strengthsfinder is very accurate and I have been able to see my strengths of empathy, includer and developer shine as I continue to create amazing connections and relationships with those in my new cohort and throughout the rest of the school.  I think that learning to pair and take feedback are key to being successful at Turing and in the workplace.  It is always amazing to me how difficult it can be sometimes to pair with others in work settings, but I think that our PD gave us some very useful tools to use to navigate thoe interactions.  DTR's are so vital to a successful pairing!  It is interesting to start examining your own story and thinking about how you you want to portray yourself to your future employers.  I think that Linkedin and Twitter can be very useful tools in helping to grow our network, even though I admit I dont really know how to use them ver effectively yet.
 
-### Gear Up
-#### (Session Name)
+#### Gear Up
+#### Stress Management 101
+This is, in my opinion one of the most important gear up's that we had in Mod-1.  I dont think that I fully realized the impotance of this until my second time through.  The first time that I took part in this session I hadnt trully felt the effects of Turing on my mental health. After repeating, I was able to see the importance in taking time for myself and making myself happy in addition to working hard at school.  I have to say that I did miss having the Psychologist form last mod come to talk to us.  She had great insight and it was cool to learn from her.
 
-* [GitHub URL]()
+#### Working Styles
+Once again, I think it was really interesting to go through this one again.  Last mod I was certain that I am an extrovert and that was that.  After a great deal of reflection regrading learning styles and talking about how we get our energy, I have realized that I am much more of a mix than I had ever imagined. I can Identify with a lot of the traits that all of the Introverts talk about surrounding planning and having a clear path before moving forward.  I think that is part of what is great about this exercise is that you get to have an open discussion with people, and by learning more about them, you learn to identify more accurately with yourself.
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Getting Better at Doing Difficult Things
+Jhun is great and I think that it was cool to talk about how to amke ourselve good at tackling obstacles that may seem difficult.  One of my favorite parts was when we talked about our cognative resources and how it is important to conider how we spend sucha precious resource each day.  I have began considering my activities outside of turing, whether that is making dinner or reading abook or going grocery shopping during the week.  I have even thought while getting ready in the morning, about how Jhun mentioned that Steve Jobs wore the same thing everyday so that he didnt hav eto spend his cognative resouces on that decision.
+
+#### Mod4 Lead Gear Up: Ethics in AI
+This was a really interesting topic.  It was very eye opening and brouhgt out a variety of really interesting perspectives about labor, privacy, universal wages, mental health.  I think that this is such a comnplex issue and there is no telling how we will be interacting with Artificial Intelligence in the future.  I think that it is mind blowing how much we already are relying on it.  Working in the tech industry, we could have the chance to have an affect on how we make decisions about these complex issues in the future.  I found this to be a really enjoyable gear up.
 
 ## E: Community Participation
-
-### Playing a Part
-
-(ways you supported the larger Turing community)
+#### Playing a Part
+This module I have contributed to the greater Turing community by being an active member, and now co-leader Pahlka.  Since there is such a high number of members from Mod4, I have took it opon myslef to recruit both front-end and back-end members and I am proud to say that we have 5 new back-end students and 1 Front-end students that I have had a hand in getting ot join.  I have also tried hard to talk with fellow 1801 students about how they are doing and helping to give them guidence on how to avoid the burnout that I experienced last mod.
 
 ------------------
 
