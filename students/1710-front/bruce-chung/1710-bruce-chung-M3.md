@@ -173,7 +173,7 @@ Main takeaway is that there are many ways to destress, but meditation should be 
 
 ### Playing a Part
 
-Although there is no longer a pairing schedule, I've continued to stay involved with 1711 and now 1801.  I informally pair roughly every other day and I am always available for to help.  I've been involved in iron-FE. I attended a hackathon and was able to work in a team with back-end students for the first time.
+I've stayed involved with 1711 and 1801.  I informally pair roughly every other day and I am always available for to help.  I've been involved in iron-FE. I attended a hackathon and was able to work in a team with back-end students for the first time.
 
 ------------------
 
