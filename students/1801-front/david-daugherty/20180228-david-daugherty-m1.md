@@ -78,19 +78,19 @@ My overall feedback was very positive. Pam believed I was very true to the comp 
 
 This was the first partner project and it was a great experience. Jim and I hit the ground running and really worked well together. Together we got to phase 4 and exceeded my expectations for the project. We were tasked with building a card creation website that allowed users to enter Titles and website urls and would create a card with that information.
 
-**Evaluator: Pam**
+**Evaluator: Pam**  
 * Through all 4 phases!
 * Thank you for bringing your notebooks and taking notes for the verbal feedback during eval - keep it up
 * GREAT job with the rickroll!!
 
-**Design:** Proficient/Exceptional
-**HTML:** Advanced Beginner
-**CSS:** Advanced Beginner/Proficient
-**JS:** Proficient
-**Git:** Proficient
-**Pairing:** Proficient
+**Design:** Proficient/Exceptional  
+**HTML:** Advanced Beginner  
+**CSS:** Advanced Beginner/Proficient  
+**JS:** Proficient  
+**Git:** Proficient  
+**Pairing:** Proficient  
 
-**Feedback:**
+**Feedback:**  
 Organize css idiomatically and not just alphabetically, don't remove focus outline, practice talking through your code, unnecessary variables.
 
 #### IdeaBox
@@ -101,23 +101,23 @@ Organize css idiomatically and not just alphabetically, don't remove focus outli
 
 This was the first time I really felt the Turing struggle with a project. For this project I really had to take on the bulk of the load to finish the project on time to a level which I felt acceptable. Instead of panicing I reached out to resources by pairing and talking with my mentor to get the project done. For this project we were tasked with creating cards that have a title and body copy. The twist with this project however was that it needed to save to local storage so everything would stay on the screen on page refresh.
 
-**Evaluator: Nathaniel**
+**Evaluator: Nathaniel**  
 
-**Functional Expectations:** Proficient
-**Accessibility:** Advanced Beginner
-**Style:** Proficient
-**CSS Structure:** Advanced Beginner
-**CSS Implementation:** Advanced Beginner
-**JS Data Types:** Advanced Beginner
-**JS Conditional Logic:** Advanced Beginner
-**JS Functions & Scope:** Novice
-**JS Arrays:** Advanced Beginner
-**JS Objects & Prototypes:** Advanced Beginner
-**Git:** Advanced Beginner
-**Design:** Proficient
-**Pairing:** Proficient
+**Functional Expectations:** Proficient  
+**Accessibility:** Advanced Beginner  
+**Style:** Proficient  
+**CSS Structure:** Advanced Beginner  
+**CSS Implementation:** Advanced Beginner  
+**JS Data Types:** Advanced Beginner  
+**JS Conditional Logic:** Advanced Beginner  
+**JS Functions & Scope:** Novice  
+**JS Arrays:** Advanced Beginner  
+**JS Objects & Prototypes:** Advanced Beginner  
+**Git:** Advanced Beginner  
+**Design:** Proficient  
+**Pairing:** Proficient  
 
-**Feedback:**
+**Feedback:**  
 Look into using vendor prefixes for box-sizing, be careful using the || operator to set a default value, only use the event object if you pass it into the function as an argument, declare variables at the top of their scope. Do not declare variables in if/else or for blocks, use forEach to iterate over an array, rename IdeaObjectCreator to Idea or Idea, move html generation into Idea.prototype.generateHTML method
 
 #### 2DoBox
@@ -128,26 +128,26 @@ Look into using vendor prefixes for box-sizing, be careful using the || operator
 
 In this project we were tasked to take another persons code and refractor it, clean it up and add on some additional features to make it a to do box instead of an IdeaBox. This project really tested our resolve by pushed us to really have empathy when we code. It was a good lesson to really nail home the fact that your code needs to be understandable for others other than yourself. 
 
-**Evaluator: Pam**
+**Evaluator: Pam**  
 * About 80% of the time spent refactoring the project
 * Tried to run through a screenreader
 * changed the class names from camelCase in HTML. Added ARIA attributes
 
-**Functional Expectations:** Advanced Beginner
-**Accessibility:** Proficient
-**Style:** Proficient
-**CSS Structure:** Advanced Beginner/Proficient
-**CSS Implementation:** Proficient
-**JS Data Types:** Proficient
-**JS Conditional Logic:** Proficient
-**JS Functions & Scope:** Advanced Beginner/Proficient
-**JS Arrays:** Proficient
-**JS Objects & Prototypes:** Advanced Beginner/Proficient
-**Git:** Proficient
-**Design:** Exceptional
-**Pairing:** Proficient
+**Functional Expectations:** Advanced Beginner  
+**Accessibility:** Proficient  
+**Style:** Proficient  
+**CSS Structure:** Advanced Beginner/Proficient  
+**CSS Implementation:** Proficient  
+**JS Data Types:** Proficient  
+**JS Conditional Logic:** Proficient  
+**JS Functions & Scope:** Advanced Beginner/Proficient  
+**JS Arrays:** Proficient  
+**JS Objects & Prototypes:** Advanced Beginner/Proficient  
+**Git:** Proficient  
+**Design:** Exceptional  
+**Pairing:** Proficient  
 
-**Feedback:**
+**Feedback:**  
 N/A
 
 ## D: Professional Skills
