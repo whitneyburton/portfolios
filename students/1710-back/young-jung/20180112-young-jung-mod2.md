@@ -1,4 +1,4 @@
-# First Last - M2 Portfolio
+# Young Jung - M2 Portfolio
 
 ## Areas of Emphasis
 
@@ -15,7 +15,7 @@ I am still struggling with public speaking and the ability to talk about my code
 
 Link your blog post here. Include a short description of your topic (one sentence is fine).
 My blog post is about how to use carrierwave with Amazon S3 buckets to store files.  The documentation I found was pretty spotty and mostly old also lots of different versions of gems so this is how I got it to work on my concertbox app.
-https://medium.com/@youngjoonjung/configuring-carrierwave-with-aws-s3-on-your-rails-application-figaro-ea6178106102
+[Link to Blog Post](https://medium.com/@youngjoonjung/configuring-carrierwave-with-aws-s3-on-your-rails-application-figaro-ea6178106102)
 
 ## Projects
 
