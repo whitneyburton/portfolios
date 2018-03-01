@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+During this mod I set out to gain a better understanding of React and to learn Redux like a champ. 
 
 ## Rubric Scores
 
