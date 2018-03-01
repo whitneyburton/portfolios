@@ -445,8 +445,8 @@ Brought back conference materials to turing staff.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* will add testing to HTTP and complete enumerable ruby exercises by 3pm of 3/1
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PROVISIONAL
