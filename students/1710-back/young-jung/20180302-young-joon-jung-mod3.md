@@ -3,8 +3,6 @@
 ## Areas of Emphasis  
 I set out to learn about API and how to create and consume them. I also wanted to start thinking about preparing for the job hunt.
 
-A	End-of-Module Assessment	2.9/3 B	Individual Work & Projects	2.9/3 C	Group Projects	3 D	Professional Development	2 E Feedback & Community Participation	2
-
 I struggled during this mod when it came to my learning, I felt very confident during the first two weeks but the brownfield project dashed my confidence and I didn't learn as much as I could have due. I felt that lack of confidence through to the final eval where I performed badly.
 
 I feel that there was too much pressure on the job hunt during this mod, maybe for some that is fine but I struggled and needed to back off on thinking about the job hunt. Turing is a non-profit, getting grads placed sooner is better for the grad as well as for Turing's reputation but learning is important as well. Maybe move the job hunt pressure towards the end of the mod when people are happily working on their personal projects.
@@ -20,13 +18,11 @@ I feel that there was too much pressure on the job hunt during this mod, maybe f
 | D | **Professional Development** | 2 |
 | E | **Feedback & Community Participation** | 2 |
 
-I struggled during this mod when it came to my learning, I felt very confident during the first two weeks but the brownfield project dashed my confidence and I didn't learn as much as I could have. I felt that lack of confidence through to the final eval where I performed badly and my final project which didn't meet my expectations.  Although there are some areas where I feel weak on and plan on improving, I feel that I am ready to move onto the next level.
-
+I struggled during this mod when it came to my learning, I felt very confident during the first two weeks after doing well on Rales Engine but the brownfield project and having a lot of new information about new concepts with not very much reinforcement rattled my mental capacity and my confidence and I didn't learn as much as I could have. I felt that lack of confidence through to the final eval where I performed badly and my final project which didn't meet my expectations.  Although there are some areas where I feel weak on and will spend time on improving, I feel that I am ready to move onto the next level.
 
 -----------------------
 
 ## A: Individual Work & Projects
-
 
 > **[hiking-friends](https://shrouded-castle-30025.herokuapp.com/)**
 > **[Github Repo](https://github.com/seoulstice/hiking_friends)**
