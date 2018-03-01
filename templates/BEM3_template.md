@@ -28,16 +28,16 @@
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
 >* \<Description>
 >* \<Takeaways, your experience>
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)**
+> **[Cloney Island Sprint 1](https://)** 
 >* \<Description>
 >* \<Takeaways, your experience>
 
-> **[Cloney Island Sprint 2](https://)**
+> **[Cloney Island Sprint 2](https://)** 
 >* \<Description>
 >* \<Takeaways, your experience>
 
