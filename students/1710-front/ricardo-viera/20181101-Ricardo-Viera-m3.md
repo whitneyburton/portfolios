@@ -98,8 +98,13 @@ I worked with many of the Mod-1 and Mod-2 FE students on their static comps and 
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
+OUTCOME: RETAINED 
