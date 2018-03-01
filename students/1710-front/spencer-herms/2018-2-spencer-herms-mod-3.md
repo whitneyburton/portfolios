@@ -254,8 +254,14 @@ I made an effort to contribute to the Turing community this module.  I paired wi
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Good work this mod
+- Keep working to become an advocate for the Turing community
 
 ### Outcome
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Community Participation: 3
+Outcome: PASS
