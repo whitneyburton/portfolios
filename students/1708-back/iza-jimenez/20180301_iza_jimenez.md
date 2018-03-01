@@ -1,5 +1,7 @@
 # Iza Jimenez- M4 Portfolio
 
+30 Day Post Plan: https://gist.github.com/izaxveta/fde91b7192e4c587deb729a72fbcecb6
+
 ### What was your biggest achievement of the module?
 
 * I think that after being in Turing for so long you develop this kind of comfort in being here with instructors that challenge you and push your learning. When it came time to actually start thinking of making that transition out of Turing my perspective changed a bit. While I felt like I was capable of taking on all the different challenges I was tasked with, suddenly that feeling was overshadowed by the uncertainty of the kinds of challenges I’d be facing once I left Turing. I began to feel incapable and shied away from many job opportunities. My biggest achievement of the module was realizing that it's not about knowing all the things - it's about knowing how to program and how to handle what's right in front of you. Growing to be confident in what I've learned through my experiences with all these challenges and beginning to really make those transitional moves to new experiences that Turing can't teach.
