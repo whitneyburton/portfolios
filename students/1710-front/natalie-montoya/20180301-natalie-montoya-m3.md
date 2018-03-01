@@ -218,10 +218,12 @@ I was co-leader of the Easley posse. I co-lead and organized 2 Iron-Fe sessions.
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
-
 ### Outcome
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 3.5
+C: Group Work & Projects: 3.5
+D: Professional Skills: 4
+E: Community Participation: 4
+
+OUTCOME: PASS
