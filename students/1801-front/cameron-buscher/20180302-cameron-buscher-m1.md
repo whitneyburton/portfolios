@@ -6,11 +6,11 @@ In module one at Turing I set out to improve my very basic foundations of HTML a
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
-* **D: Professional Skills**: 
-* **E: Community Participation**: 
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
 
 -----------------------
 
