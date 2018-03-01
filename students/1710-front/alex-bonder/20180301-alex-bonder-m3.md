@@ -101,8 +101,14 @@ My goals as a part of the community was to make myself available to anyone seein
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Keep trying to work with others
+- Become an advocate for less experienced devlopers
 
 ### Outcome
 
-( Leave blanks for reviewers )
+A: End-of-Module Assessment: 3.5
+B: Individual Work & Projects: 4
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Community Participation: 3
+Overall: PASS
