@@ -1,5 +1,7 @@
 # Katie Scruggs - M4 Portfolio
 
+##[Slide Deck](https://docs.google.com/presentation/d/1BBMmuWlLr0OI2Nc3cLLseyHT-FJiIpWrCJYrLIDYSGw/edit?usp=sharing)
+
 ## Struggles
 
 During my first week of Mod 4, I was faced with presenting at 1801 Comp Night on Thursday and submitting my first ever backend project on Friday. This set the tone for my biggest struggle throughout Mod 4: time management and and task-switching. With the coursework and job applications, cold outreach meetings, etc, it was difficult for me to know what I should be focusing on at any given time. Unfortunately this indecision sometimes led to paralysis, where I would be worried about several things but not taking action on any of them. As the mod progressed, I got better at choosing one thing to focus on and making progress on it even though other things were on my mind.
