@@ -15,10 +15,11 @@ What were your favorite projects this module? Least favorite? Why?
 *I really liked the Rails Mini Project too because of the choose your own adventure option and freedom to build whatever you wanted within some constraints.*
 
 What did you learn from your independent projects?
-*I have to be better about staying disciplined and work harder if I want to get everything done that I set out to do. Follow through is key, I found myself losing some motivation near the end of Job Tracker and Rails Mini :(*
+*I have to be better about staying disciplined and work harder if I want to get everything done that I set out to do. Finishing is key, I found myself losing some motivation near the end of Job Tracker and Rails Mini :( They were also ungraded and I didn't have a partner to be accountable to, so that made it harder for me to follow through at the end.*
 
 What did you learn from your paired projects?
-*In BikeShare I felt like I really improved on my workflow. I also learned a ton about forms, links, rails helpers and dove deeper into the documentation and really solidified my CRUD process.*
+*In BikeShare I felt like I really improved on my workflow. I also learned a ton about forms, links, rails helpers and dove deeper into the documentation and really solidified my CRUD process.
+I would still like to get better at ActiveRecord and SQL. AR is something I still feel like I'm randomly guessing things.*
 
 ## Community
 
@@ -26,7 +27,9 @@ What was your favorite Gear Up? Least favorite? Why?
 *I liked the Gear Up where we watched Debugging the Gender Gap and then talked about it. I honestly feel like most of the other Gear ups were not very valuable this Module and think my time could have been better spent doing something else. A lot of them were just watching PPT presentations and not really getting deep into the topics. For example, the one about Networking felt like a mandatory presentation in high school when you've never heard the term networking and someone is explaining the definition to you. Maybe Turing should get Cold Outreach Katie to come in and do a Gear Up about networking and Cold Outreach.*
 
 How did you contribute to the Turing community this module?
-*I started attending Palkha and volunteered to co-lead with Austin. Also go to JCS meetings which I love.*
+*I paired with Mod 1 students whenever they asked.
+I continue to attend JCS meetings which I love.
+I started attending Palkha and volunteered to co-lead with Austin. I started working on Recycle Application with Emily from M4. Palkha has helped me grow professinaly because I get to learn from upper Mods and the Front end students, and learn how backend and frontend fit together in the real world. Turing needs more of that Frontend-to-Backend and Upper Mods-to-Lower Mods collaboration, but it sounds like posses next mod will be more like that.*
 
 What would you like to do to contribute next module?
 *I would like to be a leader in Palkha - mainly getting Mod 1 and 2 kids to join and have some interesting speaker events. I'm in the process of getting some alums together with Tommasina and having them come in for a panel. I also want to see if there's anything we can do with Code for America... has Turing ever had any relationship with them? I'm also attending some events with Ellen Mary and Joanne over break which I am excited for.*
@@ -43,3 +46,24 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Community**                |   3   |
 | **Final Written**            |   4   |
 | **Final Timed**              |   3   |
+
+## Blog Post
+*While Rails documentation is a fantastic resource, sometimes when you're trying to do something a bit more complicated you need to seek out other references. Today, I'm going to talk about creating self-referential associations.
+
+What are self-referential relationships? This is a pretty fancy name for something that could be called something much more descriptive and simple, like  same-table-references, or something. Usually, you create a foreign key on one table which references a primary key on another table in order to create a relationship between them, like teacher_id on a students table or item_id on an order table. With same-table references, the table references itself!
+
+For example, let's say you have a gym with a bunch of members. Each member has an ID, name, date joined and referrer ID as columns. What is a referrer ID? At first you might think it is a foreign key that links to the primary key of a Referrers tables. But gym members who have referred other people to the gym are gym members themselves! So we must create a self-referential association on Members table that looks like this:
+
+![Schema for Gym Members](/self-referencing.png?raw=true)
+
+In your application, you would need to create a join table of Gym Members with Gym Members. Let's take a look at what the SQL output would be.
+
+Here is out Gym Members table:
+
+![Gym members self-join](/gym_members.png?raw=true)
+
+And here is our Gym Members table joined to itself through referrer_ID:
+
+![Gym members self-join](/gym_members_join.png?raw=true)
+
+*
