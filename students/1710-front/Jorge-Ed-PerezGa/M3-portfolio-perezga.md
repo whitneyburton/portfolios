@@ -229,8 +229,10 @@ Tragedy of commons explains the importance of diversity in a community, while ha
 
   ## Rubric Scores
 
-  * **A: End-of-Module Assessment**:
-  * **B: Individual Work & Projects**:
-  * **C: Group Work & Projects**:
-  * **D: Professional Skills**:
-  * **E: Community Participation**:
+  * **A: End-of-Module Assessment**: 4 
+  * **B: Individual Work & Projects**: 3.5
+  * **C: Group Work & Projects**: 3.5 
+  * **D: Professional Skills**: 3* 
+  * **E: Community Participation**: 3
+  
+  OUTCOME: PASS 
