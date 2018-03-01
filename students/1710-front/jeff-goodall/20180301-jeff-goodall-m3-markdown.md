@@ -20,7 +20,7 @@ passed
 
 ## B: Individual Work & Projects
 
-### SWapi-Box
+## SWapi-Box
 
 * [GitHub URL](https://github.com/goodalls/swapi-box)
 * [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
@@ -29,7 +29,6 @@ For this project, we are going to work on developing some muscle memory building
 
 For this project, we will be hitting The Star Wars API to tap into a “black hole” of Star Wars data. Mwahaha.
 
-# SWapi-Box Eval
 
 ##### Evaluator:Christie
 ##### Students: Jeff Goodall
@@ -70,7 +69,7 @@ The output from ESLint shows…
 
 
 
-# Farmers Market Finder
+## Farmers Market Finder
 
 * [GitHub URL](https://github.com/goodalls/farmers-market-finder)
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
@@ -116,13 +115,11 @@ The output from ESLint shows…
 
 
 
-## C: Group Work & Projects
+# C: Group Work & Projects
 
 ### Projects
 
-(Intro)
-
-#### HeadCount2.0
+### HeadCount2.0
 
 * [GitHub URL](https://github.com/goodalls/headcount2.0)
 * [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
