@@ -47,11 +47,33 @@ Build a game where the user guesses a number between 0 and 100
 
 ### Projects
 
-(Intro)
+The group projects consisted of LinkedList, IdeaBox, and 2DoBox. Each project built upon the JavaScript skills learned in the previous project as well as challenged you to work with a new partner each time. The paired projects also expanded upon HTML and CSS skills but the main focus of these projects is on refining JavaScript or JQuery skills and using GitHub for collaboration. The final project 2DoBox required you to add new features to IdeaBox using another persons code base. Using someone elses code teaches you to think about problems in a different way and how add new features to a site without scrapping the code base. 
 
-#### (Project Name)
+#### LinkedList
 
-* [GitHub URL](https://github.com/JackLaird0)
+* [GitHub URL] (https://github.com/mrayanne113/linkedList)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+
+The user should be able to enter a title and url that creates a card with this information.
+
+[LinkedList Evaluation] (https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-1/linked-list/jack-megan.md)
+
+#### IdeaBox
+
+* [GitHub URL] (https://github.com/danielafcarey/idea-box)
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### 2DoBox
+
+* [GitHub URL] (https://github.com/daughedm/2DoBox-Pivot)
 * [Original Assignment]()
 
 (description)
