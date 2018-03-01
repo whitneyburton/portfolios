@@ -47,9 +47,8 @@ Category  Score
 Individual Projects 3
 Group Projects 4 
 Professional Development 4
-Community 4
+Community 3
 Final Written 3
 Final Timed 2
 
-
-
+................................................................................................................................
