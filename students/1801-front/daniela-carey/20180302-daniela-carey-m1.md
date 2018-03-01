@@ -6,11 +6,11 @@ Going into this mod, I set out to get a better understanding of basic front-end 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4 
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 3
 
 -----------------------
 
@@ -334,7 +334,7 @@ This session taught by Mod 4 students was a valuable discussion about what we ca
 
 ### Playing a Part
 
-The Turing community is a valuable asset of Turing that I was not expecting going into my first mod. After week 1, I was blown away by how strong the community is and how supported I felt. I had multiple opportunities to contribute to the community within my own cohort through impromptu pairing sessions, sharing tips/tricks I learned on a project, and through our weekend study sessions. I loved the support from Mod 2 and took advantage of the pairing sessions and Mythical Creatures review. These opportunities are one of the things I'm most excited for when I'm in Mod 2 - pairing with the Mod 1 students.  
+The Turing community is a valuable asset of Turing that I was not expecting going into my first mod. After week 1, I was blown away by how strong the community is and how supported I felt. I had multiple opportunities to contribute to the community within my own cohort through impromptu pairing sessions, sharing tips/tricks I learned on a project, attending networking events together, and through our weekend study sessions. I loved the support from Mod 2 and took advantage of the pairing sessions and Mythical Creatures review. These opportunities are one of the things I'm most excited for when I'm in Mod 2 - pairing with the Mod 1 students.  
 
 Beyond this, I was an active member in the Armstrong Posse and loved the opportunity to connect with upper-mod students in my posse. I also connected with multiple Turing alumni to discuss a possible mentor relationship and get general advice on what life will be like after Turing. 
 
