@@ -106,39 +106,46 @@ Hey Matt! Thanks for all your hard work during the project! You were willing to 
 
 ### Gear Up
 
-#### (Session Name)
+####  Growth Mindset
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+* In this session I learned that talent can be cultivated through hard work, strategy and effective input from others. With this mindset, you set yourself up for higher achievement than if you operate with a fixed mindset - the belief that talents are innate gifts. I absolutely want to  to worry less about looking smart and put that energy into actual learning. During this module, sometimes I would avoid seeking effective help from instructors in fear of not "looking smart."
+* Here at Turing, rewarding effort, and chasing the feeling of reward that comes with the struggle, are critical to my success. I firmly believe that adopting a growth mindset mentality will lead to good things.
+* I want to use these strategies to continue to battle any negative narrative that inhibits my learning. Writing down negative thought patterns helps me realize how ridiculous and unrealistic they really are.
 
-#### (Session Name)
+#### Getting Better at Difficult Things
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+* Ta-Nehisi Coates' article really resonated with me, especially when she talked of "being convinced that (she) had some kind of brain injury" that prevented her from learning French vowel inflection. I have often thought throughout the module that "maybe I hurt my brain somewhere along the way." She attributes the real enemy to be the "feeling" of despair, not an actual physical or neurological issue. Managing my emotional health will be key to my success at Turing, and improving at any difficult activity throughout my life. The feeling of "stumbling around in the dark" is all about getting better at stumbling.
 
-#### (Session Name)
+#### Working Styles: Intro, extro, ambiverts!
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+During this session I grouped with people that leaned towards introverts - most of my group identified 60/40. I honestly didn't really know where I stood and took a stab in the dark when evaluating where I fit in. As I moved through the module, I noticed how this seemed to change. Not only in specific environments I encountered, but also as I adapted to my new life as a student here. Through this session I learned the importance of understanding the difference between these two tendencies, and how this understanding can help get the best out of others.
 
-#### (Session Name)
+#### Managing Stress & Coping Mechanisms
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+In this session I was really able to isolate tactics to aid in stress management. Trying to stay positive, hydrated and rested are key! I know it is very important for me to recognize when to step away - when to take a moment in time of high stress. I also need to find some time for myself to normalize, or recalibrate myself with music.
 
-#### (Session Name)
 
-* [GitHub URL]()
+#### Personal Stories & Connection
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
+
+Taking a few minutes to visualize what brought me here and render it with a pink marker onto paper was a surprisingly rewarding experience. Sitting down and actually drawing a "life story" with a magic marker is definitely not something that I would have actually taken the time to do if not for this session! It was a great opportunity to relax and tune out anything draining and reflect on all of the wonderful things that have brought right here to that moment in time.
+
+
 ## E: Community Participation
+
 
 ### Playing a Part
 
+I love the sense of community here at Turing, it truly is one of the greatest assets of the program. At one point in the middle of the module, I really sensed helplessness from someone in my cohort. In reaching out at the right moment, I was able to pull this person out of that dark place they were hanging out in. Taking a moment to leave a space around campus more orderly than when I arrived is also something I find satisfying. 
 
 
 ------------------
