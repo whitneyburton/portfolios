@@ -1,6 +1,6 @@
 # Katie Scruggs - M4 Portfolio
 
-##[Slide Deck](https://docs.google.com/presentation/d/1BBMmuWlLr0OI2Nc3cLLseyHT-FJiIpWrCJYrLIDYSGw/edit?usp=sharing)
+## [Slide Deck](https://docs.google.com/presentation/d/1BBMmuWlLr0OI2Nc3cLLseyHT-FJiIpWrCJYrLIDYSGw/edit?usp=sharing)
 
 ## Struggles
 
