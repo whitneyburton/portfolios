@@ -70,8 +70,6 @@ My overall feedback was very positive. Pam believed I was very true to the comp 
 
 ### Projects
 
-(Intro)
-
 #### Linked-List
 
 * [GitHub URL](https://github.com/Ecksi/linked-list)
