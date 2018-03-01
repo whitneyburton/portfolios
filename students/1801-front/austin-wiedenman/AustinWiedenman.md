@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This module I set out to gain an understanding of javascript foundations and develop a better approach to growth-mindset.  
+Repeating Mod 1 was a great opportunity for me to acoomplish goals that I was unable to acheive last time through. This module I set out to gain an understanding of javascript foundations and develop a better approach to growth-mindset.   I wanted to be able to handle the load and be able to take the time to remember my personal happiness.  A big part of me having greater success this go around was focusing on time-boxing and rewarding myself for acheiveing small conquerable goals.  I am thankful that I repeated and I think that I will be better off for it.
 
 ## Rubric Scores
 
