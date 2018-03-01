@@ -30,3 +30,48 @@ slide 1 - Normandy Beach gif
  - Belief in myself, belief in others
  - How I learn best
  - Read the docs, get help
+ 
+ 
+**Weekly Plan**
+
+**Monday**
+- 1 hour for personal health meditation/workout
+- 1 hour getting back to applications etc
+- 10 hours with breaks working on projects or code challenges
+- 1 hour house work
+- 2 hours with fam and relaxing
+
+**Tuesday**
+- 1 hour for personal health meditation/workout
+- 1 hour getting back to applications etc
+- 10 hours with breaks working on projects or code challenges
+- 1 hour house work
+- 2 hours with fam and relaxing
+
+**Wednesday**
+- 1 hour for personal health meditation/workout
+- 1 hour getting back to applications etc
+- 10 hours with breaks working on projects or code challenges
+- 1 hour house work
+- 2 hours with fam and relaxing
+
+**Thursday**
+- 1 hour for personal health meditation/workout
+- 1 hour getting back to applications etc
+- 10 hours with breaks working on projects or code challenges
+- 1 hour house work
+- 2 hours with fam and relaxing
+
+**Friday**
+- 1 hour for personal health meditation/workout
+- 1 hour getting back to applications etc
+- 10 hours with breaks working on projects or code challenges
+- 1 hour house work
+- 2 hours with fam and relaxing
+
+**Saturday**
+- application related things
+
+**Sunday**
+- Codewars
+- General/advanced javascript lessons and content
