@@ -139,7 +139,7 @@ There are different types of anxiety/stress. Stress is a fact of life, but under
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
 
-A critical component of forming a developer identity is being able to communicate your personal story. A personal story includes, among other things, how one got to where they are, the values they hold dear, the lenses through which they view the world, and how all of this impacts their goals and trajectory--where they want to be and what they want to accomplish in the future. This session drove home the importance of being able to put all of this in narrative form for when it comes time to look for jobs.
+A critical component of forming a developer identity is being able to communicate your personal story. A personal story includes, among other things, how one got to where they are, the values they hold dear, the lenses through which they view the world, and how all of this impacts their goals and trajectory--where they want to be and what they want to accomplish in the future. This session drove home the importance of being able to put all of this in narrative form for when it comes time to look for jobs, as doing so will help me and prospective employers to determine where there exists a good fit.
 
 #### (Ethics in AI)
 
