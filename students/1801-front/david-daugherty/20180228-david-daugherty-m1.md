@@ -6,11 +6,11 @@ During this module I set out to try and absorb as much knowledge as possible. I 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3/4
+* **B: Individual Work & Projects**: 3/4
+* **C: Group Work & Projects**: 3/4
+* **D: Professional Skills**: 3/4
+* **E: Community Participation**: 3/4
 
 -----------------------
 
