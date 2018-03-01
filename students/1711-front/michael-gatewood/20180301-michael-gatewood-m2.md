@@ -6,11 +6,11 @@ My goal in M2 is to become familiar with the fundamental principles of Object-Or
 
 ## Self-Evaluation
 
-* **A: Individual Work & Projects**: _0 - 4_
-* **B: Group Work & Projects**: _0 - 4_
-* **C: Professional Skills**: _0 - 4_
-* **D: Community Participation**: _0 - 4_
-* **E: Final Assessment**: _0 - 4_
+* **A: Individual Work & Projects**: 3
+* **B: Group Work & Projects**: 4
+* **C: Professional Skills**: 3
+* **D: Community Participation**: 3
+* **E: Final Assessment**: 3
 
 -----------------------
 
