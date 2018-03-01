@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Quin Hill - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I had no clear picture of what I had hoped to accomplish this Mod, but I think it's fair to say I surpassed it. I had gained some insight into coding through the prework and through some tutorials I had done on my own, but I judging how much I struggled with the javascript I had come across, I am very happy with what I have learned so far. I know I wanted to have a better understanding of HTML, CSS and JavaScript, especially how they tie together. I am pleased to say that I understand that now and I'm looking forward to learning much more.
 
 ## Rubric Scores
 
