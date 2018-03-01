@@ -1,4 +1,4 @@
-# First Last - M2 Portfolio
+# Anna Royer - M2 Portfolio
 
 ## Areas of Emphasis
 
