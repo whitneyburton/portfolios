@@ -34,11 +34,10 @@ _What did you enjoy about Sorting Suite? What was challenging? How did working t
 The goal in completing the Sorting Suite project was to develop sorting programs using the principles of bubble sort, insertion sort, quick sort and merge sort. While I enjoyed the challenge overall, the lack of incremental wins created a lot of stress and struggle.  In comparison, Game Time was a matter of implenting a feature and moving on to the next.  For Sorting Suit, I felt like that I didn't fully grasp everything that every algorithm was doing until the morning of the evaluation.  Had the evaluation been only a few hours sooner, I would not have been comfortable writing the code.  However, I think the struggle provided me with a better overall understanding of the concepts and I am grateful to be able to take this knowledge with me into an interview and explain each methodolgy with confidence.
 
 ### Complete Me
-* **Fundamental JS and Style:** _0 - 4_
-* **Testing:** _0 - 4_
-* **Encapsulation/Breaking Logic into Components:** _0 - 4_
-* **Functional Expectations:** _0 - 4_
-* **Code Sanitation:** _0 - 4_
+* **Fundamental JS and Style:** 3
+* **Testing:** 3
+* **Encapsulation/Breaking Logic into Components:** 3
+* **Functional Expectations:** 3
 
 _What did you enjoy about Complete Me? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
@@ -51,28 +50,28 @@ _Reflect on your group work and projects throughout the inning. Did they help yo
 The group projects in this module were significantly greater in scope and challenge when compared to M1.  Both projects were developed using newly learned technologies and required a greater emphasis on testing.  My group projects allowed me to diversify my techniques in working with other people of varying work styles and expertise.  Both projects were exercises in give and take where both partners had to accomodate their preferred working style for the better of the team.
 
 ### GameTime
-* **Partner:** _Partner's Name_
-* **Game:** _Name of game you built_
-* **Functional Expectations:** _0 - 4_
-* **User Interface:** _0 - 4_
-* **Testing/Code Sanitation:** _0 - 4_
-* **JS Style:** _0 - 4_
-* **Workflow:** _0 - 4_
+* **Partner:** Om Saetehn
+* **Game:** Tron
+* **Functional Expectations:** 
+* **User Interface:** 
+* **Testing/Code Sanitation:** 
+* **JS Style:** 
+* **Workflow:** 
 
 _What did you enjoy about GameTime? What was challenging? What skills did you learn that serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
 GameTime was a project where we were required to develop a game using Canvas, JavaScript, and es6 classes.  Working with canvas was my favorite part of Game Time.  I enjoyed the process of putting together canvas objects on the screen...one dot at a time...then later developing algorithms to develop more complex pieces.  Animating the screen was a lot of fun as well.  I had to make a lot of compromises in my pairing and my patience was tested repeatedly (not because of my partner, but because of my preferred work style).  I came out of this pairing a better partner than I was going in and we were both very happy with the end product.
 
 ### Weathrly
-* **Partner:** _Partner's Name_
-* **Spec Adherence:** _0 - 4_
-* **User Interface:** _0 - 4_
-* **HTML Style:** _0 - 4_
-* **CSS/Sass Style:** _0 - 4_
-* **JS/React Style:** _0 - 4_
-* **Testing:** _0 - 4_
-* **Workflow:** _0 - 4_
-* **Code Sanitation:** _0 - 4_
+* **Partner:** Sabrina Kennedy
+* **Spec Adherence:** 
+* **User Interface:** 
+* **HTML Style:** 
+* **CSS/Sass Style:** 
+* **JS/React Style:** 
+* **Testing:** 
+* **Workflow:** 
+* **Code Sanitation:** 
 
 _What did you enjoy about Weathrly? What was challenging? What skills did you learn that serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
@@ -125,4 +124,4 @@ _What skills from this inning do you plan to review/strengthen over intermission
 I look forward to M3 with an interest in learning to master React and become efficient enough in writing tests that I can finally allow my tests to drive my development.  I intend to spend my intermission week reinforcing the skills I learned in M2.  While I feel prepared to take on the challenge of M3, I need to build additional muscle memory with array/object prototypes and some of the foundational knowledge of es6 and OOP.  I also need to recalibrate my family/school balance by spending some valuable time with my wife and son before diving full steam into M3.
 
 # Outcome:
-_Leave blank for instructors_
+
