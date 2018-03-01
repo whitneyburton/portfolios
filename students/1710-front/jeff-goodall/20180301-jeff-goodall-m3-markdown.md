@@ -176,23 +176,25 @@ The output from ESLint shows…
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/microaggressions_update.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Microaggressions are the everyday verbal, nonverbal, and environmental slights, snubs, or insults, whether intentional or unintentional, which communicate hostile, derogatory, or negative messages to target persons based solely upon their marginalized group membership.
+
+
 
 #### Tragedy of the Commons
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The tragedy of the commons is a term used in social science to describe a situation in a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting or spoiling that resource through their collective action.
+
+I am surprised by how much of a difference this makes when employers are hiring people like them. The website with the examples was very surprising. I enjoyed search through the different senarios and see how it effectid the outcomes.
 
 #### From Introvert to Influential
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1801-inning/group_5.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I was disappointed in this gear up. I picked it because I wanted to get better and learn some tools to help with my lack of confidence. except when i arrived the first excercise was to meet the person next to me and then introduce them in front of everyone. I do see the help of putting people on the spot but I was hopeing for something different. 
 
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The best part of the excercise was the video with the ted talk. it had several incites that I found very helpful.
 
 ## E: Community Participation
 
