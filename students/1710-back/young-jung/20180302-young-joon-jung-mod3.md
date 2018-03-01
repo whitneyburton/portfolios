@@ -3,11 +3,6 @@
 ## Areas of Emphasis  
 I set out to learn about API and how to create and consume them. I also wanted to start thinking about preparing for the job hunt.
 
-I struggled during this mod when it came to my learning, I felt very confident during the first two weeks but the brownfield project dashed my confidence and I didn't learn as much as I could have due. I felt that lack of confidence through to the final eval where I performed badly.
-
-I feel that there was too much pressure on the job hunt during this mod, maybe for some that is fine but I struggled and needed to back off on thinking about the job hunt. Turing is a non-profit, getting grads placed sooner is better for the grad as well as for Turing's reputation but learning is important as well. Maybe move the job hunt pressure towards the end of the mod when people are happily working on their personal projects.
-
-
 ## Self-Assessment
 
 | Section | Category | Score |
@@ -20,6 +15,7 @@ I feel that there was too much pressure on the job hunt during this mod, maybe f
 
 I struggled during this mod when it came to my learning, I felt very confident during the first two weeks after doing well on Rales Engine but the brownfield project and having a lot of new information about new concepts with not very much reinforcement rattled my mental capacity and my confidence and I didn't learn as much as I could have. I felt that lack of confidence through to the final eval where I performed badly and my final project which didn't meet my expectations.  Although there are some areas where I feel weak on and will spend time on improving, I feel that I am ready to move onto the next level.
 
+I feel that there was too much pressure on the job hunt during this mod, maybe for some that is fine but I struggled and needed to back off on thinking about the job hunt. Yes, getting grads placed sooner is better for the grad as well as for Turing's reputation but learning is important as well. Maybe move the job hunt pressure towards the end of the mod with less pressure.  
 -----------------------
 
 ## A: Individual Work & Projects
@@ -41,13 +37,13 @@ I struggled during this mod when it came to my learning, I felt very confident d
 
 | CATEGORY | Rales Engine | Self Directed | The Pivot |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Self Directed](https://) | [The Pivot](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Github Repo** | [Rales Repo](https://github.com/seoulstice/rales_engine) | [hiking-friends](https://github.com/seoulstice/hiking_friends) | [The Pivot](https://github.com/seoulstice/le_pivot) |
+| **Heroku** | [Rales](https://) | [hiking-friends](https://shrouded-castle-30025.herokuapp.com/) | [The Pivot](https://le-pivot-turing.herokuapp.com/) |
+| **Functional/Client Expectations** | 4 | 3 | 2 |
+| **TDD** | 4 | 2 | 3 |
+| **Code Organization/Quality** | 4 | 3 | 3 |
+| **API Design** | 4 | N/A | N/A |
+| **Queries** | 4 | N/A | N/A |
 
 > Rales Engine evaluation comments:
 \<Instructor Comments Here>
@@ -60,22 +56,19 @@ I struggled during this mod when it came to my learning, I felt very confident d
 
 ## C. **Gear Ups**
 
-> [Link To Gear Up]()
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
+> I felt that the Gearup about Microagressions was helpful because we often sometimes say things that could be taken as a microagression when we might not intend to be that way.  The Tragedy of the Commons GearUp was interesting because it had a visual aspect that demonstrated the concept in a more understandable way and it showed how tech can be used to inform people.I participated in the Mod4 lead GearUp about introverts which I found helpful and hope to use some of those concepts during my future job search.
 
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
+>* Over the break between Mods 2 and 3 I spent time with Ellen Mary at a local elementary schol with a group of Turing students where we spend time with kids in a computer science program and allowed them to show us their projects and to show them our projects.
 
 #### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
-
+  >* I have no spent much time with posses, I mostly utilized that time trying to keep up.
+  
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
+> I plan to volunteer again with Ellen Mary and other Turing students over the break between Mod 3 and Mod 4 at another local Denver school.
 
 ------------------
 
