@@ -154,19 +154,25 @@ N/A
 This mod, we learned about ways to manage stress, working with people who have varying personality types, and getting out of a fixed mindset.
 
 ### Gear Up
-#### (Session Name)
+#### Getting Better at Difficult Things
 
 * [Getting Better at Difficult Things](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 
 In this session I came away with a new take on how to learn. From this gear up I gained some prospective on how learning new things is hard and it takes time but it will get easier over time. I also took away that I need to eliminate things that take up cognative load on myself so I can fully devote time to learning.
 
+#### Working Styles
+
 * [Working Styles](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
 In this session I gained a new prospective on other personality types and that when it all boils down that we are very similar to eachother. I also learned to repect those with differing working styles and accept that they might offer something beneficial that I may not possess. I also began to reflect on what recharges me and gets me ready and focused.
 
+#### Managing Stress & Coping Mechanisms
+
 * [Managing Stress & Coping Mechanisms](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
 
 In this session I learned about how to manage my stress and to take care of myself which will help with stress levels. We all deal with stress in different ways and the biggest takeaway was that I need to find ways that work for me that will help with my stress. 
+
+#### Personal Stories & Connection
 
 * [Personal Stories & Connection](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
  
