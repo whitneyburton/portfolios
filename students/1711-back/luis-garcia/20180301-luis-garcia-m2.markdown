@@ -1,6 +1,6 @@
-Luis Garcia - M2 Portfolio
+##Luis Garcia - M2 Portfolio
 
-Areas of Emphasis
+##Areas of Emphasis
 What did you set out to accomplish this module? Were you successful?
   I set out to learn as much of the class material(rails) as possible, to learn how to build apps and build a study habit that forced me to learn more on my own rather than relying on other people and at the same time not get carried away on any single problem for to long. The first time around I doubted myself(kinda like how I always do) and stress myself out which leads to constant overthinking and errors, but this time around and besides the usual minor hick-ups that I've run into, I felt a lot more comfortable and confident and am glad I decided to take that break(even though I wouldn't have had a choice(dang wisdom teeth)).  
 
@@ -15,7 +15,7 @@ Blog
   https://medium.com/@garcia50/today-im-going-to-talk-about-responsive-web-design-so-what-is-responsive-web-design-6b6a891670d1
 
 
-Projects
+##Projects
 What were your favorite projects this module? Least favorite? Why?
   I enjoyed them all, but enjoyed the solo projects more. I felt more challenged to learn at a quicker pace.
 
@@ -26,7 +26,7 @@ What did you learn from your paired projects?
   I learned to communicate through github and work remotely better than before.  
 
 
-Community
+##Community
 What was your favorite Gear Up? Least favorite? Why?
   Case Study with Mod 4
   I enjoyed this GearUp a lot, understanding that you can learn while you teach can be a double edged sword and very valuable.
@@ -40,10 +40,10 @@ What would you like to do to contribute next module?
 
 
 
-Self-Assessment Scores
+##Self-Assessment Scores
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-Category  Score
+##Category  Score
 Individual Projects 3
 Group Projects 4 
 Professional Development 4
@@ -51,4 +51,3 @@ Community 3
 Final Written 3
 Final Timed 2
 
-................................................................................................................................
