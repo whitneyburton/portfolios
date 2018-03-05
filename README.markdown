@@ -113,7 +113,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 * You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271)
 
-* Your 30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and sent to your coach.
+* Your [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and sent to your coach.
 
 ## Submission Guidelines
 
