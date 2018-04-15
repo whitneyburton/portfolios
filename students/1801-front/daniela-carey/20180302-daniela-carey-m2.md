@@ -20,14 +20,29 @@
 ## B: Individual Work & Projects
 (Intro)
 
-(Project Name)
-GitHub URL
-Original Assignment
+---
+
+#### Sorting Suite
+
+* [GitHub URL](https://github.com/danielafcarey/ds-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 (description)
 
-(evaluation comments)
+(link to evaluation comments)
+(link to evaluation scores)
 
-(evaluation scores)
+---
+
+#### Complete Me
+
+* [GitHub URL](https://github.com/danielafcarey/ds-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+(description)
+
+(link to evaluation comments)
+(link to evaluation scores)
+
+---
 
 -----------------------
 
@@ -35,16 +50,31 @@ Original Assignment
 Projects
 (Intro)
 
-(Project Name)
-GitHub URL
-Original Assignment
+---
+
+#### Game Time
+
+* [GitHub URL](https://github.com/danielafcarey/ds-comp-challenge-1)
+* [GitHub Page](https://danielafcarey.github.io/ds-comp-challenge-1/)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 (description)
 
-(evaluation comments)
+(link to evaluation comments)
+(link to evaluation scores)
 
-(evaluation scores)
+---
 
-(feedback to me)
+#### Weathrly
+
+* [GitHub URL](https://github.com/danielafcarey/ds-comp-challenge-1)
+* [GitHub Page](https://danielafcarey.github.io/ds-comp-challenge-1/)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+(description)
+
+(link to evaluation comments)
+(link to evaluation scores)
+
+---
 
 -----------------------
 
@@ -52,8 +82,17 @@ Original Assignment
 (Intro)
 
 ### Gear Up
-(Session Name)
-GitHub URL
+
+#### Empathy & Privilege
+* [Session Resources](https://github.com/turingschool/gear-up/blob/master/Mod2_Week1_Empathy_and_Privilege.markdown)
+(3-4 sentences summarizing your takeaways from each session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Group Think
+* [Session Resources](https://github.com/turingschool/gear-up/blob/master/Rotation_Session_Groupthink.md)
+(3-4 sentences summarizing your takeaways from each session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Your Cell Phone is a Civil Rights Issue
+* [Session Resources]()
 (3-4 sentences summarizing your takeaways from each session, including things you're continuing to think about, things you learned, things you're doing differently)
 
 -----------------------
