@@ -3,14 +3,16 @@
 ## Areas of Emphasis
 _What was your learning focus this inning? What technical and communication skills did you want to grow? Do you feel like you've achieved those goals?_
 
+My goal this inning was to refine my problem solving process and improve my communication during that process. I focused on gaining a strong understanding of programming vocab and concepts so that I could more clearly communicate about code to my partners, instructors, and eventually to an interviewer. In both group projects and the algorithm and data structures projects, I had to practice and refine these skills. I have definitely improved since the beginning of this inning and see how much more effective I can be as a partner and programmer when I can clearly communicate about the code I'm working on or problem I'm solving. 
+
 ## Self-Evaluation
 _How do you feel you did in these areas this inning?_
 
-* **A: Individual Work & Projects**: _0 - 4_
-* **B: Group Work & Projects**: _0 - 4_
-* **C: Professional Skills**: _0 - 4_
-* **D: Community Participation**: _0 - 4_
-* **E: Final Assessment**: _0 - 4_
+* **A: Individual Work & Projects**: 4
+* **B: Group Work & Projects**: 4
+* **C: Professional Skills**: 4
+* **D: Community Participation**: 3
+* **E: Final Assessment**: 4
 
 -----------------------
 
@@ -18,21 +20,29 @@ _How do you feel you did in these areas this inning?_
 
 _Reflect on your individual work and projects throughout the inning. Did they help you with your areas of emphasis (from above)? What was the most challenging? What patterns do you plan to continue for the next inning? What do you plan to change?_
 
+The individual projects this inning helped refine my problem solving process because they were so difficult. Going into Sorting Suite and Complete Me felt daunting, but I learned the value of breaking problems like these down into smaller sections so that they were easier to think through. 
+
+The most challenging moment during these projects was when I had spent all day writing merge sort and when I finally solved it (got it to sort an unsorted array), I realized it was still not correct because it was so inefficient. I learned the value of TDD because my tests indicated this to me immediately. I eventually had to scrap my code and start from the beginning, which was a good exercise for me to have to think through the problem again and pivot how I was solving it. 
+
+Next inning, I plan to continue to refine this process and want to continue to challenge myself to practice problems that may show up on a technical interview in my "free time". 
+
 ### Study Habits
 
 _What did you notice changed in your study habits from the previous inning to this one? What stayed the same? Do your study habits serve you well?_
 
+This inning was less structured so I had to make sure I was managing my time well to balance working on projects, practicing objects and array prototypes, and studying concepts we learned in class. I'm pretty organized so I didn't find this to be too challenging and definitely feel that this helped me not feel overwhelmed. 
+
 ### Sorting Suite
-* **Outcome:** _Pass/Fail_
+* **Outcome:** Pass
 
 _What did you enjoy about Sorting Suite? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
 ### Complete Me
-* **Fundamental JS and Style:** _0 - 4_
-* **Testing:** _0 - 4_
-* **Encapsulation/Breaking Logic into Components:** _0 - 4_
-* **Functional Expectations:** _0 - 4_
-* **Code Sanitation:** _0 - 4_
+* **Fundamental JS and Style:** 3.5
+* **Testing:** 4
+* **Encapsulation/Breaking Logic into Components:** 4
+* **Functional Expectations:** 4
+* **Code Sanitation:** 4
 
 _What did you enjoy about Complete Me? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
