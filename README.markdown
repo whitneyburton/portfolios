@@ -98,7 +98,7 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 ### Module 3 (Front-end)
 
 * Individual Goals for the Module
-* Individual Assessment 
+* Individual Self Assessment 
 * Final Assessmnet (PASS/FAIL)
 * Included Projects: Headcount 2.0 (Group), SWAPIBox (Individual), Movie Tracker (Group), and Self-Directed Project (Individual)
 * A recap of your reflections from Gear Up
