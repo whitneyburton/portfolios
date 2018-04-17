@@ -37,6 +37,8 @@ This inning was less structured so I had to make sure I was managing my time wel
 
 _What did you enjoy about Sorting Suite? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
 
+I loved Sorting Suite because I love logic puzzles and implementing each sort felt like solving a logic puzzle. I enjoyed the balance on this project between working alone and working with classmates. Because I had finished the sorts earlier in the week, I was able to help talk through and problem solve the sorts with classmates. This helped reinforce my understanding of each sort and helped me refine my problem-solving process. Because I was going through each sort multiple times with classmates, I was able to practice my problem-solving process over and over.  
+
 ### Complete Me
 * **Fundamental JS and Style:** 3.5
 * **Testing:** 4
@@ -45,6 +47,8 @@ _What did you enjoy about Sorting Suite? What was challenging? How did working t
 * **Code Sanitation:** 4
 
 _What did you enjoy about Complete Me? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+
+Similar to Sorting Suite, I really enjoyed Complete Me because it felt like another logic puzzle to solve. I was able to do TDD with this project, which helped me break down the problem into smaller sections as I was implementing each method. Again, I enjoyed the individual work on this project but also enjoyed problem solving with my classmates. Complete Me further refined my problem-solving process which will help me as I move to the next mods and in my interviews after Turing.
 
 -----------------------
 ## B: Group Work & Projects
