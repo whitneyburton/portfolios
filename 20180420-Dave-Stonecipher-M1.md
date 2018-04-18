@@ -1,8 +1,6 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Dave Stonecipher - M1.0 Portfolio
 
 ## Areas of Emphasis
-
-(What did you set out to accomplish this module?)
 
 My aim in Module 1 was to get practice using what I'd managed to teach myself in the months following my college graduation. My interests and passion are heavily in Python and data but I want a foundation in front-end technologies so I can get my foot in the door of a data-related masters program or even a job. My plan was to get this practice through the static comps and pairing projects. What I didn't expect was the differences between Python and JavaScript and the confusion it can cause.
 
@@ -21,8 +19,7 @@ In the future I look forward to diving into frameworks and libraries that will m
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+Repeat
 
 ## B: Individual Work & Projects
 
@@ -33,7 +30,7 @@ https://github.com/stone4789/ds-comp-challenge-1
 Static Comp 2
 https://github.com/stone4789/ds-comp-challenge-2
 Static Comp 3
-https://github.com/stone4789/ds-comp-challenge-3
+https://github.com/stone4789/ds-comp-challenge
 Number Guesser
 https://github.com/stone4789/number_guesser
 
@@ -92,9 +89,9 @@ Static Comps involve being given a design and layout in the form of an image, an
 
 Static Comps involve being given a design and layout in the form of an image, and recreating it with as much accuracy as possible. We only have creative freedom with color pallettes and content.
 
-(evaluation comments)
+***(evaluation comments***
 
-(evaluation scores)
+***(evaluation scores)***
 
 ## C: Group Work & Projects
 
@@ -366,20 +363,33 @@ Great job completing most of the functionality!
 
 
 ## D: Professional Skills
-(Intro)
+Gear Ups were twice-weekly sessions meant to develop professional skills and healthy habits for a future in web development. The sessions were:
+   Mental Health 101
+   Working Styles
+   Code Debugging The Gender Gap
+   Public Data
 
-### Gear Up
-#### (Session Name)
+#### Mental Health 101
+A good opportunity to prepare for Mod 1. This gearup introduced the class to the range of options avialable to relieve stress or seek help from friends and mentors. The overall idea was to keep mental health in mind as you work and balance your priorities with the need for decompression or relief.
 
-* [GitHub URL]()
+* https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+#### Working Styles
+Working Styles was geared toward introducing everybody together that different personalities may offer different pairing experiences in future projects. What was surprising was how few classmates said they were extroverts. It was a useful experience in seeing that introverts aren't alone in this field, we're all in it together, and there are ways to make pairing easier.
+https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown
+
+### Code Debugging The Gender Gap
+This session involved clips from documentaries about the gender gap and sexism in the tech workplace. I'm very familiar with the history but it's always startling to hear. We also touched on choosing your words and actions carefully to be more inclusive. It never hurts to be reminded to be kind to others, and I see it as a valuable effort to change an infamous culture for the better.
+https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md
+
+### Public Data to Change the World
+In a session led by students from Mod4, I got to go back to what's in my wheelhouse: data aggregation. There was a review of what API's are, the nuances involved depending on which you use, and the applications that can be made with the data you find. We spent time researching API's we can use to get data for causes we are passionate about, mine being wealth disparity and the need for tighter regulation of the financial industry. I found a database for an open banking project that I might have to look at during later mods.
+https://github.com/turingschool/gear-up/blob/master/m4_sessions/1803-inning/Public_Data_To_Change_The_World.md
 
 ## E: Community Participation
 
 ### Playing a Part
-
-(ways you supported the larger Turing community)
+Throughout the mod I was always happy to help a peer if I could provide an answer, as well as get a great deal on burgers down the street. In the future I hope to get a stronger grasp on things so I can be better help and afford myself more free time for things like socializing. It's definitely important to utilize the power and morale-boost available within a motivated group.
 
 ------------------
 
