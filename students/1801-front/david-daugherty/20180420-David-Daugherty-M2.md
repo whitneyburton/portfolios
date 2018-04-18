@@ -46,22 +46,22 @@ For Complete Me I was tasked to create a prefix trie. The trie is a way to organ
 
 **Process:** 3  
 **Fundamental JavaScript & Style:** 3  
-**Test-Driven Development & Code Sanitation:** 4 
-**Functional Expectations:** 4 
+**Test-Driven Development & Code Sanitation:** 4  
+**Functional Expectations:** 4  
 
 **Feedback:**  
-Whiteboard adding words
-good process, pretty good use of vocab
-Whiteboard suggest
-ok use of vocab, good understanding, good process
-Whiteboard a new method select
-Good process - start with end in mind
-had clear process
-ok vocab
-Write tests for select
-good understanding of what to test
-good testing philosophy - start with small test cases
-Implement select
+Whiteboard adding words  
+good process, pretty good use of vocab  
+Whiteboard suggest  
+ok use of vocab, good understanding, good process  
+Whiteboard a new method select  
+Good process - start with end in mind  
+had clear process  
+ok vocab  
+Write tests for select  
+good understanding of what to test  
+good testing philosophy - start with small test cases  
+Implement select  
 
 ## C: Group Work & Projects
 
@@ -83,7 +83,7 @@ For gametime Ryan and I were tasked to create the game Tron using HTML canvas an
 **Testing:** 3+  
 **JavaScript Style:** A3 
 **Application Organization:** 3 
-**Workflow:** 3 
+**Workflow:** 3  
 
 **Feedback:**  
 Great division of functionality.
@@ -107,45 +107,33 @@ This was the first time I really felt the Turing struggle with a project. For th
 **Workflow:** 3   
 
 **Feedback:**  
-military time -> regular time
-half the tests failing
-event prevent default should be in search component
-long if statement in DataSanatizer, refactor that
-can convert stateless components that use classes into stateless components that's just a function
+military time -> regular time  
+half the tests failing  
+event prevent default should be in search component  
+long if statement in DataSanatizer, refactor that  
+can convert stateless components that use classes into stateless components that's just a function  
 
 
 ## D: Professional Skills
 This mod, we learned about ways to manage stress, working with people who have varying personality types, and getting out of a fixed mindset.
 
 ### Gear Up
-#### Getting Better at Difficult Things
+#### Empathy and Privalage
 
-* [Getting Better at Difficult Things](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+In this session we really got to know our mod on a personal level. We talked about certain privalage and how it effects out lives. We also talked about being empathetic towards those with less privalage. Overall it was a great discussion that really allowed us as a group to come together a learn more about eachother than just on a superficial level.
 
-In this session I came away with a new take on how to learn. From this gear up I gained some prospective on how learning new things is hard and it takes time but it will get easier over time. I also took away that I need to eliminate things that take up cognative load on myself so I can fully devote time to learning.
+#### Group Think
 
-#### Working Styles
+In this session we learned about group think and how it affects a sort a echo effect in the way we think. We discussed ways to avoid it and about what is and is'nt groupthink. It was a great discussion about whether its always a bad thing and and way we could implement ways at Turing to avoid it.
 
-* [Working Styles](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+#### Tech in Medicine
 
-In this session I gained a new prospective on other personality types and that when it all boils down that we are very similar to eachother. I also learned to repect those with differing working styles and accept that they might offer something beneficial that I may not possess. I also began to reflect on what recharges me and gets me ready and focused.
-
-#### Managing Stress & Coping Mechanisms
-
-* [Managing Stress & Coping Mechanisms](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
-
-In this session I learned about how to manage my stress and to take care of myself which will help with stress levels. We all deal with stress in different ways and the biggest takeaway was that I need to find ways that work for me that will help with my stress. 
-
-#### Personal Stories & Connection
-
-* [Personal Stories & Connection](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
- 
-In this session I started to really think about my personal story and why I came to Turing in the first place. While in the short amount of time we go to craft our stories I felt like I began to really start to create a captivating story that will hopefully overtime become a great story for interested empployers.
+In this session we talked about all teh diiferent ways technology is effection medicine in the world. We also discussed ethical delemmas that come about with the advancement in medicine and how we would deal with it. It was cool to see where the medicine field is heading and how there will be a big change coming where we change from reactive medicine to proactive medicine.
 
 ## E: Community Participation
 
 ### Playing a Part
-Overall, I feel like I did an adequate job of being involved in the Turing community. I took advantage of pairings when needed and reached out to alums for help. I helped classmates with their projects when I could help and tried to attend a few social gatherings when I could. For the next mod I'm challenging myself to become more invovled in the community by helping others in the mods below me as well as trying to be more social and connecting with other mods other than my own. 
+Overall, I feel like I did an adequate job of being involved in the Turing community. I took advantage of pairings when needed and reached out to alums for help. I helped classmates with their projects when I could help and tried to attend a few social gatherings when I could. For the next mod I'm challenging myself to become more invovled in the community by helping others in the mods below me as well as trying to be more social and connecting with other mods other than my own. I have been toying around with an idea to have a design workshop over lunch to help turing students who struggle with design. I have noticed in my time here that design is often considered an afterthought but it can be a big asset in getting you work noticed for potential jobs.
 
 ------------------
 
