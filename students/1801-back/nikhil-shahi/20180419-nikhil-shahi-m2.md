@@ -52,8 +52,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category                     | Score |
 | -----------------------------| ----- |
-| **Individual Projects**      |  3/4  |
-| **Group Projects**           |  3/4  |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
 | **Professional Development** |   3   |
 | **Community**                |   4   |
 | **Final Written**            |   3   |
