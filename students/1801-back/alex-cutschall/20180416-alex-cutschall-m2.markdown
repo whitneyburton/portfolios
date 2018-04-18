@@ -3,8 +3,12 @@
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
-I set out to grasp as much knowledge as I possibly could. I wanted to strike a good balance
-between front end and back end capabilities and I feel like I absolutely did that.
+I want to balance both the front-end and back-end aspects on this module. I want to be successful in both
+fields while also maintaining my skills obtained in Module 1 and mentoring Module 1 students.
+
+I want to expand on my knowledge base outside of Turing with the help of mentors and possibly groups
+outside of the Turing space. In conjunction with that, putting myself out there to be known by people
+to help with my employability.
 
 What did you struggle most with this module? What did you learn from that struggle?
 I was trying to tackle it in the same way that I did Module 1 and tried to learn as much
