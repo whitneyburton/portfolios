@@ -24,6 +24,27 @@ pass
 
 The individual work and projects were an opportunity to apply the concepts that we learned in class, and use a little creative freedom while doing so.  I enjoyed the continual learning process and the opportunity to apply what I learned to these projects.
 
+#### Static Comp Challenge 1
+
+* [GitHub URL](https://github.com/chrisboylen/cb-comp-challenge-one)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+The static comp challenge is the first in a series of three challenges to keep you working that HTML/CSS muscle.
+
+#### Static Comp Challenge 2
+
+* [GitHub URL](https://github.com/chrisboylen/cb-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+The static comp challenge is the second in a series of three challenges to keep you working that HTML/CSS muscle.
+
+#### Static Comp Challenge 3
+
+* [GitHub URL](https://github.com/chrisboylen/cb-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+The static comp challenge is the third in a series of three challenges to keep you working that HTML/CSS muscle.
+
 #### Number Guesser
 
 * [GitHub URL](https://github.com/chrisboylen/number-guesser/tree/master/dog-party)
