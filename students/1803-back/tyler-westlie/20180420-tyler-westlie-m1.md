@@ -2,15 +2,15 @@
 
 ## Areas of Emphasis
 
--Learn Ruby and object-oriented programming
--Learn TDD and pseudo-coding
--Learn how to refactor code and follow ruby conventions
+- Learn Ruby and object-oriented programming
+- Learn TDD and pseudo-coding
+- Learn how to refactor code and follow ruby conventions
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 2.4
 * **B: Individual Work & Projects**: 2.4
-* **C: Group Work & Projects**: X
+* **C: Group Work & Projects**: 2.22
 * **D: Professional Skills**: 3
 * **E: Community Participation**: 3
 
@@ -18,7 +18,10 @@
 
 ## A: End of Module Assessment
 
-I failed the end of module assessment.
+Evaluated By: Brian
+Notes:
+* Your tests are using assert_instance_of a lot. You need to be more specific in your assertions. What should these values be equal to? I could assign all my employees an id of zero and a Date of Jan 1 1970 and it would pass your tests.
+* Your company tests for loading data should be more rigorous. You are only asserting one value for the first entry. I would like to see you at least asserting the length of the data loaded. You are also not testing the return value of the load methods i.e. the hash with the result and error message.
 
 ## B: Individual Work & Projects
 
@@ -78,7 +81,8 @@ When using an enumerable to shovel into or add to an empty collection, there's p
 4. Version Control: 3
 5. Functionality: 1
 
-Justin Highland: I really appreciated your patience, flexibility and communication throughout the project and working with me when I was having a tough time with certain concepts and explaining things over and over again to help.
+Justin Highland:
+I really appreciated your patience, flexibility and communication throughout the project and working with me when I was having a tough time with certain concepts and explaining things over and over again to help.
 
 #### Black Thursday
 
@@ -89,13 +93,14 @@ The goal of this project was to create a system that manages data from CSV files
 
 (evaluation comments)
 
-1. Ruby Syntax & Style:
-2. Breaking Logic into Components:
-3. Test-Driven Development:
-4. Version Control:
-5. Functionality: 
+1. Ruby Syntax & Style: 2
+2. Breaking Logic into Components: 2
+3. Test-Driven Development: 2
+4. Version Control: 2
+5. Functionality: 3
 
-(feedback to me)
+Manoj Panta:
+It was nice working with you in this project. Despite of having a confusion of  whether we gonna finish the project, we actually managed to finish the project ahead of time and i feel like we did pretty good job. I really appreciate that you were patient with my typing and and impatience. Liked the way you pseudo-coded a lot of problems that helped to solve it faster. I really enjoyed answering and explaining things that were unclear and new to you. I recommend keep doing that in further mods too. I believe we both have learned a lot from this project and we both are stronger than before. One thing i would recommend is to be more present. Sometimes i feel like you are thinking about something else and i find you completely off the track (just sometimes). Again, we did pretty good job on this project. Hopefully we get to work together again.
 
 ## D: Professional Skills
 These are the gear up sessions I attended.
