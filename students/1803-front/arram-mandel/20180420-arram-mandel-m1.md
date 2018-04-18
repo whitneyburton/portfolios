@@ -1,32 +1,60 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Arram Mandel) -M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This mod I set out to gain a solid foundational understanding of javascript and jquery. I also set out to improve my html and css knowledge to the point that I could design realistic looking websites. I also set out to gain the vocabulary necessary to articulate my code and any problems that could come up.
+
+<h2>Rubric Scores</h2>
+
+A: End-of-Module Assessment: 3
+B: Individual Work & Projects: 2
+C: Group Work & Projects: 2
+D: Professional Skills: 3
+E: Community Participation: 3
+
+<h2>End of Module Assessment</h2>
+
+I believe I passed the end of module assessment overall
+
+<h2>Individual Work and Projects</h2>
+
+<h3>Number Guesser</h3>
+
+Intro: http://frontend.turing.io/projects/number-guesser.html
+
+Number Guesser:https://github.com/airum82/am-number-guesser
+
+This project is a game that has you guess a number between 1-100. If you get the number right the range that the number can be increases. You can also set your own minimum and maximum range.
+
+Evaluation:https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/number-guesser/arram-mandel.md
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+I believe I passed the end of module assessment overall
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+Besides the static compositions, my only individual project was the number guesser. I believe it went well for a first project. There were clear opportunites for growth and I came away knowing what I needed to improve upon for the next project.
 
-#### (Project Name)
+#### (Number Guesser)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/airum82/am-number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+This project is a game that has you guess a number between 1-100. If you get the number right the range that the number can be increases. You can also set your own minimum and maximum range.
+
+Evaluation:https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/number-guesser/arram-mandel.md
 
 (description)
 
