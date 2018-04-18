@@ -1,4 +1,4 @@
-# YOUR NAME - M2 Portfolio
+# Cameron Buscher - M2 Portfolio
 
 ## Areas of Emphasis
 
