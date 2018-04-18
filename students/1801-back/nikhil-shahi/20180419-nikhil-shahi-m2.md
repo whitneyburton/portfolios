@@ -143,6 +143,12 @@ I enjoyed this session led by the mod 4 students. We learnt how to interact with
 
 One of the great things about Turing has been the plethora of teachers, mentors and peers that have been so willing to help me out with my understanding of the subject matter. Wanting to pay it forward and continuing my tradition from mod 1, I spent a substantial amount of my time mentoring mod 1 students and helping them with their issues. I paired with 3 to 5 students in all and spent between 6 to 8 hours a week with them, either pairing with them on project work or helping them prepare for their paired assessments. Realizing that some students were nervous about their final paired assessment, I took initiative to arrange for pairings between mod 1 students and my peers in mod 2, to simulate a final paired assessment. I look forward to continuing this tradition with the incoming mod 1 BE class.
 
+## F: Miscellaneous
+
+###  Blog Post
+
+- https://medium.com/@shniks/ruby-mixin-things-up-7e4b737d8fae
+
 
 ------------------
 
