@@ -86,19 +86,23 @@ I felt that the Storytelling and Outreach sessions were very valuable because I 
   * [Group Think](https://github.com/turingschool/gear-up/blob/master/Rotation_Session_Groupthink.md)
   * [Your Cell Phone is a Civil Rights Issue]()
 
-_What did you learn during the Gear Up sessions that was surprising? Do you find it important to have conversations like the ones in the Gear Up Sessions? Do you feel like you have the tools to keep having these conversations in the future? in your workplace? with your teammates?_
-
 I felt that the Empathy and Privilege was one of the most valuable Gear Up sessions I've had so far at Turing. This helped our cohort have more empathy for each other which I think helped us work better together during this mod. These discussions and the ones in the Group Think session are important to keep in mind as I move into a new job and 
 
 -----------------------
 
 ## Community Participation
 
-_Reflect on your community participation this inning. How did you opt-in to the community here at Turing? in Denver? Did you pair with students in other modules? Was the experience enjoyable? Illuminating?_
+Going into this mod, I was looking forward to the opportunity to be more active in the community through pairing with Mod 1 students and collaborating with my classmates. I was definitely more active this mod than in Mod 1 by pairing often and collaborating more with my own classmates during Sorting Suite and Complete Me. This 1) helped solidify my own understanding of these concepts and 2) helped me get to know other Turing students and grow my Turing network. Additionally, I found a Turing alum to be my mentor and met via Zoom with other Turing alum to discuss life after Turing. 
 
 ## Final Assessment
 
 _What skills from this inning do you plan to review/strengthen over intermission weeek? What are you looking forward to about next inning? What are you going to do over intermission week to recharge your batteries and reconnect with your longterm goals?_
 
+Next inning, I'm looking forward to getting a better grasp on ReactJS. I hope that next inning gives me similar opportunities to practice my problem solving and logic skills like with Complete Me and Sorting Suite. During intermission week, I plan to:
+* take a break from coding to refresh
+* complete the Mod 3 prework
+* practice using vim
+* work on Leet Code problems to practice for technical interviews
+
 # Outcome:
-_Leave blank for instructors_
+
