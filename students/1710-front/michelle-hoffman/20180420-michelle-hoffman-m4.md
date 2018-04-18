@@ -43,3 +43,12 @@
   I believe this applies to situations outside of programming as well. I've noticed that I'm more inclined to do my research and feel more prepared to tackle issues that I normally would leave for others to take care of. For example, when my car needed a repair, I started researching on my own and watching videos, prepared to fix it on my own. The problem turned out to be a bit more complex than something I could handle without tools, but before Turing I would have just taken it to a mechanic and wouldn't have asked many(if any) questions. 
   
   It's a mindset shift that I've noticed over the last few months that makes me feel more prepared for programming and life in general.
+  
+### What's Next?
+  One of my Strengths Finder themes is Futuristic so I'm adding in this section. I'm enthusiastic about learning some more languages and technologies and pursuing personal projects. Here are a few things I'm planning to do next:
+  
+  * Learn Rails
+  * Experiment with AR/VR programming
+  * Practice creating beautiful UI elements by finding inspiration on Dribbble and designing a personal website
+  * Experiment with scrollytelling and creating effective animations
+  * Expand on my capstone project to create a functional program for a client
