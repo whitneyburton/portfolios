@@ -96,8 +96,6 @@ Going into this mod, I was looking forward to the opportunity to be more active 
 
 ## Final Assessment
 
-_What skills from this inning do you plan to review/strengthen over intermission weeek? What are you looking forward to about next inning? What are you going to do over intermission week to recharge your batteries and reconnect with your longterm goals?_
-
 Next inning, I'm looking forward to getting a better grasp on ReactJS. I hope that next inning gives me similar opportunities to practice my problem solving and logic skills like with Complete Me and Sorting Suite. During intermission week, I plan to:
 * take a break from coding to refresh
 * complete the Mod 3 prework
