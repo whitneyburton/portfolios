@@ -60,7 +60,6 @@
 
 ## C. **Gear Ups**
 
-> [Link To Gear Up]()
 I really enjoyed the Group Think gear up. There is always a lot of discussion that is generated in the mod2/3 gear ups. I also enjoyed the Tech in Health Mod4 gear up. I was able to learn quite a bit about some of the emerging technologies and talk about the ethics of tech in medicine.
 
 ## D: Community Participation
