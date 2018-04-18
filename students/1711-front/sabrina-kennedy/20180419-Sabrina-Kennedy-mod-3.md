@@ -125,7 +125,7 @@ this gear up we talked about the thoughts that are created from groups and the n
 
 * [GitHub URL](https://docs.google.com/spreadsheets/d/1xVlmU6mXCUMJGy0qcjRufEusr9ktbtRWO72K8nkewNY/edit#gid=393922023)
 
-this session was on the need for digital-privacy and things that you can  do to protect your own 
+this session was on the need for digital-privacy and things that you can  do to protect your own  
 
 
 ## E: Community Participation
