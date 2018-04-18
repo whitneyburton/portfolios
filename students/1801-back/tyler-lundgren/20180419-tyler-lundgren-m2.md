@@ -1,4 +1,4 @@
-# First Last - M2 Portfolio
+# Tyler Lundgren - M2 Portfolio
 
 ## Areas of Emphasis
 
