@@ -13,7 +13,8 @@ on certain things more than others. This process helped me to explore all of the
 in an intentional way.
 
 Blog
-Link your blog post here. Include a short description of your topic (one sentence is fine).
+Expressing Creativity Through 3D Printing
+https://medium.com/@alexander.cutschall/expressing-creativity-through-3d-printing-3c971da4e35
 
 ## Rubric Scores
 
