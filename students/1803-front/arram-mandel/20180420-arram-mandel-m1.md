@@ -6,11 +6,13 @@ This mod I set out to gain a solid foundational understanding of javascript and 
 
 <h2>Rubric Scores</h2>
 
-A: End-of-Module Assessment: 3
-B: Individual Work & Projects: 2
-C: Group Work & Projects: 2
-D: Professional Skills: 3
-E: Community Participation: 3
+<ul>
+  <li>End-of-Module Assessment: 3</li>
+  <li>Individual Work & Projects: 2</li>
+  <li>Group Work & Projects: 2</li>
+  <li>Professional Skills: 3</li>
+  <li>Community Participation: 3</li>
+</ul>
 
 <h2>End of Module Assessment</h2>
 
@@ -125,7 +127,7 @@ Evaluation:(https://github.com/turingschool/front-end-submissions-public/blob/ma
 
 ### Playing a Part
 
-(I participated in all PD and Gearup sessions. I tried to learn something from each session and grow as a person. I helped my fellow students with their code whenever I could. And asked clarification questions in class for myself and others.)
+I participated in all PD and Gearup sessions. I tried to learn something from each session and grow as a person. I helped my fellow students with their code whenever I could. And asked clarification questions in class for myself and others.
 
 ------------------
 
