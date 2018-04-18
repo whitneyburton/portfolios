@@ -18,7 +18,7 @@ What did you struggle most with this module? What did you learn from that strugg
 This module, I really struggled with memorizing some of the material and consistently recalling information without relying on examples and projects.  I learned through that struggle that I have to be more proactive about seeking out resources online that are consistent with my visual learning style.  I also learned that I needed more repetitive practice than what was being assigned to me and I needed to make time to focus solely on exercises instead of projects all the time.
 
 ## Blog
-The Dream of the Decentralized Internet
+The Dream of the Decentralized Internet<br>
 https://medium.com/@haleymesander/the-dream-of-the-decentralized-internet-c6fa1421781c
 
 ## Projects
