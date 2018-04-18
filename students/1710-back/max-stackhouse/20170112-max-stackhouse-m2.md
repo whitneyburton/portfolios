@@ -16,6 +16,10 @@ One struggle this module for me was staying engaged near the end of a project. I
 
 Also, I can definitely feel that I'm overall getting more fatigued from the school schedule. I feel like these struggles are related and probably a little bit justified, but I can also take care of myself better.
 
+## Blog Post
+https://hackernoon.com/weve-all-been-there-adedc9e82b42 
+
+
 ## Projects
 ### What were your favorite projects this module? Least favorite? Why?
 Favorites - Bike Share & Little Shop. These were my most favorite because they were group projects. I've really enjoyed the group projects this module, because it allows us a bit more freedom to work on the areas of the project that are personally interesting.
@@ -23,13 +27,11 @@ Favorites - Bike Share & Little Shop. These were my most favorite because they w
 Least Favorite - Job Tracker. Kind of a frustrating project because of how it is framed. It isn't given much importance, so motivation is pretty low for it.
 
 ### What did you learn from your independent projects?
-I can't rely on pure automated testing when building forms and tools for humans. Really need to test out functionality more in the browser rather than just relying on tests. Also, how easily I can get distracted on an open ended project without having a solid plan in place. Definitely need to work on getting a better plan together for my future Individual projects.
+I can't rely on pure automated testing when building forms and tools for humans. Really need to test out functionality more in the browser rather than just relying on tests. Also, how easily I can get distracted on an open ended project without having a solid plan in place. Definitely need to work on getting a better plan together for my future Individual projects. Definitely need to work out a better plan if I try my own prompt again. Felt like that was a big part in my poor performance there.
 
 ### What did you learn from your paired projects?
 Got a lot of practice with being very specific about what to work on. There are a lot of things that can be assumed and if teammates make a different one than you, you're going to be redoing parts. Also, learned how hard it is to break up pieces of a site before others have been implemented.
 
-### Blog Post
-https://hackernoon.com/weve-all-been-there-adedc9e82b42 
 
 ## Community
 ### What was your favorite Gear Up? Least favorite? Why?
@@ -44,10 +46,12 @@ Continue to help tutor other students. It is definitely hard to make the time wi
 ## Self-Assessment Scores
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-Category	Score
-Individual Projects	2
-Group Projects	4
-Professional Development	3
-Community	3
-Final Written	3
-Final Timed	3
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   2   |
+| **Group Projects**           |   4   |
+| **Professional Development** |   3   |
+| **Community**                |   3   |
+| **Final Written**            |   3   |
+| **Final Timed**              |   4   |
+

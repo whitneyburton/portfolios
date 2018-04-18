@@ -61,6 +61,7 @@ Hands down my favorite project of the module. I think a big part of that was the
 
 > [Link To Gear Up]()
 \<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
+My favorite gearup this mod was the Parable of the Polygons. The website we were sent to was interesting and I loved how the demo really showed the affect what would happen if everyone wanted to be near people like them, but not people that are different. Since then I've been thinking a lot about including others not like me in the groups around me.
 
 ## D: Community Participation
 
