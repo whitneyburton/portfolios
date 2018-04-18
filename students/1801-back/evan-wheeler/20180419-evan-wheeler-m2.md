@@ -20,6 +20,9 @@ What did you struggle most with this module? What did you learn from that strugg
 ## Blog
 
 Link your blog post here. Include a short description of your topic (one sentence is fine).
+https://medium.com/@evan.wheeler87/the-benefits-of-one-way-encryption-5c1a4b4e61d6
+
+A short post about one way hashing algorithms and personal data security.
 
 ## Projects
 
