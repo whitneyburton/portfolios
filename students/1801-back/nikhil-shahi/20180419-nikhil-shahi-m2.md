@@ -30,7 +30,7 @@ In mod 2, we had IdeaBox as our individual project.
 
 This purpose of this project is to create an app that lets users record their ideas.
 
-Evaluation comments: Not Assessed
+Evaluation comments: This project was not assessed. This was the one project that really drove home some concepts for me, specially pertaining to authorization and authentication. With the help of Ian and Ali, I was able to complete the project while conforming to all the specs that were laid out for us. I also enjoyed having the freedom to work with css and design the site the way I wanted to.
 
 Evaluation scores: N/A
 
