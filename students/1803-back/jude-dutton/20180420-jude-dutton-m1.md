@@ -126,13 +126,20 @@ I definitely went overboard on branches in this project. This was a project wher
 This final project of Module 1 was desgined to test class and module structure and other object-oriented principles in the context of a fictional database model. We had to create elements like Customer, Item, Merchant, etc., store those in their respective repositories, connect all of those into one root Sales Engine, and finally tie all of that structure into a Sales Analyst containing business analysis.
 
 **Evaluation Comments**
-TBD
+* Over all good job on syntax and style.
+* There is some room for more refactoring in anaylytics and you have some nested blocks.
+* Nice work on the implementing some frontend
 
 **Evaluation Scores**
-TBD
+1. Ruby Syntax & Style: 3
+2. Breaking Logic into Components: 3
+3. Test-Driven Development: 3
+4. Functionality: 4
+5. Version Control: 3
 
 **Feedback To Me**
-TBD
+* I definitely can work on refactoring how I handle working with the values of hashes.
+* Implementing a basic frontend was good.
 
 ## D: Professional Skills
 I found the Professional Development sessions incredibly valuable, and I did find them personally challenging as well. The early session about Growth Mindset was a great mental posture in which to start this mod. Trying to be deliberate about learning and growing new skills through both achievements and failures has been crucial to success in this module. All the other Gear Ups certainly provided useful substance that helped me improve who I am as a person and specifically as a developer
