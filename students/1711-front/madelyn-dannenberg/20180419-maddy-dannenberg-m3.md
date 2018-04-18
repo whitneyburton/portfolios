@@ -30,9 +30,17 @@ Finish Your Fifty is an application for runners with the goal to run a race in e
 
 The frontend was built with React, Redux and React Router and the backend was built with Express and Knex.
 
-(evaluation comments)
+Evaluation Scores: 
 
-(evaluation scores)
+Completion- 4
+CSS/Design- 3
+Code Quality- 3.5
+Redux Architecture- 3
+PropType Implementation- Pass
+README Updates- Pass
+Code Sanitation- 4
+Testing- 3.5
+Workflow- 3.5
 
 
 #### SWAPIbox 
