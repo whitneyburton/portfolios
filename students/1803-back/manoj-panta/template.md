@@ -88,17 +88,33 @@ and successfully complete the mod 2.
 
 -GitHub URL for BlackThursday : https://github.com/manojpanta/black_thursday
 
--Evaluation comments for NightWriter
+-Evaluation comments for BlackThursday
+  Some tests for searching are expecting to not find the thing
+  Tight coupling is making things harder to test
+  Missing some unit tests for attributes. For example, Merchant unit tests
 
--Evaluation Scores for NightWriter
+-Evaluation Scores for BlackThursday
   * Ruby Syntax & Style : 2
-  * Breaking Logic into Components : 3
+  * Breaking Logic into Components : 2
   * Test-Driven Development : 2
   * Functionality : 3
-  * Version Control : 3
+  * Version Control : 2
 
 -FeedBack from project partner
-
+  It was a pleasure working with you Manoj. This project was very challenging
+  and I learned a lot from working with you. I really appreciate how patient
+  you were while we were working together. You never left me behind and
+  explained any refactors you made. It was also really fun working with you
+  in general. Every time we passed a test on the spec harness I felt our combined
+  excitement to keep working even if it was a nice day outside. Also, you taught
+  me a lot about manipulating CSV in ruby. I'm thankful you did that and I have
+  a feeling that it will benefit me for the rest of my time at Turing. I don't
+  have much coaching as far as technical feedback goes. The only thing you
+  could improve on is communication. In person you are very easy to communicate
+  with.On slack it is a little harder to get in contact with you. This didn't
+  really effect the out come of our project but It's something that could
+  be improved on. I would only suggest to make it clear when you're
+  unavailable to communicate.
 
 ** C: Gear Up
 
