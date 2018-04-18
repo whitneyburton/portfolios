@@ -73,6 +73,19 @@ Static Comp 1
 
 (evaluation scores)
 
+#### Number Guesser
+
+* [GitHub URL](https://github.com/TwirlingGoddess/Number-Guesser-Deaux)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
 
 #### Foto Finder
 
@@ -91,10 +104,38 @@ Static Comp 1
 
 (Intro)
 
-#### (Project Name)
+#### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/TwirlingGoddess/LinkList)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+
+#### Idea Box
+
+* [GitHub URL](https://github.com/TwirlingGoddess/BoxIdea)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+
+#### 2DoBox Pivot
+
+* [GitHub URL](https://github.com/marikaross/todobox-pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 (description)
 
