@@ -117,7 +117,7 @@ Evaluation:(https://github.com/turingschool/front-end-submissions-public/blob/ma
 
 #### (Your phone as a civil rights issue)
 
-* [GitHub URL](There was no github resource for this session)
+(There was no github resource for this session)
 
 (This session was about the growing privacy issues faced through online companies selling your information. When you're not charged for the product, you are the product. I learned that the user agreements need to written in a more clear way so users know what they are agreeing to. After the session I also continue to think that if there's a desire to not have your private information shared, then maybe the problem could be mitigated if we made it profitable to not share data. Many companies would come on board if there was profit to be made.)
 
