@@ -1,4 +1,4 @@
-# First Last - M2 Portfolio
+# Kelly Schroeder - M2 Portfolio
 
 ## Areas of Emphasis
 GOAL: Learn how to make a decent looking, but expertly functioning website. Learn how to establish a dynamic database. Increase my git/hub knowledge to account for 95% of scenarios. Code every day including weekends. Get my personal life back in order(walk dogs, go to gym, cook real meals). Find something I am passionate about to start working on the design phase in anticipation of mod 3/4 projects demo night.
