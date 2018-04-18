@@ -75,29 +75,37 @@ Evaluation:https://github.com/turingschool/front-end-submissions-public/blob/mas
 * [GitHub URL](https://github.com/JoOCon/AM-JO-Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-
-
-(description)
-
-(evaluation comments)
+This project was meant to be a list of links to various sites that you want to save. You were supposed to be able to mark them as read and delete them. There was also supposed to be a running tally of how many links you have.
 
 Evaluation:(https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/linked-list/joel-arram.md)
 
-(feedback to me)
+Feedback from Project partner:
+You were a great partner. The general work flow was casual yet professional, productive, and respectful. Even when we hit hard spots in getting functionality you made sure to keep a clear eye on the goal. I felt that you did a great job with keeping in touch and you were very acceptant to goals we agreed upon. I honestly have little to critique, the only thing I could point out is to work on organizing naming conventions. We spoke to this a little during our project. I think it is more a thing that will improve with more practice. Over all, thanks for the great pair and helping me learn. Hope I did the same.
 
 #### (Ideabox)
 
 * [GitHub URL](https://github.com/Haub/ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
+This project was supposed to keep a list of various ideas you have and mark them with one of three qualities using up and downvote buttons. The ideas were supposed to be stored in local storage and persist on page reload. You could also use the delete button to remove them from local storage.
+
 Evaluation:(https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/idea-box/megan-arram.md)
+
+Feedback from Project partner:
+Arram,  I enjoyed working with you on IdeaBox!  It was a challenging project and I thought we complemented each other well in trying to solve some of the problems we encountered.  I felt overwhelmed with other projects that week, and there were a couple points that I wish I could have devoted more time to it.  Thank you for taking extra time to get help from your mentor with it.  You have a great handle on JS and you really pick up things quickly!  I think both of our communication could have been a little stronger... but other than that,  I thought the project went well.  Great job!
 
 #### (Todobox)
 
 * [GitHub URL](https://github.com/airum82/AM-BT-2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
+This project was supposed to improve upon someone else's ideabox. You were supposed to take their repository, refactor it and pivot it to be a list of chores that you could edit and mark as completed. The chores were supposed to be stored in local storage. You could also use the search bar to filter through the chores and return the ones you're looking for.
+
 Evaluation:(https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/idea-box/megan-arram.md)
+
+Feedback from Project partner:
+Arram I wanted to take a moment and thank you for your time on the 2DoBox paring project. Your knowledge of jQuery and the understanding of the project scope was key to success of this project. I appreciated your communication and your relentless ability to search for the answer. I have no doubt that working with your current approach to the task at hand will make you successful in your time at Turing and as move forward in your career.
+Thank You.
 
 ## D: Professional Skills
 
