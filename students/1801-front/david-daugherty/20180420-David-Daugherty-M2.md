@@ -1,1 +1,160 @@
 
+# David Daugherty - M2 Portfolio
+
+## Areas of Emphasis
+
+During this module I set out to try and absorb as much knowledge as possible. I wanted to build a solid foundation so that later down the line I can go and proform better once we get into more complex things. I set out to take this opportunity as serious as possible to gain the most out of this school. I knew going in that this was going to be hard and there will be moments where I may struggle but I wanted to keep an optimistic attitude for what my future will hold when I finish Turing. I know I tend to keep to myself a lot so I may not be as active in the community as I should but should I move on I want to start doing some lunch and learns to help boost the design skills of my peers.
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 3/4
+* **B: Individual Work & Projects**: 3/4
+* **C: Group Work & Projects**: 3/4
+* **D: Professional Skills**: 3/4
+* **E: Community Participation**: 2.5/4
+
+-----------------------
+
+## A: End of Module Assessment
+
+Pending - I believe I fulfilled all the requirements to move on to Mod 3.
+
+
+## B: Individual Work & Projects
+
+The individual projects I completed this Mod were the Sorting Suite and Complete Me.
+
+#### Sorting Suite
+
+* [GitHub URL](https://github.com/daughedm/TDD/tree/sorting-suite)
+* [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
+
+
+For Sorting Suite I was tasked to create 4 sorting algorithms. The four were Bubble, Insertion, Merge and Quick. In this we really learned about the process of breaking down complex problems and solving piece by piece.
+
+**Evaluator: Leta**
+
+#### Complete Me
+
+* [GitHub URL](https://github.com/daughedm/complete-me)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-2/completeMe/docDaugherty.md)
+
+For Complete Me I was tasked to create a prefix trie. The trie is a way to organize data in a way that is quicker to access than a traditional array. In this we really learned about the process of breaking down complex problems and solving piece by piece.
+
+**Evaluator: Cody**
+
+**Process:** 3  
+**Fundamental JavaScript & Style:** 3  
+**Test-Driven Development & Code Sanitation:** 4 
+**Functional Expectations:** 4 
+
+**Feedback:**  
+Whiteboard adding words
+good process, pretty good use of vocab
+Whiteboard suggest
+ok use of vocab, good understanding, good process
+Whiteboard a new method select
+Good process - start with end in mind
+had clear process
+ok vocab
+Write tests for select
+good understanding of what to test
+good testing philosophy - start with small test cases
+Implement select
+
+## C: Group Work & Projects
+
+The group projects I completed this Mod were Game Time and Weathrly.
+
+### Projects
+
+#### Game Time
+
+* [GitHub URL](https://github.com/RyanH5/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-2/gametime/ryan-doc.md)
+
+For gametime Ryan and I were tasked to create the game Tron using HTML canvas and and javascript. I was very pleased with the way it turned out and was able to learn about utilizing classes. We ended up tying for first at the code fair with this game.
+
+**Evaluator: Leta**  
+
+**Functional Expectations:** 3+  
+**Testing:** 3+  
+**JavaScript Style:** A3 
+**Application Organization:** 3 
+**Workflow:** 3 
+
+**Feedback:**  
+Great division of functionality.
+
+#### Weathrly
+
+* [GitHub URL](https://github.com/daughedm/weathrly)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-2/weathrly/camilo-doc.md)
+
+This was the first time I really felt the Turing struggle with a project. For this project I really had to take on the bulk of the load to finish the project on time to a level which I felt acceptable. Instead of panicing I reached out to resources by pairing and talking with my mentor to get the project done. For this project we were tasked with creating cards that have a title and body copy. The twist with this project however was that it needed to save to local storage so everything would stay on the screen on page refresh.
+
+**Evaluator: Cody**  
+
+**Specification Adherence:** 4  
+**User Interface:** 4  
+**HTML Style:** 4  
+**CSS/Sass Style:** 4  
+**JavaScript / React Style:** 3  
+**Testing & Sanitation:** 2  
+**Workflow:** 3   
+
+**Feedback:**  
+military time -> regular time
+half the tests failing
+event prevent default should be in search component
+long if statement in DataSanatizer, refactor that
+can convert stateless components that use classes into stateless components that's just a function
+
+
+## D: Professional Skills
+This mod, we learned about ways to manage stress, working with people who have varying personality types, and getting out of a fixed mindset.
+
+### Gear Up
+#### Getting Better at Difficult Things
+
+* [Getting Better at Difficult Things](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+In this session I came away with a new take on how to learn. From this gear up I gained some prospective on how learning new things is hard and it takes time but it will get easier over time. I also took away that I need to eliminate things that take up cognative load on myself so I can fully devote time to learning.
+
+#### Working Styles
+
+* [Working Styles](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
+
+In this session I gained a new prospective on other personality types and that when it all boils down that we are very similar to eachother. I also learned to repect those with differing working styles and accept that they might offer something beneficial that I may not possess. I also began to reflect on what recharges me and gets me ready and focused.
+
+#### Managing Stress & Coping Mechanisms
+
+* [Managing Stress & Coping Mechanisms](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
+
+In this session I learned about how to manage my stress and to take care of myself which will help with stress levels. We all deal with stress in different ways and the biggest takeaway was that I need to find ways that work for me that will help with my stress. 
+
+#### Personal Stories & Connection
+
+* [Personal Stories & Connection](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
+ 
+In this session I started to really think about my personal story and why I came to Turing in the first place. While in the short amount of time we go to craft our stories I felt like I began to really start to create a captivating story that will hopefully overtime become a great story for interested empployers.
+
+## E: Community Participation
+
+### Playing a Part
+Overall, I feel like I did an adequate job of being involved in the Turing community. I took advantage of pairings when needed and reached out to alums for help. I helped classmates with their projects when I could help and tried to attend a few social gatherings when I could. For the next mod I'm challenging myself to become more invovled in the community by helping others in the mods below me as well as trying to be more social and connecting with other mods other than my own. 
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
