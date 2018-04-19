@@ -175,4 +175,4 @@ to handle api's better. To recharge I'd like to get a good amount of sleep each 
 and meditate. I could start looking into technical writing in order to reconnect with one of my longterm goals.
 
 # Outcome:
-_Leave blank for instructors_
+Promote to Mod 3
