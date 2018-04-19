@@ -2,6 +2,7 @@
 
 ## Areas of Emphasis
 
+
 REPITITION! REPITITION! REPITITION! I was determined not to reference in old projectf for the production of new projects.  In doing so, I discovered the multitude of ways in which a problem could be solved.  Coding in multiple languages, and allowing those languages to interact is like a dance to me, and Icluding some projects that were not assigned to me.
 
 ## Rubric Scores
@@ -126,7 +127,8 @@ Table overflow d/t flex, icons getting smushed
 ## B: Individual Work & Projects
 The first 4 projects presented here were design challenges, to help sharpen our css skills.  They were also a great tool for practicing accessibility integration.  The objective was to recreate the comp exactly. The last two projects were focused on strengthening my skills in JS.  The first of the two was a an assigned project written in Vanilla.  The last of the two was one that I'd constructed on my own, just to get the repitition of html, css, git, github, and my hubmle initial attempt at implementing jQuery in a project.
 
-### DOG PARTY
+
+#### DOG PARTY
 
 * [GitHub URL](https://github.com/TwirlingGoddess/Dog-Party)
 * [Original Assignment](http://frontend.turing.io/lessons/module-1/css-1.html)
@@ -145,8 +147,6 @@ n/a
 
 We were challenged to recreat this comp, but given artistic license with images and color pallet.
 
-Static Comp 1
-
 Horrible contrast between the main icons and their background colors.  Great responsive, but missed the last section on the mobile version.  When the phone switches to the mobile version, the photo that is rendered at the bottom would be better styled at the top of the layout.  Background shadows on the words looks cloudy and messy.  Not Accessible.
 
 n/a
@@ -163,7 +163,6 @@ Horrible colors.  Give it a max width for larger screen sizes.  Center cards, wh
 
 n/a
 
-
 #### Static Comp Challenge 3
 
 * [GitHub URL](https://github.com/TwirlingGoddess/llg-comp-challenge-3)
@@ -172,7 +171,6 @@ n/a
 We were challenged to recreat this comp, but given artistic license with images and color pallet.
 
 Make the Tablet into Header/Paragraph groups, and then take the flex off.  Fix the OPEN button group in the mobile option. Better Accessibility, but should use aria-labelledby or aria-describedby to employ longer alt and aria-label attributes.
-
 ?
 
 
@@ -197,7 +195,6 @@ Create a web page that allows you to upload a photo, its title, and its caption.
 This project was not evaluated
 
 n/a
-
 
 
 ## C: Group Work & Projects
@@ -274,14 +271,11 @@ In Module One, career development is focused on strategies to help students be s
 ##### Reflection:
 I attended the LadyCoders conference to get a better understand what the women in our industry are feeling about this gender gap, outside of the obvious realities.  One perspective that I found valuable was the organizer's experience of being the only and the lonely.  She attested to being treated well by the men, but still feeling microaggressions by being present for conversations that disregarded her presence and made for awkward interactions.  As a queer person of color, I can relate, and find an intersection between ensuring my own space in the workplace alongside that of people of a female identified gender.
 
-
-
 ## E: Community Participation
 
 ### Playing a Part
-
+(ways you supported the larger Turing community)
 I often helped my fellow classmates with further understanding of html, css, and js.  I cleaned on days that were not mine.  I've had long chats with the security, insuring their emotional health was in tact.  Kind, courteous, and appreciative to the cleaners at night, knowing that they rarely get to interact with people from the Turing family.  I also leveraged my mentors and developed awesome relationships with them.
-
 ------------------
 
 ## Final Review
