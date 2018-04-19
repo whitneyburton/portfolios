@@ -33,4 +33,4 @@ Turing has showed me that I can teach myself anything. Coming from the world of 
 ![Beyoncé gif that says, "I slay."](https://media.giphy.com/media/3o6gb7cN7bwDxAbnS8/giphy.gif)
 
 ### Action Plan 
-[Action plan](https://gist.github.com/nogully/e003b961f192b9c1df0798eca5584a95)
+[Here it is](https://gist.github.com/nogully/e003b961f192b9c1df0798eca5584a95)
