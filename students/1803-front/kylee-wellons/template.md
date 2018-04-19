@@ -1,34 +1,39 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Kylee Wellons - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module, I set out to accomplish the most strategic balancing act while creating paradigm shift in the tech world.
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **B: Individual Work & Projects**: Beginner
+* **C: Group Work & Projects**: Beginner
+* **D: Professional Skills**: Beginner
+* **E: Community Participation**: Beginner
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Unsatisfactory.
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+ *Static Composition2 - Tribute to Badu, 
+ 
+ *
 
-#### (Project Name)
+*Dog-Party
+ 
 
-* [GitHub URL]()
-* [Original Assignment]()
+#### Static Comp 2
 
-(description)
+* [GitHub URL](https://github.com/kyleewellons/kc-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+This static composition, composed of HTML and CSS, emphasises the implementation of flexbox and a beginners usage of CSS positioning and color design. 
 
 (evaluation comments)
 
@@ -36,14 +41,14 @@
 
 ## C: Group Work & Projects
 
-### Projects
+### IdeaBox 
 
-(Intro)
+This project 
 
-#### (Project Name)
+#### (IdeaBox)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/kyleewellons/idea-box)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 (description)
 
@@ -51,23 +56,25 @@
 
 (evaluation scores)
 
-(feedback to me)
+(feedback to me) 
 
 ## D: Professional Skills
-(Intro)
+Psudeo coding, Rubber-Ducking, time-blocking and team motivation.
 
 ### Gear Up
-#### (Session Name)
+#### Debugging the Gender Gap
 
 * [GitHub URL]()
+Week 1: Mental Health 101
+Learning the symptoms of dys-regulation, and how our perceptions and our physical symptoms are connected was a vital experience that gave me an awareness of how I respond to stress. Understanding the signs of stress is the first step to finding 
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Debugging the Gender Gap and Finding a Common Ground
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I 
 
 ------------------
 
@@ -75,8 +82,7 @@
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
