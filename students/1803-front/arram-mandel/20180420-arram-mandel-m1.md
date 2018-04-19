@@ -4,22 +4,6 @@
 
 This mod I set out to gain a solid foundational understanding of javascript and jquery. I also set out to improve my html and css knowledge to the point that I could design realistic looking websites. I also set out to gain the vocabulary necessary to articulate my code and any problems that could come up.
 
-<h2>End of Module Assessment</h2>
-
-I believe I passed the end of module assessment overall
-
-<h2>Individual Work and Projects</h2>
-
-<h3>Number Guesser</h3>
-
-Intro: http://frontend.turing.io/projects/number-guesser.html
-
-Number Guesser:https://github.com/airum82/am-number-guesser
-
-This project is a game that has you guess a number between 1-100. If you get the number right the range that the number can be increases. You can also set your own minimum and maximum range.
-
-Evaluation:https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/number-guesser/arram-mandel.md
-
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 3
@@ -47,12 +31,6 @@ Besides the static compositions, my only individual project was the number guess
 This project is a game that has you guess a number between 1-100. If you get the number right the range that the number can be increases. You can also set your own minimum and maximum range.
 
 Evaluation:https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/number-guesser/arram-mandel.md
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 ## C: Group Work & Projects
 
