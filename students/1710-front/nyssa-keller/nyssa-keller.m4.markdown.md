@@ -7,4 +7,4 @@ Throughout my time at Turing, I became a developer all while growing as a person
 Leaving Turing I have strong technical skills and I have knowledge that will help me while I’m on the job search and once I get a job as well. I entered Turing as a current child, but I leave Turing as a former child.
 
 
-[Thirty Day Action Plan](https://calendar.google.com/calendar/b/1/r/week/2018/4/22)
+[Thirty Day Plan](https://calendar.google.com/calendar/b/1/r/week/2018/4/22)
