@@ -118,7 +118,7 @@ I attended "The Value of Introverts" session. I often gravitate towards those ki
 
 ### Playing a Part
 
-I have cleaned all the dishes in the sink before even when they weren't mine. Trying to be friendly and welcoming to everyone I meet (it's not hard, but I'm a shy person so it's harder for me).
+I have cleaned all the dishes in the sink before even when they weren't mine.
 
 ------------------
 
