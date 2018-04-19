@@ -97,11 +97,14 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 ### Module 3 (Front-end)
 
-* Individual Assessment
-* Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
-* Bonus Project (not required): None
-* Community:
-  * A recap of reflections from Gear Up
+* Individual Goals for the Module
+* Individual Self Assessment 
+* Final Assessmnet (PASS/FAIL)
+* Included Projects: Headcount 2.0 (Group), SWAPIBox (Individual), Movie Tracker (Group), and Self-Directed Project (Individual)
+* A recap of your reflections from Gear Up
+* A summary of how you've contributed to the community
+
+*All of your PD deliverables must be completed and submitted [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) before your portfolio review*
 
 ### Module 4 (Back-end)
 
