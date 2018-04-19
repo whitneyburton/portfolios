@@ -15,18 +15,13 @@
 #### Both markdown document and slide presentation are to tell the same story, and should address the following questions:
 
 * What was your biggest achievement of the module?  
-  My biggest achievement of this module was the fact that I was able to pick up a new language in a
-  short amount of time. I really feel like I was able to take the key concepts I learned from each of the previous modules,  
-  not to mention the ability to google and do research; the fact that I know which questions to ask when I'm lost. Another huge  
-  achievement was that I was able to stay focused and finish strong despite being here for as long as I have.
+  My biggest achievement of this module was the fact that I was able to pick up a new language in a  
+  short amount of time. I really feel like I was able to take the key concepts I learned from each of the previous modules,  
+  not to mention the ability to google and do research; the fact that I know which questions to ask when I'm lost. Another huge achievement was that I was able to stay focused and finish strong despite being here for as long as I have.  
 * What provided you with the most struggle? What did you learn from that struggle?  
   The capstone was definitely the biggest struggle for me. Having to plan out and scope a project for about three weeks  
   completely unfettered, whith minimal checkins AND having to work with completely new technologies; having to teach myself  
-  with minimal guidance. As far as building a project, I learned to really refer to project management tools, always have a plan  
-  b when it comes to the creation of a product as to have the best MVP possible, having to scope down depending on the feasability  
-  of what you plan to build. As far learning a new technology, I learned to sometimes take a step back and make sure you really  
-  know how the inner workngs of a technology works before implementing it and basically shooting in the dark. It's ok to take a few  
-  hours and do some tutorials and read some blog posts; it will pay off in the long run. Roll with the punches, have patience.  
+  with minimal guidance. As far as building a project, I learned to really refer to project management tools, always have a     plan b when it comes to the creation of a product as to have the best MVP possible, having to scope down depending on the     feasability of what you plan to build. As far learning a new technology, I learned to sometimes take a step back and make     sure you really know how the inner workngs of a technology works before implementing it and basically shooting in the dark.   It's ok to take a few hours and do some tutorials and read some blog posts; it will pay off in the long run. Roll with the punches, have patience.  
 * What have you done this inning that sets you apart from your peers?  
   What sets me apart from my peers is that I have a relentless work ethic. I will not stop working until I am satisfied with the  
   progress, in terms of content learned or actual production. On many occasions I have been the first one in and last  
