@@ -1,5 +1,5 @@
 # Timothy Joo- M3 Portfolio
-## Areas of Emphasis 
+## Areas of Emphasis
   My goal was to learn how to build and consume API's, which I believe I was successful in. I became better at identifying opportunities for refactoring throughout the MVC framework, whereas before I was only comfortable with refactoring methods that had too much logic in them.
 ## Self-Assessment
 | Section | Category | Score |
@@ -56,4 +56,4 @@ I thought I did pretty well on the final assessment and am proud of the work I d
 ------------------
 ## Final Review
 > #### Notes ( Leave blank for reviewers )
-> #### Outcome ( Leave blank for reviewers )
+> #### Outcome: Promoted

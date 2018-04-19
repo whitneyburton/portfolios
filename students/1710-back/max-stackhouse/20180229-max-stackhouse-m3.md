@@ -87,4 +87,4 @@ My favorite gearup this mod was the Parable of the Polygons. The website we were
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+> #### Outcome: Promoted

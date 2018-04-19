@@ -65,4 +65,4 @@ SAB member and karaoke instagator
 
 > #### Notes ( Leave blank for reviewers )
 
-> #### Outcome ( Leave blank for reviewers )
+> #### Outcome: Promoted
