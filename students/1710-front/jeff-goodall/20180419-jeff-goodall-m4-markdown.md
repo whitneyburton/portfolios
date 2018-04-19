@@ -77,7 +77,7 @@ Explore how bees are vital to agriculture, your happiness, and humanity's succes
 
 # 30-Day Job Search Action Plan
 
-* [Link to my Plan]()
+* [Link to my Plan](https://calendar.google.com/calendar?cid=cmV5Z29vZGFsbEBnbWFpbC5jb20)
 * [Original Assignment](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md)
 
 ------------------
