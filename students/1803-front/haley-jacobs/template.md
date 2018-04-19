@@ -34,22 +34,22 @@ This project was our first introduction to JavaScript. We were asked to build a 
 
 #### Static Comp 1
 
-*[GitHub URL](https://github.com/hljacobs5/hj-comp-challenge-1)
-*[Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+* [GitHub URL](https://github.com/hljacobs5/hj-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 This project was designed to help us work with our HTML and CSS skills. You had to follow the same layout as the template, but we could choose the topic we wanted to create our project on. 
 
 #### Static Comp 2
 
-*[GitHub URL](https://github.com/hljacobs5/hj-comp-challenge-2)
-*[Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+* [GitHub URL](https://github.com/hljacobs5/hj-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
 The second Static Comp challenge was very similar to the first, the only difference was in the layout of the page. It was more complex in some ways; more CSS styling was involved, we had more chances to use CSS effects, and also more complex HTML code.
 
 #### Static Comp 3
 
-*[GitHub URL](https://github.com/hljacobs5/hj-comp-challenge-3)
-*[Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+* [GitHub URL](https://github.com/hljacobs5/hj-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 The final Static Comp challenge was very difficult for most people. As I stated above, flex-box and grid were not necessary to complete these projects, but they were very helpful to those who knew how to use them. It was a complicated template with many different sections designed to challenge Mod 1 students and used as part of the 'pentathalon'.
 
@@ -72,8 +72,8 @@ In this project we were asked to create a list of cards given the user input. Th
 
 #### IdeaBox
 
-*[GitHub URL](https://github.com/hljacobs5/idea-box)
-*[Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+* [GitHub URL](https://github.com/hljacobs5/idea-box)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 This project was similar to Linked List with some key differences. Again, we were supposed to create a thing (idea) and add it to a list. This was the first time we used objects and constructor functions in a project. The idea had features on it such as delete and a quality rating.  
 
@@ -83,8 +83,8 @@ This project was similar to Linked List with some key differences. Again, we wer
 
 #### 2DoBox-Pivot
 
-*[GitHub URL](https://github.com/kyleewellons/2DoBox-Pivot)
-*[Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [GitHub URL](https://github.com/kyleewellons/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 The final partner project of the mod, and the most challenging. We were given a code base (repository) for IdeaBox that belonged to another group in our Mod and asked to refactor it. All the functionality on IdeaBox was required and then new functionality was to be added onto it. It was a lot more challenging working with other peoples code than it sounded, but a good way to get exposure to what programmers are doing a lot of the time since you will often work with other peoples code. 
 
