@@ -94,9 +94,9 @@ and successfully complete the mod 2.
   Missing some unit tests for attributes. For example, Merchant unit tests
 
 -Evaluation Scores for BlackThursday
-  * Ruby Syntax & Style : 2
-  * Breaking Logic into Components : 2
-  * Test-Driven Development : 2
+  * Ruby Syntax & Style : 3
+  * Breaking Logic into Components : 3
+  * Test-Driven Development : 3
   * Functionality : 3
   * Version Control : 2
 
