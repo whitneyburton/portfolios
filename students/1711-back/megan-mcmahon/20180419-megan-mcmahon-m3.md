@@ -20,33 +20,29 @@ This mod, my goal was to use as many different new technologies as I could while
 
 ## A: Individual Work & Projects
 
- **[APIcurious](http://backend.turing.io/module3/projects/apicurious) (Optional)**
- * This project was my first exploration into consuming APIs.  I chose to recreate the GitHub profile page.
- * Though challenging, I think this (along with rales engine), were the two most technically important projects of the mod.  It really helped me get used to making API calls and parsing through the data that is returned.  I am now understanding why learning so much about hashes in mod 1 is so important :)
+**[APIcurious](http://backend.turing.io/module3/projects/apicurious) (Optional)**
+* This project was my first exploration into consuming APIs.  I chose to recreate the GitHub profile page.
+* Though challenging, I think this (along with rales engine), were the two most technically important projects of the mod.  It really helped me get used to making API calls and parsing through the data that is returned.  I am now understanding why learning so much about hashes in mod 1 is so important :)
 
- **[Self Directed](http://backend.turing.io/module3/projects/self_directed_project)**
+**[Self Directed](http://backend.turing.io/module3/projects/self_directed_project)**
 * Parks and Checks - An application that is designed to help the National Park System collect donations.
 * For this project, the most challenging part was probably time management.  I think I could have done a better job setting up larger sprints and creating more features.  But, I do feel that with this project I was able to explore the new technologies that will -hopefully- make me a better engineer - things like background workers, caching, scheduled jobs and optimizing database queries.  
 
 ## B: Group Work & Projects
 
- **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
+**[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 * This project was my first experience creating APIs.
 * Like I mentioned above, I think this was one of the most important projects to get us ready to enter the job market.  This project really made me feel like a developer.
 
- **[Battleshift](http://backend.turing.io/module3/projects/battleshift)**
+**[Battleshift](http://backend.turing.io/module3/projects/battleshift)**
 * This was my first experience with a Brownfield project - taking over someone else's battleship application and shifting it so that it could be played over api calls.
 * I really appreciated that we did a project like this.  While it isn't always the most fun to have to dive into someone else's code and fix or change things - this is exactly what we will be doing on the job.  I think it helped us as students build empathy toward other devs and our future selves.
 
 | CATEGORY | Rales Engine | Self Directed | Battleshift |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://github.com/memcmahon/rails_engine) | [Parks and Checks](https://github.com/memcmahon/battleshift) | [Battleshift Repo](https://github.com/memcmahon/battleshift) |
-| **Heroku** | [Rales](https://) | [Self Directed](http://parksandchecks.herokuapp.com) | [Battleshift](http://powerful-forest-82997.herokuapp.com/) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Github Repo** | [RailsEngine](https://github.com/memcmahon/rails_engine) | [Self Directed](https://github.com/memcmahon/parks_and_checks) | [Battleshift](https://github.com/memcmahon/battleshift) |
+| **Heroku** | [RailsEngine](https://) | [Self Directed](http://parksandchecks.herokuapp.com) | [Battleshift](http://powerful-forest-82997.herokuapp.com/) |
+| **Passing/Not Passing** | X | X | X |
 
 > Rales Engine evaluation comments:
 \<Instructor Comments Here>
@@ -59,7 +55,9 @@ This mod, my goal was to use as many different new technologies as I could while
 
 ## C. **Gear Ups**
 
+[Ethics in MedTech]()
 
+* I really enjoyed this gear-up led by the Mod 4 students.  I think having the mod 4 students lead gear ups is super helpful because, in my experience, the student engagement is a lot higher when students are able to choose the topics they want to explore.  One of the things from this gear-up that I have been continuing to think about is the role developers can play in guiding the companies we work for and with in terms of privacy and ethical practices.  One of the things that I enjoyed most about this gear up is that even though it was focused on med tech, the things that we talked about are applicable to every industry.
 
 ## D: Community Participation
 
