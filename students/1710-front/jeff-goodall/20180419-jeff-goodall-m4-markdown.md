@@ -75,6 +75,11 @@ By the end of this session we will have established Capstone projects that’ll 
 Project Description:
 Explore how bees are vital to agriculture, your happiness, and humanity's success as a species. This site takes you on a scrolling adventure that allows you to test your knowledge and learn in a fun, visual way.
 
+# 30-Day Job Search Action Plan
+
+* [Link to my Plan]()
+* [Original Assignment](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md)
+
 ------------------
 
 ## Final Review
