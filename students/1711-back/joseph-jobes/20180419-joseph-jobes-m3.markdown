@@ -23,8 +23,8 @@ I came to a rough realization that my own self direction is lacking. I may under
 ## A: Individual Work & Projects
 
 > **[APIcurious](http://backend.turing.io/module3/projects/apicurious) (Optional)**
->* \<Description>
->* \<Takeaways, your experience>
+>* This was a Rails project introducing us to the OAuth process and consuming the Github API.
+>* This project was really interesting in that the TDD process was completely new, since we were using OAuth for signing in and using an api call to gather the data that would be displayed on the page. This was also my first introduction with parsing out json to use in our views.
 
 > **[Mat Track](https://github.com/AtmaVichara/mat_track)**
 >* This was my attempt at creating an app that would allow instructors to sign up their schools, schedule their events and lessons, and track students attendance / progress.
@@ -34,7 +34,7 @@ I came to a rough realization that my own self direction is lacking. I may under
 
 > **[Rales Engine](https://github.com/AtmaVichara/rails-engine)**
 >* This project was a Rails API that had some advanced activerecord queries for business analytics on transactions between merchants and items.
->* This was a great introduction into learning the TDD process for developing APIs and working JSON.
+>* This was a great introduction into learning the TDD process for developing APIs and working with JSON.
 
 > **[Battleshift](http://backend.turing.io/module3/projects/the_pivot)**
 >* This project created an API implementation of the game Battleship. It was our first experience with working on brownfield code.
