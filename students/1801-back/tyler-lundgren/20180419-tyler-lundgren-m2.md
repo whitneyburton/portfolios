@@ -9,7 +9,7 @@ What did you struggle most with this module? What did you learn from that strugg
 * In truth I struggled most with the CSS static challenges. On the back end side, at first it was just all the domain specific language. Over time though, and through muscle memory I became much more comfortable with it.  The thing that I have identified for myself to work more on going forward is SQL and SQL joins or ActiveRecord joins (not through relationships but the methods themselves.
 
 ## Blog
-[Medium Blog Post](https://medium.com/@nergdnvlt/a-journey-into-the-world-of-tech-blockchain-a35372b938ed)
+[Medium Blog Post](https://medium.com/@nergdnvlt/a-journey-into-the-world-of-tech-blockchain-a35372b938ed)<br>
 I wrote on bitcoin - specifically the block itself. I think my desired trajectory is something in financial/economic tech/blockchain consultancy or eventually machine learning/AI - esp with regard to the financial/economic tech sector.
 
 ## Projects
