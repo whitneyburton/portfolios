@@ -29,3 +29,6 @@ Skill - I am confident in my skills to think like a coder. I know that I can tac
 Discipline - I know that I will continue to work every day, both on the job hunt and building upon my coding skills. When I get a job, I will carry that discipline to be the best employee I can be.
 
 Hustle - Working hard gets you to the places that you want to be. I will work tirelessly to refine my skills, commit to my  goals, and get to where I want to be. The world is run by those who show up!
+
+30 Day Actionplan
+https://calendar.google.com/calendar/r
