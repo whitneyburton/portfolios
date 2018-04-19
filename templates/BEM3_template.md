@@ -41,7 +41,7 @@
 
 | CATEGORY | Rales Engine | Self Directed | Battleshift |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Battleshift](https://) |
+| **Github Repo** | [Rales Repo](https://) | Self Directed](https://) | [Battleshift](https://) |
 | **Heroku** | [Rales](https://) | [Self Directed](https://) | [Battleshift](https://) |
 | **Functional/Client Expectations** | X | X | X |
 | **TDD** | X | X | X |
