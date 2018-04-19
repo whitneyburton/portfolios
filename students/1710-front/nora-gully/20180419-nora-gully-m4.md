@@ -9,7 +9,7 @@
 ### Struggle
 I initially struggled with our first project, Palette Picker. It was the first time I built a server from scratch and knew what every part of it was doing. It was interesting to be able to capture user input and have it persist in a database for the very first time. After I got over the hill of that project, I was in a better position to take on all the other projects this quarter. 
 
-### Achievments
+### Achievements
 My biggest achievement this module was my capstone project, *Historic Denver*, because it is the most sophisticated project I have done by far. I took the opportunity to create a back end for this project during another assignment, Build Your Own Backend (BYOB), so my capstone project is really the combination of both. 
 
 *Historic Denver* uses public data from the City of Denver to locate all the buildings on the National Register of Historic Places. We then used Mapbox GL to map all of those places on a 3D relief of the city. We also aggregated information about all of those buildings, including photos, using webscraping. 
@@ -33,4 +33,4 @@ Turing has showed me that I can teach myself anything. Coming from the world of 
 ![Beyoncé gif that says, "I slay."](https://media.giphy.com/media/3o6gb7cN7bwDxAbnS8/giphy.gif)
 
 ### Action Plan 
-![Action plan](https://gist.github.com/nogully/e003b961f192b9c1df0798eca5584a95)
+[Action plan](https://gist.github.com/nogully/e003b961f192b9c1df0798eca5584a95)
