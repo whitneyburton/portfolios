@@ -4,16 +4,6 @@
 
 This mod I set out to gain a solid foundational understanding of javascript and jquery. I also set out to improve my html and css knowledge to the point that I could design realistic looking websites. I also set out to gain the vocabulary necessary to articulate my code and any problems that could come up.
 
-<h2>Rubric Scores</h2>
-
-<ul>
-  <li>End-of-Module Assessment: 3</li>
-  <li>Individual Work & Projects: 2</li>
-  <li>Group Work & Projects: 2</li>
-  <li>Professional Skills: 3</li>
-  <li>Community Participation: 3</li>
-</ul>
-
 <h2>End of Module Assessment</h2>
 
 I believe I passed the end of module assessment overall
