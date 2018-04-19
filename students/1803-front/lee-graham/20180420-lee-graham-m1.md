@@ -15,17 +15,115 @@ REPITITION! REPITITION! REPITITION! I was determined not to reference in old pro
 -----------------------
 
 ## A: End of Module Assessment
+
 I think that I passed.  But, I look forward to finding out exactly how I scored on each of the 3 segments of the pentathalon.
+
 ### -Dom Manipulation: 3.5
   I was able to switch from vanilla js at the start of my project, to jQuery, in an effort to save time.  Although I practiced for the exam in vanilla, I completed it live in jQuery with no problem, which made me extremely proud of myself.
+#### Evaluations:
+# Pentathlon: Code Challenge 1
+## Evaluator: David Whitaker
+## Optional Notes:
+------------------------------------------------------------------
+## JAVASCRIPT
+#### Data Types
+* __Proficient:__ Can identify and track data types through any variety of functions, understanding their affect and result on each line of code. Knows which scenarios are better suited for objects vs. arrays and employs them accordingly.
+* __Exceptional:__ Can assess and implement data type decisions for implementation based on increasing performance, shoring up code to be concise/clean, and composing for future maintainability.
+
+#### Conditional Logic
+* __Proficient:__ Can use an if/else statement to effectively handle multiple paths through the code. Writes if/else statements that only have one level of logic (no nesting). Can use logical operators instead of if/else statements where applicable.
+
+#### Functions & Scope
+* __Proficient:__ Functions have single responsibility. The entirety of the function is easy to read what functionality it contains. Function is generally shorter than 8 lines. Uses functions to eliminate repeated code. Comfortable refactoring any piece of code and extracting it to a function.
+
+#### Style
+* __Proficient:__ Code is logically organized, such that reader can easily follow the progression of the app because variable and function names are descriptive and follow a single responsibility approach. There are no major bugs and minimal duplication.
+* __Exceptional:__ Application demonstrates excellent knowledge of JavaScript syntax, style, and refactoring. Application has exceptionally well-factored code with little or no duplication.
+------------------------------------------------------------------
+
+## COLLABORATION
+* __Proficient__
+------------------------------------------------------------------
+
+## DEBUGGING
+#### Dev Tools/Debug Process
+* __Proficient__: Uses the dev tools as their first line of defense when encountering something unexpected. Demonstrates comfort and skill using dev tools to investigate, check layout issues, console log results, and experiment solving problems before writing abundant amounts of code. Will experiment with javascript in the console to test unfamiliar concepts.
+
+
 ### -Mythical Creatures: 3.25
   I prepared for mythical creatures by doing all of the old AND new creatures a multitude of times, and saving my unpassed tests for pairings, whiting out the old passing code and exploring different ways of passing the prototype function tests.  In the exam I struggled a little at first with applying the object literal's dot notation, but I eventually got it, and feel that my work flow was relatively on par with how I prepared.
+
+#### Evaluation:
+# Pentathlon: Code Challenge 2
+## Evaluator: Pamela Lovett
+## Optional Notes:
+## JAVASCRIPT
+#### Data Types
+* __Proficient:__ Can identify and track data types through any variety of functions, understanding their affect and result on each line of code. Knows which scenarios are better suited for objects vs. arrays and employs them accordingly.    
+
+#### Conditional Logic
+* __Proficient:__ Can use an if/else statement to effectively handle multiple paths through the code. Writes if/else statements that only have one level of logic (no nesting). Can use logical operators instead of if/else statements where applicable. 
+
+#### Functions & Scope
+* __Proficient:__ Functions have single responsibility. The entirety of the function is easy to read what functionality it contains. Function is generally shorter than 8 lines. Uses functions to eliminate repeated code. Comfortable refactoring any piece of code and extracting it to a function.    
+
+#### Arrays
+* __Proficient:__ Does not use for loops for arrays - uses array prototypes, such as forEach, to iterate through or manipulate arrays. Can use array to store more complicated data structures such as objects or nested arrays. Is comfortable/efficient with reading array prototype documentation and can efficiently test/apply array prototype methods they have not worked with before.
+
+#### Objects & Prototypes
+* __Proficient:__ Can use object prototypes. Can articulate the definition and the "why" of an object prototype - the best use cases for prototypes.
+
+#### Style
+* __Proficient:__ Code is logically organized, such that reader can easily follow the progression of the app because variable and function names are descriptive and follow a single responsibility approach. There are no major bugs and minimal duplication.  
+------------------------------------------------------------------
+
+## TESTING
+#### Test Comprehension
+* __Proficient__: Can read through each line of a test and understand how to drive the development to make the test pass. If stuck on making a test pass, they know how to investigate where and how the test is failing using the error messages.     +
+------------------------------------------------------------------
+
+## COLLABORATION
+* __Exceptional__   
+------------------------------------------------------------------
+
+## DEBUGGING / WORKFLOW
+* __Proficient__: Uses the dev tools as their first line of defense when encountering something unexpected. Demonstrates comfort and skill using dev tools to investigate, check layout issues, console log results, and experiment solving problems before writing abundant amounts of code. Will experiment with javascript in the console to test unfamiliar concepts.
+
 ### -Static Comp Challenge #3: 3.0
   I slayed this challenge.  I'm known for having tacky colors on my comps, and for leaving out details. As a result, I decided to stay true to the comp and all of its stylings, and specificities. Because of how high the level of extraness usually is in my comps, in terms of styling, there are usually a few things that don't work in my code by the time things get pushed to github Pages.  I was happy with the exactness of my comp in comparison to the given comp.  I did, however, struggle with some squirreliness in the mobile layout, but nothing that couldn't easily be fixed with a bit more time and attention, which left me ever confident that my original planning around the layout was sound. 
 
+####Evaluation:
+# Pentathlon: Static Comp 3
+## Evaluator: Nathaniel Foster
+## Optional Notes:
+Button next to input is a little off
+Be more descriptive with icon alt tag
+Mobile view has several issues
+Table overflow d/t flex, icons getting smushed
+## HTML
+#### Accessibility
+|Proficient         | Employs detailed accessibility practices throughout markup, especially in forms and can speak to decisions made in accessibility choices as it relates to specific accessibility concerns. |
+#### Style
+|Proficient         | Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices. |
+<br>
+------------------------------------------------------------------
+## CSS
+#### Structure of Code
+|Proficient         | Leverages cascading styles and CSS specificity rules to create more complex targeting of elements in order to reduce, reuse, share styles across elements. Organizes properties within rules based upon industry standard principles of writing consistent, idiomatic CSS. |
+#### Implementation
+|Proficient         | Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout. |
+<br>
+------------------------------------------------------------------
+## DESIGN
+#### Comp Recreation
+|Proficient         | Developer captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but developer is clearly mindful of details and has made a conscious and careful effort to match the comp. Any design decisions left open to interpretation are handled thoughtfully and are well executed, but are more noticable and/or unintuative than they would be if the designer had provided the solution, or may not be totally seamless during screen-size transitions.|
+#### Design Concepts
+|Proficient         | Can apply fundamental design concepts in a comp that demonstrates a thoughtful, purposeful, cohesive strategy that does not detract from legibility or overall design integrity.  |
+
+/////////////////////////////////////////
+<br>
 
 ## B: Individual Work & Projects
-
 The first 4 projects presented here were design challenges, to help sharpen our css skills.  They were also a great tool for practicing accessibility integration.  The objective was to recreate the comp exactly. The last two projects were focused on strengthening my skills in JS.  The first of the two was a an assigned project written in Vanilla.  The last of the two was one that I'd constructed on my own, just to get the repitition of html, css, git, github, and my hubmle initial attempt at implementing jQuery in a project.
 
 ### DOG PARTY
