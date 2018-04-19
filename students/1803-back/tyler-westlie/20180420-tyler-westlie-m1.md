@@ -10,7 +10,7 @@
 
 * **A: End-of-Module Assessment**: 2.4
 * **B: Individual Work & Projects**: 2.4
-* **C: Group Work & Projects**: 2.22
+* **C: Group Work & Projects**: 2.6
 * **D: Professional Skills**: 3
 * **E: Community Participation**: 3
 
@@ -91,11 +91,10 @@ I really appreciated your patience, flexibility and communication throughout the
 
 The goal of this project was to create a system that manages data from CSV files. We needed to create database operations that could create, read, update, and delete information from the database. Along with CRUD we needed to make sure that the responsibilities of each classes were encapsulated.
 
-(evaluation comments)
 
-1. Ruby Syntax & Style: 2
-2. Breaking Logic into Components: 2
-3. Test-Driven Development: 2
+1. Ruby Syntax & Style: 3
+2. Breaking Logic into Components: 3
+3. Test-Driven Development: 3
 4. Version Control: 2
 5. Functionality: 3
 
