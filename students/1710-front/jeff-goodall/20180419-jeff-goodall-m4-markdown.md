@@ -10,13 +10,13 @@ My goal was to learn as much as I could. I started off hesitant that it would di
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Community Participation**: 3
+* **E: Community Participation**: 4
 
 -----------------------
 
 ## A: End of Module Assessment
 
-passed
+Passing with flying colors! :)
 
 # B: Individual Work & Projects
 
@@ -32,11 +32,25 @@ There is a website out there called Coolors - and others like it are out there. 
 
 Your job is to recreate some of this site’s functionality with your own backend and database. A user should be able to come to your site, generate a color palette, and save it for their own future projects.
 
+## Pattrn Party
 
+* [GitHub URL](https://github.com/goodalls/pattrn-party)
+* [Original Assignment](http://frontend.turing.io/projects/pattrn-party.html)
+
+Project Overview
+Every week you will be given a specific page element to build. It must be responsive and the HTML, CSS, and (when/if needed) JS must be written in a modular way. The goal is to create a small library of page components that can be quickly and easily dropped into a project with minimal work to integrate them into a codebase.
 
 # C: Group Work & Projects
 
 ### Projects
+
+## House of Vars
+
+* [GitHub URL](https://github.com/goodalls/refined-github-1)
+* [Original Assignment](http://frontend.turing.io/projects/house-of-vars.html)
+
+Abstract
+So far we’ve been building a lot of projects from scratch. While this is a great way to learn, it doesn’t quite prepare you for the horror that is jumping into a pre-existing codebase full of bugs, legacy code and unfamiliar frameworks and libraries. In this project, we’ll learn how to navigate and contribute to someone else’s codebase by implementing features, refactoring old code, and fixing bugs: all without breaking anything. Be careful what you touch! The slightest change could bring the whole app down.
 
 ## Build Your Own Backend
 
@@ -50,8 +64,16 @@ The main focus of this project will be to reinforce your understanding of CRUD m
 
 The secondary focus of this project is prepping your Capstone project so you have data ready to go and can dive into building a super badass UI instead of wasting a week in Node land. It’s not necessary that you find perfect data for your Capstone, but it’s vital that you know how to setup production APIs that are well tested. You can easily replace the source of your data, so don’t worry if you can’t come up with a good data source or if you have no idea what you want to build for the Capstone. Find or create interesting data that you might want to use in the future.
 
+## Capstone (Bees a scrollytelling journey)
 
+* [GitHub URL](https://github.com/goodalls/bees-scrollytelling)
+* [Original Assignment](http://frontend.turing.io/projects/capstone.html)
 
+Abstract:
+By the end of this session we will have established Capstone projects that’ll guide your last two weeks in the program. It’s your final project which means it’s your last opportunity to build something you’re really proud of and can show off for your portfolio. It’s also the last time you will get to work with your cohort-mates and master your workflow before becoming a professional developer. Take risks, be creative, work nicely with your team and build something useful for others.
+
+Project Description:
+Explore how bees are vital to agriculture, your happiness, and humanity's success as a species. This site takes you on a scrolling adventure that allows you to test your knowledge and learn in a fun, visual way.
 
 ------------------
 
@@ -64,10 +86,10 @@ The secondary focus of this project is prepping your Capstone project so you hav
 ### Outcome
 
 
-* **A: End-of-Module Assessment**: 3.5
-* **B: Individual Work & Projects**: 3.5
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Community Participation**: 4
+* **A: End-of-Module Assessment**: 
+* **B: Individual Work & Projects**: 
+* **C: Group Work & Projects**: 
+* **D: Professional Skills**: 
+* **E: Community Participation**: 
 
 OUTCOME: PASS
