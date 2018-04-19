@@ -23,3 +23,7 @@ While it was a fantastic experience understanding how to properly integrate with
 ## What is the most important skill or lesson that you will take from Turing into your next job?
 
 The most important skill that I will take from Turing into my next job is the ability to learn and be able to produce results. It is one thing to say that you are learning - this can be accomplished over the course of a day, a week, or even a year, but become even minorly proficient is something that I feel I've only begun to truly start grasping during my time here at Turing. 
+
+## 30 Day Post-Graduation Plan
+
+![Weekly Schedule](https://i.imgur.com/QyOxV4L.png)
