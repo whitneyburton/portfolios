@@ -127,11 +127,11 @@ Evaluation Scores
 
 | Rubric                             | Scores |
 | ---------------------------------- | -----: |
-| 1: RubySyntax & Style:             |      x |
-| 2: Breaking Logic into Components: |      x |
-| 3: TDD:                            |      x |
-| 4: Version Control:                |      x |
-| 5: Completed Functionality:        |      x |
+| 1: RubySyntax & Style:             |      3 |
+| 2: Breaking Logic into Components: |      3 |
+| 3: TDD:                            |      2 |
+| 4: Version Control:                |      2 |
+| 5: Completed Functionality:        |      3 |
 
 Partner Feedback
 
