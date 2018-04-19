@@ -6,11 +6,11 @@ In repeating module 1, I wanted to fully solidify my html, css, and javascript s
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 4
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
-* **E: Community Participation**: 4
+* **E: Community Participation**: 3
 
 -----------------------
 
