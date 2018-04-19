@@ -79,7 +79,7 @@ In GameTime, the focus was on MVP functionality and design stayed rudimentary. W
     It's encouraging to hear how much interest there is in having these conversations. It is definitely a good start to reach for balance. But as the marginalized gain more recognition and voice, it's important to remember that empathy doesn't flow uphill easily; it is up to us stay away from bias and ensure that it flows in both directions.
 
   * Group Think/Attention Economy/Tragedy of Commons
-    I found the conversations around Group Think most interesting, particularly the irony of being in an environment where group think is expressed in a positive way while discussing why group think is bad.
+    I found the conversations around Group Think most interesting, particularly the irony of being in an environment where group think is expressed in a positive way while discussing why group think is bad. Until ofcourse I learned that the working definition of Groupthink is different from what one would intuit group think to mean.
 
   * Your Smartphone is a Civil Rights Issue: Digital Privacy as a Developer
     I am very uncomfortable with exposure, so as a developer I will be be doing my best to protect consumer identity and rights. My larger concern with this issue is that information is valuable and can be considered a currency in itself. When services are provided for 'free', there's a tradeoff somewhere. If consumers want to continue to have access to 'free' apps, I do not have faith that their privacy will ever be truly respected.  
