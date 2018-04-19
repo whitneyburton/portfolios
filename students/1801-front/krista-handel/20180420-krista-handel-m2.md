@@ -13,11 +13,11 @@ learning technical vocabulary and by striving to collaberate more with others.
 ## Self-Evaluation
 _How do you feel you did in these areas this inning?_
 
-* **A: Individual Work & Projects**: _0 - 4_ : 3
-* **B: Group Work & Projects**: _0 - 4_ : 3
-* **C: Professional Skills**: _0 - 4_ : 3
-* **D: Community Participation**: _0 - 4_ : 3
-* **E: Final Assessment**: _0 - 4_ : 3
+* **A: Individual Work & Projects**: 3
+* **B: Group Work & Projects**: 3
+* **C: Professional Skills**: 3
+* **D: Community Participation**: 3
+* **E: Final Assessment**: 3
 
 -----------------------
 
@@ -100,7 +100,7 @@ came together and it was very rewarding to see it all come together. I also enjo
 made it easy to practice using my technical vocabulary and to practice describing my process to my partner.
 
 ### Weathrly
-* **Partner:** _Partner's Name_
+* **Partner:** _Alan Charles_
 * **Spec Adherence:** 3
 * **User Interface:** 3
 * **HTML Style:** 3
