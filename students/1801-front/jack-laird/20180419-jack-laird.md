@@ -93,3 +93,4 @@ This mod I was one of the leaders for pairing with mod 1 and also volunteered to
 I want to continue to practice my array prototypes and really solidify object prototypes. I also need to take some time to be outside and enjoy the good weather before I have to go back to the basement for 6 weeks. I hope to practice react as well because there are so many applications to it.
 
 # Outcome:
+Promote to Mod 3
