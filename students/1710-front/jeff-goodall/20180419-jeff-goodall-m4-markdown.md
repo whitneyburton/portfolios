@@ -80,6 +80,10 @@ Explore how bees are vital to agriculture, your happiness, and humanity's succes
 * [Link to my Plan](https://calendar.google.com/calendar?cid=cmV5Z29vZGFsbEBnbWFpbC5jb20)
 * [Original Assignment](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md)
 
+# Portfolio Presentation
+
+* [Portfolio Presentation Deck](https://docs.google.com/presentation/d/11BNJ46giMf97Z4Ovxvy8GqqrdzWgElChEfuInq7cuQk/edit?usp=sharing)
+
 ------------------
 
 ## Final Review
