@@ -86,7 +86,7 @@ Sight Music Lab
 | CATEGORY | Rales Engine | Self Directed | The Pivot |
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/annaroyer/rales_engine) | [Self Directed](https://github.com/annaroyer/sight_music_lab) | [BattleShift](https://github.com/annaroyer/battleshift) |
-| **Heroku** | [Rales](https://) | [Self Directed](https://obscure-gorge-58372.herokuapp.com/) | [BattleShift](https://lit-hollows-27475.herokuapp.com/) |
+| **Heroku** | [Rales](https://) | [Self Directed](https://sight-music-lab.herokuapp.com) | [BattleShift](https://lit-hollows-27475.herokuapp.com/) |
 | **Functional/Client Expectations** | X | X | X |
 | **TDD** | X | X | X |
 | **Code Organization/Quality** | X | X | X |
