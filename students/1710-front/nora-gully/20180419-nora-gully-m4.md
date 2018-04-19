@@ -34,5 +34,3 @@ Turing has showed me that I can teach myself anything. Coming from the world of 
 
 ### Action Plan 
 ![Action plan](https://gist.github.com/nogully/e003b961f192b9c1df0798eca5584a95)
-
-
