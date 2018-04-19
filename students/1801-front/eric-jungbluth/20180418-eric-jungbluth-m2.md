@@ -82,4 +82,4 @@ I'd say my community participation was vastly improved from last inning, but I a
 I definitely want to practice/strengthen my React skills over the intermission week. I know that React is a huge part of Mod 3, so I want to be as prepared as possible. I'm looking forward to React and all of the apps we'll be making in Mod 3 with it. To recharge, I want to catch up on some sleep and go on some trail runs to recharge over intermission week. 
 
 # Outcome:
-_Leave blank for instructors_
+Promote to Mod 3
