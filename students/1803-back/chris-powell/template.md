@@ -111,25 +111,45 @@ jived with it. Hope you pair with you again in the future!
 ## D: Professional Skills
 (Intro)
 
+The professional skills curriculum was designed to help students hone skills
+that they will apply to the social aspects of being a developer.
+
 ### Gear Up
 #### (Mental Health and Wellness)
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The mental health and wellness gear up was very beneficial in helping provide a
+perspective that can be employed while at Turing. The Turing school is very
+challenging and can cause levels of stress that people may have not been exposed
+to before. The take away is it is important to not allow oneself to fall into
+habits that cause more stress than neccessary.
 
 #### (Debugging the Gender Gap)
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Debegging the Gender Gap is a subject that is very important not only in the
+world of software development but the world in general. The gender gap is a
+systemic issue that needs to be confronted in a world that creates inequalities
+for its people. It was brought to the surface in this gear up that a lot of
+software is being engineered naively for the people doing the engineering. In a
+world like ours, where software is becoming ubiquitous for everyone, there is a
+need for diversity in the development process to avoid unseen and unnecessary
+discrimination.   
 
 #### (The Value of Introverts)
 
 * [GitHub URL](n/a)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
+The Value of Introverts was very informative about the group mentality of
+progress in our society. Psychological introspection has revealed that there is
+a spectrum of productivity that ranges from extrovert to introvert and
+everything in between. A number of history's most revered figures were
+introverted and were able to contribute greatly by exercising their capabilities
+in an isolated environment. Recognizing that your introverted doesn't mean that
+you're antisocial but it does mean that you need to express this facet of your
+personality so that you can do your best work for the group.
 
 ## E: Community Participation
 
