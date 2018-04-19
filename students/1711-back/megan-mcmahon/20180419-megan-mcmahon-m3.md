@@ -59,9 +59,7 @@ This mod, my goal was to use as many different new technologies as I could while
 
 ## C. **Gear Ups**
 
-  * I thought the groupthink gear up was a really good concept and is an important thing to talk about.
-  * It does seem as though it might not be the best session for instructors to lead, as it generally seems like an extra/last-minute task they have to take on. As such I sometimes feel like the gear ups aim to achieve deep reflection but end up being kind of lackluster and trite.
-  * I think gear ups are really important precisely because of the reflection they should bring to the community. Maybe we could make them be taken more seriously by moving them toward the beginning of the mod and having gear-up topic experts lead them?
+
 
 ## D: Community Participation
 
