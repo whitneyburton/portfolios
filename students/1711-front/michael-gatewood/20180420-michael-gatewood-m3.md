@@ -6,7 +6,15 @@ My goal in M3 is to become more knowledgeable in React, Redux, and fetching data
 
 ## Rubric Scores
 
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Skills**: X
+* **E: Community Participation**: X
+
 **A: End-of-Module Assessment**: 
+
+PASS
 
 ## Bar Builder
 
@@ -336,7 +344,7 @@ This Gear-Up sessiong was a discussion and practical exercise on mindfulness.  M
 
 ### Playing a Part
 
-I attended Wrap-Ups and community events such as demos and SAV events.  I was also an active participant in all retros.  I tried to be helpful to lower mods.  However, this was a tough module for me and with a slow start out of the gate, I needed to focus most of my energy on learning the material and being promoted to Mod 4.
+I attended Wrap-Ups and community events such as demos and SAB events.  I was also an active participant in all retros.  I tried to be helpful to lower mods.  However, this was a tough module for me and with a slow start out of the gate, I needed to focus most of my energy on learning the material and being promoted to Mod 4.
 
 ------------------
 
@@ -344,8 +352,12 @@ I attended Wrap-Ups and community events such as demos and SAV events.  I was al
 
 ### Notes
 
-( Leave blanks for reviewers )
+PASS
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
