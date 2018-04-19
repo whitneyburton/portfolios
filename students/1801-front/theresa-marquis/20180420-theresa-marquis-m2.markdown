@@ -92,4 +92,4 @@ _I always want to be a contributor to the community.  This mod, I mostly contrib
 _I will complete the pre-work for Mod3.  I will spend some time in quiet rest and relaxation.  I am resolved to be ready for the 80 hours per week that Mod 3 will require._
 
 # Outcome:
-_Leave blank for instructors_
+Promote to Mod 3
