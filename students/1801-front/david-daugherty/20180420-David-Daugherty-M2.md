@@ -7,7 +7,7 @@ During this module I set out to try and absorb as much knowledge as possible. I 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3/4
+* **A: End-of-Module Assessment**: 2/4
 * **B: Individual Work & Projects**: 3/4
 * **C: Group Work & Projects**: 3/4
 * **D: Professional Skills**: 3/4
@@ -94,7 +94,7 @@ Great division of functionality.
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 * [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-2/weathrly/camilo-doc.md)
 
-This was the first time I really felt the Turing struggle with a project. For this project I really had to take on the bulk of the load to finish the project on time to a level which I felt acceptable. Instead of panicing I reached out to resources by pairing and talking with my mentor to get the project done. For this project we were tasked with creating cards that have a title and body copy. The twist with this project however was that it needed to save to local storage so everything would stay on the screen on page refresh.
+This was the first time using react and I can honestly say that it was an enjoyable experience although it came with quite a bit of learning curve. Once I started to usderstand the concepts of state and passing props and when to create a new component the process all seemed to come together. 
 
 **Evaluator: Cody**  
 
