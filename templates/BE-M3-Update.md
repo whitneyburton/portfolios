@@ -16,7 +16,7 @@
 * What was your biggest achievement of the module?
 * What provided you with the most struggle? What did you learn from that struggle?
 * What have you done this inning that sets you apart from your peers?
-* How did your Mod 3 experience with this part of the stack (e.g. building apis, consuming apis) impact what you wanted to be doing after Turing? How did it reframe what you learned in previous modules?
+* How did your Mod 3 experience impact what you wanted to be doing after Turing? How did it reframe what you learned in previous modules?
 * What is the most important skill or lesson that you will take from Turing into your next job?
 
 #### The presentation should not only be a series of slides that directly answers each of these questions with bullet points, but instead should:
