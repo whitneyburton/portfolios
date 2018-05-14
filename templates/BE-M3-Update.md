@@ -27,4 +27,5 @@
 ## Submittal
 
 * Students will submit a pull request of their markdown document to the [Turing Portfolios Repository](https://github.com/turingschool/portfolios) no later than 8:30 am on Thursday of Week 6.
+* The subject/title of the pull request should read: "FirstName LastName - Cohort - Program" (e.g. "Jeff Casimir - 1801 - BE")
 * The pull request will add a single file in a directory with their name in their cohort directory and will be named with the date, their name, and their module (e.g. `/students/1801-back/jeff-casimir/20180301-jeff-casimir-m4.md`). Pull requests that change/delete the existing template, or add/remove/edit other files will be closed.
