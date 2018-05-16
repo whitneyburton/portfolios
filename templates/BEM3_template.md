@@ -1,82 +1,31 @@
-# \<Your Name> - M3 Portfolio
+# M3 Portfolio Updates
 
-## Areas of Emphasis
+## Learning Goals
 
-> \<What did you set out to accomplish this module?>
+* Gain comfort speaking about and defending their work and code using correct technical vocabulary
+* Practice speaking in front of a group
+* Build the skill of storytelling by presenting a compelling story about themselves and their work
 
-## Self-Assessment
+## Requirements
 
-| Section | Category | Score |
-| --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Work & Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Feedback & Community Participation** | X |
+* Students will prepare a markdown document and submit a pull request to the Turing Portfolios Repository using the template provided (more detail below under ***Submittal***).
+* Students will also prepare a 5 minute slide presentation to give to M3 Instructors.
 
->* \<Takeaways, your experience>
->* \<Notes>
+#### Both markdown document and slide presentation are to tell the same story, and should address the following questions:
 
------------------------
+* What was your biggest achievement of the module?
+* What provided you with the most struggle? What did you learn from that struggle?
+* What have you done this inning that sets you apart from your peers?
+* How did your Mod 3 experience impact what you wanted to be doing after Turing? How did it reframe what you learned in previous modules?
+* What is the most important skill or lesson that you will take from Turing into your next job?
 
-## A: Individual Work & Projects
+#### The presentation should not only be a series of slides that directly answers each of these questions with bullet points, but instead should:
 
-> **[APIcurious](http://backend.turing.io/module3/projects/apicurious) (Optional)**
->* \<Description>
->* \<Takeaways, your experience>
+* Follow a narrative format -- this is an opportunity to fine tune your story and how you speak about your work. Slides should flow naturally from one to the next.
+* Include images and graphics to illustrate the concepts you plan to discuss. These may include screenshots/animated gifs of an application you created, snippets of code from your projects, diagrams of interesting concepts/structures that you used in your project(s).
 
-> **[Self Directed](http://backend.turing.io/module3/projects/self_directed_project)**
->* \<Description>
->* \<Takeaways, your experience>
+## Submittal
 
-## B: Group Work & Projects
-
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
->* \<Description>
->* \<Takeaways, your experience>
-
-> **[Battleshift](http://backend.turing.io/module3/projects/battleshift)**
->* \<Description>
->* \<Takeaways, your experience>
-
-| CATEGORY | Rales Engine | Self Directed | Battleshift |
-| --- | --- | --- | --- |
-| **Github Repo** | [RailsEngine](https://) | [Self Directed](https://) | [Battleshift](https://) |
-| **Heroku** | [RailsEngine](https://) | [Self Directed](https://) | [Battleshift](https://) |
-| **Passing/Not Passing** | X | X | X |
-
-> Rales Engine evaluation comments:
-\<Instructor Comments Here>
-
-> Cloney Island Sprint 1 evaluation comments:
-\<Instructor Comments Here>
-
-> Cloney Island Sprint 2 evaluation comments:
-\<Instructor Comments Here>
-
-## C. **Gear Ups**
-
-> [Link To Gear Up]()
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
-
-## D: Community Participation
-
-#### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
-
-#### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
-
-#### **Playing a Part**
-
-> \<How else you've contributed to the community>
-
-------------------
-
-## Final Review
-
-> #### Notes ( Leave blank for reviewers )
-
-> #### Outcome ( Leave blank for reviewers )
+* Students will submit a pull request of their markdown document to the [Turing Portfolios Repository](https://github.com/turingschool/portfolios) no later than 8:30 am on Thursday of Week 6.
+* The subject/title of the pull request should read: "FirstName LastName - Cohort - Program" (e.g. "Jeff Casimir - 1801 - BE")
+* The pull request will add a single file in a directory with their name in their cohort directory and will be named with the date, their name, and their module (e.g. `/students/1801-back/jeff-casimir/20180301-jeff-casimir-m4.md`). Pull requests that change/delete the existing template, or add/remove/edit other files will be closed.
