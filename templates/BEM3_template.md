@@ -8,8 +8,7 @@
 
 ## Requirements
 
-* Students will prepare a markdown document and submit a pull request to the Turing Portfolios Repository using the template provided (more detail below under ***Submittal***).
-* Students will also prepare a 5 minute slide presentation to give to M3 Instructors.
+* Students will prepare a 5 minute slide presentation to give to M3 Instructors.
 
 #### Both markdown document and slide presentation are to tell the same story, and should address the following questions:
 
