@@ -1,4 +1,4 @@
-# M3 Portfolio Updates
+# M3 Portfolio Requirements
 
 ## Learning Goals
 
