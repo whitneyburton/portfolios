@@ -30,7 +30,7 @@ The two individual projects this mod were SWAPI-Box and my personal project. I f
 
 A react app that pulls in Star Wars data for planets, people, etc, and displays it. Also allows the user to "favorite" those cards and store them. I learned to work with nested fetch calls on this project, and really leveled-up my knowledge of testing.
 
-* [Evaluation Scores/Comments] (https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-3/swapi/eric/scores.md)
+* [Evaluation Scores/Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-3/swapi/eric/scores.md)
 
 
 #### Personal Project
@@ -66,7 +66,7 @@ A react app that pulls in Star Wars data for planets, people, etc, and displays 
 
 A React app that pulls movie data from an API and displays current movies, with functionality for users to log in and save favorites. This was my first time using Redux and Postgres.
 
-* [Evaluation Scores/Comments] (https://github.com/turingschool/front-end-submissions-public/tree/master/1801/mod-3/movie-tracker/eric-tyler-theresa)
+* [Evaluation Scores/Comments](https://github.com/turingschool/front-end-submissions-public/tree/master/1801/mod-3/movie-tracker/eric-tyler-theresa)
 
 
 ## D: Professional Skills
