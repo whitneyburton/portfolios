@@ -16,7 +16,7 @@ I knew this module was very react heavy, so it was one of my goals to get very c
 
 ## A: End of Module Assessment
 
-Pass. Will gave me a little feedback, but said he didn't see anything in my code that he was concerned about.
+Pass. I got a little feedback from Will, but other than that he said he didn't see anything in my code that he was concerned about.
 
 
 ## B: Individual Work & Projects
@@ -48,14 +48,14 @@ A react app that pulls in Star Wars data for planets, people, etc, and displays 
 
 ### Projects
 
-(Intro)
+Our two group projects this module were Headcount and MovieTracker. Headcount used school district data to display cards, with the ability to compare cards. MovieTracker uses an api to bring in current movie data and displays that information, with the ability for users to log in and store favorite movies.
 
-#### (Headcount 2.0)
+#### Headcount 2.0
 
 * [GitHub URL](https://github.com/EricMellow/headcount2.0)
 * [Original Assignment](https://github.com/turingschool-examples/headcount2.0/scores.md)
 
-(description)
+Headcount uses school district data to display cards, with the ability to compare cards. This was our second time making a react app and got us all more comfortable with both using react and testing react.
 
 * [Evaluation Scores/Comments](https://github.com/turingschool/front-end-submissions-public/tree/master/1801/mod-3/headcount/austin-helen-eric)
 
@@ -74,21 +74,17 @@ A React app that pulls movie data from an API and displays current movies, with 
 
 ### Gear Up
 
-#### (Microaggressions)
+#### Microaggressions
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod3_Week1_Microaggressions_update.md)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-#### (Code Debugging the Gender Gap)
-
-* [GitHub URL]()
+#### Code Debugging the Gender Gap
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-#### (Winning through failure)
-
-* [GitHub URL]()
+#### Winning through failure
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
