@@ -1,13 +1,11 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Justin Highland - M1 Portfolio
 
 ## Areas of Emphasis
 
 For this module I set out to accomplish a few things:
 The first being to gain a better understanding of html and css, 
 and javascript. I set out to do better than I had done in
-back end mod 1 earlier this year, which I believe was accomplished. In front end, the skills are different and just as challenging but feel I have a better grasp of coding in general because of my back end experience, even if it was extremely bittersweet. My main goal I set out to accomplish in the current mod was to pass the mod successfully while learning new FE skills. 
-
-
+back end mod 1 (the previous mod before this one), which I believe was accomplished. In front end, the skills are different and just as challenging but feel I have a better grasp of coding in general because of my back end experience, even if it was extremely bittersweet. My main goal I set out to accomplish in the current mod was to pass the mod successfully while learning new FE skills.
 
 ## Rubric Scores
 
@@ -36,21 +34,27 @@ back end mod 1 earlier this year, which I believe was accomplished. In front end
 (description)
 
 Overview
+
 Build a game where the user guesses a number between 1 and 100. Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own). Phase One: Basic Requirements The application should have the following user interface components:
 
 Zero State:
+
 An input field for guessing the number A button for submitting a guess A button for clearing the input field A button that resets the game
 
 User’s Guess State:
+
 Display the user’s most recent guess Display results and feedback: If their guess is too high, it should display: “That is too high” If their guess is too low, it should display: “That is too low” If the guess is correct, it should display: “BOOM!” Some things to consider: Input fields,regardless of their “type” attribute, store their values in strings. You’ll need to use parseInt() to turn it back into a number. You’ll need a strategy for generating random numbers.
 
 Phase Two: More Better
+
 The input field should only accept numerical entries, within the defined min and max range The application should display an error message if the guess is not a number (e.g. parseInt() returns NaN). The application should display an error if the guess is outside of the range of possible answers. The clear button should be disabled if there is nothing to clear. The reset button should be disabled if there is nothing to reset.
 
 Phase Three: Level Up
+
 Add additional inputs that allow the user to specify the minimum/maximum range. Upon successful win, user’s range is updated: Every time the user wins a round increase the maximum number by 10. Every time the user wins a round decrease the minimum number by 10. Appropriate UI is incorporated such that user understands what is happening. (Pro-tip: You’ll need to adjust the input fields to accept the new minimum and maximum numbers.)
 
 Phase Four: Choose Your Own Adventure
+
 You have liberty with the UI.
 
 Make it two player.
@@ -60,6 +64,7 @@ Incorporate a scoring system based on how quickly user guesses correct number. T
 
 Student: Justin Highland
 Evaluator: Pamela Lovett
+
 Notes/What To Work On:
 Through all of Phase III - great job!
 Continute to iterate on UI to match comp
@@ -89,10 +94,6 @@ Advanced Beginner
 Proficient
 
 #### 
-
-
-
-
 
 
 ## C: Group Work & Projects
@@ -127,6 +128,8 @@ Add a “Clear Read Bookmarks” button which clears all the read bookmarks when
 
 (evaluation comments)
 
+Evaluator: David Whitaker
+
 Notes/What To Work On:
 HTML
 
@@ -144,49 +147,79 @@ Could be a bit more descriptive with naming conventions
 (evaluation scores)
 
 Functional Expectations
+
 Proficient The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals.
+
 HTML
+
 Accessibility
 Advanced Beginner Leverages more precise semantic tags when applicable, and employs basic ARIA roles attributes for added clarity in structure, descriptive image alt attributes, title attributes for applicable anchor tags.
+
 Style
 Advanced Beginner Crafts markup with proper and logical nesting.
 Proficient Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices.
+
 CSS
+
 Structure of Code
+
 Proficient Leverages cascading styles and CSS specificity rules to create more complex targeting of elements in order to reduce, reuse, share styles across elements. Organizes properties within rules based upon industry standard principles of writing consistent, idiomatic CSS.
+
 Implementation
 Proficient Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout.
+
 JAVASCRIPT
+
 Data Types
 Proficient Can identify and track data types through any variety of functions, understanding their affect and result on each line of code. Knows which scenarios are better suited for objects vs. arrays and employs them accordingly.
+
 Conditional Logic
+
 Proficient Can use an if/esle statement to effectively handle multiple paths through the code. Writes if/else statements that only have one level of logic (no nesting). Can use logical operators instead of if/else statements where applicable.
 Functions & Scope
 Proficient Functions have single responsibility. The entirety of the function is easy to read what functionality it contains. Function is generally shorter than 8 lines. Uses functions to eliminate repeated code. Comfortable refactoring any piece of code and extracting it to a function.
+
 Arrays
+
 Proficient Does not use for loops for arrays - uses array prototypes, such as forEach, to iterate through or manipulate arrays. Can use array to store more complicated data structures such as objects or nested arrays. Is comfortable/efficient with reading array prototype documentation and can efficiently test/apply array prototype methods they have not worked with before.
+
 Objects & Prototypes
+
 Advanced Beginner Can use object constructor functions and is comfortable with extracting values of properties on different object instances.
 Proficient Can use object prototypes. Can articulate the definition and the “why” of an object prototype - the best use cases for prototypes.
+
 DOM Manipulation
+
 Proficient Able to extract information, modify attributes, or append/prepend data in the DOM easily regardless of whether they are employing vanilla JavaScript or jQuery. Understands how to harness event bubbling.
+
 Style
+
 Proficient Code is logically organized, such that reader can easily follow the progression of the app because variable and function names are descriptive and follow a single responsibility approach. There are no major bugs and minimal duplication.
+
 GIT & GITHUB
+
 Git
 Advanced Beginner Can create branches and willingly attempts to incorporate branches into their workflow. Commits, while infrequent, are increased in volume and show improvements in description.
+
 Proficient Commits changes frequently with detailed commit messages. Uses feature branches to keep master branch free of incomplete features or bugs.
+
 Github
 Proficient Is comfortable with resolving merge conflicts. Asks for review/merge of their pull requests from teammates. Is comfortable editing code based on review feedback from a pull request and resubmitting the branch code.
+
 DESIGN
+
 Comp Recreation
 Proficient Developer captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but developer is clearly mindful of details and has made a conscious and careful effort to match the comp. Any design decisions left open to interpretation are handled thoughtfully and are well executed, but are more noticeable and/or unintuitive than they would be if the designer had provided the solution, or may not be totally seamless during screen-size transitions.
+
 PAIRING
+
 Collaboration
 Seems like y'all got along okay, but it also appears that Justin has no idea what is going on in the code so be sure to debrief there.
 
 Proficient Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
+
 TERMINOLOGY
+
 Technical Vocab
 For Kent only:
 
