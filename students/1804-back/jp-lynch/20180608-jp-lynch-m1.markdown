@@ -1,0 +1,134 @@
+# JP Lynch - M1 Portfolio
+
+## Areas of Emphasis
+
+In module 1 I wanted to create a good base to build upon during the remainder of my time here at Turing.  I identified a couple areas that I knew I needed to improve upon during my time in Mod1, these areas being testing and readability.
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Skills**: X
+* **E: Community Participation**: X
+
+-----------------------
+
+## A: End of Module Assessment
+
+Passed
+
+
+## B: Individual Work & Projects
+
+I feel I progressed through the projects here in Mod1. In the first project (mastermind) I first created it without any classes, and then had to adapt the code for classes.  By Black Thursday, we were planning out classes and modules before we ever began.
+
+#### (mastermind)
+
+* [GitHub URL](https://github.com/JPLynch35/mastermind)
+* [Original Assignment](http://backend.turing.io/module1/projects/mastermind)
+
+Create a REPL playable version of the game mastermind.  The user tries to guess the computer generated code (by guessing colors in each position).  The game ends when the player correctly guesses the computer generated code.
+
+Too may attr_readers
+Too much in initialize
+Don't need to rename variables for Text.new
+Need to work on your naming of variables and methods
+if you're checking for 0 or 1 as flags, you should use a boolean
+Try to use less flags
+Runners needs to be refactored for readability
+Do this by making abstract, high level methods
+attr_readers should each be on a new line
+
+(evaluation scores)
+
+#### (sortingcards)
+
+* [GitHub URL](https://github.com/JPLynch35/SortingCards)
+* [Original Assignment](http://backend.turing.io/module1/projects/sorting_cards)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### (engima)
+
+* [GitHub URL](https://github.com/MLuce/Enigma)
+* [Original Assignment](http://backend.turing.io/module1/projects/enigma)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### (battleship)
+
+* [GitHub URL](https://github.com/JPLynch35/Battleship)
+* [Original Assignment](http://backend.turing.io/module1/projects/battleship#start-game-sequence)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### (blackthursday)
+
+* [GitHub URL](https://github.com/JPLynch35/black_thursday)
+* [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+## C: Group Work & Projects
+
+### Projects
+
+(Intro)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+## D: Professional Skills
+(Intro)
+
+### Gear Up
+#### (Session Name)
+
+* [GitHub URL]()
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+## E: Community Participation
+
+### Playing a Part
+
+(ways you supported the larger Turing community)
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
