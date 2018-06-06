@@ -57,9 +57,7 @@ Use assert instance of instead of assert_equal something.class
 * Ruby Syntax & Style: 2
 * Breaking Logic into Components: 3
 * Test-Driven Development: 3
-* Functionality: 3
-
-Mastermind is a guessing game and my first introduction to building a REPL interface game in Ruby. 
+* Functionality: 3 
 
 #### Date Night
 
