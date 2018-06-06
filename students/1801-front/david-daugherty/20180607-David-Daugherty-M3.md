@@ -3,15 +3,15 @@
 
 ## Areas of Emphasis
 
-During this module I set out to try and absorb as much knowledge as possible. I wanted to build a solid foundation so that later down the line I can go and proform better once we get into more complex things. I set out to take this opportunity as serious as possible to gain the most out of this school. I knew going in that this was going to be hard and there will be moments where I may struggle but I wanted to keep an optimistic attitude for what my future will hold when I finish Turing. I know I tend to keep to myself a lot so I may not be as active in the community as I should but should I move on I want to start doing some lunch and learns to help boost the design skills of my peers.
+During this module I set out to try and absorb as much knowledge as possible. I wanted to build a solid foundation since I know that the things we learned in this mod will be the bulk of what I'll be doing on the job. I set out to take this opportunity as serious as possible to gain the most out of this school. I knew going in that this was going to be hard and there will be moments where I may struggle but I wanted to keep an optimistic attitude for what my future will hold when I finish Turing. I know I tend to keep to myself a lot so I may not be as active in the community as I should.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 2/4
+* **A: End-of-Module Assessment**: 3/4
 * **B: Individual Work & Projects**: 3/4
 * **C: Group Work & Projects**: 3/4
 * **D: Professional Skills**: 3/4
-* **E: Community Participation**: 2.5/4
+* **E: Community Participation**: 3/4
 
 -----------------------
 
@@ -31,9 +31,19 @@ The individual projects I completed this Mod were SwapiBox and my Personal Proje
 * [Evaluation](https://github.com/daughedm/front-end-submissions-public/blob/master/1801/mod-3/swapi/doc/scores.md)
 
 
-For Sorting Suite I was tasked to create 4 sorting algorithms. The four were Bubble, Insertion, Merge and Quick. In this we really learned about the process of breaking down complex problems and solving piece by piece.
+For SwapiBox I was tasked to create a site that pulled data in from the Star Wars Api and display it as cards. The big take away for this was to learn react and fetch calls on your own to really solidify their concepts. This project really challenged me by relying on myself to all the inner details of react with out relying on anyone else. 
 
 **Evaluator: Christie**
+
+**Specification Adherence:** 3  
+**Code Qulaity:** 3  
+**CSS/Design:** 3+  
+**Testing:** 2  
+**Code Sanitation:** 4  
+**Workflow:** 3  
+
+**Feedback:**  
+Focus on testing.
 
 #### Personal Project - Sportsball
 
@@ -41,28 +51,21 @@ For Sorting Suite I was tasked to create 4 sorting algorithms. The four were Bub
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 * [Evaluation](https://github.com/daughedm/front-end-submissions-public/tree/master/1801/mod-3/personal-projects)
 
-For Sportsball I created an application for people who want to know the bare minimum about what happened with their favorite baseball team the day before. The app takes in baseball data from the sportsradar api and then cleans and repurposes that data into small digestable bits so a person can have a conversation about the game without actually knowing much at all. In this project I used react, redux and router. 
+For Sportsball I created an application for people who want to know the bare minimum about what happened with their favorite baseball team the day before. The app takes in baseball data from the sportsradar api and then cleans and repurposes that data into small digestable bits so a person can have a conversation about the game without actually knowing much at all. In this project I used react, redux and router. The biggest challenge was data cleaning but it challenged me to get better at it and think overall I became better after it.
 
 **Evaluator: Christie**
 
-**Process:** 3  
-**Fundamental JavaScript & Style:** 3  
-**Test-Driven Development & Code Sanitation:** 4  
-**Functional Expectations:** 4  
+**Specification Adherence:** TBD  
+**Code Qulaity:** TBD  
+**CSS/Design:** TBD 
+**Testing:** TBD  
+**Code Sanitation:** TBD 
+**Redux Architecture:** TBD
+**Routing:** TBD
+**Workflow:** TBD    
 
 **Feedback:**  
-Whiteboard adding words  
-good process, pretty good use of vocab  
-Whiteboard suggest  
-ok use of vocab, good understanding, good process  
-Whiteboard a new method select  
-Good process - start with end in mind  
-had clear process  
-ok vocab  
-Write tests for select  
-good understanding of what to test  
-good testing philosophy - start with small test cases  
-Implement select  
+ 
 
 ## C: Group Work & Projects
 
@@ -76,18 +79,19 @@ The group projects I completed this Mod were HeadCount and Movie-Tracker.
 * [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
 * [Evaluation](https://github.com/daughedm/front-end-submissions-public/blob/master/1801/mod-3/headcount/saemus-theresa-doc/scores.md)
 
-For gametime Ryan and I were tasked to create the game Tron using HTML canvas and and javascript. I was very pleased with the way it turned out and was able to learn about utilizing classes. We ended up tying for first at the code fair with this game.
+For head count we were tasked to create an app that pulled data in from a data set, clean it and display it in a digestable way. The goal of this project was to get more comfortable with react and to get better at cleaning data. 
 
 **Evaluator: Will**  
 
-**Functional Expectations:** 3+  
-**Testing:** 3+  
-**JavaScript Style:** A3 
-**Application Organization:** 3 
-**Workflow:** 3  
+**Specification Adherence:** 3  
+**Code Qulaity:** 3+  
+**CSS/Design:** 4  
+**Testing:** 4  
+**Code Sanitation:** 4  
+**Workflow:** 4  
 
 **Feedback:**  
-Great division of functionality.
+N/A
 
 #### Movie-Tracker
 
@@ -95,41 +99,38 @@ Great division of functionality.
 * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
 * [Evaluation](https://github.com/daughedm/front-end-submissions-public/blob/master/1801/mod-3/movie-tracker/sage-doc-alan/scores.md)
 
-This was the first time using react and I can honestly say that it was an enjoyable experience although it came with quite a bit of learning curve. Once I started to usderstand the concepts of state and passing props and when to create a new component the process all seemed to come together. 
+This was the first time using redux in a project as well as router. We were tasked to create an application that pulls movies from the movieDB api and populate them on the page. The user is able to select and favorite movies as well as have a user account tha stores their favorites. This project had a lot going on and was by far the hardest project I've been a part of at turing. 
 
 **Evaluator: Will**  
 
 **Specification Adherence:** 4  
-**User Interface:** 4  
-**HTML Style:** 4  
-**CSS/Sass Style:** 4  
-**JavaScript / React Style:** 3  
-**Testing & Sanitation:** 2  
-**Workflow:** 3   
+**Code Qulaity:** 3+  
+**CSS/Design:** 4  
+**Testing:** 3+  
+**Code Sanitation:** 4 
+**Redux Architecture:** 3
+**Routing:** 4
+**Workflow:** 4   
 
 **Feedback:**  
-military time -> regular time  
-half the tests failing  
-event prevent default should be in search component  
-long if statement in DataSanatizer, refactor that  
-can convert stateless components that use classes into stateless components that's just a function  
+Make multiple actions files and import into one.
 
 
 ## D: Professional Skills
-This mod, we learned about ways to manage stress, working with people who have varying personality types, and getting out of a fixed mindset.
+This mod, we learned about how to tailor our resumes and learned about getting better at answering interview questions.
 
 ### Gear Up
 #### Micro-Agression
 
-In this session we really got to know our mod on a personal level. We talked about certain privalage and how it effects out lives. We also talked about being empathetic towards those with less privalage. Overall it was a great discussion that really allowed us as a group to come together a learn more about eachother than just on a superficial level.
+In this session we talked about what microagressions are and how we should be more mindful of things we say because certain things that may seem harmless might actually be really offensive to someone around you. We also talked about . how we need to step in an confront people that are using microagressions.
 
-#### Group Think
+#### Gender Gap
 
-In this session we learned about group think and how it affects a sort a echo effect in the way we think. We discussed ways to avoid it and about what is and is'nt groupthink. It was a great discussion about whether its always a bad thing and and way we could implement ways at Turing to avoid it.
+In this session we talked about how why women are under represented in the tech word today. We watched a movie and then got into small groups and discuessed our opinions about why it the way it is and ways we can help change it.
 
 #### AI
 
-In this session we talked about all teh diiferent ways technology is effection medicine in the world. We also discussed ethical delemmas that come about with the advancement in medicine and how we would deal with it. It was cool to see where the medicine field is heading and how there will be a big change coming where we change from reactive medicine to proactive medicine.
+In this session we talked about all the diiferent ways AI is effecting the world. We also discussed ethical delemmas that come about with the advancement in AI and how we would deal with it. It was cool to see where the AI field is heading and how there will be a big change coming where we need to be mindful of the AI around us and whether its good or bad.
 
 ## E: Community Participation
 
