@@ -79,11 +79,8 @@
 
 (description)
 
-(evaluation comments)
-
 * [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/linked-list/tim-alex.md)
 
-(feedback to me)
 
 #### IdeaBox
 
@@ -92,11 +89,7 @@
 
 (description)
 
-
-
 * [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/idea-box/brandonf-tim.md)
-
-(feedback to me)
 
 #### 2DoBoxPivot
 
@@ -105,11 +98,7 @@
 
 (description)
 
-(evaluation comments)
-
-* [Evaluation scores]()
-
-(feedback to me)
+* [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/to-do-box/gray-timf.md)
 
 
 ## D: Professional Skills
