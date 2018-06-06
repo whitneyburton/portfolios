@@ -28,40 +28,28 @@
 * [GitHub URL](https://github.com/TFisch/TF-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+The static comp challenge is the first in a series of three challenges to keep you working that HTML/CSS muscle.
 
 #### Static Comp 2
 
 * [GitHub URL](https://github.com/TFisch/tf-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+The static comp challenge is the second in a series of three challenges to keep you working that HTML/CSS muscle.
 
 #### Static Comp 3
 
 * [GitHub URL](https://github.com/TFisch/tf-comp-challenge-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+The static comp challenge is the third in a series of three challenges to keep you working that HTML/CSS muscle.
 
 #### Number Guesser
 
 * [GitHub URL](https://github.com/TFisch/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+Build a game where the user guesses a number between 1 and 100.
 
 * [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/number-guesser/tim-fischer.md
 )
@@ -77,7 +65,7 @@
 * [GitHub URL](https://github.com/Alexbruce1/Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(description)
+Build an application that can take in user submitted Titles and Websites and prepend them to individal bookmark cards. These cards can then be marked as read or deleted.
 
 * [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/linked-list/tim-alex.md)
 
@@ -87,7 +75,7 @@
 * [GitHub URL](https://github.com/brandonfiebiger/idea-box)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-(description)
+Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike). Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 
 * [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/idea-box/brandonf-tim.md)
 
@@ -96,7 +84,7 @@
 * [GitHub URL](https://github.com/GraySmith00/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-(description)
+Take a code base from a former student's IdeaBox project and refactor the code to improve layout, functionality, styling and accessibility.
 
 * [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/to-do-box/gray-timf.md)
 
