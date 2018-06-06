@@ -23,14 +23,14 @@ I really wanted to absorb as much information as possible and pass the module. I
 
 (Intro)
 
-#### Number Guesser
+## Number Guesser
 
 * [GitHub URL](https://james-burbage.github.io/number-guesser/)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
 * Build a game where the user guesses a number between 1 and 100.
 
-## Evaluation Comments
+### Evaluation Comments
 
 HTML
 * naming conventions - guess-input instead of input-box
@@ -45,7 +45,7 @@ JS
 * Check out style guides
 * Keep console logging!!!!!
 
-## Evaluation Scores
+### Evaluation Scores
 
 Functional Expectations
 
