@@ -28,6 +28,7 @@ I really wanted to absorb as much information as possible and pass the module. I
 * [GitHub URL](https://github.com/james-burbage/number-guesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
+Description
 * Build a game where the user guesses a number between 1 and 100.
 
 #### Evaluation Comments
