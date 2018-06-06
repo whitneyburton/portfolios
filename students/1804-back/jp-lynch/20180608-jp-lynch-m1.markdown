@@ -30,15 +30,15 @@ I feel I progressed through the projects here in Mod1. In the first project (mas
 
 Create a REPL playable version of the game mastermind.  The user tries to guess the computer generated code (by guessing colors in each position).  The game ends when the player correctly guesses the computer generated code.
 
-Too may attr_readers 
-Too much in initialize 
-Don't need to rename variables for Text.new 
-Need to work on your naming of variables and methods 
-if you're checking for 0 or 1 as flags, you should use a boolean 
-Try to use less flags 
-Runners needs to be refactored for readability 
-Do this by making abstract, high level methods 
-attr_readers should each be on a new line 
+Too may attr_readers  
+Too much in initialize  
+Don't need to rename variables for Text.new  
+Need to work on your naming of variables and methods  
+if you're checking for 0 or 1 as flags, you should use a boolean  
+Try to use less flags  
+Runners needs to be refactored for readability  
+Do this by making abstract, high level methods  
+attr_readers should each be on a new line  
 
 (evaluation scores)
 
