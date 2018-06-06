@@ -105,7 +105,7 @@ Clear and consistent commit messages following conventions. Would like to see mo
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### 
 
 * [GitHub URL]()
 
