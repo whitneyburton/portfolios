@@ -55,17 +55,16 @@ For Sportsball I created an application for people who want to know the bare min
 
 **Evaluator: Christie**
 
-**Specification Adherence:** TBD  
-**Code Qulaity:** TBD  
-**CSS/Design:** TBD 
-**Testing:** TBD  
-**Code Sanitation:** TBD 
-**Redux Architecture:** TBD
-**Routing:** TBD
-**Workflow:** TBD    
+**Specification Adherence:** 4  
+**Code Qulaity:** 4  
+**CSS/Design:** 4 
+**Testing:** 4  
+**Code Sanitation:** 3.5 
+**Redux Architecture:** 3
+**Workflow:** 3    
 
 **Feedback:**  
- 
+ Make more micro commits, separate components that access the store.
 
 ## C: Group Work & Projects
 
