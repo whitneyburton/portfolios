@@ -6,17 +6,17 @@ This being the first module, I was determined to start strong and develop a good
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3.5
-* **D: Professional Skills**: 3 
-* **E: Community Participation**: 2.5
+* **A: End-of-Module Assessment**: 
+* **B: Individual Work & Projects**: 
+* **C: Group Work & Projects**: 
+* **D: Professional Skills**: 
+* **E: Community Participation**:
 
 -----------------------
 
 ## A: **End of Module Assessment**
 
-(Indicate whether you passed or failed the end of module assessment)
+
 
 
 ## B: **Individual Work & Projects**
