@@ -24,7 +24,6 @@ What did you struggle most with this module? What did you learn from that strugg
 Link your blog post here. Include a short description of your topic (one sentence is fine).
 
 https://medium.com/@judedutton/designing-code-part-1-where-do-i-even-start-d5fb3e448247
-It's in progress but it's almost done and will be done before the review!
 
 My topic was way too large so I'm cutting it back into parts. The first part linked above dicusses one way of designing code by starting from the bottom up, using tests to design your code, and then writing the code needed to pass them. I want to focus on how this process is a great way to design clean and optimized code, but it's going to have be a series.
 
