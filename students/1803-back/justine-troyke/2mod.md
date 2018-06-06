@@ -21,7 +21,8 @@ unless I am told otherwise by a reliable source.
 ## Blog
 
 Link your blog post here. Include a short description of your topic (one sentence is fine).
-Using Pry - link to come, trying to get my screenshots
+  Having a troubleshooting plan and list of things that you make common errors on so that you don't spiral into a pit dis-errors.
+https://medium.com/@jjtroyke/dont-surrender-enter-armed-with-a-plan-49329ba3de83
 
 ## Projects
 
@@ -66,6 +67,7 @@ List of contributions:
   -Paired with Mod 1 students on coding and coping with stress/Turing life
   -Participated and substitute lead the Machine Learning Posse
   -Won a spot as one of the Top 8 Turing Talks
+  -Played(and won) in the Staff Vs. Student Basketball game
   -Participated in Aloha Friday with chutzpah.
 
 What would you like to do to contribute next module?
