@@ -59,3 +59,5 @@ Coming from an artistic background, I always assumed I needed to live in the fro
 
 ### What is the most important skill or lesson that you will take from Turing into your next job?
 Thinking programmatically, which is to say how to break down a much larger problems, is a skill I am finally starting to implement on a daily basis. Turing was easily the hardest thing I have ever done, so there is also the comforting knowledge that if I can graduate from Turing, there is nothing I cannot learn or accomplish. That being said, I know there is still much for me to learn, and many areas of coding on which I could improve.
+
+-Steven Lee Lawson
