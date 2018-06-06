@@ -68,11 +68,15 @@ Functionality: 2
 * [GitHub URL](https://github.com/MLuce/Enigma)
 * [Original Assignment](http://backend.turing.io/module1/projects/enigma)
 
-(description)
+This project was the first introduction to working with a partner on GitHub. The project utilized a rotating cipher (based on a random generated key and the current date) and encrypted a message.  The program then had to decrypt the message given the key and the date encrypted.  In addition, the program required a 'crack' method that would crack the encryption utilizing the knowledge that every message ended with '..end..'
 
 (evaluation comments)
 
-(evaluation scores)
+Ruby Syntax & Style: 3  
+Breaking Logic into Components: 3  
+Test-Driven Development: (missing grade) 
+Git Workflow: 3.5  
+Functionality: 4  
 
 #### (battleship)
 
