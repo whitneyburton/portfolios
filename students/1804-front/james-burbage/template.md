@@ -343,20 +343,35 @@ Technical Vocabulary
 * Advanced Beginner
 
 ## D: Professional Skills
-(Intro)
+
+Intro
+ * Turing's mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. Our vision is a world powered by technology where the people building it represent the people using it. We're here to build a movement.
+
+ * In order to advance this mission and vision, our curriculum transcends technical training. We also present students with opportunities to grow as individuals, members of a team, and members of a community.
+
+ * Gear Up provides a forum for students to develop self-awareness, interpersonal skills, and gain awareness of the issues preventing tech from being an inclusive space.
 
 ### Gear Up
-#### (Session Name)
+#### Health and Wellness
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Takeaways
+ * Stress can consume us and there are different types of stress. Stress management is something I need to work on.
+
+### Gear Up
+#### Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+
+Takeaways
+ * Women in the workforce are generally scrutinized nore than men and that women may not realize due to the 'normality' behind it. More women leave their tech careers in 10 years than men due to constant harassment and to non-promotions.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I was always willing to help my classmates when I could. I also enjoyed pairing and meeting with my mentor.
 
 ------------------
 
@@ -364,7 +379,7 @@ Technical Vocabulary
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
