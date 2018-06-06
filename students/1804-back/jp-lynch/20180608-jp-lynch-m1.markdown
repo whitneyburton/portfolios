@@ -61,40 +61,14 @@ pretty thorough testing
 Ruby Syntax & Style: 3  
 Breaking Logic into Components: 3  
 Test-Driven Development: 3  
-Functionality: 2  
-
-#### (engima)
-
-* [GitHub URL](https://github.com/MLuce/Enigma)
-* [Original Assignment](http://backend.turing.io/module1/projects/enigma)
-
-This project was the first introduction to working with a partner on GitHub. The project utilized a rotating cipher (based on a random generated key and the current date) and encrypted a message.  The program then had to decrypt the message given the key and the date encrypted.  In addition, the program required a 'crack' method that would crack the encryption utilizing the knowledge that every message ended with '..end..'
-
-(evaluation comments)
-
-Ruby Syntax & Style: 3  
-Breaking Logic into Components: 3  
-Test-Driven Development: (missing grade) 
-Git Workflow: 3.5  
-Functionality: 4  
-
-#### (battleship)
-
-* [GitHub URL](https://github.com/JPLynch35/Battleship)
-* [Original Assignment](http://backend.turing.io/module1/projects/battleship#start-game-sequence)
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+Functionality: 2   
 
 #### (blackthursday)
 
 * [GitHub URL](https://github.com/JPLynch35/black_thursday)
 * [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
 
-(description)
+This was the final Mod1 project, and was done with partners.  It included creating a database for real world sales data (customers, invoices, invoice items, transactions, merchants, and items) and producing analytics for vairous requests (top item by merchant, one-time buyers, etc).
 
 (evaluation comments)
 
@@ -104,20 +78,28 @@ Functionality: 4
 
 ### Projects
 
-(Intro)
+Group projects added another layer of complexity and difficulty to the code projects.  First you had to Define The Relationship, and make sure you both were on the same page with project-work expectations.  Throughout the project, you had to combine ideas for making it through a problem.  In addition, merge conflicts on GitHub would pop up from time to time, creating another GitHub step. 
 
-#### (Project Name)
+#### (engima)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/MLuce/Enigma)
+* [Original Assignment](http://backend.turing.io/module1/projects/enigma)
 
-(description)
+This project was the first introduction to working with a partner on GitHub. The project utilized a rotating cipher (based on a random generated key and the current date) and encrypted a message.  The program then had to decrypt the message given the key and the date encrypted.  In addition, the program required a 'crack' method that would crack the encryption utilizing the knowledge that every message ended with '..end..'
 
-(evaluation comments)
+Ruby Syntax & Style: 3  
+Breaking Logic into Components: 3   
+Git Workflow: 3.5  
+Functionality: 4  
 
-(evaluation scores)
+#### (battleship)
 
-(feedback to me)
+* [GitHub URL](https://github.com/JPLynch35/Battleship)
+* [Original Assignment](http://backend.turing.io/module1/projects/battleship#start-game-sequence)
+
+This project creates a REPL playable version of the game mastermind.  The user plays a game of battleship against the computer.  It starts with the player assigning the ship positions (2 and 3 unit log ships) in a 4x4 game board.  The player and the computer then take turns firing at positions until one side wins.
+
+Clear and consistent commit messages following conventions. Would like to see more use of branches for specific features. 
 
 ## D: Professional Skills
 (Intro)
