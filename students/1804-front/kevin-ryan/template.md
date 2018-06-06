@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Kevin Ryan) - (M1) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+(I set out to immerse myself in programming and to learn the foundational skills. As a completely new endevour I was, and still am excited about learning and establishing my identity as a programmer both thoughout Turing and beyond.)
 
 ## Rubric Scores
 
