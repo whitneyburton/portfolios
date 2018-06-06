@@ -40,52 +40,95 @@ Evaluation Comments:
   * This would ensure dynamic functionality
 * Can use optional params instead of accessors to make testing possible
 
-Ruby Syntax & Style: 2 
-Breaking Logic into Components: 3 
-Test-Driven Development: 3 
-Functionality: 3
+Evaluation scores:
+* Ruby Syntax & Style: 2
+* Breaking Logic into Components: 3
+* Test-Driven Development: 3
+* Functionality: 3
 
-#### (Project Name)
+#### Date Night
 
-* [GitHub URL](https://github.com/sdmalek44/mastermind)
-* [Original Assignment](http://backend.turing.io/module1/projects/mastermind)
+* [GitHub URL](https://github.com/sdmalek44/date_night)
+* [Original Assignment](http://backend.turing.io/module1/projects/date_night)
 
-(description)
+The goal of this project was to use a binary search tree to store and access movie scores and titles from Netflix. 
 
-(evaluation comments)
+Evaluation Comments:
+* Don't store the depth on the node
+* Need tests that cover the Node class functionality
+* Spaceship <=> should be used when you NEED an integer
+* Could refactor case/when to if else
+* Your tests should be as specific as possible. For example, don't just test after an insert that the node is in the tree, test that it is in the right spot
+* Good job following the spec
+* Because your child count method can take a node argument, you should test that
+* Don't name your variable it's datatype, i.e. 'array'
 
-(evaluation scores)
+Evaluation scores:
+* Ruby Syntax & Style: 2
+* Breaking Logic into Components: 3
+* Test-Driven Development: 2
+* Version Control: 2
+* Functionality: 3
 
 
-#### (Project Name)
+#### Battleship
 
-* [GitHub URL](https://github.com/sdmalek44/mastermind)
-* [Original Assignment](http://backend.turing.io/module1/projects/mastermind)
+* [GitHub URL](https://github.com/sdmalek44/battleship)
+* [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
-(description)
+The objective of this project was to create a battleship game that can be played in the terminal. The player will place ships on a grid and a computer player will place ships on a grid. The player will be prompted to take a shot and then is told whether or not it was a hit or a miss. The computer takes a shot at the players board after the players turn and so on. When computer or the player have sunk all the opponents ships it will prompt whether the player has won or lost and ask to restart the game or quit. 
 
-(evaluation comments)
+Evaluation Comments:
+* Beautiful style, I love reading your code!
+* Good number of commits, make sure messages are written in the imperative. Would like to see more branches throughout the project.
 
-(evaluation scores)
+Evaluation Scores:
+* Ruby Syntax & Style: 4
+* Breaking Logic into Components: 3
+* Test-Driven Development: 3
+* Version Control: 3
+* Functionality: 2.75
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+The group projects we have completed in Module 1 are Enigma, and Black Thursday.
 
-#### (Project Name)
+#### Enigma
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/sdmalek44/date_night)
+* [Original Assignment](http://backend.turing.io/module1/projects/enigma)
 
-(description)
+The objective of enigma was to build an encryption engine for encrypting, decrypting, and cracking messages. The program also needed to read messages from a file and output the converted message into another file. 
 
-(evaluation comments)
+Evaluation Comments:
+* All three things work
+* A lot of stuff jammed into Enigma class
+* Runner files could be refactored
 
-(evaluation scores)
+Evaluation Scores:
+* Ruby Syntax & Style: 3
+* Breaking Logic into Components: 3
+* Test-Driven Development: 3
+* Version Control: 3
+* Functionality: 3
 
-(feedback to me)
+Partner Feedback:
+* You were so patient with me and answered my numerous questions in very clear and easy to understand ways. The only coaching feedback I can think of is to maybe slow down at the beginning of the project and spend more time organizing how to lay the project out. We jumped right in to the coding and we may have been better off taking the time to read all of the directions, plan what classes we wanted, what programs we needed to use, etc. Thanks!
+
+#### Black Thursday
+
+* [GitHub URL](https://github.com/sdmalek44/black_thursday)
+* [Original Assignment](http://backend.turing.io/module1/projects/black_thursday)
+
+The objective of the black thursday project was to build a system to manage data and excecute businiess intelligence queries against the data from a typical e-commerce business. 
+
+Evaluation Comments: pending
+
+Evaluation Comments: pending
+
+feedback to me: pending
 
 ## D: Professional Skills
 (Intro)
