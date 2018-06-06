@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (James Burbage) - (M1) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I really wanted to absorb as much information as possible and pass the module. I also wanted to be confident in developing.
 
 ## Rubric Scores
 
