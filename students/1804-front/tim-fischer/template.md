@@ -93,9 +93,22 @@ Take a code base from a former student's IdeaBox project and refactor the code t
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Mental Health 101
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
+
+#### Code Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+
+
+#### Biohacking
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+
+
+
+
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
