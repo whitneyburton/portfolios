@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Tim Fischer - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+ During this module I set out to gain a fundamental understanding of Javascript and CSS styling. I was hoping to, in the process, acquire a greater understanding of what it means to be a memeber of the tech community and gain a personal identity as a developer.
 
 ## Rubric Scores
 
@@ -23,16 +23,48 @@
 
 (Intro)
 
-#### (Project Name)
+#### Static Comp 1
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/TFisch/TF-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 (description)
 
 (evaluation comments)
 
 (evaluation scores)
+
+#### Static Comp 2
+
+* [GitHub URL](https://github.com/TFisch/tf-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Static Comp 3
+
+* [GitHub URL](https://github.com/TFisch/tf-comp-challenge-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Number Guesser
+
+* [GitHub URL](https://github.com/TFisch/number-guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+(description)
+
+* [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/number-guesser/tim-fischer.md
+)
 
 ## C: Group Work & Projects
 
@@ -40,18 +72,45 @@
 
 (Intro)
 
-#### (Project Name)
+#### Linked List
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/Alexbruce1/Linked-List)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 (description)
 
 (evaluation comments)
 
-(evaluation scores)
+* [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/linked-list/tim-alex.md)
 
 (feedback to me)
+
+#### IdeaBox
+
+* [GitHub URL](https://github.com/brandonfiebiger/idea-box)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+(description)
+
+
+
+* [Evaluation scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/idea-box/brandonf-tim.md)
+
+(feedback to me)
+
+#### 2DoBoxPivot
+
+* [GitHub URL](https://github.com/GraySmith00/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+(description)
+
+(evaluation comments)
+
+* [Evaluation scores]()
+
+(feedback to me)
+
 
 ## D: Professional Skills
 (Intro)
