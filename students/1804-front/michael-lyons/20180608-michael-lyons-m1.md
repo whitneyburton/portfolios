@@ -91,7 +91,7 @@ Idea-Box is a jQuery note taking application that allows the user to sort their 
 
 ## D: Professional Skills
 
-This mod, we focused on building complete LinkedIn, GitHub, and Stack Overflow profiles, and additionally exploring our personal strengths using the StrengthsFinder application. We also focused on how to maintain a healthy head space using meditation and mental health accountability buddies.
+In mod1, we focused on building complete LinkedIn, GitHub, and Stack Overflow profiles, and additionally exploring our personal strengths using the StrengthsFinder application. We also focused on how to maintain a healthy head space using meditation and mental health accountability buddies.
 
 * [LinkedIn](https://www.linkedin.com/in/mikejohnlyons/)
 * [Github](https://github.com/michaelyons)
