@@ -621,11 +621,21 @@ Proficient
 
 
 ### Gear Up
+
 #### Self-Doubt
 
 * [GitHub URL](https://gist.github.com/JHighland/993daf8598b49253a2b205b524032c18)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Health and Wellness
+
+* [GitHub URL](https://gist.github.com/JHighland/a6f98b9d3cfe401596fdc7bd1c6bd51c)
+
+
+#### Debugging the Gender Gap
+
+* [GitHub URL](https://gist.github.com/JHighland/cdf602a79cf4f768489b3ca9b8338e9b)
 
 ## E: Community Participation
 
@@ -639,8 +649,61 @@ See above gear-up gist.
 
 ### Notes
 
-( Leave blanks for reviewers )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
