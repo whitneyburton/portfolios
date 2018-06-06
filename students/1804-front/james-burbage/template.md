@@ -1,4 +1,4 @@
-# (James Burbage) - (M1) Portfolio
+# James Burbage - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -25,7 +25,7 @@ I really wanted to absorb as much information as possible and pass the module. I
 
 #### (Project Name)
 
-* [GitHub URL]()
+* [GitHub URL](https://james-burbage.github.io/number-guesser/)
 * [Original Assignment]()
 
 (description)
