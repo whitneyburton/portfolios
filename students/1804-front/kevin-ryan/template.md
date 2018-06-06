@@ -56,14 +56,15 @@ Advanced Beginner
 
 ### Projects
  1. Linked List
- 2. Idea Box
- 3
+ 2. IdeaBox
+ 3. 2DoBox Pivot
 
 #### Linked List
 
 * [GitHub URL](https://github.com/K-Rye/Link-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
+(description)
 Build an application that allows users to create a bookmark for their favorite websites. The user is able to keep track of the sites they have read and also delete those they no longer want.
 
 (evaluation comments)
@@ -102,8 +103,33 @@ Proficient
 Technical Vocabulary
 Advanced Beginner
 
+#### IdeaBox
+
+* [GitHub URL](https://github.com/K-Rye/Idea-Box)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+
 (feedback to me)
 
+#### 2DoBox Pivot
+
+* [GitHub URL](https://github.com/K-Rye/2DoBox-Pivoit)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+
+(feedback to me)
 ## D: Professional Skills
 (Intro)
 
