@@ -138,25 +138,26 @@ Gear up is a way to help students achieve the schools mission and vision. It has
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I found the portion about different kinds of stress particularly interesting. I didn't know that eustress can be beneficial for you. It was interesting to find out what happens to your body physically when you get stressed out and how you can regulate your stress. It was good to know the things that can make you resiliant against stress since stress is a big thing for students at turing. 
+
 
 #### Debugging the Gender Gap
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The video we watched about debugging the gender gap opened my eyes to the scope of the gender problem. I never really thought about the pressure that women are under in the tech industry. Media culture tends to glorify women who are pretty and unintellegent which is not right. The TV and movies have depicted positions involving math, science, tech, etc. have been primarily filled with men which may discourage young women from going into those fields. Young women are being condidtioned in cases to think that they do not belong in these fields which is untrue. This was definately a good video for all to see to bring awareness to the problem. 
 
 #### AI Carumba!
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1804inning/ethics_of_AI.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This was a very good session because it made me to think about and express opinions about using AI in everyday life. It helped me to look at AI from an ethical standpoint. It helped me to realize many different types of AI that we use and don't even realize it. It made me realize that although we are coming a long way that it will be a very long time until we have one AI that is responsible for doing all tasks. It made me think about what AI that I would be willing to use if it were created and what I feel would be unecessary use.  
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I have tried to support the larger Turing community in a few different ways. First of all, because I know how difficult the work can be, I am always open for questions from other students about things they may be struggling with. I am always willing to help others with things they might think are confusing because I want everyone around me to succeed. I attended the SAB social basketball game and had fun with other students playing cornhole and watching the basketball game. It was a way for me to meet and form relationships with people from other mods. I have also joined a posse recently which will further my connection with the turing student body. I attended the code fair where I viewed and gave positive feedback to students who submitted their project. Everyday I am trying to meet more people from the school to strenghten my bond with the turing community.
 
 ------------------
 
@@ -164,8 +165,8 @@ Gear up is a way to help students achieve the schools mission and vision. It has
 
 ### Notes
 
-( Leave blanks for reviewers )
+
 
 ### Outcome
 
-( Leave blanks for reviewers )
+
