@@ -36,21 +36,22 @@ Build a game where the user guesses a number between 1 and 100.
  * Work on naming conventions
 
 (evaluation scores)
+
 Functional Expectations
-Advanced Beginner: Application meets all of the expectations of phase two.
+ * Advanced Beginner: Application meets all of the expectations of phase two.
 
 COMP RECREATION / DESIGN
-Advanced Beginner
-Proficient
+ * Advanced Beginner
+ * Proficient
 
 HTML
-Advanced Beginner
+ * Advanced Beginner
 
 CSS
-Advanced Beginner
+ * Advanced Beginner
 
 JS/jQuery
-Advanced Beginner
+ * Advanced Beginner
 
 ## C: Group Work & Projects
 
@@ -68,40 +69,40 @@ Advanced Beginner
 Build an application that allows users to create a bookmark for their favorite websites. The user is able to keep track of the sites they have read and also delete those they no longer want.
 
 (evaluation comments)
-HTML use target="_blank" for hrefs use margins vs br element
+ * HTML use target="_blank" for hrefs use margins vs br element
 
-CSS lists remove padding use padding on parent containers to position children
+ * CSS lists remove padding use padding on parent containers to position children
 
-JS look into using classList.toggle Explain jQuery selectors, this.closest (look up documentation)
+ * JS look into using classList.toggle Explain jQuery selectors, this.closest (look up documentation)
 
-GIT Work on more descriptive commit messages
+ * GIT Work on more descriptive commit messages
 
-Technical Vocab Had trouble explaining this.closest jquery nested selector
+ * Technical Vocab Had trouble explaining this.closest jquery nested selector
 
 (evaluation scores)
 Functional Expectations
 Proficient: Application meets all of the functional expectations in Phase Three.
 
 COMP RECREATION / DESIGN
-Proficient
+ * Proficient
 
 HTML
-Proficient
+ * Proficient
 
 CSS
-Advanced Beginner
+ * Advanced Beginner
 
 JS/jQuery
-Advanced Beginner
+ * Advanced Beginner
 
 GIT & GITHUB
-Advanced Beginner
+ * Advanced Beginner
 
 Pairing/Collaboration
-Proficient
+ * Proficient
 
 Technical Vocabulary
-Advanced Beginner
+ * Advanced Beginner
 
 #### IdeaBox
 
@@ -127,7 +128,6 @@ Advanced Beginner
 (evaluation comments)
 
 (evaluation scores)
-
 
 (feedback to me)
 ## D: Professional Skills
