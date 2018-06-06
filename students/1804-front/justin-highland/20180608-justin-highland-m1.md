@@ -5,7 +5,7 @@
 For this module I set out to accomplish a few things:
 The first being to gain a better understanding of html and css, 
 and javascript. I set out to do better than I had done in
-back end mod 1 (the previous mod before this one), which I believe was accomplished. In front end, the skills are different and just as challenging but feel I have a better grasp of coding in general because of my back end experience, even if it was extremely bittersweet. My main goal I set out to accomplish in the current mod was to pass the mod successfully while learning new FE skills.
+back end mod 1 (the previous mod before this one), which I believe was accomplished. In front end, the skills are different and just as challenging but feel I have a better grasp and understanding of coding in general because of my back end experience, combined with my front end experience. My main goal I set out to accomplish in the current mod was to pass the mod successfully while learning new FE skills, as well as developing a developer identity.
 
 ## Rubric Scores
 
@@ -19,12 +19,12 @@ back end mod 1 (the previous mod before this one), which I believe was accomplis
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+In my opinion, I believe I passed the module, however to be completely honest and genuine, it is borderline. In my final evals, I was a nervous overthinking wreck who had not gotten enough sleep through most if not all of the mod. I know for a fact I undrstand everything, however when put on the spot live coding it was like being dumbed down. It's similar to a music student performing to a far lesser degree than they are really capabable of when put on the spot performing in front of their teacher/instructor. I am completely ready and willing to do any work assigned before going to mod 2 if necessary. 
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+
 
 #### Number Guesser
 
