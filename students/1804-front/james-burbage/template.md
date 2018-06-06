@@ -30,7 +30,7 @@ I really wanted to absorb as much information as possible and pass the module. I
 
 * Build a game where the user guesses a number between 1 and 100.
 
-* Evaluation Comments
+## Evaluation Comments
 
 HTML
 * naming conventions - guess-input instead of input-box
@@ -45,27 +45,26 @@ JS
 * Check out style guides
 * Keep console logging!!!!!
 
-* Evaluation Scores
+## Evaluation Scores
 
-
-## Functional Expectations
+Functional Expectations
 
 * Advanced Beginner: Application meets all of the expectations of phase two.  
 
-## COMP RECREATION / DESIGN
+COMP RECREATION / DESIGN
 
 * Advanced Beginner  
 
-## HTML
+HTML
 
 * Advanced Beginner  
 * Proficient  
 
-## CSS
+CSS
 
 * Advanced Beginner  
 
-## JS/jQuery
+JS/jQuery
 
 * Advanced Beginner  
 
