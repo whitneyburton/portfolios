@@ -1,32 +1,91 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Paul Kim - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This being the first module, I was determined to start strong and develop a good foundational understanding of introduction front-end programming material in order to be successful in following mods.  Although there is endless information to learn, I feel i've developed a solid, driven work ethic to learn as much as i can everyday.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3 
+* **E: Community Participation**: 2.5
 
 -----------------------
 
-## A: End of Module Assessment
+## A: **End of Module Assessment**
 
 (Indicate whether you passed or failed the end of module assessment)
 
 
-## B: Individual Work & Projects
+## B: **Individual Work & Projects**
 
-(Intro)
+# Number Guesser
+* [GitHub URL](https://github.com/sojurner/Number-Guesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-#### (Project Name)
+### Description
+Javascript along with DOM Manipulation to create number guessing game.  User specifies a minimum number and a maximum number:
 
-* [GitHub URL]()
-* [Original Assignment]()
+* If guess is less than the random number; will indicate that number is too low
+* If guess is greater than the random number; will indicate that the number is too high
+* If guess is out of the specified ranges; will return and error.
+
+A correct guess, will increment the minimum and maximum range by ten and generate a new random number.
+
+### Notes/What To Work On:
+
+HTML
+* Use forms! Use aria-labels!
+* Switch to kabob-case
+
+CSS
+* use classes as standalone in declaration
+* pull duplicate declaration blocks into a more broad class to dry things up
+* May be easier to use percentages as widths
+
+JS
+* Leverage else ifs - always have an else for the catch all
+* be more verbose and descriptive in naming conventions
+* leverage console logs more and know what returns are doing (they will return a value from a function, and are only really necessary if we want to store the return value
+
+### Functional Expectations
+
+* Proficient: Application meets all of the expectations of phase three.  
+
+### COMP RECREATION / DESIGN
+
+* Advanced Beginner  
+* Proficient  
+
+#### HTML
+
+* Advanced Beginner  
+* Proficient  
+
+#### CSS
+
+* Advanced Beginner  
+* Proficient  
+
+#### JS/jQuery
+
+* Advanced Beginner  
+
+
+# Static Comp 1
+* [GitHub URL](https://github.com/sojurner/Static-Composition-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+# Static Comp 2
+* [GitHub URL](https://github.com/sojurner/Static-Composition-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+# Static Comp 2
+* [GitHub URL](https://github.com/sojurner/Static-Comp-3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+
 
 (description)
 
@@ -34,30 +93,276 @@
 
 (evaluation scores)
 
-## C: Group Work & Projects
+## **C: Group Work & Projects**
 
-### Projects
+# Linked List
+* [GitHub URL](https://github.com/sojurner/linked-list)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-(Intro)
+## Notes/What To Work On:
 
-#### (Project Name)
+### HTML
+- use a ul and li for list items
+- no extra labels
 
-* [GitHub URL]()
-* [Original Assignment]()
+### CSS
+- don't use px for fonts
+- don't nest selectors if not needed
+- no unneccessary css, e.g. padding 0
 
-(description)
+### JS
+- make sure to use a var when creating variables
 
-(evaluation comments)
+### GIT
+- Work on more descriptive commit messages
+    
+Love the animation!
 
-(evaluation scores)
+## Functional Expectations
+* Exceptional
 
-(feedback to me)
+### COMP RECREATION / DESIGN
+* Exceptional
 
-## D: Professional Skills
+### HTML
+* Advanced Beginner
+
+### CSS
+* Advanced Beginner 
+
+### JS/jQuery
+* Proficient
+
+### GIT & GITHUB
+* Advanced Beginner 
+
+### Technical Vocabulary
+* Advanced Beginner
+
+FeedBack from Partner, Thomas Scully:
+
+````
+Your continued dedication and hard work throughout the project was admirable and definitely kept us on track. Clearly articulating why and how your code functions will help future partners, in addition to following the standard Git flow while on a team. 
+````
+
+-----------------------------------
+
+# IdeaBox
+* [GitHub URL](https://github.com/sojurner/Idea-Box)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+
+
+Focus of the Project was to create a page that captures Ideas through user input.  Vanilla javascript was used to implement the functionality below.
+
+For each Idea the user submits, a card is created that provides the function to:
+
+    * Delete Specific Cards
+    * Up/Down Arrows to toggle importance value [Swill, Plausible, Genius] 
+
+A long list of ideas can be filtered to display a desired idea through the search box.
+
+In addition, local storage is utilized to maintain and remove user information on page reload.  As for client-side interface, responsiveness and appropriate styling was expected.
+
+
+## Notes/What To Work On:
+
+* Excellent comp implementation
+
+### HTML
+* Great use of aria-labels
+* Make sure you're pulling in fonts and scripts correctly
+
+### CSS
+* Consider adding organizational comments 
+* Leverage more broad class rules for maintainability
+
+### JS
+* When refactoring, Look for duplication, pull out into its own function and pass dynamic info as arguments
+* Work on naming conventions, tell a story 
+
+## Functional Expectations
+* Proficient
+
+### HTML
+
+#### Accessibility
+* Proficient
+
+#### Style
+* Proficient
+
+### CSS
+
+### Structure of Code
+* Advanced Beginner
+* Proficient
+
+## Implementation
+*Proficient 
+
+### JAVASCRIPT
+
+#### Data Types
+* Advanced Beginner
+*Proficient
+
+#### Conditional Logic
+* Advanced Beginner 
+* Proficient  
+
+#### Functions & Scope
+* Advanced Beginner
+* Proficient
+
+#### Arrays
+* Advanced Beginner
+* Proficient
+
+#### Objects & Prototypes
+* Advanced Beginner 
+* Proficient
+
+#### DOM Manipulation
+* Advanced Beginner 
+* Proficient
+
+#### Style
+* Proficient
+
+#### GIT & GITHUB
+* Advanced Beginner
+* Proficient
+
+#### Github
+* Advanced Beginner 
+* Proficient 
+
+#### DESIGN
+
+#### Comp Recreation
+* Proficient  
+
+#### Collaboration
+* Proficient 
+* Exceptional
+
+#### Technical Vocab
+* Proficient
+
+Have yet to recieve feedback from my partner Kevin Ryan
+
+# 2DoBox
+* [GitHub URL](https://github.com/sojurner/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+## Description
+A pivot from the IdeaBox project.  Inherited an existing codebase and refactored to limit duplication and remove unnecessary code while maintaining its overrall integrity/identity.  
+
+In addition to IdeaBox features:
+
+    * Importance quality now has 5 ratings [Critical, High, Normal, Low, None]
+    * Option to check marked as done; will hide card on page reload
+    * Option to show marked cards.
+    * Filter cards based on importance quality
+
+## Notes/What To Work On:
+
+Functional
+Partial phase 3, through importance
+
+UI
+Make input text different color from placeholder text
+remove quotes around body
+Show completed items, should have completed class
+
+ARIA
+all interactive elements should have an aria-label
+
+HTML
+Be careful with elements with only one child
+use cdn version of jquery
+
+GIT
+Make sure to use imperative present voice, be more descriptive with description
+
+JS
+Make sure you are using parameters in your functions, e.g. IdeaCard id parameter
+
+## Functional Expectations
+
+* Advanced Beginner  
+
+### HTML
+
+#### Accessibility
+* Advanced Beginner  
+
+#### Style
+* Proficient  
+
+#### CSS
+
+#### Structure of Code
+* Proficient  
+
+#### Implementation
+* Proficient  
+
+### JAVASCRIPT
+
+#### Data Types
+* Proficient  
+
+#### Conditional Logic
+* Proficient  
+
+#### Functions & Scope
+* Advanced Beginner  
+
+#### Arrays
+* Advanced Beginner  
+
+#### Objects & Prototypes
+* Advanced Beginner  
+
+#### DOM Manipulation
+* Proficient  
+
+#### Style
+* Advanced Beginner  
+
+### GIT & GITHUB
+
+#### Git
+* Advanced Beginner  
+
+#### Github
+* Advanced Beginner  
+
+## DESIGN
+
+#### Design Concepts
+* Proficient  
+
+## PAIRING
+
+#### Collaboration
+* Proficient  
+
+## TERMINOLOGY
+
+#### Technical Vocabulary
+* Proficient
+
+Have yet to receive feedback from partner, Nick Dambrosio
+
+
+# D: Professional Skills
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Health and Wellness
 
 * [GitHub URL]()
 
@@ -67,7 +372,10 @@
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Despite being an extreme introvert, I've made a conscious effort to participate in group study sessions.  While group discussions/sessions aren't a strength of mine, I thrive in one on one tutoring and have always took the time to help anyone who approaches me with questions. 
+
+I make my way to Turing every weekend to study and collaborate with peers to bridge any personal gaps in knowledge, and help others do the same.
+
 
 ------------------
 
