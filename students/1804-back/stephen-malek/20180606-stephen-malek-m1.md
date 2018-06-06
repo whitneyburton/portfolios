@@ -131,12 +131,24 @@ Evaluation Comments: pending
 feedback to me: pending
 
 ## D: Professional Skills
-(Intro)
+Gear up is a way to help students achieve the schools mission and vision. It has made me aware of many different issues in the tech industry. 
 
 ### Gear Up
-#### (Session Name)
+#### Health and Wellness 
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+#### AI Carumba!
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1804inning/ethics_of_AI.md)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
