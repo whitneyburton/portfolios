@@ -21,8 +21,6 @@ I really wanted to absorb as much information as possible and pass the module. I
 
 ## B: Individual Work & Projects
 
-(Intro)
-
 ## Number Guesser
 
 * [GitHub URL](https://james-burbage.github.io/number-guesser/)
