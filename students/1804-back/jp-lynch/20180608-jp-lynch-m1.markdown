@@ -28,7 +28,7 @@ I feel I progressed through the projects here in Mod1. In the first project (mas
 * [GitHub URL](https://github.com/JPLynch35/mastermind)
 * [Original Assignment](http://backend.turing.io/module1/projects/mastermind)
 
-Create a REPL playable version of the game mastermind.  The user tries to guess the computer generated code (by guessing colors in each position).  The game ends when the player correctly guesses the computer generated code.
+This project creates a REPL playable version of the game mastermind.  The user tries to guess the computer generated code (by guessing colors in each position).  The game ends when the player correctly guesses the computer generated code.
 
 Too may attr_readers  
 Too much in initialize  
@@ -40,18 +40,28 @@ Runners needs to be refactored for readability
 Do this by making abstract, high level methods  
 attr_readers should each be on a new line  
 
-(evaluation scores)
+Ruby Syntax & Style: 2  
+Breaking Logic into Components: 2  
+Test-Driven Development: 3  
+Functionality: 3  
 
 #### (sortingcards)
 
 * [GitHub URL](https://github.com/JPLynch35/SortingCards)
 * [Original Assignment](http://backend.turing.io/module1/projects/sorting_cards)
 
-(description)
+This project utilizes nested classes which can access other classes to gain information.  It starts with a card, then builds a deck, then creates a round.  The round is required to access the deck class, the card class, and also a guess class.
 
-(evaluation comments)
+overall pretty good  
+clean  
+card class does not follow spec in regards to value  
+record_guess does not return guess object  
+pretty thorough testing  
 
-(evaluation scores)
+Ruby Syntax & Style: 3  
+Breaking Logic into Components: 3  
+Test-Driven Development: 3  
+Functionality: 2  
 
 #### (engima)
 
