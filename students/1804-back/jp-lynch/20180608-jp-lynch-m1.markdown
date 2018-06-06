@@ -102,12 +102,23 @@ This project creates a REPL playable version of the game mastermind.  The user p
 Clear and consistent commit messages following conventions. Would like to see more use of branches for specific features. 
 
 ## D: Professional Skills
-(Intro)
+The professional skills learned at Turing will be extremely valuable not just for our careers, but our outside social interactions.  Turing developers us as a community of people, and not just as single developers. 
 
 ### Gear Up
 #### 
 
-* [GitHub URL]()
+Mental Health 101
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+Code Debugging The Gender Gap
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+Winning Through Failure
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1804inning/winning_through_failure.md)
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
