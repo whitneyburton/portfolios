@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
- During this module I set out to gain a fundamental understanding of Javascript and CSS styling. I was hoping to, in the process, acquire a greater understanding of what it means to be a memeber of the tech community and gain a personal identity as a developer.
+ During this module I set out to gain a fundamental understanding of Javascript and CSS styling. I was hoping to, in the process, acquire a greater understanding of what it means to be a member of the tech community and gain a personal identity as a developer.
 
 ## Rubric Scores
 
@@ -58,7 +58,7 @@ Build a game where the user guesses a number between 1 and 100.
 
 ### Projects
 
-These projects implemented the challenge of working with another person to create a single item. Making sure each party fully understood every idea and appication of the project was often a struggle and communication had to constantly be expanded upon. Proper planning is essential, but those plans often have to be altered to accomidate the state of the project or personal lives. When presented with complications you are brought to a crossroads of solutions. Do you trust your own understandings, take the advice of classmates, or former mod 1 students? One, multiple or none of these could be the correct answer.  
+These projects implemented the challenge of working with another person to create a single item. Making sure each party fully understood every idea and application of the project was often a struggle and communication had to constantly be expanded upon. Proper planning is essential, but those plans often have to be altered to accommodate the state of the project or personal lives. When presented with complications you are brought to a crossroads of solutions. Do you trust your own understandings, take the advice of classmates, or former mod 1 students? One, multiple or none of these could be the correct answer.  
 
 #### Linked List
 
@@ -90,33 +90,33 @@ Take a code base from a former student's IdeaBox project and refactor the code t
 
 
 ## D: Professional Skills
- Initally Personal Develop and Gear Up sessions brought such questions as "Am I really going to learn something I don't already know?" or "Do we even have time for this?" Each of these lessons pressed a hard "Yes" to both questions. Sometimes the information was not necassarily something new, but rather presented in a new way. I already knew I was an introvert, but the PD session taught me that the act of being alone served as a rest period for me. This was something I had experienced my entire life, but I wasn't aware of it until the developement session. The StrengthsFinder traits showed me a lot about myself. Many small pieces I have learned about myself, such as these, helped me to establish my identity as a developer.
+ Initially Personal Develop and Gear Up sessions brought such questions as "Am I really going to learn something I don't already know?" or "Do we even have time for this?" Each of these lessons pressed a hard "Yes" to both questions. Sometimes the information was not necessarily something new, but rather presented in a new way. I already knew I was an introvert, but the PD session taught me that the act of being alone served as a rest period for me. This was something I had experienced my entire life, but I wasn't aware of it until the development session. The StrengthsFinder traits showed me a lot about myself. Many small pieces I have learned about myself, such as these, helped me to establish my identity as a developer.
 
 ### Gear Up
 #### Mental Health 101
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
 
-The biggest take aways from this Gear Up was how to indentify different types of stress and how to manage them. On a personal level I learned how to identify personal triggers that methods that help me to handle stressful situations. Although a lot of these practices seem easy to implement, I constantly have to remind myself to utilize them, as the stress of a heavy workload itself can be a duanting distraction.
+The biggest take-aways from this Gear Up was how to identify different types of stress and how to manage them. On a personal level I learned how to identify personal triggers that methods that help me to handle stressful situations. Although a lot of these practices seem easy to implement, I constantly have to remind myself to utilize them, as the stress of a heavy workload itself can be a daunting distraction.
 
 #### Code Debugging the Gender Gap
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
 
-Debugging the Gender Gap brings up the predomimant issues of gender inequality in the tech issue. The documentary depicts many times throughout industry where women have been disincluded, mostly as a result of a lack of postive norms. Not only is the female gender underrepresented in the tech community, but we have perpetuated an environment of discouragement in the form of irrelevant stereotypes of a programmer. As an individual I can help by deminishing the culture of the "bro-grammer" and encouraging those that I believe might be successful in software development despite their preconceived notions.
+Debugging the Gender Gap brings up the predominant issues of gender inequality in the tech issue. The documentary depicts many times throughout industry where women have been unincluded, mostly as a result of a lack of positive norms. Not only is the female gender underrepresented in the tech community, but we have perpetuated an environment of discouragement in the form of irrelevant stereotypes of a programmer. As an individual I can help by deminishing the culture of the "bro-grammer" and encouraging those that I believe might be successful in software development despite their preconceived notions.
 
 
 #### Biohacking
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
 
-The Biohacking Gear Up helped me to identify the many sub cultures within the genre. Not only could it apply to fringe technical self enhancements, but also biological augmentation and DNA alteration. Many people came into this Gear Up with varying impressions and we all gained a general understading of each field. It is a fascinating sub culture that can be as easy to implement as altering one's diet.
+The Biohacking Gear Up helped me to identify the many sub cultures within the genre. Not only could it apply to fringe technical self enhancements, but also biological augmentation and DNA alteration. Many people came into this Gear Up with varying impressions and we all gained a general understanding of each field. It is a fascinating sub culture that can be as easy to implement as altering one's diet.
 
 ## E: Community Participation
 
 ### Playing a Part
  
- As a Mod 1 student it can be somewhat challenging to find myself as contributing to the bigger community of Turing. Initially it was essential to develop positive habits as a student and learn about my personal identity as a developer. Beyond that I find it essential to talk about my place in the school as often as possible. Not long ago did the role of a programmer seem like something I wouldn't even have interest in. By explaning to other what it really means to be a developer, I can help sqaush negative stereotypes and possibly encourage people to pursue a path similiar to my own.
+ As a Mod 1 student it can be somewhat challenging to find myself as contributing to the bigger community of Turing. Initially it was essential to develop positive habits as a student and learn about my personal identity as a developer. Beyond that I find it essential to talk about my place in the school as often as possible. Not long ago did the role of a programmer seem like something I wouldn't even have interest in. By explaining to other what it really means to be a developer, I can help squash negative stereotypes and possibly encourage people to pursue a path similar to my own.
 
 ------------------
 
