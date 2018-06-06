@@ -5,27 +5,62 @@ From the beginning of the module I wanted to make sure that I had a strong grasp
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+I feel I have passed the the end of module assessment. I was able to get through the last iteration an hour early which gave me time to go back and refactor to make sure I was using the correct enumberables in the right situations. I was able to effectively break up the difficult problems into smaller methods to help solve the big problem. I went over and made sure I was testing everything that was specified in the spec. I was able to make different classes work together effectively. My code worked correctly and it was fairly concise. I went through and made sure my methods were 5 lines and no more than 80 characters wide. Overall, I feel I did very well on the end of module assessment. 
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+The individual projects I have completed during Module 1 are Mastermind, Date Night, and Battleship.
+
+#### Mastermind
+
+* [GitHub URL](https://github.com/sdmalek44/mastermind)
+* [Original Assignment](http://backend.turing.io/module1/projects/mastermind)
+
+Mastermind was my first project at turing. The goal was to create a game with ruby code that you can play in the terminal. My version of mastermind allows you to choose a difficulty and depending on that difficulty sets a random sequence of different colored elements. The game will prompt the user to enter a guess of what they think the elements are and in what order. If incorrect the game will tell you how many of the correct element you have guessed and how many are in the correct position. You keep guessing until you get the correct sequence. When you guess the sequence correctly it will prompt you that you won, how many guesses you made and how long it took you. 
+
+Evaluation Comments:
+* time array in text class is a great place for a hash
+* Don't put data type in variable name
+* Rename Text class to something about user input
+* If you are nesting, probably a good sign for a refactor
+* You should break your runner file into methods
+* Variable names aren't idomatic
+* Generating the answer based on difficulty could be it's own method
+  * This would ensure dynamic functionality
+* Can use optional params instead of accessors to make testing possible
+
+Ruby Syntax & Style: 2 
+Breaking Logic into Components: 3 
+Test-Driven Development: 3 
+Functionality: 3
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/sdmalek44/mastermind)
+* [Original Assignment](http://backend.turing.io/module1/projects/mastermind)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+
+#### (Project Name)
+
+* [GitHub URL](https://github.com/sdmalek44/mastermind)
+* [Original Assignment](http://backend.turing.io/module1/projects/mastermind)
 
 (description)
 
