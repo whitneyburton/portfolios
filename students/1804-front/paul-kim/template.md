@@ -358,19 +358,19 @@ Professional Skills are probably my weakest points. I have an issue on focusing 
 ### Gear Up
 #### Health and Wellness
 
-    * [GitHub URL] https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md
+    * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
 
 Any skill or trade requires work-life balance in order to be successful. Implementing a balance lifestyle opens doors to a cascade of benefits that positively affect us on multiple levels.  Exercise, proper nutrition, meditation, pomadores, and adequate sleep all reset our physiological meter and enable us to be more effective each day.  Recently, I have begun to take nutrition seriously and have implemented time-restricted eating + high fat/low carb diet. While the long-term effects are yet to be determined, I have definitely felt an immediate difference in mental performance as I am more focused and not as easily distracted. 
  
 #### Code 2.0
 
-    * [GitHub URL] https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md
+    * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
 
 As an Asian American growing up in California, I was surrounded by the concept of inclusivity, diversity and the gender gap in the U.S. workforce.  So I agree with many of the issues addressed in the video. I think all people deserve the oppurtunity to follow their passion and not be bogged down by societal pressures.  Desipite women having many unique strengths and so many things to offer, its a shame that a gender gap exists in the tech industry. I am very grateful for the all oppurtunies that i've had to be successful and happy and those oppurtunities were possible because of an all-inclusive and diverse environment. 
 
 #### Bio-hacking
     
-    * [GitHub URL] https://github.com/turingschool/gear-up/blob/master/m4_sessions/1804inning/biohacking.md
+    * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1804inning/biohacking.md)
 
 Bio-hacking encompasses a multitude of categories as mentioned in the presentation. I am naturally drawn to nutrition and fitness and so the one particular category that intrigued me was on nutrigenomics presented by Joseph. He mentioned the consumption of probiotics to maintain proper gut flora and how it ties with our mental performance and overrall physiological health.  Growing up I ate Kimchi, but stopped consuming it when I left home.  After the gear-up I went straight to a local asian market and bought a jar of Kimchi.  He also mentioned the effects of a low carb/high fat diet and how it mimics the fasting state up to 70%.
 
