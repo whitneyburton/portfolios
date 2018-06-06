@@ -243,18 +243,104 @@ Technical Vocab
 * Advanced Beginner Can articulate what is going on in the overall codebase and uses the correct terminology some of the time.
 * Proficient Can articulate what is going on in the codebase, line by line, using the correct terminology most of the time. Developer can speak to and answer questions that utilize technical vocabulary.
 
-#### 2DoBox
+### 2DoBox
 
 * [GitHub URL](https://github.com/laurakwhit/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
+Description
+* Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
 
-(evaluation comments)
+#### Evaluation Comments
 
-(evaluation scores)
+Functional
+ * Add feedback for save button, not working
+ * Prevent more than 120 letters from being typed
+ * Re-enable save button if less than 120 letters
 
-(feedback to me)
+2 Extensions
+
+Aria
+ * Make sure to use Aria on all interactive
+
+ * Be very careful with floats, if you need to float right, try to use flexbox
+
+JS
+ * Storing ideas in an array before putting in localStorage
+ * When using ternaries in if/else statements consider combining the conditional from the ternary and the conditional from the if statement e.g. the conditional in changeImportance
+
+HTML
+ * Use header/footer
+
+ * Practice vocabulary
+
+
+Functional Expectations
+* Exceptional  
+
+#### Evaluation Scores
+
+HTML
+
+Accessibility
+* Advanced Beginner  
+
+Style
+* Advanced Beginner  
+
+CSS
+
+Structure of Code
+* Proficient  
+
+Implementation
+* Proficient  
+
+JAVASCRIPT
+
+Data Types
+* Proficient  
+
+Conditional Logic
+* Advanced Beginner  
+
+Functions & Scope
+* Proficient  
+
+Arrays
+* Proficient  
+
+Objects & Prototypes
+* Proficient  
+
+DOM Manipulation
+* Proficient  
+
+Style
+* Proficient  
+
+GIT & GITHUB
+
+Git
+* Proficient  
+
+Github
+* Proficient  
+
+DESIGN
+
+Design Concepts
+* Proficient  
+
+PAIRING
+
+Collaboration
+* Proficient  
+
+TERMINOLOGY
+
+Technical Vocabulary
+* Advanced Beginner
 
 ## D: Professional Skills
 (Intro)
