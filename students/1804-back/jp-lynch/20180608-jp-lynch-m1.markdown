@@ -110,23 +110,23 @@ The professional skills learned at Turing will be extremely valuable not just fo
 Mental Health 101
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Understanding your mental health is an important concept, especially at Turing.  Learning to understand your warning signs of stress, and what can de-stress you will follow you through any job.  Proper stress management can produce better results in any project you work through.
 
 Code Debugging The Gender Gap
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+The gender gap problem, that is especially a problem in tech, is important to learn early in a tech career.  The issue stems from not accepting it as a problem to begin with.  Once it is accepted as a problem, steps can be taken to correct the issue and to make sure everyone is aware of the blatant social issue.
 
 Winning Through Failure
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1804inning/winning_through_failure.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Failure is an inevitable part of life.  If you choose not to accept failure, then you choose not to accept progress.  We idolize all these people who have done these amazing feats, but what we don’t see is all the failure along the way.  The secret to success, is to never give up at failure.  Use it as a learning point, and you’ll be sure not to make the same mistake again.  Fail, fail, fail, fail, succeed.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I attended the Machine Learning posse early in Mod1, but then I became a little overwhelmed with other work that I stopped attending.  I want to get back to a posse, now that I have a solid base to lean on for the rest of Turing.  Eventually, I would like to run a posse.
 
 ------------------
 
