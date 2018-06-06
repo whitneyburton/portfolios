@@ -23,16 +23,53 @@ I really wanted to absorb as much information as possible and pass the module. I
 
 (Intro)
 
-#### (Project Name)
+#### Number Guesser
 
 * [GitHub URL](https://james-burbage.github.io/number-guesser/)
-* [Original Assignment]()
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-(description)
+* Build a game where the user guesses a number between 1 and 100.
 
-(evaluation comments)
+* Evaluation Comments
 
-(evaluation scores)
+HTML
+* naming conventions - guess-input instead of input-box
+* add aria-label to inputs
+
+CSS
+* Dry it up!
+* Pull duplicate declaration blocks into a more broad class, and override where necessary
+
+JS
+* Say more in naming conventions - more descriptive and make sure that functions read like an action
+* Check out style guides
+* Keep console logging!!!!!
+
+* Evaluation Scores
+
+
+## Functional Expectations
+
+* Advanced Beginner: Application meets all of the expectations of phase two.  
+
+## COMP RECREATION / DESIGN
+
+* Advanced Beginner  
+
+## HTML
+
+* Advanced Beginner  
+* Proficient  
+
+## CSS
+
+* Advanced Beginner  
+
+## JS/jQuery
+
+* Advanced Beginner  
+
+
 
 ## C: Group Work & Projects
 
