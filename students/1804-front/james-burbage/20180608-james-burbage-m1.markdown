@@ -406,7 +406,7 @@ Takeaways
 
 ### Playing a Part
 
-I was always willing to help my classmates when I could. I also enjoyed pairing and meeting with my mentor.
+I was always willing to help my classmates when I could. I also enjoyed pairing and meeting with my mentor. I love the tech community as a whole and want to go to more meetups.
 
 ------------------
 
