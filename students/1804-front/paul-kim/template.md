@@ -244,7 +244,9 @@ In addition, local storage is utilized to maintain and remove user information o
 #### Technical Vocab
 * Proficient
 
-Have yet to recieve feedback from my partner Kevin Ryan
+Feedback from partner, Kevin Ryan:
+
+    * Paul is a great listener and does a good job of talking through his thinking. He is also patient, asks good questions and allows enough time for his partner to think and respond. Paul is also a hard worker and works through projects to completion, never giving up, always looking for a solution or a better, more efficient way to solve a problem. I would encourage Paul to make sure he is making time for self care. Paul, you work hard and seem to grind through problems without taking frequent breaks. Set a timer and stick with it, don't be tempted to get that last problem solved before taking a break. I have struggled with sleeping since starting at Turing but even if you're struggling to sleep, try to stay away from your computer. Read a book, exercise, listen to music. Find something to draw your attention away from work.
 
 # 2DoBox
 * [GitHub URL](https://github.com/sojurner/2DoBox-Pivot)
@@ -349,7 +351,9 @@ Make sure you are using parameters in your functions, e.g. IdeaCard id parameter
 #### Technical Vocabulary
 * Proficient
 
-Have yet to receive feedback from partner, Nick Dambrosio
+Feedback from partner, Nick Dambrosio:
+
+    * Paul's ability to methodically walk through problems to get to logical solutions is beyond admirable. He'll look at the problem as a whole and then address it piece by piece until he comes up with the most effective solution. He was incredibly patient and made sure that I was understanding everything along the way, and then devoted extra time to ensuring I knew exactly what every line or function was doing.  I hope I get the pleasure of working with him again in the future. His time management with juggling all of our deadlines was also commendable. He made sure that we weren't devoting extra time to features that we either didn't need or didn't need extra attention. Once we obtained a desirable/clean/functioning feature, he picked everything up and pushed forwards to the next objective. Paul did an incredible job at ensuring I was involved and engaged throughout his processes for 2DoBox. If I was even remotely in a place to give him coaching feedback, I'd say to do that even more. One of his functions took me quite a while to wrap my head around, but that's infinitely more on me than his responsibility.
 
 
 # D: Professional Skills
