@@ -124,10 +124,16 @@ My biggest contribution to the community this mod is just being there for the mo
 
 ## Final Review
 
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
+
 ### Notes
 
 ( Leave blanks for reviewers )
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
