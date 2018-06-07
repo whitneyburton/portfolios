@@ -98,8 +98,15 @@ While I found it difficult to pair with others during this mod, I tried to make 
 
 ### Notes
 
-( Leave blanks for reviewers )
+- personal project: open source science search
+- make sure to polish pitch on personal project
+- make sure in mod 4 to mentor/pair with people from 3. Figure who is most receptive to your teaching
 
-### Outcome
+### Outcome: Pass
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 2.5
+
