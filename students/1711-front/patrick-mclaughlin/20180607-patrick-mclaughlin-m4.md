@@ -25,3 +25,6 @@ Mod 4 gave me a pretty good idea of the flow of a website from server to client.
 Thinking about the skillset Turing gave me, I really was not sure how to answer at first. I didn't really get the ability to learn here, nor the ability to work hard. I had those things already. I would have to say my biggest takeaway from my time at Turing is probably to believe in my own abilities, and that if I really want something, that I am able to put in a tremendous amount of effort to go and get it. Prior to coming to Turing, I had incredible doubts about my ability to succeed here. I knew I was smart, and I knew that I can put in hard work. I just had doubts in my ability to deliver in an environment in which I had no background experience in. So, now I leave here knowing that I can tackle any problem I run into, I have the abilities to take it head on and deliver.
 
 From a more technical stand point, I do feel like Turing gave me the tools to be a valuable contributor to any develop team I am a part of. I am cognizant of how I should engage with fellow teammembers, and to write code with developer empathy. 
+
+## 30 Day Plan
+(https://gist.github.com/patrickmc21/23942fb754041563fad7039d3114e290)
