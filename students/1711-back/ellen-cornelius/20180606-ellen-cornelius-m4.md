@@ -34,7 +34,14 @@ For technical skills, I am really good at breaking a problem down into its small
 
 I think working in the front-end was really interesting and would like to pursue opportunities where I can work full-stack.
 
+It reframed that there is still a ton of logic on the front end and how to manipulate the incoming data e.g. How I needed data with an id so I could make a new div,  and iterating over data arrays and objects. Definitely inspired me to keep working on JavaScript fundamentals after graduation and jQuery and manipulating the DOM.
+
+I also gained a better understanding of what micro services are and how actual software applications are structured. 
+
+Also, I realized yesterday again just how much of a process deployment is and dealing with unexpected bugs in production.
+
 ### What is the most important skill or lesson that you will take from Turing into your next job?
 
+The best thing Turing gave me is faith in myself to solve problems and being okay facing the unknown. Did this in learnin gnew technologies like JavaScript, jQuery PostGIS.
 
 30 Day Action Plan: https://gist.github.com/corneliusellen/456c29f57c88e289ffc700c04197a288
