@@ -33,27 +33,27 @@ In runner, your objects don't instance variables
 Some of your classes can be condensed into one class
 Correct elements should be broken into helper methods
 
-()
+(No grading rubric scores)
 
 #### (Sorting Cards)
 
 * [GitHub URL](https://github.com/wehttamclan/sorting_cards)
 * [Original Assignment](http://backend.turing.io/module1/projects/sorting_cards)
 
-(In this project, you will write a program that is used through the command line. A user will be able to see cards, guess what the card is, and sort the cards.)
+In this project, you will write a program that is used through the command line. A user will be able to see cards, guess what the card is, and sort the cards.
 
-(Overall clean
+Overall clean
 used bubble sort
-be careful with testing)
+be careful with testing
 
-(1. Ruby Syntax & Style
+1. Ruby Syntax & Style
 3: Meets expectations
 2. Breaking Logic into Components
 3: Meets expectations
 3. Test-Driven Development
 3: Meets expectations
 4. Functionality
-3: Meets expectations)
+3: Meets expectations
 
 #### (Battleship)
 
