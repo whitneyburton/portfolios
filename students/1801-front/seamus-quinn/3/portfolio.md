@@ -118,8 +118,14 @@ I organized the Students vs. Staff SAB Basketball event, which proved to be wild
 
 ### Notes
 
-( Leave blanks for reviewers )
+- Headcount helped understand react
+- personal project helped understand redux
+- been reluctant to leave the school/learning environment
 
-### Outcome
+### Outcome: Pass
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 2.5
+* **E: Community Participation**: 4
